@@ -225,6 +225,10 @@ public static partial class Spanish
         Drg(Add);
         War(Add);
         Pld(Add);
+        Gnb(Add);
+        Acn(Add);
+        Sch(Add);
+        Ast(Add);
 
         return lines;
     }
