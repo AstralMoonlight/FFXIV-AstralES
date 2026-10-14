@@ -1,0 +1,30 @@
+key	text
+TEXT_XXAUSB503_03867_SEQ_00	Marques tiene un pedido personal para ti.
+TEXT_XXAUSB503_03867_SEQ_01	Mientras atendía los cuerpos de los fallecidos recientes, Marques encontró un reloj roto. El artefacto le resulta extrañamente familiar al refugiado, y espera que, si lo arregla, recordará qué significa para él. Marques te pide que lo ayudes consiguiendo las herramientas necesarias: un cincel de punta y unas pinzas de punta fina, que deberían conseguirse en Camp Drybone.
+TEXT_XXAUSB503_03867_SEQ_02	Tus averiguaciones en Camp Drybone te llevan a las herramientas que buscas. Llévaselas a Marques en la Church of Saint Adama Landama.
+TEXT_XXAUSB503_03867_SEQ_03	Apenas recibe las herramientas, Marques se pone a trabajar y repara el reloj, como por instinto ─ algo que solo sirve para inquietar todavía más al atormentado refugiado. Se disculpa por las molestias y te pide que le lleves el aparato a la Sister Eluned, que está atendiendo el cuerpo de su dueño afuera de la iglesia.
+TEXT_XXAUSB503_03867_SEQ_04	La Sister Eluned nunca vio un aparato tan complejo como el reloj, que le recuerda a las maravillas tecnológicas que se dice que tiene Garlemald. Esa asociación la lleva a sospechar que el difunto dueño podría haber sido un espía garlean, y piensa avisar a los Immortal Flames destacados en Camp Drybone. Pero que Marques haya podido reparar el reloj parece una revelación todavía más asombrosa, que también merece investigarse.
+TEXT_XXAUSB503_03867_TODO_00	Dale el weighty coinpurse al orfebre ambulante.
+TEXT_XXAUSB503_03867_TODO_01	Llévale las herramientas a Marques.
+TEXT_XXAUSB503_03867_TODO_02	Dale el horologe a Eluned.
+TEXT_XXAUSB503_03867_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
+TEXT_XXAUSB503_03867_MARQUEZ_000_000	Disculpe, <split(<string(gstr1)>, ,1)>... ¿tiene un momento? Es sobre este reloj roto que encontraron en el bolsillo de un hombre que trajeron aquí para enterrar.
+TEXT_XXAUSB503_03867_MARQUEZ_000_001	Hay algo... familiar en él... pero no sé decir qué. Quizás, si lo toqueteo un poco, me venga a la memoria.
+TEXT_XXAUSB503_03867_MARQUEZ_000_002	Pero no tengo las herramientas adecuadas. Quería pedirle que fuera a Camp Drybone en mi lugar a conseguir un cincel de punta y unas pinzas de punta fina.
+TEXT_XXAUSB503_03867_MARQUEZ_000_003	Los orfebres las usan mucho, así que quizás lo mejor sea preguntarles a ellos.
+TEXT_XXAUSB503_03867_MARQUEZ_000_004	Claro que no espero que las pague usted. Tome, lleve esta bolsa de monedas. Debería alcanzar.
+TEXT_XXAUSB503_03867_GOLGSMITHXXXXX_000_010	¿Un cincel de punta, dices? ¿Y unas pinzas de punta fina? Esas cosas no son baratas, ¿sabes?...
+TEXT_XXAUSB503_03867_GOLGSMITHXXXXX_000_011	¡Por las barbas de Thal! Digo, sí, con eso alcanza. Un gusto hacer negocios contigo. Je, je...
+TEXT_XXAUSB503_03867_GOLGSMITHXXXXX_000_020	¡Ay! ¿Tú otra vez? Antes de que preguntes, no, no devuelvo el dinero. ¡No es que haya nada malo con las excelentes herramientas que te vendí!
+TEXT_XXAUSB503_03867_MARQUEZ_000_030	¿Trajo las herramientas que le pedí?
+TEXT_XXAUSB503_03867_MARQUEZ_000_031	Hmmm... se me ocurre algo. Por favor, espere aquí un momento.
+TEXT_XXAUSB503_03867_MARQUEZ_000_032	Fue en vano. Aunque reparé el aparato con facilidad, esta sensación que se agita en mí sigue siendo un misterio.
+TEXT_XXAUSB503_03867_MARQUEZ_000_033	Pero ¿cómo... cómo lo hice?
+TEXT_XXAUSB503_03867_MARQUEZ_000_034	Estas manos... mis manos se movían solas, manejando con destreza los mecanismos de relojería...
+TEXT_XXAUSB503_03867_MARQUEZ_000_035	No hubo duda ni vacilación. Sabía exactamente qué hacer, como si hubiera hecho esos mismos movimientos incontables veces...
+TEXT_XXAUSB503_03867_MARQUEZ_000_036	P-Perdone, <split(<string(gstr1)>, ,1)> ─ esto fue un error. Por favor, dele el reloj a la Sister Eluned. El hombre que era su dueño está ahora a su cuidado, y creo que lo mejor es que se lo devuelvan.
+TEXT_XXAUSB503_03867_ELUNED_000_040	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>. ¿Vino a presentar sus respetos a este hombre?
+TEXT_XXAUSB503_03867_ELUNED_000_041	Nunca vi un aparato tan extraño. ¿Dice que mide el paso del tiempo?
+TEXT_XXAUSB503_03867_ELUNED_000_042	Quizás sean más comunes en Garlemald. Tengo entendido que sus ciudades están llenas de toda clase de tecnologías asombrosas.
+TEXT_XXAUSB503_03867_ELUNED_000_043	¿Marques dijo que era del difunto? Ay, Dios... ¿No creerá que el dueño podría haber sido un espía garlean? Quizás nos convenga avisar a las autoridades de Camp Drybone.
+TEXT_XXAUSB503_03867_ELUNED_000_044	Pero... quizás más importante, ¿cómo logró Marques reparar este aparato? Sabía que tenía talento para los oficios, pero esto va mucho más allá de arreglar cercas y techos de paja...
