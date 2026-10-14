@@ -1,8 +1,8 @@
 # AstralES
 
-Plugin de [Dalamud](https://github.com/goatcorp/Dalamud) que traduce al español latino los tooltips de FFXIV: las descripciones de habilidades, rasgos y estados (buffs y debuffs).
+Plugin de [Dalamud](https://github.com/goatcorp/Dalamud) que traduce FFXIV al español latino: los tooltips de habilidades, rasgos y estados (buffs y debuffs) y la historia principal.
 
-Los nombres propios (habilidades, estados, medidores, jobs) se mantienen en inglés, tal como aparecen en la barra de acciones y en las guías.
+Los nombres propios (habilidades, estados, medidores, jobs, personajes, lugares, misiones) se mantienen en inglés, tal como aparecen en el juego y en las guías.
 
 ## Instalación
 
@@ -19,7 +19,8 @@ Los nombres propios (habilidades, estados, medidores, jobs) se mantienen en ingl
 ## Qué está traducido
 
 - Acciones generales (Sprint, Teleport, Limit Break…) y acciones de rol.
-- Habilidades, rasgos y estados de **Black Mage** (con Thaumaturge), **White Mage**, **Sage**, **Bard**, **Dancer**, **Monk**, **Viper** y **Dark Knight**.
+- Habilidades, rasgos y estados de **Black Mage** (con Thaumaturge), **White Mage**, **Sage**, **Bard**, **Dancer**, **Monk**, **Viper**, **Dark Knight** y **Dragoon** (con Lancer).
+- Historia principal (diálogos, cinemáticas, Journal y Duty List): el inicio en las tres ciudades hasta "Close to Home", y toda la parte de Gridania hasta "The Gridanian Envoy". Limsa Lominsa y Ul'dah vienen después.
 
 Lo que no tiene traducción se muestra en inglés, igual que siempre.
 
