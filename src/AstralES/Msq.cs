@@ -37,6 +37,7 @@ public sealed unsafe class Msq : IDisposable
     };
 
     private static readonly Regex SpeakerPrefix = new(@"^\(-(.*?)-\)", RegexOptions.Compiled);
+    private static readonly Regex Counter = new(@"\s+\d+/\d+$", RegexOptions.Compiled);
 
     private readonly IAddonLifecycle lifecycle;
     private readonly IClientState clientState;
@@ -146,7 +147,8 @@ public sealed unsafe class Msq : IDisposable
                 if (value.Value is null)
                     continue;
 
-                var plain = Normalize(value.AsReadOnlySeStringSpan().ExtractText());
+                var text = value.AsReadOnlySeStringSpan().ExtractText();
+                var plain = Normalize(text);
 
                 if (diagnostics() && plain.Any(char.IsLetter))
                     Report($"[diag] {args.AddonName} arreglo[{i}]: {value.AsReadOnlySeStringSpan().ToMacroString()}");
@@ -154,6 +156,9 @@ public sealed unsafe class Msq : IDisposable
                 // managed: the array keeps its own copy; suppressUpdates: we are already inside the update.
                 if (table.TryGetValue(plain, out var spanish))
                     strings->SetValue(i, spanish.Data.Span, false, true, true);
+                // Kill objectives carry their count in the same string: "Slay ground squirrels. 0/3".
+                else if (Counter.Match(text) is { Success: true } counter && table.TryGetValue(Normalize(text[..counter.Index]), out spanish))
+                    strings->SetValue(i, ReadOnlySeString.FromMacroString(spanish.ToMacroString() + counter.Value).Data.Span, false, true, true);
             }
         }
         catch (Exception ex)
