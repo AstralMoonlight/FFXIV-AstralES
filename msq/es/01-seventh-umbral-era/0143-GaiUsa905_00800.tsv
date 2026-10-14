@@ -1,0 +1,27 @@
+key	text
+TEXT_GAIUSA905_00800_SEQ_00	Aethelmaer quiere que te quedes con el botón.
+TEXT_GAIUSA905_00800_SEQ_01	Aethelmaer te confía el lily button, la pista más prometedora hasta ahora en la investigación de los asesinatos, y te sugiere mostrárselo a Miounne en el Adventurers' Guild de Gridania. Quizás ella reconozca el emblema.
+TEXT_GAIUSA905_00800_SEQ_02	Aunque a Miounne le encanta lo bien trabajado que está el botón, no conoce el emblema. Te sugiere mostrárselo a Bernadette, la centinela de vista aguda que monta guardia en la plaza del aetheryte.
+TEXT_GAIUSA905_00800_SEQ_03	Por desgracia, Bernadette no reconoce el emblema del lirio. A su vez, te sugiere que lo examine la Wood Wailer Ceinguled, que está frente al Lancers' Guild.
+TEXT_GAIUSA905_00800_SEQ_04	Ceinguled recuerda haber visto a un hombre llamado Ursandel con un botón idéntico en el pecho de la chaqueta. Lo encontrarás junto a la entrada del Gentry's Ward, al noroeste del Lancers' Guild.
+TEXT_GAIUSA905_00800_SEQ_05	Ursandel reconoce enseguida el emblema de la antigua y orgullosa familia Dartancour. Con un suspiro de resignación, acepta revelar la verdad detrás de los asesinatos misteriosos... con la condición de que prometas ayudarlo en lo que sin duda será una tarea desagradable.
+TEXT_GAIUSA905_00800_TODO_00	Muéstrale el lily button a Miounne.
+TEXT_GAIUSA905_00800_TODO_01	Muéstrale el lily button a Bernadette.
+TEXT_GAIUSA905_00800_TODO_02	Muéstrale el lily button a Ceinguled.
+TEXT_GAIUSA905_00800_TODO_03	Muéstrale el lily button a Ursandel.
+TEXT_GAIUSA905_00800_AETHELMAER_000_000	Quiero que se quede con el lily button. Lo va a necesitar para seguir con su investigación.
+TEXT_GAIUSA905_00800_AETHELMAER_000_001	Aunque no es el procedimiento habitual confiarles pruebas clave a particulares, usted demostró ser confiable y capaz en este asunto. No veo por qué no debería seguir con su trabajo.
+TEXT_GAIUSA905_00800_AETHELMAER_000_002	Si me permite una sugerencia, quizás le convenga llevar el botón a Gridania para que lo examine Miounne. Puede que alguien de su enorme red de contactos sepa algo del emblema.
+TEXT_GAIUSA905_00800_MIOUNNE_000_010	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <split(<string(gstr1)>, ,1)>. Por tu cara seria, sospecho que no vienes por bollos y té de hierbas.
+TEXT_GAIUSA905_00800_MIOUNNE_000_011	Vaya, qué botoncito tan precioso. El grabado es exquisito ─ de calidad artesanal, diría yo. ¿Dónde dijiste que lo encontraste? ...¿En un cadáver? <italic(1)>Precioso<italic(0)>.
+TEXT_GAIUSA905_00800_MIOUNNE_000_012	En fin, me temo que no reconozco el emblema del lirio. Vas a tener que encontrar la respuesta a la antigua ─ preguntando por ahí. No sería mala idea empezar por Bernadette, en la plaza del aetheryte. Tiene muy buen ojo, esa muchacha.
+TEXT_GAIUSA905_00800_BERNADETTE_000_020	¿Necesita ayuda para encontrar al dueño de un botón? No es un pedido que reciba todos los días. Bueno, adelante ─ muéstreme lo que tiene.
+TEXT_GAIUSA905_00800_BERNADETTE_000_021	Hmmm... Parece una especie de botón decorativo, como los que usaban las familias de antaño, aunque no puedo decir que conozca el emblema. Lo que sí puedo decirle con certeza es que el lirio blanco es un motivo recurrente en la cultura gridaniana.
+TEXT_GAIUSA905_00800_BERNADETTE_000_022	Por desgracia, no sé quién lo usaría como emblema personal. Si hay alguien en Gridania que lo sepa, es Ceinguled, allá en el Lancers' Guild. Se propone conocer a todos los ciudadanos por su nombre.
+TEXT_GAIUSA905_00800_CEINGULED_000_030	¿Bernadette cree que puedo ayudarle? Bueno, eso es suponer mucho. Lo intentaré, no tema, pero si sale algo de eso es otro asunto. A ver, ¿qué necesita de mí?
+TEXT_GAIUSA905_00800_CEINGULED_000_031	Fascinante... Rara vez se ve un trabajo de esta calidad en manos de gridanianos comunes. El dueño de este botón sin duda es gente acomodada. Quizás le convenga llevar su búsqueda al Gentry's Ward, al noroeste de aquí.
+TEXT_GAIUSA905_00800_CEINGULED_000_032	Espere. Me viene un recuerdo. Últimamente hay un hombre que está siempre sentado en el banco de la entrada del distrito. Se llama Ursandel, y recuerdo muy bien haber visto un botón muy parecido en el pecho de su chaqueta. Me atrevo a decir que <italic(1)>él<italic(0)> puede contarle un par de cosas.
+TEXT_GAIUSA905_00800_URSANDEL_000_040	No creo que nos conozcamos. Le ruego que me deje con mis pensamientos.
+TEXT_GAIUSA905_00800_URSANDEL_000_041	\<jadeo> ¡El emblema de la familia Dartancour! ¿Cómo... cómo llegó este botón a sus manos?
+TEXT_GAIUSA905_00800_URSANDEL_000_042	...¿Del cuerpo de una mujer asesinada? Su... su cara... ¿estaba desfigurada de algún modo?
+TEXT_GAIUSA905_00800_URSANDEL_000_043	Lo temía... \<suspiro> Ya no puedo fingir ignorancia. Le revelaré la verdad sobre las muertes, pero con una condición: que me prometa poner fin a la locura de mi señora y liberarla de su tormento.

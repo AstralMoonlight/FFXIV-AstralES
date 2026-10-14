@@ -1,0 +1,26 @@
+key	text
+TEXT_GAIUSA701_00774_SEQ_00	Meffrid necesita tu ayuda para salvar a un compañero herido.
+TEXT_GAIUSA701_00774_SEQ_01	Desesperado por salvar la vida de su compañero, Meffrid quiere probar un viejo remedio alamhigano. Consigue cuatro long antelope horns y llévaselos.
+TEXT_GAIUSA701_00774_SEQ_02	Conseguiste cuatro long antelope horns. Vuelve rápido a Quarrymill y dáselos a Meffrid.
+TEXT_GAIUSA701_00774_SEQ_03	Meffrid no tiene con qué preparar los cuernos. Te pide que los lleves a Buscarron's Druthers para que el dueño, Buscarron, prepare la medicina en su lugar.
+TEXT_GAIUSA701_00774_SEQ_04	Buscarron tuvo la amabilidad de darte medicina de sus propias reservas. Vuelve rápido a Quarrymill y entrégale el pot of herbal ointment a Faramund.
+TEXT_GAIUSA701_00774_SEQ_05	Gracias a tu ayuda, Gallien tiene muchas más posibilidades de sobrevivir. Poco a poco, te estás ganando la confianza de Meffrid y de sus hermanos de la Ala Mhigan Resistance.
+TEXT_GAIUSA701_00774_TODO_00	Mata antelope stags para conseguir sus cuernos.
+TEXT_GAIUSA701_00774_TODO_01	Entrégale los long antelope horns a Meffrid.
+TEXT_GAIUSA701_00774_TODO_02	Entrégale los antelope horns a Buscarron.
+TEXT_GAIUSA701_00774_TODO_03	Entrégale el herbal ointment a Faramund.
+TEXT_GAIUSA701_00774_MEFFRID_000_000	Traje a mis hombres a Quarrymill con la esperanza de encontrar refugio ─ y en cambio encontramos indiferencia. Estos desalmados nos quieren fuera, y yo no veo la hora de complacerlos. El problema es que algunos de los míos no están en condiciones de viajar ─ ¡demonios, Gallien ni siquiera puede <italic(1)>pararse<italic(0)>!
+TEXT_GAIUSA701_00774_MEFFRID_000_001	Como bien sabes, la gente de esta maldita aldea no nos va a ayudar. Así que no me queda otra que recurrir a ti, aventurer<if(gnum4,a,o)>.
+TEXT_GAIUSA701_00774_MEFFRID_000_002	En mi tierra, el cuerno largo de antílope es un remedio tradicional que purga el veneno. Si pudieras traerme, digamos, cuatro cuernos, te estaría eternamente agradecido.
+TEXT_GAIUSA701_00774_SYSTEM_000_000	Dammy: ¡Consigues cuatro cuernos de antílope!
+TEXT_GAIUSA701_00774_MEFFRID_000_010	¡Ah, volviste! ¡Dime que traes cuatro cuernos!
+TEXT_GAIUSA701_00774_MEFFRID_000_020	¡Eres una bendición de los dioses, aventurer<if(gnum4,a,o)>! Alabado sea Rhalgr, por lo menos hay <italic(1)>una<italic(0)> persona en este lugar a quien le importa. Ahora solo tenemos que encontrar la forma de prepararlos...
+TEXT_GAIUSA701_00774_MEFFRID_000_021	¿No conocerás por casualidad a un hombre llamado Buscarron? Unos compañeros me hablaron de él una vez. Dijeron que nunca le da la espalda a quien lo necesita, venga de donde venga.
+TEXT_GAIUSA701_00774_MEFFRID_000_022	Como lleva una taberna, seguramente tiene las herramientas para preparar la medicina. Te agradecería que le llevaras los cuernos para que los muela. Cuando esté listo, trae el polvo y dáselo a Faramund, aquí presente. Que los dioses te acompañen.
+TEXT_GAIUSA701_00774_BUSCARRON_000_030	Ah, <split(<string(gstr1)>, ,1)>, ¡siempre es un gusto verte! ¿Cómo van las aventuras? ¡Nadando en monedas como si no hubiera mañana, seguro!<br>...¿Hm? ¿Tienes algo para mostrarme?
+TEXT_GAIUSA701_00774_BUSCARRON_000_040	Bueno, parecen unos buenos cuernos de antílope. ¿Hay que molerlos para hacer una medicina, dices?
+TEXT_GAIUSA701_00774_BUSCARRON_000_041	Tengo una idea mejor: te doy un poco de la que tengo en mis reservas. Sí, conozco bien el remedio. Un amigo alamhigano me lo usó una vez para curarme una herida infectada, hace muchísimos años. Puede decirse que me salvó la vida.
+TEXT_GAIUSA701_00774_BUSCARRON_000_042	¿Qué dices? ¿Esto es <italic(1)>para<italic(0)> un soldado alamhigano en Quarrymill? Je, así que la cosa cierra el círculo... Bueno, espero que le sirva al pobre diablo que la necesita. Ah, y no te preocupes por el pago ─ creo que todavía te debo bastante más de lo que tú me debes a mí.
+TEXT_GAIUSA701_00774_FARAMUND_000_050	Me alegra que haya vuelto. ¿Tiene la medicina para nuestro hermano?
+TEXT_GAIUSA701_00774_FARAMUND_000_060	¡Que los dioses l<if(gnum4,a,o)> bendigan, aventurer<if(gnum4,a,o)>! ¡Me encargaré de que Gallien reciba el tratamiento enseguida!
+TEXT_GAIUSA701_00774_FARAMUND_000_061	Ojalá esto le permita al capitán descansar más tranquilo. Ha sido una carga terrible para él intentar mantener con vida a cada hombre. Nos hizo un gran favor, amig<if(gnum4,a,o)>.
