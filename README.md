@@ -45,7 +45,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 
 ## Jobs
 
-**14 de 23 jobs traducidos**, con sus clases base. Las acciones de rol y las generales (Sprint, Teleport, Limit Break…) también están traducidas, con sus estados.
+**Los 23 jobs traducidos**, con sus clases base. Las acciones de rol y las generales (Sprint, Teleport, Limit Break…) también están traducidas, con sus estados.
 
 | Rol | Job | Habilidades, rasgos y estados |
 |---|---|---|
@@ -59,21 +59,19 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | | Sage | ![Traducido][ok] |
 | **Melee** | Monk (Pugilist) | ![Traducido][ok] |
 | | Dragoon (Lancer) | ![Traducido][ok] |
-| | Ninja (Rogue) | ![Pendiente][no] |
-| | Samurai | ![Pendiente][no] |
-| | Reaper | ![Pendiente][no] |
+| | Ninja (Rogue) | ![Traducido][ok] |
+| | Samurai | ![Traducido][ok] |
+| | Reaper | ![Traducido][ok] |
 | | Viper | ![Traducido][ok] |
 | **Ranged** | Bard (Archer) | ![Traducido][ok] |
-| | Machinist | ![Pendiente][no] |
+| | Machinist | ![Traducido][ok] |
 | | Dancer | ![Traducido][ok] |
 | **Caster** | Black Mage (Thaumaturge) | ![Traducido][ok] |
-| | Summoner (Arcanist) | ![Pendiente][no] |
-| | Red Mage | ![Pendiente][no] |
-| | Pictomancer | ![Pendiente][no] |
-| **Limitado** | Blue Mage | ![Pendiente][no] |
-| | Beastmaster | ![Pendiente][no] |
-
-Los jobs pendientes ya muestran en español algunas líneas que comparten con otros (duraciones, efectos comunes), pero la mayor parte de su texto sigue en inglés.
+| | Summoner (Arcanist) | ![Traducido][ok] |
+| | Red Mage | ![Traducido][ok] |
+| | Pictomancer | ![Traducido][ok] |
+| **Limitado** | Blue Mage | ![Traducido][ok] |
+| | Beastmaster | ![Traducido][ok] |
 
 ## Historia
 
