@@ -1,0 +1,33 @@
+key	text
+TEXT_GAIUSD205_01203_SEQ_00	G'raha Tia está listo para dirigirse a la compañía de NOAH reunida.
+TEXT_GAIUSD205_01203_SEQ_01	Ahora que está asegurado un camino por el Labyrinth of the Ancients, es hora de que la compañía de NOAH discuta la siguiente etapa de la expedición. Empieza por informarle a Rammbroes de tus avances.
+TEXT_GAIUSD205_01203_SEQ_02	El hallazgo más importante de tu primer reconocimiento es también el más evidente: los mecanismos de la Crystal Tower, dormidos durante tanto tiempo, de algún modo despertaron. Para saber qué los puso en marcha después de varios miles de años de quietud, no queda más remedio que seguir adelante y subir hasta la aguja misma. Pero, dado el peligro que eso implica, se acuerda no hacer más incursiones hasta que Cid y sus asistentes hayan analizado a fondo la siguiente línea de defensa de la torre. Ante la perspectiva de una larga espera, G'raha Tia te advierte que no te quedes de brazos cruzados, sin duda porque prevé que los desafíos que vienen castigarán cualquier señal de oxidación en tu técnica.
+TEXT_GAIUSD205_01203_TODO_00	Habla con Rammbroes.
+TEXT_GAIUSD205_01203_GRAHATIA_000_000	Ya que está presente toda la compañía de NOAH, ¡es hora de abrir la sesión!
+TEXT_GAIUSD205_01203_GRAHATIA_000_001	Rammbroes presidirá la reunión. Si tuvieras la amabilidad de avisarle que estás list<if(gnum4,a,o)> para empezar...
+TEXT_GAIUSD205_01203_RAMMBROES_000_010	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. Justo estaba leyendo sobre su encuentro en el Labyrinth of the Ancients. Me alegra mucho ver que salió de la experiencia sin daño.
+TEXT_GAIUSD205_01203_RAMMBROES_000_011	Para su referencia, agregué mis propias notas al informe preliminar de la expedición de G'raha, y empecé a compilar un registro de reconocimiento de la Crystal Tower. La información que contiene estará a su disposición en todo momento. Si tiene alguna pregunta, no tiene más que hacerla.
+TEXT_GAIUSD205_01203_RAMMBROES_000_012	Ahora, si no hay objeciones, empezaré con un resumen de los principales logros de la expedición.
+TEXT_GAIUSD205_01203_RAMMBROES_000_020	En el curso de esta, nuestra primera incursión en los terrenos de la Crystal Tower, logramos neutralizar las defensas exteriores de la estructura y luego asegurar el laberinto que rodea la base de la aguja.
+TEXT_GAIUSD205_01203_RAMMBROES_000_021	Según el relato de <split(<string(gstr1)>, ,1)>, las defensas del laberinto estaban de lo más activas. Y lo que es inquietante: su informe también menciona un enfrentamiento violento con un centinela muy potenciado por la tecnología allagan...
+TEXT_GAIUSD205_01203_CID_000_022	En pocas palabras: nuestras sospechas tenían fundamento. La Crystal Tower no salió a la superficie solo por el caótico movimiento de la tierra ─ de algún modo, <italic(1)>volvió a despertar<italic(0)>.
+TEXT_GAIUSD205_01203_CID_000_023	Si, como parece cada vez más probable, los secretos de la torre resultan demasiado peligrosos para compartirlos con el mundo, no tendremos más remedio que contenerlos. Salvo que arrasemos el lugar, eso casi seguro implicará devolver sus mecanismos a un estado de reposo. Pero para hacer <italic(1)>eso<italic(0)>, primero tendremos que averiguar cómo funcionan ─ y la respuesta seguramente nos espera dentro de la torre misma. En conclusión: ahí es adonde tenemos que ir.
+TEXT_GAIUSD205_01203_GRAHATIA_000_024	Una tarea bastante más fácil de decir que de hacer, si los peligros del laberinto sirven de indicio...
+TEXT_GAIUSD205_01203_RAMMBROES_000_025	Entonces propongo que se posponga toda exploración de la torre hasta que se haya completado un análisis exhaustivo de las defensas de la estructura. Maestro Garlond, ¿puedo confiarle esta tarea?
+TEXT_GAIUSD205_01203_CID_000_026	Será un placer.
+TEXT_GAIUSD205_01203_WEDGE_000_027	¡No se olviden de nosotros!
+TEXT_GAIUSD205_01203_BIGGS_000_028	Es como dijo usted, jefe ─ fundamos los Ironworks para asegurarnos de que la tecnología se usara por las razones correctas, y eso significa asegurarnos de que no se use por las equivocadas. No estaríamos haciendo nuestro trabajo si no llegáramos hasta el final.
+TEXT_GAIUSD205_01203_CID_000_029	Muchachos... ¡Bueno, espero que estén listos para unas tareas que les van a romper la espalda!
+TEXT_GAIUSD205_01203_GRAHATIA_000_030	Bueno, parece que aquí todo está en orden, así que me despido de ustedes por ahora. Si he de ver con mis propios ojos cómo se desarrolla esta historia de valor, ¡tengo que pulir mis habilidades de combate antes de que subamos a la aguja!
+TEXT_GAIUSD205_01203_RAMMBROES_000_031	No harás nada de eso, G'raha. Tu saber puede serle útil a la investigación del maestro Garlond.
+TEXT_GAIUSD205_01203_GRAHATIA_000_032	Como observador, en sentido estricto no estoy sujeto a tu autoridad...
+TEXT_GAIUSD205_01203_GRAHATIA_000_033	No me malinterpretes, <split(<string(gstr1)>, ,1)>. Sé muy bien que jamás estaré a la altura de alguien con tu talento innato, por mucho que entrene. Aun así, te ruego que no dejes que tus habilidades se oxiden por falta de uso durante la pausa que viene.
+TEXT_GAIUSD205_01203_GRAHATIA_000_034	Te necesitaremos en plena forma si nuestras próximas incursiones han de ser tan productivas como esta. Fíjate bien: todavía no hemos visto más que un fugaz atisbo de lo que el tiempo ocultó. Pero pronto apartaremos el velo y contemplaremos la gloria del Allagan Empire.
+TEXT_GAIUSD205_01203_RAMMBROES_000_035	Y con ese pensamiento alentador, es hora de cerrar esta asamblea. Concentrémonos todos en nuestras tareas, para que la próxima expedición pueda empezar cuanto antes. ¡Se levanta la sesión!
+TEXT_GAIUSD205_01203_NERO_000_040	Qué desastre tan terrible. Aunque deja la puerta abierta de par en par, por así decirlo.
+TEXT_GAIUSD205_01203_NERO_000_041	Uno no puede menos que impresionarse. Empiezo a entender por qué confías tanto en los aventureros, viejo amigo.
+TEXT_GAIUSD205_01203_NERO_000_042	Así que... este es el legado que dejó el Allagan Empire.
+TEXT_GAIUSD205_01203_NERO_000_043	Si mis lecturas son correctas, la fuente de energía que espera en lo alto de la torre está a la altura incluso del Ultima Weapon. No... lo supera.
+TEXT_GAIUSD205_01203_NERO_000_044	Je, je, je... Un juguete nuevo para mí.
+TEXT_GAIUSD205_01203_NERO_000_045	Creí que el destino había vuelto a conspirar para negarme la recompensa que merezco... pero parece que tenía reservado para mí un destino mayor.
+TEXT_GAIUSD205_01203_NERO_000_046	Y mientras arda mi ambición, lucharé por alcanzarlo. El sueño sigue vivo, Cid... ¡No me decepciones!

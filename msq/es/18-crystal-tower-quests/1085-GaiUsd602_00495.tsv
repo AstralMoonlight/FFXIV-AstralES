@@ -1,0 +1,65 @@
+key	text
+TEXT_GAIUSD602_00495_SEQ_00	Con aire de quien pone punto final, Rammbroes parece decidido a sellar la Crystal Tower de una vez por todas.
+TEXT_GAIUSD602_00495_SEQ_01	Les cuentas a Cid y a Rammbroes lo que pasó en el World of Darkness. De pronto llega corriendo un investigador y te dice, presa del pánico, que G'raha Tia está echando a los investigadores de la Crystal Tower. Vuelve rápido a los Eight Sentinels y habla con el miembro de los Sons of Saint Coinach para saber qué está pasando.
+TEXT_GAIUSD602_00495_SEQ_02	Corres a la Crystal Tower. Antes de que puedas entrar a averiguar qué ocurre, G'raha te pide que te detengas. Parece que piensa sellar las puertas quedándose él dentro. Te revela que los sobrevivientes de la Calamidad de la Cuarta Era Umbral rezaron para que la torre fuera un faro de esperanza en el futuro. Para hacerlo realidad, la princesa Salina ─ la última de la realeza allagan ─ le entregó su sangre y sus recuerdos a su consejero de mayor confianza. Ese hombre era antepasado de G'raha. Ahora, para que el deseo de los antiguos se cumpla, el historiador decidió sumir otra vez la Crystal Tower en un largo sueño. Te deja una tarea: construir un futuro brillante. Su despedida se apaga mientras se cierra la Crystal Tower. Lo mejor será volver con Rammbroes y hablar de todo lo sucedido.
+TEXT_GAIUSD602_00495_SEQ_03	Aunque la torre está en silencio y Cid se fue en busca de nuevas empresas, Rammbroes jura que NOAH no se disolverá. Promete seguir adelante ─ en honor al deseo transmitido desde la antigua Allag, en honor al sacrificio de Unei y Doga, y en honor al futuro de G'raha. Ahora, un nuevo amanecer llegó a Eorzea.
+TEXT_GAIUSD602_00495_TODO_00	Habla con el miembro de los Sons of Saint Coinach.
+TEXT_GAIUSD602_00495_TODO_01	Informa a Rammbroes.
+TEXT_GAIUSD602_00495_RAMMBROES_000_000	Confío en que haya descansado, <if(gnum4,amiga mía,amigo mío)>. Bien. Quiero sellar la torre ya... pero antes hay algo que debemos hacer.
+TEXT_GAIUSD602_00495_RAMMBROES_000_001	Déjeme llamar a los demás para oír completo lo que pasó al otro lado de la grieta.
+TEXT_GAIUSD602_00495_RAMMBROES_000_010	...Así que el Allagan Eye que se transmite en el linaje de G'raha <italic(1)>sí<italic(0)> significa que corre sangre real por sus venas.
+TEXT_GAIUSD602_00495_RAMMBROES_000_011	Supongo que no es tan raro pensar que sus antepasados la obtuvieron con tecnología antigua. Pero ¿quién le infundió esa sangre a su familia, y con qué propósito?
+TEXT_GAIUSD602_00495_RAMMBROES_000_012	Quizá todo esto fue obra del destino, desde el descubrimiento de la torre hasta que G'raha recibiera la sangre de Unei y Doga.
+TEXT_GAIUSD602_00495_BIGGS_000_013	¿G'raha dijo algo? Y ya que estamos, ¿dónde <italic(1)>está<italic(0)> G'raha? ¿Y qué hay de Nero?
+TEXT_GAIUSD602_00495_CID_000_014	No sé de nuestro historiador, pero Nero salió de la torre conmigo. Adónde desapareció desde entonces, no sabría decirlo.
+TEXT_GAIUSD602_00495_CID_000_015	Pero conociéndolo como lo conozco, no creo que vaya a conspirar contra nosotros por ahora. ...Aunque <italic(1)>sigue<italic(0)> siendo Nero.
+TEXT_GAIUSD602_00495_RAMMBROES_000_016	<split(<string(gstr1)>, ,1)>, dice que G'raha se quedó en la Crystal Tower. Me pregunto si ya estará preparándose para sellar el lugar.
+TEXT_GAIUSD602_00495_INVESTIGATORA_000_017	¡Señor Rammbroes! ¡Señor Rammbroes!
+TEXT_GAIUSD602_00495_INVESTIGATORA_000_018	¡Es G'raha Tia, señor! ¡Entró a la Crystal Tower y empezó a echar a los investigadores!
+TEXT_GAIUSD602_00495_RAMMBROES_000_019	¿Qué? ¿Por qué haría algo así?
+TEXT_GAIUSD602_00495_INVESTIGATORA_000_020	No lo sé, señor, pero insistió mucho. Prácticamente me sacó a empujones por las puertas.
+TEXT_GAIUSD602_00495_INVESTIGATORA_000_021	Supongo que quizá se lo dijo a alguno de los otros, pero no perdí tiempo en averiguarlo. Me pareció mejor venir corriendo a pedirle instrucciones.
+TEXT_GAIUSD602_00495_RAMMBROES_000_022	Muy bien. Vayamos a hablar con esos investigadores y lleguemos al fondo de este extraño asunto.
+TEXT_GAIUSD602_00495_RAMMBROES_000_023	Maestro Garlond, <split(<string(gstr1)>, ,1)>, vengan conmigo, por favor. Sin duda G'raha piensa sellar la Crystal Tower, pero me preocupa que no nos haya dicho ni una palabra de su plan.
+TEXT_GAIUSD602_00495_INVESTIGATORB_000_030	¿Qué demonios estaba pensando G'raha Tia al exigirnos que saliéramos de la torre?
+TEXT_GAIUSD602_00495_INVESTIGATORB_000_031	Sin duda quiere saber por qué. ¡Ojalá lo supiera yo!
+TEXT_GAIUSD602_00495_INVESTIGATORB_000_032	Por supuesto, a mí no me dijo nada. Pero con usted será sincero, <if(gnum4,señorita,señor)> ─ ¡estoy seguro!
+TEXT_GAIUSD602_00495_GRAHATIA_000_040	(-???-)¡No sigan, amigos! Las puertas se cerrarán dentro de poco.
+TEXT_GAIUSD602_00495_RAMMBROES_000_041	Así que <italic(1)>sí<italic(0)> piensas sellar la torre, G'raha.
+TEXT_GAIUSD602_00495_RAMMBROES_000_042	Sé que el tiempo apremia, pero solo te pido una pista de tu plan. Por favor, ven aquí para que lo hablemos.
+TEXT_GAIUSD602_00495_GRAHATIA_000_043	...No. Lo siento, pero no puedo.
+TEXT_GAIUSD602_00495_RAMMBROES_000_044	Vamos, hombre, ¿¡qué tontería es esta!? Si algo va mal, ¡seguro que podemos ayudar!
+TEXT_GAIUSD602_00495_GRAHATIA_000_045	Esta vez no, amigo mío. Así como Unei y Doga cumplieron su destino, yo también debo cumplir el mío. Mi sangre me hizo despertar a esa verdad.
+TEXT_GAIUSD602_00495_GRAHATIA_000_046	Como me dijo mi padre, la verdad siempre estuvo en Allag. O, mejor dicho, fue allí donde nació el deseo que debo cumplir.
+TEXT_GAIUSD602_00495_GRAHATIA_000_047	Verán, no todo el mundo pereció en la calamidad de Xande. Hubo sobrevivientes que, en medio de las ruinas de Allag, buscaron con la mirada la Crystal Tower. Pero no estaba por ninguna parte.
+TEXT_GAIUSD602_00495_GRAHATIA_000_048	Aun así, tenían la esperanza de que sus agujas volvieran a dominar la tierra, y rezaban para que la Crystal Tower fuera un faro de esperanza para la gente de todas partes.
+TEXT_GAIUSD602_00495_GRAHATIA_000_049	La noticia pronto llegó a la única miembro de la realeza de Allag que sobrevivió al imperio: la princesa Salina.
+TEXT_GAIUSD602_00495_GRAHATIA_000_050	A Salina la conmovió el deseo más profundo del pueblo. Usó lo mejor de la tecnología de Allag para entregar su sangre y sus recuerdos a la persona en quien más confiaba. Ese hombre era mi antepasado.
+TEXT_GAIUSD602_00495_GRAHATIA_000_051	Durante milenios esperamos. El arte y el ingenio de Allag se desvanecieron. Nuestra sangre real se fue diluyendo. Pero antes de que la última gota desapareciera del reino, el recuerdo de todo esto volvió a mí.
+TEXT_GAIUSD602_00495_GRAHATIA_000_052	Y ahora debo cumplir el deseo de los antiguos. La torre <italic(1)>brillará<italic(0)> como un nuevo faro de esperanza.
+TEXT_GAIUSD602_00495_CID_000_053	G'raha, el poder de la Crystal Tower es hoy una amenaza demasiado grande para Eorzea.
+TEXT_GAIUSD602_00495_CID_000_054	Necesitaríamos una tecnología tan avanzada como la de Allag para usarla como corresponde. Tal como están las cosas, apenas entendemos cómo funciona la torre. Por todos los infiernos, quizá <italic(1)>nunca<italic(0)> lleguemos a comprenderla del todo.
+TEXT_GAIUSD602_00495_GRAHATIA_000_055	Es como dices, Cid. Podríamos esperar a que alguien, algún día, alcance las alturas de Allag, pero para entonces habremos perdido la sangre real <italic(1)>y<italic(0)> los medios para controlar la torre.
+TEXT_GAIUSD602_00495_GRAHATIA_000_056	Pero ¿y si hago lo mismo que Amon y sumo la torre en un sueño profundo?
+TEXT_GAIUSD602_00495_CID_000_057	¿¡Qué!? ¡No puedes decirlo en serio!
+TEXT_GAIUSD602_00495_GRAHATIA_000_058	Lo digo muy en serio, Cid. La torre solo podrá usarse cuando los hombres rivalicen en saber con los allaganos. Hasta entonces dormiré dentro de la Syrcus Tower, para recibir a quienes tengan los medios para abrir las puertas.
+TEXT_GAIUSD602_00495_GRAHATIA_000_059	Entonces los guiaré. Y así la torre brillará como el faro de esperanza que estaba destinada a ser. Es la única forma de hacer realidad los deseos de los antiguos.
+TEXT_GAIUSD602_00495_GRAHATIA_000_060	Mi destino me espera en el futuro.
+TEXT_GAIUSD602_00495_GRAHATIA_000_061	Pero el de ustedes está al otro lado de estas puertas. Vayan. Creen un futuro donde reine la esperanza y las tragedias del pasado no sean más que recuerdos. Nadie más que ustedes puede lograr algo así.
+TEXT_GAIUSD602_00495_CID_000_062	Nada de lo que digamos te hará cambiar de idea, ¿verdad?
+TEXT_GAIUSD602_00495_CID_000_063	Hacia un futuro más brillante... No será fácil, claro. ¡Pero justo por eso lo vamos a hacer!
+TEXT_GAIUSD602_00495_WEDGE_000_064	¡V-vamos a alcanzar a Allag, ya vas a ver! ¡Recuperaremos todo el terreno perdido antes de que te des cuenta!
+TEXT_GAIUSD602_00495_BIGGS_000_065	¡Bien dicho, Wedge! En unos pocos años vendremos a tocarte la puerta, G'raha. ¡Y te vas a llevar un buen susto al despertar!
+TEXT_GAIUSD602_00495_RAMMBROES_000_066	Serás testigo de los logros de NOAH. Mantén vivos nuestros éxitos y perdona nuestros fracasos. Y ojalá volvamos a vernos, amigo mío.
+TEXT_GAIUSD602_00495_GRAHATIA_000_067	Que los Twelve te guarden hasta entonces, Rammbroes. Tengo muchas ganas de saber de tus hazañas. Y tú, <split(<string(gstr1)>, ,1)> ─ sé que la historia te recordará. Sin duda tu heroísmo será la estrella por la que trazaré mi rumbo cuando despierte.
+TEXT_GAIUSD602_00495_GRAHATIA_000_068	Bueno, ahora debo descansar. Recordar tanto me dio sueño.
+TEXT_GAIUSD602_00495_GRAHATIA_000_069	Adiós, amigos. Espero con ansias un futuro nacido de su valor y del deseo de los antiguos.
+TEXT_GAIUSD602_00495_NERO_000_070	Así que la Crystal Tower vuelve a dormir. Demasiado silencio para mi gusto.
+TEXT_GAIUSD602_00495_NERO_000_071	Adiós, Cid. Tengo que dejar todo esto atrás. Las posibilidades me llaman, y estoy obligado a seguirlas.
+TEXT_GAIUSD602_00495_NERO_000_072	Llegó un nuevo amanecer para mí.
+TEXT_GAIUSD602_00495_RAMMBROES_000_080	Cid acaba de irse, <split(<string(gstr1)>, ,1)>. Por lo visto, hay mucho que requiere su atención si quiere cumplir los deseos de G'raha.
+TEXT_GAIUSD602_00495_RAMMBROES_000_081	Pero esto no es el fin de NOAH, por muy solitario que haya quedado Saint Coinach's Find con la partida de nuestros amigos.
+TEXT_GAIUSD602_00495_RAMMBROES_000_082	Ahora todos debemos seguir caminos distintos. Recuerde que trabajamos por un futuro más brillante, iluminado por el faro de G'raha. Sellar la Crystal Tower fue solo el primer paso.
+TEXT_GAIUSD602_00495_RAMMBROES_000_083	Adiós, <if(gnum4,amiga mía,amigo mío)>. Que nuestros caminos vuelvan a cruzarse.
+TEXT_GAIUSD602_00495_SYSTEM_000_088	Completaste la serie de misiones de la Crystal Tower. Puedes aceptar la siguiente misión del escenario principal hablando con Minfilia en los Rising Stones.
+TEXT_GAIUSD602_00495_SYSTEM_000_089	Completaste la serie de misiones de la Crystal Tower. Descansa, <if(gnum4,campeona,campeón)>, ¡que el escenario principal y muchas otras aventuras te esperan!

@@ -1,0 +1,55 @@
+key	text
+TEXT_GAIUSD204_01202_SEQ_00	G'raha Tia tiene muchas ganas de empezar la expedición a la Crystal Tower.
+TEXT_GAIUSD204_01202_SEQ_01	En su papel de jefe de la expedición, G'raha Tia da instrucciones a la compañía de NOAH y explica cómo se llevará a cabo la operación. Dirígete a la gran puerta que está al sureste de Saint Coinach's Find y espera a que llegue el resto del equipo de reconocimiento.
+TEXT_GAIUSD204_01202_SEQ_02	Para alivio de todos, los "colmillos" de cristal acaban rápido con las letales defensas exteriores de la torre. Como es probable que el interior de la estructura guarde más peligros, Cid te ofrece para la tarea de asegurar el Labyrinth of the Ancients. Libra el laberinto de todo lo que pueda suponer una amenaza para el equipo de reconocimiento.<br><br>※Se puede entrar al Labyrinth of the Ancients mediante el Duty Finder.
+TEXT_GAIUSD204_01202_SEQ_03	Junto con tus fieles compañeros de aventuras, lograste librar el laberinto de sus mortales protectores. Cid y G'raha Tia alaban tu valiosísimo aporte a la expedición, y juntos contemplan la reluciente aguja que se alza en el centro del laberinto.
+TEXT_GAIUSD204_01202_SEQ_04	Aunque tu labor en el laberinto aseguró un camino hacia la torre, todavía queda mucho que discutir antes de que la expedición pueda seguir. Vuelve a Saint Coinach's Find y habla con G'raha Tia.
+TEXT_GAIUSD204_01202_SEQ_05	De vuelta en la excavación, G'raha Tia te invita a tomarte un momento para ordenar tus ideas antes de debatir cuál es la mejor forma de seguir.
+TEXT_GAIUSD204_01202_TODO_00	Dirígete a la puerta que está al sureste de Saint Coinach's Find.
+TEXT_GAIUSD204_01202_TODO_01	Entra al Labyrinth of the Ancients.
+TEXT_GAIUSD204_01202_TODO_02	Entra al Labyrinth of the Ancients.
+TEXT_GAIUSD204_01202_TODO_03	Habla con G'raha Tia en Saint Coinach's Find.
+TEXT_GAIUSD204_01202_GRAHATIA_000_000	¡<if(gnum4,Estimados colegas,Caballeros)>! ¡Los secretos de la antigua Allag nos llaman!
+TEXT_GAIUSD204_01202_GRAHATIA_000_001	¡No los hagamos esperar más! <if(gnum4,Aventurera,Aventurero)>, tú y yo nos uniremos a los ingenieros en la entrada principal de la Crystal Tower, donde intentaremos neutralizar las defensas exteriores de la estructura.
+TEXT_GAIUSD204_01202_GRAHATIA_000_002	Rammbroes, mientras tanto, se quedará aquí supervisando la operación. Dado mi conocimiento de la historia allagan, parece lógico que yo dirija la expedición en sí... aunque admito que el papel no encaja del todo con mi condición de observador.
+TEXT_GAIUSD204_01202_GRAHATIA_000_003	Aun así, hay que usar lo que se tiene a mano. Si todos están de acuerdo, vayamos de inmediato a la gran puerta torcida que está al sureste.
+TEXT_GAIUSD204_01202_CID_000_010	La Crystal Tower está al otro lado de este portal. Ahora viene la parte interesante...
+TEXT_GAIUSD204_01202_GRAHATIA_000_011	Cid, eres el único de nosotros que cruzó alguna vez este umbral. Te pido que vayas adelante por ahora.
+TEXT_GAIUSD204_01202_GRAHATIA_000_012	Vaya... La energía que irradian estas estatuas es... palpable.
+TEXT_GAIUSD204_01202_CID_000_013	Suerte para nosotros que lo sea. De lo contrario, uno podría pasar al lado como si nada... Contemplen las defensas elementales que motivaron nuestros largos preparativos. Estos centinelas impiden que cualquier intruso se acerque a menos de veinte yalms del interior de la torre.
+TEXT_GAIUSD204_01202_GRAHATIA_000_014	...Por muy veloz que sea.
+TEXT_GAIUSD204_01202_CID_000_015	Por suerte, los colmillos de cristal que tanto nos costó fabricar deberían ahorrarnos la molestia de una aniquilación instantánea. Vamos, déjenme demostrarlo.
+TEXT_GAIUSD204_01202_BIGGS_000_016	¿¡J-jefe!? Es demasiado─
+TEXT_GAIUSD204_01202_CID_000_017	¿Peligroso dejar que otro arriesgue la vida probando uno? Tienes toda la razón. Yo fabriqué esas malditas cosas ─ me toca a mí comprobar que funcionan.
+TEXT_GAIUSD204_01202_CID_000_018	...¡Éxito!
+TEXT_GAIUSD204_01202_GRAHATIA_000_019	¡Yo, por mi parte, estoy convencido! Amigos, ¡preparen sus colmillos!
+TEXT_GAIUSD204_01202_CID_000_020	Este último es tuyo, <if(gnum4,vieja amiga,viejo amigo)>. Me pareció lo justo...
+TEXT_GAIUSD204_01202_WEDGE_000_021	¡Jaja! ¡Lo logramos! ¡Adiós a las defensas exteriores!
+TEXT_GAIUSD204_01202_GRAHATIA_000_022	Así es. La entrada a la torre está a nuestro alcance. ¡La sangre me canta de expectación!
+TEXT_GAIUSD204_01202_CID_000_023	Hablando de sangre ─ tengo una propuesta para la siguiente etapa de la expedición.
+TEXT_GAIUSD204_01202_CID_000_024	Sugiero que esperemos aquí mientras <split(<string(gstr1)>, ,1)> y un grupo de compañeros de aventuras elegidos por <if(gnum4,ella,él)> entran a la torre.
+TEXT_GAIUSD204_01202_GRAHATIA_000_025	¿¡Qué!? ¿Sin nosotros? ¡Creí que habíamos venido a inspeccionar toda la estructura!
+TEXT_GAIUSD204_01202_CID_000_026	Así es ─ y lo haremos. Pero nuestras investigaciones tienen que avanzar a un ritmo más prudente.
+TEXT_GAIUSD204_01202_CID_000_027	Si el exterior del lugar está tan bien defendido, ¿te imaginas lo que nos espera <italic(1)>dentro<italic(0)>? Solo <if(gnum4,una verdadera heroína,un verdadero héroe)> podría tener esperanzas de enfrentar los peligros que vienen y vivir para contarlo.
+TEXT_GAIUSD204_01202_CID_000_028	Y nadie que yo conozca encaja mejor en esa descripción que <split(<string(gstr1)>, ,1)>.
+TEXT_GAIUSD204_01202_CID_000_029	Y no es que vayamos a quedarnos de brazos cruzados en su ausencia. Mientras <split(<string(gstr1)>, ,1)> y sus compañeros arriesgan el pellejo para abrirnos camino hasta la torre, nosotros podemos analizar estos escombros en busca de pistas de cómo funciona su tecnología.
+TEXT_GAIUSD204_01202_CID_000_030	Tu conocimiento de la sabiduría antigua será invaluable en esa tarea, historiador G'raha Tia.
+TEXT_GAIUSD204_01202_GRAHATIA_000_031	¡Bah! ¿Nunca te cansas de tener razón, viejo?
+TEXT_GAIUSD204_01202_GRAHATIA_000_032	Ejem. <split(<string(gstr1)>, ,1)> ─ ya que parece que no voy a acompañarte, permíteme al menos darte algunas indicaciones. El laberinto que rodea la base de la torre se conoce como el "Labyrinth of the Ancients". En esta primera incursión, te sugiero que te concentres en librar el lugar de elementos hostiles.
+TEXT_GAIUSD204_01202_GRAHATIA_000_033	Cuando estés razonablemente segur<if(gnum4,a,o)> de que el laberinto es seguro, contáctame por linkshell y nos uniremos a ti de inmediato ─ ¡diga lo que diga el maestro Garlond!
+TEXT_GAIUSD204_01202_GRAHATIA_000_034	Aunque preferiríamos que las reliquias que encuentres quedaran intactas, tienes permiso para hacer lo que haga falta para asegurar el acceso a los niveles superiores de la torre. Que la fortuna te acompañe, <split(<string(gstr1)>, ,1)>.
+TEXT_GAIUSD204_01202_CID_000_040	¡Eh, <split(<string(gstr1)>, ,1)>!
+TEXT_GAIUSD204_01202_GRAHATIA_000_041	¡Muy impresionante, debo decir! Tu nombre aparecerá en letras grandes en los volúmenes que sin duda se escribirán sobre esta expedición histórica.
+TEXT_GAIUSD204_01202_CID_000_042	La escala de esta estructura desafía la comprensión... Está claro que alguien pensaba que más grande era mejor.
+TEXT_GAIUSD204_01202_GRAHATIA_000_043	Según los hallazgos de mis colegas de Baldesion, la Crystal Tower se construyó para recoger y almacenar la energía inagotable del sol. Una empresa ambiciosa, como era de esperar.
+TEXT_GAIUSD204_01202_GRAHATIA_000_044	Ahora bien, ¿qué hay de las defensas interiores de la torre? A juzgar por tu cara de agotamiento, limpiar el laberinto no fue poca cosa.
+TEXT_GAIUSD204_01202_GRAHATIA_000_045	...¿Un gigante con una cimitarra reluciente, dices? Sí, debió de ser Phlegethon. No Acheron. Phlegethon. Fue un héroe de la revolución allagan.
+TEXT_GAIUSD204_01202_CID_000_046	¿Y eso de dónde lo sacaste, exactamente? ¿De su elección de arma?
+TEXT_GAIUSD204_01202_GRAHATIA_000_047	Bueno, <italic(1)>soy<italic(0)> historiador. Y tengo cierta, digamos, "afinidad" con la historia del Allagan Empire.
+TEXT_GAIUSD204_01202_GRAHATIA_000_048	Todo es, claro, saber sacado de pergaminos y libros mohosos. Los textos antiguos afirman que la Crystal Tower la defienden los campeones de antaño, resucitados y potenciados por la extraordinaria tecnología de los allaganos.
+TEXT_GAIUSD204_01202_BIGGS_000_049	¡Jefe, tiene que ver esto!
+TEXT_GAIUSD204_01202_CID_000_050	Vaya, vaya, ahí está... el pie de la torre. ¿Qué sorpresas nos tendrás guardadas <italic(1)>tú<italic(0)>, me pregunto...?
+TEXT_GAIUSD204_01202_CID_000_051	No sabes cuánto me alegra tenerte con nosotros en esta pequeña excursión, <if(gnum4,vieja amiga,viejo amigo)>. Si no nos hubieras abierto camino por ese laberinto, dudo mucho que estuviéramos aquí ahora...
+TEXT_GAIUSD204_01202_GRAHATIA_000_052	¡Bien! Tenemos mucho que discutir y digerir. Volvamos por ahora a Saint Coinach's Find y planeemos allí el siguiente paso. Por si alguien lo duda, ¡a nuestra expedición todavía le queda camino!
+TEXT_GAIUSD204_01202_GRAHATIA_000_060	¡Qué bueno que te unas a nosotros, <split(<string(gstr1)>, ,1)>! Nuestra reunión sería de lo más aburrida sin un relato completo de lo que viviste en el laberinto.
+TEXT_GAIUSD204_01202_GRAHATIA_000_061	Tómate un momento para recuperarte, y cuando estés list<if(gnum4,a,o)>, debatiremos cuál es la mejor forma de seguir.
