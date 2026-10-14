@@ -1,0 +1,85 @@
+key	text
+TEXT_AKTKRA401_05252_SEQ_00	El amable investigador intenta llamar tu atención.
+TEXT_AKTKRA401_05252_SEQ_01	Un amable investigador se presenta como el nuevo asistente del profesor Claudien y te pide, en nombre de su superior, que vayas a Aporia. Parece que Pandæmonium todavía tiene misterios que ofrecer, y Claudien quiere que formes parte de ellos.
+TEXT_AKTKRA401_05252_SEQ_02	El profesor Claudien y sus colegas te reciben con calidez y te explican que, inspirados por un recuerdo del pasado de Erichthonios que vio Claudien, encargaron un mammet conmemorativo de Themis para el joven celador. Como eres la única persona que puede volver al pasado, te toca viajar a Pandæmonium y entregárselo a tu antiguo compañero.
+TEXT_AKTKRA401_05252_SEQ_03	Al llegar a Pandæmonium, te encuentras con Hegemone. Aunque entiende lo tentador de ver su reacción ante el regalo, te advierte que, como Erichthonios está entrenando duro para ser un mejor celador, quizá prefiera dejar cualquier reencuentro para cuando haya progresado más. Como alternativa a un encuentro cara a cara, te propone esconderte en las sombras mientras ella habla con él y enviar el mammet en el momento justo.
+TEXT_AKTKRA401_05252_SEQ_04	Desde tu escondite te enteras de que, pese a algunas dificultades, al joven celador le va bien bajo la tutela de su padre. A la señal de Hegemone, envías el mammet desde tu escondite, y un Erichthonios gratamente sorprendido comenta que hace poco se encontró con el emisario en las Words of Lahabrea ─ donde hablaron con cariño de su querid<if(gnum4,a,o)> amig<if(gnum4,a,o)> <split(<string(gstr1)>, ,1)>. Antes de que pueda fijarse demasiado en la sonrisa que asoma en las sombras cercanas, Hegemone lo manda a su siguiente tarea, feliz con el recuerdo con forma de Themis del tiempo que pasaron juntos.
+TEXT_AKTKRA401_05252_SEQ_05	Contenta de haber ayudado con la entrega mediante el arte del disimulo, Hegemone te desea lo mejor mientras dejas Pandæmonium, quizá por última vez. Ahora solo queda volver con Claudien e informarle de tu éxito.
+TEXT_AKTKRA401_05252_SEQ_06	Como recompensa por tus esfuerzos, Claudien te regala un mammet de Themis para ti. Ahora tú también llevas un recuerdo de las amistades forjadas a través de la extensión infinita del tiempo.
+TEXT_AKTKRA401_05252_TODO_00	Habla con Claudien en Aporia.
+TEXT_AKTKRA401_05252_TODO_01	Habla con Hegemone en las Gates of Pandæmonium.
+TEXT_AKTKRA401_05252_TODO_02	Escóndete en el lugar indicado.
+TEXT_AKTKRA401_05252_TODO_03	Habla con Hegemone.
+TEXT_AKTKRA401_05252_TODO_04	Habla con Claudien en Aporia.
+TEXT_AKTKRA401_05252_CLAUDIENASSISTANT_000_000	¡Oh, usted debe de ser <split(<string(gstr1)>, ,1)>! Vaya, es tal como l<if(gnum4,a,o)> describió el profesor Claudien. Es un placer conocerl<if(gnum4,a,o)> por fin.
+TEXT_AKTKRA401_05252_CLAUDIENASSISTANT_000_001	Soy el nuevo asistente del profesor, ¿sabe? Sus historias sobre su incursión en Pandæmonium son una fuente inagotable de conocimiento y de entretenimiento.
+TEXT_AKTKRA401_05252_CLAUDIENASSISTANT_000_002	De hecho, surgió un pequeño asunto relacionado con las instalaciones del que quiere hablar con usted, y por eso vine a buscarl<if(gnum4,a,o)>. Le pide que pase por Aporia en cuanto pueda.
+TEXT_AKTKRA401_05252_CLAUDIENASSISTANT_000_010	El profesor Claudien puede darle los detalles mejor que yo, así que visítelo en Aporia cuando pueda, por favor.
+TEXT_AKTKRA401_05252_CLAUDIEN_000_050	¡<split(<string(gstr1)>, ,1)>, siempre es un gusto verl<if(gnum4,a,o)>! ¿Estuvo bien desde la última vez que hablamos?
+TEXT_AKTKRA401_05252_CLAUDIEN_100_050	Bien, bien. Por mucho que me guste recordar viejos tiempos, nos conviene a los dos que vaya directo al grano.
+TEXT_AKTKRA401_05252_CLAUDIEN_000_051	Le pedí que viniera para hablar de un asunto relacionado con Erichthonios, a quien seguro recuerda.
+TEXT_AKTKRA401_05252_CLAUDIEN_000_052	Yo sin duda lo recuerdo, porque sus recuerdos todavía viven en mí.
+TEXT_AKTKRA401_05252_CLAUDIEN_000_053	De vez en cuando, mi mente vislumbra el sombrío espectáculo de los Días Finales. Aunque también hay visiones de una época más sencilla...
+TEXT_AKTKRA401_05252_CLAUDIEN_000_054	En una vi a un celador acorralado por sus colegas. Querían saber por qué un Erichthonios diminuto andaba suelto por los salones de Pandæmonium.
+TEXT_AKTKRA401_05252_CLAUDIEN_000_055	Al oír que el mammet se había creado por pura admiración, mi yo del pasado solo sonrió con pesar.
+TEXT_AKTKRA401_05252_CLAUDIEN_100_055	"Entonces Themis habría sido un modelo mucho mejor. Aunque supongo que ustedes nunca lo vieron..."
+TEXT_AKTKRA401_05252_NEMJIJI_000_056	Una evasiva que revela sin querer más de lo que parece, creemos. Como sus deberes de emisario mantenían a Themis lejos de Pandæmonium, sin duda Erichthonios llegó a extrañar a su querido amigo.
+TEXT_AKTKRA401_05252_NEMJIJI_000_057	Y <italic(1)>nosotros<italic(0)> sabemos cómo era Themis. Así que pensamos: ¿por qué no hacer un mammet aquí y enviárselo como regalo?
+TEXT_AKTKRA401_05252_NEMJIJI_000_058	Contratamos a un artesano local para la primera parte. ¡El resultado es una obra maestra!
+TEXT_AKTKRA401_05252_CLAUDIEN_000_059	Como usted es la única persona que puede volver a Pandæmonium, ¿podría entregarle esto a Erichthonios?
+TEXT_AKTKRA401_05252_Q1_000_100	¿Qué vas a decir?
+TEXT_AKTKRA401_05252_A1_000_100	¡Cuenten conmigo!
+TEXT_AKTKRA401_05252_A1_000_101	¿No creen que lo distraerá de su trabajo?
+TEXT_AKTKRA401_05252_A1_000_102	¿No creen que también querría un muñeco con mi cara?
+TEXT_AKTKRA401_05252_CLAUDIEN_000_060	Gracias, <split(<string(gstr1)>, ,1)>. Sospecho que estará encantado.
+TEXT_AKTKRA401_05252_CLAUDIEN_100_060	A medida que recordé más de sus recuerdos, noté que Erichthonios rara vez expresaba sus propios deseos.
+TEXT_AKTKRA401_05252_CLAUDIEN_000_065	Entiendo mejor que nadie el peligro de distraerse, pero en la vida hay más que trabajo, ¿no? Y a medida que recordé más de los recuerdos de Erichthonios, noté que rara vez expresaba sus propios deseos.
+TEXT_AKTKRA401_05252_CLAUDIEN_000_070	Por desgracia, la parte discrecional de nuestros fondos no da para tanto, aunque bien podría quererlo. A medida que recordé más de sus recuerdos, noté que rara vez expresaba sus propios deseos.
+TEXT_AKTKRA401_05252_CLAUDIEN_000_071	Quizá era una regla tácita en la sociedad de los antiguos. Aun así, me gustaría mucho hacer algo por él. Un pequeño gesto es lo mínimo que le debemos.
+TEXT_AKTKRA401_05252_CLAUDIEN_000_072	Imagino que todavía puede llegar a Pandæmonium desde el neus de Elpis. Una vez allí, seguro que los guardallaves l<if(gnum4,a,o)> ayudarán a encontrarlo.
+TEXT_AKTKRA401_05252_HEGEMONE_000_100	¿Ya volvió con nosotros, <split(<string(gstr1)>, ,1)>? Espero que no pase nada malo...
+TEXT_AKTKRA401_05252_HEGEMONE_000_101	¿Y este regalo es para Erichthonios, dice? Un hombre muy solicitado últimamente...
+TEXT_AKTKRA401_05252_HEGEMONE_000_102	Ahora la gente espera grandes cosas de él ─ más de las que, según él, está preparado para dar. Por eso en este momento está estudiando en las Words of Lahabrea.
+TEXT_AKTKRA401_05252_HEGEMONE_000_103	Bajo la tutela de su padre, espera dominar mejor las creaciones de aquí, para algún día llegar a ser guardallaves.
+TEXT_AKTKRA401_05252_HEGEMONE_000_104	Aunque los duros métodos del maestro Lahabrea lo llevaron más de una vez al borde de rendirse, su determinación de demostrar lo que vale siempre lo trae de vuelta.
+TEXT_AKTKRA401_05252_Q2_000_200	¿Qué vas a decir?
+TEXT_AKTKRA401_05252_A2_000_201	Eso suena muy a Erichthonios, sí.
+TEXT_AKTKRA401_05252_A2_000_202	Va a seguir intentándolo, estoy segur<if(gnum4,a,o)>.
+TEXT_AKTKRA401_05252_A2_000_203	Pero les queda tan poco tiempo...
+TEXT_AKTKRA401_05252_HEGEMONE_000_105	Así es. Y aunque estoy segura de que le encantaría verl<if(gnum4,a,o)>, me pregunto si no preferiría que el reencuentro ocurriera cuando haya crecido del todo.
+TEXT_AKTKRA401_05252_HEGEMONE_000_110	Habla como si ya lo hubiera visto ocurrir. Aunque sin duda eso lo animaría, me pregunto si no preferiría que el reencuentro ocurriera cuando haya crecido del todo.
+TEXT_AKTKRA401_05252_HEGEMONE_000_115	Debería tener más fe, <split(<string(gstr1)>, ,1)>. Le aseguro que Erichthonios crece a un ritmo que no deja nada que desear...aunque me pregunto si no preferiría que el reencuentro ocurriera cuando haya crecido del todo.
+TEXT_AKTKRA401_05252_HEGEMONE_000_116	Dicho esto, entiendo por qué quiere estar presente cuando vea su pequeño simulacro de Themis. Ojalá yo también pudiera ver su reacción...
+TEXT_AKTKRA401_05252_CRISPWARDERS00000_000_117	Guardallaves Hegemone, recibimos un mensaje de Erichthonios. Dice que volverá pronto.
+TEXT_AKTKRA401_05252_HEGEMONE_000_118	Mensaje recibido. Sí... Veo aquí una solución muy prolija.
+TEXT_AKTKRA401_05252_HEGEMONE_000_119	Cuando llegue, ¿puede decirle que venga a verme aquí? Dígale que hay algo que quiero mostrarle.
+TEXT_AKTKRA401_05252_HEGEMONE_000_120	Quiero que elija un lugar bien oscuro desde donde escuchar nuestra conversación. Cuando llegue el momento, envíe el muñeco hacia aquí.
+TEXT_AKTKRA401_05252_HEGEMONE_000_121	Así los dos podremos ver su reacción, y usted no será descubiert<if(gnum4,a,o)>. Aunque semejante subterfugio no suele formar parte de mis deberes de guardallaves, tenga por seguro que ayudo con gusto.
+TEXT_AKTKRA401_05252_HEGEMONE_000_140	No debería verl<if(gnum4,a,o)> si se esconde más allá de aquel umbral. Tenga a mano al pequeño Themis ─ confío en que elegirá el momento justo para enviarlo.
+TEXT_AKTKRA401_05252_HEGEMONE_000_160	...Veo que el maestro Lahabrea no se ablandó. Hiciste bien en soportar sus métodos.
+TEXT_AKTKRA401_05252_ERICHTHONIOS_000_161	A veces siento que se volvió aún más difícil... Si no me hubieran revelado hace poco su verdadera naturaleza, habría perdido la esperanza en un instante.
+TEXT_AKTKRA401_05252_HEGEMONE_000_162	Es su forma de cultivar tus talentos, supongo.
+TEXT_AKTKRA401_05252_ERICHTHONIOS_000_163	Lo sé. Todavía me exaspera, pero llegué a entender que hasta nuestras peleas son una forma de conocerlo mejor ─ como padre y como uno de los Fourteen.
+TEXT_AKTKRA401_05252_HEGEMONE_000_164	...Ah, sí. Te llamé porque tenía algo que mostrarte.
+TEXT_AKTKRA401_05252_ERICHTHONIOS_000_165	¡¿Themis?! ¿Por qué eres tan pequeño? ...Ah.
+TEXT_AKTKRA401_05252_ERICHTHONIOS_000_166	Otro muñeco, veo. Pero ¿quién logró un parecido tan asombroso?
+TEXT_AKTKRA401_05252_HEGEMONE_000_167	Me pidieron que no revelara su identidad. Solo puedo decir que quieren lo mejor para ti.
+TEXT_AKTKRA401_05252_ERICHTHONIOS_000_168	Qué curioso. ¡Y pensar que un regalo así llega tan poco después de haberme encontrado con él en persona!
+TEXT_AKTKRA401_05252_ERICHTHONIOS_000_169	Me lo crucé por casualidad en las Words of Lahabrea. Era la primera vez que hablaba con él en su calidad de Elidibus, pero fue tan amable como siempre.
+TEXT_AKTKRA401_05252_ERICHTHONIOS_000_170	Me contó de más plantas con patas de las Words of Halmarut, que se habían escapado y echado raíces en una zona destinada a creaciones de Loghrif, lo que hacía imposible evaluarlas como corresponde.
+TEXT_AKTKRA401_05252_ERICHTHONIOS_000_171	A Themis le pidieron juzgar si cambiar de terreno de pruebas por comodidad o arrancar las creaciones indeseadas. Tan poco después de volver de Pandæmonium, dijo que esas pequeñas disputas le resultan un cambio bienvenido.
+TEXT_AKTKRA401_05252_ERICHTHONIOS_000_172	Y, por supuesto, hablamos de <split(<string(gstr1)>, ,1)>.
+TEXT_AKTKRA401_05252_HEGEMONE_000_173	Naturalmente. ¿Quizá podemos pedirle a tu admirador que haga también un muñeco de <if(gnum4,ella,él)>?
+TEXT_AKTKRA401_05252_ERICHTHONIOS_000_174	Aunque me gustaría, no creo que le siente bien. A diferencia de Themis y de mí, <split(<string(gstr1)>, ,1)> no está atad<if(gnum4,a,o)> a su propio pequeño dominio.
+TEXT_AKTKRA401_05252_ERICHTHONIOS_000_175	Creo que más bien pertenece a toda la estrella. Tenerl<if(gnum4,a,o)> encerrad<if(gnum4,a,o)> aquí ─ aunque fuera una imitación ─ no me parecería bien.
+TEXT_AKTKRA401_05252_ERICHTHONIOS_000_176	<split(<string(gstr1)>, ,1)> y Themis son amigos queridos, y no necesito pruebas tangibles para estar seguro de nuestro vínculo. Aunque admito que será lindo tener cerca un recuerdo de al menos uno de ellos.
+TEXT_AKTKRA401_05252_HEGEMONE_000_177	Me alegra oírlo.
+TEXT_AKTKRA401_05252_HEGEMONE_000_178	Ahora, creo que tienes deberes que atender. Si no te molesta ir a buscar esos informes de Peripeteia sobre las nuevas creaciones que enviaron de Elpis...
+TEXT_AKTKRA401_05252_ERICHTHONIOS_000_179	Con gusto, guardallaves Hegemone. Y el pequeño Themis vendrá conmigo.
+TEXT_AKTKRA401_05252_HEGEMONE_000_200	Salió bien, ¿no le parece? Erichthonios tiene un nuevo compañero, y usted pudo presenciar su alegría al conocerlo.
+TEXT_AKTKRA401_05252_HEGEMONE_000_201	Cada uno de los celadores de aquí le debe mucho. Espero que esa encantadora farsa haya ayudado a pagar un poco mi deuda.
+TEXT_AKTKRA401_05252_HEGEMONE_000_202	Debo atender mi propio trabajo, pero le deseo lo mejor. Volvamos a vernos o no, que os vaya bien, <split(<string(gstr1)>, ,1)>.
+TEXT_AKTKRA401_05252_CLAUDIEN_000_220	¡Ahí está, <split(<string(gstr1)>, ,1)>! A juzgar por la sonrisa que trae, confío en que el mammet ya está en manos de Erichthonios.
+TEXT_AKTKRA401_05252_CLAUDIEN_000_221	¡Sabía que podíamos contar con usted! Ojalá ese muñeco le dé un pequeño respiro de las presiones de su puesto.
+TEXT_AKTKRA401_05252_CLAUDIEN_000_222	Hablando de eso, sé que tuvo que dejar sus propias aventuras para encargarse de este pequeño recado, así que no pienso dejarl<if(gnum4,a,o)> sin recompensa.
+TEXT_AKTKRA401_05252_CLAUDIEN_000_223	Por eso encargamos <italic(1)>dos<italic(0)> mammets desde el principio. Me atrevo a decir que Themis estará encantado de recorrer toda una nueva era a su lado.

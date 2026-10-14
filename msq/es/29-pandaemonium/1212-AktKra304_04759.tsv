@@ -1,0 +1,92 @@
+key	text
+TEXT_AKTKRA304_04759_SEQ_00	Lahabrea quiere hablar del plan para acabar con Athena.
+TEXT_AKTKRA304_04759_SEQ_01	Parece que Lahabrea ideó un plan para liberar a Claudien, aunque no da muchos detalles. Por ahora, te encarga enfrentarte a su antigua amante para debilitarla lo suficiente y que su plan funcione. Así que te armas de valor para una última incursión por la puerta de Athena.<br><br>※Se puede entrar a Anabaseios: The Twelfth Circle mediante el Duty Finder.
+TEXT_AKTKRA304_04759_SEQ_02	Como corresponde a quien derribó a tantos dioses y vivió para contarlo, no te inmutas ante los intentos de Athena de hundirte en el abismo. Pese a su poder para deformar la naturaleza misma, sales triunfante y list<if(gnum4,a,o)> para poner fin a sus malvados experimentos de una vez por todas.
+TEXT_AKTKRA304_04759_SEQ_03	Aunque derrotada, Athena sigue viva. Revela encantada que su gran plan era reemplazar la vida de Etheirys con seres superiores creados por ella, y confirma que Erichthonios nunca fue más que una herramienta para ese fin. Con sus ambiciones frustradas, intenta purgar el mar aetherial con un estallido de magia poderosa, pero la detiene el repentino despertar de la voluntad de Claudien, a quien los recuerdos de Erichthonios sacaron de su letargo. Sin control sobre el cuerpo, los recuerdos de Athena son expulsados y ella queda como un fantasma sin poder. Mientras el espacio que antes era Pandæmonium empieza a derrumbarse al desaparecer las fuerzas que lo sostenían, Themis los teletransporta a Lahabrea y a ti a un lugar seguro, y nadie presencia los últimos momentos de Athena.
+TEXT_AKTKRA304_04759_SEQ_04	Aunque la pérdida de Erichthonios pesa en el corazón de todos, tienes la certeza de que su sacrificio no fue en vano. La paz vuelve al mar aetherial, pero Claudien sigue inconsciente. Themis dice que velará por el profesor y te indica que descanses hasta que te necesiten.
+TEXT_AKTKRA304_04759_TODO_00	Entra a Anabaseios: The Twelfth Circle.
+TEXT_AKTKRA304_04759_TODO_01	Entra a Anabaseios: The Twelfth Circle.
+TEXT_AKTKRA304_04759_TODO_02	Habla con Themis.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_000	¿Por qué usaría Athena mi nombre? Más preguntas, y pocas respuestas para repartir.
+TEXT_AKTKRA304_04759_THEMIS_000_005	Nuestro camino está claro: debemos derribar a Athena y rescatar a Claudien. Una tarea difícil, sin duda, pero los presentes somos más que capaces de lograrla.
+TEXT_AKTKRA304_04759_LAHABREA_000_020	Themis, quizá acabas de darnos la clave para rescatar a Claudien.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_021	¿Qué tenemos que hacer?
+TEXT_AKTKRA304_04759_LAHABREA_000_022	Antes que nada, debemos enfrentar a Athena. Hay que dejarla vulnerable, como a Elidibus.
+TEXT_AKTKRA304_04759_LAHABREA_100_022	Pero nuestra rival está al borde de la divinidad. Tal como estamos, nos desharía en un instante.
+TEXT_AKTKRA304_04759_LAHABREA_000_023	<split(<string(gstr1)>, ,1)>, no nos queda más remedio que poner el peso de nuestro destino ─ y el de muchos más ─ sobre tus hombros. Confío en que no tengas objeciones.
+TEXT_AKTKRA304_04759_Q1_000_000	¿Qué vas a decir?
+TEXT_AKTKRA304_04759_A1_000_000	Diosa o no, la derribaré.
+TEXT_AKTKRA304_04759_A2_000_000	Es una carga a la que estoy acostumbrad<if(gnum4,a,o)>.
+TEXT_AKTKRA304_04759_A3_000_000	Objeciones, no. Preocupaciones, sí...
+TEXT_AKTKRA304_04759_THEMIS_000_025	Si tienes fe en tu victoria, yo también.
+TEXT_AKTKRA304_04759_THEMIS_000_030	Me lo imagino. Siempre dependimos de tu destreza con las armas.
+TEXT_AKTKRA304_04759_THEMIS_000_035	Aunque no sabemos qué forma adoptará Athena, tengo fe en que tu habilidad nos sacará adelante en esta prueba, como tantas otras veces.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_040	Y todos agradecemos que <split(<string(gstr1)>, ,1)> esté dispuest<if(gnum4,a,o)> a lanzarse a lo desconocido. Pero todavía no oímos cómo va a liberar esto a Claudien...
+TEXT_AKTKRA304_04759_LAHABREA_000_041	...Tengo un plan. No te preocupes por los detalles.
+TEXT_AKTKRA304_04759_LAHABREA_000_042	Lo mismo vale para ti, <split(<string(gstr1)>, ,1)>. Debes concentrar toda tu atención en Athena. No será fácil de vencer, ni siquiera para alguien con tu destreza.
+TEXT_AKTKRA304_04759_THEMIS_000_043	Entonces confiemos en Lahabrea y preparémonos para la batalla que viene.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_044	Antes de enfrentar a Athena, necesito saber...
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_045	Si nunca hubiera descubierto la auracite ─ si nunca hubiera caído bajo su influencia ─, ¿habría llevado una vida normal? ¿Habría sido una madre para mí?
+TEXT_AKTKRA304_04759_LAHABREA_000_046	Yo me hice las mismas preguntas. Preguntas sin respuesta, me temo.
+TEXT_AKTKRA304_04759_LAHABREA_000_047	Pero dejémoslas de lado. Hay algo de lo que debemos hablar, y quiero hacerlo no como Lahabrea, sino como un padre con su hijo.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_050	Por ahora confiamos en ti. El resto tendrá que esperar a que tengamos a Athena delante.
+TEXT_AKTKRA304_04759_LAHABREA_000_055	Ahora mismo, Athena debe ser el único centro de tu atención. No dudará en aprovechar cualquier debilidad que perciba.
+TEXT_AKTKRA304_04759_THEMIS_000_060	Athena mantiene un control absoluto sobre este espacio. Tras la puerta, sin duda se construyó una morada digna de una diosa, y ahora espera la llegada de sus suplicantes...
+TEXT_AKTKRA304_04759_ATHENA_000_400	Incontables años esperé dentro de ese cristal asfixiante. Y ahora, cuando mi sueño por fin está a mi alcance, te interpones en mi camino.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_401	Tu "sueño" no es más que ambición egoísta. Cumplirlo solo te beneficiaría a ti.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_402	¿Y por qué, Athena? Al final de este camino hacia la divinidad, ¿qué esperabas encontrar?
+TEXT_AKTKRA304_04759_LAHABREA_000_403	No importa. El hecho es que actuó en contra de los intereses de la estrella.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_404	Aun así, quiero oír su respuesta. Quiero saber por qué mi madre nos dejó de lado.
+TEXT_AKTKRA304_04759_ATHENA_000_405	Qué impropio de ti, Erichthonios. Nunca fuiste tan inquisitivo.
+TEXT_AKTKRA304_04759_ATHENA_000_406	Una vez que da con una hipótesis, la mujer sabia solo desea una cosa.
+TEXT_AKTKRA304_04759_ATHENA_100_406	Una prueba irrefutable.
+TEXT_AKTKRA304_04759_ATHENA_000_407	<italic(1)>Mi<italic(0)> teoría era que todo verdadero dios nos vería como somos: imperfectos. Martillaría nuestros defectos hasta eliminarlos y construiría algo...mejor.
+TEXT_AKTKRA304_04759_ATHENA_000_408	¡Demostrarlo no podía sino beneficiar a la estrella! Le daría los guardianes perfectos, para que brillara más que ninguna otra.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_409	¡Y destruirías las vidas que ya hay en ella!
+TEXT_AKTKRA304_04759_ATHENA_000_410	En eso no soy distinta de nuestros pares. A lo largo de los eones, ¿cuántas creaciones forjamos? Esas criaturas no pueden sino llevar al olvido a sus predecesoras inferiores.
+TEXT_AKTKRA304_04759_ATHENA_000_411	Aun sin nuestra intervención, la naturaleza seguiría el mismo camino.
+TEXT_AKTKRA304_04759_ATHENA_000_412	Si el destino es el mismo, ¿es peor llegar a él guiados por un dios? No lo creo.
+TEXT_AKTKRA304_04759_LAHABREA_000_413	Quizá la auracite hizo irresistibles esos pensamientos. Pero no pudo haberlos creado de la nada. Esta es la verdad de Athena.
+TEXT_AKTKRA304_04759_ATHENA_000_414	¿Con qué derecho juzgas? No eras más que un recipiente para mi obra maestra ─ tu propósito termina ahí. Mi único error fue dejarte un alma.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_415	...¿Qué estás diciendo?
+TEXT_AKTKRA304_04759_ATHENA_000_416	Pobre Erichthonios. Siempre el último en llegar a la conclusión obvia...
+TEXT_AKTKRA304_04759_ATHENA_100_416	Te di a luz por una sola razón: para que me sirvieras de herramienta. Y como a cualquier herramienta, te hice a mi medida, para que aceptaras mi esencia cuando llegara el momento.
+TEXT_AKTKRA304_04759_ATHENA_000_417	Por supuesto, también te hice más dócil a mis exigencias, y me aseguré de que sintieras un afecto empalagoso por tu querida madre. Pero parece que mis ajustes no bastaron...
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_418	¿Hasta mis sentimientos fueron obra tuya?
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_419	Creaste a un muchacho incapaz de entender siquiera la magia más sencilla. Siempre aferrado sin remedio a la túnica de su madre, sin poder hacer otra cosa. Estaba condenado desde el principio...
+TEXT_AKTKRA304_04759_THEMIS_000_420	Y aun así aquí estás, desafiando su diseño. ¡Eres más de lo que ella hizo de ti!
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_421	Todavía me duele. Pero con el dolor llega la claridad...
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_422	¡No mereces llevar el manto de una diosa!
+TEXT_AKTKRA304_04759_ATHENA_000_423	Tan terco como torpe. ¡Si esta estrella no va a ser mía, no sirve para nada!
+TEXT_AKTKRA304_04759_THEMIS_000_424	¡Quiere destruir el mar aetherial y detener el flujo de la vida!
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_425	...No hará tal cosa.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_426	Antes de la batalla, Lahabrea me dijo que yo era la clave para terminar con esto.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_427	Aunque no soy más que una ilusión, mi alma cruzó eones para encontrar su hogar en otro. Uno cuyo cuerpo Athena decidió robar para sí.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_428	Mucho de lo que fui ahora vive en él. Si mis recuerdos aprovechan esta oportunidad para seguir el mismo camino, quizá resuenen lo suficiente para despertar su mente.
+TEXT_AKTKRA304_04759_THEMIS_000_429	¡Pero Athena todavía lo habita! ¡¿Qué será de ti?!
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_430	No lo sé, pero si logro despertar su alma, quizá rompa el dominio de Athena. Es nuestra mejor oportunidad.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_431	Toda mi vida los demás me miraron por encima del hombro, pero nunca dejé de buscar mi propósito. Ahora lo encontré.
+TEXT_AKTKRA304_04759_LAHABREA_000_432	Esta decisión es tuya, y solo tuya.
+TEXT_AKTKRA304_04759_LAHABREA_000_433	Haz lo que quieras, hijo mío. Sé que me harás sentir orgulloso.
+TEXT_AKTKRA304_04759_ATHENA_100_433	Erichthonios...no te atrevas.
+TEXT_AKTKRA304_04759_ATHENA_000_434	¡No! ¡Detente!
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_435	Tus palabras ya no tienen poder sobre mí. Mi vida es mía...
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_436	¡Y encontré a mi verdadera familia!
+TEXT_AKTKRA304_04759_ATHENA_000_437	Ugh...
+TEXT_AKTKRA304_04759_ATHENA_100_437	Mi poder...mengua... ¡¿El recipiente...me rechaza?!
+TEXT_AKTKRA304_04759_THEMIS_000_438	¿Qué está pasando? La magia de Athena debería ser impotente sin un cuerpo que la alimente...
+TEXT_AKTKRA304_04759_LAHABREA_000_439	Exacto. Athena era la única fuerza que mantenía unido el espacio alrededor de Pandæmonium, y ahora se derrumba...
+TEXT_AKTKRA304_04759_LAHABREA_000_440	Aunque poco cambiaría si quedáramos sepultados aquí, no podemos dejar que este sea el lugar de descanso final de <split(<string(gstr1)>, ,1)>.
+TEXT_AKTKRA304_04759_ATHENA_000_441	De todos mis errores de cálculo...pensar que <italic(1)>tú<italic(0)> serías mi perdición. Que fueras siquiera capaz de desafiarme...
+TEXT_AKTKRA304_04759_ATHENA_000_442	Ah, ¿tienes algo más que decirme?
+TEXT_AKTKRA304_04759_ATHENA_000_443	¿O decidiste volver al regazo de tu querida madre? ¿Me trajiste de vuelta a Claudien?
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_444	Lo siento, pero no soy más que los restos de tu propia memoria. No puedo más que mirar cómo se derrumba el mal que forjaste, sepultándote bajo su peso.
+TEXT_AKTKRA304_04759_ATHENA_000_445	Qué decepción... De verdad, inútil hasta el final.
+TEXT_AKTKRA304_04759_ERICHTHONIOS_000_446	¿Y quién me hizo así?
+TEXT_AKTKRA304_04759_NEMJIJI_000_505	Al menos por fuera, el profesor Claudien parece ileso. Me temo que tendremos que esperar a que recobre el conocimiento para juzgar algo más...
+TEXT_AKTKRA304_04759_RUISSENAUD_000_510	¡Preguntas, preguntas y más preguntas! ¿Por qué Claudien partió solo? ¿Qué vio? ¡Ay, espero que despierte pronto!
+TEXT_AKTKRA304_04759_LAHABREA_000_515	...
+TEXT_AKTKRA304_04759_THEMIS_000_550	Aunque Erichthonios no era más que un conjunto de recuerdos, sé que su ausencia te duele.
+TEXT_AKTKRA304_04759_THEMIS_000_551	Pero actuó con determinación, plenamente consciente de las posibles consecuencias. Recordemos este momento no con tristeza, sino con orgullo.
+TEXT_AKTKRA304_04759_THEMIS_000_552	Ustedes dos son los héroes del día. Las ambiciones de Athena se habrían tragado el mundo si no hubieran frenado su avance.
+TEXT_AKTKRA304_04759_THEMIS_000_553	Nos quedaremos aquí, para cuidar del profesor Claudien y asegurarnos de que no haya más alteraciones en el mar aetherial. Tú deberías descansar ─ y no acepto un no por respuesta.

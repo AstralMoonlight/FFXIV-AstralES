@@ -1,0 +1,83 @@
+key	text
+TEXT_AKTKRA101_04475_SEQ_00	Nemjiji te saluda con la cabeza, como si te estuviera esperando.
+TEXT_AKTKRA101_04475_SEQ_01	Mientras paseas por Archons' Design, te llama una investigadora lalafell que se presenta como Nemjiji, asistente de un tal profesor Claudien y dedicada al estudio del mar aetherial. Te explica que hace poco descubrieron un cristal de naturaleza desconocida y te pide que le eches un vistazo, por si viste algo así en tus viajes. Nemjiji se despide y te pide que vayas al laboratorio de Claudien, en Aporia, en cuanto puedas.
+TEXT_AKTKRA101_04475_SEQ_02	Claudien se presenta y pasa enseguida al asunto del cristal, hallado durante una observación de rutina por la época en que se declaró el éxodo. Lo reconoces de inmediato como obra de los antiguos, y al tocarlo te revela una advertencia y un ruego: que vayas a "Pandæmonium". Aunque mucho sigue envuelto en misterio, está claro que ese lugar no pertenece a esta época... Así que Claudien te pide que vuelvas al pasado y busques a quien perteneció el cristal.
+TEXT_AKTKRA101_04475_SEQ_03	Al acercarte al portal del Ocular, este responde al cristal que llevas en la mano. Cruzas el umbral y te envuelve una luz cegadora; cuando abres los ojos, estás en Elpis con un dolor de cabeza tremendo. A tu lado hay un joven de rasgos llamativos, tirado en el suelo como si lo hubiera derribado una fuerza desconocida... Qué raro. Aunque tu llegada parece haberlo sorprendido ─ sobre todo por la trayectoria ─, su actitud sugiere que está ansioso por conocerte.
+TEXT_AKTKRA101_04475_SEQ_04	Themis te explica que le encargaron averiguar qué pasó en Pandæmonium, unas instalaciones que albergan una colección de creaciones peligrosas usadas para la investigación. Hace varios días se detectó aether irregular en sus alrededores, y poco después se cortaron por completo las comunicaciones. Por ahora, al menos, parece que sus objetivos coinciden.
+TEXT_AKTKRA101_04475_TODO_00	Habla con Claudien en Aporia.
+TEXT_AKTKRA101_04475_TODO_01	Ve al Ocular y acércate al portal.
+TEXT_AKTKRA101_04475_TODO_02	Habla con Themis.
+TEXT_AKTKRA101_04475_NEMJIJI_000_000	¡Je, je, parece que mis cálculos eran correctos! Sabía que en este mismo lugar me encontraría nada menos que con <split(<string(gstr1)>, ,1)>, quien nos sacó de los Días Finales. Estaba tan segura de mis números que me quedé aquí parada durante... Bueno, mejor no hablemos de eso.
+TEXT_AKTKRA101_04475_NEMJIJI_000_001	Soy Nemjiji, asistente del profesor Claudien. Trabajamos con el Aitiascope para observar el mar aetherial y adentrarnos en sus innumerables misterios.
+TEXT_AKTKRA101_04475_NEMJIJI_000_002	Aunque algunos misterios están fuera de nuestro alcance... El extraño cristal que descubrimos hace poco, por ejemplo, desafía todas nuestras conjeturas.
+TEXT_AKTKRA101_04475_NEMJIJI_000_003	Pero usted estuvo en el centro de la estrella y mucho más allá, así que esperamos que vea en este cristal algo que a nosotros, los académicos, se nos escapa. Le ruego que nos preste su ojo viajero en Aporia ─ el profesor Claudien estará esperando su llegada con ansias.
+TEXT_AKTKRA101_04475_NEMJIJI_000_005	Bienvenid<if(gnum4,a,o)>, bienvenid<if(gnum4,a,o)>. Le agradecemos cualquier idea que pueda darnos sobre este cristal. El profesor Claudien le contará los detalles.
+TEXT_AKTKRA101_04475_RUISSENAUD_000_010	¡Por todos los cielos, de verdad es usted! Supuse que Nemjiji solo intentaba "tomarme el pelo", por así decirlo. Quizá debería prestar más atención a sus afirmaciones descabelladas.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_030	Saludos, <split(<string(gstr1)>, ,1)>, y bienvenid<if(gnum4,a,o)> a mi humilde laboratorio. Seguro que Nemjiji ya le contó bastante de nosotros, pero permítame presentarme en persona. Soy Claudien, líder de este pequeño grupo de investigación.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_031	Debo admitir que estuve nervioso por este encuentro desde que Nemjiji salió a buscarl<if(gnum4,a,o)>. Para un investigador de mi campo, no hay mayor honor que conocer <if(gnum4,a la primera mujer,al primer hombre)> en la historia que atravesó el mar aetherial y volvió para contarlo.
+TEXT_AKTKRA101_04475_NEMJIJI_000_032	El profesor habla a menudo, y largo y tendido, de sus hazañas, pero él también tiene no pocos logros a su nombre. Ha mirado más hondo en el mar aetherial que nadie en Sharlayan, y la amplitud de su saber no tiene par.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_033	Sin par, quizá, salvo por <if(gnum4,una sola mujer,un solo hombre)>... Debemos aprovechar esta valiosa oportunidad para aprender lo que podamos de <if(gnum4,ella,él)>, y quizá resolver este enigma que nos tiene perplejos a los tres desde hace lunas.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_034	Fuimos nosotros quienes escrutamos el mar insondable desde la Antitower, en las tierras remotas de Dravania. Allí hablamos con Hydaelyn y supimos del destino que le esperaba a esta estrella: los Días Finales.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_035	Poco después toda la investigación se trasladó a Labyrinthos, y continuamos nuestra vigilancia con el Aitiascope. Por impresionante que sea el dispositivo, solo alcanza a vislumbrar una fracción de las infinitas profundidades del mar.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_036	Lo que nos lleva al asunto en cuestión. Poco después de que se declarara el éxodo, recuperamos un fragmento de cristal inusual durante una observación de rutina. Apareció de pronto ante nosotros, como si una fuerza desconocida lo hubiera empujado a la superficie.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_037	Descubrimos que su densidad aetherial supera en varios órdenes de magnitud la de los cristales normales. Y su forma no se parece a nada que exista en el mundo natural ─ fue <italic(1)>fabricado<italic(0)>, no formado.
+TEXT_AKTKRA101_04475_CLAUDIEN_100_037	Por desgracia, eso fue todo lo que pudimos averiguar antes de tener que concentrarnos en el éxodo. En medio del repentino caos, el cristal quedó casi olvidado.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_038	Pero gracias a los esfuerzos de cierta persona, esa crisis quedó atrás, y somos libres de retomar nuestra investigación.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_039	Así que decidimos buscarl<if(gnum4,a,o)> a usted: <if(gnum4,la intrépida aventurera,el intrépido aventurero)> que se adentró en lo desconocido y contempló sus secretos más íntimos. Y ahora quisiéramos que lo viera con sus propios ojos...
+TEXT_AKTKRA101_04475_CLAUDIEN_000_198	Este es el cristal en cuestión.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_199	Si se parece en algo a lo que haya visto antes, aunque sea en lo más mínimo, dígamelo, por favor.
+TEXT_AKTKRA101_04475_Q1_000_100	¿Qué vas a decir?
+TEXT_AKTKRA101_04475_A1_000_100	Este cristal guarda recuerdos.
+TEXT_AKTKRA101_04475_A2_000_100	Conozco a alguien que tiene un cristal parecido.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_200	¡Lo sabía, <italic(1)>sí<italic(0)> sabe lo que es! Por favor, cuéntemelo todo.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_201	Ya veo. Los Ascians los usan para trasladar sus recuerdos a nuevos recipientes. Fascinante, sin duda.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_202	Era evidente que este cristal tenía algo especial, pero esta revelación supera incluso mis considerables expectativas.
+TEXT_AKTKRA101_04475_NEMJIJI_000_203	A lo largo de los siglos aparecieron artefactos parecidos. Recuerdos de técnicas de combate que se manifestaron como fragmentos cristalinos en el campo de batalla, o piedras legendarias que pasaban de maestro a discípulo...
+TEXT_AKTKRA101_04475_NEMJIJI_000_204	Comparar esos artefactos con este cristal podría ser un primer paso fructífero para desvelar su verdadera naturaleza. ¿Qué opina, profesor?
+TEXT_AKTKRA101_04475_CLAUDIEN_000_205	Recuerdos de Ascians... Ventanas por las que podemos asomarnos a la Convocation of Fourteen...
+TEXT_AKTKRA101_04475_CLAUDIEN_000_206	...A diferencia del cristal de la historia de <split(<string(gstr1)>, ,1)>, este no lleva la marca de la Convocation. ¿A quién podrían pertenecer, entonces, estos recuerdos?
+TEXT_AKTKRA101_04475_CLAUDIEN_000_207	Y, más importante aún, ¿por qué se guardaron en este fragmento en particular? Y, más importante todavía, ¿por qué lo dejaron a la deriva en el mar aetherial?
+TEXT_AKTKRA101_04475_NEMJIJI_000_208	¡Profesor! ¡Pro. Fe. Sor! ¡Claudien!
+TEXT_AKTKRA101_04475_CLAUDIEN_000_209	Eh... ¿Sí?
+TEXT_AKTKRA101_04475_NEMJIJI_000_210	Sé muy bien que la reflexión es la clave de los grandes hallazgos, pero hay que guardar las formas. Tenemos visita ─ alguien a quien <italic(1)>usted<italic(0)> invitó expresamente. ¿Tenemos que pasar por esto cada vez?
+TEXT_AKTKRA101_04475_CLAUDIEN_000_211	¿Qué...? ¡Ah! ¡Sí, claro, nuestra visita! Lo siento muchísimo ─ me dejo arrastrar con tanta facilidad por las mareas de la cavilación...
+TEXT_AKTKRA101_04475_CLAUDIEN_000_212	Quizá una forma más, eh... entretenida de aprovechar su tiempo con nosotros sería que tome ese cristal. Si de verdad guarda recuerdos, puede que se le revelen al tocarlo.
+TEXT_AKTKRA101_04475_SEOULCRYSTAL_000_213	(-Voz débil-)<colortype(547)>Si alguien...mensaje...vengan...Pandæmonium... Por favor...<colortype(0)>
+TEXT_AKTKRA101_04475_SEOULCRYSTAL_000_214	(-Voz débil-)<colortype(547)>...se enfrenta...grave amenaza...la estrella...en peligro!<colortype(0)>
+TEXT_AKTKRA101_04475_CLAUDIEN_000_215	Esa expresión no augura nada bueno... ¿Qué vio?
+TEXT_AKTKRA101_04475_CLAUDIEN_000_216	...¿"Pandæmonium"? No es una palabra que haya oído antes. Si mi conocimiento de la lengua antigua no me falla, significa "todos los demonios". No es un nombre que inspire optimismo, considerándolo todo.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_217	Por si de verdad se nos viene encima otro cataclismo capaz de destrozar la estrella, quisiera tener a mano los ejemplos de recuerdos cristalizados que mencionamos. Nemjiji, Ruissenaud: les encargo conseguirlos. Si hay más recuerdos que extraer de este cristal, los encontraremos.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_218	En cuanto a usted, <split(<string(gstr1)>, ,1)>, hay alguien a quien quisiera que buscara: quien nos envió una advertencia tan grave.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_219	Su relato nos dice que muy bien podría haber hecho este cristal uno de los antiguos.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_220	Si es así, descubrir la naturaleza de este "Pandæmonium" exigiría un viaje muy lejano al pasado. A una era anterior a la escisión.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_221	Solo conozco a una persona capaz de semejante hazaña: <if(gnum4,la misma heroína,el mismo héroe)> que atravesó el tiempo para impedir la perdición del mundo.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_222	Debo confesar que las historias que la gente cuenta de sus aventuras parecen increíbles, y su veracidad fue motivo de mucho debate entre mis colegas. Pero después del encuentro de hoy, no me cabe duda de que cada una de esas proezas es cierta.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_223	Así que ahora le pido: vuelva al pasado. Averigüe qué es Pandæmonium y dónde está, y si debemos preocuparnos por este mensaje.
+TEXT_AKTKRA101_04475_CLAUDIEN_000_224	Gracias. Por ahora, conserve el cristal. No creo que haya visto lo último de sus recuerdos, y quizá aparezcan más a medida que se acerque a su origen. Buen viaje, y ojalá nos volvamos a ver pronto para compartir lo que hayamos descubierto.
+TEXT_AKTKRA101_04475_SEOULCRYSTAL_000_250	(-Voz débil-)<colortype(547)>Si...recibe este mensaje...<colortype(0)>
+TEXT_AKTKRA101_04475_SEOULCRYSTAL_000_251	(-Voz débil-)<colortype(547)>¡Vengan...Pandæmonium...rápido!<colortype(0)>
+TEXT_AKTKRA101_04475_THEMIS_000_300	(-???-)Ugh...
+TEXT_AKTKRA101_04475_THEMIS_000_301	(-Muchacho confundido-)¿Será posible...?
+TEXT_AKTKRA101_04475_THEMIS_000_302	(-Muchacho confundido-)...No, claro que no. Disculpa, pero por un instante creí que eras <if(gnum4,una querida amiga,un querido amigo)> mí<if(gnum4,a,o)>. Ahora me doy cuenta de que la idea es absurda.
+TEXT_AKTKRA101_04475_THEMIS_000_303	(-Muchacho confundido-)<if(gnum4,Ella,Él)> me dijo que una estrella fugaz aparecería ante mí, y supongo que debes de ser tú. A decir verdad, no esperaba que la expresión fuera tan...literal.
+TEXT_AKTKRA101_04475_THEMIS_000_320	Ah, disculpa por no haberme presentado como corresponde. Me llamo Themis. Como ves por mi rostro descubierto, no soy uno de los observadores de Elpis.
+TEXT_AKTKRA101_04475_THEMIS_000_321	Estoy aquí por un encargo, que fue más o menos rutinario hasta este preciso momento...
+TEXT_AKTKRA101_04475_THEMIS_000_322	No hay duda de que sabes hacer una entrada. Me pregunto qué te trajo aquí, porque está claro que no perteneces a este lugar ─ ni a ningún otro que yo conozca, ya puestos.
+TEXT_AKTKRA101_04475_Q2_000_200	¿Qué vas a decir?
+TEXT_AKTKRA101_04475_A1_000_200	Soy familiar de Azem.
+TEXT_AKTKRA101_04475_A2_000_200	Yo también estoy aquí por un encargo.
+TEXT_AKTKRA101_04475_THEMIS_000_325	Hmm, parece que mi primera impresión no era tan absurda después de todo. No sabía que mi amig<if(gnum4,a,o)> tuviera un familiar tan singular a su disposición.
+TEXT_AKTKRA101_04475_THEMIS_000_326	Si estás aquí por orden de Azem, creo que puedo adivinar tu propósito. Vienes a investigar Pandæmonium, ¿verdad?
+TEXT_AKTKRA101_04475_THEMIS_000_330	Hmm... ¿vienes a investigar Pandæmonium, por casualidad? No me sorprendería que compartiéramos un propósito...
+TEXT_AKTKRA101_04475_THEMIS_000_335	Si es así, quizá podamos ayudarnos. Pero antes, ¿podría pedirte que me expliques cómo acabaste chocando con mi cráneo?
+TEXT_AKTKRA101_04475_THEMIS_000_336	Ya veo. Creo que eso disipa las dudas importantes que tenía sobre tus intenciones. Disculpa por ser tan entrometido, pero comprenderás que esto no pasa todos los días.
+TEXT_AKTKRA101_04475_THEMIS_000_337	No indagaré más, porque sé bien que todos tenemos secretos que guardar. Pero, si me permites, me gustaría mucho echarle un vistazo a ese cristal tuyo.
+TEXT_AKTKRA101_04475_THEMIS_000_338	Fascinante. Aunque no puedo decir mucho de lo que contiene, está claro que en su interior se agitan recuerdos.
+TEXT_AKTKRA101_04475_THEMIS_000_339	Recuerdos que hablan de algo que anda muy mal en Pandæmonium...
+TEXT_AKTKRA101_04475_THEMIS_000_340	Las instalaciones se extienden bajo Elpis y las supervisan las Words of Lahabrea.
+TEXT_AKTKRA101_04475_THEMIS_000_341	Albergan aquellas creaciones muy valiosas como sujetos de investigación...y muy peligrosas para la estrella. Naturalmente, están bajo estricta custodia y vigilancia constante.
+TEXT_AKTKRA101_04475_THEMIS_000_342	Pero hace varios días se detectó un cambio antinatural en el flujo del aether de los alrededores. Poco después, se cortaron todas las comunicaciones de Pandæmonium.
+TEXT_AKTKRA101_04475_THEMIS_000_343	Estoy aquí en representación de una organización que trabaja directamente con la Convocation, y me encargaron investigar este incidente.
+TEXT_AKTKRA101_04475_THEMIS_000_344	Ahora que hay algo de transparencia entre nosotros, ¿puedo sugerir qué hacer a continuación?
+TEXT_AKTKRA101_04475_SYSTEM_000_350	Durante tu investigación puedes descubrir artefactos valiosos.
+TEXT_AKTKRA101_04475_SYSTEM_000_351	Puedes cambiarlos por equipo hablando con Mylenie en Aporia o con Djole en Radz<-->at<-->Han.
