@@ -1,0 +1,26 @@
+key	text
+TEXT_XXAUSA104_03858_SEQ_00	Papalymo tiene una idea de cómo podrías ganarte el aprecio de los sylphs de Little Solace.
+TEXT_XXAUSA104_03858_SEQ_01	Papalymo cree que ayudar a los sylphs con problemas en Little Solace sería un gran paso para ganarse su confianza. Como los sylphs no suelen contarles sus problemas a los forasteros, pídele consejo a la Hearer Imedia.
+TEXT_XXAUSA104_03858_SEQ_02	Según Imedia, los sylphs viven con miedo constante a los ataques de las criaturas agresivas del bosque. Te pide que mates un ziz gorlin y un gall gnat para que los habitantes de Little Solace puedan descansar tranquilos, y te sugiere que, de paso, consigas tres brownie brushes, lo que también ayudaría mucho a ganarte el favor de los sylphs.
+TEXT_XXAUSA104_03858_SEQ_03	Acabaste con la fauna invasora y conseguiste brownie brushes para los sylphs. Informa a Komuxio, en Little Solace, y demuéstrale tus buenas intenciones.
+TEXT_XXAUSA104_03858_SEQ_04	Komuxio te agradece lo que hiciste por Little Solace. Parece que los sylphs empiezan a tomarte cariño, aunque de a poco.
+TEXT_XXAUSA104_03858_TODO_00	Consulta a Imedia.
+TEXT_XXAUSA104_03858_TODO_01	Mata un ziz gorlin.
+TEXT_XXAUSA104_03858_TODO_02	Mata un gall gnat.
+TEXT_XXAUSA104_03858_TODO_03	Consigue brownie brushes.
+TEXT_XXAUSA104_03858_TODO_04	Informa a Komuxio en Little Solace.
+TEXT_XXAUSA104_03858_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
+TEXT_XXAUSA104_03858_PAPALYMO_000_000	<split(<string(gstr1)>, ,1)>. Como aventurer<if(gnum4,a,o)>, ayudar a gente en apuros no es nada nuevo para ti, diría yo.
+TEXT_XXAUSA104_03858_PAPALYMO_000_001	Las historias de buenas acciones corren rápido. Quien ayuda a la población local puede pasar de forastero a héroe de la noche a la mañana.
+TEXT_XXAUSA104_03858_PAPALYMO_000_002	Seguro que entiendes adónde quiero llegar. Los sylphs que viven en Little Solace llegaron aquí expulsados de su hogar en el bosque. Seguro que tienen su buena dosis de problemas.
+TEXT_XXAUSA104_03858_PAPALYMO_000_003	Busca sylphs con problemas y mira qué puedes hacer para aliviar sus preocupaciones. Un plan sensato, ¿no te parece?
+TEXT_XXAUSA104_03858_PAPALYMO_000_004	Dicho esto, los sylphs no suelen contarles sus preocupaciones a los forasteros. Te conviene más preguntarle a la Hearer Imedia; de los gridanianos que viven aquí, es la que más probablemente esté al tanto de los problemas de los sylphs.
+TEXT_XXAUSA104_03858_IMEDIA_000_010	Alabados sean los elementales ─ no sabe cuánto me alegra ver a un<if(gnum4,a aventurera,aventurero)> de corazón realmente gentil. Los sylphs de Little Solace necesitan ayuda con urgencia. Le ruego que me escuche.
+TEXT_XXAUSA104_03858_IMEDIA_000_011	Como Little Solace es un asentamiento provisorio, le faltan comodidades, y sobre todo unas buenas defensas. Por eso las bestias de varios malms a la redonda entran a su antojo y aterrorizan a los pobres habitantes.
+TEXT_XXAUSA104_03858_IMEDIA_000_012	Los ziz gorlins y los gall gnats que rondan por aquí son especialmente molestos, pero matar uno de cada uno debería servir de advertencia para los demás.
+TEXT_XXAUSA104_03858_IMEDIA_000_013	Además, quizás también podría juntar tres brownie brushes. Tienen un papel importante en la cultura de los sylphs ─ no digo conocer los detalles ─, y con tantas bestias salvajes merodeando por los bosques, no es fácil conseguirlos.
+TEXT_XXAUSA104_03858_IMEDIA_000_014	Cuando termine, busque a Komuxio. Le cuesta confiar en los forasteros, pero sus buenas intenciones no le pasarán desapercibidas. Lo digo por experiencia propia.
+TEXT_XXAUSA104_03858_KOMUXIO_000_030	¿<if(gnum4,Bailarina,Bailarín)> sigue aquí? <if(gnum4,Bailarina,Bailarín)> puede bailar <if([gnum11<12],<if([gnum11<4],toda la noche,todo el día)>,<if([gnum11<17],todo el día,toda la noche)>)> ─ la confianza de este no se gana tan fácil.
+TEXT_XXAUSA104_03858_KOMUXIO_000_031	¿Hm? ¿<if(gnum4,Bailarina,Bailarín)> trae brownie brushes para este? Este puede teñir hilo otra vez. Este está contento.
+TEXT_XXAUSA104_03858_KOMUXIO_000_032	¿<if(gnum4,Bailarina,Bailarín)> mata a mordedores zumbadores? ¡Este odia, odia, odia a los mordedores zumbadores! <if(gnum4,Bailarina,Bailarín)> es amable... Demasiado amable.
+TEXT_XXAUSA104_03858_KOMUXIO_000_033	Muchos caminantes vienen a la morada de estos, pero pocos son amistosos como <if(gnum4,bailarina,bailarín)>. Quizás este se equivocó al no confiar en <if(gnum4,bailarina,bailarín)>, después de todo.

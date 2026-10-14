@@ -1,0 +1,35 @@
+key	text
+TEXT_GAIUSA105_00719_SEQ_00	Komuxio, de Little Solace, quiere encargarte una tarea.
+TEXT_GAIUSA105_00719_SEQ_01	A Komuxio le preocupa que se hayan visto caminantes desconocidos en el bosque. Habla con los habitantes de Little Solace y de la Hawthorne Hut y averigua lo que puedas.
+TEXT_GAIUSA105_00719_SEQ_02	Tu investigación dio frutos. Vuelve a Little Solace y cuéntale a Komuxio lo que averiguaste.
+TEXT_GAIUSA105_00719_SEQ_03	Al enterarse de que se vieron hombres extraños vestidos de acero, Komuxio te pide que te adentres en el bosque a investigar. Busca señales de una incursión imperial.
+TEXT_GAIUSA105_00719_SEQ_04	Te topas con una pila de cajas sospechosas, y un grupo de soldados imperiales te ataca. Después de repelerlos, registras las cajas y encuentras un quartermaster's log con una lista de suministros imperiales por entregar. Vuelve a Little Solace y cuéntale a Komuxio este hallazgo inquietante.
+TEXT_GAIUSA105_00719_SEQ_05	Komuxio deduce que el registro tuvo que escribirlo alguien que conoce el bosque. ¿Habrá un traidor entre ustedes?
+TEXT_GAIUSA105_00719_TODO_00	Investiga la presencia sospechosa.
+TEXT_GAIUSA105_00719_TODO_01	Habla con Komuxio.
+TEXT_GAIUSA105_00719_TODO_02	Busca pistas en el bosque.
+TEXT_GAIUSA105_00719_TODO_03	Entrégale el quartermaster's log a Komuxio.
+TEXT_GAIUSA105_00719_KOMUXIO_000_000	Este le pide perdón a <if(gnum4,bailarina,bailarín)>. Estos tienen muchos problemas desde que los caminantes vinieron a la morada por última vez. Este debe tener cuidado. Siempre cuidado.
+TEXT_GAIUSA105_00719_KOMUXIO_000_001	Pero <if(gnum4,bailarina,bailarín)> no es como otros caminantes. Este puede confiar en <if(gnum4,bailarina,bailarín)>. Este quiere pedirle ayuda a <if(gnum4,bailarina,bailarín)>.
+TEXT_GAIUSA105_00719_KOMUXIO_000_002	Caminantes extraños con cuerpos de acero vienen al hogar de estos. Este cree que los de acero vienen del Empire.
+TEXT_GAIUSA105_00719_KOMUXIO_000_003	Donde va el Empire, muchos vivos se vuelven muertos. Los árboles caen y los arbustos arden. El hogar de estos está en peligro. ¡Peligro!
+TEXT_GAIUSA105_00719_KOMUXIO_000_004	Este le ruega a <if(gnum4,bailarina,bailarín)> que ayude a este a saber más. <if(gnum4,Bailarina,Bailarín)> es amig<if(gnum4,a,o)> de estos y de los caminantes, ¿sí? <if(gnum4,Bailarina,Bailarín)> debe hablar con estos de aquí y con los caminantes de la casa-cabaña y averiguar más.
+TEXT_GAIUSA105_00719_KOMUXIO_000_005	Este tiene un mal presentimiento. Este teme que los de acero busquen algo. Pero este no debe hablar más. Ve, <if(gnum4,bailarina,bailarín)>. Este depende de la bondad de <if(gnum4,bailarina,bailarín)>.
+TEXT_GAIUSA105_00719_PELIXIA_000_010	¿Caminantes de acero extraños? Sí, este los vio. Los caminantes de acero cargan cajas grandes. ¿Quizás los caminantes buscan tesoros brillantes? ¡A este le gustan los tesoros!
+TEXT_GAIUSA105_00719_NATHAXIO_000_011	¡Chist! ¡Chist, dice este! Los caminantes de acero dan miedo, como los tocados... ¡Este odia el miedo! Y los que dan miedo tienen amigos que dan miedo...
+TEXT_GAIUSA105_00719_MONNE_000_020	¿Hombres con armaduras raras? Pues ahora que lo dices, <italic(1)>sí<italic(0)> vi unos tipos sospechosos hace poco. Se juntaban en lo profundo del bosque. Supuse que eran aventureros...
+TEXT_GAIUSA105_00719_VICTOR_000_021	¿Tipos temibles cubiertos de acero de pies a cabeza, dice? Soldados imperiales, sin duda. No sabría decirle qué traman, pero seguro que nada bueno.
+TEXT_GAIUSA105_00719_KOMUXIO_000_030	Este está feliz de ver volver a <if(gnum4,bailarina,bailarín)>. ¿Qué averiguó <if(gnum4,bailarina,bailarín)>?
+TEXT_GAIUSA105_00719_KOMUXIO_000_031	Este entiende. Los caminantes de acero vienen del Empire. Cargan cajas y se van caminando lejos, lejos entre los árboles.
+TEXT_GAIUSA105_00719_KOMUXIO_000_032	¡Como este pensaba! Los caminantes de acero andan en cosas feas y malas.
+TEXT_GAIUSA105_00719_KOMUXIO_000_033	Este conoce bien el bosque. Los caminantes de acero intentan esconderse, pero este los encontrará.
+TEXT_GAIUSA105_00719_KOMUXIO_000_034	Este quiere que <if(gnum4,bailarina,bailarín)> le preste su mapa. Este hace una marca ─ ¡justo aquí! Aquí se esconden los de acero, este lo sabe. <if(gnum4,Bailarina,Bailarín)> irá a buscar a los de acero, ¿sí?
+TEXT_GAIUSA105_00719_POP_MESSAGE	¡Sientes una presencia hostil!
+TEXT_GAIUSA105_00719_KOMUXIO_000_050	<if(gnum4,Bailarina,Bailarín)> volvió. Este suspira de alivio. Este estaba preocupado. ¿Hm? ¿<if(gnum4,Bailarina,Bailarín)> encontró algo?
+TEXT_GAIUSA105_00719_KOMUXIO_000_051	¿<if(gnum4,Bailarina,Bailarín)> encontró papel dentro de la caja? ¿Es un mensaje del Empire?
+TEXT_GAIUSA105_00719_KOMUXIO_000_052	Este sabe leer los símbolos de los caminantes. El papel-mensaje tiene nombres de comidas y piedras. Comidas y piedras estaban dentro de las cajas, este lo sabe.
+TEXT_GAIUSA105_00719_KOMUXIO_000_053	Pero este no entiende. Las comidas y piedras que nombra vienen todas del hogar de <italic(1)>estos<italic(0)>. ¿Cómo saben los caminantes de acero dónde encontrarlas?
+TEXT_GAIUSA105_00719_KOMUXIO_000_054	¿Hay un escurridizo escondido detrás de las alas de este? ¿Un fisgón que vende secretos a los caminantes de acero?
+TEXT_GAIUSA105_00719_KOMUXIO_000_055	Este teme por su hogar. Pero <if(gnum4,bailarina,bailarín)> ayudó mucho a este hoy. <if(gnum4,Bailarina,Bailarín)> debe prometer que siempre será amig<if(gnum4,a,o)> de estos.
+TEXT_GAIUSA105_00719_POP_MESSAGE_000	¡Sientes una presencia hostil!
+TEXT_GAIUSA105_00719_ACCESS_MESSAGE	¡El enemigo sigue cerca!

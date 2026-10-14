@@ -1,0 +1,49 @@
+key	text
+TEXT_GAIUSA201_00724_SEQ_00	Komuxio extraña a un amigo descarriado.
+TEXT_GAIUSA201_00724_SEQ_01	Komuxio teme por su amigo Claxio, que se fue sin compañía. Te pide que encuentres a Claxio y lo traigas de vuelta a Little Solace.
+TEXT_GAIUSA201_00724_SEQ_02	Aunque encontraste a Claxio, el sylph no tiene ninguna intención de volver contigo. Llévale la noticia a Komuxio, que espera en Little Solace.
+TEXT_GAIUSA201_00724_SEQ_03	Según Komuxio, hay sylphs subyugados merodeando por la zona, y Claxio corre grave peligro. Tienes que encontrarlo antes de que caiga bajo el influjo del primal.
+TEXT_GAIUSA201_00724_SEQ_04	Encuentras a Claxio justo a tiempo para impedir que los sylphs subyugados se lo lleven. Después de un emotivo reencuentro con Komuxio, Claxio acepta volver a Little Solace. Vuelve tú también a la aldea y escucha lo que Komuxio tiene para decir.
+TEXT_GAIUSA201_00724_SEQ_05	Lo que hiciste por su amigo te valió la confianza absoluta de Komuxio. ¿El anciano de los sylphs será igual de receptivo?
+TEXT_GAIUSA201_00724_TODO_00	Habla con Claxio.
+TEXT_GAIUSA201_00724_TODO_01	Habla con Komuxio.
+TEXT_GAIUSA201_00724_TODO_02	Encuentra a Claxio.
+TEXT_GAIUSA201_00724_TODO_03	Informa a Komuxio.
+TEXT_GAIUSA201_00724_KOMUXIO_000_000	¡Ayudante llega en buen momento! ¡Este necesita la ayuda de ayudante!
+TEXT_GAIUSA201_00724_KOMUXIO_000_001	Uno de estos, llamado Claxio, salió solo de Little Solace. ¡Solo no es seguro! ¡Ayudante debe encontrar a Claxio!
+TEXT_GAIUSA201_00724_KOMUXIO_000_002	Claxio se fue hacia el oeste al salir del asentamiento. ¡Rápido, antes de que Claxio termine en la panza de una bestia!
+TEXT_GAIUSA201_00724_CLAXIO_000_010	¿Qué? ¿Caminante quiere que este vuelva a Little Solace? ¡No hagas reír a este!
+TEXT_GAIUSA201_00724_CLAXIO_000_011	Este está cansado de vivir con los que no son como estos. Este quiere estar solo.
+TEXT_GAIUSA201_00724_CLAXIO_000_012	Estos dependen de los caminantes para todo. ¡No son mejores que los que invocaron a un primal! ¡No es raro que este decidiera irse!
+TEXT_GAIUSA201_00724_CLAXIO_000_013	Este creyó que este era buen lugar para hacer un hogar. Pero entonces llega <if(gnum4,entrometida,entrometido)> ─ y obliga a este a ir más adentro del bosque. ¡<if(gnum4,Entrometida,Entrometido)> tiene prohibido seguir a este! ¡Fuera, <if(gnum4,entrometida,entrometido)>!
+TEXT_GAIUSA201_00724_KOMUXIO_000_020	¿Qué? ¿¡Claxio no quiso volver con estos, y se fue más adentro del bosque!?
+TEXT_GAIUSA201_00724_KOMUXIO_000_021	¡P-Pero este vio tocados acechando en el bosque! ¡Ayudante debe apurarse ─ apurarse y encontrar a Claxio!
+TEXT_GAIUSA201_00724_KOMUXIO_000_022	Ayudante debe buscar carretes de hilo en el suelo del bosque. Esas cosas llevarán a ayudante hasta Claxio. ¡Pero rápido! ¡Rápido, antes de que los tocados se lleven a Claxio!
+TEXT_GAIUSA201_00724_CLAXIO_000_025	¿¡<if(gnum4,Entrometida,Entrometido)> volvió!? ¡Este le dijo a <if(gnum4,entrometida,entrometido)> que se fuera! ¡Dile a Komuxio que este nunca volverá! ¡<italic(1)>Nunca<italic(0)>!
+TEXT_GAIUSA201_00724_CLAXIO_000_026	¿T-Tocados? ¡Los tocados también deben irse! ¡Este es bueno! ¡¡¡Todos deberían dejar a este en paz!!!
+TEXT_GAIUSA201_00724_PAPALYMO_000_027	Ten cuidado, <split(<string(gstr1)>, ,1)>. Estos sylphs están subyugados ─ bajo el dominio del primal Ramuh.
+TEXT_GAIUSA201_00724_PAPALYMO_000_028	Como los Amalj'aa subyugados por Ifrit, estos sylphs solo existen para servir a su deidad.
+TEXT_GAIUSA201_00724_YDA_000_029	No van a escuchar palabras ─ solo acero. No me da ningún gusto, pero hay que hacerlo.
+TEXT_GAIUSA201_00724_CLAXIO_000_032	¿E-Este está... a salvo? Este tenía tanto miedo...
+TEXT_GAIUSA201_00724_KOMUXIO_000_033	¡Claxio! ¡Este estaba preocupado! ¡Muy, muy preocupado! ¿Claxio está ileso? ¿Todavía tiene su juicio?
+TEXT_GAIUSA201_00724_CLAXIO_000_034	¿K-Komuxio? Y <if(gnum4,entrometida,entrometido)> también... ¿Por qué están aquí estos dos?
+TEXT_GAIUSA201_00724_KOMUXIO_000_035	¡Estos dos vinieron a rescatar a Claxio! ¡Que Claxio esté a salvo llena a este de alegría!
+TEXT_GAIUSA201_00724_CLAXIO_000_036	Komuxio... perdona a este. Este no quería huir de Little Solace. Este solo... tenía miedo.
+TEXT_GAIUSA201_00724_CLAXIO_000_037	Estos que viven en Little Solace estaban cambiando ─ se hacían amigos de otros.
+TEXT_GAIUSA201_00724_CLAXIO_000_038	Este temía que estos estuvieran olvidando quiénes son... como les pasó a los tocados. Pero este se equivocó. Ahora este lo ve.
+TEXT_GAIUSA201_00724_CLAXIO_000_039	<if(gnum4,Entrometida,Entrometido)>─ digo, <italic(1)>ayudante<italic(0)>. Este está agradecido. Este volverá a Little Solace para estar con Komuxio y los amigos.
+TEXT_GAIUSA201_00724_PAPALYMO_000_039	Bueno, asunto resuelto. ¿Qué tal si volvemos también a Little Solace? Yo, por mi parte, no le haría asco a un buen baño caliente.
+TEXT_GAIUSA201_00724_KOMUXIO_000_040	Este pensó que Claxio estaba perdido para siempre. Ayudante salvó a Claxio ─ ahora estos pueden volver a ser familia.
+TEXT_GAIUSA201_00724_KOMUXIO_000_041	Este conoció a muchos caminantes ─ incluso a muchos caminantes amables ─, pero ayudante es <if(gnum4,la más amable y la más fuerte,el más amable y el más fuerte)> de todos. Ayudante es <if(gnum4,una heroína,un héroe)> para estos.
+TEXT_GAIUSA201_00724_KOMUXIO_000_042	Ayudante acercará a estos y a los caminantes ─ este lo sabe. Este quiere llevar a ayudante a ver al anciano.
+TEXT_GAIUSA201_00724_KOMUXIO_000_043	Pero el anciano está... El anciano está...
+TEXT_GAIUSA201_00724_QIB_TODO001	¡Derrota a los sylphs subyugados!
+TEXT_GAIUSA201_00724_SYLPHBOSS_GAIUSA201_BATTLETALK_01	Claxio... Estos son tus amigos...<br>Ven con estos... Sirvamos juntos al primal...
+TEXT_GAIUSA201_00724_CLAXIO_BATTLETALK_02	¡No! ¡Este es bueno! ¡Nunca irá con los malos!
+TEXT_GAIUSA201_00724_SYLPHBOSS_GAIUSA201_BATTLETALK_03	No es listo que <if(gnum4,entrometida,entrometido)> enoje a este...<br>Este tiene muchos amigos en el bosque...
+TEXT_GAIUSA201_00724_PAPALYMO_BATTLETALK_04	¿¡Un morbol!? Y con lo bien que iba todo...
+TEXT_GAIUSA201_00724_CLAXIO_BATTLETALK_05	N-No... ¡el apestoso no! ¡El apestoso da miedo!<br>¡La peste del apestoso hace que a este le dé vueltas la cabeza!
+TEXT_GAIUSA201_00724_YDA_BATTLETALK_06	¡Puaj! <split(<string(gstr1)>, ,1)> ─ Papalymo y yo nos encargamos de esta bestia. ¡Tú ocúpate de los sylphs!
+TEXT_GAIUSA201_00724_PAPALYMO_BATTLETALK_07	Hay algo raro en este morbol.<br>¡Ignóralo y concentra tus ataques en los sylphs!
+TEXT_GAIUSA201_00724_YDA_BATTLETALK_10	¡Apúrate, Papalymo ─ no aguanto más este olor!
+TEXT_GAIUSA201_00724_PAPALYMO_BATTLETALK_11	¡Hago lo que puedo! Si acabamos con los sylphs, seguro que...

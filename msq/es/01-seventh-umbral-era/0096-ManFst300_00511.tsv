@@ -1,0 +1,278 @@
+key	text
+TEXT_MANFST300_00511_SEQ_00	Minfilia sonríe con ironía. ¿Tendrá algo que ver con tu reciente fama?
+TEXT_MANFST300_00511_SEQ_01	Parece que tus últimas hazañas llamaron la atención de las tres Grand Companies de Eorzea. Ahora cada una quiere sumarte a sus filas, a tal punto que enviaron un representante a los Waking Sands para cortejarte. Aunque a Minfilia no parece agradarle el giro de los acontecimientos, admite que unirte a una Grand Company tendría sus ventajas. Pero ¿cuál elegirás? Para que decidas con conocimiento de causa, te sugiere asistir a las próximas ceremonias conmemorativas y escuchar el discurso del líder de cada Grand Company. Tataru podrá darte los detalles.
+TEXT_MANFST300_00511_SEQ_02	Tataru te informó dónde se celebrarán las ceremonias conmemorativas. Visita el Mih Khetto's Amphitheatre en Gridania, el Royal Promenade en Ul'dah y, por último, el Stateroom en Limsa Lominsa, y escucha lo que tienen que decir los líderes de las Grand Companies.
+TEXT_MANFST300_00511_SEQ_03	Ya asististe a las tres ceremonias conmemorativas. Por lo que dijeron los líderes de las Grand Companies y los gemelos viajeros, Alphinaud y Alisaie, cada una de las ciudades<-->estado de Eorzea enfrenta graves problemas. Está claro que las tres se beneficiarían de tu ayuda, pero ¿cuál la merece más? Vuelve a los Waking Sands y comparte tus impresiones con Minfilia.
+TEXT_MANFST300_00511_SEQ_04	Minfilia confirma que las tres ciudades<-->estado necesitan ayuda con urgencia, y lamenta que solo haya una persona como tú. Te espera una decisión difícil. Piénsalo bien y dale tu respuesta al oficial de la Grand Company a la que quieras unirte.
+TEXT_MANFST300_00511_TODO_00	Habla con Tataru.
+TEXT_MANFST300_00511_TODO_01	Asiste a la ceremonia conmemorativa en el Mih Khetto's Amphitheatre de Gridania.
+TEXT_MANFST300_00511_TODO_02	Asiste a la ceremonia conmemorativa en el Royal Promenade de Ul'dah.
+TEXT_MANFST300_00511_TODO_03	Asiste a la ceremonia conmemorativa en el Stateroom de Limsa Lominsa.
+TEXT_MANFST300_00511_TODO_04	Informa a Minfilia en los Waking Sands.
+TEXT_MANFST300_00511_MINFILIA_000_10	Hasta hace muy poco, eras solo un<if(gnum4,a,o)> más de los muchos aventureros que buscaban abrirse camino en Eorzea.
+TEXT_MANFST300_00511_MINFILIA_000_11	Pero por tu carácter y tu coraje, te elevaron al honroso cargo de enviad<if(gnum4,a,o)>. Después recorriste el reino ayudando a quien lo necesitara sin pensar en recompensas, y le demostraste a <switch(gnum70,Y'shtola,Yda y Papalymo,Thancred)> que los Scions se beneficiarían de tu ayuda. Y apenas te uniste a nosotros, venciste tú mism<if(gnum4,a,o)> al primal Ifrit.
+TEXT_MANFST300_00511_MINFILIA_000_12	Lograste mucho en poco tiempo, y con ello ganaste fama. Por desgracia, la fama tiene su precio, como pronto descubrirás.
+TEXT_MANFST300_00511_MINFILIA_000_13	Tenemos visitas, <split(<string(gstr1)>, ,1)> ─ o, mejor dicho... <italic(1)>tú<italic(0)> tienes visitas.
+TEXT_MANFST300_00511_THREEOFFICER_000_14	(-???-)¡Con permiso!
+TEXT_MANFST300_00511_FLAMEOFFICER_000_15	Ahhh, Lady Minfilia. ¡Radiante como siempre!
+TEXT_MANFST300_00511_SERPENTOFFICER_000_16	¡Tengo entendido que los Scions of the Seventh Dawn acaban de recibir a <if(gnum4,una nueva heroína,un nuevo héroe)> entre los suyos!
+TEXT_MANFST300_00511_STORMOFFICER_000_17	¡Vengo en nombre del Maelstrom, la Grand Company de Limsa Lominsa, a ofrecerle a <if(gnum4,esa heroína,ese héroe)> un lugar de honor en nuestras filas!
+TEXT_MANFST300_00511_MINFILIA_000_18	Como ves, <split(<string(gstr1)>, ,1)>, tus últimas hazañas atrajeron la atención de las Grand Companies de Eorzea.
+TEXT_MANFST300_00511_MINFILIA_000_19	Cada organización quiere para sí a quien derrotó a Ifrit. Para eso, las tres enviaron oficiales a <italic(1)>cortejarte<italic(0)>.
+TEXT_MANFST300_00511_MINFILIA_000_20	No suelen tomarse tantas molestias para alistar a un nuevo recluta. Que <italic(1)>lo hayan hecho<italic(0)> demuestra cuánto te valoran.
+TEXT_MANFST300_00511_MINFILIA_000_21	Me pregunto cómo se difundieron tan rápido las hazañas de <split(<string(gstr1)>, ,1)>. Que los Immortal Flames supieran de su triunfo era de esperar... pero ¿y las <italic(1)>otras<italic(0)> Grand Companies?
+TEXT_MANFST300_00511_TATARU_000_22	¡Ay!
+TEXT_MANFST300_00511_SERPENTOFFICER_000_23	¡Su reputación l<if(gnum4,a,o)> precede, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>! ¡No es <if(gnum4,una mujer,un hombre)> cualquiera quien puede enfrentarse a un primal y salir victorios<if(gnum4,a,o)>!
+TEXT_MANFST300_00511_SERPENTOFFICER_000_24	¡E imagine nuestro orgullo al saber que comenzó su viaje como aventurer<if(gnum4,a,o)> en nuestra propia Gridania! Sepa que el pueblo l<if(gnum4,a,o)> tiene en alta estima, y que siempre será bienvenid<if(gnum4,a,o)> entre nosotros.
+TEXT_MANFST300_00511_SERPENTOFFICER_000_25	La Order of the Twin Adder necesita gente valiente como usted. Una su fuerza a la nuestra, amig<if(gnum4,a,o)>, y juntos aseguremos que la paz reine siempre en el Twelveswood.
+TEXT_MANFST300_00511_FLAMEOFFICER_000_26	¡Qué placer conocerl<if(gnum4,a,o)> por fin, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>! ¡Mis camaradas hablan maravillas de usted!
+TEXT_MANFST300_00511_FLAMEOFFICER_000_27	Incluso antes de que nos ayudara contra los Amalj'aa y su temible primal, su nombre ya era respetado en Ul'dah. Nuestra gente l<if(gnum4,a,o)> conoce y l<if(gnum4,a,o)> quiere.
+TEXT_MANFST300_00511_FLAMEOFFICER_000_28	Alguien de su talento pertenece a los Immortal Flames. Una su fuerza a la nuestra, amig<if(gnum4,a,o)>, y juntos aseguremos un futuro próspero para Ul'dah.
+TEXT_MANFST300_00511_STORMOFFICER_000_29	¡La Admiral no exageraba cuando dijo que usted tiene aire de <if(gnum4,heroína,héroe)>! Habla de usted muy a menudo, amig<if(gnum4,a,o)>.
+TEXT_MANFST300_00511_STORMOFFICER_000_30	...Como muchos otros en Limsa. Mucho antes de que el resto de Eorzea se fijara en usted, su nombre ya era conocido entre nosotros por sus valientes hazañas a favor de nuestros ciudadanos.
+TEXT_MANFST300_00511_STORMOFFICER_000_31	Es natural que l<if(gnum4,a,o)> queramos en el Maelstrom. Una su fuerza a la nuestra, y juntos llevemos el gran navío de Limsa Lominsa a las costas de la gloria.
+TEXT_MANFST300_00511_THREEOFFICER_000_32	(-Oficiales de las Grand Companies-)¡Lady Minfilia!
+TEXT_MANFST300_00511_MINFILIA_000_33	\<suspiro> Muy bien...
+TEXT_MANFST300_00511_MINFILIA_000_34	Aunque estoy segura de que no hace falta recordártelo, quizás un breve resumen de la situación te ayude a aclarar las ideas. Como sabes, las Grand Companies son organizaciones que abarcan todo, facultadas para disponer de los recursos militares, económicos y tecnológicos de sus ciudades<-->estado en tiempos de conflicto.
+TEXT_MANFST300_00511_MINFILIA_000_35	Hoy hay tres en Eorzea: el Maelstrom de Limsa Lominsa, la Order of the Twin Adder de Gridania y los Immortal Flames de Ul'dah.
+TEXT_MANFST300_00511_MINFILIA_000_36	Servir a una Grand Company significa servir a la nación a la que pertenece. Te encargarán defenderla y hacer avanzar su causa.
+TEXT_MANFST300_00511_MINFILIA_000_37	A cambio de tu servicio leal, recibirás varias recompensas, y algunas bien podrían servirte en tus otras empresas.
+TEXT_MANFST300_00511_MINFILIA_000_38	Si te angustia decidir cuál de las Grand Companies merece más tu lealtad, quédate tranquil<if(gnum4,a,o)> ─ el compromiso que asumas hoy no tiene por qué ser permanente. Si más adelante quieres cambiar de bando, puedes hacerlo. Y aun así... reconozco que no es una decisión menor...
+TEXT_MANFST300_00511_MINFILIA_000_39	¡Ah! ¡Se me ocurre algo! Recordarás, por supuesto, que las tres ciudades<-->estado planean celebrar ceremonias conmemorativas.
+TEXT_MANFST300_00511_MINFILIA_000_40	Pues bien, tengo entendido que, como parte de los actos, el líder de cada Grand Company dará un discurso.
+TEXT_MANFST300_00511_MINFILIA_000_41	Escuchar esos discursos debería ayudarte a decidir con conocimiento de causa. ¿Qué les parece, mis queridos oficiales?
+TEXT_MANFST300_00511_SERPENTOFFICER_000_42	¡Excelente sugerencia!
+TEXT_MANFST300_00511_FLAMEOFFICER_000_43	¡Es usted tan sabia como hermosa, mi señora!
+TEXT_MANFST300_00511_STORMOFFICER_000_44	¡Muy bien! Que <split(<string(gstr1)>, ,1)> escuche hablar a nuestros líderes y vuelva aquí con su decisión.
+TEXT_MANFST300_00511_THREEOFFICER_000_45	(-Oficiales de las Grand Companies-)¡Esperamos ansiosos su respuesta!
+TEXT_MANFST300_00511_MINFILIA_000_46	Sé muy bien que los aventureros aman la libertad por naturaleza y no se llevan bien con la disciplina militar, pero aun así te recomiendo que te unas a una Grand Company. La promesa de recompensas es tentadora, pero no es la única ventaja.
+TEXT_MANFST300_00511_MINFILIA_000_47	Tienes un gran poder, <split(<string(gstr1)>, ,1)>, y con él puedes hacer un bien incalculable. Pero un gran poder suele atraer miradas ─ y no todas amistosas.
+TEXT_MANFST300_00511_MINFILIA_000_48	Habrá quienes te deseen mal, y debes estar atent<if(gnum4,a,o)>. Pero por muy alerta que estés, eres una sola persona. En una Grand Company, en cambio, serás una entre muchas ─ entre amigos. Tus logros serán compartidos, y también el peligro. No se me ocurre un arreglo mejor.
+TEXT_MANFST300_00511_MINFILIA_000_49	Por supuesto, unirte a una organización no significa dejar otra. Espero que podamos seguir contando con tu ayuda ─ los Twelve saben que la necesitaremos en los días que vienen.
+TEXT_MANFST300_00511_MINFILIA_000_50	Las Grand Companies buscan proteger a sus propias naciones. Los Scions, en cambio, buscamos preservar el futuro de Eorzea entera. Parecido, pero no del todo igual.
+TEXT_MANFST300_00511_MINFILIA_000_51	Bueno, supongo que de ahora en adelante pasarás más tiempo fuera.
+TEXT_MANFST300_00511_MINFILIA_000_52	Por eso quiero que lleves siempre contigo esta linkpearl. Nos permitirá estar en contacto estés donde estés.
+TEXT_MANFST300_00511_MINFILIA_000_53	Eorzea está cambiando, <split(<string(gstr1)>, ,1)>, y tienes el poder de ayudar a darle una nueva forma.
+TEXT_MANFST300_00511_MINFILIA_000_54	Nadie sabe qué traerá el mañana, pero mientras creamos en nosotros mismos, no habrá nada que no podamos lograr.
+TEXT_MANFST300_00511_MINFILIA_000_55	Ahora es momento de que te prepares para el viaje. Antes de partir, no dejes de hablar con Tataru. Ella te dirá dónde y cuándo se celebrarán las ceremonias conmemorativas.
+TEXT_MANFST300_00511_FLAMEOFFICER_000_900	El Flame General es un hombre apasionado, y sus palabras nunca dejan de encender el fuego en el pecho de quien las escucha. ¡Seguro que usted no será la excepción!
+TEXT_MANFST300_00511_SERPENTOFFICER_000_901	La Elder Seedseer solo dice la verdad, y sus palabras tienen el poder de tocar el alma. Al oír su voz, todos callan y la escuchan.
+TEXT_MANFST300_00511_STORMOFFICER_000_902	Cuando la Admiral habla, hasta los piratas escuchan, y eso no es poca cosa. Es una líder nata ─ de esas a las que uno seguiría con gusto hasta el séptimo infierno.
+TEXT_MANFST300_00511_TATARU_000_60	Eh... Perdón por toda la atención que estás recibiendo, <split(<string(gstr1)>, ,1)>... Puede que haya cantado tus alabanzas un poquito demasiado fuerte... y seguido... y a demasiada gente. Ejem. La próxima vez me morderé la lengua ─ literalmente, si hace falta.
+TEXT_MANFST300_00511_TATARU_000_61	En fin, ¿supongo que quieres saber dónde y cuándo serán las ceremonias conmemorativas?
+TEXT_MANFST300_00511_TATARU_000_62	Si todo sale según lo previsto, la Grand Company de Gridania, la Order of the Twin Adder, celebrará la primera de las tres, y la Elder Seedseer Kan<-->E<-->Senna dará su discurso en el Mih Khetto's Amphitheatre.
+TEXT_MANFST300_00511_TATARU_000_63	Debería aclarar que, por lo difícil que es reunir a todos los involucrados, puede que cambie el orden de las ceremonias... Igual no hay mucho que hacer al respecto, así que ve primero a Gridania.
+TEXT_MANFST300_00511_TATARU_000_64	Después tendrás que ir a Ul'dah, donde el Flame General Raubahn Aldynn hablará ante la multitud en el Royal Promenade. ¡Ah, y dicen que habrá un invitado especial! Qué emoción.
+TEXT_MANFST300_00511_TATARU_000_65	Por último, pero no menos importante, tienes que ir al Stateroom en Limsa Lominsa, donde dará su discurso la Chief Admiral del Maelstrom, Merlwyb Bloefhiswyn.
+TEXT_MANFST300_00511_TATARU_000_66	Se llega por el Admiral's Lift. Identifícate ante el centinela, Zanthael, y te dejará pasar. ¿Entendiste todo?
+TEXT_MANFST300_00511_TATARU_000_67	Bueno, ¡en marcha, entonces! Espero que las ceremonias conmemorativas te resulten instructivas. Te sugiero visitar las ciudades<-->estado en el orden que te dije, aunque con tu historial de suerte y puntualidad <italic(1)>impecables<italic(0)>, puede que el calendario cambie a favor de tus planes de viaje. ¡Adiós!
+TEXT_MANFST300_00511_100010_CLATTERM	¡Miren, es la mismísima sultana Nanamo!
+TEXT_MANFST300_00511_100020_CLATTERF	¡Y también Raubahn!
+TEXT_MANFST300_00511_100030_RAUBAHN	¡Escúchenme, almas de fuego, atraídas al seno del desierto, donde la llama arde con más fuerza y rugirá por siempre!
+TEXT_MANFST300_00511_100040_CLATTERM	¡HURRA!
+TEXT_MANFST300_00511_100050_CLATTERM	¡RAUBAHN!
+TEXT_MANFST300_00511_100060_RAUBAHN	¡Donde desde la antigüedad, bajo el gobierno sabio y juicioso de la Dinastía Ul, convertimos la arena en oro!
+TEXT_MANFST300_00511_100070_RAUBAHN	¡Donde por la Gracia y la Gloria de Nald'thal nuestros valientes hijos e hijas florecieron y prosperaron ─ hablo de Ul'dah!
+TEXT_MANFST300_00511_100080_ALPHINAUD	(-<if([gnum74==0],Joven seguro de sí mismo,Alphinaud)>-)Allí, detrás del Flame General, ondea el estandarte de la Grand Company.
+TEXT_MANFST300_00511_100090_ALPHINAUD	(-<if([gnum74==0],Joven seguro de sí mismo,Alphinaud)>-)Fíjese en el emblema. La balanza dorada del orden equilibra la joya de la prosperidad con la llama del poder.
+TEXT_MANFST300_00511_100100_RAUBAHN	Grandes y muchos son los dones que nuestra nación le dio al reino.
+TEXT_MANFST300_00511_100110_RAUBAHN	En la hora más oscura de Eorzea, en los campos de muerte de Carteneau, nadie pagó más en sangre y oro que nosotros.
+TEXT_MANFST300_00511_100120_RAUBAHN	¡Así cayó la VIIth Imperial Legion!
+TEXT_MANFST300_00511_100130_CLATTERM	¡Raaah!
+TEXT_MANFST300_00511_100140_CLATTERM	¡Yaaah!
+TEXT_MANFST300_00511_100150_ALPHINAUD	(-<if([gnum74==0],Joven seguro de sí mismo,Alphinaud)>-)¡Conque <italic(1)>así<italic(0)> fue! Qué rápido olvida la historia.
+TEXT_MANFST300_00511_100160_RAUBAHN	Pero muchos cruzaron nuestras puertas para no volver.
+TEXT_MANFST300_00511_100170_RAUBAHN	Recemos por nuestros hermanos y hermanas ausentes, para que conozcan la dicha en el más allá, como invitados de honor de Thal.
+TEXT_MANFST300_00511_100180_RAUBAHN	Si el destino fuera justo, el precio que pagamos ese día nos habría comprado la victoria. Por desgracia, no lo es.
+TEXT_MANFST300_00511_100190_RAUBAHN	Y ahora, apenas cinco años después de que comenzara la Séptima Era Umbral, el espíritu de sacrificio que nos dio nuestra fuerza está casi muerto.
+TEXT_MANFST300_00511_100200_RAUBAHN	Miren a su alrededor. ¿Qué ven? ¡Un pueblo dividido, oprimido y esclavizado!
+TEXT_MANFST300_00511_100210_RAUBAHN	¿Dónde está la limosna generosa de los ricos? ¿Dónde está el acero justo de los rectos?
+TEXT_MANFST300_00511_100220_CLATTERM	Eso no es muy justo...
+TEXT_MANFST300_00511_100230_CLATTERF	Es tal como dice.
+TEXT_MANFST300_00511_100240_RAUBAHN	Les pregunto: ¿es esta la gran nación que nuestros hermanos y hermanas dieron la vida por salvar?
+TEXT_MANFST300_00511_100250_RAUBAHN	¡Ustedes, que llaman "vivir" a esto, deshonran el nombre de los Immortal Flames ─ no es más que una muerte lenta!
+TEXT_MANFST300_00511_100260_RAUBAHN	Los enemigos nos rodean. Las hordas salvajes de los Amalj'aa acechan junto a nuestros caminos y estrangulan las arterias del comercio.
+TEXT_MANFST300_00511_100270_RAUBAHN	Mientras tanto, los garleans se burlan de nuestras fronteras y saquean las riquezas naturales de nuestra tierra.
+TEXT_MANFST300_00511_100280_RAUBAHN	Estamos al borde del precipicio... y aun así no actuamos.
+TEXT_MANFST300_00511_100290_RAUBAHN	Mercader o soldado, Monetarist o Royalist, todos deben entender que una Ul'dah dividida está condenada a caer.
+TEXT_MANFST300_00511_100300_RAUBAHN	¡La Victoria y la Fortuna van de la mano!
+TEXT_MANFST300_00511_100310_RAUBAHN	¡Ustedes, que buscan gloria y riqueza! ¡No miren lo poco que pueden arrebatarle al vecino, sino la riqueza sin límites del mundo que hay más allá!
+TEXT_MANFST300_00511_100320_RAUBAHN	¡Es hora de unirnos! ¡Es hora de avanzar!
+TEXT_MANFST300_00511_100330_RAUBAHN	¡En nombre de la sultana, se los ruego!
+TEXT_MANFST300_00511_100340_RAUBAHN	¡No llenen sus propias arcas, sino las de los Immortal Flames! ¡No busquen prosperar a costa de Ul'dah, sino devolverle su prosperidad!
+TEXT_MANFST300_00511_100350_RAUBAHN	¡Si el reino prospera, prosperará Ul'dah! ¡Si Ul'dah prospera, prosperará su pueblo!
+TEXT_MANFST300_00511_100360_CLATTERM	¡Sí! ¡Por Ul'dah!
+TEXT_MANFST300_00511_100370_CLATTERF	¡Juntos somos uno!
+TEXT_MANFST300_00511_100380_RAUBAHN	Su Gracia.
+TEXT_MANFST300_00511_100390_NANAMOULNAMO	Raubahn.
+TEXT_MANFST300_00511_100400_NANAMOULNAMO	¡Pueblo de Ul'dah! Yo, Nanamo, decimoséptima del linaje de Ul, me dirijo a ustedes.
+TEXT_MANFST300_00511_100410_NANAMOULNAMO	Mucho se habla de la riqueza de Ul'dah.
+TEXT_MANFST300_00511_100420_NANAMOULNAMO	Pero quienes miden esa riqueza en monedas y quilates se equivocan gravemente.
+TEXT_MANFST300_00511_100430_NANAMOULNAMO	Pues la verdadera riqueza de Ul'dah está en la salud, la felicidad y las esperanzas de su pueblo.
+TEXT_MANFST300_00511_100440_NANAMOULNAMO	¡Amados súbditos, les pido que alcen la antorcha de Ul'dah, para que sus Flames sean un faro que toda Eorzea pueda ver!
+TEXT_MANFST300_00511_100450_CLATTERM	¡Larga vida a Nanamo!
+TEXT_MANFST300_00511_100460_CLATTERM	¡Gloria a la sultana!
+TEXT_MANFST300_00511_100470_RAUBAHN	¡Por la Victoria y la Fortuna, avancen sin miedo hacia el infierno, pues del fuego renacemos!
+TEXT_MANFST300_00511_100480_CLATTERM	¡Así es!
+TEXT_MANFST300_00511_100490_CLATTERM	¡Llegó la hora!
+TEXT_MANFST300_00511_100500_CLATTERM	¡Yo creo!
+TEXT_MANFST300_00511_100510_ALPHINAUD	Si me permite. Alphinaud.
+TEXT_MANFST300_00511_100520_ALPHINAUD	...Y mi hermana, Alisaie, a su servicio.
+TEXT_MANFST300_00511_100530_ALPHINAUD	Supe de un vistazo que usted también es viajer<if(gnum4,a,o)>.
+TEXT_MANFST300_00511_100540_ALPHINAUD	Podría decirse que somos estudiosos de la historia, que recorremos las conmemoraciones del reino en busca de... iluminación.
+TEXT_MANFST300_00511_100550_ALPHINAUD	Qué casualidad volver a encontrarnos.
+TEXT_MANFST300_00511_ALPHINAUD_000_80	Los ul'dahnos tienen una larga historia de conflictos con los Amalj'aa, la beast tribe que adora al primal Ifrit.
+TEXT_MANFST300_00511_ALPHINAUD_000_81	A juzgar por su cara de disgusto, supongo que ya se cruzó con ellos.
+TEXT_MANFST300_00511_ALPHINAUD_000_82	Los ul'dahnos no rehúyen el enfrentamiento. Si algo amenaza su preciada prosperidad, <italic(1)>van<italic(0)> a intentar aplastarlo.
+TEXT_MANFST300_00511_ALPHINAUD_000_83	Así trataron a Ifrit hasta ahora: sofocan sus llamas cada vez que alguien lo aviva.
+TEXT_MANFST300_00511_ALPHINAUD_000_84	Pero es solo uno de varios problemas. Aunque estuvieron callados estos cinco años, los garleans no se fueron.
+TEXT_MANFST300_00511_ALPHINAUD_000_85	Mientras tanto, siguen llegando refugiados en masa, y Ul'dah no tiene una política clara sobre qué hacer con ellos.
+TEXT_MANFST300_00511_ALPHINAUD_000_86	Al fin y al cabo, ni las arcas del sultanato son infinitas. Y aunque tuvieran el dinero, los recursos siempre serán limitados.
+TEXT_MANFST300_00511_ALPHINAUD_000_87	Lo que me trae de vuelta al tema de Ifrit. Se observó que los Amalj'aa lo invocan cada vez con más frecuencia.
+TEXT_MANFST300_00511_ALPHINAUD_000_88	Cada vez que lo hacen, los ul'dahnos envían sus fuerzas a abatir al primal, y aunque siempre lo logran, cada victoria se paga con sangre. Es una guerra de desgaste que no pueden sostener mucho tiempo.
+TEXT_MANFST300_00511_ALPHINAUD_000_89	No es de extrañar, entonces, que los Immortal Flames estén ansiosos por reclutar más miembros.
+TEXT_MANFST300_00511_ALPHINAUD_000_90	En una hora tan desesperada, alguien con su experiencia como aventurer<if(gnum4,a,o)> sería una incorporación muy bienvenida.
+TEXT_MANFST300_00511_ALPHINAUD_000_91	Por su bien, espero que las palabras del Flame General le hayan llegado.
+TEXT_MANFST300_00511_300560_CLATTERM	Perdí a mi hijo en la Calamidad...
+TEXT_MANFST300_00511_300570_CLATTERM	Dicen que no se podía dar un paso sin tropezar con un cuerpo.
+TEXT_MANFST300_00511_300580_CLATTERF	¡Los tres Seedseers están juntos!
+TEXT_MANFST300_00511_300590_KANESENNA	Nuestros antepasados fueron una vez extranjeros en el Twelveswood.
+TEXT_MANFST300_00511_300600_KANESENNA	Por miedo a la ira verde, se escondieron en las oscuras profundidades de la tierra. Pero soñaban con bañarse en la luz moteada del bosque.
+TEXT_MANFST300_00511_300610_KANESENNA	Con gran esfuerzo, demostraron su valía a los elementales, y se les concedió un lugar bajo las ramas. Así nació Gridania, hace unos cinco siglos.
+TEXT_MANFST300_00511_300620_KANESENNA	Trabajando codo a codo, los colonos Hyur y Elezen sembraron las semillas de nuestra civilización. Y pronto se les unieron gentes de todas las razas.
+TEXT_MANFST300_00511_300630_KANESENNA	Nutrida por las aguas de la unidad y bendecida por la luz de la Matron, Gridania floreció hasta ser la gran nación que es hoy.
+TEXT_MANFST300_00511_300640_ALPHINAUD	(-<if([gnum74==0],Joven seguro de sí mismo,Alphinaud)>-)¿Ve el estandarte gridaniano? Allí, colgado detrás de la Elder Seedseer.
+TEXT_MANFST300_00511_300650_ALPHINAUD	(-<if([gnum74==0],Joven seguro de sí mismo,Alphinaud)>-)Las serpientes entrelazadas representan la unión entre Hyur y Elezen. Un símbolo elegante, ¿no le parece?
+TEXT_MANFST300_00511_300660_KANESENNA	Conforme a la voluntad de los elementales, abrazamos una vida de paz. Por desgracia, nuestros vecinos no siempre quisieron lo mismo para sí ─ ni para nosotros.
+TEXT_MANFST300_00511_300670_KANESENNA	Aunque los gridanianos no amamos la guerra, amamos todavía menos a quienes amenazan nuestra forma de vida. Siempre luchamos por proteger la santidad del Twelveswood.
+TEXT_MANFST300_00511_300680_KANESENNA	Cuando el Garlean Empire trajo su guerra de conquista a Eorzea, nos reunimos bajo el noble estandarte de los Twin Adder para hacer retroceder la oscuridad que avanzaba.
+TEXT_MANFST300_00511_300690_KANESENNA	Y fuimos nosotros quienes preparamos el terreno para refundar la Eorzean Alliance, para que todos los pueblos de este reino se unieran contra la amenaza común.
+TEXT_MANFST300_00511_300700_KANESENNA	Hace cinco años, la Alliance se enfrentó a los ejércitos del Empire en los campos de Carteneau.
+TEXT_MANFST300_00511_300710_KANESENNA	Sería la batalla más sangrienta que se recuerde. Se perdieron incontables vidas gridanianas.
+TEXT_MANFST300_00511_300720_KANESENNA	Como comandante suprema de la Order of the Twin Adder, cargaré por siempre con el peso del sacrificio de nuestro pueblo.
+TEXT_MANFST300_00511_300730_KANESENNA	Por desgracia, esa pérdida no fue la única tragedia que nos azotó ese día, pues pronto llegó la Calamidad.
+TEXT_MANFST300_00511_300740_KANESENNA	Las cicatrices de nuestro bosque nos recuerdan a cada momento su violencia. Nuestras vidas cambiaron para siempre, y cada hora de vigilia es una lucha por sobrevivir.
+TEXT_MANFST300_00511_300750_KANESENNA	Empujados por la desesperación, algunos de los nuestros se apartaron del camino recto y recurrieron al bandidaje, la caza furtiva y otros actos inadmisibles.
+TEXT_MANFST300_00511_300760_KANESENNA	Para colmo de males, los Ixal volvieron con fuerza, envalentonados por nuestro sufrimiento. Ponen a prueba nuestras defensas casi sin descanso y atacan a los indefensos.
+TEXT_MANFST300_00511_300770_KANESENNA	Acosados desde dentro y desde fuera, no es de extrañar que nuestra unidad flaquee. Vivimos tiempos oscuros.
+TEXT_MANFST300_00511_300780_CLATTERM	Antes uno podía andar por los caminos sin miedo.
+TEXT_MANFST300_00511_300790_CLATTERM	¡Que la peste se lleve a esos malditos Ixal!
+TEXT_MANFST300_00511_300800_KANESENNA	Un día como hoy, hace cinco años, incontables eorzeanos dieron la vida para que pudiéramos ver un nuevo amanecer. Les ruego que se unan a mí para honrar su memoria.
+TEXT_MANFST300_00511_300810_ALISAIE	(-<if([gnum74==0],Muchacha cínica,Alisaie)>-)¿Y cómo piensan honrar la memoria de quienes no pueden recordar, si se puede saber?
+TEXT_MANFST300_00511_300820_KANESENNA	La destrucción de la Calamidad no hizo distinciones ─ trajo la muerte por igual a eorzeanos y garleans.
+TEXT_MANFST300_00511_300830_KANESENNA	Pero mientras nos esforzábamos por reconstruir nuestros hogares ─ por reconstruir nuestras vidas ─, el Empire se dedicó a levantar fortalezas de acero aquí, en el Twelveswood.
+TEXT_MANFST300_00511_300840_KANESENNA	Que nadie se engañe ─ los garleans siguen siendo la mayor amenaza para nuestra supervivencia. Si queremos hacerles frente, debemos recordar lo que es estar unidos.
+TEXT_MANFST300_00511_300850_KANESENNA	Nuestros muchos problemas nos ciegan ante las penas del prójimo. Así se pierde la armonía. Y la armonía es el principio sobre el que se fundó Gridania.
+TEXT_MANFST300_00511_300860_KANESENNA	Estamos aquí reunidos para honrar a los caídos.
+TEXT_MANFST300_00511_300870_KANESENNA	¡Honrémoslos no solo de palabra y pensamiento, sino con acciones conjuntas!
+TEXT_MANFST300_00511_300880_KANESENNA	¡Les pido que se unan a mí una vez más bajo el estandarte de los Twin Adder!
+TEXT_MANFST300_00511_300890_KANESENNA	¡Y juntos sanemos las heridas del bosque, para que nuestros descendientes vivan en armonía bajo estas ramas ancestrales! ¡Por la serenidad, la pureza y la santidad!
+TEXT_MANFST300_00511_300900_CLATTERF	¡Tenemos que pensar en los niños!
+TEXT_MANFST300_00511_300910_CLATTERM	¡Hágase la voluntad del bosque!
+TEXT_MANFST300_00511_300920_CLATTERM	¡Nos toca a nosotros proteger el bosque!
+TEXT_MANFST300_00511_300930_CLATTERM	¡Por los elementales!
+TEXT_MANFST300_00511_300940_ALPHINAUD	Si me permite. Alphinaud.
+TEXT_MANFST300_00511_300950_ALPHINAUD	...Y mi hermana, Alisaie, a su servicio.
+TEXT_MANFST300_00511_300960_ALPHINAUD	Supe de un vistazo que usted también es viajer<if(gnum4,a,o)>.
+TEXT_MANFST300_00511_300970_ALPHINAUD	Podría decirse que somos estudiosos de la historia, que recorremos las conmemoraciones del reino en busca de... iluminación.
+TEXT_MANFST300_00511_300980_ALPHINAUD	Qué casualidad volver a encontrarnos.
+TEXT_MANFST300_00511_ALPHINAUD_000_110	Los gridanianos tienen la desgracia de tener que lidiar con dos beast tribes.
+TEXT_MANFST300_00511_ALPHINAUD_000_111	Los Ixal son sin duda los más problemáticos: belicosos por naturaleza y dados a invocar a su sanguinaria primal, Garuda.
+TEXT_MANFST300_00511_ALPHINAUD_000_112	Los sylphs, en cambio, son pacíficos, más traviesos que malvados, y llevan mucho tiempo en buenos términos con los gridanianos ─ al menos hasta hace poco. Por desgracia, se volvieron distantes, un cambio que se notó más o menos cuando invocaron al primal Ramuh.
+TEXT_MANFST300_00511_ALPHINAUD_000_113	Los gridanianos no aman la guerra, y consideran el conflicto abierto como último recurso.
+TEXT_MANFST300_00511_ALPHINAUD_000_114	Aunque chocan con los Ixal cada vez más seguido, puede estar seguro de que lo hacen en defensa propia. En cuanto a los sylphs... todavía los ata un tratado de paz, aunque uno se pregunta cuánto tardará en romperse.
+TEXT_MANFST300_00511_ALPHINAUD_000_115	El Twelveswood sufrió heridas graves durante la Calamidad, y Gridania quedó vulnerable. La gente espera que restaurar el bosque ─ y con él el poder de los elementales ─ ponga fin a sus males. Pero ¿cuánto llevará eso? <italic(1)>Siglos<italic(0)>, diría yo.
+TEXT_MANFST300_00511_ALPHINAUD_000_116	Mientras tanto, los Ixal seguirán con sus incursiones, empujados por Garuda y su apetito insaciable de destrucción.
+TEXT_MANFST300_00511_ALPHINAUD_000_117	Les guste o no a los gridanianos, tarde o temprano habrá una guerra abierta. Y cuando llegue, la Order of the Twin Adder necesitará toda la ayuda que pueda reunir.
+TEXT_MANFST300_00511_ALPHINAUD_000_118	...¿Cuánto podría valerles entonces la ayuda de alguien con su capacidad como aventurer<if(gnum4,a,o)>?
+TEXT_MANFST300_00511_ALPHINAUD_000_119	Bueno, quizás lo averigüemos ─ si las palabras de la Elder Seedseer cayeron en tierra fértil...
+TEXT_MANFST300_00511_ZANTHAEL_000_130	¿Viene a la ceremonia conmemorativa? Dese prisa ─ la Admiral dará su discurso en cualquier momento.
+TEXT_MANFST300_00511_Q1_000_1	¿Ir al Stateroom?
+TEXT_MANFST300_00511_A1_000_1	Sí
+TEXT_MANFST300_00511_A1_000_2	No
+TEXT_MANFST300_00511_ZANTHAEL_000_131	Si no le interesa asistir, deje pasar a los que sí.
+TEXT_MANFST300_00511_500990_CLATTERM	Los garleans son otra cosa muy distinta.
+TEXT_MANFST300_00511_501000_CLATTERF	Vaya alianza la nuestra.
+TEXT_MANFST300_00511_501010_CLATTERM	Se hundió más allá del lecho marino.
+TEXT_MANFST300_00511_501020_MERLWYB	¡Hermanos y hermanas del mar, escúchenme! ¡Miren este, nuestro poderoso estandarte carmesí, y díganme si sus corazones no se hinchan de orgullo!
+TEXT_MANFST300_00511_501030_CLATTERM	¡Yaaaaaargh!
+TEXT_MANFST300_00511_501040_MERLWYB	Setecientos veranos pasaron desde que nuestros antepasados encallaron por primera vez en esta bahía fértil.
+TEXT_MANFST300_00511_501050_MERLWYB	En ese tiempo, guiada por la Mother of Oceans, ¡Limsa Lominsa pasó de humilde aldea de pescadores a dueña indiscutida de los cinco mares y más allá!
+TEXT_MANFST300_00511_501060_CLATTERM	¡Hurra!
+TEXT_MANFST300_00511_501070_CLATTERM	¡Raaaaaarrr!
+TEXT_MANFST300_00511_501080_ALPHINAUD	(-<if([gnum74==0],Joven seguro de sí mismo,Alphinaud)>-)¿Lo miró, como pidió la Admiral? Debo decir que <italic(1)>es<italic(0)> un estandarte bastante conmovedor.
+TEXT_MANFST300_00511_501090_ALPHINAUD	(-<if([gnum74==0],Joven seguro de sí mismo,Alphinaud)>-)El campo carmesí simboliza la sangre de los compañeros de tripulación caídos, y el drakkar negro representa un barco pirata.
+TEXT_MANFST300_00511_501100_MERLWYB	Cuando el Garlean Empire marchó sobre Eorzea, nos reunimos bajo el estandarte del Maelstrom, y nuestra Grand Company renació.
+TEXT_MANFST300_00511_501110_MERLWYB	Todos respondieron al llamado, desde los Knights of the Barracuda hasta los Hyllfyr's Bloody Executioners, y juntos enfrentamos a quienes querían conquistarnos en el campo de Carteneau.
+TEXT_MANFST300_00511_501120_MERLWYB	¡Ese día, el mundo fue testigo de la fuerza unida de Limsa Lominsa!
+TEXT_MANFST300_00511_501130_MERLWYB	Se los juro ─ ningún ejército luchó jamás con más empeño ni con más coraje. Pero muchos de los nuestros no sobrevivieron.
+TEXT_MANFST300_00511_501140_MERLWYB	Acompáñenme ahora a recordar a quienes lucharon en nombre de la libertad, y cayeron. Que sus almas vuelvan al mar.
+TEXT_MANFST300_00511_501150_ALPHINAUD	(-<if([gnum74==0],Joven seguro de sí mismo,Alphinaud)>-)La libertad... Sí, siempre le tuvieron bastante cariño a su libertad.
+TEXT_MANFST300_00511_501160_ALPHINAUD	(-<if([gnum74==0],Joven seguro de sí mismo,Alphinaud)>-)Igual que las beast tribes. No es de extrañar ─ en el fondo, costaría distinguirlos.
+TEXT_MANFST300_00511_501170_MERLWYB	Pasaron cinco largos años desde que golpeó la Calamidad. Cinco largos años de reconstrucción incansable.
+TEXT_MANFST300_00511_501180_MERLWYB	Y aun así las heridas de la Calamidad siguen supurando.
+TEXT_MANFST300_00511_501190_MERLWYB	Pero cuando me paro en lo alto del Mizzenmast y contemplo nuestro navío maltrecho y roto, veo un espíritu inmortal. ¿No construimos todo esto con los restos del <italic(1)>Galadion<italic(0)> hace ya tantos siglos? ¿¡Y no lo haremos otra vez!?
+TEXT_MANFST300_00511_501200_MERLWYB	Pero hay quienes quieren ver este barco nuestro hundirse bajo las olas del inquieto Rhotano.
+TEXT_MANFST300_00511_501210_MERLWYB	Los Sahagin se arrastran a la costa en busca de sangre para su dios maldito.
+TEXT_MANFST300_00511_501220_CLATTERM	Esos malditos lomos de pez...
+TEXT_MANFST300_00511_501230_CLATTERF	¿Los Sahagin se alzaron?
+TEXT_MANFST300_00511_501240_MERLWYB	Mientras, las minas de O'Ghomoro vomitan kobolds que avanzan cada vez más al sur y arrasan nuestras tierras a su paso.
+TEXT_MANFST300_00511_501250_MERLWYB	Estas beast tribes salvajes serán las primeras olas que rompan contra nuestro casco crujiente.
+TEXT_MANFST300_00511_501260_MERLWYB	Y detrás de ellas crece la marea siniestra del Garlean Empire.
+TEXT_MANFST300_00511_501270_MERLWYB	Ahora mismo, esos perros izan sus banderas dentro de nuestras fronteras. No duden que pronto caerán sobre nosotros.
+TEXT_MANFST300_00511_501280_MERLWYB	Estamos casi rodeados. Y aun así, hay entre nosotros quienes prefieren volver la espada contra sus compañeros antes que los cañones contra el enemigo.
+TEXT_MANFST300_00511_501290_MERLWYB	¿Cómo esperamos rechazar a tantos enemigos si el motín se gesta bajo cubierta?
+TEXT_MANFST300_00511_501300_MERLWYB	¡Solo nos queda un rumbo!
+TEXT_MANFST300_00511_501310_MERLWYB	Uno que nos dará la victoria sobre las hordas bestiales y sobre el Empire, y llevará este barco a puerto seguro.
+TEXT_MANFST300_00511_501320_MERLWYB	¡Debemos cerrar la grieta que la Calamidad volvió a abrir entre los piratas y el Maelstrom, y mantenernos firmes junto a nuestros hermanos aventureros ante la tempestad que se avecina!
+TEXT_MANFST300_00511_501330_MERLWYB	Tengan esto bien presente: una tripulación sin unidad no es tripulación ─ no es más que un montón de ahogados.
+TEXT_MANFST300_00511_501340_MERLWYB	¡Conmigo, entonces, hermanos y hermanas del mar! ¡Reúnanse bajo el inmortal estandarte carmesí y júrenme su fuerza, su destreza, su sabiduría!
+TEXT_MANFST300_00511_501350_MERLWYB	¡Y con la guía de la Navigator, este gran navío nuestro surcará las olas hasta que el mar se lo trague todo!
+TEXT_MANFST300_00511_501360_CLATTERM	¡Larga vida a la Admiral!
+TEXT_MANFST300_00511_501370_CLATTERM	¡Admiral Merlwyb!
+TEXT_MANFST300_00511_501380_CLATTERF	¡Reúnan a los muchachos!
+TEXT_MANFST300_00511_501390_CLATTERM	¿¡Dónde está mi alfanje!?
+TEXT_MANFST300_00511_501400_CLATTERM	¡La seguiré hasta los siete infiernos, Admiral!
+TEXT_MANFST300_00511_501410_ALPHINAUD	Si me permite. Alphinaud.
+TEXT_MANFST300_00511_501420_ALPHINAUD	...Y mi hermana, Alisaie, a su servicio.
+TEXT_MANFST300_00511_501430_ALPHINAUD	Supe de un vistazo que usted también es viajer<if(gnum4,a,o)>.
+TEXT_MANFST300_00511_501440_ALPHINAUD	Podría decirse que somos estudiosos de la historia, que recorremos las conmemoraciones del reino en busca de... iluminación.
+TEXT_MANFST300_00511_501450_ALPHINAUD	Qué casualidad volver a encontrarnos.
+TEXT_MANFST300_00511_ALPHINAUD_000_140	Como mencionó la Admiral en su discurso, a Limsa Lominsa la acosan dos beast tribes.
+TEXT_MANFST300_00511_ALPHINAUD_000_141	Los primeros son los Sahagin, con forma de pez, que adoran al primal Leviathan.
+TEXT_MANFST300_00511_ALPHINAUD_000_142	Los segundos son los kobolds, que viven bajo tierra y tienen por dios al primal Titan.
+TEXT_MANFST300_00511_ALPHINAUD_000_143	Como si las beast tribes no dieran suficientes problemas, los garleans decidieron levantar una fortaleza en el patio trasero de los lominsanos.
+TEXT_MANFST300_00511_ALPHINAUD_000_144	Y eso sin hablar de las luchas internas. Siendo una nación de piratas, las rencillas de sangre entre las distintas facciones no tienen fin. Y mientras pelean entre ellos, los garleans afilan sus hojas y observan.
+TEXT_MANFST300_00511_ALPHINAUD_000_145	Si los lominsanos quieren tener alguna esperanza de resistir al Empire, primero deben resolver sus propios asuntos. Hay que dejar de lado las diferencias y acabar de una vez con la amenaza de los primals.
+TEXT_MANFST300_00511_ALPHINAUD_000_146	Por eso espero que pronto tomen medidas decisivas contra las beast tribes. Recuerde lo que le digo: el estandarte del Maelstrom se teñirá de un carmesí más oscuro dentro de poco.
+TEXT_MANFST300_00511_ALPHINAUD_000_147	No hay duda de que alguien con su capacidad como aventurer<if(gnum4,a,o)> sería una valiosa incorporación a su tripulación.
+TEXT_MANFST300_00511_ALPHINAUD_000_148	Pero ¿navegará con la Admiral?
+TEXT_MANFST300_00511_MINFILIA_000_150	<split(<string(gstr1)>, ,1)>, habla Minfilia. Espero que estés bien. ¿Me equivoco si pienso que la última ceremonia conmemorativa ya terminó?
+TEXT_MANFST300_00511_MINFILIA_000_151	¿Hace un momento, dices? ¡Qué coincidencia!
+TEXT_MANFST300_00511_MINFILIA_000_152	Bromas aparte, ¿recuerdas a nuestros invitados de las Grand Companies? Bueno, por <italic(1)>encantados<italic(0)> que estemos de tenerlos aquí en los Waking Sands, no estaría bien dejarlos en vilo más de lo necesario. En resumen: ¡vuelve pronto!
+TEXT_MANFST300_00511_MINFILIA_000_160	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. ¿Las palabras de los líderes de las Grand Companies te resultaron tan reveladoras como esperabas?
+TEXT_MANFST300_00511_MINFILIA_000_161	Sí, cada nación enfrenta graves problemas. Supongo que ahora entiendes por qué tus servicios están tan solicitados. Ojalá hubiera más como tú, <split(<string(gstr1)>, ,1)>.
+TEXT_MANFST300_00511_MINFILIA_000_162	Pero debes estar cansad<if(gnum4,a,o)> del viaje. ¿Por qué no descansas un rato y piensas con calma tu decisión? Cuando lo tengas claro, te ruego que les des tu respuesta a los oficiales de las Grand Companies.
+TEXT_MANFST300_00511_701460_ALPHINAUD	Solo los dioses saben con qué Grand Company se juntará nuestr<if(gnum4,a,o)> amig<if(gnum4,a,o)> aventurer<if(gnum4,a,o)>.
+TEXT_MANFST300_00511_701470_ALPHINAUD	Hmph. Las ruedas del cambio ya giran de todos modos.
+TEXT_MANFST300_00511_701480_ALISAIE	Hermano, ¿estás seguro de que este es el mejor camino?
+TEXT_MANFST300_00511_701490_ALPHINAUD	¿A qué te refieres, querida hermana?
+TEXT_MANFST300_00511_701500_ALISAIE	Las supuestas ceremonias "conmemorativas" no fueron más que mítines para agitar banderas.
+TEXT_MANFST300_00511_701510_ALISAIE	...¡Como si la Calamidad y la Séptima Era Umbral apenas merecieran una mención!
+TEXT_MANFST300_00511_701520_ALPHINAUD	Bueno, claro que fueron "mítines para agitar banderas".
+TEXT_MANFST300_00511_701530_ALPHINAUD	Ya que eres tan observadora, ¿quizás notaste cuántas veces se mencionó a los Warriors of Light? <italic(1)>Ninguna<italic(0)>.
+TEXT_MANFST300_00511_701540_ALPHINAUD	¿Supongo que se habrán olvidado de los héroes que le ahorraron a Eorzea un destino peor que la Calamidad?
+TEXT_MANFST300_00511_701550_ALPHINAUD	No, querida Alisaie, no se "olvidaron" de esos detalles. Decidieron omitirlos.
+TEXT_MANFST300_00511_701560_ALPHINAUD	Profundas son las heridas que la Calamidad le infligió a Eorzea. Tanto, de hecho, que el reino todavía sangra.
+TEXT_MANFST300_00511_701570_ALPHINAUD	Ni hace falta decir que las beast tribes y sus primals poco hacen por aliviar el dolor.
+TEXT_MANFST300_00511_701580_ALPHINAUD	Así que la tarea de curar las heridas de Eorzea recae en los Scions of the Seventh Dawn ─ con una pequeña ayuda de nuestros amigos de las Grand Companies.
+TEXT_MANFST300_00511_701590_ALPHINAUD	Recordar no traerá remedio. Si nuestro mundo ha de sanar, debemos dejar atrás los horrores de la Calamidad.
+TEXT_MANFST300_00511_701600_ALISAIE	¡Nuestro abuelo jamás confiaría el destino del reino a déspotas que reescriben la historia a su conveniencia!
+TEXT_MANFST300_00511_701610_ALISAIE	Tiene que haber otra forma de curar lo que aflige a este mundo ─ ¡y pienso encontrarla!
+TEXT_MANFST300_00511_701620_ALPHINAUD	Eres muy libre de intentarlo. Nuestros caminos pueden ser distintos, pero el destino es el mismo. Con el tiempo, me atrevo a decir que estaremos de acuerdo.
+TEXT_MANFST300_00511_701630_ALISAIE	Eso espero.
+TEXT_MANFST300_00511_701640_BODYGUARDA	¡M-Mi señora!
+TEXT_MANFST300_00511_701650_BODYGUARDB	¡Tenemos que escoltarla!
+TEXT_MANFST300_00511_701660_ALPHINAUD	No se trata de esperar. Compartimos la carga de este destino, querida hermana, y saldremos adelante juntos o no saldremos.
+TEXT_MANFST300_00511_701670_ALPHINAUD	El remedio no solo servirá para cerrar nuestras heridas actuales...
+TEXT_MANFST300_00511_701680_ALPHINAUD	...sino para evitar que las viejas vuelvan a abrirse.

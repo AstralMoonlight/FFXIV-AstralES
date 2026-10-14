@@ -1,0 +1,37 @@
+key	text
+TEXT_MANWIL303_00685_SEQ_00	El oficial de personal está listo para completar tu ingreso en las filas.
+TEXT_MANWIL303_00685_SEQ_01	Juraste servir a la Grand Company de Ul'dah, los Immortal Flames. Apenas te asignan tu nuevo rango, Minfilia te llama por linkpearl y te pide que vayas. Vuelve a los Waking Sands.
+TEXT_MANWIL303_00685_SEQ_02	De vuelta en los Waking Sands, Minfilia anuncia que Biggs y Wedge, los ingenieros de Garlond Ironworks, quedan bajo la protección de los Scions of the Seventh Dawn. Con nuevos aliados a tu lado, parte una vez más a luchar por el bien de toda Eorzea.
+TEXT_MANWIL303_00685_TODO_00	Habla con el Scion of the Seventh Dawn en los Waking Sands.
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_1	¿List<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>? Entonces comencemos.
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_2	<string(gstr1)> ─ está a punto de asumir un compromiso sagrado.
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_3	Las Flames de Ul'dah arden con fuerza: dan luz donde hay oscuridad y purgan el mal dondequiera que acecha.
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_4	Siempre estamos listos para enfrentar en batalla a los enemigos de la nación, sean hombres bestia, garleans o algo peor.
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_5	Y a una palabra del Flame General Raubahn Aldynn, daríamos la vida con gusto para mantener la paz y la prosperidad de Ul'dah.
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_6	Para unirse a nuestras filas, debe renunciar a toda otra nación. Solo así podrá entregarse al fuego y renacer como Immortal Flame.
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_7	¡Arda como uno de nosotros, <string(gstr1)>, y juntos ahuyentaremos la oscuridad de Ul'dah!
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_8	¿Prestará un juramento para marcar la ocasión?
+TEXT_MANWIL303_00685_Q1_000_1	¿Qué juramento prestas?
+TEXT_MANWIL303_00685_A1_000_1	¡Mi espada pertenece a Ul'dah!
+TEXT_MANWIL303_00685_A1_000_2	¡Mis habilidades ahora pertenecen a Ul'dah!
+TEXT_MANWIL303_00685_A1_000_3	¡Seguiré al Flame General hasta la muerte!
+TEXT_MANWIL303_00685_A1_000_4	...
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_9	¡Habló como un<if(gnum4,a,)> soldado! Le irá bien aquí.
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_10	Y Ul'dah las va a necesitar en los días que vienen. El saber y la experiencia de los aventureros que han recorrido mundo son bienes valiosos.
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_11	¡Ja! El Flame General iría a la cabeza en cada batalla si pudiera. ¡No me sorprendería que algún día tuviera la oportunidad de luchar a su lado!
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_12	Supongo que prefiere que l<if(gnum4,a,o)> juzguen por sus actos. Lo respeto. Queremos <if(gnum4,una mujer,un hombre)> de acción, no de palabras.
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_13	Muy bien. Su determinación es evidente.<br><string(gstr1)> ─ por la presente le confiero el rango de Flame Private Third Class.<br>Bienvenid<if(gnum4,a,o)> a los Immortal Flames, Private.
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_14	Que luche hasta el final por el oro y la patria.
+TEXT_MANWIL303_00685_MINFILIA_000_20	¿Me oyes, <split(<string(gstr1)>, ,1)>? Habla Minfilia.
+TEXT_MANWIL303_00685_MINFILIA_000_21	Un oficial de los Immortal Flames me avisó de tu alistamiento. Felicitaciones, Private <split(<string(gstr1)>, ,2)>.
+TEXT_MANWIL303_00685_MINFILIA_000_22	No dudo que tengas ganas de conocer a tus nuevos compañeros, pero te pido que primero visites a los de siempre. Recuerda: ¡aunque ahora seas Flame de Ul'dah, no dejas de ser Scion! Te ruego que vuelvas a los Waking Sands en cuanto puedas. Hay unos amigos aquí que me gustaría mucho que conocieras. ¡Te esperamos!
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_023	Parece que l<if(gnum4,a,o)> necesitan en otra parte.
+TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_024	Pero antes de irse, quizás pueda hablar un momento con el Commander Swift. No es de los que dejan salir al campo a los reclutas nuevos sin preparación.
+TEXT_MANWIL303_00685_SYSTEM_000_025	Ahora puedes aceptar la misión "My Little Chocobo (Immortal Flames)" hablando con Swift.
+TEXT_MANWIL303_00685_SYSTEM_000_026	Hay que completar esta misión para avanzar hasta el final del escenario principal de A Realm Reborn.
+TEXT_MANWIL303_00685_GUIDE_000_200	¡Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>! Lady Minfilia te espera adentro.
+TEXT_MANWIL303_00685_MINFILIA_000_30	¡Bienvenid<if(gnum4,a,o)> de vuelta! ¡Parece que no perdiste el tiempo en poner tus habilidades a trabajar!
+TEXT_MANWIL303_00685_SYS_000_100	Y así, Minfilia te da la bienvenida al siguiente capítulo de tu historia...
+TEXT_MANWIL303_00685_SYS_000_101	Aquí termina el escenario principal de la versión beta.
+TEXT_MANWIL303_00685_SYS_000_102	Aunque tu viaje terminó por ahora, todavía te esperan experiencias nuevas y emocionantes, entre ellas una gran variedad de misiones y dungeons.
+TEXT_MANWIL303_00685_SYS_000_103	¡Esperamos que sigas disfrutando de FINAL FANTASY XIV: A Realm Reborn versión beta! ¡Gracias por jugar!
