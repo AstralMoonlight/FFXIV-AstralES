@@ -1,0 +1,67 @@
+key	text
+TEXT_CLSLNC006_00439_SEQ_00	El Guildmaster Ywain quiere ponerte una prueba final.
+TEXT_CLSLNC006_00439_SEQ_01	Tu visita al Lancers' Guild dio un giro inesperado: parece que Foulques atacó a un grupo de lancers novatos en el Central Shroud, así que la prueba tendrá que esperar. Ywain te pide que corras en ayuda de tus compañeros y te da plena libertad para usar toda la fuerza necesaria si eso sirve para evitar más derramamiento de sangre.
+TEXT_CLSLNC006_00439_SEQ_02	Según el lancer que rescataste, Foulques se dirigía hacia el North Shroud. Intercéptalo antes de que pueda hacer más daño.
+TEXT_CLSLNC006_00439_SEQ_03	Venciste al trastornado Foulques. Llévale la noticia de su muerte a Ywain, que te espera en el Lancers' Guild.
+TEXT_CLSLNC006_00439_SEQ_04	Por el coraje que mostraste al derrotar a Foulques, Ywain te declara <if(gnum4,lista,listo)> para dominar una nueva y devastadora técnica: Lance Charge. Después de aprender todo lo que tu maestro podía enseñarte, pones la mira en desafíos todavía desconocidos. Con sus lecciones en el corazón, sal al mundo y abre un nuevo camino con la lanza en la mano.
+TEXT_CLSLNC006_00439_TODO_00	Investiga el lugar del ataque de Foulques.
+TEXT_CLSLNC006_00439_TODO_01	Rastrea a Foulques en el North Shroud.
+TEXT_CLSLNC006_00439_TODO_02	Informa a Ywain.
+TEXT_CLSLNC006_00439_YWAIN_000_1	Ah, <split(<string(gstr1)>, ,1)>. Siempre es un gusto verte.
+TEXT_CLSLNC006_00439_YWAIN_000_2	Si volviste, supongo que estás <if(gnum4,lista,listo)> para la prueba final. Muy bien, vamos─
+TEXT_CLSLNC006_00439_EDDARD_000_3	¡G-Guildmaster Ywain!
+TEXT_CLSLNC006_00439_YWAIN_000_4	¡Estás herido! ¿¡Qué pasó!?
+TEXT_CLSLNC006_00439_EDDARD_000_5	Nos atacaron, señor... un lancer Duskwight... mientras entrenábamos en el bosque.
+TEXT_CLSLNC006_00439_EDDARD_000_6	Era... Era increíblemente fuerte... un demonio... No dejaba de gritar algo sobre... enseñarnos el verdadero coraje.
+TEXT_CLSLNC006_00439_YWAIN_000_7	No. Él no. Foulques no...
+TEXT_CLSLNC006_00439_EDDARD_000_8	Estábamos... en el extremo noroeste del Central Shroud... cuando pasó. Yo pude escapar... pero los demás... <italic(1)>¡Tienen que ayudar a los demás!<italic(0)>
+TEXT_CLSLNC006_00439_EDDARD_000_9	Aaargh...
+TEXT_CLSLNC006_00439_YWAIN_000_10	¡Resiste, hombre!
+TEXT_CLSLNC006_00439_YWAIN_000_11	Lo siento, <split(<string(gstr1)>, ,1)>: la prueba tendrá que esperar.
+TEXT_CLSLNC006_00439_YWAIN_000_12	Por favor, corre al Central Shroud y ayuda a tus compañeros.<br>Y, <split(<string(gstr1)>, ,1)>, si Foulques no te deja otra opción... haz lo que debas. Que los Twelve guíen tus pasos.
+TEXT_CLSLNC006_00439_THIBAIN_000_30	¡Ayuda! ¡Por el amor de los Twelve, ayúdenme!
+TEXT_CLSLNC006_00439_THIBAIN_000_31	Te debo la vida, <if(gnum4,amiga,amigo)>. Un instante más y habría terminado como comida de wurms.
+TEXT_CLSLNC006_00439_THIBAIN_000_32	¡Un lancer Duskwight nos echó encima a esas bestias, diciendo que así templaríamos nuestro coraje! Tendrías que haberle visto la mirada cuando lo dijo. ¡Maldito loco!
+TEXT_CLSLNC006_00439_THIBAIN_000_33	¿Hm? ¿Dónde está ahora? Eh... creo que se fue hacia el North Shroud, quizá en dirección a Fallgourd Float...? No lo sé seguro; estaba ocupado con los reptiles en ese momento.
+TEXT_CLSLNC006_00439_THIBAIN_000_34	Si lo que buscas es ajustar cuentas, puede que te lleves una decepción. Los que logramos escapar de los wurms seguro ya avisaron a los Wailers.
+TEXT_CLSLNC006_00439_THIBAIN_000_35	Me imagino que a estas alturas el Duskwight ya está con una lanza al cuello, rogando por su miserable vida en un charco de sus propios meados. ¡Se lo tiene bien merecido, el desgraciado!
+TEXT_CLSLNC006_00439_FOULQUES_000_0001	¿Por qué tardaste tanto?
+TEXT_CLSLNC006_00439_FOULQUES_000_0002	¿Que estabas ayudando a tus compañeros, dices? <if(gnum4,Tonta,Tonto)>. Desperdicias tu compasión en falsos amigos.
+TEXT_CLSLNC006_00439_FOULQUES_000_0003	Es solo cuestión de tiempo antes de que te traicionen. Sí, igual que esos miserables que me hicieron encarcelar y desterrar.
+TEXT_CLSLNC006_00439_FOULQUES_000_0004	Yo fui un ciudadano honrado de Gridania, y un hombre del Lancers' Guild. Pero la vida no era fácil. Como no tenía dinero ni para lo más básico, me confabulé con mis camaradas más cercanos para robar de las arcas del gremio.
+TEXT_CLSLNC006_00439_FOULQUES_000_0005	El robo pronto salió a la luz y, aunque no había sospechosos, estaba claro que el culpable era alguien de dentro. Desde ese día, un aire de sospecha pesó sobre el gremio, hasta que al fin, incapaz de soportar la culpa, convencí a mis cómplices de confesar conmigo...
+TEXT_CLSLNC006_00439_FOULQUES_000_0006	...¡Solo para que se mordieran sus lenguas <italic(1)>cobardes<italic(0)> después de que yo diera un paso al frente y admitiera mi parte en el crimen! ¡Y así fue como yo solo cargué con la culpa! "<italic(1)>Claro<italic(0)> que fue el Duskwight", decían todos. "¿Acaso alguien lo dudaba?" ¡Todo tenía perfecto sentido!
+TEXT_CLSLNC006_00439_FOULQUES_000_0007	A pesar de mis ruegos sinceros, mis supuestos amigos negaron toda participación. En cambio, me dijeron cosas tan viles que no quiero repetirlas. ¿Te imaginas el impacto y la angustia que sentí ante su traición?
+TEXT_CLSLNC006_00439_FOULQUES_000_0008	¡Ojalá hubiera tenido la fuerza para arrancarles la verdad a esos traidores!
+TEXT_CLSLNC006_00439_FOULQUES_000_0009	¡Ojalá hubiera tenido el coraje de escapar de mi celda, aunque eso significara quitarle la vida a algún guardia desdichado!
+TEXT_CLSLNC006_00439_FOULQUES_000_0010	Movido por la venganza y por no poco desprecio hacia mí mismo, decidí forjar mi coraje de nuevo.
+TEXT_CLSLNC006_00439_FOULQUES_000_0011	¡Entré a las guaridas de bestias hambrientas empapado en sangre! ¡Atravesé con mi lanza a sus crías indefensas, para enfrentar la furia desatada de su especie!
+TEXT_CLSLNC006_00439_FOULQUES_000_0012	¡Con mis esfuerzos conseguí el coraje supremo: un coraje forjado en medio del peligro y templado por la ira!
+TEXT_CLSLNC006_00439_FOULQUES_000_0013	¡No le temo a nada! ¡Soy el lancer más grande que haya existido!
+TEXT_CLSLNC006_00439_FOULQUES_000_1001	...¡I-Imposible!
+TEXT_CLSLNC006_00439_FOULQUES_000_1002	¡M-Mi coraje es absoluto!
+TEXT_CLSLNC006_00439_FOULQUES_000_1003	¡Nooo! ¡No te acerques!
+TEXT_CLSLNC006_00439_YWAIN_000_40	Así que Foulques ya no existe...
+TEXT_CLSLNC006_00439_YWAIN_000_41	La suya fue una historia trágica... y una que pudo ser muy distinta. Si el destino no lo hubiera tratado con tanta crueldad, bien podría haber ocupado un lugar de honor en estas salas.
+TEXT_CLSLNC006_00439_YWAIN_000_42	Pero de nada sirve lamentarse por lo que pudo ser. Basta con que sigas entre nosotros, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSLNC006_00439_YWAIN_000_43	Por si te lo preguntas, no habrá prueba final: ya vi todo lo que necesitaba ver. Demostraste sin la menor sombra de duda que tu coraje es genuino.
+TEXT_CLSLNC006_00439_YWAIN_000_44	En reconocimiento, te transmitiré los secretos de Lance Charge, una de las habilidades más poderosas de nuestro arsenal.
+TEXT_CLSLNC006_00439_YWAIN_000_45	Ahora eres lancer por derecho propio: ya no hay nada más que pueda enseñarte. De aquí en adelante, depende de ti buscar los desafíos que te hagan crecer.
+TEXT_CLSLNC006_00439_YWAIN_000_46	Lo semejante atrae a lo semejante, y los fuertes se sienten atraídos por la fuerza. Así como yo supe con certeza que mi destino era enfrentar al Lord of the Bramble Patch, tú también encontrarás ─ o te encontrará ─ un adversario de igual valía.
+TEXT_CLSLNC006_00439_YWAIN_000_47	Nadie sabe lo que traerá el destino, pero con tu coraje no hay nada que debas temer. Guarda cerca del corazón las lecciones que aprendiste aquí, y sal al mundo a abrir un nuevo camino con la lanza en la mano.
+TEXT_CLSLNC006_00439_QIB_TODO_001	¡Derrota a los lindwurms!
+TEXT_CLSLNC006_00439_QIB_TODO_002	¡Derrota a Foulques of the Mist!
+TEXT_CLSLNC006_00439_INSTANCE_BATTLE_YESNO_TITLE	El deber llama. ¿Quieres comenzar<br>"Proof of Might"?
+TEXT_CLSLNC006_00439_INSTANCE_BATTLE_YESNO_YES	Sí
+TEXT_CLSLNC006_00439_INSTANCE_BATTLE_YESNO_NO	No
+TEXT_CLSLNC006_00439_INSTANCE_BATTLE_YESNO_TITLE_2	El deber llama. ¿Quieres comenzar<br>"Proof of Might"?
+TEXT_CLSLNC006_00439_INSTANCE_BATTLE_YESNO_YES_2	Sí
+TEXT_CLSLNC006_00439_INSTANCE_BATTLE_YESNO_NO_2	No
+TEXT_CLSLNC006_00439_THIBAIN_BATTLETALK_01	¡Ayúdenme! ¡Por favor!
+TEXT_CLSLNC006_00439_THIBAIN_BATTLETALK_02	¡Q-Quítenmelos de encima!
+TEXT_CLSLNC006_00439_THIBAIN_BATTLETALK_03	¡Nooo! ¡No quiero morir!
+TEXT_CLSLNC006_00439_FOULQUES_BATTLETALK_04	¡Resolvamos esto de una vez por todas!
+TEXT_CLSLNC006_00439_FOULQUES_BATTLETALK_05	¡Urgh! ¡No me vencerás!
+TEXT_CLSLNC006_00439_FOULQUES_BATTLETALK_06	¿Crees que no tengo honor? ¡Al infierno con tu honor!
+TEXT_CLSLNC006_00439_FOULQUES_BATTLETALK_07	¡Peleo para ganar, y no me detendré ante nada para conseguirlo!
+TEXT_CLSLNC006_00439_FOULQUES_BATTLETALK_08	¡<if(gnum4,Eres la única lancer digna,Eres el único lancer digno)> de ese nombre!<br>¡Si te derroto, demostraré mi coraje!

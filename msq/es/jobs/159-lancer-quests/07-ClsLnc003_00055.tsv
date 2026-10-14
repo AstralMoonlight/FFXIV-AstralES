@@ -1,0 +1,67 @@
+key	text
+TEXT_CLSLNC003_00055_SEQ_00	El Guildmaster Ywain necesita con urgencia que viajes al East Shroud en su lugar.
+TEXT_CLSLNC003_00055_SEQ_01	Te enteras de que Foulques ofendió a un joven y exaltado lancer del gremio, y que los dos se fueron a batirse en duelo al East Shroud. Como no puede dejar su puesto, Ywain te pide que los sigas en su lugar y te asegures de que nadie salga malherido.
+TEXT_CLSLNC003_00055_SEQ_02	Si quieres salvar al joven lancer, no te queda más remedio que hacer lo que dice Foulques. Rocía la poción alquímica sobre las raíces expuestas y prepárate para pelear.
+TEXT_CLSLNC003_00055_SEQ_03	Derrotaste al angered elm. Con la batalla terminada, ya puedes ocuparte de Foulques.
+TEXT_CLSLNC003_00055_SEQ_04	No contento con enfrentarte a un solo enemigo poderoso, Foulques quiere que te midas con una multitud. Te manda a Lifemend Stump a esperar emboscado una manada de lobos devoradores de hombres. Cuando aparezcan las bestias, debes matar a su líder: el alpha wolf.
+TEXT_CLSLNC003_00055_SEQ_05	Foulques te insta a abandonar el gremio y declara que el suyo es el único camino verdadero hacia el coraje. Aunque quisieras seguir su consejo, el honor te obliga a contarle a Ywain lo ocurrido en el Lancers' Guild.
+TEXT_CLSLNC003_00055_SEQ_06	A tu regreso, Ywain elogia el coraje que mostraste al rescatar a tu compañero lancer y te declara <if(gnum4,lista,listo)> para aprender la técnica Piercing Talon. Aunque esta vez todo salió bien, al maestro del gremio le preocupa que las ideas retorcidas de Foulques todavía causen un gran daño. Hay que hacer algo. Mientras Ywain decide qué hacer, te pide que te olvides del lancer renegado y te dediques por completo a tu entrenamiento.<br><br>※La siguiente misión de lancer estará disponible con Ywain al llegar al nivel 20.
+TEXT_CLSLNC003_00055_TODO_00	Busca a Foulques en el East Shroud.
+TEXT_CLSLNC003_00055_TODO_01	Rocía la poción alquímica sobre las raíces expuestas.
+TEXT_CLSLNC003_00055_TODO_02	Habla con Foulques.
+TEXT_CLSLNC003_00055_TODO_03	Espera emboscado cerca de Lifemend Stump.
+TEXT_CLSLNC003_00055_TODO_04	Informa a Ywain.
+TEXT_CLSLNC003_00055_YWAIN_000_1	¡Ah, <split(<string(gstr1)>, ,1)>! Llegas en buen momento. Necesito tu ayuda con urgencia.
+TEXT_CLSLNC003_00055_YWAIN_000_2	Hace apenas una bell, nuestro viejo amigo Foulques nos hizo otra visita, al parecer decidido a repetir la función que dio el día en que lo conociste. Igual que aquella vez, despotricó hasta llenar el aire de calumnias, y declaró a cada alma que se cruzaba con su mirada más cobarde que la anterior...
+TEXT_CLSLNC003_00055_YWAIN_000_3	Pero esta vez no todos hicieron oídos sordos a sus incontables provocaciones. Parece que uno de nuestros miembros más jóvenes se ofendió con sus palabras y le exigió satisfacción al renegado. Los dos se fueron a batirse en duelo al East Shroud.
+TEXT_CLSLNC003_00055_YWAIN_000_4	Si yo hubiera estado aquí, habría prohibido semejante locura y regañado al muchacho por dejar que el orgullo le nublara el juicio. Por desgracia, me enteré demasiado tarde, y el chico ya se fue. Lo único que podemos hacer ahora es asegurarnos de que ese tonto exaltado no sufra un daño irreparable.
+TEXT_CLSLNC003_00055_YWAIN_000_5	Habría salido tras ellos antes de que llegaras, pero mis deberes me retienen aquí. Por eso recurro a ti, <split(<string(gstr1)>, ,1)>. Por favor, ve al East Shroud en mi lugar y cuida de nuestro compañero.
+TEXT_CLSLNC003_00055_FOULQUES_000_10	Así que nos volvemos a ver. Supongo que te acuerdas de mí.
+TEXT_CLSLNC003_00055_Q1_000_1	¿Te acuerdas?
+TEXT_CLSLNC003_00055_A1_000_1	Me acuerdo.
+TEXT_CLSLNC003_00055_A1_000_2	Eh... ¿Quién eras?
+TEXT_CLSLNC003_00055_FOULQUES_000_11	Pero claro que te acuerdas de tu mentor: aquel que te enseñó el <italic(1)>verdadero<italic(0)> significado del coraje.
+TEXT_CLSLNC003_00055_FOULQUES_000_12	¡Me ofendes! ¿Cómo es <italic(1)>posible<italic(0)> que olvides a tu mentor, aquel que te enseñó el verdadero significado del coraje? Bueno, poco importa. Aunque hayas olvidado al maestro, está claro que no olvidaste sus enseñanzas.
+TEXT_CLSLNC003_00055_FOULQUES_000_13	Me dicen que lograste recuperar la Stone of Courage en Spirithold. Parece que no me equivoqué contigo.
+TEXT_CLSLNC003_00055_FOULQUES_000_14	Sí, tienes madera de <if(gnum4,verdadera,verdadero)> lancer, a diferencia de esos charlatanes del Lancers' Guild.
+TEXT_CLSLNC003_00055_FOULQUES_000_15	Qué bueno que viniste a mí, porque tengo justo la prueba para ti: una que le hará maravillas a tu coraje.
+TEXT_CLSLNC003_00055_FOULQUES_000_16	¿Que no te interesa, dices? Ah, pero no tienes opción. Si te niegas... bueno, digamos que no podré garantizar la seguridad de tu compañero.
+TEXT_CLSLNC003_00055_FOULQUES_000_17	La última vez que hablamos te dije que un lancer forja el verdadero coraje solo en medio de un gran peligro. Ni falta hace decir que las criaturas comunes no son amenaza suficiente: necesitas una presa mejor.
+TEXT_CLSLNC003_00055_FOULQUES_000_18	Ah, pero no temas, porque me tomé la libertad de buscarte algo adecuado.
+TEXT_CLSLNC003_00055_FOULQUES_000_19	Toma esta poción alquímica y rocíala sobre aquellas raíces expuestas. Así te ganarás la ira de cierta criatura, que luego deberás abatir.
+TEXT_CLSLNC003_00055_CLSLNC003MOB1_000_30	Ugggh...
+TEXT_CLSLNC003_00055_FOULQUES_000_31	Rocía la poción alquímica sobre las raíces expuestas como te dije, o tu compañero lo pagará con la vida.
+TEXT_CLSLNC003_00055_CLSLNC003MOB1_000_40	L-Lo subestimé...
+TEXT_CLSLNC003_00055_FOULQUES_000_41	Así que venciste al treant. Bien hecho. Al abatir a esa criatura enloquecida, fortaleciste aún más tu coraje.
+TEXT_CLSLNC003_00055_FOULQUES_000_42	¿Hm? ¿Que suelte a tu compañero? Oh, lo haré... cuando completes mi siguiente prueba. Esta te enfrentará a una multitud de enemigos.
+TEXT_CLSLNC003_00055_FOULQUES_000_43	Ve a Lifemend Stump, en el Central Shroud. Una vez allí, busca un buen lugar junto al camino del bosque para esperar emboscado. Los lobos devoradores de hombres suelen cazar por ahí en esta época del año, y no debería tardar en aparecer una manada.
+TEXT_CLSLNC003_00055_FOULQUES_000_44	Cuando aparezcan las bestias, debes matar a su líder: el alpha wolf. Yo observaré de cerca, para darte mejores consejos.
+TEXT_CLSLNC003_00055_CLSLNC003MOB1_000_50	P-Perdóname...
+TEXT_CLSLNC003_00055_FOULQUES_000_51	¿No fui claro con mis instrucciones? Ve a Lifemend Stump y espera emboscado a una manada de lobos devoradores de hombres. Cuando aparezcan las bestias, mata a su líder: el alpha wolf.
+TEXT_CLSLNC003_00055_FOULQUES_000_60	Mereces mis felicitaciones, <split(<string(gstr1)>, ,1)>. Al lanzarte en medio del peligro, templaste aún más tu coraje.
+TEXT_CLSLNC003_00055_FOULQUES_000_61	Y de paso, trajiste la paz a Lifemend Stump, un lugar que la gente de Gridania considera sagrado.
+TEXT_CLSLNC003_00055_FOULQUES_000_62	Después de superar mis pruebas, ya debes ver que las del gremio no son más que juegos de niños.
+TEXT_CLSLNC003_00055_FOULQUES_000_63	El mío es el único camino verdadero hacia el coraje; todos los demás llevan a la deshonra. Si quieres ser <if(gnum4,una lancer digna,un lancer digno)> de ese nombre, te sugiero que dejes a Ywain y su casa de cobardes, y que no vuelvas jamás.
+TEXT_CLSLNC003_00055_FOULQUES_000_64	Por tu bien, espero que lo hagas pronto. Hasta la próxima...
+TEXT_CLSLNC003_00055_TALK_SCENE00010_000	Este no es el texto que buscas.
+TEXT_CLSLNC003_00055_YWAIN_000_70	¡<split(<string(gstr1)>, ,1)>, gracias a los dioses que estás a salvo! Ese joven tonto volvió hace apenas unos momentos y, entre lágrimas ahogadas, me contó todo lo que pasó.
+TEXT_CLSLNC003_00055_YWAIN_000_71	Según entiendo, Foulques intentó otra vez imponerte su idea retorcida del coraje.
+TEXT_CLSLNC003_00055_YWAIN_000_72	No me canso de repetirlo: un lancer fortalece su coraje templando su serenidad y su determinación, <italic(1)>no<italic(0)> lanzándose de cabeza al peligro.
+TEXT_CLSLNC003_00055_YWAIN_000_73	Superaste las pruebas de Foulques, es cierto, pero has de saber que lo lograste gracias al verdadero coraje: el que nace de la serenidad y la determinación.
+TEXT_CLSLNC003_00055_YWAIN_000_74	No vacilaste ante la furia de un treant enloquecido, ni caíste presa del pánico al verte <if(gnum4,rodeada,rodeado)> de lobos sedientos de sangre. Por eso pudiste dar lo mejor de ti.
+TEXT_CLSLNC003_00055_YWAIN_000_75	Llegaste lejos, <split(<string(gstr1)>, ,1)>. Ya era hora de que te enseñara la técnica Piercing Talon, una de las armas más versátiles del arsenal de un lancer. Que te sirva bien.
+TEXT_CLSLNC003_00055_YWAIN_000_76	Ahora debo decidir qué hacer con tu autoproclamado "mentor". Aunque no se perdieron vidas, este último incidente solo confirma lo que sospecho desde hace tiempo: que Foulques causará un gran daño si se le deja propagar su idea retorcida del coraje. Hay que convencerlo de que desista, aunque todavía no sé cómo. Quizá su aprecio por ti podría jugar a nuestro favor... Pero deja que yo me ocupe de eso.
+TEXT_CLSLNC003_00055_YWAIN_000_77	Por ahora, harías bien en olvidarte de Foulques. Concéntrate en tu entrenamiento y esfuérzate por dominar la técnica que te enseñé. Espero con ansias nuestro próximo encuentro.
+TEXT_CLSLNC003_00055_POP_MESSAGE	¡Sientes una presencia hostil!
+TEXT_CLSLNC003_00055_QIB_TODO_001	¡Derrota a los lobos!
+TEXT_CLSLNC003_00055_INSTANCE_BATTLE_YESNO_TITLE	El deber llama. ¿Quieres comenzar<br>"A Dangerous Proposition"?
+TEXT_CLSLNC003_00055_INSTANCE_BATTLE_YESNO_YES	Sí
+TEXT_CLSLNC003_00055_INSTANCE_BATTLE_YESNO_NO	No
+TEXT_CLSLNC003_00055_FOULQUES_BATTLETALK_01	Si el alpha wolf te paraliza, todo habrá terminado.
+TEXT_CLSLNC003_00055_FOULQUES_BATTLETALK_02	¿Aguantará tu coraje frente al terror? ¡Ya lo veremos!
+TEXT_CLSLNC003_00055_FOULQUES_BATTLETALK_03	¡El coraje solo se forja en medio de un gran peligro!
+TEXT_CLSLNC003_00055_FOULQUES_BATTLETALK_04	Me aburro mortalmente. Déjame hacer esto más... <italic(1)>interesante<italic(0)>.
+TEXT_CLSLNC003_00055_FOULQUES_BATTLETALK_05	¡Un verdadero lancer no necesita sus ojos para ganar, solo su coraje!
+TEXT_CLSLNC003_00055_FOULQUES_BATTLETALK_06	Vaya, vaya, parece que enfureciste a la bestia.
+TEXT_CLSLNC003_00055_FOULQUES_BATTLETALK_07	Mi parte aquí terminó. El resto te lo dejo a ti.
+TEXT_CLSLNC003_00055_FOULQUES_BATTLETALK_DEAD	¡I-Imposible!

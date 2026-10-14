@@ -1,0 +1,65 @@
+key	text
+TEXT_CLSLNC001_00047_SEQ_00	El Guildmaster Ywain quiere enseñarte el significado del coraje.
+TEXT_CLSLNC001_00047_SEQ_01	El Guildmaster Ywain te manda al Central Shroud a cazar riverbank yarzons. Usa el saco de cebo maloliente que te dio para sacar a las criaturas de su nido.
+TEXT_CLSLNC001_00047_SEQ_02	Derrotaste a los riverbank yarzons. Vuelve con Ywain al Lancers' Guild.
+TEXT_CLSLNC001_00047_SEQ_03	De vuelta en el gremio, Ywain te manda a abatir unas bestias sin nombre en el Central Shroud. Investiga tres pilares derrumbados cerca de Spirithold y acaba con las criaturas que aparezcan.
+TEXT_CLSLNC001_00047_SEQ_04	Derrotaste a las criaturas de los pilares derrumbados. Vuelve con Jillian al Lancers' Guild.
+TEXT_CLSLNC001_00047_SEQ_05	De vuelta en el gremio, te topas con un lancer misterioso que parece decidido a presentarte el lado peligroso de su lanza. Justo cuando el derramamiento de sangre parece inevitable, el intruso desconocido decide retirarse y te deja pensando en sus palabras de despedida. Quizá Ywain pueda aclarar lo ocurrido.
+TEXT_CLSLNC001_00047_SEQ_06	Según Ywain, no es raro que lancers renegados desafíen a los miembros del gremio. Te dice que no le prestes más atención al visitante inesperado y que te concentres en prepararte para la próxima prueba.<br><br>※La siguiente misión de lancer estará disponible con Ywain al llegar al nivel 10.
+TEXT_CLSLNC001_00047_TODO_00	Usa el cebo maloliente para atraer a los riverbank yarzons y cázalos.
+TEXT_CLSLNC001_00047_TODO_01	Informa a Ywain en el Lancers' Guild.
+TEXT_CLSLNC001_00047_TODO_02	Abate a las criaturas de los pilares derrumbados.
+TEXT_CLSLNC001_00047_TODO_03	Informa a Jillian en el Lancers' Guild.
+TEXT_CLSLNC001_00047_TODO_04	Habla con Ywain.
+TEXT_CLSLNC001_00047_YWAIN_000_1	Ah, volviste. Si estás aquí, supongo que ya te familiarizaste un poco con tu arma. Bien. Estás <if(gnum4,lista,listo)> para la siguiente etapa de tu entrenamiento.
+TEXT_CLSLNC001_00047_YWAIN_000_2	Recordarás que te dije que hace falta un coraje nada pequeño para ser lancer. En términos generales, el "coraje" es la fuerza para hacer algo que a uno le da miedo.
+TEXT_CLSLNC001_00047_YWAIN_000_3	Sin embargo, la idea de coraje de un lancer no es tan simple. Primero distingue el coraje de la temeridad, y luego divide el coraje en dos aspectos. Quiero que aprendas cada uno con la lanza en la mano.
+TEXT_CLSLNC001_00047_YWAIN_000_4	El primero es la <italic(1)>serenidad<italic(0)>.
+TEXT_CLSLNC001_00047_YWAIN_000_5	Cuando está en desventaja numérica, un lancer puede perder la serenidad y caer presa del pánico. Si eso pasa, todo su entrenamiento se le borra de la mente en un instante, y le cuesta vencer a rivales que en otro momento habría derrotado con facilidad. En pocas palabras, contribuye a su propia derrota.
+TEXT_CLSLNC001_00047_YWAIN_000_6	Si quieres ser <if(gnum4,una lancer,un lancer)> de verdad, debes aprender a mantener la serenidad en todo momento. Hazlo y podrás echar mano de cada onza de tu fuerza y tu destreza cuando más importe. Y ahora, tu primera tarea...
+TEXT_CLSLNC001_00047_YWAIN_000_7	En las orillas de los ríos del Central Shroud viven unas alimañas llamadas yarzons. Son muy territoriales y atacan a cualquiera que se acerque demasiado, así que son la pesadilla de los pescadores.
+TEXT_CLSLNC001_00047_YWAIN_000_8	Suelen caer en masa sobre su presa, cerrándole toda vía de escape antes de lanzarse a matar.
+TEXT_CLSLNC001_00047_YWAIN_000_9	¿Qué pasará por la mente de su víctima en ese instante? ¿Pánico? ¿Desesperación? Cuéntamelo a tu regreso. Por supuesto, quiero que enfrentes ese encuentro. Toma este saco de cebo francamente apestoso y úsalo para sacar de su nido a esas criaturas siempre hambrientas.
+TEXT_CLSLNC001_00047_YWAIN_100_9	Puede que aparezca un solo yarzon curioso, pero ¿y si dos o tres siguen el olor...? Veamos cómo te va entonces.
+TEXT_CLSLNC001_00047_YWAIN_101_9	Ve ahora, mi joven lancer, y aprende lo que significa pelear con serenidad.
+TEXT_CLSLNC001_00047_YWAIN_000_10	<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <split(<string(gstr1)>, ,1)>, y bien hecho. Confío en que ahora entiendes que, en el momento de mayor necesidad, ni toda la fuerza ni toda la destreza con la lanza le sirven a un lancer sin serenidad.
+TEXT_CLSLNC001_00047_YWAIN_000_11	Ya estás <if(gnum4,lista,listo)> para aprender el segundo aspecto del coraje de un lancer: la determinación.
+TEXT_CLSLNC001_00047_YWAIN_000_12	Ante un enemigo terrible, un lancer puede dejarse vencer por el miedo y las dudas. Si eso pasa, se pone a la defensiva y, al intentar cubrir su debilidad, renuncia a su mayor fortaleza: su capacidad de atacar.
+TEXT_CLSLNC001_00047_YWAIN_000_13	Un lancer que teme atacar no es más que un hombre sosteniendo un palo. Su lanza bien podría ser una escoba, para lo que le sirve. No es ni será jamás un escudo.
+TEXT_CLSLNC001_00047_YWAIN_000_14	Para que compruebes en persona la verdad de mis palabras, te mando al Central Shroud, a una zona junto al dungeon abandonado que llaman Spirithold.
+TEXT_CLSLNC001_00047_YWAIN_000_15	Desde la Calamidad, ese rincón del Twelveswood se volvió un auténtico zoológico de bestias temibles.
+TEXT_CLSLNC001_00047_YWAIN_000_16	Allí encontrarás tres pilares derrumbados que se volvieron guarida de criaturas malignas. Debes acabar con ellas.
+TEXT_CLSLNC001_00047_YWAIN_000_17	¿Hm? ¿Qué clase de bestias vas a encontrar? ¡Ja! Revelarte <italic(1)>eso<italic(0)> arruinaría el propósito de la lección, mi joven lancer.
+TEXT_CLSLNC001_00047_YWAIN_000_18	Solo te diré esto: si enfrentas a esos enemigos con la determinación de un lancer, sin duda saldrás <if(gnum4,victoriosa,victorioso)>.
+TEXT_CLSLNC001_00047_YWAIN_000_19	Cuando termines la prueba, por favor, preséntate ante Jillian en el vestíbulo de entrada.
+TEXT_CLSLNC001_00047_YWAIN_100_19	Ella aprendió los dos aspectos del coraje, aunque le costó bastante. Dudo que tú tengas las mismas dificultades, pero su esfuerzo le dejó ciertas enseñanzas que creo que te convendría escuchar.
+TEXT_CLSLNC001_00047_YWAIN_101_19	Un lancer aprende mejor haciendo, sí, pero la sabiduría de sus mayores también vale algo. Ve ahora, <split(<string(gstr1)>, ,1)>, y haz lo que te pido.
+TEXT_CLSLNC001_00047_JILLIAN_000_20	<if(gnum4,La,Lo)> estaba esperando, <split(<string(gstr1)>, ,1)>. Si está de vuelta, supongo que ya entiende la importancia de la determinación.
+TEXT_CLSLNC001_00047_JILLIAN_000_21	Igual que la carne, el coraje puede fortalecerse. Es cuestión de entrenar cada uno de sus aspectos.
+TEXT_CLSLNC001_00047_JILLIAN_000_22	Claro que al principio puede ser difícil ─ bien saben los dioses cuánto me costó a <italic(1)>mí<italic(0)>. Quizá sufra humillaciones sin fin y más frustración de la que pueda soportar... pero debe perseverar.
+TEXT_CLSLNC001_00047_JILLIAN_000_23	Cada vez que se enfrente a un rival, sea en un entrenamiento o en serio, esfuércese por pelear con serenidad y determinación. Con el tiempo, le saldrá solo, y tendrá un coraje que nunca creyó posible.
+TEXT_CLSLNC001_00047_JILLIAN_000_24	Eso sí, no todas las batallas son un choque de fuerzas. Pueden ser simplemente un desacuerdo nacido de ideas opuestas.
+TEXT_CLSLNC001_00047_JILLIAN_000_25	Lo que quiero decir es que no importa en qué campo de batalla esté. Mientras procure mantener la serenidad y la determinación, su coraje crecerá.
+TEXT_CLSLNC001_00047_JILLIAN_000_26	...¿Se entendió algo? ¿Aunque sea un poco? Me temo que no le llego ni a los talones al Guildmaster Ywain, pero si hay algo que pueda hacer para ayudarle en su entrenamiento─
+TEXT_CLSLNC001_00047_JILLIAN_000_27	¿Qué fue eso? Algo pasa en el área de entrenamiento...
+TEXT_CLSLNC001_00047_FOULQUES_000_0001	(-???-)¿Y ustedes se llaman lancers? Patético...
+TEXT_CLSLNC001_00047_FOULQUES_000_0002	(-???-)Sigues tú, Guildmaster. Toma tu arma y enfréntame.
+TEXT_CLSLNC001_00047_FOULQUES_000_0003	(-???-)Niégate, y todos sabrán que no eres <if(gnum4,una verdadera lancer,un verdadero lancer)>.
+TEXT_CLSLNC001_00047_YWAIN_000_0004	Diga lo que quiera. No caeré en provocaciones.
+TEXT_CLSLNC001_00047_FOULQUES_000_0005	(-???-)Hmph... Cobardes hasta el último...
+TEXT_CLSLNC001_00047_FOULQUES_000_0006	(-???-)Ah, pero ¿qué tenemos aquí?
+TEXT_CLSLNC001_00047_YWAIN_000_0007	Espere. <if(gnum4,Ella es apenas una novata,Él es apenas un novato)>.
+TEXT_CLSLNC001_00047_FOULQUES_000_0008	(-???-)Eso me da igual. Tú mismo <if(gnum4,la,lo)> admitiste en tus filas, ¿o no?
+TEXT_CLSLNC001_00047_FOULQUES_000_0009	(-???-)Muy bien. Me retiraré por ahora.
+TEXT_CLSLNC001_00047_FOULQUES_000_0010	(-???-)Pero que sepan que solo los que no conocen el miedo merecen llevar el manto de lancer.
+TEXT_CLSLNC001_00047_FOULQUES_000_0011	(-???-)Espero con ansias medir tu valía en los días que vienen.
+TEXT_CLSLNC001_00047_YWAIN_000_0012	No hay nada más que ver. ¡Vuelvan a sus ejercicios!
+TEXT_CLSLNC001_00047_YWAIN_000_30	<split(<string(gstr1)>, ,1)>. No intentaste esquivar su estocada.
+TEXT_CLSLNC001_00047_YWAIN_000_31	¿Tanto te intimidó tu rival que te dejó sin reacción?
+TEXT_CLSLNC001_00047_YWAIN_000_32	Bueno, ahora ya poco importa.
+TEXT_CLSLNC001_00047_YWAIN_000_33	No tienes que prestarle más atención a nuestro visitante inesperado. Por si te lo preguntas, no es raro que vengan retadores a golpear nuestra puerta para ponerse a prueba.
+TEXT_CLSLNC001_00047_YWAIN_000_34	Por ahora, dedícate a templar los dos aspectos del coraje: la serenidad para poner toda tu fuerza y destreza contra tus enemigos...
+TEXT_CLSLNC001_00047_YWAIN_000_35	...y la determinación para atacar cuando el miedo quiera detener tu mano, como corresponde a un lancer.
+TEXT_CLSLNC001_00047_YWAIN_000_36	La próxima vez que nos veamos tendré otra prueba para ti: una que pondrá a prueba tu coraje.
+TEXT_CLSLNC001_00047_YWAIN_000_37	Hasta entonces, sigue entregado a tu entrenamiento. Adiós, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSLNC001_00047_POP_MESSAGE	¡Sientes una mirada hambrienta!

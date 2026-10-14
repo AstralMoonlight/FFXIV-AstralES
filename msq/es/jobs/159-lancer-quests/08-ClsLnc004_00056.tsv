@@ -1,0 +1,79 @@
+key	text
+TEXT_CLSLNC004_00056_SEQ_00	El Guildmaster Ywain tiene en mente una prueba que promete ser más peligrosa que cualquiera de las que enfrentaste hasta ahora.
+TEXT_CLSLNC004_00056_SEQ_01	Para demostrar que puedes con la prueba que viene, debes derrotar a tres lancers experimentados uno tras otro. Toma tu arma y ocupa tu lugar en el área de entrenamiento.
+TEXT_CLSLNC004_00056_SEQ_02	Arrasaste con tus compañeros y demostraste que estás a la altura de la prueba. Habla con Ywain para recibir más instrucciones.
+TEXT_CLSLNC004_00056_SEQ_03	Para asegurar la supervivencia del Lancers' Guild, debes demostrar tu coraje ante el Lord of the Bramble Patch. Antes, tendrás que conseguir diez bloody boar tusks de los wild boars que habitan sus dominios. Ve al Bramble Patch, en el East Shroud, y lleva tu lanza contra los jabalíes que viven allí.
+TEXT_CLSLNC004_00056_SEQ_04	Conseguiste diez bloody boar tusks. Déjalos como ofrenda sobre la tierra pisoteada.
+TEXT_CLSLNC004_00056_SEQ_05	Dejaste los bloody boar tusks como ofrenda. Ahora solo tienes que esperar a que el Lord of the Bramble Patch te honre con su presencia.
+TEXT_CLSLNC004_00056_SEQ_06	Ganaste el desafío gracias a tu coraje. Vuelve al Lancers' Guild, donde te espera Ywain.
+TEXT_CLSLNC004_00056_SEQ_07	Incapaz de soportar el desprecio de Ywain, Foulques huyó a lo más profundo del bosque. Aunque sea un trago amargo, esta experiencia quizá le haga replantearse sus creencias... o eso es lo que uno esperaría. Ywain elogia tu actuación en el Bramble Patch y te pide que entrenes duro para las próximas pruebas. <if(gnum4,Animada,Animado)> por sus palabras, sigues adelante por el noble camino del lancer.<br><br>※La siguiente misión de lancer estará disponible con Ywain al llegar al nivel 25.
+TEXT_CLSLNC004_00056_TODO_00	Ocupa tu lugar en el área de entrenamiento.
+TEXT_CLSLNC004_00056_TODO_01	Habla con Ywain.
+TEXT_CLSLNC004_00056_TODO_02	Consigue bloody boar tusks de los wild boars.
+TEXT_CLSLNC004_00056_TODO_03	Deja los bloody boar tusks sobre la tierra pisoteada.
+TEXT_CLSLNC004_00056_TODO_04	Espera junto a los bloody boar tusks.
+TEXT_CLSLNC004_00056_TODO_05	Informa a Ywain en el Lancers' Guild.
+TEXT_CLSLNC004_00056_BATTLE_TALK_0	¡El siguiente!
+TEXT_CLSLNC004_00056_BATTLE_TALK_2	¡Basta!
+TEXT_CLSLNC004_00056_YWAIN_BATTLETALK_01	¡Nadie se contenga! ¡Comiencen!
+TEXT_CLSLNC004_00056_YWAIN_BATTLETALK_02	¡El siguiente!
+TEXT_CLSLNC004_00056_YWAIN_BATTLETALK_03	¡El siguiente!
+TEXT_CLSLNC004_00056_YWAIN_BATTLETALK_04	¡Basta! ¡Bajen las lanzas!
+TEXT_CLSLNC004_00056_YWAIN_000_1	Te estaba esperando, <split(<string(gstr1)>, ,1)>. Has entrenado duro, ¿verdad?
+TEXT_CLSLNC004_00056_YWAIN_000_2	Quiero ponerte tu siguiente prueba: una más peligrosa que cualquiera que hayas enfrentado.
+TEXT_CLSLNC004_00056_YWAIN_000_3	Pero no enviaría a <if(gnum4,una mujer,un hombre)> a la muerte sin preparación. Antes de seguir, debo comprobar tus avances con mis propios ojos.
+TEXT_CLSLNC004_00056_YWAIN_000_4	Te enfrentarás a tres lancers experimentados en combate singular. Derrota a cada uno, uno tras otro, y demostrarás que estás a la altura de la prueba.
+TEXT_CLSLNC004_00056_YWAIN_000_5	Toma tu arma y ocupa tu lugar en el área de entrenamiento. Empezamos cuando digas.
+TEXT_CLSLNC004_00056_YWAIN_000_10	Bien hecho, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSLNC004_00056_YWAIN_000_20	Impresionante, <split(<string(gstr1)>, ,1)>. Muy impresionante. Estás <if(gnum4,lista,listo)> para enfrentar la prueba.
+TEXT_CLSLNC004_00056_YWAIN_000_21	Pero no exageré cuando dije que sería peligrosa. No te equivoques: hacer esta prueba es arriesgar la vida.
+TEXT_CLSLNC004_00056_YWAIN_000_22	Sabiendo esto, ¿todavía quieres seguir?
+TEXT_CLSLNC004_00056_Q1_000_1	¿Comenzar la prueba?
+TEXT_CLSLNC004_00056_A1_000_1	Sí
+TEXT_CLSLNC004_00056_A1_000_2	No
+TEXT_CLSLNC004_00056_YWAIN_000_30	...Ya veo. Bueno, no intentaré convencerte. Aunque estoy seguro de que puedes con ella, esta decisión es solo tuya. Ten por seguro que nadie aquí pensará menos de ti por necesitar más tiempo.
+TEXT_CLSLNC004_00056_YWAIN_000_31	Si decides aceptar el desafío, aquí estaré.
+TEXT_CLSLNC004_00056_FOULQUES_000_40	Me decepcionas.
+TEXT_CLSLNC004_00056_YWAIN_000_41	¿Otra vez por aquí?
+TEXT_CLSLNC004_00056_FOULQUES_000_42	<if(gnum4,Esa mujer,Ese hombre)> es la única alma de esta patética excusa de gremio que muestra algo de potencial.
+TEXT_CLSLNC004_00056_FOULQUES_000_43	Por eso le aconsejé que te dejara. Por desgracia, prefirió quedarse en tu casa de cobardes. Qué desperdicio.
+TEXT_CLSLNC004_00056_FOULQUES_000_44	Este gremio ya no tiene razón de ser, y pienso ver sus puertas cerradas y atrancadas para siempre. Si quieres objetar, te invito a hacerlo con la lanza en la mano.
+TEXT_CLSLNC004_00056_YWAIN_000_45	No le falta confianza, señor. Pero respóndame esto: ¿qué rencor nos guarda? ¿Por qué eligió esta cruzada entre todas?
+TEXT_CLSLNC004_00056_FOULQUES_000_46	Detesto a los cobardes que presumen de coraje, y nada me gusta más que aplastarlos. Esa es mi razón.
+TEXT_CLSLNC004_00056_YWAIN_000_47	Bueno... la firmeza de su propósito es clara, aunque sus razones no lo sean. Que así sea. Baste decir que no se saldrá con la suya sin pelear.
+TEXT_CLSLNC004_00056_YWAIN_000_48	Ah, pero no crea que yo seré su rival. No, deberá enfrentarse <if(gnum4,a la lancer de la que,al lancer del que)> tan pomposamente se declaró <italic(1)>mentor<italic(0)>: <if(gnum4,la única,el único)> entre nosotros cuyo "potencial" se digna reconocer. <split(<string(gstr1)>, ,1)> nos representará a todos. Como maestro del gremio, apuesto el destino del gremio a su lanza.
+TEXT_CLSLNC004_00056_FOULQUES_000_49	¡Ja! Haz lo que quieras, <italic(1)>cobarde<italic(0)>: es tu gremio el que tiras por la borda. Hasta puedes fijar las condiciones del duelo.
+TEXT_CLSLNC004_00056_YWAIN_000_50	Muy bien. <split(<string(gstr1)>, ,1)> está aquí para hacer una prueba. Lo desafío a completarla antes que <if(gnum4,ella,él)>.
+TEXT_CLSLNC004_00056_YWAIN_000_51	Ambos viajarán al East Shroud y demostrarán su coraje ante el Lord of the Bramble Patch.
+TEXT_CLSLNC004_00056_YWAIN_000_52	Es un gigante entre los jabalíes, sin rival en fuerza ni en ferocidad, y soberano de toda su especie. Deben presentarse ante esa temible criatura y mantenerse firmes.
+TEXT_CLSLNC004_00056_YWAIN_000_53	Sepan, eso sí, que el Lord of the Bramble Patch no le concede audiencia a cualquiera. Deben ofrecerle los colmillos ensangrentados de sus súbditos: los wild boars que habitan sus dominios.
+TEXT_CLSLNC004_00056_YWAIN_000_54	Cuando tengan lista su ofrenda, déjenla sobre una zona de tierra pisoteada. Atraído por el olor a sangre, el Lord of the Bramble Patch no tardará en aparecer.
+TEXT_CLSLNC004_00056_YWAIN_000_55	Eso es todo. ¿Alguna pregunta?
+TEXT_CLSLNC004_00056_YWAIN_000_56	...¿No?
+TEXT_CLSLNC004_00056_YWAIN_000_57	¡Entonces que comience la prueba!
+TEXT_CLSLNC004_00056_TALK_SCENE00004_000	Este no es el texto que buscas.
+TEXT_CLSLNC004_00056_YWAIN_000_0001	No encontrarás mucha diversión en estos dos.
+TEXT_CLSLNC004_00056_YWAIN_000_0002	Vuelve otro día, amigo mío.
+TEXT_CLSLNC004_00056_YWAIN_000_0003	Bien hecho, <split(<string(gstr1)>, ,1)>. Completaste la prueba.
+TEXT_CLSLNC004_00056_YWAIN_000_0004	Confío en que ahora ves la verdad en mis palabras. Lanzarse en medio del peligro no es coraje: es locura.
+TEXT_CLSLNC004_00056_FOULQUES_000_0005	No... Esto no prueba nada... Me niego... Me niego a aceptar...
+TEXT_CLSLNC004_00056_FOULQUES_000_0006	\<jadeo>
+TEXT_CLSLNC004_00056_YWAIN_000_0007	Se niega a aceptar la debilidad que lleva dentro.
+TEXT_CLSLNC004_00056_YWAIN_000_0008	No, <split(<string(gstr1)>, ,1)>. Déjalo.
+TEXT_CLSLNC004_00056_YWAIN_000_0009	Tu trabajo aquí terminó. Vuelve al gremio; te veré allí en un momento.
+TEXT_CLSLNC004_00056_YWAIN_000_70	No te voy a mentir: no eres rival para el Lord of the Bramble Patch. Si hubieras mostrado la menor señal de miedo, te habría corneado en un instante y se habría dado un festín con tus entrañas.
+TEXT_CLSLNC004_00056_YWAIN_000_71	Pero te mantuviste firme, <if(gnum4,aferrada,aferrado)> a tu serenidad y tu determinación. Así pudiste mirar al terror a la cara y sobrevivir sin un rasguño.
+TEXT_CLSLNC004_00056_YWAIN_000_72	Bien hecho, <split(<string(gstr1)>, ,1)>. Superaste el mayor obstáculo en el camino para dominar tu propio coraje.
+TEXT_CLSLNC004_00056_YWAIN_000_73	Ahora puedes desplegar todo tu potencial incluso contra los enemigos más poderosos.
+TEXT_CLSLNC004_00056_YWAIN_000_74	En cuanto a Foulques... bueno, si le queda una pizca de razón, habrá aprendido hoy la misma lección que tú. Por dolorosa que haya sido la experiencia, solo queda esperar que le sirva para abrir los ojos a la verdad.
+TEXT_CLSLNC004_00056_YWAIN_000_75	Ve, <split(<string(gstr1)>, ,1)>, y prepárate para nuevas pruebas. Espero con ansias nuestro próximo encuentro.
+TEXT_CLSLNC004_00056_QIB_TODO_001	¡Derrota a tres lancers seguidos!
+TEXT_CLSLNC004_00056_INSTANCE_BATTLE_YESNO_TITLE	El deber llama. ¿Quieres comenzar<br>"Lance of Destiny"?
+TEXT_CLSLNC004_00056_INSTANCE_BATTLE_YESNO_YES	Sí
+TEXT_CLSLNC004_00056_INSTANCE_BATTLE_YESNO_NO	No
+TEXT_CLSLNC004_00056_QIB_002_TODO_1	¡Derrota a Kamapuaa, el Lord of the Bramble Patch!
+TEXT_CLSLNC004_00056_QIB_002_FOULQUES_BATTLETALK_01	¡Esta apuesta ya está ganada! ¡Contempla el <italic(1)>verdadero<italic(0)> significado del coraje!
+TEXT_CLSLNC004_00056_QIB_002_FOULQUES_BATTLETALK_02	Ugh... Qué fuerza tan brutal...
+TEXT_CLSLNC004_00056_QIB_002_FOULQUES_BATTLETALK_03	¡Pero aunque mi fuerza mengüe, mi coraje crece! ¡Jajaja!
+TEXT_CLSLNC004_00056_QIB_002_FOULQUES_BATTLETALK_04	El verdadero coraje se encuentra... ¡al borde de la muerte!
+TEXT_CLSLNC004_00056_QIB_002_FOULQUES_BATTLETALK_05	¡Te... derrotaré... monstruo! ¡Aaaaargh!

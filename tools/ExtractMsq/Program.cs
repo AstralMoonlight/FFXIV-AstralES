@@ -111,6 +111,32 @@ foreach (var sheet in sheetNames.Where(n => n.StartsWith("opening/")).Order())
     index.Append($"\topenings\t{file}\t0\t\t{WriteSheet(sheet, Path.Combine(output, "openings", file))}\n");
 }
 
+// Class and job quests (ClsLnc…, JobDrg…): one folder per journal genre, numbered in journal order.
+var jobQuests = quests.Where(q => q.JournalGenre.RowId != 0 && q.Id.ExtractText() is var id && (id.StartsWith("Cls") || id.StartsWith("Job")))
+    .GroupBy(q => q.JournalGenre.RowId).OrderBy(g => g.Key);
+var jobLines = 0;
+
+foreach (var group in jobQuests)
+{
+    var folder = $"jobs/{group.Key:000}-{Slug(genres.GetRow(group.Key).Name.ExtractText())}";
+
+    foreach (var (q, i) in group.OrderBy(q => q.SortKey).ThenBy(q => q.RowId).Select((q, i) => (q, i + 1)))
+    {
+        var id = q.Id.ExtractText();
+        var sheet = $"quest/{id[^5..^2]}/{id}";
+
+        if (!sheetNames.Contains(sheet))
+            continue;
+
+        var file = $"{i:00}-{id}.tsv";
+        var lines = WriteSheet(sheet, Path.Combine(output, folder, file));
+        jobLines += lines;
+        index.Append($"\t{folder}\t{file}\t{q.RowId}\t{q.Name.ExtractText()}\t{lines}\n");
+    }
+}
+
+Console.WriteLine($"class and job quests: {jobLines} lines → {Path.Combine(output, "jobs")}");
+
 File.WriteAllText(Path.Combine(output, "index.tsv"), index.ToString(), new UTF8Encoding(false));
 File.WriteAllText(Path.Combine(output, "macros.tsv"),
     "macro\tcount\texample\n" + string.Concat(macros.OrderByDescending(m => m.Value.Count)

@@ -1,0 +1,76 @@
+key	text
+TEXT_CLSLNC005_00438_SEQ_00	El Guildmaster Ywain quiere que aprendas de otros maestros del arte de la lanza.
+TEXT_CLSLNC005_00438_SEQ_01	Ywain quiere mandarte a entrenar con tres lancers de renombre. El primero es un hombre llamado Matheomi, que se encuentra en Amarissaix's Spire, en el East Shroud.
+TEXT_CLSLNC005_00438_SEQ_02	Matheomi te puso una prueba. Rocía el contenido del frasco que te dio al pie del gran árbol del norte y derrota a las criaturas malignas que aparezcan.
+TEXT_CLSLNC005_00438_SEQ_03	Venciste a los blood bats. Llévale la noticia de tu éxito a Matheomi.
+TEXT_CLSLNC005_00438_SEQ_04	Matheomi elogia tu coraje y afirma que eres <if(gnum4,una lancer muy prometedora,un lancer muy prometedor)>. Terminada tu primera lección, es hora de buscar a Buscarron, el dueño de Buscarron's Druthers, en el South Shroud.
+TEXT_CLSLNC005_00438_SEQ_05	Buscarron te da una botella de Fullflower mead y te pide que la dejes como ofrenda en Mistalle's Lance, un monumento escondido en una grieta rocosa al sur de su taberna.
+TEXT_CLSLNC005_00438_SEQ_06	Dejaste la botella de Fullflower mead como ofrenda en Mistalle's Lance. Vuelve con Buscarron a su taberna.
+TEXT_CLSLNC005_00438_SEQ_07	Escuchas con atención mientras Buscarron te cuenta la vida de Mistalle, un hombre con el que todo estudiante del arte de la lanza tiene una deuda de gratitud. Con un nuevo aprecio por el gremio, llegó la hora de buscar a tu tercer y último instructor. Ve a Fallgourd Float, en el North Shroud, y aprovecha la sabiduría de Vauxclairt.
+TEXT_CLSLNC005_00438_SEQ_08	Vauxclairt te puso una prueba, y para la primera parte tienes que conseguir seis dedos de unas criaturas llamadas balloons.
+TEXT_CLSLNC005_00438_SEQ_09	Conseguiste los dedos de balloon necesarios. Usa esos macabros dedos para avivar una llamarada en la fogata destripada que describió Vauxclairt, y atrae al verdadero objetivo de tu prueba: el red balloon.
+TEXT_CLSLNC005_00438_SEQ_10	Venciste al red balloon. Llévale la noticia de tu éxito a Vauxclairt.
+TEXT_CLSLNC005_00438_SEQ_11	Completaste tu entrenamiento con los tres maestros lancers. Vuelve con Ywain al Lancers' Guild.
+TEXT_CLSLNC005_00438_SEQ_12	Ywain te recibe de vuelta en el gremio con orgullo en la mirada y declara que ya le queda poco por enseñarte. Solo falta una prueba para que puedas llamarte lancer <if(gnum4,hecha y derecha,hecho y derecho)>. Dedícate a tu manejo de la lanza y vuelve cuando quieras enfrentar el desafío final.<br><br>※La siguiente misión de lancer estará disponible con Ywain al llegar al nivel 30.
+TEXT_CLSLNC005_00438_TODO_00	Habla con Matheomi en Amarissaix's Spire.
+TEXT_CLSLNC005_00438_TODO_01	Rocía fresh spoken blood al pie del gran árbol.
+TEXT_CLSLNC005_00438_TODO_02	Informa a Matheomi.
+TEXT_CLSLNC005_00438_TODO_03	Habla con Buscarron.
+TEXT_CLSLNC005_00438_TODO_04	Ofrece el Fullflower mead en Mistalle's Lance.
+TEXT_CLSLNC005_00438_TODO_05	Informa a Buscarron.
+TEXT_CLSLNC005_00438_TODO_06	Habla con Vauxclairt en el Bobbing Cork.
+TEXT_CLSLNC005_00438_TODO_07	Caza balloons y consigue sus dedos.
+TEXT_CLSLNC005_00438_TODO_08	Usa los balloon fingers en la fogata destripada.
+TEXT_CLSLNC005_00438_TODO_09	Informa a Vauxclairt.
+TEXT_CLSLNC005_00438_TODO_10	Informa a Ywain en el Lancers' Guild.
+TEXT_CLSLNC005_00438_YWAIN_000_1	Me alegra volver a verte, <split(<string(gstr1)>, ,1)>, y más fuerte que la última vez que hablamos. Está claro que dedicaste muchas horas a entrenar, y qué bueno, porque tengo pensada tu siguiente tarea.
+TEXT_CLSLNC005_00438_YWAIN_000_2	En el Bramble Patch llegaste a entender el verdadero significado del coraje. Quiero que pongas ese coraje a prueba ante tres maestros de nuestro arte.
+TEXT_CLSLNC005_00438_YWAIN_000_3	En los muchos años que pasaron desde que empezaron a entrenar entre estas paredes, esos hombres llevaron vidas muy distintas, pero comparten el honor de contarse entre los mejores lancers de su tiempo.
+TEXT_CLSLNC005_00438_YWAIN_000_4	Y así como ellos buscaron inspiración en sus mayores, tú la buscarás en ellos. Si aprovechas su sabiduría, darás otro paso para ser <if(gnum4,una lancer hecha y derecha,un lancer hecho y derecho)>.
+TEXT_CLSLNC005_00438_YWAIN_000_5	Tu primer instructor es un hombre llamado Matheomi. Búscalo en Amarissaix's Spire, en el East Shroud, donde sirve como centinela de la frontera.
+TEXT_CLSLNC005_00438_YWAIN_000_6	Los largos años en su puesto afinaron la percepción de Matheomi: a su mirada penetrante no se le escapa ningún detalle. Preséntate ante él para que te examine, <split(<string(gstr1)>, ,1)>, y haz lo que te pida.
+TEXT_CLSLNC005_00438_MATHEOMI_000_10	Tú debes de ser <if(gnum4,la joven lancer,el joven lancer)> que me anunciaron. Saludos. Soy Matheomi, comandante de los valientes hombres y mujeres de esta torre. Ahora, veamos bien...
+TEXT_CLSLNC005_00438_MATHEOMI_000_11	Ya veo... Tienes fuerza y destreza de sobra, de eso no hay duda, pero todavía te falta experiencia.
+TEXT_CLSLNC005_00438_MATHEOMI_000_12	Oh, no dudo que hayas visto mucho. Quizá creas que ya no queda nada allá afuera que pueda inquietarte. Pero el mundo es grande, y solo los dioses pueden decir que lo conocen todo. Ten por seguro que hasta los legendarios lancers de antaño vacilaron alguna vez.
+TEXT_CLSLNC005_00438_MATHEOMI_000_13	Ningún lancer, ni ningún hombre, puede prever todas las posibilidades, pero <italic(1)>sí<italic(0)> puede prepararse para lo inesperado. Quiero que hagas justamente eso.
+TEXT_CLSLNC005_00438_MATHEOMI_000_14	Toma esta botella de fresh spoken blood y rocíala al pie del gran árbol del norte. Eso atraerá a criaturas de la noche, que deberás vencer.
+TEXT_CLSLNC005_00438_MATHEOMI_000_20	<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <if(gnum4,muchacha,hijo)>, y bien hecho. Vi tu batalla con mis propios ojos.
+TEXT_CLSLNC005_00438_MATHEOMI_000_21	El blood bat desconcierta a su presa con su aleteo incesante, y eso vuelve frustrante el intento de clavarle una lanza a la bestia; una frustración que fácilmente podría haber llevado al pánico. Pero, a tu favor, seguiste peleando con determinación, y así lograste la victoria.
+TEXT_CLSLNC005_00438_MATHEOMI_000_22	Ywain te enseñó bien. Te falta camino, eso sí, pero bajo esas asperezas veo madera de <if(gnum4,una gran lancer,un gran lancer)>.
+TEXT_CLSLNC005_00438_MATHEOMI_000_23	Con mi bendición, ve a Buscarron's Druthers, en el South Shroud. Allí te espera tu siguiente instructor: el mismísimo Buscarron.
+TEXT_CLSLNC005_00438_MATHEOMI_000_24	Ese hombre tenía una manera única de entender nuestro arte. Aunque hace un buen tiempo que colgó la lanza, vale mucho la pena escucharlo. De hecho, los lancers lo visitan tanto por sus consejos como por su hidromiel, que también es bueno.
+TEXT_CLSLNC005_00438_MATHEOMI_000_25	Si conoces a Buscarron y aprovechas lo que sabe, tu manejo de la lanza sin duda mejorará.
+TEXT_CLSLNC005_00438_BUSCARRON_000_30	Vaya, si es <if(gnum4,la pupila,el pupilo)> de Ywain. Ya se te hacía tarde.
+TEXT_CLSLNC005_00438_BUSCARRON_000_31	Soy Buscarron, y este es mi local. Por si te preguntas por qué te mandó el viejo Ywain, te cuento que no siempre me dediqué a la comida y la bebida: antes de abrir el Druthers, servía en un puesto de avanzada no muy lejos de aquí.
+TEXT_CLSLNC005_00438_BUSCARRON_000_32	En fin, entre mojar gargantas y llenar barrigas, ahora mismo no tengo mucho tiempo para charlar, así que, si no te molesta, voy directo a darte la lección.
+TEXT_CLSLNC005_00438_BUSCARRON_000_33	A ver, toma esta linda botella de Fullflower mead─ ¡Espera! No la abras. No es esa clase de lección. No, quiero que la dejes como <italic(1)>ofrenda<italic(0)> en Mistalle's Lance, que es un monumento escondido en una grieta rocosa al sur de aquí. Lleva la botella sana y salva hasta allá, con todo su contenido, y cuando vuelvas te contaré una historia. ¿Entendido? Bien.
+TEXT_CLSLNC005_00438_BUSCARRON_000_40	¿Así que dejaste el hidromiel como te dije? ¿Y sin beberte ni una gota? Muy bien, tendrás tu historia, como te prometí.
+TEXT_CLSLNC005_00438_BUSCARRON_000_41	Mistalle fue el hombre que fundó el Lancers' Guild, y el monumento al que te mandé se levantó en su honor.
+TEXT_CLSLNC005_00438_BUSCARRON_000_42	Mistalle era el coraje hecho carne. Si lo cortabas, diría yo que sangraba coraje. Fue él quien primero distinguió los dos aspectos del coraje de un lancer, y cómo templarlos.
+TEXT_CLSLNC005_00438_BUSCARRON_000_43	Y eso no fue todo. Al ver que el arte se había estancado, con nuestros lancers encerrados en el Twelveswood, quiso traer técnicas y métodos nuevos de tierras lejanas.
+TEXT_CLSLNC005_00438_BUSCARRON_000_44	Pero la Gridania de su época era otra. En aquel entonces se le daba la espalda al mundo de afuera, y a los que no nacían en el bosque se los tenía por salvajes sin fe. Sí... ¡era todavía peor que ahora!
+TEXT_CLSLNC005_00438_BUSCARRON_000_45	Claro que al viejo Mistalle no le daba miedo llamar a esa forma de pensar por su nombre: pura ignorancia y cobardía.
+TEXT_CLSLNC005_00438_BUSCARRON_000_46	Para no alargar el cuento: pese a un bosque entero de buena terquedad gridaniana, al final convenció a la nación de abrirles las puertas a los lancers extranjeros. Y al mezclar sus técnicas con las suyas, le dio al mundo el arte que hoy practicas.
+TEXT_CLSLNC005_00438_BUSCARRON_000_47	Hasta el día de hoy, el Lancers' Guild acepta alumnos sin importar de dónde vengan. Eso no habría sido posible de no ser por Mistalle.
+TEXT_CLSLNC005_00438_BUSCARRON_000_48	Los lancers le debemos mucho, y nos toca mantener vivo su legado. Nunca lo olvides.
+TEXT_CLSLNC005_00438_BUSCARRON_000_49	¿Eh? ¿Qué dices? ¿¡Que cuándo es la prueba!? ¡Bwah, ja, ja, ja, ja! Siento decepcionarte, pero no hay ninguna. Tu coraje nunca estuvo en duda, <if(gnum4,muchacha,hijo)>.
+TEXT_CLSLNC005_00438_BUSCARRON_000_50	Mi parte en tu entrenamiento terminó. Ya es hora de que visites a tu tercer y último instructor, un tipo llamado Vauxclairt. Lo más seguro es que lo encuentres matando el tiempo en el Bobbing Cork. Ah, es una posada de Fallgourd Float, por si no lo sabías. Allá arriba, en el North Shroud.
+TEXT_CLSLNC005_00438_BUSCARRON_000_51	Vauxclairt es un viejo rival mío. Él y yo nos dábamos hasta que ninguno de los dos podía levantar la punta de la lanza del suelo. Te advierto: en aquella época era un terco de primera, y los años no le mejoraron mucho el humor. Así que, eh... ¡suerte impresionándolo!
+TEXT_CLSLNC005_00438_VAUXCLAIRT_000_60	Supongo que eres <if(gnum4,la joven lancer,el joven lancer)> de quien habló Ywain, y además <if(gnum4,aventurera,aventurero)>, por lo que veo. Yo también fui aventurero alguna vez. Eso fue antes de volverme lanza a sueldo.
+TEXT_CLSLNC005_00438_VAUXCLAIRT_000_61	Pero basta de charla. Viniste a aprender de mí, y aprenderás de mí. Eso sí, te advierto que no seré un instructor tan indulgente como los otros. Ahora, presta atención.
+TEXT_CLSLNC005_00438_VAUXCLAIRT_000_62	Hasta ahora aprendiste a reunir coraje en situaciones de miedo, pánico e incertidumbre. Conmigo aprenderás a hacerlo frente al <italic(1)>cambio<italic(0)>.
+TEXT_CLSLNC005_00438_VAUXCLAIRT_000_63	El enemigo es un ser vivo, y los seres vivos tienden a cambiar. Sea cual sea ese cambio, un lancer debe poder pensar y adaptarse. Y pensar y adaptarse en plena batalla requiere <italic(1)>coraje<italic(0)>.
+TEXT_CLSLNC005_00438_VAUXCLAIRT_000_64	Para enseñarte el sentido de mis palabras, quiero que desafíes a una bestia ardiente conocida como el red balloon.
+TEXT_CLSLNC005_00438_VAUXCLAIRT_000_65	Pero la criatura solo aparece donde hay una llamarada. Puedes avivar una llama así consiguiendo seis dedos de balloons abatidos y dejándolos en una fogata destripada. Eso debería bastar para atraer al red balloon.
+TEXT_CLSLNC005_00438_VAUXCLAIRT_000_66	A medida que avance la batalla, la furia de la criatura arderá con más y más fervor, hasta que esté a punto de estallar en una conflagración mortal. Deja que el coraje le dé fuerza a tu lanza y extingue a ese enemigo ardiente.
+TEXT_CLSLNC005_00438_VAUXCLAIRT_000_70	Así que venciste al red balloon. No esperaba menos de alguien de Ywain.
+TEXT_CLSLNC005_00438_VAUXCLAIRT_000_71	Tu enemigo cambió de naturaleza durante el encuentro, y con eso las condiciones de la batalla cambiaron una y otra vez. Pero siempre seguiste adelante, con tu coraje firme en medio del cambio constante. Así fue como triunfaste.
+TEXT_CLSLNC005_00438_VAUXCLAIRT_000_72	No soy conocido por ser generoso con los elogios... pero lo hiciste bien. Tu coraje es genuino.
+TEXT_CLSLNC005_00438_VAUXCLAIRT_000_73	Eso sí, esto <italic(1)>no<italic(0)> te da permiso para abandonar tu entrenamiento. Después de todo, entre nosotros todavía eres un polluelo.
+TEXT_CLSLNC005_00438_VAUXCLAIRT_000_74	Terminé contigo; puedes volver con Ywain. Y cuando lo veas, dile a ese jovencito insolente que <italic(1)>exijo<italic(0)> que se deje ver por aquí de vez en cuando. Eso es todo.
+TEXT_CLSLNC005_00438_YWAIN_000_80	¿El viejo Vauxclairt <italic(1)>exige<italic(0)> que me deje ver? ¡Ja, ja, ja!
+TEXT_CLSLNC005_00438_YWAIN_000_81	¡Solo puedo suponer que la morena exuberante del Float no le está dando la atención que anhela! Muy bien, veré qué puedo hacer.
+TEXT_CLSLNC005_00438_YWAIN_000_82	En cuanto a ti, <split(<string(gstr1)>, ,1)>... bien hecho. Nunca dudé que te ganarías la aprobación de los tres, pero eso no quita que esté orgulloso de ti.
+TEXT_CLSLNC005_00438_YWAIN_000_83	Recorriste un largo trecho del camino del lancer, y pronto ya no necesitarás mi guía. De hecho, solo te falta superar una prueba más para completar tu formación aquí. Hazlo y te daré mi bendición para dejar el Lancers' Guild y emprender una nueva aventura con la lanza en la mano.
+TEXT_CLSLNC005_00438_YWAIN_000_84	Como siempre, dedícate a tu manejo de la lanza y vuelve cuando quieras enfrentar tu desafío final. Espero con ansias nuestro próximo encuentro.
+TEXT_CLSLNC005_00438_POP_MESSAGE	¡Sientes una presencia hostil!

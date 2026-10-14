@@ -1,0 +1,49 @@
+key	text
+TEXT_CLSLNC002_00035_SEQ_00	El Guildmaster Ywain quiere poner a prueba tu coraje.
+TEXT_CLSLNC002_00035_SEQ_01	Para tu siguiente prueba, Ywain te pide conseguir la Stone of Courage. Descansa en la cima de Naked Rock, un peñasco infestado de anoles en el Central Shroud.
+TEXT_CLSLNC002_00035_SEQ_02	Tras una subida agotadora, llegas a la cima de Naked Rock y tomas con alivio la Stone of Courage. Pero tu momento de triunfo se ve interrumpido por la aparición del lancer renegado que encontraste en el gremio. El burlón guerrero, que se presenta como Foulques, declara que tu premio es una falsificación y te desafía a encontrar la piedra <italic(1)>verdadera<italic(0)>, que dice haber escondido en las profundidades de Spirithold. Parece que toca visitar el dungeon abandonado...
+TEXT_CLSLNC002_00035_SEQ_03	Conseguiste la verdadera Stone of Courage. Llévasela a Ywain, que te espera en el Lancers' Guild.
+TEXT_CLSLNC002_00035_SEQ_04	Tras escuchar con atención el relato de tu encuentro con Foulques, Ywain te advierte que no hagas caso a las palabras del lancer renegado. Contra lo que afirma Foulques, que el coraje solo se forja en medio de un gran peligro, el maestro del gremio te recuerda que el coraje de un lancer nace de la serenidad y la determinación. Son esas cualidades, y no la osadía ciega, las que quiere que tengas presentes mientras sigues entrenando.<br><br>※La siguiente misión de lancer estará disponible con Ywain al llegar al nivel 15.
+TEXT_CLSLNC002_00035_TODO_00	Consigue la Stone of Courage en Naked Rock.
+TEXT_CLSLNC002_00035_TODO_01	Consigue la Stone of Courage en Spirithold.
+TEXT_CLSLNC002_00035_TODO_02	Entrégale la Stone of Courage a Ywain.
+TEXT_CLSLNC002_00035_YWAIN_000_1	Ah, <split(<string(gstr1)>, ,1)>. ¡Juraría que tus brazos ganaron un ilm desde la última vez que hablamos! Está claro que no perdiste el tiempo.
+TEXT_CLSLNC002_00035_YWAIN_000_2	En nuestra lección anterior aprendiste cómo define el coraje un lancer, y cómo templar sus dos aspectos.
+TEXT_CLSLNC002_00035_YWAIN_000_3	Hoy veremos si tus esfuerzos dieron fruto.
+TEXT_CLSLNC002_00035_YWAIN_000_4	Veo que vienes <if(gnum4,preparada,preparado)> para la batalla. Bien.
+TEXT_CLSLNC002_00035_YWAIN_000_5	Tu siguiente prueba te pondrá en medio de una multitud de enemigos.
+TEXT_CLSLNC002_00035_YWAIN_000_6	En una situación así pueden atacarte desde cualquier dirección, y es difícil responder como corresponde. Además, es muy probable que te rodeen.
+TEXT_CLSLNC002_00035_YWAIN_000_7	¿Aguantará tu determinación el peso de la incertidumbre? ¿Se mantendrá tu serenidad cuando todo esté en tu contra? Pronto lo sabremos.
+TEXT_CLSLNC002_00035_YWAIN_000_8	Si superas esta prueba, el coraje que ya tienes se templará aún más. Ahora escúchame bien, porque esto es lo que debes hacer.
+TEXT_CLSLNC002_00035_YWAIN_000_9	Quiero que viajes a Naked Rock, donde reinan los anoles. En la cima de la roca hay una reliquia sagrada: la Stone of Courage. Debes tomarla y traérmela.
+TEXT_CLSLNC002_00035_YWAIN_000_10	Para llegar a tu destino, tendrás que abrirte paso entre manadas enteras de reptiles carnívoros.
+TEXT_CLSLNC002_00035_YWAIN_000_11	No te equivoques, esas criaturas son enemigos que intimidan: meterse entre tantas le exigiría mucho al coraje de cualquier lancer. Pero con tiempo, y no poca perseverancia, confío en que estarás a la altura.
+TEXT_CLSLNC002_00035_TALK_SCENE00002_000	Este no es el texto que buscas.
+TEXT_CLSLNC002_00035_FOULQUES_000_20	(-???-)Felicidades. Conseguiste la falsa Stone of Courage.
+TEXT_CLSLNC002_00035_FOULQUES_000_21	(-???-)Sí, oíste bien: <italic(1)>falsa<italic(0)>. ¿Qué dirá eso de tu coraje, me pregunto?
+TEXT_CLSLNC002_00035_FOULQUES_000_22	Ah, pero ¿dónde están mis modales? Me llamo Foulques. Tuvimos el placer de conocernos en el Lancers' Guild, si recuerdas.
+TEXT_CLSLNC002_00035_FOULQUES_000_23	Aquella vez volví mi arma contra ti, y no mostraste ni una pizca de miedo. En ese instante supe que no eras como los demás: que <italic(1)>prometías<italic(0)>.
+TEXT_CLSLNC002_00035_FOULQUES_000_24	Y ahora... Tal como está, la prueba en la que andas <if(gnum4,metida,metido)> ─ si es que puede llamarse "prueba" ─ es una burla del arte de la lanza. Ni falta hace decir que eso no puede tolerarse.
+TEXT_CLSLNC002_00035_FOULQUES_000_25	Así que me tomé la libertad de llevar la Stone of Courage a un lugar más apropiado. Ahora está en las profundidades de Spirithold, custodiada por bestias malignas. Un desafío mucho más digno, estarás de acuerdo.
+TEXT_CLSLNC002_00035_FOULQUES_000_26	Si intentas recuperar la piedra o no, es decisión tuya. Si temes por tu seguridad, te sugiero volver corriendo al gremio y quejarte de lo aterrador que es el mundo ante las muchas almas valientes que se esconden allí. Seguro que Ywain lo considerará un acto de valor supremo.
+TEXT_CLSLNC002_00035_FOULQUES_000_27	Pero que sepas que un lancer forja el verdadero coraje <italic(1)>solo<italic(0)> en medio de un gran peligro.
+TEXT_CLSLNC002_00035_TALK_SCENE00005_000	Este no es el texto que buscas.
+TEXT_CLSLNC002_00035_YWAIN_000_30	Así que volviste. Dime, ¿conseguiste la Stone of Courage?
+TEXT_CLSLNC002_00035_YWAIN_000_31	Sí, esta es la piedra... aunque está en bastante peor estado que la última vez que la vi. ¿Qué pasó en Naked Rock?
+TEXT_CLSLNC002_00035_YWAIN_000_32	¿¡El lancer que te amenazó hace poco llevó la piedra a Spirithold!?
+TEXT_CLSLNC002_00035_YWAIN_000_33	¿¡No le bastó con entrar sin permiso y calumniarnos, y ahora ese insolente se mete con nuestro entrenamiento!?
+TEXT_CLSLNC002_00035_YWAIN_000_34	¡Por los siete infiernos! Esto es intolerable.
+TEXT_CLSLNC002_00035_YWAIN_000_35	Escúchame bien, <split(<string(gstr1)>, ,1)>. Aunque no dudo que lo sabes, mi deber como maestro del gremio me obliga a decir lo obvio: no hagas caso a las palabras de ese hombre.
+TEXT_CLSLNC002_00035_YWAIN_000_36	Que el coraje de un lancer solo puede forjarse en medio de un gran peligro es pura palabrería vanidosa. Como ya aprendiste, el coraje de un lancer nace de la serenidad y la determinación.
+TEXT_CLSLNC002_00035_YWAIN_000_37	No te confundas: recorrer con cautela el territorio de los anoles templó tu coraje de un modo en que lanzarte a ciegas a los horrores de Spirithold no lo hizo. Mientras sigues entrenando, por favor, guarda la lección de esta prueba cerca del corazón.
+TEXT_CLSLNC002_00035_YWAIN_000_38	Ah, antes de que vuelvas a tus aventuras, hay algo más que quiero decirte.
+TEXT_CLSLNC002_00035_YWAIN_000_39	En reconocimiento a tu esfuerzo constante en las pruebas hasta ahora, te doy permiso para unirte a otros gremios.
+TEXT_CLSLNC002_00035_YWAIN_000_40	Por supuesto, debes pedir permiso al maestro de cada gremio antes de empezar tu entrenamiento.
+TEXT_CLSLNC002_00035_YWAIN_000_41	Gridania alberga muchos gremios además del nuestro. Si lo tuyo es el combate, los archers y los conjurers tienen mucha presencia en nuestra nación. Si prefieres una ocupación más pacífica, también puedes unirte a los leatherworkers, los carpenters o los botanists.
+TEXT_CLSLNC002_00035_YWAIN_000_42	Ampliar los horizontes tiene su mérito, pero también es importante no perder el foco. Tenlo siempre presente.
+TEXT_CLSLNC002_00035_YWAIN_000_43	Como tu maestro del gremio, claro que preferiría que primero domines el arte de la lanza. Ten por seguro que habrá tiempo de sobra para aprender otra disciplina cuando lo hayas hecho.
+TEXT_CLSLNC002_00035_YWAIN_000_44	Pero sea cual sea el camino ─ o los caminos ─ que elijas, espero con ansias verte alcanzar el potencial que tan claramente tienes.
+TEXT_CLSLNC002_00035_SYSTEM_000_50	Ya tienes acceso al sistema Armoury. Para desbloquear las demás clases, habla con la recepción del gremio correspondiente y acepta su misión.
+TEXT_CLSLNC002_00035_SYSTEM_000_51	En Eorzea hay incontables disciplinas que un aventurero puede aprender. Pero para disfrutar más la experiencia, se recomienda dominar primero tu clase actual.
+TEXT_CLSLNC002_00035_POP_MESSAGE	¡Sientes una presencia hostil!
+TEXT_CLSLNC002_00035_ACCESS_MESSAGE	¡El enemigo sigue cerca!
