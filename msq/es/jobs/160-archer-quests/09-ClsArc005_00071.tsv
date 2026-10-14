@@ -1,0 +1,87 @@
+key	text
+TEXT_CLSARC005_00071_SEQ_00	La Guildmaster Luciane quiere que atiendas a tus compañeros archers.
+TEXT_CLSARC005_00071_SEQ_01	Tanto Silvairre como Leih Aliapoh parecen perdidos en sus pensamientos. Habla primero con Silvairre y averigua qué le preocupa.
+TEXT_CLSARC005_00071_SEQ_02	A regañadientes, Silvairre te revela que piensa dejar el gremio. Está decidido a llevar a Pawah Mujuuk ante la justicia, convencido de que así redimirá en parte la vez que no lo logró como arquero del Gods' Quiver. Al ver que no podrás apartarlo de su camino, decides ocuparte de Leih, que parece completamente abatida.
+TEXT_CLSARC005_00071_SEQ_03	Como si el anuncio de Silvairre no fuera bastante sorpresa, Leih declara que piensa dejar no solo el gremio, sino Gridania entera. Pero antes de irse quiere hablar contigo en privado. Encuéntrate con ella en South Shroud y despídela antes de su viaje.
+TEXT_CLSARC005_00071_SEQ_04	Leih te revela que creía que su lugar estaba con los demás Keepers of the Moon y no con la gente de Gridania. Sin embargo, no soportó dejar que Pawah te matara, y por eso perdió la compañía de los suyos. Sin ningún lugar adonde ir, te pide que te reúnas con ella en el Bannock y la ayudes a entender cómo se puede vivir como forastera en Gridania.
+TEXT_CLSARC005_00071_SEQ_05	Leih estalla de furia y te ataca, y no te deja más opción que pelear mientras un grupo de reclutas de los Twin Adder mira boquiabierto. Cuando la reduces, despierta como de un trance y comprende que el miedo a deshonrar a su antigua familia, que murió en la Calamidad, le impedía abrazar a la nueva. Decide volver al gremio y estar con quienes mejor la conocen. Síguela y avísale a Luciane que todo está bien.
+TEXT_CLSARC005_00071_SEQ_06	Antes de que puedas decir palabra, Luciane te detiene y dice que le bastó mirar a los ojos a Leih al volver para saber todo lo necesario. Te agradece por ayudar a Leih a ver que su lugar está en el gremio, y espera que ayudes del mismo modo a otros archers que pierdan el rumbo.<br><br>※La siguiente misión de archer estará disponible con Luciane al llegar al nivel 30.
+TEXT_CLSARC005_00071_TODO_00	Habla con Silvairre.
+TEXT_CLSARC005_00071_TODO_01	Habla con Leih Aliapoh.
+TEXT_CLSARC005_00071_TODO_02	Encuéntrate con Leih Aliapoh en South Shroud.
+TEXT_CLSARC005_00071_TODO_03	Habla con Leih Aliapoh en el Bannock.
+TEXT_CLSARC005_00071_TODO_04	Informa a Luciane.
+TEXT_CLSARC005_00071_LUCIANE_000_1	Ah, <split(<string(gstr1)>, ,1)>, esperaba que vinieras. Quizá puedas ayudar. Me preocupan Leih y Silvairre...
+TEXT_CLSARC005_00071_LUCIANE_000_2	Muestran señales de perder la perspectiva, y... Bueno, quizá sea mejor que lo veas por ti mism<if(gnum4,a,o)>. No puedo evitar pensar que a los dos les vendrían bien tus consejos.
+TEXT_CLSARC005_00071_LUCIANE_000_3	Tómalo como un pedido personal, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSARC005_00071_SILVAIRRE_000_10	¿Mm? Oh, <italic(1)>dioses<italic(0)>... ¿Acaso Luciane te mandó a molestarme? Esto apenas le concierne a ella, y <italic(1)>definitivamente<italic(0)> no te concierne a ti.
+TEXT_CLSARC005_00071_SILVAIRRE_000_11	Si tanto quieres saberlo, decidí dejar el gremio.
+TEXT_CLSARC005_00071_SILVAIRRE_000_12	Pienso rastrear a Pawah Mujuuk y terminar lo que empezamos. El Gods' Quiver y los Wood Wailers parecen conformes con ignorar nuestras advertencias, pero no dejaré que se escape otra vez.
+TEXT_CLSARC005_00071_SILVAIRRE_000_13	Ya cometí ese error una vez, y me costó mi lugar en el Gods' Quiver.
+TEXT_CLSARC005_00071_SILVAIRRE_000_14	Sí, el joven centinela insensato del que te hablé... era yo. \<suspiro> La teníamos, <split(<string(gstr1)>, ,1)>. No había escapatoria. Pero entonces empezó a lamentarse por un compañero herido, uno que moriría sin su ayuda... Me miró directo a los ojos y me <italic(1)>suplicó<italic(0)>...
+TEXT_CLSARC005_00071_SILVAIRRE_000_15	Y vacilé. No supe ver el engaño más elemental. Les fallé a Gridania y al Gods' Quiver... y aunque eso nunca podrá perdonarse, quizá recupere algo de honor si la detengo.
+TEXT_CLSARC005_00071_SILVAIRRE_000_16	...Pero alguien errante como tú no entendería lo que significa traicionar a tu pueblo.
+TEXT_CLSARC005_00071_SILVAIRRE_000_17	No te preocupes: no pienso irme todavía. Seguiré reuniendo información hasta estar seguro del paradero de Mujuuk. Pero no te equivoques: es solo cuestión de tiempo.
+TEXT_CLSARC005_00071_SILVAIRRE_000_18	Ahora vete, ¿quieres? Ah, y si tanto te preocupan tus compañeros de gremio, deberías ocuparte de esa Miqo'te alicaída. Verla arrastrar los pies con la vista clavada en el suelo es malo para la moral.
+TEXT_CLSARC005_00071_SILVAIRRE_000_19	...No es que me importe.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_20	Oh... eres tú. Dime, <split(<string(gstr1)>, ,1)>, ¿alguna vez piensas en tu hogar? ¿Alguna vez deseas poder volver?
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_21	El mío era una aldea pobre más del Twelveswood. Los campos tenían más piedra que tierra, y los mercaderes casi nunca se molestaban en venir. No teníamos mucho... pero no lo necesitábamos.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_22	Y entonces llegó la Calamidad. Recuerdo correr, y los gritos... Era tan <italic(1)>fuerte<italic(0)>, <split(<string(gstr1)>, ,1)>... tan insoportablemente fuerte... Y de pronto estaba aquí, en una ciudad extraña, rodeada de más gente de la que había visto jamás, y no conocía a nadie.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_23	Pero sabía cazar. Siempre se me dio bien cazar, <split(<string(gstr1)>, ,1)>, y el gremio me dio un lugar para mejorar.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_24	Al menos creía que había mejorado. Ella... Pawah Mujuuk... era muchísimo más...
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_25	Estuve pensando, <split(<string(gstr1)>, ,1)>, que quizá esto sea una señal. Quizá Silvairre tenga razón, y este gremio, esta ciudad, no sea lugar para una forastera como yo.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_26	Así que decidí irme. Me alegra haberte conocido, <split(<string(gstr1)>, ,1)>, aunque haya sido por poco tiempo.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_27	Perdona si es un pedido demasiado egoísta, pero antes de irme quisiera verte una última vez.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_28	A solas, en South Shroud. Estos... gridanianos no lo entenderían.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_30	¡No! ¡No <if(gnum4,la,lo)> lastimes!
+TEXT_CLSARC005_00071_PAWAHMUJUUK_000_31	¡Y yo que creía que a lo mejor no aceptabas mi amable invitación!
+TEXT_CLSARC005_00071_PAWAHMUJUUK_000_32	...Aunque no me acuerdo de haber<if(gnum4,la,lo)> invitado... Es de <italic(1)>mala educación<italic(0)> colarse, <if(gnum4,niñita,niñito)>, y cómo odio la mala educación...
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_33	¡Espera! ¡No es su culpa, es mía! Yo <if(gnum4,la,lo)> invité. ¡Es del Archers' Guild, como yo, y no es gridanian<if(gnum4,a,o)>!
+TEXT_CLSARC005_00071_PAWAHMUJUUK_000_34	Aaah... ya empiezo a recordar esa cara... Sí, sabe sostener un arco. Bueno, no es <if(gnum4,la recluta típica,el recluta típico)>, pero creo que podría hacer una excepción.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_35	No, no, no es eso. Solo... solo quería despedirme.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_36	<split(<string(gstr1)>, ,1)>, desde que conocí a Pawah estoy perdida. Pero ahora me doy cuenta de que mi lugar no está en el gremio... con los gridanianos.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_37	Nunca me van a aceptar. Aquí es donde pertenezco, con <italic(1)>mi<italic(0)> pueblo, manteniendo nuestras tradiciones. Nuestra arquería, no la de Gridania.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_38	Es todo lo que me queda, <split(<string(gstr1)>, ,1)>. Así que me voy con Pawah. Quizá ahora no lo entiendas, pero... solo prométeme que no se lo dirás a Luciane... ni a Silvairre.
+TEXT_CLSARC005_00071_Q1_000_1	¿Qué vas a decir?
+TEXT_CLSARC005_00071_A1_000_1	Como quieras.
+TEXT_CLSARC005_00071_A1_000_2	¡Ni lo sueñes!
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_40	<split(<string(gstr1)>, ,1)>...
+TEXT_CLSARC005_00071_PAWAHMUJUUK_000_41	¿Ya hiciste las paces con tu amiguit<if(gnum4,a,o)>? ¡Bien, entonces vamos al grano!
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_45	¡<split(<string(gstr1)>, ,1)>!
+TEXT_CLSARC005_00071_PAWAHMUJUUK_000_46	¡Je! Ya me olía que tendría alguna objecioncita. No te preocupes, hermana...
+TEXT_CLSARC005_00071_PAWAHMUJUUK_000_50	¡<if(gnum4,Clávenle una flecha,Disparen al desgraciado)>!
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_51	¡NO!
+TEXT_CLSARC005_00071_PAWAHMUJUUK_000_52	No le tienes ningún cariño al gremio, ¿no? ¿Entonces qué problema hay en llenar de flechas a un maldito aventurero? Nadie <if(gnum4,la,lo)> va a extrañar.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_53	¡<italic(1)>Yo<italic(0)> <if(gnum4,la,lo)> voy a extrañar!, ¿¡sí!? Así que... ¡basta ya!
+TEXT_CLSARC005_00071_PAWAHMUJUUK_000_54	Vaya, vaya... Y yo que tenía tantas esperanzas en ti, señorita Aliapoh... ¡Qué pérdida de tiempo! Una Keeper que perdió el valor me sirve de tanto como un arco de vidrio.
+TEXT_CLSARC005_00071_PAWAHMUJUUK_000_55	Pero no tiene gracia matar a una presa ya atrapada.
+TEXT_CLSARC005_00071_PAWAHMUJUUK_000_56	¡Bah! Más les vale que no vuelva a verlos, porque si los veo, les enseñaré qué le pasa a la presa tan tonta como para dejarse atrapar dos veces. ¡Vámonos, hermanas! ¡Vámonos!
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_60	¿Cómo lo haces, <split(<string(gstr1)>, ,1)>? ¿Cómo vives en este lugar, con esta gente?
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_61	¿Y por qué siquiera te molestas? ¿Qué te dieron alguna vez además de desprecio? ¿Eh? ¿Qué <italic(1)>ves<italic(0)> en ellos, <split(<string(gstr1)>, ,1)>?
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_62	Aunque entraste al gremio después que yo, llegaste muy lejos, muy rápido. Quizá hasta me superaste...
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_63	Necesito saber cómo lo hiciste. Necesito saber qué estoy haciendo mal...
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_64	...Y solo se me ocurre una forma de averiguarlo. Encuéntrame en el Bannock.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_70	¿Empezamos, <split(<string(gstr1)>, ,1)>?
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_71	Cuando estés list<if(gnum4,a,o)>. Te estaré esperando.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_72	¡Entonces defiéndete! ¡Muéstrame lo que te enseñó esta gente!
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_80	\<jadeo> \<jadeo> Es tan sencillo...
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_81	Abriste los ojos y miraste más allá de los defectos de tus maestros. Aceptaste sus enseñanzas y las tomaste a pecho. Hasta Silvairre, con toda su intolerancia, solo quiere preservar sus tradiciones.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_82	Perdí de vista las luchas de los demás y me obsesioné con la mía. Tenía tanto miedo de soltar mi querida idea de la arquería, la idea de mi <italic(1)>familia<italic(0)>, y aprender otra manera. No quería traicionarlos... ni deshonrar su memoria.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_83	...Pero aquí también tengo una familia, una familia que ve el mundo más amplio y está dispuesta a mostrarme lo corta de miras que me volví.
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_84	Como archers, entrenamos los ojos y la mente para ser implacables: para burlar cualquier intento de ocultarse y discernir la verdad desnuda. No es raro entonces que hasta ahora no me haya mirado por dentro. Sin duda valió la pena, pero la experiencia me resultó bastante... <italic(1)>insoportable<italic(0)>. ¡Ejem!
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_85	Gracias, <split(<string(gstr1)>, ,1)>. Ahora sé que pertenezco al gremio, junto a ti y a Luciane...
+TEXT_CLSARC005_00071_LEIHALIAPOH_000_86	...Y, sí, hasta a ese maldito Wildwood. Que los dioses me ayuden: creo que hasta podría extrañarlo...
+TEXT_CLSARC005_00071_LUCIANE_000_90	Bienvenid<if(gnum4,a,o)> a casa, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSARC005_00071_LUCIANE_000_91	No hace falta que digas nada. Me bastó una mirada a los ojos de Leih.
+TEXT_CLSARC005_00071_LUCIANE_000_92	Gracias por traerla de vuelta con nosotros.
+TEXT_CLSARC005_00071_LUCIANE_000_93	Cuando nos concentramos en una sola meta y la perseguimos con pasión y fervor, es fácil perder de vista todo lo demás que tenemos delante.
+TEXT_CLSARC005_00071_LUCIANE_000_94	Con tu destreza y tu visión, <split(<string(gstr1)>, ,1)>, puedes ayudar a tus compañeros archers a mirar más allá de sí mismos y recordar a sus camaradas. Espero poder contar con tu apoyo en el futuro.
+TEXT_CLSARC005_00071_QIB_TODO_001	¡Derrota a Leih Aliapoh!
+TEXT_CLSARC005_00071_INSTANCE_BATTLE_YESNO_TITLE	El deber llama. ¿Quieres comenzar<br>"Homecoming"?
+TEXT_CLSARC005_00071_INSTANCE_BATTLE_YESNO_YES	Sí
+TEXT_CLSARC005_00071_INSTANCE_BATTLE_YESNO_NO	No
+TEXT_CLSARC005_00071_LEIHALIAPOH_BATTLETALK_01	¡Dije que pelees conmigo, maldición! ¿¡Por qué te contienes!?
+TEXT_CLSARC005_00071_LEIHALIAPOH_BATTLETALK_02	¿¡Eso es todo lo que tienes!? ¡Sé que puedes hacerlo mejor!
+TEXT_CLSARC005_00071_LEIHALIAPOH_BATTLETALK_03	Nada mal... ¡pero todavía no termino!
+TEXT_CLSARC005_00071_LEIHALIAPOH_BATTLETALK_04	¡Por mi pueblo... por mi familia... por mí!
+TEXT_CLSARC005_00071_LEIHALIAPOH_BATTLETALK_05	Ya... ya lo veo...

@@ -1,0 +1,50 @@
+key	text
+TEXT_CLSARC001_00046_SEQ_00	La Guildmaster Luciane quiere enseñarte los fundamentos de la arquería.
+TEXT_CLSARC001_00046_SEQ_01	Luciane te dice que la esencia de la arquería es observar con intención: verlo todo sin perder de vista tu objetivo. Para poner a prueba tu capacidad de observación, la maestra arquera te pide buscar y destruir varios blancos escondidos por la ciudad. Encuéntralos y destrúyelos con tu técnica Heavy Shot.
+TEXT_CLSARC001_00046_SEQ_02	Destruiste todos los blancos. Vuelve con Luciane al Archers' Guild.
+TEXT_CLSARC001_00046_SEQ_03	Luciane te desafía a dar el siguiente paso: evaluar enemigos vivos desde lejos y atacarlos solo cuando tengas una estrategia adecuada. Viaja a North Shroud y caza ocho microchus y ocho opo<-->opos.
+TEXT_CLSARC001_00046_SEQ_04	Cazaste los microchus y los opo<-->opos. Vuelve con Luciane al Archers' Guild.
+TEXT_CLSARC001_00046_SEQ_05	Satisfecha con tu desempeño en la prueba, Luciane te presenta a otros dos miembros del gremio: la Miqo'te Leih Aliapoh y el Elezen Silvairre. Con las lecciones de tu entrenamiento en mente, sigues tu camino para dominar el arco.<br><br>※La siguiente misión de archer estará disponible con Luciane al llegar al nivel 10.
+TEXT_CLSARC001_00046_TODO_00	Destruye los blancos.
+TEXT_CLSARC001_00046_TODO_01	Informa a Luciane.
+TEXT_CLSARC001_00046_TODO_02	Caza opo<-->opos.
+TEXT_CLSARC001_00046_TODO_03	Caza microchus.
+TEXT_CLSARC001_00046_TODO_04	Informa a Luciane.
+TEXT_CLSARC001_00046_LUCIANE_000_1	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <split(<string(gstr1)>, ,1)>. Ya me parecía que era hora de que volvieras. ¿Te acostumbraste más al arco?
+TEXT_CLSARC001_00046_LUCIANE_000_2	Antes de seguir, quiero asegurarme de que captaste la esencia de la arquería. Dime, <split(<string(gstr1)>, ,1)>, ¿entiendes de verdad lo que significa ver con claridad?
+TEXT_CLSARC001_00046_LUCIANE_000_3	Ver con claridad no es solo mirar. Es observar con intención. Si no lo haces, ningún talento con el arco te servirá de nada.
+TEXT_CLSARC001_00046_LUCIANE_000_4	Un archer debe estar atento a cualquier rastro de su blanco y no pasar por alto el menor detalle, porque puede ser clave para lograr su propósito. En pocas palabras, debe ver con claridad. La próxima tarea pondrá a prueba tu capacidad de observación.
+TEXT_CLSARC001_00046_LUCIANE_000_5	Escondimos varios blancos por la ciudad. Quiero que los busques y los destruyas.
+TEXT_CLSARC001_00046_LUCIANE_000_6	Todos caerán fácilmente con tu técnica Heavy Shot. Cuando termines, vuelve conmigo y seguiremos.
+TEXT_CLSARC001_00046_LUCIANE_000_10	Ah, volviste. Espero que empieces a comprender lo importante que es ver con claridad.
+TEXT_CLSARC001_00046_LUCIANE_000_11	La siguiente prueba medirá tu capacidad de observación en batalla. Viaja a North Shroud y abate allí ocho microchus y ocho opo<-->opos.
+TEXT_CLSARC001_00046_LUCIANE_000_12	A diferencia de los blancos de la prueba anterior, inanimados y del todo inofensivos, puedes estar segur<if(gnum4,a,o)> de que estas criaturas se moverán y se defenderán.
+TEXT_CLSARC001_00046_LUCIANE_000_13	Y esas no son las únicas diferencias. Los microchus y los opo<-->opos abundan, así que no te costará encontrarlos. Aun así, te aseguro que esta tarea pondrá a prueba tu capacidad de observación... aunque de otra manera.
+TEXT_CLSARC001_00046_LUCIANE_000_14	Esta vez tendrás que evaluar las habilidades de tu oponente. Así aprenderás, entre otras cosas, que los microchus producen un veneno que agota las fuerzas rápidamente, mientras que los opo<-->opos, como los archers, tienen la ventaja del alcance.
+TEXT_CLSARC001_00046_LUCIANE_000_15	Sabiendo sus fortalezas, ¿cómo harás para contrarrestarlas? Si atacas antes de tener una estrategia eficaz, pronto lamentarás tu imprudencia.
+TEXT_CLSARC001_00046_LUCIANE_000_16	Pero si te tomas el tiempo de observar a tus blancos desde lejos, sin duda obtendrás lo que necesitas saber para derrotarlos.
+TEXT_CLSARC001_00046_LUCIANE_000_17	Espero con ganas saber de tu éxito, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSARC001_00046_LUCIANE_000_0001	Bienvenid<if(gnum4,a,o)> de vuelta, joven <split(<string(gstr1)>, ,1)>. Dime, ¿pudiste aprovechar bien tus técnicas?
+TEXT_CLSARC001_00046_LUCIANE_000_0002	Ante un enemigo que ataca a distancia, limitarse a lanzarle una lluvia de flechas es tan derrochador como peligroso. La batalla no sería más que una competencia de fuerza.
+TEXT_CLSARC001_00046_LUCIANE_000_0003	En cambio, con la técnica adecuada se puede derribar al enemigo con más facilidad y menos flechas. Por ejemplo, puedes preparar bien el arma y golpear con fuerza, o usar toxinas para minar sus fuerzas con el tiempo.
+TEXT_CLSARC001_00046_LUCIANE_000_0004	Suponiendo que te diste cuenta de esto antes de que cayera tu blanco número dieciséis, te felicito por superar la prueba.
+TEXT_CLSARC001_00046_LUCIANE_000_0005	Leih. Silvairre. ¿Cuál es su opinión sincera?
+TEXT_CLSARC001_00046_LEIHALIAPOH_000_0006	Nada mal, si me preguntas. Tensa bien el arco y además tiene entusiasmo.
+TEXT_CLSARC001_00046_LEIHALIAPOH_000_0007	Un placer conocerte. Me llamo Leih Aliapoh y este es mi segundo año en el gremio.
+TEXT_CLSARC001_00046_LEIHALIAPOH_000_0008	Está clarísimo que tienes talento con el arco, pero debes cuidarte de prestar atención a tu alrededor cuando persigues un blanco.
+TEXT_CLSARC001_00046_LEIHALIAPOH_000_0009	Te estuve vigilando durante toda la prueba, y ni una vez notaste mi presencia.
+TEXT_CLSARC001_00046_SILVAIRRE_000_0010	¿"Prestar atención a tu alrededor"? Qué gracioso, viniendo de ti.
+TEXT_CLSARC001_00046_SILVAIRRE_000_0011	Cada uno de tus movimientos es un desperdicio, <if(gnum4,aventurera,aventurero)>.
+TEXT_CLSARC001_00046_SILVAIRRE_000_0012	Tienes la espalda torcida y los codos desalineados. Tardas una eternidad en preparar el arco, y el doble en soltar una flecha.
+TEXT_CLSARC001_00046_SILVAIRRE_000_0013	En resumen, fallas en todo. No tienes talento como archer. Ninguno.
+TEXT_CLSARC001_00046_SILVAIRRE_000_0014	Lo diré sin rodeos, Luciane: <if(gnum4,esta mujer,este hombre)> no sirve para empuñar un arco. Por nuestro bien, y por el suyo, deberíamos revocarle la membresía.
+TEXT_CLSARC001_00046_SILVAIRRE_000_0015	Como siempre digo, no se puede esperar que los forasteros entiendan, y mucho menos dominen, nuestro noble arte.
+TEXT_CLSARC001_00046_SILVAIRRE_000_0016	Perdemos el tiempo enseñándole a gente como <if(gnum4,ella,él)>.
+TEXT_CLSARC001_00046_LEIHALIAPOH_000_0017	...¡Vaya! Te presento a Silvairre, nuestro compañero de tiro.
+TEXT_CLSARC001_00046_LEIHALIAPOH_000_0018	Verás, antes estaba en el Gods' Quiver, y puede ser un poco... <italic(1)>terco<italic(0)> en cuanto a la arquería. Pero no le hagas caso: es así con todo el mundo.
+TEXT_CLSARC001_00046_LEIHALIAPOH_000_0019	Ya es difícil sacarle algo sensato a un Elezen Wildwood cabeza de fósil como él en sus mejores días. Con ellos siempre es "el Twelveswood <italic(1)>esto<italic(0)>" y "los elementales <italic(1)>aquello<italic(0)>", y... ¡Oh! ¡Ejem!<br>...No lo dije por ti, Luciane.
+TEXT_CLSARC001_00046_LUCIANE_000_0020	No me ofendo, Leih. Sé muy bien que algunos de los míos pueden ser orgullosos en exceso e intolerantes con otras razas.
+TEXT_CLSARC001_00046_LUCIANE_000_0021	Aunque la gente contemple el mismo objeto, siempre verá cosas distintas. No hay en ello acierto ni error: es una cuestión de perspectiva.
+TEXT_CLSARC001_00046_LUCIANE_000_0022	Lo que importa es la perspectiva que elegimos adoptar.
+TEXT_CLSARC001_00046_LUCIANE_000_0023	Tienes ojos brillantes, <split(<string(gstr1)>, ,1)>; ojos que revelan una gran comprensión. No te llevarán por mal camino, así que confía en ellos y en lo que ven.
+TEXT_CLSARC001_00046_LUCIANE_000_0024	Ahora ve y retoma tu entrenamiento. Espero con ganas ver tus avances la próxima vez que nos veamos.

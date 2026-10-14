@@ -1,0 +1,45 @@
+key	text
+TEXT_CLSARC000_00021_SEQ_00	Athelyna quiere que confirmes tu deseo de unirte al Archers' Guild.
+TEXT_CLSARC000_00021_SEQ_01	Te enviaron con Luciane, la maestra del Archers' Guild. Búscala en la sala del fondo.
+TEXT_CLSARC000_00021_SEQ_02	Luciane quiere poner a prueba tu aptitud para unirte al Archers' Guild. Sal de la ciudad y caza tres ardillas, tres mariquitas y tres funguars.
+TEXT_CLSARC000_00021_SEQ_03	Cazaste las criaturas indicadas. Vuelve con Luciane al Archers' Guild.
+TEXT_CLSARC000_00021_SEQ_04	Superaste la prueba y Luciane te nombra miembro del Archers' Guild. Te anima a practicar la técnica correcta, disparando flecha tras flecha hasta que el movimiento te salga solo.<br><br>※La siguiente misión de archer estará disponible con Luciane al llegar al nivel 5.
+TEXT_CLSARC000_00021_TODO_00	Habla con Luciane, la maestra del Archers' Guild.
+TEXT_CLSARC000_00021_TODO_01	Caza ground squirrels.
+TEXT_CLSARC000_00021_TODO_02	Caza little ladybugs.
+TEXT_CLSARC000_00021_TODO_03	Caza forest funguars.
+TEXT_CLSARC000_00021_TODO_04	Informa a Luciane en el Archers' Guild.
+TEXT_CLSARC000_00021_ATHELYNA_000_1	Entonces, ¿de verdad quieres unirte al Archers' Guild?
+TEXT_CLSARC000_00021_ATHELYNA_000_2	¿Necesitas más tiempo para pensarlo? Muy bien.
+TEXT_CLSARC000_00021_ATHELYNA_000_3	Nuestra maestra notaría tu indecisión antes de que estuvieras a cincuenta pasos, tan aguda es su vista. Mejor no te presentes ante ella hasta que sepas lo que quieres.
+TEXT_CLSARC000_00021_ATHELYNA_000_5	Tu mirada delata tu determinación. Será un placer enviarte con la Guildmaster Luciane.
+TEXT_CLSARC000_00021_ATHELYNA_000_6	Para que no te preocupes de más: Luciane es una mujer afable y de buen corazón. Hasta gente ajena al gremio acude a pedirle consejo, y ella siempre la escucha con justicia.
+TEXT_CLSARC000_00021_ATHELYNA_000_7	Luciane te espera allá, en la zona de entrenamiento. Preséntate ante ella y hazle saber tu deseo de unirte al gremio.
+TEXT_CLSARC000_00021_LUCIANE_000_10	Saludos, <if(gnum4,aventurera,aventurero)>. Me dicen que quieres unirte a nuestras filas.
+TEXT_CLSARC000_00021_LUCIANE_000_11	Soy Luciane, la maestra del Archers' Guild, y te doy la bienvenida. Nuestras puertas están abiertas a quien tenga voluntad de aprender.
+TEXT_CLSARC000_00021_LUCIANE_000_12	Permíteme explicarte lo básico de nuestro arte y darte una muestra de lo que enseñamos a los miembros del gremio.
+TEXT_CLSARC000_00021_LUCIANE_000_13	La mayor ventaja del arco es su alcance. A diferencia de las armas de otras disciplinas de guerra, permite golpear al enemigo desde lejos.
+TEXT_CLSARC000_00021_LUCIANE_000_14	Puede que el arco no tenga la fuerza destructiva de una espada o una lanza, pero sus incontables usos estratégicos compensan con creces esa carencia. Un archer con experiencia puede inmovilizar a un enemigo dándole en una pierna, o minar sus fuerzas con una flecha envenenada.
+TEXT_CLSARC000_00021_LUCIANE_000_15	Llega a dominar la arquería y podrás hacer llover sobre tus enemigos un verdadero diluvio de muerte.
+TEXT_CLSARC000_00021_LUCIANE_000_16	Al pelear a distancia podemos evaluar mejor el campo de batalla y así decidir qué conviene hacer.
+TEXT_CLSARC000_00021_LUCIANE_000_17	Esto es de suma importancia, porque nuestro papel en batalla es aprovechar la debilidad del enemigo. Con la posición y el momento justos, basta una sola flecha para cambiar el curso de la pelea.
+TEXT_CLSARC000_00021_LUCIANE_000_18	Por eso el gremio busca cultivar en sus miembros un ojo perspicaz, para que aprendan a golpear los puntos débiles con rapidez y precisión.
+TEXT_CLSARC000_00021_LUCIANE_000_19	Cualquier tonto puede tensar un arco, pero llegar a ser un archer hábil no es nada sencillo. Debes prepararte para un camino largo y arduo.
+TEXT_CLSARC000_00021_LUCIANE_000_20	¿Estás <if(gnum4,decidida,decidido)> a recorrer ese camino?
+TEXT_CLSARC000_00021_Q1_000_1	¿Te dedicarás a la arquería?
+TEXT_CLSARC000_00021_A1_000_1	Sí
+TEXT_CLSARC000_00021_A1_000_2	No
+TEXT_CLSARC000_00021_LUCIANE_000_25	Es una lástima. Aun así, es bueno ver a <if(gnum4,una mujer,un hombre)> que sabe lo que quiere.
+TEXT_CLSARC000_00021_LUCIANE_000_26	Serías <if(gnum4,una buena archer,un buen archer)>... si tuvieras la voluntad. Si cambias de parecer, búscame aquí de nuevo.
+TEXT_CLSARC000_00021_LUCIANE_000_30	Muy bien. Antes de seguir, necesito medir tu aptitud natural para la arquería. Para ello, te encomiendo la siguiente prueba...
+TEXT_CLSARC000_00021_LUCIANE_000_31	Caza a las ardillas, mariquitas y funguars que rondan justo fuera de las puertas de la ciudad. Tres de cada uno bastarán.
+TEXT_CLSARC000_00021_LUCIANE_000_32	Así demostrarás que estás <if(gnum4,preparada,preparado)> para unirte al Archers' Guild.
+TEXT_CLSARC000_00021_LUCIANE_000_33	Vuelve conmigo cuando termines. No creo que te cueste demasiado.
+TEXT_CLSARC000_00021_LUCIANE_000_40	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. Parece que superaste la prueba.
+TEXT_CLSARC000_00021_LUCIANE_000_41	Demostraste que mereces un lugar entre estos muros. Es un placer nombrarte archer del gremio.
+TEXT_CLSARC000_00021_LUCIANE_000_42	Como compañeros de camino, esforcémonos juntos por dominar mejor nuestro arte.
+TEXT_CLSARC000_00021_LUCIANE_000_43	Ahora bien, aunque seas miembro del Archers' Guild, tus superiores no te van a mimar con atención personal. Te toca a ti buscar las experiencias que necesitas para crecer como archer.
+TEXT_CLSARC000_00021_LUCIANE_000_44	Para eso te doy este hunting log. En él están los nombres de las criaturas que te pondrán a prueba como corresponde. Si alguna vez no sabes qué hacer, consúltalo.
+TEXT_CLSARC000_00021_LUCIANE_000_45	Como primer paso, te animo a practicar la técnica correcta. Dispara flecha tras flecha, cuidando la postura, hasta que el movimiento te salga solo.
+TEXT_CLSARC000_00021_LUCIANE_000_46	Cuando tensar la cuerda te resulte tan natural como respirar y el mundo se vea más claro a lo largo de una flecha, vuelve conmigo. Que te vaya bien, mi joven aprendiz.
+TEXT_CLSARC000_00021_SYSTEM_000_50	La siguiente misión de archer estará disponible con Luciane al llegar al nivel 5.

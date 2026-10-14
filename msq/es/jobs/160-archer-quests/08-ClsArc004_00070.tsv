@@ -1,0 +1,119 @@
+key	text
+TEXT_CLSARC004_00070_SEQ_00	La Guildmaster Luciane quiere que vayas a Buscarron's Druthers.
+TEXT_CLSARC004_00070_SEQ_01	El Archers' Guild recibió un pedido de un hombre llamado Buscarron, que tiene una taberna en South Shroud. Ve a Buscarron's Druthers y habla con el dueño.
+TEXT_CLSARC004_00070_SEQ_02	Buscarron te pide investigar a una banda de cazadores furtivos que, según él, dirige la infame Pawah Mujuuk. Busca en el bosque alguna pista de su paradero.
+TEXT_CLSARC004_00070_SEQ_03	Encuentras varios objetos sospechosos en el bosque al noroeste de Buscarron's Druthers. Vuelve a la taberna y comparte tus hallazgos con Leih y Silvairre.
+TEXT_CLSARC004_00070_SEQ_04	Silvairre sospecha que las botellas salieron de la famosa reserva de hidromiel casero de Buscarron, que se creía perdida cuando cayó su antiguo puesto de guardia. Busca en Buscarron's Scar señales de actividad reciente.
+TEXT_CLSARC004_00070_SEQ_05	En Buscarron's Scar, Pawah Mujuuk y su banda de furtivos te tienden una emboscada. Se desata una escaramuza y logras rechazar al enemigo. Llévale la noticia a Buscarron, que te espera en el Druthers.
+TEXT_CLSARC004_00070_SEQ_06	Visiblemente molesto por la idea de que los furtivos se sirvieran de su preciado hidromiel, Buscarron disfruta mucho oyendo cómo recibieron su merecido. Con la situación bajo control, puedes volver al Archers' Guild y contarle a Luciane todo lo que pasó.
+TEXT_CLSARC004_00070_SEQ_07	En el Archers' Guild, Luciane te elogia por tu excelente labor en Buscarron's Scar. Luego te agradece por ayudar a que Leih y Silvairre colaboraran, y te pide que sigas trabajando por el bien del gremio. Con tus esfuerzos reconocidos, retomas tu entrenamiento con un fervor nunca visto.<br><br>※La siguiente misión de archer estará disponible con Luciane al llegar al nivel 25.
+TEXT_CLSARC004_00070_TODO_00	Habla con Buscarron.
+TEXT_CLSARC004_00070_TODO_01	Busca pistas.
+TEXT_CLSARC004_00070_TODO_02	Consulta con Leih y Silvairre.
+TEXT_CLSARC004_00070_TODO_03	Investiga Buscarron's Scar.
+TEXT_CLSARC004_00070_TODO_04	Informa a Buscarron.
+TEXT_CLSARC004_00070_TODO_05	Informa a Luciane.
+TEXT_CLSARC004_00070_LUCIANE_000_1	Llegas en buen momento, <split(<string(gstr1)>, ,1)>. Tengo una tarea para ti.
+TEXT_CLSARC004_00070_LUCIANE_000_2	Llegó un pedido del dueño de Buscarron's Druthers, en South Shroud.
+TEXT_CLSARC004_00070_LUCIANE_000_3	El propio Buscarron nos pide ayuda con una banda de cazadores furtivos. Quiero que los tres se reúnan con él e investiguen lo que dice.
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_4	¿Los <italic(1)>tres<italic(0)>? ¿Quieres decir <split(<string(gstr1)>, ,1)>, yo y...?
+TEXT_CLSARC004_00070_SILVAIRRE_000_5	Sería mejor que fuera solo, Luciane. La Miqo'te y... el otro solo me estorbarán.
+TEXT_CLSARC004_00070_LUCIANE_000_6	No, Silvairre, irán los tres. Además, ya es hora de que reconozcas a <split(<string(gstr1)>, ,1)> como <if(gnum4,compañera,compañero)> archer.
+TEXT_CLSARC004_00070_SILVAIRRE_000_7	No lo haré. Me callé respecto a que siga aquí, pero no pienso ceder más.
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_8	¿Quién demonios te crees que eres? ¿¡El Bowlord Lewin!? ¡Por si lo olvidaste, ya ni siquiera eres del Gods' Quiver!
+TEXT_CLSARC004_00070_SILVAIRRE_000_9	Puede ser, pero yo derramé sangre defendiendo nuestras fronteras. A diferencia de ti, salvaje.
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_10	¿¡"Salvaje"!? No sabes <italic(1)>nada<italic(0)> de mí, intolerante hijo de─
+TEXT_CLSARC004_00070_LUCIANE_000_11	¡Basta!
+TEXT_CLSARC004_00070_LUCIANE_000_12	Una palabra más y tendrán motivos para lamentar su berrinche. Los tres <italic(1)>irán<italic(0)> a Buscarron's Druthers, en South Shroud. ¡Ahora, fuera de mi vista!
+TEXT_CLSARC004_00070_BUSCARRON_000_20	Ah, ustedes deben ser los del Archers' Guild. Bienvenidos, amigos.
+TEXT_CLSARC004_00070_BUSCARRON_000_21	Como les habrá dicho su maestra, pedí unos archers de buen ojo que me ayuden a rastrear a una banda de furtivos que anda plagando la zona.
+TEXT_CLSARC004_00070_SILVAIRRE_000_22	Si me permite: no es raro encontrar furtivos en esta región. Por lamentable que sea, ni el Gods' Quiver ni los Wood Wailers los consideran dignos de atención. ¿Por qué pensó entonces que merecían la nuestra?
+TEXT_CLSARC004_00070_BUSCARRON_000_23	Porque estos no son furtivos comunes. Son la banda de Pawah Mujuuk.
+TEXT_CLSARC004_00070_SILVAIRRE_000_24	...
+TEXT_CLSARC004_00070_BUSCARRON_000_25	Dicen que ella y los suyos nunca se quedan quietos, siempre un paso adelante. Pero yo creo que se esconde por aquí cerca.
+TEXT_CLSARC004_00070_BUSCARRON_000_26	El asunto es que no puedo mandar a mi gente a buscarla así nomás. Hice un pacto con los bandidos Redbelly, ¿ves? Nosotros no entramos en su territorio y ellos no causan problemas en el Druthers.
+TEXT_CLSARC004_00070_BUSCARRON_000_27	Así que, si llamara a las filas de los Wailers y a los arqueros del Gods' Quiver, se desataría el séptimo infierno en un santiamén... suponiendo que el asunto les pareciera <italic(1)>digno de su atención<italic(0)>, claro. Ni hablar de esa opción. Por suerte, tengo a tres archers de buen ojo para encargarse, y sin hacer saltar ninguna alarma.
+TEXT_CLSARC004_00070_SILVAIRRE_000_28	...Entendido. Puede dejar el asunto en nuestras manos.
+TEXT_CLSARC004_00070_SILVAIRRE_000_29	Leih, <split(<string(gstr1)>, ,1)>: sepárense y revisen la zona en busca de rastros de los furtivos.
+TEXT_CLSARC004_00070_SILVAIRRE_000_30	Si encuentran algo, vuelvan aquí y esperen. Nos reuniremos pronto para comparar lo que hallemos. Vayan.
+TEXT_CLSARC004_00070_SILVAIRRE_000_40	Una trampa de hierro para patas y una flecha de furtivo... Ambas son prueba de actividad ilegal, pero nada que nos ayude a encontrar a Pawah.
+TEXT_CLSARC004_00070_SILVAIRRE_000_41	Y estas botellas de hidromiel no son más que basura vieja, de antes de que construyeran el Druthers. No tienen relación con la banda.
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_42	...¿Qué sabes de esa tal Pawah, Silvairre?
+TEXT_CLSARC004_00070_SILVAIRRE_000_43	Sé que es la cazadora furtiva más infame que haya pisado el Twelveswood.
+TEXT_CLSARC004_00070_SILVAIRRE_000_44	Líder nata y letal con el arco, formó su propia banda de cazadores Miqo'te.
+TEXT_CLSARC004_00070_SILVAIRRE_000_45	La atraparon una vez, y la habrían llevado ante la justicia... si no hubiera engañado a un joven centinela insensato para que la soltara, antes de desaparecer sin dejar rastro.
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_46	...¿Ah, sí?
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_47	En fin, ya revisamos la zona y no encontramos nada. ¿Cómo sabemos que esa Pawah estuvo aquí alguna vez?
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_48	Yo digo que avisemos al Gods' Quiver y a los Wood Wailers, sin comprometer a Buscarron, y les dejemos el resto. Esto no le concierne al Archers' Guild.
+TEXT_CLSARC004_00070_SILVAIRRE_000_49	¡Le concierne a <italic(1)>Gridania<italic(0)>, Leih! Pawah Mujuuk es una furtiva salvaje y sin moral alguna, cuyos actos, aunque sea de forma indirecta, amenazan el bienestar de la ciudad.
+TEXT_CLSARC004_00070_SILVAIRRE_000_50	Pero ¿qué sabrá una vagabunda como tú del deber con la patria? No más que <italic(1)><if(gnum4,ella,él)><italic(0)>, sospecho.
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_51	¡Cómo te atreves! Y tú, <split(<string(gstr1)>, ,1)>, ¡di algo!
+TEXT_CLSARC004_00070_Q1_000_1	¿Qué vas a decir?
+TEXT_CLSARC004_00070_A1_000_1	¡No es momento para esto!
+TEXT_CLSARC004_00070_A1_000_2	...
+TEXT_CLSARC004_00070_SILVAIRRE_000_55	¿Ves? Hasta <if(gnum4,ella,él)> sabe que es verdad. Su silencio lo dice todo.
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_56	¡Maldición, <split(<string(gstr1)>, ,1)>, di algo!
+TEXT_CLSARC004_00070_SILVAIRRE_000_60	Hmph. Muy bien. Volvamos a lo que importa. Quizá deberíamos revisar de nuevo las pistas que reunimos.
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_61	Revisa todo lo que quieras. La trampa y la flecha que encontramos apuntan a caza furtiva, pero no tienen nada fuera de lo común.
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_62	¿Qué crees <italic(1)>tú<italic(0)> que deberíamos examinar, <split(<string(gstr1)>, ,1)>?
+TEXT_CLSARC004_00070_Q2_000_1	¿Qué vas a examinar?
+TEXT_CLSARC004_00070_A2_000_1	La flecha del furtivo.
+TEXT_CLSARC004_00070_A2_000_2	La trampa de hierro para patas.
+TEXT_CLSARC004_00070_A2_000_3	Las botellas vacías de hidromiel.
+TEXT_CLSARC004_00070_SILVAIRRE_000_65	Sabemos que es una flecha de furtivo. Más allá de eso, no nos dice nada.
+TEXT_CLSARC004_00070_SILVAIRRE_000_66	Esta trampa es una herramienta común para cazar bestias.
+TEXT_CLSARC004_00070_SILVAIRRE_000_67	Estos artefactos no distinguen entre amigo y enemigo, y causaron muchas tragedias tanto a hombres como a chocobos. Los cazadores gridanianos jamás caerían tan bajo.
+TEXT_CLSARC004_00070_SILVAIRRE_000_68	Los furtivos, en cambio, suelen sembrar el suelo del bosque con estas cosas malditas. Aun así, no veo nada aquí que nos lleve hasta Pawah.
+TEXT_CLSARC004_00070_SILVAIRRE_000_70	¿Por qué sigues cargando esa basura? Te dije que esas botellas son anteriores al Druthers. No tienen relación con este asunto.
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_71	...Pero si estas botellas son tan viejas, ¿por qué conservan el olor a hidromiel? Seguro que las abrieron hace poco.
+TEXT_CLSARC004_00070_SILVAIRRE_000_72	Espera. Antes de la Calamidad, Buscarron fue centinela. Y ya entonces hablaba a veces de tener su propia taberna... y era un secreto a voces que fermentaba su propia reserva. Si algo sobrevivió...
+TEXT_CLSARC004_00070_SILVAIRRE_000_73	¡Claro! Buscarron's Scar, ¡su antiguo puesto de vigía!
+TEXT_CLSARC004_00070_SILVAIRRE_000_74	Puede que no sea Pawah Mujuuk, ¡pero debemos investigar ya mismo!
+TEXT_CLSARC004_00070_SILVAIRRE_000_0001	¿Alguna señal?
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_0002	Mira: el suelo está cubierto de huellas de Miqo'te.
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_0003	Estas huellas son recientes, <italic(1)>muy<italic(0)> recientes. Apuesto a que los bandidos supieron que veníamos y huyeron... o se esconden cerca─
+TEXT_CLSARC004_00070_SILVAIRRE_000_0004	¡A cubierto!
+TEXT_CLSARC004_00070_PAWAHMUJUUK_000_0005	...¿Eh? Y yo que creía que habíamos atrapado a unos de esos malditos enmascarados metiches...
+TEXT_CLSARC004_00070_PAWAHMUJUUK_000_0006	No es que me queje, ¿eh? Andar con la cara tapada es de lo más <italic(1)>grosero<italic(0)> cuando nadie te presentó.
+TEXT_CLSARC004_00070_PAWAHMUJUUK_000_0007	Y hablando de malos modales, ¿no saben que no es decente meterse en la alcoba de una dama sin tocar la puerta?
+TEXT_CLSARC004_00070_SILVAIRRE_000_0008	...¿Tú nos vas a dar lecciones de modales? De verdad, ya lo he oído todo.
+TEXT_CLSARC004_00070_SILVAIRRE_000_0009	Nos superan en número. Mejor nos separamos.
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_0010	¡La jefa es mía! ¡Intentaré apartarla de su camada!
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_0011	Silvairre, <split(<string(gstr1)>, ,1)>: el resto se lo dejo a ustedes dos.
+TEXT_CLSARC004_00070_SILVAIRRE_000_0012	Como quieras.
+TEXT_CLSARC004_00070_SILVAIRRE_000_1001	¿Era el último?
+TEXT_CLSARC004_00070_SILVAIRRE_000_1002	¿Viste a Aliapoh?
+TEXT_CLSARC004_00070_SILVAIRRE_000_1003	Conmigo, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSARC004_00070_PAWAHMUJUUK_000_1004	Tsk, tsk. Qué actuación más lamentable, hermana.
+TEXT_CLSARC004_00070_PAWAHMUJUUK_000_1005	¿Y tú te dices Keeper? Una cazadora sin colmillos no es más que una <italic(1)>presa<italic(0)>.
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_1006	¡No!
+TEXT_CLSARC004_00070_PAWAHMUJUUK_000_1007	Ay, qué fastidio. Parece que se acabó la hora de jugar.
+TEXT_CLSARC004_00070_PAWAHMUJUUK_000_1008	¡Nos vemos, hermana!
+TEXT_CLSARC004_00070_SILVAIRRE_000_100	Así que sí era Pawah Mujuuk. Hay que avisarle a Buscarron.
+TEXT_CLSARC004_00070_LEIHALIAPOH_000_105	Pawah Mujuuk... Yo... yo no estuve a su altura...
+TEXT_CLSARC004_00070_BUSCARRON_000_80	¡Por los siete infiernos! ¿Estaban en mi antiguo puesto? ¿¡Y se bebieron mi hidromiel!?
+TEXT_CLSARC004_00070_BUSCARRON_000_81	Eso es lo que más duele... Bueno, ya es hora de avisar a las autoridades. Mandaré mensajeros a los Wood Wailers y al Gods' Quiver.
+TEXT_CLSARC004_00070_BUSCARRON_000_82	A los bandidos Redbelly no les va a gustar nada, pero me encargaré de que sepan exactamente a quién busca el ejército. Solo espero que alcance...
+TEXT_CLSARC004_00070_BUSCARRON_000_83	Claro que Pawah Mujuuk no es ninguna tonta. Ahora que sabe que la vieron, levantará el campamento y estará lejos antes de que suene la próxima bell. Y el rastro tampoco va a durar mucho fresco...
+TEXT_CLSARC004_00070_BUSCARRON_000_84	En fin, me hicieron un gran favor, amigos. Díganle a Luciane que agradezco la ayuda.
+TEXT_CLSARC004_00070_LUCIANE_000_90	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. Silvairre me dice que te encontraste con Pawah Mujuuk.
+TEXT_CLSARC004_00070_LUCIANE_000_91	Ningún gridaniano dejaría de reconocer ese nombre, tantas veces se pronunció, y con tanta amargura.
+TEXT_CLSARC004_00070_LUCIANE_000_92	Me temo que no tenemos la fuerza para enfrentarla solos. Es asunto del Gods' Quiver y de los Wood Wailers.
+TEXT_CLSARC004_00070_LUCIANE_000_93	Que la enfrentaras y sobrevivieras demuestra tu creciente dominio de nuestro arte. Ah, y me sorprendió ver que Leih y Silvairre no volvieron peleados. ¿Supongo que este estado tan antinatural se lo debemos a tu influencia apaciguadora?
+TEXT_CLSARC004_00070_LUCIANE_000_94	...¿No? Modest<if(gnum4,a,o)> hasta el final. De verdad, cada uno de tus actos revela una claridad de visión muy superior a tu edad.
+TEXT_CLSARC004_00070_LUCIANE_000_95	Te ruego que compartas esa perspectiva con tus compañeros y los ayudes a crecer como archers mejores y más sabios.
+TEXT_CLSARC004_00070_LUCIANE_000_96	Mientras sales a templar tus habilidades en batalla, que sepas que siempre esperamos con ganas tu regreso.
+TEXT_CLSARC004_00070_POP_MESSAGE	¡Sientes una presencia hostil!
+TEXT_CLSARC004_00070_QIB_TODO_001	¡Derrota a los cazadores furtivos!
+TEXT_CLSARC004_00070_INSTANCE_BATTLE_YESNO_TITLE	El deber llama. ¿Quieres comenzar<br>"To Catch a Poacher"?
+TEXT_CLSARC004_00070_INSTANCE_BATTLE_YESNO_YES	Sí
+TEXT_CLSARC004_00070_INSTANCE_BATTLE_YESNO_NO	No
+TEXT_CLSARC004_00070_UNNOWN_BATTLETALK_01	¡Por Pawah! ¡Atrapen a esos desgraciados!
+TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_01	¡Concéntrate en mi blanco, <split(<string(gstr1)>, ,1)>! ¡Si trabajamos juntos, caerán más rápido!
+TEXT_CLSARC004_00070_UNNOWN_BATTLETALK_02	¡Que no se escapen!
+TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_02	¡No podemos dejar que esa conjurer alargue esto!
+TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_03	¡Recuerda tus técnicas! ¡Acaba con ella rápido mientras está débil!
+TEXT_CLSARC004_00070_UNNOWN_BATTLETALK_03	¡Por todos los infiernos! ¿¡Por qué no se mueren ustedes dos!?
+TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_04	¡Atent<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>! ¡Estos son más rápidos que los demás!
+TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_05	¡Observa sus movimientos y esquiva sus ataques!
+TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_DEAD	Agh... Hmph...

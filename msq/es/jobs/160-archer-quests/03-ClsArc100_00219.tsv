@@ -1,0 +1,22 @@
+key	text
+TEXT_CLSARC100_00219_SEQ_00	Luciane quiere medir tu aptitud para la arquería.
+TEXT_CLSARC100_00219_SEQ_01	Luciane quiere poner a prueba tu aptitud para unirte al Archers' Guild. Sal de la ciudad y caza tres ardillas, tres mariquitas y tres funguars.
+TEXT_CLSARC100_00219_SEQ_02	Cazaste las criaturas indicadas. Vuelve con Luciane al Archers' Guild.
+TEXT_CLSARC100_00219_SEQ_03	Superaste la prueba y Luciane te nombra miembro del Archers' Guild. Te anima a practicar la técnica correcta, disparando flecha tras flecha hasta que el movimiento te salga solo.<br><br>※La siguiente misión de archer estará disponible con Luciane al llegar al nivel 5.
+TEXT_CLSARC100_00219_TODO_00	Caza ground squirrels como archer.
+TEXT_CLSARC100_00219_TODO_01	Caza little ladybugs como archer.
+TEXT_CLSARC100_00219_TODO_02	Caza forest funguars como archer.
+TEXT_CLSARC100_00219_TODO_03	Informa a Luciane en el Archers' Guild.
+TEXT_CLSARC100_00219_LUCIANE_000_1	Ah, sí. El arco te sienta bien, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSARC100_00219_LUCIANE_000_2	Antes de seguir, necesito medir tu aptitud natural para la arquería. Para ello, te encomiendo la siguiente prueba...
+TEXT_CLSARC100_00219_LUCIANE_000_3	Caza a las ardillas, mariquitas y funguars que rondan justo fuera de las puertas de la ciudad. Tres de cada uno bastarán.
+TEXT_CLSARC100_00219_LUCIANE_000_4	Así demostrarás que estás <if(gnum4,preparada,preparado)> para unirte al Archers' Guild.
+TEXT_CLSARC100_00219_LUCIANE_000_5	Ni hace falta decir que debes hacerlo con tu arco. Vuelve conmigo cuando termines.
+TEXT_CLSARC100_00219_LUCIANE_000_6	Ve, <split(<string(gstr1)>, ,1)>, y gánate tu lugar entre estos muros.
+TEXT_CLSARC100_00219_LUCIANE_000_10	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. Parece que superaste la prueba.
+TEXT_CLSARC100_00219_LUCIANE_000_11	Demostraste que mereces un lugar entre estos muros. Es un placer nombrarte archer del gremio.
+TEXT_CLSARC100_00219_LUCIANE_000_12	Como compañeros de camino, esforcémonos juntos por dominar mejor nuestro arte.
+TEXT_CLSARC100_00219_LUCIANE_000_13	Ahora bien, aunque seas miembro del Archers' Guild, tus superiores no te van a mimar con atención personal. Te toca a ti buscar las experiencias que necesitas para crecer como archer.
+TEXT_CLSARC100_00219_LUCIANE_000_14	Como primer paso, te animo a practicar la técnica correcta. Dispara flecha tras flecha, cuidando la postura, hasta que el movimiento te salga solo.
+TEXT_CLSARC100_00219_LUCIANE_000_15	Cuando tensar la cuerda te resulte tan natural como respirar y el mundo se vea más claro a lo largo de una flecha, vuelve conmigo. Que te vaya bien, mi joven aprendiz.
+TEXT_CLSARC100_00219_SYSTEM_000_20	La siguiente misión de archer estará disponible con Luciane al llegar al nivel 5.
