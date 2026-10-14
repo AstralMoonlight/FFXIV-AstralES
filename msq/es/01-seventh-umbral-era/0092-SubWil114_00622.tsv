@@ -1,0 +1,35 @@
+key	text
+TEXT_SUBWIL114_00622_SEQ_00	Parece que Isembard tiene un mensaje de Thancred para ti.
+TEXT_SUBWIL114_00622_SEQ_01	Thancred te anda buscando y te pide que te reúnas con él cerca del campamento amalj'aa al sureste de Camp Drybone.
+TEXT_SUBWIL114_00622_SEQ_02	Te encuentras con Thancred afuera del campamento amalj'aa cercano. Te pide que entres a buscar pruebas de su participación en las desapariciones de Camp Drybone.
+TEXT_SUBWIL114_00622_SEQ_03	Encontraste un folleto sospechoso. Vuelve con Thancred y muéstraselo.
+TEXT_SUBWIL114_00622_SEQ_04	No parece que el folleto lo haya escrito un miembro de la Order. Muéstraselo a la Sister Ourcen en la posada de Camp Drybone para ver si puede aclarar algo.
+TEXT_SUBWIL114_00622_SEQ_05	La Sister Ourcen confirma que el folleto no es obra de la Order, y te cuenta que hace poco a la iglesia le desaparecieron varias prendas. Habla con Thancred para decidir qué hacer.
+TEXT_SUBWIL114_00622_SEQ_06	Thancred cree probable que el responsable de las desapariciones se esté haciendo pasar por un sacerdote de la Order. Advierte a Isembard de este posible peligro.
+TEXT_SUBWIL114_00622_SEQ_07	Isembard decide mantenerse alerta tras la nueva información. Mientras tanto, Thancred se retiró a pensar la situación con más cuidado. ¿Qué se le ocurrirá al bard de Sharlayan?
+TEXT_SUBWIL114_00622_TODO_00	Habla con Thancred.
+TEXT_SUBWIL114_00622_TODO_01	Busca alguna pista en el campamento amalj'aa.
+TEXT_SUBWIL114_00622_TODO_02	Muéstrale el folleto extraño a Thancred.
+TEXT_SUBWIL114_00622_TODO_03	Muéstrale el folleto extraño a la Sister Ourcen.
+TEXT_SUBWIL114_00622_TODO_04	Habla con Thancred.
+TEXT_SUBWIL114_00622_TODO_05	Habla con Isembard.
+TEXT_SUBWIL114_00622_ISEMBARD_000_1	Me alegro mucho de haberle reservado esa habitación en la posada a la Sister Ourcen. Parece que sus atacantes la hirieron más de lo que dejó ver al principio. Por suerte, se espera que se recupere del todo.
+TEXT_SUBWIL114_00622_ISEMBARD_000_2	Pero ahora, vamos a lo que importa. Thancred volvió a buscarte. Dejó dicho que te espera en el campamento amalj'aa del sureste. Ruego que entre los dos logren encontrar <italic(1)>alguna<italic(0)> prueba sobre estas desapariciones.
+TEXT_SUBWIL114_00622_THANCRED_000_10	Ah, ahí estás, <split(<string(gstr1)>, ,1)>. ¡Qué amable de tu parte venir!
+TEXT_SUBWIL114_00622_THANCRED_000_11	Sí, ya me enteré de lo de la buena Sister Ourcen. Isembard dijo que sus heridas eran graves. Parece que mis sospechas sobre la pobre rosa estaban fuera de lugar.
+TEXT_SUBWIL114_00622_THANCRED_000_12	Pero aunque fueran equivocadas, quizá mis sospechas no carecían del todo de fundamento. Mientras seguía a la Sister Ourcen cerca del Golden Bazaar, me llamó la atención una banda de Amalj'aa.
+TEXT_SUBWIL114_00622_THANCRED_000_13	Los seguí hasta este campamento, pero... Bueno, digamos que prefiero mantener la distancia y quedarme aquí. Y eso, claro, me lleva a por qué te pedí que vinieras, querid<if(gnum4,a,o)> <split(<string(gstr1)>, ,1)>. ¿Serías tan amable de echar un vistazo adentro?
+TEXT_SUBWIL114_00622_THANCRED_000_20	Yo prefiero vigilar desde aquí afuera. Entra a echar un vistazo, ¿quieres?
+TEXT_SUBWIL114_00622_THANCRED_000_30	¿Y bien? ¿Encontraste algo que te llamara la atención?
+TEXT_SUBWIL114_00622_THANCRED_000_31	Este folleto... "Vean la riqueza de Nald en las manos de sus hijos". Parece una especie de reunión para darles trabajo a los pobres.
+TEXT_SUBWIL114_00622_THANCRED_000_32	Pero la letra... Espantosa, ¿no? Y estas partes sobre Nald'thal parecen algo... poco estudiadas. Me cuesta creer que lo haya escrito alguien de la Order.
+TEXT_SUBWIL114_00622_THANCRED_000_33	Te ruego que lo lleves a la posada de Camp Drybone. Veamos qué opina la Sister Ourcen.
+TEXT_SUBWIL114_00622_THANCRED_000_40	Bueno, veamos qué opina la Sister Ourcen de este folleto.
+TEXT_SUBWIL114_00622_OURCEN_000_50	Vuelve <if(gnum4,mi salvadora,mi salvador)>. ¿A qué debo el honor hoy?
+TEXT_SUBWIL114_00622_OURCEN_000_51	¿Qué es esto? Blasfemo... ¡Estas no son nuestras enseñanzas para nada! Esto no lo hizo ningún hermano ni hermana <italic(1)>verdadero<italic(0)> de la Order: de <italic(1)>eso<italic(0)> puedo darle fe.
+TEXT_SUBWIL114_00622_OURCEN_000_52	Ahora que lo pienso, hace unas semanas a la iglesia le desaparecieron varias prendas. ¿Será que alguien se hace pasar por sacerdote de la Order para engañar a la gente?
+TEXT_SUBWIL114_00622_OURCEN_000_60	¿Quién haría algo así?
+TEXT_SUBWIL114_00622_THANCRED_000_70	¡El asunto se complica, <split(<string(gstr1)>, ,1)>! Nuestro culpable se hace pasar por sacerdote para darle credibilidad a su engaño. Seguro que en algún lado hay una ironía en todo esto.
+TEXT_SUBWIL114_00622_THANCRED_000_71	Pero sospecho que tenemos un adversario digno entre manos. Voy a pensar cómo encararlo. Por ahora, cuéntale a Isembard lo que averiguamos aquí.
+TEXT_SUBWIL114_00622_ISEMBARD_000_80	¿¡Se hace pasar por sacerdote!? Pensar que...
+TEXT_SUBWIL114_00622_ISEMBARD_000_81	Dejando de lado estas ideas inquietantes, es un alivio por fin poder avanzar en esta investigación. Gracias otra vez, <split(<string(gstr1)>, ,1)>. Voy a mantener los ojos y los oídos abiertos, ahora más que nunca.

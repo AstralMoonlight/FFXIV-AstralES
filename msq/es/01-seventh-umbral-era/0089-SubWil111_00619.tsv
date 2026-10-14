@@ -1,0 +1,26 @@
+key	text
+TEXT_SUBWIL111_00619_SEQ_00	Isembard quiere centrar su investigación en la gente del pueblo llano.
+TEXT_SUBWIL111_00619_SEQ_01	Isembard te habló de alguien que conoce mejor que nadie a la gente humilde y sus costumbres. Busca a Ungust y muéstrale la nota que te dio Isembard.
+TEXT_SUBWIL111_00619_SEQ_02	Ungust te dice que la gente humilde es tan desconfiada como cualquiera, y más que la mayoría. Habla tú con ellos para ver si dice la verdad.
+TEXT_SUBWIL111_00619_SEQ_03	Aterrados como están, los habitantes no te cuentan nada útil. Vuelve a hablar con Ungust.
+TEXT_SUBWIL111_00619_SEQ_04	A Ungust no parece preocuparle la creciente lista de desaparecidos en Drybone. Vuelve con Isembard para ver si se le ocurre cómo seguir.
+TEXT_SUBWIL111_00619_SEQ_05	Isembard cree que quizá la gente calla porque solo confía en sus dioses.
+TEXT_SUBWIL111_00619_TODO_00	Entrégale la nota de Isembard a Ungust.
+TEXT_SUBWIL111_00619_TODO_01	Habla con la gente del lugar.
+TEXT_SUBWIL111_00619_TODO_02	Habla con Ungust.
+TEXT_SUBWIL111_00619_TODO_03	Informa a Isembard.
+TEXT_SUBWIL111_00619_ISEMBARD_000_1	¿Qué te parece si miramos a la propia gente del pueblo? Puede que entre ellos encontremos el motivo de estas desapariciones, no lo quieran los Twelve.
+TEXT_SUBWIL111_00619_ISEMBARD_000_2	Hay un mercader llamado Ungust que nació aquí en Drybone y se crio en el Golden Bazaar. Un tipo... bastante brusco, pero conoce a la gente de aquí mejor que nadie.
+TEXT_SUBWIL111_00619_ISEMBARD_000_3	Apuesto a que está en la posada, bebiéndose las ganancias del día. Toma, te escribo una nota para que se la muestres; si no, seguramente no te va a hablar.
+TEXT_SUBWIL111_00619_UNGUST_000_10	\<eructo> ¡Pero, maldita sea! ¡Eres <if(gnum4,esa maldita aventurera,ese maldito aventurero)> que me amenazó en Ul'dah! ¿¡Qué demonios quieres conmigo ahora!?
+TEXT_SUBWIL111_00619_UNGUST_000_11	"Querido amigo... \<eructo> Gente desaparecida... Por favor, ayuda... \<hipo> Atentamente, Isembard."
+TEXT_SUBWIL111_00619_UNGUST_000_12	La gente de por aquí es de lo más desconfiada. Sale corriendo con que solo se te escape un gas cerca. Yo los engañé a todos y les saqué buen trabajo duro, ya lo creo.
+TEXT_SUBWIL111_00619_UNGUST_000_13	Si algo, ahora son <italic(1)>todavía más<italic(0)> miedosos que antes, con tantas desapariciones. Si no me crees, ve a hablar con ellos.
+TEXT_SUBWIL111_00619_UNGUST_000_20	La gente de por aquí está más miedosa que nunca, con tantas desapariciones. Si no me crees, ve a hablar con ellos.
+TEXT_SUBWIL111_00619_POVERTY1_000_30	¿¡Q-qué quieres de mí!? ¡N<-->no sé nada, lo juro! ¡Por favor, no me mates!
+TEXT_SUBWIL111_00619_POVERTY2_000_31	No tengo nada que decir, salvo esto: que Thal se lleve a quien ─ o lo <italic(1)>que<italic(0)> ─ se esté aprovechando de nosotros, la gente humilde.
+TEXT_SUBWIL111_00619_POVERTY3_000_32	P-por favor, <if(gnum4,señorita,señor)>, déjeme en paz...
+TEXT_SUBWIL111_00619_UNGUST_000_40	Tal como te dije, ¿no? Están todos aterrados. \<hipo>
+TEXT_SUBWIL111_00619_UNGUST_000_41	Se habla de gente secuestrada, pero si me preguntas, simplemente se fueron a un lugar mejor. Esto no es precisamente la Costa del Sol, no sé si me entiendes.
+TEXT_SUBWIL111_00619_ISEMBARD_000_50	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. ¿Averiguaste algo importante?
+TEXT_SUBWIL111_00619_ISEMBARD_000_51	Ya veo... Supongo que era de esperar con Ungust. Bueno, mientras no estabas se me ocurrió otra idea. Si algo tiene la gente humilde, es fervor religioso. Si les hablan con libertad a sus dioses, quizá el clero sepa algo útil.

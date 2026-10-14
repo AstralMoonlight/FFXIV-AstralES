@@ -1,0 +1,80 @@
+key	text
+TEXT_MANFST206_00509_SEQ_00	Momodi está lista para contarte lo que sabe de los Scions of the Seventh Dawn.
+TEXT_MANFST206_00509_SEQ_01	Según Momodi, los hombres y mujeres que se hacen llamar los Scions of the Seventh Dawn se dedican a proteger el futuro de Eorzea. Con tantos problemas que enfrenta el reino, siempre buscan gente capaz que se sume a su causa, y parece que tus hazañas recientes les llamaron la atención. Los Scions tienen su sede en un local llamado los Waking Sands, en Vesper Bay, en Western Thanalan. Ve allí y preséntate ante el guardia de la entrada.
+TEXT_MANFST206_00509_SEQ_02	En la entrada de los Waking Sands no encuentras a un guardia, sino a una Lalafell cantante llamada Tataru, que te avisa que la Antecedent te espera adentro. Avísale al portero cuando estés list<if(gnum4,a,o)> para que te haga pasar.
+TEXT_MANFST206_00509_SEQ_03	Conoces a Minfilia, la líder de los Scions of the Seventh Dawn, que te dice que cree que tu poder ─ el Echo ─ es la clave para resolver el problema de los primals que enfrenta Eorzea. Al final de una larga explicación, te ruega que le prestes tu fuerza a la causa de los Scions y te confía la contraseña de la orden: "wild rose".
+TEXT_MANFST206_00509_TODO_00	Ve a los Waking Sands, en Vesper Bay.
+TEXT_MANFST206_00509_TODO_01	Habla con el Scion of the Seventh Dawn.
+TEXT_MANFST206_00509_MOMODI_000_1	Así que quieres saber más, ¿eh? Vaya, qué <italic(1)>sorpresa<italic(0)>... Te juro que si pintara "MUERTE SEGURA" en una puerta y "RIQUEZA SIN LÍMITES" en otra, nueve de cada diez aventureros entrarían por la primera, y el otro no podría decidirse, por ser de Ul'dah. En fin, después no digas que no te avisé.
+TEXT_MANFST206_00509_MOMODI_000_2	Para empezar, si te preguntas si puedes confiar en esos "Scions of the Seventh Dawn", sí puedes. Es buena gente que se propuso resolver algunos de los problemas más urgentes de Eorzea. Claro que no es poca cosa, así que siempre buscan gente confiable que se les una ─ gente como <italic(1)>tú<italic(0)>, <split(<string(gstr1)>, ,1)>.
+TEXT_MANFST206_00509_MOMODI_000_3	Ahora, me dieron permiso para decirte dónde encontrar a los Scions, pero tienes que prometerme que te vas a guardar esta información. Como te imaginarás, es algo que a los enemigos de Eorzea les encantaría saber.
+TEXT_MANFST206_00509_MOMODI_000_4	Los Scions tienen su sede en Vesper Bay, en Western Thanalan. El lugar que buscas se llama los Waking Sands. Dile tu nombre a quien esté en la entrada y te dejarán pasar.
+TEXT_MANFST206_00509_MOMODI_000_5	Eres <if(gnum4,una mujer muy solicitada,un hombre muy solicitado)>, <split(<string(gstr1)>, ,1)>, y los días que vienen prometen ser movidos, pero espero que no te olvides <if([gnum70==1],de quienes te ayudaron a llegar hasta aquí,<if([gnum70==2],de quienes te ayudaron a llegar hasta aquí,<if([gnum70==3],de tu vieja amiga Momodi,de quienes te ayudaron a llegar hasta aquí)>)>)>. Pasa de vez en cuando a <if([gnum70==1],contarles,<if([gnum70==2],contarles,<if([gnum70==3],contarme,contarles)>)>)> cómo te va, ¿me oíste? Bueno, ya dije lo mío. En marcha.
+TEXT_MANFST206_00509_TATARU_000_20	En lo hondo del desierto de mi corazón,♪<br>una flor solitaria florece...♪
+TEXT_MANFST206_00509_TATARU_000_21	Anhela que los cielos de allá arriba♪<br>me calmen la sed de ti.♪
+TEXT_MANFST206_00509_TATARU_000_22	Trololololo～lololo～♪
+TEXT_MANFST206_00509_TATARU_000_23	¡Uaaah!
+TEXT_MANFST206_00509_TATARU_000_24	\<tos>
+TEXT_MANFST206_00509_TATARU_000_25	¡Te agradecería que no me sorprendieras así!
+TEXT_MANFST206_00509_TATARU_000_26	Bien, te informo que esto es propiedad privada. Si no tienes nada que hacer aquí, debo pedirte que─
+TEXT_MANFST206_00509_TATARU_000_27	¿¡Vienes de parte de Yda y Papalymo!?
+TEXT_MANFST206_00509_TATARU_000_28	¿¡Vienes de parte de Thancred!?
+TEXT_MANFST206_00509_TATARU_000_29	¿¡Vienes de parte de Y'shtola!?
+TEXT_MANFST206_00509_TATARU_000_30	¡Mil disculpas! ¿Me dices tu nombre, por favor?
+TEXT_MANFST206_00509_TATARU_000_31	<string(gstr1)>... <string(gstr1)>... Ah, aquí estás.
+TEXT_MANFST206_00509_TATARU_000_32	Mmm... ¿dónde oí tu nombre antes?
+TEXT_MANFST206_00509_TATARU_000_33	¿Nos...? ¿Nos conocemos?
+TEXT_MANFST206_00509_TATARU_000_34	¡Un momento! ¿No eras <if(gnum4,la mercadera turbia,el mercader turbio)> que el otro día intentó venderme imitaciones de artículos de Fen<-->Yll? ¿No? Entonces... ¿eres <if(gnum4,la vendedora insistente,el vendedor insistente)> que no dejaba en paz a Lady Minfilia y se ganó una bofetada por la molestia?
+TEXT_MANFST206_00509_TATARU_000_35	¿Tampoco? Bueno, ¡error mío!
+TEXT_MANFST206_00509_TATARU_000_36	<string(gstr1)>... <string(gstr1)>... Ah, aquí estás.
+TEXT_MANFST206_00509_TATARU_000_37	¡Ejem! ¡Te doy la bienvenida a los Waking Sands, sede de los Scions of the Seventh Dawn!
+TEXT_MANFST206_00509_TATARU_000_38	Me llamo Tataru, y espero poder ayudarte durante tu estadía con nosotros.
+TEXT_MANFST206_00509_TATARU_000_39	La Antecedent está en el solar. Le avisaré que vas para allá.
+TEXT_MANFST206_00509_TATARU_000_41	La Antecedent te espera abajo, en el solar. Puedes entrar cuando quieras.
+TEXT_MANFST206_00509_GUIDE_000_45	Supongo que es usted <string(gstr1)>. Tataru avisó que había llegado.
+TEXT_MANFST206_00509_GUIDE_000_46	Lady Minfilia esperaba con ansias su llegada. Por aquí, por favor.
+TEXT_MANFST206_00509_100010_MINFILIA	(-???-)Así que eres <if(gnum4,la aventurera,el aventurero)> de quien tanto oí hablar.
+TEXT_MANFST206_00509_100020_MINFILIA	Bienvenid<if(gnum4,a,o)>, amig<if(gnum4,a,o)>. Me llamo Minfilia, y dirijo a los Scions of the Seventh Dawn.
+TEXT_MANFST206_00509_100030_MINFILIA	Esperaba tu llegada.
+TEXT_MANFST206_00509_100040_MINFILIA	Después de cinco largos años... volviste con nosotros, tal como Louisoix dijo que harías...
+TEXT_MANFST206_00509_100050_MINFILIA	No hay palabras para describir la alegría que siento en este momento. Bienvenid<if(gnum4,a,o)> a casa.
+TEXT_MANFST206_00509_100060_MINFILIA	Sí, todavía te recuerdo, y todo aquello por lo que luchaste. Debes saber que no te olvidaron del todo.
+TEXT_MANFST206_00509_100070_MINFILIA	Si Louisoix nos está mirando, como prefiero creer, ahora puede descansar en paz: por fin cumplió su misión.
+TEXT_MANFST206_00509_100080_MINFILIA	Por favor, tranquil<if(gnum4,a,o)>. Aquí estás entre amigos.
+TEXT_MANFST206_00509_100090_MINFILIA	Seguro que te mueres de preguntas, pero ten paciencia: todo se revelará a su tiempo.
+TEXT_MANFST206_00509_100100_MINFILIA	Primero, déjame contarte quiénes somos y qué hacemos.
+TEXT_MANFST206_00509_100110_MINFILIA	Somos los Scions of the Seventh Dawn, una orden que trasciende las fronteras políticas. Nuestro único objetivo es preservar el futuro de Eorzea.
+TEXT_MANFST206_00509_100120_MINFILIA	Entre nuestras mayores preocupaciones están los seres casi divinos conocidos como primals.
+TEXT_MANFST206_00509_100130_MINFILIA	Su existencia es una plaga para Eorzea ─ no, para el mundo entero ─, y nos esforzamos por encontrar una solución duradera a la amenaza que representan.
+TEXT_MANFST206_00509_100140_MINFILIA	En nuestra orden hay varias personas que, como tú, poseen un talento especial y poco común.
+TEXT_MANFST206_00509_100150_MINFILIA	Ese talento toma distintas formas, pero una nos interesa en particular.
+TEXT_MANFST206_00509_100160_MINFILIA	Dime, ¿alguna vez perdiste el conocimiento de repente, sin explicación?
+TEXT_MANFST206_00509_100170_MINFILIA	¿Alguna vez sentiste que te arrancaban de la realidad? ¿Que flotabas en el vacío, una mente sin cuerpo?
+TEXT_MANFST206_00509_100180_MINFILIA	Todo eso son manifestaciones de tu talento. El tuyo es el poder de trascender los límites del alma: un poder conocido como el Echo.
+TEXT_MANFST206_00509_100190_MINFILIA	El Echo te permite atravesar los muros del alma de una persona y oír los ecos de su pasado.
+TEXT_MANFST206_00509_100200_MINFILIA	Estarás ahí, en sus recuerdos, y verás las cosas como las vio. Incluso puedes interactuar con lo que ves, aunque no puedes cambiar lo que pasó.
+TEXT_MANFST206_00509_100210_MINFILIA	Además, el Echo te permite conocer lo que piensa una persona aunque no entiendas sus palabras.
+TEXT_MANFST206_00509_100220_MINFILIA	En pocas palabras, el Echo es un poder verdaderamente extraordinario. Y ese poder es fuerte en ti.
+TEXT_MANFST206_00509_100230_MINFILIA	Lo único lamentable es que no podemos usarlo cuando queremos.
+TEXT_MANFST206_00509_100240_MINFILIA	Así es. Yo también tengo el Echo.
+TEXT_MANFST206_00509_100250_MINFILIA	Aclarado esto, volvamos al tema de los primals.
+TEXT_MANFST206_00509_100260_MINFILIA	Mientras existan, el reino no puede dar ni un solo paso hacia la verdadera paz.
+TEXT_MANFST206_00509_100270_MINFILIA	Hay que tomar medidas ─ medidas que trasciendan fronteras de bando, raza, idioma o credo. Y para eso, los Scions necesitan la ayuda de quienes tienen nuestro talento.
+TEXT_MANFST206_00509_100280_MINFILIA	No te equivoques: el Echo será fundamental para hacer frente a la amenaza de los primals. Sin él no podemos esperar salvar el reino.
+TEXT_MANFST206_00509_100290_MINFILIA	No sé qué es lo que deseas para ti, ni qué te trajo a Eorzea en un principio.
+TEXT_MANFST206_00509_100300_MINFILIA	Pero creo firmemente que el poder que tenemos nos fue dado con un propósito.
+TEXT_MANFST206_00509_100310_MINFILIA	¿Por qué otra razón los dioses le confiarían al hombre un don tan extraordinario, si no para que lo use?
+TEXT_MANFST206_00509_100320_MINFILIA	Así que te lo ruego: préstanos tu poder.
+TEXT_MANFST206_00509_MINFILIA_000_50	Por supuesto, tu ayuda no quedará sin recompensa. Tenemos la suerte de contar con varios aliados influyentes, y con una palabra mía te concederán con gusto ciertos privilegios que de otro modo se te negarían.
+TEXT_MANFST206_00509_MINFILIA_000_51	El derecho a tener retainers, por ejemplo. ¿Sabes qué son? Son personas en las que puedes confiar para que administren tus bienes y pertenencias en tu nombre.
+TEXT_MANFST206_00509_TATARU_000_52	Los papeles que pidió, mi señora.
+TEXT_MANFST206_00509_MINFILIA_000_53	Gracias, Tataru.
+TEXT_MANFST206_00509_TATARU_000_54	¡El placer es mío, mi señora!
+TEXT_MANFST206_00509_MINFILIA_000_55	Como regalo de bienvenida, me tomé la libertad de agregar tu nombre al registro de retainers. Desde ahora puedes contratar los servicios de un retainer.
+TEXT_MANFST206_00509_MINFILIA_000_56	Tendrás que consultar a un retainer vocate por los detalles, pero créeme cuando te digo que los retainers te serán de un valor incalculable en tus aventuras.
+TEXT_MANFST206_00509_MINFILIA_000_57	Que este gesto sirva de prueba de nuestro compromiso de hacer todo lo posible por facilitar tus objetivos personales.
+TEXT_MANFST206_00509_MINFILIA_000_58	A cambio, te pedimos que nos ayudes con todo tu talento.
+TEXT_MANFST206_00509_MINFILIA_000_59	Una relación de beneficio mutuo, estarás de acuerdo, y que además sirve al bien común.
+TEXT_MANFST206_00509_MINFILIA_000_60	Bueno, eso fue toda una clase magistral, ¿no? Perdóname, pero es importante que todos sepan lo que se espera de ellos. Ahora que conoces nuestro propósito y lo que podemos ofrecerte, te invito a pensar en unirte a nosotros. Cuando tomes una decisión, puedes decírmela sin miedo a que te juzgue.
+TEXT_MANFST206_00509_MINFILIA_000_61	Como muestra de buena fe, te confío la contraseña de nuestra orden, que los miembros usan para comunicarse entre sí cuando están lejos.
+TEXT_MANFST206_00509_MINFILIA_000_62	Es "wild rose". Guárdala bien.

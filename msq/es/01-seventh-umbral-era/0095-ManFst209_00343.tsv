@@ -1,0 +1,180 @@
+key	text
+TEXT_MANFST209_00343_SEQ_00	Minfilia quiere que ayudes a los Immortal Flames.
+TEXT_MANFST209_00343_SEQ_01	Para averiguar el paradero de los secuestrados, los Immortal Flames idearon un plan para capturar Amalj'aa usando como cebo al falso sacerdote Ungust. Minfilia te pide que participes en la operación en representación de los Scions. Ve a Camp Drybone y reúnete con los Flames.
+TEXT_MANFST209_00343_SEQ_02	Te pusieron al tanto de los detalles de la operación. Los Flames esperan que los Amalj'aa opongan una resistencia feroz, y te piden que te prepares como corresponde. Cuando estés list<if(gnum4,a,o)>, ve a la Invisible City y espera emboscad<if(gnum4,a,o)> en el lugar indicado.
+TEXT_MANFST209_00343_SEQ_03	Apenas rodean al enemigo, descubres que hay un traidor en las filas, y te reducen enseguida. No sabes cuánto tiempo después, despiertas preso en una fortaleza amalj'aa, junto con los Flames. Habla con ellos para entender la situación.
+TEXT_MANFST209_00343_SEQ_04	Parece que los Amalj'aa pretenden ofrecerte a ti y a tus compañeros como ofrenda a su primal, Ifrit. Si hay que terminar, que sea con el arma en la mano. Espera el momento justo y contraataca a los hombres bestia.<br><br>※Enfrenta el Bowl of Embers con otros jugadores mediante el Duty Finder, o con un grupo de NPC mediante el Duty Support. Ambos sistemas se abren desde el menú principal y desde la entrada del trial.
+TEXT_MANFST209_00343_SEQ_05	Parece que Ifrit tiene el poder de someter a los mortales a su voluntad, pero por razones todavía desconocidas eres inmune a su influencia. Como no logra convertirte en su esbirro, Ifrit decide exterminarte, y termina superado. Cómo encontraste fuerzas para resistir a un ser casi divino es una pregunta para otro momento. Por ahora, vuelve a Camp Drybone y habla con Thancred.
+TEXT_MANFST209_00343_SEQ_06	Después de colmarte de elogios, Thancred se despide para volver a los Waking Sands. Minfilia también estará ansiosa por saber de ti. Infórmale en cuanto puedas.
+TEXT_MANFST209_00343_SEQ_07	En los Waking Sands, Minfilia y Thancred se turnan para abrumarte con información y te explican cómo el robo de cristales y los secuestros sirvieron a la causa de Ifrit. Luego Thancred te revela una verdad inquietante: para impedir que el primal gane fuerza, sus víctimas "templadas" deben morir. Aunque esta revelación ensombrece tu victoria, te sientes más decidid<if(gnum4,a,o)> que nunca a cumplir tu papel como Scion.
+TEXT_MANFST209_00343_TODO_00	Preséntate ante el sargento de los Flames en Camp Drybone.
+TEXT_MANFST209_00343_TODO_01	Espera emboscad<if(gnum4,a,o)> en la Invisible City.
+TEXT_MANFST209_00343_TODO_02	Habla con el sargento de los Flames.
+TEXT_MANFST209_00343_TODO_03	Enfrenta a Ifrit en el Bowl of Embers.
+TEXT_MANFST209_00343_TODO_04	Habla con Thancred en Camp Drybone.
+TEXT_MANFST209_00343_TODO_05	Informa al Scion of the Seventh Dawn en los Waking Sands.
+TEXT_MANFST209_00343_MINFILIA_000_00	Llegaron noticias de Thancred sobre nuestra investigación.
+TEXT_MANFST209_00343_MINFILIA_000_01	Parece que logró sacarle algo de información a nuestro amigo Ungust, el falso sacerdote.
+TEXT_MANFST209_00343_MINFILIA_000_02	Reveló que tiene una reunión con los Amalj'aa para hablar de sus negocios.
+TEXT_MANFST209_00343_MINFILIA_000_03	Los Immortal Flames creen que la reunión es la ocasión ideal para tenderles una emboscada a los Amalj'aa responsables de los secuestros y capturarlos, así que piensan hacer que Ungust vaya como estaba previsto.
+TEXT_MANFST209_00343_MINFILIA_000_04	Como se espera que los Amalj'aa opongan una resistencia feroz, los Immortal Flames pidieron nuestro apoyo.
+TEXT_MANFST209_00343_MINFILIA_000_05	Quiero que se lo des tú, <split(<string(gstr1)>, ,1)>. Thancred está ocupado con otro asunto, pero se te unirá en cuanto pueda. Hasta entonces, serás la única persona que represente a los Scions en el terreno.
+TEXT_MANFST209_00343_MINFILIA_000_06	Antes de irse, me pidió que te dijera que "le dejes algo para él". Así de grande es su confianza en ti... una confianza que comparto.
+TEXT_MANFST209_00343_MINFILIA_000_07	Cuando estés list<if(gnum4,a,o)>, te ruego que vayas a Camp Drybone y te presentes ante el sargento de los Flames que dirige la misión. Que camines bajo la luz del Cristal.
+TEXT_MANFST209_00343_FLAMESGT_000_10	Ah, ¿tú eres <string(gstr1)>, de los Scions? Gracias por venir, amig<if(gnum4,a,o)>. Con tu ayuda somos más fuertes.
+TEXT_MANFST209_00343_FLAMESGT_000_11	Déjame ponerte al tanto de la misión. Nuestro objetivo es capturar Amalj'aa y sacarles el paradero de los secuestrados.
+TEXT_MANFST209_00343_FLAMESGT_000_12	Los hombres lagarto no saben que su hombre, Ungust, fue descubierto. Cuando vengan al punto de encuentro a reunirse con el traidor, cerraremos la trampa.
+TEXT_MANFST209_00343_FLAMESGT_000_13	Como la misión es secreta, solo podemos desplegar un contingente pequeño. Cada miembro cuenta, y por eso pedimos la ayuda de los Scions.
+TEXT_MANFST209_00343_FLAMESGT_000_14	El encuentro será en la Invisible City. Por favor, ve allá y espera emboscad<if(gnum4,a,o)>.
+TEXT_MANFST209_00343_FLAMESGT_000_15	Si la misión sale bien, podemos averiguar muchísimo del plan de los Amalj'aa, <split(<string(gstr1)>, ,1)>. Asegurémonos de que salga bien.
+TEXT_MANFST209_00343_FLAMESGT_000_20	Si la misión sale bien, podemos averiguar muchísimo del plan de los Amalj'aa, <split(<string(gstr1)>, ,1)>. Asegurémonos de que salga bien.
+TEXT_MANFST209_00343_Q1_000_1	El deber llama. ¿Quieres comenzar<br>"Lord of the Inferno"?
+TEXT_MANFST209_00343_A1_000_1	Sí
+TEXT_MANFST209_00343_A1_000_2	No
+TEXT_MANFST209_00343_FLAMESGT_000_40	¿El cebo está en su lugar?
+TEXT_MANFST209_00343_FLAMEPRIVATE_000_41	Nuestro hombre está en posición, señor.
+TEXT_MANFST209_00343_FLAMESGT_000_42	Bien. Nos movemos en cuanto aparezcan los Amalj'aa.
+TEXT_MANFST209_00343_FLAMEPRIVATE_000_43	¡Sí, señor!
+TEXT_MANFST209_00343_TRAFFICKER_000_44	(-Ungust-)¡Uaaah!
+TEXT_MANFST209_00343_AMALJAA_000_45	¿¡Qué significa esto!?
+TEXT_MANFST209_00343_FLAMEPRIVATE_000_46	Un momento. Algo anda mal...
+TEXT_MANFST209_00343_TRAFFICKER_000_47	(-Ungust-)Ji, ji, ji...
+TEXT_MANFST209_00343_FLAMETRAITOR_000_48	¡Ja, ja, ja, ja, ja!
+TEXT_MANFST209_00343_FLAMETRAITOR_000_49	¡Me temo que su emboscadita termina aquí!
+TEXT_MANFST209_00343_TRAFFICKER_000_50	(-Ungust-)Esquivé a los Immortal Flames durante <italic(1)>lunas<italic(0)> antes de que por fin me atraparan. ¿No se preguntaron cómo lo lograba?
+TEXT_MANFST209_00343_FLAMETRAITOR_000_51	¡Casi como si alguien le pasara información desde adentro! ¡Ja, ja, ja!
+TEXT_MANFST209_00343_TRAFFICKER_000_52	(-Ungust-)¡Sí, sabía cada uno de sus movimientos de antemano! ¡Ji, ji, ji!
+TEXT_MANFST209_00343_TRAFFICKER_000_53	(-Ungust-)Bueno, aunque me encantaría charlar un rato, tengo compromisos.
+TEXT_MANFST209_00343_FLAMETRAITOR_000_54	¡Son todos suyos!
+TEXT_MANFST209_00343_FLAMETRAITOR_000_60	¡Baja el arma, o tu compañero es hombre muerto!
+TEXT_MANFST209_00343_FLAMEPRIVATE_000_61	¡Detrás de ti!
+TEXT_MANFST209_00343_TRAFFICKER_000_62	(-Ungust-)Tráiganl<if(gnum4,a,o)>.
+TEXT_MANFST209_00343_FLAMETRAITOR_000_63	¡Los demás, en marcha!
+TEXT_MANFST209_00343_FLAMESGT_000_64	Traidor de porquería...
+TEXT_MANFST209_00343_FLAMESGT_000_67	Me temo que los Amalj'aa piensan entregarnos a su dios como ofrenda. Si tengo que morir, que sea como soldado: ¡con el acero en la mano!
+TEXT_MANFST209_00343_FLAMEPRIVATE_000_70	Los hombres lagarto nos trajeron a su fortaleza.
+TEXT_MANFST209_00343_FLAMEPRIVATE_000_71	Están preparando algo... y yo, por lo menos, <italic(1)>no<italic(0)> quiero estar aquí cuando terminen.
+TEXT_MANFST209_00343_FLAMESGT_000_72	Maldita sea... ¡Un traidor en los Flames! ¿Qué fue de nosotros...?
+TEXT_MANFST209_00343_FLAMESGT_000_73	Lamento que te arrastraran a esto. Si supiera juzgar mejor a la gente, no estaríamos en este lío...
+TEXT_MANFST209_00343_FLAMEPRIVATE2_000_74	Nos van a matar, ¿no? ¡Dioses, no quiero morir! ¡Quiero volver a casa! \<llanto>
+TEXT_MANFST209_00343_AMALJA_000_75	¡Alégrense, paganos, que sus vidas sin valor pronto tendrán sentido!
+TEXT_MANFST209_00343_ADALA_000_085	\<jadeo> ¿¡Vas a ir a rescatar a nuestros compañeros!?
+TEXT_MANFST209_00343_Q3_000_086	¿Rescatar a sus compañeros?
+TEXT_MANFST209_00343_A3_000_087	Sí
+TEXT_MANFST209_00343_A3_000_088	No
+TEXT_MANFST209_00343_SYSTEM_000_80	Estás por ser transportad<if(gnum4,a,o)> al área de batalla de la misión "Lord of the Inferno". Es una medida provisional para la fase 3 de la prueba beta.\\Solo beta 3
+TEXT_MANFST209_00343_Q2_000_1	¿Ir al área de batalla?\\Solo beta 3
+TEXT_MANFST209_00343_A2_000_1	Sí\\Solo beta 3
+TEXT_MANFST209_00343_A2_000_2	No\\Solo beta 3
+TEXT_MANFST209_00343_AMALJAA_000_90	(-Fanáticos amalj'aa-)¡Lord of the Inferno, escucha nuestra súplica!<br>¡Lord of the Inferno, líbranos de nuestra miseria!
+TEXT_MANFST209_00343_TEMUGGZOH_000_91	¡Oh, poderoso Ifrit, Lord of the Inferno!
+TEXT_MANFST209_00343_TEMUGGZOH_000_92	¡Tus humildes siervos Te imploran! ¡Concédenos Tu divina presencia!
+TEXT_MANFST209_00343_TEMUGGZOH_000_93	¡Oh, poderoso Ifrit! ¡Te traemos salvajes ignorantes que no conocen Tu divinidad!
+TEXT_MANFST209_00343_TEMUGGZOH_000_94	¡Si Te place, Señor, abrasa sus almas paganas con Tu llama purificadora y márcalos como Tuyos!
+TEXT_MANFST209_00343_FLAMESGT_000_95	P-por todos los infiernos...
+TEXT_MANFST209_00343_AMALJAA_000_96	¡Traigan también a esos dos!
+TEXT_MANFST209_00343_TRAFFICKER_000_97	(-Ungust-)Unnngh...
+TEXT_MANFST209_00343_FLAMETRAITOR_000_98	¿¡Q-qué pasa!? ¡E-esto no es lo que acordamos!
+TEXT_MANFST209_00343_AMALJAA_000_99	Solo los siervos de Lord Ifrit pueden presenciar el rito de invocación. ¡Las almas de los infieles están perdidas!
+TEXT_MANFST209_00343_TRAFFICKER_000_100	(-Ungust-)¡Nooo! ¡Perdónenme, se los ruego!
+TEXT_MANFST209_00343_IFRIT_000_101	¡Lastimosos hijos del hombre! ¡Con mi aliento os reclamo!
+TEXT_MANFST209_00343_IFRIT_000_102	¡Levantaos de nuevo como mis leales esbirros! ¡Alimentad mis llamas con vuestra fe, y todos los que se nos opongan arderán!
+TEXT_MANFST209_00343_FLAMESGT_000_103	Oh, poderoso Ifrit...
+TEXT_MANFST209_00343_FLAMEPRIVATE_000_104	Mi único dios verdadero...
+TEXT_MANFST209_00343_FLAMETRAITOR_000_105	Tus palabras son mi pan...
+TEXT_MANFST209_00343_TEMUGGZOH_000_106	¡Imposible! ¿¡Con qué hechicería resistes la voluntad de mi amo!?
+TEXT_MANFST209_00343_TEMUGGZOH_000_107	¿Será que...?
+TEXT_MANFST209_00343_TEMUGGZOH_000_108	¿¡Tu alma ya pertenece a otro!? ¡Sí, es la única explicación!
+TEXT_MANFST209_00343_IFRIT_000_109	En verdad, vuestro frágil cuerpo mortal solo puede ser recipiente de la bendición de Uno.
+TEXT_MANFST209_00343_IFRIT_000_110	Mas no huelo en vos la mancha de otro...
+TEXT_MANFST209_00343_IFRIT_000_111	La verdad de vuestra lealtad se aclara: sois de los bendecidos sin dios.
+TEXT_MANFST209_00343_IFRIT_000_112	Los Paragons advirtieron de vuestra abominable especie. Vuestra existencia no ha de tolerarse.
+TEXT_MANFST209_00343_IFRIT_BATTLETALK_20	¡Mis llamas consumirán vuestra carne y vuestra alma!
+TEXT_MANFST209_00343_IFRIT_BATTLETALK_21	¡Sucumbid al Inferno!
+TEXT_MANFST209_00343_IFRIT_BATTLETALK_22	¡Entregaos a los fuegos del juicio!
+TEXT_MANFST209_00343_IFRIT_BATTLETALK_23	¡Vuestra alma arderá por toda la eternidad!
+TEXT_MANFST209_00343_IFRIT_BATTLETALK_24	¡Sois fuerte, mortal!
+TEXT_MANFST209_00343_IFRIT_BATTLETALK_25	Tantas energías he gastado... y aun así la bendición de la Luz os protege <italic(1)>todavía<italic(0)>...
+TEXT_MANFST209_00343_THANCRED_000_120	¡Perdonen la demora!
+TEXT_MANFST209_00343_THANCRED_000_121	Me retrasó una congregación de fanáticos amalj'aa. Juro que cada uno parecía más evangelizador que el anterior.
+TEXT_MANFST209_00343_THANCRED_000_122	¡Hmph! ¡Qué insistentes!
+TEXT_MANFST209_00343_THANCRED_000_123	Uf...
+TEXT_MANFST209_00343_THANCRED_000_124	Veo que los Bloodsworn no perdieron tiempo en sacar a los cautivos. No esperaba menos de los hombres elegidos a dedo por el Flame General.
+TEXT_MANFST209_00343_THANCRED_000_125	En cuanto a esos dos... digamos que sus penurias recién empiezan. Tienen <italic(1)>mucho<italic(0)> de qué responder.
+TEXT_MANFST209_00343_THANCRED_000_126	Siento que te debo una disculpa, <split(<string(gstr1)>, ,1)>. Si hubiera sabido que esta misión sería tan peligrosa, nunca te habría dejado enfrentarla sol<if(gnum4,a,o)>. Tuviste un verdadero bautismo de fuego.
+TEXT_MANFST209_00343_THANCRED_000_127	Pero sigamos esta conversación en un lugar más agradable. ¿Camp Drybone, digamos?
+TEXT_MANFST209_00343_FLAMESOLDIER_000_128	¡Por aquí, señor!
+TEXT_MANFST209_00343_NERO_000_129	Así que <italic(1)>ese<italic(0)> era el poderoso Ifrit...
+TEXT_MANFST209_00343_NERO_000_130	Y qué decepción resultó. Las lecturas no se acercan ni de lejos a lo que esperaba, aun teniendo en cuenta la interferencia ul'dahna.
+TEXT_MANFST209_00343_LIVIA_000_131	(-???-)Deberías saber que no hay que confiar en datos de hace cinco años que dejó la VIIth Legion.
+TEXT_MANFST209_00343_LIVIA_000_132	(-???-)Tampoco podemos esperar ningún tipo de apoyo de la patria, con los problemas que hay en la corte. Solo podemos confiar en nosotros mismos.
+TEXT_MANFST209_00343_NERO_000_133	Siempre tan pesimista, mi querida Livia. Prométeme que nunca vas a cambiar.
+TEXT_MANFST209_00343_LIVIA_000_134	Ya perdimos bastante tiempo aquí. Ese medidor tuyo es demasiado viejo para dar una lectura que valga algo.
+TEXT_MANFST209_00343_NERO_000_135	No es que hubiera nada que valiera la pena leer... pero entiendo lo que dices. Supongo que tendremos que conformarnos con saber que cumplimos nuestro objetivo principal.
+TEXT_MANFST209_00343_NERO_000_136	Aun así, me inquieta esa inesperada demostración de fuerza de <if(gnum4,esa aventurera,ese aventurero)>. ¿Podría un enemigo así ser un obstáculo para nuestros planes?
+TEXT_MANFST209_00343_LIVIA_000_137	Quizá, pero eso es para pensarlo en otro momento.
+TEXT_MANFST209_00343_LIVIA_000_138	Te dieron una tarea. <italic(1)>Esa<italic(0)> es tu prioridad. Te sugiero que la trates como tal.
+TEXT_MANFST209_00343_LIVIA_000_140	Si no haces lo que ordena mi señor...
+TEXT_MANFST209_00343_LIVIA_000_141	...le ahorraré la molestia de castigarte.
+TEXT_MANFST209_00343_NERO_000_142	Con aliados así...
+TEXT_MANFST209_00343_NERO_000_143	Cuidado con una mujer enamorada. Tendré que portarme de lo mejor.
+TEXT_MANFST209_00343_THANCRED_000_150	Ah, ahí estás, <split(<string(gstr1)>, ,1)>. Ven, descansa un rato: no vas a tener mejor oportunidad. Después de ver la humillante derrota de su dios, los Amalj'aa tendrán menos ganas de arriesgarse a nuestra ira... por un tiempo, al menos.
+TEXT_MANFST209_00343_THANCRED_000_151	Bueno, ¿dónde estábamos? Ah, sí, te estaba pidiendo disculpas. Espero que puedas perdonarme. Llegué demasiado tarde para servir de algo... a ti <italic(1)>o<italic(0)> a los secuestrados.
+TEXT_MANFST209_00343_THANCRED_000_152	Puede que estén enteros de cuerpo, pero no se puede decir lo mismo de su mente. Porque una vez que alguien queda templado...
+TEXT_MANFST209_00343_THANCRED_000_153	Ah, pero no me sienta bien quedarme en lo negativo. En medio de tantas desgracias, todavía hay motivo para alegrarse. ¡Ifrit está muerto, y por <italic(1)>tu<italic(0)> mano, nada menos!
+TEXT_MANFST209_00343_THANCRED_000_154	Esa no es la hazaña de cualquiera, <split(<string(gstr1)>, ,1)>. No es que alguna vez te creyera del montón. Al contrario, hace tiempo que sospecho que tienes el potencial de forjar el destino de este reino. ¿Qué te puedo decir? Mi buen ojo para el talento sigue intacto.
+TEXT_MANFST209_00343_THANCRED_000_155	Minfilia va a estar orgullosísima cuando se entere de tus hazañas. Confío en que no te moleste que sea yo quien le dé la noticia. Así puedo decir que aporté <italic(1)>algo<italic(0)> a esta misión.
+TEXT_MANFST209_00343_THANCRED_000_156	Tú, mientras tanto, te ganaste un descanso. Tómate un tiempo para relajarte, y vuelve a los Waking Sands cuando te sientas bien. Ahí podemos hablar con más detalle. Pero no tardes <italic(1)>demasiado<italic(0)>, ¿eh? Los problemas del reino no se resuelven solos.
+TEXT_MANFST209_00343_GUIDE_000_160	¡Ah, vuelve <if(gnum4,la heroína triunfante,el héroe triunfante)>!
+TEXT_MANFST209_00343_GUIDE_000_161	Thancred nos contó la noticia al llegar. Ahora está en el solar, dándole un informe completo a Lady Minfilia.
+TEXT_MANFST209_00343_GUIDE_000_162	Debería ir con ellos enseguida. Lady Minfilia está muy ansiosa por verl<if(gnum4,a,o)>.
+TEXT_MANFST209_00343_THANCRED_000_170	...Mi demora casi le cuesta la vida a <split(<string(gstr1)>, ,1)>. No estaba ahí cuando los Amalj'aa <if(gnum4,la,lo)> tomaron prisioner<if(gnum4,a,o)>...
+TEXT_MANFST209_00343_THANCRED_000_171	Y no estaba ahí cuando <if(gnum4,la,lo)> ofrecieron a Ifrit...
+TEXT_MANFST209_00343_THANCRED_000_172	Sí, por algún milagro sobrevivió... pero eso no quita que <italic(1)>nunca<italic(0)> debería haber tenido que enfrentar esos peligros sol<if(gnum4,a,o)>. <if(gnum4,La,Lo)> defraudé por completo.
+TEXT_MANFST209_00343_THANCRED_000_173	Igual que los estoy defraudando a todos...
+TEXT_MANFST209_00343_MINFILIA_000_174	Lo hecho, hecho está, Thancred. No puedes culparte por cada─
+TEXT_MANFST209_00343_MINFILIA_000_175	¡<split(<string(gstr1)>, ,1)>! ¡Qué alegría verte otra vez!
+TEXT_MANFST209_00343_THANCRED_000_176	Llegas justo a tiempo, amig<if(gnum4,a,o)>. Acababa de contarle a Minfilia tus hazañas heroicas.
+TEXT_MANFST209_00343_MINFILIA_000_177	Thancred me contó todo. Hiciste bien en volver con nosotros.
+TEXT_MANFST209_00343_THANCRED_000_178	Los peligros que enfrentaste fueron sin duda enormes, pero una parte de mí cree que no tenía por qué temer. Y ahora podemos dar por terminada nuestra larga investigación.
+TEXT_MANFST209_00343_THANCRED_000_179	Tal como sospechábamos, los Amalj'aa cometieron el robo y los secuestros con el fin de invocar a su primal, Ifrit.
+TEXT_MANFST209_00343_MINFILIA_000_180	Y esta historia no se limita a Ul'dah. Últimamente hubo incidentes parecidos tanto en Limsa Lominsa como en Gridania.
+TEXT_MANFST209_00343_THANCRED_000_181	Me atrevo a decir que te preguntaste qué tienen que ver estos crímenes con los primals. Permíteme explicarte.
+TEXT_MANFST209_00343_THANCRED_000_182	Una vez que se manifiestan en el mundo físico, los primals tienen que consumir aether para mantener su presencia aquí. Y cuanto más fuertes se vuelven, más aether necesitan.
+TEXT_MANFST209_00343_THANCRED_000_183	Ahora bien, el aether existe en toda la creación. Fluye por toda la vida e impregna el mismo aire que respiramos.
+TEXT_MANFST209_00343_THANCRED_000_184	Por desgracia, eso solo no basta para sostener a alguien como Ifrit. No, él y los de su clase necesitan una fuente de aether más concentrada: los cristales.
+TEXT_MANFST209_00343_MINFILIA_000_185	Por eso, los incidentes que involucran cristales muchas veces llevan hasta un primal.
+TEXT_MANFST209_00343_THANCRED_000_186	Lo que nos deja el porqué de los secuestros. Para entenderlo, primero tienes que entender cómo nacen los primals.
+TEXT_MANFST209_00343_THANCRED_000_187	Cuando todo anda bien en el mundo, los primals no tienen forma física. Su esencia está dispersa por el gran río del aether.
+TEXT_MANFST209_00343_MINFILIA_000_188	Pero cuando el mundo se hunde en el caos, quienes adoran a los primals claman a sus dioses para que los libren del sufrimiento.
+TEXT_MANFST209_00343_MINFILIA_000_189	Esos clamores sirven de faro hacia el que la esencia de un primal se ve atraída sin remedio. Es esta reunión ─ o "coalescencia aetherial" ─ la que les da forma física a estos seres.
+TEXT_MANFST209_00343_MINFILIA_000_190	Una vez nacido, un primal gana fuerza con la adoración de sus fieles. Cuantos más y más fervientes sean, más poderoso se vuelve su dios.
+TEXT_MANFST209_00343_THANCRED_000_191	Pero los primals rara vez se conforman con la reverencia que sus fieles les dan por voluntad propia, y para ganar más poder no tienen reparos en <italic(1)>crear<italic(0)> seguidores. Lo hacen "templando" a los mortales: un proceso al que tú también te viste sometid<if(gnum4,a,o)>.
+TEXT_MANFST209_00343_MINFILIA_000_192	Pero aun cuando Ifrit sometió a tus compañeros, solo tú no te viste afectad<if(gnum4,a,o)>. Eso es gracias al poder que tienes: el Echo.
+TEXT_MANFST209_00343_MINFILIA_000_193	No sabemos por qué, pero quienes tienen el Echo son inmunes a la influencia de los primals.
+TEXT_MANFST209_00343_MINFILIA_000_194	Es como si un poder mayor nos protegiera...
+TEXT_MANFST209_00343_MINFILIA_000_195	Cuando llegaste a nosotros, te dije que el Echo sería fundamental para hacer frente a la amenaza de los primals. Confío en que ahora empiezas a entender por qué.
+TEXT_MANFST209_00343_THANCRED_000_196	Todos los incidentes recientes tienen algo en común: una planificación meticulosa. Unos planes tan elaborados son algo nuevo, y me llenan de un mal presentimiento que no puedo sacudirme.
+TEXT_MANFST209_00343_MINFILIA_000_197	Aunque comparto tu preocupación, lo que más siento es alivio por que hayas vuelto a salvo.
+TEXT_MANFST209_00343_MINFILIA_000_198	Ah, los Immortal Flames me aseguraron que se ocuparán de las consecuencias, así que no tienes que preocuparte por eso. Podemos descansar tranquilos por un tiempo.
+TEXT_MANFST209_00343_MINFILIA_000_199	Te sugiero que aproveches bien este respiro, <split(<string(gstr1)>, ,1)>.
+TEXT_MANFST209_00343_MINFILIA_000_200	Puedes estar segur<if(gnum4,a,o)> de que no va a durar mucho. ¡Cuando la gente se entere de quién derribó a Ifrit, me temo que no vas a tener ni un momento para ti!
+TEXT_MANFST209_00343_THANCRED_000_201	Con intención o sin ella, Minfilia se olvidó de contarte algo... algo que creo que es mejor que oigas de uno de nosotros.
+TEXT_MANFST209_00343_THANCRED_000_202	Es sobre los secuestrados templados que rescataron... Lamento informarte que van a ejecutarlos a todos, incluidos los Flames con los que estuviste pres<if(gnum4,a,o)>. Ni hace falta decir que esto no se le puede contar a la gente.
+TEXT_MANFST209_00343_THANCRED_000_203	Te juro que no lo haríamos si hubiera cualquier otra salida... pero una vez que alguien queda templado, queda templado de por vida. Su sola existencia le da fuerza al primal al que no puede evitar adorar.
+TEXT_MANFST209_00343_THANCRED_000_204	Y por eso los Scions seguimos luchando: para que no tengan que sacrificarse más inocentes. Espero que sigas a nuestro lado, <split(<string(gstr1)>, ,1)>.
+TEXT_MANFST209_00343_THANCRED_000_205	Pero debo irme. Tengo que disculparme con el Flame General por las pérdidas que sufrió su gente. ¡Hasta la próxima!
+TEXT_MANFST209_00343_THANCRED_000_206	Que los dioses me perdonen... ¿Cuántas vidas más...? Louisoix <italic(1)>jamás<italic(0)> habría permitido que esto pasara.
+TEXT_MANFST209_00343_THANCRED_000_207	Tengo que hacerlo mejor... Tengo que ser más <italic(1)>fuerte<italic(0)>...
+TEXT_MANFST209_00343_QIB_TODO_001	¡Derrota a los Amalj'aa!
+TEXT_MANFST209_00343_QIB_UNGUST_BATTLETALK_START	¡Ji, ji! ¡Nuestros amigos amalj'aa les harán compañía!
+TEXT_MANFST209_00343_FLAMESGT_BATTLETALK	¡Traidores de porquería! Cuando les ponga las manos encima...
+TEXT_MANFST209_00343_QIB_UNGUST_BATTLETALK_002	¡Ji, ji! ¿Cuánto aguantarán, me pregunto?
+TEXT_MANFST209_00343_FLAMESGT_BATTLETALK_002	¡Otra oleada! ¡Atentos, muchachos!
+TEXT_MANFST209_00343_FLAMESGT_BATTLETALK_003	¡Maldita sea! ¿¡Es que no se acaban nunca!?
+TEXT_MANFST209_00343_QIB_UNGUST_BATTLETALK_003	¡Ji, ji! ¡El espectáculo recién empieza!
+TEXT_MANFST209_00343_THM_DEAD	A-aquí no... así no...
+TEXT_MANFST209_00343_PGL_DEAD	¡Aaargh!
+TEXT_MANFST209_00343_GLA_DEAD	Díganle a mi hija... que la quiero...
+TEXT_MANFST209_00343_FLAMESGT_BATTLETALK_HP50	¡No podemos rendirnos!
+TEXT_MANFST209_00343_FLAMESGT_BATTLETALK_DEAD	Dioses, tengan piedad...

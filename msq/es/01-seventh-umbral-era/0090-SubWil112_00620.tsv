@@ -1,0 +1,39 @@
+key	text
+TEXT_SUBWIL112_00620_SEQ_00	Isembard quiere que averigües lo que puedas del clero.
+TEXT_SUBWIL112_00620_SEQ_01	Isembard te pidió que vayas a la Church of Saint Adama Landama a enterrar un cadáver que preparó para la sepultura, y que les preguntes a los sacerdotes por la gente desaparecida. Busca a Marques en el camposanto.
+TEXT_SUBWIL112_00620_SEQ_02	Marques te indicó una tumba vacía en lo alto de la loma cercana. Lleva el cadáver embalsamado hasta la tumba.
+TEXT_SUBWIL112_00620_SEQ_03	Dejaste con cuidado el cuerpo embalsamado al pie de la tumba. Cumple un último deber con el difunto y dale una sepultura digna.
+TEXT_SUBWIL112_00620_SEQ_04	Enterraste al difunto como te pidió Isembard. Vuelve con Marques y avísale que ya está hecho.
+TEXT_SUBWIL112_00620_SEQ_05	Marques admite que sabe poco de la gente humilde. Te sugiere hablar con la Sister Ourcen dentro de la iglesia.
+TEXT_SUBWIL112_00620_SEQ_06	La Sister Ourcen te cuenta que, aunque la gente le confía muchas cosas, no oyó nada que pueda ayudar a tu investigación. Vuelve a Camp Drybone y habla otra vez con Isembard.
+TEXT_SUBWIL112_00620_SEQ_07	Cuando vuelves con Isembard a Camp Drybone, el siempre elegante Thancred aparece a recibirte. Para disgusto de Isembard, sospecha que la única persona capaz de tomar por sorpresa a una gente tan desconfiada es la mismísima Sister Ourcen, que escucha sus confesiones. Isembard, sin embargo, no se deja convencer tan fácil.
+TEXT_SUBWIL112_00620_TODO_00	Habla con Marques afuera de la Church of Saint Adama Landama.
+TEXT_SUBWIL112_00620_TODO_01	Deja el cadáver embalsamado junto a la tumba.
+TEXT_SUBWIL112_00620_TODO_02	Entierra el cadáver embalsamado.
+TEXT_SUBWIL112_00620_TODO_03	Vuelve con Marques.
+TEXT_SUBWIL112_00620_TODO_04	Habla con la Sister Ourcen.
+TEXT_SUBWIL112_00620_TODO_05	Habla con Isembard en Camp Drybone.
+TEXT_SUBWIL112_00620_ISEMBARD_000_1	Si queremos saber de qué les habla la gente a sus dioses, no hay mejor lugar para preguntar que la Church of Saint Adama Landama. Es una iglesia pequeña y humilde, al noroeste de aquí.
+TEXT_SUBWIL112_00620_ISEMBARD_000_2	Y ya que vas para allá... ¿podría pedirte que lleves este cadáver embalsamado? Un pedido macabro, lo admito, pero hay que darle sepultura, y no confío en nadie más que en ti para hacerlo.
+TEXT_SUBWIL112_00620_ISEMBARD_000_3	Busca a un hombre llamado Marques: él cuida las tumbas del camposanto. Te dirá dónde hay que enterrar el cuerpo.
+TEXT_SUBWIL112_00620_MARQUEZ_000_10	Sí, soy Marques. ¿Un cuerpo? Claro...<br>Últimamente... últimamente hubo... tantos cuerpos...
+TEXT_SUBWIL112_00620_MARQUEZ_000_11	Yo... Perdóneme, <if(gnum4,señorita,señor)>. Si busca un lugar para enterrarlo, hay una tumba vacía en lo alto de la loma. Tome el sendero y déjelo descansar allí.
+TEXT_SUBWIL112_00620_MARQUEZ_000_15	Entiérrelo bien y dele paz a su alma. Después hablaremos.
+TEXT_SUBWIL112_00620_MARQUEZ_000_20	¿Lo enterró? Tiene que apisonar bien la tierra, o vendrán... Los perros carroñeros vendrán a profanar el cuerpo...
+TEXT_SUBWIL112_00620_MARQUEZ_000_21	Que todos caminen en el reino de Thal...<br>...¿Qué? ¿Gente desaparecida? Yo... me temo que no puedo ayudarle.
+TEXT_SUBWIL112_00620_MARQUEZ_000_22	Pero quizá la Sister Ourcen sí pueda. Ella fue buena conmigo. Todos... todos fueron tan buenos.
+TEXT_SUBWIL112_00620_MARQUEZ_000_23	Aunque no sé por qué. Yo...<br>Perdóneme. Encontrará a la Sister Ourcen dentro de la iglesia.
+TEXT_SUBWIL112_00620_MARQUEZ_028	Está todo mal. Yo... yo debería haber...
+TEXT_SUBWIL112_00620_OURCEN_000_30	Me dicen que nos hizo el favor de enterrar a un alma caída. Acepte nuestro agradecimiento, por favor, y transmítaselo a Isembard la próxima vez que lo vea.
+TEXT_SUBWIL112_00620_OURCEN_000_31	¿Mm? ¿Busca saber de los habitantes desaparecidos de Drybone? Es cierto que estoy más cerca de la gente que cualquier otro miembro de la Order. Yo confío en ellos, y ellos en mí. Cuando quieren hablarle a su guardián, Thal, lo hacen a través de mí.
+TEXT_SUBWIL112_00620_OURCEN_000_32	Si me entero de algo importante, me aseguraré de contárselo. \<suspiro> Ojalá Marques ayudara más en este asunto. Espero que no le haya ofendido. Vio... cosas terribles durante la Calamidad... Tiene heridas profundas. De hecho, ahora parece preferir la compañía de los muertos a la de los vivos.
+TEXT_SUBWIL112_00620_OURCEN_000_33	Aunque es trágico, me temo que esa conducta no es propia de la iglesia. Hace poco me avisaron que uno de nuestros visitantes recientes ─ un hombre llamado Thancred, creo ─ se ofendió por su comportamiento. Tengo que hablar con Marques, y pronto.
+TEXT_SUBWIL112_00620_OURCEN_000_40	Por favor, transmítale a Isembard el agradecimiento de la Order.
+TEXT_SUBWIL112_00620_ISEMBARD_000_50	Gracias, <split(<string(gstr1)>, ,1)>. Un entierro no es cosa fácil, aunque el difunto sea un extraño. ¿Pudiste averiguar algo de la gente desaparecida?
+TEXT_SUBWIL112_00620_THANCRED_000_51	Anduviste bastante ocupad<if(gnum4,a,o)> últimamente, ¿no, <split(<string(gstr1)>, ,1)>?
+TEXT_SUBWIL112_00620_THANCRED_000_52	Un placer, mi querido Isembard. Me llamo Thancred, y comparto contigo y con nuestr<if(gnum4,a amiga,o amigo)> en común las ganas de averiguar qué fue de esas personas desaparecidas y por qué.
+TEXT_SUBWIL112_00620_THANCRED_000_53	Yo también hablé con Ungust, más veces de las que quisiera contar. Parece que hay algo de cierto en eso de que la gente solo les cuenta sus secretos a quienes sirven a los dioses.
+TEXT_SUBWIL112_00620_THANCRED_000_54	Postración, oración, penitencia. Actos de humildad hechos a puertas cerradas, lejos de miradas indiscretas. ¿Quién mejor para tomar por sorpresa a los devotos que quien escucha sus confesiones: la buena Sister Ourcen en persona?
+TEXT_SUBWIL112_00620_ISEMBARD_000_55	¿¡Ourcen!? Ella no... ¡Ella no <italic(1)>podría<italic(0)>!
+TEXT_SUBWIL112_00620_THANCRED_000_56	Hasta las rosas más hermosas tienen espinas, amigo mío. Y harías bien en no quitarle el ojo de encima a <italic(1)>esta<italic(0)> rosa.
+TEXT_SUBWIL112_00620_THANCRED_000_57	Aun así, el sepulturero Marques... Juraría por los Twelve que esa cara la vi en otro lado...
