@@ -1,0 +1,132 @@
+key	text
+TEXT_GAIUSE315_01456_SEQ_00	Minfilia quiere mostrarte una carta.
+TEXT_GAIUSE315_01456_SEQ_01	Minfilia te cuenta que llegó una carta de agradecimiento por los esfuerzos de los Scions para sofocar la amenaza de los primals. Aunque el reino todavía no está libre de conflictos, la Antecedent subraya que tus hazañas inspiran a incontables eorzeanos a seguir por el difícil camino hacia la paz. Consciente, sin embargo, de que no se te puede pedir que dediques cada momento a asuntos que sacuden el reino, te anima a quedarte un tiempo en Revenant's Toll. Justo cuando parece que te dieron permiso para descansar, Minfilia te pide que dediques un momento a los niños domanos. Habla con Yozan en los Rising Stones.
+TEXT_GAIUSE315_01456_SEQ_02	Feliz de verte de vuelta en Revenant's Toll, Yozan y sus compañeros "aventureros domanos" te ruegan que les des un entrenamiento especial. Hoary Boulder, el Roegadyn que se encarga de la instrucción diaria de los niños, propone en cambio un combate de práctica entre tú y él. Ve al este de Revenant's Toll y habla con Hoary Boulder para indicar que estás list<if(gnum4,a,o)> para empezar la demostración de destreza marcial.
+TEXT_GAIUSE315_01456_SEQ_03	Venciste a Hoary Boulder en el combate de práctica. Los espectadores celebran tu victoria y alaban la fuerza que tanto te costó ganar. Tras el combate, Alphinaud se te acerca y te pide que te reúnas con él para hablar del futuro de Eorzea. Ve a los Rising Stones y habla con el joven Elezen.
+TEXT_GAIUSE315_01456_SEQ_04	Vuelves a los Rising Stones y Alphinaud te explica su propuesta de formar una nueva organización. Acompaña al decidido Scion en su empeño por cumplir su papel de guardián de Eorzea.
+TEXT_GAIUSE315_01456_TODO_00	Habla con Yozan.
+TEXT_GAIUSE315_01456_TODO_01	Reúnete con Hoary Boulder al este de Revenant's Toll.
+TEXT_GAIUSE315_01456_TODO_02	Habla con Alphinaud en los Rising Stones.
+TEXT_GAIUSE315_01456_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
+TEXT_GAIUSE315_01456_MINFILIA_100_000	Ahora que el asunto de Ramuh quedó resuelto por el momento, hay algo que quiero mostrarte, <split(<string(gstr1)>, ,1)>.
+TEXT_GAIUSE315_01456_MINFILIA_100_001	Es una carta de agradecimiento, firmada por los líderes de la Eorzean Alliance, que reconoce el servicio incansable de los Scions al reino.
+TEXT_GAIUSE315_01456_MINFILIA_100_002	Menciona en particular los nombres de todos los primals vencidos ─ Ifrit, Titan, Garuda, Good King Moggle Mog XII, Leviathan y ahora Ramuh.
+TEXT_GAIUSE315_01456_MINFILIA_100_003	Ni hace falta decir que solo uno de nosotros los enfrentó a todos.
+TEXT_GAIUSE315_01456_MINFILIA_100_004	Y aunque estas palabras de gratitud iban dirigidas a toda nuestra orden, siento que eran para ti más que para nadie.
+TEXT_GAIUSE315_01456_MINFILIA_100_005	Yo también debo darte las gracias de corazón por todo lo que hiciste. En el cumplimiento de tu deber, ni una sola vez dejaste de responder a mi llamado a las armas.
+TEXT_GAIUSE315_01456_MINFILIA_100_006	Eres <if(gnum4,una verdadera heroína,un verdadero héroe)>, <split(<string(gstr1)>, ,1)>, y Eorzea es mucho más segura gracias a ti.
+TEXT_GAIUSE315_01456_MINFILIA_100_007	No me malinterpretes, por favor ─ dije "más segura", no "segura". Sé muy bien que no podemos darnos el lujo de bajar la guardia. Los Ascians seguirán sembrando el caos en este reino hasta que se los obligue a detenerse.
+TEXT_GAIUSE315_01456_MINFILIA_100_008	Y aun sin su aliento, ten por seguro que el hombre fomentaría conflictos por su cuenta. Y eso sin hablar de las beast tribes. Si no aprendemos a vivir en armonía, los primals también volverán a atormentarnos una y otra y otra vez...
+TEXT_GAIUSE315_01456_MINFILIA_100_009	Y sin embargo... pese a todo esto, tus hazañas inspiran a la gente ─ le dan esperanza en un mañana mejor. Y no hay regalo más grande.
+TEXT_GAIUSE315_01456_MINFILIA_100_010	Si tenemos el valor de luchar por lo que de otro modo parecería una paz imposible, es en buena parte por los peligros que enfrentaste por nosotros, y por la gente que ganaste para nuestra causa al hacerlo. Nuestra lista de enemigos siempre fue larga, pero piensa en los aliados con los que ahora contamos...
+TEXT_GAIUSE315_01456_MINFILIA_100_011	En los hombres bestia que no quieren conflictos y que ahora te llaman amig<if(gnum4,a,o)>.
+TEXT_GAIUSE315_01456_MINFILIA_100_012	En los sylphs de Little Solace, que no quieren conflictos.
+TEXT_GAIUSE315_01456_MINFILIA_100_013	En Alisaie, que se esfuerza por desenterrar los terribles secretos de la Calamidad.
+TEXT_GAIUSE315_01456_MINFILIA_100_014	En los alamhiganos y los domanos que están con nosotros, decididos a frenar la temible marcha del Empire.
+TEXT_GAIUSE315_01456_MINFILIA_100_015	Y luego están Cid y la hermandad de NOAH, que corren a desentrañar los misterios de la antigua Allag para que nos libremos del horror de otro Ultima Weapon.
+TEXT_GAIUSE315_01456_MINFILIA_100_016	Y luego están las muchas personas anónimas que se reunieron aquí en Revenant's Toll ─ hombres y mujeres honrados que quieren usar sus habilidades por el bien de todos.
+TEXT_GAIUSE315_01456_MINFILIA_100_017	...Claro que, al hablar de nuestros mayores aliados, no debemos olvidar a los más cercanos, es decir, a nuestros compañeros Scions.
+TEXT_GAIUSE315_01456_MINFILIA_100_018	Gracias a sus muchos y variados talentos, nuestra orden está preparada como ninguna para combatir la corrupción de largo alcance de los Ascians ─ ¡y la combatiremos!
+TEXT_GAIUSE315_01456_ALPHINAUD_100_019	(-???-)Su entusiasmo es verdaderamente conmovedor, Antecedent. Dado que tenemos aliados de sobra, confío en que no le causará muchas molestias que me ausente un tiempo.
+TEXT_GAIUSE315_01456_MINFILIA_100_020	¡Alphinaud! ¿Debo entender que los problemas de Ul'dah ya no requieren tu atención?
+TEXT_GAIUSE315_01456_ALPHINAUD_100_021	Todavía queda algo de descontento, pero el aire de violencia latente se disipó en gran parte. Vengo justamente a informar de eso.
+TEXT_GAIUSE315_01456_ALPHINAUD_100_022	Eso... y a hablar con usted de la nueva organización de la que hablamos.
+TEXT_GAIUSE315_01456_ALPHINAUD_100_023	Ah, tengo un mensaje para usted de Ele─ Ejem. ¿Recuerda a la niña refugiada? ¿La de los padres desaparecidos? Los encontraron sanos y salvos. Me pidió que le transmitiera su agradecimiento.
+TEXT_GAIUSE315_01456_MINFILIA_100_024	¡Vaya, Alphinaud! ¿Debo entender que te tomaste el trabajo de recordar el nombre de la pobre niña? Espero con ansias leer todo sobre ella en tu informe. ¡Ojalá no hayas omitido nada!
+TEXT_GAIUSE315_01456_MINFILIA_100_025	<split(<string(gstr1)>, ,1)> ─ creo que hace un tiempo que no pasas por Revenant's Toll. ¿Te parece si dejas de lado por un momento los asuntos del reino y aprovechas para volver a familiarizarte con el pueblo?
+TEXT_GAIUSE315_01456_MINFILIA_100_026	...Lo que me recuerda ─ uno de los niños domanos preguntó hace poco por ti. Se llamaba Yozan. Creo que tiene algo que quiere contarte. ¿Por qué no le haces una visita?
+TEXT_GAIUSE315_01456_MINFILIA_100_030	Sé que debes de estar muy cansad<if(gnum4,a,o)> de tus penurias, pero te agradecería mucho que encontraras un momento para hablar con el pequeño Yozan. Seguro que él también pasó por mucho.
+TEXT_GAIUSE315_01456_YOUZAN_000_020	¡Miren! ¡Es <if(gnum4,la señorita,el señor)> <split(<string(gstr1)>, ,1)>! ¡Volvió de sus aventuras!
+TEXT_GAIUSE315_01456_YOUZAN_000_021	¡Supimos que andabas peleando contra "primals", y que son de los enemigos más fuertes que puede haber! Ojalá te hubiera visto pelear...
+TEXT_GAIUSE315_01456_YOUZAN_000_022	En fin, todos queremos ser héroes también ─ ¡así que por fin formamos nuestro propio Adventurers' Guild domano para proteger a todos los domanos!
+TEXT_GAIUSE315_01456_YOUZAN_000_023	¡Ah! ¿Crees que <italic(1)>tú<italic(0)> podrías entrenarnos hoy, <if(gnum4,señorita,señor)> <split(<string(gstr1)>, ,1)>? ¡Quizá podrías mostrarnos cómo peleaste contra los primals!
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_024	(-???-)¿Qué es todo este alboroto?
+TEXT_GAIUSE315_01456_YOUZAN_000_025	¡Señor Boulder y señor Coultenet! ¿¡Sabían que <if(gnum4,la señorita,el señor)> <split(<string(gstr1)>, ,1)> volvió!?
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_026	Eso parece. Bienvenid<if(gnum4,a,o)> a casa, <split(<string(gstr1)>, ,1)>. Mi compañero y yo nos convertimos hace poco en miembros plenos de los Scions, y creo que todavía no nos presentamos como corresponde.
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_027	Me conocen como Hoary Boulder, y este estudioso es Coultenet. Aunque todavía no tenemos mucha experiencia como aventureros, nos encargamos de instruir a los pequeños domanos en las artes del combate.
+TEXT_GAIUSE315_01456_YOUZAN_000_028	Uf, ya te <italic(1)>dije<italic(0)>, señor Boulder: ya no somos <italic(1)>pequeños<italic(0)> ─ ¡somos <italic(1)>aventureros<italic(0)>!
+TEXT_GAIUSE315_01456_YOUZAN_000_029	Y justo le estábamos preguntando a <if(gnum4,la señorita,el señor)> <split(<string(gstr1)>, ,1)> si nos podía dar un entrenamiento especial. Creo que ya estamos listos para cazar monstruos a su lado, ¿no?
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_030	Bueno, sin duda fueron muy aplicados con sus ejercicios... pero me temo que las bestias de Mor Dhona todavía son <italic(1)>un poquito<italic(0)> demasiado peligrosas para ustedes.
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_031	Tengo una contrapropuesta: ¿y si cruzo espadas con <split(<string(gstr1)>, ,1)>? Una demostración de destreza con las armas, digamos.
+TEXT_GAIUSE315_01456_COULTENET_000_032	Hoary. Si no te conociera ─ y te conozco ─, diría que solo quieres ponerte a prueba contra una leyenda.
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_033	Jajaja, bueno, quizá sí. Pero ¿qué importa el motivo si los niños pueden aprender tanto de la lección?
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_034	¿Qué dices, <split(<string(gstr1)>, ,1)>? ¿Aceptas un combate de práctica conmigo?
+TEXT_GAIUSE315_01456_YOUZAN_000_035	¡Hurra! ¡Vamos a tener un torneo! ¡Vamos, todos ─ tenemos que preparar el equipo para salir!
+TEXT_GAIUSE315_01456_COULTENET_000_036	...Intenta no decepcionarlos, ¿sí?
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_037	¡Ten fe, Coultenet! Reuniré hasta la última onza de mi fuerza para que sea un combate digno.
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_038	Los campos al este del pueblo deberían servir para lo que queremos. Espero con muchas ganas nuestro combate.
+TEXT_GAIUSE315_01456_COULTENET_000_040	Desde que me hice Scion tuve muchas ocasiones de oír hablar de tus hazañas épicas. Debo confesar, entonces, que tengo tantas ganas como los niños de verte en acción con mis propios ojos.
+TEXT_GAIUSE315_01456_YOUZAN_000_045	¡<if(gnum4,La señorita,El señor)> <split(<string(gstr1)>, ,1)> está aquí! ¡Que empiece la batalla!
+TEXT_GAIUSE315_01456_KOHARU_000_050	Cuando salimos de los Rising Stones, el señor Thancred nos preguntó adónde íbamos. Le dije que íbamos a verte pelear con el señor Boulder, y se sorprendió mucho. Espero que no se haya enojado...
+TEXT_GAIUSE315_01456_ROKKA_000_055	¿Un combate de práctica es... peligroso? No quiero ver a nadie más lastimado...
+TEXT_GAIUSE315_01456_SHIUN_000_060	En Doma teníamos un maestro de lecciones, y su forma de enseñarnos era muy distinta de la del señor Boulder. No sé cuál es mejor, ¡pero creo que me gustan las dos!
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_070	Fuiste muy amable al aceptar esto, <split(<string(gstr1)>, ,1)>. ¿Supongo que estás list<if(gnum4,a,o)> para empezar?
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_071	Muy bien. ¡No hagamos esperar más a los pequeños!
+TEXT_GAIUSE315_01456_COULTENET_000_072	Ejem. ¿Hoary? ¿Seguro que quieres pelear solo contra <if(gnum4,ella,él)>? Es <italic(1)><split(<string(gstr1)>, ,1)><italic(0)> a quien te enfrentas.
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_073	¿Qué mejor forma de poner a prueba mi temple? Déjame intentar el primer asalto sin ayuda.
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_074	Después de todo, fue la leyenda de <if(gnum4,esta heroína,este héroe)> lo que me llevó a unirme a los Scions. Sin <split(<string(gstr1)>, ,1)> para inspirar mis esfuerzos, no sería ni la mitad del guerrero que soy hoy.
+TEXT_GAIUSE315_01456_COULTENET_000_075	Buen punto. Pero recuerda: esto es tanto por los niños como por ti. Si parece que el combate va a terminar demasiado rápido, sumaré mis hechizos a tu espada.
+TEXT_GAIUSE315_01456_YDA_000_076	(-???-)¡Hola! Todavía no empezaron, ¿no?
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_077	¿¡Yda!? ¿Qué─ ¿¡Quiénes son todas estas personas!?
+TEXT_GAIUSE315_01456_YDA_000_078	Cuando me enteré de su combate de práctica, se lo conté a todos los que encontré. ¡Pensé que les vendría bien un público que los alentara!
+TEXT_GAIUSE315_01456_THANCRED_000_079	Sí, y todavía viene más gente. Cuando mencioné el nombre de <split(<string(gstr1)>, ,1)>, la reacción fue bastante entusiasta.
+TEXT_GAIUSE315_01456_THANCRED_000_080	¡Vaya, mi propia popularidad parece una sombra enfermiza en comparación! Más te vale ganar, <if(gnum4,Portadora,Portador)> de la Luz ─ ¡tu creciente reputación está en juego!
+TEXT_GAIUSE315_01456_YOUZAN_000_081	¡Bueno, a nuestro maestro no le van a ganar tan fácil! ¡Es un maestro de la espada!
+TEXT_GAIUSE315_01456_KOHARU_000_082	¡Tú puedes ganar, señor Boulder!
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_083	Pronto lo veremos. ¡En guardia!
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_090	Me... \<jadeo> Me venciste... \<resoplido> ¡Me rindo!
+TEXT_GAIUSE315_01456_YOUZAN_000_091	\<jadeo> ...
+TEXT_GAIUSE315_01456_YOUZAN_000_092	...¡Eso fue increíble! ¡Les ganó a los dos al mismo tiempo!
+TEXT_GAIUSE315_01456_SPECTATORMAN01456_000_093	¡Sabíamos que no podías perder, <split(<string(gstr1)>, ,1)>! ¡Nadie puede vencer a <if(gnum4,la guardiana,el guardián)> de Eorzea!
+TEXT_GAIUSE315_01456_SPECTATORWOMAN1456_000_094	¡Ahora entiendo por qué te mandan a ti a lidiar con los primals! Tengo mucho trabajo por delante si algún día quiero intentar lo mismo...
+TEXT_GAIUSE315_01456_ALPHINAUD_000_095	Impresionante como siempre, <split(<string(gstr1)>, ,1)>. Siempre es un placer presenciar el espectáculo de su destreza marcial.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_096	Y a juzgar por las sonrisas en tantas caras, ellos también aprecian la fuerza, ganada con tanto esfuerzo, que mantiene a raya los peligros del reino.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_097	"<if(gnum4,Guardiana,Guardián)> de Eorzea"... Sí, es un título muy apropiado.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_098	¿Recuerda cuando nos conocimos? Fue en la ceremonia conmemorativa de la batalla de Carteneau...
+TEXT_GAIUSE315_01456_ALPHINAUD_000_099	En ese entonces, yo todavía intentaba entender esta tierra de Eorzea. Quería comprender por qué mi abuelo se sacrificó por voluntad propia para protegerla.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_100	Seré franco: mis primeras impresiones no fueron nada favorables. Abundaban los problemas graves, y sin embargo el esfuerzo que veía dedicado a resolverlos era desordenado y a medias. Me parecía que los eorzeanos eran un pueblo necio e infantil.
+TEXT_GAIUSE315_01456_ALPHINAUD_100_100	Dado el estado ruinoso de su tierra, no me habría sorprendido que algunos decidieran jurarle lealtad a Gaius y al orden que proponía imponer. La invasión militar obstinada del legatus impidió, claro, cualquier cambio de bando de ese tipo.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_101	De no ser por el deseo de continuar el legado de mi abuelo, hace mucho que habría abandonado el reino a su suerte. Las amenazas eran demasiadas; las naciones, demasiado egocéntricas e inestables.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_102	Fue usted quien me convenció de que la salvación de Eorzea era posible.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_103	Fue usted quien me enseñó ─ con incontables actos de valentía ─ que lo que mi abuelo quería preservar no era la tierra, ni su historia, ni ninguna nación en particular...
+TEXT_GAIUSE315_01456_ALPHINAUD_000_104	Era la gente. Esta gente maravillosa, a menudo exasperante y testaruda, que sufre golpe tras golpe terrible solo para volver a ponerse de pie y enfrentar otro día.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_105	Aunque nunca lo dijo con palabras, creo que la admiración de mi abuelo por ese coraje inextinguible se convirtió en un deseo ferviente ─ el deseo de ayudar a Eorzea y a sus habitantes a trazar el rumbo del futuro.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_106	Un deseo que ahora es el mío.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_107	Yo también me esforzaré por asumir el papel de guardián de Eorzea y defender a esta gente que trabaja por un mundo mejor.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_108	Nuestra causa, sin embargo, no es sencilla: los problemas que nos aquejan son de una escala que los Scions of the Seventh Dawn no pueden resolver solos.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_109	No, lo que hace falta para atacar la raíz de la amenaza de los primals ─ y contrarrestar con eficacia los planes de los Ascians ─ es una organización nueva y más amplia, que actúe más allá de los límites de las naciones y las fronteras.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_110	Si quiere ayudarme a construir esa organización, sigamos esta conversación entre los muros de los Rising Stones.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_120	Gracias por venir, <split(<string(gstr1)>, ,1)>. El mundo cambia y se transforma, y nosotros, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>, debemos ir siempre un paso por delante del caos.
+TEXT_GAIUSE315_01456_ALPHINAUD_000_121	Lo que propongo es formar una nueva organización ─ un grupo que abrirá el camino hacia una Eorzea verdaderamente unida...
+TEXT_GAIUSE315_01456_MINFILIA_000_130	Con la amenaza de los primals bajo control por ahora, es el momento perfecto para dedicarnos a nuevos proyectos.
+TEXT_GAIUSE315_01456_MINFILIA_000_131	Alphinaud lleva mucho tiempo sentando las bases de esa organización suya, y cuenta contigo para hacer realidad su propuesta. Ayúdalo en lo que puedas, por favor.
+TEXT_GAIUSE315_01456_THANCRED_000_135	Tu combate con Hoary Boulder fue más emocionante que cien versos de mi poesía más apasionada. Quizá debería organizar un combate de práctica propio...
+TEXT_GAIUSE315_01456_YDA_000_140	¡No veo la hora de que Alphinaud arme su nueva compañía! ¡Me encanta hacer nuevos amigos!
+TEXT_GAIUSE315_01456_PAPALYMO_000_145	Ojalá Yda no estuviera tan ansiosa por mirar al futuro cuando tenemos tantos problemas aquí y ahora...
+TEXT_GAIUSE315_01456_YSHTOLA_000_150	Me temo que el optimismo sin límites de Yda empieza a nublarme el juicio. Y tu tendencia a triunfar contra los enemigos más terribles no ayuda en absoluto.
+TEXT_GAIUSE315_01456_TATARU_000_155	¡No, así no sirve para nada! Y después tendré que─ ¡Ah, hola, <split(<string(gstr1)>, ,1)>! ¡Si no te molesta, ahora estoy ocupadísima!
+TEXT_GAIUSE315_01456_FLHAMINN_000_160	No basta con que esté aquí por mi hija ─ debo hacer lo poco que pueda para ayudarlos a todos a cumplir sus enormes tareas.
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_165	¡<split(<string(gstr1)>, ,1)>! Tengo que agradecerte otra vez que aceptaras nuestro combate.
+TEXT_GAIUSE315_01456_HOARYBOULDER_000_166	...¡Y tengo que agradecerles a los dioses que no fuera un duelo a muerte! Aun así, atesoraré la lección de cada rasguño y cada moretón mientras mejoro mi manejo de la espada.
+TEXT_GAIUSE315_01456_COULTENET_000_170	Al principio la idea me pareció una tontería, pero parece que ese combate de práctica cumplió su propósito. ¡Vaya, no veo la hora de volver a mis estudios y mejorar mi técnica!
+TEXT_GAIUSE315_01456_HOUZAN_000_175	La pérdida de nuestra patria aplastó por completo el ánimo de mi pueblo, pero gracias a su valor y su generosidad veo cómo su llama interior vuelve a avivarse. Yo también siento que mi fuerza de voluntad regresa poco a poco.
+TEXT_GAIUSE315_01456_DOUWARE_000_180	Aquí en la frontera adoptaron nuestros métodos de cultivo domanos. Todavía es pronto para saber si darán resultado...
+TEXT_GAIUSE315_01456_HIGIRI_000_185	Este lugar se volvió una colmena, y sus abejas no dejan de revolotear. Quizá una tetera de té calmante convenza a una o dos de posarse y descansar un momento.
+TEXT_GAIUSE315_01456_YOUZAN_000_190	El señor Boulder peleó bien, ¡pero no era rival para ti, <if(gnum4,señorita,señor)> <split(<string(gstr1)>, ,1)>!
+TEXT_GAIUSE315_01456_YOUZAN_000_191	¡Ya vas a ver! ¡Algún día voy a ser lo bastante bueno para bajarte de la cima de tu montaña!
+TEXT_GAIUSE315_01456_KOHARU_000_195	El señor Boulder está dolorido y derrotado, pero dijo que vuelve directo a entrenar. Je, je, ¡creo que no le gusta perder!
+TEXT_GAIUSE315_01456_SHIUN_000_200	Tenemos que decidir quién hace qué en nuestro Adventurers' Guild. Estoy bastante segura de que Yozan tendrá que ser el espadachín ─ siempre tiene que estar en medio de la acción.
+TEXT_GAIUSE315_01456_ROKKA_000_205	Me gustó cómo peleó el señor Coultenet ─ sin espadas ni puños. Me pregunto si, estudiando mucho, yo también podría lanzar hechizos así.
+TEXT_GAIUSE315_01456_QIB_TODO001	¡Gana el combate de práctica!
+TEXT_GAIUSE315_01456_HOARYBOULDER_BATTLETALK_000_001	Día y noche afiné mis habilidades.<br>¡Llegó la hora de ponerlas a prueba!
+TEXT_GAIUSE315_01456_HOARYBOULDER_BATTLETALK_000_010	Ugh... ¡Qué poder!<br>¡Las historias apenas te hacen justicia!
+TEXT_GAIUSE315_01456_ROKKA_BATTLETALK_000_011	El señor Boulder no va a perder, ¿verdad?
+TEXT_GAIUSE315_01456_SHIUN_BATTLETALK_000_012	¡Todavía no terminó! ¡No puede ser!
+TEXT_GAIUSE315_01456_COULTENET_BATTLETALK_000_013	Así es, los niños tienen razón.
+TEXT_GAIUSE315_01456_COULTENET_BATTLETALK_000_014	Es hora de que me una a la pelea.<br>¡De pie, Hoary!
+TEXT_GAIUSE315_01456_KOHARU_BATTLETALK_000_020	¡Ay, no! Se ve lastimado...
+TEXT_GAIUSE315_01456_YOUZAN_BATTLETALK_000_021	<if(gnum4,La señorita,El señor)> <split(<string(gstr1)>, ,1)> es tan fuerte...<br>¡Pero no te puedes rendir, señor Boulder!
+TEXT_GAIUSE315_01456_HOARYBOULDER_BATTLETALK_000_022	No puedo... decepcionar... a los pequeños...<br>¡Raaargh!
+TEXT_GAIUSE315_01456_HOARYBOULDER_BATTLETALK_000_030	¡Nunca me enfrenté a semejante fuerza!<br>...¡Pero la lección debe continuar!
+TEXT_GAIUSE315_01456_HOARYBOULDER_BATTLETALK_000_031	¡Es tu ejemplo el que sigo!<br>¡No te rindas ante el enemigo implacable!
+TEXT_GAIUSE315_01456_COULTENET_BATTLETALK_000_100	Debo admitir la derrota.<br>Fue un honor y un privilegio...

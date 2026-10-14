@@ -1,0 +1,44 @@
+key	text
+TEXT_GAIUSE602_00371_SEQ_00	Alphinaud espera la llegada de la enviada ishgardiana.
+TEXT_GAIUSE602_00371_SEQ_01	La enviada de Ishgard resulta ser Lucia, la segunda al mando de Ser Aymeric. La caballero trae noticias sombrías y vino a pedir la ayuda de los Crystal Braves y de las Grand Companies para reforzar las defensas de su ciudad. También trae un pedido personal del comandante supremo, que quiere hablar contigo. Viaja a Camp Dragonhead, en Coerthas Central Highlands, y reúnete con Alphinaud antes de ver a Ser Aymeric.
+TEXT_GAIUSE602_00371_SEQ_02	Te reúnes con Alphinaud en Camp Dragonhead, pero parece que Ser Aymeric todavía no llegó. Mientras esperan juntos, el comandante de los Crystal Braves nota un ambiente inusualmente agitado en el campamento ─ invasión dravaniana o no ─ y sugiere que convendría investigar. Ve a las Gates of Judgement e interroga a los inquietos caballeros.
+TEXT_GAIUSE602_00371_SEQ_03	Los caballeros apostados en las Gates of Judgement te cuentan que Lady Iceheart y sus seguidores los atacaron. Infórmale a Alphinaud de esta novedad.
+TEXT_GAIUSE602_00371_SEQ_04	Poco después de poner al tanto a Alphinaud de lo que descubriste, te aborda Lucia, que confirma lo que ya sabías: una fuerza hereje atravesó las defensas exteriores y deshizo la primera capa de barreras arcanas que protegen la ciudad de Ishgard. Pero no es momento de debatir las consecuencias, porque Ser Aymeric te espera en Camp Dragonhead.
+TEXT_GAIUSE602_00371_TODO_00	Habla con Alphinaud en Camp Dragonhead.
+TEXT_GAIUSE602_00371_TODO_01	Interroga a los caballeros en las Gates of Judgement.
+TEXT_GAIUSE602_00371_TODO_02	Habla con Alphinaud en las Gates of Judgement.
+TEXT_GAIUSE602_00371_ALPHINAUD_000_000	...Llegó la enviada.
+TEXT_GAIUSE602_00371_LUCIA_000_001	Les agradezco que me reciban con tan poco aviso. El tiempo apremia, así que, si me lo permiten, dejaré de lado las cortesías de costumbre.
+TEXT_GAIUSE602_00371_MINFILIA_000_002	Por supuesto. ¿Trae noticias de los dravanianos?
+TEXT_GAIUSE602_00371_LUCIA_000_003	Sí, los dragones empezaron su ataque en serio. La primera oleada llegó a las tierras altas centrales hace un rato, y poco después se trabó la batalla.
+TEXT_GAIUSE602_00371_LUCIA_000_004	El propio Ser Aymeric salió con un contingente de Temple Knights y varias compañías de lo mejor de las casas nobles. Aunque al final obligamos a las bestias a retirarse, nuestra victoria ─ si así puede llamarse ─ nos costó muchos de los nuestros. Demasiados.
+TEXT_GAIUSE602_00371_LUCIA_000_005	No resistiremos una segunda oleada si los dravanianos renuevan su ataque.
+TEXT_GAIUSE602_00371_ALPHINAUD_000_006	Pinta un panorama sombrío, mi señora. ¿Busca refuerzos, entonces?
+TEXT_GAIUSE602_00371_LUCIA_000_007	Sí. Aunque nos hiere el orgullo, está claro que no podemos proteger Ishgard con nuestras filas tan diezmadas por la Horde. Ser Aymeric quiere reunirse con ustedes para hablar de la posibilidad de contar con su ayuda.
+TEXT_GAIUSE602_00371_ALPHINAUD_000_008	Muy bien. Partiré hacia Coerthas de inmediato.
+TEXT_GAIUSE602_00371_ALPHINAUD_000_009	Debo advertirle, sin embargo, que la participación de los Crystal Braves no está asegurada en absoluto ─ nuestro compromiso de sofocar los disturbios en Ul'dah debe tener prioridad.
+TEXT_GAIUSE602_00371_LUCIA_000_010	Pensando justamente en esas eventualidades debo hacer otro pedido. Se sabe que los Scions of the Seventh Dawn tienen lazos estrechos con las tres Grand Companies de Eorzea. ¿Aceptarían defender nuestra causa ante sus líderes?
+TEXT_GAIUSE602_00371_MINFILIA_000_011	Hm. Aunque con gusto apelaré a las Grand Companies en su nombre, no me atrevo a prometer una respuesta favorable...
+TEXT_GAIUSE602_00371_LUCIA_000_012	No hace falta que diga más. Considerando nuestro trato pasado con la Eorzean Alliance, puedo imaginar muy bien cómo recibirán nuestro pedido.
+TEXT_GAIUSE602_00371_LUCIA_000_013	Pero el destino de Ishgard pende de un hilo. Debemos explorar todas las vías que nos quedan ─ por poco prometedoras que sean.
+TEXT_GAIUSE602_00371_MINFILIA_000_014	Ya veo. Muy bien. Enviaré emisarios a cada una de las naciones aliadas para que presenten su pedido directamente a los jefes de las Grand Companies.
+TEXT_GAIUSE602_00371_MINFILIA_000_015	Si su pedido recibe una respuesta favorable, sepa que cualquier apoyo vendrá seguramente con condiciones. Se le exigirán cosas a Ishgard...
+TEXT_GAIUSE602_00371_LUCIA_000_016	Es de esperar. Tenga por seguro que en este asunto hablo con la autoridad de Ser Aymeric, y que la Holy See aprueba plenamente nuestras acciones.
+TEXT_GAIUSE602_00371_LUCIA_000_017	...Lo que me lleva a mi último pedido: un ruego personal a usted, Warrior of Light. El comandante supremo desea mucho hablar con usted, participen o no sus compañeros.
+TEXT_GAIUSE602_00371_LUCIA_000_018	Usted se enfrentó a Midgardsormr y sobrevivió. Cualquier cosa que pueda contar de su experiencia podría darnos ventaja sobre nuestro enemigo.
+TEXT_GAIUSE602_00371_LUCIA_000_019	Gracias. Lleva bien el manto de <if(gnum4,heroína,héroe)>.
+TEXT_GAIUSE602_00371_ALPHINAUD_000_020	Parece que el camino nos lleva a los dos a Camp Dragonhead. Búsqueme cuando llegue, <split(<string(gstr1)>, ,1)>.
+TEXT_GAIUSE602_00371_ALPHINAUD_000_040	Parece que fui el más rápido, <split(<string(gstr1)>, ,1)>. Pero usted también llegó con tiempo de sobra, porque nuestro anfitrión todavía no aparece.
+TEXT_GAIUSE602_00371_ALPHINAUD_000_041	Los murmullos del campamento hablan de algún problema en las Gates of Judgement...<br>En ausencia del comandante supremo, sugiero que vayamos allí y averigüemos qué pasa.
+TEXT_GAIUSE602_00371_HAURCHEFANT_000_042	¡Mi <if(gnum4,querida amiga,querido amigo)>, <split(<string(gstr1)>, ,1)>! ¡Otra vez llega en nuestra hora de necesidad! Ojalá pudiéramos hablar más, pero me temo que mis deberes exigen toda mi atención...
+TEXT_GAIUSE602_00371_YAELLE_100_042	Los caballeros de la House Fortemps entrenamos casi sin descanso para momentos como este. Pero ahora que llegó uno, me tiemblan las rodillas...
+TEXT_GAIUSE602_00371_TEMPLERA00371_000_043	N-No hace falta preocuparse tanto ─ todavía quedan varias capas de protección arcana que protegen la ciudad de una invasión. Madre estará bien...
+TEXT_GAIUSE602_00371_TEMPLERB00371_000_044	Cuando vi a Lady Iceheart... sentí que se me congelaba la médula de los huesos.
+TEXT_GAIUSE602_00371_CAVALRYMANA00371_000_045	Las Gates of Judgement son mucho más que simples puertas ─ son la capa más externa de las barreras mágicas de Ishgard. Si nuestra primera línea de defensa puede romperse con tanta facilidad...
+TEXT_GAIUSE602_00371_CAVALRYMANB00371_000_046	¡Escoria hereje! ¿¡Cómo <italic(1)>se atreven<italic(0)> a meterse con nuestras protecciones divinas!? ¡Libraré a nuestra nación de su blasfemia aunque tenga que abatirlos uno por uno!
+TEXT_GAIUSE602_00371_ALPHINAUD_000_050	Fíjese en las miradas nerviosas que intercambian nuestros amigos...<br>Los dragones atacaron, sí, pero pasó algo más... algo inesperado. Interroguemos a los caballeros antes de seguir.
+TEXT_GAIUSE602_00371_ALPHINAUD_000_060	Parece que los herejes asestaron el primer golpe contra Ishgard ─ y el más certero...
+TEXT_GAIUSE602_00371_LUCIA_000_061	¡Scions! ¡Los esperábamos en Camp Dragonhead!
+TEXT_GAIUSE602_00371_ALPHINAUD_000_062	Mis disculpas. Oímos que había habido problemas en las puertas, y nos pareció prudente investigar la causa.
+TEXT_GAIUSE602_00371_LUCIA_000_063	Entonces se enteraron de la traición de los herejes. Lady Iceheart encabezó una fuerza de sus seguidores contra nuestros defensores, y llegó lo bastante cerca para deshacer la primera de nuestras barreras.
+TEXT_GAIUSE602_00371_LUCIA_000_064	Pero hablemos de esto en el campamento. Ser Aymeric los espera...

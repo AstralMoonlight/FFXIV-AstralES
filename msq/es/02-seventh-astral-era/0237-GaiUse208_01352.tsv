@@ -1,0 +1,88 @@
+key	text
+TEXT_GAIUSE208_01352_SEQ_00	Por fin, Hozan y su grupo están listos para dejar Vesper Bay.
+TEXT_GAIUSE208_01352_SEQ_01	Puede que los Brass Blades patrullen con regularidad el camino a Ul'dah, pero Hozan quiere la tranquilidad que le daría tu presencia, así que te pidió que acompañes a su grupo hasta Ul'dah. Habla con el cochero cuando estés list<if(gnum4,a,o)> para partir.
+TEXT_GAIUSE208_01352_SEQ_02	Al cochero le preocupa que hayan visto hace poco una bestia temible cerca del puente a Hammerlea, y te pide que vayas delante del carruaje a revisar la zona. Si te encuentras con la criatura, debes evaluar qué peligro representa y actuar en consecuencia.
+TEXT_GAIUSE208_01352_SEQ_03	Gracias a ti, el camino vuelve a ser seguro. Vuelve sobre tus pasos y busca el carruaje y a su cochero afuera de Horizon.
+TEXT_GAIUSE208_01352_SEQ_04	Mientras Hozan y Homei se ponen poéticos hablando de la deuda que tienen con Yugiri, Yozan y Koharu apartan a los dos adultos y empiezan a acribillarte a preguntas. Tus motivos, tus experiencias, tus secretos ─ quieren saberlo todo y más. Por suerte, Hozan interviene antes de que puedan preguntarte algo demasiado embarazoso. Claramente fascinados por la vida que elegiste, los dos niños deciden ahí mismo fundar un Adventurers' Guild domano cuando lleguen a Revenant's Toll. Pero primero deben descansar un tiempo en Ul'dah. Avísale a Alphinaud, en el Quicksand, que el grupo llegó sano y salvo.
+TEXT_GAIUSE208_01352_SEQ_05	Como ya te tiene acostumbrad<if(gnum4,a,o)>, Alphinaud empieza a hablarte de tu próxima tarea apenas reconoce que terminaste la anterior. Ahoga el suspiro que pugna por escapar y pídele más detalles a tu compañero Scion.
+TEXT_GAIUSE208_01352_TODO_00	Habla con el cochero hyur.
+TEXT_GAIUSE208_01352_TODO_01	Revisa el camino a Ul'dah en busca de bestias peligrosas.
+TEXT_GAIUSE208_01352_TODO_02	Habla con el cochero hyur afuera de Horizon.
+TEXT_GAIUSE208_01352_TODO_03	Habla con Alphinaud en el Quicksand.
+TEXT_GAIUSE208_01352_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
+TEXT_GAIUSE208_01352_HOUZAN_000_000	La primera caravana parte en breve, y las demás la seguirán a intervalos regulares. Mi familia y yo ─ incluido mi testarudo padre, Homei ─ viajaremos en el primer carruaje junto con la pequeña Koharu, a quien creo que ya conoce.
+TEXT_GAIUSE208_01352_HOUZAN_000_001	Aunque entiendo que sus Brass Blades patrullan con regularidad el camino a Ul'dah, nos daría mucha tranquilidad que aceptara acompañarnos en el viaje...
+TEXT_GAIUSE208_01352_HOUZAN_000_002	Una vez más, le agradezco su amabilidad. Cuando esté list<if(gnum4,a,o)> para partir, avísele a nuestro cochero.
+TEXT_GAIUSE208_01352_HOUMEI_000_005	¿Un pájaro gigante que se monta como si fuera un caballo? Qué criatura tan curiosa...
+TEXT_GAIUSE208_01352_GYOSHA01348_000_010	Con ganas de salir, ¿eh? Sí, bueno, justo quería hablarte de eso. Un mensajero de los Blades dice que podríamos tener un problema.
+TEXT_GAIUSE208_01352_GYOSHA01348_000_011	Vieron una bestia de aspecto feroz al sur del puente a Hammerlea. Puede que a alguien le estén jugando una mala pasada los ojos, claro, pero en este negocio no conviene apostar.
+TEXT_GAIUSE208_01352_GYOSHA01348_000_012	Yo sé que tú te las arreglas en una pelea, pero esta gente es otra historia. Así que pensaba que podrías adelantarte y echar un vistazo ─ asegurarte de que la zona es segura, digamos. Y si te topas con algo peligroso, ya sabes qué hacer.
+TEXT_GAIUSE208_01352_GYOSHA01348_000_013	Cuando estés segur<if(gnum4,a,o)> de que el camino está despejado, nos vemos afuera de Horizon. Los Blades me dicen que el camino hasta allí es seguro, así que calculo que podemos llegar solos ─ siempre que esos mismos desgraciados no intenten robarnos, claro.
+TEXT_GAIUSE208_01352_GYOSHA01348_000_015	Tú adelántate, <if(gnum4,muchacha,hijo)>, y nos vemos en Horizon cuando estés segur<if(gnum4,a,o)> de que lo de la bestia está resuelto. Nosotros saldremos enseguida.
+TEXT_GAIUSE208_01352_HOUZAN_000_015	Estos informes de una gran bestia en el camino a Ul'dah son muy inquietantes...
+TEXT_GAIUSE208_01352_HOUMEI_000_015	Criaturas fascinantes... ¿De dónde habrán salido?
+TEXT_GAIUSE208_01352_YOUZAN_000_015	Uf, qué suerte tiene el abuelo. ¡Estos ─ <italic(1)>buaj<italic(0)> ─ pájaros-caballo huelen horrible!
+TEXT_GAIUSE208_01352_KOHARU_000_015	¡Ohh, es tan... <italic(1)>esponjoso<italic(0)>!
+TEXT_GAIUSE208_01352_HOUMEI_000_020	¡Debo decir que fue un viaje sorprendentemente agradable! Quizá el viaje a Revenant's Toll no sea tan malo, después de todo.
+TEXT_GAIUSE208_01352_HOUZAN_000_020	Me alegra verl<if(gnum4,a,o)> bien. Venga, avísele al cochero que podemos seguir hacia Ul'dah.
+TEXT_GAIUSE208_01352_YOUZAN_000_020	¿Quién crees que ganaría una carrera? ¿Un caballo o un pájaro-caballo?
+TEXT_GAIUSE208_01352_KOHARU_000_020	Tienen alas, ¿eso quiere decir que pueden volar? ¿¡Y eso quiere decir que <italic(1)>nosotros<italic(0)> podemos volar si montamos uno!?
+TEXT_GAIUSE208_01352_GYOSHA01348_100_020	¡Así que sí <italic(1)>había<italic(0)> una bestia! "Había", esa es la palabra clave, ¿eh? ¡Ja, ja!
+TEXT_GAIUSE208_01352_HOUZAN_000_021	¡Bien peleado, <if(gnum4,señora,señor)>, bien peleado! ¡Ah, si tan solo tuviera mejor salud, me habría enorgullecido luchar a su lado!
+TEXT_GAIUSE208_01352_HOUMEI_000_022	No le haga caso a mi hijo. Olvida que sus responsabilidades le impiden hacer proezas.
+TEXT_GAIUSE208_01352_HOUZAN_000_023	Hmph. Sea como sea, no puedo evitar envidiarl<if(gnum4,a,o)>. Si en Doma hubiéramos podido contar con héroes de su fuerza y su destreza, las cosas habrían sido muy distintas.
+TEXT_GAIUSE208_01352_HOUZAN_000_024	\<suspiro> Pero no podemos cambiar el pasado. Los que pelearon ─ y cayeron ─ están perdidos para siempre.
+TEXT_GAIUSE208_01352_HOUMEI_000_025	Perdidos, pero no olvidados ─ y los parientes de Lady Yugiri menos que nadie. Fueron los que pelearon con más fiereza, aun sabiendo muy bien que era en vano.
+TEXT_GAIUSE208_01352_HOUMEI_000_026	Ella tenía todo el derecho a irse, y sin embargo eligió quedarse. Comida, techo, la promesa de una vida mejor ─ todo eso y más se lo debemos a ella. ¿Cómo se empieza siquiera a pagar una deuda así?
+TEXT_GAIUSE208_01352_HOUZAN_000_027	Con la misma moneda, padre. A quien lo dio todo, le daremos todo de nosotros.
+TEXT_GAIUSE208_01352_HOUZAN_000_028	El trabajo que haya que hacer, lo haremos sin rechistar. Cavar zanjas, poner ladrillos, da igual ─ Revenant's Toll crecerá y prosperará gracias a nuestras manos.
+TEXT_GAIUSE208_01352_YOUZAN_000_029	¡Oye, <if(gnum4,señorita,señor)> <split(<string(gstr1)>, ,1)>! ¡Koharu y yo queremos saber por qué te hiciste aventurer<if(gnum4,a,o)>!
+TEXT_GAIUSE208_01352_Q1_000_000	¿Por qué te hiciste aventurer<if(gnum4,a,o)>?
+TEXT_GAIUSE208_01352_A1_000_001	Para ganar poder.
+TEXT_GAIUSE208_01352_A1_000_002	Para ganar gloria.
+TEXT_GAIUSE208_01352_A1_000_003	Para amasar una fortuna.
+TEXT_GAIUSE208_01352_A1_000_004	Para ir adonde florece la <italic(1)>wild rose<italic(0)>.
+TEXT_GAIUSE208_01352_YOUZAN_000_030	¡<italic(1)>Lo sabía<italic(0)>! Eso le dije a Koharu, pero no me creyó.
+TEXT_GAIUSE208_01352_YOUZAN_000_031	¿Gloria? Ah, ¿como darle honor a tu familia, quieres decir? Sí, papá siempre habla de eso.
+TEXT_GAIUSE208_01352_YOUZAN_000_032	Dinero, ¿eh? Sí, yo también quiero dinero. Podría hacer muchas cosas si tuviera algo ─ bueno, <italic(1)>aunque sea un poco<italic(0)>...
+TEXT_GAIUSE208_01352_YOUZAN_000_033	Entonces... ¿te gustan las rosas? Creo que entiendo... Digo, son lindas y todo... Pero ¿no crecen en muchos lugares?
+TEXT_GAIUSE208_01352_KOHARU_000_034	¡Ahora me toca a <italic(1)>mí<italic(0)>! ¡Disculpa, <if(gnum4,señorita,señor)> <split(<string(gstr1)>, ,1)>! ¡Tengo una pregunta! ¿Cómo es Revenant's Toll? ¿Es bonito?
+TEXT_GAIUSE208_01352_Q2_000_000	¿Cómo describirías Revenant's Toll?
+TEXT_GAIUSE208_01352_A2_000_000	Es un puesto de avanzada animado, frecuentado por incontables aventureros.
+TEXT_GAIUSE208_01352_A2_000_001	Es un bastión de civilización en una tierra salvaje, dura e implacable.
+TEXT_GAIUSE208_01352_A2_000_002	Es el hogar de los Scions of the Seventh Dawn.
+TEXT_GAIUSE208_01352_A2_000_003	Está... ¿a tiro de piedra de un castrum imperial?
+TEXT_GAIUSE208_01352_KOHARU_000_035	¿Quieres decir... que allí hay mucha gente tan fuerte como tú? ¡Ay, no puedo esperar!
+TEXT_GAIUSE208_01352_KOHARU_000_036	Entonces... ¿hay muchas rocas y eso? Suena un poco aterrador... pero tú también vas a estar ahí, ¿no?
+TEXT_GAIUSE208_01352_KOHARU_000_037	¡Ah, así que vives ahí con tus amigos! ¡Eso quiere decir que siempre vas a estar para protegernos!
+TEXT_GAIUSE208_01352_KOHARU_000_038	¡Ja! ¡A mí no me engañas! Nadie viviría <italic(1)>nunca<italic(0)> tan cerca de un castrum. ¡Mentiras, mentiras, la nariz se te estira!
+TEXT_GAIUSE208_01352_YOUZAN_000_039	¡Basta, Koharu! ¡Me toca otra vez! <if(gnum4,Señorita,Señor)> <split(<string(gstr1)>, ,1)> ─ cuando sea grande, quiero ser fuerte como tú. ¿Qué tengo que hacer?
+TEXT_GAIUSE208_01352_Q3_000_000	¿Cuál es la mejor forma de volverse más fuerte?
+TEXT_GAIUSE208_01352_A3_000_001	Buscar nuevas experiencias y aventuras.
+TEXT_GAIUSE208_01352_A3_000_002	Pelear contra bestias feroces.
+TEXT_GAIUSE208_01352_A3_000_003	Entrenar todos los días.
+TEXT_GAIUSE208_01352_A3_000_004	Comprarle armas y armaduras a Rowena.
+TEXT_GAIUSE208_01352_YOUZAN_000_040	¡Claro! Para ser mejor aventurero, ¡hay que ir de <italic(1)>aventuras<italic(0)>!
+TEXT_GAIUSE208_01352_YOUZAN_000_041	¿Como esa cosa contra la que peleaste hace un rato, dices? ¡Claro, claro!
+TEXT_GAIUSE208_01352_YOUZAN_000_042	¡Ajá! ¡Así que papá tenía razón! ¿Y cómo lo haces, entonces? ¡Vamos, cuéntame! ¡Y no te saltes nada!
+TEXT_GAIUSE208_01352_YOUZAN_000_043	¿Rowena? ¿Es buena? ¿Sus armas son baratas? Ahora no tengo dinero, pero quizá papá sí. Tendré que preguntarle.
+TEXT_GAIUSE208_01352_HOUZAN_000_044	Bueno, bueno ─ ya basta de preguntas para <if(gnum4,la señorita,el señor)> <split(<string(gstr1)>, ,1)>.
+TEXT_GAIUSE208_01352_KOHARU_000_045	¡No es justo! ¿Por qué Yozan puede hacer dos preguntas? Yo quiero saber de aventuras tanto como él...
+TEXT_GAIUSE208_01352_YOUZAN_000_046	¡Solo una más ─ por favor! ¿Crees que algún día podría ser aventurero como tú?
+TEXT_GAIUSE208_01352_YOUZAN_000_047	¿¡De verdad!? ¡Entonces lo seré! ¡Gracias por el consejo, <if(gnum4,señorita,señor)> <split(<string(gstr1)>, ,1)>! ¡No lo voy a olvidar!
+TEXT_GAIUSE208_01352_KOHARU_000_048	¡Yo también voy a ser aventurera!
+TEXT_GAIUSE208_01352_YOUZAN_000_049	¡Cuando lleguemos a Revenant's Toll, hagamos un Adventurers' Guild para domanos!
+TEXT_GAIUSE208_01352_YOUZAN_000_050	¡Protegeremos a nuestros amigos y castigaremos a los malvados ─ igual que <if(gnum4,la señorita,el señor)> <split(<string(gstr1)>, ,1)> y Lady Yugiri!
+TEXT_GAIUSE208_01352_KOHARU_000_051	¡Sí! ¡Igual que <if(gnum4,la señorita,el señor)> <split(<string(gstr1)>, ,1)> y Lady Yugiri!
+TEXT_GAIUSE208_01352_HOUZAN_000_052	Podemos seguir hablando de eso en el carruaje. ¿Viene con nosotros?
+TEXT_GAIUSE208_01352_HOUMEI_000_060	Miren eso...
+TEXT_GAIUSE208_01352_HOUZAN_000_060	Será bueno dormir en una cama de verdad para variar, aunque sea por una noche.
+TEXT_GAIUSE208_01352_YOUZAN_000_060	¡Seguro que con esas murallas podrían detener a una legión entera!
+TEXT_GAIUSE208_01352_KOHARU_000_060	¿Cuántos escalones hay? ¿Cien? ¡Los voy a contar!
+TEXT_GAIUSE208_01352_GYOSHA01348_000_060	¿Te molesta avisarle al señor Alphinaud que llegamos? Yo tengo que quedarme con los pájaros.
+TEXT_GAIUSE208_01352_YUGIRI_000_060	Ruego que no se acostumbren demasiado a este trato. Es un respiro bienvenido, sin duda, pero muy distinto de lo que nos espera en Revenant's Toll.
+TEXT_GAIUSE208_01352_KSASAGI_000_060	Celebramos su regreso, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>.
+TEXT_GAIUSE208_01352_KIKYOU_000_060	¿Ya llegó el primer grupo? ¡Maravilloso! Por favor, avísele al señor Alphinaud de inmediato.
+TEXT_GAIUSE208_01352_ALPHINAUD_000_060	Ah, <split(<string(gstr1)>, ,1)>. ¿Supongo que llegó el primer grupo? Excelente.
+TEXT_GAIUSE208_01352_ALPHINAUD_000_061	¿Hm? ¿Algo más? No, no. Aquí tengo todo bajo control. Usted y Lady Yugiri deberían viajar a Revenant's Toll cuanto antes.
+TEXT_GAIUSE208_01352_POP_MESSAGE	Sientes una mirada sobre ti...

@@ -1,0 +1,38 @@
+key	text
+TEXT_GAIUSE614_00426_SEQ_00	<if(gnum4,Una heroína,Un héroe)> debe ir adondequiera que l<if(gnum4,a,o)> necesiten, y según Minfilia, te necesitan en otra parte.
+TEXT_GAIUSE614_00426_SEQ_01	Parece que un asunto en el Quicksand requiere tu atención inmediata. Minfilia te pide que vayas a los Steps of Nald y hables con Momodi antes de reunirte con ella y los demás Scions en la Fragrant Chamber.
+TEXT_GAIUSE614_00426_SEQ_02	A través de Momodi, Alianne, de la 4.ª, pidió una reunión privada para mostrarte algo importante. Según la dueña, la teniente parecía muy preocupada... Ve a la estación al oeste del Coffer & Coffin y espera a que llegue, como te indicaron.
+TEXT_GAIUSE614_00426_SEQ_03	Te quedas a la vista y esperas con paciencia a que aparezca Alianne. Pero a medida que pasan los minutos, empiezas a preguntarte dónde está.
+TEXT_GAIUSE614_00426_SEQ_04	Tras otro rato indeterminado de espera, empiezas a dudar de que Alianne llegue algún día. Apenas se te cruza la idea, ves un frasco a tus pies. Aunque podría no ser más que basura, no parece llevar mucho tiempo ahí...
+TEXT_GAIUSE614_00426_SEQ_05	Mientras te preguntas qué significa el frasco, oyes una voz conocida. Laurentius, otro hombre que tú mism<if(gnum4,a,o)> reclutaste para los Crystal Braves, se sorprende de verte en el campo tan poco antes del banquete real. Te dice que no vio rastro de Alianne en su patrulla, pero te asegura que, si se la cruza, le dirá que la esperaste. El tiempo apremia, pero algo del frasco te inquieta. Quizá Momodi sepa qué pensar de él.
+TEXT_GAIUSE614_00426_SEQ_06	Momodi no puede decirte mucho del frasco, salvo que se parece a los que usan los alchemists. Igual que Laurentius, te ruega que no te preocupes por Alianne y que pienses en asuntos más urgentes.
+TEXT_GAIUSE614_00426_TODO_00	Habla con Momodi en el Quicksand.
+TEXT_GAIUSE614_00426_TODO_01	Reúnete con Alianne en Central Thanalan.
+TEXT_GAIUSE614_00426_TODO_02	Sigue esperando a Alianne.
+TEXT_GAIUSE614_00426_TODO_03	Recoge el frasco turbio.
+TEXT_GAIUSE614_00426_TODO_04	Muéstrale el frasco turbio a Momodi.
+TEXT_GAIUSE614_00426_MINFILIA_000_000	Nos adelantamos, <split(<string(gstr1)>, ,1)>. Únete a nosotros cuando se resuelva lo del Quicksand, por favor.
+TEXT_GAIUSE614_00426_THANCRED_000_001	Saluda a Momodi de mi parte, y dile que pasaré a verla pronto.
+TEXT_GAIUSE614_00426_YSHTOLA_000_002	Si no lo conociera, pensaría que nuestro bardo se topó con otra amante despechada...
+TEXT_GAIUSE614_00426_THANCRED_000_003	¿Eso es...? No, solo es mi imaginación.
+TEXT_GAIUSE614_00426_THANCRED_000_004	Ah, no me hagas caso. Es una costumbre de mi juventud descarriada, mirar por encima del hombro de vez en cuando.
+TEXT_GAIUSE614_00426_YDA_000_005	¿Comida y después baile... o baile y después comida? ¿O comida, después baile, y después más comida? Hmm...
+TEXT_GAIUSE614_00426_PAPALYMO_000_006	Espero que Yda no crea que vinimos a divertirnos. Al fin y al cabo, en teoría somos la escolta de la Antecedent.
+TEXT_GAIUSE614_00426_MOMODI_000_010	Te agradezco que pasaras con tan poco aviso, <split(<string(gstr1)>, ,1)>. Sé que tienes adónde ir, así que no te haré perder el tiempo.
+TEXT_GAIUSE614_00426_MOMODI_000_011	Eres amig<if(gnum4,a,o)> de una Crystal Brave llamada Alianne, ¿no? ¿Ex aventurera? Ahora que lo pienso, estoy bastante segura de que la reclutaste tú.
+TEXT_GAIUSE614_00426_MOMODI_000_012	Bueno, la cosa es que vino a comer hace poco, y antes de irse me pidió que te diera un mensaje. Dijo que si los demás terminaban llevándote a rastras al banquete, me asegurara de que lo recibieras antes de tu gran entrada.
+TEXT_GAIUSE614_00426_MOMODI_000_013	"Encuéntrame en la estación al oeste del Coffer & Coffin. Tengo algo que mostrarte".
+TEXT_GAIUSE614_00426_MOMODI_000_014	Un mensaje corto, te lo concedo, pero lo pensó mucho antes de elegir esas palabras. Y casi ni tocó la comida. En otras circunstancias, habría dicho que eran señales de un corazón inquieto, pero algo me dice que no piensa <if(gnum4,pedirte consejo sobre un pretendiente,confesarte su amor eterno)>.
+TEXT_GAIUSE614_00426_MOMODI_000_015	Mejor no hagas esperar a Alianne ─ ni a tus amigos del banquete, ya que estamos.
+TEXT_GAIUSE614_00426_SYSTEM_000_020	De pie en la plataforma, tus pensamientos empiezan a vagar... y muy pronto los fantasmas de compañeros perdidos y enemigos abatidos desfilan ante los ojos de tu mente en solemne procesión... Despejando la cabeza, recorres el horizonte con la mirada, pero no ves rastro de Alianne.
+TEXT_GAIUSE614_00426_SYSTEM_000_030	Aguzando el oído, oyes la cháchara de los Qiqirn y el zumbido de los syrphids, pero ningún paso que se acerque. Suspirando, bajas la cabeza... y entonces notas el frasco tirado a tus pies.
+TEXT_GAIUSE614_00426_LAURENTIUS_000_040	<split(<string(gstr1)>, ,1)>, ¿es usted? ¿Qué l<if(gnum4,a,o)> trae por aquí?
+TEXT_GAIUSE614_00426_LAURENTIUS_000_041	¿La teniente Alianne? Pues no, no la vi por aquí...
+TEXT_GAIUSE614_00426_LAURENTIUS_000_042	Si hubiera pasado por aquí, le garantizo que nos habríamos cruzado. Debo de haber pasado por este lugar una docena de veces.
+TEXT_GAIUSE614_00426_LAURENTIUS_000_043	Tenemos que patrullar los alrededores de la ciudad, por el banquete real. Órdenes del capitán, ¿entiende? Hablando de eso ─ ¿no está por empezar?
+TEXT_GAIUSE614_00426_LAURENTIUS_000_044	Usted debería estar con los demás invitados de honor, disfrutando de su merecido respiro. Sí, vuelva a Ul'dah, <split(<string(gstr1)>, ,1)>. Si me cruzo con la teniente, le diré que usted estuvo aquí.
+TEXT_GAIUSE614_00426_LAURENTIUS_000_050	Dioses, cómo l<if(gnum4,a,o)> envidio. Tanta comida y tanto vino... Pero no se me ocurre <if(gnum4,una mujer,un hombre)> que lo merezca más. Disfrute del banquete, <split(<string(gstr1)>, ,1)> ─ se lo ganó.
+TEXT_GAIUSE614_00426_MOMODI_000_060	Calculaba que irías directo al banquete después de verte con Alianne. ¿Qué pasa? ¿No tienes hambre?
+TEXT_GAIUSE614_00426_MOMODI_000_061	...Así que ella no estaba, pero <italic(1)>esto<italic(0)> sí, ¿eh? A ver...
+TEXT_GAIUSE614_00426_MOMODI_000_062	Hmmm... a mí me parece un frasco de alchemist, pero más allá de eso, no sabría decirte. Quizá lo mejor sea que lo guardes tú, por las dudas.
+TEXT_GAIUSE614_00426_MOMODI_000_063	En fin, no sirve de nada preocuparse por Alianne. Seguro que aparece pronto, y cuando aparezca, enseguida sabremos a qué venía todo esto. Además ─ tienes cosas más importantes en qué pensar.

@@ -1,0 +1,43 @@
+key	text
+TEXT_XXAUSE413_03887_SEQ_00	Ilberd está ansioso por retomar la persecución de Eline Roaille.
+TEXT_XXAUSE413_03887_SEQ_01	Gracias a los ojos atentos de los domanos, volviste a encontrar el rastro de Eline Roaille. Reúnete con Ilberd en Sweetbloom Pier, en el East Shroud.
+TEXT_XXAUSE413_03887_SEQ_02	Con algo de ayuda de Garlond Ironworks, la Alliance logró instalar aparatos que bloquean las comunicaciones alrededor de las ciudades-estado, así que Eline Roaille no tendrá más remedio que comunicarse en persona con sus cómplices. Solo queda atraparla con las manos en la masa. Ve con Ilberd y Yugiri a la Hawthorne Hut para perseguir a tu presa.
+TEXT_XXAUSE413_03887_SEQ_03	Llegas a la Hawthorne Hut y descubres que Eline Roaille ya partió hacia el Bramble Patch. Reúnete con Yugiri antes de lo que promete ser el final dramático de tu cacería.
+TEXT_XXAUSE413_03887_SEQ_04	Con la ayuda de los domanos, atrapaste a Eline Roaille en plena reunión con su contacto imperial. Su culpa parece ya indiscutible. Habla con Yugiri para saber qué opina de la misión.
+TEXT_XXAUSE413_03887_SEQ_05	Yugiri promete encargarse de las secuelas de la cacería, y te deja libre para contarle a Minfilia tus últimas aventuras en los Rising Stones.
+TEXT_XXAUSE413_03887_SEQ_06	A Minfilia la conmociona saber del arresto de Eline Roaille y de las acusaciones en su contra. Dejando de lado su consternación, te informa que los Scions avanzaron en su búsqueda de una forma de entrar al santuario de Iceheart.
+TEXT_XXAUSE413_03887_TODO_00	Habla con Ilberd en Sweetbloom Pier.
+TEXT_XXAUSE413_03887_TODO_01	Habla con Yugiri cerca de la Hawthorne Hut.
+TEXT_XXAUSE413_03887_TODO_02	Habla con Yugiri en el Bramble Patch.
+TEXT_XXAUSE413_03887_TODO_03	Habla con Yugiri.
+TEXT_XXAUSE413_03887_TODO_04	Habla con Minfilia.
+TEXT_XXAUSE413_03887_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
+TEXT_XXAUSE413_03887_ILBERD_000_000	Nuestra cacería nos lleva al East Shroud, Scion. Sugiero que sigamos el ejemplo de Roaille y tomemos el ferry desde Westshore Pier.
+TEXT_XXAUSE413_03887_ILBERD_000_001	Seguro querrá hacer algunos preparativos. Ocúpese de ellos mientras yo me adelanto. L<if(gnum4,a,o)> esperaré en Sweetbloom Pier.
+TEXT_XXAUSE413_03887_YUGIRI_000_010	Por aquí, amigos.
+TEXT_XXAUSE413_03887_YUGIRI_000_011	Su presa se dirige a la Hawthorne Hut.
+TEXT_XXAUSE413_03887_YUGIRI_000_012	Si Roaille es de verdad a quien buscamos, podemos esperar que piense contactar allí a sus amos garleans.
+TEXT_XXAUSE413_03887_ILBERD_000_013	Les debo una explicación. Sin duda saben que los garleans tienen su propio método para comunicarse a grandes distancias.
+TEXT_XXAUSE413_03887_ILBERD_000_014	Pues bien, nuestros ingeniosos amigos de Garlond Ironworks nos dieron aparatos que interfieren esas comunicaciones, y los instalamos alrededor de las ciudades<-->estado. Así les hicimos difícil a los agentes imperiales comunicarse con sus amos.
+TEXT_XXAUSE413_03887_ILBERD_000_015	Por eso, Roaille no tendría más remedio que reunirse en persona con su contacto imperial. Pero como es una cara conocida de los Immortal Flames, no puede moverse por Thanalan sin que la reconozcan. Sería cuestión de tiempo antes de que alguien viera a través de su disfraz.
+TEXT_XXAUSE413_03887_ILBERD_000_016	Por eso, creo, eligió el Black Shroud para su reunión clandestina. <if([gnum71==2],Este lugar es el hogar de muchos de los suyos,Los Elezen son algo habitual aquí)>, y <if([gnum71==2],la llegada de un Elezen más no llamará,sus idas y venidas no llamarán)> la atención.
+TEXT_XXAUSE413_03887_YUGIRI_000_017	Según mis exploradores, los garleans enviaron agentes con la intención de destruir los aparatos y volver innecesario ese contacto directo. Por suerte, hasta ahora nuestros shinobi lograron frustrar sus esfuerzos.
+TEXT_XXAUSE413_03887_ILBERD_100_018	...Es el momento. Solo tenemos que ir a la Hawthorne Hut y atrapar a Roaille con las manos en la masa.
+TEXT_XXAUSE413_03887_ILBERD_000_020	Si Roaille estuvo aquí, ya no está. No tenemos más remedio que seguir la persecución.
+TEXT_XXAUSE413_03887_YUGIRI_000_030	Mi gente informa que nuestra presa partió hacia el Bramble Patch.
+TEXT_XXAUSE413_03887_ILBERD_000_031	La hiedra vuelve a la maraña de la que salió... Pero quizá sea para mejor.
+TEXT_XXAUSE413_03887_ILBERD_000_032	Para condenar a alguien de su posición, necesitaremos pruebas contundentes. ¿Qué mejor que atraparla con las manos en la masa cuando se reúna con sus amos garleans?
+TEXT_XXAUSE413_03887_YUGIRI_000_033	Mis compatriotas y yo esperaremos en las sombras. Anden con cuidado, amigos.
+TEXT_XXAUSE413_03887_YUGIRI_000_050	Ni siquiera una guerrera del renombre de Roaille podría haber esperado escapar por la fuerza. Diga lo que diga, su rendición no demuestra inocencia, sino que sabe que su posición es insostenible.
+TEXT_XXAUSE413_03887_YUGIRI_000_051	Arrancada así la hiedra, es de esperar que los zarcillos que enredó alrededor de los Immortal Flames se marchiten y mueran poco a poco.
+TEXT_XXAUSE413_03887_YUGIRI_000_052	Quizá entonces la gente de Ul'dah tenga la Grand Company que merece. Pero hablemos del presente. Si me permite la pregunta, ¿qué hará ahora, <split(<string(gstr1)>, ,1)>?
+TEXT_XXAUSE413_03887_YUGIRI_000_053	...Así que los Scions buscan una forma de entrar al santuario de Iceheart.
+TEXT_XXAUSE413_03887_YUGIRI_000_054	Entonces me atrevo a decir que está ansios<if(gnum4,a,o)> por volver a los Rising Stones. No deje que l<if(gnum4,a,o)> entretenga.
+TEXT_XXAUSE413_03887_YUGIRI_000_055	No tema ─ mis compatriotas y yo nos ocuparemos de las secuelas. No hace falta que desperdicie su talento aquí.
+TEXT_XXAUSE413_03887_YUGIRI_000_056	Y hablando de talento, usted estuvo entrenando en el arte de los shinobi, ¿no es así? El cambio en su porte es evidente ─ al menos para mí. Espero con ganas verl<if(gnum4,a,o)> en acción. Hasta la próxima, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>.
+TEXT_XXAUSE413_03887_YUGIRI_000_057	Y hablando de talento, ¿pensó en entrenarse en el arte de los shinobi? Creo que tiene aptitud para ello, así que piénselo, por favor. Hasta la próxima, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>.
+TEXT_XXAUSE413_03887_MINFILIA_000_060	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. Tengo entendido que Alphinaud tenía una tarea para ti. ¿Puedo preguntar cuál era?
+TEXT_XXAUSE413_03887_MINFILIA_000_061	¿Acusaciones de traición y espionaje contra Eline Roaille? Apenas puedo creerlo...
+TEXT_XXAUSE413_03887_MINFILIA_000_062	¿No podría haber habido algún malentendido...?
+TEXT_XXAUSE413_03887_MINFILIA_000_064	No, no sirve de nada darle vueltas. Sea cual sea la verdad, debemos confiar en que las autoridades la descubran.
+TEXT_XXAUSE413_03887_MINFILIA_000_065	Hablemos de otro asunto. Me alegra informarte que avanzamos en nuestros esfuerzos por encontrar una forma de entrar al santuario de Iceheart...

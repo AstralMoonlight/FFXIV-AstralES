@@ -1,0 +1,55 @@
+key	text
+TEXT_GAIUSE609_00421_SEQ_00	Minfilia se queda sin palabras.
+TEXT_GAIUSE609_00421_SEQ_01	Recordando una conversación con Urianger, Minfilia deduce que Tataru podría haberse puesto a estudiar arcanima. Pese a que la joven declaró que volvería como recepcionista y guardaespaldas a la vez, la Antecedent no puede evitar preocuparse. Para tranquilizar a Minfilia, viaja al Arcanists' Guild de Limsa Lominsa y busca a Tataru.
+TEXT_GAIUSE609_00421_SEQ_02	Encuentras a Tataru en la sala de prácticas del Arcanists' Guild, con un atuendo flamante y el mismo entusiasmo de siempre. Con evidente orgullo, declara que debe hacer un ejercicio de entrenamiento especial por encargo de la señora Thubyrgeim, y se va corriendo antes de que puedas responder. Dadas las circunstancias, quizá sea prudente preguntarle a la maestra interina del gremio qué clase de entrenamiento le encargó a Tataru.
+TEXT_GAIUSE609_00421_SEQ_03	Al saber que eres amig<if(gnum4,a,o)> de Tataru, la señora Thubyrgeim te cuenta sus dudas sobre el potencial de la joven recepcionista como arcanist ─ o más bien su falta de potencial. Luego te ruega que supervises el entrenamiento de Tataru fuera de la ciudad, al sur de la Zephyr Gate, por si algo sale mal.
+TEXT_GAIUSE609_00421_SEQ_04	Mientras observas desde lejos, Tataru se acerca a varios cajones para hacer una inspección de práctica. Pronto se acercan unas bestias salvajes, y ella se prepara para pelear ─ solo para que su Carbuncle la abandone. A Tataru no le queda más remedio que huir, igual que a ti no te queda más remedio que seguirla.
+TEXT_GAIUSE609_00421_SEQ_05	Pese a tu cuidadosa cara de póquer, Tataru enseguida se da cuenta de que presenciaste su vergüenza. Abatida, renuncia a la arcanima y vuelve a la ciudad. Aunque la prueba terminó en fracaso, a la señora Thubyrgeim le alegrará saber que su alumna no salió lastimada.
+TEXT_GAIUSE609_00421_SEQ_06	Tataru vuelve al gremio poco después de que llegas, y le da a una desconcertada señora Thubyrgeim una evaluación demoledora de su desempeño y de sus aptitudes en general. Pero antes de que tu joven amiga pueda castigarse más, la maestra interina le dice que no pierda de vista sus fortalezas ─ que recuerde que, aunque hay estudios en los que quizá no destaque, hay otros para los que es muy apta. Aunque Tataru dice que se tomará esas palabras a pecho, está claro que su confianza recibió un golpe aplastante...
+TEXT_GAIUSE609_00421_TODO_00	Busca a Tataru en el Arcanists' Guild.
+TEXT_GAIUSE609_00421_TODO_01	Habla con Thubyrgeim.
+TEXT_GAIUSE609_00421_TODO_02	Observa el entrenamiento de Tataru al sur de la Zephyr Gate.
+TEXT_GAIUSE609_00421_TODO_03	Habla con Tataru.
+TEXT_GAIUSE609_00421_TODO_04	Habla con Thubyrgeim.
+TEXT_GAIUSE609_00421_MINFILIA_000_000	¿El poder de defenderse...? Hmm. Tataru siempre estuvo llena de sorpresas.
+TEXT_GAIUSE609_00421_MINFILIA_000_001	Ahora que lo pienso, recuerdo que Urianger mencionó que ella se había interesado por la arcanima...
+TEXT_GAIUSE609_00421_MINFILIA_000_002	¿Quizá espera entrar al Arcanists' Guild de Limsa Lominsa? ...Sí, debe de ser eso.
+TEXT_GAIUSE609_00421_MINFILIA_000_003	¿Serías tan amable de ir al gremio y ver que todo esté bien? Seguramente no hace falta ─ pero no soy la única a la que le preocupa su seguridad, ¿no?
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_004	¿Ya bajó? El entusiasmo está muy bien, pero en exceso... \<suspiro> Ruego no haberme equivocado.
+TEXT_GAIUSE609_00421_TATARU_000_010	¿¡<split(<string(gstr1)>, ,1)>!? ¿Qué haces aquí?
+TEXT_GAIUSE609_00421_TATARU_000_011	No quería que se preocupara... Es lo último que quería.
+TEXT_GAIUSE609_00421_TATARU_000_012	Justamente estoy aquí para terminar con esas preocupaciones, ¿no lo ves?
+TEXT_GAIUSE609_00421_TATARU_000_013	¡Yo, Tataru Taru, me convertiré en una gran y poderosa arcanist!
+TEXT_GAIUSE609_00421_TATARU_000_014	¡Y ahora, por encargo de la señora Thubyrgeim, tengo que ir a hacer un ejercicio de entrenamiento especial! ¡Hasta la próxima!
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_030	Ah, pero si es <split(<string(gstr1)>, ,1)>. ¿Qué l<if(gnum4,a,o)> trae al gremio?
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_031	...Así que conoce a nuestra miembro más reciente. \<suspiro> Alguien con su experiencia como arcanist verá que su potencial deja bastante que desear.
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_032	Aun así, no hubo forma de disuadirla, y ahora va a hacer su primera prueba: una inspección simulada de tres cajones. ¿Seguro recuerda haber recibido un entrenamiento parecido bajo la supervisión de K'lyhia?
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_033	Se me ocurre algo ─ ¿por qué no supervisa usted el entrenamiento de Tataru? Dada su relación con la muchacha y lo bien que conoce la tarea, me parece la persona ideal. Solo tiene que ir a los acantilados al sur de la Zephyr Gate, como antes, y observar desde lejos.
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_040	¿Sí? ¿En qué puedo ayudarl<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>?
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_041	...Así que conoce a nuestra miembro más reciente. \<suspiro> Quizá ya lo notó, pero me temo que el potencial de la joven Tataru deja bastante que desear.
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_042	Aun así, no hubo forma de disuadirla, y ahora va a hacer su primera prueba: una inspección simulada de tres cajones. Una tarea sencilla, dirán algunos, pero que se espera que cumplan todos los arcanists.
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_043	Se me ocurre algo ─ ¿por qué no ayuda a Tataru con su entrenamiento? Dada su relación con la muchacha y lo que va entendiendo de la arcanima, podría serle de gran ayuda. La prueba será en los acantilados al sur de la Zephyr Gate. Solo tiene que observar desde lejos.
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_050	Saludos, y bienvenid<if(gnum4,a,o)> al Arcanists' Guild. ¿Necesita ayuda?
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_051	...Así que conoce a nuestra miembro más reciente. Hmm... Lamento ser portadora de malas noticias, pero... me temo que la joven Tataru quizá no sea la más indicada para el estudio de la arcanima.
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_052	Aun así, no hubo forma de disuadirla, y ahora va a hacer su primera prueba: una inspección simulada de tres cajones. Una tarea sencilla, dirán algunos, pero que se espera que cumplan todos los arcanists.
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_053	Se me ocurre algo ─ ¿por qué no supervisa el entrenamiento de Tataru? Está claro que es <if(gnum4,una aventurera consumada,un aventurero consumado)>, y dada su relación con la muchacha, parece la persona ideal para tener a mano. La prueba será en los acantilados al sur de la Zephyr Gate. Solo tiene que observar desde lejos.
+TEXT_GAIUSE609_00421_TATARU_000_070	Por mares azules a puerto pirata,♪<br>donde halló su joya más grata...♪
+TEXT_GAIUSE609_00421_TATARU_000_071	Para arruinar al contrabandista,♪<br>¡llegó la muchacha más lista!♪
+TEXT_GAIUSE609_00421_TATARU_000_072	¡Dales con un Backdraft!♪<br>¡Córtalos con Gust!♪<br>¡Tíralos con Downburst!♪<br>¡Vamos, Carbuncle, vamos!♪
+TEXT_GAIUSE609_00421_TATARU_000_073	¡Oh～jojojo! ¿Esos que veo son <italic(1)>cajones<italic(0)>?
+TEXT_GAIUSE609_00421_TATARU_000_074	¡Ah, y <italic(1)>esta<italic(0)> debe de ser la verdadera prueba! Pero estamos listos para ellos, ¿verdad, Carbuncle?
+TEXT_GAIUSE609_00421_TATARU_000_075	...¿Carbuncle?
+TEXT_GAIUSE609_00421_TATARU_000_076	¡Uwaaah! ¡Vuelve, Carbuncle! ¡Vueeelve!
+TEXT_GAIUSE609_00421_TATARU_000_090	Debí imaginar que vendrías, <split(<string(gstr1)>, ,1)>.
+TEXT_GAIUSE609_00421_TATARU_000_091	No hace falta que digas nada ─ tu cara lo dice todo. Sé que presenciaste mi vergüenza.
+TEXT_GAIUSE609_00421_TATARU_000_092	\<sollozo> Traicionada por mi propio Carbuncle y abandonada a merced de las bestias salvajes...
+TEXT_GAIUSE609_00421_TATARU_000_093	Yo... tengo que aceptar la verdad. Nunca voy a ser una guerrera como tú o los demás.
+TEXT_GAIUSE609_00421_TATARU_000_094	Le avisaré a la señora Thubyrgeim que pienso dejar el gremio. La arcanima... como tantas otras cosas... está fuera de mi alcance.
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_100	Ah, ¿ya de vuelta? ¿Cómo le fue a nuestra arcanist novata?
+TEXT_GAIUSE609_00421_TATARU_000_101	<italic(1)>Pésimamente<italic(0)>, señora Thubyrgeim, pésimamente ─ como puede atestiguar <split(<string(gstr1)>, ,1)>.
+TEXT_GAIUSE609_00421_TATARU_000_102	Me equivoqué al hacerme arcanist. Me equivoqué, como siempre. No sirvo para esto en absoluto, y le pido sinceras disculpas por hacerle perder el tiempo.
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_103	...Tataru. Si eso fuera cierto, nunca te habría dejado entrar.
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_104	Todos debemos aceptar nuestras limitaciones, para que nuestras ambiciones no nos desvíen. Pero en el proceso no debemos perder de vista nuestras fortalezas.
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_105	Por ejemplo, tu habilidad excepcional con los números te ayudó a entender muy bien los fundamentos de la arcanima. Si no fuera así, te habría costado hasta invocar a Carbuncle a tu lado.
+TEXT_GAIUSE609_00421_THUBYRGEIM_000_106	En mi opinión, los Scions tienen mucha suerte de contar con una recepcionista tan capaz y de tan buen carácter. ¿No le parece?
+TEXT_GAIUSE609_00421_TATARU_000_107	Es usted demasiado amable, señora Thubyrgeim. Aunque no pude superar este desafío, me tomaré sus palabras a pecho e intentaré no desanimarme.

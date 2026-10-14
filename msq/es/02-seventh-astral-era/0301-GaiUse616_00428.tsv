@@ -1,0 +1,38 @@
+key	text
+TEXT_GAIUSE616_00428_SEQ_00	En tiempos difíciles, hay pocas cosas más valiosas que un apoyo incondicional.
+TEXT_GAIUSE616_00428_SEQ_01	Te enteras de que en tu ausencia los dravanianos renovaron su asalto a Ishgard, y que varios wyverns lograron entrar a la ciudad propiamente dicha. Las bestias murieron, pero no antes de causar un daño considerable, así que no sorprende mucho que tu pedido de asilo no vaya a escucharse hasta que disminuya la amenaza sobre Ishgard. Por ahora, Lord Haurchefant los invita a ti y a Alphinaud a reunirse con sus compañeros en la sala de audiencias. Habla con el caballero apostado afuera para entrar y averigua quién te espera adentro.
+TEXT_GAIUSE616_00428_SEQ_02	Para tu sorpresa, encuentras a Tataru y a Yugiri esperándote en la sala de audiencias: la líder de los refugiados rescató a la joven recepcionista de los Crystal Braves en Limsa Lominsa. Te enteras de que juntas viajaron a los Waking Sands, donde Urianger lanzó una poderosa ilusión para ocultar la presencia de quienes se refugian allí. Esta pequeña bendición pronto se ve empañada al darte cuenta de que, salvo tú y Alphinaud, no se sabe nada de ninguno de los otros Scions que asistieron al banquete. Presa de la melancolía, Alphinaud se maldice por no haber visto a los traidores entre los suyos, y por haber creído tontamente que podía salvar el mundo él solo. Al verlo, Lord Haurchefant y Tataru le recuerdan que no todo está perdido ─ que todavía tienen aliados a quienes recurrir. Con esas palabras resonando en sus oídos, lo que queda de los Scions of the Seventh Dawn decide retomar el camino y buscar su redención... paso a paso.<br><br>※La siguiente misión del escenario principal estará disponible hablando con Alphinaud cuando completes la misión principal "Before the Dawn".
+TEXT_GAIUSE616_00428_TODO_00	Habla con el guardia de la House Fortemps.
+TEXT_GAIUSE616_00428_ALPHINAUD_000_010	...¿Quiénes lograron escapar? ¿Y qué fue de los que no?
+TEXT_GAIUSE616_00428_HAURCHEFANT_000_011	La sala de audiencias l<if(gnum4,a,o)> espera, <split(<string(gstr1)>, ,1)>. No tenga en vilo a sus compañeros, por favor. ¡Seguro que el corazón les dará un vuelco al verl<if(gnum4,a,o)>!
+TEXT_GAIUSE616_00428_FORTEMPSGUARD00428_000_020	Saludos, <if(gnum4,señora,señor)>. ¿Le hago pasar?
+TEXT_GAIUSE616_00428_SYSTEM_000_021	Al entrar a la sala de audiencias, se reproducirán varias cinemáticas seguidas.
+TEXT_GAIUSE616_00428_SYSTEM_000_022	Se recomienda reservar tiempo suficiente para verlas completas.
+TEXT_GAIUSE616_00428_FORTEMPSGUARD00428_Q1_000_000	¿Entrar a la sala de audiencias?
+TEXT_GAIUSE616_00428_FORTEMPSGUARD00428_A1_000_001	Sí
+TEXT_GAIUSE616_00428_FORTEMPSGUARD00428_A1_000_002	No
+TEXT_GAIUSE616_00428_TATARU_000_040	¿¡Alphinaud!? ¿¡<split(<string(gstr1)>, ,1)>!? ¿De verdad son ustedes?
+TEXT_GAIUSE616_00428_TATARU_000_041	Estoy... estoy tan feliz de que... de que estén... \<sollozo> \<sollozo>
+TEXT_GAIUSE616_00428_TATARU_000_042	Intenté comunicarme con Minfilia y los demás, pero nadie respondía...
+TEXT_GAIUSE616_00428_TATARU_000_043	Y después los Crystal Braves ─ ¡nuestra propia gente! ─ se volvieron contra nosotras en el mercado.
+TEXT_GAIUSE616_00428_TATARU_000_044	F'lhaminn me dijo que corriera, y corrí. Corrí y corrí hasta que me ardieron los pulmones y me dolieron los pies... Pero me perdí... y después...
+TEXT_GAIUSE616_00428_YUGIRI_000_045	(-???-)Por suerte, ya había visto a algunos de los Braves comportarse de forma sospechosa.
+TEXT_GAIUSE616_00428_YUGIRI_000_046	¿Hm? Ah, sí, mi máscara ─ la perdí en la pelea.
+TEXT_GAIUSE616_00428_TATARU_000_047	¿¡No es bonita!?
+TEXT_GAIUSE616_00428_TATARU_000_048	En fin, después de que Yugiri me encontró, viajamos a Vesper Bay y nos reunimos con Urianger. Cuando le contamos lo que había pasado, usó su magia para tejer una ilusión alrededor de los Waking Sands. ¡Desde afuera, nuestra vieja sede ahora parece un depósito abandonado!
+TEXT_GAIUSE616_00428_TATARU_000_049	Y la transformación no tardó nada. Al parecer, Urianger empezó a prepararse después del ataque imperial, por si el Empire decidía volver a visitarnos. Bien pensado, ¿no?
+TEXT_GAIUSE616_00428_TATARU_000_050	Perdón, ¿dónde estaba? Ah, sí, así que esperamos allí, en los Waking Sands, con la esperanza de que llegaran otros... pero no llegó nadie más.
+TEXT_GAIUSE616_00428_YUGIRI_000_051	Mi gente está buscando a los demás Scions en este momento, pero todavía sin éxito. Esperaba que ustedes pudieran sugerir otros lugares donde buscar. Ah, pero deben saber que los Rising Stones no corrieron la buena suerte de los Waking Sands. Allí solo los esperan Crystal Braves.
+TEXT_GAIUSE616_00428_YUGIRI_000_052	Sea como sea, todavía tenemos motivos para la esperanza, ¿no? Si ustedes dos escaparon, no es imposible que los demás también lo hayan hecho.
+TEXT_GAIUSE616_00428_YUGIRI_000_053	Puede que los hayan abandonado hombres y mujeres que creían leales, pero tengan por seguro que el pueblo de Doma sigue con ustedes. Agradecemos esta oportunidad de pagar nuestras deudas, y seguiremos esforzándonos por encontrar a los demás y devolverles a los Scions el lugar de honor que les corresponde.
+TEXT_GAIUSE616_00428_ELIDIBUSANCIENT_000_070	(-Elidibus-)<colortype(547)>Nabriales ya no existe.<colortype(0)>
+TEXT_GAIUSE616_00428_LAHABREAANCIENT_000_071	(-Lahabrea-)<colortype(547)>No le correspondía invocar el Ardor. Su perdición fue obra suya.<colortype(0)>
+TEXT_GAIUSE616_00428_LAHABREAANCIENT_000_072	(-Lahabrea-)<colortype(547)>Aun así, me preocupa. Ellos... extinguieron lo que en justicia debería ser eterno.<colortype(0)>
+TEXT_GAIUSE616_00428_ELIDIBUSANCIENT_000_073	(-Elidibus-)<colortype(547)>Quizá no estaba del todo equivocado. Puede que haga falta más prisa.<colortype(0)>
+TEXT_GAIUSE616_00428_LAHABREAANCIENT_000_074	(-Lahabrea-)<colortype(547)>Pensamos igual.<colortype(0)>
+TEXT_GAIUSE616_00428_ELIDIBUSANCIENT_000_075	(-Elidibus-)<colortype(547)>¿Las tierras del norte, entonces?<colortype(0)>
+TEXT_GAIUSE616_00428_LAHABREAANCIENT_000_076	(-Lahabrea-)<colortype(547)>La tierra es fértil, y las semillas están bien sembradas. Por mi voluntad, cosecharán una salvación como el mundo nunca conoció.<colortype(0)>
+TEXT_GAIUSE616_00428_ELIDIBUSANCIENT_000_077	(-Elidibus-)<colortype(547)>Por <italic(1)>Su<italic(0)> voluntad.<colortype(0)>
+TEXT_GAIUSE616_00428_LAHABREAANCIENT_000_078	(-Lahabrea-)<colortype(547)>...Por Su voluntad.<colortype(0)>
+TEXT_GAIUSE616_00428_URIANGER_000_079	He respondido a vuestro llamado, Emissary. Hablad y dad a conocer vuestra intención.
+TEXT_GAIUSE616_00428_ELIDIBUSEORZEA_000_080	(-Elidibus-)Quisiera hablar del destino, Archon. El suyo, el mío ─ el destino de esta misma estrella.

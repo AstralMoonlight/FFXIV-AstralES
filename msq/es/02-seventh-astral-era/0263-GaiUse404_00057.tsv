@@ -1,0 +1,61 @@
+key	text
+TEXT_GAIUSE404_00057_SEQ_00	Los últimos sucesos le dieron mucho en qué pensar a Alphinaud.
+TEXT_GAIUSE404_00057_SEQ_01	Dada la desafortunadísima oportunidad del último ataque de Iceheart, Alphinaud no puede evitar preguntarse si los mismos dioses conspiran contra él. Pero aunque así fuera, no dudaría en desafiarlos. Síguelo y habla con Lord Haurchefant para saber más de las actividades de los herejes.
+TEXT_GAIUSE404_00057_SEQ_02	La ruta de la caravana la conocían solo unos pocos, y sin embargo, según todos los relatos, los herejes ejecutaron la emboscada a la perfección ─ algo que no se le escapa a la subordinada de Aymeric. Aun así, Alphinaud cree que hay que examinar a fondo el lugar de la emboscada antes de seguir otras líneas de investigación. Viaja a Boulder Downs e interroga a los caballeros de la House Fortemps que vigilan allí.
+TEXT_GAIUSE404_00057_SEQ_03	Uno de los caballeros que investigan el lugar te cuenta lo que piensa del ataque: especula que los herejes vinieron preparados con sus propias carretas para transportar los cajones. También menciona a un escudero que sobrevivió al ataque y que está recibiendo atención en el Observatorium. Con suerte, habrá recobrado el conocimiento cuando llegues.
+TEXT_GAIUSE404_00057_SEQ_04	Las palabras del escudero herido pintan un panorama sombrío. Disfrazados de peregrinos, Iceheart y sus hermanos masacraron a los guardias de la caravana, y el joven solo sobrevivió haciéndose el muerto. Mientras yacía inmóvil en la nieve, oyó a los herejes hablar de "la resurrección de Shiva" ─ una idea que llena al escudero de incredulidad y de terror por igual. Alphinaud tiene que saber lo que vio el escudero.
+TEXT_GAIUSE404_00057_SEQ_05	Apóstata para la Holy See, santa patrona de los herejes, Shiva se acostó con dragones hace mucho tiempo. Pero murió hace siglos, y los muertos están perdidos para siempre... ¿o no? Los herejes parecen convencidos de que su resurrección está cerca, pero Alphinaud cree que se trata de algo mucho peor: la invocación de otro primal, posible gracias a los cristales robados de la caravana. Si tiene razón, no se puede permitir que el plan de Iceheart llegue a buen puerto.
+TEXT_GAIUSE404_00057_TODO_00	Habla con Haurchefant.
+TEXT_GAIUSE404_00057_TODO_01	Habla con el caballero de la House Fortemps en Boulder Downs.
+TEXT_GAIUSE404_00057_TODO_02	Habla con el escudero sobreviviente en el Observatorium.
+TEXT_GAIUSE404_00057_TODO_03	Infórmale a Alphinaud.
+TEXT_GAIUSE404_00057_ALPHINAUD_000_000	\<suspiro> Justo cuando empezábamos a avanzar...
+TEXT_GAIUSE404_00057_ALPHINAUD_000_001	Y para colmo, la caravana de la que hablaban iba nada menos que a Revenant's Toll. Francamente, si fuera de esa opinión, pensaría que los dioses conspiran contra nosotros.
+TEXT_GAIUSE404_00057_ALPHINAUD_000_002	Por suerte, no lo soy. Quisiera saber más de este ataque. Hablemos con Lord Haurchefant y averigüemos qué sabe.
+TEXT_GAIUSE404_00057_ALPHINAUD_100_000	Tenemos que encontrar a los herejes y─ \<suspiro> No, apurarnos no servirá de nada. Primero oigamos lo que tiene que decir Lord Haurchefant.
+TEXT_GAIUSE404_00057_LUCIA_100_001	(-Temple Knight taciturna-)Vine a oír hablar a Lord Haurchefant, no a usted.
+TEXT_GAIUSE404_00057_HAURCHEFANT_000_010	Mis más sinceras disculpas por la interrupción, amigos, pero la situación exige que actuemos rápido.
+TEXT_GAIUSE404_00057_ALPHINAUD_000_011	Si fuera tan amable de explicarse...
+TEXT_GAIUSE404_00057_HAURCHEFANT_000_012	Los herejes de Iceheart cayeron sobre la caravana que iba a Revenant's Toll cuando pasaba por Boulder Downs.
+TEXT_GAIUSE404_00057_HAURCHEFANT_000_013	Fue una emboscada ─ rápida y despiadada. En un instante mataron a todos los caballeros y se llevaron todos los cajones. Después, tan rápido como aparecieron, se fueron.
+TEXT_GAIUSE404_00057_LUCIA_000_014	(-Temple Knight taciturna-)Sería una hazaña imposible sin conocer la ruta ─ un conocimiento que, supongo, solo tienen unos pocos elegidos.
+TEXT_GAIUSE404_00057_ALPHINAUD_000_015	...En efecto. Podemos seguir esa línea de investigación a su debido tiempo. Me parece que examinar el lugar de la emboscada debería ser lo primero.
+TEXT_GAIUSE404_00057_ALPHINAUD_000_016	El rastro todavía está fresco. Debemos actuar rápido ─ como dijo Lord Haurchefant ─, antes de que se pierdan pruebas cruciales.
+TEXT_GAIUSE404_00057_ALPHINAUD_000_017	Usted tiene un don para descubrir verdades ocultas, <split(<string(gstr1)>, ,1)>. ¿Por qué no va a inspeccionar en persona el lugar de la emboscada?
+TEXT_GAIUSE404_00057_HAURCHEFANT_000_018	¡Excelente idea! Al llegar, dígales a mis hombres a qué va, y con gusto le contarán lo que encontraron.
+TEXT_GAIUSE404_00057_ALPHINAUD_000_020	Por ahora me quedaré en Camp Dragonhead. Si averigua algo de interés, vuelva de inmediato, por favor.
+TEXT_GAIUSE404_00057_HAURCHEFANT_000_030	Mis hombres están haciendo su propia investigación en este momento. Siga el camino al sur, hacia Mor Dhona, y a su debido tiempo los encontrará junto a la carreta.
+TEXT_GAIUSE404_00057_YAELLE_100_030	¡Qué descarados se volvieron estos herejes, para asaltar caravanas escoltadas por caballeros de la House Fortemps!
+TEXT_GAIUSE404_00057_FORTEMPSGUARD00057_000_040	Circule, aventurer<if(gnum4,a,o)>. Aquí no hay nada─ ¿Eh? ¿Lord Haurchefant le dijo que hablara con nosotros? Entonces usted debe de ser─ Disculpe, Scion.
+TEXT_GAIUSE404_00057_FORTEMPSGUARD00057_000_041	Como ve, no dejaron ni un cajón. Hasta volcaron la carreta, por si acaso.
+TEXT_GAIUSE404_00057_FORTEMPSGUARD00057_000_042	Todo esto es un poco raro, si me pregunta. Habría sido más fácil robarla entera ─ aunque mucho más difícil esconderla, lo admito.
+TEXT_GAIUSE404_00057_FORTEMPSGUARD00057_000_043	Calculo que vinieron preparados, seguramente con carretas propias escondidas no muy lejos... Ah, pero no haga caso de mis desvaríos. Sin pruebas, no son más que especulaciones.
+TEXT_GAIUSE404_00057_FORTEMPSGUARD00057_000_044	Quizá el escudero al que están atendiendo en el Observatorium pueda decirle algo más concreto. Si es que está despierto, claro. A diferencia de mí, él estuvo durante el ataque ─ aunque su presencia no sirvió de mucho.
+TEXT_GAIUSE404_00057_FORTEMPSGUARD00057_000_045	Lo siento, Scion, pero si busca respuestas, no tengo ninguna. Mejor vaya a ver qué recuerda ese escudero que está en cama en el Observatorium, si está en condiciones de hablar.
+TEXT_GAIUSE404_00057_YAELLE_100_050	¿Muertos? ¿Todos? ¿Hasta... hasta los escuderos?
+TEXT_GAIUSE404_00057_LUCIA_100_051	(-Temple Knight taciturna-)Basta con un par de labios sueltos...
+TEXT_GAIUSE404_00057_INJUREDSENTRY00057_000_050	Usted... usted vino a preguntar por el ataque, ¿verdad?
+TEXT_GAIUSE404_00057_INJUREDSENTRY00057_000_051	...Nos los encontramos frente a la entrada del Hall of the Seven Echoes. Peregrinos, pensamos que eran ─ perdidos y mal equipados para seguir viaje al norte. Nuestro jefe los llamó, y una se adelantó a responder.
+TEXT_GAIUSE404_00057_INJUREDSENTRY00057_000_052	Se acercó despacio, con el cabello plateado flotando en el viento como nieve que se derrite. Solo una muchacha, pensé, un pobre corderito perdido en busca de salvación.
+TEXT_GAIUSE404_00057_INJUREDSENTRY00057_000_053	Nuestro jefe debió de pensar lo mismo ─ si no, ¿por qué la habría dejado acercarse tanto? Intercambiaron unas palabras que no oí, y ella se inclinó como para besarle la mejilla... y entonces él suspiró y se desplomó. No supe lo que había pasado hasta que vi la nieve teñirse de rojo.
+TEXT_GAIUSE404_00057_INJUREDSENTRY00057_000_054	Y después todo era rojo adonde mirara. Intenté pelear, pero me dieron un golpe en la cabeza, y cuando volví en mí, los demás estaban muertos y los herejes descargaban la carreta. No pude... Q-Quiero decir, me habrían matado, así que... Así que me quedé quieto y escuché.
+TEXT_GAIUSE404_00057_INJUREDSENTRY00057_000_055	La gente de Iceheart hablaba de liberación y de resurrección. Y... hablaban de <italic(1)>Shiva<italic(0)>...
+TEXT_GAIUSE404_00057_INJUREDSENTRY00057_000_060	Por cómo hablaban, de verdad creen que pueden resucitar a Shiva. Pero eso no puede ser posible, ¿no...? No puede...
+TEXT_GAIUSE404_00057_ALPHINAUD_000_070	Ah, volvió. ¿Qué noticias nos trae?
+TEXT_GAIUSE404_00057_HAURCHEFANT_000_071	Parece que a Lady Iceheart no le tiembla el pulso para mancharse las manos de sangre.
+TEXT_GAIUSE404_00057_ALPHINAUD_000_072	¿Quién es esa "Shiva" de la que hablaban los herejes?
+TEXT_GAIUSE404_00057_LUCIA_000_073	(-Temple Knight taciturna-)...¿No leyó ni una línea del <italic(1)>Enchiridion<italic(0)>, señor Alphinaud?
+TEXT_GAIUSE404_00057_LUCIA_000_074	(-Temple Knight taciturna-)Shiva fue una traidora a los suyos ─ una apóstata que <italic(1)>se acostó con dragones<italic(0)>.
+TEXT_GAIUSE404_00057_HAURCHEFANT_000_075	Vamos, vamos, no podemos esperar que todos los extranjeros conozcan tan bien las escrituras ishgardianas ─ sobre todo en lo que respecta a los santos patronos de los herejes.
+TEXT_GAIUSE404_00057_ALPHINAUD_000_076	Espere ─ ¿dice que es su santa <italic(1)>patrona<italic(0)>? Oh, no... Ahora todo tiene sentido...
+TEXT_GAIUSE404_00057_ALPHINAUD_000_077	Lord Haurchefant ─ ¿qué llevaba la caravana?
+TEXT_GAIUSE404_00057_HAURCHEFANT_000_078	Ah... si no recuerdo mal, la Diamond Forge había pedido una cantidad bastante grande de cristales─
+TEXT_GAIUSE404_00057_ALPHINAUD_000_079	¿No lo ve? ¡Iceheart y sus seguidores pretenden <italic(1)>invocar<italic(0)> a Shiva, como una beast tribe invocaría a un primal! ¿Por qué otra cosa se tomarían tanto trabajo para conseguir cristales?
+TEXT_GAIUSE404_00057_LUCIA_000_080	(-Temple Knight taciturna-)...Informaré de inmediato al comandante supremo. Lord Haurchefant, ¿estará de acuerdo en que la discreción es primordial?
+TEXT_GAIUSE404_00057_HAURCHEFANT_000_081	Por supuesto.
+TEXT_GAIUSE404_00057_HAURCHEFANT_100_081	¿Confío en que podemos seguir contando con su apoyo, señor Alphinaud?
+TEXT_GAIUSE404_00057_ALPHINAUD_000_082	Los Scions of the Seventh Dawn juraron combatir la amenaza de los primals. Nuestro apoyo está garantizado.
+TEXT_GAIUSE404_00057_ALPHINAUD_000_083	Tendré que avisar a mis hermanos de Revenant's Toll. Toda nuestra orden debe dedicar sus esfuerzos a impedir esta invocación.
+TEXT_GAIUSE404_00057_ALPHINAUD_000_084	Eso, naturalmente, l<if(gnum4,a,o)> incluye a usted ─ aunque estoy seguro de que no se lo perdería por nada del mundo.
+TEXT_GAIUSE404_00057_YAELLE_000_090	¡Alabada sea Halone, sigue con vida! Ruego que se recupere pronto.
+TEXT_GAIUSE404_00057_HAURCHEFANT_000_100	¡Bienvenid<if(gnum4,a,o)> de vuelta, viej<if(gnum4,a,o)> amig<if(gnum4,a,o)>! Yo─ (Ay, Alphinaud está mirando para acá. Creo que no le gusta que lo ignoren.)

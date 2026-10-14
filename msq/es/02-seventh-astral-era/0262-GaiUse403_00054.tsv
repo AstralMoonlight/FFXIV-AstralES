@@ -1,0 +1,62 @@
+key	text
+TEXT_GAIUSE403_00054_SEQ_00	Un ishgardiano influyente quiere conocer al Warrior of Light, y Alphinaud no desea otra cosa que complacerlo.
+TEXT_GAIUSE403_00054_SEQ_01	Alphinaud obtuvo una audiencia con Ser Aymeric, comandante supremo de los Temple Knights de Ishgard, que actuará como representante de la Holy See. Deseoso de ganarse su favor, Alphinaud te pidió que lo acompañes a la reunión, ya que Ser Aymeric expresó su deseo de conocer al famoso Warrior of Light. Seguro que Minfilia te dará su bendición cuando se entere del plan.
+TEXT_GAIUSE403_00054_SEQ_02	Desde la batalla de Silvertear Skies, la ciudad<-->estado de Ishgard mantiene a distancia a sus vecinos. Ni siquiera la amenaza de la VIIth Legion bastó para traer de vuelta a la mesa de negociaciones a la nación aislada. Ahora, sin embargo, tras dos décadas de casi silencio, se acercaron ─ pero ¿con qué fin? Sean cuales sean los planes de Ser Aymeric, Alphinaud está decidido a impulsar los suyos. Viaja con él a Camp Dragonhead y habla con Lord Haurchefant al llegar.
+TEXT_GAIUSE403_00054_SEQ_03	Como siempre, te reciben con calidez en Camp Dragonhead, y te informan que Ser Aymeric ya está presente y listo para reunirse con Alphinaud y contigo. Por cansad<if(gnum4,a,o)> que estés del viaje, ve a la sala de audiencias y prepárate para conocer al embajador ishgardiano.
+TEXT_GAIUSE403_00054_SEQ_04	Tras dedicarte unas palabras amables, Ser Aymeric y Alphinaud debaten largamente la política ishgardiana. Por desgracia, al embajador no es fácil convencerlo, y queda claro que la Holy See no tiene intención de volver a la Eorzean Alliance. Sin embargo, Ser Aymeric termina revelando que vino a la reunión con otro propósito... Te enteras de que los astrologians de Ishgard predijeron el regreso de Midgardsormr ─ el guardián caído de Silvertear Falls ─, y que Ser Aymeric quiere la ayuda de los Scions para vigilar los restos del gran dragón. A cambio, se asegurará de que los envíos de ayuda de la House Fortemps a Revenant's Toll sigan sin interrupción. Satisfecho con el acuerdo, Alphinaud acepta ─ solo para enterarse, momentos después, de que Iceheart y sus seguidores asaltaron el último cargamento...
+TEXT_GAIUSE403_00054_TODO_00	Habla con Minfilia.
+TEXT_GAIUSE403_00054_TODO_01	Habla con Haurchefant en Camp Dragonhead.
+TEXT_GAIUSE403_00054_TODO_02	Habla con el guardia de la House Fortemps.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_031	Tenemos una oportunidad excepcional, <split(<string(gstr1)>, ,1)> ─ una audiencia con un embajador de la Holy See of Ishgard.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_032	Trataremos con Ser Aymeric, comandante supremo de los Temple Knights, en Camp Dragonhead.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_033	Servir directamente a la Holy See como Temple Knight se considera un gran honor. Ni hace falta decir que su líder tiene una enorme influencia política. Haríamos bien en ganarnos su favor.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_034	Por eso considero esencial su presencia. Si Ser Aymeric quiere conocer a <if(gnum4,la mujer,el hombre)> detrás de la leyenda, no le negaré el placer de su compañía.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_035	La Antecedent debería ver la sensatez de este plan cuando le pida permiso para acompañarme a Coerthas.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_036	...¿Quizá le parece un desperdicio de su talento, que sin duda podría tener un uso más noble? Si es así, le recuerdo que con un trazo de pluma se puede hacer más bien que con una estocada.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_040	Si algo me enseñaron mis muchas "aventuras" diplomáticas, es lo importante que es complacer a quien tiene algo que uno quiere.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_041	No todas las victorias se ganan en el campo de batalla, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>. Es el destino de los héroes legendarios que los exhiban de vez en cuando.
+TEXT_GAIUSE403_00054_MINFILIA_000_050	...¿Una reunión con un embajador ishgardiano? Por supuesto, me parece una idea maravillosa.
+TEXT_GAIUSE403_00054_MINFILIA_000_051	Últimamente no recibimos informes de perturbaciones de aether ni de actividad inusual de las beast tribes.
+TEXT_GAIUSE403_00054_MINFILIA_000_052	Si Alphinaud cree que tu presencia puede ayudarlo a conseguir mejores condiciones, no veo motivo para negárselo.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_001	Antecedent. ¿Supongo que <split(<string(gstr1)>, ,1)> le explicó la situación?
+TEXT_GAIUSE403_00054_MINFILIA_000_002	Sí. Pero por bienvenidos que sean estos acercamientos, no puedo evitar preguntarme qué los motivó. Los ishgardianos rechazaron todo contacto con las demás ciudades<-->estado durante décadas. ¿Por qué ahora?
+TEXT_GAIUSE403_00054_ALPHINAUD_000_003	Ojalá lo supiera... La pregunta de sus motivos es una a la que le di bastantes vueltas. Por desgracia, no sé más de lo que sabe todo el mundo.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_004	La famosamente aislada nación de Ishgard, situada en el centro de Abalathia's Spine...
+TEXT_GAIUSE403_00054_ALPHINAUD_000_005	...Gobernada por la Ishgardian Orthodox Church, a cuya cabeza preside el arzobispo.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_006	...Miembros de la Eorzean Alliance original, formada tras la caída de Ala Mhigo hace unas dos décadas.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_007	...Amigos de conveniencia que se retiraron de la Alliance en cuanto se derrotó a la flota imperial en la batalla de Silvertear Skies.
+TEXT_GAIUSE403_00054_MINFILIA_000_008	...Y desde entonces, sus fronteras siguen cerradas a todos los forasteros.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_009	Rechazaron todos los llamados de sus antiguos aliados a reabrir el diálogo, e hicieron oídos sordos a las súplicas de sus vecinos incluso cuando la Calamidad se cernía sobre todos.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_010	Y en los campos de Carteneau, donde hombres y mujeres valientes dieron la vida en defensa del reino, sus estandartes brillaron por su ausencia...
+TEXT_GAIUSE403_00054_ALPHINAUD_000_011	Intenté convencer a Ishgard de volver a la Alliance en cada oportunidad.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_012	Expliqué <italic(1)>una y otra vez<italic(0)> que, si Eorzea no se mantiene unida, no podemos aspirar a conservar nuestra libertad. Una por una, nuestras naciones caerán, como cayó Ala Mhigo...
+TEXT_GAIUSE403_00054_ALPHINAUD_000_013	...¿Y qué lograron mis esfuerzos? Pues nada.
+TEXT_GAIUSE403_00054_MINFILIA_000_014	¿Esto no puede considerarse un paso en la dirección correcta?
+TEXT_GAIUSE403_00054_ALPHINAUD_000_015	Espero que sí. En lugar de los simples mensajeros con los que nos despacharon en el pasado, esta vez nos reuniremos con un hombre de verdadera influencia.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_016	Por supuesto, no soy tan ingenuo como para creer que vienen a nosotros por pura bondad. Tenemos algo que desean, aunque todavía no sé qué es.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_017	Pero así es la diplomacia. Ellos traerán sus planes a la mesa de negociaciones, y yo también ─ junto con un puñado de verdades irrefutables.
+TEXT_GAIUSE403_00054_MINFILIA_000_018	El Empire pronto volverá a estar a nuestras puertas.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_019	En efecto. Puede estar segura de que desarrollaré ese punto y otros.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_020	Partamos hacia Camp Dragonhead, <split(<string(gstr1)>, ,1)>. Nuestro viejo amigo Lord Haurchefant nos espera.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_021	Entiendo que desde nuestra búsqueda del <italic(1)>Enterprise<italic(0)> se ganó usted todavía más el aprecio de ese hombre. Excelente trabajo. Su afecto podría resultar útil para nuestra causa.
+TEXT_GAIUSE403_00054_MINFILIA_100_050	Aunque sé poco de Ser Aymeric, confío en que los esfuerzos de Alphinaud están por dar fruto.
+TEXT_GAIUSE403_00054_HAURCHEFANT_000_060	¡Ah, <split(<string(gstr1)>, ,1)>! ¡Siempre es un placer verl<if(gnum4,a,o)>!
+TEXT_GAIUSE403_00054_HAURCHEFANT_000_061	Avivamos nuestras chimeneas al máximo para su llegada. No estaría bien que tan distinguida visita se resfriara mientras disfruta de nuestra hospitalidad.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_062	Le agradezco mucho el gesto. Me temo que siempre lo pasaré mal en climas fríos.
+TEXT_GAIUSE403_00054_HAURCHEFANT_000_063	...Ah, mi buen señor Alphinaud. Un honor, como siempre.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_064	Lo mismo digo, Lord Haurchefant. Perdone que lo molestemos otra vez ─ me temo que abusamos de su ayuda desde que tan generosamente nos ayudó a encontrar el <italic(1)>Enterprise<italic(0)>.
+TEXT_GAIUSE403_00054_HAURCHEFANT_000_065	¡Tonterías! Cualquier deuda quedó saldada hace mucho. Además, ¿quién sabe lo que traerá el futuro?
+TEXT_GAIUSE403_00054_HAURCHEFANT_000_066	Puede que la House Fortemps incluso busque la ayuda de sus recién formados Crystal Braves.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_067	(Marcado para eliminar)
+TEXT_GAIUSE403_00054_HAURCHEFANT_100_067	En cualquier caso, me alegra muchísimo que la Holy See por fin esté dispuesta a concederles una audiencia.
+TEXT_GAIUSE403_00054_HAURCHEFANT_000_068	Sin duda lo que descubrieron en Snowcloak ayudó a justificar la decisión. Este reciente resurgir de la actividad herética nos preocupa gravemente a todos.
+TEXT_GAIUSE403_00054_HAURCHEFANT_000_069	Pero vamos al asunto: Ser Aymeric llegó a Camp Dragonhead hace un rato, y me dicen que está ansioso por reunirse con ustedes cuando les venga bien.
+TEXT_GAIUSE403_00054_HAURCHEFANT_000_070	Sin duda están cansados del viaje y con ganas de descansar un rato junto al calor de nuestra chimenea...
+TEXT_GAIUSE403_00054_HAURCHEFANT_000_071	...Pero si están dispuestos a renunciar a esas comodidades, avísenle al caballero apostado afuera de la sala de audiencias. Los dejará pasar y avisará a los demás asistentes.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_072	Por tentadora que suene su chimenea, creo que lo mejor es ir de inmediato a la sala de audiencias.
+TEXT_GAIUSE403_00054_HAURCHEFANT_000_080	La entrada a la sala de audiencias está afuera. Justo a la vuelta de la esquina, a la derecha. Hable con el guardia apostado allí cuando esté list<if(gnum4,a,o)> para empezar la reunión.
+TEXT_GAIUSE403_00054_ALPHINAUD_000_090	No veo motivo para hacer esperar a Ser Aymeric, ¿y usted? Vamos a la sala de audiencias.
+TEXT_GAIUSE403_00054_FORTEMPSGUARD00054_000_100	L<if(gnum4,a,o)> esperábamos, <if(gnum4,señora,señor)>. Póngase cómod<if(gnum4,a,o)> adentro, y llamaré a los demás.
+TEXT_GAIUSE403_00054_FORTEMPSGUARD00054_Q1_000_1	¿Entrar a la sala de audiencias?
+TEXT_GAIUSE403_00054_FORTEMPSGUARD00054_A1_000_1	Sí
+TEXT_GAIUSE403_00054_FORTEMPSGUARD00054_A1_000_2	No

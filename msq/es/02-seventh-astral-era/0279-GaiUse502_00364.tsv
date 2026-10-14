@@ -1,0 +1,29 @@
+key	text
+TEXT_GAIUSE502_00364_SEQ_00	Ilberd está ansioso por llevar ante la justicia al traficante y a sus clientes.
+TEXT_GAIUSE502_00364_SEQ_01	Ilberd dice que la 1.ª Unidad establecerá un perímetro para impedir que los clientes escapen, mientras él y tú atrapan al traficante y sus armas. Sigue al capitán hasta el Burning Wall y examina la zona.
+TEXT_GAIUSE502_00364_SEQ_02	Aunque solo ve a un centinela, Ilberd concluye que tiene que haber otros escondidos. Te pide que crees una distracción mientras él y sus hombres se escabullen hasta los túneles donde se reúnen el traficante y sus clientes. Acércate al centinela solitario y entabla una conversación amistosa.
+TEXT_GAIUSE502_00364_SEQ_03	Al centinela no le hace ninguna gracia tu presencia, y él y sus compañeros intentan despacharte sin más. No lo logran. El capitán Ilberd y sus hombres no aparecen por ninguna parte, así que no te queda más remedio que esperar afuera del túnel, como te indicaron.
+TEXT_GAIUSE502_00364_SEQ_04	Un repentino grito de agonía resuena dentro del túnel. Entra y busca el origen del alboroto.
+TEXT_GAIUSE502_00364_SEQ_05	Encuentras a un Ilberd alterado de pie junto a un hombre que yace inmóvil en un charco de su propia sangre. El capitán explica que el traficante se defendió con una hoja oculta, y que uno de sus subordinados, temiendo por su seguridad, lo mató. Peor aún, un grupo de mercenarios Duskwight, que se cree que eran los clientes, logró escabullirse de la 1.ª Unidad, que ahora los persigue. Como colmo de la humillación, parece que la información de Riol era errónea, y que el enorme cargamento de armas se reduce a un solo cajón de madera...
+TEXT_GAIUSE502_00364_TODO_00	Habla con Ilberd.
+TEXT_GAIUSE502_00364_TODO_01	Habla con el matón a sueldo.
+TEXT_GAIUSE502_00364_TODO_02	Espera a Ilberd afuera de la entrada del túnel.
+TEXT_GAIUSE502_00364_TODO_03	Investiga el alboroto.
+TEXT_GAIUSE502_00364_ILBERD_000_000	Bien, deberíamos ir sin demora al Burning Wall y asegurar esas armas.
+TEXT_GAIUSE502_00364_ILBERD_000_002	La 1.ª Unidad se asegurará de que los clientes no escapen. Conmigo, <split(<string(gstr1)>, ,1)>.
+TEXT_GAIUSE502_00364_ILBERD_000_010	Veo a un solo hombre, pero seguro que hay otros...
+TEXT_GAIUSE502_00364_ILBERD_000_012	Tengo un plan. Mientras usted se acerca al centinela y crea una distracción, mis hombres y yo nos escabulliremos y tomaremos por sorpresa al traficante.
+TEXT_GAIUSE502_00364_ILBERD_000_013	Cuando se haya ocupado de los matones, espérenos afuera de la entrada del túnel. ¿Alguna pregunta? Entonces vamos. Buena suerte, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>.
+TEXT_GAIUSE502_00364_SENTRY00364_000_020	¿¡Quién anda ahí!? ¿<if(gnum4,Una aventurera,Un aventurero)>? ¡<if(gnum4,Maldita tonta,Maldito tonto)>, nunca debiste venir aquí!
+TEXT_GAIUSE502_00364_BALLOON_100_020	¡Bah! ¡Largo de aquí!
+TEXT_GAIUSE502_00364_BALLOON_100_021	¡Mátenl<if(gnum4,a,o)> y terminemos con esto!
+TEXT_GAIUSE502_00364_BALLOON_100_022	¡Inútiles, todos! ¡Esto termina aquí!
+TEXT_GAIUSE502_00364_BLACKMARKETEER00364_000_030	(-???-)¡No entiendo! ¿¡Q-Qué es todo esto!?
+TEXT_GAIUSE502_00364_BLACKMARKETEER00364_000_031	(-???-)¡Graaagh!
+TEXT_GAIUSE502_00364_ILBERD_000_040	Como ve, esto es un buen desastre.
+TEXT_GAIUSE502_00364_ILBERD_000_041	Cuando intenté reducirlo, sacó una hoja oculta y atacó. Pero antes de que pudiera desarmarlo, uno de mis subordinados entró en pánico, y este es el resultado.
+TEXT_GAIUSE502_00364_ILBERD_000_042	Qué tonto fui al subestimar a ese desgraciado y al traer a un recluta sin experiencia. El Commander Leveilleur estará muy decepcionado.
+TEXT_GAIUSE502_00364_ILBERD_000_043	¡Maldita sea! ¡Una oportunidad de oro, desperdiciada!
+TEXT_GAIUSE502_00364_ILBERD_000_044	En cuanto a los clientes... no sabemos cómo, pero se escabulleron de nuestro perímetro. En este momento, la 1.ª está rastreando a un grupo de mercenarios Duskwight que sospechamos que son ellos.
+TEXT_GAIUSE502_00364_ILBERD_000_045	Ojalá hubiéramos podido pedir ayuda a los Immortal Flames o a los Brass Blades. Por desgracia, estamos aquí para ayudarlos a <italic(1)>ellos<italic(0)> ─ no están en condiciones de ayudarnos.
+TEXT_GAIUSE502_00364_ILBERD_000_046	Bueno, al menos aseguramos las armas. Aunque incluso ese logro deja que desear, porque la información que recibimos hablaba de un cargamento enorme, y esto es cualquier cosa menos eso...

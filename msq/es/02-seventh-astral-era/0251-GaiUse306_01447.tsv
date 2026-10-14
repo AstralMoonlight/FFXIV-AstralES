@@ -1,0 +1,33 @@
+key	text
+TEXT_GAIUSE306_01447_SEQ_00	Las últimas revelaciones le pesan a Alphinaud.
+TEXT_GAIUSE306_01447_SEQ_01	Mientras tú y Alphinaud hablan de qué hacer, te reencuentras con la niña de Stonesthrow. Al saber que querías encontrar al mercader que reclutó a sus padres, te buscó con la esperanza de que la llevaras hasta ellos. Aunque claramente no tiene ganas, Alphinaud se ofrece a ayudarla a buscarlos. Poco después te contacta Minfilia y te pide que vuelvas de inmediato a los Rising Stones. La situación en el Twelveswood empeoró, y probablemente te pidan que intervengas.
+TEXT_GAIUSE306_01447_SEQ_02	A Minfilia le alegra saber que tú y Alphinaud están bien, y dice que está lista para ponerte al tanto de la última amenaza. Avísale cuando estés list<if(gnum4,a,o)> para que convoque a los demás Scions al solar.
+TEXT_GAIUSE306_01447_TODO_00	Habla con Minfilia en los Rising Stones.
+TEXT_GAIUSE306_01447_ALPHINAUD_000_000	Debería alegrarme de saber la verdad, y sin embargo... pensar que todo este caos fue producto de la sed de poder de un solo hombre me revuelve el estómago.
+TEXT_GAIUSE306_01447_ALPHINAUD_000_001	¿Cuánto tiempo cree que pensaban ocultarles a los Scions la existencia de Omega? Que siquiera sintieran la necesidad de hacerlo es de lo más inquietante.
+TEXT_GAIUSE306_01447_ALPHINAUD_000_002	Nos convendría saber más de las actividades militares en los territorios en disputa. Usted es, por supuesto, <if(gnum4,la Scion más indicada,el Scion más indicado)> para esta tarea, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Tómese un momento para visitar <if([gnum52>0],el Maelstrom Command,<if([gnum53>0],el Adders' Nest,el Hall of Flames)>)> y hacer averiguaciones en cuanto pueda.
+TEXT_GAIUSE306_01447_ALPHINAUD_000_003	Nos convendría saber más de las actividades militares en los territorios en disputa. Por suerte, usted ya está en buena posición para hacerlo, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Manténganos al tanto de cualquier novedad en Carteneau.
+TEXT_GAIUSE306_01447_GUARD01447_000_004	(-Escudero Sultansworn-)¡Fuera, mocosa! ¡Este no es lugar para niños!
+TEXT_GAIUSE306_01447_ELE_000_005	\<sollozo> \<sollozo> Perdón... perdón...
+TEXT_GAIUSE306_01447_ELE_000_006	Yo... \<sollozo> Te estaba buscando, <if(gnum4,señorita,señor)>. Dijiste que buscabas al señor que se fue con mis papás. \<sollozo>
+TEXT_GAIUSE306_01447_ALPHINAUD_000_007	¿Conoce a esta niña?
+TEXT_GAIUSE306_01447_ALPHINAUD_000_008	¿Así que también pasó por Stonesthrow? Ya veo.
+TEXT_GAIUSE306_01447_ELE_000_009	¿Encontraste al señor? ¿Mis papás estaban con él?
+TEXT_GAIUSE306_01447_ALPHINAUD_000_010	Me temo que no.
+TEXT_GAIUSE306_01447_ALPHINAUD_000_011	...Sin embargo, se me ocurren varios lugares donde podrían estar. Si quieres, podemos ir a buscarlos juntos.
+TEXT_GAIUSE306_01447_ELE_000_012	¿De verdad? ¿Me vas a ayudar a buscarlos, señor?
+TEXT_GAIUSE306_01447_ALPHINAUD_000_013	Por supuesto. Pero primero tengo que terminar de hablar con mi amig<if(gnum4,a,o)>. Me está contando un secreto, ¿sabes?, así que nadie más puede escuchar. ¿Por qué no me esperas junto a esa columna de allá? Solo será un momento.
+TEXT_GAIUSE306_01447_ELE_000_014	¡Está bien, señor! ¡Te espero!
+TEXT_GAIUSE306_01447_ALPHINAUD_000_015	...La llevaré al Quicksand. Quizá Momodi sepa qué hacer.
+TEXT_GAIUSE306_01447_ALPHINAUD_000_016	\<suspiro> Una legión de garleans, un primal hambriento de aether ─ hasta lidiar con un <italic(1)>Ascian<italic(0)> sería preferible a esta farsa.
+TEXT_GAIUSE306_01447_ALPHINAUD_000_017	A veces temo que Minfilia es demasiado ambiciosa. Corremos de aquí para allá respondiendo a las amenazas a medida que surgen, sin pensar en el desgaste que eso supone para nuestros limitados recursos ─ y para nosotros mismos.
+TEXT_GAIUSE306_01447_ALPHINAUD_000_018	Quizá llegó la hora de un cambio...
+TEXT_GAIUSE306_01447_MINFILIA_000_019	<split(<string(gstr1)>, ,1)>, habla Minfilia. Sé que es repentino, pero debo pedirte que vuelvas a Revenant's Toll lo antes posible.
+TEXT_GAIUSE306_01447_MINFILIA_000_020	La situación en el Twelveswood empeoró. Te explicaré los detalles cuando llegues.
+TEXT_GAIUSE306_01447_ALPHINAUD_000_021	¿El Twelveswood? ¿Entonces se confirmó la amenaza de un primal de la que hablaba antes? No recibí informes de actividad ixal, lo que deja... ¿a los sylphs?
+TEXT_GAIUSE306_01447_ALPHINAUD_000_022	Vaya, <split(<string(gstr1)>, ,1)>. Sabe tan bien como yo que la aparición de un primal tiene prioridad sobre todo lo demás.
+TEXT_GAIUSE306_01447_ALPHINAUD_000_023	Ah, y cuando llegue, dígale a la Antecedent que, aunque le agradezco su preocupación, no tiene por qué temer por mi seguridad. Soy perfectamente capaz de protegerme solo.
+TEXT_GAIUSE306_01447_MESSENGER01447_000_025	Vengo en nombre de la Elder Seedseer a pedir la ayuda de su orden. La Antecedent ya está al tanto de la situación.
+TEXT_GAIUSE306_01447_MINFILIA_000_030	Qué alivio verte <if(gnum4,sana y salva,sano y salvo)>, <split(<string(gstr1)>, ,1)>. Las últimas noticias de Ul'dah eran muy inquietantes.
+TEXT_GAIUSE306_01447_MINFILIA_000_031	...Está claro que lo único que se lastimó Alphinaud fue el orgullo. Seguro que pronto sanará.
+TEXT_GAIUSE306_01447_MINFILIA_000_032	Los demás Scions tienen que estar presentes en esta reunión. Si estás list<if(gnum4,a,o)> para empezar, los llamo ahora.

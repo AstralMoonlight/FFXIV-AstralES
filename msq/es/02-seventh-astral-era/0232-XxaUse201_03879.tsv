@@ -1,0 +1,43 @@
+key	text
+TEXT_XXAUSE201_03879_SEQ_00	Minfilia tiene una nueva misión para ti.
+TEXT_XXAUSE201_03879_SEQ_01	En una auditoría reciente se descubrió que alguien saqueó en secreto las reservas de cristales de Amajina & Sons Mineral Concern. Temiendo que los culpables tengan vínculos con los Amalj'aa, los Scions aceptaron ayudar en la investigación. Ve a Horizon, en Western Thanalan, y preséntate ante Y'shtola.
+TEXT_XXAUSE201_03879_SEQ_02	Encuentras a Y'shtola absorta y sin ganas de conversar mucho. Habla con Fufulupa, el Brass Blade a cargo de la investigación, para saber más de los robos.
+TEXT_XXAUSE201_03879_SEQ_03	Fufulupa te cuenta que un carruaje atravesó uno de sus puestos de control y huyó hacia Eastern Thanalan, donde los Brass Blades detuvieron a sus ocupantes. Está casi convencido de que atraparon a los ladrones y recuperaron los cristales, hasta que Thancred interrumpe la conversación y revela que los fugitivos no eran más que vulgares contrabandistas de somnus. Reúnete con tus amigos en Horizon para repasar la situación y evaluar qué hacer.
+TEXT_XXAUSE201_03879_SEQ_04	Según Thancred, nada indica que los Amalj'aa se hayan hecho con grandes cantidades de cristales. Mientras él le comunica lo que averiguó a Urianger por la linkpearl, no puedes evitar preguntarte quién está detrás de los robos de cristales, y con qué propósito.
+TEXT_XXAUSE201_03879_TODO_00	Habla con Y'shtola en Horizon.
+TEXT_XXAUSE201_03879_TODO_01	Habla con Fufulupa.
+TEXT_XXAUSE201_03879_TODO_02	Habla con Thancred.
+TEXT_XXAUSE201_03879_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
+TEXT_XXAUSE201_03879_MINFILIA_000_000	La verdad, no hay descanso para los cansados. Apenas había empezado a instalarme cuando recibí un pedido de ayuda de Amajina & Sons Mineral Concern.
+TEXT_XXAUSE201_03879_MINFILIA_000_001	Al parecer, su depósito de Horizon fue blanco de una serie de robos encubiertos.
+TEXT_XXAUSE201_03879_MINFILIA_000_002	Como parecían menores por separado, las diferencias ocasionales en los inventarios se descartaron durante mucho tiempo como errores administrativos. Recién en la auditoría anual de la empresa se hizo evidente un patrón...
+TEXT_XXAUSE201_03879_MINFILIA_000_003	Faltaban grandes cantidades de cristales ─ y solo de cristales.
+TEXT_XXAUSE201_03879_MINFILIA_000_004	No hace falta que te diga lo que eso podría significar.
+TEXT_XXAUSE201_03879_MINFILIA_000_005	Los Brass Blades encargados de investigar los robos creen que alguien de la empresa vende los cristales para lucrar. Por desgracia, todavía no lograron identificar a ningún sospechoso, y los dueños de la empresa están hartos de que no avancen.
+TEXT_XXAUSE201_03879_MINFILIA_000_006	Ni hace falta decir que no habría aceptado intervenir si lo robado solo tuviera valor monetario. Si existe siquiera la posibilidad de que el ladrón actúe no por interés propio sino al servicio de un primal, no podemos darnos el lujo de esperar a que los Blades se den cuenta de su error.
+TEXT_XXAUSE201_03879_MINFILIA_000_007	Por favor, parte hacia Horizon en cuanto puedas.
+TEXT_XXAUSE201_03879_MINFILIA_000_008	Cuando llegues, reúnete con Y'shtola. Ella y Thancred ya empezaron una investigación preliminar.
+TEXT_XXAUSE201_03879_MINFILIA_000_009	Confío plenamente en que los tres llegarán al fondo de estos robos. Solo espero que, cuando lo hagan, nuestros temores resulten infundados.
+TEXT_XXAUSE201_03879_MINFILIA_000_010	Cuando llegues a Horizon, no dejes de hablar con Y'shtola. Ella te pondrá al tanto de las novedades. Yo, por mi parte, seguiré hablando con los representantes de la empresa. Quizá tengan más información que nos sirva.
+TEXT_XXAUSE201_03879_YSHTOLA_000_010	Ah, <split(<string(gstr1)>, ,1)>. Tu ayuda es muy bienvenida.
+TEXT_XXAUSE201_03879_YSHTOLA_000_011	Ya hablé largo y tendido con los Brass Blades of the Rose ─ aunque sin mucho resultado. Parece que los ladrones se esforzaron mucho por ocultar lo que hacían.
+TEXT_XXAUSE201_03879_YSHTOLA_000_012	Podría darte más detalles, pero aprovecharías mejor el tiempo hablando con Fufulupa. Es el oficial a cargo de la investigación, y yo solo repetiría lo que él me contó. Si algo se me escapó, quizá a ti no se te escape.
+TEXT_XXAUSE201_03879_FUFULUPA_000_020	<switch(gnum70,¡Ah\, hola! <split(<string(gstr1)>, ,1)>\, ¿no?,¡Ah\, hola! <split(<string(gstr1)>, ,1)>\, ¿no?,¡<split(<string(gstr1)>, ,1)>! Qué placer volver a verte.)> Y'shtola me dijo que vendrías.
+TEXT_XXAUSE201_03879_FUFULUPA_000_021	Qué asunto terrible, estos robos. Todavía no confirmamos cuántos cristales se llevaron, pero me atrevo a decir que podrían ser más de─
+TEXT_XXAUSE201_03879_FUFULUPA_000_022	¡Ah, pero eso no importa! ¡Tengo novedades! Hace un rato, el conductor de un carruaje muy cargado se negó a detenerse para la inspección y atravesó uno de nuestros puestos de control en la Royal Allagan Sunway.
+TEXT_XXAUSE201_03879_FUFULUPA_000_023	El carro huyó hacia Eastern Thanalan, donde ─ gracias a los dioses ─ oigo que nuestros colegas lograron detenerlos sin más incidentes.
+TEXT_XXAUSE201_03879_YSHTOLA_000_024	...¿Un carruaje a toda velocidad? Curiosa elección para unos ladrones de astucia tan probada. Aunque los Amalj'aa sí tienen presencia en Eastern Thanalan. Hmmm.
+TEXT_XXAUSE201_03879_YSHTOLA_000_025	¿Y su carga? ¿Llevaban los cristales que buscamos?
+TEXT_XXAUSE201_03879_FUFULUPA_000_026	Deberíamos recibir un informe en cualquier momento, pero no veo qué otra cosa podría─
+TEXT_XXAUSE201_03879_THANCRED_000_027	¿Me extrañaron, amigos? Volví, pero me temo que traigo noticias decepcionantes. O, pensándolo mejor, quizá sean buenas noticias, después de todo...
+TEXT_XXAUSE201_03879_YSHTOLA_000_028	...Thancred. ¿Dónde te habías metido?
+TEXT_XXAUSE201_03879_THANCRED_000_029	Me pareció que aquí tenían todo bajo control, así que hice una breve excursión al este para ver cómo andaban nuestros amigos Amalj'aa.
+TEXT_XXAUSE201_03879_THANCRED_000_030	¿Y pueden creerlo? Por el camino me crucé con un carruaje desbocado, y hasta pude aportar mi granito de arena para que mis amigos de los Brass Blades lo interceptaran.
+TEXT_XXAUSE201_03879_THANCRED_000_031	En todos mis años, nunca vi semejante cantidad de somnus. Los Blades decían que era uno de los mayores cargamentos que habían visto. Los cristales robados, en cambio, no aparecieron por ninguna parte.
+TEXT_XXAUSE201_03879_FUFULUPA_000_032	¿Es así? Qué lástima... Supongo que no nos queda más remedio que seguir buscando en otro lado.
+TEXT_XXAUSE201_03879_THANCRED_000_033	Nosotros también deberíamos replantearnos las opciones. Ven con nosotros, <split(<string(gstr1)>, ,1)>.
+TEXT_XXAUSE201_03879_YSHTOLA_000_040	...Y así volvemos al punto de partida. \<suspiro> ¿Qué se me escapó...?
+TEXT_XXAUSE201_03879_THANCRED_000_050	Contra todo pronóstico, parece que los Amalj'aa no tienen nada que ver con esta racha de crímenes. Todo indica que todavía no reponen las reservas de cristales que agotaron en su último intento de invocar a Ifrit.
+TEXT_XXAUSE201_03879_THANCRED_000_051	Lo que no logro entender es por qué alguien <italic(1)>más<italic(0)> se tomaría tanto trabajo para conseguir cristales ─ y en esas cantidades.
+TEXT_XXAUSE201_03879_THANCRED_000_052	No puede ser que estemos lidiando con simples ladrones. Si lo que buscaran fuera ganancia, ¿por qué limitarse a los cristales...? Está claro que se nos escapa algo.
+TEXT_XXAUSE201_03879_THANCRED_000_053	Mientras piensas qué podría ser, le contaré a Urianger nuestros avances ─ o la falta de ellos.

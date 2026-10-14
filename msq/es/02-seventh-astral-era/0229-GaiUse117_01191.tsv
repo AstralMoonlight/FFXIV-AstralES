@@ -1,0 +1,42 @@
+key	text
+TEXT_GAIUSE117_01191_SEQ_00	Raya<-->O<-->Senna quiere felicitarte por tu victoria sobre Good King Moggle Mog XII.
+TEXT_GAIUSE117_01191_SEQ_01	Raya<-->O<-->Senna declara que tus valientes hazañas al servicio del Twelveswood no se olvidarán. Segura de que su hermana querrá oír la historia de la derrota de Good King Moggle Mog XII de boca de <if(gnum4,la responsable,el responsable)>, te pide que vuelvas al Lotus Stand, en Old Gridania.
+TEXT_GAIUSE117_01191_SEQ_02	Tu elocuente relato de lo ocurrido en Thornmarch confirma los peores temores de la Elder Seedseer y de tus compañeros Scions: igual que los primals de las beast tribes, Good King Moggle Mog XII fue invocado mediante un rito que los Ascians le enseñaron a la Mogglesguard. Papalymo te pide que vuelvas a los Waking Sands y le informes a Minfilia de estos inquietantes hallazgos, mientras él y Yda conversan con la Elder Seedseer sobre la retribución a los Scions.
+TEXT_GAIUSE117_01191_SEQ_03	Aunque Minfilia ya recibió noticia de tu victoria, está ansiosa por oír tu versión de los hechos. Tras escuchar tu relato, ella también concluye que los Ascians estuvieron detrás de las dos apariciones recientes de Good King Moggle Mog XII. Aunque sin duda es lamentable, Minfilia reflexiona que este último incidente al menos sirvió para recordarle a la Elder Seedseer el papel único de los Scions en Eorzea ─ y para convencerla de ofrecer un apoyo adicional muy necesario.
+TEXT_GAIUSE117_01191_TODO_00	Habla con Kan<-->E<-->Senna en el Lotus Stand.
+TEXT_GAIUSE117_01191_TODO_01	Preséntate ante Minfilia en los Waking Sands.
+TEXT_GAIUSE117_01191_RAYAOSENNA_000_000	Su valentía al servicio del Twelveswood y de sus moogles no se olvidará, <split(<string(gstr1)>, ,1)>.
+TEXT_GAIUSE117_01191_RAYAOSENNA_000_001	Sin duda mi hermana querrá oír la historia de esta gran victoria de boca de <if(gnum4,la responsable,el responsable)>. Le ruego que vuelva al Lotus Stand y le cuente con todo detalle lo ocurrido hoy, mientras lo tiene fresco en la memoria.
+TEXT_GAIUSE117_01191_RAYAOSENNA_000_005	Sé muy bien lo modest<if(gnum4,a,o)> que es... Si no le gusta contar sus hazañas, piense más bien en el placer que a otros les da oírlas. ¿No es <italic(1)>eso<italic(0)> motivo suficiente para alguien tan generos<if(gnum4,a,o)>? ¡Bien! Al Lotus Stand, entonces.
+TEXT_GAIUSE117_01191_DOORMANLOTUS_000_010	La Elder Seedseer lo espera, <if(gnum4,señora,señor)>. ¿Me permite hacerle pasar?
+TEXT_GAIUSE117_01191_CHOICE1Q1_100_1	¿Entrar al Lotus Stand?
+TEXT_GAIUSE117_01191_CHOICE1A1_101_1	Sí
+TEXT_GAIUSE117_01191_CHOICE1A2_102_2	No
+TEXT_GAIUSE117_01191_YDA_000_010	¡<split(<string(gstr1)>, ,1)>! ¡Kuplo Kopp dice que mataste al rey! Me alegra, claro, pero me arruinó por completo el final de tu historia. Moogle tonto.
+TEXT_GAIUSE117_01191_PAPALYMO_000_010	Según la definición de Louisoix, el difunto King Moggle Mog XII era en efecto un primal. Pero ¿cómo puede ser? No hay ningún precedente.
+TEXT_GAIUSE117_01191_KUPLOKOPP_000_010	¡Todos quieren oír tu historia, kupo! ¿Qué esperas? ¡Cuéntales! ¡Cuéntales!
+TEXT_GAIUSE117_01191_KANESENNA_000_011	<split(<string(gstr1)>, ,1)>. Vuelve a nosotros <if(gnum4,ilesa y victoriosa,ileso y victorioso)>. Tengo, pues, dos motivos para alegrarme.
+TEXT_GAIUSE117_01191_KANESENNA_000_012	Pero quedan muchas preguntas sin respuesta. Si fuera tan amable, me gustaría oír todo lo que ocurrió en Thornmarch.
+TEXT_GAIUSE117_01191_KANESENNA_000_013	...Entonces es como temíamos.
+TEXT_GAIUSE117_01191_YDA_000_014	El rey de verdad <italic(1)>es<italic(0)> un primal...
+TEXT_GAIUSE117_01191_YDA_000_015	...Pero en realidad <italic(1)>no<italic(0)> lo es, ¿no? O sea, para empezar, los moogles no lo adoran ─ ¡ni siquiera es un dios para ellos! No se parece a ningún primal del que haya oído hablar.
+TEXT_GAIUSE117_01191_PAPALYMO_000_016	Entonces quizá el error esté en la definición. El hecho es que, combinando el poder de los cristales con la fuerza de su fe colectiva, los moogles invocaron un ser que en rigor no debería existir. Además, al morir, ese ser no dejó cuerpo ─ el aether que lo formaba se dispersó a los cuatro vientos.
+TEXT_GAIUSE117_01191_KANESENNA_000_017	Según la definición aceptada, quizá no sea un primal... pero la forma en que se manifestó fue la misma en todo sentido.
+TEXT_GAIUSE117_01191_YDA_000_018	Lo que significa...
+TEXT_GAIUSE117_01191_PAPALYMO_000_018	Ascians. ¡Todo este asunto <italic(1)>apesta<italic(0)> a obra suya!
+TEXT_GAIUSE117_01191_KUPLOKOPP_000_019	¿¡Kupopo!? Ellos... ellos dijeron que fue un hombre enmascarado el que les enseñó cómo, hace años ─ p-pero en Gridania no faltan hombres enmascarados, y... y nunca se me ocurrió preguntar...
+TEXT_GAIUSE117_01191_PAPALYMO_000_020	¡Maldita sea! ¿A cuántos más van a atrapar con sus regalos envenenados...?
+TEXT_GAIUSE117_01191_KANESENNA_000_021	A demasiados, me temo. Mientras haya Paragons que aviven las brasas, necios que levanten la pira y cristales que alimenten las llamas, una y otra vez sufriremos la visita de los primals. Un pensamiento sombrío, pero saludable.
+TEXT_GAIUSE117_01191_KANESENNA_000_022	Mi más sincero agradecimiento, <split(<string(gstr1)>, ,1)>. La información que nos dio ya resultó invaluable. El gran mariscal de los Serpents y yo tenemos mucho que hablar.
+TEXT_GAIUSE117_01191_YDA_000_023	¡Ah! Antes de eso, mi señora, ¿podríamos terminar de hablar de aquel <italic(1)>otro<italic(0)> asunto?
+TEXT_GAIUSE117_01191_KANESENNA_000_024	El asunto del que hablas ya está resuelto. A los Scions no les faltará apoyo. Con gusto enviaremos suministros adicionales a Revenant's Toll.
+TEXT_GAIUSE117_01191_YDA_000_025	¡Sabíamos que podíamos contar con usted, mi señora!
+TEXT_GAIUSE117_01191_PAPALYMO_000_026	Mientras Yda y yo nos quedamos a conversar los detalles del acuerdo con la Elder Seedseer, ¿podrías volver a los Waking Sands y contarle a la Antecedent todo lo que pasó?
+TEXT_GAIUSE117_01191_YDA_000_027	¡Gracias a la generosa donación de la Elder Seedseer, puede que hasta valga la pena dejar los Waking Sands por los Rising Stones!
+TEXT_GAIUSE117_01191_PAPALYMO_000_028	Este asunto nos enseñó mucho, y la Antecedent tiene que enterarse de lo que descubrimos. Deja esto en nuestras manos y vuelve a los Waking Sands.
+TEXT_GAIUSE117_01191_KUPLOKOPP_000_029	¡Ya no tienes que preocuparte por la Mogglesguard, kupo! El jefe los obligó a pedir perdón delante de absolutamente todos. Y por las dudas, también los estamos vigilando de cerca.
+TEXT_GAIUSE117_01191_DOORMANLOTUS_000_030	Que los elementales l<if(gnum4,a,o)> lleven a salvo a casa, <if(gnum4,señora,señor)>.
+TEXT_GAIUSE117_01191_KANESENNA_100_030	Por favor, transmítale a la Antecedent mi agradecimiento personal, junto con mis mejores deseos para la próxima mudanza de los Scions.
+TEXT_GAIUSE117_01191_MINFILIA_000_030	Me alegra verte <if(gnum4,sana y salva,sano y salvo)>, <split(<string(gstr1)>, ,1)>. Yda y Papalymo me avisaron que habías derrotado a Good King Moggle Mog XII, pero esperaba oír tu versión de la historia.
+TEXT_GAIUSE117_01191_MINFILIA_000_031	...Así que fue como dijeron. Invocado con los mismos métodos que usan las beast tribes y que enseñan los Ascians.
+TEXT_GAIUSE117_01191_MINFILIA_000_032	Aunque lamentable, este incidente al menos sirvió para recordarle a la Elder Seedseer lo útiles que somos. Su oferta de apoyo adicional no pudo llegar en mejor momento. Gracias, <split(<string(gstr1)>, ,1)>.

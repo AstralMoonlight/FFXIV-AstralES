@@ -1,0 +1,60 @@
+key	text
+TEXT_GAIUSE318_01459_SEQ_00	Lord Haurchefant espera que le confirmes el motivo de tu visita a Camp Dragonhead.
+TEXT_GAIUSE318_01459_SEQ_01	Firme partidario del trabajo en la frontera de Mor Dhona, Lord Haurchefant comparte contigo, con entusiasmo, lo poco que sabe de los herejes y de su misteriosa líder, Lady Iceheart. Razonando que tu mejor oportunidad de dar con los ladrones de suministros está en Whitebrim y sus alrededores infestados de herejes, el comandante de la guarnición sugiere que le plantees el asunto a Lord Drillemont. Ve al oeste, a Whitebrim Front, y habla con el jefe de la House Durendaire.
+TEXT_GAIUSE318_01459_SEQ_02	Al explicarle tu misión a Lord Drillemont, te responde con una descripción inquietante del fanatismo exacerbado y la férrea disciplina de los herejes. Quiso el destino que una víctima reciente de un ataque hereje esté descansando en la enfermería del puesto. Visita al mercader herido y escucha su historia.
+TEXT_GAIUSE318_01459_SEQ_03	Escuchas el relato, sin rodeos, del brutal robo que sufrió el mercader a manos de los herejes, y te enteras de adónde se llevaron probablemente el botín. Viaja a las tierras salvajes cerca de Snowcloak y derrota a los herejes que encuentres.
+TEXT_GAIUSE318_01459_SEQ_04	Mataste a los herejes que te emboscaron. Dirígete hacia la muralla helada de Snowcloak y habla con el caballero de la House Durendaire.
+TEXT_GAIUSE318_01459_SEQ_05	Mientras el caballero te cuenta las penurias de su patrulla, ves a una mujer que mira desde lo alto del acantilado. Aunque desaparece enseguida, tienes tus sospechas sobre quién es. Vuelve a hablar con el caballero de la House Durendaire.
+TEXT_GAIUSE318_01459_SEQ_06	El caballero parece conmocionado por lo que viste, convencido de que era la mismísima Iceheart, y se pregunta qué terribles peligros se esconden tras la fachada helada de Snowcloak. Sigue el consejo del joven caballero y llévale lo que descubriste a Lord Drillemont.
+TEXT_GAIUSE318_01459_SEQ_07	Inquieto por la derrota de sus soldados de élite, Lord Drillemont te advierte que no te lances a lo que bien podría ser una auténtica guarida de herejes por unas cuantas provisiones. Vuelve a Camp Dragonhead e infórmale a Lord Haurchefant de este giro de los acontecimientos.
+TEXT_GAIUSE318_01459_SEQ_08	Tras oír tu relato de lo ocurrido en Snowcloak, el jefe de la House Fortemps insiste en dejar el asunto en manos de los Temple Knights. Pero antes de despedirte, Lord Haurchefant promete enviar otro cargamento de suministros a Revenant's Toll. Vuelve a Mor Dhona e infórmale a Slafborn.
+TEXT_GAIUSE318_01459_SEQ_09	A Slafborn parece aliviarle la generosidad de Lord Haurchefant. Advierte, sin embargo, que la creciente prosperidad de Revenant's Toll exigirá que todos ─ incluidos los nuevos reclutas de Alphinaud ─ estén atentos a las maquinaciones de los inescrupulosos.
+TEXT_GAIUSE318_01459_TODO_00	Habla con Drillemont en Whitebrim Front.
+TEXT_GAIUSE318_01459_TODO_01	Habla con el mercader maltratado.
+TEXT_GAIUSE318_01459_TODO_02	Recorre las tierras salvajes de Snowcloak y derrota a los herejes que encuentres.
+TEXT_GAIUSE318_01459_TODO_03	Habla con el caballero de la House Durendaire.
+TEXT_GAIUSE318_01459_TODO_04	Vuelve a hablar con el caballero de la House Durendaire.
+TEXT_GAIUSE318_01459_TODO_05	Habla con Drillemont.
+TEXT_GAIUSE318_01459_TODO_06	Habla con Haurchefant.
+TEXT_GAIUSE318_01459_TODO_07	Preséntate ante Slafborn en Revenant's Toll.
+TEXT_GAIUSE318_01459_HAURCHEFANT_000_000	Las patrullas de Whitebrim Front vieron grupos furtivos de hombres. Quizá Lord Drillemont sepa algo más de los descarados herejes que buscamos.
+TEXT_GAIUSE318_01459_DRILLEMONT_000_010	<split(<string(gstr1)>, ,1)>, bienvenid<if(gnum4,a,o)>, bienvenid<if(gnum4,a,o)>. Le alegrará saber que las reparaciones del Stone Vigil avanzan a buen ritmo. Lo reconstruiremos firme y sólido, para que los dravanianos se estrellen hasta perder el sentido contra nuestro escudo en el oeste.<br>...Me atrevería a decir, sin embargo, que no son asuntos de albañilería los que l<if(gnum4,a,o)> trajeron a Whitebrim.
+TEXT_GAIUSE318_01459_DRILLEMONT_000_011	<split(<string(gstr1)>, ,1)>, ¿hay algo que quiera preguntarme? Hable con franqueza, por favor ─ soy un hombre de acción y no necesito palabras melosas.
+TEXT_GAIUSE318_01459_DRILLEMONT_000_012	...¿Sigue el rastro de una banda de herejes ladrones, dice? Por la Fury, parece que su destino es cruzarse con esos villanos.
+TEXT_GAIUSE318_01459_DRILLEMONT_000_013	Debo confesar, entonces, que es una triste verdad que las tierras salvajes de por aquí están llenas de ellos. Atacan rápido, sin aviso, y son lo bastante astutos para eludir a nuestros mejores rastreadores.
+TEXT_GAIUSE318_01459_DRILLEMONT_000_014	Pero no es solo su nueva organización lo que nos desconcierta: los herejes mismos parecen de algún modo <italic(1)>cambiados<italic(0)>.
+TEXT_GAIUSE318_01459_DRILLEMONT_000_015	No sé qué clase de influencia ejerce esa Iceheart, pero los hombres a los que nos enfrentamos parecen completamente perdidos en un fervor fanático. Es un celo inquietante y antinatural.
+TEXT_GAIUSE318_01459_DRILLEMONT_000_016	¿Quizá le gustaría interrogar a una de sus víctimas recientes? Quiso el destino que usted llegara momentos después de que asaltaran a un comerciante en el camino.
+TEXT_GAIUSE318_01459_DRILLEMONT_000_017	Una patrulla encontró al desdichado tirado sin sentido en la nieve y lo llevó a nuestra enfermería. Si ya recobró sus facultades, puede que el mercader recuerde algún pequeño detalle que l<if(gnum4,a,o)> ayude en su tarea.
+TEXT_GAIUSE318_01459_DRILLEMONT_000_020	¿Hablará con el mercader de nuestra enfermería? El relato de su desagradable experiencia podría ayudarl<if(gnum4,a,o)> a dar con su presa.
+TEXT_GAIUSE318_01459_MERCHANT01459_000_030	¿Contarle lo que pasó? ¡Pues sí, claro! ¡Ya estoy lo bastante recuperado para eso! ¡Lo que sea por atrapar a esos cobardes desalmados!
+TEXT_GAIUSE318_01459_MERCHANT01459_000_031	Iba por mi ruta de siempre a Whitebrim Front cuando un golpe repentino me hizo tambalear...
+TEXT_GAIUSE318_01459_MERCHANT01459_000_032	Lo siguiente que supe es que estaba en el suelo, y varios herejes revolvían mi carga ─ armas, armaduras, cristales... se estaban llevando todo.
+TEXT_GAIUSE318_01459_MERCHANT01459_000_033	Fue entonces cuando uno de ellos notó mi mirada nublada y se acercó para presentarle mejor su maza a mi cabeza. Pero antes de que me envolviera la oscuridad, oí claramente las palabras "vuelvan a Snowcloak".
+TEXT_GAIUSE318_01459_MERCHANT01459_000_034	Me atrevo a decir que es allí adonde llevaban mis mercancías, ¡pero no me verá salir corriendo a perseguirlos! Me dicen que fue un milagro que sobreviviera, ¡y no pienso confiar en que mi cabeza dura me salve una segunda vez!
+TEXT_GAIUSE318_01459_MERCHANT01459_000_040	Lo más probable es que se hayan llevado mi carga a Snowcloak ─ que no es el lugar más hospitalario ni en los mejores momentos. No, creo que prefiero dar por perdido lo perdido antes que arriesgarme a volver a encontrarme con esos demonios sin sangre.
+TEXT_GAIUSE318_01459_LANCEFER_000_050	¡Gracias a la Fury que vino! ¡Los vi, a los herejes! Estaban justo allá. ¡Por favor, tiene que ayudar a nuestros caballeros en la cacería!
+TEXT_GAIUSE318_01459_OURDILIC_000_055	¡Shhh! ¡Cállate! ¿¡Quieres que los herejes caigan sobre nosotros!?
+TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_060	¡Gah! Desenvaine su arma, vil─ Espere, l<if(gnum4,a,o)> reconozco, aventurer<if(gnum4,a,o)>. ¿Viene buscando herejes?
+TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_061	Entonces tenemos un propósito en común. Estábamos de patrulla cuando nos topamos con uno de sus grupos de saqueo, y los perseguimos hasta aquí.
+TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_062	En rigor, deberíamos haberlos acorralado en este barranco... y sin embargo, se fueron. Desaparecieron, como espectros helados.
+TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_070	¿Vio a una mujer en lo alto del acantilado? ¿¡Será la mismísima Iceheart, que vino a burlarse de nuestra torpeza!?
+TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_071	¿Y adónde desapareció? Los herejes deben de haber descubierto un paso a través de la muralla helada ─ algún túnel oculto que se nos pasó.
+TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_072	No tenemos hombres suficientes para arriesgarnos a seguir investigando. Lo mejor sería volver a Whitebrim Front y plantearle nuestras sospechas a Lord Drillemont.
+TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_080	No podemos arriesgarnos a caer a ciegas en una emboscada. Hay que informar a Lord Drillemont antes de seguir adelante.
+TEXT_GAIUSE318_01459_DRILLEMONT_000_090	<split(<string(gstr1)>, ,1)>, parece que una vez más le debo las gracias. Los caballeros sobrevivientes no ahorraron detalles en su informe.
+TEXT_GAIUSE318_01459_DRILLEMONT_000_091	Los hombres que encontró cerca de Snowcloak eran de los mejores que tengo. Que los vencieran con tanta facilidad... Me temo que subestimé gravemente la amenaza que suponen estos herejes.
+TEXT_GAIUSE318_01459_DRILLEMONT_000_092	Aunque entiendo que la idea pueda no gustarle, debo pedirle que deje de lado su misión y dé por perdidas las provisiones robadas por ahora. No sería prudente meterse sin preparación en lo que bien podría ser la guarida misma de nuestro enemigo.
+TEXT_GAIUSE318_01459_DRILLEMONT_000_093	Vuelva a Dragonhead e infórmele a Lord Haurchefant de lo que descubrió. Querrá preparar sus propios planes de contingencia.
+TEXT_GAIUSE318_01459_DRILLEMONT_000_094	En cuanto a Iceheart y sus fanáticos... ¡las heladas alturas de Snowcloak no los protegerán de nuestra justicia por mucho tiempo!
+TEXT_GAIUSE318_01459_DRILLEMONT_000_100	Vuelva a Camp Dragonhead e infórmele a Lord Haurchefant todo lo que averiguó. Debe conocer los secretos de Snowcloak...
+TEXT_GAIUSE318_01459_HAURCHEFANT_000_110	Dígales a los peones de la frontera que no se preocupen por los suministros robados. No son nada comparados con lo que ganaremos teniendo un bastión sólido en Mor Dhona.
+TEXT_GAIUSE318_01459_SLAFBORN_000_120	¡<split(<string(gstr1)>, ,1)>! ¡Qué bueno verte de vuelta en el Toll! ¿Cómo te fue en los páramos helados de Coerthas?
+TEXT_GAIUSE318_01459_SLAFBORN_000_121	...¿La House Fortemps nos va a mandar un segundo cargamento? Tengo que agradecerle a Lord Haurchefant su generosidad de siempre.
+TEXT_GAIUSE318_01459_SLAFBORN_000_122	Pero a medida que nuestro pueblo prospera, me temo que atraerá a cada vez más gente dispuesta a hacernos daño por codicia o por poder. Todos, incluidos los nuevos reclutas de Alphinaud, debemos estar atentos a esas amenazas.
+TEXT_GAIUSE318_01459_POPMESSAGE_000_000	La nieve cruje bajo el paso de botas pesadas...
+TEXT_GAIUSE318_01459_BALLOON_000_000	Llegó tu fin...
+TEXT_GAIUSE318_01459_BALLOON_000_010	El frío alivia mi dolor...
+TEXT_GAIUSE318_01459_BALLOON_000_020	Entrega los cristales...
+TEXT_GAIUSE318_01459_BALLOON_000_030	Mi vida le pertenece a la Lady...
+TEXT_GAIUSE318_01459_POP_MESSAGE	（★Sin uso／se eliminará★）

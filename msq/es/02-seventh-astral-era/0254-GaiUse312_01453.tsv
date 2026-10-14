@@ -1,0 +1,39 @@
+key	text
+TEXT_GAIUSE312_01453_SEQ_00	El teniente Serpent está listo para despedirte.
+TEXT_GAIUSE312_01453_SEQ_01	Tras oír el relato de tu batalla con Ramuh, el teniente Serpent te insta a informar directamente a Kan<-->E<-->Senna. Vuelve a Gridania y habla con el conjurer silencioso para entrar al Lotus Stand.
+TEXT_GAIUSE312_01453_SEQ_02	Le describes a la Elder Seedseer tu encuentro con la deidad guardiana de los sylphs. Las palabras de Ramuh parecen calar hondo en Kan<-->E<-->Senna, que no logra refutar lo que afirmó el Lord of Levin: que adondequiera que va el hombre, la oscuridad lo sigue de cerca. Sales del Lotus Stand al terminar la audiencia, y dejas a la líder de Gridania preocupada y pensativa pese a la noticia de tu victoria. Cuéntale los detalles de la reunión a Papalymo, que te espera en Nophica's Altar.
+TEXT_GAIUSE312_01453_SEQ_03	A diferencia de la Elder Seedseer, Papalymo parece satisfecho con el resultado. Vuelve a los Rising Stones e infórmale a Minfilia.
+TEXT_GAIUSE312_01453_SEQ_04	Tras escuchar tu informe, Minfilia insinúa que ella también tiene noticias. Pero antes de revelar nada más, la Antecedent sugiere que primero escuches el último descubrimiento de Urianger sobre la naturaleza de la inmortalidad de los Ascians. ¿Habrá dado el erudito con una forma de destruir para siempre a los Paragons?
+TEXT_GAIUSE312_01453_TODO_00	Habla con Kan<-->E<-->Senna en el Lotus Stand.
+TEXT_GAIUSE312_01453_TODO_01	Habla con Papalymo en Nophica's Altar.
+TEXT_GAIUSE312_01453_TODO_02	Habla con Minfilia en los Rising Stones.
+TEXT_GAIUSE312_01453_LIEUTENANT01448_000_000	La Elder Seedseer querrá oír de su propia boca lo que vivió.
+TEXT_GAIUSE312_01453_LIEUTENANT01448_000_001	Vuelva a Gridania y vaya directo al Lotus Stand ─ el conjurer de Nophica's Altar l<if(gnum4,a,o)> estará esperando. Que le vaya bien, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>.
+TEXT_GAIUSE312_01453_LIEUTENANT01448_000_010	Vuelva a Gridania y vaya directo al Lotus Stand ─ el conjurer de Nophica's Altar estará esperando su llegada. Que le vaya bien, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>.
+TEXT_GAIUSE312_01453_DOORMANLOTUS_000_020	Bienvenid<if(gnum4,a,o)> de vuelta, honorable Scion. Los que sabíamos de su misión esperábamos con ansias su regreso. La Elder Seedseer l<if(gnum4,a,o)> espera adentro.
+TEXT_GAIUSE312_01453_Q1_000_021	¿Entrar al Lotus Stand?
+TEXT_GAIUSE312_01453_A1_000_022	Sí
+TEXT_GAIUSE312_01453_A1_000_023	No
+TEXT_GAIUSE312_01453_YDA_000_030	Tendrías que haber visto a Maxio cuando volvimos a Little Solace. ¡Decir que estaba agradecido es poco! ¡Pensé que le iba a arrancar la mano a Papalymo de tanto sacudírsela!
+TEXT_GAIUSE312_01453_PAPALYMO_000_035	¡Ah, <if(gnum4,la heroína,el héroe)> del momento! No hagamos esperar a la Elder Seedseer.
+TEXT_GAIUSE312_01453_THANCRED_000_040	Me gusta pensar que mi presencia ayudó más de lo que estorbó con lo de Leviathan, pero esta vez... Bueno, ¡hasta yo tengo mis días malos!
+TEXT_GAIUSE312_01453_YSHTOLA_000_045	Parece que la evaluación de Yda tenía algo de mérito, después de todo. Quizá no debería descartar tan rápido su intuición...
+TEXT_GAIUSE312_01453_PAPALYMO_000_60	Así termina otra misión difícil, ¿eh, <split(<string(gstr1)>, ,1)>?
+TEXT_GAIUSE312_01453_PAPALYMO_000_061	Esperaba que Lord Ramuh se dejara convencer solo con palabras, pero aun así no puedo más que admirar la destreza con que respondiste al repentino desafío del primal.
+TEXT_GAIUSE312_01453_PAPALYMO_000_062	Y parece que a Urianger también le agradó el resultado. ¿Qué dices, <split(<string(gstr1)>, ,1)>? ¿Volvemos a los Rising Stones a reflexionar sobre las lecciones del día?
+TEXT_GAIUSE312_01453_PAPALYMO_000_070	Seguro que Minfilia está ansiosa por oír más de tus aventuras. Volvamos a los Rising Stones a ordenar nuestras ideas.
+TEXT_GAIUSE312_01453_MINFILIA_000_080	¡Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>! ¡La noticia de tu trascendental encuentro con Lord Ramuh llegó antes que tú!
+TEXT_GAIUSE312_01453_MINFILIA_000_081	Me gustaría compartir mis propias noticias, pero los descubrimientos de Urianger tienen prioridad.
+TEXT_GAIUSE312_01453_MINFILIA_000_082	Al presenciar tu victoria sobre el Lord of Levin, nuestro sabio compañero tuvo una profunda revelación sobre la naturaleza de la inmortalidad de los Ascians. Reunámonos y hablemos juntos de sus observaciones.
+TEXT_GAIUSE312_01453_ASCIANA01453_000_200	(-Igeyorhm-)<colortype(547)>El Lord of Levin volvió al aether, igual que Leviathan antes que él.<colortype(0)>
+TEXT_GAIUSE312_01453_ASCIANB01453_000_201	(-Nabriales-)<colortype(547)>La aquiescencia de Ramuh fue de lo más... intrigante.<colortype(0)>
+TEXT_GAIUSE312_01453_ASCIANC01453_000_202	(-Emmerololth-)<colortype(547)>Infierno, vórtice, peña, remolino y rayo. <if(gnum4,La Portadora,El Portador)> de la Luz ya los humilló a todos.<colortype(0)>
+TEXT_GAIUSE312_01453_ASCIAND01453_000_203	(-Altima-)<colortype(547)>El potencial ilimitado del hombre... <if(gnum4,La sierva,El siervo)> de Hydaelyn se vuelve más poderos<if(gnum4,a,o)> cada día.<colortype(0)>
+TEXT_GAIUSE312_01453_ELIDIBUSEORZEA_000_204	(-Elidibus-)<colortype(547)>Pero prospera a un alto costo para su señora... cuya fuerza es demasiado finita. Siete veces sobrevivieron las masas a la Reunificación, pero sus almas se volvieron débiles y pálidas...<colortype(0)>
+TEXT_GAIUSE312_01453_ELIDIBUSEORZEA_000_205	(-Elidibus-)<colortype(547)>Y aun mientras debilita, el Ardor fortalece a nuestro amo. Solo queda nutrir la fuerza de los dotados ─ forjar la llave final.<colortype(0)>
+TEXT_GAIUSE312_01453_LAHABREAEORZEA_000_206	(-???-)<colortype(547)>...Y a esa tarea dedicamos todos nuestros esfuerzos.<colortype(0)>
+TEXT_GAIUSE312_01453_LAHABREAEORZEA_000_207	<colortype(547)>Las semillas divinas siempre germinaron en el suelo fértil de Eorzea. Basta con llevar a los hombres al campo, y por sus manos ansiosas surgirá una nueva deidad.<colortype(0)>
+TEXT_GAIUSE312_01453_LAHABREAEORZEA_000_208	<colortype(547)>Lo que fue destrozado será rehecho... y el único dios verdadero volverá.<colortype(0)>
+TEXT_GAIUSE312_01453_SCENE00003_EVENTAREA_WARP_YESNO_TITLE	（★Sin uso／se eliminará★）
+TEXT_GAIUSE312_01453_SCENE00003_EVENTAREA_WARP_YESNO_YES	（★Sin uso／se eliminará★）
+TEXT_GAIUSE312_01453_SCENE00003_EVENTAREA_WARP_YESNO_NO	（★Sin uso／se eliminará★）

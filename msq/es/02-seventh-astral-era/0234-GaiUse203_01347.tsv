@@ -1,0 +1,76 @@
+key	text
+TEXT_GAIUSE203_01347_SEQ_00	Thancred tiene información sobre tu próxima misión.
+TEXT_GAIUSE203_01347_SEQ_01	A través de Minfilia y, a su vez, de Thancred, Alphinaud pidió que vayas a Vesper Bay. Preséntate ante el joven señor Leveilleur en los muelles, afuera de los Waking Sands.
+TEXT_GAIUSE203_01347_SEQ_02	Alphinaud te cuenta que hace poco llegaron a Vesper Bay viajeros de Doma, una nación del este, que al parecer buscan una audiencia con los gobernantes de Ul'dah. Creyendo que podrían tener información valiosa sobre la situación actual dentro del Empire, decidió ir a buscarlos, y quiere que estés presente para que todo salga bien. Sabiendo lo poco complacientes que pueden ser los Sultansworn, sugiere empezar a buscar en la Royal Promenade de Ul'dah.
+TEXT_GAIUSE203_01347_SEQ_03	Tal como se esperaba, encuentras a la líder domana y a sus asistentes suplicando en vano a los Sultansworn apostados frente a la Fragrant Chamber. Viendo una oportunidad, Alphinaud se acerca a los viajeros y les ofrece su ayuda ─ con la condición de que primero lo acompañen al Quicksand y le expliquen su situación. Sigue al grupo hasta el Quicksand y avísale a Alphinaud cuando estés list<if(gnum4,a,o)> para escuchar la historia de los domanos.
+TEXT_GAIUSE203_01347_SEQ_04	Lady Yugiri, la líder de los refugiados, explica que su pueblo vino a Eorzea en busca de asilo. Tras el fracaso de su rebelión contra el Empire, las fuerzas imperiales se dedicaron a arrasar su patria, Doma, y no les quedó más remedio que huir. Conmovido por su historia, Alphinaud se ofrece a hablar con el General Raubahn en nombre de Yugiri y parte hacia el Hall of Flames, dejando a los refugiados a tu cuidado. Pregúntale a Yugiri si necesita algo.
+TEXT_GAIUSE203_01347_SEQ_05	Las provisiones del galeón domano escasean, y Yugiri te pide que la ayudes a conseguir víveres. Como dueña del Quicksand y amiga probada de los Scions, Momodi podría ser la mejor persona con quien hablar del asunto.
+TEXT_GAIUSE203_01347_SEQ_06	Resulta que un mercader adinerado canceló hace poco su reserva en el Quicksand, y Momodi se quedó con un excedente de comida. Se ofrece a enviarla a los Waking Sands para repartirla, y te da dos cartas con instrucciones para sus proveedores, Fridurih y Katherine, que están en el Sapphire Avenue Exchange.
+TEXT_GAIUSE203_01347_SEQ_07	Les entregas las instrucciones a los mercaderes, que no se molestan en ocultar que desaprueban lo que hace Momodi. Vuelve al Quicksand y avísale a Momodi que los envíos están en camino.
+TEXT_GAIUSE203_01347_SEQ_08	A Momodi le alegra saber que la comida tendrá un buen uso. Cuéntale la buena noticia a Yugiri.
+TEXT_GAIUSE203_01347_SEQ_09	Poco después de que le explicas a Yugiri el arreglo de Momodi, Alphinaud vuelve al Quicksand con más buenas noticias: los domanos obtuvieron una audiencia con la sultana y el Syndicate. Nadie sabe qué saldrá de la reunión, pero al menos Yugiri tendrá la oportunidad de defender la causa de su pueblo. Vuelve a la Royal Promenade y habla con Raubahn para entrar a la Fragrant Chamber.
+TEXT_GAIUSE203_01347_SEQ_10	Ante los líderes de Ul'dah reunidos, Yugiri detalla las circunstancias que obligaron a su pueblo a buscar refugio en Ul'dah. Aunque la sultana, Raubahn y Teledji Adeledji simpatizan con su causa, el miembro más influyente del Syndicate, Lolorito, convence a los demás de negarles el asilo a los domanos. Con las puertas de Ul'dah cerradas, Yugiri y su gente deberán buscar un nuevo hogar en otra parte.
+TEXT_GAIUSE203_01347_TODO_00	Habla con Alphinaud.
+TEXT_GAIUSE203_01347_TODO_01	Busca a los domanos en la Royal Promenade.
+TEXT_GAIUSE203_01347_TODO_02	Habla con Alphinaud en el Quicksand.
+TEXT_GAIUSE203_01347_TODO_03	Habla con Yugiri.
+TEXT_GAIUSE203_01347_TODO_04	Habla con Momodi.
+TEXT_GAIUSE203_01347_TODO_05	Entrégale la carta de Momodi a Fridurih en el Sapphire Avenue Exchange.
+TEXT_GAIUSE203_01347_TODO_06	Entrégale la carta de Momodi a Katherine en el Sapphire Avenue Exchange.
+TEXT_GAIUSE203_01347_TODO_07	Habla con Momodi.
+TEXT_GAIUSE203_01347_TODO_08	Habla con Yugiri.
+TEXT_GAIUSE203_01347_TODO_09	Habla con Raubahn en la Royal Promenade.
+TEXT_GAIUSE203_01347_THANCRED_000_000	La Antecedent me pidió que te dijera que vayas a Vesper Bay, donde el joven Alphinaud espera tu llegada con <italic(1)>muchísimas<italic(0)> ganas. Fue él quien pidió tu ayuda.
+TEXT_GAIUSE203_01347_THANCRED_000_001	Algún alboroto o incidente ─ no conozco los detalles.
+TEXT_GAIUSE203_01347_THANCRED_000_002	Mientras haces lo que sea que Alphinaud tenga planeado para ti, yo intentaré dar con nuestro Brass Blade traidor. Y cuando lo encuentre, puedes estar segur<if(gnum4,a,o)> de que tendremos nuestras respuestas.
+TEXT_GAIUSE203_01347_THANCRED_000_005	Sabes que Alphinaud odia que lo hagan esperar, ¿no? Ah, pero claro que lo sabes. Sigue, entonces.
+TEXT_GAIUSE203_01347_ALPHINAUD_000_010	Llega tarde. No importa ─ sé adónde se dirigen nuestros visitantes. Por lo que pude averiguar, esta nave pertenece a un grupo de domanos que buscan una audiencia con la sultana. Conoce Doma, ¿verdad? ¿En Othard?
+TEXT_GAIUSE203_01347_ALPHINAUD_000_011	Pues bien, como el resto de las naciones del continente oriental, la gobierna el Garlean Empire. Dada la llegada sin aviso de nuestros visitantes, y el estado de su nave, sospecho que no dejaron su patria en las mejores circunstancias. Ni hace falta decir que me interesaría mucho oír su historia y, sobre todo, lo que saben de la situación actual del Empire. Esa información podría resultar muy útil.
+TEXT_GAIUSE203_01347_ALPHINAUD_000_012	Seríamos tontos si no aprovecháramos esta oportunidad, ¿no le parece? Venga conmigo a Ul'dah, <split(<string(gstr1)>, ,1)>. Si no me equivoco ─ y <italic(1)>rara vez<italic(0)> me equivoco ─, encontraremos a los domanos discutiendo con un Sultansworn en la Royal Promenade.
+TEXT_GAIUSE203_01347_ALPHINAUD_000_013	...¿No tiene claro cuál es su papel en todo esto? Un seguro. Si nuestros invitados no son ellos mismos agentes imperiales, es razonable suponer que algunos podrían estar persiguiéndolos. Y si no, ¿quién mejor que usted para tener a mano en caso de un incidente diplomático imprevisto?<br>Además, disfruto muchísimo de su chispeante conversación. ¿Satisfech<if(gnum4,a,o)>? Bien. Nos vemos en Ul'dah.
+TEXT_GAIUSE203_01347_KASASAGI_000_014	¿¡Quién es usted para hablarnos con semejante falta de respeto!?
+TEXT_GAIUSE203_01347_KIKYOU_000_015	¡Es imperioso que nos deje entrar!
+TEXT_GAIUSE203_01347_BARTHOLOMEW_000_016	¡Es como le dije, señora! ¡Nadie obtendrá una audiencia sin los permisos necesarios!
+TEXT_GAIUSE203_01347_YUGIRI_000_017	No comprende usted lo apremiante de nuestra petición, señor. Si tan solo llamara a su superior, podría explicarle...
+TEXT_GAIUSE203_01347_BARTHOLOMEW_000_020	¡No importa cuántas veces lo pida! ¡Sin los permisos necesarios, nadie pasa!
+TEXT_GAIUSE203_01347_YUGIRI_000_021	(-Líder de los refugiados-)¡Le ruego que lo entienda, buen señor! No tenemos el lujo de presentar una petición formal. El tiempo apremia.
+TEXT_GAIUSE203_01347_YUGIRI_000_022	(-Líder de los refugiados-)Solo le pido que llame a su superior. Permítame defender mi causa. ¿Acaso no puede concedernos esa pequeña gentileza?
+TEXT_GAIUSE203_01347_BARTHOLOMEW_000_023	Váyanse, y no vuelvan a pisar estas puertas. ¡No se lo volveré a pedir!
+TEXT_GAIUSE203_01347_YUGIRI_000_024	(-Líder de los refugiados-)No sabe usted lo que hace...
+TEXT_GAIUSE203_01347_ALPHINAUD_000_025	Deduzco que sus súplicas cayeron en oídos sordos.
+TEXT_GAIUSE203_01347_YUGIRI_000_026	(-Líder de los refugiados-)Un hombre leal de corazón frío. Conozco bien a los de su clase.
+TEXT_GAIUSE203_01347_ALPHINAUD_000_027	Espero que yo le resulte más de su agrado. Alphinaud Leveilleur, a su servicio. Un amigo.
+TEXT_GAIUSE203_01347_ALPHINAUD_000_028	Lo cual, creo, me vuelve casi único ─ al menos en esta parte del mundo. Muy pocos son sus aliados en Ul'dah. Y sin embargo, necesitará algunos si quiere ganarse a los ricos y poderosos.
+TEXT_GAIUSE203_01347_ALPHINAUD_000_029	Acompáñenos, a mí y a mi colega, al Quicksand. Allí podrán explicarnos su situación, y veremos si podemos hacer algo para ayudar.
+TEXT_GAIUSE203_01347_YUGIRI_000_029	Usted es <if(gnum4,la colega,el colega)> del señor Alphinaud, ¿verdad? Lo estábamos esperando. ¿Supongo que está list<if(gnum4,a,o)> para empezar?
+TEXT_GAIUSE203_01347_KASASAGI_000_029	Les agradeceríamos mucho cualquier ayuda que usted y el señor Alphinaud puedan ofrecernos.
+TEXT_GAIUSE203_01347_KIKYOU_000_029	Hace tantísimo tiempo que no pisábamos tierra firme. De verdad espero que esto marque el fin de nuestro viaje.
+TEXT_GAIUSE203_01347_KASASAGI_000_030	Le estamos infinitamente agradecidos por esta bondad.
+TEXT_GAIUSE203_01347_KIKYOU_000_030	Lady Yugiri trabaja día y noche por el bien de nuestro pueblo. Es una inspiración para todos nosotros... pero me preocupa su salud.
+TEXT_GAIUSE203_01347_YUGIRI_000_030	Si me permite, <if(gnum4,señora,señor)> ─ como dije antes, llevamos varias lunas en el mar, y nuestras provisiones están casi agotadas.
+TEXT_GAIUSE203_01347_YUGIRI_000_031	No tengo el valor de repetir los relatos de nuestras penurias, ni creo que le agradaría escucharlos. Basta decir, sin embargo... que hubo sacrificios.
+TEXT_GAIUSE203_01347_YUGIRI_000_032	Aunque me avergüenza pedir más cuando ya nos ofrecieron tanto, la desesperación me obliga... <if(gnum4,Buena señora,Gentil señor)>, si usted o sus colegas pudieran darnos algunas provisiones ─ lo que sea ─, aliviaría mucho el sufrimiento de mi pueblo.
+TEXT_GAIUSE203_01347_YUGIRI_000_035	Cualquier cosa que pueda darnos será bienvenida. Los adultos podemos pasar sin comer, pero los niños...
+TEXT_GAIUSE203_01347_MOMODI_000_040	...¡Por todos los infiernos!, ¿por qué no lo dijiste antes, <split(<string(gstr1)>, ,1)>? ¡Claro que ayudo! ¡La verdad es que no pudiste elegir mejor día! Un mercader rico y su séquito iban a tener un banquete aquí mañana, ¿ves?, pero acaban de avisar que no pueden venir, así que tengo un montón de comida y a nadie a quien darle de comer. ¡Y lo mejor es que lo pagaron todo por adelantado! ¡Ja, ja!
+TEXT_GAIUSE203_01347_MOMODI_000_041	Ve a ver a Fridurih y a Katherine al Sapphire Avenue Exchange. Diles que yo dije que manden el pedido del principito a los Waking Sands. Ah, y si protestan, muéstrales estas cartas. Con eso se les pasa.
+TEXT_GAIUSE203_01347_YUGIRI_000_060	No se lo pediría si la situación no fuera desesperada. Por favor ─ cualquier provisión que puedan darnos se lo agradeceríamos muchísimo.
+TEXT_GAIUSE203_01347_FRIDURIH_000_050	¿Ahora se dedica a alimentar refugiados? No suelo cuestionar el criterio de la señora Momodi, pero eso no me parece sensato.
+TEXT_GAIUSE203_01347_FRIDURIH_000_051	No hablo por los niños, pero si me preguntas, cualquier hombre que no puede ganarse el pan merece pasar hambre.
+TEXT_GAIUSE203_01347_KATHERINE_000_055	Vaya, qué pedido tan raro. ¿No habrás entendido mal sus instrucciones?
+TEXT_GAIUSE203_01347_KATHERINE_000_056	Sabes, no deberías malacostumbrarlos así. ¡Empezarán a <italic(1)>esperarlo<italic(0)>, acuérdate de lo que te digo!
+TEXT_GAIUSE203_01347_MOMODI_000_059	No te dieron problemas, ¿no? Bien. Ahora ve a decirle a Lady Yugiri que todo está arreglado.
+TEXT_GAIUSE203_01347_YUGIRI_000_061	Yo... ¡no me atrevía a esperar semejante generosidad, y mucho menos a contar con ella! La señora Momodi es generosa de verdad... Me aseguraré de agradecérselo con toda humildad.
+TEXT_GAIUSE203_01347_ALPHINAUD_000_070	Lady Yugiri, le expliqué su situación al Flame General. Creo que su respuesta le agradará.
+TEXT_GAIUSE203_01347_YUGIRI_000_071	¿Nos concedieron una audiencia?
+TEXT_GAIUSE203_01347_ALPHINAUD_000_072	Ante la sultana y el Syndicate. Deberíamos volver a la Royal Promenade de inmediato.
+TEXT_GAIUSE203_01347_YUGIRI_000_073	Hizo mucho por nosotros, señor Alphinaud. Le juro que le devolveremos el favor.
+TEXT_GAIUSE203_01347_ALPHINAUD_000_074	Nada se debe, Lady Yugiri, porque nada se dio. Este pequeño favor se lo ganó usted con sus palabras. Y es con palabras que deberá ganarse el favor del Syndicate.
+TEXT_GAIUSE203_01347_YUGIRI_000_075	Entonces las elegiré con cuidado.
+TEXT_GAIUSE203_01347_ALPHINAUD_000_076	Nos acompañará, ¿verdad? Bien. Su presencia quizá le recuerde al Syndicate el verdadero sentido de la filantropía ─ y que no se les pedirá nada tan desagradable, siempre que los domanos estén dispuestos a ganarse el sustento. Vamos, el Flame General nos espera en la Royal Promenade.
+TEXT_GAIUSE203_01347_ALPHINAUD_000_080	Debemos esforzarnos por mostrar cómo se beneficiaría Ul'dah al aceptar a los domanos. Solo así podríamos convencer al Syndicate.
+TEXT_GAIUSE203_01347_YUGIRI_000_080	Los bardos cantan guerras que decidieron el destino de naciones, pero una sola palabra dicha en una sala de consejo bien puede decidir el de la mía...
+TEXT_GAIUSE203_01347_KASASAGI_000_080	Si todos somos enemigos de Garlemald, ¿no sería lógico que uniéramos fuerzas?
+TEXT_GAIUSE203_01347_KIKYOU_000_080	Oí que la sultana es una gobernante bondadosa y generosa. Del Syndicate oí cosas menos halagadoras.
+TEXT_GAIUSE203_01347_TELEDJIADELEDJI_000_080	Quise saludar antes a nuestros invitados y ofrecerles mi apoyo. Domano, ul'dahno, me da igual; a mis ojos, el lugar de nacimiento no otorga derechos de nacimiento.
+TEXT_GAIUSE203_01347_TELEDJIADELEDJI_000_081	Precisamente por eso me enorgullecen tanto mis establecimientos. El Platinum Mirage, en particular, es una vitrina para el talento de incontables hombres y mujeres nacidos fuera de nuestras fronteras.
+TEXT_GAIUSE203_01347_RAUBAHN_000_100	Un placer, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>)>)>. Los demás ya están adentro. No los hagamos esperar.

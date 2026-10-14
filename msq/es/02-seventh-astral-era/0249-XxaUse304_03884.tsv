@@ -1,0 +1,37 @@
+key	text
+TEXT_XXAUSE304_03884_SEQ_00	El refugiado aterrado quiere que encuentres a la turbia figura que intenta sembrar la discordia entre sus hermanos.
+TEXT_XXAUSE304_03884_SEQ_01	Al hombre, que tiembla a ojos vistas, le preocupa que el mercader intente reclutar a más refugiados desesperados y siga el derramamiento de sangre. Recordando que el mercader quería acercarse a la gente de Stonesthrow, el sobreviviente te pide que sigas buscando allí.
+TEXT_XXAUSE304_03884_SEQ_02	Te atrae el llanto de una niña, que te cuenta que un hombre visitó Stonesthrow y convenció a varias personas, entre ellas sus padres, de irse con él. Apenas se despierta tu interés, el hombre vuelve. Lo enfrentas, pero huye como un cobarde hacia el Ul'dah Dispatch Yard. Persíguelo y haz que rinda cuentas por lo que hizo.
+TEXT_XXAUSE304_03884_SEQ_03	En el Dispatch Yard das con tu presa. Para tu poca sorpresa, el mercader escurridizo se apura a negar tus acusaciones, y con la misma rapidez confiesa cuando lo presionas. Pero apenas ofrece contar todo lo que sabe, cae a tus pies con el pecho atravesado por una flecha, en el momento justo. El alboroto llama la atención de dos Stone Torches, y uno de ellos quiere saber qué haces junto a un muerto.
+TEXT_XXAUSE304_03884_SEQ_04	Le explicas al Stone Torch que al mercader lo abatió una flecha disparada desde lejos, y que era el objeto de tu investigación sobre los levantamientos de refugiados. Satisfecho con tu declaración, el Stone Torch te deja seguir con tu trabajo. Vuelve al Hall of Flames e infórmale al Commander Swift lo que averiguaste.
+TEXT_XXAUSE304_03884_SEQ_05	Swift concluye que mataron al mercader para proteger la identidad de quien lo contrató. Pese a este revés, parece confiado en que pronto se revelará quién orquestó en realidad el levantamiento.
+TEXT_XXAUSE304_03884_TODO_00	Busca al mercader en Stonesthrow.
+TEXT_XXAUSE304_03884_TODO_01	Busca al mercader en el Ul'dah Dispatch Yard.
+TEXT_XXAUSE304_03884_TODO_02	Habla con el Stone Torch.
+TEXT_XXAUSE304_03884_TODO_03	Preséntate ante Swift en el Hall of Flames.
+TEXT_XXAUSE304_03884_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
+TEXT_XXAUSE304_03884_TREMBLEMAN01443_100_000	El mercader quería acercarse a los refugiados de Stonesthrow, pero esperaba a que los Flames retiraran sus fuerzas de la zona. Ahora que lo hicieron, nada le impide seguir con su trabajo.
+TEXT_XXAUSE304_03884_TREMBLEMAN01443_100_001	¿Cuántos más tienen que morir persiguiendo esta causa inútil? ¿Cuánto más tenemos que sufrir antes de que termine?
+TEXT_XXAUSE304_03884_TREMBLEMAN01443_100_002	Encuéntralo. Convéncelo de que abandone su búsqueda demencial. Seguro nos llevará a la ruina.
+TEXT_XXAUSE304_03884_ELE_100_010	\<sollozo> ¿Viste... viste a mis papás?
+TEXT_XXAUSE304_03884_ELE_100_011	Me dijeron que me quedara aquí con los demás. \<sollozo> Dijeron que volverían pronto, pero ya pasaron días...
+TEXT_XXAUSE304_03884_ELE_100_012	Se fueron con el señor de Ul'dah. El señor dijo que iban a cambiarlo todo ─ que podríamos vivir dentro de las murallas con todos los demás. Eso me gustó cuando lo dijo.
+TEXT_XXAUSE304_03884_ELE_100_013	No me gustó cuando habló de hacer pagar a los ricos. Todos se veían tan enojados, y me dio miedo...
+TEXT_XXAUSE304_03884_ELE_000_000	Oye, <if(gnum4,señorita,señor)>... ¿buscas a alguien?
+TEXT_XXAUSE304_03884_Q1_000_000	¿Qué dices?
+TEXT_XXAUSE304_03884_A1_000_001	Busco a un mercader.
+TEXT_XXAUSE304_03884_A1_000_002	Busco a alguien que anda sembrando problemas.
+TEXT_XXAUSE304_03884_ELE_000_001	¿Te refieres... al señor que se fue con mis papás? Pero no sé dónde─
+TEXT_XXAUSE304_03884_ELE_100_001	Espera... ¡mira! ¡Allá! ¡Creo que es él!
+TEXT_XXAUSE304_03884_MERCHANT01445_000_002	Vaya, vaya. ¿Cuál de estos tontos crédulos será mi próxima víctima?
+TEXT_XXAUSE304_03884_MERCHANT01445_000_003	¡<italic(1)>Tú<italic(0)>! Yo... Yo...
+TEXT_XXAUSE304_03884_ELE_000_004	¡Se está escapando! ¡Atrápalo, <if(gnum4,señorita,señor)>!
+TEXT_XXAUSE304_03884_ELE_000_010	¡El señor que se fue con mis papás se escapó por allá! ¡No puedes dejar que se vaya!
+TEXT_XXAUSE304_03884_GUARDLEADER01445_000_070	Alto, aventurer<if(gnum4,a,o)>. Quisiera saber más de su relación con la víctima y de lo que pasó antes de su muerte.
+TEXT_XXAUSE304_03884_GUARDLEADER01445_000_071	¿Este hombre era el responsable de los últimos disturbios? Quizá le debamos un favor a su asesino.
+TEXT_XXAUSE304_03884_GUARDLEADER01445_000_072	En cualquier caso, es evidente que usted no es a quien buscamos. Puede seguir con su investigación, Scion.
+TEXT_XXAUSE304_03884_GUARDLEADER01445_000_080	Si esa flecha se disparó desde donde usted indica, el arquero debe de tener buen ojo... y mejor brazo.
+TEXT_XXAUSE304_03884_SWIFT_000_090	¿Qué noticias trae, <if([gnum54>0],<if([gnum54<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)>? ¿Dónde está el mercader?
+TEXT_XXAUSE304_03884_SWIFT_000_091	¿¡<italic(1)>Asesinado<italic(0)>!? ¡Que se vaya todo al séptimo infierno!
+TEXT_XXAUSE304_03884_SWIFT_000_092	No lo asesinaron sin más, <if([gnum54>0],<if([gnum54<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)> ─ lo <italic(1)>silenciaron<italic(0)>. Demasiados conocían su cara, y estaba dispuesto a revelar sus secretos.
+TEXT_XXAUSE304_03884_SWIFT_000_093	Pero no se desanime. Quizá estemos más cerca de lo que cree de identificar a quien orquestó en realidad estos disturbios.

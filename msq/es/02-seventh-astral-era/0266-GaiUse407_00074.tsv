@@ -1,0 +1,28 @@
+key	text
+TEXT_GAIUSE407_00074_SEQ_00	Las fuerzas aliadas en Snowcloak corren peligro, y Lord Drillemont quiere que lo ayudes a protegerlas.
+TEXT_GAIUSE407_00074_SEQ_01	Según Lord Drillemont, hace tiempo que se sospechaba que los herejes usaban túneles secretos para recorrer sin ser vistos las tierras altas de Coerthas. Por lo que oíste, está convencido de que los herejes acampados en Boulder Downs piensan usar esos túneles para emboscar a las fuerzas aliadas en Snowcloak. Ordenó a un contingente de caballeros de la House Durendaire que empiecen a buscar a los emboscadores, pero cree que tu presencia reforzaría mucho sus esfuerzos. Viaja a Boulder Downs y reúnete con los caballeros de la House Durendaire.
+TEXT_GAIUSE407_00074_SEQ_02	Llegas a Boulder Downs y descubres a los caballeros de la House Durendaire muertos tras lo que debió de ser una lucha desesperada contra los seguidores de Iceheart. Antes de que puedas hacerte una idea de la situación, te rodean los herejes sobrevivientes, claramente sedientos de venganza... Aunque pelean con la pasión de los verdaderos creyentes, no son rival para ti, y pronto también ellos yacen inmóviles en la nieve. ¿Y ahora? A falta de una idea mejor, registra los cuerpos de los herejes en busca de algo que revele sus planes.
+TEXT_GAIUSE407_00074_SEQ_03	Revuelves la mochila de un hereje y encuentras un pergamino curioso con fechas y horas escritas. ¿Será importante? Lord Drillemont lo sabrá.
+TEXT_GAIUSE407_00074_SEQ_04	Lord Drillemont reconoce el pergamino: es un horario de los cambios de guardia del puesto de Snowcloak. Con él, los herejes podrían entrar y salir de sus túneles sin miedo a ser descubiertos, y así preparar una emboscada a las fuerzas aliadas que buscan en la zona. Pese a tus esfuerzos, parece que los Temple Knights y los Crystal Braves siguen en peligro, y Lord Drillemont no tiene más remedio que enviar refuerzos.
+TEXT_GAIUSE407_00074_TODO_00	Reúnete con los caballeros de la House Durendaire.
+TEXT_GAIUSE407_00074_TODO_01	Registra las pertenencias del hereje.
+TEXT_GAIUSE407_00074_TODO_02	Llévale el pergamino del hereje a Drillemont.
+TEXT_GAIUSE407_00074_DRILLEMONT_000_000	Hace tiempo sospechamos que los herejes usan una red de túneles secretos para recorrer las tierras altas sin ser vistos... Por lo que oyó, temo que Snowcloak esté plagada de esos pasadizos, y que los herejes de Boulder Downs planeen usarlos para tomar desprevenidas a nuestras fuerzas. Ni hace falta decir que no podemos permitirlo.
+TEXT_GAIUSE407_00074_DRILLEMONT_000_001	Un contingente de caballeros de la House Durendaire patrulla la zona, y les ordenaré que empiecen a buscar a los herejes de inmediato. Pero como no sé nada del número ni de la preparación de nuestro enemigo, no puedo asegurar que sean suficientes...
+TEXT_GAIUSE407_00074_DRILLEMONT_000_002	Me quedaría más tranquilo si aceptara ayudar a mis caballeros en la búsqueda. Sé que la presencia de <if(gnum4,una guerrera,un guerrero)> tan legendari<if(gnum4,a,o)> les daría valor.
+TEXT_GAIUSE407_00074_DRILLEMONT_000_003	Reúnase con ellos en Boulder Downs, por favor. Si Halone es benévola, quizá atrapemos a esos herejes antes de que se cumplan sus planes.
+TEXT_GAIUSE407_00074_DRILLEMONT_000_004	No tenga piedad con ellos, <split(<string(gstr1)>, ,1)>. La vida de nuestros aliados está en juego.
+TEXT_GAIUSE407_00074_DRILLEMONT_000_010	Se lo ruego, <split(<string(gstr1)>, ,1)> ─ apúrese a ir a Boulder Downs. Reúnase con mis caballeros y abata a todos los herejes que encuentre.
+TEXT_GAIUSE407_00074_DRILLEMONT_000_011	Cada momento perdido es un regalo para nuestros enemigos ─ otra oportunidad para que se escabullan en sus malditos túneles y aparezcan a espaldas de nuestros aliados.
+TEXT_GAIUSE407_00074_BALLOON_100_010	¡Cuidado con este!
+TEXT_GAIUSE407_00074_DRILLEMONT_000_020	Mis caballeros no avisaron de su llegada, <split(<string(gstr1)>, ,1)>. ¿Qué pasó? ¿Qué es eso que tiene en la mano?
+TEXT_GAIUSE407_00074_DRILLEMONT_000_030	Por la Fury... ¡Eran veteranos con años de servicio!
+TEXT_GAIUSE407_00074_DRILLEMONT_000_031	Y ahora yacen muertos en la nieve. \<suspiro> Hay que recuperar sus cuerpos, y─
+TEXT_GAIUSE407_00074_DRILLEMONT_000_032	No. No, no tenemos hombres de sobra. No ahora. No mientras Iceheart se prepara para invocar una abominación.
+TEXT_GAIUSE407_00074_DRILLEMONT_000_033	Los herejes que abatió no eran suficientes para enfrentarse a las fuerzas combinadas de los Temple Knights y los Crystal Braves. Tiene que haber otros. Y apuesto a que van camino a Snowcloak en este mismo momento.
+TEXT_GAIUSE407_00074_DRILLEMONT_000_034	Para empeorar las cosas, parece que el traidor al que siguió logró pasarles a los herejes algo de valor, después de todo...
+TEXT_GAIUSE407_00074_DRILLEMONT_000_035	El pergamino que recuperó es un horario de las guardias de nuestro puesto de Snowcloak. El traidor estuvo destacado allí mucho antes de que sospecháramos de él. ¡Ojalá lo hubiéramos atrapado antes!
+TEXT_GAIUSE407_00074_DRILLEMONT_000_036	Con esta información, los herejes sabrían cuándo la guardia es más débil. Podrían usar sus túneles impunemente y preparar su emboscada...
+TEXT_GAIUSE407_00074_DRILLEMONT_000_037	El horario no cambió, ¿entiende? Claro que <italic(1)>ahora<italic(0)> lo cambiaremos, pero puede que los herejes ya estén en posición.
+TEXT_GAIUSE407_00074_DRILLEMONT_000_038	La House Durendaire <italic(1)>debe<italic(0)> enviar refuerzos ─ aunque eso signifique retirar caballeros del Stone Vigil. No veo otra forma de proteger la vida de nuestros aliados.
+TEXT_GAIUSE407_00074_BALLOON_000_040	¡Eh, por aquí!
