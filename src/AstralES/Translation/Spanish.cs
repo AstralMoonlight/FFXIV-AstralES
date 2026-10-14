@@ -222,6 +222,7 @@ public static partial class Spanish
         Mnk(Add);
         Vpr(Add);
         Drk(Add);
+        Drg(Add);
 
         return lines;
     }

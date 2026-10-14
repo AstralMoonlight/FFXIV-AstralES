@@ -6,3 +6,6 @@ obj/
 # Volcado de las hojas del juego: cada quien lo genera con su propia instalación
 # (dotnet run --project tools/ExtractGameData). El plugin no lo usa.
 src/AstralES/Data/GameData.g.cs
+
+# Texto en inglés de la MSQ, también un volcado del juego (dotnet run --project tools/ExtractMsq).
+msq/en/

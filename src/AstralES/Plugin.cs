@@ -39,6 +39,7 @@ public sealed unsafe class Plugin : IDalamudPlugin
     private readonly IChatGui chat;
     private readonly IPluginLog log;
     private readonly Hook<ShowTooltipDelegate> showTooltip;
+    private readonly Msq msq;
 
     // Each unknown line is logged once, so /xllog lists exactly what is left to translate.
     private readonly HashSet<string> reported = [];
@@ -54,7 +55,8 @@ public sealed unsafe class Plugin : IDalamudPlugin
     private bool enabled = true;
     private bool diagnostics;
 
-    public Plugin(IAddonLifecycle lifecycle, ICommandManager commands, IChatGui chat, IPluginLog log, IGameInteropProvider interop)
+    public Plugin(IAddonLifecycle lifecycle, ICommandManager commands, IChatGui chat, IPluginLog log, IGameInteropProvider interop,
+        IClientState clientState, IDataManager data, ISeStringEvaluator evaluator)
     {
         this.lifecycle = lifecycle;
         this.commands = commands;
@@ -68,6 +70,8 @@ public sealed unsafe class Plugin : IDalamudPlugin
             (nint)AtkTooltipManager.MemberFunctionPointers.ShowTooltip, OnShowTooltip);
         showTooltip.Enable();
 
+        msq = new Msq(lifecycle, clientState, data, evaluator, log, () => enabled, () => diagnostics);
+
         commands.AddHandler(Command, new CommandInfo(OnCommand)
         {
             HelpMessage = "Activa o desactiva la traducción. \"/astrales diag\" activa o desactiva el diagnóstico en /xllog.",
@@ -79,7 +83,7 @@ public sealed unsafe class Plugin : IDalamudPlugin
         if (args.Trim() == "diag")
         {
             diagnostics = !diagnostics;
-            chat.Print($"[AstralES] Diagnóstico {(diagnostics ? "activado: pasa el mouse por habilidades y estados, y revisa /xllog" : "desactivado")}.");
+            chat.Print($"[AstralES] Diagnóstico {(diagnostics ? "activado: pasa el mouse por habilidades y estados o habla con alguien, y revisa /xllog" : "desactivado")}.");
             return;
         }
 
@@ -244,6 +248,7 @@ public sealed unsafe class Plugin : IDalamudPlugin
     public void Dispose()
     {
         showTooltip.Dispose();
+        msq.Dispose();
         lifecycle.UnregisterListener(OnUpdate, OnDrawn);
         commands.RemoveHandler(Command);
     }
