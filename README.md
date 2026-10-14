@@ -82,7 +82,7 @@ Los jobs pendientes ya muestran en español algunas líneas que comparten con ot
 | **A Realm Reborn** | 2.0 | Historia principal: inicio en Gridania, Limsa Lominsa o Ul'dah, hasta "The Ultimate Weapon" | ![Traducido][ok] |
 | | | Raid de 8: The Binding Coil of Bahamut | ![Traducido][ok] |
 | | | Raid de alianza (24): Crystal Tower | ![Traducido][ok] |
-| **Post A Realm Reborn** | 2.1–2.55 | Historia principal, desde "The Price of Principles" | ![Pendiente][no] |
+| **Post A Realm Reborn** | 2.1–2.55 | Historia principal, desde "The Price of Principles" (1 misión traducida) | ![En progreso][wip] |
 | | | Primals de ARR (Hard y Extreme) | ![Traducido][ok] |
 | **Heavensward** | 3.0 | Historia principal | ![Pendiente][no] |
 | | | Raid de 8: Alexander (Gordias, Midas, Creator) | ![Pendiente][no] |
@@ -162,3 +162,4 @@ Si una línea sale en inglés o mal traducida, activa `/astrales diag`, repite l
 
 [ok]: https://img.shields.io/badge/-Traducido-2ea043?style=flat-square
 [no]: https://img.shields.io/badge/-Pendiente-6e7681?style=flat-square
+[wip]: https://img.shields.io/badge/-En%20progreso-d4a017?style=flat-square

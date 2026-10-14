@@ -1,0 +1,69 @@
+key	text
+TEXT_GAIUSE101_01175_SEQ_00	Minfilia parece perdida en sus pensamientos.
+TEXT_GAIUSE101_01175_SEQ_01	Desde tu célebre victoria sobre Gaius van Baelsar, los salones de los Waking Sands se llenaron de solicitantes que buscan contratar los servicios de los Scions para su propio beneficio. Aunque a Minfilia le disgusta considerar propuestas tan dudosas, se pregunta si aceptar ese patrocinio podría, al final, darle a la orden el poder de hacer un bien mayor. Antes de decidir, quiere oír la opinión de tus compañeros Scions. Habla con Thancred, Y'shtola, Yda, Papalymo y Urianger.
+TEXT_GAIUSE101_01175_SEQ_02	Como era de esperar, a los demás Scions les preocupan mucho las implicancias ideológicas de aceptar un apoyo con condiciones. ¿Quizá Alphinaud pueda ofrecer otra perspectiva?
+TEXT_GAIUSE101_01175_SEQ_03	Alphinaud aprovecha la oportunidad para hacer una contrapropuesta audaz: trasladar la sede de los Scions a Mor Dhona, más allá de las fronteras de Ul'dah y de las demás grandes naciones. Aunque Minfilia finge escuchar los argumentos del joven Elezen, no se deja convencer: tacha la idea de imprudente sin medida y lo despide sin ceremonias. Mientras ves en silencio cómo se retira Alphinaud, intuyes que, bajo sus palabras acaloradas, había otra conversación...
+TEXT_GAIUSE101_01175_TODO_00	Habla con Y'shtola.
+TEXT_GAIUSE101_01175_TODO_01	Habla con Thancred.
+TEXT_GAIUSE101_01175_TODO_02	Habla con Papalymo.
+TEXT_GAIUSE101_01175_TODO_03	Habla con Yda.
+TEXT_GAIUSE101_01175_TODO_04	Habla con Urianger.
+TEXT_GAIUSE101_01175_TODO_05	Habla con Alphinaud.
+TEXT_GAIUSE101_01175_MINFILIA_000_000	...¿Hm? <split(<string(gstr1)>, ,1)>. Me alegra verte bien.
+TEXT_GAIUSE101_01175_TATARU_000_001	Perdón por interrumpir, <split(<string(gstr1)>, ,1)>. Mi señora, el caballero de Ashgana Exports acaba de irse.
+TEXT_GAIUSE101_01175_TATARU_000_002	\<suspiro> Ahora entiendo por qué no quería recibirlo.
+TEXT_GAIUSE101_01175_MINFILIA_000_003	Bien hecho, Tataru. Avísales a los guardias, por favor, que no recibiremos a nadie más esta <if([gnum11<12],<if([gnum11<4],noche,mañana)>,<if([gnum11<17],tarde,noche)>)>.
+TEXT_GAIUSE101_01175_TATARU_000_004	¡Gracias, mi señora!
+TEXT_GAIUSE101_01175_MINFILIA_000_005	Desde que derrotamos a Gaius van Baelsar y destruimos su arma definitiva, los ojos del mundo siguen cada uno de nuestros pasos, sin acordarse siquiera de parpadear.
+TEXT_GAIUSE101_01175_MINFILIA_000_006	Donde antes trabajábamos en secreto ─ con poquísimos amigos y demasiados enemigos ─, ahora nos asedian benefactores, cada uno más ansioso que el anterior por ofrecernos todo su apoyo.
+TEXT_GAIUSE101_01175_MINFILIA_000_007	Una abundancia casi vergonzosa...
+TEXT_GAIUSE101_01175_MINFILIA_000_008	Claro que toda promesa de patrocinio tiene un precio.
+TEXT_GAIUSE101_01175_MINFILIA_000_009	Algunos dejan claras sus intenciones desde el principio, mientras que otros intentan atraernos con más sutileza. Lo vistan como lo vistan, el mensaje siempre es el mismo: los ayudaremos, pero solo si nos ayudan.
+TEXT_GAIUSE101_01175_MINFILIA_000_010	El caballero del que habló Tataru fue más descarado que la mayoría. A cambio de ciertos suministros, quería que <italic(1)>resolviéramos<italic(0)> una disputa comercial.
+TEXT_GAIUSE101_01175_MINFILIA_000_011	Por supuesto, lo rechacé, como a todos los mercaderes de su calaña... Por desgracia, las propuestas del Syndicate no se rechazan con tanta facilidad...
+TEXT_GAIUSE101_01175_MINFILIA_000_012	Cuando formamos los Scions of the Seventh Dawn, fue para servir a Eorzea, no a los intereses de cada eorzeano. Nuestra neutralidad es esencial para nuestra causa.
+TEXT_GAIUSE101_01175_MINFILIA_000_013	En el fondo, <italic(1)>sé<italic(0)> que es así, y sin embargo... Y sin embargo... Si aceptar estas ofertas de patrocinio nos permitiera hacer un bien mayor, ¿no merecerían que las pensáramos mejor?
+TEXT_GAIUSE101_01175_MINFILIA_000_014	Nuestros colegas de Baldesion fueron generosos sin medida, pero no podemos esperar que─
+TEXT_GAIUSE101_01175_MINFILIA_000_015	Perdóname. No quise agobiarte así.
+TEXT_GAIUSE101_01175_MINFILIA_000_016	Aunque... quizá mis ganas de compartir este dilema no estén del todo erradas... ¿Podría pedirte que consultes a los demás? Seguramente tienen su propia opinión al respecto.
+TEXT_GAIUSE101_01175_MINFILIA_000_017	Confieso que estoy... dividida. Quizá sea prudente consultar a los demás.
+TEXT_GAIUSE101_01175_THANCRED_000_020	La fortuna engendra poder, y el poder, fortuna. Que nosotros ─ y sobre todo <italic(1)>tú<italic(0)> ─ tenemos poder está fuera de duda. La pregunta es qué hacer con él...
+TEXT_GAIUSE101_01175_THANCRED_000_021	Quizá te interese saber que entre los refugiados crece la idea de que Ala Mhigo podría ser liberada... si tan solo los Scions pusieran su fuerza al servicio de la causa.
+TEXT_GAIUSE101_01175_THANCRED_000_022	Pero la suya es solo una de muchas causas. Estamos en una encrucijada, <split(<string(gstr1)>, ,1)>. Cada camino está empedrado de buenas intenciones, pero no está nada claro adónde llevan.
+TEXT_GAIUSE101_01175_YSHTOLA_100_022	¿Recuerdas nuestra reunión con la Admiral, poco después de que los lominsanos avisaran de la invocación de Titan?
+TEXT_GAIUSE101_01175_YSHTOLA_101_022	Entonces quizá también recuerdes lo que le dije a nuestra anfitriona. Le dije a Merlwyb que su pueblo había roto su tratado con los kobolds, y que los hombres bestia habían respondido con justicia ─ que nos habían llamado a intervenir en un conflicto que ella misma había provocado. En pocas palabras, dije la verdad.
+TEXT_GAIUSE101_01175_YSHTOLA_102_022	¿Y por qué la dije? Porque, al no deberle lealtad a Limsa, no me sentí obligada a dejar que los lominsanos torcieran los hechos para que encajaran en un relato que justificara sus actos y los absolviera de culpa.
+TEXT_GAIUSE101_01175_YSHTOLA_103_022	Sobre este asunto, Minfilia puede esperar una respuesta parecida. Nuestros muchos coqueteos con las ciudades<-->estado ya debilitaron nuestra pretensión de neutralidad, pero el camino que ella contempla nos haría renunciar a ella por completo.
+TEXT_GAIUSE101_01175_PAPALYMO_000_030	Nadie puede negar que nos vendría bien más apoyo, pero ¿a costa de nuestros principios?
+TEXT_GAIUSE101_01175_PAPALYMO_000_031	La neutralidad siempre fue un asunto delicado. Ya perdí la cuenta de las veces que tuve que explicarle a la gente que nuestras lealtades no están <italic(1)>necesariamente<italic(0)> donde está nuestra sede. Eso sí, si de verdad <italic(1)>vamos<italic(0)> a vender nuestros servicios por gil, mejor declaremos lealtad a Ul'dah de una vez y asunto terminado. Seguro que a Yda le encantarían los sobornos...
+TEXT_GAIUSE101_01175_YDA_000_040	Últimamente me llegan <italic(1)>muchísimos<italic(0)> regalos, pero Papalymo me obliga a devolverlos.
+TEXT_GAIUSE101_01175_YDA_000_041	No sería tan grave, ¡pero algunos son <italic(1)>muy<italic(0)> lindos! O sea, casi de los que te hacen abandonar tus principios, ¿me entiendes?
+TEXT_GAIUSE101_01175_URIANGER_000_050	Es sino de los poderosos atraer tanto a los codiciosos como a los necesitados. Por ello dicta la prudencia que quien tiene poder ofrezca ayuda con una mano mientras la otra reposa siempre sobre la empuñadura.
+TEXT_GAIUSE101_01175_URIANGER_000_051	Mas no gozamos del lujo del tiempo para descifrar las maquinaciones de nuestros solicitantes ─ no, no mientras las beast tribes laboran ocultas, desafiantes en la derrota, para alzar de nuevo a sus primals caídos.
+TEXT_GAIUSE101_01175_URIANGER_000_052	No dudéis que volverán ─ más fuertes y osados ─, ni que seremos nosotros quienes les hagamos frente. Este sagrado deber siempre será nuestro. Lástima es que seamos tan pocos, y nuestra fortuna tan finita...
+TEXT_GAIUSE101_01175_ALPHINAUD_000_060	Hm. Esta situación no es del todo inesperada.
+TEXT_GAIUSE101_01175_ALPHINAUD_000_061	Yo también he pensado mucho en el futuro de nuestra organización... aunque parece que llegué a otra conclusión.
+TEXT_GAIUSE101_01175_ALPHINAUD_000_062	Quizá sea hora de que le haga saber mi parecer a la Antecedent. Acompáñeme, <split(<string(gstr1)>, ,1)>.
+TEXT_GAIUSE101_01175_MINFILIA_000_063	¿Alphinaud, <split(<string(gstr1)>, ,1)>? ¿Ocurre algo?
+TEXT_GAIUSE101_01175_ALPHINAUD_000_064	Pidió consejo, y consejo tendrá. Minfilia ─ los Scions of the Seventh Dawn deben irse de Ul'dah.
+TEXT_GAIUSE101_01175_MINFILIA_000_065	¿Que debemos <italic(1)>qué<italic(0)>?
+TEXT_GAIUSE101_01175_ALPHINAUD_000_066	Mientras sigamos dentro del territorio ul'dahno, nunca tendremos libertad para actuar sin rendir cuentas.
+TEXT_GAIUSE101_01175_ALPHINAUD_000_067	Trasladar nuestra sede a Vesper Bay solo retrasó lo inevitable.
+TEXT_GAIUSE101_01175_ALPHINAUD_000_068	Demostramos de lo que somos capaces, y el Syndicate tomó nota. Ya no tolerarán que nuestra organización siga siendo independiente. Somos demasiado peligrosos para eso.
+TEXT_GAIUSE101_01175_ALPHINAUD_000_069	¿Acaso no se da cuenta de que ellos son la razón por la que Vesper Bay todavía no tiene un aetheryte?
+TEXT_GAIUSE101_01175_ALPHINAUD_000_070	Saben muy bien lo beneficioso que sería uno para nuestra causa...
+TEXT_GAIUSE101_01175_ALPHINAUD_000_071	Por eso nos negarán ese y otros favores a menos que cooperemos.
+TEXT_GAIUSE101_01175_MINFILIA_000_072	Si Ul'dah ya no nos conviene, ¿adónde quieres que vayamos?
+TEXT_GAIUSE101_01175_ALPHINAUD_000_073	La experiencia nos enseñó que la apariencia de neutralidad es tan importante como la neutralidad misma.
+TEXT_GAIUSE101_01175_ALPHINAUD_000_074	Por lo tanto, debemos mantener a distancia a cada una de las grandes naciones, y plantar nuestro estandarte en un lugar que todas reconozcan como fuera de sus fronteras.
+TEXT_GAIUSE101_01175_ALPHINAUD_000_075	Mor Dhona.
+TEXT_GAIUSE101_01175_ALPHINAUD_000_076	Revenant's Toll, para ser exactos. Está en territorio neutral y ofrece todas las instalaciones esenciales que necesitamos. Como beneficio adicional, también lo frecuenta una verdadera legión de aventureros que podrían reforzar nuestras filas.
+TEXT_GAIUSE101_01175_ALPHINAUD_000_077	Soy consciente, claro, de que con los años creamos cierto vínculo con Ul'dah y su gente...
+TEXT_GAIUSE101_01175_ALPHINAUD_000_078	Pero de verdad creo que este es el mejor camino.
+TEXT_GAIUSE101_01175_MINFILIA_000_079	Como tú mismo dijiste, tenemos lazos invaluables con la comunidad local, forjados con años de esfuerzo. Ul'dah... ¡Ul'dah es nuestro <italic(1)>hogar<italic(0)>, Alphinaud! ¡Dejar atrás todo lo que construimos para empezar de cero en ese páramo desolado sería una imprudencia sin medida!
+TEXT_GAIUSE101_01175_ALPHINAUD_000_080	La decisión es suya, Antecedent. Solo le pido que recuerde el propósito común que nos llevó a fundar los Scions of the Seventh Dawn ─ y que antes la llevó a usted a fundar el Path of the Twelve.
+TEXT_GAIUSE101_01175_ALPHINAUD_000_081	Usted y yo aspiramos a un ideal. Igual que mi abuelo. Eso nos hace más que simples compañeros de armas.
+TEXT_GAIUSE101_01175_ALPHINAUD_000_082	Somos tan familia suya como─
+TEXT_GAIUSE101_01175_MINFILIA_000_083	Es todo, Alphinaud.
+TEXT_GAIUSE101_01175_MINFILIA_000_084	Seguro que tienes tus propios asuntos familiares que atender.
+TEXT_GAIUSE101_01175_ALPHINAUD_000_085	Su preocupación es <italic(1)>muy<italic(0)> generosa, pero no ─ los dejé en manos de hombres más aptos para la tarea que yo. Después de todo, no podía permitir que mis asuntos personales pasaran por delante de las necesidades de la orden.
