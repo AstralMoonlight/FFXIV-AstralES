@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="AstralES: Final Fantasy XIV en español latino">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1026"/>
+      <stop offset="0.6" stop-color="#1E1B4B"/>
+      <stop offset="1" stop-color="#312E81"/>
+    </linearGradient>
+    <radialGradient id="glow" gradientUnits="userSpaceOnUse" cx="1050" cy="135" r="240">
+      <stop offset="0" stop-color="#F5C451" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#F5C451" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="crescent">
+      <circle cx="1050" cy="135" r="62" fill="#fff"/>
+      <circle cx="1078" cy="118" r="54" fill="#000"/>
+    </mask>
+  </defs>
+  <rect width="1280" height="320" rx="16" fill="url(#sky)"/>
+  <rect width="1280" height="320" rx="16" fill="url(#glow)"/>
+  <g fill="#E0E7FF">
+    <circle cx="90" cy="48" r="1.6"/><circle cx="182" cy="262" r="1.2"/><circle cx="256" cy="34" r="1"/>
+    <circle cx="330" cy="280" r="1.5"/><circle cx="412" cy="58" r="1.1"/><circle cx="540" cy="24" r="1.4"/>
+    <circle cx="610" cy="292" r="1"/><circle cx="702" cy="46" r="1.2"/><circle cx="780" cy="270" r="1.6"/>
+    <circle cx="860" cy="30" r="1"/><circle cx="930" cy="246" r="1.3"/><circle cx="1150" cy="54" r="1.2"/>
+    <circle cx="1206" cy="232" r="1.5"/><circle cx="1240" cy="128" r="1"/><circle cx="968" cy="96" r="1.1"/>
+    <circle cx="44" cy="190" r="1.2"/><circle cx="1120" cy="290" r="1"/><circle cx="470" cy="300" r="1.1"/>
+  </g>
+  <g fill="#F5C451">
+    <path d="M540 74l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/>
+    <path d="M1180 190l2.4 7 7 2.4-7 2.4-2.4 7-2.4-7-7-2.4 7-2.4z"/>
+    <path d="M900 170l2 6 6 2-6 2-2 6-2-6-6-2 6-2z"/>
+  </g>
+  <rect x="980" y="65" width="140" height="140" fill="#F5C451" mask="url(#crescent)"/>
+  <text x="96" y="168" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="88" font-weight="700" fill="#FFFFFF" letter-spacing="1">Astral<tspan fill="#F5C451">ES</tspan></text>
+  <text x="100" y="222" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" fill="#C7D2FE">Final Fantasy XIV en español latino</text>
+  <rect x="100" y="248" width="72" height="4" rx="2" fill="#F5C451"/>
+</svg>

@@ -1,8 +1,35 @@
-# AstralES
+<p align="center">
+  <img src=".github/banner.svg" alt="AstralES: Final Fantasy XIV en español latino" width="100%">
+</p>
 
-Plugin de [Dalamud](https://github.com/goatcorp/Dalamud) que traduce FFXIV al español latino: los tooltips de habilidades, rasgos y estados (buffs y debuffs) y la historia principal.
+<p align="center">
+  <a href="https://github.com/AstralMoonlight/FFXIV-AstralES/releases/latest"><img src="https://img.shields.io/github/v/release/AstralMoonlight/FFXIV-AstralES?style=flat-square&label=versi%C3%B3n&color=4338ca" alt="Versión"></a>
+  <a href="https://github.com/AstralMoonlight/FFXIV-AstralES/releases"><img src="https://img.shields.io/github/downloads/AstralMoonlight/FFXIV-AstralES/total?style=flat-square&label=descargas&color=4338ca" alt="Descargas"></a>
+  <img src="https://img.shields.io/badge/Dalamud-API%2015-4338ca?style=flat-square" alt="Dalamud API 15">
+  <img src="https://img.shields.io/badge/idioma-espa%C3%B1ol%20latino-d4a017?style=flat-square" alt="Idioma: español latino">
+</p>
 
-Los nombres propios (habilidades, estados, medidores, jobs, personajes, lugares, misiones) se mantienen en inglés, tal como aparecen en el juego y en las guías. Lo que todavía no tiene traducción se muestra en inglés, como siempre.
+<p align="center">
+  Plugin de <a href="https://github.com/goatcorp/Dalamud">Dalamud</a> que traduce al español los tooltips de combate y la historia principal de FFXIV.
+</p>
+
+<p align="center">
+  <a href="#instalación">Instalación</a> ·
+  <a href="#jobs">Jobs</a> ·
+  <a href="#historia">Historia</a> ·
+  <a href="#misiones-de-clase">Misiones de clase</a> ·
+  <a href="#comandos">Comandos</a>
+</p>
+
+---
+
+## Qué hace
+
+- **Tooltips de combate:** habilidades, rasgos y estados (buffs y debuffs).
+- **Historia principal:** diálogos, cinemáticas, Journal y Duty List.
+- **Nombres en inglés:** habilidades, estados, medidores, jobs, personajes, lugares y misiones quedan tal como aparecen en el juego y en las guías. Solo se traduce el texto que los rodea.
+
+Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 
 ## Instalación
 
@@ -16,64 +43,73 @@ Los nombres propios (habilidades, estados, medidores, jobs, personajes, lugares,
 3. Activa la casilla de la URL, guarda y abre el instalador con `/xlplugins`.
 4. Busca **AstralES** e instálalo.
 
-## Clases y jobs
+## Jobs
 
-Habilidades, rasgos y estados de cada job, incluida su clase base.
+**9 de 23 jobs traducidos**, con sus clases base. Las acciones de rol y las generales (Sprint, Teleport, Limit Break…) también están traducidas, con sus estados.
 
-| Rol | Job | Estado |
+| Rol | Job | Habilidades, rasgos y estados |
 |---|---|---|
-| Tank | Paladin (Gladiator) | Pendiente |
-| Tank | Warrior (Marauder) | Pendiente |
-| Tank | Dark Knight | ✅ Traducido |
-| Tank | Gunbreaker | Pendiente |
-| Healer | White Mage (Conjurer) | ✅ Traducido |
-| Healer | Scholar (Arcanist) | Pendiente |
-| Healer | Astrologian | Pendiente |
-| Healer | Sage | ✅ Traducido |
-| Melee | Monk (Pugilist) | ✅ Traducido |
-| Melee | Dragoon (Lancer) | ✅ Traducido |
-| Melee | Ninja (Rogue) | Pendiente |
-| Melee | Samurai | Pendiente |
-| Melee | Reaper | Pendiente |
-| Melee | Viper | ✅ Traducido |
-| Ranged | Bard (Archer) | ✅ Traducido |
-| Ranged | Machinist | Pendiente |
-| Ranged | Dancer | ✅ Traducido |
-| Caster | Black Mage (Thaumaturge) | ✅ Traducido |
-| Caster | Summoner (Arcanist) | Pendiente |
-| Caster | Red Mage | Pendiente |
-| Caster | Pictomancer | Pendiente |
-| Limitado | Blue Mage | Pendiente |
-| Limitado | Beastmaster | Pendiente |
+| **Tank** | Paladin (Gladiator) | ![Pendiente][no] |
+| | Warrior (Marauder) | ![Pendiente][no] |
+| | Dark Knight | ![Traducido][ok] |
+| | Gunbreaker | ![Pendiente][no] |
+| **Healer** | White Mage (Conjurer) | ![Traducido][ok] |
+| | Scholar (Arcanist) | ![Pendiente][no] |
+| | Astrologian | ![Pendiente][no] |
+| | Sage | ![Traducido][ok] |
+| **Melee** | Monk (Pugilist) | ![Traducido][ok] |
+| | Dragoon (Lancer) | ![Traducido][ok] |
+| | Ninja (Rogue) | ![Pendiente][no] |
+| | Samurai | ![Pendiente][no] |
+| | Reaper | ![Pendiente][no] |
+| | Viper | ![Traducido][ok] |
+| **Ranged** | Bard (Archer) | ![Traducido][ok] |
+| | Machinist | ![Pendiente][no] |
+| | Dancer | ![Traducido][ok] |
+| **Caster** | Black Mage (Thaumaturge) | ![Traducido][ok] |
+| | Summoner (Arcanist) | ![Pendiente][no] |
+| | Red Mage | ![Pendiente][no] |
+| | Pictomancer | ![Pendiente][no] |
+| **Limitado** | Blue Mage | ![Pendiente][no] |
+| | Beastmaster | ![Pendiente][no] |
 
-También están traducidas las acciones de rol y las acciones generales (Sprint, Teleport, Limit Break…), con sus estados.
-
-Los jobs pendientes ya muestran en español algunas líneas que comparten con otros (duraciones, efectos comunes), pero la mayor parte del texto sigue en inglés.
+Los jobs pendientes ya muestran en español algunas líneas que comparten con otros (duraciones, efectos comunes), pero la mayor parte de su texto sigue en inglés.
 
 ## Historia
 
-Diálogos, cinemáticas, Journal y Duty List.
+| Expansión | Parte | Estado |
+|---|---|---|
+| **A Realm Reborn** | 2.0: inicio en Gridania, Limsa Lominsa o Ul'dah, hasta "The Ultimate Weapon" | ![Traducido][ok] |
+| | The Binding Coil of Bahamut | ![Traducido][ok] |
+| | Crystal Tower | ![Traducido][ok] |
+| | 2.1–2.55: desde "The Price of Principles" | ![Pendiente][no] |
+| | Primals de ARR (Hard y Extreme) | ![Pendiente][no] |
+| **Heavensward** | | ![Pendiente][no] |
+| **Stormblood** | | ![Pendiente][no] |
+| **Shadowbringers** | | ![Pendiente][no] |
+| **Endwalker** | | ![Pendiente][no] |
+| **Dawntrail** | | ![Pendiente][no] |
 
-| Parte | Estado |
-|---|---|
-| A Realm Reborn 2.0: inicio en Gridania, Limsa Lominsa o Ul'dah, hasta "The Ultimate Weapon" | ✅ Traducido |
-| The Binding Coil of Bahamut | ✅ Traducido |
-| Crystal Tower | ✅ Traducido |
-| A Realm Reborn 2.1–2.55 ("The Price of Principles" en adelante) | Pendiente |
-| Primals de ARR (Hard y Extreme) | Pendiente |
-| Heavensward, Stormblood, Shadowbringers, Endwalker y Dawntrail | Pendiente |
+## Misiones de clase
 
-## Misiones de clase y job
-
-| Misiones | Estado |
-|---|---|
-| Lancer (nivel 1 a 30) | ✅ Traducido |
-| Archer (nivel 1 a 30) | ✅ Traducido |
-| Thaumaturge (nivel 1 a 30) | ✅ Traducido |
-| Dragoon | Pendiente |
-| Resto de clases y jobs | Pendiente |
+| Misiones | Niveles | Estado |
+|---|---|---|
+| Lancer | 1–30 | ![Traducido][ok] |
+| Archer | 1–30 | ![Traducido][ok] |
+| Thaumaturge | 1–30 | ![Traducido][ok] |
+| Dragoon | | ![Pendiente][no] |
+| Resto de clases y jobs | | ![Pendiente][no] |
 
 ## Comandos
 
-- `/astrales`: activa o desactiva la traducción.
-- `/astrales diag`: activa o desactiva el diagnóstico en `/xllog`, para reportar líneas que no se traducen.
+| Comando | Qué hace |
+|---|---|
+| `/astrales` | Activa o desactiva la traducción. |
+| `/astrales diag` | Activa o desactiva el diagnóstico en `/xllog`. |
+
+## Reportar un error
+
+Si una línea sale en inglés o mal traducida, activa `/astrales diag`, repite lo que la mostró y abre un [issue](https://github.com/AstralMoonlight/FFXIV-AstralES/issues) con lo que aparece en `/xllog`.
+
+[ok]: https://img.shields.io/badge/-Traducido-2ea043?style=flat-square
+[no]: https://img.shields.io/badge/-Pendiente-6e7681?style=flat-square
