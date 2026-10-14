@@ -97,7 +97,7 @@ Los jobs pendientes ya muestran en español algunas líneas que comparten con ot
 | | | Raid de alianza (24): YoRHa: Dark Apocalypse | ![Pendiente][no] |
 | **Post Shadowbringers** | 5.1–5.55 | Historia principal | ![Pendiente][no] |
 | **Endwalker** | 6.0 | Historia principal | ![Pendiente][no] |
-| | | Raid de 8: Pandæmonium (Asphodelos, Abyssos, Anabaseios) | ![Pendiente][no] |
+| | | Raid de 8: Pandæmonium (Asphodelos, Abyssos, Anabaseios) | ![Traducido][ok] |
 | | | Raid de alianza (24): Myths of the Realm | ![Pendiente][no] |
 | **Post Endwalker** | 6.1–6.58 | Historia principal | ![Pendiente][no] |
 | **Dawntrail** | 7.0 | Historia principal | ![Pendiente][no] |
