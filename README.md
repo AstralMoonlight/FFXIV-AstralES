@@ -45,12 +45,12 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 
 ## Jobs
 
-**9 de 23 jobs traducidos**, con sus clases base. Las acciones de rol y las generales (Sprint, Teleport, Limit Break…) también están traducidas, con sus estados.
+**11 de 23 jobs traducidos**, con sus clases base. Las acciones de rol y las generales (Sprint, Teleport, Limit Break…) también están traducidas, con sus estados.
 
 | Rol | Job | Habilidades, rasgos y estados |
 |---|---|---|
-| **Tank** | Paladin (Gladiator) | ![Pendiente][no] |
-| | Warrior (Marauder) | ![Pendiente][no] |
+| **Tank** | Paladin (Gladiator) | ![Traducido][ok] |
+| | Warrior (Marauder) | ![Traducido][ok] |
 | | Dark Knight | ![Traducido][ok] |
 | | Gunbreaker | ![Pendiente][no] |
 | **Healer** | White Mage (Conjurer) | ![Traducido][ok] |
