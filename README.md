@@ -17,7 +17,7 @@
   <a href="#instalación">Instalación</a> ·
   <a href="#jobs">Jobs</a> ·
   <a href="#historia">Historia</a> ·
-  <a href="#misiones-de-clase">Misiones de clase</a> ·
+  <a href="#misiones-de-clase-y-job">Misiones de clase y job</a> ·
   <a href="#comandos">Comandos</a>
 </p>
 
@@ -105,15 +105,49 @@ Los jobs pendientes ya muestran en español algunas líneas que comparten con ot
 | | | Raid de alianza (24): Echoes of Vana'diel | ![Pendiente][no] |
 | **Post Dawntrail** | 7.1 en adelante | Historia principal | ![Pendiente][no] |
 
-## Misiones de clase
+## Misiones de clase y job
 
-| Misiones | Niveles | Estado |
+### Clases (nivel 1 a 30)
+
+| Rol | Clase | Estado |
 |---|---|---|
-| Lancer | 1–30 | ![Traducido][ok] |
-| Archer | 1–30 | ![Traducido][ok] |
-| Thaumaturge | 1–30 | ![Traducido][ok] |
-| Dragoon | | ![Pendiente][no] |
-| Resto de clases y jobs | | ![Pendiente][no] |
+| **Tank** | Gladiator | ![Pendiente][no] |
+| | Marauder | ![Pendiente][no] |
+| **Healer** | Conjurer | ![Pendiente][no] |
+| **Melee** | Pugilist | ![Pendiente][no] |
+| | Lancer | ![Traducido][ok] |
+| | Rogue | ![Pendiente][no] |
+| **Ranged** | Archer | ![Traducido][ok] |
+| **Caster** | Thaumaturge | ![Traducido][ok] |
+| | Arcanist | ![Pendiente][no] |
+
+### Jobs
+
+| Rol | Job | Niveles | Estado |
+|---|---|---|---|
+| **Tank** | Paladin | 30–100 | ![Pendiente][no] |
+| | Warrior | 30–100 | ![Pendiente][no] |
+| | Dark Knight | 30–100 | ![Pendiente][no] |
+| | Gunbreaker | 60–100 | ![Pendiente][no] |
+| **Healer** | White Mage | 30–100 | ![Pendiente][no] |
+| | Scholar | 30–100 | ![Pendiente][no] |
+| | Astrologian | 30–100 | ![Pendiente][no] |
+| | Sage | 70–100 | ![Pendiente][no] |
+| **Melee** | Monk | 30–100 | ![Pendiente][no] |
+| | Dragoon | 30–100 | ![Pendiente][no] |
+| | Ninja | 30–100 | ![Pendiente][no] |
+| | Samurai | 50–100 | ![Pendiente][no] |
+| | Reaper | 70–100 | ![Pendiente][no] |
+| | Viper | 80–100 | ![Pendiente][no] |
+| **Ranged** | Bard | 30–100 | ![Pendiente][no] |
+| | Machinist | 30–100 | ![Pendiente][no] |
+| | Dancer | 60–100 | ![Pendiente][no] |
+| **Caster** | Black Mage | 30–100 | ![Pendiente][no] |
+| | Summoner | 30–100 | ![Pendiente][no] |
+| | Red Mage | 50–100 | ![Pendiente][no] |
+| | Pictomancer | 80–100 | ![Pendiente][no] |
+| **Limitado** | Blue Mage | | ![Pendiente][no] |
+| | Beastmaster | | ![Pendiente][no] |
 
 ## Comandos
 
