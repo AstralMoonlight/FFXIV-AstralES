@@ -198,16 +198,29 @@ public sealed unsafe class Msq : IDisposable
             }
         }
 
+        // Generic NPCs ("Carriage Driver") name the speaker from their own row, not from the line.
+        using (var npc = new StreamReader(assembly.GetManifestResourceStream("npc.tsv")!))
+        {
+            foreach (var line in npc.ReadToEnd().Split('\n').Skip(1))
+            {
+                if (line.TrimEnd('\r').Split('\t') is [var en, var es])
+                    result.TryAdd(Normalize(en), ReadOnlySeString.FromText(es));
+            }
+        }
+
         log.Info($"MSQ: {lines} líneas en español listas para este personaje");
         return result;
     }
 
-    // "msq.0001-ManFst000_00083.tsv" → quest/000/ManFst000_00083; "msq.VoiceMan_03200.tsv" → cut_scene/032/VoiceMan_03200.
+    // "msq.0001-ManFst000_00083.tsv" → quest/000/ManFst000_00083; "msq.VoiceMan_03200.tsv" → cut_scene/032/VoiceMan_03200;
+    // "msq.OpeningGridania.tsv" → opening/OpeningGridania.
     private static string SheetOf(string resource)
     {
         var id = resource["msq.".Length..^".tsv".Length];
         id = id[(id.IndexOf('-') + 1)..];
-        return id.StartsWith("VoiceMan_") ? $"cut_scene/{id[^5..^2]}/{id}" : $"quest/{id[^5..^2]}/{id}";
+        return id.StartsWith("VoiceMan_") ? $"cut_scene/{id[^5..^2]}/{id}"
+            : id.StartsWith("Opening") ? $"opening/{id}"
+            : $"quest/{id[^5..^2]}/{id}";
     }
 
     // The window may wrap or break lines differently from the sheet: compare words only.

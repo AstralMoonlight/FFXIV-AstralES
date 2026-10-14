@@ -1,0 +1,95 @@
+key	text
+TEXT_MANFST005_00445_SEQ_00	Galfrid necesita a alguien del gremio que investigue actividades sospechosas en el Twelveswood.
+TEXT_MANFST005_00445_SEQ_01	En el Bannock te enteras de que la actividad de los Ixal no ha dejado de crecer desde que apareció en el Twelveswood un individuo todavía desconocido. Galfrid sospecha que hay una relación y te pide investigar el Lifemend Stump, al noreste.
+TEXT_MANFST005_00445_SEQ_02	Al llegar al Lifemend Stump, te encuentras con una escena desconcertante: hay una espada clavada en el tocón y un Ixal muerto cerca.
+TEXT_MANFST005_00445_SEQ_03	Pero el misterio no termina ahí. ¿Quiénes eran esos dos personajes extraños, y qué fue la escena que se desplegó ante los ojos de tu mente? La espada bien podría ser una pista...
+TEXT_MANFST005_00445_SEQ_04	Sacaste la espada del Lifemend Stump. Llévala al Bannock y muéstrasela a Galfrid.
+TEXT_MANFST005_00445_SEQ_05	Resulta que la muchacha Hyur y el muchacho Lalafell que encontraste son amigos de Gridania. Se llaman Yda y Papalymo, y son estudiosos que ayudan al Gods' Quiver y a los Wood Wailers. Más allá de eso, tus esfuerzos ayudaron a aclarar un poco la actividad reciente de los Ixal. Galfrid te agradece y te pide que sigas trabajando al servicio de Gridania y sus ciudadanos.
+TEXT_MANFST005_00445_TODO_00	Investiga el Lifemend Stump.
+TEXT_MANFST005_00445_TODO_01	Saca la espada del Lifemend Stump.
+TEXT_MANFST005_00445_TODO_02	Saca la espada del Lifemend Stump.
+TEXT_MANFST005_00445_TODO_03	Entrégale la espada a Galfrid.
+TEXT_MANFST005_00445_GALFRID_000_1	Ah, <split(<string(gstr1)>, ,1)>. Con sus esfuerzos incansables, demostró su amistad con Gridania. Creo que se le puede confiar información delicada.
+TEXT_MANFST005_00445_GALFRID_000_2	Quisiera encargarle una misión de considerable importancia, pero la necesidad de secreto me impide revelar los detalles hasta que se comprometa a participar. Solo estoy autorizado a decirle que tiene que ver con actividades sospechosas en el Twelveswood. Diga que nos prestará su ayuda y continuaré con las instrucciones.
+TEXT_MANFST005_00445_GALFRID_000_10	Bien. El tiempo apremia, así que escuche con atención.
+TEXT_MANFST005_00445_GALFRID_000_11	Ya habrá oído que un individuo sospechoso anda merodeando por el Twelveswood.
+TEXT_MANFST005_00445_GALFRID_000_12	Y quizás también sepa que la actividad de los Ixal aumentó mucho en la región últimamente. Lo que tal vez <italic(1)>no<italic(0)> sepa es que ese aumento coincidió casi exactamente con el primer avistamiento registrado de ese individuo.
+TEXT_MANFST005_00445_GALFRID_000_13	Sospechando una relación, reforzamos la vigilancia con la esperanza de dar con nuestro visitante desconocido. Por desgracia, nuestra presa resulta <italic(1)>sumamente<italic(0)> escurridiza ─ casi como si conociera nuestros movimientos de antemano.
+TEXT_MANFST005_00445_GALFRID_000_14	Pero donde fallaron unidades enteras, alguien que actúe solo podría tener éxito. Por su cuenta y en secreto, quizás pueda acercarse a nuestra presa sin llamar la atención.
+TEXT_MANFST005_00445_GALFRID_000_15	El miedo y la inquietud empiezan a hacer mella en la gente, <split(<string(gstr1)>, ,1)>. Por su bien, le pido que nos ayude en esta investigación.
+TEXT_MANFST005_00445_GALFRID_000_16	Tiene mi gratitud. Con su ayuda, tengo la esperanza de que aclaremos este misterio.
+TEXT_MANFST005_00445_GALFRID_000_17	Empiece a buscar en el Lifemend Stump. Ahí ocurrió la mayoría de los avistamientos.
+TEXT_MANFST005_00445_GALFRID_000_18	Una advertencia: mi gente no puede darle apoyo, no sea que nuestra presa nos huela y vuelva a escaparse. Proceda con cautela.
+TEXT_MANFST005_00445_Q1_000_1	El deber llama. ¿Quieres comenzar<br>"Chasing Shadows"?
+TEXT_MANFST005_00445_A1_000_1	Sí
+TEXT_MANFST005_00445_A1_000_2	No
+TEXT_MANFST005_00445_SYSTEM_000_30	Estás por entrar en una batalla instanciada. Las batallas instanciadas solo ocurren durante ciertas misiones.
+TEXT_MANFST005_00445_SYSTEM_000_31	Tómate un momento para leer la información de la ventana de ayuda antes de responder al llamado del deber.
+TEXT_MANFST005_00445_SYSTEM_000_40	¡Derrota a las criaturas enfurecidas!
+TEXT_MANFST005_00445_000010_YDA	(-???-)¡Mira! ¡Ya hay alguien aquí!
+TEXT_MANFST005_00445_000020_YDA	(-Pugilist animada-)Ay, no. ¿Eso es una espada en el tocón? Mala idea. Pésima idea...
+TEXT_MANFST005_00445_000030_YDA	Hace falta mucho menos que eso para despertar la ira verde, ¿sabes? Mira, la primera vez que vinimos al Twelveswood, casi terminamos de cena de un treant solo por estrellar nuestra aeronave en el lugar equivocado. Fue culpa de Papalymo, claro. Aunque antes se tragaría su bastón que admitir que se equivocó.
+TEXT_MANFST005_00445_000040_PAPALYMO	(-Thaumaturge irritable-)¿<if(gnum4,Esta,Este)> es nuestro misterioso forastero?
+TEXT_MANFST005_00445_000050_KUPLOKOPP	(-Moogle-)No, no, no es <if(gnum4,ella,él)>. ¡Ni de cerca, kupo!
+TEXT_MANFST005_00445_000060_YDA	(-Pugilist animada-)¿Hm? ¿<if(gnum4,La,Lo)> conoces, Kuplo Kopp?
+TEXT_MANFST005_00445_000070_KUPLOKOPP	(-Kuplo Kopp-)Bueno, no exactamente, pero una vez compartimos un carruaje. ¿Verdad que sí?
+TEXT_MANFST005_00445_000080_PAPALYMO	(-Thaumaturge irritable-)¿<if(gnum4,Esta,Este)> es nuestro misterioso forastero?
+TEXT_MANFST005_00445_000090_KUPLOKOPP	(-Moogle-)¡Claro que no! ¡No hay nada de extraño en <if(gnum4,ella,él)>!<br>Al menos, eso creo...
+TEXT_MANFST005_00445_000100_PAPALYMO	(-Thaumaturge irritable-)Ah, ahora que lo mencionas, <italic(1)>sí<italic(0)> tiene algo familiar...
+TEXT_MANFST005_00445_000110_YDA	(-Pugilist animada-)¡Oye, tienes razón! Esto parece más un reencuentro que un primer encuentro.
+TEXT_MANFST005_00445_000120_YDA	(-Pugilist animada-)Entonces, eh...¿cuándo fue que nos conocimos?
+TEXT_MANFST005_00445_000130_KUPLOKOPP	(-Moogle-)No...no me acuerdo bien. Pero sí recuerdo que era buena persona.
+TEXT_MANFST005_00445_000140_YDA	(-Pugilist animada-)¿Qué dicen las lecturas?
+TEXT_MANFST005_00445_000150_PAPALYMO	(-Thaumaturge irritable-)Lo mismo que la última vez. Aquí también hay una perturbación, y recién manifestada.
+TEXT_MANFST005_00445_000160_PAPALYMO	(-Thaumaturge irritable-)Kuplo Kopp parece convencido de tu inocencia. Pero si no fuiste tú, ¿quién fue?
+TEXT_MANFST005_00445_000170_YDA	(-Pugilist animada-)Desde la Calamidad, el bosque está muy sensible.
+TEXT_MANFST005_00445_000180_YDA	(-Pugilist animada-)La más mínima alteración del flujo de aether...
+TEXT_MANFST005_00445_000190_YDA	(-Pugilist animada-)¡Y pasa esto!
+TEXT_MANFST005_00445_000200_PAPALYMO	(-Thaumaturge irritable-)Parece que no nos queda otra...
+TEXT_MANFST005_00445_100210_YDA	\<jadeo> \<resoplido>
+TEXT_MANFST005_00445_100220_PAPALYMO	\<jadeo> \<resoplido>
+TEXT_MANFST005_00445_100230_MOTHERCRYSTAL	Escucha... Siente... Piensa...
+TEXT_MANFST005_00445_200240_HYDAELYN	<if(gnum4,Portadora,Portador)> del cristal...
+TEXT_MANFST005_00445_200250_HYDAELYN	Soy Hydaelyn. Todo hecho uno.
+TEXT_MANFST005_00445_200260_HYDAELYN	Hubo una vez una Luz que brillaba en todo este mundo...mas desde entonces se ha atenuado.
+TEXT_MANFST005_00445_200270_HYDAELYN	Y a medida que flaqueaba, la Oscuridad se ha alzado en su lugar, presagiando el fin de la Vida.
+TEXT_MANFST005_00445_200280_HYDAELYN	Por el bien de todos, os lo ruego: ¡libradnos de este destino!
+TEXT_MANFST005_00445_200290_HYDAELYN	El poder para desterrar la Oscuridad mora en los Cristales de la Luz. Partid y reclamadlos.
+TEXT_MANFST005_00445_200300_HYDAELYN	Por vuestras obras se os revelarán los Cristales.
+TEXT_MANFST005_00445_200310_HYDAELYN	Solo creed, pues la Luz vive en vuestro corazón.
+TEXT_MANFST005_00445_200320_HYDAELYN	Id ahora, <if(gnum4,hija mía,hijo mío)>, y haced brillar vuestra Luz sobre toda la creación.
+TEXT_MANFST005_00445_300330_PAPALYMO	(-Thaumaturge irritable-)Te desmayaste. Un exceso de aether, sin duda.
+TEXT_MANFST005_00445_300340_YDA	(-Pugilist animada-)¿Hm? ¿Y esto qué es?
+TEXT_MANFST005_00445_300350_PAPALYMO	(-Thaumaturge irritable-)Nuestro culpable, por lo visto. Un Ixal. Y no uno cualquiera ─ un jefe.
+TEXT_MANFST005_00445_300360_PAPALYMO	(-Thaumaturge irritable-)Que se atrevieran a adentrarse tanto en territorio enemigo... Puede que los hombres bestia sí estén actuando bajo órdenes.
+TEXT_MANFST005_00445_300370_PAPALYMO	Habla Papalymo. Encontramos al culpable ─ era un jefe Ixal. Sí, pediremos la cooperación de Brother E-Sumi-Yan en el asunto. ¿Yda? Ah, ruidosa, sin tacto ─ lo de siempre.
+TEXT_MANFST005_00445_300380_YDA	(-Pugilist animada-)¿Y? ¿Cómo nos sentimos? ¿Mejor? ¡Bien!
+TEXT_MANFST005_00445_300390_YDA	(-Pugilist animada-)¿Cristales gigantes? No me suena haber visto ninguno... ¿<italic(1)>Seguro<italic(0)> que te sientes mejor?
+TEXT_MANFST005_00445_300400_PAPALYMO	(-Thaumaturge irritable-)...Entendido. Cambio y fuera.
+TEXT_MANFST005_00445_300410_PAPALYMO	(-Thaumaturge irritable-)Kuplo Kopp. Por favor, lleva noticia de esto a Brother E<-->Sumi<-->Yan. Pronto volveremos a dar un informe completo.
+TEXT_MANFST005_00445_300420_KUPLOKOPP	(-Kuplo Kopp-)¡Entendido! ¡Cambio y fuera, kupo!
+TEXT_MANFST005_00445_300430_PAPALYMO	(-Thaumaturge irritable-)Aquí nos separamos. ¡Hasta la próxima, cuídate!
+TEXT_MANFST005_00445_300440_YDA	(-Pugilist animada-)¡Creo que esa espada podría ser una pista! ¡Deberías sacarla y llevarla al Bannock!
+TEXT_MANFST005_00445_300450_YDA	(-Pugilist animada-)¡¿Tú crees que esa persona podía ver a Kuplo Kopp?!
+TEXT_MANFST005_00445_300460_PAPALYMO	(-Thaumaturge irritable-)¡¿Y se te ocurre AHORA?!
+TEXT_MANFST005_00445_300470_PAPALYMO	(-Thaumaturge irritable-)Sí. Eso <italic(1)>parecía<italic(0)>. El tiempo lo dirá...
+TEXT_MANFST005_00445_300480_YDA	(-Pugilist animada-)¡Pues el tiempo va a tener que decirlo, porque tú no! ¡Nunca me cuentas lo que pasa de verdad! A menos que...¡tú tampoco sepas lo que pasa!
+TEXT_MANFST005_00445_300490_PAPALYMO	(-Thaumaturge irritable-)¡Bah! Eso te encantaría, ¿no?
+TEXT_MANFST005_00445_GALFRID_000_90	¡<split(<string(gstr1)>, ,1)>! ¡Me alegra que haya vuelto!
+TEXT_MANFST005_00445_GALFRID_000_91	Una de nuestras patrullas avisó que habían visto a alguien con su descripción luchando contra treants enfurecidos. Me alivia ver que salió sin daño de la experiencia.
+TEXT_MANFST005_00445_GALFRID_000_92	Pero dígame, ¿qué pudo descubrir en el Lifemend Stump?
+TEXT_MANFST005_00445_GALFRID_000_93	¿Una espada en el tocón y un Ixal muerto? Mmm...
+TEXT_MANFST005_00445_GALFRID_000_94	Puedo decir con total certeza que esta hoja es de origen Ixal. Es de un tipo que los hombres bestia usan solo en sus rituales.
+TEXT_MANFST005_00445_GALFRID_000_95	Los Ixal rara vez pisan el Central Shroud, tan estrecha es nuestra vigilancia en la zona. ¿Qué propósito pudo llevarlos a correr semejante riesgo? Me temo que algo se está tramando...
+TEXT_MANFST005_00445_GALFRID_000_96	¿Cómo dice? ¿Una pareja dudosa con unos anteojos peculiares? ¡Ja, ja, ja!
+TEXT_MANFST005_00445_GALFRID_000_97	¡Así que por fin conoció a Yda y a Papalymo! Deje a un lado sus sospechas ─ Gridania los cuenta entre sus aliados más firmes. Los dos son estudiosos venidos de una tierra lejana, y están con nosotros desde antes de la Calamidad.
+TEXT_MANFST005_00445_GALFRID_000_98	Su vestimenta puede parecer estrafalaria y sus conversaciones, desconcertantes, pero jamás nos dieron motivos para dudar de ellos.
+TEXT_MANFST005_00445_GALFRID_000_99	De hecho, a menudo ayudan al Gods' Quiver y a los Wood Wailers en su trabajo ─ tal como espero que usted haga en los días por venir, <split(<string(gstr1)>, ,1)>.
+TEXT_MANFST005_00445_GALFRID_000_100	Aunque nuestro visitante desconocido sigue escapándosenos, gracias a sus esfuerzos conseguimos información importante sobre la amenaza Ixal. Tiene mi gratitud.
+TEXT_MANFST005_00445_GALFRID_000_101	Tenemos mucha suerte de contar con alguien tan capaz como usted. Ruego que siga sirviendo a la gente de Gridania en lo que pueda.
+TEXT_MANFST005_00445_PAPALYMO_BATTLETALK_01	¡¿Quieres que te coman?! ¡Pégales más fuerte!
+TEXT_MANFST005_00445_PAPALYMO_BATTLETALK_02	¡Si valoras tu vida, quédate <italic(1)>cerca<italic(0)>!
+TEXT_MANFST005_00445_PAPALYMO_BATTLETALK_03	¡Bien hecho! ¡Ya casi terminamos!
+TEXT_MANFST005_00445_PAPALYMO_BATTLETALK_04	¡¿Estás bien?!
+TEXT_MANFST005_00445_YDA_BATTLETALK_01	¡Lo intento, lo intento!
+TEXT_MANFST005_00445_YDA_BATTLETALK_02	¡Hay más! ¡Cuidado!

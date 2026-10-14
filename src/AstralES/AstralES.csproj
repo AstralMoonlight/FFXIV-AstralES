@@ -16,6 +16,8 @@
   <!-- Main scenario lines: msq/es/<genre>/<order>-<quest id>.tsv, read back by Msq.cs. File names are unique. -->
   <ItemGroup>
     <EmbeddedResource Include="..\..\msq\es\**\*.tsv" LogicalName="msq.%(Filename)%(Extension)" />
+    <!-- Generic NPC names (the game's ENpcResident, not quest text): English → Spanish. -->
+    <EmbeddedResource Include="..\..\msq\npc.tsv" LogicalName="npc.tsv" />
   </ItemGroup>
 
   <!-- Dalamud reloads a dev plugin when this file's timestamp changes; touch it so a rebuild always reloads. -->

@@ -103,6 +103,14 @@ foreach (var sheet in cutscenes)
     index.Append($"\tcutscenes\t{file}\t0\t\t{lines}\n");
 }
 
+// The tutorial right after the opening cutscene: the welcome box ("Welcome to Gridania, a vibrant
+// forest nation..."), the control scheme choice and the guards who turn you back to the guild.
+foreach (var sheet in sheetNames.Where(n => n.StartsWith("opening/")).Order())
+{
+    var file = $"{sheet[(sheet.LastIndexOf('/') + 1)..]}.tsv";
+    index.Append($"\topenings\t{file}\t0\t\t{WriteSheet(sheet, Path.Combine(output, "openings", file))}\n");
+}
+
 File.WriteAllText(Path.Combine(output, "index.tsv"), index.ToString(), new UTF8Encoding(false));
 File.WriteAllText(Path.Combine(output, "macros.tsv"),
     "macro\tcount\texample\n" + string.Concat(macros.OrderByDescending(m => m.Value.Count)
