@@ -1,0 +1,143 @@
+key	text
+TEXT_GAIUSD501_00043_SEQ_00	Urianger quiere hablar contigo sobre tu misión de impedir el regreso de Bahamut.
+TEXT_GAIUSD501_00043_SEQ_01	Apenas cruzas dos frases con Urianger cuando aparece Alisaie para pedirle consejo al Archon sobre cómo entrar a los cascos de internamiento que quedan. Urianger le sugiere que vuelva contigo a los fragmentos de Dalamud que los conectan, con la esperanza de que tu presencia ponga las cosas en marcha, como tantas veces antes. Mientras tanto, el Archon promete buscar sus propias respuestas. Dirígete al fragmento que está en el Burning Wall, en Eastern Thanalan, y habla con el asistente de Alisaie que estuvo reconociendo el lugar.
+TEXT_GAIUSD501_00043_SEQ_02	Para tu desilusión, el asistente de Alisaie informa que no logró encontrar un camino viable hasta el exterior del fragmento, y mucho menos una forma de entrar. Justo cuando estás por partir hacia Mor Dhona, donde está el siguiente fragmento, agrega que perdió el contacto con su hermano, que está allí. Date prisa en llegar a los Singing Shards y asegúrate de que no le pase nada.
+TEXT_GAIUSD501_00043_SEQ_03	Llegas a los Singing Shards justo a tiempo para evitar que el segundo asistente de Alisaie tenga un final desafortunado. Por desgracia, las noticias que trae no son buenas. Si hay que creerle, no hay forma de entrar al fragmento de Dalamud de Mor Dhona. Momentos después, sin embargo, Urianger te contacta por linkpearl para avisarte que quizá encontró una forma de entrar a los fragmentos que quedan. Date prisa en llegar a la Ceruleum Processing Plant, en Northern Thanalan, donde el Archon te dará los detalles.
+TEXT_GAIUSD501_00043_SEQ_04	Urianger te explica el método que él y ciertas otras personas sin nombre idearon para llegar a los cascos de internamiento que quedan. Como exige forzar las leyes del viaje aetherial hasta el límite, el proceso implica un peligro considerable, pero Alisaie está dispuesta a correr el riesgo. Reúnete con ella en la formación de cristal conocida como Dalamud's Talons, al norte de la planta.
+TEXT_GAIUSD501_00043_SEQ_05	Alphinaud llega a Dalamud's Talons poco después que tú y revela que es el misterioso colaborador de Urianger. Tras interrogar a su gemela sobre el origen de su determinación, declara que se unirá al grupo en este descenso al Binding Coil. Habla con Erkenrad en la Ceruleum Processing Plant cuando estés list<if(gnum4,a,o)> para emprender la misión.
+TEXT_GAIUSD501_00043_SEQ_06	Erkenrad toma nota de que estás list<if(gnum4,a,o)>. Cuando des la orden, tú y tus compañeros serán transportados directamente al interior del primero de los dos cascos de internamiento que quedan. Al llegar, tienes que abrirte paso hasta el puente principal y desactivar el coil responsable de la regeneración de Bahamut. No escatimes en preparativos y espera una resistencia feroz.<br><br>※Se puede entrar al Final Coil of Bahamut mediante el Duty Finder.
+TEXT_GAIUSD501_00043_TODO_00	Habla con el asistente de Alisaie en el Burning Wall.
+TEXT_GAIUSD501_00043_TODO_01	Rescata al asistente de Alisaie en los Singing Shards.
+TEXT_GAIUSD501_00043_TODO_02	Habla con Urianger en la Ceruleum Processing Plant.
+TEXT_GAIUSD501_00043_TODO_03	Habla con Alisaie.
+TEXT_GAIUSD501_00043_TODO_04	Habla con Erkenrad.
+TEXT_GAIUSD501_00043_URIANGER_000_000	Suele el hombre arrojar luz dondequiera que los secretos yacen ocultos en la oscuridad ─ aunque lo que alumbra rara vez le trae dicha. Así sucede con las tristes verdades que esconde la inmensa sombra de Bahamut.
+TEXT_GAIUSD501_00043_URIANGER_000_001	Mas la señorita Alisaie sigue siempre adelante, sin que la arredre el peso del saber que le oprime el corazón. Peligroso es el camino que ha elegido, y doloroso. Os lo ruego, <split(<string(gstr1)>, ,1)>, permaneced a su lado como su valerosa espada, para que pueda llevar su búsqueda a término.
+TEXT_GAIUSD501_00043_ALISAIE_000_002	<split(<string(gstr1)>, ,1)> ─ qué bueno que esté aquí.
+TEXT_GAIUSD501_00043_URIANGER_000_003	Mi señora. ¿En qué puedo serviros hoy?
+TEXT_GAIUSD501_00043_ALISAIE_000_004	Encontré algunas dificultades en mi misión, Urianger, y te agradecería un consejo.
+TEXT_GAIUSD501_00043_ALISAIE_000_005	Como sabes, el cuerpo de Bahamut se está regenerando bajo los Carteneau Flats mientras hablamos.
+TEXT_GAIUSD501_00043_ALISAIE_000_006	Si queremos impedir su regreso, tenemos que desactivar los dos cascos de internamiento que quedan y que lo sostienen.
+TEXT_GAIUSD501_00043_ALISAIE_000_007	Cada momento que se retrasa nuestra misión, el reino se acerca más al borde de la destrucción.
+TEXT_GAIUSD501_00043_ALISAIE_000_008	Por desgracia, aunque ya sé dónde están los fragmentos de Dalamud que llevan a los cascos, no encontré la forma de entrar.
+TEXT_GAIUSD501_00043_URIANGER_000_009	...Y lograr la entrada no es sino el primer paso de vuestra peligrosa empresa.
+TEXT_GAIUSD501_00043_URIANGER_000_010	La última vez que descendisteis a la fortaleza subterránea de Bahamut, descubristeis, ¿no es así?, que el temible primal había sometido a su voluntad la sombra de Nael van Darnus.
+TEXT_GAIUSD501_00043_URIANGER_000_011	Y aunque entregasteis al legatus caído al bendito olvido, recordaréis que aquel desdichado <italic(1)>no estaba solo<italic(0)>. No dudéis de que los <italic(1)>otros<italic(0)> siervos de Bahamut intentarán estorbaros el paso.
+TEXT_GAIUSD501_00043_ALISAIE_000_012	...<italic(1)>Puedes<italic(0)> decir su nombre, Urianger. No olvidé que mi abuelo nos está esperando.
+TEXT_GAIUSD501_00043_URIANGER_000_013	Mi señora. Os recordaré, como a menudo debo recordármelo a mí mismo, que el hombre a quien ambos amamos y veneramos ya no existe. Lo que queda no es más que una sombra que mancilla su memoria.
+TEXT_GAIUSD501_00043_URIANGER_000_014	No debéis prestar oído a las viles palabras que brotan de sus labios, pues no vienen de vuestro abuelo, sino del mismísimo Bahamut.
+TEXT_GAIUSD501_00043_ALISAIE_000_015	No tienes por qué preocuparte, Urianger. Pase lo que pase, no me desviaré del camino.
+TEXT_GAIUSD501_00043_ALISAIE_000_016	¡No dejaré que el sacrificio del abuelo sea en vano!
+TEXT_GAIUSD501_00043_ALISAIE_000_017	\<suspiro> Pero las palabras solas no nos llevarán adonde tenemos que ir. Como dije, no encontré la forma de entrar a los fragmentos de Dalamud...
+TEXT_GAIUSD501_00043_URIANGER_000_018	Mi señora, ¿puedo sugeriros que volváis a visitar los fragmentos en compañía de <split(<string(gstr1)>, ,1)>? Muchas veces el Warrior of Light ha puesto las cosas en marcha con su sola presencia. Es posible que vuelva a hacerlo.
+TEXT_GAIUSD501_00043_URIANGER_000_019	Yo, entretanto, buscaré respuestas por mi cuenta. Con nuestros esfuerzos unidos, tengo por muy cierto que el camino se nos revelará antes de mucho.
+TEXT_GAIUSD501_00043_ALISAIE_000_020	...Si se tratara de cualquier otra persona, dudaría de la sensatez de ese consejo. Pero no puedo negar que lo que dices de <split(<string(gstr1)>, ,1)> es cierto... Muy bien, haré lo que sugieres.
+TEXT_GAIUSD501_00043_ALISAIE_000_021	...Suponiendo que usted no tenga objeciones, claro. Bien. Buscamos entrar a dos fragmentos de Dalamud. Uno está en el Burning Wall, en Eastern Thanalan, y el otro en los Singing Shards, en Mor Dhona.
+TEXT_GAIUSD501_00043_ALISAIE_000_022	Dejé un asistente en cada lugar con instrucciones de seguir buscando una forma de entrar. No es imposible que hayan encontrado algo útil desde entonces. Empecemos por visitar a mi hombre en el Burning Wall. Deks, creo que se llamaba.
+TEXT_GAIUSD501_00043_INVESTIGATORA00043_000_030	Vaya, ¿no es usted <if(gnum4,la señora,el señor)> <split(<string(gstr1)>, ,2)>, <if(gnum4,la compañera más fiel,el compañero más fiel)> de mi señora? ¡Sinis, a su servicio, <if(gnum4,señora,señor)>! ¡Y permítame decirle qué honor es conocer<if(gnum4,la,lo)>!
+TEXT_GAIUSD501_00043_ALISAIE_000_031	¿Cómo va el reconocimiento, Deks?
+TEXT_GAIUSD501_00043_INVESTIGATORA00043_000_032	Ejem. ¡Mi señora! Me avergüenza decir que no encontré un camino viable hasta el fragmento.
+TEXT_GAIUSD501_00043_INVESTIGATORA00043_000_033	Aunque está ahí, ante nuestros propios ojos, hasta ahora no hubo forma de llegar.
+TEXT_GAIUSD501_00043_INVESTIGATORA00043_000_034	Cuando el fragmento cayó y atravesó la tierra, hizo brotar una cantidad prodigiosa de aether.
+TEXT_GAIUSD501_00043_INVESTIGATORA00043_000_035	Eso fue lo que retorció así el terreno, que parece destinado a frustrar nuestros esfuerzos.
+TEXT_GAIUSD501_00043_INVESTIGATORA00043_000_036	Aunque existiera una abertura, me temo que nos costaría alcanzarla.
+TEXT_GAIUSD501_00043_ALISAIE_000_037	No podemos rendirnos. Sigue intentándolo.
+TEXT_GAIUSD501_00043_ALISAIE_000_038	Tan cerca y a la vez tan lejos... Bueno, de nada sirve quedarnos aquí mirándolo. Vamos a Mor Dhona a probar con el otro fragmento. Quizá a Sinis le haya ido mejor.
+TEXT_GAIUSD501_00043_INVESTIGATORA00043_000_039	¡Ah! S-sobre eso, mi señora, hay algo que debo decirle. Lamento informarle que perdí el contacto con mi hermano hace poco más de una bell...
+TEXT_GAIUSD501_00043_INVESTIGATORA00043_000_040	C-como sabe, en los Singing Shards viven muchas criaturas terribles, ogros entre ellas... No quiero alarmarla sin motivo, pero temo que a Deks le haya pasado algo indecible.
+TEXT_GAIUSD501_00043_ALISAIE_000_041	¿¡Qué!? ¿Por qué no─!? ¡Dioses, dame paciencia!
+TEXT_GAIUSD501_00043_ALISAIE_000_042	Tenemos que ir a ayudar a mi asistente, <split(<string(gstr1)>, ,1)>.
+TEXT_GAIUSD501_00043_INVESTIGATORA00043_000_050	En los Singing Shards viven muchas criaturas terribles, ogros entre ellas... Si no es mucha molestia, le estaría muy agradecido si encontrara a mi hermano y mantuviera a salvo a mi señora.
+TEXT_GAIUSD501_00043_INVESTIGATORB00043_000_060	¡Gracias, <if(gnum4,aventurera,aventurero)>! ¡Por un momento temí que iban a moler mis huesos para hornear pan!
+TEXT_GAIUSD501_00043_ALISAIE_000_061	Me alivia ver que estás ileso. Hice mal en cargarte con una tarea tan peligrosa.
+TEXT_GAIUSD501_00043_INVESTIGATORB00043_000_062	¡M-m-mi señora! ¡No se preocupe por mí! ¡No fue nada, se lo aseguro!
+TEXT_GAIUSD501_00043_INVESTIGATORB00043_000_063	¡Ejem! Si me permite, le informaré de lo que encontré.
+TEXT_GAIUSD501_00043_INVESTIGATORB00043_000_064	Como puede ver, aunque la punta del fragmento está expuesta, el resto está envuelto en roca y cristal, así que es imposible entrar a la estructura.
+TEXT_GAIUSD501_00043_INVESTIGATORB00043_000_065	Podríamos intentar excavar alrededor del fragmento, pero eso llevaría tiempo ─ y no hay forma de saber cuánto tendríamos que cavar antes de encontrar un buen punto de entrada.
+TEXT_GAIUSD501_00043_INVESTIGATORB00043_000_066	Por eso me veo obligado a concluir que entrar a este fragmento no es realista. Perdóneme, mi señora.
+TEXT_GAIUSD501_00043_ALISAIE_000_067	Maldición... Estamos perdiendo un tiempo precioso. ¿Qué hacemos ahora?
+TEXT_GAIUSD501_00043_URIANGER_000_068	Soy yo, Urianger. Buenas nuevas tengo para vos y para mi señora.
+TEXT_GAIUSD501_00043_URIANGER_000_069	Para nuestra fortuna, se ha hallado un modo por el que podréis entrar a los fragmentos de Dalamud que restan.
+TEXT_GAIUSD501_00043_URIANGER_000_070	Os ruego que escoltéis a la señorita Alisaie a la Ceruleum Processing Plant, en Northern Thanalan. Allí todo se os aclarará.
+TEXT_GAIUSD501_00043_ALISAIE_000_071	¿¡Urianger encontró una forma!?
+TEXT_GAIUSD501_00043_ALISAIE_000_072	¡Entonces tenemos que ir a verlo de inmediato!
+TEXT_GAIUSD501_00043_INVESTIGATORB00043_000_080	No tiene que quedarse por mí. Si el método del señor Urianger resulta viable, tenga por seguro que pondré muchos malms entre este lugar y yo.
+TEXT_GAIUSD501_00043_URIANGER_000_090	Os pido disculpas por haceros venir desde tan lejos, mi señora, mas es aquí donde vuestro viaje puede por fin comenzar.
+TEXT_GAIUSD501_00043_ALISAIE_000_091	Ya me lo preguntaba. Que yo sepa, no hay fragmentos en Northern Thanalan.
+TEXT_GAIUSD501_00043_URIANGER_000_092	Y no os equivocáis, mi señora. Mas existe un camino ─ uno que vos misma habéis usado antes.
+TEXT_GAIUSD501_00043_URIANGER_000_093	Al término de vuestras varias incursiones en el Binding Coil, fue en la formación de cristal que yace al norte de aquí donde emergisteis, ¿no es así?
+TEXT_GAIUSD501_00043_ALISAIE_000_094	Sí. Una corriente aetherial nos devolvió a la superficie ─ eso ya lo había supuesto. ¿Insinúas que podemos usarla para volver bajo tierra?
+TEXT_GAIUSD501_00043_ALISAIE_000_095	Y aunque fuera posible, ¿no nos llevaría simplemente de vuelta a los lugares que ya exploramos?
+TEXT_GAIUSD501_00043_URIANGER_000_096	No tiene por qué, mi señora. Permitidme explicarlo. A la luz de vuestra experiencia, parece claro que dos cascos de internamiento pueden compartir la misma salida aetherial. De ello inferimos que otros podrían estar conectados de igual modo. Así trabajamos largamente para verificar la existencia de otros afluentes de esa misma corriente ─ tarea en la que al fin tuvimos éxito. Restaba entonces resolver el problema de viajar a un destino con el que no se está en sintonía...
+TEXT_GAIUSD501_00043_URIANGER_000_097	Para alcanzar lo que podríamos llamar el manantial, proponemos emplear un aetheryte modificado que amplifica las ondas que nacen de dicha fuente. Concentrando la propia esencia en esas ondas, debería ser posible hacer el viaje. Mas quedad advertida, mi señora: como todo modo de viaje aetherial no probado, este método entraña un peligro considerable. El mero intento podría costaros la vida.
+TEXT_GAIUSD501_00043_ALISAIE_000_098	¡Es un riesgo que estoy dispuesta a correr! ¡Eres brillante, Urianger!
+TEXT_GAIUSD501_00043_ALISAIE_000_099	Pero tengo curiosidad... ¿Alguien te ayudó a idear este plan? No pude evitar notar que repetías la palabra "nosotros" ─ ¿o es que te dio por usar el plural mayestático en nuestra ausencia?
+TEXT_GAIUSD501_00043_URIANGER_000_100	...Ah. Ejem. No, mi señora. Como bien habéis supuesto... no estuve solo en esta empresa.
+TEXT_GAIUSD501_00043_ALISAIE_000_101	...Lo que significa que hay otros que saben de nuestra misión.
+TEXT_GAIUSD501_00043_ALISAIE_000_102	Bueno, ya no tiene remedio. Lo que importa es impedir el regreso de Bahamut. Si para lograrlo hay que sacrificar algo de secreto, que así sea.
+TEXT_GAIUSD501_00043_URIANGER_000_110	En verdad, no era mi deseo ocultar la ayuda que recibí... Ruego que la señorita Alisaie me perdone cuando sepa de dónde vino...
+TEXT_GAIUSD501_00043_ALISAIE_000_120	Así que ese debe ser el aetheryte modificado. Pero ¿qué hacen aquí los Immortal Flames...?
+TEXT_GAIUSD501_00043_ALPHINAUD_000_121	(-???-)Esos hombres serán Flames juramentados de Ul'dah, pero ante todo son fieles servidores de la House Leveilleur.
+TEXT_GAIUSD501_00043_ALISAIE_000_122	¿¡Alphinaud!? ¡Así que eras <italic(1)>tú<italic(0)> quien ayudaba a Urianger!
+TEXT_GAIUSD501_00043_ALPHINAUD_000_123	¿Quién más podía ser, querida hermana?
+TEXT_GAIUSD501_00043_ALPHINAUD_000_124	Para que no te preocupes: no tengo intención de hacer públicos los detalles de tu empresa. Igual que tú, prefiero no causar pánico.
+TEXT_GAIUSD501_00043_ALPHINAUD_000_125	Pero dado lo que está en juego ─ nada menos que la supervivencia del reino ─, uno debe estar dispuesto a aceptar ayuda cuando se la ofrecen. ¿No estás de acuerdo?
+TEXT_GAIUSD501_00043_ALPHINAUD_000_126	Por lo menos, no te enojes con Urianger ─ guardó silencio porque yo se lo pedí.
+TEXT_GAIUSD501_00043_ALISAIE_000_127	¡Hmph! ¡Hablaremos después!
+TEXT_GAIUSD501_00043_URIANGER_000_128	Perdonadme, mi señora, mas conociendo bien vuestra intención, juzgué conveniente informar al señor Alphinaud.
+TEXT_GAIUSD501_00043_URIANGER_000_129	Aunque vuestro abuelo se ha vuelto siervo de Bahamut, su noble sangre corre aún por las venas de ambos, y si es menester abatirlo─
+TEXT_GAIUSD501_00043_ALISAIE_000_130	¿Oíste eso, Alphinaud? ¡Pienso <italic(1)>abatir al abuelo<italic(0)>! ¡Y cuando lo haya hecho, devolveré a Bahamut al aether!
+TEXT_GAIUSD501_00043_ALISAIE_000_131	¡Nada de lo que digas me apartará de mi camino! ¡<italic(1)>Voy<italic(0)> a proteger Eorzea y <italic(1)>voy<italic(0)> a honrar el legado del abuelo!
+TEXT_GAIUSD501_00043_ALPHINAUD_000_132	¿El legado del abuelo...? Así que todavía no sabes lo que tú misma deseas. Lo que te mueve sigue siendo una determinación prestada.
+TEXT_GAIUSD501_00043_ALISAIE_000_133	¿¡Determinación prestada!? ¿¡Y eso qué tiene que ver!?
+TEXT_GAIUSD501_00043_ALISAIE_000_134	¡Proteger Eorzea era la meta del abuelo, y la hicimos nuestra ─ los dos! ¡Por eso vinimos aquí, por si lo olvidaste!
+TEXT_GAIUSD501_00043_ALPHINAUD_000_135	Que los dioses no permitan que lo olvide jamás, Alisaie. Pero me entiendes mal. No cuestiono tu determinación, solo de dónde viene. Si fuera tuya, podrías decirme exactamente <italic(1)>por qué<italic(0)> deseas con tanto fervor proteger Eorzea.
+TEXT_GAIUSD501_00043_ALPHINAUD_000_136	Pero no puedes, porque no es <italic(1)>tu<italic(0)> determinación, sino la del abuelo. Quizá te cueste ver la diferencia, pero una determinación prestada nunca será tan fuerte como la que nace de dentro.
+TEXT_GAIUSD501_00043_ALPHINAUD_000_137	...Pero hablemos de esto en otro momento. Por ahora, lo único que importa es impedir el regreso de Bahamut.
+TEXT_GAIUSD501_00043_ALPHINAUD_000_138	Para ser claro, no tengo objeciones a abatir lo que queda del abuelo. Pero debes saber que esta vez los acompañaré. Como hijo de la House Leveilleur, quiero estar presente en sus últimos momentos.
+TEXT_GAIUSD501_00043_ALISAIE_000_139	...Muy bien. Puedes venir... con una condición: las decisiones las tomo <italic(1)>yo<italic(0)>.
+TEXT_GAIUSD501_00043_ERKENRAD_000_140	Si me permite, mi señora, me llamo Erkenrad. Nuestros preparativos están casi listos.
+TEXT_GAIUSD501_00043_ERKENRAD_000_141	Cuando estén listos para emprender la misión, solo avísenme. Los estaré esperando en la Ceruleum Processing Plant.
+TEXT_GAIUSD501_00043_ALISAIE_000_142	No le haga caso a mi hermano. Puede contar conmigo. Llegamos lejos juntos, usted y yo, y juntos llevaremos nuestro viaje hasta el final.
+TEXT_GAIUSD501_00043_ERKENRAD_000_150	<if(gnum4,La,Lo)> estaba esperando, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Me alegra decirle que el aetheryte está cebado y listo.
+TEXT_GAIUSD501_00043_ERKENRAD_000_151	Como sabe, los cascos de internamiento que quedan están conectados a los fragmentos de Eastern Thanalan y de Mor Dhona. Primero <if(gnum4,la,lo)> enviaremos al primero de ellos.
+TEXT_GAIUSD501_00043_ERKENRAD_000_152	Ahora bien, va a empezar <italic(1)>dentro<italic(0)> del casco, así que no tendrá que recorrer tanto terreno ─ la desventaja es que estará luchando por su vida desde el momento en que llegue. Más vale estar preparad<if(gnum4,a,o)> para cualquier cosa, por el bien de mi señora si no por el suyo.
+TEXT_GAIUSD501_00043_ERKENRAD_000_153	Y eso es todo lo que puedo decirle. Cuando tenga listos sus preparativos, solo avíseme y <if(gnum4,la,lo)> enviaré en camino. Hasta puede que rece por su pronto regreso, por si acaso.
+TEXT_GAIUSD501_00043_SYSTEM_000_154	Ahora tienes acceso al Final Coil of Bahamut. Para entrar al laberinto subterráneo, habla con Erkenrad.
+TEXT_GAIUSD501_00043_SYSTEM_000_155	Para detalles como las condiciones de entrada, habla con el sargento de los Immortal Flames.
+TEXT_GAIUSD501_00043_ALPHINAUD_000_501	Así que así se ve por dentro...
+TEXT_GAIUSD501_00043_ALISAIE_000_502	Este casco de internamiento todavía funciona...
+TEXT_GAIUSD501_00043_ALISAIE_000_503	El teletransporte fue un éxito ─ llegamos al lugar correcto.
+TEXT_GAIUSD501_00043_ALISAIE_000_504	No hay forma de saber cuánto más se regeneró Bahamut desde la última vez que lo vimos.
+TEXT_GAIUSD501_00043_ALISAIE_000_505	Démonos prisa en llegar al puente principal y desactivar el coil.
+TEXT_GAIUSD501_00043_ALISAIE_000_506	En el casco anterior había receptáculos parecidos a estos.
+TEXT_GAIUSD501_00043_ALISAIE_000_507	Aquellos contenían bestias quiméricas, pero solo los allaganos saben qué otras abominaciones pueden dormir aquí dentro.
+TEXT_GAIUSD501_00043_ALISAIE_000_508	Bien podrían ser parte de las defensas internas de Dalamud. Tenemos que estar en guardia en todo momento.
+TEXT_GAIUSD501_00043_ALISAIE_000_601	Por los Twelve... Dragones... y tantos...
+TEXT_GAIUSD501_00043_ALISAIE_000_602	Sabíamos que los allaganos tenían los medios para controlar a estas criaturas, pero encerrarlas así es... una barbarie. No le desearía semejante destino ni a mi peor enemigo.
+TEXT_GAIUSD501_00043_ALISAIE_000_603	Está claro que entre los allaganos y los dragones no había ningún cariño, pero ¿de verdad hacía falta tener aquí a tantos?
+TEXT_GAIUSD501_00043_ALISAIE_000_604	A Dalamud no le faltaban defensas, eso lo comprobamos en carne propia. Los guardianes que crearon los allaganos ─ vivos y no vivos ─ seguramente podían repeler a los intrusos tan bien como estas pobres criaturas...
+TEXT_GAIUSD501_00043_ALPHINAUD_000_605	Dime una cosa, Alisaie.
+TEXT_GAIUSD501_00043_ALPHINAUD_000_606	¿No lograste averiguar por la voluntad de quién existe Bahamut?
+TEXT_GAIUSD501_00043_ALISAIE_000_607	No, no lo logré. Al principio supuse que Bahamut no tenía un pueblo propio ─ que quizá los allaganos habían encontrado la forma de simular la plegaria misma.
+TEXT_GAIUSD501_00043_ALISAIE_000_608	Pero las palabras de Nael me hicieron reconsiderarlo ─ en concreto, cuando la sombra mencionó a los "amados hijos" de Bahamut.
+TEXT_GAIUSD501_00043_ALISAIE_000_609	De eso deduje que al primal le dan forma la voluntad de adoradores que todavía no hemos─
+TEXT_GAIUSD501_00043_ALISAIE_000_610	Oh.
+TEXT_GAIUSD501_00043_ALISAIE_000_611	¡Que los dioses me fulminen por ciega y necia!
+TEXT_GAIUSD501_00043_ALISAIE_000_612	Los amados hijos de Bahamut, ahí mismo ante mis ojos... ¿Cómo pude ser tan estúpida?
+TEXT_GAIUSD501_00043_ALISAIE_000_613	¿Quién más que los dragones de antaño invocaría a Bahamut? ¿Quién más que ellos podría sostenerlo? ¡Y yo que me preguntaba por qué los allaganos los tenían encerrados aquí!
+TEXT_GAIUSD501_00043_ALPHINAUD_000_614	Aunque la llama de la vida de Bahamut se apagara, sus fieles hijos volverían a invocarlo.
+TEXT_GAIUSD501_00043_ALPHINAUD_000_615	Por eso el Allagan Empire tenía aquí a un ejército de dragones en un tormento perpetuo, para que sostuvieran la existencia del primal.
+TEXT_GAIUSD501_00043_ALPHINAUD_000_616	En verdad, el ingenio de los allaganos no tenía límites... y su crueldad tampoco.
+TEXT_GAIUSD501_00043_ALISAIE_000_617	¡Con razón Bahamut estaba tan furioso! ¡Que nadie niegue que fue el hombre quien sembró las semillas de la Calamidad!
+TEXT_GAIUSD501_00043_ALPHINAUD_000_618	¿Vas a volver ahora tu odio contra nuestra propia especie, querida hermana?
+TEXT_GAIUSD501_00043_ALISAIE_000_619	No me trates con condescendencia, Alphinaud. Solo reconozco nuestra culpa.
+TEXT_GAIUSD501_00043_ALISAIE_000_620	Por si tienes alguna duda, no tengo la menor intención de dejar que Bahamut arrase el mundo, por muchas atrocidades que los allaganos hayan cometido contra los suyos. No nos queda más que eliminar a todos los que lo adoran, sean sus hijos o sus siervos.
+TEXT_GAIUSD501_00043_ALISAIE_000_621	Parece razonable suponer que el sistema que regenera al primal es también el que mantiene vivos a los dragones cautivos. Si lo desactivamos, todos deberían perecer. Sigamos.
+TEXT_GAIUSD501_00043_ALPHINAUD_000_701	Vaya, esto parece...
+TEXT_GAIUSD501_00043_ALISAIE_000_702	Una maqueta de Dalamud, sí.
+TEXT_GAIUSD501_00043_ALISAIE_000_703	Durante milenios, Bahamut debió de contemplar esta vista inmutable.
+TEXT_GAIUSD501_00043_ALISAIE_000_704	Atrapado en una prisión apenas lo bastante grande para contenerlo, sin poder moverse, sin el alivio de la muerte... Cómo debió de arder su odio por el hombre.
+TEXT_GAIUSD501_00043_ALISAIE_000_705	Y ese odio encontró un recipiente ideal en Nael van Darnus.
+TEXT_GAIUSD501_00043_ALISAIE_000_706	En muchos sentidos, Bahamut merece lástima, no aborrecimiento. Pero conociendo el verdadero alcance de su furia, estoy más convencida que nunca de que nuestra empresa es necesaria.
+TEXT_GAIUSD501_00043_ALISAIE_000_707	Además... ¡la suya no es la única alma que clama venganza!
