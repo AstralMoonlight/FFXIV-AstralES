@@ -1,0 +1,82 @@
+key	text
+TEXT_MANWIL005_00550_SEQ_00	Papashan necesita tu ayuda con urgencia.
+TEXT_MANWIL005_00550_SEQ_01	El jefe de estación te explica que él y los Sultansworn en realidad están buscando a Lady Lilira, una joven noble que se escapó de su casa. Te pide que busques a Lilira en la zona del sur, cerca del Sultantree.
+TEXT_MANWIL005_00550_SEQ_02	En el Sultantree encuentras a la joven fugitiva, junto con un tipo sarcástico que parece conocerla bien. Momentos después atacan unos voidsent, y tienen que trabajar juntos para proteger a Lady Lilira.
+TEXT_MANWIL005_00550_SEQ_03	Apenas vencen a las criaturas, te asaltan unas visiones extrañas cuyo significado se te escapa. Cuando vuelves en ti, te alivia ver que Lady Lilira está a salvo y, al parecer, con ganas de volver a la ciudad. Regresa al Ul'dah Dispatch Yard y cuéntale a Papashan todo lo que pasó.
+TEXT_MANWIL005_00550_SEQ_04	Papashan te explica que el joven seguramente era Thancred, un erudito que investiga temas relacionados con el aether. Luego te agradece que protegieras a Lady Lilira y te pide que tengas esa misma bondad con el resto de la gente de Thanalan.
+TEXT_MANWIL005_00550_TODO_00	Busca a Lilira cerca del Sultantree.
+TEXT_MANWIL005_00550_TODO_01	Informa a Papashan.
+TEXT_MANWIL005_00550_TODO_02	Informa a Papashan.
+TEXT_MANWIL005_00550_PAPASHAN_000	<split(<string(gstr1)>, ,1)>, acabo de─ ¡No! ¡No, ya no es momento de ocultar nada! La verdad es que, incluso antes de mandarte a entregar esos pretzels, me llegaron noticias de lo más inquietantes.
+TEXT_MANWIL005_00550_PAPASHAN_001	...Y esa es la <italic(1)>verdadera<italic(0)> razón por la que te mandé a ver a esos Sultansworn.
+TEXT_MANWIL005_00550_PAPASHAN_002	Una joven noble de una familia <italic(1)>muy<italic(0)> prestigiosa se escapó de su casa, y me ordenaron asegurarme de que vuelva sana y salva.
+TEXT_MANWIL005_00550_PAPASHAN_003	Los Sultansworn que conociste antes están ayudando con la búsqueda. Por desgracia, parece que no encontraron ni rastro de ella.
+TEXT_MANWIL005_00550_PAPASHAN_004	Te pido perdón por no haber sido franco contigo desde el principio, pero tenemos que actuar con cautela: si se corre la voz de su desaparición, me temo que otros con motivos menos honorables se sumarán a la búsqueda.
+TEXT_MANWIL005_00550_PAPASHAN_005	Y si dejamos que le pase algo, ni cien decapitaciones serían castigo suficiente...
+TEXT_MANWIL005_00550_PAPASHAN_006	Eso no puede pasar, <split(<string(gstr1)>, ,1)>. ¡<italic(1)>No<italic(0)> debe pasar!
+TEXT_MANWIL005_00550_PAPASHAN_007	¡Necesito que me ayudes a encontrarla!
+TEXT_MANWIL005_00550_PAPASHAN_008	¡Alabados sean los Twelve, sabía que podía contar contigo!
+TEXT_MANWIL005_00550_PAPASHAN_009	Les di instrucciones a los demás de ampliar la búsqueda, pero Thanalan es enorme y nosotros somos pocos.
+TEXT_MANWIL005_00550_PAPASHAN_010	La joven noble se llama Lady Lilira. Quiero que vayas al sur y la busques cerca del Sultantree. ¡Buena suerte!
+TEXT_MANWIL005_00550_LILILA_000_15	Oh, Sultantree...
+TEXT_MANWIL005_00550_000010_LILILA	Oh, Sultantree, espíritu sagrado de mi linaje, perdona mi debilidad. Mis faltas nos costaron caro...
+TEXT_MANWIL005_00550_000020_LILILA	¡Muéstrate!
+TEXT_MANWIL005_00550_000030_THANCRED	(-???-)Como ordenes, oh, Lilira.
+TEXT_MANWIL005_00550_000040_THANCRED	(-???-)Perdona mi egoísta deseo de velar por tu bienestar.
+TEXT_MANWIL005_00550_000050_LILILA	¡No recuerdo haber pedido escolta! Haz de cuenta que nunca nos vimos y sigue tu camino.
+TEXT_MANWIL005_00550_000060_THANCRED	(-???-)Los dos sabemos que no puedo hacer eso. Aquí sola no estás a salvo.
+TEXT_MANWIL005_00550_000070_THANCRED	(-???-)Aquí no está a salvo <italic(1)>nadie<italic(0)> ─ no con esta perturbación del aether... Es como si los muertos nos estuvieran mirando...
+TEXT_MANWIL005_00550_000080_THANCRED	(-???-)Y si no te molesta, preferiría no unirme a ellos.
+TEXT_MANWIL005_00550_000090_THANCRED	(-???-)Ah, tú debes de ser quien mencionó Papashan. Felicitaciones por encontrar a nuestra escurridiza protegida.
+TEXT_MANWIL005_00550_000100_THANCRED	(-???-)Tendrás que disculpar a Su Impetuosidad. Lo que le falta de disciplina le sobra de terquedad.
+TEXT_MANWIL005_00550_000110_THANCRED	(-???-)Qué curioso... Juraría que nos conocemos, pero no tengo la menor idea de dónde ni cuándo.
+TEXT_MANWIL005_00550_000120_THANCRED	(-???-)Debe de ser este maldito calor, que me juega malas pasadas. Mejor me retiro antes de empezar a tener visiones.
+TEXT_MANWIL005_00550_000130_THANCRED	(-???-)Deberías volver con nosotros. El jefe de estación va a querer agradecerle en persona a quien protegió a Lady Lilira.
+TEXT_MANWIL005_00550_000140_THANCRED	(-???-)Por desgracia, el jefe de estación tendrá que esperar.
+TEXT_MANWIL005_00550_000150_THANCRED	(-???-)Querida Lilira, por mí, por favor, mantente lejos del peligro.
+TEXT_MANWIL005_00550_000160_THANCRED	(-???-)Y tú, querid<if(gnum4,a,o)> amig<if(gnum4,a,o)> ─ por Lilira ─, ¡por favor, métete <italic(1)>en<italic(0)> el peligro!
+TEXT_MANWIL005_00550_100170_THANCRED	(-???-)...
+TEXT_MANWIL005_00550_100180_MOTHERCRYSTAL	Escucha... Siente... Piensa...
+TEXT_MANWIL005_00550_300190_THANCRED	(-???-)Ah, ya vuelve en sí.
+TEXT_MANWIL005_00550_300200_LILILA	¿Te importaría decirme qué fue eso?
+TEXT_MANWIL005_00550_300210_THANCRED	(-???-)Ojalá lo supiera. Una criatura del vacío, en todo caso.
+TEXT_MANWIL005_00550_300220_LILILA	¿Los voidsent? ¿Aquí? Pero ¿cómo?
+TEXT_MANWIL005_00550_300230_THANCRED	(-???-)La pregunta no es "cómo", sino "quién": no estamos ante bandidos sin letras.
+TEXT_MANWIL005_00550_300240_THANCRED	(-???-)¿No te habrá llegado la respuesta en un sueño, por casualidad?
+TEXT_MANWIL005_00550_300250_THANCRED	(-???-)Apenas derribaste a la bestia, te derribó el sueño. Demasiado aether, sin duda.
+TEXT_MANWIL005_00550_300260_THANCRED	(-???-)Interesante... No había pensado en el Cristal.
+TEXT_MANWIL005_00550_300270_THANCRED	(-???-)Pero claro... Esto lo cambia todo.
+TEXT_MANWIL005_00550_300280_THANCRED	(-???-)¿Mm? Ah, solo pensaba en voz alta. En fin, no tenemos un momento que perder. Debo volver e informar de esto de inmediato.
+TEXT_MANWIL005_00550_300290_THANCRED	(-???-)¡Dejo a Lady Lilira en tus capaces manos!
+TEXT_MANWIL005_00550_300300_LILILA	¡Cómo te <italic(1)>atreves<italic(0)> a pasarme de mano en mano como a un bebé en pañales!
+TEXT_MANWIL005_00550_300310_LILILA	¡Volveré y se lo diré <italic(1)>yo misma<italic(0)>!
+TEXT_MANWIL005_00550_300320_THANCRED	(-???-)Como desees, Su Impetuosidad.
+TEXT_MANWIL005_00550_300330_THANCRED	(-???-)Sospecho que volveremos a vernos dentro de poco.
+TEXT_MANWIL005_00550_300340_THANCRED	(-???-)Hasta entonces, ¡intenta no dormirte!
+TEXT_MANWIL005_00550_PAPASHAN_020	¡Gracias a los dioses que volvió! ¡Nos tenía a todos tan preocupados!
+TEXT_MANWIL005_00550_PAPASHAN_021	¿Se <italic(1)>da<italic(0)> cuenta de lo que pasaría si una persona de su noble condición resultara herida ─ o algo peor?
+TEXT_MANWIL005_00550_PAPASHAN_022	¡Vaya, Su Gracia la sultana estaría <italic(1)>fuera de sí<italic(0)> de dolor ─ y sus súbditos también! ¡Me atrevo a decir que llorarían en las calles!
+TEXT_MANWIL005_00550_LILILA_023	Pero ya te di motivos para llorar, Papashan... a ti y a la gente de Ul'dah...
+TEXT_MANWIL005_00550_PAPASHAN_024	Por favor, Su─ ¡No debe decir esas cosas! ¡Lo encontraremos, se lo juro!
+TEXT_MANWIL005_00550_PAPASHAN_025	No me corresponde exigir nada, m-mi señora, pero le ruego que, <italic(1)>por favor<italic(0)>, se mantenga lejos del peligro.
+TEXT_MANWIL005_00550_LILILA_026	...Te pido disculpas por haberte preocupado sin motivo, Papashan. En adelante no volveré a viajar sin escolta.
+TEXT_MANWIL005_00550_PAPASHAN_027	¡No sé cómo agradecerte, <split(<string(gstr1)>, ,1)>!
+TEXT_MANWIL005_00550_PAPASHAN_028	Me dicen que peleaste con valentía para proteger a Lady Lilira de esos demonios del vacío.
+TEXT_MANWIL005_00550_PAPASHAN_029	Por tu gallardo servicio, mereces todas las riquezas de las arcas reales. Por desgracia, lo mejor que puedo ofrecerte es una pequeña muestra de mi gratitud.
+TEXT_MANWIL005_00550_PAPASHAN_030	...¿Mm? ¿Un hombre sarcástico con un artefacto extraño atado al hombro?
+TEXT_MANWIL005_00550_PAPASHAN_031	Veo que conociste a Thancred. Es un erudito que se pasa los días investigando rarezas del aether. Demasiado enamorado del sonido de su propia voz para mi gusto, pero perfectamente inofensivo.
+TEXT_MANWIL005_00550_PAPASHAN_032	En cuanto a ti, <split(<string(gstr1)>, ,1)> ─ eres justo la clase de aventurero que necesitamos por aquí.
+TEXT_MANWIL005_00550_PAPASHAN_033	Ruego que tengas con la gente de Thanalan la misma bondad que tuviste hoy con nosotros.
+TEXT_MANWIL005_00550_SCENE00002_INSTANCE_BATTLE_YESNO_TITLE	El deber llama. ¿Quieres comenzar<br>"MANWIL005"?
+TEXT_MANWIL005_00550_SCENE00002_INSTANCE_BATTLE_YESNO_YES	Sí
+TEXT_MANWIL005_00550_SCENE00002_INSTANCE_BATTLE_YESNO_NO	No
+TEXT_MANWIL005_00550_SYSTEM_000_40	Estás por entrar en una batalla instanciada. Las batallas instanciadas solo ocurren durante ciertas misiones.
+TEXT_MANWIL005_00550_SYSTEM_000_41	Tómate un momento para leer la información de la ventana de ayuda antes de responder al llamado del deber.
+TEXT_MANWIL005_00550_QIB_TODO001	¡Derrota a las blangas!
+TEXT_MANWIL005_00550_THANCRED_BATTLETALK_SQ_01_01	¡Vamos, atendamos a nuestro invitado indeseado!
+TEXT_MANWIL005_00550_THANCRED_BATTLETALK_SQ_02_01	¡Qué lindo, trajo amigos!
+TEXT_MANWIL005_00550_THANCRED_BATTLETALK_SQ_02_02	¡Yo me encargo del grande! ¡Tú ocúpate del resto!
+TEXT_MANWIL005_00550_THANCRED_BATTLETALK_SQ_02_03	¡Quédate cerca si quieres que te cure!
+TEXT_MANWIL005_00550_THANCRED_BATTLETALK_SQ_03_01	¿¡Más!?<br>¡Vamos, que nuestra hospitalidad tiene un límite!
+TEXT_MANWIL005_00550_THANCRED_BATTLETALK_SQ_HP15	Solo un poco más...
+TEXT_MANWIL005_00550_THANCRED_BATTLETALK_PLAYER_ALMOST_DOWN	¡Recupérate!

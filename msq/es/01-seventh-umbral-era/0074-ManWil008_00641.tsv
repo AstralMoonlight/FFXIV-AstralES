@@ -1,0 +1,30 @@
+key	text
+TEXT_MANWIL008_00641_SEQ_00	Owyne quiere hablar contigo sobre la invitación de la sultana.
+TEXT_MANWIL008_00641_SEQ_01	Owyne te explica que los invitados a un banquete real deben respetar ciertos protocolos. Te indica que hables con Momodi, que te explicará exactamente qué se espera de ti.
+TEXT_MANWIL008_00641_SEQ_02	Según Momodi, todos los que asisten al banquete real deben llevar un par de aretes ceremoniales. Te indica que vayas al Goldsmiths' Guild y hables con Serendipity para conseguir los tuyos.
+TEXT_MANWIL008_00641_SEQ_03	Serendipity te entrega una caja de palisandro muy hermosa y muy <italic(1)>cerrada con llave<italic(0)>. Por motivos de seguridad real, te explica, los estuches de los aretes solo pueden abrirlos ciertas personas designadas. En este caso, al parecer, la persona designada es Momodi. Vuelve al Quicksand, entrégale la caja y ella se encargará del resto.
+TEXT_MANWIL008_00641_SEQ_04	Ya tienes los aretes ceremoniales necesarios para entrar al banquete. Habla con Momodi cuando estés list<if(gnum4,a,o)> para unirte a la celebración.
+TEXT_MANWIL008_00641_TODO_00	Habla con Momodi en el Quicksand.
+TEXT_MANWIL008_00641_TODO_01	Recoge los aretes con Serendipity.
+TEXT_MANWIL008_00641_TODO_02	Entrégale la caja de madera con llave a Momodi.
+TEXT_MANWIL008_00641_OWYNE_000_1	¡Por los Twelve, <split(<string(gstr1)>, ,1)>! ¡Que un aventurero reciba una invitación personal de Su Gracia no tiene precedentes!
+TEXT_MANWIL008_00641_OWYNE_000_2	Los asientos en estos banquetes se ofrecen solo a las personas más distinguidas. Va a cenar con algunas de las personas más influyentes de Ul'dah.
+TEXT_MANWIL008_00641_OWYNE_000_3	Hay, por supuesto, ciertos protocolos que hay que respetar.
+TEXT_MANWIL008_00641_OWYNE_000_4	...Pero yo no soy ninguna autoridad en la materia. No tema, sin embargo: la señora Momodi se encarga desde hace mucho de familiarizar a los invitados extranjeros con nuestras costumbres.
+TEXT_MANWIL008_00641_OWYNE_000_5	Le ruego que vuelva al Quicksand y hable con ella. Le dirá todo lo que necesita saber.
+TEXT_MANWIL008_00641_OWYNE_000_10	Mis compañeros Sultansworn y yo debemos ocuparnos de nuestros propios preparativos. Mientras tanto, debería hablar con la señora Momodi. Ella le explicará los protocolos que deben respetar todos los asistentes.
+TEXT_MANWIL008_00641_MOMODI_000_20	¡Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>, y felicitaciones por tu invitación a la gran velada!
+TEXT_MANWIL008_00641_MOMODI_000_21	La verdad, nunca imaginé que te iba a explicar estos procedimientos a ti. Normalmente solo los dignatarios extranjeros me oyen parlotear sin parar sobre las tradiciones reales. En fin, sé que eres <if(gnum4,una mujer ocupada,un hombre ocupado)>, así que voy a ser breve.
+TEXT_MANWIL008_00641_MOMODI_000_22	Según una costumbre antigua, todos los invitados a este banquete tienen que llevar un par de aretes ceremoniales, hechos especialmente para la ocasión. Simbolizan─ En realidad, olvídalo. Se suponía que esta era la versión corta. Ejem. Como su diseño es único para la ocasión, los aretes sirven como medida de seguridad. Los Sultansworn no te dejarán acercarte al salón sin ellos.
+TEXT_MANWIL008_00641_MOMODI_000_23	Tu par ya debería estar listo y esperándote en el Goldsmiths' Guild. La señora Serendipity te está esperando, así que más vale que vayas ahora.
+TEXT_MANWIL008_00641_MOMODI_000_24	Cuando los tengas, tráelos aquí y seguimos.
+TEXT_MANWIL008_00641_SERENDIPITY_000_30	¡Saludos! ¿Puedo ayudarte en algo?
+TEXT_MANWIL008_00641_SERENDIPITY_000_31	¡Ah, <split(<string(gstr1)>, ,1)>! Tus aretes están aquí mismo. Los hice yo misma, para que sepas. ¡Creo que te van a encantar!
+TEXT_MANWIL008_00641_SERENDIPITY_000_32	Por si la señora Momodi no te avisó, la caja está cerrada con llave, y no tengo permitido darte la llave. Es una última medida de seguridad, ¿ves? Solo ciertas personas designadas pueden entregarles los aretes a los invitados. En este caso, esa persona es nada menos que la señora Momodi, así que vas a tener que pedirle que te abra la caja. Perdona la molestia, pero los Sultansworn se toman <italic(1)>muy<italic(0)> en serio la seguridad de Su Gracia.
+TEXT_MANWIL008_00641_MOMODI_000_40	¿Ya recogiste tus aretes, <split(<string(gstr1)>, ,1)>?
+TEXT_MANWIL008_00641_MOMODI_000_41	A ver... \<jadeo> ¡Vaya, parece que la maestra del gremio se lució con este par!
+TEXT_MANWIL008_00641_MOMODI_000_42	¡Más te vale cuidar bien estos aretes! Si cayeran en malas manos, ¡solo los dioses saben qué podría pasar!
+TEXT_MANWIL008_00641_MOMODI_000_43	Bueno, espero que te sientas sociable, <split(<string(gstr1)>, ,1)>, ¡porque estás por codearte con la élite de Ul'dah! Avísame cuando estés list<if(gnum4,a,o)> para ir al banquete.
+TEXT_MANWIL008_00641_Q1_000_050	¿Entrar en el Heart of the Sworn?
+TEXT_MANWIL008_00641_A1_000_051	Sí
+TEXT_MANWIL008_00641_A1_000_052	No

@@ -1,0 +1,25 @@
+key	text
+TEXT_MANWIL006_00628_SEQ_00	Fufulupa quiere confiarte un asunto de gran importancia.
+TEXT_MANWIL006_00628_SEQ_01	Fufulupa te cuenta que encontró, entre las pertenencias de su predecesor caído en desgracia, una carta sellada dirigida al Sultansworn Owyne. Como no sabe qué pensar de su hallazgo, te pide que le lleves la carta a Momodi, del Quicksand, firme partidaria de la familia real.
+TEXT_MANWIL006_00628_SEQ_02	Momodi descarta tus preocupaciones sin dudarlo y te asegura que Owyne jamás traicionaría a la sultana. Sin embargo, ella tiene sus propias sospechas sobre la carta...
+TEXT_MANWIL006_00628_TODO_00	Muéstrale la carta a Momodi.
+TEXT_MANWIL006_00628_FUFULUPA_000_1	Te saludo, amig<if(gnum4,a,o)> de honor. Como capitán interino, te estaría muy agradecido si me concedieras un pedido personal.
+TEXT_MANWIL006_00628_FUFULUPA_000_2	Para averiguar hasta dónde llegaba la corrupción del excapitán, estuvimos revisando su correspondencia personal.
+TEXT_MANWIL006_00628_FUFULUPA_000_3	En la búsqueda apareció esta carta sellada, dirigida a un hombre llamado Owyne.
+TEXT_MANWIL006_00628_FUFULUPA_000_4	¡Pero él es de la élite de los Sultansworn! ¡No se me ocurre ninguna razón para que tuviera tratos con Baldewyn!
+TEXT_MANWIL006_00628_FUFULUPA_100_4	Ahora sabemos que el excapitán se juntaba con una coalición de criminales... ¿¡Será que Owyne también!?
+TEXT_MANWIL006_00628_FUFULUPA_000_5	Esta carta bien podría servir de prueba de su complicidad, así que no me atrevo a tocarla yo mismo.
+TEXT_MANWIL006_00628_FUFULUPA_000_6	Pero con lo que pasó estos días, no sabía a quién confiarle esta información... hasta ahora.
+TEXT_MANWIL006_00628_FUFULUPA_000_7	Te elegí a ti, <split(<string(gstr1)>, ,1)>. Te ruego que le lleves la carta a la señora Momodi, del Quicksand, y le cuentes cómo la encontramos.
+TEXT_MANWIL006_00628_FUFULUPA_000_8	No solo es una firme partidaria de la sultana, sino que conoce bien a los Sultansworn. Ella sabrá qué es lo mejor.
+TEXT_MANWIL006_00628_MOMODI_000_10	¡Ah, <split(<string(gstr1)>, ,1)>! ¡Cuánto tiempo! Dadanen me cuenta que anduviste muy ocupad<if(gnum4,a,o)> en Horizon.
+TEXT_MANWIL006_00628_MOMODI_000_11	Quiero que sepas que te agradezco todo lo que hiciste por la gente de Ul'dah.
+TEXT_MANWIL006_00628_MOMODI_000_12	Aunque viste el lado más turbio de nuestra ciudad, seguiste ayudando al prójimo. Créeme, la gente de aquí te quiere por eso.
+TEXT_MANWIL006_00628_MOMODI_000_13	¿Mm? ¿Qué pasa? Tienes cara de querer decir algo.
+TEXT_MANWIL006_00628_MOMODI_000_14	...Así que <italic(1)>de eso<italic(0)> se trata.
+TEXT_MANWIL006_00628_MOMODI_000_15	Fufulupa cree que Owyne pudo estar confabulado con Baldewyn ─ que esta carta podría ser prueba de algo turbio.
+TEXT_MANWIL006_00628_MOMODI_000_16	Pues no tiene de qué preocuparse. Owyne es el Sultansworn más leal que conocí. No tengo la menor idea de qué dice esto, pero─
+TEXT_MANWIL006_00628_MOMODI_000_17	Un momento. ¿No fue Owyne el que...?
+TEXT_MANWIL006_00628_MOMODI_000_18	Ay, por todos los infiernos... Esto me da mala espina.
+TEXT_MANWIL006_00628_MOMODI_000_19	Escucha, <split(<string(gstr1)>, ,1)>: creo que sé de qué va todo esto, pero necesito que me jures que vas a guardar silencio.
+TEXT_MANWIL006_00628_MOMODI_000_20	Si prefieres lavarte las manos de este asunto, no te lo voy a reprochar. Pero si estás decidid<if(gnum4,a,o)> a llegar hasta el final, dímelo y te lo explico.

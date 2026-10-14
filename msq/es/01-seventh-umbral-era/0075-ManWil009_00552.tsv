@@ -1,0 +1,55 @@
+key	text
+TEXT_MANWIL009_00552_SEQ_00	Momodi quiere despedirte antes del banquete.
+TEXT_MANWIL009_00552_SEQ_01	El banquete está por empezar. Ponte la Voice of the Just y ve al Royal Promenade, donde te espera Bartholomew.
+TEXT_MANWIL009_00552_SEQ_02	En el banquete, Raubahn relata las hazañas de los héroes medio olvidados a los que los eorzeanos ahora llaman los Warriors of Light. El relato despierta en tu mente una visión de los últimos momentos de la batalla de Carteneau. Cuando vuelves en ti, te sorprende encontrarte en una habitación del Hourglass, sin idea de cómo llegaste ahí. Entre aliviada y divertida, Momodi te explica que te desplomaste y te cuenta que el General quiere verte. Ve al Hall of Flames y pide audiencia con él.
+TEXT_MANWIL009_00552_SEQ_03	El Flame General declara que hay trabajo que hacer ─ y que quiere que lo hagas tú. Vuelve a hablar con él cuando estés list<if(gnum4,a,o)> para empezar.
+TEXT_MANWIL009_00552_TODO_00	Ponte la Voice of the Just y habla con Bartholomew.
+TEXT_MANWIL009_00552_TODO_01	Habla con Raubahn en el Hall of Flames.
+TEXT_MANWIL009_00552_MOMODI_000_1	¡Llegó la hora, <split(<string(gstr1)>, ,1)>: tu gran debut en la alta sociedad de Ul'dah!
+TEXT_MANWIL009_00552_MOMODI_000_2	El banquete es en la Fragrant Chamber. Ve al Royal Promenade y Bartholomew te hará pasar. Ah, pero no te olvides de ponerte los aretes antes, o te va a mandar de vuelta.
+TEXT_MANWIL009_00552_MOMODI_000_3	Bueno, creo que eso es todo. Que no te abrume tanta pompa y ceremonia. ¡Tú sé tal cual eres y te va a ir bien!
+TEXT_MANWIL009_00552_BARTHOLOMEW_000_10	Un banquete ofrecido por Su Gracia la sultana está por comenzar. La asistencia es solo por invitación. Por favor, dejen paso a los invitados que llegan.
+TEXT_MANWIL009_00552_BARTHOLOMEW_000_11	Es un honor recibirle, <if(gnum4,mi señora,mi señor)>. Por favor, pase.
+TEXT_MANWIL009_00552_BARTHOLOMEW_000_12	Ejem. Debo pedirle que se aparte de las puertas, <if(gnum4,señora,señor)>. Si recibió una invitación, le ruego que tenga en cuenta las condiciones de admisión.
+TEXT_MANWIL009_00552_BARTHOLOMEW_000_13	¡Y que los Twelve le salven si perdió los artículos correspondientes! Solo puedo imaginar el horror de la señora Serendipity si tuviera que darle otro par...
+TEXT_MANWIL009_00552_000010_RAUBAHN	¡Salve a la sultana!
+TEXT_MANWIL009_00552_000020_RAUBAHN	Su Gracia.
+TEXT_MANWIL009_00552_000030_NANAMOULNAMO	Raubahn.
+TEXT_MANWIL009_00552_000040_NANAMOULNAMO	Por derecho de la Casa Real de Ul, yo, Nanamo, decimoséptima de mi linaje, los he convocado aquí.
+TEXT_MANWIL009_00552_000050_NANAMOULNAMO	Hoy nos honra con su presencia <if(gnum4,una heroína,un héroe)> de Ul'dah y <if(gnum4,querida amiga,querido amigo)> de la corona.
+TEXT_MANWIL009_00552_000060_NANAMOULNAMO	Distinguidos invitados, ¡les presento a nuestr<if(gnum4,a campeona,o campeón)>!
+TEXT_MANWIL009_00552_000070_NANAMOULNAMO	Y dicho esto, los invito a disfrutar del festín.
+TEXT_MANWIL009_00552_000080_RAUBAHN	No es por quitarte el apetito, pero Ul'dah no es ni de lejos tan abundante como haría creer esta comida. Mientras nosotros nos atiborramos, hay niños que se mueren de hambre en las calles.
+TEXT_MANWIL009_00552_000090_RAUBAHN	Y Su Gracia no puede hacer nada para ayudarlos. Le ponen trabas a cada paso los del Syndicate que sacan su riqueza de la pobreza de los trabajadores.
+TEXT_MANWIL009_00552_000100_RAUBAHN	Detrás de su máscara de serenidad majestuosa, la horroriza la desgracia de sus súbditos.
+TEXT_MANWIL009_00552_000110_RAUBAHN	Pero no habrá esperanza para el pueblo hasta que la corona recupere el poder.
+TEXT_MANWIL009_00552_000120_RAUBAHN	Te estoy de verdad agradecido por todo lo que hiciste por Ul'dah. Pero queda mucho más por hacer.
+TEXT_MANWIL009_00552_000130_RAUBAHN	Esa luz... ¿qué es?
+TEXT_MANWIL009_00552_000140_RAUBAHN	Tan brillante... Casi como... ¡Por los Twelve!
+TEXT_MANWIL009_00552_000150_RAUBAHN	Dime la verdad: ¿te atormentaron sueños extraños últimamente? ¿Visiones... del Cristal?
+TEXT_MANWIL009_00552_000160_RAUBAHN	¿Quizá las atribuiste a un exceso de aether?
+TEXT_MANWIL009_00552_000170_RAUBAHN	Sí. Eres como <italic(1)>ellos<italic(0)>...
+TEXT_MANWIL009_00552_000180_RAUBAHN	Déjame explicarte. Antes de que llegaras a Eorzea, hubo otros como tú que lucharon contra los primals.
+TEXT_MANWIL009_00552_000190_RAUBAHN	Aunque no eran de esta tierra, cuando el Garlean Empire amenazó al reino, ayudaron a unir a las tres Grand Companies.
+TEXT_MANWIL009_00552_000200_RAUBAHN	Y estuvieron con nosotros en Carteneau, aquel día fatídico de hace cinco años...
+TEXT_MANWIL009_00552_000210_RAUBAHN	...El día en que los perdimos.
+TEXT_MANWIL009_00552_000220_RAUBAHN	Ninguno de los sobrevivientes olvidó el sacrificio de esos héroes, y nadie negaría que pelearon a nuestro lado...
+TEXT_MANWIL009_00552_000230_RAUBAHN	Pero los nombres de esos héroes no nos vienen a los labios. Las páginas de su historia, que antes conocíamos tan bien, ahora están en blanco.
+TEXT_MANWIL009_00552_000240_RAUBAHN	Y en los ojos de nuestra mente, sus rostros no son más que siluetas en medio de un resplandor cegador...
+TEXT_MANWIL009_00552_000250_RAUBAHN	Por eso empezamos a llamarlos los Warriors of Light.
+TEXT_MANWIL009_00552_000260_RAUBAHN	Cuando te miro, no puedo evitar pensar en ellos, y en lo que tú podrías lograr.
+TEXT_MANWIL009_00552_000270_RAUBAHN	Tienes que proteger ese cristal a toda costa.
+TEXT_MANWIL009_00552_000280_RAUBAHN	Es un regalo de Hydaelyn, Madre de todo ─ y Ella te lo dio por una razón.
+TEXT_MANWIL009_00552_000290_RAUBAHN	La tuya no es una historia común. Si tengo razón, el destino del reino podría depender de tus hazañas.
+TEXT_MANWIL009_00552_000300_RAUBAHN	Solo los héroes y los mártires son dignos de llevar semejante carga. Recemos para que seas de los primeros.
+TEXT_MANWIL009_00552_MOMODI_000_50	¿Cómo te sientes, <split(<string(gstr1)>, ,1)>?
+TEXT_MANWIL009_00552_MOMODI_000_51	Dicen que te desmayaste en medio de una de las historias del General. Tuve que hacer que te trajeran cargad<if(gnum4,a,o)> al Hourglass.
+TEXT_MANWIL009_00552_MOMODI_000_52	Creo que causaste una gran impresión en los demás invitados... aunque seguramente no la que querías.
+TEXT_MANWIL009_00552_MOMODI_000_53	¿Seguro que estás descansando lo suficiente, <split(<string(gstr1)>, ,1)>? La vida de aventurero puede ser bastante agotadora.
+TEXT_MANWIL009_00552_MOMODI_000_54	En fin, me alegra ver que volviste a la normalidad. No te ofendas, pero cuidarte ya me estaba cansando un poco.
+TEXT_MANWIL009_00552_MOMODI_000_55	Ah, antes de que me olvide, el General te dejó un mensaje. Dijo que cuando te sientas con fuerzas, vayas a verlo al Hall of Flames.
+TEXT_MANWIL009_00552_MOMODI_000_56	Seguro quiere terminar la historia que te estaba contando cuando te dormiste.
+TEXT_MANWIL009_00552_RAUBAHN_000_60	Te estaba esperando, <split(<string(gstr1)>, ,1)>. ¿Confío en que te recuperaste del todo?
+TEXT_MANWIL009_00552_RAUBAHN_000_61	Bien, porque hay mucho trabajo que hacer ─ trabajo que quiero que hagas tú...
+TEXT_MANWIL009_00552_SERENDIPITY_070	¿¡Que quieres <italic(1)>qué<italic(0)>!? ¡No puedes hablar en serio! <italic(1)>Dioses<italic(0)>...
+TEXT_MANWIL009_00552_SERENDIPITY_071	Solo por esta vez, pero recuerda: la vida no es una canción de juglar, y tú no eres <if(gnum4,ninguna heroína elegida,ningún héroe elegido)>. Así que no vayas por ahí esperando que la gente te perdone cualquier cosa imprudente e irresponsable que hagas.

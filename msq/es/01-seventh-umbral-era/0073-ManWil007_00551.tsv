@@ -1,0 +1,135 @@
+key	text
+TEXT_MANWIL007_00551_SEQ_00	Momodi quiere pedirle ayuda a un amigo de confianza de Ul'dah.
+TEXT_MANWIL007_00551_SEQ_01	Después de hacerte jurar silencio, Momodi te revela que robaron la corona real. Según ella, si el robo se hiciera público, mancharía la reputación de la sultana. Sospecha que la misiva que Fufulupa encontró entre las pertenencias de Baldewyn la escribieron los autores de este crimen. Momodi te pide que le lleves la carta a su destinatario, Owyne de los Sultansworn, y le ofrezcas tu ayuda.
+TEXT_MANWIL007_00551_SEQ_02	Owyne confirma que la carta es una nota de rescate de los ladrones, con sus exigencias para devolver la corona. Convencido de que no hay otra salida, el Sultansworn, abrumado por la culpa, decide darles a los criminales lo que piden. Reúnete con él en el Unholy Heir, en Central Thanalan, y asegúrate de que el intercambio salga según lo planeado.
+TEXT_MANWIL007_00551_SEQ_03	Una vez cobrado el pago, los ladrones, como era de esperar, intentan matarte, pero con la ayuda de Papashan y un grupo de Sultansworn los derrotas.
+TEXT_MANWIL007_00551_SEQ_04	Cuando los Sultansworn se van, te quedas a solas con el mago enmascarado que planeó el robo, y empieza otra batalla. Por suerte, Thancred llega en tu ayuda y juntos salen victoriosos. Aunque los motivos de este "Ascian" siguen siendo un misterio, sus planes ahora están en ruinas. Vuelve al Heart of the Sworn y averigua si los Sultansworn recuperaron la corona.
+TEXT_MANWIL007_00551_SEQ_05	La sultana visita el Heart of the Sworn para agradecerte en persona tu ayuda en la recuperación de la corona, y para pedirte que asistas como su invitad<if(gnum4,a,o)> de honor al próximo banquete. Aunque su gesto te deja sin palabras, recobras la compostura y aceptas, deseando ya el próximo encuentro.
+TEXT_MANWIL007_00551_TODO_00	Entrégale la carta a Owyne.
+TEXT_MANWIL007_00551_TODO_01	Reúnete con Owyne en el Unholy Heir.
+TEXT_MANWIL007_00551_TODO_02	Habla con Papashan en el Heart of the Sworn.
+TEXT_MANWIL007_00551_TODO_03	Habla con Papashan en el Heart of the Sworn.
+TEXT_MANWIL007_00551_MOMODI_050_1	¿Puedo contar con tu discreción, <split(<string(gstr1)>, ,1)>? Si es así, escucha con atención...
+TEXT_MANWIL007_00551_MOMODI_000_1	Afuera creen que Ul'dah es un sultanato gobernado por la sultana Nanamo Ul Namo. Pero la verdad es que quienes más mandan son los seis ciudadanos más ricos: el Syndicate.
+TEXT_MANWIL007_00551_MOMODI_000_2	Aun así, la sultana todavía tiene el apoyo del pueblo...
+TEXT_MANWIL007_00551_MOMODI_000_3	Pero hasta eso podría costarle mantenerlo si cierto incidente sale a la luz.
+TEXT_MANWIL007_00551_MOMODI_000_4	Me duele decirlo, pero robaron la corona de Su Gracia, el símbolo de la dinastía real.
+TEXT_MANWIL007_00551_MOMODI_000_5	Y Owyne... Owyne es el Sultansworn que estaba encargado de custodiarla esa noche.
+TEXT_MANWIL007_00551_MOMODI_000_6	Apostaría lo que fuera a que esta carta la escribieron los desgraciados que se llevaron la corona.
+TEXT_MANWIL007_00551_MOMODI_000_7	No puede ser casualidad que un hombre que sabemos que se juntaba con ladrones tuviera una carta para Owyne, justo para él, y justo ahora.
+TEXT_MANWIL007_00551_MOMODI_000_8	Tienes que llevársela al mismísimo Owyne, <split(<string(gstr1)>, ,1)>. Dile que te manda Momodi, y que es sobre una reliquia familiar perdida.
+TEXT_MANWIL007_00551_MOMODI_000_9	Si parece que el muchacho necesita ayuda, quiero que se la des. El futuro de nuestra hermosa ciudad podría depender de ello.
+TEXT_MANWIL007_00551_SULTANSWORMA_000_10	Más allá está el Heart of the Sworn. Diga a qué viene.
+TEXT_MANWIL007_00551_SULTANSWORMA_000_11	...¿Perdón? ¿Dijo una <italic(1)>reliquia familiar perdida<italic(0)>? Ejem. Adelante.
+TEXT_MANWIL007_00551_Q1_000_1	¿Entrar en el Heart of the Sworn?
+TEXT_MANWIL007_00551_A1_000_1	Sí
+TEXT_MANWIL007_00551_A1_000_2	No
+TEXT_MANWIL007_00551_SULTANSWORMA_000_12	¿A qué está jugando, aventurer<if(gnum4,a,o)>? ¿De verdad <if(gnum4,la,lo)> mandó Momodi? Si esto es algún tipo de broma, ¡<italic(1)>habrá<italic(0)> consecuencias!
+TEXT_MANWIL007_00551_OWYNE_000_20	Bienvenid<if(gnum4,a,o)>, aventurer<if(gnum4,a,o)>. ¿Qué asunto <if(gnum4,la,lo)> trae aquí hoy?
+TEXT_MANWIL007_00551_OWYNE_000_21	...¿Una carta? Muy bien, veámosla.
+TEXT_MANWIL007_00551_OWYNE_000_22	...¿Usted leyó esto, aventurer<if(gnum4,a,o)>?
+TEXT_MANWIL007_00551_OWYNE_000_23	Ya veo. Pero algo sospecha de lo que dice, creo.
+TEXT_MANWIL007_00551_OWYNE_000_24	Sin duda la señora Momodi le explicó la importancia de la corona, y lo que su pérdida podría significar para Su Gracia la sultana... \<suspiro> Este robo avergüenza a los Sultansworn ─ y a mí más que a nadie.
+TEXT_MANWIL007_00551_OWYNE_000_25	La culpa es mía, ¿sabe? Descuidé mis deberes, y en un momento de descuido...
+TEXT_MANWIL007_00551_OWYNE_000_26	No, de nada sirve contar la historia ahora.<br>Desde la hora del robo buscamos desesperadamente cualquier señal, cualquier rumor sobre el paradero de la corona. No encontramos nada.
+TEXT_MANWIL007_00551_OWYNE_000_27	La identidad de los ladrones y sus motivos parecían destinados a seguir siendo un misterio... hasta que llegó usted con esta nota de rescate.
+TEXT_MANWIL007_00551_OWYNE_000_28	En ella, los criminales fijan su precio por devolver la corona de Su Gracia.
+TEXT_MANWIL007_00551_OWYNE_000_29	Y aunque me duela decirlo, me temo que no tengo más remedio que ceder a sus exigencias. Hay demasiado en juego para hacer otra cosa. La corona simboliza el derecho de nacimiento de Su Gracia y la identifica como custodia del legado Ul. <italic(1)>Hay<italic(0)> que recuperarla.
+TEXT_MANWIL007_00551_OWYNE_000_30	Iré al Unholy Heir y les pagaré el rescate.
+TEXT_MANWIL007_00551_OWYNE_000_31	Aunque no soy tan tonto como para ir solo a reunirme con esos hombres, como exigen, tampoco me atrevo a llevar a muchos compañeros, no sea que los ladrones se asusten. Amig<if(gnum4,a,o)>, ¿aceptaría <italic(1)>usted<italic(0)> estar presente en el intercambio?
+TEXT_MANWIL007_00551_OWYNE_000_32	La señora Momodi siempre habló de usted con los mayores elogios, y nunca tuve motivo para dudar de su juicio.
+TEXT_MANWIL007_00551_OWYNE_000_33	En nombre de todos los que siguen siendo leales a la sultana, se lo suplico: ayúdenos en esta hora de necesidad.
+TEXT_MANWIL007_00551_OWYNE_000_40	Le ruego que me espere en el Unholy Heir, en Central Thanalan, al este de Black Brush Station. Si los dioses son buenos, el intercambio se hará sin incidentes...
+TEXT_MANWIL007_00551_INSTANCE_BATTLE_YESNO_TITLE	El deber llama. ¿Quieres comenzar<br>"MANWIL007"?
+TEXT_MANWIL007_00551_INSTANCE_BATTLE_YESNO_YES	Sí
+TEXT_MANWIL007_00551_INSTANCE_BATTLE_YESNO_NO	No
+TEXT_MANWIL007_00551_OWYNE_000_50	¡Vine como acordamos! ¡Ahora, muéstrenme la corona!
+TEXT_MANWIL007_00551_GARIBALD_000_51	Sí, tendrás tu preciosa corona... una vez que nos hayan pagado como corresponde.
+TEXT_MANWIL007_00551_OWYNE_000_52	¿¡Me crees tonto!? ¿Qué garantía tengo de que van a cumplir con su parte del trato?
+TEXT_MANWIL007_00551_GARIBALD_000_53	Vamos, vamos, Owyne... aquí el menos confiable eres tú. No solo robaron la corona durante <italic(1)>tu<italic(0)> guardia, sino que me parece que rompiste las condiciones del intercambio. ¿No dijimos que vinieras solo?
+TEXT_MANWIL007_00551_GARIBALD_000_54	Y como <italic(1)>no<italic(0)> viniste solo, ¿qué garantía tenemos de que no hay una compañía de arqueros rodeándonos en este momento, lista para llenarnos de flechas a mí y a mis hombres en cuanto vean la corona?
+TEXT_MANWIL007_00551_GARIBALD_000_55	Te burlaste de nuestra confianza. Se acabó el trato.
+TEXT_MANWIL007_00551_OWYNE_000_56	¡Espera! ¡Aquí está tu pago, como prometí!
+TEXT_MANWIL007_00551_GARIBALD_000_57	\<olfateo> \<olfateo> ...Sí, es lo auténtico.
+TEXT_MANWIL007_00551_GARIBALD_000_58	¡Ja, ja, ja! ¡Mil gracias, muchacho! ¡Lograste lo que no pudieron decenas de ladrones!
+TEXT_MANWIL007_00551_GARIBALD_000_59	¡Y ahora, por fin, lo tenemos! El poder de crear un ejército de soldados inmortales: ¡<italic(1)>el Traders' Spurn<italic(0)>!
+TEXT_MANWIL007_00551_OWYNE_000_60	No... ¡no, no puede ser! ¿¡Qué hice!?
+TEXT_MANWIL007_00551_GARIBALD_000_61	¿No te preguntaste qué era lo que nos estabas entregando ─ qué era eso que para nosotros valía tanto como para ti la corona? ¿O creíste que nos sentíamos <italic(1)>caritativos<italic(0)>?
+TEXT_MANWIL007_00551_GARIBALD_000_62	Ah, pero debes sentirte fatal, sabiendo que nos trajiste la perdición de Sil'dih. No te preocupes, muchacho: te daremos una muerte rápida y te ahorraremos más deshonra.
+TEXT_MANWIL007_00551_OWYNE_000_63	¡Son demasiados, <split(<string(gstr1)>, ,1)>! ¡Corra! ¡Corra mientras pueda! Yo... yo cumpliré con mi deber.
+TEXT_MANWIL007_00551_PAPASHAN_000_64	(-???-)Tu deber es servir a la sultana, muchacho ─ ¡y lo vas a seguir haciendo por un buen tiempo!
+TEXT_MANWIL007_00551_PAPASHAN_000_65	¡Sultansworn! ¡Pasen a estos ladrones por la espada y aseguren la corona!
+TEXT_MANWIL007_00551_GARIBALD_000_66	¿¡Sultansworn!? ¡Ja! ¡No importa! ¡Mátenlos a todos!
+TEXT_MANWIL007_00551_OWYNE_000_70	¡Maese Papashan! Pero ¿por qué...? ¿Cómo...?
+TEXT_MANWIL007_00551_PAPASHAN_000_71	El General te vio entrar a escondidas en las bóvedas, Owyne.
+TEXT_MANWIL007_00551_PAPASHAN_000_72	Sospechó que algo pasaba y nos ordenó vigilarte.
+TEXT_MANWIL007_00551_OWYNE_000_73	¿El Flame General...? ¿Les ordenó cuidarme?
+TEXT_MANWIL007_00551_SULTANSWORM_000_74	¡Maese Papashan! ¡Hay más al norte!
+TEXT_MANWIL007_00551_PAPASHAN_000_75	¡Tras ellos, Sultansworn: tienen la corona! ¡Estos solo buscaban demorarnos!
+TEXT_MANWIL007_00551_OWYNE_000_76	¡Volvamos a hablar en la ciudad!
+TEXT_MANWIL007_00551_MASKEDMAGUS_000_77	Ya se ve de dónde saca su fuerza...
+TEXT_MANWIL007_00551_MASKEDMAGUS_000_78	Habréis vencido al golem, pero hoy no os irá tan bien.
+TEXT_MANWIL007_00551_MASKEDMAGUS_000_79	<colortype(547)>¡Oh, voz doliente de la creación! ¡Enviadme una criatura del abismo, esclava a mis órdenes, para que abata a mis enemigos!<colortype(0)>
+TEXT_MANWIL007_00551_MASKEDMAGUS_000_80	Vuestra sola existencia pone en peligro el plan. No se os puede permitir vivir.
+TEXT_MANWIL007_00551_MASKEDMAGUS_000_90	Unnngh... Que la sabiduría de los Paragons sea derribada...por simples mortales...
+TEXT_MANWIL007_00551_THANCRED_000_91	¿Paragons? Esta revelación es de lo más inquietante...
+TEXT_MANWIL007_00551_THANCRED_000_92	Hace tiempo que sospechábamos que andaban metidos los Bringers of Chaos ─ los <italic(1)>Ascians<italic(0)>, por darles su verdadero nombre.
+TEXT_MANWIL007_00551_THANCRED_000_93	Pero hasta ahora no podíamos estar seguros de que fueran los responsables de las perturbaciones recientes. Como si al sultanato le faltaran enemigos...
+TEXT_MANWIL007_00551_THANCRED_000_94	¿Mm? ¿Si los sharlayanos ya nos topamos antes con los Ascians? Bueno, sin duda─ Un momento. No recuerdo haberte hablado de mi tierra.
+TEXT_MANWIL007_00551_THANCRED_000_95	Ah, sí, claro: eres de los que tienen el don.
+TEXT_MANWIL007_00551_THANCRED_000_96	¿Sabes? Es la tercera vez que te encuentro en medio de un problema. Si no supiera que no, diría que los atraes como un imán.
+TEXT_MANWIL007_00551_THANCRED_000_97	En fin, me alegra haber empezado a seguirte. ¡Quién sabe con qué gran conspiración te toparás ahora!
+TEXT_MANWIL007_00551_THANCRED_000_98	Es broma, es broma... Si de verdad hubiera vigilado cada uno de tus pasos, no habría tardado tanto en intervenir en tu última pelea.
+TEXT_MANWIL007_00551_THANCRED_000_99	Pero bien está lo que bien acaba, ¿no? Nuestro amigo enmascarado ya no existe, y aunque dudo mucho que hayamos visto al último de los suyos, su muerte seguramente nos dará <italic(1)>algo<italic(0)> de respiro. Y dicho esto, debo irme. Hasta la próxima, <split(<string(gstr1)>, ,1)>.
+TEXT_MANWIL007_00551_SULTANSWORMA_000_110	Todos <if(gnum4,la,lo)> esperan, aventurer<if(gnum4,a,o)>.
+TEXT_MANWIL007_00551_SULTANSWORMA_000_111	Le ruego que no haga esperar a mis compañeros.
+TEXT_MANWIL007_00551_PAPASHAN_000_200	¿Te sorprende verme vestido así, <split(<string(gstr1)>, ,1)>? Fui Sultansworn, ¿sabes?, aunque hace quince años que dejé la espada y asumí el puesto de jefe de estación.
+TEXT_MANWIL007_00551_PAPASHAN_000_201	Un puesto en el que sirvo con no menos orgullo, por si lo dudas. Cada vez que Su Gracia sale de las puertas, tengo el honor de protegerla en persona.
+TEXT_MANWIL007_00551_PAPASHAN_000_202	Nunca la había visto tan abatida como cuando le llegó la noticia del robo de la corona.
+TEXT_MANWIL007_00551_PAPASHAN_000_203	Pero gracias a tu valiente esfuerzo, volvió a ser la de antes, llena de vida. Tienes la gratitud de todos los Sultansworn, <split(<string(gstr1)>, ,1)>.
+TEXT_MANWIL007_00551_400010_LADYSMAID	¡Recipiente exaltado de Nald'thal, guardiana de Thanalan, decimoséptima en ascender al trono de Ul'dah: preside Su Majestad Real Nanamo Ul Namo!
+TEXT_MANWIL007_00551_400020_SULTANSWORM	¡Viva Nanamo! ¡Gloria a la sultana! ¡Que reine para siempre!
+TEXT_MANWIL007_00551_400030_SULTANSWORM	¡Viva Nanamo! ¡Gloria a la sultana! ¡Que reine para siempre!
+TEXT_MANWIL007_00551_400040_NANAMOULNAMO	Me hablaron de un campeón entre campeones, alguien cuyo incansable servicio a la corona merecía el mayor honor que podamos conceder.
+TEXT_MANWIL007_00551_400050_NANAMOULNAMO	Jamás se me ocurrió que pudiera ser usted. ¡Tráiganlo!
+TEXT_MANWIL007_00551_400060_NANAMOULNAMO	En señal de nuestra gratitud y estima, yo, Nanamo Ul Namo, sultana de Ul'dah, le concedo este obsequio.
+TEXT_MANWIL007_00551_400070_NANAMOULNAMO	Raubahn.
+TEXT_MANWIL007_00551_400080_RAUBAHN	Su Gracia.
+TEXT_MANWIL007_00551_400090_NANAMOULNAMO	Encárgate de que nuestr<if(gnum4,a campeona,o campeón)> sea mi invitad<if(gnum4,a,o)> personal en el banquete.
+TEXT_MANWIL007_00551_400100_RAUBAHN	Como ordene, Su Gracia.
+TEXT_MANWIL007_00551_400110_RAUBAHN	Si es cierto lo que dicen, Ul'dah tiene una gran deuda contigo.
+TEXT_MANWIL007_00551_400120_RAUBAHN	Qué raro que no nos hayamos conocido antes de hoy...
+TEXT_MANWIL007_00551_400130_RAUBAHN	...Siento que somos almas gemelas.
+TEXT_MANWIL007_00551_400140_RAUBAHN	No soy dado a supersticiones, pero juraría que nuestras historias pertenecen a la misma saga.
+TEXT_MANWIL007_00551_400150_RAUBAHN	Soy Raubahn Aldynn. Con el consentimiento de Su Gracia, superviso los asuntos del sultanato.
+TEXT_MANWIL007_00551_400160_RAUBAHN	En estos tiempos las almas valientes escasean. Me considero afortunado cuando encuentro una.
+TEXT_MANWIL007_00551_400170_RAUBAHN	Su Gracia te invita a acompañarla en el próximo banquete. Confío en que te veré allí.
+TEXT_MANWIL007_00551_400180_SULTANSWORM	¡Todo un honor!
+TEXT_MANWIL007_00551_400190_SULTANSWORM	¡Hurra! ¡Ven, <if(gnum4,heroína,héroe)>!
+TEXT_MANWIL007_00551_400200_RAUBAHN	Hasta entonces.
+TEXT_MANWIL007_00551_400210_RAUBAHN	Por el bien de Su Gracia y la gloria del sultanato, que camines bajo la luz del Cristal.
+TEXT_MANWIL007_00551_OWYNE_000_120	Le doy las gracias, <split(<string(gstr1)>, ,1)>, por ayudar a defender el buen nombre de Su Gracia y por ahorrarles a los Sultansworn más deshonra. Creo que el maese Papashan quiere agradecerle en persona.
+TEXT_MANWIL007_00551_QIB_TODO001	¡Derrota a Garibald the Fargone y a sus secuaces!
+TEXT_MANWIL007_00551_QIB_PAPASHAN_BATTLETALK01	¡Pelea por tu sultana, muchacho! ¡Pelea por Ul'dah!
+TEXT_MANWIL007_00551_QIB_PAPASHAN_BATTLETALKBOSS_HP25_REACT	¡Ríndete o muere, ladrón! ¡No lo voy a repetir!
+TEXT_MANWIL007_00551_QIB_OWYNE_BATTLETALK01	¡Como ordene, maese Papashan!<br>¡Conmigo, <split(<string(gstr1)>, ,1)>!
+TEXT_MANWIL007_00551_QIB_OWYNE_BATTLETALKBALLOON_01	Ugh... son tantos...
+TEXT_MANWIL007_00551_QIB_GARIBALD_BATTLETALK_BALLOON_01	¡Los viejos no deberían jugar con espadas!
+TEXT_MANWIL007_00551_QIB_GARIBALD_BATTLETALK_BALLOON_02	¡Te voy a arrancar el corazón, viejo!
+TEXT_MANWIL007_00551_QIB_PAPASHAN_BATTLETALK02	¡Mantengan la posición, Sultansworn!
+TEXT_MANWIL007_00551_QIB_OWYNE_BATTLETALK02	¿¡Eso es un <italic(1)>voidsent<italic(0)>!?
+TEXT_MANWIL007_00551_QIB_GARIBALD_BATTLETALK_01	¡Tontos entrometidos! ¡No saben a quién se enfrentan!
+TEXT_MANWIL007_00551_QIB_GARIBALD_BATTLETALK_03	¡Escúchame, morador del abismo!<br>¡Mata a estos intrusos y date un festín con sus almas!
+TEXT_MANWIL007_00551_QIB_PAPASHAN_BATTLETALKHP50	¡Pase lo que pase, no dejen que escapen con la corona!
+TEXT_MANWIL007_00551_QIB_PAPASHAN_BATTLETALKDEAD	Ugh... le fallé...
+TEXT_MANWIL007_00551_QIB_OWYNE_BATTLETALKDEAD	La corona... Tenemos que...
+TEXT_MANWIL007_00551_QIB_SULTANSWORMA_DEAD	No... no puedo...
+TEXT_MANWIL007_00551_QIB_SULTANSWORMB_DEAD	Perdónenme, hermanos...
+TEXT_MANWIL007_00551_QIB_TODO002	¡Derrota al mago enmascarado!
+TEXT_MANWIL007_00551_QIB_MASKEDMAGUS_BATTLETALK_001	¡Pronto os llevaréis a la tumba vuestros viles dones!
+TEXT_MANWIL007_00551_QIB_MASKEDMAGUS_BATTLETALK_POISON	¡Mwahahaha!<br>¡Retorceos mientras el veneno os corroe las venas!
+TEXT_MANWIL007_00551_QIB_MASKEDMAGUS_BATTLETALK_01	Una invitada indeseada. No importa: ¡todos caerán ante mí!
+TEXT_MANWIL007_00551_QIB_MASKEDMAGUS_BATTLETALK_HP60	¿¡De dónde sale este poder sobrenatural!?
+TEXT_MANWIL007_00551_QIB_SANCRED_ENTER	¡Sí que tienes talento para meterte en problemas!
+TEXT_MANWIL007_00551_QIB_MASKEDMAGUS_BATTLETALK_HP40	¡Ningún mortal debería tener semejante fuerza!
+TEXT_MANWIL007_00551_QIB_SANCRED_MASKEDMAGUS_BATTLETALK_HP20	¡Sigue así, <split(<string(gstr1)>, ,1)>!<br>¡Ya casi lo tenemos!
