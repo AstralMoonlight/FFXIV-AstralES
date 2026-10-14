@@ -20,8 +20,8 @@ Los nombres propios (habilidades, estados, medidores, jobs, personajes, lugares,
 
 - Acciones generales (Sprint, Teleport, Limit Break…) y acciones de rol.
 - Habilidades, rasgos y estados de **Black Mage** (con Thaumaturge), **White Mage**, **Sage**, **Bard**, **Dancer**, **Monk**, **Viper**, **Dark Knight** y **Dragoon** (con Lancer).
-- Historia principal (diálogos, cinemáticas, Journal y Duty List): el inicio en las tres ciudades hasta "Close to Home", y toda la parte de Gridania hasta "The Gridanian Envoy". Limsa Lominsa y Ul'dah vienen después.
-- Misiones de clase de Lancer, de "Way of the Lancer" a "Proof of Might" (nivel 1 a 30).
+- Historia principal (diálogos, cinemáticas, Journal y Duty List): A Realm Reborn completo, desde el inicio en cualquiera de las tres ciudades hasta "The Ultimate Weapon". Lo que sigue (las misiones posteriores a ARR, Binding Coil y Crystal Tower) todavía no.
+- Misiones de clase de Lancer, Archer y Thaumaturge (nivel 1 a 30).
 
 Lo que no tiene traducción se muestra en inglés, igual que siempre.
 
