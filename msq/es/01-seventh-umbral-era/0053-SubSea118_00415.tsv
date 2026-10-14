@@ -1,0 +1,26 @@
+key	text
+TEXT_SUBSEA118_00415_SEQ_00	Haldbroda tiene una sugerencia para el amable aventurero que le trajo el mensaje del capataz Ahtbyrm.
+TEXT_SUBSEA118_00415_SEQ_01	Según Haldbroda, todavía podría haber sobrevivientes del accidente reciente que el mar arrastró al Salt Strand. Uno de ellos podría ser incluso el carpintero desaparecido, Fyrilsmyd.
+TEXT_SUBSEA118_00415_SEQ_02	Como por milagro, encuentras a Fyrilsmyd sano y salvo en el Salt Strand. Sin embargo, el carpintero náufrago te cuenta que no puede volver a los Moraby Drydocks sin antes recoger las tres piezas de carga que lo mandaron a buscar ─ una carga que ahora custodian unos peligrosos Qiqirn beachcombers.
+TEXT_SUBSEA118_00415_SEQ_03	Rescataste las tres piezas de carga perdidas. Llévaselas a Fyrilsmyd enseguida.
+TEXT_SUBSEA118_00415_SEQ_04	Fyrilsmyd te agradece que encontraras la carga y, antes de salir corriendo otra vez, te pide un último favor: que vuelvas con Ahtbyrm a los Moraby Drydocks y le cuentes al capataz qué fue de su carpintero.
+TEXT_SUBSEA118_00415_SEQ_05	A Ahtbyrm parece alegrarle que tanto la carga como el carpintero aparecieran sin daños. Al contrario de lo que dice Fyrilsmyd, el capataz no cree que la tormenta que hundió los barcos fuera natural, sino obra de los Sahagin.
+TEXT_SUBSEA118_00415_TODO_00	Busca sobrevivientes en el Salt Strand.
+TEXT_SUBSEA118_00415_TODO_01	Rescata el timón del <italic(1)>Victory<italic(0)>.
+TEXT_SUBSEA118_00415_TODO_02	Rescata el aparejo del <italic(1)>Victory<italic(0)>.
+TEXT_SUBSEA118_00415_TODO_03	Rescata el velamen del <italic(1)>Victory<italic(0)>.
+TEXT_SUBSEA118_00415_TODO_04	Llévale los tres objetos a Fyrilsmyd.
+TEXT_SUBSEA118_00415_TODO_05	Informa a Ahtbyrm.
+TEXT_SUBSEA118_00415_HALDBRODA_000_1	Mira, tal como yo lo veo, si tienes tiempo para estar aquí poniendo en duda mi palabra, seguro que también tienes tiempo para llevar el trasero hasta el Salt Strand y ayudarnos a buscar sobrevivientes del naufragio.
+TEXT_SUBSEA118_00415_HALDBRODA_000_2	¿Quién sabe? A lo mejor te topas con ese Fyrilsmyd que todos tienen tantas ganas de encontrar. Ojalá la Navigator no lo haya encontrado primero.
+TEXT_SUBSEA118_00415_FYRILSMYD_000_10	Sí, soy Fyrilsmyd. ¿Dices que el capataz se pregunta dónde ando? Ya me lo imaginaba. Pero tienes que saber que no puedo dar la cara en los Drydocks hasta arreglar el terrible error que cometí.
+TEXT_SUBSEA118_00415_FYRILSMYD_000_11	Hace dos noches fui de los Drydocks a Candlekeep Quay, tal como me pidió el capataz. El mar estaba bravísimo, y el capitán del barco de carga no se animaba a acercarlo mucho a los acantilados, así que le pagué unas monedas a un pescador para que me llevara hasta él.
+TEXT_SUBSEA118_00415_FYRILSMYD_000_12	A mitad de camino entre la orilla y el barco, el oleaje ya llegaba casi a diez yalms, y al poco rato las olas nos atraparon. Por más que intentamos mantener firme el bote, la naturaleza nos tenía bien agarrados, y nos estrellamos de lleno contra la galera lominsana.
+TEXT_SUBSEA118_00415_FYRILSMYD_000_13	Cuando desperté, los dos barcos habían desaparecido, y la carga que tenía que recoger estaba desparramada por todo el Salt Strand. Hice todo lo posible por rescatarla, pero la arena está llena de Qiqirn, y yo no sé manejar una espada. Ahora ya ves por qué no puedo volver a los Drydocks...
+TEXT_SUBSEA118_00415_AHTBYRM_000_20	Me alivia saber que tanto Fyrilsmyd como los suministros están intactos, aunque fue una tontería que creyera que yo lo culparía de algo que a todas luces no dependía de él.
+TEXT_SUBSEA118_00415_AHTBYRM_000_21	Verá, ese día no hubo ninguna tormenta, y el mar aquí junto a los Drydocks estaba tan calmo como un niño dormido. Eso me hace pensar que el problema de los barcos frente a Candlekeep Quay fue de un tipo menos natural ─ del tipo que suelen conjurar los Sahagin.
+TEXT_SUBSEA118_00415_FYRILSMYD_000_30	Esa noche el mar me revolcó como a un muñeco de trapo, y al poco rato el mundo a mi alrededor se volvió negro mientras me hundía en el abismo. Pero, mira tú, la Navigator no quiso llevarme a las puertas de los siete infiernos, y desperté tirado en la orilla. Y aquí estuve desde entonces, esperando la ocasión de rescatar la carga de mi patrón.
+TEXT_SUBSEA118_00415_FYRILSMYD_000_31	¡Las piezas que faltaban! ¡N-no sé cómo voy a pagarte!
+TEXT_SUBSEA118_00415_FYRILSMYD_000_32	Voy a entregar los suministros enseguida... pero primero tengo que pasar por el muelle para darle el pésame a la viuda del valiente pescador que dio la vida por un puñado de monedas.
+TEXT_SUBSEA118_00415_FYRILSMYD_000_33	¿Podrías decirle a Ahtbyrm que estaré de vuelta en los Drydocks para <if([gnum11<12],<if([gnum11<4],el amanecer,el anochecer)>,<if([gnum11<17],el anochecer,el amanecer)>)>? ¡Muchas gracias, aventurer<if(gnum4,a,o)>! ¡No voy a olvidar este favor!
+TEXT_SUBSEA118_00415_SYSTEM_000_40	¡Un Qiqirn te descubrió!

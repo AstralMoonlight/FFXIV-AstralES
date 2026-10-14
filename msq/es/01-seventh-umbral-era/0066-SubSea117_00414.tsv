@@ -1,0 +1,83 @@
+key	text
+TEXT_SUBSEA117_00414_SEQ_00	Ghimthota, capitana de la guardia de los Moraby Drydocks, quiere tu ayuda para lidiar con unos posibles intrusos.
+TEXT_SUBSEA117_00414_SEQ_01	Ghimthota está convencida de que una banda de piratas traicioneros quiere sabotear la construcción del <italic(1)>Victory<italic(0)>. Habla con Urswyrst en la puerta principal o con C'nangho en la puerta trasera para saber si vieron algo sospechoso.
+TEXT_SUBSEA117_00414_SEQ_02	Hablaste con uno de los guardias y oíste un informe sobre un posible saboteador. Ve al acantilado de Empty Heart y averigua qué problema se está gestando.
+TEXT_SUBSEA117_00414_SEQ_03	Enfrentaste al marinero sospechoso, y te deja con unas palabras que te dan escalofríos. Vuelve rápido a los Drydocks e informa a Ghimthota.
+TEXT_SUBSEA117_00414_SEQ_04	Lograste impedir la destrucción del <italic(1)>Victory<italic(0)>. Sin embargo, salió a la luz que el líder de los piratas, Ahtzapfyn, es en realidad el padre de Ahtbyrm. Habla con el capataz atribulado y mira cómo está.
+TEXT_SUBSEA117_00414_SEQ_05	Aunque pone buena cara, está claro que la aparición inesperada de su padre sacudió profundamente a Ahtbyrm. Vuelve con Ghimthota y transmítele el agradecimiento y las disculpas de Ahtbyrm.
+TEXT_SUBSEA117_00414_SEQ_06	Ghimthota parece convencida de que volver pronto a trabajar en el <italic(1)>Victory<italic(0)> aliviará el corazón atribulado de Ahtbyrm. La capitana de la guardia te agradece tu ayuda y menciona que los aspirantes a saboteadores fueron entregados a los Yellowjackets. Sin embargo, hubo un descubrimiento importante del que quiere hablarte.
+TEXT_SUBSEA117_00414_TODO_00	Habla con uno de los guardias.
+TEXT_SUBSEA117_00414_TODO_01	Encuentra al marinero de mirada sospechosa.
+TEXT_SUBSEA117_00414_TODO_02	Informa a Ghimthota en los Moraby Drydocks.
+TEXT_SUBSEA117_00414_TODO_03	Habla con Ahtbyrm.
+TEXT_SUBSEA117_00414_TODO_04	Habla con Ghimthota.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_0	Estoy preocupada, <split(<string(gstr1)>, ,1)>. Parece que los piratas que te mandé a investigar se están moviendo.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_1	Se acercan cada vez más a los Drydocks, así que debo suponer que su objetivo es el mismísimo <italic(1)>Victory<italic(0)>.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_2	Ese barco es el símbolo de todo lo que Limsa Lominsa aspira a ser, y no voy a permitir que esos canallas viles le pongan un solo dedo encima al casco.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_3	¡Tenemos que atraparlos antes de que pongan en marcha sus planes! Y tú, <split(<string(gstr1)>, ,1)>, eres justo <if(gnum4,la mujer,el hombre)> para hacerlo.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_4	Sin tu valiosa ayuda, me temo que no se puede garantizar la seguridad de los Drydocks.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_5	Hace un momento, mis guardias me entregaron informes de actividad sospechosa en la zona. Te ruego que empieces escuchando de primera mano el relato de alguno de ellos.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_6	No importa con quién hables, pero asegúrate de interrogar a Urswyrst en la puerta principal o a C'nangho en la trasera.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_7	A todo presunto saboteador que encuentres durante la investigación hay que interrogarlo. Infórmame directamente de todo lo que descubras.
+TEXT_SUBSEA117_00414_URSWYRST_000_10	¿Ghimthota te mandó a seguir mi informe?
+TEXT_SUBSEA117_00414_URSWYRST_000_11	Pues no hace mucho vi a un tipo de mala pinta escabulléndose por lo alto del barranco, cerca de Empty Heart, ahí nomás.
+TEXT_SUBSEA117_00414_URSWYRST_000_12	Puede que todavía ande por ahí. Si tienes tiempo, aventurer<if(gnum4,a,o)>, te agradecería mucho que subieras a echar un vistazo.
+TEXT_SUBSEA117_00414_CNANGHO_000_20	Saludos, aventurer<if(gnum4,a,o)>. Me alegra tener otra mano a bordo para reforzar la seguridad.
+TEXT_SUBSEA117_00414_CNANGHO_000_21	Bien saben los dioses que nuestros informes juntarían polvo en el escritorio de Ghimthota si no fuera por la ayuda de gente como tú.
+TEXT_SUBSEA117_00414_CNANGHO_000_22	Hablando de informes, vi a uno de esos piratas sarnosos merodeando por el acantilado cerca de Empty Heart. Yo iría a echar un vistazo antes de que tenga ocasión de borrar sus huellas.
+TEXT_SUBSEA117_00414_CORSAIRFOLLOWA_000_30	Bah, me viste, ¿eh? Pues llegas tarde: lo que tiene que pasar ya está pasando.
+TEXT_SUBSEA117_00414_Q1_000_1	El deber llama. ¿Quieres comenzar<br>"Victory in Peril"?
+TEXT_SUBSEA117_00414_A1_000_1	Sí
+TEXT_SUBSEA117_00414_A1_000_2	No
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_40	Así que me encontraste a uno de esos piratas, ¿eh?
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_41	Sabía que eras <if(gnum4,la aventurera,el aventurero)> indicad<if(gnum4,a,o)> para pedir ayuda.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_42	Pero ¿qué estarán tramando esos bribones? "Lo que tiene que pasar ya está pasando"...
+TEXT_SUBSEA117_00414_MAELSTROM_000_43	¡Capitana! Ugh... Problemas... en el astillero... \<jadeo>
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_44	Tranquilo, soldado. ¿Quién te hizo esto?
+TEXT_SUBSEA117_00414_MAELSTROM_000_45	\<jadeo> Piratas... Salieron de la nada... \<tos> Me dieron con todo...
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_46	¡Por los dioses, no estamos preparados para esto!
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_47	Los piratas, soldado, ¿cuántos son?
+TEXT_SUBSEA117_00414_MAELSTROM_000_48	No sé... Más de los que pude contar... Parecía que llevaban... explosivos...
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_49	¿¡Explosivos!? ¡Entonces no hay tiempo que perder!
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_50	<split(<string(gstr1)>, ,1)>, ya oíste la situación. ¡Ve al astillero y enfréntate a esos intrusos!
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_51	Yo me ocupo de las heridas de este hombre y después te sigo.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_52	¡Rápido, ahora!
+TEXT_SUBSEA117_00414_AHTZAPFYN_000_60	¡Ja, ja, ja, ja! ¡Nunca creí que sería tan fácil! Todavía no me fío de esos desgraciados viscosos, ¡pero su plan funcionó de maravilla!
+TEXT_SUBSEA117_00414_AHTBYRM_000_61	¡Papá! ¿¡Qué estás haciendo, grandísimo idiota!?
+TEXT_SUBSEA117_00414_AHTZAPFYN_000_62	Cierra el pico, muchacho.
+TEXT_SUBSEA117_00414_AHTZAPFYN_000_63	Esto va a terminar pronto. Lo único que falta es volar en astillas este feo montón de madera de deriva.
+TEXT_SUBSEA117_00414_AHTBYRM_000_64	¿¡Por qué harías algo así!? ¿Tienes idea de lo importante que es este barco? ¿De lo que representa?
+TEXT_SUBSEA117_00414_AHTZAPFYN_000_65	¡Sí, y eso lo hace todavía más dulce! ¡Lo que haga falta para meterle algo de sentido común a mi hijo traidor y traicionero!
+TEXT_SUBSEA117_00414_AHTZAPFYN_000_66	¡Imagínate, un hijo <italic(1)>mío<italic(0)> dejando la vida de pirata para hacerse carpintero de ribera! ¡Y construyendo un maldito barco del Maelstrom, encima! ¿¡Qué demonios, bajo el ancho océano verde de Llymlaen, te hizo juntarte con estos santurrones de porquería!?
+TEXT_SUBSEA117_00414_AHTBYRM_000_67	¡El que no tiene sentido común eres tú, papá! ¿No lo ves? Los piratas tuvieron sus días de gloria, ¡pero esa época se terminó!
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_69	¡Ah! Ya me preguntaba por qué Ahtbyrm nunca hablaba de su padre. Jamás lo habría imaginado...
+TEXT_SUBSEA117_00414_AHTZAPFYN_000_70	Este barco es un símbolo, claro que sí ─ de todo lo que salió mal en el mundo. ¡Y pienso hacerlo pedazos, cien mil pedazos!
+TEXT_SUBSEA117_00414AHTBYRM_000_71	¡Ghimthota! ¡<split(<string(gstr1)>, ,1)>! ¡Les ruego que le den una paliza a esta babosa de mar hinchada y que no le pase nada al <italic(1)>Victory<italic(0)>!
+TEXT_SUBSEA117_00414_AHTZAPFYN_000_80	Me... me debo estar poniendo viejo, para dejar que <if(gnum4,una aventurera novata,un aventurero novato)> me gane.
+TEXT_SUBSEA117_00414_AHTBYRM_000_81	Papá...
+TEXT_SUBSEA117_00414_AHTZAPFYN_000_82	\<tos> Qué barco tan grande, maldita sea. Grande... y de aspecto temible. ¿Tú hiciste eso...?
+TEXT_SUBSEA117_00414_AHTBYRM_000_90	Gracias, <split(<string(gstr1)>, ,1)>. Me estremezco de pensar qué habría sido del <italic(1)>Victory<italic(0)> sin su intervención.
+TEXT_SUBSEA117_00414_AHTBYRM_000_91	\<suspiro> Los piratas dejaron un buen desastre; más vale que me ponga a ordenar los muelles.
+TEXT_SUBSEA117_00414_AHTBYRM_000_92	...Y a ordenar un poco mis ideas también. Mi padre siempre tuvo un don para ponerme la vida patas arriba.
+TEXT_SUBSEA117_00414_AHTBYRM_000_93	Le ruego que le transmita mi agradecimiento ─ y mis disculpas ─ a Ghimthota.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_100	¿Cómo estás, <split(<string(gstr1)>, ,1)>? No sé cómo agradecerte el papel que tuviste para detener esta locura.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_101	Defendiste algo más que un simple barco: salvaste de una muerte violenta la esperanza naciente de Limsa Lominsa. El día fue tuyo.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_102	Parece que nuestras medidas de seguridad van a necesitar muchas mejoras si de verdad queremos mantener a salvo los Drydocks.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_103	...¿Ahtbyrm se disculpa? Bueno, supongo que entiendo que se sienta responsable de lo que hizo su padre. De todos los involucrados, a él fue a quien más le costó este incidente.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_104	Pero creo que con el tiempo llegará a una sola conclusión: la mejor manera de dejar atrás su angustia es ver el <italic(1)>Victory<italic(0)> terminado y en el agua.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_105	Ah, por cierto, los piratas que derrotamos fueron entregados a los Yellowjackets. Los hombres de Reyner se harán cargo de la investigación.
+TEXT_SUBSEA117_00414_GHIMTHOTA_000_106	Pero antes de que llegaran los Yellowjackets, recuperamos un objeto de lo más inusual. Si tienes tiempo, quisiera pedirte otro favor...
+TEXT_SUBSEA117_00414_QIB_TODO001	¡Derrota a los piratas y protege el <italic(1)>Victory<italic(0)>!
+TEXT_SUBSEA117_00414_AHTBYRM_BATTLETALK_01	¡Papá, esto es una locura!
+TEXT_SUBSEA117_00414_AHTZAPFYN_BATTLETALK_02	¡Un pirata no abandona sus tesoros!
+TEXT_SUBSEA117_00414_AHTBYRM_BATTLETALK_03	Mi padre... ¡Tienen que detenerlo!
+TEXT_SUBSEA117_00414_GHIMTHOTA_BATTLETALK_04	Déjalo en nuestras manos.<br>¡<split(<string(gstr1)>, ,1)>, C'nangho, conmigo!
+TEXT_SUBSEA117_00414_MAMOOJA_BATTLETALK_11	¡Como acordamos, Ahtzapfyn!
+TEXT_SUBSEA117_00414_CNANGHO_BATTLETALK_12	¿¡Mercenarios Mamool Ja!?
+TEXT_SUBSEA117_00414_GHIMTHOTA_BATTLETALK_13	Yo me encargo de los Mamool Ja. Tú concéntrate en Ahtzapfyn.
+TEXT_SUBSEA117_00414_AHTZAPFYN_BATTLETALK_21	¡No tienes idea de contra quién te enfrentas!
+TEXT_SUBSEA117_00414_AHTZAPFYN_BATTLETALK_22	¡Ahora, quítate de mi maldito camino!
+TEXT_SUBSEA117_00414_AHTBYRM_BATTLETALK_23	¡Por favor! ¡No pueden dejar que gane!
+TEXT_SUBSEA117_00414_CNANGHO_BATTLETALK_31	¡Cuidado, aventurer<if(gnum4,a,o)>!<br>Ahtzapfyn tiene un brillo loco en los ojos...
+TEXT_SUBSEA117_00414_GHIMTHOTA_BATTLETALK_41	Protejan el barco...
+TEXT_SUBSEA117_00414_CNANGHO_BATTLETALK_42	Capitana, yo... ugh...

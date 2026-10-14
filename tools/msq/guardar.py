@@ -1,5 +1,6 @@
 # Usage: python -I tools/msq/guardar.py <msq/en/.../NNNN-Id.tsv> <draft.tsv> <msq/es/.../NNNN-Id.tsv>
 # The draft has one line per row: the key without its TEXT_<ID>_ prefix, a tab, and the Spanish.
+# A key that doesn't follow the prefix (the game has a few) goes in full, starting with TEXT_.
 # Checks every English key has a Spanish line, the same macros (gender <if> aside) and the same
 # emote commands (/doubt...), then writes the Spanish file. Exits 1 and lists problems otherwise.
 import os, re, sys
@@ -11,7 +12,7 @@ es = {}
 for l in open(draft_path, encoding='utf-8').read().splitlines():
     if l.strip():
         k, v = l.split('\t')
-        es[prefix + k] = v
+        es[k if k.startswith('TEXT_') else prefix + k] = v  # full key for the game's malformed ones
 
 keys = [r[0] for r in en]
 problems = [f'falta {k}' for k in keys if k not in es] + [f'sobra {k}' for k in es if k not in keys]

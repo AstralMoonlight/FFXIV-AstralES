@@ -1,0 +1,126 @@
+key	text
+TEXT_MANSEA007_00544_SEQ_00	Baderon tiene una tarea para un aventurero de confianza.
+TEXT_MANSEA007_00544_SEQ_01	Según Baderon, la misiva dirigida a Ahtzapfyn está escrita en letras sahagin y detalla los planes para destruir el <italic(1)>Victory<italic(0)>. Aunque el mensaje menciona un ataque de distracción contra Swiftperch, el dueño del Wench parece convencido de que los Serpent Reavers mienten y de que el verdadero objetivo es ese pueblo que tanto batalla. Toma la nota que Baderon tradujo a las apuradas y entrégasela al Commodore Reyner en la Coral Tower.
+TEXT_MANSEA007_00544_SEQ_02	Aunque Reyner agradece la advertencia de Baderon, cree que Swiftperch es solo uno de varios pueblos que los Serpent Raiders podrían planear atacar. Mientras el comodoro decide adónde mandar sus fuerzas, llega un Yellowjacket con la noticia de que los Sahagin están asaltando South Tidegate. Sin recursos para defender ambos lugares, Reyner te ordena ir cuanto antes a Swiftperch y hablar con el Yellowjacket Ryssfloh.
+TEXT_MANSEA007_00544_SEQ_03	Con ayuda de los Yellowjackets, derrotas a los Serpent Reavers saqueadores y les ahorras a los habitantes de Swiftperch un destino peor que la muerte.
+TEXT_MANSEA007_00544_SEQ_04	Según Y'shtola, a los Sahagin y a sus aliados piratas los manipulaba un mago enmascarado al que ella llama "Ascian". Aunque mucho sigue envuelto en misterio, sobre todo el extraño cristal negro que encontraste junto a los restos del mago, por fin salió a la luz la verdad detrás de los secuestros. Vuelve a la Coral Tower e informa al Commodore Reyner.
+TEXT_MANSEA007_00544_SEQ_05	Tu reunión con el Commodore Reyner se ve interrumpida por la llegada de la Admiral Merlwyb, que elogia tus valientes hazañas. En reconocimiento a tus servicios a Limsa Lominsa, insiste en que asistas como su invitad<if(gnum4,a,o)> de honor a un próximo banquete. Con tanto orgullo como nervios, esperas lo que promete ser una ocasión memorable.
+TEXT_MANSEA007_00544_TODO_00	Entrégale la nota de Baderon a Reyner.
+TEXT_MANSEA007_00544_TODO_01	Viaja a Swiftperch y habla con Ryssfloh.
+TEXT_MANSEA007_00544_TODO_02	Informa a Reyner en la Coral Tower.
+TEXT_MANSEA007_00544_TODO_03	Informa a Reyner en la Coral Tower.
+TEXT_MANSEA007_00544_BADERON_050_1	Qué bueno tenerte a bordo, <if(gnum4,muchacha,muchacho)>. Bueno... ¿por dónde empiezo?
+TEXT_MANSEA007_00544_BADERON_000_1	Cuando era más joven y más bruto, me ganaba la vida como mercenario. En ese oficio, si querías saber qué tramaba el enemigo, tenías que aprender a leer las órdenes que les sacabas de las manos frías y muertas a sus compañeros. Así aprendí a leer tu mensaje.
+TEXT_MANSEA007_00544_BADERON_000_2	A decir verdad, la escritura me resultaba de lo más conocida, maldita sea. Son letras <italic(1)>sahagin<italic(0)>, <if(gnum4,muchacha,muchacho)>. Y yo bien lo sé: destripé a más mensajeros lomos de pez de los que puedo contar.
+TEXT_MANSEA007_00544_BADERON_000_3	Pero la cosa empeora... El plan para volar el <italic(1)>Victory<italic(0)> está todo aquí, con lujo de detalles.
+TEXT_MANSEA007_00544_BADERON_000_4	Parece que querían armar un infierno en Western La Noscea y, en medio de la confusión, atacar el nuevo buque insignia del Maelstrom.
+TEXT_MANSEA007_00544_BADERON_000_5	O sea que el ataque al <italic(1)>Victory<italic(0)> no fue cosa de unos cuantos piratas rebeldes ─ era una pieza clave del gran plan de algún desgraciado astuto.
+TEXT_MANSEA007_00544_BADERON_000_6	Pero si leo bien, el ataque en sí llegó demasiado temprano. Apuesto a que les entró el pánico cuando vieron que les seguías la pista, se apuraron a hacer el trabajo y lo echaron a perder.
+TEXT_MANSEA007_00544_BADERON_000_7	Mmm... Esos desgraciados con la cara tatuada que dicen que le pagaban al viejo de Ahtbyrm son de los Serpent Reavers, ¿no? ...Pero ninguno de su tripulación estaba ahí, ¿o sí? ¿Tenían algo mejor que hacer, o qué?
+TEXT_MANSEA007_00544_BADERON_000_8	...¡Por los siete infiernos! ¡Lo entendí todo al revés! Ese lío del <italic(1)>Victory<italic(0)> ─ <italic(1)>esa<italic(0)> era la maldita distracción.
+TEXT_MANSEA007_00544_BADERON_000_9	¡A los lomos de pez no les interesa el bebé del Maelstrom! Van por <italic(1)>gente<italic(0)>, como siempre. Mandan a sus lacayos piratas contra un objetivo civil.
+TEXT_MANSEA007_00544_BADERON_000_10	Esto de armar un infierno en Western La Noscea... ahí es donde va a ser. ¡Algo me dice que a Swiftperch le van a dar, y fuerte!
+TEXT_MANSEA007_00544_BADERON_000_11	Aquí tienes una traducción aproximada del mensaje.
+TEXT_MANSEA007_00544_BADERON_000_12	Llévasela al Commodore Reyner a la Coral Tower y dile que le espera un día movido.
+TEXT_MANSEA007_00544_BADERON_000_13	Ah, y échale una mano, ¿eh? Puedes estar segur<if(gnum4,a,o)> de que la va a necesitar.
+TEXT_MANSEA007_00544_REYNER_000_20	Sí, soy Reyner. Ah, usted debe de ser <if(gnum4,la aventurera,el aventurero)> de quien todo el mundo habla.
+TEXT_MANSEA007_00544_REYNER_000_21	Merece elogios por su papel en frustrar el plan para destruir el <italic(1)>Victory<italic(0)>. Ahora bien, ¿qué puedo hacer por usted hoy?
+TEXT_MANSEA007_00544_REYNER_000_22	¿Trae un mensaje urgente de Baderon? ¿Por qué tengo la sensación de que mis esperanzas de <if([gnum11<12],<if([gnum11<4],una noche tranquila,una mañana tranquila)>,<if([gnum11<17],una tarde tranquila,una noche tranquila)>)> están por esfumarse cruelmente? Dígame, ¿qué ocurre?
+TEXT_MANSEA007_00544_REYNER_000_30	¿¡Un ataque a Swiftperch!? Pero no vimos nada que sugiera que los Serpent Reavers se están reuniendo para atacar.
+TEXT_MANSEA007_00544_REYNER_000_31	Aun así, sería una tontería descartar la posibilidad: Baderon rara vez se equivoca en estos asuntos.
+TEXT_MANSEA007_00544_REYNER_000_32	Movilizaré a los Yellowjackets para la batalla de inmediato.
+TEXT_MANSEA007_00544_REYNER_000_33	La única duda es adónde mandarlos. Aunque coincido con Baderon en que el ataque a los Drydocks era una distracción, Swiftperch es solo uno de varios objetivos posibles para el golpe principal.
+TEXT_MANSEA007_00544_YELLOWJACKET_000_34	¡Commodore, señor!
+TEXT_MANSEA007_00544_REYNER_000_35	Informe.
+TEXT_MANSEA007_00544_YELLOWJACKET_000_36	¡Son los Sahagin, señor! Lanzaron un asalto a gran escala contra South Tidegate, y amenazan con arrollar nuestras defensas antes de que termine el día. La guarnición pide refuerzos de inmediato.
+TEXT_MANSEA007_00544_REYNER_000_37	Por la Navigator... Parece que la decisión ya está tomada.
+TEXT_MANSEA007_00544_REYNER_000_38	Reúna a las tropas y dé la orden de marcha.
+TEXT_MANSEA007_00544_REYNER_000_39	Sí, los Serpent Reavers están aliados con los Sahagin.
+TEXT_MANSEA007_00544_REYNER_000_40	...Lo que significa que es muy posible que este asalto a Tidegate resulte ser otra finta. Pero lo cierto es que no podemos permitirnos ignorarlo. Y eso deja a Swiftperch a merced de esos piratas traidores.
+TEXT_MANSEA007_00544_REYNER_000_41	En momentos como este quisiera que los Warriors of Light siguieran entre nosotros. Pero los deseos no nos servirán de nada. <split(<string(gstr1)>, ,2)>, <italic(1)>usted<italic(0)> tendrá que ocupar su lugar. Vaya cuanto antes a Swiftperch y preste su fuerza a los pelotones que puedo destinar a la defensa del pueblo.
+TEXT_MANSEA007_00544_RYSSFLOH_000_45	El Commodore Reyner avisó que nos mandaban refuerzos, ¡pero no esperaba que te mandara a ti! Aunque se nota que viste tu buena dosis de acción: ya no te pareces en nada al cachorro con ojos de asombro que conocí recién bajad<if(gnum4,a,o)> del barco.
+TEXT_MANSEA007_00544_RYSSFLOH_000_46	En fin, ¿sabes por qué peleas aquí? Este lugar ─ Swiftperch ─ lo reconstruyó gente que se mantuvo firme ante cada penuria que le tiró la Calamidad.
+TEXT_MANSEA007_00544_RYSSFLOH_000_47	Y no vamos a dejar que una escoria lamebotas de los peces se lleve el honor de ser la que por fin les quebró el espíritu. No les cedas a esos piratas desgraciados ni un maldito ilm, ¿me oíste?
+TEXT_MANSEA007_00544_Q1_000_1	El deber llama. ¿Quieres comenzar<br>"Feint and Strike"?
+TEXT_MANSEA007_00544_A1_000_1	Sí
+TEXT_MANSEA007_00544_A1_000_2	No
+TEXT_MANSEA007_00544_GLAZRAEL_000_50	¡Ahí vienen!
+TEXT_MANSEA007_00544_DECKMAN_000_51	Oye, ¿no se suponía que todos esos gusanos Yellowjackets iban a estar ocupados? Ese granuja inútil no siguió el plan, ¿eh?
+TEXT_MANSEA007_00544_HELMSMAN_000_52	¿Y ahora qué? ¿Nos replegamos y esperamos a nuestros hermanos Sahagin?
+TEXT_MANSEA007_00544_BAENRYSS_000_53	¡Al diablo con eso! ¡No vamos a volver con las manos vacías!
+TEXT_MANSEA007_00544_BAENRYSS_000_54	Recuerden: nada de matar a la gente común, ¡o va a ser <italic(1)>su<italic(0)> sangre la que manche los altares del Lord Leviathan!
+TEXT_MANSEA007_00544_BAENRYSS_000_55	¡A los Yellowbellies los pueden carnear a gusto! ¡Esas babosas come-tierra van a quedar aplastadas bajo todo el poder de los Serpent Reavers!
+TEXT_MANSEA007_00544_RYSSFLOH_000_56	Parece que el objetivo principal sí era Swiftperch, ¿eh?
+TEXT_MANSEA007_00544_RYSSFLOH_000_57	¡Pelotones Uno y Dos, protejan a los vecinos! ¡Pelotón Tres, ustedes son la retaguardia!
+TEXT_MANSEA007_00544_RYSSFLOH_000_58	¡Los demás ─ recibimos su carga aquí mismo! ¡Que le llevemos al comodoro noticias de nuestra victoria, o ninguna noticia!
+TEXT_MANSEA007_00544_YELLOWJACKETS_000_58	(-Infantería de los Yellowjackets-)¡Por Limsa Lominsa!
+TEXT_MANSEA007_00544_BAENRYSS_000_59	¡Raaargh! ¡Voy a destripar a todos ustedes, Yellowbellies, y bailar sobre sus mollejas!
+TEXT_MANSEA007_00544_RYSSFLOH_000_70	Bien peleado: los Reavers están derrotados y dispersos.
+TEXT_MANSEA007_00544_RYSSFLOH_000_71	Voy a llevarme unos hombres para cazar a los rezagados. Ah, pero puede que todavía haya más merodeando, así que no bajes la guardia todavía.
+TEXT_MANSEA007_00544_MASKEDMAGUS_000_72	Ya se ve de dónde saca su fuerza...
+TEXT_MANSEA007_00544_MASKEDMAGUS_000_73	Habréis vencido al golem, pero hoy no os irá tan bien.
+TEXT_MANSEA007_00544_MASKEDMAGUS_000_74	<colortype(547)>¡Oh, voz doliente de la creación! ¡Enviadme una criatura del abismo, esclava a mis órdenes, para que abata a mis enemigos!<colortype(0)>
+TEXT_MANSEA007_00544_MASKEDMAGUS_000_75	Vuestra sola existencia pone en peligro el plan. No se os puede permitir vivir.
+TEXT_MANSEA007_00544_MASKEDMAGUS_000_80	Unnngh... Que la sabiduría de los Paragons sea derribada... por simples mortales...
+TEXT_MANSEA007_00544_YSHTOLA_000_81	"Paragons", ¿dijo? Entonces es lo que me temía.
+TEXT_MANSEA007_00544_YSHTOLA_000_82	Se los conoce como los Bringers of Chaos... o <italic(1)>Ascians<italic(0)>, por darles su nombre propio.
+TEXT_MANSEA007_00544_YSHTOLA_000_83	Parece que nuestras sospechas eran correctas: son ellos quienes manipulan a las beast tribes.
+TEXT_MANSEA007_00544_YSHTOLA_000_84	¿Perdón? ¿Quieres saber si los sharlayanos ya nos topamos antes con los Ascians?<br>...Nunca te hablé de mi tierra. ¿Cómo sabías de dónde vengo?
+TEXT_MANSEA007_00544_YSHTOLA_000_85	Espera. Empiezo a entender. Tienes un don especial.
+TEXT_MANSEA007_00544_RYSSFLOH_000_86	¿¡Estás bien, <if(gnum4,muchacha,muchacho)>!? Si hubiera sabido que un desgraciado así de peligroso se escondía entre los arbustos, te habría dejado un pelotón o seis de compañía.
+TEXT_MANSEA007_00544_RYSSFLOH_000_87	Bueno, al menos ahora podemos cerrar esta investigación de los secuestros. Esos Reavers eran los que se llevaban a la gente en plena noche, y este desgraciado era el que movía los hilos.
+TEXT_MANSEA007_00544_YSHTOLA_000_88	Un poco simplista, pero no inexacto.
+TEXT_MANSEA007_00544_YSHTOLA_000_89	Vine en cuanto sentí su presencia, pero nunca pensé encontrar semejante carnicería. Aun así, vencimos. Y gracias a tus acciones heroicas, aprendí mucho.
+TEXT_MANSEA007_00544_RYSSFLOH_000_90	Sí, "heroicas" es la palabra. No quiero ni pensar qué habría pasado si no hubieras estado aquí, amig<if(gnum4,a,o)>.
+TEXT_MANSEA007_00544_RYSSFLOH_000_91	Y también le agradecemos mucho su ayuda, Lady Y'shtola. Por favor, salude de nuestra parte a los Scions.
+TEXT_MANSEA007_00544_YSHTOLA_000_92	Me alegra haber contribuido a poner fin, espero, a esta inquietante ola de secuestros.
+TEXT_MANSEA007_00544_YSHTOLA_000_93	El hilo de tu destino forma parte de un tapiz de lo más intrigante. Quizá tengamos ocasión de hablar más en un futuro cercano.
+TEXT_MANSEA007_00544_YSHTOLA_000_94	Por ahora, sin embargo, debes llevar esta historia hasta el final. Te ruego que saludes de mi parte al Commodore Reyner.
+TEXT_MANSEA007_00544_GLAZRAEL_000_97	¡Finta tras maldita finta! ¡Esos piratas se están volviendo demasiado listos!
+TEXT_MANSEA007_00544_YELLOWJACKETA_000_98	¿Vienes a ayudar con la defensa? ¡Entonces bien hallad<if(gnum4,a,o)> y bienvenid<if(gnum4,a,o)>!
+TEXT_MANSEA007_00544_YELLOWJACKETB_000_99	¡Vamos, cobardes desgraciados! ¡A ver qué tal les va contra soldados entrenados!
+TEXT_MANSEA007_00544_REYNER_000_100	¡<split(<string(gstr1)>, ,2)>, esperaba con ansias su regreso!
+TEXT_MANSEA007_00544_REYNER_000_101	La noticia de sus hazañas ya corre entre las filas. Mis tropas y yo le debemos mucha gratitud por su oportuna ayuda.
+TEXT_MANSEA007_00544_REYNER_000_102	Demostró tener brazo firme, espíritu fuerte y buen juicio. Ojalá Limsa Lominsa tuviera más gente como usted.
+TEXT_MANSEA007_00544_REYNER_000_103	No me cabe duda de que algún día estará entre los más grandes aventureros de Eorzea. Es solo cuestión de tiempo.
+TEXT_MANSEA007_00544_REYNER_000_104	Está claro que Baderon sigue teniendo tan buen ojo para el potencial como siempre, aunque dudo que ni siquiera <italic(1)>él<italic(0)> <if(gnum4,la,lo)> creyera capaz de semejantes hazañas.
+TEXT_MANSEA007_00544_REYNER_000_105	¿Me haría el favor de contarme usted <if(gnum4,misma,mismo)> lo que pasó hoy? ¡Victorias así merecen contarse!
+TEXT_MANSEA007_00544_REYNER_000_110	Verá, Y'shtola trabaja con nosotros desde hace bastante tiempo.
+TEXT_MANSEA007_00544_REYNER_000_111	Y estuvo más que dispuesta a ayudar a los Yellowjackets en la investigación de los secuestros, demostrando una vez más ser una firme aliada de Limsa Lominsa.
+TEXT_MANSEA007_00544_REYNER_000_112	Ni hace falta decir que, después de su papel en frustrar el sabotaje del <italic(1)>Victory<italic(0)>, y el pequeño detalle de sus hazañas en Swiftperch, usted también demostró ser <if(gnum4,una valiosa amiga,un valioso amigo)> de la talasocracia.
+TEXT_MANSEA007_00544_YELLOWJACKET_000_113	¡Admiral!
+TEXT_MANSEA007_00544_REYNER_000_204	Permítame presentarle a la Admiral Bloefhiswyn.
+TEXT_MANSEA007_00544_400010_MERLWYB	Así que <if(gnum4,esta es la aventurera,este es el aventurero)> de quien leo en los informes de campo.
+TEXT_MANSEA007_00544_400020_MERLWYB	Me resulta familiar. ¿Nos conocemos? ¿Quizá en alguna entrega de medallas o algo así?
+TEXT_MANSEA007_00544_400030_MERLWYB	¿No? ¿Tiene parientes en el Maelstrom?
+TEXT_MANSEA007_00544_400040_MERLWYB	Juraría que─ Pero no importa. Vamos al grano.
+TEXT_MANSEA007_00544_400050_MERLWYB	Soy Merlwyb Bloefhiswyn, Admiral de Limsa Lominsa.
+TEXT_MANSEA007_00544_400060_MERLWYB	En nombre de mi pueblo, le agradezco lo que hizo hoy.
+TEXT_MANSEA007_00544_400070_MERLWYB	Una muestra de nuestra gratitud. ¿De qué vale la estima sin una recompensa justa, después de todo? ¡Ja!
+TEXT_MANSEA007_00544_400080_MERLWYB	Desde que puso un pie en nuestra ciudad, mi buen amigo Baderon y el Commodore Reyner se turnan para contarme sus hazañas.
+TEXT_MANSEA007_00544_400090_MERLWYB	Basta decir que me dejaron impresionada. Acompáñeme en el próximo banquete.
+TEXT_MANSEA007_00544_400100_MERLWYB	Un asiento de honor en el festín de celebración es lo mínimo que puedo ofrecerle a <if(gnum4,la mujer,el hombre)> que frustró a los Sahagin.
+TEXT_MANSEA007_00544_400110_YELLOWJACKET	¡Oh!
+TEXT_MANSEA007_00544_400120_YELLOWJACKET	¡Un asiento en el festín!
+TEXT_MANSEA007_00544_400130_MERLWYB	Ah, y no llegue tarde.
+TEXT_MANSEA007_00544_400140_MERLWYB	Los demás invitados estarán ansiosos por tomarle la medida a <if(gnum4,su nueva heroína,su nuevo héroe)>, y algunos no llevan bien que los hagan esperar. Hasta entonces, que camine bajo la luz del Cristal.
+TEXT_MANSEA007_00544_QIB_TODO001	Derrota a los Serpent Reavers.
+TEXT_MANSEA007_00544_QIB_RYSSFLOH_01	¡Que no quede en pie ni un pirata de porquería! ¡Muéstrenles cómo pelea un Yellowjacket!
+TEXT_MANSEA007_00544_QIB_GLAZRAEL_01	¡Ja, ja, ja! ¡Hora de partir unas cuantas cabezas, aventurer<if(gnum4,a,o)>! ¡Empecemos por la carne de cañón de la primera línea!
+TEXT_MANSEA007_00544_QIB_RYSSFLOH_REACT_TO_VOID	¿¡Eso es un maldito <italic(1)>voidsent<italic(0)>!? ¡Firmes, muchachos!
+TEXT_MANSEA007_00544_QIB_RYSSFLOH_02	¿¡Más desgraciados!? ¡Vengan, entonces!
+TEXT_MANSEA007_00544_QIB_BOSS_01	Muy bien, sabandijas sarnosas... ¡Aquí va un truco para que se mojen los pantalones!
+TEXT_MANSEA007_00544_QIB_BOSS_02	¡Morador del Abismo, tu amo te llama! ¡Escucha mis palabras y abate a mis enemigos!
+TEXT_MANSEA007_00544_QIB_RYSSFLOH_DEAD	Maldición...
+TEXT_MANSEA007_00544_QIB_GLAZRAEL_DEAD	Al menos caí peleando...
+TEXT_MANSEA007_00544_QIB_YELLOWJACKETARMYA_DEAD	Qué frío...
+TEXT_MANSEA007_00544_QIB_YELLOWJACKETARMYB_DEAD	Estoy acabado...
+TEXT_MANSEA007_00544_QIB_GLAZRAEL_BOSS_HP25_REACT	¡Sigue dándole! ¡No va a aguantar mucho más!
+TEXT_MANSEA007_00544_QIB_TODO002	¡Derrota al mago enmascarado!
+TEXT_MANSEA007_00544_QIB_MASKEDMAGUS_START	¡Pronto os llevaréis a la tumba vuestros viles dones!
+TEXT_MANSEA007_00544_QIB_MASKEDMAGUS_POISON	¡Mwahahaha! ¡Retorceos mientras el veneno os corroe las venas!
+TEXT_MANSEA007_00544_QIB_MASKEDMAGUS_01	Una invitada indeseada. No importa: ¡todos caerán ante mí!
+TEXT_MANSEA007_00544_QIB_MASKEDMAGUS_HP60	¿¡De dónde sale este poder sobrenatural!?
+TEXT_MANSEA007_00544_QIB_YSHTOLA_ENTER	Un oponente temible... ¡pero no lo enfrentarás sin compañía!
+TEXT_MANSEA007_00544_QIB_MASKEDMAGUS_HP40	¡Ningún mortal debería tener semejante fuerza!
+TEXT_MANSEA007_00544_QIB_YSHTOLA_MASKEDMAGUS_HP20	¡Su poder se debilita! ¡No le des ocasión de recuperarse!

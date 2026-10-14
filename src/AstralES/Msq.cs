@@ -66,7 +66,7 @@ public sealed unsafe class Msq : IDisposable
         // subtitles, the answer lists and whatever else carries quest text are all covered.
         lifecycle.RegisterListener(AddonEvent.PreSetup, OnAddon);
         lifecycle.RegisterListener(AddonEvent.PreRefresh, OnAddon);
-        lifecycle.RegisterListener(AddonEvent.PreDraw, "TalkSubtitle", OnSubtitleDraw);
+        lifecycle.RegisterListener(AddonEvent.PreDraw, ["TalkSubtitle", "_BattleTalk"], OnSubtitleDraw);
         lifecycle.RegisterListener(AddonEvent.PreRequestedUpdate, Arrays.Keys, OnArrayUpdate);
         clientState.Login += Reset;
     }
@@ -168,8 +168,9 @@ public sealed unsafe class Msq : IDisposable
         }
     }
 
-    // The opening's "Hear... Feel... Think..." shows in TalkSubtitle. If its text does not come in
-    // through the window's values, it is swapped here in its text nodes, just before drawing.
+    // The opening's "Hear... Feel... Think..." shows in TalkSubtitle, and the lines spoken mid-fight
+    // ("Well done! We're almost there!") in _BattleTalk, which gets its text from
+    // UIModule.ShowBattleTalk, not from its values. Both are swapped here in their text nodes, just before drawing.
     // ponytail: rewrites the node after layout (a longer line is not re-centred); drop this once
     // the diagnostics show the text arriving in AtkValues.
     private void OnSubtitleDraw(AddonEvent type, AddonArgs args)
@@ -195,7 +196,7 @@ public sealed unsafe class Msq : IDisposable
                     continue;
 
                 if (diagnostics())
-                    Report($"[diag] TalkSubtitle nodo {node->NodeId}: {plain}");
+                    Report($"[diag] {args.AddonName} nodo {node->NodeId}: {plain}");
 
                 if (table.TryGetValue(plain, out var spanish))
                     textNode->SetText([.. spanish.Data.Span, 0]);
