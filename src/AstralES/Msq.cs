@@ -27,6 +27,15 @@ public sealed unsafe class Msq : IDisposable
     private static readonly string[] Dialogue = ["Talk", "TalkSubtitle"];
 
     // "(-Grizzled Passenger-)Hello" shows "Grizzled Passenger" as the speaker and "Hello" as the line.
+    // The duty list and the journal read their text from the game's global string arrays, not from
+    // their AtkValues: those arrays are translated just before the window updates from them.
+    private static readonly Dictionary<string, StringArrayType> Arrays = new()
+    {
+        ["_ToDoList"] = StringArrayType.ToDoList,
+        ["Journal"] = StringArrayType.Journal,
+        ["JournalDetail"] = StringArrayType.Journal,
+    };
+
     private static readonly Regex SpeakerPrefix = new(@"^\(-(.*?)-\)", RegexOptions.Compiled);
 
     private readonly IAddonLifecycle lifecycle;
@@ -57,6 +66,7 @@ public sealed unsafe class Msq : IDisposable
         lifecycle.RegisterListener(AddonEvent.PreSetup, OnAddon);
         lifecycle.RegisterListener(AddonEvent.PreRefresh, OnAddon);
         lifecycle.RegisterListener(AddonEvent.PreDraw, "TalkSubtitle", OnSubtitleDraw);
+        lifecycle.RegisterListener(AddonEvent.PreRequestedUpdate, Arrays.Keys, OnArrayUpdate);
         clientState.Login += Reset;
     }
 
@@ -116,6 +126,40 @@ public sealed unsafe class Msq : IDisposable
             // A dialogue box must never take the game down: log once and leave it in English.
             if (reported.Add("msq-error"))
                 log.Error(ex, "MSQ translation failed");
+        }
+    }
+
+    private void OnArrayUpdate(AddonEvent type, AddonArgs args)
+    {
+        if (!enabled() || !clientState.IsLoggedIn)
+            return;
+
+        try
+        {
+            var strings = AtkStage.Instance()->GetStringArrayData(Arrays[args.AddonName]);
+            table ??= Build();
+
+            for (var i = 0; strings is not null && i < strings->Size; i++)
+            {
+                var value = strings->StringArray[i];
+
+                if (value.Value is null)
+                    continue;
+
+                var plain = Normalize(value.AsReadOnlySeStringSpan().ExtractText());
+
+                if (diagnostics() && plain.Any(char.IsLetter))
+                    Report($"[diag] {args.AddonName} arreglo[{i}]: {value.AsReadOnlySeStringSpan().ToMacroString()}");
+
+                // managed: the array keeps its own copy; suppressUpdates: we are already inside the update.
+                if (table.TryGetValue(plain, out var spanish))
+                    strings->SetValue(i, spanish.Data.Span, false, true, true);
+            }
+        }
+        catch (Exception ex)
+        {
+            if (reported.Add("array-error"))
+                log.Error(ex, "Duty list / journal translation failed");
         }
     }
 
@@ -234,7 +278,7 @@ public sealed unsafe class Msq : IDisposable
 
     public void Dispose()
     {
-        lifecycle.UnregisterListener(OnAddon, OnSubtitleDraw);
+        lifecycle.UnregisterListener(OnAddon, OnSubtitleDraw, OnArrayUpdate);
         clientState.Login -= Reset;
     }
 }

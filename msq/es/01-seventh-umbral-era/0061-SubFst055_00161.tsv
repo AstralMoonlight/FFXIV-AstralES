@@ -1,0 +1,74 @@
+key	text
+TEXT_SUBFST055_00161_SEQ_00	Luquelot, en Bentbranch Meadows, te pide ayuda para encontrar un huevo de chocobo perdido.
+TEXT_SUBFST055_00161_SEQ_01	Luquelot te cuenta que robaron un huevo de los establos. Al parecer, ese huevo es muy importante para él. Interroga a la gente de Bentbranch Meadows y averigua qué pistas hay sobre su paradero.
+TEXT_SUBFST055_00161_SEQ_02	Terminaste de interrogar a los trabajadores del rancho. Cuéntale a Luquelot lo que averiguaste.
+TEXT_SUBFST055_00161_SEQ_03	El ladrón parece ser un hombre de Ishgard, la tierra natal de Luquelot. Sigue su rastro hasta el Tam<-->Tara Deepcroft y recupera el huevo de Leia.
+TEXT_SUBFST055_00161_SEQ_04	Ganas el enfrentamiento con el ladrón de huevos. Toma el huevo de Leia.
+TEXT_SUBFST055_00161_SEQ_05	Devuélvele el huevo de Leia a Luquelot en Bentbranch Meadows.
+TEXT_SUBFST055_00161_SEQ_06	Recuperaste el huevo de Leia y lo llevaste de vuelta a Bentbranch Meadows, para alivio de todos en el rancho. Habla con Luquelot, que sin duda querrá recompensarte.
+TEXT_SUBFST055_00161_SEQ_07	Después de agradecerte una y otra vez tu ayuda, Luquelot te cuenta que, mientras no estabas, vio algo muy alarmante. Dada su evidente preocupación, quizás convenga pedirle al inquieto Elezen que te dé los detalles.
+TEXT_SUBFST055_00161_TODO_00	Interroga a la gente de Bentbranch Meadows.
+TEXT_SUBFST055_00161_TODO_01	Habla con Luquelot.
+TEXT_SUBFST055_00161_TODO_02	Somete al ladrón y recupera el huevo de Leia.
+TEXT_SUBFST055_00161_TODO_03	Recupera el huevo de Leia.
+TEXT_SUBFST055_00161_TODO_04	Devuélvele el huevo de Leia a Luquelot.
+TEXT_SUBFST055_00161_TODO_05	Habla con Luquelot.
+TEXT_SUBFST055_00161_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión del escenario principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
+TEXT_SUBFST055_00161_LUQUELOT_000_001	¡No! ¡Oh, por los dioses, no! ¡El huevo de Leia!
+TEXT_SUBFST055_00161_LUQUELOT_000_002	¡<split(<string(gstr1)>, ,1)>, tiene que ayudarme! Salí de los establos solo un momento, ¡y cuando volví ya <italic(1)>no estaba<italic(0)>!
+TEXT_SUBFST055_00161_LUQUELOT_000_003	Yo─ ¿Qué no estaba? ¡Un huevo! ¿Cómo dice? ¡¿Que las chocobos pondrán otro?! ¡Agh! No lo entiende ─ ¡ese huevo es valiosísimo! ¡<italic(1)>Tengo<italic(0)> que encontrarlo!
+TEXT_SUBFST055_00161_LUQUELOT_000_004	Me va a ayudar, ¿verdad, <split(<string(gstr1)>, ,1)>? ¡Oh, gracias, gracias!
+TEXT_SUBFST055_00161_LUQUELOT_000_005	Alguien tuvo que llevárselo. No hay otra explicación. Revisaré cada ilm del establo otra vez, para estar seguro. Mientras tanto, le agradecería mucho que les preguntara a los demás si notaron algo raro.
+TEXT_SUBFST055_00161_LAODAIRE_000_011	¿Desapareció un huevo de chocobo? Mmm, a ver, déjeme pensar.
+TEXT_SUBFST055_00161_LAODAIRE_000_012	Ahora que lo dice, hace un rato los chocobos <italic(1)>sí<italic(0)> estaban armando un escándalo. Tanto que corrí a revisarlos, y en el apuro casi atropello a un buhonero que pasaba. Pero no encontré nada fuera de lo normal.
+TEXT_SUBFST055_00161_LAODAIRE_000_013	¿Hm? ¿Si puedo describir al buhonero? Oh...era un tipo Elezen ─ no reconocí su cara. Se le veía muy nervioso. Oh, por los <italic(1)>dioses<italic(0)>, ¿no creerá que él...? ¡¿Por qué rayos no lo detuve?!
+TEXT_SUBFST055_00161_BERNARD_000_021	¿Si vi algún personaje raro por aquí? ¿Aparte de usted, quiere decir? No que yo recuerde.
+TEXT_SUBFST055_00161_BERNARD_000_022	Sí vi a alguien calmando a las aves, pero solo de lejos. Supuse que era Luquelot...
+TEXT_SUBFST055_00161_BERNARD_000_023	Pero si dice que él no estaba en los establos en ese momento...¿entonces quién era el que estaba con los chocobos?
+TEXT_SUBFST055_00161_EWMOND_000_031	¿Si vi a alguien sospechoso? Claro que sí, <if(gnum4,muchacha,muchacho)>. Un hombre, era, que salió corriendo hacia el Tam<-->Tara Deepcroft.
+TEXT_SUBFST055_00161_EWMOND_000_032	¿Hm? ¿Dices que se llevaron un huevo? Entonces yo diría que ese era tu culpable.
+TEXT_SUBFST055_00161_EWMOND_000_033	Pero ¿quién se robaría un huevo de chocobo? Sin los conocimientos adecuados, es casi imposible hacer que uno empolle.
+TEXT_SUBFST055_00161_LUQUELOT_000_041	Entonces no hay duda. El huevo fue robado.
+TEXT_SUBFST055_00161_LUQUELOT_000_042	Y por lo que me cuenta, no fue un simple robo.
+TEXT_SUBFST055_00161_LUQUELOT_000_043	Que el culpable se llevara solo el huevo de Leia y dejara todos los demás me dice que se trata de alguien que sabe mucho de cría de chocobos. Lamento decir que lo más probable es que sea un ciudadano de mi Ishgard natal.
+TEXT_SUBFST055_00161_LUQUELOT_000_044	Verá, Leia es del linaje de Ouranos ─ una de las mejores aves que jamás haya honrado un establo ishgardiano.
+TEXT_SUBFST055_00161_LUQUELOT_000_045	En mi tierra, más de uno daría su brazo derecho por tener uno de los huevos de Leia... ¡Dioses, debí preverlo! ¡Tenemos que perseguirlo de inmediato!
+TEXT_SUBFST055_00161_KEITHA_000_046	¡Para el carro, Luquelot! Si ese ladrón de huevos es de Ishgard, como dices, ¿por qué salió corriendo hacia el Tam<-->Tara Deepcroft? Si no tengo el mapa de la cabeza al revés, esa es la dirección contraria.
+TEXT_SUBFST055_00161_LUQUELOT_000_047	B-Bueno, sí, pero...puede que quiera dejar una pista falsa, o...eh... ¡Bah! ¡El porqué no importa! ¡Lo único que importa es el huevo de Leia! <if(gnum4,Aventurera,Aventurero)>, se lo ruego, ¡encuentre a ese canalla y recupere lo que robó!
+TEXT_SUBFST055_00161_KEITHA_000_048	Bueno, al menos no piensas perseguirlo tú mismo...sea de donde sea.
+TEXT_SUBFST055_00161_KEITHA_000_049	Con nuestras aves hacemos maravillas, <split(<string(gstr1)>, ,1)>, pero las hazañas de valor no son lo nuestro, que digamos. Si no te molesta, esa parte te la dejamos a ti.
+TEXT_SUBFST055_00161_KEITHA_000_050	Con suerte, alcanzarás al ladrón en el camino al Tam<-->Tara Deepcroft, pero ten cuidado ─ no sabemos si actúa solo en esto.
+TEXT_SUBFST055_00161_JANREMI_000_061	\<jadeo> \<resuello> ¡Por fin te atrapé, diablillo rencoroso! ¡Ahora entrégame el huevo!
+TEXT_SUBFST055_00161_KUPULUKOPO_000_062	¡No te lo voy a dar, kupo! ¡Este huevo es de Luquelot!
+TEXT_SUBFST055_00161_JANREMI_000_063	¿Y tú quién demonios eres, por la furia de Halone? Ah, ¿así que esos blandos de Bentbranch se contrataron a alguien del gremio de aventureros?
+TEXT_SUBFST055_00161_JANREMI_000_064	<italic(1)>Otra<italic(0)> complicación más. Esta farsa ya duró demasiado. ¡Maten al moogle y al lacayo de los granjeros, y tráiganme ese maldito huevo!
+TEXT_SUBFST055_00161_KUPULUKOPO_000_071	Gracias, kupo.
+TEXT_SUBFST055_00161_KUPULUKOPO_000_072	¿Qué dices, kupo? ¿Cómo terminé aquí afuera?
+TEXT_SUBFST055_00161_KUPULUKOPO_000_073	Ah, bueno, este huevo es de Leia. Leia es una chocobo muy especial, por si no lo sabías. En fin, yo estaba durmiendo la siesta en los establos cuando ese tipo malvado se metió a escondidas e intentó robarlo, ¡kupo!
+TEXT_SUBFST055_00161_KUPULUKOPO_000_074	Así que lo agarré lo más rápido que pude y salí corriendo. <italic(1)>Pensaba<italic(0)> llevarlo de vuelta a Bentbranch Meadows yo mismo, pero quizás sea más seguro que lo hagas tú. ¡Seguro que Luquelot se va a alegrar mucho de verte, kupo!
+TEXT_SUBFST055_00161_SYSTEM_000_75	Recibes con cuidado el huevo de Leia.
+TEXT_SUBFST055_00161_LUQUELOT_000_081	¡¿Tiene el huevo?! ¡¿Está a salvo?!
+TEXT_SUBFST055_00161_LUQUELOT_000_082	Sí, tiene el color correcto, el peso correcto... Es sin ninguna duda el huevo de Leia.
+TEXT_SUBFST055_00161_LUQUELOT_000_083	No sé cómo agradecérselo.
+TEXT_SUBFST055_00161_KEITHA_000_084	Me tuviste preocupada un rato, <split(<string(gstr1)>, ,1)>. Qué bueno verte de vuelta con el huevo, sanos y salvos los dos.
+TEXT_SUBFST055_00161_LUQUELOT_000_085	...Así que acerté al suponer que había un ishgardiano metido en esto ─ aunque no fue él quien se llevó el huevo. ¡Bueno, difícilmente podía prever que intervendría un moogle!
+TEXT_SUBFST055_00161_KEITHA_000_086	Maldita sea... No puede ser el mismo...¿o sí?
+TEXT_SUBFST055_00161_LUQUELOT_000_087	¿Acaso ya conocías a nuestro inesperado salvador, Keitha?
+TEXT_SUBFST055_00161_KEITHA_000_088	Puede ser, sí. Uno de ellos me salvó el pellejo cuando llegó la Calamidad.
+TEXT_SUBFST055_00161_KEITHA_000_089	Ese día estaba en una parte del bosque que hoy llamamos los Standing Corses. Parecía que todo el maldito bosque estaba en llamas, y con tanto humo no veía ni a un yalm delante de mí. Casi había perdido la esperanza, te digo.
+TEXT_SUBFST055_00161_KEITHA_000_090	Entonces, de repente, aparece un moogle de la nada, me tira de la manga que ya echaba humo y me lleva derechito a una parte del bosque donde el fuego no había llegado.
+TEXT_SUBFST055_00161_KEITHA_000_091	Y ahora ya saben por qué el negocio se llama "Moogle's Gift Mounts". Era lo mínimo que podía hacer. Estaría muerta si no fuera por ese pequeñín valiente.
+TEXT_SUBFST055_00161_LUQUELOT_000_092	Increíble. Bien podría ser que el moogle nos haya estado cuidando desde aquel día...
+TEXT_SUBFST055_00161_KEITHA_000_093	¡Ja! Entonces mejor volvemos al trabajo. No queremos decepcionar a nuestro ángel de la guarda, ¿verdad? <split(<string(gstr1)>, ,1)>, te damos las gracias. Ah, y creo que Luquelot quiere darte algo por las molestias.
+TEXT_SUBFST055_00161_LUQUELOT_000_111	El huevo de Leia es irreemplazable. No encuentro palabras para expresarle lo agradecido que estoy.
+TEXT_SUBFST055_00161_LUQUELOT_000_112	Y aun así, sigo inquieto... Mientras pasaba todo este lamentable episodio, vi algo que me preocupó mucho...
+TEXT_SUBFST055_00161_INSTANCE_BATTLE_YESNO_TITLE	El deber llama. ¿Quieres comenzar<br>"Leia's Legacy"?
+TEXT_SUBFST055_00161_INSTANCE_BATTLE_YESNO_YES	Sí
+TEXT_SUBFST055_00161_INSTANCE_BATTLE_YESNO_NO	No
+TEXT_SUBFST055_00161_QIB_TODO_001	¡Derrota a Janremi Blackheart y a su banda!
+TEXT_SUBFST055_00161_JANREMI_BATTLETALK_01	Miserables entrometidos... ¡Prepárense para morir!
+TEXT_SUBFST055_00161_JANREMI_BATTLETALK_02	Ugh... Es más <if(gnum4,dura,duro)> de lo que parece...
+TEXT_SUBFST055_00161_JANREMI_BATTLETALK_03	¡Esta la vas a sentir, perro testarudo!
+TEXT_SUBFST055_00161_MOOGLE_BATTLETALK_01	¡No te vas a quedar con el huevo de Leia, kupo!
+TEXT_SUBFST055_00161_MOOGLE_BATTLETALK_02	¡Vas ganando, kupo!
+TEXT_SUBFST055_00161_MOOGLE_BATTLETALK_03	¡Cuidado! ¡Está tramando algo muy feo, kupo!
