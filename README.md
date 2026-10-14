@@ -77,18 +77,23 @@ Los jobs pendientes ya muestran en español algunas líneas que comparten con ot
 
 ## Historia
 
-| Expansión | Parte | Estado |
-|---|---|---|
-| **A Realm Reborn** | 2.0: inicio en Gridania, Limsa Lominsa o Ul'dah, hasta "The Ultimate Weapon" | ![Traducido][ok] |
-| | The Binding Coil of Bahamut | ![Traducido][ok] |
-| | Crystal Tower | ![Traducido][ok] |
-| | 2.1–2.55: desde "The Price of Principles" | ![Pendiente][no] |
-| | Primals de ARR (Hard y Extreme) | ![Pendiente][no] |
-| **Heavensward** | | ![Pendiente][no] |
-| **Stormblood** | | ![Pendiente][no] |
-| **Shadowbringers** | | ![Pendiente][no] |
-| **Endwalker** | | ![Pendiente][no] |
-| **Dawntrail** | | ![Pendiente][no] |
+| Expansión | Parche | Contenido | Estado |
+|---|---|---|---|
+| **A Realm Reborn** | 2.0 | Historia principal: inicio en Gridania, Limsa Lominsa o Ul'dah, hasta "The Ultimate Weapon" | ![Traducido][ok] |
+| | | The Binding Coil of Bahamut | ![Traducido][ok] |
+| | | Crystal Tower | ![Traducido][ok] |
+| **Post A Realm Reborn** | 2.1–2.55 | Historia principal, desde "The Price of Principles" | ![Pendiente][no] |
+| | | Primals de ARR (Hard y Extreme) | ![Pendiente][no] |
+| **Heavensward** | 3.0 | Historia principal | ![Pendiente][no] |
+| **Post Heavensward** | 3.1–3.56 | Historia principal | ![Pendiente][no] |
+| **Stormblood** | 4.0 | Historia principal | ![Pendiente][no] |
+| **Post Stormblood** | 4.1–4.56 | Historia principal | ![Pendiente][no] |
+| **Shadowbringers** | 5.0 | Historia principal | ![Pendiente][no] |
+| **Post Shadowbringers** | 5.1–5.55 | Historia principal | ![Pendiente][no] |
+| **Endwalker** | 6.0 | Historia principal | ![Pendiente][no] |
+| **Post Endwalker** | 6.1–6.58 | Historia principal | ![Pendiente][no] |
+| **Dawntrail** | 7.0 | Historia principal | ![Pendiente][no] |
+| **Post Dawntrail** | 7.1 en adelante | Historia principal | ![Pendiente][no] |
 
 ## Misiones de clase
 
