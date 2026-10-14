@@ -1,0 +1,69 @@
+key	text
+TEXT_MANFST204_00677_SEQ_00	Miounne te espera para ponerte al tanto de tu tarea.
+TEXT_MANFST204_00677_SEQ_01	Parece que una secta conocida como los Lambs of Dalamud anda en actividades sospechosas en el Tam<-->Tara Deepcroft. Ve al lugar de sepultura y pídele más instrucciones al arquero del Gods' Quiver apostado en la entrada.
+TEXT_MANFST204_00677_SEQ_02	Te enteras de que los Lambs of Dalamud creen en la divinidad de la luna menor cuya caída dio comienzo a la Séptima Era Umbral. Desde la aparente destrucción de Dalamud ─ de la que culpan a la gente de Eorzea ─, parece que buscan la manera de vengar a su dios. Limpia el Deepcroft de sectarios antes de que puedan llevar a cabo sus planes dementes.<br><br>※Enfrenta el Tam<-->Tara Deepcroft con otros jugadores mediante el Duty Finder, o con un grupo de NPC mediante el Duty Support. Ambos sistemas se abren desde el menú principal y desde la entrada del dungeon.
+TEXT_MANFST204_00677_SEQ_03	Mientras recorres las profundidades del Tam<-->Tara Deepcroft, te ataca un espíritu vengativo que había despertado en el cadáver de Galvanth the Dominator. Tras una lucha titánica, logras devolver a ese ser oscuro al abismo y frustras así el plan de los sectarios. Vuelve rápido a Gridania y cuéntale a Miounne todo lo que pasó.
+TEXT_MANFST204_00677_SEQ_04	Miounne te revela que la muerte es cada vez más común entre los aventureros. Lo atribuye a la creciente demanda de sus servicios, que permitió que gente sin preparación acepte tareas que la superan. Confiada en que tú no le darás motivos de preocupación, Miounne te cuenta que el Adventurers' Guild de Ul'dah está reclutando. Vuelve a hablar con ella si quieres saber más.
+TEXT_MANFST204_00677_TODO_00	Habla con el arquero del Gods' Quiver en la entrada del Tam<-->Tara Deepcroft.
+TEXT_MANFST204_00677_TODO_01	Entra en el Tam<-->Tara Deepcroft.
+TEXT_MANFST204_00677_TODO_02	Informa a Miounne.
+TEXT_MANFST204_00677_MIOUNNE_000_4	¿List<if(gnum4,a,o)> para ponerte al tanto? ¡Bien! Bueno, en pocas palabras...
+TEXT_MANFST204_00677_LEWIN_000_5	Disculpa que interrumpa, Miounne, pero nuestra necesidad es cada vez más urgente. ¿No se presentó nadie?
+TEXT_MANFST204_00677_MIOUNNE_000_6	¡Y <if([gnum11<12],<if([gnum11<4],buenas noches,buenos días)>,<if([gnum11<17],buenas tardes,buenas noches)>)> también a ti, Bowlord! Tu necesidad debe ser muy urgente para que nos honres con una visita. La buena noticia es que el viaje no fue en vano. Me alegra informarte que por fin tenemos <if(gnum4,una voluntaria,un voluntario)>, y <if(gnum4,una muy bien recomendada,uno muy bien recomendado)>, además.
+TEXT_MANFST204_00677_LEWIN_000_7	¡Vaya, pero si es nuestr<if(gnum4,a mujer,o hombre)> para todo! Sí que tiene un don para aparecer cuando más se l<if(gnum4,a,o)> necesita, <split(<string(gstr1)>, ,1)>. Le agradezco que responda al llamado.
+TEXT_MANFST204_00677_LEWIN_000_8	Le agradezco que responda al llamado, amig<if(gnum4,a,o)>. Me llamo Lewin, y dirijo a los hombres y mujeres del Gods' Quiver.
+TEXT_MANFST204_00677_LEWIN_000_9	Bien, el tiempo apremia, así que iré directo al grano. Queremos que corte de raíz una posible amenaza para Gridania.
+TEXT_MANFST204_00677_MIOUNNE_000_10	Debajo del Central Shroud hay un lugar de sepultura subterráneo llamado el Tam<-->Tara Deepcroft.
+TEXT_MANFST204_00677_MIOUNNE_000_11	Fue un asentamiento gelmorrano, pero los gridanianos enterramos allí a nuestros muertos desde hace mucho.
+TEXT_MANFST204_00677_LEWIN_000_12	Sin embargo, últimamente vieron figuras sombrías merodeando por el Deepcroft, cada vez con más frecuencia.
+TEXT_MANFST204_00677_LEWIN_000_13	Por lo que cuentan varios testigos, sospechamos que esos individuos pertenecen a los Lambs of Dalamud, una secta apocalíptica que surgió antes de la Calamidad.
+TEXT_MANFST204_00677_LEWIN_000_14	Esos fanáticos ya demostraron ser peligrosos en el pasado, y dejarlos a su aire sería arriesgarnos.
+TEXT_MANFST204_00677_LEWIN_000_15	En otras circunstancias, habría mandado a mis mejores hombres a registrar el Deepcroft con órdenes de sacar a los sectarios de su escondite.
+TEXT_MANFST204_00677_LEWIN_000_16	Por desgracia, la Calamidad diezmó nuestras filas, y las pocas fuerzas que tengo a mi disposición hacen falta todo el tiempo para mantener a raya a los Ixal.
+TEXT_MANFST204_00677_LEWIN_000_17	Desde que frustramos su ataque al Guardian Tree, los hombres pájaro no nos dan ni un respiro. Pusieron a prueba cada ilm de nuestras defensas en busca de un punto débil, y me obligan a repartir nuestras fuerzas mucho más de lo que quisiera.
+TEXT_MANFST204_00677_LEWIN_000_18	Así las cosas, no nos queda más remedio que confiar a otros el asunto de los Lambs of Dalamud. ¿Podemos contar con usted para encargarse de esto, <split(<string(gstr1)>, ,1)>?
+TEXT_MANFST204_00677_LEWIN_000_19	Los hombres pájaro andan inquietos últimamente, y temo que se esté gestando una tormenta. Por eso me vi obligado a repartir nuestras fuerzas por todo el Twelveswood, no sea que nos tomen desprevenidos.
+TEXT_MANFST204_00677_LEWIN_000_20	Así las cosas, tenemos que recurrir a otros para lidiar con los Lambs of Dalamud. ¿Podemos contar con usted para esta tarea, amig<if(gnum4,a,o)>?
+TEXT_MANFST204_00677_LEWIN_000_21	Tiene mi gratitud.
+TEXT_MANFST204_00677_LEWIN_000_22	Cuando haya hecho sus preparativos, le ruego que vaya al Deepcroft y se identifique ante el guardia apostado en la entrada. Él le pondrá al tanto de las últimas novedades. Eso es todo.
+TEXT_MANFST204_00677_MIOUNNE_000_23	Ten cuidado allá afuera, ¿me oyes? ¡Que el Cristal te guíe y te proteja!
+TEXT_MANFST204_00677_GODSQUIVERBOW_000_30	Tú eres <string(gstr1)>, supongo. Gracias por echarnos una mano, amig<if(gnum4,a,o)>.
+TEXT_MANFST204_00677_GODSQUIVERBOW_000_31	Seguro que el Bowlord ya te lo dijo, pero tu tarea es entrar al Deepcroft y limpiarlo de Lambs of Dalamud.
+TEXT_MANFST204_00677_GODSQUIVERBOW_000_32	Por si no los conoces, la secta surgió poco antes de que la Calamidad pusiera fin a la Sexta Era Astral.
+TEXT_MANFST204_00677_GODSQUIVERBOW_000_33	Los sectarios tomaron por dios a la luna menor, Dalamud, convencidos de que los libraría de la devastación.
+TEXT_MANFST204_00677_GODSQUIVERBOW_000_34	Así que se llevaron una buena desilusión cuando Dalamud estalló en mil pedazos en llamas antes de terminar de caer.
+TEXT_MANFST204_00677_GODSQUIVERBOW_000_35	Uno pensaría que, después de ver a su dios hecho cenizas, los sectarios se pondrían a cuestionar su fe. Al contrario: eso solo avivó las llamas de su fanatismo.
+TEXT_MANFST204_00677_GODSQUIVERBOW_000_36	Los Lambs of Dalamud están convencidos de que los "herejes" ─ es decir, <italic(1)>todos menos ellos<italic(0)> ─ se interpusieron en la llegada de su señor y salvador, y de que ahora su deber sagrado es vengarlo.
+TEXT_MANFST204_00677_GODSQUIVERBOW_000_37	Sea lo que sea que estén haciendo en el Deepcroft, puedes estar segur<if(gnum4,a,o)> de que no va a salir nada bueno. Por el bien de Gridania y de toda Eorzea, pon fin a su locura.
+TEXT_MANFST204_00677_DOLOROUSBEAR_000_40	¡Así que nos volvemos a ver! No puedo decir que me sorprenda verl<if(gnum4,a,o)> aquí.
+TEXT_MANFST204_00677_DOLOROUSBEAR_000_41	Usted se llevó el premio en Limsa, ¡pero esta vez le daremos más pelea, o no me llamo aventurero!
+TEXT_MANFST204_00677_EMANAFA_000_45	Dioses, <italic(1)>odio<italic(0)> los mausoleos... No está bien perturbar el sueño de los muertos...
+TEXT_MANFST204_00677_KIKINA_000_50	¡Piensa en nuestra meta, hermana! ¡Algún día nuestras aventuras serán tema de canciones, y todo habrá valido la pena!
+TEXT_MANFST204_00677_ISILDAURE_000_55	\<jadeo> \<jadeo> ...La curiosidad infantil me llevó a cometer el más elemental de los errores.
+TEXT_MANFST204_00677_ISILDAURE_000_56	Si no fuera por la fruta que encontró Alianne, mis aventuras bien podrían haber terminado en este lugar sombrío.
+TEXT_MANFST204_00677_ISILDAURE_000_57	Mira antes de saltar... Con las prisas, se me olvidó la regla más básica de la aventura. \<suspiro> Creo que voy a descansar aquí un rato.
+TEXT_MANFST204_00677_ALIANNE_000_60	Me estremezco de pensar qué le habría pasado a Isildaure si no se me hubiera ocurrido recoger la fruta que encontré por el camino.
+TEXT_MANFST204_00677_ALIANNE_000_61	A veces tiene más vigor del que le conviene. Se supone que la edad nos calma, pero a él, si algo, lo volvió más impetuoso.
+TEXT_MANFST204_00677_ALIANNE_000_62	Entiendo que quiera aprovechar el tiempo que le queda, pero un paso en falso, y no le quedará <italic(1)>ninguno<italic(0)>.
+TEXT_MANFST204_00677_GODSQUIVERBOW_000_65	Los Lambs of Dalamud están empeñados en vengar a su dios imaginario, y no se detendrán ante nada hasta terminar su obra oscura.
+TEXT_MANFST204_00677_GODSQUIVERBOW_000_66	No podemos permitir que profanen el Deepcroft. Por las almas que descansan aquí y por toda Gridania, pon fin a su locura.
+TEXT_MANFST204_00677_MIOUNNE_000_70	¡Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>! Me dicen de buena fuente que tu incursión en el Deepcroft fue un éxito.
+TEXT_MANFST204_00677_MIOUNNE_000_71	Y no esperaba menos. Te acostumbraste tanto a triunfar que cuesta no dar tu talento por sentado. Pero ten por seguro que Mother <italic(1)>está<italic(0)> impresionada, aunque no sorprendida.
+TEXT_MANFST204_00677_MIOUNNE_000_72	Y no esperaba menos. La entusiasta recomendación de Baderon no me dejaba muchas dudas sobre tu capacidad. Aun así, mereces elogios.
+TEXT_MANFST204_00677_MIOUNNE_000_73	El Bowlord Lewin me pidió que te transmitiera su agradecimiento.
+TEXT_MANFST204_00677_MIOUNNE_000_74	Debo decir que es todo un alivio poder recurrir a un aventurero tan capaz.
+TEXT_MANFST204_00677_MIOUNNE_000_75	Por desgracia, últimamente la muerte se volvió cada vez más común entre los aventureros. Tal como están las cosas, al gremio le llueven los pedidos, y nos cuesta encontrar manos suficientes para atenderlos todos.
+TEXT_MANFST204_00677_MIOUNNE_000_76	Eso significa que no falta trabajo para almas capaces como tú, pero también les da a los inexpertos muchas ocasiones de abarcar más de lo que pueden ─ con las consecuencias de siempre. Ah... como para muestra...
+TEXT_MANFST204_00677_LIAVINNE_000_77	¡Avere ya no está, y es culpa tuya! ¡Si no hubieras tardado una eternidad en curarlo, todavía estaría vivo!
+TEXT_MANFST204_00677_EDDA_000_78	\<sollozo> ¡P-pero lo intenté! ¡Se salió de alcance antes de que pudiera terminar el hechizo!
+TEXT_MANFST204_00677_EDDA_000_79	\<llanto> Para empezar, no debería haber estado tan acorralado... Tendríamos que haber hecho más para aligerarle la carga...
+TEXT_MANFST204_00677_PAIYOREIYO_000_80	¡Bah! ¡Al diablo con esta excusa patética de grupo! ¡Me voy, y ojalá no les vuelva a ver la cara nunca más! ¡Adiós, y que les vaya bien!
+TEXT_MANFST204_00677_LIAVINNE_000_81	Yo también me voy. Seguro que no te sorprende, pero <italic(1)>nunca<italic(0)> me caíste bien. Solo te aguantaba por tus curaciones, y ni siquiera eso hacías bien. Aunque suene cruel, tú te lo buscaste.
+TEXT_MANFST204_00677_LIAVINNE_000_82	Ah, y un último consejo... ¡deshazte de la cabeza de Avere! Entiérrala, quémala, haz lo que se te dé la gana con ella... ¡pero por los dioses, deja de cargarla a todas partes! Es... es que... Deshazte de ella, ¿quieres?
+TEXT_MANFST204_00677_EDDA_000_83	¡E-esperen! ¡No me dejen sola! ¡Por favor!
+TEXT_MANFST204_00677_EDDA_000_84	\<llanto> Lo siento tanto, Avere... Por favor, perdóname...
+TEXT_MANFST204_00677_MIOUNNE_000_85	Escenas así se volvieron demasiado comunes. Ya van doce veces en la mitad de días...
+TEXT_MANFST204_00677_MIOUNNE_000_86	Ahora entiendes por qué agradezco a los aventureros de tu experiencia. Puedo mandar a <if(gnum4,mujeres,hombres)> como tú a una misión sin preocuparme de que no vuelvan... bueno, sin preocuparme tanto, al menos.
+TEXT_MANFST204_00677_MIOUNNE_000_87	Hablando de misiones, quisiera confiarte otra.
+TEXT_MANFST204_00677_MIOUNNE_000_88	Hace como una bell recibí un mensaje de mi colega en Ul'dah. Busca los servicios de un aventurero confiable, y si algo eres, es confiable.
+TEXT_MANFST204_00677_MIOUNNE_000_89	Si crees que te puede interesar esta tarea, dímelo y con gusto te cuento los detalles.

@@ -1,0 +1,13 @@
+key	text
+TEXT_SUBFST103_00678_SEQ_00	Miounne tiene información sobre una nueva tarea.
+TEXT_SUBFST103_00678_SEQ_01	Según Miounne, el Adventurers' Guild de Ul'dah está reclutando gente para una tarea que todavía no se reveló. Puedes saber más hablando con Momodi, la dueña del Quicksand.
+TEXT_SUBFST103_00678_SEQ_02	Le dijiste a Momodi que te interesa la tarea. Avísale cuando estés list<if(gnum4,a,o)> para oír los detalles.
+TEXT_SUBFST103_00678_TODO_00	Habla con Momodi en el Quicksand, en Ul'dah.
+TEXT_SUBFST103_00678_MIOUNNE_000_1	¿Así que no te molesta hacer un viajecito? ¡Maravilloso!
+TEXT_SUBFST103_00678_MIOUNNE_000_2	Como te dije antes, el pedido nos llega del Adventurers' Guild de Ul'dah. Cuando llegues, busca a Momodi, la dueña del Quicksand. Piensa en ella como mi versión del sultanato.
+TEXT_SUBFST103_00678_MIOUNNE_000_3	Lo más probable es que te mande en medio del peligro, pero confío plenamente en que saldrás iles<if(gnum4,a,o)>. Bueno, en marcha, <split(<string(gstr1)>, ,1)>, ¡y buena suerte!
+TEXT_SUBFST103_00678_MOMODI_000_10	Bienvenid<if(gnum4,a,o)> al Quicksand, amig<if(gnum4,a,o)>. Ahora estoy un poquito ocupada, si no te molesta buscarte─
+TEXT_SUBFST103_00678_MOMODI_000_11	¡Oh, eres tú, <split(<string(gstr1)>, ,1)>! ¡Y yo soltando el mismo discurso de siempre!
+TEXT_SUBFST103_00678_MOMODI_000_12	Por esa cara de decisión, supongo que no vienes por cerveza. ¿No te llamarás <string(gstr1)>, por casualidad?
+TEXT_SUBFST103_00678_MOMODI_000_13	Miounne me avisó que ibas a presentarte. También se aseguró de llamarte <if(gnum4,la aventurera,el aventurero)> del momento. Y eso no es poco elogio, viniendo de ella.
+TEXT_SUBFST103_00678_MOMODI_000_14	Pero no viniste hasta aquí para oírme parlotear. Seguro tienes ganas de empezar, así que hablemos de negocios, ¿te parece?

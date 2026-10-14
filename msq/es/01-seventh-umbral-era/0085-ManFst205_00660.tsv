@@ -1,0 +1,176 @@
+key	text
+TEXT_MANFST205_00660_SEQ_00	Momodi te espera para ponerte al tanto de tu tarea.
+TEXT_MANFST205_00660_SEQ_01	Parece que una horda de hecatoncheires está haciendo estragos en las profundidades de las Copperbell Mines. Para que se pueda reanudar la minería, Papashan te pide que sometas a esas criaturas enormes. Para prepararte para la misión, el jefe de estación te sugiere hablar con Painted Mesa, empleado de Amajina & Sons Mineral Concern.
+TEXT_MANFST205_00660_SEQ_02	Painted Mesa te cuenta que las Copperbell Mines se reabrieron para cubrir la urgente demanda de materiales de construcción que dejó la Calamidad. Sin un suministro constante, la incipiente recuperación de Ul'dah podría frenarse por completo. Ve a las minas y preséntate ante el Stone Torch que vigila la entrada.
+TEXT_MANFST205_00660_SEQ_03	Te dieron permiso para entrar a las minas. Recorre los túneles y acaba con todos los hecatoncheires que encuentres.<br><br>※Enfrenta las Copperbell Mines con otros jugadores mediante el Duty Finder, o con un grupo de NPC mediante el Duty Support. Ambos sistemas se abren desde el menú principal y desde la entrada del dungeon.
+TEXT_MANFST205_00660_SEQ_04	Lograste someter a los hecatoncheires. Vuelve con Painted Mesa al Quicksand.
+TEXT_MANFST205_00660_SEQ_05	Un grito agudo interrumpe tu conversación con Painted Mesa. Corres hacia el origen del grito y encuentras a una mujer acosada por unos matones, y te pones en medio para protegerla. Justo después, <if([gnum70==1],llega Y'shtola,<if([gnum70==2],llegan Yda y Papalymo,<if([gnum70==3],llega Thancred,llega Hildibrand\, el legendario inspector torpe)>)>)> al lugar.
+TEXT_MANFST205_00660_SEQ_06	Después de elogiar tu valor, <if([gnum70==1],Y'shtola te revela que pertenece,<if([gnum70==2],Yda y Papalymo te revelan que pertenecen,<if([gnum70==3],Thancred te revela que pertenece,la pareja te revela que pertenece)>)>)> a una orden llamada los Scions of the Seventh Dawn, y <if([gnum70==1],te invita a unirte a ellos,<if([gnum70==2],te invitan a unirte a ellos,<if([gnum70==3],te invita a unirte a ellos,te invitan a unirte a ellos)>)>)>. Pero ¿quiénes son exactamente estos Scions, y qué buscan? Quizá Momodi pueda aclarar estas preguntas.
+TEXT_MANFST205_00660_SEQ_07	En tus viajes te cruzaste con muchísimas personas, y en algunas dejaste una huella positiva. Una de ellas es la joven conjurer Edda, que te revela que la inspiraste a emprender un nuevo camino como aventurera. Sientes que tú también debes emprender pronto un nuevo camino. Vuelve a hablar con Momodi cuando te decidas a dar el primer paso.
+TEXT_MANFST205_00660_TODO_00	Habla con Painted Mesa.
+TEXT_MANFST205_00660_TODO_01	Habla con el Stone Torch frente a las Copperbell Mines.
+TEXT_MANFST205_00660_TODO_02	Entra en las Copperbell Mines.
+TEXT_MANFST205_00660_TODO_03	Informa a Painted Mesa.
+TEXT_MANFST205_00660_TODO_04	Habla con Momodi.
+TEXT_MANFST205_00660_TODO_05	Habla con Momodi.
+TEXT_MANFST205_00660_MOMODI_000_3	El que hizo el pedido debería estar por llegar...
+TEXT_MANFST205_00660_PAPASHAN_000_4	¡Dioses todopoderosos! ¡Un segundo más bajo ese sol y habría salido ardiendo! ¡Una jarra de cerveza, si es tan amable!
+TEXT_MANFST205_00660_MOMODI_000_5	Llegas justo a tiempo, Papashan. Resulta que <if(gnum4,la aventurera,el aventurero)> que se va a encargar de tu pedido está aquí.
+TEXT_MANFST205_00660_PAPASHAN_000_6	¿Oh? ¡Pero si es mi buen amig<if(gnum4,a,o)> <split(<string(gstr1)>, ,1)>!
+TEXT_MANFST205_00660_PAPASHAN_000_7	Me reconforta el alma saber que vas a ser tú quien nos ayude.
+TEXT_MANFST205_00660_PAPASHAN_000_8	¿Así que <if(gnum4,esta encantadora muchacha,este joven tan fornido)> es <if(gnum4,la tan elogiada aventurera,el tan elogiado aventurero)>? ¡Maravilloso, maravilloso!
+TEXT_MANFST205_00660_PAPASHAN_000_9	Un placer conocerl<if(gnum4,a,o)>, <if(gnum4,mi señora,buen señor)>. Soy Papashan, antes de los Sultansworn. Le agradezco que acepte prestarnos su ayuda.
+TEXT_MANFST205_00660_MOMODI_000_10	¿Quizá quieras ponerl<if(gnum4,a,o)> al tanto de su misión a <split(<string(gstr1)>, ,1)>?
+TEXT_MANFST205_00660_PAPASHAN_000_11	Sí, claro. El pedido en cuestión lo presentó un conocido mío de Amajina & Sons Mineral Concern. Tiene que ver con un problema desafortunado en las Copperbell Mines.
+TEXT_MANFST205_00660_PAPASHAN_000_12	Para decirlo sin rodeos, unos gigantes se apoderaron del lugar.
+TEXT_MANFST205_00660_PAPASHAN_000_13	Esos gigantes son del clan conocido como los hecatoncheires: criaturas temibles que quedaron selladas en lo más hondo de las minas durante la antigua Thorne Dynasty.
+TEXT_MANFST205_00660_PAPASHAN_000_14	Por desgracia, parece que lograron atravesar la capa de roca que los mantenía presos, y ahora rondan los túneles donde trabajan los mineros. Con razón están furiosos por cómo los trataron nuestros antepasados, y su presencia obligó a suspender toda la actividad minera en el lugar.
+TEXT_MANFST205_00660_MOMODI_000_15	Con razón están furiosos. ¿La Thorne Dynasty no terminó hace más de trescientos años?
+TEXT_MANFST205_00660_PAPASHAN_000_16	Conoce bien su historia, mi señora.
+TEXT_MANFST205_00660_PAPASHAN_000_17	La gente de esa época usaba a los hecatoncheires para trabajar en sus minas. Con unos yelmos encantados, lograban someter a su voluntad a esas criaturas feroces. Pero, como suele pasar en estas historias, los encantamientos terminaron por fallar, y los esclavos se rebelaron contra sus amos.
+TEXT_MANFST205_00660_PAPASHAN_000_18	En un intento desesperado por contener la furia desatada de los hecatoncheires, nuestros antepasados derrumbaron los niveles más bajos de las minas. Así terminó la Gran Rebelión de los Gigantes: enterrada bajo cien mil tonzes de roca.
+TEXT_MANFST205_00660_MOMODI_000_19	Bueno, ahora que lo pienso... Me parece recordar que hace unas dos semanas salió un artículo sobre Copperbell en el <italic(1)>Mythril Eye<italic(0)>.
+TEXT_MANFST205_00660_MOMODI_000_20	Decía que estaban reabriendo las minas para cubrir la creciente demanda de materiales de construcción. Lo más probable es que nuestros muchachos cavaron un poco demasiado hondo y liberaron a los gigantes.
+TEXT_MANFST205_00660_MOMODI_000_21	Dioses... pensar que esas pobres criaturas siguen vivitas y coleando después de tres siglos... Es mucho tiempo para guardar rencor. Deben estar <italic(1)>que arden<italic(0)>...
+TEXT_MANFST205_00660_PAPASHAN_000_22	En efecto. Y eso los vuelve un peligro para todos. No habrá minería en Copperbell mientras sigan ahí. Por el bien de la paz y de la prosperidad, hay que someterlos. Esa es la tarea que queremos que emprenda.
+TEXT_MANFST205_00660_PAPASHAN_000_23	En efecto. Y eso los vuelve un peligro para todos. No habrá minería en Copperbell mientras sigan ahí. Por el bien de la paz y de la prosperidad, hay que someterlos. Esa es la tarea que queremos que emprendas.
+TEXT_MANFST205_00660_PAPASHAN_000_24	No voy a negar que la misión estará llena de peligros, pero nuestra necesidad es grande. Así que te lo ruego: pon fin a este triste asunto.
+TEXT_MANFST205_00660_PAPASHAN_000_25	¡Que los dioses te bendigan! Temía que tuvieras reparos, pero te aseguro que es lo mejor.
+TEXT_MANFST205_00660_MOMODI_000_26	Mmm... Por si no lo sabes, las Copperbell Mines están en Western Thanalan. Cuídate, ¿me oíste?
+TEXT_MANFST205_00660_PAPASHAN_000_27	Ah, y una última cosa antes de que partas... Un empleado de Amajina & Sons está ahora en el Quicksand. Se llama Painted Mesa, y conoce bien las Copperbell Mines. Te convendría pedirle consejo.
+TEXT_MANFST205_00660_PAINTEDMESA_000_30	¿Buscas a Painted Mesa? Lo encontraste.
+TEXT_MANFST205_00660_PAINTEDMESA_000_31	¿Así que tú eres <if(gnum4,la aventurera,el aventurero)> que se ofreció para arreglar el lío de Copperbell?
+TEXT_MANFST205_00660_PAINTEDMESA_000_32	Tienes agallas, <if(gnum4,muchacha,compañero)>. Solo espero que tengas habilidad que les haga juego, porque la cosa allá abajo no es linda. Los hecatoncheires dejaron el lugar hecho un desastre, y ni una semana después de reanudar la minería.
+TEXT_MANFST205_00660_PAINTEDMESA_000_33	No sé si lo sabes, pero Copperbell ya era vieja cuando la segunda Ul Dynasty todavía era joven, y la abandonaron hace siglos. Si no fuera por la falta de materiales para la reconstrucción, al Concern nunca se le habría ocurrido reabrirla.
+TEXT_MANFST205_00660_PAINTEDMESA_000_34	Sabíamos muy bien lo de los gigantes de antemano, pero el proyecto siguió adelante igual. Digo, nada podría sobrevivir tres siglos enterrado bajo una montaña de roca, ¿no? ¡<italic(1)>Error<italic(0)>!
+TEXT_MANFST205_00660_PAINTEDMESA_000_35	Nuestros mineros desenterraron más de lo que esperaban. Un golpe de pico de más, y se encontraron en compañía de gigantes. Si no logramos someterlos, la gloriosa recuperación de la nación se va a frenar por falta de algo con qué construir.
+TEXT_MANFST205_00660_PAINTEDMESA_000_36	Los Stone Torches están vigilando la entrada por si a los gigantes se les antoja un poco de sol y aire fresco. Cualquiera de ellos te puede mostrar la entrada. La esperanza de la nación descansa en ti, amig<if(gnum4,a,o)>. ¡Mucha suerte!
+TEXT_MANFST205_00660_STONETORCH_000_40	Hubo un incidente dentro de las Copperbell Mines. Estamos aquí para que sus efectos no se extiendan, pero por tu propia seguridad, te sugiero que te mantengas bien lejos de aquí.
+TEXT_MANFST205_00660_STONETORCH_000_41	¿Qué? ¿Tú eres <if(gnum4,la aventurera,el aventurero)> que se ofreció para someter a los hecatoncheires?
+TEXT_MANFST205_00660_STONETORCH_000_42	No creí que Papashan fuera a encontrar a alguien tan rápido... ni que fuera a encontrar a alguien.
+TEXT_MANFST205_00660_STONETORCH_000_43	Por ahora a los gigantes les basta con hacer estragos dentro de las minas, pero es cuestión de tiempo que se les ocurra salir. Cuanto antes te encargues de ellos, mejor. Prepárate lo mejor que puedas y entra cuando quieras.
+TEXT_MANFST205_00660_ISILDAURE_000_50	Soy aventurero desde hace muchos años, y fui testigo de muchos momentos decisivos de la historia. Aunque los tiempos hayan cambiado, la esencia de nuestro oficio no.
+TEXT_MANFST205_00660_ISILDAURE_000_51	La aventura siempre fue una búsqueda de superación a través de desafíos que uno enfrenta por voluntad propia, y siempre lo será.
+TEXT_MANFST205_00660_ISILDAURE_000_52	A medida que un aventurero gana experiencia, adquiere naturalmente amor por la justicia y comprensión del espíritu de sacrificio.
+TEXT_MANFST205_00660_ISILDAURE_000_53	Esa experiencia no se puede medir de ninguna forma tangible, pero sin duda moldea quiénes somos, porque se basa en las decisiones que tomamos en el camino y en sus consecuencias, buenas o malas.
+TEXT_MANFST205_00660_ISILDAURE_000_54	Siento una luz en ti, joven, y me dice que tu destino es la grandeza.
+TEXT_MANFST205_00660_ALIANNE_000_60	Encontramos muertos a Dolorous Bear y a todo su grupo. Los gigantes fueron... minuciosos.
+TEXT_MANFST205_00660_ALIANNE_000_61	A juzgar por sus huellas, parece que intentaron lanzarse contra una horda de esas criaturas. No sé con certeza qué llevó a un grupo con tanta experiencia a dejar de lado toda prudencia... pero tengo mis sospechas.
+TEXT_MANFST205_00660_ALIANNE_000_62	Todos somos nuestros peores críticos, y el deseo de superar logros pasados puede quitarnos el buen juicio. Así nos volvemos más imprudentes.
+TEXT_MANFST205_00660_ALIANNE_000_63	Aunque es importante tener metas, no hay que obsesionarse con ellas hasta excluir todo lo demás. Quien lo hace termina pagando el precio, como Dolorous Bear y sus compañeros hoy.
+TEXT_MANFST205_00660_PAINTEDMESA_000_65	La esperanza de la nación descansa sobre tus hombros, amig<if(gnum4,a,o)>. ¡Manda a esos gigantes de vuelta al infierno del que se escaparon, sea cual sea!
+TEXT_MANFST205_00660_STONETORCH_000_67	Buena suerte ahí adentro, aventurer<if(gnum4,a,o)>. Los Stone Torches seguiremos vigilando aquí, por si el enemigo se te escapa.
+TEXT_MANFST205_00660_Q1_000_1	El deber llama. ¿Quieres comenzar<br>"Into a Copper Hell"?
+TEXT_MANFST205_00660_A1_000_1	Sí
+TEXT_MANFST205_00660_A1_000_2	No
+TEXT_MANFST205_00660_PAINTEDMESA_000_70	¡Ah, vuelve <if(gnum4,la conquistadora,el conquistador)> de Copperbell!
+TEXT_MANFST205_00660_PAINTEDMESA_000_71	Gracias a ti podemos reanudar la minería, y Ul'dah va a tener los materiales que necesita para reconstruirse. Toda la nación está en deuda contigo, amig<if(gnum4,a,o)>.
+TEXT_MANFST205_00660_PAINTEDMESA_000_72	Le daré la buena noticia a Papashan la próxima vez que lo vea. En cuanto a ti, vas a querer informar a Momodi. A esa mujer le va a hacer bien verte con vida y entera.
+TEXT_MANFST205_00660_POORDRESS_000_100	(-???-)¡Noooooo!
+TEXT_MANFST205_00660_UNGUST_000_101	(-Mercader insufrible-)¡Cierra la boca, ladronzuela de porquería! Me robaste: ¡ni se te ocurra negarlo!
+TEXT_MANFST205_00660_POORDRESS_000_102	P-por favor, señor, ¡yo no robé nada!
+TEXT_MANFST205_00660_POORDRESS_000_103	L-lo compré: ¡lo pagué con mi propio dinero!
+TEXT_MANFST205_00660_UNGUST_000_104	(-Mercader insufrible-)¡Tonterías! Ustedes los refugiados son todos iguales: ¡no les alcanza ni para carne de topo agusanada, mucho menos para un buen corte de dodo!
+TEXT_MANFST205_00660_UNGUST_000_105	(-Mercader insufrible-)Te lo voy a decir una vez más: devuelve lo que robaste, ¡o te voy a hacer desear no haber pisado nunca esta ciudad!
+TEXT_MANFST205_00660_UNGUST_000_106	(-Mercader insufrible-)Por derecho, tendría que entregarte a los Brass Blades, ¿sabes? Para mantener las calles seguras para los ciudadanos honrados. Pero soy un hombre razonable. Si aceptas servirme en... lo que yo necesite, las autoridades no tienen por qué enterarse de tu crimen.
+TEXT_MANFST205_00660_POORDRESS_000_107	¡P-pero yo no hice nada malo! ¡Los Twelve son mis testigos!
+TEXT_MANFST205_00660_POORDRESS_000_108	¡P-por favor, aventurer<if(gnum4,a,o)>! ¡Ayúdeme, se lo ruego!
+TEXT_MANFST205_00660_POORDRESS_000_109	¡Lo juro por la tumba de mi madre, no robé nada! Lo compré con lo que había ahorrado... \<llanto> Solo quería darles a mis hijos una comida decente...
+TEXT_MANFST205_00660_UNGUST_000_110	(-Mercader insufrible-)¿¡Y tú quién demonios te crees que eres!? <if(gnum4,¿La dueña,¿El dueño)> de esta perra?
+TEXT_MANFST205_00660_UNGUST_000_111	(-Mercader insufrible-)Ya me cansé de esta farsa. Ustedes, ¡denles una lección!
+TEXT_MANFST205_00660_HEAVY_000_120	¡No me pagan lo suficiente para esto!
+TEXT_MANFST205_00660_UNGUST_000_121	(-Mercader insufrible-)¡O-oye! ¿¡Adónde demonios crees que vas!?
+TEXT_MANFST205_00660_POORDRESS_000_122	¡Gracias, aventurer<if(gnum4,a,o)> generos<if(gnum4,a,o)>! ¡Mil gracias!
+TEXT_MANFST205_00660_YOUNGULD_000_130	Juraría que hay más refugiados que la última vez que miré...
+TEXT_MANFST205_00660_RESTLESSULD_000_131	Y no te equivocarías.
+TEXT_MANFST205_00660_YOUNGULD_000_132	¡Pero ya pasaron cinco años desde la Calamidad! ¿Por qué vienen recién ahora?
+TEXT_MANFST205_00660_RESTLESSULD_000_133	Es sencillo: aunque varias aldeas sobrevivieron a los primeros tiempos después de la Calamidad, muchas ya no podían mantener a su gente.
+TEXT_MANFST205_00660_RESTLESSULD_000_134	Los habitantes vieron que sus tierras habían quedado yermas o aisladas de las rutas comerciales, y esos problemas no se resuelven fácil. Aunque intentaron arreglárselas, era cuestión de tiempo que tuvieran que abandonar sus hogares y buscar una vida nueva en la ciudad.
+TEXT_MANFST205_00660_YOUNGULD_000_135	Ya veo...
+TEXT_MANFST205_00660_YOUNGULD_000_136	Pero la Calamidad afectó a todo el reino, ¿no? ¿Pasa lo mismo en las otras ciudades?
+TEXT_MANFST205_00660_RESTLESSULD_000_137	Si lo que se dice es cierto, sí.
+TEXT_MANFST205_00660_RESTLESSULD_000_138	Aunque quizá aquí se note más. Ul'dah tiene fama de próspera, así que es natural que los refugiados prueben suerte aquí primero.
+TEXT_MANFST205_00660_YOUNGULD_000_139	Me dan mucha pena, de verdad... pero mentiría si dijera que no me inquieta. Espero que su presencia no traiga desorden a la ciudad.
+TEXT_MANFST205_00660_RESTLESSULD_000_140	Bueno, si las cosas empeoran, siempre tenemos a los Immortal Flames. Me atrevo a decir que los Brass Blades agradecerían su ayuda.
+TEXT_MANFST205_00660_YOUNGULD_000_141	¿Los héroes que pelearon contra el Garlean Empire patrullando las calles en busca de chusma?
+TEXT_MANFST205_00660_RESTLESSULD_000_142	Podría llegar a eso.
+TEXT_MANFST205_00660_RESTLESSULD_000_143	Pobres y desesperados como están, ten por seguro que algunos refugiados van a recurrir al crimen.
+TEXT_MANFST205_00660_RESTLESSULD_000_144	Ya sabes cómo es este lugar. Si no tienes dinero, no tienes esperanza.
+TEXT_MANFST205_00660_YOUNGULD_000_145	\<suspiro> ¿Qué va a ser de nuestra ciudad?
+TEXT_MANFST205_00660_RESTLESSULD_000_146	Ojo, que no <italic(1)>todos<italic(0)> los refugiados son malos. Algunos consiguen trabajo y llevan una vida honrada.
+TEXT_MANFST205_00660_SALESPITCH_000_147	¡Lomo de dodo! ¡Lleve su lomo de dodo! ¡El más barato de Thanalan, garantizado!
+TEXT_MANFST205_00660_SALESPITCH_000_148	¡Gracias por su compra, señora! ¡Vuelva pronto!
+TEXT_MANFST205_00660_YOUNGULD_000_149	Si miras alrededor, cualquiera diría que Ul'dah va camino a recuperarse.
+TEXT_MANFST205_00660_YOUNGULD_000_150	Pero mira detrás del velo de la prosperidad y vas a ver miseria y sufrimiento sin fin.
+TEXT_MANFST205_00660_POORDRESS_000_160	Eh... ¿<if(gnum4,señora,señor)>? ¿Está bien?
+TEXT_MANFST205_00660_UNGUST_000_161	(-Mercader insufrible-)¿Q-qué pasa ahora? ¿¡Piensas amenazar a un ciudadano indefenso!?
+TEXT_MANFST205_00660_UNGUST_000_162	(-Mercader insufrible-)...¿Qué? ¿Que la viste comprar esa carne, dices? ¡E-eso es absurdo!
+TEXT_MANFST205_00660_AGENT_000_163	(-???-)¡Sí, y yo también! ¡Deja en paz a esa pobre mujer, buitre de porquería!
+TEXT_MANFST205_00660_UNGUST_000_164	(-Mercader insufrible-)¿¡Q-quién dijo eso!?
+TEXT_MANFST205_00660_UNGUST_000_165	(-Mercader insufrible-)¡Grrr! Esta vez lo voy a pasar por alto... ¡pero solo esta vez!
+TEXT_MANFST205_00660_POORDRESS_000_166	¡Que los dioses l<if(gnum4,a,o)> bendigan, aventurer<if(gnum4,a,o)>! Si no hubiera llegado justo entonces, ¿quién sabe qué me habría hecho ese monstruo? Ni quiero pensarlo...
+TEXT_MANFST205_00660_YDA_000_170	(-???-)¡Caso cerrado!
+TEXT_MANFST205_00660_YDA_000_171	¡Hola otra vez!
+TEXT_MANFST205_00660_PAPALYMO_000_172	Te estuvimos vigilando de cerca desde que saliste de Gridania.
+TEXT_MANFST205_00660_PAPALYMO_000_173	Cumpliste tu deber de <if(gnum4,enviada,enviado)> de forma impecable, y ni una sola vez flaqueaste ante tantos peligros.
+TEXT_MANFST205_00660_YDA_000_174	¡Pero lo más importante es que siempre estuviste dispuest<if(gnum4,a,o)> a ayudar a quien lo necesitara, aunque no ganaras ni un gil con eso!
+TEXT_MANFST205_00660_PAPALYMO_000_175	Tienes todas las cualidades que buscamos en un aventurero; de eso estamos convencidos.
+TEXT_MANFST205_00660_YDA_000_176	Aunque lo de la carne de dodo, en realidad, te tocó un poco <italic(1)>sin querer<italic(0)>.
+TEXT_MANFST205_00660_PAPALYMO_000_177	Sí, <italic(1)>gracias<italic(0)>, Yda. Ejem. Y además está el asunto de tu don. Me atrevo a decir que tienes curiosidad por la visión que acabas de tener, ¿no? Bueno, nosotros podemos ayudarte a entenderla.
+TEXT_MANFST205_00660_YDA_000_178	No eres la única persona con ese poder, ¿sabes? Tenemos una amiga que también lo tiene, ¡y nos encantaría que la conocieras!
+TEXT_MANFST205_00660_PAPALYMO_000_179	Y conocerla es solo el principio, porque también queremos que le prestes tu fuerza a nuestra causa. A cambio, con gusto te ayudaremos en tus aventuras en todo lo que podamos.
+TEXT_MANFST205_00660_PAPALYMO_000_180	Si decides aceptar nuestra oferta ─ y espero sinceramente que lo hagas ─, te ruego que hables con Momodi. La dueña del Quicksand es buena amiga nuestra. Ella te dirá dónde encontrarnos.
+TEXT_MANFST205_00660_YDA_000_181	¡Espeeera un momento, ni siquiera te dijimos el nombre de nuestra orden! ¡Somos los Scions of the Seventh Dawn, defensores de la justicia! Ah, pero no se lo cuentes a nadie. Salvo a Momodi. Ella ya lo sabe.
+TEXT_MANFST205_00660_YSHTOLA_000_190	(-???-)<if(gnum4,Siempre la heroína desinteresada,Siempre el héroe desinteresado)>, por lo que veo.
+TEXT_MANFST205_00660_YSHTOLA_000_191	Cuánto tiempo, aventurer<if(gnum4,a,o)>.
+TEXT_MANFST205_00660_YSHTOLA_000_192	Te estuve observando de cerca desde que saliste volando de Limsa Lominsa.
+TEXT_MANFST205_00660_YSHTOLA_000_193	Cumpliste tu deber de <if(gnum4,enviada personal,enviado personal)> de la Admiral con una humildad admirable, y desde entonces mostraste un valor inquebrantable ante el peligro.
+TEXT_MANFST205_00660_YSHTOLA_000_194	Cada vez que te cruzabas con alguien necesitado, le dabas socorro sin pensar en tu propio beneficio.
+TEXT_MANFST205_00660_YSHTOLA_000_195	En resumen, demostraste todas las cualidades que buscamos en un aventurero.
+TEXT_MANFST205_00660_YSHTOLA_000_196	Por razones que no sé explicar bien, cada una de tus acciones parece terminar sirviendo al bien común... quieras o no. Es un don afortunado, ¡y dice mucho de tu carácter!
+TEXT_MANFST205_00660_YSHTOLA_000_197	Pero de todas tus cualidades admirables, la que más me intriga es tu <italic(1)>don<italic(0)>. Hablo de las visiones que tienes. Visiones como la que tuviste hace un momento, si no me equivoco. Puedo darte los medios para entenderlas.
+TEXT_MANFST205_00660_YSHTOLA_000_198	Verás, una conocida mía tiene ese mismo talento... Si quieres, puedo presentártela. Ella y yo luchamos por una causa común ─ una causa que se beneficiaría mucho con tu apoyo.
+TEXT_MANFST205_00660_YSHTOLA_000_199	Si aceptas prestarnos tu fuerza, con gusto haremos todo lo que esté a nuestro alcance para ayudarte en tus propios proyectos.
+TEXT_MANFST205_00660_YSHTOLA_000_200	Piensa un tiempo en mi oferta. Si decides aceptarla, te ruego que hables con Momodi. La dueña del Quicksand es una amiga cercana y aliada nuestra.
+TEXT_MANFST205_00660_YSHTOLA_000_201	Dile que los Scions of the Seventh Dawn te eligieron, y ella te dirá dónde encontrarnos.
+TEXT_MANFST205_00660_THANCRED_000_210	(-???-)¡Bien está lo que bien acaba!
+TEXT_MANFST205_00660_THANCRED_000_211	¡Nos volvemos a ver!
+TEXT_MANFST205_00660_THANCRED_000_212	No malinterpretes mis intenciones ─ que son <italic(1)>siempre<italic(0)> honorables ─, pero te estuve observando desde que saliste de Ul'dah.
+TEXT_MANFST205_00660_THANCRED_000_213	Hiciste el papel de <if(gnum4,enviada,enviado)> a la perfección: con la seguridad que corresponde a quien va en misión diplomática, pero siempre cortés con tus superiores. Y cuando tus viajes te llevaron al peligro, lo enfrentaste sin pestañear. Tú, <if(gnum4,mi señora,amigo mío)>, eres toda una maravilla, ¡y confieso que <if(gnum4,me tienes bastante cautivado,me tienes un poco asombrado)>!
+TEXT_MANFST205_00660_THANCRED_000_214	Ah, pero mis elogios no se acaban. Lo que más me impresionó fue tu disposición a ayudar a quien lo necesitara, aun cuando lo único que podías esperar a cambio eran palabras. Un desinterés así es raro en estos tiempos.
+TEXT_MANFST205_00660_THANCRED_000_215	...Todo lo cual me lleva a concluir que eres justo a quien estaba buscando: <if(gnum4,una aventurera,un aventurero)> con un conjunto de cualidades muy poco común.
+TEXT_MANFST205_00660_THANCRED_000_216	Claro que tu rescate de esa damisela en apuros fue más bien un feliz accidente. Pero la rescataste, y eso es lo que importa al final.
+TEXT_MANFST205_00660_THANCRED_000_217	Creo que debo mencionar a esta altura que <italic(1)>también<italic(0)> me interesa muchísimo cierto talento tuyo. Hablo de tus visiones. <italic(1)>Estuviste<italic(0)> teniendo visiones, ¿no es así?
+TEXT_MANFST205_00660_THANCRED_000_218	Pues resulta que conozco a una mujer que comparte tu talento y puede ayudarte a entenderlo. Ella y yo pertenecemos a la misma organización, y los dos estaríamos encantadísimos si aceptaras unirte a nuestra causa.
+TEXT_MANFST205_00660_THANCRED_000_219	Por supuesto, ser parte de un grupo así tiene sus ventajas. Para empezar, con gusto te ayudaríamos a desarrollar tu potencial como aventurer<if(gnum4,a,o)>.
+TEXT_MANFST205_00660_THANCRED_000_220	No hace falta que me respondas ahora. Piénsalo, y si te animas a ayudarnos ─ como espero que hagas ─, habla con Momodi, la siempre encantadora y juvenil dueña del Quicksand.
+TEXT_MANFST205_00660_THANCRED_000_221	Dile que los Scions of the Seventh Dawn encontraron a <if(gnum4,su mujer,su hombre)>, y ella te dirá dónde encontrarnos.
+TEXT_MANFST205_00660_MOMODI_000_230	Hmph. Escenas así son cada vez más comunes, me temo. Pero no te preocupes: si trabajas duro, seguro te va a ir bien.
+TEXT_MANFST205_00660_MOMODI_000_231	Dicho esto, si alguna vez te ves en apuros, ven a verme. Pero no me vengas a molestar cada vez que te raspes la rodilla, ¿eh?
+TEXT_MANFST205_00660_MOMODI_000_232	...Claro que de vez en cuando <italic(1)>sí<italic(0)> me gusta oír las penas de un caballero con las damas...
+TEXT_MANFST205_00660_MOMODI_000_233	¡Ah, <split(<string(gstr1)>, ,1)>! Perdona la espera: estaba orientando a un aventurero recién bajado del carruaje.
+TEXT_MANFST205_00660_MOMODI_000_234	¡Pero dioses, qué bueno verte sano y salvo! ¡Al mirarte nadie diría que estuviste peleando con gigantes en la oscuridad!
+TEXT_MANFST205_00660_MOMODI_000_235	Claro que nunca dudé ni por un momento de que lo lograrías, y Papashan tampoco... ¡lo que no quita que se vaya a poner feliz!
+TEXT_MANFST205_00660_MOMODI_000_236	Eres <if(gnum4,toda la aventurera,todo el aventurero)> que Miounne dijo que serías, <split(<string(gstr1)>, ,1)>. ¡El jefe de estación se va a poner feliz cuando se entere!
+TEXT_MANFST205_00660_MOMODI_000_237	Ah, antes de que me olvide, hay una muchacha aquí que quiere hablar contigo. No sabía tu nombre, pero por cómo te describió supe enseguida a quién se refería.
+TEXT_MANFST205_00660_EDDA_000_238	G-gracias por darme un momento. Sé que no me conoces, pero hace tiempo que tenía ganas de hablar contigo.
+TEXT_MANFST205_00660_EDDA_000_239	Me llamo Edda. Soy aventurera como tú, aunque, a decir verdad, no muy buena. En fin, estaba de aventura con mis amigos en Gridania cuando... cuando... P-perdón. Estábamos en Gridania... cuando mataron al líder de nuestro grupo.
+TEXT_MANFST205_00660_EDDA_000_240	Se llamaba Avere, y nos íbamos a casar en primavera. Quizá no te acuerdes de él, pero decir que él se acordaba de ti es quedarse corta. Te elogiaba de la mañana a la noche. Veía en ti lo que eres, ¿sabes?: <if(gnum4,la aventurera de los aventureros,el aventurero de los aventureros)>, y juraba que algún día sería como tú.
+TEXT_MANFST205_00660_EDDA_000_241	Creo que lo habría logrado... si una bestia no le hubiera quitado la oportunidad. Desde ese día pensé mucho en dejar la aventura.
+TEXT_MANFST205_00660_EDDA_000_242	Pero cuando pienso en <if(gnum4,la mujer,el hombre)> que eres ─ en todo lo que lograste ─, me siento inspirada, igual que Avere.
+TEXT_MANFST205_00660_EDDA_000_243	Así que decidí empezar de nuevo como aventurera. Voy a volver a mi aldea natal y empezar mi entrenamiento desde cero.
+TEXT_MANFST205_00660_EDDA_000_244	Pero antes quería conocerte... para preguntarte tu nombre.
+TEXT_MANFST205_00660_EDDA_000_245	<string(gstr1)>... No lo voy a olvidar.
+TEXT_MANFST205_00660_EDDA_000_246	Gracias, <string(gstr1)>. Ojalá volvamos a vernos. ¡Que te vaya bien!
+TEXT_MANFST205_00660_MOMODI_000_247	La aventura puede ser un negocio cruel, maldita sea... Hubo un tiempo en que no entendía por qué alguien se molestaría. Cuando me pidieron que me hiciera cargo del gremio aquí, no quería saber nada con ustedes: pensé que iba a ser un fastidio tremendo cuidarlos a todos.
+TEXT_MANFST205_00660_MOMODI_000_248	Pero, contra mi mejor criterio, decidí aceptar el puesto... y me alegro muchísimo. Me siento privilegiada de ser parte de sus vidas.
+TEXT_MANFST205_00660_MOMODI_000_249	¡Y eso va doble para la tuya, <split(<string(gstr1)>, ,1)>!
+TEXT_MANFST205_00660_MOMODI_000_250	...¿Eh? ¿Qué dijiste? ¿Quieres saber de los Scions of the Seventh Dawn?
+TEXT_MANFST205_00660_MOMODI_000_251	Así que empiezan a moverse en serio...
+TEXT_MANFST205_00660_MOMODI_000_252	Escucha, <split(<string(gstr1)>, ,1)>: los Scions no son gente común, y el trabajo que hacen no es un trabajo común. Sé muy bien lo capaz que eres, pero hasta <italic(1)>tú<italic(0)> lo pensarías dos veces antes de intentar algunas de las cosas que hacen. Sabiendo eso, si todavía estás segur<if(gnum4,a,o)> de que quieres meterte, te cuento lo que pueda.
+TEXT_MANFST205_00660_QIB_TODO_001	¡Derrota a los guardaespaldas!
+TEXT_MANFST205_00660_QIB_HEAVYA_BATTLETALK_001	\<eructo> Yo me encargo de esto. Los demás pueden mirar.
+TEXT_MANFST205_00660_QIB_HEAVYA_BATTLETALK_002	¡Hmph! Nada mal... ¡para un aventurero!
+TEXT_MANFST205_00660_QIB_HEAVYA_BATTLETALK_003	Ugh... Debí parar en la séptima cerveza...
+TEXT_MANFST205_00660_QIB_HEAVYA_BATTLETALK_004	¡Deja de mirarme con la boca abierta y dame una mano, ¿quieres?!
+TEXT_MANFST205_00660_QIB_HEAVYA_BATTLETALK_005	¡Maldición, maldición, MALDICIÓN!
