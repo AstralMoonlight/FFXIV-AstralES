@@ -80,19 +80,29 @@ Los jobs pendientes ya muestran en español algunas líneas que comparten con ot
 | Expansión | Parche | Contenido | Estado |
 |---|---|---|---|
 | **A Realm Reborn** | 2.0 | Historia principal: inicio en Gridania, Limsa Lominsa o Ul'dah, hasta "The Ultimate Weapon" | ![Traducido][ok] |
-| | | The Binding Coil of Bahamut | ![Traducido][ok] |
-| | | Crystal Tower | ![Traducido][ok] |
+| | | Raid de 8: The Binding Coil of Bahamut | ![Traducido][ok] |
+| | | Raid de alianza (24): Crystal Tower | ![Traducido][ok] |
 | **Post A Realm Reborn** | 2.1–2.55 | Historia principal, desde "The Price of Principles" | ![Pendiente][no] |
 | | | Primals de ARR (Hard y Extreme) | ![Pendiente][no] |
 | **Heavensward** | 3.0 | Historia principal | ![Pendiente][no] |
+| | | Raid de 8: Alexander (Gordias, Midas, Creator) | ![Pendiente][no] |
+| | | Raid de alianza (24): Shadow of Mhach | ![Pendiente][no] |
 | **Post Heavensward** | 3.1–3.56 | Historia principal | ![Pendiente][no] |
 | **Stormblood** | 4.0 | Historia principal | ![Pendiente][no] |
+| | | Raid de 8: Omega (Deltascape, Sigmascape, Alphascape) | ![Pendiente][no] |
+| | | Raid de alianza (24): Return to Ivalice | ![Pendiente][no] |
 | **Post Stormblood** | 4.1–4.56 | Historia principal | ![Pendiente][no] |
 | **Shadowbringers** | 5.0 | Historia principal | ![Pendiente][no] |
+| | | Raid de 8: Eden (Gate, Verse, Promise) | ![Pendiente][no] |
+| | | Raid de alianza (24): YoRHa: Dark Apocalypse | ![Pendiente][no] |
 | **Post Shadowbringers** | 5.1–5.55 | Historia principal | ![Pendiente][no] |
 | **Endwalker** | 6.0 | Historia principal | ![Pendiente][no] |
+| | | Raid de 8: Pandæmonium (Asphodelos, Abyssos, Anabaseios) | ![Pendiente][no] |
+| | | Raid de alianza (24): Myths of the Realm | ![Pendiente][no] |
 | **Post Endwalker** | 6.1–6.58 | Historia principal | ![Pendiente][no] |
 | **Dawntrail** | 7.0 | Historia principal | ![Pendiente][no] |
+| | | Raid de 8: Arcadion (Light-heavyweight, Cruiserweight, Heavyweight) | ![Pendiente][no] |
+| | | Raid de alianza (24): Echoes of Vana'diel | ![Pendiente][no] |
 | **Post Dawntrail** | 7.1 en adelante | Historia principal | ![Pendiente][no] |
 
 ## Misiones de clase
