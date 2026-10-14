@@ -1,0 +1,33 @@
+key	text
+TEXT_CLSTHM011_00344_SEQ_00	Yayake quiere que confirmes tu deseo de unirte al Thaumaturges' Guild.
+TEXT_CLSTHM011_00344_SEQ_01	Yayake te pidió buscar al mayor de cinco hermanos, thaumaturges que llevan todos el título de maestro del gremio. Habla con Cocobygo en el santuario interior del Thaumaturges' Guild.
+TEXT_CLSTHM011_00344_SEQ_02	Tras cierta confusión sobre con qué hermano debías hablar, al fin te aceptan en el Thaumaturges' Guild. Equipa tu nuevo cetro y vuelve a hablar con Cocobuki.
+TEXT_CLSTHM011_00344_TODO_00	Habla con Cocobygo.
+TEXT_CLSTHM011_00344_YAYAKE_000_1	¿Y bien, <if(gnum4,aventurera,aventurero)>? ¿Se unirá a nuestro gremio, o pretende ignorar los apremios de un destino impaciente?
+TEXT_CLSTHM011_00344_YAYAKE_000_2	Una sabia decisión, sin duda. Para prepararse para su iniciación, le pediría que estudiara los volúmenes de principios fundamentales de la thaumaturgy. Los ciento ocho.
+TEXT_CLSTHM011_00344_YAYAKE_000_3	...O al menos se lo <italic(1)>pediría<italic(0)> si no hubieran abolido ese requisito. "Desanima demasiado a los novicios", dijeron. Supongo que tendrá que conformarse con recurrir a la sabiduría colectiva de nuestros maestros.
+TEXT_CLSTHM011_00344_YAYAKE_000_4	Verá, tenemos cinco, todos hermanos de la misma casa. Aunque todos ejercen la autoridad suprema, es el mayor quien habla por el gremio cuando hace falta una sola voz. El maestro Coco... ¿Cocoby...? ¡Cocobygo! ...Creo.
+TEXT_CLSTHM011_00344_YAYAKE_000_10	¿Decide cerrar los ojos ante la mano que le tiende el destino? Muy bien, pero no podrá evitar este camino para siempre. Tarde o temprano, sus pasos <if(gnum4,la,lo)> traerán de vuelta al Ossuary... y a nuestro gremio.
+TEXT_CLSTHM011_00344_COCOBYGO_000_20	¿¡Quién!? ¿¡Qué!? Ah. Por los dientes de Thal, <if(gnum4,muchacha,hombre)>, ¿tu madre nunca te dijo que no hay que asustar a un thaumaturge?
+TEXT_CLSTHM011_00344_COCOBANI_000_21	¡Mira esa cara expectante, Cocobygo! Es evidente que <if(gnum4,esta dama,este caballero)> quiere unirse al gremio y busca audiencia con nuestro hermano mayor.
+TEXT_CLSTHM011_00344_COCOBEZI_000_22	Ay, la prelada Yayake... Puede recitar de memoria los trescientos siete versos de los <italic(1)>Ritos fúnebres para los caídos virtuosos<italic(0)>, pero la simple tarea de no confundir nuestros nombres siempre parece estar fuera de su alcance.
+TEXT_CLSTHM011_00344_COCOBOHA_000_23	¡Jua, jua, jua! ¡Pues a mí la confusión constante me divierte muchísimo! Disculpa, <if(gnum4,querida,buen señor)>, mi risa no era para burlarme de tu error. Con quien debes hablar es con nuestro hermano Coco<italic(1)>buki<italic(0)>.
+TEXT_CLSTHM011_00344_COCOBUKI_000_25	¿Qué es esto, qué es esto? ¿Thal nos trajo un nuevo aspirante?
+TEXT_CLSTHM011_00344_COCOBYGO_000_26	¡Aaah! ¡Cocobuki! ¿¡Estuviste aquí todo el tiempo!?
+TEXT_CLSTHM011_00344_COCOBUKI_000_27	Saludos, criatura. Soy Cocobuki, el mayor y, me atrevería a decir, el más sabio de los cinco maestros del Thaumaturges' Guild. Es mi solemne deber darles a los futuros iniciados una idea concisa de nuestro amado arte, así que quiero toda tu atención.
+TEXT_CLSTHM011_00344_COCOBUKI_000_28	Usar la thaumaturgy es desatar una devastación de la mayor magnitud. La fuerza letal de nuestros hechizos supera con creces la capacidad destructiva de cualquier otra forma de manipulación arcana.
+TEXT_CLSTHM011_00344_COCOBUKI_000_29	Fuego, rayo, ventiscas, sopor: el thaumaturge recurre a un amplio arsenal de conjuros ofensivos para incapacitar y aniquilar a toda clase de adversarios.
+TEXT_CLSTHM011_00344_COCOBUKI_000_33	Abre tu mente a nuestras enseñanzas hechiceras, y pronto también tendrás en la palma de la mano el poder sin igual de nuestra disciplina.
+TEXT_CLSTHM011_00344_COCOBUKI_000_34	Je, je, je... Claro que ese poder tiene un precio. Debes estar dispuest<if(gnum4,a,o)> a lanzarte de cabeza al temible abismo de los secretos de la thaumaturgy, pues en este arte solo se avanza superando pruebas letales y terribles.
+TEXT_CLSTHM011_00344_COCOBUKI_000_36	Te pregunto ahora, aspirante: ¿estás dispuest<if(gnum4,a,o)> a saltar al abismo en busca de un poder sin rival?
+TEXT_CLSTHM011_00344_Q1_001_1	¿Estás dispuest<if(gnum4,a,o)> a saltar al abismo?
+TEXT_CLSTHM011_00344_A1_001_1	Sí
+TEXT_CLSTHM011_00344_A2_001_1	No
+TEXT_CLSTHM011_00344_COCOBUKI_000_40	Je, je, je... Una respuesta segura. ¿Tu nombre, por favor? Muy bien, <split(<string(gstr1)>, ,1)>, marquemos tu iniciación con tres regalos de lo más prácticos.
+TEXT_CLSTHM011_00344_COCOBUKI_000_41	Mi primer regalo será una adición a tu hunting log: los nombres de enemigos adecuados para tu entrenamiento como thaumaturge.
+TEXT_CLSTHM011_00344_COCOBUKI_000_42	El segundo y el tercero son este cetro y este escudo, instrumentos que necesitarás para concentrar la fuerza destructiva de tu voluntad.
+TEXT_CLSTHM011_00344_COCOBUKI_000_43	¿Creías que tu iniciación había terminado? Mi querid<if(gnum4,a,o)> discípul<if(gnum4,a,o)>, apenas empezamos. Toma tus nuevas armas y te encomendaré tu primera prueba...
+TEXT_CLSTHM011_00344_COCOBUKI_000_50	¿Mis palabras te clavaron una astilla de miedo en la mente? Somos pacientes, aspirante. Vuelve cuando tu innegable ambición haya borrado de tus pensamientos ese terror inútil.
+TEXT_CLSTHM011_00344_SYSTEM_000_60	¡Desbloqueaste una nueva clase! Puedes cambiar a esta clase cuando quieras equipando el arma que recibiste en esta misión.
+TEXT_CLSTHM011_00344_SYSTEM_000_61	Al cambiar de clase, los <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipo. Así puedes cambiar de clase al instante, sin equipar a mano armas ni equipo.
+TEXT_CLSTHM011_00344_SYSTEM_000_62	El botón de la interfaz Gear Set está en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)>.
