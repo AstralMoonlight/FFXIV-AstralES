@@ -83,7 +83,7 @@ Los jobs pendientes ya muestran en español algunas líneas que comparten con ot
 | | | Raid de 8: The Binding Coil of Bahamut | ![Traducido][ok] |
 | | | Raid de alianza (24): Crystal Tower | ![Traducido][ok] |
 | **Post A Realm Reborn** | 2.1–2.55 | Historia principal, desde "The Price of Principles" | ![Pendiente][no] |
-| | | Primals de ARR (Hard y Extreme) | ![Pendiente][no] |
+| | | Primals de ARR (Hard y Extreme) | ![Traducido][ok] |
 | **Heavensward** | 3.0 | Historia principal | ![Pendiente][no] |
 | | | Raid de 8: Alexander (Gordias, Midas, Creator) | ![Pendiente][no] |
 | | | Raid de alianza (24): Shadow of Mhach | ![Pendiente][no] |
