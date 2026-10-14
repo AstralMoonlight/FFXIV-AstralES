@@ -1,0 +1,29 @@
+key	text
+TEXT_XXAUSC307_03870_SEQ_00	Ceana sabe dónde se puede encontrar el cristal corrupto que buscas.
+TEXT_XXAUSC307_03870_SEQ_01	Un colega de Ceana estudia un cristal corrupto que cumple tus requisitos. Vuelve a Gridania y reúnete con Hedyn para saber dónde encontrar tu presa.
+TEXT_XXAUSC307_03870_SEQ_02	Según Hedyn, es difícil saber dónde está el cristal en un momento dado, porque se lo devoró un spriggan famoso llamado Giggity. Aunque esta bestia voraz suele ocultar su paradero, Hedyn tiene el cebo perfecto para hacerlo salir: el true heart, de nombre peculiar. Entra a la guarida de los spriggans y usa el true heart para atraer a Giggity y matarlo.
+TEXT_XXAUSC307_03870_SEQ_03	En un frenesí primitivo, desgarras las enormes tripas del spriggan y te quedas con el cristal corrupto que yacía en lo más hondo. Muéstrale tu premio a Hedyn para que confirme que es el cristal que buscas.
+TEXT_XXAUSC307_03870_SEQ_04	Hedyn confirma que el cristal maloliente y cubierto de vísceras está hecho de aether de hielo. Para tu disgusto, te enteras de que no puedes limpiar el cristal de las entrañas del spriggan, porque la gruesa capa de jugos digestivos es lo único que te protege de sus efectos nocivos. Ojalá Cid haya ideado una forma menos fastidiosa de lograr lo mismo...
+TEXT_XXAUSC307_03870_TODO_00	Habla con Hedyn en Gridania.
+TEXT_XXAUSC307_03870_TODO_01	Usa el true heart para atraer al portador del cristal.
+TEXT_XXAUSC307_03870_TODO_02	Entrégale el cristal corrupto a Hedyn.
+TEXT_XXAUSC307_03870_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
+TEXT_XXAUSC307_03870_CEANA_000_000	No se aflija ─ sé exactamente dónde encontrar un cristal corrupto de aether de <italic(1)>hielo<italic(0)>. Un colega mío en Gridania estudia los efectos de uno de esos cristales en los seres vivos.
+TEXT_XXAUSC307_03870_CEANA_000_001	¿Eh? ¿Qué es esa cara? ¡Pensé que le alegraría la noticia! Le aseguro que esta <italic(1)>no<italic(0)> es otra búsqueda en vano.
+TEXT_XXAUSC307_03870_CEANA_000_002	Y lo mejor es que esta <italic(1)>vez<italic(0)> no necesita usar esa vasija protegida suya para resguardarse de las energías del cristal. Los hallazgos de Hedyn indican que es bastante seguro.
+TEXT_XXAUSC307_03870_CEANA_000_003	¿Por qué, pregunta? Bueno... digamos que pasó por un proceso <italic(1)>único<italic(0)> que vuelve innecesarias esas precauciones.
+TEXT_XXAUSC307_03870_CEANA_000_004	En fin, no le entretengo más. Fue un placer, <split(<string(gstr1)>, ,1)>. Venga a verme alguna vez, ¿está bien?
+TEXT_XXAUSC307_03870_HEDYN_000_010	Saludos y salutaciones. <if(gnum4,Señorita,Señor)> <split(<string(gstr1)>, ,2)>, supongo. Ceana me contó sus aventuras en Aleport. Lamento mucho el malentendido. Aunque, como le gusta decir al profesor Lamberteint, "Nada de lo que se hace en nombre de la ciencia es en verdad un desperdicio".
+TEXT_XXAUSC307_03870_HEDYN_000_011	Vamos al asunto ─ después de la Calamidad, en los Standing Corses abundaban los cristales corruptos con las propiedades que busca.
+TEXT_XXAUSC307_03870_HEDYN_000_012	Por desgracia, ya no es así... y aunque queda al menos un cristal adecuado por encontrar en el Twelveswood, es más difícil decir dónde está en un momento dado.
+TEXT_XXAUSC307_03870_HEDYN_000_013	Permítame explicarle. Conoce a los spriggans, ¿no? ¿Esos pequeños pillos peludos que suelen buscar minerales y otras piedras? Pues uno de ellos, con un apetito famosamente insaciable, devoró él solo todos los cristales corruptos del Twelveswood. Por suerte para usted, estos cristales tardan una eternidad en digerirse ─ si es que se <italic(1)>pueden<italic(0)> digerir ─, y estoy razonablemente seguro de que todavía queda uno en su panza.
+TEXT_XXAUSC307_03870_HEDYN_000_014	En realidad es fascinante. Mi teoría es que este "Giggity" consumió su primer cristal corrupto cuando... \<suspiro> No le importa nada de esto, ¿verdad?
+TEXT_XXAUSC307_03870_HEDYN_000_015	Al grano, entonces. Giggity rara vez se deja ver, salvo que haya comida especialmente buena. Así que necesitaremos un cebo, y tengo justo el tipo al que no podrá resistirse.
+TEXT_XXAUSC307_03870_HEDYN_000_016	Solo tiene que poner este true heart ─ la historia del origen de su nombre peculiar la dejo para otra ocasión ─ afuera de la guarida de los spriggans y esperar el momento oportuno para saltarle encima.
+TEXT_XXAUSC307_03870_HEDYN_000_017	En cuanto al método para sacarle el cristal de la panza... eso lo dejo a su criterio.
+TEXT_XXAUSC307_03870_HEDYN_000_020	¡Ah! Le ruego que no se me acerque así a escondidas. Estaba absorto en─ un momento, ¿qué es eso? \<olfateo> \<olfateo> ¿Qué es ese olor espantoso?
+TEXT_XXAUSC307_03870_HEDYN_000_030	Vaya, qué cristal tan hermoso, quita el aliento. Veo que mi suposición no era errada.
+TEXT_XXAUSC307_03870_HEDYN_000_031	Ugh... Y también veo que no le hizo ascos a escarbar en las entrañas de un spriggan para conseguir su premio.
+TEXT_XXAUSC307_03870_HEDYN_000_032	Le debemos gratitud a nuestro amigo peludo, ¿sabe? Esta gruesa capa de jugos digestivos nos protege de los efectos nocivos del cristal, igual que la vasija protegida que usaba antes.
+TEXT_XXAUSC307_03870_HEDYN_000_033	¿Por qué esa cara larga, amig<if(gnum4,a,o)>? Por fin consiguió el cristal corrupto que buscaba ─ ¡uno rebosante de aether de <italic(1)>tierra<italic(0)>!
+TEXT_XXAUSC307_03870_HEDYN_000_034	Calma ─ ¡es broma, es broma! Es de aether de <italic(1)>hielo<italic(0)>, no se preocupe. Supongo que fue una broma de mal gusto, considerando que sus dos intentos anteriores fueron en vano...

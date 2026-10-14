@@ -1,0 +1,18 @@
+key	text
+TEXT_GAIUSC204_00963_SEQ_00	Davyd tiene una propuesta sencilla para ti.
+TEXT_GAIUSC204_00963_SEQ_01	A cambio de darte el cristal corrupto que buscas, Davyd quiere que lo ayudes a resolver el problema de los muertos vivientes. Para eso, primero quiere que descubras qué hay detrás de la repentina llegada de cadáveres tambaleantes. Empieza a averiguar hablando con el grupo de aventureros que acampó en la costa este.
+TEXT_GAIUSC204_00963_SEQ_02	Los aventureros hablan de una voz hermosa e irresistible que se oye en el Ship Graveyard, que podría tener relación con los muertos vivientes. Infórmale a Davyd de lo que averiguaste.
+TEXT_GAIUSC204_00963_SEQ_03	Aunque Davyd parece tener alguna idea de cuál podría ser la causa, no se digna a compartirla contigo. Quizás deberías presionarlo para que diga lo que piensa.
+TEXT_GAIUSC204_00963_TODO_00	Habla con los aventureros.
+TEXT_GAIUSC204_00963_TODO_01	Informa a Davyd.
+TEXT_GAIUSC204_00963_DAVYD_000_000	El salvoconducto que le dio el señor Mimidoa quizás le permita entrar a la isla, pero solo el personal autorizado puede pasar de este punto. ¿Por qué, pregunta? Mire hacia arriba y véalo usted mism<if(gnum4,a,o)>.
+TEXT_GAIUSC204_00963_DAVYD_000_001	Cuando esa enorme masa de cristal golpeó el faro, dañó gravemente la estructura y la maquinaria que en otro tiempo alimentaba la baliza.
+TEXT_GAIUSC204_00963_DAVYD_000_002	Sí, contra lo que la gente común quiera hacerle creer, los fuegos de Pharos Sirius no eran obra de la taumaturgia de un mago ni de una colosal bomba arcana, sino de un complejo artefacto alimentado con energía aetherial.
+TEXT_GAIUSC204_00963_DAVYD_000_003	Las reparaciones siguen, pero nadie sabe cuándo terminarán. Y lo peor es que todo el trabajo se detuvo desde que los rumores de muertos andantes espantaron a toda nuestra cuadrilla.
+TEXT_GAIUSC204_00963_DAVYD_000_004	No es que esos rumores sean falsos ─ vi a esos monstruos de lejos, en el Ship Graveyard, al sur. Pero qué los atrajo a nuestras costas sigue siendo un misterio.
+TEXT_GAIUSC204_00963_DAVYD_000_005	Le propongo un trato, <split(<string(gstr1)>, ,1)>: ayúdeme a resolver este misterio, y le traeré su cristal corrupto. De hecho, empezaré a buscar uno que cumpla con sus requisitos.
+TEXT_GAIUSC204_00963_DAVYD_000_006	En cuanto a por dónde empezar a averiguar, da la casualidad de que un grupo de tres aventureros desembarcó hace poco, con la idea de rapiñar baratijas valiosas en el Ship Graveyard. Me sorprendería que no supieran nada de la plaga de muertos vivientes, así que le convendría interrogarlos.
+TEXT_GAIUSC204_00963_AHLDUWIL_000_010	¡Está todo ahí, listo para quien lo agarre! Cinco malditos años de naufragios y sus cargamentos. Pero esas cosas muertas tan raras... y esa voz... Bueno, la voz era bastante linda...
+TEXT_GAIUSC204_00963_ERAPITAROPI_000_020	Tú también los viste, ¿no? <italic(1)>Gente muerta<italic(0)>. Arrastrándose por ahí, sin una preocupación en el mundo. Salvo cuando <italic(1)>sí<italic(0)> parece que les preocupa algo, y empiezan a arrastrar los pies hacia el agua...
+TEXT_GAIUSC204_00963_LOUIS_000_030	Dioses, esa voz, ese único verso fugaz... Todavía la oigo... No te acerques a la costa sur, amig<if(gnum4,a,o)>. Necesité hasta la última onza de mis fuerzas para resistirme.
+TEXT_GAIUSC204_00963_DAVYD_000_040	Hmmm... Esto de una voz seductora me resulta inquietantemente familiar, como si... Pero eso es imposible, están todos muertos... ¿no?

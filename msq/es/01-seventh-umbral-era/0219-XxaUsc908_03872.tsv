@@ -1,0 +1,35 @@
+key	text
+TEXT_XXAUSC908_03872_SEQ_00	El sargento Cracked Fist necesita un héroe que levante la moral en el frente.
+TEXT_XXAUSC908_03872_SEQ_01	El sargento Cracked Fist lamenta la baja moral de las tropas del frente. Convencido de que la presencia de un verdadero héroe ayudaría mucho a levantar el ánimo de la guarnición, te pide que te presentes ante el General Raubahn en la Ceruleum Processing Plant y le ofrezcas tus servicios.
+TEXT_XXAUSC908_03872_SEQ_02	Raubahn te pide que levantes el ánimo de la guarnición de la Ceruleum Processing Plant. Recorre la planta y usa /psych para animar a los reclutas novatos cuya determinación parece flaquear.
+TEXT_XXAUSC908_03872_SEQ_03	Tus enérgicos gestos ayudaron a los reclutas a armarse de valor para la batalla que se avecina. Ahora ve con el teniente Edelstein y usa /psych con él como hiciste con los reclutas.
+TEXT_XXAUSC908_03872_SEQ_04	El teniente Edelstein admite que el fuego de su determinación se había apagado un poco, y te agradece que lo hayas avivado de nuevo. Con el Bull of Ala Mhigo y contigo presentes, toda la guarnición arde de determinación.
+TEXT_XXAUSC908_03872_TODO_00	Habla con Raubahn.
+TEXT_XXAUSC908_03872_TODO_01	Busca a los reclutas y usa /psych para animarlos.
+TEXT_XXAUSC908_03872_TODO_02	Ve con Edelstein y usa /psych para animarlo.
+TEXT_XXAUSC908_03872_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
+TEXT_XXAUSC908_03872_CRACKEDFIST_000_000	<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Le comenté que esperaba que pudiera levantar el decaído ánimo de los hombres y mujeres de nuestra guarnición.
+TEXT_XXAUSC908_03872_CRACKEDFIST_000_001	No se preocupe, no le pedimos ninguna tarea innecesariamente pesada. La mera presencia de un héroe como usted caminando entre ellos sin duda les devolvería algo de moral.
+TEXT_XXAUSC908_03872_CRACKEDFIST_000_002	Así que le pido esto: vaya a la Ceruleum Processing Plant y preséntese ante el General Raubahn cuando llegue. Y que los dioses le acompañen, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)> ─ nuestras tropas cuentan con usted.
+TEXT_XXAUSC908_03872_CRACKEDFIST_000_010	Al General Raubahn y a sus hombres les dará muchísimo ánimo recibir a un verdadero héroe en el frente ─ de eso estoy segurísimo. Que los dioses le acompañen, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>.
+TEXT_XXAUSC908_03872_RAUBAHN_000_020	¡Vaya, si es <if(gnum4,la heroína,el héroe)> que derribó al praefectus! Qué bueno tenerte con nosotros, amig<if(gnum4,a,o)>.
+TEXT_XXAUSC908_03872_RAUBAHN_000_021	Como ves, el ánimo en el campamento es sombrío, en el mejor de los casos. Esperaba que tu sola presencia sirviera para levantar un poco los ánimos.
+TEXT_XXAUSC908_03872_RAUBAHN_000_022	Por desgracia, parece que muchos están tan ocupados revolcándose en el miedo y la autocompasión que ni se dieron cuenta de que llegaste.
+TEXT_XXAUSC908_03872_RAUBAHN_000_023	¿Puedo pedirte que des una vuelta y les digas unas palabras de aliento a los hombres y mujeres a los que les flaquea el espíritu? Pensaba hacerlo yo mismo, pero estoy seguro de que viniendo de ti tendrá más peso.
+TEXT_XXAUSC908_03872_RAUBAHN_000_024	Cuando termines con los demás, ve y haz lo mismo con Edelstein. Diga lo que diga, al teniente también le vendría bien una sacudida. Créeme, lo <italic(1)>sé<italic(0)>.
+TEXT_XXAUSC908_03872_RAUBAHN_000_030	Por el campamento hay reclutas novatos cuya determinación flaquea. Encuéntralos, <split(<string(gstr1)>, ,1)>, y reaviva su espíritu de lucha como solo un héroe puede hacerlo.
+TEXT_XXAUSC908_03872_ENPC1_000_020	Sí, señor... Enseguida, señor... \<suspiro>
+TEXT_XXAUSC908_03872_ENPC1_000_025	¡Uaaaaaah! ¡Los garleans no dan ni la mitad de miedo que tú! ¡Prefiero enfrentarme a un vanguard desnudo como el día en que nací!
+TEXT_XXAUSC908_03872_ENPC1_000_030	Eh... gracias. Creo. Lo que sea que fue eso, por un momento me distrajo de mis penas. \<suspiro>
+TEXT_XXAUSC908_03872_ENPC2_000_040	Ah, <if(gnum4,la heroína,el héroe)> de los famosos rumores... Sin duda nos salvarás a todos tú sol<if(gnum4,a,o)>...
+TEXT_XXAUSC908_03872_ENPC2_000_045	¡Tus gestos enardecedores me recordaron mi propósito! ¡Héroe o no, lucharé con uñas y dientes para proteger el reino!
+TEXT_XXAUSC908_03872_ENPC2_000_050	Debería sentirme honrado de conocer a un héroe, pero es que no tengo ganas de que me importe...
+TEXT_XXAUSC908_03872_ENPC3_000_060	¡E<-->Estoy bien, d<-->de verdad! ¡N<-->Nada de qué p<-->preocuparse! ¡Solo un c<-->caso leve de n<-->nervios de batalla!
+TEXT_XXAUSC908_03872_ENPC3_000_065	¡¡¡YAAAAAARGH!!! ¡DESAYUNO GARLEANS! ¡Y AHORA MISMO TENGO MUCHA <italic(1)>HAMBRE<italic(0)>!
+TEXT_XXAUSC908_03872_ENPC3_000_070	\<jadeo> ¡<if(gnum4,La heroína,El héroe)> de Cape Westwind! ¡N<-->No me mires! ¡D<-->Dioses, <italic(1)>n<-->no me miiiiires<italic(0)>!
+TEXT_XXAUSC908_03872_EDELSTEIN_000_080	¿Quieres avivar <italic(1)>mi<italic(0)> espíritu de lucha como hiciste con nuestros reclutas? ¡Ja, ja! Una oferta amable, pero no hace falta. Te aseguro que el fuego de mi corazón arde tan fuerte como siempre.
+TEXT_XXAUSC908_03872_EDELSTEIN_000_085	Por Rhalgr... Sin darme cuenta, el fuego de mi determinación se había apagado un poco. ¡Pero gracias a ti, vuelve a arder al rojo vivo! ¡Si hace falta, daré la vida para asegurar la victoria de Eorzea!
+TEXT_XXAUSC908_03872_EDELSTEIN_000_100	Ah, pero eso me recuerda, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Hay otro asunto.
+TEXT_XXAUSC908_03872_EDELSTEIN_000_101	Antes de lanzar nuestra ofensiva final, haremos una serie de ejercicios de entrenamiento especiales centrados en maniobras de combate comunes y las marcas que las delatan.
+TEXT_XXAUSC908_03872_EDELSTEIN_000_102	Pensé que te gustaría calentar un poco antes de enfrentarnos a los garleans, así que me tomé la libertad de pedir autorización en tu nombre.
+TEXT_XXAUSC908_03872_EDELSTEIN_000_090	Ojalá tuviéramos tiempo para conocernos mejor, pero ahora tenemos que concentrarnos en la operación. Si fallamos, nuestras vidas ─ si es que seguimos vivos ─ nunca volverán a ser las mismas.

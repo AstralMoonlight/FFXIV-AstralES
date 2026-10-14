@@ -1,0 +1,106 @@
+key	text
+TEXT_GAIUSC605_01005_SEQ_00	Cid quiere que ayudes a reparar la armadura magitek.
+TEXT_GAIUSC605_01005_SEQ_01	Según Cid, el núcleo magitek que está en el corazón del servomecanismo del reaper está gastado sin remedio. Por desgracia, no será fácil conseguir un repuesto en Eorzea. Habla con Wedge y escucha la solución que propone.
+TEXT_GAIUSC605_01005_SEQ_02	Wedge cree que un corazón de mammet podría reemplazar al núcleo magitek gastado. Ve al Goldsmiths' Guild en Ul'dah y recoge un corazón de mammet de manos de la Guildmaster Serendipity.
+TEXT_GAIUSC605_01005_SEQ_03	Conseguiste un reluciente corazón de mammet nuevo. Vuelve al taller de Cid en Revenant's Toll y entrégaselo a Wedge.
+TEXT_GAIUSC605_01005_SEQ_04	Con el corazón de mammet instalado, Wedge te pide que pongas a prueba la armadura magitek ya reparada. Habla con él cuando estés list<if(gnum4,a,o)> para empezar, y te ayudará a subir al asiento del piloto.
+TEXT_GAIUSC605_01005_SEQ_05	Ahora controlas la armadura magitek. Primero, ve a las ruinas del campamento y trepa hasta la cima del montículo de cristal vecino. Si necesitas bajarte, vuelve a hablar con Wedge para reiniciar la prueba.
+TEXT_GAIUSC605_01005_SEQ_06	Las patas parecen funcionar bien. Ahora salta desde tu posición y ve hasta el borde norte de las ruinas del campamento.
+TEXT_GAIUSC605_01005_SEQ_07	Los amortiguadores parecen estar en buen estado. Vuelve adonde te esperan Wedge y los demás.
+TEXT_GAIUSC605_01005_SEQ_08	Pusiste a prueba la armadura magitek. Habla con Wedge para escuchar su diagnóstico completo.
+TEXT_GAIUSC605_01005_SEQ_09	Según Wedge, el servomecanismo no responde como debería. Plantea que el corazón de mammet quizás tenga emociones, y sugiere que todos le den a la armadura magitek una cálida /welcome. Aunque la idea suena completamente absurda, a falta de una mejor, bien puedes hacer lo que te pide.
+TEXT_GAIUSC605_01005_SEQ_10	¿Respondió la armadura a tu entusiasta bienvenida, o fueron imaginaciones tuyas? Habla con Biggs para saber qué opina.
+TEXT_GAIUSC605_01005_SEQ_11	Poco después del extraño ritual de bienvenida de Wedge, los descubren tropas imperiales decididas a recuperar o destruir la armadura magitek. Sin ninguna intención de renunciar a tu premio, repeles al enemigo, y en ese momento el reaper parece responder a tu presencia. Aunque el funcionamiento de la maquinaria avanzada te es ajeno, Cid y los demás interpretan este despertar como señal de que el servomecanismo ya funciona del todo. Si los expertos están convencidos, ¿quién eres tú para contradecirlos? Es hora de volver al taller de Cid en Revenant's Toll.
+TEXT_GAIUSC605_01005_SEQ_12	Tras incontables dificultades imprevistas, y con no poco esfuerzo, ahora eres <if(gnum4,la orgullosa dueña,el orgulloso dueño)> de una armadura magitek en perfecto funcionamiento. Por fin llegó el momento de infiltrarse en Castrum Centri y rescatar a los Scions prisioneros.
+TEXT_GAIUSC605_01005_TODO_00	Habla con Wedge.
+TEXT_GAIUSC605_01005_TODO_01	Habla con Serendipity en el Goldsmiths' Guild.
+TEXT_GAIUSC605_01005_TODO_02	Entrégale el corazón de mammet a Wedge en el taller de Cid.
+TEXT_GAIUSC605_01005_TODO_03	Habla con Wedge.
+TEXT_GAIUSC605_01005_TODO_04	Pilotea la armadura magitek hasta el montículo de cristal.
+TEXT_GAIUSC605_01005_TODO_05	Pilotea la armadura magitek al norte del montículo de cristal.
+TEXT_GAIUSC605_01005_TODO_06	Pilotea la armadura magitek de vuelta hasta Wedge.
+TEXT_GAIUSC605_01005_TODO_07	Habla con Wedge.
+TEXT_GAIUSC605_01005_TODO_08	Dale a la armadura magitek una cálida /welcome.
+TEXT_GAIUSC605_01005_TODO_09	Habla con Biggs.
+TEXT_GAIUSC605_01005_TODO_10	Informa a Cid.
+TEXT_GAIUSC605_01005_CID_000_000	Las reparaciones avanzan a buen ritmo. Biggs y Wedge no deberían tardar mucho en terminar. Pero hay un pequeño problema...
+TEXT_GAIUSC605_01005_CID_000_001	Como recordarás, descubrimos que el servomecanismo de la máquina estaba fallado. Después Wedge determinó que el núcleo magitek que lo mueve está gastado sin remedio.
+TEXT_GAIUSC605_01005_CID_000_002	Esos núcleos son aparatos bastante frágiles que hay que reemplazar cada tanto. Pero gracias a la negligencia de nuestros colegas imperiales, el de este reaper estaba vencido hace rato.
+TEXT_GAIUSC605_01005_CID_000_003	Por desgracia, aquí en Mor Dhona no tenemos un repuesto a mano. Pero no todo está perdido: Wedge cree haber encontrado otra solución. Ve a verlo, ¿quieres? Él te explicará los detalles.
+TEXT_GAIUSC605_01005_SLAFBORN_000_005	¿Quieres entrar? No hace falta decirlo, pero procura que no te vean.
+TEXT_GAIUSC605_01005_Q1_000_000	¿Ir al taller de Cid?
+TEXT_GAIUSC605_01005_A1_000_001	Sí
+TEXT_GAIUSC605_01005_A1_000_002	No
+TEXT_GAIUSC605_01005_WEDGE_000_010	Como creo que ya te dijo el jefe, el núcleo magitek está gastado sin remedio. Tenemos que encontrar un repuesto.
+TEXT_GAIUSC605_01005_WEDGE_000_011	Pensé en pedirte que te apropiaras de más reapers, pero aunque los torpes ingenieros de mantenimiento de Castrum Centri <italic(1)>se hubieran<italic(0)> acordado de cambiar los núcleos, nos arriesgaríamos a levantar sospechas entre los imperiales.
+TEXT_GAIUSC605_01005_WEDGE_000_012	Pero no desesperes, ¡porque creo que hay una solución: reemplazar el núcleo magitek por un corazón de mammet!
+TEXT_GAIUSC605_01005_WEDGE_000_013	Por si no lo sabes, un corazón de mammet sirve para darle consciencia a un autómata. Según mis cálculos, un aparato así debería ser más que capaz de regular el servomecanismo de la armadura. Solo tendremos que hacerle unas pequeñas modificaciones al alojamiento.
+TEXT_GAIUSC605_01005_WEDGE_000_014	Ya le encargué un corazón de mammet de primera al Goldsmiths' Guild. ¡Solo falta que alguien vaya a Ul'dah a buscarlo! Ah... y que lo <italic(1)>pague<italic(0)>. Ejem. ¿Te... mencioné cuánto cuestan? ¿No? B<-->Bueno, suelen costar algo así como, eh... \<murmullo> Espero que no te moleste pagar la cuenta ─ ¡es por una buena causa!
+TEXT_GAIUSC605_01005_SERENDIPITY_000_020	¡Hola! ¿Viene a recoger un corazón de mammet, dice?
+TEXT_GAIUSC605_01005_SERENDIPITY_000_021	¡Entonces debe de venir de parte de los Garlond Ironworks! Me tomé la libertad de elegir el mejor ejemplar que tenemos ─ ¡un corazón digno de un príncipe entre los mammets!
+TEXT_GAIUSC605_01005_SERENDIPITY_000_022	...¿El pago? Oh, no hace falta. Al fin y al cabo, el corazón es para uso personal del señor Alphinaud. Hace un rato nos avisó que <if(gnum4,su sirvienta,su sirviente)> vendría a recogerlo.
+TEXT_GAIUSC605_01005_SERENDIPITY_000_023	Aunque es muy joven, el señor Alphinaud es benefactor nuestro desde los tiempos de mi predecesor. El Goldsmiths' Guild ni soñaría con cobrarle.
+TEXT_GAIUSC605_01005_SERENDIPITY_000_024	¡Pero aquí tiene el corazón de mammet! ¡Que le sirva bien! Ah, ¡y por favor salude de mi parte a su señor!
+TEXT_GAIUSC605_01005_WEDGE_000_030	¿Tienes el corazón de mammet? ¡No veo la hora de ver si funciona!
+TEXT_GAIUSC605_01005_WEDGE_000_031	¡Hurra! ¡Muchísimas gracias!
+TEXT_GAIUSC605_01005_WEDGE_000_032	\<jadeo> Pero esto... ¡esto es <italic(1)>magnífico<italic(0)>! ¡Debe de haber costado una fortuna digna de un emperador!
+TEXT_GAIUSC605_01005_WEDGE_000_033	...¿¡Gratis, cortesía de Alphinaud!? ¡Venir de una familia influyente sin duda tiene sus ventajas!
+TEXT_GAIUSC605_01005_WEDGE_000_034	¡Pero sin más preámbulos, probémoslo! Ya modifiqué el alojamiento, así que <italic(1)>debería<italic(0)> encajar perfecto.
+TEXT_GAIUSC605_01005_WEDGE_000_035	¡Listo! ¡Está preparada! Armadura magitek... ¡en marcha!
+TEXT_GAIUSC605_01005_WEDGE_000_036	...O no.<br>Jaja... ja... Seguro que solo necesita un golpecito cariñoso.
+TEXT_GAIUSC605_01005_WEDGE_000_037	¡Sí! ¡Está... está VIVA!
+TEXT_GAIUSC605_01005_WEDGE_000_038	¡Saquémosla afuera para ponerla a prueba! <split(<string(gstr1)>, ,1)>, ¿te gustaría hacer los honores?
+TEXT_GAIUSC605_01005_WEDGE_100_035	¡Súbete al asiento del piloto! ¡Empezamos en cuanto estés list<if(gnum4,a,o)>!
+TEXT_GAIUSC605_01005_WEDGE_090_036	Primero, quiero que intentes trepar esa maraña de cristales de allá ─ tan alto como puedas, por favor.
+TEXT_GAIUSC605_01005_WEDGE_100_036	Ah, y si por algún motivo necesitas bajarte, vuelve aquí y empezamos de nuevo.
+TEXT_GAIUSC605_01005_WEDGE_000_040	(-Wedge-)Ningún movimiento anómalo en las patas. Bien. Ahora salta abajo y corre hacia el norte, ¡lo más rápido que puedas!
+TEXT_GAIUSC605_01005_WEDGE_000_041	Intentémoslo otra vez, ¿te parece? ¡Súbete de nuevo, <split(<string(gstr1)>, ,1)>!
+TEXT_GAIUSC605_01005_WEDGE_000_042	(-Wedge-)Eh... buen intento, <split(<string(gstr1)>, ,1)>, pero parece que dejaste atrás a Maggie... d-digo, al reaper. Vuelve aquí para empezar de nuevo.
+TEXT_GAIUSC605_01005_BIGGS_000_043	Supervisé cien pruebas como esta, pero todavía me destrozan los nervios. Y eso <italic(1)>sin<italic(0)> el jefe mirando...
+TEXT_GAIUSC605_01005_CID_000_044	Es el primer gran proyecto de los Ironworks desde mi regreso. Quiero que sea un éxito.
+TEXT_GAIUSC605_01005_WEDGE_000_050	(-Wedge-)Las articulaciones de las patas absorben todo el impacto sin problemas... Excelente. Por favor, vuelve, <split(<string(gstr1)>, ,1)>.
+TEXT_GAIUSC605_01005_WEDGE_000_060	(-Wedge-)El torso se mantiene estable con movimientos bruscos... Excelente. Y con eso termina la prueba. ¡Gracias por tu colaboración!
+TEXT_GAIUSC605_01005_WEDGE_000_070	Este es el resumen de lo que encontré. La transmisión está en buen estado. Con algunos ajustes finos, podemos esperar una mejora notable del rendimiento. En cuanto al servomecanismo...
+TEXT_GAIUSC605_01005_WEDGE_000_071	Me temo que no responde ni de cerca como debería, y no sé explicar por qué. El corazón de mammet está impecable, y debería estar bien instalado. ¿Quizás su funcionamiento interno es demasiado distinto para operar en armonía con los demás mecanismos de la armadura?
+TEXT_GAIUSC605_01005_WEDGE_000_072	Mientras que los núcleos magitek solo conducen impulsos, los corazones de mammet permiten que los autómatas procesen la información de sus sensores como sentimi─ \<jadeo> ¡<italic(1)>Sentimientos<italic(0)>! ¿¡Quizás no se siente parte del equipo!? En ese caso, ¡deberíamos esforzarnos todos para darle la <colortype(500)><edgecolortype(501)>bienvenida<edgecolortype(0)><colortype(0)>!
+TEXT_GAIUSC605_01005_WEDGE_000_080	¡Vamos, todos! ¡Démosle a Maggie una cálida <colortype(500)><edgecolortype(501)>bienvenida<edgecolortype(0)><colortype(0)>! ¡Que se sienta como en casa!
+TEXT_GAIUSC605_01005_BIGGS_000_090	...No lo dices en serio. ¿Quieres que le demos la <italic(1)>bienvenida<italic(0)> a un objeto inanimado?
+TEXT_GAIUSC605_01005_CID_000_100	Supongo que la sugerencia de Wedge te dejó pensando. Bueno, no te culpo. El muchacho <italic(1)>sí<italic(0)> tiene ideas bastante poco ortodoxas. Pero la ortodoxia no nos dio el lenguaje, las herramientas, la ropa... ni la maquinaria. A falta de una idea mejor, no creo que haga daño intentarlo.
+TEXT_GAIUSC605_01005_MAGITEKARMOR_000_110	...
+TEXT_GAIUSC605_01005_MAGITEKARMOR_000_120	\<clic>
+TEXT_GAIUSC605_01005_MAGITEKARMOR_000_130	...
+TEXT_GAIUSC605_01005_BIGGS_000_700	Por tonto que me sintiera, hice lo mejor que pude. Di bienvenidas hasta quedarme sin aliento. ¿Y qué esperabas que hiciera, de todos modos? ¿Que nos hiciera una reverencia?
+TEXT_GAIUSC605_01005_CID_000_701	Seguro que te preguntas por qué el servomecanismo es tan importante como para justificar esta tontería.
+TEXT_GAIUSC605_01005_CID_000_702	Sin él, el piloto tendría que controlar a mano cada movimiento de la armadura. Sería una tarea pesada en el mejor de los casos, y del todo impracticable en batalla.
+TEXT_GAIUSC605_01005_CID_000_703	Usar un corazón de mammet en lugar del núcleo magitek gastado parecía una solución prometedora. Por desgracia, el aparato no parece ser compatible con la tecnología garlean.
+TEXT_GAIUSC605_01005_CID_000_704	Wedge, ¿no hay otras formas de mostrarle nuestro aprecio a nuestra amiga?
+TEXT_GAIUSC605_01005_WEDGE_000_705	Ya no sé qué más hacer, jefe. Es que... no parece convencida. ¿<italic(1)>Podríamos<italic(0)> intentar un bailecito, quizás, o vitorearla a todo pulmón...?
+TEXT_GAIUSC605_01005_BIGGS_000_706	¡Imperiales! ¡Vinieron por la armadura!
+TEXT_GAIUSC605_01005_CID_000_707	¡Maldición! ¡Nos acorralaron!
+TEXT_GAIUSC605_01005_IMPERIALCENTURION_000_708	¡Ahí está el reaper!
+TEXT_GAIUSC605_01005_IMPERIALCENTURION_000_709	Robado por el traidor Garlond... ¿¡y es<if(gnum4,a,e)> es <if(gnum4,la,el)> <italic(1)><if(gnum4,matadora,matador)> de eikons<italic(0)>!? Ay, mierda...
+TEXT_GAIUSC605_01005_IMPERIALCENTURION_000_710	¡Pidan refuerzos!
+TEXT_GAIUSC605_01005_CID_000_711	¡Ni lo sueñes!
+TEXT_GAIUSC605_01005_IMPERIALRUNNER_000_712	¡Localizamos el reaper robado! ¡Solicitamos ayuda inmediata! ¡Respondan! ¡<italic(1)>Respondan<italic(0)>!
+TEXT_GAIUSC605_01005_IMPERIALRUNNER_000_713	¡Es inútil, señor! ¡Hay algún tipo de interferencia!
+TEXT_GAIUSC605_01005_IMPERIALCENTURION_000_714	¡Maldito seas, Garlond!
+TEXT_GAIUSC605_01005_IMPERIALCENTURION_000_715	¡No importa! ¡Si no podemos recuperarlo, destrúyanlo!
+TEXT_GAIUSC605_01005_CID_000_716	Por todos los infiernos... <split(<string(gstr1)>, ,1)> ─ ¡protege la armadura a toda costa!
+TEXT_GAIUSC605_01005_BIGGS_000_141	QIB
+TEXT_GAIUSC605_01005_BIGGS_000_142	(Ncut después de la batalla)
+TEXT_GAIUSC605_01005_WEDGE_000_740	¡Jefe, mire! ¡Se movió!
+TEXT_GAIUSC605_01005_CID_000_741	¡Ah, <italic(1)>ahora<italic(0)> se digna a honrarnos con su presencia!
+TEXT_GAIUSC605_01005_CID_000_742	Nos llevó un buen rato, pero por fin estamos listos.
+TEXT_GAIUSC605_01005_CID_000_743	¡Es hora de infiltrarnos en Castrum Centri y rescatar a nuestros compañeros!
+TEXT_GAIUSC605_01005_WEDGE_000_744	¡Listo, el toque final!
+TEXT_GAIUSC605_01005_CID_000_910	El servomecanismo ya funciona del todo ─ y solo hizo falta una simple pelea a muerte. Recuérdame <italic(1)>no<italic(0)> instalar un corazón de mammet en el <italic(1)>Enterprise<italic(0)>, ¿quieres? Por mucho que la quiera, prefiero no tener que declarárselo antes de subir. Pero basta de eso. Ocupémonos de los últimos preparativos.
+TEXT_GAIUSC605_01005_CID_000_911	Gracias a Biggs y Wedge, el reaper está como nuevo. ¡Estamos todo lo preparados que podemos estar!
+TEXT_GAIUSC605_01005_QIB_TODO001	¡Protege la armadura magitek y derrota al enemigo!
+TEXT_GAIUSC605_01005_TEIKOKU_TAICHO_BATTLETALK_01	¡No podemos permitir que el enemigo use nuestras armas contra nosotros!
+TEXT_GAIUSC605_01005_CID_BATTLETALK_02	¡No van a deshacer nuestro trabajo!
+TEXT_GAIUSC605_01005_WEDGE_BATTLETALK_03	¡Uaaah! ¡Aléjenlos de Maggie!
+TEXT_GAIUSC605_01005_WEDGE_BATTLETALK_04	¡Ay, no! ¡Está recibiendo daño!
+TEXT_GAIUSC605_01005_WEDGE_BATTLETALK_05	¡E-Está muy mal! ¡Que alguien haga <italic(1)>algo<italic(0)>!
+TEXT_GAIUSC605_01005_WEDGE_BATTLETALK_06	¡No! ¡Maggie! ¿Por qué? ¿¡POR QUÉÉÉ!? \<sollozo>
+TEXT_GAIUSC605_01005_BIGGS_BATTLETALK_07	¡Están solos! ¡Podemos con ellos!
+TEXT_GAIUSC605_01005_CID_BATTLETALK_DEAD	No... dejen que se la... Ungh...

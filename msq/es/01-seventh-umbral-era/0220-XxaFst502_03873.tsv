@@ -1,0 +1,22 @@
+key	text
+TEXT_XXAFST502_03873_SEQ_00	Edelstein quiere enviarte a empezar la penúltima fase de la Operation Archon.
+TEXT_XXAFST502_03873_SEQ_01	El teniente Edelstein vuelve a agradecerte todo lo que hiciste para levantar el ánimo de las tropas ─ y el suyo propio. Con la moral alta otra vez, se acerca la hora de empezar la tercera fase de la Operation Archon. Marcha hacia Castrum Meridianum y preséntate ante el General Raubahn.
+TEXT_XXAFST502_03873_SEQ_02	Así comienza la penúltima fase de la Operation Archon. Mientras el grueso del ejército de la Alliance siembra el caos afuera, tú tienes que colarte en Castrum Meridianum y desactivar su generador de campo magitek.<br><br>※Enfrenta Castrum Meridianum con otros jugadores mediante el Duty Finder, o con un grupo de NPC mediante el Duty Support. Ambos sistemas se abren desde el menú principal y desde la entrada del dungeon.
+TEXT_XXAFST502_03873_SEQ_03	Lograste desactivar el generador de campo magitek que protegía el Praetorium, y de paso derrotaste a Livia sas Junius. Aunque tienes ganas de seguir con la cuarta y última fase de la Operation Archon, necesitarás una aeronave para llegar adonde descansa el Ultima Weapon. Por ahora, vuelve afuera e informa a Raubahn.
+TEXT_XXAFST502_03873_SEQ_04	Después de reafirmar con su habitual brusquedad que confía en tus habilidades, Raubahn declara que la tercera fase de la Operation Archon fue un éxito. Solo queda el pequeño detalle de encontrar y destruir el Ultima Weapon.
+TEXT_XXAFST502_03873_TODO_00	Habla con Raubahn.
+TEXT_XXAFST502_03873_TODO_01	Entra a Castrum Meridianum.
+TEXT_XXAFST502_03873_TODO_02	Informa a Raubahn.
+TEXT_XXAFST502_03873_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
+TEXT_XXAFST502_03873_EDELSTEIN_000_000	Volviste a encender las llamas del coraje que arden en el corazón de nuestros valientes hombres y mujeres, y por eso te doy las gracias.
+TEXT_XXAFST502_03873_EDELSTEIN_000_001	Y ahora se acerca la hora de la batalla. Tenemos que marchar sin preocupaciones ni remordimientos.
+TEXT_XXAFST502_03873_EDELSTEIN_000_002	El General Raubahn te espera en Castrum Meridianum. La batalla no será fácil, pero confío en que estés a la altura. ¡Que los dioses te acompañen, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>!
+TEXT_XXAFST502_03873_EDELSTEIN_000_010	El General Raubahn te espera en Castrum Meridianum. ¡Que los dioses te acompañen, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>!
+TEXT_XXAFST502_03873_RAUBAHN_000_010	Vuelve nuestr<if(gnum4,a heroína,o héroe)>. Confío en que tu visita haya servido para levantar el ánimo de nuestra guarnición en la víspera de nuestra mayor batalla.
+TEXT_XXAFST502_03873_RAUBAHN_000_011	El tiempo apremia. Empecemos la reunión informativa de inmediato.
+TEXT_XXAFST502_03873_RAUBAHN_000_020	¡No dejaremos que el Black Wolf siga merodeando por nuestras tierras! ¡Enseñémosle al cazador lo que es ser la presa!
+TEXT_XXAFST502_03873_ALPHINAUD_000_950	¡Vaya ahora, <split(<string(gstr1)>, ,1)>, y acérquenos un paso más al amanecer!
+TEXT_XXAFST502_03873_MINFILIA_000_960	Asegúrate de volver con nosotros, amig<if(gnum4,a,o)>. Que el Cristal te bendiga y te proteja.
+TEXT_XXAFST502_03873_RAUBAHN_000_900	¡Sabía que no nos ibas a fallar, soldado!
+TEXT_XXAFST502_03873_RAUBAHN_000_901	Con el Praetorium sin defensas, el camino al Ultima Weapon está abierto.
+TEXT_XXAFST502_03873_RAUBAHN_000_902	¡Llegó la hora de la fase final de la Operation Archon!
