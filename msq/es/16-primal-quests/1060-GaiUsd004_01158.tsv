@@ -1,0 +1,24 @@
+key	text
+TEXT_GAIUSD004_01158_SEQ_00	Y'shtola quiere confiarte la titánica tarea de derrotar a un Titan mucho más fuerte.
+TEXT_GAIUSD004_01158_SEQ_01	Como si se hubieran puesto de acuerdo, los kobolds lograron invocar a Titan. Según Y'shtola, en su encarnación actual Titan supera incluso a Garuda en fuerza. Ve al Maelstrom Command y habla con la Commander Rhiki para saber cómo enfrentarte al Lord of Crags.
+TEXT_GAIUSD004_01158_SEQ_02	Según la Commander Rhiki, en las U'Ghamaro Mines, en Outer La Noscea, se descubrió un aetheryte de los hombres bestia que lleva al dominio de Titan, el Navel. Ábrete paso hasta lo más profundo de la fortaleza de los kobolds y sintonízate con el aetheryte.
+TEXT_GAIUSD004_01158_SEQ_03	Te sintonizaste con el aetheryte de U'Ghamaro y el camino al Navel está abierto. Reúne a tus compañeros de aventuras más valientes y derrota al Lord of Crags.<br><br>※Se puede entrar al Navel (Hard) mediante el Duty Finder.
+TEXT_GAIUSD004_01158_TODO_00	Habla con R'ashaht Rhiki en el Maelstrom Command.
+TEXT_GAIUSD004_01158_TODO_01	Sintonízate con el aetheryte de las U'Ghamaro Mines.
+TEXT_GAIUSD004_01158_YSHTOLA_000_000	Así que tanto Ifrit como Garuda cayeron por tu mano. Te ganaste de verdad un descanso. Ojalá tuvieras el lujo de tiempo para disfrutarlo.
+TEXT_GAIUSD004_01158_YSHTOLA_000_001	Me duele decirlo, pero Titan también ha vuelto, y con ganas. Igual que sus hermanos primals, se volvió más fuerte que antes.
+TEXT_GAIUSD004_01158_YSHTOLA_000_002	Cuando hice mi investigación, todo indicaba que los kobolds estaban muy lejos de poder retomar sus ritos de invocación.
+TEXT_GAIUSD004_01158_YSHTOLA_000_003	Pero resulta que nos estaban engañando. Debí darme cuenta.
+TEXT_GAIUSD004_01158_YSHTOLA_000_004	El dominio subterráneo de los kobolds es profundo, y pueden acaparar cristales sin que nos enteremos. Y debió de ser un tesoro enorme.
+TEXT_GAIUSD004_01158_YSHTOLA_000_005	Hasta ahora, Garuda era la más poderosa de los tres primals activos. Pero según nuestras últimas mediciones, Titan le quitó ese honor.
+TEXT_GAIUSD004_01158_YSHTOLA_000_006	El poder de un primal depende de dos factores: la cantidad de cristales que devoró y el fervor de sus creyentes. Nada me gustaría más que medir con precisión cuánto se fortaleció el Lord of Crags, pero me temo que ya no hay tiempo para tanta prudencia.
+TEXT_GAIUSD004_01158_YSHTOLA_000_007	Ya recibimos un pedido oficial de ayuda del Maelstrom. Y como era de esperar, va dirigido a <italic(1)>ti<italic(0)>.
+TEXT_GAIUSD004_01158_YSHTOLA_000_008	La vez anterior que te enfrentaste a Titan, llegaste a su dominio por el aetheryte que descubrió la Company of Heroes. Por desgracia, ese aetheryte ya no parece responder.
+TEXT_GAIUSD004_01158_YSHTOLA_000_009	Pero no te desanimes, porque al parecer el Maelstrom encontró otro en su lugar. Habla con la Commander Rhiki en el Maelstrom Command para conocer los detalles.
+TEXT_GAIUSD004_01158_YSHTOLA_000_010	No puedo insistir lo suficiente: Titan se volvió temiblemente fuerte. No descuides ningún preparativo.
+TEXT_GAIUSD004_01158_RASHAHT_000_020	Ah, <if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)> de los Scions,<split(<string(gstr1)>, ,1)> de los Scions)>)>, su presencia es muy bienvenida. Me apena que debamos recurrir a usted otra vez para derribar a Titan.
+TEXT_GAIUSD004_01158_RASHAHT_000_022	Seguro que esto ya no es noticia para usted, pero el Lord of Crags volvió más feroz y temible que antes.
+TEXT_GAIUSD004_01158_RASHAHT_000_023	No entendemos cómo los kobolds lograron reunir semejantes reservas de cristales, y en tan poco tiempo. Supongo que lo sabremos en las próximas lunas, pero lo primero es lo primero.
+TEXT_GAIUSD004_01158_RASHAHT_000_024	Necesitamos que derrote a Titan antes de que él y los kobolds puedan causar estragos en Limsa Lominsa. Ya derribó a este primal antes, y creemos que puede volver a salir victorios<if(gnum4,a,o)>.
+TEXT_GAIUSD004_01158_RASHAHT_000_025	Supimos de un nuevo aetheryte que lo llevará al Navel. Está en lo más profundo de las U'Ghamaro Mines ─ no es el lugar más cómodo, lo admito ─, así que tendrá que abrirse paso.
+TEXT_GAIUSD004_01158_RASHAHT_000_026	Dese toda la prisa que pueda ─ la sola presencia de Titan envalentona a los kobolds, y es cuestión de tiempo que nos ataquen con todas sus fuerzas. Que la Navigator guíe su camino, <if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>.

@@ -1,0 +1,40 @@
+key	text
+TEXT_GAIUSD019_01530_SEQ_00	La teniente Scarlet pide tu ayuda para investigar el regreso de un primal.
+TEXT_GAIUSD019_01530_SEQ_01	La teniente Scarlet te da la inquietante noticia del regreso de Ramuh. Según la oficial de los Twin Adder, Frixio pidió tu consejo sobre el regreso demasiado repentino del primal. Ve a Little Solace, en East Shroud, y anuncia tu llegada a Dellexia, la asistente del anciano de los sylphs.
+TEXT_GAIUSD019_01530_SEQ_02	Tras darte otra vez la bienvenida a Little Solace, Frixio te explica que los sylphs tocados ─ movidos por el miedo y la ira ─ volvieron a invocar a su dios del trueno. Aunque insiste en que Ramuh no tiene intenciones destructivas, el anciano de los sylphs admite que la sola presencia del primal es un peligro para la tierra. Hay que derrotar al Lord of Levin, no solo para proteger el reino, sino también para enseñarles a sus vengativos fieles que lo que hacen es inútil. Adéntrate en el territorio de los sylphs tocados y sintonízate con el aetheryte de las Sylphlands.
+TEXT_GAIUSD019_01530_SEQ_03	Te sintonizaste con el aetheryte de las Sylphlands. ¡Reúne a tus compañeros y desafía al Lord of Levin bajo las ramas del Striking Tree!<br><br>※Se puede entrar al Striking Tree (Extreme) mediante el Duty Finder.
+TEXT_GAIUSD019_01530_SEQ_04	Desterraste otra vez a Ramuh al mar de aether. Viaja a los Waking Sands, en Vesper Bay, e informa a Urianger.
+TEXT_GAIUSD019_01530_SEQ_05	Sacas a Urianger de sus estudios para contarle tu segunda victoria sobre el Lord of Levin. Tras escuchar con atención tu relato, el Archon parece convencido de que los sylphs tocados adoptaron el ritual de invocación reforzado que inventaron los Ascians. ¿Con qué terrible propósito buscan los siervos de la Oscuridad corromper la esencia de los primals...?
+TEXT_GAIUSD019_01530_TODO_00	Habla con Dellexia en Little Solace.
+TEXT_GAIUSD019_01530_TODO_01	Vuelve a sintonizarte con el aetheryte de las Sylphlands.
+TEXT_GAIUSD019_01530_TODO_02	Enfrenta a Ramuh en el Striking Tree (Extreme).
+TEXT_GAIUSD019_01530_TODO_03	Informa a Urianger en los Waking Sands.
+TEXT_GAIUSD019_01530_SCARLET_000_000	Vaya, si es quien mató a Ramuh, que viene a verme en persona. Qué suerte que haya pasado por aquí. De hecho, estaba por mandar a un mensajero a buscarl<if(gnum4,a,o)>.
+TEXT_GAIUSD019_01530_SCARLET_100_000	Nos llegaron noticias preocupantes de los sylphs de Little Solace: parece que el Lord of Levin camina otra vez por el Twelveswood.
+TEXT_GAIUSD019_01530_SCARLET_101_000	Por lo que entendí de la explicación de la Elder Seedseer, su último encuentro con el primal fue bastante pacífico. Hubo una batalla, sí, pero Ramuh no le reprochó su victoria.
+TEXT_GAIUSD019_01530_SCARLET_000_001	¿Por qué, entonces, volvió al bosque? Es a usted, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>, a quien el destino eligió para descubrir la respuesta.
+TEXT_GAIUSD019_01530_SCARLET_100_001	Al parecer, Frixio, el anciano de los sylphs, quiere hablar del asunto con usted en persona. Hable primero con Dellexia en Little Solace, y ella anunciará su llegada a su líder.
+TEXT_GAIUSD019_01530_SCARLET_000_002	...Ah, y también le agradecería que les transmita a los Scions lo que averigüe.
+TEXT_GAIUSD019_01530_SCARLET_000_003	Tengo entendido que el Archon Urianger es un gran erudito en todo lo relacionado con los primals. Dele a él su informe final, por favor.
+TEXT_GAIUSD019_01530_DELLEXIA_000_010	¡Caminante está aquí! ¿Caminante oyó del regreso de Lord Ramuh?
+TEXT_GAIUSD019_01530_DELLEXIA_000_011	Entonces este no necesita explicar. ¡Caminante debe esperar aquí mientras este va a buscar al anciano!
+TEXT_GAIUSD019_01530_FRIXIO_000_012	Caminante es muy bienvenid<if(gnum4,a,o)> en el hogar de estos. Los suaves suspiros de los vientos, los árboles y los arroyos contaron a estos las palabras de paz de caminante con Lord Ramuh.
+TEXT_GAIUSD019_01530_FRIXIO_000_013	Estos también oyeron que el atronador desafió a caminante a una batalla. Este está seguro de que a Lord Ramuh le agradó la fuerza de caminante.
+TEXT_GAIUSD019_01530_DELLEXIA_000_014	¡Y qué fuerza tiene caminante! Los que disparan flechas cuentan a menudo grandes historias de caminante, ¡y estos están felices de llamar amig<if(gnum4,a,o)> a caminante!
+TEXT_GAIUSD019_01530_FRIXIO_000_015	¡Pero este debe advertir a caminante! Los tocados invocaron otra vez a Lord Ramuh, ¡y esta vez con una ofrenda de muchos, muchísimos más cristales!
+TEXT_GAIUSD019_01530_FRIXIO_000_016	Este no cree que el atronador quiera traer el juicio a Gridania ─ al fin y al cabo, Lord Ramuh le hizo una promesa especial a caminante.
+TEXT_GAIUSD019_01530_FRIXIO_100_016	Lo que preocupa a este son las intenciones de los tocados. Los tocados todavía actúan con miedo...y con odio.
+TEXT_GAIUSD019_01530_FRIXIO_000_017	Aunque Lord Ramuh ignore los deseos destructivos de los tocados, Su sola presencia drena el aether de la tierra.
+TEXT_GAIUSD019_01530_FRIXIO_100_017	No solo Gridania: el atronador amenaza al reino entero.
+TEXT_GAIUSD019_01530_FRIXIO_101_017	La vida se escurrirá del suelo; las cosechas se marchitarán y morirán. Entonces, aunque Lord Ramuh no lo quiera, los caminantes irán a la guerra por lo que quede.
+TEXT_GAIUSD019_01530_FRIXIO_000_018	¡Este le ruega a <if(gnum4,la valiente y audaz,el valiente y audaz)> caminante que pelee otra vez!
+TEXT_GAIUSD019_01530_FRIXIO_100_018	¡Los tocados deben entender que invocar al atronador es inútil! ¡Que el atronador respeta la fuerza de caminante!
+TEXT_GAIUSD019_01530_FRIXIO_000_019	¡Gracias! ¡Este sabía que caminante haría lo correcto!
+TEXT_GAIUSD019_01530_FRIXIO_100_019	¿Caminante sabe cómo llegar al Striking Tree? Si caminante toca el aetheryte que está en el dominio de los tocados, pronto estará cara a barba con Lord Ramuh.
+TEXT_GAIUSD019_01530_FRIXIO_000_020	¡Estos escucharán las voces del bosque para saber de la victoria de caminante!
+TEXT_GAIUSD019_01530_DELLEXIA_000_021	Si caminante está list<if(gnum4,a,o)> para pelear con Lord Ramuh, caminante debe tocar el aetheryte escondido en lo profundo del territorio de los tocados. ¿Caminante no estaba escuchando al anciano...?
+TEXT_GAIUSD019_01530_URIANGER_000_030	Saludos, <split(<string(gstr1)>, ,1)>. Aunque no desdeño la compañía, pocos cruzan el umbral de los Waking Sands por mero capricho. ¿Requerís mi ayuda en algún asunto?
+TEXT_GAIUSD019_01530_URIANGER_000_031	...¿El Lord of Levin volvió al bosque? Los sylphs rivalizan con los Sahagin en la rapidez de su invocación...
+TEXT_GAIUSD019_01530_URIANGER_000_032	Y vuestro relato pinta con gran viveza la imagen de las energías acrecentadas de Ramuh. Temo que también los tocados jueguen con el ritual de sacrificio.
+TEXT_GAIUSD019_01530_URIANGER_000_033	Vuestra expresión seria delata que lo entendéis: ni siquiera los moradores del Twelveswood son inmunes a las manipulaciones de los Ascians. Una vez más se nos recuerda que solo cuando se disipe la oscuridad dejará de acosarnos esta pesadilla primal.
+TEXT_GAIUSD019_01530_URIANGER_000_034	Prevaleceremos, Warrior of Light. Por el resplandor vuestro y de vuestros compañeros, prevaleceremos...

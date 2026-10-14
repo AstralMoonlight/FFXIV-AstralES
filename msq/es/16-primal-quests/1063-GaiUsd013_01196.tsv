@@ -1,0 +1,38 @@
+key	text
+TEXT_GAIUSD013_01196_SEQ_00	Urianger te pide que estés a la altura de otra amenaza primal.
+TEXT_GAIUSD013_01196_SEQ_01	Titan, el Lord of Crags, hizo notar su presencia en Vylbrand con una fuerza que sacude la tierra. Ve al Maelstrom Command, en Limsa Lominsa, y habla con la High Storm Commander R'ashaht Rhiki para ofrecerle tu ayuda.
+TEXT_GAIUSD013_01196_SEQ_02	Invocado otra vez por sus seguidores kobolds, el primal Titan se instaló en su morada de siempre, el Navel. Infíltrate en la fortaleza de los kobolds en Outer La Noscea y vuelve a sintonizarte con el aetheryte de U'Ghamaro.
+TEXT_GAIUSD013_01196_SEQ_03	Volviste a sintonizarte con el aetheryte oculto en las U'Ghamaro Mines. ¡Reúne a tus compañeros y asalta el dominio del Lord of Crags!<br><br>※Se puede entrar al Navel (Extreme) mediante el Duty Finder.
+TEXT_GAIUSD013_01196_SEQ_04	Derrotaste al primal Titan y obtuviste un foco ritual.
+TEXT_GAIUSD013_01196_SEQ_05	Entrégale el objeto ritual a la Commander R'ashaht Rhiki en el Maelstrom Command, en Limsa Lominsa, y cuéntale tu victoria sobre el primal Titan.
+TEXT_GAIUSD013_01196_SEQ_06	La Commander R'ashaht Rhiki parece tan insegura del propósito del foco ritual como su par de Gridania. Vuelve a los Waking Sands, en Vesper Bay, y entrégale a Urianger el segundo trofeo de hueso.
+TEXT_GAIUSD013_01196_SEQ_07	Tras escuchar el relato de tus aventuras, Urianger empieza a comparar lo que tienen en común los inusualmente poderosos regresos de Garuda y de Titan. Parece que la creciente fuerza de los primals coincide justo con el progreso constante de tus propias habilidades...
+TEXT_GAIUSD013_01196_TODO_00	Habla con R'ashaht Rhiki en el Maelstrom Command.
+TEXT_GAIUSD013_01196_TODO_01	Vuelve a sintonizarte con el aetheryte de las U'Ghamaro Mines.
+TEXT_GAIUSD013_01196_TODO_02	Enfrenta a Titan en el Navel (Extreme).
+TEXT_GAIUSD013_01196_TODO_03	Enfrenta a Titan en el Navel (Extreme).
+TEXT_GAIUSD013_01196_TODO_04	Lleva el Crag ritual focus a R'ashaht Rhiki en el Maelstrom Command.
+TEXT_GAIUSD013_01196_TODO_05	Entrégale el Crag ritual focus a Urianger en los Waking Sands, en Vesper Bay.
+TEXT_GAIUSD013_01196_URIANGER_000_000	El Maelstrom envió noticia de un temblor que sacudió las montañas y que sintieron todos los hombres y bestias de la mitad norte de Vylbrand.
+TEXT_GAIUSD013_01196_URIANGER_000_001	Así es, los kobolds despertaron al Lord of Crags, y su estremecedora llegada hace eco de la fuerza acrecentada que mostró su hermana primal.
+TEXT_GAIUSD013_01196_URIANGER_000_002	Buscad a la High Storm Commander R'ashaht Rhiki en el Maelstrom Command, en Limsa Lominsa. Vuestro camino os lleva una vez más a los pies de piedra de Titan.
+TEXT_GAIUSD013_01196_RASHAHT_000_010	Ah, <if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)> de los Scions,<split(<string(gstr1)>, ,1)> de los Scions)>)>. Me alegra verl<if(gnum4,a,o)> responder a nuestro desesperado llamado.
+TEXT_GAIUSD013_01196_RASHAHT_000_011	Como seguramente ya oyó, parece que los kobolds invocaron otra vez al primal Titan en su morada de la montaña.
+TEXT_GAIUSD013_01196_RASHAHT_100_011	Los temblores recientes no pueden atribuirse a nadie más. Y, a juzgar por su intensidad, podemos estar seguros de que las advertencias de Urianger sobre el poder acrecentado de los primals no son nada vanas.
+TEXT_GAIUSD013_01196_RASHAHT_000_012	A los oficiales del Maelstrom, por supuesto, nada nos gustaría más que hacer añicos nosotros mismos a ese peñasco belicoso, pero no podemos arriesgarnos a que nuestros soldados queden subyugados. Una vez más, debemos recurrir a los veteranos curtidos de los Scions.
+TEXT_GAIUSD013_01196_RASHAHT_000_013	Según nuestras mediciones, los temblores son más fuertes en el Navel ─ la guarida de siempre de Titan, en las U'Ghamaro Mines.
+TEXT_GAIUSD013_01196_RASHAHT_000_014	Debería poder entrar al dominio del primal si vuelve a sintonizarse con el aetheryte de los hombres bestia que está en territorio kobold, en Outer La Noscea ─ después de la derrota de su Gran Padre, puede apostar a que "recalibraron" su cristal.<br>¡Que se estrelle contra esa roca terca con la furia de mil olas!
+TEXT_GAIUSD013_01196_ASCIANSCEPTER_000_030	<colortype(547)>Titan mostró un poder destructivo de lo más satisfactorio. Los efectos intensificadores de los focos rituales son innegables.<colortype(0)>
+TEXT_GAIUSD013_01196_ASCIANSWORD_000_031	<colortype(547)>Por poderosa que fuera esta encarnación, la derrota final del primal no era inesperada. La fuerza creciente de <if(gnum4,la Portadora,el Portador)> de la Luz, en cambio, ya supera todo cálculo.<colortype(0)>
+TEXT_GAIUSD013_01196_ASCIANSCEPTER_000_032	<colortype(547)>Semejante demostración de fuerza aún nos sirve ─ invita a represalias cada vez mayores.<colortype(0)>
+TEXT_GAIUSD013_01196_ASCIANSWORD_000_033	<colortype(547)>Sí... Cuanto más brilla la Luz, más se hunden las sombras en la Oscuridad.<colortype(0)>
+TEXT_GAIUSD013_01196_RASHAHT_000_040	¡Los temblores cesaron! Parece que, por más poderoso que se vuelva el Lord of Crags, usted y sus compañeros están a la altura.<br>...¿Sí? ¿Encontró algo interesante en el Navel?
+TEXT_GAIUSD013_01196_RASHAHT_000_041	¿Esto es...hueso? Y qué diseño tan grotesco. La verdad, nunca voy a entender el sentido estético de los kobolds.
+TEXT_GAIUSD013_01196_RASHAHT_100_041	¿Dice que consiguió un objeto parecido tras su batalla con Garuda? Entonces debemos considerar la posibilidad de que estas baratijas sean las responsables de la espantosa nueva fuerza de los primals.
+TEXT_GAIUSD013_01196_RASHAHT_000_042	Pero dejaré esas conclusiones a quienes saben más del tema que yo. Vuelva a los Waking Sands, por favor, y dele mis saludos a Urianger.
+TEXT_GAIUSD013_01196_URIANGER_000_050	Así que también el Lord of Crags poseía un vigor sin precedentes. ¿Y habéis vuelto con otra curiosidad de hueso?
+TEXT_GAIUSD013_01196_URIANGER_000_051	Los kobolds no son conocidos por fabricar objetos de esta manera... Es más, su factura guarda un parecido notable con la del trofeo que recuperasteis de la guarida de Garuda.
+TEXT_GAIUSD013_01196_URIANGER_000_052	Los restos descarnados de fieles de los hombres bestia ─ ese es el material común a estas dos ominosas herramientas rituales. ¿Qué hechicería indecorosa legaron los Paragons a sus peones desprevenidos?
+TEXT_GAIUSD013_01196_URIANGER_000_053	Hay otro rasgo común en este fortalecimiento de los primals que me inquieta ─ y sois <italic(1)>vos<italic(0)>, <string(gstr1)>.
+TEXT_GAIUSD013_01196_URIANGER_100_053	Por cada montaña que conquistáis, me asombra el aumento de poder con que responden los primals. El patrón es demasiado claro para ignorarlo.
+TEXT_GAIUSD013_01196_URIANGER_000_054	Tal ciclo no augura sino males para el reino ─ he de desvelar la verdadera naturaleza de estos entes inmortales antes de que la tierra vuelva a sumirse en la ruina. Y, como siempre, vos sois mi aliad<if(gnum4,a,o)> más firme en la búsqueda de las llaves necesarias.
