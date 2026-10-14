@@ -1,0 +1,77 @@
+key	text
+TEXT_MANSEA005_00543_SEQ_00	Staelwyrn, el dueño de Summerford Farms, tiene una tarea para un aventurero competente.
+TEXT_MANSEA005_00543_SEQ_01	Los peones cuentan que una banda de hombres de aspecto salvaje y con la cara tatuada anda merodeando cerca de la granja, vigilando. Creen que estos visitantes indeseados son los secuestradores de los que tanto se habla, y la inquietud que eso provoca le está costando mucho a la productividad de la granja. Ve a Seasong Grotto e investiga el lugar que, según dicen, es la guarida de los matones tatuados.
+TEXT_MANSEA005_00543_SEQ_02	En Seasong Grotto, tu encuentro con una mujer que lleva un extraño artefacto se ve interrumpido de golpe por la embestida de un goobbue enfurecido.
+TEXT_MANSEA005_00543_SEQ_03	Tras descubrir un cuchillo de marinero clavado en el lomo de la criatura derrotada, la mujer parece convencida de que los autores de los secuestros son piratas. Vuelve a Summerford Farms y muéstrale a Staelwyrn lo que encontraste.
+TEXT_MANSEA005_00543_SEQ_04	Staelwyrn te asegura que la dama que conociste en la gruta no tiene nada que ver con los secuestros, y coincide con su teoría de que probablemente haya piratas metidos en esto. Después de agradecerte tu parte en la investigación, el granjero te pide que sigas ayudando a quienes lo necesitan por el bien de Limsa Lominsa.
+TEXT_MANSEA005_00543_TODO_00	Investiga Seasong Grotto.
+TEXT_MANSEA005_00543_TODO_01	Entrégale el cuchillo de marinero desafilado a Staelwyrn en Summerford Farms.
+TEXT_MANSEA005_00543_TODO_02	Entrégale el cuchillo de marinero desafilado a Staelwyrn en Summerford Farms.
+TEXT_MANSEA005_00543_STAELWYRN_000_1	Ah, <split(<string(gstr1)>, ,2)>. Ese aire de confianza me dice que no estuviste de brazos cruzados desde la última vez que nos vimos.
+TEXT_MANSEA005_00543_STAELWYRN_000_2	Espero no equivocarme contigo, porque tengo una tarea que necesita la atención de un aventurero capaz. ¿Podrías ser tú ese aventurero?
+TEXT_MANSEA005_00543_STAELWYRN_000_10	Me alegra oírlo. Entonces te cuento la triste historia.
+TEXT_MANSEA005_00543_STAELWYRN_000_11	Ya habrás oído los rumores de los secuestros. Sí, desaparece gente de todos los rincones de Limsa Lominsa, como si una mano invisible los arrancara de la faz de Hydaelyn, con botas y todo.
+TEXT_MANSEA005_00543_STAELWYRN_000_12	¿Y qué tiene que ver eso con Summerford Farms?, preguntarás. Bueno, eso está por verse, pero parece que unos tipos de lo más indeseables, con la cara tatuada de azul, andan acercándose a escondidas a la orilla de los campos y espiando a mis peones.
+TEXT_MANSEA005_00543_STAELWYRN_000_13	A nadie le gustaría que unos salvajes así lo vigilen, ni en el mejor de los casos, pero los peones están convencidos de que son los secuestradores de los rumores, que vienen por su pellejo.
+TEXT_MANSEA005_00543_STAELWYRN_000_14	Ni hace falta decir que están muertos de miedo, y su trabajo se resiente ─ justo lo último que necesito cuando mis viejos tripulantes todavía se están acostumbrando a su nuevo oficio. Cuesta horrores sacarlos de la casa por la mañana.
+TEXT_MANSEA005_00543_STAELWYRN_000_15	Y ahí, como dicen, entras tú. ¿Estarías dispuest<if(gnum4,a,o)> a investigar a esos matones tatuados por mí?
+TEXT_MANSEA005_00543_STAELWYRN_000_16	Así me gusta, <if(gnum4,muchacha,muchacho)>. Cuanto antes lleguemos al fondo de esto, antes volverá este lugar a parecerse a una granja que funciona.
+TEXT_MANSEA005_00543_STAELWYRN_000_17	Te sugiero empezar echando un vistazo en Seasong Grotto. Si hay que creer en los informes, nuestros visitantes indeseados se instalaron allí.
+TEXT_MANSEA005_00543_STAELWYRN_000_18	Pero ten cuidado, <split(<string(gstr1)>, ,2)> ─ no sabría decirte con seguridad con qué clase de malhechores estamos tratando. Si <italic(1)>son<italic(0)> los secuestradores... bueno, tú mantente alerta, ¿sí?
+TEXT_MANSEA005_00543_SYSTEM_000_30	Estás por entrar en una batalla instanciada. Las batallas instanciadas solo ocurren durante ciertas misiones.
+TEXT_MANSEA005_00543_SYSTEM_000_31	Tómate un momento para leer la información de la ventana de ayuda antes de responder al llamado del deber.
+TEXT_MANSEA005_00543_Q1_000_1	El deber llama. ¿Quieres comenzar<br>"Lurkers in the Grotto"?
+TEXT_MANSEA005_00543_A1_000_1	Sí
+TEXT_MANSEA005_00543_A1_000_2	No
+TEXT_MANSEA005_00543_000010_YSHTOLA	(-???-)<italic(1)>Soy las olas que llevan.<br>Soy los vientos que guían.<italic(0)>
+TEXT_MANSEA005_00543_000020_YSHTOLA	(-???-)<italic(1)>Soy las estrellas del ocaso.<br>Soy el cielo del alba.<br>Del mar he nacido.<br>Y en él he de morir.<italic(0)>
+TEXT_MANSEA005_00543_000030_YSHTOLA	(-Conjurer culta-)Así dice el Sailors' Requiem tallado en aquella piedra.
+TEXT_MANSEA005_00543_000040_YSHTOLA	(-Conjurer culta-)Esas palabras describen bien la manera en que viven los ciudadanos de Limsa Lominsa.
+TEXT_MANSEA005_00543_000050_YSHTOLA	(-Conjurer culta-)Es a la vez una letanía contra la desgracia para quienes salen al mar...
+TEXT_MANSEA005_00543_000060_YSHTOLA	(-Conjurer culta-)...y una plegaria para que las almas de quienes mueren en tierra encuentren el camino de vuelta al mar.
+TEXT_MANSEA005_00543_000070_YSHTOLA	(-Conjurer culta-)Nos volvemos a ver.
+TEXT_MANSEA005_00543_000080_YSHTOLA	(-Conjurer culta-)¿O no? Disculpa, me temo que te confundí con otra persona.
+TEXT_MANSEA005_00543_000090_YSHTOLA	(-Conjurer culta-)Hay algo en ti... ¿Tu andar, quizá? Bueno, no importa.
+TEXT_MANSEA005_00543_000100_YSHTOLA	(-Conjurer culta-)¿Qué te trae a este lugar sagrado de la gente de mar, si se puede saber?
+TEXT_MANSEA005_00543_000110_YSHTOLA	(-Conjurer culta-)Ah, eres <if(gnum4,la aventurera,el aventurero)> que vi por Summerford Farms.
+TEXT_MANSEA005_00543_000120_YSHTOLA	(-Conjurer culta-)Creí ir tras el rastro de los secuestradores, pero parece que erré el blanco.
+TEXT_MANSEA005_00543_000130_YSHTOLA	(-Conjurer culta-)...O quizá no.
+TEXT_MANSEA005_00543_000140_YSHTOLA	(-Conjurer culta-)Tal como sospechaba, la perturbación del aether aquí no es algo natural.
+TEXT_MANSEA005_00543_000150_YSHTOLA	(-Conjurer culta-)Tampoco es casualidad que nos ataquen justo cuando los dos venimos a buscar a los responsables de las desapariciones.
+TEXT_MANSEA005_00543_000160_YSHTOLA	(-Conjurer culta-)Pero ¿a quién le conviene que este secreto se guarde?
+TEXT_MANSEA005_00543_000170_YSHTOLA	(-Conjurer culta-)Esas preguntas tendrán que esperar. Ocupémonos del asunto que tenemos entre manos, por desagradable que sea.
+TEXT_MANSEA005_00543_QIB_TODO001	¡Derrota a las criaturas enloquecidas!
+TEXT_MANSEA005_00543_YSHTOLA_BATTLETALK_01	Siento algo extraño en esta criatura. Mantente alerta.
+TEXT_MANSEA005_00543_YSHTOLA_BATTLETALK_02	¡Cuidado! ¡La alteración del aether atrae a otros a la pelea!
+TEXT_MANSEA005_00543_YSHTOLA_BATTLETALK_03	¡Concéntrate en la batalla!<br>Deja que yo me ocupe de las heridas.
+TEXT_MANSEA005_00543_YSHTOLA_BATTLETALK_04	¿Más visitantes indeseados?<br>Acábalos rápido o nos superarán.
+TEXT_MANSEA005_00543_YSHTOLA_BATTLETALK_06	La criatura flaquea.<br>Sigue atacando y la batalla pronto será nuestra.
+TEXT_MANSEA005_00543_YSHTOLA_BATTLETALK_07	Quizá esto nos supera...
+TEXT_MANSEA005_00543_100180_YSHTOLA	...
+TEXT_MANSEA005_00543_100190_MOTHERCRYSTAL	Escucha... Siente... Piensa...
+TEXT_MANSEA005_00543_300200_YSHTOLA	(-Conjurer culta-)¿Despertaste otra vez?
+TEXT_MANSEA005_00543_300210_YSHTOLA	(-Conjurer culta-)Ajá. Alguien avivó con premeditación cruel la furia de la pobre criatura.
+TEXT_MANSEA005_00543_300220_YSHTOLA	(-Conjurer culta-)¿Ves este cuchillo? Lo encontré clavado en el lomo del goobbue.
+TEXT_MANSEA005_00543_300230_YSHTOLA	(-Conjurer culta-)Ya vi cuchillos como este ─ se usan sobre todo para cortar cuerdas.
+TEXT_MANSEA005_00543_300240_YSHTOLA	(-Conjurer culta-)Parece que nuestros culpables son hombres de mar de alguna clase... lo más probable, piratas.
+TEXT_MANSEA005_00543_300250_YSHTOLA	(-Conjurer culta-)En todo caso, pareces bastante recuperad<if(gnum4,a,o)> de tu repentino... malestar.
+TEXT_MANSEA005_00543_300260_YSHTOLA	(-Conjurer culta-)Confieso que me tomó por sorpresa que te desplomaras justo en el momento de nuestra victoria. ¿Quizá un exceso de aether...?
+TEXT_MANSEA005_00543_300270_YSHTOLA	(-Conjurer culta-)¿Perdón? ¿Un "cristal enorme"? No sé de qué─ Ah.
+TEXT_MANSEA005_00543_300280_YSHTOLA	(-Conjurer culta-)Vaya, vaya... Este <italic(1)>sí<italic(0)> que fue un día de revelaciones inesperadas.
+TEXT_MANSEA005_00543_300290_YSHTOLA	(-Conjurer culta-)Debo seguir con mi investigación.
+TEXT_MANSEA005_00543_300300_YSHTOLA	(-Conjurer culta-)Mientras tanto, te sugiero que le lleves este cuchillo a quien te contrató, junto con una advertencia: es probable que los piratas estén metidos en este turbio asunto.
+TEXT_MANSEA005_00543_300310_YSHTOLA	(-Conjurer culta-)Me temo que los días que vienen prometen poco descanso...
+TEXT_MANSEA005_00543_300320_YSHTOLA	(-Conjurer culta-)Que nuestros caminos vuelvan a cruzarse bajo la luz del Cristal.
+TEXT_MANSEA005_00543_STAELWYRN_000_30	¡<split(<string(gstr1)>, ,2)>! ¡Qué alegría verte de vuelta sano y salvo!
+TEXT_MANSEA005_00543_STAELWYRN_000_31	Mis muchachos no paraban de hablar de que oyeron algo así como los siete infiernos desatándose cerca de la gruta, y temí haberte mandado a la muerte.
+TEXT_MANSEA005_00543_STAELWYRN_000_32	Si estuviste en medio de ese alboroto, espero que hayas sacado algo interesante. No me gustaría pensar que arriesgaste la vida por nada.
+TEXT_MANSEA005_00543_STAELWYRN_000_40	Mmm... Un cuchillo sacado del lomo de una criatura que mataste en la cueva, ¿eh?
+TEXT_MANSEA005_00543_STAELWYRN_000_41	Sí, estoy de acuerdo en que un cuchillo así forma parte del equipo de cualquier hombre de mar.
+TEXT_MANSEA005_00543_STAELWYRN_000_42	Empiezo a pensar que estos rufianes son piratas que vinieron a tentar a mis peones para que vuelvan a la vida del saqueo. Lo más seguro es que no les gustó que aparecieras en su puerta y te echaron encima un goobbue enloquecido.
+TEXT_MANSEA005_00543_STAELWYRN_000_43	Sí, los piratas <italic(1)>han<italic(0)> estado sumando gente últimamente. Más vale que avise a los muchachos y muchachas que trabajan para mí que estén atentos a sus artimañas.
+TEXT_MANSEA005_00543_STAELWYRN_000_44	...¿Mm? ¿Conociste a alguien más en la gruta? ¿Una mujer con un artefacto extraño...? Ah... ¡Y'shtola!
+TEXT_MANSEA005_00543_STAELWYRN_000_45	Ya lleva un buen tiempo en Limsa Lominsa. Sus estudios del aether la traen seguido a Summerford, así que no tiene nada de raro que estuviera en la gruta.
+TEXT_MANSEA005_00543_STAELWYRN_000_46	Es una muchacha de aspecto curioso, te lo concedo, pero no es de las que se juntan con secuestradores. Puedes creerme.
+TEXT_MANSEA005_00543_STAELWYRN_000_47	De quienes sí hay que desconfiar es de esos peones míos que todavía no dejan del todo atrás su pasado pirata. La tentación de volver a la vida libre y fácil del bucanero puede ser demasiado fuerte.
+TEXT_MANSEA005_00543_STAELWYRN_000_48	Te lo agradezco, <split(<string(gstr1)>, ,2)>. Si no fuera por el esfuerzo de aventureros valientes como tú, esta granja estaría mucho peor de lo que está.
+TEXT_MANSEA005_00543_STAELWYRN_000_49	Tú sigue prestando tu talento a quien lo necesite, ¿eh? Ayuda a darle a Limsa el futuro más brillante que se merece.

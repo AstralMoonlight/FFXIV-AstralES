@@ -1,0 +1,15 @@
+key	text
+TEXT_SUBSEA051_00463_SEQ_00	Staelwyrn, el dueño de Summerford Farms, quiere revisar tu equipo para ver si estás a la altura de las tareas que tiene pensadas.
+TEXT_SUBSEA051_00463_SEQ_01	Para que Staelwyrn te dé tareas, primero debes reunir un equipo respetable. Equípate cabeza, cuerpo, manos, piernas y pies con equipo de item level 5 o más y preséntate ante Staelwyrn para que te revise.
+TEXT_SUBSEA051_00463_SEQ_02	A Staelwyrn le gusta tu estampa, y tiene trabajo para ti cuando estés list<if(gnum4,a,o)>.
+TEXT_SUBSEA051_00463_TODO_00	Preséntate ante Staelwyrn para que te revise.
+TEXT_SUBSEA051_00463_STAELWYRN_000_1	Tengo pensado darte una tarea, <split(<string(gstr1)>, ,2)>, pero antes necesito asegurarme de que estás bien equipad<if(gnum4,a,o)>.
+TEXT_SUBSEA051_00463_STAELWYRN_000_2	A los piratas no les gusta parlamentar con petimetres, ¿entiendes? Puede que los de aquí hayan cambiado los alfanjes por arados, pero en el fondo siguen siendo unos granujas.
+TEXT_SUBSEA051_00463_STAELWYRN_000_3	Sé reconocer un buen equipo cuando lo veo. Vuelve cuando creas que vas mejor equipad<if(gnum4,a,o)>.
+TEXT_SUBSEA051_00463_SYSTEM_000_4	Equípate cabeza, cuerpo, manos, piernas y pies con equipo de item level 5 o más y habla con Staelwyrn.
+TEXT_SUBSEA051_00463_STAELWYRN_000_11	A ver, déjame echarte un vistazo.
+TEXT_SUBSEA051_00463_STAELWYRN_000_12	¡Ajá! Si vas <italic(1)>así<italic(0)> de bien protegid<if(gnum4,a,o)>, no me va a dar ninguna culpa echarte a los tiburones.
+TEXT_SUBSEA051_00463_STAELWYRN_000_13	Los antiguos bucaneros son gente cascarrabias. Arden de amor por el mar y les importan poco las leyes de la tierra.
+TEXT_SUBSEA051_00463_STAELWYRN_000_14	Pero respetan la fuerza, y por lo que veo, no te va a costar nada llamar su atención.
+TEXT_SUBSEA051_00463_STAELWYRN_000_15	No, no, <if(gnum4,muchacha,muchacho)>, me temo que no puedo darte trabajo con esa pinta. No se trata solo de defenderte en combate. Tienes que vestirte de forma que <italic(1)>aterrorices<italic(0)> a tus enemigos y se arrepientan de haberte desafiado.
+TEXT_SUBSEA051_00463_SYSTEM_000_16	Equípate cabeza, cuerpo, manos, piernas y pies con equipo de item level 5 o más y habla con Staelwyrn.
