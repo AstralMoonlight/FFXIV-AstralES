@@ -1,0 +1,31 @@
+key	text
+TEXT_GAIUSB801_00910_SEQ_00	A Lord Haurchefant le preocupa el bienestar de Lord Francel.
+TEXT_GAIUSB801_00910_SEQ_01	Lord Haurchefant recibió un informe de que vieron a Lord Francel y a varios caballeros rumbo al Steel Vigil, un puesto de avanzada que la Dravanian Horde tomó hace mucho tiempo. Sin saber qué motivó esa expedición tan peligrosa, Lord Haurchefant te pide que vayas al puesto en ruinas, busques a Lord Francel y le prestes ayuda si hace falta.
+TEXT_GAIUSB801_00910_SEQ_02	Encuentras a Lord Francel apenas un instante antes de que lo mate un siervo dravaniano, del que te deshaces con tu habitual estilo heroico. Lord Francel te agradece la oportuna intervención y te ruega que busques por los alrededores a sus tres caballeros, a quienes no ve desde que la bestia atacó.
+TEXT_GAIUSB801_00910_SEQ_03	Tras una búsqueda rápida, encuentras a los tres caballeros, y ninguno parece herido de muerte. Vuelve con Lord Francel y dile que sus caballeros están bien.
+TEXT_GAIUSB801_00910_SEQ_04	Lord Francel te agradece que atendieras a sus caballeros, y explica que la expedición fue un intento temerario de mejorar la reputación de la House Haillenarte, muy golpeada desde la pérdida del Steel Vigil y las recientes acusaciones de herejía. Aunque hoy le salvaste la vida, explica que pronto no tendrá más remedio que aceptar el juicio de los inquisidores... sea cual sea. Vuelve con Lord Haurchefant y cuéntale todo lo ocurrido.
+TEXT_GAIUSB801_00910_SEQ_05	Lord Haurchefant te agradece que salvaras la vida de Lord Francel, y le alegra informarte que encontraron a un testigo del último vuelo del <italic(1)>Enterprise<italic(0)>. Por desgracia, tu visita a Skyfire Locks ya es de dominio público, y el testigo no quiere ayudar a un<if(gnum4,a extranjera,extranjero)> que quizás se codeó con un acusado de herejía. Lord Haurchefant concluye que, si quieres el testimonio, primero tendrás que limpiar el nombre de Lord Francel.
+TEXT_GAIUSB801_00910_TODO_00	Busca a Francel.
+TEXT_GAIUSB801_00910_TODO_01	Ayuda a los caballeros de Francel.
+TEXT_GAIUSB801_00910_TODO_02	Ayuda a Francel.
+TEXT_GAIUSB801_00910_TODO_03	Informa a Haurchefant.
+TEXT_GAIUSB801_00910_HAURCHEFANT_000_000	Tenía otro pedido personal para usted. Tiene que ver con Lord Francel, de quien tanto se murmura estos días. Recibí un informe de que lo vieron a él y a tres caballeros rumbo al norte, hacia el Steel Vigil.
+TEXT_GAIUSB801_00910_HAURCHEFANT_000_001	La Dravanian Horde tomó ese puesto hace mucho tiempo, así que no sé qué pretende lograr con tan pocos hombres.
+TEXT_GAIUSB801_00910_HAURCHEFANT_000_002	Sean cuales sean sus motivos, temo por su seguridad. Le ruego que vaya al Steel Vigil y vea si el grupo de Lord Francel necesita ayuda.
+TEXT_GAIUSB801_00910_NPCA_000_010	\<jadeo> ¡Aquí... aquí no es seguro! ¡Tenemos que huir!
+TEXT_GAIUSB801_00910_NPCB_000_011	Tan rápido... tan fuerte... No teníamos nada que hacer...
+TEXT_GAIUSB801_00910_NPCC_000_012	\<jadeo> \<jadeo> ¿Dónde... dónde está Lord Francel? ¡Por favor, tiene que encontrarlo!
+TEXT_GAIUSB801_00910_FRANCEL_000_020	¿¡Quién anda ahí!? ¿¡<split(<string(gstr1)>, ,1)>!? ¡No, no se acerque! ¡El monstruo sigue aquí!
+TEXT_GAIUSB801_00910_FRANCEL_000_030	¡Alabada sea Halone, lo logró! ¿Pero y los demás? Los tres caballeros que me acompañaban, ¿¡dónde están!?
+TEXT_GAIUSB801_00910_NPCA_000_040	Oí los chillidos de la bestia desde allá. ¿Entonces Lord Francel está a salvo? ¡Bendito sea, <if(gnum4,señorita,señor)>, bendito sea!
+TEXT_GAIUSB801_00910_NPCB_000_041	¡Malditas bestias! Es como si supieran que veníamos...
+TEXT_GAIUSB801_00910_NPCC_000_042	¡Maldición! ¿¡Cómo vamos a redimir a la House Haillenarte si no podemos matar ni a un solo aevis!? \<suspiro> Tuvimos suerte de que llegara justo a tiempo, <if(gnum4,señorita,señor)>. La House Haillenarte recordará su bondad.
+TEXT_GAIUSB801_00910_FRANCEL_000_050	Fue una tontería, lo sé, pero esperaba que pudiéramos demostrar nuestra devoción matando a unos cuantos reptiles.
+TEXT_GAIUSB801_00910_FRANCEL_000_051	Además, fue la House Haillenarte la que le cedió el Steel Vigil a la Horde hace muchos años. Podría decirse que nuestra derrota aquí anunció la lenta decadencia del nombre, en otro tiempo glorioso, de nuestra casa.
+TEXT_GAIUSB801_00910_FRANCEL_000_052	Estas despreciables acusaciones de herejía nos hundieron todavía más. Y pese a todos mis esfuerzos, no logré mejorar en nada la situación.
+TEXT_GAIUSB801_00910_FRANCEL_000_053	Se acerca el día de mi juicio. Pronto tendré que aceptar el veredicto de los inquisidores, sea cual sea. ¡Pero aunque mis protestas caigan en oídos sordos, proclamaré mi inocencia hasta el último aliento!
+TEXT_GAIUSB801_00910_HAURCHEFANT_000_060	¿Qué encontró en el Steel Vigil? Ah, entiendo... Un plan temerario, pero al menos no les costó la vida ni a él ni a sus caballeros.
+TEXT_GAIUSB801_00910_HAURCHEFANT_000_061	Yo también tengo noticias para usted. Encontramos a un testigo del último vuelo del <italic(1)>Enterprise<italic(0)>. Por desgracia, hay una complicación.
+TEXT_GAIUSB801_00910_HAURCHEFANT_000_062	Todos saben ya que hace poco visitó a Lord Francel en Skyfire Locks. Al enterarse, el testigo se mostró reacio a conocerle, y es comprensible: teme que lo vean en compañía de <if(gnum4,una mujer,un hombre)> a quien después podrían declarar hereje.
+TEXT_GAIUSB801_00910_HAURCHEFANT_000_063	Un temor nada descabellado, dado el celo con que el Inquisitor Guillaime lleva sus investigaciones. En cualquier caso, si queremos su testimonio, primero tenemos que limpiar el nombre de Lord Francel ─ y, de paso, el suyo.
+TEXT_GAIUSB801_00910_POP_MESSAGE_000	¡Un rugido ensordecedor atraviesa el cielo!

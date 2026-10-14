@@ -1,0 +1,28 @@
+key	text
+TEXT_XXAUSB808_03868_SEQ_00	Lord Haurchefant quiere presentarte a su testigo.
+TEXT_XXAUSB808_03868_SEQ_01	Lord Haurchefant te pidió que hables con el testigo que encontró. El hombre en cuestión debería estar esperando afuera.
+TEXT_XXAUSB808_03868_SEQ_02	El catalogador dice que vio al <italic(1)>Enterprise<italic(0)> aterrizar cerca del Stone Vigil varios días antes de la Calamidad, lo que significa que casi seguro lo confiscó la guarnición que ocupaba el lugar en ese entonces. Infórmale a Lord Haurchefant de lo que averiguaste y escucha qué te aconseja.
+TEXT_XXAUSB808_03868_SEQ_03	Lord Haurchefant explica que el Stone Vigil está en manos de las fuerzas dravanianas, y que la House Durendaire restringe todo acceso al puesto en ruinas. Para ayudarte a conseguir permiso para entrar al Stone Vigil, te escribe una carta de presentación para Lord Drillemont, de Whitebrim Front. Aun así, sospecha que su recomendación sola no bastará, y te aconseja pedirle a Lord Francel que también te escriba una carta.
+TEXT_XXAUSB808_03868_SEQ_04	Lord Francel accede con gusto a tu pedido. Antes de que partas, te recuerda que los cobardes que intentaron destruir a la House Haillenarte siguen sin ser descubiertos, y que podrían ir contra ti en el futuro como represalia por tu intromisión. Ya advertid<if(gnum4,a,o)>, ve a Whitebrim Front y preséntale tus cartas al centinela de la entrada.
+TEXT_XXAUSB808_03868_SEQ_05	La actitud del hosco centinela cambia enseguida al reconocer los sellos de tus cartas. Aun así, no parece muy dispuesto a dejarte pasar sin más...
+TEXT_XXAUSB808_03868_TODO_00	Habla con el testigo.
+TEXT_XXAUSB808_03868_TODO_01	Habla con Haurchefant.
+TEXT_XXAUSB808_03868_TODO_02	Habla con Francel.
+TEXT_XXAUSB808_03868_TODO_03	Entrégale la carta a Brunadier.
+TEXT_XXAUSB808_03868_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
+TEXT_XXAUSB808_03868_HAURCHEFANT_000_000	El hombre que sabe del <italic(1)>Enterprise<italic(0)> le espera afuera. Rezo para que lo que sabe le sea útil.
+TEXT_XXAUSB808_03868_NPC_000_010	Qué rápido cambia la opinión de la plebe. Ahora dicen que Lord Francel es inocente, pero hace apenas unos días...
+TEXT_XXAUSB808_03868_NPC_000_011	En fin, usted preguntaba por una aeronave que se vio por última vez en Coerthas varios días antes de la Calamidad, ¿no es así? Pues da la casualidad de que en esa época yo observaba el cielo nocturno desde el Observatorium. Recuerdo que una nave pequeña llegó desde Gridania y aterrizó cerca del Stone Vigil, en el extremo noroeste.
+TEXT_XXAUSB808_03868_NPC_000_012	Casi seguro la guarnición confiscó la nave y la llevó dentro de sus muros. Si es así, necesitaría un ejército de caballeros para tener alguna esperanza de recuperarla.
+TEXT_XXAUSB808_03868_NPC_000_013	Aunque, por lo que parece, Lord Haurchefant le tiene mucho aprecio, así que quizás pueda prestarle unos cuantos. En cualquier caso, yo ya cumplí con mi parte. Rezaré por su éxito, amig<if(gnum4,a,o)>.
+TEXT_XXAUSB808_03868_HAURCHEFANT_000_050	¡Oh, así que por fin encontró el <italic(1)>Enterprise<italic(0)>! Creo que corresponde felicitarle.
+TEXT_XXAUSB808_03868_HAURCHEFANT_000_051	¿El Stone Vigil? Ah... quizás hablé demasiado pronto. Los dragones ocupan ese puesto desde hace años, y por decreto de la House Durendaire el acceso está restringido.
+TEXT_XXAUSB808_03868_HAURCHEFANT_000_052	Le escribiré una carta a Lord Drillemont, de Whitebrim Front, para pedirle que le permita entrar. Dicho esto, temo que mi influencia sola no baste, así que le sugiero pedirle lo mismo a Lord Francel.
+TEXT_XXAUSB808_03868_HAURCHEFANT_000_053	Ahora que terminó sus asuntos en Camp Dragonhead, sospecho que pasará un tiempo antes de que volvamos a vernos.
+TEXT_XXAUSB808_03868_HAURCHEFANT_000_054	Le deseo lo mejor en sus viajes, <split(<string(gstr1)>, ,1)>. Que Halone le guíe.
+TEXT_XXAUSB808_03868_FRANCEL_000_060	¡Qué gusto volver a verle, <split(<string(gstr1)>, ,1)>! Si hay algo que pueda hacer para pagarle, no tiene más que pedirlo.
+TEXT_XXAUSB808_03868_FRANCEL_000_061	...Así que la aeronave que busca probablemente está dentro del Stone Vigil. Me avergüenza decir que ese también fue un puesto de la House Haillenarte. En el caos que siguió a la Calamidad, la Dravanian Horde nos tomó por sorpresa. Desde entonces, esas bestias ocupan el puesto.
+TEXT_XXAUSB808_03868_FRANCEL_000_062	Como no tenemos la fuerza de armas para recuperar el Stone Vigil, se le encomendó la tarea a la House Durendaire. Por eso dudo que mis palabras pesen mucho ante Lord Drillemont. Aun así, le escribiré la carta.
+TEXT_XXAUSB808_03868_FRANCEL_000_063	Antes de que parta, una advertencia: los cobardes que intentaron destruir a la House Haillenarte todavía no fueron desenmascarados. Aunque sus planes fracasaron, sin duda nos siguen guardando un gran odio ─ y ahora a <italic(1)>usted<italic(0)> también.
+TEXT_XXAUSB808_03868_BRUNADIER_000_070	Desea una audiencia con Lord Drillemont, ¿eh? ¡Ja! Yo deseo una noche en una cama caliente con mi esposa, pero desearlo no lo hace realidad.
+TEXT_XXAUSB808_03868_BRUNADIER_000_071	¿Y esto qué es? ¿Cartas de Lord Haurchefant y Lord Francel? Sí, cómo no─<br>...Ah, lo dice en serio. Hmmm... qué hacer, qué hacer...

@@ -1,0 +1,59 @@
+key	text
+TEXT_GAIUSB803_00912_SEQ_00	Lord Haurchefant necesita tu ayuda para limpiar el nombre de Lord Francel.
+TEXT_GAIUSB803_00912_SEQ_01	Con el juicio de Lord Francel a la vuelta de la esquina, Lord Haurchefant te pide que informes a los inquisidores de lo que descubriste y que les solicites, en nombre de la House Fortemps, aplazar el juicio indefinidamente. Transmítele las palabras de Lord Haurchefant a la Inquisitor Brigie, en Camp Dragonhead.
+TEXT_GAIUSB803_00912_SEQ_02	La Inquisitor Brigie te informa que el Inquisitor Guillaime ya preside el juicio de Lord Francel en Witchdrop, y que es imposible detener el proceso. Infórmale a Lord Haurchefant de lo ocurrido.
+TEXT_GAIUSB803_00912_SEQ_03	Negándose a abandonar a Lord Francel a su suerte, Lord Haurchefant te pide que te reúnas con uno de sus caballeros en Witchdrop y que hagas lo que sea necesario para que no le pase nada a Lord Francel. Con la ayuda de Ser Hourlinet, protege a Lord Francel hasta que llegue Lord Haurchefant.
+TEXT_GAIUSB803_00912_SEQ_04	El Inquisitor Guillaime ignora tus ruegos y ordena a sus caballeros que te maten ahí mismo. Ni siquiera Lord Haurchefant logra convencer al inquisidor de ceder... hasta que revelas que uno de los Temple Knights era un hereje disfrazado. Obligado a reconocer que las sospechas de conspiración de Lord Haurchefant tienen fundamento, el Inquisitor Guillaime acepta retirar los cargos y se marcha ─ no sin antes recordarte que no pierdas de vista tu búsqueda del <italic(1)>Enterprise<italic(0)>. Ahora que Lord Francel recuperó su buen nombre, vuelve a Camp Dragonhead y pídele a Lord Haurchefant que llame a su reacio testigo.
+TEXT_GAIUSB803_00912_SEQ_05	Lord Haurchefant te agradece que salvaras en Witchdrop la vida del joven lord, y también la suya. Igual que tú, tiene ganas de volver al asunto del <italic(1)>Enterprise<italic(0)>, y ya era hora...
+TEXT_GAIUSB803_00912_TODO_00	Habla con Brigie.
+TEXT_GAIUSB803_00912_TODO_01	Habla con Haurchefant.
+TEXT_GAIUSB803_00912_TODO_02	Habla con Hourlinet.
+TEXT_GAIUSB803_00912_TODO_03	Habla con Haurchefant.
+TEXT_GAIUSB803_00912_HAURCHEFANT_000_000	Desde el principio <italic(1)>supe<italic(0)> que no podía ser que tantos miembros de la House Haillenarte fueran herejes. ¡Por fin podemos desmentir esas acusaciones venenosas y poner fin a esta farsa!
+TEXT_GAIUSB803_00912_HAURCHEFANT_000_001	Tendré que preparar una declaración formal sobre estos hechos para la Holy See. Mientras tanto, quisiera que le llevara mis palabras a la Inquisitor Brigie. ¡Dígale que la House Fortemps pide ─ no, <italic(1)>exige<italic(0)> ─ que se aplace el juicio de Lord Francel hasta que se haga una investigación completa!
+TEXT_GAIUSB803_00912_BRIGIE_000_010	¿Qué sucede, <if(gnum4,hija mía,hijo mío)>? ¿Hm? ¿Qué quiere Lord Haurchefant que hagan los inquisidores?
+TEXT_GAIUSB803_00912_BRIGIE_000_011	Pero eso no es posible. El Inquisitor Guillaime preside el juicio de Lord Francel en Witchdrop en este mismo momento.
+TEXT_GAIUSB803_00912_BRIGIE_000_012	No temas: si Lord Francel es de verdad inocente, caminará por los salones de Halone junto a los héroes caídos de Ishgard.
+TEXT_GAIUSB803_00912_HAURCHEFANT_000_020	¿¡Se llevaron a Lord Francel a <italic(1)>Witchdrop<italic(0)>!? ¡Es una locura! ¡El inquisidor no tiene motivos suficientes para someterlo a esa clase de juicio!
+TEXT_GAIUSB803_00912_HAURCHEFANT_000_021	No me quedaré de brazos cruzados mientras muere un inocente. <split(<string(gstr1)>, ,1)>, quiero enviarl<if(gnum4,a,o)> a Witchdrop con uno de mis caballeros para frenar el proceso hasta que yo pueda reunirme con ustedes y apelar en persona ante el Inquisitor Guillaime. Procuraré no hacerles esperar demasiado.
+TEXT_GAIUSB803_00912_HAURCHEFANT_000_022	¡Haga lo que sea necesario para mantener con vida a Lord Francel!
+TEXT_GAIUSB803_00912_HOURLINET_000_030	Saludos, <split(<string(gstr1)>, ,1)>. Como ve, Lord Francel sigue con vida. Tenemos que intentar hacer entrar en razón al inquisidor ─ pero si sus guardias nos consideran una amenaza, también hay que estar listos para defendernos.
+TEXT_GAIUSB803_00912_GUILLAIME_000_040	Joacin Charlemend Francel de Haillenarte ─ se le acusa de herejía contra la Holy See of Ishgard. ¿Tiene algo que decir en su defensa?
+TEXT_GAIUSB803_00912_FRANCEL_000_041	¡Escúchenme, hermanos ─ estos cargos son falsos! ¡Los hombres y mujeres de mi linaje siempre se opusieron a los dravanianos, y yo no soy distinto! ¡Desde el nacimiento mismo de nuestra nación derramamos sangre con gusto al servicio de la Holy See! ¡Si me condenan, le darán un golpe a favor de los enemigos de Ishgard!
+TEXT_GAIUSB803_00912_GUILLAIME_000_042	Es Halone quien debe juzgar si dice la verdad.
+TEXT_GAIUSB803_00912_GUILLAIME_000_043	Pruebe su inocencia a los ojos de los dioses y de los hombres. Salte del acantilado y confíe su destino a la Fury.
+TEXT_GAIUSB803_00912_GUILLAIME_000_044	¡Los justos ocuparán su lugar en los salones de Halone, mientras que los malvados revelarán su forma de dragón y serán pasados por la espada!
+TEXT_GAIUSB803_00912_HOURLINET_000_045	¡En nombre de la House Fortemps, se lo suplico ─ detenga su mano!
+TEXT_GAIUSB803_00912_HOURLINET_000_046	Inquisitor, venimos en nombre de Lord Haurchefant. Mi señor descubrió pruebas que indican que los cargos contra Lord Francel no tienen fundamento.
+TEXT_GAIUSB803_00912_HOURLINET_000_047	Le pedimos humildemente que suspenda este proceso hasta que se examinen de nuevo todos los hechos.
+TEXT_GAIUSB803_00912_GUILLAIME_000_048	Lord Haurchefant dejó que su relación personal con el acusado le nublara el juicio. Que albergara dudas en privado, podría haberlo permitido... pero que se <italic(1)>atreva<italic(0)> a interferir en un proceso legal sancionado por la Holy See, eso no puedo permitirlo.
+TEXT_GAIUSB803_00912_GUILLAIME_000_049	¡Desafiar la voluntad de un inquisidor es herejía! ¡Un crimen que tiene un solo castigo!
+TEXT_GAIUSB803_00912_HOURLINET_000_050	¡Tenemos que contenerlos hasta que llegue Lord Haurchefant, <split(<string(gstr1)>, ,1)>! Y recuerde ─ ¡al inquisidor no puede pasarle nada!
+TEXT_GAIUSB803_00912_HAURCHEFANT_000_060	No es nuestra intención desafiar la voluntad del arzobispo.
+TEXT_GAIUSB803_00912_HAURCHEFANT_000_061	Pero este juicio ─ como muchos otros, me temo ─ lo orquestaron los enemigos de la House Haillenarte. Los usaron a usted y a los suyos para sembrar la discordia, Inquisitor ─ para enfrentar hermano contra hermano y que nos destrocemos entre nosotros.
+TEXT_GAIUSB803_00912_GUILLAIME_000_062	...Los delirios de un hombre desesperado. ¿Qué pruebas tiene de eso?
+TEXT_GAIUSB803_00912_HAURCHEFANT_000_063	Por la Fury... ¡un rosario dracónico! Entonces el caballero que se negó a rendirse ─ ¡fue <italic(1)>él<italic(0)> quien llamó al wyvern!
+TEXT_GAIUSB803_00912_GUILLAIME_000_064	Un hereje en las filas de los Temple Knights. Esto tiene graves consecuencias...
+TEXT_GAIUSB803_00912_GUILLAIME_000_065	Sus afirmaciones... parecen tener fundamento, Lord Haurchefant. Retiraré los cargos contra Lord Francel mientras se investiga más a fondo.
+TEXT_GAIUSB803_00912_GUILLAIME_000_066	Confío en que no haya perdido de vista lo que le trajo a Coerthas en primer lugar, <split(<string(gstr1)>, ,1)>. Le ruego que encuentre su aeronave extraviada... y que la use.
+TEXT_GAIUSB803_00912_FRANCEL_000_067	Lord Haurchefant, no tengo palabras para expresar mi gratitud. ¿Pero por qué arriesgaría su reputación para salvar la mía?
+TEXT_GAIUSB803_00912_HAURCHEFANT_000_068	Porque te conozco, muchacho. Eres demasiado leal para traicionar a Ishgard, y demasiado devoto para cuestionar tu sentencia. Si hubiéramos tardado un poco más, habrías saltado por tu propia voluntad.
+TEXT_GAIUSB803_00912_FRANCEL_000_069	Yo... yo habría hecho lo que fuera para redimir a la House Haillenarte.
+TEXT_GAIUSB803_00912_HAURCHEFANT_000_070	Alabada sea Halone que no se llegó a eso. Pero de poco nos sirve darle vueltas a lo que pudo haber pasado.
+TEXT_GAIUSB803_00912_HAURCHEFANT_000_071	Vámonos de aquí, <split(<string(gstr1)>, ,1)>. Le ruego que me visite en Camp Dragonhead cuando se haya recuperado.
+TEXT_GAIUSB803_00912_HAURCHEFANT_000_080	Se le ve bien, <split(<string(gstr1)>, ,1)>. Permítame decirle que fue un placer luchar junto a <if(gnum4,una guerrera tan intrépida y hábil,un guerrero tan intrépido y hábil)>.
+TEXT_GAIUSB803_00912_HAURCHEFANT_000_081	De no ser por usted, Lord Francel sin duda habría muerto defendiendo el honor de su casa ─ y yo bien podría haber perecido a manos de un hereje y su wyvern.
+TEXT_GAIUSB803_00912_HAURCHEFANT_000_082	La House Fortemps y la House Haillenarte nunca olvidarán su ayuda. ¡Y ahora, volvamos al asunto de su <italic(1)>Enterprise<italic(0)> perdido!
+TEXT_GAIUSB803_00912_QIB_TODO001	¡Derrota a los guardias del Inquisitor Guillaime!
+TEXT_GAIUSB803_00912_QIB_TODO002	Recoge el rosario de Alderique.
+TEXT_GAIUSB803_00912_HOURLINET_BATTLETALK_01	¡Su escudo no lleva emblema, ser! ¿Sirve a la Holy See o a una de las High Houses?
+TEXT_GAIUSB803_00912_ALDERIQUE_BATTLETALK_02	¡Sirvo a un poder <italic(1)>superior<italic(0)>!
+TEXT_GAIUSB803_00912_HOURLINET_BATTLETALK_03	¡Miren, miren! ¡Llegó Lord Haurchefant!
+TEXT_GAIUSB803_00912_HAURCHEFANT_BATTLETALK_04	¡En nombre de la House Fortemps, les exijo que bajen las armas!
+TEXT_GAIUSB803_00912_GUILLAIME_BATTLETALK_05	¡Con este acto deshonra a su linaje, Lord Haurchefant!
+TEXT_GAIUSB803_00912_HAURCHEFANT_BATTLETALK_07	¿¡Un wyvern!? ¡Pero no había informes de actividad dravaniana!
+TEXT_GAIUSB803_00912_GUILLAIME_BATTLETALK_08	¿¡Llama a sus aliados para que lo salven!? ¡Por fin queda al descubierto su traición!
+TEXT_GAIUSB803_00912_ALDERIQUE_BATTLETALK_10	Esto... esto no se olvidará...
+TEXT_GAIUSB803_00912_HAURCHEFANT_BATTLETALK_11	Ugh... No puede terminar así... no debe...
+TEXT_GAIUSB803_00912_FRIEND_GAIUSB803_BATTLETALK_12	Perdonen mi debilidad...
+TEXT_GAIUSB803_00912_FRIEND_GAIUSB803_BATTLETALK_13	¡Escoria ishgardiana! ¡Hoy pagarán por sus pecados!

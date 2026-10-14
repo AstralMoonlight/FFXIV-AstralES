@@ -1,0 +1,30 @@
+key	text
+TEXT_GAIUSB802_00911_SEQ_00	Lord Haurchefant sospecha que alguien conspira contra Lord Francel.
+TEXT_GAIUSB802_00911_SEQ_01	Al conocer las circunstancias en que se encontró el rosario dracónico que dicen que es de Lord Francel, Lord Haurchefant empezó a sospechar que la prueba podría haber sido plantada. Te aconseja hablar con Rickeman, un hombre al servicio de la House Haillenarte, que según Lord Haurchefant podría saber cómo se haría algo así.
+TEXT_GAIUSB802_00911_SEQ_02	Rickeman explica que, si de verdad alguien manipuló los envíos, los únicos culpables posibles son los porteadores y quienes inspeccionan sus cargamentos. Como todos los inspectores son caballeros e inquisidores ishgardianos, Rickeman se ve obligado a concluir que solo pueden ser los porteadores. A regañadientes, te sugiere interrogar a una cuadrilla de porteadores que llegará pronto a Camp Dragonhead.
+TEXT_GAIUSB802_00911_SEQ_03	Los porteadores malinterpretan tus intenciones y se ofenden de que los acusen de manipular los envíos. Uno de ellos te invita a revisar los paquetes cuanto quieras, seguro de que no encontrarás nada fuera de lo común.
+TEXT_GAIUSB802_00911_SEQ_04	Al revisar los envíos haces un hallazgo sorprendente: ¡los dos paquetes destinados a Skyfire Locks contenían un rosario dracónico! Muéstrale al porteador lo que encontraste y escucha qué tiene que decir.
+TEXT_GAIUSB802_00911_SEQ_05	El porteador niega saber nada de los rosarios dracónicos, y asegura que no tendría sentido dejarte revisar los paquetes si hubiera sabido lo que contenían. Consulta con Lord Haurchefant cuál es el mejor camino a seguir.
+TEXT_GAIUSB802_00911_SEQ_06	Lord Haurchefant concluye que los rosarios son un intento descarado de manchar la reputación de la House Haillenarte. Con lo que considera pruebas suficientes, exclama que tú y él tienen que actuar rápido para detener el juicio de Lord Francel antes de que sea demasiado tarde.
+TEXT_GAIUSB802_00911_TODO_00	Habla con Rickeman.
+TEXT_GAIUSB802_00911_TODO_01	Habla con el porteador.
+TEXT_GAIUSB802_00911_TODO_02	Revisa los envíos.
+TEXT_GAIUSB802_00911_TODO_03	Muéstrale los rosarios dracónicos al porteador.
+TEXT_GAIUSB802_00911_TODO_04	Muéstrale los rosarios dracónicos a Haurchefant.
+TEXT_GAIUSB802_00911_HAURCHEFANT_000_000	A mi entender, la clave para probar la inocencia de Lord Francel es desacreditar la prueba en su contra. Hablo del rosario dracónico hallado en el cofre que usted mism<if(gnum4,a,o)> recuperó. Si es tan amable, cuénteme lo que ocurrió.
+TEXT_GAIUSB802_00911_HAURCHEFANT_000_001	...Así que estaba en un cofre cerrado con llave, marcado como propiedad de Lord Francel. Si el rosario no era suyo, alguien más con acceso <italic(1)>tiene<italic(0)> que haberlo plantado. Esto es lo que debe hacer: vuelva a Skyfire Locks y hable con Rickeman. Trabaja de cerca con los porteadores que llevan mercancías por todo Coerthas, así que quizás tenga alguna idea de quién podría ser el responsable.
+TEXT_GAIUSB802_00911_RICKEMAN_000_010	¿Eh? ¿Alguien metiendo mano en los envíos? Que la Fury me parta, si todos esos rosarios que encontraron entre las cosas de nuestra gente fueron plantados... ¡Eh, no me mires así, <if(gnum4,muchacha,muchacho)>! Soy de la House Haillenarte hasta la médula. ¡Este cuento de la herejía también nos hace daño a mí y a mi familia!
+TEXT_GAIUSB802_00911_RICKEMAN_000_011	Igual no digo que hayan sido los porteadores que traían el envío. Conozco a casi todos los que hacen las rutas comerciales, y nunca tuve motivo para dudar de su fe. Pero si tampoco fueron ellos, sé tanto como tú. Al fin y al cabo, casi todos los envíos se inspeccionan a fondo antes de─
+TEXT_GAIUSB802_00911_RICKEMAN_000_012	¿Eh? ¿Que podrían haber sido los encargados de las inspecciones? ¡Ja! Son todos caballeros e inquisidores ishgardianos. Como si alguno fuera a cambiar de bando. \<suspiro> Supongo que entonces los porteadores son tus mejores sospechosos.
+TEXT_GAIUSB802_00911_RICKEMAN_000_013	Me duele pensarlo, pero quizás deberías interrogarlos. <if([gnum11<12],<if([gnum11<4],Esta noche,Esta mañana)>,<if([gnum11<17],Hoy,Esta noche)>)> llega a Camp Dragonhead una cuadrilla desde Whitebrim Front. Podrías ir a hablar con ellos.
+TEXT_GAIUSB802_00911_NPCA_000_020	No hay tiempo para charlar ─ vamos con el tiempo justo. En cuanto terminemos las entregas aquí, tenemos que llevar paquetes a Skyfire Locks.
+TEXT_GAIUSB802_00911_NPCB_000_030	\<bostezo> Diga lo que quiera. Tengo la conciencia tranquila.
+TEXT_GAIUSB802_00911_NPCB_000_035	¿Cómo dice? ¿¡Sospecha que los porteadores estamos plantando rosarios dracónicos en los envíos de la House Haillenarte!? ¡Qué descaro! ¡Si de verdad cree semejante disparate, revise nuestros paquetes y vea qué encuentra!
+TEXT_GAIUSB802_00911_SYSTEM_000_040	Encuentras un rosario dracónico escondido dentro del paquete.
+TEXT_GAIUSB802_00911_NPCB_000_044	¿Ya terminó? Si es así, le agradecería una disculpa.
+TEXT_GAIUSB802_00911_NPCB_000_045	¡Pero... pero eso es imposible! ¡Cuando la caballera de Whitebrim Front terminó su inspección, yo mismo cargué los paquetes en la carreta!
+TEXT_GAIUSB802_00911_NPCB_000_046	¡Y si el culpable <italic(1)>fuera<italic(0)> yo, <italic(1)>jamás<italic(0)> le habría dejado revisar mis envíos! Dígale lo que quiera a Lord Haurchefant ─ ¡yo <italic(1)>no<italic(0)> voy a cargar con la culpa de esto!
+TEXT_GAIUSB802_00911_HAURCHEFANT_000_050	¿Pasó algo afuera? Me pareció oír gritos... Ah, pero lo más importante: ¿qué le dijo Rickeman?
+TEXT_GAIUSB802_00911_HAURCHEFANT_000_051	¿¡Más rosarios dracónicos!? ¿En cada uno de los paquetes destinados a Skyfire Locks? ¡Es increíble!
+TEXT_GAIUSB802_00911_HAURCHEFANT_000_052	Hasta los inquisidores tendrán que reconocer que esto no es más que un burdo intento de manchar la reputación de la House Haillenarte. Quien sea el responsable, se pasó de la raya.
+TEXT_GAIUSB802_00911_HAURCHEFANT_000_053	¡Y alabada sea Halone por ello! ¡El juicio de Lord Francel está encima, y tenemos que actuar ya si queremos limpiar su nombre!
