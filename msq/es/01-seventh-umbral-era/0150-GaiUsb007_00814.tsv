@@ -1,0 +1,17 @@
+key	text
+TEXT_GAIUSB007_00814_SEQ_00	Wheiskaet tiene una misión importante para ti.
+TEXT_GAIUSB007_00814_SEQ_01	Dos personajes muy distinguidos visitarán Costa del Sol, y el señor Gegeruju quiere recibirlos con un banquete espléndido. Wheiskaet te pide que ayudes llevándole los ingredientes necesarios para ese festín exótico. Para conseguir el primero, busca a Landenel en Camp Tranquil, en South Shroud.
+TEXT_GAIUSB007_00814_SEQ_02	Te enteras de que el primer ingrediente es el huevo de una adamantoise gigante. Aunque Landenel no te ayudará directamente, te dirá cómo puedes conseguir un huevo tú mism<if(gnum4,a,o)>.
+TEXT_GAIUSB007_00814_TODO_00	Habla con Landenel.
+TEXT_GAIUSB007_00814_WHEISKAET_000_000	Dos personajes muy distinguidos visitarán Costa del Sol dentro de poco, y el señor Gegeruju quiere recibirlos con un banquete espléndido.
+TEXT_GAIUSB007_00814_WHEISKAET_000_001	Pero aunque el dinero no sea problema, no todo lo que el señor Gegeruju desea se puede comprar tan fácil.
+TEXT_GAIUSB007_00814_WHEISKAET_000_002	Será un festín de lo más exótico. Así que, <split(<string(gstr1)>, ,1)>, su misión es buscar y conseguir los ingredientes raros que necesita nuestro chef.
+TEXT_GAIUSB007_00814_WHEISKAET_100_002	Naturalmente, una cena tan refinada debe acompañarse con un vino adecuado. Y por "adecuado" quiero decir "el mejor que exista". Pero eso puede esperar por ahora, porque creo que ya tiene bastante en el plato.
+TEXT_GAIUSB007_00814_WHEISKAET_000_003	Será un viaje largo y arduo, pero no tendrá que esforzarse sol<if(gnum4,a,o)>. Muchos de los mercenarios que alguna vez sirvieron a mis órdenes siguen con vida, y lo guiarán en su búsqueda. Para el primer ingrediente, quiero que viaje a South Shroud y hable con Landenel en Camp Tranquil.
+TEXT_GAIUSB007_00814_WHEISKAET_000_004	...¿Qué? ¿Me va a decir que no puede perder el tiempo, como su compañera?
+TEXT_GAIUSB007_00814_WHEISKAET_000_005	Aventurer<if(gnum4,a,o)>, si no tiene la resistencia para completar esta misión, ¿cómo espera que crea que puede aguantar más que el Lord of Crags? O lo hace o no lo hace ─ tengo trabajo.
+TEXT_GAIUSB007_00814_LANDENEL_000_020	¿Necesita ayuda, aventurer<if(gnum4,a,o)>?
+TEXT_GAIUSB007_00814_LANDENEL_000_021	...Así que esta es la persona que quiere desafiar a Titan. L<if(gnum4,a,o)> esperaba, <split(<string(gstr1)>, ,1)>.
+TEXT_GAIUSB007_00814_LANDENEL_000_022	El ingrediente que busca es el huevo de una adamantoise gigante.
+TEXT_GAIUSB007_00814_LANDENEL_000_023	La forma de conseguirlo debería ser obvia ─ se lo roba del nido de la bestia, claro. Sencillo en teoría, pero difícil en la práctica. La mayoría de los que lo intentan mueren en el intento.
+TEXT_GAIUSB007_00814_LANDENEL_000_024	¿Si lo voy a ayudar a conseguirlo? Ja, me hace gracia. No voy a poner en peligro mi puesto ayudándol<if(gnum4,a,o)> abiertamente. De mí solo recibirá información. Lo que haga con ella es cosa suya.

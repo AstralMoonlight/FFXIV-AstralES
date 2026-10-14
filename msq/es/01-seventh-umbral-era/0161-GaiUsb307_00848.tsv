@@ -1,0 +1,16 @@
+key	text
+TEXT_GAIUSB307_00848_SEQ_00	Drest parece más dueño de sí mismo.
+TEXT_GAIUSB307_00848_SEQ_01	Para agradecerle a Shamani Lohmani, Drest te pidió que le lleves tres cocos llenos de vino de palma, una bebida dulce hecha con savia de árbol fermentada naturalmente. Junta los tres cocos que Drest dejó en Red Mantis Falls.
+TEXT_GAIUSB307_00848_SEQ_02	Encuentras sin problema el vino de palma de Drest. Llévale los regalos a Shamani Lohmani en Wineport.
+TEXT_GAIUSB307_00848_SEQ_03	El viñatero ciego reconoce enseguida el vino de palma con su olfato impecable. Agradecido por el gesto, reflexiona sobre lo parecidos que son él y ese hombre atormentado. Shamani Lohmani te agradece que cuidaras de Drest, y decide pasar más tiempo con él.
+TEXT_GAIUSB307_00848_TODO_00	Junta el palm wine.
+TEXT_GAIUSB307_00848_TODO_01	Entrégale el palm wine a Shamani Lohmani.
+TEXT_GAIUSB307_00848_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
+TEXT_GAIUSB307_00848_DREST_000_000	Yo... yo quiero agradecerle a Shamani el vino. Eso... eso fue demasiado amable... ¿Estarías dispuest<if(gnum4,a,o)> a llevarle un regalo de mi parte?
+TEXT_GAIUSB307_00848_DREST_000_001	<if([gnum11<12],<if([gnum11<4],Hoy más temprano,Anoche)>,<if([gnum11<17],Hoy más temprano,Hoy más temprano)>)>, en Red Mantis Falls, junté la savia de unas palmeras cercanas. Si... si se pone en cáscaras de coco y se deja unas cuantas bells, se... se vuelve un buen vino, ¿ves?... Ya debería estar listo.
+TEXT_GAIUSB307_00848_DREST_000_002	Dejé tres cáscaras allá. Por favor, llévaselas a Shamani de mi parte. Me... me alegra que haya rehecho su vida. Espero hacer lo mismo algún día...
+TEXT_GAIUSB307_00848_SHAMANILOHMANI_000_020	Cuánto tiempo, <split(<string(gstr1)>, ,1)>. ¿Qué noticias trae de Drest?
+TEXT_GAIUSB307_00848_SHAMANILOHMANI_000_030	\<olfateo> \<olfateo> Ah, sí, recuerdo que sabía algo de hacer vino. Un método sencillo pero eficaz que aprovecha las propiedades naturales de la savia de palma. Tendré que disfrutar esta tanda antes de que se eche a perder.
+TEXT_GAIUSB307_00848_SHAMANILOHMANI_000_031	No somos tan distintos, Drest y yo. Dos hombres que llevan mucho tiempo luchando para que sus cicatrices no los definan...
+TEXT_GAIUSB307_00848_SHAMANILOHMANI_000_032	Me preocupa que haya estado demasiado tiempo a solas con sus pensamientos.
+TEXT_GAIUSB307_00848_SHAMANILOHMANI_000_033	Sí, ya es hora de que vaya a visitarlo. Gracias por cuidar de él, <split(<string(gstr1)>, ,1)>.

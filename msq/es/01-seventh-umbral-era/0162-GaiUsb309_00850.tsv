@@ -1,0 +1,41 @@
+key	text
+TEXT_GAIUSB309_00850_SEQ_00	Shamani Lohmani rebosa de alegría y quiere contarte por qué.
+TEXT_GAIUSB309_00850_SEQ_01	Shamani Lohmani descubrió que las hojas que usó Drest para sellar los cocos de vino de palma son nada menos que de la legendaria vid de Bacchus. Ansioso por confirmarlo, te pide que le lleves una de las hojas a Drest y le saques más información.
+TEXT_GAIUSB309_00850_SEQ_02	Drest no tenía idea de que las hojas fueran tan raras, y dice que las encontró cerca del juggernaut estrellado al sur del Severed String. No vio ninguna vid con uvas por la zona, pero sí huellas frescas de goobbue, así que cree que las vides de Bacchus podrían estar creciendo sobre el lomo de un goobbue errante. Busca al goobbue cerca del juggernaut, pero prepárate para defenderte si la criatura se vuelve hostil.
+TEXT_GAIUSB309_00850_SEQ_03	Como invadiste el territorio del goobbue, no tienes más remedio que matarlo. Por suerte, tal como sospechaba Drest, la bestia era de verdad el origen de las hojas de Bacchus. Con un esqueje intacto de la vid, ya puedes volver a Wineport y dárselo a Shamani Lohmani.
+TEXT_GAIUSB309_00850_SEQ_04	Apenas Shamani Lohmani confirma que le trajiste un esqueje de vid de Bacchus, Byrglaent sale furioso a ver la verdad con sus propios ojos. Confirma lo que dice Shamani Lohmani, y después se queda atónito cuando el viñatero ciego decide regalarle el esqueje de Bacchus. Conmovido por el simple deseo de Shamani Lohmani de ver los viñedos de Bacchus recuperar su antigua gloria, Byrglaent le regala una botella de Bacchus del 1547, posiblemente el mejor vino jamás producido. Con un vino por fin digno del banquete del señor Gegeruju, el viñatero ciego te confía la botella y te pide que se la lleves a Wheiskaet en Costa del Sol.
+TEXT_GAIUSB309_00850_SEQ_05	Wheiskaet conoce la fama estelar de tu vino, y declara que este será el festín más lujoso que haya visto Costa del Sol en años. Anuncia que, como los dos invitados ya están presentes, el banquete puede celebrarse según lo previsto. Al notar tu confusión, te sugiere hablar con tu erudita compañera, sentada en el banco de al lado.
+TEXT_GAIUSB309_00850_TODO_00	Muéstrale la Bacchus leaf a Drest.
+TEXT_GAIUSB309_00850_TODO_01	Busca al goobbue cerca del juggernaut.
+TEXT_GAIUSB309_00850_TODO_02	Entrégale el Bacchus cutting a Shamani Lohmani.
+TEXT_GAIUSB309_00850_TODO_03	Entrégale el vino Bacchus a Wheiskaet.
+TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_000	Por los dioses... ¡<split(<string(gstr1)>, ,1)>, escuche! Sé que está ansios<if(gnum4,a,o)> por lavarse las manos de este asunto del vino, ¡pero acabo de descubrir algo extraordinario sobre el vino de palma de Drest!
+TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_001	Selló cada cáscara de coco con una hoja ─ una hoja de forma <italic(1)>muy<italic(0)> particular y olor poco común. Al principio creí que me estaba volviendo loco, pero ahora estoy seguro: ¡son hojas de una vid de Bacchus!
+TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_002	¿Sabe lo que significa esto? ¡En algún lugar de Raincatcher Gully todavía crece la vid legendaria! ¡Si consiguiéramos un esqueje, podríamos revivir la industria del vino Bacchus!
+TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_003	¡Tenemos que saber dónde encontró Drest estas hojas! ¡Tome, llévele una y vea qué recuerda!
+TEXT_GAIUSB309_00850_DREST_000_010	Ah... hola otra vez. ¿Qué pasa?
+TEXT_GAIUSB309_00850_DREST_000_020	Es... es solo una hoja, ¿no? La elegí porque era bonita. No sabía que era rara...
+TEXT_GAIUSB309_00850_DREST_000_021	Las encontré cerca del juggernaut del sur. Pero... no vi ninguna vid.
+TEXT_GAIUSB309_00850_DREST_000_022	Pero sí vi huellas frescas de goobbue. Quizás... ¿quizás las hojas venían de vides que crecían sobre el lomo de una de esas bestias?
+TEXT_GAIUSB309_00850_DREST_000_023	Si... si vas a buscarlo, por favor ten cuidado. Algunos goobbues son más territoriales que otros, y quizás tengas que defenderte.
+TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_050	¿Qué le dijo Drest, <split(<string(gstr1)>, ,1)>? ¡Cuénteme todo!
+TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_060	¡Jaja, tenía razón! Este olor, esta textura... ¡Tengo en mis manos un esqueje de vid de Bacchus!
+TEXT_GAIUSB309_00850_BYRGLAENT_000_061	¡Vamos, basta de tonterías! Oí hablar de su descubrimiento, y me niego a creer que un<if(gnum4,a aventurera cualquiera,aventurero cualquiera)> y un viñatero novato puedan─
+TEXT_GAIUSB309_00850_BYRGLAENT_000_062	¡Los Twelve son mis testigos, <italic(1)>es<italic(0)> una vid de Bacchus! ¿¡Dónde encontraron este ejemplar fantástico!?
+TEXT_GAIUSB309_00850_BYRGLAENT_000_063	¿Q-Qué...? ¿Me lo ofrece a mí? Pero ¿¡por qué!?
+TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_064	No hay nadie mejor situado que usted para reconstruir los viñedos de Bacchus, señor Byrglaent. Tiene los recursos, el conocimiento y la pasión para hacerlo. Sería egoísta de mi parte quedarme con este esqueje.
+TEXT_GAIUSB309_00850_BYRGLAENT_000_065	Nunca supe que le importara tanto su oficio. Gracias, buen señor. ¡No desperdiciaré este regalo! ¡Le juro que en unos pocos años todas las tabernas de Eorzea volverán a pedir a gritos un barril del legendario vino Bacchus de Wineport!
+TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_066	Señor, no hace falta─ \<olfateo> \<olfateo> ¡Un momento! La forma de esta botella, el olor de esta etiqueta... No puede ser...
+TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_067	¿¡Un Bacchus del 1547!? ¡Pero es imposible! ¡Esta cosecha no se ve desde <italic(1)>años<italic(0)> antes de la Calamidad!
+TEXT_GAIUSB309_00850_BYRGLAENT_000_068	Era la joya de mi colección personal. Durante años dudé en abrirla, preguntándome si hoy o mañana sería el momento ideal. Pero ahora entiendo que nunca fue para mí ─ ¡la deben saborear los salvadores de Wineport, digo yo!
+TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_069	Nos hizo una oferta que no podemos rechazar. El señor Gegeruju no encontrará un vino mejor.
+TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_070	Cambió Wineport para siempre, <split(<string(gstr1)>, ,1)>. Gracias por su amabilidad y su generosidad.
+TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_071	Ah, pero no permita que l<if(gnum4,a,o)> retrase más. Le ruego que le lleve el vino al capitán Wheiskaet.
+TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_072	¿Hm? Bueno, sí, ¡me encantaría bebérmelo! Pero soy un hombre paciente. Tengo fe en que algún día tendré otra oportunidad de probar la perfección.
+TEXT_GAIUSB309_00850_WHEISKAET_000_070	Su larga ausencia empezaba a preocuparme. Y bien, ¿qué hay del vino que le pedí?
+TEXT_GAIUSB309_00850_WHEISKAET_000_071	¿Eso es...? ¡Por los siete infiernos, un Bacchus del 1547! ¡Hasta yo sé lo raro que es!
+TEXT_GAIUSB309_00850_WHEISKAET_000_072	Debo admitir que no creí que pudiera... Pero felicitaciones, <split(<string(gstr1)>, ,1)>. Gracias a usted, este será el festín más lujoso que haya visto Costa del Sol en años.
+TEXT_GAIUSB309_00850_WHEISKAET_000_073	Con todo lo que tuvo que hacer, espero que nuestros invitados lo aprecien.
+TEXT_GAIUSB309_00850_WHEISKAET_000_074	Hablando de eso, su compañera llegó hace un rato. Parece que se está impacientando un poco.
+TEXT_GAIUSB309_00850_WHEISKAET_000_075	¿Quizás podría decirle que el banquete está por empezar?
+TEXT_GAIUSB309_00850_POP_MESSAGE_000	Unas ondas en el agua te llaman la atención...
