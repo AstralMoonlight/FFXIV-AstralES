@@ -1,0 +1,21 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+
+  <PropertyGroup>
+    <Version>0.1.0.0</Version>
+    <Description>Traduce al español latino los tooltips de habilidades de FFXIV.</Description>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <!-- The game data is for the tools (CheckSpanish); the plugin reads the live tooltip text instead. -->
+  <ItemGroup>
+    <Compile Remove="Data\GameData.g.cs" />
+  </ItemGroup>
+
+  <!-- Dalamud reloads a dev plugin when this file's timestamp changes; touch it so a rebuild always reloads. -->
+  <Target Name="TouchPluginAssemblyForReload" AfterTargets="Build">
+    <Touch Files="$(TargetPath)" Condition="Exists('$(TargetPath)')" />
+  </Target>
+
+</Project>
