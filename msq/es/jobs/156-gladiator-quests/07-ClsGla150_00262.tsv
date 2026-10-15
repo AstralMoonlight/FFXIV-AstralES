@@ -1,0 +1,65 @@
+key	text
+TEXT_CLSGLA150_00262_SEQ_00	La First Sword Mylla quiere asignarte otra tarea.
+TEXT_CLSGLA150_00262_SEQ_01	Una banda de archers Amalj'aa ha estado asaltando caravanas cerca de Camp Drybone. Mylla ya envió a varios gladiators a ayudar con las patrullas, y te pide que viajes a Eastern Thanalan para unirte a ellos.
+TEXT_CLSGLA150_00262_SEQ_02	Por suerte das con los archers Amalj'aa y acabas con ellos, y rescatas a un compañero del gremio herido y a un mercader acobardado. Habla con el gladiator y averigua si necesita ayuda.
+TEXT_CLSGLA150_00262_SEQ_03	Tu compañero te asegura que sus heridas no son mortales y que él puede cuidar del mercader. Vuelve al Gladiators' Guild e informa a Mylla.
+TEXT_CLSGLA150_00262_SEQ_04	Poco después de tu regreso, el gremio se vuelve un caos cuando entra Aldis. La First Sword se altera especialmente y le exige que se vaya o se atenga a graves consecuencias. Aldis accede y se dispone a marcharse, no sin antes pedirte que lo acompañes a tomar un trago en el Quicksand.
+TEXT_CLSGLA150_00262_SEQ_05	Tu conversación con Aldis se interrumpe cuando una banda de mercenarios irrumpe en el Quicksand con la intención de matarlo. En una impresionante muestra de esgrima, Aldis acaba con la mayoría de los asesinos, aunque tú también pones de tu parte. Con el humor arruinado, Aldis se va en busca de una taberna más tranquila. Vuelve al gremio y habla con Mylla.
+TEXT_CLSGLA150_00262_SEQ_06	Ya recuperada de la sorpresa por la intrusión de Aldis, Mylla recuerda que quería enseñarte algo nuevo. Espera que tu nueva técnica, Shield Lob, con la que puedes atacar a los enemigos a distancia, te sirva bien en el futuro.<br><br>※La siguiente misión de gladiator estará disponible con Mylla al llegar al nivel 20.
+TEXT_CLSGLA150_00262_TODO_00	Busca a tus compañeros del gremio cerca de Camp Drybone.
+TEXT_CLSGLA150_00262_TODO_01	Habla con el gladiator herido.
+TEXT_CLSGLA150_00262_TODO_02	Informa a Mylla.
+TEXT_CLSGLA150_00262_TODO_03	Reúnete con Aldis en el Quicksand.
+TEXT_CLSGLA150_00262_TODO_04	Informa a Mylla.
+TEXT_CLSGLA150_00262_MYLLA_000_1	Saludos, <split(<string(gstr1)>, ,1)>. Llegas en buen momento. Tengo otra tarea que quiero asignarte.
+TEXT_CLSGLA150_00262_MYLLA_000_2	Los Immortal Flames y los Brass Blades le pidieron ayuda al gremio para mantener la seguridad en Camp Drybone, un puesto vital del Royal Allagan Sunway.
+TEXT_CLSGLA150_00262_MYLLA_000_3	Los Amalj'aa han estado asaltando caravanas sin ningún reparo, y eso perjudica mucho el comercio.
+TEXT_CLSGLA150_00262_MYLLA_000_4	Ul'dah tiene una larga y turbulenta historia con los Amalj'aa, así que los asaltos no son nada nuevo. Pero hay que ponerle freno a esta escalada.
+TEXT_CLSGLA150_00262_MYLLA_000_5	Ve a Camp Drybone y busca a esos asaltantes, <split(<string(gstr1)>, ,1)>. Ya envié a otros gladiators a patrullar la región, así que te sugiero hablar con alguno de ellos para saber más.
+TEXT_CLSGLA150_00262_GUILDMEMBER_000_30	¡Agáchate! ¡Siguen aquí!
+TEXT_CLSGLA150_00262_GUILDMEMBER_AFTER	\<tos> \<resuello> No te preocupes, <if(gnum4,hermana,hermano)>, estaré bien ─ aunque quizá no cuando la First Sword termine conmigo, ¿eh? Ve a decirle que los Amalj'aa están muertos ─ yo me encargo del mercader.
+TEXT_CLSGLA150_00262_GUILDMEMBER_000_33	\<tos> \<resuello> Dile a la First Sword que los Amalj'aa están muertos. Yo cuidaré del mercader.
+TEXT_CLSGLA150_00262_MYLLA_000_50	¡Sabía que hacía bien en enviarte, <split(<string(gstr1)>, ,1)>! Nos llenaste de orgullo.
+TEXT_CLSGLA150_00262_ALDIS_000_53	¡Por los siete infiernos, este lugar apesta a sudor! ¿¡Cómo esperan que un hombre se concentre en su esgrima así!?
+TEXT_CLSGLA150_00262_GUILDMEMBER_000_54	¿¡Aldis!?
+TEXT_CLSGLA150_00262_ALDIS_000_57	¡Te acuerdas de mí! ¿Cómo te va, hermano? ¿Sigues agitando la espada como si fuera un plumero?
+TEXT_CLSGLA150_00262_MYLLA_000_58	Tú...tú...
+TEXT_CLSGLA150_00262_ALDIS_000_59	Yo también me alegro de verte, mi querida Mylla. Estás más hermosa de lo que recordaba.
+TEXT_CLSGLA150_00262_MYLLA_000_62	¿¡E-Estás vivo!? ¿¡Dónde estuviste todos estos años!? ¡Contéstame!
+TEXT_CLSGLA150_00262_ALDIS_000_63	¿Yo? Bueno, si tanto quieres saberlo, estoy en un viaje espiritual de autodescubrimiento.
+TEXT_CLSGLA150_00262_MYLLA_000_64	¡Maldita sea, Aldis, esto es serio! ¡Todos te creíamos muerto! Y que entres aquí como si nada hubiera pasado ─ ¿¡olvidaste cómo nos deshonraste!? ¡Debería abatirte donde estás!
+TEXT_CLSGLA150_00262_ALDIS_000_67	¡Jo, jo, esa es la Mylla que recuerdo, toda fuego y azufre! ¡Sabía que esa linda cara todavía podía torcerse en muecas aterradoras!
+TEXT_CLSGLA150_00262_ALDIS_000_68	Ahhh, no hagas pucheros, niña, solo me estoy divirtiendo. Pero, como quieras, me voy.
+TEXT_CLSGLA150_00262_ALDIS_000_69	<split(<string(gstr1)>, ,1)>, ¿verdad? ¿Por qué no me acompañas al Quicksand? Me vendría bien algo de compañía, y dudo que alguien más aquí sea tan amable.
+TEXT_CLSGLA150_00262_MYLLA_000_80	Ese...ese bastardo. ¿Por qué ahora, después de tantos años...?
+TEXT_CLSGLA150_00262_ALDIS_000_100	Jo, viniste. Lamento que tuvieras que presenciar ese pequeño reencuentro entre Mylla y yo.
+TEXT_CLSGLA150_00262_ALDIS_000_102	El Sword of Nald, de vuelta de entre los muertos ─ uno pensaría que lo recibirían multitudes de admiradores, no amenazas de violencia...
+TEXT_CLSGLA150_00262_ALDIS_000_104	Escucha, <split(<string(gstr1)>, ,1)>. Eres <if(gnum4,buena,bueno)> con la espada, eso salta a la vista.
+TEXT_CLSGLA150_00262_ALDIS_000_105	Pero, más que eso, tienes un propósito. Hay un fuego que arde dentro de ti.
+TEXT_CLSGLA150_00262_ALDIS_000_107	Como antiguo hombre de convicciones, sé reconocer un espíritu afín.
+TEXT_CLSGLA150_00262_ALDIS_000_110	Gerolt la llamó <italic(1)>Frenzy<italic(0)>. Es una de un magnífico par de espadas que ese prodigio borracho forjó para campeones del Coliseum.
+TEXT_CLSGLA150_00262_ALDIS_000_112	El hombre que empuñaba a su gemela tenía unos ojos que ardían como los tuyos...
+TEXT_CLSGLA150_00262_ALDIS_000_114	<split(<string(gstr1)>, ,1)>, yo─
+TEXT_CLSGLA150_00262_ALDIS_000_115	¿¡Qué infiernos!?
+TEXT_CLSGLA150_00262_ARCHER_000_116	¡Aldis, Sword of Nald! ¡Venimos por tu cabeza!
+TEXT_CLSGLA150_00262_ALDIS_000_117	Si hacen eso, ¿cómo infiernos voy a disfrutar mi cerveza?
+TEXT_CLSGLA150_00262_ARCHER_000_118	¡Necio arrogante! ¡Prepárate para conocer a tu creador!
+TEXT_CLSGLA150_00262_ALDIS_000_120	Vaya, qué banda de tipos impacientes y sin sentido del humor.
+TEXT_CLSGLA150_00262_ALDIS_000_121	¿Te apuntas a un poco de diversión, <split(<string(gstr1)>, ,1)>? Yo voy adelante, tú sígueme.
+TEXT_CLSGLA150_00262_ALDIS_000_131	No pensé que llegaría al punto de mandar a una banda de mercenarios al Quicksand a plena luz del día.
+TEXT_CLSGLA150_00262_ALDIS_000_135	¿Por qué nunca es un grupo de bellezas?
+TEXT_CLSGLA150_00262_ALDIS_000_136	Sigamos con esto en otro momento, ¿te parece? Necesito encontrar otro lugar para beber ─ uno con compañía más atractiva que este grupo lamentable.
+TEXT_CLSGLA150_00262_MYLLA_000_140	Mis disculpas, <split(<string(gstr1)>, ,1)> ─ quería enseñarte una técnica nueva hace un rato, pero cuando llegó ese idiota se me olvidó por completo. Es tan...exasperante.
+TEXT_CLSGLA150_00262_MYLLA_000_148	Ejem. La técnica Shield Lob te permitirá atacar desde lejos sin necesidad de armas a distancia.
+TEXT_CLSGLA150_00262_MYLLA_000_152	Como los gladiators peleamos sobre todo a corta distancia, la capacidad de atraer la atención de enemigos lejanos es una gran ventaja. ¡Que te sirva bien en el campo de batalla, <split(<string(gstr1)>, ,1)>!
+TEXT_CLSGLA150_00262_SYSTEM_000_160	La siguiente misión de gladiator estará disponible con Mylla al llegar al nivel 20.
+TEXT_CLSGLA150_00262_POP_MESSAGE	¡Sientes una ráfaga de aire cuando una flecha silba junto a tu cabeza!
+TEXT_CLSGLA150_00262_SCENE00040_INSTANCE_BATTLE_YESNO_TITLE	El deber llama. ¿Quieres comenzar "CLSGLA150"?
+TEXT_CLSGLA150_00262_SCENE00040_INSTANCE_BATTLE_YESNO_YES	Sí
+TEXT_CLSGLA150_00262_SCENE00040_INSTANCE_BATTLE_YESNO_NO	No
+TEXT_CLSGLA150_00262_QIB_TODO001	¡Defiéndete de los atacantes desconocidos!
+TEXT_CLSGLA150_00262_ALDIS_BATTLETALK_001	¡Mira con atención, <split(<string(gstr1)>, ,1)>!<br>¡Te mostraré cómo pelea un campeón del Coliseum!
+TEXT_CLSGLA150_00262_ALDIS_BATTLETALK_004	¿¡Esto es todo lo que tienen!? ¡Intenten seguirme el ritmo, muchachos!
+TEXT_CLSGLA150_00262_ALDIS_BATTLETALK_002	¡Esos debiluchos son todos tuyos, <split(<string(gstr1)>, ,1)>!
+TEXT_CLSGLA150_00262_ALDIS_BATTLETALK_ALDIS_HP50	¡Sí, esta es la clase de diversión que me gusta!
+TEXT_CLSGLA150_00262_ALDIS_BATTLETALK_003	¡Mírales los ojos, <split(<string(gstr1)>, ,1)>, no las manos!

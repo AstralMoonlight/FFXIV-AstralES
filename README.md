@@ -109,15 +109,15 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 
 | Rol | Clase | Estado |
 |---|---|---|
-| **Tank** | Gladiator | ![Pendiente][no] |
-| | Marauder | ![Pendiente][no] |
-| **Healer** | Conjurer | ![Pendiente][no] |
-| **Melee** | Pugilist | ![Pendiente][no] |
+| **Tank** | Gladiator | ![Traducido][ok] |
+| | Marauder | ![Traducido][ok] |
+| **Healer** | Conjurer | ![Traducido][ok] |
+| **Melee** | Pugilist | ![Traducido][ok] |
 | | Lancer | ![Traducido][ok] |
-| | Rogue | ![Pendiente][no] |
+| | Rogue | ![Traducido][ok] |
 | **Ranged** | Archer | ![Traducido][ok] |
 | **Caster** | Thaumaturge | ![Traducido][ok] |
-| | Arcanist | ![Pendiente][no] |
+| | Arcanist | ![Traducido][ok] |
 
 ### Jobs
 

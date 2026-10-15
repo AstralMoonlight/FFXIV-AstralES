@@ -1,0 +1,60 @@
+key	text
+TEXT_CLSCNJ004_00093_SEQ_00	Brother E<-->Sumi<-->Yan te pide que ayudes con el entrenamiento de Sylphie.
+TEXT_CLSCNJ004_00093_SEQ_01	Brother E<-->Sumi<-->Yan te pide que repitas las pruebas de la tierra, el viento y el agua, esta vez con Sylphie. El Padjal espera que la experiencia ayude a la joven conjurer a comprender las fuerzas de la naturaleza. Ve primero a Bentbranch Meadows, en Central Shroud, y purifica la parcela de tierra corrompida.
+TEXT_CLSCNJ004_00093_SEQ_02	Purificaste la tierra corrompida. Habla con Sylphie y averigua qué aprendió la joven conjurer.
+TEXT_CLSCNJ004_00093_SEQ_03	Muéstrale a Sylphie el poder del viento dispersando el foco de aire corrompido en el Bannock.
+TEXT_CLSCNJ004_00093_SEQ_04	Purificaste el aire corrompido. Habla con Sylphie y averigua qué aprendió la joven conjurer.
+TEXT_CLSCNJ004_00093_SEQ_05	Reúnete con Sylphie en Lilystone y purifica la zona del agua corrompida.
+TEXT_CLSCNJ004_00093_SEQ_06	Purificaste el agua corrompida. Habla con Sylphie y averigua qué aprendió la joven conjurer.
+TEXT_CLSCNJ004_00093_SEQ_07	Parece que enfrentarse a los elementos dejó una profunda huella en Sylphie. Vuelve a Stillglade Fane e informa a Brother E<-->Sumi<-->Yan.
+TEXT_CLSCNJ004_00093_SEQ_08	Sylphie parece muy cambiada después de presenciar tus enfrentamientos con los elementos, y no entiende por qué su madre nunca le enseñó la majestad de la naturaleza. Tras hablar con la joven conjurer sobre su experiencia, Brother E<-->Sumi te agradece tu ayuda. Sigue puliendo tus habilidades como conjurer, para estar <if(gnum4,lista,listo)> cuando el maestro del gremio vuelva a pedir tu ayuda.<br><br>※La siguiente misión de conjurer estará disponible con E<-->Sumi<-->Yan al llegar al nivel 25.
+TEXT_CLSCNJ004_00093_TODO_00	Investiga la tierra corrompida y vence al tainted earth sprite.
+TEXT_CLSCNJ004_00093_TODO_01	Habla con Sylphie.
+TEXT_CLSCNJ004_00093_TODO_02	Investiga el aire corrompido y vence al tainted wind sprite.
+TEXT_CLSCNJ004_00093_TODO_03	Habla con Sylphie.
+TEXT_CLSCNJ004_00093_TODO_04	Investiga el agua corrompida y vence al tainted water sprite.
+TEXT_CLSCNJ004_00093_TODO_05	Habla con Sylphie.
+TEXT_CLSCNJ004_00093_TODO_06	Informa a Brother E<-->Sumi<-->Yan en Stillglade Fane.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_1	Saludos, <split(<string(gstr1)>, ,1)>. Irradia la confianza de <if(gnum4,una conjurer que no descuida,un conjurer que no descuida)> su estudio de los elementos.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_2	Le confieso que hoy no tengo ninguna lección para usted. En cambio, quisiera pedirle que me ayude con la educación de otra persona.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_3	Sí, hablo de Sylphie.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_4	Después de mucha insistencia, casi rayana en la coacción, la niña por fin prometió <italic(1)>intentar<italic(0)> abrazar las fuerzas de la naturaleza. Pero me temo que el asunto no se resuelve tan fácilmente.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_5	Sylphie nunca intentó aprender los hechizos ofensivos básicos que usted y casi todos los conjurers dominan antes de aventurarse por primera vez en la naturaleza. Por eso no está preparada para las pruebas que les dieron a usted y a sus compañeros la comprensión de los elementos. En pocas palabras, no puede con los espíritus corrompidos de la naturaleza.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_6	Pero si la acompañara un conjurer más capaz y purificara la corrupción en su lugar, quizás eso bastaría para hacerle ver el poder de las fuerzas en juego. Le pido que la lleve en un peregrinaje por el Twelveswood y le dé la oportunidad de presenciar esos enfrentamientos con sus propios ojos.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_7	Tierra, viento, agua ─ debe conocerlos todos. Muéstrele la majestad y la ferocidad primigenia de la naturaleza.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_8	Como fue con usted, que la tierra sea su primera lección. Sylphie l<if(gnum4,a,o)> espera en Bentbranch Meadows. Perdone mi atrevimiento, pero me pareció mejor mandarla por delante mientras su convicción seguía firme.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_9	Cuando encuentre la parcela de tierra corrompida en Bentbranch, haga salir al sprite corrompido y deje que ella presencie la lucha. Que los elementales l<if(gnum4,a,o)> ayuden en esta empresa, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSCNJ004_00093_SYLPHIE_000_21	¡Oh! No estaba segura de que vendrías...
+TEXT_CLSCNJ004_00093_SYLPHIE_000_22	Eres... amable al ayudarme. Y yo no hice más que burlarme de ti...
+TEXT_CLSCNJ004_00093_SYLPHIE_000_23	Bueno, si estás <if(gnum4,lista,listo)>, la tierra corrompida está justo ahí. Te prometo que voy a prestar atención.
+TEXT_CLSCNJ004_00093_SYLPHIE_000_31	¡Aaah!
+TEXT_CLSCNJ004_00093_SYLPHIE_000_32	¡No me asusté! Solo... me sorprendí un poquito, ¡nada más!
+TEXT_CLSCNJ004_00093_SYLPHIE_000_33	Fue como si una masa de pura furia hubiera brotado del suelo. Nunca sentí nada pare─
+TEXT_CLSCNJ004_00093_SYLPHIE_000_34	O sea, eh, no importa. Ahora tenemos que ir al Bannock. Terminemos con esto.
+TEXT_CLSCNJ004_00093_SYLPHIE_000_41	Parece que es aquí. Voy a estar mirando, así que... haz eso que haces.
+TEXT_CLSCNJ004_00093_SYLPHIE_000_51	¡Dioses!
+TEXT_CLSCNJ004_00093_SYLPHIE_000_52	¡El viento me atravesó! Se sintió suave y cortante a la vez. N-No lo puedo explicar...
+TEXT_CLSCNJ004_00093_SYLPHIE_000_53	¿Esto es algo que puedes <italic(1)>conjurar<italic(0)>...?
+TEXT_CLSCNJ004_00093_SYLPHIE_000_54	Sigamos. El último está en Lilystone.
+TEXT_CLSCNJ004_00093_SYLPHIE_000_61	El agua corrompida está aquí.
+TEXT_CLSCNJ004_00093_SYLPHIE_000_62	A ver, muéstrame cómo se hace.
+TEXT_CLSCNJ004_00093_SYLPHIE_000_71	El lago es tan hermoso. Nunca me había fijado en lo claro que se refleja el cielo en el agua.
+TEXT_CLSCNJ004_00093_SYLPHIE_000_72	Nunca me había fijado...
+TEXT_CLSCNJ004_00093_SYLPHIE_000_73	Volvamos. Ya estoy lista para hablar con el maestro del gremio.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_91	<if(gnum4,Bienvenidas,Bienvenidos)> de vuelta, mis entusiastas conjurers. ¿Cómo les fue en su encuentro con los elementos?
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_92	Sylphie, ¿qué sentiste mientras <split(<string(gstr1)>, ,1)> purificaba los focos de corrupción?
+TEXT_CLSCNJ004_00093_SYLPHIE_000_93	Es difícil de explicar. Fue... como oír voces que gritaban de alegría.
+TEXT_CLSCNJ004_00093_SYLPHIE_000_94	Y sentí que su felicidad me inundaba. El mundo parecía más nítido, más... vivo. Era casi como si la naturaleza me hablara.
+TEXT_CLSCNJ004_00093_SYLPHIE_000_95	Pero ¿por qué, Brother E<-->Sumi? ¿Por qué mi mamá me enseñó a evitar este lado de la conjury?
+TEXT_CLSCNJ004_00093_SYLPHIE_000_96	¿A qué le tenía tanto miedo?
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_97	Hay verdades que se esconden detrás de la máscara de nuestras palabras, y hay mucho que tu madre no te contó. Pero no necesitas buscar todas las respuestas a la vez, Sylphie.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_98	Incluso ahora, tu mente se tambalea bajo una repentina inundación de conciencia. La primera vez que conectamos con la naturaleza puede ser una experiencia maravillosa, pero desconcertante. Te sugiero que te des un tiempo para acostumbrarte a esta nueva mirada.
+TEXT_CLSCNJ004_00093_SYLPHIE_000_99	Sí, Guildmaster...
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_100	Le estoy agradecido, <split(<string(gstr1)>, ,1)>. Gracias a usted, Sylphie dio un paso de lo más importante.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_101	La oyó hablar de "voces que gritaban de alegría", ¿no es así? Parece que el don de la madre pasó a la hija.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_102	Esa sensibilidad no se consigue con meditación ni entrenamiento: es una bendición que solo reciben unos pocos elegidos afortunados. Y, como sin duda ya adivinó, la madre de Sylphie era una de ellos.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_103	Pero no entender esa bendición fue lo que la llevó por un camino tan trágico. No podemos permitir que el asombroso talento de Sylphie la consuma de la misma manera.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_104	...Pero no nos adelantemos. La niña apenas despertó a su potencial.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_105	Y para que ese potencial se realice del todo, todavía hace falta su apoyo. Sospecho que no le contó que lo que la hizo cambiar de opinión fue la promesa de que <italic(1)>usted<italic(0)> participaría en sus lecciones.
+TEXT_CLSCNJ004_00093_ESUMIYAN_000_106	Ah, subestima la impresión que su callada determinación causó en la joven Sylphie. Si la modestia le impide reconocer su buena obra, considere esta tarea parte de su entrenamiento ─ porque los conjurers sanan heridas, sean del cuerpo o de otra clase. Acompáñela en su camino, <split(<string(gstr1)>, ,1)>, y exploren <if(gnum4,juntas,juntos)> los incontables misterios de la naturaleza.
+TEXT_CLSCNJ004_00093_POP_MESSAGE	¡Sientes una presencia hostil!

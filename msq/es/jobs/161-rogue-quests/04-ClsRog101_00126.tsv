@@ -1,0 +1,135 @@
+key	text
+TEXT_CLSROG101_00126_SEQ_00	Jacke tiene otra tarea para ti.
+TEXT_CLSROG101_00126_SEQ_01	Jacke te encargó recuperar un cargamento de armas de fuego robadas. Los piratas responsables del robo ya fueron capturados, pero parece que los mosquetes ya se habían vendido. Habla con V'kebbe para decidir cómo encarar el trabajo.
+TEXT_CLSROG101_00126_SEQ_02	V'kebbe te sugiere consultar con una de las espías de los rogues para ver qué se sabe de las armas vendidas. Habla con la mujer que se hace pasar por pescadera en el Hyaline.
+TEXT_CLSROG101_00126_SEQ_03	La "pescadera" te informa que los mosquetes saqueados los compró una organización de los mares del sur conocida como los Traders of Edge. Habla con V'kebbe en el Hyaline y cuéntale lo que descubriste.
+TEXT_CLSROG101_00126_SEQ_04	Después de que le cuentas lo que sabía la espía sobre el mercader de los Traders of Edge, V'kebbe decide que hace falta reunir más información. Visita el Bismarck, los muelles del ferry y East Hawkers' Alley, y usa tu habilidad Hide para escuchar a escondidas cualquier murmullo que pueda servir.
+TEXT_CLSROG101_00126_SEQ_05	Reuniste información en los lugares asignados. Reúnete con V'kebbe frente al Rogues' Guild y cuéntale lo que averiguaste.
+TEXT_CLSROG101_00126_SEQ_06	Con la información que reuniste, V'kebbe deduce que el turbio mercader piensa partir en barco muy pronto. La Stray propone su plan: esperar a que el comerciante apile su mercancía en el muelle, pasar a escondidas junto a los matones a sueldo y recuperar las armas de los Yellowjackets. Vuelve a hablar con V'kebbe cuando quieras empezar la operación.
+TEXT_CLSROG101_00126_SEQ_07	Recuperaste los mosquetes robados y se los devolviste a los Yellowjackets. Informa a V'kebbe frente al Rogues' Guild.
+TEXT_CLSROG101_00126_SEQ_08	Jacke se les une frente al Rogues' Guild y te felicita por el buen trabajo. Sin embargo, mientras le cuenta a V'kebbe el triste final de la saga del sándwich perdido, la llegada de un despistado Perimu Haurimu deja al descubierto su engaño. V'kebbe responde entonces como respondería a cualquier violación del código. Entra al gremio y mira qué fue del maestro del gremio ladrón de cenas.
+TEXT_CLSROG101_00126_SEQ_09	Con varias quemaduras feas de soga, pero por lo demás sano y salvo, Jacke parece sinceramente arrepentido de su robo de sándwich. Te explica que acabar colgado es uno de los castigos más leves que alguien puede sufrir a manos de los rogues. Vuelve a disciplinar cuerpo y mente para poder hacer justicia como corresponde con quienes desafían el código.<br><br>※La siguiente misión de rogue estará disponible con Jacke al llegar al nivel 15.
+TEXT_CLSROG101_00126_TODO_00	Habla con V'kebbe.
+TEXT_CLSROG101_00126_TODO_01	Habla con la pescadera del Hyaline.
+TEXT_CLSROG101_00126_TODO_02	Habla con V'kebbe.
+TEXT_CLSROG101_00126_TODO_03	Usa Hide para reunir información en el Bismarck.
+TEXT_CLSROG101_00126_TODO_04	Usa Hide para reunir información en los muelles del ferry.
+TEXT_CLSROG101_00126_TODO_05	Usa Hide para reunir información en East Hawkers' Alley.
+TEXT_CLSROG101_00126_TODO_06	Habla con V'kebbe frente al Rogues' Guild.
+TEXT_CLSROG101_00126_TODO_07	Habla con V'kebbe y recupera las armas.
+TEXT_CLSROG101_00126_TODO_08	Habla con V'kebbe frente al Rogues' Guild.
+TEXT_CLSROG101_00126_TODO_09	Habla con Jacke.
+TEXT_CLSROG101_00126_JACKE_000_000	Muy <if([gnum11<12],<if([gnum11<4],buenas noches,buenos días)>,<if([gnum11<17],buenas tardes,buenas noches)>)>, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSROG101_00126_JACKE_000_001	Y vaya si es <if([gnum11<12],<if([gnum11<4],una buena noche,una buena mañana)>,<if([gnum11<17],un buen día,una buena noche)>)> para trabajar un poco, ¿no te parece?
+TEXT_CLSROG101_00126_JACKE_000_002	Esta vez parece que unos bucaneros entusiastas se subieron a un mercante local y se largaron con un cargamento de mosquetes.
+TEXT_CLSROG101_00126_JACKE_000_003	Como para empezar no es legal afanar de un barco lominsano, los Yellowjackets cayeron sobre esos tipos tontos antes de que se les secaran las botas.
+TEXT_CLSROG101_00126_JACKE_000_004	Sí, atraparon a los piratas ahí mismo en los muelles, pero los trabucos robados no aparecieron por ningún lado ─ los vendieron en algún trato a bordo de una chalupa, diría yo.
+TEXT_CLSROG101_00126_JACKE_000_005	Ahí fue cuando contrataron oficialmente a nuestro gremio para recuperar la mercancía. ...Cosa que no hacía falta, porque el código nos habría puesto a trabajar de todos modos. "No le birlas la bolsa a otro lominsano", y todo eso.
+TEXT_CLSROG101_00126_JACKE_000_006	Así que esta es tu tarea, <if(gnum4,muchacha avispada,muchacho avispado)>: averigua adónde fueron esas armas y recupera el cargamento.
+TEXT_CLSROG101_00126_JACKE_000_007	Como los rufianes que asaltaron ese mercante ya se están pudriendo entre grilletes, no hace falta que entres a puñaladas. Quiero este trabajo rápido y en silencio, y tengo a la compañera perfecta para enseñarte cómo se hace.
+TEXT_CLSROG101_00126_JACKE_000_008	Esta es V'kebbe the Stray. No hay rogue que la iguale en el arte de escabullirse.
+TEXT_CLSROG101_00126_VKEBBE_000_009	...Un placer.
+TEXT_CLSROG101_00126_JACKE_000_010	...¿Pasa algo, V'kebbe? Te noto de malas.
+TEXT_CLSROG101_00126_VKEBBE_000_011	Me muero de hambre. Tenía guardado uno de esos sándwiches finitos ─ ya sabes, esas delicias rellenas de huevo que hacen en el Bismarck ─, pero cuando volví del trabajo, había desaparecido, maldita sea...
+TEXT_CLSROG101_00126_JACKE_000_012	(Ay, no. ¿Ese era de V'kebbe? Creí que era de Underfoot...)
+TEXT_CLSROG101_00126_JACKE_000_013	\<tos> ¡Ejem! Bueno, tú ve a hacer el trabajo, ¡y yo veré si encuentro ese sándwich perdido para cuando vuelvas!
+TEXT_CLSROG101_00126_VKEBBE_000_014	...Está bien, Jacke.
+TEXT_CLSROG101_00126_JACKE_000_015	Ah, un detallito más que deberías saber: esos mosquetes iban para la armería de los Yellowjackets, así que cuando todo esté en orden, puedes entregarle la mercancía directamente a uno de sus fulanos.
+TEXT_CLSROG101_00126_VKEBBE_000_020	Podemos empezar cuando estés <if(gnum4,lista,listo)>, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSROG101_00126_VKEBBE_000_021	Tuve a una colega con la oreja atenta a cualquier cosa que pudiera servirnos, así que te sugiero que primero cruces unas palabras con ella.
+TEXT_CLSROG101_00126_VKEBBE_000_022	La vas a encontrar en el Hyaline, haciéndose pasar por pescadera.
+TEXT_CLSROG101_00126_VKEBBE_000_030	Esa muchacha de allá ─ la que apesta a pescado y a mar. Acércate y pregúntale cuál es la pesca del día.
+TEXT_CLSROG101_00126_THIEF00126_000_040	Hola, <if(gnum4,señorita,señor)>. Tenemos carpa y trucha, langosta y camarón...pero me dicen que anda buscando un pescado de una raza especial ─ de esos largos y brillantes, que con un ladrido tumban a cualquiera de culo.
+TEXT_CLSROG101_00126_THIEF00126_000_041	Esa clase no la vendemos aquí, pero podría probar con esos mercaderes extranjeros ─ ¿cómo se llamaban? ─ ah, los "Traders of Edge". Vienen de las islas de los mares del sur y son conocidos por comerciar con toda clase de armas de fuego y de filo de lo más feas.
+TEXT_CLSROG101_00126_THIEF00126_000_042	Le advierto: esa gente no es de preguntar de dónde sale su mercancía. De hecho, parecen más que felices de pagar por cosas que vienen "de bajo cubierta", por así decirlo.
+TEXT_CLSROG101_00126_THIEF00126_000_043	Pero si todavía quiere echarles mano a esos pescados raros, más le vale apurarse ─ el mercader de Edge que está de visita en Limsa piensa cargar y dejar la ciudad dentro de poco.
+TEXT_CLSROG101_00126_THIEF00126_000_044	Eso sí, cómo piensa transportar su mercancía sigue siendo un misterio. Con todos los matones a sueldo que le cuidan el negocio, ¡a una chica le cuesta acercarse lo suficiente para echarle un vistazo a la competencia, ya lo creo!
+TEXT_CLSROG101_00126_THIEF00126_000_045	Yo voy a seguir con el ojo atento por usted, pero puede que averigüe algo más con la gente de la ciudad...
+TEXT_CLSROG101_00126_VKEBBE_000_050	...Traders of Edge, ¿eh? Bueno, si uno de sus mercaderes anda por la ciudad, alguien sabrá algo que nos ponga en la dirección correcta.
+TEXT_CLSROG101_00126_VKEBBE_000_051	El truco es escuchar sin que te vean. Te sorprendería lo que cantan los fulanos cuando creen que no hay nadie cerca.
+TEXT_CLSROG101_00126_VKEBBE_000_052	Nos vamos a concentrar en lugares con mucho movimiento. Tú encárgate del Bismarck, los muelles del ferry y East Hawkers' Alley.
+TEXT_CLSROG101_00126_VKEBBE_000_053	Yo voy a probar suerte en otros sitios, y cuando termine te encuentro frente al gremio. Recuerda: no te dejes ver, no hagas ruido y mantén las orejas abiertas.
+TEXT_CLSROG101_00126_SYSTEM_000_054	Diving Dove refunfuña con disgusto...
+TEXT_CLSROG101_00126_DIVINGDOVE_000_055	¡Uf! ¡La cara de desprecio de ese cliente! ¿Acaso cree que puedo ordenarle a la sartén que cocine más rápido solo porque él tiene apuro por zarpar?
+TEXT_CLSROG101_00126_DIVINGDOVE_000_056	No sé cómo se hacen las cosas en los mares del sur, ¡pero aquí en Limsa Lominsa la gente <italic(1)>entiende<italic(0)> que la buena cocina no se apura!
+TEXT_CLSROG101_00126_DIVINGDOVE_000_057	...Vamos, Dove, no debes hablar mal de los clientes. A ver, ¿qué seguía en mi lista? Ah, otro sándwich finito para las Dutiful Sisters. A alguien de ahí le deben encantar los huevos...
+TEXT_CLSROG101_00126_DIVINGDOVE_000_058	Uf, es simplemente exasperant─
+TEXT_CLSROG101_00126_DIVINGDOVE_000_059	¿Sí, <if(gnum4,señorita,señor)>? Por favor, haga su pedido a uno de los camareros y le prepararemos la comida con toda la diligencia del caso.
+TEXT_CLSROG101_00126_SYSTEM_100_059	Diving Dove parece afligida por algo. Aléjate un poco y vuelve a acercarte bajo el efecto de Hide para escuchar a escondidas sus quejas.
+TEXT_CLSROG101_00126_SYSTEM_110_059	Diving Dove parece afligida por algo. Acércate bajo el efecto de Hide e intenta escuchar a escondidas sus quejas.
+TEXT_CLSROG101_00126_SYSTEM_000_058	（★Sin uso／se eliminará★）
+TEXT_CLSROG101_00126_SYSTEM_000_060	Rerenasu murmura, nervioso...
+TEXT_CLSROG101_00126_RERENASU_000_061	Maldito sentido del deber... Ojalá me hubiera quedado en el Wench a tomarme esa otra pinta en vez de volver temprano.
+TEXT_CLSROG101_00126_RERENASU_000_062	¡Yo no pedí ver a nadie recibiendo un soborno! ¡Y mucho menos a mi piloto de relevo! ¿Qué se traería ese mercader? ¿Contrabando? Lo más probable...
+TEXT_CLSROG101_00126_RERENASU_000_063	¿Debería informarles a los Yellowjackets? ...¿Y si me están vigilando? Podría terminar flotando boca abajo en el puerto...
+TEXT_CLSROG101_00126_RERENASU_000_064	Qué hago, qué hago...
+TEXT_CLSROG101_00126_RERENASU_000_065	¡Oh! ¡S-Saludos, <if(gnum4,señorita,señor)>! ¿Busca pasaje a Aleport? ¿O tal vez a Costa del Sol?
+TEXT_CLSROG101_00126_SYSTEM_000_066	Rerenasu parece angustiado. Aléjate un poco y vuelve a acercarte bajo el efecto de Hide para escuchar a escondidas sus murmullos.
+TEXT_CLSROG101_00126_SYSTEM_000_067	Rerenasu parece angustiado. Acércate bajo el efecto de Hide e intenta escuchar a escondidas sus murmullos.
+TEXT_CLSROG101_00126_SYSTEM_000_064	（★Sin uso／se eliminará★）
+TEXT_CLSROG101_00126_SYSTEM_000_070	Gerulf le ofrece su mercancía a un cliente...
+TEXT_CLSROG101_00126_GERULF_000_071	¡Tiene muy buen ojo para la calidad, señor! Tenemos un espléndido surtido de productos de todos los rincones de Eorzea, ¡pero nadie puede visitar Limsa Lominsa sin probar algunas especialidades locales!
+TEXT_CLSROG101_00126_GERULF_000_072	¿Le apetece un jugo de naranja de La Noscea recién exprimido? ¿O quizá nuestro famoso bacalao salado sea más de su gusto...?
+TEXT_CLSROG101_00126_SYSTEM_000_073	Gerulf sigue elogiando las virtudes de su mercancía, pero sus apasionadas recomendaciones parecen tener poco que ver con tu tarea.
+TEXT_CLSROG101_00126_GERULF_000_074	¡Excelente elección! ¿Me permite también dirigir su mirada a estos artículos de abajo─
+TEXT_CLSROG101_00126_GERULF_000_075	¡Ah! ¡Otro cliente! ¡Pase, pase! ¿Vio algo que le guste? ¡Por favor, quédese y mire todo lo que quiera!
+TEXT_CLSROG101_00126_SYSTEM_000_076	Gerulf le habla a un cliente cercano en tono bajo pero animado. Aléjate un poco y vuelve a acercarte bajo el efecto de Hide para escuchar a escondidas sus exhortaciones.
+TEXT_CLSROG101_00126_SYSTEM_000_077	Gerulf le habla a un cliente cercano en tono bajo pero animado. Acércate bajo el efecto de Hide e intenta escuchar a escondidas sus exhortaciones.
+TEXT_CLSROG101_00126_SYSTEM_000_074	（★Sin uso／se eliminará★）
+TEXT_CLSROG101_00126_VKEBBE_000_080	<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <split(<string(gstr1)>, ,1)>. Espero que te haya ido bien escabulléndote.
+TEXT_CLSROG101_00126_VKEBBE_000_081	Puede que seas un ángel de la muerte con las dagas, <if(gnum4,palomita,pichón)>, pero el rogue que rehúye las sombras va derecho a una tumba temprana. <if(gnum4,Una moza sigilosa,Un tipo sigiloso)> puede husmear sin arriesgarse a una pelea, o colocarse en la mejor posición para emboscar a su presa.
+TEXT_CLSROG101_00126_VKEBBE_000_082	Pero una vez que te vieron, se acabó tu truco fino. Esconderse es en parte ocultarse y en parte distraer, y no vas a desaparecer ante un tipo que ya sabe que estás ahí.
+TEXT_CLSROG101_00126_VKEBBE_000_083	Bueno, ya terminé de parlotear. ¿Qué averiguaste de nuestro amigo, el mercader que compra mosquetes?
+TEXT_CLSROG101_00126_VKEBBE_000_084	¿Le pasaba monedas a un piloto del ferry? Y por lo que oíste de ese chef del Bismarck, este comerciante piensa salir pitando, y pronto.
+TEXT_CLSROG101_00126_VKEBBE_000_085	Eso coincide con lo que averigüé yo: dejó sus habitaciones en la posada y pagó todo lo que debía.
+TEXT_CLSROG101_00126_VKEBBE_000_086	Como es mercader, podemos dar por hecho que no se va a ir sin su mercancía. Así que este es el plan: esperamos a que apile sus cosas en el muelle, y entonces tú entras como un fantasma y les echas mano a esas armas.
+TEXT_CLSROG101_00126_VKEBBE_000_087	Espero que podamos hacer el trabajo en silencio y al amparo de la oscurana, pero nunca está de más prepararse para lo peor. Parece que tiene un pequeño ejército de mercenarios a sueldo...
+TEXT_CLSROG101_00126_VKEBBE_000_090	Voy a avisarles a los Yellowjackets para que pongan a un fulano cerca de Hawkers' Alley. Así no vas a tener que correr mucho una vez que hayas birlado la mercancía.
+TEXT_CLSROG101_00126_VKEBBE_000_091	La presa debería llegar en cualquier momento, <split(<string(gstr1)>, ,1)>. ¿Ya tienes puestas tus botas de escabullirte?
+TEXT_CLSROG101_00126_EDGETRADERS00126_000_100	¡Tú! ¡No deberías estar aquí! ¡Creí haberles ordenado a mis empleados que mantuvieran despejado este embarcadero!
+TEXT_CLSROG101_00126_EDGETRADERS00126_000_101	¿Hm? ...Una...dos...tres... ...Falta una.
+TEXT_CLSROG101_00126_EDGETRADERS00126_000_102	¡Mi caja de mosquetes! ¡Desapareció!
+TEXT_CLSROG101_00126_EDGETRADERS00126_000_103	¡Al ladrón! ¡<italic(1)>Detengan<italic(0)> a <if(gnum4,esa ladrona,ese ladrón)>, holgazanes inútiles! ¡¿Para qué les pago?!
+TEXT_CLSROG101_00126_VKEBBE_000_110	Eso se puso feo, ¿no, <if(gnum4,palomita,pichón)>?
+TEXT_CLSROG101_00126_VKEBBE_000_111	Pero una vez que llegaste con el Yellowjacket, el mercader llamó a sus matones. Fue lo bastante listo para cortar por lo sano, eso hay que reconocérselo.
+TEXT_CLSROG101_00126_VKEBBE_000_112	Diría que aquí terminamos. Entremos a darle a Jacke la buena noticia.
+TEXT_CLSROG101_00126_JACKE_000_130	Oí ruido de pelea afuera, y ahora ya sonsaqué la causa. ...Creí que en este trabajo íbamos por lo "sutil".
+TEXT_CLSROG101_00126_JACKE_000_131	¿Tantos soldaditos había? Pero les llevaste a los Yellowjackets lo que querían, así que bien está lo que bien acaba, ¿eh?
+TEXT_CLSROG101_00126_VKEBBE_000_132	Vas camino de convertirte en <if(gnum4,una rogue,un rogue)> de primera, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSROG101_00126_VKEBBE_000_133	Sí, el trabajo no salió exactamente como lo planeamos, pero ¿ves lo valioso que es no dejarse ver? Escabullirse puede parecer lento, pero a la larga te ahorra tiempo ─ y una buena cantidad de sangre.
+TEXT_CLSROG101_00126_JACKE_000_134	Ah, hablando de imprevistos... Tengo una mala noticia para ti, V'kebbe.
+TEXT_CLSROG101_00126_JACKE_000_135	Busqué por todas partes, pero parece que algún tipo sin principios se zampó tu sándwich. No quedaban más que migas.
+TEXT_CLSROG101_00126_VKEBBE_000_136	No... Mi sándwich... Era un especial del Bismarck...
+TEXT_CLSROG101_00126_VKEBBE_000_137	¡¿Sabes cuánto esperaba esa comida?! ¡Tengo la panza a punto de hundirse sobre sí misma!
+TEXT_CLSROG101_00126_JACKE_000_138	Es una tragedia de primer orden, querida. Y sabes que no soporto ver a mis rogues tan afligidos...
+TEXT_CLSROG101_00126_JACKE_000_139	Así que le di a Underfoot una tarea especial ─ debería volver en cualquier momento...
+TEXT_CLSROG101_00126_JACKE_000_140	...¡con un sándwich finito especial del Bismarck recién hecho!
+TEXT_CLSROG101_00126_VKEBBE_000_141	¡¿Hiciste eso por mí?! ¡¿No me estás tomando el pelo, Jacke?!
+TEXT_CLSROG101_00126_JACKE_000_142	Con esto no se bromea. Es responsabilidad del maestro del gremio que todos sus tipos y mozas estén en su mejor forma para el trabajo.
+TEXT_CLSROG101_00126_PERIMUHAURIMU_000_143	¡Ah, Jacke, ahí estás! ¡Traje el sándwich que encargaste!
+TEXT_CLSROG101_00126_PERIMUHAURIMU_000_144	¡Y vaya si el chef me llenó las orejas cuando le dije que teníamos apuro! A lo mejor la próxima vez lo piensas dos veces antes de zamparte lo que otro rogue tenía para ce─
+TEXT_CLSROG101_00126_PERIMUHAURIMU_000_145	...Ay, carajo.
+TEXT_CLSROG101_00126_JACKE_000_146	...
+TEXT_CLSROG101_00126_VKEBBE_000_147	...Jacke. ¿Te comiste mi cena?
+TEXT_CLSROG101_00126_JACKE_000_148	Vamos, vamos, muchacha, no nos apresuremos. Aquí tienes un sándwich recién hecho. No pasó nada, ¿eh?
+TEXT_CLSROG101_00126_VKEBBE_000_149	Afanaste algo que era mío, Jacke. Y no puedo ignorar el código...
+TEXT_CLSROG101_00126_JACKE_000_150	¡Jajaja, sí, el código! ¡No debemos ignorar el código! ...Estás bromeando, ¿no, muchacha? ...¿Muchacha?
+TEXT_CLSROG101_00126_JACKE_000_151	¡Aaargh!
+TEXT_CLSROG101_00126_PERIMUHAURIMU_000_152	...Puede que sea la colgada más rápida que vi en mi vida.
+TEXT_CLSROG101_00126_VKEBBE_000_153	Un castigo a la medida del crimen. Míralo bien, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSROG101_00126_VKEBBE_000_154	El código existe para preservar la paz en Limsa ─ para que los callejones no se tiñan de sangre. Esta ciudad es mi hogar, y le saco las dagas a <italic(1)>cualquier<italic(0)> tipo lo bastante tonto para amenazar esa paz.
+TEXT_CLSROG101_00126_PERIMUHAURIMU_000_155	Una lección bien afilada. Entremos, ¿eh? Tu sándwich se va a enfriar.
+TEXT_CLSROG101_00126_JACKE_000_156	(-Jacke-)¡Oigan! ¡¿Piensan dejarme aquí toda la noche?! ¡Al menos me dejaron con una vista espléndida del puerto! ...¡Por las meadas de los dioses, qué apretadas están estas sogas!
+TEXT_CLSROG101_00126_MILALA_000_157	(-Soldado Yellowjacket-)Y ahora resulta que estamos en deuda con el Rogues' Guild. El <italic(1)>Rogues'<italic(0)> Guild.
+TEXT_CLSROG101_00126_MILALA_000_158	(-Soldado Yellowjacket-)Hmph, qué falta de decoro. Ojalá pudiera verlos a <italic(1)>ellos<italic(0)> en una celda junto a esos piratas ladrones...
+TEXT_CLSROG101_00126_JACKE_000_160	Ay... Estas sogas me van a dejar marcas por una maldita semana. Puede que me haya soltado retorciéndome, pero es la última vez que dejo que la panza piense por mí...
+TEXT_CLSROG101_00126_JACKE_000_161	Y piénsalo: V'kebbe me colgó por un sándwich de huevo. A los tipos que pisotean el código de verdad les va muchísimo peor. Sigue entrenando, <if(gnum4,muchacha,muchacho)>, y pronto vas a repartir tú también la justicia de los rogues.
+TEXT_CLSROG101_00126_QIB_TODO001	Usa la habilidad Hide para recuperar las armas robadas.
+TEXT_CLSROG101_00126_QIB_TODO002	Entrégale las armas al Yellowjacket que está cerca de Hawkers' Alley.
+TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_01	Ya vi a la presa al final del muelle.<br>Acércate a escondidas y aliviánale la carga.
+TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_02	No tenemos adónde correr...<br>¡Hora de sacar los pinchos!
+TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_03	Pasa a escondidas junto a cualquier soldadito que se cruce,<br>y llévales esa mercancía a los Yellowjackets.
+TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_04	Voy a hacer correr un buen rato a estos fulanos.<br>¡Encuéntrame frente al gremio cuando todo esté en orden!
+TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_05	Carajo.<br>Así no tenía que terminar el trabajo...
+TEXT_CLSROG101_00126_MERCHANT_BATTLETALK_01	¡Ladrones! ¡Sinvergüenzas!<br>¡Una recompensa para el que me traiga sus pellejos!
+TEXT_CLSROG101_00126_YEL_DUMMY_BATTLETALK_01	Sí, estos son nuestros mosquetes robados.<br>El intendente se va a alegrar.

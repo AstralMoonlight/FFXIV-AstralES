@@ -1,0 +1,70 @@
+key	text
+TEXT_CLSACN150_00458_SEQ_00	La maestra interina Thubyrgeim espera la llegada de los miembros del grupo de inspección.
+TEXT_CLSACN150_00458_SEQ_01	Ahora que todos los miembros del grupo de inspección de la Mealvaan's Gate están reunidos e informados, la Foreseer K'lyhia está lista para partir. Reúnete con la inspectora y los mercenarios a las afueras de Aleport y prepárate para abordar el buque mercante <italic(1)>Morningstar<italic(0)>.
+TEXT_CLSACN150_00458_SEQ_02	Para llegar al <italic(1)>Morningstar<italic(0)>, primero debes subir al pequeño bote de transporte amarrado al final del muelle. Habla con el timonel del bote de desembarco y anuncia la llegada del grupo de inspección.
+TEXT_CLSACN150_00458_SEQ_03	Derrotaste a los matones enviados a impedir la inspección. Habla otra vez con el timonel.
+TEXT_CLSACN150_00458_SEQ_04	Aseguraste el muelle para tus compañeros. Ve al bote de desembarco y espera la llegada de la Foreseer K'lyhia y los dos mercenarios.
+TEXT_CLSACN150_00458_SEQ_05	Tras una dura batalla con la tripulación del <italic(1)>Morningstar<italic(0)>, logras llegar a la escotilla que baja a la bodega. Pero justo cuando K'lyhia quiere empezar su inspección, se ve de pronto frente al temible capitán del barco. Con su grimorio arrojado por la borda y el juicio hecho trizas ante el terrible hombre que tiene delante, la vidente pierde el conocimiento. No te queda otra que abandonar la tarea. Vuelve al Arcanists' Guild e infórmale a Thubyrgeim de tu fracaso.
+TEXT_CLSACN150_00458_SEQ_06	Thubyrgeim te cuenta que el capitán del <italic(1)>Morningstar<italic(0)> es un pirata exiliado llamado Doesmaga, y que no es la primera vez que la vidente sufre a manos de él. Aunque K'lyhia no sufrió heridas físicas duraderas, puede que su mente necesite tiempo para recuperarse del impacto del encuentro. La maestra interina te pide que canalices tus emociones en tu entrenamiento y despejes la cabeza para las tareas que vienen.<br><br>※La siguiente misión de arcanist estará disponible con Thubyrgeim al llegar al nivel 20.
+TEXT_CLSACN150_00458_TODO_00	Habla con K'lyhia a las afueras de Aleport.
+TEXT_CLSACN150_00458_TODO_01	Habla con el timonel del bote de desembarco.
+TEXT_CLSACN150_00458_TODO_02	Habla con el timonel del bote de desembarco.
+TEXT_CLSACN150_00458_TODO_03	Espera junto al bote de desembarco.
+TEXT_CLSACN150_00458_TODO_04	Informa a Thubyrgeim en el Arcanists' Guild.
+TEXT_CLSACN150_00458_KLYHIA_000_000	Los mercenarios Geissfryn y Aersthota están aquí para ayudar con la inspección.
+TEXT_CLSACN150_00458_THUBYRGEIM_000_001	Los dos tienen mucha experiencia escoltando a K'lyhia en sus tareas más peligrosas.
+TEXT_CLSACN150_00458_GEISSFRYN_000_002	Saludos, <split(<string(gstr1)>, ,1)>. Mis hechizos están a tu disposición.
+TEXT_CLSACN150_00458_AERSTHOTA_000_003	No es la primera vez que esperamos problemas, pero mientras sigamos las tácticas de la vidente ─ y no perdamos la cabeza ─, vamos a salir de esta sin drama.
+TEXT_CLSACN150_00458_KLYHIA_000_004	El <italic(1)>Morningstar<italic(0)> se prepara para atracar en Aleport. Sin embargo, enfrentaremos nuestro primer desafío antes incluso de abordar el barco.
+TEXT_CLSACN150_00458_KLYHIA_000_005	Es casi seguro que el "buque mercante" contrató a un matón o dos para atacarnos en el muelle ─ calculo la probabilidad en 98%. La tripulación quiere evitar atacarnos en cubierta, ¿sabe?, porque eso sería casi como pregonar sus intenciones criminales a los cuatro vientos.
+TEXT_CLSACN150_00458_KLYHIA_000_006	Ahora bien, una vez que logremos pasar la borda, enfrentaremos una cubierta llena de marineros armados. Para un grupo pequeño como el nuestro, la estrategia más eficaz será incapacitar a los enemigos de uno en uno lo más rápido posible ─ cada oponente que derribemos es un arma menos levantada contra nosotros. Es imprescindible no enredarnos en varias escaramuzas prolongadas, o nos superarán. Lo llamo "Stratagem Hammerfall".
+TEXT_CLSACN150_00458_KLYHIA_000_007	"La estrategia es una herramienta para manipular la situación propia y convertirla en la realidad deseada." Tenga presentes esas palabras, <split(<string(gstr1)>, ,1)>. Es hora de partir ─ reagrupémonos frente a las puertas principales de Aleport.
+TEXT_CLSACN150_00458_KLYHIA_000_010	Manos a la obra. <split(<string(gstr1)>, ,1)>, le ruego que le avise al timonel del muelle que estamos listos para hacer nuestra inspección.
+TEXT_CLSACN150_00458_KLYHIA_000_011	Si nos ofrecen violencia, ejecutará el Stratagem Hammerfall. No lo olvide: sus tácticas son a la vez su escudo y su arma.
+TEXT_CLSACN150_00458_KLYHIA_000_012	Por favor, avísele al timonel del muelle de nuestra llegada. Cualquier agresión se responderá con el Stratagem Hammerfall.
+TEXT_CLSACN150_00458_GEISSFRYN_000_013	La vidente estará a salvo con nosotros.
+TEXT_CLSACN150_00458_AERSTHOTA_000_014	¡Contamos contigo para abrirnos paso hasta el bote de desembarco!
+TEXT_CLSACN150_00458_SENDOU_000_015	¿Vienes con la gente de la Mealvaan's Gate? Yo─ Ah, por todos los infiernos, ¡<italic(1)>sabía<italic(0)> que habría problemas!
+TEXT_CLSACN150_00458_SENDOU_000_016	¡E-Estás por tu cuenta, <if(gnum4,muchacha,muchacho)>!
+TEXT_CLSACN150_00458_SENDOU_000_020	¡Vaya! Me alegra mucho ver que sabes defenderte. El bote de desembarco está aquí abajo, al final de esta rampa. ¡Pero yo no quiero saber nada de lo que viene!
+TEXT_CLSACN150_00458_KLYHIA_000_025	Hábilmente resuelto, <split(<string(gstr1)>, ,1)>. Una vez más, me recuerda a nuestro maestro del gremio.
+TEXT_CLSACN150_00458_KLYHIA_000_026	Gracias a su eficiente respuesta, podremos empezar esta inspección antes de lo que calculé. Abordaremos el buque mercante en la bahía.
+TEXT_CLSACN150_00458_KLYHIA_000_027	Aersthota, ¿sería tan amable de tomar el timón? El <italic(1)>Morningstar<italic(0)> nos espera.
+TEXT_CLSACN150_00458_KLYHIA_000_31	Como su comité de bienvenida en el muelle no logró detenernos, espero ─ con una probabilidad del 85% ─ que nuestra llegada provoque más hostilidad.
+TEXT_CLSACN150_00458_KLYHIA_000_32	Pero nuestro objetivo no es intercambiar golpes, sino llegar a la bodega. Puede convenirnos emplear el "Stratagem Hardhead".
+TEXT_CLSACN150_00458_KLYHIA_000_33	El objetivo de nuestros oponentes es ganar tiempo para tirar al mar la mercancía sospechosa. No pienso darles ese tiempo. Nos abriremos paso a empujones hacia la bodega de carga lo más rápido que podamos.
+TEXT_CLSACN150_00458_KLYHIA_000_34	Es una táctica llena de riesgos, pero su presencia la hace posible. ¿Empezamos?
+TEXT_CLSACN150_00458_TALK_KLYHIA_000_35	Soy la Foreseer K'lyhia. ¡Por la autoridad de la Mealvaan's Gate, les pido que entreguen su mercancía para su evaluación!
+TEXT_CLSACN150_00458_TALK_SUIFU_000_36	Vaya, vaya, no podrías haber elegido peor momento, muchacha. La puerta de la bodega está toda oxidada, ¿ves? La maldita no abre ni a patadas. Vas a tener que volver otro día, cuando hayamos arreglado las bisagras.
+TEXT_CLSACN150_00458_TALK_KLYHIA_000_37	Veré esa carga <italic(1)>ahora<italic(0)>. Todo buque que entra en un puerto de Limsa Lominsa está obligado por ley a someterse a una inspección de rutina.
+TEXT_CLSACN150_00458_TALK_SUIFU_000_38	¿La ley, dices? Muchachos, creo que llegó la hora de que nuestros "invitados" tengan un pequeño accidente. ¡Tírenlos por la borda!
+TEXT_CLSACN150_00458_KLYHIA_000_51	¡Una demostración magistral, <split(<string(gstr1)>, ,1)>! Ahora por fin podemos acceder a su carga.
+TEXT_CLSACN150_00458_KLYHIA_000_52	¡Uf!
+TEXT_CLSACN150_00458_DOSWMAGA_000_53	(-???-)¿Qué tenemos aquí? Es uno de los perritos falderos de la perra de la Admiral, correteando por mi barco.
+TEXT_CLSACN150_00458_DOSWMAGA_000_54	(-???-)Eres igualita a tu ama: siempre metiendo las narices donde no te llaman.
+TEXT_CLSACN150_00458_KLYHIA_000_54	N-No...¡no puede ser!
+TEXT_CLSACN150_00458_DOSWMAGA_000_55	(-???-)Ja. Reconociste mi linda cara, ¿eh?
+TEXT_CLSACN150_00458_KLYHIA_000_56	P-Pero...te atraparon... Te exiliaron...
+TEXT_CLSACN150_00458_AERSTHOTA_000_57	¡Foreseer! ¿Está herida? ¿Puede ponerse de pie?
+TEXT_CLSACN150_00458_KLYHIA_000_58	¡A-Atrás! ¡No se me acerque!
+TEXT_CLSACN150_00458_AERSTHOTA_000_59	¡Foreseer, por favor, cálmese! ¿Cuáles son sus órdenes?
+TEXT_CLSACN150_00458_DOSWMAGA_000_60	(-???-)Ya me harté de tus lloriqueos. Y <italic(1)>sin duda<italic(0)> me harté de estos malditos libros. Está clarísimo que no aprendes nada de ellos.
+TEXT_CLSACN150_00458_DOSWMAGA_000_61	(-???-)¡Creo que es hora de que recibas una lección <italic(1)>distinta<italic(0)>!
+TEXT_CLSACN150_00458_KLYHIA_000_62	¡Aaaaaah!
+TEXT_CLSACN150_00458_AERSTHOTA_000_63	¡K'lyhia! ¡Que Nophica nos proteja, se desmayó! ¡Tenemos que retirarnos!
+TEXT_CLSACN150_00458_GEISSFRYN_000_64	¡<split(<string(gstr1)>, ,1)>, rápido! ¡De vuelta al bote! ¡Nosotros llevamos a la vidente!
+TEXT_CLSACN150_00458_DOSWMAGA_000_65	(-???-)¡Eso es! ¡Vuelvan arrastrándose con su ama, perros inútiles! ¡Gajajajaja!
+TEXT_CLSACN150_00458_AERSTHOTA_000_69	Nosotros nos encargamos de K'lyhia. Mejor vuelve al Arcanists' Guild e informa a la señora Thubyrgeim.
+TEXT_CLSACN150_00458_THUBYRGEIM_000_070	Me alegra verl<if(gnum4,a,o)> bien, <split(<string(gstr1)>, ,1)>. Geissfryn me avisó de sus penurias. Un giro desafortunado, pero considerando al infame canalla al que se enfrentó, podría haberle ido mucho peor.
+TEXT_CLSACN150_00458_THUBYRGEIM_000_071	¿Oyó hablar del pirata Doesmaga? Lo exiliaron de Limsa Lominsa hace algunos años, pero parece que decidió desafiar las órdenes de la Admiral.
+TEXT_CLSACN150_00458_THUBYRGEIM_000_072	¡Y otra vez se atreve a ponerle la mano encima a la Foreseer K'lyhia! La pobre muchacha debe haber estado aterrada. Si hubiera sabido que Doesmaga estaba a bordo de ese barco, jamás le habría asignado esa tarea.
+TEXT_CLSACN150_00458_THUBYRGEIM_000_073	Puede que la inspectora necesite tiempo para recuperarse ─ para K'lyhia, ese hombre es una pesadilla hecha carne.
+TEXT_CLSACN150_00458_THUBYRGEIM_000_074	Aunque sus heridas físicas pronto sanarán, poco podemos hacer para aliviar el daño a su mente. ¿Está preocupad<if(gnum4,a,o)>? ¿Enojad<if(gnum4,a,o)>, quizá? Aproveche esa energía y canalícela en su entrenamiento. Preveo que pronto volveremos a necesitar sus habilidades.
+TEXT_CLSACN150_00458_POP_MESSAGE	¡Sientes una presencia hostil!
+TEXT_CLSACN150_00458_QIB_002_TODO_1	¡Derrota a la tripulación del <italic(1)>Morningstar<italic(0)>!
+TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_01	¡Comiencen el Stratagem Hardhead!
+TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_02	¡<split(<string(gstr1)>, ,1)>!<br>¡Es el momento de que brille Topaz Carbuncle!
+TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_06	¡Hay que proteger a nuestro sanador ante todo!
+TEXT_CLSACN150_00458_QIB_AERSTHOTA_BATTLETALK_DEAD	Demasiados. Son demasiados...
+TEXT_CLSACN150_00458_QIB_GEISSFRYN_BATTLETALK_DEAD	Debo aprender...a curar...mis propias heridas...
+TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_DEAD	Este escenario no era del todo inesperado...

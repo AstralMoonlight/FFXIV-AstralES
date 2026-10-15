@@ -1,0 +1,97 @@
+key	text
+TEXT_CLSCNJ003_00092_SEQ_00	Brother E<-->Sumi<-->Yan quiere que aprendas sobre el elemento agua.
+TEXT_CLSCNJ003_00092_SEQ_01	Con el deseo de que aprendas sobre el elemento agua, Brother E<-->Sumi<-->Yan te asignó una nueva tarea. Toma el frasco que te dio y vierte su contenido cristalino en el suelo, al pie del Hedgetree, cerca de Hawthorne Hut.
+TEXT_CLSCNJ003_00092_SEQ_02	Lograste purificar la zona de la corrupción elemental. Informa a Brother Joacin en Hawthorne Hut.
+TEXT_CLSCNJ003_00092_SEQ_03	Al enterarse del ataque de una manada de antelope stags, Brother Joacin te pide que vayas cuanto antes a Josselin's Spire a ayudar a los soldados apostados allí. Habla con Aniud, el guardia de la torre, para recibir más instrucciones.
+TEXT_CLSCNJ003_00092_SEQ_04	Llegas a Josselin's Spire al mismo tiempo que el último grupo de soldados heridos en la batalla contra los antelope stags. Lanza el hechizo Cure sobre uno de los combatientes heridos frente a Josselin's Spire.
+TEXT_CLSCNJ003_00092_SEQ_05	Atendiste a un soldado herido. Habla con el sanador agobiado frente a Josselin's Spire y averigua qué se puede hacer por el resto de los heridos.
+TEXT_CLSCNJ003_00092_SEQ_06	La batalla sigue en el camino al este de Josselin's Spire. Ve cuanto antes al lugar del combate y presta tu apoyo.
+TEXT_CLSCNJ003_00092_SEQ_07	Brother E<-->Sumi<-->Yan te pidió que sigas a Sylphie y la escuches con comprensión.
+TEXT_CLSCNJ003_00092_SEQ_08	Al darse cuenta de lo desesperado de su situación, Sylphie solo quiere estar sola. Vuelve a Stillglade Fane e informa a Brother E<-->Sumi<-->Yan.
+TEXT_CLSCNJ003_00092_SEQ_09	Brother E<-->Sumi te explica que el poder curativo de Sylphie no sale de las energías infinitas de la naturaleza, sino de su propia fuerza vital, que es limitada. Si sigue usando su magia, la joven conjurer corre el riesgo de compartir el trágico destino de su madre. Muy preocupado, el Padjal promete buscar la manera de salvar a la niña, y espera contar con tu ayuda si encuentra una solución. Volviendo a tu formación, el maestro del gremio se muestra satisfecho con tu dominio de los principios fundamentales de la conjury y te pide que te esfuerces por sintonizarte cada vez más con los elementos.<br><br>※La siguiente misión de conjurer estará disponible con E<-->Sumi<-->Yan al llegar al nivel 20.
+TEXT_CLSCNJ003_00092_TODO_00	Vierte el agua pura en la base del Hedgetree y vence al tainted water sprite.
+TEXT_CLSCNJ003_00092_TODO_01	Habla con Joacin en Hawthorne Hut.
+TEXT_CLSCNJ003_00092_TODO_02	Habla con Aniud en Josselin's Spire.
+TEXT_CLSCNJ003_00092_TODO_03	Lanza Cure sobre uno de los soldados heridos.
+TEXT_CLSCNJ003_00092_TODO_04	Habla con el sanador agobiado.
+TEXT_CLSCNJ003_00092_TODO_05	Habla con el arquero del Gods' Quiver.
+TEXT_CLSCNJ003_00092_TODO_06	Habla con Sylphie.
+TEXT_CLSCNJ003_00092_TODO_07	Informa a Brother E<-->Sumi<-->Yan en Stillglade Fane.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_1	Me alegra volver a verl<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. Por el aura que emana, es evidente que creció aún más como conjurer.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_2	Llegó el momento de que conozca el tercer elemento de nuestro arte: el agua.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_3	En la primera parte de su lección, tomará este frasco de agua pura y lo verterá al pie del Hedgetree, cerca de Hawthorne Hut.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_4	La pureza del agua hará salir al ser corrupto que le está robando la fuerza vital al árbol.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_5	Acabe con ese ser y luego hable con Brother Joacin en Hawthorne Hut.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_6	Como podrá imaginar, es un conjurer con un oído fino para los murmullos de arroyos y riachuelos. Escuche bien sus consejos si quiere dominar el elemento agua.
+TEXT_CLSCNJ003_00092_JOACIN_000_21	Saludos, <split(<string(gstr1)>, ,1)>. Brother E<-->Sumi me avisó que vendría. ¿Supongo que fue usted quien purificó el agua contaminada del Hedgetree?
+TEXT_CLSCNJ003_00092_JOACIN_000_22	Fue un placer oír el burbujeo alegre de los elementales. En nombre de ellos y en el mío, le doy las gracias.
+TEXT_CLSCNJ003_00092_JOACIN_000_23	Y ahora, sin más preámbulos, hablemos de lo que Brother E<-->Sumi l<if(gnum4,a,o)> mandó a aprender aquí.
+TEXT_CLSCNJ003_00092_JOACIN_000_24	Confío en que no le pareció extraño que le pidieran cuidar un árbol cuando su lección de hoy trata del elemento agua.
+TEXT_CLSCNJ003_00092_JOACIN_000_25	No hace falta haber estudiado botánica para entender que el bosque necesita más que tierra fértil para florecer. El agua es esencial para llevar los nutrientes de la tierra desde las raíces del árbol hasta la punta misma de sus hojas.
+TEXT_CLSCNJ003_00092_JOACIN_000_26	Este líquido precioso es la sangre del Twelveswood. Sin él, nada crecería. Pero si sube en demasiada cantidad y demasiado rápido, el caudal que nutre se vuelve una ola que arrasa con todo a su paso.
+TEXT_CLSCNJ003_00092_JOACIN_000_27	Es importante entender que toda la naturaleza está en equilibrio. Como la conjury saca su poder de la naturaleza, debemos cuidar de no usar nuestro arte de un modo que altere ese estado. Siempre debemos tener presente el tira y afloja incesante que encierra la creación ─ este... fecundo empate de los elementos.
+TEXT_CLSCNJ003_00092_MAXIMILOIX_000_28	¡Brother Joacin! ¿Está por aquí?
+TEXT_CLSCNJ003_00092_JOACIN_000_29	Aquí estoy, señor. ¿Qué ocurrió?
+TEXT_CLSCNJ003_00092_MAXIMILOIX_000_30	Una manada de antelope stags jóvenes se volvió loca. No sé qué los asustó tanto, pero ya no hay quien los calme.
+TEXT_CLSCNJ003_00092_MAXIMILOIX_000_31	Las bestias enloquecidas cornearon a los soldados que mandamos a alejarlas de los poblados, y tenemos un montón de heridos en Josselin's Spire y no alcanzan las manos para parar las hemorragias. ¡Necesitamos un sanador, y rápido!
+TEXT_CLSCNJ003_00092_JOACIN_000_32	Qué curioso. No percibí nada raro en los susurros de los elementales. ¿Qué pudo asustar tanto a esos antílopes...?
+TEXT_CLSCNJ003_00092_JOACIN_000_33	¡Ah, disculpen! Ya volveré sobre estas cavilaciones. Démonos prisa.
+TEXT_CLSCNJ003_00092_JOACIN_000_34	Si las cosas están tan caóticas como dice, me temo que el número de heridos esté creciendo mientras hablamos. Dudo que nosotros dos alcancemos.
+TEXT_CLSCNJ003_00092_JOACIN_000_35	Debemos dividir nuestras fuerzas.
+TEXT_CLSCNJ003_00092_JOACIN_000_36	<split(<string(gstr1)>, ,1)>, vaya directo a Josselin's Spire y atienda a los heridos. Yo intentaré reunir a más sanadores y l<if(gnum4,a,o)> seguiré con todos los ungüentos curativos que pueda llevar.
+TEXT_CLSCNJ003_00092_JOACIN_000_37	Usted, señor, vaya a Stillglade Fane y pida la ayuda de Brother E<-->Sumi.
+TEXT_CLSCNJ003_00092_ANIUD_000_41	¿Quién es─? ¿Conjurer, dice? ¡Alabada sea Nophica!
+TEXT_CLSCNJ003_00092_ANIUD_000_42	No pudo llegar en mejor momento ─ parece que acaban de traer a más heridos. Le ruego que los ayude en lo que pueda.
+TEXT_CLSCNJ003_00092_DOUSHI_000_01	Qué heridas tan terribles... Déjeme a este a mí y teja sus hechizos de curación sobre aquel soldado.
+TEXT_CLSCNJ003_00092_SOLDIER_000_51	Aaagh...
+TEXT_CLSCNJ003_00092_SOLDIER_000_53	\<jadeo> Ya... ya puedo respirar... Gracias.
+TEXT_CLSCNJ003_00092_DOUSHI_000_11	Por ahora esta gente está fuera de peligro, pero me temo que la tregua será breve.
+TEXT_CLSCNJ003_00092_DOUSHI_000_12	La batalla con los antílopes sigue, y hay noticias de más heridos. Le pido que se una a los Wood Wailers y ayude a ponerle fin a esto.
+TEXT_CLSCNJ003_00092_DOUSHI_000_13	Los encontrará junto al camino que va al noreste. Y no se preocupe ─ mi arte debería bastar para que las cosas no empeoren aquí. ¡Ahora, vaya!
+TEXT_CLSCNJ003_00092_SOLDIERB_000_81	¿Viene a echar una mano? ¡Rápido! ¡La pelea es por aquí!
+TEXT_CLSCNJ003_00092_SYLPHIE_000_82	\<jadeo> ¡<if(gnum4,La conjurer,El conjurer)> del gremio!
+TEXT_CLSCNJ003_00092_SYLPHIE_000_83	Bueno, cuéntale a Brother E<-->Sumi si quieres ─ ¡no me importa! ¡No me voy a quedar mirando cómo la gente se desangra!
+TEXT_CLSCNJ003_00092_SYLPHIE_000_61	No entiendo. Cuando intento lanzar hechizos, no pasa nada. Cuando busco mi poder... no hay nada ahí.
+TEXT_CLSCNJ003_00092_SYLPHIE_000_62	¿Es esto de lo que el maestro del gremio quería advertirme?
+TEXT_CLSCNJ003_00092_SYLPHIE_000_63	Dijo que estaba repitiendo los errores de mi mamá. A ella le pasó lo mismo ─ perdió su magia, digo. Y después ella─
+TEXT_CLSCNJ003_00092_SYLPHIE_000_64	¿Me... me voy a morir?
+TEXT_CLSCNJ003_00092_SYLPHIE_000_65	Esto no puede estar pasando. No pensé...
+TEXT_CLSCNJ003_00092_SYLPHIE_000_66	Por favor. Necesito estar sola.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_71	¡<split(<string(gstr1)>, ,1)>! Por fin volvió. ¿Pudo hablar con Sylphie?
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_72	Ya veo...
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_73	Una vez le enseñé que los conjurers aprovechamos el poder de la naturaleza para producir cambios. Tierra, viento, agua, curación ─ el principio es el mismo.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_74	Para el arte de sanar, recurrimos a la fuerza vital infinita de la naturaleza y se la damos a los heridos. Sylphie nunca intentó tomar prestado de esa abundancia.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_75	Su poder de curar sale de su <italic(1)>propia<italic(0)> fuerza vital. Pero las energías vitales de los mortales son finitas... y ahora pasó lo que más temía.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_76	Su madre, sin saberlo, se quitó la vida por seguir usando sus dotes de curación.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_77	Y el talento de Sylphie para ese arte es, si acaso, todavía mayor. Por eso no es raro que llegue al límite de sus fuerzas a una edad mucho más temprana.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_78	Si no intervenimos, esta terrible tragedia se repetirá, y yo no podría soportar ver a la niña correr la misma suerte que su madre...
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_79	Pensaré en una solución para este oscuro dilema. Puede que en un futuro cercano necesite su ayuda, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_80	No dude de sus capacidades. Es <if(gnum4,una conjurer que superó,un conjurer que superó)> las pruebas de la tierra, el viento y el agua. Cada día está más cerca de la naturaleza, y percibo en usted las semillas de la grandeza.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_81	En su encuentro con el agua, aprendió su papel como portadora de vida. Pero también sintió el poder implacable de una ola embravecida que l<if(gnum4,a,o)> arrastraba a su paso. Como la tierra y el viento, y como la naturaleza en general, el elemento agua tiene más de una cara.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_82	Ahora que completó la tercera lección, me doy por satisfecho: domina los fundamentos de la conjury.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_83	Pero esto es solo el comienzo de su viaje. De ahora en adelante, debe esforzarse por sintonizarse cada vez más con los elementos y con la naturaleza.
+TEXT_CLSCNJ003_00092_POP_MESSAGE	¡Sientes una presencia hostil!
+TEXT_CLSCNJ003_00092_SOLDIER4_000_0001	Aaagh...
+TEXT_CLSCNJ003_00092_SYLPHIE_000_0003	¡No!
+TEXT_CLSCNJ003_00092_SOLDIER5_000_0002	¡Aaargh!
+TEXT_CLSCNJ003_00092_SOLDIER4_000_0004	¿Es... está bien, señorita?
+TEXT_CLSCNJ003_00092_SYLPHIE_000_0005	Por todos los dioses...
+TEXT_CLSCNJ003_00092_SOLDIER4_000_0006	¡Conjurer! ¡Ayúdenos!
+TEXT_CLSCNJ003_00092_SYLPHIE_000_1000	\<tos> \<resuello>
+TEXT_CLSCNJ003_00092_SOLDIER5_000_1001	¡¿Señorita?!
+TEXT_CLSCNJ003_00092_SYLPHIE_000_1002	E-Estoy bien... No se preocupen... por mí...
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_1003	Ruego a los dioses que no hayamos llegado tarde.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_1004	¡Sylphie! ¡¿Qué hiciste?! ¡Te prohibí usar esos... esos... métodos!
+TEXT_CLSCNJ003_00092_SYLPHIE_000_1005	¡Guildmaster!
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_1006	No voy a permitir que repitas los errores de tu madre.
+TEXT_CLSCNJ003_00092_SYLPHIE_000_1007	...
+TEXT_CLSCNJ003_00092_SYLPHIE_000_1008	¡Mi mamá nunca hizo nada malo!
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_1009	<split(<string(gstr1)>, ,1)>, ¿podría seguirla... por favor? Me temo que mi presencia solo la provocaría más.
+TEXT_CLSCNJ003_00092_ESUMIYAN_000_1010	No puede haber ido lejos en su estado.
+TEXT_CLSCNJ003_00092_QIB_TODO_001	¡Abate a los young antelope stags!
+TEXT_CLSCNJ003_00092_INSTANCE_BATTLE_YESNO_TITLE	El deber llama. ¿Quieres comenzar<br>"Trial by Water"?
+TEXT_CLSCNJ003_00092_INSTANCE_BATTLE_YESNO_YES	Sí
+TEXT_CLSCNJ003_00092_INSTANCE_BATTLE_YESNO_NO	No
+TEXT_CLSCNJ003_00092_SYLPHIE_BATTLETALK_01	Este soldado necesita toda mi atención.<br>¡Por favor, ayuda a los otros Wood Wailers!
+TEXT_CLSCNJ003_00092_SOLDIER_BATTLETALK_01	¡Resistan!
+TEXT_CLSCNJ003_00092_SOLDIER_BATTLETALK_02	¡En guardia! ¡Hay más!

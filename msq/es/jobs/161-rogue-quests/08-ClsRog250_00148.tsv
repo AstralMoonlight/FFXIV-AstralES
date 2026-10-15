@@ -1,0 +1,127 @@
+key	text
+TEXT_CLSROG250_00148_SEQ_00	Jacke quiere hablar del plan para recuperar los tesoros restantes.
+TEXT_CLSROG250_00148_SEQ_01	Jacke te explica que los tesoros restantes están en poder de los Reformists ─ una facción extrema de los temidos Bloody Executioners. El maestro del gremio te envía entonces a hablar con el traficante del mercado negro, siempre en movimiento, para averiguar más sobre estas peligrosas presas y sus planes. Ve a la House of Sticks, en Lower La Noscea, y defiéndete de los guardaespaldas kobolds del intermediario de los bajos fondos si intentan impedirte el paso.
+TEXT_CLSROG250_00148_SEQ_02	Derrotaste a los porteros kobolds. Habla con el traficante del mercado negro en la House of Sticks y págale con la bolsa de monedas que te dio Jacke.
+TEXT_CLSROG250_00148_SEQ_03	Satisfecho con el peso de la bolsa que le ofreces, el traficante del mercado negro te describe el plan de los Reformists para vender las Silver Sorrows. Vuelve con Jacke al Rogues' Guild e infórmale tanto de los detalles del trato como de la inesperada presencia de un lacayo de Milala en la House of Sticks.
+TEXT_CLSROG250_00148_SEQ_04	Después de tu informe, el maestro del gremio se prepara para partir a toda prisa hacia Eastern La Noscea. Sin embargo, se queda un momento pasmado cuando la Stray se ofrece para el trabajo y de pronto sale sola del gremio. Sigue las órdenes de Jacke y busca a V'kebbe en Costa del Sol.
+TEXT_CLSROG250_00148_SEQ_05	Alcanzas a la Stray y te enteras del motivo de su extraño comportamiento. Vuelve a hablar con V'kebbe en Costa del Sol y luego intenta hacerte con las Silver Sorrows.
+TEXT_CLSROG250_00148_SEQ_06	Jacke se les une en el lugar del trato y te cuenta su plan para robar los aretes. Sin embargo, después de derrotar a los guardias y amenazar a la mercader de Ul'dah, una capitana Milala bien preparada te arrebata el premio en el último momento. Lamenta lo ocurrido junto a Jacke en Costa del Sol.
+TEXT_CLSROG250_00148_SEQ_07	Mientras Jacke lamenta su fracaso, se le acerca la capitana de los Yellowjackets, que se burla todavía más del maestro del gremio con los detalles de su victoria. Tras un intercambio acalorado, queda claro que ni el rogue ni la soldado piensan renunciar al desafío. Vuelve al Rogues' Guild y habla con Jacke.
+TEXT_CLSROG250_00148_SEQ_08	Dejando atrás la pérdida de las Silver Sorrows, Jacke fija la mirada en el último tesoro que queda ─ el Black Sarcophagus. Te advierte que es poco probable que los Reformists se desprendan del misterioso objeto sin dar una dura pelea. Perfecciona tu manejo de las hojas y prepárate para lo que promete ser tu trabajo más difícil hasta ahora...<br><br>※La siguiente misión de rogue estará disponible con Jacke al llegar al nivel 30.
+TEXT_CLSROG250_00148_TODO_00	Derrota a los guardaespaldas del traficante del mercado negro en la House of Sticks.
+TEXT_CLSROG250_00148_TODO_01	Págale al traficante del mercado negro con la bolsa de monedas.
+TEXT_CLSROG250_00148_TODO_02	Habla con Jacke en el Rogues' Guild.
+TEXT_CLSROG250_00148_TODO_03	Habla con V'kebbe en Costa del Sol.
+TEXT_CLSROG250_00148_TODO_04	Habla con V'kebbe y roba las Silver Sorrows.
+TEXT_CLSROG250_00148_TODO_05	Habla con Jacke en Costa del Sol.
+TEXT_CLSROG250_00148_TODO_06	Habla con Jacke en el Rogues' Guild.
+TEXT_CLSROG250_00148_JACKE_000_000	¡Hola, <split(<string(gstr1)>, ,1)>! Tenemos un trabajo difícil por delante, eso es un hecho.
+TEXT_CLSROG250_00148_JACKE_000_001	Las cosas ya están bastante enredadas con esa moza de Milala pisándonos los talones, pero igual logramos echarle mano a ese primer cachivache sin mucho lío.
+TEXT_CLSROG250_00148_JACKE_000_002	Recuperar los otros dos tesoros, en cambio, va a ser otra historia... En cuanto llegue la Stray, les explico contra qué ─ o mejor dicho, contra "quién" ─ nos enfrentamos.
+TEXT_CLSROG250_00148_JACKE_000_003	Bien. Nos quedan dos baratijas en la lista: las Silver Sorrows y el Black Sarcophagus. Veamos dónde estamos.
+TEXT_CLSROG250_00148_VKEBBE_000_004	Oye, ¿y dónde se metió Perimu?
+TEXT_CLSROG250_00148_JACKE_000_005	¿Underfoot? Todavía está tratando de sonsacar la historia de ese maldito sarcófago. No vamos a afanar esa cosa espinosa hasta tener al menos una idea de cómo <italic(1)>es<italic(0)>.
+TEXT_CLSROG250_00148_JACKE_000_006	Tesoros aparte, estuve escarbando por mi cuenta sobre estos aliados "Executioners" de los Grinning Curs. Y me temo que el nombre no fue ninguna coincidencia.
+TEXT_CLSROG250_00148_JACKE_000_007	<split(<string(gstr1)>, ,1)>, espero que hayas oído hablar de los Bloody Executioners. Parece que esos Curs estaban comiendo de la zarpa de uno de los mayores poderes piratas de la nación.
+TEXT_CLSROG250_00148_JACKE_000_008	Esta no es una tripulación cualquiera de degolladores, <if(gnum4,muchacha,muchacho)> ─ dentro de Limsa Lominsa, los Bloody Executioners tienen un poder y una influencia que solo superan los de la mismísima Admiral.
+TEXT_CLSROG250_00148_JACKE_000_009	No les tenían ningún cariño a Merlwyb ni a su prohibición de la piratería, y solo la abrumadora amenaza del Garlean Empire terminó por convencerlos de llevarse bien con la talasocracia.
+TEXT_CLSROG250_00148_JACKE_000_010	...Pero los piratas no son de llevarse bien por mucho tiempo. Ahora que Hyllfyr ya no está al timón, la unidad de los Bloody Executioners empezó a resquebrajarse.
+TEXT_CLSROG250_00148_JACKE_000_011	Los capitanes y tenientes más fuertes empezaron a formar sus propias facciones, y se pelean por quedarse con el sillón principal. ...Claro que ningún maldito tipo se pone de acuerdo con otro sobre el rumbo que deberían tomar los Executioners.
+TEXT_CLSROG250_00148_JACKE_000_012	Pero entre estas nuevas facciones hay un grupo que busca librarse por completo de las garras de la Admiral. Resulta que estos "Reformists", como se hacen llamar, fueron los que tomaron bajo su ala a los Grinning Curs.
+TEXT_CLSROG250_00148_VKEBBE_000_013	...O sea que tienen los dos últimos tesoros que todavía no afanamos. Los rumores de la ciudad dicen que, incluso para ser Executioners, estos tipos son sanguinarios y despiadados, y no conviene cruzarse con ellos.
+TEXT_CLSROG250_00148_VKEBBE_000_014	Deberíamos quedarnos fuera de esto, Jacke. Al diablo la competencia de Milala ─ ¡no vale la pena tanto lío!
+TEXT_CLSROG250_00148_VKEBBE_000_015	Estaríamos provocando la ira de una tripulación tan grande y peligrosa que ni siquiera la <italic(1)>Admiral<italic(0)> tiene ganas de enfrentarse a ella. Si alguna vez vinieran por nosotros...
+TEXT_CLSROG250_00148_JACKE_000_016	Grande o chica, da igual ─ rompieron el código cuando atacaron ese cascarón del Maelstrom.
+TEXT_CLSROG250_00148_JACKE_000_017	Sí, los Grinning Curs están pagando ese crimen, pero seríamos una pobre excusa de rogues si dejáramos que los verdaderos culpables siguieran sin castigo. Pienso llevar este trabajo hasta el final ─ y eso significa recuperar esos tesoros y hacerles justicia como corresponde a quienes se la merecen.
+TEXT_CLSROG250_00148_VKEBBE_000_018	¡Pero, Jacke─!
+TEXT_CLSROG250_00148_JACKE_000_019	Escucha, con todas las peleas internas que hay ahora, que le clavemos una hoja corta en el pie a una facción no va a traernos encima a toda la tripulación de los Executioners. Además, esos desgraciados Reformists están tan apartados del grueso de la banda que vienen evitando la ciudad por completo.
+TEXT_CLSROG250_00148_JACKE_000_020	Ahora, ya es hora de ponernos a trabajar. <split(<string(gstr1)>, ,1)>, tú vas a buscar a nuestro contacto del mercado negro. Hace un tiempo le encargué averiguar sobre los nuevos aliados de los Curs, así que ya debería tener algunas respuestas.
+TEXT_CLSROG250_00148_JACKE_000_021	Hmmm... El Veil se levantó con un viento del sur esta mañana ─ eso pone al viejo en su guarida de Lower La Noscea. Toma, llévate esta bolsa de plata y hazle una visita en la House of Sticks.
+TEXT_CLSROG250_00148_JACKE_000_022	Es territorio kobold, por si no lo sabías. El viejo los soborna con mineral y contrata a los desgraciados más grandes y malos como guardaespaldas. Prepárate para que te...pongan a prueba al acercarte.
+TEXT_CLSROG250_00148_VKEBBE_000_030	Sé perfectamente lo que significa ser rogue. Pero por letal que sea nuestro gremio, no sobreviviríamos a una guerra con los malditos Bloody Executioners...
+TEXT_CLSROG250_00148_BLACKMERCHANT00146_000_040	¡Le doy la bienvenida a la House of Sticks, joven rogue! Debe disculpar el <italic(1)>entusiasmo<italic(0)> de mis empleados al recibir visitas. Ahora bien, ¿trae algún equipaje engorroso que yo pueda aligerarle antes de empezar nuestra conversación en serio...?
+TEXT_CLSROG250_00148_BLACKMERCHANT00146_000_041	¡Gyajajaja! \<resuello> Una carga pesada para alguien de su tierna edad, pero su peso equilibró la balanza. ¡La suma está pagada y el trato está cerrado! Hablemos de esos Reformists.
+TEXT_CLSROG250_00148_BLACKMERCHANT00146_000_042	Esta facción que tanto agravió el código ahora busca colocar uno de sus tesoros robados: los aretes mejor conocidos como las Silver Sorrows.
+TEXT_CLSROG250_00148_BLACKMERCHANT00146_000_043	Se dice que el trato se hará en Costa del Sol. ¿El comprador? Una adinerada mercader de las arenas doradas de Ul'dah.
+TEXT_CLSROG250_00148_BLACKMERCHANT00146_000_044	Los aretes estarán a la vista. Vulnerables. Yo atacaría en el momento de la transacción, si me inclinara a ello. ...Como parece inclinado el caballero de allá arriba, junto a la cabaña, pues compró esta misma información.
+TEXT_CLSROG250_00148_BLACKMERCHANT00146_000_045	Aunque intenta disimular su identidad, todavía le queda el tufo de soldado. No sé cómo alguien así llegó a saber de mi existencia, pero sospecho que trabaja para cierta capitana de casaca amarilla.
+TEXT_CLSROG250_00148_BLACKMERCHANT00146_000_046	¡Gyajaja! ¡Valiente es, pero insensata! Quien tropieza a ciegas en el bajo mundo no se salvará de los agujeros a sus pies por mucho que tantee con las manos. Repentina será su caída...
+TEXT_CLSROG250_00148_BLACKMERCHANT00146_000_050	Los Reformists pronto se desharán de las Silver Sorrows. ¡Yo no me demoraría si quiere seguir por delante de sus rivales!
+TEXT_CLSROG250_00148_JACKE_000_060	<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <split(<string(gstr1)>, ,1)>. ¿Qué información tenía el viejo sobre esos Reformists? ...¿Así que buscan deshacerse de los aretes? Y nada menos que con alguien de Ul'dah.
+TEXT_CLSROG250_00148_JACKE_000_061	No me sorprende que la compradora sea de fuera. No vas a encontrar muchos lominsanos dispuestos a gastar plata en lo que venden esos tipos... Solo los más tontos de los tontos se pondrían a financiar a quienes quieren derribar a la Admiral.
+TEXT_CLSROG250_00148_JACKE_000_062	...¿Eh? ¡¿Uno de los lacayos de Milala llegó a la House antes que tú?! ¿Cómo supieron que─ ¡Bah!, esos Curs que capturamos deben de haber cantado durante los interrogatorios de la fiera.
+TEXT_CLSROG250_00148_JACKE_000_063	Tenemos que suponer que los Yellowjackets saben lo mismo que nosotros. ¡Y eso quiere decir que más vale que movamos el culo a Costa del Sol ahora mismo!
+TEXT_CLSROG250_00148_VKEBBE_000_064	Yo me encargo de esto, Jacke. Tú y <split(<string(gstr1)>, ,1)> pueden esperar aquí a Perimu.
+TEXT_CLSROG250_00148_JACKE_000_064	¡Oye, V'kebbe! ¿Qué rayos está tramando? Ve tras ella, <if(gnum4,muchacha,muchacho)>. Sabe que este no es un trabajo para uno solo...
+TEXT_CLSROG250_00148_JACKE_000_070	Ve tras la Stray y échale una zarpa, ¿quieres? Puedes tomar el ferry a Costa del Sol desde los muelles de Fisherman's Bottom.
+TEXT_CLSROG250_00148_VKEBBE_000_071	Te dije que esperaras en el gremio. No necesito─<br>...Bueno, puede que al final me venga bien <if(gnum4,una moza,un tipo)> más en las sombras.
+TEXT_CLSROG250_00148_VKEBBE_000_072	Jacke se empeñó en castigar a los Executioners, pero ¿yo? Yo solo quiero colarme, afanar esas chucherías de plata y escabullirme.
+TEXT_CLSROG250_00148_VKEBBE_000_073	Pensé que si lograba hacerlo sin que nadie se enterara, no sabrían a quién perseguir. Terminar el trabajo sin sacar las dagas, ¿entiendes?
+TEXT_CLSROG250_00148_VKEBBE_000_074	No es exactamente fiel al código, pero el escudo del honor del bajo mundo no va a impedir que esos malditos asesinos les corten el cuello a mis compañeros y prendan fuego a las Sisters. El gremio es el único lugar que se ofreció a acoger a una pirata descarriada como yo, y no voy a dejar que lo reduzcan a cenizas...
+TEXT_CLSROG250_00148_VKEBBE_000_075	El trato está por empezar. Di la palabra cuando estés <if(gnum4,lista,listo)> para entrar...
+TEXT_CLSROG250_00148_VKEBBE_000_080	Bien, esto es lo que sabemos. La mercader rica que vino de Ul'dah es una vieja amiga del señor Gegeruju, el fulano dueño de Costa del Sol.
+TEXT_CLSROG250_00148_VKEBBE_000_081	Gegeruju se llevó a sus guardias y a sus bailarinas a pasear por algún lugar de la playa, y le cedió el uso de todo el balneario a esta amiga. Parece que ella no quería público para su negocio con los Reformists.
+TEXT_CLSROG250_00148_VKEBBE_000_082	...Lo cual, por cierto, nos viene bien. Vamos a esperar a que estén ocupados regateando el precio, y entonces les arrebatamos las Sorrows y salimos pitando antes de que se den cuenta de que algo anda mal. ¿Te parece un buen plan?
+TEXT_CLSROG250_00148_VKEBBE_000_083	Ahí. Llegaron los jugadores; el contador de los Reformists y la compradora ul'dahna se están instalando en la plataforma del sudeste. Los aretes deberían estar cerca.
+TEXT_CLSROG250_00148_VKEBBE_000_084	Un momento. ¿Quiénes son todos estos otros fulanos? Se suponía que el lugar iba a estar vacío...
+TEXT_CLSROG250_00148_VKEBBE_000_085	Veo unos tipos de mala pinta con ropa de Ul'dah, y...¿esos son mammets? ¡Uf, esa mercader se trajo todo un maldito séquito!
+TEXT_CLSROG250_00148_VKEBBE_000_086	Me adelanté demasiado. Debí darme cuenta de que el trabajo nunca iba a ser tan fácil...
+TEXT_CLSROG250_00148_JACKE_000_087	(-???-)Supongo que primero vamos a tener que despachar a unos cuantos de esos guardaespaldas. No te conviene abrirte paso entre un bosque de hojas si te descubren escabulléndote por esas pasarelas angostas.
+TEXT_CLSROG250_00148_VKEBBE_000_088	¡Jacke! Yo solo... Digo, pensé que─
+TEXT_CLSROG250_00148_JACKE_000_089	Guárdate las excusas, querida. Sé muy bien lo que estabas haciendo.
+TEXT_CLSROG250_00148_JACKE_000_090	¡Pero si empiezas a ablandarte, va a ser como perder uno de mis brazos! No puedo enfrentarme yo solo a los Bloody Executioners.
+TEXT_CLSROG250_00148_JACKE_000_091	Solo porque tengo rogues como tú, Underfoot y <split(<string(gstr1)>, ,1)> aquí presente, el gremio puede aceptar los trabajos que acepta. Cuando nuestros tipos caminan por las sombras, son los malditos piratas los que tiemblan.
+TEXT_CLSROG250_00148_JACKE_000_092	¡Recuérdalo, V'kebbe! ¡No somos unos ladronzuelos de dos gils que se mean en los calzones cuando los agarran con las zarpas en el tarro de miel! ¡Somos los cuchillos de la oscurana, y ningún desgraciado quiere cruzar hojas con los de nuestra calaña!
+TEXT_CLSROG250_00148_VKEBBE_000_093	...Veo que no cambiaste de opinión. Vas a necesitar todos los pinchos que puedas conseguir...y te prometo que los míos van a estar ahí cuando los necesites.
+TEXT_CLSROG250_00148_JACKE_000_094	¡Bene! ¡Ahora abramos camino hasta esa plataforma y recuperemos esos aretes! V'kebbe, tú escóndete abajo junto a los muelles por si las presas escapan durante la pelea.
+TEXT_CLSROG250_00148_JACKE_000_095	<split(<string(gstr1)>, ,1)>, tú y yo nos separamos y vamos despachando a los guardias en el camino.
+TEXT_CLSROG250_00148_JACKE_000_096	Esos muñecos son los que más me preocupan... Te sugiero que les caigas encima a esos bichitos antes de que puedan sacarse algún truco fino.
+TEXT_CLSROG250_00148_JACKE_000_097	Acércate a escondidas todo lo que te atrevas, ¡y dales un buen golpe por la espalda! Sí, no es la estrategia más original, pero eso no la hace menos letal.
+TEXT_CLSROG250_00148_JACKE_000_098	Cuando termines con el primer grupo, vuelve a las sombras y sigue con el siguiente. Pan comido, ¿eh?
+TEXT_CLSROG250_00148_JACKE_000_099	Yo voy por atrás mientras tú empiezas por adelante. Terminemos con esto antes de que esos 'Jackets entren a lo bruto y espanten a nuestras presas.
+TEXT_CLSROG250_00148_MERCHANT00148_000_100	¡¿Rogues?! ¡Nadie dijo nada de rogues!
+TEXT_CLSROG250_00148_MERCHANT00148_000_101	¡¿Q-Qué demonios creen que hacen?! ¡Estoy realizando una transacción comercial en nombre de los <italic(1)>Bloody Executioners<italic(0)>! ¡¿Entienden lo que eso significa?! ¡¿Saben lo que les van a <italic(1)>hacer<italic(0)>?!
+TEXT_CLSROG250_00148_JACKE_000_102	Sí, estoy muerto de miedo. Qué raro, entonces, que seas tú el que tiembla.
+TEXT_CLSROG250_00148_JACKE_000_103	Me da igual para <italic(1)>quién<italic(0)> trabajes. Tus jefes rompieron el código, y vinimos a cobrar.
+TEXT_CLSROG250_00148_JACKE_000_104	¿Esas serían las Silver Sorrows, entonces? Seguro que pagaste una caravana de monedas por esas baratijas brillantes, pero dudo que valgan tu vida. A ver, dámelas.
+TEXT_CLSROG250_00148_MERCHANT00148_000_105	¡E-Esperen! ¡Esperen, maldita sea! ¡Deben saber que esta personalidad es un miembro sumamente influyente de la East Aldenard Trading Company! ¡Seguro que oyeron hablar de ella!
+TEXT_CLSROG250_00148_MERCHANT00148_000_106	Si la amenaza de represalias no los detiene, ¡consideren las consecuencias políticas de importunar a una dignataria extranjera! ¡La Admiral no querría que dañaran las relaciones de Limsa con Ul'dah!
+TEXT_CLSROG250_00148_RICH00148_000_107	¡S-Sí, exacto! ¡Ocupo un lugar muy alto en la sociedad de Ul'dah! ¡Tengo amigos poderosos a quienes no les gustaría nada que me maltrataran de ninguna forma!
+TEXT_CLSROG250_00148_RICH00148_000_108	Y deben entender que las Silver Sorrows son un tesoro histórico ─ un regalo que su campeón le hizo alguna vez a la sultana Nanasha Ul Nasha. Más tarde robaron los aretes de la cámara real, y habíamos perdido la esperanza de recuperarlos. ¡Que yo pueda comprarlos así de fácil es un <italic(1)>milagro<italic(0)>!
+TEXT_CLSROG250_00148_RICH00148_000_109	Lo que voy a ganar con estas chucherías─<br>...Eh, quiero decir, ¡las Sorrows deben volver a Ul'dah! ¡¿No pueden hacer la vista gorda por el orgullo de mi nación?!
+TEXT_CLSROG250_00148_JACKE_000_110	...Debes creer que soy un matón cabeza hueca. Si este trato se hacía en nombre de tu país, ¡¿por qué andas a escondidas y en tratos con piratas?!
+TEXT_CLSROG250_00148_MILALA_000_111	(-???-)Excelente observación. Uno podría dudar de su calidad moral si siguiera con esas débiles invenciones.
+TEXT_CLSROG250_00148_MILALA_000_112	Solo tiene que confiarme esos aretes...si de verdad desea verlos de vuelta en Ul'dah, claro. Al fin y al cabo, fue justamente para eso que la talasocracia pujó por las Sorrows en primer lugar.
+TEXT_CLSROG250_00148_JACKE_000_113	Llega un poco tarde, ¿no, capitana? Creo que estará de acuerdo en que esta ronda es nuestra...
+TEXT_CLSROG250_00148_MILALA_000_114	Al contrario, mi querido sinvergüenza. Hice la jugada ganadora en el momento en que supe que tratábamos con una mercader de Ul'dah.
+TEXT_CLSROG250_00148_MILALA_000_115	Traigo una orden oficial de incautación, autorizada por la mismísima Admiral. No le haremos daño, pero debo insistir en que coopere con esta recuperación de bienes obtenidos de manera <italic(1)>ilegal<italic(0)>.
+TEXT_CLSROG250_00148_MILALA_000_116	Aunque Costa del Sol es propiedad privada, está dentro del territorio que gobierna el Estado. Venga en silencio, y no hará falta seguir importunando al señor Gegeruju...
+TEXT_CLSROG250_00148_MILALA_000_117	Estos sospechosos quedarán bajo custodia de los Yellowjackets. Y no se preocupe por las Silver Sorrows ─ ¡conmigo estarán bien seguras!
+TEXT_CLSROG250_00148_JACKE_000_120	Ah, carajo ─ dejamos a la Stray atrás en Costa del Sol. Deberíamos volver a contarle cómo terminó este lío.
+TEXT_CLSROG250_00148_VKEBBE_000_125	Sí, ya me enteré por Jacke. Pero no creo que la Admiral haya elegido ponerse del lado de Milala. Seguramente solo tenía ganas de recuperar las Silver Sorrows...
+TEXT_CLSROG250_00148_VKEBBE_000_126	En fin, eso de que los aretes fueron afanados de la cámara real resulta que es cierto. Parece que un ladrón famoso fue tras ellos cuando oyó de la "agilidad divina" que decían que le daban a quien los llevara.
+TEXT_CLSROG250_00148_JACKE_000_130	¡Bah! ¡Que los infiernos se lleven a esa arpía color canario! Tanto nos habría dado entregárselos en un cojín de terciopelo.
+TEXT_CLSROG250_00148_VKEBBE_000_131	Voy a buscar a Underfoot para ayudarlo a escarbar. Todavía queda ese último tesoro, y puedes estar seguro de que los Reformists no lo van a soltar sin pelear.
+TEXT_CLSROG250_00148_JACKE_000_132	Sí, hazlo. Buena suerte, querida.
+TEXT_CLSROG250_00148_MILALA_000_133	Ah, ahí está. Se fue antes de que se decidiera todo de verdad, y creí que merecía saber cómo va el marcador.
+TEXT_CLSROG250_00148_MILALA_000_134	La mercader ul'dahna accedió a nuestra petición y nos entregó las Silver Sorrows en custodia. También detuvimos al contador de los Reformists, y lo retendremos para seguir interrogándolo.
+TEXT_CLSROG250_00148_JACKE_000_135	¡Ajá! ¿Agarrar a un socio de los Bloody Executioners? Ustedes, los Yellowjackets, no se acobardan ante su deber, eso hay que reconocérselo.
+TEXT_CLSROG250_00148_JACKE_000_136	¿Y qué es eso que oigo de que usted <italic(1)>compra<italic(0)> información, capitana? Creí que preferiría morir antes que tratar con gente del bajo mundo.
+TEXT_CLSROG250_00148_MILALA_000_137	Haré lo que deba para ir por delante en este desafío, y el conocimiento de ese traficante era vital para el caso. Es cierto que sus prácticas me resultan...desagradables, pero no es ningún pirata.
+TEXT_CLSROG250_00148_MILALA_000_138	Lo que pretendo relegar a los libros de historia es la era agonizante de la <italic(1)>piratería<italic(0)>. Y ese capítulo nunca se cerrará del todo hasta que cada reliquia nacida de los piratas ─ incluidos usted y su gremio ─ sea cosa del pasado.
+TEXT_CLSROG250_00148_MILALA_000_139	¡Valientes y rectos! ¡Esas son las palabras por las que viven los Yellowjackets; así es como protegemos Limsa Lominsa! Lo juré sobre las tumbas de mis hermanas: nunca más sufrirán los inocentes a manos de estos bucaneros salvajes, estos...asesinos sin remordimiento.
+TEXT_CLSROG250_00148_JACKE_000_140	Y es un juramento magnífico. Yo tengo las zarpas llenas solo con mantener intacto el código.
+TEXT_CLSROG250_00148_JACKE_000_141	Pero, bien mirado, el código también es una especie de juramento. Y como juré defenderlo, no tengo ninguna intención de hacerme a un lado y dejar que nos pisotee a mí o a mis tipos.
+TEXT_CLSROG250_00148_JACKE_000_142	De hecho, le convendría rendirse ahora, antes de que las cosas se pongan serias de verdad. Pida perdón, admita la derrota, y lo dejamos ahí, ¿eh?
+TEXT_CLSROG250_00148_MILALA_000_143	Usted─ ¡Su descaro no tiene límites! ¡No pienso desperdiciar más palabras!
+TEXT_CLSROG250_00148_MILALA_000_144	¡Recuperaré ese último tesoro, y luego contemplaré victoriosa cómo desmantelan su gremio ladrillo por ladrillo!
+TEXT_CLSROG250_00148_JACKE_000_145	¡Jajaja! ¡Ese es el espíritu, capitana! ¡Pero no se olvide de vigilar esos aretes!
+TEXT_CLSROG250_00148_JACKE_000_146	¡La ciudad está plagada de rogues, sabe! ¡Podría guardar las Sorrows en un maldito cofre en la Coral Tower, pero si aparta la vista un momento, uno de mis tipos se las va a volver a birlar!
+TEXT_CLSROG250_00148_JACKE_100_146	...Vamos, <split(<string(gstr1)>, ,1)>. Volvemos con las Sisters.
+TEXT_CLSROG250_00148_JACKE_000_150	Bueno, después de todo ese trabajo, la fiera se llevó el botín.
+TEXT_CLSROG250_00148_JACKE_000_151	Y en cuanto a su maldita competencia, supongo que eso nos deja empatados. El que va a decidir al ganador es el último tesoro ─ ese "Black Sarcophagus".
+TEXT_CLSROG250_00148_JACKE_000_152	Hagan lo que hagan los Reformists para tenerlo a salvo, puedes apostar los dientes de tu abuela a que va a hacer falta sacar las hojas antes de terminar este trabajo. Prepárate para una buena pelea, <split(<string(gstr1)>, ,1)>...
+TEXT_CLSROG250_00148_QIB_TODO001	¡Derrota a los guardaespaldas!
+TEXT_CLSROG250_00148_JACKE_BATTLETALK_01	¡Uf, este desgraciado está hecho de roca sólida!<br>¡<split(<string(gstr1)>, ,1)>, ven aquí y empieza a picar!
+TEXT_CLSROG250_00148_MERCHANT_BATTLETALK_02	¡Esta es una reunión <italic(1)>privada<italic(0)>!<br>¡Saquen a estas ratas de inmediato!
+TEXT_CLSROG250_00148_JACKE_BATTLETALK_03	Parece que mis dagas...no tenían suficiente filo...

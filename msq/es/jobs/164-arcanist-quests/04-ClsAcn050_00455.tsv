@@ -1,0 +1,50 @@
+key	text
+TEXT_CLSACN050_00455_SEQ_00	La maestra interina Thubyrgeim quiere evaluar tus progresos con la arcanima.
+TEXT_CLSACN050_00455_SEQ_01	Para poner a prueba tu creciente aptitud como arcanist, Thubyrgeim te manda de nuevo a las tierras salvajes de Lower La Noscea a enfrentarte a oponentes más difíciles. Caza tres wild dodos y tres tiny mandragoras.
+TEXT_CLSACN050_00455_SEQ_02	Cazaste las criaturas indicadas. Vuelve al Arcanists' Guild e informa a Thubyrgeim.
+TEXT_CLSACN050_00455_SEQ_03	Ahora que demostraste tu competencia con Carbuncle, te toca intentar un ejercicio que simula las inspecciones de carga que hacen los inspectores de la Mealvaan's Gate. Ve al sur de la Zephyr Gate y examina los cajones que hay cerca de los acantilados.
+TEXT_CLSACN050_00455_SEQ_04	Derrotaste a las criaturas que acechaban dentro de los cajones que debías inspeccionar. Ahora que la carga se puede manipular sin peligro, recoge su contenido y prepárate para volver al gremio.
+TEXT_CLSACN050_00455_SEQ_05	Al recoger la carga inspeccionada, te das vuelta y descubres que una extraña Miqo'te observaba lo que hacías: la Foreseer K'lyhia, inspectora jefe de la Mealvaan's Gate. Como supervisora designada de tu entrenamiento, la inspectora evalúa encantada tu desempeño y te da instrucciones para mejorar aún más tus habilidades de arcanist. Terminado el ejercicio, te pide que vuelvas con Thubyrgeim al Arcanists' Guild.
+TEXT_CLSACN050_00455_SEQ_06	Vuelves al gremio e informas sobre la lección del día. Thubyrgeim te explica que K'lyhia, con su talento para la estrategia, llegó a su puesto actual de vidente sin más que un grimorio de iniciado. La maestra interina te insta a hacerle caso a los consejos de la Miqo'te y te indica que sigas con tu entrenamiento táctico junto a Carbuncle.<br><br>※La siguiente misión de arcanist estará disponible con Thubyrgeim al llegar al nivel 10.
+TEXT_CLSACN050_00455_TODO_00	Caza wild dodos.
+TEXT_CLSACN050_00455_TODO_01	Caza tiny mandragoras.
+TEXT_CLSACN050_00455_TODO_02	Informa a Thubyrgeim en el Arcanists' Guild.
+TEXT_CLSACN050_00455_TODO_03	Inspecciona los cajones al sur de la Zephyr Gate.
+TEXT_CLSACN050_00455_TODO_04	Recoge los cajones.
+TEXT_CLSACN050_00455_TODO_05	Informa a Thubyrgeim en el Arcanists' Guild.
+TEXT_CLSACN050_00455_THUBYRGEIM_000_000	Ah, <split(<string(gstr1)>, ,1)>, ¿verdad? ¿Está comiendo bien? Un estómago vacío distrae la mente y lleva a juicios apresurados. A menudo tengo que recordarles a mis arcanists que coman, de tan absortos que se quedan en sus estudios.
+TEXT_CLSACN050_00455_THUBYRGEIM_000_001	Hablando de eso, ¿estuvo practicando sus tácticas con Carbuncle? Creo que es hora de evaluar sus progresos. Como en su prueba anterior, quiero que derrote enemigos en Lower La Noscea: tres wild dodos y tres tiny mandragoras, para ser precisa.
+TEXT_CLSACN050_00455_THUBYRGEIM_000_002	Observe con atención el comportamiento de sus oponentes, formule una estrategia eficaz y aproveche al máximo a su entidad arcana. L<if(gnum4,a,o)> espero de vuelta a tiempo para <if([gnum11<12],<if([gnum11<4],la cena,el desayuno)>,<if([gnum11<17],el almuerzo,la cena)>)>.
+TEXT_CLSACN050_00455_THUBYRGEIM_000_010	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. Parece que su coordinación con Carbuncle avanza a un ritmo satisfactorio. ¿Ponemos a prueba su creciente perspicacia con un examen más práctico?
+TEXT_CLSACN050_00455_THUBYRGEIM_000_012	Nuestro trabajo en la Mealvaan's Gate exige inspeccionar y registrar el contenido de la carga que llega. Para simular esa tarea, hice llevar varios cajones al acantilado al sur de la Zephyr Gate.
+TEXT_CLSACN050_00455_THUBYRGEIM_000_013	Quiero que examine esos cajones y luego me traiga aquí la carga inspeccionada.
+TEXT_CLSACN050_00455_THUBYRGEIM_000_014	Le sorprendería lo bajo que caen algunos mercaderes para disuadir a nuestros agentes de aduanas de hacer revisiones a fondo. Dobles fondos, alimentos podridos, alimañas carnívoras. Le sugiero que esté preparad<if(gnum4,a,o)> para cualquier eventualidad.
+TEXT_CLSACN050_00455_KLYHIA_000_21	(-???-)¡No soy una amenaza! Le ruego que ignore mi presencia por el momento y me conceda un instante para cavilar.
+TEXT_CLSACN050_00455_KLYHIA_000_22	(-???-)La reacción a mi aparición repentina estuvo dentro de los parámetros esperados. ¡Pero debo admitir que <italic(1)>no<italic(0)> esperaba un desempeño tan competente contra los enemigos que le pusieron delante!
+TEXT_CLSACN050_00455_KLYHIA_000_23	(-???-)Aun así, por eficaces que fueran sus tácticas, vi mucho margen de mejora. Mientras l<if(gnum4,a,o)> veía combatir, los engranajes de mi mente se pusieron en marcha, como suelen hacer, e inventaron otras estrategias que podría haber empleado.
+TEXT_CLSACN050_00455_KLYHIA_000_24	(-???-)Veamos... Si tomo en cuenta su nivel de habilidad actual, incluyo la constante de aether, multiplico por el número de oponentes y luego aplico sus tácticas a otros escenarios de combate posibles... Ay, vaya. Mis cálculos indican un fracaso al enfrentar el nivel de amenaza 9,785.
+TEXT_CLSACN050_00455_KLYHIA_000_25	(-???-)¡Bueno! ¡Tendremos que ver qué podemos hacer al respecto!
+TEXT_CLSACN050_00455_KLYHIA_000_26	Aunque ya pasó el momento oportuno para hacerlo, igual me presentaré: soy K'lyhia, inspectora de la Mealvaan's Gate.
+TEXT_CLSACN050_00455_KLYHIA_000_27	La maestra interina Thubyrgeim me eligió para supervisar su entrenamiento y darle la orientación y la instrucción necesarias en el campo de la arcanima.
+TEXT_CLSACN050_00455_KLYHIA_000_031	Por lo que observé hasta ahora, tiene un dominio admirable de los fundamentos.
+TEXT_CLSACN050_00455_KLYHIA_000_032	Sin embargo, quisiera confirmar un pequeño detalle. En cuanto a su elección de geometrías arcanas, ¿qué factor influye más en sus acciones durante la batalla?
+TEXT_CLSACN050_00455_Q1_000_000	¿Qué factor influye más en sus acciones?
+TEXT_CLSACN050_00455_A1_000_001	El deseo de superar en astucia al enemigo.
+TEXT_CLSACN050_00455_A1_000_002	Lo divertido que pueda ser.
+TEXT_CLSACN050_00455_A1_000_003	Simplemente hago lo que me parece correcto.
+TEXT_CLSACN050_00455_KLYHIA_000_033	¡<italic(1)>Ajá<italic(0)>! Justo como lo predije. Y ahora tengo el último elemento que necesito para hacer otro cálculo. Mmm. La probabilidad de que llegue a ser <if(gnum4,una arcanist,un arcanist)> de renombre es...¡90%! Medio punto más, medio punto menos.
+TEXT_CLSACN050_00455_KLYHIA_000_034	Sí, la certeza es bastante alta. Después de todo, solo conozco a otra persona que haya respondido mi pregunta de la misma manera.
+TEXT_CLSACN050_00455_KLYHIA_000_035	Fue el hombre que me obsequió este grimorio ─ ¡el mismísimo maestro del gremio!
+TEXT_CLSACN050_00455_KLYHIA_000_036	Aunque nuestro inescrutable líder, como seguro ya oyó, está de licencia por tiempo indefinido, sí nos dejó su frase más célebre hasta la fecha:
+TEXT_CLSACN050_00455_KLYHIA_000_037	"La estrategia es una herramienta para manipular la situación propia y convertirla en la realidad deseada."
+TEXT_CLSACN050_00455_KLYHIA_000_038	Sin embargo, por más talento que tengamos usted y yo, la manipulación instantánea de la realidad que nos convertiría de golpe en arcanists poderosos está fuera de nuestro alcance por ahora. En este caso, la mejor estrategia es la disciplina y la experiencia.
+TEXT_CLSACN050_00455_KLYHIA_000_039	Le sugiero que siga concentrándose en perfeccionar su aptitud con Carbuncle. ¡Dominar una entidad arcana le dará mucho más éxito con la arcanima!
+TEXT_CLSACN050_00455_KLYHIA_000_040	Aquí termina su lección de hoy. Le ruego que vuelva directo al gremio ─ creo que la señora Thubyrgeim espera cierta carga inspeccionada.
+TEXT_CLSACN050_00455_KLYHIA_000_041	¿Y yo? ¡Me voy al campo, claro! Las tácticas que razoné antes deben probarse en escenarios reales. La teoría está muy bien, pero nada reemplaza al combate de verdad. Nos volveremos a ver pronto.
+TEXT_CLSACN050_00455_THUBYRGEIM_000_050	Ah, <split(<string(gstr1)>, ,1)>. ¿Volvió con la carga?
+TEXT_CLSACN050_00455_THUBYRGEIM_000_051	Sí, todo parece en orden ─ relativamente libre de sangre y otras vísceras. Eso puede ser un problema en nuestro oficio, ¿entiende? También recibí noticias de K'lyhia sobre su desempeño. Parecía ansiosa por continuar su entrenamiento.
+TEXT_CLSACN050_00455_THUBYRGEIM_000_052	Una muchacha rara, lo admito, pero el gremio no tiene mejor mente para la táctica. Haría bien en seguir las enseñanzas que le ofrezca, en especial las que tocan el enfoque diligente de nuestro arte.
+TEXT_CLSACN050_00455_THUBYRGEIM_000_053	¿Notó por casualidad el tomo maltrecho que lleva K'lyhia? Ese grimorio de iniciado la acompaña desde el día en que entró al gremio. Tiene sus razones, pero hay que admitir que es raro verlo conservado hasta su puesto actual de vidente.
+TEXT_CLSACN050_00455_THUBYRGEIM_000_054	Me temo que concentrarse tanto en la arcanima la llevó a descuidar otros aspectos importantes de la vida... Mientras nuestra gran estratega guía su entrenamiento de arcanist, espero que usted pueda devolverle el favor y ayudarla a ampliar un poco su propia perspectiva.
+TEXT_CLSACN050_00455_THUBYRGEIM_000_055	Pero basta de esos asuntos por ahora. Hizo un buen trabajo hoy, <split(<string(gstr1)>, ,1)>. Siga practicando con Carbuncle, como le pidió K'lyhia. Aquí estaré cuando llegue la hora de su próxima lección.
+TEXT_CLSACN050_00455_POP_MESSAGE	¡Sientes una presencia hostil!

@@ -1,0 +1,17 @@
+key	text
+TEXT_CLSGLA021_00286_SEQ_00	La First Sword Mylla quiere medir tu aptitud para la espada.
+TEXT_CLSGLA021_00286_SEQ_01	La maestra del gremio te ordenó cazar marmots, hornets y shrews fuera de las puertas de Ul'dah. Espada en mano, sal y enfréntate a esas bestias.
+TEXT_CLSGLA021_00286_SEQ_02	Cazaste las criaturas indicadas y te familiarizaste más con tu nueva arma. Vuelve al Gladiators' Guild y habla con Mylla.
+TEXT_CLSGLA021_00286_SEQ_03	Mylla te explica que, para dominar la espada, debes recordar tus experiencias en combate y reflexionar sobre ellas. Con sus palabras en mente, decides buscar nuevos enemigos para ponerte a prueba.<br><br>※La siguiente misión de gladiator estará disponible con Mylla al llegar al nivel 5.
+TEXT_CLSGLA021_00286_TODO_00	Caza star marmots como gladiator.
+TEXT_CLSGLA021_00286_TODO_01	Caza huge hornets como gladiator.
+TEXT_CLSGLA021_00286_TODO_02	Caza snapping shrews como gladiator.
+TEXT_CLSGLA021_00286_TODO_03	Informa a Mylla.
+TEXT_CLSGLA021_00286_MYLLA_000_1	Je, es increíble la diferencia que hace una espada. Tu expresión, tu postura...ya rebosas confianza.
+TEXT_CLSGLA021_00286_MYLLA_000_2	Veamos si esa confianza está justificada, ¿quieres?
+TEXT_CLSGLA021_00286_MYLLA_000_3	Justo afuera de las puertas de Ul'dah encontrarás muchos marmots, hornets y shrews. Mata tres de cada uno y vuelve aquí cuando termines.
+TEXT_CLSGLA021_00286_MYLLA_000_4	Ah, y usa tu espada, <split(<string(gstr1)>, ,1)>. Soy gladiator, y pienso entrenarte como tal. Ahora, ve.
+TEXT_CLSGLA021_00286_MYLLA_000_10	<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <split(<string(gstr1)>, ,1)>. Supongo que acabaste con las bestias, y sin esfuerzo.
+TEXT_CLSGLA021_00286_MYLLA_000_11	Con cada tajo y cada estocada ganas una experiencia valiosa. Debes recordar cada una y reflexionar sobre ella si quieres reconocer y eliminar las deficiencias de tu técnica.
+TEXT_CLSGLA021_00286_MYLLA_000_12	Tu entrenamiento conmigo continuará cuando la empuñadura se acomode tan bien en tu mano que no puedas imaginarte sosteniendo otra cosa. Hasta entonces, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSGLA021_00286_SYSTEM_000_15	La siguiente misión de gladiator estará disponible con Mylla al llegar al nivel 5.

@@ -1,0 +1,49 @@
+key	text
+TEXT_CLSACN101_00457_SEQ_00	La maestra interina Thubyrgeim quiere evaluar tus progresos con la arcanima.
+TEXT_CLSACN101_00457_SEQ_01	Para medir una vez más tu crecimiento como arcanist, Thubyrgeim te pide que viajes a Western La Noscea a enfrentarte a enemigos más feroces. Caza tres roselings y tres wild jackals.
+TEXT_CLSACN101_00457_SEQ_02	Cazaste las criaturas indicadas. Vuelve al Arcanists' Guild e informa a Thubyrgeim.
+TEXT_CLSACN101_00457_SEQ_03	Satisfecha con los resultados de tu entrenamiento, Thubyrgeim te ordena acompañar a K'lyhia en una inspección oficial. Busca a la vidente en la sala de prácticas y entérate de los detalles de tu próxima tarea.
+TEXT_CLSACN101_00457_SEQ_04	La vidente te explica que una familia de vendedores ambulantes goblins, los Boilstox, es sospechosa de traficar con mercancía del mercado negro. Como prevé una respuesta violenta a su inspección, K'lyhia te pide que estés list<if(gnum4,a,o)> para ejecutar una táctica que bautizó "Stratagem Focus Fire". Viaja a Middle La Noscea y reúnete con la inspectora donde están los goblins.
+TEXT_CLSACN101_00457_SEQ_05	Lograste someter a los Boilstox. Habla con K'lyhia y sigue sus instrucciones.
+TEXT_CLSACN101_00457_SEQ_06	K'lyhia te enseña que, al formular estrategias, es necesario conocer tus propias fortalezas y debilidades. Vuelve con Thubyrgeim al Arcanists' Guild y dile que la inspección terminó.
+TEXT_CLSACN101_00457_SEQ_07	Tras volver al gremio y dar tu informe, Thubyrgeim insinúa que tus crecientes habilidades pronto podrían hacerte apt<if(gnum4,a,o)> para una misión más ambiciosa. Sigue mejorando y experimentando con tus estrategias mientras te preparas para el próximo llamado.<br><br>※La siguiente misión de arcanist estará disponible con Thubyrgeim al llegar al nivel 15.
+TEXT_CLSACN101_00457_TODO_00	Caza roselings.
+TEXT_CLSACN101_00457_TODO_01	Caza wild jackals.
+TEXT_CLSACN101_00457_TODO_02	Informa a Thubyrgeim en el Arcanists' Guild.
+TEXT_CLSACN101_00457_TODO_03	Habla con K'lyhia.
+TEXT_CLSACN101_00457_TODO_04	Habla con K'lyhia en Middle La Noscea.
+TEXT_CLSACN101_00457_TODO_05	Habla con K'lyhia.
+TEXT_CLSACN101_00457_TODO_06	Informa a Thubyrgeim en el Arcanists' Guild.
+TEXT_CLSACN101_00457_THUBYRGEIM_000_000	Sí, <split(<string(gstr1)>, ,1)>, llegó la hora de su próxima lección. Confío en que se encuentra bien, ¿no? ¿Sale a dar alguna caminata a paso ligero de vez en cuando? Uno no puede formar pensamientos sanos si no mantiene un cuerpo sano.
+TEXT_CLSACN101_00457_THUBYRGEIM_000_001	Ahora bien, si estuvo siguiendo las instrucciones de K'lyhia, debería estar list<if(gnum4,a,o)> para enfrentar las amenazas más peligrosas de Western La Noscea.
+TEXT_CLSACN101_00457_THUBYRGEIM_000_002	Me refiero a los roselings y los wild jackals. Y sí, quiero que derrote a tres de cada uno. Es el tamaño de muestra perfecto: el primero sirve como caso de prueba preliminar; el segundo, para poner a prueba sus hipótesis; el tercero, para perfeccionar las tácticas que haya ideado.
+TEXT_CLSACN101_00457_THUBYRGEIM_000_003	Hablando de eso, confío en que su estrategia consistirá en algo más que lanzar Ruin una y otra vez. Ya no es <if(gnum4,la novata,el novato)> que era, y su habilidad en el campo debería reflejarlo. Si le faltan otros enfoques, considere un asalto con Ruin en conjunto con los ataques de su Carbuncle. Con el momento adecuado, puede asestarle un golpe demoledor a su oponente.
+TEXT_CLSACN101_00457_THUBYRGEIM_000_010	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. ¿Qué se sintió vencer a enemigos tan feroces? Aprovechemos esa ola de triunfo para un desafío aún más exigente ─ y peligroso.
+TEXT_CLSACN101_00457_THUBYRGEIM_000_012	En su próximo ejercicio de entrenamiento acompañará a la Foreseer K'lyhia en una de sus inspecciones.
+TEXT_CLSACN101_00457_THUBYRGEIM_000_013	Esta experiencia le dará la oportunidad de ver en persona la aplicación práctica de la arcanima. Le ruego que no se demore, <split(<string(gstr1)>, ,1)> ─ K'lyhia l<if(gnum4,a,o)> espera en el piso de abajo con más detalles.
+TEXT_CLSACN101_00457_KLYHIA_000_020	Una aparición puntual, como esperaba. ¿Vamos directo a la tarea que nos ocupa? Me encargaron examinar la mercancía de una caravana de vendedores ambulantes goblins que dirige la familia Boilstox.
+TEXT_CLSACN101_00457_KLYHIA_000_021	Nuestros agentes sospechan que estos mercaderes hombres bestia trafican con mercancía prohibida. Por eso calculé que anunciar una inspección tiene un 60% de probabilidades de provocar violencia física.
+TEXT_CLSACN101_00457_KLYHIA_000_022	Preparé una estrategia para responder a este posible paso a las hostilidades, pero hay una precondición importante que debe conocer antes de que hablemos de los detalles de mi plan.
+TEXT_CLSACN101_00457_KLYHIA_000_023	Aunque se me considera talentosa para formular tácticas, me faltan los reflejos y la coordinación necesarios para emplear en el campo de batalla muchas de esas mismas estrategias. Le ruego que tenga en cuenta este factor y ajuste sus expectativas en consecuencia.
+TEXT_CLSACN101_00457_KLYHIA_000_024	Ahora bien, si los goblins presentan batalla, usted ejecutará el Patrón de Combate 1345, también conocido como "Stratagem Focus Fire".
+TEXT_CLSACN101_00457_KLYHIA_000_025	Usted y su Carbuncle concentrarán sus ataques en un solo enemigo y, uno por uno, los enemigos caerán bajo la embestida combinada. Probabilidad de victoria: 95%.
+TEXT_CLSACN101_00457_KLYHIA_000_026	Los informes ubican a los vendedores cerca del Cookpot, en Middle La Noscea. Partiré de inmediato para evaluar la situación. Búsqueme cuando llegue.
+TEXT_CLSACN101_00457_KLYHIA_000_030	Soy la Foreseer K'lyhia, de la Mealvaan's Gate. Deben cesar toda transacción y entregar su mercancía para inspección.
+TEXT_CLSACN101_00457_GOBURIN_000_031	¡Malos fisgonmirones! ¡Gobbies ensartan ojoschismosos altoterranos en hierropincho!
+TEXT_CLSACN101_00457_KLYHIA_000_032	Una respuesta previsiblemente agresiva. Muy bien, <split(<string(gstr1)>, ,1)>. ¡Recuerde lo que hablamos!
+TEXT_CLSACN101_00457_KLYHIA_000_040	Bien hecho. Adaptación, improvisación ─ ¡parecía que estaba viendo en acción a nuestro querido maestro del gremio en persona!
+TEXT_CLSACN101_00457_KLYHIA_000_041	Este fue el ejemplo <italic(1)>perfecto<italic(0)> de cómo la estrategia para una tarea debe adaptarse a las capacidades de quien hace la inspección.
+TEXT_CLSACN101_00457_KLYHIA_000_042	En otras palabras, antes de empezar a formular sus tácticas, es necesario entender por completo sus propias fortalezas y debilidades.
+TEXT_CLSACN101_00457_KLYHIA_000_043	A propósito, hay otra pregunta que quisiera hacerle: cuando se trata de mejorar la probabilidad de éxito de una estrategia, ¿cree que es más eficaz concentrarse en aprovechar sus fortalezas o en reforzar sus debilidades?
+TEXT_CLSACN101_00457_Q1_000_000	¿En qué se concentra?
+TEXT_CLSACN101_00457_A1_000_001	En potenciar mis fortalezas.
+TEXT_CLSACN101_00457_A1_000_002	En cubrir mis debilidades.
+TEXT_CLSACN101_00457_KLYHIA_000_044	Vaya, vaya, otra vez responde como lo hizo alguna vez el maestro del gremio. Debo corregir la probabilidad de que alcance la grandeza a...97%. Hay que tenerl<if(gnum4,a,o)> en la mira, eso es seguro.
+TEXT_CLSACN101_00457_KLYHIA_000_045	Pero volviendo a los planes de batalla, sus cálculos deben incluir una evaluación precisa de las técnicas que tiene a su disposición y de su eficacia relativa. Esto exige ser consciente, con sentido crítico, de sus propios límites, de los límites de sus aliados y de las características de sus enemigos.
+TEXT_CLSACN101_00457_KLYHIA_000_046	Creo que eso cubre todo por hoy. Por favor, vuelva al gremio e informe a la señora Thubyrgeim. Hasta la próxima.
+TEXT_CLSACN101_00457_KLYHIA_000_047	Yo me quedaré aquí hasta que lleguen los Yellowjackets a llevarse detenidos a los vendedores. Mis estrategias me harán compañía.
+TEXT_CLSACN101_00457_KLYHIA_000_050	Asumiendo la Precondición C, la ejecución de la Maniobra de Combate B afectaría al Escenario A de un modo que precipitaría...
+TEXT_ClsAcn101_00457_THUBYRGEIM_000_060	¿De vuelta del campo, <split(<string(gstr1)>, ,1)>? K'lyhia se comunicó conmigo con un resumen de lo ocurrido.
+TEXT_ClsAcn101_00457_THUBYRGEIM_000_061	Parece que le dieron una lección sobre "conócete a ti mismo". Esa lección en particular normalmente se enseña solo a practicantes de nivel intermedio.
+TEXT_ClsAcn101_00457_THUBYRGEIM_000_062	Sin una buena reserva de experiencia de combate de la cual sacar provecho, es difícil apreciar del todo la profundidad de una verdad en apariencia tan simple.
+TEXT_ClsAcn101_00457_THUBYRGEIM_000_063	Aun así, confío en que pronto estará list<if(gnum4,a,o)> para una misión más ambiciosa. Siga con sus estudios y mantenga afilada su mente.

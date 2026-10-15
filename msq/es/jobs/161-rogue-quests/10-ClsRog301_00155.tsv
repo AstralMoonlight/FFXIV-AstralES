@@ -1,0 +1,109 @@
+key	text
+TEXT_CLSROG301_00155_SEQ_00	Jacke necesita que te unas a sus rogues en el esfuerzo por recuperar el Black Sarcophagus.
+TEXT_CLSROG301_00155_SEQ_01	Jacke decidió que tender una red de rogues sobre la ciudad es la única forma de atrapar a los Reformists antes de que lleven a cabo su plan asesino. Ocupa tu puesto en el Aftcastle y vigila por si ves alguna señal de Aisibhir y su tripulación.
+TEXT_CLSROG301_00155_SEQ_02	Escabulléndose de las miradas atentas tanto de rogues como de Yellowjackets, los Reformists logran llegar al Mizzenmast y preparar el Black Sarcophagus para que explote. Sin embargo, cuando faltan apenas unos instantes para la detonación, logras desactivar el aparato y salvar a la ciudad de una destrucción incalculable. Aisibhir y su tripulación caen derrotados, y el arma prototipo vuelve a estar a salvo en manos de los Yellowjackets.<br><br>En cuanto al desafío de Milala, el oído fino y los dedos ágiles de Jacke le permitieron al insolente maestro del gremio liberar las Silver Sorrows de la capitana, herida y desprevenida. Así, los rogues terminan la competencia con dos de los tres tesoros y le aseguran la victoria al gremio. Vuelve a las Dutiful Sisters y habla con Jacke.
+TEXT_CLSROG301_00155_SEQ_03	Con aparente alegría de ver terminada una tarea tan difícil y larga, Jacke elogia tu incansable dedicación al código. Pero si decides dejar las sombras del bajo mundo, te sugiere que te consagres a un código propio y uses tus nuevas y letales destrezas para defenderlo. Aunque tus ojos vuelvan a acostumbrarse a la luz del día, las lecciones aprendidas en las Dutiful Sisters nunca te abandonarán.
+TEXT_CLSROG301_00155_TODO_00	Vigila desde tu puesto en el Aftcastle.
+TEXT_CLSROG301_00155_TODO_01	Habla con Jacke en el Rogues' Guild.
+TEXT_CLSROG301_00155_JACKE_000_000	Si el líder de los Reformists ─ ese "capitán Aisibhir" ─ piensa despachar a la Admiral con un estallido, supongo que va a intentar demoler toda la sala de mando.
+TEXT_CLSROG301_00155_JACKE_000_001	Conoces el Mizzenmast, ¿no? ¿La torre donde están el Drowning Wench y Bulwark Hall? El Admiral's Bridge ─ y su sala de mando ─ están justo en lo más alto.
+TEXT_CLSROG301_00155_JACKE_000_002	Y después tienes el distrito que rodea el Mizzenmast ─ el corazón palpitante y ajetreado de la ciudad. Aunque haya amenaza de ataque, no puedes cerrarlo en un abrir y cerrar de ojos y darlo todo por resuelto. Intenta explicarles el peligro a los fulanos que viven y trabajan ahí, y vas a tener una turba asustada y en estampida entre las zarpas.
+TEXT_CLSROG301_00155_JACKE_000_003	No, <if(gnum4,muchacha,muchacho)>, nuestra única opción es tener ojos vigilando cada acceso a la torre. Voy a correr la voz entre todos los tipos que pueda, y a repartirlos por las calles.
+TEXT_CLSROG301_00155_JACKE_000_004	Tu trabajo va a ser cubrir el Aftcastle. Tú espera y verás, <split(<string(gstr1)>, ,1)> ─ ¡vamos a atrapar a ese Aisibhir...y a su bombita también!
+TEXT_CLSROG301_00155_JACKE_000_010	Ocupa un buen punto de vigilancia en el Aftcastle. Alguno de nosotros va a ver a Aisibhir, ¡y entonces va a aprender lo que significa desafiar el código!
+TEXT_CLSROG301_00155_BOCHARD_000_011	¿Todo bien, <if(gnum4,palomita,pichón)>? Pareces a punto de hacerte pedazos. Pero es en momentos como este cuando más tienes que calmar la mente y mantener los faroles atentos a los detalles.
+TEXT_CLSROG301_00155_LONWOERD_000_012	（★Sin uso／se eliminará★）
+TEXT_CLSROG301_00155_ITOLWANN_000_013	¡¿Los Reformists piensan volar la sala de mando?! Voy a estar atenta a cualquier cliente extraño aquí en el Wench. ...Bueno, más extraño de lo normal.
+TEXT_CLSROG301_00155_JACKE_000_050	Uf, la niebla eligió una linda noche para venir espesa. Esto va a ponerse interesante...
+TEXT_CLSROG301_00155_MILALA_000_051	¡Nuestra presencia en las calles es demasiado escasa! ¡¿Dónde están los refuerzos que pedí?!
+TEXT_CLSROG301_00155_YELLOWJACKET00155_000_052	Mis disculpas, capitana. Simplemente no quedan soldados disponibles. El grueso de nuestras fuerzas ya fue asignado a proteger no solo a la Admiral, sino también a otros altos cargos.
+TEXT_CLSROG301_00155_MILALA_000_053	¡Inaceptable! ¿En qué estará pensando el Commodore Reyner? ¡Hay criminales peligrosos acechando la ciudad mientras hablamos!
+TEXT_CLSROG301_00155_MILALA_000_054	Llama a escuadras de los puestos de avanzada si hace falta, ¡pero quiero ver la seguridad reforzada y a la población debidamente protegida!
+TEXT_CLSROG301_00155_YELLOWJACKET00155_000_055	Pero, capitana... No podemos estar seguros de que el plan de los piratas no haya cambiado. Si consideramos la posibilidad de que hayan pasado a un objetivo fuera de las murallas, sería una insensatez debilitar esas defensas...
+TEXT_CLSROG301_00155_MILALA_000_056	¡Hmph! Ya dejaste clara tu postura, sargento. ¡Vuelve a tu puesto!
+TEXT_CLSROG301_00155_MILALA_000_057	Cuando ya todo está perdido, es demasiado tarde para preguntarse qué se debió hacer...
+TEXT_CLSROG301_00155_MILALA_000_058	Parece preocupado, señor. Quizá pueda ayudar─
+TEXT_CLSROG301_00155_MILALA_000_059	¡Ah!
+TEXT_CLSROG301_00155_AISIBHIRSCREW00155_000_060	(-Lalafell burlón-)Me moría de ganas de conocerte, muchacha. Sí, tenía ganas de ver a la audaz Yellowbelly que le costó a nuestra tripulación una fortuna en monedas de Ul'dah.
+TEXT_CLSROG301_00155_MILALA_000_061	Tú... ¡Eres un Executioner! ¡Uno de los hombres de Aisibhir!
+TEXT_CLSROG301_00155_AISIBHIRSCREW00155_000_062	Te metiste demasiado en un mundo que no entiendes, muchacha. Tienes los ojos fijos en la luz de la justicia, y no ves el abismo que se abre a tus pies...
+TEXT_CLSROG301_00155_AISIBHIRSCREW00155_000_063	Al menos dirán que moriste con las botas puestas.
+TEXT_CLSROG301_00155_AISIBHIRSCREW00155_000_064	La Yellowbelly no nos va a molestar más, capitán. En cuanto a la mina, los muchachos la van a tener lista frente al Wench para cuando llegues.
+TEXT_CLSROG301_00155_AISIBHIR_000_065	Bien. Falta poco para que arrastremos al fondo del mar a esa perra de Admiral, a su linda torre y a todos sus perros serviles...
+TEXT_CLSROG301_00155_AISIBHIR_000_066	¡Después izaré nuestra bandera sobre las ruinas del Mizzenmast, y guiaré a nuestros hermanos de vuelta a las viejas costumbres de sangre y saqueo!
+TEXT_CLSROG301_00155_DRUNK00155_000_067	No debí tomarme esa última botella... \<hip> ...¿Botellas? Mi mujer me va a... \<hip> ...matar...
+TEXT_CLSROG301_00155_DRUNK00155_000_068	...¿Eh? ¿Y eso qué es?
+TEXT_CLSROG301_00155_MILALA_000_069	...No van por...la sala de mando...<br>Quieren derribar...toda...la torre...
+TEXT_CLSROG301_00155_MILALA_000_070	Si cae el Mizzenmast... \<jadeo> Los puentes...caerán detrás... Media ciudad va a...
+TEXT_CLSROG301_00155_MILALA_000_071	P-Por favor... Tiene que ayudarme...<br>El peligro... Mucho mayor de lo que...
+TEXT_CLSROG301_00155_DRUNK00155_000_072	¡Por todos los infiernos! ¡Está viva! ¡Ay, no, no, no, yo no vi nada! ¡No. Vi. <italic(1)>Nada<italic(0)>!
+TEXT_CLSROG301_00155_MILALA_000_073	¡Por favor! Tiene que...avisar...
+TEXT_CLSROG301_00155_MILALA_000_074	Alguien...tiene que enterarse...
+TEXT_CLSROG301_00155_MILALA_000_075	Usted... ¿Cómo supo...?
+TEXT_CLSROG301_00155_JACKE_000_076	Su arma "valiente y recta" ─ ese único disparo de pistola se oyó a malms de distancia. No fue difícil adivinar qué había pasado.
+TEXT_CLSROG301_00155_PERIMUHAURIMU_000_077	Les avisé a los Yellowjackets de camino. Un sanador va a llegar enseguida.
+TEXT_CLSROG301_00155_JACKE_000_078	Bene. Eso quiere decir que solo nos queda una última cosa por hacer.
+TEXT_CLSROG301_00155_MILALA_000_079	Nunca fuimos...aliados... Pero se los suplico...
+TEXT_CLSROG301_00155_MILALA_000_080	Tienen que... ¡Tienen que detenerlos! ...¡Salven la ciudad!
+TEXT_CLSROG301_00155_JACKE_000_081	Ay, muchacha, sabes que no hace falta que lo pidas. Tumbar a tipos chiflados y recuperar lo que se birló es nuestro trabajo.
+TEXT_CLSROG301_00155_JACKE_000_082	¿Todo listo, entonces?
+TEXT_CLSROG301_00155_VKEBBE_000_083	Lista, Jacke.
+TEXT_CLSROG301_00155_PERIMUHAURIMU_000_084	¡Siempre!
+TEXT_CLSROG301_00155_JACKE_000_085	Entonces vamos a afanar ese sarcófago ─ ¡y a tomarle las medidas a Aisibhir para un ataúd nuevo!
+TEXT_CLSROG301_00155_MILALA_000_100	¿Informe de situación?
+TEXT_CLSROG301_00155_YELLOWJACKET00155_000_101	La mina fue desactivada, y los ingenieros deberían retirarla pronto sin peligro.
+TEXT_CLSROG301_00155_YELLOWJACKET00155_000_102	Nuestros soldados sufrieron algunas heridas en la batalla contra los Reformists, pero ninguna mortal. ...Además, la Admiral le envía su más sincera gratitud.
+TEXT_CLSROG301_00155_MILALA_000_103	Hm...
+TEXT_CLSROG301_00155_CITIZENB00155_000_104	¡Miren, ahí está! ¡Es la capitana Milala! ¡La heroína de Limsa Lominsa!
+TEXT_CLSROG301_00155_CITIZENA00155_000_105	¡¿Ya se recuperó de su herida, capitana?!
+TEXT_CLSROG301_00155_CITIZENB00155_000_106	¡Supimos que casi pierde la vida deteniendo a esa horda de piratas que quería volar el Mizzenmast!
+TEXT_CLSROG301_00155_CITIZENC00155_000_107	¡Tres hurras por los Yellowjackets! ¡Nuestra ciudad estaría perdida sin ustedes!
+TEXT_CLSROG301_00155_MILALA_000_108	Pero, esperen... No fue así como...
+TEXT_CLSROG301_00155_MILALA_000_109	¡Sargento! ¿Qué pasó con los rogues? ¿Sobrevivieron a la batalla?
+TEXT_CLSROG301_00155_YELLOWJACKET00155_000_110	No sabría decirle, capitana... Lo único que encontramos cerca del sarcófago fueron Reformists ─ o muertos o colgados de las vigas.
+TEXT_CLSROG301_00155_MILALA_000_111	...Vivos, entonces. Parece que estamos en profunda deuda con ellos.
+TEXT_CLSROG301_00155_YELLOWJACKET00155_000_112	...Eh, ¿capitana? ¿Podría darme ya las Silver Sorrows? Nos ordenaron entregárselas al comodoro, junto con el Black Sarcophagus.
+TEXT_CLSROG301_00155_MILALA_000_113	Pues claro, están aquí mism─
+TEXT_CLSROG301_00155_MILALA_000_114	...¡Los aretes! Juraría que todavía los tenía...
+TEXT_CLSROG301_00155_MILALA_000_115	\<jadeo> ...¡No puede haberlo hecho! ¡¿Me los <italic(1)>robó<italic(0)> mientras yo agonizaba?!
+TEXT_CLSROG301_00155_MILALA_000_116	¡Ese...ese canalla! ¡<italic(1)>Sabía<italic(0)> que no había que confiar en él!
+TEXT_CLSROG301_00155_MILALA_000_117	"No se olvide de vigilar esos aretes", claro. Debí imaginarlo...
+TEXT_CLSROG301_00155_PERIMUHAURIMU_000_118	¿Estás seguro de esto, Jacke? Deberíamos haber afanado también el sarcófago.
+TEXT_CLSROG301_00155_JACKE_000_118	（★Sin uso／se eliminará★）
+TEXT_CLSROG301_00155_JACKE_000_119	...Bah, creo que ella se lo ganó, ¿no te parece? Si tanto te molesta, piénsalo como un intercambio.
+TEXT_CLSROG301_00155_PERIMUHAURIMU_000_119	（★Sin uso／se eliminará★）
+TEXT_CLSROG301_00155_VKEBBE_000_120	\<risita> Si me preguntas, te quedan un poco ridículos.
+TEXT_CLSROG301_00155_JACKE_000_121	¡Bueno, no te pregunté!
+TEXT_CLSROG301_00155_JACKE_000_122	Así que los 'Jackets se quedaron con la mina, y nosotros con el diamante y los aretes. O sea que... ¡La victoria es del Rogues' Guild!
+TEXT_CLSROG301_00155_PERIMUHAURIMU_000_123	¿Crees que Milala lo va a dejar así? Me da la sensación de que todavía no terminamos con ella.
+TEXT_CLSROG301_00155_JACKE_000_124	Diría que terminamos con su desafío, pero nunca se sabe cuándo se van a volver a cruzar nuestros caminos. Habrá que ver qué escupen después los bajos fondos de Limsa.
+TEXT_CLSROG301_00155_PERIMUHAURIMU_000_125	Sí. Esta ciudad nunca está tranquila por mucho tiempo...
+TEXT_CLSROG301_00155_PERIMUHAURIMU_000_126	¡Bueno, fue un placer trabajar contigo, <split(<string(gstr1)>, ,1)>! ¡Si alguna vez necesito un par de pinchos de confianza a mi lado, ya sé a quién pedírselo!
+TEXT_CLSROG301_00155_VKEBBE_000_127	Yo también me voy. Me muero de hambre... No te olvides de zamparte un bocado cuando puedas, ¿eh, <split(<string(gstr1)>, ,1)>?
+TEXT_CLSROG301_00155_JACKE_000_128	Mejor volvamos también con las Sisters, antes de que la fiera decida que prefiere vernos bailar en la horca.
+TEXT_CLSROG301_00155_JACKE_000_129	Buen trabajo, <split(<string(gstr1)>, ,1)>. Nos vemos pronto.
+TEXT_CLSROG301_00155_JACKE_000_140	¡Hola, <split(<string(gstr1)>, ,1)>! Va a estar bien descansar un poco por fin, ¿eh? El trabajo nunca termina, pero hasta un capo como yo necesita respirar de vez en cuando.
+TEXT_CLSROG301_00155_JACKE_000_141	¡Y tus compañeros de aventuras deben de estar preguntándose dónde te metiste! Fue una tarea bien larga, pero me alegra que hayas decidido llevarla hasta el final.
+TEXT_CLSROG301_00155_JACKE_000_142	Demostraste ser <if(gnum4,una firme protectora,un firme protector)> del código...aunque este no sea realmente tu mundo. Cuando vuelvas a la clarana, vas a tener que encontrar tu propio código que defender.
+TEXT_CLSROG301_00155_JACKE_000_143	Y cuando lo encuentres, vas a tener las destrezas que aprendiste en las sombras para ayudarte a defenderlo.
+TEXT_CLSROG301_00155_JACKE_000_144	Bueno, ya fue más que suficiente cháchara de mi parte. Puede que tus viajes te lleven lejos, <split(<string(gstr1)>, ,1)>, ¡pero que sepas que aquí en las Sisters siempre vas a ser <if(gnum4,bienvenida,bienvenido)>!
+TEXT_CLSROG301_00155_QIB_TODO001	¡Derrota a los Reformists y evita la explosión!
+TEXT_CLSROG301_00155_QIB_TODO002	Destruye los detonadores
+TEXT_CLSROG301_00155_QIB_TODO003	¡Encuentra y destruye los detonadores antes de que se acabe el tiempo!
+TEXT_CLSROG301_00155_QIB_TODO004	¡Derrota a los Reformists!
+TEXT_CLSROG301_00155_JACKE_BATTLETALK_01	¡Vayan al Mizzenmast y encuentren a Aisibhir!
+TEXT_CLSROG301_00155_JACKE_BATTLETALK_02	¡<split(<string(gstr1)>, ,1)>, despacha todos esos detonadores!<br>¡Nosotros mantenemos ocupados a estos tipos!
+TEXT_CLSROG301_00155_JACKE_BATTLETALK_03	¡La bomba! Llegamos tarde...
+TEXT_CLSROG301_00155_JACKE_BATTLETALK_04	Listo, de la bomba ya nos encargamos.<br>¡Ahora estos desgraciados tienen toda nuestra atención!
+TEXT_CLSROG301_00155_JACKE_BATTLETALK_05	El trabajo... Casi lo terminábamos...
+TEXT_CLSROG301_00155_JACKE_BATTLETALK_06	¡Bene!<br>¡Ya saben cuánto odio perseguir rezagados!
+TEXT_CLSROG301_00155_PERIMU_BATTLETALK_01	Son tantos...<br>¡Creo que vino toda su maldita tripulación!
+TEXT_CLSROG301_00155_PERIMU_BATTLETALK_02	¡Encuentren y rompan esos detonadores!<br>¡Revisen las rampas que suben y las que bajan!
+TEXT_CLSROG301_00155_PERIMU_BATTLETALK_03	¡Se apagó la luz de la mina!
+TEXT_CLSROG301_00155_PERIMU_BATTLETALK_04	Traten de no tropezar...con mi pellejo...
+TEXT_CLSROG301_00155_VKEBBE_BATTLETALK_01	¡¿Qué?! ¡¿Eso es todo?!
+TEXT_CLSROG301_00155_VKEBBE_BATTLETALK_02	¡<split(<string(gstr1)>, ,1)> desactivó el sarcófago!
+TEXT_CLSROG301_00155_VKEBBE_BATTLETALK_03	Supongo que sí...me ablandé...
+TEXT_CLSROG301_00155_BOSS_BATTLETALK_01	¡Ya no pueden detenernos, sabandijas!<br>¡Faltan solo tres minutos para que empiece el espectáculo!
+TEXT_CLSROG301_00155_BOSS_BATTLETALK_02	¡Malditos rogues y su condenado código!<br>¡Les voy a cortar la cabeza por esto!
+TEXT_CLSROG301_00155_BOSS_BATTLETALK_DEAD	Esto no era...parte de mi plan...<br>Pude haber sido un rey entre piratas...

@@ -1,0 +1,72 @@
+key	text
+TEXT_CLSACN250_00460_SEQ_00	La maestra interina Thubyrgeim quiere tu ayuda para encontrar a cierta persona.
+TEXT_CLSACN250_00460_SEQ_01	Thubyrgeim te cuenta que por fin alguien vio al escurridizo maestro del gremio, K'rhid Tia. Cree que él tiene la clave para sacar a K'lyhia de su depresión. Viaja a Memeroon's Trading Post, en Upper La Noscea, y pregúntale a algún lugareño dónde está K'rhid Tia ahora.
+TEXT_CLSACN250_00460_SEQ_02	Uno de los lugareños del puesto comercial te dice adónde pensaba ir el maestro del gremio. Viaja ahora a Thalaos y habla con el erudito que acampa en la zona.
+TEXT_CLSACN250_00460_SEQ_03	El erudito Tanga Tonga tiene un mensaje para ti del maestro del gremio. Al parecer, debes encontrar tres trozos de pergamino, cada uno con una parte de una misma pista.
+TEXT_CLSACN250_00460_SEQ_04	Reuniste los tres trozos de pergamino. Llévale los curiosos mensajes a Tanga Tonga.
+TEXT_CLSACN250_00460_SEQ_05	Tras descifrar la escritura allagan, Tanga Tonga te lee las instrucciones del maestro del gremio. Aunque las pistas son algo crípticas, deduces que debes ir a Fool Falls y usar /dance ante una vieja caja de madera que hay en algún lugar de la zona...
+TEXT_CLSACN250_00460_SEQ_06	Encontraste la vieja caja de madera y bailaste para ella como nunca habías bailado. Levanta la tapa y descubre qué maravillas te esperan.
+TEXT_CLSACN250_00460_SEQ_07	Derrotaste a los tree slugs que saltaron cuando intentaste abrir la caja. Prepárate para cualquier cosa e intenta abrir la caja otra vez.
+TEXT_CLSACN250_00460_SEQ_08	La caja no te depara más sorpresas desagradables, y dentro encuentras otro trozo de pergamino. El pergamino te indica que vayas a Memeroon's Trading Post, en Upper La Noscea, busques al dueño y uses /dance para él.
+TEXT_CLSACN250_00460_SEQ_09	El maestro del gremio te observaba mientras bailabas para Memeroon; al parecer, necesitaba distraerse de sus estudios. Tras aplaudir tu esfuerzo, te regala un grimorio nuevo y te recomienda que se lo lleves a K'lyhia. Sigue las instrucciones del arcanist y usa /dance para K'lyhia en el Anchor Yard de Limsa Lominsa.
+TEXT_CLSACN250_00460_SEQ_10	Tras tu baile, K'lyhia deduce que te reuniste con el Guildmaster K'rhid Tia. Entrégale el grimorio nuevo a la vidente para responder a su pregunta de por qué.
+TEXT_CLSACN250_00460_SEQ_11	Le das el tomo nuevo a K'lyhia, y la vidente no tarda en entender el significado del regalo: está en sus manos moldear el mundo según la realidad que desea. Y esa realidad es una en la que derrota a Doesmaga. Vuelve al Arcanists' Guild y cuéntale a Thubyrgeim que la inspectora se recuperó.
+TEXT_CLSACN250_00460_SEQ_12	Thubyrgeim parece aliviada al saber que K'lyhia decidió volver al trabajo. Sin embargo, la vidente sigue atada por las cadenas de su pasado. Concéntrate en tu entrenamiento y prepárate para el enfrentamiento con Doesmaga que se avecina.<br><br>※La siguiente misión de arcanist estará disponible con Thubyrgeim al llegar al nivel 30.
+TEXT_CLSACN250_00460_TODO_00	Habla con un lugareño en Memeroon's Trading Post.
+TEXT_CLSACN250_00460_TODO_01	Habla con el erudito en Thalaos.
+TEXT_CLSACN250_00460_TODO_02	Encuentra los slips of parchment escondidos.
+TEXT_CLSACN250_00460_TODO_03	Entrégale los slips of parchment a Tanga Tonga.
+TEXT_CLSACN250_00460_TODO_04	Usa /dance ante la old wooden box de Fool Falls.
+TEXT_CLSACN250_00460_TODO_05	Abre la old wooden box.
+TEXT_CLSACN250_00460_TODO_06	Abre la old wooden box.
+TEXT_CLSACN250_00460_TODO_07	Usa /dance para Memeroon en Memeroon's Trading Post.
+TEXT_CLSACN250_00460_TODO_08	Usa /dance para K'lyhia en el Anchor Yard de Limsa Lominsa.
+TEXT_CLSACN250_00460_TODO_09	Entrégale el grimorio nuevo a K'lyhia.
+TEXT_CLSACN250_00460_TODO_10	Informa a Thubyrgeim en el Arcanists' Guild.
+TEXT_CLSACN250_00460_THUBYRGEIM_000_000	¿Vino a preguntar por el estado de K'lyhia? La vidente sigue...igual. Camina como si le hubieran drenado del alma toda la alegría de vivir.
+TEXT_CLSACN250_00460_THUBYRGEIM_000_001	Creo que la única persona que puede ayudarla ahora es la misma que sacó a K'lyhia de su caparazón la primera vez: nuestro ausente maestro del gremio. Y ─ aunque desconfío de la coincidencia ─, por fin alguien lo vio.
+TEXT_CLSACN250_00460_THUBYRGEIM_000_002	Si busca el último lugar donde lo vieron, es poco probable que siga allí. E incluso si lo alcanza, puede que no se digne a hablar con usted. Aun así, quizá sea nuestra única oportunidad.
+TEXT_CLSACN250_00460_THUBYRGEIM_000_003	Le ruego que viaje a Memeroon's Trading Post, en Upper La Noscea, y hable con cualquiera que pueda haber visto al maestro del gremio. Ah, y una cosa más: aunque por alguna razón inexplicable prefiere que no lo usemos, nuestro líder se llama K'rhid Tia.
+TEXT_CLSACN250_00460_MOKUGEKISHA_000_010	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señorita,señor)>. Sí, fui yo quien avisó a su gremio de que había visto a su líder. ¡Es rarísimo ver a K'rhid Tia dando vueltas por ahí! Me preguntó el camino a Thalaos. Puede que quisiera hablar con el erudito que vive por allá.
+TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_020	Hola. Pues sí, recibí la visita de un caballero que dijo ser el maestro del gremio de los arcanists. Un tipo raro, pero se nota que tiene una educación muy completa.
+TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_021	Da la casualidad de que me pidió que le diera un mensaje a quien viniera a buscarlo. Ejem. "Reunidos, los tres trozos de pergamino contienen el problema de la solución."
+TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_022	El maestro del gremio mencionó que los trozos de pergamino están escondidos entre los huesos de Thalaos. Supongo que se espera que usted los busque.
+TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_030	¿Encontró esos tres trozos de pergamino?
+TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_031	Hm, interesante. De verdad existen. Para ser sincero, pensé que l<if(gnum4,a,o)> habían mandado a perseguir dodos fantasma. Echémosles un vistazo, ¿le parece? ...Vaya, vaya, nada menos que en allagan antiguo. Por suerte para usted, conozco un poco esa escritura...
+TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_032	(-Trozos de pergamino-)"Busca la caja en Fool Falls."<br>"Baila una giga para tu público de madera."<br>"Toma el secreto del corazón abierto."
+TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_033	Un conjunto de instrucciones de lo más críptico, debo decir. ¿Piensa seguirlas? A este maestro del gremio suyo sí que le gustan los juegos...
+TEXT_CLSACN250_00460_SYSYTEM_000_040	La caja se sacude y golpetea, como si algo adentro quisiera liberarse. Parece que la tapa se aflojó un poco...
+TEXT_CLSACN250_00460_SYSYTEM_000_041	La tapa de la caja está trabada.
+TEXT_CLSACN250_00460_SYSTEM_000_050	Encuentras un trozo de pergamino dentro de la caja.
+TEXT_CLSACN250_00460_MEMO_000_051	(-Trozo de pergamino-)"Si respuestas quieres hallar,<br>al puesto comercial has de ir;<br>ante su dueño, sin vacilar,<br>con tus dos pies lo has de divertir."
+TEXT_CLSACN250_00460_MEMEROON_000_055	¡Miqo'te gracioso baila baile gracioso! ¿Tú también bailas baile gracioso?
+TEXT_CLSACN250_00460_KRHIDTIA_000_061	Ah, eso sí que fue de lo más entretenido. Necesito algo que me divierta en estas pequeñas escapadas de vuelta a la civilización, ¿entiendes?
+TEXT_CLSACN250_00460_KRHIDTIA_000_062	Pero, según mi evaluación de tus capacidades, calculé que llegarías a este punto algo antes. Te echaste atrás con el baile, ¿no?
+TEXT_CLSACN250_00460_KRHIDTIA_000_063	Nunca esperé que fueras tan tímid<if(gnum4,a,o)>.
+TEXT_CLSACN250_00460_KRHIDTIA_000_064	Je, je, otra variable que añadir a tu lista de características. Llevo notas mentales detalladas de todos los miembros del gremio, ¿sabes?
+TEXT_CLSACN250_00460_KRHIDTIA_000_065	Je, je. Fascinante.
+TEXT_CLSACN250_00460_KRHIDTIA_000_066	Como arcanist, fue sencillo orquestar los hechos para poder conocerte en persona. Después de todo, la estrategia es una herramienta para manipular la situación propia y convertirla en la realidad deseada.
+TEXT_CLSACN250_00460_KRHIDTIA_000_067	Y disfruto mucho ver a los demás bailar en la palma de mi mano, por así decirlo.
+TEXT_CLSACN250_00460_KRHIDTIA_000_068	Toma, puedes quedarte con esto. Considéralo un pago por tu...actuación.
+TEXT_CLSACN250_00460_KRHIDTIA_000_069	Aunque quizá quieras pasarle el tomo a K'lyhia. <italic(1)>Por eso<italic(0)> me buscabas, ¿no?
+TEXT_CLSACN250_00460_KRHIDTIA_000_070	Pero antes de darle el grimorio a K'lyhia, insisto en que bailes para ella. Me enteraré si no lo haces.
+TEXT_CLSACN250_00460_KRHIDTIA_000_071	\<bostezo> Tanta interacción banal me dejó agotado. Es hora de volver a mis estudios.
+TEXT_CLSACN250_00460_KRHIDTIA_000_072	Tú, en cambio, deberías ir sin demora al Anchor Yard de Limsa Lominsa. Cuídate, <split(<string(gstr1)>, ,1)>. Nos volveremos a ver.
+TEXT_CLSACN250_00460_KRHIDTIA_000_073	Estoy 100% seguro.
+TEXT_CLSACN250_00460_KLYHIA_000_080	Normalmente mi mente es un torbellino de probabilidades, fintas y contraataques, pero ahora no hay más que silencio. Así era antes...y quizá así sea siempre de ahora en adelante.
+TEXT_CLSACN250_00460_KLYHIA_000_081	¿Siempre le gustó bailar? No recuerdo ninguna prefer─<br>...Ah. Se reunió con nuestro maestro del gremio, ¿verdad?
+TEXT_CLSACN250_00460_Q1_000_000	¿Se reunió con el maestro del gremio?
+TEXT_CLSACN250_00460_A1_000_001	Sí
+TEXT_CLSACN250_00460_A2_000_002	No
+TEXT_CLSACN250_00460_KLYHIA_000_082	Eso explicaría su extraño comportamiento. A él le encanta ver a la gente hacer frivolidades inesperadas.
+TEXT_CLSACN250_00460_KLYHIA_000_083	Es típico de él no presentarse, pero no hay duda de quién es el hombre que conoció. Nadie más disfruta tanto viendo a la gente hacer frivolidades inesperadas.
+TEXT_CLSACN250_00460_KLYHIA_000_084	Pero ¿qué habrá llevado a nuestro reservado maestro del gremio a hablar con usted en persona?
+TEXT_CLSACN250_00460_KLYHIA_000_085	¿Le dio este grimorio para mí? Increíble... Es idéntico al tomo que recibí la primera vez que vi a nuestro líder...
+TEXT_CLSACN250_00460_KLYHIA_000_086	Tiene mi gratitud, <split(<string(gstr1)>, ,1)>. Al maestro del gremio le encantan los juegos y las travesuras, y me imagino las pruebas engorrosas que le habrá hecho pasar antes de considerarl<if(gnum4,a digna,o digno)> de su atención.
+TEXT_CLSACN250_00460_KLYHIA_000_087	Pero con este regalo, su mensaje para mí queda clarísimo: debo moldear la realidad para que sea la que deseo.
+TEXT_CLSACN250_00460_KLYHIA_000_088	¡Y eso significa derrotar a Doesmaga!
+TEXT_CLSACN250_00460_KLYHIA_000_089	¡Dioses, mi mente vuelve a bullir de estrategias! Necesito tiempo para pensar. Le ruego que le avise a la señora Thubyrgeim que vuelvo al trabajo.
+TEXT_CLSACN250_00460_KLYHIA_000_090	Asumiendo la Precondición C, la introducción de la Variable M alteraría el Escenario A de un modo que requeriría por fuerza...
+TEXT_CLSACN250_00460_THUBYRGEIM_000_100	¿K'lyhia superó su abatimiento? Es una noticia maravillosa, y se lo debemos a usted.
+TEXT_CLSACN250_00460_THUBYRGEIM_000_101	Es una lástima, sin embargo, que tanto K'lyhia como nuestro maestro del gremio tengan personalidades tan impenetrables. Pero al menos, en el caso de la vidente, tenemos una idea de cómo es la jaula que la tiene presa.
+TEXT_CLSACN250_00460_THUBYRGEIM_000_102	Sigo esperando que su colaboración con usted vaya separando poco a poco esos barrotes. Vuelva a su entrenamiento, <split(<string(gstr1)>, ,1)>, y prepárese para las exigentes tácticas que K'lyhia sin duda formulará en los días que vienen.

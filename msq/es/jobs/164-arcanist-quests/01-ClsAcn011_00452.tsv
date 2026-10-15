@@ -1,0 +1,23 @@
+key	text
+TEXT_CLSACN011_00452_SEQ_00	Murie quiere que confirmes tu deseo de unirte al Arcanists' Guild.
+TEXT_CLSACN011_00452_SEQ_01	Aunque lo habitual es presentarse ante el maestro del gremio, Murie te explica que el líder de los arcanists no está disponible por ahora. En su lugar, debes hablar con la maestra interina del gremio, Thubyrgeim.
+TEXT_CLSACN011_00452_SEQ_02	Tras presentarte ante Thubyrgeim y declarar tu intención de unirte al Arcanists' Guild, la erudita Roegadyn te entrega el weathered grimoire. Toma el tomo arcano y ponte bajo la instrucción de Thubyrgeim.
+TEXT_CLSACN011_00452_TODO_00	Habla con Thubyrgeim.
+TEXT_CLSACN011_00452_MURIE_000_000	¿Y bien? ¿Decidió inscribirse en nuestro gremio? ¿O ahora l<if(gnum4,a,o)> intimida la idea de pensar demasiado?
+TEXT_CLSACN011_00452_MURIE_000_005	Por supuesto, puede meditar su decisión todo el tiempo que quiera. Aquí estaré si decide abrazar una vida de esfuerzo académico.
+TEXT_CLSACN011_00452_MURIE_000_010	Su buen juicio es digno de elogio. Ahora bien, lo habitual es que l<if(gnum4,a,o)> presente ante nuestro maestro del gremio para que le comunique sus intenciones en persona...
+TEXT_CLSACN011_00452_MURIE_000_011	Sin embargo, por circunstancias extraordinarias, él está...inaccesible por el momento. En su lugar, puede hablar con la señora Thubyrgeim. Ella asumió toda la responsabilidad de dirigir el gremio mientras tanto.
+TEXT_CLSACN011_00452_MURIE_000_012	La encontrará justo allí, junto a los estantes de libros. No sienta timidez ─ aunque su mente es aguda y crítica, su trato siempre es de lo más acogedor.
+TEXT_CLSACN011_00452_THUBYRGEIM_000_020	Sí, soy Thubyrgeim. Saludos, y bienvenid<if(gnum4,a,o)> al Arcanists' Guild. Como seguramente le explicó Murie, ocupo el puesto de maestra interina del gremio hasta que nuestro descarriado líder se digne a volver. ¿Supongo que nuestra capaz recepcionista también le habló de los orígenes de nuestro arte?
+TEXT_CLSACN011_00452_THUBYRGEIM_000_021	Permítame, entonces, explicarle su naturaleza. La arcanima aprovecha las energías vivas del aether. La mejor prueba de ello quizá sea nuestra capacidad de manifestar a la entidad arcana Carbuncle, y la clase de magia que este aliado aetherial emplea bajo nuestras órdenes.
+TEXT_CLSACN011_00452_THUBYRGEIM_000_022	Sin embargo, el núcleo de la disciplina está en la búsqueda de soluciones definitivas a cualquier dilema posible. Incluso en el campo de batalla ─ no, <italic(1)>sobre todo<italic(0)> en el campo de batalla ─, este principio tiene prioridad.
+TEXT_CLSACN011_00452_THUBYRGEIM_000_023	Si uno quiere asegurarse la victoria, debe aplicar la estrategia más eficaz. <if(gnum4,Una arcanist,Un arcanist)> se mide por su capacidad de analizar con calma la situación a cada momento y responder con los hechizos más adecuados que tenga a mano.
+TEXT_CLSACN011_00452_THUBYRGEIM_000_024	El estudio de la arcanima pondrá a prueba sus facultades mentales hasta dejarl<if(gnum4,a,o)> perplej<if(gnum4,a,o)>. ¿Está preparad<if(gnum4,a,o)> para abrirse paso razonando entre un aprieto y otro?
+TEXT_CLSACN011_00452_Q1_000_000	¿Está preparad<if(gnum4,a,o)> para razonar?
+TEXT_CLSACN011_00452_A1_000_001	Sí
+TEXT_CLSACN011_00452_A1_000_002	No
+TEXT_CLSACN011_00452_THUBYRGEIM_000_030	Ya veo. Aunque l<if(gnum4,a,o)> felicito por darse cuenta de algo así <italic(1)>antes<italic(0)> de unirse al gremio, debo admitir cierta decepción. Si cambia de parecer, por favor no dude en buscarme de nuevo.
+TEXT_CLSACN011_00452_THUBYRGEIM_000_035	Una respuesta inequívoca ─ la clase que más me gusta. Veamos ahora si la claridad de sus palabras está a la altura de la agudeza de su mente. Tome este grimorio, y a continuación juzgaremos su aptitud para nuestra disciplina.
+TEXT_CLSACN011_00452_SYSTEM_000_040	¡Desbloqueaste una nueva clase! Puedes cambiar a esta clase cuando quieras equipando el arma que recibiste en esta misión.
+TEXT_CLSACN011_00452_SYSTEM_000_041	Al cambiar de clase, los <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipo. Así puedes cambiar de clase al instante, sin equipar a mano armas ni equipo.
+TEXT_CLSACN011_00452_SYSTEM_000_042	El botón de la interfaz Gear Set está en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)>.

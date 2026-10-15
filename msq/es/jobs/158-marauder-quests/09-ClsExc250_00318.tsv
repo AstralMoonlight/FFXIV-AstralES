@@ -1,0 +1,49 @@
+key	text
+TEXT_CLSEXC250_00318_SEQ_00	El Axemaster Wyrnzoen quiere ponerte una prueba que llevará tu fuerza y tu destreza a nuevas alturas.
+TEXT_CLSEXC250_00318_SEQ_01	Tras tu revelador encuentro con la manada de chacales, el maestro del hacha considera que, sin más entrenamiento, tus posibilidades contra Kujata siguen siendo escasas. Por eso ideó una nueva prueba, pensada para desatar tus reservas más profundas de poder destructivo. Ve al Bismarck y habla con Solkwyb para saber qué debes hacer.
+TEXT_CLSEXC250_00318_SEQ_02	Parece que Solkwyb volverá a acompañarte en tu entrenamiento. Prepárate para lo que promete ser una prueba agotadora antes de buscar a la conjurer en el Salt Strand, en Lower La Noscea.
+TEXT_CLSEXC250_00318_SEQ_03	Al principio, la prueba parece absurdamente sencilla. Pero apenas derrotas a la primera oleada de adversarios a la sombra de las ominosas formaciones del Salt Strand, te ataca un grupo de hombres enmascarados extrañamente familiar. Tras blandir tu hacha con sombría determinación, terminas venciendo a los "misteriosos" guerreros, que abandonan el campo ante tu habilidad superior. Vuelve al Marauders' Guild y cuéntale este giro de los acontecimientos al Axemaster Wyrnzoen.
+TEXT_CLSEXC250_00318_SEQ_04	Dejando de lado el asunto de los extraños hombres enmascarados, Wyrnzoen prefiere elogiar tu demostración de poder sin igual. Ahora se te reconoce como el ejemplo de la fuerza de un marauder, y todo el gremio está listo para apoyarte en tu misión de matar al monstruoso Kujata. Mantén afilada la hoja de tu hacha y a punto tus habilidades mientras esperas el próximo avistamiento del aurochs asesino. Llegó la hora de que la bestia muera.<br><br>※La siguiente misión de marauder estará disponible con Wyrnzoen al llegar al nivel 30.
+TEXT_CLSEXC250_00318_TODO_00	Habla con Solkwyb.
+TEXT_CLSEXC250_00318_TODO_01	Habla con Solkwyb en el Salt Strand.
+TEXT_CLSEXC250_00318_TODO_02	Informa a Wyrnzoen.
+TEXT_CLSEXC250_00318_WYRNZOEN_000_0	<split(<string(gstr1)>, ,1)>. Nuestro encuentro casi desastroso con la manada que sigue a Kujata no deja de rondarme la cabeza. La cantidad abrumadora de bestias superó todo lo que había imaginado ─ ni el marauder más entregado podría abrirse paso a hachazos entre ese muro de carne gruñente.
+TEXT_CLSEXC250_00318_WYRNZOEN_000_2	Y si no podemos acabar con la manada, Kujata seguirá fuera de nuestro alcance.
+TEXT_CLSEXC250_00318_WYRNZOEN_000_4	Por eso preparé para ti una prueba que desatará tus reservas más profundas de fuerza destructiva. Como antes, Solkwyb te espera en el Bismarck para guiarte en tu camino.
+TEXT_CLSEXC250_00318_WYRNZOEN_000_5	No desperdicies esta oportunidad de crecer, <split(<string(gstr1)>, ,1)>. El orgullo del propio gremio depende del filo de tu hacha.
+TEXT_CLSEXC250_00318_SOLKWYB_000_10	¿Te manda mi hermano? ...Ja, el "orgullo del gremio", ¿eh? Parece que mi hermano te cargó un buen peso sobre los hombros. Pero, por lo que he visto, si algún marauder tiene la habilidad y la determinación para acabar con Kujata, eres tú.
+TEXT_CLSEXC250_00318_SOLKWYB_000_11	Y está, claro, el asunto de la venganza de Sighard. No querrás decepcionar al pobre niño, ¿verdad?
+TEXT_CLSEXC250_00318_SOLKWYB_000_12	Vamos con esta prueba, <split(<string(gstr1)>, ,1)>. Nos vemos en el Salt Strand, en Lower La Noscea, donde será tu entrenamiento. ¿Hm? Bueno, claro que <italic(1)>yo<italic(0)> voy a estar ahí. ¡Sin mí, seguro te olvidas de curarte las heridas y te desangras!
+TEXT_CLSEXC250_00318_SOLKWYB_000_60	Bueno, este debería ser el lugar. No veo─ Ah, ¿sientes esa aura de violencia que se acerca, <split(<string(gstr1)>, ,1)>? Por favor, prepara esa hacha tuya.
+TEXT_CLSEXC250_00318_INSTANCE_BATTLE_YESNO_TITLE	El deber llama. ¿Quieres comenzar<br>"Bleeder of the Pack"?
+TEXT_CLSEXC250_00318_INSTANCE_BATTLE_YESNO_YES	Sí
+TEXT_CLSEXC250_00318_INSTANCE_BATTLE_YESNO_NO	No
+TEXT_CLSEXC250_00318_SOLKWYB_000_20	Parece que esos eran los últimos. Aunque, comparado con lo que enfrentamos antes, no fue nada del otro─
+TEXT_CLSEXC250_00318_WYRNZOEN_000_21	(-???-)Así que <if(gnum4,esta es la indomable,este es el indomable)> <string(gstr1)>.
+TEXT_CLSEXC250_00318_SOLKWYB_000_22	¿¡Quién en los siete infiernos eres tú!? Espera, ¿ese es...?
+TEXT_CLSEXC250_00318_WYRNZOEN_000_23	(-???-)Te consideramos <if(gnum4,digna,digno)> de nuestro desafío. ¡Ven, marauder! ¡Probemos el filo de tu acero!
+TEXT_CLSEXC250_00318_WYRNZOEN_000_24	Ay, hermano...
+TEXT_CLSEXC250_00318_WYRNZOEN_000_70	Parece que mis subordinados no te ofrecieron mucha diversión. Muy bien. Te mediré yo mismo con mi propia hoja.
+TEXT_CLSEXC250_00318_WYRNZOEN_000_72	No pienses en tenerme clemencia, <split(<string(gstr1)>, ,1)>, ¡porque yo no la tendré contigo!
+TEXT_CLSEXC250_00318_WYRNZOEN_000_30	¡Me rindo! Tu fuerza nos humilló a todos. Sí, puede que sea suficiente...
+TEXT_CLSEXC250_00318_WYRNZOEN_000_32	¡Terminamos aquí, colegas! Llévense a los que no puedan levantarse.
+TEXT_CLSEXC250_00318_WYRNZOEN_000_33	Tu demostración de destreza fue realmente impresionante, <split(<string(gstr1)>, ,1)>. <if(gnum4,Digna,Digno)>, sin duda...
+TEXT_CLSEXC250_00318_SOLKWYB_000_40	\<suspiro> Qué farsa ridícula. ¿De verdad creyó que no íbamos a ver a través de esos disfraces de pacotilla?
+TEXT_CLSEXC250_00318_SOLKWYB_000_41	Aunque estoy segura de que mi hermano no lo hizo con mala intención; más bien esperaba que, ocultando quién era, la prueba pareciera más amenazante y así fuera más eficaz. No le salió del todo bien, pero hay que reconocerle la intención.
+TEXT_CLSEXC250_00318_SOLKWYB_000_42	Es hora de que vuelvas al gremio. Ah, ¿y me haces un favor? Síguele el juego a Wyrnzoen con su pequeño engaño ─ el disimulo no es el fuerte de un marauder.
+TEXT_CLSEXC250_00318_WYRNZOEN_000_50	<split(<string(gstr1)>, ,1)>, me enteré de tu escaramuza en el Salt Strand. Hiciste bien en derribar a oponentes de tan temible habilidad.
+TEXT_CLSEXC250_00318_WYRNZOEN_000_51	Pero no nos detengamos en quiénes eran esos hombres enmascarados. Lo importante es que triunfaste con todo en contra.
+TEXT_CLSEXC250_00318_WYRNZOEN_000_53	Tus compañeros marauders se sienten honrados de que blandas tu hacha en nombre del gremio. Todos y cada uno te respaldan mientras te preparas para superar tu mayor prueba hasta ahora.
+TEXT_CLSEXC250_00318_WYRNZOEN_000_54	Sí, llegó la hora de que pongas fin a las sangrientas arremetidas de Kujata. La próxima vez que asome su horrible cabeza cornuda, estarás list<if(gnum4,a,o)> para enterrarle la hoja en el cráneo.
+TEXT_CLSEXC250_00318_QIB_TODO001	¡Derrota a los Moraby hedgemoles!
+TEXT_CLSEXC250_00318_QIB_TODO002	¡Derrota a los marauders enmascarados!
+TEXT_CLSEXC250_00318_QIB_TODO003	¡Derrota al marauder sospechosamente familiar!
+TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_01	¡Ja!<br>¿¡Esto se supone que es una prueba!?
+TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_11	¿¡A qué juegan, zopencos!?
+TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_12	No importa.<br>¡Peleamos para ganar!
+TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_21	¡Esto ya es otra cosa!
+TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_31	¡En guardia!<br>¡Esto no terminó!
+TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_41	¡Concéntrate!<br>¡Esto no es un juego!
+TEXT_CLSEXC250_00318_WYRNZOEN_BATTLETALK_42	¡Prepárate para la prueba!
+TEXT_CLSEXC250_00318_WYRNZOEN_BATTLETALK_51	¿Ya te cansaste?<br>¡Nuestra batalla apenas empieza!
+TEXT_CLSEXC250_00318_WYRNZOEN_BATTLETALK_61	Peleas bien, marauder.<br>Ahora veremos de qué estás hech<if(gnum4,a,o)> en realidad.

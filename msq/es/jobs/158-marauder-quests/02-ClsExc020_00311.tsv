@@ -1,0 +1,36 @@
+key	text
+TEXT_CLSEXC020_00311_SEQ_00	Blauthota quiere que confirmes tu deseo de unirte al Marauders' Guild.
+TEXT_CLSEXC020_00311_SEQ_01	Blauthota te pide hablar con el Axemaster Wyrnzoen, cuya aprobación necesitas si quieres unirte al gremio.
+TEXT_CLSEXC020_00311_SEQ_02	Aunque es algo adusto de palabra y de trato, el Axemaster Wyrnzoen te da la bienvenida al Marauders' Guild. Ahora que estudias el arte del hacha, el corpulento Roegadyn te pide que no pierdas tiempo y pruebes en combate el filo del arma que elegiste. Ve a las afueras de Limsa Lominsa y caza tres lost lambs, tres wharf rats y tres little ladybugs.
+TEXT_CLSEXC020_00311_SEQ_03	Cazaste las criaturas indicadas. Vuelve al Marauders' Guild e informa al Axemaster Wyrnzoen.
+TEXT_CLSEXC020_00311_SEQ_04	Vuelves al gremio más consciente del potencial brutal de tu arma. Pero para aprovecharlo por completo, Wyrnzoen te anima a pulir tu destreza y tu fuerza con una determinación implacable.<br><br>※La siguiente misión de marauder estará disponible con Wyrnzoen al llegar al nivel 5.
+TEXT_CLSEXC020_00311_TODO_00	Habla con el Axemaster Wyrnzoen.
+TEXT_CLSEXC020_00311_TODO_01	Caza wharf rats.
+TEXT_CLSEXC020_00311_TODO_02	Caza lost lambs.
+TEXT_CLSEXC020_00311_TODO_03	Caza little ladybugs.
+TEXT_CLSEXC020_00311_TODO_04	Informa al Axemaster Wyrnzoen en el Marauders' Guild.
+TEXT_CLSEXC020_00311_BLAUTHOTA_000_1	¿Así que decidiste blandir un hacha con los marauders?
+TEXT_CLSEXC020_00311_Q1_000_1	en blanco
+TEXT_CLSEXC020_00311_A1_000_1	en blanco
+TEXT_CLSEXC020_00311_A1_000_2	en blanco
+TEXT_CLSEXC020_00311_BLAUTHOTA_000_2	Es tu decisión, <if(gnum4,muchacha,muchacho)> ─ el hacha no es para cualquiera. Que la Navigator te guíe por el camino que elijas pisar.
+TEXT_CLSEXC020_00311_BLAUTHOTA_000_4	Bueno, entonces. Lo único que falta es hablar con el mismísimo maestro del hacha. ¿Suena fácil? He visto gente escabullirse por la puerta antes que ponerse en el camino de esa mirada que te pone los pelos de punta.
+TEXT_CLSEXC020_00311_BLAUTHOTA_000_5	Es ese tipo justo en el medio del salón. Se llama Wyrnzoen. Ármate de valor y míralo directo a los ojos cuando le hables, <if(gnum4,muchacha,muchacho)>. Buena suerte.
+TEXT_CLSEXC020_00311_WYRNZOEN_000_10	Sí. Soy Wyrnzoen. Me llaman "Axemaster": maestro del hacha. No es el título más imaginativo, lo admito, pero no hay que subestimar el valor de ir directo al grano. Celebro tu interés en nuestro gremio.
+TEXT_CLSEXC020_00311_WYRNZOEN_000_12	El arte del marauder sirve para desgarrar, para partir y para destruir. No nos basta con superar a nuestros adversarios; buscamos <italic(1)>arrollarlos<italic(0)>.
+TEXT_CLSEXC020_00311_WYRNZOEN_000_14	Un marauder debe ser la presencia más poderosa y resistente del campo de batalla; a nosotros nos toca la mayor cuenta de enemigos abatidos. Nuestro papel en combate es el de un torbellino de acero que siembra muerte y destrucción sin igual.
+TEXT_CLSEXC020_00311_WYRNZOEN_000_16	Sin duda Blauthota ya te hizo la pregunta, pero volveré a poner a prueba tu compromiso: ¿estás preparad<if(gnum4,a,o)> para la sangrienta carnicería que le espera a quien se inicia en el Marauders' Guild?
+TEXT_CLSEXC020_00311_Q2_000_1	¿Estás preparad<if(gnum4,a,o)> para la carnicería?
+TEXT_CLSEXC020_00311_A2_000_1	Sí
+TEXT_CLSEXC020_00311_A2_000_2	No
+TEXT_CLSEXC020_00311_WYRNZOEN_000_30	¿Te estremece pensar en huesos rotos y carne tajada? Entonces haces bien en apartarte de este camino. No hay deshonra en conocer tus propias fortalezas... o tus debilidades.
+TEXT_CLSEXC020_00311_WYRNZOEN_000_31	Muy bien. ¿Tu nombre? Escúchame bien, entonces, <split(<string(gstr1)>, ,1)>. Aférrate a este momento de entrega. El camino del marauder es abrupto y peligroso ─ muchas veces, la sangre que se derrame a tus pies será la tuya.
+TEXT_CLSEXC020_00311_WYRNZOEN_000_33	Ahora estudias el arte del hacha ─ no perdamos tiempo en probar el filo del arma que elegiste. Te lanzarás de inmediato al combate, como corresponde a quien se inicia en nuestra disciplina.
+TEXT_CLSEXC020_00311_WYRNZOEN_000_34	Ve y acaba con las plagas que balan, corretean y se arrastran por las afueras de Limsa Lominsa.
+TEXT_CLSEXC020_00311_WYRNZOEN_000_35	Lost lambs, wharf rats y little ladybugs serán hoy tus lastimosos adversarios. Vuelve conmigo cuando hayan caído tres de cada uno bajo tu hoja.
+TEXT_CLSEXC020_00311_WYRNZOEN_000_40	Vuelves a mí <if(gnum4,convertida en otra mujer,convertido en otro hombre)>. Tu rostro ya muestra un gesto más duro: la conciencia de la matanza de la que eres capaz.
+TEXT_CLSEXC020_00311_WYRNZOEN_000_42	Pero queda mucho entrenamiento antes de que puedas blandir el hacha con todo su potencial. Aprende bien tus lecciones, desarrolla tu fuerza y haz de cada golpe un acto instintivo.
+TEXT_CLSEXC020_00311_WYRNZOEN_000_51	Te daré este hunting log para ayudarte en esa tarea. Sus páginas señalan oponentes adecuados para pulir tus habilidades.
+TEXT_CLSEXC020_00311_WYRNZOEN_000_52	Hay, claro, infinidad de maneras de mejorar tus técnicas, pero cuando el camino no esté claro, el hunting log te ofrecerá una fuente confiable de desafíos.
+TEXT_CLSEXC020_00311_WYRNZOEN_000_44	Cada golpe de tu arma despejará un paso más hacia el dominio del camino del marauder. Implacable, incansable ─ así debe ser tu ímpetu, tanto en el campo de práctica como en el de batalla.
+TEXT_CLSEXC020_00311_SYSTEM_000_50	La siguiente misión de marauder estará disponible con Wyrnzoen al llegar al nivel 5.

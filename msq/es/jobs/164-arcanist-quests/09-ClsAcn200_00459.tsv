@@ -1,0 +1,77 @@
+key	text
+TEXT_CLSACN200_00459_SEQ_00	La maestra interina Thubyrgeim parece inusualmente angustiada.
+TEXT_CLSACN200_00459_SEQ_01	Thubyrgeim te cuenta que K'lyhia, que se estaba recuperando, desapareció sin decir nada. Sigue la sugerencia de la maestra interina y pregunta en el Hawkers' Alley por el paradero de la vidente.
+TEXT_CLSACN200_00459_SEQ_02	Tras hablar con Dodozan en el Hawkers' Alley, te enteras de que K'lyhia buscaba información sobre una red de contrabando de Qiqirn. Pero, al parecer, en plena conversación aparecieron los Yellowjackets y se llevaron a la vidente. Habla con Ginnade en la Coral Tower para saber más sobre el destino de K'lyhia.
+TEXT_CLSACN200_00459_SEQ_03	Ginnade te explica que K'lyhia fue prisionera de Doesmaga, y que los Yellowjackets se llevaron a la Miqo'te para interrogarla sobre lo que sabía del despiadado pirata. Vuelve al Arcanists' Guild y cuéntale a Thubyrgeim lo que descubriste.
+TEXT_CLSACN200_00459_SEQ_04	Al darle tu informe, la maestra interina tiene una revelación sobre el destino probable de la inspectora desaparecida. Ve a Aleport, en Western La Noscea, y busca a K'lyhia.
+TEXT_CLSACN200_00459_SEQ_05	Encuentras a la vidente en Aleport, y descubres que ya está formulando una estrategia para recuperar su grimorio perdido. Habla con Thubyrgeim en Oschon's Embrace y presta tu fuerza al ataque que planeó K'lyhia.
+TEXT_CLSACN200_00459_SEQ_06	Para recuperar el grimorio de la vidente, te pidieron que colabores en un ataque encubierto contra un mercader del mercado negro y su séquito. El plan depende de ejecutar con éxito una clásica maniobra de pinza en Oschon's Embrace. Toma tu posición y espera la llegada del objetivo.
+TEXT_CLSACN200_00459_SEQ_07	Aunque lograste recuperar el grimorio, la larga inmersión en el agua de mar lo arruinó sin ninguna posibilidad de restaurarlo. K'lyhia, visiblemente abatida al ver su tomo dañado, emprende el desconsolado regreso a Limsa Lominsa. Vuelve al Arcanists' Guild y habla con Thubyrgeim.
+TEXT_CLSACN200_00459_SEQ_08	K'lyhia está destrozada por la pérdida de su grimorio. Thubyrgeim te promete una manera de ayudar a la desanimada inspectora y te pide que vuelvas a tu entrenamiento hasta que esté lista para pedirte ayuda.<br><br>※La siguiente misión de arcanist estará disponible con Thubyrgeim al llegar al nivel 25.
+TEXT_CLSACN200_00459_TODO_00	Pregunta por K'lyhia en el Hawkers' Alley.
+TEXT_CLSACN200_00459_TODO_01	Habla con Ginnade en la Coral Tower.
+TEXT_CLSACN200_00459_TODO_02	Habla con Thubyrgeim en el Arcanists' Guild.
+TEXT_CLSACN200_00459_TODO_03	Busca a K'lyhia en Aleport.
+TEXT_CLSACN200_00459_TODO_04	Habla con Thubyrgeim en Oschon's Embrace.
+TEXT_CLSACN200_00459_TODO_05	Espera la llegada del Qiqirn.
+TEXT_CLSACN200_00459_TODO_06	Habla con Thubyrgeim en el Arcanists' Guild.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_000	Saludos, <split(<string(gstr1)>, ,1)>. Por si tales dudas ocupan su mente, sepa que siempre estoy dispuesta a escucharl<if(gnum4,a,o)> si algo le preocupa.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_001	Al menos quería que <italic(1)>usted<italic(0)> lo supiera, porque parece que K'lyhia no lo sabe. La vidente está desaparecida desde esta mañana. Ya hubo otras veces en que se esfumó sin decir nada, pero siempre logramos encontrarla. Por desgracia, hoy no es el caso.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_002	Si el maestro del gremio estuviera aquí, deduciría su paradero sin necesidad de concentrarse ni un instante...
+TEXT_CLSACN200_00459_THUBYRGEIM_000_003	Empiezo a preguntarme si quienes se dedican en exceso a la arcanima son más propensos a los arrebatos de vagabundeo... Pero aunque me gustaría reflexionar más sobre esas rarezas del carácter, debemos organizar una búsqueda.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_004	¿Sería tan amable de preguntar en el Hawkers' Alley? No es raro que los paseos de K'lyhia pasen por los mercados.
+TEXT_CLSACN200_00459_DODOZAN_000_010	¿Busca a una agente Miqo'te de la Mealvaan's Gate? Pues sí, la vi. De hecho, hablé con ella. Pero los Yellowjackets la detuvieron.
+TEXT_CLSACN200_00459_DODOZAN_000_011	La inspectora me estaba sacando detalles sobre una red de contrabando de Qiqirn con base en Aleport, pero entonces llegaron los soldados y se la llevaron.
+TEXT_CLSACN200_00459_DODOZAN_000_012	Si quiere saber qué fue de ella, le sugiero que hable con Ginnade, de la Coral Tower.
+TEXT_CLSACN200_00459_GINNADE_000_020	¿La Foreseer K'lyhia? Sí, la trajimos para interrogarla sobre la reaparición del pirata Doesmaga.
+TEXT_CLSACN200_00459_GINNADE_000_021	¿Es miembro del Arcanists' Guild? Entonces no veo razón para ocultar de qué hablamos. Quizá ya lo sepa, pero la vidente fue en otro tiempo prisionera de ese perro de mar rabioso.
+TEXT_CLSACN200_00459_GINNADE_000_022	Pocos piratas caen tan bajo en la depravación como Doesmaga. Hace ya seis años que lo exiliaron de Limsa Lominsa por dedicarse a la peor clase de comercio en el mercado negro.
+TEXT_CLSACN200_00459_GINNADE_000_023	Y ahora el villano volvió. Pero es astuto y cauteloso, y sigue esquivando a nuestras tropas. Por eso esperábamos aprovechar los conocimientos de la Foreseer K'lyhia, cuyas experiencias le dieron un conocimiento íntimo de cómo opera ese canalla.
+TEXT_CLSACN200_00459_GINNADE_000_024	Al menos, esa era nuestra intención. Tras aguantar una lluvia de preguntas de la inspectora, terminamos siendo <italic(1)>nosotros<italic(0)> quienes le dimos los detalles de nuestra búsqueda. Si quiere hablar con la Foreseer K'lyhia, imagino que ya volvió sana y salva a su gremio.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_030	¿Ya de vuelta? ¿Le hicieron creer que había vuelto aquí? Me temo que no. ...¿Hm? Así que los Yellowjackets le contaron algo de su historia con Doesmaga, ¿eh? Quizá sea mejor que le cuente la historia completa.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_031	El destierro de Doesmaga fue el resultado de una inspección sorpresa que reveló su participación en un comercio clandestino de esclavos.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_032	El inspector que subió al buque mercante del pirata contó que encontró a docenas de desdichados sin asear, amontonados en aquella bodega inmunda. Entre esos prisioneros había una joven Miqo'te, destinada a alguna subasta del mercado negro.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_033	Aunque al principio K'lyhia estaba demasiado aterrada siquiera para hablar, el maestro del gremio la sacó de su aturdimiento regalándole un grimorio de iniciado. Sí, el mismo tomo que llevó durante toda su carrera.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_034	Yo─<br>...Claro. ¿No me dijo que el grimorio de K'lyhia fue arrojado al mar?
+TEXT_CLSACN200_00459_THUBYRGEIM_000_035	Se rumorea que un mercader Qiqirn de mala reputación recuperó la mercancía del mercado negro que la tripulación del <italic(1)>Morningstar<italic(0)> tiró al océano. Ahora mismo se regodea con su botín cubierto de sal en Aleport.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_036	Es muy posible que la posesión más preciada de la vidente haya quedado atrapada en la red del Qiqirn. No me cabe duda de que K'lyhia llegó a la misma conclusión. Vaya a Aleport, <split(<string(gstr1)>, ,1)>. Allí encontrará a nuestra inspectora descarriada.
+TEXT_CLSACN200_00459_KLYHIA_000_040	Sí, sí... El Patrón de Combate 256 debería cubrir todas las contingencias previstas ─ ¡nunca se sabe cuándo habrá que neutralizar a un thaumaturge o dos! Mi estrategia de recuperación está completa.
+TEXT_CLSACN200_00459_KLYHIA_000_041	<split(<string(gstr1)>, ,1)>, qué amable de su parte venir. No pude calcular con certeza si reconstruiría mis movimientos a tiempo. Muy poco es seguro cuando intervienen tantas variables.
+TEXT_CLSACN200_00459_KLYHIA_000_042	Pero hay buenas noticias: este prisionero tuvo la amabilidad de confirmar que el comerciante que rescató la carga arrojada del <italic(1)>Morningstar<italic(0)> sí recuperó un tomo que coincide con la descripción de mi grimorio perdido.
+TEXT_CLSACN200_00459_KLYHIA_000_043	La ley lominsana y las normas de la Mealvaan's Gate respaldarían el decomiso de bienes vinculados a una inspección oficial, pero por desgracia mis pertenencias personales no entran en esa definición. Por eso pienso lanzar una ofensiva extraoficial contra ese traficante del mercado negro y sus compinches.
+TEXT_CLSACN200_00459_KLYHIA_000_044	El vendedor ya partió hacia Candlekeep Quay. Es hora de que reúna a los aliados que tengo ─ ¡y l<if(gnum4,a,o)> cuento entre ellos, <split(<string(gstr1)>, ,1)>!
+TEXT_CLSACN200_00459_KLYHIA_100_044	Pese a la naturaleza de esta empresa, la señora Thubyrgeim me ofreció su colaboración. Si es tan amable, reúnase con ella en Oschon's Embrace ─ ahí es donde le tenderemos una emboscada a ese Qiqirn de mala fama.
+TEXT_CLSACN200_00459_KLYHIA_000_045	Por favor, vaya cuanto antes a Oschon's Embrace y únase a la señora Thubyrgeim ─ yo iré cuando termine de asegurar mis preparativos.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_050	Saludos, <split(<string(gstr1)>, ,1)>. Con su llegada, nuestra pequeña compañía está completa. Confío en que viene equipad<if(gnum4,a,o)> para la batalla. No hace falta esperar a K'lyhia ─ en cuanto el Qiqirn aparezca en el puente, tendemos la emboscada.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_051	La estrategia para atrapar a nuestro objetivo depende de los dos aliados que tenemos ocultos al otro lado del barranco. Esta maniobra de pinza, naturalmente, fue idea de la vidente.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_052	En cuanto al objetivo, el Qiqirn tiene fama de ser un tipo cuidadoso y cauteloso. Viaja con un séquito pequeño para no llamar la atención, pero no se deje engañar: lo siguen más guardaespaldas a distancia, que probablemente se unan a la pelea una vez que empiecen las hostilidades.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_053	Pero no espere ayuda de los Yellowjackets. No pueden dejarse ver ayudándonos en lo que equivale a un asunto personal, aunque están dispuestos a hacer la vista gorda por K'lyhia.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_054	En cualquier caso, las tácticas de la vidente tienen en cuenta nuestro escaso número y las fortalezas de cada uno. La victoria está prácticamente asegurada. Ahora, tomemos nuestras posiciones y esperemos a que llegue el Qiqirn.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_055	No se preocupe ─ memoricé la estrategia de la vidente hasta el último detalle. Por ahora, solo tiene que esperar la llegada del Qiqirn.
+TEXT_CLSACN200_00459_KLYHIA_000_060	Bien ejecutado, todos. ...¿Pudieron recuperar mi grimorio?
+TEXT_CLSACN200_00459_THUBYRGEIM_000_061	<split(<string(gstr1)>, ,1)>, por favor, entréguele el tomo.
+TEXT_CLSACN200_00459_KLYHIA_000_062	Está arruinado... Mi maravilloso grimorio está arruinado.
+TEXT_CLSACN200_00459_KLYHIA_000_063	La probabilidad de reparar un daño así es de...0%. Ni la estrategia más brillante puede deshacer semejantes estragos del agua de mar.
+TEXT_CLSACN200_00459_KLYHIA_000_064	Nunca me había sentido tan...derrotada. Creo que es hora de volver a casa.
+TEXT_CLSACN200_00459_GEISSFRYN_000_065	¡Déjala en paz!
+TEXT_CLSACN200_00459_AERSTHOTA_000_066	¿¡Pero cómo voy a hacer eso!?
+TEXT_CLSACN200_00459_THUBYRGEIM_000_067	Tiene razón, Aersthota. Debe darle tiempo a K'lyhia para asimilar la pérdida.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_068	Y usted tiene otros asuntos que atender. Vamos, <split(<string(gstr1)>, ,1)>, es hora de que también volvamos al gremio.
+TEXT_CLSACN200_00459_GEISSFRYN_000_070	Nosotros limpiamos aquí. Nadie va a sospechar siquiera que hubo una pelea.
+TEXT_CLSACN200_00459_AERSTHOTA_000_071	Por favor, cuida a la Foreseer K'lyhia.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_080	No fue exactamente la victoria que imaginamos, ¿verdad? En cuanto K'lyhia vio su grimorio empapado y hecho jirones...se notó cómo se apagaba la luz de la esperanza en sus ojos.
+TEXT_CLSACN200_00459_THUBYRGEIM_000_081	Sin embargo, hay algo que podemos hacer. Pronto le pediré ayuda, pero mientras tanto, le convendría profundizar sus conocimientos de arcanima.
+TEXT_CLSACN200_00459_QIB_002_TODO_1	¡Derrota a los mercenarios de Kikiroon y recupera el grimorio!
+TEXT_CLSACN200_00459_QIB_KIKIOROON_BATTLETALK_01	¡Emboscadores sucios! ¡Quieren brillitos de Kikiroon!<br>¡Emboscarlos de vuelta!
+TEXT_CLSACN200_00459_QIB_THUBYRGEIM_BATTLETALK_02	Su vil comercio es una plaga para Limsa Lominsa.<br>¡Entregue su mercancía de inmediato!
+TEXT_CLSACN200_00459_QIB_THUBYRGEIM_BATTLETALK_03	¡Geissfryn! ¡Aersthota! ¡Ahora!
+TEXT_CLSACN200_00459_QIB_KIKIOROON_BATTLETALK_04	¡Kikiroon no asustado! ¡Kikiroon tiene lanzahechizos que asustan!
+TEXT_CLSACN200_00459_QIB_THUBYRGEIM_BATTLETALK_05	Conjurers. Tal como predijo K'lyhia.<br>¡Pasamos al Patrón de Combate 158!
+TEXT_CLSACN200_00459_QIB_THUBYRGEIM_BATTLETALK_06	¡<split(<string(gstr1)>, ,1)>!<br>¡Concéntrese en los conjurers y frene sus curaciones!
+TEXT_CLSACN200_00459_QIB_KIKIOROON_BATTLETALK_07	¡No! ¡Llegar tarde a negocio!<br>¡Este negocio ser malo para ustedes!
+TEXT_CLSACN200_00459_QIB_THUBYRGEIM_BATTLETALK_08	¡<split(<string(gstr1)>, ,1)>, veo un thaumaturge!<br>¡Rápido, cambie al Patrón de Combate 256!
+TEXT_CLSACN200_00459_QIB_THUBYRGEIM_BATTLETALK_09	Incluso un mago solitario puede causar estragos incalculables.<br>¡Concentre sus ataques primero en el thaumaturge!
+TEXT_CLSACN200_00459_QIB_AERSTHOTA_BATTLETALK_DEAD	No me gané la paga en este trabajo...
+TEXT_CLSACN200_00459_QIB_GEISSFRYN_BATTLETALK_DEAD	Espero que hayas traído pociones...
+TEXT_CLSACN200_00459_QIB_THUBYRGEIM_BATTLETALK_DEAD	Esto no era parte de la estrategia...
+TEXT_CLSACN200_00459_QIB_THUBYRGEIM_BATTLETALK_10	Parece que ese fue el último.<br>¡Ahora, a buscar el grimorio de la vidente!

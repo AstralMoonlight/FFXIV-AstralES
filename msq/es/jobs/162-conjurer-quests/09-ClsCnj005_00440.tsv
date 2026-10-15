@@ -1,0 +1,77 @@
+key	text
+TEXT_CLSCNJ005_00440_SEQ_00	Brother E<-->Sumi<-->Yan necesita tu ayuda en un asunto relacionado con la joven conjurer Sylphie.
+TEXT_CLSCNJ005_00440_SEQ_01	Sylphie desapareció del gremio sin decir nada, y más tarde un grupo de conjurers la vio en South Shroud. Brother E<-->Sumi te pidió que vayas allí y acompañes a la niña descarriada de vuelta a Gridania. Habla primero con Wulfiue en Buscarron's Druthers para saber más del estado de ánimo de la joven conjurer.
+TEXT_CLSCNJ005_00440_SEQ_02	Wulfiue te explicó que Sylphie, con su sensibilidad a las voces de los elementales, debe de estar perturbada por la fuerte alteración descubierta al sureste de Buscarron's Druthers. Habla con Sylphie y averigua cómo está.
+TEXT_CLSCNJ005_00440_SEQ_03	Después de leer el diario de su madre, Sylphie se convenció de que la conjury es la culpable de despertar la ira de la naturaleza. Temiendo que el grupo de Hearers enviado a purificar la corrupción esté enfureciendo aún más al Twelveswood, la joven conjurer sale a detenerlos. Alcanza a Sylphie antes de que se meta en peligro.
+TEXT_CLSCNJ005_00440_SEQ_04	Con una mano de la naturaleza, lograste purificar la enorme manifestación de tierra corrompida. Habla con Sylphie y averigua qué piensa la joven conjurer.
+TEXT_CLSCNJ005_00440_SEQ_05	Después de presenciar la batalla, Sylphie admitió que tal vez la naturaleza no da tanto miedo como creía. Vuelve a Stillglade Fane e informa a Brother E<-->Sumi.
+TEXT_CLSCNJ005_00440_SEQ_06	Al conocer los motivos sinceros, aunque equivocados, de su madre, Sylphie ahora está decidida a abrazar el poder de la naturaleza. Por fin, la joven conjurer parece haber dejado atrás sus problemas. Pero el ánimo esperanzado se empaña al descubrirse que el Twelveswood sufre un mal extendido y todavía desconocido. Vuelve a tus estudios y busca un mayor dominio de tu arte, para estar <if(gnum4,preparada,preparado)> el día en que Brother E<-->Sumi vuelva a llamarte.<br><br>※La siguiente misión de conjurer estará disponible con E<-->Sumi<-->Yan al llegar al nivel 30.
+TEXT_CLSCNJ005_00440_TODO_00	Habla con Wulfiue en Buscarron's Druthers.
+TEXT_CLSCNJ005_00440_TODO_01	Habla con Sylphie.
+TEXT_CLSCNJ005_00440_TODO_02	Sigue a Sylphie.
+TEXT_CLSCNJ005_00440_TODO_03	Habla con Sylphie.
+TEXT_CLSCNJ005_00440_TODO_04	Informa a Brother E<-->Sumi<-->Yan en Stillglade Fane.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_1	Bienvenid<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. Las historias de sus hazañas me llegan incluso aquí, en el corazón recogido de Stillglade Fane.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_2	Me alegra que haya venido, porque quisiera pedirle ayuda en un asunto algo delicado. Se trata, sí, otra vez de la joven Sylphie...
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_3	Como sin duda imaginará, lo que se descubrió hace poco sobre su madre afectó mucho a la pobre niña.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_4	Parece que Sylphie necesitaba estar sola un tiempo para ordenar el torbellino de emociones que la acosa. En pocas palabras, huyó del gremio.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_5	Por suerte, un grupo de conjurers enviados a South Shroud a investigar otro caso de corrupción nos avisó que vieron a nuestra descarriada Sylphie.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_6	Dada la importancia de su misión, no quisiera distraer a los conjurers de su tarea. Por eso recurro a usted para que acompañe a Sylphie de vuelta al gremio. Creo que es una de las pocas personas a las que escucha.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_7	Le ruego que viaje a Buscarron's Druthers y hable con Wulfiue. Ella fue la conjurer que encontró a Sylphie, y podrá contarle más sobre cómo está la jovencita.
+TEXT_CLSCNJ005_00440_WULFIUE_000_21	Volvemos a vernos, <split(<string(gstr1)>, ,1)>. ¿Supongo que Brother E<-->Sumi le advirtió de la corrupción que mis compañeros y yo debemos purificar aquí, en South Shroud?
+TEXT_CLSCNJ005_00440_WULFIUE_000_22	El origen de esta plaga extendida está al sureste ─ cerca del treant marchito, las voces agudas y discordantes de los elementales chillan su angustia. Le sugiero que se mantenga bien lejos de la zona.
+TEXT_CLSCNJ005_00440_WULFIUE_000_23	Con esos peligros, imagínese mi alarma al descubrir a la joven Sylphie vagando por esta parte del Twelveswood. Parece que su madre ─ una mujer que curaba con la conjury, pero que nunca se formó en el gremio ─ vivía en esta región.
+TEXT_CLSCNJ005_00440_WULFIUE_000_24	Sylphie estaba con la cabeza metida en una especie de libro, pero si es tan sensible a los murmullos de los elementales como me dicen, el estruendo en su mente debe de estar volviéndola loca.
+TEXT_CLSCNJ005_00440_WULFIUE_000_25	Le ruego que hable con la niña y se asegure de que esté bien. Lo haría yo misma si nuestro deber no fuera tan urgente. De hecho, partiremos en cualquier momento.
+TEXT_CLSCNJ005_00440_NOLANEL_000_26	<split(<string(gstr1)>, ,1)>, creció mucho desde la última vez que hablamos de los misterios de la tierra. Aunque sin duda puede defenderse, debo aconsejarle que no se aventure por la espesura hasta que se restablezca el equilibrio.
+TEXT_CLSCNJ005_00440_JOACIN_000_27	Wulfiue adivina la voluntad del aire, Nolanel tiene profundas raíces en la tierra, y yo puedo presumir de cierto dominio del agua. Falsa modestia aparte, que nos eligieran a los tres para responder a esta alteración indica que la situación es grave de verdad.
+TEXT_CLSCNJ005_00440_WULFIUE_000_30	Estamos por partir en nuestra misión. Pero me tranquiliza saber que usted está aquí para hablar con Sylphie y velar por su bienestar.
+TEXT_CLSCNJ005_00440_SYLPHIE_000_040	¡¿<split(<string(gstr1)>, ,1)>?! ¡Ay, debí imaginar que Wulfiue me iba a delatar! Y Brother E<-->Sumi te mandó a llevarme de vuelta, ¿no?
+TEXT_CLSCNJ005_00440_SYLPHIE_000_041	Aquí vivía mi mamá, ¿sabes? Hasta el día en que... falleció, la gente le agradecía las curaciones que ofrecía.
+TEXT_CLSCNJ005_00440_SYLPHIE_000_042	Y este es el diario que escribía. Hay una entrada que explica que la naturaleza se enfurece cuando los conjurers usan su arte; que siempre hay más heridos en las batallas cuando "los mortales abusan del poder que no les corresponde tomar".
+TEXT_CLSCNJ005_00440_SYLPHIE_000_043	Mi mamá se negaba a recurrir a la naturaleza porque tenía miedo de hacerla enojar.
+TEXT_CLSCNJ005_00440_SYLPHIE_000_044	Ella no mentiría sobre algo así, y yo quiero hacer lo que ella habría querido. ¡Voy a dejar de usar la conjury para siempre!
+TEXT_CLSCNJ005_00440_SYLPHIE_000_45	Aaagh... Nunca había oído a las voces tan furiosas.
+TEXT_CLSCNJ005_00440_SYLPHIE_000_46	Seguro que es porque Wulfiue y los demás están abusando de su arte. ¡Tenemos que ir a detenerlos!
+TEXT_CLSCNJ005_00440_SYLPHIE_000_39	Dioses, qué ruido... ¿No lo oyes? La naturaleza está gritando de rabia...
+TEXT_CLSCNJ005_00440_NOLANEL_000_050	Nunca la tierra me había desconcertado tanto... Le pido disculpas.
+TEXT_CLSCNJ005_00440_WULFIUE_000_051	Gracias por su oportuna ayuda. Ahora que neutralizamos el origen de la corrupción, deberíamos poder purificar los rastros que queden.
+TEXT_CLSCNJ005_00440_JOACIN_000_052	Tiene una gran afinidad con los elementos... Fue de lo más impresionante.
+TEXT_CLSCNJ005_00440_SYLPHIE_000_60	No... no puedo creer que la naturaleza de verdad nos haya ayudado.
+TEXT_CLSCNJ005_00440_SYLPHIE_000_61	No tuvo nada de aterrador.
+TEXT_CLSCNJ005_00440_SYLPHIE_000_62	Si no hubiera visto cómo usas ese poder, seguiría preguntándome si de verdad es seguro que los conjurers lo tomen prestado. Nada podría parecer más... natural. Creo que es hora de volver al gremio.
+TEXT_CLSCNJ005_00440_SYLPHIE_000_63	Primero tengo que buscar unas cosas, así que, por favor, adelántate sin mí.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_81	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. Y tú también, Sylphie.
+TEXT_CLSCNJ005_00440_SYLPHIE_000_82	Brother E<-->Sumi, perdón por haberme escapado así...
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_83	Lo entiendo, niña. ¿Encontraste las respuestas que buscabas?
+TEXT_CLSCNJ005_00440_SYLPHIE_000_84	Sí ─ gracias a <split(<string(gstr1)>, ,1)>. Me mostró que no hay que tenerle miedo a la naturaleza.
+TEXT_CLSCNJ005_00440_SYLPHIE_000_85	...Creo que sé por qué mi mamá se negaba a recurrir a su poder ─ creía que hacerlo hacía sufrir a la naturaleza misma.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_86	Ya veo.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_87	Así que fue su propio amor por la naturaleza lo que le impidió recurrir a su fuerza.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_88	Dime, Sylphie, ¿ya se disipó la niebla de la indecisión en tu mente?
+TEXT_CLSCNJ005_00440_SYLPHIE_000_89	Sí, Guildmaster. Ahora entiendo por qué mi mamá eligió el camino que eligió.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_90	Me alegra muchísimo oír eso, porque debo hacerte una pregunta más.
+TEXT_CLSCNJ005_00440_SYLPHIE_000_91	¿Sí, Brother E<-->Sumi?
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_92	Cuando viste por primera vez a <split(<string(gstr1)>, ,1)> purificar un elemento corrompido, dijiste que oíste voces. ¿Cómo sonaban exactamente?
+TEXT_CLSCNJ005_00440_SYLPHIE_000_93	¿Las voces? Bueno... sonaban alegres, como una multitud que de pronto lanza una ovación. ¡De verdad las oí, lo juro!
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_94	Estoy seguro de que sí, Sylphie. Es un don.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_95	Los conjurers pueden sentir el poder de la naturaleza y tomar prestada su fuerza. Pero no todos pueden oír sus susurros.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_96	Lo que describes son las voces de los elementales. Es muy posible que tengas el talento para ser Hearer.
+TEXT_CLSCNJ005_00440_SYLPHIE_000_97	¡¿<italic(1)>Hearer<italic(0)>?!
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_98	Claro que mucho depende de tus estudios de conjury. Tienes una aptitud natural, pero hasta ahora te faltó compromiso. No debes descuidar tu entrenamiento, Sylphie.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_99	Dejando eso de lado por un momento, me interesa saber de la alteración que vio en South Shroud, <split(<string(gstr1)>, ,1)>. Por los informes que recibí, supongo que era de una magnitud distinta a las que había enfrentado antes. ¿Me equivoco?
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_100	Mmm... Esto no augura nada bueno. Las criaturas conocidas como "mud pies" no son nativas del Twelveswood. Me pregunto qué relación tendrá esto con la frecuencia, al parecer cada vez mayor, de estas alteraciones.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_101	Algo más allá del daño de la Calamidad aflige al Twelveswood. Comulgaré con los elementales e intentaré identificar esta amenaza.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_102	<split(<string(gstr1)>, ,1)>, Sylphie, puede que pronto <if(gnum4,las necesite a ambas,los necesite a ambos)>. Hasta entonces, entréguense al estudio de nuestro arte.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_103	Que la tierra siempre reciba sus pasos, y el viento guíe su camino.
+TEXT_CLSCNJ005_00440_POP_MESSAGE	¡Sientes una presencia hostil!
+TEXT_CLSCNJ005_00440_QIB_001_TODO_1	¡Purifica la tierra corrompida!
+TEXT_CLSCNJ005_00440_QIB_001_SYLPHIE_BATTLETALK_01	La naturaleza está enojada con nosotros...<br>¡No uses más conjury!
+TEXT_CLSCNJ005_00440_QIB_001_SYLPHIE_BATTLETALK_02	¡Solo estamos enfureciendo más a la naturaleza!
+TEXT_CLSCNJ005_00440_QIB_001_SYLPHIE_BATTLETALK_03	¡Hasta las criaturas del bosque saben que esto está mal!
+TEXT_CLSCNJ005_00440_QIB_001_SYLPHIE_BATTLETALK_04	¡Ahora la naturaleza nos manda truenos y relámpagos!<br>¡¿Qué más pruebas necesitas?!
+TEXT_CLSCNJ005_00440_QIB_001_SYLPHIE_BATTLETALK_05	¡¿Elementales?! ¡¿También están enojados?!<br>¡Ahora sí que estamos en problemas!
+TEXT_CLSCNJ005_00440_QIB_001_SYLPHIE_BATTLETALK_06	¿Los... los elementales nos están ayudando?
+TEXT_CLSCNJ005_00440_QIB_001_NOLANEL_BATTLETALK_01	Nunca la tierra me había desconcertado tanto...
+TEXT_CLSCNJ005_00440_QIB_001_WULFIUE_BATTLETALK_01	No encuentro un segundo aire...
+TEXT_CLSCNJ005_00440_QIB_001_JOACIN_BATTLETALK_01	Mi pozo se secó...

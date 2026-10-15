@@ -1,0 +1,91 @@
+key	text
+TEXT_CLSPGL150_00558_SEQ_00	El Guildmaster Hamon cree que estás list<if(gnum4,a,o)> para tu próxima lección.
+TEXT_CLSPGL150_00558_SEQ_01	Para entrenarte contra enemigos enormes, Hamon te pide que te enfrentes a los toxic toads que anidan en el Unholy Heir. Como prueba de la hazaña, debes conseguir cinco patas de sapo.
+TEXT_CLSPGL150_00558_SEQ_02	Conseguiste cinco patas de sapo. Llévaselas a Hamon, que te espera en Black Brush Station.
+TEXT_CLSPGL150_00558_SEQ_03	Te enteras de que una droga ilegal llamada somnus entra de contrabando en Ul'dah a través de Black Brush Station. En lugar de la lección que tenía planeada, Hamon te pide que encuentres y atrapes a los contrabandistas. Empieza por reunir información entre la gente de la estación.
+TEXT_CLSPGL150_00558_SEQ_04	Conseguiste suficiente información sobre los contrabandistas. Cuéntale a Hamon lo que descubriste.
+TEXT_CLSPGL150_00558_SEQ_05	Lo más probable es que los contrabandistas operen desde una guarida Qiqirn abandonada al oeste del Coffer & Coffin. Ve a la guarida y espera ahí a los criminales.
+TEXT_CLSPGL150_00558_SEQ_06	Para sorpresa de todos, uno de los contrabandistas resulta ser Rurukuta, el pugilist desaparecido. Al descubrir que su maestro se había vuelto débil, Rurukuta se desilusionó y decidió dejar el gremio. Habla con el maestro de tu gremio y escucha su versión.
+TEXT_CLSPGL150_00558_SEQ_07	Derrotado y abatido, Hamon admite que los estragos de la edad le robaron su antigua habilidad. Por ahora parece que no puedes hacer nada por el maestro de tu gremio. Vuelve al gremio y habla del asunto con Chuchuto.
+TEXT_CLSPGL150_00558_SEQ_08	Pese a conocer la verdad sobre el estado de Hamon, Chuchuto no lo respeta menos. Decidida a ayudar a su maestro y benefactor a recuperar su antigua fuerza, te pide ayuda. Sigue dedicándote a tu entrenamiento, para que tu progreso reavive la llama de la pasión en el maestro del gremio.<br><br>※La siguiente misión de pugilist estará disponible con Hamon al llegar al nivel 20.
+TEXT_CLSPGL150_00558_TODO_00	Derrota toxic toads y consigue sus patas.
+TEXT_CLSPGL150_00558_TODO_01	Entrégale las patas de sapo a Hamon en Black Brush Station.
+TEXT_CLSPGL150_00558_TODO_02	Reúne información en Black Brush Station.
+TEXT_CLSPGL150_00558_TODO_03	Informa a Hamon.
+TEXT_CLSPGL150_00558_TODO_04	Monta guardia en el lugar indicado.
+TEXT_CLSPGL150_00558_TODO_05	Habla con Hamon.
+TEXT_CLSPGL150_00558_TODO_06	Habla con Chuchuto en el Pugilists' Guild.
+TEXT_CLSPGL150_00558_HAMON_000_1	¡Ah, ahí estás, <split(<string(gstr1)>, ,1)>! Espero que vengas con ganas de aprender. Hoy quiero que vayas a pelear contra los toxic toads que anidan en el Unholy Heir.
+TEXT_CLSPGL150_00558_HAMON_000_4	Que no te quepa duda, <if(gnum4,muchacha,hijo)> ─ esos sapos son enormes, lo que significa que tienen tripas enormes. Pero eso no viene al caso. Lo que importa es que vas a tener que usar la cabeza para vencerlos.
+TEXT_CLSPGL150_00558_HAMON_000_7	Por lo gordos que son, esos sapos pegan <italic(1)>fuerte<italic(0)>. Por suerte, también suelen pegar sin puntería, así que ten paciencia y espera una abertura. Y cuando aparezca...¡zas! ¡Despedaza a tu rival a puñetazos!
+TEXT_CLSPGL150_00558_HAMON_000_8	Como prueba de que derrotaste a los sapos, quiero que me traigas cinco de sus patas. Chuchuto y yo te esperaremos en Black Brush Station. Ahí sigue tu lección.
+TEXT_CLSPGL150_00558_HAMON_000_20	Derrota a los toxic toads que anidan en el Unholy Heir y tráeme cinco de sus patas. Chuchuto y yo te esperaremos en Black Brush Station.
+TEXT_CLSPGL150_00558_CHUCHUTO_23	Yo también participo en la lección de hoy. ¡Suerte para los dos!
+TEXT_CLSPGL150_00558_HAMON_000_25	Y bien, ¿me trajiste las patas de sapo?
+TEXT_CLSPGL150_00558_HAMON_000_30	¡Sí, esto es justo lo que buscaba! \<sorbo> Ahora solo me falta algo de mantequilla, una rodaja de sun lemon y una pizca de─
+TEXT_CLSPGL150_00558_CHUCHUTO_000_33	Eh...¿Maestro?
+TEXT_CLSPGL150_00558_HAMON_000_34	...Ejem. Lo que quería decir es que hiciste bien en derrotar a los toxic toads, <split(<string(gstr1)>, ,1)>. Para la siguiente parte de tu lección, pondrás a prueba tu resistencia contra─
+TEXT_CLSPGL150_00558_NANAJAPI_000_36	\<jadeo> ¡Era verdad! ¡Hamon Holyfist está aquí de verdad!
+TEXT_CLSPGL150_00558_HAMON_000_37	¡Ja, ja, ja! No puedo dar un paso fuera del gremio sin que me rodeen los admiradores. ¡Es el precio de la fama!
+TEXT_CLSPGL150_00558_NANAJAPI_000_38	¡Por favor, señor! ¡Necesito con urgencia sus legendarias habilidades! ¡Están pasando somnus de contrabando por Black Brush Station! Se lo informé a los Brass Blades y a los Stone Torches ─ les pedí que acabaran con eso ─ ¡pero los dos se hacen de la vista gorda!
+TEXT_CLSPGL150_00558_CHUCHUTO_000_40	Somnus... Es esa sustancia que trastorna la mente, hecha con flores del sueño. Dicen que quienes abusan de ella caen en un sueño eterno.
+TEXT_CLSPGL150_00558_NANAJAPI_000_41	Un ser querido sufrió ese mismo destino ─ por eso quiero acabar con el contrabando. Pero solo soy una persona común, y es poquísimo lo que puedo hacer...
+TEXT_CLSPGL150_00558_HAMON_000_43	¡Ja, ja, ja! Ya hiciste bastante con traerme la noticia. ¡Tan cierto como que me llamo Hamon Holyfist, esa escoria contrabandista estará en el calabozo antes de que pase una bell!
+TEXT_CLSPGL150_00558_NANAJAPI_000_44	¡Que los Twelve lo bendigan, señor! ¡Usted es un verdadero héroe para todos nosotros!
+TEXT_CLSPGL150_00558_HAMON_000_45	¡Ja, ja, ja! Hay un pequeño cambio de planes, <split(<string(gstr1)>, ,1)>. En vez de la prueba de resistencia, vamos a encontrar y atrapar a los contrabandistas.
+TEXT_CLSPGL150_00558_HAMON_000_46	Pero primero hay que reunir información. Ustedes dos, averigüen lo que puedan entre la gente de Black Brush Station. Vuelvan a informarme cuando sepan algo.
+TEXT_CLSPGL150_00558_HAMON_000_50	Averigua lo que puedas entre la gente de Black Brush Station. Vuelve a informarme cuando sepas algo.
+TEXT_CLSPGL150_00558_ZUZUMEDA_000_60	¿Buscas contrabandistas de somnus, dices? Cuentan que están conectados con el Alacran, una camarilla de criminales de corazón cruel. Pero cuidado ─ ¡actúan siempre aliados!
+TEXT_CLSPGL150_00558_OSBERT_000_65	Hay una guarida Qiqirn abandonada un poco al oeste del Coffer & Coffin. La gente decente suele mantenerse bien lejos de ese lugar. Ideal para contrabandear, ¿no crees?
+TEXT_CLSPGL150_00558_CHUCHUTO_000_70	Parece que hace poco vieron a un Lalafell de pelo plateado merodeando por la estación. Iba hacia el oeste, con una carga sospechosa...
+TEXT_CLSPGL150_00558_CHUCHUTO_000_75	Un Lalafell de pelo plateado... No puede ser <italic(1)>él<italic(0)>...¿o sí?
+TEXT_CLSPGL150_00558_HAMON_000_80	El Alacran, un escondite probable y un Lalafell de pelo plateado... Esto no me gusta. Nada.
+TEXT_CLSPGL150_00558_HAMON_000_81	Lo más seguro es que los contrabandistas operen desde la guarida Qiqirn abandonada al oeste del Coffer & Coffin. Los esperaremos ahí.
+TEXT_CLSPGL150_00558_HAMON_000_85	Lo más seguro es que los contrabandistas operen desde la guarida Qiqirn abandonada al oeste del Coffer & Coffin. Los esperaremos ahí.
+TEXT_CLSPGL150_00558_CHUCHUTO_000_86	El Lalafell de pelo plateado ─ tengo que ver con mis propios ojos quién es. ¡Vamos a la guarida Qiqirn abandonada!
+TEXT_CLSPGL150_00558_HAMON_000_90	¡Por las barbas de Thal! E-Ese es...
+TEXT_CLSPGL150_00558_ZANTOU_000_91	Gajaja... Esta vez nos lucimos. Al señor Weggfarr le va a encantar.
+TEXT_CLSPGL150_00558_RURUKUTA_000_92	(-Lalafell de pelo plateado-)Basta de charla. Tenemos cajas que mover.
+TEXT_CLSPGL150_00558_CHUCHUTO_000_93	¡Rurukuta! <italic(1)>Eres<italic(0)> tú, ¿verdad?
+TEXT_CLSPGL150_00558_RURUKUTA_000_94	Chuchuto...y el maestro. Cuánto tiempo.
+TEXT_CLSPGL150_00558_CHUCHUTO_000_95	¿¡Desapareces del gremio sin decir una palabra y te encontramos aquí contrabandeando somnus con esos maleantes!? ¿¡Qué significa esto!?
+TEXT_CLSPGL150_00558_HAMON_000_97	Rurukuta, muchacho. No te enseñé a pelear para que te convirtieras en una plaga para la sociedad. Seas mi alumno o no, tienes que responder por lo que hiciste.
+TEXT_CLSPGL150_00558_HAMON_000_98	Chuchuto, <split(<string(gstr1)>, ,1)>, ¡empieza su lección! ¡Atrapen a los contrabandistas!
+TEXT_CLSPGL150_00558_RURUKUTA_000_99	¡Ustedes, encárguense de estos entrometidos!
+TEXT_CLSPGL150_00558_ZANTOU_000_100	(-Secuaz del Alacran-)¿¡Hamon Holyfist!? Qué mala suerte...
+TEXT_CLSPGL150_00558_HAMON_000_101	Si saben quién soy, sabrán lo que les conviene. Entréguense por las buenas, o habrá problemas.
+TEXT_CLSPGL150_00558_RURUKUTA_000_102	¿<italic(1)>Holyfist<italic(0)>? ¡No me hagas reír! ¡Los está engañando, a todos!
+TEXT_CLSPGL150_00558_CHUCHUTO_000_103	¿Quién engaña a quién? ¿De qué rayos estás hablando?
+TEXT_CLSPGL150_00558_RURUKUTA_000_105	Fue una noche oscura, hace varias lunas. Yo estaba en las tierras salvajes, entrenando solo.
+TEXT_CLSPGL150_00558_RURUKUTA_000_106	De lejos, vi al maestro salir de la taberna y dirigirse a la ciudad. Pensé en acompañarlo de vuelta, así que lo seguí, y estaba por llamarlo cuando...cuando vi...<italic(1)>esto<italic(0)>.
+TEXT_CLSPGL150_00558_HAMON_000_108	¿Hm? ¿Desafías al Holyfist? Tienes espíritu de lucha, eso te lo concedo, pero harías bien en conocer tus límites.
+TEXT_CLSPGL150_00558_HAMON_000_109	¡Que así sea! ¡Yaaarrrgh!
+TEXT_CLSPGL150_00558_CHUCHUTO_000_110	¿M-Maestro?
+TEXT_CLSPGL150_00558_HAMON_000_111	\<jadeo> \<resoplido> Leíste cada uno de mis movimientos... No eres una marmota cualquiera...
+TEXT_CLSPGL150_00558_CHUCHUTO_000_112	¡¡¡Maestro!!!
+TEXT_CLSPGL150_00558_HAMON_000_113	\<jadeo> Lo único que quería...era estar rodeado de doncellas ligeras de ropa...cuando me llegara la hora... \<suspiro> Los dioses son crueles...
+TEXT_CLSPGL150_00558_CHUCHUTO_000_114	¡Maestro! ¿¡Qué significa esto!? ¡Explíquese!
+TEXT_CLSPGL150_00558_RURUKUTA_000_115	¡Ahora lo vieron con sus propios ojos! ¡Al maestro lo venció una marmota ─ una maldita marmota común y corriente! Nos recordaba a cada rato lo fuerte que era, ¡pero mentía descaradamente!
+TEXT_CLSPGL150_00558_ZANTOU_000_116	(-Secuaz del Alacran-)¡Gajaja! ¡No puedo creer lo que veo! ¡Ya verás cuando el señor Weggfarr se entere de esto!
+TEXT_CLSPGL150_00558_HAMON_000_130	Perdónenme, Chuchuto, <split(<string(gstr1)>, ,1)>... No quería engañar a nadie...y menos a mis alumnos.
+TEXT_CLSPGL150_00558_HAMON_000_132	Hamon Holyfist venció a cada rival que se le puso enfrente, pero no pudo vencer a la vejez. Mi fuerza, mis reflejos, mi resistencia ─ todo me abandonó. Aquí no queda más que un viejo decrépito.
+TEXT_CLSPGL150_00558_HAMON_000_134	Quiero estar solo un rato. Volveré al gremio por mi cuenta. De ahora en adelante, harás lo que Chuchuto te diga, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSPGL150_00558_CHUCHUTO_100_134	No puedo creerlo... ¿Cuándo ─ <italic(1)>cómo<italic(0)> se volvió tan débil el maestro?
+TEXT_CLSPGL150_00558_HAMON_100_135	Quiero estar solo un rato. Volveré al gremio por mi cuenta. De ahora en adelante, harás lo que Chuchuto te diga, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSPGL150_00558_CHUCHUTO_000_140	Estuve pensando, <split(<string(gstr1)>, ,1)>. Aunque es cierto que el maestro nos estuvo engañando, no lo hizo con mala intención.
+TEXT_CLSPGL150_00558_CHUCHUTO_000_141	Además, le debo la vida. Si no me hubiera acogido hace tantos años, habría muerto en alguna zanja. Nunca podría odiarlo. Aunque fuera un viejo cualquiera, lo seguiría respetando.
+TEXT_CLSPGL150_00558_CHUCHUTO_000_142	Pero ahora que se supo la verdad sobre su estado, el maestro Hamon perdió el rumbo ─ las ganas de enseñar. No soporto verlo así. Quiero que recupere la confianza, pero para eso necesita recuperar su antigua fuerza.
+TEXT_CLSPGL150_00558_CHUCHUTO_000_145	Escucha, <split(<string(gstr1)>, ,1)>. El maestro siempre decía que le recuerdas a él de joven. Si sigues mejorando tan rápido, me atrevo a esperar que eso reavive su espíritu de lucha.
+TEXT_CLSPGL150_00558_CHUCHUTO_000_146	Para eso, te enseñaré una técnica nueva, una que el maestro Hamon usaba con gran efecto en sus tiempos de luchador profesional.
+TEXT_CLSPGL150_00558_CHUCHUTO_000_147	Se llama Steel Peak, y consiste en canalizar el chakra que acumulaste en un ataque poderoso hecho con todo el cuerpo.
+TEXT_CLSPGL150_00558_CHUCHUTO_000_148	Haz tuya esta técnica, <split(<string(gstr1)>, ,1)>, y esfuérzate por ser aún más fuerte. ¡La próxima vez que el maestro Hamon te vea, seguro que se anima a actuar!
+TEXT_CLSPGL150_00558_QIB_001_TODO_1	¡Derrota a los secuaces del Alacran!
+TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_01	¡Muéstrales el fruto de tu entrenamiento, <split(<string(gstr1)>, ,1)>!
+TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_02	¡No temas! ¡Somos alumnos de Hamon Holyfist!
+TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_03	¡Las marmotas te las dejo a ti, <split(<string(gstr1)>, ,1)>!
+TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_04	¡Cuidado con los barridos de los marauders!
+TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_05	¡Los pugilists enemigos pegan fuerte! ¡No dejes de moverte!
+TEXT_CLSPGL150_00558_QIB_001_RURUKUTA_BATTLETALK_01	Inútiles, toda esta maldita banda...<br>Mejor huyamos por ahora.
+TEXT_CLSPGL150_00558_SCENE00012_INSTANCE_BATTLE_YESNO_TITLE	El deber llama. ¿Quieres comenzar<br>"The Spirit Is Willing"?
+TEXT_CLSPGL150_00558_SCENE00012_INSTANCE_BATTLE_YESNO_YES	Sí
+TEXT_CLSPGL150_00558_SCENE00012_INSTANCE_BATTLE_YESNO_NO	No

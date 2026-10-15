@@ -1,0 +1,24 @@
+key	text
+TEXT_CLSACN149_01103_SEQ_00	La maestra interina Thubyrgeim quiere informarte de una tarea importante.
+TEXT_CLSACN149_01103_SEQ_01	Thubyrgeim te cuenta que la Foreseer K'lyhia pidió tu presencia en otra inspección oficial. Sin embargo, hay una condición para que participes. Ve a la sala de prácticas del Arcanists' Guild y habla con la inspectora Miqo'te para que te lo explique todo.
+TEXT_CLSACN149_01103_SEQ_02	K'lyhia te explica que, para ayudarla en la próxima inspección, necesitarás aprender la geometría arcana que hace falta para invocar a Topaz Carbuncle. Habla con Thubyrgeim y pídele que te enseñe la técnica necesaria.
+TEXT_CLSACN149_01103_SEQ_03	Thubyrgeim te enseñó el método para invocar a Topaz Carbuncle. Usa las habilidades de tu nuevo familiar para asegurar una inspección exitosa ─ y segura.
+TEXT_CLSACN149_01103_TODO_00	Habla con K'lyhia.
+TEXT_CLSACN149_01103_TODO_01	Habla con Thubyrgeim.
+TEXT_CLSACN149_01103_THUBYRGEIM_000_001	Se l<if(gnum4,a,o)> ve cansad<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. ¿Está durmiendo bien? El razonamiento se resiente sin el descanso y la recuperación suficientes.
+TEXT_CLSACN149_01103_THUBYRGEIM_000_002	Si se considera en condiciones, le ruego que baje a la sala de prácticas. La Foreseer K'lyhia pidió que la acompañe en otra inspección oficial.
+TEXT_CLSACN149_01103_THUBYRGEIM_000_003	Sin embargo, hay un requisito para que participe. La vidente le explicará la situación.
+TEXT_CLSACN149_01103_KLYHIA_000_020	Empezaba a pensar que había calculado mal, <split(<string(gstr1)>, ,1)>. Gracias por venir. Pronto abordaré un buque mercante sospechoso de contrabando.
+TEXT_CLSACN149_01103_KLYHIA_000_021	Todos los barcos mercantes que usan los puertos de Limsa Lominsa están sujetos a la inspección de los inspectores de la Mealvaan's Gate ─ es una rutina que hago a diario.
+TEXT_CLSACN149_01103_KLYHIA_000_022	Pero en el caso de los contrabandistas, hay un 75% de probabilidades de encontrar...resistencia. Por eso agradecería su compañía en esta tarea.
+TEXT_CLSACN149_01103_KLYHIA_000_023	Ahora debemos hablar del requisito del que le informaron: aunque confío plenamente en su pericia marcial, es imprescindible que primero adquiera la capacidad de invocar a Topaz Carbuncle. Ese conocimiento se le concederá con la condición de que acepte esta tarea.
+TEXT_CLSACN149_01103_Q1_000_000	¿Acepta esta tarea?
+TEXT_CLSACN149_01103_A1_000_000	Sí.
+TEXT_CLSACN149_01103_A2_000_002	No.
+TEXT_CLSACN149_01103_KLYHIA_000_025	Entonces lamento que deba negársele el método para invocar a Topaz Carbuncle. ¿No lo reconsideraría?
+TEXT_CLSACN149_01103_KLYHIA_000_030	Muy bien. La entidad arcana que toma forma con la geometría del topacio ampliará aún más su capacidad ofensiva.
+TEXT_CLSACN149_01103_KLYHIA_000_031	Con un aliado así bajo su mando, hasta los enemigos más duros flaquearán ante usted. De hecho, no podríamos hacer estas peligrosas inspecciones sorpresa sin su apoyo.
+TEXT_CLSACN149_01103_KLYHIA_000_032	Por favor, vuelva con la señora Thubyrgeim e infórmele de su participación. Me reuniré con usted cuando termine algunos ajustes finales a mis fórmulas tácticas.
+TEXT_CLSACN149_01103_KLYHIA_000_035	Por favor, pídale a la señora Thubyrgeim que le enseñe la geometría de Topaz Carbuncle. Me reuniré con usted después de volver a revisar mis cálculos estratégicos.
+TEXT_CLSACN149_01103_THUBYRGEIM_000_040	¿Aceptó acompañar a la vidente? Entonces con gusto le enseñaré a usar a Topaz Carbuncle.
+TEXT_CLSACN149_01103_THUBYRGEIM_000_041	Le ruego que no dude en emplear a esta entidad en combate si la inspección se complica.

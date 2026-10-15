@@ -1,0 +1,126 @@
+key	text
+TEXT_CLSROG050_00110_SEQ_00	Jacke parece tener ganas de darte tu primera tarea.
+TEXT_CLSROG050_00110_SEQ_01	Jacke te dio tu primera tarea oficial: un caso sobre una pieza de tecnología imperial robada. Otro rogue, un Lalafell llamado Perimu Haurimu, te ayudará en el trabajo. Habla con Perimu "Underfoot" Haurimu para empezar.
+TEXT_CLSROG050_00110_SEQ_02	Antes de empezar en serio, Perimu quiere que entiendas lo importante que es la evasión para un rogue de armadura ligera. Ve a Lower La Noscea y derrota a tres aureliae, concentrándote en esquivar los ataques con pasos rápidos.
+TEXT_CLSROG050_00110_SEQ_03	Derrotaste a las aureliae. Vuelve al Rogues' Guild e informa a Perimu Haurimu.
+TEXT_CLSROG050_00110_SEQ_04	Das tu informe y Perimu Haurimu parece satisfecho con tu habilidad para esquivar. Tras explicarte que el primer paso es encontrar a los matones que violaron el código, Underfoot te sugiere usar la extensa red de espías del gremio. Ve al Drowning Wench e intenta pedirle una cerveza suave a I'tolwann, la camarera Miqo'te.
+TEXT_CLSROG050_00110_SEQ_05	Pides una cerveza suave, algo que ningún lominsano haría, y así le indicas a I'tolwann que eres del Rogues' Guild y buscas información. La camarera del Drowning Wench te describe a tus objetivos, conocidos como los "Dainty Demolishers". Parece que los Demolishers suelen vender lo que roban ─ sobre todo maquinaria garlean ─ a un grupo de goblins de Middle La Noscea. Viaja a Summerford y reúnete con Perimu Haurimu en su puesto de observación, al otro lado del río, frente al campamento de los hombres bestia.
+TEXT_CLSROG050_00110_SEQ_06	Al reunirte con Perimu, te enteras de que uno de los hombres bestia ya tiene la mercancía robada. Derrota al goblin gambler y recupera el mecanismo de disparo.
+TEXT_CLSROG050_00110_SEQ_07	Mataste al goblin gambler y recuperaste el aparato magitek. Vuelve con Perimu Haurimu a su puesto de observación y confirma que trajiste el aparato correcto.
+TEXT_CLSROG050_00110_SEQ_08	Perimu Haurimu examina el aparato y te felicita por el buen trabajo. Vuelve al Rogues' Guild y entrégale el mecanismo de disparo a Jacke.
+TEXT_CLSROG050_00110_SEQ_09	Tras entregarle el aparato a Jacke, las "Dutiful Sisters" reciben de pronto la visita de los Dainty Demolishers. Parece que el trío de matones emperifollados te siguió hasta el gremio con la intención de exigir una compensación por tu reciente robo. Los rogues despachan rápido a los intrusos, pero no antes de que el líder de los Demolishers revele un dato curioso sobre el pasado del gremio. Habla con Jacke para terminar tu tarea y saber más de la historia de los rogues.
+TEXT_CLSROG050_00110_SEQ_10	Aunque no le gusta remover el pasado, Jacke te explica el origen del Rogues' Guild. Insiste en que, cambie como cambie su nombre, la tarea del gremio de defender el código sigue siendo la misma. Vuelve a tu entrenamiento y prepárate para la siguiente tarea.<br><br>※La siguiente misión de rogue estará disponible con Jacke al llegar al nivel 10.
+TEXT_CLSROG050_00110_TODO_00	Habla con Perimu Haurimu.
+TEXT_CLSROG050_00110_TODO_01	Caza aureliae.
+TEXT_CLSROG050_00110_TODO_02	Informa a Perimu Haurimu en el Rogues' Guild.
+TEXT_CLSROG050_00110_TODO_03	Habla con I'tolwann en el Drowning Wench.
+TEXT_CLSROG050_00110_TODO_04	Habla con Perimu Haurimu en Summerford.
+TEXT_CLSROG050_00110_TODO_05	Róbale el firing mechanism #43 a un goblin gambler.
+TEXT_CLSROG050_00110_TODO_06	Muéstrale el firing mechanism #43 a Perimu Haurimu.
+TEXT_CLSROG050_00110_TODO_07	Entrégale el firing mechanism #43 a Jacke en el Rogues' Guild.
+TEXT_CLSROG050_00110_TODO_08	Habla con Jacke.
+TEXT_CLSROG050_00110_JACKE_000_000	¡Hola, <split(<string(gstr1)>, ,1)>! Debo decir que ya manejas esos pinchos con bastante soltura.
+TEXT_CLSROG050_00110_JACKE_000_001	Sí, me parece que ya estás <if(gnum4,lista,listo)> para tu primera tarea.
+TEXT_CLSROG050_00110_JACKE_000_002	...Normalmente cerraría el pico y te dejaría hacer tu trabajo, pero como recién te arrastramos a las sombras, puede que haya un par de cosas que todavía no conozcas.
+TEXT_CLSROG050_00110_JACKE_000_003	Empecemos por lo que seguramente <italic(1)>sí<italic(0)> sabes. Y es que la Admiral ─ los dioses la bendigan ─ prohibió la piratería en Limsa Lominsa.
+TEXT_CLSROG050_00110_JACKE_000_004	Entonces, ¿por qué crees que todavía hay tantos malditos piratas en esta ciudad? Te lo digo yo: porque todavía les queda una forma de saquear y robar sin ganarse la ira de la ley.
+TEXT_CLSROG050_00110_JACKE_000_005	Basta con postularse para servir a la talasocracia como "corsario certificado". Un capitán con patente de corso puede aterrorizar los mares hasta que se canse...siempre que solo ataque barcos del Garlean Empire.
+TEXT_CLSROG050_00110_JACKE_000_006	Claro que, con lo condenadamente grande que es el Imperio, hay botín de sobra para todos.
+TEXT_CLSROG050_00110_JACKE_000_007	Las tripulaciones llenan las bodegas con botín imperial y vuelven a Limsa a descargarlo. ...Y ahí es donde este caso se torció.
+TEXT_CLSROG050_00110_JACKE_000_008	Resulta que una tripulación les echó las zarpas a un aparato magitek ─ un mecanismo de disparo, para ser exactos ─, pero unos tipos de mano dura les estafaron el botín.
+TEXT_CLSROG050_00110_JACKE_000_009	Si te acuerdas, eso no le cae nada bien al código. Si tienes el descaro de estafarle a un pirata lo que le corresponde, más te vale estar listo para una visita de los rogues.
+TEXT_CLSROG050_00110_JACKE_000_010	Ah, y hablando de rogues de visita... ¡Underfoot! ¡Por aquí, muchacho!
+TEXT_CLSROG050_00110_JACKE_000_011	Quiero que trabajen juntos en esto. Dicten sentencia contra esos estafadores que desafían el código y recuperen esa pieza magitek.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_012	¡¿Eh?! ¡¿Y para qué me necesita <if(gnum4,la moza,el pichón)>?!
+TEXT_CLSROG050_00110_JACKE_000_013	Tú estás a cargo de los reclutas nuevos, ¿no? Es la primera tarea de <split(<string(gstr1)>, ,1)> ─ vas con <if(gnum4,ella,él)> y le das el beneficio de tu sabiduría.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_014	¿Desde cuándo estoy a cargo de los nuev─ Ah, al diablo...
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_015	Eh... Parece que por ahora vamos a ser compañeros. Me llamo Perimu Haurimu, pero casi todos mis colegas me dicen "Underfoot".
+TEXT_CLSROG050_00110_JACKE_000_016	Puede que parezca algo reacio, pero Perimu es de los mejores. Tú haz lo que te diga y vas a terminar el trabajo.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_020	Muy bien, mi joven rogue. Como es tu primera salida oficial, quiero asegurarme de que tus pasos de baile estén a la altura.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_021	Con esas hojas cortas tienes que acercarte bien a tu presa, ¿sí? Pero no somos unos malditos soldaditos de armadura brillante, y el equipo ligero que usamos no protege mucho de un golpe en la jeta.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_022	Así que si no quieres escupir sangre y dientes, tu mejor defensa es simplemente no estar ahí cuando tu presa toma impulso para soltarte un buen tortazo.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_100_022	Moverte hacia un flanco suele funcionar, pero hay un truco fino que todo rogue debería dominar: el shade shift. Despeja la mente y confía en tu velocidad, y podrás dejar a un bruto con hacha o a un mago lanzahechizos persiguiendo tu sombra mientras le hundes los pinchos en las tripas.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_023	Bueno, ahora toca poner en práctica esta lección contra unas aureliae de Lower La Noscea. Espero que hayas prestado atención, <if(gnum4,muchacha,muchacho)>, porque esos tentáculos pegan fuerte. ¡Que te diviertas!
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_030	Ve a Lower La Noscea y búscales pelea a unas cuantas de esas aureliae. Recuerda: el punto de este ejercicio es practicar la evasión, ¡así que no me vuelvas con la cara llena de ronchas!
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_040	¿Terminaste tu práctica? Je, je, el aguijón de esos bichos con tentáculos pronto te va a enseñar a estar siempre alerta, ¿eh?
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_041	Ejem. Ahora que tienes la sangre bombeando, diría que es hora de ponernos a trabajar.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_042	Lo primero es lo primero: hay que dar con esos tipos chiflados que se robaron el aparato magitek.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_043	Puede que alguno de nuestros rogues haya oído algo. El gremio vive de la información, ¿ves?, y tenemos agentes repartidos por todas partes, con los faroles bien abiertos y la oreja pegada al suelo.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_044	Vamos a hacerle una visita a I'tolwann en el Drowning Wench. Pídele una cerveza suave y a ver qué consigues.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_045	No te estoy tomando el pelo, <if(gnum4,muchacha,muchacho)>. ¡Confía en mí!
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_050	Pídete una cerveza suave. En un rato todo va a tener sentido.
+TEXT_CLSROG050_00110_ITOLWANN_000_060	¡<if(gnum4,Bienvenida,Bienvenido)> al Drowning Wench! ¿Qué le sirvo, <if(gnum4,señorita,señor)>?
+TEXT_CLSROG050_00110_Q1_000_061	¿Qué vas a pedir?
+TEXT_CLSROG050_00110_A1_000_062	Una cerveza helada.
+TEXT_CLSROG050_00110_A1_000_063	Una cerveza fuerte.
+TEXT_CLSROG050_00110_A1_000_064	Una cerveza suave.
+TEXT_CLSROG050_00110_ITOLWANN_000_070	Enseguida, <if(gnum4,señorita,señor)>. Tome asiento y se la llevo directo a su─ ¿Hm? ¿Cambió de opinión?
+TEXT_CLSROG050_00110_ITOLWANN_000_080	¡Jamás en la vida! Puede que en el Wench sirvamos grog barato, pero nada aguado.
+TEXT_CLSROG050_00110_ITOLWANN_000_081	Si nuestra cerveza de siempre es demasiado fuerte para su gusto, ¿quizá quiera pedir algo del menú <italic(1)>clandestino<italic(0)>?
+TEXT_CLSROG050_00110_ITOLWANN_000_082	Sí, hay bastante que ofrecerle a un cliente con sus encantos de <italic(1)>rogue<italic(0)>. ¿Hay algo en particular en que pueda ayudarle?
+TEXT_CLSROG050_00110_ITOLWANN_000_083	...Ah, ¿el lío con ese botín magitek? No fue un trabajo muy discreto que digamos.
+TEXT_CLSROG050_00110_ITOLWANN_000_084	La banda en cuestión es un grupo peculiar de ex piratas que se hacen llamar los "Dainty Demolishers". Les encantan los modales de los petimetres de la corte y tienen predilección por la maquinaria garlean.
+TEXT_CLSROG050_00110_ITOLWANN_000_085	También se sabe que conspiran con goblins. Dicen los rumores que los Demolishers visitan un campamento de hombres bestia en Middle La Noscea para vender lo que roban.
+TEXT_CLSROG050_00110_ITOLWANN_000_086	Y lo que venden suele ser tecnología imperial ─ me imagino que a los goblins les encantó quedarse con un mecanismo de disparo de cañón antiaéreo Mark XLIII.
+TEXT_CLSROG050_00110_ITOLWANN_000_087	Si piensa robar de vuelta el aparato, el rastro lleva al campamento goblin de Summerford.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_088	Summerford, ¿eh? En marcha, <if(gnum4,muchacha,muchacho)>. Encuéntrame al otro lado del río, frente al campamento, y planeamos el siguiente paso...
+TEXT_CLSROG050_00110_ITOLWANN_000_090	Ese aparato magitek robado dos veces seguramente está en el campamento goblin de Summerford. Yo me daría prisa ─ esos curiosos hombres bestia no van a tardar en desarmarlo.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_100	Agacha la cabeza, <split(<string(gstr1)>, ,1)>. Estuve vigilando lo que pasa allá enfrente.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_101	Ni rastro de los Demolishers, pero sí vi a uno de esos tipos apostadores metiendo el aparato garlean en su mochila.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_102	Sabía que I'tolwann nos iba a guiar bien. Esta es tu oportunidad, <if(gnum4,muchacha,muchacho)> ─ ¡dale un buen tortazo a ese gobbie apostador y échale mano al aparato!
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_103	Eh... Perdí de vista cuál de los goblins era, pero creo que es ese desgraciado de la izquierda. Eso sí, asegúrate de esquivar las explosiones de las bombs ─ retorcerte y esquivar en medio de una bola de fuego puede que no te salve de quedarte sin cejas.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_110	Vamos, ese apostador no va a esperar todo el día. ¡Demuéstrale al viejo Underfoot que aprendiste la lección!
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_120	¡Así se hace, <if(gnum4,muchacha,muchacho)>! No me quedó otra que quedarme de brazos cruzados mirando. ...Entonces, ¿tienes la mercancía?
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_121	Sí, este es el aparato, sin duda.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_122	Llevémoslo de vuelta al gremio, ¿eh? Todavía tenemos pendiente despachar a esos malditos Demolishers, pero por ahora pueden esperar.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_123	Toma, tú deberías ser quien le entregue el premio a Jacke. Al fin y al cabo, fue tu mano la que se lo arrancó de las zarpas a los goblins.
+TEXT_CLSROG050_00110_KOBUNA00110_000_124	¡Capitán! ¡Capitán, le digo! ¡Algún malhechor ha perpetrado violencia contra nuestros colegas goblins mientras nosotros solo buscábamos remojar el gaznate con finas libaciones!
+TEXT_CLSROG050_00110_KOBUNB00110_000_125	¡Esto no puede quedar así, capitán! ¡Nuestro botín, tan finamente hurtado, ha sido sustraído delante de nuestras narices!
+TEXT_CLSROG050_00110_OYABUN00110_000_126	¡Rayos y centellas! ¡Mi sangre bulle y burbujea ante la temeridad de esta afrenta!
+TEXT_CLSROG050_00110_OYABUN00110_000_127	No conozco la identidad de esos bufones audaces, ¡pero pagarán, y pagarán caro! ¡Conmigo, mis buenos compañeros!
+TEXT_CLSROG050_00110_KOBUNAB00110_000_128	(-Marineros de los Dainty Demolishers-)¡Hurra!
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_130	Entrégale el aparato magitek directamente a Jacke ─ ¡no pienso llevarme el crédito por tu trabajo de campo!
+TEXT_CLSROG050_00110_JACKE_000_140	¿Ya lograste echarle mano a ese mecanismo de disparo, <split(<string(gstr1)>, ,1)>?
+TEXT_CLSROG050_00110_JACKE_000_150	¡Ah, y de una pieza, además!
+TEXT_CLSROG050_00110_JACKE_000_151	Te fue bien en tu primera tarea, <if(gnum4,muchacha,muchacho)>. No parece gran cosa, pero esa tripulación arriesgó el pellejo para afanar este cachivache. Se van a alegrar de verlo rescatado de manos de esos rufianes.
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_152	Todavía no les ajustamos las cuentas a los Dainty Demolishers, Jacke... El trabajo no terminó.
+TEXT_CLSROG050_00110_JACKE_000_153	Tienes razón, Underfoot. No terminó. El que rompe el código enfrenta las consecuencias.
+TEXT_CLSROG050_00110_OYABUN00110_000_154	(-???-)¡Ajá! ¡Esto no es en absoluto lo que esperaba del interior de un convento!
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_155	...¿Y ustedes quiénes son, señores?
+TEXT_CLSROG050_00110_OYABUN00110_000_156	¡Jajaja! ¡Su ignorancia es comprensible! Al fin y al cabo, nuestras intrigas son siempre perfectas, ¡nuestros golpes, impecables! ¿Les revelo nuestro infame nombre y me bebo su delicioso terror?
+TEXT_CLSROG050_00110_OYABUN00110_000_157	¡Somos letales, lóbregos y lingüísticamente luciferinos! ¡Tiemblen ante los Dainty Demolishers!
+TEXT_CLSROG050_00110_KOBUNA00110_000_158	¡Capitán! ¡Capitán, le digo! ¡Ahí está <if(gnum4,la sabandija,el canalla)> que se apropió indebidamente de nuestra mercancía!
+TEXT_CLSROG050_00110_KOBUNB00110_000_159	¡Concuerdo! ¡<if(gnum4,Ella,Él)> es <if(gnum4,la mismísima simplona,el mismísimo simplón)> a quien seguimos sin ser vistos hasta este mismo establecimiento!
+TEXT_CLSROG050_00110_KOBUNAB00110_000_160	(-Marineros de los Dainty Demolishers-)¡Sorpresa, sorpresa!
+TEXT_CLSROG050_00110_OYABUN00110_000_161	Vamos, vamos, mis queridos dandis. No seamos desagradables. Deberíamos procurar resolver este disgusto sin recurrir a insultos ni a otros métodos menos...diplomáticos. Al menos no todavía.
+TEXT_CLSROG050_00110_OYABUN00110_000_162	Tú, el de ahí. Sí, el chico de los recados de mejillas lampiñas. Sé buen muchacho y tráeme a tu superior.
+TEXT_CLSROG050_00110_OYABUN00110_000_163	Uno de tus colegas ha cometido un crimen terrible contra nosotros. Y no nos iremos hasta recibir la debida restitución.
+TEXT_CLSROG050_00110_JACKE_000_164	...Ajá, ¿así que ahora soy el chico de los recados?
+TEXT_CLSROG050_00110_JACKE_000_165	Dígame, <italic(1)>capitán<italic(0)>: ¿qué clase de lugar cree que es este?
+TEXT_CLSROG050_00110_OYABUN00110_000_166	¿Hm? ¿Este lugar? Pues supongo que es alguna clase de convento. El portero tuerto lo llamó las "Dutiful Sisters of the Edelweiss", o algo así...
+TEXT_CLSROG050_00110_JACKE_000_167	¿Y todavía no se da cuenta de su error? Su destino quedó sellado en cuanto arrastró su miserable pellejo por el umbral.
+TEXT_CLSROG050_00110_OYABUN00110_000_168	...¡¿Me estás amenazando, muchacho?! ¡Haré que mis compañeros te corten esa lengua insolente!
+TEXT_CLSROG050_00110_OYABUN00110_000_169	¡Se nos agotaron las reservas de "dainty" por hoy, muchachos! ¡Enséñenles a estas "Sisters" fraudulentas cómo tratan los Demolishers a los advenedizos!
+TEXT_CLSROG050_00110_VKEBBE_000_170	(-Rogue pelirroja-)Todavía no lo entienden, ¿verdad?
+TEXT_CLSROG050_00110_VKEBBE_000_171	(-Rogue pelirroja-)Hay solo tres clases de fulanos que el portero deja pasar: clientes, reclutas─
+TEXT_CLSROG050_00110_KOBUNB00110_000_172	¡Por los dioses!
+TEXT_CLSROG050_00110_KOBUNB00110_000_173	¡Los mataré a todos!
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_174	¿Tu mamá no te enseñó a no interrumpir a una dama cuando habla?
+TEXT_CLSROG050_00110_PERIMUHAURIMU_000_175	Habrías aprendido que la tercera clase de fulano es una presa con aserrín en la sesera que se mete solita en la guarida de los rogues.
+TEXT_CLSROG050_00110_OYABUN00110_000_176	¡¿R-Rogues?! ¡P-Pero si fuimos tan cuidadosos!
+TEXT_CLSROG050_00110_OYABUN00110_000_177	Oí historias en mis días de pirata ─ relatos sobre los espectros despiadados que defienden el código. Pero en ese entonces no los llamaban rogues...
+TEXT_CLSROG050_00110_OYABUN00110_000_178	¡Eran los "Upright Thieves"! ¡Los cuchillos en las sombras!
+TEXT_CLSROG050_00110_OYABUN00110_000_179	N-No pueden ser ellos... ¡Solo intentan asustarme! ¡Pues el capitán de los Dainty Demolishers no se amilana tan fácilmente!
+TEXT_CLSROG050_00110_OYABUN00110_000_180	¡Que los infiernos se lleven sus engaños! ¡Hurra! ¡Hurra por mis camaradas caídos!
+TEXT_CLSROG050_00110_JACKE_000_181	¿Engaños? Sí. Cualquiera que conozca podría ser un rogue, capitán ─ hasta un chico de los recados de mejillas lampiñas.
+TEXT_CLSROG050_00110_JACKE_000_182	Todavía respira. Busquen una soga y cuélguenlo en algún lugar de la ciudad.
+TEXT_CLSROG050_00110_JACKE_000_183	Y <italic(1)>ahora<italic(0)> sí terminó el trabajo. Menuda presentación tuviste, ¿eh?
+TEXT_CLSROG050_00110_JACKE_000_184	<if(gnum4,Bienvenida,Bienvenido)> a los bajos fondos siempre revueltos de Limsa Lominsa, donde los ladrones mudaron de piel y se volvieron rogues.
+TEXT_CLSROG050_00110_JACKE_000_190	No me gusta mucho hablar de los viejos tiempos, pero ya que salió el tema, más vale aclarar la confusión.
+TEXT_CLSROG050_00110_JACKE_000_191	Fue cuando la piratería estaba en su apogeo. Los tipos que defendían el código eran capos ─ los mejores muchachos y muchachas que había en las tripulaciones piratas.
+TEXT_CLSROG050_00110_JACKE_000_192	Recuperaban lo que se había birlado sin derecho y caían sobre los culpables al amparo de la oscurana. "Upright Thief" pasó a ser el título de esos tipos que se dedicaban a robar y despachar con permiso.
+TEXT_CLSROG050_00110_JACKE_000_193	Pero solo aceptaban en sus filas a quienes habían cortado todo lazo con la vida de bucanero. Por las lealtades divididas y todo eso.
+TEXT_CLSROG050_00110_JACKE_000_194	Formaron su propio gremio y hasta su propia forma de hablar, y los que antes eran piratas dejaron de serlo.
+TEXT_CLSROG050_00110_JACKE_000_195	Más tarde, cuando Merlwyb ocupó el sillón de la Admiral, los Upright Thieves aceptaron someterse a sus leyes.
+TEXT_CLSROG050_00110_JACKE_000_196	Pasamos a llamarnos "Rogues' Guild" para marcar el cambio, y cambiamos la forma de reclutar para aceptar aventureros como tú. Pero aunque el nombre sea otro, el trabajo sigue siendo el mismo: hacer cumplir el código y preservar la sociedad clandestina que nos vio nacer.
+TEXT_CLSROG050_00110_JACKE_000_197	...Igual que hiciste tú en esta tarea. Sigue así, <split(<string(gstr1)>, ,1)>, y llegarás lejos en las sombras.

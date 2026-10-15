@@ -1,0 +1,37 @@
+key	text
+TEXT_CLSPGL050_00554_SEQ_00	El Guildmaster Hamon quiere que aprendas lo básico de las combinaciones.
+TEXT_CLSPGL050_00554_SEQ_01	Para calentar antes de la lección, Hamon te pide que corras a recoger el gil que dejó esparcido por la ciudad. Si usas Sprint siempre que puedas, terminarás la tarea más rápido.
+TEXT_CLSPGL050_00554_SEQ_02	Recogiste todo el gil. Vuelve con Hamon al Pugilists' Guild.
+TEXT_CLSPGL050_00554_SEQ_03	Hamon está demasiado contento para alguien que solo recupera su propio dinero. Convencido de que ya entraste en calor, te pide que vayas a Scorpion Crossing, en Western Thanalan. Una vez allí, busca las cuatro piedras de prueba que hay cerca y dale a cada una un combo de Bootshine. El impacto hará salir earth sprites, a los que debes derrotar.
+TEXT_CLSPGL050_00554_SEQ_04	Derrotaste a todos los earth sprites. Informa de tu éxito a Hamon en el Pugilists' Guild.
+TEXT_CLSPGL050_00554_SEQ_05	Tras elogiar tu desempeño en la prueba, Hamon te presenta a Chuchuto, su asistente y primera alumna. Los dos creen que tienes mucho futuro. Entrena duro para estar a la altura de sus expectativas.<br><br>※La siguiente misión de pugilist estará disponible con Hamon al llegar al nivel 10.
+TEXT_CLSPGL050_00554_TODO_00	Recoge el gil esparcido.
+TEXT_CLSPGL050_00554_TODO_01	Entrégale el gil a Hamon.
+TEXT_CLSPGL050_00554_TODO_02	Usa Bootshine en las piedras de prueba y derrota a los earth sprites.
+TEXT_CLSPGL050_00554_TODO_03	Informa a Hamon en el Pugilists' Guild.
+TEXT_CLSPGL050_00554_HAMON_100_2	Estuviste entrenando duro, <split(<string(gstr1)>, ,1)>. Sí, se nota en lo ligero de tus pasos y en la fuerza de tus puños. Creo que ya estás list<if(gnum4,a,o)> para tu próxima lección.
+TEXT_CLSPGL050_00554_HAMON_000_4	Pero antes de empezar, hace falta calentar un poco. Para eso, dejé gil esparcido por todo Ul'dah. Quiero que recorras la ciudad y lo recojas todo.
+TEXT_CLSPGL050_00554_HAMON_000_5	Ahora, ese dinero es mío, así que quiero que lo hagas como si tuvieras una banda de guerra de Amalj'aa pisándote los talones. En otras palabras, quiero que <italic(1)>corras a toda velocidad<italic(0)>.
+TEXT_CLSPGL050_00554_HAMON_000_6	Claro que no puedes correr a toda velocidad sin parar ─ tu cuerpo necesita descansar un rato después de cada arranque. Puede sonar elemental, pero te lo digo para dejar algo claro.
+TEXT_CLSPGL050_00554_HAMON_000_7	Como pugilist, es esencial que aprendas a dosificarte en una pelea, o terminarás sin fuerzas. Y cuando eso pasa, la pelea está prácticamente terminada, y te arrepentirías si hubieras apostado a tu favor.
+TEXT_CLSPGL050_00554_HAMON_000_20	Ese dinero es mío, <if(gnum4,muchacha,hijo)>. Te agradecería que te apuraras a recogerlo antes de que algún buitre se lance sobre él.
+TEXT_CLSPGL050_00554_HAMON_000_21	...¿¡Quinientos gil!? Caray, esto alcanza para una semana de─
+TEXT_CLSPGL050_00554_HAMON_000_22	...Ejem. Quiero decir, bien hecho, <split(<string(gstr1)>, ,1)>. Ahora que ya entraste en calor, podemos pasar a tu lección ─ una prueba, para ser exactos.
+TEXT_CLSPGL050_00554_HAMON_000_24	Ve a Scorpion Crossing, en Western Thanalan. Ahí vas a encontrar cuatro piedras grandes ─ las llaman "piedras de prueba". Quiero que le des a cada una un buen combo de Bootshine.
+TEXT_CLSPGL050_00554_HAMON_000_25	El impacto despertará a los earth sprites que duermen dentro, y tendrás que derrotarlos. Si te ves en apuros, no es ninguna vergüenza salir corriendo. Todavía estás aprendiendo, después de todo.
+TEXT_CLSPGL050_00554_HAMON_000_26	Cuando recuperes el aliento, puedes lanzarte de nuevo a la pelea. Y recuerda esto: los golpes derriban al rival, pero es tu juego de pies lo que te mantiene en pie. ¡Ahora ve, <split(<string(gstr1)>, ,1)>, y buena suerte!
+TEXT_CLSPGL050_00554_SYSTEM_000_27	Usa Bootshine en las piedras de prueba y derrota a los earth sprites que aparezcan.
+TEXT_CLSPGL050_00554_HAMON_000_40	¿Así que les diste su merecido a los earth sprites? ¡Bien hecho, <split(<string(gstr1)>, ,1)>! ¡Golpeando piedra y tierra forjaste en tus puños armas inquebrantables!
+TEXT_CLSPGL050_00554_HAMON_000_41	Eres una fuente casi inagotable de vigor, <split(<string(gstr1)>, ,1)>. Sí, igual que yo en mis años mozos.
+TEXT_CLSPGL050_00554_CHUCHUTO_000_42	<if(gnum4,¡Esta debe ser la recluta prometedora de la que me hablaba!,¡Este debe ser el recluta prometedor del que me hablaba!)>
+TEXT_CLSPGL050_00554_HAMON_000_43	Pues claro que es <if(gnum4,prometedora,prometedor)> ─ ¡entrena con <italic(1)>Hamooon HOLYFIIIST<italic(0)>!
+TEXT_CLSPGL050_00554_CHUCHUTO_000_44	Je, je, ¡ese es nuestro maestro Hamon!
+TEXT_CLSPGL050_00554_HAMON_000_45	<split(<string(gstr1)>, ,1)>, creo que todavía no te presenté a mi asistente. Ella es Chuchuto.
+TEXT_CLSPGL050_00554_CHUCHUTO_000_46	¡Un placer conocerte! Como dijo el maestro, soy su mano derecha, aunque todavía me queda muchísimo por aprender. ¡Esforcémonos juntos por dominar nuestro arte!
+TEXT_CLSPGL050_00554_HAMON_000_47	Chuchuto se unió al gremio poco después de que me nombraran maestro. De hecho, es mi primera alumna. Bueno, hubo otro, claro, pero...
+TEXT_CLSPGL050_00554_CHUCHUTO_000_49	No nos quedemos en el pasado, maestro. Hablábamos del brillante futuro de <split(<string(gstr1)>, ,1)>.
+TEXT_CLSPGL050_00554_CHUCHUTO_000_50	Y eso me recuerda: ¿ya recuperó mi gil? Mi equipo está bastante gastado, y de verdad necesito el dinero para repararlo...
+TEXT_CLSPGL050_00554_HAMON_000_51	\<farfulla> ¡E-Ejem! ¡Sí, el futuro de <split(<string(gstr1)>, ,1)> con nosotros es brillante de verdad!
+TEXT_CLSPGL050_00554_HAMON_000_52	¡Si sigue esforzándose así, bien podría convertirse en <if(gnum4,la próxima,el próximo)> Holyfist!
+TEXT_CLSPGL050_00554_HAMON_000_53	Entrena duro, joven, y hazte fuerte. Cuando llegue el momento, tendré otra leccioncita para ti. ¡Ja, ja, ja!
+TEXT_CLSPGL050_00554_POP_MESSAGE	¡Sientes una presencia hostil!

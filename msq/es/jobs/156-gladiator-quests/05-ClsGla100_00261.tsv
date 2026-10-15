@@ -1,0 +1,65 @@
+key	text
+TEXT_CLSGLA100_00261_SEQ_00	La First Sword Mylla necesita tu ayuda de inmediato con un asunto peligroso.
+TEXT_CLSGLA100_00261_SEQ_01	Una banda de lancers ha estado matando a hombres hyur que portan espada. Mylla te pide que vayas a Stonesthrow e investigues los informes sobre unos extranjeros sospechosos en la zona.
+TEXT_CLSGLA100_00261_SEQ_02	Al llegar a Stonesthrow, dos lancers a sueldo Duskwight te tienden una emboscada, pero logras vencer a ambos. Habla con el gladiator cobarde y asegúrate de que no esté herido.
+TEXT_CLSGLA100_00261_SEQ_03	Te enteras de que los lancers a sueldo buscaban a un hombre llamado Aldis. Vuelve con Mylla e infórmale que los lancers murieron.
+TEXT_CLSGLA100_00261_SEQ_04	Antes de que puedas celebrar tu victoria, un compañero gladiator llamado Bruce irrumpe en el gremio e informa que los lancers a sueldo que quedan se esconden en el túnel al sur de Black Brush Station. Mylla les pide a ti y a Bruce que entren al túnel y acaben con los lancers restantes.
+TEXT_CLSGLA100_00261_SEQ_05	Aunque tus enemigos eran muchos, no fueron rival para tu excelente manejo de la espada. Habla con Bruce y asegúrate de que no esté herido.
+TEXT_CLSGLA100_00261_SEQ_06	Terminado el trabajo, Bruce se despide y vuelve a Ul'dah a celebrar con una jarra. Regresa al Gladiators' Guild e informa a Mylla de tu éxito.
+TEXT_CLSGLA100_00261_SEQ_07	Impresionada por tu crecimiento como gladiator, Mylla te da permiso para unirte a otros gremios ─ aunque espera que mantengas tus habilidades de gladiator. Antes de que se separen, te pregunta por los motivos de los lancers a sueldo. Por desgracia, tu respuesta no la deja satisfecha.<br><br>※La siguiente misión de gladiator estará disponible con Mylla al llegar al nivel 15.
+TEXT_CLSGLA100_00261_TODO_00	Busca a los lancers a sueldo en Stonesthrow.
+TEXT_CLSGLA100_00261_TODO_01	Habla con el gladiator cobarde.
+TEXT_CLSGLA100_00261_TODO_02	Informa a Mylla.
+TEXT_CLSGLA100_00261_TODO_03	Tiende una emboscada a los lancers a sueldo.
+TEXT_CLSGLA100_00261_TODO_04	Habla con Bruce.
+TEXT_CLSGLA100_00261_TODO_05	Informa a Mylla.
+TEXT_CLSGLA100_00261_MYLLA_000_1	Te ves bien, <split(<string(gstr1)>, ,1)>. Espero que estés <if(gnum4,lista,listo)> para tu siguiente tarea, porque necesito tu ayuda de inmediato.
+TEXT_CLSGLA100_00261_MYLLA_000_2	Hubo varios asesinatos violentos hace poco, y todas las víctimas eran hombres hyur.
+TEXT_CLSGLA100_00261_MYLLA_000_3	Por las múltiples heridas de lanza en los cuerpos de los difuntos, creemos que los responsables de los crímenes son lancers.
+TEXT_CLSGLA100_00261_MYLLA_000_4	Estos asesinatos no solo son una plaga para nuestra ciudad; temo que sea cuestión de tiempo antes de que uno de los nuestros se vuelva un blanco.
+TEXT_CLSGLA100_00261_MYLLA_000_5	Acabo de recibir informes de lancers extranjeros que merodean por Stonesthrow. Dadas las circunstancias, me parece probable que sean nuestros culpables.
+TEXT_CLSGLA100_00261_MYLLA_000_6	No podemos permitir más asesinatos. Ve a Stonesthrow, del otro lado de la Gate of Nald, y habla con quien encuentres en la zona. Con suerte, daremos con estos lancers antes de que vuelvan a atacar.
+TEXT_CLSGLA100_00261_NPCA_000_40	¡No me mates, por favor! ¡No soy al que buscas!
+TEXT_CLSGLA100_00261_NPCA_000_50	¡Gracias, <italic(1)>gracias<italic(0)>! A<-->Aparecieron de la nada y, a punta de lanza, me preguntaron si yo era Aldis. Dije que no, ¡pero me atacaron igual! ¿Q<-->Qué hice para merecer esto?
+TEXT_CLSGLA100_00261_MYLLA_000_60	¡Así que sí eran los asesinos que buscábamos!
+TEXT_CLSGLA100_00261_MYLLA_000_64	Pero ¿qué trajo a unos lancers a sueldo Duskwight desde el Black Shroud hasta aquí?
+TEXT_CLSGLA100_00261_MYLLA_000_65	¿Y por qué mataban a hombres hyur que portaban espada?
+TEXT_CLSGLA100_00261_BRUCE_000_66	¡First Sword!
+TEXT_CLSGLA100_00261_MYLLA_000_67	¿Qué pasa?
+TEXT_CLSGLA100_00261_BRUCE_000_68	¡Lancers, First Sword! ¡Una banda entera, escondida en el túnel al sur de Black Brush Station!
+TEXT_CLSGLA100_00261_MYLLA_000_69	Hmph, parece que todavía no nos libramos de ellos. <split(<string(gstr1)>, ,1)>, ya que estás, termina lo que empezaste. Ve a Central Thanalan y acaba con los últimos lancers a sueldo.
+TEXT_CLSGLA100_00261_MYLLA_000_72	Bruce, acompaña a <split(<string(gstr1)>, ,1)>. Asegúrate de que no muera.
+TEXT_CLSGLA100_00261_BRUCE_000_75	Bueno, no puedo evitar que ensarten a <if(gnum4,la muchacha,este tipo)>, pero <if(gnum4,la,lo)> remendaré lo mejor que pueda.
+TEXT_CLSGLA100_00261_MYLLA_000_76	<split(<string(gstr1)>, ,1)>, defiende a Bruce. Conoce magias curativas poderosas, pero no puede usarlas si no mantienes ocupados a todos los enemigos. Asegúrate de tener toda su atención en todo momento.
+TEXT_CLSGLA100_00261_BRUCE_000_82	Sí, cuento contigo para mantener lejos de mí a esos bastardos. Cuídame la espalda y yo cuidaré la tuya.
+TEXT_CLSGLA100_00261_MYLLA_000_83	¡Ya tienen sus órdenes, gladiators! ¡Manden a estos lancers a sueldo a la Seventh Gate!
+TEXT_CLSGLA100_00261_BRUCE_000_100	Mmm...parece que no hay nadie en casa. ¿Qué dices si los esperamos aquí y los emboscamos cuando vuelvan?
+TEXT_CLSGLA100_00261_BRUCE_000_AFTER	Parece que aquí terminamos. Volvamos a casa, <split(<string(gstr1)>, ,1)> ─ no me vendría mal un trago.
+TEXT_CLSGLA100_00261_MYLLA_000_120	Felicidades por un trabajo bien hecho, <split(<string(gstr1)>, ,1)>. Bruce dice que estuviste a la altura.
+TEXT_CLSGLA100_00261_MYLLA_000_121	Has crecido muchísimo desde que te uniste a nosotros...y aunque me duela hacerlo, te ganaste el derecho.
+TEXT_CLSGLA100_00261_MYLLA_000_122	<split(<string(gstr1)>, ,1)>, te doy permiso para unirte a otros gremios.
+TEXT_CLSGLA100_00261_MYLLA_000_123	Como sin duda sabes, en Ul'dah están el Pugilists' Guild y el Thaumaturges' Guild. Pero también hay gremios donde puedes aprender tradiciones más pacíficas. Incluso puedes unirte a los gremios de otras naciones, si así lo deseas.
+TEXT_CLSGLA100_00261_MYLLA_000_124	Ten por seguro que respetaré tus decisiones...sean cuales sean.
+TEXT_CLSGLA100_00261_MYLLA_000_125	¡Siempre que no olvides que eres, ante todo, gladiator!
+TEXT_CLSGLA100_00261_SYSTEM_000_140	Ya tienes acceso al sistema Armoury. Para desbloquear las demás clases, habla con la recepción del gremio correspondiente y acepta su misión.
+TEXT_CLSGLA100_00261_SYSTEM_000_141	En Eorzea hay incontables disciplinas que un aventurero puede aprender. Pero para disfrutar más la experiencia, se recomienda dominar primero tu clase actual.
+TEXT_CLSGLA100_00261_MYLLA_000_150	Antes de que te vayas, quería preguntarte ─ Bruce cree que los lancers a sueldo buscaban cobrar una recompensa. ¿Qué opinas tú, <split(<string(gstr1)>, ,1)>?
+TEXT_CLSGLA100_00261_Q1_000_160	¿Qué dices?
+TEXT_CLSGLA100_00261_A1_000_161	Buscaban a un hombre llamado Aldis.
+TEXT_CLSGLA100_00261_A2_000_162	Sus motivos murieron con ellos.
+TEXT_CLSGLA100_00261_MYLLA_000_165	¿¡<italic(1)>Aldis<italic(0)>!? ¿¡Estás <if(gnum4,segura,seguro)> de que ese es el nombre que oíste!?
+TEXT_CLSGLA100_00261_MYLLA_000_166	Está... ¿está vivo? Pero ¿cómo...?
+TEXT_CLSGLA100_00261_MYLLA_000_170	Ya veo... Quizá sea mejor dejar atrás este sórdido asunto. Aun así, no puedo evitar preguntarme...
+TEXT_CLSGLA100_00261_SYSTEM_000_180	La siguiente misión de gladiator estará disponible con Mylla al llegar al nivel 15.
+TEXT_CLSGLA100_00261_POP_MESSAGE	Oyes los pasos de varias personas que se acercan...
+TEXT_CLSGLA100_00261_SCENE00005_INSTANCE_BATTLE_YESNO_TITLE	El deber llama. ¿Quieres comenzar<br>"CLSGLA100"?
+TEXT_CLSGLA100_00261_SCENE00005_INSTANCE_BATTLE_YESNO_YES	Sí
+TEXT_CLSGLA100_00261_SCENE00005_INSTANCE_BATTLE_YESNO_NO	No
+TEXT_CLSGLA100_00261_QIB_TODO001	¡Derrota a los lancers a sueldo Duskwight!
+TEXT_CLSGLA100_00261_GUILDMEMBER_A_BATTLETALK_004	¡Ja, estos bastardos de verdad me están haciendo sudar!
+TEXT_CLSGLA100_00261_GUILDMEMBER_A_BATTLETALK_005	¡Jo, parece que a alguien le mearon la sopa!
+TEXT_CLSGLA100_00261_GUILDMEMBER_A_BATTLETALK_PLAYER_HP50	¡Sí, así mismo! ¡Mantenlos lejos de mí!
+TEXT_CLSGLA100_00261_GUILDMEMBER_A_BATTLETALK_PLAYER_HP40	¡Intenta esquivar su lanza en vez de meterte en ella!
+TEXT_CLSGLA100_00261_GUILDMEMBER_A_BATTLETALK_GILMEN_HP80	¡Quítame a estos bastardos de encima! ¡Si yo muero, tú mueres!
+TEXT_CLSGLA100_00261_GUILDMEMBER_A_BATTLETALK_GILMEN_HP40	¡Una ayudita por aquí, <split(<string(gstr1)>, ,1)>!
+TEXT_CLSGLA100_00261_GUILDMEMBER_A_BATTLETALK_GILMEN_HP0	Ugh...por todos los infiernos...

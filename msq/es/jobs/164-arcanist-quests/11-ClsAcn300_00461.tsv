@@ -1,0 +1,98 @@
+key	text
+TEXT_CLSACN300_00461_SEQ_00	La maestra interina Thubyrgeim tiene instrucciones para ti de parte de la Foreseer K'lyhia.
+TEXT_CLSACN300_00461_SEQ_01	Thubyrgeim te explica que K'lyhia ya puso en marcha la gran estrategia que culminará con la caída de Doesmaga. Tu primera tarea en este audaz plan es entregarle una serie de instrucciones a un pescador llamado Rhylzirn, que está en Costa del Sol, en Eastern La Noscea.
+TEXT_CLSACN300_00461_SEQ_02	Tras entregarle la lista a Rhylzirn, te recompensa con un arenque fresco. Según el hosco pescador, tu siguiente tarea es llevarle el pescado a la cocinera, Opylona.
+TEXT_CLSACN300_00461_SEQ_03	Opylona, contenta de recibir el arenque recién pescado, insiste en que te lleves uno de sus pasteles de anguila caseros. Luego la cocinera te pasa las instrucciones de "tu colega arcanist": debes llevarle el pastel al señor Gegeruju en lugar de ceder a las exigencias de tu estómago.
+TEXT_CLSACN300_00461_SEQ_04	A cambio del pastel de anguila, el señor Gegeruju te recompensa con una pesada bolsa de gil. Pero antes de que puedas empezar a contar tu nueva fortuna, P'ebaloh te da la siguiente serie de instrucciones de K'lyhia. Parece que debes llevarle la abultada bolsa de monedas a Ealdgyth, la bailarina.
+TEXT_CLSACN300_00461_SEQ_05	Por lo que parece un precio algo exorbitante, le das la pesada bolsa a Ealdgyth a cambio de su gastado pareo y de un misterioso morral de cuero. Como te indicaron, llévale el pareo a Drogo, el capataz del almacén.
+TEXT_CLSACN300_00461_SEQ_06	Drogo, que todavía no se cree su buena suerte por haber recibido el pareo de Ealdgyth, te da una botella de vino añejo. Toma la botella y sírveles una copa a los tripulantes del <italic(1)>Morningstar<italic(0)> que beben en el Flying Shark.
+TEXT_CLSACN300_00461_SEQ_07	Impresionado con la calidad del vino, Hirskskrat te invita a subir al <italic(1)>Morningstar<italic(0)> para hablar de negocios con el capitán Doesmaga. Habla con Hirskskrat en el embarcadero cuando estés list<if(gnum4,a,o)> para partir.
+TEXT_CLSACN300_00461_SEQ_08	Las astutas tácticas de K'lyhia, sumadas a tu ejecución impecable, llevaron a una derrota rotunda del pirata Doesmaga. Con su pasado ya atrás, la vidente puede ver con claridad la realidad que deseó desde siempre. Vuelve al Arcanists' Guild y cuéntale a Thubyrgeim que K'lyhia decidió ir en busca del maestro del gremio.
+TEXT_CLSACN300_00461_SEQ_09	Entrégale el extraño morral de cuero a Thubyrgeim.
+TEXT_CLSACN300_00461_SEQ_10	Tras oír tus hazañas y enterarse de la decisión de K'lyhia, Thubyrgeim concluye que la unión del maestro del gremio y la vidente, ambos obsesionados con la arcanima, traerá grandes avances en el arte del arcanist. Como reconocimiento a tu papel de catalizador de estos sucesos, la maestra interina te recompensa con una nueva técnica y te anima a seguir mejorando en la disciplina que elegiste.
+TEXT_CLSACN300_00461_TODO_00	Entrégale la lista a Rhylzirn en Costa del Sol.
+TEXT_CLSACN300_00461_TODO_01	Entrégale el fresh herring a Opylona.
+TEXT_CLSACN300_00461_TODO_02	Entrégale el homemade eel pie a Gegeruju.
+TEXT_CLSACN300_00461_TODO_03	Entrégale el heavy purse a Ealdgyth.
+TEXT_CLSACN300_00461_TODO_04	Entrégale el well-worn pareo a Drogo.
+TEXT_CLSACN300_00461_TODO_05	Entrégales la bottle of vintage wine a los marineros.
+TEXT_CLSACN300_00461_TODO_06	Habla con Hirskskrat.
+TEXT_CLSACN300_00461_TODO_07	Informa a Thubyrgeim en el Arcanists' Guild.
+TEXT_CLSACN300_00461_TODO_08	Entrégale el leather satchel a Thubyrgeim.
+TEXT_CLSACN300_00461_THUBYRGEIM_000_001	L<if(gnum4,a,o)> esperaba, <split(<string(gstr1)>, ,1)>. Como siempre, las predicciones de K'lyhia resultan precisas casi al minuto. Y su mente está especialmente aguda con un enfrentamiento tan peligroso en el horizonte.
+TEXT_CLSACN300_00461_THUBYRGEIM_000_002	Los Yellowjackets nos contactaron con noticias de Doesmaga: parece que su buque mercante está anclado frente a la costa de Bloodshore.
+TEXT_CLSACN300_00461_THUBYRGEIM_000_003	Se rumorea que, cuando el pirata termine sus negocios allí, piensa emprender un largo viaje a Oriente. Pasará un buen tiempo antes de que vuelva a Limsa Lominsa.
+TEXT_CLSACN300_00461_THUBYRGEIM_000_004	Si dejamos pasar esta oportunidad, K'lyhia perderá la ocasión de saldar cuentas con Doesmaga ─ y corremos el riesgo de que la vidente vuelva a caer en la más negra melancolía.
+TEXT_CLSACN300_00461_THUBYRGEIM_000_005	El simple hecho de acercarse a Doesmaga será difícil. Pero K'lyhia ya formuló una solución y puso en marcha su gran estrategia.
+TEXT_CLSACN300_00461_THUBYRGEIM_000_006	Su primera tarea en esta empresa es viajar a Costa del Sol y entregarle estas indicaciones a un pescador llamado Rhylzirn. Más adelante recibirá más instrucciones.
+TEXT_CLSACN300_00461_RHYLZIRN_000_010	¿Qué quieres, <if(gnum4,muchacha,muchacho)>? Como ves, estoy con las manos ocupadas con la pesca...
+TEXT_CLSACN300_00461_RHYLZIRN_000_011	Ah, gracias por eso. Me dijeron que vendrías. Toma, tienes que llevarle uno de mis arenques a la cocinera, Opylona.
+TEXT_CLSACN300_00461_OPYLONA_000_020	Sí, ¿en qué puedo ayudarl<if(gnum4,a,o)>? El señor Gegeruju espera <if([gnum11<12],<if([gnum11<4],su cena,su desayuno)>,<if([gnum11<17],su almuerzo,su cena)>)> en cualquier momento...
+TEXT_CLSACN300_00461_OPYLONA_000_021	¿Un arenque fresco? ¡Vaya, al señor <italic(1)>sí<italic(0)> que le gusta un bocado de pescado asado <if([gnum11<12],<if([gnum11<4],por la noche,por la mañana)>,<if([gnum11<17],por la tarde,por la noche)>)>! ¡Hasta podría ganarme unas monedas extra en la paga de esta semana!
+TEXT_CLSACN300_00461_OPYLONA_000_022	Bueno, ¡<italic(1)>usted<italic(0)> se ganó uno de mis pasteles de anguila caseros! Aunque debo decirle que su colega arcanist insistió mucho en que le llevara el pastel al señor Gegeruju en lugar de comérselo usted.
+TEXT_CLSACN300_00461_GEGERUJU_000_030	¿Y qué l<if(gnum4,a,o)> trae a <italic(1)>usted<italic(0)> a mi ─ y uso el término en broma ─ humilde morada, <if(gnum4,estimada señora,estimado señor)>? Mmm, qué aroma tan celestial. ¿Acaso lleva consigo un pastel de anguila?
+TEXT_CLSACN300_00461_GEGERUJU_000_031	Qué loable que haya investigado los manjares que me deleitan antes de atreverse a interrumpir mis más sesudas y pesadas cavilaciones. Hablando de cosas pesadas ─ bueno, <italic(1)>yo<italic(0)> hablaba de ellas, al menos ─, tengo una bolsa de gil bien pesada para convencerl<if(gnum4,a,o)> de que renuncie a ese pastel...
+TEXT_CLSACN300_00461_PEBALOH_000_041	Un momento, por favor. Una inspectora de la Mealvaan's Gate me pidió que le entregara este mensaje a quien le llevara un pastel de anguila al señor Gegeruju.
+TEXT_CLSACN300_00461_TALK_SCENE00003_000_42	(-Mensaje-)<italic(1)>Tome la bolsa que recibió del señor Gegeruju y entréguesela a la bailarina Ealdgyth cuando se prepare para volver a casa.<br><br>K'lyhia<italic(0)>
+TEXT_CLSACN300_00461_EALDGYTH_000_050	¿Sí? Si buscas una bailarina, primero quiero ver tu dinero. Tengo tres hijos que alimentar y no tengo tiempo para charlas ociosas.
+TEXT_CLSACN300_00461_EALDGYTH_000_051	¡Ay, <italic(1)>qué<italic(0)> bolsa! ¡Mis tesoritos van a comer como reyes esta semana!
+TEXT_CLSACN300_00461_EALDGYTH_000_052	Y un trabajo tan sencillo, además. Me dijeron que vendrías, ¿sabes? A cambio del dinero, tengo que darte estas cosas.
+TEXT_CLSACN300_00461_EALDGYTH_000_053	El morral de cuero es de tu amiga Miqo'te, y el pareo es mío. Esto último tienes que llevárselo a Drogo, el capataz del almacén.
+TEXT_CLSACN300_00461_DROGO_000_060	No tengo tiempo para gente como tú: si no termino pronto mi trabajo, el patrón me va a clavar la cabeza en una pica. ¿Hm? ¿Que tienes algo para mí, dices?
+TEXT_CLSACN300_00461_DROGO_000_061	¡Oye, pero si este es el pareo de Ealdgyth!
+TEXT_CLSACN300_00461_DROGO_000_062	Esa muchacha Miqo'te dijo que alguien me traería un regalo que no podría rechazar, ¡y que me ensarten con una horca si no decía la pura verdad de los dioses! Toma, tienes que quedarte con esta botella de vino.
+TEXT_CLSACN300_00461_DROGO_000_063	Llévala al Flying Shark y sírveles una copa a los marineros que están bebiendo ahí. Eso es lo que me dijo que te dijera, en todo caso. Pero yo que tú me cuidaría las espaldas, <if(gnum4,muchacha,hijo)>: esos marineros son la banda de degolladores más mala que he visto en mi vida.
+TEXT_CLSACN300_00461_HIRSKSKRAT_000_070	Quieres que pruebe tu vino, ¿eh? Bueno, no soy de los que le dicen que no a un trago gratis.
+TEXT_CLSACN300_00461_HIRSKSKRAT_000_071	¡Por las tetas de Llymlaen! ¡Eso sí que es un vino de primera, maldita sea! ¡Si llevamos esto a Oriente, vamos a vender botellas por cajones!
+TEXT_CLSACN300_00461_HIRSKSKRAT_000_072	Te vienes con nosotros al <italic(1)>Morningstar<italic(0)>. El capitán va a querer hablar contigo.
+TEXT_CLSACN300_00461_Q1_000_001	¿Aceptas subir al <italic(1)>Morningstar<italic(0)>?
+TEXT_CLSACN300_00461_A1_000_001	Sí
+TEXT_CLSACN300_00461_A2_000_002	No
+TEXT_CLSACN300_00461_HIRSKSKRAT_000_073	¿Eh? ¿¡Estás rechazando mi propuesta de negocios!? Yo que tú lo pensaría otra vez.
+TEXT_CLSACN300_00461_HIRSKSKRAT_000_080	Así me gusta, <if(gnum4,muchacha,muchacho)>. Y en cuanto a ti, señorita bailarina, quédate cerca del viejo Hirskskrat ─ hace un frío de mil demonios en esos viajes largos por mar, je, je, je.
+TEXT_CLSACN300_00461_KLYHIA_000_081	(Shhh. Hablaremos después.)
+TEXT_CLSACN300_00461_KLYHIA_000_090	(Silencio, <split(<string(gstr1)>, ,1)>. Prepárese. Y en un rato voy a necesitar ese morral que le dio Ealdgyth...)
+TEXT_CLSACN300_00461_HIRSKSKRAT_000_090	¿Listos, entonces? Zarpamos en cuanto carguen el bote.
+TEXT_CLSACN300_00461_HIRSKSKRAT_000_101	Ah, buen trago y una buena mujer. Al capitán le va a gustar este botín.
+TEXT_CLSACN300_00461_KLYHIA_000_102	Le ruego que no me mire así. Era el método más práctico para entrar al barco.
+TEXT_CLSACN300_00461_KLYHIA_000_103	Ahora tomaré ese morral. Se lo devolveré después de sacar lo que necesito.
+TEXT_CLSACN300_00461_HIRSKSKRAT_000_104	¡Oigan! ¿¡Qué travesura traman ustedes dos!?
+TEXT_CLSACN300_00461_KLYHIA_000_105	Solo tomaba prestada algo de ropa. No querrá que me resfríe con esta brisa marina tan fresca, ¿verdad?
+TEXT_CLSACN300_00461_HIRSKSKRAT_000_106	Vas a entrar en calor bailando cuando te subamos al barco, muchacha.
+TEXT_CLSACN300_00461_HIRSKSKRAT_000_107	Mejor quítate esa túnica raída antes de ver al capitán.
+TEXT_CLSACN300_00461_KLYHIA_000_108	¡Claro, claro!
+TEXT_CLSACN300_00461_KLYHIA_000_109	¡Con gusto le mostraré la actuación que le espera!
+TEXT_CLSACN300_00461_DOSWMAGA_000_110	¡El perrito faldero de la perra de la Admiral! Volviste por esa lección, ¿eh?
+TEXT_CLSACN300_00461_KLYHIA_000_111	¡Hoy soy yo quien va a enseñar! ¡Mi clase tratará sobre la manipulación de la realidad mediante la estrategia aplicada!
+TEXT_CLSACN300_00461_DOSWMAGA_000_112	¡Basta de tanto maldito ladrido! ¡Cuando termine contigo, vas a recordar quién es tu verdadero amo!
+TEXT_CLSACN300_00461_DOSWMAGA_000_115	¡Maldita perrita rabiosa!
+TEXT_CLSACN300_00461_KLYHIA_000_116	¡Nuestro número no importa; es la estrategia la que ganará esta batalla!
+TEXT_CLSACN300_00461_KLYHIA_000_117	¡Prepárate, Doesmaga! ¡Con tu derrota me libraré de los grilletes que le pusiste a mi alma!
+TEXT_CLSACN300_00461_DOSWMAGA_000_118	Eso crees, ¿eh? ¿¡Crees que tus magias de lujo pueden con mi hoja!? ¡Estás muy equivocada!
+TEXT_CLSACN300_00461_KLYHIA_000_121	Doesmaga ya enfrenta la derrota. Huirá hacia la borda de estribor.
+TEXT_CLSACN300_00461_KLYHIA_000_122	Obvio. Lo siguiente será su intento de escapar al mar.
+TEXT_CLSACN300_00461_DOSWMAGA_000_123	¿¡Crees que manejas mis hilos!? ¿Que voy a bailar a tu ritmo?
+TEXT_CLSACN300_00461_TALK_DOSWMAGA_000_124	¡Pues no voy a caer en tus malditos trucos!
+TEXT_CLSACN300_00461_KLYHIA_000_125	Es en este momento cuando nota a los Yellowjackets que usted convocó al entregarle mis instrucciones explícitas a Rhylzirn.
+TEXT_CLSACN300_00461_RHYLZIRN_000_126	¡Fuiste un necio al volver, Doesmaga! Oí que te gustan los grilletes, así que trajimos unos especialmente para ti.
+TEXT_CLSACN300_00461_KLYHIA_000_127	Así concluye la clase de hoy.
+TEXT_CLSACN300_00461_KLYHIA_000_128	Gracias, <split(<string(gstr1)>, ,1)>. Esta estrategia no habría tenido éxito sin su ejecución impecable.
+TEXT_CLSACN300_00461_KLYHIA_000_129	...Lo que indica que mis tácticas aún necesitan trabajo. Hay que dejar margen para alguna pequeña desviación en el desempeño.
+TEXT_CLSACN300_00461_KLYHIA_000_130	Pero creo que ahora entiendo dónde fallaron mis cálculos: no basta con desear moldear la realidad; también hay que comprender por completo la realidad que uno desea obtener.
+TEXT_CLSACN300_00461_KLYHIA_000_131	¡Es hora de que busque a nuestro maestro del gremio!
+TEXT_CLSACN300_00461_KLYHIA_000_132	Le ruego que le transmita a la señora Thubyrgeim mis mejores deseos y mi gratitud por todo lo que hizo por mí.
+TEXT_CLSACN300_00461_KLYHIA_000_133	¡La verdadera prueba de mis estrategias empieza ahora!
+TEXT_CLSACN300_00461_YELLOW_000_139	Tiene nuestra gratitud. Sin su valentía y su habilidad, los Yellowjackets seguiríamos dando tumbos tras la estela de Doesmaga. Le ruego que también le transmita nuestros saludos a la maestra interina Thubyrgeim.
+TEXT_CLSACN300_00461_THUBYRGEIM_000_140	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. Tengo mucho que preguntarle, pero primero, ¿me da el morral que recibió durante su tarea?
+TEXT_CLSACN300_00461_THUBYRGEIM_000_150	¿Me da el morral de cuero que recibió durante su tarea?
+TEXT_CLSACN300_00461_THUBYRGEIM_000_151	Es que la dueña original necesita que le devuelvan su vestuario, ¿entiende? Me aseguraré de que todo se devuelva sano y salvo.
+TEXT_CLSACN300_00461_THUBYRGEIM_000_152	Ahora, hablemos de K'lyhia. Me alegra saber que por fin se liberó para perseguir lo que desea su corazón. Y es gracias a usted que la vidente despertó ante las cadenas que ella misma se había impuesto.
+TEXT_CLSACN300_00461_THUBYRGEIM_000_153	La brillantez de las estrategias de K'lyhia la cegaba ante sus propios sentimientos, y me dolía verla sufrir tanto.
+TEXT_CLSACN300_00461_THUBYRGEIM_000_154	Su ejemplo puede incluso animar a K'lyhia a mejorar sus habilidades de combate, aunque eso seguro llegará con el tiempo ─ después de todo, piensa estudiar bajo la instrucción directa del maestro del gremio. Imagine a esos dos arcanists obsesivos, y la complejidad de las tácticas que van a desarrollar...
+TEXT_CLSACN300_00461_THUBYRGEIM_000_155	Bien podría ser que lo que usted hizo para reunirlos resulte el catalizador que encienda una nueva era de invención en el arte de la arcanima.
+TEXT_CLSACN300_00461_THUBYRGEIM_000_156	Usted también debería perfeccionar su disciplina si quiere seguir el ritmo de todo lo que sin duda vendrá. Con ese fin, le ofrezco una nueva técnica, una que espero le permita hacer retroceder a sus enemigos con más facilidad en el campo de batalla.
+TEXT_CLSACN300_00461_QIB_001_TODO_1	¡Barre a la tripulación del <italic(1)>Morningstar<italic(0)> y derrota a Doesmaga!
+TEXT_CLSACN300_00461_QIB_KLYHIA_BATTLETALK_02	¡<split(<string(gstr1)>, ,1)>!<br>¡Esta geometría cambiará el rumbo de la batalla!
+TEXT_CLSACN300_00461_QIB_DOSWMAGA_BATTLETALK_03	¡Peleen, babosas de mar inútiles!<br>¡Debería pasarlos a todos por la quilla!
+TEXT_CLSACN300_00461_QIB_KLYHIA_BATTLETALK_05	¡Tu tripulación maltratada no está a la altura, Doesmaga!<br>¡Calculo nuestras probabilidades de victoria en 99%!
+TEXT_CLSACN300_00461_QIB_DOSWMAGA_BATTLETALK_06	Hmph, así que puedes con unas cuantas ratas de cubierta.<br>¡Mi hacha va a convertir tus planes mezquinos en una ruina sangrienta!
