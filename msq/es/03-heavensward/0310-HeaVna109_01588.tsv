@@ -1,0 +1,27 @@
+key	text
+TEXT_HEAVNA109_01588_SEQ_00	Parece que Lord Artoirel no quiere dejar pasar ninguna oportunidad de dar con el escondite de los herejes.
+TEXT_HEAVNA109_01588_SEQ_01	El rastro que hayan dejado los herejes casi seguro desaparecerá con la próxima nevada, y con él toda esperanza de seguirlos hasta su refugio. Por eso Lord Artoirel te encarga la nada envidiable tarea de seguir el rastro sin compañía, mientras él lleva al caballero herido a Falcon's Nest y reúne refuerzos. Está claro que el joven lord o confía muchísimo en tus habilidades o tiene muchas ganas de librarse de ti. Empieza a buscar en la zona al norte de Camp Riversmeet, donde según el caballero ocurrió la emboscada.
+TEXT_HEAVNA109_01588_SEQ_02	En la guarida secreta escondida bajo Gorgagne Mills te reencuentras con una vieja enemiga: Lady Iceheart. Pero antes de que estalle la violencia, Midgardsormr se revela ante la líder de los herejes, que se queda atónita al ver al antiguo dragón en tu compañía. Sin ganas de pelear por un momento, revela que ella también tiene el don del Echo, y que gracias a él vio la verdad de la Dragonsong War a través de los ojos de Hraesvelgr, uno de la primera camada. Al compartir esta revelación, su voz se llena de una convicción renovada... pero cuando le recuerdas la matanza indiscriminada que cometieron los dravanianos a los que ella ayudó a cruzar las barreras, pronto vuelven sus dudas. Aunque no piensa abandonar su causa, jura que enmendará las cosas. Pero no dice cómo ni cuándo...
+TEXT_HEAVNA109_01588_SEQ_03	Un momento tarde, Lord Artoirel llega con refuerzos, y los caballeros se ponen a revisar la zona. Sin embargo, no encuentran rastro de más herejes, ni de Lady Iceheart, a la que dejaste escapar.
+TEXT_HEAVNA109_01588_SEQ_04	Con un atisbo minúsculo de respeto, Lord Artoirel piensa en lo difícil que debió de ser establecer un puesto en un lugar tan remoto. En cualquier caso, hay pocos motivos para quedarse, y parece tener ganas de volver a Falcon's Nest.
+TEXT_HEAVNA109_01588_TODO_00	Busca el rastro de los herejes al norte de Camp Riversmeet.
+TEXT_HEAVNA109_01588_TODO_01	Busca el rastro de los herejes al norte de Camp Riversmeet.
+TEXT_HEAVNA109_01588_TODO_02	Habla con Artoirel.
+TEXT_HEAVNA109_01588_ARTOIREL_000_000	Tiene razón, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Lo que quede del rastro de los herejes desaparecerá con la próxima nevada. Pero no podemos dejar aquí a nuestro amigo...
+TEXT_HEAVNA109_01588_ARTOIREL_000_001	Lo llevaré a Falcon's Nest y reuniré refuerzos. Mientras tanto, quiero que busque señales del ataque en la zona al norte del campamento. Si encuentra el rastro de los herejes, no me espere: sígalo de inmediato hasta su guarida, y asegúrese de dejarme huellas claras.
+TEXT_HEAVNA109_01588_ARTOIREL_000_002	...Sé que este plan puede ponerl<if(gnum4,a,o)> en grave peligro, pero no veo otra alternativa.
+TEXT_HEAVNA109_01588_ARTOIREL_000_003	Puede estar segur<if(gnum4,a,o)> de que no estaremos muy lejos. Y, <split(<string(gstr1)>, ,1)>... gracias.
+TEXT_HEAVNA109_01588_ARTOIREL_000_004	No se preocupe por nuestro herido. Cuando recupere el aliento, lo llevaré a salvo a Falcon's Nest.
+TEXT_HEAVNA109_01588_KIGHTA01588_000_005	To... todavía puedo pelear... \<tos> \<resuello>
+TEXT_HEAVNA109_01588_SYSTEM_000_010	Las huellas siguen hacia el norte...
+TEXT_HEAVNA109_01588_ARTOIREL_000_020	¡<if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,2)>! ¡Alabada sea Halone, está viv<if(gnum4,a,o)>! Vinimos lo más rápido que pudimos, pero veo que llegamos tarde...
+TEXT_HEAVNA109_01588_ARTOIREL_000_021	Así que se escondían en el sótano de esta granja...
+TEXT_HEAVNA109_01588_ARTOIREL_000_022	Es una lástima que Lady Iceheart haya escapado, ¡pero eso no resta mérito a su hazaña! ¡Los tenemos huyendo!
+TEXT_HEAVNA109_01588_ARTOIREL_000_023	Le asestó un duro golpe a nuestro enemigo <if([gnum11<12],<if([gnum11<4],esta noche,hoy)>,<if([gnum11<17],hoy,esta noche)>)>, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>, y me aseguraré de que se reconozcan sus esfuerzos.
+TEXT_HEAVNA109_01588_ARTOIREL_000_030	Establecer un puesto en un lugar tan remoto no pudo haber sido fácil. Demonios tenaces.
+TEXT_HEAVNA109_01588_KIGHTB01588_000_031	Seguimos revisando la zona, <if(gnum4,señorita,señor)>, pero por ahora los únicos herejes que encontramos son los que usted dejó.
+TEXT_HEAVNA109_01588_QIB_TODO001	¡Encuentra el escondite de los herejes!
+TEXT_HEAVNA109_01588_QIB_TODO002	¡Sigue al hereje que huye!
+TEXT_HEAVNA109_01588_QIB_TODO003	¡Derrota a los herejes!
+TEXT_HEAVNA109_01588_QIB_TODO004	¡Revisa el escondite de los herejes!
+TEXT_HEAVNA109_01588_HERETIC01588_BATTLETALK_000_100	N-no, no voy a... ¡Urrrgh!

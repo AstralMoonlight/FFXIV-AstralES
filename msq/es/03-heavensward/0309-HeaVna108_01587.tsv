@@ -1,0 +1,37 @@
+key	text
+TEXT_HEAVNA108_01587_SEQ_00	En tiempos como estos, Ser Redwald se alegra de contar con <if(gnum4,veteranas,veteranos)> como tú.
+TEXT_HEAVNA108_01587_SEQ_01	Una partida de reconocimiento enviada al norte, a Riversmeet, en busca del escondite de los herejes desapareció, y aunque no sabe por qué, Ser Redwald cree que no hay tiempo que perder. Por eso envió varias partidas a buscar a los caballeros desaparecidos, cada una a una zona distinta. Tú y Lord Artoirel formarán una de ellas. Busca a tu compañero y habla con él cuando estés list<if(gnum4,a,o)> para partir.
+TEXT_HEAVNA108_01587_SEQ_02	Lord Artoirel te informa que deben revisar la zona cercana a Camp Riversmeet. Como Falcon's Nest, fue abandonado después de la Calamidad, pero eso no descarta que los caballeros desaparecidos se hayan refugiado allí. Sigue al joven lord hasta los acantilados que dominan el campamento desde el sur.
+TEXT_HEAVNA108_01587_SEQ_03	Salvo por algunas bestias salvajes, no ves señales de vida en el campamento de abajo. Como no hay forma segura de bajar por los acantilados, Lord Artoirel te pide que lo sigas hasta un sendero que baja al lecho del río, al este del Black Iron Bridge.
+TEXT_HEAVNA108_01587_SEQ_04	Lord Artoirel se detiene un momento a buscar rastros del paso de la partida de reconocimiento, pero no encuentra ninguno. Aun así, con nevadas tan fuertes, dice, eso no garantiza que no hayan pasado por aquí. En cualquier caso, todavía no revisaron el campamento en sí. Lord Artoirel sigue adelante, y tú también debes hacerlo.
+TEXT_HEAVNA108_01587_SEQ_05	Te topas con una banda de herejes a punto de matar a uno de los caballeros desaparecidos. Te clavan miradas asesinas y atacan, pero no son rival para el Warrior of Light. El caballero todavía no se levanta. Averigua si puedes hacer algo.
+TEXT_HEAVNA108_01587_SEQ_06	Atraído por el ruido de la pelea, Lord Artoirel abandona su guardia fuera del campamento y corre a tu lado. Juntos interrogan al caballero herido, que parece ser el único sobreviviente de la partida de reconocimiento, emboscada por los herejes en plena ventisca. Convencido de que el escondite de los herejes está en algún lugar al norte, les ruega que lo ayuden a seguir buscando ─ aunque es evidente que no está en condiciones...
+TEXT_HEAVNA108_01587_TODO_00	Habla con Artoirel en Falcon's Nest.
+TEXT_HEAVNA108_01587_TODO_01	Sigue a Artoirel hasta los acantilados que dominan Camp Riversmeet.
+TEXT_HEAVNA108_01587_TODO_02	Sigue a Artoirel hasta los acantilados al este del Black Iron Bridge.
+TEXT_HEAVNA108_01587_TODO_03	Busca a los caballeros desaparecidos en Camp Riversmeet.
+TEXT_HEAVNA108_01587_TODO_04	Ayuda al caballero herido.
+TEXT_HEAVNA108_01587_REDWALD_000_000	Tan tranquil<if(gnum4,a,o)> como siempre, aunque sin duda percibe la gravedad de la situación. <if(gnum4,Una veterana,Un veterano)> de pies a cabeza, tal como dijo Lord Drillemont. Bien.
+TEXT_HEAVNA108_01587_REDWALD_000_001	Perdimos contacto con una partida de reconocimiento que enviamos al norte, a Riversmeet, en busca del escondite de los herejes.
+TEXT_HEAVNA108_01587_REDWALD_000_002	No sabemos si los atacaron o si sufrieron alguna otra desgracia. Pero, sea cual sea la causa, debemos actuar rápido, porque esta es una tierra dura e implacable que puede cobrarse ─ y se cobró ─ la vida de muchos hombres.
+TEXT_HEAVNA108_01587_REDWALD_000_003	Para encontrar a nuestros caballeros lo antes posible, asigné a cada partida una zona distinta. Usted y Lord Artoirel trabajarán juntos. Búsquelo cuando esté list<if(gnum4,a,o)> para partir, y buena suerte.
+TEXT_HEAVNA108_01587_REDWALD_000_004	Lord Artoirel tiene un mapa con las zonas asignadas. Traiga a nuestros caballeros a casa, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>.
+TEXT_HEAVNA108_01587_ARTOIREL_000_010	Parece que nos tocó la zona cercana a Camp Riversmeet, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>.
+TEXT_HEAVNA108_01587_ARTOIREL_000_011	Por si no lo sabe, el campamento fue uno de los muchos que nuestros caballeros tuvieron que abandonar al retirarnos de las tierras altas del oeste de Coerthas ─ uno de los muchos sacrificios que siguieron a la Calamidad.
+TEXT_HEAVNA108_01587_ARTOIREL_000_012	No me sorprendería que nuestros caballeros se hubieran refugiado allí. Pero hay una sola forma de averiguarlo. ¡En marcha!
+TEXT_HEAVNA108_01587_ARTOIREL_000_020	Ahí, debajo de nosotros: Camp Riversmeet, o lo que queda de él.
+TEXT_HEAVNA108_01587_ARTOIREL_000_021	No veo forma de bajar los acantilados sin peligro desde aquí. Si cayéramos, las bestias de abajo acabarían con nosotros en un instante. Sígame ─ conozco un sendero que baja al lecho del río, al este del Black Iron Bridge.
+TEXT_HEAVNA108_01587_ARTOIREL_000_030	Si la partida de reconocimiento pasó por aquí, no veo ningún rastro.
+TEXT_HEAVNA108_01587_ARTOIREL_000_031	Aun así, puede que las últimas tormentas hayan borrado sus huellas, o que hayan tomado otro camino a Camp Riversmeet. Hasta que revisemos el campamento, no podemos estar seguros. Debemos seguir.
+TEXT_HEAVNA108_01587_ARTOIREL_000_032	Hmmm... El campamento parece desierto, y aun así no puedo quitarme la sensación de que... Hm. <if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,2)>, le ruego que revise el campamento mientras yo vigilo. No podemos dejar que el enemigo nos tome por sorpresa.
+TEXT_HEAVNA108_01587_KIGHT01583_000_033	Están... están por todas partes...
+TEXT_HEAVNA108_01587_BALLOON_000_034	¡Que no escape nadie!
+TEXT_HEAVNA108_01587_ARTOIREL_000_040	¿Está bien? Oí ruidos de pelea.
+TEXT_HEAVNA108_01587_KIGHT01583_000_041	Gracias... gracias a la Fury... Pensé que nadie vendría...
+TEXT_HEAVNA108_01587_ARTOIREL_000_042	Tres herejes muertos y un caballero a salvo, así sin más. Sin duda está a la altura de su fama, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>.
+TEXT_HEAVNA108_01587_ARTOIREL_000_043	¿Qué pasó aquí, ser? ¿No queda nadie más?
+TEXT_HEAVNA108_01587_KIGHT01583_000_044	Nos sorprendió una ventisca feroz al norte de aquí, mi señor. \<tos> \<resuello> Nada más que blanco por todas partes... hasta que vimos figuras que se movían hacia nosotros ─ que corrían hacia nosotros, con el acero desnudo en las manos.
+TEXT_HEAVNA108_01587_KIGHT01583_000_045	Abatí a algunos de esos bastardos que se acercaron, pero los otros... Hubo gritos y alaridos, pero al rato solo oía voces desconocidas... Llegué hasta el campamento con la esperanza de esconderme hasta que pasara la tormenta.
+TEXT_HEAVNA108_01587_ARTOIREL_000_045	Pero los herejes lo siguieron hasta aquí.
+TEXT_HEAVNA108_01587_KIGHT01583_000_046	Sí... \<tos> \<tos> ...Mi señor, el escondite de los herejes está en algún lugar al norte. Debemos movernos rápido, antes de que la nieve entierre todo rastro de su paso. Por mis hermanos, debemos... debemos... \<tos> \<resuello>
+TEXT_HEAVNA108_01587_ARTOIREL_000_047	Tenga fe, ser. Se hará justicia. Pero primero debemos ponerlo a salvo.

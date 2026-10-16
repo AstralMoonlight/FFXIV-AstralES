@@ -1,0 +1,60 @@
+key	text
+TEXT_HEAVNA707_01669_SEQ_00	El nodo guía esperó tu llegada al Flagship con su paciencia de siempre.
+TEXT_HEAVNA707_01669_SEQ_01	Según el nodo guía, estás a pocos pasos de tu destino. Pero parece que se detectaron intrusos más adelante. Sigue al nodo hacia el corazón de la isla y prepárate para defenderte.
+TEXT_HEAVNA707_01669_SEQ_02	Eliminaste a las tropas imperiales y aseguraste la zona. Habla con el nodo guía para que te dé acceso al Aetherochemical Research Facility.
+TEXT_HEAVNA707_01669_SEQ_03	Tras abrirte el camino al Aetherochemical Research Facility, el nodo guía se despide y se desactiva, quizá por otros cinco milenios. Después de echarle una última mirada a la forma inmóvil de Gilly, vuelves a concentrarte en los desafíos del presente. En algún lugar de adentro te esperan el arzobispo y sus caballeros. Prepárate para lo peor y sigue la persecución.<br><br>※Se puede entrar al Aetherochemical Research Facility con otros jugadores mediante el Duty Finder, o con un grupo de NPC mediante Duty Support. Ambos sistemas están disponibles en el menú principal y en la entrada del dungeon.
+TEXT_HEAVNA707_01669_SEQ_04	Mientras te abres paso por el Aetherochemical Research Facility, te encuentras cara a cara con Lahabrea e Igeyorhm. Para eliminarte, los Ascians atacan a la vez, pero con la bendición de Hydaelyn recuperada, eres más que rival para ellos.
+TEXT_HEAVNA707_01669_SEQ_05	Al ver perdida la batalla, Igeyorhm intenta huir, pero antes de que pueda escapar, la destruyes con una espada de Luz forjada con el aether que quedaba en el Eye. Por desgracia, te quedas sin forma de abatir a Lahabrea. Justo cuando parece seguro que el Ascian se te escapará, llegan el arzobispo y sus caballeros, cargando el cuerpo de Haldrath... y el gemelo perdido del Eye. Tras recibir en sí mismo el alma del legendario rey Thordan, el arzobispo conjura una espada divina con el poder del segundo Eye y ejecuta sin más a Lahabrea. Dictado el juicio, el autoproclamado rey-dios se dispone a irse, no sin antes lanzarte un desafío. Acéptalo, y pon fin a su locura de una vez por todas.<br><br>※Se puede entrar al Singularity Reactor mediante el Duty Finder.
+TEXT_HEAVNA707_01669_SEQ_06	Al final de una lucha titánica, vences a Thordan y a sus caballeros, y pones fin a su sueño demente de fundar un nuevo orden mundial.
+TEXT_HEAVNA707_01669_SEQ_07	Todavía sin aliento por el esfuerzo, levantas la vista y ves a Estinien, que recoge en silencio y con gesto sombrío el Eye y su gemelo. Por desgracia, al hacerlo, el dragoon cae presa de la influencia persistente de Nidhogg, y el gran dragón lo toma como recipiente de su ira. Apenas se va, la instalación empieza a derrumbarse a tu alrededor, y Midgardsormr vuelve a aparecer para ponerte a salvo.<br><br>Todavía conmocionad<if(gnum4,a,o)> por lo que viste, te reúnes con tus compañeros a bordo del <italic(1)>Excelsior<italic(0)> y vuelves a Ishgard, donde te reciben como a <if(gnum4,una heroína,un héroe)>. En el embarcadero de aeronaves, Midgardsormr se dirige a Aymeric, y los dos hablan con franqueza del futuro; su encuentro marca el comienzo del camino hacia la paz entre el hombre y el dragón.<br><br>Unos días después, la Holy See vuelve por fin a la Eorzean Alliance en una ceremonia emotiva a la que asisten los líderes de las cuatro ciudades<-->estado. Una recompensa justa por tus esfuerzos, sin duda, pero que te hubiera gustado que vieran Haurchefant, Ysayle y Estinien... Habla con Alphinaud en la Fortemps Manor y escucha lo que piensa de este momento trascendental.
+TEXT_HEAVNA707_01669_SEQ_08	Alphinaud está eufórico porque su sueño de una Eorzea unida por fin se hizo realidad. Aunque los cambios que vienen traerán inevitablemente agitación, confía en que, con esfuerzo, les seguirán la paz y la prosperidad. Junto con tus compañeros Scions, haz tu parte para que así sea.
+TEXT_HEAVNA707_01669_TODO_00	Habla con el nodo guía y derrota a los enemigos que aparezcan.
+TEXT_HEAVNA707_01669_TODO_01	Habla con el nodo guía.
+TEXT_HEAVNA707_01669_TODO_02	Entra al Aetherochemical Research Facility.
+TEXT_HEAVNA707_01669_TODO_03	Entra al Aetherochemical Research Facility.
+TEXT_HEAVNA707_01669_TODO_04	Enfrenta a Thordan VII en el Singularity Reactor.
+TEXT_HEAVNA707_01669_TODO_05	Enfrenta a Thordan VII en el Singularity Reactor.
+TEXT_HEAVNA707_01669_TODO_06	Habla con Alphinaud en la Fortemps Manor.
+TEXT_HEAVNA707_01669_GUIDANCESYSTEM_000_000	\<bip> Bienvenid<if(gnum4,a,o)> al Flagship, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,1)>. Ya casi llega a su destino.
+TEXT_HEAVNA707_01669_GUIDANCESYSTEM_000_001	\<bip> \<blup> ¡ADVERTENCIA! Se detectaron intrusos en las cercanías. Elimínelos si desea continuar.
+TEXT_HEAVNA707_01669_GUIDANCESYSTEM_000_002	\<bip> \<blup> ¡ADVERTENCIA! Se acercan intrusos.
+TEXT_HEAVNA707_01669_GUIDANCESYSTEM_000_010	\<bip> Zona asegurada. Levantando la restricción de acceso al Aetherochemical Research Facility...
+TEXT_HEAVNA707_01669_GUIDANCESYSTEM_000_011	Restricción levantada. Puede entrar a la instalación cuando lo desee. Finalizando la guía.
+TEXT_HEAVNA707_01669_GUIDANCESYSTEM_100_011	\<bip> Se detectó una fuente de energía desconocida dentro del Aetherochemical Research Facility. Proceda con cautela.
+TEXT_HEAVNA707_01669_GUIDANCESYSTEM_101_011	Fue un placer servirl<if(gnum4,a,o)>, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,1)>. Por favor, salude de mi parte al señor Wedge.
+TEXT_HEAVNA707_01669_GUIDANCESYSTEM_102_011	Desactivando... \<blup>
+TEXT_HEAVNA707_01669_SYSTEM_000_012	El nodo guía dejó de funcionar.
+TEXT_HEAVNA707_01669_EVENTAREA_WARP_YESNO_TITLE	¿Ir al centro de Azys Lla?
+TEXT_HEAVNA707_01669_EVENTAREA_WARP_YESNO_YES	Sí
+TEXT_HEAVNA707_01669_EVENTAREA_WARP_YESNO_NO	No
+TEXT_HEAVNA707_01669_ALPHINAUD_000_020	Después de largos años de distanciamiento, Ishgard vuelve a unirse a sus naciones hermanas en la Alliance. No hay palabras para expresar mi alegría.
+TEXT_HEAVNA707_01669_ALPHINAUD_000_021	Nada de esto habría sido posible sin usted, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>.
+TEXT_HEAVNA707_01669_ALPHINAUD_000_022	Se avecinan cambios en Eorzea. Aunque inevitablemente traerán algo de agitación, con trabajo duro seguro que les seguirán la paz y la prosperidad.
+TEXT_HEAVNA707_01669_ALPHINAUD_100_022	Y sin embargo, aun mientras esperamos la llegada de una nueva era, debemos estar atentos a las viejas amenazas.
+TEXT_HEAVNA707_01669_ALPHINAUD_101_022	Los señores de Garlemald no renunciaron a sus pretensiones sobre Eorzea, y tendremos que enfrentarlos de nuevo antes de mucho. Y además está el asunto de nuestro compañero Estinien, tomado en cuerpo y alma por Nidhogg... Si hay una forma de rescatarlo, debemos encontrarla.
+TEXT_HEAVNA707_01669_ALPHINAUD_102_022	Basta con decir que el camino que tenemos por delante no carece de desafíos, pero juntos los superaremos.
+TEXT_HEAVNA707_01669_TATARUL_000_032	Si la Eorzean Alliance puede recuperar su antigua gloria, ¡los Scions of the Seventh Dawn también! ¡Encontremos a nuestros amigos perdidos y empecemos de nuevo!
+TEXT_HEAVNA707_01669_BUTLER01580_200_000	Cuando le di la bienvenida por primera vez frente al Arc of the Worthy, nunca imaginé que terminaría guiando el rumbo mismo de nuestra nación. Me enorgullece haber sido testigo de la historia.
+TEXT_HEAVNA707_01669_LUCIA_200_000	Es usted <if(gnum4,una verdadera heroína,un verdadero héroe)>, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>. Los juglares cantarán sus hazañas durante generaciones.
+TEXT_HEAVNA707_01669_LUCIA_200_001	El camino de la reforma será largo y difícil, pero Ser Aymeric no descansará hasta llegar al final. Y yo caminaré con él a cada paso.
+TEXT_HEAVNA707_01669_HILDA_200_000	¿Sabes? Verte llegar volando a lomos de un dragón me ayudó a ver las cosas de otra manera. Digo, si el hombre y el dragón pueden dejar de lado sus diferencias, ¿qué tan difícil puede ser para el resto de nosotros?
+TEXT_HEAVNA707_01669_HILDA_200_001	Claro que nuestras vidas no van a cambiar de la noche a la mañana, y costará cerrar la brecha entre los de alta cuna y los de cuna humilde, pero estoy segura de que al final todo va a salir bien.
+TEXT_HEAVNA707_01669_ELAISSE_200_000	El regreso de Ishgard a la Eorzean Alliance le dio nueva vida al Jeweled Crozier. Apenas se hizo el anuncio, los mercaderes empezaron a buscar oportunidades en los mercados extranjeros.
+TEXT_HEAVNA707_01669_GIBRILLONT_200_000	Una pena que la señorita Tataru haya tenido que irse. Nos acostumbramos bastante a tenerla por aquí.
+TEXT_HEAVNA707_01669_ARTOIREL_200_000	Confieso que la ceremonia me conmovió más de lo esperado... Cada uno de nosotros debe hacer su parte para construir un futuro mejor para Ishgard, y más que nadie los que decimos gobernar.
+TEXT_HEAVNA707_01669_EMMANELLAIN_200_000	¡Ahí está, <if(gnum4,mi buena amiga,mi buen amigo)>! ¡Tenemos que ir juntos a la taberna, y pronto! ¡Todos mis amigos exigen que les presente al Warrior of Light, y no aceptan un no por respuesta!
+TEXT_HEAVNA707_01669_HONOROIT_200_000	Le ruego que no haga caso a Lord Emmanellain, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Seguro tiene asuntos mucho más urgentes. Y mi señor, por su parte, tiene <italic(1)>clases<italic(0)> a las que asistir...
+TEXT_HEAVNA707_01669_HONOROIT_200_001	Verá, volvió a entrenar con la espada, y mostró una dedicación admirable... casi siempre. Creo que quiere recoger el legado de Lord Haurchefant, pero para lograrlo va a necesitar toda la ayuda posible, y las menos <italic(1)>distracciones<italic(0)> posibles.
+TEXT_HEAVNA707_01669_VIDOFNIR_200_000	Sed bienvenid<if(gnum4,a,o)> aquí, amig<if(gnum4,a,o)> de Ysayle. Me he enterado de todo lo ocurrido.
+TEXT_HEAVNA707_01669_VIDOFNIR_200_001	Ysayle era para mí como una hermana de camada, y su muerte no es menos trágica por lo breve de la vida del hombre. La echaré de menos...
+TEXT_HEAVNA707_01669_MATOYA_200_000	A mí no me importa mucho la política. Mucha charla y poca acción.
+TEXT_HEAVNA707_01669_MATOYA_200_001	Yo que tú me olvidaría de todo ese alboroto y me tomaría un tiempo para mí. Hasta tú tienes que ver que te lo ganaste.
+TEXT_HEAVNA707_01669_EDMONT_000_023	Durante la ceremonia sentí la presencia de Haurchefant. Nos miraba desde lo alto, con orgullo en los ojos y esa sonrisa de siempre en los labios...
+TEXT_HEAVNA707_01669_AYMERIC_000_024	Permítame agradecerle, <split(<string(gstr1)>, ,1)>... no como comandante supremo de los Temple Knights, sino como humilde ciudadano de Ishgard.
+TEXT_HEAVNA707_01669_AYMERIC_000_025	Aunque llegó a nosotros como foraster<if(gnum4,a,o)>, lo arriesgó todo para darnos esta oportunidad de cambio. Y no la desperdiciaremos, se lo juro. Nos levantaremos de las cenizas de nuestro oscuro pasado y reconstruiremos nuestra nación sobre la base de la verdad y la igualdad.
+TEXT_HEAVNA707_01669_LUCIA_000_026	Es usted <if(gnum4,una verdadera heroína,un verdadero héroe)>, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>. Los juglares cantarán sus hazañas durante generaciones.
+TEXT_HEAVNA707_01669_HILDA_000_027	Verte llegar volando a lomos de un dragón me ayudó a ver las cosas de otra manera. Si el hombre y el dragón pueden ser amigos, ¿qué tan difícil puede ser llevarnos bien entre nosotros?
+TEXT_HEAVNA707_01669_HILDA_000_028	Claro que costará tiempo y esfuerzo cerrar la brecha entre los de alta cuna y los de cuna humilde, pero estoy segura de que al final todo va a salir bien.
+TEXT_HEAVNA707_01669_EMMANELLAIN_000_029	¡Es la comidilla de la Holy See, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>! ¡Y por asociación, me gusta pensar que yo también!
+TEXT_HEAVNA707_01669_ARTOIREL_000_030	Aunque Haurchefant ya no está, su espíritu vive en todos nosotros.
+TEXT_HEAVNA707_01669_ARTOIREL_000_031	Por mi parte, me esforzaré por ser un caballero digno de ese nombre. ¡Cuida de mí, hermano!

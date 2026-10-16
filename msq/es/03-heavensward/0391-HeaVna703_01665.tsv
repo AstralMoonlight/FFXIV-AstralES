@@ -1,0 +1,51 @@
+key	text
+TEXT_HEAVNA703_01665_SEQ_00	El antiquísimo nodo guía espera instrucciones con paciencia.
+TEXT_HEAVNA703_01665_SEQ_01	Parece que el nodo guía puede mostrarles el camino al Aetherochemical Research Facility, en el "Flagship", la isla central de Azys Lla. Pregúntale a Alphinaud qué le parece seguir a esta máquina allagan sospechosamente servicial.
+TEXT_HEAVNA703_01665_SEQ_02	A falta de una forma más segura de llegar a su destino, se decide confiar en el nodo guía. Sigue al nodo hasta Matter Conduit II-III y pídele más instrucciones.
+TEXT_HEAVNA703_01665_SEQ_03	Si hay que creerle al nodo guía, el conducto de materia los enviará al Beta Quadrant. Usa el transportador allagan del centro del conducto cuando estés list<if(gnum4,a,o)> para seguir.
+TEXT_HEAVNA703_01665_SEQ_04	Usas el conducto de materia y apareces, tal como te prometieron, en el Beta Quadrant. Pídele más instrucciones al nodo guía.
+TEXT_HEAVNA703_01665_SEQ_05	De una manera poco propia de una máquina, el nodo guía expresa sorpresa de que el conducto todavía funcione bien después de más de cinco milenios sin uso.
+TEXT_HEAVNA703_01665_TODO_00	Habla con Alphinaud.
+TEXT_HEAVNA703_01665_TODO_01	Habla con el nodo guía en Matter Conduit II-III.
+TEXT_HEAVNA703_01665_TODO_02	Usa el teletransportador allagan para viajar al Beta Quadrant.
+TEXT_HEAVNA703_01665_TODO_03	Habla con el nodo guía en Matter Conduit III-II.
+TEXT_HEAVNA703_01665_GUIDANCESYSTEM_000_000	\<bip> Saludos, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,1)>. ¿Hay algo que desee saber?
+TEXT_HEAVNA703_01665_Q1_000_000	¿Qué respondes?
+TEXT_HEAVNA703_01665_A1_000_001	Dime cómo llegar al Flagship.
+TEXT_HEAVNA703_01665_A1_000_002	Dime cómo llegar al Aetherochemical Research Facility.
+TEXT_HEAVNA703_01665_A1_000_003	Nada en particular, Gilly.
+TEXT_HEAVNA703_01665_GUIDANCESYSTEM_200_001	Determinando un lugar recomendado para inspección de rutina...<br>Lugar determinado.
+TEXT_HEAVNA703_01665_GUIDANCESYSTEM_000_001	\<bip> Solicitando acceso al Aetherochemical Research Facility...<br>Acceso concedido. Generando ruta...
+TEXT_HEAVNA703_01665_GUIDANCESYSTEM_000_002	\<bip> Ruta generada. Iniciando guía al destino elegido.
+TEXT_HEAVNA703_01665_GUIDANCESYSTEM_000_003	Tenga en cuenta que la ruta designada puede atravesar sectores restringidos, y que los sistemas de defensa de la isla podrían intentar eliminarl<if(gnum4,a,o)>.<br>Le recordamos amablemente que, de acuerdo con los términos y condiciones de uso, usted y su grupo asumen todo riesgo de daños o lesiones, incluida la muerte, que puedan sufrir de camino a su destino.
+TEXT_HEAVNA703_01665_ALPHINAUD_000_004	El Warring Triad... Algo me dice que no estará dispuesto a negociar.
+TEXT_HEAVNA703_01665_ESTINIEN_000_005	¿Qué demonios es esa cosa, en nombre de la Fury?
+TEXT_HEAVNA703_01665_YSHTOLA_000_006	El Warring Triad me recuerda una historia de mi infancia. Hablaba de tres dioses enfrascados en un conflicto eterno.
+TEXT_HEAVNA703_01665_CID_000_007	¡Bueno, este nodo resultó bastante más útil de lo que esperaba!
+TEXT_HEAVNA703_01665_BIGGS_000_008	Hace unos años, a Wedge se le ocurrió que quería un perro. Y cuando le dijimos que no, estuvo un maldito mes enfurruñado.
+TEXT_HEAVNA703_01665_WEDGE_000_009	¡Gilly es una buena chica! ¿No es una buena chica?
+TEXT_HEAVNA703_01665_ALPHINAUD_000_010	¿Podemos confiar en el nodo guía? No lo sé, pero tenemos pocas opciones. Veamos adónde nos lleva.
+TEXT_HEAVNA703_01665_ALPHINAUD_000_011	<split(<string(gstr1)>, ,1)>, Y'shtola, Estinien: nosotros cuatro iremos al centro de investigación.
+TEXT_HEAVNA703_01665_ALPHINAUD_000_012	Cid, el <italic(1)>Excelsior<italic(0)> es nuestro único medio de escape. Le ruego que se quede aquí y lo tenga listo para partir en cualquier momento.
+TEXT_HEAVNA703_01665_CID_000_013	Entendido. Nos aseguraremos de que esté reparado y listo para volar. Si pasa algo, avísenme por linkpearl.
+TEXT_HEAVNA703_01665_ALPHINAUD_000_014	Estén en guardia, amigos míos: el enemigo podría estar en cualquier parte.
+TEXT_HEAVNA703_01665_BIGGS_000_015	Primero Maggie, y ahora Gilly... Quizá debimos dejarle tener ese perro...
+TEXT_HEAVNA703_01665_WEDGE_000_016	¡Prométeme que vas a cuidar bien a Gilly! ¡No dejes que le pase nada!
+TEXT_HEAVNA703_01665_CID_000_017	Si necesitas volver a Ishgard por suministros, puedes usar ese estandarte para llamar a una aeronave de los Ironworks, como antes.
+TEXT_HEAVNA703_01665_CID_000_018	Cuando termines tus asuntos allá abajo, avísale a nuestro hombre del embarcadero de aeronaves, y te traerá de vuelta para seguir con la misión.
+TEXT_HEAVNA703_01665_ESTINIEN_000_019	¿Así que vamos a seguir a esa... cosa? ...Te dejo a ti el trato con ella.
+TEXT_HEAVNA703_01665_YSHTOLA_100_019	Aunque sabemos poco del nodo, sabemos todavía menos de la instalación en general. Veamos adónde nos lleva.
+TEXT_HEAVNA703_01665_GUIDANCESYSTEM_000_020	\<bip> Se encuentra en el Alpha Quadrant.
+TEXT_HEAVNA703_01665_GUIDANCESYSTEM_000_021	Primero, debe usar el conducto de materia cercano para viajar al Beta Quadrant. Espere un momento mientras lo activo.
+TEXT_HEAVNA703_01665_ALPHINAUD_000_023	Si no me equivoco, esto es algún tipo de dispositivo de teletransporte.
+TEXT_HEAVNA703_01665_ESTINIEN_000_024	Apenas empezamos, y ya nos lleva a un callejón sin salida.
+TEXT_HEAVNA703_01665_YSHTOLA_000_025	Quizá el nodo tenga más instrucciones para nosotros.
+TEXT_HEAVNA703_01665_GUIDANCESYSTEM_000_022	Conducto activado. Puede viajar al Beta Quadrant cuando lo desee.
+TEXT_HEAVNA703_01665_ALPHINAUD_100_023	Si no me equivoco, esto es algún tipo de dispositivo de teletransporte.
+TEXT_HEAVNA703_01665_ESTINIEN_100_024	Apenas empezamos, y ya nos lleva a un callejón sin salida.
+TEXT_HEAVNA703_01665_YSHTOLA_100_025	Quizá el nodo tenga más instrucciones para nosotros.
+TEXT_HEAVNA703_01665_GUIDANCESYSTEM_000_030	Según mis registros, el último mantenimiento de este conducto fue hace aproximadamente cinco mil catorce años, seis meses, once días, siete horas y trece minutos.
+TEXT_HEAVNA703_01665_GUIDANCESYSTEM_000_031	Que funcione sin percances podría describirse como un milagro.
+TEXT_HEAVNA703_01665_ESTINIEN_000_032	¿Estás segur<if(gnum4,a,o)> de que es prudente confiarle nuestras vidas a esta esfera?
+TEXT_HEAVNA703_01665_YSHTOLA_000_033	Ese nodo no es lo que parece. Entre el metal siento la mirada de un ser vivo. Ten cuidado con él.
+TEXT_HEAVNA703_01665_ALPHINAUD_000_034	El conducto de materia parece funcionar con el mismo principio que los aetherytes. Qué notable que siga funcionando después de tanto tiempo...

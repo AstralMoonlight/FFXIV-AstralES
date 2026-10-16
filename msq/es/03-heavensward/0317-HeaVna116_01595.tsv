@@ -1,0 +1,41 @@
+key	text
+TEXT_HEAVNA116_01595_SEQ_00	Honoroit está más que un poco preocupado por Lord Emmanellain.
+TEXT_HEAVNA116_01595_SEQ_01	Temiendo que algo le haya pasado a Lord Emmanellain, Honoroit te pide que lo ayudes a buscar a su señor en Voor Sian Siran. Vuelve a los lagos flotantes y busca alguna señal del joven lord.
+TEXT_HEAVNA116_01595_SEQ_02	Recorres la zona un buen rato, pero no ves rastro de Emmanellain. Reúnete con Honoroit y averigua si él tuvo más suerte.
+TEXT_HEAVNA116_01595_SEQ_03	Agitado y sin aliento, con los ojos muy abiertos de terror, Honoroit grita que los Vanu Vanu capturaron a Lord Emmanellain. Sigue al criado y averigua qué fue de su señor.
+TEXT_HEAVNA116_01595_SEQ_04	Pronto queda claro que se llevaron a Lord Emmanellain a una fortaleza Vanu cercana. Temiendo lo peor, Honoroit te ruega que rescates a su señor antes de partir hacia Camp Cloudtop a buscar ayuda. Al amparo de la oscuridad, intentas liberar al joven lord, y lo consigues con la ayuda de Haurchefant, que llega justo a tiempo con un grupo de caballeros. Sin embargo, los Vanu son demasiados, y pronto se encuentran rodeados y sin escapatoria.
+TEXT_HEAVNA116_01595_SEQ_05	Entonces el jefe de los Vanu clama a los cielos, y una ballena voladora gigantesca aparece en respuesta a su llamado. Bismarck, Lord of the Mists, la llama el jefe, y Haurchefant comprende con horror que la criatura es un primal. Por suerte, antes de que el monstruo pueda tragárselos enteros, Cid Garlond baja en picada a bordo del <italic(1)>Enterprise<italic(0)> y se los lleva de allí.
+TEXT_HEAVNA116_01595_SEQ_06	Parece que el rescate tan oportuno de Cid fue fruto de una feliz coincidencia, porque había venido a Camp Cloudtop a inspeccionar el <italic(1)>Protector<italic(0)>. Así, dio la casualidad de que estaba allí cuando Honoroit volvió de Voor Sian Siran pidiendo ayuda. Una vez que te pone a salvo, confirma que piensa volver a trabajar en la aeronave ishgardiana, pero promete que pronto volverán a hablar.
+TEXT_HEAVNA116_01595_TODO_00	Busca a Emmanellain en Voor Sian Siran.
+TEXT_HEAVNA116_01595_TODO_01	Reúnete con Honoroit.
+TEXT_HEAVNA116_01595_TODO_02	Habla con Honoroit.
+TEXT_HEAVNA116_01595_TODO_03	Habla con Honoroit.
+TEXT_HEAVNA116_01595_TODO_04	Habla con Cid.
+TEXT_HEAVNA116_01595_HONOROIT_000_000	Lord Emmanellain lleva muchísimo tiempo fuera. ¿Lo vio por casualidad mientras buscaba su cristal? Hasta él debe darse cuenta de lo peligroso que es alejarse demasiado en un lugar así...
+TEXT_HEAVNA116_01595_HONOROIT_000_001	Quizá me preocupo por nada, pero... debo pedirle que me ayude a buscarlo, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Lo encontraremos más rápido si nos separamos. Le ruego que revise la zona sureste de Voor Sian Siran lo más rápido que pueda y que se reúna conmigo en el norte. Adiós, y buena suerte.
+TEXT_HEAVNA116_01595_SYSTEM_000_010	Recorres la zona un buen rato, pero no ves rastro de Emmanellain.
+TEXT_HEAVNA116_01595_HONOROIT_000_020	¡<if(gnum4,S-señora,S-señor)> <split(<string(gstr1)>, ,2)>! Lord Emmanellain... ¡A Lord Emmanellain se lo llevaron los Vanu!
+TEXT_HEAVNA116_01595_HONOROIT_000_021	¡Tenían rodeado a mi señor ─ una banda entera! ¡Por favor, tiene que venir rápido!
+TEXT_HEAVNA116_01595_HONOROIT_000_030	Los Vanu deben de haberlo llevado a esa aldea, quizá para presentárselo a su jefe...
+TEXT_HEAVNA116_01595_HONOROIT_000_031	Y-yo iré de inmediato a la Rosehouse a contarle a Lady Laniaitte lo que pasó.
+TEXT_HEAVNA116_01595_HONOROIT_000_032	Pero... Pero cuando vuelva con ayuda, p-puede que ya sea demasiado tarde... Perdone que se lo pida, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>, pero si ve la oportunidad de pasar a escondidas junto a los centinelas y rescatar a Lord Emmanellain mientras no estoy, ¡le ruego que la aproveche!
+TEXT_HEAVNA116_01595_HONOROIT_000_033	Sé que puede ser un poquito presuntuoso... e insensible... y, bueno... insoportable, ¡pero no se merece esto!
+TEXT_HEAVNA116_01595_CID_000_040	Solo los dioses saben qué habría pasado si no hubiéramos estado cerca para salvarte... Pero no hace falta que me agradezcas. No es que tú no hayas hecho lo mismo por nosotros unas cuantas veces. Bueno, más que unas cuantas.
+TEXT_HEAVNA116_01595_CID_000_041	Fue pura casualidad lo que nos juntó esta vez, por si te lo preguntabas. La Holy See le pidió ayuda a los Ironworks con este invento suyo, el <italic(1)>Protector<italic(0)>. Por lo visto, no hay manera de hacerlo volar.
+TEXT_HEAVNA116_01595_CID_000_042	En fin, vine a Camp Cloudtop a echarle un vistazo a la nave, y me enteré de que habías llegado unos días antes con un lordcito ishgardiano a cuestas.
+TEXT_HEAVNA116_01595_CID_000_043	"¡Qué pequeño es el mundo!", pensé... justo cuando el criado de ese lordcito apareció corriendo, balbuceando que habían capturado a su señor y que tú lo arriesgabas todo para rescatarlo. Y el resto, como dicen, es historia.
+TEXT_HEAVNA116_01595_CID_000_044	Bueno, odio cortar nuestro reencuentro, pero al fin y al cabo vine por trabajo, y los muchachos ya están manos a la obra. No te preocupes, viej<if(gnum4,a amiga,o amigo)> ─ pronto volveremos a hablar, te lo prometo.
+TEXT_HEAVNA116_01595_EMMANELLAIN_000_045	...¿Asustado? ¿¡<italic(1)>Yo<italic(0)>!? ¡Un instante fugaz, como mucho! Ja, ja... ja...
+TEXT_HEAVNA116_01595_HAURCHEFANT_000_046	¡Seguimos todos con vida, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>! Consolémonos con la más sencilla de las bendiciones.
+TEXT_HEAVNA116_01595_HONOROIT_100_047	¡Gracias, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>, <italic(1)>gracias<italic(0)>! Si no hubiera corrido a ayudarlo, ¡no me atrevo a pensar qué habría pasado!
+TEXT_HEAVNA116_01595_QIB_TODO001	¡Rescata a Emmanellain!
+TEXT_HEAVNA116_01595_QIB_TODO002	¡Protege a Emmanellain y escapa de la fortaleza Vanu!
+TEXT_HEAVNA116_01595_EMMANELLAIN_BATTLETALK_000_001	Por la Fury, ustedes... no me van a comer, ¿verdad? ¡¿Eso no es lo que les hacen a los prisioneros, no?!
+TEXT_HEAVNA116_01595_EMMANELLAIN_BATTLETALK_000_002	¡<split(<string(gstr1)>, ,1)>! ¡<italic(1)><split(<string(gstr1)>, ,1)><italic(0)>! ¡Estoy aquí!
+TEXT_HEAVNA116_01595_HONU_BATTLETALK_000_003	¡Abajeños vienen a liberar prisionero! ¡Corran voz como trueno, y arrójenlos a mar de nubes!
+TEXT_HEAVNA116_01595_HONU_BATTLETALK_000_010	¡Abajeños se escabullen como gaelicats astutos! ¡Reúnanse, guerreros de Gundu! ¡Que no escape ninguno!
+TEXT_HEAVNA116_01595_HAURCHEFANT_BATTLETALK_000_020	¡Llegó la ayuda, <split(<string(gstr1)>, ,1)>!
+TEXT_HEAVNA116_01595_EMMANELLAIN_BATTLETALK_000_021	¿¡Haurchefant, eres tú!? ¡Gracias al cielo! ¡Sácanos de aquí!
+TEXT_HEAVNA116_01595_HAURCHEFANT_BATTLETALK_000_022	¡Mantenga a salvo a Emmanellain, <split(<string(gstr1)>, ,1)>! ¡Nosotros los contendremos!
+TEXT_HEAVNA116_01595_EMMANELLAIN_BATTLETALK_000_100	Por los dioses, ¿ese es mi...? Ay... Ayyy... <italic(1)>mierda<italic(0)>.
+TEXT_HEAVNA116_01595_HAURCHEFANT_BATTLETALK_000_101	Si este ha de ser el final...

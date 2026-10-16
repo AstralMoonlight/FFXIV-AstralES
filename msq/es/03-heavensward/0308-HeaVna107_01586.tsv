@@ -1,0 +1,22 @@
+key	text
+TEXT_HEAVNA107_01586_SEQ_00	Antes de que vuelvas a Falcon's Nest, Thierremont tiene un favor que pedirte.
+TEXT_HEAVNA107_01586_SEQ_01	Thierremont siempre agradeció la amabilidad de Ser Ysaudore, una caballera apostada en el puesto de observación del oeste conocido como el Anvil. Por eso quiere devolverle un paquete que cree que ella olvidó en su última visita. Entrega el paquete como te pidió y averigua si Ser Ysaudore lo reconoce.
+TEXT_HEAVNA107_01586_SEQ_02	Dividida entre el decoro y el deseo de hacer algo por el sacrificado cantero, Ser Ysaudore dejó a propósito el paquete con raciones extra, creyendo que Thierremont entendería el gesto. Por desgracia, no lo entendió, y ahora la comida se echó a perder. Como no hay nada que hacer, vuelve a Falcon's Nest e infórmale a Ser Redwald.
+TEXT_HEAVNA107_01586_SEQ_03	Las historias de tus diversas hazañas llegaron a oídos de Ser Redwald, que aplaude tu iniciativa. Sin embargo, no tiene tiempo de agradecerte como corresponde, porque un imprevisto lo obliga a movilizar a todos los hombres y mujeres capaces.
+TEXT_HEAVNA107_01586_TODO_00	Entrégale el ice-crusted bundle a Ysaudore en el Anvil.
+TEXT_HEAVNA107_01586_TODO_01	Infórmale a Redwald.
+TEXT_HEAVNA107_01586_THIERREMONT_000_000	¿Vas a Falcon's Nest? Si es así, tengo un favor que pedirte.
+TEXT_HEAVNA107_01586_THIERREMONT_000_001	Hay una caballera, Ser Ysaudore, apostada en el Anvil, al oeste de aquí. Siempre me trató con amabilidad y respeto ─ más del que merezco, para ser sincero...
+TEXT_HEAVNA107_01586_THIERREMONT_000_002	El caso es que, mientras no estabas, pasó por aquí en su patrulla, y creo que se olvidó un paquete.
+TEXT_HEAVNA107_01586_THIERREMONT_000_003	Es un desvío, pero ¿te molestaría devolvérselo? Gracias, amig<if(gnum4,a,o)>.
+TEXT_HEAVNA107_01586_THIERREMONT_000_004	Deberías encontrar a Ser Ysaudore en el Anvil, al oeste de aquí.
+TEXT_HEAVNA107_01586_THIERREMONT_000_005	No queda de camino a Falcon's Nest, ya lo sé, pero bueno... Estoy casi seguro de que es suyo, y como no puedo dejar el Pike sin vigilancia...
+TEXT_HEAVNA107_01586_YSAUDORE_000_010	¿Qué es eso? ¿Un paquete? No tengo la menor idea de qué me habla.
+TEXT_HEAVNA107_01586_YSAUDORE_000_011	Maldición, ese tonto de... \<suspiro> Qué desperdicio.
+TEXT_HEAVNA107_01586_YSAUDORE_000_012	Era un <italic(1)>regalo<italic(0)>, aventurer<if(gnum4,a,o)>. Thierremont trabaja día y noche sin pensar en su propia salud. Lo mínimo que puede hacer es intentar comer mejor.
+TEXT_HEAVNA107_01586_YSAUDORE_000_013	...¿Por qué no dárselo directamente? Por la Fury, ¿no tiene sentido del decoro? ¡Una caballera de alta cuna no puede dejarse ver favoreciendo así a un cantero de cuna humilde!
+TEXT_HEAVNA107_01586_YSAUDORE_000_014	Aun así, le agradezco su preocupación, y que esté dispuest<if(gnum4,a,o)> a ayudar a Thierremont.
+TEXT_HEAVNA107_01586_YSAUDORE_100_014	Que su regreso a Falcon's Nest sea seguro y rápido. Le ruego que salude de mi parte a Ser Redwald.
+TEXT_HEAVNA107_01586_YSAUDORE_000_015	Atrapada entre la pica y el yunque─ ¡Ah, sigue aquí! Ejem, eh... Le ruego que le transmita mis más cordiales saludos a Ser Redwald... y nada más.
+TEXT_HEAVNA107_01586_REDWALD_000_020	Debo aplaudir su iniciativa, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Rothe me cuenta que estuvo muy ocupad<if(gnum4,a,o)>.
+TEXT_HEAVNA107_01586_REDWALD_000_021	Por desgracia, no tenemos tiempo de agradecerle como corresponde. Tengo una tarea a la que quiero destinar a todos los hombres y mujeres capaces ─ usted y Lord Artoirel incluidos.

@@ -1,0 +1,39 @@
+key	text
+TEXT_HEAVNA603_01652_SEQ_00	Alphinaud tiene ganas de pedir la ayuda de la Elder Seedseer para rescatar a Y'shtola.
+TEXT_HEAVNA603_01652_SEQ_01	Alphinaud te informa que consiguió una audiencia con la Elder Seedseer. Habla con el conjurer silencioso del Nophica's Altar para entrar al Lotus Stand.
+TEXT_HEAVNA603_01652_SEQ_02	Kan<-->E<-->Senna acepta de buena gana pedirles a los elementales que busquen a Y'shtola en el Lifestream. Pero advierte que, para identificarla, esos seres necesitarán que les presenten un aether parecido al de tu compañera desaparecida. Por suerte, parece que una hermana de Y'shtola vive en Gridania. Pídele a Tataru más información sobre esa mujer.
+TEXT_HEAVNA603_01652_SEQ_03	Según Tataru, la hermana de Y'shtola ─ una <switch(gnum71,mujer,mujer,mujer,Miqo'te como tú,mujer,mujer,mujer,mujer)> llamada Y'mhitra ─ suele andar por Apkallu Falls. Búscala allí.
+TEXT_HEAVNA603_01652_SEQ_04	Como era de esperar, Y'mhitra acepta colaborar en la búsqueda de su hermana, y te acompaña a Everschade. Poco después, los Seedseers empiezan a comulgar con los elementales, y con la ayuda de esos seres etéreos logran sacar a Y'shtola del Lifestream, inconsciente pero viva. Kan-E-Senna ordena a sus guardias llevar a tu amiga desmayada al Roost para que la atiendan como corresponde. Ve tú también allí y reúnete con Tataru.
+TEXT_HEAVNA603_01652_SEQ_05	Tataru no puede contener su alegría por el regreso de Y'shtola, y se derraman muchas lágrimas de felicidad. Ahora solo queda rezar por que se recupere pronto.
+TEXT_HEAVNA603_01652_TODO_00	Habla con Kan<-->E<-->Senna en el Lotus Stand.
+TEXT_HEAVNA603_01652_TODO_01	Habla con Tataru.
+TEXT_HEAVNA603_01652_TODO_02	Habla con Y'mhitra.
+TEXT_HEAVNA603_01652_TODO_03	Habla con Tataru.
+TEXT_HEAVNA603_01652_ALPHINAUD_000_000	Ya pedí una audiencia con la Elder Seedseer. Nos recibirá en breve en el Lotus Stand. Solo tenemos que hablar con el conjurer de allí para que nos deje pasar.
+TEXT_HEAVNA603_01652_ALPHINAUD_000_001	La Elder Seedseer está lista para recibirnos en el Lotus Stand. Solo tenemos que hablar con el conjurer de allí para que nos deje pasar.
+TEXT_HEAVNA603_01652_TATARU_000_001	¡Aguanta, Y'shtola! ¡Vamos a buscarte!
+TEXT_HEAVNA603_01652_DOORMANLOTUS_000_010	La Elder Seedseer los espera. Por favor, síganme.
+TEXT_HEAVNA603_01652_SCENE00007_EVENTAREA_WARP_YESNO_TITLE	¿Ir al Lotus Stand?
+TEXT_HEAVNA603_01652_SCENE00007_EVENTAREA_WARP_YESNO_YES	Sí
+TEXT_HEAVNA603_01652_SCENE00007_EVENTAREA_WARP_YESNO_NO	No
+TEXT_HEAVNA603_01652_KANESENNA_000_011	Bienvenidos, amigos míos, y hablen con libertad. Entiendo que su pedido no admite demoras.
+TEXT_HEAVNA603_01652_ALPHINAUD_000_012	No, mi señora. Le ruego que perdone lo repentino de nuestro pedido, pero es cuestión de vida o muerte.
+TEXT_HEAVNA603_01652_KANESENNA_000_013	Ya veo... Como dicen, debemos actuar rápido si queremos liberar a Y'shtola de la cruel atracción del Lifestream.
+TEXT_HEAVNA603_01652_KANESENNA_000_014	Y como ya supusieron, no podemos hacerlo sin ayuda. Sin embargo...
+TEXT_HEAVNA603_01652_TATARU_000_020	Si mal no recuerdo, la hermana de Y'shtola se llama Y'mhitra.<br>...Ah, ¿la conoces? ¡Bueno, eso debería facilitar las cosas!
+TEXT_HEAVNA603_01652_TATARU_000_021	Si mal no recuerdo, la hermana de Y'shtola se llama Y'mhitra. Dicen que es miembro de los Sons of Saint Coinach.
+TEXT_HEAVNA603_01652_TATARU_000_022	En fin, por lo que recuerdo, pasa la mayor parte del tiempo por Apkallu Falls. ¡Busquémosla allí!
+TEXT_HEAVNA603_01652_YMHITRA_000_023	¿Usted y sus amigos quieren hablar conmigo? Bueno, entonces... más vale que traiga a sus amigos.
+TEXT_HEAVNA603_01652_ALPHINAUD_000_024	No sabía que Y'shtola tuviera una pariente aquí en Gridania. Qué oportuno. Perdóneme... Me acostumbré tanto a que el destino se ría de nosotros que no puedo evitar desconfiar cuando nos sonríe. Debemos, por supuesto, buscar a esa mujer de inmediato.
+TEXT_HEAVNA603_01652_DOORMANLOTUS_100_024	La Elder Seedseer se prepara para llegar a los grandes seres. Le ruego que haga sus propios preparativos.
+TEXT_HEAVNA603_01652_YMHITRA_000_030	Saludos, <split(<string(gstr1)>, ,1)>. ¿Qué l<if(gnum4,a,o)> trae por aquí hoy? Veo que viene acompañad<if(gnum4,a,o)>.
+TEXT_HEAVNA603_01652_YMHITRA_000_031	¿Sí? ¿Necesitan algo?
+TEXT_HEAVNA603_01652_ALPHINAUD_000_032	Lady Y'mhitra, es un honor conocerla. Me llamo Alphinaud Leveilleur, y ella es Tataru Taru.
+TEXT_HEAVNA603_01652_YMHITRA_000_033	Así que ustedes son los compañeros de mi hermana en los Scions of the Seventh Dawn.
+TEXT_HEAVNA603_01652_YMHITRA_000_034	Cuando supe que perseguían a su gente, intenté desesperadamente comunicarme con Shtola, pero todos mis esfuerzos fueron en vano. Ahora sé por qué. ¡Un hechizo prohibido, nada menos! Que sea tan imprudente...
+TEXT_HEAVNA603_01652_YMHITRA_000_035	Pero lo hecho, hecho está. Les agradezco que me avisaran. Ni hace falta decir que me alegra ayudar.
+TEXT_HEAVNA603_01652_YMHITRA_000_036	Aunque nacimos de madres distintas, por nuestras venas corre la sangre del mismo padre. Espero que eso baste para los elementales. Vamos, vayamos a Everschade de inmediato.
+TEXT_HEAVNA603_01652_TATARU_000_040	\<olfateo> \<olfateo> Ay, Y'shtola...
+TEXT_HEAVNA603_01652_TATARU_000_041	Volver a ver su cara... Es... \<olfateo> Ay, estaba tan preocupada...
+TEXT_HEAVNA603_01652_ALPHINAUD_000_042	Recemos por que Y'shtola despierte.
+TEXT_HEAVNA603_01652_YMHITRA_000_043	Iré a acompañar a mi hermana al Roost. Mis conocimientos de conjury deberían servir de algo para cuidarla.

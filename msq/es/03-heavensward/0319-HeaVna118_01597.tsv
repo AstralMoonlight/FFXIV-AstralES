@@ -1,0 +1,63 @@
+key	text
+TEXT_HEAVNA118_01597_SEQ_00	Parece que el mayordomo de los Fortemps tiene algo que decir.
+TEXT_HEAVNA118_01597_SEQ_01	Enterado de todo lo que lograste en Falcon's Nest y en Camp Cloudtop, el conde Edmont quiere expresarte su más sincera gratitud. Pero apenas empieza a hablar cuando su mayordomo irrumpe con noticias graves: un caballero de los Heavens' Ward ─ un tal "Ser Grinnaux" ─ arrestó a Alphinaud y a Tataru acusándolos de fomentar la herejía. Pídele consejo al conde.
+TEXT_HEAVNA118_01597_SEQ_02	El conde cree que las acusaciones contra tus amigos no son más que una maniobra política para difamar a la House Fortemps. Aun así, no tienes más remedio que refutarlas si quieres liberar a Alphinaud y a Tataru. Pensando que Ser Aymeric sabrá exactamente de qué se los acusa, Edmont te aconseja visitar al comandante supremo en la Congregation of Our Knights Most Heavenly.
+TEXT_HEAVNA118_01597_SEQ_03	Aunque Ser Aymeric cree que tus amigos son inocentes, no puede intervenir porque el caballero que los acusó es miembro de los Heavens' Ward ─ la guardia personal del arzobispo. Estos doce sers elegidos no responden ante nadie salvo el arzobispo mismo, y su testimonio es irrefutable. Por eso, según la ley ishgardiana, solo la Fury misma puede desmentir a Ser Grinnaux... concediendo la victoria en un juicio por combate entre el acusador y los acusados. Por sus talentos mágicos, Alphinaud tendrá que pelear, pero Tataru puede reclamar el derecho a nombrar a un campeón. ¿Y quién más que el Warrior of Light podría hacer frente al poder de los Heavens' Ward? Prepárate y habla con Lord Haurchefant en el Supreme Sacred Tribunal of Halonic Inquisitory Doctrine cuando estés list<if(gnum4,a,o)> para enfrentar a los caballeros.
+TEXT_HEAVNA118_01597_SEQ_04	Bajo la mirada atenta de la Fury y de la nobleza de Ishgard reunida, derrotas a Ser Grinnaux y a Ser Paulecrain, y les ganas la libertad a tus compañeros. Después encuentras a Lord Haurchefant esperándote. Averigua qué tiene que decir.
+TEXT_HEAVNA118_01597_SEQ_05	Todavía eufórico, Lord Haurchefant te regala algo para conmemorar tu victoria: un chocobo negro totalmente adiestrado, muy parecido al que te llevó a las tierras altas del oeste ─ ¡fuerte, obediente y bendecido con el poder de volar! Ya no estarás atad<if(gnum4,a,o)> a la tierra. ¡De ahora en adelante, el límite es el cielo!
+TEXT_HEAVNA118_01597_TODO_00	Habla con Edmont.
+TEXT_HEAVNA118_01597_TODO_01	Habla con Aymeric en Foundation.
+TEXT_HEAVNA118_01597_TODO_02	Habla con Haurchefant en los Pillars.
+TEXT_HEAVNA118_01597_TODO_03	Habla con Haurchefant.
+TEXT_HEAVNA118_01597_HOUSEFORTEMPSSTEWARD01597_000_000	Ah, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Mi señor el conde desea mucho hablar con usted sobre su tiempo con Lord Artoirel y Lord Emmanellain. Si fuera tan amable de esperar aquí un momento...
+TEXT_HEAVNA118_01597_EDMONT_000_010	Aunque se ganó el corazón y la mente de muchos de mis compatriotas, hay quienes nunca cambiarán de opinión. Hombres que desestimarán sus esfuerzos y le guardarán rencor por sus éxitos, aun mientras nosotros los celebramos.
+TEXT_HEAVNA118_01597_EDMONT_000_011	Es probable que algún miembro de la House Dzemael de esa calaña esté manipulando a Ser Grinnaux, porque no es hombre de meterse en política por voluntad propia. Puede que de verdad crea culpables a sus amigos, aunque estoy seguro de que sus amos saben la verdad.
+TEXT_HEAVNA118_01597_EDMONT_000_012	Pero la verdad no nos servirá de nada si no podemos probar su inocencia.
+TEXT_HEAVNA118_01597_EDMONT_000_013	Haría bien en hablar con Ser Aymeric en la Congregation of Our Knights Most Heavenly. Él sabrá más de estas acusaciones.
+TEXT_HEAVNA118_01597_HAURCHEFANT_000_014	¡<split(<string(gstr1)>, ,1)>! ¡Justo ahora había decidido ir a buscarl<if(gnum4,a,o)>! Supongo que ya sabe lo que pasó, entonces...
+TEXT_HEAVNA118_01597_LUCIA_000_015	Que miren a los Scions con tanta sospecha aun después de que lucharon a nuestro lado en los Steps of Faith... Es una mala comedia.
+TEXT_HEAVNA118_01597_LUCIA_000_016	Pero, a diferencia de la grave injusticia que sufrió en Ul'dah, este agravio puede corregirse rápido.
+TEXT_HEAVNA118_01597_EDMONT_000_017	Sé tan poco como usted de la situación, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Pero Ser Aymeric seguramente sabrá más.
+TEXT_HEAVNA118_01597_HOUSEFORTEMPSSTEWARD01597_100_017	Ser protegidos de la House Fortemps debería darles un trato preferente... al menos por un tiempo...
+TEXT_HEAVNA118_01597_AYMERIC_000_020	Pasó demasiado tiempo, <split(<string(gstr1)>, ,1)>. Ojalá esta visita fuera en circunstancias más felices. Supongo que viene a interceder por el señor Alphinaud y la señorita Tataru.
+TEXT_HEAVNA118_01597_HAURCHEFANT_000_021	La noticia de su detención nos llegó mientras presentaba mi informe sobre el primal de los Vanu. ¡De verdad no sé qué es más ridículo: estas acusaciones o esa ballena voladora con plumas!
+TEXT_HEAVNA118_01597_AYMERIC_000_022	No me cabe duda de que las acusaciones de Ser Grinnaux no tienen fundamento. Pero refutarlas será difícil, porque es un caballero de los Heavens' Ward.
+TEXT_HEAVNA118_01597_AYMERIC_000_023	Hablo de la guardia personal del arzobispo ─ los doce mejores caballeros de toda Ishgard, que juraron servir solo a Su Eminencia. Basta con decir que su testimonio es irrefutable, y que no tengo autoridad para cuestionar sus actos.
+TEXT_HEAVNA118_01597_HAURCHEFANT_000_024	Después de todo lo que hicieron los Scions ─ derrotar a los herejes y a Shiva, ayudarnos a defender los Steps of Faith y a repeler a la Dravanian Horde ─, después de demostrar mil veces que son verdaderos aliados, ¿¡no hay nada que podamos hacer!?
+TEXT_HEAVNA118_01597_AYMERIC_000_025	Me temo que solo nos queda un camino...<br>Debemos exigir un juicio por combate.
+TEXT_HEAVNA118_01597_HAURCHEFANT_000_026	¡Pero claro!
+TEXT_HEAVNA118_01597_HAURCHEFANT_000_027	¡En un juicio por combate sancionado por la inquisición, la causa del vencedor se juzga verdadera, sin importar la posición del demandante!
+TEXT_HEAVNA118_01597_AYMERIC_000_028	Según la ley ishgardiana, un juicio por combate enfrenta al acusador con los acusados. En este caso, el señor Alphinaud y la señorita Tataru tendrían que enfrentar a Ser Grinnaux y a un segundo de su elección ─ otro caballero de los Heavens' Ward, lo más probable.
+TEXT_HEAVNA118_01597_HAURCHEFANT_000_029	¿¡<italic(1)>Dos<italic(0)> de ellos!? Por la Fury, eso no se puede considerar justo...
+TEXT_HEAVNA118_01597_AYMERIC_000_030	Los talentos mágicos del señor Alphinaud no habrán pasado desapercibidos, así que no tendrá más remedio que participar. La señorita Tataru, en cambio, carece a todas luces de destreza marcial, y debería tener derecho a nombrar a un campeón que pelee en su lugar.
+TEXT_HEAVNA118_01597_AYMERIC_000_031	Por si lo duda, estoy dispuesto a cumplir ese papel, y seguro que Lord Haurchefant también... pero todos los presentes sabemos que usted es <if(gnum4,la guerrera más consumada,el guerrero más consumado)> entre nosotros, y quizá de todo el reino...
+TEXT_HEAVNA118_01597_HAURCHEFANT_000_032	¡Entonces está decidido! Visitaré de inmediato al señor Alphinaud para informarle de nuestras intenciones. <split(<string(gstr1)>, ,1)>: búsqueme en el Tribunal cuando esté list<if(gnum4,a,o)>. ¡Hasta entonces, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>!
+TEXT_HEAVNA118_01597_AYMERIC_000_033	El juicio se celebrará en el Supreme Sacred Tribunal of Halonic Inquisitory Doctrine. Asistiré, igual que muchos otros con intereses en el resultado. No escatime en preparativos, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>. Los caballeros de los Heavens' Ward serán una dura prueba incluso para alguien como usted.
+TEXT_HEAVNA118_01597_HAURCHEFANT_000_040	Escuche con atención, <split(<string(gstr1)>, ,1)>. Cuando empiece el juicio, se le pedirá al demandante que repita sus acusaciones, y se invitará a los acusados a responder. Después, de acuerdo con la ley, se les pedirá que repitan su solicitud de un juicio por combate.
+TEXT_HEAVNA118_01597_HAURCHEFANT_000_041	Una vez que el juez supremo reconozca el derecho de la señorita Tataru a nombrar a un campeón, ¡<italic(1)>ese<italic(0)> es el momento en que debe hacer su entrada! ¡Ohhh, no veo la hora de ver la cara de Ser Grinnaux cuando vea a su verdadero oponente! ¡Va a ser <italic(1)>impagable<italic(0)>!
+TEXT_HEAVNA118_01597_HAURCHEFANT_000_042	Ya en serio... si empieza a desanimarse, búsqueme en las gradas, ¡y lo alentaré tan fuerte que se preguntará cómo pudo dudar de sí mism<if(gnum4,a,o)>! Bien, ¿está list<if(gnum4,a,o)>?
+TEXT_HEAVNA118_01597_TATARU_000_043	G-ganaron... Digo, ¡GANAMOS!
+TEXT_HEAVNA118_01597_TRIALOFFICIANT01597_000_044	¡La Fury ha hablado!
+TEXT_HEAVNA118_01597_TRIALOFFICIANT01597_000_045	Alphinaud Leveilleur, Tataru Taru: por la presente quedan absueltos de todos los cargos.
+TEXT_HEAVNA118_01597_TRIALOFFICIANT01597_000_046	¡Benditos seamos los que recibimos Su sabiduría y vemos la justicia obrada por Su mano divina! Demandante, acusados: ¡vayan en paz!
+TEXT_HEAVNA118_01597_ALPHINAUD_000_047	Salvado de una muerte prematura una vez más. Gracias... como siempre.
+TEXT_HEAVNA118_01597_HAURCHEFANT_000_050	¡Por la Fury, qué espléndida victoria! Ver cómo lucharon ante la adversidad... ¡dos almas jóvenes y valientes unidas por los poderosos lazos de la camaradería! ¡Me conmovió hasta lo más hondo del alma!
+TEXT_HEAVNA118_01597_HAURCHEFANT_000_051	Después de presenciar un espectáculo tan emocionante, lo justo es que le ofrezca una humilde muestra de mi admiración. Le ruego que acepte este silbato de chocobo.
+TEXT_HEAVNA118_01597_HAURCHEFANT_000_052	¡Con él podrá llamar a un chocobo negro, totalmente adiestrado y listo para volar!
+TEXT_HEAVNA118_01597_HAURCHEFANT_000_053	Magnífica, ¿no es así? ¡Fuerte pero esbelta, elegante pero entusiasta! ¿Qué dice, <split(<string(gstr1)>, ,1)>? ¿La acepta como montura?
+TEXT_HEAVNA118_01597_GUARD01597_000_054	¡Lord Haurchefant! ¡Los chocobos están prohibidos en el Supreme Sacred Tribunal of Halonic Inquisitory Doctrine! ¡Su montura debe quedarse afuera!
+TEXT_HEAVNA118_01597_SYSTEM_000_055	¡Conseguiste un <colortype(500)><edgecolortype(501)>chocobo negro<edgecolortype(0)><colortype(0)>! Cuando montes esta montura, podrás volar, siempre que se cumplan ciertas condiciones.
+TEXT_HEAVNA118_01597_SYSTEM_000_056	Para volar en una región, primero debes encontrar todas las <colortype(500)><edgecolortype(501)>corrientes de aether<edgecolortype(0)><colortype(0)> de la zona y sintonizarte con ellas.
+TEXT_HEAVNA118_01597_SYSTEM_101_056	Para sintonizarte con algunas corrientes de aether, tendrás que completar ciertas misiones. Sin embargo, la mayoría pueden descubrirse explorando.
+TEXT_HEAVNA118_01597_SYSTEM_110_056	Para ayudarte en esta tarea, también conseguiste una <colortype(500)><edgecolortype(501)>brújula de aether<edgecolortype(0)><colortype(0)>, que al usarla te indica la dirección y la distancia a la corriente de aether más cercana. La brújula de aether está en Collection, dentro de la sección Duty del menú principal.
+TEXT_HEAVNA118_01597_SYSTEM_000_057	Para revisar tu progreso, elige <colortype(500)><edgecolortype(501)>Travel<edgecolortype(0)><colortype(0)> en el menú principal y después <colortype(500)><edgecolortype(501)>Aether Currents<edgecolortype(0)><colortype(0)>.
+TEXT_HEAVNA118_01597_QIB_TODO001	¡Derrota a los Heavens' Ward!
+TEXT_HEAVNA118_01597_ALPHINAUD_BATTLETALK_000_001	¡Haré lo que pueda para apoyarl<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>! ¡Ahora, enseñémosles a estos nobles sers lo insensato que es levantar falso testimonio!
+TEXT_HEAVNA118_01597_PAULECRAIN_BATTLETALK_000_003	Vaya, vaya, ¿a quién tenemos aquí? Est<if(gnum4,a,e)> es mí<if(gnum4,a,o)>, Ser Grinnaux. Ve a jugar con el niño.
+TEXT_HEAVNA118_01597_GRINNAUX_BATTLETALK_000_002	Hmpf. Una maldita pérdida de... ¡Vamos, entonces! ¡Ustedes lo pidieron, ¿recuerdan?!
+TEXT_HEAVNA118_01597_GRINNAUX_BATTLETALK_000_010	¡Ya me hartaron sus trucos!
+TEXT_HEAVNA118_01597_TATARU_BATTLETALK_000_011	¡<split(<string(gstr1)>, ,1)>! ¡Alphinaud está en problemas!
+TEXT_HEAVNA118_01597_PAULECRAIN_BATTLETALK_000_012	¡Ja! ¡Bonit<if(gnum4,a campeona,o campeón)> resultaste!
+TEXT_HEAVNA118_01597_PAULECRAIN_BATTLETALK_000_020	¡Ya te consentimos bastante, cerdo pagano!
+TEXT_HEAVNA118_01597_TATARU_BATTLETALK_000_021	¡<split(<string(gstr1)>, ,1)>, Alphinaud! ¡Cuidado!
+TEXT_HEAVNA118_01597_ALPHINAUD_BATTLETALK_000_100	Maldición...

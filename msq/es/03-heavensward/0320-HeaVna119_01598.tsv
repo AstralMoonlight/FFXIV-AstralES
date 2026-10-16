@@ -1,0 +1,29 @@
+key	text
+TEXT_HEAVNA119_01598_SEQ_00	Lord Haurchefant cree que te mereces un buen descanso.
+TEXT_HEAVNA119_01598_SEQ_01	Aunque el juicio terminó, Lord Haurchefant debe ocuparse de algunas formalidades antes de que liberen a Alphinaud y a Tataru. Mientras tanto, te sugiere volver a la mansión y comentar lo ocurrido con el conde Edmont.
+TEXT_HEAVNA119_01598_SEQ_02	Como de costumbre, tu conversación con el conde se interrumpe, esta vez por la llegada de un mensaje del Vault. Parece que Su Eminencia el arzobispo Thordan VII solicitó tu presencia. Apúrate a llegar al Holy Vault y habla con el sacerdote de la entrada para que te deje pasar.
+TEXT_HEAVNA119_01598_SEQ_03	Thordan VII te recibe con calidez y se disculpa por el malentendido que llevó a Alphinaud y a Tataru a la cárcel. Tras dar el paso muy poco habitual de despedir a su guardia personal, te revela que estuvo en contacto con los Ascians, y te explica que finge complacer sus deseos mientras planea actuar contra ellos. Te pide ayuda en esta empresa, y afirma que solo arrancando Eorzea de sus garras podrá forjarse una paz duradera. Vuelve a la Fortemps Manor y comparte esta inquietante revelación con Alphinaud.
+TEXT_HEAVNA119_01598_SEQ_04	A Alphinaud le impacta saber que la influencia de los Ascians también llegó a Ishgard. Mientras piensa qué hacer, Tataru recuerda de golpe un rumor inquietante que había oído: parece que van a ejecutar a Raubahn por crímenes contra el sultanato. Decidido a no perder a otro aliado, Alphinaud resuelve hacer todo lo que esté en su mano para rescatar al Flame General depuesto.
+TEXT_HEAVNA119_01598_TODO_00	Habla con Edmont.
+TEXT_HEAVNA119_01598_TODO_01	Habla con el sacerdote del Vault.
+TEXT_HEAVNA119_01598_TODO_02	Habla con Alphinaud en la Fortemps Manor.
+TEXT_HEAVNA119_01598_HAURCHEFANT_000_000	Los chocobos negros están muy bien, pero la verdadera recompensa por su esfuerzo es que sus compañeros quedaron libres de culpa.
+TEXT_HEAVNA119_01598_HAURCHEFANT_000_001	Los liberarán en cuanto se completen ciertas formalidades, de las que pienso ocuparme en persona. Mientras tanto, le ruego que vuelva a la Fortemps Manor. El conde ya volvió, y seguro tendrá ganas de comentar lo ocurrido.
+TEXT_HEAVNA119_01598_HAURCHEFANT_000_002	Puede estar segur<if(gnum4,a,o)> de que el señor Alphinaud y la señorita Tataru ya no corren peligro. Pronto se reunirán con usted en la mansión.
+TEXT_HEAVNA119_01598_ARTOIREL_000_003	No estuve en el juicio, pero mi padre me contó de su actuación. ¡Dijo que fue una maravilla verl<if(gnum4,a,o)>!
+TEXT_HEAVNA119_01598_EMMANELLAIN_000_004	¿Está intentando convertirse en la comidilla de la ciudad? Porque si es así, lo está haciendo de maravilla.
+TEXT_HEAVNA119_01598_HONOROIT_000_005	Me alegra verl<if(gnum4,a,o)> con buena salud, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>.
+TEXT_HEAVNA119_01598_EDMONT_000_010	Halone nos sonríe una vez más, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>: l<if(gnum4,a,o)> guió a la victoria y liberó a sus compañeros.
+TEXT_HEAVNA119_01598_ARTOIREL_000_011	Le confieso que temí por su seguridad. Lo cual no quiere decir que dudara de su destreza, entiéndame... Solo conocía la fuerza de sus oponentes. Ejem. Tiene la costumbre de superar mis expectativas.
+TEXT_HEAVNA119_01598_EMMANELLAIN_000_012	¿Vencer a dos de los Heavens' Ward ante la élite de la ciudad? ¡Por la Fury, cualquiera que no le prestaba atención seguro empezará a prestársela!
+TEXT_HEAVNA119_01598_HOUSEFORTEMPSSTEWARD01598_000_013	¡M-mi señor!
+TEXT_HEAVNA119_01598_HOUSEFORTEMPSSTEWARD01598_000_014	Acabamos de recibir un mensaje del Vault. Su Eminencia el arzobispo solicita la presencia de<if(gnum4, la señora,l señor)> <split(<string(gstr1)>, ,2)>.
+TEXT_HEAVNA119_01598_EMMANELLAIN_000_015	¿¡Una invitación del arzobispo!?
+TEXT_HEAVNA119_01598_ARTOIREL_000_016	Qué honor...
+TEXT_HEAVNA119_01598_EDMONT_000_017	Una citación personal es en efecto un gran honor, y dados los últimos sucesos, haría bien en no demorarse...
+TEXT_HEAVNA119_01598_EDMONT_000_018	Vaya, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Hablaremos después.
+TEXT_HEAVNA119_01598_HOUSEFORTEMPSSTEWARD01598_000_019	Un sacerdote l<if(gnum4,a,o)> estará esperando afuera del Vault. Identifíquese ante él y l<if(gnum4,a,o)> acompañará adentro.
+TEXT_HEAVNA119_01598_EDMONT_000_020	No se preocupe por el señor Alphinaud y la señorita Tataru. Los atenderemos cuando vuelvan del Tribunal.
+TEXT_HEAVNA119_01598_HOUSEFORTEMPSSTEWARD01598_000_021	Por si lo olvidó, el Vault está en el otro extremo del Hoplon. Le ruego que no haga esperar a Su Eminencia.
+TEXT_HEAVNA119_01598_PRIEST01598_000_030	Es un honor recibirl<if(gnum4,a,o)>, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Por aquí, por favor.
+TEXT_HEAVNA119_01598_PRIEST01598_000_040	¡Casi lloro cuando diste un paso al frente en el Tribunal, <split(<string(gstr1)>, ,1)>! ¡Gracias, gracias, gracias!

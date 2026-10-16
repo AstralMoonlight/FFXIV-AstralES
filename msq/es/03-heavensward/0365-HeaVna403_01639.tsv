@@ -1,0 +1,55 @@
+key	text
+TEXT_HEAVNA403_01639_SEQ_00	Alphinaud piensa cuál es la mejor forma de seguir con la búsqueda del Mongrel.
+TEXT_HEAVNA403_01639_SEQ_01	En plena reflexión sobre el siguiente paso, Alphinaud se da cuenta de repente de que Tataru no está por ninguna parte. Temiendo que se haya topado con los revolucionarios, corre hacia las puertas que dan al Brume y te hace señas para que lo sigas.
+TEXT_HEAVNA403_01639_SEQ_02	Buscas a Tataru con la mirada, pero no la ves. Ve a otro mirador y sigue buscando.
+TEXT_HEAVNA403_01639_SEQ_03	Ves a Tataru perseguida por dos hombres, y sales de inmediato tras ellos. Poco después, los desconocidos acorralan a la muchacha temblorosa y parecen a punto de hacer algo terrible cuando Alphinaud los increpa desde lejos. Pero sus intentos de calmar la situación solo enfurecen más a los hombres, y la violencia parece inevitable... hasta que aparece una mujer de pelo azabache y ojos de rubí y les ordena a los acosadores de Tataru que se detengan. Parece que se llama Hilda. En el tenso silencio que sigue, te observa con interés, esperando que digas a qué viniste.
+TEXT_HEAVNA403_01639_SEQ_04	Antes de que puedas hablar, Hilda sugiere que la acompañes al Forgotten Knight, donde podrán hablar en privado. Síguela hasta la taberna, allá arriba, y sigan la conversación allí.
+TEXT_HEAVNA403_01639_SEQ_05	A pedido de Hilda, Gibrillont ordena a su personal vaciar el Forgotten Knight para darles privacidad, y entonces explicas a fondo por qué vinieron. Mientras Alphinaud intenta ganarse la cooperación de los revolucionarios ─ al parecer en vano ─, Ser Charibert, un caballero de los Heavens' Ward, entra a la taberna y los acusa a ti y a los demás de tramar una insurrección. Sin otra opción, aceptas su invitación a salir y enfrentarlo.<br><br>Con la ayuda de Lord Haurchefant y Lucia, logras vencer a Ser Charibert, que se retira. Pero la alegría de la victoria se esfuma enseguida al saber que encarcelaron a Ser Aymeric y que pusieron a los Heavens' Ward al mando de los Temple Knights. Al ver que la situación llegó a un punto crítico, Hilda acepta ayudar en la misión de rescate.
+TEXT_HEAVNA403_01639_SEQ_06	Notando tu curiosidad, Hilda explica que empezó a llamarse "el Mongrel" por un orgullo recién descubierto por su sangre mezclada, pese a la discriminación que sufren ella y otros como ella. Al final, declara, sus seguidores llegaron a creer que las diferencias entre los de cuna humilde y los de alta cuna son mucho mayores que las que hay entre los de sangre pura y los mestizos. Así, unidos en su propósito y comprometidos con la causa de Ser Aymeric, esperan lograr un cambio duradero que ya se hizo esperar demasiado.
+TEXT_HEAVNA403_01639_TODO_00	Busca a Tataru en el Brume.
+TEXT_HEAVNA403_01639_TODO_01	Busca a Tataru en el Brume.
+TEXT_HEAVNA403_01639_TODO_02	Habla con Hilda.
+TEXT_HEAVNA403_01639_TODO_03	Habla con Hilda en el Forgotten Knight.
+TEXT_HEAVNA403_01639_TODO_04	Habla con Hilda.
+TEXT_HEAVNA403_01639_ALPHINAUD_000_000	Tiene que haber una forma de hacer salir al Mongrel a la luz. Hmm... Quizá deberíamos hablarlo con Tataru.
+TEXT_HEAVNA403_01639_ALPHINAUD_000_001	Hablando de eso, ¿dónde está Tataru? Ella... Ay, maldición. Bajó a hacer averiguaciones por su cuenta, ¿no? Tenemos que encontrarla rápido, <split(<string(gstr1)>, ,1)>: tengo el presentimiento de que esto no va a terminar bien.
+TEXT_HEAVNA403_01639_ALPHINAUD_000_002	¿Adónde habrá ido? Ah, <split(<string(gstr1)>, ,1)>: intente buscarla por allá.
+TEXT_HEAVNA403_01639_SYSTEM_000_003	Recorres con la mirada las calles de abajo, pero no ves rastro de Tataru...
+TEXT_HEAVNA403_01639_ALPHINAUD_100_011	Tiene que estar por aquí en algún lado... ¿Supongo que usted tampoco tuvo suerte?
+TEXT_HEAVNA403_01639_TATARU_000_010	¡Uaaah! ¡Perdón, olviden lo que dije!
+TEXT_HEAVNA403_01639_ALPHINAUD_000_011	¡Espere, allá abajo! ¿No es Tataru?
+TEXT_HEAVNA403_01639_ALPHINAUD_000_012	\<jadeo> ¡Esos hombres la están persiguiendo! ¡Rápido, <split(<string(gstr1)>, ,1)>, tras ellos!
+TEXT_HEAVNA403_01639_HILDA_000_017	Antes de que empiecen: vamos a algún lugar más privado, ¿eh? El Forgotten Knight, digamos.
+TEXT_HEAVNA403_01639_ALPHINAUD_000_013	Por una vez, parece que el destino nos sonríe. Si esos rufianes nos hubieran obligado a actuar, no me atrevo a pensar qué habría pasado.
+TEXT_HEAVNA403_01639_TATARU_000_014	N-no les gustó mucho mi historia sobre el weathered cane...
+TEXT_HEAVNA403_01639_REVOLUTIONARY1_000_015	¡Lo que tengas que decir, dilo!
+TEXT_HEAVNA403_01639_REVOLUTIONARY2_000_016	Te estoy vigilando...
+TEXT_HEAVNA403_01639_ALPHINAUD_100_013	Creo que lo mejor es que esta vez usted tome la iniciativa, <split(<string(gstr1)>, ,1)>.
+TEXT_HEAVNA403_01639_TATARU_100_014	Si estás nervios<if(gnum4,a,o)>, podría intentar charlar con ellos por nosotros. ¿Quizá les interesen las técnicas para trabajar troncos de lauan...? ¿O la historia del gladio maldito? ¡Ah, ya sé: la sartén legendaria! ¡Esa le encanta a todo el mundo!
+TEXT_HEAVNA403_01639_HILDA_000_020	A ver si adivino: te preguntas por qué elegí "el Mongrel", ¿no?
+TEXT_HEAVNA403_01639_HILDA_000_021	Porque es lo que soy, y no me avergüenzo. Ya no.
+TEXT_HEAVNA403_01639_HILDA_000_023	Además, hasta mis cachorros de sangre pura tienen más en común conmigo que los lords y las ladies de allá arriba. Ninguno de ellos es de buena cuna. Diablos, a algunas de sus madres las echaron después de un rato de diversión, igual que a la mía.
+TEXT_HEAVNA403_01639_HILDA_000_024	Una historia más vieja que el tiempo ─ y estamos hartos de oírla, por eso tomamos las armas.
+TEXT_HEAVNA403_01639_HILDA_000_025	No es que queramos ajustar cuentas con <italic(1)>todos<italic(0)> los sangre azul. Algunos se portaron bien con nosotros, lo reconozco, como los de la House Haillenarte.
+TEXT_HEAVNA403_01639_HILDA_000_026	No es que queramos ajustar cuentas con <italic(1)>todos<italic(0)> los sangre azul. Algunos se portaron bien con nosotros, lo reconozco, como los de la House Haillenarte. Claro, tú de eso sabes bastante, ¿no?
+TEXT_HEAVNA403_01639_HILDA_000_027	Pero basta de charla. Tu amigo sigue pudriéndose en una celda. No lo hagamos esperar.
+TEXT_HEAVNA403_01639_ALPHINAUD_000_030	No contaba con que intervinieran los Temple Knights... Al menos no como <italic(1)>enemigos<italic(0)>.
+TEXT_HEAVNA403_01639_TATARU_000_031	Primero Ser Grinnaux y Ser Paulecrain, y ahora este tal Charibert... Digo, da que pensar, ¿no? ¿<italic(1)>Todos<italic(0)> los caballeros de los Heavens' Ward son así de malos?
+TEXT_HEAVNA403_01639_REVOLUTIONARY1_000_032	¡Que me parta un rayo si no eres todo lo que dicen! ¿¡Cómo diablos hiciste esa cosa con la otra cosa!?
+TEXT_HEAVNA403_01639_REVOLUTIONARY2_000_033	¡Jo, jo, jo! ¡Vaya si le diste su merecido a esa escoria de alta cuna! ¡Eso sí que fue un gusto verlo!
+TEXT_HEAVNA403_01639_HAURCHEFANT_000_034	No hay tiempo que perder, <split(<string(gstr1)>, ,1)>. ¡Debemos movernos rápido, antes de que descubran nuestras intenciones!
+TEXT_HEAVNA403_01639_LUCIA_000_035	Nunca me gustó, desde sus días como inquisidor. Disfrutaba demasiado de su trabajo.
+TEXT_HEAVNA403_01639_QIB_TODO001	¡Derrota a Charibert!
+TEXT_HEAVNA403_01639_QIB_BATTLETALK_HILDA_002	Si quieres pelea, ¡ven a buscarla!
+TEXT_HEAVNA403_01639_QIB_BATTLETALK_CHARIBERT_003	Vaya, ¡qué furia! Paciencia, mi reina. Recién empezamos.
+TEXT_HEAVNA403_01639_QIB_BATTLETALK_TEMPLER_004	¡Defiendan a Ser Charibert! ¡Maten a los rebeldes!
+TEXT_HEAVNA403_01639_QIB_BATTLETALK_HILDA_005	¡Maldición! ¡No se acaban nunca!
+TEXT_HEAVNA403_01639_QIB_BATTLETALK_CHARIBERT_006	Parece que no entienden razones. Qué maravilla...
+TEXT_HEAVNA403_01639_QIB_BATTLETALK_HAURCHEFANT_008	¡Deténganse todos! ¡Es una locura! ¿¡Por qué pelean!?
+TEXT_HEAVNA403_01639_QIB_BATTLETALK_ALPHINAUD_007	¡Lord Haurchefant! ¡Aquí!
+TEXT_HEAVNA403_01639_QIB_BATTLETALK_CHARIBERT_010	Hmpf. Qué apropiado. El bastardo noble y la perra callejera.
+TEXT_HEAVNA403_01639_QIB_BATTLETALK_HILDA_009	¡Esta perra callejera te va a meter una bala entre los ojos!
+TEXT_HEAVNA403_01639_QIB_BATTLETALK_ALPHINAUD_011	Supongo que ahora es tan buen momento como cualquiera...
+TEXT_HEAVNA403_01639_QIB_BATTLETALK_ALPHINAUD_100	Maldición...
+TEXT_HEAVNA403_01639_QIB_BATTLETALK_HILDA_101	De todos los malditos lugares para...
+TEXT_HEAVNA403_01639_QIB_BATTLETALK_HAURCHEFANT_102	Mientras usted siga con vida... amig<if(gnum4,a,o)>... mí<if(gnum4,a,o)>.

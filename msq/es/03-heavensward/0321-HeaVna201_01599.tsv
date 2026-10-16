@@ -1,0 +1,34 @@
+key	text
+TEXT_HEAVNA201_01599_SEQ_00	Alphinaud quiere contarte su plan para rescatar a Raubahn.
+TEXT_HEAVNA201_01599_SEQ_01	Alphinaud revela que estuvo en contacto con Merlwyb, que sigue siendo una firme aliada de los Scions. Como quiere saber cómo están las cosas en el sultanato antes de intentar cualquier rescate, acordó reunirse con la Admiral, y te pide que lo acompañes. Ve al Bulwark Hall, en los lower decks de Limsa Lominsa, y habla con el Storm Sergeant Zanthael para que te deje pasar al Bridge.
+TEXT_HEAVNA201_01599_SEQ_02	Merlwyb te informa que trasladaron a Raubahn a un lugar desconocido antes de su ejecución inminente ─ y que fueron nada menos que los Crystal Braves. Desde que llegó esta inquietante noticia, los shinobi de Doma buscan desesperadamente información sobre el paradero del Flame General, y la Admiral te pide que busques a su contacto domano: una mujer que trabaja de peona de la frontera en una cocina de Revenant's Toll.
+TEXT_HEAVNA201_01599_SEQ_03	El contacto domano resulta ser Higiri. Durante el desafortunado banquete de la victoria, miembros de los Crystal Braves tomaron los Rising Stones por la fuerza, pero ella y algunos de sus compatriotas lograron escapar. Agradecidos por la amabilidad que les mostraron los Scions, los domanos están listos para ayudar a rescatar a Raubahn.
+TEXT_HEAVNA201_01599_TODO_00	Habla con Zanthael en los lower decks de Limsa Lominsa.
+TEXT_HEAVNA201_01599_TODO_01	Habla con el contacto domano en Revenant's Toll.
+TEXT_HEAVNA201_01599_ALPHINAUD_000_000	Aunque la situación es urgente, de poco nos serviría lanzarnos de cabeza sobre Ul'dah sin un plan. Pero antes de trazar un plan, debemos saber cómo están las cosas en el sultanato ─ por eso propongo que visitemos Limsa Lominsa.
+TEXT_HEAVNA201_01599_ALPHINAUD_000_001	Sí, oyó bien. Mientras usted se dedicaba a sus nobles tareas, yo hice de intermediario en unas negociaciones comerciales entre la House Fortemps y un consorcio lominsano. Durante esas negociaciones, se presentó la oportunidad de enviarle un mensaje a la Admiral, y la aproveché.
+TEXT_HEAVNA201_01599_ALPHINAUD_000_002	Me alegra informar que todavía tenemos una firme aliada en Limsa. La Admiral prometió su total cooperación en cualquier intento de rescatar a Raubahn.
+TEXT_HEAVNA201_01599_ALPHINAUD_000_003	Por eso acepté reunirme con ella, para discutir cómo proceder. Naturalmente, le dije que nos esperara a los dos. Al fin y al cabo, su presencia siempre les da ánimo a nuestros aliados.
+TEXT_HEAVNA201_01599_ALPHINAUD_000_004	Cuando llegue a Limsa Lominsa, preséntese ante el sargento Zanthael en el Bulwark Hall, en los lower decks. Él l<if(gnum4,a,o)> dejará pasar al Bridge.
+TEXT_HEAVNA201_01599_TATARU_100_004	Por los dioses, espero que no sea demasiado tarde para salvar al General Raubahn... Debí decírtelo antes ─ lo de la ejecución, digo ─, pero con el juicio y todo eso... \<suspiro>
+TEXT_HEAVNA201_01599_ALPHINAUD_000_006	Hable con el sargento Zanthael cuando esté list<if(gnum4,a,o)> para ver a la Admiral. Él nos dejará pasar al Bridge.
+TEXT_HEAVNA201_01599_ZANTHAEL_000_010	La Admiral l<if(gnum4,a,o)> espera. Dígamelo y l<if(gnum4,a,o)> llevaré con ella.
+TEXT_HEAVNA201_01599_Q1_000_000	¿Ir al Bridge?
+TEXT_HEAVNA201_01599_A1_000_001	Sí
+TEXT_HEAVNA201_01599_A1_000_002	No
+TEXT_HEAVNA201_01599_MERLWYB_000_011	La supervivencia de Raubahn es vital para la Eorzean Alliance. No podemos permitirnos perderlo.
+TEXT_HEAVNA201_01599_MERLWYB_000_012	Pero no puedo enviar tropas a Ul'dah. Sería el fin de la Alliance, y lo más probable, la guerra. Si ha de haber un rescate, les toca a ustedes intentarlo.
+TEXT_HEAVNA201_01599_ALPHINAUD_000_013	No lo querría de otro modo, Admiral.
+TEXT_HEAVNA201_01599_ALPHINAUD_000_014	Fui yo quien fundó los Crystal Braves, y soy yo quien debe responder por sus actos.
+TEXT_HEAVNA201_01599_MERLWYB_000_015	Habla como un verdadero líder, señor Alphinaud.
+TEXT_HEAVNA201_01599_MERLWYB_000_016	Como primer paso, deberían buscar a nuestro contacto domano. La encontrarán entre los peones de la frontera de Revenant's Toll, trabajando en una cocina.
+TEXT_HEAVNA201_01599_ALPHINAUD_000_017	Puede que los Crystal Braves ya no respondan ante mí, pero eso no me libra de responsabilidad. Como comandante, debo responder por todos los males que cometieron ─ por todo el caos que sembraron.
+TEXT_HEAVNA201_01599_MERLWYB_000_018	Aunque de nada sirve darle vueltas al pasado, a menudo me pregunto si podría haber hecho ─ si debería haber hecho ─ más por ustedes y por Raubahn aquel día.
+TEXT_HEAVNA201_01599_MERLWYB_101_018	Irme del banquete fue como dejarlos a ustedes por muertos. Si me consideran una cobarde, no se los reprocharé.
+TEXT_HEAVNA201_01599_MERLWYB_101_019	Pero se lo compensaré, lo juro. Pase lo que pase, sepan que los Scions of the Seventh Dawn pueden contar con nuestra cooperación.
+TEXT_HEAVNA201_01599_EYNZAHRSLAFYRSYN_000_019	Ojalá pudiéramos acompañarte a rescatar al Flame General, pero al sultanato no le haría ninguna gracia una potencia extranjera en su suelo, aliada o no.
+TEXT_HEAVNA201_01599_HIGIRI_000_020	¡<if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,1)>! En el fondo sabía que estaba a salvo, pero volver a verl<if(gnum4,a,o)> en persona... No hay palabras para expresar mi alivio.
+TEXT_HEAVNA201_01599_HIGIRI_000_021	En pleno banquete de la victoria, los Crystal Braves se volvieron contra nosotros y tomaron los Rising Stones por la fuerza.
+TEXT_HEAVNA201_01599_HIGIRI_000_022	En medio del caos, algunos de mis compatriotas y yo logramos escabullirnos sin que nos vieran. Desde entonces seguimos en Revenant's Toll, vigilando a los amotinados mientras esperábamos su regreso.
+TEXT_HEAVNA201_01599_HIGIRI_000_023	Fue buen<if(gnum4,a,o)> con nosotros, y los domanos no olvidamos nuestras deudas. Juramos hacer todo lo que esté en nuestro poder para ayudarl<if(gnum4,a,o)>.
+TEXT_HEAVNA201_01599_ALPHINAUD_000_024	¿Será ella el contacto domano del que habló la Admiral?

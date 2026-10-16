@@ -1,0 +1,41 @@
+key	text
+TEXT_HEAVNA704_01666_SEQ_00	El nodo guía está listo para llevarte por el Beta Quadrant.
+TEXT_HEAVNA704_01666_SEQ_01	A tu orden, el nodo guía se pone en marcha flotando, no sin antes advertirte que el Beta Quadrant es hogar de monstruosidades quiméricas. Sigue al nodo hasta Matter Conduit IV-V y habla con él para recibir más instrucciones.
+TEXT_HEAVNA704_01666_SEQ_02	Llegas al siguiente conducto de materia, pero no funciona. Según el nodo guía, unas criaturas quiméricas cercanas están absorbiendo la energía necesaria para activarlo. Alphinaud sugiere separarse y eliminar a esas plagas. A ti te toca ocuparte de las criaturas de los Recombination Labs.
+TEXT_HEAVNA704_01666_SEQ_03	Eliminaste tu parte de las criaturas quiméricas. Vuelve con el nodo guía en Matter Conduit IV-V.
+TEXT_HEAVNA704_01666_SEQ_04	Sin monstruos que absorban la energía, el conducto de materia vuelve a la vida y ya puede enviarlos al Gamma Quadrant. Examina el conducto cuando estés list<if(gnum4,a,o)> para seguir.
+TEXT_HEAVNA704_01666_SEQ_05	Llegas al Gamma Quadrant y lo encuentras plagado de soldados garleans. Su presencia es una complicación indeseada para tu misión.
+TEXT_HEAVNA704_01666_TODO_00	Habla con el nodo guía en Matter Conduit IV-V.
+TEXT_HEAVNA704_01666_TODO_01	Espera al acecho en los Recombination Labs y derrota a las criaturas quiméricas.
+TEXT_HEAVNA704_01666_TODO_02	Habla con el nodo guía en Matter Conduit IV-V.
+TEXT_HEAVNA704_01666_TODO_03	Usa el teletransportador allagan para viajar al Gamma Quadrant.
+TEXT_HEAVNA704_01666_GUIDANCESYSTEM_000_000	\<bip> Reanudando la guía al Aetherochemical Research Facility. Por favor, sígame.
+TEXT_HEAVNA704_01666_GUIDANCESYSTEM_000_001	Este sector, el Beta Quadrant, alberga laboratorios que producen formas de vida quiméricas para uso militar y doméstico.
+TEXT_HEAVNA704_01666_GUIDANCESYSTEM_000_002	Nuestra instalación obtuvo la certificación de tres estrellas por cumplir con la norma ASO<-->3001. Se garantiza el buen comportamiento de las criaturas nacidas aquí.
+TEXT_HEAVNA704_01666_GUIDANCESYSTEM_000_003	Sin embargo, tenga en cuenta que milenios de abandono podrían haber afectado su temperamento. Por su propia seguridad, absténgase de acercarse a las criaturas.
+TEXT_HEAVNA704_01666_ESTINIEN_000_004	¿Estás segur<if(gnum4,a,o)> de que es prudente confiarle nuestras vidas a esta esfera?
+TEXT_HEAVNA704_01666_YSHTOLA_000_005	Ese nodo no es lo que parece. Entre el metal siento la mirada de un ser vivo. Ten cuidado con él.
+TEXT_HEAVNA704_01666_ALPHINAUD_000_006	El conducto de materia parece funcionar con el mismo principio que los aetherytes. Sin duda resistió el paso del tiempo.
+TEXT_HEAVNA704_01666_GUIDANCESYSTEM_000_010	\<bip> No se puede activar el conducto de materia. Se detectó falta de energía.<br>Identificando la causa...
+TEXT_HEAVNA704_01666_GUIDANCESYSTEM_000_011	Causa identificada: absorción no autorizada de energía por parte de criaturas quiméricas.<br>Ubicaciones: los Recombination Labs y el Biomass Incubation Complex.
+TEXT_HEAVNA704_01666_ALPHINAUD_000_012	El tiempo apremia: separémonos y eliminemos a los culpables. <split(<string(gstr1)>, ,1)>, le ruego que despache a las criaturas de los Recombination Labs.
+TEXT_HEAVNA704_01666_ALPHINAUD_100_012	Los demás limpiaremos el Incubation Complex. Cuídese, y vuelva aquí cuando termine.
+TEXT_HEAVNA704_01666_ESTINIEN_000_013	La esfera empieza a agotar mi paciencia.
+TEXT_HEAVNA704_01666_YSHTOLA_000_014	Los allaganos no respetaban la vida. Por brillantes que fueran, no puedo respetarlos.
+TEXT_HEAVNA704_01666_ALPHINAUD_000_015	La zona está plagada de criaturas quiméricas. Esté en guardia.
+TEXT_HEAVNA704_01666_ESTINIEN_000_016	Me viene bien la oportunidad de calentar antes de la batalla que viene.
+TEXT_HEAVNA704_01666_YSHTOLA_000_017	¿Qué le pasa de repente a Alphinaud?
+TEXT_HEAVNA704_01666_ALPHINAUD_000_018	¡Puedo arreglármelas solo!
+TEXT_HEAVNA704_01666_GUIDANCESYSTEM_000_019	Se detectó falta de energía.<br>Causa: absorción no autorizada de energía por parte de criaturas quiméricas.<br>Ubicaciones: los Recombination Labs y el Biomass Incubation Complex.
+TEXT_HEAVNA704_01666_GUIDANCESYSTEM_000_040	\<bip> Energía restablecida en el conducto. Espere un momento mientras lo activo.
+TEXT_HEAVNA704_01666_ESTINIEN_000_041	No hay que fiarse de las máquinas, y menos de las que piensan.
+TEXT_HEAVNA704_01666_YSHTOLA_000_042	Alphinaud llegó lejos. El maestro Louisoix estaría orgulloso.
+TEXT_HEAVNA704_01666_ALPHINAUD_000_043	Mientras enfrentaba a las criaturas quiméricas, tuve un momento de inspiración. Siento que logré una mejor afinidad con las entidades arcanas.
+TEXT_HEAVNA704_01666_GUIDANCESYSTEM_100_050	Conducto activado. Puede viajar al Gamma Quadrant cuando lo desee.
+TEXT_HEAVNA704_01666_ALPHINAUD_100_051	Mientras enfrentaba a las criaturas quiméricas, tuve un momento de inspiración. Siento que logré una mejor afinidad con las entidades arcanas.
+TEXT_HEAVNA704_01666_ESTINIEN_100_052	No hay que fiarse de las máquinas, y menos de las que piensan.
+TEXT_HEAVNA704_01666_YSHTOLA_100_053	El siguiente cuadrante nos espera. Apurémonos.
+TEXT_HEAVNA704_01666_ALPHINAUD_000_051	Así que los garleans lograron aterrizar... Parece que la reparación de su nave va muy avanzada.
+TEXT_HEAVNA704_01666_YSHTOLA_000_052	Pero dudo que se vayan pronto. No: se quedarán aquí mucho después de despojar a la isla de todos sus secretos.
+TEXT_HEAVNA704_01666_ESTINIEN_000_053	Piensen quedarse o no, su presencia aquí y ahora es una complicación indeseada.
+TEXT_HEAVNA704_01666_YSHTOLA_000_054	Así es. Evitemos enfrentamientos salvo que sean absolutamente necesarios.
