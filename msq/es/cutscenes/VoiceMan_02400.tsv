@@ -1,0 +1,380 @@
+key	text
+TEXT_VOICEMAN_02400_000010_ILBERD	Salve, Scion. ¿En qué podemos servirle?
+TEXT_VOICEMAN_02400_000020_ILBERD	...¿El commander Leveilleur le pidió que nos ayudara?
+TEXT_VOICEMAN_02400_000030_ILBERD	Son muy buenas noticias. Dada la naturaleza delicada de la tarea, no podía confiar en uno de los míos.
+TEXT_VOICEMAN_02400_000040_ILBERD	Lo que voy a contarle se lo cuento en la más estricta confidencia.
+TEXT_VOICEMAN_02400_000050_ILBERD	Hace unos días recibimos ciertos documentos de una fuente anónima. Nos advertían de la presencia de un agente garleano en las filas de una de las Grand Companies.
+TEXT_VOICEMAN_02400_000060_ILBERD	Tras unas averiguaciones discretas, identificamos a un sospechoso entre los Immortal Flames y lo detuvimos para interrogarlo.
+TEXT_VOICEMAN_02400_000070_ILBERD	Por desgracia, el hombre no era nuestro agente. Solo era uno de los muchos hombres a su servicio.
+TEXT_VOICEMAN_02400_000080_ILBERD	Le exigimos un nombre al traidor, pero no tenía ninguno que dar. Dice que nunca conoció a su amo, al que solo conoce como Ivy.
+TEXT_VOICEMAN_02400_000090_ILBERD	Sin embargo, estaba seguro de que esa "hiedra" se había enredado en cada rincón de los Immortal Flames. Parece que nuestra presa se unió a la compañía hace tiempo y fue reclutando poco a poco a otros para su causa.
+TEXT_VOICEMAN_02400_000100_ILBERD	Esos conspiradores son las enredaderas por las que se entera de nuestros secretos, sin exponerse nunca.
+TEXT_VOICEMAN_02400_000110_ILBERD	No será fácil identificar a Ivy en esta maraña de engaños. Pero tenemos un zarcillo en las manos, y lo seguiremos hasta la raíz retorcida.
+TEXT_VOICEMAN_02400_000120_ILBERD	Ahora bien, por mucho que preferiría actuar con la debida discreción, las circunstancias exigen resolver este asunto cuanto antes.
+TEXT_VOICEMAN_02400_000130_ILBERD	La guerra de sucesión de Garlemald está por terminar, y se teme que el Imperio pronto reanude su marcha sobre Eorzea.
+TEXT_VOICEMAN_02400_000140_ILBERD	Cuando lo haga, no podemos darnos el lujo de tener traidores entre nosotros. Hay que arrancar a Ivy de raíz ahora mismo.
+TEXT_VOICEMAN_02400_000150_ILBERD	Debemos empezar por informar al general Raubahn de lo que averiguamos. Le pediría que me acompañe al Hall of Flames y que esté a mano para que todo salga bien.
+TEXT_VOICEMAN_02400_000160_ILBERD	Si los zarcillos de Ivy están tan extendidos como creemos, sabrá que hay una investigación en curso. Y si es así, bien podría actuar contra nosotros.
+TEXT_VOICEMAN_02400_000170_ILBERD	Tenemos que estar preparados para cualquier cosa, pero sin delatar nuestras intenciones <italic(1)>pareciendo<italic(0)> preparados. Una tarea bastante sencilla para <if(gnum4,una mujer,un hombre)> que vale por un ejército como usted.
+TEXT_VOICEMAN_02400_100010_RAUBAHN	Vaya, vaya. ¿Qué te trae por aquí, <if(gnum4,amiga mía,amigo mío)>?
+TEXT_VOICEMAN_02400_100011_ILBERD	Está aquí a petición mía. Saludos, Raubahn. Ha pasado tiempo.
+TEXT_VOICEMAN_02400_100020_RAUBAHN	¡Ilberd, viejo granuja! ¡Cuando me dijeron que vendrías, casi no podía creerlo!
+TEXT_VOICEMAN_02400_100030_RAUBAHN	¡Pero mírate! ¡El honorable capitán de los malditos Crystal Braves! ¿Quién lo habría imaginado, eh?
+TEXT_VOICEMAN_02400_100040_ILBERD	No muchos. Pero todavía menos habrían imaginado que tu destino estaba en la política, viejo amigo.
+TEXT_VOICEMAN_02400_100050_RAUBAHN	Sí... los dos llegamos lejos, ¿no?
+TEXT_VOICEMAN_02400_100060_RAUBAHN	Por si te lo preguntas, Ilberd y yo nos conocemos hace mucho. Somos amigos y rivales desde que éramos muchachos.
+TEXT_VOICEMAN_02400_100070_RAUBAHN	La última vez que nos vimos, Ala Mhigo acababa de caer, así que imagínate cuántos veranos han pasado. ¡Y en todo ese tiempo, ni una palabra del muy tonto!
+TEXT_VOICEMAN_02400_100080_ILBERD	Ah, bueno, mis asuntos tendían a lo modesto y lo mundano... a diferencia de los de otros que podría mencionar.
+TEXT_VOICEMAN_02400_100090_ILBERD	Según me contaron, apenas llegaste a Thanalan, los Brass Blades te encadenaron y te arrastraron a morir en las arenas sangrientas. Pero, testarudo como eres, ganaste mil combates, y de paso te ganaste un lugar en el corazón de la gente.
+TEXT_VOICEMAN_02400_100100_ILBERD	Después, con tu montaña de premios, compraste el Coliseum y conseguiste un asiento en el Syndicate. ¡Por las barbas de Thal, hermano, decir "de la miseria a la riqueza" se queda corto! ¡Eres un héroe para el hombre común!
+TEXT_VOICEMAN_02400_100110_RAUBAHN	Bah, ahórratelo. No soy ningún héroe. Si alguien merece ese título, es <if(gnum4,nuestra amiga,nuestro amigo)> aquí presente. A su lado, yo no soy más que un carnicero con fama.
+TEXT_VOICEMAN_02400_100120_RAUBAHN	Pero tú, Ilberd, te subestimas. Por lo que dicen, fuiste un aventurero de cierta reputación.
+TEXT_VOICEMAN_02400_100130_ILBERD	Me gusta pensar que puse mi granito de arena por el bien común. Pero si tú no eres un héroe, entonces yo no soy un aventurero, no en <italic(1)>esta<italic(0)> compañía. En fin...
+TEXT_VOICEMAN_02400_100140_ILBERD	Traigo noticias.
+TEXT_VOICEMAN_02400_100150_RAUBAHN	Así que hubo avances.
+TEXT_VOICEMAN_02400_100160_RAUBAHN	Hice correr la voz de que esta reunión es un reencuentro entre viejos amigos. Nadie le dará más vueltas a tu visita.
+TEXT_VOICEMAN_02400_100170_RAUBAHN	Reunirnos en otro lado solo llamaría la atención. Hablemos aquí, a la vista de todos.
+TEXT_VOICEMAN_02400_100180_RAUBAHN	...Así que somos nosotros los que estamos comprometidos.
+TEXT_VOICEMAN_02400_100190_RAUBAHN	Las maquinaciones de Teledji Adeledji sacudieron a Ul'dah hasta los cimientos. En tiempos tan inciertos, la lealtad de un hombre se puede comprar por un puñado de gil...
+TEXT_VOICEMAN_02400_100200_RAUBAHN	Pero si esta serpiente de verdad lleva tanto tiempo entre nosotros como dices, tenemos que considerar una posibilidad mucho más grave: una conspiración. ¿Podría ser que los Monetarists estuvieran aliados con el Imperio desde el principio?
+TEXT_VOICEMAN_02400_100210_RAUBAHN	Muy bien. Haré que mis hombres de más confianza investiguen el asunto. Mientras tanto, sigan con sus averiguaciones.
+TEXT_VOICEMAN_02400_100220_RAUBAHN	Me alegra volver a verte, viejo amigo. La próxima vez que nos veamos, que sea con una jarra de cerveza.
+TEXT_VOICEMAN_02400_100230_ILBERD	Lo espero con ganas. Recordaremos los viejos tiempos y brindaremos por el futuro de nuestra patria.
+TEXT_VOICEMAN_02400_100240_ILBERD	Flame General... El manto te queda bien, viejo amigo. Tendré que esforzarme si quiero estar a la altura.
+TEXT_VOICEMAN_02400_100250_ILBERD	Bueno, parece que al final sus servicios no hicieron falta. Me atrevería a decir que se lo debemos a la prudencia de Raubahn. Aun así, me alegró su presencia. Gracias, Scion.
+TEXT_VOICEMAN_02400_300010_HAURCHEFANT	Tenga fe, amigo mío. Solo tiene que exponer su caso con seguridad y claridad.
+TEXT_VOICEMAN_02400_300020_AYMERIC	(-???-)Commander Leveilleur. Es un honor y un placer conocerlo.
+TEXT_VOICEMAN_02400_300030_AYMERIC	Soy Aymeric, comandante supremo de los Temple Knights.
+TEXT_VOICEMAN_02400_300040_ALPHINAUD	Alphinaud Leveilleur, a su servicio.
+TEXT_VOICEMAN_02400_300050_ALPHINAUD	Su reputación lo precede, Ser Aymeric. Creo que descubriremos que tenemos mucho en común.
+TEXT_VOICEMAN_02400_300060_AYMERIC	Hablando de reputaciones, la suya nos supera a todos. ¿No es así?
+TEXT_VOICEMAN_02400_300080_LUCIA	(-Temple Knight taciturna-)Así es, comandante supremo.
+TEXT_VOICEMAN_02400_300090_AYMERIC	No me avergüenza admitir que he seguido sus actividades con un interés que roza la fascinación.
+TEXT_VOICEMAN_02400_300100_AYMERIC	Me alegró muchísimo saber que se uniría a nosotros.
+TEXT_VOICEMAN_02400_300110_AYMERIC	Bien, ¿empezamos?
+TEXT_VOICEMAN_02400_300120_ALPHINAUD	Sabemos muy bien que los garleanos volverán con todas sus fuerzas dentro de poco.
+TEXT_VOICEMAN_02400_300130_ALPHINAUD	Además, todavía no logramos una victoria duradera sobre la amenaza de los primals. Las tribus bestiales siguen invocando a sus dioses, y cada encarnación es más fuerte que la anterior.
+TEXT_VOICEMAN_02400_300140_ALPHINAUD	Ishgard no es inmune a estas amenazas. Debo insistir en que a su nación le convendría volver a la Eorzean Alliance.
+TEXT_VOICEMAN_02400_300150_AYMERIC	Una vez más, debo discrepar respetuosamente.
+TEXT_VOICEMAN_02400_300160_ALPHINAUD	¿Por qué motivo?
+TEXT_VOICEMAN_02400_300170_AYMERIC	Pese a su presencia en Coerthas, los Ixal no nos conciernen. Sus reclamos territoriales tienen que ver con tierras gridanianas, y es al pueblo de Gridania al que acosan.
+TEXT_VOICEMAN_02400_300180_AYMERIC	Por eso la Holy See considera que es un asunto gridaniano, e Ishgard no interviene en los asuntos internos de otras naciones.
+TEXT_VOICEMAN_02400_300190_AYMERIC	Aun si no fuera así, nuestras fuerzas están por completo dedicadas al conflicto con Dravania. No nos sobran caballeros.
+TEXT_VOICEMAN_02400_300200_AYMERIC	En cuanto a los garleanos, no ignoramos la historia. Observamos el ascenso y la expansión del Imperio, y coincidimos en que es solo cuestión de tiempo que reanuden su campaña en Eorzea.
+TEXT_VOICEMAN_02400_300220_ALPHINAUD	Entonces, ¿no nos convendría presentar un frente unido?
+TEXT_VOICEMAN_02400_300230_AYMERIC	Quizá algún día, pero todavía no.
+TEXT_VOICEMAN_02400_300240_AYMERIC	Gaius van Baelsar está muerto, y la legión de reclutas que dejó atrás no tiene voluntad de luchar. Nos parece muy poco probable que salgan de detrás de los muros de sus castra por un buen tiempo.
+TEXT_VOICEMAN_02400_300250_ALPHINAUD	Perdone, pero si la postura de Ishgard no cambió, ¿por qué aceptó esta reunión?
+TEXT_VOICEMAN_02400_300260_AYMERIC	No vine aquí solo como representante de Ishgard.
+TEXT_VOICEMAN_02400_300270_ALPHINAUD	¿Perdón?
+TEXT_VOICEMAN_02400_300280_AYMERIC	No está en mis manos cambiar la política de Ishgard, más allá de lo que yo sienta. Sin embargo, hay un ámbito en el que puedo ejercer cierta influencia.
+TEXT_VOICEMAN_02400_300290_AYMERIC	Surgieron inquietudes por los suministros que la House Fortemps le ofreció a Revenant's Toll. Eso llevó a que se pidan restricciones a la ayuda a potencias extranjeras.
+TEXT_VOICEMAN_02400_300300_AYMERIC	Puedo asegurarme de que los envíos sigan sin interrupción.
+TEXT_VOICEMAN_02400_300310_HAURCHEFANT	¡Ser Aymeric, estaríamos en deuda con usted!
+TEXT_VOICEMAN_02400_300320_AYMERIC	No, no lo estarían, porque necesito algo a cambio.
+TEXT_VOICEMAN_02400_300330_AYMERIC	Últimamente hubo un aluvión de actividad de Dravania, cuyo propósito no estaba claro al principio.
+TEXT_VOICEMAN_02400_300340_AYMERIC	Sin embargo, desde entonces nuestros astrologians observaron cambios alarmantes en los cielos. La estrella del dragón brilla cada vez más, de forma antinatural, y se rumorea que presagia la resurrección de Midgardsormr.
+TEXT_VOICEMAN_02400_300350_ALPHINAUD	¿El guardián caído de Silvertear Falls? Es absurdo.
+TEXT_VOICEMAN_02400_300360_AYMERIC	Muchas veces contemplé el cadáver del dragón, todavía enroscado en el <italic(1)>Agrius<italic(0)>, y me pregunté qué tan distinto sería nuestro mundo si siguiera vivo para asolar los cielos.
+TEXT_VOICEMAN_02400_300370_AYMERIC	No lo sé, y no deseo saberlo. Ni ningún hijo de Ishgard. Pero la mera presencia de fuerzas de Dravania no es motivo suficiente para enviar caballeros a Mor Dhona, digan lo que digan nuestros astrologians. Como le dije, no nos sobran fuerzas.
+TEXT_VOICEMAN_02400_300380_ALPHINAUD	...Pero a nosotros sí. Entonces, intercederá a nuestro favor si aceptamos vigilar el Keeper of the Lake.
+TEXT_VOICEMAN_02400_300390_AYMERIC	¿Acepta estas condiciones?
+TEXT_VOICEMAN_02400_300400_ALPHINAUD	Acepto. Me encargaré de mantenerlo al tanto de cualquier novedad.
+TEXT_VOICEMAN_02400_300410_ALPHINAUD	Lamento que no hayamos llegado a un acuerdo parecido en otros asuntos, pero entiendo que no tiene libertad para tomar esas decisiones.
+TEXT_VOICEMAN_02400_300420_ALPHINAUD	Aun así, espero que lo que logramos hoy aquí sirva para demostrarles a sus compatriotas que podemos trabajar juntos por un objetivo común. Quizá algún día recordemos este momento como el primer paso hacia una Eorzea unida.
+TEXT_VOICEMAN_02400_300440_AYMERIC	Quizá así sea, commander.
+TEXT_VOICEMAN_02400_300450_HAURCHEFANT	¿¡Qué significa esto!?
+TEXT_VOICEMAN_02400_300460_CAVALRY02400	¡La caravana, mi señor! ¡La atacaron!
+TEXT_VOICEMAN_02400_300470_CAVALRY02400	¡Fue <italic(1)>Iceheart<italic(0)>, mi señor!
+TEXT_VOICEMAN_02400_300480_HAURCHEFANT	¿¡Qué!? ¡Por la Fury! ¿¡Todas nuestras precauciones fueron en vano!?
+TEXT_VOICEMAN_02400_600010_ICEHEART	(-???-)Los relatos no le hacen justicia, Warrior of Light.
+TEXT_VOICEMAN_02400_600020_ICEHEART	(-???-)Sí, sé quién es usted. Y usted sabe quién soy yo.
+TEXT_VOICEMAN_02400_600030_ICEHEART	(-Iceheart-)Me pusieron el nombre de Ysayle, pero el de Iceheart me lo gané.
+TEXT_VOICEMAN_02400_600040_ICEHEART	(-Iceheart-)Este ciclo interminable de odio, de derramamiento de sangre, de pesar... ¿Usted querría que continuara, noble Warrior of Light?
+TEXT_VOICEMAN_02400_600050_ICEHEART	(-Iceheart-)Yo no. Yo <italic(1)>no lo permitiré<italic(0)>. Pondré fin a esta guerra entre dragones y hombres, cueste lo que cueste.
+TEXT_VOICEMAN_02400_600080_ICEHEART	(-Iceheart-)Con el tiempo entenderá que lo que hacemos lo hacemos por el bien común.
+TEXT_VOICEMAN_02400_600090_ICEHEART	(-Iceheart-)Por Eorzea. Por Hydaelyn.
+TEXT_VOICEMAN_02400_900010_KANESENNA	Hubo un cambio en el Imperio garleano, y debemos hablar de lo que implica.
+TEXT_VOICEMAN_02400_900011_MERLWYB	¿Entonces los rumores son ciertos? ¿Terminó la guerra de sucesión?
+TEXT_VOICEMAN_02400_900020_KANESENNA	Así es. Un nuevo emperador reina en Garlemald.
+TEXT_VOICEMAN_02400_900030_ALPHINAUD	¿¡Quién!?
+TEXT_VOICEMAN_02400_900040_KANESENNA	El nacimiento y la expansión demasiado rápida del Imperio garleano suelen atribuirse a la genialidad estratégica de Solus zos Galvus, pero él no gobernó solo. Varios miembros de la familia real también se destacaron durante su reinado.
+TEXT_VOICEMAN_02400_900050_KANESENNA	Aun así, era el hijo mayor quien iba a heredar el trono... hasta su muerte tan prematura.
+TEXT_VOICEMAN_02400_900060_RAUBAHN	Me pareció una suerte cuando supe que el Emperador había muerto sin nombrar sucesor.
+TEXT_VOICEMAN_02400_900070_ALPHINAUD	Ojalá el Imperio garleano hubiera muerto con él.
+TEXT_VOICEMAN_02400_900080_RAUBAHN	Los que tenían más derecho eran el nieto y su tío, ¿no?
+TEXT_VOICEMAN_02400_900090_KANESENNA	Así es. Pero el derecho vale poco sin el poder para hacerlo valer. El High Legatus Varis yae Galvus es un líder militar respetado; su tío, no.
+TEXT_VOICEMAN_02400_900100_MERLWYB	Así que el joven Varis le arrancó la corona de las manos a su tío y ocupó su lugar a la cabeza del Imperio.
+TEXT_VOICEMAN_02400_900120_KANESENNA	Dado lo turbulento de su sucesión, el nuevo emperador necesitará tiempo para afianzar su poder. Pero no duden de que lo hará, porque ya no queda nadie con fuerza suficiente para oponérsele.
+TEXT_VOICEMAN_02400_900130_RAUBAHN	Desde el éxito de la Operation Archon, lo que queda de la XIVth Legion y las fuerzas que ocupan Ala Mhigo no hicieron más que fortificar sus posiciones.
+TEXT_VOICEMAN_02400_900140_RAUBAHN	Pero pueden estar seguros de que estarán listos para marchar otra vez contra nosotros si su emperador da la orden.
+TEXT_VOICEMAN_02400_900150_MERLWYB	<italic(1)>Cuando<italic(0)> la dé, no si la da. Dicen que ese Varis estaba tan empeñado en anexar Eorzea que se opuso al proyecto Meteor.
+TEXT_VOICEMAN_02400_900160_KANESENNA	Está claro que las intenciones del nuevo emperador nos preocupan mucho a todos.
+TEXT_VOICEMAN_02400_900170_KANESENNA	Propongo que dejemos de lado por ahora la disputa de Carteneau y hablemos de qué medidas puede tomar la Alliance para prepararse ante una reanudación de las hostilidades con Garlemald.
+TEXT_VOICEMAN_02400_900171_KANESENNA	Además, propongo que volvamos a examinar cómo podríamos persuadir a nuestros antiguos aliados de Ishgard de que vuelvan a ocupar su lugar a nuestro lado. Si Eorzea lograra mantenerse unida, sería un duro golpe para las ambiciones de nuestro enemigo.
+TEXT_VOICEMAN_02400_900180_ALPHINAUD	Bueno, supongo que deberíamos agradecer que por fin reconozcan que el ataque imperial es inevitable. Quién sabe, quizá hasta hagan algo al respecto.
+TEXT_VOICEMAN_02400_900190_ALPHINAUD	Si tan solo los líderes de Ishgard siguieran su ejemplo y dejaran de esconderse tras sus puertas, rezando para que la tormenta que viene pase de largo.
+TEXT_VOICEMAN_02400_900200_ALPHINAUD	Pero esa es una discusión para otro momento. Ahora me preocupa más que los preparativos de los que habla la Alliance lleguen a oídos de los garleanos muchas lunas antes de que ataquen.
+TEXT_VOICEMAN_02400_900210_ALPHINAUD	Mientras Ivy se nos escape, ningún secreto está a salvo.
+TEXT_VOICEMAN_02400_B00010_MOENBRYDA	(-???-)Minfilia, ¿verdad?
+TEXT_VOICEMAN_02400_B00020_MINFILIA	La misma. Te doy la bienvenida a Revenant's Toll, y gracias por viajar tan lejos con tan poco aviso.
+TEXT_VOICEMAN_02400_B00030_MOENBRYDA	(-???-)¡Ja! ¡Como si pudiera decirle que no a Urianger!
+TEXT_VOICEMAN_02400_B00040_MINFILIA	Moenbryda es una erudita consumada de Sharlayan y una autoridad en tecnologías de aetherytes.
+TEXT_VOICEMAN_02400_B00050_MINFILIA	Tuvo un papel invaluable en nuestra búsqueda de un medio para capturar almas de Ascians.
+TEXT_VOICEMAN_02400_B00060_MOENBRYDA	Encantada, de verdad.
+TEXT_VOICEMAN_02400_C00010_MINFILIA	¡Todos, presten atención, por favor!
+TEXT_VOICEMAN_02400_C00011_MINFILIA	Tenemos con nosotros a una invitada distinguida que vino de Sharlayan para ayudarnos.
+TEXT_VOICEMAN_02400_C00020_YDA	¡Moen! ¡Dioses, hace <italic(1)>siglos<italic(0)>!
+TEXT_VOICEMAN_02400_C00030_MOENBRYDA	¡Oh, más, hermana!
+TEXT_VOICEMAN_02400_C00040_YSHTOLA	Un reencuentro de lo más alegre.
+TEXT_VOICEMAN_02400_C00050_YDA	¡Pues claro que sí! ¡Moen y yo somos como hermanas gemelas!
+TEXT_VOICEMAN_02400_C00060_PAPALYMO	...Salvo en apariencia y en aptitudes.
+TEXT_VOICEMAN_02400_C00070_MINFILIA	¡Todos, por favor!
+TEXT_VOICEMAN_02400_C00080_MINFILIA	Le pedí a Moenbryda que viniera para que compartiera con nosotros sus amplios conocimientos sobre los aetherytes.
+TEXT_VOICEMAN_02400_C00090_MINFILIA	Además, como muchos ya saben, ella supervisa nuestra investigación de la auracite blanca, y tuvo la amabilidad de traer una muestra.
+TEXT_VOICEMAN_02400_C00110_MOENBRYDA	Bueno, tenía que venir, ¿no? Habría que estar <italic(1)>chiflada<italic(0)> para despreciar una oportunidad así. ¿¡Qué mejor lugar para hacer mis pruebas finales que una tierra tan impregnada de aether que hasta se puede saborear!?
+TEXT_VOICEMAN_02400_C00120_URIANGER	Es evidente que el paso de los años poco ha hecho por apagar tu espíritu juvenil...
+TEXT_VOICEMAN_02400_C00130_URIANGER	...Y nada en absoluto por enmendar tus modales juveniles.
+TEXT_VOICEMAN_02400_C00140_MOENBRYDA	¡Urianger! ¿Dónde demonios te habías metido?
+TEXT_VOICEMAN_02400_C00150_URIANGER	Su... suéltame.
+TEXT_VOICEMAN_02400_C00160_MOENBRYDA	¿¡Vengo hasta aquí, y <italic(1)>eso<italic(0)> es lo que tienes para decirme!?
+TEXT_VOICEMAN_02400_C00170_MOENBRYDA	Me gustabas más cuando me suplicabas que lo dejara todo y corriera a tu lado. ¿Qué era lo que dijiste? "Nadie sino tú puede satisfacer esta necesidad..."
+TEXT_VOICEMAN_02400_C00180_THANCRED	Sigue...
+TEXT_VOICEMAN_02400_C00190_URIANGER	¡T-tus torpes intentos de tergiversar mis motivos tan inocentes no te hacen ningún favor!
+TEXT_VOICEMAN_02400_C00200_URIANGER	Mi intención, como bien sabes, era solo hacerte ver la gravedad de la circunstancia. Por si lo dudas: pronto será invocada una entidad divina, a menos que tú, y nadie más, prestes tu ayuda a mis compañeros.
+TEXT_VOICEMAN_02400_C00210_MOENBRYDA	¿Así que todavía no lo encontraron? ¿El aetheryte que les falta?
+TEXT_VOICEMAN_02400_C00220_MINFILIA	No, todavía no.
+TEXT_VOICEMAN_02400_C00230_MINFILIA	Sabemos que Iceheart se teletransportó a un aetheryte no muy lejos del primero, pero ni siquiera tras un análisis cuidadoso pudimos ubicar el segundo faro.
+TEXT_VOICEMAN_02400_C00240_MINFILIA	Ahora sospechamos que los herejes destruyeron el segundo aetheryte para impedir que los persigamos.
+TEXT_VOICEMAN_02400_C00250_MINFILIA	Nuestros aliados siguen recorriendo Snowcloak en busca del refugio de Iceheart, pero no hay garantía de que lo encuentren. Y hay que encontrarlo, porque Iceheart ya se prepara para invocar a Saint Shiva.
+TEXT_VOICEMAN_02400_C00260_MOENBRYDA	Lo siento, pero... si el aetheryte fue destruido, no hay nada que hacer.
+TEXT_VOICEMAN_02400_C00270_MOENBRYDA	Aunque... ¿Están completamente seguros de que usó el primer aetheryte? ¿No habrá usado magia de teletransporte sin más?
+TEXT_VOICEMAN_02400_C00280_MINFILIA	Uno de los nuestros presenció su huida. Puedo decir con total certeza que Iceheart usó el aetheryte.
+TEXT_VOICEMAN_02400_C00290_MOENBRYDA	En ese caso, podría haber una manera, siempre que la corriente aetherial siga fluyendo.
+TEXT_VOICEMAN_02400_C00300_MINFILIA	¿De verdad? ¿Cómo?
+TEXT_VOICEMAN_02400_C00310_MOENBRYDA	Usamos la corriente para recrear el faro.
+TEXT_VOICEMAN_02400_C00320_MOENBRYDA	Como saben, los aetherytes son un poco como faros. Los usamos para recomponer nuestra forma física cuando cruzamos el mar aetherial. Sin ellos perderíamos todo sentido de la orientación y nuestra esencia se disiparía.
+TEXT_VOICEMAN_02400_C00350_MOENBRYDA	Pero no dependemos solo de esos faros. Entre ellos fluyen corrientes de aether, corrientes que ayudan a guiarnos hasta nuestro destino.
+TEXT_VOICEMAN_02400_C00360_MOENBRYDA	Ahora bien, esas corrientes se van apagando poco a poco hasta desaparecer si se destruye un aetheryte. Pero si queda aunque sea un flujo débil, en teoría podríamos usarlo para dirigir una oleada de aether concentrado hacia el vacío que dejó el faro y así volver a llenarlo.
+TEXT_VOICEMAN_02400_C00380_THANCRED	Como abrir las compuertas para llenar el lecho seco de un río. Aunque, corríjanme si me equivoco, ¿no necesitaríamos un verdadero embalse de aether?
+TEXT_VOICEMAN_02400_C00390_PAPALYMO	Trabajando juntos, <italic(1)>quizá<italic(0)> lograríamos canalizar un volumen suficiente, pero eso no es lo que más me preocupa.
+TEXT_VOICEMAN_02400_C00400_PAPALYMO	Dirigir el flujo de un volumen de aether tan grande con la precisión necesaria ya sería en sí una tarea casi imposible.
+TEXT_VOICEMAN_02400_C00410_YSHTOLA	A duras penas logré facilitar el viaje a un faro sin sintonizar. Lo que describes suena bastante más difícil.
+TEXT_VOICEMAN_02400_C00420_MOENBRYDA	¡Y peligroso! Todos los que intentaron teletransportarse así murieron en el intento. ¡Pero ellos no tenían auracite blanca a su disposición!
+TEXT_VOICEMAN_02400_C00440_MOENBRYDA	Puedo usarla para canalizar hacia el aetheryte todo el aether que me den. Pero la auracite blanca no puede retener aether por mucho tiempo, así que tendríamos que cargarla justo antes.
+TEXT_VOICEMAN_02400_C00450_MOENBRYDA	Para que lo sepan, le doy a este plan más de la mitad de probabilidades de éxito, y lo digo con confianza. Y si las cosas salen mal, su gente no sufrirá.
+TEXT_VOICEMAN_02400_C00490_MINFILIA	Aunque ponga en riesgo la vida de nuestros mejores elementos, no tenemos tiempo para buscar otras opciones.
+TEXT_VOICEMAN_02400_C00500_MINFILIA	Si la corriente aetherial todavía fluye, llevaremos a cabo el plan de Moenbryda.
+TEXT_VOICEMAN_02400_C00510_MOENBRYDA	¡Ese es el espíritu! ¡Tiremos los dados!
+TEXT_VOICEMAN_02400_D00010_ICEHEART	Nunca debió venir aquí, Warrior of Light. Yo solo trabajo para forjar una paz duradera.
+TEXT_VOICEMAN_02400_D00020_ICEHEART	Una paz que usted nos negaría por ignorancia y fe ciega.
+TEXT_VOICEMAN_02400_D00030_ICEHEART	No importa. Si nuestro destino es estar enfrentados, entonces el <italic(1)>mío<italic(0)> es <if(gnum4,derribarla,derribarlo)>.
+TEXT_VOICEMAN_02400_D00040_ICEHEART	¡Nosotros, a quienes dioses y hombres abandonaron, seremos los instrumentos de nuestra propia salvación!
+TEXT_VOICEMAN_02400_D00050_ICEHEART	¡Toma mi carne, llena este recipiente con tu luz! ¡Camina otra vez entre tus hermanos y hermanas!
+TEXT_VOICEMAN_02400_D00060_ICEHEART	¡Oh, Saint Shiva, calma el odio en nuestros corazones y bendícenos con tu gracia eterna!
+TEXT_VOICEMAN_02400_D00070_SHIVA	Hmph...
+TEXT_VOICEMAN_02400_E00010_ICEHEART	(-Iceheart-)<if(gnum4,Necia,Necio)>... <if(gnum4,Necia ciega,Necio ciego)>, maldita sea.
+TEXT_VOICEMAN_02400_E00020_ICEHEART	(-Iceheart-)Usted, más que nadie, debería entender el sufrimiento que engendra la guerra: que ningún sacrificio es demasiado grande si pone fin a la violencia.
+TEXT_VOICEMAN_02400_E00021_ICEHEART	(-Iceheart-)¡La <italic(1)>mía<italic(0)> es la causa justa!
+TEXT_VOICEMAN_02400_E00030_ICEHEART	(-Iceheart-)Lucha en una guerra que no entiende, peón de mentirosos e intrigantes.
+TEXT_VOICEMAN_02400_E00040_ICEHEART	(-Iceheart-)¡Y ellos no son menos ignorantes que usted! Siguen el credo de sus padres sin cuestionarlo, sin pensar nunca en preguntar por qué.
+TEXT_VOICEMAN_02400_E00050_ICEHEART	(-Iceheart-)Atrapados en un engaño creado por ellos mismos y ciegos a la verdad.
+TEXT_VOICEMAN_02400_E00060_ICEHEART	(-Iceheart-)Warrior of Light, la redención no está fuera de nuestro alcance.
+TEXT_VOICEMAN_02400_E00070_ICEHEART	(-Iceheart-)Los que caminamos delante podemos guiar a los que vienen detrás.
+TEXT_VOICEMAN_02400_E00080_ICEHEART	(-Iceheart-)Busque el Keeper of the Lake. Vea con ojos despejados.
+TEXT_VOICEMAN_02400_E00090_ICEHEART	(-Iceheart-)No... no desperdicie el don de la Madre.
+TEXT_VOICEMAN_02400_E00100_ICEHEART	(-Iceheart-)Escucha... Siente... Piensa...
+TEXT_VOICEMAN_02400_E00110_NABRIALES	(-???-)<colortype(547)>Y así el recipiente se retira. Un desenlace previsible.<colortype(0)>
+TEXT_VOICEMAN_02400_E00120_NABRIALES	(-???-)<colortype(547)>Aun así, Lahabrea estará complacido.<colortype(0)>
+TEXT_VOICEMAN_02400_E00130_NABRIALES	(-???-)<colortype(547)>Qué lástima.<colortype(0)>
+TEXT_VOICEMAN_02400_F00010_AYMERIC	En nombre de la Holy See de Ishgard, permítanme expresarles mi más profundo agradecimiento.
+TEXT_VOICEMAN_02400_F00020_AYMERIC	Nunca antes habíamos tenido que enfrentarnos a un primal. De hecho, en algunos círculos se temía que nuestros caballeros no estuvieran a la altura.
+TEXT_VOICEMAN_02400_F00030_AYMERIC	Por lo que ahora sabemos de estos seres, puedo decir con certeza que habríamos perdido muchísimos hombres si los Scions no hubieran intervenido.
+TEXT_VOICEMAN_02400_F00040_ALPHINAUD	Entonces el argumento a favor de una acción preventiva debería ser evidente. ¿Quizá ahora reconsidere mi propuesta de que Ishgard actúe contra Natalan?
+TEXT_VOICEMAN_02400_F00050_AYMERIC	Antes de que nos conociéramos, se presentó una propuesta parecida, pero la Holy See decretó que debíamos observar y que solo se tomarían medidas militares en defensa propia.
+TEXT_VOICEMAN_02400_F00060_AYMERIC	Considerándolo todo, no fue una decisión irrazonable. Desde la Calamidad, dos vigils cayeron ante la Horde, mientras que Garuda nunca mostró intención de asaltar las Gates of Judgement.
+TEXT_VOICEMAN_02400_F00070_AYMERIC	...Por eso esta crisis sin precedentes y su resolución podrían impulsar un cambio de política.
+TEXT_VOICEMAN_02400_F00080_AYMERIC	Ustedes, que se enfrentaron a estos primals, conocen bien la amenaza que representan. Ishgard no la conocía... hasta ahora.
+TEXT_VOICEMAN_02400_F00090_AYMERIC	Y no hay nada como rozar la muerte para cambiar la manera de ver las cosas.
+TEXT_VOICEMAN_02400_F00110_HAURCHEFANT	Como mínimo, esto debería acallar cualquier objeción que quede contra nuestro acuerdo con Revenant's Toll.
+TEXT_VOICEMAN_02400_F00120_HAURCHEFANT	Puede que la Holy See hasta se sienta movida a darnos su respaldo formal.
+TEXT_VOICEMAN_02400_F00130_AYMERIC	En la medida de lo posible, los Scions serán recompensados por sus servicios.
+TEXT_VOICEMAN_02400_F00140_ALPHINAUD	Agradeceremos cualquier ayuda que pueda brindarnos.
+TEXT_VOICEMAN_02400_F00150_AYMERIC	Como gesto de buena fe, retiro mi petición anterior. Sin duda su gente hace falta en otra parte.
+TEXT_VOICEMAN_02400_F00160_ALPHINAUD	No será necesario.
+TEXT_VOICEMAN_02400_F00170_ALPHINAUD	Nosotros también tenemos un interés particular en vigilar los movimientos de Dravania.
+TEXT_VOICEMAN_02400_F00171_AYMERIC	Ya veo. Una vez más, debo darle las gracias.
+TEXT_VOICEMAN_02400_F00172_ALPHINAUD	Ser Aymeric, si me permite... ¿De verdad cree que Midgardsormr podría volver?
+TEXT_VOICEMAN_02400_F00180_AYMERIC	Los cielos son una ventana a la verdad, pero quienes interpretan sus movimientos no son infalibles. Le pedí su participación como medida de precaución.
+TEXT_VOICEMAN_02400_F00190_ALPHINAUD	Pero por supuesto... Desde el principio buscaba una excusa para <italic(1)>recompensarnos<italic(0)>, consciente de lo que pasaría si sus enemigos tomaran Revenant's Toll.
+TEXT_VOICEMAN_02400_F00200_ALPHINAUD	Ishgard no suele ayudar a sus vecinos, pero eso no le impide manipularlos para servir a sus propios intereses.
+TEXT_VOICEMAN_02400_F00210_LUCIA	(-Temple Knight taciturna-)Elija bien sus próximas palabras.
+TEXT_VOICEMAN_02400_F00220_AYMERIC	¿Sabe qué clase de hombre llega a comandante supremo de los Temple Knights?
+TEXT_VOICEMAN_02400_F00230_AYMERIC	Uno que viene de buena cuna. Yo no, y sin embargo aquí estoy. ¿Por qué cree que es?
+TEXT_VOICEMAN_02400_F00240_AYMERIC	Porque aprendí rápido a distinguir entre las palabras, los hechos y las creencias.
+TEXT_VOICEMAN_02400_F00250_AYMERIC	...Tiene razón, señor Leveilleur. Ishgard desea ver prosperar a Revenant's Toll, porque sería un obstáculo molesto para nuestros enemigos del sur.
+TEXT_VOICEMAN_02400_F00260_ALPHINAUD	Nos alegra mucho serles útiles.
+TEXT_VOICEMAN_02400_F00270_AYMERIC	Igual que a nosotros serles útiles a ustedes. No olvidemos que es un acuerdo de mutuo beneficio. Uno nacido de la necesidad.
+TEXT_VOICEMAN_02400_F00280_AYMERIC	Los dragones están más inquietos cada día, y los herejes nos acosan casi sin tregua.
+TEXT_VOICEMAN_02400_F00290_AYMERIC	Lidiamos con esos problemas desde hace siglos, pero hasta nuestra resistencia tiene límites.
+TEXT_VOICEMAN_02400_F00300_AYMERIC	Pero así como a un pobre le cuesta desprenderse de sus escasas posesiones, a los líderes de Ishgard no les gusta entregarles su confianza a los forasteros.
+TEXT_VOICEMAN_02400_F00310_AYMERIC	Aun así, con perseverancia de <italic(1)>nuestra<italic(0)> parte, quizá se les pueda hacer ver la luz.
+TEXT_VOICEMAN_02400_F00320_AYMERIC	De todos modos, hay que tener cuidado al tomar el camino menos transitado.
+TEXT_VOICEMAN_02400_F00330_ALPHINAUD	Sabias palabras, Ser Aymeric. Me aseguraré de recordarlas.
+TEXT_VOICEMAN_02400_F00340_ALPHINAUD	Debo disculparme por mi arrebato de antes. Espero que no empañe nuestras buenas relaciones.
+TEXT_VOICEMAN_02400_F00350_AYMERIC	En absoluto. Solo habló con el corazón.
+TEXT_VOICEMAN_02400_F00360_AYMERIC	Confío en que entienda que a veces mis deberes me impedirán reunirme con usted.
+TEXT_VOICEMAN_02400_F00370_AYMERIC	En esas ocasiones, mi segunda al mando hablará por mí.
+TEXT_VOICEMAN_02400_F00380_LUCIA	(-Lucia-)Lucia, a su servicio.
+TEXT_VOICEMAN_02400_F00390_LUCIA	(-Lucia-)Disculpen nuestra reserva. Solo tenemos cuidado de no hablar con demasiada libertad, no sea que nuestros sentimientos lleguen a oídos de nuestros enemigos.
+TEXT_VOICEMAN_02400_F00400_LUCIA	(-Lucia-)Sepan que el comandante supremo y yo pensamos igual. Por el bien de Ishgard, y de Eorzea entera, ruego que nuestros pueblos puedan dejar de lado sus diferencias.
+TEXT_VOICEMAN_02400_F00410_LUCIA	(-Lucia-)Quienes viven en el pasado corren el riesgo de perder de vista su futuro.
+TEXT_VOICEMAN_02400_F00420_AYMERIC	Si algo le pasa a alguno de nuestros envíos, avisen a Lucia de inmediato. También pueden transmitirle cualquier mensaje que tengan solo para mí.
+TEXT_VOICEMAN_02400_F00430_AYMERIC	Como no nació en Ishgard, no le debe lealtad a ninguna casa noble, lo que la hace casi tan incorruptible como se puede encontrar en mi patria. Basta decir que confío plenamente en ella, y ustedes también pueden hacerlo.
+TEXT_VOICEMAN_02400_F00440_AYMERIC	Eso me recuerda... Lord Haurchefant, si es tan amable.
+TEXT_VOICEMAN_02400_F00450_HAURCHEFANT	Por supuesto.
+TEXT_VOICEMAN_02400_F00460_AYMERIC	En tiempos como estos, la confianza siempre escasea. Quizá esto ayude en algo a remediarlo.
+TEXT_VOICEMAN_02400_F00470_AYMERIC	Los resultados de nuestra investigación sobre los últimos ataques de los herejes, y de nuestro interrogatorio al comerciante que ustedes detuvieron.
+TEXT_VOICEMAN_02400_F00480_ALPHINAUD	Ser Aymeric... No sé cómo agradecérselo.
+TEXT_VOICEMAN_02400_F00490_AYMERIC	No es nada. Ishgard puede ser muchas cosas, pero no es amiga de Garlemald.
+TEXT_VOICEMAN_02400_F00500_HAURCHEFANT	¿No le dije que tuviera fe, amigo mío?
+TEXT_VOICEMAN_02400_G00010_MINFILIA	No hay palabras para expresar lo feliz que me hace verte volver <if(gnum4,sana y salva,sano y salvo)>.
+TEXT_VOICEMAN_02400_G00011_MINFILIA	Ni falta hace decir que tengo muchas ganas de oír tu relato de lo que pasó en Coerthas... si estás <if(gnum4,lista,listo)> para hablar de ello, claro.
+TEXT_VOICEMAN_02400_G00020_MINFILIA	Excelente. Llamaré a los demás de inmediato.
+TEXT_VOICEMAN_02400_G00030_MINFILIA	¿Iceheart usó <italic(1)>su propio cuerpo<italic(0)> como recipiente para el alma de un primal?
+TEXT_VOICEMAN_02400_G00040_YSHTOLA	Los escritos del maestro Louisoix no mencionan esa posibilidad. ¿Podemos estar seguros de que esa entidad era un primal?
+TEXT_VOICEMAN_02400_G00050_PAPALYMO	Tan seguros como de que el Good King Moggle Mog XII era un primal, diría yo. Los dos fueron, en apariencia, invocados.
+TEXT_VOICEMAN_02400_G00060_THANCRED	No discutamos por definiciones. Lo que más preocupa es que Iceheart conservó su voluntad aun después de ser poseída. ¡Estamos hablando de una mortal con el poder de un primal!
+TEXT_VOICEMAN_02400_G00070_YDA	No puede ser tan fácil, ¿o sí? Tiene que hacer falta algún tipo de sacrificio. ¿O será que ella es especial?
+TEXT_VOICEMAN_02400_G00080_URIANGER	Qué cualidades posee esta mujer, no lo sé, mas tengo por muy cierto que fue preparada para este papel.
+TEXT_VOICEMAN_02400_G00090_URIANGER	Pocos conocen los secretos de la invocación, y solo una parte saca provecho de difundirlos.
+TEXT_VOICEMAN_02400_G00100_MOENBRYDA	Bueno, no me atrevería a opinar sobre cómo la muchacha llegó a saber de invocaciones, pero <italic(1)>sí<italic(0)> diré que lo que invocó era un primal. Las lecturas eran las mismas, o casi.
+TEXT_VOICEMAN_02400_G00110_MOENBRYDA	Por raro que suene todo, en realidad no es distinto de lo que ya enfrentaron.
+TEXT_VOICEMAN_02400_G00120_YSHTOLA	Entonces quizá sea hora de volver a examinar nuestros encuentros anteriores.
+TEXT_VOICEMAN_02400_G00130_PAPALYMO	Empaca tus cosas, Yda. Volvemos a Gridania.
+TEXT_VOICEMAN_02400_G00140_YDA	¡Sí, señor!
+TEXT_VOICEMAN_02400_G00150_MINFILIA	Sobre las últimas palabras que te dijo Iceheart...
+TEXT_VOICEMAN_02400_G00200_MINFILIA	"Escucha... Siente... Piensa..."
+TEXT_VOICEMAN_02400_G00210_MINFILIA	Hydaelyn también le habla a <italic(1)>ella<italic(0)>.
+TEXT_VOICEMAN_02400_G00211_MINFILIA	Si Iceheart tiene el don del Echo, sin duda lo habrá usado para avanzar en sus objetivos.
+TEXT_VOICEMAN_02400_G00212_MINFILIA	...¿O será que fue una revelación que le concedió el Echo lo que la puso en este camino? Sí dijo que los ishgardianos estaban ciegos a la verdad.
+TEXT_VOICEMAN_02400_G00213_MINFILIA	¿Crees que sabe algo sobre los orígenes de la guerra entre Ishgard y Dravania? Explicaría en gran parte su convicción inquebrantable.
+TEXT_VOICEMAN_02400_G00220_URIANGER	¿No os imploró Lady Iceheart que buscarais el Keeper of the Lake? ¿Y no dio a entender que al hacerlo veríais con ojos despejados?
+TEXT_VOICEMAN_02400_G00230_MINFILIA	Midgardsormr fue un rey entre reyes que reinó durante siglos... Pero está muerto, y su sabiduría se perdió con el paso de las eras... a menos que los temores de los ishgardianos tengan fundamento...
+TEXT_VOICEMAN_02400_G00240_MINFILIA	Parece que tenemos otra razón más para vigilar el Keeper of the Lake. Por suerte, estamos bien ubicados para hacerlo.
+TEXT_VOICEMAN_02400_G00280_MINFILIA	Iceheart, Shiva, los Ascians y Midgardsormr. Me estremece pensar en cómo están todos conectados...
+TEXT_VOICEMAN_02400_H00010_TELEDJIADELEDJI	Ya me enteré. Un asunto verdaderamente molesto.
+TEXT_VOICEMAN_02400_H00020_TELEDJIADELEDJI	No, no preveo ningún problema por ese lado. Lo que preocupa es Raubahn: no hay forma de saber qué podría hacer ese bruto.
+TEXT_VOICEMAN_02400_H00030_TELEDJIADELEDJI	Que los Blades lo vigilen a él y a los Flames día y noche.
+TEXT_VOICEMAN_02400_H00040_TELEDJIADELEDJI	A la sultana déjemela a mí. Atenderé a Su Gracia en persona.
+TEXT_VOICEMAN_02400_H00050_TELEDJIADELEDJI	\<suspiro>
+TEXT_VOICEMAN_02400_H00060_TELEDJIADELEDJI	Corte una de las rutas comerciales de la East Aldenard. Eso debería mantener ocupado a Lolorito un buen rato.
+TEXT_VOICEMAN_02400_H00070_TELEDJIADELEDJI	Nanamo Ul Namo... Por mi bien, te ruego que seas una buena sultanita hasta el final.
+TEXT_VOICEMAN_02400_I00010_MINFILIA	<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <if(gnum4,amiga mía,amigo mío)>. Ya recibí noticias de Alphinaud.
+TEXT_VOICEMAN_02400_I00011_MINFILIA	Pensar que la Flame Marshal Roaille era la agente garleana... No sé qué decir.
+TEXT_VOICEMAN_02400_I00020_MINFILIA	Junto con Raubahn, Eline nos dio una ayuda muy necesaria cuando se fundó nuestra orden. Le apasionaba especialmente la necesidad de hacer frente a la amenaza de los primals.
+TEXT_VOICEMAN_02400_I00030_MINFILIA	Cuando hablábamos del tema, los ojos le brillaban de determinación. Más allá de lo que haya sido, prefiero creer que era su verdadero yo con quien hablé entonces...
+TEXT_VOICEMAN_02400_I00040_MINFILIA	Pero ahora no es momento de detenerse en esas cosas.
+TEXT_VOICEMAN_02400_I00050_MINFILIA	Tengo un anuncio importante sobre nuestros esfuerzos por derrotar a los Ascians. Empezaremos en cuanto estén todos reunidos.
+TEXT_VOICEMAN_02400_I00060_MINFILIA	Gracias por venir, amigos. Moenbryda, tienes la palabra.
+TEXT_VOICEMAN_02400_I00070_MOENBRYDA	A estas alturas seguro que todos conocen la auracite blanca, el material milagroso que nos permitirá capturar almas de Ascians.
+TEXT_VOICEMAN_02400_I00080_MOENBRYDA	Allá en Snowcloak comprobamos su capacidad de absorber enormes cantidades de aether.
+TEXT_VOICEMAN_02400_I00090_MOENBRYDA	Por desgracia, deja bastante que desear en cuanto a estabilidad. La piedra solo puede guardar aether un rato antes de expulsar su contenido.
+TEXT_VOICEMAN_02400_I00100_URIANGER	Además de las limitaciones propias de la auracite, debemos tener cuidado con la fuerza de nuestro enemigo.
+TEXT_VOICEMAN_02400_I00110_URIANGER	Nuestro adversario se nutre de una fuente infinita de poder. Aun si lográsemos atraparlo, la piedra no contendrá su ira por mucho tiempo.
+TEXT_VOICEMAN_02400_I00120_MOENBRYDA	O sea que, si queremos matar a ese cerdo, tendremos que ser rápidos.
+TEXT_VOICEMAN_02400_I00130_URIANGER	Es nuestra creencia que el alma de un Ascian puede ser deshecha para siempre si la golpea una descarga suficientemente concentrada de aether puro.
+TEXT_VOICEMAN_02400_I00140_MOENBRYDA	El único problema es que no podemos decir con seguridad qué tan concentrada tiene que ser la descarga... Sin saber de cuánto aether está compuesta el alma de un Ascian, básicamente estamos adivinando.
+TEXT_VOICEMAN_02400_I00150_URIANGER	Nuestra única pista yace en vuestra lucha con Lahabrea.
+TEXT_VOICEMAN_02400_I00160_MINFILIA	Durante ese encuentro, Hydaelyn te pidió que forjaras lo que Ella llamó "una espada de Luz", un arma que tomó la forma de un torrente luminoso de energía.
+TEXT_VOICEMAN_02400_I00170_MINFILIA	Por tu descripción, creemos que la "espada" con la que venciste a tu enemigo estaba compuesta de aether.
+TEXT_VOICEMAN_02400_I00180_MINFILIA	Es cierto que tu victoria resultó efímera, ya que Lahabrea pudo usar un Cristal de la Oscuridad para huir al espacio que hay entre nuestro mundo y el vacío.
+TEXT_VOICEMAN_02400_I00190_MINFILIA	Pero el hecho es que Hydaelyn puso en tus manos el medio para destruir a los Ascians.
+TEXT_VOICEMAN_02400_I00200_MINFILIA	Aun así, sería imprudente dar por hecho que Ella hará lo mismo la próxima vez que nos encontremos con un enemigo así.
+TEXT_VOICEMAN_02400_I00210_URIANGER	Así es, mi señora. Debemos hallar la manera de forjar nuestra propia espada de aether, una que iguale la que Hydaelyn otorgó con benevolencia a <if(gnum4,su campeona,su campeón)>.
+TEXT_VOICEMAN_02400_I00220_PAPALYMO	Todo eso está muy bien, pero me parece que producir esa espada exigirá una cantidad prodigiosa de aether. ¿De dónde va a salir, a ver?
+TEXT_VOICEMAN_02400_I00230_YDA	Mmm... ¡Ah! ¿Y si tuviéramos <italic(1)>dos<italic(0)> pedazos de auracite blanca? ¡Uno para atrapar al Ascian y otro para guardar el aether de la espada!
+TEXT_VOICEMAN_02400_I00240_MOENBRYDA	Buen intento, pero ya lo dije: la piedra no aguanta el aether por mucho tiempo. Lamento decirlo, pero igual tendríamos que juntarlo ahí mismo.
+TEXT_VOICEMAN_02400_I00250_THANCRED	Y ahí está el problema: encontrar la manera de crear la espada cuando y donde queramos.
+TEXT_VOICEMAN_02400_I00260_YSHTOLA	Parece que hace falta más investigación.
+TEXT_VOICEMAN_02400_I00270_MOENBRYDA	Me voy a quedar un tiempo para hacerle unas pruebas más a la auracite.
+TEXT_VOICEMAN_02400_I00280_MOENBRYDA	Y me vendría bien algo de ayuda. Urianger, ¿por qué no me das una mano?
+TEXT_VOICEMAN_02400_I00290_URIANGER	M-mis disculpas, pero se me requiere en los Waking Sands.
+TEXT_VOICEMAN_02400_I00300_URIANGER	Lady Minfilia me ha confiado el cuidado exclusivo del lugar. No sería apropiado dejarlo desatendido.
+TEXT_VOICEMAN_02400_I00310_MOENBRYDA	"Cuidado exclusivo", dices. O sea que... ¿básicamente estás <italic(1)>solo<italic(0)> allí? ¡Bueno, asunto arreglado! ¡Tendré que ir yo a verte!
+TEXT_VOICEMAN_02400_I00320_MINFILIA	Mientras estabas fuera, llegaron noticias de la madre patria de Sharlayan.
+TEXT_VOICEMAN_02400_I00330_MINFILIA	Recordarás que se envió una expedición a investigar el incidente de la Isle of Val. Lo que descubrieron es, como mínimo, inquietante.
+TEXT_VOICEMAN_02400_I00340_MINFILIA	Según el informe, la isla fue borrada de la existencia. Fue como si se hubiera abierto un agujero en el tejido mismo de la realidad.
+TEXT_VOICEMAN_02400_I00350_URIANGER	Así es... mas el misterio no termina con la desaparición de la isla.
+TEXT_VOICEMAN_02400_I00360_URIANGER	Ha salido a la luz que varios eruditos en otros lugares fueron dados por desaparecidos en un momento parecido.
+TEXT_VOICEMAN_02400_I00370_MOENBRYDA	Y encima, todos tenían algo en común con la cabeza de los Students of Baldesion. Todos y cada uno investigaban un fenómeno llamado compresión dimensional, o la "Reunificación", como la llaman los textos antiguos. Que me lleve el diablo si <italic(1)>eso<italic(0)> es una coincidencia.
+TEXT_VOICEMAN_02400_I00380_MINFILIA	Todo indica que los Ascians están involucrados, pero siento que hay en juego una fuerza todavía mayor: la entidad que esos seres oscuros llaman "el único dios verdadero"...
+TEXT_VOICEMAN_02400_I00390_MINFILIA	Tenemos que rezar para que mi querida amiga Krile recupere pronto el conocimiento. Si presenció los últimos momentos de la Isle of Val, quizá pueda arrojar algo de luz sobre este misterio...
+TEXT_VOICEMAN_02400_J00010_RAUBAHN	Después de la Calamidad, las fuerzas de la XIVth Imperial Legion se atrincheraron en puntos estratégicos de toda Eorzea.
+TEXT_VOICEMAN_02400_J00020_RAUBAHN	Lo hicieron tan rápido que se sospechó que habían recibido ayuda. Pensar que vino de Roaille... Mi mano derecha.
+TEXT_VOICEMAN_02400_J00030_ILBERD	Hay más. Tenemos motivos para creer que Roaille no trataba solo con la XIVth. También respondía ante una autoridad más alta en Garlemald.
+TEXT_VOICEMAN_02400_J00040_ILBERD	Pero esa autoridad no pudo ser el Emperador. Al aprobar el proyecto Meteor, Solus zos Galvus demostró que le importaba más frenar la influencia de los primals que reclamar Eorzea para el Imperio. Con gusto habría visto todo reducido a cenizas.
+TEXT_VOICEMAN_02400_J00050_ILBERD	Creemos que varias figuras de alto rango de la familia real estaban en contra de la decisión, pero sabían que no convenía oponerse abiertamente al Emperador. Claro que eso no les impidió tomar medidas clandestinas, en las que Roaille tuvo su parte.
+TEXT_VOICEMAN_02400_J00060_ALPHINAUD	Por desgracia, esas medidas no impidieron que Dalamud cayera, y el caos que siguió cambió para siempre la faz del reino. Pero Eorzea sobrevivió.
+TEXT_VOICEMAN_02400_J00070_ALPHINAUD	A todos los efectos, el proyecto Meteor había fracasado, y al Imperio solo le quedó lamentar no tener un medio decisivo para eliminar a los primals. Hasta que, claro, dio con el Ultima Weapon.
+TEXT_VOICEMAN_02400_J00080_RAUBAHN	Aun antes de que desenterraran esa cosa maldita, me parecía que la XIVth tenía el poder para aplastar a nuestros ejércitos debilitados. Pero decidieron esconderse tras sus muros. ¿Por qué?
+TEXT_VOICEMAN_02400_J00090_ALPHINAUD	El Black Wolf temía empujar a los habitantes de Eorzea a la desesperación, no fuera que surgieran más primals que desangraran la tierra. El descubrimiento del Ultima Weapon, en cambio, le dio el valor para reanudar en serio su guerra de conquista.
+TEXT_VOICEMAN_02400_J00100_ILBERD	Pero había alguien en Garlemald que creía que lo que hacía van Baelsar era prematuro, alguien más arriba en la cadena de mando del ejército imperial. Le ordenó al legatus que detuviera su avance, solo para descubrir que el Black Wolf se había soltado la correa y que la XIVth ahora actuaba por su cuenta.
+TEXT_VOICEMAN_02400_J00110_ILBERD	Para poner en cintura a van Baelsar, usó al agente que había infiltrado en Ul'dah antes de la Calamidad para socavar los esfuerzos de la legión.
+TEXT_VOICEMAN_02400_J00120_RAUBAHN	Un hombre de rango superior a van Baelsar, pero que se oponía a la decisión del difunto emperador de aniquilar Eorzea... Solo puede ser el antiguo High Legatus del ejército garleano, hoy conocido como el emperador Varis zos Galvus.
+TEXT_VOICEMAN_02400_J00130_RAUBAHN	Así que él era el verdadero amo de Roaille...
+TEXT_VOICEMAN_02400_J00140_ILBERD	Uno de varios, en realidad. Supimos que, mientras servía a los intereses del Imperio, Roaille también le vendía secretos imperiales a cierta facción de Eorzea.
+TEXT_VOICEMAN_02400_J00150_ILBERD	Con eso ayudó a mantener las cosas como estaban, y así alargó el conflicto. Si uno piensa en quién se beneficia de la guerra, no es difícil imaginar quiénes eran sus otros amos.
+TEXT_VOICEMAN_02400_J00160_RAUBAHN	¡Por los siete infiernos! ¿Quieres decir que era una agente doble?
+TEXT_VOICEMAN_02400_J00170_ILBERD	Triple, si cuentas por separado sus servicios a van Baelsar y al nuevo emperador.
+TEXT_VOICEMAN_02400_J00180_ALPHINAUD	Por bien que parezcan encajar estas piezas, hay un aspecto del rompecabezas que todavía no me queda claro.
+TEXT_VOICEMAN_02400_J00190_ALPHINAUD	¿Por voluntad de quién le pasaba información la marshal a los herejes? Y por más que lo intento, no veo cómo ayudar a su causa beneficiaría a sus amos imperiales o a los Monetarists.
+TEXT_VOICEMAN_02400_J00200_ALPHINAUD	¿Podría ser que haya otra mano detrás de esto? Si es así, hay que obligar a Roaille a revelar de quién es.
+TEXT_VOICEMAN_02400_J00210_RAUBAHN	No solo perdí a una amiga de confianza; ahora tengo que interrogarla como a una extraña.
+TEXT_VOICEMAN_02400_J00220_ILBERD	No es una tarea agradable, lo reconozco, pero es necesaria. Si no arrancamos a Ivy de raíz, tallo y todo, simplemente volverá a crecer.
+TEXT_VOICEMAN_02400_J00230_RAUBAHN	Lo sé muy bien. Los más cercanos a Roaille ya fueron detenidos, y los interrogaré junto con ella.
+TEXT_VOICEMAN_02400_J00240_ALPHINAUD	General. Le ruego que tenga en cuenta que entre ellos puede haber cómplices involuntarios.
+TEXT_VOICEMAN_02400_J00250_RAUBAHN	Todos serán tratados con justicia: tienes mi palabra. Los inocentes no tienen nada que temer.
+TEXT_VOICEMAN_02400_J00260_ALPHINAUD	Usted siempre fue amigo de la verdad, general. Espero que la desagradable tarea de arrancar la mentira no lo retenga demasiado. Aunque sea por el bien de Eorzea, dudar de los camaradas es veneno para el alma.
+TEXT_VOICEMAN_02400_J00270_ALPHINAUD	...Y con esto, me retiro.
+TEXT_VOICEMAN_02400_J00280_RAUBAHN	Todos estos años me hicieron bailar a su ritmo...
+TEXT_VOICEMAN_02400_J00290_RAUBAHN	¿Cómo pudiste, Roaille? ¿Cómo pudiste ponerte del lado de <italic(1)>ellos<italic(0)>...?
+TEXT_VOICEMAN_02400_J00300_RAUBAHN	...¡Esos <italic(1)>parásitos<italic(0)> que le quitan a esta tierra y no le dan nada a cambio, que usan su poder para quitarle poder a los demás, y engordan mientras el pueblo pasa hambre!
+TEXT_VOICEMAN_02400_J00310_RAUBAHN	¡Sé que me oyen, escoria Monetarist! ¡Sus crímenes no quedarán impunes!
+TEXT_VOICEMAN_02400_J00320_RAUBAHN	¡Algún día purgaré esta tierra de su enfermedad! ¡Lo juro ante los ojos de los Twelve!
+TEXT_VOICEMAN_02400_J00330_RAUBAHN	¡Raaaaaargh!
+TEXT_VOICEMAN_02400_K00010_NANAMOULNAMO	Por hoy no la necesitaré más.
+TEXT_VOICEMAN_02400_K00020_LADYINWAITING2	(-Dama de compañía-)Su Gracia.
+TEXT_VOICEMAN_02400_K00030_NANAMOULNAMO	Me temo que ni siquiera mis propios aposentos seguirán siendo privados por mucho tiempo.
+TEXT_VOICEMAN_02400_K00040_KANESENNA	¿Tan grave se volvió la situación?
+TEXT_VOICEMAN_02400_K00050_NANAMOULNAMO	Desde que propuso el Carteneau Reclamation Bill, Teledji Adeledji ganó cada vez más protagonismo a costa de los refugiados empobrecidos.
+TEXT_VOICEMAN_02400_K00060_NANAMOULNAMO	Los Monetarists siempre estuvieron unidos en su búsqueda de ganancias, pero lo que hizo ese hombre abrió una grieta en sus filas. Se muerden entre ellos como perros rabiosos.
+TEXT_VOICEMAN_02400_K00070_NANAMOULNAMO	Pero este no es momento de pelearnos entre nosotros.
+TEXT_VOICEMAN_02400_K00080_MERLWYB	Si esas peleas amenazan el orden público, ¿no tendría motivos para disolver el Syndicate?
+TEXT_VOICEMAN_02400_K00090_NANAMOULNAMO	Ojalá la solución fuera tan sencilla, almirante. Por desgracia, si yo propusiera disolver el Syndicate, sin duda provocaría la indignación de la influyente clase mercantil a la que esa camarilla representa.
+TEXT_VOICEMAN_02400_K00100_NANAMOULNAMO	Eso solo agravaría el malestar actual, y la paz se alejaría todavía más.
+TEXT_VOICEMAN_02400_K00110_NANAMOULNAMO	Ricos o pobres, nativos o refugiados, todos los que viven en Ul'dah tienen derecho a buscar la felicidad. Es deber de quien gobierna proteger ese derecho.
+TEXT_VOICEMAN_02400_K00120_NANAMOULNAMO	Si he de cumplir con mi deber, debo andar con cuidado. No me conviene hacerme enemigos a la ligera.
+TEXT_VOICEMAN_02400_K00130_NANAMOULNAMO	Si lord Lolorito estuviera aquí, sin duda diría que vivo en las nubes.
+TEXT_VOICEMAN_02400_K00140_KANESENNA	Quien gobierna debe tener una mirada amplia. Por más que intentemos atender todas las necesidades, algunas inevitablemente quedarán de lado. Por eso siempre habrá ciudadanos que se sientan agraviados. No se puede evitar.
+TEXT_VOICEMAN_02400_K00150_KANESENNA	Pero, como usted nos dijo, los Monetarists no ven más que su propio punto de vista. Tienen hambre de poder mientras las masas pasan hambre.
+TEXT_VOICEMAN_02400_K00160_KANESENNA	Sin una causa común, parece que nadie por sí solo puede volver a unir a Ul'dah.
+TEXT_VOICEMAN_02400_K00170_MERLWYB	Y la presencia de un agente garleano entre los Immortal Flames solo empeora las cosas.
+TEXT_VOICEMAN_02400_K00180_MERLWYB	Aun teniendo en cuenta que Ul'dah siempre dependió de mercenarios, una brecha de seguridad tan grave no tiene precedentes. Me temo que este asunto les dará a los Monetarists un palo para golpear a Raubahn.
+TEXT_VOICEMAN_02400_K00190_KANESENNA	Eorzea no puede permitirse que los Immortal Flames pierdan fuerza ahora. Dentro de poco, los garleanos volverán a poner su mirada voraz en nuestras tierras. Si queremos resistir su poder, nuestras naciones deben mantenerse unidas.
+TEXT_VOICEMAN_02400_K00200_KANESENNA	Pero para eso, nuestras naciones tienen que estar enteras. ¿No se puede hacer nada para mejorar la situación de Ul'dah?
+TEXT_VOICEMAN_02400_K00210_NANAMOULNAMO	La verdadera riqueza de Ul'dah está en la salud, la felicidad y las esperanzas de sus ciudadanos. Por desgracia, los ciudadanos nunca conocerán esas cosas mientras sus vidas las gobiernen las ambiciones de unos pocos.
+TEXT_VOICEMAN_02400_K00220_NANAMOULNAMO	Los Monetarists dicen representar los intereses del pueblo, pero en realidad solo quieren manipularlo para sus propios fines egoístas.
+TEXT_VOICEMAN_02400_K00230_NANAMOULNAMO	Para que el gobierno sirva al pueblo, tiene que estar formado por el pueblo.
+TEXT_VOICEMAN_02400_K00240_NANAMOULNAMO	Para que Ul'dah avance, no basta con disolver el Syndicate.
+TEXT_VOICEMAN_02400_K00250_MERLWYB	No... Está bromeando...
+TEXT_VOICEMAN_02400_K00260_NANAMOULNAMO	Amigos míos: les pedí que vinieran con el único propósito de darles a conocer mi intención.
+TEXT_VOICEMAN_02400_K00270_NANAMOULNAMO	Cuando le haga mi anuncio al pueblo, inevitablemente se desatará el caos.
+TEXT_VOICEMAN_02400_K00280_NANAMOULNAMO	Como última monarca del linaje de Ul, les hago esta petición.
+TEXT_VOICEMAN_02400_K00290_NANAMOULNAMO	Ayuden a Raubahn a mantener el orden y a proteger al pueblo. Si lo abandonan, se abandonan a ustedes mismos, porque una Eorzea fuerte siempre necesitará una Ul'dah fuerte.
+TEXT_VOICEMAN_02400_K00300_KANESENNA	Su Gracia... ¿Está segura de esto?
+TEXT_VOICEMAN_02400_K00310_NANAMOULNAMO	No hay otro camino.
+TEXT_VOICEMAN_02400_K00320_NANAMOULNAMO	Cuando llegue el momento, la nación se convertirá en una verdadera república. Tanto los Royalists como los Monetarists dejarán de existir.
+TEXT_VOICEMAN_02400_K00330_NANAMOULNAMO	Ul'dah ya no pertenecerá a reyes ni a reinas ni a príncipes mercaderes, sino a su pueblo.
+TEXT_VOICEMAN_02400_K00340_NANAMOULNAMO	Raubahn... Perdóname por echar por tierra todo aquello por lo que te esforzaste en mi nombre...
+TEXT_VOICEMAN_02400_K00350_NANAMOULNAMO	Más allá de este gesto, no tengo poder para ayudar a mis súbditos.
