@@ -121,7 +121,7 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 |  | 3.5–3.56 | 270 | ![Traducido][ok] |
 | **Stormblood** | 4.0 | 1.775 | ![Pendiente][no] |
 | **Post Stormblood** | 4.1 | 310 | ![Traducido][ok] |
-|  | 4.2 | 289 | ![Pendiente][no] |
+|  | 4.2 | 289 | ![Traducido][ok] |
 |  | 4.3 | 251 | ![Pendiente][no] |
 |  | 4.4 | 341 | ![Pendiente][no] |
 |  | 4.5–4.56 | 475 | ![Pendiente][no] |
