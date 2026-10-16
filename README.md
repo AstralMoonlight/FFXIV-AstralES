@@ -26,7 +26,7 @@
 ## Qué hace
 
 - **Tooltips de combate:** habilidades, rasgos y estados (buffs y debuffs).
-- **Historia principal:** diálogos, cinemáticas, Journal y Duty List.
+- **Historia principal:** diálogos, cinemáticas sin voz, Journal y Duty List.
 - **Nombres en inglés:** habilidades, estados, medidores, jobs, personajes, lugares y misiones quedan tal como aparecen en el juego y en las guías. Solo se traduce el texto que los rodea.
 
 Lo que todavía no tiene traducción se muestra en inglés, como siempre.
@@ -102,6 +102,8 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | | | Raid de 8: Arcadion (Light-heavyweight, Cruiserweight, Heavyweight) | ![Pendiente][no] |
 | | | Raid de alianza (24): Echoes of Vana'diel | ![Pendiente][no] |
 | **Post Dawntrail** | 7.1 en adelante | Historia principal | ![Pendiente][no] |
+
+**Extra pendiente:** las cinemáticas con voz (desde la 2.2) tienen su texto aparte y todavía se ven en inglés, incluso en las expansiones ya traducidas. Se van a traducir más adelante.
 
 ## Misiones de clase y job
 
