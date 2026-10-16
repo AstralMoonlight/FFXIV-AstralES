@@ -112,7 +112,7 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 | **Post A Realm Reborn** | 2.2 | 261 | ![Traducido][ok] |
 |  | 2.3 | 218 | ![Traducido][ok] |
 |  | 2.4 | 508 | ![Traducido][ok] |
-|  | 2.5–2.55 | 537 | ![Pendiente][no] |
+|  | 2.5–2.55 | 537 | ![Traducido][ok] |
 | **Heavensward** | 3.0 | 1.232 | ![Pendiente][no] |
 | **Post Heavensward** | 3.1 | 203 | ![Pendiente][no] |
 |  | 3.2 | 283 | ![Pendiente][no] |
