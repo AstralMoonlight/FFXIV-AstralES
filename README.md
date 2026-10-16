@@ -86,10 +86,10 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | | | Raid de 8: Alexander (Gordias, Midas, Creator) | ![Pendiente][no] |
 | | | Raid de alianza (24): Shadow of Mhach | ![Pendiente][no] |
 | **Post Heavensward** | 3.1–3.56 | Historia principal, de "An Uncertain Future" a "The Far Edge of Fate" | ![Traducido][ok] |
-| **Stormblood** | 4.0 | Historia principal | ![Pendiente][no] |
+| **Stormblood** | 4.0 | Historia principal, de "Beyond the Great Wall" a "Stormblood" | ![Traducido][ok] |
 | | | Raid de 8: Omega (Deltascape, Sigmascape, Alphascape) | ![Pendiente][no] |
 | | | Raid de alianza (24): Return to Ivalice | ![Pendiente][no] |
-| **Post Stormblood** | 4.1–4.56 | Historia principal | ![Pendiente][no] |
+| **Post Stormblood** | 4.1–4.56 | Historia principal, de "Arenvald's Adventure" a "A Requiem for Heroes" | ![Traducido][ok] |
 | **Shadowbringers** | 5.0 | Historia principal | ![Pendiente][no] |
 | | | Raid de 8: Eden (Gate, Verse, Promise) | ![Pendiente][no] |
 | | | Raid de alianza (24): YoRHa: Dark Apocalypse | ![Pendiente][no] |
