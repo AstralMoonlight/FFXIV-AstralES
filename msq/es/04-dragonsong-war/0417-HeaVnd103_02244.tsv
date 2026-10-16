@@ -1,0 +1,60 @@
+key	text
+TEXT_HEAVND103_02244_SEQ_00	Alphinaud parece tener ganas de seguir adelante.
+TEXT_HEAVND103_02244_SEQ_01	Pese a la evaluación previsiblemente sombría de Vidofnir sobre sus posibilidades, Alphinaud está decidido a guiar a Ser Aymeric hasta la cima de Sohm Al. Reúnete con tus compañeros en las afueras de Moghome y avísale al comandante supremo que estás list<if(gnum4,a,o)> para partir.
+TEXT_HEAVND103_02244_SEQ_02	Mientras Ser Aymeric comparte su asombro ante la vista increíble, de pronto te saluda Moghan, el moogle que te guio por primera vez a Zenith. Al enterarse de qué los trae a los Churning Mists, te asegura que los vientos son perfectos para llevar tu llamado a los oídos de Hraesvelgr. Ve a Zenith y vuelve a soplar el cuerno de los moogles.
+TEXT_HEAVND103_02244_SEQ_03	Ves descender a Hraesvelgr de entre las nubes, igual que la primera vez que llegaste a Zenith, y por dentro haces una mueca cuando recibe tu pedido de ayuda con el mismo desprecio. Sin dejarse intimidar, Aymeric y Alphinaud se esfuerzan por convencer al gran dragón con elocuencia y razones, pero recién cuando aparece el mismísimo Midgardsormr acepta Hraesvelgr poner a prueba la determinación de ti y de tus compañeros. Consulta con Ser Aymeric cómo enfrentar la prueba que se avecina.
+TEXT_HEAVND103_02244_SEQ_04	Ser Aymeric te cuenta que vio a un wyvern aterrizar justo afuera del palacio, y concluye que debe de ser uno de los "hijos" de los que habló Hraesvelgr. Habla con el dragón que espera.
+TEXT_HEAVND103_02244_SEQ_05	Parece que el wyvern vino a llevarte al lugar de tu prueba. Prepara el cuerpo y la mente, porque es poco probable que las pruebas de un ser tan antiguo y poderoso como Hraesvelgr sean simples... o indulgentes.<br><br>※Se puede entrar a Sohr Khai con otros jugadores mediante el Duty Finder, o con un grupo de NPC mediante Duty Support. Ambos sistemas están disponibles en el menú principal y en la entrada del dungeon.
+TEXT_HEAVND103_02244_SEQ_06	Superaste la prueba del gran dragón. Antes de volver a Zenith, parece prudente hablar con Hraesvelgr.
+TEXT_HEAVND103_02244_SEQ_07	Hraesvelgr los elogia a ti y a tus compañeros por su determinación inquebrantable, y promete ayudarlos en la batalla que se avecina contra Nidhogg. Pregúntale a Alphinaud cómo le fue en su propia prueba.
+TEXT_HEAVND103_02244_SEQ_08	Terminadas las pruebas, Alphinaud se pregunta cuánto tiempo tienen para prepararse ante el ataque de Nidhogg. Pero apenas termina de decirlo, un rugido atronador resuena en el cielo y anuncia el avance de la Dravanian Horde. Llegó la hora del ajuste de cuentas final con Nidhogg: de poner fin a su canto de ira.
+TEXT_HEAVND103_02244_TODO_00	Habla con Ser Aymeric en las afueras de Moghome.
+TEXT_HEAVND103_02244_TODO_01	Sopla el cuerno en el piso más alto de Zenith.
+TEXT_HEAVND103_02244_TODO_02	Habla con Ser Aymeric.
+TEXT_HEAVND103_02244_TODO_03	Habla con el wyvern imperioso.
+TEXT_HEAVND103_02244_TODO_04	Entra a Sohr Khai.
+TEXT_HEAVND103_02244_TODO_05	Entra a Sohr Khai.
+TEXT_HEAVND103_02244_TODO_06	Habla con Alphinaud.
+TEXT_HEAVND103_02244_AYMERIC_000_005	El informe de Lucia describía Anyx Trine en detalle, pero sus palabras no lograban transmitir la abrumadora <italic(1)>extrañeza<italic(0)> de estar aquí, en los dominios de los dragones.
+TEXT_HEAVND103_02244_ALPHINAUD_000_010	Aunque no esperaba una respuesta mejor de Vidofnir, no me da ningún gusto haber tenido razón. Parece que nuestra presencia en Zenith será tan mal recibida como suponía. Pero ¿qué es la ira de un gran dragón para un trío de necios declarados como nosotros?<br>Empecemos el ascenso.
+TEXT_HEAVND103_02244_AYMERIC_000_011	Después de usted, señor Alphinaud.
+TEXT_HEAVND103_02244_ALPHINAUD_000_012	Adelántese a explorar si quiere, <split(<string(gstr1)>, ,1)>. ¡Lo alcanzaremos en las afueras de Moghome!
+TEXT_HEAVND103_02244_ALPHINAUD_000_015	El comandante supremo parece haberse quedado sin palabras. No lo culpo. Recuerdo haberme quedado igual de asombrado cuando vi esta vista por primera vez.
+TEXT_HEAVND103_02244_AYMERIC_000_020	Había oído historias del mundo sobre las nubes, pero nunca soñé...<br>La mente pinta un retrato pálido de su majestad.
+TEXT_HEAVND103_02244_ALPHINAUD_000_021	Pocos viven para ver semejantes maravillas. Me recuerda mi primera visita a esta cima, cuando Estinien e Ysayle todavía caminaban a nuestro lado...
+TEXT_HEAVND103_02244_MOGHAN_000_022	(-Moogle de los Churning Mists-)¿Kupopo? ¿Eres tú, <split(<string(gstr1)>, ,1)>?
+TEXT_HEAVND103_02244_ALPHINAUD_000_023	Ah, pero si es Mog... Mog... eh...
+TEXT_HEAVND103_02244_MOGHAN_000_024	(-Moogle de los Churning Mists-)¡¿No me digas que te olvidaste de mi nombre, kupo?! ¡Después de todo lo que pasamos juntos!
+TEXT_HEAVND103_02244_MOGHAN_000_025	(-Moogle de los Churning Mists-)¡Pero al menos <italic(1)>tú<italic(0)> te acuerdas de mí!<br>Tú... <italic(1)>sí<italic(0)> te acuerdas de mí, ¿verdad, <split(<string(gstr1)>, ,1)>?
+TEXT_HEAVND103_02244_Q1_000_000	¿Te acuerdas del moogle?
+TEXT_HEAVND103_02244_A1_000_001	¡¿Cómo olvidarte, Moglin?!
+TEXT_HEAVND103_02244_A1_000_002	¡Claro que sí, Moghan!
+TEXT_HEAVND103_02244_A1_000_003	Perdona, amigo, pero para mí todos los moogles son iguales...
+TEXT_HEAVND103_02244_MOGHAN_000_027	(-Moogle de los Churning Mists-)¡¿C-cómo puedes confundirme con ese calientatronos relleno?! ¡Soy Moghan! ¡El valiente moogle que te guio a Zenith, kupo!
+TEXT_HEAVND103_02244_MOGHAN_000_028	(-Moogle de los Churning Mists-)¡Uf! ¡Por un momento pareciste dudar! Pero seguro que solo recordabas con cariño cuando acampamos cerca de Zenith, ¿verdad, kupo?
+TEXT_HEAVND103_02244_MOGHAN_000_029	(-Moogle de los Churning Mists-)...Ya veo, kupo. Entonces supongo que nuestras noches junto a la fogata significaron para ti menos de lo que yo creía. Por cierto, me llamo "Moghan"... \<olfateo>
+TEXT_HEAVND103_02244_MOGHAN_000_030	Pero dejando a un lado nuestra historia compartida, ¿qué los trae a ti y a tus amigos a Moghome, kupo?
+TEXT_HEAVND103_02244_MOGHAN_000_031	Ah, otra audiencia con el viejo Hraesvelgr...
+TEXT_HEAVND103_02244_MOGHAN_000_032	Bueno, ¡espero que hayas traído el cuerno, kupo! Con los vientos tan suaves como están, un buen soplido fuerte debería llegar sin problema a los oídos del gran dragón.
+TEXT_HEAVND103_02244_ALPHINAUD_000_033	Me alegra oírlo, Moghan, gracias. Mejor sigamos hacia Zenith mientras los vientos nos favorecen.
+TEXT_HEAVND103_02244_MOGHAN_000_034	Eso sí que no lo esperaba, kupo. ¡El jefe Moglin va a querer enterarse de esto!
+TEXT_HEAVND103_02244_MOGHAN_000_035	¿Ya te reuniste con Hraesvelgr, kupo? ¡Nunca se sabe cuándo se va a levantar el viento otra vez!
+TEXT_HEAVND103_02244_ALPHINAUD_000_036	Por favor, sople el cuerno, <split(<string(gstr1)>, ,1)>.
+TEXT_HEAVND103_02244_AYMERIC_000_037	<italic(1)>Debemos<italic(0)> ganar a Hraesvelgr para nuestra causa. Si fallamos, el destino de Ishgard está prácticamente sellado.
+TEXT_HEAVND103_02244_ALPHINAUD_000_040	Otro día, otra prueba. A estas alturas, estas pruebas deben parecerle casi rutinarias. Ojalá yo pudiera decir lo mismo.
+TEXT_HEAVND103_02244_AYMERIC_000_045	Por el bien de Ishgard, superaré cualquier prueba que se me ponga delante. Y no tengo duda de que usted hará lo mismo, <split(<string(gstr1)>, ,1)>.
+TEXT_HEAVND103_02244_AYMERIC_000_046	Creo que vi a un wyvern aterrizar justo afuera del palacio. Sin duda es uno de los "hijos" de los que habló Hraesvelgr.
+TEXT_HEAVND103_02244_AYMERIC_000_047	Vamos, amigos: no hagamos esperar a nuestra escolta.
+TEXT_HEAVND103_02244_WYVERN02244_000_050	Mis hermanos de camada y yo los llevaremos al lugar de su prueba. Prepárense.
+TEXT_HEAVND103_02244_WYVERN02244_000_055	El gran Hraesvelgr los honra con esta prueba. Prepárense para ser duramente probados...
+TEXT_HEAVND103_02244_WYVERN02244_000_060	Demostraron su valía ante los ojos del gran Hraesvelgr. No creí que algo así fuera posible...
+TEXT_HEAVND103_02244_AYMERIC_000_065	Incontables veces luché contra los siervos de Nidhogg, pero nunca imaginé que algún día me enfrentaría al mismísimo Hraesvelgr.
+TEXT_HEAVND103_02244_ALPHINAUD_000_070	Ay... aaay... Ay, mis pobres costillas... Fue un recordatorio doloroso del poder de un gran dragón...
+TEXT_HEAVND103_02244_AYMERIC_000_073	Y si de verdad hubiera querido hacernos daño, no estaríamos aquí ahora. Está claro que su intención era enseñar. Su embestida me obligó a recordar mi entrenamiento: la velocidad del dragón, su equilibrio, sus puntos ciegos... Fue, en resumen, una lección muy completa.
+TEXT_HEAVND103_02244_MOGLIN_000_074	Ay, ay, ay, ay, ay... kupo. <split(<string(gstr1)>, ,1)>, déjame empezar por felicitarte por haber completado tu prueba.
+TEXT_HEAVND103_02244_MOGLIN_000_075	Para alguien con un nombre más propio de un bufón, peleas con la saña de un demonio rabioso.
+TEXT_HEAVND103_02244_MOGLIN_000_076	¿Ves cómo tengo las alas torcidas? ¡Hasta me duele el pompón! Después de esta paliza, me temo que mis leales súbditos van a tener que cargar con mis tareas personales durante bastante tiempo, kupo. Quizá para siempre.
+TEXT_HEAVND103_02244_MOGHAN_000_077	¡¿Qué?! Cuando te conté de la prueba de <split(<string(gstr1)>, ,1)>, no quería que sufriéramos <italic(1)>los demás<italic(0)>...
+TEXT_HEAVND103_02244_MOGLIN_000_078	...Te tocan turnos <italic(1)>triples<italic(0)>, Moghan.
+TEXT_HEAVND103_02244_MOGHAN_000_079	\<farfulla> ¡¿<italic(1)>Triples<italic(0)>?! ¡¡¡Pero eso no es justo!!!<br>No hay justicia, kupo... ¡Ninguna!
+TEXT_HEAVND103_02244_VIDOFNIR_000_001	（★Sin uso／se eliminará★）

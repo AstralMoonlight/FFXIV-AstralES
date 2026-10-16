@@ -1,0 +1,22 @@
+key	text
+TEXT_HEAVND101_02242_SEQ_00	El caballero de la House Fortemps tiene un mensaje para ti.
+TEXT_HEAVND101_02242_SEQ_01	Según el caballero, Alphinaud quiere hablar contigo. Entra a Fortemps Manor y averigua qué tiene que decir el joven señor Leveilleur.
+TEXT_HEAVND101_02242_SEQ_02	Alphinaud te pide que recuerdes lo que pasó en la conferencia de paz, en concreto el momento en que Nidhogg apareció con la apariencia de Estinien. Como cree que el hecho de que el cuerpo de tu amigo se conserve podría ofrecer una esperanza de salvar al dragoon, pidió la opinión de Y'shtola y Krile. Al parecer, en respuesta a su pedido, ya viajaron a Ishgard para compartir sus observaciones. Ve al Forgotten Knight y habla con Krile.
+TEXT_HEAVND101_02242_SEQ_03	En la taberna, Y'shtola y Krile cuentan lo que vieron en la conferencia, y concluyen que el espíritu de Estinien quizá sí sobrevivió: al parecer, la voluntad vengativa de Nidhogg lo envolvió, pero no lo consumió. Animado, Alphinaud especula con que quitar los ojos del gran dragón de la armadura del dragoon podría liberarlo. Restándoles importancia a las dudas de Krile sobre esa propuesta tan incierta, el joven Scion declara que hará lo que sea necesario para salvar a su amigo. Tras ese juramento apasionado aparece Honoroit y anuncia que Ser Aymeric pidió verte. Reúnete con Alphinaud en el Congregation of Our Knights Most Heavenly para la audiencia.
+TEXT_HEAVND101_02242_SEQ_04	Te reúnes con Alphinaud frente al Seat of the Lord Commander. Sus reflexiones son un eco de las tuyas mientras se preguntan por qué los habrá convocado Ser Aymeric...
+TEXT_HEAVND101_02242_TODO_00	Habla con Alphinaud en Fortemps Manor.
+TEXT_HEAVND101_02242_TODO_01	Habla con Krile en el Forgotten Knight.
+TEXT_HEAVND101_02242_TODO_02	Habla con Alphinaud en el Congregation of Our Knights Most Heavenly.
+TEXT_HEAVND101_02242_HOUSEFORTEMPSKNIGHT02242_000_001	¡Ah, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>! Qué bueno que está aquí. L<if(gnum4,a,o)> esperan adentro.
+TEXT_HEAVND101_02242_HOUSEFORTEMPSKNIGHT02242_000_002	Creo que el señor Alphinaud quiere hablar con usted...
+TEXT_HEAVND101_02242_HOUSEFORTEMPSKNIGHT02242_100_002	El señor Alphinaud l<if(gnum4,a,o)> espera dentro de la mansión. Parecía muy ansioso por hablar con usted.
+TEXT_HEAVND101_02242_ALPHINAUD_000_003	Ah, <split(<string(gstr1)>, ,1)>, ahí está. ¿Tiene un momento? Hay algo de lo que me gustaría hablar.
+TEXT_HEAVND101_02242_ALPHINAUD_000_004	Debo pedirle que recuerde lo que pasó en la conferencia de paz, aunque me atrevo a decir que preferiría olvidarlo.
+TEXT_HEAVND101_02242_ALPHINAUD_000_005	Mi mente vuelve una y otra vez al momento en que Nidhogg apareció ante la multitud con la apariencia de Estinien. Fue una imagen que hiela el alma, pero que me dio motivos para esperar que nuestro amigo todavía pueda salvarse. Cuando usted describió su fatídica transformación en Azys Lla, temí que estuviera perdido para siempre, pero el solo hecho de que perdure algo de lo que fue tiene que significar <italic(1)>algo<italic(0)>. Por desgracia, no tengo pruebas que respalden esta impresión...
+TEXT_HEAVND101_02242_ALPHINAUD_000_006	Así que recurrí a Y'shtola y a Krile para una evaluación más <italic(1)>empírica<italic(0)>, y me alegro mucho de haberlo hecho, porque parece que tienen sus propias observaciones que compartir.
+TEXT_HEAVND101_02242_TATARU_000_007	Las chicas nos guardaron una mesa en el Forgotten Knight. ¿Vamos?
+TEXT_HEAVND101_02242_ALPHINAUD_000_008	Excelente. No hagamos esperar a nuestras distinguidas colegas.
+TEXT_HEAVND101_02242_YSHTOLA_000_010	El nombre no le hace justicia a este lugar. Sorprendentemente pocos clientes parecen dispuestos a beber hasta el olvido. Empiezo a entender por qué Tataru eligió trabajar aquí.
+TEXT_HEAVND101_02242_TATARU_000_020	Creo que me voy a quedar en el Knight por ahora. Después de todo, los rumores están frescos, ¡y unas monedas extra siempre vienen bien!
+TEXT_HEAVND101_02242_HONOROIT_000_021	¿Todavía no visitó al comandante supremo, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>? ¿Entonces puedo animarl<if(gnum4,a,o)> a presentarse en el Congregation of Our Knights Most Heavenly cuanto antes? No quisiera que se diga que no transmití la convocatoria de Ser Aymeric.
+TEXT_HEAVND101_02242_ALPHINAUD_000_030	¿Qué noticias tendrá Ser Aymeric para nosotros, me pregunto...?

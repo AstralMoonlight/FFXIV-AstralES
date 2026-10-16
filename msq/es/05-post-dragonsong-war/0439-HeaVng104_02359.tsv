@@ -1,0 +1,84 @@
+key	text
+TEXT_HEAVNG104_02359_SEQ_00	Alphinaud tiene cara de tener mucho que decir.
+TEXT_HEAVNG104_02359_SEQ_01	Alphinaud te informa que el consejo de la Alliance volverá a reunirse en breve y te pide que vayas rápido al Lotus Stand. Preséntate ante el conjurer silencioso y después acércate a la Elder Seedseer.
+TEXT_HEAVNG104_02359_SEQ_02	Tras agradecerte tus esfuerzos en Carteneau, los jefes de Estado reunidos explican lo que pasó después del lanzamiento de Omega. Tras lo que según todos fue una batalla aérea feroz, tanto el arma como el primal parecen haber caído en Gyr Abania, y la Alliance ahora pretende aprovechar la confusión para asegurar Baelsar's Wall. Pregúntale a Alphinaud qué opina de estas novedades y hablen del próximo paso.
+TEXT_HEAVNG104_02359_SEQ_03	Aunque tiene presente todo lo que te esforzaste últimamente, Alphinaud sugiere que se reúnan con sus compañeros Scions en East Shroud. Busca a Y'shtola en Amarissaix's Spire.
+TEXT_HEAVNG104_02359_SEQ_04	Te encuentras con Krile e Y'shtola al pie de la torre, y te cuentan su versión de la batalla titánica en los cielos de Gyr Abania. Por aterrador que haya sido el espectáculo, una parte de ti no puede evitar desear haber estado ahí para verlo... Pero mientras imaginas la escena, la pregunta de Alphinaud por el estado de Yda te devuelve al presente, y subes a la plataforma de observación, donde encuentras a la pugilist de luto mirando el lugar donde antes colgaba el capullo de luz. Yda se da vuelta al verte llegar y, como si acabara de tomar una decisión, cuenta la historia de su gran engaño, y revela por fin que no es Yda, sino la hermana menor de la Archon caída: Lyse. Con su promesa de liberar Ala Mhigo todavía resonando en tu mente, te preparas para seguir a Alphinaud de vuelta a los Rising Stones, donde espera Alisaie.
+TEXT_HEAVNG104_02359_SEQ_05	A tu regreso, te enteras de que Alisaie ya está al tanto del sorprendente secreto de Lyse, pero no es eso lo que ocupa sus pensamientos, sino el futuro. Consciente de que los Scions inevitablemente se verán arrastrados al conflicto que se gesta en Gyr Abania, te pide que juntes fuerzas para la tormenta que viene...<br><br>※La siguiente misión del escenario principal estará disponible con Alphinaud cuando completes la misión del escenario principal "The Far Edge of Fate".
+TEXT_HEAVNG104_02359_TODO_00	Habla con Kan<-->E<-->Senna en el Lotus Stand.
+TEXT_HEAVNG104_02359_TODO_01	Habla con Alphinaud.
+TEXT_HEAVNG104_02359_TODO_02	Habla con Y'shtola en Amarissaix's Spire.
+TEXT_HEAVNG104_02359_TODO_03	Habla con Alisaie en los Rising Stones.
+TEXT_HEAVNG104_02359_ALISAIE_100_001	Siempre me alegra verl<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>, pero ¿no necesitaban su presencia en Gridania?
+TEXT_HEAVNG104_02359_TATARU_100_005	¡<split(<string(gstr1)>, ,1)>! ¡Volviste! ¡<italic(1)>Sabía<italic(0)> que esos amuletos de blood pearl valían la pena! ¡¿Quizá debería hacer más?!
+TEXT_HEAVNG104_02359_YUGIRI_000_001	（★Sin uso／se eliminará★）
+TEXT_HEAVNG104_02359_GOSETSU_000_005	（★Sin uso／se eliminará★）
+TEXT_HEAVNG104_02359_NERO_000_010	（★Sin uso／se eliminará★）
+TEXT_HEAVNG104_02359_YDA_000_015	（★Sin uso／se eliminará★）
+TEXT_HEAVNG104_02359_CID_000_020	Alphinaud tiene cara de traer noticias. Casi me da miedo preguntar...
+TEXT_HEAVNG104_02359_ALPHINAUD_000_030	No hay palabras para expresar cuánto me alegra verlos a todos ilesos. Cuando Omega se lanzó contra el capullo, todo se volvió un caos...
+TEXT_HEAVNG104_02359_YDA_000_031	Tengo que verlo... ¡Tengo que verlo con mis propios ojos!
+TEXT_HEAVNG104_02359_ALPHINAUD_000_032	¡Yda, espera! Primero debemos...<br>\<suspiro> La Elder Seedseer nos espera...
+TEXT_HEAVNG104_02359_YUGIRI_000_033	No se preocupe, Alphinaud: Gosetsu y yo la cuidaremos. Puede ir tranquilo a su reunión.
+TEXT_HEAVNG104_02359_ALPHINAUD_000_034	Gracias, Yugiri.
+TEXT_HEAVNG104_02359_ALPHINAUD_000_035	El consejo volvió a reunirse hace un rato. Vamos rápido al Lotus Stand. Allí todos esperan ansiosos su testimonio.
+TEXT_HEAVNG104_02359_SILENTCONJURER_000_040	La Elder Seedseer l<if(gnum4,a,o)> espera adentro.
+TEXT_HEAVNG104_02359_Q1_000_000	¿Ir al Lotus Stand?
+TEXT_HEAVNG104_02359_A1_000_001	（★Sin uso／se eliminará★）
+TEXT_HEAVNG104_02359_A1_000_002	（★Sin uso／se eliminará★）
+TEXT_HEAVNG104_02359_RAUBAHN_000_055	Parece que el amiguito de Garlond cumplió su palabra.
+TEXT_HEAVNG104_02359_AYMERIC_000_060	Si no le hubiera pedido que arrojara al abismo los malditos ojos de Nidhogg, todo esto quizá se habría evitado. Creí que ya nadie podría alcanzarlos...
+TEXT_HEAVNG104_02359_MERLWYB_000_065	Otra Calamidad evitada, ¿eh? ¿Cuántas veces ya nos sacaron usted y los suyos del borde del abismo?
+TEXT_HEAVNG104_02359_KANESENNA_000_070	Amigos míos, esperábamos con ansias su regreso. Pocos podrían haber cumplido el deber que se les confió, y les agradecemos con toda humildad haberlo logrado.
+TEXT_HEAVNG104_02359_CID_000_071	Es usted muy amable, Elder Seedseer. Si mal no recuerdo, prácticamente exigimos el derecho a intentarlo. Pero dígame: ¿cómo fue la batalla?
+TEXT_HEAVNG104_02359_CID_000_072	Logramos despertar a Omega, sí, pero perdimos contacto con el arma poco después del lanzamiento. Desde la sala de control no pudimos ver nada de lo que siguió...
+TEXT_HEAVNG104_02359_MERLWYB_000_073	...¿Qué palabras podrían hacerle justicia a semejante escena? Ninguna que yo elija, eso seguro. Pero puedo darle los hechos: el capullo se abrió justo cuando llegó Omega, y de su interior surgió un gran dragón. Los dos se trabaron en combate en los cielos de Gyr Abania.
+TEXT_HEAVNG104_02359_AYMERIC_000_074	El poder del primal desafiaba toda creencia: parecía que los cielos mismos se partirían con la fuerza de sus golpes. Y usaba una magia como nunca vi... y espero no volver a ver.
+TEXT_HEAVNG104_02359_AYMERIC_000_075	La batalla siguió sin un final a la vista, hasta que un destello cegador envolvió a ambos combatientes. Cuando se apagó el resplandor, vi a los dos caer inmóviles del cielo y quedar en algún lugar de suelo alamhigano. No hablaré por los demás, pero a mí me pareció que cada uno le había asestado al otro un golpe mortal...
+TEXT_HEAVNG104_02359_KANESENNA_000_076	Aunque la mayoría de nosotros solo podía pensar en Bahamut al ver la forma del primal, se oyó a los domanos susurrar el nombre "Shinryu". Parece que el ser se parece a una criatura de una leyenda del Lejano Oriente, y nos resultó práctico llamarlo así.
+TEXT_HEAVNG104_02359_KANESENNA_000_077	El destino de este Shinryu, y también el de Omega, todavía se desconoce. Por desgracia, no tenemos ojos del lado de Gyr Abania de la frontera.
+TEXT_HEAVNG104_02359_RAUBAHN_000_078	Así es. Por eso enviamos a nuestra fuerza principal, al mando del Marshal Tarupin, a tomar el Wall.
+TEXT_HEAVNG104_02359_RAUBAHN_000_079	Con los imperiales desorganizados, tenemos la oportunidad perfecta de asegurar la frontera de Gridania y evaluar las consecuencias del impacto. Yo mismo me uniré al Marshal y a sus hombres cuando se levante el consejo.
+TEXT_HEAVNG104_02359_CID_000_080	Bueno, eso explica algunas cosas. Apuesto a que ese "destello" coincidió con la pérdida de contacto...
+TEXT_HEAVNG104_02359_CID_000_081	Por si se lo preguntan, volvimos a activar enseguida los sistemas de estasis de Omega, así que aunque <italic(1)>haya<italic(0)> caído en manos del Empire, no les servirá de nada... salvo quizá como estatua.
+TEXT_HEAVNG104_02359_NERO_000_082	Correcto. Sin <italic(1)>mí<italic(0)> para guiar sus esfuerzos, les llevaría décadas descifrar las funciones centrales de Omega, si es que lo lograran.
+TEXT_HEAVNG104_02359_KANESENNA_000_083	Esas garantías calman mucho nuestros temores, pero el destino de la reliquia es solo una de varias preocupaciones.
+TEXT_HEAVNG104_02359_AYMERIC_000_084	Así es. Me permito sugerir humildemente que llegó la hora de contactar a los representantes de la Resistance en Gyr Abania. Aunque Ilberd nos forzó la mano, parece lógico buscar una alianza, dado que las represalias imperiales son inevitables. Y trabajando juntos, no es imposible que Ala Mhigo por fin sea arrancada de las garras de Garlemald.
+TEXT_HEAVNG104_02359_RAUBAHN_000_085	Voy a supervisar las operaciones en Baelsar's Wall. Ustedes ya hicieron su parte: déjennos a nosotros la primera represalia imperial y descansen mientras puedan.
+TEXT_HEAVNG104_02359_AYMERIC_000_090	Esta operación para tomar el Wall será la primera acción militar de Ishgard bajo las banderas de la Alliance. Aunque no tengo ningún deseo de derramar sangre, una parte de mí se alegra de la oportunidad de empezar a reparar nuestra inacción pasada.
+TEXT_HEAVNG104_02359_MERLWYB_000_095	Cuando surgió el primal, por un instante volví a Carteneau... al momento en que el dragón negro convirtió el campo de batalla en un octavo infierno. Con gusto viviría el resto de mis días sin volver a ver algo así.
+TEXT_HEAVNG104_02359_CID_000_100	Si, como parece probable, pusimos a Omega en estasis después de que... ¿cómo lo llamaron? Ah, sí, después de que "Shinryu" fuera derrotado, no deberíamos temer demasiado a ninguno de los dos.
+TEXT_HEAVNG104_02359_NERO_000_105	Me encantaría ver a esa criatura "Shinryu" con mis propios ojos.
+TEXT_HEAVNG104_02359_Q2_000_000	（★Sin uso／se eliminará★）
+TEXT_HEAVNG104_02359_A2_000_001	（★Sin uso／se eliminará★）
+TEXT_HEAVNG104_02359_A2_000_002	（★Sin uso／se eliminará★）
+TEXT_HEAVNG104_02359_KANESENNA_100_085	Le ruego que acepte otra vez mi más humilde y sincero agradecimiento, Warrior of Light. Si a Shinryu lo hubieran dejado vagar libre, el Twelveswood sin duda habría quedado arrasado.
+TEXT_HEAVNG104_02359_ALPHINAUD_000_120	Debe de estar agotad<if(gnum4,a,o)>. Normalmente le sugeriría que fuéramos directo a los Rising Stones... pero ¿podríamos hacer antes un pequeño desvío?
+TEXT_HEAVNG104_02359_ALPHINAUD_000_121	Y'shtola y los demás se reunieron en Amarissaix's Spire, y me imagino que a usted también le interesará ver qué fue del Wall ahora que el capullo no está.
+TEXT_HEAVNG104_02359_ALPHINAUD_000_122	Decidido, entonces. Adelante.
+TEXT_HEAVNG104_02359_GOSETSU_000_125	Solo los perros de Garlemald mancharían tanta belleza con esa monstruosidad de hierro negro. ¡Esas bestias no respetan nada ni a nadie!
+TEXT_HEAVNG104_02359_YUGIRI_000_130	Yda está ahí, en lo alto de la torre. Hace rato que no hace otra cosa que mirar el Wall en silencio...
+TEXT_HEAVNG104_02359_YDA_000_135	......
+TEXT_HEAVNG104_02359_KRILE_100_125	Ay, gracias a los Twelve. Después de ver la embestida implacable de Omega, me imaginé que quedabas atrapad<if(gnum4,a,o)> entre él y su objetivo. No es la preocupación más racional, lo reconozco, pero si hubieras visto lo que yo vi...
+TEXT_HEAVNG104_02359_ALPHINAUD_100_130	No queda ni rastro del capullo. Es como si nunca hubiera existido.
+TEXT_HEAVNG104_02359_ALPHINAUD_000_140	Fue valiente de parte de Lyse quitarse la máscara después de tanto tiempo...
+TEXT_HEAVNG104_02359_ALPHINAUD_000_141	Aunque apenas empezó a asimilar la pérdida de Papalymo, ese solo gesto dejó clara su determinación de seguir adelante.
+TEXT_HEAVNG104_02359_ALPHINAUD_000_142	Y si alguna vez flaquea, estaremos ahí para apoyarla en el camino que decidió recorrer.
+TEXT_HEAVNG104_02359_ALPHINAUD_000_143	Volvamos a los Rising Stones. Tenemos toda una historia que contarles a Tataru y a mi hermana...
+TEXT_HEAVNG104_02359_LYSE_000_145	Me voy a quedar aquí hasta que nos llame la Alliance. Así voy a estar cerca si pasa algo.
+TEXT_HEAVNG104_02359_YSHTOLA_000_150	Me quedaré con ella un rato más...
+TEXT_HEAVNG104_02359_ALPHINAUD_000_155	Tendría que haber <italic(1)>visto<italic(0)> la cara de Tataru cuando le conté lo de Lyse... Ah. Ahora me doy cuenta de que quizá debí esperar a que usted volviera... Eh... también se lo conté a Alisaie. Perdón.
+TEXT_HEAVNG104_02359_TATARU_000_160	¿Sabías lo de Yd... digo, lo de "Lyse"? ¡No tenía idea! Nos conocimos recién después de la Calamidad, y su hermana ya debía de haber... Bueno, ya sabes.
+TEXT_HEAVNG104_02359_ALISAIE_000_170	Quizá lo mencionó, pero Alphinaud me puso al tanto de todo lo que pasó en Gridania. Su única tarea ahora es descansar. Es la calma antes de la tormenta.
+TEXT_HEAVNG104_02359_ALISAIE_000_171	Lyse eligió su camino, y como amigos suyos, debemos hacer lo posible por apoyar esa decisión. De todos modos, estamos destinados a sumarnos al conflicto. Cuando la Alliance tome el Wall y abra el camino a Gyr Abania, no tendremos más remedio que pelear.
+TEXT_HEAVNG104_02359_ALISAIE_000_172	Lo que no quiere decir que la causa no valga la pena. Después de todo, ignorar el sufrimiento de quienes uno podría salvar no es sabiduría, sino <italic(1)>indolencia<italic(0)>, ¿no? Yo, por mi parte, tengo ganas de unir fuerzas con los alamhiganos y asestarle un golpe a la tiranía del Empire... ¡y sospecho que usted también!
+TEXT_HEAVNG104_02359_PIPIN_100_180	¡Paso ligero! Los imperiales pronto recuperarán el sentido, ¡y tenemos que estar listos para enfrentar su venganza!
+TEXT_HEAVNG104_02359_PIPIN_100_181	Ya casi es la hora, padre.
+TEXT_HEAVNG104_02359_RAUBAHN_100_182	Sí, casi. Mantente firme, Pipin.
+TEXT_HEAVNG104_02359_PIPIN_100_183	Aprendí a resistir la embestida del Bull of Ala Mhigo. ¡Ningún enemigo me va a mover!
+TEXT_HEAVNG104_02359_RAUBAHN_100_184	Muy bien, Ilberd...<br>Recuperaré nuestra patria...
+TEXT_HEAVNG104_02359_RAUBAHN_110_184	...por los dos.
+TEXT_HEAVNG104_02359_IMPERIALOFFICER_000_180	Mi señor virrey: nuestros exploradores confirmaron los primeros informes. Baelsar's Wall cayó en manos de la Eorzean Alliance.
+TEXT_HEAVNG104_02359_IMPERIALOFFICER_000_181	La búsqueda de Omega y del eikon desconocido continúa, aunque los dos siguen eludiéndonos. Mi señor... su batalla causó daños <italic(1)>considerables<italic(0)> en toda la región... ¿Deberíamos quizá desviar parte de nuestras fuerzas de la búsqueda para las obras de reconstrucción necesarias?
+TEXT_HEAVNG104_02359_IMPERIALOFFICER_000_182	Yo... ¡Perdóneme, mi señor! No quise... ¡<italic(1)>Hágase su voluntad<italic(0)>!
+TEXT_HEAVNG104_02359_ZENOS_000_183	(-Virrey-)¿"Desconocido"? Mis espías me dicen que los domanos lo llaman "Shinryu", y que estuvo a la altura de Omega.<br>Sí... los próximos días prometen ser de lo más interesantes.<br>De lo <italic(1)>más<italic(0)> interesantes.

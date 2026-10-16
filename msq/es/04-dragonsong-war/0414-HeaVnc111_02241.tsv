@@ -1,0 +1,26 @@
+key	text
+TEXT_HEAVNC111_02241_SEQ_00	Alphinaud por fin sabe lo que tiene que hacer.
+TEXT_HEAVNC111_02241_SEQ_01	Alphinaud repite que hay cosas que quiere decirte, no <if(gnum4,a la,al)> Warrior of Light ni a un compañero Scion, sino a ti, <split(<string(gstr1)>, ,1)>, su amig<if(gnum4,a,o)>. Te propone viajar a Camp Dragonhead, a la sala de audiencias que Lord Haurchefant les reservó hace tiempo, para conversar en privado.
+TEXT_HEAVNC111_02241_SEQ_02	Luchar y morir por una causa noble es una idea que a muchos les parece romántica, y Alphinaud no era la excepción. ¿Acaso no vale la pena luchar por la verdad, la justicia y la libertad? Pero después de ver lo que cuesta perseguir tantas causas, de ver a qué precio se compra cada victoria, Alphinaud ya tuvo suficiente. Aunque Ser Aymeric y toda Ishgard estén dispuestos a sacrificar a Estinien para matar a Nidhogg, él no lo está. Aunque fracase, Alphinaud está decidido a intentar salvar al dragoon. Conmovid<if(gnum4,a,o)> por la convicción de tu joven amigo, te descubres pensando en los que perdiste. Moenbryda, Wilred, Lord Haurchefant, Ysayle, Minfilia... y uno que todavía puede salvarse.
+TEXT_HEAVNC111_02241_SEQ_03	Alphinaud te agradece que lo dejaras desahogarse. Aunque sabe que al principio no todos los Scions estarán de acuerdo con el camino que eligió, confía en que con el tiempo podrá convencerlos. Por ahora, quiere volver a Fortemps Manor y, con la ayuda de Tataru, pensar en temas más alegres.
+TEXT_HEAVNC111_02241_SEQ_04	Tan optimista como siempre, Tataru ve el futuro con buenos ojos, y todavía cree que Yda, Papalymo y hasta Minfilia podrían volver algún día con los Scions. Al recordar la situación de la Antecedent, Alphinaud se pregunta qué la habrá llevado a hacer tanto para transmitir un mensaje tan curioso. Aunque puede que pase un tiempo antes de que sepan toda la verdad, parece conforme con esperar y dedicarse a resolver los problemas del presente. Los Scions siempre encuentran la manera.
+TEXT_HEAVNC111_02241_TODO_00	Espera a Alphinaud en la sala de audiencias de Camp Dragonhead.
+TEXT_HEAVNC111_02241_TODO_01	Habla con Alphinaud.
+TEXT_HEAVNC111_02241_TODO_02	Habla con Alphinaud frente a Fortemps Manor.
+TEXT_HEAVNC111_02241_ALPHINAUD_000_000	Cuando dije que quería hablar con usted después de la conferencia, confieso que imaginaba circunstancias más felices. Pero, en todo caso, esta nueva tragedia hace que sea más urgente. Hay cosas que debo decir.
+TEXT_HEAVNC111_02241_ALPHINAUD_000_001	No <if(gnum4,a la,al)> Warrior of Light, ni siquiera a mi compañero Scion, sino... a usted, <split(<string(gstr1)>, ,1)>. <if(gnum4,Mi amiga,Mi amigo)>.
+TEXT_HEAVNC111_02241_ALPHINAUD_000_002	Pero no aquí, no...
+TEXT_HEAVNC111_02241_ALPHINAUD_000_003	Ah, claro. La sala de audiencias de Camp Dragonhead todavía está a nuestra disposición. Vamos allá.
+TEXT_HEAVNC111_02241_ALPHINAUD_000_010	Gracias, <split(<string(gstr1)>, ,1)>. Es injusto de mi parte desahogarme así una y otra vez, pero me alegra que me lo permita de todos modos. Es <if(gnum4,mi verdadera amiga y aliada,mi verdadero amigo y aliado)>.
+TEXT_HEAVNC111_02241_ALPHINAUD_000_011	Aunque no todos nuestros compañeros Scions apoyarán nuestra postura sobre Estinien, confío en que con el tiempo los convenceremos. Así de contagioso es el poder de la esperanza.
+TEXT_HEAVNC111_02241_ALPHINAUD_000_012	Bien. Basta de introspección solemne por <if([gnum11<12],<if([gnum11<4],esta noche,hoy)>,<if([gnum11<17],hoy,esta noche)>)>. Creo que a los dos nos haría bien pasar un rato con Tataru. Nos espera en Fortemps Manor. No la hagamos esperar más.
+TEXT_HEAVNC111_02241_TATARU_000_020	(¡Vaya! Alphinaud sí que parece de mejor ánimo. ¿Tenemos que agradecértelo a ti?)
+TEXT_HEAVNC111_02241_ALPHINAUD_000_030	Otra vez recorremos un camino demasiado conocido. Me recuerda a cuando llegamos a esta mansión por primera vez.
+TEXT_HEAVNC111_02241_ALPHINAUD_000_031	Perdidos e inseguros, nos dieron amparo cuando más lo necesitábamos. Nos salvaron... ¡y ahora nos toca devolver el favor!
+TEXT_HEAVNC111_02241_TATARU_000_032	¡Eso, eso! ¡Que nadie diga que los Scions no pagan sus deudas!
+TEXT_HEAVNC111_02241_TATARU_000_033	Después de todo, ¿qué clase de gente seríamos si abandonáramos a nuestros amigos? ¿Si dejáramos de buscar a Yda y a Papalymo, o si perdiéramos la esperanza de traer de vuelta a Minfilia?
+TEXT_HEAVNC111_02241_ALPHINAUD_000_034	Aunque sabía que le costaría caro, Minfilia se comunicó con nosotros para darnos un mensaje. Creía que era imprescindible que entendiéramos la verdadera naturaleza de esta estrella: la ruptura entre Zodiark e Hydaelyn, y las aspiraciones de los Ascians.
+TEXT_HEAVNC111_02241_ALPHINAUD_000_035	Pero con todo lo que se reveló, no puedo quitarme la sospecha de que todavía nos queda mucho por saber...
+TEXT_HEAVNC111_02241_ALPHINAUD_000_036	En cualquier caso, creo que es hora de apartarnos de la contienda y pensar con cuidado nuestro próximo paso. No será fácil convertir esta tragedia en triunfo, pero encontraremos la manera. Lo haremos. Lo haremos.
+TEXT_HEAVNC111_02241_SYSTEM_000_040	¡Aprendiste el emote <colortype(500)><edgecolortype(501)>Battle Stance<edgecolortype(0)><colortype(0)>!
+TEXT_HEAVNC111_02241_PAPALYMO_000_050	¡Cautela, Yda, es lo único que te pido! No te apresures a confiar en ellos. No hasta que sepamos más.

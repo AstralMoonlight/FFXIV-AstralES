@@ -1,0 +1,52 @@
+key	text
+TEXT_HEAVNB101_02156_SEQ_00	Alphinaud quiere contarte las últimas novedades en la búsqueda de los Scions desaparecidos.
+TEXT_HEAVNB101_02156_SEQ_01	Aunque hay avances en la búsqueda de F'lhaminn, Yda y Papalymo, la de Minfilia y Thancred sigue estancada. Por suerte, parece que uno de los Students of Baldesion que sobrevivieron viene a ayudarte. Por mucho que Alphinaud quisiera quedarse a recibir al erudito de Sharlayan, a los dos los convocaron a una audiencia privada con Ser Aymeric para tratar un asunto que no se reveló. Ve de inmediato a ver al comandante supremo en el Congregation of Our Knights Most Heavenly.
+TEXT_HEAVNB101_02156_SEQ_02	Aunque Ser Aymeric decidió revelar las circunstancias de la desaparición de su padre, crece el malestar en Ishgard. Algunos ponen en duda la versión del comandante supremo, y muchos de los que aceptan la verdad cuestionan las medidas que se tomaron para detener al arzobispo. Otros dirigen su ira contra el clero, al que acusan de complicidad en el engaño de Thordan. Desesperado por asegurar una paz duradera, Ser Aymeric te pide que escoltes a Lucia hasta Anyx Trine, para que negocie con Vidofnir y así restablezca las relaciones diplomáticas con la camada de Hraesvelgr.
+TEXT_HEAVNB101_02156_SEQ_03	Lucia admite que sabe poco de Anyx Trine y de sus alrededores, y te agradece que aceptes escoltarla. Como puede pasar un tiempo antes de que vuelvan a la capital, Alphinaud cree que lo mejor es avisarle a Tataru de sus planes antes de partir.
+TEXT_HEAVNB101_02156_SEQ_04	A Tataru le alegra saber de su misión diplomática, y admite sin problema que tiene prioridad sobre recibir al erudito de Sharlayan. Aun así, te anima a sumarte a la bienvenida en Idyllshire si el tiempo lo permite, porque el erudito en cuestión no es <italic(1)>cualquiera<italic(0)>... Pero antes de que pueda explicarse, Alphinaud anuncia en voz alta que deben volver de inmediato al Congregation. Al parecer, la primera comandante ya esperó bastante.
+TEXT_HEAVNB101_02156_SEQ_05	Lucia terminó sus preparativos y está impaciente por partir. Con suerte, será un viaje trascendental...
+TEXT_HEAVNB101_02156_TODO_00	Habla con Aymeric en el Congregation of Our Knights Most Heavenly.
+TEXT_HEAVNB101_02156_TODO_01	Habla con Lucia.
+TEXT_HEAVNB101_02156_TODO_02	Habla con Tataru.
+TEXT_HEAVNB101_02156_TODO_03	Habla con Lucia.
+TEXT_HEAVNB101_02156_ALPHINAUD_000_001	Llega en el momento justo, como siempre, <split(<string(gstr1)>, ,1)>. Tataru estaba por informarme sobre la búsqueda de nuestros compañeros desaparecidos.
+TEXT_HEAVNB101_02156_ALPHINAUD_000_002	¿Nos harías el favor, entonces?
+TEXT_HEAVNB101_02156_TATARU_000_003	¡Por supuesto! ¡Les alegrará saber que Riol y sus hombres avanzaron muchísimo!
+TEXT_HEAVNB101_02156_TATARU_000_004	¿Se acuerdan de que F'lhaminn me ayudó a escapar de los Crystal Braves en Limsa Lominsa y después desapareció? <italic(1)>Pues bien<italic(0)>, según Riol, se subió a escondidas a un barco rumbo a Radz<-->at<-->Han, y desde entonces está escondida allí. Me asegura que no falta mucho para que nos reunamos.
+TEXT_HEAVNB101_02156_TATARU_000_005	En cuanto a Yda y Papalymo, encontraron los restos de sus linkpearls... ¡y nada menos que en <italic(1)>Pearl Lane<italic(0)>! Riol cree que se deshicieron de ellas después de escapar del Royal Promenade.
+TEXT_HEAVNB101_02156_ALPHINAUD_000_006	Sí, tiene sentido... No podían arriesgarse a que nuestros traidores los escucharan.
+TEXT_HEAVNB101_02156_TATARU_000_007	Estamos casi seguros de que huyeron de la ciudad poco después... aunque todavía no tenemos idea de adónde fueron.
+TEXT_HEAVNB101_02156_ALPHINAUD_000_008	Entiendo. ¿Y qué hay de Thancred y Minfilia?
+TEXT_HEAVNB101_02156_TATARU_000_009	...Me temo que no tengo nada nuevo sobre ellos dos. ¡Pero no todo es pesimismo! La buena noticia es que contratamos los servicios de un erudito de Sharlayan, uno de los Students of Baldesion, para que ayude en la búsqueda. ¡Debería llegar en cualquier momento!
+TEXT_HEAVNB101_02156_ALPHINAUD_000_010	¿Uno de los Students, dices? Me gustaría mucho conocer a ese erudito... si el tiempo lo permite.
+TEXT_HEAVNB101_02156_ALPHINAUD_000_011	Pero primero debemos atender un asunto más urgente. Ser Aymeric nos convocó a los dos a una audiencia privada. El mensajero no dijo de qué quería hablar, solo que era urgente.
+TEXT_HEAVNB101_02156_ALPHINAUD_000_012	Si no tiene objeciones, <split(<string(gstr1)>, ,1)>, propongo que vayamos de inmediato al Congregation.
+TEXT_HEAVNB101_02156_ALPHINAUD_000_013	Y quizá podamos reunirnos con el erudito después. ¿De acuerdo?
+TEXT_HEAVNB101_02156_TATARU_000_014	En ese caso, creo que voy a volver al Forgotten Knight por ahora. ¡Las cosas se desmoronan si me ausento demasiado, ya saben!
+TEXT_HEAVNB101_02156_TATARU_000_020	No te preocupes por nuestra visita. ¡Y'shtola y yo le vamos a dar una cálida bienvenida!
+TEXT_HEAVNB101_02156_ALPHINAUD_000_025	En los cuentos de hadas el bien siempre triunfa sobre el mal, pero callan de manera sospechosa sobre lo que viene después...
+TEXT_HEAVNB101_02156_TEMPLEKIGHTGATE_000_030	El comandante supremo está adentro. Adelante, por favor, <if(gnum4,señorita,señor)>.
+TEXT_HEAVNB101_02156_SCENE00010_EVENTAREA_WARP_YESNO_TITLE	¿Ir al Seat of the Lord Commander?
+TEXT_HEAVNB101_02156_SCENE00010_EVENTAREA_WARP_YESNO_YES	Sí
+TEXT_HEAVNB101_02156_SCENE00010_EVENTAREA_WARP_YESNO_NO	No
+TEXT_HEAVNB101_02156_ALPHINAUD_000_031	Al menos esta vez el viaje no debería ser muy difícil.
+TEXT_HEAVNB101_02156_TATARU_000_032	¡Enseguida estoy contigo, <split(<string(gstr1)>, ,1)>!
+TEXT_HEAVNB101_02156_LUCIA_000_040	Sé poco de las tierras que estos dragones llaman hogar, este Anyx Trine. Si usted no hubiera aceptado escoltarme, el viaje que nos espera me parecería mucho más intimidante.
+TEXT_HEAVNB101_02156_ALPHINAUD_000_041	Confieso que yo mismo me estremecía al pensarlo. Pero hasta el viaje más largo empieza con el primer paso, ¿no es así?<br>Ah, pero antes de partir, <split(<string(gstr1)>, ,1)> y yo debemos informarle de nuestros planes a nuestra compañera.
+TEXT_HEAVNB101_02156_LUCIA_000_042	Muy bien. Me ocuparé de mis preparativos.
+TEXT_HEAVNB101_02156_ALPHINAUD_000_043	Entonces vamos a despedirnos de Tataru, <split(<string(gstr1)>, ,1)>.
+TEXT_HEAVNB101_02156_HANDELOUP_000_045	A la primera comandante, y a usted, se les confió una misión de suma importancia. Por el bien de Ishgard, no puede fracasar.
+TEXT_HEAVNB101_02156_HILDA_000_046	¿Te enteraste de lo de la guardia por el comandante supremo? Sí, es cierto. Se siente raro trabajar tan a la vista, pero no pude decir que no después de que me batió las pestañas.
+TEXT_HEAVNB101_02156_SYMME_000_047	¡Ja, mírennos! ¡Guardias de verdad, por los dioses! Oye, ¿qué tal suena esto? "¡Tú, el de ahí, circulando!". No está mal, ¿eh?
+TEXT_HEAVNB101_02156_EUDESTAND_000_048	No se nos puede llamar una guardia de verdad si no tenemos uniformes ni entrenamiento. Eso llegará con el tiempo, espero.
+TEXT_HEAVNB101_02156_ALPHINAUD_000_050	¿Hm? Pensé que querría contárselo usted. ¿O prefiere que yo hable todo...?
+TEXT_HEAVNB101_02156_LUCIA_000_055	Para atravesar las tierras altas del oeste hace falta ropa más abrigada. Pero no caben tantas capas bajo una armadura de placas...
+TEXT_HEAVNB101_02156_TATARU_000_060	¿Y? ¿De qué se trataba su reunión secreta? ¡Soy toda oídos!
+TEXT_HEAVNB101_02156_TATARU_000_061	¿Una misión diplomática a Anyx Trine, dices? Bueno, supongo que eso tiene prioridad...
+TEXT_HEAVNB101_02156_TATARU_000_062	Pero si la reunión con Vidofnir termina antes, podrías pensar en reunirte con Y'shtola en Idyllshire. Ella va a estar allí para recibir a nuestra visita.
+TEXT_HEAVNB101_02156_TATARU_000_063	No me malinterpretes, tu reunión con los dragones es importantísima y todo eso, pero resulta que este erudito es─
+TEXT_HEAVNB101_02156_ALPHINAUD_000_064	<italic(1)>Si el tiempo lo permite<italic(0)>, como dije. Intentaremos reunirnos con Y'shtola, pero si no podemos, por favor dale nuestros saludos.
+TEXT_HEAVNB101_02156_ALPHINAUD_000_065	Vámonos, <split(<string(gstr1)>, ,1)>. Ya hicimos esperar bastante a la primera comandante.
+TEXT_HEAVNB101_02156_TATARU_000_070	\<suspiro> ¡Bueno, que nadie diga que no lo intenté!
+TEXT_HEAVNB101_02156_ALPHINAUD_000_075	Una tarea a la vez, <split(<string(gstr1)>, ,1)>. Además, no tengo duda de que Y'shtola puede ocuparse sola del erudito.
+TEXT_HEAVNB101_02156_LUCIA_000_080	¿Está <if(gnum4,lista,listo)>, entonces? Bien: yo también.

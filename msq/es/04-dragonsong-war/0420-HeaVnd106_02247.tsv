@@ -1,0 +1,49 @@
+key	text
+TEXT_HEAVND106_02247_SEQ_00	Aymeric parece perdido en la nostalgia.
+TEXT_HEAVND106_02247_SEQ_01	Ser Aymeric te cuenta una pequeña parte de la historia que comparte con Estinien, y reflexiona sobre el vínculo fraternal que se formó entre Alphinaud y el dragoon huraño. Pero sus pensamientos se interrumpen con la llegada repentina de un mensajero que le ruega al comandante supremo que vaya de inmediato a la enfermería. Pídele a Ser Aymeric noticias del estado de tu compañero convaleciente.
+TEXT_HEAVND106_02247_SEQ_02	Tras seguir a Ser Aymeric a la enfermería, te alivia encontrar a Estinien en plena posesión de sus sentidos y burlándose ya de un Alphinaud que llora sin disimulo. Pero intuyes que es un hombre distinto. Después de hablar de cómo Nidhogg esclavizó su espíritu, declara por fin que piensa renunciar al manto de Azure Dragoon, porque su cacería terminó.<br><br>Haciendo eco de la determinación de Estinien, Ser Aymeric por fin da el paso de abolir el gobierno milenario de los arzobispos y abre el camino a una nueva república. En los días siguientes, el gobierno de Ishgard queda en manos de una recién formada House of Commons y una House of Lords. Y aunque a Ser Aymeric no le gustaría otra cosa que dejar las riendas del Estado, pronto lo eligen para el puesto más alto de esta última.<br><br>Tú, mientras tanto, tomas prestadas las alas de Midgardsormr para escoltar a Hraesvelgr de vuelta a Zenith, y a tu regreso el ex comandante supremo te espera para recibirte. Habla con Ser Aymeric en el embarcadero de aeronaves.
+TEXT_HEAVND106_02247_SEQ_03	Es evidente que su nuevo cargo le pesa a Ser Aymeric, pero enseguida acalla sus quejas y promete llevar a Ishgard a una nueva era de paz, paso a paso y con cuidado. Después te revela que Estinien desapareció, y te pide que le des un mensaje si alguna vez se cruzan sus caminos. Por último, te pide que le transmitas sus saludos más cálidos a Alphinaud. Vuelve a Fortemps Manor y búscalo.
+TEXT_HEAVND106_02247_SEQ_04	Alphinaud parece seguro de que Ser Aymeric cumplirá su promesa de guiar al pueblo de Ishgard a salvo por el camino que eligió, aunque esté lleno de los escombros de la historia. Los Scions también tienen un camino difícil por delante: traer un nuevo amanecer no será fácil a la sombra de las intrigas de los Ascians y de los primals implacables. Pero mientras las últimas notas de la Dragonsong War se elevan suavemente hacia el cielo y una nueva letanía de paz crece para ocupar su lugar, no se puede negar que hay mucho que celebrar.
+TEXT_HEAVND106_02247_TODO_00	Habla con Ser Aymeric.
+TEXT_HEAVND106_02247_TODO_01	Habla con Ser Aymeric.
+TEXT_HEAVND106_02247_TODO_02	Habla con Alphinaud en Fortemps Manor.
+TEXT_HEAVND106_02247_AYMERIC_000_001	Mi amistad con Estinien empezó hace unos diez años, poco después de que entramos a los Temple Knights...
+TEXT_HEAVND106_02247_AYMERIC_000_002	Aprendí su nombre bastante pronto, pero Estinien apenas notaba mi existencia. Yo no era tanto un compañero recluta como una sombra que de vez en cuando oscurecía su camino.
+TEXT_HEAVND106_02247_AYMERIC_000_003	Y así podría haber seguido, si el destino no hubiera decidido intervenir. Durante una patrulla, un dragón atacó a nuestra compañía, y fuimos los únicos dos sobrevivientes. La experiencia forjó un vínculo entre nosotros, como suelen hacer esas situaciones de vida o muerte.
+TEXT_HEAVND106_02247_AYMERIC_000_004	Pese a nuestra amistad, siguió siendo un joven intenso y solitario, obsesionado por completo con vengarse de Nidhogg. La venganza siempre estaba en primer plano en su mente: venganza por la muerte de sus padres, y venganza por su hermano menor.
+TEXT_HEAVND106_02247_AYMERIC_000_005	Me atrevería a decir que en Alphinaud ve algo de su hermano perdido.
+TEXT_HEAVND106_02247_AYMERIC_000_006	Y en los reproches poco amables de Estinien, Alphinaud encontró al hermano mayor que nunca tuvo.
+TEXT_HEAVND106_02247_AYMERIC_000_007	A decir verdad, las observaciones sin tacto de Estinien me salvaron del desastre más de una vez, y entiendo bien el cariño que le tiene Alphinaud. Es un amigo por el que yo con gusto─
+TEXT_HEAVND106_02247_TEMPLEKNIGHT02247_000_008	¡Lord Commander! ¡Lo necesitan en la enfermería!
+TEXT_HEAVND106_02247_AYMERIC_000_009	¿Acaso...? ¡Diles que voy para allá!
+TEXT_HEAVND106_02247_LUCIA_000_010	\<suspiro> Así que terminó...
+TEXT_HEAVND106_02247_TEMPLEKNIGHT02247_000_011	El capitán Whitecape me ordenó traer a Ser Aymeric lo más rápido posible. No sé nada más.
+TEXT_HEAVND106_02247_HANDELOUP_000_012	No creí que el Azure Dragoon fuera un hombre de morir en su cama...
+TEXT_HEAVND106_02247_AYMERIC_000_020	¡Rápido, <split(<string(gstr1)>, ,1)>! ¡Tenemos que ir con él!
+TEXT_HEAVND106_02247_SYSTEM_000_021	Al ir a la enfermería, se verán varias cinemáticas seguidas.
+TEXT_HEAVND106_02247_SYSTEM_000_022	Se recomienda reservar tiempo suficiente para verlas completas.
+TEXT_HEAVND106_02247_Q1_000_000	¿Ir a la enfermería?
+TEXT_HEAVND106_02247_A1_000_001	Sí
+TEXT_HEAVND106_02247_A1_000_002	No
+TEXT_HEAVND106_02247_AYMERIC_000_030	Estaba contemplando el Sea of Clouds, en un momento de ocio demasiado raro, cuando por casualidad vi a <if(gnum4,cierta heroína,cierto héroe)> acercándose a la ciudad a lomos de un dragón. Bienvenid<if(gnum4,a,o)> a casa, <split(<string(gstr1)>, ,1)>.
+TEXT_HEAVND106_02247_AYMERIC_000_031	No, no fue ningún asunto grave lo que me llevó a recibirl<if(gnum4,a,o)> en persona. Entre usted y yo, solo buscaba un respiro de las presiones del cargo... ¡Apenas dejo mi papel de jefe de Estado interino, y me cargan con un puesto de responsabilidad más <italic(1)>permanente<italic(0)>!
+TEXT_HEAVND106_02247_AYMERIC_000_032	Me imagino que en algo se parece a lo que debe de sentir usted cuando sus improbables hazañas heroicas se recompensan con desafíos todavía más imposibles...
+TEXT_HEAVND106_02247_AYMERIC_000_033	El mito que guio a nuestra sociedad durante generaciones está hecho pedazos. ¿Hay que despreciarme, entonces, por construir sobre el sistema nobiliario que alguna vez quise derribar? ¿Y qué broma extraña es esta que me pone en su cima? El bastardo de un arzobispo al frente de la House of Lords...
+TEXT_HEAVND106_02247_AYMERIC_000_034	...Ah, pero esas preguntas me toca responderlas a mí.
+TEXT_HEAVND106_02247_AYMERIC_000_035	No está en la naturaleza del hombre cambiar de la noche a la mañana. Eso lo aprendí por experiencia dolorosa. Y fue esa dura lección la que me convenció de tomar el camino que ahora seguimos. Así como reconstruimos el puente entre hombres y dragones, debemos reimaginar Ishgard, piedra por piedra, con cuidado.
+TEXT_HEAVND106_02247_AYMERIC_000_036	Debemos recordar que no ponemos estos cimientos para nosotros, sino para los hombres y mujeres en que se convertirán nuestros hijos. Que sus torres se alcen orgullosas sobre los cimientos de nuestro legado.
+TEXT_HEAVND106_02247_AYMERIC_000_037	...El capitán Whitecape me informa que Estinien desapareció de su habitación. Su terquedad sigue intacta.
+TEXT_HEAVND106_02247_AYMERIC_000_038	Si alguna vez se cruza con nuestro maleducado amigo en sus viajes, por favor asegúrele que mantendré a salvo a Ishgard hasta que se digne a volver a casa.
+TEXT_HEAVND106_02247_AYMERIC_000_039	Gracias, <split(<string(gstr1)>, ,1)>. Y por favor, transmítale mis saludos más cálidos al señor Alphinaud.
+TEXT_HEAVND106_02247_TATARU_000_040	¡Volviste a salvar el día, <split(<string(gstr1)>, ,1)>!<br>...¡No es que alguna vez lo dudara!
+TEXT_HEAVND106_02247_ALPHINAUD_000_050	¿Habló con Ser Aymeric? No le envidio su nuevo cargo.
+TEXT_HEAVND106_02247_ALPHINAUD_000_051	Ishgard eligió un camino nuevo, pero sembrado de los restos de mil años de fe traicionada.
+TEXT_HEAVND106_02247_ALPHINAUD_000_052	Pero aunque su pueblo tropiece de vez en cuando, no conozco a nadie mejor que Ser Aymeric para guiar la marcha del progreso.
+TEXT_HEAVND106_02247_ALPHINAUD_000_053	En cuanto a nosotros, queda el pequeño asunto de traer un nuevo amanecer a la sombra de las inescrutables maquinaciones de los Ascians y de un desfile de primals al parecer interminable... ¡Pero nosotros también debemos recorrer el camino que elegimos, por traicionero que sea el terreno!
+TEXT_HEAVND106_02247_SYSTEM_000_070	Tras la reforma del gobierno de Ishgard, se autorizaron nuevas rutas de aeronave. Ahora puedes viajar a varios destinos lejanos desde el embarcadero de Ishgard.
+TEXT_HEAVND106_02247_WARRIOROFDARKNESS_000_060	Gracias, Blanhaerz. No, no hace falta que te quedes ahí. Nos encontraremos en el lugar de siempre.
+TEXT_HEAVND106_02247_ELIDIBUS_000_061	¿Todo marcha según lo previsto, entonces?
+TEXT_HEAVND106_02247_WARRIOROFDARKNESS_000_062	Sí, no hay nada que nos preocupe. Aparte de un ratón demasiado curioso...
+TEXT_HEAVND106_02247_THANCRED_000_063	¡Por aquí!
+TEXT_HEAVND106_02247_WARRIOROFDARKNESS_000_064	Él otra vez...
+TEXT_HEAVND106_02247_ELIDIBUS_000_065	No tiene importancia. Ellos cumplirán su papel, y nosotros el nuestro...

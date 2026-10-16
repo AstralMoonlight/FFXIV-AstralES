@@ -1,0 +1,70 @@
+key	text
+TEXT_HEAVNB106_02161_SEQ_00	Alphinaud está absorto en sus pensamientos, sin duda rumiando lo que implica el encuentro con los Warriors of Darkness.
+TEXT_HEAVNB106_02161_SEQ_01	Por la facilidad con que despacharon a Ravana, parece casi seguro que los Warriors of Darkness ya se habían enfrentado a seres así. Pero ¿cómo pudieron unos individuos tan excepcionalmente dotados pasar inadvertidos para los Scions of the Seventh Dawn, si uno de los objetivos fundacionales de la orden era encontrar y reclutar aventureros bendecidos con el poder del Echo? Aunque su aparición plantea muchas preguntas, sus hazañas no se pueden negar. El Lord of the Hive ya no existe, y hay que avisarle a Vidofnir.
+TEXT_HEAVNB106_02161_SEQ_02	Aunque le sorprende que no haya caído por tu mano, a Vidofnir le alegra saber de la derrota de Ravana. Además, tras recibir tus buenas noticias, te da otras: Hraesvelgr le confió la decisión de aceptar o no la invitación de Ser Aymeric. La gran dragona blanca declara entonces que mantendrá su confianza en ti y viajará a Ishgard. Eufórico con su respuesta, Alphinaud anuncia que llevará sus palabras al comandante supremo de inmediato. Llegó la hora de volver a la capital.
+TEXT_HEAVNB106_02161_SEQ_03	Durante el largo viaje de vuelta a Ishgard, tú y los demás le cuentan a un Thancred embelesado las muchas pruebas y penurias de los últimos días. Aunque se alegra de sus muchos éxitos, le entristece saber que Yda, Papalymo y Minfilia siguen desaparecidos. Al verlo, Y'shtola le asegura que algún día estos problemas serán un recuerdo lejano, un futuro que Thancred promete ayudar a construir con todas sus fuerzas.
+TEXT_HEAVNB106_02161_SEQ_04	Lucia recibe la noticia de que Vidofnir aceptó con una mezcla de alegría y pesar, porque Ser Aymeric no está presente para oírla: lo hirieron en un intento de asesinato. Aunque es probable que se recupere por completo, el ataque fue solo el comienzo; poco después, empezaron a arder edificios por toda la ciudad, en lo que parece un ataque coordinado y que todavía continúa. Tan rápido como se apagan los incendios viejos, se inician otros nuevos. Si no se lleva a los culpables ante la justicia, no hay forma de saber cuándo terminará el caos.
+TEXT_HEAVNB106_02161_TODO_00	Habla con Vidofnir en Anyx Trine.
+TEXT_HEAVNB106_02161_TODO_01	Habla con Alphinaud en Foundation.
+TEXT_HEAVNB106_02161_TODO_02	Habla con Lucia.
+TEXT_HEAVNB106_02161_YSHTOLA_000_001	Parece que se resolvió el misterio del hyur del hacha. Debí suponer que Thancred nunca se rebajaría a usar un arma tan poco elegante... Pero ¿cómo iba a saber yo que por el Chocobo Forest no andaba <italic(1)>un<italic(0)> vagabundo, sino dos?
+TEXT_HEAVNB106_02161_KRILE_000_005	Nos <italic(1)>conocía<italic(0)>. Te conocía <italic(1)>a ti<italic(0)>. ¿Habrá recorrido nuestros recuerdos como nosotros recorrimos los suyos?
+TEXT_HEAVNB106_02161_THANCRED_000_010	Sé lo que estás pensando, pero de verdad, no tienes por qué preocuparte. Solo le dará más credibilidad a mis relatos heroicos. Además, las cicatrices de batalla son a las doncellas lo que la moral relajada a los caballeros. Una ventaja indudable.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_020	Bendecidos con el poder del Echo y empeñados en abatir primals... Aunque dijo que siguen un camino distinto, me cuesta ver en qué chocan sus objetivos con los nuestros.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_021	Y no es lo único extraño. Me parece de lo más raro que individuos tan excepcionales hayan pasado del todo inadvertidos hasta ahora. ¿No habríamos oído rumores e intentado sumarlos a nuestra causa?
+TEXT_HEAVNB106_02161_YSHTOLA_000_022	No recuerdo a esos aventureros, y no olvidaría fácilmente a gente así. Ninguno de nosotros, creo.
+TEXT_HEAVNB106_02161_YSHTOLA_000_023	Una de nuestras tareas principales era recorrer las ciudades<-->estado en busca de candidatos prometedores. Así fue como <switch(gnum70,yo encontré,Yda y Papalymo encontraron,Thancred encontró)> a <split(<string(gstr1)>, ,1)>.
+TEXT_HEAVNB106_02161_THANCRED_000_024	Ah, los recuerdos. Parece que fue ayer cuando mataste a tu primer primal. Hablando de eso, tuve la clara impresión de que <italic(1)>no<italic(0)> era la primera vez que esa alegre banda de hombres y mujeres mataba a un dios.
+TEXT_HEAVNB106_02161_YSHTOLA_000_025	Me cuesta creer que una banda de aventureros con dones sobrenaturales haya recorrido estas tierras matando primals sin que lo supiéramos. Eso supondría una negligencia grave de nuestra parte.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_026	Especular no nos servirá de nada. Hay demasiado que no sabemos.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_027	Por ahora debemos concentrarnos en lo que <italic(1)>sí<italic(0)> sabemos, es decir, que Lord Ravana ya no existe. Hay que informarle a Vidofnir. La noticia podría hacerla más receptiva a la invitación de Ser Aymeric.
+TEXT_HEAVNB106_02161_KRILE_000_028	Como parece que tienen todo bajo control aquí, me retiro. Solo estar cerca de esta colonia me da un dolor de cabeza espantoso.
+TEXT_HEAVNB106_02161_KRILE_000_029	Si me necesitan, voy a estar con la maestra Matoya. Quiero pedirle ayuda para buscar a Minfilia.
+TEXT_HEAVNB106_02161_THANCRED_000_030	Un momento... ¿Minfilia está <italic(1)>desaparecida<italic(0)>? ¡Creía que había escapado con <split(<string(gstr1)>, ,1)>!
+TEXT_HEAVNB106_02161_ALPHINAUD_000_031	Te lo explicaré en el camino. Pasaron muchas cosas en tu ausencia...
+TEXT_HEAVNB106_02161_VIDOFNIR_000_040	No pensé volver a veros tan pronto, mortal. Si buscáis a la caballera, sabed que partió hace rato hacia Ishgard.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_041	Gracias, Vidofnir, pero no vinimos por ella. Traemos buenas noticias para ti y los tuyos. Lord Ravana, al que habían invocado los Gnath, fue abatido otra vez.
+TEXT_HEAVNB106_02161_VIDOFNIR_000_042	¿De veras? Una vez más, ustedes los mortales lograron lo que los míos no pudieron. Tienen nuestro más profundo agradecimiento.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_043	Ojalá pudiéramos atribuirnos el mérito. El dios cayó por otra mano.
+TEXT_HEAVNB106_02161_VIDOFNIR_000_044	¿Otra? Revelación tras revelación. Sea como sea, es motivo de celebración. A los Gnath no les quedará más remedio que retirarse.
+TEXT_HEAVNB106_02161_VIDOFNIR_000_045	Pero pasemos a otro asunto. También yo tengo noticias para vos.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_046	¿Sobre la invitación de los ishgardianos?
+TEXT_HEAVNB106_02161_VIDOFNIR_000_047	Como prometí, le llevé el asunto a mi progenitor. Escuchad ahora su respuesta.
+TEXT_HEAVNB106_02161_VIDOFNIR_000_048	"Durante mil años lloré a mi amada, que dio la vida por forjar una paz que vuestro rey traicionó. Tal fue mi suerte, hasta que una hija de Ishgard vino a mí.
+TEXT_HEAVNB106_02161_VIDOFNIR_000_049	"A falta de calor, se envolvió en un sueño. Pero el mundo recordará sus hazañas. Por la verdad, luchó. Por la justicia, pecó. Por la redención, se sacrificó, y se volvió luz.
+TEXT_HEAVNB106_02161_VIDOFNIR_000_050	"Seguir al propio corazón, tener fe en las propias convicciones, sea para bien o para mal. Tal es la locura y la gloria del hombre... y del dragón".
+TEXT_HEAVNB106_02161_VIDOFNIR_000_051	Nos confió la decisión, y ya la tomamos. Mantendremos nuestra confianza en vosotros, que camináis en la Luz.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_052	¿Entonces acepta la invitación de Ser Aymeric?
+TEXT_HEAVNB106_02161_VIDOFNIR_000_053	Sépase que yo, Vidofnir, viajaré a Ishgard en nombre de mi pueblo.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_055	Es un honor recibir tu respuesta, y llevaremos tus palabras a nuestros aliados sin demora.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_056	Está sucediendo, Ysayle. Ojalá estuvieras aquí para verlo...
+TEXT_HEAVNB106_02161_TATARU_000_060	Ya celebraremos el regreso de Thancred después. ¡A ti y a Alphinaud los necesitan en el Congregation!
+TEXT_HEAVNB106_02161_YSHTOLA_000_065	Por suerte, el viaje nos dio tiempo de sobra para poner a Thancred al día.
+TEXT_HEAVNB106_02161_THANCRED_000_070	Así que mataste a un puñado de primals, charlaste con el emperador de Garlemald, descubriste la verdad detrás de una guerra de mil años, frustraste las ambiciones de un arzobispo megalómano y después volviste a casa a lomos del Father of Dragons. ¿Eso lo resume más o menos?
+TEXT_HEAVNB106_02161_HILDA_000_075	Ah, bien, volviste. Las cosas se pusieron algo calientes mientras no estabas.
+TEXT_HEAVNB106_02161_VIDOFNIR_000_086	Cuando Ysayle os trajo ante mí por primera vez, supe en lo más profundo de mi corazón que este día llegaría.
+TEXT_HEAVNB106_02161_LUCIA_000_087	Una cosa a la vez, una cosa a─<br>Perdóneme, <split(<string(gstr1)>, ,1)>, enseguida <if(gnum4,la,lo)> atiendo.
+TEXT_HEAVNB106_02161_HANDELOUP_000_088	Es un día negro para los Temple Knights. Pero tengo fe en que superaremos esta prueba.
+TEXT_HEAVNB106_02161_GIBRILLONT_000_089	La ciudad se volvió loca, <split(<string(gstr1)>, ,1)>. Aléjese del Brume si no quiere quemarse.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_090	Bien. No hagamos esperar a Ser Aymeric.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_091	...¿Te encuentras bien, Thancred?
+TEXT_HEAVNB106_02161_THANCRED_000_092	Sí... sí, muy bien. Perdóname. Me dieron mucho que digerir. Todo este asunto con los ishgardianos y los dravanianos... y nuestros amigos sin aparecer.
+TEXT_HEAVNB106_02161_THANCRED_100_092	Parece que nuestros problemas no tienen fin.
+TEXT_HEAVNB106_02161_YSHTOLA_000_093	Solo podemos enfrentarlos de frente, uno por uno. Por ahora, tenemos que dedicarnos a nuestras tareas y dejar las demás a los demás.
+TEXT_HEAVNB106_02161_YSHTOLA_000_094	Recuerda, Thancred: te encontramos a ti, como me encontraron a mí. Con el tiempo, también encontraremos a Yda, a Papalymo y a Minfilia.
+TEXT_HEAVNB106_02161_YSHTOLA_000_095	Estos problemas pronto serán solo un recuerdo, uno que miraremos juntos hacia atrás.
+TEXT_HEAVNB106_02161_THANCRED_000_096	No me malinterpreten, no quise decir que vaya a ser de otra forma. Solo desearía haberme sumado a nuestra gran aventura en uno de sus momentos más triunfales. Pese a sus logros recientes, aquí el ánimo no es precisamente de fiesta.
+TEXT_HEAVNB106_02161_THANCRED_100_096	Pero no tengo duda de que pronto disfrutaremos muchas victorias gloriosas más, y pueden estar seguros de que pondré todo de mi parte en ellas.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_097	Sé que lo harás. Entonces, ¡al Congregation!
+TEXT_HEAVNB106_02161_LUCIA_000_100	¡Volvieron! Al menos en esto el destino es amable.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_101	¡Saludos, primera comandante! Me complace informarle que Vidofnir aceptó la invitación de Ser Aymeric.
+TEXT_HEAVNB106_02161_LUCIA_000_102	¡¿De veras?! Son buenas noticias, sin duda...
+TEXT_HEAVNB106_02161_LUCIA_000_103	Ojalá el comandante supremo estuviera aquí para oírlas.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_104	Ah. ¿Está ocupado en otra cosa?
+TEXT_HEAVNB106_02161_HILDA_000_105	Sí: durmiendo después de que le metieran un cuchillo en las tripas.
+TEXT_HEAVNB106_02161_ALPHINAUD_000_106	¿<italic(1)>Qué<italic(0)>? ¡¿Qué pasó?! ¿Vivirá?
+TEXT_HEAVNB106_02161_LUCIA_000_107	Los cirujanos me dicen que se recuperará por completo. Pero si Lord Edmont y Lord Artoirel no hubieran estado presentes cuando atacó el asesino, no habría tenido tanta suerte. Por fortuna, redujeron al miserable antes de que pudiera asestar el golpe fatal.
+TEXT_HEAVNB106_02161_HILDA_000_108	Pero el ataque fue solo el comienzo. Poco después, empezaron a arder edificios por toda la ciudad, incluidos varios de los nuestros.
+TEXT_HEAVNB106_02161_HILDA_000_109	Los muy bastardos nos agarraron totalmente por sorpresa. Estuvimos apagando los incendios, pero por cada uno que apagamos parece que empiezan dos más. Las víctimas aumentan, sobre todo en el Brume.
+TEXT_HEAVNB106_02161_LUCIA_000_110	Es evidente que los cómplices del asesino iniciaron estos incendios. Hasta que no los atrapemos, esto no terminará. ¿Nos ayudará a encontrarlos?
+TEXT_HEAVNB106_02161_LUCIA_000_111	Entonces manos a la obra.

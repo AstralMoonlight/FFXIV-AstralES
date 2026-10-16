@@ -1,0 +1,43 @@
+key	text
+TEXT_HEAVNC104_02234_SEQ_00	A Lucia le preocupa que parezcas estar buscando algo que hacer.
+TEXT_HEAVNC104_02234_SEQ_01	Resignada a la simple verdad de que nunca te vas a conformar con no hacer absolutamente nada, Lucia te sugiere que des un paseo por Falcon's Nest y hables con la gente que vino a asistir a la conferencia. También menciona que Lord Artoirel y Lord Emmanellain deberían estar cerca, porque los dos se ofrecieron amablemente a ayudar.
+TEXT_HEAVNC104_02234_SEQ_02	Aunque vienen de ámbitos distintos, los ishgardianos con los que hablas comparten la misma esperanza de paz, por inimaginable que parezca. No es difícil encontrar a los dos jóvenes señores de la House Fortemps, pero Emmanellain no parece tener ganas de conversar. Quizá su hermano mayor esté más dispuesto.
+TEXT_HEAVNC104_02234_SEQ_03	Mientras conversas con Lord Artoirel sobre lo ocurrido, aparece de pronto Lucia y anuncia que un grupo de Convictors se niega a deponer las armas y, en cambio, juró atacar a cualquier dravaniano que vean volando hacia Falcon's Nest. Por supuesto, algo así podría ser desastroso para la conferencia de paz, y la primera comandante piensa ir a caballo hasta el Convictory para resolver la situación en persona. Cree que Lord Artoirel reforzaría su posición, porque puede hablar con la autoridad de la House Fortemps. El joven señor acepta, y antes de partir te pide que cuides a su hermano menor, porque teme que no cumpla con sus deberes en su ausencia.
+TEXT_HEAVNC104_02234_TODO_00	Habla con la gente de Falcon's Nest.
+TEXT_HEAVNC104_02234_TODO_01	Habla con Artoirel.
+TEXT_HEAVNC104_02234_ARTOIREL_000_000	¿Será suficiente de verdad, me pregunto...?
+TEXT_HEAVNC104_02234_EMMANELLAIN_000_005	Ah... ¿todavía por aquí, <if(gnum4,mi buena amiga,mi buen amigo)>? Esto, eh... no es buen momento.
+TEXT_HEAVNC104_02234_HONOROIT_000_010	(Haré todo lo posible para que no se meta en problemas, pero puede que después necesite su ayuda...).
+TEXT_HEAVNC104_02234_CITIZENA02233_000_015	¿Espió detrás de la cortina? ¿Nos cuenta qué vio?
+TEXT_HEAVNC104_02234_CITIZENB02233_000_020	Supongo que llegamos un poco temprano, ¿no? ¡Igual, mejor temprano que tarde!
+TEXT_HEAVNC104_02234_CITIZENC02233_000_025	Cada vez llega más gente a Falcon's Nest. La mayoría no sabe muy bien qué esperar, me parece. La verdad, yo tampoco...
+TEXT_HEAVNC104_02234_LUCIA_000_030	Si prefiere no descansar, ¿por qué no da un paseo por Falcon's Nest? Que la gente note su presencia y todo eso.
+TEXT_HEAVNC104_02234_LUCIA_000_031	Además de quienes vinieron de todas partes a asistir a la ceremonia, quizá se encuentre con Lord Artoirel y Lord Emmanellain, que se ofrecieron amablemente a ayudar.
+TEXT_HEAVNC104_02234_LUCIA_000_032	Les alegrará verl<if(gnum4,a,o)>. Ahora, si me disculpa, debo volver a mis deberes.
+TEXT_HEAVNC104_02234_ARTOIREL_000_040	¿Dando un paseo por el caserío? Muy bien, muy bien. Hablaremos luego.
+TEXT_HEAVNC104_02234_ROTHE_000_050	Qué emocionante, ¿no? ¡No solo paz con los dragones, sino con todos esos herejes también!
+TEXT_HEAVNC104_02234_ROTHE_000_051	No me malinterpretes: todos le tenemos un sano miedo a que nos bañe el fuego de un dragón. Dicho eso, los herejes nos estorbaron mucho más aquí en el pasado, así que saber que estamos cerca de una reconciliación es un gran alivio.
+TEXT_HEAVNC104_02234_ROTHE_000_060	Si los dragones no tienen motivos para pelear, los herejes tampoco. Gracias a la Fury por eso.
+TEXT_HEAVNC104_02234_REDWALD_000_070	¡Me alegra ver que los rumores eran ciertos! Qué gusto verl<if(gnum4,a,o)>, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>, y no tema: no pienso pedirle ayuda con esto o aquello. Todo parece estar en orden.
+TEXT_HEAVNC104_02234_REDWALD_000_071	Lo único que todavía me preocupa es que quizá no le avisaron de nuestros planes a alguno de los Convictors. Si mal no recuerdo, Vidofnir podría pasar justo por encima de su campamento.
+TEXT_HEAVNC104_02234_REDWALD_000_072	Lo último que necesitamos es un noble en busca de gloria que intente matar a una embajadora dravaniana de camino a una conferencia de paz...
+TEXT_HEAVNC104_02234_REDWALD_000_080	No me haga caso. Preocuparme por posibilidades improbables es mi deber. El suyo es relajarse y disfrutar de la celebración.
+TEXT_HEAVNC104_02234_CITIZENA02233_000_090	¿Sabe a qué hora empieza todo? No sabía cuánta gente vendría, así que me pareció mejor llegar temprano y buscar un lugar con buena vista.
+TEXT_HEAVNC104_02234_CITIZENA02233_000_091	Cuando me enteré de que Ser Aymeric pensaba dar un discurso, supe que no me lo podía perder. ¡Digo, el hombre arriesgó el pellejo para rescatar a esos rehenes! ¿Cada cuánto tenemos héroes así hoy en día?
+TEXT_HEAVNC104_02234_CITIZENA02233_000_092	Y no es solo un guerrero: también es un pensador. Tiene planes para mejorarnos la vida. Para cambiar las cosas. Y lo va a hacer, por la Fury. Yo, mis amigos y mi familia, todos creemos que puede lograrlo.
+TEXT_HEAVNC104_02234_CITIZENA02233_000_100	¿Dónde están todos los demás? ¿No saben lo que se pierden?
+TEXT_HEAVNC104_02234_ARTOIREL_000_110	Cuánto cambió todo desde que luchamos juntos en el Vault. Si entonces me hubiera dicho que pronto organizaríamos una conferencia de paz, l<if(gnum4,a,o)> habría tomado por <if(gnum4,una tonta ingenua,un tonto ingenuo)>.
+TEXT_HEAVNC104_02234_ARTOIREL_000_111	Pero aquí estamos, preparándonos para hacer realidad esa fantasía. Ja... y aquí estoy <italic(1)>yo<italic(0)>, trabajando para lograrlo.
+TEXT_HEAVNC104_02234_LUCIA_000_112	Lord Artoirel, si me permite.
+TEXT_HEAVNC104_02234_ARTOIREL_000_113	Por supuesto, primera comandante. ¿En qué puedo servirla?
+TEXT_HEAVNC104_02234_LUCIA_000_114	Algunos de los Convictors se niegan a deponer las armas.
+TEXT_HEAVNC104_02234_LUCIA_000_115	La mayoría estuvo dispuesta, pero un pequeño grupo juró atacar a cualquier dravaniano que vaya hacia Falcon's Nest.
+TEXT_HEAVNC104_02234_ARTOIREL_000_116	¡¿Que la Fury me lleve, van a desafiar las órdenes de Ser Aymeric?! Si se atreven a atacar a Vidofnir─
+TEXT_HEAVNC104_02234_LUCIA_000_117	No llegaremos a eso. Pero para asegurarnos, debemos ir de inmediato a su campamento.
+TEXT_HEAVNC104_02234_LUCIA_000_118	Se resistirán mucho menos si está presente un señor de la House Fortemps.
+TEXT_HEAVNC104_02234_ARTOIREL_000_119	Entiendo perfectamente. Partamos de inmediato.
+TEXT_HEAVNC104_02234_ARTOIREL_000_120	Pero antes debo preguntarle: ¿cuidaría de Emmanellain mientras no estoy?
+TEXT_HEAVNC104_02234_ARTOIREL_000_121	Como sabe, siempre fue un niño impulsivo y voluble, pero últimamente parece sufrir un ataque de melancolía.
+TEXT_HEAVNC104_02234_ARTOIREL_000_122	Pensé en levantarle el ánimo haciéndolo ayudar con la guardia: una tarea simple pero honorable, con poco riesgo, ya que hay tantos otros caballeros. Por desgracia, no mostró ningún interés, y temo que abandone su puesto en mi ausencia.
+TEXT_HEAVNC104_02234_ARTOIREL_000_123	Solo le pido que lo vigile hasta que yo vuelva... por agotador que sea.
+TEXT_HEAVNC104_02234_ARTOIREL_000_124	Gracias, <if(gnum4,amiga mía,amigo mío)>. Le prometo que no tardaremos.

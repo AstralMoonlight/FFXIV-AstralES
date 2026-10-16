@@ -1,0 +1,49 @@
+key	text
+TEXT_HEAVNG102_02357_SEQ_00	Alphinaud tiene ganas de reunirse con Cid y los demás.
+TEXT_HEAVNG102_02357_SEQ_01	Alphinaud te informa que el contingente que irá por Omega se está reuniendo en el embarcadero de aeronaves. Date prisa y únete a Cid y a los demás.
+TEXT_HEAVNG102_02357_SEQ_02	Cid parece empeñado en ir directo a Carteneau, pero Alphinaud pide una breve demora para confirmar la situación en East Shroud antes de partir. Tras aceptar el pedido de Alphinaud, Cid se ofrece a llevar en aeronave al resto del contingente a Mor Dhona. Habla con Hida en la puerta de embarque cuando estés list<if(gnum4,a,o)> para subir al <italic(1)>Enterprise Excelsior<italic(0)>.
+TEXT_HEAVNG102_02357_SEQ_03	Tras un vuelo breve, llegas a poca distancia de las murallas de Revenant's Toll. Habla con Cid antes de entrar al pueblo.
+TEXT_HEAVNG102_02357_SEQ_04	Cid se disculpa por no poder aterrizar dentro del asentamiento y sugiere que todos vayan a los Rising Stones. Quizá sea un buen lugar para hablar con Nero y saber más de su inesperado aliado...
+TEXT_HEAVNG102_02357_SEQ_05	Alphinaud vuelve de East Shroud acompañado de Yda, pero la melancolía que cae cuando ella menciona a Papalymo se rompe de golpe con la estruendosa entrada de Gosetsu. El samurái llega con noticias terribles de Doma, pero lejos de convencer a Yugiri de volver a su patria, es él quien, cuando Nero menciona al Empire, se convence de sumarse a la misión a Carteneau. Habla con Yda cuando estés list<if(gnum4,a,o)> para partir.
+TEXT_HEAVNG102_02357_TODO_00	Habla con Cid en el embarcadero de aeronaves de Gridania.
+TEXT_HEAVNG102_02357_TODO_01	Habla con Hida en el embarcadero de aeronaves de Gridania.
+TEXT_HEAVNG102_02357_TODO_02	Habla con Cid en Mor Dhona.
+TEXT_HEAVNG102_02357_TODO_03	Habla con Nero en los Rising Stones.
+TEXT_HEAVNG102_02357_ALPHINAUD_000_001	Cid y los demás se están reuniendo en el embarcadero de aeronaves.
+TEXT_HEAVNG102_02357_ALPHINAUD_000_002	Alisaie ya va en camino, y no estaría bien quedarnos muy atrás. Vamos.
+TEXT_HEAVNG102_02357_ALISAIE_000_005	（★Sin uso／se eliminará★）
+TEXT_HEAVNG102_02357_NERO_000_010	（★Sin uso／se eliminará★）
+TEXT_HEAVNG102_02357_YUGIRI_000_015	（★Sin uso／se eliminará★）
+TEXT_HEAVNG102_02357_TATARU_100_010	A ver...<br>Hay que archivar el informe de Riol, Alianne pidió más suministros, y después está... ¡Ah! ¡No me hagan caso! ¡Todo bajo control!
+TEXT_HEAVNG102_02357_ALPHINAUD_100_011	¿Dónde están todos...?
+TEXT_HEAVNG102_02357_CID_100_012	¡<split(<string(gstr1)>, ,1)>, Alphinaud! ¿Listos? Los demás salieron un momento al embarcadero, por si se lo preguntan. Nero <italic(1)>insistió<italic(0)> en que lo dejaran inspeccionar el <italic(1)>Excelsior<italic(0)> antes de subir.
+TEXT_HEAVNG102_02357_ALPHINAUD_100_013	¿Y usted <italic(1)>lo dejó<italic(0)>? Pese a su <italic(1)>muy<italic(0)> oportuna oferta de ayuda, la idea de ese hombre husmeando en los mecanismos de la nave sin supervisión no me da ninguna confianza.
+TEXT_HEAVNG102_02357_CID_100_014	Tranquilo, Alphinaud: tu hermana insistió en que no lo perdería de vista ni un momento. Ella y Yugiri están... Ah, bueno, aquí vienen.
+TEXT_HEAVNG102_02357_CID_000_020	Bien, creo que estamos todos. ¿Pongo rumbo a Carteneau?
+TEXT_HEAVNG102_02357_ALPHINAUD_000_021	Ah, ¿puedo pedirle que retrasemos un poco la partida? No necesito más que unas horas, como mucho. Nuestros colegas están estudiando el capullo en este momento, y quiero oír sus últimas observaciones antes de seguir.
+TEXT_HEAVNG102_02357_ALPHINAUD_000_022	Parece prudente entender la situación lo mejor posible antes de armar nuestro plan.
+TEXT_HEAVNG102_02357_NERO_000_023	¿Oh? Creía que el tiempo estaba en nuestra contra. Qué tonto fui.
+TEXT_HEAVNG102_02357_ALISAIE_000_024	Cierra la boca. Cuando queramos tu opinión, te la pediremos.
+TEXT_HEAVNG102_02357_NERO_000_025	¡<italic(1)>Perdóneme<italic(0)>, mi señora! Me guardaré mis opiniones hasta que termine de postergar las cosas.
+TEXT_HEAVNG102_02357_CID_000_026	<italic(1)>Bueno<italic(0)>. Mientras Alphinaud habla con sus colegas, yo llevaré el <italic(1)>Excelsior<italic(0)> a Mor Dhona, y nos volvemos a reunir en los Rising Stones.
+TEXT_HEAVNG102_02357_ALPHINAUD_000_027	Disculpe la molestia. Iré a ver a Y'shtola y a los demás de inmediato, y me reuniré con ustedes en cuanto pueda.
+TEXT_HEAVNG102_02357_ALPHINAUD_000_028	<split(<string(gstr1)>, ,1)>, por favor acompañe a Alisaie de vuelta a los Rising Stones. Me sentiría más tranquilo sabiendo que usted está ahí para entretener a nuestro "invitado".
+TEXT_HEAVNG102_02357_CID_000_029	Bien. Todos los que vayan a Mor Dhona pueden viajar en el <italic(1)>Excelsior<italic(0)>. Lo arreglo con la muchacha del mostrador. Avísenle cuando estén listos para salir.
+TEXT_HEAVNG102_02357_HIDA_100_030	¿Viaja con el maestro Garlond, <if(gnum4,señorita,señor)>? El <italic(1)>Enterprise Excelsior<italic(0)> está por aquí.
+TEXT_HEAVNG102_02357_Q1_100_035	¿Viajar a Mor Dhona?
+TEXT_HEAVNG102_02357_CID_100_040	No es precisamente un servicio puerta a puerta, pero no podía aterrizarla en la plaza principal del Toll...
+TEXT_HEAVNG102_02357_CID_100_041	¿Vamos a los Rising Stones, entonces?
+TEXT_HEAVNG102_02357_ALISAIE_100_045	Por raro que parezca, las lealtades pasadas de Nero no me preocupan. Pero entiendo por qué la gente no se anima a bajar la guardia con él.
+TEXT_HEAVNG102_02357_YUGIRI_100_050	Ese hombre no me agrada...
+TEXT_HEAVNG102_02357_NERO_100_055	¡¿Qué clase de aeronave no tiene camarotes privados?! Aunque, claro, supongo que Garlond tenía que guardar sus inventos a medio terminar en <italic(1)>algún<italic(0)> lado...
+TEXT_HEAVNG102_02357_TATARU_000_050	¡<split(<string(gstr1)>, ,1)>, espera! ¿Puedo hablar contigo un momento?
+TEXT_HEAVNG102_02357_TATARU_200_050	¿Te acuerdas de cuando te pedí que me encontraras en la Diamond Forge y, eh... te emboscamos?
+TEXT_HEAVNG102_02357_TATARU_200_051	Bueno, cuando tuvimos tus medidas, me puse a hacerte un traje de viaje en mis ratos libres. Recién termino de coserlo, pero quería que lo tuvieras antes de irte. ¡Toma!
+TEXT_HEAVNG102_02357_TATARU_200_052	¡Puedes probártelo ahora mismo, si quieres!
+TEXT_HEAVNG102_02357_TATARU_000_051	Si medimos bien, te <italic(1)>debería<italic(0)> quedar perfecto. Ajustado, pero no <italic(1)>demasiado<italic(0)>, ¿me entiendes...?<br>Entoooonces... ¿qué tal te queda?
+TEXT_HEAVNG102_02357_TATARU_000_052	¡¿No lo dices solo por decir?! ¡Ay, no sabes lo que esto significa para mí! Haber hecho algo digno <if(gnum4,de la,del)> Warrior of Light es... Es... Bueno, digamos que hace que valga la pena toda la práctica.
+TEXT_HEAVNG102_02357_TATARU_000_053	También le cosí un amuleto de blood pearl para... ya sabes... traerte de vuelta a casa. Que siempre te proteja.
+TEXT_HEAVNG102_02357_ALISAIE_000_030	Uno fue creado para capturar a Bahamut y el otro para superarlo... ¿Cuál resultará más fuerte, me pregunto?
+TEXT_HEAVNG102_02357_CID_000_035	Tenemos que tener cuidado, viej<if(gnum4,a,o)> amig<if(gnum4,a,o)>. Las armas andantes de Allag se diseñaron expresamente para someter primals, pero hombres como Gaius siempre intentarán usarlas contra la humanidad. Nos toca asegurarnos de que Omega nunca se use como arma de guerra. En las manos equivocadas, sería...<br>Sería malo.
+TEXT_HEAVNG102_02357_YUGIRI_000_040	No se preocupe. Vigilaré de cerca a nuestro nuevo <italic(1)>aliado<italic(0)>.
+TEXT_HEAVNG102_02357_TATARU_000_045	Ya sé que Nero es un invitado aquí, pero no tenemos precisamente la historia más feliz con el Empire, ¿no? Así que te pregunto: ¿le ofrezco té?

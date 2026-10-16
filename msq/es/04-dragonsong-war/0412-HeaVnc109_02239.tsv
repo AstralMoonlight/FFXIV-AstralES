@@ -1,0 +1,58 @@
+key	text
+TEXT_HEAVNC109_02239_SEQ_00	El gran combate está por empezar, y Lucia no quiere llegar tarde.
+TEXT_HEAVNC109_02239_SEQ_01	Lucia te informa que el gran combate se hará en el centro de Coerthas, en las afueras de la ciudad. Las fuerzas aliadas ya están en camino, y tus compañeros ishgardianos se reúnen a la sombra de las Gates of Judgement.
+TEXT_HEAVNC109_02239_SEQ_02	Lord Emmanellain está nervioso, como es comprensible, aunque tu presencia lo reconforta un poco. Reuniendo coraje, aparta la idea de la derrota y piensa en la victoria, y en las historias que le podrá contar a Honoroit cuando despierte de su letargo.
+TEXT_HEAVNC109_02239_SEQ_03	Antes de que empiece el gran combate, Lord Emmanellain te hace un regalo: los colores de la House Fortemps, que él y su padre quieren que lleves en la batalla. Cumpliendo su pedido, te pones la armadura y sales al campo con Ishgard, list<if(gnum4,a,o)> para enfrentarte a tus hermanos y hermanas de la Alliance.
+TEXT_HEAVNC109_02239_SEQ_04	Los bardos suelen cantar que, en las batallas, los campeones de los ejércitos acostumbran evitar a los combatientes menores y buscar guerreros de igual fuerza, para disfrutar de un buen desafío en medio de la guerra. Y así fue como Raubahn Aldynn, General de los Immortal Flames, el mismísimo Bull of Ala Mhigo, apartó a todos los que se le cruzaban y te desafió a un combate singular. Las llamas furiosas mantuvieron a raya al mundo entero, y por un tiempo solo hubo dos. Pero cuando por fin las llamas se apagaron y los demás se dieron vuelta a mirar, solo quedaba uno en pie. Fue entonces cuando Ser Aymeric, alzando al cielo la espada y la voz, proclamó la victoria de Ishgard, porque el día era suyo.<br><br>Mientras ves a los ishgardianos celebrar su triunfo, Thancred, que por fin volvió de su riña con un cíclope descarriado, te felicita. Aunque está claramente herido, quita importancia a tu preocupación y declara que hay muchos, muchísimos asuntos más importantes que ustedes dos deben atender, día a día... como lo habría hecho Minfilia.
+TEXT_HEAVNC109_02239_SEQ_05	Todavía sonriendo por la emoción de la pelea, Raubahn declara que había olvidado lo que se sentía estar tan vivo. Los hombres en su posición rara vez tienen la oportunidad de participar en una batalla, y no sabe cómo agradecerte el gusto. Se despide, no sin antes insistir en una revancha cuando haya tiempo. Mientras se aleja a grandes pasos, no puedes evitar preguntarte qué habría pasado si el hombre tuviera los dos brazos.
+TEXT_HEAVNC109_02239_SEQ_06	El plan de Ser Aymeric parece haber funcionado a la perfección: fortaleció las relaciones entre las ciudades<-->estado y dio una victoria que seguro inspirará al pueblo de Ishgard. Con una sonrisa, Thancred te dice que te sientas orgullos<if(gnum4,a,o)>, porque fuiste tú quien hizo posible todo esto.
+TEXT_HEAVNC109_02239_TODO_00	Habla con Emmanellain frente a las Gates of Judgement.
+TEXT_HEAVNC109_02239_TODO_01	Habla con Emmanellain.
+TEXT_HEAVNC109_02239_TODO_02	Habla con Emmanellain.
+TEXT_HEAVNC109_02239_TODO_03	Habla con Raubahn.
+TEXT_HEAVNC109_02239_TODO_04	Habla con Thancred.
+TEXT_HEAVNC109_02239_THANCRED_000_000	Quizá debería pelear del otro lado... ya sabes, para emparejar las cosas.
+TEXT_HEAVNC109_02239_LUCIA_000_010	Ser Aymeric me informa que los líderes de la Alliance aceptaron su propuesta. El gran combate se hará aquí, a la sombra de las Gates of Judgement y a la vista de la capital.
+TEXT_HEAVNC109_02239_LUCIA_000_011	Ya se hizo el anuncio, y las fuerzas aliadas están en camino.
+TEXT_HEAVNC109_02239_LUCIA_000_012	Los ojos de Ishgard están puestos en nosotros, <split(<string(gstr1)>, ,1)>. No podemos fallar.
+TEXT_HEAVNC109_02239_THANCRED_000_013	Una rara oportunidad de verte medirte con las fuerzas aliadas... fuera de Carteneau, quizá. No me lo perdería por nada del mundo.
+TEXT_HEAVNC109_02239_AYMERIC_000_020	Para la Alliance también es una cuestión de orgullo. No tendrán reparos en enviar a sus mejores contra nosotros. Pero no debemos acobardarnos. Depende demasiado de nuestro éxito.
+TEXT_HEAVNC109_02239_LUCIA_000_025	El segundo comandante y los tenientes de Hilda se ocuparán de la seguridad de la ciudad en mi ausencia. El combate exige toda mi atención.
+TEXT_HEAVNC109_02239_HILDA_000_030	No es común que los petimetres de alta cuna se dignen a pelear junto a la plebe. Es como todos nuestros cumpleaños juntos.
+TEXT_HEAVNC109_02239_HILDA_000_031	Pero también está en juego nuestro orgullo nacional. Nacional y personal. No voy a dejar que un señorito mocoso me deje en ridículo.
+TEXT_HEAVNC109_02239_THANCRED_000_035	Parece que está toda la crema de la Eorzean Alliance. La única pregunta es: ¿quién vino a mirar y quién vino a pelear? Mmm... Nanamo. Seguro que Nanamo.
+TEXT_HEAVNC109_02239_MESSENGER02239_000_036	<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>)>)>, nos honra con su presencia. Corre un rumor infame de que usted saldrá al campo con los ishgardianos. Eh... No es cierto, ¿verdad?
+TEXT_HEAVNC109_02239_LOANNE_000_037	El campo está listo. Solo falta que se reúnan los participantes.
+TEXT_HEAVNC109_02239_CHAUNOLLET_000_038	Temple Knights peleando hombro con hombro con humildes guardias... Una imagen rara, pero de algún modo... correcta.
+TEXT_HEAVNC109_02239_EMMANELLAIN_000_040	¡Ahí está! Le digo, cuando no aparecía, empecé a dudar... ¡N-nada! ¡Olvídelo!
+TEXT_HEAVNC109_02239_EMMANELLAIN_000_041	Ejem. Pensar que estamos a unos momentos de enfrentar en batalla a lo mejor de los soldados de Eorzea. Que <italic(1)>yo<italic(0)> estoy... a unos... mmm... Pero ¿y si...?
+TEXT_HEAVNC109_02239_EMMANELLAIN_000_042	¡Ay, ¿qué estoy diciendo?! ¡Tengo que dejar de imaginar lo peor! ¡Tengo que pensar en la victoria, en la gloria! ¡En las historias que le voy a contar a Honoroit cuando despierte!
+TEXT_HEAVNC109_02239_EMMANELLAIN_000_050	¡Estoy listo, <if(gnum4,mi buena amiga,mi buen amigo)>! ¡¿Y usted?!
+TEXT_HEAVNC109_02239_EMMANELLAIN_000_051	¡Por la Fury, ¿cómo pude olvidarlo?! Mi padre me pidió que le entregara esto.
+TEXT_HEAVNC109_02239_EMMANELLAIN_000_052	Sé que es repentino, pero creemos que a los hombres los inspiraría que usted llevara los colores de la House Fortemps a la batalla. Por favor, háganos este honor.
+TEXT_HEAVNC109_02239_SYSTEM_000_053	Durante el gran combate, parte de tu equipo tendrá un glamour. Tus atributos y habilidades no se ven afectados.
+TEXT_HEAVNC109_02239_TEMPLEKNIGHT02239_000_060	(-Temple Knight aturullado-)¡Un cíclope! ¡Un cíclope! ¡Todos, en guardia!
+TEXT_HEAVNC109_02239_LUCIA_000_061	¡Todas las fuerzas, retírense!
+TEXT_HEAVNC109_02239_THANCRED_000_062	¡Sigan con el combate! ¡Yo me encargo de él!
+TEXT_HEAVNC109_02239_HILDA_000_063	Hmph. Tarado...<br>¡Ya lo oyeron! ¡A lo suyo!
+TEXT_HEAVNC109_02239_AYMERIC_000_064	¡Todas las fuerzas, formen una línea con <split(<string(gstr1)>, ,1)>! ¡Ya!
+TEXT_HEAVNC109_02239_RAUBAHN_000_065	<if([gnum52>0],Qué gusto verte,<if([gnum53>0],Qué gusto verte,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>)>)>. No voy a mentir: esperaba que llegáramos a esto.<br>Entonces... ¿bailamos?
+TEXT_HEAVNC109_02239_AYMERIC_000_066	¡Maldita sea!
+TEXT_HEAVNC109_02239_PIPPIN_000_080	Mientras viva, nunca olvidaré ese duelo. Fue tan inspirador como aleccionador. Pero el honor me obliga a señalar que mi padre <italic(1)>sí<italic(0)> peleaba con una sola mano.
+TEXT_HEAVNC109_02239_THANCRED_000_085	Creo que el Flame General quiere hablar contigo.
+TEXT_HEAVNC109_02239_AYMERIC_000_090	Confieso que me hirió el orgullo que me apartaran con tanta facilidad. Pero cuando se apagaron las llamas y lo vi a usted de pie, triunfante, en mi corazón solo hubo alegría.
+TEXT_HEAVNC109_02239_LUCIA_000_095	Ya se despacharon los mensajeros. Roguemos que esta victoria tenga el efecto deseado.
+TEXT_HEAVNC109_02239_HILDA_000_100	Apuesto a que para ti fue otra batalla más, pero para los míos... Hmph. No fue tanto la pelea como no tropezarnos con los pies de los demás. Su señoría podría pensar en darnos algo de entrenamiento de verdad la próxima vez.
+TEXT_HEAVNC109_02239_EMMANELLAIN_000_105	¡¿Qué estamos esperando?! ¡Tenemos que volver a la capital de inmediato y contarles a todos nuestra victoria!
+TEXT_HEAVNC109_02239_LOANNE_000_106	¡Qué espectáculo! Espadas centelleando, magias deslumbrantes... apenas podía distinguir quién llevaba ventaja de un momento a otro. Y ese duelo... ¡Por la Fury, me retorcí las manos hasta el final! ¡Me muero por contárselo a los demás!
+TEXT_HEAVNC109_02239_CHAUNOLLET_000_107	¡Nunca lo dudé! ¡No, ni por un momento! ¡Por la Fury, podría reventar de orgullo! ¡Ishgard! ¡Ishgard!
+TEXT_HEAVNC109_02239_RAUBAHN_000_110	Por las barbas de Thal... ¡Había olvidado lo que se sentía estar tan vivo!
+TEXT_HEAVNC109_02239_RAUBAHN_000_111	No tenía ese privilegio desde que dejé las arenas sangrientas. Desde que el Bull of Ala Mhigo colgó sus espadas.
+TEXT_HEAVNC109_02239_RAUBAHN_000_112	En aquel entonces, el resultado podría haber sido otro. Pero no te reprocho tu victoria. Sé lo lejos que llegaste y cuánto soportaste. Nuestra pelea no hizo más que confirmarlo.
+TEXT_HEAVNC109_02239_RAUBAHN_000_113	Tendremos que repetirlo algún día, cuando haya tiempo. Lo esperaré con ganas. Ahora ve. Ve con los ishgardianos y celebra tu victoria. Te la ganaste.
+TEXT_HEAVNC109_02239_RAUBAHN_000_114	Vamos, Pipin. Su Gracia nos espera.
+TEXT_HEAVNC109_02239_PIPPIN_000_115	¡Adelante, padre!
+TEXT_HEAVNC109_02239_THANCRED_000_120	¿Ya te despediste?
+TEXT_HEAVNC109_02239_THANCRED_000_121	En todos los años que conozco a Raubahn, no recuerdo haberlo visto tan feliz en una derrota.
+TEXT_HEAVNC109_02239_THANCRED_000_122	¡Bueno! Todo parece encajar, ¿no? Los ishgardianos obtuvieron su victoria simbólica, y de paso se fortaleció la Eorzean Alliance. Siéntete orgullos<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. Tú hiciste que esto pasara.
+TEXT_HEAVNC109_02239_SYSTEM_000_130	¡Aprendiste el emote <colortype(500)><edgecolortype(501)>Victory<edgecolortype(0)><colortype(0)>!

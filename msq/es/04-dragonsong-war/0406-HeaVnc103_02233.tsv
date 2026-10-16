@@ -1,0 +1,30 @@
+key	text
+TEXT_HEAVNC103_02233_SEQ_00	Alphinaud tomó una decisión.
+TEXT_HEAVNC103_02233_SEQ_01	Aunque Alphinaud piensa contarles a Tataru y a Urianger lo que pasó con Minfilia, te pide que no le cuentes a nadie más lo que averiguaste, sobre todo a F'lhaminn. Después dice que te ganaste de sobra un descanso, pero de pronto recuerda que hace poco recibió una carta de Ser Aymeric. Parece que el comandante supremo está organizando algún tipo de ceremonia y le gustaría que asistieras. Pero no dio detalles, así que conviene hacer una visita al Congregation.
+TEXT_HEAVNC103_02233_SEQ_02	Ser Aymeric, que nunca deja pasar una oportunidad, quiere aprovechar el reciente cambio en lo que la gente piensa de los dravanianos para restablecer las relaciones con sus vecinos. Con ese fin, empezó a organizar formalmente una conferencia de paz en Falcon's Nest, a la que asistirá Vidofnir... y tú, si es posible. Reconoce que tu presencia sería más que un gesto simbólico, porque teme que Nidhogg y sus seguidores intenten sabotear el encuentro. Conmovid<if(gnum4,a,o)> por su pasión, aceptas y te preparas para ir a Falcon's Nest a hablar con Lucia. Pero en ese momento, Ser Aymeric te llama y te pide que compartan una copa cuando termine la conferencia, sin duda un gesto de gratitud y camaradería. Y sin embargo, en ese instante, te asalta sin querer la imagen de una mujer de blanco flotando ante un gran cristal y te hace dudar... y aunque aceptas su invitación, lo haces con el corazón apesadumbrado.
+TEXT_HEAVNC103_02233_SEQ_03	La mayoría tiene muy pocas oportunidades de elegir su rumbo en la vida, y Lucia no es la excepción. Enviada a una nación extranjera como espía, su deber era infiltrarse en la sociedad ishgardiana para los fines de sus amos. Pero al final eligió otro camino: entregarse a la causa de otra nación y sumarse a su guerra. Mientras mira a los canteros de Falcon's Nest dar los últimos toques a un relieve, reflexiona sobre lo que el fin de esa guerra podría significar para ella... y para el país cuya fe llegó a compartir.
+TEXT_HEAVNC103_02233_TODO_00	Habla con Aymeric en el Congregation of Our Knights Most Heavenly.
+TEXT_HEAVNC103_02233_TODO_01	Habla con Lucia en Falcon's Nest.
+TEXT_HEAVNC103_02233_ALPHINAUD_000_000	Debo pedirle que no le diga una palabra de esto a ninguno de los demás en los Rising Stones, sobre todo a F'lhaminn.
+TEXT_HEAVNC103_02233_ALPHINAUD_000_001	Yo le contaré a Tataru lo que averiguamos, y también a Urianger. Quizá él pueda entender mejor lo que nos dijo la Word.
+TEXT_HEAVNC103_02233_ALPHINAUD_000_002	En cuanto a usted, <split(<string(gstr1)>, ,1)>... después de todo lo que hizo, diría que se ganó un descanso.
+TEXT_HEAVNC103_02233_ALPHINAUD_000_003	Ah, pero hablando de recompensas bien merecidas: recibí una carta de Ser Aymeric mientras usted no estaba. Parece que está organizando algún tipo de ceremonia y le gustaría que asistiera.
+TEXT_HEAVNC103_02233_ALPHINAUD_000_004	No dio detalles; prefiere explicarlo en persona. ¿Quizá debería hacerle una visita?
+TEXT_HEAVNC103_02233_ALPHINAUD_000_010	Tómese un tiempo para descansar, por favor. Creo que yo haré lo mismo. Ah, y si decide visitar a Ser Aymeric en el Congregation, no olvide darle mis saludos.
+TEXT_HEAVNC103_02233_HANDELOUP_000_015	La primera comandante se está ocupando de los preparativos en Falcon's Nest. ¡Si todo sale según lo planeado, será un nuevo día para Ishgard!
+TEXT_HEAVNC103_02233_TEMPLEKIGHTGATE_000_020	Ah, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. El comandante supremo dejó instrucciones de que l<if(gnum4,a,o)> hiciéramos pasar.
+TEXT_HEAVNC103_02233_Q1_000_021	¿Ir al Seat of the Lord Commander?
+TEXT_HEAVNC103_02233_ARTOIREL_000_025	Qué gusto verl<if(gnum4,a,o)>, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. ¿Ya habló con la primera comandante?
+TEXT_HEAVNC103_02233_EMMANELLAIN_000_030	¡Oh! Qué casualidad encontrarl<if(gnum4,a,o)> aquí, <if(gnum4,mi buena amiga,mi buen amigo)>. Me dio un buen susto. Hablamos después, ¿sí?
+TEXT_HEAVNC103_02233_HONOROIT_000_035	(Gracias a la Fury que está aquí, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. No sé qué pretende mi señor... y eso me preocupa mucho más que cuando lo sé).
+TEXT_HEAVNC103_02233_CITIZENA02233_000_040	¡Por la Fury, miren el tamaño de eso! ¿Tienes idea de cómo va a quedar cuando lo terminen?
+TEXT_HEAVNC103_02233_CITIZENB02233_000_045	Paz entre dragones y hombres. Hace poco me habría burlado de la idea, pero ahora, después de ver a ese dragón atrapar a esa niña en el aire, bueno... Si este va a ser el momento, mi esposa y yo queremos verlo con nuestros propios ojos.
+TEXT_HEAVNC103_02233_CITIZENC02233_000_050	No envidio a los pobres diablos que tienen que trabajar arriba de ese andamio, expuestos al viento y todo. Sí, es por una buena causa, pero ¡mejor ellos que yo!
+TEXT_HEAVNC103_02233_LUCIA_000_060	El comandante supremo dijo que vendría, <split(<string(gstr1)>, ,1)>.
+TEXT_HEAVNC103_02233_LUCIA_000_061	Como ve, los preparativos para la conferencia avanzan a buen ritmo.
+TEXT_HEAVNC103_02233_LUCIA_100_061	Fíjese en la cortina de arriba.
+TEXT_HEAVNC103_02233_LUCIA_000_062	Oculta un relieve que se descubrirá durante la conferencia. Los canteros trabajan día y noche para terminarlo a tiempo.
+TEXT_HEAVNC103_02233_LUCIA_000_063	Ser Aymeric quería un símbolo que perdurara mucho después de que termine esta conferencia. Creo que le gustará el resultado.
+TEXT_HEAVNC103_02233_LUCIA_000_064	No era mi guerra, pero la hice mía... y ver que se acerca a su fin me llena de una esperanza extraña.
+TEXT_HEAVNC103_02233_LUCIA_000_065	Su fe es contagiosa, ¿no? Su certeza de que podemos ser mejores de lo que somos...
+TEXT_HEAVNC103_02233_LUCIA_000_066	Perdóneme, estoy divagando. Debe de estar cansad<if(gnum4,a,o)> del viaje. Vaya a descansar. No l<if(gnum4,a,o)> retengo más.

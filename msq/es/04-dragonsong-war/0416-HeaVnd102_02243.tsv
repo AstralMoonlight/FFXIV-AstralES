@@ -1,0 +1,43 @@
+key	text
+TEXT_HEAVND102_02243_SEQ_00	Alphinaud tiene ganas de saber qué noticias tiene Ser Aymeric.
+TEXT_HEAVND102_02243_SEQ_01	Parece que Ser Aymeric tiene un favor que pedir. Ahora que Nidhogg tiene sus dos ojos, el comandante supremo cree que solo hay un ser capaz de enfrentarse a la sombra vengativa: el propio hermano de camada de Nidhogg, Hraesvelgr. Por eso quiere que lo escoltes hasta Zenith y lo ayudes a convencer al gran dragón de ponerse del lado de Ishgard. Aunque Alphinaud tiene dudas comprensibles sobre la sensatez de este plan, es evidente que Ser Aymeric no cambiará de idea. Avísale al comandante supremo cuando estés list<if(gnum4,a,o)> para partir.
+TEXT_HEAVND102_02243_SEQ_02	Aunque Ser Aymeric está listo para subir Sohm Al, acepta la sugerencia de Alphinaud de visitar primero a Vidofnir en Anyx Trine. Viaja a las tierras bajas de Dravania y habla con la dragona herida.
+TEXT_HEAVND102_02243_SEQ_03	Vidofnir le resta importancia a tu preocupación por su herida, pero no puede darte muchas esperanzas sobre la audiencia que buscas con su progenitor. Desanimado pero no disuadido, Ser Aymeric decide seguir hacia los Churning Mists.
+TEXT_HEAVND102_02243_TODO_00	Habla con Ser Aymeric.
+TEXT_HEAVND102_02243_TODO_01	Habla con Vidofnir en Anyx Trine.
+TEXT_HEAVND102_02243_ALPHINAUD_000_001	Mmm... ¿Habrá recibido Ser Aymeric noticias de un avance dravaniano?
+TEXT_HEAVND102_02243_ALPHINAUD_000_002	...O quizá encontraron a Esti... Es decir, ¡quizá encontraron a Nidhogg!
+TEXT_HEAVND102_02243_ALPHINAUD_000_003	¡Vamos! ¡Quiero oír lo que tiene que decir el comandante supremo!
+TEXT_HEAVND102_02243_ALPHINAUD_000_005	Algo me dice que a Hraesvelgr no le alegrará vernos. Pero por Estinien, y por muchísimos otros, supongo que debemos arriesgarnos a su disgusto.
+TEXT_HEAVND102_02243_TATARU_000_035	Creo que me voy a quedar en el Knight por ahora. Después de todo, los rumores están frescos, ¡y unas monedas extra nunca están de más!
+TEXT_HEAVND102_02243_AYMERIC_000_040	Me apena abusar así de ustedes, pero ustedes, más que nadie, entienden la amenaza que enfrentamos ahora.
+TEXT_HEAVND102_02243_ALPHINAUD_000_041	No es ningún abuso, Ser Aymeric: para <split(<string(gstr1)>, ,1)> y para mí, Ishgard es como un segundo hogar.
+TEXT_HEAVND102_02243_ALPHINAUD_000_042	Después de tantas batallas libradas y tantos lazos forjados, la situación de su nación se volvió la nuestra. Si hay algo que podamos hacer para ayudar a salvarla, le ruego que abuse todo lo que haga falta.
+TEXT_HEAVND102_02243_AYMERIC_000_043	Son verdaderos amigos...
+TEXT_HEAVND102_02243_ALPHINAUD_000_044	¿Nos ponemos manos a la obra, entonces? No hay forma de saber cuándo atacará la sombra de Nidhogg, pero debemos suponer que el tiempo no está de nuestro lado.
+TEXT_HEAVND102_02243_AYMERIC_000_045	Así es. Por eso me tomé la libertad de enviar un mensajero para avisarle a la señora Tataru que ustedes me escoltarán a Sohm Al. Confieso que no di detalles exactos de nuestro destino, porque todavía no los conozco...
+TEXT_HEAVND102_02243_ALPHINAUD_000_046	Invocaremos a Hraesvelgr en Zenith, en los Churning Mists. Pero antes de empezar el ascenso, creo que lo mejor es visitar Anyx Trine.
+TEXT_HEAVND102_02243_AYMERIC_000_047	¿Busca una ventaja en las negociaciones?
+TEXT_HEAVND102_02243_ALPHINAUD_000_048	Así es. Quiero consultar a Vidofnir.
+TEXT_HEAVND102_02243_ALPHINAUD_000_049	Lo propongo en parte por preocupación por su estado. Si sucumbiera a sus heridas, podría tener graves consecuencias para nuestra alianza. Aparte de eso, quizá pueda ayudarnos a entender cómo piensa ahora su progenitor.
+TEXT_HEAVND102_02243_AYMERIC_000_050	Bien razonado. A las tierras bajas de Dravania, entonces.
+TEXT_HEAVND102_02243_TATARU_000_055	Un caballero joven muy amable me dijo que vas a negociar otra vez con Hraesvelgr. ¿Pensaste en usar el arte de la negociación de los Manderville? ¡Es sorprendentemente eficaz, ¿sabes?!
+TEXT_HEAVND102_02243_VIDOFNIR_000_060	Ah, <if(gnum4,la guerrera de guerreros y sus,el guerrero de guerreros y sus)> compañeros. ¿Qué os trae a mi morada?
+TEXT_HEAVND102_02243_ALPHINAUD_000_061	Perdona que interrumpamos tu recuperación, Vidofnir. Espero que la herida no te duela demasiado...
+TEXT_HEAVND102_02243_VIDOFNIR_000_062	¿Me imaginabais al borde de la muerte? La estocada fue profunda, pero no mortal. Sanaré con el tiempo.
+TEXT_HEAVND102_02243_AYMERIC_000_063	Me alegra mucho oírlo. Usted era la invitada de honor de nuestra conferencia, y fallamos en nuestro deber de protegerla. En nombre de Ishgard, le pido disculpas sin reservas.
+TEXT_HEAVND102_02243_VIDOFNIR_000_064	...Soy una dragona adulta, ¿y vos pensabais protegerme <italic(1)>a mí<italic(0)>, mortal? Me forjé en el fuego de la batalla antes de que vuestro bisabuelo aprendiera a gatear.
+TEXT_HEAVND102_02243_VIDOFNIR_000_065	Vuestras palabras me recuerdan a un caballero al que llamé amigo hace unos mil años. Juró defenderme del daño y de la penuria...
+TEXT_HEAVND102_02243_AYMERIC_000_066	Ojalá pudiéramos volver a esa era de paz, cuando hombres y dragones conocían tal camaradería.
+TEXT_HEAVND102_02243_ALPHINAUD_000_067	Ojalá cada esfuerzo nuestro por lograrlo no lo deshiciera un rencor antiguo...
+TEXT_HEAVND102_02243_VIDOFNIR_000_068	En verdad, no puede haber paz mientras la sombra de Nidhogg siga aquí.
+TEXT_HEAVND102_02243_ALPHINAUD_000_069	Eso está claro, pero nos falta la fuerza para desterrarlo. Por eso vamos a Sohm Al, a suplicarle otra vez ayuda a tu progenitor.
+TEXT_HEAVND102_02243_VIDOFNIR_000_070	Necedad. Sabéis tan bien como yo cómo responderá.
+TEXT_HEAVND102_02243_AYMERIC_000_071	...Así que el corazón de Hraesvelgr no cambió. Una lástima.<br>Pero si tener esperanza es una necedad, me conformo con morir como un necio.
+TEXT_HEAVND102_02243_VIDOFNIR_000_072	Como siempre fue costumbre entre los vuestros. Id, pues, pero estad advertidos: la presencia de la sombra enloqueció a sus siervos.
+TEXT_HEAVND102_02243_ALPHINAUD_000_073	Gracias, Vidofnir. No perturbaremos más tu descanso.
+TEXT_HEAVND102_02243_LUCIA_000_010	（★Sin uso／se eliminará★）
+TEXT_HEAVND102_02243_HANDELOUP_000_015	（★Sin uso／se eliminará★）
+TEXT_HEAVND102_02243_HILDA_000_020	（★Sin uso／se eliminará★）
+TEXT_HEAVND102_02243_SYMME_000_025	（★Sin uso／se eliminará★）
+TEXT_HEAVND102_02243_EUDESTAND_000_030	（★Sin uso／se eliminará★）

@@ -1,0 +1,108 @@
+key	text
+TEXT_HEAVNB108_02163_SEQ_00	Lucia no es de las que se duermen en los laureles.
+TEXT_HEAVNB108_02163_SEQ_01	Mientras tú y los demás discuten cómo seguir, Ser Aymeric entra en la sala acompañado de Lord Edmont y Lord Artoirel, para alegría y alivio de todos los presentes. Por desgracia, el optimismo dura poco: llega un caballero aterrado con noticias graves. Una facción rebelde que se hace llamar True Brothers of the Faith tomó el control del Vault y tiene como rehenes a los refugiados que se alojaban allí. Por supuesto, el comandante supremo no puede ceder ante las exigencias de semejantes fanáticos, y solo le queda una opción: un asalto armado. Sin dudarlo, tú y tus compañeros Scions se ofrecen a ayudar, y Lord Artoirel también promete su apoyo.
+TEXT_HEAVNB108_02163_SEQ_02	Aunque logran colarse en la basílica sin que los detecten, los rebeldes pronto notan su presencia e intentan ejecutar a los rehenes. Por suerte, no son rivales para ti y tus aliados, y juntos rescatan a todos los cautivos menos a una: una niña llamada Maelie, a la que, según te enteras, un sacerdote se llevó a los niveles superiores. A ti, a Ser Aymeric y a Lord Artoirel no les queda más remedio que perseguirlo.
+TEXT_HEAVNB108_02163_SEQ_03	Por fin acorralas al sacerdote en el nivel más alto del Vault, y Ser Aymeric le exige que se rinda de inmediato. Por desgracia, el hombre no atiende razones, convencido sin la menor duda de que Ser Aymeric es un traidor a su sangre y a su patria. En un último acto de desafío, arroja a Maelie desde la cornisa, y la niña cae hacia la plaza.<br><br>Muy abajo, Lucia e Y'shtola solo pueden mirar con horror cómo la figura que grita se precipita hacia ellas. Pero justo cuando parece perdida toda esperanza, una gran dragona blanca se lanza en picada y la arranca de las fauces de la muerte. ¡Vidofnir!<br><br>Poco después, tú, Ser Aymeric y Lord Artoirel se reúnen con los demás afuera, donde Vidofnir espera para transmitir una advertencia de Hraesvelgr. Al parecer, Nidhogg y su camada volaron hacia cielos desconocidos. Cuando Alphinaud insiste en que el dragón le dé respuestas sobre Estinien, ella dice que no puede darle ninguna y se despide. Aunque su visita fue demasiado breve, Ser Aymeric espera que contribuya mucho a cambiar la opinión de la gente común. Pero Lord Edmont, que no comparte su optimismo, le ruega al joven caballero que actúe con más cautela, para que no mueran más personas en su prisa temeraria por el cambio. Sobre todo el propio Ser Aymeric, a quien el conde claramente quiere como a un hijo.
+TEXT_HEAVNB108_02163_SEQ_04	Tras la partida de Vidofnir, Y'shtola te habla en privado sobre Thancred, en quien percibe un cambio preocupante. Según ella, su flujo aetherico quedó alterado de un modo que, en teoría, le impediría usar cualquier magia, incluida la teletransportación. Aunque insiste en que por ahora es solo una especulación, explicaría en gran parte por qué no se arriesgó a buscar a los Scions al enterarse de que habían invocado a un primal. Pero sin pruebas, no te queda más remedio que guardar silencio e ir a ver a Alphinaud a Fortemps Manor.
+TEXT_HEAVNB108_02163_SEQ_05	Mientras hablas de lo sucedido con Alphinaud y Tataru, entran Lord Artoirel y Lord Emmanellain para entregarles a todos una muestra de su gratitud: un escudo de la House Fortemps digno de un verdadero caballero. Pero pronto queda claro que no era el único motivo de Artoirel para pedir una audiencia, cuando revela que el conde Edmont piensa hacerse a un lado y dejarle a él el lugar de su padre como cabeza de la House Fortemps. Así, el conde Edmont pretende librar a la casa de la sospecha persistente de que fue cómplice de un golpe de Estado orquestado por Ser Aymeric. Aunque Lord Artoirel soñó mucho tiempo con este día, parece que las revelaciones recientes sobre los padres fundadores de Ishgard lo llevaron a cuestionar el valor de su derecho de nacimiento, hasta que recordó las palabras de su difunto hermano: "Un caballero vive para servir, para ayudar a quien lo necesite". Así que jura seguir el orgulloso ejemplo de Haurchefant y trabajar por el bien mayor de Ishgard. Y si su determinación flaquea, espera que tú le muestres el camino, como <if(gnum4,una hermana,un hermano)>.
+TEXT_HEAVNB108_02163_TODO_00	Reúnete con Aymeric en los Pillars.
+TEXT_HEAVNB108_02163_TODO_01	Habla con Aymeric.
+TEXT_HEAVNB108_02163_TODO_02	Habla con Alphinaud.
+TEXT_HEAVNB108_02163_TODO_03	Habla con Alphinaud en Fortemps Manor.
+TEXT_HEAVNB108_02163_YSHTOLA_000_001	Con qué desesperación nos aferramos a lo que apreciamos, sabiendo todo el tiempo que llegará el día en que tendremos que soltarlo.
+TEXT_HEAVNB108_02163_ALPHINAUD_000_005	No fue hace tanto, ¿verdad?...
+TEXT_HEAVNB108_02163_HILDA_000_010	El pasado es de los muertos. El futuro es nuestro, para hacer con él lo que queramos.
+TEXT_HEAVNB108_02163_THANCRED_000_015	No más despedidas. Al menos no por un buen tiempo.
+TEXT_HEAVNB108_02163_YSHTOLA_000_020	Concéntrate en liberar a los rehenes. Yo me ocuparé de sus heridas.
+TEXT_HEAVNB108_02163_ALPHINAUD_000_025	¡Listo cuando usted lo esté, <split(<string(gstr1)>, ,1)>!
+TEXT_HEAVNB108_02163_HILDA_000_030	¡Bastardos! ¡Si fuera por mí, yo misma encabezaría la carga!
+TEXT_HEAVNB108_02163_SYMME_000_035	¡Dales su merecido, <split(<string(gstr1)>, ,1)>!
+TEXT_HEAVNB108_02163_EUDESTAND_000_040	¡Ni se te ocurra fallarnos! ¡Trae a nuestra gente a salvo!
+TEXT_HEAVNB108_02163_LUCIA_000_045	Resistiremos aquí, <split(<string(gstr1)>, ,1)>. ¡Que la Fury l<if(gnum4,a,o)> guíe y l<if(gnum4,a,o)> proteja!
+TEXT_HEAVNB108_02163_THANCRED_000_050	Como en los viejos tiempos, ¿eh?
+TEXT_HEAVNB108_02163_ARTOIREL_000_055	No se preocupe por mi seguridad. Por si lo olvida, yo también soy un caballero.
+TEXT_HEAVNB108_02163_HANDELOUP_000_057	Le ruego que tenga presente que el comandante supremo no se recuperó del todo de sus heridas. Aunque la seguridad de los rehenes es lo primordial, le pido que haga todo lo posible por disuadirlo de cualquier... heroísmo.
+TEXT_HEAVNB108_02163_AYMERIC_000_060	Escuchen bien. Entraremos en la basílica en silencio por esta puerta. Según los últimos informes, hay al menos seis rehenes adentro. No se sabe cuántos son los True Brothers of the Faith ni qué tan preparados están.
+TEXT_HEAVNB108_02163_ARTOIREL_000_061	Me dicen que uno aseguró haber servido a Thordan VII. ¿Podría ser lo mismo con los demás?
+TEXT_HEAVNB108_02163_AYMERIC_000_062	Por la rapidez con que tomaron el Vault, lo creo muy probable, sí. Lo que significa que bien podrían saber cómo volver las defensas del edificio en nuestra contra.
+TEXT_HEAVNB108_02163_AYMERIC_000_063	Sea como sea, no tenemos más remedio que seguir. Lord Artoirel, usted es un hombre valiente y leal, y nadie se atrevería a cuestionar su honor si decidiera no arriesgar la vida en esta empresa. ¿Está seguro de que quiere acompañarnos?
+TEXT_HEAVNB108_02163_ARTOIREL_000_064	¡El campo de batalla no me es ajeno, Ser Aymeric! ¡Mi brazo no flaqueará; mi escudo no se quebrará! ¡Con Halone por testigo, llevaremos a estos fanáticos ante la justicia!
+TEXT_HEAVNB108_02163_AYMERIC_000_065	¡Bien dicho, mi señor! Amigos, ¡síganme!
+TEXT_HEAVNB108_02163_AYMERIC_000_066	¡Ser Simeonard! ¡Deponga las armas y libere a los rehenes, y se le tendrá clemencia! ¡Le doy mi palabra!
+TEXT_HEAVNB108_02163_TERRORIST_000_067	(-Simeonard of the Holiest Flame-)¡Ja! ¡La palabra de un hereje y asesino de su propia sangre! Antes confiaría en un dragón. ¡Activen a los caballeros! ¡Les mostraremos a los rehenes la misma clemencia que él le mostró al arzobispo!
+TEXT_HEAVNB108_02163_TERRORIST_000_068	(-Simeonard of the Holiest Flame-)A diferencia de usted, Ser Aymeric, yo soy un hombre de honor. ¡Por mi mano recibirá el juicio de la Fury!
+TEXT_HEAVNB108_02163_AYMERIC_000_069	Así que será un juicio, entonces. Lord Artoirel, <split(<string(gstr1)>, ,1)>, ¡déjenme y salven a los rehenes! ¡Yo me ocuparé de Ser Simeonard!
+TEXT_HEAVNB108_02163_THANCRED_000_070	Bueno, eso sí que fue oportuno. Vidofnir debe de haber estado sobrevolando durante horas.
+TEXT_HEAVNB108_02163_YSHTOLA_000_075	En los momentos antes de que apareciera Vidofnir, pensé en teletransportar a la niña. Gracias a los Twelve que no lo hice.
+TEXT_HEAVNB108_02163_LUCIA_000_076	Desde la muerte de Haurchefant, Lord Edmont se volvió cada vez más cauteloso. Para hablar claro, tiene miedo de tener esperanza. Pero yo no. El heroísmo de Vidofnir <italic(1)>va<italic(0)> a inclinar la opinión pública a nuestro favor, de eso no tengo duda.
+TEXT_HEAVNB108_02163_HILDA_000_077	Después de esto, me parece que va a haber menos gente maldiciendo a los dragones por aquí, y más maldiciendo al clero. Por mí, perfecto.
+TEXT_HEAVNB108_02163_SYMME_000_078	¡Que me lleve el diablo! ¡Maelie no solo está a salvo, sino que encima se paseó en un dragón!
+TEXT_HEAVNB108_02163_EUDESTAND_000_079	Somos la única familia que tiene Maelie, ella y muchos otros niños. Una razón más para reforzar la guardia, digo yo.
+TEXT_HEAVNB108_02163_HANDELOUP_100_079	No hay palabras para expresar nuestra gratitud, <split(<string(gstr1)>, ,1)>. Gracias por rescatar a los rehenes... y por mantener a salvo al comandante supremo.
+TEXT_HEAVNB108_02163_ALPHINAUD_000_080	Fue un día de sorpresas, ¿no? Lástima que Vidofnir no pudiera quedarse más.
+TEXT_HEAVNB108_02163_THANCRED_000_081	Sí, creo que es justo decir que eligió el momento de irse bastante peor que el de llegar.
+TEXT_HEAVNB108_02163_YSHTOLA_000_082	"Oportuna" se queda corto. Pero un instante más tarde habría sido demasiado tarde.
+TEXT_HEAVNB108_02163_ALPHINAUD_000_083	Roguemos que los ishgardianos que todavía tenían dudas tomen en serio lo que pasó y acepten la verdad de las palabras de Ser Aymeric.
+TEXT_HEAVNB108_02163_ALPHINAUD_000_084	Bueno, es justo que le cuente a Tataru lo que pasó aquí. Si me necesita, estaré en Fortemps Manor.
+TEXT_HEAVNB108_02163_THANCRED_000_085	Déjame acompañarte. Tataru nunca me perdonaría que me fuera a los Rising Stones sin despedirme.
+TEXT_HEAVNB108_02163_YSHTOLA_000_086	Un momento, <split(<string(gstr1)>, ,1)>. Quiero hablar contigo.
+TEXT_HEAVNB108_02163_YSHTOLA_100_086	Dime, ¿a ti Thancred te parece que está bien del todo?
+TEXT_HEAVNB108_02163_Q1_000_000	¿Qué dices?
+TEXT_HEAVNB108_02163_A1_000_000	Se defendió bien en el Vault.
+TEXT_HEAVNB108_02163_A1_000_001	Se llevó bastante bien con Hilda.
+TEXT_HEAVNB108_02163_A1_000_002	No sé cómo decirlo con palabras, pero...
+TEXT_HEAVNB108_02163_YSHTOLA_000_087	Así es, y es especialmente notable con la herida que tiene en el ojo. Solo puedo suponer que su tiempo en la naturaleza le dio oportunidades de sobra para compensar su limitación.
+TEXT_HEAVNB108_02163_YSHTOLA_000_088	Pero no hablo de su estado físico, sino de su flujo aetherico, que me temo que quedó alterado de forma irreparable.
+TEXT_HEAVNB108_02163_YSHTOLA_000_089	De eso no tengo duda. Su tiempo en la naturaleza no le quitó el encanto.
+TEXT_HEAVNB108_02163_YSHTOLA_000_090	Pero eso no viene al caso. Lo que me preocupa es su flujo aetherico, que me temo que quedó alterado de forma irreparable.
+TEXT_HEAVNB108_02163_YSHTOLA_000_091	Así que tú también lo notas. Un cambio sutil, imperceptible para la mayoría.
+TEXT_HEAVNB108_02163_YSHTOLA_000_092	Yo misma no lo noté al principio, pero al examinarlo mejor, vi que su flujo aetherico había quedado alterado de forma irreparable.
+TEXT_HEAVNB108_02163_YSHTOLA_000_093	Por eso sospecho seriamente que su capacidad de manipular el aether quedó afectada. Dicho simple: es posible que Thancred ya no pueda usar magia.
+TEXT_HEAVNB108_02163_YSHTOLA_000_094	Explicaría en gran parte por qué decidió quedarse en la naturaleza en vez de buscarnos. Habría tenido que depender solo de los medios de viaje tradicionales, lo que alargaría mucho su camino. Y cuando se enteró de que una beast tribe cercana se preparaba para invocar a un primal, bien pudo parecerle más sensato esperar.
+TEXT_HEAVNB108_02163_YSHTOLA_000_095	Pero por ahora no es más que una especulación. Hasta que tenga pruebas, te ruego que no digas una palabra.
+TEXT_HEAVNB108_02163_YSHTOLA_000_096	Bien. Debería ponerme en camino. Puede que Krile haya encantado a la maestra Matoya por ahora, pero quién sabe cuánto durará.
+TEXT_HEAVNB108_02163_TATARU_000_105	¡Lord Edmont me contó todo lo que hizo Vidofnir! Dioses, cómo me hubiera gustado estar ahí para verlo.
+TEXT_HEAVNB108_02163_BUTLER01580_000_106	Cuando oí el alboroto salí a mirar, pero lo único que vi fue la silueta del dragón en el horizonte...
+TEXT_HEAVNB108_02163_STEWARD_000_107	Es un alivio ver que está iles<if(gnum4,a,o)>, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Le ruego que espere aquí un momento: Lord Artoirel debería volver enseguida.
+TEXT_HEAVNB108_02163_QIB_TODO_001	¡Rescata a los rehenes!
+TEXT_HEAVNB108_02163_QIB_TODO_AYMERIC_HP_GAUGE_NAME	Vitalidad de Aymeric
+TEXT_HEAVNB108_02163_QIB_TODO_HOSTILE_NUMBER	Rehenes rescatados
+TEXT_HEAVNB108_02163_QIB_TODO_ATTACKED_HOSTILE_NUMBER	Ataduras desatadas
+TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_001_002	Parece que todavía no notaron nuestra presencia. Vamos: hay que asegurar la entrada.
+TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_001_003	Recuerden: salvar a los rehenes está por encima de todo. Cuidado con sus ataques, y sometan al enemigo rápido.
+TEXT_HEAVNB108_02163_HOSTAGE01_BATTLETALK_002_003	¡Tienen que apurarse! Ser Simeonard se llevó a los demás a otra parte.
+TEXT_HEAVNB108_02163_YSHTOLA_BATTLETALK_003_001	Yo defenderé la entrada y cuidaré de esta. ¡Ahora vayan!
+TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_003_002	¿Ser Simeonard? Así que de verdad es obra de los antiguos siervos del arzobispo...
+TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_003_003	¡Asegure al rehén, <split(<string(gstr1)>, ,1)>! ¡Deje a los demás en nuestras manos!
+TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_003_007	¡En guardia! ¡Dieron la alarma!
+TEXT_HEAVNB108_02163_HOSTAGE02_BATTLETALK_004_001	S-se llevaron a los demás a algún lado. Yo... Todo pasó tan rápido...
+TEXT_HEAVNB108_02163_TERRORIST_ZAKO_ANY_BATTLETALK_005_001	¡Ahí están! ¡Que no escape ninguno!
+TEXT_HEAVNB108_02163_ALPHINAUD_BATTLETALK_005_002	¡Sigan! ¡Yo los contendré aquí!
+TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_005_003	¡Tú solo no! ¡<split(<string(gstr1)>, ,1)>, quédate con Ser Aymeric y Lord Artoirel!
+TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_005_004	¡Por aquí, <split(<string(gstr1)>, ,1)>! ¡Al Quire!
+TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_006_004	¡Vamos, entonces! ¡Veamos a quién favorece la Fury!
+TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_006_005	¡Ser Aymeric todavía está herido, <split(<string(gstr1)>, ,1)>! ¡Si no nos apuramos, seguro que caerá!
+TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_006	¡Oh, Halone, haznos llegar Tu juicio! ¡Eleva a los justos y derriba a los malvados!
+TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_007	¡Traidor! ¡Asesino de su propia sangre! ¡¿Con qué hechicería sigue en pie?! ¡Basta! ¡Todos, al ataque!
+TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_006_008	No veo a nadie más cerca. ¡Vamos, <split(<string(gstr1)>, ,1)>! ¡Ser Aymeric necesita nuestra ayuda!
+TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_006_009	¡Bien hecho! Ahora terminemos con esto, ser, ¡ante los ojos de los dioses y de los hombres!
+TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_010	¡Resistan, hermanos! ¡La Fury está con nosotros!
+TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_011	Algún día... lo juro... ustedes...
+TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_006_012	Tiene que haber otros cerca, pero ¡¿dónde?!
+TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_006_013	¡A Ser Aymeric casi no le quedan fuerzas, <split(<string(gstr1)>, ,1)>! ¡Tenemos que ayudarlo ya!
+TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_007_001	No tengas miedo, pequeña. ¡Salvaremos a tu amiga!
+TEXT_HEAVNB108_02163_HOSTAGE03_BATTLETALK_007_002	¡Tienen que apurarse! ¡El sacerdote se llevó a Maelie arriba cuando vio que ustedes mataban a sus hombres!
+TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_DEAD	Maldita sea...
+TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_DEAD	Un caballero vive para servir...
+TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_HOSTAGE_DEAD	¡No, NO! Los rehenes... Oh, Halone, te lo ruego, perdóname...
+TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_HOSTAGE_DEAD	¡Que la Fury me lleve, los asesinaron! Y nosotros lo permitimos...
+TEXT_HEAVNB108_02163_URIANGER_000_110	...¿Esta es vuestra prueba? ¿<italic(1)>The Gerun Oracles<italic(0)>? Apócrifos.
+TEXT_HEAVNB108_02163_ELIDIBUSEORZEA_000_111	(-???-)Es una verdad olvidada hace mucho: un relato del principio, y del camino que se nos trazó.
+TEXT_HEAVNB108_02163_ELIDIBUSEORZEA_000_112	(-Elidibus-)Nuestros destinos se decidieron hace mucho, Archon. Los garleans no son la excepción. Tampoco la Triad. Usted sabe lo que hay que hacer.
+TEXT_HEAVNB108_02163_PAPALYMO_000_120	...¿Y bien?
+TEXT_HEAVNB108_02163_YDA_000_121	Todos tienen sus órdenes.
+TEXT_HEAVNB108_02163_YDA_000_122	Los Masks atacarán apenas todas las unidades estén en posición. Los imperiales no sabrán qué los golpeó.
+TEXT_HEAVNB108_02163_PAPALYMO_000_123	Me temo que será sangriento...
+TEXT_HEAVNB108_02163_YDA_000_124	Por Rhalgr, más le vale serlo.
+TEXT_HEAVNB108_02163_PAPALYMO_000_125	No podemos quedarnos aquí para siempre, Yda. Tenemos otras responsabilidades.
+TEXT_HEAVNB108_02163_YDA_000_126	¡Sé muy bien cuáles son mis responsabilidades, y pienso cumplirlas todas!

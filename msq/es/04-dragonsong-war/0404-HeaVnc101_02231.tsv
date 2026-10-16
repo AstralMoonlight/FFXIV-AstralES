@@ -1,0 +1,95 @@
+key	text
+TEXT_HEAVNC101_02231_SEQ_00	Tataru te espera para darles buenas noticias a ti y a Alphinaud.
+TEXT_HEAVNC101_02231_SEQ_01	Tataru te cuenta con orgullo que F'lhaminn, Hoary Boulder y Coultenet, los tres Scions of the Seventh Dawn que tuvieron que huir de Limsa Lominsa tras la traición de los Crystal Braves, por fin vuelven a casa. Pero, para no quedarse atrás, Krile y Thancred aparecen poco después para contarles a los demás el próximo paso de su plan para encontrar a Minfilia. Su teoría es que la intervención directa de Hydaelyn tiene que dejar una huella medible en el aether del entorno, así que piensan estudiar el campo de batalla donde enfrentaste al Ultima Weapon, donde Ella te protegió con la bendición de la Luz: el Praetorium. Aunque no sabe para qué podrán servir esos datos, Alphinaud confía en el criterio de sus compañeros, y también acepta su sugerencia de que tú, él y Tataru se encarguen de preparar el regreso de los Scions perdidos.
+TEXT_HEAVNC101_02231_SEQ_02	Sorprendidos y contentos de ver una cara conocida, F'lhaminn y sus compañeros te saludan con cariño y se disculpan por no haber vuelto antes. Con ganas de hablar con su hija, F'lhaminn pregunta por Minfilia, y tienes que revelarle que todavía no la encuentran. Aunque claramente angustiada, F'lhaminn hace lo posible por mantener la calma y confiar en que los Scions traerán a su hija a casa sana y salva, y juntos parten hacia Revenant's Toll.
+TEXT_HEAVNC101_02231_SEQ_03	Frente al Seventh Heaven, el trío se detiene a contemplar el lugar conocido. Aunque muchas cosas cambiaron, muchas siguen igual... aunque quién sabe cómo se sentirán cuando crucen las puertas de los Rising Stones.
+TEXT_HEAVNC101_02231_SEQ_04	Los Rising Stones se llenan de risas y bebida mientras F'lhaminn, Hoary Boulder y Coultenet van a sus rincones de siempre a saludar a viejos amigos y contar historias de aventuras en tierras lejanas. Para algunos, es como si nunca se hubieran ido: una conversación interrumpida que ahora se retoma. Para otros, es la promesa de un nuevo comienzo: un nuevo capítulo de una historia más grande. Pero en medio de tanta emoción, Alphinaud y Tataru se mantienen aparte, extrañamente callados...
+TEXT_HEAVNC101_02231_SEQ_05	Aunque muchos celebran el regreso del trío perdido, Alphinaud sigue pensando en los que todavía no volvieron. Pero Tataru, siempre resistente, le asegura que encontrarán a todos sus compañeros desaparecidos: Minfilia, Yda, Papalymo... hasta el último.
+TEXT_HEAVNC101_02231_TODO_00	Reúnete con F'lhaminn en Limsa Lominsa.
+TEXT_HEAVNC101_02231_TODO_01	Habla con F'lhaminn en Revenant's Toll.
+TEXT_HEAVNC101_02231_TODO_02	Habla con los Scions en los Rising Stones.
+TEXT_HEAVNC101_02231_TODO_03	Habla con Tataru.
+TEXT_HEAVNC101_02231_ALPHINAUD_000_000	Por mucho que me preocupe el futuro de Ishgard, el destino de nuestros amigos desaparecidos me preocupa todavía más...
+TEXT_HEAVNC101_02231_TATARU_000_010	¡Alphinaud, <split(<string(gstr1)>, ,1)>! ¡Los estuve buscando por todos lados!
+TEXT_HEAVNC101_02231_TATARU_000_011	¡Recibimos noticias de F'lhaminn, Hoary Boulder y Coultenet!
+TEXT_HEAVNC101_02231_ALPHINAUD_000_012	¿De verdad? ¿Pasó algo?
+TEXT_HEAVNC101_02231_TATARU_000_013	No, no, no es nada malo, ¡todo lo contrario! Parece que cuando se enteraron de que se había restituido el buen nombre de los Scions, se subieron al primer barco rumbo a Limsa Lominsa. ¡Deberían llegar en cualquier momento!
+TEXT_HEAVNC101_02231_TATARU_000_014	Es fácil olvidar lo útiles que son las linkpearls, ¿no? Cuando funcionan, digo. Y si no te molesta que te espíen.
+TEXT_HEAVNC101_02231_ALPHINAUD_000_015	Así es. ¡Pero qué noticia maravillosa! Pensar que nuestro reencuentro está tan cerca.
+TEXT_HEAVNC101_02231_THANCRED_000_016	Yo también me alegro de verte, Alphinaud.
+TEXT_HEAVNC101_02231_ALPHINAUD_000_017	Ah, Thancred... y Krile. ¿Qué los trae por aquí?
+TEXT_HEAVNC101_02231_THANCRED_000_018	Krile y yo estuvimos investigando cómo podríamos encontrar a Minfilia.
+TEXT_HEAVNC101_02231_KRILE_000_019	Y puede que hayamos dado con la respuesta.
+TEXT_HEAVNC101_02231_KRILE_000_020	<split(<string(gstr1)>, ,1)>, cuando huías de Ul'dah con Minfilia, dijiste que Hydaelyn le habló poco antes de que se separaran, ¿verdad?
+TEXT_HEAVNC101_02231_KRILE_000_021	Bueno, suponiendo que sea cierto, y no veo motivos para dudarlo, parece razonable concluir que Hydaelyn le ordenó quedarse atrás.
+TEXT_HEAVNC101_02231_KRILE_000_022	Es decir, el Cristal Madre <italic(1)>intervino directamente<italic(0)> para guiar a Minfilia.
+TEXT_HEAVNC101_02231_KRILE_000_023	Reconozco que todo esto sigue siendo bastante hipotético, pero propongo que una intervención así, por sutil que sea, tiene que dejar algún rastro residual. Una alteración persistente en el aether... o una onda, si se quiere.
+TEXT_HEAVNC101_02231_KRILE_000_024	Para comprobar que existen esas ondas, claro, vamos a necesitar datos adecuados.
+TEXT_HEAVNC101_02231_THANCRED_000_025	Por suerte, sé dónde se pueden encontrar esos datos: el campo de batalla donde <split(<string(gstr1)>, ,1)> derribó al Ultima Weapon... y el lugar de mi propia deshonra.
+TEXT_HEAVNC101_02231_THANCRED_000_026	Fue allí donde Hydaelyn intervino para proteger<if(gnum4,la,lo)> de la magia que invoqué. Krile y yo nos infiltraremos en el castrum y analizaremos el aether de ese lugar.
+TEXT_HEAVNC101_02231_ALPHINAUD_000_027	¿Ustedes dos? ¿Solos?
+TEXT_HEAVNC101_02231_THANCRED_000_028	Tengo un talento comprobado para el sigilo, y estoy seguro de que habrá suficientes rincones y recovecos donde esconder a Krile mientras pasan las patrullas.
+TEXT_HEAVNC101_02231_THANCRED_000_029	Además, si tú y <split(<string(gstr1)>, ,1)> vienen con nosotros, ¿quién se va a ocupar del gran regreso de F'lhaminn?
+TEXT_HEAVNC101_02231_ALPHINAUD_000_030	Visto así... Muy bien, confiaré en su plan.
+TEXT_HEAVNC101_02231_ALPHINAUD_000_031	No sé si esos datos nos darán una forma de encontrar a Minfilia, pero al menos descartarán otra línea de investigación.
+TEXT_HEAVNC101_02231_ALPHINAUD_000_032	Tataru y yo volveremos a los Rising Stones a preparar el regreso de nuestros compañeros. ¿Podría pedirle que vaya a recibirlos a los muelles de Limsa?
+TEXT_HEAVNC101_02231_ALPHINAUD_000_033	Entonces nos vemos los cuatro en los Rising Stones. ¡Buen viaje!
+TEXT_HEAVNC101_02231_HOARYBOULDER_000_040	¿Es...? ¡Por los dioses, <italic(1)>sí<italic(0)> eres tú! ¡Qué alegría, <split(<string(gstr1)>, ,1)>, qué alegría!
+TEXT_HEAVNC101_02231_COULTENET_000_045	¡Pero si es <string(gstr1)>! ¡De verdad, no tenías que venir hasta aquí solo por nosotros!
+TEXT_HEAVNC101_02231_ALPHINAUD_000_046	¿Oh? ¿Lady F'lhaminn no viene con ustedes?
+TEXT_HEAVNC101_02231_TATARU_000_047	¡Me muero por oír las aventuras que vivieron!
+TEXT_HEAVNC101_02231_FLHAMINN_000_050	¡Oh, <split(<string(gstr1)>, ,1)>! ¿Cómo estuvo? Venga aquí, déjeme mirarl<if(gnum4,a,o)> bien.
+TEXT_HEAVNC101_02231_FLHAMINN_000_051	Gracias a los Twelve. En tierras extranjeras se oyen las historias más extrañas. Me preocupé por todos ustedes cada día...
+TEXT_HEAVNC101_02231_COULTENET_000_052	Habríamos mandado noticias antes, pero los Braves no nos dieron oportunidad. Cuando nos atacaron en el mercado, apenas pudimos escapar.
+TEXT_HEAVNC101_02231_COULTENET_000_053	Tataru llegó hasta ustedes, claro, pero nosotros tuvimos que refugiarnos en un barco hannish.
+TEXT_HEAVNC101_02231_HOARYBOULDER_000_054	Nos dolió no estar cuando más nos necesitabas. Pero le sacamos provecho, ¿no, Coultenet? ¡Estudiamos y entrenamos de sol a sol!
+TEXT_HEAVNC101_02231_FLHAMINN_000_055	Habríamos mandado noticias antes, pero no sabíamos en quién confiar, y con la enorme distancia...
+TEXT_HEAVNC101_02231_FLHAMINN_000_056	Pero esos días oscuros por fin quedaron atrás. Me alegrará mucho volver a casa y hablar con mi hija.
+TEXT_HEAVNC101_02231_FLHAMINN_000_057	¡¿Cómo que está <italic(1)>desaparecida<italic(0)>?! ¡¿Cómo pudieron permitirlo?!
+TEXT_HEAVNC101_02231_FLHAMINN_000_058	Perdóneme, yo... seguro que está haciendo todo lo posible por encontrarla.
+TEXT_HEAVNC101_02231_FLHAMINN_000_059	...Como debe de estar haciéndolo Thancred. Él la cuidó desde el principio, mucho antes que yo. Y la cuidará hasta el final.
+TEXT_HEAVNC101_02231_FLHAMINN_000_060	Rezaré por que vuelva sana y salva, y mientras tanto me mantendré ocupada.
+TEXT_HEAVNC101_02231_COULTENET_000_061	Sin duda, queda muchísimo por hacer. Puede que los Braves nos hayan golpeado, pero el camino sigue ahí, y no nos apartaremos de él.
+TEXT_HEAVNC101_02231_HOARYBOULDER_000_062	¡Sí, ese es el espíritu! ¡Por los Scions, y por un reencuentro que se hizo esperar! ¡Hurra!
+TEXT_HEAVNC101_02231_FLHAMINN_000_063	Bueno, ya lo oyeron. ¡A los Rising Stones!
+TEXT_HEAVNC101_02231_HOARYBOULDER_000_070	¡Aaah, qué bueno estar de vuelta en el Toll! \<olfateo> ¡Hasta <italic(1)>huele<italic(0)> a aventura!
+TEXT_HEAVNC101_02231_COULTENET_000_075	Por fin en casa... Tengo que hacer mi ronda y ver quién sigue aquí.
+TEXT_HEAVNC101_02231_FLHAMINN_000_080	...Qué bien se siente estar de nuevo en casa.
+TEXT_HEAVNC101_02231_FLHAMINN_000_081	Pensar que todos nos esperan detrás de esas puertas. Amigos y familia con los que compartimos tanto...
+TEXT_HEAVNC101_02231_FLHAMINN_000_082	...Que los dioses me ayuden, cuanto más vieja me pongo, más sentimental me vuelvo. Vamos, no los hagamos esperar.
+TEXT_HEAVNC101_02231_ALPHINAUD_000_090	Y ahí están, por fin. Gracias a los Twelve...
+TEXT_HEAVNC101_02231_TATARU_000_095	¡No hay nada como un regreso para levantarle el ánimo a todos! Gracias por traerlos, <split(<string(gstr1)>, ,1)>.
+TEXT_HEAVNC101_02231_ALIANNE_000_100	Cuando nuestros compañeros nos traicionaron, temí que todo estaba perdido. ¡Qué equivocada estaba!
+TEXT_HEAVNC101_02231_EPHEMIE_000_105	¡Hay que avisarles a los niños de inmediato! Siempre quisieron mucho a Hoary.
+TEXT_HEAVNC101_02231_BLUOMWYDA_000_110	Me preocupa que Aergmhus se esté entusiasmando de más, pero supongo que por esta vez puedo pasarlo por alto.
+TEXT_HEAVNC101_02231_ISILDAURE_000_115	Sí, sí, ya me lo contó todo Alianne. Entonces, ¿dónde está? ¡Si voy a saludar a la Songstress of Ul'dah, quiero hacerlo de pie!
+TEXT_HEAVNC101_02231_OCHERBOULDER_000_120	¡Hurra! ¡Volvió! ¡Juntos, mi hermano y yo serviremos a los Scions hasta que despunte un <italic(1)>octavo<italic(0)> amanecer!
+TEXT_HEAVNC101_02231_AENOR_000_125	Ay, ay. Qué difícil decidir...
+TEXT_HEAVNC101_02231_CLEMENCE_000_130	¡Primero Ocher, y ahora Hoary! Un capricho pasajero lo podía soportar, pero ¡¿<italic(1)>esto<italic(0)>?! ¡No tiene remedio! ¡Ningún remedio!
+TEXT_HEAVNC101_02231_VMAHTIA_000_135	¿Esa es la Lady F'lhaminn de la que tanto oí hablar? ¡Vaya, vaya! Tendré que presentarme.
+TEXT_HEAVNC101_02231_FLHAMINN_000_140	¡Alianne, Ephemie! Me llena el corazón de alegría verlas a las dos sanas y salvas. ¿Y Higiri?
+TEXT_HEAVNC101_02231_EPHEMIE_000_141	Está bien, aunque ahora está fuera en una misión.
+TEXT_HEAVNC101_02231_ALIANNE_000_142	No era lo mismo sin usted. ¡Bienvenida de vuelta, mi señora!
+TEXT_HEAVNC101_02231_FLHAMINN_000_150	Alabados sean los Twelve, tantos siguen con nosotros...
+TEXT_HEAVNC101_02231_AERGMHUS_000_160	¡Ah, eso es lo que hace falta por aquí! ¡Reencuentros emotivos con compañeros leales! Me hace─\<eructo>─¡me hace saltar una maldita lágrima!
+TEXT_HEAVNC101_02231_AERGMHUS_000_170	¡Genial, condenadamente genial! \<eructo>
+TEXT_HEAVNC101_02231_HOUMEI_000_180	Esconderse en la bodega de un barco para llegar a salvo a una tierra lejana... Es una historia que conocemos demasiado bien.
+TEXT_HEAVNC101_02231_HOUMEI_000_181	Cuando hayan descansado, me gustaría que nos presentaran como corresponde.
+TEXT_HEAVNC101_02231_ISILDAURE_000_182	¿Para qué esperar, amigo mío? ¡Vamos, no hay por qué ser tímido!
+TEXT_HEAVNC101_02231_HOUMEI_000_183	¡Concédame al menos un momento más! Aunque con gusto lo complacería, mis piernas son bastante menos complacientes...
+TEXT_HEAVNC101_02231_HOUMEI_000_190	Isildaure tiene el espíritu de un hombre de la mitad de su edad. Imagino que a su nieta le costaba seguirle el paso.
+TEXT_HEAVNC101_02231_HOARYBOULDER_000_200	¡Ocher! ¿Qué rayos trajo a mi hermanito a Mor Dhona?
+TEXT_HEAVNC101_02231_OCHERBOULDER_000_201	¡Pues tú, hermano! ¡Tú y los Scions, por supuesto! ¡Entrené mil días para volverme tan fuerte como tú, para pelear a tu lado!
+TEXT_HEAVNC101_02231_OCHERBOULDER_000_202	Pero ahora que estás aquí, siento que me volviste a superar... No, no me lo digas: entrenaste con los hannish, ¿verdad?
+TEXT_HEAVNC101_02231_HOARYBOULDER_000_203	¡Tus ojos no te engañan, hermano! ¡Sí, estudié las Trials of the Braves y bebí hasta el fondo de las almas de mis enemigos!
+TEXT_HEAVNC101_02231_HOARYBOULDER_000_210	¡Un reencuentro inesperado, pero bienvenido! Y además, un desafío. No puedo dejar que me supere mi hermanito, no señor. ¡No después de haber llegado tan lejos!
+TEXT_HEAVNC101_02231_COULTENET_000_220	Aunque me alegra estar en casa, no puedo dejar de pensar en los que todavía no volvieron...
+TEXT_HEAVNC101_02231_COULTENET_000_221	Cuando nos hayamos instalado, quiero sumarme a la búsqueda.
+TEXT_HEAVNC101_02231_COULTENET_000_230	Todos tenemos que cumplir con nuestro deber, y yo no soy la excepción. Nuestros hermanos y hermanas cuentan con nosotros.
+TEXT_HEAVNC101_02231_TATARU_000_240	Hacía tanto que no los veía a todos así.
+TEXT_HEAVNC101_02231_ALPHINAUD_000_241	Demasiado...
+TEXT_HEAVNC101_02231_ALPHINAUD_000_242	Fue el caos nacido de mi ambición necia lo que los obligó a huir.
+TEXT_HEAVNC101_02231_ALPHINAUD_000_243	Aunque ellos volvieron, todavía faltan otros... otros a los que no podemos abandonar.
+TEXT_HEAVNC101_02231_TATARU_000_244	¡Los vamos a encontrar, Alphinaud, estoy segura! Minfilia, Yda, Papalymo... ¡hasta el último!
+TEXT_HEAVNC101_02231_TATARU_000_245	Y cuando crucen esas puertas, vamos a estar aquí para darles la bienvenida.
+TEXT_HEAVNC101_02231_TATARU_000_246	¡Conmigo al frente de la fila, por supuesto!
