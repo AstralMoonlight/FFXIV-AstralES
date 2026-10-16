@@ -1,0 +1,57 @@
+key	text
+TEXT_STMBDA620_02546_SEQ_00	Raubahn quiere contarles una historia.
+TEXT_STMBDA620_02546_SEQ_01	Lyse, que hace poco asumió el liderazgo de la Ala Mhigan Resistance, todavía lucha con el peso de sus nuevas responsabilidades. Al verlo, Raubahn los invita a los dos a acompañarlo a Coldhearth, una aldea pobre y sin importancia que, según revela, es donde pasó su infancia. Allí les cuenta de su vida antes de la ocupación imperial, cuando un soldado al que mandaron del frente a recuperarse oyó por primera vez las palabras de un agitador revolucionario...<br><br>Perdido en un recuerdo de hace décadas, ves al padre de Lyse dar un discurso ante una multitud de alamhiganos que lo vitorean, entre ellos Raubahn Aldynn e Ilberd Feare, por entonces grandes amigos. Después, el revolucionario se reúne con Raubahn y le aconseja recordar que la libertad no debe ser un fin en sí mismo, porque es solo una oportunidad de construir algo mejor... y el trabajo nunca termina.<br><br>"Libertad o muerte", repite Raubahn: el credo de Curtis Hext y sus compañeros. Con solemnidad, le pregunta a Lyse si jurará por esas palabras, y ella lo hace... aunque se apura a agregar que la libertad que anhela tiene que ser para todos los hijos e hijas de Ala Mhigo, incluso para los que rechazan la causa. La nación que construyan tiene que ser un hogar para todos ellos, insiste, y Raubahn no puede más que estar de acuerdo.
+TEXT_STMBDA620_02546_SEQ_02	El Flame General explica que veía que Lyse no era la misma, y que la trajo a Coldhearth para recordarle por qué eligió el camino que recorre ahora. Satisfecho de que recuperó su determinación, les permite volver sin él, porque quiere quedarse un rato más...
+TEXT_STMBDA620_02546_SEQ_03	Lyse conoce bien la sensación de volver a casa después de una larga ausencia, y está más que dispuesta a dejar al General Aldynn a solas con sus pensamientos. Juntos salen de Coldhearth y viajan al norte.
+TEXT_STMBDA620_02546_SEQ_04	Lyse te lleva aparte un momento, porque siente que los están vigilando. Te sugiere que se separen y vayan cada uno hacia Radiata, con los ojos bien abiertos por si ven gente sospechosa.
+TEXT_STMBDA620_02546_SEQ_05	La banda de jóvenes alamhiganos que los observaba a ti y a Lyse desde lejos entra en pánico cuando te acercas, toma las armas y carga, al parecer decidida a matarte o reducirte. Es el último error que cometerán.
+TEXT_STMBDA620_02546_SEQ_06	Encuentras a Lyse de pie junto a los cadáveres de varios jóvenes no muy distintos de los que tuviste que matar. Con un sobresalto, los reconoce de Radiata, y concluye que deben de haberlos marcado como insurgentes cuando buscaban a Stark Woad. Temiendo por la seguridad de Alphinaud y Alisaie, sale corriendo hacia el asentamiento cercano tan rápido como le dan las piernas.
+TEXT_STMBDA620_02546_SEQ_07	En Radiata, M'naago te asegura que los mellizos no corren peligro, y Alphinaud pronto llega con Stark Woad, lo que termina de disipar tus temores. La agente de la Alliance explica que muchos jóvenes que solo conocieron la ocupación no están dispuestos a confiar en la Resistance, y prefieren intentar ganarse el favor de los imperiales capturando o matando a enemigos del Empire. Por desgracia, hasta que marchen sobre Ala Mhigo y derroten a Zenos de una vez por todas, esa gente desesperada seguirá siendo una amenaza para ti y los tuyos.
+TEXT_STMBDA620_02546_TODO_00	Habla con Raubahn.
+TEXT_STMBDA620_02546_TODO_01	Habla con Lyse.
+TEXT_STMBDA620_02546_TODO_02	Sigue a Lyse.
+TEXT_STMBDA620_02546_TODO_03	Busca gente sospechosa en el camino a Radiata.
+TEXT_STMBDA620_02546_TODO_04	Reúnete con Lyse.
+TEXT_STMBDA620_02546_TODO_05	Habla con M'naago.
+TEXT_STMBDA620_02546_RAUBAHN_100_001	<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>)>)>, Lyse: los traje aquí por un motivo...
+TEXT_STMBDA620_02546_LYSE_100_005	No creo conocer esta aldea. Es tan chiquita...
+TEXT_STMBDA620_02546_SERPENTOFFICER_100_010	Me dicen que uno de sus compañeros resultó herido durante la operación. Si hay algo que podamos hacer para ayudar, no duden en pedirlo.
+TEXT_STMBDA620_02546_LYSE_000_001	"Libertad o muerte". ¿De verdad hace veinte años que escribió esas palabras...?
+TEXT_STMBDA620_02546_RAUBAHN_000_010	Hasta un ciego habría visto que Lyse no era la misma. No es que no la entienda.
+TEXT_STMBDA620_02546_RAUBAHN_000_011	Que te pongan en un puesto de autoridad en estas circunstancias, que te hagan responsable de la vida de tantos... No es fácil. Y cuando ves caer a tu amiga delante de tus ojos, se vuelve más difícil. Apuesto a que por un momento creyó que Alisaie había muerto.
+TEXT_STMBDA620_02546_RAUBAHN_000_012	Una cosa es arriesgar la vida por una causa. Pero arriesgar la de otro es una carga que ningún soldado está de verdad preparado para llevar.
+TEXT_STMBDA620_02546_RAUBAHN_000_013	El miedo, la culpa... le pesan. Y eso es bueno. La va a hacer mejor comandante.
+TEXT_STMBDA620_02546_RAUBAHN_000_014	Pero primero tiene que aprender a cargar con eso. A no dejar que la quiebre. A recordar que hay causas por las que vale la pena pelear.
+TEXT_STMBDA620_02546_RAUBAHN_000_015	"Libertad o muerte". Las palabras de su padre me dieron fuerza una vez. Quizá ahora hagan lo mismo por ella.
+TEXT_STMBDA620_02546_RAUBAHN_000_016	Bien, entonces. Creo que ya dije suficiente. Ustedes dos pueden volver. Yo pienso quedarme un rato más...
+TEXT_STMBDA620_02546_RAUBAHN_000_020	...Veinte malditos años. \<suspiro> No tenía por qué ser así. Podríamos haber recorrido este camino juntos...
+TEXT_STMBDA620_02546_LYSE_000_030	...Lo entiendo. Estuvo lejos mucho tiempo, y seguramente quiere estar solo un rato.
+TEXT_STMBDA620_02546_LYSE_000_031	Volvamos a Radiata.
+TEXT_STMBDA620_02546_LYSE_000_040	Espera... ¿Soy la única que siente que nos están vigilando?
+TEXT_STMBDA620_02546_LYSE_000_041	No sé si son imperiales o bandidos, pero sé que son más de uno.
+TEXT_STMBDA620_02546_LYSE_000_042	Separémonos. Tú ve al noroeste, y yo al noreste. Quizá me equivoque, pero no creo...
+TEXT_STMBDA620_02546_HIGHLANDER_000_050	¡Por los siete infiernos, nos vio! ¡Al diablo: para los imperiales, muerto vale lo mismo que vivo!
+TEXT_STMBDA620_02546_POP_MESSAGE	¡Sientes una presencia desesperada!
+TEXT_STMBDA620_02546_LYSE_000_060	A ti también te atacaron, ¿no? Yo... no tuve opción...
+TEXT_STMBDA620_02546_LYSE_000_061	Son alamhiganos... ni siquiera reclutas, por lo que se ve. Apenas adultos. De hecho, algunas caras me resultan conocidas...
+TEXT_STMBDA620_02546_LYSE_000_062	Un momento, ya me acuerdo. ¡Son de Radiata! ¡Deben de habernos visto cuando buscábamos a Stark!
+TEXT_STMBDA620_02546_LYSE_000_063	Seguramente pensaron que los imperiales los recompensarían si nos capturaban o nos mataban...
+TEXT_STMBDA620_02546_LYSE_000_064	Ay, dioses... ¡Alisaie y Alphinaud también podrían estar en peligro! ¡Tenemos que volver a Radiata y encontrar a Naago!
+TEXT_STMBDA620_02546_MNAAGO_000_070	¿Qué pasa? Ustedes dos parecen listos para pelear.
+TEXT_STMBDA620_02546_LYSE_000_071	Nos emboscaron unos aldeanos afuera de Radiata, y pensamos que quizá intentaran atacarlos a ustedes también. ¿Están bien?
+TEXT_STMBDA620_02546_MNAAGO_000_072	Sí, estamos bien. Los mellizos están en lo de Stark. La última vez que me fijé, Alisaie dormía.
+TEXT_STMBDA620_02546_MNAAGO_000_073	Perdón, ¿dijeron que los emboscaron unos <italic(1)>aldeanos<italic(0)>? ¿No soldados? ¿No vieron lo que acabamos de hacerle a Castrum Abania? ¡Malditos tontos!
+TEXT_STMBDA620_02546_STARKWOAD_000_074	Lyse, <split(<string(gstr1)>, ,1)>. Los oímos hablar...
+TEXT_STMBDA620_02546_STARKWOAD_000_075	Los que los atacaron. ¿Eran jóvenes? ¿De menos de veinte años?
+TEXT_STMBDA620_02546_STARKWOAD_000_076	Sí, me lo imaginaba. Siempre son los jóvenes: los que solo conocieron la ocupación. Con esos hay que tener cuidado.
+TEXT_STMBDA620_02546_STARKWOAD_000_077	Verán, el único trabajo decente que hay en Radiata es para los imperiales, y todo el mundo lo sabe. Los niños crecen sabiéndolo. Les meten en la cabeza a golpes que lo mejor a lo que pueden aspirar es a servir a un oficial imperial.
+TEXT_STMBDA620_02546_MNAAGO_100_077	¡Malditos tontos! ¡Después de todo lo que nos vieron lograr! ¡Deberían estar rogando por pelear para la Resistance, no contra nosotros!
+TEXT_STMBDA620_02546_STARKWOAD_000_078	Vivieron toda su vida a la sombra de un castrum. Unas pocas victorias no van a cambiar eso. Sí, hay algunos que se mueren de ganas de escupirle en el ojo a un soldado, pero los muelen a palos por eso, o algo peor...
+TEXT_STMBDA620_02546_MNAAGO_100_078	Aun así...
+TEXT_STMBDA620_02546_STARKWOAD_000_079	...Y los que no se defienden pero se niegan a rogar, bueno, simplemente se mueren de hambre. Al perro que muerde la mano de su amo se lo golpea, y al que se niega a obedecer se lo ignora, ¿ven?
+TEXT_STMBDA620_02546_STARKWOAD_000_080	Al final, los que aprenden a aguantar son los que sobreviven.
+TEXT_STMBDA620_02546_STARKWOAD_000_081	Ahora, ustedes dirán que todo eso está por cambiar, y les creo. Muchos aquí les creen.
+TEXT_STMBDA620_02546_STARKWOAD_100_081	Pero un joven que creció conociendo solo eso tiene todos los motivos para dudar. Recuérdenlo. Hagan lo que tengan que hacer, si llega el caso, pero recuérdenlo.
+TEXT_STMBDA620_02546_ALPHINAUD_000_082	Cuanto antes liberemos Ala Mhigo y terminemos con la ocupación, mejor. Solo entonces podremos mostrarles a estos jóvenes que las cosas no tienen por qué ser así.
+TEXT_STMBDA620_02546_LYSE_000_083	...Solo entonces sabrán lo que significa vivir en libertad.
+TEXT_STMBDA620_02546_LYSE_000_084	Vamos a construirnos un nuevo hogar. Juntos. Un hogar mejor que cualquiera que hayan conocido.

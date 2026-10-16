@@ -1,0 +1,37 @@
+key	text
+TEXT_STMBDA138_02468_SEQ_00	Alphinaud piensa en cómo podrían pasar el tiempo...
+TEXT_STMBDA138_02468_TODO_00	Habla con Lyse en Revenant's Toll.
+TEXT_STMBDA138_02468_TODO_01	Habla con los domanos en los Rising Stones.
+TEXT_STMBDA138_02468_TODO_02	Habla con Lyse en Revenant's Toll.
+TEXT_STMBDA138_02468_LYSE_000_001	No estoy segura de qué acaba de pasar. Habría jurado que estaba por rechazarnos, pero después... ¿cambió de opinión?
+TEXT_STMBDA138_02468_ALISAIE_000_005	(Chantaje, ¿eh? Es un juego peligroso el que están jugando esos dos... ¿Qué garantía tenemos de que Carvallain no nos va a tirar por la borda?)
+TEXT_STMBDA138_02468_TATARU_000_010	El pobre muchachito apenas tenía catorce años cuando se fue de Ishgard. ¿Te imaginas lo que habrá sentido? ¿Por fin libre para explorar el mundo, sin deberle nada a todas esas tradiciones anticuadas de la Holy See?
+TEXT_STMBDA138_02468_TATARU_000_015	Qué lástima que nunca volviera a casa. Sin él, el conde de Durendaire tiene que buscar un sucesor en otra parte... y el buen Lord Jannequinard está un paso más cerca de ser el siguiente en la línea...
+TEXT_STMBDA138_02468_ALPHINAUD_000_020	Propongo que sigamos el consejo del capitán y nos ocupemos de nuestros propios preparativos mientras ellos alistan el barco para partir.
+TEXT_STMBDA138_02468_ALPHINAUD_000_021	Tataru y yo conseguiremos los suministros necesarios. Alisaie... te agradecería que aprovecharas el tiempo para poner a Urianger al tanto de lo último. Quizá también quieras repasar los procedimientos de seguridad en caso de una emergencia en el mar.
+TEXT_STMBDA138_02468_ALISAIE_000_022	Qué... qué prudente de tu parte. Muy bien, iré a hablar con él. ¿Y <split(<string(gstr1)>, ,1)> y Lyse?
+TEXT_STMBDA138_02468_ALPHINAUD_000_023	Me gustaría que ustedes dos volvieran a Revenant's Toll y hablaran con nuestros aliados domanos. Me temo que sabemos demasiado poco de su patria, y cualquier información que puedan darnos sería muy bienvenida.
+TEXT_STMBDA138_02468_ALPHINAUD_000_024	Cuando terminemos cada uno con lo suyo, nos reuniremos aquí, en los muelles del ferry. ¿De acuerdo?
+TEXT_STMBDA138_02468_LYSE_000_025	¡Me parece un buen plan! ¡Vamos, <split(<string(gstr1)>, ,1)>!
+TEXT_STMBDA138_02468_LYSE_000_030	Bueno, aquí estamos. Vamos a tener que hablar con mucha gente, así que creo que deberíamos separarnos.
+TEXT_STMBDA138_02468_LYSE_000_031	Yo pregunto en la House of Splendors. Tú encárgate de los Rising Stones. Nos vemos aquí después. ¿Entendido?
+TEXT_STMBDA138_02468_HOMEI_000_040	¿De verdad piensan viajar a Doma? Yo... no sé qué decir...<br>Perdóneme. Lo ayudaré en todo lo que pueda.
+TEXT_STMBDA138_02468_HOMEI_000_041	La nuestra es una tierra hermosa, en la costa este de Othard. A orillas del One River, nuestra nación prosperó, orgullosa y libre, hasta que llegaron los garleans, hace veinticinco años...
+TEXT_STMBDA138_02468_HOMEI_000_042	El río era nuestra savia: libre para viajar y para pescar... pero pronto restringieron el paso, y ahora el río no es de nadie...
+TEXT_STMBDA138_02468_HOMEI_000_045	Recuerdo sentarme de niña a orillas del One River, mirando pasar los botes de pesca...
+TEXT_STMBDA138_02468_HOMEI_000_050	Pero ahora el One River está cerrado para todos. Las Moon Gates no se abren para nadie.
+TEXT_STMBDA138_02468_HIGIRI_100_060	Saludos, <split(<string(gstr1)>, ,1)>. ¿Qué lo trae al Toll <if([gnum11<12],<if([gnum11<4],esta noche,hoy)>,<if([gnum11<17],hoy,esta noche)>)>?
+TEXT_STMBDA138_02468_HIGIRI_000_060	¿Qué? ¿Va a Doma? Cielos... Los Scions no nos mostraron más que bondad, pero ni en mis sueños más locos imaginé que pelearían por nuestra patria...
+TEXT_STMBDA138_02468_HIGIRI_000_061	Durante veinticinco años sufrimos bajo su tiranía. Y entonces vimos una oportunidad: ¡el emperador, muerto! ¡Garlemald en el caos!
+TEXT_STMBDA138_02468_HIGIRI_000_062	Parecía que era el momento. Nos reunimos bajo los estandartes de nuestro señor y peleamos para recuperar nuestra nación. Pero cuando Zenos llegó con la XIIth Legion, todo terminó en un instante...
+TEXT_STMBDA138_02468_HIGIRI_000_065	Lord Kaien era un buen hombre al que solo le importaba su pueblo. Aunque le dolía arrodillarse ante Garlemald, lo hizo por nosotros. Y por nosotros habría soportado esa ignominia otros veinticinco años de buena gana, si no le hubiéramos suplicado que actuara.
+TEXT_STMBDA138_02468_HIGIRI_000_070	Pero lo convencimos de que podíamos ganar. De que podíamos derrotar a Zenos y al Empire. Y por nuestro fracaso, pagó el precio más alto...
+TEXT_STMBDA138_02468_HOZAN_100_080	¿Hm? ¿Qué sucede, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>? Parece que quiere preguntarme algo.
+TEXT_STMBDA138_02468_HOZAN_000_080	¡Que vaya a unirse a Yugiri y a Gosetsu en la lucha me llena de alegría! Ah, perdone mi entusiasmo. Necesita información, ¿no?
+TEXT_STMBDA138_02468_HOZAN_000_081	Los del clan Nagae servimos fielmente a Doma durante generaciones. Mis antepasados hasta ocuparon cargos en Doma Castle. Ahora es el hogar de la bruja del virrey imperial y de su horda de hombres y magitek.
+TEXT_STMBDA138_02468_HOZAN_000_082	Pensar que lo que fue el símbolo resplandeciente de nuestra herencia, y la sede del querido Lord Kaien, se convirtió en una guarida de perros garleans...
+TEXT_STMBDA138_02468_HOZAN_000_085	Doma fue casi borrada de la faz de Othard. Solo Doma Castle, sede de nuestro señor y símbolo de todo lo que fuimos, se salvó de los estragos de la guerra.
+TEXT_STMBDA138_02468_HOZAN_000_090	Pero, por más bendición que sea, pensar en esa bruja y sus aduladores adueñándose de él me llena de una ira indescriptible...
+TEXT_STMBDA138_02468_LYSE_000_100	¡Ah, ahí estás! ¿Aprendiste algo interesante? Los domanos mayores con los que hablé intentaron enseñarme todo sobre las costumbres del Lejano Oriente y la importancia de la formalidad y la cortesía...
+TEXT_STMBDA138_02468_LYSE_000_101	Me gustaría pensar que los eorzeanos podemos ser igual de rígidos y estirados que cualquiera, sobre todo los ishgardianos, pero bueno... ¿Sabías que comen con <italic(1)>palitos<italic(0)>? La verdad, no era tan difícil... o eso creía, hasta que me dijeron que los estaba agarrando mal. Y después, cuando hablé con los domanos más jóvenes, pusieron los ojos en blanco y me dijeron que todo eso era un montón de viejas tonterías... ¿Hm?
+TEXT_STMBDA138_02468_LYSE_000_102	Vaya... Lo que aprendiste tú suena <italic(1)>mucho<italic(0)> más útil. A menos que alguien nos invite a cenar, claro. Ojalá lo hagan.

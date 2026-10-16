@@ -1,0 +1,20 @@
+key	text
+TEXT_STMBDA619_02545_SEQ_00	Raubahn quiere agradecerte tu servicio.
+TEXT_STMBDA619_02545_TODO_00	Sigue a Raubahn hasta Coldhearth.
+TEXT_STMBDA619_02545_SERPENTOFFICER_000_001	Me dicen que uno de sus compañeros resultó herido durante la operación. Si hay algo que podamos hacer para ayudar, no duden en pedirlo.
+TEXT_STMBDA619_02545_LYSE_000_005	...Quizá deberíamos hablar con el General Aldynn. Por si sus hombres averiguaron algo de Krile.
+TEXT_STMBDA619_02545_RAUBAHN_000_010	<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>)>)>, comandante Hext. Hicieron un gran trabajo hoy.
+TEXT_STMBDA619_02545_RAUBAHN_000_011	Después de Specula Imperatoris, necesitábamos una victoria rotunda como esta. Gracias a ustedes, la estrella de Rhalgr todavía brilla con fuerza.
+TEXT_STMBDA619_02545_LYSE_000_012	Me alegra, de verdad. Pero tiene que saber que Alisaie resultó herida en la pelea...
+TEXT_STMBDA619_02545_RAUBAHN_000_013	...Lamentable, pero me alegra saber que se recuperará por completo. Las palabras de despedida de Fordola, en cambio, no me suenan tan bien.
+TEXT_STMBDA619_02545_RAUBAHN_000_014	¡Pero si Zenos quiere invitarnos a su supuesta "cacería real", este toro aceptará con gusto!
+TEXT_STMBDA619_02545_RAUBAHN_000_015	...¿Qué te preocupa, Lyse?
+TEXT_STMBDA619_02545_LYSE_000_016	A-Ah, no es nada, de verdad, solo que... ya casi llegamos al final, pero todavía tenemos que salvar a Krile y hacer tantas otras cosas...
+TEXT_STMBDA619_02545_RAUBAHN_000_017	La encontraremos pronto. Pipin tiene a sus mejores hombres revisando los archivos del castrum mientras hablamos.
+TEXT_STMBDA619_02545_LYSE_100_017	...
+TEXT_STMBDA619_02545_RAUBAHN_000_018	...Escucha, Lyse. Nos llevará tiempo ocupar el castrum del todo y prepararnos para avanzar hacia los Lochs. Mientras esperamos, hay algo que quiero mostrarte. A los dos.
+TEXT_STMBDA619_02545_RAUBAHN_000_019	Después de todo, quizá sea nuestra última oportunidad de tomar aire antes del empujón final.
+TEXT_STMBDA619_02545_LYSE_000_020	No veo por qué no...
+TEXT_STMBDA619_02545_RAUBAHN_000_021	Entonces vengan conmigo a Radiata. Desde ahí tendremos que seguir otro camino hacia el sur.
+TEXT_STMBDA619_02545_LYSE_000_035	No creo conocer esta aldea. Es tan chiquita...
+TEXT_STMBDA619_02545_RAUBAHN_000_040	Después de tantos años, sigue igual... Ah, pero me estoy adelantando. Se merecen una bienvenida como corresponde.

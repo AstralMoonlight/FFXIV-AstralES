@@ -1,0 +1,46 @@
+key	text
+TEXT_STMBDA613_02539_SEQ_00	La pregunta de cómo seguir sin Conrad le pesa mucho a Alphinaud.
+TEXT_STMBDA613_02539_TODO_00	Habla con Raubahn.
+TEXT_STMBDA613_02539_TODO_01	Habla con Lyse.
+TEXT_STMBDA613_02539_LYSE_000_001	Nos toca a todos seguir en su lugar. Me toca a mí...
+TEXT_STMBDA613_02539_MNAAGO_000_005	Sabía que íbamos a perder gente haciendo esto, pero ¿<italic(1)>a él<italic(0)>...? Estaba segura de que el viejo oso nos iba a sobrevivir a todos.
+TEXT_STMBDA613_02539_ALISAIE_000_010	Hice lo que pude por los que encontré en el camino... pero algunos ya no tenían salvación.
+TEXT_STMBDA613_02539_RAUBAHN_000_015	...No hace falta que lo digas. Me enteré.
+TEXT_STMBDA613_02539_PIPIN_000_020	Perdimos a muchos hombres dentro de la torre. Las bajas siguen aumentando entre los que sobrevivieron.
+TEXT_STMBDA613_02539_SERPENTOFFICER_000_025	Ya le avisaron a la Elder Seedseer. Por la gracia de la Matron, quizá todavía podamos salvar más vidas...
+TEXT_STMBDA613_02539_STORMOFFICER_000_030	Existan las "reglas de la guerra" que existan, ese malnacido las rompió todas. ¡Esto no va a quedar así!
+TEXT_STMBDA613_02539_ALPHINAUD_000_040	Todas las unidades de la Alliance y la Resistance ya se retiraron de Specula Imperatoris. Es hora de hablar con el General Aldynn.
+TEXT_STMBDA613_02539_RAUBAHN_000_050	...Estas muertes me pesan en el alma. La del comandante Kemp, más que ninguna.
+TEXT_STMBDA613_02539_RAUBAHN_000_051	Fue un líder sabio. Fue un patriota. Pero, sobre todo, fue un buen hombre al que vamos a extrañar mucho. Uno de los muchos que perdimos hoy. Les pido un momento de silencio para rezar por las almas de los que se fueron.
+TEXT_STMBDA613_02539_RAUBAHN_000_052	Sufrimos una derrota dolorosa. Pero no podemos ni vamos a renunciar a esta causa. La suerte está echada.
+TEXT_STMBDA613_02539_RAUBAHN_000_053	Aférrense a este dolor, a esta ira, y dejen que los impulse hacia adelante. Que sea su fuerza y su escudo la próxima vez que enfrenten al enemigo.
+TEXT_STMBDA613_02539_ALPHINAUD_000_054	Nos llevará lejos, General. De eso no tengo dudas.
+TEXT_STMBDA613_02539_ALPHINAUD_000_055	Pero antes de dar otro paso hacia Ala Mhigo, primero tenemos que resolver cómo ocuparnos del cañón de Castrum Abania. Si los imperiales están dispuestos a usar el arma sin pensar en la seguridad de sus propios soldados, quizá nos cueste acercarnos.
+TEXT_STMBDA613_02539_ALISAIE_000_056	Un asalto frontal está descartado. Perderíamos a incontables hombres antes siquiera de llegar a los muros.
+TEXT_STMBDA613_02539_PIPIN_000_057	¿Seguro? Recuerden que los imperiales podrían haber aniquilado nuestras fuerzas si hubieran seguido disparando, pero no lo hicieron.
+TEXT_STMBDA613_02539_PIPIN_100_057	No tenían ningún motivo estratégico para dejar de disparar, lo que plantea la pregunta: ¿por qué lo hicieron?
+TEXT_STMBDA613_02539_ALPHINAUD_000_058	...Sospecha que <italic(1)>no pudieron<italic(0)> volver a disparar el cañón. ¿Quizá por una falla?
+TEXT_STMBDA613_02539_PIPIN_000_059	O uno de sus oficiales encontró su conciencia después de la primera andanada. O alguna facción desconocida de la Resistance eligió ese momento para inutilizarlo.
+TEXT_STMBDA613_02539_PIPIN_100_059	Hay muchas posibilidades, pero lo cierto es que pararon cuando la lógica decía que siguieran.
+TEXT_STMBDA613_02539_LYSE_000_060	Entonces voy a tener que ir a ver con mis propios ojos si el cañón todavía funciona.
+TEXT_STMBDA613_02539_MNAAGO_000_061	¿Estás loca? ¡Conrad te dejó a cargo de la Resistance! ¡No podemos arriesgarnos a perder a otro comandante tan pronto!
+TEXT_STMBDA613_02539_LYSE_000_062	Sé cómo te sientes, Naago, de verdad. Pero necesito que entiendas...
+TEXT_STMBDA613_02539_LYSE_100_062	Poco después de que Papalymo y yo llegáramos a Rhalgr's Reach, Conrad me pidió por primera vez que me uniera a la Resistance. Y después siguió pidiéndomelo.
+TEXT_STMBDA613_02539_LYSE_200_062	Cada vez que le decía que no, me decía a mí misma que era por los Scions. Pero incluso entonces, en el fondo sabía que era una excusa. Que todavía tenía miedo de seguir a mi corazón, porque no podía estar segura de si era por mí o por Yda.
+TEXT_STMBDA613_02539_LYSE_000_063	Pero entonces conocí a alguien, del otro lado del mundo, que había luchado con las mismas dudas. Y mientras viajábamos y peleábamos juntos, lo vi crecer y convertirse en el líder que su pueblo necesitaba.
+TEXT_STMBDA613_02539_LYSE_000_064	Y ahora me toca a mí hacer lo mismo.
+TEXT_STMBDA613_02539_LYSE_100_064	No quedamos muchos, y de los que quedamos, muchos todavía están heridos. Tenemos que arreglarnos con lo que hay, y yo soy la más indicada. Así de simple. Pero no te preocupes, Naago. Voy a volver. Te lo prometo.
+TEXT_STMBDA613_02539_RAUBAHN_000_066	Aunque reconozco el derecho de la comandante Hext a llevar a cabo esta misión, no veo por qué tendría que hacerlo sola. <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>)>)>, ¿irías con ella?
+TEXT_STMBDA613_02539_Q1_000_120	¿Qué dices?
+TEXT_STMBDA613_02539_A1_000_121	Lo habría hecho aunque no me lo pidiera, señor.
+TEXT_STMBDA613_02539_A1_000_122	Supongo que alguien tiene que mantenerla lejos del peligro...
+TEXT_STMBDA613_02539_RAUBAHN_000_067	Entonces está decidido. Esperaremos su regreso.
+TEXT_STMBDA613_02539_MNAAGO_000_070	Conrad me confió que estaba pensando en nombrarla su sucesora, así que no me tomó del todo por sorpresa. Digo, igual me sorprendió, pero nunca dudé de su criterio. Ninguno de nosotros. Si él pensaba que Lyse era la mejor opción, entonces lo es.
+TEXT_STMBDA613_02539_ALISAIE_000_075	(¿Cuándo se convirtió <italic(1)>Lyse<italic(0)> en líder de la Resistance? Eso... eso es... Mmm. Supongo que esto también se lo debemos a Hien).
+TEXT_STMBDA613_02539_ALPHINAUD_000_080	Entiendo la preocupación de M'naago. Si perdieran a otro líder tan poco después de perder a Conrad, la Resistance quizá nunca se recuperaría.
+TEXT_STMBDA613_02539_RAUBAHN_000_085	(Más que una niñera, ahora necesita una amistad. Quédate cerca de ella).
+TEXT_STMBDA613_02539_PIPIN_000_090	Uno no puede evitar preguntarse cómo verán a sus líderes los soldados rasos de la XIIth Legion cuando se enteren de lo que le pasó a Specula Imperatoris.
+TEXT_STMBDA613_02539_SERPENTOFFICER_000_095	Por sombrío que sea, los conjurers no tuvieron más remedio que imponer un sistema de triaje estricto para atender a los heridos. Dadas las circunstancias, tenemos que ser realistas.
+TEXT_STMBDA613_02539_STORMOFFICER_000_100	Recuerden lo que digo: cuando esto termine, voy a cortarles la cabeza a todos los oficiales de Castrum Abania. ¡Voy a blandir yo mismo el maldito hacha si hace falta!
+TEXT_STMBDA613_02539_LYSE_000_110	...Perdón por meterte en esto, <split(<string(gstr1)>, ,1)>.
+TEXT_STMBDA613_02539_LYSE_000_111	Quizá no sea la decisión que habría tomado Conrad... pero yo no soy Conrad. Nunca lo voy a ser. No sé qué clase de líder esperaba él, pero ahora mismo lo único que puedo hacer es ser yo misma...

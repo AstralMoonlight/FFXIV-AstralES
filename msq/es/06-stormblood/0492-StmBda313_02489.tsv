@@ -1,0 +1,43 @@
+key	text
+TEXT_STMBDA313_02489_SEQ_00	Puede que Alisaie no tenga el mejor plan, pero tiene el único.
+TEXT_STMBDA313_02489_SEQ_01	Tus esfuerzos por sembrar el caos en la Isle of Zekki y alejar a los Kojin Red de sus amos imperiales superaron todas las expectativas. Por desgracia, por razones que se te escapan, dos de los tesoros sagrados guardados en la cámara de la isla "reaccionaron" ante la presencia de la Yasakani<-->no<-->Magatama e invocaron desde el aether al gran kami Susano: un primal con otro nombre. Aunque tú y tus compañeras al principio huyeron para ponerse a salvo, está claro que no pueden dejar al kami así nomás, así que Alisaie te pide que vuelvas a la cámara y hagas lo que mejor sabes hacer.
+TEXT_STMBDA313_02489_SEQ_02	Ante la puerta de la cámara, te preparas para el enfrentamiento que se avecina. Qué suerte que tuviste la sabiduría y la previsión de invitar a varios de tus compañeros aventureros a este viaje al Lejano Oriente, y qué amables fueron al aceptar ayudarte a atormentar a los Kojin Red, porque ningún guerrero, por bendecido o poderoso que sea, podría esperar matar a un primal por sí sol<if(gnum4,a,o)>, digan lo que digan algunos juglares errantes.<br><br>※Se puede entrar al Pool of Tribute mediante el Duty Finder.
+TEXT_STMBDA313_02489_SEQ_03	El gran kami ya no existe, y una vez más te separas de tus leales compañeros aventureros, siempre a mano y, sin embargo, olvidados demasiado a menudo. No debería costarte encontrar a Alisaie y a Lyse: solo tienes que guiarte por el ruido de la batalla.
+TEXT_STMBDA313_02489_SEQ_04	Encuentras a tus compañeras todavía enfrascadas en combate con los Kojin of the Red. Por desgracia, lo que a los hombres bestia les falta en fuerza individual lo compensan con número. Por cada uno que cae, aparecen tres para ocupar su lugar. Pero antes de que puedas sumarte a la pelea, Alisaie da un paso al frente, decidida a abrirles a ti y a Lyse una brecha para escapar. A regañadientes, aceptas su ofrecimiento y partes hacia Isari, donde parece que la Confederacy ya empezó su ataque.
+TEXT_STMBDA313_02489_SEQ_05	Apenas llegan a la playa al sur de Isari, Lyse anuncia que piensa volver a la Isle of Zekki a ayudar a Alisaie. Aunque fue ella la que te animó a dejar a tu joven amiga, la idea de perder a otra aliada es más de lo que puede soportar... igual que el susto de oír la voz de Alisaie justo detrás de ella. Lyse se da vuelta y abraza a la desconcertada muchacha, que protesta sin que nadie le haga caso. Cuando todos recuperan la compostura, siguen hacia Isari.
+TEXT_STMBDA313_02489_SEQ_06	Al llegar a la aldea, no encuentras rastros de los imperiales ni de ninguna lucha importante. ¿Cumplió la Confederacy su parte del trato, o Yotsuyu y sus hombres simplemente siguieron a la próxima aldea?
+TEXT_STMBDA313_02489_TODO_00	Abre la puerta de la cámara.
+TEXT_STMBDA313_02489_TODO_01	Enfréntate a Susano en el Pool of Tribute.
+TEXT_STMBDA313_02489_TODO_02	Enfréntate a Susano en el Pool of Tribute.
+TEXT_STMBDA313_02489_TODO_03	Habla con Lyse.
+TEXT_STMBDA313_02489_TODO_04	Habla con Lyse.
+TEXT_STMBDA313_02489_LYSE_000_000	¡De alguna manera vamos a salir de esta! ¡Después de todo, siempre lo hacemos!
+TEXT_STMBDA313_02489_ALISAIE_000_010	Como antes, lo pocos que somos limita nuestras opciones. Ojalá pudiera decir que tengo un plan brillante, pero no: lo único que tengo es uno desesperado.
+TEXT_STMBDA313_02489_ALISAIE_000_011	Lyse, tú y yo haremos lo posible por alejar a los Kojin del primal. Los vamos a poner a perseguir dodos fantasma por toda la isla.
+TEXT_STMBDA313_02489_ALISAIE_000_012	El resto del plan, me temo, ya lo adivina. Lo siento, <split(<string(gstr1)>, ,1)>, de verdad, pero ninguna de las dos puede siquiera acercarse a Susano, y mucho menos esperar derrotarlo. Lo que significa que está sol<if(gnum4,a,o)>.
+TEXT_STMBDA313_02489_LYSE_000_013	Bueno, ¿quién sabe? Tiene un montón de amigos aventureros. Quizá algunos decidieron hacer un viaje de pesca al Lejano Oriente y están sorprendentemente cerca...
+TEXT_STMBDA313_02489_ALISAIE_000_014	Sí, y yo hablo hingano con fluidez. Vamos, ¡no tiene sentido postergarlo!
+TEXT_STMBDA313_02489_VILLAGERA02489_000_020	Uf... Mi espalda, mi espalda...
+TEXT_STMBDA313_02489_VILLAGERB02489_000_025	¡No me haga daño, por favor! ¡Le juro que no hice nada!
+TEXT_STMBDA313_02489_PIRATE02481_000_030	Je, je. Vieron el humo, ¿eh?
+TEXT_STMBDA313_02489_LYSE_000_040	Creo que estamos a salvo. No vi ningún Kojin siguiéndonos...
+TEXT_STMBDA313_02489_LYSE_000_041	Espera aquí. Voy a volver por Alisaie.
+TEXT_STMBDA313_02489_Q1_000_042	¿Qué dices?
+TEXT_STMBDA313_02489_A1_000_043	Voy contigo.
+TEXT_STMBDA313_02489_A1_000_044	Se quedó atrás para que pudiéramos escapar...
+TEXT_STMBDA313_02489_LYSE_000_045	No. De ninguna manera.
+TEXT_STMBDA313_02489_LYSE_000_046	Se quedó atrás para que <italic(1)>tú<italic(0)> pudieras escapar. Hasta yo lo sé.
+TEXT_STMBDA313_02489_LYSE_000_047	Para que <italic(1)>tú<italic(0)> pudieras escapar, no yo. Y fue un error: la que tenía que quedarse era yo, no ella.
+TEXT_STMBDA313_02489_LYSE_000_048	Así que tengo que volver. Si la perdemos... nunca me lo voy a perdonar.
+TEXT_STMBDA313_02489_LYSE_000_049	...Fui yo la que los arrastró a todos a esto. Era mi pelea, no la de ustedes. Lo sabía desde el principio, pero también sabía que no podía hacerlo sola.
+TEXT_STMBDA313_02489_LYSE_000_050	Pero pedí demasiado y dejé que les pasaran demasiadas cosas. Tengo que arreglar esto, y tengo que hacerlo sola.
+TEXT_STMBDA313_02489_LYSE_000_051	Así que déjame ir, por favor. Te lo pido como amiga. ¡Tengo que ayudarla!
+TEXT_STMBDA313_02489_ALISAIE_000_052	Podrías empezar por buscarme una toalla y unas vendas. Brrr...
+TEXT_STMBDA313_02489_LYSE_000_053	¡Alisaie!
+TEXT_STMBDA313_02489_ALISAIE_000_054	¿Qué? ¿Por qué me miras así? Dije que iba a distraerlos, no a hacer una última resistencia heroica y al final inútil. ¿Quién hace eso, de todos modos?
+TEXT_STMBDA313_02489_ALISAIE_000_055	Por el amor de... ¡Esto es ridículo! ¡Estás haciendo el ridículo! ¡Y me lo haces hacer a mí!
+TEXT_STMBDA313_02489_LYSE_000_056	Cállate y déjame disfrutar esto.
+TEXT_STMBDA313_02489_LYSE_000_057	Bien. No fue tan grave, ¿no? Ahora sí, ¡tenemos que volver rápido a Isari!
+TEXT_STMBDA313_02489_ALISAIE_000_060	No los siguieron, ¿no? ¿Les di suficiente tiempo para escapar?
+TEXT_STMBDA313_02489_ALISAIE_000_061	Me alegra saber que mi acto de heroísmo desinteresado tuvo el efecto deseado. No se preocupe, por cierto: no pienso convertirlo en costumbre.
+TEXT_STMBDA313_02489_LYSE_000_070	No veo soldados... ¿Crees que la Confederacy los echó?

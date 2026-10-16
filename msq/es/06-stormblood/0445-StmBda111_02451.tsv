@@ -1,0 +1,32 @@
+key	text
+TEXT_STMBDA111_02451_SEQ_00	Antes de contarte su misión, M'naago quiere decirte algunas cosas.
+TEXT_STMBDA111_02451_SEQ_01	Después de agradecerles a los Scions por haberla cuidado hasta que se recuperó, M'naago te explica que le encargaron entregar la respuesta formal del comandante Kemp al General Aldynn. Como es una misión importante, te pide que la escoltes hasta Castrum Oriens, y Alisaie también se ofrece a acompañarla.
+TEXT_STMBDA111_02451_SEQ_02	Una vez que pones tus asuntos en orden, sales de Rhalgr's Reach con M'naago y Alisaie. Si los dioses son buenos, el viaje por las Fringes será rápido y sin sobresaltos...
+TEXT_STMBDA111_02451_SEQ_03	M'naago les hace una seña a ti y a Alisaie para que se detengan, y les dice que oyó una explosión en el escape de un motor de ceruleum: señal segura de que hay una patrulla imperial cerca. Los tres se separan, con la esperanza de tomar por sorpresa al enemigo e impedir que pida refuerzos.
+TEXT_STMBDA111_02451_SEQ_04	Tiendes una emboscada a la armadura magitek que oyó M'naago y la destruyes. Aunque no tienes motivos para creer que a tus compañeras les haya ido distinto, no puedes estar <if(gnum4,segura,seguro)> hasta reunirte con ellas.
+TEXT_STMBDA111_02451_SEQ_05	Como esperabas, encuentras a tus compañeras sanas y salvas. M'naago te cuenta que la mayoría de los soldados de Gyr Abania son reclutas forzosos de otras provincias. Mal entrenados y sin moral, rara vez son una amenaza en grupos pequeños. Aun así, te advierte que no les tengas lástima, porque son tan capaces de matar a tus compañeros como cualquier enemigo más motivado.
+TEXT_STMBDA111_02451_TODO_00	Habla con M'naago.
+TEXT_STMBDA111_02451_TODO_01	Habla con M'naago en las Fringes.
+TEXT_STMBDA111_02451_TODO_02	Espera emboscado a los soldados imperiales.
+TEXT_STMBDA111_02451_TODO_03	Habla con M'naago.
+TEXT_STMBDA111_02451_MNAAGO_000_020	Antes de empezar, quiero darte las gracias otra vez a ti y a los Scions por curarme después de que me desangré en su piso. Te debo la vida, y no lo voy a olvidar.
+TEXT_STMBDA111_02451_MNAAGO_000_021	Además, fue de mala educación irme sin decir una palabra. Puedo decir todo lo que quiera que mis deberes aquí no podían esperar, pero lo mínimo que se merecían era un "gracias" de despedida. Perdón.
+TEXT_STMBDA111_02451_MNAAGO_000_022	Y... gracias. Bueno, a lo nuestro.
+TEXT_STMBDA111_02451_MNAAGO_000_023	El comandante Kemp me confió una respuesta formal para entregarla en mano a los líderes de la Alliance. Abarca todo lo que hablamos, y además detalla cómo están desplegadas nuestras fuerzas.
+TEXT_STMBDA111_02451_MNAAGO_000_024	Lo que necesito es una escolta: una o dos personas como mucho, para llegar al Wall rápido y sin llamar demasiado la atención.
+TEXT_STMBDA111_02451_ALISAIE_000_025	Muy bien. Me sumo a esto.
+TEXT_STMBDA111_02451_ALISAIE_000_026	El General Aldynn está al mando de las fuerzas de Castrum Oriens. No debería ser difícil hacérsela llegar a sus manos.
+TEXT_STMBDA111_02451_MNAAGO_000_027	¡Genial! ¡Eso es justo lo que quería oír! Cuando estés <if(gnum4,lista,listo)> para partir, nos vemos en el paso que sale del Reach.
+TEXT_STMBDA111_02451_ALISAIE_000_030	Dejemos que M'naago elija la ruta. Aunque podríamos volver por el mismo camino por el que vinimos, podría haber muchos motivos para no hacerlo.
+TEXT_STMBDA111_02451_MNAAGO_000_040	¿Tienes todo lo que necesitas? Bien. Entonces, en marcha.
+TEXT_STMBDA111_02451_ALISAIE_000_050	¿Por qué nos detuvimos? ¿Pasa algo?
+TEXT_STMBDA111_02451_MNAAGO_000_060	¡Silencio! ...¿Oyeron eso? Fue un motor de ceruleum petardeando. <italic(1)>Imperiales<italic(0)>.
+TEXT_STMBDA111_02451_ALISAIE_000_061	Por los dioses, tienes unos sentidos sobrenaturales. Yo no oí nada.
+TEXT_STMBDA111_02451_MNAAGO_000_062	Cuando creces cazando en estas tierras, aprendes a distinguir los sonidos que pueden ser cuestión de vida o muerte, ya sean de un depredador o de una patrulla. Por lo que oigo... es una patrulla de siete hombres reforzada con una armadura magitek. Patrón de búsqueda amplio. Divididos en dos... no, tres equipos. No creo que sepan que estamos aquí...
+TEXT_STMBDA111_02451_MNAAGO_000_063	Es arriesgado, pero deberíamos separarnos e intentar sorprenderlos a todos al mismo tiempo. No queremos que pidan refuerzos.
+TEXT_STMBDA111_02451_ALISAIE_000_064	Tres equipos, tres de nosotros. No hay más remedio, entonces. ¿Dónde están?
+TEXT_STMBDA111_02451_MNAAGO_000_065	Ve al norte. Deberías verlos mucho antes de que ellos te vean a ti. Yo me encargo de los del sur. La armadura debería estar justo al oeste: <split(<string(gstr1)>, ,1)> es quien tiene mejor equipo para encargarse de ella. Atacamos en cinco: debería ser tiempo suficiente para ponernos en posición. Después nos reunimos en la orilla este. ¿Preguntas? ¿No? ¡Entonces, buena suerte!
+TEXT_STMBDA111_02451_ALISAIE_000_070	Me complace informar que al Empire le faltan tres soldados... aunque ningún legatus que se respete lamentaría perderlos.
+TEXT_STMBDA111_02451_MNAAGO_000_080	Parece que todo salió según el plan. No es que me sorprenda: los tres soldados con los que me enfrenté no dieron mucha pelea.
+TEXT_STMBDA111_02451_MNAAGO_000_081	La mayoría de los imperiales que nos llegan aquí son reclutas forzosos de otras provincias, con poco entrenamiento y menos convicción. Es un trabajo amargo matar a hombres y mujeres así, pero no dudes de que ellos te harían lo mismo si se invirtieran los papeles.
+TEXT_STMBDA111_02451_MNAAGO_000_082	Y ni se te <italic(1)>ocurra<italic(0)> tenerle lástima a alguien dentro de una armadura. Recluta o no, un soldado que pilotea una de esas puede matar a una docena de buenos hombres en un abrir y cerrar de ojos. Aunque no hace falta que te lo diga, después de lo que pasó en el Wall...

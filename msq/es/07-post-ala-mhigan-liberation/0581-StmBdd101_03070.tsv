@@ -1,0 +1,64 @@
+key	text
+TEXT_STMBDD101_03070_SEQ_00	Alphinaud tiene noticias importantes que compartir.
+TEXT_STMBDD101_03070_SEQ_01	Alphinaud te informa que llegó una carta de Lord Hien, y después de que te resume amablemente su contenido, deduces que te necesitan en el Doman Enclave. Tataru promete cuidar el fuerte mientras no están, y mientras te preparas para partir con Alphinaud y Alisaie, te detienes a pensar qué pasará al otro lado del Ruby Sea: una declaración de paz entre Doma y el Empire... o un regreso demasiado previsible a las hostilidades.
+TEXT_STMBDD101_03070_SEQ_02	Te reúnes con Lord Hien en el enclave según lo planeado, y te enteras de que su carta omitía un incidente preocupante: Gosetsu se enfermó. Pero al visitar al samurai postrado en cama, te alivia ver que va bien encaminado hacia la recuperación. Yotsuyu, en cambio, parece igual que la última vez que la viste: una niña en un cuerpo de mujer.<br><br>Un rato después, un relato de Yugiri convence a Lord Hien de que el estado de Yotsuyu es real, y decide permitirle vivir el resto de sus días en Doma como "Tsuyu". El único obstáculo que queda es presentarle a Asahi pruebas de su estado, y con eso en mente, tus aliados acuerdan reunirse en los muelles del enclave.
+TEXT_STMBDD101_03070_SEQ_03	Después de una espera tranquila junto al bote, Lord Hien aparece corriendo sin aliento, y está claro que algo anda mal. Al parecer, Yotsuyu salió del Kienkan, y según el testimonio del capitán del bote, ya cruzó el río...
+TEXT_STMBDD101_03070_TODO_00	Habla con Hien en el Kienkan.
+TEXT_STMBDD101_03070_TODO_01	Habla con Alphinaud.
+TEXT_STMBDD101_03070_ALPHINAUD_000_000	Ah, <split(<string(gstr1)>, ,1)>, llega justo a tiempo. Acabamos de recibir una carta de Lord Hien.
+TEXT_STMBDD101_03070_ALPHINAUD_000_001	Escribe que los domanos están coordinando esfuerzos con los Kojin Blue para vigilar constantemente a los Red.
+TEXT_STMBDD101_03070_ALPHINAUD_000_002	Atentos a cualquier señal de acaparamiento de cristales y cosas así, piensan cortar de raíz cualquier intento de invocación, y así cumplir las condiciones de paz que puso el embajador.
+TEXT_STMBDD101_03070_ALPHINAUD_000_004	Por parte de los garleans, los Populares avisaron que pronto llegará a Yanxia una nave con conscriptos domanos. Parece que el intercambio de prisioneros seguirá según lo planeado.
+TEXT_STMBDD101_03070_ALPHINAUD_000_005	Lord Hien pide que usted esté presente, y comparto su opinión de que debería estar allí en este momento decisivo.
+TEXT_STMBDD101_03070_ALISAIE_000_006	Según la carta, Yotsuyu todavía no recuperó la memoria, así que parece que va a vivir el resto de sus días en Doma... suponiendo que el embajador piense cumplir el acuerdo, claro.
+TEXT_STMBDD101_03070_ALISAIE_000_007	Pero antes de eso, creo que sería prudente evaluar su estado una última vez. Si a los domanos se les pasó algún cambio en su estado mental, por mínimo que sea, mejor que no sea Asahi quien lo note.
+TEXT_STMBDD101_03070_ALPHINAUD_000_008	De acuerdo. Vamos directo al enclave, entonces. Lord Hien nos espera.
+TEXT_STMBDD101_03070_ALPHINAUD_000_009	¿Confío en que te las arreglarás sin nosotros, Tataru?
+TEXT_STMBDD101_03070_TATARU_000_010	¡No se preocupen por mí, voy a estar bien! ¡Solo asegúrense de volver sanos y salvos!
+TEXT_STMBDD101_03070_TATARU_000_015	Últimamente Alphinaud cuenta sus monedas con <italic(1)>muchísimo<italic(0)> cuidado. ¡Dudo que pida un sorbo de agua sin preguntar antes el precio! ¡Ji, ji, ji!
+TEXT_STMBDD101_03070_HANCOCK_000_016	Estoy muy a favor de un acuerdo de paz entre Doma y el Empire. ¡Que se afloje ese puño imperial, digo yo, y que las rutas comerciales respiren libremente!
+TEXT_STMBDD101_03070_ALPHINAUD_000_017	Conocemos lo general por su carta, pero quisiera oír de boca del propio Lord Hien los detalles de los avances de nuestros amigos domanos.
+TEXT_STMBDD101_03070_ALISAIE_000_018	Desde que vació nuestras arcas comprando esa espada, Alphinaud aprieta el bolsillo como si le fuera la vida. No puedo comprar ni una taza de té sin que se ponga a hablar de los "peligros del gasto frívolo".
+TEXT_STMBDD101_03070_KIENKANGATEKEEPER03028_100_026	Lord Hien lo espera. ¿Le muestro el camino?
+TEXT_STMBDD101_03070_EVENTAREA_WARP_100_027	¿Entrar al Kienkan?
+TEXT_STMBDD101_03070_HIEN_000_020	¡Ah, veo que mi carta les llegó al otro lado del Ruby Sea! Gracias por venir tan rápido.
+TEXT_STMBDD101_03070_HIEN_000_021	Aunque escribí bastante sobre el próximo intercambio, hubo otro asunto que no mencioné...
+TEXT_STMBDD101_03070_HIEN_000_022	Se trata de Gosetsu. Como habrán notado, volvió de su calvario bastante maltrecho, y pese a sus esfuerzos por ocultar su estado (o quizá por culpa de ellos), hace poco se desplomó.
+TEXT_STMBDD101_03070_ALPHINAUD_000_023	¡Por los dioses! ¿¡Está bien!?
+TEXT_STMBDD101_03070_HIEN_000_024	Postrado en cama y refunfuñando sin parar, pero ya muestra señales de recuperación. Me hizo prometer que no les diría nada, para que no se preocuparan de más. Lo cual estaba muy bien mientras no estaban aquí.
+TEXT_STMBDD101_03070_HIEN_000_025	Pero ahora que <italic(1)>están<italic(0)>, creo que ya es hora de que reciba visitas. ¿Podrían dedicarle un momento? Yotsuyu casi no se apartó de su lado, y supongo que también tendrán curiosidad por ver qué fue de ella.
+TEXT_STMBDD101_03070_ALPHINAUD_100_026	Lo visitaremos de inmediato. <split(<string(gstr1)>, ,1)>, Alisaie... ¿vamos?
+TEXT_STMBDD101_03070_HIEN_000_030	Forman una pareja convincente, ¿no? A primera vista, cualquiera diría que él es un abuelo cariñoso y ella una nieta ejemplar.
+TEXT_STMBDD101_03070_ALPHINAUD_000_031	Sin duda. Si hace un año alguien me hubiera dicho que viviría para ver una escena así, lo habría tomado por loco. Dejando eso de lado, me alivia ver que Gosetsu no perdió nada de su espíritu.
+TEXT_STMBDD101_03070_ALISAIE_000_032	Pero qué vuelta de las cosas... Digo, que de pronto sea <italic(1)>ella<italic(0)> quien cuide de <italic(1)>él<italic(0)>. No se te ocurriría ni inventándolo. Aunque supongo que Gosetsu <italic(1)>es<italic(0)> un hombre mayor. Con lo que embiste la vida, es fácil olvidarlo...
+TEXT_STMBDD101_03070_HIEN_000_033	Sí, resistió la decrepitud con el mismo desafío que mostró ante los enemigos de Doma.
+TEXT_STMBDD101_03070_HIEN_000_034	Pero por firme que sea su voluntad, ningún hombre puede seguir para siempre. Se exigió más allá del límite demasiadas veces: aunque recupere la salud, el hecho no cambia. Nunca volverá a ser el guerrero que fue.
+TEXT_STMBDD101_03070_HIEN_000_035	Lo dio todo por su señor y por su tierra, y no le pediremos más.
+TEXT_STMBDD101_03070_ALISAIE_000_036	¿Y su enfermera? Si Yotsuyu está fingiendo <italic(1)>eso<italic(0)>... bueno, a mí me tiene engañada.
+TEXT_STMBDD101_03070_YUGIRI_000_037	(-???-)No es ningún fingimiento.
+TEXT_STMBDD101_03070_ALISAIE_000_038	Yugiri. De todos nosotros, pensaría que tú eres la más difícil de convencer. Así que... ¿qué te hace estar tan segura?
+TEXT_STMBDD101_03070_YUGIRI_000_039	Estuve espiando a Yotsuyu desde las sombras, esperando el paso en falso que delatara su farsa.
+TEXT_STMBDD101_03070_YUGIRI_000_040	Pero su máscara nunca se cayó. Ni una vez. Se mantuvo en su papel desde el principio. Una noche la observé mientras estaba sentada en su habitación, sola y desprevenida...
+TEXT_STMBDD101_03070_YUGIRI_000_041	Había sacado los platos del armario y fingía preparar la cena ahí mismo, sobre el tatami. Un juego de niños.
+TEXT_STMBDD101_03070_YUGIRI_000_042	Ni el shinobi más precavido llegaría a tanto. Solo puedo concluir que su mente de verdad está rota.
+TEXT_STMBDD101_03070_ALISAIE_000_043	...Bueno, a mí me alcanza... y me atrevería a decir que a todos los demás también.
+TEXT_STMBDD101_03070_HIEN_000_044	Sí, el asunto está resuelto. Yotsuyu se convertirá en "Tsuyu" y empezará una nueva vida aquí en Doma.
+TEXT_STMBDD101_03070_HIEN_000_045	Pero antes de que eso pase, tendremos que presentársela al embajador una última vez, para demostrar que su memoria de verdad se perdió.
+TEXT_STMBDD101_03070_HIEN_000_046	Pero no quiero arriesgarme a exhibirla frente a nuestros conscriptos que vuelven. Su presencia en el intercambio solo despertaría ideas de motín.
+TEXT_STMBDD101_03070_ALISAIE_000_047	Es comprensible. Prácticamente fue ella quien les puso las cadenas al cuello.
+TEXT_STMBDD101_03070_HIEN_000_048	Así es. Por eso pienso cerrar primero este asunto con Tsuyu, lejos de la vista de mis compatriotas. ¿Me ayudan?
+TEXT_STMBDD101_03070_ALPHINAUD_000_049	Estamos a su servicio. No hay propósito más alto que buscar la paz.
+TEXT_STMBDD101_03070_HIEN_000_050	Gracias. Los garleans vienen en camino y tenemos que prepararnos para recibir al embajador. Nos veremos en los muelles con Tsuyu.
+TEXT_STMBDD101_03070_HIEN_000_055	El bote nos llevará a la reunión con el embajador. Nos reuniremos con ustedes en los muelles cuando terminemos los preparativos.
+TEXT_STMBDD101_03070_YUGIRI_000_051	Incluso después de semanas de vigilancia, me costó aceptar que el estado de Yotsuyu era real... Pero no tanto como aceptar el cariño de Gosetsu por ella.
+TEXT_STMBDD101_03070_ALISAIE_000_052	¿Se imagina a Yotsuyu jugando con cuencos en el piso? No sé si todavía podemos pensar en ella como la misma persona...
+TEXT_STMBDD101_03070_ALPHINAUD_000_060	¿Esperamos aquí, entonces? Lord Hien no debería tardar.
+TEXT_STMBDD101_03070_HIEN_000_061	¡Amigos! ¿¡Vieron a Tsuyu!? ¡No aparece por ninguna parte!
+TEXT_STMBDD101_03070_ALPHINAUD_000_062	¿<italic(1)>Qué<italic(0)>? ¡Pero los garleans van a desembarcar en cualquier momento!
+TEXT_STMBDD101_03070_ALISAIE_000_063	Si huyó... ¿Puede ser que haya recuperado la memoria?
+TEXT_STMBDD101_03070_HIEN_000_064	No lo sé. Yugiri está recorriendo las calles mientras hablamos, pero es posible que Tsuyu ya haya salido del enclave.
+TEXT_STMBDD101_03070_HIEN_000_065	Capitán, una palabra. ¿Por casualidad llevó a una mujer de piel clara al otro lado del río?
+TEXT_STMBDD101_03070_DOMANFERRYMAN_000_066	¿Una mujer de piel clara, mi señor? Yo... no sabría decirle... Creo que... ¡S-Sí! ¡Sí, mi señor! Ahora que lo menciona, <italic(1)>había<italic(0)> una dama entre los pasajeros que no recuerdo haber visto antes.
+TEXT_STMBDD101_03070_DOMANFERRYMAN_000_067	El ala del sombrero le tapaba la cara, pero recuerdo que le tomé la mano para ayudarla a subir al bote. Blanca como la nieve recién caída, era... ¿Era alguien importante, mi señor? ¿Hice algo malo?
+TEXT_STMBDD101_03070_HIEN_000_068	¿Malo? ...No. No, solo esperaba alcanzar a nuestra invitada antes de que se fuera. Tranquilo, capitán.
+TEXT_STMBDD101_03070_HIEN_000_069	Parece que Tsuyu cruzó el río.<br>Que los kami me ayuden... Nada bueno puede salir de esto.

@@ -1,0 +1,78 @@
+key	text
+TEXT_STMBDC105_03026_SEQ_00	El Empire se mueve, y Hien no quiere que lo tomen desprevenido.
+TEXT_STMBDC105_03026_TODO_00	Habla con Hien en Castrum Fluminis.
+TEXT_STMBDC105_03026_TODO_01	Habla con Hien.
+TEXT_STMBDC105_03026_TODO_02	Habla con Yugiri en los muelles mercantes.
+TEXT_STMBDC105_03026_TODO_03	Habla con Hien en el Doman Enclave.
+TEXT_STMBDC105_03026_TODO_04	Habla con el guardia.
+TEXT_STMBDC105_03026_TODO_05	Habla con el guardia.
+TEXT_STMBDC105_03026_TODO_06	Habla con Hien.
+TEXT_STMBDC105_03026_TODO_07	Habla con Alisaie.
+TEXT_STMBDC105_03026_ALPHINAUD_100_000	Es como dice Lord Hien. El Empire se mueve. Y nosotros, como siempre, estamos a la defensiva...
+TEXT_STMBDC105_03026_ALISAIE_105_000	Jifuya no puede ser el único aquí con un miedo mortal a Yotsuyu. Ella atormentó a esta gente.
+TEXT_STMBDC105_03026_GOSETSU_110_000	Que su sola presencia siembre tanta discordia...
+TEXT_STMBDC105_03026_YUGIRI_115_000	Lord Hien y el señor Alphinaud parecen preocupados... Algo pasa.
+TEXT_STMBDC105_03026_HIEN_000_000	Mientras buscaban a Jifuya, recibimos un mensaje de nuestros aliados shinobi: vieron una aeronave imperial sobre suelo domano.
+TEXT_STMBDC105_03026_HIEN_000_001	Todavía no está claro qué buscan nuestros visitantes. Puede ser otro intento de recuperar a Yotsuyu... o el preludio de una invasión.
+TEXT_STMBDC105_03026_HIEN_000_002	En cualquier caso, dicen que la nave avanza rápido y parece ir hacia Castrum Fluminis. Pienso ir hasta allí a averiguar sus intenciones.
+TEXT_STMBDC105_03026_HIEN_000_003	Si salimos con muchas fuerzas, solo puede terminar de una manera, así que iremos los menos posibles. Yugiri, <split(<string(gstr1)>, ,1)>, ¿puedo contar con ustedes?
+TEXT_STMBDC105_03026_YUGIRI_000_004	Sí, mi señor.
+TEXT_STMBDC105_03026_ALPHINAUD_000_005	Alisaie y yo también quisiéramos hacer nuestra parte. No nos quedaremos de brazos cruzados mientras un enemigo común amenaza las tierras de nuestros amigos y aliados.
+TEXT_STMBDC105_03026_HIEN_000_006	Les agradeceremos la ayuda. Conocen a Hakuro, ¿no? Entonces les pido que lo busquen y lo ayuden a mantener el orden en el enclave.
+TEXT_STMBDC105_03026_HIEN_000_007	Cuando la gente vea una aeronave imperial, es probable que entre en pánico. Quiero que la tranquilicen y, si hace falta, ayuden a evacuarla.
+TEXT_STMBDC105_03026_ALPHINAUD_000_008	Muy bien. Partiremos de inmediato. Cuídense.
+TEXT_STMBDC105_03026_GOSETSU_000_009	¿Y yo, mi señor?
+TEXT_STMBDC105_03026_HIEN_000_010	Quizá el Empire venga por Yotsuyu. Te quedarás aquí a vigilarla hasta que vuelva.
+TEXT_STMBDC105_03026_GOSETSU_000_012	...Como desee. Le ruego que no se aleje de <split(<string(gstr1)>, ,1)> y de Yugiri.
+TEXT_STMBDC105_03026_HIEN_000_013	Vaya, vaya... ¿<italic(1)>Hacer guardia<italic(0)> y ni una protesta? Ya lo vi todo.
+TEXT_STMBDC105_03026_HIEN_000_014	A Castrum Fluminis, entonces. Averigüemos qué se trae el Empire.
+TEXT_STMBDC105_03026_YUGIRI_000_023	Doma no está preparada para enfrentar una ofensiva aérea. Si el Empire se lo propusiera, las monturas voladoras de los Xaela serían nuestra única esperanza.
+TEXT_STMBDC105_03026_HIEN_000_030	La zona está asegurada. Sea cual sea el propósito de nuestros visitantes, está claro que creen poder lograrlo solos.
+TEXT_STMBDC105_03026_HIEN_000_031	La nave debería aparecer en cualquier momento. Esperémoslos dentro del castrum.
+TEXT_STMBDC105_03026_YUGIRI_000_040	<italic(1)>Paz<italic(0)>... Después de todo lo que hicieron. Nunca esa palabra sonó tan hueca.
+TEXT_STMBDC105_03026_ASAHI_000_045	Vaya, ¿estoy en presencia del legendario mata-eikons? Qué honor.
+TEXT_STMBDC105_03026_MAXIMA_000_050	Lord Hien es magnánimo en la victoria. Dada la historia conflictiva de nuestras naciones, no esperábamos semejante hospitalidad.
+TEXT_STMBDC105_03026_HIEN_000_060	Escoltaremos a nuestros invitados al otro lado del río, hasta el enclave.
+TEXT_STMBDC105_03026_HIEN_000_061	Yugiri, por favor, adelántate a los muelles de Yuzuka Manor y asegúrate de que los transbordadores estén listos.
+TEXT_STMBDC105_03026_HIEN_000_070	Al desembarcar, iremos directo a mi salón, donde podremos tener algo de privacidad.
+TEXT_STMBDC105_03026_ASAHI_000_075	Qué escenas de devastación nos recibieron en el viaje hasta aquí... El amargo precio de la guerra.
+TEXT_STMBDC105_03026_MAXIMA_000_080	Leí mucho sobre la arquitectura y la geología de Doma... Las palabras no le hacen justicia.
+TEXT_STMBDC105_03026_YUGIRI_000_090	Lord Hien y yo acompañaremos a la delegación imperial en el primer transbordador.
+TEXT_STMBDC105_03026_YUGIRI_000_092	Cuando esté list<if(gnum4,a,o)>, hable con el barquero y reúnase con nosotros del otro lado.
+TEXT_STMBDC105_03026_YUGIRI_000_095	Lord Hien pidió que el señor Alphinaud y la señorita Alisaie también estén presentes en la negociación.
+TEXT_STMBDC105_03026_HIEN_100_120	Ahí estás, <split(<string(gstr1)>, ,1)>. Bueno, lo primero es lo primero: ¿qué te parece el enclave? Debo decir que estoy bastante orgulloso de lo que lograron mis compatriotas en este tiempo.
+TEXT_STMBDC105_03026_HIEN_000_120	Hasta tenemos un aetheryte ahora, gracias a los Onishishu. Sintonízate con él, ¿sí? Cuando tenga el visto bueno del Warrior of Light, quizá la gente empiece a usarlo de verdad.
+TEXT_STMBDC105_03026_HIEN_100_121	Pero vayamos al asunto: el embajador y su séquito están en mi salón, descansando antes de las negociaciones. Quiero que estés ahí cuando empiece la charla.
+TEXT_STMBDC105_03026_HIEN_000_121	Servirá para mandarle al Empire el mensaje de que Eorzea y Doma están unidas. No suelo ser de poses vacías, pero en este juego de naciones, esos gestos tienen peso.
+TEXT_STMBDC105_03026_HIEN_000_122	Ah, y si no te sientes a gusto hablando por los Scions, Alphinaud y Alisaie también van a estar. Solo tienes que comer, beber y verte imponente. Di que vas a venir.
+TEXT_STMBDC105_03026_Q1_000_000	¿Qué dices?
+TEXT_STMBDC105_03026_A1_000_001	Ahí estaré.
+TEXT_STMBDC105_03026_A1_000_002	Ay, está bien.
+TEXT_STMBDC105_03026_HIEN_000_125	Sabía que podía contar contigo.
+TEXT_STMBDC105_03026_HIEN_000_128	Promete ser un asunto aburrido, sin duda, pero sobreviviste a cosas mucho peores.
+TEXT_STMBDC105_03026_HIEN_000_130	Cuando estés list<if(gnum4,a,o)>, ven a mi humilde morada, el Kienkan. El guardia te hará pasar.
+TEXT_STMBDC105_03026_HIEN_000_140	Lord Hien lo espera. ¿Le muestro el camino?
+TEXT_STMBDC105_03026_EVENTAREA_WARP_000_000	¿Entrar al Kienkan?
+TEXT_STMBDC105_03026_HAKURO_000_150	Sea cual sea la decisión de Lord Hien, la acataré. Pero... me alegraría recibir de vuelta en Doma a mis hermanos perdidos.
+TEXT_STMBDC105_03026_ALPHINAUD_000_155	Que haya dos facciones opuestas actuando en Garlemald complica las cosas. Aun suponiendo que se pueda confiar en Asahi y sus colegas, ¿qué hay de los otros?
+TEXT_STMBDC105_03026_ALISAIE_000_160	Que el Empire mande nada menos que al hermanastro de Yotsuyu... Me pregunto cómo se siente, un hijo de Doma volviendo a casa para hablar en nombre de los opresores que sus compatriotas expulsaron.
+TEXT_STMBDC105_03026_HIEN_000_200	Bueno, eso fue... inesperado.
+TEXT_STMBDC105_03026_ALISAIE_000_201	Ni que lo digas. Todavía no sé bien qué pensar de todo esto. Pero, en apariencia, un intercambio de prisioneros parece una buena forma de empezar. La pregunta es: ¿se puede confiar en ellos?
+TEXT_STMBDC105_03026_HIEN_000_202	Mmm. No ganaban nada con revelar los detalles de sus divisiones internas. Tal como están las cosas, no tenemos motivos para dudar de ellos.
+TEXT_STMBDC105_03026_HIEN_000_203	Pero que el embajador mencionara a Yotsuyu me dejó intranquilo. Hizo que su gran discurso sobre la paz pareciera, extrañamente, un largo preámbulo.
+TEXT_STMBDC105_03026_ALPHINAUD_000_204	¿Cree que todo esto podría ser un ardid para facilitar que la recuperen?
+TEXT_STMBDC105_03026_HIEN_000_205	Quizá. Aunque no me imagino por qué harían tanto esfuerzo. Yotsuyu habrá sido la virreina interina, pero no es garlean, ni siquiera de alta cuna. Su valor debe de estar en lo que sabe...
+TEXT_STMBDC105_03026_HIEN_000_206	...Lo que nos lleva al pequeño asunto de su pérdida de memoria. En su estado actual, no aportaría ninguna información que valga la pena. Ni vale mucho como moneda de cambio.
+TEXT_STMBDC105_03026_HIEN_000_207	Alphinaud, tú conoces bien los métodos del Empire. Quiero tu opinión sobre este asunto.
+TEXT_STMBDC105_03026_ALPHINAUD_000_208	Mis conocimientos están a su disposición, Lord Hien. Aunque en principio la propuesta del embajador es atractiva, sería un descuido no examinarla como corresponde.
+TEXT_STMBDC105_03026_HIEN_000_209	Así es. Aunque me parece que, igual, no me queda más remedio que aceptar. Con tantos de nuestros hermanos y hermanas pudriéndose en campos imperiales, no puedo darle la espalda a una oportunidad de conseguir su repatriación. Solo los kami saben cuándo tendré otra.
+TEXT_STMBDC105_03026_HIEN_000_214	...Pero antes de seguir, ¿dejamos ir a estos dos? Me temo que lo que sigue los va a aburrir hasta las lágrimas.
+TEXT_STMBDC105_03026_ALISAIE_000_215	Justo estaba por irme, casualmente. Vamos, <split(<string(gstr1)>, ,1)>: dejemos que Alphinaud reparta su copioso saber.
+TEXT_STMBDC105_03026_ALPHINAUD_000_216	Alguien todavía está resentida por haber tenido que mirar en Sakazuki...
+TEXT_STMBDC105_03026_ALPHINAUD_000_217	Vaya a hacerle compañía a Alisaie. Por ahora estamos bastante seguros.
+TEXT_STMBDC105_03026_ALPHINAUD_000_220	No se preocupe, <split(<string(gstr1)>, ,1)>, nosotros nos ocuparemos del resto. Vaya a hacerle compañía a Alisaie.
+TEXT_STMBDC105_03026_HIEN_000_225	Te ganaste un descanso de sobra, amig<if(gnum4,a,o)>. Déjanos a nosotros las partes interminables.
+TEXT_STMBDC105_03026_ALISAIE_000_240	\<suspiro> Por fin una oportunidad de relajarse.
+TEXT_STMBDC105_03026_ALISAIE_000_241	Sé cuándo algo me queda grande, <split(<string(gstr1)>, ,1)>.
+TEXT_STMBDC105_03026_ALISAIE_000_242	Aunque no se desenvainen armas, una negociación no deja de ser una batalla, y lo que está en juego puede ser igual de grande. Una palabra fuera de lugar y puede morir gente. Hace falta alguien con la cabeza fría, y soy la primera en admitir que no soy yo.
+TEXT_STMBDC105_03026_ALISAIE_000_243	Así que nos queda la eterna pregunta...<br>¿Qué hacemos mientras ellos parlotean?

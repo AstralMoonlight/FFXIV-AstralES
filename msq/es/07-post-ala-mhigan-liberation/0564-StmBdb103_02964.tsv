@@ -1,0 +1,41 @@
+key	text
+TEXT_STMBDB103_02964_SEQ_00	Alphinaud parece ansioso por compartir su teoría.
+TEXT_STMBDB103_02964_SEQ_01	Antes de revelar su gran teoría, Alphinaud quiere trasladarse a un lugar más apropiado: la orilla sur del Loch Seld.
+TEXT_STMBDB103_02964_SEQ_02	Después de regalarte una breve clase sobre la historia del Loch Seld, Alphinaud plantea que la "oscuridad bajo el palacio" de la que habló Ernold podría albergar los restos sumergidos de la antigua ciudad de Skalla. Además, su teoría es que Theodoric hizo maldecir a sus parientes y los arrojó a las profundidades no solo para castigarlos por sus crímenes imaginarios, sino para que custodiaran sus tesoros. Mientras Alphinaud y Arenvald buscan una entrada a las ruinas desde arriba, tú tienes que recorrer el fondo del lago en busca de una entrada submarina.
+TEXT_STMBDB103_02964_SEQ_03	En las aguas heladas del Loch Seld, descubres un pasaje que lleva directo bajo los cimientos del palacio. Un hallazgo así merece una investigación más a fondo...
+TEXT_STMBDB103_02964_SEQ_04	Descubriste una puerta de piedra que parece llevar a las ruinas bajo el palacio. ¡Entra a la Drowned City of Skalla y busca el tesoro del rey loco!<br><br>※Enfréntate a la Drowned City of Skalla con otros jugadores mediante el Duty Finder, o con un grupo de NPC mediante el Duty Support. Ambos sistemas se pueden usar desde el menú principal y desde la entrada de la mazmorra.
+TEXT_STMBDB103_02964_SEQ_05	Derrotaste a los monstruosos habitantes de Skalla. El tesoro legendario tiene que estar cerca...
+TEXT_STMBDB103_02964_SEQ_06	Después de desafiar los salones mortales de la Drowned City, por fin contemplas las riquezas del tesoro del rey loco. Vuelve al Ala Mhigan Quarter y cuéntales la aventura a tus compañeros.
+TEXT_STMBDB103_02964_SEQ_07	Alphinaud expresa su admiración por tu destreza como aventurer<if(gnum4,a,o)>, a la que atribuye el éxito de la incursión subterránea. Arenvald, mientras tanto, parece más interesado en burlarse de Alphinaud por cómo reaccionó ante los habitantes fantasmales de las ruinas...
+TEXT_STMBDB103_02964_TODO_00	Habla con Alphinaud en la orilla sur del Loch Seld.
+TEXT_STMBDB103_02964_TODO_01	Busca en las ruinas del fondo del lago.
+TEXT_STMBDB103_02964_TODO_02	Investiga el pasaje.
+TEXT_STMBDB103_02964_TODO_03	Entra a la Drowned City of Skalla.
+TEXT_STMBDB103_02964_TODO_04	Entra a la Drowned City of Skalla.
+TEXT_STMBDB103_02964_TODO_05	Habla con Alphinaud en el Ala Mhigan Quarter.
+TEXT_STMBDB103_02964_ARENVALD_000_001	...¿Y bien? ¡Suéltalo! ¿Cuál es esa teoría tuya?
+TEXT_STMBDB103_02964_ALPHINAUD_000_010	...En realidad, quizá sería mejor que primero fuéramos a un lugar más adecuado.
+TEXT_STMBDB103_02964_ARENVALD_000_011	...¿Por si algún cazador de tesoros rival oye nuestros planes, quieres decir? ¡Bien pensado!
+TEXT_STMBDB103_02964_ALPHINAUD_000_012	No era... exactamente el motivo, pero sin duda es una preocupación válida. Volvamos a reunirnos en la orilla sur del Loch Seld.
+TEXT_STMBDB103_02964_ARENVALD_000_015	¡Vamos, Alphinaud, no nos dejes con la intriga! ¡Queremos oír esa teoría tuya!
+TEXT_STMBDB103_02964_ALPHINAUD_000_020	Perdónenme. No era mi intención alargar las cosas. Solo quería tener el lago a la vista mientras les explicaba.
+TEXT_STMBDB103_02964_ALPHINAUD_000_021	Antes del gran diluvio de la Sexta Calamidad Umbral, los lagos salados que ven eran todavía barrancos secos. Y aquí, aunque no lo crean, estaba la antigua ciudad de Skalla, que se alzó y cayó durante la Quinta Era Astral.
+TEXT_STMBDB103_02964_ALPHINAUD_000_022	Por lo que sabemos de esa época, la ciudad ya estaba desierta cuando las aguas empezaron a subir, casi destruida por la guerra. Pero sus ruinas siguen hasta hoy en el fondo del Loch Seld.
+TEXT_STMBDB103_02964_ALPHINAUD_000_023	Creo que la "oscuridad bajo el palacio" que mencionó el antiguo escriba de Theodoric no se refería a la prisión, sino a un lugar todavía más abajo: las ruinas de Skalla.
+TEXT_STMBDB103_02964_ALPHINAUD_000_024	Además, supongo que a los desafortunados parientes del rey loco los arrojaron allí no solo por el deseo de castigarlos, sino para desalentar a los exploradores. Theodoric quería mantener las ruinas a salvo...
+TEXT_STMBDB103_02964_ARENVALD_000_025	Un momento... ¿estás diciendo que... estaban ahí para custodiar el tesoro del rey loco?
+TEXT_STMBDB103_02964_ALPHINAUD_000_026	Exactamente. Y como sabemos que el thaumaturge de la corte estuvo involucrado, podemos suponer sin miedo a equivocarnos que cualquier entrada a la vieja ciudad estará oculta con magia.
+TEXT_STMBDB103_02964_ARENVALD_000_027	...Lo que explicaría por qué una legión de soldados imperiales y quién sabe cuántos alamhiganos nunca encontraron rastro del tesoro.
+TEXT_STMBDB103_02964_ALPHINAUD_000_028	Pero nosotros tenemos ciertas ventajas que ellos no tenían. <split(<string(gstr1)>, ,1)>, ¿tendría la bondad de nadar hasta el fondo del lago y buscar un camino submarino hacia las ruinas? Mientras tanto, Arenvald y yo buscaremos un portal encantado dentro del palacio.
+TEXT_STMBDB103_02964_SYSTEM_000_030	Descubres un pasaje que parece llevar bajo los cimientos del palacio. Sigue adelante y averigua adónde lleva.
+TEXT_STMBDB103_02964_SYSTEM_000_040	Llegas a una puerta de piedra gastada, tentadoramente entreabierta. Parece que encontraste una entrada a las ruinas subterráneas.
+TEXT_STMBDB103_02964_ALPHINAUD_000_041	(-Voz de Alphinaud-)<split(<string(gstr1)>, ,1)>, soy Alphinaud. Revisamos la prisión bajo el palacio y encontramos un portal de teletransporte oculto con encantamientos. Las marcas indican que lleva a una caverna subterránea.
+TEXT_STMBDB103_02964_ALPHINAUD_100_041	(-Voz de Alphinaud-)¿Qué novedades hay de su lado?
+TEXT_STMBDB103_02964_ALPHINAUD_000_042	(-Voz de Alphinaud-)...¿Y cree que lleva a las ruinas? Entonces me atrevería a decir que podremos encontrarnos adentro. Adelante, cruce la puerta.
+TEXT_STMBDB103_02964_ARENVALD_000_043	(-Voz de Arenvald-)Por cierto, me tomé la libertad de pedirle ayuda a una amiga. Te garantizo que es confiable <italic(1)>y<italic(0)> discreta. ¡Nos vemos pronto!
+TEXT_STMBDB103_02964_ARENVALD_000_050	Dioses, qué travesía tan oscura y traicionera, con abominaciones esperándonos a cada paso... En otras palabras, ¡fue una aventura de verdad!
+TEXT_STMBDB103_02964_ALPHINAUD_000_060	Arenvald y yo intentamos hacer nuestra parte, pero me temo que, como siempre, usted terminó cargando con lo más pesado. De verdad nos guio con su destreza de aventurer<if(gnum4,a,o)>, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>.
+TEXT_STMBDB103_02964_ARENVALD_000_061	Sí, sin tu ayuda, creo que todavía andaríamos a tientas en la oscuridad. ¡Me alegra haberte llamado!
+TEXT_STMBDB103_02964_ALPHINAUD_000_062	Debo decir que todavía estoy aturdido después de ver esa montaña de riquezas...
+TEXT_STMBDB103_02964_ARENVALD_000_063	¿Qué, como te aturdiste al ver ese espectro flotante, quieres decir? ¡Ojalá hubieras visto la cara que pusiste, Alphinaud!
+TEXT_STMBDB103_02964_ALPHINAUD_000_064	¡¿T-Tenemos que detenernos en esos deslices momentáneos?! ¡Encontramos el tesoro del rey loco, y eso es lo único que importa!

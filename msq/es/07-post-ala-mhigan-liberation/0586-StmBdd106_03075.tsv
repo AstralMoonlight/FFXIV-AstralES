@@ -1,0 +1,69 @@
+key	text
+TEXT_STMBDD106_03075_SEQ_00	Alisaie parece lista para despedirse de Doma.
+TEXT_STMBDD106_03075_SEQ_01	Alisaie declara terminado el trabajo de los Scions en Doma y vuelve la mirada hacia Rhalgr's Reach. Lyse va a querer enterarse del rumor de la resurrección de Zenos...
+TEXT_STMBDD106_03075_SEQ_02	Lyse reacciona a la noticia del regreso de Zenos con la incredulidad esperable, pero Thancred está ahí para proponer una forma simple (aunque algo desagradable) de resolver el asunto. Viaja a Bloodhowe, en The Lochs, y examina los restos mortales del príncipe heredero.
+TEXT_STMBDD106_03075_SEQ_03	Apartas la pesada tapa de piedra de la tumba de Zenos, pero contra lo que predijo Thancred, no hay víboras retorciéndose ni arañas correteando dentro. El ataúd está vacío. Dejando a Thancred a cargo de buscar a los trabajadores que enterraron al difunto virrey, te preparas para volver a los Rising Stones con Alisaie. Los demás Scions tienen que enterarse de esto, y de la posibilidad de que ahora un Ascian gobierne desde Garlemald.
+TEXT_STMBDD106_03075_SEQ_04	Al llegar, te enteras de que Alisaie ya le dio un informe completo a Urianger por linkpearl. Poco después se suma Y'shtola, que escucha los hechos con atención antes de coincidir en que la posesión de un Ascian es, en efecto, la explicación más probable. Parece que Alphinaud se metió en una telaraña de intrigas mortal, y Alisaie no puede evitar preocuparse por la seguridad de su hermano...
+TEXT_STMBDD106_03075_TODO_00	Habla con Lyse en Rhalgr's Reach.
+TEXT_STMBDD106_03075_TODO_01	Habla con Lyse en Bloodhowe.
+TEXT_STMBDD106_03075_TODO_02	Habla con Alisaie en los Rising Stones.
+TEXT_STMBDD106_03075_HIEN_000_000	Doma tiene una gran deuda contigo, amig<if(gnum4,a,o)>. Gracias a ti, tenemos todo lo que necesitamos para prosperar. Alisaie y tú tienen que prometer que pronto volverán a visitarnos. Y Alphinaud también, cuando vuelva del Empire. Que sepa que mis pensamientos lo acompañan...
+TEXT_STMBDD106_03075_YUGIRI_000_001	Por lejos que lo lleve su peregrinaje, no es la última vez que vemos a Gosetsu. De eso estoy segura.
+TEXT_STMBDD106_03075_KIENKANGATEKEEPER03028_100_002	Lord Hien lo espera. ¿Le muestro el camino?
+TEXT_STMBDD106_03075_EVENTAREA_WARP_100_003	¿Entrar al Kienkan?
+TEXT_STMBDD106_03075_ALISAIE_000_010	Creo que es hora de irnos, ¿no le parece? Hicimos todo lo que pudimos aquí, y tenemos mucho que informar.
+TEXT_STMBDD106_03075_ALISAIE_000_011	Pero antes de volver a los Rising Stones, pasemos por Rhalgr's Reach. Tenemos que ser nosotros los que le cuenten a Lyse lo de Zenos. Después de todo lo que vivimos juntos, se lo debemos.
+TEXT_STMBDD106_03075_LYSE_000_020	¡<split(<string(gstr1)>, ,1)>! ¡Alisaie! ¡Volvieron!<br>...¿Hm? ¿Y Alphinaud?
+TEXT_STMBDD106_03075_ALISAIE_000_021	Qué bueno verte, Lyse. En cuanto a mi testarudo hermano, se fue a lo que casi seguro será un viaje único en la vida a Garlemald.
+TEXT_STMBDD106_03075_ALISAIE_100_021	Es una larga historia, pero... tenemos pruebas de que Zenos podría seguir vivo.
+TEXT_STMBDD106_03075_LYSE_000_022	¡¿<italic(1)>Qué<italic(0)>?! Pero eso es... Si es una broma... ¡Por los dioses, más vale que sea una broma!
+TEXT_STMBDD106_03075_LYSE_000_023	Miren, sé lo que vi, ¿sí? <italic(1)>Todos<italic(0)> lo vimos. ¡¿Y ahora me dicen que está vivito y coleando, dándose la gran vida en Garlemald?!
+TEXT_STMBDD106_03075_ALISAIE_000_024	Sé lo absurdo que suena. A mí todavía me cuesta creerlo. Pero aunque pueda dudar de la palabra de un enviado imperial, me inclino a confiar en la de <split(<string(gstr1)>, ,1)>. <if(gnum4,Ella,Él)> vio al príncipe heredero a través del Echo, en una reunión que solo pudo haber pasado hace poco.
+TEXT_STMBDD106_03075_Q1_000_000	¿Qué dices?
+TEXT_STMBDD106_03075_A1_000_001	Era él. Era Zenos.
+TEXT_STMBDD106_03075_A1_000_002	Zenos está vivo.
+TEXT_STMBDD106_03075_LYSE_000_025	No, tiene que haber sido... no sé... algún tipo de... impostor muy convincente. Zenos está <italic(1)>muerto<italic(0)>. ¡Tenía un agujero enorme en el cuello! ¡Lo <italic(1)>enterramos<italic(0)>!
+TEXT_STMBDD106_03075_MNAAGO_000_026	Sí, y alguien se tomó el trabajo de profanar la tumba de ese desgraciado, ¿te acuerdas?
+TEXT_STMBDD106_03075_THANCRED_000_027	(-???-)Por los dorados... salones de Thal. ¿De qué están hablando?
+TEXT_STMBDD106_03075_LYSE_000_028	¡Thancred! ¿Qué te trae al Reach?
+TEXT_STMBDD106_03075_THANCRED_000_029	Alphinaud me puso a dar una mano en el Saltery (vigilar las obras de reconstrucción y demás) hasta que todo estuviera funcionando. Y ahora que funciona, pensé en pasar a verte antes de emprender mi cansado regreso al cuartel.
+TEXT_STMBDD106_03075_THANCRED_000_030	Perdón si oí mal, pero ¿hay quien sugiere que el difunto príncipe heredero podría haberse... <italic(1)>recuperado<italic(0)>? Si es así, ¿puedo sugerir que lo primero sea echar un vistazo dentro de su ataúd?
+TEXT_STMBDD106_03075_LYSE_000_031	Uf. Por mucho que odiara a ese hombre, profanar su tumba no me parece bien. Pero si eso termina con este rumor, supongo que tenemos que hacerlo. Y cuando no haya ojos curiosos cerca, si podemos.
+TEXT_STMBDD106_03075_MNAAGO_000_032	Zenos está enterrado arriba, en Bloodhowe, en The Lochs. Su tumba quedó apartada de las demás y sin nombre, para no molestar a los lugareños.
+TEXT_STMBDD106_03075_LYSE_000_033	Entonces no debería ser muy difícil de encontrar. ¡Naago, quedas a cargo hasta que vuelva!
+TEXT_STMBDD106_03075_MNAAGO_000_035	La tumba de Zenos está arriba, en Bloodhowe, el cementerio de The Lochs. La lápida no tiene nombre, pero está apartada de las demás, así que debería ser bastante obvio cuál buscan.
+TEXT_STMBDD106_03075_ALISAIE_000_036	La mayoría de las tumbas están juntas, pero a Zenos le encontraron un rincón bien solitario, ¿no...?
+TEXT_STMBDD106_03075_THANCRED_000_037	Yo apuesto a víboras retorciéndose. Quizá arañas. Abrámosla y veamos qué sale.
+TEXT_STMBDD106_03075_LYSE_000_040	Es esta... Por los dioses, más vale que esté ahí adentro. Hace un tiempo alguien garabateó toda la piedra, pero la mandé limpiar y no le di más vueltas...
+TEXT_STMBDD106_03075_THANCRED_000_041	¿Y a nadie se le ocurrió revisar si el ataúd seguía ocupado? Bueno, entonces solo nos queda un camino.
+TEXT_STMBDD106_03075_THANCRED_100_042	Y más vale asegurarnos de que nadie nos vea hacerlo. ¿Empezamos?
+TEXT_STMBDD106_03075_LYSE_000_050	Si no hay cadáver, entonces... ¿tenemos que concluir que los rumores son ciertos?
+TEXT_STMBDD106_03075_THANCRED_000_051	No necesariamente. Todavía podría tratarse de algún tipo de doble. Pudieron haber mandado a un agente a deshacerse del cuerpo para darle credibilidad al cuento de la resurrección de Zenos.
+TEXT_STMBDD106_03075_THANCRED_100_051	Pero cada vez me inclino más por la teoría de Alphinaud de la posesión de un Ascian. Por experiencia, te puedo decir que no tienen reparos en tomar un huésped vivo, así que uno muerto, menos todavía...
+TEXT_STMBDD106_03075_LYSE_000_052	¿Dices que un Ascian anda por ahí en el cuerpo de Zenos?
+TEXT_STMBDD106_03075_THANCRED_100_052	Parece una posibilidad muy real. Cuando deje esta tumba como la encontramos, iré a ver a los encargados de enterrar al príncipe heredero.
+TEXT_STMBDD106_03075_THANCRED_000_053	Antes de sacar conclusiones, quiero saber con seguridad si alguna vez enterraron un cuerpo aquí... y qué tan seguros estamos de que Zenos estaba bien muerto.
+TEXT_STMBDD106_03075_LYSE_100_053	Si no lo estaba, vaya truco. Prácticamente se cortó la cabeza él mismo. En fin, Raubahn tiene que enterarse de esto. Si averiguan algo, mándenme aviso a Rhalgr's Reach.
+TEXT_STMBDD106_03075_ALISAIE_000_054	\<suspiro> No sé por qué me sorprende: con las cosas calmándose en Doma, ya nos tocaba otra crisis.
+TEXT_STMBDD106_03075_ALISAIE_000_055	¿Vamos a los Rising Stones, entonces? Ya es hora de contarles todo esto a los demás.
+TEXT_STMBDD106_03075_LYSE_100_056	Hablé con Raubahn, y decidimos no decir nada de Zenos hasta tener pruebas innegables. No tiene sentido alarmar a todos si existe la posibilidad de que estemos equivocados.
+TEXT_STMBDD106_03075_MNAAGO_100_057	Así que la tumba estaba vacía. Por Rhalgr... ¿A cuántos perdimos para derribar a ese desgraciado, y ahora resulta que podría seguir vivo?
+TEXT_STMBDD106_03075_THANCRED_100_058	Tengo una o dos preguntas para los encargados de enterrar a Zenos...<br>Usted iba de vuelta a los Rising Stones, ¿no?
+TEXT_STMBDD106_03075_ALISAIE_000_060	Mientras lo esperaba, hablé con Urianger por linkpearl y le di un informe completo. Y'shtola viene en camino y debería llegar en cualquier... Ah.
+TEXT_STMBDD106_03075_YSHTOLA_100_061	Alisaie. <split(<string(gstr1)>, ,1)>. Qué bueno verlos sanos y salvos. ¿Qué noticias traen del Este?
+TEXT_STMBDD106_03075_YSHTOLA_100_062	...Novedades inquietantes, sin duda. Con todo lo que sabemos, yo también concluiría que ahora un Ascian habita el cuerpo de Zenos. Un doble podría engañar a los subordinados del príncipe heredero, pero ¿a <split(<string(gstr1)>, ,1)>? No, Alphinaud tenía razón.
+TEXT_STMBDD106_03075_YSHTOLA_100_063	Ojalá su sabiduría alcanzara también para cuidar su propia seguridad. Por capaz que se haya vuelto, se mete solo en la fortaleza del enemigo... y, muy probablemente, en la oscura telaraña de los Paragons.
+TEXT_STMBDD106_03075_ALISAIE_000_063	Cuando se trata de decisiones precipitadas, no soy quién para criticar, pero...
+TEXT_STMBDD106_03075_ALISAIE_000_064	Estoy preocupada. Ojalá pudiera hacer algo por él además de rezar.
+TEXT_STMBDD106_03075_SYSTEM_100_080	Mientras tanto, en el palacio imperial...
+TEXT_STMBDD106_03075_VARIS_000_080	No podemos tolerar que existan eikons. ¿No fui claro en ese punto?
+TEXT_STMBDD106_03075_ROBEMAN_000_081	(-Zenos-)Más que claro. El Warrior of Light despachó sin más al eikon en cuestión. La invocadora está muerta, y el rito ya no se puede repetir.
+TEXT_STMBDD106_03075_ROBEMAN_000_082	(-Zenos-)Todo salió según el plan: cada parte se comportó exactamente como se requería.
+TEXT_STMBDD106_03075_ROBEMAN_000_083	(-Zenos-)Mis métodos pueden parecer extremos, pero no hay motivo de preocupación. Solo trabajo para asegurar la salvación de esta estrella.
+TEXT_STMBDD106_03075_ROEGADYNSOLDIER_000_070	¿Hm? ¿Qué haces toqueteando esa cosa?
+TEXT_STMBDD106_03075_ROEGADYNSOLDIER_000_071	¡Te hice una pregunta, soldado!
+TEXT_STMBDD106_03075_ROEGADYNSOLDIER_000_072	¿Qué estás...? ¡¿Perdiste la cabeza?!
+TEXT_STMBDD106_03075_ROEGADYNSOLDIER_000_073	¡Aaah!
+TEXT_STMBDD106_03075_KATANASOLDIER_000_074	...Perdí muchas cosas, pero la cabeza sigue siendo mía.
+TEXT_STMBDD106_03075_KATANASOLDIER_000_075	Ahí estaba yo, en el escenario, listo para la última reverencia, solo para descubrir que el final no era más que un intermedio...
+TEXT_STMBDD106_03075_KATANASOLDIER_000_076	¿Aprovecharé esta oportunidad para arrepentirme de mis pecados? ¿Abrazar la bondad y la mediocridad? No, creo que no. Mientras viva aquel a quien anhelo enfrentar, la cacería debe seguir.

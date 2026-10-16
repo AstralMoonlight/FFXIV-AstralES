@@ -1,0 +1,36 @@
+key	text
+TEXT_STMBDF105_03183_SEQ_00	Después de escuchar los planes desquiciados del emperador Varis, Lyse está lista para ir a la guerra.
+TEXT_STMBDF105_03183_SEQ_01	Por fin llegó la hora de la batalla. Junto con un contingente de soldados domanos, tú y tus compañeros van hacia el Ghimlyt Dark y la primera línea de batalla.<br><br>※Enfréntate al Ghimlyt Dark con otros jugadores mediante el Duty Finder, o con un grupo de NPC mediante el Duty Support. Ambos sistemas se pueden usar desde el menú principal y desde la entrada de la mazmorra.
+TEXT_STMBDF105_03183_SEQ_02	El caos estalla por todos lados mientras te abres paso por el Ghimlyt Dark. Aunque los imperiales mandan ola tras ola de soldados contra ti y tus aliados, sus fuerzas no alcanzan. Al final reconocen la derrota y emprenden una retirada apresurada.
+TEXT_STMBDF105_03183_SEQ_03	Justo cuando te preparas para perseguirlos, una voz misteriosa vuelve a asaltar sus mentes. Cuando el dolor cede, encuentras a Alisaie inerte en el suelo.
+TEXT_STMBDF105_03183_SEQ_04	Gracias a tus esfuerzos, las fuerzas garleans se retiraron y le dieron a la Alliance un breve respiro. Mientras hablan del estado actual de la batalla contra Garlemald, Yugiri vuelve de la enfermería con noticias angustiantes: los cirujanos no encuentran la causa del mal de Alisaie. Con cinco Scions ya caídos, Raubahn sospecha que debes de estar afectad<if(gnum4,a,o)>, y además agotad<if(gnum4,a,o)>. Como no hay más señales de movimiento garlean, te pide que descanses mientras tanto.
+TEXT_STMBDF105_03183_SEQ_05	Vuelves a los Rising Stones y hablas con Hoary Boulder, que se consterna al saber que Alisaie también cayó en el sueño sin muerte que se apoderó de los demás. Aunque Krile y los otros Scions que quedan todavía no encontraron un remedio, él cree que no está todo perdido. Pero por ahora, lo único que puedes hacer es esperar.
+TEXT_STMBDF105_03183_TODO_00	Entra al Ghimlyt Dark.
+TEXT_STMBDF105_03183_TODO_01	Entra al Ghimlyt Dark.
+TEXT_STMBDF105_03183_TODO_02	Habla con Raubahn.
+TEXT_STMBDF105_03183_TODO_03	Habla con Hoary Boulder en los Rising Stones.
+TEXT_STMBDF105_03183_RAUBAHN_000_000	Mis deberes como comandante de campo me obligan a quedarme en mi puesto, pero no tengo dudas de que la primera línea está en buenas manos.
+TEXT_STMBDF105_03183_RESISTANCEGATEKEEPER_100_001	Saludos, <if(gnum4,mi señora,señor)>. Tengo instrucciones de escoltarl<if(gnum4,a,o)> al Alliance Headquarters... suponiendo que esté list<if(gnum4,a,o)>, claro.
+TEXT_STMBDF105_03183_Q1_100_002	¿Acompañar al combatiente de la Resistance al Alliance Headquarters?
+TEXT_STMBDF105_03183_HIEN_000_000	A Alisaie la están atendiendo en la enfermería. Ojalá pudiéramos hacer más por ella...
+TEXT_STMBDF105_03183_RAUBAHN_000_010	¿Así que los garleans huyeron en desbandada? Bien hecho.
+TEXT_STMBDF105_03183_RAUBAHN_000_011	Aunque este choque seguramente no fue más que una prueba de nuestra fuerza. No van a correr riesgos ahora que el emperador entró en la contienda. Van a querer tomarse su tiempo, desgastar nuestras defensas...
+TEXT_STMBDF105_03183_RAUBAHN_000_012	Igual, con tu ayuda y la de nuestros aliados del Este, pasamos la primera prueba. Nuestra línea sigue intacta.
+TEXT_STMBDF105_03183_RAUBAHN_000_013	En cuanto a Alisaie... bueno, está en buenas manos en la enfermería.
+TEXT_STMBDF105_03183_YUGIRI_000_014	Mi señor: los cirujanos terminaron de examinar a la señorita Alisaie, y es lo que temíamos. Está sumida en un sueño sin ninguna causa visible.
+TEXT_STMBDF105_03183_HIEN_000_015	Igual que los demás. Maldita sea...
+TEXT_STMBDF105_03183_RAUBAHN_000_016	Sí... los garleans eligieron un gran momento para venir a golpear la puerta.
+TEXT_STMBDF105_03183_RAUBAHN_000_017	Cinco Scions fuera de combate... Y con el enemigo en la puerta, no puedo prescindir de hombres para ayudar a buscar una cura. Lo mejor que puedo hacer es asegurarme de que Alisaie llegue sana y salva a los Rising Stones.
+TEXT_STMBDF105_03183_HIEN_000_018	Yugiri y yo volveremos a nuestro campamento. El contingente principal de nuestras fuerzas del Lejano Oriente ya zarpó, y hay que tener todo listo para su llegada.
+TEXT_STMBDF105_03183_RAUBAHN_000_019	No los retengo, entonces.
+TEXT_STMBDF105_03183_RAUBAHN_000_020	A juzgar por los movimientos recientes de los garleans, o la falta de ellos, no van a lanzar otra ofensiva en lo inmediato.
+TEXT_STMBDF105_03183_RAUBAHN_000_021	Deberías volver a los Rising Stones. Dada la situación de tus compañeros Scions, entiendo que estés con los nervios de punta, pero sin descanso no le vas a servir a nadie.
+TEXT_STMBDF105_03183_RAUBAHN_000_025	Vamos, ve a descansar. Te lo ganaste de sobra. Te avisaremos en cuanto los garleans den alguna señal de moverse.
+TEXT_STMBDF105_03183_HOARYBOULDER_000_030	Ah, <split(<string(gstr1)>, ,1)>. Bienvenid<if(gnum4,a,o)> a casa. Dicen que usted y la señorita Alisaie les dieron una buena paliza a los garleans. Hablando de ella, ¿dónde <italic(1)>está<italic(0)> la señorita Alisaie? Estaba seguro de que ya habría vuelto.
+TEXT_STMBDF105_03183_HOARYBOULDER_000_031	Por los Twelve, ella también no...
+TEXT_STMBDF105_03183_HOARYBOULDER_000_032	Ocher y yo prepararemos la enfermería para su llegada.
+TEXT_STMBDF105_03183_HOARYBOULDER_000_033	También tendremos que mandarle un mensaje a Tataru cuanto antes. \<suspiro> Ojalá tuviera algo más que malas noticias para darle...
+TEXT_STMBDF105_03183_HOARYBOULDER_000_034	Y a usted también, ya que estamos. Lamento informarle que el estado de los Archons no cambió.
+TEXT_STMBDF105_03183_HOARYBOULDER_000_035	Mientras hablamos, Coultenet, Krile y la maestra Matoya siguen explorando todas las vías posibles. Por desgracia, sus esfuerzos todavía no dieron fruto.
+TEXT_STMBDF105_03183_HOARYBOULDER_000_036	Pero no está todo perdido. Usted, después de todo, sigue sano y entero. Aunque sospecho que debe de estar cansad<if(gnum4,a,o)> del viaje. Debería descansar, amig<if(gnum4,a,o)>. Déjenos las preocupaciones a nosotros, al menos por ahora.
+TEXT_STMBDF105_03183_SYSTEM_100_040	Mientras tanto, en la frontera de Ala Mhigo...

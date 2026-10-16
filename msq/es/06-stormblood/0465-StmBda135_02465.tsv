@@ -1,0 +1,32 @@
+key	text
+TEXT_STMBDA135_02465_SEQ_00	Rhalgr's Reach ya no es un lugar seguro, y Pipin lo sabe bien.
+TEXT_STMBDA135_02465_TODO_00	Habla con Orella.
+TEXT_STMBDA135_02465_TODO_01	Busca suministros médicos en la enfermería.
+TEXT_STMBDA135_02465_TODO_02	Entrégale los suministros médicos al mensajero de los Flames.
+TEXT_STMBDA135_02465_CONRAD_000_010	Me voy a recuperar. Mis heridas no son graves, aunque claramente fue a propósito y no por casualidad. Querían llevarme vivo.
+TEXT_STMBDA135_02465_KRILE_000_015	Estás preocupad<if(gnum4,a,o)> por Y'shtola, ¿no? \<suspiro> Es muy pronto para hacer cualquier pronóstico, pero... está viva. Por ahora.
+TEXT_STMBDA135_02465_LYSE_000_020	Si no fuera por ella, sería yo la que estaría ahí tirada...<br><italic(1)>...Ojalá fuera yo.<italic(0)>
+TEXT_STMBDA135_02465_YSHTOLA_000_025	...
+TEXT_STMBDA135_02465_PIPIN_000_030	No fue una derrota por poco. Fue total: una humillación. No pudimos hacer nada contra el ataque del enemigo.
+TEXT_STMBDA135_02465_PIPIN_000_031	Pero no podemos darnos el lujo de quedarnos pensando en nuestro fracaso. Como dijo Alphinaud, ahora tenemos que pensar en los que sobrevivieron.
+TEXT_STMBDA135_02465_PIPIN_000_032	Rhalgr's Reach ya no es seguro. Puede que los imperiales se hayan retirado, pero podrían volver en cualquier momento a terminar lo que empezaron. No nos atrevemos a quedarnos aquí.
+TEXT_STMBDA135_02465_PIPIN_000_033	A quienes no estén en condiciones de viajar hasta Castrum Oriens habrá que llevarlos en carruajes de chocobos. ¿De acuerdo?
+TEXT_STMBDA135_02465_PIPIN_000_034	Bien. Yo me encargaré de preparar los carruajes. Mientras tanto, quiero que busque en la enfermería cualquier suministro que pueda servir durante el viaje.
+TEXT_STMBDA135_02465_ORELLA_100_040	Perdóneme, pero es imprescindible que siga preparando medicinas para los heridos. Si necesita tratamiento, tendré que pedirle que lo busque en otra parte.
+TEXT_STMBDA135_02465_ORELLA_100_041	Ah, ya veo... En ese caso, puede buscar en el Barber y llevarse lo que necesite. No quiero que nuestra gente muera en el camino.
+TEXT_STMBDA135_02465_ORELLA_100_042	Lo ayudaría, pero este proceso exige toda mi atención.
+TEXT_STMBDA135_02465_ORELLA_200_042	Llévese todo lo que necesite. Después repongo las existencias.
+TEXT_STMBDA135_02465_ALISAIE_000_045	¿Vamos a trasladar a los heridos a Castrum Oriens? Entendido. Voy a ver si alguien necesita ayuda.
+TEXT_STMBDA135_02465_ALPHINAUD_000_050	Acompañaré al comandante Kemp en uno de los carruajes.
+TEXT_STMBDA135_02465_CONRAD_000_055	No, no, no quiero ser una carga...
+TEXT_STMBDA135_02465_KRILE_000_060	Vamos a tener que llevar a Y'shtola al carruaje. ¿Me das una mano, Lyse?
+TEXT_STMBDA135_02465_LYSE_000_065	¡Ni hace falta que lo preguntes!
+TEXT_STMBDA135_02465_FLAMECOURIER_000_070	<if([gnum54>0],<if([gnum54<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if(gnum4,Señorita,Señor)>)>,<if(gnum4,Señorita,Señor)>)>. El Marshal Tarupin dijo que quizá tenía algo para mí.
+TEXT_STMBDA135_02465_FLAMECOURIER_000_071	Alabados sean los Twelve. Esto debería tranquilizar a los cocheros. Dígale al vicemariscal que esperamos sus órdenes.
+TEXT_STMBDA135_02465_KRILE_000_082	Y'shtola y los demás ya están bien sujetos. No te preocupes: voy a estar a su lado todo el tiempo.
+TEXT_STMBDA135_02465_ALPHINAUD_000_083	Gracias, Krile.
+TEXT_STMBDA135_02465_LYSE_000_084	Yo voy a ir caminando al lado. Van a necesitar protección por si los garleans intentan algo.
+TEXT_STMBDA135_02465_LYSE_000_085	Un momento. Usted también está herido, ¿no? ¿No debería ir en uno de los carruajes?
+TEXT_STMBDA135_02465_CONRAD_000_086	No estoy tan débil como para no poder hacer el viaje por mi cuenta. Además, todavía queda trabajo por hacer aquí. Los veo en el Wall cuando termine.
+TEXT_STMBDA135_02465_PIPIN_000_087	Como quiera. Entonces partamos de inmediato. Avanzaremos tan rápido como lo permita la salud de nuestros compañeros.
+TEXT_STMBDA135_02465_PIPIN_000_088	¡A Castrum Oriens!

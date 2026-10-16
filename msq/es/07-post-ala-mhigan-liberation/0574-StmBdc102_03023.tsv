@@ -1,0 +1,40 @@
+key	text
+TEXT_STMBDC102_03023_SEQ_00	Alphinaud tiene ganas de encontrar al prestamista.
+TEXT_STMBDC102_03023_TODO_00	Busca al dueño del Shofuku Shichiten en Kogane Dori.
+TEXT_STMBDC102_03023_TODO_01	Habla con Ume en la Umineko Teahouse.
+TEXT_STMBDC102_03023_YUGIRI_100_000	¿No es extraño que tengamos que recurrir a alguien que los traicionó ante el Empire a usted y a Gosetsu? Diría que el destino se burla de nosotros... si no hubiera conocido a Hancock.
+TEXT_STMBDC102_03023_ALPHINAUD_000_000	¿Todo en orden? Entonces vayamos a Kogane Dori a buscar al dueño del Shofuku Shichiten.
+TEXT_STMBDC102_03023_ALPHINAUD_000_010	Basta con pronunciar la palabra "prestamista" para que se te junten veinte alrededor. Encontrar a nuestro hombre quizá no sea tan fácil como pensaba.
+TEXT_STMBDC102_03023_YUGIRI_000_015	Todavía no identifiqué al prestamista en cuestión. ¿Sus averiguaciones dieron más frutos?
+TEXT_STMBDC102_03023_ROUGHPAWNBROKER03023_000_020	¿Un samurai Roegadyn y una doncella? Nunca los vi. Ahora, si no tiene asuntos conmigo, ¡hágale lugar a alguien que sí!
+TEXT_STMBDC102_03023_SYSTEM_000_021	No parece ser el prestamista que buscas.
+TEXT_STMBDC102_03023_SMILEPAWNBROKER03023_000_025	Mmm... <italic(1)>quizá<italic(0)> tuvimos clientes como los que describe. Pasa tanta gente que cuesta acordarse. ¿Quizá podría refrescarme la memoria con una compra? ...¿No? Bueno, ¡no puede culpar a una mujer por intentarlo! ¡Je, je!
+TEXT_STMBDC102_03023_SYSTEM_000_026	No parece ser el prestamista que buscas.
+TEXT_STMBDC102_03023_PAWNBROKER03023_000_029	Bienvenid<if(gnum4,a,o)>, <if(gnum4,buena señora,buen señor)>, bienvenid<if(gnum4,a,o)>. ¿Viene a comprar o...?
+TEXT_STMBDC102_03023_PAWNBROKER03023_100_029	Ah, así que oyó hablar de la katana del samurai Roegadyn. No es de extrañar: es un ejemplar excelente. Un momento...
+TEXT_STMBDC102_03023_ALPHINAUD_100_030	¿Me atrevo a esperar que encontró a nuestro prestamista?
+TEXT_STMBDC102_03023_ALPHINAUD_101_030	Excelente trabajo, <split(<string(gstr1)>, ,1)>. ¿Y esa es la katana?
+TEXT_STMBDC102_03023_YUGIRI_000_031	No hay duda. Es la espada de Gosetsu.
+TEXT_STMBDC102_03023_PAWNBROKER03023_000_032	(-Dueño del Shofuku Shichiten-)La factura es exquisita, ¿no? Y le alegrará saber que el plazo del empeño acaba de vencer.
+TEXT_STMBDC102_03023_PAWNBROKER03023_000_033	(-Dueño del Shofuku Shichiten-)Con gusto se la vendería... siempre que tenga las monedas. No es un arma común, ¿entiende?, y el precio va acorde. Pero si va en serio, le sugiero actuar rápido, porque varios coleccionistas conocidos ya mostraron interés.
+TEXT_STMBDC102_03023_YUGIRI_000_034	Mmm... La espada es la prueba definitiva de que Gosetsu sobrevivió. Supongo que <italic(1)>podría<italic(0)> considerarse un costo necesario para asegurar su regreso sano y salvo...<br>Pero no es una decisión que pueda tomar sola, y menos cuando nuestra nación apenas empezó a reconstruirse.
+TEXT_STMBDC102_03023_Q1_000_000	¿Qué dices?
+TEXT_STMBDC102_03023_A1_000_001	Yo la pago.
+TEXT_STMBDC102_03023_A1_000_002	Podría prestarte el dinero.
+TEXT_STMBDC102_03023_YUGIRI_000_040	No, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>. Aunque le agradezco la oferta, no puedo pedirle esto. Me basta con saber que Gosetsu está vivo y bien.
+TEXT_STMBDC102_03023_YUGIRI_000_045	No, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>. Aunque le agradezco la oferta, no puedo pedirle esto. Me basta con saber que Gosetsu está vivo y bien.
+TEXT_STMBDC102_03023_ALPHINAUD_000_055	Yugiri, espere. Los Scions compraremos la katana. Le ruego que la considere un regalo.
+TEXT_STMBDC102_03023_YUGIRI_000_057	S-Señor Alphinaud, su bondad me conmueve, de verdad. Pero en asuntos de dinero, ¿la señora Tataru no esperaría que la consultaran?
+TEXT_STMBDC102_03023_ALPHINAUD_000_058	Vamos. Nuestro amigo nunca se habría desprendido de su espada si la necesidad no fuera grande. ¿Y no nos obliga el honor a ayudar a un amigo en apuros? Yo digo que sí, y estoy seguro de que Tataru estará totalmente de acuerdo.
+TEXT_STMBDC102_03023_PAWNBROKER03023_000_059	(-Dueño del Shofuku Shichiten-)¡Entonces está decidido! Hizo una elección sabia, amig<if(gnum4,a,o)>: ¡piezas así se ven muy de vez en cuando! Ahora, si tiene la bondad de venir por aquí, prepararé los papeles necesarios.
+TEXT_STMBDC102_03023_YUGIRI_000_064	Si me permite preguntar, señor: ¿sabe por casualidad adónde fue el viejo samurai después de visitar su local? Es nuestro amigo, y queremos devolverle su arma.
+TEXT_STMBDC102_03023_PAWNBROKER03023_000_065	(-Dueño del Shofuku Shichiten-)¿Un amigo suyo, dice? Ya veo. <italic(1)>Bueno, entonces<italic(0)>, supongo que no hay nada de malo en decírselo. Apenas le di la suma que pidió, su bonita y joven acompañante empezó a reclamar dango a gritos. Le recomendé los de la Umineko Teahouse, y para allá fueron.
+TEXT_STMBDC102_03023_ALPHINAUD_000_066	<italic(1)>...¿Reclamando dango a gritos<italic(0)>? ¿De verdad pueden ser las mismas personas? No tiene sentido.
+TEXT_STMBDC102_03023_YUGIRI_000_067	Algún tipo de código, quizá. Pero no ganamos nada especulando. Vayamos a esa casa de té a ver si encontramos su rastro.
+TEXT_STMBDC102_03023_PAWNBROKER03023_000_070	Si busca a sus amigos, no estaría mal probar en la Umineko Teahouse. Claro que no le garantizo nada...
+TEXT_STMBDC102_03023_ALPHINAUD_000_073	Esta es la dueña de la casa de té. Averigüemos lo que sabe.
+TEXT_STMBDC102_03023_YUGIRI_000_075	El Gosetsu que yo conocía tenía poco tiempo para las casas de té... No hay vino.
+TEXT_STMBDC102_03023_UME_000_080	¡Pero claro que me acuerdo! ¿Cómo olvidar a una pareja así? La muchacha más hermosa que hayas visto, devorando dango como si le fuera la vida en ello mientras el viejo samurai miraba. ¡No era lo que él esperaba, apuesto!
+TEXT_STMBDC102_03023_UME_000_081	Lejos de mí chismorrear sobre mis clientes, pero él pensaba llevársela al otro lado del Ruby Sea, lejos del alcance de su familia, seguro. Cuando la muchacha por fin quedó satisfecha, salieron hacia el Shiokaze Hostelry, supongo que a buscar a alguien discreto con un bote.
+TEXT_STMBDC102_03023_YUGIRI_000_082	Así que Gosetsu va hacia Doma.
+TEXT_STMBDC102_03023_YUGIRI_000_083	Pero esta mujer que viaja con él... Cuanto más oigo de ella, más me pregunto si de verdad puede ser Yotsuyu.

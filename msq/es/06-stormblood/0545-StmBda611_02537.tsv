@@ -1,0 +1,52 @@
+key	text
+TEXT_STMBDA611_02537_SEQ_00	El miedo en los ojos de Alisaie no se parece a nada que hayas visto antes.
+TEXT_STMBDA611_02537_SEQ_01	Después de asegurar un punto de apoyo en los Peaks con la toma de Ala Ghiri, la Eorzean Alliance y la Resistance pusieron la mira en el siguiente objetivo lógico: Specula Imperatoris. Así que un gran ejército, encabezado por el General Aldynn y el comandante Kemp, sitió las torres. Pero cuando el enorme cañón de Castrum Abania se usó para destruir la torre principal de Specula Imperatoris, matando a incontables soldados aliados e imperiales, quedó claro que las reglas de combate habían cambiado...
+TEXT_STMBDA611_02537_SEQ_02	Te cuesta seguirle el paso a Alisaie mientras corre hacia lo que queda de Specula Imperatoris. Desesperada por encontrar a su hermano, cruza las puertas antes de que se te ocurra siquiera detenerla.
+TEXT_STMBDA611_02537_SEQ_03	Aunque Alphinaud y muchos otros no aparecen por ninguna parte, encuentras al General Aldynn y al Marshal Tarupin en medio de todo, gritando órdenes a diestra y siniestra para organizar la retirada de sus fuerzas. Al ver que Alisaie está al borde de la histeria, Raubahn le recuerda que todos tienen un trabajo que hacer: ayudar a los heridos.
+TEXT_STMBDA611_02537_SEQ_04	Entre los escombros, encuentras a varios soldados de la Alliance y los ayudas lo mejor que puedes. Pero por cada hombre que salvas, hay muchos más que no puedes salvar...
+TEXT_STMBDA611_02537_SEQ_05	Mientras consuelas a un Temple Knight que te recuerda de los Steps of Faith, oyes a Lyse rogándole a Conrad que abra los ojos. Al menos uno de tus compañeros sigue vivo, pero ¿y los demás?
+TEXT_STMBDA611_02537_SEQ_06	Encuentras a Lyse, M'naago y Alphinaud atendiendo a Conrad, que yace inmóvil en el suelo. Aunque los demás escaparon apenas con heridas leves, las del curtido comandante son sin duda mortales. Usa sus últimos momentos para rogarle a Lyse que lo suceda como líder de la Ala Mhigan Resistance, y ella acepta entre lágrimas, prometiendo guiar a sus compatriotas hacia la libertad. Tranquilo de saber que su legado está asegurado, Conrad Kemp sonríe y exhala su último aliento.
+TEXT_STMBDA611_02537_SEQ_07	Alphinaud está furioso, y jura una venganza sangrienta por la muerte de Conrad y la masacre indiscriminada de Specula Imperatoris. Porque, de verdad, ¿qué clase de monstruo ordenaría la muerte de los suyos...?
+TEXT_STMBDA611_02537_TODO_00	Sigue a Alisaie.
+TEXT_STMBDA611_02537_TODO_01	Habla con Raubahn.
+TEXT_STMBDA611_02537_TODO_02	Busca soldados heridos que necesiten ayuda.
+TEXT_STMBDA611_02537_TODO_03	Sigue buscando soldados heridos.
+TEXT_STMBDA611_02537_TODO_04	Habla con Lyse.
+TEXT_STMBDA611_02537_TODO_05	Habla con Alphinaud.
+TEXT_STMBDA611_02537_ALISAIE_000_001	¡Por aquí! ¡No hay tiempo que perder!
+TEXT_STMBDA611_02537_SYSTEM_100_020	Parece que las cerraduras de la enorme puerta están desactivadas. Solo tienes que forzarla para pasar...
+TEXT_STMBDA611_02537_AREA_WARP_YESNO_TITLE	¿Entrar a Specula Imperatoris?
+TEXT_STMBDA611_02537_ALISAIE_000_020	Es peor de lo que parece... S-Seguramente él ni siquiera estaba... <italic(1)>Recomponte.<italic(0)><br>La puerta. Por aquí entramos.
+TEXT_STMBDA611_02537_ALISAIE_000_021	Tenemos que encontrar a mi hermano. Ya... mismo.
+TEXT_STMBDA611_02537_ALISAIE_000_025	¡Maldición! N-No los veo. Ni a mi hermano ni a Lyse. Quizá el General sepa algo.
+TEXT_STMBDA611_02537_RAUBAHN_000_030	Me alegra que estés aquí, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>)>)>. Por si no es obvio, los imperiales nos dispararon. A Specula Imperatoris.
+TEXT_STMBDA611_02537_RAUBAHN_000_031	No creí que fueran capaces. ¡Matar a sus propios hombres solo para matarnos a nosotros! ¡Malditos sean todos!
+TEXT_STMBDA611_02537_ALISAIE_000_032	¿Dónde está mi hermano? ¡Dígame dónde está! ¡Quiero verlo!
+TEXT_STMBDA611_02537_PIPIN_000_033	Estaba en la torre cuando la alcanzó el disparo. Pero eso no tiene por qué significar nada. Nuestras fuerzas todavía están evacuando, y muchos siguen desaparecidos.
+TEXT_STMBDA611_02537_RAUBAHN_000_034	¿Alisaie? Alisaie, escucha: hay soldados heridos y moribundos por todas partes, soldados con familia, como tú y como yo. Necesitan nuestra ayuda. ¿Entiendes?
+TEXT_STMBDA611_02537_ALISAIE_000_035	...Tiene razón.<br>Yo voy al norte, usted vaya al este.
+TEXT_STMBDA611_02537_RAUBAHN_000_040	¡Díganles a los Adders que necesitamos a sus conjurers listos para recibir a nuestros heridos! ¡Y consíganme todos los carruajes que encuentren! ¡Podrían volver a dispararnos en cualquier momento!
+TEXT_STMBDA611_02537_PIPIN_000_045	¡Así se hará!
+TEXT_STMBDA611_02537_WOUNDEDSERPENTSOLDIER_000_050	Matron... Matron, ten piedad...
+TEXT_STMBDA611_02537_WOUNDEDFLAMESOLDIER_000_055	Maldita sea, mi pierna...
+TEXT_STMBDA611_02537_WOUNDEDSTORMSOLDIER_000_060	¿D-Dónde estoy? ¿Qué pasó?
+TEXT_STMBDA611_02537_WOUNDEDISHGARDIANSOLDIER_000_065	...
+TEXT_STMBDA611_02537_WOUNDEDSERPENTSOLDIER_000_070	Gracias. Creo... creo que puedo arreglármelas solo...
+TEXT_STMBDA611_02537_WOUNDEDSERPENTSOLDIER_100_070	Voy a estar bien, de verdad. Solo... solo deme un momento...
+TEXT_STMBDA611_02537_WOUNDEDFLAMESOLDIER_000_071	Por un momento creí que iba camino al gran salón de Thal. Por los dioses, ¿en qué estaban pensando los imperiales...?
+TEXT_STMBDA611_02537_WOUNDEDFLAMESOLDIER_100_071	Iré a los carruajes en cuanto recupere el aliento. No se preocupe.
+TEXT_STMBDA611_02537_WOUNDEDSTORMSOLDIER_000_072	Solo... deme un momento para que el mundo deje de dar vueltas, ¿sí? ...Listo. Ala Ghiri no está lejos. Voy a llegar. Voy a llegar...
+TEXT_STMBDA611_02537_WOUNDEDSTORMSOLDIER_100_072	Juré que moriría en el mar, y no pienso romper esa promesa.
+TEXT_STMBDA611_02537_WOUNDEDISHGARDIANSOLDIER_000_080	Agh... Me duele todo. Creo que me golpearon escombros de la torre...
+TEXT_STMBDA611_02537_WOUNDEDISHGARDIANSOLDIER_000_081	¡Un momento, lo conozco! ¡<string(gstr1)>! ¡Protegid<if(gnum4,a,o)> de la House Fortemps!
+TEXT_STMBDA611_02537_WOUNDEDISHGARDIANSOLDIER_000_082	Peleamos juntos en los Steps of Faith. Me salvó la vida entonces... y ahora...
+TEXT_STMBDA611_02537_WOUNDEDISHGARDIANSOLDIER_000_083	Puedo caminar. Gracias. Mil veces, gracias...
+TEXT_STMBDA611_02537_LYSE_000_084	¡Conrad! ¡Conrad, ¿me oyes?!<br>¡Naago, déjalo ahí!
+TEXT_STMBDA611_02537_ALPHINAUD_000_085	¡<split(<string(gstr1)>, ,1)>! ¡Me alegra muchísimo verl<if(gnum4,a,o)>! Un momento... ¿dónde está mi hermana?
+TEXT_STMBDA611_02537_MNAAGO_000_090	Oh, poderoso Rhalgr, oh, noble Azeyma, se los suplico: ¡no nos lo quiten!
+TEXT_STMBDA611_02537_LYSE_000_100	Te lo prometo...
+TEXT_STMBDA611_02537_MNAAGO_000_105	¡No, no, no! ¡No puedes! Ahora no... \<sollozo> \<sollozo>
+TEXT_STMBDA611_02537_ALPHINAUD_000_110	Podríamos haberlos matado. Podríamos habernos ido...
+TEXT_STMBDA611_02537_ALPHINAUD_000_111	Pero en cambio intentamos convencerlos de deponer las armas. Intentamos buscar una solución pacífica.
+TEXT_STMBDA611_02537_ALPHINAUD_100_111	Les mostramos clemencia, y esta fue su respuesta. ¡Fuego y sangre! ¡<italic(1)>Esta<italic(0)> fue su respuesta!
+TEXT_STMBDA611_02537_ALPHINAUD_000_112	Crímenes así no pueden quedar impunes. ¡No <italic(1)>deben<italic(0)>! ¡Pongo a los dioses por testigos: habrá un ajuste de cuentas!

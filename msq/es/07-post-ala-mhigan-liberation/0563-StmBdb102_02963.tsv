@@ -1,0 +1,62 @@
+key	text
+TEXT_STMBDB102_02963_SEQ_00	Casi puedes ver los engranajes girando en la cabeza de Alphinaud.
+TEXT_STMBDB102_02963_TODO_00	Habla con los vecinos del Ala Mhigan Quarter.
+TEXT_STMBDB102_02963_TODO_01	Habla con Ernold.
+TEXT_STMBDB102_02963_TODO_02	Infórmale a Arenvald.
+TEXT_STMBDB102_02963_ARENVALD_000_001	Si alguien puede encontrar ese tesoro, somos nosotros. Pero aunque no lo encontremos, la aventura ya va a ser recompensa suficiente, creo yo.
+TEXT_STMBDB102_02963_ALPHINAUD_000_002	La noticia de la liberación de Doma y Ala Mhigo encendió la llama de la revolución en todos los rincones del Empire. Oigo que la provincia imperial de Dalmasca ya se levantó en rebelión...
+TEXT_STMBDB102_02963_ALPHINAUD_000_010	...Lo que significa que los garleans seguramente tienen las manos llenas. ¿Qué mejor momento que ahora para darnos este gusto? Dinos, Arenvald: ¿tenemos alguna pista de por dónde empezar a buscar?
+TEXT_STMBDB102_02963_ARENVALD_000_011	Bueno, a juzgar por cómo les fue a los otros cazadores de tesoros, husmear por el palacio no nos va a llevar a ninguna parte, así que... seguramente vamos a tener que, eh... preguntar por ahí.
+TEXT_STMBDB102_02963_ALPHINAUD_000_012	¿Esa sería otra forma de decir que no?
+TEXT_STMBDB102_02963_ARENVALD_000_013	Bueno... ¡Je, je, je! Sí.
+TEXT_STMBDB102_02963_ALPHINAUD_000_014	Ya veo. En ese caso, iré a ver a los archiveros de la Alliance y pediré acceso a los registros que se les confiscaron a los imperiales.
+TEXT_STMBDB102_02963_ALPHINAUD_000_015	Los garleans son meticulosos con esas cosas. Si descubrieron el tesoro durante la ocupación, seguro que quedó registrado.
+TEXT_STMBDB102_02963_ALPHINAUD_000_016	Mientras tanto, ustedes dos pueden buscar a quienes trabajaron como sirvientes y funcionarios del palacio en tiempos de Theodoric.
+TEXT_STMBDB102_02963_ALPHINAUD_000_017	Como entonces debían de tener al menos veinte años, van a buscar gente de cuarenta o más. Cualquier cosa que puedan contarles del rey y sus actos sangrientos puede ser útil, así que escuchen bien.
+TEXT_STMBDB102_02963_ALPHINAUD_000_018	Arenvald, por favor prueba suerte en las Fringes y los Peaks mientras <split(<string(gstr1)>, ,1)> recorre el Ala Mhigan Quarter.
+TEXT_STMBDB102_02963_ARENVALD_000_019	¡Ja! Y yo que creía que el líder del grupo era <italic(1)>yo<italic(0)>. No es que me moleste, claro. Manos a la obra, ¿eh? ¡Después nos vemos en la Gylbarde's Gate!
+TEXT_STMBDB102_02963_MIDDLEAGEMAN_000_030	...¿En el palacio? No, yo no, <if(gnum4,muchacha,muchacho)>.
+TEXT_STMBDB102_02963_MIDDLEAGEMAN_000_031	¿Seguro que oíste historias del rey loco? Hacía ejecuciones públicas allá arriba, en la Divine Audience. A cualquiera, y digo <italic(1)>cualquiera<italic(0)>, que sospechara que conspiraba contra la corona, lo tiraba desde lo alto de esas escaleras.
+TEXT_STMBDB102_02963_MIDDLEAGEMAN_000_032	Basta con decir que me mantuve lo más lejos posible del palacio.
+TEXT_STMBDB102_02963_MIDDLEAGEMAN_000_035	No, <if(gnum4,muchacha,muchacho)>, nunca pisé la casa del King of Ruin. ¿Quién en su sano juicio querría acercarse a un hombre así?
+TEXT_STMBDB102_02963_MIDDLEAGEWOMAN_000_040	¿Quieres oír las historias de una vieja solterona? Bueno, casi todo lo que sé del rey loco lo sabe todo el mundo.
+TEXT_STMBDB102_02963_MIDDLEAGEWOMAN_000_041	Solo veíamos a Su Majestad Real cuando se dignaba a asistir a las ejecuciones que ordenaba. Y después de un tiempo, ni siquiera ver morir a sus "enemigos" alcanzaba para sacarlo de su escondite.
+TEXT_STMBDB102_02963_MIDDLEAGEWOMAN_000_042	Dicen que empezó a ver asesinos en cada sombra, y que no quería poner un pie fuera de los muros del palacio. Una vez me ofrecieron trabajo ahí como sirvienta real, pero de solo pensarlo me corría un sudor frío...
+TEXT_STMBDB102_02963_MIDDLEAGEWOMAN_000_045	Nunca estuve tan desesperada como para aceptar un trabajo en el palacio. No hay plata que valga la vida.
+TEXT_STMBDB102_02963_MIDDLEAGEHELLSGUARD_000_050	...Sí, serví al rey Theodoric y viví para contarlo. Era uno de los guardias del palacio.
+TEXT_STMBDB102_02963_MIDDLEAGEHELLSGUARD_000_051	La verdad, fue un capítulo oscuro de mi vida, y prefiero olvidarlo. Casi no pasaba una noche sin que oyéramos gritos espeluznantes que salían de las cámaras interiores... que, claro, teníamos órdenes de ignorar.
+TEXT_STMBDB102_02963_MIDDLEAGEHELLSGUARD_000_052	Así que nos quedábamos quietos como estatuas, tratando de no imaginar qué horrores pasaban adentro...<br>\<suspiro> Si tanto quieres saber qué pasaba en el palacio, ve calle abajo y pregúntale al viejo Ernold: era el escriba principal del rey.
+TEXT_STMBDB102_02963_MIDDLEAGEHELLSGUARD_000_055	A Ernold lo vas a encontrar por ahí. Si alguien conocía los secretos del rey, era él.
+TEXT_STMBDB102_02963_ERNOLD_000_060	Sí, soy Ernold. ...¿Qué quiere de mí?
+TEXT_STMBDB102_02963_ERNOLD_000_061	Mmm, quiere que desentierre recuerdos decididamente desagradables. Pero si Ala Mhigo quiere avanzar, tenemos que reconocer las fechorías del pasado.
+TEXT_STMBDB102_02963_ERNOLD_000_062	Muy bien, le contaré lo que recuerdo. ¿Supongo que sabe de la paranoia de Theodoric y de las ejecuciones públicas de sus parientes?
+TEXT_STMBDB102_02963_ERNOLD_000_063	Ya eran bastante terribles. Pero en sus últimos días, la mente afiebrada del rey dio con un método todavía más espantoso de "deshacerse" de ellos, que solo unos pocos desafortunados presenciaron.
+TEXT_STMBDB102_02963_ERNOLD_000_064	Su Majestad le ordenó al thaumaturge de la corte lanzar una maldición vil sobre los miembros que quedaban de la familia real: una magia que los convirtió en monstruos de aspecto horrendo. Esas... monstruosidades las arrojaron después a la oscuridad bajo el palacio.
+TEXT_STMBDB102_02963_ERNOLD_000_065	Incluso ahora, las pesadillas me perturban el sueño. Si otros de la sangre de Theodoric tendían a compartir su locura, quizá fue una bendición que la monarquía terminara con él.
+TEXT_STMBDB102_02963_ERNOLD_000_070	Espero que Ala Mhigo nunca vuelva a sufrir a alguien como el King of Ruin. Olvidar es ponernos en peligro...
+TEXT_STMBDB102_02963_ALPHINAUD_000_071	Ah, oportuno como siempre. Acabamos de volver de nuestras propias averiguaciones.
+TEXT_STMBDB102_02963_ARENVALD_000_080	Ya que estamos todos, ¿por qué no compartimos lo que averiguamos?
+TEXT_STMBDB102_02963_ALPHINAUD_000_081	Permítanme empezar, entonces. Como prometí, revisé los registros imperiales en busca de cualquier mención de tesoros fantásticos... y no encontré ni una.
+TEXT_STMBDB102_02963_ALPHINAUD_000_082	Supongo que es posible que un funcionario corrupto haya ocultado a propósito el hallazgo del tesoro para enriquecerse, pero me parece bastante improbable que algo tan valioso siguiera en secreto mucho tiempo. Concluyo que nuestro premio o no existe, o los imperiales de algún modo lo pasaron por alto.
+TEXT_STMBDB102_02963_ALPHINAUD_100_082	Pero ¿y usted, <split(<string(gstr1)>, ,1)>? ¿Le dieron más frutos sus averiguaciones?
+TEXT_STMBDB102_02963_ALPHINAUD_000_083	...¿Convertidos en <italic(1)>monstruos<italic(0)>? ¿Y qué querrá decir con esa "oscuridad bajo el palacio", me pregunto...?
+TEXT_STMBDB102_02963_ARENVALD_000_084	En Ala Ghiri conocí a un viejo que habló de la prisión subterránea del palacio, ¡pero no dijo nada de abominaciones malditas!
+TEXT_STMBDB102_02963_ALPHINAUD_000_085	Los archivos imperiales tampoco decían nada de monstruos dentro del palacio.
+TEXT_STMBDB102_02963_ARENVALD_000_086	¿Y si este escriba te estaba contando un cuento, eh? ¿Le creíste, <split(<string(gstr1)>, ,1)>?
+TEXT_STMBDB102_02963_Q1_000_000	¿Le creíste a Ernold?
+TEXT_STMBDB102_02963_A1_000_001	Su miedo parecía real.
+TEXT_STMBDB102_02963_A1_000_002	Quizá mentía...
+TEXT_STMBDB102_02963_ARENVALD_000_088	Si tenía miedo, eso le da credibilidad a la historia... aunque no sé bien en qué nos ayuda a buscar.
+TEXT_STMBDB102_02963_ARENVALD_000_089	Entonces volvemos al punto de partida...
+TEXT_STMBDB102_02963_ALPHINAUD_000_090	No te apresures: la anécdota de Ernold bien podría habernos dicho dónde está escondido el tesoro. Pero antes de contarles mi teoría, hay algo que quiero aclarar.
+TEXT_STMBDB102_02963_ALPHINAUD_000_091	Arenvald, hablaste de una aventura sin mayores pretensiones, pero intuyo un motivo más profundo para esta expedición. ¿Por qué tienes tanto empeño en encontrar este tesoro?
+TEXT_STMBDB102_02963_ARENVALD_000_092	...No era todo fingido, lo juro. Pero... tienes razón.
+TEXT_STMBDB102_02963_ARENVALD_000_093	Mi padre estaba en el ejército imperial, un hombre de sangre garlean. ¿Supongo que entienden lo que quiero decir cuando digo que mi madre alamhigana no recibió con alegría mi llegada?
+TEXT_STMBDB102_02963_ARENVALD_000_094	Mientras crecía, me revisaba la frente una y otra vez, convencida de que una mancha en mi piel era un tercer ojo que estaba saliendo, como los que tienen los garleans de pura sangre. A mi madre no le gustaba ese recordatorio burlón de mi origen, y tomó un cuchillo...<br>La pintura de guerra sirve para tapar la cicatriz.
+TEXT_STMBDB102_02963_ARENVALD_000_095	Al final me echó a la calle, y quedé rondando los callejones de Ala Mhigo, un niño salvaje que conseguía lo que necesitaba mendigando, con astucia o con cosas peores.
+TEXT_STMBDB102_02963_ARENVALD_000_096	Lo mejor que puedo decir de los años que siguieron es que sobreviví. Pero odiaba al animal en que me había convertido. Al final dejé atrás la ciudad y me uní a un grupo de refugiados que iba al otro lado del Wall. Fue entonces cuando empecé como aventurero, y ese camino me llevó hasta los Scions.
+TEXT_STMBDB102_02963_ARENVALD_000_097	Les cuento esto para que entiendan: sé demasiado bien lo que la pobreza y el hambre le pueden hacer a una persona.
+TEXT_STMBDB102_02963_ARENVALD_000_098	Le saqué el acero a gente común por un mendrugo de pan. Con el oro de Theodoric, podría ahorrarles a mis compatriotas la vergüenza de vivir así.
+TEXT_STMBDB102_02963_ALPHINAUD_000_099	Gracias, Arenvald, y perdóname: no debe de haber sido agradable recordarlo. Pero me pareció mejor dejar claras nuestras intenciones.
+TEXT_STMBDB102_02963_ALPHINAUD_000_100	¿Y bien, <split(<string(gstr1)>, ,1)>? ¿Está conforme con entregar el tesoro a la noble causa de Arenvald y quedarse con la emoción de la aventura como recompensa?
+TEXT_STMBDB102_02963_ALPHINAUD_000_101	Entonces me alegrará contarles mi teoría sobre dónde descansa el tesoro del rey loco... ¿si quieren oírla?

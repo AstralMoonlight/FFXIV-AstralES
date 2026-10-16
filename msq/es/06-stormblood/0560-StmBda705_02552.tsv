@@ -1,0 +1,82 @@
+key	text
+TEXT_STMBDA705_02552_SEQ_00	Raubahn tiene que pedirte un favor personal.
+TEXT_STMBDA705_02552_TODO_00	Entrégale a Pipin el paquete de Raubahn.
+TEXT_STMBDA705_02552_TODO_01	Sigue a Alphinaud.
+TEXT_STMBDA705_02552_TODO_02	Habla con Hakuro.
+TEXT_STMBDA705_02552_TODO_03	Infórmale a Pipin.
+TEXT_STMBDA705_02552_ALPHINAUD_000_010	Le pedí a Urianger que cuide a Krile. La mantendrá lejos del peligro. Aunque, después de lo que pasó, su bienestar físico quizá sea lo que menos debería preocuparnos...
+TEXT_STMBDA705_02552_URIANGER_000_015	No temáis por su seguridad. Mirad hacia el este.
+TEXT_STMBDA705_02552_RAUBAHN_000_020	Bien, entonces. Tengo que ir con mis hombres. Voy a encabezar la primera carga por la brecha.
+TEXT_STMBDA705_02552_ALPHINAUD_000_021	Entonces iremos al frente.
+TEXT_STMBDA705_02552_RAUBAHN_000_022	Pipin está al mando de nuestra artillería afuera de la puerta. No les va a costar encontrarlo.
+TEXT_STMBDA705_02552_RAUBAHN_000_023	Ah, pero antes de que se vayan, tengo un último favor que pedir.
+TEXT_STMBDA705_02552_RAUBAHN_000_024	Dale esto a mi hijo. Va a entender.
+TEXT_STMBDA705_02552_RAUBAHN_000_025	No hacen falta explicaciones. Cuando lo vea, lo va a saber.
+TEXT_STMBDA705_02552_ALPHINAUD_000_030	Parece que nuestra posición aquí está asegurada...
+TEXT_STMBDA705_02552_PIPIN_000_040	<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>)>)>, Alphinaud. ¿Hm? ¿Qué traen ahí?
+TEXT_STMBDA705_02552_PIPIN_000_041	Por los Twelve, esta es... ¡esta es Tizona!
+TEXT_STMBDA705_02552_ALPHINAUD_000_042	La legendaria espada del Bull of Ala Mhigo, forjada con dos hojas malditas...
+TEXT_STMBDA705_02552_PIPIN_000_043	Esta espada es el símbolo de todo lo que mi padre luchó por lograr. Un arma ganada en las arenas sangrientas, y con ella la fortuna y la gloria. Sus llamas consumen a los indignos, pero por el fuego renació él.
+TEXT_STMBDA705_02552_PIPIN_000_044	Que me la legue ahora... para continuar su legado...<br>Bueno, intentaré merecerla. ¡Pero que me lleven los demonios si esta es su última batalla!
+TEXT_STMBDA705_02552_PIPIN_000_050	Una vez que empecemos, no habrá respiro hasta que termine. ¿Están listos, amigos?
+TEXT_STMBDA705_02552_PIPIN_000_051	Muy bien. Prepárense. Esto debería ser todo un espectá...
+TEXT_STMBDA705_02552_FLAMEHERALD_000_052	¡Vicemariscal! ¡Vicemariscal! ¡Una unidad imperial se acerca desde el norte!
+TEXT_STMBDA705_02552_PIPIN_000_053	Quieren destruir nuestra artillería, ¿eh? ¿Cuántos son?
+TEXT_STMBDA705_02552_FLAMEHERALD_000_054	El número total no está confirmado. Al menos un escuadrón. Pero, señor... ¡son hombres lobo!
+TEXT_STMBDA705_02552_PIPIN_000_055	Los Ferae Domitae. Por todos los infiernos, lo que nos faltaba. Llamen a los Bloodsworn. Díganles que se preparen...
+TEXT_STMBDA705_02552_ALPHINAUD_000_056	¡Marshal Tarupin, espere!
+TEXT_STMBDA705_02552_ALPHINAUD_000_057	Esos "hombres lobo" de los que habla vienen de Doma. Los <italic(1)>obligaron<italic(0)> a pelear para el Empire: se los llevaron a una tierra extranjera y les dijeron que, si desobedecían, sus familias pagarían con la vida.
+TEXT_STMBDA705_02552_ALPHINAUD_000_058	¡Pero su patria fue liberada! ¡Ya no tienen motivos para seguir sirviendo a sus amos imperiales!
+TEXT_STMBDA705_02552_ALPHINAUD_000_059	Antes de enfrentarlos en batalla, se lo suplico: ¡denos un momento para ir a intentar convencerlos de deponer las armas!
+TEXT_STMBDA705_02552_PIPIN_000_060	No me gusta darle al enemigo más tiempo para prepararse... pero si hay una posibilidad de evitar este enfrentamiento, supongo que hay que aprovecharla. Vayan, entonces... pero rápido.
+TEXT_STMBDA705_02552_ALPHINAUD_000_061	Así lo haremos, vicemariscal.
+TEXT_STMBDA705_02552_ALPHINAUD_100_061	¡Conmigo, <split(<string(gstr1)>, ,1)>!
+TEXT_STMBDA705_02552_ALPHINAUD_000_065	Sueño con un día en que la gente acepte mis palabras como verdad sin exigirme que las demuestre con proezas de fuerza. Pero vamos, tenemos que irnos.
+TEXT_STMBDA705_02552_PIPIN_100_065	Nuestros exploradores informan que los hombres lobo avanzan hacia nuestra posición desde el norte de la ciudad. Convénzanlos de retirarse, o no tendremos más remedio que enfrentarlos.
+TEXT_STMBDA705_02552_ALPHINAUD_000_066	Esperaremos aquí a que lleguen los Lupin. Prepárese, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>. Aunque espero resolver esto sin recurrir a la violencia, parece sensato prepararse para lo peor...
+TEXT_STMBDA705_02552_ALPHINAUD_000_110	¡Ahí vienen, <split(<string(gstr1)>, ,1)>!
+TEXT_STMBDA705_02552_HAKURO_000_111	(-Centurión de los Ferae Domitae-)¡Ustedes! ¡Despejen el camino!
+TEXT_STMBDA705_02552_ALPHINAUD_000_112	¡Honorables guerreros de Doma! Me llamo Alphinaud Leveilleur, y vengo ante ustedes con noticias de gran importancia...
+TEXT_STMBDA705_02552_HAKURO_100_112	(-Centurión de los Ferae Domitae-)¡Silencio, muchacho! Estás en un campo de batalla. ¡Vete, o te cortamos!
+TEXT_STMBDA705_02552_ALPHINAUD_000_113	¡Doma es libre! ¡Lord Hien volvió y expulsó a Yotsuyu y a los imperiales de sus tierras! ¡Nosotros estuvimos ahí, lo ayudamos! ¡No tienen por qué pelear por Zenos!
+TEXT_STMBDA705_02552_HAKURO_000_114	(-Centurión de los Ferae Domitae-)¡Lord Hien está muerto, y tú eres un mentiroso! ¿Qué podría hacer un muchacho como tú contra el magitek? ¡¿Tirar piedras y escupir maldiciones?!
+TEXT_STMBDA705_02552_HAKURO_100_114	(-Centurión de los Ferae Domitae-)Vuelve a invocar el nombre de mi señor y lo pagarás caro. ¡No toleraremos mentiras!
+TEXT_STMBDA705_02552_ALPHINAUD_200_114	¡Solo digo la verdad! ¡Bajen las armas, se lo ruego! ¡Hablemos como amigos y no derramemos sangre en vano!
+TEXT_STMBDA705_02552_HAKURO_300_114	(-Centurión de los Ferae Domitae-)Si lo que dices fuera cierto, con gusto envainaríamos nuestras espadas y nos abrazaríamos como hermanos.
+TEXT_STMBDA705_02552_HAKURO_000_115	(-Centurión de los Ferae Domitae-)¡Pero como seguro que es falso, aceptar nos convertiría en traidores! ¡Perderíamos nuestras vidas y las de nuestros seres queridos!
+TEXT_STMBDA705_02552_HAKURO_000_116	(-Centurión de los Ferae Domitae-)¡Las palabras son aire! ¡Demostrarán la verdad de su relato en el campo de batalla, o morirán deshonrados!
+TEXT_STMBDA705_02552_HAKURO_000_117	(-Centurión de los Ferae Domitae-)No son ajenos a la batalla, eso está claro...
+TEXT_STMBDA705_02552_HAKURO_000_118	Soy el Blanco. ¡Soy Hakuro! ¡Y seré su rival! ¡En guardia!
+TEXT_STMBDA705_02552_HAKURO_000_070	Pelearon con honor y con mesura. Podrían haber matado a mis hombres, y quizá incluso a mí... pero no lo hicieron. Por eso les doy las gracias.
+TEXT_STMBDA705_02552_HAKURO_000_071	Guerreros valientes y leales. Les ruego que nos cuenten de la batalla por la liberación de Doma.
+TEXT_STMBDA705_02552_ALPHINAUD_000_072	Con gusto lo haremos...
+TEXT_STMBDA705_02552_HAKURO_000_073	...¡Lord Hien volvió! Qué alegría nos trae esta noticia.
+TEXT_STMBDA705_02552_HAKURO_000_074	Pero que Lord Gosetsu haya muerto en el derrumbe de la torre... que nos lo hayan quitado con semejante traición... No hay justicia...
+TEXT_STMBDA705_02552_Q1_000_075	¿Qué dices?
+TEXT_STMBDA705_02552_A1_000_076	La vista al frente, Hakuro. No habría querido una muerte mejor.
+TEXT_STMBDA705_02552_A1_000_077	...
+TEXT_STMBDA705_02552_HAKURO_000_078	Lo conocías bien. Sí, no toleraría que lo lloráramos con tanto por hacer. Y así no lo haremos. El deber está por encima de todo.
+TEXT_STMBDA705_02552_HAKURO_000_079	Pero yo conocía a ese hombre, y no toleraría que lo lloráramos en la víspera de esta gran batalla. El deber está por encima de todo.
+TEXT_STMBDA705_02552_HAKURO_100_079	Todos los Lupin sabrán de la liberación de Doma, y del papel que tuvieron ustedes en ella.
+TEXT_STMBDA705_02552_HAKURO_200_079	Cuando rompan las puertas, nos volveremos contra los imperiales como uno solo. Con colmillos y garras les abriremos la garganta a nuestros amos. Lo jura el Blanco.
+TEXT_STMBDA705_02552_ALPHINAUD_300_079	Gracias. Cuando termine nuestra guerra, estoy seguro de que su señor nos ayudará a llevarlos a todos de vuelta a Doma.
+TEXT_STMBDA705_02552_HAKURO_400_079	Qué curioso es el destino, que nos hace encontrarnos con amigos de Lord Hien en este rincón lejano del mundo. Pero no los entretenemos más: su día todavía no terminó.
+TEXT_STMBDA705_02552_ALPHINAUD_500_079	Vamos, no hagamos esperar a nuestros compañeros. ¡Tenemos una nación que liberar!
+TEXT_STMBDA705_02552_PIPIN_000_090	¡Qué oportunos, esos domanos! ¡Vamos, camaradas! ¡La puerta del enemigo cayó! ¡<italic(1)>Adelante<italic(0)>!
+TEXT_STMBDA705_02552_ALPHINAUD_000_095	No creerá que de verdad esperaría hasta el último... No, no. Claro que no. No es Vidofnir.
+TEXT_STMBDA705_02552_AYMERIC_000_100	Por la Fury... ¿Ese hombre acaba de derribar una armadura voladora de un solo tajo <italic(1)>en el aire<italic(0)>?
+TEXT_STMBDA705_02552_LUCIA_000_105	La estrategia del vicemariscal para romper las puertas fue de lo más ingeniosa. Una lástima que no contara con las armaduras magitek... aunque, para ser justos, ellos tampoco contaban con los domanos.
+TEXT_STMBDA705_02552_RAUBAHN_000_106	Al confiarle Tizona a Pipin, le confié el mando de los Flames. Esta vez no peleo como general, sino simplemente como soldado.
+TEXT_STMBDA705_02552_QIB_001_TODO_1	Derrota a los Ferae Domitae
+TEXT_STMBDA705_02552_QIB_001_TODO_2	Derrota a Hakuro Whitefang
+TEXT_STMBDA705_02552_WOLFMAN_BATTLETALK_001_001	¡Si mueren hoy, sabremos que son unos mentirosos!
+TEXT_STMBDA705_02552_ALPHINAUD_BATTLETALK_001_002	¿En serio...? ¡¿Tenemos que pelear para demostrar que no hace falta pelear?!
+TEXT_STMBDA705_02552_HAKURO_BATTLETALK_102_001	¡Hasta que esté satisfecho, seguiremos peleando! ¡Denme todo lo que tienen!
+TEXT_STMBDA705_02552_ALPHINAUD_BATTLETALK_002_002	¡Atentos! ¡Su fuerza supera por mucho la de sus hermanos!
+TEXT_STMBDA705_02552_HAKURO_BATTLETALK_104_001	¡Ja! ¡Ya se enfrentaron antes a un samurai de Doma!<br>Pero todavía puedo sorprenderlos...
+TEXT_STMBDA705_02552_HAKURO_BATTLETALK_105_001	¡¿Eso es todo lo que tienen, eorzeanos?! ¡No se guarden nada!
+TEXT_STMBDA705_02552_ALPHINAUD_BATTLETALK_005_002	¡Qué ferocidad...! ¡Si no se rinde, vamos a tener que matarlo!
+TEXT_STMBDA705_02552_HAKURO_BATTLETALK_105_003	Basta. Son tan buenos guerreros como dicen.
+TEXT_STMBDA705_02552_ALPHINAUD_DEAD	Maldición...
+TEXT_STMBDA705_02552_ALPHINAUD_BATTLETALK_005_003	...Que así sea. ¡Moonstone Carbuncle! ¡Ven!
+TEXT_STMBDA705_02552_ALPHINAUD_BATTLETALK_005_004	¡Pónganse dentro de las protecciones de Carbuncle!<br>¡Les darán fuerza!

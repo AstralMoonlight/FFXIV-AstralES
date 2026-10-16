@@ -1,0 +1,33 @@
+key	text
+TEXT_STMBDA603_02529_SEQ_00	Tu trabajo está lejos de terminar, y Conrad lo sabe.
+TEXT_STMBDA603_02529_TODO_00	Busca restos del ejército imperial por las Fringes.
+TEXT_STMBDA603_02529_TODO_01	Habla con Raubahn.
+TEXT_STMBDA603_02529_TODO_02	Habla con Conrad.
+TEXT_STMBDA603_02529_ARENVALD_000_001	¿Vieron eso, A'aba, Aulie? ¡Lo logramos!
+TEXT_STMBDA603_02529_MNAAGO_000_005	\<jadeo> \<jadeo> Por un momento creí que no iba a poder... ¡pero pude!
+TEXT_STMBDA603_02529_LYSE_000_010	Paso a paso, paso a paso. ¡Hasta llegar a la puerta de Zenos!
+TEXT_STMBDA603_02529_ANANTASOLDIER_000_015	Asssí que de verdad eresss todo lo que dicen. Materia de leyendasss...
+TEXT_STMBDA603_02529_CONRAD_000_020	Todavía puede haber imperiales atrincherados dentro del castellum. Vamos a tener que revisarlo de arriba abajo para estar seguros de que es seguro.
+TEXT_STMBDA603_02529_CONRAD_000_021	Mientras tanto, quiero que te reúnas con el ejército principal. Ten las armas a mano: puede que en el camino te cruces cara<-->a<-->cara con soldados en fuga.
+TEXT_STMBDA603_02529_CONRAD_000_022	Pensándolo mejor, quizá sería prudente que hicieras antes un barrido de la zona en busca de soldados escondidos. No deberíamos darles tiempo de reagruparse y lanzar un contraataque.
+TEXT_STMBDA603_02529_CONRAD_000_023	Cuando consideres que terminaste, preséntate ante el General Aldynn en Bittermill.
+TEXT_STMBDA603_02529_CONRAD_000_025	Que hayamos ganado no quiere decir que haya terminado. Todavía quedan enemigos, y un soldado en pánico te puede matar igual de rápido que uno con la cabeza fría.
+TEXT_STMBDA603_02529_POP_MESSAGE	¡Sientes una presencia desesperada!
+TEXT_STMBDA603_02529_BALLOON_000_030	¡No se acerquen!
+TEXT_STMBDA603_02529_BALLOON_000_035	¡Al diablo con esto! ¡Hoy no me muero!
+TEXT_STMBDA603_02529_ALPHINAUD_000_040	El Bull of Ala Mhigo lo hizo otra vez. Su previsión de la reacción de Fordola no tuvo ni un error.
+TEXT_STMBDA603_02529_ALISAIE_000_045	Qué bueno que M'naago hizo flamear la bandera cuando lo hizo. Un poco más y esos imperiales nos habrían tenido a su merced...
+TEXT_STMBDA603_02529_RAUBAHN_000_050	<if([gnum52>0],Saludos,<if([gnum53>0],Saludos,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>)>)>. ¿Todo bien en el puente?
+TEXT_STMBDA603_02529_RAUBAHN_000_051	Bien, bien. Aquí también se calmó la pelea, como ves.
+TEXT_STMBDA603_02529_RAUBAHN_000_052	Pipin se fue hace un momento con un contingente de tropas para ocupar Velodyna. Si los imperiales vuelven, nos van a encontrar atrincherados detrás de sus propios muros.
+TEXT_STMBDA603_02529_ALPHINAUD_000_053	No podría haber esperado un resultado mejor, General. Espléndido.
+TEXT_STMBDA603_02529_RAUBAHN_000_054	No nos adelantemos. Va a hacer falta más que un castellum para cambiar el rumbo de la guerra.
+TEXT_STMBDA603_02529_RAUBAHN_000_055	Mis hombres y yo nos ocuparemos de las fuerzas enemigas que quedan. Scions, les pido que vuelvan con el comandante Kemp y sus hombres.
+TEXT_STMBDA603_02529_ALPHINAUD_000_056	No hay que deleitarse demasiado en la victoria... no cuando quedan batallas por pelear...
+TEXT_STMBDA603_02529_ALPHINAUD_000_057	Aquí terminamos. Nuestros aliados de la Resistance nos esperan.
+TEXT_STMBDA603_02529_ALPHINAUD_000_060	De un puente de piedra a una fortaleza enorme... La ingeniería garlean nunca deja de impresionar.
+TEXT_STMBDA603_02529_ALISAIE_000_065	Ahora que controlamos Velodyna, no hay nada que nos impida marchar al este, hacia los Peaks.
+TEXT_STMBDA603_02529_LYSE_000_070	Si buscas a Arenvald, creo que está con Pipin, revisando el castellum en busca de soldados que queden.
+TEXT_STMBDA603_02529_RESISTANCEGATEGUARD_000_075	Velodyna ahora pertenece a la Alliance y a la Resistance. ¡Puede estar segur<if(gnum4,a,o)> de que los imperiales nunca volverán a tenerla!
+TEXT_STMBDA603_02529_CONRAD_000_080	¿Ya volviste? Supongo que el General y sus hombres tenían todo bajo control.
+TEXT_STMBDA603_02529_CONRAD_000_081	El vicemariscal y sus hombres aparecieron poco después de que te fuiste. Si los dioses son buenos, no va a quedar nadie con quien pelear...

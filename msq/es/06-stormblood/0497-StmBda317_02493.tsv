@@ -1,0 +1,48 @@
+key	text
+TEXT_STMBDA317_02493_SEQ_00	Yugiri quiere hablar contigo.
+TEXT_STMBDA317_02493_TODO_00	Sigue a Yugiri hasta la aldea de Namai.
+TEXT_STMBDA317_02493_TODO_01	Reúne información en la aldea de Namai.
+TEXT_STMBDA317_02493_TODO_02	Habla con Yugiri.
+TEXT_STMBDA317_02493_LYSE_000_000	Si lo que necesitamos es fuerza, entonces la vamos a conseguir. No podemos volver a perder contra él...
+TEXT_STMBDA317_02493_RESISTANCE02492_000_005	Pensar que guerreros como ustedes cruzaron los mares para ayudar a nuestra causa... ¡No tenemos cómo agradecerles!
+TEXT_STMBDA317_02493_YUGIRI_000_010	Bien, me alegraría hablar de nuestro próximo paso...
+TEXT_STMBDA317_02493_YUGIRI_000_011	Aunque, ahora que lo pienso, yo misma estuve lejos de Doma un tiempo, e incluso después de volver, la búsqueda de Lord Hien acaparó toda mi atención...
+TEXT_STMBDA317_02493_YUGIRI_000_012	Quizá nos convendría a ambos ver la realidad de Doma con nuestros propios ojos. ¿Acaso mi señor no me pidió que conociera la verdad de su corazón?
+TEXT_STMBDA317_02493_YUGIRI_000_013	Hagámoslo juntos, <split(<string(gstr1)>, ,1)>. Vayamos entre la gente y seamos testigos con nuestros propios ojos de sus penurias.
+TEXT_STMBDA317_02493_YUGIRI_000_014	Como extranjer<if(gnum4,a,o)> en estas tierras, su fama no lo precede. Además, a diferencia de Gosetsu, yo puedo acompañarlo sin llamar la atención.
+TEXT_STMBDA317_02493_LYSE_000_015	Me gustaría ir con ustedes, si no hay problema.
+TEXT_STMBDA317_02493_YUGIRI_000_016	Por supuesto. Nos alegrará su compañía, y su punto de vista.
+TEXT_STMBDA317_02493_YUGIRI_000_017	Namai no está lejos. Propongo empezar allí.
+TEXT_STMBDA317_02493_LYSE_000_020	Yugiri me dijo que me pusiera esta ropa. ¡Hace siglos que no sentía las piernas tan livianas y frescas!
+TEXT_STMBDA317_02493_YUGIRI_000_030	Ah, <split(<string(gstr1)>, ,1)>. Me alegra ver que usted también pensó en su atuendo, dada la naturaleza encubierta de nuestras actividades.
+TEXT_STMBDA317_02493_YUGIRI_000_031	¿Hm? Creo que mis motivos son obvios. Entrar a la aldea con la ropa de los shinobi sería más que imprudente<if([gnum68==30],... aunque puede tentar a la suerte\, si así lo desea...,.)>
+TEXT_STMBDA317_02493_YUGIRI_000_032	Nos haremos pasar por mercaderes ambulantes: <split(<string(gstr1)>, ,1)> como líder, y nosotras como sus ayudantes. ¿Alguna objeción?
+TEXT_STMBDA317_02493_LYSE_000_033	No soy muy del tipo mercader, pero si crees que es la mejor manera de hacerlo, confío en ti.
+TEXT_STMBDA317_02493_YUGIRI_000_034	Entonces, sin más preámbulos, empecemos.
+TEXT_STMBDA317_02493_CHIGUSA_000_040	¿Usted? ¿<if(gnum4,Una mercader,Un mercader)>? Perdone mi escepticismo, pero me parece menos <if(gnum4,una mujer,un hombre)> de comercio que un vulgar mercenario.
+TEXT_STMBDA317_02493_Q1_100_040	¿Qué haces?
+TEXT_STMBDA317_02493_A1_101_040	Imitar a Hancock lo mejor que puedas.
+TEXT_STMBDA317_02493_A1_102_040	Sonreír lo mejor que puedas.
+TEXT_STMBDA317_02493_CHIGUSA_000_041	Eso no despeja mucho mis dudas; si algo, hace que agarre más fuerte mi bolsa...
+TEXT_STMBDA317_02493_CHIGUSA_000_042	¡Me equivoqué! Qué carácter tan cálido y cordial tiene. Le ruego que me perdone la grosería de antes.
+TEXT_STMBDA317_02493_CHIGUSA_000_043	Ya pasó un tiempo desde que la virreina vino a nuestra aldea a purgarla de insurgentes. Los que se resistieron sufrieron terriblemente, y a los que no, no les fue mucho mejor.
+TEXT_STMBDA317_02493_CHIGUSA_000_044	Los que quedamos sabemos que no hay que arriesgarse a su ira. Si los imperiales exigen trabajadores, cumplimos. Si exigen reclutas para mandar como soldados a otras provincias, obedecemos.
+TEXT_STMBDA317_02493_CHIGUSA_000_045	La nuestra es una vida difícil, con pocos lujos. No sé qué vende usted, mercader, pero dudo que yo, o cualquier otro aquí, pueda pagarlo.
+TEXT_STMBDA317_02493_CHIGUSA_000_046	Lo siento, mercader, pero aquí no va a encontrar clientes.
+TEXT_STMBDA317_02493_MIYAMA_000_050	¿Vendedores extranjeros? ¿En Namai? Sea lo que sea que vendan, no tengo dinero para comprar. Quizá deberían ir a otra parte.
+TEXT_STMBDA317_02493_MIYAMA_000_051	Aunque, para ser sincero, no conozco ninguna aldea de Yanxia a la que le haya ido mejor. En otro tiempo los habría mandado con los señores samurai de Monzen... si no hubieran muerto todos en batalla o en las purgas.
+TEXT_STMBDA317_02493_MIYAMA_000_052	Está el Doman Enclave, claro, pero queda más allá de las Dairyu Moon Gates. Huelga decir que los imperiales no tienen ganas de dejar pasar a nadie que no sea de los suyos.
+TEXT_STMBDA317_02493_MIYAMA_000_053	No se pueden cruzar las Moon Gates sin la bendición de los imperiales. En otras palabras, no van a cruzar las Moon Gates.
+TEXT_STMBDA317_02493_HONAMI_000_060	¿No era usted quien vino con el general? ¿No? Mmm. Ya veo... Me equivoqué.
+TEXT_STMBDA317_02493_HONAMI_000_061	Me alegra el corazón volver a ver mercaderes ambulantes en Namai. Aunque los imperiales nunca cerraron nuestras fronteras, la gente como ustedes empezó a evitar Yanxia desde la rebelión.
+TEXT_STMBDA317_02493_HONAMI_000_062	Por desgracia, eso solo nos hizo más difícil sobrevivir. Quizá lo haya notado, pero nos faltan muchísimas cosas. Antes no estábamos mucho mejor, es cierto, pero ahora es peor...
+TEXT_STMBDA317_02493_HONAMI_000_063	¿Qué vende? Tengo algunos koban guardados, si los acepta.<br>...¿Qué pasa? ¿Por qué duda? Es mercader, ¿no?
+TEXT_STMBDA317_02493_MASATSUCHI_000_064	¿Un mercader ambulante? ¿Con carne, por casualidad? Bah, mejor no saberlo, con las pocas monedas que tengo.
+TEXT_STMBDA317_02493_MASATSUCHI_000_065	...Siento sus ojos encima. ¿No conoce a los Lupin? Seguro que no hace mucho que está en Yanxia, si no, los conocería.
+TEXT_STMBDA317_02493_MASATSUCHI_000_066	Durante generaciones servimos a los señores de Doma, compasivos y sabios como eran... pero el recuerdo de esos tiempos se borra con cada día que pasa. Como le dirán otros.
+TEXT_STMBDA317_02493_MASATSUCHI_000_067	Si me permite, ¿sería tan amable de darme...? No, olvídelo.
+TEXT_STMBDA317_02493_LYSE_000_070	Ya vi estas miradas antes. Esa misma desesperanza cansada. Es igual que en Ala Gannha...
+TEXT_STMBDA317_02493_YUGIRI_000_080	<split(<string(gstr1)>, ,1)>. ¿Qué averiguó?
+TEXT_STMBDA317_02493_YUGIRI_000_081	Lyse y yo encontramos más o menos lo mismo. Los llevaron más allá del límite.
+TEXT_STMBDA317_02493_YUGIRI_000_082	Esperaba frustración y desilusión, pero no tanto como para que llegaran a dudar de que tuviera sentido oponerse al dominio imperial...
+TEXT_STMBDA317_02493_YUGIRI_000_083	A menos que podamos convencerlos de lo contrario, temo que no podré convencer a Lord Hien de volver, y sin él...
