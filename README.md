@@ -102,8 +102,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | | | Raid de 8: Arcadion (Light-heavyweight, Cruiserweight, Heavyweight) | ![Pendiente][no] |
 | | | Raid de alianza (24): Echoes of Vana'diel | ![Pendiente][no] |
 | **Post Dawntrail** | 7.1 en adelante | Historia principal | ![Pendiente][no] |
-
-**Extra pendiente:** las cinemáticas con voz (desde la 2.2) tienen su texto aparte y todavía se ven en inglés, incluso en las expansiones ya traducidas. Se van a traducir más adelante.
+| **Extra** | 2.2 en adelante | Cinemáticas con voz (su texto va aparte de las misiones): por ahora solo la 2.2 | ![Pendiente][no] |
 
 ## Misiones de clase y job
 
