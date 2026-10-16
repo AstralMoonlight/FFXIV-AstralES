@@ -124,7 +124,7 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 |  | 4.2 | 289 | ![Traducido][ok] |
 |  | 4.3 | 251 | ![Traducido][ok] |
 |  | 4.4 | 341 | ![Traducido][ok] |
-|  | 4.5–4.56 | 475 | ![Pendiente][no] |
+|  | 4.5–4.56 | 475 | ![Traducido][ok] |
 | **Shadowbringers** | 5.0 | 3.106 | ![Pendiente][no] |
 | **Post Shadowbringers** | 5.1 | 296 | ![Pendiente][no] |
 |  | 5.2 | 408 | ![Pendiente][no] |
