@@ -117,7 +117,7 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 | **Post Heavensward** | 3.1 | 203 | ![Traducido][ok] |
 |  | 3.2 | 283 | ![Traducido][ok] |
 |  | 3.3 | 200 | ![Traducido][ok] |
-|  | 3.4 | 353 | ![Pendiente][no] |
+|  | 3.4 | 353 | ![Traducido][ok] |
 |  | 3.5–3.56 | 270 | ![Pendiente][no] |
 | **Stormblood** | 4.0 | 1.775 | ![Pendiente][no] |
 | **Post Stormblood** | 4.1 | 310 | ![Pendiente][no] |
