@@ -102,7 +102,47 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | | | Raid de 8: Arcadion (Light-heavyweight, Cruiserweight, Heavyweight) | ![Pendiente][no] |
 | | | Raid de alianza (24): Echoes of Vana'diel | ![Pendiente][no] |
 | **Post Dawntrail** | 7.1 en adelante | Historia principal | ![Pendiente][no] |
-| **Extra** | 2.2 en adelante | Cinemáticas con voz (su texto va aparte de las misiones): por ahora solo la 2.2 | ![Pendiente][no] |
+
+## Cinemáticas con voz
+
+Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino en hojas aparte, una o más por parche. Por eso se ven en inglés aunque la historia de esa expansión esté traducida. Las cinemáticas de A Realm Reborn 2.0 sí están dentro de cada misión y ya salen en español.
+
+| Expansión | Parche | Líneas | Estado |
+|---|---|---|---|
+| **Post A Realm Reborn** | 2.2 | 261 | ![Traducido][ok] |
+|  | 2.3 | 218 | ![Pendiente][no] |
+|  | 2.4 | 508 | ![Pendiente][no] |
+|  | 2.5–2.55 | 537 | ![Pendiente][no] |
+| **Heavensward** | 3.0 | 1.232 | ![Pendiente][no] |
+| **Post Heavensward** | 3.1 | 203 | ![Pendiente][no] |
+|  | 3.2 | 283 | ![Pendiente][no] |
+|  | 3.3 | 200 | ![Pendiente][no] |
+|  | 3.4 | 353 | ![Pendiente][no] |
+|  | 3.5–3.56 | 270 | ![Pendiente][no] |
+| **Stormblood** | 4.0 | 1.775 | ![Pendiente][no] |
+| **Post Stormblood** | 4.1 | 310 | ![Pendiente][no] |
+|  | 4.2 | 289 | ![Pendiente][no] |
+|  | 4.3 | 251 | ![Pendiente][no] |
+|  | 4.4 | 341 | ![Pendiente][no] |
+|  | 4.5–4.56 | 475 | ![Pendiente][no] |
+| **Shadowbringers** | 5.0 | 3.106 | ![Pendiente][no] |
+| **Post Shadowbringers** | 5.1 | 296 | ![Pendiente][no] |
+|  | 5.2 | 408 | ![Pendiente][no] |
+|  | 5.3 | 647 | ![Pendiente][no] |
+|  | 5.4 | 378 | ![Pendiente][no] |
+|  | 5.5–5.55 | 449 | ![Pendiente][no] |
+| **Endwalker** | 6.0 | 5.240 | ![Pendiente][no] |
+| **Post Endwalker** | 6.1 | 550 | ![Pendiente][no] |
+|  | 6.2 | 483 | ![Pendiente][no] |
+|  | 6.3 | 420 | ![Pendiente][no] |
+|  | 6.4 | 552 | ![Pendiente][no] |
+|  | 6.5–6.58 | 729 | ![Pendiente][no] |
+| **Dawntrail** | 7.0 | 3.637 | ![Pendiente][no] |
+| **Post Dawntrail** | 7.1 | 252 | ![Pendiente][no] |
+|  | 7.2 | 408 | ![Pendiente][no] |
+|  | 7.3 | 591 | ![Pendiente][no] |
+|  | 7.4 | 517 | ![Pendiente][no] |
+|  | 7.5 en adelante | 681 | ![Pendiente][no] |
 
 ## Misiones de clase y job
 
