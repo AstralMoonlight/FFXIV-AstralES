@@ -137,6 +137,50 @@ foreach (var group in jobQuests)
 
 Console.WriteLine($"class and job quests: {jobLines} lines → {Path.Combine(output, "jobs")}");
 
+// What bosses say mid-fight in dungeons, trials and raids ("Drag them unto the depths, O chains!"),
+// plus the duty's objective. Each duty names its block of InstanceContentTextData rows; the normal
+// and savage versions share one block (savage's may run longer), so a block is written once, under
+// the duty that starts it with the lowest row: duties/<InstanceContent row>-Duty<row>.tsv.
+var dutyText = data.Excel.GetSheet<RawRow>(Language.English, "InstanceContentTextData");
+var dutyLines = 0;
+
+foreach (var block in data.GetExcelSheet<InstanceContent>()!
+    .Where(ic => ic.InstanceContentTextDataObjectiveStart.RowId != 0 && ic.ContentFinderCondition.IsValid)
+    .GroupBy(ic => ic.InstanceContentTextDataObjectiveStart.RowId))
+{
+    var duty = block.MinBy(ic => ic.RowId);
+    var id = $"Duty{duty.RowId}";
+    var end = block.Max(ic => ic.InstanceContentTextDataObjectiveEnd.RowId);
+    var b = new StringBuilder("key\tspeaker\ttext\n");
+    var count = 0;
+
+    for (var row = block.Key; row <= end; row++)
+    {
+        var text = dutyText.HasRow(row) ? dutyText.GetRow(row).ReadStringColumn(0).ToMacroString() : "";
+
+        // Rows never written for the global release keep their Japanese text.
+        if (text.Length == 0 || text.Any(c => c is >= '　' and <= '鿿'))
+            continue;
+
+        if (text.IndexOfAny(['\t', '\n', '\r']) >= 0)
+            throw new InvalidDataException($"InstanceContentTextData {row}: tab or line break in the text, the TSV would break");
+
+        b.Append($"TEXT_{id.ToUpperInvariant()}_{row}\t\t{text}\n");
+        count++;
+    }
+
+    if (count == 0)
+        continue;
+
+    var file = $"{duty.RowId}-{id}.tsv";
+    Directory.CreateDirectory(Path.Combine(output, "duties"));
+    File.WriteAllText(Path.Combine(output, "duties", file), b.ToString(), new UTF8Encoding(false));
+    dutyLines += count;
+    index.Append($"\tduties\t{file}\t0\t{duty.ContentFinderCondition.Value.Name.ExtractText()}\t{count}\n");
+}
+
+Console.WriteLine($"duties: {dutyLines} lines → {Path.Combine(output, "duties")}");
+
 File.WriteAllText(Path.Combine(output, "index.tsv"), index.ToString(), new UTF8Encoding(false));
 File.WriteAllText(Path.Combine(output, "macros.tsv"),
     "macro\tcount\texample\n" + string.Concat(macros.OrderByDescending(m => m.Value.Count)

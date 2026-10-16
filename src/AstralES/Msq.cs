@@ -51,6 +51,9 @@ public sealed unsafe class Msq : IDisposable
     private Dictionary<string, ReadOnlySeString>? table;
     private readonly HashSet<string> reported = [];
 
+    // Spanish already written into a subtitle node: the next frame finds it there and must not report it.
+    private readonly HashSet<string> drawn = [];
+
     public Msq(IAddonLifecycle lifecycle, IClientState clientState, IDataManager data, ISeStringEvaluator evaluator,
         IPluginLog log, Func<bool> enabled, Func<bool> diagnostics)
     {
@@ -199,7 +202,13 @@ public sealed unsafe class Msq : IDisposable
                     Report($"[diag] {args.AddonName} nodo {node->NodeId}: {plain}");
 
                 if (table.TryGetValue(plain, out var spanish))
+                {
                     textNode->SetText([.. spanish.Data.Span, 0]);
+                    drawn.Add(Normalize(spanish.ExtractText()));
+                }
+                // Battle lines from a sheet not loaded yet (neither quest nor duty text) show up here.
+                else if (plain.Length > 20 && !drawn.Contains(plain))
+                    Report($"Sin traducir ({args.AddonName}): {plain}");
             }
         }
         catch (Exception ex)
@@ -216,12 +225,20 @@ public sealed unsafe class Msq : IDisposable
         var result = new Dictionary<string, ReadOnlySeString>();
         var assembly = Assembly.GetExecutingAssembly();
         var lines = 0;
+        Dictionary<string, ReadOnlySeString>? dutyRows = null;
 
         foreach (var resource in assembly.GetManifestResourceNames().Where(n => n.StartsWith("msq.")))
         {
             var sheet = SheetOf(resource);
-            var english = data.GetExcelSheet<RawRow>(ClientLanguage.English, sheet)
-                .ToDictionary(r => r.ReadStringColumn(0).ExtractText(), r => r.ReadStringColumn(1));
+
+            // Quest and cutscene sheets carry their key in column 0; a duty's battle lines are
+            // InstanceContentTextData rows, keyed TEXT_DUTY<duty>_<row> by the extractor.
+            var duty = sheet == "InstanceContentTextData";
+            var english = duty
+                ? dutyRows ??= data.GetExcelSheet<RawRow>(ClientLanguage.English, sheet)
+                    .ToDictionary(r => r.RowId.ToString(), r => r.ReadStringColumn(0))
+                : data.GetExcelSheet<RawRow>(ClientLanguage.English, sheet)
+                    .ToDictionary(r => r.ReadStringColumn(0).ExtractText(), r => r.ReadStringColumn(1));
 
             using var reader = new StreamReader(assembly.GetManifestResourceStream(resource)!);
 
@@ -229,7 +246,7 @@ public sealed unsafe class Msq : IDisposable
             {
                 var parts = line.TrimEnd('\r').Split('\t');
 
-                if (parts.Length != 2 || !english.TryGetValue(parts[0], out var en))
+                if (parts.Length != 2 || !english.TryGetValue(duty ? parts[0][DutyPrefix(resource).Length..] : parts[0], out var en))
                     continue;
 
                 var enText = evaluator.Evaluate(en, [], ClientLanguage.English).ExtractText();
@@ -263,15 +280,24 @@ public sealed unsafe class Msq : IDisposable
     }
 
     // "msq.0001-ManFst000_00083.tsv" → quest/000/ManFst000_00083; "msq.VoiceMan_03200.tsv" → cut_scene/032/VoiceMan_03200;
-    // "msq.OpeningGridania.tsv" → opening/OpeningGridania.
+    // "msq.OpeningGridania.tsv" → opening/OpeningGridania; "msq.30111-Duty30111.tsv" → InstanceContentTextData.
     private static string SheetOf(string resource)
     {
-        var id = resource["msq.".Length..^".tsv".Length];
-        id = id[(id.IndexOf('-') + 1)..];
+        var id = IdOf(resource);
         return id.StartsWith("VoiceMan_") ? $"cut_scene/{id[^5..^2]}/{id}"
             : id.StartsWith("Opening") ? $"opening/{id}"
+            : id.StartsWith("Duty") ? "InstanceContentTextData"
             : $"quest/{id[^5..^2]}/{id}";
     }
+
+    private static string IdOf(string resource)
+    {
+        var id = resource["msq.".Length..^".tsv".Length];
+        return id[(id.IndexOf('-') + 1)..];
+    }
+
+    // "msq.30111-Duty30111.tsv" → TEXT_DUTY30111_
+    private static string DutyPrefix(string resource) => $"TEXT_{IdOf(resource).ToUpperInvariant()}_";
 
     // The window may wrap or break lines differently from the sheet: compare words only.
     private static string Normalize(string text) => string.Join(' ', text.Split(default(char[]), StringSplitOptions.RemoveEmptyEntries));
