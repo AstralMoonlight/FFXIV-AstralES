@@ -1,0 +1,49 @@
+key	text
+TEXT_LUCKMB102_03303_SEQ_00	El Exarch está ansioso por entrar en los detalles de su propuesta.
+TEXT_LUCKMB102_03303_TODO_00	Habla con Lyna.
+TEXT_LUCKMB102_03303_TODO_01	Habla con Katliss.
+TEXT_LUCKMB102_03303_TODO_02	Habla con Chessamile.
+TEXT_LUCKMB102_03303_TODO_03	Bebe el frasco de beso de príncipe delante de Chessamile.
+TEXT_LUCKMB102_03303_TODO_04	Habla con Szem Djenmai.
+TEXT_LUCKMB102_03303_ALPHINAUD_100_000	Escuchemos lo que tiene que decir el Exarch.
+TEXT_LUCKMB102_03303_ALISAIE_110_000	¿Confiarle el rescate de Minfilia a la gente del Crystarium? Bueno, entonces...
+TEXT_LUCKMB102_03303_MYSTERYVOICE_000_000	Muchos aquí le tienen cariño a Minfilia. Tenemos que asegurarnos de que esta misión salga bien - por el bien de todos ellos.
+TEXT_LUCKMB102_03303_ALPHINAUD_000_005	Aunque nuestros anfitriones se ofrecieron a encabezar la misión, igual tenemos un papel que cumplir. Cumplámoslo bien.
+TEXT_LUCKMB102_03303_ALISAIE_000_010	La gente del Crystarium tiene iniciativa. Eso lo respeto.
+TEXT_LUCKMB102_03303_LYNA_000_020	Así que se va a sumar a la guardia. Pero por mucho que <if(gnum4,la,lo)> valore el Exarch, no va a recibir ningún trato especial de mi parte. ¿Está claro?
+TEXT_LUCKMB102_03303_LYNA_000_021	¿¡Dónde está su saludo, soldado!?
+TEXT_LUCKMB102_03303_LYNA_000_022	Mejor. Con más ímpetu que los débiles intentos del Exarch, sin duda.
+TEXT_LUCKMB102_03303_LYNA_000_023	Ahora, lo primero es lo primero: van a necesitar uniformes.
+TEXT_LUCKMB102_03303_LYNA_000_024	Vayan al Crystalline Mean y preséntense ante Katliss. Ella se encargará de tomarles las medidas y ajustarles la ropa.
+TEXT_LUCKMB102_03303_LYNA_000_030	No veo ningún uniforme. Preséntese ante Katliss. Ella se encargará de tomarle las medidas y ajustarle la ropa.
+TEXT_LUCKMB102_03303_KATLISS_000_040	¡Ah, y aquí está <if(gnum4,la última,el último)>! A tus amigos les están tomando las medidas en este momento.
+TEXT_LUCKMB102_03303_KATLISS_000_041	Por aquí. ¡Vamos a asegurarnos de que te veas de lo más elegante en tu primera salida!
+TEXT_LUCKMB102_03303_KATLISS_000_042	¿Terminaste? A ver esos números.
+TEXT_LUCKMB102_03303_KATLISS_000_043	Ya veo... Hmmm...
+TEXT_LUCKMB102_03303_LYNA_000_044	¿Cómo va?
+TEXT_LUCKMB102_03303_KATLISS_000_045	Lo siento, capitana - me temo que no tenemos nada a mano que les quede justo.
+TEXT_LUCKMB102_03303_KATLISS_000_046	Pero sí tenemos unos cuantos que se acercan bastante. Con algunos retoques deberían servir.
+TEXT_LUCKMB102_03303_LYNA_000_047	Muy bien, entonces. Encárgate. Y que manden los uniformes directo al terreno.
+TEXT_LUCKMB102_03303_LYNA_000_048	Aprovecharé para explicarles la misión.
+TEXT_LUCKMB102_03303_LYNA_000_049	Como mencioné antes, usaremos amaros para esparcir polvo de sueño desde el aire.
+TEXT_LUCKMB102_03303_LYNA_000_050	Cuando el polvo haga efecto, una unidad de élite asaltará la fortaleza para rescatar a la Oracle. Liberarla sana y salva es nuestro único objetivo; hay que evitar el combate siempre que se pueda.
+TEXT_LUCKMB102_03303_ALISAIE_000_051	¿Supongo que nosotros vamos a ser parte de esa unidad?
+TEXT_LUCKMB102_03303_LYNA_000_052	Correcto.
+TEXT_LUCKMB102_03303_LYNA_100_052	La unidad se dividirá en dos contingentes, uno que partirá desde Fort Jobb y otro desde el Ostall Imperative. Usted y Alphinaud se unirán al primero.
+TEXT_LUCKMB102_03303_LYNA_000_053	<split(<string(gstr1)>, ,1)>, en cambio, se unirá al segundo conmigo.
+TEXT_LUCKMB102_03303_LYNA_000_054	Antes de ir a sus posiciones, deben presentarse ante Chessamile en Spagyrics.
+TEXT_LUCKMB102_03303_LYNA_000_055	Ella les dará un suero para protegerse de los efectos del polvo de sueño.
+TEXT_LUCKMB102_03303_ALPHINAUD_000_056	Nos ponemos en camino, entonces. Cuídese, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>; nos vemos en el terreno.
+TEXT_LUCKMB102_03303_LYNA_000_057	El Imperative queda bastante lejos, así que puede usar un amaro del criadero. Después de recoger el suero, claro.
+TEXT_LUCKMB102_03303_CHESSAMILE_000_060	¿Sí, cariño? ¿Necesitas algo? ...Ah, ¿eres de la guardia y vienes por tu trago?
+TEXT_LUCKMB102_03303_CHESSAMILE_000_061	Aquí tienes. Una dosis de esto te mantendrá bien despiert<if(gnum4,a,o)> en el mundo real mientras tus enemigos se van al país de los sueños.
+TEXT_LUCKMB102_03303_CHESSAMILE_000_062	Ahora, si es tu primera vez, te advierto: es amargo como el pecado. Le dicen beso de príncipe, pero si me preguntas, ¡debería llamarse beso de <italic(1)>bruja<italic(0)>! ¡Ji, ji!
+TEXT_LUCKMB102_03303_CHESSAMILE_000_063	Bromas aparte, esto es asqueroso de verdad. Casi todos tienen arcadas como si no hubiera mañana - pero si no te tomas hasta la última gota, puedes terminar viajando tú también al país de los sueños. Así que te pido que te lo tomes aquí y ahora, mientras te miro. ¡Vamos! ¡Dale un beso a la vieja bruja, ji, ji!
+TEXT_LUCKMB102_03303_CHESSAMILE_000_070	¿Qué esperas, cariño? Vamos, dale un beso a la vieja bruja, ¡ji, ji!
+TEXT_LUCKMB102_03303_CHESSAMILE_000_080	(-Chessamile-)¡Muy bien, cariño! ¡Estoy orgullosa de ti! ¡Vaya, si no te conociera, hasta diría que te gustó! Y ahora no tienes que temer dormirte en el campo de batalla. Solo ten cuidado de no perder ningún miembro por ahí, ¿sí? No suelen volver a crecer.
+TEXT_LUCKMB102_03303_SYSTEM_000_081	Si quieres evitar que te obliguen a tomar una segunda dosis, tienes que beber el suero donde Chessamile pueda verte.
+TEXT_LUCKMB102_03303_CHESSAMILE_000_082	¿Oh? ¿Te gustó tanto el sabor que quieres más, es eso? ¡Ji, ji, sí que eres rar<if(gnum4,a,o)>! Pero por mucho que me gustaría complacerte, me temo que tengo que guardar para los demás. ¡Ve a terminar el resto de tus preparativos!
+TEXT_LUCKMB102_03303_SZEMDJENMAI_000_090	¿Sí? ¿Qué necesitas de mí?
+TEXT_LUCKMB102_03303_SZEMDJENMAI_000_091	Un amaro para ir al Imperative, ¿eh?
+TEXT_LUCKMB102_03303_SZEMDJENMAI_000_092	Por mucho que me gustaría ayudarte, todas nuestras monturas están reservadas para la operación que viene. Me temo que tendrás que ir a pie.
+TEXT_LUCKMB102_03303_SZEMDJENMAI_000_093	Hmmm, pero espera. Quizás haya otra forma, si estás dispuest<if(gnum4,a,o)> a dar una mano.

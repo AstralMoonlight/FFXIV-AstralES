@@ -1,0 +1,43 @@
+key	text
+TEXT_LUCKMA302_03292_SEQ_00	Cassard está en la entrada de Mord Souq, con una sonrisa entusiasta.
+TEXT_LUCKMA302_03292_TODO_00	Habla con Ghen Gen.
+TEXT_LUCKMA302_03292_TODO_01	Habla con Rhon Ron y mira la mercadería.
+TEXT_LUCKMA302_03292_TODO_02	Habla con Ghen Gen.
+TEXT_LUCKMA302_03292_CASSARD_000_000	Mord Souq... ¡No solo está lleno de Mord, sino también de Humes y de toda clase de gente! Hace mucho que es refugio de los desplazados por el Flood, así que la población es de lo más variada.
+TEXT_LUCKMA302_03292_CASSARD_000_001	Ah, ¿ya conociste a algún Mord? Tendrán pinta de pillos, ¡pero no vas a encontrar gente más hospitalaria!
+TEXT_LUCKMA302_03292_CASSARD_000_002	Hablando de eso, deberíamos ir a saludar al maestro Ghen Gen. Me adelanto a avisarle que llegamos.
+TEXT_LUCKMA302_03292_CASSARD_000_005	¡Vamos! ¡Preséntate ante el maestro Ghen Gen!
+TEXT_LUCKMA302_03292_CASSARD_000_010	Un Voeburtite honor entero me parece mucho para comprar una sartén abollada o un tazón de gusanos. ¿¡El Exarch perdió contigo a las cartas o qué!?
+TEXT_LUCKMA302_03292_GHENGEN_000_015	¡La tienda de Rhon Ron es la mejor para comer! ¡Abre tu bolsa y atibórrate de manjares deliciosos!
+TEXT_LUCKMA302_03292_RHONRON_000_020	¡Bienvenid<if(gnum4,a,o)> a lo de Rhon Ron, viajer<if(gnum4,a,o)>! ¡Tengo mercadería para vaciarte la bolsa y llenarte la panza!
+TEXT_LUCKMA302_03292_RHONRON_000_021	¡Tómate tu tiempo! ¡Mira y huele antes de elegir! Pero nada de babear la mercadería, ¿sí?
+TEXT_LUCKMA302_03292_SYTEM_000_022	Mira la mercadería de Rhon Ron. Puedes mover la cámara y acercarla o alejarla. Fija como objetivo un alimento y examínalo con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)> / <icon2(8)>)>.
+TEXT_LUCKMA302_03292_RHONRON_000_040	Todo se ve rico, ¿sí? ¡Cuál elegir, cuál elegir!
+TEXT_LUCKMA302_03292_Q1_000_000	¿Cuál eliges?
+TEXT_LUCKMA302_03292_A1_000_001	Mushloaf.
+TEXT_LUCKMA302_03292_A1_000_002	Everburning Bounty.
+TEXT_LUCKMA302_03292_A1_000_003	Chewy Skewer.
+TEXT_LUCKMA302_03292_A1_000_004	Glazed Wriggler.
+TEXT_LUCKMA302_03292_RHONRON_000_041	¡Ah, muy sabi<if(gnum4,a,o)>! ¡No te vas a marchitar en la arena con la panza llena de relleno de fruta de cactus!
+TEXT_LUCKMA302_03292_RHONRON_000_042	¿Tienes el oro...?
+TEXT_LUCKMA302_03292_RHONRON_000_043	...¡Y listo! ¡Con un Voeburtite honor te alcanza para cuarenta panes!
+TEXT_LUCKMA302_03292_RHONRON_000_044	¡Sí, ponle chispa al paso! ¡Esta noche no vas a sentir el frío... y la próxima seguramente tampoco!
+TEXT_LUCKMA302_03292_RHONRON_000_045	¿Tienes el oro...?
+TEXT_LUCKMA302_03292_RHONRON_000_046	...¡Y listo! ¡Con un Voeburtite honor te alcanza para diez costillares de carne de lagarto!
+TEXT_LUCKMA302_03292_RHONRON_000_047	¡Mmm, masticable! ¡Una comida rápida y fácil para cruzar el desierto!
+TEXT_LUCKMA302_03292_RHONRON_000_048	¿Tienes el oro...?
+TEXT_LUCKMA302_03292_RHONRON_000_049	...¡Y listo! ¡Con un Voeburtite honor te alcanza para sesenta y cinco brochetas!
+TEXT_LUCKMA302_03292_RHONRON_000_050	Demasiado bueno para resistirse, ¿eh? (¡Es lo que yo habría elegido!)
+TEXT_LUCKMA302_03292_RHONRON_000_051	¿Tienes el oro...?
+TEXT_LUCKMA302_03292_RHONRON_000_052	...¡Y listo! ¡Con un Voeburtite honor te alcanza para quince frascos!
+TEXT_LUCKMA302_03292_Q2_000_000	¿Te lo comes todo?
+TEXT_LUCKMA302_03292_A2_000_001	¡Hasta el último bocado!
+TEXT_LUCKMA302_03292_A2_000_002	Creo que voy a... c-compartir... el resto...
+TEXT_LUCKMA302_03292_RHONRON_000_053	¡Qué apetito! ¡Qué panza! ¡Nace una nueva leyenda en Mord Souq!
+TEXT_LUCKMA302_03292_RHONRON_000_054	¡Nuestr<if(gnum4,a,o)> visitante nos invita al banquete! ¡Démosle las gracias por su gran generosidad - y su poco apetito!
+TEXT_LUCKMA302_03292_RHONRON_000_055	¡Considera tu bolsa abierta! ¡Me alegra tenerte de cliente, y a Ghen Gen le va a alegrar que honraras nuestra costumbre!
+TEXT_LUCKMA302_03292_RHONRON_000_056	...Lo vas a aguantar adentro, ¿sí? ¡No hay devoluciones!
+TEXT_LUCKMA302_03292_RHONRON_000_060	¡Qué honor que me eligieras! ¡Ve con Ghen Gen! Dile que tu bolsa quedó bien abierta.
+TEXT_LUCKMA302_03292_CASSARD_000_065	Nunca vi a nadie comer tanta "cocina" de Rhon Ron de una sentada... ¡Tienes un estómago más fuerte que el mío!
+TEXT_LUCKMA302_03292_GHENGEN_000_070	¡Te estaba mirando desde aquí, <split(<string(gstr1)>, ,1)>! ¡Honraste nuestra costumbre, y con mucho gusto!
+TEXT_LUCKMA302_03292_GHENGEN_000_071	Siempre serás bienvenid<if(gnum4,a,o)> en Mord Souq - ¡si necesitas algo en Amh Araeng, aquí estamos para dártelo!

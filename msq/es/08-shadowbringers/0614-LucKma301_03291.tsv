@@ -1,0 +1,42 @@
+key	text
+TEXT_LUCKMA301_03291_SEQ_00	El Crystal Exarch está ansioso por que te reúnas con Alisaie.
+TEXT_LUCKMA301_03291_SEQ_01	Para facilitar tu reencuentro con Alisaie - y, con suerte, calmar el enojo que todavía le queda por lo inoportuno de su invocación -, el Exarch se ofrece a conseguirte transporte para el viaje a Amh Araeng. Te entrega una carta de presentación y te manda al Amaro Launch a buscar a un hombre llamado Cassard.
+TEXT_LUCKMA301_03291_SEQ_02	Después de leer la carta del Exarch, el comerciante parece encantado de hacer de guía. Solo tienes que dar la señal para empezar tu travesía por el desierto.
+TEXT_LUCKMA301_03291_SEQ_03	Le indicas que estás list<if(gnum4,a,o)> para partir, y Cassard te hace subir al lomo de uno de los amaros que esperan.<br><br>※A partir de ahora, puedes viajar a las tierras de Amh Araeng hablando con el diestro domador de amaros.
+TEXT_LUCKMA301_03291_SEQ_04	Llegaste a Amh Araeng. Cassard te espera para llevarte más adentro del desierto.
+TEXT_LUCKMA301_03291_SEQ_05	El comerciante te pide que lo sigas hacia el suroeste, y te lanzas a la arena haciendo todo lo posible por no quedarte atrás.
+TEXT_LUCKMA301_03291_SEQ_06	Poco después, Cassard indica que paren un momento: por lo visto no quiere cruzar el puente antes de que hayas apreciado como corresponde la majestuosidad del paisaje que dejan atrás.
+TEXT_LUCKMA301_03291_SEQ_07	Admiras obedientemente la imponente mole de Qasr Sharl hasta que tu guía considera que tus ojos ya se dieron el gusto - y entonces te apura a seguir el viaje.
+TEXT_LUCKMA301_03291_SEQ_08	Al llegar a Mord Souq, Cassard te da la bienvenida con un entusiasmo evidente y, en el mismo suspiro, declara cuánto ama este lugar. A juzgar por la sonrisa del comerciante, tu visita promete ser interesante...
+TEXT_LUCKMA301_03291_TODO_00	Entrégale la carta sellada a Cassard en el Amaro Launch.
+TEXT_LUCKMA301_03291_TODO_01	Habla con Cassard.
+TEXT_LUCKMA301_03291_TODO_02	Habla con Cassard.
+TEXT_LUCKMA301_03291_TODO_03	Habla con Cassard.
+TEXT_LUCKMA301_03291_TODO_04	Habla con Cassard.
+TEXT_LUCKMA301_03291_TODO_05	Admira la vista.
+TEXT_LUCKMA301_03291_TODO_06	Habla con Cassard.
+TEXT_LUCKMA301_03291_MYSTERYVOICE_000_000	¿List<if(gnum4,a,o)> para partir hacia Amh Araeng? Alisaie va a estar feliz de verte a salvo - sé que estaba especialmente preocupada por ti.
+TEXT_LUCKMA301_03291_MYSTERYVOICE_000_001	Ella, eh... me <italic(1)>hizo entender<italic(0)> lo lamentable que fue el momento de su invocación. Varias veces.
+TEXT_LUCKMA301_03291_MYSTERYVOICE_000_002	Solo espero que mandarte con ella me gane algo de perdón. Toma. Es una carta de presentación para un hombre llamado Cassard, el jefe de una caravana de comerciantes.
+TEXT_LUCKMA301_03291_MYSTERYVOICE_000_003	Pocos conocen los caminos del desierto tan bien como él. Búscalo en el Amaro Launch y se encargará de que llegues a destino.
+TEXT_LUCKMA301_03291_CASSARD_000_010	¿Hm? Si vienes a buscar trabajo, quizás tenga un lugar para otro guardia-
+TEXT_LUCKMA301_03291_CASSARD_000_011	Ah. ¡Ah! ¡<if(gnum4,Una amiga,Un amigo)> del Exarch! Quieres encontrarte con alguien en Amh Araeng, ¿eh?
+TEXT_LUCKMA301_03291_CASSARD_000_012	¡Entonces yo seré tu guía! De hecho, estaba por salir hacia nuestro puesto de allá, así que podemos irnos ya mismo - suponiendo que tienes todo lo que necesitas, ¿no?
+TEXT_LUCKMA301_03291_CASSARD_000_013	¿Todo listo? ¡Entonces vamos a esas arenas implacables!
+TEXT_LUCKMA301_03291_SYSTEM_000_014	¡Ya puedes viajar a Amh Araeng! Habla con el diestro domador de amaros para volar al desierto.
+TEXT_LUCKMA301_03291_SYSTEM_000_015	También puedes usar tu <colortype(500)><edgecolortype(501)>brújula de aether<edgecolortype(0)><colortype(0)> para ubicar las corrientes de aether en las regiones nuevas. La brújula de aether está en Collection, en la sección Duty del menú principal.
+TEXT_LUCKMA301_03291_CASSARD_000_030	¡Uf, por más veces que venga, el <if([gnum11<12],<if([gnum11<4],frío,calor)>,<if([gnum11<17],calor,frío)>)> siempre me toma por sorpresa! <if([gnum11<12],<if([gnum11<4],El cielo estará tan brillante como en las horas abrasadoras del día,Eso sí\, no te sorprendas cuando baje la temperatura de noche - el cielo sigue brillante\, claro)>,<if([gnum11<17],Eso sí\, no te sorprendas cuando baje la temperatura de noche - el cielo sigue brillante\, claro,El cielo estará tan brillante como en las horas abrasadoras del día)>)>, pero hace un fresco que te hace temblar.
+TEXT_LUCKMA301_03291_CASSARD_000_031	Bueno, la carta del Exarch decía que tenía que llevarte a la Inn at Journey's Head, que es donde se aloja esa amiga tuya, Alisaie.
+TEXT_LUCKMA301_03291_CASSARD_000_032	Pero es un buen trecho. Así que propongo que paremos en Mord Souq para cortar el viaje - así yo atiendo unos negocios y tú disfrutas de la hospitalidad local. ¿Te parece bien? ¡Bien!
+TEXT_LUCKMA301_03291_CASSARD_000_033	¡Bueno, ustedes! Me voy, ¡y más les vale que cuando vuelva no encuentre la mercadería llena de arena!
+TEXT_LUCKMA301_03291_CASSARD_000_034	¡Bien, vamos hacia el suroeste, derechito como una flecha!
+TEXT_LUCKMA301_03291_CASSARD_000_040	Para aquí un momento. Es tu primera visita a Amh Araeng, ¿no?
+TEXT_LUCKMA301_03291_CASSARD_000_041	¡Antes de cruzar el River of Sand, tienes que darte vuelta y deleitarte la vista con <italic(1)>eso<italic(0)>!
+TEXT_LUCKMA301_03291_CASSARD_000_045	¡Vamos, mira! ¡No nos movemos hasta que aprecies la majestuosidad de esa construcción!
+TEXT_LUCKMA301_03291_CASSARD_000_050	La hicieron enorme, ¿no? Esa es Qasr Sharl, una fortaleza construida para proteger el norte de Nabaath Areng.
+TEXT_LUCKMA301_03291_CASSARD_000_051	Viendo lo que quedó, me creo que alguna vez fue una de las naciones más poderosas de Norvrandt.
+TEXT_LUCKMA301_03291_CASSARD_000_052	...Por lo menos hasta que llegó el Flood. Pedazos enormes de las tierras de Nabaath Areng se perdieron en la Luz, incluida su gran ciudad. Los pocos que sobrevivieron no le vieron mucho sentido a quedarse. La mayoría, al menos.
+TEXT_LUCKMA301_03291_CASSARD_000_053	No, hoy en día casi nadie elige venir aquí, no con todo en ruinas. Hasta esa fortaleza enorme no es mucho más que un refugio de amaros para mí y mi caravana.
+TEXT_LUCKMA301_03291_CASSARD_000_054	Pero no todos los lugares están tan desiertos como este. Espera nomás a ver Mord Souq...
+TEXT_LUCKMA301_03291_CASSARD_000_055	¡Sigamos!
+TEXT_LUCKMA301_03291_CASSARD_000_060	¡Llegamos - Mord Souq! ¡Por la bendita sombra, cómo amo este pueblo!
