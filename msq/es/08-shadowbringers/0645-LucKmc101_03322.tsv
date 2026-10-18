@@ -1,0 +1,28 @@
+key	text
+TEXT_LUCKMC101_03322_SEQ_00	El administrador de las suites está de buen humor.
+TEXT_LUCKMC101_03322_SEQ_01	Con su tono jovial de siempre, el administrador de las suites te avisa que los Scions y el Crystal Exarch te esperan en el Ocular.
+TEXT_LUCKMC101_03322_SEQ_02	Al entrar en el Ocular, la tensión se puede cortar con un cuchillo, y enseguida queda claro por qué cuando ves una cara inesperada en la sala: Emet-Selch. Sigue aferrado a la idea de que solo viene a observar sus esfuerzos por derrotar a los Lightwardens, y vuelve a ofrecer su mano como socio. Al ver la respuesta gélida - aunque del todo previsible - de los Scions, se retira. Dejando de lado las maquinaciones de los Ascians, los Scions deciden que lo mejor es separarse para buscar a los Lightwardens que quedan en Norvrandt. A ti, junto con Thancred, Minfilia y Urianger, te encargan buscar a Y'shtola en el Rak'tika Greatwood.
+TEXT_LUCKMC101_03322_SEQ_03	Antes de que partas, el Crystal Exarch te hace un pedido. De camino al Rak'tika Greatwood, quiere que pases por Fort Jobb y busques una tablilla en particular entre las ruinas. Es un texto sagrado que cree que podría interesarle a Y'shtola, que hoy vive con los adoradores de la Oscuridad: los Night's Blessed.
+TEXT_LUCKMC101_03322_SEQ_04	Un breve viaje al norte del Crystarium te lleva a Fort Jobb. Urianger espera que la búsqueda sea breve, para que puedan empezar de verdad su viaje para encontrar a Y'shtola y matar al Lightwarden.
+TEXT_LUCKMC101_03322_TODO_00	Ve al Ocular.
+TEXT_LUCKMC101_03322_TODO_01	Habla con el Crystal Exarch.
+TEXT_LUCKMC101_03322_TODO_02	Habla con Urianger en Fort Jobb.
+TEXT_LUCKMC101_03322_GUIDEOFTHEPENDANTS_000_000	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señorita,señor)>. Espero que haya descansado bien.
+TEXT_LUCKMC101_03322_GUIDEOFTHEPENDANTS_000_001	El Exarch y sus compañeros están reunidos en el Ocular. Le pide que se reúna con ellos en cuanto pueda.
+TEXT_LUCKMC101_03322_ALPHINAUD_000_010	Lo admito, en Kholusia pasé buena parte del tiempo haciéndome amigo de la gente, pero eso no quiere decir que no pensara en nuestro objetivo principal.
+TEXT_LUCKMC101_03322_ALPHINAUD_000_011	Cuando haya escoltado al Exarch hasta Eulmore, puede estar segur<if(gnum4,a,o)> de que haré todo lo posible por descubrir el paradero de cualquier Warden que se esconda en Kholusia.
+TEXT_LUCKMC101_03322_ALISAIE_000_015	Hay tantas ruinas desperdigadas por Amh Araeng... La verdad, ni siquiera sé por dónde empezar.
+TEXT_LUCKMC101_03322_THANCRED_000_020	Minfilia y yo conocemos bien Rak'tika, pero quizás sea la primera vez que nos molestamos en entrar por la puerta principal, por así decirlo.
+TEXT_LUCKMC101_03322_RYNE_000_025	Por fin voy a conocer a Y'shtola. Thancred me contó tantas cosas de ella.
+TEXT_LUCKMC101_03322_URIANGER_000_030	Con gusto os pondré al tanto de lo que hizo Y'shtola últimamente durante nuestro viaje a Rak'tika.
+TEXT_LUCKMC101_03322_MYSTERYVOICE_000_040	Antes de que te vayas, quisiera pedirte algo.
+TEXT_LUCKMC101_03322_MYSTERYVOICE_000_041	En Fort Jobb hay una iglesia - o mejor dicho, las ruinas de una iglesia. ¿Podría pedirte que vayas ahí antes de buscar a Y'shtola?
+TEXT_LUCKMC101_03322_MYSTERYVOICE_000_042	Era un lugar donde la gente se reunía para adorar a la Luz. Por desgracia, hace mucho que está abandonado.
+TEXT_LUCKMC101_03322_MYSTERYVOICE_000_043	Pero en esa sala queda una tablilla cuyos escritos creo que podrían serle útiles a Y'shtola. Como mínimo, una reliquia así sería un buen regalo para su reencuentro.
+TEXT_LUCKMC101_03322_URIANGER_000_044	Una propuesta de lo más considerada. Muy bien. Antes de partir hacia Rak'tika, iremos a Fort Jobb para conseguir esa reliquia.
+TEXT_LUCKMC101_03322_MYSTERYVOICE_000_050	Buen viaje, <split(<string(gstr1)>, ,1)>. Ruego que esa tablilla y lo que contiene le interesen a Y'shtola.
+TEXT_LUCKMC101_03322_THANCRED_000_055	No dudo de que este lugar aguante otro ataque de los sin eaters, pero no tienen ninguna esperanza de defenderlo si vuelven los soldados de Eulmore.
+TEXT_LUCKMC101_03322_THANCRED_000_056	Aunque sean pocos, los de la guardia pueden aprovechar el terreno a su favor. Quizás pueda convencer a la capitana de poner algunas trampas en el campo.
+TEXT_LUCKMC101_03322_RYNE_000_060	Thancred y yo ya nos cruzamos con estas iglesias en ruinas. Ojalá hubiera podido verlas antes del Flood. Dicen que los vitrales eran obras de arte...
+TEXT_LUCKMC101_03322_URIANGER_000_070	Aquí, entre estas ruinas, encontraremos la Church of the First Light, y dentro de esa sala sagrada, la tablilla que buscamos.
+TEXT_LUCKMC101_03322_URIANGER_000_071	El tiempo apremia, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>. Démonos prisa.
