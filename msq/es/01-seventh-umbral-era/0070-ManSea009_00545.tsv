@@ -2,16 +2,16 @@ key	text
 TEXT_MANSEA009_00545_SEQ_00	Baderon quiere que le avises cuando estés list<if(gnum4,a,o)> para ir al banquete.
 TEXT_MANSEA009_00545_SEQ_01	El banquete está por empezar. Ponte los zapatos de vestir y habla con Zanthael en el Bulwark Hall.
 TEXT_MANSEA009_00545_SEQ_02	En el banquete, Merlwyb relata las hazañas de los héroes medio olvidados a los que los eorzeanos ahora llaman los Warriors of Light. El relato despierta en tu mente una visión de los últimos momentos de la batalla de Carteneau. Cuando vuelves en ti, te sorprende encontrarte en una habitación del Drowning Wench, sin idea de cómo llegaste ahí. Baderon, que al parecer te trajo él mismo desde el Bridge, te explica que te desplomaste y te cuenta que la Almirante quiere verte. Ve al Bulwark Hall y pide que te dejen entrar en la sala de mando.
-TEXT_MANSEA009_00545_SEQ_03	Merlwyb tiene una tarea para ti ─ una que no le confiaría a nadie más. Vuelve a hablar con ella cuando estés list<if(gnum4,a,o)> para oír de qué se trata.
+TEXT_MANSEA009_00545_SEQ_03	Merlwyb tiene una tarea para ti - una que no le confiaría a nadie más. Vuelve a hablar con ella cuando estés list<if(gnum4,a,o)> para oír de qué se trata.
 TEXT_MANSEA009_00545_TODO_00	Ponte los zapatos de vestir y habla con Zanthael.
 TEXT_MANSEA009_00545_TODO_01	Habla con Merlwyb en la sala de mando.
 TEXT_MANSEA009_00545_BADERON_000_1	Así que ya estás list<if(gnum4,a,o)>, ¿eh? Bien. El banquete va a empezar pronto. Si hubieras esperado más, habría considerado mi deber cívico darte un golpe en la cabeza y llevarte a rastras.
 TEXT_MANSEA009_00545_BADERON_000_2	Ahora, asegúrate de <italic(1)>llevar puestos<italic(0)> esos zapatos elegantes cuando llegues, ¿sí? Llevarlos en la mano no sirve de nada. Se supone que te hacen ver como <if(gnum4,una dama,un caballero)>, acuérdate, no como el maldito lacayo de <if(gnum4,una dama,un caballero)>.
 TEXT_MANSEA009_00545_BADERON_000_3	En cuanto a cómo llegar, el festín es en el Bridge, en la sala de reuniones de la Almirante.
 TEXT_MANSEA009_00545_BADERON_000_4	Habla con Zanthael en el Bulwark Hall y él te mostrará el camino.
-TEXT_MANSEA009_00545_BADERON_000_5	Tú mantén la cabeza en alto, <if(gnum4,muchacha,muchacho)>. Después de todo lo que hiciste por Limsa, tienes buenos motivos para estar orgullos<if(gnum4,a,o)> ─ y no dejes que ningún encopetado te diga lo contrario.
+TEXT_MANSEA009_00545_BADERON_000_5	Tú mantén la cabeza en alto, <if(gnum4,muchacha,muchacho)>. Después de todo lo que hiciste por Limsa, tienes buenos motivos para estar orgullos<if(gnum4,a,o)> - y no dejes que ningún encopetado te diga lo contrario.
 TEXT_MANSEA009_00545_ZANTHAEL_000_10	Zapatos de vestir... Zapatos de vestir elegantes. Un aventurero con zapatos de vestir elegantes...
-TEXT_MANSEA009_00545_ZANTHAEL_000_11	¡Maldita sea, Baderon! ¿¡Por qué no me dijiste el nombre de este misterioso invitado, o el color de su pelo, o siquiera su maldito <italic(1)>género<italic(0)>!? ¡Me habría conformado con una cicatriz llamativa en la cara! No sé nada de zapatos, mucho menos de zapatos elegantes─ ¿Qué? ¿Dice que <italic(1)>usted<italic(0)> es <if(gnum4,la aventurera,el aventurero)> que busco?
+TEXT_MANSEA009_00545_ZANTHAEL_000_11	¡Maldita sea, Baderon! ¿¡Por qué no me dijiste el nombre de este misterioso invitado, o el color de su pelo, o siquiera su maldito <italic(1)>género<italic(0)>!? ¡Me habría conformado con una cicatriz llamativa en la cara! No sé nada de zapatos, mucho menos de zapatos elegantes- ¿Qué? ¿Dice que <italic(1)>usted<italic(0)> es <if(gnum4,la aventurera,el aventurero)> que busco?
 TEXT_MANSEA009_00545_ZANTHAEL_000_12	¿Y dónde están esos "zapatos de vestir elegantes" que Baderon me describió con detalles tan <italic(1)>atrozmente<italic(0)> inútiles? ¿No me diga que...? Ejem. Me dijo que si usted era tan descuidad<if(gnum4,a,o)> como para perderlos, yo tenía que decirle que "lleve el trasero de vuelta con J'nasshym y le ruegue por otro par". Aunque nunca imaginé que de verdad tendría que decirlo...
 TEXT_MANSEA009_00545_ZANTHAEL_000_13	¡Oh! <italic(1)>Esos<italic(0)> sí que son zapatos de vestir elegantes. Venga, aventurer<if(gnum4,a,o)>, le mostraré la sala de reuniones.
 TEXT_MANSEA009_00545_000010_MERLWYB	¡Hermanos y hermanas del mar!
@@ -55,6 +55,6 @@ TEXT_MANSEA009_00545_A1_000_1	Sí
 TEXT_MANSEA009_00545_A1_000_2	No
 TEXT_MANSEA009_00545_ZANTHAEL_000_41	¿Todavía no se recupera de su... eh... repentino malestar? A mí una caminata rápida por la costanera siempre me despeja la cabeza. El olor de allá abajo podría despertar a un muerto...
 TEXT_MANSEA009_00545_MERLWYB_000_50	Ah, <split(<string(gstr1)>, ,1)>, me alegra verl<if(gnum4,a,o)> de pie otra vez. ¿Ya se recuperó?
-TEXT_MANSEA009_00545_MERLWYB_000_51	Entonces no perdamos tiempo. Tengo una tarea que hay que hacer ─ una que no le confiaría a nadie más.
+TEXT_MANSEA009_00545_MERLWYB_000_51	Entonces no perdamos tiempo. Tengo una tarea que hay que hacer - una que no le confiaría a nadie más.
 TEXT_MANSEA009_00545_JNASSHYM_000_60	¿Qué es esto? ¿Le cuesta decirme que <italic(1)>perdió<italic(0)> el fino par de zapatos que elegí <italic(1)>especialmente<italic(0)> para usted?
 TEXT_MANSEA009_00545_JNASSHYM_000_61	Por suerte, tengo otro par igual. Se lo puede llevar por la bondad de mi corazón... y por el asco que me da en el alma su "atuendo" de siempre.

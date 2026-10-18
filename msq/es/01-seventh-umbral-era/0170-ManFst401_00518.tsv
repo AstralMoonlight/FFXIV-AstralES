@@ -2,13 +2,13 @@ key	text
 TEXT_MANFST401_00518_SEQ_00	Marques cree que lo están vigilando.
 TEXT_MANFST401_00518_SEQ_01	Marques no puede quitarse la sensación de que lo vigilan. Parece que la sensación va y viene, pero hace poco la sintió con mucha fuerza. Tranquilízalo buscando por los alrededores a quien pueda estar observando a escondidas.
 TEXT_MANFST401_00518_SEQ_02	Mientras patrullas el cementerio, te ataca un desconocido. Después de matarlo en defensa propia, notas que su espada no se parece a ninguna que hayas visto, y te la llevas con la esperanza de que sirva para identificarlo. Cuéntale a Marques que sus temores estaban justificados.
-TEXT_MANFST401_00518_SEQ_03	Marques no tiene idea de por qué ese hombre vigilaba lo que hace, pero sospecha que puede tener que ver con su pasado ─ un pasado que todavía no logra recordar, por más que lo intenta. Como quizás no sea la última vez que vengan hombres peligrosos a buscarlo, te pide que le cuentes todo lo ocurrido al padre Iliud. Quizás también deberías mostrarle la extraña espada que encontraste.
+TEXT_MANFST401_00518_SEQ_03	Marques no tiene idea de por qué ese hombre vigilaba lo que hace, pero sospecha que puede tener que ver con su pasado - un pasado que todavía no logra recordar, por más que lo intenta. Como quizás no sea la última vez que vengan hombres peligrosos a buscarlo, te pide que le cuentes todo lo ocurrido al padre Iliud. Quizás también deberías mostrarle la extraña espada que encontraste.
 TEXT_MANFST401_00518_SEQ_04	Al reconocer la espada como acero garlean, el padre Iliud concluye que el hombre que observaba a Marques era un soldado imperial. Antes de que pueda mandarte a avisar a las autoridades, Alphinaud Leveilleur entra en la iglesia y declara que Marques no es otro que el Maestro Cid Garlond, desaparecido desde la Calamidad hace cinco años. Aunque todavía no recupera la memoria, Cid siente que el muchacho dice la verdad, y decide acompañarlo. Resignado, el padre Iliud saca las pertenencias de Cid, que había guardado para que estuvieran a salvo. Luego Alphinaud revela que los Ixal invocaron a Garuda, y que para que los Scions sobrevivientes lleguen hasta el primal hará falta la aeronave perdida de Cid, el <italic(1)>Enterprise<italic(0)>. Con Cid y Alphinaud, ve a Gridania, donde se vio por última vez el <italic(1)>Enterprise<italic(0)>.
 TEXT_MANFST401_00518_TODO_00	Busca en el cementerio a quien observa a escondidas.
 TEXT_MANFST401_00518_TODO_01	Habla con Marques.
 TEXT_MANFST401_00518_TODO_02	Muéstrale la espada al padre Iliud.
 TEXT_MANFST401_00518_MARQUEZ_000_000	No... no son imaginaciones mías, <split(<string(gstr1)>, ,1)>. <italic(1)>Sé<italic(0)> que me están vigilando...
-TEXT_MANFST401_00518_MARQUEZ_000_001	Esto es distinto ─ siniestro. Es como si estuviera... bajo observación.
+TEXT_MANFST401_00518_MARQUEZ_000_001	Esto es distinto - siniestro. Es como si estuviera... bajo observación.
 TEXT_MANFST401_00518_MARQUEZ_000_002	La sensación va y viene... pero la sentí la última vez que salí. Sí. Sé que la sentí. ¿Podría mirar afuera por mí... <italic(1)>por favor<italic(0)>? Solo será un momento.
 TEXT_MANFST401_00518_MARQUEZ_000_020	L<if(gnum4,a,o)> atacaron, ¿verdad? ¿Está ilés<if(gnum4,a,o)>? Gracias a los dioses.
 TEXT_MANFST401_00518_MARQUEZ_000_021	Lo sabía. Me <italic(1)>estaba<italic(0)> vigilando. ...Pero ¿por qué me vigilaba?
@@ -18,9 +18,9 @@ TEXT_MANFST401_00518_ILIUD_000_030	Dios no lo quiera... ¡Que pase algo así en 
 TEXT_MANFST401_00518_ILIUD_000_031	Esto... esto es acero garlean. Lo que significa que el hombre que vigilaba a Marques era...
 TEXT_MANFST401_00518_ILIUD_000_032	¡Ve rápido a Camp Drybone! ¡Tenemos que llamar a los Immortal Flames antes de que vengan más imperiales!
 TEXT_MANFST401_00518_000010_ALPHINAUD	Hmph. Tenía la ilusión de ser el primero en hablar con usted... Ojalá hubiera tenido esa suerte.
-TEXT_MANFST401_00518_000020_ALPHINAUD	Tranquil<if(gnum4,a,o)>, aventurer<if(gnum4,a,o)> ─ no vengo en nombre del Empire. Al contrario, pretendo hacer renacer a los Scions of the Seventh Dawn.
+TEXT_MANFST401_00518_000020_ALPHINAUD	Tranquil<if(gnum4,a,o)>, aventurer<if(gnum4,a,o)> - no vengo en nombre del Empire. Al contrario, pretendo hacer renacer a los Scions of the Seventh Dawn.
 TEXT_MANFST401_00518_000030_ALPHINAUD	Y para eso...
-TEXT_MANFST401_00518_000040_ALPHINAUD	Vine en busca de una leyenda ─ el mejor ingeniero de nuestro tiempo. Maestro Cid Garlond ─ vine por <italic(1)>usted<italic(0)>.
+TEXT_MANFST401_00518_000040_ALPHINAUD	Vine en busca de una leyenda - el mejor ingeniero de nuestro tiempo. Maestro Cid Garlond - vine por <italic(1)>usted<italic(0)>.
 TEXT_MANFST401_00518_000050_PRIEST	Me temo que te equivocas, muchacho. No es más que un pobre hombre que presenció los horrores de Carteneau.
 TEXT_MANFST401_00518_000060_PRIEST	Te lo ruego, déjanos en paz...
 TEXT_MANFST401_00518_000070_MARQUEZ	Espere... Yo...
@@ -34,17 +34,17 @@ TEXT_MANFST401_00518_000140_PRIEST	Nuestro tiempo juntos fue demasiado breve, pe
 TEXT_MANFST401_00518_000150_PRIEST	Pero es hora de que ayudes a quienes de verdad te necesitan.
 TEXT_MANFST401_00518_000160_CID	(-Cid-)¿Quién... es usted?
 TEXT_MANFST401_00518_000170_ALPHINAUD	Alphinaud Leveilleur, a su servicio.
-TEXT_MANFST401_00518_000180_ALPHINAUD	Como Scion of the Seventh Dawn, me opongo a nuestros enemigos primals e imperiales ─ como alguna vez hizo mi abuelo.
+TEXT_MANFST401_00518_000180_ALPHINAUD	Como Scion of the Seventh Dawn, me opongo a nuestros enemigos primals e imperiales - como alguna vez hizo mi abuelo.
 TEXT_MANFST401_00518_000190_ALPHINAUD	No es ningún secreto lo que le pasó a nuestra orden en los Waking Sands. La noticia ya corrió por toda Eorzea.
 TEXT_MANFST401_00518_000200_ALPHINAUD	Las consecuencias son mucho mayores de lo que imagina. Después de la Calamidad, las tres ciudades<-->estado centraron todos sus esfuerzos en la reconstrucción.
 TEXT_MANFST401_00518_000210_ALPHINAUD	Y dejaron que los Scions combatieran solos la amenaza de los primals.
-TEXT_MANFST401_00518_000220_ALPHINAUD	Y ahora estamos casi destruidos. Pero aunque las naciones lloren nuestra caída y abandonen la poca esperanza que les queda, no podemos renunciar a nuestro deber ─ y menos ahora.
+TEXT_MANFST401_00518_000220_ALPHINAUD	Y ahora estamos casi destruidos. Pero aunque las naciones lloren nuestra caída y abandonen la poca esperanza que les queda, no podemos renunciar a nuestro deber - y menos ahora.
 TEXT_MANFST401_00518_000230_ALPHINAUD	Los Ixal volvieron a invocar a Garuda, y ella atormenta en este momento a la gente de Coerthas.
 TEXT_MANFST401_00518_000240_ALPHINAUD	Su apetito de destrucción supera de lejos al de otros primals.
 TEXT_MANFST401_00518_000250_ALPHINAUD	Peor aún, nuestros colegas de Baldesion creen que, en su forma actual, es más fuerte que Ifrit y que Titan.
 TEXT_MANFST401_00518_000260_ALPHINAUD	Pero ahí hay una oportunidad. Si de algún modo derrotáramos a Garuda, sería una advertencia para las demás beast tribes de que hasta sus dioses más poderosos pueden caer.
 TEXT_MANFST401_00518_000270_ALPHINAUD	Para enfrentar a nuestro enemigo, primero tenemos que esquivar la tempestad que protege su santuario.
-TEXT_MANFST401_00518_000280_ALPHINAUD	Y para eso necesitamos una aeronave ─ <italic(1)>su<italic(0)> aeronave, Cid.
+TEXT_MANFST401_00518_000280_ALPHINAUD	Y para eso necesitamos una aeronave - <italic(1)>su<italic(0)> aeronave, Cid.
 TEXT_MANFST401_00518_000290_CID	(-Cid-)¿Yo... yo tengo... una aeronave?
 TEXT_MANFST401_00518_000300_ALPHINAUD	Sí, Cid, la tiene. Su propia aeronave.
 TEXT_MANFST401_00518_000310_ALPHINAUD	La vieron por última vez en los cielos de Gridania, poco antes de la Calamidad, así que empecemos a buscar allí.

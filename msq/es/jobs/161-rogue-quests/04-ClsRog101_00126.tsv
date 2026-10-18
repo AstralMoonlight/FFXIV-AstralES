@@ -23,14 +23,14 @@ TEXT_CLSROG101_00126_JACKE_000_000	Muy <if([gnum11<12],<if([gnum11<4],buenas noc
 TEXT_CLSROG101_00126_JACKE_000_001	Y vaya si es <if([gnum11<12],<if([gnum11<4],una buena noche,una buena mañana)>,<if([gnum11<17],un buen día,una buena noche)>)> para trabajar un poco, ¿no te parece?
 TEXT_CLSROG101_00126_JACKE_000_002	Esta vez parece que unos bucaneros entusiastas se subieron a un mercante local y se largaron con un cargamento de mosquetes.
 TEXT_CLSROG101_00126_JACKE_000_003	Como para empezar no es legal afanar de un barco lominsano, los Yellowjackets cayeron sobre esos tipos tontos antes de que se les secaran las botas.
-TEXT_CLSROG101_00126_JACKE_000_004	Sí, atraparon a los piratas ahí mismo en los muelles, pero los trabucos robados no aparecieron por ningún lado ─ los vendieron en algún trato a bordo de una chalupa, diría yo.
+TEXT_CLSROG101_00126_JACKE_000_004	Sí, atraparon a los piratas ahí mismo en los muelles, pero los trabucos robados no aparecieron por ningún lado - los vendieron en algún trato a bordo de una chalupa, diría yo.
 TEXT_CLSROG101_00126_JACKE_000_005	Ahí fue cuando contrataron oficialmente a nuestro gremio para recuperar la mercancía. ...Cosa que no hacía falta, porque el código nos habría puesto a trabajar de todos modos. "No le birlas la bolsa a otro lominsano", y todo eso.
 TEXT_CLSROG101_00126_JACKE_000_006	Así que esta es tu tarea, <if(gnum4,muchacha avispada,muchacho avispado)>: averigua adónde fueron esas armas y recupera el cargamento.
 TEXT_CLSROG101_00126_JACKE_000_007	Como los rufianes que asaltaron ese mercante ya se están pudriendo entre grilletes, no hace falta que entres a puñaladas. Quiero este trabajo rápido y en silencio, y tengo a la compañera perfecta para enseñarte cómo se hace.
 TEXT_CLSROG101_00126_JACKE_000_008	Esta es V'kebbe the Stray. No hay rogue que la iguale en el arte de escabullirse.
 TEXT_CLSROG101_00126_VKEBBE_000_009	...Un placer.
 TEXT_CLSROG101_00126_JACKE_000_010	...¿Pasa algo, V'kebbe? Te noto de malas.
-TEXT_CLSROG101_00126_VKEBBE_000_011	Me muero de hambre. Tenía guardado uno de esos sándwiches finitos ─ ya sabes, esas delicias rellenas de huevo que hacen en el Bismarck ─, pero cuando volví del trabajo, había desaparecido, maldita sea...
+TEXT_CLSROG101_00126_VKEBBE_000_011	Me muero de hambre. Tenía guardado uno de esos sándwiches finitos - ya sabes, esas delicias rellenas de huevo que hacen en el Bismarck -, pero cuando volví del trabajo, había desaparecido, maldita sea...
 TEXT_CLSROG101_00126_JACKE_000_012	(Ay, no. ¿Ese era de V'kebbe? Creí que era de Underfoot...)
 TEXT_CLSROG101_00126_JACKE_000_013	\<tos> ¡Ejem! Bueno, tú ve a hacer el trabajo, ¡y yo veré si encuentro ese sándwich perdido para cuando vuelvas!
 TEXT_CLSROG101_00126_VKEBBE_000_014	...Está bien, Jacke.
@@ -38,11 +38,11 @@ TEXT_CLSROG101_00126_JACKE_000_015	Ah, un detallito más que deberías saber: es
 TEXT_CLSROG101_00126_VKEBBE_000_020	Podemos empezar cuando estés <if(gnum4,lista,listo)>, <split(<string(gstr1)>, ,1)>.
 TEXT_CLSROG101_00126_VKEBBE_000_021	Tuve a una colega con la oreja atenta a cualquier cosa que pudiera servirnos, así que te sugiero que primero cruces unas palabras con ella.
 TEXT_CLSROG101_00126_VKEBBE_000_022	La vas a encontrar en el Hyaline, haciéndose pasar por pescadera.
-TEXT_CLSROG101_00126_VKEBBE_000_030	Esa muchacha de allá ─ la que apesta a pescado y a mar. Acércate y pregúntale cuál es la pesca del día.
-TEXT_CLSROG101_00126_THIEF00126_000_040	Hola, <if(gnum4,señorita,señor)>. Tenemos carpa y trucha, langosta y camarón...pero me dicen que anda buscando un pescado de una raza especial ─ de esos largos y brillantes, que con un ladrido tumban a cualquiera de culo.
-TEXT_CLSROG101_00126_THIEF00126_000_041	Esa clase no la vendemos aquí, pero podría probar con esos mercaderes extranjeros ─ ¿cómo se llamaban? ─ ah, los "Traders of Edge". Vienen de las islas de los mares del sur y son conocidos por comerciar con toda clase de armas de fuego y de filo de lo más feas.
+TEXT_CLSROG101_00126_VKEBBE_000_030	Esa muchacha de allá - la que apesta a pescado y a mar. Acércate y pregúntale cuál es la pesca del día.
+TEXT_CLSROG101_00126_THIEF00126_000_040	Hola, <if(gnum4,señorita,señor)>. Tenemos carpa y trucha, langosta y camarón...pero me dicen que anda buscando un pescado de una raza especial - de esos largos y brillantes, que con un ladrido tumban a cualquiera de culo.
+TEXT_CLSROG101_00126_THIEF00126_000_041	Esa clase no la vendemos aquí, pero podría probar con esos mercaderes extranjeros - ¿cómo se llamaban? - ah, los "Traders of Edge". Vienen de las islas de los mares del sur y son conocidos por comerciar con toda clase de armas de fuego y de filo de lo más feas.
 TEXT_CLSROG101_00126_THIEF00126_000_042	Le advierto: esa gente no es de preguntar de dónde sale su mercancía. De hecho, parecen más que felices de pagar por cosas que vienen "de bajo cubierta", por así decirlo.
-TEXT_CLSROG101_00126_THIEF00126_000_043	Pero si todavía quiere echarles mano a esos pescados raros, más le vale apurarse ─ el mercader de Edge que está de visita en Limsa piensa cargar y dejar la ciudad dentro de poco.
+TEXT_CLSROG101_00126_THIEF00126_000_043	Pero si todavía quiere echarles mano a esos pescados raros, más le vale apurarse - el mercader de Edge que está de visita en Limsa piensa cargar y dejar la ciudad dentro de poco.
 TEXT_CLSROG101_00126_THIEF00126_000_044	Eso sí, cómo piensa transportar su mercancía sigue siendo un misterio. Con todos los matones a sueldo que le cuidan el negocio, ¡a una chica le cuesta acercarse lo suficiente para echarle un vistazo a la competencia, ya lo creo!
 TEXT_CLSROG101_00126_THIEF00126_000_045	Yo voy a seguir con el ojo atento por usted, pero puede que averigüe algo más con la gente de la ciudad...
 TEXT_CLSROG101_00126_VKEBBE_000_050	...Traders of Edge, ¿eh? Bueno, si uno de sus mercaderes anda por la ciudad, alguien sabrá algo que nos ponga en la dirección correcta.
@@ -53,7 +53,7 @@ TEXT_CLSROG101_00126_SYSTEM_000_054	Diving Dove refunfuña con disgusto...
 TEXT_CLSROG101_00126_DIVINGDOVE_000_055	¡Uf! ¡La cara de desprecio de ese cliente! ¿Acaso cree que puedo ordenarle a la sartén que cocine más rápido solo porque él tiene apuro por zarpar?
 TEXT_CLSROG101_00126_DIVINGDOVE_000_056	No sé cómo se hacen las cosas en los mares del sur, ¡pero aquí en Limsa Lominsa la gente <italic(1)>entiende<italic(0)> que la buena cocina no se apura!
 TEXT_CLSROG101_00126_DIVINGDOVE_000_057	...Vamos, Dove, no debes hablar mal de los clientes. A ver, ¿qué seguía en mi lista? Ah, otro sándwich finito para las Dutiful Sisters. A alguien de ahí le deben encantar los huevos...
-TEXT_CLSROG101_00126_DIVINGDOVE_000_058	Uf, es simplemente exasperant─
+TEXT_CLSROG101_00126_DIVINGDOVE_000_058	Uf, es simplemente exasperant-
 TEXT_CLSROG101_00126_DIVINGDOVE_000_059	¿Sí, <if(gnum4,señorita,señor)>? Por favor, haga su pedido a uno de los camareros y le prepararemos la comida con toda la diligencia del caso.
 TEXT_CLSROG101_00126_SYSTEM_100_059	Diving Dove parece afligida por algo. Aléjate un poco y vuelve a acercarte bajo el efecto de Hide para escuchar a escondidas sus quejas.
 TEXT_CLSROG101_00126_SYSTEM_110_059	Diving Dove parece afligida por algo. Acércate bajo el efecto de Hide e intenta escuchar a escondidas sus quejas.
@@ -71,7 +71,7 @@ TEXT_CLSROG101_00126_SYSTEM_000_070	Gerulf le ofrece su mercancía a un cliente.
 TEXT_CLSROG101_00126_GERULF_000_071	¡Tiene muy buen ojo para la calidad, señor! Tenemos un espléndido surtido de productos de todos los rincones de Eorzea, ¡pero nadie puede visitar Limsa Lominsa sin probar algunas especialidades locales!
 TEXT_CLSROG101_00126_GERULF_000_072	¿Le apetece un jugo de naranja de La Noscea recién exprimido? ¿O quizá nuestro famoso bacalao salado sea más de su gusto...?
 TEXT_CLSROG101_00126_SYSTEM_000_073	Gerulf sigue elogiando las virtudes de su mercancía, pero sus apasionadas recomendaciones parecen tener poco que ver con tu tarea.
-TEXT_CLSROG101_00126_GERULF_000_074	¡Excelente elección! ¿Me permite también dirigir su mirada a estos artículos de abajo─
+TEXT_CLSROG101_00126_GERULF_000_074	¡Excelente elección! ¿Me permite también dirigir su mirada a estos artículos de abajo-
 TEXT_CLSROG101_00126_GERULF_000_075	¡Ah! ¡Otro cliente! ¡Pase, pase! ¿Vio algo que le guste? ¡Por favor, quédese y mire todo lo que quiera!
 TEXT_CLSROG101_00126_SYSTEM_000_076	Gerulf le habla a un cliente cercano en tono bajo pero animado. Aléjate un poco y vuelve a acercarte bajo el efecto de Hide para escuchar a escondidas sus exhortaciones.
 TEXT_CLSROG101_00126_SYSTEM_000_077	Gerulf le habla a un cliente cercano en tono bajo pero animado. Acércate bajo el efecto de Hide e intenta escuchar a escondidas sus exhortaciones.
@@ -96,18 +96,18 @@ TEXT_CLSROG101_00126_VKEBBE_000_112	Diría que aquí terminamos. Entremos a darl
 TEXT_CLSROG101_00126_JACKE_000_130	Oí ruido de pelea afuera, y ahora ya sonsaqué la causa. ...Creí que en este trabajo íbamos por lo "sutil".
 TEXT_CLSROG101_00126_JACKE_000_131	¿Tantos soldaditos había? Pero les llevaste a los Yellowjackets lo que querían, así que bien está lo que bien acaba, ¿eh?
 TEXT_CLSROG101_00126_VKEBBE_000_132	Vas camino de convertirte en <if(gnum4,una rogue,un rogue)> de primera, <split(<string(gstr1)>, ,1)>.
-TEXT_CLSROG101_00126_VKEBBE_000_133	Sí, el trabajo no salió exactamente como lo planeamos, pero ¿ves lo valioso que es no dejarse ver? Escabullirse puede parecer lento, pero a la larga te ahorra tiempo ─ y una buena cantidad de sangre.
+TEXT_CLSROG101_00126_VKEBBE_000_133	Sí, el trabajo no salió exactamente como lo planeamos, pero ¿ves lo valioso que es no dejarse ver? Escabullirse puede parecer lento, pero a la larga te ahorra tiempo - y una buena cantidad de sangre.
 TEXT_CLSROG101_00126_JACKE_000_134	Ah, hablando de imprevistos... Tengo una mala noticia para ti, V'kebbe.
 TEXT_CLSROG101_00126_JACKE_000_135	Busqué por todas partes, pero parece que algún tipo sin principios se zampó tu sándwich. No quedaban más que migas.
 TEXT_CLSROG101_00126_VKEBBE_000_136	No... Mi sándwich... Era un especial del Bismarck...
 TEXT_CLSROG101_00126_VKEBBE_000_137	¡¿Sabes cuánto esperaba esa comida?! ¡Tengo la panza a punto de hundirse sobre sí misma!
 TEXT_CLSROG101_00126_JACKE_000_138	Es una tragedia de primer orden, querida. Y sabes que no soporto ver a mis rogues tan afligidos...
-TEXT_CLSROG101_00126_JACKE_000_139	Así que le di a Underfoot una tarea especial ─ debería volver en cualquier momento...
+TEXT_CLSROG101_00126_JACKE_000_139	Así que le di a Underfoot una tarea especial - debería volver en cualquier momento...
 TEXT_CLSROG101_00126_JACKE_000_140	...¡con un sándwich finito especial del Bismarck recién hecho!
 TEXT_CLSROG101_00126_VKEBBE_000_141	¡¿Hiciste eso por mí?! ¡¿No me estás tomando el pelo, Jacke?!
 TEXT_CLSROG101_00126_JACKE_000_142	Con esto no se bromea. Es responsabilidad del maestro del gremio que todos sus tipos y mozas estén en su mejor forma para el trabajo.
 TEXT_CLSROG101_00126_PERIMUHAURIMU_000_143	¡Ah, Jacke, ahí estás! ¡Traje el sándwich que encargaste!
-TEXT_CLSROG101_00126_PERIMUHAURIMU_000_144	¡Y vaya si el chef me llenó las orejas cuando le dije que teníamos apuro! A lo mejor la próxima vez lo piensas dos veces antes de zamparte lo que otro rogue tenía para ce─
+TEXT_CLSROG101_00126_PERIMUHAURIMU_000_144	¡Y vaya si el chef me llenó las orejas cuando le dije que teníamos apuro! A lo mejor la próxima vez lo piensas dos veces antes de zamparte lo que otro rogue tenía para ce-
 TEXT_CLSROG101_00126_PERIMUHAURIMU_000_145	...Ay, carajo.
 TEXT_CLSROG101_00126_JACKE_000_146	...
 TEXT_CLSROG101_00126_VKEBBE_000_147	...Jacke. ¿Te comiste mi cena?
@@ -117,7 +117,7 @@ TEXT_CLSROG101_00126_JACKE_000_150	¡Jajaja, sí, el código! ¡No debemos ignor
 TEXT_CLSROG101_00126_JACKE_000_151	¡Aaargh!
 TEXT_CLSROG101_00126_PERIMUHAURIMU_000_152	...Puede que sea la colgada más rápida que vi en mi vida.
 TEXT_CLSROG101_00126_VKEBBE_000_153	Un castigo a la medida del crimen. Míralo bien, <split(<string(gstr1)>, ,1)>.
-TEXT_CLSROG101_00126_VKEBBE_000_154	El código existe para preservar la paz en Limsa ─ para que los callejones no se tiñan de sangre. Esta ciudad es mi hogar, y le saco las dagas a <italic(1)>cualquier<italic(0)> tipo lo bastante tonto para amenazar esa paz.
+TEXT_CLSROG101_00126_VKEBBE_000_154	El código existe para preservar la paz en Limsa - para que los callejones no se tiñan de sangre. Esta ciudad es mi hogar, y le saco las dagas a <italic(1)>cualquier<italic(0)> tipo lo bastante tonto para amenazar esa paz.
 TEXT_CLSROG101_00126_PERIMUHAURIMU_000_155	Una lección bien afilada. Entremos, ¿eh? Tu sándwich se va a enfriar.
 TEXT_CLSROG101_00126_JACKE_000_156	(-Jacke-)¡Oigan! ¡¿Piensan dejarme aquí toda la noche?! ¡Al menos me dejaron con una vista espléndida del puerto! ...¡Por las meadas de los dioses, qué apretadas están estas sogas!
 TEXT_CLSROG101_00126_MILALA_000_157	(-Soldado Yellowjacket-)Y ahora resulta que estamos en deuda con el Rogues' Guild. El <italic(1)>Rogues'<italic(0)> Guild.

@@ -20,13 +20,13 @@ TEXT_GAIUSE202_01346_FUFULUPA_000_012	Estaba pensando cómo pudo pasarnos inadve
 TEXT_GAIUSE202_01346_THANCRED_000_013	...Sería muy lamentable que tus temores resultaran fundados, Fufulupa.
 TEXT_GAIUSE202_01346_YSHTOLA_000_014	En efecto. Si, por razones de seguridad, la empresa decidiera trasladar los cristales que quedan en Horizon a otro lugar, sus planes se descubrirían en cuanto se informara a los Brass Blades.
 TEXT_GAIUSE202_01346_THANCRED_000_015	Ah, pero un envío así sin duda iría bien custodiado. ¿Unos ladrones tan astutos como los nuestros se arriesgarían a un enfrentamiento abierto?
-TEXT_GAIUSE202_01346_YSHTOLA_000_016	Quizá no. Pero la empresa tampoco querría ofrecerles un blanco tan evidente. No, podría optar por hacer el traslado en <italic(1)>secreto<italic(0)> ─ confiarle la mercancía, digamos, a una minera Miqo'te solitaria, que viaje sin escolta para no llamar la atención.
-TEXT_GAIUSE202_01346_FUFULUPA_000_017	Pero quién─ ¡Aaah, <italic(1)>ya veo<italic(0)>! Sí, puede que la empresa <italic(1)>bien<italic(0)> decida hacer eso. Pero viajar con tanta carga sería agotador, y esa minera <italic(1)>sin duda<italic(0)> necesitaría descansar en el camino. Quizá... ¿al norte del puente hacia Hammerlea?
-TEXT_GAIUSE202_01346_THANCRED_000_018	Un buen lugar para descansar ─ ¿no te parece, <split(<string(gstr1)>, ,1)>? <if([gnum71==4],...Por desgracia\, el papel de la minera Miqo'te ya está ocupado\, así que tú esperarás emboscad<if(gnum4,a,o)> al norte\, y yo haré lo mismo al sur,Tú espera emboscad<if(gnum4,a,o)> al norte\, y yo haré lo mismo al sur)>.
+TEXT_GAIUSE202_01346_YSHTOLA_000_016	Quizá no. Pero la empresa tampoco querría ofrecerles un blanco tan evidente. No, podría optar por hacer el traslado en <italic(1)>secreto<italic(0)> - confiarle la mercancía, digamos, a una minera Miqo'te solitaria, que viaje sin escolta para no llamar la atención.
+TEXT_GAIUSE202_01346_FUFULUPA_000_017	Pero quién- ¡Aaah, <italic(1)>ya veo<italic(0)>! Sí, puede que la empresa <italic(1)>bien<italic(0)> decida hacer eso. Pero viajar con tanta carga sería agotador, y esa minera <italic(1)>sin duda<italic(0)> necesitaría descansar en el camino. Quizá... ¿al norte del puente hacia Hammerlea?
+TEXT_GAIUSE202_01346_THANCRED_000_018	Un buen lugar para descansar - ¿no te parece, <split(<string(gstr1)>, ,1)>? <if([gnum71==4],...Por desgracia\, el papel de la minera Miqo'te ya está ocupado\, así que tú esperarás emboscad<if(gnum4,a,o)> al norte\, y yo haré lo mismo al sur,Tú espera emboscad<if(gnum4,a,o)> al norte\, y yo haré lo mismo al sur)>.
 TEXT_GAIUSE202_01346_FUFULUPA_000_019	¡Ejem! Perdónenme, amigos, ¡pero recibí órdenes nuevas! ¡Tengo que avisarles a mis hombres de inmediato!
 TEXT_GAIUSE202_01346_THANCRED_000_020	Llámame cínico, pero me sorprendería que esos ladrones bajaran las armas y se rindieran. Ven preparad<if(gnum4,a,o)> para darles un poco de... estímulo.
 TEXT_GAIUSE202_01346_THANCRED_000_025	¿¡Qué haces, <split(<string(gstr1)>, ,1)>!? ¡Si los ladrones llegan por el norte, no habrá nadie allí para detenerlos!
-TEXT_GAIUSE202_01346_YSHTOLA_000_026	Sin ánimo de ofender, <if(gnum4,señorita,señor)> ─ <italic(1)>prefiero que me dejen en paz<italic(0)>.
+TEXT_GAIUSE202_01346_YSHTOLA_000_026	Sin ánimo de ofender, <if(gnum4,señorita,señor)> - <italic(1)>prefiero que me dejen en paz<italic(0)>.
 TEXT_GAIUSE202_01346_POP_MESSAGE	Un movimiento a lo lejos te llama la atención...
 TEXT_GAIUSE202_01346_BALLOON_100_026	¿¡Guardias!? No importa. ¡Mátenlos a todos!
 TEXT_GAIUSE202_01346_BALLOON_110_026	¡No pienso morir en este agujero dejado de la mano de los dioses!
@@ -36,15 +36,15 @@ TEXT_GAIUSE202_01346_THANCRED_000_031	Una banda de ladrones Sea Wolves, y nada m
 TEXT_GAIUSE202_01346_YSHTOLA_000_032	¿Sea Wolves? ¿Todos?
 TEXT_GAIUSE202_01346_THANCRED_000_033	Así es, y todos con el mismo gusto en tatuajes faciales. Azules, por si te lo preguntabas.
 TEXT_GAIUSE202_01346_YSHTOLA_000_034	...Nuestros ladrones están muy lejos de casa.
-TEXT_GAIUSE202_01346_YSHTOLA_000_035	Thancred ─ si fueras tan amable de ocuparte de lo que queda pendiente en Horizon... Yo tengo averiguaciones que hacer.
+TEXT_GAIUSE202_01346_YSHTOLA_000_035	Thancred - si fueras tan amable de ocuparte de lo que queda pendiente en Horizon... Yo tengo averiguaciones que hacer.
 TEXT_GAIUSE202_01346_THANCRED_000_036	A Horizon, entonces. Fufulupa querrá saber de tu encuentro con los ladrones.
 TEXT_GAIUSE202_01346_THANCRED_000_038	Este relato no necesita los adornos de un bardo. Solo cuéntale a Fufulupa lo que pasó.
 TEXT_GAIUSE202_01346_FUFULUPA_000_040	¡En nombre de los Brass Blades of the Rose, te agradezco tu servicio a Horizon!
 TEXT_GAIUSE202_01346_FUFULUPA_000_041	¡Ah, pero nosotros tampoco estuvimos de brazos cruzados! ¡Mientras estaban afuera, logramos identificar al traidor de nuestras filas!
 TEXT_GAIUSE202_01346_THANCRED_000_042	¿Ah, sí? Entonces, con tu permiso, me gustaría mucho tener unas palabras en privado con el sujeto.
 TEXT_GAIUSE202_01346_FUFULUPA_000_043	Ah... no. Me temo que no será posible. Lamentablemente, él, eh... logró reducir a la unidad de Blades que enviamos a detenerlo, y se escapó.
-TEXT_GAIUSE202_01346_THANCRED_000_044	Ay, por todos los─ ¿Y cómo lo logró, exactamente? Tus hombres no estuvieron probando el somnus que confiscamos, ¿no? <italic(1)>¿O era un gigante disfrazado?<italic(0)>
-TEXT_GAIUSE202_01346_FUFULUPA_000_045	N-No... ¡pero era muy fuerte! Un Sea Wolf ─ nacido y criado en Limsa, creo. Pero no se preocupen ─ ¡lo <italic(1)>encontraremos<italic(0)>, les doy mi palabra!
+TEXT_GAIUSE202_01346_THANCRED_000_044	Ay, por todos los- ¿Y cómo lo logró, exactamente? Tus hombres no estuvieron probando el somnus que confiscamos, ¿no? <italic(1)>¿O era un gigante disfrazado?<italic(0)>
+TEXT_GAIUSE202_01346_FUFULUPA_000_045	N-No... ¡pero era muy fuerte! Un Sea Wolf - nacido y criado en Limsa, creo. Pero no se preocupen - ¡lo <italic(1)>encontraremos<italic(0)>, les doy mi palabra!
 TEXT_GAIUSE202_01346_THANCRED_000_046	Ya veo... Mantenme al tanto de cualquier novedad, por favor.
 TEXT_GAIUSE202_01346_THANCRED_000_047	¿Sí? ...Está aquí a mi lado. ...Entendido.
 TEXT_GAIUSE202_01346_THANCRED_000_048	Me temo que nuestro tiempo juntos llegó a su fin, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>. Te necesitan en otra parte. Terriblemente decepcionante, lo sé, pero hay que ir adonde lo lleva a uno el deber.

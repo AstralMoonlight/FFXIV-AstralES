@@ -1,14 +1,14 @@
 key	text
 TEXT_GAIUSE612_00424_SEQ_00	¿Quién mejor para servir a los Scions of the Seventh Dawn que un humilde erudito y su fiel asistente?
-TEXT_GAIUSE612_00424_SEQ_01	Ansioso por obtener más lecturas que confirmen su teoría, tu compañero erudito propone visitar Urth's Fount. Ve al siguiente ─ y ojalá último ─ punto de medición.
+TEXT_GAIUSE612_00424_SEQ_01	Ansioso por obtener más lecturas que confirmen su teoría, tu compañero erudito propone visitar Urth's Fount. Ve al siguiente - y ojalá último - punto de medición.
 TEXT_GAIUSE612_00424_SEQ_02	Al llegar a Urth's Fount, el erudito te pide que hagas lo de siempre: montar guardia a una distancia adecuada mientras toma sus mediciones.
-TEXT_GAIUSE612_00424_SEQ_03	La medición da un giro trágico cuando el erudito descubre el cuerpo de Wilred, el joven alamhigano que tú mism<if(gnum4,a,o)> reclutaste para los Crystal Braves. Hoary Boulder y Coultenet llegan enseguida al lugar y concluyen que al muchacho lo asesinaron ─ aunque quién lo hizo y por qué, solo pueden especularlo. Los dos se ofrecen a cuidar del erudito en tu lugar y te ruegan que vayas a informar de la muerte del muchacho a Minfilia, en los Rising Stones.
+TEXT_GAIUSE612_00424_SEQ_03	La medición da un giro trágico cuando el erudito descubre el cuerpo de Wilred, el joven alamhigano que tú mism<if(gnum4,a,o)> reclutaste para los Crystal Braves. Hoary Boulder y Coultenet llegan enseguida al lugar y concluyen que al muchacho lo asesinaron - aunque quién lo hizo y por qué, solo pueden especularlo. Los dos se ofrecen a cuidar del erudito en tu lugar y te ruegan que vayas a informar de la muerte del muchacho a Minfilia, en los Rising Stones.
 TEXT_GAIUSE612_00424_SEQ_04	La noticia de la muerte de Wilred conmociona a Minfilia, que no logra entender por qué alguien querría hacerle daño al muchacho. Con voz apagada, declara que Alphinaud querrá hacer una investigación y avisar a la familia de Wilred, y luego vuelve a hundirse en sus pensamientos...
 TEXT_GAIUSE612_00424_TODO_00	Habla con el erudito inquieto en Urth's Fount.
 TEXT_GAIUSE612_00424_TODO_01	Monta guardia mientras el erudito toma mediciones.
 TEXT_GAIUSE612_00424_TODO_02	Habla con Minfilia en los Rising Stones.
 TEXT_GAIUSE612_00424_SCIENTIST00423_000_000	Para la próxima medición, quiero que me escolte a Urth's Fount.
-TEXT_GAIUSE612_00424_SCIENTIST00423_000_001	Allí la concentración de aether ambiental es tan alta que se forman estructuras cristalinas de forma espontánea. Por eso debería ser mucho más fácil detectar fluctuaciones anómalas. Brillante, ¿no? No, no se moleste en responder ─ era una pregunta retórica. ¡Vamos, venga!
+TEXT_GAIUSE612_00424_SCIENTIST00423_000_001	Allí la concentración de aether ambiental es tan alta que se forman estructuras cristalinas de forma espontánea. Por eso debería ser mucho más fácil detectar fluctuaciones anómalas. Brillante, ¿no? No, no se moleste en responder - era una pregunta retórica. ¡Vamos, venga!
 TEXT_GAIUSE612_00424_SCIENTIST00423_000_010	A estas alturas ya debería conocer muy bien el procedimiento. Busque una posición adecuada para vigilar mientras tomo las mediciones.
 TEXT_GAIUSE612_00424_SCIENTIST00423_000_011	¡Vamos a estar aquí toda <if([gnum11<12],<if([gnum11<4],la noche,la mañana)>,<if([gnum11<17],la tarde,la noche)>)> si no me deja tranquilo, <if(gnum4,jovencita,jovencito)>!
 TEXT_GAIUSE612_00424_SCIENTIST00423_000_012	Sí... sí... bastante alta, pero aun así claramente más baja que las mediciones históricas de finales de la Sexta Era Astral...
@@ -24,13 +24,13 @@ TEXT_GAIUSE612_00424_COULTENET_000_021	Nosotros nos encargaremos de proteger al 
 TEXT_GAIUSE612_00424_HOARYBOULDER_000_022	Sí, y de los restos del muchacho. Tú deberías volver a los Rising Stones. La Antecedent querrá saber qué pasó aquí.
 TEXT_GAIUSE612_00424_HOARYBOULDER_000_023	Y yo también...
 TEXT_GAIUSE612_00424_SCIENTIST00423_000_030	Nunca... nunca estuve tan cerca de un... de un... Ay... ay, dioses...
-TEXT_GAIUSE612_00424_HOARYBOULDER_000_031	Hablamos unas cuantas veces en los Rising Stones. No tenía tanta experiencia como otros Braves ─ pero, dioses, tenía pasión...
+TEXT_GAIUSE612_00424_HOARYBOULDER_000_031	Hablamos unas cuantas veces en los Rising Stones. No tenía tanta experiencia como otros Braves - pero, dioses, tenía pasión...
 TEXT_GAIUSE612_00424_COULTENET_000_032	Dioses, qué desperdicio... Deja esto en nuestras manos, <split(<string(gstr1)>, ,1)>. Tienes que volver a los Rising Stones e informar a la Antecedent de inmediato.
 TEXT_GAIUSE612_00424_MINFILIA_000_040	¡<split(<string(gstr1)>, ,1)>, volviste! Y pareces preocupad<if(gnum4,a,o)>. ¿Tanto te pesó el papel de escolta?
 TEXT_GAIUSE612_00424_MINFILIA_000_041	¿Wilred... muerto? ¿Quizá <italic(1)>asesinado<italic(0)>? ¡Por los Twelve! ¿¡Cómo puede ser!?
 TEXT_GAIUSE612_00424_MINFILIA_000_042	Le avisaré a Alphinaud de inmediato. Querrá hacer una investigación completa y avisar a la familia de Wilred...
-TEXT_GAIUSE612_00424_MINFILIA_000_043	Dioses... No era más que un muchacho. ¿Quién haría algo así ─ y por qué?
-TEXT_GAIUSE612_00424_MINFILIA_000_050	Dioses... No era más que un muchacho. ¿Quién haría algo así ─ y por qué? ...Pero lo siento, <split(<string(gstr1)>, ,1)>. Seguro que esto te pesa en el corazón... y ya abusamos bastante de ti.
-TEXT_GAIUSE612_00424_MINFILIA_000_051	Tómate un tiempo para ti ─ me atrevo a decir que te ganaste de sobra un respiro. Después de todo, estaremos muy ocupados con los preparativos a medida que se acerque el banquete. Si otras aventuras te llaman, ¿quizá sea el momento de atenderlas?
+TEXT_GAIUSE612_00424_MINFILIA_000_043	Dioses... No era más que un muchacho. ¿Quién haría algo así - y por qué?
+TEXT_GAIUSE612_00424_MINFILIA_000_050	Dioses... No era más que un muchacho. ¿Quién haría algo así - y por qué? ...Pero lo siento, <split(<string(gstr1)>, ,1)>. Seguro que esto te pesa en el corazón... y ya abusamos bastante de ti.
+TEXT_GAIUSE612_00424_MINFILIA_000_051	Tómate un tiempo para ti - me atrevo a decir que te ganaste de sobra un respiro. Después de todo, estaremos muy ocupados con los preparativos a medida que se acerque el banquete. Si otras aventuras te llaman, ¿quizá sea el momento de atenderlas?
 TEXT_GAIUSE612_00424_SYSTEM_000_052	Para avanzar en el escenario principal, primero debes completar algunas misiones de la serie de la Crystal Tower.
 TEXT_GAIUSE612_00424_SYSTEM_000_060	Puedes empezar la serie de misiones de la Crystal Tower hablando con el hombre estrafalario de Revenant's Toll.

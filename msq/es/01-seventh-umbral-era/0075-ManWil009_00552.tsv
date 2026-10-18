@@ -2,7 +2,7 @@ key	text
 TEXT_MANWIL009_00552_SEQ_00	Momodi quiere despedirte antes del banquete.
 TEXT_MANWIL009_00552_SEQ_01	El banquete está por empezar. Ponte la Voice of the Just y ve al Royal Promenade, donde te espera Bartholomew.
 TEXT_MANWIL009_00552_SEQ_02	En el banquete, Raubahn relata las hazañas de los héroes medio olvidados a los que los eorzeanos ahora llaman los Warriors of Light. El relato despierta en tu mente una visión de los últimos momentos de la batalla de Carteneau. Cuando vuelves en ti, te sorprende encontrarte en una habitación del Hourglass, sin idea de cómo llegaste ahí. Entre aliviada y divertida, Momodi te explica que te desplomaste y te cuenta que el General quiere verte. Ve al Hall of Flames y pide audiencia con él.
-TEXT_MANWIL009_00552_SEQ_03	El General Flame declara que hay trabajo que hacer ─ y que quiere que lo hagas tú. Vuelve a hablar con él cuando estés list<if(gnum4,a,o)> para empezar.
+TEXT_MANWIL009_00552_SEQ_03	El General Flame declara que hay trabajo que hacer - y que quiere que lo hagas tú. Vuelve a hablar con él cuando estés list<if(gnum4,a,o)> para empezar.
 TEXT_MANWIL009_00552_TODO_00	Ponte la Voice of the Just y habla con Bartholomew.
 TEXT_MANWIL009_00552_TODO_01	Habla con Raubahn en el Hall of Flames.
 TEXT_MANWIL009_00552_MOMODI_000_1	¡Llegó la hora, <split(<string(gstr1)>, ,1)>: tu gran debut en la alta sociedad de Ul'dah!
@@ -39,7 +39,7 @@ TEXT_MANWIL009_00552_000240_RAUBAHN	Y en los ojos de nuestra mente, sus rostros 
 TEXT_MANWIL009_00552_000250_RAUBAHN	Por eso empezamos a llamarlos los Warriors of Light.
 TEXT_MANWIL009_00552_000260_RAUBAHN	Cuando te miro, no puedo evitar pensar en ellos, y en lo que tú podrías lograr.
 TEXT_MANWIL009_00552_000270_RAUBAHN	Tienes que proteger ese cristal a toda costa.
-TEXT_MANWIL009_00552_000280_RAUBAHN	Es un regalo de Hydaelyn, Madre de todo ─ y Ella te lo dio por una razón.
+TEXT_MANWIL009_00552_000280_RAUBAHN	Es un regalo de Hydaelyn, Madre de todo - y Ella te lo dio por una razón.
 TEXT_MANWIL009_00552_000290_RAUBAHN	La tuya no es una historia común. Si tengo razón, el destino del reino podría depender de tus hazañas.
 TEXT_MANWIL009_00552_000300_RAUBAHN	Solo los héroes y los mártires son dignos de llevar semejante carga. Recemos para que seas de los primeros.
 TEXT_MANWIL009_00552_MOMODI_000_50	¿Cómo te sientes, <split(<string(gstr1)>, ,1)>?
@@ -50,6 +50,6 @@ TEXT_MANWIL009_00552_MOMODI_000_54	En fin, me alegra ver que volviste a la norma
 TEXT_MANWIL009_00552_MOMODI_000_55	Ah, antes de que me olvide, el General te dejó un mensaje. Dijo que cuando te sientas con fuerzas, vayas a verlo al Hall of Flames.
 TEXT_MANWIL009_00552_MOMODI_000_56	Seguro quiere terminar la historia que te estaba contando cuando te dormiste.
 TEXT_MANWIL009_00552_RAUBAHN_000_60	Te estaba esperando, <split(<string(gstr1)>, ,1)>. ¿Confío en que te recuperaste del todo?
-TEXT_MANWIL009_00552_RAUBAHN_000_61	Bien, porque hay mucho trabajo que hacer ─ trabajo que quiero que hagas tú...
+TEXT_MANWIL009_00552_RAUBAHN_000_61	Bien, porque hay mucho trabajo que hacer - trabajo que quiero que hagas tú...
 TEXT_MANWIL009_00552_SERENDIPITY_070	¿¡Que quieres <italic(1)>qué<italic(0)>!? ¡No puedes hablar en serio! <italic(1)>Dioses<italic(0)>...
 TEXT_MANWIL009_00552_SERENDIPITY_071	Solo por esta vez, pero recuerda: la vida no es una canción de juglar, y tú no eres <if(gnum4,ninguna heroína elegida,ningún héroe elegido)>. Así que no vayas por ahí esperando que la gente te perdone cualquier cosa imprudente e irresponsable que hagas.

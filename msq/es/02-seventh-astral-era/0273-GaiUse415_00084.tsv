@@ -6,7 +6,7 @@ TEXT_GAIUSE415_00084_SEQ_03	Como es probable que Iceheart ya sepa de tus planes 
 TEXT_GAIUSE415_00084_SEQ_04	El comandante supremo de los Temple Knights agradece tus esfuerzos y reza para que Halone te traiga a salvo a casa. Llama a tus aliados, pon tu fe en el plan de Moenbryda y termina con la cruzada de Iceheart.<br><br>※Se puede entrar al Akh Afah Amphitheatre (Hard) mediante el Duty Finder.
 TEXT_GAIUSE415_00084_SEQ_05	Los que llegan al borde de la desesperación son siempre los enemigos más peligrosos, como te recuerda Iceheart al ofrecer su propio cuerpo como recipiente para el alma de Shiva. La santa de antaño resucitada ataca con una furia justiciera y te lleva al límite de tus fuerzas... pero la batalla termina como empezó, con la joven doncella arrodillada en la nieve, maldiciendo tu ignorancia.
 TEXT_GAIUSE415_00084_SEQ_06	"Escucha... Siente... Piensa...". De las enigmáticas palabras de despedida de Iceheart, las tres últimas son las que más te impresionan, porque son muy pocas las formas en que alguien podría conocerlas. ¿Será que Hydaelyn también le habla a tu enemiga? Por ahora, deja de lado esos pensamientos inquietantes y avísale a Moenbryda de tu victoria.
-TEXT_GAIUSE415_00084_SEQ_07	Moenbryda se muestra, comprensiblemente, escéptica ante tu descripción de lo ocurrido. Aun así, está dispuesta a darte el beneficio de la duda por ahora ─ siempre que no hayas sufrido ningún golpe en la cabeza. Segur<if(gnum4,a,o)> de lo que viste, decides no decirle que las heridas en la cabeza son de esperar cuando se pelea contra un primal.
+TEXT_GAIUSE415_00084_SEQ_07	Moenbryda se muestra, comprensiblemente, escéptica ante tu descripción de lo ocurrido. Aun así, está dispuesta a darte el beneficio de la duda por ahora - siempre que no hayas sufrido ningún golpe en la cabeza. Segur<if(gnum4,a,o)> de lo que viste, decides no decirle que las heridas en la cabeza son de esperar cuando se pelea contra un primal.
 TEXT_GAIUSE415_00084_TODO_00	Habla con Alphinaud en Snowcloak.
 TEXT_GAIUSE415_00084_TODO_01	Habla con Alphinaud.
 TEXT_GAIUSE415_00084_TODO_02	Habla con el firme Temple Knight.
@@ -15,12 +15,12 @@ TEXT_GAIUSE415_00084_TODO_04	Enfrenta a Shiva en el Akh Afah Amphitheatre (Hard)
 TEXT_GAIUSE415_00084_TODO_05	Habla con Moenbryda.
 TEXT_GAIUSE415_00084_MINFILIA_000_010	Ya le conté a Alphinaud nuestro plan de recrear la baliza como lo describió Moenbryda. Coincidió en que, pese al peligro, es nuestra única esperanza de éxito.
 TEXT_GAIUSE415_00084_MINFILIA_000_011	También dijo que quería reunirse contigo en Snowcloak antes de seguir. Supongo que lo encontrarás esperándote allí cuando llegues.
-TEXT_GAIUSE415_00084_MINFILIA_000_012	Quiero que sepas que valoro todo lo que hiciste por nosotros, <split(<string(gstr1)>, ,1)>, y que tengo fe en que volverás ─ como siempre lo hiciste.
+TEXT_GAIUSE415_00084_MINFILIA_000_012	Quiero que sepas que valoro todo lo que hiciste por nosotros, <split(<string(gstr1)>, ,1)>, y que tengo fe en que volverás - como siempre lo hiciste.
 TEXT_GAIUSE415_00084_ALPHINAUD_000_030	Qué bueno verl<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. Empezaba a preguntarme si lo estaba pensando dos veces.
 TEXT_GAIUSE415_00084_ALPHINAUD_000_031	Por cierto, el Capitán Ilberd le manda saludos. En este momento se ocupa del interrogatorio de Eline Roaille en Ul'dah.
 TEXT_GAIUSE415_00084_ALPHINAUD_000_032	Pero no l<if(gnum4,a,o)> distraeré de lo que nos ocupa. Podemos hablar de Ivy cuando vuelva.
 TEXT_GAIUSE415_00084_ALPHINAUD_000_033	Confío en que... Es decir... Ejem. Los demás nos esperan en el aetheryte. Usted primero, Scion.
-TEXT_GAIUSE415_00084_MOENBRYDA_100_030	Confía en el poder de la auracite blanca, <split(<string(gstr1)>, ,1)> ─ y en mí, claro.
+TEXT_GAIUSE415_00084_MOENBRYDA_100_030	Confía en el poder de la auracite blanca, <split(<string(gstr1)>, ,1)> - y en mí, claro.
 TEXT_GAIUSE415_00084_MOENBRYDA_000_001	¡Listo, ya está!
 TEXT_GAIUSE415_00084_MOENBRYDA_000_002	¡Ja! Funcionó... creo.
 TEXT_GAIUSE415_00084_MOENBRYDA_000_003	Intenta sintonizarte con el aetheryte ahora. Busca la corriente e intenta ubicar la baliza.
@@ -35,10 +35,10 @@ TEXT_GAIUSE415_00084_ALPHINAUD_000_050	De todos los innumerables desafíos que e
 TEXT_GAIUSE415_00084_MOENBRYDA_000_060	Tengo ganas de acompañarte, pero Urianger me hizo prometer que no lo haría.
 TEXT_GAIUSE415_00084_MOENBRYDA_000_061	Al parecer, la idea de que me volviera esclava de Shiva le resultaba insoportable. Hmph. Como si le fuera a dar la oportunidad.
 TEXT_GAIUSE415_00084_TEMPLER00075_000_070	<if(gnum4,Señora,Señor)>. Ser Aymeric lamenta no poder estar aquí en persona, y me pidió que le leyera esta carta. Ejem.
-TEXT_GAIUSE415_00084_TEMPLER00075_000_071	"Ishgard enfrenta una amenaza sin precedentes ─ y sin embargo, en nuestra hora de necesidad, no son sus caballeros quienes están listos para defenderla. <string(gstr1)>, Warrior of Light, <if(gnum4,salvadora,salvador)> de Eorzea ─ sus hazañas de este día no se olvidarán.
+TEXT_GAIUSE415_00084_TEMPLER00075_000_071	"Ishgard enfrenta una amenaza sin precedentes - y sin embargo, en nuestra hora de necesidad, no son sus caballeros quienes están listos para defenderla. <string(gstr1)>, Warrior of Light, <if(gnum4,salvadora,salvador)> de Eorzea - sus hazañas de este día no se olvidarán.
 TEXT_GAIUSE415_00084_TEMPLER00075_000_072	"Donde otros huirían, usted elige quedarse. Donde otros flaquearían, usted se pone a la altura del desafío. Donde otros usarían sus dones con fines egoístas, usted usa los suyos al servicio de una causa mayor.
 TEXT_GAIUSE415_00084_TEMPLER00075_000_073	"Que Halone le conceda buena fortuna y l<if(gnum4,a,o)> traiga a salvo a casa".
 TEXT_GAIUSE415_00084_MOENBRYDA_000_080	¡Por los Twelve, estás viv<if(gnum4,a,o)>! ¡Q-Quiero decir, claro que estás viv<if(gnum4,a,o)>! ¿Por qué no ibas a estarlo?
 TEXT_GAIUSE415_00084_MOENBRYDA_000_081	¿Que Iceheart hizo <italic(1)>qué<italic(0)>? ¿Y... estás segur<if(gnum4,a,o)> de eso? Los dravanianos son hábiles con los hechizos de ilusión, después de todo...
-TEXT_GAIUSE415_00084_MOENBRYDA_000_082	Mira ─ si dices que eso fue lo que viste, te creo. Es que nunca oí que se invocara así a un primal.
+TEXT_GAIUSE415_00084_MOENBRYDA_000_082	Mira - si dices que eso fue lo que viste, te creo. Es que nunca oí que se invocara así a un primal.
 TEXT_GAIUSE415_00084_MOENBRYDA_000_083	¿Seguro que no estás herid<if(gnum4,a,o)>? Se sabe que los golpes en la cabeza pueden causar alucinaciones, ¿sabes?... ¿No? Está bien. Solo preguntaba.

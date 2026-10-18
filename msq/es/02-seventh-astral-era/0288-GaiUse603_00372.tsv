@@ -2,8 +2,8 @@ key	text
 TEXT_GAIUSE603_00372_SEQ_00	Alphinaud parece ansioso por volver a Camp Dragonhead.
 TEXT_GAIUSE603_00372_SEQ_01	Ansioso por empezar su reunión con Ser Aymeric, Alphinaud deja atrás las Gates of Judgement. Vuelve a Camp Dragonhead y pregúntale a Lord Haurchefant dónde será la audiencia.
 TEXT_GAIUSE603_00372_SEQ_02	Tras recibirte con su calidez de siempre, Lord Haurchefant te informa que Ser Aymeric te espera en la cercana sala de audiencias. Habla con el guardia de la House Fortemps para entrar y anúnciale tu llegada al comandante supremo.
-TEXT_GAIUSE603_00372_SEQ_03	Poco después de saludar a Ser Aymeric en la sala de audiencias, se les une Estinien, el Azure Dragoon. Por su prolongado contacto con el Eye, Estinien puede oír la "voz" de Nidhogg, y confirma que el rugido que hace poco sacudió los cielos fue el llamado a la batalla del dragón vengativo. Parece que Iceheart, si no está aliada directamente con la criatura, al menos comparte el deseo de Nidhogg de invadir la ciudad y apoderarse del Eye.<br><br>Convencido por la sombría predicción de Ser Aymeric ─ un Coerthas desolado que serviría al Empire como nueva base de operaciones ─, Alphinaud acepta ayudar al acosado comandante supremo. Habla con el joven Scion y escucha qué piensa del pedido de los ishgardianos.
-TEXT_GAIUSE603_00372_SEQ_04	Los dravanianos convergen por miles sobre la ciudad de Ishgard, y no hay garantía de que sus defensores puedan repelerlos ─ ni siquiera <italic(1)>con<italic(0)> ayuda externa. Aun así, Alphinaud parece agradecido por esta oportunidad de volver a unir a las naciones de Eorzea como aliadas.
+TEXT_GAIUSE603_00372_SEQ_03	Poco después de saludar a Ser Aymeric en la sala de audiencias, se les une Estinien, el Azure Dragoon. Por su prolongado contacto con el Eye, Estinien puede oír la "voz" de Nidhogg, y confirma que el rugido que hace poco sacudió los cielos fue el llamado a la batalla del dragón vengativo. Parece que Iceheart, si no está aliada directamente con la criatura, al menos comparte el deseo de Nidhogg de invadir la ciudad y apoderarse del Eye.<br><br>Convencido por la sombría predicción de Ser Aymeric - un Coerthas desolado que serviría al Empire como nueva base de operaciones -, Alphinaud acepta ayudar al acosado comandante supremo. Habla con el joven Scion y escucha qué piensa del pedido de los ishgardianos.
+TEXT_GAIUSE603_00372_SEQ_04	Los dravanianos convergen por miles sobre la ciudad de Ishgard, y no hay garantía de que sus defensores puedan repelerlos - ni siquiera <italic(1)>con<italic(0)> ayuda externa. Aun así, Alphinaud parece agradecido por esta oportunidad de volver a unir a las naciones de Eorzea como aliadas.
 TEXT_GAIUSE603_00372_TODO_00	Habla con Haurchefant.
 TEXT_GAIUSE603_00372_TODO_01	Habla con Aymeric en la sala de audiencias.
 TEXT_GAIUSE603_00372_TODO_02	Habla con Alphinaud.
@@ -21,28 +21,28 @@ TEXT_GAIUSE603_00372_FORTEMPSGUARD00054_A1_000_1	Sí
 TEXT_GAIUSE603_00372_FORTEMPSGUARD00054_A1_000_2	No
 TEXT_GAIUSE603_00372_AYMERIC_000_050	Les agradezco que hayan venido tan rápido... y les pido disculpas por mi ausencia. Basta decir que Lady Iceheart y sus herejes tienen mucho de qué responder...
 TEXT_GAIUSE603_00372_ALPHINAUD_000_051	Sí... nosotros mismos acabamos de volver de las Gates of Judgement. Dadas las circunstancias, entenderíamos perfectamente que prefiriera aplazar nuestra audiencia.
-TEXT_GAIUSE603_00372_AYMERIC_000_052	Al contrario, Maestro Alphinaud ─ creo que es más importante que nunca que esta reunión se haga. Tenga por seguro que volveré a mi puesto en las murallas de Ishgard en cuanto terminemos.
+TEXT_GAIUSE603_00372_AYMERIC_000_052	Al contrario, Maestro Alphinaud - creo que es más importante que nunca que esta reunión se haga. Tenga por seguro que volveré a mi puesto en las murallas de Ishgard en cuanto terminemos.
 TEXT_GAIUSE603_00372_AYMERIC_000_053	Pero antes de pasar al tema de los refuerzos, quisiera presentarles a un amigo cercano y fiel aliado. ¡Estinien!
 TEXT_GAIUSE603_00372_AYMERIC_000_054	Les presento al Azure Dragoon de Ishgard.
 TEXT_GAIUSE603_00372_ALPHINAUD_000_055	Un título impresionante... aunque confieso que sé muy poco de la orden de los dragoons.
 TEXT_GAIUSE603_00372_AYMERIC_000_056	Son todos guerreros formidables. Pero aun entre tales maestros de la lanza, Estinien no tiene igual.
 TEXT_GAIUSE603_00372_AYMERIC_000_057	De todos los guerreros de Ishgard, él fue el elegido para empuñar el poder de los dragones, y por eso puede enfrentarse a cualquier dravaniano.
 TEXT_GAIUSE603_00372_ESTINIEN_000_058	...Me halagas demasiado, Lord Comandante.
-TEXT_GAIUSE603_00372_ESTINIEN_000_059	Si alguna vez no tuve igual, ya no es así ─ como puede atestiguar mi compañer<if(gnum4,a,o)> Azure Dragoon aquí presente. Tranquil<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)> ─ hoy no vine a desafiarte.
+TEXT_GAIUSE603_00372_ESTINIEN_000_059	Si alguna vez no tuve igual, ya no es así - como puede atestiguar mi compañer<if(gnum4,a,o)> Azure Dragoon aquí presente. Tranquil<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)> - hoy no vine a desafiarte.
 TEXT_GAIUSE603_00372_ESTINIEN_000_060	Ah, eres tú...<br>Pero claro... es justo que el destino nos haya reunido a los dos.
 TEXT_GAIUSE603_00372_ESTINIEN_000_061	Así que tú eres <if(gnum4,la aventurera,el aventurero)> de quien hablaban...<br>Ahora entiendo por qué mi sangre casi cantaba ante la idea de este encuentro.
 TEXT_GAIUSE603_00372_AYMERIC_000_062	...Bueno, ahora que todos nos presentamos, pasemos al asunto que nos ocupa. Quisiera compartir con ustedes lo que sabemos del plan de Iceheart, según confesaron los herejes capturados tras el asalto a las puertas.
-TEXT_GAIUSE603_00372_AYMERIC_000_063	Parece que Lady Iceheart y los dravanianos comparten un objetivo ─ recuperar el ojo robado de Nidhogg.
+TEXT_GAIUSE603_00372_AYMERIC_000_063	Parece que Lady Iceheart y los dravanianos comparten un objetivo - recuperar el ojo robado de Nidhogg.
 TEXT_GAIUSE603_00372_ALPHINAUD_000_064	Nidhogg...<br>Uno de los siete grandes dragones.
 TEXT_GAIUSE603_00372_ALPHINAUD_000_065	Su nombre ocupa un lugar destacado en la historia de su nación. Aunque el héroe Haldrath lo derrotó una vez, se dice que la bestia aterroriza Coerthas desde la fundación de Ishgard.
 TEXT_GAIUSE603_00372_AYMERIC_000_066	Sí, muchas son las cicatrices que llevan nuestras murallas por los incansables intentos de Nidhogg de arrasar la ciudad.
-TEXT_GAIUSE603_00372_AYMERIC_000_067	El trofeo que Haldrath le arrancó del cráneo al dragón vencido ─ conocido simplemente como "el Eye" ─ es una reliquia preciada de Ishgard, y tiene un poder inconmensurable.
+TEXT_GAIUSE603_00372_AYMERIC_000_067	El trofeo que Haldrath le arrancó del cráneo al dragón vencido - conocido simplemente como "el Eye" - es una reliquia preciada de Ishgard, y tiene un poder inconmensurable.
 TEXT_GAIUSE603_00372_AYMERIC_000_068	Si alguna vez volviera a manos de Nidhogg, la temible criatura recuperaría el máximo de su fuerza. ...Y entonces no habría muralla ni barrera que pudiéramos levantar lo bastante sólida para detenerlo.
 TEXT_GAIUSE603_00372_MIDGARDSORMR_000_069	(-Voz de Midgardsormr-)Mi hijo vengativo hace la guerra a Ishgard desde hace mil años. Ninguna mente mortal podría comprender la hondura de su rencor.
-TEXT_GAIUSE603_00372_AYMERIC_000_070	El Eye está oculto en lo profundo del Vault. Lo custodian con celo ─ siempre rodeado de hombres y mujeres que demostraron su lealtad a la Holy See.
-TEXT_GAIUSE603_00372_AYMERIC_000_071	Pero aunque muros sólidos y hojas afiladas basten para disuadir a los herejes, los dragones son otra cosa. En la Dravanian Horde hay individuos a los que una compañía entera de caballeros apenas podría repeler ─ ni hablar del propio Nidhogg.
+TEXT_GAIUSE603_00372_AYMERIC_000_070	El Eye está oculto en lo profundo del Vault. Lo custodian con celo - siempre rodeado de hombres y mujeres que demostraron su lealtad a la Holy See.
+TEXT_GAIUSE603_00372_AYMERIC_000_071	Pero aunque muros sólidos y hojas afiladas basten para disuadir a los herejes, los dragones son otra cosa. En la Dravanian Horde hay individuos a los que una compañía entera de caballeros apenas podría repeler - ni hablar del propio Nidhogg.
 TEXT_GAIUSE603_00372_ESTINIEN_000_072	Ni la edad les roba la fuerza. A lo largo de la marcha interminable de los años, los dragones perduran. Pacientes. Calculadores. Implacables. Tienes que entenderlo: estas criaturas no perciben el tiempo como nosotros.
-TEXT_GAIUSE603_00372_ESTINIEN_000_073	Y eso vale sobre todo para los grandes dragones ─ que pasan siglos dormidos solo para despertar y retomar su campaña como si hubieran pasado unas horas.
+TEXT_GAIUSE603_00372_ESTINIEN_000_073	Y eso vale sobre todo para los grandes dragones - que pasan siglos dormidos solo para despertar y retomar su campaña como si hubieran pasado unas horas.
 TEXT_GAIUSE603_00372_AYMERIC_000_074	Pasaron veinte años desde la última vez que Nidhogg oscureció nuestros cielos. Veinte años para que él reuniera fuerzas, y para que nosotros reforzáramos nuestras defensas... Y ahora, justo cuando parece listo para volver, los herejes atacan las puertas...
 TEXT_GAIUSE603_00372_ALPHINAUD_000_075	...¿Cree entonces que Lady Iceheart está aliada con la criatura?
 TEXT_GAIUSE603_00372_AYMERIC_000_076	No podemos estar seguros. Aunque sabemos que los herejes codician el Eye, no logramos averiguar qué piensan hacer con él.
@@ -54,17 +54,17 @@ TEXT_GAIUSE603_00372_ALPHINAUD_000_082	Cuando la Eorzean Alliance le pidió ayud
 TEXT_GAIUSE603_00372_ALPHINAUD_000_083	¿No le parece tremendamente injusto exigir que ahora arriesguemos la vida en su guerra privada?
 TEXT_GAIUSE603_00372_AYMERIC_000_084	No intento defender la conducta de mi país. Solo le pido que considere lo que pasaría si Ishgard cayera.
 TEXT_GAIUSE603_00372_AYMERIC_000_085	Tras arrasar nuestra ciudad, la Horde tendría pocos motivos para quedarse, y la mayoría volvería a sus guaridas en Dravania. Poco después, las ruinas de Coerthas quedarían sepultadas bajo la nieve, y la tierra sería dominio exclusivo de bestias y hombres bestia.
-TEXT_GAIUSE603_00372_AYMERIC_000_086	...Hasta que llegaran los garleans, claro ─ porque puede estar seguro de que el Empire no dudaría en reclamar Coerthas. Ni siquiera tendrían que desenvainar.
+TEXT_GAIUSE603_00372_AYMERIC_000_086	...Hasta que llegaran los garleans, claro - porque puede estar seguro de que el Empire no dudaría en reclamar Coerthas. Ni siquiera tendrían que desenvainar.
 TEXT_GAIUSE603_00372_ALPHINAUD_000_087	¿Una provincia imperial con frontera con Mor Dhona...? Por los siete infiernos...
-TEXT_GAIUSE603_00372_ALPHINAUD_000_088	...Ejem. Muy bien ─ los ayudaremos a repeler a los dragones. Puede que el rugido de un gran dragón haya sacudido el firmamento, pero los de Eorzea no dejaremos solos a nuestros hermanos ishgardianos frente a la Horde que se avecina.
-TEXT_GAIUSE603_00372_AYMERIC_000_089	Nunca pensé que lo harían. Ahora, en cuanto al rugido─
+TEXT_GAIUSE603_00372_ALPHINAUD_000_088	...Ejem. Muy bien - los ayudaremos a repeler a los dragones. Puede que el rugido de un gran dragón haya sacudido el firmamento, pero los de Eorzea no dejaremos solos a nuestros hermanos ishgardianos frente a la Horde que se avecina.
+TEXT_GAIUSE603_00372_AYMERIC_000_089	Nunca pensé que lo harían. Ahora, en cuanto al rugido-
 TEXT_GAIUSE603_00372_ESTINIEN_100_089	Permíteme, Ser Aymeric.
 TEXT_GAIUSE603_00372_ESTINIEN_000_090	Por el poder del Eye me convertí en recipiente de la fuerza de Nidhogg. Su esencia se coló en mi propia sangre.
-TEXT_GAIUSE603_00372_ESTINIEN_000_091	No teman ─ tengo pleno control de mis facultades, se los aseguro. Y el Eye en sí no tiene nada que ver con esta historia ─ no hace falta que lo lleve conmigo adondequiera que vaya.
+TEXT_GAIUSE603_00372_ESTINIEN_000_091	No teman - tengo pleno control de mis facultades, se los aseguro. Y el Eye en sí no tiene nada que ver con esta historia - no hace falta que lo lleve conmigo adondequiera que vaya.
 TEXT_GAIUSE603_00372_ESTINIEN_000_092	Pero su influencia persistente me permite oír la voz de Nidhogg...
 TEXT_GAIUSE603_00372_ALPHINAUD_000_093	Entonces, ¿el dragón que rugió...?
 TEXT_GAIUSE603_00372_ESTINIEN_000_094	...Fue Nidhogg, sí. Piensa lanzar su Horde contra Daniffen's Collar y destrozar las barreras que todavía protegen la ciudad.
-TEXT_GAIUSE603_00372_ESTINIEN_000_095	No hay duda ─ el dragón llamó a la guerra a sus esbirros.
+TEXT_GAIUSE603_00372_ESTINIEN_000_095	No hay duda - el dragón llamó a la guerra a sus esbirros.
 TEXT_GAIUSE603_00372_ALPHINAUD_000_110	Aunque las circunstancias distan de ser ideales, esta empresa desesperada al menos nos dará la oportunidad de unir a las naciones hermanas de Eorzea en una causa común.
 TEXT_GAIUSE603_00372_ALPHINAUD_000_111	...Ser Aymeric fue más implacable en las negociaciones de lo que esperaba. Supongo que uno no da cuartel cuando está en juego su hogar.
 TEXT_GAIUSE603_00372_ALPHINAUD_000_112	Pero ¿vio la cara que puso cuando nos pidió formalmente ayuda? Aunque el comandante supremo lleva tiempo abogando por que Ishgard abra sus puertas a los forasteros, sospecho que este cambio de actitud de la Holy See hacia la cooperación extranjera le sabe a victoria agridulce.

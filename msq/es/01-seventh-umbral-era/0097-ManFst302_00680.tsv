@@ -12,7 +12,7 @@ TEXT_MANFST302_00680_Q1_000_1	¿Unirte a la Order of the Twin Adder?
 TEXT_MANFST302_00680_A1_000_1	Sí
 TEXT_MANFST302_00680_A1_000_2	No
 TEXT_MANFST302_00680_SERPENTOFFICER_000_2	¡Eligió sabiamente, amig<if(gnum4,a,o)>! ¡La Elder Seedseer estará encantada!
-TEXT_MANFST302_00680_SERPENTOFFICER_000_3	Sin más preámbulos, hablemos de lo práctico. Para completar el alistamiento, debe presentarse en <switch(gnum70,nuestro cuartel general en Gridania ─ el Adders' Nest,el Adders' Nest,nuestro cuartel general en Gridania ─ el Adders' Nest)>.
+TEXT_MANFST302_00680_SERPENTOFFICER_000_3	Sin más preámbulos, hablemos de lo práctico. Para completar el alistamiento, debe presentarse en <switch(gnum70,nuestro cuartel general en Gridania - el Adders' Nest,el Adders' Nest,nuestro cuartel general en Gridania - el Adders' Nest)>.
 TEXT_MANFST302_00680_SERPENTOFFICER_000_4	<switch(gnum70,El edificio que busca está en la parte sur de la ciudad\, la que ahora llaman New Gridania,Me atrevo a decir que lo conoce bien de sus andanzas por New Gridania,El edificio que busca está en la parte sur de la ciudad\, la que ahora llaman New Gridania)>. Dele su nombre al oficial de personal, y él l<if(gnum4,a,o)> guiará en los trámites.
 TEXT_MANFST302_00680_SERPENTOFFICER_000_5	No me cabe duda de que sus hazañas traerán gran honor a nuestra orden. ¡La próxima vez que nos veamos en Gridania, me enorgullecerá llamarl<if(gnum4,a,o)> <if(gnum4,hermana,hermano)>!
 TEXT_MANFST302_00680_SERPENTOFFICER_000_6	Ah... perdóneme. En mi afán de recibirl<if(gnum4,a,o)> como <if(gnum4,hermana,hermano)>, malinterpreté su intención.
@@ -31,16 +31,16 @@ TEXT_MANFST302_00680_SERPENTPERSONNEL_000_24	¿Qué pasa? Informe.
 TEXT_MANFST302_00680_SERPENT_000_25	¡Un mensaje urgente de Amarissaix's Spire, señor! ¡Las fuerzas imperiales dispararon contra una aeronave de Highwind Skyways en los cielos del East Shroud!
 TEXT_MANFST302_00680_SERPENT_000_26	Los motores de la nave quedaron destrozados, señor, y tuvo que hacer un aterrizaje de emergencia al sudeste de Nine Ivies.
 TEXT_MANFST302_00680_SERPENTPERSONNEL_000_27	¿Nine Ivies? Dioses, esto no podría haber pasado en peor momento. Casi todas nuestras fuerzas están en el campo, ocupadas con los Ixal.
-TEXT_MANFST302_00680_SERPENTPERSONNEL_000_28	<split(<string(gstr1)>, ,1)> ─ sé muy bien que todavía no ingresó formalmente en nuestras filas, pero necesitamos su ayuda con urgencia.
+TEXT_MANFST302_00680_SERPENTPERSONNEL_000_28	<split(<string(gstr1)>, ,1)> - sé muy bien que todavía no ingresó formalmente en nuestras filas, pero necesitamos su ayuda con urgencia.
 TEXT_MANFST302_00680_SERPENTPERSONNEL_000_29	Lo más probable es que la aeronave llevara civiles y, si los informes son correctos, habrá caído peligrosamente cerca del territorio ocupado por los garleans.
 TEXT_MANFST302_00680_SERPENTPERSONNEL_000_30	Por favor, vaya cuanto antes al sudeste de Nine Ivies, encuentre la aeronave y averigüe cómo están los pasajeros.
 TEXT_MANFST302_00680_SERPENTPERSONNEL_000_40	Según los informes, la aeronave cayó en algún lugar al sudeste de Nine Ivies. Vaya allí sin demora y averigüe cómo están los pasajeros.
 TEXT_MANFST302_00680_Q3_000_1	El deber llama. ¿Quieres comenzar<br>"The Company You Keep (Twin Adder)"?
 TEXT_MANFST302_00680_A3_000_1	Sí
 TEXT_MANFST302_00680_A3_000_2	No
-TEXT_MANFST302_00680_BIGGS_000_40	(-Tripulante de aeronave-)¿¡Un<if(gnum4,a aventurera,aventurero)>!? ¿Qué haces aquí? No, espera ─ primero busquemos dónde cubrirnos...
+TEXT_MANFST302_00680_BIGGS_000_40	(-Tripulante de aeronave-)¿¡Un<if(gnum4,a aventurera,aventurero)>!? ¿Qué haces aquí? No, espera - primero busquemos dónde cubrirnos...
 TEXT_MANFST302_00680_BIGGS_000_41	(-Tripulante de aeronave-)¿Te manda el Adders' Nest? ¿Cómo sé que no eres <if(gnum4,una,un)> espía imperial? ¡Ni siquiera tienes uniforme!
-TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_42	Calma, amigo ─ no queremos hacerle daño. Usted es ingeniero de Garlond Ironworks, ¿no? Nos avisaron de su situación y vinimos a rescatarlo.
+TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_42	Calma, amigo - no queremos hacerle daño. Usted es ingeniero de Garlond Ironworks, ¿no? Nos avisaron de su situación y vinimos a rescatarlo.
 TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_43	Y usted debe ser <string(gstr1)>. Me dijeron que esperara a un<if(gnum4,a,o)> Serpent "honorari<if(gnum4,a,o)>". Gracias por su ayuda, amig<if(gnum4,a,o)>.
 TEXT_MANFST302_00680_IMPERIALSOLDIER_000_44	Nunca vi una nave con este diseño... Debe ser obra de Garlond. ¿Es que la traición de ese hombre no tiene fin?
 TEXT_MANFST302_00680_IMPERIALSOLDIER_000_45	Los secretos del magitek pertenecen a manos imperiales. ¡No se van a desperdiciar en salvajes eorzeanos!
@@ -48,8 +48,8 @@ TEXT_MANFST302_00680_IMPERIALSOLDIER_000_46	¡Nos llevamos esta nave a la fortal
 TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_47	Exploradores imperiales de Castrum Oriens. Piensan requisar la nave.
 TEXT_MANFST302_00680_BIGGS_000_48	(-Tripulante de aeronave-)¡Wedge! ¡Tienen que ayudarlo! ¡Ese Lalafell tonto se escondió <italic(1)>dentro<italic(0)> del <italic(1)>Tiny Bronco<italic(0)>!
 TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_49	¿El <italic(1)>Tiny Bronco<italic(0)>? ¿¡No es la última creación de la Ironworks!?
-TEXT_MANFST302_00680_BIGGS_000_50	(-Tripulante de aeronave-)Es la primera aeronave que construimos desde la Calamidad ─ la primera desde que el Maestro Garlond... bueno, desde que desapareció.
-TEXT_MANFST302_00680_BIGGS_000_51	(-Tripulante de aeronave-)Después de años de trabajo, por fin estaba lista para su primer vuelo de prueba. ¡Y <italic(1)>volaba<italic(0)>, de verdad que volaba ─ hasta que esos desgraciados la derribaron!
+TEXT_MANFST302_00680_BIGGS_000_50	(-Tripulante de aeronave-)Es la primera aeronave que construimos desde la Calamidad - la primera desde que el Maestro Garlond... bueno, desde que desapareció.
+TEXT_MANFST302_00680_BIGGS_000_51	(-Tripulante de aeronave-)Después de años de trabajo, por fin estaba lista para su primer vuelo de prueba. ¡Y <italic(1)>volaba<italic(0)>, de verdad que volaba - hasta que esos desgraciados la derribaron!
 TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_52	Atención todos: la última creación de la Ironworks no debe caer en manos garleans. Los atacaremos con rapidez y precisión, y rescataremos al ingeniero Wedge.
 TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_53	<split(<string(gstr1)>, ,1)>, confío en que podemos contar con su apoyo.
 TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_54	¡Que la Matron nos proteja! ¡Conmigo!
@@ -63,7 +63,7 @@ TEXT_MANFST302_00680_BIGGS_000_65	Con unas pocas modificaciones deberíamos pode
 TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_66	Mientras trabajan, nosotros vigilaremos el perímetro. El enemigo todavía podría estar cerca.
 TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_67	En cuanto a usted, <split(<string(gstr1)>, ,1)>, hoy hizo más que su parte. Le ruego que vuelva al Adders' Nest y complete su alistamiento.
 TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_68	Espero que no haya más interrupciones. ¡La próxima vez que nos veamos, que sea como compañeros Serpents de la Order!
-TEXT_MANFST302_00680_BIGGS_000_69	Eh... solo quería pedirte perdón... ya sabes, por decirte espía imperial y todo eso... Me equivoqué <italic(1)>feo<italic(0)>, ¿no? ¡Ja, ja! Pero en serio ─ si no fuera por ti y los muchachos de los Twin Adder, ya estaríamos encadenados en una mazmorra. Te debo una, amig<if(gnum4,a,o)> ─ los dos te la debemos.
+TEXT_MANFST302_00680_BIGGS_000_69	Eh... solo quería pedirte perdón... ya sabes, por decirte espía imperial y todo eso... Me equivoqué <italic(1)>feo<italic(0)>, ¿no? ¡Ja, ja! Pero en serio - si no fuera por ti y los muchachos de los Twin Adder, ya estaríamos encadenados en una mazmorra. Te debo una, amig<if(gnum4,a,o)> - los dos te la debemos.
 TEXT_MANFST302_00680_BIGGS_000_70	¡Wedge!
 TEXT_MANFST302_00680_WEDGE_000_71	¡Gracias! ¡Te estamos muy agradecidos!
 TEXT_MANFST302_00680_SERPENTPERSONNEL_000_80	¡<split(<string(gstr1)>, ,1)>! ¡Qué alegría verl<if(gnum4,a,o)> de vuelta!

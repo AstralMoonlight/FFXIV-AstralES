@@ -7,7 +7,7 @@ TEXT_MANSEA302_00681_SEQ_04	De vuelta en el Maelstrom Command, el oficial de per
 TEXT_MANSEA302_00681_TODO_00	Habla con el oficial de personal en el Maelstrom Command.
 TEXT_MANSEA302_00681_TODO_01	Ve a Cedarwood y averigua qué fue de la aeronave y su tripulación.
 TEXT_MANSEA302_00681_TODO_02	Habla con el oficial de personal en el Maelstrom Command.
-TEXT_MANSEA302_00681_STORMOFFICER_000_1	¿Qué tal el discurso de la Almirante? Ah, no hace falta que me lo explique ─ que esté aquí frente a mí es respuesta suficiente. Decidió unirse al Maelstrom, ¿no es así?
+TEXT_MANSEA302_00681_STORMOFFICER_000_1	¿Qué tal el discurso de la Almirante? Ah, no hace falta que me lo explique - que esté aquí frente a mí es respuesta suficiente. Decidió unirse al Maelstrom, ¿no es así?
 TEXT_MANSEA302_00681_Q1_000_1	¿Unirte al Maelstrom?
 TEXT_MANSEA302_00681_A1_000_1	Sí
 TEXT_MANSEA302_00681_A1_000_2	No
@@ -18,28 +18,28 @@ TEXT_MANSEA302_00681_STORMOFFICER_000_5	Los deberes de un soldado del Maelstrom 
 TEXT_MANSEA302_00681_STORMOFFICER_000_6	...Bueno, supongo que tendrá sus razones. Pero escúcheme: en mares tormentosos, los de brazo fuerte y corazón firme tienen que remar juntos o el barco se hunde. Y cuando un barco se hunde, los pasajeros <italic(1)>siempre<italic(0)> corren la misma suerte que la tripulación. Recuérdelo.
 TEXT_MANSEA302_00681_SERPENTOFFICER_000_10	Le ruego que recuerde que puede cambiar de Grand Company cuando quiera. Si alguna vez cambia de opinión, la Order of the Twin Adder estaría orgullosa de tenerl<if(gnum4,a,o)>.
 TEXT_MANSEA302_00681_FLAMEOFFICER_000_11	¿¡Qué es esto!? ¿¡Piensa unirse al <italic(1)>Maelstrom<italic(0)>!? P-Pero... ¿no l<if(gnum4,a,o)> conmovió la imponente figura del General Raubahn? Puede <italic(1)>parecer<italic(0)> un poquito intimidante... pero seguro que con el tiempo le tomaría cariño.
-TEXT_MANSEA302_00681_STORMOFFICER_000_12	<switch(gnum70,Preséntese en el Maelstrom Command,Preséntese en el Maelstrom Command de Limsa Lominsa,Preséntese en el Maelstrom Command de Limsa Lominsa)> para jurar oficialmente en nuestras filas. Y no se demore. Hay mucho trabajo por hacer ─ trabajo para el que su talento es ideal.
+TEXT_MANSEA302_00681_STORMOFFICER_000_12	<switch(gnum70,Preséntese en el Maelstrom Command,Preséntese en el Maelstrom Command de Limsa Lominsa,Preséntese en el Maelstrom Command de Limsa Lominsa)> para jurar oficialmente en nuestras filas. Y no se demore. Hay mucho trabajo por hacer - trabajo para el que su talento es ideal.
 TEXT_MANSEA302_00681_STORMPERSONNEL_000_20	Saludos, aventurer<if(gnum4,a,o)>. ¿Qué l<if(gnum4,a,o)> trae al Maelstrom Command?
 TEXT_MANSEA302_00681_Q2_000_1	¿Qué respondes?
 TEXT_MANSEA302_00681_A2_000_1	Me llamo <string(gstr1)>. Creo que me esperaban.
 TEXT_MANSEA302_00681_A2_000_2	Vengo a alistarme, si me aceptan.
 TEXT_MANSEA302_00681_STORMPERSONNEL_000_21	¡<string(gstr1)>! Sí, nuestro oficial de reclutamiento avisó que vendría. Será un honor para mí incorporarl<if(gnum4,a,o)> a las filas del Maelstrom.
-TEXT_MANSEA302_00681_STORMPERSONNEL_100_21	Entonces, encantado, y bienvenid<if(gnum4,a,o)> al Maelstrom. Necesito un nombre para el registro, así que─ Un momento. Usted es <if(gnum4,ella,él)>, ¿no? ¡<string(gstr1)>! Sí, es tal como l<if(gnum4,a,o)> describió nuestro oficial de reclutamiento. ¡Me alegra tenerl<if(gnum4,a,o)> a bordo, amig<if(gnum4,a,o)>!
-TEXT_MANSEA302_00681_STORMPERSONNEL_000_22	Bien, antes de tomarle el juramento, debe estar al tanto de varias─
+TEXT_MANSEA302_00681_STORMPERSONNEL_100_21	Entonces, encantado, y bienvenid<if(gnum4,a,o)> al Maelstrom. Necesito un nombre para el registro, así que- Un momento. Usted es <if(gnum4,ella,él)>, ¿no? ¡<string(gstr1)>! Sí, es tal como l<if(gnum4,a,o)> describió nuestro oficial de reclutamiento. ¡Me alegra tenerl<if(gnum4,a,o)> a bordo, amig<if(gnum4,a,o)>!
+TEXT_MANSEA302_00681_STORMPERSONNEL_000_22	Bien, antes de tomarle el juramento, debe estar al tanto de varias-
 TEXT_MANSEA302_00681_STORMPRIVATE_000_23	¡Señor!
 TEXT_MANSEA302_00681_STORMPERSONNEL_000_24	¿Qué pasa, soldado? Y más vale que sea importante.
 TEXT_MANSEA302_00681_STORMPRIVATE_000_25	¡Señor! ¡Recibimos un informe de un vigía en Lower La Noscea, señor! Las fuerzas imperiales dispararon contra una aeronave de Highwind Skyways.
 TEXT_MANSEA302_00681_STORMPRIVATE_000_26	La nave está en mal estado, señor, y parece que vira para hacer un aterrizaje de emergencia en Cedarwood.
 TEXT_MANSEA302_00681_STORMPERSONNEL_000_27	¿Cedarwood? Maldición. No tenemos tropas disponibles en esa zona. El grueso de nuestra infantería está atascado en la costa, en escaramuzas con los lomos de pez.
-TEXT_MANSEA302_00681_STORMPERSONNEL_000_28	<split(<string(gstr1)>, ,2)> ─ esto es muy irregular, pero me temo que su primer servicio al Maelstrom tendrá que ser extraoficial.
+TEXT_MANSEA302_00681_STORMPERSONNEL_000_28	<split(<string(gstr1)>, ,2)> - esto es muy irregular, pero me temo que su primer servicio al Maelstrom tendrá que ser extraoficial.
 TEXT_MANSEA302_00681_STORMPERSONNEL_000_29	Si nuestro hombre en Lower La Noscea tiene razón, la aeronave caerá en un territorio plagado de exploradores imperiales. Si hay sobrevivientes, <italic(1)>tenemos<italic(0)> que llegar a ellos antes que los garleans.
 TEXT_MANSEA302_00681_STORMPERSONNEL_000_30	Vaya cuanto antes a Cedarwood, encuentre la aeronave y, si alguno de sus ocupantes sigue con vida, asegúrese de que no sufra más daño. Ya veremos lo del juramento a su regreso.
 TEXT_MANSEA302_00681_Q3_000_1	El deber llama. ¿Quieres comenzar<br>"The Company You Keep (Maelstrom)"?
 TEXT_MANSEA302_00681_A3_000_1	Sí
 TEXT_MANSEA302_00681_A3_000_2	No
-TEXT_MANSEA302_00681_BIGGS_000_40	(-Tripulante de aeronave-)¿¡Un<if(gnum4,a aventurera,aventurero)>!? ¿Qué haces aquí? No, espera ─ primero busquemos dónde cubrirnos...
+TEXT_MANSEA302_00681_BIGGS_000_40	(-Tripulante de aeronave-)¿¡Un<if(gnum4,a aventurera,aventurero)>!? ¿Qué haces aquí? No, espera - primero busquemos dónde cubrirnos...
 TEXT_MANSEA302_00681_BIGGS_000_41	(-Tripulante de aeronave-)¿Te manda el Maelstrom Command? ¿Cómo sé que no eres <if(gnum4,una,un)> espía imperial? ¡Ni siquiera tienes uniforme!
-TEXT_MANSEA302_00681_STORMLIEUTENANT_000_42	Tranquilo, señor. Somos del Maelstrom. Usted es ingeniero de Garlond Ironworks, ¿verdad? Uno de nuestros vigías informó del ataque a su nave ─ vinimos a rescatarlo.
+TEXT_MANSEA302_00681_STORMLIEUTENANT_000_42	Tranquilo, señor. Somos del Maelstrom. Usted es ingeniero de Garlond Ironworks, ¿verdad? Uno de nuestros vigías informó del ataque a su nave - vinimos a rescatarlo.
 TEXT_MANSEA302_00681_STORMLIEUTENANT_000_43	Usted debe ser <split(<string(gstr1)>, ,2)>. Buen trabajo, llegó hasta nuestro amigo antes que los imperiales.
 TEXT_MANSEA302_00681_IMPERIALSOLDIER_000_44	Nunca vi una nave con este diseño... Debe ser obra de Garlond. ¿Es que la traición de ese hombre no tiene fin?
 TEXT_MANSEA302_00681_IMPERIALSOLDIER_000_45	Los secretos del magitek pertenecen a manos imperiales. ¡No se van a desperdiciar en salvajes eorzeanos!
@@ -47,8 +47,8 @@ TEXT_MANSEA302_00681_IMPERIALSOLDIER_000_46	¡Nos llevamos esta nave a la fortal
 TEXT_MANSEA302_00681_STORMLIEUTENANT_000_47	...Hm. Una patrulla de exploradores de Castrum Occidens, diría yo. Parece que quieren su nave, ingeniero.
 TEXT_MANSEA302_00681_BIGGS_000_48	(-Tripulante de aeronave-)¡Wedge! ¡Tienen que ayudarlo! ¡Ese Lalafell tonto se escondió <italic(1)>dentro<italic(0)> del <italic(1)>Tiny Bronco<italic(0)>!
 TEXT_MANSEA302_00681_STORMLIEUTENANT_000_49	¿El <italic(1)>Tiny Bronco<italic(0)>? ¿No es ese el nuevo diseño del que todos andan cuchicheando?
-TEXT_MANSEA302_00681_BIGGS_000_50	(-Tripulante de aeronave-)Es la primera aeronave que construimos desde la Calamidad ─ la primera desde que el Maestro Garlond... bueno, desde que desapareció.
-TEXT_MANSEA302_00681_BIGGS_000_51	Después de años de trabajo, por fin estaba lista para su primer vuelo de prueba. ¡Y <italic(1)>volaba<italic(0)>, de verdad que volaba ─ hasta que esos desgraciados la derribaron!
+TEXT_MANSEA302_00681_BIGGS_000_50	(-Tripulante de aeronave-)Es la primera aeronave que construimos desde la Calamidad - la primera desde que el Maestro Garlond... bueno, desde que desapareció.
+TEXT_MANSEA302_00681_BIGGS_000_51	Después de años de trabajo, por fin estaba lista para su primer vuelo de prueba. ¡Y <italic(1)>volaba<italic(0)>, de verdad que volaba - hasta que esos desgraciados la derribaron!
 TEXT_MANSEA302_00681_STORMLIEUTENANT_000_52	Muy bien, atentos: vamos a golpear a estos imperiales fuerte y rápido. Si quieren un recuerdo de Eorzea, que se lleven un cuchillo en las tripas, pero esa nave no se la llevan. Ah, y... no se olviden de salvar al Lalafell.
 TEXT_MANSEA302_00681_STORMLIEUTENANT_000_53	¿Qué dice, <split(<string(gstr1)>, ,2)>? ¿List<if(gnum4,a,o)> para darles una paliza a esos perros?
 TEXT_MANSEA302_00681_STORMLIEUTENANT_000_54	¡Como una ola gigante, muchachos! ¡A la carga!
@@ -60,13 +60,13 @@ TEXT_MANSEA302_00681_BIGGS_000_63	Por muy poco. Y bueno... ¿cómo está ella?
 TEXT_MANSEA302_00681_WEDGE_000_64	La hélice auxiliar no tiene arreglo, pero creo que podemos sacarle suficiente empuje a la hélice principal para despegar.
 TEXT_MANSEA302_00681_BIGGS_000_65	Con unas pocas modificaciones deberíamos poder llevar el <italic(1)>Tiny Bronco<italic(0)> volando a casa.
 TEXT_MANSEA302_00681_STORMLIEUTENANT_000_66	Montaremos guardia hasta que la nave esté lista para despegar. Tarde o temprano los imperiales vendrán a buscar a sus exploradores, pero dudo que lleguen en un buen rato.
-TEXT_MANSEA302_00681_STORMLIEUTENANT_000_67	<split(<string(gstr1)>, ,2)> ─ puede volver al Maelstrom Command y completar su ingreso.
+TEXT_MANSEA302_00681_STORMLIEUTENANT_000_67	<split(<string(gstr1)>, ,2)> - puede volver al Maelstrom Command y completar su ingreso.
 TEXT_MANSEA302_00681_STORMLIEUTENANT_000_68	Normalmente le pediría que se quedara, pero creo que todos estaríamos más tranquilos sabiendo que alguien de su capacidad ya juró en nuestras filas y está list<if(gnum4,a,o)> para la próxima misión. Tenga por seguro que le informaré al Command de su papel de hoy.
-TEXT_MANSEA302_00681_BIGGS_000_69	Eh... solo quería pedirte perdón... ya sabes, por decirte espía imperial y todo eso... Me equivoqué <italic(1)>feo<italic(0)>, ¿no? ¡Ja, ja! Pero en serio ─ si no fuera por ti y los muchachos del Maelstrom, ya estaríamos encadenados en una mazmorra. Te debo una, amig<if(gnum4,a,o)> ─ los dos te la debemos.
+TEXT_MANSEA302_00681_BIGGS_000_69	Eh... solo quería pedirte perdón... ya sabes, por decirte espía imperial y todo eso... Me equivoqué <italic(1)>feo<italic(0)>, ¿no? ¡Ja, ja! Pero en serio - si no fuera por ti y los muchachos del Maelstrom, ya estaríamos encadenados en una mazmorra. Te debo una, amig<if(gnum4,a,o)> - los dos te la debemos.
 TEXT_MANSEA302_00681_BIGGS_000_70	¡Wedge!
 TEXT_MANSEA302_00681_WEDGE_000_71	¡Gracias! ¡Te estamos muy agradecidos!
 TEXT_MANSEA302_00681_STORMPERSONNEL_000_80	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,2)>. Acabo de oír el informe.
-TEXT_MANSEA302_00681_STORMPERSONNEL_000_81	No tiene de qué preocuparse por los ingenieros ─ terminaron su viaje de regreso sin más molestias de los imperiales.
+TEXT_MANSEA302_00681_STORMPERSONNEL_000_81	No tiene de qué preocuparse por los ingenieros - terminaron su viaje de regreso sin más molestias de los imperiales.
 TEXT_MANSEA302_00681_STORMPERSONNEL_000_82	...Debo admitir que al principio tenía mis dudas, pero parece que las historias sobre usted son ciertas.
 TEXT_MANSEA302_00681_STORMPERSONNEL_000_83	Tengo ganas de ver de qué más es capaz... <italic(1)>después<italic(0)> de que ingrese como corresponde en el Maelstrom, ¡claro!
 TEXT_MANSEA302_00681_STORMPERSONNEL_000_84	Bien, hablando de su ingreso...

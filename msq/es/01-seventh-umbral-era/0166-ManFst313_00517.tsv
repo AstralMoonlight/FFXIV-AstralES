@@ -2,8 +2,8 @@ key	text
 TEXT_MANFST313_00517_SEQ_00	Y'shtola quiere hablar de tu próxima tarea.
 TEXT_MANFST313_00517_SEQ_01	Aunque la noticia de tu victoria sobre el Lord of Crags casi seguro ya llegó a Limsa Lominsa, Y'shtola quiere que vuelvas al Maelstrom Command e informes formalmente a la High Comandante Rhiki que Titan ya no es una amenaza.
 TEXT_MANFST313_00517_SEQ_02	La High Comandante Rhiki te agradece tu esfuerzo por Limsa Lominsa y te pide que les des sus saludos a tus compañeros Scions. Poco después, Minfilia te llama por linkpearl para felicitarte por tu victoria y pedirte que vayas a los Waking Sands.
-TEXT_MANFST313_00517_SEQ_03	Al volver a los Waking Sands, te recibe una escena que te hiela la sangre. Los cuerpos de tus aliados yacen por todas partes ─ víctimas de lo que debió ser una lucha desesperada. Ojalá hubieras estado allí para protegerlos. Busca sobrevivientes y ofréceles el socorro que puedas.
-TEXT_MANFST313_00517_SEQ_04	Mientras buscas señales de vida, encuentras a Noraxia. Para tu consternación, la sylph está herida de muerte. Gracias al poder del Echo, te enteras por ella de que fuerzas imperiales asaltaron los Waking Sands, mataron a incontables Scions y se fueron ─ con prisioneros. Minfilia está entre ellos. Con su último aliento, Noraxia te ruega que busques refugio en la Church of Saint Adama Landama, en Eastern Thanalan. La idea de dejarla a ella y a los demás te llena de angustia... pero si quieres rescatar a los prisioneros y vengar a los muertos, primero tienes que sobrevivir.
+TEXT_MANFST313_00517_SEQ_03	Al volver a los Waking Sands, te recibe una escena que te hiela la sangre. Los cuerpos de tus aliados yacen por todas partes - víctimas de lo que debió ser una lucha desesperada. Ojalá hubieras estado allí para protegerlos. Busca sobrevivientes y ofréceles el socorro que puedas.
+TEXT_MANFST313_00517_SEQ_04	Mientras buscas señales de vida, encuentras a Noraxia. Para tu consternación, la sylph está herida de muerte. Gracias al poder del Echo, te enteras por ella de que fuerzas imperiales asaltaron los Waking Sands, mataron a incontables Scions y se fueron - con prisioneros. Minfilia está entre ellos. Con su último aliento, Noraxia te ruega que busques refugio en la Church of Saint Adama Landama, en Eastern Thanalan. La idea de dejarla a ella y a los demás te llena de angustia... pero si quieres rescatar a los prisioneros y vengar a los muertos, primero tienes que sobrevivir.
 TEXT_MANFST313_00517_SEQ_05	Sospechando que el padre Iliud es un amigo, deslizas la contraseña de los Scions en un humilde pedido, como hiciste el día en que te uniste a la orden. Al reconocerte como allegad<if(gnum4,a,o)> de Minfilia, el sacerdote te ofrece refugio mientras piensas cómo seguir después de esta terrible tragedia.
 TEXT_MANFST313_00517_TODO_00	Habla con R'ashaht Rhiki.
 TEXT_MANFST313_00517_TODO_01	Vuelve a los Waking Sands.
@@ -12,7 +12,7 @@ TEXT_MANFST313_00517_TODO_03	Busca refugio en la Church of Saint Adama Landama.
 TEXT_MANFST313_00517_YSHTOLA_000_000	Aunque la noticia ya habrá llegado al Maelstrom Command, el protocolo exige que un representante de nuestra orden le informe del éxito de la misión a la high commander. El honor te corresponde a ti, <split(<string(gstr1)>, ,1)>.
 TEXT_MANFST313_00517_YSHTOLA_000_001	Una vez más, tengo que felicitarte por el buen trabajo. Volveremos a hablar pronto.
 TEXT_MANFST313_00517_RASHAHT_000_010	<if([gnum52>0],Me alegra verl<if(gnum4,a,o)>\, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],Gracias por venir\, <split(<string(gstr1)>, ,1)>,Gracias por venir\, <split(<string(gstr1)>, ,1)>)>)>. La noticia de su triunfo me llegó hace un rato, pero me alegra que me la confirme en persona.
-TEXT_MANFST313_00517_RASHAHT_000_011	Primero Ifrit y ahora Titan... De verdad, cuando pienso en sus logros, siento menos la pérdida de los Warriors of Light ─ y no hay mayor elogio que ese. Usted y su orden son héroes. <if([gnum52>0],Basta con decir que nos alegra tener a un Scion en nuestras filas,<if([gnum53>0],El pueblo de Limsa Lominsa estará siempre en deuda con usted,El pueblo de Limsa Lominsa estará siempre en deuda con usted)>)>.
+TEXT_MANFST313_00517_RASHAHT_000_011	Primero Ifrit y ahora Titan... De verdad, cuando pienso en sus logros, siento menos la pérdida de los Warriors of Light - y no hay mayor elogio que ese. Usted y su orden son héroes. <if([gnum52>0],Basta con decir que nos alegra tener a un Scion en nuestras filas,<if([gnum53>0],El pueblo de Limsa Lominsa estará siempre en deuda con usted,El pueblo de Limsa Lominsa estará siempre en deuda con usted)>)>.
 TEXT_MANFST313_00517_RASHAHT_000_012	Le transmitiré enseguida los detalles de su informe a la Almirante. Por favor, dele mis saludos a los Scions of the Seventh Dawn. <if([gnum52>0], Hasta la próxima\, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>.,<if([gnum53>0],,)>)>
 TEXT_MANFST313_00517_MINFILIA_000_015	<split(<string(gstr1)>, ,1)>, habla Minfilia. Y'shtola me informó de tu éxito.
 TEXT_MANFST313_00517_MINFILIA_000_016	Lograste una gran victoria para el pueblo de Eorzea, una que no se olvidará.
@@ -59,7 +59,7 @@ TEXT_MANFST313_00517_NORAXIA_000_112	En la iglesia de Eastern Thanalan... camina
 TEXT_MANFST313_00517_NORAXIA_000_113	Este <italic(1)>intentó<italic(0)>... intentó proteger a la caminante Minfilia d-de los imperiales...
 TEXT_MANFST313_00517_NORAXIA_000_114	Per... done... a... este.
 TEXT_MANFST313_00517_NORAXIA_000_115	Salva...
-TEXT_MANFST313_00517_ILIUD_000_040	¿Te preocupa algo, <if(gnum4,hija mía,hijo mío)>? Tienes la cara de quien sufrió mucho. Si hay algo que pueda hacer para ayudarte ─ lo que sea ─, solo tienes que pedirlo.
+TEXT_MANFST313_00517_ILIUD_000_040	¿Te preocupa algo, <if(gnum4,hija mía,hijo mío)>? Tienes la cara de quien sufrió mucho. Si hay algo que pueda hacer para ayudarte - lo que sea -, solo tienes que pedirlo.
 TEXT_MANFST313_00517_Q1_000_050	¿Qué vas a decir?
 TEXT_MANFST313_00517_A1_000_051	Perdóneme, padre, porque he pecado.
 TEXT_MANFST313_00517_A2_000_052	¡Maldiga a mis enemigos, padre! ¡Invoque la venganza divina sobre quienes masacraron a mis amigos!
@@ -74,10 +74,10 @@ TEXT_MANFST313_00517_ILIUD_000_142	Recemos para que no les pase nada más...
 TEXT_MANFST313_00517_ILIUD_000_143	Puedes quedarte aquí todo el tiempo que quieras. Es lo menos que puedo hacer por un<if(gnum4,a amiga,amigo)> de Minfilia.
 TEXT_MANFST313_00517_ILIUD_000_144	La conozco desde que era una niña... Recuerdo bien el día en que nos conocimos.
 TEXT_MANFST313_00517_ILIUD_000_145	Juré entonces hacer todo lo que estuviera en mi mano para apoyarla, y con gusto ofreceré ese mismo servicio a sus hermanos y hermanas Scions.
-TEXT_MANFST313_00517_ILIUD_000_146	Así que, por favor ─ necesites lo que necesites, no dudes en pedirlo.
+TEXT_MANFST313_00517_ILIUD_000_146	Así que, por favor - necesites lo que necesites, no dudes en pedirlo.
 TEXT_MANFST313_00517_ILIUD_000_147	Marques, ¿puedes venir un momento?
 TEXT_MANFST313_00517_MARQUEZ_000_148	¿Sí, padre?
 TEXT_MANFST313_00517_ILIUD_000_149	Si necesitas ayuda, habla con Marques. Es un poco tímido, pero te aseguro que tiene buenas intenciones.
-TEXT_MANFST313_00517_ILIUD_000_150	Debo explicarte ─ Marques sobrevivió a la batalla de Carteneau. Por desgracia, lo que vivió le dejó una huella terrible en la mente... Si no lo hubiéramos acogido, sin duda habría muerto en el desierto.
+TEXT_MANFST313_00517_ILIUD_000_150	Debo explicarte - Marques sobrevivió a la batalla de Carteneau. Por desgracia, lo que vivió le dejó una huella terrible en la mente... Si no lo hubiéramos acogido, sin duda habría muerto en el desierto.
 TEXT_MANFST313_00517_ILIUD_000_151	Marques, quiero que cuides de <split(<string(gstr1)>, ,1)>. ¿Entiendes?
 TEXT_MANFST313_00517_MARQUEZ_000_152	Sí, padre...

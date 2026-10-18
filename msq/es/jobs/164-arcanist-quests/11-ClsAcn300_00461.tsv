@@ -22,7 +22,7 @@ TEXT_CLSACN300_00461_TODO_08	Entrégale el leather satchel a Thubyrgeim.
 TEXT_CLSACN300_00461_THUBYRGEIM_000_001	L<if(gnum4,a,o)> esperaba, <split(<string(gstr1)>, ,1)>. Como siempre, las predicciones de K'lyhia resultan precisas casi al minuto. Y su mente está especialmente aguda con un enfrentamiento tan peligroso en el horizonte.
 TEXT_CLSACN300_00461_THUBYRGEIM_000_002	Los Yellowjackets nos contactaron con noticias de Doesmaga: parece que su buque mercante está anclado frente a la costa de Bloodshore.
 TEXT_CLSACN300_00461_THUBYRGEIM_000_003	Se rumorea que, cuando el pirata termine sus negocios allí, piensa emprender un largo viaje a Oriente. Pasará un buen tiempo antes de que vuelva a Limsa Lominsa.
-TEXT_CLSACN300_00461_THUBYRGEIM_000_004	Si dejamos pasar esta oportunidad, K'lyhia perderá la ocasión de saldar cuentas con Doesmaga ─ y corremos el riesgo de que la vidente vuelva a caer en la más negra melancolía.
+TEXT_CLSACN300_00461_THUBYRGEIM_000_004	Si dejamos pasar esta oportunidad, K'lyhia perderá la ocasión de saldar cuentas con Doesmaga - y corremos el riesgo de que la vidente vuelva a caer en la más negra melancolía.
 TEXT_CLSACN300_00461_THUBYRGEIM_000_005	El simple hecho de acercarse a Doesmaga será difícil. Pero K'lyhia ya formuló una solución y puso en marcha su gran estrategia.
 TEXT_CLSACN300_00461_THUBYRGEIM_000_006	Su primera tarea en esta empresa es viajar a Costa del Sol y entregarle estas indicaciones a un pescador llamado Rhylzirn. Más adelante recibirá más instrucciones.
 TEXT_CLSACN300_00461_RHYLZIRN_000_010	¿Qué quieres, <if(gnum4,muchacha,muchacho)>? Como ves, estoy con las manos ocupadas con la pesca...
@@ -30,8 +30,8 @@ TEXT_CLSACN300_00461_RHYLZIRN_000_011	Ah, gracias por eso. Me dijeron que vendr�
 TEXT_CLSACN300_00461_OPYLONA_000_020	Sí, ¿en qué puedo ayudarl<if(gnum4,a,o)>? El Maestro Gegeruju espera <if([gnum11<12],<if([gnum11<4],su cena,su desayuno)>,<if([gnum11<17],su almuerzo,su cena)>)> en cualquier momento...
 TEXT_CLSACN300_00461_OPYLONA_000_021	¿Un arenque fresco? ¡Vaya, al señor <italic(1)>sí<italic(0)> que le gusta un bocado de pescado asado <if([gnum11<12],<if([gnum11<4],por la noche,por la mañana)>,<if([gnum11<17],por la tarde,por la noche)>)>! ¡Hasta podría ganarme unas monedas extra en la paga de esta semana!
 TEXT_CLSACN300_00461_OPYLONA_000_022	Bueno, ¡<italic(1)>usted<italic(0)> se ganó uno de mis pasteles de anguila caseros! Aunque debo decirle que su colega arcanist insistió mucho en que le llevara el pastel al Maestro Gegeruju en lugar de comérselo usted.
-TEXT_CLSACN300_00461_GEGERUJU_000_030	¿Y qué l<if(gnum4,a,o)> trae a <italic(1)>usted<italic(0)> a mi ─ y uso el término en broma ─ humilde morada, <if(gnum4,estimada señora,estimado señor)>? Mmm, qué aroma tan celestial. ¿Acaso lleva consigo un pastel de anguila?
-TEXT_CLSACN300_00461_GEGERUJU_000_031	Qué loable que haya investigado los manjares que me deleitan antes de atreverse a interrumpir mis más sesudas y pesadas cavilaciones. Hablando de cosas pesadas ─ bueno, <italic(1)>yo<italic(0)> hablaba de ellas, al menos ─, tengo una bolsa de gil bien pesada para convencerl<if(gnum4,a,o)> de que renuncie a ese pastel...
+TEXT_CLSACN300_00461_GEGERUJU_000_030	¿Y qué l<if(gnum4,a,o)> trae a <italic(1)>usted<italic(0)> a mi - y uso el término en broma - humilde morada, <if(gnum4,estimada señora,estimado señor)>? Mmm, qué aroma tan celestial. ¿Acaso lleva consigo un pastel de anguila?
+TEXT_CLSACN300_00461_GEGERUJU_000_031	Qué loable que haya investigado los manjares que me deleitan antes de atreverse a interrumpir mis más sesudas y pesadas cavilaciones. Hablando de cosas pesadas - bueno, <italic(1)>yo<italic(0)> hablaba de ellas, al menos -, tengo una bolsa de gil bien pesada para convencerl<if(gnum4,a,o)> de que renuncie a ese pastel...
 TEXT_CLSACN300_00461_PEBALOH_000_041	Un momento, por favor. Una inspectora de la Mealvaan's Gate me pidió que le entregara este mensaje a quien le llevara un pastel de anguila al Maestro Gegeruju.
 TEXT_CLSACN300_00461_TALK_SCENE00003_000_42	(-Mensaje-)<italic(1)>Tome la bolsa que recibió del Maestro Gegeruju y entréguesela a la bailarina Ealdgyth cuando se prepare para volver a casa.<br><br>K'lyhia<italic(0)>
 TEXT_CLSACN300_00461_EALDGYTH_000_050	¿Sí? Si buscas una bailarina, primero quiero ver tu dinero. Tengo tres hijos que alimentar y no tengo tiempo para charlas ociosas.
@@ -49,7 +49,7 @@ TEXT_CLSACN300_00461_Q1_000_001	¿Aceptas subir al <italic(1)>Morningstar<italic
 TEXT_CLSACN300_00461_A1_000_001	Sí
 TEXT_CLSACN300_00461_A2_000_002	No
 TEXT_CLSACN300_00461_HIRSKSKRAT_000_073	¿Eh? ¿¡Estás rechazando mi propuesta de negocios!? Yo que tú lo pensaría otra vez.
-TEXT_CLSACN300_00461_HIRSKSKRAT_000_080	Así me gusta, <if(gnum4,muchacha,muchacho)>. Y en cuanto a ti, señorita bailarina, quédate cerca del viejo Hirskskrat ─ hace un frío de mil demonios en esos viajes largos por mar, je, je, je.
+TEXT_CLSACN300_00461_HIRSKSKRAT_000_080	Así me gusta, <if(gnum4,muchacha,muchacho)>. Y en cuanto a ti, señorita bailarina, quédate cerca del viejo Hirskskrat - hace un frío de mil demonios en esos viajes largos por mar, je, je, je.
 TEXT_CLSACN300_00461_KLYHIA_000_081	(Shhh. Hablaremos después.)
 TEXT_CLSACN300_00461_KLYHIA_000_090	(Silencio, <split(<string(gstr1)>, ,1)>. Prepárese. Y en un rato voy a necesitar ese morral que le dio Ealdgyth...)
 TEXT_CLSACN300_00461_HIRSKSKRAT_000_090	¿Listos, entonces? Zarpamos en cuanto carguen el bote.
@@ -88,7 +88,7 @@ TEXT_CLSACN300_00461_THUBYRGEIM_000_150	¿Me da el morral de cuero que recibió 
 TEXT_CLSACN300_00461_THUBYRGEIM_000_151	Es que la dueña original necesita que le devuelvan su vestuario, ¿entiende? Me aseguraré de que todo se devuelva sano y salvo.
 TEXT_CLSACN300_00461_THUBYRGEIM_000_152	Ahora, hablemos de K'lyhia. Me alegra saber que por fin se liberó para perseguir lo que desea su corazón. Y es gracias a usted que la vidente despertó ante las cadenas que ella misma se había impuesto.
 TEXT_CLSACN300_00461_THUBYRGEIM_000_153	La brillantez de las estrategias de K'lyhia la cegaba ante sus propios sentimientos, y me dolía verla sufrir tanto.
-TEXT_CLSACN300_00461_THUBYRGEIM_000_154	Su ejemplo puede incluso animar a K'lyhia a mejorar sus habilidades de combate, aunque eso seguro llegará con el tiempo ─ después de todo, piensa estudiar bajo la instrucción directa del maestro del gremio. Imagine a esos dos arcanists obsesivos, y la complejidad de las tácticas que van a desarrollar...
+TEXT_CLSACN300_00461_THUBYRGEIM_000_154	Su ejemplo puede incluso animar a K'lyhia a mejorar sus habilidades de combate, aunque eso seguro llegará con el tiempo - después de todo, piensa estudiar bajo la instrucción directa del maestro del gremio. Imagine a esos dos arcanists obsesivos, y la complejidad de las tácticas que van a desarrollar...
 TEXT_CLSACN300_00461_THUBYRGEIM_000_155	Bien podría ser que lo que usted hizo para reunirlos resulte el catalizador que encienda una nueva era de invención en el arte de la arcanima.
 TEXT_CLSACN300_00461_THUBYRGEIM_000_156	Usted también debería perfeccionar su disciplina si quiere seguir el ritmo de todo lo que sin duda vendrá. Con ese fin, le ofrezco una nueva técnica, una que espero le permita hacer retroceder a sus enemigos con más facilidad en el campo de batalla.
 TEXT_CLSACN300_00461_QIB_001_TODO_1	¡Barre a la tripulación del <italic(1)>Morningstar<italic(0)> y derrota a Doesmaga!

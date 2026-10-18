@@ -1,7 +1,7 @@
 key	text
 TEXT_GAIUSE611_00423_SEQ_00	Minfilia te mira con una mezcla de pesar y desesperación.
 TEXT_GAIUSE611_00423_SEQ_01	Para entender mejor el impacto de las invocaciones de primals, los Scions of the Seventh Dawn contratan eruditos que recorren Eorzea tomando lecturas de aether. Esas expediciones suelen llevarlos a zonas peligrosas, así que a cada erudito se le asigna una escolta. Por desgracia, el aventurero encargado de acompañar a uno de ellos resultó herido hace poco, y a Minfilia no le queda otra opción que pedirte que lo reemplaces. Hoary Boulder, que te espera afuera del solar, te dará los detalles.
-TEXT_GAIUSE611_00423_SEQ_02	A Hoary Boulder le encanta la oportunidad de trabajar contigo en persona ─ aunque Coultenet observa que sus deberes los llevarán por caminos distintos. Tu protegido te espera en Camp Tranquil, en el South Shroud. Adéntrate en el bosque y cumple tu misión.
+TEXT_GAIUSE611_00423_SEQ_02	A Hoary Boulder le encanta la oportunidad de trabajar contigo en persona - aunque Coultenet observa que sus deberes los llevarán por caminos distintos. Tu protegido te espera en Camp Tranquil, en el South Shroud. Adéntrate en el bosque y cumple tu misión.
 TEXT_GAIUSE611_00423_SEQ_03	Tu llegada tardía no te gana la simpatía del erudito, que te ordena con sequedad que lo sigas a Issom<-->Har sin más demora.
 TEXT_GAIUSE611_00423_SEQ_04	Tras encontrar un lugar adecuado, el erudito empieza a calibrar sus instrumentos. Déjalo trabajar y vigila por si aparecen bestias salvajes.
 TEXT_GAIUSE611_00423_SEQ_05	Un breve momento de acción te distrae de un deber por lo demás monótono. Habla con el erudito para ver si terminó de tomar mediciones.
@@ -12,7 +12,7 @@ TEXT_GAIUSE611_00423_SEQ_09	De pronto inquieto por el ambiente de Snakemolt, el 
 TEXT_GAIUSE611_00423_SEQ_10	Con palabras secas y ánimo tenso, el erudito te hace un gesto para que vuelvas a montar guardia.
 TEXT_GAIUSE611_00423_SEQ_11	El ataque no sorprende mucho, y tu victoria tampoco. Avísale al erudito que todo está bien.
 TEXT_GAIUSE611_00423_SEQ_12	Al parecer no muy convencido de que todo esté bien, el erudito huye del persistente hedor a matanza hacia la relativa seguridad de Camp Tranquil.
-TEXT_GAIUSE611_00423_SEQ_13	Tras un análisis rápido, el erudito concluye que hubo una disminución generalizada de la concentración de aether ambiental tras la Calamidad. Pero como sus resultados distan de ser concluyentes, considera necesario tomar más mediciones ─ acompañado, es de suponer, por ti...
+TEXT_GAIUSE611_00423_SEQ_13	Tras un análisis rápido, el erudito concluye que hubo una disminución generalizada de la concentración de aether ambiental tras la Calamidad. Pero como sus resultados distan de ser concluyentes, considera necesario tomar más mediciones - acompañado, es de suponer, por ti...
 TEXT_GAIUSE611_00423_TODO_00	Habla con Hoary Boulder.
 TEXT_GAIUSE611_00423_TODO_01	Reúnete con el erudito inquieto en Camp Tranquil.
 TEXT_GAIUSE611_00423_TODO_02	Sigue al erudito inquieto a Issom<-->Har.
@@ -30,22 +30,22 @@ TEXT_GAIUSE611_00423_MINFILIA_000_001	Generos<if(gnum4,a,o)> hasta el exceso. Te
 TEXT_GAIUSE611_00423_MINFILIA_000_002	Bueno, me parece justo explicarte la importancia de la tarea...<br>Desde hace un tiempo, nuestra orden contrata a unos cuantos eruditos para que recorran Eorzea tomando lecturas de aether, para entender mejor el impacto de las invocaciones de primals.
 TEXT_GAIUSE611_00423_MINFILIA_000_003	Naturalmente, nos corresponde velar por la seguridad de nuestros empleados, así que les pedimos a los aventureros a nuestro servicio que les sirvan de escolta.
 TEXT_GAIUSE611_00423_MINFILIA_000_004	Hoary Boulder y Coultenet iban a ser dos de esas escoltas, y también un tercer aventurero...
-TEXT_GAIUSE611_00423_MINFILIA_000_005	Por desgracia, por una herida, ese aventurero no está en condiciones de servir por ahora ─ y por eso tengo que abusar de tu buena voluntad.
+TEXT_GAIUSE611_00423_MINFILIA_000_005	Por desgracia, por una herida, ese aventurero no está en condiciones de servir por ahora - y por eso tengo que abusar de tu buena voluntad.
 TEXT_GAIUSE611_00423_MINFILIA_000_006	De verdad eres un pilar de fuerza, <split(<string(gstr1)>, ,1)>.
 TEXT_GAIUSE611_00423_MINFILIA_000_007	Hoary Boulder te dará los detalles de tu tarea. Debería estar esperándote afuera. Cuídate.
 TEXT_GAIUSE611_00423_COULTENET_000_008	¡No tenía idea de que nos ayudarías <italic(1)>en persona<italic(0)>, <split(<string(gstr1)>, ,1)>! Mis más sinceras disculpas por meterte en nuestros asuntos.
 TEXT_GAIUSE611_00423_HOARYBOULDER_000_010	¡Ah, <split(<string(gstr1)>, ,1)>! ¿Es verdad que aceptaste echarnos una mano?
-TEXT_GAIUSE611_00423_HOARYBOULDER_000_011	¡Hurra! ¿Qué te dije, Coultenet? Nuestra desgracia se volvió una bendición ─ ¡la oportunidad de servir junto a<if(gnum4, la misma, l mismísimo)> Warrior of Light!
+TEXT_GAIUSE611_00423_HOARYBOULDER_000_011	¡Hurra! ¿Qué te dije, Coultenet? Nuestra desgracia se volvió una bendición - ¡la oportunidad de servir junto a<if(gnum4, la misma, l mismísimo)> Warrior of Light!
 TEXT_GAIUSE611_00423_COULTENET_000_012	¿Hace falta recordarte que tenemos <italic(1)>tres<italic(0)> eruditos que escoltar, y que cada uno seguirá una ruta distinta?
-TEXT_GAIUSE611_00423_HOARYBOULDER_000_013	¡Cierto, cierto ─ pero nuestra misión es la misma! ¡Nos separarán malms, pero en <italic(1)>espíritu<italic(0)> estaremos juntos!
+TEXT_GAIUSE611_00423_HOARYBOULDER_000_013	¡Cierto, cierto - pero nuestra misión es la misma! ¡Nos separarán malms, pero en <italic(1)>espíritu<italic(0)> estaremos juntos!
 TEXT_GAIUSE611_00423_COULTENET_000_014	Si esos pensamientos te alegran, eres libre de pensarlos.
-TEXT_GAIUSE611_00423_COULTENET_000_015	Vamos a lo práctico ─ <split(<string(gstr1)>, ,1)>, quisiéramos que te ocupes del erudito encargado de medir el South Shroud.
-TEXT_GAIUSE611_00423_HOARYBOULDER_000_016	Te espera en Camp Tranquil en este momento. Solo tienes que seguirlo ─ él decidirá los lugares más adecuados para tomar sus lecturas.
-TEXT_GAIUSE611_00423_HOARYBOULDER_000_017	¡En espíritu, <split(<string(gstr1)>, ,1)> ─ en espíritu estaremos juntos a cada paso!
+TEXT_GAIUSE611_00423_COULTENET_000_015	Vamos a lo práctico - <split(<string(gstr1)>, ,1)>, quisiéramos que te ocupes del erudito encargado de medir el South Shroud.
+TEXT_GAIUSE611_00423_HOARYBOULDER_000_016	Te espera en Camp Tranquil en este momento. Solo tienes que seguirlo - él decidirá los lugares más adecuados para tomar sus lecturas.
+TEXT_GAIUSE611_00423_HOARYBOULDER_000_017	¡En espíritu, <split(<string(gstr1)>, ,1)> - en espíritu estaremos juntos a cada paso!
 TEXT_GAIUSE611_00423_SCIENTIST00423_000_030	Por fin <if(gnum4,la enviada,el enviado)> de los Scions se digna a honrarme con su presencia. Lástima que no tengamos tiempo para cortesías.
-TEXT_GAIUSE611_00423_SCIENTIST00423_000_031	Nuestro primer destino es Issom<-->Har. Vamos ─ ya vamos bastante tarde.
+TEXT_GAIUSE611_00423_SCIENTIST00423_000_031	Nuestro primer destino es Issom<-->Har. Vamos - ya vamos bastante tarde.
 TEXT_GAIUSE611_00423_SCIENTIST00423_000_040	Sí, este lugar debería servir. Cuando termine de calibrar mis instrumentos, solo necesitaré un momento para tomar las mediciones necesarias.
-TEXT_GAIUSE611_00423_SCIENTIST00423_000_041	¿Supongo que no hace falta explicarle que mi trabajo no admite interrupciones? Entonces, <italic(1)>por favor<italic(0)> ─ manténgase a una distancia adecuada y vigile por si aparecen bestias salvajes.
+TEXT_GAIUSE611_00423_SCIENTIST00423_000_041	¿Supongo que no hace falta explicarle que mi trabajo no admite interrupciones? Entonces, <italic(1)>por favor<italic(0)> - manténgase a una distancia adecuada y vigile por si aparecen bestias salvajes.
 TEXT_GAIUSE611_00423_SCIENTIST00423_000_042	Quiere que les entregue mi informe a sus amos a tiempo, ¿no? Entonces hágase a un lado y déjeme trabajar.
 TEXT_GAIUSE611_00423_SCIENTIST00423_000_050	Veo que los dos terminamos nuestras tareas. Un resultado satisfactorio. Aunque, si me permite una sugerencia: podría intentar despachar a sus enemigos más en silencio en el futuro. No me gusta poner peros, pero de verdad <italic(1)>necesito<italic(0)> concentrarme.
 TEXT_GAIUSE611_00423_SCIENTIST00423_000_051	Bien, Snakemolt nos espera. ¿Vamos?
@@ -55,8 +55,8 @@ TEXT_GAIUSE611_00423_SCIENTIST00423_000_070	Fascinante. Estas lecturas no son pa
 TEXT_GAIUSE611_00423_SCIENTIST00423_000_071	...Aunque quizá no debería sorprenderme. No soy supersticioso, pero aquí se respira un aire extraño, casi <italic(1)>blasfemo<italic(0)>. Salgamos de este lugar y volvamos a Rootslake. Nos queda un punto más que medir.
 TEXT_GAIUSE611_00423_SCIENTIST00423_000_080	Como antes, mi <if(gnum4,guardiana,guardián)>. Déjeme con mi tarea y vele por nuestra seguridad.
 TEXT_GAIUSE611_00423_SCIENTIST00423_000_081	¿Hm? No, todavía no terminé. Vuelva a su guardia.
-TEXT_GAIUSE611_00423_SCIENTIST00423_000_090	Estos datos deberían resultar invaluables para─ \<olfateo> \<olfateo> ¿Por todos los <italic(1)>dioses<italic(0)>, qué es ese hedor? ¿¡Masacró una manada de adamantoises mientras yo estaba de espaldas!?
+TEXT_GAIUSE611_00423_SCIENTIST00423_000_090	Estos datos deberían resultar invaluables para- \<olfateo> \<olfateo> ¿Por todos los <italic(1)>dioses<italic(0)>, qué es ese hedor? ¿¡Masacró una manada de adamantoises mientras yo estaba de espaldas!?
 TEXT_GAIUSE611_00423_SCIENTIST00423_000_091	¡Rápido, a Camp Tranquil! ¡No permitiré que mi ropa apeste a sangre y vísceras!
-TEXT_GAIUSE611_00423_SCIENTIST00423_000_100	Hm. Veo que decidió chapotear un rato más en la sangre... No importa ─ aproveché la intimidad inesperada para hacer un análisis rápido de mis datos.
+TEXT_GAIUSE611_00423_SCIENTIST00423_000_100	Hm. Veo que decidió chapotear un rato más en la sangre... No importa - aproveché la intimidad inesperada para hacer un análisis rápido de mis datos.
 TEXT_GAIUSE611_00423_SCIENTIST00423_000_101	Parece que hubo una disminución medible en la concentración de aether ambiental de Eorzea desde la Calamidad...
 TEXT_GAIUSE611_00423_SCIENTIST00423_000_102	Sin embargo, estos datos distan de ser concluyentes. Debemos tomar más mediciones para confirmar mi evaluación.

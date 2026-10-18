@@ -15,13 +15,13 @@ TEXT_XXAUSE304_03884_TREMBLEMAN01443_100_001	¿Cuántos más tienen que morir pe
 TEXT_XXAUSE304_03884_TREMBLEMAN01443_100_002	Encuéntralo. Convéncelo de que abandone su búsqueda demencial. Seguro nos llevará a la ruina.
 TEXT_XXAUSE304_03884_ELE_100_010	\<sollozo> ¿Viste... viste a mis papás?
 TEXT_XXAUSE304_03884_ELE_100_011	Me dijeron que me quedara aquí con los demás. \<sollozo> Dijeron que volverían pronto, pero ya pasaron días...
-TEXT_XXAUSE304_03884_ELE_100_012	Se fueron con el señor de Ul'dah. El señor dijo que iban a cambiarlo todo ─ que podríamos vivir dentro de las murallas con todos los demás. Eso me gustó cuando lo dijo.
+TEXT_XXAUSE304_03884_ELE_100_012	Se fueron con el señor de Ul'dah. El señor dijo que iban a cambiarlo todo - que podríamos vivir dentro de las murallas con todos los demás. Eso me gustó cuando lo dijo.
 TEXT_XXAUSE304_03884_ELE_100_013	No me gustó cuando habló de hacer pagar a los ricos. Todos se veían tan enojados, y me dio miedo...
 TEXT_XXAUSE304_03884_ELE_000_000	Oye, <if(gnum4,señorita,señor)>... ¿buscas a alguien?
 TEXT_XXAUSE304_03884_Q1_000_000	¿Qué dices?
 TEXT_XXAUSE304_03884_A1_000_001	Busco a un mercader.
 TEXT_XXAUSE304_03884_A1_000_002	Busco a alguien que anda sembrando problemas.
-TEXT_XXAUSE304_03884_ELE_000_001	¿Te refieres... al señor que se fue con mis papás? Pero no sé dónde─
+TEXT_XXAUSE304_03884_ELE_000_001	¿Te refieres... al señor que se fue con mis papás? Pero no sé dónde-
 TEXT_XXAUSE304_03884_ELE_100_001	Espera... ¡mira! ¡Allá! ¡Creo que es él!
 TEXT_XXAUSE304_03884_MERCHANT01445_000_002	Vaya, vaya. ¿Cuál de estos tontos crédulos será mi próxima víctima?
 TEXT_XXAUSE304_03884_MERCHANT01445_000_003	¡<italic(1)>Tú<italic(0)>! Yo... Yo...
@@ -33,5 +33,5 @@ TEXT_XXAUSE304_03884_GUARDLEADER01445_000_072	En cualquier caso, es evidente que
 TEXT_XXAUSE304_03884_GUARDLEADER01445_000_080	Si esa flecha se disparó desde donde usted indica, el arquero debe de tener buen ojo... y mejor brazo.
 TEXT_XXAUSE304_03884_SWIFT_000_090	¿Qué noticias trae, <if([gnum54>0],<if([gnum54<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)>? ¿Dónde está el mercader?
 TEXT_XXAUSE304_03884_SWIFT_000_091	¿¡<italic(1)>Asesinado<italic(0)>!? ¡Que se vaya todo al séptimo infierno!
-TEXT_XXAUSE304_03884_SWIFT_000_092	No lo asesinaron sin más, <if([gnum54>0],<if([gnum54<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)> ─ lo <italic(1)>silenciaron<italic(0)>. Demasiados conocían su cara, y estaba dispuesto a revelar sus secretos.
+TEXT_XXAUSE304_03884_SWIFT_000_092	No lo asesinaron sin más, <if([gnum54>0],<if([gnum54<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)> - lo <italic(1)>silenciaron<italic(0)>. Demasiados conocían su cara, y estaba dispuesto a revelar sus secretos.
 TEXT_XXAUSE304_03884_SWIFT_000_093	Pero no se desanime. Quizá estemos más cerca de lo que cree de identificar a quien orquestó en realidad estos disturbios.

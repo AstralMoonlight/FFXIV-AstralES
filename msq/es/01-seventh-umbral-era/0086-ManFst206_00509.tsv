@@ -2,11 +2,11 @@ key	text
 TEXT_MANFST206_00509_SEQ_00	Momodi está lista para contarte lo que sabe de los Scions of the Seventh Dawn.
 TEXT_MANFST206_00509_SEQ_01	Según Momodi, los hombres y mujeres que se hacen llamar los Scions of the Seventh Dawn se dedican a proteger el futuro de Eorzea. Con tantos problemas que enfrenta el reino, siempre buscan gente capaz que se sume a su causa, y parece que tus hazañas recientes les llamaron la atención. Los Scions tienen su sede en un local llamado los Waking Sands, en Vesper Bay, en Western Thanalan. Ve allí y preséntate ante el guardia de la entrada.
 TEXT_MANFST206_00509_SEQ_02	En la entrada de los Waking Sands no encuentras a un guardia, sino a una Lalafell cantante llamada Tataru, que te avisa que la Antecedent te espera adentro. Avísale al portero cuando estés list<if(gnum4,a,o)> para que te haga pasar.
-TEXT_MANFST206_00509_SEQ_03	Conoces a Minfilia, la líder de los Scions of the Seventh Dawn, que te dice que cree que tu poder ─ el Echo ─ es la clave para resolver el problema de los primals que enfrenta Eorzea. Al final de una larga explicación, te ruega que le prestes tu fuerza a la causa de los Scions y te confía la contraseña de la orden: "wild rose".
+TEXT_MANFST206_00509_SEQ_03	Conoces a Minfilia, la líder de los Scions of the Seventh Dawn, que te dice que cree que tu poder - el Echo - es la clave para resolver el problema de los primals que enfrenta Eorzea. Al final de una larga explicación, te ruega que le prestes tu fuerza a la causa de los Scions y te confía la contraseña de la orden: "wild rose".
 TEXT_MANFST206_00509_TODO_00	Ve a los Waking Sands, en Vesper Bay.
 TEXT_MANFST206_00509_TODO_01	Habla con el Scion of the Seventh Dawn.
 TEXT_MANFST206_00509_MOMODI_000_1	Así que quieres saber más, ¿eh? Vaya, qué <italic(1)>sorpresa<italic(0)>... Te juro que si pintara "MUERTE SEGURA" en una puerta y "RIQUEZA SIN LÍMITES" en otra, nueve de cada diez aventureros entrarían por la primera, y el otro no podría decidirse, por ser de Ul'dah. En fin, después no digas que no te avisé.
-TEXT_MANFST206_00509_MOMODI_000_2	Para empezar, si te preguntas si puedes confiar en esos "Scions of the Seventh Dawn", sí puedes. Es buena gente que se propuso resolver algunos de los problemas más urgentes de Eorzea. Claro que no es poca cosa, así que siempre buscan gente confiable que se les una ─ gente como <italic(1)>tú<italic(0)>, <split(<string(gstr1)>, ,1)>.
+TEXT_MANFST206_00509_MOMODI_000_2	Para empezar, si te preguntas si puedes confiar en esos "Scions of the Seventh Dawn", sí puedes. Es buena gente que se propuso resolver algunos de los problemas más urgentes de Eorzea. Claro que no es poca cosa, así que siempre buscan gente confiable que se les una - gente como <italic(1)>tú<italic(0)>, <split(<string(gstr1)>, ,1)>.
 TEXT_MANFST206_00509_MOMODI_000_3	Ahora, me dieron permiso para decirte dónde encontrar a los Scions, pero tienes que prometerme que te vas a guardar esta información. Como te imaginarás, es algo que a los enemigos de Eorzea les encantaría saber.
 TEXT_MANFST206_00509_MOMODI_000_4	Los Scions tienen su sede en Vesper Bay, en Western Thanalan. El lugar que buscas se llama los Waking Sands. Dile tu nombre a quien esté en la entrada y te dejarán pasar.
 TEXT_MANFST206_00509_MOMODI_000_5	Eres <if(gnum4,una mujer muy solicitada,un hombre muy solicitado)>, <split(<string(gstr1)>, ,1)>, y los días que vienen prometen ser movidos, pero espero que no te olvides <if([gnum70==1],de quienes te ayudaron a llegar hasta aquí,<if([gnum70==2],de quienes te ayudaron a llegar hasta aquí,<if([gnum70==3],de tu vieja amiga Momodi,de quienes te ayudaron a llegar hasta aquí)>)>)>. Pasa de vez en cuando a <if([gnum70==1],contarles,<if([gnum70==2],contarles,<if([gnum70==3],contarme,contarles)>)>)> cómo te va, ¿me oíste? Bueno, ya dije lo mío. En marcha.
@@ -16,7 +16,7 @@ TEXT_MANFST206_00509_TATARU_000_22	Trololololo～lololo～♪
 TEXT_MANFST206_00509_TATARU_000_23	¡Uaaah!
 TEXT_MANFST206_00509_TATARU_000_24	\<tos>
 TEXT_MANFST206_00509_TATARU_000_25	¡Te agradecería que no me sorprendieras así!
-TEXT_MANFST206_00509_TATARU_000_26	Bien, te informo que esto es propiedad privada. Si no tienes nada que hacer aquí, debo pedirte que─
+TEXT_MANFST206_00509_TATARU_000_26	Bien, te informo que esto es propiedad privada. Si no tienes nada que hacer aquí, debo pedirte que-
 TEXT_MANFST206_00509_TATARU_000_27	¿¡Vienes de parte de Yda y Papalymo!?
 TEXT_MANFST206_00509_TATARU_000_28	¿¡Vienes de parte de Thancred!?
 TEXT_MANFST206_00509_TATARU_000_29	¿¡Vienes de parte de Y'shtola!?
@@ -45,7 +45,7 @@ TEXT_MANFST206_00509_100090_MINFILIA	Seguro que te mueres de preguntas, pero ten
 TEXT_MANFST206_00509_100100_MINFILIA	Primero, déjame contarte quiénes somos y qué hacemos.
 TEXT_MANFST206_00509_100110_MINFILIA	Somos los Scions of the Seventh Dawn, una orden que trasciende las fronteras políticas. Nuestro único objetivo es preservar el futuro de Eorzea.
 TEXT_MANFST206_00509_100120_MINFILIA	Entre nuestras mayores preocupaciones están los seres casi divinos conocidos como primals.
-TEXT_MANFST206_00509_100130_MINFILIA	Su existencia es una plaga para Eorzea ─ no, para el mundo entero ─, y nos esforzamos por encontrar una solución duradera a la amenaza que representan.
+TEXT_MANFST206_00509_100130_MINFILIA	Su existencia es una plaga para Eorzea - no, para el mundo entero -, y nos esforzamos por encontrar una solución duradera a la amenaza que representan.
 TEXT_MANFST206_00509_100140_MINFILIA	En nuestra orden hay varias personas que, como tú, poseen un talento especial y poco común.
 TEXT_MANFST206_00509_100150_MINFILIA	Ese talento toma distintas formas, pero una nos interesa en particular.
 TEXT_MANFST206_00509_100160_MINFILIA	Dime, ¿alguna vez perdiste el conocimiento de repente, sin explicación?
@@ -59,7 +59,7 @@ TEXT_MANFST206_00509_100230_MINFILIA	Lo único lamentable es que no podemos usar
 TEXT_MANFST206_00509_100240_MINFILIA	Así es. Yo también tengo el Echo.
 TEXT_MANFST206_00509_100250_MINFILIA	Aclarado esto, volvamos al tema de los primals.
 TEXT_MANFST206_00509_100260_MINFILIA	Mientras existan, el reino no puede dar ni un solo paso hacia la verdadera paz.
-TEXT_MANFST206_00509_100270_MINFILIA	Hay que tomar medidas ─ medidas que trasciendan fronteras de bando, raza, idioma o credo. Y para eso, los Scions necesitan la ayuda de quienes tienen nuestro talento.
+TEXT_MANFST206_00509_100270_MINFILIA	Hay que tomar medidas - medidas que trasciendan fronteras de bando, raza, idioma o credo. Y para eso, los Scions necesitan la ayuda de quienes tienen nuestro talento.
 TEXT_MANFST206_00509_100280_MINFILIA	No te equivoques: el Echo será fundamental para hacer frente a la amenaza de los primals. Sin él no podemos esperar salvar el reino.
 TEXT_MANFST206_00509_100290_MINFILIA	No sé qué es lo que deseas para ti, ni qué te trajo a Eorzea en un principio.
 TEXT_MANFST206_00509_100300_MINFILIA	Pero creo firmemente que el poder que tenemos nos fue dado con un propósito.

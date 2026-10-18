@@ -35,9 +35,9 @@ TEXT_GAIUSC605_01005_WEDGE_000_010	Como creo que ya te dijo el jefe, el núcleo 
 TEXT_GAIUSC605_01005_WEDGE_000_011	Pensé en pedirte que te apropiaras de más reapers, pero aunque los torpes ingenieros de mantenimiento de Castrum Centri <italic(1)>se hubieran<italic(0)> acordado de cambiar los núcleos, nos arriesgaríamos a levantar sospechas entre los imperiales.
 TEXT_GAIUSC605_01005_WEDGE_000_012	Pero no desesperes, ¡porque creo que hay una solución: reemplazar el núcleo magitek por un corazón de mammet!
 TEXT_GAIUSC605_01005_WEDGE_000_013	Por si no lo sabes, un corazón de mammet sirve para darle consciencia a un autómata. Según mis cálculos, un aparato así debería ser más que capaz de regular el servomecanismo de la armadura. Solo tendremos que hacerle unas pequeñas modificaciones al alojamiento.
-TEXT_GAIUSC605_01005_WEDGE_000_014	Ya le encargué un corazón de mammet de primera al Goldsmiths' Guild. ¡Solo falta que alguien vaya a Ul'dah a buscarlo! Ah... y que lo <italic(1)>pague<italic(0)>. Ejem. ¿Te... mencioné cuánto cuestan? ¿No? B<-->Bueno, suelen costar algo así como, eh... \<murmullo> Espero que no te moleste pagar la cuenta ─ ¡es por una buena causa!
+TEXT_GAIUSC605_01005_WEDGE_000_014	Ya le encargué un corazón de mammet de primera al Goldsmiths' Guild. ¡Solo falta que alguien vaya a Ul'dah a buscarlo! Ah... y que lo <italic(1)>pague<italic(0)>. Ejem. ¿Te... mencioné cuánto cuestan? ¿No? B<-->Bueno, suelen costar algo así como, eh... \<murmullo> Espero que no te moleste pagar la cuenta - ¡es por una buena causa!
 TEXT_GAIUSC605_01005_SERENDIPITY_000_020	¡Hola! ¿Viene a recoger un corazón de mammet, dice?
-TEXT_GAIUSC605_01005_SERENDIPITY_000_021	¡Entonces debe de venir de parte de los Garlond Ironworks! Me tomé la libertad de elegir el mejor ejemplar que tenemos ─ ¡un corazón digno de un príncipe entre los mammets!
+TEXT_GAIUSC605_01005_SERENDIPITY_000_021	¡Entonces debe de venir de parte de los Garlond Ironworks! Me tomé la libertad de elegir el mejor ejemplar que tenemos - ¡un corazón digno de un príncipe entre los mammets!
 TEXT_GAIUSC605_01005_SERENDIPITY_000_022	...¿El pago? Oh, no hace falta. Al fin y al cabo, el corazón es para uso personal del Maestro Alphinaud. Hace un rato nos avisó que <if(gnum4,su sirvienta,su sirviente)> vendría a recogerlo.
 TEXT_GAIUSC605_01005_SERENDIPITY_000_023	Aunque es muy joven, el Maestro Alphinaud es benefactor nuestro desde los tiempos de mi predecesor. El Goldsmiths' Guild ni soñaría con cobrarle.
 TEXT_GAIUSC605_01005_SERENDIPITY_000_024	¡Pero aquí tiene el corazón de mammet! ¡Que le sirva bien! Ah, ¡y por favor salude de mi parte a su señor!
@@ -51,7 +51,7 @@ TEXT_GAIUSC605_01005_WEDGE_000_036	...O no.<br>Jaja... ja... Seguro que solo nec
 TEXT_GAIUSC605_01005_WEDGE_000_037	¡Sí! ¡Está... está VIVA!
 TEXT_GAIUSC605_01005_WEDGE_000_038	¡Saquémosla afuera para ponerla a prueba! <split(<string(gstr1)>, ,1)>, ¿te gustaría hacer los honores?
 TEXT_GAIUSC605_01005_WEDGE_100_035	¡Súbete al asiento del piloto! ¡Empezamos en cuanto estés list<if(gnum4,a,o)>!
-TEXT_GAIUSC605_01005_WEDGE_090_036	Primero, quiero que intentes trepar esa maraña de cristales de allá ─ tan alto como puedas, por favor.
+TEXT_GAIUSC605_01005_WEDGE_090_036	Primero, quiero que intentes trepar esa maraña de cristales de allá - tan alto como puedas, por favor.
 TEXT_GAIUSC605_01005_WEDGE_100_036	Ah, y si por algún motivo necesitas bajarte, vuelve aquí y empezamos de nuevo.
 TEXT_GAIUSC605_01005_WEDGE_000_040	(-Wedge-)Ningún movimiento anómalo en las patas. Bien. Ahora salta abajo y corre hacia el norte, ¡lo más rápido que puedas!
 TEXT_GAIUSC605_01005_WEDGE_000_041	Intentémoslo otra vez, ¿te parece? ¡Súbete de nuevo, <split(<string(gstr1)>, ,1)>!
@@ -62,7 +62,7 @@ TEXT_GAIUSC605_01005_WEDGE_000_050	(-Wedge-)Las articulaciones de las patas abso
 TEXT_GAIUSC605_01005_WEDGE_000_060	(-Wedge-)El torso se mantiene estable con movimientos bruscos... Excelente. Y con eso termina la prueba. ¡Gracias por tu colaboración!
 TEXT_GAIUSC605_01005_WEDGE_000_070	Este es el resumen de lo que encontré. La transmisión está en buen estado. Con algunos ajustes finos, podemos esperar una mejora notable del rendimiento. En cuanto al servomecanismo...
 TEXT_GAIUSC605_01005_WEDGE_000_071	Me temo que no responde ni de cerca como debería, y no sé explicar por qué. El corazón de mammet está impecable, y debería estar bien instalado. ¿Quizás su funcionamiento interno es demasiado distinto para operar en armonía con los demás mecanismos de la armadura?
-TEXT_GAIUSC605_01005_WEDGE_000_072	Mientras que los núcleos magitek solo conducen impulsos, los corazones de mammet permiten que los autómatas procesen la información de sus sensores como sentimi─ \<jadeo> ¡<italic(1)>Sentimientos<italic(0)>! ¿¡Quizás no se siente parte del equipo!? En ese caso, ¡deberíamos esforzarnos todos para darle la <colortype(500)><edgecolortype(501)>bienvenida<edgecolortype(0)><colortype(0)>!
+TEXT_GAIUSC605_01005_WEDGE_000_072	Mientras que los núcleos magitek solo conducen impulsos, los corazones de mammet permiten que los autómatas procesen la información de sus sensores como sentimi- \<jadeo> ¡<italic(1)>Sentimientos<italic(0)>! ¿¡Quizás no se siente parte del equipo!? En ese caso, ¡deberíamos esforzarnos todos para darle la <colortype(500)><edgecolortype(501)>bienvenida<edgecolortype(0)><colortype(0)>!
 TEXT_GAIUSC605_01005_WEDGE_000_080	¡Vamos, todos! ¡Démosle a Maggie una cálida <colortype(500)><edgecolortype(501)>bienvenida<edgecolortype(0)><colortype(0)>! ¡Que se sienta como en casa!
 TEXT_GAIUSC605_01005_BIGGS_000_090	...No lo dices en serio. ¿Quieres que le demos la <italic(1)>bienvenida<italic(0)> a un objeto inanimado?
 TEXT_GAIUSC605_01005_CID_000_100	Supongo que la sugerencia de Wedge te dejó pensando. Bueno, no te culpo. El muchacho <italic(1)>sí<italic(0)> tiene ideas bastante poco ortodoxas. Pero la ortodoxia no nos dio el lenguaje, las herramientas, la ropa... ni la maquinaria. A falta de una idea mejor, no creo que haga daño intentarlo.
@@ -85,7 +85,7 @@ TEXT_GAIUSC605_01005_IMPERIALRUNNER_000_712	¡Localizamos el reaper robado! ¡So
 TEXT_GAIUSC605_01005_IMPERIALRUNNER_000_713	¡Es inútil, señor! ¡Hay algún tipo de interferencia!
 TEXT_GAIUSC605_01005_IMPERIALCENTURION_000_714	¡Maldito seas, Garlond!
 TEXT_GAIUSC605_01005_IMPERIALCENTURION_000_715	¡No importa! ¡Si no podemos recuperarlo, destrúyanlo!
-TEXT_GAIUSC605_01005_CID_000_716	Por todos los infiernos... <split(<string(gstr1)>, ,1)> ─ ¡protege la armadura a toda costa!
+TEXT_GAIUSC605_01005_CID_000_716	Por todos los infiernos... <split(<string(gstr1)>, ,1)> - ¡protege la armadura a toda costa!
 TEXT_GAIUSC605_01005_BIGGS_000_141	QIB
 TEXT_GAIUSC605_01005_BIGGS_000_142	(Ncut después de la batalla)
 TEXT_GAIUSC605_01005_WEDGE_000_740	¡Jefe, mire! ¡Se movió!
@@ -93,7 +93,7 @@ TEXT_GAIUSC605_01005_CID_000_741	¡Ah, <italic(1)>ahora<italic(0)> se digna a ho
 TEXT_GAIUSC605_01005_CID_000_742	Nos llevó un buen rato, pero por fin estamos listos.
 TEXT_GAIUSC605_01005_CID_000_743	¡Es hora de infiltrarnos en Castrum Centri y rescatar a nuestros compañeros!
 TEXT_GAIUSC605_01005_WEDGE_000_744	¡Listo, el toque final!
-TEXT_GAIUSC605_01005_CID_000_910	El servomecanismo ya funciona del todo ─ y solo hizo falta una simple pelea a muerte. Recuérdame <italic(1)>no<italic(0)> instalar un corazón de mammet en el <italic(1)>Enterprise<italic(0)>, ¿quieres? Por mucho que la quiera, prefiero no tener que declarárselo antes de subir. Pero basta de eso. Ocupémonos de los últimos preparativos.
+TEXT_GAIUSC605_01005_CID_000_910	El servomecanismo ya funciona del todo - y solo hizo falta una simple pelea a muerte. Recuérdame <italic(1)>no<italic(0)> instalar un corazón de mammet en el <italic(1)>Enterprise<italic(0)>, ¿quieres? Por mucho que la quiera, prefiero no tener que declarárselo antes de subir. Pero basta de eso. Ocupémonos de los últimos preparativos.
 TEXT_GAIUSC605_01005_CID_000_911	Gracias a Biggs y Wedge, el reaper está como nuevo. ¡Estamos todo lo preparados que podemos estar!
 TEXT_GAIUSC605_01005_QIB_TODO001	¡Protege la armadura magitek y derrota al enemigo!
 TEXT_GAIUSC605_01005_TEIKOKU_TAICHO_BATTLETALK_01	¡No podemos permitir que el enemigo use nuestras armas contra nosotros!
