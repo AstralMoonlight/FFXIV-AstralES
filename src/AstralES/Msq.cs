@@ -255,7 +255,7 @@ public sealed unsafe class Msq : IDisposable
                 // The speaker label travels apart from the line: translate both, without the prefix.
                 if (SpeakerPrefix.Match(enText) is { Success: true } enSpeaker && SpeakerPrefix.Match(esMacro) is { Success: true } esSpeaker)
                 {
-                    result.TryAdd(Normalize(enSpeaker.Groups[1].Value), ReadOnlySeString.FromText(esSpeaker.Groups[1].Value));
+                    result.TryAdd(Normalize(enSpeaker.Groups[1].Value), evaluator.EvaluateMacroString(esSpeaker.Groups[1].Value, [], ClientLanguage.English));
                     enText = enText[enSpeaker.Length..];
                     esMacro = esMacro[esSpeaker.Length..];
                 }
@@ -271,7 +271,7 @@ public sealed unsafe class Msq : IDisposable
             foreach (var line in npc.ReadToEnd().Split('\n').Skip(1))
             {
                 if (line.TrimEnd('\r').Split('\t') is [var en, var es])
-                    result.TryAdd(Normalize(en), ReadOnlySeString.FromText(es));
+                    result.TryAdd(Normalize(en), evaluator.EvaluateMacroString(es, [], ClientLanguage.English));
             }
         }
 
