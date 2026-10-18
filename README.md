@@ -92,7 +92,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | | | Raid de 8: Omega (Deltascape, Sigmascape, Alphascape) | ![Pendiente][no] |
 | | | Raid de alianza (24): Return to Ivalice | ![Pendiente][no] |
 | **Post Stormblood** | 4.1–4.56 | Historia principal, de "Arenvald's Adventure" a "A Requiem for Heroes" | ![Traducido][ok] |
-| **Shadowbringers** | 5.0 | Historia principal | ![Pendiente][no] |
+| **Shadowbringers** | 5.0 | Historia principal, de "The Syrcus Trench" a "On Track" (72 de 106 misiones) | ![En curso][wip] |
 | | | Raid de 8: Eden (Gate, Verse, Promise) | ![Pendiente][no] |
 | | | Raid de alianza (24): YoRHa: Dark Apocalypse | ![Pendiente][no] |
 | **Post Shadowbringers** | 5.1–5.55 | Historia principal | ![Pendiente][no] |
@@ -221,3 +221,4 @@ Si una línea sale en inglés o mal traducida, activa `/astrales diag`, repite l
 
 [ok]: https://img.shields.io/badge/-Traducido-2ea043?style=flat-square
 [no]: https://img.shields.io/badge/-Pendiente-6e7681?style=flat-square
+[wip]: https://img.shields.io/badge/-En%20curso-d29922?style=flat-square
