@@ -1,11 +1,11 @@
 key	text
 TEXT_GAIUSD013_01196_SEQ_00	Urianger te pide que estés a la altura de otra amenaza primal.
-TEXT_GAIUSD013_01196_SEQ_01	Titan, el Lord of Crags, hizo notar su presencia en Vylbrand con una fuerza que sacude la tierra. Ve al Maelstrom Command, en Limsa Lominsa, y habla con la High Storm Commander R'ashaht Rhiki para ofrecerle tu ayuda.
+TEXT_GAIUSD013_01196_SEQ_01	Titan, el Lord of Crags, hizo notar su presencia en Vylbrand con una fuerza que sacude la tierra. Ve al Maelstrom Command, en Limsa Lominsa, y habla con la Alta Comandante Storm R'ashaht Rhiki para ofrecerle tu ayuda.
 TEXT_GAIUSD013_01196_SEQ_02	Invocado otra vez por sus seguidores kobolds, el primal Titan se instaló en su morada de siempre, el Navel. Infíltrate en la fortaleza de los kobolds en Outer La Noscea y vuelve a sintonizarte con el aetheryte de U'Ghamaro.
 TEXT_GAIUSD013_01196_SEQ_03	Volviste a sintonizarte con el aetheryte oculto en las U'Ghamaro Mines. ¡Reúne a tus compañeros y asalta el dominio del Lord of Crags!<br><br>※Se puede entrar al Navel (Extreme) mediante el Duty Finder.
 TEXT_GAIUSD013_01196_SEQ_04	Derrotaste al primal Titan y obtuviste un foco ritual.
-TEXT_GAIUSD013_01196_SEQ_05	Entrégale el objeto ritual a la Commander R'ashaht Rhiki en el Maelstrom Command, en Limsa Lominsa, y cuéntale tu victoria sobre el primal Titan.
-TEXT_GAIUSD013_01196_SEQ_06	La Commander R'ashaht Rhiki parece tan insegura del propósito del foco ritual como su par de Gridania. Vuelve a los Waking Sands, en Vesper Bay, y entrégale a Urianger el segundo trofeo de hueso.
+TEXT_GAIUSD013_01196_SEQ_05	Entrégale el objeto ritual a la Comandante R'ashaht Rhiki en el Maelstrom Command, en Limsa Lominsa, y cuéntale tu victoria sobre el primal Titan.
+TEXT_GAIUSD013_01196_SEQ_06	La Comandante R'ashaht Rhiki parece tan insegura del propósito del foco ritual como su par de Gridania. Vuelve a los Waking Sands, en Vesper Bay, y entrégale a Urianger el segundo trofeo de hueso.
 TEXT_GAIUSD013_01196_SEQ_07	Tras escuchar el relato de tus aventuras, Urianger empieza a comparar lo que tienen en común los inusualmente poderosos regresos de Garuda y de Titan. Parece que la creciente fuerza de los primals coincide justo con el progreso constante de tus propias habilidades...
 TEXT_GAIUSD013_01196_TODO_00	Habla con R'ashaht Rhiki en el Maelstrom Command.
 TEXT_GAIUSD013_01196_TODO_01	Vuelve a sintonizarte con el aetheryte de las U'Ghamaro Mines.
@@ -15,7 +15,7 @@ TEXT_GAIUSD013_01196_TODO_04	Lleva el Crag ritual focus a R'ashaht Rhiki en el M
 TEXT_GAIUSD013_01196_TODO_05	Entrégale el Crag ritual focus a Urianger en los Waking Sands, en Vesper Bay.
 TEXT_GAIUSD013_01196_URIANGER_000_000	El Maelstrom envió noticia de un temblor que sacudió las montañas y que sintieron todos los hombres y bestias de la mitad norte de Vylbrand.
 TEXT_GAIUSD013_01196_URIANGER_000_001	Así es, los kobolds despertaron al Lord of Crags, y su estremecedora llegada hace eco de la fuerza acrecentada que mostró su hermana primal.
-TEXT_GAIUSD013_01196_URIANGER_000_002	Buscad a la High Storm Commander R'ashaht Rhiki en el Maelstrom Command, en Limsa Lominsa. Vuestro camino os lleva una vez más a los pies de piedra de Titan.
+TEXT_GAIUSD013_01196_URIANGER_000_002	Buscad a la Alta Comandante Storm R'ashaht Rhiki en el Maelstrom Command, en Limsa Lominsa. Vuestro camino os lleva una vez más a los pies de piedra de Titan.
 TEXT_GAIUSD013_01196_RASHAHT_000_010	Ah, <if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)> de los Scions,<split(<string(gstr1)>, ,1)> de los Scions)>)>. Me alegra verl<if(gnum4,a,o)> responder a nuestro desesperado llamado.
 TEXT_GAIUSD013_01196_RASHAHT_000_011	Como seguramente ya oyó, parece que los kobolds invocaron otra vez al primal Titan en su morada de la montaña.
 TEXT_GAIUSD013_01196_RASHAHT_100_011	Los temblores recientes no pueden atribuirse a nadie más. Y, a juzgar por su intensidad, podemos estar seguros de que las advertencias de Urianger sobre el poder acrecentado de los primals no son nada vanas.

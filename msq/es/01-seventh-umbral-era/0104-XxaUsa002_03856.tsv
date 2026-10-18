@@ -1,5 +1,5 @@
 key	text
-TEXT_XXAUSA002_03856_SEQ_00	El Commander Vorsaile Heuloix esperaba la ayuda de los Scions.
+TEXT_XXAUSA002_03856_SEQ_00	El Comandante Vorsaile Heuloix esperaba la ayuda de los Scions.
 TEXT_XXAUSA002_03856_SEQ_01	Vorsaile Heuloix quiere que te comuniques directamente con los sylphs y averigües sus verdaderas intenciones respecto del primal Ramuh. Para evitar malentendidos culturales, primero debes viajar a la Hawthorne Hut, donde el oficial destacado allí te explicará la cultura de los sylphs. Habla con Mitainie, frente al Westshore Pier de Old Gridania, para ver cómo llegar.
 TEXT_XXAUSA002_03856_SEQ_02	Mitainie te indicó que tomes el ferry del Westshore Pier para llegar al East Shroud. Una vez allí, solo tienes que ir derecho al este para encontrar la Hawthorne Hut, donde está Amelain, de los Twin Adder.
 TEXT_XXAUSA002_03856_SEQ_03	Amelain te informó que Rolfe Hawthorne conoce bien la cultura de los sylphs y debería tener las respuestas que buscas.
@@ -8,9 +8,9 @@ TEXT_XXAUSA002_03856_TODO_01	Habla con Amelain en la Hawthorne Hut.
 TEXT_XXAUSA002_03856_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
 TEXT_XXAUSA002_03856_VORSAILE_000_000	¡Vaya! Si es <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>, que se presenta al servicio. Ese es el entusiasmo que me gusta ver en <if(gnum4,una joven,un joven)> Serpent con iniciativa.
 TEXT_XXAUSA002_03856_VORSAILE_000_001	Saludos, aventurer<if(gnum4,a,o)>. Le doy la bienvenida al Adders' Nest. ¿Busca entrelazar su destino con los Twin Adder?
-TEXT_XXAUSA002_03856_YDA_000_002	¡<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, Commander! Perdón por decepcionarte, pero hoy nos traen otros asuntos.
+TEXT_XXAUSA002_03856_YDA_000_002	¡<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, Comandante! Perdón por decepcionarte, pero hoy nos traen otros asuntos.
 TEXT_XXAUSA002_03856_VORSAILE_000_003	Yda y Papalymo, siempre es un placer verlos. Mis hombres me cuentan que últimamente andan en misiones para los Scions.
-TEXT_XXAUSA002_03856_PAPALYMO_000_004	Así es, Commander. Un pajarito nos dijo que los Twin Adder necesitaban nuestras dotes de aventureros.
+TEXT_XXAUSA002_03856_PAPALYMO_000_004	Así es, Comandante. Un pajarito nos dijo que los Twin Adder necesitaban nuestras dotes de aventureros.
 TEXT_XXAUSA002_03856_VORSAILE_000_005	Sí, su pajarito canta la verdad. Seguro que se enteraron de que estamos investigando a los sylphs ─ esa curiosa beast tribe que vive en lo más profundo del Twelveswood.
 TEXT_XXAUSA002_03856_VORSAILE_000_006	Los sylphs son, en general, gente pacífica ─ para alegría de la Elder Seedseer, que no quiere ver a su pueblo metido en otra guerra inútil.
 TEXT_XXAUSA002_03856_VORSAILE_000_007	Los Twin Adder piensan igual, y precisamente por eso la relación de los sylphs con el primal Ramuh encendió las alarmas en nuestras filas.

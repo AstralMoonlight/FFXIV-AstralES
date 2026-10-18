@@ -1,7 +1,7 @@
 key	text
 TEXT_XXCUSC901_04521_SEQ_00	Minfilia quiere informarte de la contraofensiva que planea la Eorzean Alliance contra el Imperio.
 TEXT_XXCUSC901_04521_SEQ_01	Así comienza la Operation Archon, el intento de último momento de la Eorzean Alliance de purgar el reino de la amenaza imperial. Basta decir que tu papel en la contraofensiva será crucial para su éxito. Ve al campamento de los Immortal Flames, al norte de Vesper Bay, y habla con el oficial de comunicaciones de la Alliance para recibir tus órdenes.
-TEXT_XXCUSC901_04521_SEQ_02	Los Immortal Flames están listos para lanzar su asalto contra el puesto imperial de Cape Westwind. Ve al punto de reunión frente a la fortaleza enemiga y preséntate ante el teniente Adalbert.
+TEXT_XXCUSC901_04521_SEQ_02	Los Immortal Flames están listos para lanzar su asalto contra el puesto imperial de Cape Westwind. Ve al punto de reunión frente a la fortaleza enemiga y preséntate ante el Teniente Adalbert.
 TEXT_XXCUSC901_04521_SEQ_03	La primera fase de la Operation Archon está en marcha. Entra al puesto imperial y ábrete paso a golpes hasta el sector más interno, donde te espera un enfrentamiento con Rhitahtyn sas Arvina.
 TEXT_XXCUSC901_04521_SEQ_04	Al final de una lucha feroz, le das el golpe de gracia a Rhitahtyn, y el primer Roegadyn en alcanzar el rango de praefectus pasa a la historia. La primera fase de la Operation Archon terminó con éxito.
 TEXT_XXCUSC901_04521_SEQ_05	Con la muerte de Rhitahtyn, las fuerzas de la guarnición de Castrum Occidens quedaron en desorden. Por ahora, retírate al campamento de los Immortal Flames, al norte de Vesper Bay, e informa al oficial de comunicaciones de la Alliance.
@@ -13,10 +13,10 @@ TEXT_XXCUSC901_04521_TODO_03	Examina el lugar indicado para enfrentar a Rhitahty
 TEXT_XXCUSC901_04521_TODO_04	Informa al oficial de comunicaciones de la Alliance.
 TEXT_XXCUSC901_04521_SYSTEM_101_000	Para aceptar esta misión, debes abandonar la misión principal en curso. Abre su entrada en el journal o en la duty list y elige "Abandon".
 TEXT_XXCUSC901_04521_SYSTEM_100_000	Para avanzar en esta misión, primero debes completar la misión "My Little Chocobo (<if([gnum52>0],Maelstrom,)><if([gnum53>0],Twin Adder,)><if([gnum54>0],Immortal Flames,)>)".
-TEXT_XXCUSC901_04521_SYSTEM_100_001	Puedes aceptar la misión "My Little Chocobo (<if([gnum52>0],Maelstrom,)><if([gnum53>0],Twin Adder,)><if([gnum54>0],Immortal Flames,)>)" hablando con <if([gnum52>0],R'ashaht Rhiki en el Maelstrom Command,)><if([gnum53>0],Vorsaile Heuloix en el Adders' Nest,)><if([gnum54>0],el Commander Swift en el Hall of Flames,)>.
+TEXT_XXCUSC901_04521_SYSTEM_100_001	Puedes aceptar la misión "My Little Chocobo (<if([gnum52>0],Maelstrom,)><if([gnum53>0],Twin Adder,)><if([gnum54>0],Immortal Flames,)>)" hablando con <if([gnum52>0],R'ashaht Rhiki en el Maelstrom Command,)><if([gnum53>0],Vorsaile Heuloix en el Adders' Nest,)><if([gnum54>0],el Comandante Swift en el Hall of Flames,)>.
 TEXT_XXCUSC901_04521_KANRIKAN_000_050	Bienvenid<if(gnum4,a,o)>, <string(gstr1)> de los Scions. Como oficial de comunicaciones, me corresponde darle sus órdenes e indicaciones para las próximas misiones.
 TEXT_XXCUSC901_04521_KANRIKAN_000_051	Su primera misión es infiltrarse en el puesto imperial de Cape Westwind y eliminar al Praefectus Rhitahtyn sas Arvina.
-TEXT_XXCUSC901_04521_KANRIKAN_000_052	Todas las unidades participantes ya están en posición y esperan su llegada. Por favor, vaya al punto de reunión y preséntese ante el teniente Adalbert.
+TEXT_XXCUSC901_04521_KANRIKAN_000_052	Todas las unidades participantes ya están en posición y esperan su llegada. Por favor, vaya al punto de reunión y preséntese ante el Teniente Adalbert.
 TEXT_XXCUSC901_04521_KANRIKAN_000_053	Este es solo el primer paso para purgar el reino de la amenaza garlean. ¡Rezaré por su éxito!
 TEXT_XXCUSC901_04521_ADALBERT_000_400	¡Vaya ahora, <split(<string(gstr1)>, ,1)>, y tráiganos la cabeza de Rhitahtyn! ¡Que Rhalgr le dé fuerzas!
 TEXT_XXCUSC901_04521_SYSTEM_000_450	Para avanzar debes ser Disciple of War o Disciple of Magic de nivel 49 o superior.

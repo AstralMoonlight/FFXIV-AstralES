@@ -1,13 +1,13 @@
 key	text
 TEXT_MANSEA009_00545_SEQ_00	Baderon quiere que le avises cuando estés list<if(gnum4,a,o)> para ir al banquete.
 TEXT_MANSEA009_00545_SEQ_01	El banquete está por empezar. Ponte los zapatos de vestir y habla con Zanthael en el Bulwark Hall.
-TEXT_MANSEA009_00545_SEQ_02	En el banquete, Merlwyb relata las hazañas de los héroes medio olvidados a los que los eorzeanos ahora llaman los Warriors of Light. El relato despierta en tu mente una visión de los últimos momentos de la batalla de Carteneau. Cuando vuelves en ti, te sorprende encontrarte en una habitación del Drowning Wench, sin idea de cómo llegaste ahí. Baderon, que al parecer te trajo él mismo desde el Bridge, te explica que te desplomaste y te cuenta que la Admiral quiere verte. Ve al Bulwark Hall y pide que te dejen entrar en la sala de mando.
+TEXT_MANSEA009_00545_SEQ_02	En el banquete, Merlwyb relata las hazañas de los héroes medio olvidados a los que los eorzeanos ahora llaman los Warriors of Light. El relato despierta en tu mente una visión de los últimos momentos de la batalla de Carteneau. Cuando vuelves en ti, te sorprende encontrarte en una habitación del Drowning Wench, sin idea de cómo llegaste ahí. Baderon, que al parecer te trajo él mismo desde el Bridge, te explica que te desplomaste y te cuenta que la Almirante quiere verte. Ve al Bulwark Hall y pide que te dejen entrar en la sala de mando.
 TEXT_MANSEA009_00545_SEQ_03	Merlwyb tiene una tarea para ti ─ una que no le confiaría a nadie más. Vuelve a hablar con ella cuando estés list<if(gnum4,a,o)> para oír de qué se trata.
 TEXT_MANSEA009_00545_TODO_00	Ponte los zapatos de vestir y habla con Zanthael.
 TEXT_MANSEA009_00545_TODO_01	Habla con Merlwyb en la sala de mando.
 TEXT_MANSEA009_00545_BADERON_000_1	Así que ya estás list<if(gnum4,a,o)>, ¿eh? Bien. El banquete va a empezar pronto. Si hubieras esperado más, habría considerado mi deber cívico darte un golpe en la cabeza y llevarte a rastras.
 TEXT_MANSEA009_00545_BADERON_000_2	Ahora, asegúrate de <italic(1)>llevar puestos<italic(0)> esos zapatos elegantes cuando llegues, ¿sí? Llevarlos en la mano no sirve de nada. Se supone que te hacen ver como <if(gnum4,una dama,un caballero)>, acuérdate, no como el maldito lacayo de <if(gnum4,una dama,un caballero)>.
-TEXT_MANSEA009_00545_BADERON_000_3	En cuanto a cómo llegar, el festín es en el Bridge, en la sala de reuniones de la Admiral.
+TEXT_MANSEA009_00545_BADERON_000_3	En cuanto a cómo llegar, el festín es en el Bridge, en la sala de reuniones de la Almirante.
 TEXT_MANSEA009_00545_BADERON_000_4	Habla con Zanthael en el Bulwark Hall y él te mostrará el camino.
 TEXT_MANSEA009_00545_BADERON_000_5	Tú mantén la cabeza en alto, <if(gnum4,muchacha,muchacho)>. Después de todo lo que hiciste por Limsa, tienes buenos motivos para estar orgullos<if(gnum4,a,o)> ─ y no dejes que ningún encopetado te diga lo contrario.
 TEXT_MANSEA009_00545_ZANTHAEL_000_10	Zapatos de vestir... Zapatos de vestir elegantes. Un aventurero con zapatos de vestir elegantes...
@@ -47,9 +47,9 @@ TEXT_MANSEA009_00545_BADERON_000_31	...¿Qué pasó? Ah, entonces no te acuerdas
 TEXT_MANSEA009_00545_BADERON_000_32	Te desplomaste en medio del banquete y armaste un buen revuelo. Tuve que traerte de vuelta al Wench yo mismo. Bueno, digo "traerte"... fue más bien a rastras y rodando. Demasiado pastel, digo yo.
 TEXT_MANSEA009_00545_BADERON_000_33	En fin, no te preocupes: no es raro que estuvieras agotad<if(gnum4,a,o)> después de todo lo que pasaste últimamente.
 TEXT_MANSEA009_00545_BADERON_000_34	Pero parece que tu siestita te devolvió algo de color a las mejillas, así que te dejo tranquil<if(gnum4,a,o)>.
-TEXT_MANSEA009_00545_BADERON_000_35	...¡Rayos! Casi me olvido: la Admiral quiere hablar contigo.
+TEXT_MANSEA009_00545_BADERON_000_35	...¡Rayos! Casi me olvido: la Almirante quiere hablar contigo.
 TEXT_MANSEA009_00545_BADERON_000_36	Cuando te sientas con fuerzas, habla con Zanthael y él te dejará entrar en la sala de mando. Ah, y no te duermas, ¿eh? Me dicen que la vieja Merlwyb estaba en medio de contarte una historia cuando empezaste a roncar la última vez, ¡y dudo que le haga gracia que repitas el truco!
-TEXT_MANSEA009_00545_ZANTHAEL_000_40	Saludos, <split(<string(gstr1)>, ,1)>. La Admiral Bloefhiswyn l<if(gnum4,a,o)> espera en la sala de mando. ¿Quiere que l<if(gnum4,a,o)> anuncie?
+TEXT_MANSEA009_00545_ZANTHAEL_000_40	Saludos, <split(<string(gstr1)>, ,1)>. La Almirante Bloefhiswyn l<if(gnum4,a,o)> espera en la sala de mando. ¿Quiere que l<if(gnum4,a,o)> anuncie?
 TEXT_MANSEA009_00545_Q1_000_1	¿Entrar en la sala de mando?
 TEXT_MANSEA009_00545_A1_000_1	Sí
 TEXT_MANSEA009_00545_A1_000_2	No

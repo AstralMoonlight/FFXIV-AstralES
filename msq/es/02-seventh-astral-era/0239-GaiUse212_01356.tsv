@@ -1,16 +1,16 @@
 key	text
 TEXT_GAIUSE212_01356_SEQ_00	Minfilia quiere decirte unas últimas palabras sobre la misión antes de partir hacia Limsa Lominsa.
-TEXT_GAIUSE212_01356_SEQ_01	Minfilia te hace ver lo urgente que es tu misión de impedir el regreso de Leviathan. Ve a Limsa Lominsa sin demora y preséntate ante la Admiral Merlwyb en su sala de mando. Habla con Zanthael en el Bulwark Hall para que te dejen pasar.
-TEXT_GAIUSE212_01356_SEQ_02	En la sala de mando, la Admiral te informa que enviaron exploradores del Maelstrom a reconocer los movimientos de los sahagin en los Sapsa Spawning Grounds. Ve a Camp Skull Valley, en Western La Noscea, y pídele a la Commander Falkbryda la información más reciente.
+TEXT_GAIUSE212_01356_SEQ_01	Minfilia te hace ver lo urgente que es tu misión de impedir el regreso de Leviathan. Ve a Limsa Lominsa sin demora y preséntate ante la Almirante Merlwyb en su sala de mando. Habla con Zanthael en el Bulwark Hall para que te dejen pasar.
+TEXT_GAIUSE212_01356_SEQ_02	En la sala de mando, la Almirante te informa que enviaron exploradores del Maelstrom a reconocer los movimientos de los sahagin en los Sapsa Spawning Grounds. Ve a Camp Skull Valley, en Western La Noscea, y pídele a la Comandante Falkbryda la información más reciente.
 TEXT_GAIUSE212_01356_SEQ_03	Llegaste a Camp Skull Valley, el punto de partida de la operación. Por ahora, descansa y espera nuevas instrucciones.
 TEXT_GAIUSE212_01356_TODO_00	Habla con Merlwyb en la sala de mando de Limsa Lominsa.
 TEXT_GAIUSE212_01356_TODO_01	Habla con Falkbryda en Camp Skull Valley.
 TEXT_GAIUSE212_01356_MINFILIA_000_000	Está claro que, si ocurre lo peor y se invoca a Leviathan, no nos quedará otro recurso que enfrentarlo en batalla. Dada nuestra experiencia, quizá pienses que eso es inevitable...
 TEXT_GAIUSE212_01356_MINFILIA_000_001	Pero mientras haya siquiera una posibilidad de impedir el regreso del primal, debemos poner todo nuestro empeño en lograrlo.
-TEXT_GAIUSE212_01356_MINFILIA_000_002	Antes que nada, apurémonos a ir a Limsa Lominsa a reunirnos con la Admiral.
+TEXT_GAIUSE212_01356_MINFILIA_000_002	Antes que nada, apurémonos a ir a Limsa Lominsa a reunirnos con la Almirante.
 TEXT_GAIUSE212_01356_MINFILIA_000_003	No habrá estado de brazos cruzados todo este tiempo, y sin duda tendrá información valiosa que compartir.
 TEXT_GAIUSE212_01356_MINFILIA_000_005	Mientras haya siquiera una posibilidad de impedir el regreso del primal, debemos poner todo nuestro empeño en lograrlo.
-TEXT_GAIUSE212_01356_MINFILIA_000_006	Antes que nada, apurémonos a ir a Limsa Lominsa a reunirnos con la Admiral. Como seguro recuerdas, a su sala de mando se llega por el Admiral's Lift del Bulwark Hall.
+TEXT_GAIUSE212_01356_MINFILIA_000_006	Antes que nada, apurémonos a ir a Limsa Lominsa a reunirnos con la Almirante. Como seguro recuerdas, a su sala de mando se llega por el Admiral's Lift del Bulwark Hall.
 TEXT_GAIUSE212_01356_ZANTHAEL_000_010	L<if(gnum4,a,o)> esperábamos. Tome este ascensor hasta la sala de mando, por favor.
 TEXT_GAIUSE212_01356_Q1_000_1	¿Ir a la sala de mando?
 TEXT_GAIUSE212_01356_A1_000_1	Sí
@@ -21,11 +21,11 @@ TEXT_GAIUSE212_01356_MERLWYB_000_013	Por desgracia, no contábamos con que los S
 TEXT_GAIUSE212_01356_MERLWYB_000_0143	Ni hace falta decir que no pienso dejar que los lomos de pez se salgan con la suya. En este mismo momento, el Maelstrom se prepara para lanzar una operación a gran escala para frustrar la invocación, y agradeceríamos el apoyo de los Scions en esta empresa.
 TEXT_GAIUSE212_01356_MERLWYB_000_015	...Pero si, no lo quieran los dioses, nuestros esfuerzos fracasan, tendré que pedirles algo más que apoyo ─ igual que la última vez que Titan pisó estas tierras.
 TEXT_GAIUSE212_01356_MERLWYB_000_016	Lady Minfilia, tengo entendido que piensa acompañar a nuestros soldados al frente. ¿Debo suponer que tiene buenas razones para hacerlo?
-TEXT_GAIUSE212_01356_MINFILIA_000_017	Las tengo, Admiral. Pero prefiero no entrar en detalles. Solo diré que hay algo que quiero ver con mis propios ojos.
+TEXT_GAIUSE212_01356_MINFILIA_000_017	Las tengo, Almirante. Pero prefiero no entrar en detalles. Solo diré que hay algo que quiero ver con mis propios ojos.
 TEXT_GAIUSE212_01356_MERLWYB_000_018	¿Es así? ...Bueno, no soy tan terca como para negarle un deseo a alguien cuya ayuda necesito ─ pero hay que tomar precauciones. Le exigiré que se quede a mi lado en todo momento. Ahora que eso está <italic(1)>resuelto<italic(0)>, hablemos de la operación.
 TEXT_GAIUSE212_01356_MERLWYB_000_019	<if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)> ─ en este momento, <if([gnum52>0],nuestros exploradores,<if([gnum53>0],los exploradores del Maelstrom,los exploradores del Maelstrom)>)> están reconociendo los movimientos de los sahagin en los Sapsa Spawning Grounds.
-TEXT_GAIUSE212_01356_MERLWYB_000_020	Cuando terminen su misión, volverán al punto de partida de la operación, en Camp Skull Valley. Quiero que vaya allí de inmediato para que l<if(gnum4,a,o)> pongan al tanto de la información más reciente. La Commander Falkbryda está a cargo de la guarnición.
-TEXT_GAIUSE212_01356_MERLWYB_000_021	Por si no quedó claro: el tiempo apremia, <if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>. Apúrese a ir a Camp Skull Valley y pídale a la Commander Falkbryda la información más reciente.
+TEXT_GAIUSE212_01356_MERLWYB_000_020	Cuando terminen su misión, volverán al punto de partida de la operación, en Camp Skull Valley. Quiero que vaya allí de inmediato para que l<if(gnum4,a,o)> pongan al tanto de la información más reciente. La Comandante Falkbryda está a cargo de la guarnición.
+TEXT_GAIUSE212_01356_MERLWYB_000_021	Por si no quedó claro: el tiempo apremia, <if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>. Apúrese a ir a Camp Skull Valley y pídale a la Comandante Falkbryda la información más reciente.
 TEXT_GAIUSE212_01356_MINFILIA_000_022	Quizá no haya una oportunidad mejor de conocer la verdadera naturaleza del Echo. No puedo permitirme dejarla pasar.
 TEXT_GAIUSE212_01356_FALKBRYDA_000_030	L<if(gnum4,a,o)> estaba esperando, Scion of the Seventh Dawn. En nombre de los hombres y mujeres de aquí, le agradezco su cooperación.
 TEXT_GAIUSE212_01356_FALKBRYDA_000_031	La seguridad de nuestros ciudadanos es lo primero. Con su ayuda, impediremos el regreso de Leviathan.

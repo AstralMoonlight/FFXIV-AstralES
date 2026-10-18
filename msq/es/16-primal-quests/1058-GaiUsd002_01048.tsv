@@ -1,7 +1,7 @@
 key	text
 TEXT_GAIUSD002_01048_SEQ_00	Thancred quiere que derrotes a Ifrit y tiene información que te ayudará a llegar hasta él.
-TEXT_GAIUSD002_01048_SEQ_01	Thancred confirma las palabras de Urianger: Ifrit fue invocado otra vez. Ve al Hall of Flames y habla con el Commander Swift para saber cómo enfrentarte al Lord of the Inferno.
-TEXT_GAIUSD002_01048_SEQ_02	Según el Commander Swift, en Zahar'ak, en Southern Thanalan, se descubrió un aetheryte de los hombres bestia que lleva al dominio de Ifrit, el Bowl of Embers. Ábrete paso hasta lo más profundo de la fortaleza de los Amalj'aa y sintonízate con el aetheryte.
+TEXT_GAIUSD002_01048_SEQ_01	Thancred confirma las palabras de Urianger: Ifrit fue invocado otra vez. Ve al Hall of Flames y habla con el Comandante Swift para saber cómo enfrentarte al Lord of the Inferno.
+TEXT_GAIUSD002_01048_SEQ_02	Según el Comandante Swift, en Zahar'ak, en Southern Thanalan, se descubrió un aetheryte de los hombres bestia que lleva al dominio de Ifrit, el Bowl of Embers. Ábrete paso hasta lo más profundo de la fortaleza de los Amalj'aa y sintonízate con el aetheryte.
 TEXT_GAIUSD002_01048_SEQ_03	Te sintonizaste con el aetheryte de Zahar'ak y el camino al Bowl of Embers está abierto. Reúne a tus compañeros de aventuras más valientes y derrota al Lord of the Inferno.<br><br>※Se puede entrar al Bowl of Embers (Hard) mediante el Duty Finder.
 TEXT_GAIUSD002_01048_TODO_00	Habla con Swift en el Hall of Flames.
 TEXT_GAIUSD002_01048_TODO_01	Sintonízate con el aetheryte de Zahar'ak.
@@ -11,9 +11,9 @@ TEXT_GAIUSD002_01048_THANCRED_000_002	Nada me gustaría más que prestarte mi es
 TEXT_GAIUSD002_01048_THANCRED_000_003	No entiendo cómo funciona, pero al parecer lo que pasó hace poco me dejó especialmente vulnerable a quedar subyugado.
 TEXT_GAIUSD002_01048_THANCRED_000_004	Aunque odio perderme la diversión, por el bien de todos, esta vez me toca quedarme afuera. Me dedicaré a reunir y analizar datos.
 TEXT_GAIUSD002_01048_THANCRED_000_005	Bien, los Immortal Flames ya hicieron una investigación preliminar sobre Ifrit.
-TEXT_GAIUSD002_01048_THANCRED_000_006	Es muy posible que tengan información útil para ti. Pasa por el Hall of Flames y habla con el Commander Swift.
+TEXT_GAIUSD002_01048_THANCRED_000_006	Es muy posible que tengan información útil para ti. Pasa por el Hall of Flames y habla con el Comandante Swift.
 TEXT_GAIUSD002_01048_THANCRED_000_007	Una última cosa antes de que partas. Seguro recuerdas las palabras de Minfilia, pero este Ifrit no se parece en nada al primal que derrotaste la primera vez. Reúne a tus compañeros más confiables para la misión. Cuídate, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>.
-TEXT_GAIUSD002_01048_SWIFT_000_020	<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>)>)>, le agradecemos que haya venido. Al Flame General le alegrará saber que respondió al llamado.
+TEXT_GAIUSD002_01048_SWIFT_000_020	<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>)>)>, le agradecemos que haya venido. Al General Flame le alegrará saber que respondió al llamado.
 TEXT_GAIUSD002_01048_SWIFT_000_022	Como ya informamos a los Waking Sands, Ifrit ha vuelto.
 TEXT_GAIUSD002_01048_SWIFT_000_023	Por la paz de la región, le pedimos humildemente que lo derrote.
 TEXT_GAIUSD002_01048_SWIFT_000_024	El primal se encuentra en su dominio, el Bowl of Embers. Para llegar, debe usar el aetheryte de los hombres bestia que está en lo más profundo de Zahar'ak, la fortaleza de los Amalj'aa.

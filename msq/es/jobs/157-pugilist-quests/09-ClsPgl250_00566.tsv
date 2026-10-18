@@ -2,7 +2,7 @@ key	text
 TEXT_CLSPGL250_00566_SEQ_00	Hamon parece estar de mejor ánimo.
 TEXT_CLSPGL250_00566_SEQ_01	Con las ganas de recuperar su antigua fuerza, Hamon se sobreentrenó y se lesionó. Otra vez te pide que busques a Chuchuto para tu próxima lección.
 TEXT_CLSPGL250_00566_SEQ_02	Chuchuto tiene en mente un desafío que te va a resultar estimulante. Prepárate para la lección y reúnete con ella en Little Ala Mhigo, en Southern Thanalan.
-TEXT_CLSPGL250_00566_SEQ_03	Resulta que tu entrenamiento consiste en preparar el entrenamiento del maestro Hamon. Toma los muñecos de práctica que te confió Chuchuto y colócalos en los lugares indicados.
+TEXT_CLSPGL250_00566_SEQ_03	Resulta que tu entrenamiento consiste en preparar el entrenamiento del Maestro Hamon. Toma los muñecos de práctica que te confió Chuchuto y colócalos en los lugares indicados.
 TEXT_CLSPGL250_00566_SEQ_04	Colocaste todos los muñecos de práctica. Vuelve con Chuchuto.
 TEXT_CLSPGL250_00566_SEQ_05	Al volver a Little Ala Mhigo, Rurukuta y sus secuaces te atacan de repente. Con la ayuda de Chuchuto logras someterlo, y por fin descubres sus verdaderas intenciones. Rurukuta solo quiere que su maestro viva, aunque eso signifique tragarse el orgullo y huir de la pelea que se avecina. Convencido de que Hamon está en buenas manos, Rurukuta se marcha. Vuelve al Pugilists' Guild y cuéntale al maestro del gremio todo lo que pasó.
 TEXT_CLSPGL250_00566_SEQ_06	Aunque agradece los sentimientos de Rurukuta, Hamon está más decidido que nunca a enfrentarse a Weggfarr. Te pide que sigas entrenando, o te dejará atrás comiéndote su polvo.<br><br>※La siguiente misión de pugilist estará disponible con Hamon al llegar al nivel 30.
@@ -50,9 +50,9 @@ TEXT_CLSPGL250_00566_TODO_23	Texto provisional
 TEXT_CLSPGL250_00566_HAMON_000_1	¡Ja, ja, ja! Te lo juro, cada vez que te veo me recuerdas más a mí de joven. ¡A este paso, antes de que termine la luna vas a ser <if(gnum4,toda una belleza,todo un galán)>!
 TEXT_CLSPGL250_00566_HAMON_000_2	Bueno, creo que viniste a aprender. Por desgracia, no estoy en condiciones de enseñar.
 TEXT_CLSPGL250_00566_HAMON_000_4	Me da bastante vergüenza admitirlo...pero con las ganas de prepararme para la gran revancha, me sobreentrené y me fastidié la espalda. \<gemido> Te digo, la vejez es un infierno... Me temo que Chuchuto tendrá que atenderte en mi lugar.
-TEXT_CLSPGL250_00566_CHUCHUTO_000_10	Parece que la idea de enfrentarse a su viejo rival le prendió fuego bajo el trasero al maestro Hamon. Qué alivio ver que vuelve a tener un propósito. ¡Ahora el truco es contener su entusiasmo, no vaya a ser que se lastime!
+TEXT_CLSPGL250_00566_CHUCHUTO_000_10	Parece que la idea de enfrentarse a su viejo rival le prendió fuego bajo el trasero al Maestro Hamon. Qué alivio ver que vuelve a tener un propósito. ¡Ahora el truco es contener su entusiasmo, no vaya a ser que se lastime!
 TEXT_CLSPGL250_00566_CHUCHUTO_000_11	Pero hablemos de tu lección. Cuando estés list<if(gnum4,a,o)>, ven a verme a Little Ala Mhigo. ¡Tengo en mente un desafío que seguro te va a resultar...<italic(1)>estimulante<italic(0)>!
-TEXT_CLSPGL250_00566_CHUCHUTO_000_20	Te estaba esperando, <split(<string(gstr1)>, ,1)>. Hoy tu entrenamiento será...¡preparar el entrenamiento del maestro Hamon!
+TEXT_CLSPGL250_00566_CHUCHUTO_000_20	Te estaba esperando, <split(<string(gstr1)>, ,1)>. Hoy tu entrenamiento será...¡preparar el entrenamiento del Maestro Hamon!
 TEXT_CLSPGL250_00566_CHUCHUTO_000_22	Traje un juego de muñecos de práctica y quiero que los coloques en ciertos lugares.
 TEXT_CLSPGL250_00566_CHUCHUTO_000_24	Y para que no pienses que es una tarea aburrida, esos lugares están llenos de peligros. Sin duda pondrán a prueba tus habilidades.
 TEXT_CLSPGL250_00566_CHUCHUTO_000_25	Un consejo: si tienes que acercarte a bestias peligrosas, la ligereza de pies es tu mejor aliada.
@@ -61,22 +61,22 @@ TEXT_CLSPGL250_00566_CHUCHUTO_000_30	¿Cómo va todo? Avísame cuando hayas colo
 TEXT_CLSPGL250_00566_SCENE00012_INSTANCE_BATTLE_YESNO_TITLE	El deber llama. ¿Comenzar<br>"Star-crossed Rivals"?
 TEXT_CLSPGL250_00566_SCENE00012_INSTANCE_BATTLE_YESNO_YES	Sí
 TEXT_CLSPGL250_00566_SCENE00012_INSTANCE_BATTLE_YESNO_NO	No
-TEXT_CLSPGL250_00566_CHUCHUTO_000_40	¡Excelente trabajo, <split(<string(gstr1)>, ,1)>! ¡Solo falta que el maestro Hamon venga a entrenar!
+TEXT_CLSPGL250_00566_CHUCHUTO_000_40	¡Excelente trabajo, <split(<string(gstr1)>, ,1)>! ¡Solo falta que el Maestro Hamon venga a entrenar!
 TEXT_CLSPGL250_00566_CHUCHUTO_000_42	¿¡Qué haces <italic(1)>tú<italic(0)> aquí!?
-TEXT_CLSPGL250_00566_RURUKUTA_000_43	<if(gnum4,Esa aventurera,Ese aventurero)> es una mala influencia para el maestro Hamon. Voy a asegurarme de que no vuelva a molestarlo nunca.
+TEXT_CLSPGL250_00566_RURUKUTA_000_43	<if(gnum4,Esa aventurera,Ese aventurero)> es una mala influencia para el Maestro Hamon. Voy a asegurarme de que no vuelva a molestarlo nunca.
 TEXT_CLSPGL250_00566_CHUCHUTO_000_46	¿¡De qué hablas!? ¡<split(<string(gstr1)>, ,1)> es lo mejor que le pasó al maestro en años! Si quieres meterte con <if(gnum4,ella,él)>, ¡vas a tener que vértelas también <italic(1)>conmigo<italic(0)>!
-TEXT_CLSPGL250_00566_CHUCHUTO_000_50	¿Por qué, Rurukuta? ¿Por qué estás tan empeñado en hundir al maestro Hamon y ver el gremio en ruinas?
+TEXT_CLSPGL250_00566_CHUCHUTO_000_50	¿Por qué, Rurukuta? ¿Por qué estás tan empeñado en hundir al Maestro Hamon y ver el gremio en ruinas?
 TEXT_CLSPGL250_00566_RURUKUTA_000_52	¡Lo entendiste todo mal! ¡Hago esto por el bien del maestro!
 TEXT_CLSPGL250_00566_RURUKUTA_000_54	Es cierto que dejé el gremio por la impresión de ver al maestro en ese estado tan patético. Y es cierto que me metí con gente de mala calaña. ¿Pero a dónde más iba a ir? ¡<italic(1)>Yo<italic(0)>, un refugiado sin un gil en el bolsillo!
-TEXT_CLSPGL250_00566_RURUKUTA_000_56	Pero pese a todas mis ingratitudes, nunca olvidé cómo el maestro Hamon me acogió y me enseñó el camino del puño. Por eso quiero que abandone esa idea absurda de enfrentarse a Weggfarr.
+TEXT_CLSPGL250_00566_RURUKUTA_000_56	Pero pese a todas mis ingratitudes, nunca olvidé cómo el Maestro Hamon me acogió y me enseñó el camino del puño. Por eso quiero que abandone esa idea absurda de enfrentarse a Weggfarr.
 TEXT_CLSPGL250_00566_RURUKUTA_000_57	Tú no conoces a ese hombre como yo, Chuchuto. Si esta pelea llega a darse, temo que el maestro no salga con vida.
 TEXT_CLSPGL250_00566_RURUKUTA_000_58	No importa que el maestro se haya vuelto débil y frágil. Solo quiero que viva, aunque eso signifique que se trague el orgullo.
 TEXT_CLSPGL250_00566_CHUCHUTO_000_59	Ay, Rurukuta... ¿Por qué no lo dijiste antes?
 TEXT_CLSPGL250_00566_CHUCHUTO_000_60	Pero ahora que sé lo que piensas, puedo decirte con confianza que no tienes nada que temer.
 TEXT_CLSPGL250_00566_CHUCHUTO_000_61	<split(<string(gstr1)>, ,1)> no es la plaga que crees. Son sus ganas de triunfar lo que inspira al maestro a recuperar su antigua fuerza. ¡Y cuando por fin llegue el día de la revancha, no tengo dudas de que mandará a ese odioso Weggfarr al séptimo infierno y de vuelta!
-TEXT_CLSPGL250_00566_RURUKUTA_000_63	Ojalá tengas razón. Pero pase lo que pase, sepan que no puedo ayudarlos, no desde donde estoy. Chuchuto, <split(<string(gstr1)>, ,1)>...dejo al maestro Hamon en sus manos.
+TEXT_CLSPGL250_00566_RURUKUTA_000_63	Ojalá tengas razón. Pero pase lo que pase, sepan que no puedo ayudarlos, no desde donde estoy. Chuchuto, <split(<string(gstr1)>, ,1)>...dejo al Maestro Hamon en sus manos.
 TEXT_CLSPGL250_00566_CHUCHUTO_000_64	¡Por los dioses, qué <italic(1)>liberador<italic(0)>! Intercambiar golpes con Rurukuta y conocer sus verdaderas intenciones ─ ¡me quité un gran peso de encima!
-TEXT_CLSPGL250_00566_CHUCHUTO_000_65	Volvamos al gremio, <split(<string(gstr1)>, ,1)>. Tú ya tuviste tu entrenamiento, ¡y ahora le toca al maestro Hamon!
+TEXT_CLSPGL250_00566_CHUCHUTO_000_65	Volvamos al gremio, <split(<string(gstr1)>, ,1)>. Tú ya tuviste tu entrenamiento, ¡y ahora le toca al Maestro Hamon!
 TEXT_CLSPGL250_00566_HAMON_000_70	Ya volviste, <split(<string(gstr1)>, ,1)>. Me dicen que tuviste la amabilidad de colocarme unos muñecos.
 TEXT_CLSPGL250_00566_HAMON_000_71	Pero, por los dioses, <if(gnum4,mujer,hombre)>, ¿¡tenías que ponerlos en lugares tan peligrosos!?
 TEXT_CLSPGL250_00566_HAMON_000_72	¡Y para colmo, Chuchuto me escondió el grog y dice que no voy a ver ni una gota hasta que termine de entrenar! ¿¡Cómo diablos voy a aflojarme la flema ahora!? \<tos> \<tos>

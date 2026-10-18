@@ -1,6 +1,6 @@
 key	text
-TEXT_GAIUSC004_00941_SEQ_00	Lord Drillemont necesita tu ayuda para llevar ante la justicia al hereje que se hace pasar por el Inquisitor Guillaime.
-TEXT_GAIUSC004_00941_SEQ_01	Lord Drillemont te pidió que lo acompañes a Snowcloak, donde dicen que el hereje que se hace pasar por el Inquisitor Guillaime está llevando a cabo otro interrogatorio. Si el impostor se niega a rendirse, Lord Drillemont piensa usar la fuerza. Prepárate para lo peor y reúnete con los caballeros en Snowcloak.
+TEXT_GAIUSC004_00941_SEQ_00	Lord Drillemont necesita tu ayuda para llevar ante la justicia al hereje que se hace pasar por el Inquisidor Guillaime.
+TEXT_GAIUSC004_00941_SEQ_01	Lord Drillemont te pidió que lo acompañes a Snowcloak, donde dicen que el hereje que se hace pasar por el Inquisidor Guillaime está llevando a cabo otro interrogatorio. Si el impostor se niega a rendirse, Lord Drillemont piensa usar la fuerza. Prepárate para lo peor y reúnete con los caballeros en Snowcloak.
 TEXT_GAIUSC004_00941_SEQ_02	Ante las acusaciones de Lord Drillemont, el falso inquisidor declara que no puede traicionar a quien no le debe lealtad, y que todos los ishgardianos deben rendir cuentas por perseguir a los herejes. Dicho esto, llama a sus aliados dravanianos e intenta defenderse, hasta el punto de usar su magia para tomar la forma de un dragón. Pero el engaño solo sirve para enfurecer a Lord Drillemont, y con su ayuda disipas el hechizo del hereje y matas a sus cómplices reptiles. Desafiante hasta el final, el hereje sin nombre se regocija de la venganza que consumó, y con su último aliento predice que encontrarás tu fin en el Stone Vigil. Vuelve a Whitebrim Front e infórmale a Alphinaud de la muerte del impostor.
 TEXT_GAIUSC004_00941_SEQ_03	Alphinaud se niega a celebrar tu victoria sobre el falso inquisidor, y declara que habrá tiempo de sobra para festejar cuando hayan recuperado el <italic(1)>Enterprise<italic(0)>. Por suerte, el camino al Stone Vigil ahora parece despejado. Solo falta que tú y tus compañeros le hagan una última visita a Lord Drillemont.
 TEXT_GAIUSC004_00941_TODO_00	Habla con el caballero de la House Durendaire.
@@ -11,9 +11,9 @@ TEXT_GAIUSC004_00941_DRILLEMONT_000_002	¡Présteme su fuerza, <split(<string(gs
 TEXT_GAIUSC004_00941_NPCA_000_010	Me alegra tenerle con nosotros, <if(gnum4,señorita,señor)>. Cuando llegue Lord Drillemont, vamos a enfrentar al inquisidor. Si se niega a venir por las buenas, tendremos que usar la fuerza. ¿Está preparad<if(gnum4,a,o)> para eso?
 TEXT_GAIUSC004_00941_GUILLAIME_000_020	No tienes por qué temblar así, hija mía. Los justos gozarán de paz eterna en los salones de Halone. Solo los malvados─
 TEXT_GAIUSC004_00941_NPCB_000_021	¿¡Pero por qué!? ¿¡Por qué tengo que morir!? ¡Por todo lo sagrado, le juro que <italic(1)>jamás<italic(0)> cuestioné las enseñanzas de Halone!
-TEXT_GAIUSC004_00941_DRILLEMONT_000_022	¡Inquisitor! ¡Suelte a la doncella y venga con nosotros!
+TEXT_GAIUSC004_00941_DRILLEMONT_000_022	¡Inquisidor! ¡Suelte a la doncella y venga con nosotros!
 TEXT_GAIUSC004_00941_GUILLAIME_000_023	Mi señor Drillemont ─ ¿qué significa esta interrupción? Sabe que en este momento estoy llevando a cabo un interrogatorio, ¿no es así?
-TEXT_GAIUSC004_00941_DRILLEMONT_000_024	¡Silencio, villano! ¡Os declaro <italic(1)>hereje<italic(0)>, asesino del Inquisitor Guillaime y de incontables inocentes!
+TEXT_GAIUSC004_00941_DRILLEMONT_000_024	¡Silencio, villano! ¡Os declaro <italic(1)>hereje<italic(0)>, asesino del Inquisidor Guillaime y de incontables inocentes!
 TEXT_GAIUSC004_00941_DRILLEMONT_000_025	¡Es un traidor a Ishgard, a su propia sangre! ¡Sus pecados no tienen medida ─ ni redención!
 TEXT_GAIUSC004_00941_GUILLAIME_000_026	Ah... graves acusaciones, sin duda. Pero verá que su lógica tiene un fallo. ¿Cómo puedo traicionar a quien no le debo lealtad? No, Lord Drillemont ─ tengo la conciencia bien tranquila, se lo aseguro.
 TEXT_GAIUSC004_00941_GUILLAIME_000_027	Me pregunto... ¿puede decir usted lo mismo? ¡Usted, que tiene las manos negras con la sangre de aquellos cuyo único <italic(1)>pecado<italic(0)> fue cuestionar la cruzada demente de su nación!
@@ -31,7 +31,7 @@ TEXT_GAIUSC004_00941_DRILLEMONT_000_048	Pero este no es lugar para hablar de eso
 TEXT_GAIUSC004_00941_ALPHINAUD_000_050	¿Dónde estaba, <split(<string(gstr1)>, ,1)>? ...¿Hm? ¿Así que mataron al falso inquisidor? Sí, bueno, su historia siempre iba a terminar en sangre.
 TEXT_GAIUSC004_00941_ALPHINAUD_000_051	Aunque superó el último de una larga serie de obstáculos desafortunados, le pediría que no se regodee todavía en su victoria.
 TEXT_GAIUSC004_00941_ALPHINAUD_000_052	¡Podremos celebrar cuando hayamos recuperado el <italic(1)>Enterprise<italic(0)>!
-TEXT_GAIUSC004_00941_QIB_TODO001	¡Derrota al Inquisitor Guillaime!
+TEXT_GAIUSC004_00941_QIB_TODO001	¡Derrota al Inquisidor Guillaime!
 TEXT_GAIUSC004_00941_DRILLEMONT_BATTLETALK_01	¡Sin piedad con el hereje! ¡Tiene que pagar por la sangre inocente que derramó!
 TEXT_GAIUSC004_00941_GUILLAIME_BATTLETALK_02	¡Cerdos ignorantes! ¡Pronto sabrán lo inútil que es su fe!
 TEXT_GAIUSC004_00941_DRILLEMONT_BATTLETALK_03	¿Lo ves, hereje? ¡Tú y tus aliados no son rivales para el poderío de Ishgard!

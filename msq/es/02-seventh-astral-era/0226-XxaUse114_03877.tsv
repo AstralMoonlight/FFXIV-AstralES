@@ -2,8 +2,8 @@ key	text
 TEXT_XXAUSE114_03877_SEQ_00	Slafborn quiere mostrarte el que pronto será el hogar de los Scions en Revenant's Toll.
 TEXT_XXAUSE114_03877_SEQ_01	Tu conversación con Slafborn se interrumpe con la voz alarmada de Tataru por la linkpearl. Parece que ocurrió algo gravísimo, y necesitan que vuelvas a Vesper Bay de inmediato. Regresa a los Waking Sands y pregúntale a la siempre atenta administradora en qué puedes ayudar.
 TEXT_XXAUSE114_03877_SEQ_02	Según Tataru, hace un rato llegó a los Waking Sands un mensajero del Adders' Nest, y las noticias que trajo parecen haber inquietado mucho a Minfilia. Quizá deberías preguntarle qué pasa.
-TEXT_XXAUSE114_03877_SEQ_03	Todo indica que se invocó un primal ─ o algo parecido a uno ─ en Gridania, y los Scions tienen el deber de investigarlo. El High Serpent Commander Heuloix, de la Order of the Twin Adder, pidió que vayas tú, y Minfilia te pide que respondas a su llamado. Dirígete al Adders' Nest cuanto antes.
-TEXT_XXAUSE114_03877_SEQ_04	En el Adders' Nest te recibe el High Serpent Commander Heuloix. Como el tiempo apremia, deja de lado las cortesías y pasa directamente a explicar las circunstancias que lo obligaron a llamarte. Y así te preparas para las malas noticias de lo que podría esperarte...
+TEXT_XXAUSE114_03877_SEQ_03	Todo indica que se invocó un primal ─ o algo parecido a uno ─ en Gridania, y los Scions tienen el deber de investigarlo. El Alto Comandante Serpent Heuloix, de la Order of the Twin Adder, pidió que vayas tú, y Minfilia te pide que respondas a su llamado. Dirígete al Adders' Nest cuanto antes.
+TEXT_XXAUSE114_03877_SEQ_04	En el Adders' Nest te recibe el Alto Comandante Serpent Heuloix. Como el tiempo apremia, deja de lado las cortesías y pasa directamente a explicar las circunstancias que lo obligaron a llamarte. Y así te preparas para las malas noticias de lo que podría esperarte...
 TEXT_XXAUSE114_03877_TODO_00	Habla con Tataru.
 TEXT_XXAUSE114_03877_TODO_01	Habla con Minfilia.
 TEXT_XXAUSE114_03877_TODO_02	Habla con Vorsaile Heuloix en el Adders' Nest.
@@ -29,8 +29,8 @@ TEXT_XXAUSE114_03877_URIANGER_000_043	Si hay verdad en mis sospechas, es un enem
 TEXT_XXAUSE114_03877_MINFILIA_000_044	No nos atrevemos a sacar conclusiones sin pruebas, pero como dice Urianger, las lecturas se parecen mucho a las que se observaron hace más de cinco años.
 TEXT_XXAUSE114_03877_MINFILIA_000_045	\<suspiro> Y yo que esperaba que la Mogglesguard estuviera por encima de semejantes locuras...
 TEXT_XXAUSE114_03877_MINFILIA_000_046	Basta decir que esta perturbación merece una investigación a fondo.
-TEXT_XXAUSE114_03877_URIANGER_000_047	El Commander Heuloix ha solicitado vuestra presencia. Os aguarda en el Adders' Nest.
+TEXT_XXAUSE114_03877_URIANGER_000_047	El Comandante Heuloix ha solicitado vuestra presencia. Os aguarda en el Adders' Nest.
 TEXT_XXAUSE114_03877_MINFILIA_000_048	Por favor, ve rápido a Gridania, <split(<string(gstr1)>, ,1)>. Yda y Papalymo se reunirán contigo allí. Que camines a la luz del Cristal.
-TEXT_XXAUSE114_03877_MINFILIA_000_050	No podemos ignorar esta perturbación de aether, <split(<string(gstr1)>, ,1)>. Viaja a Gridania y habla con el Commander Heuloix de los Twin Adder. Yda y Papalymo se reunirán contigo pronto.
+TEXT_XXAUSE114_03877_MINFILIA_000_050	No podemos ignorar esta perturbación de aether, <split(<string(gstr1)>, ,1)>. Viaja a Gridania y habla con el Comandante Heuloix de los Twin Adder. Yda y Papalymo se reunirán contigo pronto.
 TEXT_XXAUSE114_03877_VORSAILE_000_060	Un placer verlo, como siempre, <if([gnum53>0],<if([gnum53<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)>.
 TEXT_XXAUSE114_03877_VORSAILE_000_061	<if([gnum53>0],<if([gnum53<127],Gracias por venir tan rápido.,Gracias por responder a mi llamado. Francamente\,)>,Gracias por responder a mi llamado. Francamente\,)> no se me ocurría nadie más capacitado para─ Ah, pero me estoy adelantando. Permítame explicarle...

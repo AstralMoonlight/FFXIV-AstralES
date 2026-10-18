@@ -3,12 +3,12 @@ TEXT_MANFST200_00507_SEQ_00	Kan<-->E<-->Senna quiere confiarte una tarea de gran
 TEXT_MANFST200_00507_SEQ_01	Kan<-->E<-->Senna te nombra <if(gnum4,su enviada personal,su enviado personal)> y te pide que lleves una misiva a los otros dos líderes de la Eorzean Alliance. Para facilitarte el viaje, te entrega un pase de aeronave que te permitirá volar entre las tres naciones aliadas. Antes de ir al embarcadero de aeronaves, no dejes de preguntarle a Miounne qué te espera más allá de los límites del Twelveswood.
 TEXT_MANFST200_00507_SEQ_02	Además de Gridania, la Eorzean Alliance reúne a las ciudades<-->estado de Limsa Lominsa y Ul'dah. El embarcadero de aeronaves está en el piso de abajo del Carline Canopy. Haz los últimos preparativos para el viaje y luego habla con Lionnellais en el vestíbulo de entrada.
 TEXT_MANFST200_00507_SEQ_03	Ya puedes emprender la primera etapa de tu viaje, que te llevará a Limsa Lominsa. Ve a la zona de embarque y espera la salida.
-TEXT_MANFST200_00507_SEQ_04	Llegaste sin problemas a Limsa Lominsa, y ahora debes pedir audiencia con la Admiral. Pídele ayuda a la guardia de honor del Maelstrom.
-TEXT_MANFST200_00507_SEQ_05	La Admiral te espera en su sala de mando en el Bridge. Toma el Crow's Lift hasta Bulwark Hall y muéstrale la misiva de Kan<-->E<-->Senna a Zanthael, frente al Admiral's Lift, para que te deje pasar.
-TEXT_MANFST200_00507_SEQ_06	La Admiral Bloefhiswyn recibe bien la propuesta de la misiva de Kan<-->E<-->Senna. Al parecer, el Garlean Empire sigue siendo una amenaza grave para Eorzea: la XIVth Imperial Legion, al mando del Legatus Gaius van Baelsar, está bien atrincherada en las regiones fronterizas. Terminados tus asuntos en Limsa Lominsa, ve al embarcadero de aeronaves y habla con L'nophlo.
+TEXT_MANFST200_00507_SEQ_04	Llegaste sin problemas a Limsa Lominsa, y ahora debes pedir audiencia con la Almirante. Pídele ayuda a la guardia de honor del Maelstrom.
+TEXT_MANFST200_00507_SEQ_05	La Almirante te espera en su sala de mando en el Bridge. Toma el Crow's Lift hasta Bulwark Hall y muéstrale la misiva de Kan<-->E<-->Senna a Zanthael, frente al Admiral's Lift, para que te deje pasar.
+TEXT_MANFST200_00507_SEQ_06	La Almirante Bloefhiswyn recibe bien la propuesta de la misiva de Kan<-->E<-->Senna. Al parecer, el Garlean Empire sigue siendo una amenaza grave para Eorzea: la XIVth Imperial Legion, al mando del Legatus Gaius van Baelsar, está bien atrincherada en las regiones fronterizas. Terminados tus asuntos en Limsa Lominsa, ve al embarcadero de aeronaves y habla con L'nophlo.
 TEXT_MANFST200_00507_SEQ_07	Ya puedes emprender la segunda etapa de tu viaje, que te llevará a Ul'dah. Ve a la zona de embarque y espera la salida.
-TEXT_MANFST200_00507_SEQ_08	Llegaste sin problemas a Ul'dah, y ahora debes pedir audiencia con el Flame General. Pídele ayuda a la guardia de honor de los Immortal Flames.
-TEXT_MANFST200_00507_SEQ_09	El Flame General te espera en el Royal Promenade. Muéstrale la misiva de Kan<-->E<-->Senna a Bartholomew, en el Hustings Strip, para que te deje pasar.
+TEXT_MANFST200_00507_SEQ_08	Llegaste sin problemas a Ul'dah, y ahora debes pedir audiencia con el General Flame. Pídele ayuda a la guardia de honor de los Immortal Flames.
+TEXT_MANFST200_00507_SEQ_09	El General Flame te espera en el Royal Promenade. Muéstrale la misiva de Kan<-->E<-->Senna a Bartholomew, en el Hustings Strip, para que te deje pasar.
 TEXT_MANFST200_00507_SEQ_10	Ya le entregaste el mensaje de Kan<-->E<-->Senna a los líderes de Limsa Lominsa y de Ul'dah, con lo que cumpliste tu deber como <if(gnum4,enviada,enviado)> de la Elder Seedseer y, de paso, conociste las distintas amenazas que acechan a Eorzea. Ante la inmensidad de las fuerzas en juego, te preguntas qué puede aportar alguien del gremio de aventureros, por su cuenta, a la salvación del reino. Quizás la respuesta se te revele en los días por venir.
 TEXT_MANFST200_00507_TODO_00	Habla con Miounne.
 TEXT_MANFST200_00507_TODO_01	Habla con Lionnellais en el embarcadero de aeronaves.
@@ -114,27 +114,27 @@ TEXT_MANFST200_00507_100280_ENGINEERA	Argh...
 TEXT_MANFST200_00507_100290_NERO	Limpia este desastre. Y no se te escape nada, o me voy a disgustar <italic(1)>muchísimo<italic(0)>.
 TEXT_MANFST200_00507_100300_ENGINEERB	¡E-En seguida, mi señor!
 TEXT_MANFST200_00507_100310_NERO	Garlond... Pronto conocerás el verdadero poder del magitek.
-TEXT_MANFST200_00507_CABINCREW_000_85	¡Ah, usted debe de ser <if(gnum4,la enviada,el enviado)> de Gridania! Le damos la bienvenida a Limsa Lominsa, <if(gnum4,mi señora,mi señor)>. La Admiral Bloefhiswyn espera su llegada.
+TEXT_MANFST200_00507_CABINCREW_000_85	¡Ah, usted debe de ser <if(gnum4,la enviada,el enviado)> de Gridania! Le damos la bienvenida a Limsa Lominsa, <if(gnum4,mi señora,mi señor)>. La Almirante Bloefhiswyn espera su llegada.
 TEXT_MANFST200_00507_Q7_000_1	¿Salir de la zona de embarque?
 TEXT_MANFST200_00507_A7_000_1	Sí
 TEXT_MANFST200_00507_A7_000_2	No
 TEXT_MANFST200_00507_CABINCREW_000_86	Avíseme, por favor, si necesita ayuda.
 TEXT_MANFST200_00507_STORMA_000_90	¿Usted es <if(gnum4,la enviada,el enviado)> de Gridania? Le damos la bienvenida a Limsa Lominsa.
-TEXT_MANFST200_00507_STORMA_000_91	La Admiral esperaba con ganas su llegada.
+TEXT_MANFST200_00507_STORMA_000_91	La Almirante esperaba con ganas su llegada.
 TEXT_MANFST200_00507_STORMA_000_92	Por favor, diríjase al Crow's Lift cuando le sea posible. Le llevará a Bulwark Hall.
-TEXT_MANFST200_00507_STORMA_000_93	Una vez allí, le ruego que hable con Zanthael. Con gusto le hará pasar a la sala de mando de la Admiral en el Bridge.
-TEXT_MANFST200_00507_STORMA_000_95	Le ruego que hable con Zanthael en Bulwark Hall. Con gusto le hará pasar a la sala de mando de la Admiral en el Bridge.
+TEXT_MANFST200_00507_STORMA_000_93	Una vez allí, le ruego que hable con Zanthael. Con gusto le hará pasar a la sala de mando de la Almirante en el Bridge.
+TEXT_MANFST200_00507_STORMA_000_95	Le ruego que hable con Zanthael en Bulwark Hall. Con gusto le hará pasar a la sala de mando de la Almirante en el Bridge.
 TEXT_MANFST200_00507_ZANTHAEL_000_100	Saludos, <if(gnum4,señora,señor)>, y <if(gnum4,bienvenida,bienvenido)> a nuestra hermosa ciudad. Si me permite examinar el sello de la misiva que trae...
 TEXT_MANFST200_00507_ZANTHAEL_000_101	Sí, todo parece en orden. Disculpe. No podemos darnos el lujo de bajar la guardia, comprenderá. Por favor, por aquí.
 TEXT_MANFST200_00507_200320_MERLWYB	(-???-)Adelante.
 TEXT_MANFST200_00507_200330_MERLWYB	No esperaba que Gridania enviara a alguien del gremio de aventureros. Habla muy bien de usted que la Elder Seedseer eligiera a alguien de afuera para representar los intereses de su nación.
 TEXT_MANFST200_00507_200340_MERLWYB	Por aquí.
 TEXT_MANFST200_00507_200350_MERLWYB	Le doy la bienvenida.
-TEXT_MANFST200_00507_200360_MERLWYB	Soy Merlwyb Bloefhiswyn, Admiral de Limsa Lominsa y comandante del Maelstrom.
+TEXT_MANFST200_00507_200360_MERLWYB	Soy Merlwyb Bloefhiswyn, Almirante de Limsa Lominsa y comandante del Maelstrom.
 TEXT_MANFST200_00507_200370_MERLWYB	Y bien, ¿qué noticias trae del Black Shroud?
 TEXT_MANFST200_00507_200380_MERLWYB	Antes de empezar, quisiera saber su nombre.
 TEXT_MANFST200_00507_200390_MERLWYB	Qué extraño. Habría jurado que le conocía, pero parece que me equivoqué.
-TEXT_MANFST200_00507_200400_MERLWYB	Puede que no recuerde las caras de los viejos amigos, pero las de mis enemigos sí que las recuerdo. ¡Ay de la Admiral que falle en <italic(1)>eso<italic(0)>!
+TEXT_MANFST200_00507_200400_MERLWYB	Puede que no recuerde las caras de los viejos amigos, pero las de mis enemigos sí que las recuerdo. ¡Ay de la Almirante que falle en <italic(1)>eso<italic(0)>!
 TEXT_MANFST200_00507_200410_MERLWYB	Pero bromeo. Por favor, continúe.
 TEXT_MANFST200_00507_MERLWYB_000_110	Mmm. Una ceremonia en honor a los caídos.
 TEXT_MANFST200_00507_MERLWYB_000_111	Por los siete infiernos... ¿Ya pasaron cinco años?
@@ -178,13 +178,13 @@ TEXT_MANFST200_00507_LNOPHLO_100_147	Muy bien, <if(gnum4,señora,señor)>. Con g
 TEXT_MANFST200_00507_Q4_000_1	¿Subir a la aeronave?
 TEXT_MANFST200_00507_A4_000_1	Sí
 TEXT_MANFST200_00507_A4_000_2	No
-TEXT_MANFST200_00507_CABINCREW_000_200	¡Ah, usted debe de ser <if(gnum4,la enviada,el enviado)> de Gridania! Le damos la bienvenida a Ul'dah, <if(gnum4,señora,señor)>. El Flame General espera su llegada.
+TEXT_MANFST200_00507_CABINCREW_000_200	¡Ah, usted debe de ser <if(gnum4,la enviada,el enviado)> de Gridania! Le damos la bienvenida a Ul'dah, <if(gnum4,señora,señor)>. El General Flame espera su llegada.
 TEXT_MANFST200_00507_Q10_000_1	¿Salir de la zona de embarque?
 TEXT_MANFST200_00507_A10_000_1	Sí
 TEXT_MANFST200_00507_A10_000_2	No
 TEXT_MANFST200_00507_CABINCREW_000_201	Avíseme, por favor, si necesita ayuda.
 TEXT_MANFST200_00507_FLAMEA_000_150	Le damos la bienvenida a Ul'dah, <if(gnum4,señora,señor)>. Le estábamos esperando.
-TEXT_MANFST200_00507_FLAMEA_000_151	El Flame General Raubahn le recibirá en la Fragrant Chamber. Por favor, tome el ascensor hasta el Hustings Strip y hable con Bartholomew en el Royal Promenade.
+TEXT_MANFST200_00507_FLAMEA_000_151	El General Flame Raubahn le recibirá en la Fragrant Chamber. Por favor, tome el ascensor hasta el Hustings Strip y hable con Bartholomew en el Royal Promenade.
 TEXT_MANFST200_00507_FLAMEA_000_153	El ascensor de allá le llevará al Hustings Strip. Desde ahí, siga hacia el sur hasta el Royal Promenade y hable con Bartholomew para que le dejen entrar a la Fragrant Chamber.
 TEXT_MANFST200_00507_BARTHOLOMEW_000_160	¿<if(gnum4,La enviada,El enviado)> de Gridania, supongo? ¿Sería tan amable de dejarme revisar la misiva que trae, <if(gnum4,señora,señor)>? Gracias.
 TEXT_MANFST200_00507_BARTHOLOMEW_000_161	Ah, sí, el sello de la Elder Seedseer. Adelante, por favor.
@@ -211,7 +211,7 @@ TEXT_MANFST200_00507_RAUBAHN_000_183	Si atacara ahora, me temo que caeríamos co
 TEXT_MANFST200_00507_RAUBAHN_000_184	Porque la Calamidad nos puso a todos de rodillas, y todavía no nos levantamos. Apenas tenemos fuerzas para hacerles frente a las beast tribes, y ni hablar de los primals que pretenden invocar.
 TEXT_MANFST200_00507_RAUBAHN_000_185	Somos un reino dividido, <if(gnum4,aventurera,aventurero)>. Una alianza solo de nombre.
 TEXT_MANFST200_00507_RAUBAHN_000_186	Pero al lobo no le importa la desgracia de su presa.
-TEXT_MANFST200_00507_RAUBAHN_000_187	Los Garleans se mueven, y la Admiral no quiere que pase desapercibido.
+TEXT_MANFST200_00507_RAUBAHN_000_187	Los Garleans se mueven, y la Almirante no quiere que pase desapercibido.
 TEXT_MANFST200_00507_RAUBAHN_000_188	Todas las demás preocupaciones palidecen al lado del Empire ─ incluso las beast tribes y sus malditos primals.
 TEXT_MANFST200_00507_RAUBAHN_000_189	Tenemos que volver a unirnos, eso está claro. Y si vamos a hacerlo, tenemos que recordar la causa que nos unió la última vez. Kan<-->E tendrá su ceremonia.
 TEXT_MANFST200_00507_RAUBAHN_000_190	Honraremos la memoria de los caídos. Le recordaremos a la gente por qué lucharon y murieron sus hermanos y hermanas.

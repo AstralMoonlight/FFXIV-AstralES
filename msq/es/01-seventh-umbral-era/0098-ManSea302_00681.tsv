@@ -2,12 +2,12 @@ key	text
 TEXT_MANSEA302_00681_SEQ_00	El oficial de reclutamiento del Maelstrom parece ansioso por darte la bienvenida a la Grand Company de Limsa Lominsa.
 TEXT_MANSEA302_00681_SEQ_01	Confirmaste tu intención de unirte a las filas del Maelstrom. Ve al Maelstrom Command en Limsa Lominsa y habla con el oficial de personal para ingresar formalmente en la Grand Company.
 TEXT_MANSEA302_00681_SEQ_02	Tu ingreso formal en el Maelstrom se ve interrumpido por un informe urgente: los imperiales atacaron una aeronave de Highwind Skyways. Ve a Cedarwood y averigua qué fue de la nave averiada y su tripulación.
-TEXT_MANSEA302_00681_SEQ_03	Derrotaste a los soldados imperiales que pretendían requisar la aeronave caída. Te enteras de que sus tripulantes, Biggs y Wedge, son ingenieros de Garlond Ironworks, y de que el propio maestro Garlond está desaparecido desde la Calamidad. Vuelve al Maelstrom Command e infórmale al oficial de personal.
+TEXT_MANSEA302_00681_SEQ_03	Derrotaste a los soldados imperiales que pretendían requisar la aeronave caída. Te enteras de que sus tripulantes, Biggs y Wedge, son ingenieros de Garlond Ironworks, y de que el propio Maestro Garlond está desaparecido desde la Calamidad. Vuelve al Maelstrom Command e infórmale al oficial de personal.
 TEXT_MANSEA302_00681_SEQ_04	De vuelta en el Maelstrom Command, el oficial de personal elogia tu trabajo y te asegura que los dos ingenieros que encontraste llegaron a casa sin más incidentes. Luego te dice que está ansioso por completar tu ingreso en las filas del Maelstrom. Vuelve a hablar con él cuando estés list<if(gnum4,a,o)> para los trámites.
 TEXT_MANSEA302_00681_TODO_00	Habla con el oficial de personal en el Maelstrom Command.
 TEXT_MANSEA302_00681_TODO_01	Ve a Cedarwood y averigua qué fue de la aeronave y su tripulación.
 TEXT_MANSEA302_00681_TODO_02	Habla con el oficial de personal en el Maelstrom Command.
-TEXT_MANSEA302_00681_STORMOFFICER_000_1	¿Qué tal el discurso de la Admiral? Ah, no hace falta que me lo explique ─ que esté aquí frente a mí es respuesta suficiente. Decidió unirse al Maelstrom, ¿no es así?
+TEXT_MANSEA302_00681_STORMOFFICER_000_1	¿Qué tal el discurso de la Almirante? Ah, no hace falta que me lo explique ─ que esté aquí frente a mí es respuesta suficiente. Decidió unirse al Maelstrom, ¿no es así?
 TEXT_MANSEA302_00681_Q1_000_1	¿Unirte al Maelstrom?
 TEXT_MANSEA302_00681_A1_000_1	Sí
 TEXT_MANSEA302_00681_A1_000_2	No
@@ -47,7 +47,7 @@ TEXT_MANSEA302_00681_IMPERIALSOLDIER_000_46	¡Nos llevamos esta nave a la fortal
 TEXT_MANSEA302_00681_STORMLIEUTENANT_000_47	...Hm. Una patrulla de exploradores de Castrum Occidens, diría yo. Parece que quieren su nave, ingeniero.
 TEXT_MANSEA302_00681_BIGGS_000_48	(-Tripulante de aeronave-)¡Wedge! ¡Tienen que ayudarlo! ¡Ese Lalafell tonto se escondió <italic(1)>dentro<italic(0)> del <italic(1)>Tiny Bronco<italic(0)>!
 TEXT_MANSEA302_00681_STORMLIEUTENANT_000_49	¿El <italic(1)>Tiny Bronco<italic(0)>? ¿No es ese el nuevo diseño del que todos andan cuchicheando?
-TEXT_MANSEA302_00681_BIGGS_000_50	(-Tripulante de aeronave-)Es la primera aeronave que construimos desde la Calamidad ─ la primera desde que el maestro Garlond... bueno, desde que desapareció.
+TEXT_MANSEA302_00681_BIGGS_000_50	(-Tripulante de aeronave-)Es la primera aeronave que construimos desde la Calamidad ─ la primera desde que el Maestro Garlond... bueno, desde que desapareció.
 TEXT_MANSEA302_00681_BIGGS_000_51	Después de años de trabajo, por fin estaba lista para su primer vuelo de prueba. ¡Y <italic(1)>volaba<italic(0)>, de verdad que volaba ─ hasta que esos desgraciados la derribaron!
 TEXT_MANSEA302_00681_STORMLIEUTENANT_000_52	Muy bien, atentos: vamos a golpear a estos imperiales fuerte y rápido. Si quieren un recuerdo de Eorzea, que se lleven un cuchillo en las tripas, pero esa nave no se la llevan. Ah, y... no se olviden de salvar al Lalafell.
 TEXT_MANSEA302_00681_STORMLIEUTENANT_000_53	¿Qué dice, <split(<string(gstr1)>, ,2)>? ¿List<if(gnum4,a,o)> para darles una paliza a esos perros?

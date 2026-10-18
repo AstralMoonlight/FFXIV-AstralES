@@ -1,7 +1,7 @@
 key	text
 TEXT_GAIUSE316_01457_SEQ_00	Alphinaud quiere pedirte ayuda para su nuevo proyecto.
 TEXT_GAIUSE316_01457_SEQ_01	Alphinaud te expone el plan de fundar una Grand Company para todo el reino. El Scion se lamenta de que, aunque los líderes de las tres naciones no se oponen a la idea en sí, las interminables deliberaciones sobre cómo llevarla a cabo tienen todo prácticamente detenido. Para demostrar la eficacia de una compañía así y animar a los líderes a ponerse de acuerdo, Alphinaud explica que propuso crear una organización precursora más pequeña ─ la vanguardia de una futura Eorzea unida. El joven Elezen te pide que lo acompañes en su viaje por las tres naciones para que empieces a buscar posibles miembros para esta compañía de prueba mientras él se ocupa de terminar las formalidades burocráticas. Ve primero a Limsa Lominsa y reúnete con Alphinaud en el Bulwark Hall.
-TEXT_GAIUSE316_01457_SEQ_02	Tras explicarte brevemente el proceso de reclutamiento, Alphinaud sube al Bridge a hablar con la Admiral. Ve a las cubiertas superiores y empieza a buscar posibles miembros para la compañía.
+TEXT_GAIUSE316_01457_SEQ_02	Tras explicarte brevemente el proceso de reclutamiento, Alphinaud sube al Bridge a hablar con la Almirante. Ve a las cubiertas superiores y empieza a buscar posibles miembros para la compañía.
 TEXT_GAIUSE316_01457_SEQ_03	Hablas con varios posibles candidatos para la organización de prueba, pero solo logras despertar el interés de Riol, miembro de la ya disuelta Company of Heroes. Ve al embarcadero de aeronaves e infórmale a Alphinaud.
 TEXT_GAIUSE316_01457_SEQ_04	Le contaste al joven Scion el fruto de tu trabajo. Le impresiona la talla de tu primer recluta, y te pide que lo acompañes en la segunda etapa del viaje. Viaja ahora a Gridania y busca a Alphinaud en Nophica's Altar.
 TEXT_GAIUSE316_01457_SEQ_05	Te encuentras con Alphinaud justo cuando está por empezar su audiencia con Kan<-->E<-->Senna. Sigue reclutando en Old Gridania mientras el decidido Elezen habla con la Elder Seedseer.
@@ -36,8 +36,8 @@ TEXT_GAIUSE316_01457_ALPHINAUD_000_011	Pero antes de poder avanzar con la creaci
 TEXT_GAIUSE316_01457_ALPHINAUD_000_012	Una tarea tediosa y que lleva mucho tiempo... Por eso quisiera pedirle que me acompañe en el viaje y se encargue de reclutar a nuestros primeros miembros mientras yo me ocupo de las formalidades burocráticas.
 TEXT_GAIUSE316_01457_ALPHINAUD_000_013	...Gracias. Es muy tranquilizador saber que <if(gnum4,la Portadora,el Portador)> de la Luz y su ojo perspicaz elegirán a nuestros futuros aliados.
 TEXT_GAIUSE316_01457_ALPHINAUD_000_014	Nuestro primer destino será Limsa Lominsa. Reunámonos en el Bulwark Hall.
-TEXT_GAIUSE316_01457_ALPHINAUD_000_020	Ah, ahí está. Estoy listo para subir al Bridge y hablar con la Admiral Bloefhiswyn.
-TEXT_GAIUSE316_01457_ALPHINAUD_000_021	Mientras la Admiral y yo terminamos de fijar los límites de los permisos y de firmar pergaminos, quisiera que empezara en serio el proceso de reclutamiento.
+TEXT_GAIUSE316_01457_ALPHINAUD_000_020	Ah, ahí está. Estoy listo para subir al Bridge y hablar con la Almirante Bloefhiswyn.
+TEXT_GAIUSE316_01457_ALPHINAUD_000_021	Mientras la Almirante y yo terminamos de fijar los límites de los permisos y de firmar pergaminos, quisiera que empezara en serio el proceso de reclutamiento.
 TEXT_GAIUSE316_01457_ALPHINAUD_000_022	Por supuesto, intenté difundir la noticia de nuestra organización por varios canales, pero creo que un trato personal llegará a muchos que de otro modo no se enterarían de la oportunidad.
 TEXT_GAIUSE316_01457_ALPHINAUD_000_023	En cuanto a los posibles miembros, no importa si ya están comprometidos con otra institución, solo que estén dispuestos a prestar su fuerza cuando la situación lo exija. Y no hace falta que vaya al campo ─ en las cubiertas superiores hay candidatos de sobra para lo que necesitamos.
 TEXT_GAIUSE316_01457_ALPHINAUD_000_024	Cuando esté satisfech<if(gnum4,a,o)> con su labor de reclutamiento, búsqueme en el mostrador de pasajes de aeronave para prepararnos para la siguiente etapa del viaje.
@@ -45,7 +45,7 @@ TEXT_GAIUSE316_01457_RIOL_000_030	¡Vaya, si es <split(<string(gstr1)>, ,1)>! ¡
 TEXT_GAIUSE316_01457_RIOL_000_031	Te acuerdas del viejo Riol, ¿no? ¿El que fue de la Company of Heroes? ¿Tres silbidos en Bronze Lake? Sí, no es muy seguido que arrastro el trasero hasta Limsa por un trago, ¡pero me alegro mucho de haberlo hecho! ¿Cómo te va?
 TEXT_GAIUSE316_01457_RIOL_000_032	¿Eh? ¿Buscas armar una nueva tripulación? ¿Trabajo de primera? ¡Ja, suena a una buena juerga!
 TEXT_GAIUSE316_01457_RIOL_000_033	Bueno, <if(gnum4,muchacha,muchacho)>, cuenta conmigo. Puede que los Heroes se hayan separado, ¡pero todavía no estoy listo para meterme en la tumba!
-TEXT_GAIUSE316_01457_REYNER_000_040	¿La nueva organización del señor Alphinaud? Sí, había oído que se estaba gestando su compañía de prueba.
+TEXT_GAIUSE316_01457_REYNER_000_040	¿La nueva organización del Maestro Alphinaud? Sí, había oído que se estaba gestando su compañía de prueba.
 TEXT_GAIUSE316_01457_REYNER_000_041	Lamento, sin embargo, tener que rechazar su invitación. Como comandante de los Yellowjackets, la protección de Limsa Lominsa debe recibir toda mi atención.
 TEXT_GAIUSE316_01457_REYNER_000_050	Le deseo suerte en su empresa, pero los Yellowjackets ─ y la defensa de la gente de Limsa Lominsa ─ deben seguir siendo mi única prioridad.
 TEXT_GAIUSE316_01457_CARVALLAIN_000_060	¿Una organización con libertad para actuar sin importar el territorio? Debo decir que su propuesta me intriga.
@@ -58,7 +58,7 @@ TEXT_GAIUSE316_01457_HNAANZA_000_101	No tengo tiempo para andar de aquí para al
 TEXT_GAIUSE316_01457_HNAANZA_000_110	Por noble que sea tu causa, tengo un deber con Naldiq & Vymelli's y con la fragua. Pero se me puede convencer de fabricarte cualquier pieza de metal que necesites. Vuelve con una lista de pertrechos y hablamos.
 TEXT_GAIUSE316_01457_ALPHINAUD_000_120	<split(<string(gstr1)>, ,1)>, confío en que el reclutamiento salió bien. Tengo curiosidad por saber cómo recibió mi propuesta la gente ruda y expeditiva de Limsa Lominsa.
 TEXT_GAIUSE316_01457_ALPHINAUD_000_121	Ah, ¿un miembro de la legendaria Company of Heroes mostró interés? Asombroso. Sabía que pedirle ayuda era lo correcto ─ pocos pueden presumir de conocer a un personaje tan esquivo.
-TEXT_GAIUSE316_01457_ALPHINAUD_000_122	A mí también me fue bien: la Admiral aceptó firmar todos los documentos que requerían su aprobación. Solo espero que mi visita a la Elder Seedseer salga igual de bien. Siga hacia Gridania a su ritmo ─ lo esperaré en Nophica's Altar.
+TEXT_GAIUSE316_01457_ALPHINAUD_000_122	A mí también me fue bien: la Almirante aceptó firmar todos los documentos que requerían su aprobación. Solo espero que mi visita a la Elder Seedseer salga igual de bien. Siga hacia Gridania a su ritmo ─ lo esperaré en Nophica's Altar.
 TEXT_GAIUSE316_01457_ALPHINAUD_000_130	Mi audiencia con la Elder Seedseer está por empezar. Le agradecería que se ocupara otra vez del reclutamiento aquí en Gridania.
 TEXT_GAIUSE316_01457_ALPHINAUD_000_131	Cuando le parezca que ya no quedan candidatos posibles, reunámonos en el mostrador de pasajes de aeronave como antes.
 TEXT_GAIUSE316_01457_LAURENTIUS_000_140	¡Oh, dioses! ¿¡De verdad es <italic(1)>usted<italic(0)>!? ¿¡Por qué capricho de la fortuna la primera cara que veo al salir tiene que ser la suya!?

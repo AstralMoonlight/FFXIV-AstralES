@@ -21,7 +21,7 @@ TEXT_STMBDA135_02465_ALPHINAUD_000_050	Acompañaré al comandante Kemp en uno de
 TEXT_STMBDA135_02465_CONRAD_000_055	No, no, no quiero ser una carga...
 TEXT_STMBDA135_02465_KRILE_000_060	Vamos a tener que llevar a Y'shtola al carruaje. ¿Me das una mano, Lyse?
 TEXT_STMBDA135_02465_LYSE_000_065	¡Ni hace falta que lo preguntes!
-TEXT_STMBDA135_02465_FLAMECOURIER_000_070	<if([gnum54>0],<if([gnum54<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if(gnum4,Señorita,Señor)>)>,<if(gnum4,Señorita,Señor)>)>. El Marshal Tarupin dijo que quizá tenía algo para mí.
+TEXT_STMBDA135_02465_FLAMECOURIER_000_070	<if([gnum54>0],<if([gnum54<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if(gnum4,Señorita,Señor)>)>,<if(gnum4,Señorita,Señor)>)>. El Mariscal Tarupin dijo que quizá tenía algo para mí.
 TEXT_STMBDA135_02465_FLAMECOURIER_000_071	Alabados sean los Twelve. Esto debería tranquilizar a los cocheros. Dígale al vicemariscal que esperamos sus órdenes.
 TEXT_STMBDA135_02465_KRILE_000_082	Y'shtola y los demás ya están bien sujetos. No te preocupes: voy a estar a su lado todo el tiempo.
 TEXT_STMBDA135_02465_ALPHINAUD_000_083	Gracias, Krile.

@@ -1,6 +1,6 @@
 key	text
 TEXT_GAIUSE203_01347_SEQ_00	Thancred tiene información sobre tu próxima misión.
-TEXT_GAIUSE203_01347_SEQ_01	A través de Minfilia y, a su vez, de Thancred, Alphinaud pidió que vayas a Vesper Bay. Preséntate ante el joven señor Leveilleur en los muelles, afuera de los Waking Sands.
+TEXT_GAIUSE203_01347_SEQ_01	A través de Minfilia y, a su vez, de Thancred, Alphinaud pidió que vayas a Vesper Bay. Preséntate ante el joven Maestro Leveilleur en los muelles, afuera de los Waking Sands.
 TEXT_GAIUSE203_01347_SEQ_02	Alphinaud te cuenta que hace poco llegaron a Vesper Bay viajeros de Doma, una nación del este, que al parecer buscan una audiencia con los gobernantes de Ul'dah. Creyendo que podrían tener información valiosa sobre la situación actual dentro del Empire, decidió ir a buscarlos, y quiere que estés presente para que todo salga bien. Sabiendo lo poco complacientes que pueden ser los Sultansworn, sugiere empezar a buscar en la Royal Promenade de Ul'dah.
 TEXT_GAIUSE203_01347_SEQ_03	Tal como se esperaba, encuentras a la líder domana y a sus asistentes suplicando en vano a los Sultansworn apostados frente a la Fragrant Chamber. Viendo una oportunidad, Alphinaud se acerca a los viajeros y les ofrece su ayuda ─ con la condición de que primero lo acompañen al Quicksand y le expliquen su situación. Sigue al grupo hasta el Quicksand y avísale a Alphinaud cuando estés list<if(gnum4,a,o)> para escuchar la historia de los domanos.
 TEXT_GAIUSE203_01347_SEQ_04	Lady Yugiri, la líder de los refugiados, explica que su pueblo vino a Eorzea en busca de asilo. Tras el fracaso de su rebelión contra el Empire, las fuerzas imperiales se dedicaron a arrasar su patria, Doma, y no les quedó más remedio que huir. Conmovido por su historia, Alphinaud se ofrece a hablar con el General Raubahn en nombre de Yugiri y parte hacia el Hall of Flames, dejando a los refugiados a tu cuidado. Pregúntale a Yugiri si necesita algo.
@@ -42,8 +42,8 @@ TEXT_GAIUSE203_01347_YUGIRI_000_026	(-Líder de los refugiados-)Un hombre leal d
 TEXT_GAIUSE203_01347_ALPHINAUD_000_027	Espero que yo le resulte más de su agrado. Alphinaud Leveilleur, a su servicio. Un amigo.
 TEXT_GAIUSE203_01347_ALPHINAUD_000_028	Lo cual, creo, me vuelve casi único ─ al menos en esta parte del mundo. Muy pocos son sus aliados en Ul'dah. Y sin embargo, necesitará algunos si quiere ganarse a los ricos y poderosos.
 TEXT_GAIUSE203_01347_ALPHINAUD_000_029	Acompáñenos, a mí y a mi colega, al Quicksand. Allí podrán explicarnos su situación, y veremos si podemos hacer algo para ayudar.
-TEXT_GAIUSE203_01347_YUGIRI_000_029	Usted es <if(gnum4,la colega,el colega)> del señor Alphinaud, ¿verdad? Lo estábamos esperando. ¿Supongo que está list<if(gnum4,a,o)> para empezar?
-TEXT_GAIUSE203_01347_KASASAGI_000_029	Les agradeceríamos mucho cualquier ayuda que usted y el señor Alphinaud puedan ofrecernos.
+TEXT_GAIUSE203_01347_YUGIRI_000_029	Usted es <if(gnum4,la colega,el colega)> del Maestro Alphinaud, ¿verdad? Lo estábamos esperando. ¿Supongo que está list<if(gnum4,a,o)> para empezar?
+TEXT_GAIUSE203_01347_KASASAGI_000_029	Les agradeceríamos mucho cualquier ayuda que usted y el Maestro Alphinaud puedan ofrecernos.
 TEXT_GAIUSE203_01347_KIKYOU_000_029	Hace tantísimo tiempo que no pisábamos tierra firme. De verdad espero que esto marque el fin de nuestro viaje.
 TEXT_GAIUSE203_01347_KASASAGI_000_030	Le estamos infinitamente agradecidos por esta bondad.
 TEXT_GAIUSE203_01347_KIKYOU_000_030	Lady Yugiri trabaja día y noche por el bien de nuestro pueblo. Es una inspiración para todos nosotros... pero me preocupa su salud.
@@ -60,13 +60,13 @@ TEXT_GAIUSE203_01347_KATHERINE_000_055	Vaya, qué pedido tan raro. ¿No habrás 
 TEXT_GAIUSE203_01347_KATHERINE_000_056	Sabes, no deberías malacostumbrarlos así. ¡Empezarán a <italic(1)>esperarlo<italic(0)>, acuérdate de lo que te digo!
 TEXT_GAIUSE203_01347_MOMODI_000_059	No te dieron problemas, ¿no? Bien. Ahora ve a decirle a Lady Yugiri que todo está arreglado.
 TEXT_GAIUSE203_01347_YUGIRI_000_061	Yo... ¡no me atrevía a esperar semejante generosidad, y mucho menos a contar con ella! La señora Momodi es generosa de verdad... Me aseguraré de agradecérselo con toda humildad.
-TEXT_GAIUSE203_01347_ALPHINAUD_000_070	Lady Yugiri, le expliqué su situación al Flame General. Creo que su respuesta le agradará.
+TEXT_GAIUSE203_01347_ALPHINAUD_000_070	Lady Yugiri, le expliqué su situación al General Flame. Creo que su respuesta le agradará.
 TEXT_GAIUSE203_01347_YUGIRI_000_071	¿Nos concedieron una audiencia?
 TEXT_GAIUSE203_01347_ALPHINAUD_000_072	Ante la sultana y el Syndicate. Deberíamos volver a la Royal Promenade de inmediato.
-TEXT_GAIUSE203_01347_YUGIRI_000_073	Hizo mucho por nosotros, señor Alphinaud. Le juro que le devolveremos el favor.
+TEXT_GAIUSE203_01347_YUGIRI_000_073	Hizo mucho por nosotros, Maestro Alphinaud. Le juro que le devolveremos el favor.
 TEXT_GAIUSE203_01347_ALPHINAUD_000_074	Nada se debe, Lady Yugiri, porque nada se dio. Este pequeño favor se lo ganó usted con sus palabras. Y es con palabras que deberá ganarse el favor del Syndicate.
 TEXT_GAIUSE203_01347_YUGIRI_000_075	Entonces las elegiré con cuidado.
-TEXT_GAIUSE203_01347_ALPHINAUD_000_076	Nos acompañará, ¿verdad? Bien. Su presencia quizá le recuerde al Syndicate el verdadero sentido de la filantropía ─ y que no se les pedirá nada tan desagradable, siempre que los domanos estén dispuestos a ganarse el sustento. Vamos, el Flame General nos espera en la Royal Promenade.
+TEXT_GAIUSE203_01347_ALPHINAUD_000_076	Nos acompañará, ¿verdad? Bien. Su presencia quizá le recuerde al Syndicate el verdadero sentido de la filantropía ─ y que no se les pedirá nada tan desagradable, siempre que los domanos estén dispuestos a ganarse el sustento. Vamos, el General Flame nos espera en la Royal Promenade.
 TEXT_GAIUSE203_01347_ALPHINAUD_000_080	Debemos esforzarnos por mostrar cómo se beneficiaría Ul'dah al aceptar a los domanos. Solo así podríamos convencer al Syndicate.
 TEXT_GAIUSE203_01347_YUGIRI_000_080	Los bardos cantan guerras que decidieron el destino de naciones, pero una sola palabra dicha en una sala de consejo bien puede decidir el de la mía...
 TEXT_GAIUSE203_01347_KASASAGI_000_080	Si todos somos enemigos de Garlemald, ¿no sería lógico que uniéramos fuerzas?

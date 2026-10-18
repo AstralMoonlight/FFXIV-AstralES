@@ -1,7 +1,7 @@
 key	text
 TEXT_GAIUSD003_01157_SEQ_00	Papalymo quiere que derrotes a Garuda, que volvió más fuerte y más sanguinaria que antes.
-TEXT_GAIUSD003_01157_SEQ_01	Tras los Amalj'aa, también los Ixal lograron invocar a su primal. Ve al Adders' Nest y habla con el Commander Heuloix para saber cómo enfrentarte a Garuda.
-TEXT_GAIUSD003_01157_SEQ_02	Según el Commander Heuloix, en Natalan, en Coerthas Central Highlands, se descubrió un aetheryte de los hombres bestia que lleva al dominio de Garuda, el Howling Eye. Ábrete paso hasta lo más profundo de la fortaleza de los Ixal y sintonízate con el aetheryte.
+TEXT_GAIUSD003_01157_SEQ_01	Tras los Amalj'aa, también los Ixal lograron invocar a su primal. Ve al Adders' Nest y habla con el Comandante Heuloix para saber cómo enfrentarte a Garuda.
+TEXT_GAIUSD003_01157_SEQ_02	Según el Comandante Heuloix, en Natalan, en Coerthas Central Highlands, se descubrió un aetheryte de los hombres bestia que lleva al dominio de Garuda, el Howling Eye. Ábrete paso hasta lo más profundo de la fortaleza de los Ixal y sintonízate con el aetheryte.
 TEXT_GAIUSD003_01157_SEQ_03	Te sintonizaste con el aetheryte de Natalan y el camino al Howling Eye está abierto. Reúne a tus compañeros de aventuras más valientes y derrota a la Lady of the Vortex.<br><br>※Se puede entrar al Howling Eye (Hard) mediante el Duty Finder.
 TEXT_GAIUSD003_01157_TODO_00	Habla con Vorsaile Heuloix en el Adders' Nest.
 TEXT_GAIUSD003_01157_TODO_01	Sintonízate con el aetheryte de Natalan.
@@ -12,7 +12,7 @@ TEXT_GAIUSD003_01157_PAPALYMO_000_003	En el poco tiempo desde su regreso ya caus
 TEXT_GAIUSD003_01157_PAPALYMO_000_004	Mientras tanto, Yda y yo ayudaremos a la Order of the Twin Adder en las tareas de recuperación.
 TEXT_GAIUSD003_01157_PAPALYMO_000_005	La vez anterior que te enfrentaste a Garuda, fue el <italic(1)>Enterprise<italic(0)> el que te llevó a través de la tormenta que protegía su dominio. Pues esa tormenta es una brisa primaveral al lado de la que levantó esta vez; ninguna aeronave podría atravesarla.
 TEXT_GAIUSD003_01157_PAPALYMO_000_006	Así que podemos considerarnos afortunados de que la Order of the Twin Adder haya descubierto un aetheryte de los hombres bestia que lleva al Howling Eye.
-TEXT_GAIUSD003_01157_PAPALYMO_000_007	Antes que nada, te sugiero que pases por el Adders' Nest y hables con el Commander Heuloix. Podrá contarte sobre ese aetheryte, entre otras cosas.
+TEXT_GAIUSD003_01157_PAPALYMO_000_007	Antes que nada, te sugiero que pases por el Adders' Nest y hables con el Comandante Heuloix. Podrá contarte sobre ese aetheryte, entre otras cosas.
 TEXT_GAIUSD003_01157_PAPALYMO_000_008	No te equivoques, la Lady of the Vortex será una rival formidable, pero creo que puedes capear el temporal. ¡Que los Twelve te protejan!
 TEXT_GAIUSD003_01157_VORSAILE_000_020	¡Ah, <if([gnum52>0],<split(<string(gstr1)>, ,1)> de los Scions,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)> de los Scions)>)>! ¡Le agradecemos su ayuda!
 TEXT_GAIUSD003_01157_VORSAILE_000_022	Como ya sabrá, los malditos Ixal invocaron otra vez a Garuda. Desde su regreso, no perdió tiempo en desatar su furia sobre la región. Se informan daños graves tanto en el Twelveswood como en Coerthas.

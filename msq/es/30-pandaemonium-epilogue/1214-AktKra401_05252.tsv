@@ -1,7 +1,7 @@
 key	text
 TEXT_AKTKRA401_05252_SEQ_00	El amable investigador intenta llamar tu atención.
-TEXT_AKTKRA401_05252_SEQ_01	Un amable investigador se presenta como el nuevo asistente del profesor Claudien y te pide, en nombre de su superior, que vayas a Aporia. Parece que Pandæmonium todavía tiene misterios que ofrecer, y Claudien quiere que formes parte de ellos.
-TEXT_AKTKRA401_05252_SEQ_02	El profesor Claudien y sus colegas te reciben con calidez y te explican que, inspirados por un recuerdo del pasado de Erichthonios que vio Claudien, encargaron un mammet conmemorativo de Themis para el joven vigilante. Como eres la única persona que puede volver al pasado, te toca viajar a Pandæmonium y entregárselo a tu antiguo compañero.
+TEXT_AKTKRA401_05252_SEQ_01	Un amable investigador se presenta como el nuevo asistente del Profesor Claudien y te pide, en nombre de su superior, que vayas a Aporia. Parece que Pandæmonium todavía tiene misterios que ofrecer, y Claudien quiere que formes parte de ellos.
+TEXT_AKTKRA401_05252_SEQ_02	El Profesor Claudien y sus colegas te reciben con calidez y te explican que, inspirados por un recuerdo del pasado de Erichthonios que vio Claudien, encargaron un mammet conmemorativo de Themis para el joven vigilante. Como eres la única persona que puede volver al pasado, te toca viajar a Pandæmonium y entregárselo a tu antiguo compañero.
 TEXT_AKTKRA401_05252_SEQ_03	Al llegar a Pandæmonium, te encuentras con Hegemone. Aunque entiende lo tentador de ver su reacción ante el regalo, te advierte que, como Erichthonios está entrenando duro para ser un mejor vigilante, quizá prefiera dejar cualquier reencuentro para cuando haya progresado más. Como alternativa a un encuentro cara a cara, te propone esconderte en las sombras mientras ella habla con él y enviar el mammet en el momento justo.
 TEXT_AKTKRA401_05252_SEQ_04	Desde tu escondite te enteras de que, pese a algunas dificultades, al joven vigilante le va bien bajo la tutela de su padre. A la señal de Hegemone, envías el mammet desde tu escondite, y un Erichthonios gratamente sorprendido comenta que hace poco se encontró con el emisario en las Words of Lahabrea ─ donde hablaron con cariño de su querid<if(gnum4,a,o)> amig<if(gnum4,a,o)> <split(<string(gstr1)>, ,1)>. Antes de que pueda fijarse demasiado en la sonrisa que asoma en las sombras cercanas, Hegemone lo manda a su siguiente tarea, feliz con el recuerdo con forma de Themis del tiempo que pasaron juntos.
 TEXT_AKTKRA401_05252_SEQ_05	Contenta de haber ayudado con la entrega mediante el arte del disimulo, Hegemone te desea lo mejor mientras dejas Pandæmonium, quizá por última vez. Ahora solo queda volver con Claudien e informarle de tu éxito.
@@ -11,10 +11,10 @@ TEXT_AKTKRA401_05252_TODO_01	Habla con Hegemone en las Gates of Pandæmonium.
 TEXT_AKTKRA401_05252_TODO_02	Escóndete en el lugar indicado.
 TEXT_AKTKRA401_05252_TODO_03	Habla con Hegemone.
 TEXT_AKTKRA401_05252_TODO_04	Habla con Claudien en Aporia.
-TEXT_AKTKRA401_05252_CLAUDIENASSISTANT_000_000	¡Oh, usted debe de ser <split(<string(gstr1)>, ,1)>! Vaya, es tal como l<if(gnum4,a,o)> describió el profesor Claudien. Es un placer conocerl<if(gnum4,a,o)> por fin.
+TEXT_AKTKRA401_05252_CLAUDIENASSISTANT_000_000	¡Oh, usted debe de ser <split(<string(gstr1)>, ,1)>! Vaya, es tal como l<if(gnum4,a,o)> describió el Profesor Claudien. Es un placer conocerl<if(gnum4,a,o)> por fin.
 TEXT_AKTKRA401_05252_CLAUDIENASSISTANT_000_001	Soy el nuevo asistente del profesor, ¿sabe? Sus historias sobre su incursión en Pandæmonium son una fuente inagotable de conocimiento y de entretenimiento.
 TEXT_AKTKRA401_05252_CLAUDIENASSISTANT_000_002	De hecho, surgió un pequeño asunto relacionado con las instalaciones del que quiere hablar con usted, y por eso vine a buscarl<if(gnum4,a,o)>. Le pide que pase por Aporia en cuanto pueda.
-TEXT_AKTKRA401_05252_CLAUDIENASSISTANT_000_010	El profesor Claudien puede darle los detalles mejor que yo, así que visítelo en Aporia cuando pueda, por favor.
+TEXT_AKTKRA401_05252_CLAUDIENASSISTANT_000_010	El Profesor Claudien puede darle los detalles mejor que yo, así que visítelo en Aporia cuando pueda, por favor.
 TEXT_AKTKRA401_05252_CLAUDIEN_000_050	¡<split(<string(gstr1)>, ,1)>, siempre es un gusto verl<if(gnum4,a,o)>! ¿Estuvo bien desde la última vez que hablamos?
 TEXT_AKTKRA401_05252_CLAUDIEN_100_050	Bien, bien. Por mucho que me guste recordar viejos tiempos, nos conviene a los dos que vaya directo al grano.
 TEXT_AKTKRA401_05252_CLAUDIEN_000_051	Le pedí que viniera para hablar de un asunto relacionado con Erichthonios, a quien seguro recuerda.
@@ -41,7 +41,7 @@ TEXT_AKTKRA401_05252_HEGEMONE_000_100	¿Ya volvió con nosotros, <split(<string(
 TEXT_AKTKRA401_05252_HEGEMONE_000_101	¿Y este regalo es para Erichthonios, dice? Un hombre muy solicitado últimamente...
 TEXT_AKTKRA401_05252_HEGEMONE_000_102	Ahora la gente espera grandes cosas de él ─ más de las que, según él, está preparado para dar. Por eso en este momento está estudiando en las Words of Lahabrea.
 TEXT_AKTKRA401_05252_HEGEMONE_000_103	Bajo la tutela de su padre, espera dominar mejor las creaciones de aquí, para algún día llegar a ser guardián.
-TEXT_AKTKRA401_05252_HEGEMONE_000_104	Aunque los duros métodos del maestro Lahabrea lo llevaron más de una vez al borde de rendirse, su determinación de demostrar lo que vale siempre lo trae de vuelta.
+TEXT_AKTKRA401_05252_HEGEMONE_000_104	Aunque los duros métodos del Maestro Lahabrea lo llevaron más de una vez al borde de rendirse, su determinación de demostrar lo que vale siempre lo trae de vuelta.
 TEXT_AKTKRA401_05252_Q2_000_200	¿Qué vas a decir?
 TEXT_AKTKRA401_05252_A2_000_201	Eso suena muy a Erichthonios, sí.
 TEXT_AKTKRA401_05252_A2_000_202	Va a seguir intentándolo, estoy segur<if(gnum4,a,o)>.
@@ -56,7 +56,7 @@ TEXT_AKTKRA401_05252_HEGEMONE_000_119	Cuando llegue, ¿puede decirle que venga a
 TEXT_AKTKRA401_05252_HEGEMONE_000_120	Quiero que elija un lugar bien oscuro desde donde escuchar nuestra conversación. Cuando llegue el momento, envíe el muñeco hacia aquí.
 TEXT_AKTKRA401_05252_HEGEMONE_000_121	Así los dos podremos ver su reacción, y usted no será descubiert<if(gnum4,a,o)>. Aunque semejante subterfugio no suele formar parte de mis deberes de guardiana, tenga por seguro que ayudo con gusto.
 TEXT_AKTKRA401_05252_HEGEMONE_000_140	No debería verl<if(gnum4,a,o)> si se esconde más allá de aquel umbral. Tenga a mano al pequeño Themis ─ confío en que elegirá el momento justo para enviarlo.
-TEXT_AKTKRA401_05252_HEGEMONE_000_160	...Veo que el maestro Lahabrea no se ablandó. Hiciste bien en soportar sus métodos.
+TEXT_AKTKRA401_05252_HEGEMONE_000_160	...Veo que el Maestro Lahabrea no se ablandó. Hiciste bien en soportar sus métodos.
 TEXT_AKTKRA401_05252_ERICHTHONIOS_000_161	A veces siento que se volvió aún más difícil... Si no me hubieran revelado hace poco su verdadera naturaleza, habría perdido la esperanza en un instante.
 TEXT_AKTKRA401_05252_HEGEMONE_000_162	Es su forma de cultivar tus talentos, supongo.
 TEXT_AKTKRA401_05252_ERICHTHONIOS_000_163	Lo sé. Todavía me exaspera, pero llegué a entender que hasta nuestras peleas son una forma de conocerlo mejor ─ como padre y como uno de los Fourteen.
