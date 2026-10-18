@@ -1,0 +1,41 @@
+key	text
+TEXT_LUCKMA101_03279_SEQ_00	Tataru se muere por contarte lo que parece ser una buena noticia.
+TEXT_LUCKMA101_03279_SEQ_01	Tataru, muy entusiasmada, te cuenta el último avance en la búsqueda de la baliza. Al parecer, tus compañeros descubrieron un camino que baja hasta el fondo del barranco donde se alza la Crystal Tower, y ahora se puede llegar a su base. Sin embargo, aunque la zona de búsqueda se redujo, todavía queda mucho terreno por recorrer. Según Tataru, en la orilla norte de Silvertear Lake espera un bote listo para llevar a quienes quieran ayudar hasta el sitio de investigación recién instalado.
+TEXT_LUCKMA101_03279_SEQ_02	Cruzas a la orilla este y entras en la amplia hondonada al pie de la Crystal Tower. Tataru está cerca, con ganas de empezar.
+TEXT_LUCKMA101_03279_SEQ_03	Aunque apenas tienes una vaga idea de qué es lo que buscas, te sumas a la búsqueda...
+TEXT_LUCKMA101_03279_SEQ_04	Por un golpe de suerte, das con lo que resulta ser la baliza, y la voz misteriosa vuelve a visitarte. Esta vez, sin embargo, suena triunfal y clara. Un momento después, te encuentras transportad<if(gnum4,a,o)> a una tierra lejana y desconocida. ¿Será de verdad otro mundo? Perdid<if(gnum4,a,o)> y confundid<if(gnum4,a,o)>, te topas con un vendedor ambulante que te indica el camino hacia una ciudad que él llama el "Crystarium".<br><br>※Si sales de la zona y quieres volver, habla con el técnico de los Ironworks al pie de la Crystal Tower.
+TEXT_LUCKMA101_03279_SEQ_05	Al acercarte al Crystarium, llegas a lo que parece un puesto de control fortificado. La guardia apostada allí te interroga como corresponde, y tus respuestas no parecen convencerla. Ni siquiera la breve irrupción de un monstruo la hace cambiar de idea, pero justo cuando va a echarte, la interrumpe la llegada de un hombre encapuchado que, con toda calma, declara que eres su invitad<if(gnum4,a,o)>. Con una soltura algo fingida, te pide que lo sigas a la ciudad... y te promete en voz baja responder tus preguntas cuando estén a solas.
+TEXT_LUCKMA101_03279_SEQ_06	Sigues al Crystal Exarch hasta las puertas principales del Crystarium. Ahí se detiene y se da vuelta, como si esperara algo.
+TEXT_LUCKMA101_03279_SEQ_07	El Exarch te da la bienvenida al Crystarium y, con ello, al mundo del First. Solo puedes imaginar las aventuras que el destino te depara en esta estrella asediada por la Luz...
+TEXT_LUCKMA101_03279_TODO_00	Habla con el barquero de Saint Coinach en el norte de Silvertear.
+TEXT_LUCKMA101_03279_TODO_01	Habla con Tataru.
+TEXT_LUCKMA101_03279_TODO_02	Habla con Tataru.
+TEXT_LUCKMA101_03279_TODO_03	Dirígete al Crystarium.
+TEXT_LUCKMA101_03279_TODO_04	Dirígete al Crystarium.
+TEXT_LUCKMA101_03279_TODO_05	Habla con el Crystal Exarch.
+TEXT_LUCKMA101_03279_TATARU_000_000	¡Buenas noticias, <split(<string(gstr1)>, ,1)>! ¡Tuvimos un golpe de suerte en la búsqueda de esa baliza!
+TEXT_LUCKMA101_03279_TATARU_000_001	Parece que nuestros compañeros encontraron un camino escondido que baja hasta las hondonadas que rodean la base de la Crystal Tower.
+TEXT_LUCKMA101_03279_TATARU_000_002	...Un camino que dudo que hubiéramos encontrado si los Ironworks y los Sons no se hubieran sumado al grupo.
+TEXT_LUCKMA101_03279_TATARU_000_003	Gracias a ellos, hay ojos de sobra allá abajo, revisando debajo de cada piedra y mirando en cada rincón. Aun así, parece que queda mucho terreno por cubrir...
+TEXT_LUCKMA101_03279_Q1_000_004	¿Qué dices?
+TEXT_LUCKMA101_03279_A1_000_005	¡Entonces más vale que vayamos a darles una mano!
+TEXT_LUCKMA101_03279_A2_000_006	...Suena a un trabajo tedioso. Pero no tan tedioso como quedarse esperando, supongo.
+TEXT_LUCKMA101_03279_TATARU_000_007	¡Justo lo que yo pensaba!
+TEXT_LUCKMA101_03279_TATARU_000_008	Cuanto antes encontremos esa baliza, antes podrás viajar al lugar de donde viene esa voz misteriosa.
+TEXT_LUCKMA101_03279_TATARU_000_009	¡Exacto! Así que pensé que deberíamos ir a dar una mano. Cuanto antes encontremos esa baliza, antes podrás viajar al lugar de donde viene esa voz misteriosa.
+TEXT_LUCKMA101_03279_TATARU_000_010	Y antes podremos descubrir cómo ayudar a nuestros amigos.
+TEXT_LUCKMA101_03279_TATARU_000_011	Tenemos que encontrar la forma de despertarlos - ¡y <italic(1)>antes<italic(0)> de que el Empire vuelva a atacar! ¡O sea que no hay tiempo que perder!
+TEXT_LUCKMA101_03279_TATARU_000_012	Hay un bote en el norte de Silvertear esperando para llevar gente al sitio, ¡así que pongámonos en marcha!
+TEXT_LUCKMA101_03279_COINACHBOATMAN_000_020	¿Va al sitio de investigación, <if(gnum4,señora,señor)>? Está en la orilla este del lago, y la forma más rápida de llegar es en bote.
+TEXT_LUCKMA101_03279_Q2_000_021	¿Tomar el bote al sitio de investigación?
+TEXT_LUCKMA101_03279_HOARYBOULDER_000_030	¡<split(<string(gstr1)>, ,1)>! La búsqueda continúa, ¡pero no me cabe duda de que encontraremos esa baliza suya!
+TEXT_LUCKMA101_03279_COULTENET_000_035	El aire aquí me pesa. No es de extrañar, supongo, estando a la sombra de una estructura tan imponente.
+TEXT_LUCKMA101_03279_AENOR_000_040	¡Los Archons necesitan nuestra ayuda! ¡Al lado de eso, hasta los asuntos del corazón pasan a segundo plano!
+TEXT_LUCKMA101_03279_CLEMENCE_000_045	No detecté bestias babeantes en los alrededores... salvo mi hermana.
+TEXT_LUCKMA101_03279_GARLONDMAN03279_000_050	¡Los Ironworks salieron en masa! ¡Órdenes del Maestro Garlond!
+TEXT_LUCKMA101_03279_COINACHINVESTIGATOR03279_000_055	Esa imponente construcción es el muro exterior de los cimientos de la Crystal Tower - el Labyrinth of the Ancients, para ser exactos.
+TEXT_LUCKMA101_03279_Q3_000_060	¿Continuar con la misión principal?
+TEXT_LUCKMA101_03279_GARLONDMAN03279_000_065	Tengo bien guardado el aparato que encontró. ¿Necesita usarlo otra vez...?
+TEXT_LUCKMA101_03279_Q4_000_066	¿Tocar la baliza y viajar al First?
+TEXT_LUCKMA101_03279_COINACHINVESTIGATOR03279_000_067	Ya que de todos modos instalamos un sitio aquí, decidimos hacer una investigación a fondo de la base de la torre.
+TEXT_LUCKMA101_03279_MYSTERYVOICE_000_070	Y aquí estamos. Bienvenid<if(gnum4,a,o)>, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>, al Crystarium.

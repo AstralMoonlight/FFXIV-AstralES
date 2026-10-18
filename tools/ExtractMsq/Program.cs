@@ -160,6 +160,22 @@ foreach (var (name, i) in featureNames.Select((n, i) => (n, i + 1)))
     index.Append($"\tfeatures\t{file}\t{q.RowId}\t{name}\t{WriteSheet($"quest/{id[^5..^2]}/{id}", Path.Combine(output, "features", file))}\n");
 }
 
+// The seasonal event running now (All Saints' Wake 2026): its two quests, then what the event NPCs
+// say outside them (custom/ talk sheets: the guide, the witch, the warp into the horror room).
+string[] eventIds = ["FesHlx201_", "FesHlx202_", "FesHlx2026"];
+var eventSheets = sheetNames.Where(n => (n.StartsWith("quest/") || n.StartsWith("custom/"))
+        && eventIds.Any(id => n[(n.LastIndexOf('/') + 1)..].StartsWith(id)))
+    .OrderBy(n => !n.StartsWith("quest/")).ThenBy(n => n).ToList();
+
+if (eventSheets.Count < eventIds.Length)
+    missing.Add($"event sheets: found only {string.Join(", ", eventSheets)}");
+
+foreach (var (sheet, i) in eventSheets.Select((s, i) => (s, i + 1)))
+{
+    var file = $"{i:00}-{sheet[(sheet.LastIndexOf('/') + 1)..]}.tsv";
+    index.Append($"\tevents\t{file}\t0\t\t{WriteSheet(sheet, Path.Combine(output, "events", file))}\n");
+}
+
 // What bosses say mid-fight in dungeons, trials and raids ("Drag them unto the depths, O chains!"),
 // plus the duty's objective. Each duty names its block of InstanceContentTextData rows; the normal
 // and savage versions share one block (savage's may run longer), so a block is written once, under

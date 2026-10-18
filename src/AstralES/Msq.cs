@@ -280,14 +280,16 @@ public sealed unsafe class Msq : IDisposable
     }
 
     // "msq.0001-ManFst000_00083.tsv" → quest/000/ManFst000_00083; "msq.VoiceMan_03200.tsv" → cut_scene/032/VoiceMan_03200;
-    // "msq.OpeningGridania.tsv" → opening/OpeningGridania; "msq.30111-Duty30111.tsv" → InstanceContentTextData.
+    // "msq.OpeningGridania.tsv" → opening/OpeningGridania; "msq.30111-Duty30111.tsv" → InstanceContentTextData;
+    // "msq.03-FesHlx2026Guide_00977.tsv" → custom/009/FesHlx2026Guide_00977 (a quest id is always like FesHlx201_05467).
     private static string SheetOf(string resource)
     {
         var id = IdOf(resource);
         return id.StartsWith("VoiceMan_") ? $"cut_scene/{id[^5..^2]}/{id}"
             : id.StartsWith("Opening") ? $"opening/{id}"
             : id.StartsWith("Duty") ? "InstanceContentTextData"
-            : $"quest/{id[^5..^2]}/{id}";
+            : Regex.IsMatch(id, @"^[A-Za-z]{6}\d{3}_\d{5}$") ? $"quest/{id[^5..^2]}/{id}"
+            : $"custom/{id[^5..^2]}/{id}";
     }
 
     private static string IdOf(string resource)

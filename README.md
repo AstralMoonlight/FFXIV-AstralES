@@ -19,6 +19,7 @@
   <a href="#historia">Historia</a> ·
   <a href="#misiones-de-clase-y-job">Misiones de clase y job</a> ·
   <a href="#otras-misiones">Otras misiones</a> ·
+  <a href="#eventos-de-temporada">Eventos</a> ·
   <a href="#comandos">Comandos</a>
 </p>
 
@@ -198,6 +199,14 @@ Misiones fuera de la historia que desbloquean funciones del juego.
 | Beauty Is Only Scalp Deep | Cambio de peinado (estilista) | ![Traducido][ok] |
 | If I Had a Glamour | Glamours | ![Traducido][ok] |
 | Color Your World | Tintes | ![Traducido][ok] |
+
+## Eventos de temporada
+
+Solo se ven mientras dura el evento.
+
+| Evento | Contenido | Estado |
+|---|---|---|
+| All Saints' Wake 2026 (Halloween) | "We Scare Bears", "Grim and Grisly Games" y los diálogos de los NPC del evento | ![Traducido][ok] |
 
 ## Comandos
 
