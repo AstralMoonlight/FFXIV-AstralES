@@ -1,6 +1,8 @@
 // Reads the installed game's quest text (English, with its macros) for the main scenario and
 // "Chronicles of a New Era", and writes one TSV per quest, in journal order, plus the voiced
-// cutscene sheets, an index and an inventory of every macro the text uses.
+// cutscene sheets, an index and an inventory of every macro the text uses. Each quest and
+// cutscene sheet is also written in Japanese, the original script, to msq/ja/ next to msq/en/:
+// a reference for tone and register, never translated from directly.
 //
 //     dotnet run --project tools/ExtractMsq -- [sqpack path] [output folder]
 //
@@ -64,8 +66,11 @@ foreach (var opening in sheetNames.Where(n => Regex.IsMatch(n, @"^quest/\d{3}/Ma
 
 entries = entries.OrderBy(e => e.Genre).ThenBy(e => e.SortKey).ThenBy(e => e.Order).ThenBy(e => e.QuestRow).ToList();
 
-if (Directory.Exists(output))
-    Directory.Delete(output, recursive: true);
+var outputJa = Path.Combine(Path.GetDirectoryName(output)!, "ja");
+
+foreach (var dir in new[] { output, outputJa })
+    if (Directory.Exists(dir))
+        Directory.Delete(dir, recursive: true);
 
 var macros = new Dictionary<string, (int Count, string Example)>();
 var index = new StringBuilder("order\tfolder\tfile\tquest\tname\tlines\n");
@@ -136,6 +141,24 @@ foreach (var group in jobQuests)
 }
 
 Console.WriteLine($"class and job quests: {jobLines} lines → {Path.Combine(output, "jobs")}");
+
+// Sidequests that unlock a game feature, picked by name: the aesthetician, glamours and dyes.
+string[] featureNames = ["Beauty Is Only Scalp Deep", "If I Had a Glamour", "Color Your World"];
+
+foreach (var (name, i) in featureNames.Select((n, i) => (n, i + 1)))
+{
+    var q = quests.FirstOrDefault(q => q.Name.ExtractText() == name && q.JournalGenre.RowId != 0);
+    var id = q.RowId == 0 ? "" : q.Id.ExtractText();
+
+    if (id.Length == 0 || !sheetNames.Contains($"quest/{id[^5..^2]}/{id}"))
+    {
+        missing.Add($"feature {name}");
+        continue;
+    }
+
+    var file = $"{i:00}-{id}.tsv";
+    index.Append($"\tfeatures\t{file}\t{q.RowId}\t{name}\t{WriteSheet($"quest/{id[^5..^2]}/{id}", Path.Combine(output, "features", file))}\n");
+}
 
 // What bosses say mid-fight in dungeons, trials and raids ("Drag them unto the depths, O chains!"),
 // plus the duty's objective. Each duty names its block of InstanceContentTextData rows; the normal
@@ -236,9 +259,28 @@ int WriteSheet(string sheet, string path)
     {
         Directory.CreateDirectory(Path.GetDirectoryName(path)!);
         File.WriteAllText(path, b.ToString(), new UTF8Encoding(false));
+        WriteJapanese(sheet, Path.Combine(outputJa, Path.GetRelativePath(output, path)));
     }
 
     return count;
+}
+
+// The same sheet in Japanese, same keys: key, text.
+void WriteJapanese(string sheet, string path)
+{
+    var b = new StringBuilder("key\ttext\n");
+
+    foreach (var row in data.Excel.GetSheet<RawRow>(Language.Japanese, sheet))
+    {
+        var key = row.ReadStringColumn(0).ExtractText();
+        var text = row.ReadStringColumn(1).ToMacroString().Replace("\t", " ").Replace("\r", "").Replace("\n", "<br>");
+
+        if (key.Length > 0 && text.Length > 0)
+            b.Append($"{key}\t{text}\n");
+    }
+
+    Directory.CreateDirectory(Path.GetDirectoryName(path)!);
+    File.WriteAllText(path, b.ToString(), new UTF8Encoding(false));
 }
 
 // TEXT_MANFST000_00083_BREMONDT_000_1 → BREMONDT; _100040_NARRATION → NARRATION; _SEQ_00 → SEQ

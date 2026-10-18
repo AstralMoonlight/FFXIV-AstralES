@@ -18,6 +18,7 @@
   <a href="#jobs">Jobs</a> ·
   <a href="#historia">Historia</a> ·
   <a href="#misiones-de-clase-y-job">Misiones de clase y job</a> ·
+  <a href="#otras-misiones">Otras misiones</a> ·
   <a href="#comandos">Comandos</a>
 </p>
 
@@ -187,6 +188,16 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 | | Pictomancer | 80–100 | ![Pendiente][no] |
 | **Limitado** | Blue Mage | | ![Pendiente][no] |
 | | Beastmaster | | ![Pendiente][no] |
+
+## Otras misiones
+
+Misiones fuera de la historia que desbloquean funciones del juego.
+
+| Misión | Desbloquea | Estado |
+|---|---|---|
+| Beauty Is Only Scalp Deep | Cambio de peinado (estilista) | ![Traducido][ok] |
+| If I Had a Glamour | Glamours | ![Traducido][ok] |
+| Color Your World | Tintes | ![Traducido][ok] |
 
 ## Comandos
 
