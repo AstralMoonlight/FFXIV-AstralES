@@ -1,0 +1,130 @@
+key	text
+TEXT_AKTKMD102_04410_SEQ_00	La carga de Ahewann es pesada, pero no tiene por qué llevarla solo.
+TEXT_AKTKMD102_04410_TODO_00	Habla con G'raha Tia y pídele que te acompañe.
+TEXT_AKTKMD102_04410_TODO_01	Habla con Nuhadeen mientras G'raha Tia te acompaña.
+TEXT_AKTKMD102_04410_TODO_02	Reúne información en Balshahn Bazaar mientras G'raha Tia te acompaña.
+TEXT_AKTKMD102_04410_TODO_03	Acompaña a G'raha Tia al lugar indicado y habla con él.
+TEXT_AKTKMD102_04410_TODO_04	Reúne información en Mehryde's Meyhane mientras G'raha Tia te acompaña.
+TEXT_AKTKMD102_04410_TODO_05	Habla con Mihleel mientras G'raha Tia te acompaña.
+TEXT_AKTKMD102_04410_ALPHINAUD_000_000	Mientras Estinien y Vrtra defienden Radz<-->at<-->Han desde el aire, los que estamos en tierra tenemos que encontrar una forma de impedir estas transformaciones... y pronto.
+TEXT_AKTKMD102_04410_ALISAIE_000_005	Después de tanto tiempo y tantos sacrificios, por fin encontramos una forma de curar a los subyugados. Pero estas pobres almas... desaparecen sin dejar rastro. ¿De verdad no hay forma de salvarlas...?
+TEXT_AKTKMD102_04410_THANCRED_000_010	La quietud del aire me inquieta. Tenemos que estar atentos.
+TEXT_AKTKMD102_04410_YSHTOLA_000_015	No te preocupes. Puedo ver tu aether, y el de nuestros compañeros. No corrimos la suerte de esas pobres almas.
+TEXT_AKTKMD102_04410_GRAHATIA_000_020	Toda vida tiene que terminar en la muerte. Pero la muerte, a su vez, da origen a nueva vida: así es el flujo del aether. Pensar que ese ciclo natural podría simplemente... cortarse... me estremece solo de pensarlo.
+TEXT_AKTKMD102_04410_AWAHEEN_000_030	Perdónenme, amigos, pero por ahora debo volver a Meghaduta. Desde allí puedo manejar mejor esta crisis y mandar a mis tropas según lo exija la situación.
+TEXT_AKTKMD102_04410_ALPHINAUD_000_031	En ese caso, haremos nuestra propia investigación aquí en la ciudad.
+TEXT_AKTKMD102_04410_ALPHINAUD_000_032	Quizás los habitantes puedan contarnos más de la primera transformación y de las condiciones en que ocurrió.
+TEXT_AKTKMD102_04410_ALPHINAUD_000_033	Si logramos averiguar qué desencadenó exactamente estos trágicos sucesos, quizás tengamos alguna pista de una posible solución.
+TEXT_AKTKMD102_04410_ALPHINAUD_000_034	El tiempo apremia. Dividámonos en tres grupos para cubrir más terreno.
+TEXT_AKTKMD102_04410_ALPHINAUD_000_035	Alisaie y yo nos encargamos de Paksa's Path. Thancred e Y'shtola, por favor vayan a Dharma.
+TEXT_AKTKMD102_04410_ALPHINAUD_000_036	Les dejo Artha a G'raha y a usted, <split(<string(gstr1)>, ,1)>. Cualquier información que puedan reunir sobre la primera blasfemia o sobre cómo se manifestaron los Días Finales aquí en la ciudad sería de gran ayuda.
+TEXT_AKTKMD102_04410_ALPHINAUD_000_037	Cuando terminemos nuestras averiguaciones, reunámonos frente a Meghaduta para compartir lo que sepamos con el satrap.
+TEXT_AKTKMD102_04410_GRAHATIA_000_040	¿Vamos, entonces?
+TEXT_AKTKMD102_04410_GRAHATIA_000_041	En Artha está el High Crucible de Al-Kimiya, cuyos alquimistas forjaron muchas de nuestras escamas protectoras.
+TEXT_AKTKMD102_04410_GRAHATIA_000_042	Parece un lugar tan bueno como cualquier otro para empezar la investigación, ¿no? En nuestra última visita hablé un momento con Nuhadeen, el alquimista jefe de allí. Debería estar dispuesto a responder nuestras preguntas.
+TEXT_AKTKMD102_04410_SYSTEM_000_043	G'raha Tia te acompaña. Debes tenerlo a tu lado para avanzar con los objetivos de la misión.
+TEXT_AKTKMD102_04410_SYSTEM_000_044	Puedes dejar atrás a G'raha Tia entrando en otra zona, o hablando con él y eligiendo la opción de separarse.
+TEXT_AKTKMD102_04410_SYSTEM_000_045	Si se separan, G'raha Tia volverá a su lugar original. Habla con él allí y volverá a acompañarte.
+TEXT_AKTKMD102_04410_Q1_000_050	¿Qué haces?
+TEXT_AKTKMD102_04410_A1_000_051	Hablar con G'raha Tia.
+TEXT_AKTKMD102_04410_A1_000_052	Separarse de G'raha Tia.
+TEXT_AKTKMD102_04410_A1_000_053	Nada.
+TEXT_AKTKMD102_04410_GRAHATIA_000_055	Vayamos al High Crucible a hablar con Nuhadeen. Su ojo perspicaz quizás nos revele verdades que pasamos por alto.
+TEXT_AKTKMD102_04410_Q2_000_060	¿Seguro que quieres separarte de G'raha Tia?
+TEXT_AKTKMD102_04410_GRAHATIA_000_061	Muy bien. Te espero en Alzadaal's Path cuando estés list<if(gnum4,a,o)> para seguir con la investigación.
+TEXT_AKTKMD102_04410_GRAHATIA_000_065	¿List<if(gnum4,a,o)> para seguir? ¡Excelente!
+TEXT_AKTKMD102_04410_SYSTEM_000_070	G'raha Tia todavía no llegó. Asegúrate de que esté a tu lado antes de intentar seguir.
+TEXT_AKTKMD102_04410_NUHADEEN_000_080	¿Hm? Perdone, viajer<if(gnum4,a,o)>, pero en este momento estoy demasiado ocupado para atenderl<if(gnum4,a,o)>.
+TEXT_AKTKMD102_04410_SYSTEM_000_081	Deberías ir acompañad<if(gnum4,a,o)> de G'raha Tia antes de seguir con la investigación.
+TEXT_AKTKMD102_04410_NUHADEEN_000_085	Ahh, recuerdo esos ojos rojos. Usted estaba con esos "Scions" que nos encargaron las escamas, ¿no?
+TEXT_AKTKMD102_04410_NUHADEEN_000_086	Le doy la bienvenida de vuelta al High Crucible. ¿Qué l<if(gnum4,a,o)> trae por aquí en estos tiempos difíciles?
+TEXT_AKTKMD102_04410_GRAHATIA_000_087	Estamos ayudando al satrap a investigar la crisis que azota la ciudad. ¿Llegó a ver alguna de las criaturas?
+TEXT_AKTKMD102_04410_NUHADEEN_000_088	Sí. Mientras trabajaba, me interrumpieron unos pasos estruendosos, tan fuertes que temblaba el suelo.
+TEXT_AKTKMD102_04410_NUHADEEN_000_089	Salí corriendo y no podía creer lo que veía. El cielo nocturno ardía...
+TEXT_AKTKMD102_04410_NUHADEEN_000_090	De repente oí gritos de pánico que venían de Balshahn Bazaar. ¡Al instante siguiente, una bestia monstruosa asomó la cabeza entre los puestos!
+TEXT_AKTKMD102_04410_NUHADEEN_000_091	Unos cuantos Radiant acudieron al lugar, pero salieron despedidos cuando el demonio y sus secuaces se lanzaron hacia el cielo.
+TEXT_AKTKMD102_04410_GRAHATIA_000_092	...Así que la blasfemia vino de la zona de los mercados. Ese dato puede servirnos. Gracias por contarnos lo que vio.
+TEXT_AKTKMD102_04410_GRAHATIA_000_093	Bueno, creo que ya sabemos dónde preguntar ahora. Al bazar, entonces.
+TEXT_AKTKMD102_04410_A3_000_100	<colortype(548)>Hablar de los puestos de telas.<colortype(0)>
+TEXT_AKTKMD102_04410_GRAHATIA_000_105	Según Nuhadeen, la blasfemia vino de Balshahn Bazaar. Preguntemos allí, a ver si algún vendedor o cliente puede darnos más detalles.
+TEXT_AKTKMD102_04410_GRAHATIA_000_110	Así que este es el tejido de Thavnair... Debo decir que se parece a las telas tradicionales de Corvos. No es de extrañar, la verdad, ya que está justo del otro lado del agua.
+TEXT_AKTKMD102_04410_GRAHATIA_000_111	...No es que yo sea un gran experto en la cultura corvosiana, claro. No tuve ocasión de visitar mi tierra ancestral desde que llegué a Sharlayan, y lo más probable es que nunca vuelva a vivir allí.
+TEXT_AKTKMD102_04410_GRAHATIA_000_112	Dicho esto, estos días siento más que nunca mi herencia... y la agradezco. Es gracias a mis antepasados que heredé el Royal Eye, y con él la sabiduría de la antigua Allag.
+TEXT_AKTKMD102_04410_GRAHATIA_000_113	Así que... bueno, solo espero que mis compatriotas estén a salvo. Y algún día, cuando esta calamidad sea solo un recuerdo, me gustaría volver a ver Corvos, aunque sea una vez.
+TEXT_AKTKMD102_04410_NUHADEEN_000_120	Después de trabajar días y noches para fabricar las escamas protectoras de sus aliados, a muchos de nuestros alquimistas se les dio un descanso.
+TEXT_AKTKMD102_04410_NUHADEEN_000_121	En parte por eso, los daños aquí en el Crucible fueron limitados. Pero no tenemos noticias de muchos que estaban en casa durante el ataque. Solo podemos rogar que estén a salvo.
+TEXT_AKTKMD102_04410_VARSRA_000_130	Disculpe, pero mi tienda está cerrada hasta nuevo aviso. Ni hace falta decir que estos días tenemos preocupaciones más urgentes...
+TEXT_AKTKMD102_04410_VARSRA_000_131	Disculpe, pero mi tienda está cerrada hasta nuevo aviso. Ni hace falta decir que estos días tenemos preocupaciones más urgentes...
+TEXT_AKTKMD102_04410_GRAHATIA_000_132	No venimos a buscar mercancía, sino información sobre el demonio enorme que arrasó el bazar. ¿Vio algo, por casualidad?
+TEXT_AKTKMD102_04410_VARSRA_000_133	Me temo que no, amigo. Estuve aquí todo el tiempo, así que solo vi a sus secuaces pequeños. Hicieron un desastre en el lugar.
+TEXT_AKTKMD102_04410_VARSRA_000_134	Mientras pasaba todo eso, el grandote arrasó el lado oeste del bazar. Tendrá más suerte preguntando allá.
+TEXT_AKTKMD102_04410_GRAHATIA_000_135	...Y con eso, creo que averiguamos todo lo que podíamos del bazar. Tomémonos un momento para repasar lo que encontramos.
+TEXT_AKTKMD102_04410_VARSRA_000_140	Las bestias que nos atacaron aquí eran cositas flacuchas, pero causaron tanto daño como la grande. Hasta que los Radiant las ahuyentaron, solo pude correr para salvar el pellejo...
+TEXT_AKTKMD102_04410_RAHDVIRA_000_150	¡Que las Sisters tengan piedad! ¿¡Qué le pasa al mundo!? ¿Qué voy a hacer...? ¿¡No hay ningún lugar seguro!?
+TEXT_AKTKMD102_04410_RAHDVIRA_000_151	¡Que las Sisters tengan piedad! ¿¡Qué le pasa al mundo!? ¿Qué voy a hacer...? ¿¡No hay ningún lugar seguro!?
+TEXT_AKTKMD102_04410_GRAHATIA_000_152	Cálmese, amigo. El peligro pasó... por ahora, por lo menos. Si no es demasiado doloroso recordarlo, ¿podría contarnos qué vio?
+TEXT_AKTKMD102_04410_RAHDVIRA_000_153	P-Primero oí los gritos... ¡y después una horda de bestias hambrientas vino corriendo hacia nosotros!
+TEXT_AKTKMD102_04410_RAHDVIRA_000_154	Una de ellas era enorme, ¡más grande que un marid! Lanzaba a la gente como si fueran muñecos de trapo... ¡y se los <italic(1)>comía<italic(0)>!
+TEXT_AKTKMD102_04410_RAHDVIRA_000_155	Me escondí. Debajo del mostrador. Vi a otros hacer lo mismo.
+TEXT_AKTKMD102_04410_RAHDVIRA_000_156	Pero los chillidos y los lamentos se oían cada vez más fuertes... más voces en el tumulto. Bestias o víctimas, no sabía; no entendía qué pasaba. Todavía no entiendo...
+TEXT_AKTKMD102_04410_GRAHATIA_000_157	Basta, buen hombre. Fue valiente al contarnos lo que vivió. Muchos de sus colegas mercaderes están a salvo. El High Crucible también sobrevivió casi sin daños. Le ruego que se quede cerca de sus amigos y seres queridos, y que descanse el cuerpo y la mente mientras pueda.
+TEXT_AKTKMD102_04410_GRAHATIA_000_158	Sospecho que es lo más que podemos esperar que nos cuente la gente de aquí. Creo que lo mejor es buscar un lugar fuera del bazar donde descansar y repasar lo que encontramos.
+TEXT_AKTKMD102_04410_RAHDVIRA_000_160	Qué pesadilla es esta... ¿Cuándo va a terminar?
+TEXT_AKTKMD102_04410_ZEYTAHNUR_000_170	¿Pasa algo, viajer<if(gnum4,a,o)>? Si está perdid<if(gnum4,a,o)>, quizás pueda ayudarl<if(gnum4,a,o)>.
+TEXT_AKTKMD102_04410_ZEYTAHNUR_000_171	¿Pasa algo, viajer<if(gnum4,a,o)>? Si está perdid<if(gnum4,a,o)>, quizás pueda ayudarl<if(gnum4,a,o)>.
+TEXT_AKTKMD102_04410_GRAHATIA_000_172	Le agradecemos mucho el ofrecimiento. No estamos perdidos, pero necesitamos información. ¿Sabe algo de la bestia gigantesca que arrasó el bazar?
+TEXT_AKTKMD102_04410_ZEYTAHNUR_000_173	Sí, lo vi todo. Aunque ojalá no lo hubiera visto.
+TEXT_AKTKMD102_04410_ZEYTAHNUR_000_174	Estaba trabajando cuando de repente un grito agudo cortó el aire. Me di vuelta, y ahí estaba el demonio, irrumpiendo por esa entrada con su cuerpo enorme, con la fuerza de un maremoto. Y después se fue, tan rápido como vino...
+TEXT_AKTKMD102_04410_GRAHATIA_000_175	Creo que es todo lo que vamos a averiguar aquí. ¿Nos tomamos un momento para pensar en lo que encontramos en otro lugar?
+TEXT_AKTKMD102_04410_ZEYTAHNUR_000_180	Tuve la suerte de estar adentro de mi tienda en ese momento. El dueño del puesto de enfrente estaba ofreciendo su mercancía en la calle. Digamos que él no tuvo tanta suerte...
+TEXT_AKTKMD102_04410_GRAHATIA_000_190	Quizás angustie a los que siguen traumatizados por lo que pasó que hablemos de lo que averiguamos donde puedan oírnos...
+TEXT_AKTKMD102_04410_GRAHATIA_000_200	Según sus relatos, la transformación ya había ocurrido cuando la bestia llegó al bazar.
+TEXT_AKTKMD102_04410_GRAHATIA_000_201	Arrasó el lado oeste del bazar y se dirigió hacia la plaza del aetheryte...
+TEXT_AKTKMD102_04410_GRAHATIA_000_202	En otras palabras, la blasfemia quizás apareció primero por esta zona. Si es así, la gente de esa meyhane seguro puede contarnos más.
+TEXT_AKTKMD102_04410_GRAHATIA_000_210	Se veía el terror en los ojos de esos pobres mercaderes. Ojalá pudiéramos hacer algo para calmar sus miedos...
+TEXT_AKTKMD102_04410_CUSTOMER04410_000_220	¡Dioses, lo que daría por olvidar esa escena horrible!
+TEXT_AKTKMD102_04410_CUSTOMER04410_000_221	Van tras esa bestia enorme, ¿no?
+TEXT_AKTKMD102_04410_CUSTOMER04410_000_222	Sí, la vi... ¡incluido el momento exacto en que ese pobre desgraciado se transformó! ¡Malditos los dioses por ponerme ahí!
+TEXT_AKTKMD102_04410_CUSTOMER04410_000_223	Empezó allá, junto a la ventana. Unos cuantos hombres, mercaderes, seguramente. Charlando y tomando.
+TEXT_AKTKMD102_04410_CUSTOMER04410_000_224	La conversación debe de haberse puesto fea. Lo siguiente que veo es que su jefe, supongo que lo era, hunde la cabeza entre las manos, ¡y una niebla negra empieza a arremolinarse a su alrededor!
+TEXT_AKTKMD102_04410_CUSTOMER04410_000_225	Después todo su cuerpo... estalla, y ahí aparece una bestia horrorosa y babeante... ¡Enorme y repugnante... todo fauces abiertas y ojos saltones!
+TEXT_AKTKMD102_04410_CUSTOMER04410_000_226	Sus amigos empiezan a chillar, después vuelve la niebla negra, hasta que el cambio se los lleva a ellos también... Una auténtica pesadilla, se lo digo...
+TEXT_AKTKMD102_04410_GRAHATIA_000_227	Una pesadilla, sin duda... Por cierto, ¿sabe por casualidad quiénes eran esos mercaderes?
+TEXT_AKTKMD102_04410_CUSTOMER04410_000_228	No, yo soy decorador de oficio. No tengo muchos motivos para tratar con gente así.
+TEXT_AKTKMD102_04410_CUSTOMER04410_000_229	Pero vi a Mihleel, la camarera, charlando con ellos. Quizás ella sepa algo.
+TEXT_AKTKMD102_04410_CUSTOMER04410_000_230	Para cuando terminó, cada hombre de esa mesa se había convertido en alguna cosa horrorosa. Los demás tuvimos suerte de escapar con vida...
+TEXT_AKTKMD102_04410_RHULMEIRA_000_240	Aunque reparemos todos los daños, va a pasar un tiempo hasta que el negocio vuelva a repuntar...
+TEXT_AKTKMD102_04410_RHULMEIRA_000_241	Aunque reparemos todos los daños, va a pasar un tiempo hasta que el negocio vuelva a repuntar...
+TEXT_AKTKMD102_04410_RHULMEIRA_000_242	¿Se refiere a la blasfemia? Así la llaman los Radiant, por lo menos.
+TEXT_AKTKMD102_04410_RHULMEIRA_000_243	Yo también la vi. Todos la vimos. Estaba aquí en el mostrador mientras Mehryde me servía un trago, cuando de repente se oyó un sonido espantoso, como un gemido de dolor y de rabia.
+TEXT_AKTKMD102_04410_RHULMEIRA_000_244	No se parecía a nada que hubiera oído nunca. Me di vuelta asustada, y de una nube siniestra de niebla negra surgió la criatura, enorme y espantosa.
+TEXT_AKTKMD102_04410_RHULMEIRA_000_245	En cuanto a lo que pasó después... recordarlo me da escalofríos. Por un golpe de suerte, logré escabullirme afuera antes de que la bestia me echara las garras...
+TEXT_AKTKMD102_04410_RHULMEIRA_000_246	Pero lo que vi afuera no me dio ningún consuelo: el cielo azul se había vuelto rojo como la sangre. Mehryde, yo y los demás sobrevivientes nos aferramos unos a otros por nuestra vida hasta que la Radiant Host vino a ayudarnos.
+TEXT_AKTKMD102_04410_GRAHATIA_000_247	...Un momento. ¿Oí bien? ¿La bestia apareció <italic(1)>antes<italic(0)> de que el cielo empezara a arder?
+TEXT_AKTKMD102_04410_RHULMEIRA_000_248	Estoy segura. Las ventanas de aquí dan una vista clara del cielo, y no vi nada fuera de lo común hasta que apareció la bestia y empezó a arrasar.
+TEXT_AKTKMD102_04410_RHULMEIRA_000_249	Aunque no hayan venido a tomar, ¿por qué no se quedan un rato para que el lugar se vea menos vacío? Solo les pido que cuiden la alfombra. Quizás haya algunas manchas de sangre escondidas debajo...
+TEXT_AKTKMD102_04410_GRAHATIA_000_260	Palabras preocupantes, como mínimo. Pero es demasiado pronto para sacar conclusiones. Hablemos con esa Mihleel, a ver si puede darnos más detalles.
+TEXT_AKTKMD102_04410_MIHLEEL_000_265	Ah... hola. Bienvenidos a Mehryde's Meyhane. ¿Qué les sirvo?
+TEXT_AKTKMD102_04410_MIHLEEL_000_270	Ah... hola. Bienvenidos a Mehryde's Meyhane. ¿Qué les sirvo?
+TEXT_AKTKMD102_04410_GRAHATIA_000_271	No venimos por bebidas, sino por información. Usted es Mihleel, ¿no?
+TEXT_AKTKMD102_04410_GRAHATIA_000_272	Estamos investigando la llamada blasfemia en nombre del satrap. Nos dicen que fue uno de sus clientes, un mercader, el primero en transformarse. ¿Qué puede contarnos de él?
+TEXT_AKTKMD102_04410_MIHLEEL_000_273	Era... era bastante cliente habitual de aquí, sobre todo últimamente.
+TEXT_AKTKMD102_04410_MIHLEEL_000_274	Se llamaba Khalzahl. Dirigía su propio consorcio, que se dedicaba sobre todo a exportar especialidades de Thavnair.
+TEXT_AKTKMD102_04410_Q4_000_275	¿Qué dices?
+TEXT_AKTKMD102_04410_A4_000_276	¿Dónde oí ese nombre antes...?
+TEXT_AKTKMD102_04410_A4_000_277	Gracias a él conocimos a Matsya.
+TEXT_AKTKMD102_04410_GRAHATIA_000_278	Sin duda me suena. Ahora que lo pienso, ¿no conociste a un Khalzahl cuando viniste a Thavnair por primera vez?
+TEXT_AKTKMD102_04410_GRAHATIA_000_279	Si mal no recuerdo... dirigía un negocio comercial en Yedlihmad. Gracias a él los Scions conocieron al pescador Matsya.
+TEXT_AKTKMD102_04410_GRAHATIA_000_280	Sí, los nombres me suenan. ¿No los conociste a los dos en tu primer viaje a Thavnair?
+TEXT_AKTKMD102_04410_GRAHATIA_000_281	Si mal no recuerdo... Khalzahl dirigía un negocio comercial en Yedlihmad, y fue allí donde conociste a Matsya.
+TEXT_AKTKMD102_04410_MIHLEEL_000_282	Sí... es el mismo Khalzahl, sin duda. Un hombre bastante exitoso, por lo que sé.
+TEXT_AKTKMD102_04410_MIHLEEL_000_283	Dicho esto, estaba claro que últimamente pasaba por tiempos difíciles. Esas torres espantosas que aparecían por todas partes no pueden haber sido buenas para el negocio.
+TEXT_AKTKMD102_04410_MIHLEEL_000_284	Incluso ahora, sin las torres, el colapso del Imperio trajo todo tipo de problemas en otras partes. El mercado de lujos seguramente ya no es lo que era...
+TEXT_AKTKMD102_04410_GRAHATIA_000_285	Tiempos difíciles para el jefe de un consorcio comercial, sin duda...
+TEXT_AKTKMD102_04410_MIHLEEL_000_286	Khalzahl era un hombre compasivo. Aunque su propio negocio sufría, hacía lo que podía por los artesanos, pescadores y tantos otros que contaban con él para vender su mercancía.
+TEXT_AKTKMD102_04410_MIHLEEL_000_287	De hecho, de eso se trataba la reunión de ayer, por lo que pude oír. Pero a medida que lo hablaban, el tono de Khalzahl se volvió grave y sombrío... Y entonces fue cuando... cuando...
+TEXT_AKTKMD102_04410_GRAHATIA_000_288	Perdóneme. No quiero que recuerde algo que le duele. Si pudiera, le haría solo una pregunta más.
+TEXT_AKTKMD102_04410_GRAHATIA_000_289	¿Notó algo raro en Khalzahl en particular? Por favor... ¡cualquier cosa!
+TEXT_AKTKMD102_04410_MIHLEEL_000_290	Lo siento, no se me ocurre nada. Quizás otra persona pueda ayudarlos.
+TEXT_AKTKMD102_04410_MIHLEEL_000_291	Khalzahl vivía para su trabajo, y no tenía familia, que yo sepa. Sus empleados y socios eran los que mejor lo conocían, pero... ellos también se perdieron.
+TEXT_AKTKMD102_04410_MIHLEEL_000_292	Aun así, quizás sus vecinos sepan algo que yo no. Puedo indicarles dónde encontrarlos, si creen que serviría. ¿Qué dicen?
