@@ -1,0 +1,91 @@
+key	text
+TEXT_AKTKMH108_04533_SEQ_00	Montichaigne te espera para darte más instrucciones.
+TEXT_AKTKMH108_04533_TODO_00	Habla con el paje del índice mientras Y'shtola te acompaña.
+TEXT_AKTKMH108_04533_TODO_01	Busca las notas de investigación de la casa Daemir.
+TEXT_AKTKMH108_04533_TODO_02	Entrégale el <italic(1)>Epiphanies of House Daemir<italic(0)> a Y'shtola.
+TEXT_AKTKMH108_04533_TODO_03	Habla con Y'shtola.
+TEXT_AKTKMH108_04533_TODO_04	Habla con Nidhana en el Great Work.
+TEXT_AKTKMH108_04533_TODO_05	Examina el charco de agua con alta densidad astral.
+TEXT_AKTKMH108_04533_TODO_06	Entrégale el frasco de agua de aspecto astral a Y'shtola.
+TEXT_AKTKMH108_04533_YSHTOLA_000_001	Me gustaría partir en cuanto estés list<if(gnum4,a,o)>.
+TEXT_AKTKMH108_04533_MONTICHAIGNE_000_010	Supongo que irán directamente a los archivos desde aquí.
+TEXT_AKTKMH108_04533_YSHTOLA_000_011	Supone bien.
+TEXT_AKTKMH108_04533_MONTICHAIGNE_000_012	Entonces, cuando lleguen, hablen con el paje del índice. Tiene instrucciones de darles acceso a la sección restringida.
+TEXT_AKTKMH108_04533_YSHTOLA_000_013	Excelente. Una vez más, le agradecemos toda su ayuda.
+TEXT_AKTKMH108_04533_MONTICHAIGNE_000_014	Oh, fue un placer, créanme. ¡Que encuentren el conocimiento que buscan!
+TEXT_AKTKMH108_04533_YSHTOLA_000_015	¿Vamos?
+TEXT_AKTKMH108_04533_SYSTEM_000_016	Y'shtola te acompaña. Mantenla a tu lado para avanzar en los objetivos de la misión.
+TEXT_AKTKMH108_04533_SYSTEM_000_017	Puedes dejar atrás a Y'shtola si entras en otra zona, o si hablas con ella y eliges la opción de separarse.
+TEXT_AKTKMH108_04533_SYSTEM_000_018	Si quieres que Y'shtola vuelva a acompañarte, regresa y habla con ella en el lugar original.
+TEXT_AKTKMH108_04533_YSHTOLA_000_020	Pensar que las instrucciones que imaginé en broma quizás existan a unos pocos yalms de donde me encontraste durmiendo...
+TEXT_AKTKMH108_04533_YSHTOLA_000_021	Si hubiera sabido antes de las hazañas de Alzadaal III, me habría ahorrado días de investigación. Hasta un libro para niños me habría orientado.
+TEXT_AKTKMH108_04533_YSHTOLA_000_022	Para lograr lo imposible, hay que tener una mente flexible y mirar más allá de lo establecido. Una lección que ya había aprendido, pero que está claro que no me tomé en serio.
+TEXT_AKTKMH108_04533_Q1_000_000	¿Qué haces?
+TEXT_AKTKMH108_04533_A1_000_001	Hablar.
+TEXT_AKTKMH108_04533_A1_000_002	Separarse.
+TEXT_AKTKMH108_04533_A1_000_003	Nada.
+TEXT_AKTKMH108_04533_A1_000_004	<colortype(548)>Hablar del Noumenon.<colortype(0)>
+TEXT_AKTKMH108_04533_YSHTOLA_000_051	Vamos, <split(<string(gstr1)>, ,1)>. El Noumenon y su saber prohibido nos esperan.
+TEXT_AKTKMH108_04533_SYSTEM_000_052	¿Seguro que quieres separarte de Y'shtola?
+TEXT_AKTKMH108_04533_YSHTOLA_000_053	Muy bien, pero por favor vuelve pronto. Te esperaré en el annex.
+TEXT_AKTKMH108_04533_YSHTOLA_000_054	¿Ahora sí estás list<if(gnum4,a,o)>? ¿Ninguna tarea o recado olvidado que te llame? Bien, ¡los tomos prohibidos nos esperan!
+TEXT_AKTKMH108_04533_GUIDE04533_000_055	TeNgO iNsTrUcCiOnEs De PeRmItIrLe La EnTrAdA. a UsTeD y A lA aRcHoN y'ShToLa. El PeRmIsO nO aPlIcA pArA eNtRaDaS pOr SePaRaDo.
+TEXT_AKTKMH108_04533_SYSTEM_000_056	Debes ir acompañad<if(gnum4,a,o)> de Y'shtola y tenerla a tu lado para avanzar en los objetivos de la misión.
+TEXT_AKTKMH108_04533_SYSTEM_000_057	Y'shtola todavía no llegó. Asegúrate de que esté a tu lado antes de intentar continuar.
+TEXT_AKTKMH108_04533_GUIDE04533_000_058	ArChOn Y'sHtOlA e InViTaDo IdEnTiFiCaDoS. ¿dEsEaN pAsAr A lOs ArChIvOs ReStRiNgIdOs?
+TEXT_AKTKMH108_04533_GUIDE04533_000_059	SíGaNmE, pOr FaVoR. cUiDeN dÓnDe PiSaN, y TeNgAn En CuEnTa QuE sE dEsAcOnSeJa El UsO dE lLaMaS aBiErTaS.
+TEXT_AKTKMH108_04533_GUIDE04533_000_080	¿DeSeAn PaSaR a LoS aRcHiVoS rEsTrInGiDoS?
+TEXT_AKTKMH108_04533_Q2_000_081	¿Entrar en los archivos restringidos?
+TEXT_AKTKMH108_04533_GUIDE04533_000_100	¡PrOhIbIdO fUmAr! ¡PrOhIbIdO lAnZaR lIbRoS! ¡y PrOhIbIdO gRiTaR "¡eUrEkA!" cOn UnA vOz MoLeStAmEnTe FuErTe!
+TEXT_AKTKMH108_04533_YSHTOLA_000_105	Tantos libros que todavía no leí...
+TEXT_AKTKMH108_04533_YSHTOLA_000_110	Sí, sí, venimos por un volumen específico. No hace falta que me lo recuerdes.
+TEXT_AKTKMH108_04533_SYSTEM_000_120	(-Diario sin título de un orfebre-)<italic(1)>Hoy, en un mundo que no es el mío, conocí a la criatura nacida del vacío más hermosa. Era tan distinta de sus hermanos voraces. Sus ojos no ardían de hambre, sino que temblaban, como la llama de una vela que amenaza con apagarse en cualquier momento.<italic(0)>
+TEXT_AKTKMH108_04533_SYSTEM_000_121	(-Diario sin título de un orfebre-)<italic(1)>Me pregunto si "ella" es siquiera la palabra correcta. Esas distinciones parecen intrascendentes. Insignificantes, incluso.<italic(0)>
+TEXT_AKTKMH108_04533_SYSTEM_000_122	(-Diario sin título de un orfebre-)<italic(1)>¡Lo único que importa es el amor que siento por este ser exquisito y trascendente!<italic(0)>
+TEXT_AKTKMH108_04533_SYSTEM_000_123	Aunque te tienta seguir leyendo, este no parece ser el volumen que buscas...
+TEXT_AKTKMH108_04533_SYSTEM_000_124	(-<italic(1)>Primal Disquisitions<italic(0)>-)<italic(1)>En el año 1564 de la Sexta Era Astral, los Amalj'aa invocaron a Ifrit, su dios patrono. Los relatos lo describen como un ser gigantesco, parecido a un lagarto, con un poderoso dominio de la magia de aspecto fuego.<italic(0)>
+TEXT_AKTKMH108_04533_SYSTEM_000_125	(-<italic(1)>Primal Disquisitions<italic(0)>-)<italic(1)>Si consideramos que la invocación de un primal es un acto alimentado por la fe y la plegaria, no sorprende, y hasta cabe esperar, que la entidad deiforme resultante manifieste la apariencia y los poderes que le atribuyen sus fieles.<italic(0)>
+TEXT_AKTKMH108_04533_SYSTEM_000_126	(-<italic(1)>Primal Disquisitions<italic(0)>-)<italic(1)>¿Qué podría surgir entonces del aether si quien cree en una omnisciencia todopoderosa intentara el mismo ritual? ¿Nos honraría con Su presencia el Scholar mismo? ¿Alguna otra encarnación de la sabiduría divina?<italic(0)>
+TEXT_AKTKMH108_04533_SYSTEM_000_127	(-<italic(1)>Primal Disquisitions<italic(0)>-)<italic(1)>¿Podría este dios hecho por el hombre saberlo todo de verdad? Y si así fuera, ¿de dónde surgiría ese conocimiento?<italic(0)>
+TEXT_AKTKMH108_04533_SYSTEM_000_128	(-<italic(1)>Primal Disquisitions<italic(0)>-)<italic(1)>Yo mismo tengo muchas preguntas sobre la naturaleza del mundo antiguo. A falta de un hechizo que me lleve a los días de antaño, ¿podría en cambio invocar a un ser dotado de una sabiduría enciclopédica de todas las épocas? Pero sin forma de verificar lo que diga, ¿cómo estar seguro de que es cierto?<italic(0)>
+TEXT_AKTKMH108_04533_SYSTEM_000_129	Aunque las posibilidades que plantea te dan vueltas en la cabeza, este no parece ser el volumen que buscas...
+TEXT_AKTKMH108_04533_SYSTEM_000_130	(-<italic(1)>Epiphanies of House Daemir<italic(0)>-)<italic(1)>Las páginas siguientes detallan un método avanzado para manipular aberturas que cruzan la grieta, ideado por Nuhashahn, noveno patriarca de la casa Daemir.<italic(0)>
+TEXT_AKTKMH108_04533_SYSTEM_000_131	(-<italic(1)>Epiphanies of House Daemir<italic(0)>-)<italic(1)>Presentamos estas notas de investigación al cuerpo docente del Studium de Sharlayan como muestra de nuestra amistad y expresión de nuestra admiración sin límites.<italic(0)>
+TEXT_AKTKMH108_04533_SYSTEM_000_132	Parece que encontraste el volumen prohibido que buscas. Y'shtola tendrá que hacer la confirmación final...
+TEXT_AKTKMH108_04533_YSHTOLA_000_150	¿Tienes algo que mostrarme? Perdón: abrí un solo libro y me absorbió por completo...
+TEXT_AKTKMH108_04533_YSHTOLA_000_151	Bien hecho, <split(<string(gstr1)>, ,1)>. Creo que encontraste nuestro premio.
+TEXT_AKTKMH108_04533_GUIDE04533_000_200	FeLiCiTaCiOnEs PoR eNcOnTrAr El ObJeTo De Su BúSqUeDa. PoR fAvOr, SiGaN cIrCuLaNdO.
+TEXT_AKTKMH108_04533_YSHTOLA_000_210	Por mucho que me encantaría empezar a fabricar el Atomos, me temo que esto está muy lejos de mi especialidad.
+TEXT_AKTKMH108_04533_YSHTOLA_000_211	Por suerte, conocemos a una alquimista hannish a la que le encantará sumarse a nuestro proyecto de la casa Daemir.
+TEXT_AKTKMH108_04533_YSHTOLA_000_212	Por ahora, terminamos aquí. Por favor, transmite nuestros saludos al Forum.
+TEXT_AKTKMH108_04533_GUIDE04533_000_213	Su MeNsAjE sErÁ tRaNsMiTiDo. Si DeSeAn DaRsE eL gUsTo CoN mÁs LiTeRaTuRa PrOhIbIdA, aQuÍ eStArÉ. mOdO uSuArIo DeSaCtIvAdO. mOdO sEgUrIdAd AcTiVaDo.
+TEXT_AKTKMH108_04533_YSHTOLA_000_214	Si alguien puede ayudarnos, es Nidhana. Propongo volver a Thavnair y buscarla en el Great Work.
+TEXT_AKTKMH108_04533_YSHTOLA_000_250	Tantas caras pálidas y sin dormir, pero sus ojos todavía arden de entusiasmo. Hay cosas que nunca cambian.
+TEXT_AKTKMH108_04533_NIDHANA_000_260	¡Y'shtola me cuenta que están haciendo un estudio fascinante! Y que quieren que <italic(1)>yo<italic(0)> participe.
+TEXT_AKTKMH108_04533_YSHTOLA_000_261	No me cabe duda de que te interesará. Este registro de investigación habla por sí solo.
+TEXT_AKTKMH108_04533_NIDHANA_000_262	¿Ah, sí...?
+TEXT_AKTKMH108_04533_NIDHANA_000_263	¡Por las Hermanas! ¡Este es el sello de la casa Daemir! Ni siquiera sabía que existía una obra así...
+TEXT_AKTKMH108_04533_YSHTOLA_000_264	Pocos deberían saberlo. Después de todo, estaba guardada en los archivos restringidos del Noumenon.
+TEXT_AKTKMH108_04533_NIDHANA_000_265	¡¿En serio?! Pero... ¡eso significa que cada palabra que contiene es <italic(1)>saber prohibido<italic(0)>!
+TEXT_AKTKMH108_04533_NIDHANA_000_266	¡¿Un tomo prohibido lleno de investigación prohibida, y me lo pones así nomás en la mano?!
+TEXT_AKTKMH108_04533_NIDHANA_000_267	¡No veo la hora de leerlo!
+TEXT_AKTKMH108_04533_NIDHANA_000_268	Pensar que los Daemir desarrollaban técnicas tan maravillosas hace tanto tiempo. Me pregunto cuántas innovaciones se perdieron con los siglos...
+TEXT_AKTKMH108_04533_YSHTOLA_000_269	Ahora que echaste un vistazo a las notas, ¿qué dices de ayudarnos a construir un nuevo Atomos artificial?
+TEXT_AKTKMH108_04533_NIDHANA_000_270	¡Digo que sí! ¡Mil veces sí!
+TEXT_AKTKMH108_04533_NIDHANA_000_271	¿Trabajar en un proyecto de los Daemir que hizo temblar en sus sandalias hasta a los temibles eruditos de Sharlayan? ¡Ningún alquimista del Great Work podría resistirse!
+TEXT_AKTKMH108_04533_YSHTOLA_000_272	Eres una mujer de las que me gustan.
+TEXT_AKTKMH108_04533_NIDHANA_000_273	Oh, supongo que debería preguntar: ¿qué piensan hacer con este simulacro bocón una vez que lo construyamos?
+TEXT_AKTKMH108_04533_NIDHANA_000_274	¿Así que hay una puerta del vacío secreta... y está sellada en las ruinas del fondo del Bounty? Hoy sí que es un día de revelaciones.
+TEXT_AKTKMH108_04533_NIDHANA_000_275	Si el propósito de nuestro Atomos artificial es ampliar este portal oculto, creo que voy a tener que verlo con mis propios ojos. Manipular aberturas que cruzan la grieta no es algo que se deba intentar sin tener en cuenta antes cada factor.
+TEXT_AKTKMH108_04533_YSHTOLA_000_276	Entonces, por supuesto, acompáñanos a la bóveda. Pienso volver allí en breve... una vez que terminemos de reunir los componentes que necesito.
+TEXT_AKTKMH108_04533_YSHTOLA_000_277	Los mercados de Sharlayan me dieron la aguamarina en bruto y los cristales de agua puros...
+TEXT_AKTKMH108_04533_YSHTOLA_000_278	Pero quizás necesite ayuda para conseguir un poco de agua impregnada de energía astral.
+TEXT_AKTKMH108_04533_NIDHANA_000_279	Para un líquido así, no hace falta ir más lejos que el Font of Maya: los ascetas de antaño preferían ese lugar para sus meditaciones, y se sabe que el agua que se junta ahí aviva el flujo del aether.
+TEXT_AKTKMH108_04533_YSHTOLA_000_280	Suena perfecto. Si fueras tan amable de llenar un frasco en el estanque, le pediré a Vrtra que se nos una. La idea que tengo en mente no servirá de mucho sin su autoridad para dominar la puerta del vacío.
+TEXT_AKTKMH108_04533_YSHTOLA_000_281	¿Manos a la obra, entonces? Nos vemos aquí en un rato.
+TEXT_AKTKMH108_04533_NIDHANA_000_300	Ah, no hay mayor alegría que tener un nuevo enigma en qué pensar...
+TEXT_AKTKMH108_04533_VARSHAHN_000_400	La Archon Y'shtola me pidió que me uniera a ustedes, pero de sus planes dio muy pocos detalles...
+TEXT_AKTKMH108_04533_ESTINIEN_000_405	Al chico Mehrahd le alegró la noticia de la fundación. Significa una vida nueva para él y su hermana.
+TEXT_AKTKMH108_04533_NIDHANA_000_410	¡Oh, me olvidé de decirle! El Font of Maya atrae fauna agresiva, y debería tener cuidado cuando, eh... vaya la próxima vez. Mis disculpas.
+TEXT_AKTKMH108_04533_YSHTOLA_000_420	¿Tienes ese frasco para mí?
+TEXT_AKTKMH108_04533_YSHTOLA_000_421	Sí... esto debería bastar. Gracias, <split(<string(gstr1)>, ,1)>.

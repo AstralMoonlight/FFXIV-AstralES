@@ -1,0 +1,150 @@
+key	text
+TEXT_AKTKMI108_04599_SEQ_00	Y'shtola, que nunca se queda quieta, quiere ocuparse de un recado.
+TEXT_AKTKMI108_04599_TODO_00	Habla con Mehryde.
+TEXT_AKTKMI108_04599_TODO_01	Habla con el asistente de Meghaduta.
+TEXT_AKTKMI108_04599_TODO_02	Habla con Zero y pídele que te acompañe.
+TEXT_AKTKMI108_04599_TODO_03	Habla con Mihleel mientras Varshahn y Zero te acompañan.
+TEXT_AKTKMI108_04599_TODO_04	Ve al Balshahn Bazaar acompañad<if(gnum4,a,o)> de Varshahn y Zero, y habla con Zero en el lugar indicado.
+TEXT_AKTKMI108_04599_TODO_05	Habla con Isu mientras Varshahn y Zero te acompañan.
+TEXT_AKTKMI108_04599_TODO_06	Ve a Windweft acompañad<if(gnum4,a,o)> de Varshahn y Zero, y habla con Zero en el lugar indicado.
+TEXT_AKTKMI108_04599_TODO_07	Habla con Zero.
+TEXT_AKTKMI108_04599_ESTINIEN_000_001	Mi aposento es muy parecido a este. Demasiado lujoso para mi gusto, pero al menos tiene espacio para entrenar.
+TEXT_AKTKMI108_04599_VARSHAHN_000_005	Parece que aquí está mejor. Alabadas sean las Hermanas...
+TEXT_AKTKMI108_04599_SYSTEM_000_010	La respiración de Zero parece menos forzada que en el Thirteenth.
+TEXT_AKTKMI108_04599_MEGHADUTAEMPLOYEE_000_015	Ah, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Si me sigue, le mostraré los aposentos de huéspedes.
+TEXT_AKTKMI108_04599_SYSTEM_000_020	¿Ir a los aposentos de huéspedes de Meghaduta?
+TEXT_AKTKMI108_04599_YSHTOLA_000_030	Si me disculpan, quiero visitar el High Crucible.
+TEXT_AKTKMI108_04599_YSHTOLA_000_031	Aunque las escamas funcionaron de maravilla, sería prudente que las revisen en busca de señales de deterioro.
+TEXT_AKTKMI108_04599_VARSHAHN_000_032	Por supuesto. Yo haré lo mismo con este cuerpo.
+TEXT_AKTKMI108_04599_ESTINIEN_000_033	Entonces iré a reunirme con los soldados. A contarles lo que aprendí peleando contra voidsent en el Thirteenth.
+TEXT_AKTKMI108_04599_VARSHAHN_000_034	¿Y usted, amig<if(gnum4,a,o)>? ¿Tiene algún plan inmediato?
+TEXT_AKTKMI108_04599_Q1_000_000	¿Qué dices?
+TEXT_AKTKMI108_04599_A1_000_001	Nada en particular.
+TEXT_AKTKMI108_04599_A1_000_002	Solo me preocupa Zero.
+TEXT_AKTKMI108_04599_A1_000_003	Quizás vaya a atender mi isla.
+TEXT_AKTKMI108_04599_VARSHAHN_000_036	En ese caso, ¿podría molestarl<if(gnum4,a,o)> con una pequeña tarea?
+TEXT_AKTKMI108_04599_VARSHAHN_000_037	En ese caso, ¿podría molestarl<if(gnum4,a,o)> con una pequeña tarea?
+TEXT_AKTKMI108_04599_VARSHAHN_000_038	¿En serio? Si hubiera sabido que tenía esos intereses, le habría encargado el desarrollo de nuestras islas cercanas para atraer visitantes.
+TEXT_AKTKMI108_04599_VARSHAHN_100_038	En todo caso, si no tiene prisa, ¿podría molestarl<if(gnum4,a,o)> antes con una pequeña tarea?
+TEXT_AKTKMI108_04599_VARSHAHN_000_039	Verá, quiero tener comida lista para Zero cuando despierte. ¿Estaría dispuest<if(gnum4,a,o)> a ir a Mehryde's Meyhane y pedir algo adecuado?
+TEXT_AKTKMI108_04599_VARSHAHN_000_041	Excelente. Mientras tanto, Nidhana cuidará de Zero. Ya viene en camino.
+TEXT_AKTKMI108_04599_VARSHAHN_000_042	Ocupémonos entonces cada uno de lo suyo y volvamos a reunirnos en un rato.
+TEXT_AKTKMI108_04599_MEHRYDE_000_100	¡Bienvenid<if(gnum4,a,o)> a Mehryde's Meyhane! Póngase cómod<if(gnum4,a,o)>, por favor.
+TEXT_AKTKMI108_04599_MEHRYDE_000_101	¿Qué? ¿Una huésped del satrap se desmayó de hambre?
+TEXT_AKTKMI108_04599_MEHRYDE_000_102	Por supuesto que con gusto ayudo. Solo dígame qué desea.
+TEXT_AKTKMI108_04599_Q3_000_000	¿Qué dices?
+TEXT_AKTKMI108_04599_A3_000_001	Su plato más caro, por las dudas.
+TEXT_AKTKMI108_04599_A3_000_002	Algo ligero y refrescante. Fruta, quizás.
+TEXT_AKTKMI108_04599_A3_000_003	Una comida contundente y abundante, con mucha carne.
+TEXT_AKTKMI108_04599_A3_000_004	Con una cantidad modesta de aether de un mortal vivo debería bastar.
+TEXT_AKTKMI108_04599_MEHRYDE_100_102	Aunque desde luego se puede preparar, me temo que sería demasiado pesado para alguien que sale de un largo sueño.
+TEXT_AKTKMI108_04599_MEHRYDE_101_102	Yo le recomendaría algo más suave para el estómago, como estas manzanas. ¡Son dulces, jugosas y nutritivas!
+TEXT_AKTKMI108_04599_MEHRYDE_110_102	Ah, sí, eso sería perfecto para alguien que sale de un largo sueño. Llévese estas manzanas, entonces. Acaban de llegar, y le garantizo que están frescas.
+TEXT_AKTKMI108_04599_MEHRYDE_120_102	Aunque eso podría ser perfecto para un aventurero que se prepara para saquear una bóveda del tesoro, me temo que sería demasiado para alguien que sale de un largo sueño.
+TEXT_AKTKMI108_04599_MEHRYDE_121_102	Yo le recomendaría algo más suave para el estómago, como estas manzanas. Acaban de llegar, y le garantizo que están frescas.
+TEXT_AKTKMI108_04599_MEHRYDE_130_102	Eh, me temo que no servimos ese... manjar en particular...
+TEXT_AKTKMI108_04599_MEHRYDE_131_102	Si me permite, le recomendaría algo suave para el estómago, como estas manzanas. Acaban de llegar, y le garantizo que están frescas.
+TEXT_AKTKMI108_04599_MEHRYDE_000_103	Después, cuando su huésped se sienta mejor, será bienvenida a probar todo lo demás que podamos ofrecerle. ¡Solo avíseme!
+TEXT_AKTKMI108_04599_MEHRYDE_000_200	Oh, esto fue hace un tiempo, pero el Profesor Jalheen y Azahma se pusieron felices al saber que volvió sano y salvo de la bóveda del tesoro. Así que lo celebraron, y metieron en la fiesta a casi todos los demás clientes.
+TEXT_AKTKMI108_04599_MEHRYDE_000_205	Hacía mucho que la meyhane no estaba tan animada. Mihleel y yo apenas dábamos abasto para mantener el orden, pero nosotras también compartimos su alegría.
+TEXT_AKTKMI108_04599_MEGHADUTAEMPLOYEE_000_210	Ah, bienvenid<if(gnum4,a,o)> de vuelta. Para que no se preocupe, la señora Nidhana cuidó muy bien a nuestra huésped.
+TEXT_AKTKMI108_04599_MEGHADUTAEMPLOYEE_100_210	¿Va a reunirse con ellas ahora?
+TEXT_AKTKMI108_04599_SYSTEM_000_211	¿Ir a los aposentos de huéspedes de Meghaduta?
+TEXT_AKTKMI108_04599_YSHTOLA_000_300	Mientras estaba en el High Crucible, hablé con los alquimistas sobre Zero. Si necesitas ayuda, no dudes en avisarles.
+TEXT_AKTKMI108_04599_ESTINIEN_000_305	El Thirteenth era mucho más frío que Thavnair. Esperemos que Zero no vuelva a desmayarse por el calor...
+TEXT_AKTKMI108_04599_NIDHANA_000_310	Si caminar le resulta muy cansador, siempre está el Aethernet. No debería tener problemas para usarlo.
+TEXT_AKTKMI108_04599_VARSHAHN_000_315	Fue un placer mostrarle la ciudad cuando llegó. Disfrutaré hacer lo mismo con Zero.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_320	Este mundo rebosa de aether... Me siento revitalizada con solo estar aquí, en la brisa.
+TEXT_AKTKMI108_04599_VARSHAHN_000_321	Me alegra oír eso. Entonces, ¿hay algún lugar en particular que quiera ver?
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_322	Hmmm...
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_323	Quizás de donde salió esa comida... manzana, ¿no? Aunque no creo que vuelva a desmayarme, estaría bien saber dónde conseguir más si hace falta.
+TEXT_AKTKMI108_04599_VARSHAHN_000_324	Mehryde's Meyhane, entonces. Le presentaré a la jefa de meseras, Mihleel.
+TEXT_AKTKMI108_04599_SYSTEM_000_325	Varshahn y Zero te acompañan. Mantenlos a tu lado para avanzar en los objetivos de la misión.
+TEXT_AKTKMI108_04599_SYSTEM_000_326	Puedes dejar atrás a tus compañeros de misión si entras en otra zona, o si hablas con ellos y eliges la opción de separarse.
+TEXT_AKTKMI108_04599_SYSTEM_000_327	Si quieres que tus compañeros vuelvan a acompañarte, regresa y habla con ellos en el lugar original.
+TEXT_AKTKMI108_04599_SYSTEM_000_400	¿Qué haces?
+TEXT_AKTKMI108_04599_SYSTEM_000_401	Charlar.
+TEXT_AKTKMI108_04599_SYSTEM_000_402	Separarse.
+TEXT_AKTKMI108_04599_SYSTEM_000_403	Nada.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_405	Mientras estaba atada a Zenos, nunca vi ciudades vibrantes como esta. Solo lugares en ruinas, no tan distintos del vacío.
+TEXT_AKTKMI108_04599_VARSHAHN_000_406	¿Recuerda cuando viajamos juntos al puesto avanzado? Si el paseo nos lleva fuera de la ciudad, tendremos que volver a usar los hamsa.
+TEXT_AKTKMI108_04599_SYSTEM_000_411	¿Seguro que quieres separarte de tus compañeros?
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_412	Haz lo que quieras, pero la condición era que me acompañaras. Volveré al palacio.
+TEXT_AKTKMI108_04599_VARSHAHN_000_413	¿Tiene un asunto urgente? Muy bien, l<if(gnum4,a,o)> esperaremos en Meghaduta.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_414	Llegaste. Bien. Podemos seguir.
+TEXT_AKTKMI108_04599_VARSHAHN_000_415	Si ya terminó con sus asuntos, retomemos el paseo.
+TEXT_AKTKMI108_04599_SYSTEM_000_404	<colortype(548)>Hablar de Mehryde's Meyhane.<colortype(0)>
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_100_407	¿Este es el lugar? Aquí el aire es distinto, y no hablo del calor.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_110_407	Tiene una textura, una plenitud, distinta de la de otros lugares.
+TEXT_AKTKMI108_04599_VARSHAHN_120_407	Creo que huele la comida. La cocina hannish es muy aromática, y deliciosa, espero que esté de acuerdo.
+TEXT_AKTKMI108_04599_VARSHAHN_000_409	Podríamos intentar presentarle a Zero a la propia Mehryde, pero es más probable que Mihleel esté disponible.
+TEXT_AKTKMI108_04599_MIHLEEL_000_416	¡Bienvenid<if(gnum4,a,o)> a Mehryde's Meyhane! ¿Viene sin compañía <if([gnum11<12],<if([gnum11<4],esta noche,hoy)>,<if([gnum11<17],hoy,esta noche)>)>?
+TEXT_AKTKMI108_04599_SYSTEM_000_417	Debes ir acompañad<if(gnum4,a,o)> de Varshahn y Zero, y tenerlos a tu lado para avanzar en los objetivos de la misión.
+TEXT_AKTKMI108_04599_SYSTEM_000_418	Tus compañeros todavía no llegaron. Asegúrate de que estén a tu lado antes de intentar continuar.
+TEXT_AKTKMI108_04599_MIHLEEL_000_419	¡Bienvenidos a Mehryde's Meyhane!
+TEXT_AKTKMI108_04599_VARSHAHN_000_420	Saludos, Mihleel. Permítame presentarle a Zero. Es una huésped distinguida, y le pido que se ocupe de sus comidas durante su estadía.
+TEXT_AKTKMI108_04599_MIHLEEL_000_421	¡Ah, sí, Mehryde me contó todo! Por favor, venga cuando tenga hambre. La vamos a cuidar.
+TEXT_AKTKMI108_04599_VARSHAHN_000_422	Fue aquí donde <split(<string(gstr1)>, ,1)> consiguió la manzana.
+TEXT_AKTKMI108_04599_VARSHAHN_100_422	Aunque los cocineros del palacio pueden prepararle lo que desee, sin duda es una comida rápida y práctica.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_100_422	Lo recordaré.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_423	...¿Quiénes son esos que mueven el cuerpo por allá? ¿Es algún ritual relacionado con comer?
+TEXT_AKTKMI108_04599_VARSHAHN_000_426	¿Las bailarinas? Mueven el cuerpo para darle placer a quien las mira.
+TEXT_AKTKMI108_04599_VARSHAHN_000_427	Es una forma de entretenimiento. Parte de nuestra cultura.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_428	Qué complicación innecesaria. Los voidsent preferimos placeres más simples.
+TEXT_AKTKMI108_04599_VARSHAHN_000_429	Puede que ahora sea así, pero su mundo también debió tener alguna vez esas diversiones "complicadas".
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_430	...No lo recuerdo.
+TEXT_AKTKMI108_04599_VARSHAHN_000_431	Bueno, sigamos. Propongo visitar el Balshahn Bazaar, donde se encuentran mercancías de todo el mundo.
+TEXT_AKTKMI108_04599_MIHLEEL_000_500	Comida, bebida o bailarinas: ¡solo ofrecemos lo mejor para su disfrute!
+TEXT_AKTKMI108_04599_MEHRYDE_000_505	Me alegra ver que la huésped de Su Excelencia ya está de pie. Siempre es bienvenida aquí, igual que usted.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_510	¿Para qué son todas estas cosas? ¿Qué hacen aquí?
+TEXT_AKTKMI108_04599_VARSHAHN_000_511	Esto es un mercado, donde la gente compra y vende mercancías. Desde sus primeros días, Radz-at-Han fue un centro comercial, y aquí encontrará no solo productos locales, sino mercancías de tierras lejanas.
+TEXT_AKTKMI108_04599_VARSHAHN_000_512	Debo mencionar que los vendedores en general solo aceptan pago en dinero o tomestones. Si hay algo que desee, yo me encargo.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_513	Así que para eso sirven los tomestones... Los voidsent volvían con ellos a veces, pero nunca supe para qué eran.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_514	Me parecían baratijas inútiles, y no entendía su obsesión con ellos.
+TEXT_AKTKMI108_04599_VARSHAHN_000_515	Hablando de eso, en el Thirteenth no parecía haber tiendas. ¿Nunca hacen tratos en los que se intercambien posesiones?
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_516	Sí, pero rara vez. Hacemos tratos cuando queremos que se haga algo. Si deseamos un objeto, matamos a quien lo tiene.
+TEXT_AKTKMI108_04599_VARSHAHN_000_517	Ya veo, ya veo. Creo que sus tratos se pueden comparar con un empleo. Lo tendré en cuenta.
+TEXT_AKTKMI108_04599_VARSHAHN_000_519	Con eso, sigamos. Propongo ir al High Crucible of Al-Kimiya.
+TEXT_AKTKMI108_04599_ISU_000_600	Nos dijeron que el satrap tiene una huésped especial. ¿No viene con usted?
+TEXT_AKTKMI108_04599_ISU_000_601	¡Vaya, Maestro Vrtra! ¿En qué podemos servirle <if([gnum11<12],<if([gnum11<4],esta noche,esta mañana)>,<if([gnum11<17],hoy,esta noche)>)>? Si viene por su cuerpo, me temo que todavía estamos trabajando en él...
+TEXT_AKTKMI108_04599_VARSHAHN_000_602	No, no, no hay prisa. Tómense todo el tiempo que necesiten, y sepan que confío plenamente en su trabajo.
+TEXT_AKTKMI108_04599_VARSHAHN_000_605	El High Crucible es el hogar de los mejores alquimistas. Ellos crearon mis cuerpos, y también pueden darle curación.
+TEXT_AKTKMI108_04599_VARSHAHN_000_606	Hmmm... Ahora que lo pienso, no se sorprendió en absoluto cuando cambié de forma. ¿Sabía desde el principio cuál era mi naturaleza, que era un alma ocupando un cuerpo que no es mío?
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_607	No es nada raro en nuestro mundo. Cuando tienen la oportunidad, muchos abandonan su cuerpo para quedarse con uno más fuerte.
+TEXT_AKTKMI108_04599_ISU_000_609	¡Oh, usted debe ser la huésped de la que se habla! ¡Teníamos muchísimas ganas de conocerla!
+TEXT_AKTKMI108_04599_ISU_000_610	Si tiene un momento, ¿le gustaría quedarse a tomar un té? ¡Las Hermanas saben que nos encantaría oír sus historias!
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_611	No. Ya comí suficiente por ahora, y siempre puedo conseguir más sin necesidad de charlas tontas.
+TEXT_AKTKMI108_04599_VARSHAHN_000_612	Vamos, vamos, no hace falta negarse de plano. Me atrevo a decir que está cansada, así que dejémoslo para otra ocasión y volvamos a Meghaduta. Si algo le llama la atención en el camino, no dude en decirlo.
+TEXT_AKTKMI108_04599_ISU_000_700	Los voidsent artificiales son un concepto que entendemos bien, pero los voidsent <italic(1)>parciales<italic(0)>... ¡eso sí que pone patas arriba nuestras teorías establecidas! Ojalá tengamos la oportunidad de hablar largo y tendido con ella. Y de hacerle unas cuantas pruebas, quizás...
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_710	...¿Algún tipo de fruta? Aunque son cosas lastimosas. Me imagino que habría que comer muchas para sentirse satisfecho.
+TEXT_AKTKMI108_04599_VARSHAHN_000_711	Son moreras. Aunque los frutos se pueden comer, lo más importante son las hojas, con las que alimentamos a los gusanos de seda. Sin esas criaturas, no tendríamos la seda para hacer nuestro famoso tejido thavnairiano.
+TEXT_AKTKMI108_04599_VARSHAHN_000_712	Además, la corteza del árbol también tiene propiedades medicinales. Sería difícil encontrar una planta más útil.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_713	¿Ah, sí...? Aparte de comida, no le habría encontrado ningún otro propósito.
+TEXT_AKTKMI108_04599_MEHRAHD_000_714	(-Voz de niño conocida-)\<jadeo> ¡Maestro Vrtra! ¡Y <split(<string(gstr1)>, ,1)> también!
+TEXT_AKTKMI108_04599_VARSHAHN_000_715	Pero si es el joven Mehrahd. Y esa debe ser tu hermana, Yahsra. ¿Va todo bien en el orfanato?
+TEXT_AKTKMI108_04599_MEHRAHD_000_716	Sí, Su Excelencia. Los otros niños son muy buenos, y todos nos cuidamos entre nosotros.
+TEXT_AKTKMI108_04599_YAHSRA_000_717	¡Oh, oh! ¡El otro día vino a vernos Estinien! ¡Todos estaban muy emocionados!
+TEXT_AKTKMI108_04599_VARSHAHN_000_718	¿En serio? ¿<italic(1)>Estinien<italic(0)> los visitó?
+TEXT_AKTKMI108_04599_VARSHAHN_100_718	...Me alegra.
+TEXT_AKTKMI108_04599_MEHRAHD_000_719	¿Es una amiga nueva?
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_720	Amiga... ¿Sabes lo que es eso?
+TEXT_AKTKMI108_04599_MEHRAHD_000_721	¡¿Qué?! ¡¿Quieres decir que tú <italic(1)>no<italic(0)>?!
+TEXT_AKTKMI108_04599_VARSHAHN_000_722	Verás, es una visitante de una tierra lejana, y todavía no conoce bien nuestro idioma.
+TEXT_AKTKMI108_04599_YAHSRA_000_723	¡Entonces te enseñamos! ¡Un amigo es alguien con quien te gusta jugar!
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_724	Jugar...
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_725	Zenos parecía divertirse cuando peleaba contigo. ¿Es lo mismo?
+TEXT_AKTKMI108_04599_Q2_000_000	¿Qué dices?
+TEXT_AKTKMI108_04599_A2_000_001	Más o menos.
+TEXT_AKTKMI108_04599_A2_000_002	Para nada.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_100_725	Ya veo. Pero... ¿tener a alguien con quien jugar es tan gratificante? Todavía no entiendo por qué.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_110_725	Entonces no estoy más cerca de entenderlo.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_728	Por qué atravesó la gran extensión, por qué arriesgó la vida... por ti...
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_729	...Pero desperdicio energía pensando en esas cosas. No soy Zenos. No gano nada con conocer su corazón.
+TEXT_AKTKMI108_04599_YAHSRA_000_730	Perdón por no saber explicarlo bien...
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_731	No hace falta que te disculpes. La culpa no es tuya, sino mía por no entender tus palabras.
+TEXT_AKTKMI108_04599_MEHRAHD_000_732	Bueno, mejor volvamos a nuestro mandado.
+TEXT_AKTKMI108_04599_YAHSRA_000_733	¡Adiós! ¡Fue un gusto conocerte!
+TEXT_AKTKMI108_04599_VARSHAHN_000_800	¿Qué es un amigo? Parece una pregunta simple, pero la respuesta es cualquier cosa menos eso. Solo un niño, inocente y puro, podría responder sin un instante de duda.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_810	A través de Zenos, creía entender cómo funcionaba su mundo.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_811	Pero cuanto más aprendo de él, más me doy cuenta de lo poco que sé en realidad. Todo es tan extraño: su comportamiento y sus razones. Me desconcierta a cada paso.
+TEXT_AKTKMI108_04599_MYSTERIOUSPERSON_000_812	...Pero la sensación no me desagrada. Estoy... aprendiendo, de a poco. Fue la decisión correcta unirme a ustedes.

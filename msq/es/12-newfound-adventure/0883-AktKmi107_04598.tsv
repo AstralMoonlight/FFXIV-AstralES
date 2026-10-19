@@ -1,0 +1,44 @@
+key	text
+TEXT_AKTKMI107_04598_SEQ_00	La preocupación se ve clara en el rostro de Varshahn.
+TEXT_AKTKMI107_04598_TODO_00	Habla con el voidsent desertor.
+TEXT_AKTKMI107_04598_TODO_01	Habla con Varshahn.
+TEXT_AKTKMI107_04598_TODO_02	Habla con el asistente de Meghaduta.
+TEXT_AKTKMI107_04598_YSHTOLA_000_001	Supongo que hasta los medio voidsent necesitan descanso. Y su propia morada parece tan buen lugar como cualquier otro.
+TEXT_AKTKMI107_04598_YSHTOLA_100_001	Pero, a diferencia de the Source, aquí casi no hay aether ambiental del que pueda alimentarse...
+TEXT_AKTKMI107_04598_ESTINIEN_000_005	En su estado actual, Zero es presa fácil para otros voidsent. Debemos estar en guardia.
+TEXT_AKTKMI107_04598_SYSTEM_000_010	Aunque tan lento que casi no se percibe, el pecho de Zero sube y baja a un ritmo constante...
+TEXT_AKTKMI107_04598_VARSHAHN_000_020	¿Cuánto tiempo cree que seguirá así?
+TEXT_AKTKMI107_04598_YSHTOLA_000_024	No tengo la menor idea, ni puedo decir si el aether que podemos permitirnos compartir bastará para despertarla.
+TEXT_AKTKMI107_04598_YSHTOLA_000_025	Lo mejor sería llevarla con nosotros a the Source. Allí tendría asegurado todo lo que necesita.
+TEXT_AKTKMI107_04598_VARSHAHN_000_026	Zero no puede dar su consentimiento, pero parece que no tenemos opción. La alternativa sería dejarla aquí, indefensa.
+TEXT_AKTKMI107_04598_VARSHAHN_100_026	Si después lo desea, podemos traerla de vuelta a casa.
+TEXT_AKTKMI107_04598_VARSHAHN_000_027	<split(<string(gstr1)>, ,1)>, ¿podría pedirle que guarde la memoria de Barbariccia? Quizás todavía nos sirva.
+TEXT_AKTKMI107_04598_VOIDSENT04596B_000_028	¿Oh? ¿Qué le pasó?
+TEXT_AKTKMI107_04598_ESTINIEN_000_029	¿Tienes algo que tratar con Zero?
+TEXT_AKTKMI107_04598_VOIDSENT04596B_000_030	Tenemos un recién llegado: un antiguo esbirro de Barbariccia.
+TEXT_AKTKMI107_04598_VOIDSENT04596B_000_031	Avísenle cuando despierte, ¿sí?
+TEXT_AKTKMI107_04598_VARSHAHN_000_032	Un esbirro de Barbariccia...
+TEXT_AKTKMI107_04598_YSHTOLA_000_033	¿Por qué no van a buscar a ese recién llegado? Aunque sea para tener algo que contarle a Zero.
+TEXT_AKTKMI107_04598_VARSHAHN_100_033	Así es...
+TEXT_AKTKMI107_04598_VARSHAHN_000_034	¿Puedo molestarl<if(gnum4,a,o)> para que me acompañe, <split(<string(gstr1)>, ,1)>? Con suerte, quizás averigüemos algo de Golbez.
+TEXT_AKTKMI107_04598_YSHTOLA_000_100	No te preocupes, vigilaremos a Zero. Ve a conocer a ese recién llegado.
+TEXT_AKTKMI107_04598_ESTINIEN_000_105	Cuando cae el líder, los esbirros juran lealtad al enemigo. No hay lealtad, solo supervivencia.
+TEXT_AKTKMI107_04598_VARSHAHN_000_110	Este parece ser el recién llegado.
+TEXT_AKTKMI107_04598_VOIDSENT04598_000_120	\<jadeo> ¡U-Ustedes son los que abatieron a Barbariccia!
+TEXT_AKTKMI107_04598_VOIDSENT04598_100_120	N-No voy a causar problemas. O-Obedeceré. ¡Así que, por favor, déjenme quedarme!
+TEXT_AKTKMI107_04598_VARSHAHN_000_121	Si vas a obedecer, dime todo lo que sabes de Golbez.
+TEXT_AKTKMI107_04598_VOIDSENT04598_000_123	N-No es mucho lo que <italic(1)>puedo<italic(0)> decir. Solo los archidemonios pueden entrar en su dominio, dondequiera que esté. Nadie más que ellos lo sabe.
+TEXT_AKTKMI107_04598_VARSHAHN_000_124	Ya veo... No hay mejor forma de protegerse que mantener en secreto dónde está uno.
+TEXT_AKTKMI107_04598_VARSHAHN_100_124	¿Cómo se comunica Golbez con sus esbirros lejanos?
+TEXT_AKTKMI107_04598_VOIDSENT04598_000_125	Tiene unos... ¿cetros? ¿Báculos? Sean lo que sean, los usa para hablar con los que están lejos.
+TEXT_AKTKMI107_04598_VARSHAHN_000_127	No muy distintos de las linkpearls, al menos en su función...<br>Eso es todo. Gracias por tu cooperación.
+TEXT_AKTKMI107_04598_VARSHAHN_000_128	Y gracias a usted también por dedicarme su tiempo.
+TEXT_AKTKMI107_04598_VARSHAHN_100_128	Estoy satisfecho, así que volvamos con los demás y regresemos a casa.
+TEXT_AKTKMI107_04598_YSHTOLA_000_200	Vrtra ya lo contó todo. Golbez de verdad hace lo imposible por ocultar su paradero.
+TEXT_AKTKMI107_04598_ESTINIEN_000_205	Aunque seguro que Nahbdeen tiene todo bajo control, no puedo evitar preocuparme. No los hagamos esperar.
+TEXT_AKTKMI107_04598_VOIDSENT04598_000_210	Cada vez que Barbariccia movía su dominio, algunos quedaban atrás. Aquí no hay esas preocupaciones.
+TEXT_AKTKMI107_04598_VARSHAHN_000_220	Confío en que entiende que, una vez que salgamos del Thirteenth, no volveremos hasta estar preparados para retomar la búsqueda. Sabiendo esto, ¿está list<if(gnum4,a,o)> para partir?
+TEXT_AKTKMI107_04598_SYSTEM_000_221	No podrás volver libremente al Thirteenth. ¿Seguro que quieres salir?
+TEXT_AKTKMI107_04598_VARSHAHN_000_222	De vuelta a Troia, entonces, y de ahí a casa...
+TEXT_AKTKMI107_04598_MEGHADUTAEMPLOYEE_000_400	<if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,2)>, l<if(gnum4,a,o)> estábamos esperando. Si me sigue, le mostraré los aposentos de huéspedes.
+TEXT_AKTKMI107_04598_SYSTEM_000_401	¿Ir a los aposentos de huéspedes de Meghaduta?

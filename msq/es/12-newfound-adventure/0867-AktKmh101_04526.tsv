@@ -1,0 +1,28 @@
+key	text
+TEXT_AKTKMH101_04526_SEQ_00	Tataru está preparando té y parece querer compañía.
+TEXT_AKTKMH101_04526_SEQ_01	Después de viajar al confín de la existencia y volver, no dejas de preguntarte qué viene ahora. Tataru te pregunta por tus planes, y su idea de volver a tus raíces de aventurer<if(gnum4,a,o)> te toca una fibra. En particular, recuerdas las palabras de Emet-Selch, que te instaba a ver con tus propios ojos las ruinas bajo el Bounty...<br><br>Tataru, que ya se esperaba que volvieran tus ganas de explorar, te cuenta que está confeccionándote una ropa de viaje nueva. Intentas esperar con paciencia mientras corta y cose, pero el cansancio acumulado de salvar un mundo te vence y te quedas dormid<if(gnum4,a,o)> sin querer. Al despertar, Tataru te pide disculpas y te pide que la acompañes a la Diamond Forge, donde quiere darle los últimos toques a tu atuendo.
+TEXT_AKTKMH101_04526_SEQ_02	Tras prometer una espera más corta que la anterior, Tataru se entrega en cuerpo y alma a terminar su obra. Le expresas tu admiración por el resultado, pero en lugar de elogios o pago, te pide que uses el atuendo donde otros aventureros puedan verlo, para despertar el interés por la Tataru Taru's Boutique. ¡Parece que hasta tu regreso a la aventura es una oportunidad de negocio!
+TEXT_AKTKMH101_04526_TODO_00	Habla con Tataru en la Diamond Forge.
+TEXT_AKTKMH101_04526_TATARU_000_001	¡<split(<string(gstr1)>, ,1)>, qué gusto verte!
+TEXT_AKTKMH101_04526_TATARU_000_002	Si no tienes mucha prisa, estaba por preparar té. ¿Quieres una taza?
+TEXT_AKTKMH101_04526_TATARU_000_003	Entonces siéntate, y también te busco algo para picar.
+TEXT_AKTKMH101_04526_TATARU_000_050	¡Observa cómo la artista convierte su pieza en una <italic(1)>obra<italic(0)> maestra!
+TEXT_AKTKMH101_04526_TATARU_000_051	¡Y esta vez nada de siestas! Solo necesito un momento, ¡ya verás!
+TEXT_AKTKMH101_04526_TATARU_000_052	Un poquito más de holgura en los hombros... abrir los puños... un último ajuste al dobladillo...
+TEXT_AKTKMH101_04526_TATARU_000_053	¡Listo! Veamos cómo le queda al maniquí.
+TEXT_AKTKMH101_04526_TATARU_000_054	Y bien, ¿qué te parece? ¿No grita a los cuatro vientos "¡que empiece una gran aventura nueva!"?
+TEXT_AKTKMH101_04526_TATARU_000_055	¡Qué alegría que te guste!
+TEXT_AKTKMH101_04526_Q1_000_000	¿Qué dices?
+TEXT_AKTKMH101_04526_A1_000_001	¡Te luciste, Tataru, gracias!
+TEXT_AKTKMH101_04526_A1_000_002	Y bien, ¿cuánto te debo...?
+TEXT_AKTKMH101_04526_TATARU_000_057	¡Ay, basta, que me haces sonrojar!
+TEXT_AKTKMH101_04526_TATARU_000_058	Ay, no seas tont<if(gnum4,a,o)>. ¡Que te guste es pago suficiente!
+TEXT_AKTKMH101_04526_TATARU_000_059	Pero si de verdad quieres agradecerme, ¡solo te pido que lo uses en tus viajes!
+TEXT_AKTKMH101_04526_TATARU_000_060	O al menos donde se junten muchos aventureros, je, je...
+TEXT_AKTKMH101_04526_TATARU_000_061	Te verán a ti, <if(gnum4,toda una heroína famosa,todo un héroe famoso)>, y se preguntarán: "¿Dónde habrá comprado esa ropa tan elegante y práctica a la vez?"
+TEXT_AKTKMH101_04526_TATARU_000_062	¡Y antes de que te des cuenta, multitudes de clientes nuevos se van a pisotear para hacer pedidos en la Tataru Taru's Boutique!
+TEXT_AKTKMH101_04526_TATARU_000_063	¡Muajaja! Ya puedo oírlo: ¡el alegre clinc-clinc del gil desbordando de mis arcas! ¡Música para mis oídos!
+TEXT_AKTKMH101_04526_TATARU_000_064	Ejem... Dejando de lado los imperios comerciales en ciernes, debes estar emocionad<if(gnum4,a,o)> por empezar un nuevo capítulo de tu vida. Nuevos lugares que visitar, gente nueva que conocer... A menudo me pregunto cómo recuerdas todas tus experiencias y hazañas sin tomar al menos unas notas...
+TEXT_AKTKMH101_04526_TATARU_000_065	¡Oh! ¡Quizás deberías empezar a hacer justo eso! Nunca se sabe cuándo algún detalle viejo puede volverse importante, o si un día te golpearás la cabeza y olvidarás buena parte de la última década. ¡En todo caso, tenlo en cuenta!
+TEXT_AKTKMH101_04526_SYSTEM_000_067	<colortype(500)><edgecolortype(501)>The Unending Codex<edgecolortype(0)><colortype(0)> ya está disponible en Collection, dentro de la sección Duty del menú principal.
+TEXT_AKTKMH101_04526_SYSTEM_000_068	A medida que avances en las misiones de la historia principal, se agregarán al códice entradas sobre términos y personajes destacados.
