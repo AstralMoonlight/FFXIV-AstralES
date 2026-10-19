@@ -1,0 +1,59 @@
+key	text
+TEXT_AKTKME115_04433_SEQ_00	Venat tiene a Argos y a su doble a su lado.
+TEXT_AKTKME115_04433_SEQ_01	Ahora que le demostraste lo que vales, Argos está dispuesto a prestarte su lomo. Venat sugiere que se acerquen al borde para darles a sus monturas un mejor punto de despegue.
+TEXT_AKTKME115_04433_SEQ_02	Argos los lleva a ti y a Venat a la isla, donde al principio no encuentran nada fuera de lo común. Venat sugiere echar un vistazo al pasado, que te revela una conversación en la que Meteion le informa a Hermes sobre el progreso de sus hermanas viajeras de las estrellas. La promesa del supervisor principal de aceptar sus descubrimientos con la mente abierta no da ninguna impresión de que pueda desear un fin apocalíptico para el mundo; de hecho, vuelves a la isla más grande con la intención de pedirle ayuda para resolver el misterio de los Días Finales.
+TEXT_AKTKME115_04433_SEQ_03	Venat te indica que busques a Hermes en Ktisis Hyperboreia, la instalación más grande de Elpis. El camino a esa instalación está al norte de Poieten Oikos, donde un teletransportador te va a llevar a Ethoseletikos Boreas.
+TEXT_AKTKME115_04433_SEQ_04	Llegaste a Ethoseletikos Boreas. Venat está cerca con más instrucciones.
+TEXT_AKTKME115_04433_SEQ_05	La antigua Azem te indica cómo llegar a Ktisis Hyperboreia antes de partir ella misma hacia la instalación. Parece que solo tienes que seguir el camino hasta el cruce y doblar a la izquierda...
+TEXT_AKTKME115_04433_SEQ_06	Te encuentras con Venat en la puerta de la instalación, pero justo cuando vas a entrar, te topas cara a cara con Emet-Selch y Hythlodaeus. Al oír los resultados de sus investigaciones, te das cuenta de que todos llegaron más o menos a las mismas conclusiones sobre el supervisor principal y su investigación. Se acuerda entonces que, si se quiere entender la verdadera naturaleza de los Días Finales, van a necesitar la ayuda del propio Hermes.
+TEXT_AKTKME115_04433_TODO_00	Acércate a Argos.
+TEXT_AKTKME115_04433_TODO_01	Habla con Venat.
+TEXT_AKTKME115_04433_TODO_02	Viaja desde Zephyrneus, al norte, hasta Boreneus, al sur.
+TEXT_AKTKME115_04433_TODO_03	Habla con Venat.
+TEXT_AKTKME115_04433_TODO_04	Habla otra vez con Venat.
+TEXT_AKTKME115_04433_VENAS_000_000	Acerquémonos al borde antes de montar, ¿te parece?
+TEXT_AKTKME115_04433_VENAS_000_001	Así Argos va a poder aprovechar las corrientes que suben desde abajo, y vamos a tener un viaje tranquilo hasta la isla.
+TEXT_AKTKME115_04433_VENAS_000_010	Súbete al lomo de Argos y podemos partir. ...¿Sabes? La verdad, no recuerdo la última vez que llevó a alguien que no fuera yo.
+TEXT_AKTKME115_04433_SYSTEM_000_020	Argos señala su lomo con el hocico. ¡Tienes permiso para subirte!
+TEXT_AKTKME115_04433_Q1_000_021	¿Ir a la isla montad<if(gnum4,a,o)> en Argos?
+TEXT_AKTKME115_04433_SYSTEM_000_022	¡Argos se lanza al aire de un salto poderoso!
+TEXT_AKTKME115_04433_VENAS_000_030	¿No es agradable? Argos sin duda opina que sí.
+TEXT_AKTKME115_04433_VENAS_000_035	A ver, ¿cómo se llamaba ese árbol...?
+TEXT_AKTKME115_04433_VENAS_000_040	Noe... algo... ¡Ah! ¡Noetophoreon! Un ejemplar bastante llamativo, ¿no?
+TEXT_AKTKME115_04433_VENAS_000_045	Prepárate para el aterrizaje: no quisiera que te cayeras en el último momento.
+TEXT_AKTKME115_04433_VENAS_000_050	Hermes podría estar en cualquiera de muchos lugares de Elpis...
+TEXT_AKTKME115_04433_VENAS_000_051	Pero no sería mala idea buscar en Ktisis Hyperboreia, la instalación más grande. Está en Ethoseletikos Boreas, la isla del norte.
+TEXT_AKTKME115_04433_VENAS_000_052	Me pregunto, <split(<string(gstr1)>, ,1)>... Para una institución que dice investigar con esmero a cada especie destinada a liberarse en el mundo, ¿no te preguntaste cómo les encuentran lugar a todas en tan pocas islas?
+TEXT_AKTKME115_04433_VENAS_000_053	La respuesta está en la propia Ktisis. Ya mencioné la técnica en los archivos, donde una zona enorme se une a partir de varios espacios conceptuales. Lo mismo vale para el interior de esta instalación y sus entornos construidos con magia.
+TEXT_AKTKME115_04433_VENAS_000_054	Es allí, dentro de esos hábitats extensos, donde el supervisor principal y la mayoría de los observadores de Elpis hacen el grueso de su trabajo.
+TEXT_AKTKME115_04433_VENAS_000_055	Vamos, la ruta más simple es por el portal al norte de Poieten Oikos...
+TEXT_AKTKME115_04433_SYSTEM_000_060	Este parece ser el teletransportador del que te habló Venat.
+TEXT_AKTKME115_04433_SYSTEM_000_061	Todavía flotan motas de luz en el aire, lo que sugiere que el dispositivo se activó hace muy poco...
+TEXT_AKTKME115_04433_Q2_000_062	¿Ir a Ethoseletikos Boreas?
+TEXT_AKTKME115_04433_VENAS_000_070	Ah, bien, el portal te reconoció como mi invitad<if(gnum4,a,o)>. Ahora deberías tener autorización para usarlo cuando quieras.
+TEXT_AKTKME115_04433_VENAS_000_071	En cuanto al camino a Ktisis Hyperboreia, seguimos este sendero y doblamos a la izquierda en el cruce.
+TEXT_AKTKME115_04433_VENAS_000_080	Aquí estamos: la instalación de investigación más grande de Elpis.
+TEXT_AKTKME115_04433_VENAS_000_081	Deberíamos entrar y preguntar dónde está Hermes...
+TEXT_AKTKME115_04433_HYTHLODAEUS_000_082	(-???-)Hermes está en otra instalación... como acabamos de descubrir.
+TEXT_AKTKME115_04433_HYTHLODAEUS_000_083	Además, confirmamos que sus estudios sobre la dynamis, y también la creación de Meteion, fueron proyectos totalmente privados.
+TEXT_AKTKME115_04433_HYTHLODAEUS_000_084	Nadie con quien hablamos parecía tener el conocimiento del jefe sobre el tema, y tampoco oímos ninguna historia de investigaciones robadas.
+TEXT_AKTKME115_04433_HYTHLODAEUS_000_085	Lo que significa que si el propio Hermes no alberga ningún deseo de provocar un apocalipsis, quizás se lo pueda reclutar para ayudar a evitarlo...
+TEXT_AKTKME115_04433_HYTHLODAEUS_000_086	...O eso dice el ilustre Emet-Selch.
+TEXT_AKTKME115_04433_EMETSELCH_000_087	Según tu historia, los Fourteen descubrieron la conexión entre las corrientes celestes y los Días Finales, pero nunca pudieron determinar la causa de fondo de la calamidad.
+TEXT_AKTKME115_04433_EMETSELCH_000_088	Con las mentes más brillantes de nuestro pueblo (por no hablar de la aguda vista de Hythlodaeus) dedicadas a buscar una solución, ese resultado parece... inconcebible.
+TEXT_AKTKME115_04433_EMETSELCH_000_089	La única explicación posible es que la naturaleza del catalizador fuera tan inexplicable que ni siquiera nosotros lográramos percibirla.
+TEXT_AKTKME115_04433_EMETSELCH_000_090	¿Y qué encaja mejor con esa descripción que la dynamis, invisible e intangible?
+TEXT_AKTKME115_04433_HYTHLODAEUS_000_091	Lo que, a su vez, nos lleva a la siguiente pregunta: ¿cómo es que Hermes, en su papel de Fandaniel, no reconoció el objeto de su propia investigación?
+TEXT_AKTKME115_04433_HYTHLODAEUS_000_092	Hay que suponer que o lo sabía y no pudo ayudar, o que algo le impidió identificar la causa en primer lugar. A estas alturas, solo podemos especular.
+TEXT_AKTKME115_04433_EMETSELCH_000_093	Que quede claro: la Convocation no tolera actos de engaño ni de malicia. Estamos acostumbrados a percibir la verdad, y nos habríamos dado cuenta si Fandaniel nos mentía.
+TEXT_AKTKME115_04433_EMETSELCH_000_094	Hermes no desea conscientemente que el mundo se acabe. De eso estoy seguro.
+TEXT_AKTKME115_04433_VENAS_000_095	Parece que, después de todo, la historia tiene más de lo que parece.
+TEXT_AKTKME115_04433_VENAS_000_096	Verán, nosotros hicimos nuestra propia investigación...
+TEXT_AKTKME115_04433_EMETSELCH_000_097	Qué reconfortante... Parece que llegamos exactamente a la misma conclusión.
+TEXT_AKTKME115_04433_EMETSELCH_000_098	No veo motivo para demorarnos más. Es hora de sumar a Hermes, por así decirlo.
+TEXT_AKTKME115_04433_Q3_000_099	¿Qué dices?
+TEXT_AKTKME115_04433_A3_000_100	Gracias por tu comprensión.
+TEXT_AKTKME115_04433_A3_000_101	...
+TEXT_AKTKME115_04433_EMETSELCH_000_102	Ahórrate las gracias. No dije que creyera tu ridícula historia.
+TEXT_AKTKME115_04433_EMETSELCH_000_103	Esto no quiere decir que crea tu ridícula historia.
+TEXT_AKTKME115_04433_EMETSELCH_000_104	Pero como Emet-Selch, tengo el deber de examinar cualquier posible amenaza a nuestra existencia. Por absurda o personalmente ofensiva que me parezca.

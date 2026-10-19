@@ -1,0 +1,73 @@
+key	text
+TEXT_AKTKME118_04436_SEQ_00	Hythlodaeus tiene una sugerencia.
+TEXT_AKTKME118_04436_TODO_00	Busca a Meteion mientras Emet-Selch te acompaña.
+TEXT_AKTKME118_04436_TODO_01	Sigue buscando a Meteion mientras Emet-Selch te acompaña.
+TEXT_AKTKME118_04436_TODO_02	Revisa la zona mientras Emet-Selch te acompaña.
+TEXT_AKTKME118_04436_TODO_03	Revisa la zona siguiente mientras Emet-Selch te acompaña.
+TEXT_AKTKME118_04436_TODO_04	Habla con Emet-Selch.
+TEXT_AKTKME118_04436_EMETSELCH_000_000	Una búsqueda desesperada no nos va a servir de mucho. Tenemos que ser astutos...
+TEXT_AKTKME118_04436_VENAS_000_005	En los Días Finales, el aether se retuerce por la invasión de la dynamis desde más allá de la estrella, y su avance se intensifica con los sentimientos de miedo, desesperación y angustia...
+TEXT_AKTKME118_04436_VENAS_000_006	No, no me gusta el panorama que se forma con estas últimas piezas.
+TEXT_AKTKME118_04436_HERMES_000_010	Perdón, yo... Deberíamos concentrarnos en lo que tenemos entre manos.
+TEXT_AKTKME118_04436_HYTHLODAEUS_000_020	Corríjanme si me equivoco, pero Meteion se vuelve invisible igualando su densidad aetérica a la de su entorno, ¿no?
+TEXT_AKTKME118_04436_HYTHLODAEUS_000_021	Si es así, ¿no podríamos romper su ocultamiento con un exceso de aether? ¡Así como Emet-Selch solidificó tu presencia cuando te conocimos!
+TEXT_AKTKME118_04436_EMETSELCH_000_022	No seas absurdo. Mal puedo canalizar aether hacia alguien cuyo paradero se me oculta.
+TEXT_AKTKME118_04436_HYTHLODAEUS_000_023	Por eso tenemos que trabajar todos juntos.
+TEXT_AKTKME118_04436_HYTHLODAEUS_000_024	<split(<string(gstr1)>, ,1)> va a seguir buscando igual que antes, pero esta vez contigo a la zaga. Cuando averigüe dónde es probable que esté Meteion, ¡tú revelas a nuestra familiar descarriada con un rápido chaparrón aetérico!
+TEXT_AKTKME118_04436_VENAS_000_025	Muy astuto. Y por suerte, ella misma se volvió más fácil de atrapar al huir hacia Lethe.
+TEXT_AKTKME118_04436_VENAS_000_026	Suponiendo que se vuelva visible, no debería costar mucho arrinconarla.
+TEXT_AKTKME118_04436_HYTHLODAEUS_000_027	Entonces tenemos un plan. <split(<string(gstr1)>, ,1)> y Emet-Selch van a ser el rastreador y el trampero, respectivamente, mientras los demás predecimos y bloqueamos las vías de escape de Meteion.
+TEXT_AKTKME118_04436_HYTHLODAEUS_000_028	Emet-Selch y yo vamos a vigilar el aether del otro para coordinar nuestros esfuerzos. ¡Manos a la obra!
+TEXT_AKTKME118_04436_EMETSELCH_000_029	...Bueno, parece que por ahora somos compañeros. Volvamos adonde vimos a Meteion por última vez y retomemos el rastro desde ahí.
+TEXT_AKTKME118_04436_EMETSELCH_000_030	Yo me mantengo preparado para hacer llover aether en cualquier momento, lo que significa que <italic(1)>tú<italic(0)> te encargas de despejar el camino.
+TEXT_AKTKME118_04436_SYSTEM_000_031	Emet-Selch te acompaña ahora. Mantenlo a tu lado para avanzar con los objetivos de la misión.
+TEXT_AKTKME118_04436_SYSTEM_000_032	Puedes dejar a Emet-Selch atrás si entras a otra zona, o si hablas con él y eliges la opción de separarse.
+TEXT_AKTKME118_04436_SYSTEM_000_033	Si quieres que Emet-Selch vuelva a acompañarte, regresa y habla con él en el lugar original.
+TEXT_AKTKME118_04436_Q1_000_040	¿Qué haces?
+TEXT_AKTKME118_04436_A1_000_041	Hablar.
+TEXT_AKTKME118_04436_A1_000_042	Separarse.
+TEXT_AKTKME118_04436_A1_000_043	Nada.
+TEXT_AKTKME118_04436_EMETSELCH_000_045	A ver, ¿Meteion siguió derecho hacia el muelle... o se desvió del camino en algún lugar?
+TEXT_AKTKME118_04436_EMETSELCH_000_046	Como eres la única persona que puede oír su voz, vas a tener que ir adelante.
+TEXT_AKTKME118_04436_Q2_000_050	¿Seguro que quieres separarte de Emet-Selch?
+TEXT_AKTKME118_04436_EMETSELCH_000_051	¿No eres <italic(1)>tú<italic(0)> quien se tomó la molestia de viajar al pasado para evitar un apocalipsis inminente? ¡Pero bueno, bueno, como quieras! Te espero en la entrada de Lethe.
+TEXT_AKTKME118_04436_EMETSELCH_000_055	Vuelve <if(gnum4,la aspirante a salvadora,el aspirante a salvador)> de la Etheirys pasada y futura. Después de <italic(1)>ti<italic(0)>, <if(gnum4,mi buena heroína,mi buen héroe)>.
+TEXT_AKTKME118_04436_SYSTEM_000_060	Emet-Selch todavía no llegó. Asegúrate de que esté a tu lado antes de intentar continuar.
+TEXT_AKTKME118_04436_SYSTEM_000_070	Deberías tener a Emet-Selch acompañándote antes de intentar revelar a Meteion.
+TEXT_AKTKME118_04436_SYSTEM_000_075	Calmas la mente, y tus sentidos buscan cualquier indicio de la presencia de Meteion...
+TEXT_AKTKME118_04436_SYSTEM_000_076	...Pero no logras oír su voz. Debe de estar en otro lugar.
+TEXT_AKTKME118_04436_EMETSELCH_000_077	¿Nada por aquí? Entonces probamos otra ruta.
+TEXT_AKTKME118_04436_METEION_000_080	(-Meteion-)¿Por qué no puedo volar? ¿¡Me están restringiendo las funciones!?
+TEXT_AKTKME118_04436_METEION_000_081	(-Meteion-)Esconderme... sí, entonces voy a tener que esconderme. Donde nadie me encuentre...
+TEXT_AKTKME118_04436_SYSTEM_000_082	La voz angustiada de Meteion va hacia la orilla...
+TEXT_AKTKME118_04436_EMETSELCH_000_083	¿¡Se metió al lago!? Como si esto no fuera ya bastante fastidioso...
+TEXT_AKTKME118_04436_EMETSELCH_000_084	Bueno, al menos esa extensión abierta debería hacer más fácil encontrarla. ¡Esta vez no se nos escapa!
+TEXT_AKTKME118_04436_A2_000_085	<colortype(548)>Hablar de la orilla.<colortype(0)>
+TEXT_AKTKME118_04436_EMETSELCH_000_090	Uf. Qué indignidad, arrastrar la túnica por el agua. Más le vale a Hythlodaeus no decirle ni una palabra de esto a Azem...
+TEXT_AKTKME118_04436_EMETSELCH_000_091	¡Aun así, una leve humillación va a ser la menor de nuestras preocupaciones si no logramos atrapar a Meteion!
+TEXT_AKTKME118_04436_EMETSELCH_000_095	Deberíamos poder llegar al fondo de este desnivel bajando por las rocas de la orilla.
+TEXT_AKTKME118_04436_EMETSELCH_000_096	Ni se te <italic(1)>ocurra<italic(0)> arrastrarme por la cascada. Con Días Finales o sin ellos, si termino empapado de pies a cabeza, te juro que te doy de comer a una rémora.
+TEXT_AKTKME118_04436_METEION_000_100	Aquí no... No estoy aquí... Por favor...
+TEXT_AKTKME118_04436_EMETSELCH_000_101	¿Junto a esa roca, dices? ¡Muy bien!
+TEXT_AKTKME118_04436_METEION_000_102	¿Qué? ¿¡Por qué no puedo esconderme!?
+TEXT_AKTKME118_04436_Q3_000_103	¿Qué dices?
+TEXT_AKTKME118_04436_A3_000_104	¡No hace falta que huyas, Meteion!
+TEXT_AKTKME118_04436_A3_000_105	¡Vamos a escuchar tu informe, sea bueno o malo!
+TEXT_AKTKME118_04436_METEION_000_106	¿<split(<string(gstr1)>, ,1)>...? ¿Qué dices? Todo se oye tan débil...
+TEXT_AKTKME118_04436_METEION_000_107	Perdón... No soy lo bastante fuerte. Aléjate. Te lo suplico...
+TEXT_AKTKME118_04436_METEION_000_108	No me hagas decirlo. Lo va a destrozar. Su pobre y frágil corazón...
+TEXT_AKTKME118_04436_EMETSELCH_000_109	Ahora tenemos una oportunidad.
+TEXT_AKTKME118_04436_EMETSELCH_000_110	¡Cuando los demás estén en posición, entre los dos podemos arrearla hacia ellos!
+TEXT_AKTKME118_04436_A4_000_115	<colortype(548)>Hablar del portal.<colortype(0)>
+TEXT_AKTKME118_04436_EMETSELCH_000_120	¡Sigue tras Meteion! ¡Hythlodaeus y yo vamos a coordinar nuestros movimientos!
+TEXT_AKTKME118_04436_EMETSELCH_000_125	¿Este portal no se usa? Parece que lo dejaron a merced de los elementos...
+TEXT_AKTKME118_04436_EMETSELCH_000_126	En todo caso, no tiene ningún rastro de la esencia de Meteion. ¡Sigamos!
+TEXT_AKTKME118_04436_SYSTEM_000_129	Deberías tener a Emet-Selch acompañándote antes de intentar arrear a Meteion hacia Hythlodaeus y los demás.
+TEXT_AKTKME118_04436_EMETSELCH_000_130	¡Ahí! ¡La veo!
+TEXT_AKTKME118_04436_EMETSELCH_000_140	A ver, ¿dónde cerramos la trampa...?
+TEXT_AKTKME118_04436_HYTHLODAEUS_000_150	...
+TEXT_AKTKME118_04436_VENAS_000_155	Si lo único que quiere Hermes es escuchar el informe de Meteion, está en su derecho.
+TEXT_AKTKME118_04436_VENAS_000_156	Pero cuando reciba las respuestas a su pregunta, ¿qué va a pasar? El destino del mundo bien podría depender de la decisión que tome en ese momento... y tenemos que estar ahí cuando la tome.
+TEXT_AKTKME118_04436_EMETSELCH_000_160	¿Por qué, Hermes? ¿¡Por qué no podías dejar las cosas como estaban!?
+TEXT_AKTKME118_04436_EMETSELCH_000_161	¿Esas respuestas van a aliviar el dolor que sientes cuando una creación vuelve al aether?
+TEXT_AKTKME118_04436_EMETSELCH_000_162	Si nunca le hubieras lanzado tu maldita pregunta a las estrellas lejanas, quizás algún día habrías aprendido a vivir en paz en esta...
