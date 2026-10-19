@@ -1,0 +1,79 @@
+key	text
+TEXT_AKTKMK101_04735_SEQ_00	A Varshahn se le iluminan los ojos al verte.
+TEXT_AKTKMK101_04735_SEQ_01	Aunque está ansioso por volver al vacío y retomar la búsqueda de su hermana, Varshahn no tuvo más remedio que esperar a que den fruto los esfuerzos de Y'shtola. Mientras confiesa su inquietud por la falta de buenas noticias, aparece Zero, aunque solo de paso, porque está por salir a "reponer su aether". Para sorpresa de todos, los invita a ti y al satrap a acompañarla, y los tres van al bazar.
+TEXT_AKTKMK101_04735_SEQ_02	Resulta que lo que Zero tiene que hacer en el bazar es comprar más especias, que Mehryde necesita para satisfacer sus gustos tan particulares. Encantada de ver a su clienta habitual acompañada, la comerciante se alegra de conocerlos y les sugiere con entusiasmo que elijan una especia extra para mezclar con el pedido de hoy.
+TEXT_AKTKMK101_04735_SEQ_03	Después de mucho pensarlo, haces tu elección. Solo queda probarla... y rezar para que tus papilas gustativas resistan la tormenta que viene.
+TEXT_AKTKMK101_04735_SEQ_04	Satisfecha con tu vistosa reacción, Zero acepta la especia que elegiste y va sin dudar a Mehryde's Meyhane. Sin duda espera que la sigas, una vez que recuperes la compostura.
+TEXT_AKTKMK101_04735_SEQ_05	Con la bendición de Zero, Mehryde prepara una olla llena de un curry intensamente picante y lo ofrece a toda la meyhane. Las bajas son considerables, pero la gente igual aprecia la deliciosa agonía. Después de verlos a ti y a Zero comer también un poco de curry, Varshahn sugiere llevarle una comida a Estinien, que según él volvió a su aposento en Meghaduta.
+TEXT_AKTKMK101_04735_SEQ_06	Ya entregado el masala y evitados los malentendidos, llegan Y'shtola y Urianger con buenas noticias. Parece que podrían llegar a Golbez y Azdaja en la luna del Thirteenth a través de una puerta abierta desde Mare Lamentorum. Sin embargo, abrirla no será poca cosa, porque habrá que canalizar enormes cantidades de aether a la luna a través de la Tower of Babil. Hay mucho que preparar para llevar a cabo el plan, así que tus camaradas se separan para atender cada uno su tarea: Y'shtola va a la luna a hacer los preparativos, y Estinien escoltará a Nidhana y un grupo de alquimistas para reunirse con ella allí. Urianger quiere tu ayuda para preparar otras cosas necesarias, y está ansioso por darte los detalles...
+TEXT_AKTKMK101_04735_TODO_00	Habla con Zero.
+TEXT_AKTKMK101_04735_TODO_01	Elige una especia.
+TEXT_AKTKMK101_04735_TODO_02	Prueba la especia delante de Zero.
+TEXT_AKTKMK101_04735_TODO_03	Habla con Zero.
+TEXT_AKTKMK101_04735_TODO_04	Habla con el asistente de Meghaduta.
+TEXT_AKTKMK101_04735_VARSHAHN_000_000	<split(<string(gstr1)>, ,1)>, qué bueno verl<if(gnum4,a,o)>. ¿Tiene noticias de Old Sharlayan?
+TEXT_AKTKMK101_04735_VARSHAHN_000_001	Todavía no sabemos nada de Y'shtola sobre su búsqueda de una forma de volver al vacío. Debo confesar que su silencio me tiene... inquieto.
+TEXT_AKTKMK101_04735_VARSHAHN_000_002	Y no soy el único: Estinien tiene tanta energía de sobra que está ayudando a entrenar a nuestros soldados sin una sola queja.
+TEXT_AKTKMK101_04735_VARSHAHN_000_003	En cuanto a Zero...
+TEXT_AKTKMK101_04735_MYSTERIOUSPERSON_000_005	¿Pasa algo?
+TEXT_AKTKMK101_04735_VARSHAHN_000_006	No, no. <split(<string(gstr1)>, ,1)> vino a visitarnos, y le contaba las novedades... o la falta de ellas.
+TEXT_AKTKMK101_04735_VARSHAHN_100_006	¿Va a algún lado?
+TEXT_AKTKMK101_04735_MYSTERIOUSPERSON_000_007	Sí. A reponer mi aether.
+TEXT_AKTKMK101_04735_MYSTERIOUSPERSON_000_008	...¿Quieren venir?
+TEXT_AKTKMK101_04735_VARSHAHN_000_009	¡Una invitación poco común, pero muy bienvenida! Y oportuna, debo agregar.
+TEXT_AKTKMK101_04735_VARSHAHN_000_010	Yo mismo pensaba salir a la ciudad. Será un placer acompañarla.
+TEXT_AKTKMK101_04735_VARSHAHN_000_011	Usted vendrá con nosotros, por supuesto.
+TEXT_AKTKMK101_04735_MYSTERIOUSPERSON_000_012	Vamos, entonces. Primero tengo que hacer un mandado en el bazar.
+TEXT_AKTKMK101_04735_VARSHAHN_000_020	Si quiere medir la prosperidad de la ciudad, no hay forma más segura que visitar el bazar y observar a la gente. Eso lo aprendí de Ahewann y sus predecesores.
+TEXT_AKTKMK101_04735_SPICEMERCHANT04735_000_025	¿Vienen con la señorita Zero? ¡Qué raro verla acompañada!
+TEXT_AKTKMK101_04735_MYSTERIOUSPERSON_000_030	Vengo a buscar más especias. Mehryde me pidió que lo hiciera antes de mi próxima visita.
+TEXT_AKTKMK101_04735_SPICEMERCHANT04735_000_032	Es que la señorita Zero tiene una tolerancia tremenda. Las Hermanas saben que a los hannish nos gusta la comida picante, pero dudo que alguno de nosotros pudiera seguirle el ritmo.
+TEXT_AKTKMK101_04735_SPICEMERCHANT04735_000_033	Con las especias que tienen normalmente, en la meyhane no logran satisfacerla del todo. ¡Por eso con gusto les doy lo que necesitan para lograr sabores más intensos!
+TEXT_AKTKMK101_04735_SPICEMERCHANT04735_000_034	Bien, como en la variedad está el <italic(1)>gusto<italic(0)>, ¿quizás les gustaría elegir algo extra para mezclar con lo de siempre de la señorita Zero?
+TEXT_AKTKMK101_04735_SPICEMERCHANT04735_000_035	¡Así las cosas se mantienen interesantes! ¿Qué me dicen?
+TEXT_AKTKMK101_04735_MYSTERIOUSPERSON_000_036	Por mí está bien. Supongo que ustedes aprecian los matices de la comida de este mundo mucho mejor que yo.
+TEXT_AKTKMK101_04735_VARSHAHN_000_040	Qué muestras tan impresionantes. No encontrará una variedad más grande ni mejor en todo el mundo.
+TEXT_AKTKMK101_04735_MYSTERIOUSPERSON_000_045	Mientras sea estimulante, me da igual lo que elijas.
+TEXT_AKTKMK101_04735_SPICEMERCHANT04735_000_050	Puede probar las especias, pero tenga en cuenta que lo que le recomiendo a la señorita Zero es <italic(1)>potente<italic(0)>.
+TEXT_AKTKMK101_04735_SYSTEM_000_060	Una colorida variedad de especias asoma de sacos de cáñamo.
+TEXT_AKTKMK101_04735_Q1_000_000	¿Cuál consideras?
+TEXT_AKTKMK101_04735_A1_000_001	El polvo carmesí brillante.
+TEXT_AKTKMK101_04735_A1_000_002	Los granos negros aromáticos.
+TEXT_AKTKMK101_04735_A1_000_003	Las pequeñas cáscaras rojas.
+TEXT_AKTKMK101_04735_A1_000_004	Las escamas amarillas gruesas.
+TEXT_AKTKMK101_04735_A1_000_005	Mejor no.
+TEXT_AKTKMK101_04735_SYSTEM_000_061	De un rojo intenso, este polvo da calor con solo mirarlo. Seguramente hace sudar bastante al comerlo.
+TEXT_AKTKMK101_04735_SYSTEM_000_062	Estos granos te hacen cosquillas en la nariz con su aroma penetrante pero tentador. Es fácil imaginarlos dándoles a los platos un toque apetitoso.
+TEXT_AKTKMK101_04735_SYSTEM_000_063	Estas cáscaras diminutas desprenden un aroma parecido al de los cítricos. Quizás les den a los platos una nota fresca.
+TEXT_AKTKMK101_04735_SYSTEM_000_064	Estas escamas parecen ralladas de una raíz gruesa. Su aroma intenso sugiere un sabor vigorizante.
+TEXT_AKTKMK101_04735_Q1_000_065	¿Elegir esta especia?
+TEXT_AKTKMK101_04735_SPICEMERCHANT04735_000_067	Ah, buena elección. Pero no me crea a mí: ¡tome, pruébela!
+TEXT_AKTKMK101_04735_SYSTEM_000_068	Quizás Zero quiera ver tu reacción. Sería considerado probar la especia delante de ella.
+TEXT_AKTKMK101_04735_VARSHAHN_000_070	Dudo que haga falta decírselo, pero tenga cuidado de no tomar demasiado de una vez...
+TEXT_AKTKMK101_04735_MYSTERIOUSPERSON_000_075	¿Y bien?
+TEXT_AKTKMK101_04735_SPICEMERCHANT04735_000_080	¡Vamos! Pruébela y dígame qué le parece.
+TEXT_AKTKMK101_04735_SYSTEM_000_090	Quizás Zero quiera ver tu reacción. Sería considerado probar la especia delante de ella.
+TEXT_AKTKMK101_04735_SYSTEM_000_091	Con cautela, te pones un poco de la especia en la lengua...
+TEXT_AKTKMK101_04735_SYSTEM_000_092	¡Un verdadero incendio te envuelve la boca!
+TEXT_AKTKMK101_04735_SYSTEM_000_093	¡Un calor intenso y aromático te llena las fosas nasales!
+TEXT_AKTKMK101_04735_SYSTEM_000_094	¡Un entumecimiento punzante y ácido se apodera de tu boca!
+TEXT_AKTKMK101_04735_SYSTEM_000_095	¡Una descarga de fuego te recorre todo el cuerpo!
+TEXT_AKTKMK101_04735_MYSTERIOUSPERSON_000_096	Tu reacción lo dice todo.
+TEXT_AKTKMK101_04735_MYSTERIOUSPERSON_100_096	Con eso basta, entonces.
+TEXT_AKTKMK101_04735_SPICEMERCHANT04735_000_097	¡Siempre es un placer, señorita Zero! Y salúdeme a Mehryde.
+TEXT_AKTKMK101_04735_VARSHAHN_000_100	Me alegra ver que Zero se volvió clienta habitual aquí, y tanto como para traer sus propias especias.
+TEXT_AKTKMK101_04735_SPICEMERCHANT04735_000_105	¡Salúdeme a Mehryde!
+TEXT_AKTKMK101_04735_MEHRYDE_000_110	¡Bienvenidos a Mehryde's Meyhane!
+TEXT_AKTKMK101_04735_SYSTEM_000_115	El curry picante te dejó algo acalorad<if(gnum4,a,o)> y con el corazón acelerado. Sean cuales sean los desafíos que te esperan, estás list<if(gnum4,a,o)> para enfrentarlos de lleno, ¡y con todo el sentimiento!
+TEXT_AKTKMK101_04735_VARSHAHN_000_120	No esperaba que tantos aceptaran el desafío, pero me alegra ver que todos se divierten.
+TEXT_AKTKMK101_04735_MYSTERIOUSPERSON_000_125	Estoy satisfecha.
+TEXT_AKTKMK101_04735_MEHRYDE_000_130	¡Bueno, eso sí que fue emocionante! Me atrevo a decir que la fama del curry singular de Zero atraerá a más comensales a nuestro local.
+TEXT_AKTKMK101_04735_MIHLEEL_000_135	¡Qué curry tan extraordinario! Tengo que probar un plato yo misma... ¡cuando junte el valor, claro!
+TEXT_AKTKMK101_04735_RHULMEIRA_000_140	Hoy tuvimos una clientela muy aventurera. Unos tragos te hacen eso. Para bien o para mal...
+TEXT_AKTKMK101_04735_ARDARACA_000_145	¿Eres viajer<if(gnum4,a,o)>? Bueno, no soy ningún holgazán. Solo me estoy recuperando de esa devastación ardiente, ¿entiendes?
+TEXT_AKTKMK101_04735_DARFIYE_000_150	¡Bebida, baile y un curry condenadamente bueno! ¡En Radz-at-Han no podría haber nada mejor!
+TEXT_AKTKMK101_04735_HANNISHMAN04735B_000_155	Por las Hermanas, creí que ese curry iba a acabar conmigo. Tengo... tengo que volver a comerlo.
+TEXT_AKTKMK101_04735_HANNISHMAN04735A_000_160	Mi pobre nariz... Todavía me pica...
+TEXT_AKTKMK101_04735_EGHADUTAEMPLOYEE_000_180	Bienvenid<if(gnum4,a,o)> de vuelta.
+TEXT_AKTKMK101_04735_EGHADUTAEMPLOYEE_000_181	¿El Maestro Estinien? Sí, volvió a su aposento. Con gusto l<if(gnum4,a,o)> acompaño.
+TEXT_AKTKMK101_04735_Q2_000_182	¿Ir al aposento de Estinien?
