@@ -1,0 +1,47 @@
+key	text
+TEXT_AKTKME102_04420_SEQ_00	Ryne tiene una expresión de firme determinación.
+TEXT_AKTKME102_04420_SEQ_01	Despedida Ryne, vuelves a tu misión en el First: consultar a Elidibus sobre los Días Finales. Para eso buscas al guardia de la puerta del Crystarium, que debería dejarte entrar al Ocular como antes.
+TEXT_AKTKME102_04420_SEQ_02	Dentro del Umbilicus, usas el recipiente del espíritu prestado para activar la consola allagana, que ubica la esencia aprisionada de Elidibus y proyecta su imagen en la sala. Aunque tu antiguo enemigo declara que ahora te toca a ti luchar por la estrella, atado como siempre al deber, acepta compartir lo que sabe. Para tu sorpresa, fue nada menos que Fandaniel quien arrojó luz sobre el fenómeno de los Días Finales, y desde entonces se dedicó a idear una forma de contrarrestarlo. Antes de unirse a la Convocation, dirigía Elpis, una instalación para evaluar creaciones, y se lo conocía como Hermes. Quizás inspirado por un recuerdo imposible de ti en aquel tiempo y lugar antiguos, Elidibus sugiere que viajes a la Elpis del pasado. Siguiendo sus instrucciones, abres un camino hacia tu destino y entras en el portal. La magia consume la esencia de Elidibus de una vez por todas, y él va a reunirse con sus queridos hermanos mientras tú viajas a tu lejano destino en busca de salvación.
+TEXT_AKTKME102_04420_SEQ_03	Después de atravesar la grieta, llegas a salvo a lo que supones es el pasado, aunque con una forma transparente. Dejando ese problema de lado por ahora, empiezas a explorar los alrededores.
+TEXT_AKTKME102_04420_SEQ_04	Como te advirtió Elidibus, no puedes interactuar con la gente presente. Pero por fragmentos de sus conversaciones, confirmas que de verdad estás en el pasado, más precisamente en una instalación llamada Propylaion. Averiguado todo lo que se podía aquí, decides seguir explorando afuera, y vas hacia la salida.
+TEXT_AKTKME102_04420_SEQ_05	Cuando intentas abrir la puerta, pasa lo inconcebible: dos recién llegados salen del aparato de teletransporte, y resultan ser nada menos que Hythlodaeus y Emet-Selch. Gracias a su talento para ver almas, te notan enseguida, y por insistencia de su compañero, Emet-Selch aumenta tu aether y ajusta tu tamaño. Ya proporcional a tu entorno y capaz de hacerte oír, les cuentas a tus nuevos viejos amigos que quieres buscar a Hermes, y se sorprenden al saber que tu propósito es el mismo que el suyo. Hythlodaeus se ofrece a guiarte, y juntos salen.
+TEXT_AKTKME102_04420_SEQ_06	Al cruzar la puerta, se te corta la respiración al contemplar el paisaje imposiblemente hermoso del campo de pruebas de la creación en el borde de los cielos: Elpis.
+TEXT_AKTKME102_04420_SEQ_07	Hythlodaeus explica que Elpis es donde se traen seres vivos y ciertas entidades arcanas para observarlos y estudiarlos a fondo. Así empieza tu búsqueda de respuestas en el pasado, pero nadie puede decir todavía a qué clase de futuro llevará el camino...
+TEXT_AKTKME102_04420_TODO_00	Habla con el Crystarium gatekeep.
+TEXT_AKTKME102_04420_TODO_01	Habla con el Crystarium gatekeep.
+TEXT_AKTKME102_04420_TODO_02	Explora la instalación.
+TEXT_AKTKME102_04420_TODO_03	Examina la puerta.
+TEXT_AKTKME102_04420_TODO_04	Examina la puerta.
+TEXT_AKTKME102_04420_TODO_05	Habla con Hythlodaeus.
+TEXT_AKTKME102_04420_RYNE_000_000	Va al Umbilicus a consultar a Elidibus, ¿no?
+TEXT_AKTKME102_04420_RYNE_000_001	Yo voy a hacer mis propias consultas y hablar con Lyna. Decidir cuál es la mejor forma de prepararnos para los Días Finales.
+TEXT_AKTKME102_04420_RYNE_000_002	Así que es un adiós por ahora, pero nos volveremos a ver. Estoy segura.
+TEXT_AKTKME102_04420_RYNE_000_010	Sobrevivimos al Flood y a la tiranía de los Lightwardens. Somos sobrevivientes. Haga lo que tenga que hacer, y sepa que nosotros también.
+TEXT_AKTKME102_04420_CRYSTALGATEKEEPER_000_020	¡Ah, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,1)>, bienvenid<if(gnum4,a,o)> de vuelta!
+TEXT_AKTKME102_04420_CRYSTALGATEKEEPER_000_021	La capitana me contó todo. Dé la orden y l<if(gnum4,a,o)> llevo al Ocular.
+TEXT_AKTKME102_04420_Q1_000_022	¿Ir al Ocular?
+TEXT_AKTKME102_04420_CRYSTALGATEKEEPER_000_030	¿Todavía tiene asuntos pendientes en el Ocular? Si es así, avíseme.
+TEXT_AKTKME102_04420_Q2_000_035	¿Viajar a Elpis?
+TEXT_AKTKME102_04420_SYSTEM_000_040	El hombre está, obediente, junto a un aparato parecido a un aetheryte. Un guía de esta instalación, seguramente.
+TEXT_AKTKME102_04420_SYSTEM_000_041	Intentas llamar la atención del hombre, pero si te ve o te oye, no da ninguna señal.
+TEXT_AKTKME102_04420_SYSTEM_000_042	Como advirtió Elidibus, parece que tu forma es intangible...
+TEXT_AKTKME102_04420_PROPYLAIONSTAFF_000_043	...
+TEXT_AKTKME102_04420_SYSTEM_000_050	El hombre, notablemente grande, lleva una túnica negra y una media máscara, muy parecido a los fantasmas que encontraste en Mare Lamentorum y en la Amaurot recreada...
+TEXT_AKTKME102_04420_SYSTEM_000_051	Parece que llegaste a tu destino.
+TEXT_AKTKME102_04420_SYSTEM_000_052	Gesticulas como loc<if(gnum4,a,o)> y gritas todo tipo de saludos y groserías, pero el hombre ni siquiera mira hacia donde estás...
+TEXT_AKTKME102_04420_SOLON_000_053	...
+TEXT_AKTKME102_04420_PROPYLAIONUSER04420_000_060	Este <italic(1)>es<italic(0)> el lugar correcto, ¿no? ¿Propylaion?
+TEXT_AKTKME102_04420_SYSTEM_000_061	A juzgar por las palabras de la mujer, esta instalación se llama "Propylaion".
+TEXT_AKTKME102_04420_SYSTEM_000_062	Intentas tocar suavemente a la mujer para llamar su atención, pero no sientes nada, y parece que ella tampoco.
+TEXT_AKTKME102_04420_PROPYLAIONUSER04420_000_063	Muy bien, esperemos un rato.
+TEXT_AKTKME102_04420_SYSTEM_000_070	El aparato recuerda a un aetheryte. Quizás se pueda sintonizar con él...
+TEXT_AKTKME102_04420_SYSTEM_000_071	Aunque intentas canalizar y concentrar tus energías, no logras sintonizar con el aparato. Solo puedes suponer que funciona de otra forma.
+TEXT_AKTKME102_04420_SYSTEM_000_080	Sospechas que esta puerta lleva afuera. Pero ¿cómo abrirla...?
+TEXT_AKTKME102_04420_EMETSELCH_000_090	Por si no lo sabías, es de mala educación quedarse mirando. Basta.
+TEXT_AKTKME102_04420_Q3_000_095	¿Seguir con la misión de la historia principal?
+TEXT_AKTKME102_04420_HYTHLODAEUS_000_100	No es la primera vez que vengo, ni mucho menos, pero el paisaje nunca deja de quitarme el aliento. ¡Parece que se pudiera estirar la mano y tocar los cielos!
+TEXT_AKTKME102_04420_HYTHLODAEUS_000_101	Bien, para empezar nuestra visita guiada... Quizás ya sepas estas cosas, pero para ser minucioso, empiezo por lo básico.
+TEXT_AKTKME102_04420_HYTHLODAEUS_000_102	Usando conceptos para darle forma al aether, la magia de creación nos permite crear lo que queramos, sean objetos inanimados o seres vivos.
+TEXT_AKTKME102_04420_HYTHLODAEUS_000_103	Cualquiera puede idear conceptos, pero todos tienen que pasar por la evaluación del Bureau of the Architect.
+TEXT_AKTKME102_04420_HYTHLODAEUS_000_104	Como parte de ese proceso, a los seres vivos y a ciertas entidades arcanas se los puede mandar aquí a Elpis para observarlos y estudiarlos a fondo.
+TEXT_AKTKME102_04420_HYTHLODAEUS_000_105	Je, je, una instalación fascinante, ¿no? Diría que vas a disfrutar recorrerla con nosotros.
