@@ -1,0 +1,80 @@
+key	text
+TEXT_AKTKMF105_04443_SEQ_00	Por más que lo intente, Urianger no logra sacarse de encima a los Loporrits.
+TEXT_AKTKMF105_04443_TODO_00	Habla con Singingway.
+TEXT_AKTKMF105_04443_TODO_01	Ve al lugar indicado y examina el chisme.
+TEXT_AKTKMF105_04443_TODO_02	Examina el lugar indicado y derrota a los enemigos que aparezcan.
+TEXT_AKTKMF105_04443_TODO_03	Habla con Growingway.
+TEXT_AKTKMF105_04443_TODO_04	Habla con Urianger.
+TEXT_AKTKMF105_04443_TODO_05	Habla con Singingway.
+TEXT_AKTKMF105_04443_LIVINGWAY_000_000	Si estás demasiado ocupad<if(gnum4,a,o)> para mostrarnos los lugares de interés, vamos a buscar otras formas de entretenernos, no te preocupes.
+TEXT_AKTKMF105_04443_GROWINGWAY_000_005	¡Caramba! ¡No esperaba verte <italic(1)>a ti<italic(0)> aquí, <split(<string(gstr1)>, ,1)>!
+TEXT_AKTKMF105_04443_GROWINGWAY_000_006	Perdón por no haber tenido oportunidad de despedirme. Y por, eh, que esos otros Loporrits te atacaran. Un malentendido terrible, eso.
+TEXT_AKTKMF105_04443_GROWINGWAY_000_007	Pero no te preocupes, que ya todos se recuperaron de la paliza bastante salvaje que les diste. ¡No te guardan rencor! Bueno, quizás un poquito, por lo salvaje, ¡pero el tiempo cura todas las heridas! Casi todas, al menos.
+TEXT_AKTKMF105_04443_SINGINGWAY_000_010	Hum hum-hummm～♪<br>¡Qué alegría probar las delicias de Etheirys!
+TEXT_AKTKMF105_04443_COOKINGWAY_000_015	¡Qué maravilla volver a verte! Te va a alegrar saber que aprendí mucho desde nuestra fascinante charla en el Carrotorium.
+TEXT_AKTKMF105_04443_COOKINGWAY_000_016	Todo gracias a Urianger, ¿sabes? Me enseñó los detalles más finos de la cocina, de la que, pese a mi nombre, sabía muy poco. ¡Tantos platos, tantas palabras difíciles de pronunciar!
+TEXT_AKTKMF105_04443_COOKINGWAY_000_017	En realidad, esperaba que me enseñara a hornear un Archon loaf. Me dijeron que es bastante popular, aunque no suena a que tenga ningún sabor digno de mención. Igual, si es lo que le gusta a tu especie, ¡voy a hacer suficiente para todo el viaje!
+TEXT_AKTKMF105_04443_URIANGER_000_020	¿Un recorrido por Labyrinthos? Mmm... Una sugerencia inesperada, mas prudente...
+TEXT_AKTKMF105_04443_URIANGER_000_021	Dada la semejanza entre este entorno artificial y Bestways Burrow, nos convendría que los Loporrits conocieran las condiciones que sus colaboradores de Sharlayan consideran óptimas.
+TEXT_AKTKMF105_04443_URIANGER_000_022	Temo, sin embargo, que seguir dependiendo de mi escaso saber corra el riesgo de estrechar sus perspectivas en lugar de ampliarlas. ¿Quizás vos seáis más apt<if(gnum4,a,o)> para guiar esta empresa?
+TEXT_AKTKMF105_04443_SINGINGWAY_000_023	¡Qué idea maravillosa! ¿Podemos empezar por aquel chisme grandote de allá?
+TEXT_AKTKMF105_04443_URIANGER_000_024	Ah, sí. El chisme. Su explicación se la dejo a <split(<string(gstr1)>, ,1)>. \<risita>
+TEXT_AKTKMF105_04443_URIANGER_000_030	El saber técnico de los Loporrits supera con creces al nuestro. Haríamos bien en dejar que saquen sus propias conclusiones sobre la función de los distintos aparatos, en lugar de ofrecerles suposiciones mal informadas.
+TEXT_AKTKMF105_04443_URIANGER_000_031	Salvo, claro está, que sin yo saberlo poseáis un saber superior sobre la construcción y el funcionamiento de los avanzados... ejem... chismes de Sharlayan.
+TEXT_AKTKMF105_04443_LIVINGWAY_000_035	Teniendo en cuenta las especialidades de Singingway y Growingway, espero que presten total atención a tus explicaciones, que seguro van a ser de lo más instructivas.
+TEXT_AKTKMF105_04443_GROWINGWAY_000_040	¡Válgame! ¡Qué arquitectura magnífica! ¡Qué curvatura impecable!
+TEXT_AKTKMF105_04443_GROWINGWAY_000_041	¡Voy a tener que hacerle varios ajustes a mi trabajo si quiero igualar este nivel de artesanía! ¡No voy a dejar ni una esquina sin redondear!
+TEXT_AKTKMF105_04443_COOKINGWAY_000_045	Todo esto es muy intrigante, seguro, pero ¿dónde están los puestos de preparación de comida? Los, eh... ¿cómo era su palabra...? ¿Cocinas?
+TEXT_AKTKMF105_04443_COOKINGWAY_000_046	Eso me recuerda... Puddingway, nuestro recién nombrado jefe de investigación de budines (una disciplina que él mismo fundó después de probar las delicias de Urianger), salió a buscar el dulce definitivo de Etheirys. Bueno, siempre que sea un budín, porque últimamente no habla de otra cosa. ¿Lo viste?
+TEXT_AKTKMF105_04443_SINGINGWAY_000_050	¡Madre mía! Construir algo tan grande sin magia de creación... ¡es absolutamente estupendo!
+TEXT_AKTKMF105_04443_SINGINGWAY_000_051	¿Quizás podrías señalarnos sus partes más importantes?
+TEXT_AKTKMF105_04443_SINGINGWAY_000_060	¡Espléndido! ¡El lugar perfecto para ver este aparato asombroso!
+TEXT_AKTKMF105_04443_SYSTEM_000_070	Busca en el aparato puntos de posible interés. Puedes mover la cámara y acercarla o alejarla. Apunta a una zona e inspecciónala con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)> / <icon2(8)>)>.
+TEXT_AKTKMF105_04443_SINGINGWAY_000_071	Bueno, si tuviera que adivinar, el agua que se saca del subsuelo (supongo que con algún otro mecanismo) se purifica aquí y se guarda en esa torre antes de distribuirse a otros lugares.
+TEXT_AKTKMF105_04443_SINGINGWAY_000_072	Tengo razón, ¿no?
+TEXT_AKTKMF105_04443_SINGINGWAY_000_073	¡Lo sabía! Un diseño brillante en su simplicidad. Me atrevo a decir que se podría instalar en un momento hasta en los entornos más hostiles. ¡Para nosotros los Loporrits, claro!
+TEXT_AKTKMF105_04443_LIVINGWAY_000_074	Así es: asegurar una fuente de agua confiable es de suma importancia para cualquier asentamiento incipiente.
+TEXT_AKTKMF105_04443_SINGINGWAY_000_075	Pero leímos que los pueblos de Etheirys a veces viven en desiertos áridos y lugares así. ¿Cómo logran sobrevivir?
+TEXT_AKTKMF105_04443_Q1_000_076	¿Qué dices?
+TEXT_AKTKMF105_04443_A1_000_077	Muchos asentamientos de Thanalan se construyen cerca de un oasis.
+TEXT_AKTKMF105_04443_A1_000_078	En Gyr Abania, las zonas cerca de cascadas son lugares comunes para las aldeas.
+TEXT_AKTKMF105_04443_SINGINGWAY_000_079	Así que vivan donde vivan, nunca están lejos del agua...
+TEXT_AKTKMF105_04443_GROWINGWAY_000_080	Ay, ay... ¡Me preocupa que no podamos conseguir la cantidad necesaria!
+TEXT_AKTKMF105_04443_GROWINGWAY_000_081	Podemos darles agua suficiente para que no se sequen del todo, ¡pero parece que dependen de ella mucho más de lo que esperábamos!
+TEXT_AKTKMF105_04443_SINGINGWAY_000_082	Mmm... Quizás haya que hacer algunos ajustes, cuando calculemos el consumo promedio por individuo...
+TEXT_AKTKMF105_04443_SINGINGWAY_000_083	También valdría la pena saber más sobre cómo consiguen el agua en primer lugar.
+TEXT_AKTKMF105_04443_URIANGER_000_084	¿No habló el maestro Alphinaud de la maquinaria que se encarga de esa proeza cuando pasamos por Logistikon Alpha?
+TEXT_AKTKMF105_04443_URIANGER_000_085	Quizás los Loporrits compartan su admiración por esa maravilla de la ingeniería.
+TEXT_AKTKMF105_04443_SINGINGWAY_000_086	¡Ah, sí! ¡Eso suena absolutamente espléndido!
+TEXT_AKTKMF105_04443_URIANGER_000_087	Debemos salir del refugio de Sharlayan Hamlet. Yo abriré el camino.
+TEXT_AKTKMF105_04443_GROWINGWAY_000_088	¿¡Q-Quieres decir que vamos a tener que enfrentarnos a la naturaleza salvaje!?
+TEXT_AKTKMF105_04443_LIVINGWAY_000_089	Una preocupación muy válida. No pudimos evitar notar las muchas criaturas de aspecto peligroso, con dientes grandes y feos, que acechan fuera de los límites seguros de este asentamiento.
+TEXT_AKTKMF105_04443_LIVINGWAY_000_090	¡Si no nos hubieran escoltado hasta aquí unos custodios fornidos, no quiero ni pensar qué habría sido de nosotros!
+TEXT_AKTKMF105_04443_URIANGER_000_091	Por desgracia, para más de un depredador hambriento con los mencionados dientes grandes y feos, los Loporrits bien pueden parecer una fuente de sustento posible y bastante apetitosa...
+TEXT_AKTKMF105_04443_URIANGER_000_092	¿Puedo pediros que ayudéis a asegurar un paso seguro hasta Logistikon Alpha?
+TEXT_AKTKMF105_04443_URIANGER_000_093	Por mi parte, yo escoltaré a Livingway y a Cookingway. A Singingway y a Growingway los dejo a vuestro cuidado.
+TEXT_AKTKMF105_04443_URIANGER_000_094	No podrían desear protector más valeroso. Que los dioses os acompañen.
+TEXT_AKTKMF105_04443_SINGINGWAY_000_095	Si te da lo mismo, preferiría que no me coma alguna bestia horrible.
+TEXT_AKTKMF105_04443_SINGINGWAY_000_096	Vamos, Growingway. ¡Al chisme de extracción de agua!
+TEXT_AKTKMF105_04443_GROWINGWAY_000_100	Tengo la sensación de que el camino no está tan despejado como quisiéramos... ¿Podrías ir a echar un vistazo?
+TEXT_AKTKMF105_04443_SINGINGWAY_000_105	¿¡Quizás podrías decirles a las bestias de por aquí que no somos ni de cerca tan deliciosos como parecemos!?
+TEXT_AKTKMF105_04443_SINGINGWAY_000_110	¡Habrase visto! ¡Ese monstruo pensaba darse un festín de Loporrit asado!
+TEXT_AKTKMF105_04443_GROWINGWAY_000_120	M-Muchísimas g-gracias...
+TEXT_AKTKMF105_04443_GROWINGWAY_000_121	¡Espero de verdad que este chisme de extracción de agua valga la pena después de semejantes sustos!
+TEXT_AKTKMF105_04443_GROWINGWAY_000_122	Algunos dirán que es parte de la diversión, ¡pero si te da lo mismo, preferiría no terminar chamuscado!
+TEXT_AKTKMF105_04443_LIVINGWAY_000_130	Hiciste bien en traer a esos dos sanos y salvos. Ya de por sí son algo asustadizos, así que me sorprende gratamente que no hayan salido corriendo a hacerse matar.
+TEXT_AKTKMF105_04443_GROWINGWAY_000_135	Fue todo muy emocionante, pero preferiría no repetirlo... Un momento. ¿Cómo pensábamos volver después, exactamente?
+TEXT_AKTKMF105_04443_SINGINGWAY_000_140	¡Sigamos! ¡Ese edificio se ve bien sólido y <italic(1)>seguro<italic(0)>!
+TEXT_AKTKMF105_04443_COOKINGWAY_000_145	No pude evitar notar una clara falta de zanahorias en el camino. Ni de muchas de las otras verduras que esperaba ver, aunque sí alcancé a ver una especie de tomate bípedo corriendo por ahí. Debe de ser mi imaginación.
+TEXT_AKTKMF105_04443_URIANGER_000_150	Amigos míos, os doy la bienvenida a Logistikon Alpha.
+TEXT_AKTKMF105_04443_URIANGER_000_151	Nuestro destino está en lo alto del ascensor. Seguidme, os lo ruego.
+TEXT_AKTKMF105_04443_URIANGER_000_160	En esta ocasión, convendría pedir consejo a quienes están capacitados para describir el funcionamiento del aparato. Quizás también tengan planos u otros documentos útiles, si los Loporrits los solicitan.
+TEXT_AKTKMF105_04443_URIANGER_000_161	Como estimados invitados del Forum, es poco probable que se los nieguen, mas vos sabéis tan bien como yo cuán cambiantes son los humores de los burócratas de Sharlayan.
+TEXT_AKTKMF105_04443_LIVINGWAY_000_165	Según entiendo, lugares como Labyrinthos son la excepción y no la regla. No construyen <italic(1)>todos<italic(0)> espacios subterráneos enormes como este, ¿no?
+TEXT_AKTKMF105_04443_GROWINGWAY_000_170	Eso fue <italic(1)>aterrador<italic(0)>, pero al menos el paisaje era más agradable que en cómo-se-llame... ¡Garlemald! Como primera impresión de Etheirys, estuvo lejos de ser favorable.
+TEXT_AKTKMF105_04443_GROWINGWAY_000_171	En fin, ¡adelante y arriba! ¡Literalmente, en este caso!
+TEXT_AKTKMF105_04443_COOKINGWAY_000_175	Perdón por preguntar, pero ¿ya estamos más cerca de las cocinas? Ahora que lo pienso, ¿por qué estoy aquí siquiera? Los manipuladores atmosféricos no son precisamente mi especialidad.
+TEXT_AKTKMF105_04443_SINGINGWAY_000_180	¡Maravilloso! ¡Sencillamente maravilloso! ¡Así que aquí ocurre la magia... o mejor dicho, la ciencia! ¡El entorno perfecto para sostener la vida, creado artificialmente!
+TEXT_AKTKMF105_04443_SINGINGWAY_000_181	Lo que aprendamos aquí va a ser esencial cuando empecemos a buscar estrellas nuevas donde pueda vivir tu especie. ¡Al parecer, la mayoría ni siquiera tiene aire para que respiren!
+TEXT_AKTKMF105_04443_SINGINGWAY_000_182	Tienen mucha suerte de que Etheirys justo les dé todo lo que necesitan para prosperar. ¿O la humanidad terminó siendo como es por los recursos disponibles, me pregunto?
+TEXT_AKTKMF105_04443_SINGINGWAY_000_183	Sea como sea, ¡es nada menos que milagroso! ¡Y no veo la hora de ver más!
