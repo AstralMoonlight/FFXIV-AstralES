@@ -96,7 +96,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | | | Raid de 8: Eden (Gate, Verse, Promise) | ![Pendiente][no] |
 | | | Raid de alianza (24): YoRHa: Dark Apocalypse | ![Pendiente][no] |
 | **Post Shadowbringers** | 5.1–5.55 | Historia principal, de "Shaken Resolve" a "Death Unto Dawn" | ![Traducido][ok] |
-| **Endwalker** | 6.0 | Historia principal | ![Pendiente][no] |
+| **Endwalker** | 6.0 | Historia principal, de "The Next Ship to Sail" a "In the Dark of the Tower" (Sharlayan, Labyrinthos y la Tower of Zot) | ![En curso][wip] |
 | | | Raid de 8: Pandæmonium (Asphodelos, Abyssos, Anabaseios) | ![Traducido][ok] |
 | | | Raid de alianza (24): Myths of the Realm | ![Pendiente][no] |
 | **Post Endwalker** | 6.1–6.58 | Historia principal | ![Pendiente][no] |
