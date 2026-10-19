@@ -1,0 +1,86 @@
+key	text
+TEXT_AKTKMA116_04372_SEQ_00	Matsya tiene en los ojos un brillo que antes no estaba.
+TEXT_AKTKMA116_04372_SEQ_01	Con solo oír el nombre de Nidhana, Matsya empieza a deshacerse en elogios a la alquimista, que por lo que entiendes también es Matanga. Con este dato más, vas hacia el norte, al Great Work, donde podrías encontrarla.
+TEXT_AKTKMA116_04372_SEQ_02	Para tu sorpresa, al llegar al Great Work encuentras a sus residentes tirados en el suelo, aunque no hay señales de lucha. Ves a quien crees que es Nidhana y vas a ayudarla... y te alivia descubrir que los alquimistas simplemente están profundamente dormidos. Pero apenas llega Varshahn, un sirviente del satrap de Radz<-->at<-->Han, con escamas de dragón, se levantan de nuevo, entusiasmados como niños con un juguete nuevo. Ese material, explica Nidhana, es vital para crear un talismán capaz de anular la influencia corruptora de la torre. Luego Nidhana te pide que la sigas para explicarte el meollo de la situación.
+TEXT_AKTKMA116_04372_SEQ_03	Por pedido del satrap, Nidhana y sus alquimistas trabajan para crear talismanes encantados que permitan acercarse a la torre a quienes no tienen protección innata. Para eso buscan amplificar la resistencia superior a las fuerzas perturbadoras que tienen las escamas de dragón. Pronto estarán listos para hacer una prueba de campo, para la que necesitan a alguien con la bendición de la Luz: tú. Pero por tu propia seguridad, Nidhana quiere confirmar primero qué tan bien te protege la bendición, y te pide que te encuentres con ella en lo alto de una colina justo afuera del Great Work.
+TEXT_AKTKMA116_04372_SEQ_04	Nidhana te explica que debes seguir al curiosamente llamado "deepa borracho", un farol adaptado que te expondrá a potentes descargas de aether. Cuatro descargas deberían bastar para determinar la potencia de tu protección, y Nidhana te pide que empieces cuando estés list<if(gnum4,a,o)>.<br><br>※Debes seguir al deepa borracho para completar esta tarea. Si se separan, vuelve a hablar con él.
+TEXT_AKTKMA116_04372_SEQ_05	Recibes la primera descarga de aether, pero por lo que puedes notar estás bien. Debería ser seguro decirle al deepa borracho que siga con la prueba.
+TEXT_AKTKMA116_04372_SEQ_06	Recibes otra descarga de aether, pero si hay algún problema, todavía no lo sientes. Ojalá la tercera descarga sea igual de inofensiva.
+TEXT_AKTKMA116_04372_SEQ_07	Recibes una tercera descarga de aether, pero tu bendición de la Luz te sigue protegiendo. Solo falta una descarga más.
+TEXT_AKTKMA116_04372_SEQ_08	Recibes la cuarta y última descarga de aether, y otra vez sales iles<if(gnum4,a,o)>. Terminada la prueba, vas a recoger el deepa borracho.
+TEXT_AKTKMA116_04372_SEQ_09	Con el deepa borracho en la mano, vuelves adonde te espera Nidhana, en lo alto de la colina.
+TEXT_AKTKMA116_04372_SEQ_10	Le devuelves el deepa borracho a Nidhana, que queda satisfecha con la protección que te da la bendición de la Luz. Con esto, los alquimistas podrán pedir tu ayuda para la tarea que viene con el corazón tranquilo.
+TEXT_AKTKMA116_04372_TODO_00	Busca a Nidhana.
+TEXT_AKTKMA116_04372_TODO_01	Habla con Nidhana.
+TEXT_AKTKMA116_04372_TODO_02	Vuelve a hablar con Nidhana.
+TEXT_AKTKMA116_04372_TODO_03	Habla con el deepa borracho y síguelo.
+TEXT_AKTKMA116_04372_TODO_04	Vuelve a hablar con el deepa borracho y síguelo.
+TEXT_AKTKMA116_04372_TODO_05	Habla otra vez con el deepa borracho y síguelo.
+TEXT_AKTKMA116_04372_TODO_06	Habla por última vez con el deepa borracho y síguelo.
+TEXT_AKTKMA116_04372_TODO_07	Consigue el deepa borracho.
+TEXT_AKTKMA116_04372_TODO_08	Entrégale el deepa borracho a Nidhana.
+TEXT_AKTKMA116_04372_MATSYA_000_000	¿¡D-Dijo que va a ver a Nidhana!? ¡Ay, cómo l<if(gnum4,a,o)> envidio!
+TEXT_AKTKMA116_04372_MATSYA_000_001	Es brillante y hermosa, amable y comprensiva... ¿y ya dije que es hermosa?
+TEXT_AKTKMA116_04372_MATSYA_000_002	\<suspiro> Podría pasarme el día mirando sus orejitas delicadas y su trompa adorable... ¡Y esos ojos! Cuando la conozca, ¡cuidado con no ahogarse en ellos!
+TEXT_AKTKMA116_04372_MATSYA_000_010	El Great Work está en una cala al norte. Siga el camino hacia el norte para llegar.
+TEXT_AKTKMA116_04372_THANCRED_000_015	¿Pero qué demonios...?
+TEXT_AKTKMA116_04372_URIANGER_000_020	Así los encontramos... ¿Qué pudo haberle pasado a esta gente?
+TEXT_AKTKMA116_04372_ESTINIEN_000_025	Si hubo una pelea, llama la atención la falta de sangre.
+TEXT_AKTKMA116_04372_THANCRED_000_030	Ah, los días en que disfrutaba de tanta adoración. Pero esta vez me alegra dejarle a Estinien la carga de la popularidad.
+TEXT_AKTKMA116_04372_URIANGER_000_035	Se dice que los mariscos son ideales para quienes perdieron sangre. Quizás deberíamos haberle comprado algunos a Matsya...
+TEXT_AKTKMA116_04372_VARSHAHN_000_040	Por favor, no me hagan caso. Estoy aquí para servir. Nada más.
+TEXT_AKTKMA116_04372_NIDHANA_000_050	Permítanme agradecerles por responder a nuestro llamado. Aparecieron muchas torres por todo el mundo, y les agradecemos que nos ayuden con la nuestra.
+TEXT_AKTKMA116_04372_THANCRED_000_051	Aunque la propia Krile está ocupada con otra investigación, <split(<string(gstr1)>, ,1)> es un<if(gnum4,a,)> reemplazo sumamente capaz, y no vamos a escatimar esfuerzos para ayudarla.
+TEXT_AKTKMA116_04372_THANCRED_000_052	Entonces, si entiendo bien, buscan hacer talismanes que puedan anular las emisiones aetéricas.
+TEXT_AKTKMA116_04372_NIDHANA_000_053	Así es. Como saben, la torre emite enormes concentraciones de aether; nadie puede acercarse sin quedar subyugado.
+TEXT_AKTKMA116_04372_NIDHANA_000_054	Por eso solo podemos estudiar la torre desde lejos, y no podemos hacer nada importante contra ella.
+TEXT_AKTKMA116_04372_NIDHANA_000_055	Para contraatacar, el satrap nos encargó a los alquimistas crear talismanes encantados. Talismanes que permitan a nuestros soldados entrar en la torre aunque no tengan protección innata.
+TEXT_AKTKMA116_04372_URIANGER_000_056	¿Sería posible algo así?
+TEXT_AKTKMA116_04372_NIDHANA_000_057	Es cierto que todavía estamos haciendo pruebas, pero tenemos bastante confianza.
+TEXT_AKTKMA116_04372_NIDHANA_000_058	Ya desde antes, nuestro pueblo busca desde hace mucho medidas contra la corrupción aetérica de los primals.
+TEXT_AKTKMA116_04372_NIDHANA_000_059	De los métodos probados hasta ahora, los que usan escamas de dragón resultaron los más prometedores.
+TEXT_AKTKMA116_04372_NIDHANA_000_060	Por su densidad aetérica, las escamas son muy resistentes a las fuerzas perturbadoras. Cuanto más poderoso el dragón, mayor la resistencia.
+TEXT_AKTKMA116_04372_NIDHANA_000_061	Buscamos amplificar esa propiedad protectora con nuestra alquimia.
+TEXT_AKTKMA116_04372_NIDHANA_000_062	Gracias a las escamas que nos dio Su Excelencia, pudimos avanzar de forma constante con el talismán.
+TEXT_AKTKMA116_04372_NIDHANA_000_063	Pronto estaremos listos para hacer una prueba de campo... y ahí es donde entran usted y su bendición de la Luz.
+TEXT_AKTKMA116_04372_Q1_000_064	¿Qué dices?
+TEXT_AKTKMA116_04372_A1_000_065	Sea lo que sea, ¡déjenmelo a mí!
+TEXT_AKTKMA116_04372_A1_000_066	¿Qué es exactamente lo que necesitan que haga?
+TEXT_AKTKMA116_04372_A1_000_067	Mejor que me saquen sangre, supongo...
+TEXT_AKTKMA116_04372_NIDHANA_000_068	¡Gracias! Por si se lo pregunta, solo le pedimos que haga de escolta.
+TEXT_AKTKMA116_04372_NIDHANA_000_069	Nada complicado, se lo aseguro. Solo le pedimos que haga de escolta.
+TEXT_AKTKMA116_04372_NIDHANA_000_070	¡Jaja, quizás! Y conociendo a mis colegas, no se van a conformar solo con sangre...
+TEXT_AKTKMA116_04372_NIDHANA_000_071	Pero en cuanto a su tarea, solo le pedimos que haga de escolta.
+TEXT_AKTKMA116_04372_NIDHANA_000_072	Le explicaré con más detalle después, pero va a entrar en el campo de influencia de la torre.
+TEXT_AKTKMA116_04372_NIDHANA_000_073	Así que, por su propia seguridad, primero me gustaría probar qué tan bien l<if(gnum4,a,o)> protege su bendición. Con su permiso, claro.
+TEXT_AKTKMA116_04372_THANCRED_000_074	En ese caso, Urianger y yo buscaremos otras formas de ser útiles. Como trabajan hasta desmayarse, sospecho que les vendrían bien más manos.
+TEXT_AKTKMA116_04372_NIDHANA_000_075	¡Agradeceremos cualquier ayuda que puedan darnos!
+TEXT_AKTKMA116_04372_NIDHANA_000_076	Si está list<if(gnum4,a,o)>, pongamos a prueba su bendición.
+TEXT_AKTKMA116_04372_NIDHANA_000_077	Si sale del Great Work y gira hacia el sur, va a ver una colina a la derecha. Nos encontramos arriba cuando termine unos preparativos.
+TEXT_AKTKMA116_04372_VARSHAHN_000_080	Suerte con la prueba. Yo me quedo aquí para ayudar a los otros alquimistas.
+TEXT_AKTKMA116_04372_SYSTEM_000_085	Ves un farol de diseño local.
+TEXT_AKTKMA116_04372_NIDHANA_000_090	Espero que no le haya costado encontrar este lugar, ni subir la colina. No todos están acostumbrados al esfuerzo físico.
+TEXT_AKTKMA116_04372_NIDHANA_000_091	Le presento el fruto de nuestro sudor, nuestras lágrimas y muchas noches sin dormir: ¡el deepa borracho!
+TEXT_AKTKMA116_04372_NIDHANA_000_092	Un deepa es un farol que se presenta como ofrenda a los dioses. Inspirándonos en esa tradición, creamos este aparato para probar la eficacia del talismán.
+TEXT_AKTKMA116_04372_NIDHANA_000_093	Al activarlo, se mueve una cierta distancia y luego emite una potente descarga de aether.
+TEXT_AKTKMA116_04372_NIDHANA_000_094	En lugar de la corrupción, quienes no tienen suficiente protección sufren un mareo aetérico grave.
+TEXT_AKTKMA116_04372_NIDHANA_000_095	Para su prueba, va a recibir cuatro descargas. Eso debería bastar para determinar la capacidad protectora de su bendición.
+TEXT_AKTKMA116_04372_NIDHANA_000_096	Empiece cuando quiera. Yo observo desde una distancia segura.
+TEXT_AKTKMA116_04372_NIDHANA_000_100	Para reducir el riesgo de exposición accidental, el deepa borracho solo emite una descarga después de moverse una cierta distancia. ¡Sígalo de cerca y báñese en aether cuatro veces!
+TEXT_AKTKMA116_04372_LANTERN04372_000_110	Iniciando prueba de exposición aetérica. Repito: iniciando prueba de exposición aetérica. Si no es el sujeto, retírese a una distancia segura.
+TEXT_AKTKMA116_04372_SYSTEM_000_111	Sigue al deepa borracho e intenta no quedarte atrás.
+TEXT_AKTKMA116_04372_BALLOON_100_111	¡Advertencia: descarga de aether!
+TEXT_AKTKMA116_04372_SYSTEM_000_112	Te golpea una potente descarga de aether, pero no sufres ningún efecto negativo.
+TEXT_AKTKMA116_04372_LANTERN04372_000_120	¿El sujeto no siente un impulso irrefrenable de vaciar el estómago? Confirmado; se reanuda la prueba. Sígame, por favor.
+TEXT_AKTKMA116_04372_SYSTEM_000_121	Te golpea otra potente descarga de aether, pero no sufres ningún efecto negativo.
+TEXT_AKTKMA116_04372_LANTERN04372_000_130	¿Se mantiene la integridad del estómago y los intestinos del sujeto? Confirmado; se reanuda la prueba. Sígame, por favor.
+TEXT_AKTKMA116_04372_SYSTEM_000_131	Te golpea otra potente descarga de aether más, pero no sufres ningún efecto negativo. Parece que la bendición de la Luz te mantiene a salvo...
+TEXT_AKTKMA116_04372_LANTERN04372_000_140	Resistencia del sujeto calificada como... ¡impresionante! Sin irregularidades... confirmado. Se reanuda la prueba. Sígame, por favor, y prepárese para la descarga final.
+TEXT_AKTKMA116_04372_SYSTEM_000_141	Te golpea la descarga de aether más fuerte hasta ahora, ¡pero sobrevives sin un rasguño!
+TEXT_AKTKMA116_04372_LANTERN04372_000_142	Prueba de exposición aetérica terminada. Por favor, recójame y entrégueme a la alquimista supervisora.
+TEXT_AKTKMA116_04372_LANTERN04372_000_150	Felicitaciones por conservar la compostura y los humores.
+TEXT_AKTKMA116_04372_NIDHANA_000_160	Ah, volvió, y no de rodillas. ¡Buena señal! Pero venga, déjeme recibir el deepa.
+TEXT_AKTKMA116_04372_NIDHANA_000_161	¡Gracias! Voy a reponerle el aether para cuando probemos el talismán.
+TEXT_AKTKMA116_04372_NIDHANA_000_162	Entonces, ¿nada de mareos, náuseas ni nada por el estilo? ¿Se siente perfectamente bien?
+TEXT_AKTKMA116_04372_NIDHANA_000_163	Entonces la fuerza de su bendición está fuera de duda. No hay riesgo de que la torre corrompa su aether.
+TEXT_AKTKMA116_04372_NIDHANA_000_164	Con esto, podemos pedir su ayuda para la tarea que viene con el corazón tranquilo.

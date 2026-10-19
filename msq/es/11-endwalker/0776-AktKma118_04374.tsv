@@ -1,0 +1,97 @@
+key	text
+TEXT_AKTKMA118_04374_SEQ_00	Nidhana no sabe que está a punto de mandarte a otro encargo.
+TEXT_AKTKMA118_04374_TODO_00	Habla con Varshahn.
+TEXT_AKTKMA118_04374_TODO_01	Vuelve a hablar con Varshahn.
+TEXT_AKTKMA118_04374_TODO_02	Reúne información en el puesto avanzado frente a la torre.
+TEXT_AKTKMA118_04374_TODO_03	Habla con Varshahn.
+TEXT_AKTKMA118_04374_TODO_04	Monta en el hamsa.
+TEXT_AKTKMA118_04374_TODO_05	Ve montad<if(gnum4,a,o)> en el hamsa a Giantsgall Grounds.
+TEXT_AKTKMA118_04374_TODO_06	Habla con Zeynuha.
+TEXT_AKTKMA118_04374_NIDHANA_000_000	Si me disculpa, vuelvo a mi trabajo con el talismán.
+TEXT_AKTKMA118_04374_VARSHAHN_000_001	Ah, volvieron los dos. Excelente.
+TEXT_AKTKMA118_04374_VARSHAHN_000_002	Tengo un mensaje para usted, señora Nidhana.
+TEXT_AKTKMA118_04374_VARSHAHN_000_003	Parece que las existencias de giantsgall se están agotando.
+TEXT_AKTKMA118_04374_NIDHANA_000_004	¿Qué? Pero la última vez que miré todavía había de sobra...
+TEXT_AKTKMA118_04374_VARSHAHN_000_005	Sospecho que eso fue antes de que Urianger les contara a todos sobre su cura para la subyugación, y de que Estinien compartiera lo que sabe de los dragones. Desde entonces, sus colegas se inspiraron para fabricar varios prototipos nuevos de talismán.
+TEXT_AKTKMA118_04374_NIDHANA_000_006	Ya veo... Bueno, si abre nuevas posibilidades, lejos de mí quejarme, pero vamos a tener que reponer las existencias...
+TEXT_AKTKMA118_04374_VARSHAHN_000_007	Con gusto me encargo, si le parece.
+TEXT_AKTKMA118_04374_NIDHANA_000_008	Te agradezco mucho el ofrecimiento, querido, pero no puedo en conciencia mandarte solo allá afuera con secuestradores sueltos.
+TEXT_AKTKMA118_04374_NIDHANA_000_009	<split(<string(gstr1)>, ,1)>, aunque me pesa encargarle otra tarea tan pronto, ¿podría ir a buscar el giantsgall?
+TEXT_AKTKMA118_04374_NIDHANA_000_010	Por si no lo conoce, el giantsgall es un tipo de mineral que se encuentra en la isla. Por su dureza y su conductividad aetérica, tiene aplicaciones en muchas disciplinas, y no menos en la alquimia.
+TEXT_AKTKMA118_04374_NIDHANA_000_011	La cantera donde se encuentra, llamada con acierto Giantsgall Grounds, no queda lejos, así que no debería quitarle mucho tiempo. ¿Podemos abusar de su amabilidad una vez más?
+TEXT_AKTKMA118_04374_NIDHANA_000_012	¡Gracias! Cuando llegue a la cantera, por favor busque a un hombre llamado Zeynuha. Él le dará el mineral.
+TEXT_AKTKMA118_04374_VARSHAHN_000_013	Por lo menos permítame acompañarl<if(gnum4,a,o)>. Da la casualidad de que tengo un encargo propio que me lleva al puesto avanzado que está cerca.
+TEXT_AKTKMA118_04374_VARSHAHN_000_014	¿Nos presta un par de hamsa, señora Nidhana?
+TEXT_AKTKMA118_04374_NIDHANA_000_015	Por supuesto. Ten paciencia con ellos: los que sobrevivieron todavía están en entrenamiento.
+TEXT_AKTKMA118_04374_VARSHAHN_000_016	Llevaré los hamsa a la entrada. Encuéntreme allí cuando esté list<if(gnum4,a,o)>.
+TEXT_AKTKMA118_04374_NIDHANA_000_020	A pesar de su corta edad, Varshahn es considerado y confiable. ¡Se entiende por qué lo eligieron como asistente del satrap!
+TEXT_AKTKMA118_04374_VARSHAHN_000_030	Aquí están nuestros hamsa, <split(<string(gstr1)>, ,1)>. Si las criaturas le resultan conocidas, es porque son parientes cercanos de sus dodos de Eorzea.
+TEXT_AKTKMA118_04374_VARSHAHN_000_031	En Thavnair los hamsa se crían como ganado desde hace mucho, y hay muchos criaderos aquí. Por desgracia, el más grande lo arrasaron hace poco los monstruos de la torre.
+TEXT_AKTKMA118_04374_VARSHAHN_000_032	Como ese criadero estaba cerca de la torre, la Radiant Host convirtió sus restos en un puesto avanzado.
+TEXT_AKTKMA118_04374_VARSHAHN_000_033	Allí me lleva mi encargo, y su destino queda a un paso.
+TEXT_AKTKMA118_04374_VARSHAHN_000_034	Si no tiene objeciones, vayamos primero al puesto avanzado. Salimos cuando usted diga.
+TEXT_AKTKMA118_04374_VARSHAHN_000_040	¿Está list<if(gnum4,a,o)>? Entonces partamos. Solo tiene que montar y relajarse: mi ave y yo iremos adelante para que la suya nos siga.
+TEXT_AKTKMA118_04374_Q1_000_041	¿Montar en el hamsa y viajar al puesto avanzado?
+TEXT_AKTKMA118_04374_VARSHAHN_000_042	Vamos. Si nunca montó un dodo, le advierto que tienen un andar tambaleante.
+TEXT_AKTKMA118_04374_VARSHAHN_000_043	Esa formación espectacular que se extiende sobre el agua se llama Khadga, una palabra que significa "espada".
+TEXT_AKTKMA118_04374_VARSHAHN_000_044	Según la leyenda, los Manusya empuñaron esta espada contra los Mrga antes de arrojarla al terminar el conflicto.
+TEXT_AKTKMA118_04374_VARSHAHN_000_045	A la izquierda, y sin necesidad de presentación, está la torre. Como ve, se alza sobre un islote.
+TEXT_AKTKMA118_04374_VARSHAHN_000_046	Ya casi llegamos. Aunque la parte principal del criadero está en lo alto del acantilado, el puesto avanzado está en la playa.
+TEXT_AKTKMA118_04374_VARSHAHN_000_047	Y aquí estamos. A cargo de la Radiant Host, este puesto avanzado es nuestra primera línea de defensa contra la torre.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_048	Vaya, vaya, pero si es el joven Varshahn. ¿Un encargo del satrap?
+TEXT_AKTKMA118_04374_VARSHAHN_000_049	Así es. Su Excelencia me pidió que viniera a buscar su informe.
+TEXT_AKTKMA118_04374_VARSHAHN_000_050	También quería expresar su más sincera gratitud a los valientes hombres y mujeres de la Radiant Host por su dedicación incansable.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_051	Solo cumplimos con nuestro deber, pero nos honra recibir la estima de Su Excelencia.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_052	Y sin embargo, con toda su infinita bondad, su trato hacia alguien tan joven podría considerarse... insensible.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_053	Aunque estos últimos días disfrutamos de una relativa paz y calma, esto sigue siendo la primera línea de batalla. No es lugar para niños.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_054	Tu predecesor viajaba solo demasiado a menudo. ¿Cuánto hace que lo reemplazaste, dos años? Me pregunto cómo estará el muchacho...
+TEXT_AKTKMA118_04374_VARSHAHN_000_055	Como los que vinieron antes que él, pasó a representar al satrap en tierras extranjeras. Esté donde esté, seguro que está bien.
+TEXT_AKTKMA118_04374_VARSHAHN_000_056	En cuanto a mí, le aseguro que todo lo que hago lo hago por voluntad propia, y con gusto. Le ruego que no piense mal de Su Excelencia.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_057	Claro que no, muchacho... Pase lo que pase, mi fe en el satrap es inquebrantable. Pero igual me preocupo por ti.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_058	Nos llenaría de tristeza que te pasara algo, porque eres como un hermanito para todos nosotros. Cuídate, ¿me oyes?
+TEXT_AKTKMA118_04374_VARSHAHN_000_059	Lo haré, Nahbdeen. Gracias.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_060	¿Y quién es esta persona? Por su aspecto, no es hannish.
+TEXT_AKTKMA118_04374_VARSHAHN_000_061	Permítame presentarle a <string(gstr1)>, del contingente de Eorzea, que vino a ayudar a fabricar el talismán.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_062	¡De Eorzea, dice! Allá también aparecieron torres, ¿no? Dígame, ¿cómo está la situación?
+TEXT_AKTKMA118_04374_VARSHAHN_000_063	¿Puedo sugerir que intercambie información con nuestros soldados? Creo que ambas partes podrían aprender algo valioso.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_064	Excelente idea. Dada la naturaleza sin precedentes de la amenaza, es comprensible que algunos de los nuestros estén ansiosos. Agradeceríamos cualquier noticia que pueda compartir.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_065	Ustedes dos, tráiganle a Varshahn el último informe y respondan cualquier pregunta que tenga.
+TEXT_AKTKMA118_04374_VARSHAHN_000_070	Por el momento todo parece tranquilo con la torre. Diría que a los soldados no les molestará que se les acerque.
+TEXT_AKTKMA118_04374_BREEDINGSTAFF04374_000_075	El último monstruo que salió de la torre arrasó el criadero y mató a muchos hamsa buenos. Las pobres criaturas no se lo merecían...
+TEXT_AKTKMA118_04374_SYSTEM_000_080	Este es el que te trajo hasta aquí. Respira con algo de dificultad, quizás por su inexperiencia como montura.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_090	Se me ocurre que todavía no presenté como corresponde a nuestra compañía.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_091	Somos la Radiant Host, una orden militar bajo el mando del satrap. Nuestro deber es mantener la paz en la tierra, ya sea patrullando las calles o enfrentando amenazas hasta ahora desconocidas como la de ahora.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_092	Entrenamos duro, y solo admitimos guerreros capaces en nuestras filas. Aun así, nos costó hacer frente a los demonios de la torre.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_093	Aunque logramos abatirlos las dos veces que vinieron en masa, tuvimos que pagar un precio alto.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_094	¿Y las torres de Eorzea? ¿También engendran monstruos?
+TEXT_AKTKMA118_04374_NAHBDEEN_000_095	Así que es casi lo mismo en todas partes... Con todas las naciones en apuros, no podemos esperar que respondan a los pedidos de ayuda de afuera.
+TEXT_AKTKMA118_04374_NAHBDEEN_000_096	Gracias no solo por la información, sino también por acompañar a Varshahn. Aunque es sabio para su edad, sigue siendo un niño, y no soportaríamos verlo sufrir algún daño.
+TEXT_AKTKMA118_04374_KHUTEEYU_000_097	¿Quiere saber de la torre? A decir verdad, nosotros mismos sabemos poco y nada.
+TEXT_AKTKMA118_04374_KHUTEEYU_000_098	Esta "Tower of Zot", como la empezó a llamar la gente, apareció de repente en la isla de Narunnair.
+TEXT_AKTKMA118_04374_KHUTEEYU_000_099	A esta distancia estamos a salvo de su influencia, pero si se mete demasiado en el agua, se expone a su aether corruptor.
+TEXT_AKTKMA118_04374_KHUTEEYU_000_100	Usted es extranjer<if(gnum4,a,o)>, ¿no? ¿Cómo enfrentan la torre en su tierra?
+TEXT_AKTKMA118_04374_KHUTEEYU_000_101	No somos los únicos en apuros... Entonces nuestras esperanzas siguen puestas en los talismanes. Tenemos que contener a los monstruos hasta que estén listos.
+TEXT_AKTKMA118_04374_KHUTEEYU_000_102	Cuando apareció la torre, mandamos exploradores en un bote a investigar. Pero enseguida quedó claro que algo andaba mal.
+TEXT_AKTKMA118_04374_KHUTEEYU_000_103	Uno tras otro, nuestros compañeros quedaron corrompidos. Solo pudimos mirar horrorizados cómo se mataban entre ellos...
+TEXT_AKTKMA118_04374_IMHUDI_000_104	Ah, oí hablar de usted. L<if(gnum4,a,o)> visitante de Eorzea. ¿Hay algo que pueda contarnos de los Telophoroi?
+TEXT_AKTKMA118_04374_IMHUDI_000_105	Sabemos que están detrás de la torre, y que le declararon la guerra al mundo entero.
+TEXT_AKTKMA118_04374_IMHUDI_000_106	Pero ¿por qué lo hacen? ¿Qué es lo que quieren? Eso no lo entendemos.
+TEXT_AKTKMA118_04374_IMHUDI_000_107	...¿Qué? ¿Quieren morir... y llevarse a todos con ellos? ¿¡Qué locura es esta!?
+TEXT_AKTKMA118_04374_IMHUDI_000_108	¡Bueno, puede apostar a que no vamos a dejar que esos desgraciados se salgan con la suya! ¡Vamos a pelear con todo lo que tenemos, como nuestros hermanos de Eorzea y del Far East!
+TEXT_AKTKMA118_04374_IMHUDI_000_109	Grrr, esos dementes... Si quieren irse al infierno, que se arreglen el pasaje ellos solos, ¡y que nos dejen a los demás fuera de esto!
+TEXT_AKTKMA118_04374_VARSHAHN_000_120	¿Terminó de hablar con los soldados? Espero que haya sido tan instructivo para usted como para ellos.
+TEXT_AKTKMA118_04374_VARSHAHN_000_121	Como nación neutral y centro comercial a la vez, Radz<-->at<-->Han normalmente recibe un flujo constante de noticias del extranjero. Por desgracia, ese flujo se secó cuando dejaron de llegar los barcos mercantes.
+TEXT_AKTKMA118_04374_VARSHAHN_000_122	En medio de la escasez de información, todos le habrán agradecido su relato.
+TEXT_AKTKMA118_04374_VARSHAHN_000_123	...Pero vamos, mejor ocúpese de su encargo original. Como el mío me va a retener aquí un rato más, me temo que no puedo guiarl<if(gnum4,a,o)> el resto del camino.
+TEXT_AKTKMA118_04374_VARSHAHN_000_124	No se preocupe, el camino es sencillo: solo tiene que seguir la ruta hacia el este. Montad<if(gnum4,a,o)> en el hamsa, va a llegar antes de que se dé cuenta.
+TEXT_AKTKMA118_04374_VARSHAHN_000_125	Aunque fue breve, disfruté nuestro tiempo juntos. Hasta la próxima.
+TEXT_AKTKMA118_04374_VARSHAHN_000_130	Por si lo olvidó, para llegar a Giantsgall Grounds solo tiene que seguir la ruta hacia el este. El hamsa debería llevarl<if(gnum4,a,o)> bastante rápido.
+TEXT_AKTKMA118_04374_SYSTEM_000_140	Aunque el hamsa parece querer volver a casa, te ofrece el lomo a regañadientes.
+TEXT_AKTKMA118_04374_SYSTEM_100_140	Si te separas de tu montura, habla con el Radiant beastkeeper del Hamsa Hatchery para volver a montarla.
+TEXT_AKTKMA118_04374_Q2_000_141	¿Montar en el hamsa?
+TEXT_AKTKMA118_04374_BREEDINGSTAFF04374_000_150	Si busca su hamsa, volvió solo hace un rato. ¿Todavía lo necesita?
+TEXT_AKTKMA118_04374_SYSTEM_000_160	Apenas llegas a tu destino, el hamsa sale corriendo...
+TEXT_AKTKMA118_04374_SYSTEM_000_165	Habla con el Radiant beastkeeper del Hamsa Hatchery para montar en el hamsa, y luego ve montad<if(gnum4,a,o)> en él a Giantsgall Grounds.
+TEXT_AKTKMA118_04374_ZEYNUHA_000_170	Sí, esto es Giantsgall Grounds, y yo soy Zeynuha. ¿Necesita algo?
+TEXT_AKTKMA118_04374_ZEYNUHA_000_171	¿Giantsgall para los alquimistas, dice? ¡Claro que lo tendrán!
+TEXT_AKTKMA118_04374_ZEYNUHA_000_172	Trabajan sin descanso para encargarse de la torre, y lo mínimo que podemos hacer es darles los materiales que necesitan.
