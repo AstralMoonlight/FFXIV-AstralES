@@ -1,0 +1,95 @@
+key	text
+TEXT_LUCKMK104_04061_SEQ_00	El nodo de contención está listo para echar una mano... por así decirlo.
+TEXT_LUCKMK104_04061_SEQ_01	Por algún tipo de incompatibilidad interna entre los sistemas que controlan las ataduras de Tiamat, parece que no tienes más remedio que buscar la terminal de control central del Flagship. Por suerte, el nodo de contención está encantado de guiarte hasta el sector donde se encuentra.
+TEXT_LUCKMK104_04061_SEQ_02	Tras superar ciertos obstáculos técnicos, por fin estás en condiciones de soltar los grilletes de Tiamat, aunque Alphinaud tendrá que quedarse en el Flagship para operar la terminal. Solo queda que te reúnas con el resto del grupo y empiecen el tratamiento del gran dragón.
+TEXT_LUCKMK104_04061_SEQ_03	Alisaie invoca a su porxie y se pone a trabajar con Tiamat. Mientras tanto, G'raha Tia sugiere que le pidas al gran dragón que cuente historias de su vida antes de la invocación de Bahamut, con la esperanza de que la ayude a recordar quién es en verdad. Eso haces, y, ya sea gracias a tus intentos de conversación o a pesar de ellos, la primera ronda del tratamiento parece ir bien.
+TEXT_LUCKMK104_04061_SEQ_04	Echando mano de tus reservas de aether y de las de G'raha Tia, Alisaie logra por fin liberar a Tiamat de la influencia maligna de Bahamut. Pero apenas lo consigue, recibes un mensaje de Urianger por linkpearl: avistaron a <italic(1)>Lunar<italic(0)> Bahamut al frente de una hueste, con dragones incluidos, rumbo a Paglth'an. Decidida a expiar sus pecados pasados, Tiamat alza el vuelo de inmediato con Estinien sobre el lomo, y deja al resto para que formulen su propio plan.
+TEXT_LUCKMK104_04061_SEQ_05	Al notar tu ansia por correr en ayuda de los Amalj'aa, G'raha Tia te aconseja esperar a que se reúnan tus compañeros Scions antes de entrar en batalla. Y con el poder del enemigo que enfrentan, parece un buen consejo.
+TEXT_LUCKMK104_04061_TODO_00	Accede a la terminal del Flagship.
+TEXT_LUCKMK104_04061_TODO_01	Habla con Alisaie.
+TEXT_LUCKMK104_04061_TODO_02	Vuelve a hablar con Alisaie.
+TEXT_LUCKMK104_04061_TODO_03	Habla con G'raha Tia.
+TEXT_LUCKMK104_04061_ALISAIE_000_000	Puede que las ataduras hayan mitigado los efectos de su subyugación, pero Tiamat lleva <italic(1)>miles<italic(0)> de años esclavizada por Bahamut. Haber conservado la razón durante todo ese tiempo dice mucho de su fuerza de voluntad. Muchísimo.
+TEXT_LUCKMK104_04061_GRAHATIA_000_005	Alisaie y yo nos quedaremos aquí a hacer los preparativos necesarios. Si el recipiente del espíritu no funciona como esperamos, ya sabes dónde encontrarme. Buena suerte.
+TEXT_LUCKMK104_04061_ALPHINAUD_000_010	Cid y sus colegas siempre hacen que manejar estos aparatos Allagans parezca tan fácil...
+TEXT_LUCKMK104_04061_ESTINIEN_000_015	No sé qué se les metió a los Allagans en la cabeza para rodearse de estos orbes parlanchines, pero que ellos sigan aquí y sus creadores no dice mucho...
+TEXT_LUCKMK104_04061_SECURITYSYSTEM_000_030	\<blup> Guiando al usuario a la terminal. Por aquí, por favor.
+TEXT_LUCKMK104_04061_ALPHINAUD_000_040	Esta terminal parece similar a la que encontramos cuando pusimos un pie aquí por primera vez. Esperemos que sea igual de útil.
+TEXT_LUCKMK104_04061_ESTINIEN_000_045	A mí no me mires. Esto es tarea tuya y de Alphinaud.
+TEXT_LUCKMK104_04061_SECURITYSYSTEM_000_050	\<blup> Acceso concedido al usuario <string(gstr1)> y a su acompañante elezen adolescente. El otro acompañante de <if(gnum4,la Maestra,el Maestro)> <split(<string(gstr1)>, ,2)> se considera un riesgo potencial para la operación segura y se le niegan los privilegios de acceso hasta nuevo aviso.
+TEXT_LUCKMK104_04061_ALPHINAUD_000_070	A ver... Según la terminal, el sistema de control central usa actualmente... la "versión de software 56.135". ¿Me atrevo a preguntar qué versión usas <italic(1)>tú<italic(0)>?
+TEXT_LUCKMK104_04061_SECURITYSYSTEM_000_071	Pues la versión de software 42.002, por supuesto.<br>\<bip> \<blup> Advertencia: errores detectados en el sistema de gestión de datos. Tiempo estimado de la actualización: 5 años y 1 día.
+TEXT_LUCKMK104_04061_ALPHINAUD_000_072	Eso es... bastante más de lo que esperábamos. ¿No hay otras opciones? ¿Por ejemplo, usar esta terminal para operar las ataduras de Tiamat?
+TEXT_LUCKMK104_04061_SECURITYSYSTEM_000_073	\<blup> El método propuesto es, en efecto, una opción. Pero tenga en cuenta que el procedimiento puede haber cambiado con la actualización del sistema, y que mis instrucciones podrían no ser exactas.
+TEXT_LUCKMK104_04061_ALPHINAUD_000_074	Bueno, no me imagino que haya cambiado tanto. Si prestamos la debida atención a cualquier discrepancia, me atrevo a decir que podremos arreglárnoslas.
+TEXT_LUCKMK104_04061_ESTINIEN_000_075	No te molestes en explicar. Solo dime si avanzamos.
+TEXT_LUCKMK104_04061_ALPHINAUD_000_076	Yo diría que sí. Aunque tengo que quedarme aquí para operar la terminal. Les avisaré por linkpearl cuando esté listo para soltar los grilletes.
+TEXT_LUCKMK104_04061_ALPHINAUD_100_076	Quizá sea mejor que me deje el recipiente del espíritu. Puede que todavía lo necesite. No se preocupe: me aseguraré de devolvérselo a G'raha Tia cuando esto termine.
+TEXT_LUCKMK104_04061_ESTINIEN_000_077	...Solo un poco más de trabajo y Tiamat será libre.
+TEXT_LUCKMK104_04061_ESTINIEN_000_078	Pero antes de seguir, hay algo que quiero saber.
+TEXT_LUCKMK104_04061_ESTINIEN_000_079	Cuando Tiamat y los suyos pelearon contra el Imperio Allagan, los dos bandos no hacían más que bailar al son de los Ascians.
+TEXT_LUCKMK104_04061_ESTINIEN_000_080	Y lo mismo pasó en Ishgard, donde avivaron desde las sombras el fuego del conflicto entre el hombre y el dragón.
+TEXT_LUCKMK104_04061_ESTINIEN_000_081	Todo lo que tocan los Ascians se vuelve ceniza, y por eso hiciste de combatirlos tu misión.
+TEXT_LUCKMK104_04061_ESTINIEN_000_082	Pero hubo veces en que intentaste tenderles la mano. Encontrar un terreno común.
+TEXT_LUCKMK104_04061_ESTINIEN_000_083	Así que debo preguntarte: ¿qué piensas hacer con Fandaniel? ¿Vas a intentar tenderle la mano a él también?
+TEXT_LUCKMK104_04061_Q1_000_100	¿Qué dices?
+TEXT_LUCKMK104_04061_A1_000_100	Enemigo o no, quiero entenderlo.
+TEXT_LUCKMK104_04061_A2_000_100	Lo intentaré, sí. Y si no funciona, lo recordaré.
+TEXT_LUCKMK104_04061_A3_000_100	Claro. Después de borrarle la sonrisa de la cara.
+TEXT_LUCKMK104_04061_ESTINIEN_000_090	¿Pero no te dijo que no atendía a razones? Si quiere morir, digo que le demos el gusto.
+TEXT_LUCKMK104_04061_ESTINIEN_000_095	Hmph. No le veo sentido a razonar con ese miserable. Ni a recordarlo, ya que estamos.
+TEXT_LUCKMK104_04061_ESTINIEN_000_100	Hmph. Yo preferiría atravesarle el corazón con mi lanza y terminar con esto.
+TEXT_LUCKMK104_04061_ESTINIEN_000_110	Pero quizá esa sea la diferencia entre tú y yo. Tú ves lo bueno en la gente, aunque no sea más que un destello. Solo espero que no termines lamentando tu bondad.
+TEXT_LUCKMK104_04061_ALPHINAUD_000_111	¿Le parece imprudente que veamos el mundo así?
+TEXT_LUCKMK104_04061_ESTINIEN_000_112	Nada de eso. Siempre fue su manera de ser, como aprendí cuando viajamos con Iceheart.
+TEXT_LUCKMK104_04061_ESTINIEN_000_113	Pero lo cierto es que hay quienes ven la compasión como una debilidad que aprovechar. Y puede que llegue el momento en que tiendan la mano en amistad y deseen haber dado el golpe de gracia.
+TEXT_LUCKMK104_04061_ESTINIEN_000_114	Así que... guarden su piedad para quienes la merezcan.
+TEXT_LUCKMK104_04061_ESTINIEN_000_115	...Bueno, deberíamos volver a lo nuestro. Si Alphinaud tiene esto bajo control, sugiero que nos reunamos con los demás.
+TEXT_LUCKMK104_04061_ALPHINAUD_000_120	No puedo negar la lógica del argumento de Estinien. Con todo lo que está en juego, hasta el menor error de juicio podría ser nuestra perdición.
+TEXT_LUCKMK104_04061_SECURITYSYSTEM_000_125	\<bip> \<blup> ¡Advertencia! Soltar las ataduras de dragones puede provocar la pérdida del espécimen, daños en las instalaciones e incineración del personal.
+TEXT_LUCKMK104_04061_ESTINIEN_000_130	Si ese Fandaniel de verdad no tiene razón ni credo, no es mejor que un perro rabioso. Trata con él si hace falta, pero prepárate para hacer lo necesario.
+TEXT_LUCKMK104_04061_GRAHATIA_000_135	¿Así que el recipiente del espíritu sirvió después de todo? ¡Excelente!
+TEXT_LUCKMK104_04061_ALISAIE_000_150	Estinien me dijo que todo está bien, y nada más. La verdad, sacarle algo es como sacarle agua a una piedra. ¿Supongo que, si Alphinaud no está, es porque lo necesitan en otra parte?
+TEXT_LUCKMK104_04061_ALISAIE_000_151	Bueno, todo eso suena bastante frustrante, pero al final lo lograron. Mientras usted hablaba con nodos, G'raha y yo aprendimos todo lo que pudimos sobre el estado de Tiamat.
+TEXT_LUCKMK104_04061_GRAHATIA_000_152	Nuestras mediciones confirman que su equilibrio aetherial se inclina con fuerza hacia lo umbral, como en el caso de los kobolds. Por lo tanto, si lo demás se mantiene igual, el tratamiento debería funcionar.
+TEXT_LUCKMK104_04061_GRAHATIA_000_153	La dificultad está en la enorme cantidad de aether con la que tenemos que lidiar. Para revertir por completo los efectos de la subyugación harán falta, inevitablemente, varias aplicaciones del tratamiento.
+TEXT_LUCKMK104_04061_ALISAIE_000_155	Lo que significa que voy a necesitar todo el aether que pueda conseguir. Gracias de antemano.
+TEXT_LUCKMK104_04061_GRAHATIA_100_155	Aunque esta empresa nos va a exigir mucho, tenemos un motivo para ser optimistas.
+TEXT_LUCKMK104_04061_GRAHATIA_101_155	Y es que Tiamat no muestra señales de devoción fanática, lo que sugiere una subyugación más leve que la que sufrieron los kobolds.
+TEXT_LUCKMK104_04061_ESTINIEN_000_156	Mmm... Tiamat veía a Bahamut como un igual y no como un dios. ¿Habrá marcado eso la diferencia?
+TEXT_LUCKMK104_04061_ALISAIE_000_157	Ahora que lo mencionas, es muy posible. No habría creído necesario someterse a su voluntad.
+TEXT_LUCKMK104_04061_ALISAIE_100_157	Pero basta de charla: es hora de poner a prueba nuestras teorías. ¡Dígale a Alphinaud que desactive los amortiguadores aetherials de las ataduras!
+TEXT_LUCKMK104_04061_ALISAIE_000_158	¡Cuento contigo, Angelo!
+TEXT_LUCKMK104_04061_TIAMAT_000_159	(-Tiamat-)Ahhh, qué calidez... La escarcha que envuelve mi alma empieza a derretirse.<br>¿Mas qué es esto? Visiones de días largo tiempo olvidados... de la guerra con los hombres de Allag. ¿Por qué vuelven a mí ahora tan funestos recuerdos?
+TEXT_LUCKMK104_04061_GRAHATIA_000_160	¿Será que el proceso de devolver su alma al estado previo a la subyugación está despertando recuerdos antiguos? ¿O será al revés? Si es así, ¡ayudándola a recordar el pasado podríamos acelerar su recuperación!
+TEXT_LUCKMK104_04061_GRAHATIA_000_161	<split(<string(gstr1)>, ,1)>, confía en ti. ¡Háblale! ¡Pídele que te cuente de tiempos pasados!
+TEXT_LUCKMK104_04061_Q2_000_200	¿Qué dices?
+TEXT_LUCKMK104_04061_A1_000_200	Háblame de Bahamut y de los Ascians.
+TEXT_LUCKMK104_04061_A2_000_200	Háblame de tu guerra con los hombres de Allag.
+TEXT_LUCKMK104_04061_TIAMAT_000_165	(-Tiamat-)Ah, Bahamut... mi amado... Ojalá la paz que hallamos en Meracydia hubiera durado por toda la eternidad. Mas, ay, no había de ser... Los Ascians se encargaron de ello. En toda la creación no conozco a nadie más perverso. Fue a instancias suyas que los hombres de Allag llegaron por primera vez a Meracydia. A nuestro hogar.
+TEXT_LUCKMK104_04061_TIAMAT_000_170	(-Tiamat-)Criaturas perversas y sanguinarias... No contentos con sus propias tierras, llevaron el fuego y la muerte a Meracydia. A nuestro hogar.
+TEXT_LUCKMK104_04061_TIAMAT_000_180	(-Tiamat-)La historia comenzó cuando Bahamut y yo dejamos el lado de nuestro padre. Alzamos el vuelo en busca de un lugar donde hacer nuestro nido.
+TEXT_LUCKMK104_04061_TIAMAT_000_181	(-Tiamat-)Más allá del océano del sur descubrimos una tierra exuberante y fértil. Los hijos de los hombres la llamarían Meracydia, aunque habían de pasar muchos años antes de que cruzaran los mares.
+TEXT_LUCKMK104_04061_TIAMAT_000_182	(-Tiamat-)A nuestra llegada nos recibió el pacífico pueblo del bosque, pariente de los árboles. Rodeados de los dones de la naturaleza, Bahamut y yo habíamos hallado un lugar donde criar a nuestros pequeños.
+TEXT_LUCKMK104_04061_GRAHATIA_000_183	¡Fascinante! Esto coincide con los escritos de la erudita sharlayana Rurusha.
+TEXT_LUCKMK104_04061_GRAHATIA_100_183	Ella postula que el hombre se asentó por primera vez en el continente del sur hacia el final de la Segunda Era Astral, y parece que acertó. Si tan solo estuviera aquí para oír la historia de boca de la propia Tiamat.
+TEXT_LUCKMK104_04061_ALISAIE_000_184	¡Otra vez, Angelo!
+TEXT_LUCKMK104_04061_TIAMAT_000_185	(-Tiamat-)Cuando los hijos del hombre llegaron por primera vez a nuestras costas, no pusieron pie en las tierras sobre las que teníamos dominio, tal era su temor a los dragones. Y así como ellos guardaban su distancia, nosotros los dejábamos en paz.
+TEXT_LUCKMK104_04061_TIAMAT_000_186	(-Tiamat-)Mas con el paso de los días apareció en el horizonte barco tras barco, trayendo cada vez más de sus hermanos, que se repartieron entre ellos la vasta tierra.
+TEXT_LUCKMK104_04061_TIAMAT_000_187	(-Tiamat-)Por un tiempo conocieron la paz y la prosperidad. Pero cuanto más crecía su número, más pequeña les parecía su parte, y pronto empezaron a codiciar el territorio de sus vecinos. Al poco tiempo, el hombre peleaba contra el hombre, la sangre se pagaba con sangre, y nadie veía el fin de la contienda. Hasta que un día vinieron a nosotros.
+TEXT_LUCKMK104_04061_TIAMAT_000_188	(-Tiamat-)Reconociendo nuestra sabiduría, nos rogaron que mediáramos en sus conflictos. Bahamut aceptó, y con él al frente de los asuntos de los hombres, la tierra volvió a conocer la paz.
+TEXT_LUCKMK104_04061_TIAMAT_000_189	(-Tiamat-)Ay, también aquellos días dorados de armonía estaban destinados a terminar. Pues los hombres de Allag dieron muerte a mi amado, y yo, en mi ira y mi pena, presté oído a las palabras envenenadas de los Ascians... Lo demás, vos lo sabéis demasiado bien.
+TEXT_LUCKMK104_04061_ALISAIE_000_190	Pero tu historia no tiene por qué terminar ahí. Cuando seas libre, libraremos juntos al mundo de los Ascians. Y tú y tu amado tendrán justicia.
+TEXT_LUCKMK104_04061_ESTINIEN_100_190	Lindas palabras, pero estás casi agotada. Vigilaré desde arriba. Si el tratamiento falla... corran.
+TEXT_LUCKMK104_04061_ALISAIE_101_190	Uf... ¡Gracias por el voto de confianza!<br>Te juro que, cuando esto termine...
+TEXT_LUCKMK104_04061_GRAHATIA_000_191	¡Sigue, Alisaie! ¡La magia está funcionando!
+TEXT_LUCKMK104_04061_ESTINIEN_000_200	La muchacha es tan terca como su hermano. A estas alturas debe estar casi sin aether, pero no se rinde.
+TEXT_LUCKMK104_04061_GRAHATIA_000_205	Lenta pero segura, la magia está funcionando, ayudada sin duda por los recuerdos que le pediste compartir.
+TEXT_LUCKMK104_04061_ALISAIE_000_220	\<jadeo> Sabía que no iba a ser fácil... pero ningún paciente podría haberme preparado para tratar a un gran dragón...
+TEXT_LUCKMK104_04061_ALISAIE_000_221	Pero estamos cerca. Lo siento. Y aunque solo me quedan unas gotas de aether para dar, con el suyo y el de G'raha, esto <italic(1)>va<italic(0)> a funcionar.
+TEXT_LUCKMK104_04061_GRAHATIA_000_222	¡Entonces creo hablar por los dos al decir que puedes tomar todo lo que necesites!
+TEXT_LUCKMK104_04061_ALISAIE_000_223	Cuidado, que puedo tomarte la palabra...<br>¡Muy bien, allá voy!
+TEXT_LUCKMK104_04061_ALPHINAUD_000_260	Paglth'an... Qué curiosa coincidencia.
+TEXT_LUCKMK104_04061_SECURITYSYSTEM_000_265	\<blup> Ataduras de dragones soltadas con éxito. No se puede confirmar la presencia del espécimen "Tiamat". Busque refugio de inmediato.
+TEXT_LUCKMK104_04061_ALISAIE_000_270	\<jadeo> Voy a estar bien... Tendré tiempo de sobra para... \<jadeo>... recuperarme en la aeronave.
+TEXT_LUCKMK104_04061_GRAHATIA_000_290	Seguro que te mueres por unirte a Estinien y a Tiamat en la batalla, pero sería más prudente reunir primero a todos los Scions. El enemigo que enfrentamos no exige menos.
