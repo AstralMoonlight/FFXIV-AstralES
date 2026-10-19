@@ -1,0 +1,34 @@
+key	text
+TEXT_LUCKMI108_03778_SEQ_00	El Crystal Exarch es la imagen misma de la determinación.
+TEXT_LUCKMI108_03778_SEQ_01	A tu señal, el Exarch levanta la barrera, y juntos entran a grandes pasos en la Crystal Tower para enfrentarse a Elidibus.<br><br>※Si sales de la instancia, puedes volver a entrar hablando con el centinela del Crystarium.
+TEXT_LUCKMI108_03778_SEQ_02	Mientras suben serpenteando por la torre, las incesantes invocaciones de tu adversario le pasan cada vez más factura a tu compañero, hasta hacerlo caer de rodillas. Como su cuerpo, que se cristaliza rápidamente, ya no puede seguir el ritmo, el Exarch jura contener a los guerreros espectrales mientras tú sigues sol<if(gnum4,a,o)>... y así lo haces, esperando todo el tiempo volver a verlo.<br><br>Un rato después llegas al nivel más alto de la torre, donde por fin quedas cara a cara con Elidibus. Desafiando sus recuerdos que se desvanecen, el Ascian se aferra a su nombre y a su deber, y toma el poder de todavía más héroes para alzarse como la encarnación del Warrior of Light. Con esa forma poderosa, desata contra ti un estallido de resplandor que todo lo consume, solo para quedarse boquiabierto al ver que sales iles<if(gnum4,a,o)>. En tu mano brilla el cristal de constelación que recibiste de Hythlodaeus, y a tu alrededor un conjunto de círculos arcanos espera para invocar en tu ayuda a campeones del otro lado de la grieta. Con las fuerzas así igualadas, te preparas para la batalla decisiva con tu enemigo más antiguo.<br><br>※Se puede entrar al Seat of Sacrifice desde el Duty Finder.
+TEXT_LUCKMI108_03778_SEQ_03	La batalla se desarrolla sin que ningún bando ceda un ilm, pero al final eres tú quien da el golpe final y hace caer de rodillas a Elidibus.
+TEXT_LUCKMI108_03778_SEQ_04	Desafiante aun en la derrota, Elidibus proclama su propia inmortalidad, hasta que llega el Exarch y juega la carta que prometió. Aprovechando la enorme reserva de energía de la Crystal Tower, despoja al primal de su poder y atrapa su esencia dispersa. Pero antes de que el Ascian se desvanezca en el olvido, decides devolverle sus recuerdos perdidos y concederle algo de paz al final.<br><br>Es, se mire como se mire, una victoria histórica, pero no sin un costo, porque pronto queda claro que el esfuerzo del Exarch tuvo un precio mortal. Mientras lo que queda de su carne se convierte en cristal, te pide un último favor: un viaje juntos. Reconfortado por tu respuesta, te confía su mente y sus recuerdos antes de empezar su vigilia silenciosa...
+TEXT_LUCKMI108_03778_SEQ_05	Al reunirte con tus otros compañeros en la Exedra, Ryne te cuenta que todo volvió a la normalidad en Norvrandt. Pero es evidente que algo le pesa...
+TEXT_LUCKMI108_03778_TODO_00	Entra en la Crystal Tower.
+TEXT_LUCKMI108_03778_TODO_01	Derrota al Warrior of Light.
+TEXT_LUCKMI108_03778_TODO_02	Derrota al Warrior of Light.
+TEXT_LUCKMI108_03778_TODO_03	Habla con Ryne.
+TEXT_LUCKMI108_03778_GUIDEOFTHEPENDANTS_100_000	¡M-Mi <if(gnum4,señora,señor)>! Mis más sinceras disculpas, pero en este momento el camino a su habitación está bloqueado. Verá, con la prisa por ver la lluvia de estrellas, varios residentes perdieron pie y cayeron por la escalera... Nuestros cirujanos los están atendiendo, y le pedimos paciencia y comprensión hasta que se los pueda trasladar.
+TEXT_LUCKMI108_03778_MYSTERYVOICE_000_000	¿Estás list<if(gnum4,a,o)>, entonces? Muy bien. Levantaré la barrera.
+TEXT_LUCKMI108_03778_Q1_000_001	¿Qué dices?
+TEXT_LUCKMI108_03778_A1_000_002	¡Es hora de terminar con esto!
+TEXT_LUCKMI108_03778_A1_000_003	¿Sabes? No hace tanto que te vi sellar este lugar.
+TEXT_LUCKMI108_03778_MYSTERYVOICE_000_004	Y terminaremos con esto. ¡Porque ningún héroe que nuestro enemigo pueda invocar a su lado podrá compararse contigo! Y... en cuanto a mí... bueno, ningún aliado que puedas invocar a tu lado se esforzará más, eso te lo juro.
+TEXT_LUCKMI108_03778_MYSTERYVOICE_000_005	¡Así que vamos, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>! ¡Terminemos con esto de una vez por todas!
+TEXT_LUCKMI108_03778_MYSTERYVOICE_000_006	¿Hm? <italic(1)>Ah<italic(0)>, antes de que empezara mi sueño, dices. ¡Ja! A mí me parece bastante más tiempo. Pero sí, qué simetría tan curiosa.
+TEXT_LUCKMI108_03778_MYSTERYVOICE_000_007	Esta vez soy yo quien rompe el sello, y no tengo ninguna intención de volver a encerrarme.
+TEXT_LUCKMI108_03778_MYSTERYVOICE_000_008	No, juntos entraremos y juntos saldremos, triunfantes. ¡Así que vamos, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>! ¡Manos a la obra!
+TEXT_LUCKMI108_03778_GUIDESOLDIER03643_000_010	¡<if(gnum4,Señora,Señor)>! ¿Va a entrar en la torre?
+TEXT_LUCKMI108_03778_Q2_000_0011	¿Ir al Seat of Sacrifice?
+TEXT_LUCKMI108_03778_ALPHINAUD_000_020	En momentos así, es difícil saber qué decir...<br>...¿Está bien, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>?
+TEXT_LUCKMI108_03778_ALISAIE_000_025	Lo hizo bien, <split(<string(gstr1)>, ,1)>... usted y el Exarch...
+TEXT_LUCKMI108_03778_THANCRED_000_030	Poco después de que te fuiste, notamos que las filas enemigas ya no se reponían, seguramente cuando notaron tu ausencia. Así que acabamos con ellos y vinimos lo más rápido que pudimos.
+TEXT_LUCKMI108_03778_THANCRED_000_031	...Es decir, no lo bastante rápido. Pero tenías al Exarch como compañía, ¿no?, y no podías pedir nada mejor.
+TEXT_LUCKMI108_03778_URIANGER_000_035	Antes de bajar del salón del trono, encontré por casualidad un objeto que, si estoy en lo cierto, alguna vez-
+TEXT_LUCKMI108_03778_URIANGER_000_036	...Hm. M-Mis disculpas. Quizás ahora no sea el momento adecuado. Hablemos de ello más tarde.
+TEXT_LUCKMI108_03778_YSHTOLA_000_040	A veces quisiera tener yo también el don del Echo. Así podría ver lo que tú viste y asomarme a tu corazón sin necesidad de palabras.
+TEXT_LUCKMI108_03778_RYNE_000_050	...¿Hm? ¿Si estoy bien? Yo debería preguntárselo a usted...
+TEXT_LUCKMI108_03778_RYNE_000_051	Pero sí, estoy bien, gracias. Todos lo estamos.
+TEXT_LUCKMI108_03778_RYNE_000_052	La gente está bien, la ciudad está bien, y las lluvias de estrellas se detuvieron.
+TEXT_LUCKMI108_03778_RYNE_000_053	Es casi como si hubiéramos vuelto a los días tranquilos que siguieron al regreso de la noche. Casi.

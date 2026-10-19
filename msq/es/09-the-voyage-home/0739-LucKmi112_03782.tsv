@@ -1,0 +1,42 @@
+key	text
+TEXT_LUCKMI112_03782_SEQ_00	Con el corazón abierto, Ryne parece estar en paz otra vez.
+TEXT_LUCKMI112_03782_SEQ_01	Tras una emotiva despedida de la gente del Crystarium, llegó el momento de que tus compañeros Scions partan hacia el Source. Junto con Ryne, te diriges al Ocular, donde tus amigos se reunieron por última vez.
+TEXT_LUCKMI112_03782_SEQ_02	El aire está cargado de expectativa mientras ocupas tu lugar en la cámara, e intentas sin éxito no pensar en todo lo que podría salir mal. Tras un instante de duda, das la señal para empezar, y Beq Lugg comienza el ritual: indica a los Scions que viertan primero sus recuerdos en los recipientes del espíritu, y después sus almas mismas. Hecho esto, te confían los cristales y su valioso contenido. Solo queda que entres en el espejo y lleves a tus amigos a casa.
+TEXT_LUCKMI112_03782_SEQ_03	Es un día como cualquier otro cuando abres las puertas de los Rising Stones y entras en su ambiente familiar, pero bien saben los Twelve que tu propósito no tiene nada de común. Unas pocas palabras bastan para que Krile y Tataru lo entiendan; intercambian una mirada tensa antes de llevarte a la enfermería. Con los recipientes del espíritu en su lugar, esperas conteniendo el aliento... y suspiras aliviad<if(gnum4,a,o)> cuando, uno a uno, tus amigos despiertan otra vez en sus propios cuerpos. Pero, por mucho que hayas avanzado, todavía queda un alma por devolver a su hogar, así que vuelves al camino, rumbo al faro de esperanza que brilla a lo lejos...<br><br>Unos días después, los Scions reciben con gran júbilo a un nuevo integrante: un joven de mirada brillante llamado G'raha Tia. Y junto a compañeros viejos y nuevos, pones la mira en las muchas aventuras que todavía están por venir.
+TEXT_LUCKMI112_03782_SEQ_04	Aunque alcanzaste un hito trascendental en tu viaje, el camino sigue hacia lugares inimaginables. Pero sea lo que sea que te espere, y sean cuales sean las penurias que enfrentes, confías en que tus experiencias en el First te darán la fuerza para seguir siempre adelante.
+TEXT_LUCKMI112_03782_TODO_00	Habla con Beq Lugg en el Ocular.
+TEXT_LUCKMI112_03782_TODO_01	Habla con Beq Lugg en el Ocular.
+TEXT_LUCKMI112_03782_TODO_02	Habla con G'raha Tia.
+TEXT_LUCKMI112_03782_CRYSTALGATEKEEPER_100_000	¿Oh? Disculpe, <if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,1)>, pero ¿no debería esperar a la señorita Ryne?
+TEXT_LUCKMI112_03782_RYNE_000_000	Bueno, supongo que llegó la hora. ¿Está list<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>?
+TEXT_LUCKMI112_03782_RYNE_000_001	Muy bien. No hagamos esperar a los demás.
+TEXT_LUCKMI112_03782_CRYSTALGATEKEEPER_000_005	Ah, <if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,1)>. Acabo de hacer pasar a sus compañeros. Qué extraño pensar que no tendré el honor de acompañarlos a la salida...
+TEXT_LUCKMI112_03782_CRYSTALGATEKEEPER_000_006	Pero me dicen que usted quizás vuelva, y espero con ganas recibirl<if(gnum4,a,o)> ese día feliz. Ahora, si quiere seguirme.
+TEXT_LUCKMI112_03782_Q1_000_007	¿Ir al Ocular?
+TEXT_LUCKMI112_03782_ALPHINAUD_000_010	No esperaba una despedida tan emotiva de la gente. Era justo lo que necesitaba mi ánimo.
+TEXT_LUCKMI112_03782_ALPHINAUD_000_011	Ahora solo queda volver al Source. Bien saben los Twelve que ya hicimos preocupar bastante a Krile y a Tataru.
+TEXT_LUCKMI112_03782_ALISAIE_000_015	Angelo está listo para obrar su magia sobre nuestras almas.
+TEXT_LUCKMI112_03782_THANCRED_000_020	Como no podemos llevarnos nuestras cosas, quiero que te quedes con mi gunblade.
+TEXT_LUCKMI112_03782_THANCRED_000_021	Úsala o véndela, me da igual. Mientras te sirva de algo, voy a estar satisfecho.
+TEXT_LUCKMI112_03782_RYNE_000_025	...Gracias, Thancred. La voy a atesorar.
+TEXT_LUCKMI112_03782_URIANGER_000_030	¿Cuántas veces nos hemos reunido así, unos pocos, en esta cámara llena de historia? Muchísimas, creo.
+TEXT_LUCKMI112_03782_URIANGER_000_031	Si el Exarch estuviera ante nosotros, la escena estaría completa. No... estaría completa si estuviera ante nosotros <italic(1)>con Emet-Selch sonriendo burlón entre bambalinas<italic(0)>.
+TEXT_LUCKMI112_03782_YSHTOLA_000_035	En espíritu de solidaridad... te pido que lleves los recipientes como si <italic(1)>tu<italic(0)> vida dependiera de ello.
+TEXT_LUCKMI112_03782_BEQLUGG_000_040	Ah, ahí estás. Supongo que estás list<if(gnum4,a,o)> para el viaje.
+TEXT_LUCKMI112_03782_BEQLUGG_000_041	Los recipientes del espíritu están preparados y nuestro grupo, completo. A una palabra tuya, empezaremos.
+TEXT_LUCKMI112_03782_SYSTEM_000_042	Al comenzar el ritual de imbuir las almas, se reproducirán varias cinemáticas seguidas.
+TEXT_LUCKMI112_03782_SYSTEM_000_043	Se recomienda reservar suficiente tiempo para verlas completas.
+TEXT_LUCKMI112_03782_Q2_000_044	¿Comenzar el ritual de imbuir las almas y volver al Source con tus compañeros?
+TEXT_LUCKMI112_03782_BEQLUGG_000_045	Muy bien. Repartiré los recipientes de inmediato.
+TEXT_LUCKMI112_03782_Q3_000_050	¿Continuar con la misión de la historia principal?
+TEXT_LUCKMI112_03782_GRAHATIA_000_060	Ah, volviste.
+TEXT_LUCKMI112_03782_GRAHATIA_000_061	Hm...
+TEXT_LUCKMI112_03782_GRAHATIA_000_062	Dime, <split(<string(gstr1)>, ,1)>. ¿Crees que fui... demasiado confianzudo hace un rato? ¿En mi tono y mis modales?
+TEXT_LUCKMI112_03782_GRAHATIA_000_063	Pensé que, si vamos a ser compañeros, era mejor ser cercano que formal. Pero ahora me preocupa que eso haya restado a la gratitud y el respeto que les tengo a todos.
+TEXT_LUCKMI112_03782_GRAHATIA_000_064	¿Quizás podríamos tomarlo como un guiño a mis orígenes, lamentablemente poco distinguidos...? ¡Sí! ¡Sí, con eso basta!
+TEXT_LUCKMI112_03782_GRAHATIA_000_065	\<suspiro> Ser libre de vivir como uno quiere tiene sus desafíos... En cierto modo, era más fácil cuando tenía una misión que me consumía cada momento despierto. Me daba un foco, un empujón constante en una sola dirección.
+TEXT_LUCKMI112_03782_GRAHATIA_000_066	Por cierto, ¿lanzar hechizos <italic(1)>siempre<italic(0)> fue tan agotador? Me había olvidado de lo que era hacerlo sin la torre. Pocas veces me sentí tan exhausto. O con tanta <italic(1)>hambre<italic(0)>.
+TEXT_LUCKMI112_03782_GRAHATIA_000_067	Pero si lo único que hiciera fuera tensar el arco, te serviría de poco en tus aventuras. Así que voy a perseverar.
+TEXT_LUCKMI112_03782_GRAHATIA_000_068	Fuera quien fuera antes, ahora soy un Scion... y un Scion sin experiencia, encima. Un novato, ansioso por aprender cómo contribuir mejor a la causa...
+TEXT_LUCKMI112_03782_GRAHATIA_000_069	...¡Para poder seguir los pasos de quien lo inspira!
+TEXT_LUCKMI112_03782_SYSTEM_000_070	G'raha Tia ya está disponible como compañero de Trust.

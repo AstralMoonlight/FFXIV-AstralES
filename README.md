@@ -95,7 +95,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | **Shadowbringers** | 5.0 | Historia principal, de "The Syrcus Trench" a "Shadowbringers" | ![Traducido][ok] |
 | | | Raid de 8: Eden (Gate, Verse, Promise) | ![Pendiente][no] |
 | | | Raid de alianza (24): YoRHa: Dark Apocalypse | ![Pendiente][no] |
-| **Post Shadowbringers** | 5.1–5.55 | Historia principal | ![Pendiente][no] |
+| **Post Shadowbringers** | 5.1–5.55 | Historia principal, de "Shaken Resolve" a "Reflections in Crystal" (5.1 a 5.3; falta 5.4 a 5.55) | ![En curso][wip] |
 | **Endwalker** | 6.0 | Historia principal | ![Pendiente][no] |
 | | | Raid de 8: Pandæmonium (Asphodelos, Abyssos, Anabaseios) | ![Traducido][ok] |
 | | | Raid de alianza (24): Myths of the Realm | ![Pendiente][no] |
