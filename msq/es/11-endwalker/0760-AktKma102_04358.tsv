@@ -1,0 +1,196 @@
+key	text
+TEXT_AKTKMA102_04358_SEQ_00	Krile recorre a los Scions con una mirada pensativa.
+TEXT_AKTKMA102_04358_TODO_00	Habla con G'raha Tia.
+TEXT_AKTKMA102_04358_TODO_01	Habla con Krile acompañad<if(gnum4,a,o)> de G'raha Tia.
+TEXT_AKTKMA102_04358_TODO_02	Ve al Last Stand acompañad<if(gnum4,a,o)> de G'raha Tia y Krile, y habla con Krile en el lugar indicado.
+TEXT_AKTKMA102_04358_TODO_03	Ve a la plaza del aetheryte acompañad<if(gnum4,a,o)> de G'raha Tia y Krile, y habla con Krile en el lugar indicado.
+TEXT_AKTKMA102_04358_TODO_04	Ve al Agora acompañad<if(gnum4,a,o)> de G'raha Tia y Krile, y habla con Krile en el lugar indicado.
+TEXT_AKTKMA102_04358_TODO_05	Ve al Rostra acompañad<if(gnum4,a,o)> de G'raha Tia y Krile, y habla con Krile en el lugar indicado.
+TEXT_AKTKMA102_04358_TODO_06	Ve a Journey's End acompañad<if(gnum4,a,o)> de G'raha Tia y Krile, y habla con Krile en el lugar indicado.
+TEXT_AKTKMA102_04358_TODO_07	Ve al Baldesion Annex acompañad<if(gnum4,a,o)> de G'raha Tia y Krile, y habla con Krile en el lugar indicado.
+TEXT_AKTKMA102_04358_TODO_08	Habla con Krile en el salón principal.
+TEXT_AKTKMA102_04358_ALPHINAUD_000_000	Estoy bien. De verdad. Mejor que nos dejen pasar con una advertencia severa que nos nieguen la entrada, después de todo.
+TEXT_AKTKMA102_04358_ALISAIE_000_005	Eso fue tan incómodo como esperaba. Aun así, ya estamos aquí, ¡y eso es lo que importa!
+TEXT_AKTKMA102_04358_THANCRED_000_010	Aun teniendo en cuenta que los años que pasé en el First aquí fueron un parpadeo, la ciudad parece intacta, como si el tiempo no hubiera pasado...
+TEXT_AKTKMA102_04358_URIANGER_000_015	Permitidme daros mi más cálida bienvenida, <split(<string(gstr1)>, ,1)>. Que la sabiduría de mi patria nos ayude en nuestra empresa.
+TEXT_AKTKMA102_04358_YSHTOLA_000_020	Sin duda estás ansios<if(gnum4,a,o)> por conocer el lugar. No te preocupes, <split(<string(gstr1)>, ,1)>: la ciudad no se va a desvanecer antes de que terminemos de hablar.
+TEXT_AKTKMA102_04358_GRAHATIA_000_025	¡Por fin aquí: la gran ciudad de Sharlayan! Quizás notaste algunos parecidos con el Crystarium, ¿no? De hecho, yo-
+TEXT_AKTKMA102_04358_GRAHATIA_000_026	...Ah, pero de verdad deberíamos dejar que Krile hable primero. Podemos seguir esta conversación en otro momento.
+TEXT_AKTKMA102_04358_ESTINIEN_000_030	No estoy... acostumbrado a inventar mentiras sobre la marcha. ¿Qué importa cómo me gano la vida?
+TEXT_AKTKMA102_04358_KRILE_000_040	Pensaba ir directo a explicar lo que averigüé y cómo podríamos seguir...
+TEXT_AKTKMA102_04358_KRILE_000_041	Pero es la primera vez que <split(<string(gstr1)>, ,1)> y Estinien vienen a Sharlayan... y para el resto de ustedes, una vuelta a casa que se hizo esperar demasiado.
+TEXT_AKTKMA102_04358_KRILE_000_042	¡Seguro tienen lugares que quieren visitar y gente que se mueren por ver! Así que propongo postergar nuestra agenda para que todos tengan tiempo de reponerse del viaje y orientarse en la ciudad.
+TEXT_AKTKMA102_04358_KRILE_000_043	Cuando se hayan instalado, podemos volver a reunirnos en el Baldesion Annex. ¿Qué les parece?
+TEXT_AKTKMA102_04358_ALPHINAUD_000_044	Es una buena sugerencia. Quizás no seamos bienvenidos en la mansión Leveilleur como tal, pero igual me gustaría dar una vuelta por el barrio.
+TEXT_AKTKMA102_04358_YSHTOLA_000_045	Yo tampoco tengo ataduras, por así decirlo. No hay ningún lugar en particular al que mi familia llame "hogar"...
+TEXT_AKTKMA102_04358_YSHTOLA_000_046	Aun así, no dejaría pasar la oportunidad de volver a familiarizarme con la ciudad.
+TEXT_AKTKMA102_04358_THANCRED_000_047	Lo mismo digo. Un breve recorrido por nuestros viejos lugares quizás hasta nos dé algún chisme útil.
+TEXT_AKTKMA102_04358_THANCRED_000_048	El anexo quedaba al oeste de la plaza del aetheryte, ¿no? Me reúno con ustedes allí en un rato.
+TEXT_AKTKMA102_04358_KRILE_000_049	¡Sí, nos vemos allí!
+TEXT_AKTKMA102_04358_URIANGER_000_050	Yo también tengo lugares que sería imperdonable no visitar de inmediato. Con vuestro permiso...
+TEXT_AKTKMA102_04358_KRILE_000_051	¿Y tú, Estinien? Mis servicios de guía están a tu disposición.
+TEXT_AKTKMA102_04358_ESTINIEN_000_052	No hará falta. Hasta que volvamos a reunirnos, prefiero andar adonde me lleve el viento.
+TEXT_AKTKMA102_04358_KRILE_000_053	¡P-Pero yo podría-! Ah.
+TEXT_AKTKMA102_04358_KRILE_000_054	Bueno, Raha, ¿quieres venir con nosotros, entonces? Estuviste fuera bastante tiempo, y esta sería la forma perfecta de refrescar esos viejos recuerdos polvorientos.
+TEXT_AKTKMA102_04358_GRAHATIA_000_055	¡Ah! ¡Claro, si me aceptan!
+TEXT_AKTKMA102_04358_GRAHATIA_000_056	¡Vamos, <split(<string(gstr1)>, ,1)>! ¡Sharlayan nos espera!
+TEXT_AKTKMA102_04358_KRILE_000_060	Ay, Dios... Su entusiasmo es contagioso, ¿no?
+TEXT_AKTKMA102_04358_GRAHATIA_000_070	¡Después de ti, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>! Me conformo de sobra con seguirte.
+TEXT_AKTKMA102_04358_SYSTEM_000_071	G'raha Tia ahora te acompaña.
+TEXT_AKTKMA102_04358_SYSTEM_000_072	Mantenlo a tu lado para poder avanzar con los objetivos de la misión.
+TEXT_AKTKMA102_04358_SYSTEM_000_073	Si usas el Aethernet, G'raha Tia te alcanzará mientras sigas en la misma zona.
+TEXT_AKTKMA102_04358_SYSTEM_000_074	Pero puedes dejar atrás a G'raha Tia entrando en otra zona. También puedes hablar con él y elegir la opción de separarse.
+TEXT_AKTKMA102_04358_SYSTEM_000_075	Si quieres que G'raha Tia vuelva a acompañarte, vuelve y habla con él en el lugar original.
+TEXT_AKTKMA102_04358_SYSTEM_000_076	Mientras G'raha Tia te acompaña, prueba hablar con Krile.
+TEXT_AKTKMA102_04358_Q1_000_080	¿Qué haces?
+TEXT_AKTKMA102_04358_A1_000_081	Hablar.
+TEXT_AKTKMA102_04358_A1_000_082	Separarse.
+TEXT_AKTKMA102_04358_A1_000_083	Nada.
+TEXT_AKTKMA102_04358_GRAHATIA_000_085	¡No te olvides de la señora Krile, nuestra digna guía!
+TEXT_AKTKMA102_04358_Q2_000_090	¿Seguro que quieres separarte de tus compañeros?
+TEXT_AKTKMA102_04358_GRAHATIA_000_091	¿Asuntos privados que atender? Muy bien, podemos reunirnos en el Scholar's Harbor cuando quieras seguir con el recorrido.
+TEXT_AKTKMA102_04358_GRAHATIA_000_095	¡Ah, <split(<string(gstr1)>, ,1)>! ¿Seguimos explorando Sharlayan?
+TEXT_AKTKMA102_04358_SYSTEM_000_100	Tus compañeros todavía no llegaron. Asegúrate de tenerlos a tu lado antes de intentar continuar.
+TEXT_AKTKMA102_04358_KRILE_000_108	Por favor, invita primero a Raha. ¡Está por estallar de emoción!
+TEXT_AKTKMA102_04358_SYSTEM_000_108	Debes ir acompañad<if(gnum4,a,o)> de G'raha Tia y tenerlo a tu lado para avanzar con los objetivos de la misión.
+TEXT_AKTKMA102_04358_KRILE_000_110	¿Todo listo? ¡Entonces pongámonos en marcha!
+TEXT_AKTKMA102_04358_KRILE_000_111	Nuestra primera parada, curiosamente, será el Last Stand. Es un café en el lado oeste del puerto.
+TEXT_AKTKMA102_04358_SYSTEM_000_112	Krile ahora también te acompaña. Lleva a tus dos compañeros al Last Stand y habla con Krile en el lugar indicado.
+TEXT_AKTKMA102_04358_SYSTEM_000_113	Mientras vas acompañad<if(gnum4,a,o)>, quizás encuentres en el camino "puntos de conversación" con temas adicionales.
+TEXT_AKTKMA102_04358_SYSTEM_000_114	Entra en la zona brillante y habla con tus compañeros de misión para iniciar estas conversaciones extra. ¡Disfruten explorando juntos los alrededores!
+TEXT_AKTKMA102_04358_A3_000_120	<colortype(548)>Hablar del depósito.<colortype(0)>
+TEXT_AKTKMA102_04358_A3_000_121	<colortype(548)>Hablar de la estatua gigante del puerto.<colortype(0)>
+TEXT_AKTKMA102_04358_GRAHATIA_000_125	Agradezco tener la ayuda de Krile para volver a familiarizarme con este lugar. Es casi como si lo viera todo con ojos nuevos, igual que tú.
+TEXT_AKTKMA102_04358_GRAHATIA_000_126	Ah, sí, el Last Stand. ¡Qué aroma tan tentador!
+TEXT_AKTKMA102_04358_GRAHATIA_000_127	Ah, parece que perdimos a la señora Krile. ¿Quizás deberíamos volver al puerto a buscarla?
+TEXT_AKTKMA102_04358_KRILE_000_130	Vamos, vayamos al café. Quizás no lo parezca a simple vista, pero el Last Stand es en realidad una parte muy importante de la ciudad.
+TEXT_AKTKMA102_04358_KRILE_000_131	¿Y dónde se metió Raha? Deberíamos volver al puerto y esperar que nos busque allí; es capaz de enfurruñarse si seguimos sin él.
+TEXT_AKTKMA102_04358_GRAHATIA_000_135	Con todas las mercancías raras que van y vienen a toda hora, me imagino que la ayuda de un<if(gnum4,a,)> aventurer<if(gnum4,a,o)> intrépid<if(gnum4,a,o)> sería muy apreciada.
+TEXT_AKTKMA102_04358_GRAHATIA_000_136	No veo por qué no podrías encargarte de las tareas que te interesen; después de todo, los funcionarios de inmigración te dieron el visto bueno.
+TEXT_AKTKMA102_04358_GRAHATIA_000_137	¡Espero con ganas el día en que tu nombre se celebre en Sharlayan igual que en Eorzea!
+TEXT_AKTKMA102_04358_KRILE_000_140	Este lugar se llama "el peristilo", y es la primera parada de la carga que se descarga en los muelles.
+TEXT_AKTKMA102_04358_KRILE_000_141	Vas a encontrar lo habitual para la vida diaria y otras importaciones vitales para mantener una nación isleña, pero también suministros para la búsqueda del saber de Sharlayan: es decir, grandes cantidades de libros, especímenes y muestras. Ordenar esas pilas sin duda mantiene ocupados a los encargados.
+TEXT_AKTKMA102_04358_GRAHATIA_000_145	Eso sí que es algo difícil de olvidar: la gran estatua de Thaliak.
+TEXT_AKTKMA102_04358_GRAHATIA_000_146	Como Student of Baldesion, solía alojarme en la Isle of Val, pero contemplaba los rasgos sabios del Scholar cada vez que volvía en barco a la ciudad.
+TEXT_AKTKMA102_04358_KRILE_000_150	Este camino que se adentra en el mar se conoce como "la Thaliak Stoa", por la estatua del Scholar que hay al final.
+TEXT_AKTKMA102_04358_KRILE_000_151	Como sabes, el pueblo de Sharlayan valora la acumulación del saber por encima de todo. Por eso, cuando se eligió a Thaliak como deidad patrona, fue más una cuestión práctica que de fe: una coincidencia de principios, por así decirlo.
+TEXT_AKTKMA102_04358_KRILE_000_152	Quizás lo honramos con una escultura bastante impresionante, sí, pero nuestra fe no es tan estricta como, digamos, la de los ishgardianos. ¡Cada sharlayano puede adorar, y adora, a las divinidades que elija!
+TEXT_AKTKMA102_04358_KRILE_000_155	Claro, como quieras. ¡Podemos volver a encontrarnos en ese lugar del puerto cuando tengas tiempo para seguir con el recorrido!
+TEXT_AKTKMA102_04358_KRILE_000_160	Sí, todavía quedan lugares por visitar y cosas por mostrarte. ¡Vamos!
+TEXT_AKTKMA102_04358_KRILE_000_168	Aquí estamos en el Last Stand, pero ¿dónde está Raha...?
+TEXT_AKTKMA102_04358_SYSTEM_000_169	Debes ir acompañad<if(gnum4,a,o)> de G'raha Tia y tenerlo a tu lado para avanzar con los objetivos de la misión.
+TEXT_AKTKMA102_04358_KRILE_000_170	Y aquí estamos: el Last Stand.
+TEXT_AKTKMA102_04358_KRILE_000_171	Quizás ya lo mencioné, pero aunque nuestra investigación sobre nutrición y preparación de alimentos es bastante amplia, el sharlayano medio tiende a ver el condimento y el sabor con... cierta indiferencia.
+TEXT_AKTKMA102_04358_KRILE_000_172	¿Cómo decirlo? La comida es, eh... Es sosa. Como lo resume nuestro infame pan Archon, la opinión general sobre la cocina es el valor nutritivo primero, y el sabor muy en segundo lugar.
+TEXT_AKTKMA102_04358_KRILE_000_173	Pero hubo un alumno del Studium que ya no podía tragar las comidas insípidas de la escuela. Así que dejó las clases y volcó todos sus ahorros en construir un verdadero lugar para comer.
+TEXT_AKTKMA102_04358_KRILE_000_174	Y así nació el Last Stand. Es, como su nombre indica, el único bastión dedicado a la buena mesa en Sharlayan. El único baluarte de las artes culinarias en una isla de comida por lo demás mediocre.
+TEXT_AKTKMA102_04358_GRAHATIA_000_175	Creo recordar que su hamburguesa tenía fama de ser de lo mejor del menú. No es que yo haya tenido el placer de comer una...
+TEXT_AKTKMA102_04358_KRILE_000_176	Porque eras un sharlayano típico en cuanto a lo "barato y práctico", Raha. ¡Pero seguro que Tataru ya te enseñó a apreciar un plato bien preparado! ¡Deberíamos pasar todos cuando haya tiempo y probar las delicias del café!
+TEXT_AKTKMA102_04358_KRILE_000_177	¿Seguimos? La escalera al costado del café nos lleva arriba, a la plaza del aetheryte.
+TEXT_AKTKMA102_04358_GRAHATIA_000_180	Los Students of Baldesion nos mandaban a investigar fenómenos por todo el mundo, así que nuestros fondos siempre estaban ajustados. Y cualquier moneda que me sobraba se iba en libros que me llamaban la atención...
+TEXT_AKTKMA102_04358_GRAHATIA_000_181	¡La comida era lo que menos me preocupaba! Aunque ahora, después de pasar por tiempos bastante duros, aprendí lo afortunado que es poder comer hasta saciarse.
+TEXT_AKTKMA102_04358_GRAHATIA_000_182	Hm. El aetheryte se ve distinto de como lo recuerdo...
+TEXT_AKTKMA102_04358_KRILE_000_185	¡A la plaza del aetheryte! Solo hay que subir la escalera junto al Last Stand.
+TEXT_AKTKMA102_04358_KRILE_000_189	Esta es la plaza del aetheryte... pero ¿dónde está Raha?
+TEXT_AKTKMA102_04358_KRILE_000_190	Tiene una forma rara, ¿no?
+TEXT_AKTKMA102_04358_KRILE_000_191	Pero te aseguro que es un aetheryte que funciona perfectamente. ¡No te olvides de sintonizar con él antes de seguir!
+TEXT_AKTKMA102_04358_KRILE_000_192	Bien, como guía diligente que soy, debo mencionar el Confluence: un centro de investigación ubicado en esta misma plaza. Sus tan elogiados descubrimientos son la razón por la que Sharlayan está a la vanguardia de la tecnología de teletransporte.
+TEXT_AKTKMA102_04358_KRILE_000_193	Al descifrar los principios en que se basan los aetherytes allaganos, nos permitió entender y reconstruir lo que era, en esencia, un arte perdido.
+TEXT_AKTKMA102_04358_KRILE_000_194	...¡Y vamos a nuestro siguiente destino! Nuestro camino lleva al noreste, al Agora, el mercado más grande de Sharlayan.
+TEXT_AKTKMA102_04358_A4_000_200	<colortype(548)>Hablar del Confluence.<colortype(0)>
+TEXT_AKTKMA102_04358_A4_000_201	<colortype(548)>Hablar de los puestos de libros.<colortype(0)>
+TEXT_AKTKMA102_04358_GRAHATIA_000_205	¡Ah, los mercados! ¡Siempre esperaba con ganas ver qué mercancías nuevas tenían!
+TEXT_AKTKMA102_04358_GRAHATIA_000_206	¿Habrá hoy algo que valga la pena abrir el monedero, me pregunto...?
+TEXT_AKTKMA102_04358_KRILE_000_210	¿Ya sintonizaste con el aetheryte? Entonces sigamos hacia el Agora.
+TEXT_AKTKMA102_04358_GRAHATIA_000_215	Hablando de aetherytes, las tarifas de teletransporte terminan sumando bastante... por eso yo solía recurrir a los servicios de ferry, que son mucho más baratos.
+TEXT_AKTKMA102_04358_GRAHATIA_000_216	Me sorprendió gratamente que la señora Tataru me contara que a los Scions nos reembolsan los gastos de transporte como parte de nuestras tareas, pero las viejas costumbres cuestan. Eso, y que prefiero no tener que llenar los formularios necesarios.
+TEXT_AKTKMA102_04358_KRILE_000_220	Esa es la entrada del Confluence.
+TEXT_AKTKMA102_04358_KRILE_000_221	¡No me cabe duda de que su experiencia nos va a servir en algún momento, así que te sugiero que recuerdes el camino hasta aquí!
+TEXT_AKTKMA102_04358_GRAHATIA_000_225	...¿Te molesta si miro los estantes un momento? ¡Quizás haya alguna joya escondida que todavía no leí!
+TEXT_AKTKMA102_04358_KRILE_000_226	¿Solo "un momento"? Qué optimista. Mira todo lo que quieras, pero no te vamos a esperar.
+TEXT_AKTKMA102_04358_GRAHATIA_000_227	Ah. Quizás vuelva más tarde, entonces...
+TEXT_AKTKMA102_04358_KRILE_000_230	Estos puestos de libros al aire libre son tan típicos de Sharlayan. Siempre creí que eran algo común, hasta que visité otras naciones.
+TEXT_AKTKMA102_04358_KRILE_000_239	Bueno, aquí estamos en el Agora, pero perdimos a Raha...
+TEXT_AKTKMA102_04358_KRILE_000_240	Bienvenid<if(gnum4,a,o)> al Agora, donde puedes encontrar productos hechos en Sharlayan, además de una gran variedad de importaciones.
+TEXT_AKTKMA102_04358_KRILE_000_241	Antes también vendían "prototipos" dudosos de los distintos institutos de investigación, pero creo que, por suerte, esa costumbre desapareció. En su mayor parte.
+TEXT_AKTKMA102_04358_KRILE_000_242	¡Por lo demás, no se me ocurre un lugar mejor para abastecerte para tu próxima gran aventura!
+TEXT_AKTKMA102_04358_KRILE_000_243	...¿Estoy <italic(1)>vendiéndolo<italic(0)> demasiado? Ejem. Hablando en serio, la próxima parada de nuestro recorrido tiene especial relación con lo que en definitiva vinimos a hacer aquí.
+TEXT_AKTKMA102_04358_KRILE_000_244	Tenemos que volver a la plaza del aetheryte, seguir el camino hacia el norte y después subir la escalera hasta ese edificio imponente de arriba de todo.
+TEXT_AKTKMA102_04358_A5_000_250	<colortype(548)>Hablar de las fuentes.<colortype(0)>
+TEXT_AKTKMA102_04358_GRAHATIA_000_255	Es una experiencia fascinante recorrer la ciudad y comparar mi imagen del pasado con la realidad del presente...
+TEXT_AKTKMA102_04358_GRAHATIA_000_256	Ah, qué brisa tan vigorizante. Un poco cortante, quizás, pero agradable de todas formas.
+TEXT_AKTKMA102_04358_KRILE_000_260	El edificio que buscamos está arriba de la escalera, al norte del aetheryte. Solo hay que seguir subiendo, y tarde o temprano llegas.
+TEXT_AKTKMA102_04358_KRILE_000_261	El distrito por el que pasamos se llama Archons' Design, un nombre que honra a las siete personas cuyos aportes fueron fundamentales para la fundación de Sharlayan. Es el centro político y financiero de la ciudad, y también alberga varias instituciones de investigación.
+TEXT_AKTKMA102_04358_GRAHATIA_000_265	Estos pequeños detalles decorativos son típicos de la arquitectura de Sharlayan. Aparte del ala de investigación, nuestro cuartel en la Isle of Val era bastante sencillo y rústico en comparación.
+TEXT_AKTKMA102_04358_KRILE_000_270	Este es el ninfeo, una zona dedicada a las bendiciones del agua.
+TEXT_AKTKMA102_04358_KRILE_000_271	Para los sharlayanos, el agua es más que un líquido que sostiene la vida: es un recuerdo del gran diluvio que precedió al nacimiento de nuestra nación, y un símbolo del saber que fluye de la jarra divina de Thaliak.
+TEXT_AKTKMA102_04358_KRILE_000_272	Por eso ves tantas fuentes por toda la ciudad, y esa tendencia a usar el agua como elemento decorativo en nuestra arquitectura.
+TEXT_AKTKMA102_04358_KRILE_000_279	Sí, este es el lugar al que queríamos llegar, pero nos falta uno...
+TEXT_AKTKMA102_04358_KRILE_000_280	¡Este gran edificio que tienes delante es el Rostra!
+TEXT_AKTKMA102_04358_KRILE_000_281	El nombre se refiere a la tribuna pública original que se alzó aquí, desde la que un "foro" de representantes electos pronunciaba discursos y debatía políticas.
+TEXT_AKTKMA102_04358_KRILE_000_282	Aunque la tribuna se convirtió con el tiempo en una sala de sesiones, la naturaleza del Forum y los deberes de sus miembros siguen siendo casi los mismos.
+TEXT_AKTKMA102_04358_KRILE_000_283	...¿Te estoy aburriendo, Raha? Te ves muy distraído.
+TEXT_AKTKMA102_04358_GRAHATIA_000_284	Perdón. Desde aquí se ve toda la ciudad extendida abajo...
+TEXT_AKTKMA102_04358_GRAHATIA_000_285	La vista me recordó mi llegada al First. Los que se habían reunido en la Crystal Tower me preguntaron cómo podían construir un nuevo hogar.
+TEXT_AKTKMA102_04358_GRAHATIA_000_286	Naturalmente, todas mis respuestas se inspiraron en lo que sabía del mejor asentamiento que se me ocurría: la gran ciudad de Sharlayan.
+TEXT_AKTKMA102_04358_GRAHATIA_000_287	Y poco a poco, aquellos pocos edificios se convirtieron en un pueblo. Una comunidad. El Crystarium... Casi puedo ver su eco...
+TEXT_AKTKMA102_04358_KRILE_000_288	Ya veo... Sube aquí cuando quieras; no creo que a los consejeros les moleste que simplemente disfrutes la vista. Esos recuerdos hay que atesorarlos.
+TEXT_AKTKMA102_04358_KRILE_000_289	Pero por ahora, ¡el recorrido tiene que seguir! Nuestro espectáculo turístico termina en el muy apropiadamente llamado Journey's End. ¡Baja la escalera hacia el este y sigue derecho!
+TEXT_AKTKMA102_04358_GRAHATIA_000_290	¿No sientes el frío? Es cierto que no hace tanto frío para estas latitudes del norte, pero comparado con el clima templado de Limsa Lominsa...
+TEXT_AKTKMA102_04358_GRAHATIA_000_291	En este barrio vive lo más alto de la sociedad de Sharlayan. Nunca me sentí lo bastante cómodo como para pasear por estas calles porque sí.
+TEXT_AKTKMA102_04358_KRILE_000_295	El distrito de Journey's End ocupa la manzana oriental de la ciudad, así que solo tenemos que bajar la escalera desde el Rostra... ¡y seguir hacia el este, claro!
+TEXT_AKTKMA102_04358_KRILE_000_299	Llegamos a Journey's End, pero no veo a Raha...
+TEXT_AKTKMA102_04358_KRILE_000_300	¡Llegamos a Journey's End! La historia nos dice que aquí construyeron sus primeras casas los que desembarcaron con el Archon Nyunkrepf.
+TEXT_AKTKMA102_04358_KRILE_000_301	Hoy en día es el barrio residencial de los funcionarios más importantes y de las familias más antiguas de Sharlayan.
+TEXT_AKTKMA102_04358_KRILE_000_302	Verás que una mansión es claramente más grande que las vecinas: esa finca pertenece a nuestros amigos de la casa Leveilleur. Teniendo todo en cuenta, quizás convenga mantenernos a distancia por ahora...
+TEXT_AKTKMA102_04358_KRILE_000_303	Y con eso terminamos nuestro pequeño recorrido por Sharlayan. ¡Espero que haya sido una experiencia entretenida y esclarecedora!
+TEXT_AKTKMA102_04358_KRILE_000_304	Bien, ¿vamos directo al Baldesion Annex? Recuerdas el camino, ¿no, Raha?
+TEXT_AKTKMA102_04358_GRAHATIA_000_305	A ver... ¿Bajamos hacia el puerto, cruzamos el puente a la derecha y después seguimos el camino por debajo de la plaza del aetheryte?
+TEXT_AKTKMA102_04358_KRILE_000_306	¡Correcto! ¡Después de ti, <split(<string(gstr1)>, ,1)>!
+TEXT_AKTKMA102_04358_A6_000_310	<colortype(548)>Hablar de Journey's End.<colortype(0)>
+TEXT_AKTKMA102_04358_GRAHATIA_000_315	¡Ah, el bueno del anexo! Solía dormir allí cada vez que tenía asuntos en la ciudad.
+TEXT_AKTKMA102_04358_GRAHATIA_000_316	Como la vez que vine a presentar la tesis para mi título de Archon...
+TEXT_AKTKMA102_04358_GRAHATIA_000_317	¡Aquí es! ¡El Baldesion Annex!
+TEXT_AKTKMA102_04358_KRILE_000_320	¿Te cansé con tanto caminar? No te preocupes, hice preparar habitaciones para ustedes en el anexo.
+TEXT_AKTKMA102_04358_KRILE_000_321	Solo sigue el camino del lado oeste del aetheryte, y llegamos enseguida.
+TEXT_AKTKMA102_04358_GRAHATIA_000_325	Bien, cruzamos este puente, si mal no recuerdo. ¡No te salgas del camino, y cuidado de no terminar otra vez en la plaza del aetheryte!
+TEXT_AKTKMA102_04358_KRILE_000_330	Sharlayan está llena de instituciones educativas y de investigación, pero todavía hay profesores que prefieren tener su propia práctica privada.
+TEXT_AKTKMA102_04358_KRILE_000_331	No es que yo haya ido alguna vez a las escuelas exclusivas que dirigen en estas residencias... Quizás los gemelos podrían contarte más.
+TEXT_AKTKMA102_04358_KRILE_000_339	Este edificio es el Baldesion Annex, pero sin Raha...
+TEXT_AKTKMA102_04358_KRILE_000_340	Como sin duda ya te dijo la cara de alegría de Raha, este es el Baldesion Annex.
+TEXT_AKTKMA102_04358_KRILE_000_341	Si sigues subiendo la colina, llegas a la puerta del Phenomenon... pero creo que ya exploramos bastante por hoy. Te llevaremos allí en otro momento.
+TEXT_AKTKMA102_04358_KRILE_000_342	¡Adentro, entonces!
+TEXT_AKTKMA102_04358_KRILE_000_343	¡Ya volví! Y traje a <split(<string(gstr1)>, ,1)> y a Raha.
+TEXT_AKTKMA102_04358_OJIKATSUNJIKA_000_344	(-???-)Ah, entonces tenías razón con lo del barco. ¡Hola, G'raha, qué bueno volver a verte!
+TEXT_AKTKMA102_04358_OJIKATSUNJIKA_000_345	(-???-)Y es un placer conocerl<if(gnum4,a,o)> por fin <italic(1)>a usted<italic(0)>, <split(<string(gstr1)>, ,1)>. Oí muchísimas historias de sus hazañas.
+TEXT_AKTKMA102_04358_GRAHATIA_000_346	¿¡Ojika!? ¡Ojika Tsunjika! Cuánto tiempo...
+TEXT_AKTKMA102_04358_KRILE_000_347	Te presento a Ojika, primo de Ejika Tsunjika y responsable de administración de los Students of Baldesion. Supervisa el funcionamiento diario del anexo.
+TEXT_AKTKMA102_04358_OJIKATSUNJIKA_000_348	Leí los informes de la expedición a Eureka. Espero que Ejika no le haya causado demasiados problemas. Es impaciente e impetuoso, pero en el fondo es buena persona.
+TEXT_AKTKMA102_04358_KRILE_000_349	Te presento a Ojika, primo de Ejika Tsunjika y responsable de administración de los Students of Baldesion. Supervisa el funcionamiento diario del anexo.
+TEXT_AKTKMA102_04358_OJIKATSUNJIKA_000_350	Leí los informes de la expedición a Eureka... La muerte de Ejika me dolió más de lo que puedo decir. Gracias por acompañarlo hasta el final.
+TEXT_AKTKMA102_04358_KRILE_000_351	Te presento a Ojika Tsunjika, responsable de administración de los Students of Baldesion. Supervisa el funcionamiento diario del anexo. ¿Quizás recuerdes haber conocido a su primo, Ejika?
+TEXT_AKTKMA102_04358_OJIKATSUNJIKA_000_352	Ah, sí, Eureka. Leí los primeros informes; fue toda una sorpresa saber en qué se convirtió la isla. Tenga cuidado si tiene la oportunidad de volver a sumarse a la expedición.
+TEXT_AKTKMA102_04358_KRILE_000_353	Te presento a Ojika Tsunjika, responsable de administración de los Students of Baldesion. Supervisa el funcionamiento diario del anexo.
+TEXT_AKTKMA102_04358_OJIKATSUNJIKA_000_354	<if(gnum4,La "campeona,El "campeón)> de Eorzea" aparece mucho en los informes de Krile y de G'raha, así que para mí esto es como ver cobrar vida a un héroe de leyenda. ¡Es un honor conocerl<if(gnum4,a,o)>!
+TEXT_AKTKMA102_04358_KRILE_000_355	Este lugar es como un segundo hogar para los Students... La Isle of Val era nuestro cuartel principal, claro, pero solíamos tener motivos para visitar Sharlayan.
+TEXT_AKTKMA102_04358_KRILE_000_356	Ya fuera para usar los centros de investigación de la ciudad, asistir a conferencias o conseguir suministros de costas lejanas...
+TEXT_AKTKMA102_04358_KRILE_000_357	Y el anexo se construyó para dar alojamiento a nuestros miembros mientras se dedicaban a esas actividades.
+TEXT_AKTKMA102_04358_OJIKATSUNJIKA_000_358	Ahora que nuestro antiguo cuartel está del otro lado del mundo, entre otras cosas, el anexo se convirtió a todos los efectos en nuestra nueva base de operaciones.
+TEXT_AKTKMA102_04358_OJIKATSUNJIKA_000_359	Y sin embargo se siente tan vacío. Con tantos perdidos, nuestra organización es una sombra de lo que fue.
+TEXT_AKTKMA102_04358_OJIKATSUNJIKA_000_360	Desde que desapareció nuestro antiguo cuartel, junto con la isla misma, el anexo nos sirve de base de operaciones.
+TEXT_AKTKMA102_04358_OJIKATSUNJIKA_000_361	Y sin embargo se siente tan vacío. Con tantos perdidos, nuestra organización es una sombra de lo que fue.
+TEXT_AKTKMA102_04358_KRILE_000_362	Llegará el día en que veamos resurgir a los Students...
+TEXT_AKTKMA102_04358_KRILE_000_363	¡Pero primero tenemos que asegurarnos de que caigan los Telophoroi!
+TEXT_AKTKMA102_04358_KRILE_000_364	Detrás de esa puerta de la izquierda está el salón principal, donde podemos discutir cómo seguir.
+TEXT_AKTKMA102_04358_KRILE_000_365	...Cuando lleguen todos, claro. Seguramente tienes tiempo de descansar antes de que empiecen en serio nuestras charlas.
+TEXT_AKTKMA102_04358_KRILE_000_366	Hice preparar habitaciones privadas para ustedes en el andron, así que, por favor, ¡siéntete como en casa!
+TEXT_AKTKMA102_04358_GRAHATIA_000_367	¡Ah, los cuartos de siesta! Perfectos para dormitar a la tarde...
+TEXT_AKTKMA102_04358_GRAHATIA_000_368	Ah, no quise darte una impresión equivocada: ¡las habitaciones están muy bien equipadas! Mucho mejor que cualquier posada barata de camino, te lo aseguro.
+TEXT_AKTKMA102_04358_GRAHATIA_000_369	Es que solíamos estar tan ocupados con la investigación, o tan agotados de los viajes, que nos metíamos en el andron solo para robar unas horas de sueño.
+TEXT_AKTKMA102_04358_GRAHATIA_000_370	Y así los Students empezaron a llamarlos "cuartos de siesta"... ¡aunque muchas de esas "siestas" duraran hasta bien entrada la mañana siguiente!
+TEXT_AKTKMA102_04358_OJIKATSUNJIKA_000_371	Dígamelo y con gusto l<if(gnum4,a,o)> llevo a su habitación.
+TEXT_AKTKMA102_04358_KRILE_000_372	¡Ojalá los demás no tarden mucho! Los espero a todos en el salón principal.
+TEXT_AKTKMA102_04358_GRAHATIA_000_380	¿Hay papeles pegados en las paredes de tu habitación? No era raro que los huéspedes colgaran notas o documentos y se olvidaran de llevárselos al irse.
+TEXT_AKTKMA102_04358_GRAHATIA_000_381	Aunque a veces era bien a propósito. Podías ver quejas dirigidas a otros miembros, o una tarjeta de agradecimiento por la lectura apasionante que alguien había dejado.
+TEXT_AKTKMA102_04358_GRAHATIA_000_382	Queridas tradiciones... en las que debería saber que no conviene detenerse. Si vamos a crear un futuro para los Students of Baldesion y para tantos otros, tenemos que mirar hacia adelante.
+TEXT_AKTKMA102_04358_KRILE_000_390	¿Te sientes descansad<if(gnum4,a,o)> y despiert<if(gnum4,a,o)>? Nuestros colegas deberían llegar pronto, así que sugiero que nos quedemos aquí a esperarlos.
