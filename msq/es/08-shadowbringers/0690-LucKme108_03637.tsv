@@ -1,0 +1,83 @@
+key	text
+TEXT_LUCKME108_03637_SEQ_00	Tristol conoce gente que podría ayudarlos a buscar mineral.
+TEXT_LUCKME108_03637_SEQ_01	Tristol te cuenta que una familia de dwarves conocida como los Tholls explota estas tierras desde hace mucho, y nadie conoce sus riquezas tan bien como ellos. El pintor confía en que, si les explicas la situación, estarán dispuestos a cooperar en la búsqueda del mineral. Así, tú y el Exarch parten hacia el pueblo de Tomra para pedir audiencia con su jefe, un dwarf llamado Xamott.
+TEXT_LUCKME108_03637_SEQ_02	En la entrada de Tomra, a ti y al Exarch los recibe un dwarf bullicioso. Tras intercambiar lali-hos a su gusto, revela que es nada menos que Xamott. Aunque está dispuesto a apoyar cualquier empresa que devuelva la paz a su hogar, solo te ayudará a encontrar el mineral si está seguro de que le darás buen uso. Para eso, te exige que superes una prueba de lo más ingeniosa, y te invita a entrar al pueblo para saber más.
+TEXT_LUCKME108_03637_SEQ_03	Xamott te cuenta que, cuando los dwarves de su pueblo alcanzan la mayoría de edad, cada uno debe demostrar que está listo para entrar en las minas. Lo hacen superando una prueba tradicional, de curioso nombre: el 3-D MineRunner. En ella te dan una honda, con la que debes disparar al dwarf que lleve un casco distinto al de los Tholls. Cuando estés list<if(gnum4,a,o)> para empezar, debes presentarte ante el observador que está cerca.
+TEXT_LUCKME108_03637_SEQ_04	El observador dwarf te lleva a los tejados, donde haces una práctica de la prueba. La próxima vez será la prueba de verdad, donde es posible fallar.
+TEXT_LUCKME108_03637_SEQ_05	Con tu combinación de discernimiento, diligencia y destreza, logras superar la prueba de los dwarves. El observador te indica que vuelvas con Xamott, para que puedan ocuparse de poner fin a las rarezas que sacuden la región.
+TEXT_LUCKME108_03637_SEQ_06	Impresionado por tu desempeño en la prueba, Xamott declara que pondrá su fe en ti y te ayudará a encontrar el mineral que buscas para el corazón del Talos.
+TEXT_LUCKME108_03637_TODO_00	Habla con el Crystal Exarch.
+TEXT_LUCKME108_03637_TODO_01	Habla con Xamott.
+TEXT_LUCKME108_03637_TODO_02	Habla con el observador dwarf y haz la prueba.
+TEXT_LUCKME108_03637_TODO_03	Vuelve a hablar con el observador dwarf y haz la prueba de verdad.
+TEXT_LUCKME108_03637_TODO_04	Habla con Xamott.
+TEXT_LUCKME108_03637_MYSTERYVOICE_000_000	Una búsqueda del corazón del Talos... Esto presenta una oportunidad inesperada.
+TEXT_LUCKME108_03637_CHAINUZZ_000_005	Lo ideal es que el corazón de un Talos se haga con mineral de la misma región que la piedra del cuerpo. Veamos qué puede decirnos Tristol.
+TEXT_LUCKME108_03637_DULIACHAI_000_010	Me alegra que Tristol haya estado dispuesto a escucharnos. Es apenas un pequeño paso, pero ruego que abra el camino a la reconciliación.
+TEXT_LUCKME108_03637_TRISTOL_000_020	Si buscan material para el corazón del Talos, conozco gente que podría ayudarlos.
+TEXT_LUCKME108_03637_TRISTOL_000_021	Son los Tholls, una familia de dwarves que explota estas tierras desde hace mucho. Nadie conoce sus riquezas tan bien como ellos.
+TEXT_LUCKME108_03637_TRISTOL_000_022	Si les explican su situación, estoy seguro de que estarán dispuestos a cooperar. De hecho, fue uno de ellos quien me mostró el túnel secreto a lo alto del acantilado.
+TEXT_LUCKME108_03637_TRISTOL_000_023	Encontrarán a los Tholls en su pueblo, al noroeste, un lugar llamado Tomra. Cuando lleguen, pidan audiencia con el jefe Xamott... ¡y no se olviden de saludarlo con un buen lali-ho!
+TEXT_LUCKME108_03637_MYSTERYVOICE_000_024	Permíteme acompañarte, <split(<string(gstr1)>, ,1)>. Me vendrá bien mover las articulaciones, y quizás pueda ayudar de alguna forma.
+TEXT_LUCKME108_03637_CHAINUZZ_000_025	Les dejo el corazón a ustedes dos, entonces. El tipo de mineral no importa, mientras sea rico en aether.
+TEXT_LUCKME108_03637_CHAINUZZ_000_026	Intentaré tener mi diseño terminado para cuando vuelvan.
+TEXT_LUCKME108_03637_CHAINUZZ_000_030	Si cuesta encontrar mineral rico en aether, podemos compensarlo con cantidad. Los de Stoneworks teníamos técnicas para estas situaciones.
+TEXT_LUCKME108_03637_DULIACHAI_000_035	¿El Exarch no se siente bien? Cuídense mucho allá afuera.
+TEXT_LUCKME108_03637_TRISTOL_000_040	Cuando el Ladder dejó de funcionar, los Tholls usaron túneles secretos para moverse libremente por la isla. Aunque casi siempre se mantienen apartados, son gente amable.
+TEXT_LUCKME108_03637_MYSTERYVOICE_000_050	Así que esto es Tomra...
+TEXT_LUCKME108_03637_MYSTERYVOICE_000_051	Rara vez vemos dwarves en el Crystarium. Estar ahora en presencia de tantos...
+TEXT_LUCKME108_03637_MYSTERYVOICE_000_052	Disfrutaré de no tener que estirar el cuello, para variar.
+TEXT_LUCKME108_03637_XAMOTT_000_053	(-Dwarf bullicioso-)¡Lali-ho!
+TEXT_LUCKME108_03637_Q1_000_000	¿Qué dices?
+TEXT_LUCKME108_03637_A1_000_001	¡Lali-ho!
+TEXT_LUCKME108_03637_A1_000_002	¿Lali... ho?
+TEXT_LUCKME108_03637_A1_000_003	¿¡Cómo me dijiste!?
+TEXT_LUCKME108_03637_XAMOTT_000_054	(-Dwarf bullicioso-)¡Ah, un saludo como la gente! ¡Se nota que estuviste practicando!
+TEXT_LUCKME108_03637_XAMOTT_000_055	(-Dwarf bullicioso-)¿¡Qué clase de saludo miserable fue ese!? ¿¡Dónde está tu corazón, <if(gnum4,muchacha,muchacho)>!? ¿¡Y tus <italic(1)>agallas<italic(0)>!?
+TEXT_LUCKME108_03637_XAMOTT_000_056	(-Dwarf bullicioso-)¡Es un saludo, <if(gnum4,muchacha,muchacho)>! Un lali-ho por un lali-ho: ¡así funciona!
+TEXT_LUCKME108_03637_XAMOTT_000_057	(-Dwarf bullicioso-)¡Vamos, probemos otra vez!
+TEXT_LUCKME108_03637_XAMOTT_000_058	(-Dwarf bullicioso-)¡Lali-hoooooo!
+TEXT_LUCKME108_03637_Q2_000_000	¿Qué dices?
+TEXT_LUCKME108_03637_A2_000_001	¡Lali-hoooooo!
+TEXT_LUCKME108_03637_A2_000_002	¡L-Lali-ho!
+TEXT_LUCKME108_03637_XAMOTT_000_059	(-Dwarf bullicioso-)Hmmm, nada mal, nada mal. Pero se puede mejorar.
+TEXT_LUCKME108_03637_XAMOTT_000_060	(-Dwarf bullicioso-)En fin, ahora que cumplimos con la cortesía de rigor: ¿quiénes son y qué hacen aquí?
+TEXT_LUCKME108_03637_XAMOTT_000_061	(-Dwarf bullicioso-)En fin, ahora que cumplimos con la cortesía de rigor: ¿quiénes son y qué le pasó a tu casco?
+TEXT_LUCKME108_03637_MYSTERYVOICE_000_062	Por recomendación de los habitantes de Amity, venimos a pedir la ayuda de la familia Tholl. ¿Podemos hablar con el jefe Xamott?
+TEXT_LUCKME108_03637_XAMOTT_000_063	¡Pues claro que pueden! ¡Xamott soy <italic(1)>yo<italic(0)>, y les doy la bienvenida a Tomra!
+TEXT_LUCKME108_03637_XAMOTT_000_064	Si fue la gente de Amity la que los mandó, deben tener toda una historia que contar. ¡Vamos, a escucharla!
+TEXT_LUCKME108_03637_XAMOTT_000_065	¡Vaya, vaya! ¡Y yo que creía que a los de abajo no les quedaban ganas de pelear!
+TEXT_LUCKME108_03637_XAMOTT_000_066	Dicho esto, tampoco es que nosotros sepamos qué hacer con ese volcán flotante y todos esos sin eaters.
+TEXT_LUCKME108_03637_XAMOTT_000_067	Pero si de verdad quieren devolverle la paz a esta zona, les daremos una mano con gusto.
+TEXT_LUCKME108_03637_XAMOTT_000_068	¡Eso sí!
+TEXT_LUCKME108_03637_XAMOTT_000_069	El tipo de mineral que buscan también es valioso para nosotros.
+TEXT_LUCKME108_03637_XAMOTT_000_070	Si se lo doy y después lo arruinan y lo desperdician, no habrá cerveza que me quite el disgusto.
+TEXT_LUCKME108_03637_XAMOTT_000_071	Primero tengo que asegurarme de que lo merecen: ¡con una prueba! Sí, una prueba de lo más ingeniosa, transmitida por el linaje de los Tholl.
+TEXT_LUCKME108_03637_MYSTERYVOICE_000_072	¿Y en qué consiste esa prueba?
+TEXT_LUCKME108_03637_XAMOTT_000_073	Je, je, je... Vengan conmigo y les contaré todo.
+TEXT_LUCKME108_03637_MYSTERYVOICE_000_080	¿Qué clase de prueba será...?
+TEXT_LUCKME108_03637_XAMOTT_000_090	Je, je, je... Escuchen bien.
+TEXT_LUCKME108_03637_XAMOTT_000_091	Como saben, somos un pueblo minero. Y en la vida minera, el peligro siempre anda de compañero.
+TEXT_LUCKME108_03637_XAMOTT_000_092	Así que, cuando llegamos a la mayoría de edad, cada uno tiene que demostrar que está listo para entrar en las minas.
+TEXT_LUCKME108_03637_XAMOTT_000_093	Lo hacemos superando una prueba que mide las tres cualidades sin las que ningún buen minero puede vivir: discernimiento, diligencia y destreza. La llamamos... ¡3-D MineRunner!
+TEXT_LUCKME108_03637_XAMOTT_000_094	Ahora, mira mi casco. Fíjate bien en cómo es. Te darán una honda, y con ella tienes que disparar a los dwarves que lleven cascos <italic(1)>distintos<italic(0)>.
+TEXT_LUCKME108_03637_XAMOTT_000_095	Ya hice los arreglos necesarios. Cuando estés list<if(gnum4,a,o)> para la prueba, preséntate ante el observador que está cerca. ¡Mucha suerte!
+TEXT_LUCKME108_03637_MYSTERYVOICE_000_100	Bueno, me alegra que la prueba no sea innecesariamente peligrosa. Aunque los dwarves que nos sirven de blanco quizás opinen otra cosa.
+TEXT_LUCKME108_03637_MYSTERYVOICE_000_101	¿Te encargarías tú de hacer los honores, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>? Casi no hace falta decirlo, pero de los dos, tú eres quien más se presta.
+TEXT_LUCKME108_03637_XAMOTT_000_105	Sí, mira bien mi casco. El par de cuernos magníficos. Es la marca de nuestro clan, y si la ves... ¡por lo que más quieras, no dispares!
+TEXT_LUCKME108_03637_GUIDEDWARF03637_000_110	¡Lali-ho! Tú debes de ser quien hace la prueba, como dijo el jefe. Te llevo al tejado ahora mismo.
+TEXT_LUCKME108_03637_GUIDEDWARF03637_000_111	Como seguro te dijeron, en el 3-D MineRunner usas una honda para disparar a los que llevan el casco equivocado. Empecemos con una práctica, ¿eh?
+TEXT_LUCKME108_03637_SYSTEM_000_112	Busca al dwarf que lleva el casco equivocado. Puedes mover la cámara y acercarla o alejarla. Selecciona al dwarf y usa la honda con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)> / <icon2(8)>)>.
+TEXT_LUCKME108_03637_GUIDEDWARF03637_000_113	¡Sí, así se hace!
+TEXT_LUCKME108_03637_GUIDEDWARF03637_000_114	La próxima vez es la prueba de verdad. Avísame cuando estés list<if(gnum4,a,o)>, ¿eh?
+TEXT_LUCKME108_03637_MYSTERYVOICE_000_120	Rezaré por tu éxito.
+TEXT_LUCKME108_03637_XAMOTT_000_125	Buen estilo, <if(gnum4,muchacha,muchacho)>, pero eso fue solo la práctica. ¡La prueba de verdad es mucho más difícil!
+TEXT_LUCKME108_03637_GUIDEDWARF03637_000_130	¿List<if(gnum4,a,o)> para la prueba? ¡Por aquí, entonces!
+TEXT_LUCKME108_03637_GUIDEDWARF03637_000_131	Esta vez habrá algunos con el casco <italic(1)>correcto<italic(0)>. Si les disparas a ellos, fallas, ¡así que mira bien antes de soltar la piedra!
+TEXT_LUCKME108_03637_SYSTEM_000_132	Busca al dwarf que lleva el casco equivocado. Puedes mover la cámara y acercarla o alejarla. Selecciona al dwarf y usa la honda con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)> / <icon2(8)>)>.
+TEXT_LUCKME108_03637_GUIDEDWARF03637_000_133	¡Bien hecho, bien hecho! La prueba nunca miente: ¡tienes lo que hace falta para ser miner<if(gnum4,a,o)>!
+TEXT_LUCKME108_03637_GUIDEDWARF03637_000_134	¡Ahora vuelve con el jefe y ocúpate de terminar con todas estas rarezas de los últimos tiempos!
+TEXT_LUCKME108_03637_MYSTERYVOICE_000_150	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. Aunque una prueba así debe de ser un pasatiempo relajante comparada con tus empresas habituales, fue igual una demostración impresionante.
+TEXT_LUCKME108_03637_GUIDEDWARF03637_000_155	Ah, no te preocupes por los que le diste. No habrán sentido nada a través de la armadura.
+TEXT_LUCKME108_03637_XAMOTT_000_160	¡Qué puntería, <if(gnum4,muchacha,muchacho)>! ¡Me doy por satisfecho!
+TEXT_LUCKME108_03637_XAMOTT_000_161	Sí, está claro que no llegaste hasta aquí solo con suerte. Así que pondré mi fe en ti y te ayudaré a encontrar el mineral que buscas.

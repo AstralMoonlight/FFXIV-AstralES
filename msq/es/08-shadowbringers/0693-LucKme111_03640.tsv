@@ -1,0 +1,78 @@
+key	text
+TEXT_LUCKME111_03640_SEQ_00	El Crystal Exarch tiene la eficiencia en mente.
+TEXT_LUCKME111_03640_SEQ_01	Para aprovechar bien el tiempo, el Crystal Exarch sugiere separarse para las tareas que vienen. Mientras él lleva la semilla de la tierra a Chai-Nuzz en Amity, te pide que acompañes a tu joven compañero dwarf, Korutt, sano y salvo de vuelta a Tomra.
+TEXT_LUCKME111_03640_SEQ_02	A Xamott le alegra que el joven Korutt te haya sido útil, y te cuenta que otros dwarves también se ofrecieron a ayudar a tu causa. Para eso, previendo que necesitarás herramientas de minería para conseguir la piedra del Talos, modificaron sus picos de repuesto para que los use gente más grande. Generosamente equipad<if(gnum4,a,o)>, partes para reunirte con tus compañeros en Top Rung.
+TEXT_LUCKME111_03640_SEQ_03	Al llegar a Top Rung, encuentras que Alisaie y Alphinaud volvieron, junto con la ayuda que prometieron. Pero aunque no faltan manos dispuestas, faltan picos para ellas. Qué suerte, entonces, que traigas contigo una pequeña montaña de herramientas de minería. Tan contenta como incrédula, Alisaie te pide que las repartas entre los ayudantes reunidos.
+TEXT_LUCKME111_03640_SEQ_04	Mientras repartes los picos, te encuentras con muchas caras conocidas. Aunque cada uno recorrió un camino distinto para llegar hasta aquí, a todos los une el deseo de poner su parte por Norvrandt. Con el último voluntario equipado y en camino, vuelves con Alisaie.
+TEXT_LUCKME111_03640_SEQ_05	Tras agradecerte tus esfuerzos, Alisaie declara que se unirá a los soldados encargados de defender a los trabajadores mientras trabajan. Queda muchísimo por hacer, pero en tan decidida compañía no puedes evitar sentirte optimista.
+TEXT_LUCKME111_03640_TODO_00	Habla con Xamott.
+TEXT_LUCKME111_03640_TODO_01	Habla con Alisaie.
+TEXT_LUCKME111_03640_TODO_02	Entrégale picos a Magnus.
+TEXT_LUCKME111_03640_TODO_03	Entrégale picos a Rhon Ron.
+TEXT_LUCKME111_03640_TODO_04	Entrégale picos a Kai-Shirr.
+TEXT_LUCKME111_03640_TODO_05	Habla con Alisaie.
+TEXT_LUCKME111_03640_KORUTT_000_000	¡Me alegra haber sido útil! ¡Si necesitan más semilla de la tierra, solo avísenme!
+TEXT_LUCKME111_03640_GLAGG_000_005	\<ronquido> \<ronquido>
+TEXT_LUCKME111_03640_MYSTERYVOICE_000_010	Bien, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>, por mucho que haya disfrutado nuestro tiempo juntos, creo que lo mejor es separarnos, para cumplir nuestras tareas más rápido.
+TEXT_LUCKME111_03640_MYSTERYVOICE_000_011	Yo me aseguraré de que la semilla de la tierra llegue sana y salva a manos de Chai-Nuzz.
+TEXT_LUCKME111_03640_MYSTERYVOICE_000_012	Mientras tanto, ¿serías tan amable de llevar a Korutt de vuelta a Tomra?
+TEXT_LUCKME111_03640_MYSTERYVOICE_000_013	Gracias, <split(<string(gstr1)>, ,1)>. Aunque fue breve, fue un honor vivir una aventura contigo. Nos vemos en Amity.
+TEXT_LUCKME111_03640_MYSTERYVOICE_000_020	Déjame la semilla de la tierra a mí, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>, y lleva a Korutt sano y salvo de vuelta a Tomra. Ya que estás allí, no estaría de más darle las gracias al jefe Xamott.
+TEXT_LUCKME111_03640_KORUTT_000_025	¡Uf! ¡Ni un solo roce con la muerte! ¡Gracias por acompañarme de vuelta!
+TEXT_LUCKME111_03640_XAMOTT_000_030	¡Lali-ho! ¡Me alegra que hayan vuelto, y enteros! ¿Y cómo les fue con la semilla de la tierra?
+TEXT_LUCKME111_03640_KORUTT_000_031	¡Les conseguí todo lo que necesitaban! ¡El Exarch va camino a Amity con ella!
+TEXT_LUCKME111_03640_XAMOTT_000_032	Me alegra saber que el joven Korutt les fue útil. Justamente, mientras no estaban, unos cuantos más se ofrecieron diciendo que también querían poner su parte.
+TEXT_LUCKME111_03640_XAMOTT_000_033	Como van a construir un Talos, pensamos que necesitarían herramientas de minería. Así que modificamos nuestros picos de repuesto para que los pueda usar gente más grande.
+TEXT_LUCKME111_03640_XAMOTT_000_034	Toma, llévatelos. Debería alcanzar para todos.
+TEXT_LUCKME111_03640_XAMOTT_000_035	Por lo que me dicen nuestros exploradores, ya hay una multitud reunida en Top Rung. Ve y asegúrate de que todos tengan un pico para darle, ¿eh?
+TEXT_LUCKME111_03640_XAMOTT_000_040	Le hicimos un favor a la gente de Amity por si algún día nos hacía falta un favor a nosotros. No digo que esperara que las cosas salieran así, ¡pero no me arrepiento de haber hecho amigos!
+TEXT_LUCKME111_03640_KORUTT_000_045	¡Esto recién empieza! ¡Voy a ver qué más puedo hacer!
+TEXT_LUCKME111_03640_ALPHINAUD_000_050	Ah, <split(<string(gstr1)>, ,1)>, llega en buen momento.
+TEXT_LUCKME111_03640_KAISHIRR_000_055	Alphinaud vino y nos juntó a todos. Es curioso, antes le tenía miedo a la gente de Eulmore, y sin embargo aquí estamos todos...
+TEXT_LUCKME111_03640_EMPLOYEE03287_000_060	Muchos ciudadanos libres querían ayudar, pero años de ocio hicieron que la mayoría no estuviera en condiciones de contribuir. En cambio, nos envían sus fervientes deseos de éxito.
+TEXT_LUCKME111_03640_IRVITHE_000_065	¡Como si restaurar el Ladder no fuera suficiente trabajo, ahora quieren construir un Talos gigante! ¡Me encanta!
+TEXT_LUCKME111_03640_GRITHIL_000_070	¿Dudabas de que volveríamos por más? ¡Nos sobran las ganas!
+TEXT_LUCKME111_03640_MAGNUS_000_075	Y yo que pensaba que ustedes habían inventado el plan más estúpido del mundo, cuando me entero de que lograron meter en él al viejo Chai-Nuzz. Cuando terminemos el trabajo, voy a tener que ir a burlarme un buen rato de ese haragán.
+TEXT_LUCKME111_03640_THAFFE_000_080	¡<split(<string(gstr1)>, ,1)>, qué bueno verte otra vez! ¿Cómo has estado?
+TEXT_LUCKME111_03640_JERYK_000_085	¿U-Un Talos gigante? ¿Es posible algo así...? ¡Ay, quieto, corazón mío!
+TEXT_LUCKME111_03640_RHONRON_000_090	¡Gusanos! ¡Lleven sus gusanos! ¡Los mejores que van a probar de este lado del Bright Cliff! Vivos y jugosos o curados y crocantes, ¡hay para todos los gustos!
+TEXT_LUCKME111_03640_JOURNEYSHEADNURSE_000_095	Alisaie vino a buscar trabajadores dispuestos... ¡así que aquí estoy!
+TEXT_LUCKME111_03640_ALISAIE_000_100	¡Mire, <split(<string(gstr1)>, ,1)>! ¡Vino gente de todas partes para ayudarnos a sacar piedra!
+TEXT_LUCKME111_03640_ALISAIE_000_101	Y estos ni siquiera son todos. En este momento, a los voluntarios que reclutaron Thancred y Ryne los están escoltando al sitio de trabajo, y nada menos que soldados del Crystarium y de Eulmore.
+TEXT_LUCKME111_03640_ALISAIE_000_102	Así que, como ve, manos nos sobran. Solo hay un problema: no tenemos suficientes herramientas para ponerles en ellas. Estuvimos tratando desesperadamente de juntar más, pero hasta ahora no tuvimos mucha suerte.
+TEXT_LUCKME111_03640_ALISAIE_000_103	¿¡Picos de los dwarves!? ¡Usted siempre tiene justo lo que necesitamos, justo cuando lo necesitamos!
+TEXT_LUCKME111_03640_ALISAIE_000_104	Bueno, ¿qué espera? ¡Vaya y repártalos entre todos para que puedan ponerse a trabajar!
+TEXT_LUCKME111_03640_ALISAIE_000_110	La verdad, <split(<string(gstr1)>, ,1)>, ya puede matar dioses. Por lo menos podría habernos dejado a alguno de nosotros ese don asombroso para la oportunidad. Es pura codicia, eso es.
+TEXT_LUCKME111_03640_KAISHIRR_000_120	¡Estamos listos para poner nuestra parte, <split(<string(gstr1)>, ,1)>! Solo que, eh... nos faltan herramientas para hacerlo.
+TEXT_LUCKME111_03640_KAISHIRR_000_121	¡Picos! ¡Un montón!
+TEXT_LUCKME111_03640_EMPLOYEE03287_000_122	¡Ahora todos podremos trabajar a gusto!
+TEXT_LUCKME111_03640_EMPLOYEE03287_000_123	Aunque no tengo muchos talentos, sí tengo una espalda fuerte. Y la fuerza que tengo la usaré con gusto por la paz.
+TEXT_LUCKME111_03640_IRVITHE_000_124	Pusimos el Ladder en marcha otra vez, ¿no? ¡Si unimos fuerzas, no hay Talos que no podamos construir!
+TEXT_LUCKME111_03640_KAISHIRR_000_125	Todavía no les pagué a usted y a Alphinaud por salvarme, y no sé si alguna vez podré.
+TEXT_LUCKME111_03640_KAISHIRR_000_126	¡Pero eso no me va a impedir intentarlo! ¡Estoy con ustedes hasta el final!
+TEXT_LUCKME111_03640_KAISHIRR_000_127	¡Vamos, ustedes! ¡Muévanse!
+TEXT_LUCKME111_03640_MAGNUS_000_128	Aquí estamos, <split(<string(gstr1)>, ,1)>. Por si te lo preguntas, Guthjon también vino.
+TEXT_LUCKME111_03640_MAGNUS_000_129	Pero no veía la hora de empezar a romper piedras, así que se adelantó. Bah, por lo menos podría habernos dejado unas herramientas de repuesto...
+TEXT_LUCKME111_03640_MAGNUS_000_130	¡Ah, maravilloso! ¡Ahora nosotros también podemos ponernos a trabajar!
+TEXT_LUCKME111_03640_MAGNUS_000_131	Picar piedra no es justamente mi oficio, pero esta vez... esta vez siento que mi esposa va a estar conmigo, guiándome la mano...
+TEXT_LUCKME111_03640_MAGNUS_000_132	Así que hagámoslo realidad. Construyamos un mundo donde todos puedan vivir sin miedo. Donde todos tengan un lugar al que volver.
+TEXT_LUCKME111_03640_MAGNUS_000_133	Bien, entonces, pongámonos en marcha.<br>...¿Hm? ¿Qué haces todavía aquí, Thaffe? Creí que habías traído tus propias herramientas.
+TEXT_LUCKME111_03640_THAFFE_000_134	Las traje. Y estaba por irme cuando vi a Jeryk...
+TEXT_LUCKME111_03640_JERYK_000_135	Ay, dioses, ay, dioses... Si este plan funciona y el Talos gigante cobra vida...
+TEXT_LUCKME111_03640_JERYK_000_136	¡Imagínense el tamaño de la vagoneta que podría empujar! ¡<italic(1)>Imagínenlo<italic(0)>!
+TEXT_LUCKME111_03640_THAFFE_000_137	\<suspiro> ¿<italic(1)>Todavía<italic(0)> sigues con eso? ¿Cuántas veces te tengo que decir que el Talos no es para eso? ¿Por dónde demonios pasarían las vías?
+TEXT_LUCKME111_03640_JERYK_000_138	¡Algún lugar tiene que haber! ¡Solo hace falta un poco de imaginación! Ya que Stoneworks está metida, quizás podríamos pedir que agreguen una vagoneta al diseño...
+TEXT_LUCKME111_03640_MAGNUS_000_139	¡Basta! ¡Nos vamos a trabajar! ¡Y si te oigo hablar de vagonetas otra vez, te pongo a empujar una a ti!
+TEXT_LUCKME111_03640_RHONRON_000_140	¡Cuánto tiempo, viajer<if(gnum4,a,o)>! ¿Tú también esperas que te den un pico?
+TEXT_LUCKME111_03640_RHONRON_000_141	¡Oh, está claro que no, y ahora nosotros tampoco! ¡Quédate tranquil<if(gnum4,a,o)>, que les daremos buen uso y trabajaremos muy, muy duro!
+TEXT_LUCKME111_03640_RHONRON_000_142	Claro que no se puede trabajar con la panza vacía; ¡por eso traje unos gusanos sabrosos para compartir!
+TEXT_LUCKME111_03640_JOURNEYSHEADNURSE_000_143	Eh, por mucho que a todos nos guste darnos un gusto, ¿quizás sea mejor guardar los gusanos para... después?
+TEXT_LUCKME111_03640_JOURNEYSHEADNURSE_000_144	Saludos, <split(<string(gstr1)>, ,1)>. Quizás no me recuerde, pero soy una de las cuidadoras de la Inn at Journey's Head.
+TEXT_LUCKME111_03640_JOURNEYSHEADNURSE_000_145	Cuando la noche volvió a Amh Araeng, notamos un cambio en nuestros pacientes. La transformación se había detenido en todos ellos.
+TEXT_LUCKME111_03640_JOURNEYSHEADNURSE_000_146	No puedo expresar lo que eso hizo con el ánimo del lugar. Días después todavía estábamos celebrando, cuando ¿quién apareció sino Alisaie? Dijo que buscaba la ayuda de quienes creyeran en el Warrior of Darkness.
+TEXT_LUCKME111_03640_JOURNEYSHEADNURSE_000_147	Todos respondimos a su llamado en ese mismo momento. Claro que algunos cuidadores tuvieron que quedarse, pero vinimos todos los que no hacíamos falta allá.
+TEXT_LUCKME111_03640_RHONRON_000_148	¡Yo también respeto mucho al Warrior of Darkness! ¡Cuando lo conozca, sin falta le invito un gusano bien gordito!
+TEXT_LUCKME111_03640_ALPHINAUD_000_150	Aquí todo parece estar en orden. En todo mi tiempo en este mundo, no recuerdo haber visto tantas caras optimistas.
+TEXT_LUCKME111_03640_ALISAIE_000_160	Gracias, <split(<string(gstr1)>, ,1)>. Con eso, ya todos están equipados para trabajar.
+TEXT_LUCKME111_03640_ALISAIE_000_161	Creo que voy a unirme a los soldados que montan guardia sobre los voluntarios. Sería una pena que cayeran presa de los sin eaters después de todo el trabajo que nos costó.
+TEXT_LUCKME111_03640_ALISAIE_000_162	¡Bien! Asegurémonos de que este plan sea un éxito rotundo, ¡por todos los de Norvrandt!
