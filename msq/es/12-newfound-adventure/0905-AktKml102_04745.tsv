@@ -1,0 +1,164 @@
+key	text
+TEXT_AKTKML102_04745_SEQ_00	Ryne está ansiosa por ayudarte a poner en marcha tu plan.
+TEXT_AKTKML102_04745_TODO_00	Habla con Chai-Nuzz en Eulmore.
+TEXT_AKTKML102_04745_TODO_01	Habla con Zero y pídele que te acompañe.
+TEXT_AKTKML102_04745_TODO_02	Habla con los ciudadanos de Eulmore mientras Zero y Ryne te acompañan.
+TEXT_AKTKML102_04745_TODO_03	Habla con Chai-Nuzz mientras Zero y Ryne te acompañan.
+TEXT_AKTKML102_04745_TODO_04	Habla con Zero.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_001	Veo que aquí también usan aetherytes. Aunque yo no podré, porque no me sintonicé con ninguno. ¿Confío en que estás dispuest<if(gnum4,a,o)> a caminar conmigo?
+TEXT_AKTKML102_04745_RYNE_000_010	Vamos a Nabaath Areng. Como Zero no puede teletransportarse a su aetheryte, deberíamos ir en amaro.
+TEXT_AKTKML102_04745_LYNA_000_011	Ah, ahí están. Menos mal que no llego tarde.
+TEXT_AKTKML102_04745_RYNE_000_012	¡Lyna! ¿Supongo que Beq Lugg te contó por qué vino?
+TEXT_AKTKML102_04745_LYNA_000_013	Más o menos.
+TEXT_AKTKML102_04745_LYNA_000_014	Saludos y bienvenida. Soy Lyna, capitana de la guardia aquí en el Crystarium.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_015	Zero. ¿Necesitas algo...?
+TEXT_AKTKML102_04745_LYNA_000_016	Cuando supe de su plan de reunir Luz en la Crystal Tower, me sentí obligada a advertirles de las posibles repercusiones.
+TEXT_AKTKML102_04745_LYNA_000_017	Sé bien que jamás usarían la torre para el mal, ni sin la debida cautela. Aun así...
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_018	Creo que entiendo.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_019	Desde el Flood, la Luz fue fuente de dolor y miseria. Sin duda algunos todavía le temen.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_020	Es decir, a algunos les incomodaría verla usada como pensamos usarla. Esa es tu preocupación, ¿no?
+TEXT_AKTKML102_04745_LYNA_000_021	Exactamente.
+TEXT_AKTKML102_04745_LYNA_000_022	Fue la Luz la que casi consumió nuestro mundo. Usar la Crystal Tower para aprovechar esa fuerza destructiva corre el riesgo de convertir la torre en un objeto de miedo.
+TEXT_AKTKML102_04745_LYNA_000_023	Quizás puedan convencer al Crystarium de que su causa es necesaria, pero no será tan fácil ganarse a los que están fuera de nuestras murallas.
+TEXT_AKTKML102_04745_LYNA_000_024	Me preocupa que esto debilite la frágil confianza que recién empezamos a construir con algunas comunidades. Podrían malinterpretar sus intenciones.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_025	Dime quiénes son y qué malentendidos podrían tener. Yo calmaré sus temores.
+TEXT_AKTKML102_04745_RYNE_000_026	<split(<string(gstr1)>, ,1)> y yo iremos con ella. La gente nos conoce. Nuestra presencia los tranquilizará.
+TEXT_AKTKML102_04745_LYNA_000_027	Gracias. Sé que esto retrasará la ejecución de sus planes, pero no veo otra forma.
+TEXT_AKTKML102_04745_LYNA_000_028	En cuanto a por dónde empezar... me atrevo a decir que Eulmore sería tan buen lugar como cualquiera.
+TEXT_AKTKML102_04745_LYNA_000_029	Aunque ahora nuestra relación es amistosa, estuvimos enfrentados durante largos años.
+TEXT_AKTKML102_04745_RYNE_000_030	Eulmore estuvo gobernada por un tirano que usaba el poder de la Luz. Aunque prometía la salvación, en realidad esclavizaba a sus súbditos y buscaba destruir a todo el que lo desafiara.
+TEXT_AKTKML102_04745_RYNE_000_031	Por suerte ya no está, y eligieron alcalde a un buen hombre llamado Chai-Nuzz. Desde entonces, las relaciones entre nuestras ciudades mejoraron mucho.
+TEXT_AKTKML102_04745_RYNE_000_032	Aun así, queda cierta rivalidad entre nosotros. Si el Crystarium aprovechara la Luz sin avisar, algunos en Eulmore podrían sospechar que tenemos segundas intenciones.
+TEXT_AKTKML102_04745_LYNA_000_033	Por eso sería prudente avisarles antes. Pero si explican que buscan salvar el hogar <if(gnum4,de la,del)> Warrior of Darkness, espero que les den su bendición.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_034	Una vez más, tu nombre inspira respeto y confianza en el dominio de tus antiguos enemigos. Como en Garlemald...
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_035	¿Qué otro lugar deberíamos visitar?
+TEXT_AKTKML102_04745_LYNA_000_036	Después de Eulmore, les sugeriría el Rak'tika Greatwood.
+TEXT_AKTKML102_04745_LYNA_000_037	Ahí encontrarán a los Night's Blessed, un pequeño grupo que venera a la Oscuridad, y también a las Viis, guardianas de los secretos de la antigua Ronka.
+TEXT_AKTKML102_04745_LYNA_000_038	Las Viis son reservadas y seguramente no se opondrán a menos que la Luz invada su territorio. Los Night's Blessed, en cambio, agradecerían mucho que les aseguren que sus acciones no afectarán su vida.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_039	Gente que venera a la Oscuridad... Apropiado para un mundo casi consumido por la Luz.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_040	Muy bien. Hablaremos con la gente de Eulmore y con los Night's Blessed.
+TEXT_AKTKML102_04745_LYNA_000_041	Tomen estas whisperweeds. Les avisaré cuando todo esté listo en la torre.
+TEXT_AKTKML102_04745_LYNA_000_042	Bien. Debo atender mis propias tareas...
+TEXT_AKTKML102_04745_LYNA_000_043	Explicarle la situación a la gente del Crystarium y organizar la colocación de sus transmisores aquí y en Nabaath Areng.
+TEXT_AKTKML102_04745_RYNE_000_044	Te lo agradecemos de verdad. Gracias, Lyna.
+TEXT_AKTKML102_04745_RYNE_000_045	Vamos, a Eulmore. Ojalá Chai-Nuzz sepa cuál es la mejor forma de presentarles nuestro plan a todos.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_050	¿Este es el gran y poderoso líder de Eulmore...? Debe tener cualidades sutiles que lo vuelven especialmente apto para el cargo.
+TEXT_AKTKML102_04745_RYNE_000_055	Miren, Dulia-Chai y Wrenden también están aquí. Entre los tres, deberíamos poder conseguir buenos consejos.
+TEXT_AKTKML102_04745_WRENDEN_000_060	Saludos, Warrior of Darkness. Si viniste preocupad<if(gnum4,a,o)> por nuestro estimado alcalde, no temas. Dirige bien la ciudad y, como siempre, prefiere trabajar codo a codo con la gente, para oír mejor su voz.
+TEXT_AKTKML102_04745_DULIACHAI_000_065	¡<split(<string(gstr1)>, ,1)>, Ryne! ¡Oh, qué sorpresa tan maravillosa! ¡Y hasta trajeron una amiga nueva!
+TEXT_AKTKML102_04745_CHAINUZZ_000_100	¡Santos dioses, pero si es <split(<string(gstr1)>, ,1)>!
+TEXT_AKTKML102_04745_CHAINUZZ_100_100	¿A qué debemos el placer? No será otra amenaza de fin del mundo, seguro que no. Seguro que no...?
+TEXT_AKTKML102_04745_Q1_000_000	¿Qué dices?
+TEXT_AKTKML102_04745_A1_000_001	Planeamos una gran empresa que podría preocupar a la gente de Eulmore.
+TEXT_AKTKML102_04745_A1_000_002	Hay un asunto delicado que pensamos que convenía consultar con el estimado alcalde de la ciudad.
+TEXT_AKTKML102_04745_CHAINUZZ_200_100	Ah. ¿Y querían consultarme antes de anunciar sus planes a la población? Muy bien. ¿Qué tenían en mente exactamente...?
+TEXT_AKTKML102_04745_CHAINUZZ_210_100	Dudo que alguna vez me describa así, pero en fin. Me doy cuenta de que traman algo, el tipo de algo con lo que quizás no quiera tener nada que ver, pero de todos modos debería saberlo. ¿Qué es?
+TEXT_AKTKML102_04745_CHAINUZZ_000_101	Reunir Luz con la Crystal Tower, dicen...
+TEXT_AKTKML102_04745_CHAINUZZ_000_102	Mentiría si dijera que eso no me trae recuerdos desagradables, y creo que hablo por la mayoría de la gente de Eulmore.
+TEXT_AKTKML102_04745_RYNE_000_103	No podemos culparlos...
+TEXT_AKTKML102_04745_CHAINUZZ_000_104	Por supuesto, no tenemos motivos para dudar de sus intenciones. Ni de las suyas ni de las de los líderes del Crystarium.
+TEXT_AKTKML102_04745_CHAINUZZ_000_105	Un mundo envuelto en Oscuridad, sus habitantes corrompidos intentando invadir el suyo... Es bastante para asimilar. Pero cualquiera puede entender el deseo de salvar su hogar.
+TEXT_AKTKML102_04745_CHAINUZZ_000_109	Me conmueve que se preocupen tanto por nuestros sentimientos pese a la gravedad de su situación. Muy bien. Tienen mi apoyo.
+TEXT_AKTKML102_04745_DULIACHAI_000_110	¡Como si alguna vez hubiera habido dudas! Bien, reunamos a la gente de inmediato. Si tú lo explicas, todos deberían entender.
+TEXT_AKTKML102_04745_CHAINUZZ_000_111	N-No tan rápido, querida. Si lo revelara todo ahora, muchos se inquietarían profundamente, por más garantías que les diera.
+TEXT_AKTKML102_04745_CHAINUZZ_000_112	No, primero hay que preparar el terreno. Hacer correr la voz de la situación <if(gnum4,de la,del)> Warrior of Darkness: que está en una misión para salvar su mundo, como una vez salvó el nuestro.
+TEXT_AKTKML102_04745_CHAINUZZ_000_113	Cuando la historia sea de dominio público, convocaré una asamblea y explicaré la necesidad de aprovechar el poder de la Luz a una población mucho más dispuesta a la idea.
+TEXT_AKTKML102_04745_CHAINUZZ_000_116	Para eso, ¿podría molestarte para que hables con nuestros ciudadanos sobre tu situación? Sería más eficaz que oyeran los detalles de boca <if(gnum4,de la propia heroína,del propio héroe)>. Más probable que inspire solidaridad con tu causa.
+TEXT_AKTKML102_04745_WRENDEN_000_117	Así que apelamos al deseo de ayudar <if(gnum4,a la,al)> Warrior of Darkness para presentar la Luz bajo una... luz más positiva. Bien jugado, Maestro Chai.
+TEXT_AKTKML102_04745_RYNE_000_126	Si es mejor que hable usted, entonces iremos con usted.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_127	Por mí está bien. Me conformo con observar.
+TEXT_AKTKML102_04745_CHAINUZZ_000_128	Cuando termines tu recorrida, te pido que me informes. Me gustaría saber cómo reacciona la gente.
+TEXT_AKTKML102_04745_RYNE_000_129	Guíenos, <split(<string(gstr1)>, ,1)>. Iremos justo detrás.
+TEXT_AKTKML102_04745_CHAINUZZ_000_130	Soy muy consciente de mis limitaciones y sé que no soy el orador más persuasivo, gracias. Deberíamos hacer todo lo posible para que la gente esté más receptiva antes de que yo les hable.
+TEXT_AKTKML102_04745_WRENDEN_000_135	La gente de Eulmore tiene muchísima fe tanto en ti como en el Maestro Chai. Si no, no seguirían aquí, y yo tampoco.
+TEXT_AKTKML102_04745_DULIACHAI_000_140	¿Así que Zero puede viajar aquí libremente como tú? Ojalá Alphinaud pudiera hacer lo mismo. Lo extraño muchísimo...
+TEXT_AKTKML102_04745_RYNE_000_145	Aunque Lyna y el Maestro Chai no podrían ser más distintos, los dos tienen en cuenta cómo sus actos pueden afectar a los demás. Los dos son buenos líderes, y espero aprender mucho de ellos.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_200	Con solo esa conversación pude ver cuánto confía en ti la gente de aquí.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_201	Gracias a Jullus y a Thancred, aprendí a reconocerlo mejor.
+TEXT_AKTKML102_04745_RYNE_000_202	¿Qué? ¿También conociste a Thancred?
+TEXT_AKTKML102_04745_RYNE_000_203	Digo, eh... Claro. Claro que sí. No sé por qué dije eso...
+TEXT_AKTKML102_04745_RYNE_100_203	Bien, busquemos ciudadanos con quienes hablar. Sugiero empezar aquí en el Canopy antes de bajar al Understory y después a los Derelicts.
+TEXT_AKTKML102_04745_SYSTEM_000_205	Zero y Ryne te acompañan. Mantenlas a tu lado para avanzar en los objetivos de la misión.
+TEXT_AKTKML102_04745_SYSTEM_000_206	Puedes dejar atrás a tus compañeros de misión si entras en otra zona, o si hablas con ellos y eliges la opción de separarse.
+TEXT_AKTKML102_04745_SYSTEM_000_207	Si quieres que tus compañeros vuelvan a acompañarte, regresa y habla con ellos en el lugar original.
+TEXT_AKTKML102_04745_SYSTEM_000_208	¿Qué haces?
+TEXT_AKTKML102_04745_SYSTEM_000_209	Charlar.
+TEXT_AKTKML102_04745_SYSTEM_000_210	Separarse.
+TEXT_AKTKML102_04745_SYSTEM_000_211	Nada.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_212	Una torre que se vuelve más decadente a medida que sube, sobre una franja de tierra aislada... Recuerda al dominio de un voidsent.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_213	Construida por quienes anhelaban tiempos mejores. Por quienes ansiaban la sombra de un recuerdo.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_214	Pero en el Crystarium no vi esa desesperación. Pese a su tragedia compartida, las dos ciudades no podrían sentirse más distintas.
+TEXT_AKTKML102_04745_RYNE_000_215	Aunque ahora el Crystarium es mi hogar, todavía visito Eulmore de vez en cuando.
+TEXT_AKTKML102_04745_RYNE_100_215	Aunque ahora el Crystarium es mi hogar, todavía visito Eulmore de vez en cuando, con Gaia.
+TEXT_AKTKML102_04745_RYNE_000_216	Y cada vez que vengo, siento que la ciudad cambió. El ambiente es más alegre, y la gente más feliz.
+TEXT_AKTKML102_04745_RYNE_000_217	No podemos permitir que se pierda todo ese progreso tan difícil de lograr. Hagamos lo posible por tranquilizar a todos.
+TEXT_AKTKML102_04745_SYSTEM_000_218	¿Seguro que quieres separarte de tus compañeros?
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_219	¿Tienes otros asuntos? No hay nada más que me interese hacer aquí, así que te esperaré en la plaza principal.
+TEXT_AKTKML102_04745_RYNE_000_220	Oh, ¿surgió algo? Está bien. Zero y yo podemos esperarl<if(gnum4,a,o)> en la plaza del aetheryte.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_221	Ahí estás. Volvamos a lo nuestro.
+TEXT_AKTKML102_04745_RYNE_000_222	¿Ya se ocupó de sus cosas? ¡Entonces guíenos!
+TEXT_AKTKML102_04745_SYSTEM_000_223	<colortype(548)>Hablar del Beehive.<colortype(0)>
+TEXT_AKTKML102_04745_SYSTEM_000_224	<colortype(548)>Hablar de los Derelicts.<colortype(0)>
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_225	Una taberna, y extravagante, además. Pero esas bailarinas usan los postes de formas muy extrañas.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_226	¿Están representando una batalla? ¿Un soldado que clava su lanza en el suelo y la usa para lanzarse contra un enemigo, quizás...?
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_227	Con la historia violenta de este mundo, es lógico que las demostraciones de destreza marcial se vuelvan un entretenimiento popular.
+TEXT_AKTKML102_04745_RYNE_000_228	Thancred me dijo una vez que la gente viene a estos lugares a "saborear algunos recuerdos y ahogar otros".
+TEXT_AKTKML102_04745_RYNE_000_229	Me imagino que el Beehive se construyó sobre todo para ayudar a la gente de Eulmore a olvidarse de los sin eaters, aunque fuera por un rato. Pero ahora simplemente pueden divertirse.
+TEXT_AKTKML102_04745_RYNE_000_230	Entiendo el atractivo... ¡Pero no se preocupen! Sé que todavía soy un poco joven para esto...
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_231	Esa cosa de ahí que limpia los escombros... Por un momento creí que era un voidsent.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_232	Por si no lo sabías, no es raro que los de mi especie usen estatuas como cuerpos.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_233	Pero ahora veo que se parece más a los soldados mecánicos de los garleanos. Los hay de todas las formas y tamaños, ¿no?
+TEXT_AKTKML102_04745_RYNE_000_234	Cuando Vauthry intentó dejarnos fuera de la ciudad, muchos ciudadanos libres murieron en el caos.
+TEXT_AKTKML102_04745_RYNE_000_235	Algunos no tenían parientes que heredaran su fortuna, así que Eulmore decidió usarla para ayudar a financiar la reconstrucción de los Derelicts.
+TEXT_AKTKML102_04745_RYNE_000_236	Es parte de un esfuerzo más grande por mejorar las condiciones de vida aquí abajo, algo importante porque en la ciudad propiamente dicha simplemente no hay lugar para todos.
+TEXT_AKTKML102_04745_CITIZEN04745A_000_300	¿Hm? ¿No te vi en algún lado?
+TEXT_AKTKML102_04745_CITIZEN04745B_000_301	No dejas de mirar por encima del hombro. ¿Esperas a alguien...?
+TEXT_AKTKML102_04745_CITIZEN04745C_000_302	Dioses, ¿cómo voy a seguir así? \<suspiro> Necesito otro trago.
+TEXT_AKTKML102_04745_SYSTEM_000_303	Debes ir acompañad<if(gnum4,a,o)> de Ryne y Zero, y tenerlas a tu lado para avanzar en los objetivos de la misión.
+TEXT_AKTKML102_04745_SYSTEM_000_304	Tus compañeros todavía no llegaron. Asegúrate de que estén a tu lado antes de intentar continuar.
+TEXT_AKTKML102_04745_CITIZEN04745A_000_305	¡Eres <if(gnum4,la,el)> Warrior of Darkness! Nunca soñé que tendría el honor... pero ¿por qué estás en Eulmore, si se puede saber?
+TEXT_AKTKML102_04745_CITIZEN04745A_000_306	Tu hogar está en peligro, y viniste a buscar ayuda...
+TEXT_AKTKML102_04745_CITIZEN04745A_000_307	Si hay algo que podamos hacer por ti, solo tienes que pedirlo. Las cosas podrían estar mejor aquí, claro, y nos queda un largo camino, pero no estaríamos aquí si no fuera por ti y los tuyos. Y nunca lo olvidaremos.
+TEXT_AKTKML102_04745_CITIZEN04745A_000_308	Alguna vez les tuve miedo a los sin eaters y a la Luz con cada fibra de mi ser, pero ya no. Hay demasiado por hacer; no podemos dejar que el miedo nos gobierne. Eso me lo enseñaste tú.
+TEXT_AKTKML102_04745_CITIZEN04745B_000_312	¡Vaya, <if(gnum4,la,el)> Warrior of Darkness y la Oracle of Light juntas! ¿En qué puedo servirles?
+TEXT_AKTKML102_04745_CITIZEN04745B_000_313	¡¿Tus enemigos planean invadir tu mundo?! Después de oír historias de sin eaters arrasando incontables aldeas, tu situación me resulta demasiado familiar...
+TEXT_AKTKML102_04745_CITIZEN04745B_000_314	Pase lo que pase, te ruego que seas fuerte. Venciste a los Lightwardens: puedes vencer cualquier adversidad. Y por si sirve de algo, estoy seguro de que todos aquí estarían dispuestos a ayudar en lo que podamos.
+TEXT_AKTKML102_04745_CITIZEN04745B_000_315	Ánimo, amig<if(gnum4,a,o)>. Ya salvaste nuestro mundo una vez, y tengo fe en que salvarás el tuyo. Dicho esto, si yo o mis hermanos podemos ayudar, no dudes en pedirlo.
+TEXT_AKTKML102_04745_CITIZEN04745C_000_322	Antes vivía el momento, sin importarme qué pasaría al día siguiente. Pero ahora que tenemos paz, me encuentro pensando en el futuro... y me pongo ansioso...
+TEXT_AKTKML102_04745_CITIZEN04745C_000_323	¿Qué? ¿Tu hogar está amenazado de destrucción? Por todos los blancos, ¡¿qué haces perdiendo el tiempo en un antro?!
+TEXT_AKTKML102_04745_CITIZEN04745C_000_324	Uf, pero mientras lo digo siento el pinchazo de la hipocresía... Dioses, tengo que tomar el control de mi vida. Tengo que enfrentar mis problemas de frente, ¡y lo mismo va para ti!
+TEXT_AKTKML102_04745_CITIZEN04745C_000_325	Nadie encontró nunca respuestas en el fondo de una copa. Ninguna que valga un comino, al menos. Los dos sabemos exactamente lo que tenemos que hacer, ¿no?
+TEXT_AKTKML102_04745_WRENDEN_000_335	¿Ya hablaste con la gente? Aunque no les faltan preocupaciones, me gusta pensar que, en general, ya no son tan propensos a la melancolía como antes.
+TEXT_AKTKML102_04745_DULIACHAI_000_340	La gente te conoce y te respeta, <split(<string(gstr1)>, ,1)>. ¡No tengo dudas de que todos se unirán a tu lado en tu hora de necesidad!
+TEXT_AKTKML102_04745_CHAINUZZ_000_400	Ah, volviste. Bien. Pero ¿dónde están Ryne y Zero?
+TEXT_AKTKML102_04745_CHAINUZZ_000_401	Así que la gente está unida en su deseo de ayudar. Bien, bien.
+TEXT_AKTKML102_04745_DULIACHAI_000_402	Pues hace un rato oí una conversación sobre cómo <if(gnum4,la,el)> Warrior of Darkness busca salvar su hogar. Tu historia se está difundiendo rápido.
+TEXT_AKTKML102_04745_WRENDEN_000_403	Entonces el plan se desarrolló tal como lo imaginaste.
+TEXT_AKTKML102_04745_CHAINUZZ_000_404	Solo queda, entonces, reunir a los ciudadanos y explicar por qué <split(<string(gstr1)>, ,1)> necesita reunir Luz...
+TEXT_AKTKML102_04745_CHAINUZZ_000_405	Para bien o para mal, soy el alcalde de esta ciudad. Haré lo posible por convencerlos.
+TEXT_AKTKML102_04745_PATIENT03631_000_406	Espera, ¿no eres...?
+TEXT_AKTKML102_04745_PATIENT03631_000_407	¡Sí, eres tú! ¡La jovencita que me salvó de Vauthry!
+TEXT_AKTKML102_04745_PATIENT03631_000_408	Había comido tanto meol que caí bajo su control, pero tú me curaste. Si no fuera por ti, hoy no estaría vivo.
+TEXT_AKTKML102_04745_RYNE_000_409	¡Oh, yo también me acuerdo de ti! Me alegra ver que estás bien.
+TEXT_AKTKML102_04745_PATIENT03631_000_410	Recién después supe que fue la mismísima Oracle of Light quien me salvó... quien nos salvó a todos. No sabía si alguna vez tendría la oportunidad de expresarte mi gratitud...
+TEXT_AKTKML102_04745_PATIENT03631_000_411	Seguro que para alguien con tu poder no fue nada, pero gracias. Gracias, de todo corazón.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_412	¿Qué es ese "meol"?
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_414	¿Comida hecha con la carne de sin eaters contaminada de Luz, dices?
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_100_414	Ya veo. Cuanto más comían, más se extendía la corrupción de la Luz.
+TEXT_AKTKML102_04745_RYNE_000_415	Así es. Y por eso quedaron expuestos a las órdenes de Vauthry, porque él podía hacer que los sin eaters cumplieran su voluntad.
+TEXT_AKTKML102_04745_RYNE_000_418	Por suerte, pude contener la influencia de la Luz y liberar a todos de su control, y parece que no quedaron secuelas.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_419	Lo dices como si fuera una hazaña pequeña.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_420	Vi incontables almas corrompidas por la Oscuridad. Alguien con el poder de curarlas sería considerado una gran figura... y nunca conocería la paz.
+TEXT_AKTKML102_04745_RYNE_000_421	Mi don fue una carga. Muchos sufrieron por él. Murieron por él.
+TEXT_AKTKML102_04745_RYNE_000_422	Hubo momentos en que deseé no tenerlo. En que quise huir de todos y de todo.
+TEXT_AKTKML102_04745_RYNE_000_423	Pero tuve amigos que me alentaron y me guiaron, que me ayudaron a aprender no solo a aceptar mi don, sino a tomar el control de mi vida. A cambiar mi destino.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_425	Y eso fue lo que hiciste...
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_426	La gente de este mundo sí que es resistente.
+TEXT_AKTKML102_04745_RYNE_000_430	Cuando atendí a la gente después de que Vauthry huyó, no estaba segura de cuánto ayudaría. Es un alivio ver vivos y bien a tantos de los que traté.
+TEXT_AKTKML102_04745_CHAINUZZ_000_435	Gracias otra vez por tu consideración, <split(<string(gstr1)>, ,1)>. Lo demás pueden dejárnoslo a nosotros.
+TEXT_AKTKML102_04745_WRENDEN_000_440	Agradecemos que el Crystarium se preocupe por el bienestar de nuestra gente. Que sigamos fortaleciendo los lazos entre nuestras dos ciudades.
+TEXT_AKTKML102_04745_DULIACHAI_000_445	Aunque fue breve, fue maravilloso verte. Vuelve pronto, ojalá cuando el destino de un mundo no te pese en la cabeza.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_500	Que una medio voidsent como yo haya logrado escapar del Flood of Darkness...
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_501	En todos estos años, nunca me detuve a preguntarme por qué. A preguntarme si tenía un papel más importante que cumplir.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_502	Bueno. Quizás sea hora de tomar las riendas y pensar qué podría hacer por los demás.
+TEXT_AKTKML102_04745_MYSTERIOUSPERSON_000_503	La respuesta está aquí, en el First, y <italic(1)>voy<italic(0)> a encontrarla.

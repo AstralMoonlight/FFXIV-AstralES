@@ -1,0 +1,26 @@
+key	text
+TEXT_AKTKMM101_04751_SEQ_00	Varshahn tiene un mensaje de Sharlayan.
+TEXT_AKTKMM101_04751_SEQ_01	Mientras disfrutas de tu estadía en Radz-at-Han, Varshahn te cuenta que los Students of Baldesion piden que vayas a Sharlayan. Así que partes hacia el Baldesion Annex, donde te espera Ojika Tsunjika.
+TEXT_AKTKMM101_04751_SEQ_02	Te reúnes con Krile y G'raha Tia, que te cuentan que te llamaron en nombre de Erenville. El gleaner volvió de su expedición en el extranjero bastante antes de lo previsto, y el cambio de planes seguramente tiene que ver con una visitante que quiere que conozcas. Mientras esperaba tu llegada, Erenville fue al Studium, y decides ir a buscarlo allí.
+TEXT_AKTKMM101_04751_SEQ_03	Tras una búsqueda breve, encuentras a Erenville y a la visitante, que se presenta como Wuk Lamat, aspirante al trono de Tuliyollal, en el lejano continente occidental de Tural. La extrovertida mujer no pierde tiempo en revelar a qué viene: quiere que la acompañes a su tierra natal y la ayudes a triunfar en el inminente rito de sucesión, una competencia para decidir quién será el próximo gobernante. Como es un pedido bastante repentino para alguien que acaba de conocer, propone ir de cacería <if(gnum4,juntas,juntos)> para conocerse mejor.
+TEXT_AKTKMM101_04751_TODO_00	Habla con Ojika Tsunjika en el Baldesion Annex.
+TEXT_AKTKMM101_04751_TODO_01	Habla con Krile.
+TEXT_AKTKMM101_04751_VARSHAHN_000_001	Ah, <split(<string(gstr1)>, ,1)>. Uno de mis escribanos acaba de estar aquí con un mensaje para usted.
+TEXT_AKTKMM101_04751_VARSHAHN_000_002	Los Students of Baldesion piden que vaya a Sharlayan en cuanto pueda.
+TEXT_AKTKMM101_04751_VARSHAHN_000_003	Como estoy en deuda con nuestros amigos, esperaba poder servirles yo también, pero solo l<if(gnum4,a,o)> necesitan a usted.
+TEXT_AKTKMM101_04751_VARSHAHN_000_004	Si no tiene asuntos urgentes, le ruego que vaya de inmediato al Baldesion Annex. Ojika espera su llegada.
+TEXT_AKTKMM101_04751_VARSHAHN_000_005	Mientras tanto, seguiré mostrándole la ciudad a Azdaja. De los lugares más notables a la vida de la gente, todavía le queda muchísimo por ver.
+TEXT_AKTKMM101_04751_VARSHAHN_000_006	Hasta pronto, amig<if(gnum4,a,o)>. Espero con ansias el día en que partamos juntos a otra aventura.
+TEXT_AKTKMM101_04751_OJIKATSUNJIKA_000_100	¡Una cálida y afectuosa bienvenida, <split(<string(gstr1)>, ,1)>! ¿Supongo que recibió nuestro mensaje?
+TEXT_AKTKMM101_04751_OJIKATSUNJIKA_000_101	Por favor, espere aquí mientras busco a Krile y a G'raha.
+TEXT_AKTKMM101_04751_KRILE_000_102	Gracias por venir con tan poco aviso.
+TEXT_AKTKMM101_04751_KRILE_100_102	Y perdónanos por llamarte tan poco después de tus pruebas en el vacío.
+TEXT_AKTKMM101_04751_KRILE_110_102	Y perdónanos por llamarte tan poco después de tus pruebas en el vacío, por no hablar de tu agotadora batalla contra los Twelve.
+TEXT_AKTKMM101_04751_KRILE_000_103	Bien, en realidad no somos nosotros quienes te necesitan, sino Erenville.
+TEXT_AKTKMM101_04751_KRILE_000_104	Verás, pasó hace poco y nos pidió que te contactáramos de su parte.
+TEXT_AKTKMM101_04751_KRILE_000_105	Imagino que estás tan sorprendid<if(gnum4,a,o)> como nosotros, ya que se suponía que iba a estar fuera en una larga expedición.
+TEXT_AKTKMM101_04751_GRAHATIA_000_106	Algo debe haberlo obligado a cambiar de planes.
+TEXT_AKTKMM101_04751_KRILE_000_108	Lo único que me dijo es que hay alguien a quien quiere que <split(<string(gstr1)>, ,1)> conozca.
+TEXT_AKTKMM101_04751_KRILE_000_109	También mencionó que iba a atender unos asuntos en el Studium. ¿Lo buscamos allá?
+TEXT_AKTKMM101_04751_GRAHATIA_000_115	El regreso temprano de Erenville seguramente tiene que ver con esa visita. ¿Quién podrá ser?
+TEXT_AKTKMM101_04751_KRILE_000_200	Bien, ¿dónde está Erenville?
