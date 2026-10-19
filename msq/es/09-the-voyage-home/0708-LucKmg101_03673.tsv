@@ -1,0 +1,55 @@
+key	text
+TEXT_LUCKMG101_03673_SEQ_00	Tataru parece ansiosa por recuperar el tiempo perdido.
+TEXT_LUCKMG101_03673_SEQ_01	El evidente alivio de Tataru al verte pronto da paso a la charla, y no pierde tiempo en ponerte al tanto de lo que pasó. Parece que los combates en el Ghimlyt Dark cesaron y que no ocurrió nada más de importancia en tu ausencia. Queriendo aprovechar esta relativa calma, te invita a contarle tus aventuras en el First, y eso le recuerda que F'lhaminn también está ansiosa por saber qué fue de Minfilia. Así que te pide que la esperes en la terraza de la House of Splendors.
+TEXT_LUCKMG101_03673_SEQ_02	Tataru y F'lhaminn no se pierden una sola palabra mientras les hablas del First, del sacrificio de Minfilia y de la joven Ryne, que ahora lleva adelante su legado. Pero antes de que puedas continuar llega un invitado inesperado: Riol. Tataru esperaba que trajera noticias de su ayudante tras las líneas enemigas, pero al parecer no recibió ningún tipo de comunicación. Temiendo lo peor, Riol está decidido a colarse él mismo en el Empire con la esperanza de contactarlo por fin. Pero antes de irse se acuerda de decirte que Krile vino a los Rising Stones. Al parecer quiere hablar contigo sobre la situación de tus amigos varados en el First.
+TEXT_LUCKMG101_03673_SEQ_03	Krile entra en el salón principal y te saluda sin el tono alegre al que estás acostumbrad<if(gnum4,a,o)>. Te enteras de que acaba de examinar a los Scions afectados y de confirmar las sospechas que esperaba que resultaran falsas: el frágil vínculo entre sus cuerpos y sus almas se está debilitando. El tiempo apremia, así que te pide que vuelvas al First para informarles a los demás de lo que descubrieron. Mientras tanto, ella consultará a la maestra Matoya sobre una forma de mantener estable su aether corporal el mayor tiempo posible.
+TEXT_LUCKMG101_03673_SEQ_04	A tus compañeros no parece sorprenderlos lo que descubrió Krile, pero no se les escapa la gravedad de la situación. Tras una breve discusión, dan con una solución novedosa: verter sus espíritus en auracite, lo que en teoría te permitiría llevarlos sanos y salvos a través de la grieta de vuelta al Source, como harías con cualquier objeto. Pero para eso hace falta saber cómo preservar y trasladar almas, temas del todo desconocidos para los presentes. Por suerte, quizás el Crystal Exarch conozca a alguien que pueda ayudar.
+TEXT_LUCKMG101_03673_TODO_00	Habla con F'lhaminn en la House of Splendors.
+TEXT_LUCKMG101_03673_TODO_01	Habla con Tataru en los Rising Stones.
+TEXT_LUCKMG101_03673_TODO_02	Habla con el Crystal Exarch en el Ocular.
+TEXT_LUCKMG101_03673_TATARU_000_000	¡<split(<string(gstr1)>, ,1)>! Dioses, qué bueno verte. Espero que estar aquí signifique que ya descansaste lo suficiente.
+TEXT_LUCKMG101_03673_Q1_000_500	¿Qué dices?
+TEXT_LUCKMG101_03673_A1_000_500	¡Más que suficiente!
+TEXT_LUCKMG101_03673_A2_000_500	La verdad, ni una siesta...
+TEXT_LUCKMG101_03673_TATARU_000_100	Bueno, te lo ganaste de sobra.
+TEXT_LUCKMG101_03673_TATARU_000_105	Eres demasiado generos<if(gnum4,a,o)>, ese es tu problema. Pero no le vas a servir a nadie si no descansas de vez en cuando. <italic(1)>En fin<italic(0)>...
+TEXT_LUCKMG101_03673_TATARU_000_001	No pasó gran cosa desde tu última visita. <italic(1)>Pensaba<italic(0)> presentarte a ese ayudante del que te hablé, pero no contesta su linkpearl. Espero que esté bien.
+TEXT_LUCKMG101_03673_TATARU_000_002	Eso sí, estuvimos intercambiando mensajes con la Eorzean Alliance todo este tiempo. Dicen que por fin terminaron los combates en el Ghimlyt Dark y que el Empire no da señales de moverse.
+TEXT_LUCKMG101_03673_TATARU_000_003	Así que quizás tengamos un momento para nosotros, para variar. Ya que volviste, ¿me podrías contar más de tu tiempo en el First?
+TEXT_LUCKMG101_03673_TATARU_000_004	¡Genial! Ah, y si no te molesta, me gustaría pedirle a F'lhaminn que venga con nosotros. Va a querer saber qué le pasó a Minfilia, y creo que es mejor que lo escuche de ti.
+TEXT_LUCKMG101_03673_TATARU_000_005	Te esperamos en la terraza de la House of Splendors.
+TEXT_LUCKMG101_03673_SYSTEM_000_006	Comenzaste "The Voyage Home". Para llegar al final de este capítulo, debes completar las misiones de la Crystal Tower.
+TEXT_LUCKMG101_03673_SYSTEM_000_007	Las misiones de la Crystal Tower pueden hacerse a la par de la historia principal.
+TEXT_LUCKMG101_03673_SYSTEM_000_008	La primera misión, "Legacy of Allag", se recibe hablando con el hombre de aspecto extranjero en Revenant's Toll.
+TEXT_LUCKMG101_03673_SYSTEM_000_009	Puedes revisar tu avance en "Chronicles of a New Era - The Crystal Tower", en el diario.
+TEXT_LUCKMG101_03673_TATARU_000_010	Te esperamos en la House of Splendors. ¡Y quiero que nos cuentes absolutamente todo sobre tu tiempo en el First!
+TEXT_LUCKMG101_03673_FLHAMINN_000_020	<split(<string(gstr1)>, ,1)>. Vaya, cuánto tiempo. Tataru le <italic(1)>dijo<italic(0)> que yo los acompañaría, ¿verdad?
+TEXT_LUCKMG101_03673_FLHAMINN_000_021	Gracias... No hay palabras para expresar cuánto anhelaba saber más del First. De este mundo que Minfilia tanto se sacrificó por salvar.
+TEXT_LUCKMG101_03673_FLHAMINN_000_022	Pero venga, descanse los pies. Tataru debería llegar en cualquier momento.
+TEXT_LUCKMG101_03673_TATARU_000_030	¿Y así Minfilia decidió pasarle sus dones a la siguiente Oracle? ¿Esa muchacha a la que Thancred llamó Ryne?
+TEXT_LUCKMG101_03673_FLHAMINN_000_031	Que le impusieran semejante carga siendo una niña... y aceptarla cuando le dieron a elegir...
+TEXT_LUCKMG101_03673_FLHAMINN_000_032	En eso se parecen mucho. Parece que su legado está en buenas manos.
+TEXT_LUCKMG101_03673_FLHAMINN_000_033	<split(<string(gstr1)>, ,1)>, ¿podría pedirle un favor para la próxima vez que vuelva al First? Que le diga a Ryne lo que yo no puedo.
+TEXT_LUCKMG101_03673_FLHAMINN_100_033	Que le diga... gracias.
+TEXT_LUCKMG101_03673_FLHAMINN_000_034	Y también quisiera darle las gracias a usted. Por quedarse con ella hasta el final.
+TEXT_LUCKMG101_03673_RIOL_000_035	(-???-)Perdón por interrumpir, pero ¿puedo hablar un momento?
+TEXT_LUCKMG101_03673_TATARU_000_036	¡Riol! Espero que vengas a decirme que recibiste noticias de nuestro ayudante.
+TEXT_LUCKMG101_03673_RIOL_000_037	Ojalá. No, no supe ni pío de él. Y ya pasó un buen tiempo. Demasiado, maldita sea.
+TEXT_LUCKMG101_03673_RIOL_000_038	Por eso voy a cruzar la frontera a escondidas, a ver si puedo mandarle una señal desde más cerca.
+TEXT_LUCKMG101_03673_TATARU_000_039	¿¡Pero y si te atrapan!? Tiene que haber otra forma.
+TEXT_LUCKMG101_03673_RIOL_000_040	Bueno, no es que podamos pedirle a Thancred que lo haga. Además, ahora que se calmaron los combates no debería tener problemas para abrirme paso por Ghimlyt. Bien saben los dioses que hay sombras de sobra para esconderse.
+TEXT_LUCKMG101_03673_RIOL_000_041	Y es mejor que quedarme aquí de brazos cruzados. En fin, solo quería avisarles. Ahora, mejor me-
+TEXT_LUCKMG101_03673_RIOL_000_042	¡Ay! ¡Casi me olvido! Krile está en los Stones y quiere hablar con ustedes.
+TEXT_LUCKMG101_03673_RIOL_000_043	Algo sobre los pacientes. Se estaba preparando para volver a examinarlos cuando me fui.
+TEXT_LUCKMG101_03673_TATARU_000_045	Entonces mejor volvamos. Seguro que es importante.
+TEXT_LUCKMG101_03673_FLHAMINN_000_060	No se preocupe por mí. Vaya a ver qué tiene que decir Krile.
+TEXT_LUCKMG101_03673_TATARU_000_070	Parece que todavía los está examinando. Ay, espero que no sea nada malo...
+TEXT_LUCKMG101_03673_TATARU_000_080	Cuídate en el First, <split(<string(gstr1)>, ,1)>. Contamos contigo y con el Crystal Exarch para traer a nuestros amigos de vuelta a casa.
+TEXT_LUCKMG101_03673_KRILE_000_085	No te preocupes. La maestra Matoya y yo vamos a pensar en algo.
+TEXT_LUCKMG101_03673_EPHEMIE_000_090	Tataru nos puso al tanto del estado de los Archons. Quédese tranquil<if(gnum4,a,o)>, haremos todo lo posible por ayudar a la señora Krile con sus cuidados.
+TEXT_LUCKMG101_03673_MYSTERYVOICE_000_100	Ah, <split(<string(gstr1)>, ,1)>, volviste. ¿Espero que tu tiempo en el Source haya sido reparador?
+TEXT_LUCKMG101_03673_MYSTERYVOICE_000_101	...Pero claro que no lo fue. Cuéntame...
+TEXT_LUCKMG101_03673_MYSTERYVOICE_000_102	¿Su aether corporal muestra señales de <italic(1)>inestabilidad<italic(0)>? Por los dioses... Ni siquiera se me había ocurrido esa posibilidad...
+TEXT_LUCKMG101_03673_MYSTERYVOICE_100_102	Si volviste con la esperanza de que mi investigación haya dado con una solución, me temo que te vas a llevar una gran decepción.
+TEXT_LUCKMG101_03673_MYSTERYVOICE_000_103	Por fortuna tenemos a gente como la señora Krile y la maestra Matoya para mantener a salvo los cuerpos de nuestros amigos mientras lidiamos con el problema.
+TEXT_LUCKMG101_03673_MYSTERYVOICE_000_104	Pero no pueden impedir para siempre que el cuerpo y el alma se separen. Vamos, hay que contarles a los demás.
