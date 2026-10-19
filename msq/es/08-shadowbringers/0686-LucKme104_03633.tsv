@@ -1,0 +1,84 @@
+key	text
+TEXT_LUCKME104_03633_SEQ_00	Los ojos de Alphinaud brillan de alegría.
+TEXT_LUCKME104_03633_TODO_00	Habla con Urianger en Bottom Rung.
+TEXT_LUCKME104_03633_TODO_01	Habla con Irvithe.
+TEXT_LUCKME104_03633_TODO_02	Cuenta la madera.
+TEXT_LUCKME104_03633_TODO_03	Habla con Irvithe.
+TEXT_LUCKME104_03633_TODO_04	Habla con Urianger.
+TEXT_LUCKME104_03633_ALPHINAUD_000_000	El Ladder está al noroeste de Wright. Vayamos allá, <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKME104_03633_ALPHINAUD_000_010	El Ladder es una obra de ingeniería robusta, pero muchas cosas pueden fallar tras veinte años sin uso. Seamos doblemente minuciosos con su mantenimiento.
+TEXT_LUCKME104_03633_YSHTOLA_000_015	Bottom Rung, llaman a este lugar: "el peldaño de abajo". Muy apropiado.
+TEXT_LUCKME104_03633_YSHTOLA_000_016	Al parecer, era el centro de control del Ladder y un concurrido punto de transporte. Sus días de gloria quedaron muy atrás.
+TEXT_LUCKME104_03633_CHAINUZZ_000_020	Lo primero es lo primero: una inspección de cincuenta puntos. ¡No vaya a ser que se caigan a pedazos!
+TEXT_LUCKME104_03633_CHAINUZZ_000_025	...¿P-Por qué te quedas ahí mirando con la boca abierta? Hay mucho que hacer, ¡así que ve y hazte útil!
+TEXT_LUCKME104_03633_DULIACHAI_000_030	Ver a mi querido Chai tan absorto en su trabajo... Creo que me estoy volviendo a enamorar. \<suspiro>
+TEXT_LUCKME104_03633_URIANGER_000_040	<split(<string(gstr1)>, ,1)>, ¿veis aquel par de Talos?
+TEXT_LUCKME104_03633_URIANGER_000_041	Por fortuna, se hallaron en buen estado. El Maestro Chai se dispone a activarlos en este mismo momento.
+TEXT_LUCKME104_03633_URIANGER_000_042	Con nuestro saber arcano, Y'shtola y yo le serviremos de asistentes. Llegada la hora, imbuiremos de aether a los gólems.
+TEXT_LUCKME104_03633_URIANGER_000_043	Otros, entretanto, se ocupan del Ladder mismo, que ha estado demasiado tiempo abandonado. Hará falta un mantenimiento extenso antes de que pueda moverse de nuevo, así como incontables materiales con que realizarlo.
+TEXT_LUCKME104_03633_URIANGER_000_044	Si estáis dispuest<if(gnum4,a,o)>, quisiéramos rogaros que consiguierais madera.
+TEXT_LUCKME104_03633_URIANGER_000_045	Mi gratitud, <split(<string(gstr1)>, ,1)>. Justo al sur hallaréis un dique seco: los Venmont Yards. Os ruego que intentéis persuadir a la gente de allí de que ceda algo de madera a nuestra causa.
+TEXT_LUCKME104_03633_URIANGER_000_050	Los Venmont Yards se hallan justo al sur. Os ruego que intentéis persuadir a la gente de allí de que ceda algo de madera a nuestra causa.
+TEXT_LUCKME104_03633_IRVITHE_000_060	¡Eh, <if(gnum4,pecadora,pecador)>! No te había visto por aquí. Recién llegad<if(gnum4,a,o)> a Gatetown, supongo. Si necesitas madera para una choza, viniste al lugar indicado. También podemos construírtela, aunque eso cuesta extra.
+TEXT_LUCKME104_03633_IRVITHE_000_061	...¿Quieres madera para restaurar el Ladder? ¿¡Para qué demonios querría alguien hacer eso!?
+TEXT_LUCKME104_03633_IRVITHE_000_062	¡Si no tienes plata, por lo menos inventa una excusa creíble!
+TEXT_LUCKME104_03633_IRVITHE_000_063	Pero mira, no soy de los que echan a la gente. Te daré tu madera si me haces un favor a cambio.
+TEXT_LUCKME104_03633_IRVITHE_000_064	Acababa de contar nuestras existencias y estaba por hacer otra ronda para asegurarme. Quiero que hagas tú la cuenta, y veremos si tu total coincide con el mío.
+TEXT_LUCKME104_03633_IRVITHE_000_065	Bueno, parte de la madera está tirada por el astillero, pero la mayoría se guarda en el depósito. Para esas, solo pregúntale a Grithil cuántas hay. Toma, te presto algo para escribir, así tomas notas.
+TEXT_LUCKME104_03633_SYSTEM_000_066	Cuenta la madera del astillero. Lo que averigües puede revisarse en tus objetos clave.
+TEXT_LUCKME104_03633_IRVITHE_000_070	Cuando termines de contar la madera, vuelve aquí y veremos si tu total coincide con el mío.
+TEXT_LUCKME104_03633_IRVITHE_000_071	Recuerda: para la que está guardada en el depósito, solo pregúntale a Grithil cuántas hay.
+TEXT_LUCKME104_03633_SYSTEM_000_080	Cuentas once tablones en la pila.
+TEXT_LUCKME104_03633_SYSTEM_000_081	Cuentas veinticuatro tablones en la pila.
+TEXT_LUCKME104_03633_GRITHIL_000_082	¿Eh? ¿Estás contando para Irvithe?
+TEXT_LUCKME104_03633_GRITHIL_000_083	Bueno, la última vez que conté, teníamos sesenta y ocho tablones aquí en el depósito.
+TEXT_LUCKME104_03633_GRITHIL_000_084	Aunque nueve estaban podridos de lado a lado, así que los tiramos.
+TEXT_LUCKME104_03633_CARPENTER03633_000_085	Oye, Grithil, acaba de llegar otra carga.
+TEXT_LUCKME104_03633_CARPENTER03633_000_086	Trece tablones en total, pero uno está dañado. Ahora solo sirve para leña.
+TEXT_LUCKME104_03633_GRITHIL_000_087	Bien, entonces. Trae los buenos aquí, y no te olvides de avisarle a Irvithe también.
+TEXT_LUCKME104_03633_GRITHIL_000_088	Entonces, eh... ¿cuántos tablones son ahora?
+TEXT_LUCKME104_03633_GRITHIL_000_089	Bah, tú estás anotando esos números de todas formas, ¿no? Seguro que puedes sacar la cuenta.
+TEXT_LUCKME104_03633_SYSTEM_000_090	Anotas los detalles de la conversación.
+TEXT_LUCKME104_03633_GRITHIL_000_100	Estás anotando esos números, ¿no? Seguro que puedes sacar la cuenta.
+TEXT_LUCKME104_03633_SYSTEM_000_101	Lo que averiguaste puede revisarse en tus objetos clave.
+TEXT_LUCKME104_03633_IRVITHE_000_110	¿Terminaste? A ver, ¿cuántos tablones contaste?
+TEXT_LUCKME104_03633_Q1_000_000	¿Cuántos tablones hay?
+TEXT_LUCKME104_03633_A1_000_001	11.
+TEXT_LUCKME104_03633_A1_000_002	24.
+TEXT_LUCKME104_03633_A1_000_003	35.
+TEXT_LUCKME104_03633_A1_000_004	71.
+TEXT_LUCKME104_03633_A1_000_005	103.
+TEXT_LUCKME104_03633_A1_000_006	106.
+TEXT_LUCKME104_03633_A1_000_007	126.
+TEXT_LUCKME104_03633_A1_000_008	150.
+TEXT_LUCKME104_03633_A1_000_009	Tengo que volver a revisar.
+TEXT_LUCKME104_03633_IRVITHE_000_111	¿Eh? Me parece muy poco. Creo que deberías volver a mirar tus notas.
+TEXT_LUCKME104_03633_IRVITHE_000_112	Hmmm, me parece que te olvidaste de las pilas que están afuera. ¿Por qué no miras otra vez tus notas?
+TEXT_LUCKME104_03633_IRVITHE_000_113	Uy, casi. Parece que no contaste los tablones que llegaron o que se tiraron. Quizás quieras revisar tus notas otra vez.
+TEXT_LUCKME104_03633_IRVITHE_000_114	¡Sí, eso es justo lo que conté yo!
+TEXT_LUCKME104_03633_IRVITHE_000_115	Gracias por la ayuda, amig<if(gnum4,a,o)>. Contar existencias me da un sueño bárbaro, pero hay que hacerlo. Como te prometí, te daré tu madera. ¿Para qué la necesitas, de todas formas?
+TEXT_LUCKME104_03633_IRVITHE_000_116	¿¡Lo del Ladder iba en serio!? Que me parta un rayo...
+TEXT_LUCKME104_03633_IRVITHE_000_117	Si es así, ¡por favor, déjanos ayudar con el trabajo!
+TEXT_LUCKME104_03633_IRVITHE_000_118	Somos constructores de barcos sin barcos que construir, solo chozas. Nos da para vivir, pero a todos nos pica hacer algo más <italic(1)>grande<italic(0)>.
+TEXT_LUCKME104_03633_IRVITHE_000_119	Ese tipo que dices que está a cargo... ¿crees que le molestaría que gente como nosotros se meta en su proyecto?
+TEXT_LUCKME104_03633_Q2_000_000	¿Qué dices?
+TEXT_LUCKME104_03633_A2_000_001	No le va a molestar.
+TEXT_LUCKME104_03633_A2_000_002	Le encantaría la ayuda.
+TEXT_LUCKME104_03633_IRVITHE_000_120	¡Maravilloso! Juntaré a los muchachos y las muchachas e iremos al Ladder, ¡con toda la madera que necesiten!
+TEXT_LUCKME104_03633_IRVITHE_000_121	Hmmm, para mi cuenta eso es demasiado. ¿Seguro que restaste todos los tablones que no servían?
+TEXT_LUCKME104_03633_IRVITHE_000_122	Epa, no creo que tengamos tantos. Creo que deberías volver a mirar tus notas.
+TEXT_LUCKME104_03633_IRVITHE_000_130	¡Enseguida vamos, y llevaremos toda la madera que necesiten!
+TEXT_LUCKME104_03633_GRITHIL_000_135	¡Je, por fin un trabajo de verdad! ¡Hacía demasiado tiempo!
+TEXT_LUCKME104_03633_ALPHINAUD_000_140	Me alegra decir que el trabajo avanza a buen ritmo. Una vez restaurado, el Ladder no solo será nuestro camino hacia adelante; representará un paso trascendental hacia un cambio duradero para Kholusia.
+TEXT_LUCKME104_03633_ALISAIE_000_145	Junté todo el material que pude para el trabajo. Es mi granito de arena para la causa.
+TEXT_LUCKME104_03633_THANCRED_000_150	Los de Eulmore se organizaron de forma impresionante. En medio de una gran adversidad, tener un propósito nunca viene mal.
+TEXT_LUCKME104_03633_RYNE_000_155	Ah, <split(<string(gstr1)>, ,1)>. Supe que fue a buscar madera.
+TEXT_LUCKME104_03633_RYNE_000_156	De lejos, el Ladder parecía hecho todo de metal, pero en realidad tiene mucha madera si uno se fija.
+TEXT_LUCKME104_03633_YSHTOLA_000_160	Por la intensidad con que trabaja, se diría que toda esa reticencia era mentira.
+TEXT_LUCKME104_03633_CHAINUZZ_000_165	¡Hmph, qué diseño tan primitivo e ineficiente! ¡Un Talos mucho más pequeño de nuestra empresa podría hacer la misma tarea igual de bien!
+TEXT_LUCKME104_03633_DULIACHAI_000_170	¡Ay, enseguida los va a poner en marcha! ¡Lo sé!
+TEXT_LUCKME104_03633_URIANGER_000_180	Ah, habéis vuelto. ¿Pudisteis conseguir la madera?
+TEXT_LUCKME104_03633_URIANGER_000_181	Vaya, vaya: asegurar no solo el material, sino además la entusiasta cooperación de los constructores de barcos. Su pericia será de gran provecho para nuestros esfuerzos.
+TEXT_LUCKME104_03633_URIANGER_000_182	Los esfuerzos del Maestro Chai no han estado exentos de dificultades, pero ha demostrado ser un alma decidida. No dudo de que la obra estará terminada antes de mucho, y podremos proseguir nuestro camino una vez más.
+TEXT_LUCKME104_03633_URIANGER_000_183	Aunque ha llevado años, por fin la gente se une para desafiar el destino del mundo, y sus esperanzas nos impulsan cada vez más hacia el final del viaje.
+TEXT_LUCKME104_03633_URIANGER_000_184	Sea lo que fuere que nos aguarde, cuando deis esos últimos pasos, ruego que sea con una sonrisa en el rostro.

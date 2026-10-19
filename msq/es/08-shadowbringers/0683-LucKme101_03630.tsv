@@ -1,0 +1,60 @@
+key	text
+TEXT_LUCKME101_03630_SEQ_00	Por cómo se le ilumina la cara al verte, el administrador de las suites te estaba esperando.
+TEXT_LUCKME101_03630_SEQ_01	Con su alegría de siempre, el administrador de las suites te informa que el Crystal Exarch pidió que te presentes en el Ocular.
+TEXT_LUCKME101_03630_SEQ_02	Ya en tu lugar junto a tus compañeros en el Ocular, discuten la misión de encontrar y vencer al Lightwarden de Kholusia. Pero, justo cuando se permiten un momento para imaginar la victoria, Emet-Selch arruina el ánimo al declarar que hacer retroceder la Luz no servirá para salvar el mundo. Ampliando su lección de historia anterior, les cuenta que, mientras Zodiark y Hydaelyn luchaban, ella asestó un golpe devastador que partió no solo a su enemigo, sino a toda la creación, en catorce fragmentos. Fue entonces, al contemplar los restos destrozados de su hogar, cuando los Ascians resolvieron volver a unir los mundos. Aunque el relato de Emet-Selch solo sirve para subrayar lo distintos que son sus objetivos, no te queda más remedio que concentrarte en la misión. Según los informes, las fuerzas de Eulmore se están atrincherando dentro de la ciudad, lo que sugiere que el Lightwarden probablemente se esconde allí. Así, tú y tus compañeros parten hacia Kholusia, tras acordar reunirse en el pueblo de Wright.
+TEXT_LUCKME101_03630_SEQ_03	Al reunirte con Alphinaud y Ryne en Wright, te enteras de que los demás se adelantaron para hacer un reconocimiento. Cuando llega el momento de que tu grupo los siga, Alphinaud te pide que despejes el camino de miradas indiscretas.
+TEXT_LUCKME101_03630_SEQ_04	Camino a Gatetown, te cruzas con civiles que se comportan de forma extraña, como en trance, y algunos se muestran hostiles. Aunque su conducta inquieta, por ahora el camino está despejado, y sigues hacia el asentamiento según lo planeado.
+TEXT_LUCKME101_03630_SEQ_05	Al llegar a Gatetown, la encuentras presa de un fenómeno extraño. Parece que los aldeanos que encontraste en el camino no eran ni de lejos los únicos afectados...
+TEXT_LUCKME101_03630_TODO_00	Ve al Ocular.
+TEXT_LUCKME101_03630_TODO_01	Habla con Alphinaud en Wright.
+TEXT_LUCKME101_03630_TODO_02	Habla con la gente en el camino a Gatetown.
+TEXT_LUCKME101_03630_TODO_03	Habla con Thancred.
+TEXT_LUCKME101_03630_GUIDEOFTHEPENDANTS_000_000	Ah, <if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,2)>. Confío en que haya descansado bien.
+TEXT_LUCKME101_03630_GUIDEOFTHEPENDANTS_000_001	Mientras estaba recluid<if(gnum4,a,o)> en su habitación, llegó un mensaje del Exarch para usted. Le pide que vaya al Ocular en cuanto le sea posible.
+TEXT_LUCKME101_03630_GUIDEOFTHEPENDANTS_000_002	...¿Y, <if(gnum4,señora,señor)>? Adondequiera que l<if(gnum4,a,o)> lleve su deber, rezaré por su regreso sano y salvo. Que la noche l<if(gnum4,a,o)> proteja.
+TEXT_LUCKME101_03630_MYSTERYVOICE_000_010	¿Tu estado no cambió? Bien. Si logras resistir hasta el final de la batalla que se avecina, confío en que encontraremos un remedio para tu mal.
+TEXT_LUCKME101_03630_LYNA_000_015	Hace tiempo que no hablamos, ¿no? No desde lo que siguió al ataque de los eaters.
+TEXT_LUCKME101_03630_LYNA_000_016	Le aseguro que estoy completamente recuperada, y haré todo lo posible por apoyarlos a usted y a sus compañeros Warriors of Darkness.
+TEXT_LUCKME101_03630_EMETSELCH_000_020	¿Sí? ¿Mi lección te hizo pensar y te despertó más preguntas?
+TEXT_LUCKME101_03630_Q1_000_000	¿Qué dices?
+TEXT_LUCKME101_03630_A1_000_001	Tres de ustedes escaparon a la división. Pero ¿y los que no...?
+TEXT_LUCKME101_03630_A1_000_002	Creo que ya hablamos suficiente.
+TEXT_LUCKME101_03630_EMETSELCH_000_021	Pues su mismo ser quedó dividido en catorce, por supuesto. Pero con nuestro poder, los Ascians no divididos podemos elevar a uno de sus fragmentos a su cargo original.
+TEXT_LUCKME101_03630_EMETSELCH_000_022	Ah, pero supongo que eso mismo merece una explicación. Verás... los nombres por los que nos conocen no son, en realidad, nuestros nombres.
+TEXT_LUCKME101_03630_EMETSELCH_000_023	Ya sea Elidibus, Lahabrea o Igeyorhm, todos son títulos de un cargo. Y cuando un cargo queda vacante, otro puede ocuparlo.
+TEXT_LUCKME101_03630_EMETSELCH_000_024	A lo largo de los eones, supervisé varios relevos entre nuestros hermanos divididos.
+TEXT_LUCKME101_03630_EMETSELCH_000_025	Y en esos casos, el título vacante suele ir a otro fragmento de esa misma alma.
+TEXT_LUCKME101_03630_EMETSELCH_000_026	Si bien no es imposible elevar a individuos sin ninguna relación, somos nosotros, cuyas fervientes súplicas invocaron a Lord Zodiark - cuyas almas Él reclamó en el principio -, quienes hacemos de siervos más fieles.
+TEXT_LUCKME101_03630_Q2_000_000	¿Qué dices?
+TEXT_LUCKME101_03630_A2_000_001	Entonces, si derrotáramos a todos los Ascians del Source...
+TEXT_LUCKME101_03630_A2_000_002	¿Y cuál es tu <italic(1)>verdadero<italic(0)> nombre?
+TEXT_LUCKME101_03630_EMETSELCH_000_027	Entonces no quedaría nadie para elevar a nuevos Ascians, y nuestra especie acabaría por desaparecer. Te gustaría, ¿no? Bueno, sueña todo lo que quieras: soñar no es delito.
+TEXT_LUCKME101_03630_EMETSELCH_000_028	¡Hm! Quizás llegue el día en que te revele mi verdadero nombre, pero no es hoy. Claro que bien podrías morir sin saberlo, pero la vida está llena de esas desilusiones.
+TEXT_LUCKME101_03630_EMETSELCH_000_029	Si eso es todo, vete. Tienes un Lightwarden que matar.
+TEXT_LUCKME101_03630_RYNE_000_035	Esta aura... ¿Qué podrá ser?
+TEXT_LUCKME101_03630_ALPHINAUD_000_040	Ahí está, <split(<string(gstr1)>, ,1)>. Los demás se adelantaron para hacer un reconocimiento de Gatetown. Nosotros los seguiremos en breve.
+TEXT_LUCKME101_03630_ALPHINAUD_000_041	Pasó un tiempo, ¿no le parece? Desde que nosotros dos nos infiltramos en Eulmore.
+TEXT_LUCKME101_03630_ALPHINAUD_000_042	...Desde que nos enfrentamos a Lord Vauthry y sentí una furia como nunca antes había sentido.
+TEXT_LUCKME101_03630_ALPHINAUD_000_043	Sus actos son inadmisibles, claro, y todo el aborrecimiento que sentí por él estaba más que justificado. Pero mezclado con mi ira había... algo más. Al principio no sabía qué era, pero en el curso de nuestras luchas encontré la respuesta.
+TEXT_LUCKME101_03630_ALPHINAUD_000_044	En la soberbia de Vauthry - en su fe absoluta en que él, y solo él, es la cura de los males del mundo - vi un reflejo de mí mismo. Y eso me trajo de golpe el recuerdo de todas mis locuras pasadas.
+TEXT_LUCKME101_03630_ALPHINAUD_000_045	Él es el necio vanidoso e ignorante que yo fui alguna vez. Y como compartí su mal, me siento en el deber de abrirle los ojos a la verdad.
+TEXT_LUCKME101_03630_ALPHINAUD_000_046	Si la aceptará con la misma dignidad que yo, eso es otra cuestión...
+TEXT_LUCKME101_03630_ALPHINAUD_000_047	¿Qué pasa, Ryne? ¿Sientes al Lightwarden?
+TEXT_LUCKME101_03630_RYNE_000_048	N-No estoy segura. El aura es... distinta.
+TEXT_LUCKME101_03630_RYNE_000_049	Quizás si estuviéramos un poco más cerca...
+TEXT_LUCKME101_03630_ALPHINAUD_000_050	De todas formas, ya es hora de ponernos en marcha. Reunámonos con nuestros compañeros en Gatetown.
+TEXT_LUCKME101_03630_ALPHINAUD_000_051	<split(<string(gstr1)>, ,1)>, por precaución, ¿podría ir adelante para asegurarse de que el camino esté despejado?
+TEXT_LUCKME101_03630_ALPHINAUD_000_052	Cuanto más cerca estamos de Eulmore, más me preocupa que reconozcan a Ryne. Si ve miradas indiscretas en el camino, le ruego que convenza a sus dueños de mirar hacia otro lado.
+TEXT_LUCKME101_03630_ALPHINAUD_000_060	Adelante, <split(<string(gstr1)>, ,1)>. L<if(gnum4,a,o)> seguiremos enseguida.
+TEXT_LUCKME101_03630_RYNE_000_065	Así como estoy ahora, no creo que la gente me reconozca como la Oracle, pero Thancred siempre advertía que no había que correr riesgos innecesarios.
+TEXT_LUCKME101_03630_SUSPICIOUSA03630_000_070	Mmmgh... Vauth... mmmgh...
+TEXT_LUCKME101_03630_SYSTEM_000_071	Llamas al civil, pero no responde y sigue con su balbuceo incoherente.
+TEXT_LUCKME101_03630_SUSPICIOUSA03630_000_072	Mmmgh... Vauth... mmmgh...
+TEXT_LUCKME101_03630_SUSPICIOUSB03630_000_073	Lord Vauthry... Oímos... obedecemos... ¡Aaahhh!
+TEXT_LUCKME101_03630_SUSPICIOUSC03630_000_074	Larga vida... a Lord Vauthry... Larga vida... a Lord Vauthry...
+TEXT_LUCKME101_03630_SUSPICIOUSC03630_000_075	Larga vida... vida... vida...
+TEXT_LUCKME101_03630_URIANGER_000_080	Nuestra misión ha comenzado de manera extraña...
+TEXT_LUCKME101_03630_RESIDENT03630_000_085	¿Q-Qué está pasando? ¿¡Qué les pasa a todos!?
+TEXT_LUCKME101_03630_THANCRED_000_090	Ah. Qué bueno que viniste. Estaba pensando si avisarte, pero ya es tarde.
+TEXT_LUCKME101_03630_THANCRED_000_091	¿Supongo que notaste a la gente comportándose de forma extraña en el camino? Aquí pasa lo mismo.
+TEXT_LUCKME101_03630_THANCRED_000_092	Y'shtola y Alisaie están investigando en este momento. Esperemos a ver qué tienen que decir.

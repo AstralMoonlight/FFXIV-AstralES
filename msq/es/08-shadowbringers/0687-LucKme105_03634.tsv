@@ -1,0 +1,75 @@
+key	text
+TEXT_LUCKME105_03634_SEQ_00	Urianger tiene una expresión pensativa.
+TEXT_LUCKME105_03634_SEQ_01	En vista de las pruebas que se avecinan, Urianger te pide que descanses mientras los demás trabajan en el Ladder.
+TEXT_LUCKME105_03634_SEQ_02	Mientras observas las últimas etapas de la restauración del Ladder, Emet-Selch llega sin anunciarse. Entre nostalgias, plantea la posibilidad de que te unas a él como su igual: una existencia completa en un mundo completo. En cuanto el Ascian se retira, Ardbert aparece en su lugar. Mientras los Talos cobran vida entre vítores, te habla de su lucha contra la soledad y te advierte que no tomes una decisión que te deje sol<if(gnum4,a,o)>. En ese momento, Alphinaud y Alisaie corren hacia ti entusiasmados. El Ladder vuelve a funcionar, y acompañas a los gemelos como las primeras almas en subir al elevador en veinte años.
+TEXT_LUCKME105_03634_SEQ_03	Mientras esperas a los demás en Top Rung, Alisaie te llama desde el mirador cercano, y tú y Alphinaud se apuran a reunirse con ella.
+TEXT_LUCKME105_03634_SEQ_04	Según Alisaie, vio salir a alguien del pueblo al noreste, aunque se cree que la zona está abandonada. Para que no dudes de sus palabras, te insta a que lo veas con tus propios ojos.
+TEXT_LUCKME105_03634_SEQ_05	Recorriendo con la vista los alrededores del pueblo, divisas a la persona misteriosa, que parecía estar espiándolos. Incómoda por no saber quién anda por ahí, Alisaie sugiere investigar el pueblo.
+TEXT_LUCKME105_03634_SEQ_06	Aunque el pueblo parece vacío, hay indicios de que está bien habitado, y le llevas lo que encontraste a Alphinaud.
+TEXT_LUCKME105_03634_SEQ_07	Mientras piensan qué hacer con los aldeanos escondidos, una voz los llama. Resulta ser nada menos que Tristol, el joven artista al que le salvaste la vida en Kholusia. Les cuenta que el pueblo, Amity, es un asentamiento de quienes sobrevivieron al destierro de Eulmore y, al saber que persiguen a Vauthry, promete ayudarlos en su misión.
+TEXT_LUCKME105_03634_TODO_00	Espera a que terminen el trabajo.
+TEXT_LUCKME105_03634_TODO_01	Habla con Alphinaud.
+TEXT_LUCKME105_03634_TODO_02	Habla con Alisaie.
+TEXT_LUCKME105_03634_TODO_03	Busca a la persona misteriosa en los alrededores.
+TEXT_LUCKME105_03634_TODO_04	Investiga el pueblo.
+TEXT_LUCKME105_03634_TODO_05	Habla con Alphinaud.
+TEXT_LUCKME105_03634_ALPHINAUD_000_000	Me alegra decir que el trabajo avanza a buen ritmo. Una vez restaurado, el Ladder no solo será nuestro camino hacia adelante; representará un paso trascendental hacia un cambio duradero para Kholusia.
+TEXT_LUCKME105_03634_ALISAIE_000_005	Junté todo el material que pude para el trabajo. Es mi granito de arena para la causa.
+TEXT_LUCKME105_03634_THANCRED_000_010	Los de Eulmore se organizaron de forma impresionante. En medio de una gran adversidad, tener un propósito nunca viene mal.
+TEXT_LUCKME105_03634_RYNE_000_015	Ah, <split(<string(gstr1)>, ,1)>. Supe que fue a buscar madera.
+TEXT_LUCKME105_03634_RYNE_000_016	De lejos, el Ladder parecía hecho todo de metal, pero en realidad tiene mucha madera si uno se fija.
+TEXT_LUCKME105_03634_YSHTOLA_000_020	Por la intensidad con que trabaja, se diría que toda esa reticencia era mentira.
+TEXT_LUCKME105_03634_CHAINUZZ_000_025	¡Hmph, qué diseño tan primitivo e ineficiente! ¡Un Talos mucho más pequeño de nuestra empresa podría hacer la misma tarea igual de bien!
+TEXT_LUCKME105_03634_DULIACHAI_000_030	¡Ay, enseguida los va a poner en marcha! ¡Lo sé!
+TEXT_LUCKME105_03634_URIANGER_000_040	Ah, pero me entrego antes de tiempo a cavilaciones sentimentales. Muchos asuntos más apremiantes reclaman nuestra atención, y no el menor de ellos es cómo alcanzar la montaña, separada como está de la tierra.
+TEXT_LUCKME105_03634_URIANGER_000_041	Por ahora, parece que aquí tenemos las cosas bien encaminadas. ¿Quizás deberíais descansar un tiempo? Necesitaréis hasta la última onza de vuestras fuerzas para las pruebas que os aguardan.
+TEXT_LUCKME105_03634_URIANGER_000_050	Vuestro celo es encomiable, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>, pero tened por cierto que no nos faltarán manos. Os ruego que descanséis para prepararos ante las pruebas que vendrán.
+TEXT_LUCKME105_03634_ALISAIE_000_060	¿Eso es...?
+TEXT_LUCKME105_03634_EULMOREMAN03634_000_065	Si buscas a tus amigos, estaban por subir al elevador cuando llegó no sé quién.
+TEXT_LUCKME105_03634_EULMOREMAN03634_000_066	Dijeron que no te preocuparas, que enseguida vienen.
+TEXT_LUCKME105_03634_ALPHINAUD_000_070	Y aquí estamos por fin, en Top Rung.
+TEXT_LUCKME105_03634_ALPHINAUD_000_071	Los demás deberían llegar pronto-
+TEXT_LUCKME105_03634_ALISAIE_000_072	(-Alisaie-)¡Alphinaud, <split(<string(gstr1)>, ,1)>! ¡Suban aquí! ¡Hay algo que tienen que ver!
+TEXT_LUCKME105_03634_ALPHINAUD_000_073	¿De qué se tratará?
+TEXT_LUCKME105_03634_ALPHINAUD_000_080	Eso parece un pueblo...
+TEXT_LUCKME105_03634_ALISAIE_000_090	Hay un pueblo, <split(<string(gstr1)>, ,1)>. Allá, al noreste.
+TEXT_LUCKME105_03634_ALPHINAUD_000_091	Así es. Pero tras dos décadas sin que funcione el Ladder, no me sorprendería que un asentamiento tan aislado estuviera abandonado desde hace mucho.
+TEXT_LUCKME105_03634_ALISAIE_000_092	A mí tampoco. Pero eso fue antes de que viera a alguien salir de allí y venir en nuestra dirección, todo el tiempo tratando de que no lo vieran...
+TEXT_LUCKME105_03634_ALISAIE_000_093	Sea quien sea esa persona misteriosa, todavía debería estar por ahí. Vamos, eche un vistazo, <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKME105_03634_ALPHINAUD_000_100	Mientras tengan los recursos para mantenerse, es perfectamente posible que todavía haya gente por aquí...
+TEXT_LUCKME105_03634_ALISAIE_000_105	Vamos, eche un vistazo, <split(<string(gstr1)>, ,1)>. La persona misteriosa todavía debería estar por ahí.
+TEXT_LUCKME105_03634_SYSTEM_000_110	Busca a la persona misteriosa en los alrededores. Puedes mover la cámara y acercarla o alejarla. Selecciona la figura e inspecciónala con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)> / <icon2(8)>)>.
+TEXT_LUCKME105_03634_ALISAIE_000_111	Hay alguien, ¿verdad? Y nos estaba espiando. A mí no me gusta no saber quién es. ¿Qué le parece si investigamos?
+TEXT_LUCKME105_03634_ALPHINAUD_000_112	Debo admitir que a mí también me da curiosidad. Y me atrevo a decir que tenemos un poco de tiempo antes de que suban los demás.
+TEXT_LUCKME105_03634_ALISAIE_000_113	Entonces está decidido. Vayamos al pueblo a ver si de verdad está habitado.
+TEXT_LUCKME105_03634_ALPHINAUD_000_120	Los cajones y barriles están llenos de algo.
+TEXT_LUCKME105_03634_ALISAIE_000_125	Juraría que oí un ruido...
+TEXT_LUCKME105_03634_SYSTEM_000_130	Oyes ruidos débiles dentro del edificio. Pero la puerta no cede.
+TEXT_LUCKME105_03634_SYSTEM_000_131	Hay comida colgada al sol para secarse, y por lo que ves, desde hace muy poco.
+TEXT_LUCKME105_03634_SYSTEM_000_132	Las copas están medio vacías... o medio llenas, según cómo se mire. Detrás del mostrador, una olla hierve sin parar sobre la estufa.
+TEXT_LUCKME105_03634_ALPHINAUD_000_140	¿Qué novedades hay, <split(<string(gstr1)>, ,1)>? ¿Pudo encontrar algo interesante?
+TEXT_LUCKME105_03634_Q1_000_000	¿Qué dices?
+TEXT_LUCKME105_03634_A1_000_001	Sin duda todavía vive gente aquí.
+TEXT_LUCKME105_03634_A1_000_002	No pude encontrar a nuestra persona misteriosa.
+TEXT_LUCKME105_03634_A1_000_003	Quizás este lugar de verdad esté abandonado.
+TEXT_LUCKME105_03634_ALPHINAUD_000_141	En efecto. Aunque no se ve a nadie, es evidente que este pueblo está lejos de estar abandonado.
+TEXT_LUCKME105_03634_ALPHINAUD_000_142	Yo tampoco. Pero aunque no se ve a nadie, es evidente que este pueblo está lejos de estar abandonado.
+TEXT_LUCKME105_03634_ALPHINAUD_000_143	No lo creo, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>. Aunque no se ve a nadie, es evidente que este pueblo está lejos de estar abandonado.
+TEXT_LUCKME105_03634_ALISAIE_000_144	Si los aldeanos intentan esconderse, lo hacen bastante mal. Pero si no quieren que los vean, ¿qué hacemos?
+TEXT_LUCKME105_03634_TRISTOL_000_145	(-???-)Disculpen, ¿no son ustedes los que me salvaron la vida?
+TEXT_LUCKME105_03634_ALPHINAUD_000_146	¡Usted es Tristol, el artista de Eulmore!
+TEXT_LUCKME105_03634_TRISTOL_000_147	¡Me recuerdan! Desde que nos separamos, estuve preocupado por ustedes, que iban rumbo a la ciudad. ¡Jamás imaginé que volveríamos a encontrarnos, y menos aquí!
+TEXT_LUCKME105_03634_ALPHINAUD_000_148	Nosotros podríamos decir exactamente lo mismo, amigo mío. Me alegra verlo sano y entero. Pero dígame, ¿qué pueblo es este?
+TEXT_LUCKME105_03634_TRISTOL_000_149	Esto es Amity, un asentamiento formado por quienes sobrevivieron al destierro de Eulmore.
+TEXT_LUCKME105_03634_TRISTOL_000_150	Mientras vagaba por las tierras salvajes, me crucé por casualidad con un habitante de esta zona.
+TEXT_LUCKME105_03634_TRISTOL_000_151	Me llevó por un túnel secreto que conducía a lo alto del Bright Cliff. Estoy aquí desde entonces. La vida es dura, pero conocemos algo parecido a la paz.
+TEXT_LUCKME105_03634_TRISTOL_000_152	Bueno, la <italic(1)>conocíamos<italic(0)>, por lo menos, hasta que el Mt. Gulg se separó de la tierra. Y de repente el Ladder empezó a moverse otra vez...
+TEXT_LUCKME105_03634_ALISAIE_000_153	Y temió que quien subiera fuera una amenaza para sus vidas.
+TEXT_LUCKME105_03634_TRISTOL_000_154	Así es... Pero ahora veo que no hay motivo de preocupación. ¿Me dirán qué los trajo aquí?
+TEXT_LUCKME105_03634_TRISTOL_000_155	Así que Vauthry es un sin eater, y huyó al Mt. Gulg...
+TEXT_LUCKME105_03634_TRISTOL_000_156	Es un relato extraño, pero no tengo motivos para dudar de sus palabras.
+TEXT_LUCKME105_03634_TRISTOL_000_157	Les debo la vida. Si hay algo que pueda hacer para ayudar, no tienen más que decirlo.
+TEXT_LUCKME105_03634_ALPHINAUD_000_158	Su ayuda será muy bienvenida, Tristol. Para empezar, quisiéramos pedirle permiso a su gente para hacer un reconocimiento de la zona.
+TEXT_LUCKME105_03634_ALPHINAUD_000_159	Si vamos a enfrentar a Vauthry, debemos encontrar una forma de llegar al Mt. Gulg.
+TEXT_LUCKME105_03634_TRISTOL_000_160	Por supuesto; no necesitan nuestro permiso para estar aquí. Les hablaré de ustedes a los demás.
+TEXT_LUCKME105_03634_TRISTOL_000_161	No tenemos mucho que ofrecer en cuanto a hospitalidad, pero nuestro pueblo está a su disposición. Úsenlo como mejor les parezca en su misión.

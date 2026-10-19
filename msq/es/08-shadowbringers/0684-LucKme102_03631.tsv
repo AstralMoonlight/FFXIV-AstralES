@@ -1,0 +1,72 @@
+key	text
+TEXT_LUCKME102_03631_SEQ_00	Urianger intenta entender el extraño fenómeno que aqueja a los habitantes de Gatetown.
+TEXT_LUCKME102_03631_SEQ_01	Todo indica que los habitantes de Gatetown están bajo el control mental de Vauthry, y mientras Urianger intenta descifrar cómo funciona, llega Alisaie con tu viejo amigo Kai-Shirr. Según su relato, los que llevaban más tiempo viviendo en Gatetown fueron los primeros afectados. Las piezas encajan cuando Y'shtola vuelve blandiendo un pan de meol. Con espanto e incredulidad, Ryne reconoce de inmediato lo que es en realidad el alimento básico de Eulmore: carne de sin eater, cuyo consumo al parecer vuelve a uno vulnerable a la influencia de Vauthry. La repugnante revelación deja a todos horrorizados, pero los horrores no terminan allí... Recordando las palabras que oyeron en su primera visita a Eulmore, Alphinaud comparte su sospecha de que a los ciudadanos que ya no son útiles los están convirtiendo deliberadamente en sin eaters. Conteniendo las náuseas, intentas apartar esas ideas de tu mente y concentrarte en la tarea: dar caza al Lightwarden. Es casi seguro que se esconde en los niveles superiores de Eulmore, y se decide que tú encabezarás el asalto a la ciudad.
+TEXT_LUCKME102_03631_SEQ_02	Junto a tus compañeros, te lanzas al ataque de Eulmore.
+TEXT_LUCKME102_03631_SEQ_03	Mientras los demás contienen a los siervos de Vauthry, sigues hasta el Canopy, donde te enfrenta Ran'jit, solo. Movido por una determinación muy suya, el viejo soldado descarga contra ti todo su poder, pero sales victorios<if(gnum4,a,o)> por muy poco y lo abates de una vez por todas. Ya junto a tus compañeros, subes al Emergent y encuentras a Vauthry cenando en su cámara. Allí, Ryne por fin se da cuenta de que <italic(1)>él<italic(0)> es el Lightwarden, una mezcla impía de hombre y sin eater. Pero antes de que puedan actuar, a Vauthry le brotan alas y se eleva por los cielos. Al correr al balcón, se encuentran con una visión imposible: la cima del Mt. Gulg, arrancada de la tierra y flotando en el cielo. Parece que allí huyó Vauthry. Con tu presa fuera de alcance, decides suspender la cacería para ayudar a las víctimas de la batalla.
+TEXT_LUCKME102_03631_SEQ_04	Para tu alivio, Thancred te informa que Ryne puede contrarrestar los efectos del control mental de Vauthry, y está ocupada atendiendo a los afectados uno por uno. Sin embargo, hay incontables heridos que necesitan atención, y te piden que ayudes con el socorro.
+TEXT_LUCKME102_03631_TODO_00	Habla con Alphinaud.
+TEXT_LUCKME102_03631_TODO_01	Habla con Alphinaud.
+TEXT_LUCKME102_03631_TODO_02	Habla con Thancred.
+TEXT_LUCKME102_03631_THANCRED_000_000	Es evidente que a Urianger le está trabajando la cabeza. ¿Por qué no le preguntas qué piensa de todo esto?
+TEXT_LUCKME102_03631_RESIDENT03630_000_005	¿Q-Qué está pasando? ¿¡Qué les pasa a todos!?
+TEXT_LUCKME102_03631_ALISAIE_000_010	Estoy bien, <split(<string(gstr1)>, ,1)>. Temblando de furia, pero bien. Vamos.
+TEXT_LUCKME102_03631_THANCRED_000_015	Es probable que volvamos a encontrarnos con Ran'jit. Solo queda esperar que siga lamiéndose las heridas.
+TEXT_LUCKME102_03631_THANCRED_000_016	Pero incluso sin él, Eulmore es una ciudad muy fácil de defender, como seguro notaste en tu visita.
+TEXT_LUCKME102_03631_THANCRED_000_017	La última vez que pisé el interior de sus murallas, casi la confundo con nuestra querida Limsa, pero está <italic(1)>llena<italic(0)> de sorpresas desagradables. Todo eso es una forma larga de decir: mantente alerta.
+TEXT_LUCKME102_03631_RYNE_000_020	En el nivel más alto de la ciudad están las cámaras de Vauthry. Debe de tener al Warden cerca.
+TEXT_LUCKME102_03631_URIANGER_000_025	Me oprime el corazón un presentimiento del que no logro librarme. Avancemos con todo cuidado.
+TEXT_LUCKME102_03631_YSHTOLA_000_030	Que Vauthry ejerza su influencia sobre la gente con tanto descaro revela su desesperación. No se va a rendir sin pelear.
+TEXT_LUCKME102_03631_KAISHIRR_000_035	¿El meol... es sin eater? Maldita luz, todos nos lo tragábamos sin pensarlo dos veces...
+TEXT_LUCKME102_03631_KAISHIRR_000_036	A mí nunca me tocó tanto como a los demás, pero... puaj...
+TEXT_LUCKME102_03631_KAISHIRR_000_037	Je... Las hierbas amargas y los pescados llenos de espinas con que me las arreglaba ya no parecen tan malos...
+TEXT_LUCKME102_03631_ALPHINAUD_000_040	Cuando crucemos las puertas, no encontraremos el lugar de placeres hedonistas que recordamos, sino un campo de batalla.
+TEXT_LUCKME102_03631_ALPHINAUD_000_041	Si está preparad<if(gnum4,a,o)> para esto, ¡entonces adelante!
+TEXT_LUCKME102_03631_ALPHINAUD_000_050	¡¿Está bien, <split(<string(gstr1)>, ,1)>?!
+TEXT_LUCKME102_03631_THANCRED_000_051	Parece que los ciudadanos se calmaron por el momento. Solo puedo suponer que Vauthry está ocupado en otra cosa. Subamos al nivel superior mientras podamos.
+TEXT_LUCKME102_03631_ALPHINAUD_000_060	Gracias otra vez, <split(<string(gstr1)>, ,1)>. Buscaremos a los heridos y les daremos la ayuda que podamos.
+TEXT_LUCKME102_03631_ALISAIE_000_065	Algunos lograron librarse del control mental, solo para quedar atrapados en el caos. Nos aseguraremos de que también reciban atención.
+TEXT_LUCKME102_03631_RYNE_000_070	Tranquilo. Ya está a salvo.
+TEXT_LUCKME102_03631_PATIENT03631_000_075	\<gemido> ¿Qué... qué pasó?
+TEXT_LUCKME102_03631_URIANGER_000_080	Privados de mando, los soldados han perdido la voluntad de luchar. No suponen amenaza alguna para nosotros.
+TEXT_LUCKME102_03631_YSHTOLA_000_085	Así vivían los ciudadanos: el sueño de Eulmore. Les espera un despertar bastante brusco.
+TEXT_LUCKME102_03631_THANCRED_000_090	Buenas noticias, <split(<string(gstr1)>, ,1)>. Parece que Ryne de verdad puede revertir los efectos de la influencia de Vauthry.
+TEXT_LUCKME102_03631_THANCRED_000_091	En este mismo momento está atendiendo a los afectados uno por uno. El problema es que no se terminan nunca.
+TEXT_LUCKME102_03631_THANCRED_000_092	Intentamos dar el socorro que podemos a los que están esperando, y te agradeceríamos tu ayuda, si estás dispuest<if(gnum4,a,o)>.
+TEXT_LUCKME102_03631_SYSTEM_000_093	¡Ahora puedes sintonizar con el aetheryte de Eulmore!
+TEXT_LUCKME102_03631_QIB_001_TODO_1	¡Reduce a los civiles!
+TEXT_LUCKME102_03631_QIB_001_TODO_5	¡Reduce a los soldados!
+TEXT_LUCKME102_03631_QIB_001_TODO_2	¡Derrota a los bufones!
+TEXT_LUCKME102_03631_QIB_001_TODO_3	¡Sube al siguiente nivel!
+TEXT_LUCKME102_03631_QIB_001_TODO_4	¡Derrota a Ran'jit!
+TEXT_LUCKME102_03631_QIB_001_SCREENTEXT_1	¡Sube al siguiente nivel!
+TEXT_LUCKME102_03631_QIB_001_SCREENTEXT_2	¡Derrota a Ran'jit!
+TEXT_LUCKME102_03631_ALPHINAUD_BATTLETALK_000_010	¡No hagan más de lo necesario para reducir a los civiles!
+TEXT_LUCKME102_03631_ALPHINAUD_BATTLETALK_000_011	Perdónenme... No estaba preparado...
+TEXT_LUCKME102_03631_THANCRED_BATTLETALK_000_020	Estamos perdiendo el tiempo. Ryne, ¡los contenemos aquí mientras los demás avanzan!
+TEXT_LUCKME102_03631_THANCRED_BATTLETALK_000_021	Aquí no, maldita sea...
+TEXT_LUCKME102_03631_RYNE_BATTLETALK_000_030	¡E-Está bien!
+TEXT_LUCKME102_03631_ALPHINAUD_BATTLETALK_000_031	¡Cuídense, ustedes dos! ¡Los demás, conmigo!
+TEXT_LUCKME102_03631_RYNE_BATTLETALK_000_032	No... no fui lo bastante fuerte...
+TEXT_LUCKME102_03631_ALPHINAUD_BATTLETALK_000_040	¡Recuerden que no son dueños de su mente! ¡Eviten herirlos en lo posible!
+TEXT_LUCKME102_03631_YSHTOLA_BATTLETALK_000_050	No se terminan nunca... Urianger, ¿te animas a resistir aquí?
+TEXT_LUCKME102_03631_YSHTOLA_BATTLETALK_000_051	Ngh... Así no...
+TEXT_LUCKME102_03631_URIANGER_BATTLETALK_000_060	Con gusto. <split(<string(gstr1)>, ,1)>, os ruego que avancéis con los demás cuando se presente la ocasión.
+TEXT_LUCKME102_03631_ALISAIE_BATTLETALK_000_061	¡El camino está despejado! ¡Vamos, ustedes dos!
+TEXT_LUCKME102_03631_URIANGER_BATTLETALK_000_062	Un traspié costoso...
+TEXT_LUCKME102_03631_ALPHINAUD_BATTLETALK_000_070	¡Maldición! ¡Más todavía! ¡Y casi lo logramos!
+TEXT_LUCKME102_03631_ALISAIE_BATTLETALK_000_072	No... Estábamos tan cerca...
+TEXT_LUCKME102_03631_ALISAIE_BATTLETALK_000_080	¡Bien, me toca resistir como una heroína! En cuanto haya una pausa, ¡sigan adelante!
+TEXT_LUCKME102_03631_ALPHINAUD_BATTLETALK_000_081	¡Ahora, <split(<string(gstr1)>, ,1)>, a la torre! ¡Y gracias por la ayuda oportuna, Alisaie!
+TEXT_LUCKME102_03631_ALPHINAUD_BATTLETALK_000_090	¡Los bufones de antes!
+TEXT_LUCKME102_03631_CLOWNOFRED_BATTLETALK_000_100	Lo sentimos, amigos... pero llegaron a un callejón sin salida. Y en esta vía <italic(1)>maldita<italic(0)> no hay vuelta ni huida.
+TEXT_LUCKME102_03631_CLOWNOFBLUE_BATTLETALK_000_110	Aquí tenemos una buena vida, ¿ven?, y no pensamos perderla. Pero lo justo es justo: les daremos una buena muerte.
+TEXT_LUCKME102_03631_ALPHINAUD_BATTLETALK_000_111	Si quieren pelear con nosotros por voluntad propia, ¡entonces no nos contendremos!
+TEXT_LUCKME102_03631_CLOWNOFRED_BATTLETALK_000_120	¡Esta sí que es para partirse de risa!
+TEXT_LUCKME102_03631_CLOWNOFBLUE_BATTLETALK_000_130	¡Pero por lo menos morirán riendo!
+TEXT_LUCKME102_03631_ALPHINAUD_BATTLETALK_000_140	Subamos al Canopy. Desde allí tomaremos el Crown Lift.
+TEXT_LUCKME102_03631_ALPHINAUD_BATTLETALK_000_160	Más soldados todavía... ¡Déjemelos a mí y siga adelante!
+TEXT_LUCKME102_03631_RANJIT_BATTLETALK_000_170	Desde que me sometí a la autoridad de mi amo, no he sido más que un arma.
+TEXT_LUCKME102_03631_RANJIT_BATTLETALK_000_180	Existo solo para destruir. Y a ti te destruiré.
+TEXT_LUCKME102_03631_RANJIT_BATTLETALK_000_190	Es hora de que terminemos con esto, canalla.
+TEXT_LUCKME102_03631_RANJIT_BATTLETALK_000_191	Si quieres pasar, tendrás que soportar todo lo que aprendí en el campo de batalla... ¡Pues soy un arma forjada en el fuego de la guerra!
+TEXT_LUCKME102_03631_RANJIT_BATTLETALK_000_200	Ah... ahí están... mis preciosas niñas...
