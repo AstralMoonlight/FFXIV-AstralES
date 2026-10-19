@@ -1,0 +1,28 @@
+key	text
+TEXT_LUCKMJ108_04014_SEQ_00	Alphinaud tiene muchas ganas de informar a la Almirante.
+TEXT_LUCKMJ108_04014_TODO_00	Habla con Merlwyb en la sala de mando.
+TEXT_LUCKMJ108_04014_TODO_01	Habla con Merlwyb.
+TEXT_LUCKMJ108_04014_ALISAIE_100_001	No sé usted, pero cada vez que Sicard abría la boca me costaba horrores no darle un puñetazo en esa cara burlona.
+TEXT_LUCKMJ108_04014_GRAHATIA_100_002	Aunque conozco por encima lo que pasó antes, todavía no estoy en condiciones de meterme en los asuntos de Limsa. No me correspondía discutir con Sicard, por muchas ganas que tuviera.
+TEXT_LUCKMJ108_04014_GRAHATIA_200_002	No, le toca a la Almirante lidiar con él y con los Bloody Executioners. Al sentarlos a la mesa de negociación, ya cumplimos nuestra parte.
+TEXT_LUCKMJ108_04014_ALPHINAUD_000_000	Me creía el cazador, pero resulta que era la presa... Un oportuno recordatorio de que con las potencias piratas de Limsa Lominsa no se juega.
+TEXT_LUCKMJ108_04014_ALPHINAUD_000_001	Pero bien está lo que bien acaba. La oportuna provocación de G'raha Tia tuvo el efecto deseado, y Sicard aceptó reunirse. Volvamos rápido a Limsa Lominsa a transmitirle su invitación a la Almirante.
+TEXT_LUCKMJ108_04014_ALPHINAUD_000_005	A Sicard no le falta confianza, eso está claro, pero tengo fe en la Almirante. Se las vio con cosas mucho peores.
+TEXT_LUCKMJ108_04014_ALISAIE_000_006	El <italic(1)>Astalicia<italic(0)> es el último lugar para una reunión así. La Almirante va a meterse directo en la guarida del coeurl. \<suspiro> Espero que no terminemos lamentándolo...
+TEXT_LUCKMJ108_04014_GRAHATIA_000_007	Aunque no tenemos garantías de que Sicard atienda a razones, no puede haber acuerdo sin diálogo.
+TEXT_LUCKMJ108_04014_EYNZAHRSLAFYRSYN_000_008	Ahí están. Esperábamos su regreso con impaciencia.
+TEXT_LUCKMJ108_04014_ZANTHAEL_000_020	<if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>, sus compañeros ya se presentaron en la sala de mando. ¿Va a reunirse con ellos?
+TEXT_LUCKMJ108_04014_SYSTEM_100_010	¿Ir a la sala de mando?
+TEXT_LUCKMJ108_04014_MERLWYB_000_010	Bienvenidos de vuelta, amigos. ¿Qué noticias traen?
+TEXT_LUCKMJ108_04014_MERLWYB_100_011	Así que les estaban robando cristales a los kobolds...
+TEXT_LUCKMJ108_04014_MERLWYB_000_011	Gracias por resolver el misterio, y además por conseguir una reunión.
+TEXT_LUCKMJ108_04014_MERLWYB_100_012	Basta con decir que acepto la invitación de Sicard. Y quisiera que me acompañen como mis invitados.
+TEXT_LUCKMJ108_04014_MERLWYB_000_012	El futuro de Limsa depende del resultado de esta reunión, y quisiera que los Scions estén presentes como testigos.
+TEXT_LUCKMJ108_04014_ALPHINAUD_000_020	Cuando la discusión dio paso a un duelo, temí lo que pudiera pasar. Pero solo un tonto subestimaría a la Almirante, como Sicard descubrió pronto.
+TEXT_LUCKMJ108_04014_ALISAIE_000_021	Aunque no apruebo lo que hacía Sicard, sé lo difícil que puede ser cambiar de rumbo. A mí me costó bastante unirme a los Scions, ¿no?
+TEXT_LUCKMJ108_04014_GRAHATIA_000_022	Hay momentos en que uno debe mantenerse firme, aunque el costo del fracaso sea incalculable.
+TEXT_LUCKMJ108_04014_GRAHATIA_100_022	La Almirante hizo justamente eso, y no le tengo más que respeto. Mientras siga guiando a su nación en este período de transición, rezo para que el Navigator tenga a bien llenarle las velas.
+TEXT_LUCKMJ108_04014_EYNZAHRSLAFYRSYN_000_023	Igual que Mistbeard antes que él, Hyllfyr eligió confiar el futuro de nuestra nación a la Almirante. Creo que ese fue el momento en que el buen barco Limsa Lominsa por fin emprendió su nuevo rumbo.
+TEXT_LUCKMJ108_04014_MERLWYB_000_030	...Aunque esperaba un duelo, no previ que Hyllfyr fuera a intervenir.
+TEXT_LUCKMJ108_04014_MERLWYB_000_031	Pero me alegro mucho de que lo hiciera. Habría sido una pena matar al muchacho.
+TEXT_LUCKMJ108_04014_MERLWYB_000_032	En cambio, el cachorro aprendió una lección valiosa, y nosotros hicimos las paces entre nosotros. Solo queda hacer lo mismo con nuestros vecinos.

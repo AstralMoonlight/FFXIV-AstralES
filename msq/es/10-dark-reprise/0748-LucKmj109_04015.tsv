@@ -1,0 +1,82 @@
+key	text
+TEXT_LUCKMJ109_04015_SEQ_00	Por primera vez en mucho tiempo, Merlwyb tiene claro el rumbo.
+TEXT_LUCKMJ109_04015_SEQ_01	Asegurada la cooperación de los Bloody Executioners, Merlwyb pone de inmediato la atención en los kobolds. Quiere que tú y tus compañeros Scions usen la cura de la subyugación con el patriarca kobold, y propone usarse a sí misma y los cristales robados a las bestias como cebo para hacerlo salir. Aunque los kobolds no tengan ningún interés en la paz, admite Eynzahr, no dejarían pasar la oportunidad de quitarle la vida a la Almirante. Merlwyb agrega que es muy probable que los kobolds intenten invocar a Titan, y que tendrás que proteger a Alisaie hasta que haya aplicado la cura. Expuesto el plan, partes a hacer tus preparativos antes de dirigirte a Camp Overlook.
+TEXT_LUCKMJ109_04015_SEQ_02	Apenas ocupas tu lugar en el campamento cuando Ga Bu llega corriendo. Al parecer, el joven kobold tiene algo importante que decirle a su líder, y quiere acompañarte en la misión. Pero Alisaie no quiere ni oír hablar de eso, sin duda recordando lo que pasó la última vez que el niño se metió en una pelea.<br><br>Poco después llega la Almirante con la noticia de que logró concertar una reunión con el Patriarch Za Da de la Segunda Order, el mismo fanático que presidió el sacrificio de los padres de Ga Bu. Apartando de tu mente las imágenes de aquel día fatídico, partes hacia las U'Ghamaro Mines rumbo al Navel, escenario de tantas invocaciones de Titan...
+TEXT_LUCKMJ109_04015_SEQ_03	A tu orden, el grupo entra en el Navel por el aetheryte de las bestias, y apenas Merlwyb se anuncia ante Za Da, este intenta invocar a Titan. Pero la Almirante está preparada y lo interrumpe con un disparo certero, lo que le da a Eynzahr la oportunidad de inmovilizar al líder kobold con una reliquia de su pasado pirata. Sin perder tiempo, Alisaie invoca a Angelo y se pone a trabajar, mientras tú rechazas oleada tras oleada de kobolds furiosos y sus secuaces. Tras lo que parece una eternidad, el tratamiento surte efecto, y Za Da despierta de su trance mientras sus guardias huyen aterrados.
+TEXT_LUCKMJ109_04015_SEQ_04	Aunque libre de la influencia de Titan y desgarrado por el remordimiento por los crímenes que cometió contra los suyos, Za Da no puede olvidar las muchas traiciones que sufrió su pueblo, y se niega a confiar en los humanos. Pero gracias a los ruegos sinceros de Merlwyb y del joven Ga Bu, que no pudo quedarse lejos, el patriarca termina convencido de darle una oportunidad a la paz. Así es como, tras siglos de derramamiento de sangre, Limsa Lominsa da su primer y tímido paso en el camino hacia una paz duradera con los kobolds.
+TEXT_LUCKMJ109_04015_SEQ_05	De vuelta en Camp Overlook, Merlwyb les agradece a ti y a tus compañeros Scions el papel invaluable que tuvieron en unir a Limsa Lominsa con sus vecinos más cercanos. Aunque por ahora la incipiente paz solo abarca a la Segunda Order, la Almirante está decidida a sumar a todos los kobolds, cueste el tiempo que cueste.
+TEXT_LUCKMJ109_04015_TODO_00	Habla con Alisaie en Camp Overlook.
+TEXT_LUCKMJ109_04015_TODO_01	Habla con Merlwyb.
+TEXT_LUCKMJ109_04015_TODO_02	Habla con Merlwyb.
+TEXT_LUCKMJ109_04015_TODO_03	Vuelve a hablar con Merlwyb.
+TEXT_LUCKMJ109_04015_ALPHINAUD_100_000	Cuando la discusión dio paso a un duelo, temí lo que pudiera pasar. Pero solo un tonto subestimaría a la Almirante, como Sicard descubrió pronto.
+TEXT_LUCKMJ109_04015_ALISAIE_100_001	Aunque no apruebo lo que hacía Sicard, sé lo difícil que puede ser cambiar de rumbo. A mí me costó bastante unirme a los Scions, ¿no?
+TEXT_LUCKMJ109_04015_GRAHATIA_100_002	Hay momentos en que uno debe mantenerse firme, aunque el costo del fracaso sea incalculable.
+TEXT_LUCKMJ109_04015_GRAHATIA_200_002	La Almirante hizo justamente eso, y no le tengo más que respeto. Mientras siga guiando a su nación en este período de transición, rezo para que el Navigator tenga a bien llenarle las velas.
+TEXT_LUCKMJ109_04015_EYNZAHRSLAFYRSYN_100_003	Igual que Mistbeard antes que él, Hyllfyr eligió confiar el futuro de nuestra nación a la Almirante. Creo que ese fue el momento en que el buen barco Limsa Lominsa por fin emprendió su nuevo rumbo.
+TEXT_LUCKMJ109_04015_ZANTHAEL_100_004	La Almirante lo espera en la sala de mando, <if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>. ¿Lo anuncio?
+TEXT_LUCKMJ109_04015_SYSTEM_100_005	¿Ir a la sala de mando?
+TEXT_LUCKMJ109_04015_MERLWYB_000_000	No hace falta que se los diga, pero cualquier intento de negociar con las tribus está condenado al fracaso si antes no liberamos sus mentes de las garras de sus dioses.
+TEXT_LUCKMJ109_04015_MERLWYB_100_000	Por eso, en la reunión que queremos concertar con los kobolds, quisiera que liberen a su líder de la influencia de Titan.
+TEXT_LUCKMJ109_04015_ALISAIE_000_001	Déjelo en nuestras manos. Le abriremos los oídos a la razón.
+TEXT_LUCKMJ109_04015_MERLWYB_000_002	Tienen mi gratitud.<br>Antes de seguir, hay algo que deben saber.
+TEXT_LUCKMJ109_04015_MERLWYB_000_003	Hace unos cincuenta años, cuando los Sahagin atacaban nuestros cascos en número cada vez mayor, Limsa firmó un pacto con los kobolds.
+TEXT_LUCKMJ109_04015_ALPHINAUD_100_004	"A los hombres, la riqueza del mar; a los kobolds, la riqueza de la tierra". Un acuerdo en apariencia equitativo... y con una notable falta de detalles.
+TEXT_LUCKMJ109_04015_MERLWYB_000_005	Así es. Fuera a propósito o no, la redacción era ambigua. Y nos aprovechamos de eso para reclamar el norte de La Noscea, que los kobolds creían suyo.
+TEXT_LUCKMJ109_04015_MERLWYB_000_006	Siguió el derramamiento de sangre. Luego más sangre como respuesta a la sangre. Y así continuó, hasta que cada ilm de Vylbrand quedó manchado por nuestro conflicto.
+TEXT_LUCKMJ109_04015_MERLWYB_000_007	Esto no es <italic(1)>historia<italic(0)>, entiéndanlo. Es el presente, fresco y en carne viva. Y con la sangre de sus parientes todavía en nuestras manos, nos costará recuperar la confianza de los kobolds, aunque curemos a sus subyugados.
+TEXT_LUCKMJ109_04015_EYNZAHRSLAFYRSYN_000_012	(-Eynzahr-)Almirante. Habla de los obstáculos que podríamos encontrar en la reunión, pero tal como están las cosas, no veo por qué los kobolds aceptarían reunirse en primer lugar.
+TEXT_LUCKMJ109_04015_MERLWYB_000_013	Entonces debemos <italic(1)>darles<italic(0)> un motivo. Les devolveré sus cristales robados, y entregaré yo misma la carga junto con mis disculpas.
+TEXT_LUCKMJ109_04015_EYNZAHRSLAFYRSYN_000_015	(-Eynzahr-)Un cebo. Nos recibirían entre ellos no para hablar de paz, sino para tenerla a su merced.
+TEXT_LUCKMJ109_04015_MERLWYB_100_016	Así es. Y con la cantidad de cristales que llevaremos, apuesto a que intentarán invocar a Titan ahí mismo.
+TEXT_LUCKMJ109_04015_ALISAIE_100_017	Lo que significa que tendría que estar presente un sumo sacerdote... ¡al que podríamos aplicarle la cura!
+TEXT_LUCKMJ109_04015_MERLWYB_000_017	Exactamente. Ese es el pez que quiero pescar. Pero no estará solo. No, tendrá guardias a mano, y darán la vida por protegerlo.
+TEXT_LUCKMJ109_04015_MERLWYB_100_018	Pero una sola muerte del lado de los kobolds pondría en peligro nuestra oportunidad de paz. Y ahí naufraga mi empresa...
+TEXT_LUCKMJ109_04015_EYNZAHRSLAFYRSYN_000_018	(-Eynzahr-)...No tiene por qué. ¿Y si usamos la Conqueror's Chain? Aunque igual tendríamos que debilitar a los kobolds, nos permitiría someterlos sin causarles daños duraderos.
+TEXT_LUCKMJ109_04015_MERLWYB_100_019	¿El artefacto que usaba Mistbeard para llevarse los bienes y no las vidas? Sí, eso servirá. Bien pensado, Mariscal.
+TEXT_LUCKMJ109_04015_MERLWYB_000_020	Y bien, amigos, ¿qué opinan de nuestra estrategia?
+TEXT_LUCKMJ109_04015_GRAHATIA_000_021	Los efectos de la subyugación son acumulativos, y podemos suponer sin riesgo que el sumo sacerdote estuvo muy expuesto a la influencia del primal. Por lo tanto, hará falta muchísimo aether para revertir sus efectos, por no hablar del tiempo.
+TEXT_LUCKMJ109_04015_ALPHINAUD_000_022	Tiempo durante el cual Alisaie estaría indefensa. Aunque todos nos ocupáramos de protegerla, no estoy convencido de que pudiéramos contener a todo un ejército de kobolds.
+TEXT_LUCKMJ109_04015_ALISAIE_000_023	Bueno, yo acepto ese riesgo con gusto. No es que tengamos otra opción.
+TEXT_LUCKMJ109_04015_ALISAIE_000_024	Además, es lo que haría Tesleen. Y si no hubiera seguido su ejemplo, ni siquiera <italic(1)>tendríamos<italic(0)> una cura para la subyugación, y mucho menos una oportunidad de traer la paz a Vylbrand.
+TEXT_LUCKMJ109_04015_ALISAIE_000_025	Así que voy a curar a ese sacerdote, o moriré en el intento.
+TEXT_LUCKMJ109_04015_Q1_000_000	¿Qué dices?
+TEXT_LUCKMJ109_04015_A1_000_001	¡Creo en ti, Alisaie!
+TEXT_LUCKMJ109_04015_A1_000_002	Tiene que haber otra forma...
+TEXT_LUCKMJ109_04015_ALISAIE_000_026	Y yo también creo en usted. En usted y en todos. Sé que me van a proteger.
+TEXT_LUCKMJ109_04015_ALISAIE_000_027	No la necesitamos. Confío en usted. En todos ustedes. Y sé que me van a proteger.
+TEXT_LUCKMJ109_04015_MERLWYB_000_028	Entonces está decidido. Hagan sus preparativos y diríjanse a Camp Overlook. Nos reuniremos allí en breve.
+TEXT_LUCKMJ109_04015_ZANTHAEL_100_0040	¡Rezaré por su éxito en la negociación! ¡Buena suerte!
+TEXT_LUCKMJ109_04015_ALPHINAUD_000_040	No tengo dudas de que Alisaie logrará aplicar la cura, si tan solo podemos darle el tiempo.
+TEXT_LUCKMJ109_04015_GRAHATIA_000_041	Que no haya malentendidos: es probable que la subyugación del sumo sacerdote supere con creces la de Ga Bu.
+TEXT_LUCKMJ109_04015_GRAHATIA_100_041	Claro que el suyo era un caso relativamente leve. Más leve, de hecho, que la mayoría de los que queremos salvar. La misión que viene será una prueba más fiel de nuestro tratamiento.
+TEXT_LUCKMJ109_04015_ALISAIE_000_050	Alphinaud no mentía cuando dijo que estaría indefensa. Así que cuento con todos ustedes para darme el tiempo que necesito.
+TEXT_LUCKMJ109_04015_ALPHINAUD_000_052	Nuestro único objetivo será mantenerte a salvo. Así que déjanos eso a nosotros y concéntrate en tu tarea.
+TEXT_LUCKMJ109_04015_GRAHATIA_000_051	Así es. Y si te falta aether, no tienes más que decirlo.
+TEXT_LUCKMJ109_04015_ALISAIE_000_053	¡Ga Bu! ¿¡Nos seguiste hasta aquí!?
+TEXT_LUCKMJ109_04015_GABU_000_054	Hay algo importante que quiero decirle al sumo sacerdote. Expresarle, comunicarle, decirle. Por favor, déjenme ir con ustedes. ¡Por favor!
+TEXT_LUCKMJ109_04015_ALISAIE_000_055	Lo siento, pero es demasiado peligroso. Necesito que me prometas que te vas a quedar aquí, donde estás a salvo, ¿sí?
+TEXT_LUCKMJ109_04015_MERLWYB_000_056	Disculpen la espera. Llevó tiempo, pero conseguimos nuestra audiencia.
+TEXT_LUCKMJ109_04015_MERLWYB_000_057	Todo salió como esperaba. Cuando mencioné que devolvería sus cristales en persona, los kobolds de pronto recordaron lo ansiosos que estaban por reconciliarse.
+TEXT_LUCKMJ109_04015_MERLWYB_100_057	Y así, en un glorioso espíritu de cooperación, nos recibirá el Patriarch Za Da de la Segunda Order, que nos espera en el Navel. Si están listos, vayamos de inmediato a las U'Ghamaro Mines.
+TEXT_LUCKMJ109_04015_GABU_000_060	Pero de verdad quería ir con ustedes... Acompañarlos, unirme, ir con ustedes... \<gimoteo>
+TEXT_LUCKMJ109_04015_ALPHINAUD_000_061	El Patriarch Za Da... Si el nombre le suena, es porque fue quien presidió la muerte de los padres de Ga Bu.
+TEXT_LUCKMJ109_04015_ALPHINAUD_100_061	Ese día intenté tenderle la mano, pero mis ruegos cayeron en oídos sordos.
+TEXT_LUCKMJ109_04015_ALPHINAUD_100_062	Pero hoy será distinto. Le tenderemos la mano juntos, todos nosotros, y tomaremos la paz con nuestras propias manos.
+TEXT_LUCKMJ109_04015_ALISAIE_000_062	No hay nada más que decir. Voy a hacerlo: por Ga Bu, por Tesleen y por todos los que alguna vez soñaron con un futuro mejor.
+TEXT_LUCKMJ109_04015_GRAHATIA_000_063	A Alisaie se le puede perdonar cierta imprudencia, pero si llega a pensar en sacrificarse, le recordaré cómo reaccionó cuando yo pensé en hacer lo mismo.
+TEXT_LUCKMJ109_04015_GRAHATIA_100_063	Claro que no vamos a dejar que llegue a eso. Cuando quieras, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>.
+TEXT_LUCKMJ109_04015_EYNZAHRSLAFYRSYN_000_064	La Conqueror's Chain está lista. Tú debilita a tus enemigos, y ella se encargará de someterlos.
+TEXT_LUCKMJ109_04015_BLOEIDIN_000_065	Me pareció ver al pequeño entrar corriendo hace un rato. ¿Ya está mejor?
+TEXT_LUCKMJ109_04015_MERLWYB_000_070	Este aetheryte nos llevará hasta nuestra presa.
+TEXT_LUCKMJ109_04015_MERLWYB_000_071	Si intenta invocar a Titan, como espero, detendremos la ceremonia y lo inmovilizaremos.
+TEXT_LUCKMJ109_04015_MERLWYB_000_072	Entonces se desatarán todos los infiernos, y tendremos un ejército de kobolds que entretener hasta que Alisaie termine su trabajo. Solo recuerden: nadie debe morir. Los debilitamos y dejamos que Eynzahr haga el resto.
+TEXT_LUCKMJ109_04015_MERLWYB_000_073	Llegó la hora. Mantengan el rumbo, amigos. Veo aguas más calmas después de esta tormenta.
+TEXT_LUCKMJ109_04015_GABU_000_080	Me alegra tanto que hayamos convencido al patriarca. Convencido, persuadido, ganado. ¡Gracias por hacerlo posible! ¡Gracias!
+TEXT_LUCKMJ109_04015_ALPHINAUD_000_081	Tomó mucho tiempo, pero el sueño de una paz duradera con los kobolds pronto podría hacerse realidad. Y todo es gracias a Alisaie.
+TEXT_LUCKMJ109_04015_ALISAIE_000_082	El tratamiento le habrá devuelto la razón al patriarca, pero fueron las palabras de la Almirante y de Ga Bu las que le llegaron al corazón. Este momento nos pertenece a todos, <split(<string(gstr1)>, ,1)>. No lo habríamos logrado los unos sin los otros.
+TEXT_LUCKMJ109_04015_GRAHATIA_000_083	En dos mundos distintos se sembraron las semillas, y gracias a la determinación de dos mujeres indomables, germinaron en este momento histórico. Me siento honrado de haber estado presente para verlo.
+TEXT_LUCKMJ109_04015_EYNZAHRSLAFYRSYN_000_084	La Almirante parece empeñada en matarme de los nervios, pero supongo que el fin justifica los medios. Bien peleado, amig<if(gnum4,a,o)>. Bien peleado.
+TEXT_LUCKMJ109_04015_MERLWYB_000_090	Parece que encontramos un camino con los kobolds. Lo siguiente será ayudar a la Segunda Order a liberar a sus hermanos subyugados.
+TEXT_LUCKMJ109_04015_MERLWYB_000_091	Claro que la suya está lejos de ser la única order, y llevará bastante tiempo y esfuerzo llegar a las demás. Pero llegaremos, cueste el tiempo que cueste.
+TEXT_LUCKMJ109_04015_MERLWYB_000_092	Diría que estoy en deuda con ustedes, pero eso es así desde hace mucho. En cambio, les daré las gracias por ayudarnos a trazar un nuevo rumbo, no solo para Limsa Lominsa, sino para toda Eorzea.

@@ -1,0 +1,83 @@
+key	text
+TEXT_LUCKMJ106_04012_SEQ_00	Alphinaud está ansioso por llevar la buena noticia a Limsa Lominsa.
+TEXT_LUCKMJ106_04012_TODO_00	Habla con Zanthael en los muelles inferiores de Limsa Lominsa.
+TEXT_LUCKMJ106_04012_TODO_01	Habla con Alphinaud.
+TEXT_LUCKMJ106_04012_TODO_02	Habla con los líderes de las potencias piratas de Limsa Lominsa.
+TEXT_LUCKMJ106_04012_TODO_03	Habla con Alphinaud.
+TEXT_LUCKMJ106_04012_ALISAIE_100_001	A ver: mentes brillantes, ingenio afilado, un humor más seco que Thanalan... Más allá de las apariencias, diría que las dos Matoyas son el reflejo una de la otra.
+TEXT_LUCKMJ106_04012_GRAHATIA_100_002	Mientras seguía tus hazañas a lo largo de la historia, me encontré con los nombres de muchas personas distinguidas, como la Comandante Hext y la maestra Matoya, y ha sido un placer conocerlas en persona. Tengo muchas ganas de conocer al resto, ¡sobre todo al Azure Dragoon!
+TEXT_LUCKMJ106_04012_YSHTOLA_100_003	Lo siento, pero me quedaré a descansar aquí un rato. Sigan sin mí.
+TEXT_LUCKMJ106_04012_ALPHINAUD_000_000	Bien, amigos, volvamos a Limsa Lominsa a darle la buena noticia a la Almirante. Bastará una palabra al oficial del Bulwark Hall para conseguir una audiencia.
+TEXT_LUCKMJ106_04012_ALPHINAUD_000_010	Aunque la Almirante no nos espera, estoy seguro de que querrá oír nuestro informe. Vamos, pidamos una audiencia.
+TEXT_LUCKMJ106_04012_ALISAIE_000_011	Si les ofrecemos el medio para curar a sus subyugados, es mucho más probable que las beast tribes escuchen.
+TEXT_LUCKMJ106_04012_GRAHATIA_000_012	En este mismo momento estamos tejiendo un nuevo futuro. Y cuando todo esto sea historia, espero que quienes vengan después puedan mirar atrás con alegría.
+TEXT_LUCKMJ106_04012_ZANTHAEL_000_020	Vaya, <if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>, su visita siempre es bienvenida.
+TEXT_LUCKMJ106_04012_ZANTHAEL_100_020	...¿Noticias para la Almirante, dice? En este momento está recibiendo invitados, pero sé que hará una excepción con los Scions. Síganme.
+TEXT_LUCKMJ106_04012_MERLWYB_000_020	Amigos míos... ¿Qué los trae hoy por aquí?
+TEXT_LUCKMJ106_04012_MERLWYB_100_020	¿¡Es cierto!?
+TEXT_LUCKMJ106_04012_MERLWYB_100_021	Por el Navigator... Una cura para la subyugación.
+TEXT_LUCKMJ106_04012_MERLWYB_000_021	Por mucho que ustedes, los Scions, me hayan asombrado, no lo habría creído posible...
+TEXT_LUCKMJ106_04012_ALISAIE_000_022	Y sin embargo lo es, Almirante. Lo logramos. Aquí, en Limsa. Y ya empezó la producción de más familiares.
+TEXT_LUCKMJ106_04012_MERLWYB_000_023	Tienen mi gratitud. De verdad. Esto hará mucho por la causa de la paz. Pero me temo que hará falta más para cerrar la brecha entre el hombre y las bestias.
+TEXT_LUCKMJ106_04012_MERLWYB_000_024	Bah, hasta hablar así nos divide.
+TEXT_LUCKMJ106_04012_MERLWYB_000_025	\<suspiro> Por bienvenida que sea, una cura no garantiza la reconciliación entre nuestros pueblos. Porque aunque las invocaciones y los subyugados alimenten el conflicto, no son más que síntomas.
+TEXT_LUCKMJ106_04012_MERLWYB_000_026	Si queremos resolver el problema de los primals de una vez por todas, tenemos que atacar la <italic(1)>causa<italic(0)>. Tenemos que buscar el entendimiento mutuo y encontrar la forma de dejar atrás nuestro sangriento pasado.
+TEXT_LUCKMJ106_04012_MERLWYB_000_027	...Fui yo quien propuso que la Alliance renovara su impulso hacia la paz.
+TEXT_LUCKMJ106_04012_MERLWYB_000_028	Desde que nuestros antepasados llegaron a estas costas hace unos siete siglos, los lominsanos hemos estado enfrentados con quienes comparten nuestra isla.
+TEXT_LUCKMJ106_04012_MERLWYB_000_029	Salvo por un breve momento de cooperación con los kobolds, nuestra historia ha sido de disputas territoriales casi constantes.
+TEXT_LUCKMJ106_04012_MERLWYB_000_030	Mientras tanto, nuestra lucha con los Sahagin por el control de los mares no hizo más que recrudecerse. Algo que empeoró cuando la maldita Calamidad los obligó a buscar nuevos lugares de desove...
+TEXT_LUCKMJ106_04012_MERLWYB_000_031	Con la supervivencia en juego, ninguno tenía más opción que pelear. Y por eso descarté la paz como imposible.
+TEXT_LUCKMJ106_04012_MERLWYB_000_032	"Imposible es una palabra que inventaron los débiles", proclamaba ante cualquiera que quisiera oír... y después me rendí. Ustedes me dejan en vergüenza.
+TEXT_LUCKMJ106_04012_MERLWYB_000_033	Desde que nos llevaron a la victoria contra el Black Wolf, lograron lo imposible una y otra y otra vez.
+TEXT_LUCKMJ106_04012_MERLWYB_000_034	Y pensé que ya era hora de seguir su ejemplo. De ahí mi propuesta al consejo de la Alliance.
+TEXT_LUCKMJ106_04012_MERLWYB_000_035	Pero apenas tendí la mano a nuestros vecinos de Vylbrand, mi propia gente intentó frustrarme.
+TEXT_LUCKMJ106_04012_ALPHINAUD_000_036	Habla de los piratas que no asistieron a la reunión.
+TEXT_LUCKMJ106_04012_MERLWYB_000_037	Así es. A través de una facción amistosa de los kobolds, pensábamos pedir audiencia con un patriarca destacado.
+TEXT_LUCKMJ106_04012_MERLWYB_000_038	Pero los Bloody Executioners no quisieron saber nada, y su ausencia fue un mensaje para los demás.
+TEXT_LUCKMJ106_04012_MERLWYB_000_039	Aunque son solo una de las tres potencias piratas, son la mayor, y cualquier intento de paz naufragaría sin ellos.
+TEXT_LUCKMJ106_04012_ALPHINAUD_000_040	Tengo entendido que su líder, el Capitán Hyllfyr, lleva un tiempo en cama por una dolencia de los pulmones.
+TEXT_LUCKMJ106_04012_MERLWYB_000_041	Correcto. En su ausencia manda su mano derecha, un hombre llamado Sicard que hace poco ganó prominencia en sus filas.
+TEXT_LUCKMJ106_04012_MERLWYB_000_042	Salvo su desdén por la autoridad, poco se sabe de él. Lo invitamos a hablar con nosotros más de una vez, pero no viene.
+TEXT_LUCKMJ106_04012_MERLWYB_000_043	Encargué a los Yellowjackets y a los rogues que averiguaran sus motivos, pero no descubrieron nada de valor.
+TEXT_LUCKMJ106_04012_Q1_000_000	¿Qué dices?
+TEXT_LUCKMJ106_04012_A1_000_001	Déjenoslo a nosotros.
+TEXT_LUCKMJ106_04012_A1_000_002	...
+TEXT_LUCKMJ106_04012_ALISAIE_000_044	Tenemos olfato para la verdad. Sea lo que sea que quiera ese Sicard, lo averiguaremos.
+TEXT_LUCKMJ106_04012_ALISAIE_000_045	Tenemos olfato para la verdad. Sea lo que sea que quiera ese Sicard, seguro que podemos averiguarlo.
+TEXT_LUCKMJ106_04012_MERLWYB_000_046	¿De verdad? Se los agradecería mucho.
+TEXT_LUCKMJ106_04012_MERLWYB_000_047	Entonces espero con ansias lo que descubran. Buena suerte.
+TEXT_LUCKMJ106_04012_ALISAIE_000_050	La Almirante tiene razón: hay que atacar la causa del conflicto. Haremos lo que podamos para allanar el camino, pero al final les toca a los lominsanos hacer las paces con sus vecinos.
+TEXT_LUCKMJ106_04012_GRAHATIA_000_051	No sé nada de esta ciudad salvo lo que leí u oí al pasar. Así que en este asunto, te sigo.
+TEXT_LUCKMJ106_04012_ZANTHAEL_000_052	Así que van a investigar a Sicard por nosotros, ¿eh? Les deseo suerte...
+TEXT_LUCKMJ106_04012_ALPHINAUD_000_060	Como primer paso, sugiero que nos separemos y hagamos averiguaciones por la ciudad. Alguien tiene que conocer a ese Sicard.
+TEXT_LUCKMJ106_04012_ALPHINAUD_000_061	Si usted se acerca a los piratas, <split(<string(gstr1)>, ,1)>, el resto buscaremos a mercaderes y aventureros.
+TEXT_LUCKMJ106_04012_CARVALLAIN_000_070	¿Tiene curiosidad por Sicard? Yo también, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>, yo también.
+TEXT_LUCKMJ106_04012_CARVALLAIN_000_071	Por desgracia, no sé nada de ese hombre, salvo que la fortuna de los Bloody Executioners mejoró notablemente tras su ascenso.
+TEXT_LUCKMJ106_04012_CARVALLAIN_000_072	Cómo lo logró es motivo de cierto debate.
+TEXT_LUCKMJ106_04012_CARVALLAIN_000_073	Como sabe, la talasocracia solo nos permite atacar barcos garleans, y estos casi desaparecieron de los mares desde que el Imperio se volvió contra sí mismo.
+TEXT_LUCKMJ106_04012_CARVALLAIN_000_074	Para adaptarnos, los Krakens empezamos a comerciar con el Este, pero los Executioners miran menos... hacia el futuro. No me imagino que abandonen por gusto las viejas costumbres.
+TEXT_LUCKMJ106_04012_CARVALLAIN_000_075	¿Cómo es, entonces, que llenan sus arcas? ...Sea cual sea su secreto, no es probable que lo compartan con sus rivales, pero quizá usted tenga más suerte.
+TEXT_LUCKMJ106_04012_RHOSWEN_100_080	¿Eh? ¿Quieres saber de Sicard? Es un granuja astuto, eso es lo que es.
+TEXT_LUCKMJ106_04012_RHOSWEN_000_080	Dicen que encontró una forma ingeniosa de hacer dinero, y la cambió por el puesto de Moenskaet al lado del viejo Hyllfyr.
+TEXT_LUCKMJ106_04012_RHOSWEN_000_081	Hubo un tiempo en que competíamos con los Executioners por elegir primero entre la flota del Imperio, pero los garleans se fueron, y esos días con ellos.
+TEXT_LUCKMJ106_04012_RHOSWEN_000_082	Por eso todos tuvimos que buscar otras formas de llegar a fin de mes, y la más jugosa, sea cual sea, se la quedó esa rata de sentina engreída de Sicard.
+TEXT_LUCKMJ106_04012_RHOSWEN_000_083	No es que a nosotras, las Sirens, nos vaya mal, ojo... Nos va bastante bien protegiendo barcos de pesca de los cara de pez y otras bestias.
+TEXT_LUCKMJ106_04012_RHOSWEN_000_084	A cambio elegimos primero lo que pescan, ¿ves? Mercancía de calidad a precio de ganga.
+TEXT_LUCKMJ106_04012_RHOSWEN_000_085	Eso se lo pasamos a nuestras hermanas que ya no pueden navegar porque son viejas, están heridas o esperan un hijo, y ellas lo cocinan y lo venden con buena ganancia. ¡Así de simple!
+TEXT_LUCKMJ106_04012_RHOSWEN_000_086	Ah, extraño los viejos tiempos, no me malinterpretes. Pero cuando veo a las muchachas con sus pequeños, pienso: una vida de paz y tranquilidad no está tan mal.
+TEXT_LUCKMJ106_04012_CARVALLAIN_000_090	Le dije todo lo que sé de Sicard. Si se entera de cómo llenan sus arcas los Bloody Executioners, confío en que compartirá sus secretos conmigo.
+TEXT_LUCKMJ106_04012_RHOSWEN_000_091	Si te enteras de cómo hace tanto dinero ese mocoso escuálido, me cuentas, ¿sí? Te va a valer la pena.
+TEXT_LUCKMJ106_04012_ALISAIE_000_092	Mientras hacía mis averiguaciones, di con una tienda que presumía una selección de dulces bastante tentadora. ¿Quizá podríamos llevar algún día a Ga Bu y a G'raha?
+TEXT_LUCKMJ106_04012_GRAHATIA_000_093	Al caminar por la ciudad, uno nunca sospecharía que hasta hace poco era un bastión de piratas. Hay que felicitar a la Almirante por dirigir una transformación tan rápida.
+TEXT_LUCKMJ106_04012_ALPHINAUD_000_100	Veo que todos volvieron. Bien, ¿quién quiere empezar?
+TEXT_LUCKMJ106_04012_ALPHINAUD_000_101	Así que, justo cuando su presa imperial empezaba a desaparecer, Sicard revirtió la suerte de los Executioners con una nueva y misteriosa fuente de ingresos...
+TEXT_LUCKMJ106_04012_ALISAIE_000_102	Sea lo que sea, no es poca cosa. Según un tabernero con el que hablé, la tripulación se está dando gustos como nunca. Pero ni toda la bebida del mundo parece soltarles la lengua sobre cómo consiguen el dinero.
+TEXT_LUCKMJ106_04012_GRAHATIA_000_103	Por mi parte, hablé con un reportero del <italic(1)>Harbor Herald<italic(0)>. La publicación anda investigando el secreto de la buena fortuna de los Executioners, sin avanzar mucho.
+TEXT_LUCKMJ106_04012_ALPHINAUD_000_104	Está claro que los Executioners no quieren que la naturaleza de su negocio se haga pública.
+TEXT_LUCKMJ106_04012_ALPHINAUD_000_105	...Y creo que sé por qué. Mientras hacía averiguaciones en el Hawkers' Alley, salió a la luz un dato interesante. Justo cuando los Executioners empezaron a prosperar, el precio de los cristales cayó en picada: una repentina caída de la demanda, me dijeron.
+TEXT_LUCKMJ106_04012_ALPHINAUD_000_106	Con curiosidad, contacté a Hoary Boulder, que ha estado vigilando los movimientos de las beast tribes. Y mis sospechas resultaron correctas.
+TEXT_LUCKMJ106_04012_ALPHINAUD_000_107	Pese a que las relaciones entre las beast tribes y la talasocracia no dejan de empeorar, ni Titan ni Leviathan aparecieron últimamente, lo que sugiere que los kobolds y los Sahagin no tienen los medios para invocarlos.
+TEXT_LUCKMJ106_04012_GRAHATIA_100_108	¿Quieres decir que los Executioners les están quitando los cristales?
+TEXT_LUCKMJ106_04012_ALPHINAUD_000_109	Todo apunta a esa conclusión, sí, aunque todavía no tenemos pruebas concretas. Debemos seguir investigando.
+TEXT_LUCKMJ106_04012_ALISAIE_000_110	De acuerdo. ¿Y cómo seguimos?
+TEXT_LUCKMJ106_04012_ALPHINAUD_000_111	Ah, tengo una idea al respecto. De hecho, ya me tomé la libertad de hacer ciertos preparativos.

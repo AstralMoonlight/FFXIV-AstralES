@@ -1,0 +1,74 @@
+key	text
+TEXT_LUCKMJ110_04016_SEQ_00	La cara de Alphinaud lo dice todo: mitad júbilo, mitad alivio.
+TEXT_LUCKMJ110_04016_SEQ_01	Justo cuando estás por volver a los Rising Stones, un oficial del Maelstrom llega sin aliento y le ruega a la Almirante que lo siga. Te lleva a los acantilados frente a la Floating City of Nym, donde divisas una extraña torre que, según él, no estaba ahí cuando empezó su patrulla diaria. Pero la magnitud del problema solo queda clara cuando la Almirante recibe un mensaje por linkpearl del cuartel general del Maelstrom. Parece que muchas más estructuras como esa, al parecer de diseño garlean, se materializaron por todo el reino. Previendo problemas, Merlwyb te pide que te unas a las fuerzas de la Alliance en el frente oriental, y partes hacia el Ala Mhigan Quarter para ofrecerle tu apoyo a la Comandante Hext.
+TEXT_LUCKMJ110_04016_SEQ_02	Lyse apenas termina de darte la bienvenida cuando un dragón enorme pasa por encima, al parecer rumbo al palacio. Al perseguirlo, sales al Royal Menagerie, donde te encuentras cara a cara con Asahi... o más bien con un Ascian en su cuerpo. Con un floreo complaciente, tu enemigo se presenta como Fandaniel, y declara su intención de destruir el mundo recreando los Días Finales, en lo que las torres tendrán algún papel que no aclara. Cuando intentas capturarlo, su dragón, el llamado "Lunar Bahamut", incendia el jardín de la azotea, y el Ascian aprovecha para irse, no sin antes informarte que su patrón, Lord Zenos, te espera en el corazón del caos...
+TEXT_LUCKMJ110_04016_SEQ_03	El ánimo está apagado cuando se reúnen frente al Royal Palace. Con tan poca información para actuar, Lyse propone mandar una unidad a investigar la torre cercana, y por insistencia de Raubahn, decides volver a los Rising Stones a recuperarte mientras esperas novedades.
+TEXT_LUCKMJ110_04016_SEQ_04	Al llegar a los Rising Stones encuentras que Y'shtola volvió, e intercambian noticias de lo que hicieron. Parece que, tras recuperar fuerzas, Y'shtola entregó la primera camada de porxies a los Immortal Flames de Ul'dah, mientras Krile investigaba informes de torres avistadas no solo por toda Eorzea, sino también en Yanxia, en el Lejano Oriente. Cuando la conversación pasa al nuevo enemigo dracónico, Lunar Bahamut, Krile y Tataru declaran su intención de buscar la ayuda de Estinien, y te dejan a ti y a los demás para que descansen lo que puedan. Aunque parece que tus esfuerzos por traer una paz duradera a Eorzea quedaron opacados, sabes que el futuro de la estrella todavía no está escrito, y que tú y tus compañeros no se detendrán ante nada para protegerlo.
+TEXT_LUCKMJ110_04016_TODO_00	Habla con Lyse en el Ala Mhigan Quarter.
+TEXT_LUCKMJ110_04016_TODO_01	Habla con Lyse.
+TEXT_LUCKMJ110_04016_TODO_02	Habla con Krile en los Rising Stones.
+TEXT_LUCKMJ110_04016_MERLWYB_000_000	Disfruta el momento, <if(gnum4,muchacha,muchacho)>. Tu próxima tarea puede esperar.
+TEXT_LUCKMJ110_04016_GABU_100_001	Si yo pude hacerme amigo de ustedes, seguro que otros kobolds también pueden hacerse amigos de los hombres. Y haré todo lo que pueda para ayudarlos. Facilitarles, asistirlos, ayudarlos.
+TEXT_LUCKMJ110_04016_ALISAIE_100_002	Ga Bu es sabio para su edad. Está muy bien que los líderes firmen tratados de paz, pero son las personas las que tienen que acortar la distancia.
+TEXT_LUCKMJ110_04016_GRAHATIA_100_003	Me atrevo a decir que a todos nos vendría bien un descanso, sobre todo a Alisaie, con todo el aether que gastó últimamente.
+TEXT_LUCKMJ110_04016_EYNZAHRSLAFYRSYN_100_004	A juzgar por las... \<gruñido>... quejas de mi espalda, quizá me excedí. Ah, los estragos de la vejez...
+TEXT_LUCKMJ110_04016_STORMOFFICER_000_000	No se preocupe, <if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<if(gnum4,señorita,señor)>,<if(gnum4,señorita,señor)>)>)>: yo vigilaré la torre. Su lugar está en Ala Mhigo.
+TEXT_LUCKMJ110_04016_ALPHINAUD_000_001	Dentro de la ciudad todo parece seguir como siempre, pero Lyse podrá decirnos si hubo novedades afuera.
+TEXT_LUCKMJ110_04016_ALISAIE_000_002	...¿Ga Bu? No se preocupe. Está con nuestros amigos del Maelstrom. Así que tenemos libertad para ocuparnos del último problema que nos cayó sin invitación... \<suspiro>
+TEXT_LUCKMJ110_04016_GRAHATIA_000_003	Aunque desde aquí no se ve, los lugareños dicen que apareció una estructura parecida a una torre al sur.
+TEXT_LUCKMJ110_04016_ALPHINAUD_000_010	Aunque nuestros objetivos eran distintos, podía entender por qué Elidibus y los suyos actuaban como actuaban. ¿Pero Fandaniel?
+TEXT_LUCKMJ110_04016_ALPHINAUD_100_010	Me llevará tiempo entender todo esto... si es que tiene algún sentido.
+TEXT_LUCKMJ110_04016_ALISAIE_000_011	¿Está bien, <split(<string(gstr1)>, ,1)>? Los demás estamos bien, aunque un poco chamuscados.
+TEXT_LUCKMJ110_04016_ALISAIE_100_011	Ese dragón nos dejó ir con poco. Pero, en serio: solo a un <italic(1)>loco<italic(0)> se le ocurriría el nombre "Lunar Bahamut". Lo que más o menos resume a Fandaniel, supongo...
+TEXT_LUCKMJ110_04016_GRAHATIA_000_012	¿Qué papel podrían tener estas torres en los planes de los Telophoroi, crees?
+TEXT_LUCKMJ110_04016_GRAHATIA_100_012	Yo, por mi parte, no tengo idea. Por ahora, deberíamos contarles esto a los demás. Solo espero que Thancred y Urianger estén a salvo.
+TEXT_LUCKMJ110_04016_RAUBAHN_000_013	Nuestros exploradores informan que el Ascian y su dragón se fueron de Gyr Abania. Parece que fue una simple visita de cortesía.
+TEXT_LUCKMJ110_04016_LYSE_000_020	Menos mal que todos están a salvo... Logramos apagar el fuego, aunque no a tiempo para salvar el jardín.
+TEXT_LUCKMJ110_04016_LYSE_000_021	Raubahn, ¿puedo dejarte a ti avisar a la Alliance?
+TEXT_LUCKMJ110_04016_LYSE_100_021	Voy a llevar una unidad a investigar la torre. Tenemos que averiguar para qué sirve.
+TEXT_LUCKMJ110_04016_ALISAIE_100_022	Vamos contigo.
+TEXT_LUCKMJ110_04016_RAUBAHN_000_022	No, no van. Van a descansar. Por lo que me dice Merlwyb, ya les toca un tiempo libre.
+TEXT_LUCKMJ110_04016_RAUBAHN_000_023	Si averiguamos algo de la torre, se lo contaremos sin falta. Hasta entonces, quiero que descansen.
+TEXT_LUCKMJ110_04016_ALISAIE_100_023	...Muy bien. Pero si necesitan nuestra ayuda, no lo duden. Y cuídense. Los dos.
+TEXT_LUCKMJ110_04016_RAUBAHN_000_030	Si hay un Ascian rondando, no pasará mucho antes de que volvamos a llamarlos a ti y a los tuyos. Descansa ahora, mientras puedas.
+TEXT_LUCKMJ110_04016_LYSE_000_031	Así que lo lograron de verdad: ¡encontraron una cura para la subyugación! ¡Ay, me dan ganas de hacer algo heroico <italic(1)>ya mismo<italic(0)>! Y hablando de eso, mejor me preparo y salgo para la torre.
+TEXT_LUCKMJ110_04016_ALPHINAUD_000_032	Ah, qué bien se siente volver a los Rising Stones. Aquí es donde mi corazón siente más paz y mi mente está más clara.
+TEXT_LUCKMJ110_04016_ALISAIE_000_033	Y'shtola volvió justo antes que nosotros. Y parece que ella también sabe de las torres.
+TEXT_LUCKMJ110_04016_GRAHATIA_000_034	Aunque mi nuevo... o mejor dicho viejo... es decir, joven... Ejem. Aunque <italic(1)>este<italic(0)> cuerpo tiene mucha más resistencia que el que gasté en el First, confieso que tenía ganas de un momento de descanso. Fueron unos días ajetreados, ¿no?
+TEXT_LUCKMJ110_04016_YSHTOLA_000_035	Parece que tuviste bastante agitación en mi ausencia. Pero ya descansé del todo y estoy lista para más.
+TEXT_LUCKMJ110_04016_TATARU_100_036	¡Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>! Ponte cómod<if(gnum4,a,o)>, y avísame si te puedo traer algo.
+TEXT_LUCKMJ110_04016_KRILE_000_040	Ah, tú también volviste. Bien. Recibimos los informes de la Alliance.
+TEXT_LUCKMJ110_04016_KRILE_000_041	Ya que estamos todos aquí, ¿quizá los que presenciaron lo de Ala Mhigo podrían contarnos lo que pasó de primera mano?
+TEXT_LUCKMJ110_04016_YSHTOLA_000_050	Apenas superamos un problema, aparece otro. Todo parecería tediosamente previsible si no fuera por la variedad infinita de nuestros enemigos. Ese Fandaniel suena todavía más desquiciado que su patrón.
+TEXT_LUCKMJ110_04016_ALPHINAUD_000_051	Desquiciado, quizá, pero no tonto. Pese a toda su teatralidad, reveló poco de su plan. Solo sabemos que pretende recrear los Días Finales, y que las torres de algún modo lo harán posible.
+TEXT_LUCKMJ110_04016_ALISAIE_000_052	También llamó a su dragón "Lunar Bahamut". No olvidemos ese detallito.
+TEXT_LUCKMJ110_04016_ALISAIE_000_053	Y la criatura sí se parecía a las descripciones que vi del primal antiguo.
+TEXT_LUCKMJ110_04016_ALISAIE_000_054	Y la criatura sin duda se parecía al primal antiguo.
+TEXT_LUCKMJ110_04016_GRAHATIA_000_055	Puede ser... pero que obedeciera a Fandaniel sugiere que no son la misma entidad. Creo más probable que sea algún tipo de simulacro nacido de las magias Ascian.
+TEXT_LUCKMJ110_04016_ALPHINAUD_000_056	Sea lo que sea, por ahora solo podemos trabajar de cerca con la Alliance y mantenernos alerta.
+TEXT_LUCKMJ110_04016_ALPHINAUD_000_057	Creo que eso es todo lo que tenemos. ¿Y tú, Y'shtola?
+TEXT_LUCKMJ110_04016_YSHTOLA_000_058	Fui a ver a la sultana. Sabiendo lo rápido que los Immortal Flames se deshacen de sus subyugados, me pareció mejor darles la cura primero.
+TEXT_LUCKMJ110_04016_YSHTOLA_000_059	En cuanto me recuperé lo suficiente, viajé a Ul'dah y le entregué los porxies a Su Gracia, junto con instrucciones detalladas para usarlos.
+TEXT_LUCKMJ110_04016_YSHTOLA_000_060	Pero mi visita coincidió con la llegada de noticias preocupantes. Los Immortal Flames estaban a punto de acordar una tregua con los Amalj'aa cuando las negociaciones se vinieron abajo de golpe.
+TEXT_LUCKMJ110_04016_YSHTOLA_000_061	Los Amalj'aa afirman que secuestraron a varios de los suyos... y que los responsables son humanos.
+TEXT_LUCKMJ110_04016_YSHTOLA_000_062	Todavía no se sabe nada de los culpables. Pero mientras los Immortal Flames investigaban los secuestros, se toparon con una de las torres de Fandaniel.
+TEXT_LUCKMJ110_04016_KRILE_000_063	Hablando de las torres, quizá les interese saber que <italic(1)>no<italic(0)> son un fenómeno exclusivo de Eorzea. Según la Alliance, las avistaron incluso en Yanxia.
+TEXT_LUCKMJ110_04016_ALPHINAUD_000_064	Entonces parece razonable suponer que están en todas partes. Simplemente no las encontramos.
+TEXT_LUCKMJ110_04016_KRILE_000_065	Bueno, como dijiste, por ahora poco podemos hacer salvo mantenernos alerta. Y como estamos tratando con un dragón, al menos en apariencia, creo que nos convendría pedir ayuda a una autoridad en esa clase de enemigos.
+TEXT_LUCKMJ110_04016_TATARU_000_067	¡Estinien!
+TEXT_LUCKMJ110_04016_ALPHINAUD_000_068	¿<italic(1)>Estinien<italic(0)>? Un momento... Si se lo pudiera convencer de prestarnos su lanza, sería el primero en celebrarlo, pero la verdad es que nos costará incluso encontrarlo.
+TEXT_LUCKMJ110_04016_TATARU_000_069	¡Je, je! Deja eso en manos de Krile y mías. ¡Lo vamos a encontrar, se esconda donde se esconda!
+TEXT_LUCKMJ110_04016_KRILE_000_070	Si es que <italic(1)>se<italic(0)> esconde. De todos modos, tenemos formas de dar con él. Así que, si no hay objeciones, partiremos de inmediato.
+TEXT_LUCKMJ110_04016_ALISAIE_000_071	Bueno, en vez de quedarme sentada, creo que podría ir a cada una de las ciudades-estado a enseñarles a usar los porxies.
+TEXT_LUCKMJ110_04016_ALPHINAUD_000_072	Sin duda lo agradecerían. ¿Pero no considerarías descansar un momento antes de irte? Estarías más fresca para lo que viene.
+TEXT_LUCKMJ110_04016_GRAHATIA_000_073	Bueno, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>... nuestro momento de triunfo no duró mucho.
+TEXT_LUCKMJ110_04016_Q1_000_000	¿Qué dices?
+TEXT_LUCKMJ110_04016_A1_000_001	Siempre fue así. El mundo necesita que lo salven <italic(1)>seguido<italic(0)>.
+TEXT_LUCKMJ110_04016_A1_000_002	Ay, no. ¿No estás disfrutando nuestra aventura?
+TEXT_LUCKMJ110_04016_A1_000_003	Y de verdad me hacía falta un descanso...
+TEXT_LUCKMJ110_04016_GRAHATIA_000_074	Y lo salvaremos. Yo, por mi parte, no pienso dejar que un loco nihilista nos lleve a todos a la tumba con él. No cuando el futuro promete tanto.
+TEXT_LUCKMJ110_04016_GRAHATIA_000_075	No, haré todo lo que esté en mi poder para proteger a quienes quiero. Como siempre hiciste tú.
+TEXT_LUCKMJ110_04016_GRAHATIA_000_076	Vamos, yo no dije eso. Puede que no sea la experiencia más despreocupada, pero no hay nada en este mundo que prefiera hacer más que escribir un nuevo futuro contigo.
+TEXT_LUCKMJ110_04016_GRAHATIA_000_077	Un futuro <italic(1)>largo<italic(0)>, ojo, por mucho que esperen los Telophoroi. Los vamos a detener, ¿verdad? Juntos.
+TEXT_LUCKMJ110_04016_GRAHATIA_000_078	¿Entonces por qué no tomas uno ahora? Si pasa algo, te prometo que vendré a despertarte.
+TEXT_LUCKMJ110_04016_GRAHATIA_000_079	Por mucho que disfrute nuestras aventuras juntos, <italic(1)>soy<italic(0)> consciente del precio que cobran. Así que juntemos fuerzas mientras podamos, para estar a la altura de los desafíos del futuro que todavía no se escribe.
