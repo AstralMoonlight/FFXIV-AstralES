@@ -1,0 +1,120 @@
+key	text
+TEXT_AKTKMB103_04382_SEQ_00	Maxima quiere que conozcas a tus nuevos compañeros de viaje.
+TEXT_AKTKMB103_04382_TODO_00	Entra en el Royal Palace.
+TEXT_AKTKMB103_04382_TODO_01	Habla con Y'shtola.
+TEXT_AKTKMB103_04382_TODO_02	Entrégale escamas protectoras a A<-->Ruhn<-->Senna.
+TEXT_AKTKMB103_04382_TODO_03	Entrégale escamas protectoras a Sicard.
+TEXT_AKTKMB103_04382_TODO_04	Entrégale escamas protectoras a Lyse.
+TEXT_AKTKMB103_04382_TODO_05	Entrégale escamas protectoras a Lucia.
+TEXT_AKTKMB103_04382_TODO_06	Entrégale escamas protectoras a Cirina.
+TEXT_AKTKMB103_04382_TODO_07	Entrégale una escama protectora a Maxima.
+TEXT_AKTKMB103_04382_TODO_08	Habla con Alphinaud.
+TEXT_AKTKMB103_04382_ALPHINAUD_000_000	Sabiendo que nuestros aliados van a resistir en nuestra ausencia, podemos dedicar toda nuestra atención al frente de Ilsabard.
+TEXT_AKTKMB103_04382_ALISAIE_000_005	Supongo que para algunos es fácil olvidar que en Garlemald también hay civiles, cuando los únicos imperiales que conocieron son soldados...
+TEXT_AKTKMB103_04382_GRAHATIA_000_010	Así que ese es Gaius Baelsar. Los horrores que debe de haber visto... Muchos de su propia autoría, no lo dudo.
+TEXT_AKTKMB103_04382_ESTINIEN_000_015	Como Gaius, a mí también se me acusa del asesinato de Varis, aunque a mí es bastante más difícil reconocerme a simple vista. Igual es algo para tener en cuenta cuando lleguemos a Garlemald.
+TEXT_AKTKMB103_04382_AYMERIC_000_020	Olvidé mencionar antes que recibimos un informe de nuestras tropas que quizás le interese. Mientras combatían a un primal lunar, un gran wyrm bajó en picada del cielo y acudió en su ayuda.
+TEXT_AKTKMB103_04382_AYMERIC_000_021	Ese wyrm, según la descripción, era idéntico a Tiamat. Parece que ella también sigue en guerra contra los Telophoroi.
+TEXT_AKTKMB103_04382_RAUBAHN_000_025	Cuando hayamos despedido al contingente, vuelvo a mis deberes aquí en Ala Mhigo.
+TEXT_AKTKMB103_04382_RAUBAHN_000_026	Como muchos de nuestros mejores van a viajar con ustedes a Garlemald, los que quedamos vamos a tener que pelear mucho más duro para compensar. Pero que nadie diga que no recibo bien el desafío. ¡Sí, este viejo toro todavía no está listo para colgar los cuernos!
+TEXT_AKTKMB103_04382_SHADOWHUNTER_000_030	Más allá de cómo te reciban mis compatriotas, el frío no va a ser amable contigo. Subestimarlo es arriesgarse.
+TEXT_AKTKMB103_04382_MAXIMA_000_040	Los demás miembros del contingente de Ilsabard están reunidos en el Royal Palace.
+TEXT_AKTKMB103_04382_MAXIMA_000_041	Les avisaré de su llegada, así que por favor entre cuando esté list<if(gnum4,a,o)>.
+TEXT_AKTKMB103_04382_RESISTANCEGATEGUARD_000_050	Ah, los miembros que faltaban de los Scions. Sus amigos y la mayor parte del contingente de Ilsabard los esperan adentro.
+TEXT_AKTKMB103_04382_RESISTANCEGATEGUARD_000_051	¿Quiere que l<if(gnum4,a,o)> haga pasar?
+TEXT_AKTKMB103_04382_Q1_000_052	¿Entrar en el Royal Palace?
+TEXT_AKTKMB103_04382_RESISTANCEGATEGUARD_000_060	¿Desea reunirse con el resto del contingente de Ilsabard?
+TEXT_AKTKMB103_04382_LUCIA_000_065	Dirigí tropas en batalla muchas veces, pero nunca una unidad con una variedad de talentos tan diversa.
+TEXT_AKTKMB103_04382_LUCIA_000_066	Aunque me informaron de sus capacidades, supongo que usted podría darme más detalles sobre sus fortalezas y debilidades. Le agradecería cualquier consejo.
+TEXT_AKTKMB103_04382_MAXIMA_000_070	Me uní a los Populares para tender un puente entre Garlemald y sus territorios, para que todos pudieran unirse en una causa común.
+TEXT_AKTKMB103_04382_MAXIMA_000_071	Pero nos despreciaban como un elemento radical. Disidentes que buscaban desestabilizar el Imperio desde adentro. Muchos amigos, y hasta mis padres, murieron en "accidentes desafortunados". Yo también habría corrido la misma suerte si no hubiera desertado.
+TEXT_AKTKMB103_04382_MAXIMA_000_072	Aun así, sigo soñando con la igualdad y la paz para todos. Ahora que el mundo mismo está al borde del colapso, mantengo la esperanza de que algún día ese sueño se haga realidad.
+TEXT_AKTKMB103_04382_CIRINA_000_075	Me alegra verte bien, <split(<string(gstr1)>, ,1)>. La abuela estaba preocupada por ti.
+TEXT_AKTKMB103_04382_CIRINA_000_076	La noche en que acepté venir a unirme al contingente, los dioses le mandaron un sueño extraño.
+TEXT_AKTKMB103_04382_CIRINA_000_077	Dos soles: uno rojo ardiente y otro negro helado. Giraban cada vez más cerca, más y más, y mientras danzaban el mundo se arruinaba. En el caos cegador vio siluetas ennegrecidas, y supo enseguida que una era la tuya.
+TEXT_AKTKMB103_04382_CIRINA_000_078	Pero no supimos cómo interpretar el sueño, salvo como señal de que nos espera un gran peligro. Pero sea lo que sea lo que venga, caminaré contigo, viajer<if(gnum4,a,o)>.
+TEXT_AKTKMB103_04382_LYSE_000_080	Parece que hiciera tanto que navegábamos por el Ruby Sea y corríamos por la Azim Steppe con Cirina y los demás. ¡Diría que ya nos toca otra aventura!
+TEXT_AKTKMB103_04382_LYSE_000_081	Ah, me trae recuerdos ver tantas caras conocidas. Pasamos por tanto juntos. Buenos momentos y... no tan buenos.
+TEXT_AKTKMB103_04382_LYSE_000_082	Supongo que Garlemald va a ser más que nada lo segundo, pero me gustaría creer que en los años que vienen vamos a recordar estos días con más cariño. Pero para eso vamos a tener que salir con vida. No te me mueras, ¿eh?
+TEXT_AKTKMB103_04382_SICARD_000_085	Hasta que cayó el Imperio, los garleanos eran los únicos a los que nos dejaban cobrarles "aranceles" en el mar. No era fácil, pero me hice una buena fortuna.
+TEXT_AKTKMB103_04382_SICARD_000_086	Como fueron tan generosos conmigo y los míos, quizás sea hora de devolverles el favor y darles algo a cambio.
+TEXT_AKTKMB103_04382_ARUHNSENNA_000_090	Por si se lo preguntaba, Eschiva se queda a defender el Twelveswood con mis hermanas.
+TEXT_AKTKMB103_04382_ARUHNSENNA_000_091	Ella opinaba que sería un aporte útil a nuestro contingente, y tenía muchas ganas de cumplir su promesa de acompañarme. Lo cual fue... halagador... pero al final se decidió que sus habilidades servirían más para mantener a salvo nuestra tierra. Claro que estoy obligado a contarle cada detalle cuando vuelva.
+TEXT_AKTKMB103_04382_ARUHNSENNA_000_092	Con tanta gente de tantos lugares, estoy bastante fuera de mi elemento.
+TEXT_AKTKMB103_04382_ARUHNSENNA_000_093	Igual, soy un Seedseer, y voy a esforzarme por estar a la altura.
+TEXT_AKTKMB103_04382_YSHTOLA_000_100	Además de los delegados aquí reunidos, los Amalj'aa y varias otras tribus ofrecieron mandar sus propias tropas.
+TEXT_AKTKMB103_04382_YSHTOLA_000_101	Por desgracia, por su fisiología, a muchos les costaría simplemente sobrevivir en el clima duro de Ilsabard. Además, seguramente serían blancos tentadores para los secuestros de los Telophoroi...
+TEXT_AKTKMB103_04382_YSHTOLA_000_102	Considerándolo todo, pueden ayudar más a la causa reforzando nuestras defensas en Eorzea, aunque se tomó nota de sus ganas de hacer más.
+TEXT_AKTKMB103_04382_YSHTOLA_000_103	Tendremos que bastar estos pocos. Antes de embarcar, tenemos que repartir las escamas protectoras entre nuestros camaradas. ¿Te encargas tú?
+TEXT_AKTKMB103_04382_YSHTOLA_000_110	Sospecho que a algunos de nuestros camaradas les va a alegrar bastante volver a hablar contigo, por eso pensé que serías la persona ideal.
+TEXT_AKTKMB103_04382_YSHTOLA_000_111	Mientras tanto, tengo un asunto pendiente con Thancred y Urianger por sus lenguas sueltas...
+TEXT_AKTKMB103_04382_LUCIA_000_120	Escamas protectoras para la delegación de Ishgard, supongo.
+TEXT_AKTKMB103_04382_LUCIA_000_121	Muchas gracias. Estos talismanes podrían ser decisivos en las batallas que vienen.
+TEXT_AKTKMB103_04382_LUCIA_000_122	Me siento... dividida con esta incursión en Garlemald. El Imperio me mandó a infiltrarme en Ishgard, y terminé uniéndome a aquellos cuyos secretos debía robar...
+TEXT_AKTKMB103_04382_LUCIA_000_123	Y ahora dirijo una misión para salvar a los compatriotas que traicioné.
+TEXT_AKTKMB103_04382_LUCIA_000_124	Pero sin duda por eso me eligió Lord Aymeric. Quiere que aproveche mi amplio conocimiento y mis antiguos lazos. No lo voy a decepcionar.
+TEXT_AKTKMB103_04382_LUCIA_000_125	Por el futuro de Ishgard, de Garlemald y del mundo entero, los llevaré a la victoria.
+TEXT_AKTKMB103_04382_ARUHNSENNA_000_130	¿Sí?
+TEXT_AKTKMB103_04382_ARUHNSENNA_000_131	¿Así que estas son las famosas escamas protectoras? Suficientes para mí y mis hombres, por lo que veo.
+TEXT_AKTKMB103_04382_ARUHNSENNA_000_132	Yo, en especial, agradezco esta oportunidad de visitar tierras lejanas. Quiero seguir los pasos del Maestro A<-->Towa y aprender todo lo que se pueda de esta estrella que llamamos hogar.
+TEXT_AKTKMB103_04382_ARUHNSENNA_000_133	De hecho, esa es la razón principal por la que me ofrecí para la expedición. Salir del Twelveswood, y más todavía entrar en territorio imperial, es un privilegio raro para un Padjal.
+TEXT_AKTKMB103_04382_ARUHNSENNA_000_134	No es que venga a hacer turismo. A los garleanos les vendría bien mi magia curativa, y también a nuestros camaradas, si estalla una pelea.
+TEXT_AKTKMB103_04382_ARUHNSENNA_000_135	En circunstancias normales, no me permitirían salir del Twelveswood. Pero la Elder Seedseer me dio un permiso especial.
+TEXT_AKTKMB103_04382_ARUHNSENNA_000_136	Me pidió que ponga mi magia al servicio de la gente de Garlemald mientras aprendo todo lo que pueda de sus costumbres. Así voy a entenderme mejor a mí mismo y mi lugar en el mundo... o eso dice ella.
+TEXT_AKTKMB103_04382_ARUHNSENNA_000_137	<italic(1)>Yo<italic(0)> digo que ya es hora de que nuestros aliados se beneficien del poder que tiene un Seedseer. Algunos se quejan de que escondemos nuestra luz bajo un cajón, y pienso responder a esa crítica.
+TEXT_AKTKMB103_04382_SICARD_000_140	Me dicen que tienes algo para nosotros.
+TEXT_AKTKMB103_04382_SICARD_000_141	Ahh, esas escamas de las que todos hablan. Lindas cositas, ¿no? Calculo que valdrán uno o dos gil cuando todo esto termine, pero por ahora las guardamos.
+TEXT_AKTKMB103_04382_SICARD_000_142	Y una cosa más: sé lo que están pensando todos. "¿Por qué no mandaron a Eynzahr?"
+TEXT_AKTKMB103_04382_SICARD_000_143	Que me parta un rayo si lo sé. Lo único que me dijeron la Almirante y la capitana Hyllfyr es que necesitaban a alguien para ayudar a "proteger el futuro". Y aquí estoy. No se puede decir que no tengan sentido del humor.
+TEXT_AKTKMB103_04382_SICARD_000_144	Claro, quizás algunos se pregunten de qué sirve un pirata en tierra firme, y en medio de la maldita nieve, nada menos. Bueno, mi tripulación y yo vamos a hacer lo que haya que hacer, así que a zarpar... o como se diga en las aeronaves.
+TEXT_AKTKMB103_04382_LYSE_000_150	¿Eso que veo es un juego de escamas protectoras? No es que yo sepa cómo son...
+TEXT_AKTKMB103_04382_LYSE_000_151	¡Uau, mira esto! Hasta una lega como yo se da cuenta de que rebosan de aether. Mejor para frenar las... ¿ondas de subyugación? ¿Así se dice?
+TEXT_AKTKMB103_04382_LYSE_000_152	En fin, con esto tenemos una preocupación menos. Lo que nos deja solo la otra montaña de lo que sea que nos espere en Garlemald.
+TEXT_AKTKMB103_04382_LYSE_000_153	Solo hay una forma de averiguarlo, ¿no? Y nerviosa o no, cruzaría los siete infiernos si eso me diera la oportunidad de mandar a Zenos de vuelta a la tumba, donde pertenece.
+TEXT_AKTKMB103_04382_CIRINA_000_155	Oímos que haría frío en Garlemald, así que vinimos preparados...
+TEXT_AKTKMB103_04382_CIRINA_000_156	¡Ah, los talismanes! Hay que tenerlos cerca en todo momento, ¿no? Me voy a asegurar de que nadie pierda el suyo.
+TEXT_AKTKMB103_04382_CIRINA_000_157	Ah, y antes de que me olvide, tengo un mensaje de Hien.
+TEXT_AKTKMB103_04382_CIRINA_000_158	"En tierras lejanas, en tiempos de lucha,<br>juntos en pie, juntos a pelear,<br>en la oscuridad brilla la luz de la vida".
+TEXT_AKTKMB103_04382_CIRINA_000_159	...Espero haberle hecho justicia a sus palabras. A Doma, como a gran parte de Othard, la azotan las torres. Pero aunque él no pudo venir, quería expresar que comparte nuestra convicción.
+TEXT_AKTKMB103_04382_CIRINA_000_160	Hien y Yugiri trabajan sin descanso para unir a la gente, y con su ayuda mantendremos a raya al enemigo.
+TEXT_AKTKMB103_04382_CIRINA_000_161	¡Y nosotros, los de la Steppe y la alianza del Este, les devolveremos el esfuerzo terminando esta guerra!
+TEXT_AKTKMB103_04382_MAXIMA_000_170	¿Tiene una escama protectora para mí también?
+TEXT_AKTKMB103_04382_MAXIMA_000_171	Gracias por esto, y por hacer tanto por el bien de mi pueblo.
+TEXT_AKTKMB103_04382_MAXIMA_000_172	Aunque tengo poco para ofrecer a cambio, me gustaría darle un consejo, si me permite. Muchos le advirtieron del frío de Ilsabard, y no puedo insistir lo suficiente en que no es una advertencia simbólica.
+TEXT_AKTKMB103_04382_MAXIMA_000_173	Voy a repartir unas tinturas para el calor hechas especialmente, cortesía del Alchemists' Guild, pero entienda que no reemplazan una protección adecuada.
+TEXT_AKTKMB103_04382_MAXIMA_000_174	Dejo a su criterio conseguir esa protección. Ahora, vayamos al Ala Mhigan Quarter.
+TEXT_AKTKMB103_04382_MAXIMA_000_175	Mientras usted termina sus preparativos, haré que los pilotos preparen las aeronaves.
+TEXT_AKTKMB103_04382_ALISAIE_000_180	Si todavía tiene algo de qué ocuparse, ¡mejor hágalo ahora!
+TEXT_AKTKMB103_04382_THANCRED_000_185	Este abrigo es bastante calentito, pero tengo algo más grueso para ocasiones así. No hay forma de saber cuánto tiempo vamos a estar a la intemperie, y no podemos andar prendiendo fogatas a lo loco si queremos pasar desapercibidos.
+TEXT_AKTKMB103_04382_URIANGER_000_190	En los mercados de Ul'dah se venden a menudo brebajes para fortalecer la carne contra el viento y el frío, aunque de origen y eficacia dudosos.
+TEXT_AKTKMB103_04382_URIANGER_000_191	Se dice, sin embargo, que estos días el Alchemists' Guild produjo una tintura capaz de tal hazaña. Quizás los logros de sus colegas de Thavnair los impulsaron a actuar, para no quedar en ridículo.
+TEXT_AKTKMB103_04382_YSHTOLA_000_195	Es casi un estribillo que necesitamos ropa más abrigada. Quizás mi ropa actual se quede corta, cuello de piel incluido...
+TEXT_AKTKMB103_04382_GRAHATIA_000_200	Desde mi "resurrección" descuidé ampliar mi escaso guardarropa. ¿Tendremos tiempo para una escapada rápida a Old Sharlayan? Recuerdo un abrigo bastante elegante...
+TEXT_AKTKMB103_04382_ESTINIEN_000_205	¿Preparativos? Tengo mi armadura y mi lanza. ¿Qué más podría necesitar?
+TEXT_AKTKMB103_04382_RESISTANCEGATEGUARD_000_210	Creo que los demás miembros del contingente están consiguiendo provisiones para el viaje. ¿No necesita nada más?
+TEXT_AKTKMB103_04382_ALPHINAUD_000_220	Esta es nuestra última oportunidad de prepararnos antes de partir.
+TEXT_AKTKMB103_04382_THANCRED_000_221	No se preocupen por Urianger y por mí. Todavía tenemos lo que usamos antes en Garlemald.
+TEXT_AKTKMB103_04382_THANCRED_000_222	Estinien dice que bajo la armadura está bien abrigado, y como también pasó bastante tiempo en el norte hace poco, no tengo motivos para dudarlo.
+TEXT_AKTKMB103_04382_THANCRED_000_223	Casi todos los demás van a pedir prestado del depósito de la Grand Company. El resto de ustedes podría hacer lo mismo, supongo, si no les importa demasiado el estilo.
+TEXT_AKTKMB103_04382_YSHTOLA_000_224	Hmm... Sin rodeos: no me dejaría ver ni muerta con uno de esos abrigos ridículos. Si tan solo tuviera tiempo de encontrar algo de mi gusto...
+TEXT_AKTKMB103_04382_TATARU_225	(-???-)¡Atención! ¿Es el clamor de unos Scions que necesitan sastre lo que oigo?
+TEXT_AKTKMB103_04382_ALPHINAUD_000_226	¡¿P-Pero cómo?!
+TEXT_AKTKMB103_04382_TATARU_227	¡Muajaja! Tengo mis métodos. ¡Ah, sí, claro que sí!
+TEXT_AKTKMB103_04382_TATARU_228	¿Creían que podían escabullirse a Ilsabard sin decirme nada?
+TEXT_AKTKMB103_04382_TATARU_229	¡Ja! ¡A mí no se me escapa nada!
+TEXT_AKTKMB103_04382_TATARU_230	¡Y ahora se <italic(1)>van<italic(0)> a poner esta ropa que les hice, les guste o no!
+TEXT_AKTKMB103_04382_GRAHATIA_000_231	¡Nunca dejas de sorprendernos!
+TEXT_AKTKMB103_04382_GRAHATIA_000_232	Pero... ¿por qué necesitas ropa nueva tú también? Un momento, ¿¡vienes con nosotros!?
+TEXT_AKTKMB103_04382_TATARU_000_233	¿Qué? No. Claro que no, tonto. ¡Es todo en nombre de la moda! ¡Mejor dicho, de la búsqueda de la moda de la más alta calidad! Además, ¿cómo voy a esperar que otros usen mis creaciones si nunca las usé yo?
+TEXT_AKTKMB103_04382_TATARU_000_234	Ah, tenía otra cosa para contarles.
+TEXT_AKTKMB103_04382_TATARU_000_235	¡Aergmhus y Bluomwyda por fin volvieron de sus misiones en tierras lejanas!
+TEXT_AKTKMB103_04382_TATARU_000_236	Se van a quedar un tiempo en los Rising Stones, para estar atentos a lo que pase en Eorzea.
+TEXT_AKTKMB103_04382_TATARU_000_237	Como ellos van a estar a cargo del cuartel... me preguntaba... si podría dar una mano... ¿en Sharlayan?
+TEXT_AKTKMB103_04382_YSHTOLA_000_238	Ay, ¿por qué no? Puedes hacerle compañía a Krile en el Baldesion Annex.
+TEXT_AKTKMB103_04382_ALISAIE_000_239	Sí, nos encantaría tenerte allá. Y oí que Aergmhus y Bluomwyda hicieron un buen trabajo en nuestro lugar mientras estábamos en coma. Con ellos a cargo de los Rising Stones, no hay nada de qué preocuparse.
+TEXT_AKTKMB103_04382_TATARU_000_240	¡Justo lo que pensaba! Además, aunque estoy segura de que no se van a volver a desmayar (porque cierta persona que no voy a nombrar no está en condiciones de llevar sus almas a otro mundo), si <italic(1)>llegara<italic(0)> a pasar algo igual de desastroso, voy a estar en buena posición para hacer algo al respecto.
+TEXT_AKTKMB103_04382_TATARU_000_241	En fin, tengo unas cosas que atender, y después me voy para Sharlayan...
+TEXT_AKTKMB103_04382_TATARU_000_242	De verdad espero que esta ropa nueva alcance para mantenerlos abrigados en Garlemald.
+TEXT_AKTKMB103_04382_TATARU_000_243	No es mucho, pero es lo único que puedo hacer por ustedes, aparte de rezar para que vuelvan sanos y salvos. Y eso voy a hacer. Todos los días...
+TEXT_AKTKMB103_04382_ALPHINAUD_000_244	No hagamos esperar más al contingente.
+TEXT_AKTKMB103_04382_TATARU_000_245	¡Aquí tienen su ropa de invierno, hecha a mano por una servidora!

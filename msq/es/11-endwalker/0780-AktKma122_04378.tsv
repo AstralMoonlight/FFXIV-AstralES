@@ -1,0 +1,88 @@
+key	text
+TEXT_AKTKMA122_04378_SEQ_00	Thancred ya descansó y está listo para partir.
+TEXT_AKTKMA122_04378_TODO_00	Habla con el Radiant guardsman.
+TEXT_AKTKMA122_04378_TODO_01	Habla con Estinien y pídele que te acompañe.
+TEXT_AKTKMA122_04378_TODO_02	Habla con el attentive Radiant acompañad<if(gnum4,a,o)> de Estinien.
+TEXT_AKTKMA122_04378_TODO_03	Habla con el watchful Radiant acompañad<if(gnum4,a,o)> de Estinien.
+TEXT_AKTKMA122_04378_TODO_04	Habla con el vigilant Radiant acompañad<if(gnum4,a,o)> de Estinien.
+TEXT_AKTKMA122_04378_TODO_05	Habla con el Meghaduta attendant acompañad<if(gnum4,a,o)> de Estinien.
+TEXT_AKTKMA122_04378_TODO_06	Habla con Alisaie.
+TEXT_AKTKMA122_04378_ESTINIEN_000_000	Uf... Quizás cargar a todos esos Matanga fue el verdadero desafío...
+TEXT_AKTKMA122_04378_THANCRED_000_010	¿Ya descansaste lo suficiente? Nunca fuiste de quedarte quiet<if(gnum4,a,o)>. Bien: Varshahn nos pidió que fuéramos a Meghaduta apenas pudiéramos.
+TEXT_AKTKMA122_04378_THANCRED_000_011	Los demás se nos unirán allá cuando terminen de atender a los prisioneros.
+TEXT_AKTKMA122_04378_THANCRED_000_012	Ah, espera. Pensándolo mejor, tú y Estinien deberían adelantarse. Tengo que desviarme un momento al Great Work.
+TEXT_AKTKMA122_04378_THANCRED_000_013	Dejamos a G'raha al cuidado de los alquimistas, ¿sabes? Mejor ir a buscarlo antes de que lo metan en un frasco de especímenes.
+TEXT_AKTKMA122_04378_ESTINIEN_000_014	Solo tú y yo, entonces. El guardia de la puerta debería dejarnos pasar.
+TEXT_AKTKMA122_04378_THANCRED_000_020	Cuando les llevamos a G'raha a los alquimistas, se entusiasmaron no poco.
+TEXT_AKTKMA122_04378_THANCRED_000_021	Quizás fue el rescate de Nidhana lo que los alegró, pero con lo fascinados que están con Estinien, no estoy tan seguro...
+TEXT_AKTKMA122_04378_ESTINIEN_000_025	Sin la torre, supongo que levantarán el estado de alerta.
+TEXT_AKTKMA122_04378_RADIANTHOSTGATEKEEPER_000_030	¡Ah, honorables Scions! ¡Pueden entrar cuando quieran!
+TEXT_AKTKMA122_04378_RADIANTHOSTGATEKEEPER_000_031	Como no puedo dejar mi puesto, me temo que tendrán que ir por su cuenta.
+TEXT_AKTKMA122_04378_RADIANTHOSTGATEKEEPER_000_032	Si necesitan indicaciones en la ciudad, el centinela apostado en la fuente de arriba de la escalera con gusto los ayudará.
+TEXT_AKTKMA122_04378_ESTINIEN_000_040	Aunque ya estuve en Radz<-->at<-->Han, este lugar es un verdadero laberinto.
+TEXT_AKTKMA122_04378_ESTINIEN_000_041	En vez de arriesgarnos a perdernos, mejor le pedimos indicaciones a este centinela de la fuente.
+TEXT_AKTKMA122_04378_ESTINIEN_000_042	Ve adelante... y no esperes que haga de guía turístico como otros.
+TEXT_AKTKMA122_04378_SYSTEM_000_043	Estinien te acompaña. Debes tenerlo a tu lado para avanzar con los objetivos de la misión.
+TEXT_AKTKMA122_04378_SYSTEM_000_044	Puedes dejar atrás a Estinien entrando en otra zona, o hablando con él y eligiendo la opción de separarse.
+TEXT_AKTKMA122_04378_SYSTEM_000_045	Si quieres que Estinien vuelva a acompañarte, regresa y habla con él en el lugar original.
+TEXT_AKTKMA122_04378_Q1_000_050	¿Qué haces?
+TEXT_AKTKMA122_04378_A1_000_051	Hablar.
+TEXT_AKTKMA122_04378_A1_000_052	Separarse.
+TEXT_AKTKMA122_04378_A1_000_053	Nada.
+TEXT_AKTKMA122_04378_ESTINIEN_000_055	Primero deberíamos buscar al centinela frente a la fuente.
+TEXT_AKTKMA122_04378_ESTINIEN_000_056	...¿El nombre de la fuente? Ni idea. ¿Las fuentes suelen tener nombre?
+TEXT_AKTKMA122_04378_Q2_000_060	¿Seguro que quieres separarte de Estinien?
+TEXT_AKTKMA122_04378_ESTINIEN_000_061	Te perdiste, supongo. No me sorprende en este laberinto de ciudad. Mejor vuelve adonde empezamos.
+TEXT_AKTKMA122_04378_ESTINIEN_000_065	¿Ya te orientaste? Entonces vamos a Meghaduta.
+TEXT_AKTKMA122_04378_SYSTEM_000_070	Estinien todavía no llegó. Asegúrate de que esté a tu lado antes de intentar seguir.
+TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_080	Ah, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,1)>, supongo. Entiendo que viene a una audiencia con el satrap. Si necesita indicaciones para llegar a Meghaduta, con gusto se las doy.
+TEXT_AKTKMA122_04378_SYSTEM_000_081	Deberías ir acompañad<if(gnum4,a,o)> de Estinien antes de pedir indicaciones.
+TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_085	Ah, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,1)>, supongo. Entiendo que viene a una audiencia con el satrap. Si necesita indicaciones para llegar a Meghaduta, con gusto se las doy.
+TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_086	La residencia del satrap está en Dharma, la parte más alta de Radz<-->at<-->Han.
+TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_087	Para llegar, normalmente le recomendaría un camino que pasa por los bazares del norte de la ciudad. Pero por el estado de alerta, la mayoría de los negocios están cerrados por ahora, y el aetheryte está desactivado.
+TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_088	Por eso le daré un camino alternativo. Primero suba la escalera que está junto a esta fuente, y luego siga hacia la izquierda.
+TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_089	Habrá más escaleras, y al subirlas va a salir a Paksa's Path.
+TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_090	Pase por la puerta grande de la derecha y llegará a Ruveydah Fibers. Adentro va a encontrar a otro centinela que le dará más indicaciones.
+TEXT_AKTKMA122_04378_ESTINIEN_000_091	O sea, vamos hacia arriba. Parece bastante sencillo.
+TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_100	¿Quiere oír las indicaciones otra vez? Por supuesto. Para llegar a Meghaduta, primero suba la escalera que está junto a esta fuente, y luego siga hacia la izquierda.
+TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_101	Habrá más escaleras, y al subirlas va a salir a Paksa's Path.
+TEXT_AKTKMA122_04378_ALZADAALSPATHGUARD04378_000_102	Pase por la puerta grande de la derecha y llegará a Ruveydah Fibers. Adentro va a encontrar a otro centinela que le dará más indicaciones.
+TEXT_AKTKMA122_04378_A3_000_110	<colortype(548)>Hablar del portal suntuoso.<colortype(0)>
+TEXT_AKTKMA122_04378_ESTINIEN_000_115	Ya oíste al centinela. Hacia arriba.
+TEXT_AKTKMA122_04378_ESTINIEN_000_120	Ah, sí, conozco este portal. Lleva a una isla cercana. La cámara del tesoro de una de las familias más ricas de Radz<-->at<-->Han.
+TEXT_AKTKMA122_04378_ESTINIEN_000_121	Tomaron al dios de la suerte como protector, y por eso de vez en cuando abren una parte de sus bóvedas. Para que los aspirantes a cazadores de tesoros prueben su propia "suerte", o eso dicen.
+TEXT_AKTKMA122_04378_ESTINIEN_000_122	También hay cofres escondidos por todo el territorio que funcionan como portales. Encuentra uno y tendrás acceso a la bóveda.
+TEXT_AKTKMA122_04378_ESTINIEN_000_123	Algo para tener en cuenta por si te quedas sin fondos en el camino. Es una experiencia molesta, te lo digo por experiencia propia.
+TEXT_AKTKMA122_04378_RUVEYDAHFIBRESGUARD04378_000_130	Van a Meghaduta, ¿no? En ese caso...
+TEXT_AKTKMA122_04378_RUVEYDAHFIBRESGUARD04378_000_135	Van a Meghaduta, ¿no? En ese caso, sigan este pasillo a mi derecha y pasen por la puerta de arriba de la escalera.
+TEXT_AKTKMA122_04378_RUVEYDAHFIBRESGUARD04378_000_136	Van a salir a la entrada del muelle de aeronaves, donde debería haber otro centinela para ayudarlos.
+TEXT_AKTKMA122_04378_RUVEYDAHFIBRESGUARD04378_000_137	Por cierto, si suben la escalera a cualquiera de mis lados, van a encontrar los talleres de Ruveydah Fibers. Pueden mirar a los artesanos, pero cuidado de no perderse.
+TEXT_AKTKMA122_04378_RUVEYDAHFIBRESGUARD04378_000_140	Si van a Meghaduta, sigan este pasillo a mi derecha y pasen por la puerta de arriba de la escalera.
+TEXT_AKTKMA122_04378_RUVEYDAHFIBRESGUARD04378_000_141	Van a salir a la entrada del muelle de aeronaves, donde debería haber otro centinela para ayudarlos.
+TEXT_AKTKMA122_04378_A4_000_150	<colortype(548)>Hablar de los textiles vistosos.<colortype(0)>
+TEXT_AKTKMA122_04378_ESTINIEN_000_155	Qué odisea llegar a la residencia del satrap... Le vendría bien un camino más obvio, como el del Vault o el del castillo de Kugane.
+TEXT_AKTKMA122_04378_ESTINIEN_000_160	Ah, tejido de Thavnair. Difícil imaginar algo más vistoso. Diría que a Aymeric le gustaría el hilo dorado. Y el azul, claro. Le encanta el azul.
+TEXT_AKTKMA122_04378_ESTINIEN_000_161	Nunca pensé mucho en lo que me pongo. Normalmente solo llevo una muda de ropa, y si no alcanza, siempre puedo conseguir algo en el lugar.
+TEXT_AKTKMA122_04378_LANDINGGUARD04378_000_170	Si vienen por una aeronave, me temo que todos los vuelos están suspendidos hasta nuevo aviso.
+TEXT_AKTKMA122_04378_LANDINGGUARD04378_000_175	Si vienen por una aeronave, me temo que todos los vuelos están suspendidos hasta nuevo aviso.
+TEXT_AKTKMA122_04378_ESTINIEN_000_176	Así que el estado de alerta sigue vigente. Quizás sea lo mejor.
+TEXT_AKTKMA122_04378_ESTINIEN_000_177	Aparte de eso, no venimos por una aeronave: tenemos asuntos en Meghaduta.
+TEXT_AKTKMA122_04378_LANDINGGUARD04378_000_178	¡Ah, en ese caso, permítanme indicarles el camino!
+TEXT_AKTKMA122_04378_LANDINGGUARD04378_000_179	Desde aquí es bastante sencillo, en realidad. Suban esta escalera, y luego sigan derecho y crucen el puente. No tiene pérdida.
+TEXT_AKTKMA122_04378_LANDINGGUARD04378_000_180	Para llegar a Meghaduta, solo suban esta escalera, y luego sigan derecho y crucen el puente. No tiene pérdida.
+TEXT_AKTKMA122_04378_A5_000_190	<colortype(548)>Hablar de Dharma.<colortype(0)>
+TEXT_AKTKMA122_04378_ESTINIEN_000_195	Con lo confuso que es, cualquiera diría que quisieron hacer de Radz<-->at<-->Han un laberinto.
+TEXT_AKTKMA122_04378_ESTINIEN_000_196	Kugane por lo menos era plana. Si te perdías, podías subir a un lugar alto para ver cómo era el terreno.
+TEXT_AKTKMA122_04378_ESTINIEN_000_200	Ah, recuerdo haber pasado por aquí con Varshahn. Tal como estaba la situación, lamentaba no poder mostrarnos los lugares interesantes.
+TEXT_AKTKMA122_04378_ESTINIEN_000_201	La vida todavía no volvió a la normalidad aquí, pero cuando vuelva, deberías venir de visita otra vez.
+TEXT_AKTKMA122_04378_ESTINIEN_000_202	Aunque la ciudad es confusa, la comida es bastante buena. A mí me gusta el hamsa: la carne es sorprendentemente tierna y sabrosa.
+TEXT_AKTKMA122_04378_HAMSA04378_000_203	(-Hamsa irritado-)¡Cuaaac! ¡Cuaaac!
+TEXT_AKTKMA122_04378_MEGHADUTAEMPLOYEE_000_210	Saludos, y bienvenidos a Meghaduta. ¿Puedo preguntar qué los trae por aquí?
+TEXT_AKTKMA122_04378_MEGHADUTAEMPLOYEE_000_215	Saludos, y bienvenidos a Meghaduta. ¿Puedo preguntar qué los trae por aquí?
+TEXT_AKTKMA122_04378_ESTINIEN_000_216	Somos miembros de los Scions of the Seventh Dawn, y venimos por invitación de Su Excelencia.
+TEXT_AKTKMA122_04378_MEGHADUTAEMPLOYEE_000_217	Ah, por supuesto. Los estábamos esperando.
+TEXT_AKTKMA122_04378_MEGHADUTAEMPLOYEE_000_218	Los llevaré a la sala de audiencias, si son tan amables de seguirme.
+TEXT_AKTKMA122_04378_ALPHINAUD_000_220	Disculpe otra vez. Espero que no l<if(gnum4,a,o)> hayamos obligado a terminar su conversación antes de tiempo.
+TEXT_AKTKMA122_04378_ALISAIE_000_230	Entonces, ¿de qué hablaban usted y Vrtra?
+TEXT_AKTKMA122_04378_ALISAIE_000_231	...¿De nada? Muy bien, si usted lo dice.
+TEXT_AKTKMA122_04378_ALISAIE_000_232	Los demás se adelantaron al High Crucible. Alcancémoslos.
