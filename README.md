@@ -99,7 +99,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | **Endwalker** | 6.0 | Historia principal, de "The Next Ship to Sail" a "Endwalker" | ![Traducido][ok] |
 | | | Raid de 8: Pandæmonium (Asphodelos, Abyssos, Anabaseios) | ![Traducido][ok] |
 | | | Raid de alianza (24): Myths of the Realm | ![Pendiente][no] |
-| **Post Endwalker** | 6.1–6.58 | Historia principal | ![Pendiente][no] |
+| **Post Endwalker** | 6.1–6.58 | Historia principal, de "Newfound Adventure" a "The Coming Dawn" | ![Traducido][ok] |
 | **Dawntrail** | 7.0 | Historia principal | ![Pendiente][no] |
 | | | Raid de 8: Arcadion (Light-heavyweight, Cruiserweight, Heavyweight) | ![Pendiente][no] |
 | | | Raid de alianza (24): Echoes of Vana'diel | ![Pendiente][no] |
