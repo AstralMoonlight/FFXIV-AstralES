@@ -1,0 +1,115 @@
+key	text
+TEXT_AKTKMA104_04360_SEQ_00	Alisaie parece necesitar con urgencia un descanso de tanto estudio.
+TEXT_AKTKMA104_04360_TODO_00	Habla con Alisaie.
+TEXT_AKTKMA104_04360_TODO_01	Habla con los clientes del Last Stand acompañad<if(gnum4,a,o)> de Alisaie.
+TEXT_AKTKMA104_04360_TODO_02	Habla con Dickon acompañad<if(gnum4,a,o)> de Alisaie.
+TEXT_AKTKMA104_04360_TODO_03	Pon el plato correcto en la mesa del primer cliente.
+TEXT_AKTKMA104_04360_TODO_04	Pon el plato correcto en la mesa del segundo cliente.
+TEXT_AKTKMA104_04360_TODO_05	Pon el plato correcto en la mesa del tercer cliente.
+TEXT_AKTKMA104_04360_TODO_06	Habla con Alisaie.
+TEXT_AKTKMA104_04360_TODO_07	Vuelve a hablar con Alisaie.
+TEXT_AKTKMA104_04360_ALISAIE_000_000	¿Está list<if(gnum4,a,o)> para una pausa para el té, <split(<string(gstr1)>, ,1)>? Yo sí.
+TEXT_AKTKMA104_04360_ALISAIE_000_001	En serio, se me van a calcificar el cuello y los hombros si no estiro las piernas y camino un poco...
+TEXT_AKTKMA104_04360_ALISAIE_000_002	Conoce el Last Stand, allá abajo en el puerto, ¿no? Venga a verme cerca de las mesas de afuera y le invito un café. ¡Es bastante bueno!
+TEXT_AKTKMA104_04360_ALISAIE_000_010	Tan lleno como siempre, por lo que veo. Qué sharlayano que no haya surgido ningún otro café gourmet para competir por los clientes...
+TEXT_AKTKMA104_04360_ALISAIE_000_011	De hecho, esta gente me da una idea: antes de pedir, ¿por qué no hacemos unas preguntas y tanteamos el ánimo de la ciudad?
+TEXT_AKTKMA104_04360_ALISAIE_000_012	Me interesa oír qué dice el ciudadano medio de los Telophoroi. Quizás hasta aprendamos algo nuevo. Vale la pena intentarlo, ¿no cree?
+TEXT_AKTKMA104_04360_SYSTEM_000_013	Alisaie te acompaña. Debes tenerla a tu lado para avanzar con los objetivos de la misión.
+TEXT_AKTKMA104_04360_SYSTEM_000_014	Puedes dejar atrás a Alisaie entrando en otra zona, o hablando con ella y eligiendo la opción de separarse.
+TEXT_AKTKMA104_04360_SYSTEM_000_015	Si quieres que Alisaie vuelva a acompañarte, regresa y habla con ella en el lugar original.
+TEXT_AKTKMA104_04360_Q1_000_020	¿Qué haces?
+TEXT_AKTKMA104_04360_A1_000_021	Hablar.
+TEXT_AKTKMA104_04360_A1_000_022	Separarse.
+TEXT_AKTKMA104_04360_A1_000_023	Nada.
+TEXT_AKTKMA104_04360_ALISAIE_000_025	Alguien aquí en el café debería estar dispuesto a hablar con nosotros. ¡Preguntemos!
+TEXT_AKTKMA104_04360_Q2_000_030	¿Seguro que quieres separarte de Alisaie?
+TEXT_AKTKMA104_04360_ALISAIE_000_031	No hay descanso para los héroes, ¿eh? Haga lo que tenga que hacer. Le espero en el Last Stand.
+TEXT_AKTKMA104_04360_ALISAIE_000_035	Bien. ¿Está list<if(gnum4,a,o)> para seguir donde nos quedamos?
+TEXT_AKTKMA104_04360_SYSTEM_000_040	Alisaie todavía no llegó. Asegúrate de que esté a tu lado antes de intentar seguir.
+TEXT_AKTKMA104_04360_SYSTEM_000_049	Alisaie quiere oír lo que dicen los ciudadanos. Llévala contigo antes de intentar entablar conversación con ellos.
+TEXT_AKTKMA104_04360_HILDOISE_000_050	¿Sí? No creo que nos conozcamos...
+TEXT_AKTKMA104_04360_ALISAIE_000_051	Disculpe la interrupción, pero esperábamos que pudiera contarnos qué piensa de los Telophoroi y sus planes inconcebibles...
+TEXT_AKTKMA104_04360_HILDOISE_000_052	Dios mío, pero si es la joven señorita Leveilleur.
+TEXT_AKTKMA104_04360_HILDOISE_000_053	Lo siento, pero trabajo en las oficinas del Forum, y si al Maestro Fourchenault le llegara el rumor de que la estoy ayudando...
+TEXT_AKTKMA104_04360_ALISAIE_000_054	Entiendo... Perdone la molestia.
+TEXT_AKTKMA104_04360_HILDOISE_000_060	No quiero ofender, pero su acompañante es una figura conocida en la ciudad, y nunca se sabe quién puede estar mirando...
+TEXT_AKTKMA104_04360_PIRONDIERRE_000_065	¿Qué, qué... qué pasa? ¿Un hombre no puede disfrutar de un momento de descanso en privado? Si buscan compartir mesa, les pido respetuosamente que busquen en otra parte.
+TEXT_AKTKMA104_04360_ALISAIE_000_066	Me malinterpreta, señor; solo queríamos saber si había oído hablar de los Telophoroi. Esos enemigos de la paz prometieron acabar con todo lo que queremos, y...
+TEXT_AKTKMA104_04360_PIRONDIERRE_000_067	Un momento. Usted es la chica de la casa Leveilleur, ¿no?
+TEXT_AKTKMA104_04360_PIRONDIERRE_000_068	Y <if(gnum4,esta mujer,este hombre)> que la acompaña es obviamente extranjer<if(gnum4,a,o)>. Hmph. Oí que la desheredaron por ayudar a los de afuera a satisfacer sus caprichos bárbaros, y aquí está, confirmando el rumor...
+TEXT_AKTKMA104_04360_PIRONDIERRE_000_069	Le agradeceré que me deje en paz. No tengo nada que decirle a gente como ustedes.
+TEXT_AKTKMA104_04360_ALISAIE_000_070	¡Vaya! Debo disculparme. Fue una tontería esperar una pizca de cortesía de alguien tan iluminado. Vamos, <split(<string(gstr1)>, ,1)>.
+TEXT_AKTKMA104_04360_PIRONDIERRE_000_075	¿No fui claro? Váyanse y déjenme comer en paz.
+TEXT_AKTKMA104_04360_ALISAIE_000_080	Bueno, los clientes no colaboraron para nada. Quizás el personal esté más dispuesto a contestar nuestras preguntas.
+TEXT_AKTKMA104_04360_DICKON_000_090	¡Bienvenid<if(gnum4,a,o)>, <if(gnum4,señora,señor)>! ¿Qué le puedo ofrecer hoy?
+TEXT_AKTKMA104_04360_DICKON_000_091	Un momento, ¿esa que veo ahí es la señorita Alisaie? ¡Caramba, cuánto tiempo!
+TEXT_AKTKMA104_04360_ALISAIE_000_092	Demasiado...
+TEXT_AKTKMA104_04360_ALISAIE_000_093	Le presento a Dickon, el dueño del Last Stand. Yo solía venir a su café de vez en cuando, entre clase y clase en el Studium.
+TEXT_AKTKMA104_04360_DICKON_000_094	Parece que hubiera pasado una eternidad. Recuerdo haber oído que usted y el señorito Alphinaud habían zarpado hacia Eorzea, pero después nunca volvieron.
+TEXT_AKTKMA104_04360_DICKON_000_095	Últimamente se comenta que su padre los desheredó a los dos. ¿Está todo bien en casa?
+TEXT_AKTKMA104_04360_ALISAIE_000_096	Es... complicado. Y no esperaba que unos completos desconocidos estuvieran tan al tanto de nuestra situación tan rápido. Parece que todos tienen una opinión...
+TEXT_AKTKMA104_04360_DICKON_000_097	Bueno, <italic(1)>es<italic(0)> la casa Leveilleur. Por muy discreto que haya sido el Maestro Fourchenault, lo que hace su familia nunca se mantiene en secreto por mucho tiempo.
+TEXT_AKTKMA104_04360_DICKON_000_098	Tal como están las cosas, ¿qué la trae de vuelta a la ciudad justo ahora?
+TEXT_AKTKMA104_04360_ALISAIE_000_099	Tenemos preguntas, y solo Sharlayan tiene las respuestas. Dígame, maestro Dickon: ¿oyó algo sobre un apocalipsis llamado los Días Finales?
+TEXT_AKTKMA104_04360_DICKON_000_100	¿Qué, como el fin del mundo? Nada de eso, me temo. ¿Y eso es lo que vino a buscar? ¿Información sobre ese... apocalipsis?
+TEXT_AKTKMA104_04360_ALISAIE_000_101	Sí, todo lo que podamos averiguar. Por desgracia, sus clientes no parecen dispuestos a hablar conmigo.
+TEXT_AKTKMA104_04360_DICKON_000_102	Ojalá pudiera hacer algo más para ayudar...
+TEXT_AKTKMA104_04360_DICKON_000_103	Hm, aunque quizás sí pueda. Usted está de visita en Sharlayan, ¿no?
+TEXT_AKTKMA104_04360_DICKON_000_104	Entonces pocos conocerán su cara. Podríamos hacerl<if(gnum4,a,o)> pasar por mesero sin que nadie se dé cuenta.
+TEXT_AKTKMA104_04360_DICKON_000_105	Acabamos de preparar unos pedidos. Converse un poco mientras deja la comida, y quizás consiga las respuestas que busca.
+TEXT_AKTKMA104_04360_ALISAIE_000_106	No es mala idea. Me cuesta pedírselo, pero... ¿qué le parece?
+TEXT_AKTKMA104_04360_DICKON_000_107	¡Así me gusta! Preste atención, que le explico adónde va cada uno de estos platos.
+TEXT_AKTKMA104_04360_DICKON_000_108	El juego de té es para el grupo conversador sentado a la orilla del agua.
+TEXT_AKTKMA104_04360_DICKON_000_109	El omelette es para una de nuestras clientas habituales, una Highlander llamada Gisla. Está sentada en una mesa de afuera con una amiga.
+TEXT_AKTKMA104_04360_DICKON_000_110	Detrás de ellas debería ver a un señor Miqo'te. Él pidió la langosta al horno.
+TEXT_AKTKMA104_04360_DICKON_000_111	¿Entendió todo? Si no está segur<if(gnum4,a,o)>, pregúnteme y se lo vuelvo a explicar. ¡Suerte!
+TEXT_AKTKMA104_04360_ALISAIE_000_120	Creo que le irá mejor si me quedo aquí, fuera de la vista. Averigüe lo que pueda, y le estará esperando una taza de café caliente.
+TEXT_AKTKMA104_04360_DICKON_000_125	¿Algún problema? Recuerde: el juego de té va para el grupo junto al agua.
+TEXT_AKTKMA104_04360_DICKON_000_126	El omelette es para Gisla, una mujer Highlander sentada afuera con su amiga.
+TEXT_AKTKMA104_04360_DICKON_000_127	Y por último, nuestra famosa langosta va para el hombre Miqo'te sentado justo detrás de esas dos señoras.
+TEXT_AKTKMA104_04360_Q3_000_130	¿Qué sirves?
+TEXT_AKTKMA104_04360_A3_000_131	El juego de té.
+TEXT_AKTKMA104_04360_A3_000_132	El omelette.
+TEXT_AKTKMA104_04360_A3_000_133	La langosta al horno.
+TEXT_AKTKMA104_04360_A3_000_134	Cancelar.
+TEXT_AKTKMA104_04360_Q4_000_135	¿Retirar el plato?
+TEXT_AKTKMA104_04360_HERMENJART_000_136	¡Ay, mi juego de té! ¡Qué lindo, gracias!
+TEXT_AKTKMA104_04360_HERMENJART_000_137	...¿Los Telopho-qué? Lo siento, nunca oí hablar de ellos, ni de sus "días finales".
+TEXT_AKTKMA104_04360_HERMENJART_000_138	Mis amigos y yo estamos algo desinformados en cuanto a la actualidad. Ahora, si quisiera oír sobre las prácticas rituales arcanas de la Sexta Era Astral, comunes o esotéricas, con gusto le hablaría hasta cansarl<if(gnum4,a,o)>...
+TEXT_AKTKMA104_04360_HERMENJART_000_139	¡Disculpe, yo no pedí esto! ¿Dónde está mi juego de té?
+TEXT_AKTKMA104_04360_HERMENJART_000_140	Usted trabaja aquí, ¿no? Sigo esperando ese juego de té tan encantador...
+TEXT_AKTKMA104_04360_HERMENJART_000_141	Ejem, yo solo pedí el <italic(1)>juego de té<italic(0)>. No puedo comerme esto también, así que, si fuera tan amable...
+TEXT_AKTKMA104_04360_HERMENJART_000_142	Siempre lo pido cuando discuto teoría arcana con mis colegas. ¡Es mi capricho favorito!
+TEXT_AKTKMA104_04360_Q5_000_150	¿Qué sirves?
+TEXT_AKTKMA104_04360_A5_000_151	El omelette.
+TEXT_AKTKMA104_04360_A5_000_152	La langosta al horno.
+TEXT_AKTKMA104_04360_A5_000_153	Cancelar.
+TEXT_AKTKMA104_04360_GISLA_000_154	¡Ah, por fin! ¡Dos, cuatro, seis, ocho!♪<br>¡A comer, que se hace tarde!♪
+TEXT_AKTKMA104_04360_GISLA_000_155	¿Qué? ¿Los Telophoroi? ¡Ah, sí! Recuerdo haber visto el nombre en la última gaceta.
+TEXT_AKTKMA104_04360_GISLA_000_156	Eso y alguna gran proclama sobre el fin de los tiempos. La misma guerra sin sentido de siempre. ¿Cuándo se van a cansar esos tontos de derramar la sangre de los demás?
+TEXT_AKTKMA104_04360_GISLA_000_157	Mejor no meterse, digo yo. ¡El Forum tomó la decisión correcta, y apoyo totalmente nuestra decisión de seguir siendo neutrales!
+TEXT_AKTKMA104_04360_GISLA_000_158	¿Esto corre por cuenta de la casa? Porque no pienso pagar una langosta al horno que no pedí. A ver, ¿dónde está mi omelette?
+TEXT_AKTKMA104_04360_GISLA_000_159	¡Dios santo, me muero de hambre! Nunca vi que el servicio fuera tan lento...
+TEXT_AKTKMA104_04360_GISLA_000_160	Sé que no pedí esto, pero empiezo a desear haberlo hecho. Huele divino...
+TEXT_AKTKMA104_04360_GISLA_000_161	El Last Stand de verdad hace los mejores omelettes del mundo. El huevo más esponjoso. La salsa más ácida. ¡Podría comerlo todos los días durante un año!
+TEXT_AKTKMA104_04360_Q6_000_170	¿Qué sirves?
+TEXT_AKTKMA104_04360_A6_000_171	La langosta al horno.
+TEXT_AKTKMA104_04360_A6_000_172	Una charla ingeniosa con una sonrisa.
+TEXT_AKTKMA104_04360_A6_000_173	Cancelar.
+TEXT_AKTKMA104_04360_SMITUTIA_000_174	¡Por fin, la langosta al horno es mía! No tiene idea de cuánto tiempo ahorré, me privé y sufrí para poder pagar este plato celestial...
+TEXT_AKTKMA104_04360_SMITUTIA_000_175	¿Los Días Finales? Es la primera vez que oigo hablar de eso.
+TEXT_AKTKMA104_04360_SMITUTIA_000_176	Aunque eso <italic(1)>explicaría<italic(0)> por qué mi amigo anda tan atareado. Debe de ser una época muy ocupada para los gleaners.
+TEXT_AKTKMA104_04360_SMITUTIA_000_177	¿Hm? ¿No sabe qué es un gleaner? Son... coleccionistas, por así decirlo. Viajan por el mundo consiguiendo cosas que no tenemos aquí en Sharlayan: libros de valor incalculable, especímenes vivos poco comunes, y cosas así.
+TEXT_AKTKMA104_04360_SMITUTIA_000_178	Se llaman así por la gente que va detrás de los segadores en el campo, recogiendo cada grano que quedó. Sí, según dicen todos, es un oficio de lo más minucioso y exigente.
+TEXT_AKTKMA104_04360_SMITUTIA_000_179	Si esos Telophoroi cumplen sus audaces amenazas, muchas rarezas sin catalogar podrían perderse para siempre. ¿Por qué otro motivo andarían los gleaners de un lado a otro tan frenéticos?
+TEXT_AKTKMA104_04360_SMITUTIA_000_180	Mire el puerto y verá a qué me refiero: se pasan el día trayendo cargamentos desde los muelles. Nunca había habido tanto ajetreo. No así.
+TEXT_AKTKMA104_04360_SMITUTIA_000_181	Eh, no hace falta que me adule, ¿sabe? Ya pedí una de las cosas más caras del menú.
+TEXT_AKTKMA104_04360_SMITUTIA_000_182	Dios, qué expectativa... ¡Dicen que se deshace en la boca como el asado más suculento jamás preparado!
+TEXT_AKTKMA104_04360_SMITUTIA_000_183	Quería probar este plato desde que lo vi servido en otra mesa. ¡Ah, solo el aroma valió cada gil que junté!
+TEXT_AKTKMA104_04360_DICKON_000_190	¡Espero que usted y la señorita Alisaie hayan conseguido lo que necesitaban! ...Debe de tenerle cariño, ¿eh? Nunca la había visto traer a nadie al café.
+TEXT_AKTKMA104_04360_ALISAIE_000_200	¿Algún problema con los clientes? ¿Consiguió que alguien hablara?
+TEXT_AKTKMA104_04360_ALISAIE_000_201	Interesante... No parecen saber nada de los Días Finales, aparte de las vagas noticias que publiquen las gacetas.
+TEXT_AKTKMA104_04360_ALISAIE_000_202	Ni siquiera Dickon tenía nada que ofrecer, y es la mejor fuente de chismes de la ciudad. Hmmm... Si el Forum de verdad tiene un saber secreto, hizo un trabajo impresionante para que nadie lo susurre al oído equivocado.
+TEXT_AKTKMA104_04360_ALISAIE_000_203	En fin, ¡gracias por hacer tan bien el papel! Tome: la taza de café que le prometí.
+TEXT_AKTKMA104_04360_ALISAIE_000_204	Pero disfrutemos las bebidas en otro lugar, ¿le parece? Quizás detrás del peristilo, lejos de los chismosos y sus lenguas sueltas...
+TEXT_AKTKMA104_04360_ALISAIE_000_210	Sí, aquí estaremos bien. Lejos del viento, y lejos de la vista.

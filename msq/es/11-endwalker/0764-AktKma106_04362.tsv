@@ -1,0 +1,78 @@
+key	text
+TEXT_AKTKMA106_04362_SEQ_00	Krile parece perdida en sus pensamientos.
+TEXT_AKTKMA106_04362_TODO_00	Habla con Erenville.
+TEXT_AKTKMA106_04362_TODO_01	Busca ratones canosos y derrota a los enemigos que aparezcan.
+TEXT_AKTKMA106_04362_TODO_02	Atrapa al ratón canoso.
+TEXT_AKTKMA106_04362_TODO_03	Busca al ratón canoso y derrota a los enemigos que aparezcan.
+TEXT_AKTKMA106_04362_TODO_04	Usa el saco para ratas para atrapar al ratón canoso.
+TEXT_AKTKMA106_04362_TODO_05	Busca al ratón canoso y usa el saco para ratas para atraparlo.
+TEXT_AKTKMA106_04362_TODO_06	Entrégale a Erenville el saco para ratas que se retuerce.
+TEXT_AKTKMA106_04362_TODO_07	Habla con Alphinaud.
+TEXT_AKTKMA106_04362_ERENVILLE_000_000	Esas bestezuelas son rapidísimas y el doble de difíciles de atrapar. Supongo que mejor empiezo a buscar...
+TEXT_AKTKMA106_04362_KRILE_000_010	Nos convendría saber más de qué, concretamente, les encargan a los gleaners, y quién se los encarga.
+TEXT_AKTKMA106_04362_KRILE_000_011	Si te animas, <split(<string(gstr1)>, ,1)>, tengo una idea...
+TEXT_AKTKMA106_04362_KRILE_000_012	¿No te dijo uno de los gleaners algo de unas marmotas que se escaparon?
+TEXT_AKTKMA106_04362_KRILE_000_013	Quizás si lo ayudaras a atrapar a esas criaturas, estaría más dispuesto a una conversación más amistosa y <italic(1)>esclarecedora<italic(0)>...
+TEXT_AKTKMA106_04362_KRILE_000_014	Mientras tanto, voy a usar mis encantos con este gleaner de aquí. Después comparamos notas. ¡Buena caza!
+TEXT_AKTKMA106_04362_KRILE_000_020	¡Perdón por molestarlo! Tengo que entregar este informe, y rápido: ya está un poco atrasado. ¿Me podría recordar más o menos en qué fecha se convocó al gremio para ayudar con esta última operación?
+TEXT_AKTKMA106_04362_ERENVILLE_000_030	¿Quieres ayudarme a encontrar las marmotas? No tengo nada adecuado para pagarte, pero si te ofreces de buena fe, la ayuda es bienvenida.
+TEXT_AKTKMA106_04362_ERENVILLE_000_031	Me llamo Erenville, amig<if(gnum4,a,o)>. Especialista en la recolección de especímenes vivos.
+TEXT_AKTKMA106_04362_ERENVILLE_000_032	Dicho eso, la captura de estas marmotas de Nagxia es una prueba que no tengo ganas de repetir. "Ratones canosos", les dicen.
+TEXT_AKTKMA106_04362_ERENVILLE_000_033	Por suerte, por ahora no hay otras especies de marmota en este nivel, así que no deberíamos confundir a nuestras pequeñas fugitivas. Si atrapas alguna, métela en este saco. Con cuidado, claro.
+TEXT_AKTKMA106_04362_ERENVILLE_000_034	¿Por dónde empezar, te preguntas? No vi ninguna correteando por aquí, así que vamos a tener que ampliar la búsqueda al bosque de los alrededores.
+TEXT_AKTKMA106_04362_ERENVILLE_000_035	Mantente alerta. Allá afuera hay bestias que no dudarían en cazar a una marmota... o a <italic(1)>ti<italic(0)>.
+TEXT_AKTKMA106_04362_ERENVILLE_000_036	Yo busco entre los árboles del oeste. La parte este del bosque es toda tuya. Suerte.
+TEXT_AKTKMA106_04362_MARMOTA04361_000_040	\<pío>
+TEXT_AKTKMA106_04362_MARMOTA04361_000_050	\<pío> \<chillido>
+TEXT_AKTKMA106_04362_SYSTEM_000_051	Apenas preparas el saco, el ratón canoso sale disparado hacia la maleza...
+TEXT_AKTKMA106_04362_MARMOTA04361_000_060	\<pío>
+TEXT_AKTKMA106_04362_MARMOTA04361_000_061	\<chillido>
+TEXT_AKTKMA106_04362_SYSTEM_000_062	El roedor esquiva tus manos con agilidad antes de volver a desaparecer entre los árboles...
+TEXT_AKTKMA106_04362_MARMOTA04361_000_070	\<pío>
+TEXT_AKTKMA106_04362_MARMOTA04361_000_071	\<chillido> \<chillido>
+TEXT_AKTKMA106_04362_SYSTEM_000_072	Esta vez, más preparad<if(gnum4,a,o)> para su velocidad, ¡consigues cerrar el saco sobre tu escurridiza presa!
+TEXT_AKTKMA106_04362_ERENVILLE_000_080	¿Cómo te fue? Yo encontré a tres de la manada, así que falta una...
+TEXT_AKTKMA106_04362_ERENVILLE_000_081	Ah, ahí está la marmota que faltaba.
+TEXT_AKTKMA106_04362_ERENVILLE_000_082	Espera aquí un momento mientras pongo a nuestras amigas en una jaula.
+TEXT_AKTKMA106_04362_ERENVILLE_000_083	Por suerte, las marmotas parecen estar ilesas. Aguantaron bien el aislamiento, pero es demasiado pronto para soltarlas en el hábitat.
+TEXT_AKTKMA106_04362_ERENVILLE_000_084	Qué bueno que pudimos volver a atraparlas tan rápido. Te lo agradezco.
+TEXT_AKTKMA106_04362_Q1_000_085	¿Qué dices?
+TEXT_AKTKMA106_04362_A1_000_086	¿Quién te encargó atraparlas, para empezar?
+TEXT_AKTKMA106_04362_A1_000_087	¿Qué vas a hacer con las marmotas ahora?
+TEXT_AKTKMA106_04362_ERENVILLE_000_088	Pues la autoridad a cargo de Labyrinthos, ahora y para siempre. Los mismos funcionarios que nos tienen trabajando día y noche últimamente: los honorables miembros del Forum, ¿quién más?
+TEXT_AKTKMA106_04362_ERENVILLE_000_089	Aptas para el consumo y fáciles de criar: esas eran las dos condiciones que me dieron para los animales que me mandaron conseguir.
+TEXT_AKTKMA106_04362_ERENVILLE_000_090	Eso lo decide el Forum. Al fin y al cabo, es la autoridad que dirige Labyrinthos, y este trabajo era solo una pequeña parte de ese gran inventario suyo.
+TEXT_AKTKMA106_04362_ERENVILLE_000_091	Aptas para el consumo y fáciles de criar: esas eran las dos condiciones que me dieron para los animales que me mandaron conseguir.
+TEXT_AKTKMA106_04362_ERENVILLE_000_092	No sé qué planea el Forum para estas criaturas, pero por lo menos dudo que las sirvan para la cena hoy o mañana.
+TEXT_AKTKMA106_04362_ALISAIE_000_093	Aquí está, <split(<string(gstr1)>, ,1)>.
+TEXT_AKTKMA106_04362_KRILE_000_094	¿Este es el gleaner que mencionaste? ¿El que buscaba unas marmotas perdidas?
+TEXT_AKTKMA106_04362_ERENVILLE_000_095	Interesante compañía tienes, amig<if(gnum4,a,o)>. ¿Y ustedes quiénes son?
+TEXT_AKTKMA106_04362_KRILE_000_096	Soy Krile, de los Students of Baldesion. Los demás son mis colegas.
+TEXT_AKTKMA106_04362_KRILE_000_097	A decir verdad, las decisiones recientes del Forum no nos convencen del todo. Por eso bajamos a Labyrinthos: esperábamos que, viendo esas decisiones puestas en práctica, podríamos entender mejor sus motivos.
+TEXT_AKTKMA106_04362_ERENVILLE_000_098	Sabio y práctico. Nunca está de más intentar ampliar la perspectiva, ¿no?
+TEXT_AKTKMA106_04362_ERENVILLE_000_099	En fin, el deber me llama: hay otros animales que atrapar y recintos que vaciar. Otra vez, lamento no poder ofrecerte más por tu ayuda.
+TEXT_AKTKMA106_04362_KRILE_000_100	¿Averiguaste algo nuevo con tu amigo?
+TEXT_AKTKMA106_04362_KRILE_000_101	Así que confirmamos que la orden de esta ambiciosa operación vino directamente del Forum. Pero a los gleaners no les informaron su propósito...
+TEXT_AKTKMA106_04362_KRILE_000_102	Diría que eso encaja con todo lo que oímos hasta ahora.
+TEXT_AKTKMA106_04362_ALPHINAUD_000_103	También averiguamos cuándo empezó la operación. El Forum se puso en contacto con el gremio de los gleaners y puso a su gente a trabajar en esta gran tarea unos cuatro días después de que los Telophoroi hicieran su escalofriante declaración.
+TEXT_AKTKMA106_04362_ALPHINAUD_000_104	Como viajeros experimentados, los gleaners están al tanto por necesidad de las noticias de todos los rincones del mundo. Por eso me inclino a confiar en que su cronología es precisa.
+TEXT_AKTKMA106_04362_YSHTOLA_000_105	En conjunto, da la clara impresión de que esta empresa fue algo repentino e inesperado...
+TEXT_AKTKMA106_04362_YSHTOLA_000_106	Pero me cuesta creer que una reestructuración tan completa de Labyrinthos y sus archivos se haya podido planear en tan poco tiempo.
+TEXT_AKTKMA106_04362_YSHTOLA_000_107	No, este plan se venía preparando desde hace mucho; solo esperaban el momento justo para ponerlo en marcha.
+TEXT_AKTKMA106_04362_ALISAIE_000_108	¿Y la declaración de los Telophoroi fue lo que lo puso todo en marcha?
+TEXT_AKTKMA106_04362_YSHTOLA_000_109	Parece probable. Pero no saquemos conclusiones apresuradas todavía.
+TEXT_AKTKMA106_04362_YSHTOLA_000_110	Por ahora, sugiero que investiguemos Labyrinthos más a fondo. Cuantas más instalaciones visitemos, más piezas del rompecabezas podremos encontrar.
+TEXT_AKTKMA106_04362_KRILE_000_111	En ese caso, ¿qué tal si vamos al Archeion? Desde ahí podemos llegar al nivel inf-
+TEXT_AKTKMA106_04362_ALISAIE_000_112	¡Krile! ¿¡Qué te pasa!?
+TEXT_AKTKMA106_04362_KRILE_000_113	Estoy bien... de verdad. La bajada repentina me dejó con un poco de dolor de cabeza, nada más.
+TEXT_AKTKMA106_04362_KRILE_000_114	Nada que me impida seguir adelante. ¡Vamos, entonces!
+TEXT_AKTKMA106_04362_ALPHINAUD_000_115	Por lo menos permítame ir adelante. Estoy casi seguro de recordar el camino al Archeion.
+TEXT_AKTKMA106_04362_ALPHINAUD_000_116	Seguimos el camino hacia el este, por el bosque donde usted perseguía a ese ratón... ¿o era una marmota? En fin, ¡hay que cuidarse de los trolls!
+TEXT_AKTKMA106_04362_ALISAIE_000_120	¿Le agarró la neblina en el camino? Los rociadores mantienen el aire húmedo, para que el hábitat se sienta lo más parecido posible a un bosque natural.
+TEXT_AKTKMA106_04362_YSHTOLA_000_125	Este es el archivo de materiales más importante de Sharlayan. Me encantaría explorar sus tesoros estante por estante, pero me temo que no tenemos tiempo para esos lujos.
+TEXT_AKTKMA106_04362_KRILE_000_130	¡No te preocupes por mí, estoy sana y fuerte! De hecho, empiezo a sospechar que...
+TEXT_AKTKMA106_04362_KRILE_000_131	...No, hablemos de esto después. La investigación exige toda nuestra atención.
+TEXT_AKTKMA106_04362_ALPHINAUD_000_140	He aquí el Archeion. Así como el Noumenon es el archivo literario de Sharlayan, esta estructura alberga la riqueza de datos materiales de la ciudad.
+TEXT_AKTKMA106_04362_ALPHINAUD_000_141	La arquitectura también es parecida. Este edificio que ve es solo la entrada superior: un acceso a las bóvedas talladas en el propio acantilado.
+TEXT_AKTKMA106_04362_ALPHINAUD_000_142	En esas enormes salas se guardan innumerables muestras y especímenes, además de los registros detallados que los describen.
+TEXT_AKTKMA106_04362_ALPHINAUD_000_143	Por así decirlo, el Archeion contiene una historia física de la dedicación inquebrantable de Sharlayan a acumular saber.
