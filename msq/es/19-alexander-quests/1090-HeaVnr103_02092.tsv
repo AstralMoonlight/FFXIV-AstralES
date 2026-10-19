@@ -1,0 +1,46 @@
+key	text
+TEXT_HEAVNR103_02092_SEQ_00	A juzgar por el brillo en los ojos de Biggs, Cid tiene un plan.
+TEXT_HEAVNR103_02092_SEQ_01	Cid te revela que algo del plan de los Illuminati lo tenía intrigado: su decisión de enviar comunicaciones cifradas que revelan el secreto para entrar a Gordias. ¿A quién iban dirigidos esos mensajes? La respuesta, concluye, es un espía: un agente que necesita una forma de volver a entrar a la fortaleza. Por eso, sigue, ordenó despejar la zona alrededor de la mano del primal, con la esperanza de que algún agente de los Illuminati se delate. Momentos después, a Wedge le avisan que vieron a Brayflox entrar al coloso. Solo puedes concluir que no es quien parece. Únete a Cid y a Mide para perseguir a la impostora dentro del gigante.<br><br>※Se puede entrar a The Arm of the Father mediante el Duty Finder.
+TEXT_HEAVNR103_02092_SEQ_02	Perseguiste a la espía a través de Gordias. Ahora síguela hasta la zona siguiente.
+TEXT_HEAVNR103_02092_SEQ_03	Antes de que puedas atrapar a la espía, Quickthinx Allthoughts y sus guardias salen de un pasillo cercano y la acribillan. Sin el menor rastro de remordimiento, el Gran Maestro de los Illuminati anuncia que estuvo buscando la "pieza que falta" para hacer perfecto el mundo, y Cid le responde que su mundo perfecto no será más que una estrella muerta. Por desgracia, ninguna palabra apartará a los Illuminati de su camino, y los goblins se marchan pronto a poner en marcha su plan...<br><br>Al notar la frustración de Cid, Mide revela que sabe cómo apagar el núcleo del primal, y Roundrox agrega que puede ayudarlos a ubicarlo. Así que Cid te pide que salgas y te prepares para lo que promete ser una misión movida. Reúnete con Mide en Bigwest Shortstop y hablen de cómo seguir.
+TEXT_HEAVNR103_02092_SEQ_04	Mide reafirma lo que ya sabes: hay que detener a los Illuminati y a su primal cueste lo que cueste. Prepárate para la batalla que se viene y avanza hacia Gordias cuando estés <if(gnum4,lista,listo)>.
+TEXT_HEAVNR103_02092_TODO_00	Entra a The Arm of the Father.
+TEXT_HEAVNR103_02092_TODO_01	Entra a The Arm of the Father.
+TEXT_HEAVNR103_02092_TODO_02	Habla con Mide.
+TEXT_HEAVNR103_02092_BIGGS_000_000	Tenemos un problema, <split(<string(gstr1)>, ,1)>, pero no te preocupes: el jefe tiene un plan.
+TEXT_HEAVNR103_02092_BIGGS_100_000	Hablando del rey de Roma... ¡Jefe! ¡Aquí!
+TEXT_HEAVNR103_02092_CID_000_001	Ya estamos todos, por lo que veo. Bien. Hace rato que algo me daba vueltas en la cabeza, <split(<string(gstr1)>, ,1)>, y por fin me di cuenta de qué es. Tiene que ver con las comunicaciones que interceptó Wedge.
+TEXT_HEAVNR103_02092_CID_000_002	Veamos: sabemos que los Illuminati lograron instalar una base dentro del coloso, así que también deben haber encontrado una forma de atravesar la barrera mágica. Si es así, ¿qué necesidad tienen de usar la única escotilla que la barrera no protege? ¿Y por qué tomarse la molestia de enviar mensajes cifrados sobre cómo abrirla?
+TEXT_HEAVNR103_02092_CID_100_002	¿La respuesta? Espías. Creo que los Illuminati tienen un agente fuera del coloso, lo más probable en la misma Idyllshire, que usa la escotilla como puerta trasera.
+TEXT_HEAVNR103_02092_CID_000_003	Ahora bien, ese agente sabrá que desciframos su código y que la escotilla está vigilada todo el tiempo, así que hace rato que no puede usarla. Seguro que está desesperado por volver a contactar con los de adentro.
+TEXT_HEAVNR103_02092_CID_100_003	Y por eso despejé la zona alrededor de la mano del gigante. Ahora solo tenemos que vigilar y esperar... y seguir a quien corra hacia la escotilla.
+TEXT_HEAVNR103_02092_WEDGE_000_004	¡Jefe! ¡Llamada de linkpearl de Redbrix! Dice que... \<jadeo> ¡Dice que <italic(1)>Brayflox<italic(0)> entró! P-Pero no puede ser... ¡N-No, debe ser una impostora! Jefe, ¡con quien habló antes era una espía! ¡Rápido, tienen que ir tras ella!
+TEXT_HEAVNR103_02092_SYSTEM_000_010	Ahora tienes acceso a The Arm of the Father. Se puede entrar a Gordias por la entrada del Makers' Quarter.
+TEXT_HEAVNR103_02092_MIDE_000_020	¡Vaya, cuántos tesoros tiene Roundrox! No muchos sirven para algo, pero todos son preciosos a su manera.
+TEXT_HEAVNR103_02092_WEDGE_000_040	Te digo que no creo que a Y'shtola le esté gustando volver a trabajar para la maestra Matoya... No vas a creer el vocabulario que usó cuando llamó... ¡Hasta <italic(1)>Biggs<italic(0)> se puso colorado!
+TEXT_HEAVNR103_02092_BIGGS_000_050	¡Mide y el jefe ya están dentro de Alexander! ¡Reúne a tu grupo y ve tras ellos!
+TEXT_HEAVNR103_02092_WEDGE_000_060	¡Esa impostora de Brayflox me engañó por completo! ...Aunque, para ser sincero, todas esas máscaras me parecen iguales.
+TEXT_HEAVNR103_02092_QUICKTHINXALLTHOUGHTS_000_500	Pshhhkohhh... ¿Gobbie lo encuentra? Bien. Sabidurías de pieza que falta están con Illuminati.
+TEXT_HEAVNR103_02092_QUICKTHINXALLTHOUGHTS_000_501	Gobbie lo hace muy bien...
+TEXT_HEAVNR103_02092_CID_000_502	...¿Así tratas a los que te complacen?
+TEXT_HEAVNR103_02092_QUICKTHINXALLTHOUGHTS_000_503	Pshhhkohhh... Ahora mundo está en caos. Roto. Máquina con demasiadas piezas. Pero plan de Illuminati necesita una cosa, pieza que falta para traer orden al mundo. Dar armonía al mundo. Hacer mundo <italic(1)>perfecto<italic(0)>.
+TEXT_HEAVNR103_02092_CID_000_504	¿Y qué pasa con los que no encajan en tu visión de la perfección? ¿¡Cuántos tienen que morir para pagar tu utopía!?
+TEXT_HEAVNR103_02092_CID_000_505	¿No lo ves? ¡Invocaste un maldito primal! ¡Devorará el aether de cada tierra que visiten, hasta que Hydaelyn y todo lo que hay en ella esté muerto!
+TEXT_HEAVNR103_02092_QUICKTHINXALLTHOUGHTS_000_506	Dentro de fortaleza de Illuminati, elegidos sobreviven. Si inferiores de afuera mueren por progreso, que así sea. Es costo de buscar sabidurías.
+TEXT_HEAVNR103_02092_CID_000_507	¡Al infierno contigo y tu maldita búsqueda!
+TEXT_HEAVNR103_02092_QUICKTHINXALLTHOUGHTS_000_508	Altoterranos sabios encuentran felicidad en gobierno de Illuminati. Altoterranos no sabios... utopía no los necesita.
+TEXT_HEAVNR103_02092_CID_000_509	O sea que es obedecer o morir, ¿no? ¡Bah! ¡La sola idea es grotesca!
+TEXT_HEAVNR103_02092_MIDE_000_510	No, Cid. Como el resto de las ideas del <italic(1)>Enigma Codex<italic(0)>, Alexander es maravilloso en sí mismo. Perfecto, incluso. Pero en el apuro por hacer realidad sus ideales, hasta los mejores pueden perder el rumbo.
+TEXT_HEAVNR103_02092_CID_000_511	Ah, ¿así que alguna vez estos Illuminati fueron filántropos soñadores? ¿Y solo después de poner las manos en tu maldito códice perfecto se volvieron asesinos despiadados? Dime, ¿hubo algún pasaje en particular que los convenciera de abandonar su última pizca de empatía?
+TEXT_HEAVNR103_02092_MIDE_000_512	\<suspiro> No puedo hablar del contenido exacto del códice. Ya no. Pero no olvidé todo lo que leí. Creo que puedo detener el núcleo, si me llevan lo bastante cerca.
+TEXT_HEAVNR103_02092_CID_000_513	¿Crees que puedes, o sabes que puedes? ¿Y dónde está?
+TEXT_HEAVNR103_02092_MIDE_000_514	En algún lugar del tronco. Qué tan cerca estamos de eso, no sabría decirlo.
+TEXT_HEAVNR103_02092_ROUNDROX_000_515	Pssshkoh... ¡Roundrox sabe decir! Dos pasos de Roundrox son un yalm. Así que, por cuenta de Roundrox, ¡pecho de gigante de girangranajes está solo un poquito más allá!
+TEXT_HEAVNR103_02092_CID_000_516	¡Ja! ¡Qué chica tan lista! ¡Estuviste midiendo cuánto avanzamos desde el principio!
+TEXT_HEAVNR103_02092_CID_000_517	Muy bien, propongo que nos retiremos por ahora. No sé qué pasará cuando lleguemos al núcleo, pero <italic(1)>sí<italic(0)> sé que estaremos mejor preparados si estamos descansados y listos para cualquier cosa.
+TEXT_HEAVNR103_02092_MIDE_000_518	...Todo debería salir bien.
+TEXT_HEAVNR103_02092_ROUNDROX_000_600	Pssshkoh... ¡Si altoterrano vuelve a salvo de desarmar núcleo, Roundrox le da una pieza de tesoro secreto!
+TEXT_HEAVNR103_02092_BIGGS_000_610	Mide dice que puede desmantelar el núcleo, pero nosotros también estaremos a mano... por si necesita otro mazo, digamos.
+TEXT_HEAVNR103_02092_WEDGE_000_620	¡Ten mucho cuidado, <split(<string(gstr1)>, ,1)>! ¡Quién sabe qué horrores mecánicos protegen el núcleo!
+TEXT_HEAVNR103_02092_MIDE_000_650	Nadie debería tener el poder de elegir quién vive y quién muere. La idea es demasiado vil, demasiado insidiosa para dejarla pasar.
+TEXT_HEAVNR103_02092_MIDE_000_651	Tenemos que actuar. Si no, Alexander despertará y nadie podrá detener a los Illuminati. Que no te quepa duda, <split(<string(gstr1)>, ,1)>: es ahora o nunca.

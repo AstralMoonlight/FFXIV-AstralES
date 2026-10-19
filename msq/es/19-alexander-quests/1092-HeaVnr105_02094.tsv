@@ -1,0 +1,44 @@
+key	text
+TEXT_HEAVNR105_02094_SEQ_00	A Redbrix lo inquieta la falta de noticias.
+TEXT_HEAVNR105_02094_SEQ_01	Aunque detuvieron al primal, los Illuminati siguen en pie. Además, ni tú ni Redbrix tienen noticias de tus compañeros. Por eso el vigía te pide que busques a Mide y averigües qué pasó en Bigwest Shortstop.
+TEXT_HEAVNR105_02094_SEQ_02	Al llegar, encuentras a Roundrox desconsolada por el inexplicable robo de su montón de tesoros. Por suerte, parece que los Illuminati que se los llevaron no llegaron lejos: Cid y Biggs vuelven pronto con un ladrón inconsciente y dos cajas cargadas con las cosas perdidas de la pequeña goblin. Después, Roundrox deduce que en realidad los Illuminati buscaban su piedra brillante... sin sospechar que todo este tiempo estuvo en el centro del decodificador de la Ironworks. Para sorpresa de todos, el extraño cristal se ilumina al tocarlo la pequeña y resulta ser un fragmento del <italic(1)>Enigma Codex<italic(0)>... y la pieza que le falta al plan de Quickthinx. Aunque por ahora está a salvo, Cid está seguro de que los Illuminati no pararán hasta hacerse con su premio, y te aconseja estar <if(gnum4,preparada,preparado)>. Tras una breve celebración, te dispones a irte, pero notas que Roundrox tiene algo más que decir. Habla con la pequeña y averigua qué es.
+TEXT_HEAVNR105_02094_SEQ_03	Roundrox quiere agradecerte tu ayuda, y Mide se suma a los agradecimientos. Mientras comentan lo ocurrido, un comentario casual de la pequeña lleva a la cazadora de tesoros a hablar de su pasado, cuando ella y sus compañeros intentaban recomponer el mundo roto mediante la lógica y la ciencia. No queda claro qué fue de esos soñadores, pero Mide cambia de tema de golpe y te pide que cuides a Roundrox hasta la próxima vez que se vean.<br><br>Siéntete <if(gnum4,orgullosa,orgulloso)> de lo que hiciste y prepárate para la próxima batalla.
+TEXT_HEAVNR105_02094_TODO_00	Habla con Mide en Bigwest Shortstop.
+TEXT_HEAVNR105_02094_TODO_01	Habla con Roundrox.
+TEXT_HEAVNR105_02094_REDBRIX_000_000	Pshkohhh... Altoterranos tardan demasiado para tranquilidad de Redbrix. Shortstop es lugar de choques con Illuminati.
+TEXT_HEAVNR105_02094_REDBRIX_000_001	Illuminati traman algo malo. Quizás usan confusión para hacer cosas feas. ¡Altoterrano debe ir a ver, asegurarse de que todo está bien!
+TEXT_HEAVNR105_02094_REDBRIX_000_020	Pshkohhh... ¡Altoterrano debe encontrar a Mide, asegurarse de que todo está bien!
+TEXT_HEAVNR105_02094_ROUNDROX_000_030	Pshkohhh... \<snif> Tesoros de Roundrox están... están... \<sollozo>
+TEXT_HEAVNR105_02094_WEDGE_000_500	¿Todo sigue como lo encontramos? No volvieron, ¿verdad?
+TEXT_HEAVNR105_02094_MIDE_100_500	No. Por ahora se fueron. Y todos parecen estar bien... físicamente, al menos. Pero Roundrox...
+TEXT_HEAVNR105_02094_ROUNDROX_000_501	Pshkohhh... No están. Ya no está nada. \<snif>
+TEXT_HEAVNR105_02094_MIDE_000_502	Pobrecita... Los Illuminati se llevaron todo. Menos mal que estaba afuera juntando baratijas con Backrix cuando vinieron. No me atrevo a pensar qué habría pasado si hubiera estado aquí...
+TEXT_HEAVNR105_02094_CID_000_503	Vamos, vamos, pequeña. Sécate las lágrimas.
+TEXT_HEAVNR105_02094_CID_000_504	Un ladrón, inconsciente. Lo encontramos merodeando cerca de las afueras del pueblo, no muy lejos de tu tesoro, Roundrox.
+TEXT_HEAVNR105_02094_ROUNDROX_000_505	Pshkohhh... \<snif> ¡Altoterrano trae tesoros a casa! ¡Gracias a altoterrano! ¡Muchas, muchas gracias!
+TEXT_HEAVNR105_02094_CID_000_506	Todo fue obra de Biggs, pequeña. Tuvo el presentimiento de que podía haber algunos soldados al acecho esperando para emboscarnos, y esto es lo que encontramos cuando fuimos a mirar.
+TEXT_HEAVNR105_02094_WEDGE_000_507	Pero ¿por qué los Illuminati se llevaron la colección de Roundrox, para empezar? Ese no puede haber sido su objetivo.
+TEXT_HEAVNR105_02094_CID_000_508	Yo no estaría tan seguro. Si tuviera que adivinar, diría que los Illuminati creían que algo que querían estaba escondido entre las baratijas de Roundrox. En lugar de perder tiempo revisándolas, decidieron llevarse todo. Pero cuando se dieron cuenta de que no tenían lo que buscaban, volvieron a escondidas al pueblo a esperar la oportunidad de apoderarse de lo que de verdad querían.
+TEXT_HEAVNR105_02094_ROUNDROX_000_509	¿Y si gobbies malos quieren tesoro más favoritísimo de Roundrox... el que está a salvo con altoterranos?
+TEXT_HEAVNR105_02094_WEDGE_000_510	¿Te refieres a la piedra brillante que tomó prestada <split(<string(gstr1)>, ,1)>? ¡Pero claro! ¡Estuvo en la máquina decodificadora todo este tiempo!
+TEXT_HEAVNR105_02094_ROUNDROX_000_511	¡Sí, sí! ¡Roundrox estaría triste sin linda piedra brillante! Es tesoro especial de cerca de castillo viejo. Uno oxidado que dejaron altoterranos, de antes.
+TEXT_HEAVNR105_02094_MIDE_000_512	Espera. ¿Qué quieres decir con "antes"? Roundrox... ¿estabas cerca de las ruinas de Sharlayan cuando... cuando apareció el gigante de metal por primera vez?
+TEXT_HEAVNR105_02094_ROUNDROX_000_513	¡Sí, sí, Roundrox vio a gigante de girangranajes pararse hace tres años! Pero fue solo un ratito, y gobbies grandes no le creen a Roundrox.
+TEXT_HEAVNR105_02094_CID_000_514	Hace tres años... cuando alguien intentó invocar al primal y fracasó...
+TEXT_HEAVNR105_02094_MIDE_000_515	¡Un fragmento del códice! De todos los lugares del mundo...
+TEXT_HEAVNR105_02094_CID_000_516	¿Solo un fragmento del original? ¡Entonces ese cristal debe ser la pieza que les falta a los Illuminati!
+TEXT_HEAVNR105_02094_CID_000_517	Puede que hayamos detenido a su primal y les hayamos quitado su premio, pero nuestros enemigos no van a darse por vencidos. Volverán, y con sed de sangre, lo más probable.
+TEXT_HEAVNR105_02094_CID_000_518	Pero te tenemos a ti, <split(<string(gstr1)>, ,1)>, y seguro que estarás <if(gnum4,lista,listo)> para la embestida cuando llegue. ¿Puedo sugerirte que te diviertas hasta entonces?
+TEXT_HEAVNR105_02094_MIDE_000_600	Me alegra que Roundrox haya recuperado su tesoro. Solo espero que eso no la ponga en más peligro. No creerías lo que algunos harían por ese pequeño fragmento.
+TEXT_HEAVNR105_02094_ROUNDROX_000_630	Pshkohhh... Roundrox está feliz. Muchos amigos se preocupan, piensan en Roundrox. Altoterrano es uno. ¡Roundrox le da gracias a altoterrano amable!
+TEXT_HEAVNR105_02094_MIDE_000_631	Déjame sumarme, <split(<string(gstr1)>, ,1)>. El hogar de Roundrox necesitaba protección, y tú se la diste. No muchos lo harían, y menos frente a un primal. Tienes también mi agradecimiento.
+TEXT_HEAVNR105_02094_ROUNDROX_000_0632	¡Mide también ayudó a Roundrox! Altoterranos tienen corazón bueno, y amable.
+TEXT_HEAVNR105_02094_MIDE_000_633	No somos tantos los que vemos belleza en las machinas, querida. Tenemos que mantenernos unidos, ¿no?
+TEXT_HEAVNR105_02094_ROUNDROX_000_0634	¿A Mide siempre le gustaron girangranajes y cachibachitos?
+TEXT_HEAVNR105_02094_MIDE_000_635	No como a ti, Roundrox. A mi amor sí que le encantaban: inventarlos, construirlos, trastear con ellos.
+TEXT_HEAVNR105_02094_ROUNDROX_000_0636	...Mide siempre toca marcadolor cuando recuerda.
+TEXT_HEAVNR105_02094_MIDE_000_637	¿Sí? Bueno, supongo que sí.
+TEXT_HEAVNR105_02094_MIDE_000_638	Eran otros tiempos, pequeña. Mis amigos y yo vivíamos perdidos en nuestro sueño. Queríamos volver a unir las piezas del mundo roto con lógica, razón y tecnología. Y estábamos seguros de que podíamos lograrlo.
+TEXT_HEAVNR105_02094_MIDE_000_639	Yo no tenía mucho talento para idear cosas ni para fabricarlas, pero ayudaba a mi manera. Y esa sensación de contribuir al sueño de otro, de compartirlo, te envuelve como una ola de felicidad. Nunca volví a sentir algo así.
+TEXT_HEAVNR105_02094_MIDE_000_640	Ahora todo parece tan lejano. Hasta los recuerdos se sienten como si los hubiera soñado en vez de vivirlos...
+TEXT_HEAVNR105_02094_MIDE_000_641	Bueno, basta de eso. Roundrox tiene razón, aventurer<if(gnum4,a,o)>: tienes buen corazón. Cuida a nuestra chica hasta la próxima vez que nos veamos, ¿sí?
