@@ -1,0 +1,67 @@
+key	text
+TEXT_LUCKMF107_03650_SEQ_00	Y'shtola parece ansiosa por compartir sus descubrimientos con los demás.
+TEXT_LUCKMF107_03650_TODO_00	Habla con Paushs Ooan.
+TEXT_LUCKMF107_03650_TODO_01	Busca a Grenoldt.
+TEXT_LUCKMF107_03650_TODO_02	Acércate a Grenoldt y usa /psych para animarlo.
+TEXT_LUCKMF107_03650_TODO_03	Muéstrale a Grenoldt algo que lo inspire.
+TEXT_LUCKMF107_03650_YSHTOLA_000_000	Gracias por ayudarme con mis investigaciones. Buscaré a nuestros compañeros y les contaré lo que averiguamos.
+TEXT_LUCKMF107_03650_YSHTOLA_000_001	...Por mucho que quisiera decirte que te sientes y nos dejes el resto a nosotros, tu estado exige que nos apuremos todo lo razonable.
+TEXT_LUCKMF107_03650_YSHTOLA_000_002	Si no estás demasiado cansad<if(gnum4,a,o)>, quizás sirva volver a hablar con Paushs Ooan y preguntarle si hay algo más que esté dispuesto a contar.
+TEXT_LUCKMF107_03650_PAUSHSOOAN_000_010	Ah, <if(gnum4,la amiga,el amigo)> de Alphinaud. Tú y tus compañeros hicieron mucho por reparar el daño causado cuando se apartaron las aguas...
+TEXT_LUCKMF107_03650_PAUSHSOOAN_000_011	...¿Algo más que puedas hacer? Hmmm... ¿Fuiste a los Walls of the Forgotten?
+TEXT_LUCKMF107_03650_Q1_000_000	¿Qué dices?
+TEXT_LUCKMF107_03650_A1_000_001	Creo... que acabo de venir de allí.
+TEXT_LUCKMF107_03650_A1_000_002	¿Son las ruinas del noroeste?
+TEXT_LUCKMF107_03650_PAUSHSOOAN_000_012	Las ruinas del noroeste, ¿sssí? ¿Las visitaste sin que nadie te lo pidiera? Pshhh... ¿Será que los antiguos guiaron tus pasosss...?
+TEXT_LUCKMF107_03650_PAUSHSOOAN_000_013	Sssí, ese es el sitio sagrado del que hablo. ¿Será que los antiguos guiaron tus pasosss hasta allí...?
+TEXT_LUCKMF107_03650_PAUSHSOOAN_000_014	Creo que podría ser asssí. Escucha, entonces, y te contaré nuestros planes para llevar luz a los Walls, para responder al llamado brillante de la tierra iluminada.
+TEXT_LUCKMF107_03650_PAUSHSOOAN_000_015	Le pedimos a un artesano sin aletas que nos hiciera una lámpara sagrada. Es raro para alguien de tierra firme, porque eligió vivir en el océano, pero su habilidad está fuera de toda duda.
+TEXT_LUCKMF107_03650_PAUSHSOOAN_000_016	Lo preocupante es que no supimos nada de sus avances. Si visitaras a ese artesano y volvieras con nuestra tan esperada luz, cualquier duda sobre tu propósssito quedaría disipada.
+TEXT_LUCKMF107_03650_PAUSHSOOAN_000_017	Se llama "Grenoldt". Encontrarás su taller en una estructura de metal al sssur.
+TEXT_LUCKMF107_03650_PAUSHSOOAN_000_020	Ve a visitar a Grenoldt en su "Workbench". Trae la lámpara que pedimos, y todo será como los antiguos deseaban.
+TEXT_LUCKMF107_03650_GRENOLDT_000_030	Ah, qué <italic(1)>maravilla<italic(0)>, sí señor. Ahora la cabeza me juega malas pasadas. "¡Mira, Grenoldt! ¡Alguien vino a visitarte <italic(1)>al fondo del condenado océano<italic(0)>!"
+TEXT_LUCKMF107_03650_GRENOLDT_000_031	O a lo mejor eres un fantasma, ¿eh? Anda, sombra inmunda, date un festín con mi alma podrida...
+TEXT_LUCKMF107_03650_GRENOLDT_000_032	A mí no me sirve de nada. Un artesano que no puede crear es más inútil que una babosa de mar con un martillo de forja. Y eso es un insulto para las condenadas babosas de mar...
+TEXT_LUCKMF107_03650_SYSTEM_000_033	Grenoldt parece sufrir un ataque aplastante de inseguridad. Quizás puedas usar <colortype(500)><edgecolortype(501)>psych<edgecolortype(0)><colortype(0)> para animarlo.
+TEXT_LUCKMF107_03650_GRENOLDT_000_040	Un inútil, eso es lo que soy...
+TEXT_LUCKMF107_03650_SYSTEM_000_041	Grenoldt parece sufrir un ataque aplastante de inseguridad. Quizás puedas usar <colortype(500)><edgecolortype(501)>psych<edgecolortype(0)><colortype(0)> para animarlo.
+TEXT_LUCKMF107_03650_GRENOLDT_000_042	¿Qué quieres, espectro? Si no vienes a acabar con mi miseria, vuélvete de una vez a la condenación...
+TEXT_LUCKMF107_03650_GRENOLDT_000_043	...¿Eh? No estarás tratando de levantarme el ánimo, ¿o sí, espíritu? No es lo que uno espera de un siervo del inframundo...
+TEXT_LUCKMF107_03650_Q2_000_000	¿Qué dices?
+TEXT_LUCKMF107_03650_A2_000_001	¿De verdad llegamos a esto...?
+TEXT_LUCKMF107_03650_A2_000_002	¿Nos conocemos?
+TEXT_LUCKMF107_03650_A2_000_003	¿Entonces tú eres Grenoldt?
+TEXT_LUCKMF107_03650_A2_000_004	¿Nos conocemos?
+TEXT_LUCKMF107_03650_GRENOLDT_000_044	...¿Y eso qué quiere decir? ¿No te impresiona lo que ves, <if(gnum4,muchacha,muchacho)>?
+TEXT_LUCKMF107_03650_GRENOLDT_000_045	Sí, bueno... quizás me descuidé un poco. Esto iba a ser mi santuario submarino: un lugar donde concentrarme en mi trabajo, lejos de las distracciones del mundo de afuera...
+TEXT_LUCKMF107_03650_GRENOLDT_000_046	Eh... A lo mejor nos cruzamos en el Crystarium, pero no creo que nos hayan presentado como corresponde.
+TEXT_LUCKMF107_03650_GRENOLDT_000_047	Me llamo Grenoldt. Y esto iba a ser mi santuario submarino: un lugar donde entregarme a mi trabajo, lejos de las distracciones del mundo de afuera...
+TEXT_LUCKMF107_03650_GRENOLDT_000_048	Sí. Aunque me pregunto cómo demonios me encontraste...
+TEXT_LUCKMF107_03650_GRENOLDT_000_049	Esto iba a ser mi santuario submarino: un lugar donde entregarme a mi trabajo, lejos de las distracciones del mundo de afuera...
+TEXT_LUCKMF107_03650_GRENOLDT_000_050	...Y sin embargo, aquí estás. A ver, ¿qué es tan condenadamente importante como para que te zambullas hasta el fondo del maldito Tempest a molestarme?
+TEXT_LUCKMF107_03650_GRENOLDT_000_051	Ah... La lámpara de los Ondo...
+TEXT_LUCKMF107_03650_GRENOLDT_000_052	¡Malditos los dioses y mi cabeza hueca! ¡Ni siquiera la empecé!
+TEXT_LUCKMF107_03650_GRENOLDT_000_053	Valgo menos que una babosa de mar... No, menos que la <italic(1)>baba<italic(0)> que deja una babosa de mar. La fecha de entrega ya pasó hace rato, mi mesa de trabajo está intacta... ¡Y me llamo artesano, por todos los cielos!
+TEXT_LUCKMF107_03650_GRENOLDT_000_054	Conoces sus creencias, ¿no? ¡Llevar luz a esas ruinas va a ser un acto de <italic(1)>profundo significado religioso y cultural<italic(0)>!
+TEXT_LUCKMF107_03650_GRENOLDT_000_055	Y era un privilegio para mí como artesano que me encargaran un instrumento ritual digno de la ocasión. Pero es que... no... puedo... maldita sea...
+TEXT_LUCKMF107_03650_GRENOLDT_000_056	¡AAARGH! ¡Tengo la cabeza en blanco! ¡Es como si hubiera tirado por la borda mi última gota de inspiración!
+TEXT_LUCKMF107_03650_GRENOLDT_000_057	Dime que tienes algo que mostrarme... algo que le dé a mi musa una buena patada en el trasero...
+TEXT_LUCKMF107_03650_GRENOLDT_000_058	Los Ondo quieren honrar la llegada de esos antiguos, así que la luz con que respondan tiene que arder con el brillo justo.
+TEXT_LUCKMF107_03650_GRENOLDT_000_059	Como... como la chispa de la vida atrapada en un cristal. Pero no basta con que brille: tiene que bailar con alegría y tristeza y una sensación de penurias soportadas... ¿¡Entiendes lo que digo!?
+TEXT_LUCKMF107_03650_SYSTEM_000_060	Piensas en los Warriors of Light del First y en los cristales que encontraste al final de sus viajes. Quizás a Grenoldt lo inspiren...
+TEXT_LUCKMF107_03650_SYSTEM_000_061	Piensas en Branden y en el cristal que encontraste al final de su viaje. Quizás a Grenoldt le sirva de inspiración...
+TEXT_LUCKMF107_03650_SYSTEM_000_062	Piensas en Lamitt y en el cristal que encontraste al final de su viaje. Quizás a Grenoldt le sirva de inspiración...
+TEXT_LUCKMF107_03650_SYSTEM_000_063	Piensas en Renda-Rae y en el cristal que encontraste al final de su viaje. Quizás a Grenoldt le sirva de inspiración...
+TEXT_LUCKMF107_03650_SYSTEM_000_064	Piensas en Nyelbert y en el cristal que encontraste al final de su viaje. Quizás a Grenoldt le sirva de inspiración...
+TEXT_LUCKMF107_03650_SYSTEM_000_065	Grenoldt busca un tipo particular de inspiración: la que solo cristaliza al final de una historia larga y trágica.
+TEXT_LUCKMF107_03650_SYSTEM_000_066	Completa cualquiera de las líneas de misiones de rol disponibles en el Wandering Stairs del Crystarium y después vuelve con Grenoldt.
+TEXT_LUCKMF107_03650_GRENOLDT_000_070	No sirve...<br>Necesito algo <italic(1)>especial<italic(0)> para encenderle fuego a esta imaginación empapada en orines.
+TEXT_LUCKMF107_03650_GRENOLDT_000_071	Como... como la chispa de la vida atrapada en un cristal. Pero no basta con que brille: tiene que bailar con alegría y tristeza y una sensación de penurias soportadas... ¿¡Entiendes lo que digo!?
+TEXT_LUCKMF107_03650_SYSTEM_000_072	Grenoldt busca un tipo particular de inspiración: la que solo cristaliza al final de una historia larga y trágica.
+TEXT_LUCKMF107_03650_SYSTEM_000_073	Completa cualquiera de las líneas de misiones de rol disponibles en el Wandering Stairs del Crystarium y después vuelve con Grenoldt.
+TEXT_LUCKMF107_03650_GRENOLDT_000_074	Les fallé a los Ondo, sí... Pero más que eso, me fallé a <italic(1)>mí mismo<italic(0)>. Mejor vuelvo a remendar teteras...
+TEXT_LUCKMF107_03650_A3_000_000	¿Mostrarle a Grenoldt un cristal que perteneció a uno de los compañeros de Ardbert?
+TEXT_LUCKMF107_03650_GRENOLDT_000_075	...¿¡Q-Qué es eso que tienes ahí!?
+TEXT_LUCKMF107_03650_GRENOLDT_000_076	Qué belleza tan deslumbrante... ¡Brilla con pena y risa y la fugacidad de la vida, como el torbellino de la historia hecho materia!
+TEXT_LUCKMF107_03650_GRENOLDT_000_077	¡Sí, puedo ver el esplendor del legado del cristal! Ahhh... nunca lograrías captar un destello así, ni aunque trabajaras cien años...
+TEXT_LUCKMF107_03650_GRENOLDT_000_078	¡Pero que me lleve el diablo si no pienso intentarlo! ¿¡Dónde están mis herramientas, maldita sea!? ¡Tengo que ponerme a trabajar antes de que se me pase!

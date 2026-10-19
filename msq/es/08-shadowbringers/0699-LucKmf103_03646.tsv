@@ -1,0 +1,43 @@
+key	text
+TEXT_LUCKMF103_03646_SEQ_00	Lyna te insta a seguirla.
+TEXT_LUCKMF103_03646_SEQ_01	Lyna está decidida a abrir la puerta del Umbilicus. Te pide que vuelvas al Crystarium y te reúnas con ella en el Ocular.
+TEXT_LUCKMF103_03646_SEQ_02	Entras en el corazón de la Crystal Tower y una visión del pasado te inunda. El Echo se prolonga por lo que parecen largos minutos, mientras ves al Exarch revelarle la verdad de sus motivos a un Urianger atónito. G'raha Tia - pues esa es la verdadera identidad del guardián - habla de un futuro apocalíptico en el Source y de los esfuerzos de un grupo decidido por doblegar el tiempo y el espacio para que tu vida, y las de incontables otros, pudieran salvarse. Abrumado por la magnitud de la empresa, Urianger acepta con gravedad ocultarles la verdad a sus compañeros Scions e impedir que interfieran con el acto de sacrificio que planea el Exarch.<br><br>Mientras te repones de la impresión de estas revelaciones, aparece Ardbert y te ayuda a encontrar un posible camino a seguir. Pero lo primero es lo primero: tienes que informarle a Lyna, que te espera afuera.
+TEXT_LUCKMF103_03646_SEQ_03	Hablas con Lyna y le preguntas por la forma más directa de llegar al Tempest. Algo desconcertada por el pedido, la capitana de la guardia te indica que vayas con los domadores del Amaro Launch.
+TEXT_LUCKMF103_03646_SEQ_04	Tus intentos de conseguir un amaro para el viaje se ven interrumpidos por la llegada de tus preocupados compañeros. Les cuentas que piensas seguir adelante a pesar de tu delicado estado, y a las objeciones de Ryne responde Alisaie con un alegato apasionado. Al final, tus compañeros aceptan acompañarte al Tempest, una empresa que recibe el inesperado apoyo de los ciudadanos del Crystarium. Hace tiempo que sospechaban que eras el Warrior of Darkness, y parece que no te faltarán aliados en los días que vienen.
+TEXT_LUCKMF103_03646_SEQ_05	Aunque impresionado por tu determinación, Urianger insinúa que quizás tenga una forma menos agotadora de llegar al fondo del océano. Pero antes de hablar de su solución, te sugiere que termines cualquier asunto pendiente que tengas en el Crystarium.
+TEXT_LUCKMF103_03646_TODO_00	Ve al Ocular.
+TEXT_LUCKMF103_03646_TODO_01	Habla con Lyna.
+TEXT_LUCKMF103_03646_TODO_02	Habla con el aspirante a domador de amaros.
+TEXT_LUCKMF103_03646_TODO_03	Habla con Urianger.
+TEXT_LUCKMF103_03646_LYNA_000_000	Venga. Reúnase conmigo en el Ocular y abriré la puerta de adentro.
+TEXT_LUCKMF103_03646_CRYSTALGATEKEEPER_000_005	<if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,1)>. La capitana dijo que l<if(gnum4,a,o)> esperáramos.
+TEXT_LUCKMF103_03646_Q0_000_006	¿Entrar en el Ocular?
+TEXT_LUCKMF103_03646_LYNA_000_010	¿Encontró las respuestas que buscaba? Si no necesita nada más, iré a cerrar la puerta con llave...
+TEXT_LUCKMF103_03646_Q1_000_000	¿Qué dices?
+TEXT_LUCKMF103_03646_A1_000_001	Necesito que me indiques un camino...
+TEXT_LUCKMF103_03646_A1_000_002	Tengo preguntas sobre el Tempest...
+TEXT_LUCKMF103_03646_LYNA_000_011	¿Quiere saber cómo llegar al Tempest? ...¿Se refiere al mar mismo y no a la isla de Kholusia?
+TEXT_LUCKMF103_03646_LYNA_000_012	Si se lo pide a los domadores, le darán un amaro, pero...
+TEXT_LUCKMF103_03646_LYNA_000_013	¿El Tempest? Así se llama el mar que rodea Kholusia.
+TEXT_LUCKMF103_03646_LYNA_000_014	Si se lo pide a los domadores, le darán un amaro para sobrevolar las aguas, pero...
+TEXT_LUCKMF103_03646_LYNA_000_015	...¿Piensa partir en este mismo momento? ¿Sol<if(gnum4,a,o)>?
+TEXT_LUCKMF103_03646_LYNA_000_016	No estoy segura de que- No, no voy a intentar detenerl<if(gnum4,a,o)>. Vaya con la bendición de la sombra; esperaré su regreso sano y salvo.
+TEXT_LUCKMF103_03646_LYNA_000_020	Basta con pedírselo a los domadores del Amaro Launch y le prestarán una bestia para llevarl<if(gnum4,a,o)> sobre el Tempest. Solo espero que eso l<if(gnum4,a,o)> deje lo bastante cerca de donde necesita ir...
+TEXT_LUCKMF103_03646_BOARDINGGATETOKHOLUSIA_000_030	¿Necesita un amaro? Un momento, y ensillaré a nuestra bestia más veloz para llevarl<if(gnum4,a,o)> a la isla...
+TEXT_LUCKMF103_03646_BOARDINGGATETOKHOLUSIA_000_031	...¿Mar adentro? ¿¡A las <italic(1)>profundidades<italic(0)> del Tempest!? Nuestros amaros saben nadar, sí, pero llegar al fondo del océano...
+TEXT_LUCKMF103_03646_ALPHINAUD_000_040	Una vez dije que quería luchar por Estinien, que quería salvarlo y no dejar que lo sacrificaran por una causa. Y ahora le digo lo mismo a usted.
+TEXT_LUCKMF103_03646_ALISAIE_000_045	Para que lo sepa, no voy a ver con buenos ojos ningún otro intento de dejarnos atrás. Esto lo hacemos juntos.
+TEXT_LUCKMF103_03646_THANCRED_000_050	Bien saben los dioses que ya pasaste bastante tiempo lanzándote al peligro por nosotros. ¡Lo justo es que te devolvamos el favor!
+TEXT_LUCKMF103_03646_RYNE_000_055	No puedo hacer nada para limpiarle la corrupción de la Luz... pero voy a hacer todo lo que esté a mi alcance para contenerla.
+TEXT_LUCKMF103_03646_RYNE_000_056	Si el aether de los Wardens vuelve a abrumarl<if(gnum4,a,o)>, <italic(1)>va<italic(0)> a convertirse en sin eater, así que, por favor, guarde sus fuerzas para cuando de verdad importe.
+TEXT_LUCKMF103_03646_YSHTOLA_000_060	Los voluntarios que viajaron a Kholusia volvieron todos sanos y salvos a sus hogares. También nos aseguraron que harán lo posible por contener a los eaters mientras no estemos.
+TEXT_LUCKMF103_03646_CASSARD_000_065	Quizás les dé unas palabras de aliento a todos mientras ando por ahí con mis encargos. Necesitas un buen apoyo para hacer lo que tienes que hacer, y no podemos dejar que la moral empiece a decaer ahora, ¿no?
+TEXT_LUCKMF103_03646_KATLISS_000_070	No te preocupes: el Mean mantendrá los engranajes aceitados y girando, como siempre. ¡Me aseguraré de que cumplamos con lo que hay que fabricar, y más!
+TEXT_LUCKMF103_03646_CHESSAMILE_000_075	¿Hm? ¿Necesitas un tónico para el viaje, cariño? Ah, y quizás deberías llevar uno para el Exarch también. Es muy vigorizante, si soportas el olor...
+TEXT_LUCKMF103_03646_SZEMDJENMAI_000_080	Mis compañeros domadores y yo vigilaremos el horizonte. Si hace falta, volaremos a tu lado con una bandada de amaros.
+TEXT_LUCKMF103_03646_GLYNARD_000_085	¿Una buena pinta bien fuerte para el camino? ...Ah, mejor no, ¿eh? Por lo que cuentan, vas a necesitar la cabeza despejada.
+TEXT_LUCKMF103_03646_GLYNARD_000_086	Te propongo algo: te guardo una de mis mejores botellas, ¡y cuando vuelvas te tomas un buen trago para celebrar la victoria!
+TEXT_LUCKMF103_03646_BRAGI_000_090	¿Ya te abasteciste de todo? Mejor tenerlo y no necesitarlo que necesitarlo y no tenerlo, como decía mi viejo. Cuídate, y tráenos de vuelta al Exarch...
+TEXT_LUCKMF103_03646_URIANGER_000_100	¿Planeabais requisar un amaro para vuestro viaje mar adentro? Temo que la posterior zambullida hasta la morada submarina de Emet-Selch agotaría incluso vuestro legendario aguante...
+TEXT_LUCKMF103_03646_URIANGER_000_101	Por ello, durante vuestra convalecencia, estudiamos el método más eficaz para alcanzar las profundidades del Tempest. Y creo que hemos dado con una solución elegante.
+TEXT_LUCKMF103_03646_URIANGER_000_102	Mas antes de hablar de ese paso, os sugiero que concluyáis los asuntos urgentes que aún os queden en el Crystarium. Una vez que el mar se cierre sobre nuestras cabezas, es poco probable que volvamos a la superficie hasta haber consumado nuestra gran hazaña.

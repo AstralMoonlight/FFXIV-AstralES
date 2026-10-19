@@ -1,0 +1,59 @@
+key	text
+TEXT_LUCKMF106_03649_SEQ_00	Y'shtola parece sumida en sus pensamientos.
+TEXT_LUCKMF106_03649_TODO_00	Habla con Y'shtola.
+TEXT_LUCKMF106_03649_TODO_01	Inspecciona los Ondo Cups desde el punto de observación.
+TEXT_LUCKMF106_03649_TODO_02	Usa el cuchillo de mythril para raspar el muro en ruinas.
+TEXT_LUCKMF106_03649_TODO_03	Habla con Y'shtola.
+TEXT_LUCKMF106_03649_TODO_04	Encuentra una estructura parecida a las de la copia del mural del Qitana Ravel y examínala desde el punto de observación.
+TEXT_LUCKMF106_03649_TODO_05	Habla con Y'shtola.
+TEXT_LUCKMF106_03649_YSHTOLA_000_000	...Ah, <split(<string(gstr1)>, ,1)>. ¿Averiguaste algo interesante?
+TEXT_LUCKMF106_03649_YSHTOLA_000_001	Fascinante... y justo el tipo de información que esperaba oír.
+TEXT_LUCKMF106_03649_YSHTOLA_000_002	De hecho, si tienes un momento, me gustaría tomar prestados tus ojos para confirmar una teoría en la que estoy trabajando. Ven.
+TEXT_LUCKMF106_03649_YSHTOLA_000_010	Bien, hay dos tareas que quiero que hagas.
+TEXT_LUCKMF106_03649_YSHTOLA_000_011	La primera es inspeccionar los edificios que rodean el asentamiento de los Ondo y fijarte en sus rasgos más característicos.
+TEXT_LUCKMF106_03649_YSHTOLA_000_012	La segunda: quiero que uses este cuchillo para raspar uno de los muros en ruinas.
+TEXT_LUCKMF106_03649_YSHTOLA_000_013	Por favor, sé lo más minucios<if(gnum4,a,o)> que puedas. Te esperaré aquí para conocer los resultados de tus investigaciones.
+TEXT_LUCKMF106_03649_YSHTOLA_000_020	Es extraño estar aquí, bajo el océano. Parece que pasó una eternidad desde que estuvimos entre los árboles de Rak'tika...
+TEXT_LUCKMF106_03649_SYSTEM_000_030	Inspecciona las estructuras de los Ondo Cups en busca de rasgos característicos. Puedes mover la cámara y acercarla o alejarla. Selecciona un edificio y examínalo con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)> / <icon2(8)>)>.
+TEXT_LUCKMF106_03649_SYSTEM_000_040	Apoyas la punta del cuchillo contra el muro, pero ni siquiera con mucha fuerza logras sacarle una sola esquirla de piedra.
+TEXT_LUCKMF106_03649_YSHTOLA_000_050	¿Y qué descubriste?
+TEXT_LUCKMF106_03649_YSHTOLA_000_051	Sí, coincido en que las ventanas son lo más característico. Parece que las estructuras se ven igual para tu vista y para la mía...
+TEXT_LUCKMF106_03649_YSHTOLA_000_052	¿Y dices que no pudiste ni rayar el muro? ¿Ni con toda tu fuerza detrás de la hoja?
+TEXT_LUCKMF106_03649_YSHTOLA_000_053	<split(<string(gstr1)>, ,1)>, adondequiera que mire en este lugar, me llaman la atención materiales peculiares para los que no tengo nombre.
+TEXT_LUCKMF106_03649_YSHTOLA_000_054	Los edificios que te pedí investigar son el mejor ejemplo. Quizás parezcan hechos de piedra común, pero te aseguro que no es nada de eso...
+TEXT_LUCKMF106_03649_YSHTOLA_000_055	Si tuviera que describirla, diría que la sustancia es un compuesto de varias propiedades minerales, combinadas para crear un material de una durabilidad sin igual.
+TEXT_LUCKMF106_03649_YSHTOLA_000_056	Ni siquiera el Ronkan Empire, que alguna vez fue la mayor potencia de Norvrandt, produjo nada que se compare con este nivel de perfección.
+TEXT_LUCKMF106_03649_YSHTOLA_000_057	Pero si no fueron los ronkanos, ¿quién? ¿Quiénes eran esos antiguos a los que los Ondo atribuyen la construcción de su santuario?
+TEXT_LUCKMF106_03649_YSHTOLA_000_058	Sospecho que la respuesta está en la razón por la que Emet-Selch se retiró aquí, al Tempest.
+TEXT_LUCKMF106_03649_YSHTOLA_000_059	Quizás simplemente quería retirarse a un lugar al que a los simples mortales les costara llegar... pero hay muchos lugares así de remotos. ¿Por qué aquí, precisamente?
+TEXT_LUCKMF106_03649_YSHTOLA_000_060	Emet-Selch está entregado a su papel, así que podríamos suponer que su elección de fortaleza sirve de algún modo a los planes de los Ascians.
+TEXT_LUCKMF106_03649_YSHTOLA_000_061	O quizás... es un lugar que le es más querido que ningún otro.
+TEXT_LUCKMF106_03649_Q1_000_000	¿Qué dices?
+TEXT_LUCKMF106_03649_A1_000_001	¿Quieres decir que esto lo construyeron los antiguos Ascians...?
+TEXT_LUCKMF106_03649_A1_000_002	¿Podría este lugar darle poder a Emet-Selch?
+TEXT_LUCKMF106_03649_A1_000_003	No sabría decir...
+TEXT_LUCKMF106_03649_YSHTOLA_000_062	Esa es mi teoría: que estas estructuras son restos de una época anterior a la historia, de una estrella que todavía estaba entera y sin romper.
+TEXT_LUCKMF106_03649_YSHTOLA_000_063	Eso fue lo primero que pensé yo también. Pero por superiores que sean los materiales, una ruina es solo una ruina. No es algo que decida el resultado de una batalla.
+TEXT_LUCKMF106_03649_YSHTOLA_000_064	Lo que nos lleva a mi segunda teoría: que tiene alguna otra conexión, más personal, con este sitio. ¿Y si estas estructuras son restos de una época anterior a la historia, de una estrella que todavía estaba entera y sin romper?
+TEXT_LUCKMF106_03649_YSHTOLA_000_065	Mi teoría es que estas estructuras son restos de una época anterior a la historia, de una estrella que todavía estaba entera y sin romper.
+TEXT_LUCKMF106_03649_YSHTOLA_000_066	En el Source, esos vestigios habrían sido arrasados por la sucesión de Calamidades Umbrales, pero aquí en el First podrían haber quedado intactos durante milenios...
+TEXT_LUCKMF106_03649_YSHTOLA_000_067	...Una copia del mural del Qitana Ravel. Almet me la dio durante mi visita a Fanow, después de nuestra victoria en Kholusia.
+TEXT_LUCKMF106_03649_YSHTOLA_000_068	Aquí, en la primera escena...<br>Según las propias palabras de Emet-Selch, representa una ciudad de eones atrás y el desastre que cayó sobre ella.
+TEXT_LUCKMF106_03649_YSHTOLA_000_069	El diseño está muy simplificado, claro, pero ¿ves los parecidos entre sus torres y las que acabas de inspeccionar?
+TEXT_LUCKMF106_03649_YSHTOLA_000_070	Siento que estamos cerca de la verdad. Busquemos por los alrededores otra torre, una que se parezca lo bastante al dibujo como para no dejar dudas.
+TEXT_LUCKMF106_03649_YSHTOLA_000_071	Por lo que vi, al este no hay más que arena y más arena, y al sur no había estructuras así. Sugiero que probemos suerte más al noroeste.
+TEXT_LUCKMF106_03649_SYSTEM_000_072	Puedes ver el mural del Qitana Ravel en cualquier momento durante esta misión usando el objeto correspondiente en el menú <colortype(500)><edgecolortype(501)>Key Items<edgecolortype(0)><colortype(0)>.
+TEXT_LUCKMF106_03649_SYSTEM_000_073	El destino de la misión no aparecerá en el mapa. Debes buscar una estructura parecida a los edificios del mural y examinarla desde el punto de observación. El punto de observación está cerca, en un lugar desde donde se ve la estructura completa.
+TEXT_LUCKMF106_03649_SYSTEM_000_075	Busca una estructura parecida a alguno de los edificios de este mural y examínala desde el punto de observación. El punto de observación está cerca, en un lugar desde donde se ve la estructura completa.
+TEXT_LUCKMF106_03649_SYSTEM_000_076	Según las investigaciones de Y'shtola, la zona más al noroeste de los Ondo Cups podría ser un buen lugar para empezar.
+TEXT_LUCKMF106_03649_YSHTOLA_000_080	Sí... Es el mural en grande...
+TEXT_LUCKMF106_03649_YSHTOLA_000_081	Aunque no puedo adivinar para qué servía, debió de ser una vista imponente. Me pregunto cuánto de la altura de la torre está oculto bajo el suelo...
+TEXT_LUCKMF106_03649_YSHTOLA_000_082	Siglos de nuestra historia se asentaron sobre estas ruinas. Incontables capas de polvo y sedimento...
+TEXT_LUCKMF106_03649_YSHTOLA_000_083	...Toda una civilización, cuya existencia olvidaron todos salvo un puñado de Ascians.
+TEXT_LUCKMF106_03649_YSHTOLA_000_084	Y sin embargo existió. Vivieron aquí, en esta ciudad...
+TEXT_LUCKMF106_03649_YSHTOLA_000_085	Pero concentrémonos en lo que averiguamos hasta ahora. El jefe de los Ondo habló de misterios que se agitan, de una tierra iluminada.
+TEXT_LUCKMF106_03649_YSHTOLA_000_086	A juzgar por sus palabras, cree que este fenómeno está relacionado con el regreso de los antiguos.
+TEXT_LUCKMF106_03649_YSHTOLA_000_087	Así que podemos suponer que lo que los Ondo vieron brillar en el abismo fue, con toda probabilidad, otro resto más de esta antiquísima civilización.
+TEXT_LUCKMF106_03649_YSHTOLA_000_088	¿Y quién más "encendería las lámparas", como dijo Ryne, sino el propio Emet-Selch? ¡Es casi seguro que está allí!
+TEXT_LUCKMF106_03649_YSHTOLA_000_090	Pero si queremos encontrar esa fortaleza a tiempo, parece que ganarnos la confianza de los Ondo sigue siendo el camino más rápido.
+TEXT_LUCKMF106_03649_YSHTOLA_000_091	Solo espero que nuestras acciones basten para conquistarlos...
