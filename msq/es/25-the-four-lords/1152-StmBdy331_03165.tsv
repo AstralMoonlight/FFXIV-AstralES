@@ -1,0 +1,80 @@
+key	text
+TEXT_STMBDY331_03165_SEQ_00	Bunchin tiene en la mano una misiva urgente dirigida a ti.
+TEXT_STMBDY331_03165_SEQ_01	Los antiguos sellos que mantienen en su prisión a la bestia auspiciosa enloquecida, Koryu, están a punto de fallar, y Genbu de los Four Lords quiere que vuelvas a Reisen Temple de inmediato. También necesitan a Tataru, pero parece que el grupo ya tomó la iniciativa y la mandó a llamar...
+TEXT_STMBDY331_03165_SEQ_02	Como se temía, la bestia enloquecida que podría convertir por sí sola el Ruby Sea en un infierno de fuego está por volver en cualquier momento. La única manera de evitar esta calamidad es con los poderes unidos de los Four Lords, y para eso debes someter el aramitama del cuarto miembro, quizás el más poderoso: Seiryu. El dragón serpentino, que parece estar en pleno uso de sus facultades, acepta enfrentarte en combate a muerte, aunque en una isla lejana que considera su hogar. Para eso, primero debes viajar a la Isle of Bekko en el Ruby Sea, y desde ahí partir hacia el campo de batalla elegido con la ayuda de Genbu.
+TEXT_STMBDY331_03165_SEQ_03	Antes de partir hacia su isla, Seiryu recuerda al difunto samurái Tenzen, que lo derrotó en combate singular hace mucho. Ese día decisivo juró entrenar sin descanso para ganar una futura revancha, pero nunca tuvo la oportunidad. Así encontró un nuevo propósito en el empeño de destruir al monstruo que les arrebató a Tenzen a los Four Lords: Koryu. Por desgracia, para lograrlo piensa entregarse al aramitama y volverse un demonio para destruir a otro. Aunque es muy inquietante, tu objetivo no cambia: tú y tus compañeros aventureros deben unirse y derrotar a la legendaria bestia auspiciosa.<br><br>※Se puede acceder a The Wreath of Snakes desde el Duty Finder.
+TEXT_STMBDY331_03165_SEQ_04	Por peligroso y mortal que fuera, al final Seiryu no fue rival para ti y los tuyos. Con el alma ya en paz, la bestia auspiciosa parece estar de un humor bastante más reflexivo que antes...
+TEXT_STMBDY331_03165_SEQ_05	Hace mucho, mucho tiempo, la gente de una isla consideraba a Seiryu un gran kami y le hacía ofrendas. Sin embargo, cuando la calamidad los visitó, creyeron por error que él era la causa y empezaron a ofrecerle a sus propios hijos como sacrificio, a quienes Seiryu llevaba en secreto a otras tierras y dejaba libres. Así, con los años, sus fieles se volvieron poco a poco sus detractores, convencidos de que no era un espíritu guardián sino un demonio malévolo. Por eso recurrieron a mercenarios, a quienes llenaban de monedas para que vinieran a matar a la serpiente, hasta que llegó Tenzen y lo derrotó en combate singular, solo para luego ofrecerle un lugar a su lado, junto con otras tres bestias fantásticas que completarían a los Four Lords. Mientras recuerda aquellos días felices, Seiryu se da cuenta de que lo que lo impulsaba no era tanto superar a Tenzen, sino convertirse en una bestia auspiciosa digna de la veneración de los hombres: un dragón magnífico que protegiera a sus elegidos. Una noble aspiración que olvidó por un tiempo, quizás por influencia del aramitama...
+TEXT_STMBDY331_03165_TODO_00	Habla con Genbu en Reisen Temple.
+TEXT_STMBDY331_03165_TODO_01	Habla con Seiryu en The Ruby Sea.
+TEXT_STMBDY331_03165_TODO_02	Enfrenta a Seiryu en The Wreath of Snakes.
+TEXT_STMBDY331_03165_TODO_03	Habla con Seiryu.
+TEXT_STMBDY331_03165_BUNCHIN_000_001	¿Está de paso, o vino por otro motivo? Sea como sea, tengo noticias de nuestros amigos bajo Hells' Lid.
+TEXT_STMBDY331_03165_BUNCHIN_000_002	Otra misiva que entregó una de las bestias auspiciosas... un tanuki, creo. Estaba bastante agitado, además. Me temo que las cosas pueden estar llegando a un punto crítico...
+TEXT_STMBDY331_03165_BUNCHIN_000_003	(-Misiva de Genbu-)Los sellos de Koryu están a punto de fallar. Vuelve a Reisen Temple de inmediato, <if(gnum4,valiente guerrera,valiente guerrero)>. No te preocupes por la chiquilla: le mandé un mensajero a ella también.
+TEXT_STMBDY331_03165_BUNCHIN_000_004	Directo al grano, ¿eh? No deje que <if(gnum4,la,lo)> retenga, entonces.
+TEXT_STMBDY331_03165_GENBU_000_050	Bien, bien. Entonces sigamos.
+TEXT_STMBDY331_03165_TATARU_000_051	No exageraba, ¿verdad? Con lo de los sellos de Koryu.
+TEXT_STMBDY331_03165_GENBU_000_052	Ojalá exagerara. Soroban y mis camaradas hacen todo lo posible por mantenerlos por ahora, pero me temo que Koryu no se dejará detener.
+TEXT_STMBDY331_03165_GENBU_000_053	Incluso ahora no lo entiendo. Estaba seguro de que teníamos más tiempo para prepararnos...
+TEXT_STMBDY331_03165_GENBU_000_054	¡Bah! Preocuparme por mi error no nos servirá de nada. Solo la fuerza unida de los Four Lords nos sacará de esta crisis. ¡Solo juntos podemos renovar los sellos y mantener a Koryu en su prisión!
+TEXT_STMBDY331_03165_GENBU_000_055	Te toca a ti, <split(<string(gstr1)>, ,1)>, someter el aramitama de nuestro camarada Seiryu. ¿Harás esto por nosotros, <if(gnum4,valiente guerrera,valiente guerrero)>?
+TEXT_STMBDY331_03165_GENBU_000_056	No dudaba de que aceptarías, pero aun así me alivia.
+TEXT_STMBDY331_03165_GENBU_100_056	El último de nuestro cuarteto es quizás el más temible de todos, porque en batalla dirige una gran hueste de shiki. Lo verás con tus propios ojos muy pronto, pero por ahora debemos esperar con paciencia...
+TEXT_STMBDY331_03165_SEIRYU_000_057	(-???-)No, Genbu. No tienes que esperar más.
+TEXT_STMBDY331_03165_GENBU_000_058	Llegaste antes de lo esperado, camarada. Confío en que nuestro mensajero te informó de la grave situación.
+TEXT_STMBDY331_03165_GENBU_000_059	Entonces sabes lo que hay que hacer. <if(gnum4,Esta guerrera,Este guerrero)>, <split(<string(gstr1)>, ,1)>, te enfrentará en batalla, como <if(gnum4,ella,él)> hizo antes con Suzaku y Byakko.
+TEXT_STMBDY331_03165_SEIRYU_000_060	...Muy bien. Pero no aquí, porque esto es un templo, no un campo de batalla.
+TEXT_STMBDY331_03165_SEIRYU_000_061	Al este de Hingashi hay una isla que reclamé como mía. Ahí podremos causar estragos a gusto. Queda lejos de aquí, pero confío en que alguien como tú no le hará asco a un largo trecho a nado.
+TEXT_STMBDY331_03165_GENBU_000_062	Quizás no, pero <if(gnum4,la,lo)> cansaría sin necesidad antes de la prueba. Usaré mi dominio de las aguas que fluyen para acelerar su camino.
+TEXT_STMBDY331_03165_SEIRYU_000_063	Si eso me ahorra la carga de cuidar<if(gnum4,la,lo)>, estoy totalmente de acuerdo. Nos reuniremos primero en la Isle of Bekko, y desde ahí empezaremos el viaje.
+TEXT_STMBDY331_03165_GENBU_000_064	¡Chiquilla! ¡Mientras no estoy, quedas a cargo!
+TEXT_STMBDY331_03165_TATARU_000_065	¡Sí, señor, señor tortuguita! ¡Voy a vigilar de cerca a los demás mientras hacen su magia o lo que sea que estén haciendo!
+TEXT_STMBDY331_03165_BUNCHIN_000_070	Por mucho que disfrute de su compañía, ¿no debería estar con Genbu y los demás evitando una calamidad o algo así?
+TEXT_STMBDY331_03165_NUE_000_085	Te lo digo, esto me da mala espina...
+TEXT_STMBDY331_03165_SEITENTAISEI_000_090	No sé por qué están todos tan preocupados. O sea, volvimos a juntar a toda la pandilla, ¿no? ¡Los Four Lords! ¿Qué podría salir mal?
+TEXT_STMBDY331_03165_KUDAGITSUNE_000_095	¿Seguro que no te cruzaste con Tamamo Gozen? ¿No? ¿Y me lo dirías si así fuera? Ah, sí, claro. ¿Por qué no lo harías...?
+TEXT_STMBDY331_03165_INUGAMI_000_100	Hay pocos en quienes pondría mi fe sin dudar. Entre ellos cuento a los Four Lords. No van a fallar.
+TEXT_STMBDY331_03165_KOMAINU_000_105	Así que hemos llegado a esto...
+TEXT_STMBDY331_03165_SEIRYU_000_150	...Hmm. <split(<string(gstr1)>, ,1)>, ¿no?
+TEXT_STMBDY331_03165_SEIRYU_000_151	Entiendo por qué Genbu te tiene aprecio. No eres... muy distinto de él. Eso está claro.
+TEXT_STMBDY331_03165_SEIRYU_000_152	Tenzen también tenía una confianza serena, y bien merecida, por cierto. Cuando enfrentaba a sus enemigos en batalla, espada en mano, era... magnífico...
+TEXT_STMBDY331_03165_GENBU_000_153	Como bien deberías saber, ya que te derrotó en combate singular. Por eso decidiste unirte a nosotros, ¿no?
+TEXT_STMBDY331_03165_SEIRYU_000_154	Sí. Juré superarlo, y desde ese día entrené sin descanso para pulir mis habilidades y ganar una revancha, solo para que se me negara la oportunidad para siempre cuando Koryu lo abatió.
+TEXT_STMBDY331_03165_SEIRYU_000_155	Para cuando me convertí en una bestia auspiciosa hecha y derecha, digna de los Four Lords, ya no quedaba nadie contra quien pelear. Mi juramento estaba roto; mi propósito, perdido.
+TEXT_STMBDY331_03165_GENBU_000_156	Seiryu...
+TEXT_STMBDY331_03165_SEIRYU_000_157	Pero los susurros de mi interior me hablaron de otro. Me prometieron redención, ¡venganza!, si destruía al monstruo que hace mucho nos arrebató a Tenzen.
+TEXT_STMBDY331_03165_GENBU_000_158	...¿Susurros? ¡Hermano, no! ¡No debes!
+TEXT_STMBDY331_03165_SEIRYU_000_159	"La fuerza para abatir a Koryu puede ser tuya si me das voz. Si me dejas guiar el camino". Y eso hice, hermano. ¡Me entregué al aramitama!
+TEXT_STMBDY331_03165_GENBU_000_160	Una locura. Todos saben que no hay que confiar en sus palabras melosas ni en sus falsas promesas. ¿Y aun así te entregarías a él, en cuerpo y alma, quizás para siempre?
+TEXT_STMBDY331_03165_GENBU_000_161	¡Da marcha atrás, hermano, te lo ruego! ¡Antes de que sea demasiado tarde y caigas ante la furia primordial y te vuelvas un cascarón roto! ¡Como Koryu!
+TEXT_STMBDY331_03165_SEIRYU_000_162	¡¿Crees que no sé lo que está en juego?! ¡Si debo volverme un demonio para matar a otro, lo hago con gusto! ¡Mi juramento lo exige!
+TEXT_STMBDY331_03165_SEIRYU_000_163	Solo entregándonos al aramitama nos libraremos de Koryu. Eso lo sé. No me apartarás de este camino, <if(gnum4,guerrera,guerrero)>.
+TEXT_STMBDY331_03165_Q1_000_000	¿Qué vas a decir?
+TEXT_STMBDY331_03165_A1_000_001	Voy a someter tu aramitama, de una forma u otra.
+TEXT_STMBDY331_03165_A1_000_002	...
+TEXT_STMBDY331_03165_SEIRYU_000_165	Veo que tú también estás <if(gnum4,decidida,decidido)> a seguir tu rumbo. No es de extrañar, después de que peleaste con Byakko y Suzaku.
+TEXT_STMBDY331_03165_SEIRYU_000_166	Entonces dejemos de discutir, y que la batalla decida quién tiene razón... y quién muere.
+TEXT_STMBDY331_03165_GENBU_000_167	Esto sí que es un giro inquietante. Al entregarse al aramitama, los shiki que dirige podrían ser una amenaza mucho mayor...
+TEXT_STMBDY331_03165_GENBU_000_168	Aun así, nuestro propósito no cambia. ¡Tienes que mostrarle su error, <split(<string(gstr1)>, ,1)>, y salvarlo de su furia primordial!
+TEXT_STMBDY331_03165_GENBU_000_170	Este lugar parece lo bastante apartado para hablar. Excelente.
+TEXT_STMBDY331_03165_TATARU_000_175	¡No te preocupes! ¡Esta chiquilla tiene todo bajo control!
+TEXT_STMBDY331_03165_GENBU_000_200	Cuando estés <if(gnum4,lista,listo)>, te llevaré a ti y a tus compañeros aventureros a la guarida de Seiryu. Te acordaste de reunir a tus compañeros aventureros, ¿no?
+TEXT_STMBDY331_03165_SEIRYU_000_250	Eres <if(gnum4,la sucesora,el sucesor)> de Tenzen en todo sentido, <if(gnum4,guerrera,guerrero)>, porque eres apenas la segunda criatura humana que me derrota en batalla...
+TEXT_STMBDY331_03165_SEIRYU_000_251	Antes, nunca lo habría creído posible. Cuando no era más que una simple serpiente con la suerte de haber nacido en una isla donde la gente nos tenía en la más alta estima. Para ellos yo era como un kami, y fui lo bastante tonto para creerlo también.
+TEXT_STMBDY331_03165_SEIRYU_000_252	Pero cuando había vivido unos pocos siglos y empecé a mostrar poderes verdaderos, mis fieles empezaron a verme de otra manera...
+TEXT_STMBDY331_03165_SEIRYU_000_253	Cuando la calamidad los visitó, creyeron por error que yo era la causa. Y así, en lugar de las ofrendas de siempre, me trajeron a sus propios hijos.
+TEXT_STMBDY331_03165_SEIRYU_000_254	Aunque yo no tuve nada que ver, su suerte mejoró. Para ellos, la respuesta era clara: solo un sacrificio mayor satisfaría a la serpiente guardiana. Poco sabían que yo había perdonado a la doncella y la había llevado en secreto a otra tierra, como haría con las que vendrían después...
+TEXT_STMBDY331_03165_SEIRYU_000_255	Aun así, la creencia persistió... y pronto la serpiente guardiana pasó a ser vista como un demonio malévolo, y mis fieles se volvieron mis detractores.
+TEXT_STMBDY331_03165_SEIRYU_000_256	Tentaban con koban a los mercenarios para que vinieran a matarme, los pobres tontos. Así empezaron mis días como kami perseguido.
+TEXT_STMBDY331_03165_SEIRYU_000_257	Me deshacía de ellos cada vez, aunque no me causaba mucha alegría. Y entonces, un día, apareció ante mí un hombre distinto de todos los demás. Un samurái en compañía de bestias.
+TEXT_STMBDY331_03165_SEIRYU_000_258	Tenzen y yo peleamos. Él ganó. El kami caído por fin había sido derrotado por un cazador de fortunas. No pude evitar reírme mientras cerraba los ojos y esperaba el golpe inevitable...
+TEXT_STMBDY331_03165_SEIRYU_000_259	"Únete a mí. Empecemos de nuevo". Y diciendo esto, me tendió la mano.
+TEXT_STMBDY331_03165_SEIRYU_000_260	Todo lo que era, todo lo que había sido ya no existía. No tenía nada... y aun así no solo le pareció bien perdonarme, sino también ofrecerme un nuevo hogar.
+TEXT_STMBDY331_03165_SEIRYU_000_261	Pero hasta un kami caído tiene su orgullo, y no podía aceptar tan fácilmente semejante bondad, aunque la anhelara. Al ver esto, Tenzen se rió...
+TEXT_STMBDY331_03165_SEIRYU_000_262	"Entonces gánatelo volviéndote más fuerte y usando esa fuerza para ayudar a otros, como te ayudaron a ti. Vuélvete más de lo que eres, y más que yo".
+TEXT_STMBDY331_03165_SEIRYU_000_263	Así juré dedicarme a convertirme en una bestia auspiciosa digna de la veneración y la admiración de los hombres. En un dragón magnífico que protegiera a sus elegidos.
+TEXT_STMBDY331_03165_SEIRYU_000_264	Qué extraño... mi recuerdo ahora no es como antes. Detalles que eran borrosos ahora son vívidos y claros. Quizás el aramitama nublaba mi juicio...
+TEXT_STMBDY331_03165_SEIRYU_000_265	Gracias, <split(<string(gstr1)>, ,1)>. Si no me hubieras ayudado a recordar mi juramento, podría haber perdido para siempre la oportunidad de honrar la memoria de Tenzen.
+TEXT_STMBDY331_03165_SEIRYU_000_266	Espera... ¿dónde está Genbu? ¿Volvió al templo sin nosotros? Esto no augura nada bueno.
+TEXT_STMBDY331_03165_GENBU_000_300	Ah, ¿volviste? ¿Pero dónde está Seiryu?

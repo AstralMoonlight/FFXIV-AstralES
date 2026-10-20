@@ -1,0 +1,132 @@
+key	text
+TEXT_STMBDY321_03152_SEQ_00	Bunchin tiene en la mano otra misiva dirigida a ti.
+TEXT_STMBDY321_03152_SEQ_01	Genbu de los Four Lords, las legendarias bestias auspiciosas que hacen de guardianes del Ruby Sea, te llamó otra vez a su santuario oculto bajo Hells' Lid. Aunque no reveló sus motivos, lo más probable es que tenga que ver con la inminente fuga del prisionero Koryu.
+TEXT_STMBDY321_03152_SEQ_02	Como era de esperar, Genbu busca tu ayuda para someter el aramitama de uno de sus camaradas, la bestia auspiciosa Suzaku. Sin embargo, cuando Genbu te compara con Tenzen, Suzaku monta en cólera, ofendida por la idea de que un mortal pueda compararse alguna vez con el difunto héroe. De hecho, parece que esta historia tiene más de lo que se ve a simple vista...
+TEXT_STMBDY321_03152_SEQ_03	Suzaku todavía llora a Tenzen, a quien al parecer amó con todo su corazón, y a pesar de la amenaza de que Koryu se libere, no logra dejar atrás su pasado atormentado. Byakko intenta hacer entrar en razón a su camarada enferma, pero por desgracia el aramitama la llevó al borde de la locura, tanto que a veces parece confundirte con su amado. Por suerte, accede a un combate para que puedas someter su furia primordial, pero si tú y los tuyos flaquean, no dudará en arrojarlos a las profundidades de fuego.<br><br>※Se puede acceder a Hells' Kier desde el Duty Finder.
+TEXT_STMBDY321_03152_SEQ_04	Los poderes de transformación de Suzaku eran sin duda maravillosos de ver, por mortales que fueran. Aun así, no bastaron para desconcertarlos a ti y a tus compañeros ni para apartarlos de su objetivo. La bestia auspiciosa vuelve a ser dueña de su alma.
+TEXT_STMBDY321_03152_SEQ_05	Tras la batalla, Suzaku recuerda al hombre que tanto amó: cómo se conocieron y recorrieron la tierra con sus hermanos auspiciosos, ganándose la confianza y el cariño de tantos, solo para ver sin poder hacer nada cómo su líder caía ante su mayor enemigo. Por la más cruel de las ironías, Suzaku terminó teniendo poderes con los que podría haber salvado a Tenzen, y durante largos años se preguntó qué propósito le tenía reservado el destino, pero ya no. Una vez más unirá fuerzas con Genbu y Byakko para continuar el legado de su amado y defender el reino de las fuerzas que quieren destruirlo.
+TEXT_STMBDY321_03152_SEQ_06	Genbu y los demás sienten alivio al ver que Suzaku vuelve a ser ella misma. Ojalá pudiera decirse lo mismo de Soroban, que por ahora quedó transformado en una tortuga gigante, quizás por haber invocado a un gran kami dentro de su propio cuerpo. Aunque el Kojin está comprensiblemente angustiado, a Genbu no le preocupa, y a Tataru simplemente le molesta que la historia se repita, en cierto modo. En todo caso, tu trabajo está hecho, y Soroban probablemente se recupere. Probablemente.
+TEXT_STMBDY321_03152_SEQ_07	Hay que reconocer que Bunchin se toma con calma la noticia del aprieto de Soroban. Si acaso, parece algo desconcertado por todo el asunto, sin saber si es una especie de broma elaborada de Eorzea. El humor es subjetivo, por decir lo menos...
+TEXT_STMBDY321_03152_TODO_00	Habla con Genbu en Reisen Temple.
+TEXT_STMBDY321_03152_TODO_01	Habla con Suzaku.
+TEXT_STMBDY321_03152_TODO_02	Enfrenta a Suzaku en Hells' Kier.
+TEXT_STMBDY321_03152_TODO_03	Enfrenta a Suzaku en Hells' Kier.
+TEXT_STMBDY321_03152_TODO_04	Habla con Genbu.
+TEXT_STMBDY321_03152_TODO_05	Habla con Bunchin en Tamamizu.
+TEXT_STMBDY321_03152_BUNCHIN_000_001	Qué amable de su parte visitarnos, <split(<string(gstr1)>, ,1)>. Así no tengo que <if(gnum4,mandarla,mandarlo)> a llamar.
+TEXT_STMBDY321_03152_BUNCHIN_000_002	Hace apenas un momento volvió cierto gato malhumorado con otra misiva dirigida a usted. Véalo usted mismo...
+TEXT_STMBDY321_03152_BUNCHIN_000_003	(-Misiva de Genbu-)<if(gnum4,Valiente aventurera,Valiente aventurero)> que se mantuvo firme y sometió el aramitama furioso de mi camarada Byakko: llegó la hora de que vuelvas a Reisen Temple.
+TEXT_STMBDY321_03152_BUNCHIN_000_004	¿Supongo que las bestias auspiciosas de Hells' Lid <if(gnum4,la,lo)> necesitan otra vez? Si es así, salúdelas de mi parte, y al querido Soroban.
+TEXT_STMBDY321_03152_GENBU_000_010	¡<if(gnum4,Bienvenida,Bienvenido)>, <split(<string(gstr1)>, ,1)>, <if(gnum4,bienvenida,bienvenido)>! Pero espera... ¿dónde está la chiquilla a la que le tomé tanto cariño?
+TEXT_STMBDY321_03152_GENBU_000_011	Sería un descuido seguir sin ella, ¿no? ¿Por qué no la llamas con ese cachivache tuyo, tu linkpearl?
+TEXT_STMBDY321_03152_TATARU_000_012	(-Tataru-)¿Hola? <split(<string(gstr1)>, ,1)>, ¿eres tú?
+TEXT_STMBDY321_03152_TATARU_000_013	(-Tataru-)...¿Eh? ¿Ahora mismo? Está bien, si insistes...
+TEXT_STMBDY321_03152_GENBU_000_014	Qué cosas tan maravillosas, estas linkpearls. Bien, esperemos a que llegue tu amiga...
+TEXT_STMBDY321_03152_TATARU_000_015	<split(<string(gstr1)>, ,1)>, Genbu.
+TEXT_STMBDY321_03152_GENBU_000_016	Ah, qué bueno que nos acompañes, pequeña chiquilla.
+TEXT_STMBDY321_03152_TATARU_000_017	...Sabe, hay algo que se llama exprimir un chiste hasta el cansancio.
+TEXT_STMBDY321_03152_GENBU_000_018	Me complace informarte que, gracias a tu ayuda con su entrenamiento, la fuerza de Soroban creció a pasos agigantados. Dentro de poco podremos contarlo entre nuestros guerreros más temibles.
+TEXT_STMBDY321_03152_TATARU_000_019	Por curiosidad, ¿dónde está Soroban, de todos modos?
+TEXT_STMBDY321_03152_GENBU_000_020	Absorto en un ejercicio muy especial, me temo. Créeme si te digo que no querría que lo vieras en su estado actual.
+TEXT_STMBDY321_03152_TATARU_000_021	Sudando la gota gorda, seguro. ¡Me alegra saberlo!
+TEXT_STMBDY321_03152_GENBU_000_022	Pero no los llamé para hablar de nuestro amigo Kojin.
+TEXT_STMBDY321_03152_GENBU_000_023	Los sellos se debilitaron, anunciando la fuga inevitable de Koryu.
+TEXT_STMBDY321_03152_GENBU_000_024	Antes de que se libere, los Four Lords deben reunir sus fuerzas.
+TEXT_STMBDY321_03152_GENBU_000_025	Y por eso, <split(<string(gstr1)>, ,1)>, debo pedirte una vez más que sometas el aramitama furioso de un querido camarada.
+TEXT_STMBDY321_03152_TATARU_000_026	¿Una pelea, entonces? ¡Ahí es donde brilla nuestro Warrior of Light! ¿Quién es su rival esta vez?
+TEXT_STMBDY321_03152_GENBU_000_027	Míralo tú misma. Debería unirse a nosotros en breve...
+TEXT_STMBDY321_03152_SUZAKU_000_028	(-???-)Ha pasado demasiado tiempo, hermano mayor.
+TEXT_STMBDY321_03152_GENBU_000_029	Varios cientos de años, según mis cuentas. ¿Debo suponer que mantuviste tu vigilia silenciosa todo este tiempo, Suzaku?
+TEXT_STMBDY321_03152_SUZAKU_000_030	...No hablemos de esas cosas. Usted me hizo venir hasta aquí con otro propósito.
+TEXT_STMBDY321_03152_GENBU_000_031	Así es. Los sellos de Koryu se debilitan día a día, y la calamidad que traería sobre nosotros se acerca. Los Four Lords deben unir sus fuerzas una vez más.
+TEXT_STMBDY321_03152_SUZAKU_000_032	Y para eso, <if(gnum4,esta guerrera,este guerrero)> aliviaría mi alma atormentada.
+TEXT_STMBDY321_03152_GENBU_000_033	Así es. El suyo es un poder que supera con creces el de los hombres mortales. <if(gnum4,Ella,Él)> es <if(gnum4,la heredera,el heredero)> del legado de Tenzen.
+TEXT_STMBDY321_03152_SUZAKU_000_034	¡Hermano! ¡Cómo se atreve a comparar a esta <italic(1)>criatura<italic(0)> con aquel modelo radiante de virtud, de bondad! Mancha su memoria...
+TEXT_STMBDY321_03152_SUZAKU_000_035	¡Y usted! ¿Se atreve a creerse su igual? ¡¿Su superior?! Entonces <if(gnum4,la,lo)> pondré a prueba. Y cuando caiga, será un destino muy merecido.
+TEXT_STMBDY321_03152_SUZAKU_100_035	Dé media vuelta si no quiere que sea así. O acompáñeme en la desdicha.
+TEXT_STMBDY321_03152_TATARU_100_035	Comparada con Byakko, parece mucho más... enojada...
+TEXT_STMBDY321_03152_GENBU_000_036	El aramitama se alimenta de su pena y aviva su furia. Todavía llora un amor perdido... pero no me corresponde a mí hablar. Ve con ella, <if(gnum4,valiente guerrera,valiente guerrero)>, y descubre la verdad de su corazón.
+TEXT_STMBDY321_03152_BUNCHIN_000_040	Avíseme cómo está Soroban. No podemos evitar preocuparnos por él, aunque sepamos que está en buenas manos.
+TEXT_STMBDY321_03152_BYAKKO_000_045	¿Volviste, entonces? Bien. Genbu te está buscando.
+TEXT_STMBDY321_03152_SUZAKU_000_050	Así que ansía la batalla. Aunque le traiga la muerte.
+TEXT_STMBDY321_03152_SUZAKU_000_051	...Por deber se enfrenta a enemigos cada vez más fuertes. Sin vacilar, sin miedo, reúne su valor, y... y...
+TEXT_STMBDY321_03152_SUZAKU_000_052	¡No! ¡No es ni una pálida sombra de su gloria! Hubo un solo hombre digno de llevar el manto de héroe, y dejó este mundo hace mucho...
+TEXT_STMBDY321_03152_BYAKKO_100_052	Si es así, el Ruby Sea será consumido por el juicio de fuego de Koryu, y nosotros, sus protectores jurados, habremos fallado en nuestro deber. ¿Tan sagrada es la memoria de Tenzen que condenarías esta tierra por despecho?
+TEXT_STMBDY321_03152_SUZAKU_000_053	Ay, Byakko, ¿no lo ves? Antes de llamarte hermano, yo no era más que un ave que amaba a un hombre. Quizás eso era todo lo que estaba destinada a ser, porque no tolero ningún reemplazo a mi lado ni en mi corazón. No tan fácilmente como tú...
+TEXT_STMBDY321_03152_BYAKKO_100_053	¿Olvidaste sus últimos momentos? ¿Cómo luchó y murió para derrotar a Koryu, cómo se sacrificó ante nuestros propios ojos?
+TEXT_STMBDY321_03152_SUZAKU_200_053	¡Cómo te atreves a preguntarme eso! ¡Cada detalle está grabado para siempre en mi mente, una cicatriz ennegrecida en mi alma! ¡¿Cómo podría olvidarlo?!
+TEXT_STMBDY321_03152_BYAKKO_300_053	¡Ni deberías! Tampoco olvidaré yo cada día que pasamos juntos en el camino. ¡Pero exaltar el pasado por encima del presente, vivir de luto y nunca seguir adelante es deshonrar su memoria!
+TEXT_STMBDY321_03152_SUZAKU_400_053	¡Cómo te atreves a hablarme de deshonra! ¡Tú, que le abriste nuestro hogar a <if(gnum4,esta impostora,este impostor)>! ¡<if(gnum4,La,Lo)> veo con claridad! Cómo se ha metido en sus corazones, imitando los modales de Tenzen, envolviéndose en su olor, ¡buscando ocupar el lugar de Tenzen en nuestras mentes!
+TEXT_STMBDY321_03152_BYAKKO_500_053	Escúchate, hermana mía. El aramitama te hace ver oni en las sombras. Deja que lo sometan, antes de que tu alma se pierda para siempre.
+TEXT_STMBDY321_03152_SUZAKU_600_053	¡Solo a Tenzen le confiaré mi alma! ¡Solo su amor aceptaré!
+TEXT_STMBDY321_03152_Q1_000_000	¿Qué vas a decir?
+TEXT_STMBDY321_03152_A1_000_001	Déjame ayudarte.
+TEXT_STMBDY321_03152_A1_000_002	No tienes nada que temer de mí.
+TEXT_STMBDY321_03152_SUZAKU_000_055	Él decía... él decía... Ay, Tenzen...<br>¡Muy bien! ¡Pero no toleraré demoras!
+TEXT_STMBDY321_03152_SUZAKU_000_057	Lo esperaré en las profundidades, en mi lugar de luto. Y cuando termine, también <if(gnum4,la,lo)> lloraré a usted...
+TEXT_STMBDY321_03152_BYAKKO_000_059	Perdónala, <split(<string(gstr1)>, ,1)>. Todavía la consume no haber podido salvar a Tenzen hace tantos años. Su arrepentimiento es como una herida que supura.
+TEXT_STMBDY321_03152_BYAKKO_100_059	El amor que le tenía le dio fuerza una vez. Por desgracia, a través de él el aramitama hizo presa en su alma. Se alimenta de su pena y su desesperación.
+TEXT_STMBDY321_03152_BYAKKO_200_059	Está claro que tu presencia también la inquieta. Siente tu bendición, y le recuerda a él. Hubo momentos en que te miraba con fuego en los ojos...
+TEXT_STMBDY321_03152_BYAKKO_300_059	Cuando se entregue al aramitama, puede que también se entregue a sus delirios. Si es así, no te alarmes por lo que diga. Mantente firme y libérala de su tormento.
+TEXT_STMBDY321_03152_BYAKKO_400_059	Te advierto: domina muchos poderes, entre ellos la capacidad de manipular las corrientes geománticas. Solo si estás atento sobrevivirás.
+TEXT_STMBDY321_03152_GENBU_000_060	Perdónala, <if(gnum4,amiga mía,amigo mío)>. No sabe lo que dice...
+TEXT_STMBDY321_03152_TATARU_000_065	Ten cuidado, <split(<string(gstr1)>, ,1)>. No creo que se vaya a rendir tan fácil...
+TEXT_STMBDY321_03152_BYAKKO_000_070	Nuestra querida hermana Suzaku volvió. Ruego que esta vez entre en razón.
+TEXT_STMBDY321_03152_BYAKKO_000_075	Recuerda: no pierdas de vista lo que te rodea cuando enfrentes a Suzaku. Si quieres superar las pruebas que te ponga, tienes que estar atento.
+TEXT_STMBDY321_03152_SUZAKU_000_090	...¿Cuánto tiempo me cegó este sueño? Esta pesadilla interminable, sin poder escapar del recuerdo de mi amado...
+TEXT_STMBDY321_03152_SUZAKU_000_091	Le debo una disculpa, <if(gnum4,valiente guerrera,valiente guerrero)>, y también la vida. A pesar del trato grosero e irrespetuoso que le di, arriesgó su vida para liberar mi corazón del terrible delirio que amenazaba con consumir mi alma.
+TEXT_STMBDY321_03152_SUZAKU_000_092	Por primera vez en siglos, puedo recordar mi tiempo con el hombre que tanto amé sin que se me llenen los ojos de lágrimas...
+TEXT_STMBDY321_03152_SUZAKU_000_093	Nací en este mundo hace mucho, mucho tiempo, bendecida con un plumaje carmesí que brillaba al sol como fuego ardiente.
+TEXT_STMBDY321_03152_SUZAKU_000_094	Comparaban mi forma con la del Firebird de la leyenda, un ser que según dicen podía otorgar la inmortalidad a los hombres mortales.
+TEXT_STMBDY321_03152_SUZAKU_000_095	Por eso me perseguían sin descanso quienes ansiaban vencer a la muerte. Para ellos, para toda la humanidad, yo no era más que un medio para un fin...
+TEXT_STMBDY321_03152_SUZAKU_000_096	Pero Tenzen... Tenzen no me miraba así. Para él yo era mucho más... y él llegaría a ser todo para mí...
+TEXT_STMBDY321_03152_SUZAKU_000_097	Juntos viajamos, los Four Lords y el samurái. Como compañeros de armas recorrimos el reino. Al principio muchos nos temían por nuestra naturaleza...
+TEXT_STMBDY321_03152_SUZAKU_000_098	Pero Tenzen, mi querido Tenzen, no le cerraba el corazón al sufrimiento de la gente. Ni una sola vez dudó en tender una mano, y uno por uno se ganó a quienes antes nos maldecían y nos condenaban.
+TEXT_STMBDY321_03152_SUZAKU_000_099	Ya fueran oni que matar en el este o espectros que exorcizar en el oeste, sin vacilar nos pedía que estuviéramos a la altura, y dejaba hombres y mujeres agradecidos que corrían la voz de nuestras hazañas. Una voz que, un día, llegó a oídos de un rey...
+TEXT_STMBDY321_03152_SUZAKU_000_100	Fue por orden del rey que combatimos a la bestia auspiciosa enloquecida, Koryu. A pesar de las muchas hazañas en nuestro haber, los cuatro solo habíamos vivido unos pocos siglos, y no éramos rivales para nuestro enemigo.
+TEXT_STMBDY321_03152_SUZAKU_000_101	Ante el poder del aramitama furioso de Koryu, mis hermanos y yo no podíamos hacer nada. Pero Tenzen... el valiente Tenzen no se dio por vencido. Al final desató una técnica poderosa, aun sabiendo muy bien que lo dejaría expuesto...
+TEXT_STMBDY321_03152_SUZAKU_000_102	Vi cómo la luz abandonaba sus ojos para siempre...
+TEXT_STMBDY321_03152_SUZAKU_000_103	¡Si yo hubiera sido el Firebird de la leyenda... si hubiera tenido el poder de la inmortalidad! Si hubiera podido rescatarlo del abismo de obsidiana de la muerte...
+TEXT_STMBDY321_03152_SUZAKU_000_104	Y entonces, la ironía más cruel de todas. Siglos después, cuando por fin pasé por el cambio, la inmortalidad quedó bajo mi mando. Solo puedo preguntarme si fue mi pena sin fondo por mi amado lo que lo hizo posible.
+TEXT_STMBDY321_03152_SUZAKU_000_105	El poder que tan desesperadamente anhelé ese día ahora es mío. Si no para salvarlo a él, quizás...
+TEXT_STMBDY321_03152_SUZAKU_000_106	...Quizás para salvar a aquellos por quienes Tenzen murió.
+TEXT_STMBDY321_03152_SUZAKU_000_107	Por la memoria de mi amado, por su legado, lucharé. Vamos a decírselo juntos a Genbu. Y, <split(<string(gstr1)>, ,1)>... gracias.
+TEXT_STMBDY321_03152_FURI_000_108	¿Vas a la superficie? ¡Sígueme!
+TEXT_STMBDY321_03152_SYSTEM_100_108	¿Salir de Reisen Temple?
+TEXT_STMBDY321_03152_FURI_200_108	¿Necesitas un guía para volver al templo? ¡Claro que sí! ¡Sígueme!
+TEXT_STMBDY321_03152_SYSTEM_300_108	¿Entrar a Reisen Temple?
+TEXT_STMBDY321_03152_GENBU_000_110	Ojo, veo que sigues <if(gnum4,entera,entero)>. ¿Supongo que todo salió bien?
+TEXT_STMBDY321_03152_SUZAKU_000_111	Quédese tranquilo, hermano mayor: vuelvo a ser yo misma.
+TEXT_STMBDY321_03152_TATARU_000_112	¡Sin duda se ve distinta que antes! Como si le hubieran sacado un gran peso de encima. ¡Diría que su cara es la viva imagen de la serenidad!
+TEXT_STMBDY321_03152_SUZAKU_000_113	Qué perspicaz eres, pequeña. Así es, por fin acepté la muerte de mi amado Tenzen...
+TEXT_STMBDY321_03152_BYAKKO_000_114	¡Por fin, de verdad! Aunque quizás estos largos periodos de angustia son inevitables cuando uno vive más de mil años. Yo mismo conozco bien la melancolía.
+TEXT_STMBDY321_03152_SUZAKU_000_115	...No, hermano mío, eso sí que no se puede negar.
+TEXT_STMBDY321_03152_GENBU_000_116	¡Ay, qué olvidadizo soy! Todavía no fui a ver cómo va el entrenamiento de Soroban.
+TEXT_STMBDY321_03152_GENBU_000_117	¿Soroban? ¡Soroban!
+TEXT_STMBDY321_03152_TATARU_000_118	¡E-Espera, este chiste me lo sé! ¡Ejem!
+TEXT_STMBDY321_03152_TATARU_100_118	¡Es un Firebird!
+TEXT_STMBDY321_03152_TATARU_200_118	¡No, es una aeronave!
+TEXT_STMBDY321_03152_GENBU_000_119	¡Ojojó! No, chiquilla que conoce el género, porque en realidad es...
+TEXT_STMBDY321_03152_GENBU_000_120	¡Soroban!
+TEXT_STMBDY321_03152_TATARU_000_121	O sea... esperaba verlo de algún modo, pero no así...
+TEXT_STMBDY321_03152_SOROBAN_000_122	¡Nadie me dijo que este entrenamiento me llevaría a una transformación tan radical! ¡Mírenme! ¡Soy una tortuga gigante! ¡Una tortuga!
+TEXT_STMBDY321_03152_TATARU_000_123	...Me equivoqué. <italic(1)>Esto<italic(0)> sí que es exprimir un chiste hasta el cansancio.
+TEXT_STMBDY321_03152_GENBU_000_124	No hay por qué entrar en pánico, Soroban. Seguramente recitaste mal las palabras y ofreciste tu cuerpo como recipiente para un gran kami tortuga.
+TEXT_STMBDY321_03152_SOROBAN_000_125	¡Eso me parece un muy, muy buen motivo para entrar en pánico! A menos que... ¿vuelva a la normalidad en un rato? ¿Como con el tamate-bako de geomancia?
+TEXT_STMBDY321_03152_GENBU_000_126	Ah, bueno... no podría decirlo con mucha certeza, pero quizás recuperes tu forma original para cuando <split(<string(gstr1)>, ,1)> someta el aramitama de Seiryu.
+TEXT_STMBDY321_03152_SOROBAN_000_127	¿Quizás? ¡¿Quizás?! ¿Qué es eso de "quizás"? ¡"Quizás" no es una respuesta aceptable!
+TEXT_STMBDY321_03152_GENBU_000_128	Debes estar <if(gnum4,agotada,agotado)> por tu batalla con Suzaku, amigo mío. Quizás lo mejor sería que volvieras a la tierra de arriba a descansar.
+TEXT_STMBDY321_03152_TATARU_000_129	Tiene razón. Dudo que nos necesiten aquí por un tiempo, y Soroban no parece estar de humor para visitas. ¡No dejes de contactarme si surge algo!
+TEXT_STMBDY321_03152_SOROBAN_000_130	Tenía intenciones de volver a casa, aunque fuera por poco tiempo, pero en mi estado actual no parece probable. Si pudiera ir en mi lugar y decirle al anciano que estoy... sano y salvo, se lo agradecería muchísimo.
+TEXT_STMBDY321_03152_TATARU_000_135	¿Cómo te fue en la batalla con Suzaku? ¿Sigue tan... difícil?
+TEXT_STMBDY321_03152_BYAKKO_000_140	¿Es cierto que en el Oeste cazan Lalafells por deporte? Me lo contó una bestia auspiciosa que oyó a unos aventureros extranjeros en Yanxia. Una historia extraña...
+TEXT_STMBDY321_03152_SUZAKU_000_145	Durante mucho tiempo me pregunté por qué me habían concedido este poder sobre la vida y la muerte demasiado tarde para salvar a mi amado.
+TEXT_STMBDY321_03152_SUZAKU_000_146	Ahora lo entiendo: para continuar el legado de Tenzen, para salvar a aquellos por quienes lo dio todo. Gracias por ayudarme a darme cuenta, <split(<string(gstr1)>, ,1)>.
+TEXT_STMBDY321_03152_BUNCHIN_000_150	Ah, <split(<string(gstr1)>, ,1)>. ¿Todo bien con nuestros amigos bajo Hells' Lid? ¿Y Soroban? ¿Cómo va su entrenamiento?
+TEXT_STMBDY321_03152_BUNCHIN_000_151	¿Que... no hizo bien un ritual y se transformó en tortuga, dice? Pero usted sabe que... Ah, ya veo. Debe ser algún tipo de broma de Eorzea. Qué gracioso.
+TEXT_STMBDY321_03152_BUNCHIN_000_152	Una lástima que no lo vayamos a ver en un buen tiempo, pero confiaré en que es lo mejor, como antes. Que se tome todo el tiempo que necesite... ¡al fin y al cabo, es una tortuga! Ja, ja... ja... Hmm. No, sigue sin tener sentido para mí...
+TEXT_STMBDY321_03152_GENBU_000_155	No tienes que preocuparte por Soroban. Estará bien. Con el tiempo. Probablemente.
+TEXT_STMBDY321_03152_SOROBAN_000_160	¿De verdad me convertí en el anfitrión de un gran kami? ¿Y si no quiere irse?
+TEXT_STMBDY321_03152_SUZAKU_000_165	Ay, mi amado, ruego que todavía veles por mí...
+TEXT_STMBDY321_03152_BYAKKO_000_170	A mí me tomó siglos aceptar la muerte de Tenzen. Que Suzaku no lo hubiera logrado no me sorprendió. Igual que nosotros, Seiryu lo quería mucho, y no puedo evitar temer que a él también le cueste aceptar tu papel en esto...
+TEXT_STMBDY321_03152_SYSTEM_171	¡Aprendiste el emote <colortype(500)><edgecolortype(501)>Hum<edgecolortype(0)><colortype(0)>!
