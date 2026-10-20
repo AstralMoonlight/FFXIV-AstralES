@@ -92,7 +92,9 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | **Stormblood** | 4.0 | Historia principal, de "Beyond the Great Wall" a "Stormblood" | ![Traducido][ok] |
 | | | Raid de 8: Omega (Deltascape, Sigmascape, Alphascape) | ![Traducido][ok] |
 | | | Raid de alianza (24): Return to Ivalice | ![Traducido][ok] |
+| | | Frases de combate de dungeons, trials, ultimates y batallas de misión | ![Traducido][ok] |
 | **Post Stormblood** | 4.1–4.56 | Historia principal, de "Arenvald's Adventure" a "A Requiem for Heroes" | ![Traducido][ok] |
+| | | Primals: The Four Lords (Byakko, Suzaku, Seiryu) | ![Traducido][ok] |
 | **Shadowbringers** | 5.0 | Historia principal, de "The Syrcus Trench" a "Shadowbringers" | ![Traducido][ok] |
 | | | Raid de 8: Eden (Gate, Verse, Promise) | ![Pendiente][no] |
 | | | Raid de alianza (24): YoRHa: Dark Apocalypse | ![Pendiente][no] |
