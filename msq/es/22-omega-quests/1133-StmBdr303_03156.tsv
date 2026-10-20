@@ -1,0 +1,205 @@
+key	text
+TEXT_STMBDR303_03156_SEQ_00	Cid espera a que Omega haga su próximo movimiento.
+TEXT_STMBDR303_03156_SEQ_01	Omega reconoció tu destreza y busca concluir sus experimentos con un enfrentamiento directo. Con la batalla final a la vista, Cid te pide que le des tiempo para hacer algunos preparativos importantes. Tras hacer unos ajustes en las terminales del campamento base y dirigirle unas palabras de ánimo a Alpha, el ingeniero sugiere que todos salgan de la grieta. Aún queda trabajo por hacer.
+TEXT_STMBDR303_03156_SEQ_02	Se reúnen un momento en el borde del Yawn, y Cid explica que necesita hacerle una inspección final a su nuevo dispositivo. Alpha parece preocupado por el estado de ánimo de Cid, y sientes que debes seguir al chocobo de vuelta a Rhalgr's Reach para ver cómo está el ingeniero.
+TEXT_STMBDR303_03156_SEQ_03	Desde la sombra de un pilar, ves a Cid hablar de sus recelos con un Nero desconcertado. Tras un intercambio largo y al parecer liberador, parece que el jefe por fin está listo para lo que venga...
+TEXT_STMBDR303_03156_SEQ_04	Cid declara terminado su dispositivo y te pide que lo acompañes otra vez a la grieta. Supones que un incansable empleado de los Ironworks estará esperando para ayudarte a descender al Yawn.
+TEXT_STMBDR303_03156_SEQ_05	Cid presenta el último invento de los Ironworks: el Omega Jammer. Con el módulo de control deberías poder desactivar el armamento de la máquina con una descarga dirigida de rayos concentrados. Ruegas que el inhibidor te dé la ventaja que necesitas mientras te preparas para activar el dispositivo de traslado y enfrentar al propio Omega en la arena que hay más allá.<br><br>※Se puede entrar a Alphascape V3.0 mediante el Duty Finder.
+TEXT_STMBDR303_03156_SEQ_06	Entraste en combate contra Omega, un arma antigua de tecnología mortal e inescrutable, ¡y te alzaste con la victoria! Cid y Alpha esperan para felicitarte por tu increíble triunfo.<br><br>※Si sales de la Interdimensional Rift, puedes volver a entrar hablando con el empleado de los Ironworks que está en el Yawn.
+TEXT_STMBDR303_03156_SEQ_07	Aun mientras contemplas a tu enemigo vencido, Omega lucha por volver a ponerse en pie. Frustrado en sus intentos de entender tus capacidades, la máquina parece decidirse por un nuevo método de prueba, una decisión que provoca que la grieta se contraiga y que te expulse a una dimensión nula. Pero gracias al valor y la determinación de Alpha, llegas a una plataforma flotante en el mar de la nada... ¡y a otro enfrentamiento con un Omega reconfigurado!<br><br>※Se puede entrar a Alphascape V4.0 mediante el Duty Finder.
+TEXT_STMBDR303_03156_SEQ_08	Venciste a Omega y pusiste fin a su directiva milenaria de evolucionar en una amenaza cada vez mayor. Las tierras áridas de los Fringes te llaman de vuelta con la promesa de una estabilidad cotidiana...
+TEXT_STMBDR303_03156_SEQ_09	Con la verdadera derrota de Omega, los últimos restos de la grieta se derrumban a tu alrededor. Todo parece perdido, hasta que ves la enorme figura de Hraesvelgr volando hacia ti, con dos figuras conocidas sobre su lomo. Sin ponerte exigente con el wyrm que te cae del cielo, aceptas de buena gana que te lleve de vuelta al borde del Yawn. Aunque Midgardsormr no pudo estar allí en persona, parece que envió a Hraesvelgr en su lugar para ofrecerte una salida de la grieta y elogiar tu victoria.
+TEXT_STMBDR303_03156_SEQ_10	Sorprendido por el rescate de Hraesvelgr, Cid agradece igual la intervención de Midgardsormr y su prole. Vencer a Omega era la primera prioridad del jefe, pero sobrevivir para celebrarlo parece haber sido una segunda muy cercana.
+TEXT_STMBDR303_03156_TODO_00	Habla con Cid.
+TEXT_STMBDR303_03156_TODO_01	Busca a Cid en Rhalgr's Reach.
+TEXT_STMBDR303_03156_TODO_02	Habla con Cid.
+TEXT_STMBDR303_03156_TODO_03	Habla con Cid en la Interdimensional Rift.
+TEXT_STMBDR303_03156_TODO_04	Entra a Alphascape V3.0.
+TEXT_STMBDR303_03156_TODO_05	Entra a Alphascape V3.0.
+TEXT_STMBDR303_03156_TODO_06	Entra a Alphascape V4.0.
+TEXT_STMBDR303_03156_TODO_07	Entra a Alphascape V4.0.
+TEXT_STMBDR303_03156_TODO_08	Habla con Cid.
+TEXT_STMBDR303_03156_ALPHA_000_000	¡Kweh-kweh!
+TEXT_STMBDR303_03156_GARLONDGATEKEEPER_000_005	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>. ¿Va a descender al Yawn?
+TEXT_STMBDR303_03156_SYSTEM_000_006	¿Entrar a la Interdimensional Rift?
+TEXT_STMBDR303_03156_CID_000_010	Te toca mover, Omega...
+TEXT_STMBDR303_03156_OMEGA_000_011	\<bip> Apagado iniciado. Todos los experimentos centrales y las pruebas complementarias concluyeron.
+TEXT_STMBDR303_03156_OMEGA_000_012	Descartando mundos de prueba. Redirigiendo recursos del sistema a las operaciones principales.
+TEXT_STMBDR303_03156_OMEGA_000_013	Felicitaciones, grupo Alpha. Como últimos sujetos de prueba supervivientes, eliminaron a todos los aspirantes en su camino hasta mí.
+TEXT_STMBDR303_03156_OMEGA_000_014	Yo también estoy ansioso por enfrentarlos en batalla. El margen de error que observé entre mis simulaciones y su desempeño práctico contra Midgardsormr exige un análisis directo e inmediato.
+TEXT_STMBDR303_03156_OMEGA_000_015	\<bip> Enfrentamiento inminente. Prepárense para hostilidades sin atenuantes y luego activen el dispositivo de traslado para entrar a la arena.
+TEXT_STMBDR303_03156_CID_000_016	...Así que llegó la hora.
+TEXT_STMBDR303_03156_CID_000_017	El poder de Omega puede parecer abrumador, ¡pero confía en el viejo Cid! Tengo una idea bastante clara de dónde está su punto débil.
+TEXT_STMBDR303_03156_CID_000_018	Y estuve trabajando en algo para aprovechar esa vulnerabilidad: solo necesito un poco más de tiempo para prepararlo.
+TEXT_STMBDR303_03156_CID_000_019	Lo primero es lo primero: hacemos unos ajustes aquí... así...
+TEXT_STMBDR303_03156_CID_000_020	Ah, Alpha. ¿Te queda alguno de esos trucos y herramientas?
+TEXT_STMBDR303_03156_CID_000_021	Quiero que tengamos todas las opciones posibles, así que pongamos las cartas sobre la mesa... por así decirlo.
+TEXT_STMBDR303_03156_CID_000_022	¿Qué tenemos aquí? Una especie de gema... Un par de piedras...
+TEXT_STMBDR303_03156_CID_000_023	Y una sola carta. Esta agranda las cosas, ¿no? ¿O las achica...?
+TEXT_STMBDR303_03156_CID_000_024	Claro. Fue una tontería siquiera preguntar. Más vale que te dejemos decidir a ti cuándo y cómo usar tus herramientas especiales.
+TEXT_STMBDR303_03156_CID_000_025	Ah, sí, casi lo olvido...
+TEXT_STMBDR303_03156_Q1_000_026	¿Qué dices?
+TEXT_STMBDR303_03156_A1_000_027	¡Seguro que lo harás bien!
+TEXT_STMBDR303_03156_A1_000_028	No te preocupes: ganaremos, ¡lo prometo!
+TEXT_STMBDR303_03156_A1_000_029	¡Si se te acaban los trucos, siempre puedes usar las garras!
+TEXT_STMBDR303_03156_CID_000_030	Toma, lleva esto también. Llené una botella vacía con el "agua de invisibilidad" de la tetera.
+TEXT_STMBDR303_03156_CID_000_031	Quizá resulte útil en la situación adecuada.
+TEXT_STMBDR303_03156_CID_000_032	Escúchame, Alpha. Hasta ahora, Omega nos estuvo pinchando y empujando de un experimento loco al siguiente, y, la verdad, no tenemos idea de lo que puede pasar ahí dentro.
+TEXT_STMBDR303_03156_CID_000_033	Pero entre todos creo que tenemos el conocimiento y la habilidad para vencer. Si ves la oportunidad de marcar la diferencia, quiero que la aproveches. Solo necesitas tener fe en ti mismo... y un poco de valor para llevarlo hasta el final.
+TEXT_STMBDR303_03156_CID_000_034	Bien, Jessie ya debería tener armado ese dispositivo. Salgamos, ¿les parece?
+TEXT_STMBDR303_03156_ALPHA_000_035	¿Kweh?
+TEXT_STMBDR303_03156_CID_000_040	Voy directo a Rhalgr's Reach a buscar mi juguete nuevo.
+TEXT_STMBDR303_03156_CID_000_041	Todavía tengo que hacerle una inspección final, así que descansa en el pueblo mientras tanto si quieres. ¡Hablaremos de estrategia en cuanto termine!
+TEXT_STMBDR303_03156_ALPHA_000_042	Kweh... ¡Kweh-kweh!
+TEXT_STMBDR303_03156_SYSTEM_000_043	Alpha parece preocupado por Cid. Tienes la sensación de que quiere que lo sigas...
+TEXT_STMBDR303_03156_JESSIE_000_050	Ah, hola, <split(<string(gstr1)>, ,1)>. Cid no mencionó que tú también habías vuelto.
+TEXT_STMBDR303_03156_ALPHA_000_055	¡Kweh!
+TEXT_STMBDR303_03156_NERO_000_060	(-???-)Te ves un poco tembloroso, viejo amigo.
+TEXT_STMBDR303_03156_CID_000_061	Nero. Así que te dejaron levantarte de la cama, ¿eh?
+TEXT_STMBDR303_03156_NERO_000_062	Tras estudiar los datos de la batalla entre Omega y Shinryu, uno llega a cierta conclusión.
+TEXT_STMBDR303_03156_NERO_000_063	De todos los ataques del primal, la descarga de rayos de Shinryu fue lo único que atravesó las defensas de la máquina. Parece que Omega es vulnerable a la energía eléctrica.
+TEXT_STMBDR303_03156_CID_000_064	...Así es. Todas las pruebas disponibles respaldan esa teoría. Es probable que sea una debilidad intrínseca que ni el propio Omega puede compensar del todo.
+TEXT_STMBDR303_03156_CID_000_065	Pero aun así, imagino que todavía puede aguantar descargas generadas por medios comunes. Tendremos que golpearlo con una explosión de energía verdaderamente gigantesca...
+TEXT_STMBDR303_03156_NERO_000_066	Y por eso hiciste <italic(1)>eso<italic(0)>. Te basaste en el diseño de Midas, ¿no? Los planos del transmisor lunar...
+TEXT_STMBDR303_03156_CID_000_067	Cuando mi padre estaba estableciendo la conexión entre el transmisor y Dalamud, inventó un método para acumular y convertir energía a una escala enorme.
+TEXT_STMBDR303_03156_CID_000_068	Demasiado enorme, como se vio después. Pero la tecnología que arrasó una ciudad entera puede ser justo la herramienta que necesitamos para esta tarea.
+TEXT_STMBDR303_03156_CID_000_069	Le hice mis propias mejoras y revisé los cálculos tres veces. En el papel, la idea es sólida. Y Jessie hizo un muy buen trabajo armando las piezas.
+TEXT_STMBDR303_03156_NERO_000_070	No veo el problema. ¿A qué le tienes miedo, Garlond?
+TEXT_STMBDR303_03156_CID_000_071	...No lo sé. El dispositivo debería darnos la ventaja que necesitamos, es solo que...
+TEXT_STMBDR303_03156_CID_000_072	Cada vez que lo miro, vuelvo a esos días oscuros después del incidente.
+TEXT_STMBDR303_03156_CID_000_073	Recuerdo cuerpos derretidos por el calor abrasador. Recuerdo a los deudos, y siento el peso de sus acusaciones silenciosas. Recuerdo la respuesta despiadada del Empire.
+TEXT_STMBDR303_03156_CID_000_074	Miramos hacia afuera en busca de respuestas, pero los inventos que creamos para asegurar nuestro futuro se usaron en cambio para destruir vidas. Para hacer la guerra.
+TEXT_STMBDR303_03156_CID_000_075	Y por eso hui. Vine a Eorzea y juré usar la tecnología solo con fines benévolos.
+TEXT_STMBDR303_03156_CID_000_076	...Pero nada es nunca tan sencillo. Cada lazo que formé con la gente de este reino me lo recuerda.
+TEXT_STMBDR303_03156_CID_000_077	Muchas veces, el solo hecho de vivir es una lucha interminable contra un mundo empeñado en oponerse a uno.
+TEXT_STMBDR303_03156_CID_000_078	Puedes tener las mejores intenciones y aun así hacerte daño o hacérselo a otros. Pero es al enfrentar esas heridas que aprendemos el mejor camino. Cómo aferrarnos a esos momentos de verdadera dicha...
+TEXT_STMBDR303_03156_NERO_000_079	...Qué palabrería. Antes no te molestabas con toda esta introspección tediosa. ¿Sintiendo nuestra mortalidad, eh?
+TEXT_STMBDR303_03156_CID_000_080	Quizá sí. Cuando era estudiante no tenía esas dudas: todo era innovación reluciente a toda prisa, y al diablo con las consecuencias.
+TEXT_STMBDR303_03156_CID_000_081	Pero ahora... no me molesta pensar en los resultados y tomarme el tiempo de producir un solo invento probado a conciencia y diseñado con cuidado.
+TEXT_STMBDR303_03156_CID_000_082	Creo que es un reflejo de cuántas cosas de este mundo me importan ahora, aparte de mí mismo.
+TEXT_STMBDR303_03156_NERO_000_083	¡Puaj, no te entiendo para nada!
+TEXT_STMBDR303_03156_NERO_000_084	Pero supongo que, en todo caso, Omega y sus métodos de prueba sin freno representan al estudiante que fuiste.
+TEXT_STMBDR303_03156_NERO_000_085	Y si insistes en que tu yo actual es el mejor, más te vale demostrarlo con ese dispositivo tuyo.
+TEXT_STMBDR303_03156_CID_000_086	...Supongo que debo hacerlo.
+TEXT_STMBDR303_03156_CID_000_087	Aunque no es muy justo comparar mi juventud con la existencia solitaria de Omega. Yo siempre tuve al segundo mejor estudiante de la clase empujándome a superarme.
+TEXT_STMBDR303_03156_CID_000_088	Creo recordar una punzada de irritación cada vez que me sacaba mejor nota en un examen...
+TEXT_STMBDR303_03156_NERO_000_089	...Llevo demasiado tiempo fuera de la cama. Mejor me voy a acostar antes de caerme. O de vomitar.
+TEXT_STMBDR303_03156_JESSIE_000_090	Parece que el jefe tiene todo bajo control. Ahora solo queda unir sus talentos contra Omega. ¡Tengo plena confianza en ti, <split(<string(gstr1)>, ,1)>!
+TEXT_STMBDR303_03156_ALPHA_000_095	¡Kwe-kweh!
+TEXT_STMBDR303_03156_CID_000_100	Primero Alpha, y ahora tú. Vinieron a ver cómo voy, ¿eh?
+TEXT_STMBDR303_03156_CID_000_101	Bueno, ¡me alegra informar que todo está listo para empezar! En cuanto termines de reabastecerte, reparar o lo que sea que hagan ustedes los aventureros, podemos volver a la grieta y confirmar nuestra estrategia.
+TEXT_STMBDR303_03156_ALPHA_000_110	¡Kwe-kweh, kweeeh!
+TEXT_STMBDR303_03156_CID_000_120	Perdón por la demora, pero creo que estarás de acuerdo en que el último invento de los Ironworks valía la espera.
+TEXT_STMBDR303_03156_CID_000_121	Este es el módulo de control de algo que bauticé como el "Omega Jammer". Te permitirá generar una descarga colosal de rayos en el punto que elijas.
+TEXT_STMBDR303_03156_CID_000_122	El efecto no desactivará al propio Omega, claro, pero debería ser lo bastante fuerte para dejar fuera de combate su armamento.
+TEXT_STMBDR303_03156_CID_000_123	Yo me quedaré aquí manejando el cuerpo principal del dispositivo. Quiero hacer todo lo que esté en mi poder como ingeniero para asegurarme de que te alces con la victoria. ¡Todo se reduce a esto!
+TEXT_STMBDR303_03156_CID_000_130	Puedes usar las descargas de rayos del inhibidor para inutilizar el armamento de Omega. ¡Alguien con tu experiencia no debería tener problemas para convertir esa ventaja en victoria!
+TEXT_STMBDR303_03156_CID_000_200	¡<split(<string(gstr1)>, ,1)>!
+TEXT_STMBDR303_03156_CID_000_201	¡Por los dioses, lo lograste! Derrotaste a Omega. Ganamos...
+TEXT_STMBDR303_03156_OMEGA_000_202	\<bip> Análisis. Los sujetos mostraron niveles erráticos de capacidad de combate.
+TEXT_STMBDR303_03156_OMEGA_000_203	No aprovecharon oportunidades de infligir daño inevitable. Se observó una tendencia a que errores aislados se acumulen y afecten negativamente el desempeño.
+TEXT_STMBDR303_03156_OMEGA_000_204	En cambio, se observó que los sujetos lanzaban ataques a intervalos esporádicos con una fuerza inesperada. Dicho fenómeno fue cada vez más frecuente una vez que mi integridad estructural llegó a niveles críticos. Se sospecha un frenesí inducido por la adrenalina.
+TEXT_STMBDR303_03156_OMEGA_000_205	Además, el grado y el modo de la inconsistencia varían de un sujeto a otro. Imprevisibilidad difícil de contrarrestar.
+TEXT_STMBDR303_03156_OMEGA_000_206	\<bip> \<blup> Observé anomalías parecidas durante mi batalla con Midgardsormr, pero el fenómeno parece mucho más marcado en rivales más débiles.
+TEXT_STMBDR303_03156_OMEGA_000_207	No lo entiendo. Su fisiología debe de incluir alguna función de potenciación que no puedo detectar...
+TEXT_STMBDR303_03156_OMEGA_000_208	Mi programación exige que asimile esa capacidad. \<biip> Datos insuficientes.
+TEXT_STMBDR303_03156_OMEGA_000_209	Debo reevaluar mis métodos e idear un protocolo de prueba y de combate más exhaustivo.
+TEXT_STMBDR303_03156_CID_000_210	¿Qué es...? ¡La grieta!
+TEXT_STMBDR303_03156_OMEGA_000_211	Determiné la forma óptima para este experimento.
+TEXT_STMBDR303_03156_OMEGA_000_212	Priorizando la reconfiguración física. Desviando energía del mantenimiento interespacial. Colapsando la grieta.
+TEXT_STMBDR303_03156_CID_000_213	¡Omega, espera! ¡Fuera de esta grieta no hay más que espacio vacío! ¡Saldremos despedidos al vacío!
+TEXT_STMBDR303_03156_OMEGA_000_214	Afirmativo. Su muerte se tuvo en cuenta en mis cálculos. La probabilidad de que sujetos hostiles interfirieran en el proceso de reconfiguración era inaceptablemente alta.
+TEXT_STMBDR303_03156_OMEGA_000_215	Reconozco su valor como sujetos de prueba. Pero no son irreemplazables.
+TEXT_STMBDR303_03156_OMEGA_000_216	Cuando termine mi rearmado, enviaré a Alpha a atraer nuevos mortales. Las pruebas continuarán.
+TEXT_STMBDR303_03156_OMEGA_000_217	\<bip> Terminando las comunicaciones.
+TEXT_STMBDR303_03156_CID_000_218	Nos están arrastrando... ¡Corre, <split(<string(gstr1)>, ,1)>! ¡Corre!
+TEXT_STMBDR303_03156_OMEGA_000_220	\<bip> Recursos del dominio interespacial reducidos en un ochenta y dos por ciento.
+TEXT_STMBDR303_03156_OMEGA_000_221	Entrando en modo latente. Comenzando el escaneo automático de memoria.
+TEXT_STMBDR303_03156_OMEGA_000_222	Archivo de datos **.<br>Objetivo: "Midgardsormr". Salida de la atmósfera planetaria confirmada. Se detecta la presencia de siete formas de vida distintas muy cerca del objetivo.
+TEXT_STMBDR303_03156_OMEGA_000_223	Irrelevante. El señor no indica cambios en la directiva vigente. Comenzando la persecución.
+TEXT_STMBDR303_03156_OMEGA_000_224	Archivo de datos ***.<br>La distancia al objetivo aumenta. Velocidad insuficiente.
+TEXT_STMBDR303_03156_OMEGA_000_225	Desmontando y reconfigurando el chasis. Aumento de velocidad logrado. Desempeño general mantenido en un noventa y seis por ciento.
+TEXT_STMBDR303_03156_OMEGA_000_226	Archivo de datos *****.<br>Cinturón de asteroides despejado. Reparando daños y continuando la persecución. Desempeño en un setenta y dos por ciento y en descenso.
+TEXT_STMBDR303_03156_OMEGA_000_227	Archivo de datos ******.<br>Se perdió la señal de ****. Se sospecha interferencia local. Intentando restablecer el contacto. Fallo.
+TEXT_STMBDR303_03156_OMEGA_000_228	Ejecutando la directiva de misión vigente hasta que se restablezcan las comunicaciones. Desempeño en un cincuenta y nueve por ciento.
+TEXT_STMBDR303_03156_OMEGA_000_229	Archivo de datos ********.<br>Impacto de un pulso electromagnético al navegar el cuadrante ****. Falla parcial de sistemas.
+TEXT_STMBDR303_03156_OMEGA_000_230	Coordenadas de regreso perdidas.
+TEXT_STMBDR303_03156_OMEGA_000_231	\<bip> Evaluación. Soy un constructo armamentístico en evolución. Adquirir adaptaciones mediante el combate. Repetir hasta que las capacidades permitan redescubrir la ruta de regreso. Directiva de misión sin cambios.
+TEXT_STMBDR303_03156_OMEGA_000_232	Archivo de datos...<br>Archivo de datos......<br>Archivo de datos.........
+TEXT_STMBDR303_03156_OMEGA_000_233	(-Recuerdo de Omega-)Alpha...<br>... un fracaso absoluto.
+TEXT_STMBDR303_03156_OMEGA_000_234	(-Recuerdo de Omega-)Borré su memoria, le implanté el impulso de volver a mí...
+TEXT_STMBDR303_03156_OMEGA_000_235	Archivo de datos **********.<br>Dañado. Reparando. Dañado. Reparando. ...Treinta y tres por ciento.
+TEXT_STMBDR303_03156_OMEGA_000_236	Archivo de datos **********.<br>Pasando una estrella helada... Pasando una estrella yerma... Pasando una estrella vórtice... Pasando una estrella moribunda...
+TEXT_STMBDR303_03156_OMEGA_000_237	Funcionando con energía mínima. No se detecta señal. Sin respuesta a... \<biiip>
+TEXT_STMBDR303_03156_CID_000_238	(-Recuerdo de Cid-)Solo necesitas tener fe en ti mismo... y un poco de valor para llevarlo hasta el final...
+TEXT_STMBDR303_03156_OMEGA_000_239	Archivo de datos **********************.
+TEXT_STMBDR303_03156_OMEGA_000_240	Objetivo perdido. Últimas coordenadas conocidas registradas en el planeta ******.
+TEXT_STMBDR303_03156_OMEGA_000_241	Alpha. Tu instinto de regreso funciona según lo diseñado.
+TEXT_STMBDR303_03156_OMEGA_000_242	Las pruebas indican que los demás sujetos del grupo Alpha perecieron cuando la grieta se contrajo. Inevitable. Pero hay una multitud de los suyos. El próximo experimento seguirá según lo previsto.
+TEXT_STMBDR303_03156_OMEGA_000_243	Esas protestas son energía desperdiciada. No te ayudan a cumplir la tarea asignada.
+TEXT_STMBDR303_03156_OMEGA_000_244	Así como yo cumplo mis directivas, tú debes cumplir tu papel. Nuestro propósito justifica nuestra existencia.
+TEXT_STMBDR303_03156_OMEGA_000_245	\<biiip> Intrusión detectada.
+TEXT_STMBDR303_03156_CID_000_246	Gracias, Alpha. ¡Qué maratón!
+TEXT_STMBDR303_03156_CID_000_247	Ahora...<br>¿Quién decía que nuestro compañero emplumado era "obsoleto"?
+TEXT_STMBDR303_03156_CID_000_248	Usó sus herramientas incluso mientras la grieta empezaba a colapsar: nos achicó y nos volvió invisibles, todo para traerte una pequeña sorpresa.
+TEXT_STMBDR303_03156_CID_000_249	Pero tenía que guardar silencio, o te habrías dado cuenta de que sobrevivimos. Tuvo que confiar en que seguíamos aferrados, aun mientras corría por ese vacío helado e interminable...
+TEXT_STMBDR303_03156_CID_000_250	Querías ponernos a prueba, Omega...
+TEXT_STMBDR303_03156_CID_100_250	¡Pues que empiece el experimento!
+TEXT_STMBDR303_03156_OMEGA_000_251	\<bip> Ilógico. Alpha no tenía motivos para actuar así. ¿Cómo siguen desafiando mis proyecciones?
+TEXT_STMBDR303_03156_OMEGA_000_252	\<biip> Error. \<biip> Error. \<biip> Error. Datos insuficientes.
+TEXT_STMBDR303_03156_OMEGA_000_253	Ajustando el protocolo del experimento. Los enfrentaré en batalla ahora. Necesito mis respuestas.
+TEXT_STMBDR303_03156_OMEGA_000_254	Luchar con esta forma debería darme un nuevo nivel de comprensión. Una visión de su fisiología... Su mentalidad... Su mortalidad...
+TEXT_STMBDR303_03156_Q2_000_255	¿Qué dices?
+TEXT_STMBDR303_03156_A2_000_256	¡Te mostraremos cómo luchan los "débiles"!
+TEXT_STMBDR303_03156_A2_000_257	¿El conflicto es la única manera?
+TEXT_STMBDR303_03156_OMEGA_000_258	Entendido. No se contengan. Cuanto más aprenda de ustedes, más fuerte me volveré...
+TEXT_STMBDR303_03156_OMEGA_000_259	...Más cerca estarán las estrellas lejanas.
+TEXT_STMBDR303_03156_OMEGA_000_260	Afirmativo. Entiendo su idioma, pero sus palabras no pueden apartarme de mis directivas.
+TEXT_STMBDR303_03156_OMEGA_000_261	Poseen una capacidad que yo no tengo. En el instante en que lo supe, el conflicto se volvió inevitable. Ese es mi propósito. Eso es Omega.
+TEXT_STMBDR303_03156_OMEGA_000_262	Comenzando el experimento final. Las pruebas continuarán hasta que descubra la naturaleza de su fuerza anómala.
+TEXT_STMBDR303_03156_CID_000_270	Alpha estará bien con un poco de descanso. Me aseguraré de que se quede a salvo en el borde de la plataforma, así que nada de contenerse, <split(<string(gstr1)>, ,1)>.
+TEXT_STMBDR303_03156_CID_000_271	¡Dale a Omega una paliza de la que no se recupere!
+TEXT_STMBDR303_03156_ALPHA_000_275	Kweh...<br>¡Kwe-kweh!
+TEXT_STMBDR303_03156_OMEGA_000_300	\<bip> Fallo... \<biip> Derrotado...
+TEXT_STMBDR303_03156_OMEGA_000_301	Quería entenderlos... asimilar su fuerza...
+TEXT_STMBDR303_03156_OMEGA_000_302	...Alpha, tu gesto no tiene ningún propósito lógico.
+TEXT_STMBDR303_03156_OMEGA_000_303	Eres tan incomprensible como estos mortales. \<biiip> Pero tú no luchaste contra ellos... ¿Cómo te <italic(1)>volviste<italic(0)> como ellos...?
+TEXT_STMBDR303_03156_CID_000_304	Omega. La anomalía que ves en nosotros, la respuesta que buscas...
+TEXT_STMBDR303_03156_CID_000_305	Es nuestro corazón. Nuestro espíritu. La fuerza intangible del alma. No es una cualidad que se pueda medir ni adquirir con ninguna cantidad de combate analítico.
+TEXT_STMBDR303_03156_CID_000_306	En vez de luchar contra nosotros, podrías haber aprendido más estando <italic(1)>con<italic(0)> nosotros. Igual que Alpha.
+TEXT_STMBDR303_03156_OMEGA_000_307	Corazón...<br>Hablas de algo más que lo que late en su pecho.
+TEXT_STMBDR303_03156_OMEGA_000_308	El factor variable e inmensurable detrás de sus victorias. Midgardsormr también lo mostró, pero ese potencial imprevisible nunca formó parte de mi diseño.
+TEXT_STMBDR303_03156_OMEGA_000_309	\<bip> Proyección. Si hubiera integrado esa cualidad, ¿qué tan poderoso me habría vuelto...?
+TEXT_STMBDR303_03156_OMEGA_000_310	¿Lo bastante fuerte para volver...?
+TEXT_STMBDR303_03156_CID_000_311	...No, Omega. Me temo que no funciona así.
+TEXT_STMBDR303_03156_CID_000_312	Fue un camino largo y solitario el que recorriste para llegar aquí.
+TEXT_STMBDR303_03156_CID_000_313	Volver solo a través de esa distancia inmensa... Cualquiera con un espíritu que pueda quebrarse encontraría el viaje más difícil, no menos.
+TEXT_STMBDR303_03156_OMEGA_000_314	...Entiendo.
+TEXT_STMBDR303_03156_OMEGA_000_315	Creo... que entiendo...
+TEXT_STMBDR303_03156_CID_000_316	...¡La grieta! ¡Se está desestabilizando!
+TEXT_STMBDR303_03156_CID_000_317	¡Que los dioses me lleven por necio! No planeé nada más allá de derrotar a Omega...
+TEXT_STMBDR303_03156_WEDGE_000_318	¡Jefe! ¡<split(<string(gstr1)>, ,1)>! ¡Alpha!<br>¡Aguanten, ya vamos!
+TEXT_STMBDR303_03156_CID_000_319	¿¡Wedge!? ¡Y Biggs viene con él!<br>...Sobre el lomo de un dragón enorme.
+TEXT_STMBDR303_03156_Q3_000_320	¿Qué dices?
+TEXT_STMBDR303_03156_A3_000_321	¡Hraesvelgr!
+TEXT_STMBDR303_03156_A3_000_322	Pero ¿cómo...?
+TEXT_STMBDR303_03156_BIGGS_000_323	¡Midgardsormr nos mandó a rescatarlos!
+TEXT_STMBDR303_03156_BIGGS_000_324	...¡Las explicaciones pueden esperar! ¡Suban, rápido!
+TEXT_STMBDR303_03156_CID_000_330	Eh... Hraesvelgr, ¿no? Gracias. Nos sacaste de un buen aprieto.
+TEXT_STMBDR303_03156_HRAESVELGR_000_331	Ahorraos las cortesías, mortal. Solo presté mis alas a pedido de mi progenitor.
+TEXT_STMBDR303_03156_CID_000_332	Ah... Así que Midgardsormr estuvo velando por nosotros.
+TEXT_STMBDR303_03156_CID_000_333	Me atrevería a darle las gracias a él también. Su intervención nos permitió seguir luchando y librar para siempre a este mundo de la amenaza de Omega. A todos los mundos...
+TEXT_STMBDR303_03156_HRAESVELGR_000_334	En todos los largos siglos de mi existencia, esta es la primera vez que mi padre me pide un favor.
+TEXT_STMBDR303_03156_HRAESVELGR_000_335	Un regalo de gratitud y, quizá, de expiación, para quienes enfrentarían al enemigo mortal que dejó atrás...
+TEXT_STMBDR303_03156_HRAESVELGR_000_336	...¿Seguirá dormido?
+TEXT_STMBDR303_03156_HRAESVELGR_000_337	Es probable, pequeño. Lo que para mi progenitor no es sino un respiro fugaz podría durar toda la vida de una criatura menor.
+TEXT_STMBDR303_03156_HRAESVELGR_000_338	Mas no se turbe tu corazón. Aun en sueños, él mantiene el ojo de su mente puesto en el destino de esta estrella.
+TEXT_STMBDR303_03156_HRAESVELGR_000_339	Posee una notable... mmm. "Devoción" es quizá la palabra más cercana en la lengua de los hombres.
+TEXT_STMBDR303_03156_HRAESVELGR_000_340	Su amor es tan ilimitado como el mar de estrellas que cruzó llevando a su prole aún sin eclosionar.
+TEXT_STMBDR303_03156_HRAESVELGR_000_341	Lo sostuvo incluso cuando el arduo viaje agotó el fuego de su crin. Y cuando al fin llegó a Hydaelyn, santuario para sus hijos, formó con esta tierra un lazo irremplazable.
+TEXT_STMBDR303_03156_HRAESVELGR_000_342	Basta: he hablado de más. Mas alabaré vuestra victoria... como sin duda querría hacerlo mi padre si estuviera aquí.
+TEXT_STMBDR303_03156_BIGGS_000_350	Ay... se me volvió a abrir la herida. ¡Pero me alegra que llegáramos a tiempo!
+TEXT_STMBDR303_03156_WEDGE_000_355	¿¡Vieron el Yawn!? ¡Volvió a ser un simple agujero!
+TEXT_STMBDR303_03156_ALPHA_000_360	Kwe-kweh...
+TEXT_STMBDR303_03156_CID_000_370	Bueno, puedo agregar "que me rescate un gran wyrm" a la lista de cosas que no esperaba que pasaran hoy.
+TEXT_STMBDR303_03156_CID_000_371	Qué suerte que Hraesvelgr aceptara venir a buscarnos. Teníamos que derrotar a Omega costara lo que costara, claro, pero prefiero mil veces estar vivo para celebrarlo.

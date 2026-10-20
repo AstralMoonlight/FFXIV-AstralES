@@ -1,0 +1,44 @@
+key	text
+TEXT_STMBDR302_03155_SEQ_00	Cid desapareció de la vista, pero su voz se oye clara y firme.
+TEXT_STMBDR302_03155_SEQ_01	La voz de Cid te habla desde la nada, pero mientras explica el motivo de su invisibilidad, el ingeniero vuelve a aparecer de golpe. Pasada esta breve e inesperada distracción, Cid sigue contándote lo que piensa de tu próximo rival y propone concentrarse en idear una estrategia para el inevitable enfrentamiento con Omega. Mientras tanto, tú debes prepararte para volver a entrar al mundo de prueba, donde se llevará a cabo el experimento "complementario". Dentro te espera un enemigo de lo más formidable: ¡una recreación del mismísimo y legendario Midgardsormr!<br><br>※Se puede entrar a Alphascape V2.0 mediante el Duty Finder.
+TEXT_STMBDR302_03155_SEQ_02	Abatiste al poderoso Father of Dragons. Cid y Alpha esperan tu regreso en el campamento base de la expedición.<br><br>※Si sales de la Interdimensional Rift, puedes volver a entrar hablando con el empleado de los Ironworks que está en el Yawn.
+TEXT_STMBDR302_03155_SEQ_03	Todavía impresionado por el espectáculo de la batalla, Cid te felicita por tu victoria contra la réplica de Midgardsormr. Los elogios del ingeniero dan pie a una charla sobre las semejanzas entre tu rival vencido y el primal Shinryu, y Cid reflexiona que el destino tuvo algo que ver en la decisión de despertar a Omega. Parece que el vínculo de la máquina con Midgardsormr nació de un conflicto en una estrella lejana, en un pasado lejano, pero lo que ahora te preocupa es salvar el futuro inmediato...
+TEXT_STMBDR302_03155_TODO_00	Entra a Alphascape V2.0.
+TEXT_STMBDR302_03155_TODO_01	Habla con Cid.
+TEXT_STMBDR302_03155_ALPHA_000_000	¡Kweh!
+TEXT_STMBDR302_03155_GARLONDGATEKEEPER_000_005	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>. ¿Va a descender al Yawn?
+TEXT_STMBDR302_03155_SYSTEM_000_006	¿Entrar a la Interdimensional Rift?
+TEXT_STMBDR302_03155_CID_000_010	Disculpa. No era mi intención restarle seriedad a la situación con esta... distracción.
+TEXT_STMBDR302_03155_CID_000_011	Vi que la tetera estaba hervida y pensé que un té me calmaría los nervios. Me serví una taza, y ya me había tomado la mitad cuando me di cuenta de que mi mano, por no hablar del resto de mí, se había vuelto invisible.
+TEXT_STMBDR302_03155_CID_000_012	Entiendo que la situación es inquietante, ¡pero te aseguro que puedo seguir trabajando sin problemas! Ahora, más vale que hablemos de cómo encarar...
+TEXT_STMBDR302_03155_CID_000_013	Yo... Ah. Parece que ya se me pasó.
+TEXT_STMBDR302_03155_ALPHA_000_014	Kweh. Kweh kweh...
+TEXT_STMBDR302_03155_CID_000_015	Vamos, vamos, no es tu culpa. Al fin y al cabo, fui yo quien te pidió que llenaras la tetera.
+TEXT_STMBDR302_03155_CID_000_016	Y había olvidado lo que dijo Nero de que tu carta producía agua con, eh, propiedades inesperadas. Aunque parece que esta vez los efectos fueron bastante distintos...
+TEXT_STMBDR302_03155_CID_000_017	En todo caso, fue agradable distraerse un poco de nuestros problemas mayores, aunque haya durado poco. Dejaremos el resto del agua a un lado por ahora y decidiremos después qué hacer con ella.
+TEXT_STMBDR302_03155_CID_000_018	Muy bien, <split(<string(gstr1)>, ,1)>. Tenemos que hablar de tu próximo combate contra Midgardsormr.
+TEXT_STMBDR302_03155_CID_000_019	Mirando por el monitor, pude ver que este wyrm parecía distinto del que conocemos.
+TEXT_STMBDR302_03155_CID_000_020	Por todo lo que oímos hasta ahora, parece que Omega y Midgardsormr vienen de estrellas distintas: dos mundos lejanos en guerra entre sí.
+TEXT_STMBDR302_03155_CID_000_021	A raíz de ese conflicto, el wyrm se vio obligado a reunir a su prole y dejar atrás su hogar. Y tras eludir la persecución de Omega a lo largo de un viaje inimaginable, el Father of Dragons llegó aquí, a nuestro mundo.
+TEXT_STMBDR302_03155_CID_000_022	Supongo que la entidad a la que te enfrentarás es un Midgardsormr más joven y más vigoroso, tal como era cuando Omega lo encontró por primera vez, hace miles de años. Un enemigo formidable, sin duda...
+TEXT_STMBDR302_03155_Q1_000_023	¿Qué dices?
+TEXT_STMBDR302_03155_A1_000_024	Aun así, tengo que encontrar la forma de vencerlo...
+TEXT_STMBDR302_03155_A2_000_025	Ya luché contra él una vez en el Keeper of the Lake, pero...
+TEXT_STMBDR302_03155_CID_000_026	Así es. Ojalá los datos "imperfectos" de Omega tengan alguna falla que podamos aprovechar...
+TEXT_STMBDR302_03155_CID_000_027	Espera, ¿¡ya luchaste contra Midgardsormr!? ...Pero sí, creo que entiendo tu preocupación. No sería prudente tratarlo como el mismo rival, considerando lo distintos que podrían ser.
+TEXT_STMBDR302_03155_CID_000_028	Y desde luego no ayuda que la sorpresita de Omega no esté registrada como sujeto de prueba oficial. Ni siquiera puedo usar las terminales para buscar la información más básica.
+TEXT_STMBDR302_03155_CID_000_029	Teniendo eso en cuenta, <split(<string(gstr1)>, ,1)>, tengo una propuesta: quiero dejar por completo en tus heroicas manos la conclusión de esta "etapa complementaria".
+TEXT_STMBDR302_03155_CID_000_030	En vez de quedarme de brazos cruzados mientras te preparas para enfrentar al dragón, prefiero trabajar en una estrategia para nuestro inevitable enfrentamiento con Omega.
+TEXT_STMBDR302_03155_CID_000_031	¡Y entonces, amigo mío, le pondremos fin a esta máquina loca de una vez por todas!
+TEXT_STMBDR302_03155_CID_000_032	Me alegra que estemos de acuerdo. Yo prepararé mis herramientas y tú las tuyas: ¡tienes un wyrm que matar!
+TEXT_STMBDR302_03155_CID_000_040	Cuídate ahí dentro, <split(<string(gstr1)>, ,1)>. Puede que los datos de base sean imperfectos, pero recuerdo que Omega dijo algo de que la batalla solo termina cuando uno de los dos muere. No esperes cuartel ni lo des.
+TEXT_STMBDR302_03155_ALPHA_000_045	Kweh...
+TEXT_STMBDR302_03155_ALPHA_000_050	¡Kweh-kweh!
+TEXT_STMBDR302_03155_CID_000_060	¡Otra victoria impresionante, <split(<string(gstr1)>, ,1)>! ¡Más de una vez se me cortó la respiración!
+TEXT_STMBDR302_03155_CID_000_061	...Aunque, mientras veía la batalla, me asaltó una idea suelta. ¿Notaste el parecido entre Midgardsormr y Shinryu?
+TEXT_STMBDR302_03155_CID_000_062	A diferencia de la mayoría de los primals, la forma de Shinryu no se basaba en ningún sistema de creencias. Oí la teoría de que el invocador simplemente se dejó influir por la majestad y el poder del primal ancestral Bahamut.
+TEXT_STMBDR302_03155_CID_000_063	Pero ahora empiezo a pensar que podría haber otra explicación: que el primal tomó su forma del ancestro de todos los dragones de Hydaelyn.
+TEXT_STMBDR302_03155_CID_000_064	La idea general de cómo luce un dragón lleva siglos y siglos basándose en las representaciones de Midgardsormr. Quizá el invocador ni siquiera buscó imitarlo a él en concreto.
+TEXT_STMBDR302_03155_CID_000_065	Los pensamientos y recuerdos inconscientes podrían haber bastado para guiar el parecido. Claro que no tengo forma de confirmar esta teoría...
+TEXT_STMBDR302_03155_CID_000_066	Aun así, es curioso que la invocación de Shinryu nos llevara a despertar a Omega. Un extraño giro del destino, si se piensa en el vínculo de la máquina con Midgardsormr.
+TEXT_STMBDR302_03155_CID_000_067	Bueno, sea lo que sea que nos tenga guardado el destino, ya venciste al rival que el propio Omega no logró derrotar. ¡Una hazaña digna de celebrarse, diría yo!
