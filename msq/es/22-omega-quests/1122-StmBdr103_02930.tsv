@@ -1,0 +1,29 @@
+key	text
+TEXT_STMBDR103_02930_SEQ_00	Cid parece ansioso por enfrentarte al siguiente rival del Deltascape.
+TEXT_STMBDR103_02930_SEQ_01	Si Biggs y Wedge no logran reparar el sistema de estasis en Carteneau, Cid cree que la única manera de impedir que Omega cree una nueva amenaza es triunfar en sus pruebas. Por eso tiene ganas de que vuelvas al Deltascape. El análisis de Nero revela que tu próximo rival puede manipular la gravedad, y para contrarrestar ese poder te presta un estabilizador antigravedad que casualmente acaba de armar. Como antes, Alpha irá contigo al mundo de prueba y te dará el uso de su autorización.<br><br>※Si sales de la Interdimensional Rift, puedes volver a entrar hablando con el empleado de los Ironworks que está en el Yawn.
+TEXT_STMBDR103_02930_SEQ_02	Alpha está listo para entrar contigo al Deltascape. Como cada enemigo puede ser más fuerte que el anterior, nunca está de más prepararse antes de cruzar el portal y subir al escenario de la batalla.<br><br>※Se puede entrar a Deltascape V2.0 mediante el Duty Finder.
+TEXT_STMBDR103_02930_SEQ_03	Al llegar al Deltascape te enfrentas a Delta II, una criatura gigantesca y grotesca conocida como Catastrophe. Como se esperaba, tu enemigo usa contra ti el poder de la gravedad, pero con ayuda del artilugio de Nero logras resistir lo peor de su embestida y sales triunfante.
+TEXT_STMBDR103_02930_SEQ_04	Nero te recibe con cara de suficiencia. Por si quedara alguna duda, explica que el levitador funcionó exactamente como debía, y que no estaba diseñado para que pudieras descender por voluntad propia. En todo caso, es otro enemigo poderoso derribado, y puedes poner la mirada en el siguiente.
+TEXT_STMBDR103_02930_TODO_00	Habla con Alpha.
+TEXT_STMBDR103_02930_TODO_01	Entra a Deltascape V2.0.
+TEXT_STMBDR103_02930_TODO_02	Habla con Nero.
+TEXT_STMBDR103_02930_ALPHA_000_000	Kweh...
+TEXT_STMBDR103_02930_NERO_000_005	¿Y bien? ¿Qué estamos esperando?
+TEXT_STMBDR103_02930_GARLONDGATEKEEPER_000_006	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>. ¿Va a descender al Yawn?
+TEXT_STMBDR103_02930_SYSTEM_000_007	¿Entrar a la Interdimensional Rift?
+TEXT_STMBDR103_02930_CID_000_010	Hay que rezar para que Biggs y Wedge logren reparar el sistema de estasis.
+TEXT_STMBDR103_02930_CID_000_011	Si no pueden, no nos quedará más remedio que llevar el experimento de Omega hasta su amargo final. Una tarea difícil, lo reconozco... y que te exigiría demostrar que eres "el ser más poderoso de la creación".
+TEXT_STMBDR103_02930_CID_000_012	Bueno, hay que esperar lo mejor y prepararse para lo peor, que en este caso significa seguir con las pruebas. ¿Estás <if(gnum4,lista,listo)> para la siguiente incursión?
+TEXT_STMBDR103_02930_NERO_000_013	Un momento, <italic(1)>jefe<italic(0)>.
+TEXT_STMBDR103_02930_NERO_000_014	Mi análisis aún no está completo, pero parece que el sujeto Delta II puede manipular la gravedad.
+TEXT_STMBDR103_02930_NERO_000_015	Qué suerte, entonces, que hace poco se me ocurrió armar algo que podría mitigar sus efectos: un estabilizador antigravedad. Que le sea útil.
+TEXT_STMBDR103_02930_CID_000_020	Mmm. Los datos sí indican cierta capacidad de manipular la gravedad. Aun así... yo no confiaría mucho en los juguetes de Nero.
+TEXT_STMBDR103_02930_NERO_000_025	Espero un buen espectáculo. No me decepcione, ¿eh?
+TEXT_STMBDR103_02930_ALPHA_000_030	¡Kweh! ¡Kweh!
+TEXT_STMBDR103_02930_SYSTEM_000_031	Alpha parece ansioso por continuar. Puedes entrar a Deltascape V2.0 cuando estés <if(gnum4,lista,listo)>.
+TEXT_STMBDR103_02930_ALPHA_000_040	¡Kweh! ¡Kweh!
+TEXT_STMBDR103_02930_ALPHA_000_050	¡Kweh!
+TEXT_STMBDR103_02930_CID_000_055	Qué bueno tenerte de vuelta <if(gnum4,sana y salva,sano y salvo)>. Veo que el juguete de Nero no... te dejó caer.
+TEXT_STMBDR103_02930_NERO_000_060	Una actuación vibrante, hecha posible por mi estabilizador antigravedad.
+TEXT_STMBDR103_02930_NERO_000_061	Por si se lo pregunta, <italic(1)>no se suponía<italic(0)> que pudiera descender por voluntad propia. El dispositivo funcionó tal como estaba previsto. Solo que no estaba previsto para usarse en seres vi... Bueno, digamos que no era exactamente su uso previsto.
+TEXT_STMBDR103_02930_NERO_000_062	En todo caso, es otro enemigo poderoso derribado. Y permítame decir que nunca dudé de que lo lograría.

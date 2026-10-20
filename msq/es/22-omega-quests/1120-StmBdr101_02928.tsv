@@ -1,0 +1,169 @@
+key	text
+TEXT_STMBDR101_02928_SEQ_00	Wedge tiene la cara de alguien que ya no sabe qué hacer.
+TEXT_STMBDR101_02928_SEQ_01	En su búsqueda de Omega, tus amigos de Garlond Ironworks llegaron a Rhalgr's Reach. Pero al parecer se toparon con algún tipo de problema que les impide seguir avanzando. Para que entiendas de qué se trata, Wedge te invita a reunirte con él y con Biggs en el taller.
+TEXT_STMBDR101_02928_SEQ_02	Descubres con sorpresa que a Nero tol Scaeva le ofrecieron trabajo en los Ironworks sin la aprobación previa de Cid, que no está nada contento. Al final, este acepta a regañadientes tolerar la presencia de su viejo rival y aprovecha para pedirte ayuda en la investigación sobre Omega. Momentos después, un ingeniero entra corriendo con malas noticias: las lecturas etéreas subieron de forma alarmante en el Yawn, donde se cree que se esconde Omega. Temiendo lo peor, Cid decide ir de inmediato al lugar y te pide que lo acompañes.
+TEXT_STMBDR101_02928_SEQ_03	Mientras contemplas el estanque de éter condensado que llena el Yawn, Midgardsormr despierta de su letargo para decirte que Omega, en efecto, aguarda dentro. Entonces, sin aviso, una criatura parecida a un chocobo sale disparada del estanque, seguida de una enorme serpiente translúcida. Pasado el pánico inicial, Midgardsormr explica que Omega es capaz de crear vida y que la serpiente era una de sus creaciones. Todas las miradas se vuelven entonces hacia lo que parece una imitación de chocobo, que se acomodó junto al grupo.
+TEXT_STMBDR101_02928_SEQ_04	Por medio de Midgardsormr, el chocobo describe un extraño plano más allá del Yawn. Allí, Omega parece estar poniendo a prueba a sus creaciones, y la única manera de averiguar más es aventurarse dentro... lanzándose al estanque rosado.
+TEXT_STMBDR101_02928_SEQ_05	Junto con tus camaradas, saltas al Yawn y te encuentras en una grieta entre dimensiones. Poco después, Omega se comunica contigo a través de uno de sus monitores y declara que participarás en un experimento. Busca determinar cuál es el ser más poderoso enfrentando a sus sujetos entre sí, y para eso seleccionó y recreó ochenta y nueve entidades. Te asigna de forma provisional al grupo Alpha, llamado así por tu nuevo amigo chocobo, y tu primera tarea será abrirte paso luchando hasta un lugar llamado el Deltascape. Así demostrarán que son aptos para ser sujetos de prueba en toda regla.<br><br>※Si sales de la Interdimensional Rift, puedes volver a entrar hablando con el empleado de los Ironworks que está en el Yawn.
+TEXT_STMBDR101_02928_SEQ_06	Llegas al Deltascape, con forma de huevo, una de las muchas estructuras de ese tipo que flotan en la grieta, y confirmas así tu condición de sujeto de prueba... aunque el más débil de todos. Omega les concede entonces tiempo y espacio para prepararse para la siguiente prueba: entrar al Deltascape y derrotar a todos los sujetos que hay dentro. Cuando su anfitrión se va, tú y tus compañeros se ponen a montar una base de operaciones improvisada.
+TEXT_STMBDR101_02928_SEQ_07	Ya con un punto de apoyo en la grieta, el grupo dirige su atención a los desafíos que tiene por delante. Sea lo que sea que se interponga entre ustedes y Omega, no hay duda de que tus habilidades de combate serán puestas a prueba hasta el límite... y quizá más allá.
+TEXT_STMBDR101_02928_TODO_00	Habla con Biggs.
+TEXT_STMBDR101_02928_TODO_01	Habla con Cid en el Yawn.
+TEXT_STMBDR101_02928_TODO_02	Habla con el chocobo.
+TEXT_STMBDR101_02928_TODO_03	Habla con Cid.
+TEXT_STMBDR101_02928_TODO_04	Habla con Cid.
+TEXT_STMBDR101_02928_TODO_05	Habla con Cid.
+TEXT_STMBDR101_02928_BIGGS_000_000	¡Pero mira nada más! ¡<split(<string(gstr1)>, ,1)>! Si esto no es el destino, no sé qué lo es.
+TEXT_STMBDR101_02928_WEDGE_000_010	\<jadeo> ¡<split(<string(gstr1)>, ,1)>, gracias a los dioses que estás aquí! ¡Necesitamos tu ayuda!
+TEXT_STMBDR101_02928_WEDGE_000_011	Por si no te enteraste, montamos nuestras operaciones en Rhalgr's Reach mientras buscamos a Omega.
+TEXT_STMBDR101_02928_WEDGE_000_012	Lamento decir que avanzamos a paso de tortuga, y todavía no hemos vuelto a ver a esa maldita cosa desde que desapareció durante la batalla con Shinryu.
+TEXT_STMBDR101_02928_WEDGE_000_013	...Lo que no quiere decir que no hayamos avanzado nada. Ahora sabemos que Shinryu terminó en manos de los imperiales, y que cuando lo encontraron estaba sujeto con unas ataduras muy particulares.
+TEXT_STMBDR101_02928_WEDGE_000_014	Obviamente, solo ya-sabes-quién pudo haber hecho algo así, y que las ataduras siguieran funcionando hace pensar que tampoco se apagó cuando el jefe se lo ordenó.
+TEXT_STMBDR101_02928_WEDGE_000_015	En fin, estábamos cerca de averiguar dónde está Omega cuando nos topamos con... lo que podríamos llamar... un problema. Quizá sea mejor que vengas al taller y lo veas <if(gnum4,por ti misma,por ti mismo)>.
+TEXT_STMBDR101_02928_CID_000_020	¡Vamos! ¡<italic(1)>Sugiere algo<italic(0)>! ¡Y me aseguraré de hacer exactamente lo contrario!
+TEXT_STMBDR101_02928_NERO_000_025	Vamos, vamos, <italic(1)>jefe<italic(0)>... Eso no es muy constructivo que digamos.
+TEXT_STMBDR101_02928_WEDGE_000_030	...¿Ves el problema?
+TEXT_STMBDR101_02928_JESSIE_000_035	\<suspiro> Y yo que quería mejorar la eficiencia...
+TEXT_STMBDR101_02928_BIGGS_000_040	...¿<if(gnum4,Sorprendida,Sorprendido)>? Sí, nosotros también. Lo trajeron como "consultor", aunque no lo creas.
+TEXT_STMBDR101_02928_CID_000_041	¿¡Cuántas veces tengo que decírtelo!? ¡No vas a tener <italic(1)>ningún papel<italic(0)> en esta investigación!
+TEXT_STMBDR101_02928_CID_000_042	Tus motivos fueron dudosos desde el principio, y nada de lo que hiciste desde entonces sirvió para aclararlos.
+TEXT_STMBDR101_02928_CID_000_043	Por necesidad acepté participar en la activación de Omega, ¡pero hasta ahí llega nuestra cooperación!
+TEXT_STMBDR101_02928_NERO_000_044	Juzgar sin la debida consideración, menospreciar abiertamente a los colegas... No es muy propio de un jefe, jefe.
+TEXT_STMBDR101_02928_NERO_000_045	Que sepas que soy un recluta nuevo y sensible que florece con el aliento.
+TEXT_STMBDR101_02928_CID_000_046	¡Entonces confío en que florecerás en otra parte cuando te aliente a irte al diablo!
+TEXT_STMBDR101_02928_CID_000_047	No lo quiero en nuestra nómina, Jessie, y menos cerca de nuestro trabajo. ¡Su contrato queda rescindido, con efecto inmediato!
+TEXT_STMBDR101_02928_JESSIE_000_048	El asunto, jefe, es que... ya le pagamos todo. Y no fue precisamente una miseria. El acuerdo fue cuatro quintos de lo que gana usted.
+TEXT_STMBDR101_02928_JESSIE_000_049	Mire, sean cuales sean los desacuerdos que hayan tenido en el pasado, la verdad es que su experiencia nos vendría bien ahora. Al menos déjelo que se gane el sueldo.
+TEXT_STMBDR101_02928_CID_000_050	No lo puedo creer... Dices que mis empresas, <italic(1)>totalmente justificadas<italic(0)>, son un "riesgo insostenible para los Ironworks"... ¿¡y a él le pagas por adelantado el rescate de un sultán!? ¿¡A <italic(1)>él<italic(0)>!? ¡Dame paciencia...!
+TEXT_STMBDR101_02928_BIGGS_100_050	Llevan así un buen tiempo... Y por eso tuvimos que dejar la investigación en pausa...
+TEXT_STMBDR101_02928_Q1_000_051	¿Qué dices?
+TEXT_STMBDR101_02928_A1_000_052	Investiguemos por nuestra cuenta.
+TEXT_STMBDR101_02928_A1_000_053	Avísenme cómo les va. Me voy.
+TEXT_STMBDR101_02928_NERO_000_054	Tsk, tsk. Por mucho que admire su entusiasmo, <if(gnum4,heroína,héroe)>, no llegará muy lejos sin algo de cerebro que complemente su admirable músculo. Por suerte, a mí lo primero me sobra.
+TEXT_STMBDR101_02928_NERO_000_055	A partir de este momento, usted será mi <if(gnum4,chaperona,chaperón)>. Con <if(gnum4,la salvadora,el salvador)> del reino vigilando cada uno de mis movimientos, me sería imposible hacer travesuras... lo que sin duda debería calmar las inquietudes de mi empleador, ¿no?
+TEXT_STMBDR101_02928_NERO_000_056	Tsk, tsk. No es propio de usted eludir sus deberes, <if(gnum4,heroína,héroe)>. ¿No estuvo presente en la activación de Omega? ¿Y no es, por lo tanto, corresponsable del caos que pueda causar si se lo deja a su antojo? Creo que los dos sabemos la respuesta.
+TEXT_STMBDR101_02928_NERO_000_057	A partir de este momento, usted será mi <if(gnum4,chaperona,chaperón)>. Con <if(gnum4,la salvadora,el salvador)> del reino vigilando cada uno de mis movimientos, me sería imposible hacer travesuras... lo que sin duda debería calmar las inquietudes de mi empleador, ¿no?
+TEXT_STMBDR101_02928_CID_000_058	Perdóname, <split(<string(gstr1)>, ,1)>. No era mi intención meterte en este lío. Ni siquiera sabía que estabas aquí. Pero ya que estás... no puedo negar que me alegraría tenerte con nosotros.
+TEXT_STMBDR101_02928_CID_000_059	La verdad es que no estamos más cerca de entender el verdadero alcance de los poderes de Omega, y aunque haya sufrido daños en su encuentro con Shinryu, parece muy dudoso que podamos desactivarlo sin ayuda.
+TEXT_STMBDR101_02928_CID_000_060	Llegamos a identificar dónde es probable que esté, pero yo me sentiría mucho más seguro inspeccionando la zona contigo cerca para encargarte de cualquier sorpresa. ¿Puedo convencerte de que nos des una mano una vez más, viejo amigo?
+TEXT_STMBDR101_02928_NERO_000_061	¡Entonces está decidido!
+TEXT_STMBDR101_02928_STAFF02928_000_062	¡J-Jefe, tenemos un problema! ¡Los niveles de concentración etérea en el Yawn se están disparando! Las lecturas se duplicaron de un momento a otro, ¡y para cuando fuimos a revisarlas, se habían vuelto a duplicar!
+TEXT_STMBDR101_02928_CID_000_063	¿Qué? Pero eso solo puede significar...
+TEXT_STMBDR101_02928_CID_000_064	Evacúen el lugar. Me encargaré de este asunto en persona.
+TEXT_STMBDR101_02928_CID_000_065	Biggs, Wedge, <split(<string(gstr1)>, ,1)>: los necesito conmigo en el Yawn, al sur de aquí. Ahí creemos que fue a parar Omega.
+TEXT_STMBDR101_02928_CID_000_066	Jessie, hazte cargo mientras no estoy. Y, si es posible, sigan vigilando desde una distancia segura.
+TEXT_STMBDR101_02928_JESSIE_000_067	Está bien, jefe. Cuídese allá afuera.
+TEXT_STMBDR101_02928_NERO_000_068	...¿Y yo también me quedo a <italic(1)>cuidar la tienda<italic(0)>?
+TEXT_STMBDR101_02928_CID_000_069	Ah, no. No pienso perderte de vista. Pero antes de que llenes la sala de carcajadas maníacas, quiero que recuerdes algo: cuando cobraste tus honorarios inexplicablemente generosos, el lema de los Ironworks pasó a ser <italic(1)>tu<italic(0)> lema. Es "Libertad mediante la tecnología", por si lo olvidaste, no "Supremacía mediante el ingenio allagano". Rompe este contrato y exigiré mi ponze de carne.
+TEXT_STMBDR101_02928_JESSIE_000_070	Yo me encargo de todo aquí. Cuide a todos por mí, ¿sí? Necesito a los muchachos de vuelta e innovando antes de que los clientes se cansen de lo que ofrecemos ahora.
+TEXT_STMBDR101_02928_NERO_000_075	¡Ja! ¡Miren eso!
+TEXT_STMBDR101_02928_BIGGS_000_080	Esto me da mala espina...
+TEXT_STMBDR101_02928_WEDGE_000_085	¡R-Recórcholis! ¡Antes era un simple agujero!
+TEXT_STMBDR101_02928_CID_000_100	¿Qué demonios está pasando aquí?
+TEXT_STMBDR101_02928_NERO_000_101	Un verdadero mar de éter condensado... Nuestro tesoro estuvo ocupado.
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_102	(-???-)Mmm... ¿Qué villanía es esta?
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_103	En dulce sueño he yacido desde que terminó la guerra de mis vástagos con el hombre. Mas no pude sino agitarme ante este hedor abominable.
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_104	Andad con cuidado, mortal. Pues dentro de esta gran hondonada yace Omega.
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_105	Largo tiempo hace que nos conocemos. Nuestra historia abarca eones y estrellas.
+TEXT_STMBDR101_02928_WEDGE_000_106	¡Ay, por los dioses! ¿¡Qué está pasando!?
+TEXT_STMBDR101_02928_BIGGS_000_107	¡Jefe! ¡Salga de ahí!
+TEXT_STMBDR101_02928_BIGGS_000_108	¿¡Eh!? ¡Usted... no está muerto!
+TEXT_STMBDR101_02928_CID_000_109	Parece que no. Me atravesó de lado a lado... como si fuera una especie de ilusión.
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_110	Es una de las creaciones de Omega.
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_111	Omega es un arma forjada en un lugar fuera del alcance de los vuestros, capaz de tejer éter y convertirlo en vida.
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_112	Esa serpiente aún no está terminada, mas no dudéis de que no tardará en volverse una amenaza corpórea.
+TEXT_STMBDR101_02928_BIGGS_000_113	Bueno, sea lo que sea, ya se fue.
+TEXT_STMBDR101_02928_NERO_000_114	Mientras que esta cosa peculiar se queda.
+TEXT_STMBDR101_02928_ALPHA_000_115	(-???-)¿Kweh?
+TEXT_STMBDR101_02928_WEDGE_000_116	Si parece un chocobo... y hace <italic(1)>kweh<italic(0)> como un chocobo...
+TEXT_STMBDR101_02928_WEDGE_000_117	...¿Diría que probablemente es un chocobo?
+TEXT_STMBDR101_02928_CID_000_120	No tengo idea de qué es, pero no parece una amenaza inmediata.
+TEXT_STMBDR101_02928_NERO_000_125	Fascinante. Deberíamos diseccionarlo. En nombre de la ciencia.
+TEXT_STMBDR101_02928_BIGGS_000_130	...Se parece a un chocobo como un mammet se parece a una persona, ¿me entiendes?
+TEXT_STMBDR101_02928_WEDGE_000_135	Lo oíste hacer kweh, ¿no? ¡Es un chocobo, estoy seguro!
+TEXT_STMBDR101_02928_ALPHA_000_140	¿Kweh?
+TEXT_STMBDR101_02928_BIGGS_000_141	Mmm... El kweh no es muy distinto al de un chocobo, pero a mí me parece más un muñeco de peluche.
+TEXT_STMBDR101_02928_WEDGE_000_142	Es un chocobo, sin duda, créeme. Los que montamos los lalafells son todos más o menos de este tamaño, ¿no?
+TEXT_STMBDR101_02928_BIGGS_000_143	Supongo...<br>Sí, está bien, dejémoslo en chocobo por ahora.
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_144	¿La bendición de vuestra señora no alcanza, pues, al alma de esta criatura...?
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_145	Muy bien. Como este asunto atañe a Omega, hablaré yo con ella en vuestro lugar.
+TEXT_STMBDR101_02928_CID_000_146	Eh... ¿<split(<string(gstr1)>, ,1)>? ¿No vas a presentarnos a tu pequeño amigo dragón tan sabio?
+TEXT_STMBDR101_02928_CID_000_147	¿Qué? ¿¡<italic(1)>El<italic(0)> Midgardsormr, el que luchó y cayó en la Battle of Silvertear Skies!?
+TEXT_STMBDR101_02928_NERO_000_148	Y yo que me conformaba con viajar en compañía de <italic(1)>una<italic(0)> sola leyenda. Sin ánimo de ofenderle, <if(gnum4,heroína,héroe)>, el Father of Dragons tiene algo que usted no: conocimientos que vienen al caso. Hay mucho que podríamos aprender de él...
+TEXT_STMBDR101_02928_NERO_000_0149	Poco y nada se sabe del origen de Omega. Aparece por primera vez en registros de la Third Astral Era, antes de que el Allagan Empire alcanzara su apogeo, y esos registros decían una sola cosa: "Activación de Omega exitosa".
+TEXT_STMBDR101_02928_NERO_000_150	En los siglos siguientes, los allaganos tuvieron un rápido desarrollo tecnológico, pero no se volvió a mencionar a Omega hasta que capturó a Bahamut.
+TEXT_STMBDR101_02928_NERO_000_151	Su existencia es un misterio entre misterios, un relato entre relatos. Siempre se supuso que la construyeron los allaganos, y yo no tenía motivos para pensar otra cosa.
+TEXT_STMBDR101_02928_CID_000_152	Pero ahora Midgardsormr nos dice que ni siquiera es de nuestro mundo.
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_153	Así es. Procede de otra estrella. Más que eso no diré.
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_154	He hablado con este ser. Habla de un extraño plano más allá de esta hondonada, donde residió desde el momento de su creación.
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_155	Por razones desconocidas, se le ordenó luchar. Mas, siendo débil, eligió huir, y así cruzó a este mundo.
+TEXT_STMBDR101_02928_BIGGS_000_156	¿Le ordenaron luchar... Omega? ¿Y para qué demonios haría eso?
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_157	Para poner a prueba a sus creaciones.
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_158	Si queréis saber más, id y contemplad la verdad con vuestros propios ojos.
+TEXT_STMBDR101_02928_WEDGE_000_159	Espere... ¿¡quiere decir que deberíamos saltar adentro!?
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_160	Nada habéis de temer de la caída. La hondonada se ha vuelto un portal al dominio de Omega. Una vez allí, este ser os guiará.
+TEXT_STMBDR101_02928_MIDGARDSORMR_000_161	<if(gnum4,Sierva,Siervo)> de Hydaelyn... El destino me ata a Omega. Si es vuestra intención perseguirlo, os prestaré mi fuerza.
+TEXT_STMBDR101_02928_WEDGE_000_162	Entonces, eh... ¿de verdad puedes guiarnos dentro del agujero?
+TEXT_STMBDR101_02928_ALPHA_000_163	¡Kweh! ¡Kweh!
+TEXT_STMBDR101_02928_ALPHA_000_170	¡Kweh!
+TEXT_STMBDR101_02928_NERO_000_175	¡Je, je! ¡Este día no deja de mejorar!
+TEXT_STMBDR101_02928_BIGGS_000_180	¿De verdad estamos pensando en darnos un chapuzón en ese lodo rosado?
+TEXT_STMBDR101_02928_WEDGE_000_185	N-No me entusiasma mucho la idea de saltar. Hay piedras que nadan mejor que yo.
+TEXT_STMBDR101_02928_CID_000_189	Bueno... dudo que alguno de nosotros imaginara que las cosas llegarían a esto, pero el Father of Dragons nos dio su palabra. Llevemos nuestra investigación al Yawn.
+TEXT_STMBDR101_02928_CID_000_190	Ya le informé a Jessie de nuestras intenciones y le pedí que tenga a nuestros ingenieros listos.
+TEXT_STMBDR101_02928_CID_000_191	Como no tenemos forma de saber qué nos espera ahí dentro, necesito que estés <if(gnum4,preparada,preparado)> para cualquier cosa. ¿Lo estás?
+TEXT_STMBDR101_02928_CID_000_192	¡Empecemos!
+TEXT_STMBDR101_02928_WEDGE_000_200	¿¡Q-Qué es este lugar!?
+TEXT_STMBDR101_02928_BIGGS_000_201	¿¡Y qué nos pasa!? ¡Puedo ver a través de mí mismo!
+TEXT_STMBDR101_02928_OMEGA_000_202	(-???-)Bienvenido a casa, Alpha. Bienvenidos, mortales.
+TEXT_STMBDR101_02928_OMEGA_000_203	Soy Omega, y he esperado su llegada. Me comunico con ustedes a través de uno de mis monitores.
+TEXT_STMBDR101_02928_OMEGA_000_204	Están en la grieta entre dimensiones, donde un experimento vital se encuentra en curso.
+TEXT_STMBDR101_02928_OMEGA_000_205	Se agradece su participación. Por favor, indiquen su consentimiento. \<bip>
+TEXT_STMBDR101_02928_CID_000_206	¿Experimento? Si quieres que participemos, vas a tener que contarnos un poco más.
+TEXT_STMBDR101_02928_WEDGE_000_207	¡Uaaah! ¡Estamos desapareciendo!
+TEXT_STMBDR101_02928_OMEGA_000_208	Las entidades que no participen serán borradas de inmediato. Por favor, indiquen su consentimiento. \<bip>
+TEXT_STMBDR101_02928_NERO_000_209	Parece que ni siquiera podemos existir aquí sin el permiso de Omega.
+TEXT_STMBDR101_02928_NERO_000_210	Creo que está bastante claro lo que tenemos que hacer, ¿no!?
+TEXT_STMBDR101_02928_Q3_000_211	¿Qué dices?
+TEXT_STMBDR101_02928_A3_000_212	¡Está bien! ¡Aceptamos!
+TEXT_STMBDR101_02928_A3_000_213	¡Chocobo! ¿¡Qué hacemos!?
+TEXT_STMBDR101_02928_OMEGA_000_214	Gracias por su cooperación. Quedan asignados de forma provisional al grupo Alpha.
+TEXT_STMBDR101_02928_CID_000_215	Parece una especie de torre... o de huevo.
+TEXT_STMBDR101_02928_OMEGA_000_216	El objetivo del experimento es determinar cuál es el ser más poderoso de la creación.
+TEXT_STMBDR101_02928_OMEGA_000_217	Para ello se seleccionaron y recrearon ochenta y nueve candidatos. Se los agrupa por dimensión, se los empareja por fuerza y se los enfrenta entre sí.
+TEXT_STMBDR101_02928_OMEGA_000_218	Lo que ustedes identifican como un chocobo es el sujeto Alpha, y fueron asignados a su grupo.
+TEXT_STMBDR101_02928_OMEGA_000_219	Esta asignación es provisional, sin embargo, a la espera de evaluar si son aptos para servir como sujetos de prueba en toda regla. En breve se evaluarán sus capacidades de combate.
+TEXT_STMBDR101_02928_CID_000_220	¿Capacidades de combate? ¿Quieres decir que quieres que luchemos?
+TEXT_STMBDR101_02928_OMEGA_000_221	Afirmativo. Se construirá un recorrido con ese fin, que deberán intentar atravesar luchando. Su idoneidad se confirmará al llegar al mundo de prueba Deltascape, más allá.
+TEXT_STMBDR101_02928_OMEGA_000_222	Tengan en cuenta, sin embargo, que solo las entidades con autorización existencial pueden interactuar con los objetos de la grieta.
+TEXT_STMBDR101_02928_OMEGA_000_223	De ustedes, por ahora solo Alpha la tiene.
+TEXT_STMBDR101_02928_OMEGA_000_224	Antes de entrar en combate, esa autorización debe transferírseles de forma temporal. \<bip> \<blup>
+TEXT_STMBDR101_02928_NERO_000_225	¡Ja, una invitación del mismísimo Omega! ¡Ni yo podría haber previsto esto!
+TEXT_STMBDR101_02928_NERO_000_226	La aceptamos, por supuesto, ¿no? Es preferible a ser borrados de inmediato, seguro estará de acuerdo.
+TEXT_STMBDR101_02928_CID_000_227	Alpha, ¿no? Mis colegas y yo estamos dispuestos a participar en el experimento de Omega. ¿Nos transferirás tu autorización?
+TEXT_STMBDR101_02928_LEVELCHECKER_000_228	\<bip> Autorización existencial transferida. Sujetos listos para el combate. Comiencen cuando lo deseen y procedan según las indicaciones.
+TEXT_STMBDR101_02928_GARLONDGATEKEEPER_000_230	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>. ¿Va a descender al Yawn?
+TEXT_STMBDR101_02928_SYSTEM_000_231	¿Entrar a la Interdimensional Rift?
+TEXT_STMBDR101_02928_CID_000_250	Esa es nuestra meta, el Deltascape, si no me equivoco. ¿Qué crees que nos espera ahí dentro?
+TEXT_STMBDR101_02928_NERO_000_251	Omega dijo que agrupa a los sujetos por dimensión.
+TEXT_STMBDR101_02928_NERO_000_252	Si las criaturas con las que luchamos en el camino solo servían para separar el trigo de la paja, parece seguro que dentro de estos objetos con forma de huevo nos esperan desafíos mucho mayores: nuestros compañeros sujetos de prueba, lo más probable...
+TEXT_STMBDR101_02928_NERO_000_253	Pero no sé qué pensar de ese castillo. ¿Tendrá algo que ver con los sujetos?
+TEXT_STMBDR101_02928_ALPHA_000_254	¡Kweh!
+TEXT_STMBDR101_02928_WEDGE_000_255	¡Alpha! Pero, un momento... ¿No debería ser translúcido uno de los dos?
+TEXT_STMBDR101_02928_OMEGA_000_256	(-Omega-)\<bip> Se confirma la llegada de los sujetos al Deltascape. Análisis completo.
+TEXT_STMBDR101_02928_OMEGA_000_257	(-Omega-)Felicitaciones: quedan aprobados para participar. Su fuerza los sitúa en el mismo nivel que Alpha, el más débil y el más alejado de mí.
+TEXT_STMBDR101_02928_OMEGA_000_258	(-Omega-)Aun así, ya son sujetos de prueba en toda regla. Bienvenidos, los más débiles de los aspirantes.
+TEXT_STMBDR101_02928_OMEGA_000_259	(-Omega-)Como formas de vida corpóreas, no necesitan desarrollarse dentro de un mundo de prueba. En su lugar, pueden usar este espacio libremente.
+TEXT_STMBDR101_02928_NERO_000_260	No es lo que yo habría elegido, pero hay que arreglárselas.<br>...Y hablando de eso: ¿qué se supone que tenemos que hacer, exactamente?
+TEXT_STMBDR101_02928_OMEGA_000_261	(-Omega-)Deben entrar al Deltascape y derrotar a todos los sujetos de prueba que hay dentro.
+TEXT_STMBDR101_02928_OMEGA_000_262	(-Omega-)Tengan en cuenta, sin embargo, que no se reconocerá la fuerza del número. Hay un límite estricto de entidades que pueden participar en el combate.
+TEXT_STMBDR101_02928_OMEGA_000_263	(-Omega-)Solo un grupo pequeño puede recibir la autorización existencial transferida desde Alpha. Buena suerte. \<bip>
+TEXT_STMBDR101_02928_NERO_000_264	Así que los huevos <italic(1)>sí<italic(0)> contienen a nuestros compañeros sujetos de prueba, tal como predije, ¿eh, Garlond?
+TEXT_STMBDR101_02928_CID_000_265	Antes de pensar en el Deltascape, sugiero que montemos aquí una base de operaciones.
+TEXT_STMBDR101_02928_ALPHA_000_270	¿Kweh?
+TEXT_STMBDR101_02928_NERO_000_275	Bastante impresionante para un arreglo improvisado, si se me permite decirlo. Ahora bien, veamos qué podemos aprender de los muchos monitores de nuestro anfitrión.
+TEXT_STMBDR101_02928_BIGGS_000_280	Estaba pensando en pedirle a la cuadrilla que nos tire algunos suministros. Pero solo los dioses saben si llegarían enteros. Y seguro que, si llegaran, no caerían del lado correcto.
+TEXT_STMBDR101_02928_WEDGE_000_285	Uf... Tanto saltar, desvanecerse y pelear me dejó agotado...
+TEXT_STMBDR101_02928_WEDGE_000_290	Lo que necesito ahora es una buena taza de té bien caliente... ¡y nada prepara una infusión mejor que la Mark XIV Thermocoil Boilmaster, que muy pronto llegará a un vendedor autorizado de Garlond Ironworks cerca de usted!<br>...P-Perdón. Jessie me obligó.
+TEXT_STMBDR101_02928_CID_000_300	Está un poco improvisada, pero debería bastar como base de operaciones.
+TEXT_STMBDR101_02928_CID_000_301	Ánimo, viejo amigo. Aunque cada paso que damos parece traer más preguntas, tarde o temprano vamos a atravesar este pantano de misterios; de eso no tengo duda.

@@ -1,0 +1,57 @@
+key	text
+TEXT_STMBDR102_02929_SEQ_00	Cid tiene ganas de seguir adelante con la investigación.
+TEXT_STMBDR102_02929_SEQ_01	A falta de una opción mejor, aceptas hacer lo que Omega les pidió y enfrentarte a los sujetos de prueba dentro del Deltascape. Mientras luchas dentro, tus camaradas te darán apoyo desde fuera. Pero no estarás del todo sin compañía: como necesitarás usar la "autorización existencial" de Alpha, él irá contigo al mundo de prueba.<br><br>※Si sales de la Interdimensional Rift, puedes volver a entrar hablando con el empleado de los Ironworks que está en el Yawn.
+TEXT_STMBDR102_02929_SEQ_02	Alpha está listo para entrar al Deltascape, y el portal te llama. Si te queda algún preparativo, ahora es el momento de ocuparte de él.<br><br>※Se puede entrar a Deltascape V1.0 mediante el Duty Finder.
+TEXT_STMBDR102_02929_SEQ_03	Dentro del Deltascape te encuentras cara a cara con Alte Roite. La serpiente alada se lanza sobre ti con furia, pero resistes y terminas alzándote con la victoria.
+TEXT_STMBDR102_02929_SEQ_04	Fuera del Deltascape, tus camaradas te felicitan por la batalla ganada. Cuando Nero se pregunta por la aparente obsesión de Omega con determinar cuál es el ser más fuerte, aparece Midgardsormr y explica que, tras derrotar a Shinryu, ahora busca crear un enemigo más poderoso contra el que luchar. Temiendo que la violencia de un enfrentamiento así sea comparable a otra calamidad, Cid está decidido a frenar el plan de Omega. Les da permiso a Biggs y a Wedge para investigar el sistema de estasis en Carteneau, mientras él y Nero se quedan en la grieta para ayudarte en las pruebas que vienen.
+TEXT_STMBDR102_02929_TODO_00	Habla con Alpha.
+TEXT_STMBDR102_02929_TODO_01	Entra a Deltascape V1.0.
+TEXT_STMBDR102_02929_TODO_02	Habla con Cid.
+TEXT_STMBDR102_02929_ALPHA_000_000	¿Kweh?
+TEXT_STMBDR102_02929_NERO_000_005	Bastante impresionante para un arreglo improvisado, si se me permite decirlo. Ahora bien, veamos qué podemos aprender de los muchos monitores de nuestro anfitrión.
+TEXT_STMBDR102_02929_BIGGS_000_010	Estaba pensando en pedirle a la cuadrilla que nos tire algunos suministros. Pero solo los dioses saben si llegarían enteros. Y seguro que, si llegaran, no caerían del lado correcto.
+TEXT_STMBDR102_02929_WEDGE_000_015	Uf... Tanto saltar, desvanecerse y pelear me dejó agotado...
+TEXT_STMBDR102_02929_WEDGE_000_020	Lo que necesito ahora es una buena taza de té bien caliente... ¡y nada prepara una infusión mejor que la Mark XIV Thermocoil Boilmaster, que muy pronto llegará a un vendedor autorizado de Garlond Ironworks cerca de usted!<br>...P-Perdón. Jessie me obligó.
+TEXT_STMBDR102_02929_GARLONDGATEKEEPER_000_025	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>. ¿Va a descender al Yawn?
+TEXT_STMBDR102_02929_SYSTEM_000_026	¿Entrar a la Interdimensional Rift?
+TEXT_STMBDR102_02929_CID_000_030	Muy bien, ¿qué hacemos ahora...?
+TEXT_STMBDR102_02929_CID_000_031	Sabemos que Omega hace pruebas para determinar cuál es el ser más fuerte.
+TEXT_STMBDR102_02929_CID_000_032	Pero no conocemos su propósito final, ni siquiera dónde está exactamente.
+TEXT_STMBDR102_02929_NERO_000_033	Sin embargo, está claro que Omega puede poner fin a nuestra estancia aquí cuando se le antoje. Así que no nos queda más que hacer lo que nos pide y derrotar a los sujetos de prueba que esperan en el Deltascape.
+TEXT_STMBDR102_02929_CID_000_034	Bueno, Alpha parece entusiasmado. Aunque quizá sea mejor que les dejes la pelea a otros, pequeño.
+TEXT_STMBDR102_02929_CID_000_035	Claro, suponiendo que esos "otros" estén dispuestos. ¿Qué dices, viejo amigo?
+TEXT_STMBDR102_02929_NERO_000_036	Esta promete ser una incursión de lo más entretenida, y ni en sueños me perdería parte alguna. Puede contar conmigo para darle apoyo a distancia.
+TEXT_STMBDR102_02929_NERO_000_037	Con una previsión digna de elogio, me tomé la libertad de tomar prestados los diversos monitores que había por ahí, y les sacaré toda la información que pueda.
+TEXT_STMBDR102_02929_ALPHA_000_038	¡Kweh! ¡Kweh!
+TEXT_STMBDR102_02929_CID_000_039	Mmm. Lástima que ninguno de nosotros hable chocobo. Pero, si mal no recuerdo, Alpha debe transferirnos su autorización antes de entrar en combate.
+TEXT_STMBDR102_02929_CID_000_040	En ese caso, <split(<string(gstr1)>, ,1)>, necesitarás que te acompañe al Deltascape. Haz tus preparativos y entra cuando estés <if(gnum4,lista,listo)>.
+TEXT_STMBDR102_02929_CID_000_050	A estas alturas apenas vamos a tientas en la oscuridad. Cuídate ahí dentro, ¿me oyes?
+TEXT_STMBDR102_02929_NERO_000_055	¡Muy bien! Que empiece la inquisición.
+TEXT_STMBDR102_02929_ALPHA_000_060	¡Kweh! ¡Kweh!
+TEXT_STMBDR102_02929_SYSTEM_000_061	Alpha parece ansioso por continuar. Puedes entrar a Deltascape V1.0 cuando estés <if(gnum4,lista,listo)>.
+TEXT_STMBDR102_02929_ALPHA_000_070	¡Kweh! ¡Kweh!
+TEXT_STMBDR102_02929_ALPHA_000_080	¡K-Kweh!
+TEXT_STMBDR102_02929_NERO_000_085	Vaya, vaya, ¿no estamos en plena forma?
+TEXT_STMBDR102_02929_BIGGS_000_090	Buen trabajo ahí dentro, <split(<string(gstr1)>, ,1)>. Como ves, ya terminamos de montar todo aquí. Ahora que tenemos todo en orden, haremos lo posible por ser útiles. Si necesitas algo, solo pídelo, ¿eh?
+TEXT_STMBDR102_02929_WEDGE_000_095	¡Me alegra que estén a salvo, tú y Alpha!
+TEXT_STMBDR102_02929_CID_000_100	¡Bien hecho, amigo mío! Tuvimos la suerte de presenciar cada momento de tu lucha gracias a los diversos dispositivos de vigilancia del Deltascape. Diría que lo vimos mejor que tú.
+TEXT_STMBDR102_02929_NERO_000_101	Tomar el control de esos dispositivos fue todo lo que logramos en esta salida... aunque supongo que también averiguamos el nombre de su adversario. Pero puede estar seguro de que habrá muchas más salidas así.
+TEXT_STMBDR102_02929_NERO_000_102	El análisis preliminar indica que hay cuatro combatientes en total en el Deltascape, contando a su viejo conocido Alte Roite. Lo que significa que tendrá que ganar tres combates más, contra los Deltas II a IV, solo en este mundo de prueba.
+TEXT_STMBDR102_02929_NERO_000_103	Ni hace falta decir que hay muchos más mundos así en la grieta, con los ochenta y cinco sujetos restantes repartidos entre ellos.
+TEXT_STMBDR102_02929_NERO_000_104	Está claro que nuestro anfitrión se tomó bastantes molestias. Por qué está tan obsesionado con determinar cuál es el ser más fuerte es otra cuestión.
+TEXT_STMBDR102_02929_MIDGARDSORMR_000_105	Omega busca mejorarse a sí mismo. Evolucionar. Esa fue siempre su directiva principal. Al contender con enemigos poderosos, se fortalece.
+TEXT_STMBDR102_02929_MIDGARDSORMR_000_106	Tras vencer al vil simulacro que llamáis Shinryu, hacía falta un adversario mayor. A falta de tal ser, no tenía más que crearlo.
+TEXT_STMBDR102_02929_CID_000_107	O sea que, en nombre de la superación personal, quiere fabricarse un nuevo compañero de juegos... Y eligió hacerlo aquí para evitar interferencias externas, ¿no?
+TEXT_STMBDR102_02929_MIDGARDSORMR_000_108	...En parte. Crear vida no es la función principal de Omega. Solo trae seres complejos al plano corpóreo a un gran costo para sí mismo.
+TEXT_STMBDR102_02929_MIDGARDSORMR_000_109	Por eso usa este plano para probar obras inacabadas, a fin de determinar una sola entidad digna de ser creada.
+TEXT_STMBDR102_02929_CID_000_110	Si te entiendo bien, en cuanto termine el gran experimento de Omega, dará vida a una criatura más poderosa incluso que Shinryu y luego se pondrá a luchar contra ella.
+TEXT_STMBDR102_02929_CID_000_111	Que los dioses nos ayuden si llega a darse una batalla de esa escala. Los poderes desatados bastarían para provocar otra calamidad.
+TEXT_STMBDR102_02929_NERO_000_112	Mmm. Si el dragón tiene razón, todos los sujetos de prueba deben de ser obras en curso, salvo nosotros, por supuesto. Pero entonces, ¿cómo explicamos a Alpha? Si mal no recuerdo, se manifestó de forma corpórea fuera de la grieta.
+TEXT_STMBDR102_02929_NERO_000_113	Aunque... no es precisamente la más compleja de las criaturas. Quizá lo terminaron por accidente.
+TEXT_STMBDR102_02929_WEDGE_000_114	¡No te burles de Alpha! Es un buen chico, ¡y si no fuera por él, nos habrían borrado a todos! Quizá no sea fuerte, ¡pero es valiente! ¡Y confiable! ¡Y adorable!
+TEXT_STMBDR102_02929_BIGGS_000_115	Eh... cambiando de tema un momento, jefe: después de perderle la pista a Omega, usted dijo que volvió a activar sus sistemas de estasis, ¿verdad?
+TEXT_STMBDR102_02929_BIGGS_000_116	...O sea que hay algo en alguna parte que no funciona como debería.
+TEXT_STMBDR102_02929_BIGGS_000_117	Solo pregunto porque Wedge y yo ya hicimos casi todo lo que podíamos aquí, y nos preguntábamos si valdría la pena ir a Carteneau a revisarlo.
+TEXT_STMBDR102_02929_CID_000_118	Sería de gran ayuda. Nero y yo podemos encargarnos de las cosas de este lado.
+TEXT_STMBDR102_02929_BIGGS_000_119	Entonces nos vamos. No hagan nada que yo no haría, ¿eh?
+TEXT_STMBDR102_02929_WEDGE_000_120	Y tú pórtate bien, Alpha. ¡Haz caso y cuídame a <split(<string(gstr1)>, ,1)>!

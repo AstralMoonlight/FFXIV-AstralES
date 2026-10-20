@@ -1,0 +1,96 @@
+key	text
+TEXT_STMBDR106_02933_SEQ_00	Cid se ve más tranquilo tras alcanzar un hito en la investigación.
+TEXT_STMBDR106_02933_SEQ_01	Tu grupo parte hacia Rhalgr's Reach de buen humor, con ganas de contar lo ocurrido y disfrutar de un merecido descanso.
+TEXT_STMBDR106_02933_SEQ_02	De vuelta en el taller, Jessie le da una buena reprimenda a Cid por actuar sin consultar a nadie y ponerse en peligro de muerte. Luego la ingeniera, exasperada, nota la ausencia de Biggs y Wedge, que al parecer no volvieron de su misión en Omega Control. Temiendo que se hayan metido en problemas, Cid decide ir a buscarlos y te pide que lo esperes en el aterrizaje de aeronaves de Gridania, donde aguarda el <italic(1)>Excelsior<italic(0)>.
+TEXT_STMBDR106_02933_SEQ_03	Al aterrizar en los Carteneau Flats, Cid te insta a adelantarte hasta Omega Control mientras él amarra el <italic(1)>Excelsior<italic(0)>.<br><br>※Si sales de Omega Control, puedes volver a entrar hablando con Cid en el aterrizaje de aeronaves de Gridania.
+TEXT_STMBDR106_02933_SEQ_04	Al entrar a la sala de control, descubres con espanto a Biggs y a Wedge tendidos en el suelo, junto a un monstruo muerto. Por suerte, ambos siguen vivos, aunque en mal estado. Los demás no tardan en llegar, y también Omega, a través de su sistema de comunicación. Revela que fue él quien intentó matar a los dos ingenieros, y amenaza con matar a gente inocente si no siguen participando en su experimento. Su objetivo: estudiar una anomalía conocida como los héroes. A lo largo de la historia, explica, individuos por lo demás corrientes triunfaron sobre seres muy superiores, tal como hiciste tú en el Deltascape. Tras declararse "enemigo de toda la vida de esta estrella", Omega por fin se calla y te deja atender a tus amigos heridos.
+TEXT_STMBDR106_02933_SEQ_05	De vuelta en el aterrizaje de aeronaves de Gridania, Nero te informa que Biggs y Wedge quedaron al cuidado de los sanadores del Conjurers' Guild. Tras anunciar que piensa ir a verlos, te pide que vayas a Rhalgr's Reach a contarle a Jessie todo lo ocurrido.
+TEXT_STMBDR106_02933_SEQ_06	Como era de esperar, Jessie queda conmocionada al oír las noticias de Carteneau. Aunque Biggs y Wedge se recuperarán, la amenaza de Omega es enorme, y con pocas esperanzas de reparar su sistema de estasis, Cid concluye que no les queda más que obedecer sus órdenes. Muy pronto te llamarán otra vez a la batalla, y tienes toda la intención de estar <if(gnum4,preparada,preparado)>.
+TEXT_STMBDR106_02933_TODO_00	Habla con Jessie.
+TEXT_STMBDR106_02933_TODO_01	Habla con Cid en Gridania.
+TEXT_STMBDR106_02933_TODO_02	Investiga Omega Control.
+TEXT_STMBDR106_02933_TODO_03	Habla con Nero.
+TEXT_STMBDR106_02933_TODO_04	Habla con Jessie en Rhalgr's Reach.
+TEXT_STMBDR106_02933_ALPHA_000_000	¡Kweh!
+TEXT_STMBDR106_02933_NERO_000_005	Por mucho que se queje Garlond, fui cooperativo y útil, ¿no? Espero con ganas muchas más incursiones juntos, <if(gnum4,heroína,héroe)>.
+TEXT_STMBDR106_02933_GARLONDGATEKEEPER_000_008	¡Qué bueno que volvió, <if(gnum4,señora,señor)>! No se preocupe: me encargaré de que nadie se caiga.
+TEXT_STMBDR106_02933_CID_000_010	Muy bien, volvamos a Rhalgr's Reach. Jessie querrá saber exactamente en qué anduvimos.
+TEXT_STMBDR106_02933_ALPHA_000_020	¿Kweh?
+TEXT_STMBDR106_02933_CID_000_025	Ya le conté a Jessie nuestras peripecias, pero quizá quieras avisarle que volviste. Dice que estuvo bastante preocupada...
+TEXT_STMBDR106_02933_NERO_000_030	Mmm, me pregunto cómo reaccionaría Alpha al ver un chocobo normal.
+TEXT_STMBDR106_02933_JESSIE_000_040	<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <split(<string(gstr1)>, ,1)>. Me cuentan que nos fuiste abriendo camino. Por lo que oí, la investigación se habría estancado hace rato sin ti.
+TEXT_STMBDR106_02933_JESSIE_000_041	Sé que lo que más te interesa es salvar el mundo, pero quiero que sepas cuánto te agradezco que ayudes así a la compañía.
+TEXT_STMBDR106_02933_JESSIE_000_042	Francamente, necesitamos toda la ayuda posible, con nuestro estimado presidente lanzándose de cabeza a las fauces del peligro sin avisarle a nadie. Decir irresponsable es quedarse corto.
+TEXT_STMBDR106_02933_NERO_000_043	...¿No le contaste?
+TEXT_STMBDR106_02933_CID_000_044	Sí le conté... a mi manera. Aunque puede que haya ejercido cierta... discreción ejecutiva.
+TEXT_STMBDR106_02933_JESSIE_000_045	Ya conozco sus aventuras en solitario y su costumbre de confundir los intereses personales con los de la compañía, pero que siempre haya hecho las cosas de cierta manera no la vuelve la manera <italic(1)>correcta<italic(0)>. Y hasta que tome conciencia de sus responsabilidades, se las voy a seguir recordando.
+TEXT_STMBDR106_02933_JESSIE_000_046	Pero dejando de lado esos asuntos fastidiosos...
+TEXT_STMBDR106_02933_JESSIE_000_047	¿¡No eres la cosita más adorable del mundo!?
+TEXT_STMBDR106_02933_JESSIE_000_048	Te siguió hasta aquí por voluntad propia, ¿no? ¡O sea que prácticamente es de la familia! ¿Y por qué <italic(1)>no<italic(0)> iba a darnos los derechos exclusivos de su imagen? ¿Empezamos con una versión mecánica sencilla? ¡Van a hacer fila en las calles!
+TEXT_STMBDR106_02933_CID_000_049	Ay, no puede ser... ¿¡Qué demonios te pasa!?<br>Mira: si te causé alguna angustia, te pido disculpas, ¡pero <italic(1)>no<italic(0)> voy a permitir que opines sobre lo <italic(1)>vendible<italic(0)> que es nuestro invitado!
+TEXT_STMBDR106_02933_CID_000_050	¿Dónde están Biggs y Wedge? ¿No deberían haber vuelto ya?
+TEXT_STMBDR106_02933_JESSIE_000_051	¿Ah? Pensé que los había mandado a otra misión no autorizada. Lo último que supe de ellos fue que estaban revisando Omega Control en busca de algo útil. Aunque eso ya fue hace un buen rato.
+TEXT_STMBDR106_02933_CID_000_052	Esto no me gusta. Aunque tenemos todos los permisos necesarios, técnicamente la zona es un escenario de guerra, y encima está plagada de artefactos allaganos desconocidos. Bien puede haberles pasado algo.
+TEXT_STMBDR106_02933_CID_000_053	Más vale que tomemos el <italic(1)>Excelsior<italic(0)> y vayamos a buscarlos.
+TEXT_STMBDR106_02933_JESSIE_000_054	¿Mmm? ¿Se va otra vez tan pronto?
+TEXT_STMBDR106_02933_JESSIE_000_055	Nero, <split(<string(gstr1)>, ,1)>: quiero que acompañen al jefe. Asegúrense de que no haga nada imprudente ni tome desvíos.
+TEXT_STMBDR106_02933_NERO_000_056	Considérelo hecho. Lo traeré de vuelta aunque tenga que arrastrarlo de las correas de los anteojos.
+TEXT_STMBDR106_02933_ALPHA_000_057	¡Kweh, kweh! ¡Kweh!
+TEXT_STMBDR106_02933_CID_000_058	Quieres venir, ¿eh? Probablemente sea lo mejor. Si te dejamos aquí, Jessie es capaz de sacarte un molde.
+TEXT_STMBDR106_02933_CID_000_059	Bien, pongámonos en marcha. Llevaré la aeronave a Gridania. Espérenme en el aterrizaje.
+TEXT_STMBDR106_02933_JESSIE_000_060	Si nuestro estimado presidente cree que esto se terminó, se equivoca. Pero la seguridad de nuestra gente va primero. Cuídense, ¿sí?
+TEXT_STMBDR106_02933_ALPHA_000_065	Kweh... ¿Kweh?
+TEXT_STMBDR106_02933_NERO_000_070	Otra oportunidad de subir al famoso <italic(1)>Enterprise Excelsior<italic(0)>. Qué suertudo soy.
+TEXT_STMBDR106_02933_CID_000_080	Parece que estamos todos. Vamos rápido a los Carteneau Flats.
+TEXT_STMBDR106_02933_CID_000_100	Adelántate a la sala de control, <split(<string(gstr1)>, ,1)>. Te seguiremos en cuanto amarremos el <italic(1)>Excelsior<italic(0)>.
+TEXT_STMBDR106_02933_CID_000_110	¿Todo en orden? Bien. Vamos rápido a los Carteneau Flats.
+TEXT_STMBDR106_02933_SYSTEM_000_115	Está inconsciente.
+TEXT_STMBDR106_02933_SYSTEM_000_118	¿Salir de Omega Control?
+TEXT_STMBDR106_02933_CID_000_150	¡Por los siete infiernos! ¡Biggs, Wedge!
+TEXT_STMBDR106_02933_CID_000_151	¿¡Están bien!? ¡Respondan!
+TEXT_STMBDR106_02933_WEDGE_000_152	¿J-Jefe? ¿<split(<string(gstr1)>, ,1)>?
+TEXT_STMBDR106_02933_WEDGE_000_153	Un monstruo... apareció de la nada...
+TEXT_STMBDR106_02933_OMEGA_000_154	(-???-)\<bip> Los objetivos presentan signos vitales. Misión fallida.
+TEXT_STMBDR106_02933_OMEGA_000_155	(-???-)Sin embargo, los miembros del grupo Alpha presentan niveles elevados de estrés. Objetivo cumplido.
+TEXT_STMBDR106_02933_CID_000_156	¿¡Omega!? ¿¡Tú les echaste esa cosa encima!?
+TEXT_STMBDR106_02933_OMEGA_000_157	(-Omega-)Afirmativo. Puedo crear formas de vida simples al instante en cualquier coordenada temporal o espacial.
+TEXT_STMBDR106_02933_OMEGA_000_158	(-Omega-)Esos seres pueden representar una amenaza insignificante para ustedes. Sin embargo...
+TEXT_STMBDR106_02933_OMEGA_000_159	(-Omega-)Bastan y sobran para herir de gravedad o matar a la mayoría de los suyos.
+TEXT_STMBDR106_02933_OMEGA_000_160	(-Omega-)Podría provocar una masacre en cualquier momento, y ustedes no podrían impedirlo.
+TEXT_STMBDR106_02933_NERO_000_161	¿Noto un cambio de política? ¿Cantidad antes que calidad?
+TEXT_STMBDR106_02933_OMEGA_000_162	(-Omega-)Negativo. Mi objetivo no cambió: la evolución mediante una oposición formidable.
+TEXT_STMBDR106_02933_OMEGA_000_163	(-Omega-)Sin embargo, al buscar sujetos adecuados, observé una anomalía: los que ustedes llaman héroes.
+TEXT_STMBDR106_02933_OMEGA_000_164	(-Omega-)La historia muestra numerosos casos de individuos por lo demás corrientes que derrotaron a seres muy superiores. Que triunfaron ante probabilidades en apariencia imposibles. Que realizaron lo que popularmente se llaman "milagros".
+TEXT_STMBDR106_02933_OMEGA_000_165	(-Omega-)Esto ocurrió con demasiada frecuencia como para descartarlo como una simple aberración estadística.
+TEXT_STMBDR106_02933_OMEGA_000_166	(-Omega-)Busco entender este fenómeno. Si resulta beneficioso, lo incorporaré a mi propia evolución. Con ese fin los traje a mi dominio.
+TEXT_STMBDR106_02933_NERO_000_167	Mmm, así que el espectáculo en el Yawn y meter a Alpha entre nosotros eran solo parte de tu gran plan.
+TEXT_STMBDR106_02933_OMEGA_000_168	(-Omega-)Con sus victorias demostraron esa misma anomalía. Son aptos para seguir siendo mis sujetos.
+TEXT_STMBDR106_02933_OMEGA_000_169	(-Omega-)Seguirán participando en mi experimento. Si se retiran, comenzaré el exterminio de los suyos.
+TEXT_STMBDR106_02933_OMEGA_000_170	(-Omega-)Esto es una orden. Una amenaza. Una declaración de guerra. Soy enemigo de toda la vida de esta estrella.
+TEXT_STMBDR106_02933_CID_000_171	...Parece que tenemos mucho en qué pensar. Pero lo primero es lo primero: hay que atender a nuestros amigos. Rápido, ayúdenme a cargarlos.
+TEXT_STMBDR106_02933_NERO_000_180	Garlond y Alpha llevaron a nuestros dos heridos al Conjurers' Guild.
+TEXT_STMBDR106_02933_NERO_000_181	El jefe me pide que dé una mano, así que supongo que también iré para allá.
+TEXT_STMBDR106_02933_NERO_000_182	Usted, mientras tanto, debe volver a Rhalgr's Reach e informarle a Jessie.
+TEXT_STMBDR106_02933_JESSIE_000_190	¡<split(<string(gstr1)>, ,1)>, me enteré de que hubo problemas! ¿¡Qué demonios pasó!?
+TEXT_STMBDR106_02933_JESSIE_000_191	¿¡Qué!? ¿¡Omega le echó un monstruo encima a Biggs y a Wedge!?
+TEXT_STMBDR106_02933_JESSIE_000_192	Jugar con la vida de la gente como si fuera un juego... ¡Es una locura!
+TEXT_STMBDR106_02933_JESSIE_000_193	¡S-Señor! ¿¡Van a estar bien!?
+TEXT_STMBDR106_02933_CID_000_194	Ya pasó lo peor, pero todavía pierden y recuperan el conocimiento. Se quedarán un tiempo al cuidado de los conjurers.
+TEXT_STMBDR106_02933_JESSIE_000_195	Entonces solo podemos esperar y rezar...
+TEXT_STMBDR106_02933_CID_000_196	¡Bah! ¡Que los dioses me fulminen por necio! ¡Debí tener más presentes los peligros! Nunca debí...
+TEXT_STMBDR106_02933_NERO_000_197	¿Nunca debiste qué? ¿Activar a Omega? Sabes tan bien como yo que no había otra forma de derrotar a Shinryu.
+TEXT_STMBDR106_02933_CID_000_198	¿Pero esto es de verdad mejor? ¡Tiene a toda la humanidad como rehén! ¡Y como fui yo quien activó a Omega, la responsabilidad es mía!
+TEXT_STMBDR106_02933_NERO_000_199	La responsabilidad... \<suspiro> Justo lo que diría el nuevo tú.
+TEXT_STMBDR106_02933_NERO_000_200	Te engañas, Garlond. Somos <italic(1)>científicos<italic(0)>, no héroes. Hasta tú tienes que reconocer que tus talentos no llegan al combate.
+TEXT_STMBDR106_02933_NERO_000_201	El viejo tú lo entendía mucho mejor. <italic(1)>Él<italic(0)> solo miraba hacia adelante y se entregaba por completo a la ciencia.
+TEXT_STMBDR106_02933_NERO_000_202	Y entonces cambiaste. Te las diste de pacifista y empezaste a soltar tonterías sobre los usos <italic(1)>adecuados<italic(0)> de la tecnología. Fue después del percance de tu viejo en Bozja, si no me equivoco.
+TEXT_STMBDR106_02933_NERO_000_203	Cálmate. Solo quería decir que aceptes quién eres: un hombre que dedica su mente a hacer posible lo imposible.
+TEXT_STMBDR106_02933_CID_000_204	Con pocas esperanzas de restaurar el sistema de estasis, me temo que no nos queda más que seguir participando en las pruebas de Omega.
+TEXT_STMBDR106_02933_CID_000_205	Si Midgardsormr tiene razón, nos enfrentamos a una legión de enemigos de la historia, tanto reales como imaginarios.
+TEXT_STMBDR106_02933_CID_000_206	Aunque yo no sea quien se lance a la refriega, lucharé a tu lado como mejor sé. Dicho esto... inevitablemente te tocará a ti dar el golpe de gracia, viejo amigo, así que, por favor... por Biggs y Wedge, y por todos nosotros: ¡no pierdas!
+TEXT_STMBDR106_02933_ALPHA_000_207	¡Kweh! ¡Kweh, kweh!
+TEXT_STMBDR106_02933_JESSIE_000_208	Me parece que el pequeño pícaro intenta darnos ánimo.
+TEXT_STMBDR106_02933_NERO_000_209	Qué bajo hemos caído para ganarnos su lástima... dijo el ex tribunus. \<suspiro> Hasta que Omega vuelva a invitarnos, me encontrarán analizando los datos de nuestra investigación. <if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>.
+TEXT_STMBDR106_02933_CID_000_210	Antes de que los atacaran, Biggs y Wedge descubrieron una tomestone.
+TEXT_STMBDR106_02933_CID_000_211	Examinaré su contenido e iré poniendo la información en esa terminal a medida que la extraiga. Consúltala cuando haga falta.
+TEXT_STMBDR106_02933_CID_000_212	No hay forma de saber cuándo nos convocará Omega, pero todos debemos estar listos cuando lo haga. No temas, viejo amigo. Saldremos de esta juntos... de un modo u otro.
