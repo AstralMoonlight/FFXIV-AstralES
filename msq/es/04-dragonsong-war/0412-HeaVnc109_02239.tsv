@@ -20,7 +20,7 @@ TEXT_HEAVNC109_02239_AYMERIC_000_020	Para la Alliance también es una cuestión 
 TEXT_HEAVNC109_02239_LUCIA_000_025	El segundo comandante y los tenientes de Hilda se ocuparán de la seguridad de la ciudad en mi ausencia. El combate exige toda mi atención.
 TEXT_HEAVNC109_02239_HILDA_000_030	No es común que los petimetres de alta cuna se dignen a pelear junto a la plebe. Es como todos nuestros cumpleaños juntos.
 TEXT_HEAVNC109_02239_HILDA_000_031	Pero también está en juego nuestro orgullo nacional. Nacional y personal. No voy a dejar que un señorito mocoso me deje en ridículo.
-TEXT_HEAVNC109_02239_THANCRED_000_035	Parece que está toda la crema de la Eorzean Alliance. La única pregunta es: ¿quién vino a mirar y quién vino a pelear? Mmm... Nanamo. Seguro que Nanamo.
+TEXT_HEAVNC109_02239_THANCRED_000_035	Parece que está toda la crema de la Eorzean Alliance. La única pregunta es: ¿quién vino a mirar y quién vino a pelear? Hmm... Nanamo. Seguro que Nanamo.
 TEXT_HEAVNC109_02239_MESSENGER02239_000_036	<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>)>)>, nos honra con su presencia. Corre un rumor infame de que usted saldrá al campo con los ishgardianos. Eh... No es cierto, ¿verdad?
 TEXT_HEAVNC109_02239_LOANNE_000_037	El campo está listo. Solo falta que se reúnan los participantes.
 TEXT_HEAVNC109_02239_CHAUNOLLET_000_038	Temple Knights peleando hombro con hombro con humildes guardias... Una imagen rara, pero de algún modo... correcta.
