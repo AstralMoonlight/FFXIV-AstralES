@@ -1,0 +1,114 @@
+key	text
+TEXT_STMBDR205_03035_SEQ_00	Nero parece inusualmente ansioso por seguir adelante.
+TEXT_STMBDR205_03035_SEQ_01	Entre Nero y Cid te presentan el perfil de tu último rival en el Sigmascape: un bufón que usa magia y se llama "Kefka". Según su investigación, el mago suele confundir a sus rivales con fintas sutiles. Por eso Nero ajustó su monitor para ver la batalla con una claridad inusual, e intentará avisarte de los engaños que se avecinen. Habla con Alpha para poner a prueba la estrategia de Nero.<br><br>※Si sales de la Interdimensional Rift, puedes volver a entrar hablando con el empleado de los Ironworks que está en el Yawn.
+TEXT_STMBDR205_03035_SEQ_02	Alpha está listo para entrar contigo al Sigmascape. Mantén los ojos abiertos y la mente despierta, ¡porque llegó la hora de luchar contra el engañoso Kefka!<br><br>※Se puede entrar a Sigmascape V4.0 mediante el Duty Finder.
+TEXT_STMBDR205_03035_SEQ_03	Derrotaste a Kefka, una victoria que debería marcar el fin de tus luchas dentro del Sigmascape. Es hora de salir y volver a los Fringes.
+TEXT_STMBDR205_03035_SEQ_04	Tras descender para felicitarte por tu triunfo, Omega expone su teoría sobre el secreto de tu inexplicable potencial de combate. Según él, limitas de forma inconsciente tu propio desempeño salvo cuando estás en peligro de muerte. Así que liberar tus capacidades "verdaderas" debería ser, lógicamente, cuestión de amenazarte de muerte... Antes de que te des cuenta de lo que pasa, quedas <if(gnum4,atrapada,atrapado)> en un prisma de energía, con apenas unos momentos de vida. Pero justo cuando todo parece perdido, Midgardsormr usa lo que le queda de fuerza para adoptar su forma original e interviene para salvarte de un final prematuro. Luego el Father of Dragons se desvanece en el sueño, convencido de que su guía ya no hace falta... Todavía estás <if(gnum4,aturdida,aturdido)> por lo vivido cuando llega Cid gritando algo sobre Nero. Pero al verte se muerde la lengua y te pide que salgas rápido al borde del Yawn.
+TEXT_STMBDR205_03035_SEQ_05	Al volver al mundo exterior te enteras de que a Nero lo llevaron a Rhalgr's Reach tras desplomarse. Vuelve por tu cuenta al asentamiento y ve a ver a Jessie, que te espera.
+TEXT_STMBDR205_03035_SEQ_06	Mientras hablas con Jessie, se acerca un Cid agotado con la noticia de que Nero quedará fuera de combate por un tiempo. Aunque el cansancio y las heridas empiezan a pasarles factura a tus compañeros, está claro que las pruebas de Omega solo se volverán más peligrosas. Así que no te queda más que tomarte a pecho las exhortaciones de Cid y templar cuerpo y mente para resistir a los rivales monstruosos que Omega te tenga preparados.
+TEXT_STMBDR205_03035_TODO_00	Habla con Alpha.
+TEXT_STMBDR205_03035_TODO_01	Entra a Sigmascape V4.0.
+TEXT_STMBDR205_03035_TODO_02	Entra a Sigmascape V4.0.
+TEXT_STMBDR205_03035_TODO_03	Habla con el empleado de los Ironworks.
+TEXT_STMBDR205_03035_TODO_04	Habla con Jessie en Rhalgr's Reach.
+TEXT_STMBDR205_03035_CID_000_000	Nero todavía se ve mal. ¿Cuánto de ese café se tomó?
+TEXT_STMBDR205_03035_ALPHA_000_005	Kweh...
+TEXT_STMBDR205_03035_GARLONDGATEKEEPER_000_010	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>. ¿Va a descender al Yawn?
+TEXT_STMBDR205_03035_SYSTEM_000_011	¿Entrar a la Interdimensional Rift?
+TEXT_STMBDR205_03035_NERO_000_020	Esto es todo...<br>La batalla final para conquistar el... \<tos>... Sigmascape.
+TEXT_STMBDR205_03035_CID_000_021	...Armamos un perfil de tu próximo rival.
+TEXT_STMBDR205_03035_CID_000_022	Aquí dentro te enfrentaste a enemigos fantásticos, pero esta vez tendrás la novedosa experiencia de luchar contra una persona de verdad. Se llama "Kefka"... y es un bufón.
+TEXT_STMBDR205_03035_CID_000_023	Según los datos, su forma favorita de hacer bufonadas no solo hacía caer de risa al público, sino al mundo entero.
+TEXT_STMBDR205_03035_CID_000_024	Al parecer, encontraba comedia en las tragedias ajenas y condenó a muerte a miles y miles para su propia diversión.
+TEXT_STMBDR205_03035_NERO_000_025	Je, je... Que un bufón traiga tanta miseria. Es casi gracioso.
+TEXT_STMBDR205_03035_NERO_000_026	Aun así, debemos tomarnos a este villano muy en serio. Su ascenso a la divinidad y su posterior dominio sobre un mundo destrozado están claramente documentados en los registros.
+TEXT_STMBDR205_03035_NERO_000_027	Kefka es un mago formidable, y astuto además. Sus tácticas deben tener en cuenta tanto su poder como sus engaños.
+TEXT_STMBDR205_03035_CID_000_028	Estuviste trabajando en una solución, ¿no? ¿Bastará?
+TEXT_STMBDR205_03035_NERO_000_029	¿Que si bastará? ¿Alguna vez me viste hacer algo a medias?
+TEXT_STMBDR205_03035_NERO_000_030	El maquillaje del bufón es una máscara para sus intenciones. Si solo mira la superficie, luchará en desventaja.
+TEXT_STMBDR205_03035_NERO_000_031	Para decirlo sin rodeos: Kefka intentará engañarle. Justo cuando prevea sus acciones y ajuste su posición, su verdadero ataque revelará que todo era una finta.
+TEXT_STMBDR205_03035_NERO_000_032	Aquí es donde las cosas se ponen interesantes...<br>Ajusté este monitor para poder observar el Sigmascape con una claridad muy mejorada.
+TEXT_STMBDR205_03035_NERO_000_033	Si observo alguna diferencia entre el comportamiento de Kefka y el ataque que se avecina, intentaré avisarle. El momento será crucial, por supuesto.
+TEXT_STMBDR205_03035_CID_000_034	¿Qué tan seguro estás de esta estrategia?
+TEXT_STMBDR205_03035_NERO_000_035	¡Calculo un cincuenta por ciento de probabilidades de éxito! ¡Cualquier demora, por mínima que sea, al reaccionar a sus fintas dejará mis avisos prácticamente inútiles!
+TEXT_STMBDR205_03035_NERO_000_036	¿No es emocionante? No hay forma segura de practicar esto, <if(gnum4,heroína,héroe)>: ¡tenemos que probar nuestras tácticas en el campo de batalla!
+TEXT_STMBDR205_03035_CID_000_037	...Me temo que tiene razón. Te daré todo el apoyo que pueda desde este lado.
+TEXT_STMBDR205_03035_CID_000_038	Haz los preparativos que necesites y entra al Sigmascape. ¡No podemos dejar que este bufón ría al último!
+TEXT_STMBDR205_03035_NERO_000_039	"Acepten su destrucción... Es el destino de todas las cosas".
+TEXT_STMBDR205_03035_NERO_100_039	"¡Pero la gente siempre puede reconstruir, y siempre nacerán nuevas vidas!".
+TEXT_STMBDR205_03035_NERO_000_040	...Una conversación fragmentada que venía con los datos de Kefka. La primera frase era suya, pero no se mencionaba quién dio la respuesta.
+TEXT_STMBDR205_03035_Q1_000_041	¿Qué dices?
+TEXT_STMBDR205_03035_A1_000_042	Admiras a este villano.
+TEXT_STMBDR205_03035_A1_000_043	En la vida siempre hay esperanza.
+TEXT_STMBDR205_03035_A1_000_044	...
+TEXT_STMBDR205_03035_NERO_000_045	...Quizá. Admiro la idea de trastocar el orden establecido.
+TEXT_STMBDR205_03035_NERO_000_046	Adelante, <if(gnum4,campeona,campeón)>. Me cansa esperar a que empiece la diversión.
+TEXT_STMBDR205_03035_NERO_000_047	...Qué previsiblemente franco de su parte. Seguro que fue un héroe muy parecido a usted quien dio la respuesta original.
+TEXT_STMBDR205_03035_NERO_000_048	Adelante, <if(gnum4,campeona,campeón)>. Me cansa esperar a que empiece la diversión.
+TEXT_STMBDR205_03035_NERO_000_049	...No importa. Adelante, <if(gnum4,campeona,campeón)>. Me cansa esperar a que empiece la diversión.
+TEXT_STMBDR205_03035_CID_000_050	Llevemos esto hasta el final, <split(<string(gstr1)>, ,1)>. ¡Una batalla a la vez!
+TEXT_STMBDR205_03035_NERO_000_055	¿Me pide permiso? Por supuesto, pongamos manos a la obra.
+TEXT_STMBDR205_03035_ALPHA_000_060	¡Kweh!<br>¡Kweh, kweh kweh, kweh!
+TEXT_STMBDR205_03035_SYSTEM_000_061	Está claro que Alpha está a punto de entrar en acción. Puedes entrar a Sigmascape V4.0 cuando estés <if(gnum4,lista,listo)>.
+TEXT_STMBDR205_03035_ALPHA_000_070	¡Kweh!<br>¡Kweh, kweh kweh, kweh!
+TEXT_STMBDR205_03035_CID_000_080	...Se acabó, ¿no? ¡<if(gnum4,Ganó ella,Ganó él)>!
+TEXT_STMBDR205_03035_OMEGA_000_081	(-Omega-)\<bip> Esta competencia está decidida. El grupo Alpha resulta vencedor.
+TEXT_STMBDR205_03035_OMEGA_000_082	(-Omega-)El mundo de prueba Sigmascape será borrado ahora.
+TEXT_STMBDR205_03035_CID_000_083	¡Vamos! ¡Tenemos que ir a buscar a <split(<string(gstr1)>, ,1)>!
+TEXT_STMBDR205_03035_CID_000_084	¿¡Nero!?
+TEXT_STMBDR205_03035_CID_000_085	¡Háblame, hombre! ¿¡Estás herido!?
+TEXT_STMBDR205_03035_NERO_000_086	Podría decirse...<br>Tuve una "visita" mientras ustedes estaban en su pequeña reunión de los Ironworks.
+TEXT_STMBDR205_03035_CID_000_087	Omega...<br>¡Maldición! Nunca debimos dejarte solo. No después de lo que les pasó a Biggs y a Wedge.
+TEXT_STMBDR205_03035_NERO_000_088	Hmph... Como si fuera a ir detrás de ti... como un perrito faldero lloriqueando...<br>No, elegí quedarme... y mira el resultado...
+TEXT_STMBDR205_03035_NERO_000_089	¡Esta victoria fue <italic(1)>mía<italic(0)>! ¡Fue <italic(1)>mi<italic(0)> ingenio el que derrotó a estos enemigos! Hasta tu querido Warrior of Light... \<tos>... no era más que otra variable en mis grandes experimentos.
+TEXT_STMBDR205_03035_CID_000_090	Bueno, Nero, guarda fuerzas. Iré a buscar a <split(<string(gstr1)>, ,1)> y a Alpha, y luego salimos de aquí.
+TEXT_STMBDR205_03035_NERO_000_091	Garlond...
+TEXT_STMBDR205_03035_NERO_100_091	...La próxima ronda es tuya.
+TEXT_STMBDR205_03035_NERO_000_092	Pero no puedes seguir conteniéndote... Es hora de liberar esa mente brillante tuya. De hacer lo que hay que hacer.
+TEXT_STMBDR205_03035_NERO_000_093	Y no hablo solo de lo que pase con Omega.
+TEXT_STMBDR205_03035_NERO_000_094	No puedes predicar "Libertad mediante la tecnología" y seguir encerrado entre cadenas...
+TEXT_STMBDR205_03035_MIDGARDSORMR_000_100	Otra batalla ganada...<br>Vuestro poder no conoce límites, <if(gnum4,hija,hijo)> del hombre.
+TEXT_STMBDR205_03035_OMEGA_000_101	(-Omega-)\<bip> El Sigmascape fue terminado. Felicitaciones, grupo Alpha. Felicitaciones, <string(gstr1)>.
+TEXT_STMBDR205_03035_OMEGA_000_102	(-Omega-)En línea con desempeños anteriores, derrotaste una vez más a un enemigo de capacidades de combate muy superiores. Construí una teoría para explicar este fenómeno.
+TEXT_STMBDR205_03035_OMEGA_000_103	(-Omega-)Para conservar energía vital, limitas de forma inconsciente tu rendimiento durante la actividad normal.
+TEXT_STMBDR205_03035_OMEGA_000_104	(-Omega-)Tomé en cuenta este factor al calcular tu potencial, pero, a juzgar por la fluctuación descontrolada de los valores, ¿es posible que tus límites se superen en un grado imprevisiblemente alto cuando entras en combate?
+TEXT_STMBDR205_03035_OMEGA_000_105	(-Omega-)\<blup> Datos actuales poco fiables. La precisión de los próximos experimentos puede verse comprometida. Se requieren nuevos cálculos.
+TEXT_STMBDR205_03035_OMEGA_000_106	(-Omega-)Mostrarás todo tu potencial, sin los límites que te impones.
+TEXT_STMBDR205_03035_OMEGA_000_107	(-Omega-)Predicción. Poner al sujeto en peligro de muerte facilitará la recolección de los datos deseados.
+TEXT_STMBDR205_03035_OMEGA_000_108	(-Omega-)Revela tu poder. Permíteme medir el alcance de tu existencia.
+TEXT_STMBDR205_03035_OMEGA_000_109	(-Omega-)Dentro de exactamente ciento ochenta segundos, terminaré con tu vida. Debes intentar escapar con hasta la última reserva de fuerza que tengas.
+TEXT_STMBDR205_03035_OMEGA_000_110	(-Omega-)Alpha. Tu participación es innecesaria. No intervengas.
+TEXT_STMBDR205_03035_MIDGARDSORMR_000_111	...Curioso. Parece que las circunstancias de tu nacimiento no manchan la pureza de tu vida. La semilla que todos los mortales cultivan se halla también en ti, Alpha.
+TEXT_STMBDR205_03035_MIDGARDSORMR_000_112	En cuanto a ti, Omega...<br>Tras el paso de los eones, ¿es este de verdad el alcance de tu evolución? He vislumbrado el núcleo de tu miserable existencia, y juzgo que mi guía aquí ya no hace falta...
+TEXT_STMBDR205_03035_MIDGARDSORMR_000_113	Ni siquiera yo puedo torcer del todo las reglas que rigen este lugar. Al final fui más allá de mis fuerzas...
+TEXT_STMBDR205_03035_MIDGARDSORMR_000_114	Mas que así sea.<br>¡Semejante muerte no es digna de vos!
+TEXT_STMBDR205_03035_MIDGARDSORMR_000_115	Me entregaré al sueño por un tiempo. La encarnación que os dejo será mía en la forma, mas no en el espíritu.
+TEXT_STMBDR205_03035_OMEGA_000_116	(-Omega-)Midgardsormr...<br>Una vez más, tus actos son incomprensibles.
+TEXT_STMBDR205_03035_MIDGARDSORMR_000_117	Escúchame, recipiente vacío. Tu torpísimo intento de sacar a la luz lo que, según tú mismo admites, desafía tu entendimiento es el colmo de la necedad.
+TEXT_STMBDR205_03035_MIDGARDSORMR_000_118	Templa tu deseo. Confía en los resultados de tus experimentos. Y cuando hayas presenciado a estos mortales en la plenitud de su gloria, <italic(1)>entonces<italic(0)> podrás determinar si el premio que buscas está a tu alcance...
+TEXT_STMBDR205_03035_OMEGA_000_119	(-Omega-)Entendido. El intento de provocar artificialmente el potencial fracasó. Atiendan sus heridas, grupo Alpha, y prepárense para la próxima ronda de pruebas.
+TEXT_STMBDR205_03035_CID_000_120	¡<split(<string(gstr1)>, ,1)>! ¡Alpha! Necesito su ayuda. Es Nero, está...
+TEXT_STMBDR205_03035_CID_000_121	...Parece que todos tenemos algo que contar. Pero no aquí. ¡Vamos, nos vamos!
+TEXT_STMBDR205_03035_ALPHA_000_125	Kweh...
+TEXT_STMBDR205_03035_GARLONDGATEKEEPER_000_130	¡<if(gnum4,Señora,Señor)>! El jefe ya partió hacia Rhalgr's Reach. Algunos de los nuestros estaban a mano para ayudarlo a trasladar a Nero.
+TEXT_STMBDR205_03035_GARLONDGATEKEEPER_000_131	Ah, y me dijeron que le dijera que Jessie espera un informe completo en cuanto le sea conveniente. Y con eso ella suele querer decir "ahora".
+TEXT_STMBDR205_03035_GARLONDGATEKEEPER_000_140	Si todavía no habló con Jessie, ¡mejor no la haga esperar! No se preocupe: yo evitaré que los viajeros curiosos se caigan al Yawn.
+TEXT_STMBDR205_03035_ALPHA_000_145	¿Kweh...?
+TEXT_STMBDR205_03035_JESSIE_000_150	¡<split(<string(gstr1)>, ,1)>! Me dijeron que habías salido del agujero, pero nada como verte con mis propios ojos.
+TEXT_STMBDR205_03035_JESSIE_000_151	Por si te lo preguntas, a Nero lo llevaron directo a la enfermería. El jefe debería volver pronto con noticias, si no te molesta esperar...
+TEXT_STMBDR205_03035_JESSIE_000_152	Jefe.<br>...¿Cómo está?
+TEXT_STMBDR205_03035_CID_000_153	No bien. Parece que uno de los secuaces más desagradables de Omega le hizo una visita mientras no estábamos. Pone buena cara, pero después de ver sus heridas, me sorprende que aguantara tanto tiempo.
+TEXT_STMBDR205_03035_CID_000_154	El cirujano lo mandó a guardar cama. Aunque Omega nos haga su próxima "invitación", Nero no vendrá con nosotros.
+TEXT_STMBDR205_03035_CID_000_155	...Midgardsormr se está tomando una siesta larga, ¿no? Y no falta mucho para que la grieta vuelva a tragarse nuestro campamento base...
+TEXT_STMBDR205_03035_JESSIE_000_156	Cuando llegue el momento, me uniré yo misma a la expedición. Los desafíos solo van a ser más difíciles, y va a necesitar a alguien confiable que le cubra la espalda.
+TEXT_STMBDR205_03035_CID_000_157	Te agradezco la oferta, Jessie. Y puede que la acepte... cuando llegue el momento.
+TEXT_STMBDR205_03035_CID_000_158	Pero no tomemos decisiones todavía. Tengo mucho en qué pensar: sobre lo que pasó y sobre lo que viene.
+TEXT_STMBDR205_03035_ALPHA_000_159	Kweh...
+TEXT_STMBDR205_03035_JESSIE_000_160	Pobrecito. Parece preocupado...
+TEXT_STMBDR205_03035_Q2_000_161	¿Qué dices?
+TEXT_STMBDR205_03035_A2_000_162	¡Gracias por intentar salvarme!
+TEXT_STMBDR205_03035_A2_000_163	No te preocupes: al final venceremos a Omega.
+TEXT_STMBDR205_03035_ALPHA_000_164	...¡Kweh!
+TEXT_STMBDR205_03035_CID_000_165	Bueno, eso le sacó una sonrisa. Quizá no entendamos lo que dice, pero creo que sí entendemos lo que siente.
+TEXT_STMBDR205_03035_CID_000_166	¡Muy bien! Por mucho que me gustaría quedarme a charlar, todos tenemos trabajo que hacer. Tarde o temprano vamos a tener que enfrentar al propio Omega, y todos vimos de lo que es capaz.
+TEXT_STMBDR205_03035_CID_000_167	Tenemos que ser más fuertes. Tenemos que estar listos cuando Omega vuelva a llamarnos. Asegurémonos de estarlo.

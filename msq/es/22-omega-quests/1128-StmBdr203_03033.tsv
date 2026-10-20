@@ -1,0 +1,69 @@
+key	text
+TEXT_STMBDR203_03033_SEQ_00	Cid quiere hablar de tu próximo rival.
+TEXT_STMBDR203_03033_SEQ_01	Después de que Cid describe la naturaleza de tu próximo rival, Nero te presenta un nuevo invento pensado para ayudarte a derrotarlo: el Chocobo Brush. Aunque no te deja más claro cómo funciona, entiendes que el pincel te permitirá influir directamente en el mundo en que te encuentres. Habla con Alpha, que te espera, para empezar la siguiente etapa del experimento de Omega.<br><br>※Si sales de la Interdimensional Rift, puedes volver a entrar hablando con el empleado de los Ironworks que está en el Yawn.
+TEXT_STMBDR203_03033_SEQ_02	Alpha está listo para entrar contigo al Sigmascape. ¡Agarra con fuerza el Chocobo Brush y prepárate para luchar contra el inquietante Chadarnook!<br><br>※Se puede entrar a Sigmascape V2.0 mediante el Duty Finder.
+TEXT_STMBDR203_03033_SEQ_03	Derrotaste al cuadro poseído. Vuelve a la Interdimensional Rift y habla con Cid.
+TEXT_STMBDR203_03033_SEQ_04	Les cuentas tu victoria a tus compañeros, que te esperaban, y Nero parece especialmente contento con la eficacia de su invento. Está advirtiéndote de las muy limitadas aplicaciones alternativas del pincel cuando Cid recibe una comunicación de Jessie por linkpearl. Parece que Biggs y Wedge se escaparon de sus camas de enfermos con la intención de volver al Yawn...
+TEXT_STMBDR203_03033_SEQ_05	Ya fuera de la grieta, te encuentras con unos Biggs y Wedge ansiosos. Cid les asegura que, pese a algunas dificultades menores, superaste hasta ahora cada uno de los desafíos de Omega. Los dos ingenieros prometen su apoyo inquebrantable, y no puedes evitar sentirte con más ánimo gracias a su entusiasmo contagioso.
+TEXT_STMBDR203_03033_TODO_00	Habla con Alpha.
+TEXT_STMBDR203_03033_TODO_01	Entra a Sigmascape V2.0.
+TEXT_STMBDR203_03033_TODO_02	Habla con Cid.
+TEXT_STMBDR203_03033_TODO_03	Habla con Biggs.
+TEXT_STMBDR203_03033_NERO_000_000	¡Ajajaja! ¡Qué gloriosa la absurdidad de todo esto! Hasta usted debe de haber sonreído un poco. Uno se pregunta qué le tendrá preparado Omega después. ¿Un bote de remos delincuente, quizá? ¿O un teleférico furioso?
+TEXT_STMBDR203_03033_ALPHA_000_005	Kwe-kwe-kweh... Kwe-kwe-kweh...
+TEXT_STMBDR203_03033_GARLONDGATEKEEPER_000_010	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>. ¿Va a descender al Yawn?
+TEXT_STMBDR203_03033_SYSTEM_000_011	¿Entrar a la Interdimensional Rift?
+TEXT_STMBDR203_03033_CID_000_020	Imagino que todavía te estás recuperando de la última pelea, pero igual deberíamos repasar los detalles de tu próximo rival.
+TEXT_STMBDR203_03033_CID_000_021	Según nuestra investigación, te enfrentarás a un enemigo conocido como "Chadarnook". Esta vez no es un tren, sino una especie de <italic(1)>cuadro<italic(0)> animado...
+TEXT_STMBDR203_03033_CID_000_022	Para ser del todo claro, el nombre se refiere más bien al espíritu maligno que se instaló dentro del cuadro, pero lo del "cuadro" será clave para nuestra estrategia.
+TEXT_STMBDR203_03033_CID_000_023	Con ese fin, Nero improvisó algo que pensé que podría ser útil...
+TEXT_STMBDR203_03033_NERO_000_024	"Improvisó", dice. ¿Sabes lo difícil que fue convertir tu capricho abstracto en una herramienta real con aplicaciones prácticas?
+TEXT_STMBDR203_03033_NERO_000_025	Lo que pediste era nada menos que un milagro, ¡y un milagro te entregué!
+TEXT_STMBDR203_03033_CID_000_026	Creo recordar que fuiste tú quien <italic(1)>insistió<italic(0)> en construirlo. Aun así, al César lo que es del César: bien hecho.
+TEXT_STMBDR203_03033_NERO_000_027	Hmph. La historia sabrá apreciar mi genio.
+TEXT_STMBDR203_03033_NERO_000_028	¡Ejem! Le presento el fruto de mi trabajo: el Chocobo Brush. No voy a confundirle intentando explicar cómo funciona, pero baste decir que adapté la herramienta para combatir la naturaleza peculiar de su rival. En pocas palabras: podrá influir directamente en el espacio que le rodea pintando cuadros.
+TEXT_STMBDR203_03033_NERO_000_029	Naturalmente, el proceso requerirá <italic(1)>pintura<italic(0)>. En cuanto al color, el tema y la eficacia de sus obras maestras, bueno... eso dependerá por completo de su sentido artístico.
+TEXT_STMBDR203_03033_NERO_000_030	Ahora, volviendo a ti, Garlond. ¿Notas que no tengo una taza humeante en la mano? Si de verdad valoraras el esfuerzo de tus colegas, podrías pensar en <italic(1)>llenar la maldita tetera<italic(0)> de vez en cuando.
+TEXT_STMBDR203_03033_NERO_000_031	¿O es otra tarea que su señoría el "jefe" no puede cumplir sin ayuda de sus subordinados?
+TEXT_STMBDR203_03033_CID_000_032	Escúchame bien, Nero: te pido disculpas por la maldita tetera, ¡pero esto no tiene nada que ver con mi crianza!
+TEXT_STMBDR203_03033_CID_000_040	Ah, perdón, <split(<string(gstr1)>, ,1)>, me distraje un poco. Habla con Alpha cuando estés <if(gnum4,lista,listo)>, y veremos de tachar de la lista a este tal Chadarnook.
+TEXT_STMBDR203_03033_NERO_000_045	En realidad no hacía falta que pareciera un pincel. Pero como teníamos plumas de chocobo a mano, pensé: ¿por qué no? Ahora veamos de qué es capaz, ¿le parece?
+TEXT_STMBDR203_03033_SYSTEM_000_050	Junto a la tetera hay una de las cartas de Alpha, con el dibujo de un manantial...
+TEXT_STMBDR203_03033_ALPHA_000_051	¿Kweh...? ¡Kweh kweh!
+TEXT_STMBDR203_03033_SYSTEM_000_052	Alpha parece ansioso por empezar el próximo enfrentamiento. Puedes entrar a Sigmascape V2.0 cuando estés <if(gnum4,lista,listo)>.
+TEXT_STMBDR203_03033_ALPHA_000_060	¿Kweh...? ¡Kweh kweh!
+TEXT_STMBDR203_03033_NERO_000_070	Apuesto a que al espíritu no le hizo ninguna gracia que lo vencieran en su propio juego. Debo decir que estas pruebas en terreno se están volviendo mi parte favorita de toda esta experiencia.
+TEXT_STMBDR203_03033_ALPHA_000_075	Kweh... kweh... ¡kweh!
+TEXT_STMBDR203_03033_CID_000_080	¡<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <split(<string(gstr1)>, ,1)>! Estaba al borde de mi taburete viéndote intentar pintar mientras luchabas, ¡pero pronto le tomaste la mano!
+TEXT_STMBDR203_03033_CID_000_081	Me alegra que nuestra solución improvisada funcionara como debía.
+TEXT_STMBDR203_03033_NERO_000_082	Nuestra "solución improvisada" funcionó como debía porque yo hice que funcionara. Pintar es fácil, y querer también.
+TEXT_STMBDR203_03033_NERO_000_083	Pero debo recordarle que el pincel se diseñó muy específicamente pensando en esa arena y en ese enemigo. Contra cualquier otra cosa, le servirá exactamente igual que cualquier otro pincel.
+TEXT_STMBDR203_03033_CID_000_084	...Un momento.<br>Sí, habla Garlond.
+TEXT_STMBDR203_03033_CID_000_085	...¡Qué buena noticia! ¿Y q...?<br>...Ah, ¿así que lo hicieron? ...Entendido, nos vemos con ellos allá afuera.
+TEXT_STMBDR203_03033_CID_000_086	Era Jessie. Al parecer, Biggs y Wedge se sintieron lo bastante bien como para venir a visitarnos. Van camino al Yawn.
+TEXT_STMBDR203_03033_CID_000_087	¿Qué tal una escapada rápida a la superficie?
+TEXT_STMBDR203_03033_NERO_000_088	No, gracias. Tengo datos que analizar.
+TEXT_STMBDR203_03033_CID_000_089	Bien. Entonces vamos solo nosotros tres.
+TEXT_STMBDR203_03033_CID_000_090	¡Mírense, ya de pie! Nos dieron un buen susto...
+TEXT_STMBDR203_03033_WEDGE_000_095	¡<split(<string(gstr1)>, ,1)>! ¿¡Saliste solo para vernos!?
+TEXT_STMBDR203_03033_ALPHA_000_100	¡Kweh! ¡Kweh!
+TEXT_STMBDR203_03033_GARLONDGATEKEEPER_000_105	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>. Creo que Biggs y Wedge le estaban esperando.
+TEXT_STMBDR203_03033_BIGGS_000_110	Jefe, <split(<string(gstr1)>, ,1)>... ¡y Alpha también! No queríamos alejarlos de su trabajo.
+TEXT_STMBDR203_03033_CID_000_111	Tonterías. Después de todo lo que pasaron, ¿cómo no íbamos a venir corriendo? Y hablando de eso... ¿siquiera deberían estar caminando?
+TEXT_STMBDR203_03033_BIGGS_000_112	Eh... seguro que el cirujano va a querer hablar con nosotros más tarde. Pero no podíamos quedarnos acostados y dejar que se enfrentaran solos a la grieta.
+TEXT_STMBDR203_03033_WEDGE_000_113	¿Siquiera tienen suficientes manos para tanto trabajo? ¿Quién se ocupa de todas las tareas pequeñas?
+TEXT_STMBDR203_03033_CID_000_114	Ah, sí... las tareas pequeñas. Parece que ustedes dos me malcriaron. Hace poco me enteré de que la tetera, en realidad, no se llena sola... Pero nos las arreglamos de algún modo.
+TEXT_STMBDR203_03033_CID_000_115	<split(<string(gstr1)>, ,1)> fue un pilar de fortaleza, como siempre; Alpha demostró ser un compañero leal, y Nero... Nero fue tan invaluable como insoportable.
+TEXT_STMBDR203_03033_CID_000_116	En cuanto a los sujetos de prueba, sin duda son formidables, pero el experimento de Omega todavía no nos quebró. Así que vuelvan a casa. Recupérense. Y no vuelvan hasta estar totalmente repuestos.
+TEXT_STMBDR203_03033_BIGGS_000_117	Qué bueno saber que todo va bien. Pero llámennos en cuanto algo salga mal: ¡estaremos aquí en un abrir y cerrar de ojos, aunque tengamos que venir arrastrándonos!
+TEXT_STMBDR203_03033_WEDGE_000_118	Escúchame, Alpha. Ese uniforme que llevas te convierte en empleado oficial de Garlond Ironworks.
+TEXT_STMBDR203_03033_WEDGE_000_119	Eso quiere decir que puedes llamarnos cuando estés en problemas, y que nosotros podemos llamarte a ti. ¡Quiere decir que no estás solo!
+TEXT_STMBDR203_03033_WEDGE_000_120	Biggs y yo tenemos que irnos por un tiempo, así que quiero que cuides de <split(<string(gstr1)>, ,1)> y del jefe por nosotros, ¿está bien?
+TEXT_STMBDR203_03033_ALPHA_000_121	¡Kweh!
+TEXT_STMBDR203_03033_BIGGS_000_122	Ah, antes de que se me olvide, te trajimos algo para que te animes. ¡No puedes luchar contra las creaciones de Omega solo con raciones de campaña!
+TEXT_STMBDR203_03033_NERO_000_0130	Veamos, qué tenemos... Mmm. El próximo parece fuerte, pero no muestra ningún otro rasgo notable. Qué aburrido.
+TEXT_STMBDR203_03033_NERO_000_0131	El verdadero desafío es este cuarto rival. Pero si logro encontrar los patrones ocultos en el caos, el conocimiento y la razón prevalecerán.
+TEXT_STMBDR203_03033_NERO_000_132	Porque hasta las acciones más aleatorias son producto de una lógica subyacente. Solo hay que aislar los desencadenantes de la conducta...
+TEXT_STMBDR203_03033_NERO_000_133	¡Puaj!<br>¡Sabe a agua salada! ¿Por qué...?
+TEXT_STMBDR203_03033_NERO_000_134	Tengo que mirar más de cerca esa carta.
+TEXT_STMBDR203_03033_OMEGA_000_135	El grupo Alpha muestra signos de recuperación tras el trauma reciente. Iniciando acciones para mantener niveles de estrés deseables...

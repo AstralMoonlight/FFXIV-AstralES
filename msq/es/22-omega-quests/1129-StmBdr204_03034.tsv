@@ -1,0 +1,42 @@
+key	text
+TEXT_STMBDR204_03034_SEQ_00	Wedge está ahí para despedirte.
+TEXT_STMBDR204_03034_SEQ_01	Wedge te informa que Cid y Alpha ya descendieron al Yawn, y te anima a seguirlos en cuanto estés <if(gnum4,lista,listo)>.
+TEXT_STMBDR204_03034_SEQ_02	Llegas al campamento base y encuentras a Nero enfermo e irritable. Así que Cid se encarga de informarte sobre tu tercer rival, y supone que la próxima batalla debería ser mucho menos complicada que la anterior. Como siempre, Alpha espera con paciencia tu señal para continuar.<br><br>※Si sales de la Interdimensional Rift, puedes volver a entrar hablando con el empleado de los Ironworks que está en el Yawn.
+TEXT_STMBDR204_03034_SEQ_03	Alpha está listo para entrar contigo al Sigmascape. ¡Reúne tu equipo y tu valor, y destroza las defensas del Guardian!<br><br>※Se puede entrar a Sigmascape V3.0 mediante el Duty Finder.
+TEXT_STMBDR204_03034_SEQ_04	El Guardian yace derrotado. Vuelve a la Interdimensional Rift y habla con Cid.
+TEXT_STMBDR204_03034_SEQ_05	Tras felicitarte por tu talento para esquivar láseres gigantes, Cid lamenta que no hayas podido conocer en circunstancias más felices las maravillas recreadas en el Sigmascape. Pero con la batalla final de este mundo de prueba cada vez más cerca, no tiene mucho sentido darle vueltas a esas ideas...
+TEXT_STMBDR204_03034_TODO_00	Habla con Nero en la Interdimensional Rift.
+TEXT_STMBDR204_03034_TODO_01	Habla con Alpha.
+TEXT_STMBDR204_03034_TODO_02	Entra a Sigmascape V3.0.
+TEXT_STMBDR204_03034_TODO_03	Habla con Cid.
+TEXT_STMBDR204_03034_BIGGS_000_000	Te agradecemos que subieras a vernos. Después de imaginar todo lo que podía salir mal ahí dentro, fue un alivio encontrarte tan <if(gnum4,tranquila,tranquilo)> haciendo tu trabajo. ¡Tendremos que apurarnos en ponernos bien!
+TEXT_STMBDR204_03034_GARLONDGATEKEEPER_000_005	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>. Creo que Biggs y Wedge le están esperando.
+TEXT_STMBDR204_03034_WEDGE_000_010	Alpha y el jefe ya volvieron a entrar, así que no te entretengas por nosotros. Nuestro colega de allá estará feliz de ayudarte a descender en cuanto estés <if(gnum4,lista,listo)>.
+TEXT_STMBDR204_03034_WEDGE_000_011	Puede que a este horrible experimento todavía le quede camino, pero si sigues yendo batalla por batalla, estarás luchando contra Omega antes de que... ¡D-Digo, todo habrá terminado antes de que te des cuenta!
+TEXT_STMBDR204_03034_WEDGE_000_020	Dile a nuestro colega de allá y te ayudará a descender al Yawn.
+TEXT_STMBDR204_03034_GARLONDGATEKEEPER_000_025	¿Le bajo a la grieta, <if(gnum4,señora,señor)>? Quizá no sirva de mucho en la batalla, pero al menos puedo hacerle este pequeño servicio.
+TEXT_STMBDR204_03034_SYSTEM_000_026	¿Entrar a la Interdimensional Rift?
+TEXT_STMBDR204_03034_CID_000_030	Gracias por acompañarme allá arriba, <split(<string(gstr1)>, ,1)>. Sé que significó mucho para Biggs y Wedge.
+TEXT_STMBDR204_03034_ALPHA_000_035	...¿Kweh?
+TEXT_STMBDR204_03034_NERO_000_040	Ah. ¿Ya volvió? Deberíamos... \<glup> Deberíamos volver a lo que nos ocupa.
+TEXT_STMBDR204_03034_CID_000_041	¿Todo bien, Nero? Te ves un poco verde.
+TEXT_STMBDR204_03034_NERO_000_042	La tetera estaba llena de agua salada...<br>Resulta que no es lo mejor para preparar café...
+TEXT_STMBDR204_03034_CID_000_043	¿En serio? Bueno, no fue cosa mía.
+TEXT_STMBDR204_03034_NERO_000_044	Claro que no. Para eso tendrías que haberla llenado. \<arcada> El agua vino de Alpha... la creó con una de esas cartas suyas.
+TEXT_STMBDR204_03034_NERO_000_045	Fue muy considerado de su parte tomarse la molestia... pero la próxima vez... preferiría una bebida que no me deje enfermo...
+TEXT_STMBDR204_03034_NERO_000_046	...En todo caso, puedes encargarte tú solo del apoyo en esta tercera batalla. Quiero empezar a prepararme para la cuarta.
+TEXT_STMBDR204_03034_CID_000_047	...Me parece justo.
+TEXT_STMBDR204_03034_CID_000_048	Muy bien, <split(<string(gstr1)>, ,1)>: a tu próximo enemigo lo conocen simplemente como el "Guardian". A diferencia del calvario con Chadarnook, esta batalla promete ser relativamente sencilla. Valor y acero deberían bastar para darte la victoria.
+TEXT_STMBDR204_03034_CID_000_050	El archivo que encontré sobre el Guardian dice que era un arma usada para defender la capital de un imperio. Eso debería darte una idea del alcance de sus capacidades.
+TEXT_STMBDR204_03034_NERO_000_055	Solo... déjenme en paz...<br>Ya me cuesta bastante concentrarme...
+TEXT_STMBDR204_03034_GARLONDGATEKEEPER_000_060	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>. ¿Va a descender al Yawn?
+TEXT_STMBDR204_03034_SYSTEM_000_061	¿Entrar a la Interdimensional Rift?
+TEXT_STMBDR204_03034_ALPHA_000_070	¿Kweh...? ¡Kweh, kweh!
+TEXT_STMBDR204_03034_SYSTEM_000_071	Alpha parece preocupado por Nero, pero por lo demás ansioso por continuar. Puedes entrar a Sigmascape V3.0 cuando estés <if(gnum4,lista,listo)>.
+TEXT_STMBDR204_03034_ALPHA_000_080	¿Kweh...? ¡Kweh, kweh!
+TEXT_STMBDR204_03034_NERO_000_090	¿Ya terminó? Entonces casi es la hora...
+TEXT_STMBDR204_03034_ALPHA_000_095	Kweh...
+TEXT_STMBDR204_03034_CID_000_100	Felicitaciones, viejo amigo. A juzgar por la falta de agujeros humeantes, diría que tienes un talento natural para esquivar rayos láser. Y esto es lo que aquí pasa por una batalla sencilla...
+TEXT_STMBDR204_03034_CID_000_101	Trenes fantasma, cuadros poseídos y ahora esta máquina parecida a la magitek...<br>Si era real, el reino en que se basa el Sigmascape debió de estar muy avanzado tanto en las artes arcanas como en las mecánicas.
+TEXT_STMBDR204_03034_CID_000_102	Es una verdadera lástima que no podamos identificar el origen del mundo de prueba. Imagina cuánto podríamos haber aprendido de una civilización así si la hubiéramos conocido en otras circunstancias.
+TEXT_STMBDR204_03034_CID_000_103	Pero ahora no es momento para esas divagaciones. La próxima batalla será la última de este mundo, y Nero ya debería tener una estrategia que contarnos...
