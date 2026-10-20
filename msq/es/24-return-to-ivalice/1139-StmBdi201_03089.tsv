@@ -1,0 +1,175 @@
+key	text
+TEXT_STMBDI201_03089_SEQ_00	Parece que Lina Mewrilah lleva bastante rato esperando tu llegada.
+TEXT_STMBDI201_03089_SEQ_01	Alma Lexentale convocó a Lina Mewrilah (y a ti) a la <italic(1)>Prima Vista<italic(0)> para hablar de nuevos hallazgos sobre la auracite. Como antes, basta una palabra con el piloto de la lanzadera para llegar rápido y a salvo a la aeronave de los Lexentale.
+TEXT_STMBDI201_03089_SEQ_02	Parece que Cid invitó a una Archon a reunirse con él en la <italic(1)>Prima Vista<italic(0)>: una integrante de los Students of Baldesion llamada Mikoto.
+TEXT_STMBDI201_03089_SEQ_03	Esforzándose con valentía por hablar con palabras de menos de cinco sílabas, la Archon comparte sus teorías sobre la auracite, lo que abre un nuevo debate: si el Otius no es un cristal natural, ¿quién lo creó y para qué? Antes de llegar a un acuerdo, Ramza vuelve a tensar las cosas con su hermana al cuestionar su compromiso con la misión familiar. Y en medio de esa riña entre hermanos, entra en escena un invitado inesperado.
+TEXT_STMBDI201_03089_SEQ_04	Montblanc, un moogle del desierto de Dalmasca, pide entrar a la compañía de teatro con todo el ímpetu exagerado de una diva nata. Ramza se apura a despacharlo, pero sin querer le plantea un desafío: matar a una bestia para ganarse un puesto de aprendiz a bordo de la <italic(1)>Prima Vista<italic(0)>. Ansioso por demostrar su valía, el moogle, muy superado y con muy poca armadura, sale a la naturaleza al encuentro de su presa... y muy probablemente de su final.
+TEXT_STMBDI201_03089_SEQ_05	Hurdy y Lina salieron en busca de Montblanc. ¿Su primera parada? El Pier #2.
+TEXT_STMBDI201_03089_SEQ_06	Te enteras de que Montblanc quizá se subió a un halcón mensajero rumbo al One River, en Yanxia. Los habitantes de la Glittering Basin podrían saber más sobre el paradero del topo-murciélago.
+TEXT_STMBDI201_03089_SEQ_07	Como era de esperar, encuentras a Montblanc necesitando que lo rescaten con urgencia: su intento de matar a una bestia feroz (en este caso, un chocobo de un rojo encendido) terminó tal como todos imaginaban, es decir, en derrota, por si imaginabas otra cosa.
+TEXT_STMBDI201_03089_SEQ_08	Tras sobrevivir a su desacertada aventura, Montblanc emprende el largo viaje de regreso a la <italic(1)>Prima Vista<italic(0)> de muy buen humor.
+TEXT_STMBDI201_03089_SEQ_09	A tu regreso, descubres que la barcaza teatral tiene visitas: una banda de bangaa con las armas desenvainadas. Solo Jenomis podría saber cómo calmar una situación tan explosiva.
+TEXT_STMBDI201_03089_SEQ_10	Toma de rehenes aparte, los bangaa no quieren hacerle daño a la compañía de teatro; solo buscan ayuda para encontrar a su capitán desaparecido. Tras oír su historia, Mikoto cree que es posible que la Duma haya manipulado a Ba'Gamnan del mismo modo que al difunto Argath Thadalfus. Pero sin pistas, rescatar al capitán parece imposible... hasta que Jenomis descubre un misterioso agregado en la última página de su diario. Decidido a descubrir qué significa, vuelve de inmediato a su investigación y promete llamarte en cuanto resuelva el enigma.
+TEXT_STMBDI201_03089_TODO_00	Sube a la lanzadera de transporte a la <italic(1)>Prima Vista<italic(0)>.
+TEXT_STMBDI201_03089_TODO_01	Sube a la lanzadera de transporte a la <italic(1)>Prima Vista<italic(0)>.
+TEXT_STMBDI201_03089_TODO_02	Habla con el moogle recién llegado.
+TEXT_STMBDI201_03089_TODO_03	Habla con Hurdy.
+TEXT_STMBDI201_03089_TODO_04	Habla con Lina Mewrilah o con Hurdy en el Pier #2.
+TEXT_STMBDI201_03089_TODO_05	Busca a Montblanc en la Glittering Basin.
+TEXT_STMBDI201_03089_TODO_06	Habla con Montblanc.
+TEXT_STMBDI201_03089_TODO_07	Vuelve a la <italic(1)>Prima Vista<italic(0)>.
+TEXT_STMBDI201_03089_TODO_08	Habla con Jenomis cen Lexentale.
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_000	¡<split(<string(gstr1)>, ,1)>! ¿Dónde te habías metido? ¿No recibiste el llamado de Alma? ¡Puede que la investigación del director Lexentale sobre la auracite por fin haya dado frutos!
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_001	¡Tenemos que darnos prisa en llegar a la <italic(1)>Prima Vista<italic(0)> antes de que se embarquen sin nosotros en alguna aventura grandiosa y peligrosa!
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_010	En su mensaje, Alma mencionó a una invitada de Sharlayan. Alguien que tu compañero Cid Garlond creía que podría ayudar en la investigación del director. Un "arquetipo", creo que fue la palabra que usó.
+TEXT_STMBDI201_03089_AIRSHIPGUIDE03003_000_020	Si me sigue hasta la lanzadera, <if(gnum4,mi señora,señor)>.
+TEXT_STMBDI201_03089_Q1_000_000	¿Subir a la <italic(1)>Prima Vista<italic(0)>?
+TEXT_STMBDI201_03089_ALMALEXENTALE_000_100	<split(<string(gstr1)>, ,1)>, lady Mewrilah. Gracias por responder a mi llamado. El maestro Garlond tuvo la amabilidad de mandar a buscar a una Archon de Sharlayan, y me pareció justo que estuvieran presentes para oír sus hallazgos.
+TEXT_STMBDI201_03089_CID_000_101	Para ser franco, llamar a Mikoto fue más bien idea de Y'shtola. Yo solo vine a ver qué luz podía arrojar sobre este misterio.
+TEXT_STMBDI201_03089_MIKOTO_000_102	Soy Mikoto, de la casa Jinba: doman, aunque mis años en Sharlayan me volvieron una extraña aquí. Usted debe de ser <string(gstr1)>: <if(gnum4,la legendaria libertadora,el legendario libertador)> de los hombres. <if(gnum4,Matadora,Matador)> de falsos dioses. Warrior of Light...<br><if(gnum4,La imaginaba más alta,Lo imaginaba más alto)>.
+TEXT_STMBDI201_03089_MIKOTO_000_103	Hablemos del cristal.
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_104	Ejem...
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_100_104	El <italic(1)>Otius<italic(0)>: uno de los muchos fragmentos de <italic(1)>auracite<italic(0)> que ayudaron al noble Delita a llegar a regente.
+TEXT_STMBDI201_03089_MIKOTO_000_105	Mis disculpas. El <italic(1)>Otius<italic(0)> no es un cristal común, aun dejando de lado su evidente importancia histórica. El espécimen es más que una simple manifestación de energías de afinidad elemental: es, más bien, una piedra imán etérea cuya facilitación tanto de la absorción como de la transmisión de vibraciones armónicas de tipo NRR<-->de frecuencia diferenciada se ha observado que promueve la amplificación etérea.
+TEXT_STMBDI201_03089_MIKOTO_000_106	La perturbación neuroarmónica resultante permite una emisión altamente singular de ondas CPRS que, en lugar de irradiar hacia afuera con un factor de dispersión determinado, resuenan en cambio <italic(1)>hacia adentro<italic(0)> a una frecuencia tan lenta que mis estimaciones sitúan la tasa de decaimiento VRT en más de varios <italic(1)>siglos<italic(0)>... aunque debo admitir que me faltan variables suficientes para completar una evaluación gráfica verdaderamente exhaustiva.
+TEXT_STMBDI201_03089_CID_000_107	...Mmm. Esa explicación quizá arranque gestos de admiración a tus profesores de la academia, pero aquí solo te ganará miradas en blanco. Respira hondo e inténtalo de nuevo, esta vez en un idioma que los que <italic(1)>no<italic(0)> tenemos el Echo podamos entender.
+TEXT_STMBDI201_03089_MIKOTO_000_108	Mis disculpas. Solo pensé que...
+TEXT_STMBDI201_03089_CID_000_109	Las disculpas no nos acercarán a una respuesta. Una explicación más sencilla, sí.
+TEXT_STMBDI201_03089_MIKOTO_000_110	Más sencilla... Bien... Eh... El éter no solo es la base de todas las cosas materiales, sino también de las inmateriales. Los pensamientos, los recuerdos, los sentimientos, la voluntad misma se entienden como fenómenos etéreos, y pueden medirse como tales. A diferencia de la mayoría de los cristales, que solo pueden emitir energías elementales, la auracite está afinada para absorber éter, pero éter propio de lo inmaterial. Ese éter luego se almacena y se multiplica dentro de sus confines cristalinos hasta que un estímulo externo precipita su liberación.
+TEXT_STMBDI201_03089_CID_000_111	Otra vez.
+TEXT_STMBDI201_03089_MIKOTO_000_112	Eh... Ejem. En las condiciones adecuadas, una voluntad o un deseo fuertes pueden quedar impresos en la auracite y almacenados hasta su fomentación, momento en que el deseo se manifiesta...
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_113	¿Fomen... tación?
+TEXT_STMBDI201_03089_CID_000_114	Lo que mi estudiosa joven amiga <italic(1)>intenta<italic(0)> decir es que el Otius toma las fantasías más profundas de uno y las vuelve realidad.
+TEXT_STMBDI201_03089_MIKOTO_000_115	Ah. Sí. Sí, eso es... más sencillo. Pueden... pensarlo como un proceso parecido al de invocar a un primal.
+TEXT_STMBDI201_03089_MIKOTO_000_116	Con una diferencia marcada: la invocación de un primal requiere una fuente de energía complementaria, como un montón de cristales con carga elemental. La auracite, en cambio, tiene la capacidad de servir como su propia fuente de poder.
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_117	Sabemos por los Durai Papers que Argath nunca fue rey de Ivalice. Murió en batalla durante la War of the Lions.
+TEXT_STMBDI201_03089_MIKOTO_000_118	Aun así, el Argath con que se toparon en la expedición reciente se comportaba como si lo hubieran coronado regente. Creo que no era más que la auracite que llevaba encima manifest... eh, haciendo realidad su deseo de gobernar.
+TEXT_STMBDI201_03089_MIKOTO_000_119	Me informan que repitió las mismas palabras una y otra vez durante todo el enfrentamiento. Si es así, es posible que no fuera Argath quien las decía, sino la propia auracite.
+TEXT_STMBDI201_03089_CID_000_120	Si los Durai Papers son exactos, Argath era un noble débil y mezquino que creía que su sangre le daba derecho al poder. La auracite tomó esa creencia y la retorció hasta convertirla en la abominación que nosotros... eh, que <italic(1)><split(<string(gstr1)>, ,1)><italic(0)> pasó a espada.
+TEXT_STMBDI201_03089_ALMALEXENTALE_000_121	¿Entonces dice que el cristal podría ser una amenaza?
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_122	La <italic(1)>auracite<italic(0)>, Alma. Y no necesariamente. A Ramza parece que le fue bastante bien. No hay registro de que el joven regente fuera manipulado por los artefactos que reunió.
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_123	¡En manos de los justos, la auracite debería resultar inofensiva, incluso beneficiosa!
+TEXT_STMBDI201_03089_CID_000_124	En otras palabras: "No mata el arma, sino quien la empuña".
+TEXT_STMBDI201_03089_CID_100_124	¿Dónde habré oído eso antes...?
+TEXT_STMBDI201_03089_CID_000_125	Ah, sí. Fue la justificación del emperador Galvus para tomar las maravillas de la magitek y aplicarlas a la fabricación de armas. Al fin y al cabo, ¿qué daño había si le permitía "poner orden" en los Three Great Continents?
+TEXT_STMBDI201_03089_MIKOTO_000_126	Traza un paralelo interesante, maestro Garlond... Las propiedades de estos cristales son tan singulares que empiezo a preguntarme si, como la magitek, no serán productos de la <italic(1)>ciencia<italic(0)> y no de la naturaleza. Si alguien los creó para...
+TEXT_STMBDI201_03089_ALMALEXENTALE_000_127	Pero ¿quién? ¿Qué clase de persona sería capaz de semejante hazaña?
+TEXT_STMBDI201_03089_CID_000_128	<italic(1)>Esa<italic(0)> sí que es una pregunta interesante, y espero con ganas oír la respuesta. Por desgracia, tengo asuntos urgentes que atender en otra parte. Pero no teman: las ideas de Mikoto les serán mucho más útiles que cualquier cosa que yo pudiera aportar por accidente. Que tengan buen día.
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_129	Lo que no entiendo es...
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_130	Si en la Duma quedaron impresos los deseos más profundos de Argath, ¿de quién son los deseos que andan sueltos dentro del Otius?
+TEXT_STMBDI201_03089_MIKOTO_000_131	Me hice la misma pregunta, y por eso hice una inspección minuciosa del cristal en cuanto llegué. Los resultados fueron... no concluyentes. Había rastros de actividad etérea, pero a todos los efectos el recipiente estaba vacío.
+TEXT_STMBDI201_03089_ALMALEXENTALE_000_132	¿Vacío? ¿Y las voces que oí?
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_133	¿Voces? Yo no oí nada de eso. Las únicas voces que oíste, Alma, estaban en tu terca cabeza.
+TEXT_STMBDI201_03089_ALMALEXENTALE_000_134	Ramza, ¿por qué no...?
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_135	¿Hablamos de "voces", entonces? ¿Y la tuya, Alma? Nuestra voz disidente oficial. No hiciste más que cuestionar la sensatez de nuestra investigación desde que salimos de Garlemald. ¿Pondrías tus mezquinas preocupaciones por encima de la vocación de nuestra familia?
+TEXT_STMBDI201_03089_ALMALEXENTALE_000_136	¡No! Yo jamás...
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_137	¿¡Jamás!? ¿¡Entonces por qué meter en esto a una chismosa, a <if(gnum4,una santurrona,un santurrón)> y a este... este... topo volador!?
+TEXT_STMBDI201_03089_RAMZALEXENTALE_100_137	Por favor, díganme que ustedes también lo ven.
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_150	¡Un moogle! ¡Y bastante polvoriento, por cierto! ¿Será uno de <italic(1)>tus<italic(0)> conocidos, <split(<string(gstr1)>, ,1)>?
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_155	Muy intrigante... ¿Está vivo?
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_160	¡No se quede ahí <if(gnum4,parada,parado)>, saque a esa cosa! ¡Usted es <if(gnum4,la libertadora,el libertador)>! ¡Libere esta nave de esa plaga!
+TEXT_STMBDI201_03089_ALMALEXENTALE_000_165	No se parece a nada que haya visto antes... ¿Podemos quedárnoslo?
+TEXT_STMBDI201_03089_MIKOTO_000_170	Ah. Un moogle. Sí.
+TEXT_STMBDI201_03089_MONTBLANC_000_300	¿Interrumpo? Ay, por favor, <italic(1)>sigan<italic(0)>. Mi ingreso a las filas de su excelente compañía puede esperar a que todos hayan dicho lo suyo, kupo.
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_301	¡Guardias! Saquen a este, este, este...
+TEXT_STMBDI201_03089_MONTBLANC_000_302	(-Montblanc-)Montblanc. Me llamo Montblanc. Habitante de los desiertos de Dalmasca, buscador de emociones, aventurero extraordinario. Pero pueden llamarme Montblanc, kupo.
+TEXT_STMBDI201_03089_MIKOTO_000_303	Dalmasca es conocida desde hace mucho como un crisol de culturas, donde razas menores como los seeq, los bangaa y las viera pueden vivir en relativa armonía con hyur, elezen y otros.
+TEXT_STMBDI201_03089_MIKOTO_000_304	Pero no hay registro de una población destacada de moogles.
+TEXT_STMBDI201_03089_MONTBLANC_000_305	(-Montblanc-)¡Lo más probable es que sea porque no somos ni destacados ni numerosos! Mi pueblo es nómada por naturaleza, siempre atraído por la frontera esquiva y la libertad que promete, ¡kupo!
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_306	¿Un... moogle?
+TEXT_STMBDI201_03089_MONTBLANC_000_307	(-Montblanc-)Pues claro que soy un moogle, kupo. Uno pensaría que las alas adorables y el pompón esponjoso lo dejaban claro. Ahora, sobre mi ingreso al Majestic...
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_308	¡No permitiré nada de eso! El Majestic es la principal compañía de teatro del Empire. ¡No mancharemos su buen nombre dándole refugio a una bola de pelos revoloteante!
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_309	Y además, ¿¡cómo se subió esta abominación a la <italic(1)>Prima Vista<italic(0)>, para empezar!?
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_310	Con sus <italic(1)>alas<italic(0)>, me imagino. En cuanto a su ingreso a nuestra compañía, no recuerdo que la raza, el credo o la lealtad estén en <italic(1)>mi<italic(0)> lista de requisitos, ¿y tú?
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_311	...No, padre.
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_312	Muy bien, entonces. Montblanc, ¿qué es exactamente lo que te llama al escenario, a nuestro escenario?
+TEXT_STMBDI201_03089_MONTBLANC_000_313	(-Montblanc-)¿Qué otra cosa? ¡<italic(1)>The Zodiac Brave Story<italic(0)>, kupo! Nunca antes había visto algo tan asombroso. Tan conmovedor.
+TEXT_STMBDI201_03089_MONTBLANC_000_314	(-Montblanc-)Sentado... bueno, técnicamente <italic(1)>flotando<italic(0)> ahí entre el público mientras la historia se desplegaba a mi alrededor... supe que estaba presenciando algo especial. ¡Algo absolutamente trascendental, kupo! Fue entonces cuando me di cuenta de que tenía que ser parte de eso... o bajar a la tumba como un moogle amargado y roto.
+TEXT_STMBDI201_03089_HURDY_000_315	¿Y esa revelación fue antes o después de que juraras que tenías que convertirte en el mejor marauder del reino, kupo?
+TEXT_STMBDI201_03089_MONTBLANC_000_316	(-Montblanc-)¿¡Hurdy!? ¿Cómo...?
+TEXT_STMBDI201_03089_HURDY_000_317	Quizá tendrías más éxito huyendo si no les contaras tus grandes planes a todos los tontos que te encuentras, kupo.
+TEXT_STMBDI201_03089_HURDY_000_318	¿No fue hace apenas cuarenta noches que tomaste el hacha, kupo? ¿Y ahora estás aquí declarando tu pasión por el escenario sin haber hecho ni una sola muesca en el mango? ¿No te acuerdas de "quien bate la mantequilla se lleva el pan más dulce"?
+TEXT_STMBDI201_03089_MONTBLANC_000_319	(-Montblanc-)¿Pero cómo va uno a saborear ese pan con mantequilla si tiene la cabeza en la panza de una bestia temible? Me acusas de rendirme cuando solo me di cuenta de que seguir terminaría en fracaso. Solo cambiando de rumbo podía llegar a mi destino final, kupo.
+TEXT_STMBDI201_03089_HURDY_000_320	¿Y cuál es ese destino? ¿Actor? ¿Seguro que no es geomántico? ¿Aritmético? ¿Templario? No te molestes en responder, kupo: ¡todos sabemos que mañana al amanecer estarás cantando otra canción!
+TEXT_STMBDI201_03089_MONTBLANC_000_321	(-Montblanc-)Ahí es donde te equivocas, Hurdy. ¡Mi destino era ser actor! Lo siento en el pelaje. ¡El papel de Delita se hizo para mí! ¡Para mí, kupo!
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_322	¡Kupo kupo kupo kupo! ¡Basta!
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_323	Los actores de nuestra compañía se formaron en los mejores institutos del Empire. Representan la cima de la profesión, no solo en Garlemald, sino en el mundo entero.
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_324	¡Un <italic(1)>murciélago-topo<italic(0)> vagabundo como tú jamás podría aspirar a compartir escenario con artistas así, y menos a interpretar a un héroe como Delita! Tú mismo admitiste que eras demasiado cobarde para enfrentar a una sola bestia... ¿cómo crees que te iría contra una manada de críticos de teatro? Cualquier compañía necesitaría una prueba de valor antes de siquiera considerar...
+TEXT_STMBDI201_03089_MONTBLANC_000_325	(-Montblanc-)¿¡Cobarde!? ¡Llámame tramposo, llámame perro, pero no me llames cobarde, señor! Acepto tu desafío: mataré con mis propias manos a una bestia inmunda, y la Majestic Theater Company me aceptará en sus filas, kupo.
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_326	Espera, yo no planteé ningún...
+TEXT_STMBDI201_03089_MONTBLANC_000_327	(-Montblanc-)¡Todos ustedes son testigos, kupo! Cuando vuelva con la cabeza de una bestia terrible en mis manos manchadas de sangre, estarán obligados por su honor a darme la bienvenida, a mí, Montblanc el Actor, en las legendarias filas del Majestic. ¡Buen día!
+TEXT_STMBDI201_03089_HURDY_000_328	Maravilloso. ¿Y ahora qué hacemos?
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_329	¿Qué hacemos <italic(1)>nosotros<italic(0)>? <italic(1)>Nosotros<italic(0)> no hacemos nada. Si ese murciélago-topo quiere arrojarse sobre los cuernos de un dzo en estampida, no seré yo quien se lo impida.
+TEXT_STMBDI201_03089_MIKOTO_000_330	Creo que el término despectivo correcto es "topo-murciélago", y le advierto que a los moogles no les gusta nada que se lo digan.
+TEXT_STMBDI201_03089_ALMALEXENTALE_000_331	¿Por qué siempre tienes que ponerte por encima de los demás, hermano? ¿No aprendiste nada del miserable ejemplo de Argath?
+TEXT_STMBDI201_03089_HURDY_000_332	Montblanc nunca habría salido a esta locura si no le hubieras planteado el desafío. ¡Si le pasa algo a mi hermano, su sangre estará en tus manos!
+TEXT_STMBDI201_03089_ALMALEXENTALE_000_333	<split(<string(gstr1)>, ,1)>... Usted es <if(gnum4,la única,el único)> de nosotros capaz de encontrar a Montblanc y evitar un desastre. En nombre de mi hermano, le ruego su ayuda.
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_335	¿Cómo llegó Ramza a ser tan insoportable? Él y su hermana no podrían ser más distintos.
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_336	Los moogles tienen papeles destacados en la leyenda ivaliceña, pero ningún relato menciona que puedan volar. ¿Algo que se perdió en la traducción, quizá?
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_337	Yo... Pido disculpas. Tengo que aprender a controlar mi ira. Pero a veces... puede ser difícil.
+TEXT_STMBDI201_03089_ALMALEXENTALE_000_338	Vio al pobre moogle. No va a durar ni un día solo. ¡Tiene que encontrarlo y traerlo de vuelta! ¡Se lo ruego!
+TEXT_STMBDI201_03089_HURDY_000_340	Mi hermano puede ser bastante... simple en esas cosas. Para impresionar al Warrior of Light y a sus compañeros, lo más probable es que Montblanc elija el escenario de sus hazañas recientes para demostrar su valía: es decir, Rabanastre, si no me equivoco.
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_341	Perdona la expresión, pero ese Ramza es un pequeño imbécil sin remedio, ¿no? Cómo se atreve a hablarles así a su hermana y al moogle. No sabía qué era peor: lo que decía o cómo el director se quedaba sentado dejándolo decirlo.
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_342	Pero supongo que no es asunto nuestro. Por ahora concentrémonos en lo que tenemos entre manos: encontrar a ese moogle antes de que haga algo que todos lamentemos. ¿Qué tal si empezamos cerca? ¿El Pier #2, quizá?
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_430	El halconero dice que hace menos de una hora despachó a un herrero ambulante rumbo a Yanxia. ¿Y por qué nos interesaría eso, preguntas?
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_431	¡Porque a ese vendedor de hierro y acero lo vieron cargando una bolsa repleta de, y cito, "pelaje de topo albino y alas moradas de murciélago"!
+TEXT_STMBDI201_03089_HURDY_000_432	¡Montblanc!
+TEXT_STMBDI201_03089_HURDY_000_433	...¡No es que nos veamos así, kupo!
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_434	La ruta más rápida a Dalmasca es por el One River y sus afluentes del oeste. Si Montblanc va hacia Rabanastre, buscará pasaje desde la Glittering Basin.
+TEXT_STMBDI201_03089_HURDY_000_500	¡Montblanc! ¿¡En qué estabas pensando!?
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_501	¿¡Tienes idea de lo que le hiciste pasar a tu hermano!? ¡Estaba muerto de preocupación!
+TEXT_STMBDI201_03089_MONTBLANC_000_502	Hurdy y Ramza tenían razón desde el principio. Soy un fracaso. Un fiasco. Un fracasado flojo, fanfarrón y frustrado, kupo. ¿Cómo podría <italic(1)>yo<italic(0)> interpretar a un héroe si ni siquiera puedo despeinarle las plumas a un mísero pájaro? El público vería a través de mí como la medusa sin espinazo que soy.
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_503	Espera, Montblanc. No todos pueden ser héroes... ¡ni siquiera la mayoría de los héroes! Sí, los bardos le cantan al que da el golpe final, pero ¿y su grupo de compañeros leales? ¿Crees que Delita unió Ivalice solo? ¿Crees que <split(<string(gstr1)>, ,1)> estaba <if(gnum4,sola,solo)> cuando liberó Ala Mhigo?
+TEXT_STMBDI201_03089_Q2_000_000	¿Qué dices?
+TEXT_STMBDI201_03089_A2_000_001	En el campo de batalla nunca estás solo.
+TEXT_STMBDI201_03089_A2_000_002	No todas las guerras se ganan en primera línea.
+TEXT_STMBDI201_03089_MONTBLANC_000_510	¿Nunca solo...? ¿O sea que vas a estar siempre ahí para mí? ¿Para Montblanc?
+TEXT_STMBDI201_03089_HURDY_000_511	Eh... Creo que <if(gnum4,ella,él)> hablaba en sentido figurado...
+TEXT_STMBDI201_03089_MONTBLANC_000_515	¡Claro que no! ¡Toda campaña necesita a su brillante arquitecto, el cerebro que mueve las piezas en el tablero! ¡<italic(1)>Yo<italic(0)>, Montblanc, puedo ser ese cerebro!
+TEXT_STMBDI201_03089_HURDY_000_516	Eso fue rápido...
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_530	No nos detengamos en los detalles. El día está salvado, y Montblanc escapó sin un rasguño ni una chamuscada que lo demuestre. Deberíamos volver a la <italic(1)>Prima Vista<italic(0)> antes de que se nos acabe la suerte.
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_600	¡Por favor! ¡Esta nave es un lugar de paz!
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_601	¡Suelten a mi hermana o tendrán que vérselas conmigo!
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_602	Cuando el gato no está...
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_603	Baja esa maldita cosa, Ramza. ¡No estás ayudando!
+TEXT_STMBDI201_03089_BWAGI_000_604	No tenemos nada contra ustedes ni contra los suyos. Solo buscamos ayuda para encontrar a nuestro líder, Ba'Gamnan.
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_605	¿¡Buscan nuestra ayuda!? ¿Ustedes, que amenazaron con matar a mi padre? ¿¡Que robaron su trabajo y nos dejaron a todos como tontos!? ¡Jamás!
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_606	¡Silencio, Ramza! Tienen a Alma. Escucharemos lo que tienen que decir.
+TEXT_STMBDI201_03089_BWAGI_000_607	Como dije, no tenemos nada contra ustedes. Solo hicimos lo necesario para conseguir una audiencia. Entregamos nuestras armas y les ofrecemos su diario como gesto de buena fe.
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_608	...Es bastante para digerir. Pero lo que dicen coincide con lo que averiguamos sobre la auracite.
+TEXT_STMBDI201_03089_GIJUK_000_609	¿Dice que ese cristal le hizo algo a nuestro capitán?
+TEXT_STMBDI201_03089_MIKOTO_000_610	Tras vaciarse de la voluntad de Argath, la Duma buscó la de otro para saciar su apetito de éter.
+TEXT_STMBDI201_03089_RINOK_000_611	¿¡Dice que ese cristal se <italic(1)>comió<italic(0)> a nuestro capitán!?
+TEXT_STMBDI201_03089_MIKOTO_000_612	Su cuerpo no. Solo su alma.
+TEXT_STMBDI201_03089_RINOK_000_613	¿¡Su <italic(1)>alma<italic(0)>!?
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_614	Díganme... ¿cuál era, en su opinión, el deseo más profundo de su líder? ¿Qué era lo que anhelaba por encima de todo en el mundo?
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_615	¿Por qué gastas saliva razonando con estos... estos... <italic(1)>lagartos<italic(0)>? ¡Mostraron que son unas bestias cuando te pusieron un cuchillo en la garganta!
+TEXT_STMBDI201_03089_MONTBLANC_000_616	Primero topo-murciélagos, ahora lagartos. La lengua de este es puro veneno.
+TEXT_STMBDI201_03089_BWAGI_000_617	El muchacho puede llamarnos como quiera. Por nuestros fracasos pasados, no merecemos nada mejor.
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_618	¿Sus fracasos?
+TEXT_STMBDI201_03089_GIJUK_000_619	Pasaron treinta veranos... y no hay noche en que no me despierte sudando con el recuerdo.
+TEXT_STMBDI201_03089_RINOK_000_620	Éramos fusileros del ejército dalmascano, destinados en la fortaleza real de Nalbina.
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_621	Se decía que la Nalbina Fortress era inexpugnable. Su caída ante la IVth Legion fue un punto de inflexión en la campaña imperial: asestó un golpe demoledor a la moral dalmascana y, al final, marcó el principio del fin del reino.
+TEXT_STMBDI201_03089_BWAGI_000_622	Ba'Gamnan era nuestro capitán, y cuando quedó claro que el día no sería nuestro, el príncipe Rasler, comandante de la guarnición de Nalbina, le encomendó una última misión.
+TEXT_STMBDI201_03089_BWAGI_000_623	Nuestra unidad debía escoltar a la hermana gemela de Su Alteza, la princesa Ashelia, fuera de la fortaleza y ponerla a salvo. Pero... las cosas no salieron como se planeó...
+TEXT_STMBDI201_03089_GIJUK_000_624	Todavía recuerdo las palabras que dijo mientras moría en brazos del capitán, a tiro de piedra de donde el Garamsythe Waterway desemboca en el mar.
+TEXT_STMBDI201_03089_GIJUK_000_625	Aun cuando la niebla de la muerte la cubría, sonrió y nos dijo, a nosotros, los que le habíamos fallado, que sobreviviéramos, porque mientras quedara en pie un solo dalmascano, nuestra nación nunca moriría del todo.
+TEXT_STMBDI201_03089_RINOK_000_626	Pero no debimos ser nosotros los que sobrevivieran. Al no proteger a quien teníamos a cargo, traicionamos a la princesa y su memoria, y avergonzamos a nuestra raza. Así que sí, no somos más que lagartos de sangre fría que merecen todo el desprecio que quieran echarnos encima.
+TEXT_STMBDI201_03089_MIKOTO_000_627	Mmm... Creo que podemos suponer sin riesgo un odio profundo hacia los invasores de su patria, unido a un desprecio por sí mismo nacido de la sensación de impotencia.
+TEXT_STMBDI201_03089_MIKOTO_000_628	La oscuridad que acecha en el corazón de Ba'Gamnan no es muy distinta de la que movía a Argath: las mismas emociones que iban a alimentar la Duma.
+TEXT_STMBDI201_03089_BWAGI_000_629	Deje de hablar en acertijos, sharlayana.
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_630	Dice que su <italic(1)>valiente capitán<italic(0)> terminará convirtiéndose en un monstruo... o, mejor dicho, en uno peor.
+TEXT_STMBDI201_03089_GIJUK_000_631	¡Mentiras garleans!
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_632	Lo que dicen es cierto. Si no encontramos pronto a Ba'Gamnan y la Duma, ninguno de nosotros estará a salvo, los presentes incluidos.
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_633	¿Tienen alguna idea de adónde pudo haber ido? ¿La que sea?
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_634	¡Esperen, miren esto! ¡Alguien agregó algo en la última página de mi diario!
+TEXT_STMBDI201_03089_BWAGI_000_635	Entonces tuvo que ponerlo el capitán. Solo él tenía acceso al diario... hasta que lo encontramos en la mochila que dejó, claro.
+TEXT_STMBDI201_03089_LINAMEWRILAH_000_636	¿Esto es... dalmascano?
+TEXT_STMBDI201_03089_MONTBLANC_000_637	¡Así es! Dice "Ridorana".
+TEXT_STMBDI201_03089_RINOK_000_638	¿El faro? ¿Por qué escribiría eso, y encima en el diario del viejo?
+TEXT_STMBDI201_03089_MIKOTO_000_639	Hay un lugar en el Valnard Sea, muy al sur de Rabanastre, donde el océano cae en unas fauces abiertas de más de un malm de ancho: la Ridorana Cataract.
+TEXT_STMBDI201_03089_MIKOTO_000_640	La leyenda quiere hacernos creer que es la entrada al Hell of Water.
+TEXT_STMBDI201_03089_MIKOTO_000_641	Muchos eruditos que quisieron demostrar lo contrario descendieron al abismo, algunos incluso en aeronave, pero ninguno volvió.
+TEXT_STMBDI201_03089_RAMZALEXENTALE_000_650	Dígame, ¿Ridorana es de verdad tan magnífica como dicen? ...¿Mm? ¿Nunca estuvo allí? Y yo que pensaba que tendría algo que aportar.
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_680	Debo admitir que sé poco de Ridorana, salvo lo que nos contó lady Mikoto. Antes de gastar tiempo y recursos valiosos viajando a un lugar tan remoto, debo revisar mis notas y ver si se menciona el abismo.
+TEXT_STMBDI201_03089_JENOMISLEXENTALE_000_681	Les contaremos lo que descubramos en cuanto sepamos algo de interés.

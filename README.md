@@ -91,7 +91,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | | | Primals: Warring Triad (Sephirot, Sophia, Zurvan) | ![Traducido][ok] |
 | **Stormblood** | 4.0 | Historia principal, de "Beyond the Great Wall" a "Stormblood" | ![Traducido][ok] |
 | | | Raid de 8: Omega (Deltascape, Sigmascape, Alphascape) | ![Traducido][ok] |
-| | | Raid de alianza (24): Return to Ivalice | ![Pendiente][no] |
+| | | Raid de alianza (24): Return to Ivalice | ![Traducido][ok] |
 | **Post Stormblood** | 4.1–4.56 | Historia principal, de "Arenvald's Adventure" a "A Requiem for Heroes" | ![Traducido][ok] |
 | **Shadowbringers** | 5.0 | Historia principal, de "The Syrcus Trench" a "Shadowbringers" | ![Traducido][ok] |
 | | | Raid de 8: Eden (Gate, Verse, Promise) | ![Pendiente][no] |

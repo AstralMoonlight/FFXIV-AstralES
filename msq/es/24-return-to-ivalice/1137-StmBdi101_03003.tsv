@@ -1,0 +1,115 @@
+key	text
+TEXT_STMBDI101_03003_SEQ_00	Keiten sabe de alguien que quiere conocerte.
+TEXT_STMBDI101_03003_SEQ_01	Lina Mewrilah y una joven doncella llamada Alma no solo quieren conocerte, sino también pedirte ayuda. Sigue a las dos hasta el aterrizaje de aeronaves para saber más.
+TEXT_STMBDI101_03003_SEQ_02	Al parecer, Alma solo hablará desde la seguridad de su aeronave, que ahora está amarrada en los cielos de Kugane. Acércate a Lina Mewrilah cuando estés <if(gnum4,lista,listo)> para subir a la lanzadera.
+TEXT_STMBDI101_03003_SEQ_03	Lina te informa que la barcaza teatral pertenece a la Majestic Imperial Theater Company, de la que Alma es miembro. Habla con la muchacha en el camerino.<br><br>※Para volver a visitar la <italic(1)>Prima Vista<italic(0)>, habla con el piloto de la lanzadera que está en el aterrizaje de aeronaves.
+TEXT_STMBDI101_03003_SEQ_04	Te enteras de que la Majestic Imperial Theater Company tuvo que huir del Empire después de que su fundador y director, Jenomis cen Lexentale, se negara a dejar de criticar al gobierno. Pero la historia tiene más, y si quieres oírla, tendrás que ir al puente.
+TEXT_STMBDI101_03003_SEQ_05	Al parecer, Jenomis creía que la Zodiac Brave Story, una leyenda que todo garlean conoce, era más que un simple cuento para dormir, y partió a la Royal City of Rabanastre, en el reino de Dalmasca, anexado hace poco, con la esperanza de demostrar su teoría. Pero poco después de su partida se perdió el contacto con el director, y desde entonces no se supo nada de él. Habla en el puente con Ramza, el hijo de Jenomis, para saber qué papel te toca en todo esto.
+TEXT_STMBDI101_03003_SEQ_06	Ramza planea una expedición para encontrar y rescatar a su padre, y aceptó tu ayuda a regañadientes. Vuelve a hablar con el joven cuando estés <if(gnum4,lista,listo)> para partir a Dalmasca.
+TEXT_STMBDI101_03003_TODO_00	Habla con Lina Mewrilah.
+TEXT_STMBDI101_03003_TODO_01	Habla con Lina Mewrilah.
+TEXT_STMBDI101_03003_TODO_02	Habla con Alma en el camerino.
+TEXT_STMBDI101_03003_TODO_03	Habla con Alma en el camerino.
+TEXT_STMBDI101_03003_TODO_04	Habla con Ramza en el puente.
+TEXT_STMBDI101_03003_KEITEN_000_000	<if(gnum4,Bienvenida,Bienvenido)>, <if(gnum4,mi señora,mi señor)>. Hay aquí una joven doncella que quisiera hablar con usted.
+TEXT_STMBDI101_03003_KEITEN_100_000	¡Señorita! ¡Llegó <if(gnum4,la aventurera,el aventurero)>!
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_001	¡Y aquí está! ¡<if(gnum4,La libertadora,El libertador)> de Doma y de Ala Mhigo en persona! Soy Lina Mewrilah, corresponsal de <italic(1)>The Raven<italic(0)>. Quizá me recuerdes por mi reportaje sobre la vida secreta de los Homunculi.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_005	¿Hay... algún problema?
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_006	¿Mujih? Esa es mi hermana. La gente nos confunde todo el tiempo. Tenemos la misma profesión, ¿sabes?, y algo nos parecemos. Lo último que supe es que seguía asignada al Botanists' Guild de Gridania, pobrecita.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_010	Pero basta de charla. No por nada llevo aquí parada desde ayer en la mañana, por si acaso pasabas.
+TEXT_STMBDI101_03003_LINAMEWRILAH_100_010	No, estoy aquí porque... En realidad, es mejor que lo oigas de Alma. Yo no soy más que una observadora.
+TEXT_STMBDI101_03003_LINAMEWRILAH_101_010	¡Alma, ven! ¡<if(gnum4,La,Lo)> encontré!
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_011	(-Alma-)¿Es <if(gnum4,esta la aventurera,este el aventurero)> de quien me hablaste?
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_012	Así es.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_013	(-Alma-)¡Por favor! ¡Se lo ruego! ¡Encuentre a mi padre! ¡Usted es su única esperanza!
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_014	Tranquila, Alma...
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_015	Estamos llamando la atención. ¿Puedo sugerir que cambiemos de lugar?
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_0016	Te esperaremos frente a la <italic(1)>Prima Vista<italic(0)>. La barcaza teatral tiene un amarradero en el aterrizaje de aeronaves.
+TEXT_STMBDI101_03003_KEITEN_000_020	Nunca fui de meterme en los asuntos de mis clientes... pero, si lo fuera, diría que sería una tontería no seguir a esas dos hasta su aeronave. Llámelo... una corazonada.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_025	\<sollozo>
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_030	Como dije antes, creo que es mejor seguir esta conversación en la privacidad de la barcaza de la señorita. No es que no confíe en nadie aquí... es simplemente que no confío en nadie aquí.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_031	Al guardia de la puerta, Minegumo, le pidieron que esté atento a tu llegada. De ahora en adelante, habla con él cuando quieras entrar a los muelles.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_040	...
+TEXT_STMBDI101_03003_AIRSHIPGUIDE03003_000_045	Debería hablar con lady Lina.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_050	Gracias por venir, <split(<string(gstr1)>, ,1)>.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_051	Seguro te preguntas por qué te cité en una aeronave... y garlean, para colmo. Deja que te explique en la lanzadera.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_055	¡<if(gnum4,Bienvenida,Bienvenido)> a la <italic(1)>Prima Vista<italic(0)>, la barcaza teatral más lujosa de todo el reino!
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_060	La <italic(1)>Prima Vista<italic(0)> es a la vez escenario y hogar de la Majestic Imperial Theater Company.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_070	Puedes dejar ese puñal guardado. Aquí nadie es miembro del ejército imperial, ni hay espías en la compañía... al menos, ningún espía <italic(1)>conocido<italic(0)>...
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_071	Pregúntale a cualquiera y te lo confirmará: la Majestic Imperial Theater Company es la mejor exponente de las artes dramáticas que se pueda encontrar en los Three Great Continents... ¡y más allá!
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_072	Tienen admiradores en todo el Empire y sus territorios, y hasta presumen de un público considerable en Gridania; por eso me asignaron su historia.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_073	Poca gente sabe, al menos fuera de Garlemald, que el difunto emperador era un mecenas devoto de las artes que apoyó a varias compañías de teatro con mucho dinero.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_074	De hecho, Solus estaba tan prendado de los actores del Majestic que mandó construir esta misma aeronave, para que la compañía pudiera actuar en cada rincón del Empire.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_075	Pero cuando su nieto subió al trono, todo cambió.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_076	Ahora, todas las compañías de teatro, nacionales y extranjeras, deben presentar sus obras a la junta central imperial de censores para que las aprueben. Si se considera que una obra es vulgar o incendiaria, se prohíbe y se le niegan a la compañía sus permisos de tránsito. ¿Los peores infractores? Bueno, nunca se vuelve a saber de ellos.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_077	Esta política dejó a los dramaturgos con dos opciones: renunciar a su integridad creativa para ganarse el favor de Su Radiancia, o dejar la pluma para siempre.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_078	Pero el director del Majestic eligió una tercera opción: expresar de forma indirecta su desacuerdo con las políticas del nuevo emperador, en obras en apariencia apolíticas.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_079	(-Alma bas Lexentale-)Le ruego que perdone mi arrebato de antes. Soy Alma bas Lexentale, hija del director Jenomis cen Lexentale.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_080	(-Alma bas Lexentale-)¿Quizá oyó hablar de la última obra de mi padre, <italic(1)>The Zodiac Brave Story<italic(0)>? En la superficie es una inocente versión de un conocido cuento de hadas garlean, que no merecería la atención de los censores. Pero por debajo es algo muy distinto. Algo que los censores no notaron cuando aprobaron el manuscrito para su representación pública.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_081	(-Alma bas Lexentale-)La obra se volvió enseguida un gran éxito. El pueblo amó su historia fantástica, y las clases cultas apreciaron su verdadero mensaje.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_082	Para cuando la junta imperial de censores se dio cuenta de su error, ya era tarde. Como no podían prohibir la obra sin admitir su falta, apuntaron en cambio a los bolsillos de la compañía.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_083	En poco tiempo, los mecenas nobles empezaron a retirarles su apoyo por miedo a que los asociaran con la compañía. Y al final hasta los cultos se vieron obligados a fingir ignorancia. Al dejar al Majestic sin fondos, los censores le robaron la voz.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_084	Y... nada de esto aclara por qué estás aquí. Cierto.
+TEXT_STMBDI101_03003_CID_000_085	Permíteme, Lina.
+TEXT_STMBDI101_03003_CID_000_086	Conozco a Jenomis desde que éramos estudiantes en la Magitek Academy. Cuando supe que su hija estaba en Kugane buscando la ayuda de un aventurero, sentí que debía darle tu nombre. Perdón por no haberme anunciado antes, viejo amigo.
+TEXT_STMBDI101_03003_CID_000_087	Jenomis y yo veníamos de mundos distintos, pero eso no hizo más que alimentar nuestra amistad. Muchas noches nos quedábamos parloteando hasta la madrugada, con jarras tibias de cerveza de turba adormeciéndonos la mente ante las ideologías ingenuas del otro. Pero, sin importar dónde empezara la conversación, siempre terminaba con él contándome cómo iba a cambiar el Empire desde dentro. La compañía iba a ser su camino al corazón de la gente.
+TEXT_STMBDI101_03003_CID_000_088	Incluso después de que el Empire lo echara de su hogar, Jenomis nunca perdió la esperanza de que su obra pudiera cambiar el mundo.
+TEXT_STMBDI101_03003_JENOMISLEXENTALE_000_089	(-Jenomis cen Lexentale-)¡El arte siempre forcejeará contra los límites y las fronteras artificiales! ¡Contra los muros hechos por el hombre y las guerras equivocadas! ¡Es en tiempos de incertidumbre como estos cuando debemos abrazar nuestra vocación y alzar el vuelo para que otros puedan hacer lo mismo!
+TEXT_STMBDI101_03003_CID_000_090	Lo que intento decir, bastante mal, lo reconozco, es que no todos los garleans están tallados en la misma piedra.
+TEXT_STMBDI101_03003_CID_000_091	Así como hay quienes juran su vida al Empire y jamás pensarían en cuestionar la autoridad de sus líderes, hay otros, como el padre de Alma y yo, cuyo amor por su país no les impide ver sus defectos.
+TEXT_STMBDI101_03003_CID_000_092	Aun así... intenta venderle ese cuento a un ala mhigan o a un doman que vio a su familia consumida por las llamas de un magitek reaper.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_093	¿Cuántos aventureros eorzeanos crees que saltarían ante la oportunidad de ayudar a una imperial a buscar a su padre desaparecido... y encima en territorio garlean?
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_094	Pero tú... tú eres <if(gnum4,distinta,distinto)>. Viste lo suficiente como para saber que la línea entre el bien y el mal no la definen la raza, el color ni el credo. Entonces, ¿qué dices?
+TEXT_STMBDI101_03003_Q1_000_000	¿Qué dices?
+TEXT_STMBDI101_03003_A1_000_001	Nunca podría darle la espalda a una damisela en apuros.
+TEXT_STMBDI101_03003_A1_000_002	Sería <if(gnum4,una mala aventurera,un mal aventurero)> si le huyera a la aventura.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_100	(-Alma bas Lexentale-)Ay, gracias. ¡Muchísimas gracias!
+TEXT_STMBDI101_03003_CID_000_105	Así es.
+TEXT_STMBDI101_03003_CID_000_110	Ahora que entiendes la naturaleza de la tarea, quizá Alma pueda darnos alguna pista de por dónde empezar a buscar.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_111	(-Alma bas Lexentale-)Poco antes de desaparecer, mi padre empezó a trabajar en su próxima obra: una sucesora de <italic(1)>The Zodiac Brave Story<italic(0)>.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_112	(-Alma bas Lexentale-)Ah, pero me estoy adelantando. Por favor, sígame...
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_200	...a través de aventuras y penurias, el joven Delita, un muchacho de sangre plebeya, se convierte en héroe, y todo culmina con el nacimiento del mítico reino de Ivalice.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_201	Pero ahí termina la historia. No hay registros de nada de lo que sigue. ¿El director Jenomis simplemente iba a inventar algo?
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_202	Mi padre creía haber descubierto pruebas de un segundo héroe. Uno cuyos esfuerzos pasaron casi desapercibidos, pero sin el cual Delita nunca habría llegado al trono. Su historia era la próxima que quería contar: la <italic(1)>verdadera<italic(0)> Zodiac Brave Story.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_203	¿Un <italic(1)>segundo<italic(0)> héroe?
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_204	Según los estudios de mi padre, ese joven era uno de los amigos y confidentes más cercanos de Delita, hasta que la muerte prematura de la hermana de Delita obligó a los dos a separarse.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_205	Aun así, el héroe sin nombre siguió ayudando a su amigo frustrando las maquinaciones de quienes conspiraban contra Delita, y así allanó el camino para que el pobre llegara a regente.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_206	Perdóname, pero nunca oí a nadie afirmar algo así. ¿Cómo obtuvo exactamente tu padre esa información?
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_207	Eso... es una larga historia...
+TEXT_STMBDI101_03003_CID_000_208	Una que empieza y termina con Jenomis perdiéndose en la misma leyenda que quería sacar a la luz.
+TEXT_STMBDI101_03003_CID_000_209	Ya en nuestros días de la Academy, Ivalice tenía a Jenomis bien atrapado. Se negaba rotundamente a creer que la historia fuera solo un cuento de hadas.
+TEXT_STMBDI101_03003_CID_000_210	Así que, cuando por fin lo echaron de Garlemald, era natural que eligiera este lugar, entre todos, como refugio... ¿no es así, Alma?
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_211	Así es, maestro Garlond. Mi padre cree desde hace mucho que las ruinas de la antigua Ivalice están más allá de Nagxia, enterradas bajo las arenas del Dalmasca Desert.
+TEXT_STMBDI101_03003_CID_000_212	Pobre Dalmasca... El reino prosperó relativamente aislado durante incontables generaciones... hasta que llegó el Empire.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_213	Cuando no estaba de gira, mi padre organizaba expediciones al Dalmasca Desert para buscar pruebas de la existencia de Ivalice. A veces volvía con artefactos extraños, tomos antiguos... y cristales. Cristales distintos de cualquier otro.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_214	Mi padre los llamaba <italic(1)>auracite<italic(0)> y aseguraba que eran clave para demostrar sus teorías. Este es uno de esos cristales.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_215	Por los Twelve... ¡Es magnífico!
+TEXT_STMBDI101_03003_CID_000_216	La leyenda ivaliceña habla de cristales que los dioses legaron a quienes estaban destinados a ser reyes. Es durante su búsqueda de la auracite que el joven Delita alcanza la fama.
+TEXT_STMBDI101_03003_CID_000_217	Habré oído la historia mil veces de boca de mi niñera. Pero nunca fue más que eso: una historia.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_218	Mi padre solía contarnos que la auracite le "hablaba". En ese momento pensamos que lo decía en sentido figurado, que la belleza de las piedras despertaba a su musa.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_219	Pero luego empezó a comportarse de forma extraña...
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_220	¿Cómo así?
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_221	Después de que llegamos aquí, a Hingashi, mi padre pasaba casi todo el tiempo encerrado en sus aposentos, estudiando sus investigaciones pasadas. Y aunque estaba solo, muchas veces lo oíamos conversar.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_222	No era raro que mi padre recitara los diálogos mientras los escribía, pero pronto quedó claro que esto era otra cosa.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_223	Era como si hablara con mi madre... mi madre, que murió hace varios inviernos.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_224	¿No podría haber sido simple soledad? ¿O quizá la tensión de su huida de Garlemald?
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_225	Quizá... Pero eso no explicaría las voces que le respondían.
+TEXT_STMBDI101_03003_RAMZALEXENTALE_000_226	(-???-)¡Alma! ¿Quiénes son estas personas? Te dije que no necesitaba ayuda para encontrar a nuestro padre, y menos de forasteros.
+TEXT_STMBDI101_03003_CID_000_227	Qué amable de tu parte acompañarnos, Ramza. Permíteme presentarte a...
+TEXT_STMBDI101_03003_RAMZALEXENTALE_000_228	¡Basta, maestro Cid!
+TEXT_STMBDI101_03003_RAMZALEXENTALE_000_229	Puede que el Empire nos rechace, pero seguimos siendo garleans, y todavía tenemos nuestro orgullo... a diferencia de algunos, por lo visto. No necesitamos ni la ayuda ni la lástima de la chusma extranjera.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_230	¿Olvidaste dónde estás, hermano? Los que somos "chusma extranjera" somos nosotros. Esta tierra y sus costumbres nos son casi desconocidas. Seríamos unos tontos si hiciéramos nuestra búsqueda sin un guía de probada experiencia.
+TEXT_STMBDI101_03003_CID_000_231	Tu hermana tiene razón, Ramza. En cuanto a mi buen amigo aquí presente, tu desconfianza está fuera de lugar. Respondo personalmente por su carácter. En todo el tiempo que hace que <if(gnum4,la,lo)> conozco, jamás dejó que algo tan insignificante como la raza o el credo nublara su juicio. Tienen suerte de contar con su ayuda.
+TEXT_STMBDI101_03003_RAMZALEXENTALE_000_232	¡Pero lo queremos a <italic(1)>usted<italic(0)>, maestro Garlond! ¿¡Por qué se niega!?
+TEXT_STMBDI101_03003_CID_000_233	Ya sabes por qué. Hasta que se resuelva este asunto con Omega, tengo las manos atadas. Me duele negarles mi ayuda a ti y a tu hermana, pero me duele mucho más dejar a Jenomis librado a su suerte... Lo siento.
+TEXT_STMBDI101_03003_RAMZALEXENTALE_000_234	No tiene que disculparse. Dejé que las emociones me dominaran... Después de lo que pasó en Rabanastre, quizá sea hora de admitir que esto nos supera.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_235	La última expedición de mi hermano terminó en tragedia en las ruinas de la capital. Escapó con vida por muy poco.
+TEXT_STMBDI101_03003_CID_000_236	El Empire convirtió Rabanastre en una trampa mortal. Fuiste un tonto al poner un pie allí sin una escolta adecuada.
+TEXT_STMBDI101_03003_RAMZALEXENTALE_000_237	Ahora me doy cuenta, maestro Garlond, pero en ese momento vi la oportunidad de rescatar a nuestro padre y la aproveché.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_238	¿Y qué te hizo creer que tu padre estaba en la capital de Dalmasca?
+TEXT_STMBDI101_03003_RAMZALEXENTALE_000_239	La fascinación de mi padre por la leyenda ivaliceña empezó con un viaje a esa ciudad antiquísima, mucho antes de la guerra. Llámelo presentimiento, pero algo me dice que es allí adonde volvió. Ahora, si me disculpan, necesito tiempo para pensar.
+TEXT_STMBDI101_03003_CID_000_240	Entonces, Alma, los dejo a ti y a tu hermano en las capaces manos de <split(<string(gstr1)>, ,1)>. Siempre me devolvió la confianza con creces. Harían bien en darle la suya.
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_241	Gracias, maestro Garlond. No olvidaremos esta bondad.
+TEXT_STMBDI101_03003_LINAMEWRILAH_000_250	¡Cid no se despidió de <italic(1)>mí<italic(0)>! ¡Esto va a salir en mi artículo!
+TEXT_STMBDI101_03003_ALMALEXENTALE_000_255	Ay, cuánto extraño a mi padre...
+TEXT_STMBDI101_03003_RAMZALEXENTALE_000_260	El maestro Garlond parece tenerle en alta estima... así que me reservaré el juicio hasta después de Dalmasca.
