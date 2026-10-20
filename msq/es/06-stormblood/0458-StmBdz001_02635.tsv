@@ -2,7 +2,7 @@ key	text
 TEXT_STMBDZ001_02635_SEQ_00	Beves está seguro de haberte visto en alguna parte.
 TEXT_STMBDZ001_02635_TODO_00	Interroga a la gente de Rhalgr's Reach.
 TEXT_STMBDZ001_02635_TODO_01	Devuélvele el well-worn log a Beves.
-TEXT_STMBDZ001_02635_BEVES_000_000	¡¿D-D-Disculpe?! ¡¿<if(gnum4,La mujer que derrotó,El hombre que derrotó)> a Gaius van Baelsar quiere ofrecerme su ayuda?!
+TEXT_STMBDZ001_02635_BEVES_000_000	¿¡D-D-Disculpe!? ¿¡<if(gnum4,La mujer que derrotó,El hombre que derrotó)> a Gaius van Baelsar quiere ofrecerme su ayuda!?
 TEXT_STMBDZ001_02635_BEVES_000_001	Vaya, esto es de lo más irregular... aunque he oído decir que tiene cierta inclinación a ayudar a la gente común. En ese caso...
 TEXT_STMBDZ001_02635_BEVES_000_002	Antes de la ocupación yo era un humilde historiador. Aunque mis deberes apenas me dejan tiempo para otra cosa, creo que es importante registrar estos acontecimientos trascendentales para las generaciones futuras.
 TEXT_STMBDZ001_02635_BEVES_000_003	Las fuentes primarias son indispensables, y había pensado interrogar a algunos de mis compañeros de lucha: preguntarles qué los motivó a abrazar esta causa, y demás.
@@ -17,5 +17,5 @@ TEXT_STMBDZ001_02635_HUGHOC_000_015	O estás con ellos o no, y si estás con ell
 TEXT_STMBDZ001_02635_AHELISSA_000_016	Antes de todo esto yo era solo un cocinero. Comida sencilla, nada más. Un día tuve la oportunidad de echar una mano para alimentar a unos refugiados...
 TEXT_STMBDZ001_02635_AHELISSA_000_017	Me cayeron bien los combatientes. Ellos... creían, ¿sabes? Y siempre hacen falta cocineros, o al menos gente que sepa arreglárselas con lo que traigan las partidas de recolección...
 TEXT_STMBDZ001_02635_BEVES_000_030	Bienvenid<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. ¿Habló con los combatientes como le pedí?
-TEXT_STMBDZ001_02635_BEVES_000_031	Mmm... Tan fascinantes como variados... Tiene un don para convencer a los demás de que le abran el corazón. Yo no lo habría hecho mejor.
+TEXT_STMBDZ001_02635_BEVES_000_031	Hmm... Tan fascinantes como variados... Tiene un don para convencer a los demás de que le abran el corazón. Yo no lo habría hecho mejor.
 TEXT_STMBDZ001_02635_BEVES_000_032	Dentro de muchos años, cuando estos tiempos turbulentos sean un recuerdo, sus relatos servirán como una ventana a la lucha. Nunca debemos olvidar, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>. Nunca.

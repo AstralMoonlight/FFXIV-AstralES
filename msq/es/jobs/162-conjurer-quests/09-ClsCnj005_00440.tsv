@@ -26,7 +26,7 @@ TEXT_CLSCNJ005_00440_WULFIUE_000_25	Le ruego que hable con la niña y se asegure
 TEXT_CLSCNJ005_00440_NOLANEL_000_26	<split(<string(gstr1)>, ,1)>, creció mucho desde la última vez que hablamos de los misterios de la tierra. Aunque sin duda puede defenderse, debo aconsejarle que no se aventure por la espesura hasta que se restablezca el equilibrio.
 TEXT_CLSCNJ005_00440_JOACIN_000_27	Wulfiue adivina la voluntad del aire, Nolanel tiene profundas raíces en la tierra, y yo puedo presumir de cierto dominio del agua. Falsa modestia aparte, que nos eligieran a los tres para responder a esta alteración indica que la situación es grave de verdad.
 TEXT_CLSCNJ005_00440_WULFIUE_000_30	Estamos por partir en nuestra misión. Pero me tranquiliza saber que usted está aquí para hablar con Sylphie y velar por su bienestar.
-TEXT_CLSCNJ005_00440_SYLPHIE_000_040	¡¿<split(<string(gstr1)>, ,1)>?! ¡Ay, debí imaginar que Wulfiue me iba a delatar! Y Brother E<-->Sumi te mandó a llevarme de vuelta, ¿no?
+TEXT_CLSCNJ005_00440_SYLPHIE_000_040	¿¡<split(<string(gstr1)>, ,1)>!? ¡Ay, debí imaginar que Wulfiue me iba a delatar! Y Brother E<-->Sumi te mandó a llevarme de vuelta, ¿no?
 TEXT_CLSCNJ005_00440_SYLPHIE_000_041	Aquí vivía mi mamá, ¿sabes? Hasta el día en que... falleció, la gente le agradecía las curaciones que ofrecía.
 TEXT_CLSCNJ005_00440_SYLPHIE_000_042	Y este es el diario que escribía. Hay una entrada que explica que la naturaleza se enfurece cuando los conjurers usan su arte; que siempre hay más heridos en las batallas cuando "los mortales abusan del poder que no les corresponde tomar".
 TEXT_CLSCNJ005_00440_SYLPHIE_000_043	Mi mamá se negaba a recurrir a la naturaleza porque tenía miedo de hacerla enojar.
@@ -57,10 +57,10 @@ TEXT_CLSCNJ005_00440_SYLPHIE_000_93	¿Las voces? Bueno... sonaban alegres, como 
 TEXT_CLSCNJ005_00440_ESUMIYAN_000_94	Estoy seguro de que sí, Sylphie. Es un don.
 TEXT_CLSCNJ005_00440_ESUMIYAN_000_95	Los conjurers pueden sentir el poder de la naturaleza y tomar prestada su fuerza. Pero no todos pueden oír sus susurros.
 TEXT_CLSCNJ005_00440_ESUMIYAN_000_96	Lo que describes son las voces de los elementales. Es muy posible que tengas el talento para ser <if(gnum4,Oidora,Oidor)>.
-TEXT_CLSCNJ005_00440_SYLPHIE_000_97	¡¿<italic(1)><if(gnum4,Oidora,Oidor)><italic(0)>?!
+TEXT_CLSCNJ005_00440_SYLPHIE_000_97	¿¡<italic(1)><if(gnum4,Oidora,Oidor)><italic(0)>!?
 TEXT_CLSCNJ005_00440_ESUMIYAN_000_98	Claro que mucho depende de tus estudios de conjury. Tienes una aptitud natural, pero hasta ahora te faltó compromiso. No debes descuidar tu entrenamiento, Sylphie.
 TEXT_CLSCNJ005_00440_ESUMIYAN_000_99	Dejando eso de lado por un momento, me interesa saber de la alteración que vio en South Shroud, <split(<string(gstr1)>, ,1)>. Por los informes que recibí, supongo que era de una magnitud distinta a las que había enfrentado antes. ¿Me equivoco?
-TEXT_CLSCNJ005_00440_ESUMIYAN_000_100	Mmm... Esto no augura nada bueno. Las criaturas conocidas como "mud pies" no son nativas del Twelveswood. Me pregunto qué relación tendrá esto con la frecuencia, al parecer cada vez mayor, de estas alteraciones.
+TEXT_CLSCNJ005_00440_ESUMIYAN_000_100	Hmmm... Esto no augura nada bueno. Las criaturas conocidas como "mud pies" no son nativas del Twelveswood. Me pregunto qué relación tendrá esto con la frecuencia, al parecer cada vez mayor, de estas alteraciones.
 TEXT_CLSCNJ005_00440_ESUMIYAN_000_101	Algo más allá del daño de la Calamidad aflige al Twelveswood. Comulgaré con los elementales e intentaré identificar esta amenaza.
 TEXT_CLSCNJ005_00440_ESUMIYAN_000_102	<split(<string(gstr1)>, ,1)>, Sylphie, puede que pronto <if(gnum4,las necesite a ambas,los necesite a ambos)>. Hasta entonces, entréguense al estudio de nuestro arte.
 TEXT_CLSCNJ005_00440_ESUMIYAN_000_103	Que la tierra siempre reciba sus pasos, y el viento guíe su camino.
@@ -69,8 +69,8 @@ TEXT_CLSCNJ005_00440_QIB_001_TODO_1	¡Purifica la tierra corrompida!
 TEXT_CLSCNJ005_00440_QIB_001_SYLPHIE_BATTLETALK_01	La naturaleza está enojada con nosotros...<br>¡No uses más conjury!
 TEXT_CLSCNJ005_00440_QIB_001_SYLPHIE_BATTLETALK_02	¡Solo estamos enfureciendo más a la naturaleza!
 TEXT_CLSCNJ005_00440_QIB_001_SYLPHIE_BATTLETALK_03	¡Hasta las criaturas del bosque saben que esto está mal!
-TEXT_CLSCNJ005_00440_QIB_001_SYLPHIE_BATTLETALK_04	¡Ahora la naturaleza nos manda truenos y relámpagos!<br>¡¿Qué más pruebas necesitas?!
-TEXT_CLSCNJ005_00440_QIB_001_SYLPHIE_BATTLETALK_05	¡¿Elementales?! ¡¿También están enojados?!<br>¡Ahora sí que estamos en problemas!
+TEXT_CLSCNJ005_00440_QIB_001_SYLPHIE_BATTLETALK_04	¡Ahora la naturaleza nos manda truenos y relámpagos!<br>¿¡Qué más pruebas necesitas!?
+TEXT_CLSCNJ005_00440_QIB_001_SYLPHIE_BATTLETALK_05	¿¡Elementales!? ¿¡También están enojados!?<br>¡Ahora sí que estamos en problemas!
 TEXT_CLSCNJ005_00440_QIB_001_SYLPHIE_BATTLETALK_06	¿Los... los elementales nos están ayudando?
 TEXT_CLSCNJ005_00440_QIB_001_NOLANEL_BATTLETALK_01	Nunca la tierra me había desconcertado tanto...
 TEXT_CLSCNJ005_00440_QIB_001_WULFIUE_BATTLETALK_01	No encuentro un segundo aire...

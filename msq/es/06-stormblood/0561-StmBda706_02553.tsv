@@ -38,7 +38,7 @@ TEXT_STMBDA706_02553_PIPIN_000_023	Mientras nos abrimos paso por la ciudad, los 
 TEXT_STMBDA706_02553_ALPHINAUD_000_025	No solo el General, también Lyse y Arenvald... Esta misión lo significa todo para nuestros amigos: no podemos defraudarlos.
 TEXT_STMBDA706_02553_AYMERIC_000_030	¡La batalla empezó! ¡Den la orden de avanzar!
 TEXT_STMBDA706_02553_LUCIA_000_035	¡Sí, Lord Comandante!
-TEXT_STMBDA706_02553_FLAMERECRUIT_000_040	¡¿Qué demonios hace aquí abajo?! Bah, ¡no importa! ¡Venga conmigo! ¡Lo necesitan en el Royal Menagerie!
+TEXT_STMBDA706_02553_FLAMERECRUIT_000_040	¿¡Qué demonios hace aquí abajo!? Bah, ¡no importa! ¡Venga conmigo! ¡Lo necesitan en el Royal Menagerie!
 TEXT_STMBDA706_02553_EVENTAREA_WARP_YESNO_TITLE	¿Ir al Royal Menagerie?
 TEXT_STMBDA706_02553_VARIS_900_001	...Se acabó.
 TEXT_STMBDA706_02553_ELIDIBUS_900_002	(-???-)Mis condolencias por su pérdida. Un padre no debería sobrevivir a su hijo.
@@ -70,7 +70,7 @@ TEXT_STMBDA706_02553_PIPIN_000_163	Así es, padre. Por trascendental que sea est
 TEXT_STMBDA706_02553_RAUBAHN_000_164	Sí, sí. Pero si pudimos superar dos décadas de opresión, no tengo dudas de que podremos encontrar cómo seguir. Gracias, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>)>)>, por ayudar a hacer realidad este sueño.
 TEXT_STMBDA706_02553_RAUBAHN_000_165	Supongo que muchos de los refugiados alamhiganos de Ul'dah tendrán que decidir si vuelven a casa... o se quedan en su nuevo hogar.
 TEXT_STMBDA706_02553_ALPHINAUD_000_170	Después de todo lo que pasamos, debería saber que no tengo que preocuparme, pero, como siempre, el alivio que sentí al encontrarl<if(gnum4,a,o)> san<if(gnum4,a,o)> y salv<if(gnum4,a,o)> en el Royal Menagerie casi me hace llorar...
-TEXT_STMBDA706_02553_ALPHINAUD_000_171	"El Warrior of Light", victorioso otra vez... Mmm. Me sorprendería que una pequeña parte de usted no hubiera llegado a resentir el título y las responsabilidades que lo acompañan. Tendrá que perdonarnos si lo llamamos "héroe" cuando hace hazañas heroicas...
+TEXT_STMBDA706_02553_ALPHINAUD_000_171	"El Warrior of Light", victorioso otra vez... Hm. Me sorprendería que una pequeña parte de usted no hubiera llegado a resentir el título y las responsabilidades que lo acompañan. Tendrá que perdonarnos si lo llamamos "héroe" cuando hace hazañas heroicas...
 TEXT_STMBDA706_02553_ALPHINAUD_000_172	Pero como va el Warrior of Light, así va el mundo. Debería enorgullecerse del bien que hizo, y del bien que inspiró a hacer a los demás.
 TEXT_STMBDA706_02553_THANCRED_000_173	Eres <if(gnum4,una líder nata,un líder nato)>, <split(<string(gstr1)>, ,1)>. Toda esta gente no solo seguía a sus comandantes: te seguía a ti.
 TEXT_STMBDA706_02553_ALPHINAUD_000_174	Y usted los llevó a la victoria. ¡A la libertad! ...Por desgracia, no todos pudieron ver el viaje hasta el final. Pero la historia los recordará, y también el futuro glorioso que hicieron posible.
@@ -92,7 +92,7 @@ TEXT_STMBDA706_02553_YUGIRI_000_200	Lord Hien tiene que volver a Doma lo antes p
 TEXT_STMBDA706_02553_LYSE_000_210	¿Ya hiciste tu ronda? Genial. En ese caso, quiero que vengas conmigo. De vuelta a Rhalgr's Reach.
 TEXT_STMBDA706_02553_LYSE_000_211	No para una revancha ni nada, por desgracia. Quiero reunir a todos los Scions. Después te explico.
 TEXT_STMBDA706_02553_LYSE_000_215	No... no sé ni por dónde empezar...
-TEXT_STMBDA706_02553_CID_900_020	...Mmm. Esto es sin duda obra de Shinryu o de Omega.
+TEXT_STMBDA706_02553_CID_900_020	...Hm. Esto es sin duda obra de Shinryu o de Omega.
 TEXT_STMBDA706_02553_CID_900_021	...Y como sin duda hay <italic(1)>algo<italic(0)> ahí abajo que irradia una cantidad enorme de energía... que no puede ser el dragoncito faldero del difunto virrey... Sí, creo que tenemos a nuestro sospechoso.
 TEXT_STMBDA706_02553_CID_900_022	Bueno. Este es un desastre que armamos nosotros, así que nos toca limpiarlo. No va a ser fácil... pero ¿alguna vez lo es?
 TEXT_STMBDA706_02553_JESSIE_900_023	Y ahora viene la parte en que dices que no te queda otra que desviar recursos y empleados de la compañía a este proyecto personal tuyo. Al diablo con las ganancias perdidas y los clientes enojados.
