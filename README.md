@@ -88,6 +88,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | | | Raid de 8: Alexander (Gordias, Midas, Creator) | ![Traducido][ok] |
 | | | Raid de alianza (24): Shadow of Mhach | ![Traducido][ok] |
 | **Post Heavensward** | 3.1–3.56 | Historia principal, de "An Uncertain Future" a "The Far Edge of Fate" | ![Traducido][ok] |
+| | | Primals: Warring Triad (Sephirot, Sophia, Zurvan) | ![Traducido][ok] |
 | **Stormblood** | 4.0 | Historia principal, de "Beyond the Great Wall" a "Stormblood" | ![Traducido][ok] |
 | | | Raid de 8: Omega (Deltascape, Sigmascape, Alphascape) | ![Pendiente][no] |
 | | | Raid de alianza (24): Return to Ivalice | ![Pendiente][no] |
