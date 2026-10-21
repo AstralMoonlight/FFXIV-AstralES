@@ -1,0 +1,61 @@
+key	text
+TEXT_KINGMB107_04886_SEQ_00	Koana quiere llevar a cabo la etapa final de su plan.
+TEXT_KINGMB107_04886_TODO_00	Espera en el lugar indicado.
+TEXT_KINGMB107_04886_TODO_01	Derrota a los bandidos.
+TEXT_KINGMB107_04886_TODO_02	Habla con Koana.
+TEXT_KINGMB107_04886_TODO_03	Revisa la zona desde el mirador.
+TEXT_KINGMB107_04886_TODO_04	Sigue a Wawkesa sin que te vean.
+TEXT_KINGMB107_04886_TODO_05	Sigue al Hoobigo sospechoso sin que te vea.
+TEXT_KINGMB107_04886_TODO_06	Habla con Koana.
+TEXT_KINGMB107_04886_KOANA_000_001	Llevemos a cabo la etapa final del plan.
+TEXT_KINGMB107_04886_KOANA_000_002	Voy a salir hacia Earthenshire solo y desarmado, para que sea más creíble el papel de mercader indefenso. Si Wawkesa está mirando, seguramente va a esperar a un tramo tranquilo del camino antes de abordarme.
+TEXT_KINGMB107_04886_KOANA_000_003	Cuento con que me siga de cerca, sin dejarse ver hasta que llegue el momento de tenderle la trampa a nuestro rey de los bandidos. Solo recuerde: lo necesitamos vivo.
+TEXT_KINGMB107_04886_KOANA_000_010	Wawkesa <italic(1)>va<italic(0)> a decirnos qué hizo con Lamaty'i.
+TEXT_KINGMB107_04886_WAWKESA_000_011	Me dicen que los negocios le van bien, maestro mercader. ¿Qué tal si comparte algo de las ganancias?
+TEXT_KINGMB107_04886_WAWKESA_000_012	¡Y con "algo" me refiero a todas las monedas que tenga!
+TEXT_KINGMB107_04886_WAWKESA_000_013	T-Tú eres <if(gnum4,la coleccionista,el coleccionista)> de gemas... Ah, ya veo qué es esto. ¡Nos engañaron!
+TEXT_KINGMB107_04886_WAWKESA_000_014	¡Que te escupan en el ojo! ¡Muchachos, maten a estos vidraal!
+TEXT_KINGMB107_04886_KOANA_000_015	Alimaña escurridiza. Vamos a tener que interrogar a sus secuaces.
+TEXT_KINGMB107_04886_KOANA_000_016	Si fuera tan amable, <split(<string(gstr1)>, ,1)>. Le ruego que los deje en condiciones de hablar.
+TEXT_KINGMB107_04886_KOANA_000_020	L<if(gnum4,a,o)> ayudaría, pero por desgracia estoy desarmado.
+TEXT_KINGMB107_04886_HHETSARROTHIEF04885_000_500	Es demasiado fuerte...
+TEXT_KINGMB107_04886_SHETONATHIEF04885_000_501	¡Agh!
+TEXT_KINGMB107_04886_TONAWAWTATHIEF04885_000_501	Uf...
+TEXT_KINGMB107_04886_KOANA_000_030	Esperaba hablar con su jefe, pero supongo que ustedes tres van a tener que bastar.
+TEXT_KINGMB107_04886_SHETONATHIEF04885_000_031	Espera... ¡Ese es el Second Promise! ¿¡Qué quieres de nosotros!?
+TEXT_KINGMB107_04886_HHETSARROTHIEF04885_000_032	¿Crees que me asusta un título elegante? Me voy a llevar tus orejas reales de trofeo... ¡en cuanto me suelte de estas cuerdas!
+TEXT_KINGMB107_04886_KOANA_000_033	Sé que su banda está detrás del secuestro de mi hermana. Díganme dónde está.
+TEXT_KINGMB107_04886_SHETONATHIEF04885_000_034	¡Come mierda de alpaca, lamesal! ¡No vas a sacarnos ninguna respuesta!
+TEXT_KINGMB107_04886_HHETSARROTHIEF04885_000_035	¡Eso! ¡No somos tus sirvientes!
+TEXT_KINGMB107_04886_KOANA_000_036	<italic(1)>No jueguen conmigo.<italic(0)> ¿¡Dónde está Wuk Lamat!?
+TEXT_KINGMB107_04886_KOANA_000_037	Se me está acabando la paciencia. Hablen ahora o mueran. Ustedes eligen.
+TEXT_KINGMB107_04886_HHETSARROTHIEF04885_000_038	\<glup> N-Nos contrataron para agarrar a la Third Promise, nada más. No sabemos adónde se la llevaron...
+TEXT_KINGMB107_04886_KOANA_000_039	¿Contrataron? ¿Quién?
+TEXT_KINGMB107_04886_HHETSARROTHIEF04885_000_040	Eso tampoco nos lo dijeron. Solo lo sabe Wawkesa: él fue el que aceptó el trabajo.
+TEXT_KINGMB107_04886_KOANA_000_041	Bueno, parece que al final necesitábamos a su jefe.
+TEXT_KINGMB107_04886_KOANA_000_042	En cuanto arregle que la Landsguard se haga cargo de estos criminales, voy a llamar a Thancred y su habilidad para rastrear. ¿Pero quizás usted podría perseguir a Wawkesa mientras tanto?
+TEXT_KINGMB107_04886_KOANA_000_043	El bandido corría hacia el este. Si lo encuentra, le sugiero que lo siga sin enfrentarlo: puede que nos lleve hasta donde tienen a Lamaty'i.
+TEXT_KINGMB107_04886_KOANA_000_050	Vaya tras Wawkesa. Yo vigilo a estos malhechores hasta que la Landsguard pueda llevárselos.
+TEXT_KINGMB107_04886_SYSTEM_000_060	Sigue a Wawkesa a distancia. El objetivo fallará si te descubren o si te quedas demasiado atrás.
+TEXT_KINGMB107_04886_SYSTEM_100_060	Si tu objetivo empieza a mostrar el efecto de la imagen, te va a descubrir cuando se dé vuelta. Para que no te detecte en esos momentos, usa coberturas como rocas y árboles.
+TEXT_KINGMB107_04886_SYSTEM_110_060	El objetivo también fallará si lo sigues demasiado de cerca. No pierdas de vista a tu objetivo, pero evita entrar en el círculo de detección.
+TEXT_KINGMB107_04886_SYSTEM_000_061	Si no logras completar el objetivo, puedes volver a intentarlo regresando al lugar indicado.
+TEXT_KINGMB107_04886_Q1_000_000	¿Intentar seguir a Wawkesa?
+TEXT_KINGMB107_04886_WAWKESA_000_063	¡Por fin! Mi dinero, dámelo ya. ¡Puede que la Landsguard ya nos esté buscando!
+TEXT_KINGMB107_04886_HOOBIGOBAKOOLJAJAMINIONSA_000_064	(-Hoobigo sospechoso-)Cálmate. Nosotros también tuvimos nuestros problemas para encontrar un escondite adecuado.
+TEXT_KINGMB107_04886_WAWKESA_000_065	B-Bueno...
+TEXT_KINGMB107_04886_WAWKESA_000_066	Terminamos. ¡Toma tu premio y déjame fuera del resto!
+TEXT_KINGMB107_04886_HOOBIGOBAKOOLJAJAMINIONSA_000_067	(-Hoobigo sospechoso-)Cuánta hostilidad. Te hacía falta dinero, y te ofrecí un empleo bien pago por pura <italic(1)>bondad<italic(0)>.
+TEXT_KINGMB107_04886_WAWKESA_000_068	¿¡Bondad!? ¡Nos trajiste una tormenta negra encima!
+TEXT_KINGMB107_04886_WAWKESA_000_069	Con una mirada supe que <if(gnum4,esa mujer,ese hombre)> era <if(gnum4,una asesina. Una carnicera,un asesino. Un carnicero)>. Un demonio de ultramar en carne y hueso.
+TEXT_KINGMB107_04886_HOOBIGOBAKOOLJAJAMINIONSA_000_070	(-Hoobigo sospechoso-)Ay, ahórrate tus balidos de miedo. ¡Vamos! Escápate antes de que el mercenario aterrador venga a buscar tu cabeza.
+TEXT_KINGMB107_04886_THANCRED_000_071	(-Thancred-)Koana me contó. Encontraste al secuestrador, ¿entonces? ¿Cómo está la situación?
+TEXT_KINGMB107_04886_THANCRED_000_072	(-Thancred-)¿Y crees que a los bandidos los contrató ese Hoobigo?
+TEXT_KINGMB107_04886_THANCRED_000_073	(-Thancred-)Bien, cambio de estrategia. Olvídate de Wawkesa y sigue de cerca al Mamool Ja. No queremos poner en peligro a la Third Promise, así que mantén la distancia hasta estar seguros de que la tienen.
+TEXT_KINGMB107_04886_THANCRED_000_074	(-Thancred-)Te alcanzo en cuanto pueda.
+TEXT_KINGMB107_04886_SYSTEM_000_080	Sigue al Hoobigo a una distancia segura. El objetivo fallará si te descubren o si te quedas demasiado atrás.
+TEXT_KINGMB107_04886_SYSTEM_000_081	Si no logras completar el objetivo, puedes volver a intentarlo revisando el lugar indicado.
+TEXT_KINGMB107_04886_Q2_000_000	¿Intentar seguir al Hoobigo sospechoso?
+TEXT_KINGMB107_04886_KOANA_000_090	Puede que haya puesto el rescate de Lamaty'i por delante de mi propio avance, pero no crea que eso significa que abandoné la competencia.
+TEXT_KINGMB107_04886_KOANA_000_091	Ya sabe lo importante que es ella para mí. Pero, más allá de lo cercanos que somos, habría tomado la misma decisión.
+TEXT_KINGMB107_04886_KOANA_000_092	Al fin y al cabo, si no soy capaz de salvar a mi hermana y a la vez ganar el trono, no estoy a la altura del pesado manto de nuestro padre.
