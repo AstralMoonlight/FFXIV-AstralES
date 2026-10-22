@@ -108,7 +108,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | | | Raid de 8: Arcadion (Light-heavyweight, Cruiserweight, Heavyweight) | ![Pendiente][no] |
 | | | Raid de alianza (24): Echoes of Vana'diel | ![Pendiente][no] |
 | **Post Dawntrail** | 7.1–7.3 | Historia principal, de "A Royal Invitation" a "The Promise of Tomorrow" | ![Traducido][ok] |
-| | 7.4 en adelante | Historia principal, de "With the Winds" a "Windborne" | ![Pendiente][no] |
+| | 7.4 | Historia principal, de "With the Winds" a "Windborne" | ![Traducido][ok] |
 
 ## Cinemáticas con voz
 

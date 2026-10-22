@@ -1,0 +1,44 @@
+key	text
+TEXT_KINGML101_05475_SEQ_00	Tataru tiene un favor que pedirte.
+TEXT_KINGML101_05475_SEQ_01	Tras la revelación de Halmarut sobre el Solstice, tú y tus compañeros Scions se reunieron para decidir qué hacer. En un receso de las discusiones, Tataru te encarga encontrar al siempre escurridizo Estinien. Al parecer, hace poco vieron al dragoon en Ishgard, así que vas a la plaza del aetheryte de Foundation a esperarlo.
+TEXT_KINGML101_05475_SEQ_02	La información de Tataru resulta acertada, y Estinien no tarda en aparecer en la plaza del aetheryte. Le cuentas lo que pasó en Tural y en Alexandria, y acepta ir a las Rising Stones para saber más de la situación.
+TEXT_KINGML101_05475_SEQ_03	Después de agradecerte por traer de vuelta a Estinien, Tataru dice que lo va a poner al día antes de que los Scions vuelvan a reunirse. Mientras tanto, te pide que esperes en el Dawn's Respite.
+TEXT_KINGML101_05475_SEQ_04	Mientras los Scions discuten posibles formas de llegar al Fourth, G'raha Tia propone que imagines a Calyx y a Halmarut, como hiciste con Zero cuando hiciste aparecer el camino dorado al Thirteenth. Haces lo que te pide, y Ethos y el cristal de Azem empiezan a resonar y forman un portal delante de ti. Al acercarte, tienes visiones de una tierra cubierta de nieve y de una mujer parecida a Ysayle, y oyes una voz desconocida que llama antes de que todo se oscurezca.<br><br>Despiertas en una isla helada, en un cielo desconocido. Para colmo de la sorpresa, Alphinaud y Estinien están contigo: al parecer, el hechizo de teletransporte los arrastró también.<br><br>※Si sales de la zona, puedes volver desde el Dawn's Respite, en las Rising Stones.
+TEXT_KINGML101_05475_SEQ_05	Aunque no puedes estar <if(gnum4,segura,seguro)>, lo que te rodea parece coincidir con el Fourth encerrado en hielo que describió Calyx. Pero como no hay rastro ni de él ni de Halmarut, van a tener que orientarse solos en este extraño mundo nuevo.
+TEXT_KINGML101_05475_TODO_00	Busca a Estinien en el lugar indicado de Ishgard.
+TEXT_KINGML101_05475_TODO_01	Habla con Tataru en las Rising Stones.
+TEXT_KINGML101_05475_TODO_02	Habla con Tataru.
+TEXT_KINGML101_05475_TODO_03	Habla con Alphinaud.
+TEXT_KINGML101_05475_TATARU_000_001	¿Ya descansaste lo suficiente, <split(<string(gstr1)>, ,1)>? Qué bueno. Parece que todos ya se acomodaron, así que creo que estamos listos para retomar la discusión...
+TEXT_KINGML101_05475_TATARU_000_002	Pero antes tengo un favor que pedirte. Es sobre Estinien.
+TEXT_KINGML101_05475_TATARU_000_003	Según cierto Lord Comandante, a nuestro amigo desaparecido lo vieron hace muy poco en Ishgard.
+TEXT_KINGML101_05475_TATARU_100_003	¡Puede que sea nuestra mejor oportunidad de atraparlo! Por favor, <split(<string(gstr1)>, ,1)>, ¿no vas a la Holy See a buscarlo?
+TEXT_KINGML101_05475_TATARU_000_004	¡Gracias! Si lo esperas en la plaza del aetheryte, espero que lo veas pronto.
+TEXT_KINGML101_05475_ESTINIEN_000_100	<split(<string(gstr1)>, ,1)>... Si no te conociera, pensaría que esto es una coincidencia.
+TEXT_KINGML101_05475_ESTINIEN_000_101	¿Qué te trae de vuelta a Eorzea? ¿Todo bien en Tural?
+TEXT_KINGML101_05475_ESTINIEN_000_102	Así que la Sphene de verdad despertó, y después apareció este Calyx... Estuviste ocupad<if(gnum4,a,o)>.
+TEXT_KINGML101_05475_ESTINIEN_000_103	Igual que los nuevos Dawnservants. Parece que siguen dejando bien parado a su viejo.
+TEXT_KINGML101_05475_ESTINIEN_000_104	Con todo lo que pasó, lo natural habría sido que Tuliyollal y Alexandria siguieran enfrentadas.
+TEXT_KINGML101_05475_ESTINIEN_000_105	Pero en cambio se aceptaron mutuamente. Y es gracias a los que quisieron un futuro mejor y trabajaron por él.
+TEXT_KINGML101_05475_ESTINIEN_000_106	Ojo por ojo. Vida por vida. Así es el ciclo de la venganza.
+TEXT_KINGML101_05475_ESTINIEN_000_107	A Ishgard le llevó mil años liberarse de él.
+TEXT_KINGML101_05475_ESTINIEN_000_108	Si la herida entre los hombres y los dragones se hubiera cerrado antes, qué distinta habría sido la vida.
+TEXT_KINGML101_05475_ESTINIEN_000_109	Para mí y para mi familia. Para Aymeric y el arzobispo. Y también para Ysayle...
+TEXT_KINGML101_05475_ESTINIEN_000_110	No me hagas caso. Eran divagaciones, nada más.
+TEXT_KINGML101_05475_ESTINIEN_000_111	Acabo de ir a ver a Hraesvelgr para contarle lo de Azdaja. Quizá me dio un ataque de nostalgia.
+TEXT_KINGML101_05475_Q1_000_000	¿Qué vas a decir?
+TEXT_KINGML101_05475_A1_000_001	Así que por eso estabas desaparecido.
+TEXT_KINGML101_05475_A1_000_002	¿Dónde está tu linkpearl?
+TEXT_KINGML101_05475_ESTINIEN_000_112	¿Desaparecido? No exageremos. A lo sumo estaba "difícil de ubicar".
+TEXT_KINGML101_05475_ESTINIEN_000_113	¿Mi linkpearl? En algún lugar de mi mochila, supongo. No la toqué desde que la guardé.
+TEXT_KINGML101_05475_ESTINIEN_000_114	En fin, voy a ir a las Rising Stones. Ahí me puedes contar todo sobre nuestro nuevo dilema.
+TEXT_KINGML101_05475_ESTINIEN_000_115	Tataru está bastante quisquillosa. ¿Qué la tendrá molesta?
+TEXT_KINGML101_05475_TATARU_000_200	¡Ahí estás! ¡Muchísimas gracias por encontrar a Estinien!
+TEXT_KINGML101_05475_ESTINIEN_000_202	Hmph, no hace falta que te preocupes por mí como si fuera un niño perdido.
+TEXT_KINGML101_05475_TATARU_000_204	Aunque confiábamos en que estabas sano y salvo, sin <italic(1)>ninguna<italic(0)> respuesta no podíamos evitar preocuparnos. ¡De ahora en adelante, por favor, haz el esfuerzo de mantenerte en contacto!
+TEXT_KINGML101_05475_TATARU_000_205	Bueno, voy a tomarme un momento para poner a Estinien al día, y después vamos a volver a reunirnos para hablar del Solstice.
+TEXT_KINGML101_05475_TATARU_000_206	¡Por favor, espera en el Dawn's Respite hasta entonces!
+TEXT_KINGML101_05475_ESTINIEN_000_275	Por si te preocupa, a mí me viene perfecto estar aquí. Mucho mejor que quedarme atrás en alguna reunión interminable.
+TEXT_KINGML101_05475_ALPHINAUD_000_300	Hmm... No veo señales de Calyx ni de Halmarut.
+TEXT_KINGML101_05475_ALPHINAUD_000_301	Quizá se estén escondiendo, o simplemente no estén cerca. Pero sin lo que ellos saben, vamos a tener que orientarnos por nuestra cuenta.
+TEXT_KINGML101_05475_ALPHINAUD_000_302	Ánimo, <if(gnum4,amiga mía,amigo mío)>. Como antes, vamos a salir de esta. Paso a paso, a través del hielo y la nieve.

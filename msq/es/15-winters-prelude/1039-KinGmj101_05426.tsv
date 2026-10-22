@@ -1,0 +1,42 @@
+key	text
+TEXT_KINGMJ101_05426_SEQ_00	Alphinaud tiene algo que quiere contarte.
+TEXT_KINGMJ101_05426_SEQ_01	Con Calyx derrotado y sus planes deshechos, es hora de que tú y tus compañeros piensen en el futuro. Aunque sigue pendiente investigar la intromisión de los Ascians en la historia del Ninth, Y'shtola se ofrece a seguir trabajando con Shale para sacar a la luz los secretos que queden, y así Alphinaud y Alisaie pueden volver a sus esfuerzos por ayudar a la gente de Garlemald. Por una llamada repentina por linkpearl te enteras de que Erenville también partirá pronto hacia tierras lejanas, así que te apuras a ir al Backroom a buscar a Shale, que seguro querrá despedirse.
+TEXT_KINGMJ101_05426_SEQ_02	Encuentras a Shale justo donde esperabas: en su puesto del Backroom. Para sorpresa de tus compañeros, deja su trabajo sin mucho problema. Al parecer, los documentos que recuperaron del complejo de contención todavía necesitan tiempo para descifrarse, así que tiene libertad para ocuparse de asuntos personales, como despedir a un Viera de pocas palabras.
+TEXT_KINGMJ101_05426_SEQ_03	Llegas a High Tide Harbor y encuentras a Erenville resignado a su destino, aunque de todas formas protesta un poco por tener que soportar despedidas cariñosas. Ahora solo queda esperar a que Alphinaud y Alisaie se les unan.
+TEXT_KINGMJ101_05426_SEQ_04	Los que se quedan en Tural despiden de corazón a los que se van y les prometen volver a encontrarse. Mientras los ves partir, el barco que lleva a Erenville, Alphinaud y Alisaie se va achicando hasta ser un puntito en el horizonte, y luego desaparece por completo.
+TEXT_KINGMJ101_05426_SEQ_05	Todavía no está claro qué viene ahora, ni qué papel te toca en ello. Pero, por lo que parece, Krile tiene una idea...
+TEXT_KINGMJ101_05426_TODO_00	Habla con Shale en el Backroom.
+TEXT_KINGMJ101_05426_TODO_01	Habla con Erenville en High Tide Harbor.
+TEXT_KINGMJ101_05426_TODO_02	Espera en el punto de encuentro.
+TEXT_KINGMJ101_05426_TODO_03	Habla con Krile.
+TEXT_KINGMJ101_05426_YSHTOLA_000_001	Me dijeron que Shale es la nueva líder de Oblivion. No hay nadie mejor para continuar el legado de Cahciua y Geode.
+TEXT_KINGMJ101_05426_KRILE_000_002	Impulsivo como siempre, nuestro Alphinaud. Espero que lo haya pensado bien... sobre todo en lo que respecta a la furia de su hermana.
+TEXT_KINGMJ101_05426_KRILE_000_003	Ella sabrá muy bien que ninguna queja lo va a disuadir, pero eso no quiere decir que no le vaya a echar un buen sermón.
+TEXT_KINGMJ101_05426_GRAHATIA_000_004	Parece que pasó una eternidad desde la última vez que nos reunimos aquí.
+TEXT_KINGMJ101_05426_ORIGINALSPHENE_000_005	Me consuela saber que algunos de ustedes se van a quedar. ¡Me sentiría bastante sola si se fueran todos de golpe!
+TEXT_KINGMJ101_05426_SHALE_000_011	¿Qué novedades hay, <split(<string(gstr1)>, ,1)>? No creo que hayas traído a todo un séquito solo para saludar.
+TEXT_KINGMJ101_05426_SHALE_000_012	¿Tan apurados están por irse?
+TEXT_KINGMJ101_05426_SHALE_000_013	Voy con ustedes. Después de todo, les debo las gracias en nombre de Oblivion.
+TEXT_KINGMJ101_05426_YSHTOLA_000_014	Y yo que pensaba que ibas a protestar por tener que dejar tu trabajo.
+TEXT_KINGMJ101_05426_SHALE_000_015	Tengo curiosidad por ver qué sale cuando estén todas las piezas del rompecabezas en su lugar, pero la mayoría de los archivos que desenterramos están cifrados. No hay mucho más que pueda hacer hasta que la computadora termine con ellos.
+TEXT_KINGMJ101_05426_SHALE_000_016	...Además, a diferencia de nuestros amigos, el Containment Complex 10-29 no se va a ir a ninguna parte.
+TEXT_KINGMJ101_05426_YSHTOLA_000_017	O sea que no vamos a tener respuestas <if([gnum11<12],<if([gnum11<4],esta noche,hoy)>,<if([gnum11<17],hoy,esta noche)>)>, ¿no?
+TEXT_KINGMJ101_05426_SHALE_000_018	Me temo que no. Todavía falta un buen rato.
+TEXT_KINGMJ101_05426_ORIGINALSPHENE_000_019	¿Entonces partimos ya hacia Tuliyollal? Hasta la fuerza de Lamaty'i tiene sus límites...
+TEXT_KINGMJ101_05426_GRAHATIA_000_020	¡Pues no perdamos más tiempo!
+TEXT_KINGMJ101_05426_YSHTOLA_000_031	Por mucho que proteste, dudo que Alisaie nos haga esperar demasiado.
+TEXT_KINGMJ101_05426_KRILE_000_032	Raha parece preocupado por un asunto de gran importancia. Quizá esté pensando en rezarle a Llymlaen para que tengan un viaje seguro.
+TEXT_KINGMJ101_05426_GRAHATIA_000_033	¿Qué tacos debería comprar a la vuelta? El aroma es demasiado tentador como para ignorarlo...
+TEXT_KINGMJ101_05426_ORIGINALSPHENE_000_034	Da gusto mirar Tuliyollal. Cuelgan telas estampadas donde nosotros pondríamos neón, pero la ciudad no se siente menos brillante.
+TEXT_KINGMJ101_05426_WUKLAMAT_000_035	Koana y Gulool Ja no pudieron venir, pero los dos mandan saludos.
+TEXT_KINGMJ101_05426_SHALE_000_036	Ojalá tuviéramos algo de esta brisa marina dentro de la cúpula. Quizá podríamos simularla, pero nada reemplaza a la de verdad.
+TEXT_KINGMJ101_05426_ERENVILLE_000_041	Ojalá no armaran tanto alboroto... No me gustan las despedidas emotivas.
+TEXT_KINGMJ101_05426_ERENVILLE_000_042	Por lo menos Alphinaud y Alisaie tuvieron la consideración de avisarme sus planes con tiempo por linkpearl. <italic(1)>Algunos<italic(0)> que conocemos habrían salido de un cajón en medio del viaje...
+TEXT_KINGMJ101_05426_ERENVILLE_000_043	En fin, voy a esperar aquí hasta que terminen de prepararse.
+TEXT_KINGMJ101_05426_ERENVILLE_000_051	Va a ser agradable tener algo de compañía en el viaje de vuelta.
+TEXT_KINGMJ101_05426_YSHTOLA_000_061	Con tantos encuentros y separaciones, pocas veces tenemos la oportunidad de despedirnos como se debe. Fue agradable tomarse el tiempo para hacerlo.
+TEXT_KINGMJ101_05426_GRAHATIA_000_062	Aunque disfruto de la compañía, los viajes en solitario también tienen su encanto. Y viajar por mar <italic(1)>sí<italic(0)> que relaja...
+TEXT_KINGMJ101_05426_ORIGINALSPHENE_000_063	Con Alisaie y Alphinaud difundiendo noticias de Alexandria, pronto vamos a tener la oportunidad de establecer relaciones con otras naciones. Tengo que prepararme para tratar con sus líderes.
+TEXT_KINGMJ101_05426_SHALE_000_064	Me alegra haber podido despedirlo. A Cahciua también le alegraría.
+TEXT_KINGMJ101_05426_KRILE_000_071	Ahora nos toca a nosotros dar el siguiente paso.
+TEXT_KINGMJ101_05426_KRILE_000_072	La pregunta es en qué dirección, y eso es algo que me gustaría hablar contigo.
