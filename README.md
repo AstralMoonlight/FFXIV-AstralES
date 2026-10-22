@@ -112,7 +112,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 
 ## Cinemáticas con voz
 
-Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino en hojas aparte, una o más por parche. Por eso se ven en inglés aunque la historia de esa expansión esté traducida. Las cinemáticas de A Realm Reborn 2.0 sí están dentro de cada misión y ya salen en español.
+Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino en hojas aparte, una o más por parche. Por eso se ven en inglés aunque la historia de esa expansión esté traducida. En un parche a medias, la columna de líneas muestra traducidas / total. Las cinemáticas de A Realm Reborn 2.0 sí están dentro de cada misión y ya salen en español.
 
 | Expansión | Parche | Líneas | Estado |
 |---|---|---|---|
@@ -132,7 +132,7 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 |  | 4.3 | 251 | ![Traducido][ok] |
 |  | 4.4 | 341 | ![Traducido][ok] |
 |  | 4.5–4.56 | 475 | ![Traducido][ok] |
-| **Shadowbringers** | 5.0 | 3.106 | ![Pendiente][no] |
+| **Shadowbringers** | 5.0 | 1.184 / 3.106 | ![En curso][wip] |
 | **Post Shadowbringers** | 5.1 | 296 | ![Pendiente][no] |
 |  | 5.2 | 408 | ![Pendiente][no] |
 |  | 5.3 | 647 | ![Pendiente][no] |
