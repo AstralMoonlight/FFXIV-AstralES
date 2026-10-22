@@ -98,7 +98,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | | | Primals: The Four Lords (Byakko, Suzaku, Seiryu) | ![Traducido][ok] |
 | **Shadowbringers** | 5.0 | Historia principal, de "The Syrcus Trench" a "Shadowbringers" | ![Traducido][ok] |
 | | | Raid de 8: Eden (Gate, Verse, Promise) | ![Traducido][ok] |
-| | | Raid de alianza (24): YoRHa: Dark Apocalypse | ![Pendiente][no] |
+| | | Raid de alianza (24): YoRHa: Dark Apocalypse | ![Traducido][ok] |
 | **Post Shadowbringers** | 5.1–5.55 | Historia principal, de "Shaken Resolve" a "Death Unto Dawn" | ![Traducido][ok] |
 | **Endwalker** | 6.0 | Historia principal, de "The Next Ship to Sail" a "Endwalker" | ![Traducido][ok] |
 | | | Raid de 8: Pandæmonium (Asphodelos, Abyssos, Anabaseios) | ![Traducido][ok] |
