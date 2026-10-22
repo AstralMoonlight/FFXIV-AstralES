@@ -1,0 +1,50 @@
+key	text
+TEXT_KINGRA104_04963_SEQ_00	Yaana tiene ganas de cambiar de aire.
+TEXT_KINGRA104_04963_SEQ_01	Apenas sales por las puertas del Arcadion, te rodea una multitud con ganas de elogiar, y de burlarse, de quien se hizo un nombre tan rápido. Pero Yaana tampoco pasa desapercibida: un fan descontento la abuchea por andar con quien la derrotó, y en cambio canta con nostalgia las alabanzas de su hermana, Wicked Thunder. Como el acoso de la multitud no tiene fin, tú y Yaana echan a correr para escabullirse. Al final llegan a la entrada de Tritails Training.
+TEXT_KINGRA104_04963_SEQ_02	Adentro conoces a Neyuni, la hermana menor de Yaana, una niña muy madura para su edad. Las dos te cuentan que sus padres eran cazadores que murieron en una de sus expediciones, y que por eso su hermana mayor, Eutrope, se hizo cargo de ellas. Entró al Arcadion, se hizo luchadora, subió en el ranking y llegó al peso pesado, solo para desaparecer de repente un día, justo antes de que la inmortalizaran. Después de mostrarte un poco de su pasado, Yaana te avisa que tu próximo combate está cerca, y vuelves al Arcadion.<br><br>※Si sales de la zona, puedes volver hablando con el empleado del Arcadion frente al Arcadion.
+TEXT_KINGRA104_04963_SEQ_03	Yaana está feliz de empezar a hacer de segundo. Tu combate contra el campeón del peso semipesado está cerca, y solo te queda esperar estar list<if(gnum4,a,o)>.
+TEXT_KINGRA104_04963_TODO_00	Habla con Yaana.
+TEXT_KINGRA104_04963_TODO_01	Habla con Yaana en el camerino.
+TEXT_KINGRA104_04963_YAANA_000_000	Bien, sígueme. El gimnasio no queda muy lejos de aquí.
+TEXT_KINGRA104_04963_EXCITABLEMAN_000_100	¡Oye, ¿tú no eres <split(<string(gstr1)>, ,1)>, <if(gnum4,la luchadora,el luchador)> que no usa regulador?!
+TEXT_KINGRA104_04963_EXCITABLEMAN_000_101	No solo pelear, sino <italic(1)>ganar<italic(0)> sin usar un alma feral... ¡Eres increíble! ¡De ahora en adelante te voy a alentar!
+TEXT_KINGRA104_04963_EXCITABLEBOY_000_102	¡Me sorprendí tanto cuando te vi en el ring! ¡Eres <if(gnum4,la heroína,el héroe)> que nos protegió de los soldados!
+TEXT_KINGRA104_04963_EXCITABLEBOY_000_103	¡Desde entonces soy tu fan número uno! ¡Vas a ganar tu próximo combate también, estoy seguro!
+TEXT_KINGRA104_04963_NERVOUSYOUTH_000_104	¡<if(gnum4,Desalmada,Desalmado)>! ¡¿Cómo te atreves a humillar así a nuestra dulce Honey B.?! ¡Te odio!
+TEXT_KINGRA104_04963_UNCOUTHMAN_000_105	¡Disfruta mientras puedas, novat<if(gnum4,a,o)>! En tu próximo combate vas a estar rogando piedad...
+TEXT_KINGRA104_04963_GABBRO_000_106	(-Caballero afable-)Vaya, los fans están bastante alterados hoy. Entiendo que necesiten desahogarse, pero ojalá encontraran formas más productivas de usar esa energía.
+TEXT_KINGRA104_04963_GABBRO_000_107	(-Caballero afable-)Ah, pero discúlpame. Soy algo así como un narrador de historias, y tengo mucho interés en ver cómo se desarrolla este campeonato. Cuando tengas un momento, me encantaría hacerte unas preguntas.
+TEXT_KINGRA104_04963_DISSATISFIEDMAN_000_108	¡Espera, tú eres Black Cat! ¡¿Qué haces andando con <if(gnum4,la chica,el tipo)> que te acaba de ganar?!
+TEXT_KINGRA104_04963_DISSATISFIEDMAN_000_109	¡Seguro por eso perdiste: no tienes orgullo! Hmph, prefiero mil veces ver pelear a tu hermana. ¡Nadie daba un espectáculo como Wicked Thunder!
+TEXT_KINGRA104_04963_YAANA_000_110	Esto no se acaba más. Salgamos de aquí.
+TEXT_KINGRA104_04963_YAANA_000_111	Parece que logramos escabullirnos. Vamos, el gimnasio está aquí nomás.
+TEXT_KINGRA104_04963_YAANA_000_120	Y aquí está. ¡Tritails Training, el hogar de los mejores luchadores de Alexandria! Aunque, la verdad, por ahora soy la única aquí...
+TEXT_KINGRA104_04963_YAANA_000_121	También es mi casa. En el primer piso vivo, y en el sótano entreno. ¡No seas tímid<if(gnum4,a,o)>, pasa y ponte cómod<if(gnum4,a,o)>!
+TEXT_KINGRA104_04963_NEYUNI_000_200	¡Es un placer conocerl<if(gnum4,a,o)>, <if(gnum4,señorita,señor)>! Me llamo Neyuni. ¡Muchas gracias por cuidar a mi hermana!
+TEXT_KINGRA104_04963_YAANA_000_201	¿Le agradeces que me haya noqueado?
+TEXT_KINGRA104_04963_YAANA_000_202	En fin, como habrás deducido, tengo dos hermanas. Y aunque ya no están, nuestros padres eran de Tural.
+TEXT_KINGRA104_04963_NEYUNI_000_203	Justo estaban en Yyasulani cuando apareció la cúpula, y quedaron atrapados.
+TEXT_KINGRA104_04963_NEYUNI_000_204	Aquí trabajaron como cazadores, pero siempre se opusieron a los reguladores y nunca los usaron. Y un día salieron y no volvieron más...
+TEXT_KINGRA104_04963_YAANA_000_205	A decir verdad, me interesé en ti porque me recordabas a nuestros padres. Como ellos, te niegas a usar almas.
+TEXT_KINGRA104_04963_YAANA_000_206	Nosotras, en cambio, no le vemos tanto problema. Así que, por insistencia de nuestra hermana, empezamos a usar reguladores después de que murieron papá y mamá.
+TEXT_KINGRA104_04963_YAANA_000_207	Si todavía podemos recordarlos es solo porque no llevaban reguladores cuando murieron. Si eso es mejor o peor para nosotras, no lo sé...
+TEXT_KINGRA104_04963_NEYUNI_000_208	Yo era muy chica para entenderlo cuando pasó, pero mis hermanas me contaron la historia. Por eso, cuando lo veo pelear, no puedo evitar ponerme nerviosa.
+TEXT_KINGRA104_04963_NEYUNI_000_209	<split(<string(gstr1)>, ,1)>, se lo digo sabiendo lo que piensa, pero ¿no consideraría usar un regulador en los combates? Aunque sea para revivir si pasa lo peor.
+TEXT_KINGRA104_04963_YAANA_000_210	Me temo que no se le puede cambiar la opinión a nadie cuando se trata del uso de las almas, Neyuni. Es cuestión de cultura y de crianza.
+TEXT_KINGRA104_04963_YAANA_000_211	Pero en vez de hablar de esas cosas...
+TEXT_KINGRA104_04963_YAANA_000_212	¡Hay que celebrar! Ya ganaste dos combates del campeonato, <split(<string(gstr1)>, ,1)>: ¡esto amerita un brindis! Solo tenemos tónicos energéticos, pero lo que cuenta es la intención, ¿no?
+TEXT_KINGRA104_04963_NEYUNI_000_213	¿Vas a celebrar aunque perdiste...?
+TEXT_KINGRA104_04963_YAANA_000_214	Bueno, después de lo que dijo ese fan tan <italic(1)>encantador<italic(0)> allá afuera, supongo que tienes curiosidad por mi hermana.
+TEXT_KINGRA104_04963_YAANA_000_215	Se llama Eutrope, y llegó a ser una de las mejores aspirantes del peso pesado. Se hizo luchadora sobre todo para cuidarnos a Neyuni y a mí, pero resultó que era excelente.
+TEXT_KINGRA104_04963_YAANA_000_216	No es de extrañar, supongo. Siempre destacaba en todo lo que se proponía. Tenía un talento natural para el combate y, encima, dominaba el uso del electrope.
+TEXT_KINGRA104_04963_NEYUNI_100_216	Espere, tengo justo lo que hace falta.
+TEXT_KINGRA104_04963_NEYUNI_000_217	Su nombre de ring era Wicked Thunder. Combinaba el alma del corcel de rayo con el electrope, y podía cambiar de forma para adaptarse a sus enemigos en combate.
+TEXT_KINGRA104_04963_YAANA_000_218	Confío bastante en lo que puedo hacer, porque la misma Eutrope me enseñó a pelear, pero nunca podría imitar su estilo.
+TEXT_KINGRA104_04963_YAANA_000_219	El asunto es que un día desapareció sin más, sin decirnos ni una palabra.
+TEXT_KINGRA104_04963_NEYUNI_000_220	Y le faltaba tan poco para ser inmortalizada.
+TEXT_KINGRA104_04963_YAANA_000_221	Cierto, tú no lo sabes. Todos los luchadores del Arcadion se retiran jóvenes. La transfiguración con almas ferales es una carga demasiado pesada para el cuerpo.
+TEXT_KINGRA104_04963_YAANA_000_222	Los que pelean hasta los veinte años quedan inmortalizados en el Ascension Arcadia Hall of Fame. Eso viene con el privilegio de mudarse a las residencias de lujo del nivel superior de Everkeep, donde pueden pasar el resto de sus días con comodidad.
+TEXT_KINGRA104_04963_YAANA_000_223	Eutrope tiró todo eso por la borda cuando desapareció. No logro entender por qué...
+TEXT_KINGRA104_04963_YAANA_000_224	Pero basta de recuerdos por ahora. Tu próximo combate no debe tardar, así que volvamos al Arcadion.
+TEXT_KINGRA104_04963_NEYUNI_000_225	¡Suerte, <split(<string(gstr1)>, ,1)>! Y, por favor, tenga cuidado...
+TEXT_KINGRA104_04963_YAANA_000_240	¡Allá vamos, <split(<string(gstr1)>, ,1)>! ¡Voy a dar lo mejor de mí para apoyarte como tu segundo!

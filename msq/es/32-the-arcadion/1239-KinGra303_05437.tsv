@@ -1,0 +1,71 @@
+key	text
+TEXT_KINGRA303_05437_SEQ_00	Parece que Yaana tiene algo en mente.
+TEXT_KINGRA303_05437_SEQ_01	Yaana te avisa que los preparativos para tu segundo combate todavía no están listos y te propone volver mientras tanto a su gimnasio. Con un poco de suerte, Retsarra ya los estará esperando con novedades sobre el rescate.
+TEXT_KINGRA303_05437_SEQ_02	Al llegar encuentras al niño que quería entrar al gimnasio, que te avisa entre lágrimas que destrozaron el lugar por completo. Entras corriendo y enseguida encuentras a los culpables: un dúo de lucha en pareja conocido como los Xtremes. Al poco rato entra Metem con cámaras y anuncia que serán tus próximos rivales. Recién cuando todos se van aparece por fin Retsarra. Te cuenta que avanzó con el rescate y encontró una pista sobre dónde están Neyuni y Eutrope. Durante tu próximo combate, él y los demás piensan intentar el rescate. Con la idea de dar un buen espectáculo y mantener la atención sobre ti mientras tus compañeros trabajan en las sombras, vuelves al camerino.
+TEXT_KINGRA303_05437_SEQ_03	Yaana te presenta a los Xtremes, atletas profesionales que surfean las olas de la piscina de olas artificial de Solution Nine. El dinámico dúo usa las almas de buceadores de tormenta, que les dan la capacidad de manipular el agua y el fuego, respectivamente. Para ganar vas a tener que adaptarte a los cambios repentinos y violentos de los elementos, y a las devastadoras maniobras coordinadas de una pareja radical.<br><br>※Puedes acceder a AAC Heavyweight M2 desde el Duty Finder.
+TEXT_KINGRA303_05437_SEQ_04	Dominas las olas de fuego y de agua y hundes al dúo surfista. Aunque fueron por ti juntos, los Xtremes no hacían pie contra ti. Sin duda Yaana va a querer celebrar contigo esta victoria, y por más de un motivo.<br><br>※Si sales de la zona, puedes volver hablando con el empleado del Arcadion frente al Arcadion.
+TEXT_KINGRA303_05437_SEQ_05	Yaana te recibe con una sonrisa de satisfacción, saboreando la lección de humildad que les diste a los Xtremes. Con una victoria más en tu haber, solo queda el campeón absoluto.
+TEXT_KINGRA303_05437_TODO_00	Habla con Yaana en Tritails Training.
+TEXT_KINGRA303_05437_TODO_01	Habla con Yaana en el camerino.
+TEXT_KINGRA303_05437_TODO_02	Completa AAC Heavyweight M2.
+TEXT_KINGRA303_05437_TODO_03	Habla con Yaana.
+TEXT_KINGRA303_05437_YAANA_000_000	Bueno, hay un poco de tiempo antes de tu próximo combate. Es porque tu rival iba a ser nada menos que Wicked Thunder, Eutrope.
+TEXT_KINGRA303_05437_YAANA_000_001	Por razones que conocemos de sobra, tienen que buscar un reemplazo, y todavía no decidieron quién.
+TEXT_KINGRA303_05437_YAANA_000_002	Así que volvamos al gimnasio por ahora. Con un poco de suerte, Retsarra avanzó con el rescate.
+TEXT_KINGRA303_05437_EXCITABLEBOY_000_010	\<sollozo> \<snif>
+TEXT_KINGRA303_05437_EXCITABLEFATHER_000_011	Q-Qué espanto...
+TEXT_KINGRA303_05437_YAANA_000_020	Es el niño de antes... ¿Qué le pasará?
+TEXT_KINGRA303_05437_YAANA_000_021	Oye, oye. ¿Qué pasa?
+TEXT_KINGRA303_05437_EXCITABLEBOY_000_022	\<sollozo> S-Su gimnasio... Lo destrozaron...
+TEXT_KINGRA303_05437_YAANA_000_023	¡¿Q-Qué?!
+TEXT_KINGRA303_05437_YAANA_000_100	¿Q-Quién...? ¿Por qué...?
+TEXT_KINGRA303_05437_DEEPBLUE_000_101	(-???-)Hola, gatita. Nos pusimos cómodos mientras no estabas.
+TEXT_KINGRA303_05437_YAANA_000_102	¡¿Ustedes hicieron esto?!
+TEXT_KINGRA303_05437_DEEPBLUE_000_103	(-Chico engreído-)Oímos que aquí paraba <if(gnum4,la novata,el novato)> sin potenciar, así que decidimos pasar a saludar.
+TEXT_KINGRA303_05437_METEM_000_104	¡¿Qué tenemos aquí?! ¡Es el dinámico dúo que arrasó en los combates por parejas: los Xtremes! ¡¿Serán los próximos rivales de <split(<string(gstr1)>, ,1)>?!
+TEXT_KINGRA303_05437_METEM_000_105	Pero <if(gnum4,la guerrera sin potenciar,el guerrero sin potenciar)> es especialista en combates individuales, así que supongo que se enfrentará a uno solo de ellos.
+TEXT_KINGRA303_05437_METEM_000_106	¿Qué hermano subirá al ring? ¿El mayor, el frío y sereno Deep Blue? ¿O el menor, el feroz y ardiente Red Hot?
+TEXT_KINGRA303_05437_DEEPBLUE_000_107	Vamos a ser los dos, por supuesto. No trabajamos de otra forma. Pero tranquil<if(gnum4,a,o)>: vamos a ir turnándonos, así que va a ser una pelea justa.
+TEXT_KINGRA303_05437_DEEPBLUE_000_108	Te parece bien, ¿no?
+TEXT_KINGRA303_05437_Q1_000_000	¿Qué vas a decir?
+TEXT_KINGRA303_05437_A1_000_001	Me parece bien.
+TEXT_KINGRA303_05437_A1_000_002	Vengan los dos juntos si quieren. Es la única forma de que ganen.
+TEXT_KINGRA303_05437_A1_000_003	...
+TEXT_KINGRA303_05437_YAANA_000_109	Por favor. Todo el mundo sabe que van a romper las reglas e ir juntos contra <split(<string(gstr1)>, ,1)>.
+TEXT_KINGRA303_05437_DEEPBLUE_000_110	Vamos, no caeríamos tan bajo. ¿Verdad, hermano?
+TEXT_KINGRA303_05437_DEEPBLUE_100_110	Mucho hablar, <if(gnum4,figurita,figurón)>, pero no romperíamos las reglas. ¿Verdad, hermano?
+TEXT_KINGRA303_05437_REDHOT_000_111	¿No? Pero si siempre...
+TEXT_KINGRA303_05437_DEEPBLUE_000_112	¡N-No! ¡No lo haríamos!
+TEXT_KINGRA303_05437_REDHOT_000_113	Ah, ¿era un secreto?
+TEXT_KINGRA303_05437_DEEPBLUE_000_114	Uf... Ni una palabra más.
+TEXT_KINGRA303_05437_DEEPBLUE_000_115	Hasta ahora te fue bien, novat<if(gnum4,a,o)>, pero en nuestras olas no la vas a tener tan fácil. Te vas a dar un revolcón, y uno bien fuerte.
+TEXT_KINGRA303_05437_METEM_000_116	...Y ahí lo tienen: tus próximos rivales. Por favor, prepárate y ven al camerino. Y... lamento este desastre espantoso. No pude hacer nada para impedirlo.
+TEXT_KINGRA303_05437_YAANA_000_117	Me temo que no es buen momento para recorrer el lugar. ¿Les molestaría volver cuando haya arreglado todo?
+TEXT_KINGRA303_05437_YAANA_000_118	Esos desgraciados sí que hicieron destrozos...
+TEXT_KINGRA303_05437_YAANA_000_119	¡E-Espera, ¿dónde están los gatitos?!
+TEXT_KINGRA303_05437_THEHOWLINGBLADE_000_120	Están a salvo, por suerte. Sintieron el peligro y huyeron arriba.
+TEXT_KINGRA303_05437_THEHOWLINGBLADE_000_121	En realidad llegué antes y los vi hacerlo. Estaba furioso y quería detenerlos, pero temí llamar la atención del presidente. Perdónenme...
+TEXT_KINGRA303_05437_THEHOWLINGBLADE_000_122	Tengo noticias: encontramos una pista prometedora sobre dónde están Neyuni y Eutrope.
+TEXT_KINGRA303_05437_YAANA_000_123	¡¿De verdad?!
+TEXT_KINGRA303_05437_THEHOWLINGBLADE_000_123	Uno de los fans más devotos de Honey es empleado de Ascension Arcadia, y nos reveló los detalles de la seguridad del complejo de la empresa.
+TEXT_KINGRA303_05437_THEHOWLINGBLADE_000_124	Gracias a él, ahora sabemos que justo después de que secuestraran a tus hermanas, curiosamente duplicaron la guardia en cierta zona.
+TEXT_KINGRA303_05437_THEHOWLINGBLADE_000_125	Según Green, es un salón de recepción lujoso que usan para atender a invitados importantes. Lo más probable es que tengan allí a las chicas.
+TEXT_KINGRA303_05437_THEHOWLINGBLADE_000_126	Aunque la seguridad es estricta, tenemos un plan para abrir una brecha y rescatarlas. Sugar va a usar su magia para armar un alboroto, y yo voy a aprovecharlo para colarme.
+TEXT_KINGRA303_05437_YAANA_000_127	Es una estrategia bastante audaz... ¡Pero confío en que pueden lograrlo!
+TEXT_KINGRA303_05437_YAANA_000_128	Vamos a llevar a cabo la misión durante tu próximo combate. Si haces lo que mejor sabes hacer y das un buen espectáculo, la atención que atraigas hacia el ring solo va a ayudar a nuestra causa.
+TEXT_KINGRA303_05437_THEHOWLINGBLADE_000_129	Así que... tu próximo rival son los Xtremes.
+TEXT_KINGRA303_05437_THEHOWLINGBLADE_100_129	Me recuerda a cuando yo peleaba en pareja con Hector, cuando todavía éramos novatos sin nombre.
+TEXT_KINGRA303_05437_YAANA_000_130	¡¿Qué?! ¿Cómo es que nunca supe de esto?
+TEXT_KINGRA303_05437_THEHOWLINGBLADE_000_131	Nuestro movimiento estrella era la "Ultimate Megaboom Kick". Hector me envolvía en llamas y me lanzaba volando contra los rivales. No solo se veía impresionante, también pegaba fuerte, y nunca mejor dicho.
+TEXT_KINGRA303_05437_THEHOWLINGBLADE_000_132	Por desgracia casi no atraíamos público, así que la dirección disolvió el equipo. En esa época todavía estábamos buscando nuestro lugar...
+TEXT_KINGRA303_05437_THEHOWLINGBLADE_000_133	Pero volviendo al presente: como todas las parejas, los Xtremes van a lanzar poderosos ataques coordinados. Ten cuidado cuando los enfrentes.
+TEXT_KINGRA303_05437_YAANA_000_134	Bueno, supongo que mejor vamos al camerino. El desorden puede esperar...
+TEXT_KINGRA303_05437_YAANA_000_200	Bien, veamos más de cerca a tus rivales.
+TEXT_KINGRA303_05437_YAANA_000_201	Red Hot y Deep Blue, que forman la popular pareja de lucha, los Xtremes.
+TEXT_KINGRA303_05437_YAANA_000_202	En principio son surfistas profesionales que se hicieron famosos con sus hazañas en la piscina de olas artificial de Solution Nine.
+TEXT_KINGRA303_05437_YAANA_000_203	Los hermanos aprovechan las almas de buceadores de tormenta, grandes lagartos capaces de manipular los elementos, para hacer técnicas peligrosas. Como seguro adivinas, Deep Blue domina el agua y Red Hot maneja las llamas.
+TEXT_KINGRA303_05437_YAANA_000_204	Digo "hermanos", pero es obvio que no son de la misma sangre. Es solo parte de su personaje. Dicho eso, forman un equipo temible. Como dijo Retsarra, vas a tener que estar list<if(gnum4,a,o)> para sus ataques coordinados.
+TEXT_KINGRA303_05437_YAANA_000_205	Cuando termines con ellos, vas a estar a un solo combate de ser <if(gnum4,campeona absoluta,campeón absoluto)>. ¡Así que sal ahí y dales su merecido a esos destrozagimnasios! ¡Ya veremos quién se da el revolcón!
+TEXT_KINGRA303_05437_YAANA_000_210	A los hermanos les encanta hacer acrobacias escandalosas, y una vez gastaron tantas almas para revivir que los criticaron por todos lados por derrochar recursos. Lo digo para insistir en que tengas cuidado. Su temeridad los hace todavía más peligrosos.
+TEXT_KINGRA303_05437_YAANA_000_220	¡Lo hiciste otra vez, <split(<string(gstr1)>, ,1)>! ¡Ni juntos pudieron los hermanos contigo!
+TEXT_KINGRA303_05437_YAANA_000_221	Je, je, ver cómo les bajabas los humos a esos matones engreídos me alegró el día. ¡Se lo merecen por destrozar mi gimnasio!

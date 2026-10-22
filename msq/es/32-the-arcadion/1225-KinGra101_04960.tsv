@@ -1,0 +1,60 @@
+key	text
+TEXT_KINGRA101_04960_SEQ_00	El desconocido elegante mira a su alrededor con entusiasmo.
+TEXT_KINGRA101_04960_SEQ_01	Mientras caminas por la avenida, no puedes evitar fijarte en un hombre vestido con elegancia que se anima al verte. Se presenta como Metem y te explica que representa a Ascension Arcadia, la principal empresa de entretenimiento de la ciudad, cuyo establecimiento insignia es el Arcadion. Dice que buscaba a su próxima estrella, es decir, a ti, para que participes en el Ascension Arcadia Championship. Si te interesa saber más, te pide que vayas a las puertas del Arcadion, donde un empleado te llevará al camerino.
+TEXT_KINGRA101_04960_SEQ_02	Aunque todavía no sabes bien qué pensar de Metem, la idea de participar en el campeonato te tienta. Así que vas al Arcadion y le haces una seña al empleado que te espera para que te lleve adentro.<br><br>※Si sales de la zona, puedes volver hablando con el empleado del Arcadion frente al Arcadion.
+TEXT_KINGRA101_04960_SEQ_03	Metem te cuenta que cada luchador del Ascension Arcadia Championship usa almas ferales para aumentar su fuerza, y que las tres categorías de la competencia se dividen según la potencia de las almas que se usan: la de peso semipesado es la más baja, le sigue la de peso crucero y la más alta es la de peso pesado. Tu objetivo es subir en el ranking derrotando a los campeones de cada categoría hasta convertirte en <if(gnum4,la campeona absoluta,el campeón absoluto)>. Para que los combates sean justos, Metem exige que las almas de siete luchadores te acompañen en la batalla. Si ganas tus combates, promete liberarlas.
+TEXT_KINGRA101_04960_SEQ_04	Ya con las reglas bien explicadas, y con la meta de liberar las almas guardadas en el depósito, decides aceptar la propuesta de Metem. Cuando estés list<if(gnum4,a,o)> para enfrentar a tu primer rival, solo tienes que hablar con él.
+TEXT_KINGRA101_04960_TODO_00	Habla con el empleado del Arcadion.
+TEXT_KINGRA101_04960_TODO_01	Habla con el empleado del Arcadion.
+TEXT_KINGRA101_04960_TODO_02	Habla con Metem.
+TEXT_KINGRA101_04960_METEM_000_000	¡Ah, por fin te encuentro!
+TEXT_KINGRA101_04960_METEM_000_001	¡Tú, <if(gnum4,mi querida dama,mi buen señor)>, <italic(1)>naciste<italic(0)> para ser una estrella!
+TEXT_KINGRA101_04960_METEM_000_002	(-Metem-)Permíteme presentarme. Soy Metem, director de gestión estratégica de Ascension Arcadia, la principal empresa de entretenimiento de Solution Nine.
+TEXT_KINGRA101_04960_METEM_000_003	(-Metem-)Nuestro establecimiento insignia es el Arcadion, una arena de combate, y es allí donde celebramos el Ascension Arcadia Championship. Es la cumbre para los luchadores de Alexandria, ¡y quiero que tú estés entre ellos!
+TEXT_KINGRA101_04960_METEM_000_004	(-Metem-)Como quizá sepas, las circunstancias nos obligaron a cerrar las puertas de la arena por un tiempo. Pero llegó el momento de volver a abrirlas.
+TEXT_KINGRA101_04960_METEM_000_005	(-Metem-)El trágico fallecimiento de Su Majestad dejó a nuestros ciudadanos desconsolados. Con un entretenimiento que los atrape, esperamos ayudarlos a olvidar sus penas por un rato.
+TEXT_KINGRA101_04960_METEM_000_006	(-Metem-)Pero para lograrlo no sirve mostrarles lo que ya vieron infinidad de veces. No, necesitan algo nuevo... ¡<italic(1)>alguien<italic(0)> nuevo!
+TEXT_KINGRA101_04960_METEM_000_007	(-Metem-)¿Y quién mejor que <if(gnum4,la que,el que)> no solo protegió a nuestros ciudadanos del ejército del rey, sino que derribó al mismísimo rey? ...Porque <italic(1)>fuiste<italic(0)> tú, ¿verdad?
+TEXT_KINGRA101_04960_METEM_000_008	(-Metem-)¡Así fue, así fue! Y por eso, por tu fuerza y tu valor, el presidente de la federación te eligió como la próxima gran estrella del Arcadion.
+TEXT_KINGRA101_04960_METEM_000_009	(-Metem-)Imagínalo: <if(gnum4,una recién llegada,un recién llegado)>, <if(gnum4,la protectora,el protector)> del pueblo, entra en escena y desafía a los más poderosos del Arcadion para coronarse <if(gnum4,campeona absoluta,campeón absoluto)>. ¡¿Qué puede ser más apasionante, te pregunto?!
+TEXT_KINGRA101_04960_METEM_000_010	(-Metem-)¡Por supuesto, se te recompensará como corresponde! ¡El mejor equipo que Solution Nine puede ofrecer te espera después de cada victoria!
+TEXT_KINGRA101_04960_METEM_000_011	(-Metem-)Me atrevo a decir que ya te tenté, pero no hace falta que decidas ahora. Si quieres poner a prueba tu fuerza y ganar grandes premios, ven al Arcadion, al final de esta avenida. El empleado te hará pasar.
+TEXT_KINGRA101_04960_METEM_100_011	(-Metem-)Con eso, me despido por ahora. ¡Espero una respuesta favorable!
+TEXT_KINGRA101_04960_ARCADIAATTENDANT_000_030	Ah, <split(<string(gstr1)>, ,1)>. El Maestro Metem <if(gnum4,la,lo)> espera. Si me acompaña, <if(gnum4,la,lo)> llevaré con él.
+TEXT_KINGRA101_04960_SYSTEM_100_030	¿Entrar al Arcadion?
+TEXT_KINGRA101_04960_METEM_000_100	¡Viniste! ¡Entonces supongo que vas a pelear en el Arcadion!
+TEXT_KINGRA101_04960_METEM_000_101	¡Permíteme ser el primero en darte la bienvenida! Bien, voy a explicarte...
+TEXT_KINGRA101_04960_YAANA_000_102	(-Chica altanera-)Hmph... Supongo que pareces tener algo de garra.
+TEXT_KINGRA101_04960_YAANA_000_103	(-Chica altanera-)Igual, sin transformarte con un alma no llegas muy lejos. No durarías nada contra ninguno de nosotros.
+TEXT_KINGRA101_04960_HONEYBLOVELY_000_104	(-Damisela encantadora-)¿No eres un bocadito? ¡Me muero por verte en el escenario!
+TEXT_KINGRA101_04960_BRUTEBOMBER_000_105	(-Grandulón pendenciero-)¡Eres una velita al lado de mi llamarada! ¡Si llegas hasta mí, te saco del ring de un soplido!
+TEXT_KINGRA101_04960_METEM_000_106	Esos son algunos de los luchadores a los que te vas a enfrentar. Todos son... ejem, todo un personaje, como ves, pero espero que no te ofendan sus palabras. ¡Tómalo como su forma de darte la bienvenida!
+TEXT_KINGRA101_04960_METEM_100_106	¿Dónde estaba? Ah, sí. Como te dije, el Ascension Arcadia Championship es una competencia de combate. Los más poderosos del mundo se enfrentan para convertirse en el campeón absoluto.
+TEXT_KINGRA101_04960_METEM_100_107	¡No me cabe duda de que todos los alejandrinos quedarían cautivados con tu recorrido como <if(gnum4,retadora,retador)>, y te alentarían mientras subes en el ranking a fuerza de combates!
+TEXT_KINGRA101_04960_METEM_000_107	Y hablando del ranking, los luchadores del Arcadion se dividen en tres categorías: peso semipesado, peso crucero y peso pesado.
+TEXT_KINGRA101_04960_METEM_100_108	El objetivo final es ser <if(gnum4,la campeona indiscutida,el campeón indiscutido)> de todas las categorías y así coronarse <if(gnum4,campeona absoluta,campeón absoluto)>.
+TEXT_KINGRA101_04960_METEM_000_108	Como <if(gnum4,novata,novato)>, tu campaña empieza en el peso semipesado, donde tienes que derrotar a los tres rivales de esa categoría.
+TEXT_KINGRA101_04960_METEM_000_109	¡Válgame, casi me olvido de decirte algo importantísimo!
+TEXT_KINGRA101_04960_METEM_000_110	El Arcadion tiene su propio depósito de almas ferales, que nuestros luchadores usan en combate.
+TEXT_KINGRA101_04960_METEM_000_111	Son almas tan potentes que alteran la forma misma de los luchadores. Por si te lo preguntas, lo que separa las tres categorías del campeonato es la potencia de las almas que se usan.
+TEXT_KINGRA101_04960_METEM_000_112	Ahora bien, tengo entendido que no usas regulador. Ni siquiera cuando te enfrentaste al rey recurriste a alma alguna. ¡Eso es de lo más impresionante!
+TEXT_KINGRA101_04960_METEM_000_113	Aun así, sería tremendamente injusto que compitieras sin nada que equilibre la balanza.
+TEXT_KINGRA101_04960_METEM_000_114	Por suerte, aquí en el Arcadion también tenemos guardadas las almas de antiguos campeones. Las usaremos para crear aliados que peleen a tu lado.
+TEXT_KINGRA101_04960_METEM_000_115	Y para que trabajen contigo como una máquina bien aceitada, ¡nos basaremos en tus recuerdos para ajustar su aspecto y sus habilidades a tu gusto!
+TEXT_KINGRA101_04960_Q1_000_000	¿Qué vas a decir?
+TEXT_KINGRA101_04960_A1_000_001	Se parece mucho a los Endless.
+TEXT_KINGRA101_04960_A1_000_002	Como la manifestación arcana de Gulool Ja Ja...
+TEXT_KINGRA101_04960_METEM_000_116	¿"Endless"? No conozco ese término, pero te aseguro que la técnica que usamos no tiene nada de indebido. Solo crea un simulacro temporal.
+TEXT_KINGRA101_04960_000180_METEM_000_117	Vaya, ¿en tu mundo existe una magia tan maravillosa? ¡Fascinante! Aquí el medio que usamos es el electrope, pero me atrevo a decir que se parece en que crea un simulacro temporal.
+TEXT_KINGRA101_04960_METEM_000_118	Y para equilibrar las cosas, creo que siete de estos simulacros deberían bastar. ¿Qué te parece?
+TEXT_KINGRA101_04960_Q2_000_000	¿Qué vas a decir?
+TEXT_KINGRA101_04960_A2_000_001	Usar almas para entretener está mal.
+TEXT_KINGRA101_04960_A2_000_002	Hay que liberar las almas de su depósito.
+TEXT_KINGRA101_04960_METEM_000_122	Hm-hm... Ya me esperaba que tuvieras reparos con el uso de las almas. Les pasa a menudo a los que vienen del otro lado de la barrera.
+TEXT_KINGRA101_04960_METEM_000_123	Así que tengo una propuesta, un incentivo adicional, si quieres. Por cada victoria que consigas, liberaré las almas de los que pelearon a tu lado.
+TEXT_KINGRA101_04960_METEM_100_124	¡Tú, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>, serías la estrella que trae un cambio fresco al Arcadion!
+TEXT_KINGRA101_04960_METEM_100_125	Entonces, ¿qué dices? ¿Estás dispuest<if(gnum4,a,o)> a pelear con esas condiciones?
+TEXT_KINGRA101_04960_METEM_100_126	¡Excelente! Bien, te contaría más sobre el Arcadion... pero dejémoslo para después de tu primer combate. Al fin y al cabo, no tendría sentido si terminas perdiendo de entrada.
+TEXT_KINGRA101_04960_METEM_000_130	¡Con eso, te doy la bienvenida oficial como <if(gnum4,luchadora,luchador)> del Arcadion! Cuando estés list<if(gnum4,a,o)> para salir a la arena, ¡solo tienes que decírmelo!
+TEXT_KINGRA101_04960_SYSTEM_000_140	Al completar combates del Ascension Arcadia Championship puedes ganar artefactos valiosos.
+TEXT_KINGRA101_04960_SYSTEM_000_141	Puedes cambiarlos por equipo hablando con Hhihwi en Solution Nine.

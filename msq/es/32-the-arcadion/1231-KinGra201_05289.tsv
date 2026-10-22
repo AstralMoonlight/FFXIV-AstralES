@@ -1,0 +1,129 @@
+key	text
+TEXT_KINGRA201_05289_SEQ_00	A Yaana se le ilumina la cara al verte.
+TEXT_KINGRA201_05289_SEQ_01	En medio de tu pausa del Arcadion, encuentras a Yaana frente a su gimnasio y te sorprende gratamente descubrir que esperaba verte. Te comenta que, aunque los combates del peso crucero todavía no empiezan, ella y Neyuni lograron un avance en su investigación sobre la psiconecrosis. Parece que quieren contártelo adentro.
+TEXT_KINGRA201_05289_SEQ_02	Neyuni revela que, después de un intento fallido de acceder a los sistemas centrales de Everkeep, Oblivion le pasó datos de Origenics, y descubrió una forma de evaluar el estado del alma. Con ese conocimiento, Yaana quiere examinar a sus compañeros del peso semipesado para saber si tienen psiconecrosis. Cuando le das tu aprobación, no pierde tiempo y se comunica con Honey B. Lovely, que lleva más tiempo que ella en el Arcadion.
+TEXT_KINGRA201_05289_SEQ_03	Honey queda impactada con la revelación, y con mucho gusto se retira del Arcadion, declarando que va a buscar otra forma de aprovechar su talento. Aliviada de que Honey haya sido más comprensiva de lo esperado, Yaana dice que hay alguien más a quien quiere avisar y examinar: Brute Bomber. Juntos parten hacia donde vive, el radio residencial 9-11.
+TEXT_KINGRA201_05289_SEQ_04	Al entrar a su departamento, te encuentras con la curiosa imagen de Brute Bomber rodeado de tres gatitos adorables. A su lado está Howling Blade, su amigo de la infancia, que te cuenta que los dos tienen con el presidente del Arcadion una deuda de gratitud que nunca podrán pagar. Leyendo bien el ambiente, se retira, y Yaana puede revelarle a Brute Bomber el terrible costo de usar almas ferales. Pero ya es tarde: el examen de Neyuni indica que su alma ya muestra señales de la enfermedad. El diagnóstico se confirma un instante después, cuando Brute Bomber sufre un fuerte mareo, un síntoma de la enfermedad. Pero pese a las pruebas y a las sinceras advertencias de Yaana, sigue negándolo. Los tres salen de su cuarto con una leve esperanza de que cambie de opinión.
+TEXT_KINGRA201_05289_SEQ_05	Con otra persona más afectada por la enfermedad, Yaana y Neyuni están decididas a encontrar una cura cuanto antes. En medio de la conversación los interrumpe una llamada de Metem, que les avisa que los combates del peso crucero van a empezar pronto. Como los citó en el camerino del Arcadion, Neyuni promete seguir investigando una cura mientras tú y Yaana se concentran en ganar los próximos combates.
+TEXT_KINGRA201_05289_SEQ_06	El empleado del Arcadion te recibe con cordialidad y te guía amablemente por los pasillos ya conocidos hasta el camerino.<br><br>※Si sales de la zona, puedes volver hablando con el empleado del Arcadion frente al Arcadion.
+TEXT_KINGRA201_05289_SEQ_07	Apenas entras al cuarto, un playboy bullicioso descorcha una botella de champán, en teoría para celebrar tu llegada. Desconcertad<if(gnum4,a,o)>, te das vuelta buscando a Metem y en cambio ves a una chica llamativa pintando grafitis en el cuarto. La pintoresca pareja te saluda antes de irse de golpe, y Metem te informa que serán tus rivales en el peso crucero.
+TEXT_KINGRA201_05289_SEQ_08	Llegó la hora de empezar tu campaña en el peso crucero. Yaana te pide que te prepares bien para los próximos combates, porque cada uno de tus rivales usa almas más potentes, y tiene más poder, que los del peso semipesado.
+TEXT_KINGRA201_05289_TODO_00	Habla con Yaana en Tritails Training.
+TEXT_KINGRA201_05289_TODO_01	Espera en el lugar indicado.
+TEXT_KINGRA201_05289_TODO_02	Habla con Yaana.
+TEXT_KINGRA201_05289_TODO_03	Habla con Yaana en Tritails Training.
+TEXT_KINGRA201_05289_TODO_04	Habla con el empleado del Arcadion.
+TEXT_KINGRA201_05289_TODO_05	Habla con el empleado del Arcadion.
+TEXT_KINGRA201_05289_TODO_06	Habla con Yaana.
+TEXT_KINGRA201_05289_YAANA_000_000	Hola, <split(<string(gstr1)>, ,1)>. Justo a ti quería ver.
+TEXT_KINGRA201_05289_YAANA_000_001	Los combates del peso crucero todavía no empiezan, pero Neyuni y yo avanzamos en nuestra investigación sobre la psiconecrosis. Pasa, te contamos lo que averiguamos.
+TEXT_KINGRA201_05289_NEYUNI_000_005	Qué gusto verl<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. Como ya habrá oído, logramos dar con una pista sobre la psiconecrosis.
+TEXT_KINGRA201_05289_YAANA_000_010	Antes de entrar en detalles, quizá convenga repasar. Al fin y al cabo, es un asunto bastante complicado...
+TEXT_KINGRA201_05289_YAANA_100_010	Apenas te habían coronado <if(gnum4,campeona,campeón)> del peso semipesado cuando nuestra hermana, Eutrope, te desafió. Estaba decidida a quedarse con tu alma para curarse la psiconecrosis.
+TEXT_KINGRA201_05289_YAANA_100_011	Parece que la enfermedad afecta a los que usan almas ferales en exceso, como los luchadores del Arcadion.
+TEXT_KINGRA201_05289_YAANA_100_012	Eutrope nos contó que los inmortalizados, que creíamos que vivían en el lujo de los niveles superiores, en realidad están muertos: se los llevó la enfermedad.
+TEXT_KINGRA201_05289_NEYUNI_100_013	Desde esa revelación buscamos otras formas de curar la psiconecrosis, y por fin tenemos novedades.
+TEXT_KINGRA201_05289_YAANA_000_011	Todo es gracias a Neyuni. Como Eutrope, tiene buen ojo para la tecnología del electrope. Aprendió a hacer de todo trasteando por su cuenta.
+TEXT_KINGRA201_05289_NEYUNI_000_012	Ay, Yaana, no le des una idea equivocada. Los descubrimientos se los tenemos que agradecer a la gente de Oblivion. Verá, yo había intentado entrar a los sistemas centrales de Everkeep para buscar información sobre las almas...
+TEXT_KINGRA201_05289_NEYUNI_000_013	Como era de esperar, fracasé. Y encima, una integrante de Oblivion que vigilaba los accesos no autorizados me encontró.
+TEXT_KINGRA201_05289_NEYUNI_200_013	Me dio un buen sermón y me pidió que nunca más hiciera algo tan imprudente.
+TEXT_KINGRA201_05289_NEYUNI_000_014	Pero cuando le expliqué nuestra situación, amablemente me pasó datos de investigación que Oblivion había conseguido de Origenics. Fueron bastante difíciles de descifrar, pero logré encontrar información útil.
+TEXT_KINGRA201_05289_NEYUNI_000_015	En concreto, que el ejército conocía muy bien la psiconecrosis, porque también había intentado usar almas ferales. Además, desarrollaron un método para detectar la presencia de la enfermedad.
+TEXT_KINGRA201_05289_YAANA_000_016	Y eso nos lleva al siguiente paso. Ahora que conocemos el método, creemos que hay que usarlo para diagnosticar a otros luchadores. Tienen derecho a saber si están enfermos.
+TEXT_KINGRA201_05289_Q2_000_000	¿Qué vas a decir?
+TEXT_KINGRA201_05289_A2_000_001	Claro. No está bien dejarlos sin saberlo.
+TEXT_KINGRA201_05289_A2_000_002	Sería arriesgado avisarles.
+TEXT_KINGRA201_05289_YAANA_000_017	Me alegra que estés de acuerdo. No puedo quedarme de brazos cruzados sabiendo que podrían morir.
+TEXT_KINGRA201_05289_YAANA_000_018	Sí, muy arriesgado. Por eso vinimos a hablar contigo antes de hacer nada.
+TEXT_KINGRA201_05289_YAANA_000_019	Como nos advirtió Metem, al presidente no le gusta nada que se metan en su camino. Se pondría furioso si les revelamos el secreto a los que todavía no enfrentaste y eso los hace retirarse.
+TEXT_KINGRA201_05289_YAANA_000_020	Claro que igual corres el riesgo de provocar su ira si te conviertes en <if(gnum4,campeona absoluta,campeón absoluto)> y liberas todas las almas del depósito. Pero hay que evitar quedar en la mira el mayor tiempo posible.
+TEXT_KINGRA201_05289_YAANA_000_021	Por eso propongo que solo hablemos con los luchadores a los que ya venciste. Como no pueden pelear por un tiempo, no afectaría al campeonato de inmediato.
+TEXT_KINGRA201_05289_YAANA_100_021	Pero igual hay riesgos. Cada vez que nuestros compañeros usan un alma feral, se acercan más a la psiconecrosis, también en un combate contra ti.
+TEXT_KINGRA201_05289_YAANA_000_022	Por eso es importante contarles la verdad cuanto antes. Para impedir que eso pase de una vez por todas.
+TEXT_KINGRA201_05289_YAANA_100_022	Sabiendo lo que la enfermedad le hizo a Eutrope... para mí es algo personal.
+TEXT_KINGRA201_05289_YAANA_000_023	Para empezar, contémosle la verdad a Honey. Aunque somos rivales, en realidad somos bastante unidas. Un momento, que la llamo...
+TEXT_KINGRA201_05289_YAANA_100_023	Está ocupada, como esperaba, pero tiene un rato para nosotros. Ya viene para acá.
+TEXT_KINGRA201_05289_YAANA_200_023	Honey logra llevar dos carreras a la vez. No puedo evitar admirarla.
+TEXT_KINGRA201_05289_NEYUNI_200_024	Al principio me asusté cuando me encontró la gente de Oblivion, pero cuando conocí a sus integrantes, resultaron ser todos muy amables.
+TEXT_KINGRA201_05289_HONEYBLOVELY_100_024	Bueno, ¿de qué se trata? Espero que sea tan urgente como dicen.
+TEXT_KINGRA201_05289_HONEYBLOVELY_000_024	Ay, cielos... Lo dicen en serio, ¿no? ¿Y-Yo también podría estar enferma...?
+TEXT_KINGRA201_05289_NEYUNI_000_025	Hay una forma de diagnosticarla. Los reguladores están diseñados para vigilar el estado del alma de quien los lleva. Si conectamos el suyo a una terminal, podemos confirmar si hay señales de la enfermedad.
+TEXT_KINGRA201_05289_NEYUNI_000_026	Quédese tranquila, señorita Honey. Su alma no muestra señales de degradación.
+TEXT_KINGRA201_05289_HONEYBLOVELY_000_027	¿De verdad? ¡Ay, qué alivio! Me estremece imaginar cómo me afectaría una enfermedad tan espantosa...
+TEXT_KINGRA201_05289_HONEYBLOVELY_000_028	Tú también estás bien, supongo. Al fin y al cabo, entraste al Arcadion mucho después que yo.
+TEXT_KINGRA201_05289_YAANA_000_029	B-Bueno, todavía no tengo síntomas...
+TEXT_KINGRA201_05289_NEYUNI_000_030	Yaana tenía tantas ganas de demostrar lo que vale que usó almas ferales muchas veces para entrenar. Así que cuando la examiné, vimos que está al borde de desarrollar la enfermedad.
+TEXT_KINGRA201_05289_HONEYBLOVELY_000_031	¡Por todos los cielos, Yaana! ¡Está prohibido entrenar con almas ferales! ...Y sabiendo lo que sé ahora, diría que es porque el presidente no quiere que nos muramos demasiado pronto. Sería malo para el espectáculo.
+TEXT_KINGRA201_05289_YAANA_000_032	En todo caso, ninguna de las dos debería volver a usar almas ferales. O sea que ya no podemos pelear en el Arcadion...
+TEXT_KINGRA201_05289_HONEYBLOVELY_000_033	¡Muy bien! ¡Me retiro!
+TEXT_KINGRA201_05289_YAANA_000_034	¡¿E-En serio?! No esperaba que te decidieras tan rápido...
+TEXT_KINGRA201_05289_HONEYBLOVELY_000_035	Es cierto que, aunque adorné incontables portadas de revistas y escenarios de conciertos, nunca brillé tanto como cuando peleaba en el ring.
+TEXT_KINGRA201_05289_HONEYBLOVELY_100_035	Pero todo lo que hice fue para disfrutar de la adoración de la gente. Y no podría hacerlo si estuviera muerta, ¿no?
+TEXT_KINGRA201_05289_HONEYBLOVELY_100_036	Así que voy a buscar otra forma de aprovechar mi talento, y pueden estar seguros de que lo voy a lograr. Al fin y al cabo...
+TEXT_KINGRA201_05289_HONEYBLOVELY_100_037	¡Soy Honey B. Lovely, la estrella más brillante del cielo!
+TEXT_KINGRA201_05289_HONEYBLOVELY_000_036	Bueno, tengo que aparecer en una transmisión, así que me voy. ¡Gracias por avisarme, queridos! ¡Me salvaron la vida!
+TEXT_KINGRA201_05289_YAANA_100_038	Honey es increíble, de verdad...
+TEXT_KINGRA201_05289_YAANA_000_037	Bien, queda otro luchador al que quiero avisar: Brute Bomber, al que venciste para ser <if(gnum4,campeona,campeón)> del peso semipesado.
+TEXT_KINGRA201_05289_YAANA_000_038	No somos precisamente amigos, pero tampoco voy a abandonarlo. Igual no es muy probable que conteste si lo llamamos, así que vamos a tener que visitarlo en su casa, en el radio residencial 9-11.
+TEXT_KINGRA201_05289_NEYUNI_000_050	Siempre llevo una terminal personal conmigo, así que podemos revisar si tiene la enfermedad cuando lleguemos al departamento.
+TEXT_KINGRA201_05289_YAANA_000_060	Aquí estamos. Esperemos que esté dispuesto a escucharnos...
+TEXT_KINGRA201_05289_BRUTEBOMBER_000_100	¡Son tan lindos que me los comería!
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_000_101	(-Hombre amable-)Hmph, ¿por qué se te acercan solo a ti? No es justo.
+TEXT_KINGRA201_05289_BRUTEBOMBER_000_102	Bueno, <italic(1)>son<italic(0)> mis gatitos. Si no te gusta, puedes volver con tu mujer.
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_000_103	(-Hombre amable-)...Échale sal a la herida, ¿quieres? Sabes muy bien que me dejó.
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_100_103	(-Hombre amable-)Vamos, pequeños. Vengan conmigo.
+TEXT_KINGRA201_05289_YAANA_000_104	Este... ese hombre de ahí es el... de Eutrope... Digo, es el campeón del peso crucero.
+TEXT_KINGRA201_05289_YAANA_100_104	Esto es un problema. No podemos revelar la verdad con él aquí...
+TEXT_KINGRA201_05289_BRUTEBOMBER_000_105	¡¿Qué demonios hacen aquí?! ¡¿Quieren que les patee el trasero?!
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_000_106	(-Hombre amable-)Tú eres <split(<string(gstr1)>, ,1)>, <if(gnum4,la guerrera sin potenciar,el guerrero sin potenciar)>, ¿no?
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_000_107	Howling Blade, a tus órdenes. Es un placer conocerte, y espero que pronto tengamos la oportunidad de vernos en el ring.
+TEXT_KINGRA201_05289_Q1_000_000	¿Qué vas a decir?
+TEXT_KINGRA201_05289_A1_000_001	El placer es mío.
+TEXT_KINGRA201_05289_A1_000_002	¡Cuando termine contigo, vas a aullar de dolor!
+TEXT_KINGRA201_05289_A1_000_003	...
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_000_108	Tienes más carácter de lo que esperaba. No me habías dado la impresión de ser <if(gnum4,una "ruda",un "rudo")> también.
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_000_109	Por si te lo preguntas, no suelo llevar regulador. Mis padres no creían en usarlos.
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_000_110	Si mal no recuerdo, a Yaana y a sus hermanas las criaron con valores parecidos, hasta que se adaptaron por insistencia de Eutrope.
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_000_111	Pero en combate igual uso regulador, como todos los luchadores... salvo tú.
+TEXT_KINGRA201_05289_YAANA_000_112	Este... no sabía que ustedes dos eran amigos.
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_000_113	¿Te sorprende que un rudo odiado como él y un técnico querido como yo nos llevemos bien? La verdad es que nos conocemos desde la infancia. Parece que no hay forma de librarnos el uno del otro.
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_000_114	Ninguno de los dos encajaba en los trabajos que nos asignaban, y hacíamos toda clase de travesuras juntos. Seguramente habríamos seguido así si el presidente de Ascension Arcadia no hubiera venido a recogernos.
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_000_115	Aunque ser luchador no es fácil, sentíamos que era nuestra vocación. Aunque no lo creas, él era tan tímido que casi no podía armar una frase. Pero cuando se convirtió en Brute Bomber, fue como si hubiera vuelto a nacer.
+TEXT_KINGRA201_05289_BRUTEBOMBER_000_116	¡C-Cállate! ¡No tienen por qué saber eso!
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_000_117	Pensándolo bien, le debemos todo al Arcadion. Al presidente.
+TEXT_KINGRA201_05289_BRUTEBOMBER_000_118	...Así es.
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_000_119	Bueno, ya vi a los gatitos como quería, así que me voy.
+TEXT_KINGRA201_05289_THEHOWLINGBLADE_000_120	Hasta la próxima, <split(<string(gstr1)>, ,1)>.
+TEXT_KINGRA201_05289_BRUTEBOMBER_000_121	...¿Y qué quieren?
+TEXT_KINGRA201_05289_YAANA_000_122	Hay algo que tienes que saber...
+TEXT_KINGRA201_05289_BRUTEBOMBER_000_123	¡Mentiras! ¡El presidente jamás haría eso!
+TEXT_KINGRA201_05289_NEYUNI_000_124	Tengo los resultados del examen... Me temo que su alma ya muestra señales de psiconecrosis.
+TEXT_KINGRA201_05289_BRUTEBOMBER_000_125	¡¿Qué?! ¡Eso es absurdo!
+TEXT_KINGRA201_05289_BRUTEBOMBER_000_126	Urgh...
+TEXT_KINGRA201_05289_NEYUNI_000_127	A medida que el alma se carcome, pierde su conexión con el cuerpo, y eso provoca mareos intensos: los primeros síntomas de la enfermedad. Si no se trata, el cuerpo se sigue debilitando hasta...
+TEXT_KINGRA201_05289_YAANA_000_128	Sé que el Arcadion significa mucho para ti. Para mí también.
+TEXT_KINGRA201_05289_YAANA_100_128	Pero tienes que retirarte. Ya estás enfermo. Hasta que encontremos una cura, la única forma de impedir que empeores es dejar de pelear.
+TEXT_KINGRA201_05289_BRUTEBOMBER_000_129	¡Basta! ¡No voy a seguir escuchando sus tonterías! ¡Fuera de mi vista!
+TEXT_KINGRA201_05289_YAANA_000_130	Hicimos lo que pudimos. Ahora le toca a él decidir. Vamos a casa.
+TEXT_KINGRA201_05289_NEYUNI_000_140	Fue difícil darle su diagnóstico al señor Brute...
+TEXT_KINGRA201_05289_YAANA_000_151	No solo Eutrope, también Brute Bomber... Tenemos que encontrar una cura lo antes posible.
+TEXT_KINGRA201_05289_NEYUNI_000_152	Según Eutrope, el remedio es infundir un alma extremadamente densa. Por eso fue tras usted.
+TEXT_KINGRA201_05289_NEYUNI_000_153	Los datos de Origenics parecen respaldarlo. Aunque solo era una hipótesis, los investigadores creían que reforzar con un alma densa podía ser un tratamiento eficaz. Pero esa no es la solución que buscamos.
+TEXT_KINGRA201_05289_NEYUNI_000_154	¡Vamos a encontrar otra forma! ¡Aunque tenga que revisar un océano de datos!
+TEXT_KINGRA201_05289_YAANA_000_155	Con todo lo que buscó, Eutrope solo pudo encontrar esa cura...
+TEXT_KINGRA201_05289_YAANA_000_156	Igual, hay algo en lo que hizo que no me cierra. La Eutrope que conozco no pensaría en salvarse a costa de la vida de otro. No puedo evitar sentir que todavía oculta algo...
+TEXT_KINGRA201_05289_YAANA_000_157	¿Hola? ...Ah, bien. Entendido.
+TEXT_KINGRA201_05289_YAANA_000_158	Era Metem. Los combates del peso crucero están por empezar, y quiere que nos encontremos con él en el camerino.
+TEXT_KINGRA201_05289_NEYUNI_000_159	¡Entonces mucha suerte en su próximo combate, <if(gnum4,señorita,señor)> <split(<string(gstr1)>, ,1)>, y por favor, cuídese!
+TEXT_KINGRA201_05289_NEYUNI_000_160	¡Deje la búsqueda de una cura en mis manos y concéntrese solo en el próximo combate!
+TEXT_KINGRA201_05289_ARCADIAATTENDANT_000_170	<if(gnum4,La,Lo)> esperábamos, <split(<string(gstr1)>, ,1)>. Permítame acompañarl<if(gnum4,a,o)> al camerino.
+TEXT_KINGRA201_05289_SYSTEM_100_171	¿Entrar al Arcadion?
+TEXT_KINGRA201_05289_DANCINGGREEN_000_300	(-Parrandero bullicioso-)¡Ah, por fin llegó! ¡Ahora sí que empieza la fiesta!
+TEXT_KINGRA201_05289_SUGARRIOT_000_301	(-Damisela desafiante-)Así está mejor. Este cuarto tan soso pedía a gritos un toque de color.
+TEXT_KINGRA201_05289_SUGARRIOT_000_302	(-Damisela desafiante-)Me encanta tu trabajo, por cierto. Un combate contigo va a ser una fuente de inspiración.
+TEXT_KINGRA201_05289_DANCINGGREEN_000_303	(-Parrandero bullicioso-)¡Tú y yo vamos a darlo todo en la pista! ¡Ah, sí, señor!
+TEXT_KINGRA201_05289_METEM_000_304	Como habrás adivinado, son tus rivales del peso crucero. Y tengo entendido que ya conoces al campeón...
+TEXT_KINGRA201_05289_METEM_000_305	Con la situación del mundo, quizá tengas dudas sobre pelear para entretener. Pero es ahora más que nunca cuando los ciudadanos necesitan una distracción que los ayude a olvidar sus penas.
+TEXT_KINGRA201_05289_METEM_000_306	¡Cuento contigo para volver a cautivar al público con combates emocionantes y hacer temblar de emoción las paredes del Arcadion!
+TEXT_KINGRA201_05289_YAANA_000_310	Los luchadores de esta categoría también son todo un personaje, ¿eh? Pero tienen mucho más que espectáculo.
+TEXT_KINGRA201_05289_YAANA_100_310	Como ya sabes, los luchadores del peso crucero usan almas ferales más potentes. Sus ataques pegan más fuerte, así que vas a tener que prepararte bien. ¡Ve con todo!

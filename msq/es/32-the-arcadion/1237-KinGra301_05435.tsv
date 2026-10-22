@@ -1,0 +1,93 @@
+key	text
+TEXT_KINGRA301_05435_SEQ_00	Yaana te mira con una sonrisa irónica.
+TEXT_KINGRA301_05435_SEQ_01	Mientras paseas por las calles de Solution Nine durante tu pausa del Arcadion, te encuentras frente a las conocidas puertas de Tritails Training. Allí hablas con Yaana, que te cuenta que los combates del peso pesado van a empezar pronto. Pero antes tiene un asunto que quiere hablar contigo, y te pide que la sigas adentro.
+TEXT_KINGRA301_05435_SEQ_02	Yaana te explica que, para reunir información sobre el presidente, invitó a sus compañeros ex luchadores a reunirse en el gimnasio. Por desgracia, nadie tiene información nueva que aportar, hasta que habla Dancing Green. Revela que el presidente era originario de la nación de Lindblum, donde se desarrolló el estimulante del factor de regeneración. Con más confianza en que hay algo de verdad detrás de la promesa del presidente sobre la cura, el grupo decide actuar en dos frentes: primero, que sigas subiendo hasta convertirte en <if(gnum4,la campeona absoluta,el campeón absoluto)>. Y segundo, rescatar en secreto a Neyuni y a Eutrope. Así habrás cumplido tu trato con el megalómano y le habrás quitado su ventaja sobre ti.
+TEXT_KINGRA301_05435_SEQ_03	Como queda algo de tiempo antes de que empiecen los combates, Yaana te sugiere ver la transmisión de Arcadion Hour por si hay información útil. Pero para tu disgusto, el programa parece hecho a propósito para dañar tu reputación y desanimarte, y la voz que encabeza las burlas contra ti es nada menos que la de la luchadora del peso pesado Vamp Fatale. Todavía afectad<if(gnum4,a,o)> por lo que viste, te sorprende que de pronto se abran las puertas de Tritails Training y aparezca un grupo variopinto de jóvenes alejandrinos. Preocupados por las imágenes despectivas de la transmisión, te dan palabras de aliento con entusiasmo y te animan a dar lo mejor de ti en el peso pesado. Poco después de que se van, Yaana recibe una llamada de Metem: los combates están por empezar. Con el ánimo renovado por las amables palabras de tus fans, partes con la frente en alto hacia el camerino del Arcadion.<br><br>※Si sales de la zona, puedes volver hablando con el empleado del Arcadion frente al Arcadion.
+TEXT_KINGRA301_05435_SEQ_04	Metem comprende la indignación de Yaana, pero le explica con cuidado que toda la culpa de la transmisión la tiene el presidente. Según él, el jefe del Arcadion empieza a sentirse acorralado, y por eso ahora intenta sacarte de la competencia como sea. Siendo así, Metem te anima a descargar en el ring el enojo que sientas y usarlo para superar los desafíos que vienen. A juzgar por la expresión encendida de Yaana, parece casi lista para subir ella misma al ring.
+TEXT_KINGRA301_05435_TODO_00	Habla con Yaana en Tritails Training.
+TEXT_KINGRA301_05435_TODO_01	Habla con Yaana.
+TEXT_KINGRA301_05435_TODO_02	Habla con Metem en el camerino.
+TEXT_KINGRA301_05435_YAANA_000_000	¡Ah, <split(<string(gstr1)>, ,1)>! Esperaba que pasaras.
+TEXT_KINGRA301_05435_YAANA_000_001	Quería contarte algo antes de que empiecen los combates del peso pesado. Pasa.
+TEXT_KINGRA301_05435_THEHOWLINGBLADE_000_005	Por si te lo preguntas, los gatitos se adaptaron a su nuevo hogar. Igual se nota que extrañan a Hector, pobrecitos...
+TEXT_KINGRA301_05435_YAANA_000_010	Les pedí a Honey y a los demás que vinieran también. Antes de que lleguen, repasemos rápido la situación.
+TEXT_KINGRA301_05435_YAANA_000_011	Durante tu campaña en el peso crucero logramos convencer a varios luchadores de que se retiraran del ring. Sobre todo a Retsarra, que ya tenía psiconecrosis.
+TEXT_KINGRA301_05435_YAANA_100_011	Pero hubo uno al que no pudimos convencer. Brute Bomber...
+TEXT_KINGRA301_05435_YAANA_000_013	Yo misma empecé a tener síntomas de psiconecrosis después de que Eutrope nos emboscara. Me dejé llevar un poco y usé un alma feral para detenerla.
+TEXT_KINGRA301_05435_YAANA_000_014	Hubo un rayo de esperanza cuando Neyuni descubrió que existía una cura, pero se esfumó cuando el presidente las tomó a ella y a Eutrope como rehenes. No iba a permitir que nos desviáramos de su guion.
+TEXT_KINGRA301_05435_THEHOWLINGBLADE_000_015	Pero, en un giro inesperado, el mismo presidente conocía la cura: el "Drop of Life". Y dijo que revelaría dónde está si llegabas a ser <if(gnum4,campeona absoluta,campeón absoluto)>.
+TEXT_KINGRA301_05435_YAANA_000_016	¿Cómo supo todo eso? ¿De dónde saca su información? Nunca lo conocí, así que para mí es un misterio total. Por eso quería reunir a todos, para tener una idea más clara de con quién estamos tratando.
+TEXT_KINGRA301_05435_HONEYBLOVELY_000_017	¡Holaaa, queridos! Entramos por atrás. Nunca se sabe quién está mirando.
+TEXT_KINGRA301_05435_DANCINGGREEN_000_018	¡Hey, hey! ¿Qué se celebra? ¿Una fiesta de retiro o algo así?
+TEXT_KINGRA301_05435_HONEYBLOVELY_000_021	Perdón, cariño, pero yo tampoco conocí al presidente en persona. Solo me llamó unas pocas veces para darme instrucciones, y no fue él sino Metem quien vino a reclutarme en una de mis presentaciones.
+TEXT_KINGRA301_05435_THEHOWLINGBLADE_000_022	Aunque a Hector y a mí nos reclutó en persona, después todo el contacto fue por comunicador. Solo hablaba de negocios, nunca de asuntos privados.
+TEXT_KINGRA301_05435_SUGARRIOT_000_023	Me temo que conmigo pasó lo mismo. Pero Dancing Green, en cambio, lo conoce bien.
+TEXT_KINGRA301_05435_DANCINGGREEN_000_024	En cierto modo. Al viejo le encanta lo teatral. Como yo también soy artista, enseguida congeniamos, y a menudo discutíamos sobre la mejor forma de enganchar al público.
+TEXT_KINGRA301_05435_DANCINGGREEN_000_025	Yo creo que la clave es hacer que la gente se sienta bien, pero él insiste en que tiene que sentir cierta incomodidad. Y ese es el trabajo de un rudo.
+TEXT_KINGRA301_05435_DANCINGGREEN_000_026	"Cuando los odiosos muerden el polvo, el público vive la mayor euforia y los luchadores brillan más que nunca", decía siempre.
+TEXT_KINGRA301_05435_DANCINGGREEN_000_027	Admito que esa clase de justicia poética tiene su atractivo. Como prueba, basta ver el público frenético de los combates de Brute Bomber. ¡Sea lo que sea el presidente, es un maldito genio del espectáculo!
+TEXT_KINGRA301_05435_DANCINGGREEN_000_028	Cierto, cierto, la vida personal del presidente... Lo único que sé es que su linaje viene de Lindblum.
+TEXT_KINGRA301_05435_YAANA_000_029	¡¿<italic(1)>Lindblum<italic(0)>?! ¡Ahí es donde al parecer investigaron el estimulante del factor de regeneración!
+TEXT_KINGRA301_05435_DANCINGGREEN_000_030	¡Mira tú! Por desgracia nunca tuve oportunidad de saber más de su pasado. La última vez que vi al viejo fue hace tres años.
+TEXT_KINGRA301_05435_THEHOWLINGBLADE_000_031	Hace tres años... ¿Más o menos cuando Metem se acercó a Honey? Me pregunto si al presidente le pasó algo que le impide aparecer en público. Pero con lo poco que sabemos, solo podemos especular.
+TEXT_KINGRA301_05435_YAANA_000_032	\<suspiro> Así que ni entre todos sabemos casi nada del presidente...
+TEXT_KINGRA301_05435_DANCINGGREEN_000_032	Nuestra jugada sigue siendo que <split(<string(gstr1)>, ,1)> se convierta en <if(gnum4,campeona absoluta,campeón absoluto)>. Solo entonces el presidente va a decirnos dónde está la cura.
+TEXT_KINGRA301_05435_DANCINGGREEN_000_033	Y si no cumple su palabra, podemos amenazarlo con revelarle al público la verdad sobre los inmortalizados.
+TEXT_KINGRA301_05435_YAANA_000_033	（★未使用／削除予定★）
+TEXT_KINGRA301_05435_THEHOWLINGBLADE_000_034	Si todo lo demás falla, tenemos esa carta. Pero si vamos a usarla, primero hay que rescatar a Eutrope y a Neyuni.
+TEXT_KINGRA301_05435_THEHOWLINGBLADE_000_035	Para no ponerlas en peligro, el plan tiene que ser discreto y a prueba de errores, y me vendría bien la ayuda de todos. ¿Puedo contar con ustedes?
+TEXT_KINGRA301_05435_HONEYBLOVELY_000_036	¡Me ofende que creas que tienes que preguntar! Claro que puedes contar con nosotros. ¡Vamos a salvar a las hermanas de Yaana y a decirle cuatro verdades a ese presidente podrido!
+TEXT_KINGRA301_05435_DANCINGGREEN_000_037	Me llevaba bastante bien con el viejo, pero no tenía idea de sus trapisondas. El arte y el espectáculo no deberían costarles caro a quienes los hacen, ¿no es así, Sugar?
+TEXT_KINGRA301_05435_YAANA_000_038	¡Muchísimas gracias a todos! Con la cooperación de todos, vamos a trabajar para liberar a mis hermanas mientras <split(<string(gstr1)>, ,1)> sigue su campaña para ser <if(gnum4,campeona absoluta,campeón absoluto)>.
+TEXT_KINGRA301_05435_YAANA_100_038	No hace falta decirlo, pero voy a seguir apoyándote como tu segundo. ¡Juntos vamos a abrirnos paso en el peso pesado!
+TEXT_KINGRA301_05435_THEHOWLINGBLADE_000_039	Parece que todos tenemos nuestras tareas. Los demás vamos a empezar ya mismo a buscar formas de rescatar a las chicas.
+TEXT_KINGRA301_05435_YAANA_000_100	Bueno, está por empezar una transmisión del Arcadion.
+TEXT_KINGRA301_05435_YAANA_000_101	Es un programa habitual para los fans, así que quizá no ayude mucho a prepararte, pero no pierdes nada con verlo.
+TEXT_KINGRA301_05435_METEM_000_110	¡Fanáticos de la pelea y conocedores del combate! ¡Les doy la bienvenida a otra edición de Arcadion Hour!
+TEXT_KINGRA301_05435_METEM_000_111	Como invitada especial de hoy tenemos a la luchadora del peso pesado que pronto se enfrentará en el ring a <if(gnum4,la recién llegada sin potenciar,el recién llegado sin potenciar)>, <split(<string(gstr1)>, ,1)>...
+TEXT_KINGRA301_05435_METEM_000_112	¡La dominatrix diabólicamente divina, Vamp Fatale!
+TEXT_KINGRA301_05435_METEM_000_113	Como indica su apodo, <split(<string(gstr1)>, ,1)> subió en el ranking sin usar un alma feral.
+TEXT_KINGRA301_05435_METEM_000_114	Si <if(gnum4,esta recién llegada,este recién llegado)> se convierte en <if(gnum4,campeona absoluta,campeón absoluto)>, podrá hacer lo que quiera con el depósito de almas del Arcadion. Y parece que piensa liberar todas las almas...
+TEXT_KINGRA301_05435_METEM_000_115	Eso cambiaría de raíz al Arcadion y lo dejaría como un campeonato de luchadores sin potenciar. ¿Qué opinas de esto?
+TEXT_KINGRA301_05435_VAMPFATALE_000_116	No me hagas reír. <if(gnum4,La "recién llegada",El "recién llegado")> solo nos mataría de aburrimiento.
+TEXT_KINGRA301_05435_VAMPFATALE_000_117	Nuestros fans quieren combates espectaculares que los dejen boquiabiertos, y eso simplemente no se logra sin almas ferales.
+TEXT_KINGRA301_05435_METEM_000_118	Eso dice la dama. Pero ¿qué piensan ustedes, el pueblo? ¡Salimos a la calle a averiguarlo!
+TEXT_KINGRA301_05435_ARCADIONFANA_000_119	¿Pelear sin almas ferales? ¿Qué sentido tendría?
+TEXT_KINGRA301_05435_ARCADIONFANA_000_120	¡Estamos hablando del Arcadion! ¡Si no puedo ver a una mujer musculosa con el alma de una bestia exprimiéndoles la vida a sus enemigos como si hiciera jugo, no me interesa!
+TEXT_KINGRA301_05435_ARCADIONFANB_000_121	¿<if(gnum4,La guerrera sin potenciar,El guerrero sin potenciar)>? Una novedad, nada más, para levantar el interés en el campeonato.
+TEXT_KINGRA301_05435_ARCADIONFANB_000_122	Admito que al principio era interesante. Pero el número ya se volvió viejo, y todos se cansaron de él. Yo por lo menos sí.
+TEXT_KINGRA301_05435_ARCADIONFANC_000_123	Sinceramente, <if(gnum4,a la recién llegada,al recién llegado)> l<if(gnum4,a,o)> desprecio. Para empezar, obligó a Howling Blade a retirarse con esa apuesta escandalosa.
+TEXT_KINGRA301_05435_ARCADIONFANC_000_124	¡No necesitamos que venga un forastero a pisotear nuestras tradiciones! ¡Deja en paz al Arcadion, ¿me oyes?! ¡Deja en paz al Arcadion!
+TEXT_KINGRA301_05435_VAMPFATALE_000_125	¿Ven? Nadie quiere su lamentable remedo de espectáculo.
+TEXT_KINGRA301_05435_METEM_000_126	Eh, qué raro... También debería haber habido entrevistados que apoyaran a <split(<string(gstr1)>, ,1)>...
+TEXT_KINGRA301_05435_METEM_000_127	O-O quizá no...
+TEXT_KINGRA301_05435_VAMPFATALE_000_128	Sigues tú, <italic(1)>cariño<italic(0)>. Fuiste <if(gnum4,una chica muy mala,un chico muy malo)>.
+TEXT_KINGRA301_05435_VAMPFATALE_100_128	Y te voy a dar el castigo que te mereces.
+TEXT_KINGRA301_05435_YAANA_000_140	¡Malditos! ¡Está clarísimo que solo mostraron las entrevistas que le sirven al presidente!
+TEXT_KINGRA301_05435_YAANA_000_141	Lamento que hayas tenido que ver eso, <split(<string(gstr1)>, ,1)>.
+TEXT_KINGRA301_05435_YAANA_100_140	Pero tienes muchísimos seguidores allá afuera, y esa es la pura verdad.
+TEXT_KINGRA301_05435_EXCITABLEMAN_000_142	¡Perdonen que entremos así de golpe! Pero después de la transmisión de recién, no podíamos quedarnos quietos...
+TEXT_KINGRA301_05435_EXCITABLEBOY_000_143	¡Eres mi <if(gnum4,heroína,héroe)>, <if(gnum4,señorita,señor)>! ¡Voy a seguir alentándote, así que por favor no te rindas!
+TEXT_KINGRA301_05435_UNENHANCEDWARRIORFANA_000_144	Somos muchos los que sentimos lo mismo. Creemos en ti, y queríamos que lo supieras.
+TEXT_KINGRA301_05435_UNENHANCEDWARRIORFANB_000_145	Me pongo nervioso cada vez que te veo pelear, pero al mismo tiempo me inspiras. Me das valor. Eso no me pasa con los luchadores que usan almas ferales.
+TEXT_KINGRA301_05435_EXCITABLEMAN_000_146	¡Así es! ¡Y no olvides que al principio en el Arcadion ni siquiera se usaban almas!
+TEXT_KINGRA301_05435_UNENHANCEDWARRIORFANA_000_147	¡Seguro que los demás luchadores también podrían dar un espectáculo emocionante sin potenciarse!
+TEXT_KINGRA301_05435_EXCITABLEMAN_000_148	No se puede negar que los combates con almas ferales son un espectáculo. Pero por lo mismo, se sienten artificiales.
+TEXT_KINGRA301_05435_EXCITABLEMAN_100_148	Tus combates, en cambio, son de lo más reales, ¡y me encienden como nada! ¡Así que mantén la frente en alto y sigue peleando por lo justo en el peso pesado!
+TEXT_KINGRA301_05435_EXCITABLEBOY_000_149	¡P-Por favor, déjenme entrar a su gimnasio! ¡Quiero ser un luchador igual que <split(<string(gstr1)>, ,1)>!
+TEXT_KINGRA301_05435_YAANA_000_150	¡Vaya, nos alegraría tener un aprendiz tan entusiasta!
+TEXT_KINGRA301_05435_YAANA_000_151	Pero te advierto que el entrenamiento no es fácil. ¿Por qué no vuelves primero con tus padres para recorrer el lugar?
+TEXT_KINGRA301_05435_YAANA_000_152	¿Ves? ¡Tienes muchísimos seguidores!
+TEXT_KINGRA301_05435_YAANA_000_153	Aunque ya no haya almas ferales, no es el fin del Arcadion. Mucha gente te admira y te apoya, y también peleas por ellos.
+TEXT_KINGRA301_05435_YAANA_000_154	Cuando me cure, me encantaría salir del retiro y pelear sin potenciarme yo también. Y creo que los demás sienten lo mismo.
+TEXT_KINGRA301_05435_YAANA_000_155	...¿Ah, sí? ¡Muy bien, allá vamos!
+TEXT_KINGRA301_05435_YAANA_000_156	Llegó el momento, <split(<string(gstr1)>, ,1)>: empiezan los combates del peso pesado. Metem nos pidió que nos encontremos con él en el camerino, como siempre.
+TEXT_KINGRA301_05435_YAANA_000_160	Voy a decirle un par de cosas sobre esas entrevistas...
+TEXT_KINGRA301_05435_METEM_000_170	¡Qué gusto verlos de nuevo, amigos! ¿Cómo han estado?
+TEXT_KINGRA301_05435_YAANA_000_171	Hemos estado mejor. ¿Qué fue esa transmisión?
+TEXT_KINGRA301_05435_METEM_000_172	Lo siento, pero fueron órdenes del presidente. Lo único que pude hacer fue dejar caer una pista de que había otras opiniones.
+TEXT_KINGRA301_05435_METEM_000_173	El retiro en masa del peso crucero hizo que el presidente se sienta amenazado. Diga lo que haya dicho antes, quiere deshacerse de ti.
+TEXT_KINGRA301_05435_METEM_000_174	En ese sentido, no sirve de nada intentar convencer a los luchadores del peso pesado de que lo dejen. A todos les informaron de su psiconecrosis, y eligen seguir peleando por voluntad propia.
+TEXT_KINGRA301_05435_METEM_000_175	Es porque les dijeron que, si logran derrotarte, podrán usar tu alma para curar su enfermedad.
+TEXT_KINGRA301_05435_YAANA_000_176	¡Grrr, ese desgraciado y sus trucos sucios!
+TEXT_KINGRA301_05435_METEM_000_177	La victoria es tu única salida, así que te sugiero que descargues en el ring el enojo que tengas. ¡Como antes, no me cabe duda de que vas a dejar tu huella también en el peso pesado!

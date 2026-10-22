@@ -1,0 +1,41 @@
+key	text
+TEXT_KINGRA105_04964_SEQ_00	La emoción de Yaana se nota a la legua.
+TEXT_KINGRA105_04964_SEQ_01	Yaana te presenta a tu próximo rival, Brute Bomber, el campeón del peso semipesado. Te advierte que usa el poder del rey bomba y que va a intentar ganar como sea. Aun así, confía en que no vas a caer ante sus métodos sin escrúpulos, y te preparas para lo que sin duda será tu combate más encendido hasta ahora.<br><br>※Puedes acceder a AAC Light-heavyweight M3 desde el Duty Finder.
+TEXT_KINGRA105_04964_SEQ_02	Después de esquivar incontables lariats y explosiones, por fin apagaste la llama de Brute Bomber. Yaana va a querer felicitarte por la victoria.<br><br>※Si sales de la zona, puedes volver hablando con el empleado del Arcadion frente al Arcadion.
+TEXT_KINGRA105_04964_SEQ_03	Yaana está encantada con tu logro y sigue impresionadísima por todo lo que conseguiste sin regulador. Como ganaste el título de campeón del peso semipesado, Yaana te pide que te prepares para la ceremonia de coronación. Cuando estés list<if(gnum4,a,o)>, te va a acompañar al escenario.
+TEXT_KINGRA105_04964_SEQ_04	Brute Bomber interrumpe lo que debía ser un momento feliz, molesto por no haber ganado el combate. Intenta embestirte, pero un rayo cae sobre el pirómano desde arriba. Las luces del estadio se apagan de golpe y, cuando vuelven un momento después, en el ring está nada menos que la hermana de Yaana, Eutrope, también conocida como Wicked Thunder. Amenaza con quitarte el alma, y Metem lo toma como un desafío. Pero no tiene autoridad para permitir un duelo así, porque a la bruja de nueva generación le revocaron la licencia cuando desapareció. Justo entonces, la voz del presidente de Ascension Arcadia retumba por el estadio para autorizar el enfrentamiento, y así queda decidido tu próximo rival. Pero Yaana parece tener sentimientos encontrados con este giro de los acontecimientos...
+TEXT_KINGRA105_04964_TODO_00	Completa AAC Light-heavyweight M3.
+TEXT_KINGRA105_04964_TODO_01	Habla con Yaana.
+TEXT_KINGRA105_04964_TODO_02	Vuelve a hablar con Yaana.
+TEXT_KINGRA105_04964_YAANA_100_000	¡Si ganas el próximo combate, vas a ser <if(gnum4,la campeona,el campeón)> del peso semipesado! ¡Démoslo todo!
+TEXT_KINGRA105_04964_YAANA_000_100	Bien, veamos a tu rival.
+TEXT_KINGRA105_04964_YAANA_000_101	Ese de ahí, lamento decirlo, es el campeón vigente del peso semipesado, Brute Bomber.
+TEXT_KINGRA105_04964_YAANA_000_102	Usa el poder del rey bomba para hacer estallar todo lo que toca. Pero eso va a ser lo que menos te preocupe.
+TEXT_KINGRA105_04964_YAANA_000_103	Es un luchador sucio que hace lo que sea para ganar, al diablo con las reglas. Incontables rivales suyos terminaron en la enfermería.
+TEXT_KINGRA105_04964_YAANA_000_104	¡Pero te va a ir bien, estoy segura! ¡Si me ganaste a mí, también puedes ganarle a Brute Bomber!
+TEXT_KINGRA105_04964_YAANA_000_105	¡Ahora ve, saca a ese bruto asqueroso de su propio ring de una explosión y vuelve como <if(gnum4,la nueva campeona,el nuevo campeón)>!
+TEXT_KINGRA105_04964_YAANA_000_110	¡Creo en ti, <split(<string(gstr1)>, ,1)>! ¡Saca a Brute Bomber de su propio ring de una explosión y conviértete en <if(gnum4,campeona,campeón)>!
+TEXT_KINGRA105_04964_YAANA_000_120	¡Lo lograste! ¡De verdad lo lograste! ¡Aunque me ganaste a mí, estoy contentísima por ti!
+TEXT_KINGRA105_04964_YAANA_000_121	Es realmente asombroso lo que puedes hacer sin un alma feral...
+TEXT_KINGRA105_04964_YAANA_000_122	¡Con esto, ahora eres <if(gnum4,la campeona,el campeón)> del peso semipesado! ¡Felicidades, <split(<string(gstr1)>, ,1)>!
+TEXT_KINGRA105_04964_YAANA_000_123	Ahora va a haber una ceremonia para coronarte oficialmente. Todo el mundo va a estar mirando, ¡así que ponte algo de lo que no te arrepientas!
+TEXT_KINGRA105_04964_YAANA_000_130	¿List<if(gnum4,a,o)>? ¡Entonces vamos al escenario para tu gran momento!
+TEXT_KINGRA105_04964_000870_METEM_000_200	¡Queridos ciudadanos! Estamos aquí reunidos para reconocer a <if(gnum4,una nueva campeona,un nuevo campeón)> del Arcadion: ¡una estrella en ascenso que llegó a la cima del peso semipesado a una velocidad vertiginosa!
+TEXT_KINGRA105_04964_METEM_000_201	Sin más preámbulos, ¡den una cálida bienvenida a <if(gnum4,la protagonista,el protagonista)> de la noche!
+TEXT_KINGRA105_04964_METEM_000_202	¡<if(gnum4,La imparable recién llegada,El imparable recién llegado)>, <if(gnum4,la invicta sin potenciar,el invicto sin potenciar)>, <if(gnum4,la única e inigualable,el único e inigualable)> <string(gstr1)>!
+TEXT_KINGRA105_04964_BRUTEBOMBER_000_203	¡Alto ahí!
+TEXT_KINGRA105_04964_BRUTEBOMBER_000_204	¡Tu victoria fue una farsa, y me niego a aceptarla!
+TEXT_KINGRA105_04964_METEM_000_205	¡Vaya! ¡Parece que Brute Bomber no está conforme con el resultado de su combate!
+TEXT_KINGRA105_04964_BRUTEBOMBER_000_206	¡Peleaste con ocho! ¡¿Qué tiene eso de justo?! ¡Arreglemos esto uno contra uno, tú y yo solos!
+TEXT_KINGRA105_04964_YAANA_000_207	¡Mira quién habla de justicia! ¡Si va a ser uno contra uno, pelea sin tu maldito rey bomba!
+TEXT_KINGRA105_04964_BRUTEBOMBER_000_208	¡Cierren la boca! ¡Aquí las reglas las pongo yo!
+TEXT_KINGRA105_04964_METEM_000_209	¡¿Qué rayos acaba de pasar?!
+TEXT_KINGRA105_04964_YAANA_000_210	¡¿Eutrope?!
+TEXT_KINGRA105_04964_METEM_000_211	¡N-No lo puedo creer! ¡Wicked Thunder, la luchadora del peso pesado que desapareció de repente, está de vuelta!
+TEXT_KINGRA105_04964_EUTROPE_000_212	¡Tu alma será mía! ¡Prepárate!
+TEXT_KINGRA105_04964_METEM_000_213	¡¿Qué es esto?! ¡Wicked Thunder acaba de desafiar a <if(gnum4,la imparable recién llegada,el imparable recién llegado)>!
+TEXT_KINGRA105_04964_METEM_000_214	Lamentablemente, por mucho que quiera presenciar el enfrentamiento, a Wicked Thunder le revocaron la licencia cuando desapareció. No puedo autorizar un combate así...
+TEXT_KINGRA105_04964_ARCADIAOWNER_000_215	(-Voz retumbante-)Interesante... Muy interesante...
+TEXT_KINGRA105_04964_METEM_000_216	¡E-Esa voz! ¡Es el presidente!
+TEXT_KINGRA105_04964_ARCADIAOWNER_000_217	(-Presidente de Ascension Arcadia-)Permitiré un combate de exhibición especial. Preparen el ring de Wicked Thunder... y prepárate tú, <if(gnum4,recién llegada,recién llegado)>.
+TEXT_KINGRA105_04964_METEM_000_218	¡Ya lo oyeron, amigos! ¡Con el permiso del presidente, habrá combate! ¿Quién saldrá victorioso: la bruja de nueva generación o <if(gnum4,la guerrera sin potenciar,el guerrero sin potenciar)>? ¡Es un evento que no se pueden perder!

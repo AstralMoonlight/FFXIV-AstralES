@@ -1,0 +1,117 @@
+key	text
+TEXT_KINGRA304_05438_SEQ_00	La satisfacción se nota claramente en la cara de Yaana.
+TEXT_KINGRA304_05438_SEQ_01	Mientras avanzan los preparativos del combate por el título del peso pesado, Yaana propone volver a su gimnasio para que descanses antes del gran evento. Pero apenas sales del Arcadion, te abordan los luchadores del peso pesado Vamp Fatale, Deep Blue y Red Hot. Sin embargo, la emboscada termina de golpe con la llegada repentina del Tyrant. Después de despacharlos en un instante, te exige que conozcas la historia del Arcadion, ya que estás tan decidid<if(gnum4,a,o)> a cambiar su futuro. Por su explicación queda claro que cree que el uso de almas ferales es esencial para la identidad de la institución. Aunque hay fans que están de acuerdo, también hay quienes recibirían el cambio con gusto. El Tyrant se va tan de repente como apareció y, con el camino libre por fin, Yaana quiere volver rápido para saber cómo salió el rescate.
+TEXT_KINGRA304_05438_SEQ_02	Al entrar al gimnasio ves que los demás todavía no volvieron, y Yaana está visiblemente ansiosa. Justo cuando intentas distraerla de la misión, aparece por fin Retsarra, y detrás de él, Neyuni, algo desaliñada pero sana. Cuando están todos, ella explica que los secuestradores le quitaron el regulador a Eutrope y se la llevaron a otro lugar. El mismo modus operandi que usaba el presidente para ocultar el verdadero destino de los inmortalizados. Yaana pierde la esperanza por un momento, hasta que Dancing Green le da unas palabras de aliento muy necesarias. Con el rescate de Eutrope en manos de Metem, tu misión es asegurar la cura quitándole el trono al Tyrant. Gracias al descubrimiento de Neyuni de que piensa usar el alma de un behemoth en el combate, puedes enfrentarlo sabiendo bien a qué te expones. Y parece que hasta Pomb, la adorable gatita de Hector, quiere alentarte: ¿cómo podrías perder?
+TEXT_KINGRA304_05438_SEQ_03	Por la publicidad del combate por el título, Yaana espera que haya fans en el camino al Arcadion, y te propone hablar con ellos antes del gran evento. Quizá hasta te levanten el ánimo...<br><br>※Para completar esta tarea, Yaana y Pomb tienen que acompañarte. Si se separan, vuelve a hablar con cualquiera de las dos frente a Tritails Training.
+TEXT_KINGRA304_05438_SEQ_04	Al hablar con los fans en True Vue, recuerdas cómo tus actos pueden inspirar a otros, y a la vez sientes que sus palabras te llenan de inspiración y de ánimo. Se acerca la hora del combate por el título, así que partes hacia el Arcadion junto a tu segundo y a la más adorable de las porristas.<br><br>※Para completar esta tarea, Yaana y Pomb tienen que acompañarte. Si se separan, vuelve a hablar con cualquiera de las dos frente a Tritails Training.
+TEXT_KINGRA304_05438_SEQ_05	El empleado del Arcadion te recibe con cordialidad como siempre, aunque con algo de curiosidad por la presencia de Pomb. Yaana le explica que Pomb viene a alentarte, y eso satisface su curiosidad y lo lleva a guiarte al camerino.
+TEXT_KINGRA304_05438_TODO_00	Habla con Yaana en Tritails Training.
+TEXT_KINGRA304_05438_TODO_01	Habla con Yaana frente a Tritails Training para que te acompañe.
+TEXT_KINGRA304_05438_TODO_02	Habla con tus fans en True Vue mientras Yaana y Pomb te acompañan.
+TEXT_KINGRA304_05438_TODO_03	Habla con el empleado del Arcadion mientras Yaana y Pomb te acompañan.
+TEXT_KINGRA304_05438_YAANA_000_000	¡Con esto te ganaste la oportunidad de pelear por el título contra el campeón absoluto! Para ese combate vas a tener que estar más preparad<if(gnum4,a,o)> que nunca, pero por ahora toca descansar bien. Volvamos al gimnasio.
+TEXT_KINGRA304_05438_EXCITABLEMAN_000_100	¡Primero Vamp Fatale, y ahora los dos Xtremes a la vez! ¡Eres increíble!
+TEXT_KINGRA304_05438_EXCITABLEBOY_000_101	¡Sabía que ibas a ganarles a esos abusones, <split(<string(gstr1)>, ,1)>! ¡Te veías genial ahí arriba!
+TEXT_KINGRA304_05438_DEEPBLUE_000_102	(-???-)Esto no se acaba hasta que se acaba.
+TEXT_KINGRA304_05438_VAMPFATALE_000_103	¿Cómo te irá sin simulacros a tu disposición?
+TEXT_KINGRA304_05438_YAANA_000_104	¡Cobardes!
+TEXT_KINGRA304_05438_THETYRANT_000_105	(-Guerrero solemne-)Perros sin honor. Son una plaga para el Arcadion. ¡Fuera de mi vista!
+TEXT_KINGRA304_05438_ARCADIONFANA_000_106	¡Es el Tyrant! ¡¿Qué hace aquí el campeón absoluto?!
+TEXT_KINGRA304_05438_THETYRANT_000_107	Guarda tu arma, <if(gnum4,retadora,retador)>. Un verdadero guerrero no enfrenta a su rival fuera del ring sagrado.
+TEXT_KINGRA304_05438_THETYRANT_000_108	Soy el campeón absoluto del Ascension Arcadia Championship.
+TEXT_KINGRA304_05438_THETYRANT_000_109	Y sé todo sobre ti, <if(gnum4,recién llegada,recién llegado)>. Te crees <if(gnum4,una técnica,un técnico)> que trae el cambio, pero para mí eres <if(gnum4,una ruda,un rudo)> que quiere derribar nuestras tradiciones.
+TEXT_KINGRA304_05438_ARCADIONFANC_000_110	¡Así es! ¡No eres más que <if(gnum4,una villana,un villano)>!
+TEXT_KINGRA304_05438_THETYRANT_000_111	Si estás resuelt<if(gnum4,a,o)> a destruir el Arcadion tal como lo conocemos, lo justo es que entiendas cómo llegó a ser lo que es. Escucha bien.
+TEXT_KINGRA304_05438_THETYRANT_000_112	Todo empezó con el antepasado del presidente. Era un noble del reino de Lindblum, conocido por su amor y su mecenazgo de las artes teatrales.
+TEXT_KINGRA304_05438_THETYRANT_000_113	Cuando la Storm Surge llegó a su punto álgido, se vio obligado a huir de su patria. Durante años vagó por los páramos interminables hasta que, desesperado, buscó refugio aquí, en la nación enemiga de Alexandria.
+TEXT_KINGRA304_05438_THETYRANT_000_114	Para su gran sorpresa, los alejandrinos lo recibieron con los brazos abiertos. Y al verlos trabajar codo a codo para construir nuevas vidas, tuvo la visión de aquel antiguo paraíso del mito: Arcadia.
+TEXT_KINGRA304_05438_THETYRANT_000_115	Anhelaba devolver la bondad que había recibido, y al fin encontró la respuesta en las competencias de lucha que el pueblo disfrutaba en secreto como distracción.
+TEXT_KINGRA304_05438_THETYRANT_000_116	Con las riquezas que había traído, creó una nueva forma de entretenimiento, una que une combates emocionantes y teatro cautivador. Así nació el Arcadion.
+TEXT_KINGRA304_05438_THETYRANT_000_117	Por desgracia, no perduró en su forma original. A medida que sobrevivir se volvía más difícil, también lo era organizar combates. Al final dejaron de celebrarse por completo, y el Arcadion quedó casi olvidado.
+TEXT_KINGRA304_05438_THETYRANT_000_118	Pasaron los años. Los avances del electrope trajeron estabilidad, y la llegada de la tecnología de las almas, una sensación de seguridad. Por primera vez en generaciones, los alejandrinos conocieron el tedio.
+TEXT_KINGRA304_05438_THETYRANT_000_119	Deseando darles la emoción que ansiaban, el presidente revivió el Arcadion y organizó combates que enfrentaban a simulacros recreados.
+TEXT_KINGRA304_05438_THETYRANT_000_120	Y cuando el pueblo clamó por combates más feroces, lo complació con el uso de almas ferales. Así fue como el Arcadion llegó a ser el principal entretenimiento de Alexandria y un pilar de nuestra cultura.
+TEXT_KINGRA304_05438_THETYRANT_000_121	Esta es la historia del Arcadion, el legado que vive en sus salones sagrados. ¡Esto es lo que buscas destruir!
+TEXT_KINGRA304_05438_THETYRANT_000_122	¡Las almas ferales son el alma misma de los luchadores, y no vamos a permitir que un forastero le dicte reglas a nuestra cultura y nos las quite!
+TEXT_KINGRA304_05438_ARCADIONFANA_000_123	¡Bien dicho! ¡Viva el Tyrant! ¡El único y verdadero rey del Arcadion!
+TEXT_KINGRA304_05438_Q1_000_000	¿Qué vas a decir?
+TEXT_KINGRA304_05438_A1_000_001	Se puede satisfacer a la gente aun sin potenciarse.
+TEXT_KINGRA304_05438_A1_000_002	Las almas ferales opacan el verdadero esplendor del combate.
+TEXT_KINGRA304_05438_UNENHANCEDWARRIORFANB_000_124	¡Así es! ¡<split(<string(gstr1)>, ,1)> nos mostró lo emocionantes que pueden ser los combates sin potenciar!
+TEXT_KINGRA304_05438_UNENHANCEDWARRIORFANA_000_125	¡Exacto! ¡Más que un espectáculo, quiero ver un combate de verdad! ¡Ahí está la emoción!
+TEXT_KINGRA304_05438_THETYRANT_000_126	Quizá llamaste la atención por pelear sin potenciarte, pero al final no eres más que <if(gnum4,una ruda pensada,un rudo pensado)> para generar emoción. Tu destino es caer.
+TEXT_KINGRA304_05438_YAANA_000_127	Como viste, el Tyrant es una fuerza a tener en cuenta incluso sin usar un alma feral. Además, como campeón absoluto, tiene libre acceso al depósito de almas y puede elegir la mejor alma para cada rival.
+TEXT_KINGRA304_05438_YAANA_000_128	Eso hace difícil darte consejos. Si al menos supiéramos qué alma va a usar, tendríamos algo con qué trabajar...
+TEXT_KINGRA304_05438_YAANA_000_129	En fin, volvamos al gimnasio. Estoy ansiosa por saber cómo salió el rescate...
+TEXT_KINGRA304_05438_YAANA_000_140	Retsarra y los demás todavía no volvieron. Espero que estén bien...
+TEXT_KINGRA304_05438_NEYUNI_000_150	¡Yaana!
+TEXT_KINGRA304_05438_YAANA_000_151	¡Neyuni! ¡Ay, menos mal!
+TEXT_KINGRA304_05438_THEHOWLINGBLADE_000_152	Lo siento. No pudimos rescatar a Eutrope.
+TEXT_KINGRA304_05438_HONEYBLOVELY_000_153	Encontramos a Neyuni en el salón de recepción, pero no había rastro de Eutrope, ni tiempo para buscarla.
+TEXT_KINGRA304_05438_NEYUNI_000_154	Los secuestradores le quitaron el regulador a Eutrope cuando nos raptaron. Y después se la llevaron a otro lugar.
+TEXT_KINGRA304_05438_YAANA_000_155	¿L-Le quitaron el regulador? Oh, no... Eso es lo que les hacen a los inmortalizados...
+TEXT_KINGRA304_05438_DANCINGGREEN_000_156	Vamos, no se desanimen todavía.
+TEXT_KINGRA304_05438_DANCINGGREEN_000_157	¡En momentos como este, hay que seguir bailando!
+TEXT_KINGRA304_05438_SUGARRIOT_000_158	Ten un poco de tacto, ¿quieres? ¡Estamos hablando de su hermana!
+TEXT_KINGRA304_05438_YAANA_000_159	No, tiene razón. No es momento de temer lo peor. Ya es una bendición que Neyuni esté sana y salva.
+TEXT_KINGRA304_05438_YAANA_000_160	Igual, dudo que el presidente se quede de brazos cruzados. Me preocupa lo que pueda hacer...
+TEXT_KINGRA304_05438_THEHOWLINGBLADE_000_161	En eso puedes quedarte tranquila. En realidad tenemos un colaborador adentro.
+TEXT_KINGRA304_05438_THEHOWLINGBLADE_100_161	¡Metem!
+TEXT_KINGRA304_05438_THEHOWLINGBLADE_000_162	Lo buscamos sin muchas expectativas, y nos sorprendió gratamente que aceptara ayudar. Se las arregló para que el presidente no se entere pronto de nuestra incursión.
+TEXT_KINGRA304_05438_THEHOWLINGBLADE_100_162	Además, Metem tiene una idea de dónde podría estar Eutrope. Prometió que la traería de vuelta sana y salva.
+TEXT_KINGRA304_05438_YAANA_000_163	¿Metem hizo todo eso? Quizá lo juzgué mal...
+TEXT_KINGRA304_05438_Q3_000_000	¿Qué vas a decir?
+TEXT_KINGRA304_05438_A3_000_001	¿De verdad podemos confiar en él?
+TEXT_KINGRA304_05438_A3_000_002	Podría ser un peón del presidente.
+TEXT_KINGRA304_05438_YAANA_100_164	A decir verdad, yo también me siento intranquila. Pero ahora mismo no nos queda otra que confiar en él.
+TEXT_KINGRA304_05438_NEYUNI_000_164	¡Ah, cierto! Yo también tengo buenas noticias. Mientras estaba encerrada en el salón de recepción, pude acceder a una terminal y saqué información útil.
+TEXT_KINGRA304_05438_NEYUNI_000_165	¡Los datos del Tyrant! ¡En el próximo combate por el título piensa usar el alma de un behemoth!
+TEXT_KINGRA304_05438_YAANA_000_166	¡Neyuni, eso es increíble! ¡Gracias a ti, <split(<string(gstr1)>, ,1)> va a tener muchas más posibilidades!
+TEXT_KINGRA304_05438_YAANA_000_167	Supongo que los preparativos del combate van a terminar pronto, así que vamos al Arcadion. Allí podemos hablar del combate en detalle.
+TEXT_KINGRA304_05438_THEHOWLINGBLADE_000_168	Pronto se va a terminar, cuando liberemos a Eutrope y te conviertas en <if(gnum4,campeona absoluta,campeón absoluto)>. Nadie volverá a pelear con almas ferales, y los que tienen psiconecrosis podrán curarse.
+TEXT_KINGRA304_05438_THEHOWLINGBLADE_000_169	Como antes, contamos contigo, <split(<string(gstr1)>, ,1)>. ¡Todos vamos a estar rezando por tu triunfo!
+TEXT_KINGRA304_05438_THEHOWLINGBLADE_000_170	Parece que Pomb quiere acompañarte. Quizá cree que Hector va a estar en el Arcadion...
+TEXT_KINGRA304_05438_YAANA_000_171	Quizá también quiere alentar a <split(<string(gstr1)>, ,1)>. Llevémosla, ¿eh?
+TEXT_KINGRA304_05438_THEHOWLINGBLADE_000_180	Mientras confiamos en que Metem cumpla su palabra, tú tienes que concentrarte por completo en el combate por el título. ¡Conviértete en <if(gnum4,campeona absoluta,campeón absoluto)>, <split(<string(gstr1)>, ,1)>, y libera todas las almas del depósito, sobre todo por Hector!
+TEXT_KINGRA304_05438_NEYUNI_000_181	Si el presidente desciende de la nobleza de Lindblum, tiene sentido que conozca la cura para la psiconecrosis. ¡Si logra derrotar al Tyrant, vamos a poder salvarlos a todos!
+TEXT_KINGRA304_05438_HONEYBLOVELY_000_182	El Arcadion es el escenario más grande de Alexandria, y cuento con tu victoria para volver a lo grande. ¡No me defraudes, o voy a tener que picarte!♪
+TEXT_KINGRA304_05438_DANCINGGREEN_000_183	¿Nervios por el combate por el título? Lo tienes, baby. Relájate y disfruta, y antes de que te des cuenta vas a estar bailando toda la noche en tu fiesta de victoria.
+TEXT_KINGRA304_05438_SUGARRIOT_000_184	¡Me viene una imagen! ¡Te están coronando <if(gnum4,campeona absoluta,campeón absoluto)>, y todos los que salvaste están ahí celebrando!
+TEXT_KINGRA304_05438_POMB_000_185	Miau...
+TEXT_KINGRA304_05438_YAANA_000_190	Bien, vamos al Arcadion. Con toda la publicidad del combate, seguro va a haber fans en el camino.
+TEXT_KINGRA304_05438_YAANA_000_191	¿Por qué no te tomas un momento para hablar con ellos? ¡Seguro tienen palabras de aliento para ti!
+TEXT_KINGRA304_05438_Q2_000_000	¿Qué vas a hacer?
+TEXT_KINGRA304_05438_A2_000_001	Hablar.
+TEXT_KINGRA304_05438_A2_000_002	Separarse.
+TEXT_KINGRA304_05438_A2_000_003	Nada.
+TEXT_KINGRA304_05438_YAANA_000_200	La próxima vez que camines por estas calles, vas a ser <if(gnum4,la campeona absoluta,el campeón absoluto)>. ¡Estoy segura!
+TEXT_KINGRA304_05438_POMB_000_201	¡Miau! ¡Miaaau!
+TEXT_KINGRA304_05438_SYSTEM_000_202	A juzgar por sus maullidos enérgicos, Pomb tiene ganas de llegar al Arcadion.
+TEXT_KINGRA304_05438_SYSTEM_000_210	¿Seguro que quieres separarte de tus acompañantes?
+TEXT_KINGRA304_05438_YAANA_000_211	¡¿Qué?! ¡¿Un asunto urgente en un momento así?! Está bien, te esperamos en el gimnasio, ¡pero trata de no tardar!
+TEXT_KINGRA304_05438_POMB_000_212	¡Fsssss!
+TEXT_KINGRA304_05438_YAANA_000_220	¡Ah, ahí estás! ¡Vamos!
+TEXT_KINGRA304_05438_POMB_000_221	¡Miau!
+TEXT_KINGRA304_05438_SYSTEM_000_230	Para avanzar en los objetivos de la misión, Yaana y Pomb tienen que acompañarte y estar a tu lado.
+TEXT_KINGRA304_05438_SYSTEM_000_231	Tus acompañantes todavía no llegaron. Asegúrate de que estén a tu lado antes de continuar.
+TEXT_KINGRA304_05438_UNENHANCEDWARRIORFANA_100_235	¡<split(<string(gstr1)>, ,1)>! ¡No puedo creer que ya sea tu combate por el título del peso pesado! Ah, pero ¿Yaana no está contigo?
+TEXT_KINGRA304_05438_UNENHANCEDWARRIORFANB_100_236	¡<if(gnum4,L-La imparable recién llegada,E-El imparable recién llegado)> me está hablando! Pero espera, ¿dónde está tu segundo? ¿Todavía no vas al ring?
+TEXT_KINGRA304_05438_EXCITABLEBOY_100_237	¡Tú puedes, <split(<string(gstr1)>, ,1)>! ¡Puedes vencer al Tyrant! Ah, pero ¿dónde está Yaana...?
+TEXT_KINGRA304_05438_ARCADIAATTENDANT_100_238	Saludos, <split(<string(gstr1)>, ,1)>. Cuando llegue su segundo, Yaana, los llevaré a los dos al camerino.
+TEXT_KINGRA304_05438_UNENHANCEDWARRIORFANA_000_240	¡<split(<string(gstr1)>, ,1)>! ¡No puedo creer que ya sea tu combate por el título del peso pesado! ¡Confío plenamente en que vas a ganar y a traer una nueva era al Arcadion!
+TEXT_KINGRA304_05438_UNENHANCEDWARRIORFANA_000_241	Ahora que estamos conectados con el mundo exterior, nuestra sociedad empezó a cambiar. Es natural que el Arcadion también cambie.
+TEXT_KINGRA304_05438_UNENHANCEDWARRIORFANB_000_243	¡<if(gnum4,L-La imparable recién llegada,E-El imparable recién llegado)> me está hablando! ¡Qué honor!
+TEXT_KINGRA304_05438_UNENHANCEDWARRIORFANB_000_244	A decir verdad, perdí a alguien querido en los ataques recientes. Pero mientras me hundía en la pena, te vi enfrentar a tus rivales sin potenciarte en absoluto, y eso me dio el valor para seguir.
+TEXT_KINGRA304_05438_UNENHANCEDWARRIORFANB_000_245	Y no soy el único. Hay muchos como yo a los que inspira tu figura inquebrantable en el ring, ¡y verte convertirte en <if(gnum4,campeona absoluta,campeón absoluto)> sería la mayor inspiración de todas!
+TEXT_KINGRA304_05438_EXCITABLEBOY_000_246	¡Tú puedes, <split(<string(gstr1)>, ,1)>! ¡Puedes vencer al Tyrant y convertirte en <if(gnum4,la campeona absoluta,el campeón absoluto)>!
+TEXT_KINGRA304_05438_EXCITABLEBOY_000_247	¡Cuando sea grande voy a ser un luchador como tú! ¡Así podemos formar una pareja y darles una lección a los malos!
+TEXT_KINGRA304_05438_YAANA_000_249	Je, je, escuchar a los fans te enciende de verdad, ¿no? Te inspiran tanto como tú a ellos. Vamos, sigamos hacia el camerino.
+TEXT_KINGRA304_05438_UNENHANCEDWARRIORFANA_000_250	¡Confío en que vas a ganar y a cambiar el Arcadion para mejor!
+TEXT_KINGRA304_05438_UNENHANCEDWARRIORFANC_000_251	¡Voy a estar alentándote, <split(<string(gstr1)>, ,1)>!
+TEXT_KINGRA304_05438_UNENHANCEDWARRIORFANB_000_252	Con tu valor nos inspiraste a mí y a muchos, <split(<string(gstr1)>, ,1)>. ¡Y si te conviertes en <if(gnum4,campeona absoluta,campeón absoluto)>, sería la mayor inspiración de todas!
+TEXT_KINGRA304_05438_EXCITABLEBOY_000_253	¡Tú puedes, <split(<string(gstr1)>, ,1)>! ¡Puedes vencer al Tyrant y convertirte en <if(gnum4,la campeona absoluta,el campeón absoluto)>!
+TEXT_KINGRA304_05438_EXCITABLEFATHER_000_254	¡Mi hijo y yo vamos a rezar con todo el corazón por tu victoria!
+TEXT_KINGRA304_05438_ARCADIAATTENDANT_000_260	<if(gnum4,La,Lo)> esperábamos, <split(<string(gstr1)>, ,1)>.
+TEXT_KINGRA304_05438_ARCADIAATTENDANT_100_260	¿Y esta es...?
+TEXT_KINGRA304_05438_YAANA_000_261	Quiere alentar a <split(<string(gstr1)>, ,1)>. No hay problema, ¿verdad?
+TEXT_KINGRA304_05438_ARCADIAATTENDANT_000_262	No, en absoluto. Si me acompañan, por favor.
