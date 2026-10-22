@@ -1,0 +1,82 @@
+key	text
+TEXT_LUCKRA101_03255_SEQ_00	Uno de los guardias del Crystarium se ve muy aliviado de haberte encontrado.
+TEXT_LUCKRA101_03255_SEQ_01	Después de buscarte un buen rato, Ryne te cuenta que sintió una concentración de Luz en el Empty, el nombre que reciben las tierras que se tragó el Flood. Teme que se avecine otro cataclismo, así que te pide que la acompañes a ella, a Thancred y a Urianger en una expedición a esos páramos estériles para investigar el fenómeno. Quedan en reunirse en el Derrick, desde donde partirán en este viaje que podría ser peligroso.
+TEXT_LUCKRA101_03255_SEQ_02	Al llegar al Derrick, te reciben Urianger y Thancred, que quieren empezar la investigación cuanto antes. A ninguno le entusiasma la idea de recorrer el Empty, donde el aether del ambiente está tan desequilibrado que no conviene viajar en amaro ni en chocobo. Por suerte, Thancred consiguió prestado en el Crystarium un medio de transporte más mecánico, el aerodeslizador, que tiene menos probabilidades de verse afectado por esas anomalías. Con todas las provisiones y el equipo listos, los cuatro se preparan para subir a la nave y emprender un viaje hacia lo desconocido.
+TEXT_LUCKRA101_03255_SEQ_03	El primer tramo del viaje es de lo más tranquilo: nada más que páramos sin rasgos por malms y malms. La monotonía del paisaje termina por dormirte profundamente, y solo te despiertan las exclamaciones de sorpresa de Thancred al ver una entidad gigantesca que descansa dentro de un enorme cráter. Urianger concluye que se trata del primer sin eater, el que desató el Flood of Light. En lugar de idear una manera de destruir a la bestia, plantea que el poder que una vez amenazó con consumir toda la vida del planeta podría usarse para restaurar lo perdido. Ryne, que parece compartir el optimismo de Urianger, incluso propone llamarlo "Eden", que en la lengua de los fae significa "utopía". Thancred, en cambio, lleva la atención del grupo a asuntos más prácticos, como montar un campamento desde donde planear el siguiente paso.
+TEXT_LUCKRA101_03255_SEQ_04	Una vez que terminan de montar un campamento sencillo que sirva de base de operaciones, Thancred sale a explorar la zona, y Ryne sugiere esperar a que vuelva antes de discutir la mejor manera de investigar a Eden. Queda por ver si el enorme sin eater es la clave para devolverle el equilibrio a este mundo destrozado o un adversario al que hay que eliminar.
+TEXT_LUCKRA101_03255_TODO_00	Habla con Ryne cerca del Derrick.
+TEXT_LUCKRA101_03255_TODO_01	Habla con Ryne.
+TEXT_LUCKRA101_03255_TODO_02	Vuelve a hablar con Ryne.
+TEXT_LUCKRA101_03255_GUARD03255_100_000	¡Ah, <split(<string(gstr1)>, ,1)>! ¿Ya vio a Ryne? <if(gnum4,La,Lo)> anda buscando.
+TEXT_LUCKRA101_03255_GUARD03255_200_000	Espere aquí. Voy a buscarla.
+TEXT_LUCKRA101_03255_RYNE_000_001	¡Aquí está!
+TEXT_LUCKRA101_03255_RYNE_000_003	La verdad es que necesito su ayuda...
+TEXT_LUCKRA101_03255_RYNE_100_003	Espere... ¡Si todavía no le dije de qué se trata!
+TEXT_LUCKRA101_03255_RYNE_000_004	Ejem. Después de que derrotó a Emet-Selch, sentí una extraña concentración de Luz en algún lugar muy al sur.
+TEXT_LUCKRA101_03255_RYNE_000_005	En el Empty, las tierras que se tragó el Flood.
+TEXT_LUCKRA101_03255_RYNE_000_006	No sé qué es, pero tenemos que averiguarlo. ¡Por lo que sabemos, podría ser otro Lightwarden!
+TEXT_LUCKRA101_03255_RYNE_100_006	Pero sea lo que sea, no pienso quedarme mirando. Yo...
+TEXT_LUCKRA101_03255_RYNE_000_007	Perdón, me estoy adelantando. Thancred, Urianger y yo tenemos algunas teorías que pensamos poner a prueba cuando encontremos lo que sea que esté causando esto.
+TEXT_LUCKRA101_03255_RYNE_000_008	A los tres nos costaba pedirle ayuda, después de todo lo que pasó. Pero es la única persona que puede derrotar a un Lightwarden sin convertirse en uno, así que no tenemos opción.
+TEXT_LUCKRA101_03255_RYNE_100_008	No queremos sacar conclusiones apresuradas, pero sería bueno que estuviera con nosotros, por si acaso.
+TEXT_LUCKRA101_03255_RYNE_110_008	Entonces, ¿viene con nosotros?
+TEXT_LUCKRA101_03255_Q1_000_000	¿Qué vas a decir?
+TEXT_LUCKRA101_03255_Q1_000_001	¡No me lo perdería por nada!
+TEXT_LUCKRA101_03255_Q1_000_002	Quizás sea mejor no despertar al monstruo dormido.
+TEXT_LUCKRA101_03255_RYNE_000_010	¡Gracias, <split(<string(gstr1)>, ,1)>! Significa mucho para mí.
+TEXT_LUCKRA101_03255_RYNE_000_020	Entiendo lo que dice, pero si vamos a ignorarlo, al menos deberíamos saber <italic(1)>qué<italic(0)> es lo que estamos ignorando. Y echar un vistazo no le hace mal a nadie, ¿no?
+TEXT_LUCKRA101_03255_RYNE_000_030	Primero vamos al Derrick, en Amh Araeng. Thancred y Urianger ya deberían tener todo listo.
+TEXT_LUCKRA101_03255_THANCRED_000_040	Perdón por hacerte venir hasta acá. Aunque tengo la impresión de que vas a extrañar este lugar cuando veas adónde vamos.
+TEXT_LUCKRA101_03255_URIANGER_000_041	Es una bendición veros con tan buena salud.
+TEXT_LUCKRA101_03255_RYNE_000_050	Espero que las criaturas del desierto no le hayan dado mucho trabajo en el camino.
+TEXT_LUCKRA101_03255_THANCRED_000_051	Dudo que le hayan supuesto el menor desafío. Ojalá pudiera decir lo mismo con tanta seguridad de la bestia que sea que nos espera allá afuera.
+TEXT_LUCKRA101_03255_THANCRED_100_051	Aunque la Luz que sintió Ryne resulte no ser nada importante, el Empty no es precisamente un lugar acogedor. Cualquier cosa que pueda sobrevivir ahí no es para tomarse a la ligera.
+TEXT_LUCKRA101_03255_URIANGER_000_052	Además, cabe reiterar que el páramo devastado por la Luz supone una amenaza tan grave como cualquier enemigo que podamos enfrentar.
+TEXT_LUCKRA101_03255_URIANGER_000_053	Sea como fuere, coincidimos en que este fenómeno amerita una investigación. Aunque, a falta de medios más precisos para orientarnos, habremos de confiar en las habilidades innatas de Ryne para guiarnos.
+TEXT_LUCKRA101_03255_URIANGER_100_053	He formulado varias hipótesis sobre la naturaleza de la Luz, mas la especulación es un pobre sustituto de la observación directa.
+TEXT_LUCKRA101_03255_RYNE_000_055	Vamos a tener tiempo de sobra para hablarlo en el camino.
+TEXT_LUCKRA101_03255_RYNE_100_055	¿Está listo el aerodeslizador, Thancred?
+TEXT_LUCKRA101_03255_THANCRED_000_056	Listo para llevarnos adonde haga falta, sí. Y para traernos de vuelta también, quizás, si se lo pedimos con amabilidad.
+TEXT_LUCKRA101_03255_URIANGER_000_057	Aunque la Luz fue expulsada de Norvrandt, el aether del ambiente en el Empty sigue corrompido. Peligrosamente, de hecho.
+TEXT_LUCKRA101_03255_URIANGER_100_057	El Flood of Light arrasó con todo a su paso. La tierra, el aire, el agua... todo quedó incapaz de sostener la vida.
+TEXT_LUCKRA101_03255_URIANGER_110_057	Es por ese desequilibrio que el Empty sigue siendo del todo inhabitable, aun un siglo después.
+TEXT_LUCKRA101_03255_THANCRED_000_059	Por eso tomamos todas las precauciones posibles. Entre los aetherómetros que traje y las habilidades únicas de Ryne, deberíamos poder detectar y medir cualquier fluctuación en nuestra alineación.
+TEXT_LUCKRA101_03255_THANCRED_100_059	Según los exploradores del Crystarium, unos pocos días allá afuera no nos van a afectar de manera notable. Pero si nos quedamos mucho más, corremos el riesgo de convertirnos en sin eaters...
+TEXT_LUCKRA101_03255_THANCRED_000_060	Como todavía no sabemos cómo les va a ir a los chocobos y a los amaros en el Empty, optamos por un medio de transporte más mecánico. Es cortesía de los investigadores del Mean, que lo encontraron en la Crystal Tower y lo dejaron funcionando otra vez.
+TEXT_LUCKRA101_03255_RYNE_100_062	Es bastante seguro, se lo prometo. El encargado dijo que va a mandar repuestos desde el Crystarium si algo se rompe.
+TEXT_LUCKRA101_03255_RYNE_110_062	Parecía muy ansioso por ver qué traemos del Empty, aunque le dije que no vamos a buscar tesoros. Se lo presento si en algún momento pasamos por Mord Souq.
+TEXT_LUCKRA101_03255_RYNE_000_062	En fin, creo que eso es todo. ¡Cuando quiera salir, avíseme!
+TEXT_LUCKRA101_03255_THANCRED_000_070	Mientras yo piloteo y Ryne nos guía, tú y Urianger van a poder disfrutar del paisaje y de una conversación animada. O sea, él va a pasarse todo el viaje hablándote y tú vas a asentir.
+TEXT_LUCKRA101_03255_URIANGER_000_071	Aunque se cree que el Flood of Light borró del Empty todo rastro de vida, debemos mantenernos siempre alerta. No sabemos qué hallaremos.
+TEXT_LUCKRA101_03255_RYNE_000_070	Bueno, ¿vamos?
+TEXT_LUCKRA101_03255_YESNO_001	¿Partir hacia el Empty?
+TEXT_LUCKRA101_03255_THANCRED_000_080	Con un nombre como "el Empty", no esperaba un paisaje muy agradable, pero esto es directamente deprimente.
+TEXT_LUCKRA101_03255_URIANGER_000_081	Contemplar con mis propios ojos las tierras que se tragó el Flood... Es una visión que hiela la sangre.
+TEXT_LUCKRA101_03255_URIANGER_000_082	Cerca de nueve décimas partes de este mundo son así. Una pizarra casi borrada por completo...
+TEXT_LUCKRA101_03255_THANCRED_000_083	Si no fuera por los Warriors of Darkness y Minfilia...
+TEXT_LUCKRA101_03255_THANCRED_000_084	Ryne, ¿estás segura de que vamos en la dirección correcta?
+TEXT_LUCKRA101_03255_RYNE_000_085	Sí, estoy segura. Pero no hay forma de saber qué tan lejos está.
+TEXT_LUCKRA101_03255_THANCRED_000_086	Entonces no queda otra que seguir. Ustedes dos, allá atrás, bien podrían tomar una siesta. Tengo la impresión de que nos quedan unos cuantos malms por delante.
+TEXT_LUCKRA101_03255_THANCRED_000_087	Debo decir que es un poco más grande de lo que esperaba. Y eso... ¿está durmiendo?
+TEXT_LUCKRA101_03255_RYNE_000_088	No. Se está despertando.
+TEXT_LUCKRA101_03255_THANCRED_000_089	No me gusta cómo suena eso... ¿Es un Lightwarden?
+TEXT_LUCKRA101_03255_RYNE_000_090	No, no creo. En vez de estar lleno de Luz... <italic(1)>es<italic(0)> Luz.
+TEXT_LUCKRA101_03255_URIANGER_000_091	El primer sin eater...
+TEXT_LUCKRA101_03255_URIANGER_000_092	Mucho tiempo me he esforzado por desentrañar los misterios del Flood of Light. Por descubrir qué puso en marcha aquel terrible cataclismo.
+TEXT_LUCKRA101_03255_URIANGER_100_092	Cada hilo conducía a la misma conclusión. Al mismo punto único...
+TEXT_LUCKRA101_03255_THANCRED_000_093	O al mismo ser único...
+TEXT_LUCKRA101_03255_URIANGER_000_094	Tengo motivos para creer que la entidad que tenemos ante nosotros es el primer sin eater. El que desató el Flood, el mismísimo enemigo que Minfilia venció hace un siglo.
+TEXT_LUCKRA101_03255_THANCRED_000_095	Ella dio todo lo que tenía... y ganó.
+TEXT_LUCKRA101_03255_THANCRED_000_096	...Pero esta abominación podría deshacer su obra.
+TEXT_LUCKRA101_03255_URIANGER_000_097	Así es, no puede negarse la posibilidad. Aunque suele decirse que la destrucción y la creación no son más que dos caras de la misma moneda.
+TEXT_LUCKRA101_03255_URIANGER_000_098	Ryne, ¿sabéis de qué hablo?
+TEXT_LUCKRA101_03255_RYNE_000_099	El poder de dar forma a la realidad, de torcer las leyes de la naturaleza. Porque lo que una vez se hizo pedazos puede forjarse de nuevo.
+TEXT_LUCKRA101_03255_THANCRED_000_100	Todo eso está muy bien, pero ¿no creen que primero deberíamos ponerle un nombre?
+TEXT_LUCKRA101_03255_RYNE_000_101	...Eden.
+TEXT_LUCKRA101_03255_URIANGER_000_102	"Utopía" en la lengua de los fae. Un título de lo más auspicioso.
+TEXT_LUCKRA101_03255_THANCRED_000_103	Ahora que eso está resuelto, quizás deberíamos buscar un lugar para acampar. Hasta traje un par de carpas, por si acaso, pero armar las malditas cosas es todo un arte. ¿Alguien se anima a ayudarme?
+TEXT_LUCKRA101_03255_URIANGER_000_110	Aunque descansar seguido puede aliviar los síntomas de una exposición prolongada al aether del ambiente en el Empty, no sería prudente quedarnos aquí demasiado tiempo.
+TEXT_LUCKRA101_03255_RYNE_000_120	¡Nunca pensé que armar carpas pudiera ser tan engorroso! Igual me alegra que al final lo logramos.
+TEXT_LUCKRA101_03255_RYNE_000_121	Thancred ya debería volver de explorar la zona. Cuando llegue, podemos planear el siguiente paso.
+TEXT_LUCKRA101_03255_SYSTEM_090_121	En el curso de tu investigación, puedes descubrir artefactos valiosos.
+TEXT_LUCKRA101_03255_SYSTEM_100_121	Puedes cambiarlos por equipo hablando con Ghul Gul en Mord Souq o con Yhal Yal en Eulmore.

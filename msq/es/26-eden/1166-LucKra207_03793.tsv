@@ -1,0 +1,40 @@
+key	text
+TEXT_LUCKRA207_03793_SEQ_00	Yalfort trae noticias de algún tipo.
+TEXT_LUCKRA207_03793_SEQ_01	Yalfort recibió un mensaje de Urianger, que siguió con sus investigaciones en el Crystarium. Te pide que vayas a verlo para hablar de un asunto al parecer importante, aunque vas a tener que esperar a verlo en persona para saber de qué se trata exactamente.
+TEXT_LUCKRA207_03793_SEQ_02	Según lo indicado, te reúnes con Urianger en las Wandering Stairs, adonde también llegan Thancred, Ryne y Gaia. Urianger revela que llegó el momento de que él y Thancred vuelvan a the Source, o corren el riesgo de perder sus cuerpos físicos para siempre. Aunque no es del todo una sorpresa, a Ryne se le nota la tristeza al pensar en separarse, quizás para siempre, de los dos hombres que considera sus mentores. Thancred en especial fue una figura paterna para ella desde que la liberó de Eulmore, y su ausencia se va a sentir mucho. Aunque, como él le recuerda, no está sola: tú y Gaia van a seguir apoyándola. Urianger le dedica a Gaia unas palabras de despedida y le advierte que no le ceda el control a la voz que habita su cabeza. Luego Thancred y Urianger se van a preparar el viaje de vuelta a the Source, y el resto se queda pensando en lo que el futuro le depara al Empty.
+TEXT_LUCKRA207_03793_SEQ_03	Vuelves a Mord Souq y le cuentas a Yalfort de la partida de Urianger y Thancred; él seguirá supervisando el Empty en su lugar. También se muestra apenado, y reafirma su compromiso de que la restauración de las tierras que se tragó el Flood avance según sus deseos.
+TEXT_LUCKRA207_03793_TODO_00	Espera a Urianger en las Wandering Stairs.
+TEXT_LUCKRA207_03793_TODO_01	Habla con Yalfort en Mord Souq.
+TEXT_LUCKRA207_03793_YALFORT_000_000	¡Buenas noticias! O al menos, podrían serlo. Recibí un mensaje del maestro Urianger.
+TEXT_LUCKRA207_03793_YALFORT_000_001	Por desgracia, el mensaje no traía muchos detalles.
+TEXT_LUCKRA207_03793_YALFORT_000_002	Solo pidió que vuelva al Crystarium y lo vea en las Wandering Stairs. No es el lugar más probable para reuniones importantes, pero supongo que podrá tomarse una o dos jarras mientras está ahí.
+TEXT_LUCKRA207_03793_YALFORT_000_010	No puedo evitar preguntarme por qué el maestro Urianger no vino a ver<if(gnum4,la,lo)> aquí en Mord Souq. Supongo que la comida y la bebida del Crystarium van mejor con los paladares sensibles. ¿Será eso?
+TEXT_LUCKRA207_03793_URIANGER_000_020	Aceptad mis disculpas por haceros venir con tan poca antelación. El asunto del que deseo hablar es de considerable importancia.
+TEXT_LUCKRA207_03793_GAIA_000_021	Si es tan urgente, ¿no sería más rápido usar esas cosas llamadas linkpearls de las que me habló Ryne?
+TEXT_LUCKRA207_03793_URIANGER_000_022	Son palabras que conviene decir en persona.
+TEXT_LUCKRA207_03793_RYNE_000_023	¿Le pasó algo al Empty?
+TEXT_LUCKRA207_03793_URIANGER_000_024	Nada que requiera nuestra atención inmediata. Los elementos están en equilibrio, y la propagación de la flora sigue a buen ritmo.
+TEXT_LUCKRA207_03793_GAIA_000_025	¿Entonces de qué se trata?
+TEXT_LUCKRA207_03793_URIANGER_000_026	Como sabéis, no somos de este mundo: venimos de lo que se conoce como the Source.
+TEXT_LUCKRA207_03793_URIANGER_000_027	Sin embargo, a diferencia de <split(<string(gstr1)>, ,1)>, Thancred y yo existimos solo como aether al que se dio forma corpórea. Nuestros cuerpos permanecen en the Source, aunque el hilo que nos une a ellos se debilita con el paso del tiempo.
+TEXT_LUCKRA207_03793_RYNE_000_028	Y si se quedan aquí demasiado tiempo, quizás nunca puedan volver.
+TEXT_LUCKRA207_03793_URIANGER_000_029	Exactamente. Ahora que las ruedas del cambio en el Empty están en marcha, creemos que es un momento oportuno para despedirnos. Solo lamentaremos no estar presentes para ver la transformación completarse.
+TEXT_LUCKRA207_03793_GAIA_000_030	Eso no parece justificar perder sus cuerpos. Si tienen que volver a su mundo, ¿quiénes somos nosotras para impedírselo?
+TEXT_LUCKRA207_03793_RYNE_000_031	Siempre supe que este día llegaría. Es que...
+TEXT_LUCKRA207_03793_THANCRED_000_032	Todavía vas a tener a Gaia y a <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKRA207_03793_THANCRED_000_033	Sé que vas a llevar esto hasta el final. Juntos.
+TEXT_LUCKRA207_03793_RYNE_000_034	Lo haremos.
+TEXT_LUCKRA207_03793_RYNE_000_035	Quizás no sea ni la mitad de la mujer que fue Minfilia, pero tengo amigos a quienes acudir.
+TEXT_LUCKRA207_03793_RYNE_000_036	Quizás a veces sean brutalmente sinceros con su opinión...
+TEXT_LUCKRA207_03793_RYNE_000_037	O prefieran ahorrarse las palabras y dejar que sus actos hablen por ellos. ¡Pero no lo cambiaría por nada!
+TEXT_LUCKRA207_03793_Q1_000_000	¿Qué vas a decir?
+TEXT_LUCKRA207_03793_A1_000_001	¡No te vamos a defraudar!
+TEXT_LUCKRA207_03793_A1_000_002	Solo prométeme que no te vas a convertir en una loca de hielo que intenta matarme. Otra vez.
+TEXT_LUCKRA207_03793_THANCRED_000_038	Aunque no sé qué nos depara el futuro, no hay duda de que Ryne y Gaia van a necesitar tu apoyo en los días que vienen.
+TEXT_LUCKRA207_03793_URIANGER_000_039	Por desgracia, los misterios que rodean al hada aún no se han resuelto. Halléis o no las respuestas que buscáis, no prestéis oído a sus palabras melosas. Pues vuestra voluntad es vuestra. Nunca lo olvidéis.
+TEXT_LUCKRA207_03793_GAIA_000_040	...No lo voy a olvidar.
+TEXT_LUCKRA207_03793_URIANGER_000_041	La hora de nuestra partida está cerca. Mas sabed que, dondequiera que estemos, siempre rezaremos por vuestro éxito.
+TEXT_LUCKRA207_03793_SYSTEM_000_042	Con Urianger y Thancred a punto de dejar el First, parece prudente contarle esta novedad a Yalfort, que va a seguir supervisando las expediciones al Empty.
+TEXT_LUCKRA207_03793_YALFORT_000_050	Volvió antes de lo esperado. ¿Está todo bien?
+TEXT_LUCKRA207_03793_YALFORT_000_051	Vaya, qué lástima. Me atrevería a decir que debe ser algo muy importante para que se vayan con tanta prisa. En todo caso, les deseo la mejor de las suertes, adondequiera que los lleve su trabajo.
+TEXT_LUCKRA207_03793_YALFORT_000_052	Yo me quedo aquí cuidando el fuerte, por así decirlo, y me ocuparé de lo necesario si hacen falta más incursiones al Empty. ¡Buen viaje, <if(gnum4,maestra,maestro)> <split(<string(gstr1)>, ,1)>!

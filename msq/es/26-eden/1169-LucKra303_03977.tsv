@@ -1,0 +1,207 @@
+key	text
+TEXT_LUCKRA303_03977_SEQ_00	A Gaia le fastidia bastante que su última salida no haya producido cambios mayores en el Empty.
+TEXT_LUCKRA303_03977_SEQ_01	La flora del Empty todavía no muestra señales de volver a la vida pese a sus esfuerzos recientes por reequilibrar el aether del ambiente. De repente, un Ascian aparece ante ustedes y dice ser Mitron. Tras ser derrotado por Ardbert y los demás Warriors of Light hace cien años, el Ascian se transformó en Eden y desató el Flood of Light. Sus intentos de revivir el Empty en realidad sirvieron para debilitar las ataduras de Luz que antes retenían a Mitron, que ahora puede hacer mucho más que susurrarle a Gaia como la voz en su cabeza. Sin embargo, antes de que puedan desentrañar alguno de los misterios que quedan, el siervo de Zodiark se retira al núcleo de Eden y los invita a seguirlo si quieren saber más.
+TEXT_LUCKRA303_03977_SEQ_02	Además de la repentina aparición de un Ascian, surge otro problema preocupante: la amnesia de Gaia empeora. Ya no recuerda en absoluto a Thancred ni a Urianger, y parece más que una coincidencia que esto haya ocurrido al mismo tiempo que la llegada de Mitron. Con la esperanza de evitar que pierda más recuerdos, decides ir al núcleo de Eden, a sabiendas de que bien podrías estar metiéndote en una trampa.
+TEXT_LUCKRA303_03977_SEQ_03	Llegas al núcleo de Eden, donde Mitron anuncia que van a recrear el enfrentamiento decisivo que tuvo lugar hace cien años entre los Warriors of Light y el Shadowkeeper. Parece ser un plan elaborado para despertar los recuerdos dormidos de Gaia, aunque el Ascian no da ninguna pista de qué relación tiene ella con hechos ocurridos mucho antes de su nacimiento. La propia Gaia se niega con vehemencia a cooperar con semejante plan, lo único que logra es sumir al Ascian en una furia ciega, y termina con Gaia arrebatada por magias arcanas. Mitron lanza un último desafío, derrotar al Shadowkeeper, y luego desaparece de la vista.
+TEXT_LUCKRA303_03977_SEQ_04	Con Gaia a merced de Mitron, no te queda más opción que obedecer. Ryne coincide en que, aunque la situación es grave, todavía podría haber una oportunidad de rescatarla. Pero primero tienes que enfrentar al tenebroso enemigo que una vez vencieron Ardbert y sus camaradas, asumiendo el papel de un Warrior of Light de tiempos pasados.<br><br>※Se puede entrar a Eden's Promise: Litany mediante el Duty Finder.
+TEXT_LUCKRA303_03977_SEQ_05	Tras una lucha reñida, por fin vences al feroz Shadowkeeper. Al ser <if(gnum4,transportada,transportado)> de vuelta al núcleo de Eden, te sorprende ver que Gaia también volvió, al parecer sin un rasguño.
+TEXT_LUCKRA303_03977_SEQ_06	Parece que había algo de cierto en lo que decía Mitron, que recrear la batalla de los Warriors of Light le devolvería los recuerdos a Gaia. Ella no puede librarse de la sensación de haber presenciado esos sucesos antes, un fenómeno que el Ascian se apresura a aclarar con gusto. Hace cien años, a Mitron y a Loghrif les encomendaron llevar a cabo el plan de Emet-Selch de inundar el mundo de Luz para provocar una Reunificación, pero Ardbert y sus compañeros los derrotaron. Aunque los dos Ascians habían combinado su fuerza fundiéndose en una sola entidad, el golpe final de Ardbert, imbuido de Luz, rompió las ataduras que los unían y destruyó a Loghrif al instante. Mitron, en cambio, quedó envuelto en Luz antes de poder escapar al vacío y se transformó en Eden, el primer sin eater, lo que causó el Flood of Light. En los años que siguieron, Mitron siguió atrapado dentro de Eden, llamando desesperadamente a Loghrif, que entretanto había renacido. Es entonces cuando el Ascian revela la terrible verdad: Gaia es la reencarnación de Loghrif.<br><br>Aun así, Gaia está decidida a resistirse a los intentos de revivir su conciencia de Ascian. Como no va a someterse por voluntad propia, Mitron recurre a magias oscuras para fundirse con ella una vez más, en cuerpo y alma. Aunque tú y Ryne están <if(gnum4,decididas,decididos)> a liberar a Gaia cueste lo que cueste, la mente de Ryne sufre un ataque cuando el Ascian fusionado intenta volver sus propios recuerdos en su contra.
+TEXT_LUCKRA303_03977_TODO_00	Habla con Ryne.
+TEXT_LUCKRA303_03977_TODO_01	Entra al núcleo de Eden.
+TEXT_LUCKRA303_03977_TODO_02	Habla con Ryne.
+TEXT_LUCKRA303_03977_TODO_03	Entra a Eden's Promise: Litany.
+TEXT_LUCKRA303_03977_TODO_04	Habla con Ryne.
+TEXT_LUCKRA303_03977_RYNE_000_000	Todavía no sé bien qué hace en realidad ese cristal enorme, ni por qué cambia de color. Pero estoy segura de que antes no se veía así.
+TEXT_LUCKRA303_03977_SYSTEM_000_001	Mejor habla primero con Gaia...
+TEXT_LUCKRA303_03977_GAIA_000_010	Inclinamos la balanza lejos de la Luz, estoy segura. Pero algo anda mal, <italic(1)>muy<italic(0)> mal.
+TEXT_LUCKRA303_03977_GAIAVOICE_000_020	¡Durante cien largos años esperé este momento!
+TEXT_LUCKRA303_03977_GAIA_000_021	¡Lo sabía! ¡Estuviste escondido dentro de Eden todo este tiempo!
+TEXT_LUCKRA303_03977_RYNE_000_022	¡Un Ascian!
+TEXT_LUCKRA303_03977_MITRON_000_022	Soy Mitron, siervo de Zodiark.
+TEXT_LUCKRA303_03977_GAIA_000_023	La voz que me susurró toda la vida...
+TEXT_LUCKRA303_03977_MITRON_000_024	Así es... ¡Y gracias a ti, ya casi estoy libre de mi prisión de Luz!
+TEXT_LUCKRA303_03977_RYNE_000_025	¿Eso significa que usaron a Eden para sellar a un Ascian?
+TEXT_LUCKRA303_03977_RYNE_000_026	Espera... ¡Ese <italic(1)>es<italic(0)> Eden! ¡Un Ascian transformado en sin eater!
+TEXT_LUCKRA303_03977_GAIA_000_027	Hmpf. Ya oí lo suficiente de los Ascians para saber que no traen más que problemas. Pero nunca imaginé que uno de ellos estuviera detrás de todo esto...
+TEXT_LUCKRA303_03977_GAIA_000_028	¡Creía que restaurar la Oscuridad había sido idea mía, pero era tu plan desde el principio!
+TEXT_LUCKRA303_03977_MITRON_100_028	Lo era. Pero bastó con la más mínima sugerencia. Todo lo demás fue obra tuya.
+TEXT_LUCKRA303_03977_MITRON_000_029	Ah... Mi libertad está tan cerca que casi puedo saborearla... Por fin mi alma podrá viajar más allá de la carne a la que todavía estoy atado.
+TEXT_LUCKRA303_03977_MITRON_000_030	Sabía que vendrías por mí, Gaia.
+TEXT_LUCKRA303_03977_GAIA_000_031	Hmpf, no te hagas ilusiones. No me causaste más que dolor. Si te ayudé, no fue a propósito.
+TEXT_LUCKRA303_03977_MITRON_000_032	Aun ahora tus recuerdos se te escapan. Escúchame, Gaia, y recuerda...
+TEXT_LUCKRA303_03977_MITRON_000_040	En una era pasada, el mundo que conoces como el Thirteenth quedó inundado por la Oscuridad. Como las ondas en el agua, las repercusiones se sintieron en los demás fragmentos, y en ninguno tanto como aquí, en el First. Quedó peligrosamente desequilibrado y expuesto a la influencia de la Luz.
+TEXT_LUCKRA303_03977_MITRON_000_041	Si la Luz consumía el First como la Oscuridad consumió el Thirteenth, también se convertiría en un vacío sin vida, perdido para nuestra causa. No podíamos permitir que se repitiera ese error. Era nuestro deber proteger a este mundo de ese mismo destino.
+TEXT_LUCKRA303_03977_MITRON_000_042	Con el tiempo, Emet-Selch ideó un plan para provocar una Reunificación usando la misma Luz que nos habíamos esforzado por contener, y nos encomendó llevarlo a cabo.
+TEXT_LUCKRA303_03977_MITRON_000_043	Pero al final, Ardbert y sus compañeros nos frustraron. Aunque nuestra determinación era fuerte, la suya lo era aún más. Y al caer nosotros, la Luz quedó desatada.
+TEXT_LUCKRA303_03977_MITRON_000_044	Para nosotros, sin embargo, la muerte no es el fin. Aunque nuestros cuerpos perezcan, nuestras almas siguen vivas y se retiran solo por un tiempo a la grieta.
+TEXT_LUCKRA303_03977_RYNE_000_045	Hasta que encuentran un nuevo cuerpo que poseer...
+TEXT_LUCKRA303_03977_MITRON_000_046	Yo también habría renacido. Pero antes de que mi alma pudiera dejar su forma corpórea, Ardbert me golpeó con una espada de la Luz más pura. Y esa Luz envolvió mi cuerpo y lo deformó hasta volverlo irreconocible.
+TEXT_LUCKRA303_03977_GAIA_000_047	Eden... el primer sin eater.
+TEXT_LUCKRA303_03977_MITRON_000_048	Mi alma sintió una agonía como nunca había conocido... y después ya no supe nada más.
+TEXT_LUCKRA303_03977_MITRON_000_049	En mi estado insensible e instintivo, influido por el ferviente deseo de Ardbert de desterrar la Oscuridad, desaté la Luz que crecía dentro de mí. Y se extendió como una ola devoradora hasta todos los rincones del mundo.
+TEXT_LUCKRA303_03977_RYNE_000_050	El Flood of Light... Así fue como surgieron los sin eaters...
+TEXT_LUCKRA303_03977_MITRON_000_051	Todo se habría perdido si no hubiera aparecido la que llamaban Minfilia. Al frenar el avance inexorable de la Luz, salvó lo poco que quedaba del mundo.
+TEXT_LUCKRA303_03977_MITRON_000_052	En el proceso, también me devolvió una pizca de conciencia, aunque seguí atrapado en mi forma alterada. Inmóvil, solo era capaz de susurrar débilmente.
+TEXT_LUCKRA303_03977_RYNE_100_052	Emet-Selch... ¿no pudo salvarte?
+TEXT_LUCKRA303_03977_MITRON_110_052	Quizás habría podido, si hubiera querido. Pero era mucho más fácil buscar otro fragmento de mi alma fracturada para reemplazarme.
+TEXT_LUCKRA303_03977_MITRON_120_052	Desde su punto de vista, no hacía falta intervenir y arriesgarse a alterar el equilibrio del aether. Y así me quedé aquí.
+TEXT_LUCKRA303_03977_GAIA_130_052	O sea que, después de que fallaste, te dejó aquí a pudrirte. Vaya amigo resultó ser.
+TEXT_LUCKRA303_03977_MITRON_000_053	Así abandonado, llamé durante lo que pareció una eternidad a la única alma que podía salvarme: tú, Gaia.
+TEXT_LUCKRA303_03977_GAIA_000_054	¿Todo este tiempo me estuviste pidiendo ayuda?
+TEXT_LUCKRA303_03977_MITRON_000_055	Sí, pero tú me habías olvidado. Habías olvidado nuestro deber. Aunque conservabas vestigios de tu verdadero poder, no podías usarlo a voluntad.
+TEXT_LUCKRA303_03977_MITRON_000_056	El tiempo pasó y, al final, llegó el cambio. La Luz empezó a menguar y volvió la oscuridad de la noche.
+TEXT_LUCKRA303_03977_MITRON_000_057	Poco a poco mi voz se hizo más fuerte, hasta que pude imponer mi voluntad sobre ti.
+TEXT_LUCKRA303_03977_GAIA_000_058	Querías que liberara tu alma de Eden, por eso me hiciste atacarlo. Otro plan que terminó en fracaso, gracias a <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKRA303_03977_MITRON_000_059	Así es. Por suerte, sus intentos posteriores de restaurar esta tierra estéril le permitieron a Eden absorber cada vez más aether alineado hacia la Oscuridad, lo que fue desgastando la jaula de Luz que me retiene.
+TEXT_LUCKRA303_03977_MITRON_000_060	Gracias a sus esfuerzos más recientes, mi mente vuelve a ser del todo mía, y puedo proyectar mi imagen más allá de estos confines.
+TEXT_LUCKRA303_03977_RYNE_000_061	¿¡Entonces todo este tiempo estuvimos ayudando a liberar a un Ascian!?
+TEXT_LUCKRA303_03977_GAIA_000_062	Hmpf. Linda historia, pero ¿por qué debería importarme?
+TEXT_LUCKRA303_03977_GAIA_000_063	¿Qué eres tú para mí?
+TEXT_LUCKRA303_03977_MITRON_000_064	Ven conmigo al núcleo de Eden. Ahí todo quedará claro.
+TEXT_LUCKRA303_03977_GAIA_000_065	¡E-Espera!
+TEXT_LUCKRA303_03977_GAIA_000_070	Tengo un mal presentimiento, pero si queremos restaurar la tierra, tenemos que saber con qué estamos tratando...
+TEXT_LUCKRA303_03977_SYSTEM_000_071	Mejor consulta primero con Ryne...
+TEXT_LUCKRA303_03977_RYNE_000_080	Me acabo de dar cuenta de algo. Si Eden estuvo absorbiendo todo ese aether reequilibrado, debe ser por eso que nos costó tanto devolverle la vida al Empty. Aunque supongo que eso podemos pensarlo después.
+TEXT_LUCKRA303_03977_RYNE_000_081	Lo más importante es que parece que perdí el control de Eden, seguramente por culpa del Ascian. Urianger nos advirtió específicamente que no escucháramos las "palabras melosas" del hada, así que mejor pensamos bien esto antes de lanzarnos.
+TEXT_LUCKRA303_03977_RYNE_000_082	Ay, si él y Thancred estuvieran aquí ahora...
+TEXT_LUCKRA303_03977_GAIA_000_083	¿De qué hablas?
+TEXT_LUCKRA303_03977_RYNE_000_084	Perdón, Gaia. No debería desanimarme tan rápido.
+TEXT_LUCKRA303_03977_GAIA_000_085	¿Qué? No, no me refería a eso. ¿Quiénes son Urianger y Thancred?
+TEXT_LUCKRA303_03977_GAIA_000_086	Espera... Conozco a esas personas. Estoy segura. Pero ¿por qué no puedo recordarlas?
+TEXT_LUCKRA303_03977_RYNE_000_087	Hmm... Ya me pareció raro cuando mencioné el festival a bordo de Eden. Era como si no recordaras nuestra conversación anterior. Seguramente tiene que ver con Mitron...
+TEXT_LUCKRA303_03977_GAIA_000_088	¡Maldita sea! ¿¡Qué más me va a quitar ese demonio!?
+TEXT_LUCKRA303_03977_RYNE_000_089	La verdad, lo que más miedo me da... es que te olvides de <if(gnum4,nosotras,nosotros)>.
+TEXT_LUCKRA303_03977_GAIA_000_090	Eso no va a pasar. Por cada recuerdo que pierda, vamos a crear dos más juntas.
+TEXT_LUCKRA303_03977_GAIA_000_091	¡Y si necesito saber algo, te lo puedo preguntar! ¿Por qué no empiezas por contarme de Urianger y Thancred? La verdad, tengo los nervios de punta, así que necesito algo que me calme antes de enfrentar a Mitron.
+TEXT_LUCKRA303_03977_RYNE_000_092	Urianger es probablemente la persona más inteligente que conozco. Pasa mucho tiempo leyendo, pero también dice que no todo se aprende en los libros, y me animó a salir a ver el mundo por mí misma.
+TEXT_LUCKRA303_03977_GAIA_000_093	Me parece sensato. Mucho mejor vivir las cosas en carne propia que leer sobre las de otros. Como esas galletas de café. Ningún libro podría describir lo ricas que son.
+TEXT_LUCKRA303_03977_GAIA_000_094	¿Hay algo más que puedas contarme de él, <split(<string(gstr1)>, ,1)>?
+TEXT_LUCKRA303_03977_Q1_000_000	¿Qué vas a decir?
+TEXT_LUCKRA303_03977_A1_000_001	Se dedica al estudio de las profecías.
+TEXT_LUCKRA303_03977_A1_000_002	Puede caminar sobre el agua, hasta que no puede...
+TEXT_LUCKRA303_03977_GAIA_000_095	Las profecías son cosas raras, si me preguntas. Si la gente sabe que va a pasar algo terrible, lo va a evitar, y entonces la profecía no se cumpliría.
+TEXT_LUCKRA303_03977_RYNE_000_096	¡Ji, ji! ¡Me pregunto qué diría Urianger de eso!
+TEXT_LUCKRA303_03977_GAIA_000_097	¿O sea que <italic(1)>camina<italic(0)> sobre el agua en vez de nadar? Desde luego te ahorra mojarte... Debería haberle pedido que me enseñara.
+TEXT_LUCKRA303_03977_RYNE_000_098	Bueno, es algo que él mismo nunca terminó de dominar, y muchas veces terminaba mojándose igual. ¡De hecho, seguramente da más problemas de lo que vale!
+TEXT_LUCKRA303_03977_RYNE_000_099	En cuanto a Thancred, es quien me liberó de Eulmore. Al principio lo veía como mi caballero de brillante armadura, pero en realidad fue mucho más que eso. Viajamos por todo Norvrandt y me ayudó a ser la persona que soy hoy. ¡Hasta me dio mi nombre!
+TEXT_LUCKRA303_03977_Q2_000_000	¿Qué vas a decir?
+TEXT_LUCKRA303_03977_A2_000_001	También es experto en infiltración.
+TEXT_LUCKRA303_03977_A2_000_002	Con su don para el canto conquistó el corazón de muchas bellas damas, o eso dice él...
+TEXT_LUCKRA303_03977_GAIA_000_100	Eso explicaría cómo logró colarse en Eulmore y rescatar a la damisela en apuros, como en las canciones.
+TEXT_LUCKRA303_03977_RYNE_000_101	¡Hmpf, yo no soy ninguna damisela en apuros! ...Bueno, supongo que en ese entonces sí. Pero Thancred me enseñó a pelear y a sobrevivir.
+TEXT_LUCKRA303_03977_RYNE_000_102	¿Cantar? No suena al Thancred que conozco.
+TEXT_LUCKRA303_03977_GAIA_000_103	Parece que tiene facilidad de palabra. Así debe haber elegido un nombre tan lindo para ti.
+TEXT_LUCKRA303_03977_RYNE_000_104	En realidad, ya que hablamos de eso, esa gunblade de allá era de Thancred.
+TEXT_LUCKRA303_03977_RYNE_000_105	Como recuerdo es un poco aparatosa, pero me recuerda nuestras aventuras juntos. Aunque hay pocas posibilidades de que vuelva a verlo, igual siento que está aquí conmigo.
+TEXT_LUCKRA303_03977_GAIA_000_106	Mantener cerca los recuerdos...
+TEXT_LUCKRA303_03977_GAIA_000_107	¿Sabes qué? Debería llevar un diario. Aunque lo olvide todo, al menos voy a tener algo para mirar atrás.
+TEXT_LUCKRA303_03977_RYNE_000_108	¡Es una idea genial! Como vamos a crear muchos recuerdos nuevos juntas, ¿quizás yo también podría escribir en él?
+TEXT_LUCKRA303_03977_GAIA_000_109	Siempre que mejores tu letra antes de ponerte a garabatearlo todo. Me gustaría que tus anotaciones fueran más o menos legibles, si no te molesta.
+TEXT_LUCKRA303_03977_RYNE_000_110	¡Ja, ja! ¡Claro, su señoría!
+TEXT_LUCKRA303_03977_GAIA_000_111	Pero antes tenemos que ocuparnos de un Ascian. ¡Terminemos con esto!
+TEXT_LUCKRA303_03977_RYNE_000_120	Cuando pienso en los días que pasé con todos, siempre me vienen a la mente los detalles más pequeños y triviales.
+TEXT_LUCKRA303_03977_RYNE_000_121	Las sonrisas, los pequeños gestos... No es que me esforzara por recordarlos, pero igual se me quedaron grabados.
+TEXT_LUCKRA303_03977_RYNE_000_122	Supongo que eso son los recuerdos: una colección de todos esos momentos en apariencia insignificantes. Quizás no hayan cambiado mucho las cosas en el gran esquema del mundo, pero para mí significan todo.
+TEXT_LUCKRA303_03977_GAIA_000_123	Me hizo bien oír de nuestros amigos... pero todavía no recuerdo nada de ellos.
+TEXT_LUCKRA303_03977_GAIA_000_124	Es igual que todo lo que decía Mitron. ¿Cómo voy a saber si es verdad o no si no lo recuerdo?
+TEXT_LUCKRA303_03977_GAIA_000_125	Pero no tiene sentido darle vueltas. No queda otra que seguir adelante.
+TEXT_LUCKRA303_03977_SYSTEM_000_126	¿Ir al núcleo de Eden?
+TEXT_LUCKRA303_03977_GAIA_000_130	Vinimos como pediste, así que empieza a hablar.
+TEXT_LUCKRA303_03977_MITRON_000_131	¿Por qué conformarse con meras palabras cuando ofrezco algo mucho mejor? Eden les va a permitir ahora vislumbrar el pasado. Más que vislumbrarlo, de hecho. Será tan real como cualquiera de los enemigos que ustedes mismos invocaron.
+TEXT_LUCKRA303_03977_RYNE_000_132	¿Invocaron? Espera, ¿¡no pensarás hacer una invocación!?
+TEXT_LUCKRA303_03977_MITRON_000_133	Sí. Voy a recrear la batalla de hace cien años, que enfrentó a Ardbert y a sus compañeros Warriors of Light con su némesis, el Shadowkeeper.
+TEXT_LUCKRA303_03977_Q3_000_000	¿Qué vas a decir?
+TEXT_LUCKRA303_03977_A3_000_001	Como cuando Emet-Selch recreó los Días Finales de Amaurot...
+TEXT_LUCKRA303_03977_A3_000_002	¿Y quién va a hacer el papel de Ardbert?
+TEXT_LUCKRA303_03977_A3_000_003	Su némesis... Te refieres a Cylva.
+TEXT_LUCKRA303_03977_MITRON_000_134	¿Ah, sí? Parece que pasaron muchas cosas durante mi ausencia. Sin duda usó la magia de creación para darles vida a sus recuerdos del pasado.
+TEXT_LUCKRA303_03977_MITRON_000_135	A quien elijas, aunque no será fácil igualar su destreza y su fuerza.
+TEXT_LUCKRA303_03977_MITRON_000_136	Que conozcas ese nombre... La verdadera identidad del Shadowkeeper, emisario del caos.
+TEXT_LUCKRA303_03977_GAIA_000_137	¿Y qué esperas lograr con esta lección de historia?
+TEXT_LUCKRA303_03977_MITRON_000_138	Ya verás. Vas a recordar. Ahora tu propia alma va a revivir aquel día fatídico de hace cien años.
+TEXT_LUCKRA303_03977_RYNE_000_139	¡Gaia, no puedes confiar en Mitron! ¡Si lo haces, vas a terminar manipulada otra vez!
+TEXT_LUCKRA303_03977_GAIA_000_140	Ryne...
+TEXT_LUCKRA303_03977_GAIA_000_141	Tienes razón. Se acabaron mis días de ser controlada por este demonio. Ahora tengo una vida nueva, y no voy a dejar que nadie me la quite.
+TEXT_LUCKRA303_03977_GAIA_000_142	¡Mi voluntad es mía! ¡No tienes ningún poder sobre mí!
+TEXT_LUCKRA303_03977_MITRON_000_143	¡Todo esto es obra de ustedes, malditos esbirros de la Luz! ¡Soy <italic(1)>yo<italic(0)> quien debería estar a su lado! ¡No ustedes ni nadie más! ¡Me la voy a llevar lejos de su influencia venenosa y la voy a mantener a salvo!
+TEXT_LUCKRA303_03977_RYNE_000_144	¿¡Qué hiciste con Gaia!?
+TEXT_LUCKRA303_03977_MITRON_000_145	Nada, todavía. Pero pronto le devolveré su verdadero ser. Y ustedes me van a ayudar a lograrlo, venciendo al adversario que les presento.
+TEXT_LUCKRA303_03977_SYSTEM_000_150	Mejor habla con Ryne...
+TEXT_LUCKRA303_03977_RYNE_000_160	Sabía que confiar en un Ascian era arriesgado, ¡pero caímos justo en la trampa de Mitron!
+TEXT_LUCKRA303_03977_Q4_000_000	¿Qué vas a decir?
+TEXT_LUCKRA303_03977_A4_000_001	Vamos a hacer lo que haga falta para salvar a Gaia.
+TEXT_LUCKRA303_03977_A4_000_002	No queda otra que hacer lo que dice Mitron.
+TEXT_LUCKRA303_03977_RYNE_000_161	De acuerdo. No sé en qué clase de peligro está, pero esté donde esté, sé que está dando todo de sí. Aunque estemos separadas, vamos a pelear como una sola.
+TEXT_LUCKRA303_03977_RYNE_000_162	¡<if(gnum4,Juntas,Juntos)> vamos a acabar con los planes malvados de Mitron!
+TEXT_LUCKRA303_03977_RYNE_000_163	Quizás, pero dudo que eso sea el final. Está claro que Mitron no tiene intención de devolvernos a Gaia, pero todavía podría haber una oportunidad de liberarla. "En el caos del conflicto, siempre se puede encontrar una brecha que aprovechar".
+TEXT_LUCKRA303_03977_RYNE_000_164	Claro que primero viene el conflicto. ¡Pero si Ardbert pudo vencer a este enemigo, usted también puede!
+TEXT_LUCKRA303_03977_RYNE_000_165	Parece que el control de Mitron sobre Eden se aflojó un poco, quizás para que yo pueda mandar<if(gnum4,la,lo)> al campo de batalla.
+TEXT_LUCKRA303_03977_RYNE_000_166	Cuando llegue, no baje la guardia. Aunque esto sea la recreación de un momento de la historia, la amenaza que va a enfrentar es muy real. Pase lo que pase, tiene que salir de esta. ¡Gaia cuenta con nosotros!
+TEXT_LUCKRA303_03977_RYNE_000_170	Ojalá supiera más de este Shadowkeeper. Así al menos estaríamos un poco mejor <if(gnum4,preparadas,preparados)>. Lo único que puedo decir es: por favor, tenga cuidado.
+TEXT_LUCKRA303_03977_GAIA_000_190	¿Por qué... todo esto me parece tan... conocido? ¡Ugh!
+TEXT_LUCKRA303_03977_RYNE_000_180	Mitron nos devolvió a Gaia, pero tengo la sensación de que esto todavía no terminó...
+TEXT_LUCKRA303_03977_GAIA_000_200	Los Warriors of Light... El Shadowkeeper... Ya vi todo esto antes.
+TEXT_LUCKRA303_03977_MITRON_000_201	¡Sí! Tú y yo unimos nuestro poder para crear al Shadowkeeper. Fuimos testigos de su batalla con los Warriors of Light.
+TEXT_LUCKRA303_03977_GAIA_000_202	¿Nuestro poder? Entonces yo estuve ahí... y no estaba sola...
+TEXT_LUCKRA303_03977_RYNE_000_203	¡No, Gaia! ¡No es verdad, no puede ser! ¿¡Cómo pudiste haber estado ahí hace cien años!?
+TEXT_LUCKRA303_03977_MITRON_000_204	Mira en tu interior: sabes que fue real. ¡Desecha esos recuerdos sin valor y acepta quién eres de verdad!
+TEXT_LUCKRA303_03977_GAIA_000_205	...¿Sin valor?
+TEXT_LUCKRA303_03977_GAIA_000_206	Ahora entiendo. Por eso estuviste manipulando mis recuerdos desde que era niña...
+TEXT_LUCKRA303_03977_MITRON_000_207	Exacto. Y ahora tengo los medios para borrarlos por completo. ¡Tu renacimiento por fin estará completo!
+TEXT_LUCKRA303_03977_GAIA_000_208	¡No tienes derecho a negarme una vida, a quitarme lo que más quiero! Quizás mis recuerdos no valgan nada para ti, pero para mí sí.
+TEXT_LUCKRA303_03977_GAIA_000_209	Nunca voy a ser tuya. Mi lugar está aquí. En este mundo, en esta vida, en este momento. ¡Donde estén mis amigos, ahí es donde pertenezco!
+TEXT_LUCKRA303_03977_MITRON_000_210	¿Entonces le darías la espalda a nuestro glorioso pasado? ¿A las vidas que vivimos una vez?
+TEXT_LUCKRA303_03977_GAIA_000_211	Cualquier pasado que haya compartido contigo quedó muy atrás. Yo vivo en el aquí y ahora, luchando por construir un futuro mejor. ¡Y que me lleve el diablo si dejo que me lo quites!
+TEXT_LUCKRA303_03977_MITRON_000_212	Reencontrarnos por fin, solo para ser rechazado...
+TEXT_LUCKRA303_03977_MITRON_000_213	Ojalá hubiera muerto contigo... Para renacer.
+TEXT_LUCKRA303_03977_MITRON_000_214	Aun sin conocer tu pasado, todavía podemos forjar juntos un futuro.
+TEXT_LUCKRA303_03977_GAIA_000_215	Estoy harta de tus acertijos. Habla claro o no hables.
+TEXT_LUCKRA303_03977_MITRON_000_216	Tú y yo peleamos contra los Warriors of Light como uno solo, unidos en cuerpo y alma. Cuando Ardbert asestó su golpe final, la Luz desgarró las ataduras que nos unían. Aunque tú pereciste, a mí me condenaron a un destino mucho peor.
+TEXT_LUCKRA303_03977_MITRON_000_217	Mi carne se volvió mi prisión, y quedé maldito, condenado a permanecer aquí como una abominación, mientras tú seguías viviendo con otros a tu lado... ¡No lo voy a soportar más! ¡Me perteneces!
+TEXT_LUCKRA303_03977_RYNE_000_218	Yo también estuve retenida contra mi voluntad, privada de mi libertad. Estar atrapado y solo durante cien años... No me imagino el dolor que habrás sentido.
+TEXT_LUCKRA303_03977_RYNE_000_219	¡Pero eso no te da derecho a negarle a Gaia una oportunidad de ser feliz!
+TEXT_LUCKRA303_03977_MITRON_000_220	Nosotros conocimos la felicidad, la verdadera felicidad, hasta que el destino conspiró para separarnos. Nunca voy a permitir que vuelva a pasar. Seremos uno solo, mis recuerdos serán tuyos. ¡Juntos por toda la eternidad!
+TEXT_LUCKRA303_03977_GAIA_000_222	L-La Oscuridad... ¡Está creciendo dentro de mí!
+TEXT_LUCKRA303_03977_RYNE_000_223	¡Esa marca...!
+TEXT_LUCKRA303_03977_GAIA_000_224	¿Qué es esto? ¿Por qué estoy...?
+TEXT_LUCKRA303_03977_RYNE_000_225	¡Aguanta, Gaia! ¡Sea lo que sea, no debes ceder!
+TEXT_LUCKRA303_03977_GAIA_000_226	¿Quién eres?
+TEXT_LUCKRA303_03977_MITRON_000_227	¡Sí, sí! ¡Ahora nada te va a alejar de mí!
+TEXT_LUCKRA303_03977_MITRON_000_221	¡Soy tuyo, y tú eres mía!
+TEXT_LUCKRA303_03977_GAIAPRIME_000_228	Somos uno. Recordamos.
+TEXT_LUCKRA303_03977_RYNE_000_229	¿¡Entonces es verdad!? ¿¡Gaia es de verdad una Ascian reencarnada!?
+TEXT_LUCKRA303_03977_GAIAPRIME_000_230	La muchacha que conocías ya no existe. Solo queda la Ascian que ocupaba el puesto de Loghrif. Gaia es su verdadero nombre.
+TEXT_LUCKRA303_03977_MITRON_000_240	<colortype(547)>Ay, Loghrif, cuánto tiempo pasó... Cuánto soñé con este día.<colortype(0)>
+TEXT_LUCKRA303_03977_LOGHRIF_000_241	<colortype(547)>¿Eres tú, Mitron? Perdóname, no te reconocí...<colortype(0)>
+TEXT_LUCKRA303_03977_LOGHRIF_000_242	<colortype(547)>En mi defensa, recuperé mis recuerdos hace muy poco. Todavía tengo la mente algo nublada.<colortype(0)>
+TEXT_LUCKRA303_03977_MITRON_000_243	<colortype(547)>No me sorprende. Por muchas veces que renazcamos, siempre desorienta que todo cambie a tu alrededor.<colortype(0)>
+TEXT_LUCKRA303_03977_MITRON_000_244	<colortype(547)>Aun así, reconocí de inmediato tu alma resplandeciente. Y me aferro a la esperanza de que algún día tú también recuerdes la mía. Siempre fuiste olvidadiza.<colortype(0)>
+TEXT_LUCKRA303_03977_LOGHRIF_000_245	<colortype(547)>Nunca podría olvidarte. Por más que lo intentara.<colortype(0)>
+TEXT_LUCKRA303_03977_LOGHRIF_000_246	<colortype(547)>Pero dime, ¿qué sabes de mi pasado? Admito que mi memoria quizás necesite un repaso...<colortype(0)>
+TEXT_LUCKRA303_03977_MITRON_000_247	<colortype(547)>Servimos juntos como miembros de la Convocation of Fourteen, consagrados a la invocación de Lord Zodiark.<colortype(0)>
+TEXT_LUCKRA303_03977_MITRON_000_248	<colortype(547)>Aunque la tarea que te asignaron terminó recayendo en Elidibus.<colortype(0)>
+TEXT_LUCKRA303_03977_LOGHRIF_000_249	<colortype(547)>Sí, lo recuerdo. En medio del caos y la desesperación, nunca te apartaste de mi lado. Mi leal protector...<colortype(0)>
+TEXT_LUCKRA303_03977_MITRON_000_250	<colortype(547)>Pero al final fue en vano... No tuve el poder de impedir que Hydaelyn hiciera pedazos nuestro mundo.<colortype(0)>
+TEXT_LUCKRA303_03977_LOGHRIF_000_251	<colortype(547)>Eso me contó Emet-Selch. Trabajamos para volver a unir nuestro mundo. Por eso me devolvió los recuerdos, para que cumpla mi parte.<colortype(0)>
+TEXT_LUCKRA303_03977_MITRON_000_252	<colortype(547)><italic(1)>Nuestra<italic(0)> parte. Solos nos cuesta, pero uniendo tu poder al mío, todavía podemos lograrlo.<colortype(0)>
+TEXT_LUCKRA303_03977_LOGHRIF_000_253	<colortype(547)>¿<italic(1)>Mi<italic(0)> poder? Hmpf. Siempre fuiste un adulador.<colortype(0)>
+TEXT_LUCKRA303_03977_MITRON_000_254	<colortype(547)>Ah, te aseguro que lo digo con total sinceridad. Sería un honor servir a la causa a tu lado. Y no acepto un no por respuesta.<colortype(0)>
+TEXT_LUCKRA303_03977_LOGHRIF_000_255	<colortype(547)>El honor es mío. Por mucho que te regañe y me burle de ti, lo eres todo para mí. Mi inspiración. Cuando estoy contigo, no le temo a nada. Prométeme... que nunca más nos vamos a separar.<colortype(0)>
+TEXT_LUCKRA303_03977_MITRON_000_256	<colortype(547)>Lo prometo. Aunque el destino conspire para separarnos, te buscaré dondequiera que estés.<colortype(0)>
+TEXT_LUCKRA303_03977_LOGHRIF_000_257	<colortype(547)>Y yo vendré corriendo.<colortype(0)>
+TEXT_LUCKRA303_03977_GAIAPRIME_000_260	Estábamos destinados a encontrarnos. A despertar nuestro pasado enterrado y nacer de nuevo.
+TEXT_LUCKRA303_03977_GAIAPRIME_000_261	Aunque nuestros hermanos usan cristales para devolver las almas divididas a su puesto, sin ellos semejante hazaña estaba fuera de mi alcance. Pero al volvernos uno en mente y cuerpo, mis recuerdos son tuyos. Por fin despertaste.
+TEXT_LUCKRA303_03977_GAIAPRIME_000_262	Ahora ha llegado la hora de devolverle a nuestro mundo la utopía que una vez fue.
+TEXT_LUCKRA303_03977_RYNE_000_263	¡Suelta a Gaia!
+TEXT_LUCKRA303_03977_GAIAPRIME_000_264	¡No eres digna de pronunciar ese nombre!
+TEXT_LUCKRA303_03977_GAIAPRIME_000_265	Si tienes que llamarla de alguna manera, usa el nombre que le dieron sus padres, si es que siquiera sabes cuál es.
+TEXT_LUCKRA303_03977_RYNE_000_266	No. Para mí, se llama Gaia.
+TEXT_LUCKRA303_03977_RYNE_000_267	Y nada de lo que digas de ella cambia nada para mí. No me importa si es una Ascian. ¡Es mi amiga!
+TEXT_LUCKRA303_03977_GAIAPRIME_000_268	<italic(1)>Era<italic(0)> tu amiga. Nunca más va a responder a tus gritos.
+TEXT_LUCKRA303_03977_Q5_000_000	¿Qué vas a decir?
+TEXT_LUCKRA303_03977_A5_000_001	¡No vamos a renunciar a ella!
+TEXT_LUCKRA303_03977_A5_000_002	¡Vamos a romper las cadenas que la atan!
+TEXT_LUCKRA303_03977_RYNE_000_269	Tus planes malvados ya llegaron demasiado lejos. ¡Vamos a recuperar a Gaia!
+TEXT_LUCKRA303_03977_GAIAPRIME_000_270	Malditos siervos de la Luz... No volverán a separarnos.
+TEXT_LUCKRA303_03977_RYNE_000_271	¿Qué... es esto? ¿¡Visiones en mi mente...!? ¿¡Una invocación!?
+TEXT_LUCKRA303_03977_GAIAPRIME_000_272	Todas tus esperanzas y tus miedos, vueltos en tu contra. No hay escapatoria de tu pasado...
