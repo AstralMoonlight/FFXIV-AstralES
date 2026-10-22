@@ -102,7 +102,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | **Post Shadowbringers** | 5.1–5.55 | Historia principal, de "Shaken Resolve" a "Death Unto Dawn" | ![Traducido][ok] |
 | **Endwalker** | 6.0 | Historia principal, de "The Next Ship to Sail" a "Endwalker" | ![Traducido][ok] |
 | | | Raid de 8: Pandæmonium (Asphodelos, Abyssos, Anabaseios) | ![Traducido][ok] |
-| | | Raid de alianza (24): Myths of the Realm | ![Pendiente][no] |
+| | | Raid de alianza (24): Myths of the Realm | ![Traducido][ok] |
 | **Post Endwalker** | 6.1–6.58 | Historia principal, de "Newfound Adventure" a "The Coming Dawn" | ![Traducido][ok] |
 | **Dawntrail** | 7.0 | Historia principal, de "A New World to Explore" a "Dawntrail" | ![Traducido][ok] |
 | | | Raid de 8: Arcadion (Light-heavyweight, Cruiserweight, Heavyweight) | ![Pendiente][no] |
