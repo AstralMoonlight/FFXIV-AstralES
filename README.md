@@ -97,7 +97,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | **Post Stormblood** | 4.1–4.56 | Historia principal, de "Arenvald's Adventure" a "A Requiem for Heroes" | ![Traducido][ok] |
 | | | Primals: The Four Lords (Byakko, Suzaku, Seiryu) | ![Traducido][ok] |
 | **Shadowbringers** | 5.0 | Historia principal, de "The Syrcus Trench" a "Shadowbringers" | ![Traducido][ok] |
-| | | Raid de 8: Eden (Gate, Verse, Promise) | ![Pendiente][no] |
+| | | Raid de 8: Eden (Gate, Verse, Promise) | ![Traducido][ok] |
 | | | Raid de alianza (24): YoRHa: Dark Apocalypse | ![Pendiente][no] |
 | **Post Shadowbringers** | 5.1–5.55 | Historia principal, de "Shaken Resolve" a "Death Unto Dawn" | ![Traducido][ok] |
 | **Endwalker** | 6.0 | Historia principal, de "The Next Ship to Sail" a "Endwalker" | ![Traducido][ok] |
