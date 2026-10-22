@@ -132,12 +132,12 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 |  | 4.3 | 251 | ![Traducido][ok] |
 |  | 4.4 | 341 | ![Traducido][ok] |
 |  | 4.5–4.56 | 475 | ![Traducido][ok] |
-| **Shadowbringers** | 5.0 | 1.184 / 3.106 | ![En curso][wip] |
-| **Post Shadowbringers** | 5.1 | 296 | ![Pendiente][no] |
-|  | 5.2 | 408 | ![Pendiente][no] |
-|  | 5.3 | 647 | ![Pendiente][no] |
-|  | 5.4 | 378 | ![Pendiente][no] |
-|  | 5.5–5.55 | 449 | ![Pendiente][no] |
+| **Shadowbringers** | 5.0 | 3.106 | ![Traducido][ok] |
+| **Post Shadowbringers** | 5.1 | 296 | ![Traducido][ok] |
+|  | 5.2 | 408 | ![Traducido][ok] |
+|  | 5.3 | 647 | ![Traducido][ok] |
+|  | 5.4 | 378 | ![Traducido][ok] |
+|  | 5.5–5.55 | 449 | ![Traducido][ok] |
 | **Endwalker** | 6.0 | 5.240 | ![Pendiente][no] |
 | **Post Endwalker** | 6.1 | 550 | ![Pendiente][no] |
 |  | 6.2 | 483 | ![Pendiente][no] |
