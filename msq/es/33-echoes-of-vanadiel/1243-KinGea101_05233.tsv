@@ -1,0 +1,119 @@
+key	text
+TEXT_KINGEA101_05233_SEQ_00	Este mensajero Hoobigo busca a un aventurero con mucho mundo recorrido.
+TEXT_KINGEA101_05233_SEQ_01	Hay problemas en Mamook, y Miilal Ja espera que la mirada de un aventurero arroje algo de luz sobre la situación. Si estás dispuest<if(gnum4,a,o)>, el mensajero Hoobigo te pide que vayas a hablar con ella de inmediato.
+TEXT_KINGEA101_05233_SEQ_02	Según cuenta Miilal Ja, los problemas empezaron cuando encontraron a un desconocido con armadura inconsciente en el Skydeep Cenote. No tienen forma de saber de dónde vino, y él mismo no recuerda nada de quién es. Antes de que puedan averiguar más, Zereel Ja irrumpe con malas noticias: la sombra de Gulool Ja Ja volvió a Yak T'el. Bakool Ja Ja se esfuerza por contener a la aparición, pero sus posibilidades no parecen buenas. La Landsguard pronto se reunirá para ayudarlo, pero Miilal Ja teme que su ayuda llegue tarde y sea poca. Por eso te pide que vayas a Gok Draak Descent a ayudar a su hijo.
+TEXT_KINGEA101_05233_SEQ_03	Encuentras a Bakool Ja Ja en el suelo, pero todavía de pie en espíritu, resistiendo como puede. Antes de que alcances a tomar las armas, otra enemiga, una muchacha llamada Prishe, se suma a la pelea. Ella tiene ganas de luchar, pero la sombra propone una retirada táctica y desaparece por un portal cercano. Bakool Ja Ja no se conforma con ese final, así que sale tras ellos sin pensar en los peligros que puedan esperarlo al otro lado de la grieta.
+TEXT_KINGEA101_05233_SEQ_04	El breve choque del desconocido con Prishe lo ayudó a recordar parte de su pasado. Ahora recuerda lo suficiente para saber que Prishe es su amiga, y que alguna fuerza malévola probablemente se apoderó de ella. Aunque está decidido a ir a rescatarla, su cuerpo protesta en cuanto intenta marcharse. Insistes en que descanse, y miras el portal con tanta determinación como inquietud.<br><br>※Puedes acceder a Jeuno: The First Walk desde el Duty Finder.
+TEXT_KINGEA101_05233_SEQ_05	Apenas cruzas el portal, llegas a lo que parece una ciudad plagada de monstruos. La batalla que sigue se siente como un sueño febril: poderes invisibles te llevan de un lugar a otro. Después de vencer a lo que parece el último de esos enemigos de pesadilla, de algún modo te encuentras de nuevo en el punto de partida, en la misteriosa ciudad.
+TEXT_KINGEA101_05233_SEQ_06	Bakool Ja Ja llega cargando a Prishe, dormida. Ella no tarda en despertar, sin ningún recuerdo de sus encuentros anteriores. Los misterios se acumulan mientras intentas entender dónde estás.
+TEXT_KINGEA101_05233_SEQ_07	Bakool Ja Ja y tú salen de esta prueba con más preguntas que respuestas, pero por ahora están a salvo. Él te agradece la ayuda oportuna, aunque está por verse si volverá a necesitar de tu fuerza.
+TEXT_KINGEA101_05233_TODO_00	Habla con Miilal Ja en Mamook.
+TEXT_KINGEA101_05233_TODO_01	Inspecciona el destino.
+TEXT_KINGEA101_05233_TODO_02	Habla con el viajero con armadura.
+TEXT_KINGEA101_05233_TODO_03	Entra en Jeuno: The First Walk.
+TEXT_KINGEA101_05233_TODO_04	Entra en Jeuno: The First Walk.
+TEXT_KINGEA101_05233_TODO_05	Habla con Bakool Ja Ja.
+TEXT_KINGEA101_05233_HOOBIGO05233_000_001	Un momento, ¿usted no es <split(<string(gstr1)>, ,1)>? Eso me ahorra muchas molestias. Me pidieron que <if(gnum4,la,lo)> buscara de parte de Miilal Ja.
+TEXT_KINGEA101_05233_HOOBIGO05233_000_002	Últimamente pasan cosas curiosas en Mamook, y pensamos que alguien con su experiencia del mundo podría ayudarnos a entenderlas.
+TEXT_KINGEA101_05233_HOOBIGO05233_000_003	Si tiene tiempo y ganas de ayudarnos, ella <if(gnum4,la,lo)> espera en Mamook. La encontrará al oeste de la plaza, en el edificio grande cerca de la estatua de dos cabezas.
+TEXT_KINGEA101_05233_MIILALJA_000_100	Gracias por venir. A decir verdad, no estaba segura de hacer bien en llamarte, pero los problemas que tenemos ahora no se pueden superar solo con nuestras fuerzas.
+TEXT_KINGEA101_05233_MIILALJA_000_101	Todo empezó cuando encontramos a un viajero caído en el Skydeep Cenote. Por suerte, sus heridas no eran graves.
+TEXT_KINGEA101_05233_MIILALJA_000_102	No se ve a muchos como él por estas tierras. Alto y delgado, con orejas puntiagudas. <switch(gnum71,,Igual que tú\, de hecho.,,,,,,)>
+TEXT_KINGEA101_05233_MIILALJA_000_103	Todavía no despertó, pero dice en sueños cosas extrañas que no tienen mucho sentido para nosotros.
+TEXT_KINGEA101_05233_MIILALJA_000_104	Esperábamos que reconocieras algo de lo que dice, o incluso que le refrescaras la memoria cuando recupere el conocimiento. ¿Estarías dispuest<if(gnum4,a,o)> a hablar con él?
+TEXT_KINGEA101_05233_HOOBIGO05233_100_104	Miilal Ja. El viajero se está despertando.
+TEXT_KINGEA101_05233_MIILALJA_000_105	Muy bien. ¿Serías tan amable de traerlo aquí?
+TEXT_KINGEA101_05233_MIILALJA_000_106	Nos alegra verte despierto, y con buena salud además. ¿Puedo preguntarte tu nombre, viajero?
+TEXT_KINGEA101_05233_ALXAAL_000_107	(-Viajero con armadura-)¿Mi nombre? Yo...
+TEXT_KINGEA101_05233_ALXAAL_100_107	(-Viajero con armadura-)Lo siento. No lo recuerdo.
+TEXT_KINGEA101_05233_MIILALJA_000_108	Parece que la caída le afectó la memoria. En todo caso, no tenemos idea de qué hace aquí, y su armadura es la única pista de dónde vino. ¿Ves algo fuera de lo común en él?
+TEXT_KINGEA101_05233_Q1_000_000	¿Qué vas a decir?
+TEXT_KINGEA101_05233_A1_000_001	A mí me parece un aventurero cualquiera.
+TEXT_KINGEA101_05233_A1_000_002	No se ve muy distinto de los otros Elezen que conocí. ¿O sería Eldite?
+TEXT_KINGEA101_05233_ALXAAL_000_110	(-Viajero con armadura-)¿Un aventurero? ¿Yo...?
+TEXT_KINGEA101_05233_ALXAAL_000_111	(-Viajero con armadura-)¿Elezen? ¿Eldite? No, no es eso...
+TEXT_KINGEA101_05233_ALXAAL_000_112	(-Viajero con armadura-)¡Agh!
+TEXT_KINGEA101_05233_ALXAAL_000_113	(-Viajero con armadura-)Ya... Ya recuerdo. Soy un Elvaan. ¡Un aventurero Elvaan!
+TEXT_KINGEA101_05233_ALXAAL_000_114	(-Viajero con armadura-)Y ustedes son Mamool Ja... ¿Será que llegué a Mamook?
+TEXT_KINGEA101_05233_ALXAAL_000_115	(-Viajero con armadura-)Un momento, si estoy en Mamook, entonces... ¡me deben de haber tomado prisionero!
+TEXT_KINGEA101_05233_MIILALJA_000_116	Si cree tan rápido que somos enemigos, quizá venga de una tierra de ultramar que no conoce nuestras costumbres.
+TEXT_KINGEA101_05233_Q2_000_000	¿Qué vas a decir?
+TEXT_KINGEA101_05233_A2_000_001	Puede que venga de Eorzea.
+TEXT_KINGEA101_05233_A2_000_002	No estoy tan segur<if(gnum4,a,o)>...
+TEXT_KINGEA101_05233_A2_000_003	¿Y si vino de Alexandria?
+TEXT_KINGEA101_05233_MIILALJA_000_118	No tenemos forma de saberlo con certeza. En ese caso-
+TEXT_KINGEA101_05233_ZEREELJA_000_119	¡Miilal Ja! ¡Hay que reunir a nuestros mejores luchadores ya mismo!
+TEXT_KINGEA101_05233_MIILALJA_100_118	¿Por qué? ¿Qué pasó?
+TEXT_KINGEA101_05233_ZEREELJA_000_120	¡Volvió la sombra de Gulool Ja Ja! La vieron cerca de Gok Draak Descent. Bakool Ja Ja se enfrentó a la aparición, pero me temo lo peor.
+TEXT_KINGEA101_05233_ZEREELJA_000_121	<if(gnum4,La compañera,El compañero)> de la Vow of Resolve en el Feat of the Brotherhood. Sospecho que entiendes la gravedad de esto mejor que la mayoría.
+TEXT_KINGEA101_05233_ZEREELJA_000_122	Estos últimos días se vio a la sombra del difunto Dawnservant vagando por los bosques de Yak T'el. Tengo razones para creer que la invocaron de la misma forma que la del Feat.
+TEXT_KINGEA101_05233_ZEREELJA_000_123	Solo unos pocos privilegiados de los Boonewa deberían conocer lo necesario para realizar el rito. Ya encontraremos al culpable, pero ahora tenemos un asunto más urgente.
+TEXT_KINGEA101_05233_ZEREELJA_000_124	Tengo que avisar rápido a la Landsguard. Bakool Ja Ja necesita refuerzos.
+TEXT_KINGEA101_05233_MIILALJA_100_125	La sombra del Dawnservant... Temo que no aguante hasta que se reúna la guardia.
+TEXT_KINGEA101_05233_MIILALJA_110_125	Me cuesta pedirte un favor así, pero ¿ayudarías a Bakool Ja Ja en esta batalla?
+TEXT_KINGEA101_05233_MIILALJA_000_126	Te lo agradezco de corazón. Gok Draak Descent está al oeste de aquí. Por favor, ve a ayudar a mi hijo.
+TEXT_KINGEA101_05233_ALXAAL_000_127	(-Viajero con armadura-)¿Gulool Ja Ja...?
+TEXT_KINGEA101_05233_MIILALJA_000_130	No hace falta decir que la sombra de Gulool Ja Ja es peligrosa. Date prisa, por favor. Temo que mi hijo no resista mucho solo.
+TEXT_KINGEA101_05233_ALXAAL_000_135	¿Cómo llegué aquí...?
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_200	(-???-)¡Gwaaahhh!
+TEXT_KINGEA101_05233_REMNANTGULOOLJAJA_000_201	(-Shade of Resolve-)Hmph. Patético. ¿Y se atreven a llamarse hermanos <italic(1)>bendecidos<italic(0)>?
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_202	(-Bakool Ja Ja the Mighty-)\<jadeo> \<jadeo> Nada mal... Hasta podrías ser un desafío.
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_203	(-Bakool Ja Ja the Mystic-)Si viniste a ayudar, mejor no bajes la guardia. No está solo...
+TEXT_KINGEA101_05233_PRISHE_000_204	(-Joven alborotadora-)¿Qué es esto? ¿Otro monstruo que hay que despachar? No se preocupen - ¡yo los mando a volar!
+TEXT_KINGEA101_05233_PRISHE_000_205	(-Joven alborotadora-)¡Allá voy!
+TEXT_KINGEA101_05233_ALXAAL_000_206	(-Viajero con armadura-)¡Ni lo pienses!
+TEXT_KINGEA101_05233_PRISHE_000_207	(-Joven alborotadora-)¡Nullifying Dropkick!
+TEXT_KINGEA101_05233_ALXAAL_000_208	(-Viajero con armadura-)No sé explicar por qué, pero algo me dijo que tenía que estar aquí.
+TEXT_KINGEA101_05233_PRISHE_000_209	(-Joven alborotadora-)¡Ja! Nada mal. Nada mal, la verdad. ¡Pero hace falta más que un par de tauri para detenerme!
+TEXT_KINGEA101_05233_ALXAAL_000_210	(-Viajero con armadura-)¿Tauri? ¿Estás loca, niña?
+TEXT_KINGEA101_05233_PRISHE_000_211	(-Joven alborotadora-)¡Pero si habla! Lástima que no tenga modales.
+TEXT_KINGEA101_05233_PRISHE_000_212	Me llamo Prishe. Más te vale recordarlo.
+TEXT_KINGEA101_05233_ALXAAL_000_213	(-Viajero con armadura-)¿Prishe...?
+TEXT_KINGEA101_05233_PRISHE_000_214	¡Jajaja! Parece que gané.
+TEXT_KINGEA101_05233_PRISHE_000_215	Un taurus menos, falta uno. ¡Espero que estés list<if(gnum4,a,o)>!
+TEXT_KINGEA101_05233_REMNANTGULOOLJAJA_000_216	(-Shade of Reason-)Gejejeje. Tranquila, Prishe. Ya cumplimos nuestra tarea. Vamos.
+TEXT_KINGEA101_05233_PRISHE_000_217	Como digas, Ulmia.
+TEXT_KINGEA101_05233_BAKOOLJAJA_100_217	(-Bakool Ja Ja the Mystic-)¿Ulmia? ¿De qué habla?
+TEXT_KINGEA101_05233_ALXAAL_000_218	(-Viajero con armadura-)Prishe... ¡espera...! Por favor, no te vayas...
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_219	(-Bakool Ja Ja the Mighty-)Supongo que te trajo la noticia de la sombra del Dawnservant. No sé qué tiene que ver esa muchacha con todo esto, pero está claro que está del lado de quien los invocó.
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_221	(-Bakool Ja Ja the Mystic-)El camino sigue abierto, aunque no hay forma de saber adónde lleva.
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_220	(-Bakool Ja Ja the Mighty-)Aun así, no podemos dejar que vuelvan. Tenemos el deber de proteger este bosque, y no voy a dejar que lo destroce un impostor de dos cabezas.
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_222	(-Bakool Ja Ja the Mighty-)Vamos tras ellos, hermano. Tú cuida a ese, ¿quieres?
+TEXT_KINGEA101_05233_ALXAAL_000_225	(-Viajero con armadura-)Prishe... ¿Qué te pasó?
+TEXT_KINGEA101_05233_ALXAAL_000_300	Todavía tengo todo borroso, pero recuerdo haber peleado junto a esa muchacha. Éramos compañeros de armas, creo.
+TEXT_KINGEA101_05233_ALXAAL_000_301	Pero era evidente que algo le pasaba. No solo me confundió con un monstruo, sino que llamó "Ulmia" a su compañero de dos cabezas.
+TEXT_KINGEA101_05233_ALXAAL_000_302	La Ulmia que yo conozco es una mujer Elvaan. Nada que ver con ese demonio reptil que encontramos.
+TEXT_KINGEA101_05233_ALXAAL_000_303	Algo oscuro se apoderó de ella, le nubló la mente. Tengo que ir y-
+TEXT_KINGEA101_05233_ALXAAL_000_304	Ugh...
+TEXT_KINGEA101_05233_Q3_000_000	¿Qué vas a decir?
+TEXT_KINGEA101_05233_A3_000_001	No vas a ningún lado con esas heridas.
+TEXT_KINGEA101_05233_A3_000_002	Yo voy tras Prishe.
+TEXT_KINGEA101_05233_ALXAAL_000_306	Pero ella me necesita...
+TEXT_KINGEA101_05233_ALXAAL_000_307	¿Irías en mi lugar? No sé cómo agradecértelo.
+TEXT_KINGEA101_05233_ALXAAL_000_308	¿Te pondrías en peligro por mí? Gracias...
+TEXT_KINGEA101_05233_ALXAAL_100_308	Conozco esa mirada. Los ojos de <if(gnum4,una mujer,un hombre)> que vio más batallas de las que le tocaban.
+TEXT_KINGEA101_05233_ALXAAL_110_308	Más allá de lo que hizo Prishe, era una amiga muy querida para mí. Estoy casi seguro.
+TEXT_KINGEA101_05233_ALXAAL_000_309	Ten cuidado, amig<if(gnum4,a,o)>. No hay forma de saber qué hay al otro lado de ese portal.
+TEXT_KINGEA101_05233_ALXAAL_000_310	Esperaba que la gente del pueblo se mostrara indiferente, o hasta hostil, cuando pedí una espada y un escudo, pero no dudaron en ayudarme y despedirme.
+TEXT_KINGEA101_05233_ALXAAL_000_311	Creo que siempre estuve acostumbrado a armas como estas, eso sí. Cuando me recupere, con gusto las usaré a tu lado.
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_500	(-Bakool Ja Ja the Mighty-)¿Estás bien?
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_501	(-Bakool Ja Ja the Mystic-)Solo está dormida. Está por verse si nos va a dar pelea cuando despierte.
+TEXT_KINGEA101_05233_PRISHE_000_502	Mmm... Errrghhh...
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_503	(-Bakool Ja Ja the Mighty-)Ah, se mueve.
+TEXT_KINGEA101_05233_PRISHE_000_504	¡Bwaaahhh!
+TEXT_KINGEA101_05233_PRISHE_000_505	¡¿U-Un lagarto de dos cabezas?! Me quieres dar un mordisco, ¿eh?
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_506	(-Bakool Ja Ja the Mighty-)Una flacucha como tú apenas alcanzaría para un bocadillo.
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_507	(-Bakool Ja Ja the Mystic-)¡Además, no comemos gente!
+TEXT_KINGEA101_05233_PRISHE_100_507	Perdón, estoy un poco nerviosa.
+TEXT_KINGEA101_05233_BAKOOLJAJA_110_507	(-Bakool Ja Ja the Mighty-)Si no tienes nada contra nosotros, nosotros no tenemos nada contra ti.
+TEXT_KINGEA101_05233_BAKOOLJAJA_120_507	(-Bakool Ja Ja the Mystic-)Solo queremos hablar.
+TEXT_KINGEA101_05233_PRISHE_000_508	¿De verdad se puede confiar en ellos?
+TEXT_KINGEA101_05233_PRISHE_000_509	Debería saber que no hay que juzgar a la gente por su aspecto.
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_510	(-Bakool Ja Ja the Mighty-)No pasa nada. Somos un ejemplar intimidante.
+TEXT_KINGEA101_05233_PRISHE_000_511	Por cierto, soy Prishe. Mucho gusto.
+TEXT_KINGEA101_05233_PRISHE_000_550	Hoy fue un día lleno de sorpresas.
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_600	(-Bakool Ja Ja the Mighty-)Hay mucho de esto que no entendemos, pero lo que <italic(1)>sí<italic(0)> entendemos es que ganamos la batalla. Por ahora, al menos.
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_601	(-Bakool Ja Ja the Mighty-)Lo que podría haber sido un mal trago terminó en una victoria clara contra la sombra del Dawnservant y el resto de esos demonios. Es decir... ehm...
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_602	(-Bakool Ja Ja the Mighty-)Gracias por tu ayuda, <split(<string(gstr1)>, ,1)>.
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_223	(-Bakool Ja Ja the Mighty-)
+TEXT_KINGEA101_05233_BAKOOLJAJA_000_224	(-Bakool Ja Ja the Mighty-)

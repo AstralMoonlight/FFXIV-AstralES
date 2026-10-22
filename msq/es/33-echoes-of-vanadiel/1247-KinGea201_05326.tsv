@@ -1,0 +1,122 @@
+key	text
+TEXT_KINGEA201_05326_SEQ_00	El ceño fruncido del guardia de la Landsguard sugiere que no todo anda bien en Yak T'el.
+TEXT_KINGEA201_05326_SEQ_01	Hubo otro avistamiento en Yak T'el de lo que la Landsguard cree que son ecos. Consciente de la amenaza que representan para Tural, Bakool Ja Ja ya salió a enfrentarlos, y piden tu ayuda. El último avistamiento lo informó Toraal Ja, en Mamook. Quizá él pueda decirte en qué parte de Yak T'el encontrar a Bakool Ja Ja.
+TEXT_KINGEA201_05326_SEQ_02	Toraal Ja te informa que, la última vez que hablaron, Bakool Ja Ja estaba cazando a los ecos en algún lugar al norte de Gok Draak Descent, y que a él le ordenaron escoltarte hasta allí. Te pide que subas a su montura cuando estés list<if(gnum4,a,o)> para partir.
+TEXT_KINGEA201_05326_SEQ_03	Encuentras a Bakool Ja Ja, que ya mató a los ecos, y estos no tardan en disiparse en partículas de electrope. Entre sus restos, sin embargo, encuentras una carta escrita por Sareel Ja. Sus preparativos para tu próxima prueba están listos, y te invita a volver a Jeuno. Como no quieres arriesgarte a nuevos ataques de ecos quizá más poderosos, aceptas la invitación y vas a Jeuno.
+TEXT_KINGEA201_05326_SEQ_04	Tras una breve espera, Sareel Ja hace su entrada teatral con la Shade of Gulool Ja Ja a su lado. Presume de sus delirios de grandeza, seguro de que sus planes saldrán bien con la ayuda de un eco recién creado: Kam'lanaut, el Archiduque del Grand Duchy of Jeuno. Prishe da un paso adelante para enfrentarlo con palabras, pero él ya se cansó de sus intromisiones e intenta derribarla. Para sorpresa de todos, Bakool Ja Ja la aparta del peligro, aunque sale herido. Prishe decide quedarse a curarle las heridas, y deja que Alxaal y tú enfrenten los peligros que vienen.<br><br>※Puedes acceder a San d'Oria: The Second Walk desde el Duty Finder.
+TEXT_KINGEA201_05326_SEQ_05	Cruzas un portal y te encuentras en otra ciudad desconocida, con peligros acechando en cada esquina. La batalla te lleva por varios lugares extraños y culmina en un enfrentamiento angustiante con Kam'lanaut y su hermano Eald'narche. Sales victorios<if(gnum4,a,o)>, pero no hay rastro de Alxaal.
+TEXT_KINGEA201_05326_SEQ_06	Sareel Ja te felicita por la victoria, aunque tú ves pocos motivos para celebrar. Prishe cree que su bravuconería después de la derrota es pura fanfarronada, pero él le asegura que sus planes avanzan a buen ritmo. De hecho, ya parece estar pensando en una nueva selección de ecos. Se marcha una vez más, y te deja preguntándote qué planes desplegará la próxima vez que aparezca.
+TEXT_KINGEA201_05326_SEQ_07	Pese a lo que pasó hoy, la determinación de Alxaal de detener a Sareel Ja sigue intacta. La de Prishe, quizá no tanto. Por desgracia, no queda más que esperar y prepararse para el próximo enfrentamiento, que es inevitable.
+TEXT_KINGEA201_05326_TODO_00	Habla con Toraal Ja en Mamook.
+TEXT_KINGEA201_05326_TODO_01	Busca a Bakool Ja Ja cerca de Gok Draak Descent.
+TEXT_KINGEA201_05326_TODO_02	Espera en el lugar indicado en Jeuno.
+TEXT_KINGEA201_05326_TODO_03	Entra en San d'Oria: The Second Walk.
+TEXT_KINGEA201_05326_TODO_04	Habla con Prishe.
+TEXT_KINGEA201_05326_TODO_05	Habla con Alxaal.
+TEXT_KINGEA201_05326_LANDSGUARD05326_000_001	Ah, <split(<string(gstr1)>, ,1)>. No podría haber llegado en mejor momento.
+TEXT_KINGEA201_05326_LANDSGUARD05326_000_002	Acabo de recibir noticias de Yak T'el: vieron bestias desconocidas cerca de la grieta, y atacaron a los centinelas de guardia.
+TEXT_KINGEA201_05326_LANDSGUARD05326_000_003	Bakool Ja Ja cree que son ecos, y va para allá en este momento.
+TEXT_KINGEA201_05326_LANDSGUARD05326_000_004	No hace falta decir la amenaza que podrían representar más de ellos para Tuliyollal.
+TEXT_KINGEA201_05326_Q2_000_000	¿Qué vas a decir?
+TEXT_KINGEA201_05326_A2_000_001	No diga más.
+TEXT_KINGEA201_05326_A2_000_002	Con todo gusto ayudo.
+TEXT_KINGEA201_05326_LANDSGUARD05326_000_006	El último contacto vino de Toraal Ja, en Mamook. Le sugiero hablar primero con él para saber más del paradero de Bakool Ja Ja.
+TEXT_KINGEA201_05326_LANDSGUARD05326_000_010	Debería apurarse a ir a Mamook. No tengo dudas de que Toraal Ja podrá <if(gnum4,ayudarla,ayudarlo)> a encontrar a Bakool Ja Ja.
+TEXT_KINGEA201_05326_TORAALJA_000_100	Ah, usted debe de ser <split(<string(gstr1)>, ,1)>. Bakool Ja Ja me pidió que <if(gnum4,la,lo)> llevara con él apenas llegara. La última vez que hablamos, estaba cazando al eco en algún lugar al norte de Gok Draak Descent.
+TEXT_KINGEA201_05326_TORAALJA_000_101	Suba y nos ponemos en camino.
+TEXT_KINGEA201_05326_SYSTEM_000_102	Ahora puedes viajar directamente a Gok Draak Descent, cerca de la entrada a Jeuno, si hablas con Toraal Ja.
+TEXT_KINGEA201_05326_SYSTEM_000_103	¿Ir a Gok Draak Descent?
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_150	(-Bakool Ja Ja the Mystic-)Ahí estás. Me temo que te perdiste toda la diversión.
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_151	(-Bakool Ja Ja the Mighty-)Levantaron las armas para atacar antes de que alcanzáramos a saludar.
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_152	(-Bakool Ja Ja the Mystic-)Para ser justos, nosotros también los liquidamos antes de que alcanzaran a despedirse, ¡jajaja!
+TEXT_KINGEA201_05326_PRISHE_000_153	¡<split(<string(gstr1)>, ,1)>! ¡Bakool Ja Ja! Vinimos lo más rápido que pudimos.
+TEXT_KINGEA201_05326_ALXAAL_000_154	¿No son estos... Orcs...?
+TEXT_KINGEA201_05326_PRISHE_000_155	Como los que atacaron mi hogar. Decir que son violentos sería quedarse corto, y suelen moverse en grandes manadas. A Tavnazia siempre le costó mucho contenerlos.
+TEXT_KINGEA201_05326_ALXAAL_000_156	¿Hay alguna posibilidad de que estos brutos sean nativos de sus tierras?
+TEXT_KINGEA201_05326_ALXAAL_000_157	Parece que ya tenemos la respuesta.
+TEXT_KINGEA201_05326_ALXAAL_000_158	Pero ¿qué es eso?
+TEXT_KINGEA201_05326_ALXAAL_000_159	Es una carta. Escrita con la letra de tu pueblo, creo. ¿Le echarías un vistazo?
+TEXT_KINGEA201_05326_SAREELJALETTER_000_160	(-Sareel Ja-)<italic(1)><if(gnum4,A la campeona,Al campeón)> del Dawnservant:<br>El escenario de su próximo desafío está listo. Por la presente, <if(gnum4,la,lo)> invito a volver a Jeuno.<italic(0)>
+TEXT_KINGEA201_05326_SAREELJALETTER_000_161	(-Sareel Ja-)<italic(1)>Si se niega, se desatará una horda de ecos sobre Yak T'el. La decisión es suya...<italic(0)>
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_162	(-Bakool Ja Ja the Mystic-)¿Así que esta es su tan esperada invitación? Reconozco una serpiente cuando la veo, y esta está podrida hasta la médula.
+TEXT_KINGEA201_05326_ALXAAL_000_163	¿Qué opción tenemos más que aceptar?
+TEXT_KINGEA201_05326_PRISHE_000_164	Ese bastardo... Vamos. Cuanto antes estemos de vuelta en Jeuno, antes se reencuentra con mis puños.
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_170	(-Bakool Ja Ja the Mighty-)¿Por qué no me sorprende? Hace todo un espectáculo amenazándonos para que volvamos, y después tiene el descaro de hacernos esperar.
+TEXT_KINGEA201_05326_PRISHE_000_175	Invocar al Shadow Lord ya fue bastante malo. ¿Qué estará tramando esta vez? ¿Y qué papel me toca a mí en todo esto?
+TEXT_KINGEA201_05326_ALXAAL_000_180	Los Orcs que vimos hace un rato tienen una historia larga y amarga con la gente de mi tierra, San d'Oria.
+TEXT_KINGEA201_05326_ALXAAL_000_181	Cuando empecé en el oficio de aventurero, una de mis primeras tareas fue expulsar a una banda de Orcs que había instalado un campamento en los bosques cercanos de Ronfaure. Aunque tengo la memoria un poco borrosa...
+TEXT_KINGEA201_05326_SAREELJA_000_200	Jejeje... Qué amable de su parte venir.
+TEXT_KINGEA201_05326_SAREELJA_000_201	Habría sido una lástima verme obligado a lanzar más ecos sobre la buena gente de Tural. Al Dawnservant le habría disgustado mucho ver que su querido pueblo sufría daño.
+TEXT_KINGEA201_05326_ALXAAL_000_202	Basta de juegos, Sareel Ja.
+TEXT_KINGEA201_05326_ALXAAL_000_203	¡No vamos a dejar que sigas mancillando los recuerdos de Vana'diel con estos ecos abominables!
+TEXT_KINGEA201_05326_SAREELJA_000_204	...¿Y usted qué hace aquí, exactamente? No recuerdo haber solicitado su presencia hoy.
+TEXT_KINGEA201_05326_SAREELJA_000_205	Hmph. Un tropiezo menor en mi camino a la grandeza, como pronto verán. ¡Adelante!
+TEXT_KINGEA201_05326_SAREELJA_000_206	Permítanme presentarles a Kam'lanaut, Archiduque del Grand Duchy of Jeuno. Pero que su título no los engañe, porque él es-
+TEXT_KINGEA201_05326_PRISHE_000_207	El último de los Zilart, de hace diez mil años.
+TEXT_KINGEA201_05326_PRISHE_100_207	Vivieron en una época anterior a que las cinco razas habitaran Vana'diel...
+TEXT_KINGEA201_05326_PRISHE_000_208	Sé lo ridículo que debe de sonar, pero esta vez podríamos tener un problema de verdad.
+TEXT_KINGEA201_05326_Q1_000_000	¿Qué vas a decir?
+TEXT_KINGEA201_05326_A1_000_001	Se parece mucho a los antiguos de este mundo.
+TEXT_KINGEA201_05326_A1_000_002	Ay, dioses, suena como un Ascian...
+TEXT_KINGEA201_05326_PRISHE_000_210	¿Aquí también tuvieron antiguos como los Zilart? Nuestros mundos se parecen más de lo que pensaba.
+TEXT_KINGEA201_05326_ALXAAL_000_211	Si mal no recuerdo, Kam'lanaut tenía un hermano mayor. No me imagino que a Sareel Ja se le haya pasado un detalle así.
+TEXT_KINGEA201_05326_KAMLANAUT_000_212	¿Hermano <italic(1)>mayor<italic(0)>? ¿Cómo sabes tú algo de eso?
+TEXT_KINGEA201_05326_SAREELJA_000_213	Vamos, Kam'lanaut. No tiene por qué preocuparse por los desvaríos de un muerto.
+TEXT_KINGEA201_05326_KAMLANAUT_000_214	Ya veo. Quieres usar a estos aventureros para medir mi fuerza.
+TEXT_KINGEA201_05326_KAMLANAUT_000_215	Bueno, sin duda están muy lejos de la chusma que me había imaginado.
+TEXT_KINGEA201_05326_KAMLANAUT_100_215	Está bien. Le seguiré el juego a tu pequeño plan. Por ahora.
+TEXT_KINGEA201_05326_SAREELJA_000_216	Y con eso, se levanta el telón de su segundo desafío.
+TEXT_KINGEA201_05326_PRISHE_000_217	¡Sareel Ja, espera!
+TEXT_KINGEA201_05326_PRISHE_000_218	Antes de que te vayas, necesito saberlo. ¿Soy... soy de verdad solo un eco?
+TEXT_KINGEA201_05326_SAREELJA_000_219	Ya hablamos de esto, niña. Pero parece que su corazón se niega a aceptar lo que su cabeza sabe que es cierto. Me da lástima, de verdad.
+TEXT_KINGEA201_05326_SAREELJA_000_220	Permítame aliviar su carga. Y devolverla al electrope.
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_221	¡Gahhh!
+TEXT_KINGEA201_05326_PRISHE_000_222	¡Bakool Ja Ja!
+TEXT_KINGEA201_05326_SAREELJA_000_223	Haciéndose el héroe por este montón de piedra disfrazado de niña. Vaya, cómo han caído los poderosos.
+TEXT_KINGEA201_05326_SAREELJA_000_224	Con él fuera del camino, tiene una distracción menos en el desafío que viene. Así que venga, dé todo lo que tiene, ¡para que pueda crear el recipiente perfecto, el soberano perfecto!
+TEXT_KINGEA201_05326_KAMLANAUT_000_225	Te esperaré en un lugar más digno de nuestra batalla. Espero que no me hagas esperar.
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_226	(-Bakool Ja Ja the Mighty-)¿Estás bien?
+TEXT_KINGEA201_05326_PRISHE_000_227	Dioses, todo esto es culpa mía...
+TEXT_KINGEA201_05326_PRISHE_000_228	Por más que me encantaría darle a Sareel Ja una buena trompada, no puedo dejarte aquí así.
+TEXT_KINGEA201_05326_ALXAAL_000_229	Nunca me atreví a imaginar que tendríamos que cruzar golpes con el Archiduque.
+TEXT_KINGEA201_05326_ALXAAL_000_230	Y aunque me cuesta hacer cualquier cosa que le haga el juego a Sareel Ja, no podemos permitir que haga lo que quiera con los recuerdos de Vana'diel. Cuando estés bien preparad<if(gnum4,a,o)>, dímelo y nos vamos.
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_300	(-Bakool Ja Ja the Mighty-)Ya me ganó dos veces. Puede que solo sea una sombra, pero no hay que subestimarlo.
+TEXT_KINGEA201_05326_PRISHE_000_305	Deja que yo me ocupe de Bakool Ja Ja. ¡Ahora entra ahí y muéstrale a Kam'lanaut de qué estás hech<if(gnum4,a,o)>!
+TEXT_KINGEA201_05326_ALXAAL_000_310	No hay forma de saber qué otros ecos vamos a encontrar adentro. Mejor no bajes la guardia, amig<if(gnum4,a,o)>.
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_400	(-Bakool Ja Ja the Mighty-)Prishe estaba muerta de preocupación por ti. Seguro que se alegra de verte de vuelta, y casi sin un rasguño. Pero ¿dónde está Alxaal? ¿Pasó algo?
+TEXT_KINGEA201_05326_PRISHE_000_400	¡<split(<string(gstr1)>, ,1)>, volviste! Y <if(gnum4,entera,entero)>.
+TEXT_KINGEA201_05326_PRISHE_000_401	...Pero ¿dónde está Alxaal? ¿Pasó algo?
+TEXT_KINGEA201_05326_PRISHE_000_402	¡¿También tuviste que pelear contra Omega y Ultima?! Vaya, esta vez Sareel Ja no se contuvo.
+TEXT_KINGEA201_05326_PRISHE_000_403	Pero saliste bien, y seguro que Alxaal también.
+TEXT_KINGEA201_05326_PRISHE_000_404	¡¿Y ahora qué quieres?!
+TEXT_KINGEA201_05326_SAREELJA_000_405	Ay, parece que a su alegre grupito le falta un miembro. ¿Será que su vida se cortó trágicamente en el campo de batalla?
+TEXT_KINGEA201_05326_SAREELJA_000_406	Aunque supongo que "vida" sería un poco exagerado, ¿no?
+TEXT_KINGEA201_05326_SAREELJA_000_407	Ah, pero me desvío. Vine a felicitarlos por su impresionante paliza a los ecos.
+TEXT_KINGEA201_05326_SAREELJA_000_408	De hecho, sus esfuerzos me dieron un conocimiento vital, un conocimiento que voy a aprovechar bien en mi próxima selección.
+TEXT_KINGEA201_05326_PRISHE_000_409	Ahórrate la bravuconería. Cualquiera con ojos ve que en realidad estás furioso por perder.
+TEXT_KINGEA201_05326_SAREELJA_000_410	¿Por qué tendría motivos para estar furioso si todo va según lo planeado? Cuanto más fuerte demuestre ser <if(gnum4,ella,él)>, más poderoso será nuestro soberano cuando todo esté dicho y hecho.
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_411	(-Bakool Ja Ja the Mighty-)Pero ¿por qué? ¿Por qué llegar a tanto?
+TEXT_KINGEA201_05326_SAREELJA_000_412	Porque merecemos algo mejor de lo que pudo darnos esa farsa de competencia, y el mundo pronto verá que soy digno de gobernar junto a un soberano <italic(1)>verdadero<italic(0)>.
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_413	(-Bakool Ja Ja the Mystic-)Si usurpas el trono, el mundo solo te va a ver como un aspirante a tirano y un traidor. Por favor, Sareel Ja, todavía estás a tiempo de parar.
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_414	(-Bakool Ja Ja the Mighty-)Pienses lo que pienses, los Dawnservants sirvieron bien al pueblo. Y no tengo dudas de que te perdonarían tus faltas como me las perdonaron a mí.
+TEXT_KINGEA201_05326_SAREELJA_000_415	¿Qué te pasó, Bakool Ja Ja? ¿Qué fue del orgulloso guerrero que disputó el trono, sabiendo que solo nosotros, los Mamool Ja, somos dignos de gobernar?
+TEXT_KINGEA201_05326_SAREELJA_000_416	Los lazos que crees haber forjado con Wuk Lamat no son más que una ilusión nacida de la conveniencia.
+TEXT_KINGEA201_05326_SAREELJA_000_417	Crees que tu lealtad te pone en un camino noble, pero no eres más que su perrito faldero. Un medio para que ella aproveche el poder de los hermanos bendecidos. Y cuando ella caiga, te vas a encontrar otra vez como un perro callejero... ¡como siempre fuiste!
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_418	(-Bakool Ja Ja the Mighty-)¡Te equivocas, Sareel Ja! ¡Te equivocas!
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_419	Yo- ¡Ergh...!
+TEXT_KINGEA201_05326_PRISHE_000_420	Tranquilo, Bakool Ja Ja. Se te van a abrir las heridas.
+TEXT_KINGEA201_05326_SAREELJA_000_421	Jajaja. Eso te pasa por proteger a esa <italic(1)>cosa<italic(0)>. Con el daño que sufrió su núcleo peleando contra <if(gnum4,nuestra campeona,nuestro campeón)>, de todos modos no le queda mucho.
+TEXT_KINGEA201_05326_SAREELJA_000_422	Pero ella no es la única en una situación precaria, ¿verdad? ¿O ya olvidaron lo que decía mi carta?
+TEXT_KINGEA201_05326_SAREELJA_000_423	Sería muy fácil desatar un ejército de ecos sobre la buena gente de Yak T'el. Si valoran su seguridad, mis selecciones tienen que continuar.
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_424	(-Bakool Ja Ja the Mystic-)Me das asco, Sareel Ja... Y viniendo de mí, es mucho decir.
+TEXT_KINGEA201_05326_SAREELJA_000_425	Si no hay nada más, tengo mucho que preparar, y más todavía que pensar, antes de mi próxima selección. Hasta la próxima...
+TEXT_KINGEA201_05326_BAKOOLJAJA_100_425	(-Bakool Ja Ja the Mighty-)¡Volviste!
+TEXT_KINGEA201_05326_ALXAAL_000_426	Perdón por la demora. Rechazar a los ecos me llevó más de lo que esperaba.
+TEXT_KINGEA201_05326_ALXAAL_000_427	Está claro que no les costó abrirse paso para salir, así que ¿por qué esas caras largas? ¿Pasó algo?
+TEXT_KINGEA201_05326_PRISHE_000_500	¿Cuánto me queda, antes de que... de que...?
+TEXT_KINGEA201_05326_BAKOOLJAJA_000_505	(-Bakool Ja Ja the Mystic-)Esa serpiente podrida...
+TEXT_KINGEA201_05326_ALXAAL_000_600	Si lo que dice es cierto, y los dos somos de verdad ecos, cualquier herida grave podría borrarnos de la existencia, literalmente.
+TEXT_KINGEA201_05326_ALXAAL_000_601	Sea como sea, aunque yo no sea real, el amor que siento por Vana'diel y sus recuerdos sí lo es. Por eso voy a seguir peleando.
+TEXT_KINGEA201_05326_PRISHE_000_602	Yo también. Preocuparse no nos va a llevar a ningún lado.
+TEXT_KINGEA201_05326_PRISHE_000_603	Ya sé la verdad...
+TEXT_KINGEA201_05326_SYSTEM_000_604	Los recuerdos que duermen en Jeuno se agitan. Quizá el aventurero Hume tenga algo nuevo que contarte.

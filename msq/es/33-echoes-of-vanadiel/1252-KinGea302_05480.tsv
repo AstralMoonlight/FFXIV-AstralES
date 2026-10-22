@@ -1,0 +1,275 @@
+key	text
+TEXT_KINGEA302_05480_SEQ_00	Alxaal tiene muchas ganas de perseguir a Sareel Ja.
+TEXT_KINGEA302_05480_SEQ_01	Con la esperanza de que la Landsguard haya visto señales de Sareel Ja, Alxaal propone volver a Mamook para retomar pronto el rastro.
+TEXT_KINGEA302_05480_SEQ_02	La Landsguard logró ahuyentar a los ecos que deambulaban por los bosques, pero hace poco perdió el contacto con uno de sus exploradores cerca de Gok Draak Descent. Su último mensaje fue un avistamiento de Sareel Ja. Con ganas de seguir esa pista, Alxaal sale disparado hacia el oeste sin perder tiempo, y te deja a ti seguirlo.
+TEXT_KINGEA302_05480_SEQ_03	Acorralas a Sareel Ja en el corazón del Skydeep Cenote y, tras un breve enfrentamiento, lo reduces justo a tiempo para que llegue la Landsguard. Prishe y Alxaal se preguntan qué van a hacer sin forma de volver a casa cuando aparece alguien de lo más inesperado: Shantotto. En lugar de explicar por qué llegó, primero propone ir a un lugar que no lastime tanto la vista. Con ese fin, todos deciden volver a Mamook.
+TEXT_KINGEA302_05480_SEQ_04	Según explica Shantotto, una perturbación en el espacio interplanar entre los mundos le llamó la atención sobre los planes de Sareel Ja, y por eso envió a uno de sus muñecos mágicos a investigar el asunto. Ahora que lo atraparon, está lista para devolver el muñeco a casa, pero antes les ofrece a Prishe y a Alxaal un pasaje seguro de vuelta a Vana'diel. Con un poco de persuasión de tu parte, aceptan la oferta. Pero antes de irse quieren dar un último vistazo a Tuliyollal.
+TEXT_KINGEA302_05480_SEQ_05	Mientras tú acompañas a Prishe y a Alxaal, Bakool Ja Ja se ofrece a mostrarle Tuliyollal a Shantotto. Para empezar, Prishe propone ir al Brightploom Post, disfrutando de las vistas en el camino.
+TEXT_KINGEA302_05480_SEQ_06	Llegas al Brightploom Post después de un paseo tranquilo por la ciudad, y Prishe y Alxaal aprovechan para despedirse de un guardia de la Landsguard. Sin otros lugares importantes que reclamen su atención, los tres siguen hacia Xbalyav Ty'e.
+TEXT_KINGEA302_05480_SEQ_07	Bakool Ja Ja llega poco después que ustedes y, para alegría de Prishe, se ofrece a invitarlos a tacos. La ocasión se vuelve todavía más especial con una actuación de nada menos que Scoria, que sigue su camino para convertirse en una cantante famosa. Aprovechan para despedirse y desearse suerte en lo que emprendan.
+TEXT_KINGEA302_05480_SEQ_08	Con todos sus asuntos resueltos, Prishe y Alxaal están listos para volver a casa. Shantotto recomienda partir desde Jeuno, porque allí el vínculo entre este mundo y Vana'diel es más fuerte.
+TEXT_KINGEA302_05480_SEQ_09	Prishe y Alxaal concentran sus pensamientos en su hogar y, tras un breve conjuro, Shantotto invoca una grieta para llevarlos de vuelta a Vana'diel. Después de despedidas sentidas, los tres se marchan, y el silencio de su ausencia resuena ahora por la ciudad.
+TEXT_KINGEA302_05480_SEQ_10	Con Prishe, Alxaal y Shantotto de vuelta en Vana'diel, no queda más que volver a Mamook, contarle la noticia a Miilal Ja y reflexionar sobre tu viaje.
+TEXT_KINGEA302_05480_SEQ_11	Tu viaje te dejó pensando en el camino que recorres, y en el que podrías haber recorrido en otras circunstancias. Aunque las posibilidades parecen no tener límite, estás casi segur<if(gnum4,a,o)> de que algún día Prishe, Alxaal y tú volverán a cruzarse.
+TEXT_KINGEA302_05480_TODO_00	Habla con el mensajero de la Landsguard afuera de Mamook.
+TEXT_KINGEA302_05480_TODO_01	Habla con el soldado de la Landsguard en la entrada del Skydeep Cenote.
+TEXT_KINGEA302_05480_TODO_02	Habla con Shantotto.
+TEXT_KINGEA302_05480_TODO_03	Habla con Bakool Ja Ja en Tuliyollal para que Prishe y Alxaal te acompañen.
+TEXT_KINGEA302_05480_TODO_04	Habla con el mensajero de la Landsguard mientras Prishe y Alxaal te acompañan.
+TEXT_KINGEA302_05480_TODO_05	Acompaña a Prishe y Alxaal a Xbalyav Ty'e y luego habla con Alxaal.
+TEXT_KINGEA302_05480_TODO_06	Habla con Prishe.
+TEXT_KINGEA302_05480_TODO_07	Habla con Shantotto en Lower Jeuno.
+TEXT_KINGEA302_05480_TODO_08	Habla con Bakool Ja Ja.
+TEXT_KINGEA302_05480_TODO_09	Habla con Miilal Ja en Mamook.
+TEXT_KINGEA302_05480_PRISHE_000_001	¡Tenemos que ir tras Sareel Ja!
+TEXT_KINGEA302_05480_LANDSGUARD05479_000_005	La Landsguard va a estar bien con Bakool Ja Ja ayudando a aguantar la línea. Vaya rápido a ocuparse de Sareel Ja.
+TEXT_KINGEA302_05480_ALXAAL_000_010	Volvamos a Mamook por ahora. Quizá alguien de la Landsguard vio a Sareel Ja cuando huía.
+TEXT_KINGEA302_05480_ALXAAL_000_015	Ya le informé a la Landsguard lo que descubrimos.
+TEXT_KINGEA302_05480_PRISHE_000_020	¿Adónde rayos se habrá metido Sareel Ja?
+TEXT_KINGEA302_05480_LANDSGUARD05479_000_100	Qué bueno <if(gnum4,verla de vuelta entera,verlo de vuelta entero)>, <split(<string(gstr1)>, ,1)>.
+TEXT_KINGEA302_05480_LANDSGUARD05479_000_101	Supimos por Alxaal. ¿Así que frustraron los planes de Sareel Ja al otro lado de la grieta?
+TEXT_KINGEA302_05480_LANDSGUARD05479_000_102	Bien. Nosotros ahuyentamos a los últimos ecos de este lado, en gran parte gracias a Bakool Ja Ja.
+TEXT_KINGEA302_05480_LANDSGUARD05479_000_103	Pero hace poco perdimos el contacto con uno de nuestros exploradores, justo después de que informara haber visto a Sareel Ja en algún lugar cerca de Gok Draak Descent...
+TEXT_KINGEA302_05480_LANDSGUARD05479_000_104	Bakool Ja Ja va para allá ahora, pero nos quedaríamos más tranquilos si usted lo acompañara.
+TEXT_KINGEA302_05480_PRISHE_000_105	¡Claro!
+TEXT_KINGEA302_05480_ALXAAL_000_106	Parece que no está lejos del portal a Jeuno. ¡Apurémonos!
+TEXT_KINGEA302_05480_LANDSGUARD05479_000_110	Si Sareel Ja va hacia Gok Draak Descent, es lógico pensar que haya entrado en el Skydeep Cenote. Temo por los guardias apostados allí.
+TEXT_KINGEA302_05480_ALXAAL_000_115	¿De verdad piensa invocar más ecos?
+TEXT_KINGEA302_05480_PRISHE_000_120	¿Qué estará tramando ahora?
+TEXT_KINGEA302_05480_LANDSGUARD05480_000_200	Sareel Ja... Nos tomó por sorpresa... Intentamos resistir, pero se abrió paso a la fuerza hasta el Skydeep Cenote.
+TEXT_KINGEA302_05480_LANDSGUARD05480_000_201	Bakool Ja Ja llegó hace apenas un momento, y salió a perseguirlo en cuanto le dimos el informe. Espero que pueda con esa serpiente escurridiza...
+TEXT_KINGEA302_05480_PRISHE_000_202	¡Si alguien va a estar bien, es él!
+TEXT_KINGEA302_05480_ALXAAL_100_202	Dicho eso, Sareel Ja no es de los que se rinden sin pelear. No tenemos un momento que perder.
+TEXT_KINGEA302_05480_SAREELJA_000_204	Quizá debería ir al Mist Continent. No... Ahí les resultaría demasiado fácil rastrearme.
+TEXT_KINGEA302_05480_SAREELJA_000_205	No me queda otra opción que volver a la grieta.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_206	(-Bakool Ja Ja the Mighty-)¡Se acabó, Sareel Ja! ¡Por la autoridad de la Landsguard, quedas bajo arresto!
+TEXT_KINGEA302_05480_SAREELJA_000_207	¡Ya me alcanzaron! Tengo que dejar de lado mi orgullo, aunque sea por un momento...
+TEXT_KINGEA302_05480_SAREELJA_000_208	Le ruego que espere... mi rey.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_209	(-Bakool Ja Ja the Mighty-)¿Tu rey...?
+TEXT_KINGEA302_05480_SAREELJA_000_210	Si Tuliyollal ha de volver a su antigua gloria, los Mamool Ja necesitan un líder digno que los una. Y no queda nadie más digno que usted, el elegido elevado.
+TEXT_KINGEA302_05480_SAREELJA_000_211	De hecho, no tengo dudas de que su padre también anhela verlo ocupar el lugar que le corresponde en el trono. Así que venga, Bakool Ja Ja. Venga conmigo a-
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_212	(-Bakool Ja Ja the Mighty-)¡Así que tientas al perrito faldero no con un hueso, sino con una corona! No esperaba que tu bravuconería se desmoronara tan fácil, Sareel Ja.
+TEXT_KINGEA302_05480_SAREELJA_000_213	(Grrr... No te vas a regodear por mucho tiempo...)
+TEXT_KINGEA302_05480_SAREELJA_000_214	¡Ah! ¡Q-Qué oportuno, ustedes tres! Por favor, ¿no convencerían a nuestro querido Bakool Ja Ja de bajar el arma?
+TEXT_KINGEA302_05480_PRISHE_000_215	Después de todo lo que hiciste para mancillar los recuerdos de nuestro hogar con tus fines retorcidos, ¿esperas que <italic(1)>nosotros<italic(0)> te ayudemos a <italic(1)>ti<italic(0)>?
+TEXT_KINGEA302_05480_SAREELJA_000_216	Yo, eh... ¡Quiero enmendarme! Sí, ¡enmendar mis faltas!
+TEXT_KINGEA302_05480_SAREELJA_000_217	La maldijeron de niña para que nunca envejeciera, ¿no es así? Hecha de recuerdos como está, sería muy sencillo devolverle el paso del tiempo.
+TEXT_KINGEA302_05480_PRISHE_000_218	Estoy bien así como soy, muchas gracias. Y como admites que hiciste mal, deberíamos hablar del castigo. ¿Quizá una o dos trompadas?
+TEXT_KINGEA302_05480_SAREELJA_000_219	¡P-P-Puedo devolverlos a casa, a Vana'diel! Perecer en un mundo con el que no tienen ningún lazo no es digno de aventureros de su talla, ¿no les parece? ¡Permítanme enviarlos de vuelta adonde pertenecen!
+TEXT_KINGEA302_05480_PRISHE_000_220	No voy a negar que extraño nuestro hogar... Pero también tengo ganas de ver a nuestro amigo aquí llevarte ante la justicia.
+TEXT_KINGEA302_05480_SAREELJA_000_221	Sin mí van a quedar varados... ¿De verdad renunciarían a su único medio de volver a casa por este bruto que acaban de conocer?
+TEXT_KINGEA302_05480_ALXAAL_000_222	No importa cuándo nos conocimos, ni si piensa devolver la amabilidad que le mostremos.
+TEXT_KINGEA302_05480_PRISHE_000_223	Es nuestro amigo. No necesitamos otra razón.
+TEXT_KINGEA302_05480_SAREELJA_000_224	¡Necios! ¡Todos ustedes!
+TEXT_KINGEA302_05480_SAREELJA_100_224	¡Esa ingenuidad infantil es la razón por la que nunca podrías ser rey!
+TEXT_KINGEA302_05480_SAREELJA_110_224	¡Y por la que inevitablemente vas a caer en las manos de la reina de Alexandria!
+TEXT_KINGEA302_05480_SAREELJA_120_224	Confiar es la forma de convertirse en una herramienta, usada y descartada como basura. ¡Pero yo no voy a volver a ser una herramienta!
+TEXT_KINGEA302_05480_SAREELJA_000_225	Si quieren unir su suerte a la de esa otra escoria, ¡será un placer marcar este lugar como su tumba!
+TEXT_KINGEA302_05480_SAREELJA_000_226	¡Van a morir aquí, llorando por el mundo que nunca volverán a ver!
+TEXT_KINGEA302_05480_SAREELJA_000_227	Ustedes... Tienen fuerza suficiente para valerse solos. Entonces, ¿por qué...?
+TEXT_KINGEA302_05480_Q1_000_000	¿Qué vas a decir?
+TEXT_KINGEA302_05480_A1_000_003	A veces la fuerza sola no alcanza.
+TEXT_KINGEA302_05480_A1_000_001	Así es más divertido.
+TEXT_KINGEA302_05480_A1_000_002	¿De qué sirve la alegría si no hay con quién compartirla?
+TEXT_KINGEA302_05480_PRISHE_000_229	La pasamos bastante bien juntos, ¿no? ¡No lo cambiaría por nada!
+TEXT_KINGEA302_05480_ALXAAL_000_230	Se me ocurren pocos placeres en la vida mayores que una victoria compartida después de una prueba durísima contra enemigos poderosos. Alegría compartida, alegría doble, como dicen.
+TEXT_KINGEA302_05480_ALXAAL_000_231	Ante un enemigo terrible, o ante el peso aplastante de una misión que parece imposible, un amigo puede marcar toda la diferencia para superar las dificultades.
+TEXT_KINGEA302_05480_SAREELJA_000_232	Nunca voy a entender semejante locura...
+TEXT_KINGEA302_05480_PRISHE_000_233	Vive lo suficiente, y quizá encuentres a alguien que derrita ese corazón helado que tienes. <italic(1)>Después<italic(0)> de pagar por tus crímenes, claro.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_234	(-Bakool Ja Ja the Mighty-)Gracias, pero... ¿qué van a hacer ahora?
+TEXT_KINGEA302_05480_PRISHE_000_235	¿Qué, lo de volver a casa? Está bien, de verdad. Este lugar me terminó gustando.
+TEXT_KINGEA302_05480_SHANTOTTO_000_236	(-???-)Ay, mi querida Prishe. ¿De verdad su deseo es quedarse en este mundo?
+TEXT_KINGEA302_05480_ALXAAL_000_237	¡¿Shantotto?! Pero ¿cómo?
+TEXT_KINGEA302_05480_SHANTOTTO_000_238	¿Podríamos dejar las cortesías para un lugar más... sereno? Ya me cansé de la decoración tan poco agraciada de este lugar.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_239	(-Bakool Ja Ja the Mystic-)¿Supongo que es una aliada, entonces...? Muy bien, volvamos a Mamook.
+TEXT_KINGEA302_05480_ALXAAL_000_245	Si la muñeca contra la que peleamos antes no era un eco, entonces... No, no puede ser.
+TEXT_KINGEA302_05480_PRISHE_000_250	Puede que Sareel Ja se haya superado con este eco. No veo a la verdadera Shantotto desde que nos conocimos en Windurst.
+TEXT_KINGEA302_05480_SHANTOTTO_000_300	Estos Mamool Ja no me mostraron hostilidad. Qué novedad: hombres bestia versados en urbanidad.
+TEXT_KINGEA302_05480_SHANTOTTO_000_301	Pero ¿dónde está el que nos escoltó hasta aquí? ¿Es raro que aparezcan los de su calaña de dos cabezas?
+TEXT_KINGEA302_05480_ALXAAL_000_302	Como jefe de su guardia, simplemente fue a informarles de lo que pasó en el Skydeep Cenote. Más importante, Shantotto, quería preguntarle-
+TEXT_KINGEA302_05480_SHANTOTTO_000_303	¡Silencio! Oigo el chirrido ensordecedor de sus engranajes pensando. Pero no se aflija: la explicación que anhela ya se la estoy dando.
+TEXT_KINGEA302_05480_SHANTOTTO_000_304	Para empezar, como seguro ya sabe, vengo de Vana'diel. La única e incomparable Shantotto.
+TEXT_KINGEA302_05480_SHANTOTTO_000_305	Y fueron ustedes dos quienes vencieron a este muñeco mágico. Un espectáculo bastante gracioso e inesperado: verme a mí misma caer.
+TEXT_KINGEA302_05480_ALXAAL_000_306	Me pareció extraño que un eco nos enfrentara con un señuelo...
+TEXT_KINGEA302_05480_SHANTOTTO_000_307	Eco... Un nombre interesante para las criaturas que derrotamos, que, como usted, también nacieron de recuerdos de nuestro hogar.
+TEXT_KINGEA302_05480_SHANTOTTO_000_308	Una verdad que cualquiera con ojos puede ver. Bien hechos, como mis muñecos, pero ninguno es auténtico como yo, se los puedo prometer.
+TEXT_KINGEA302_05480_PRISHE_000_309	¡Así que de verdad <italic(1)>eres<italic(0)> tú, Doc!
+TEXT_KINGEA302_05480_PRISHE_100_309	O más bien, un muñeco creado por la verdadera tú, que ahora habla... ¿a través de ti? Esto es un poco confuso.
+TEXT_KINGEA302_05480_SHANTOTTO_000_310	¡¿Doc...?!
+TEXT_KINGEA302_05480_SHANTOTTO_000_311	¡Ejem! Aun aquí, me alegra ver que sigue igual que siempre, querida.
+TEXT_KINGEA302_05480_SHANTOTTO_000_312	Mi investigación entre mundos avanzaba sin contratiempo, cuando sentí una perturbación en ese espacio interplanar fuera del tiempo.
+TEXT_KINGEA302_05480_SHANTOTTO_000_313	Alguien me observaba. ¡Qué descaro! ¡Qué atrevimiento! Para terminar con su vi... eh... curiosidad, envié este muñeco mágico al momento.
+TEXT_KINGEA302_05480_SHANTOTTO_000_314	Encontrar aquí tanto Jeuno como Windurst fue toda una sorpresa. No una, sino <italic(1)>dos<italic(0)> réplicas fieles: ¡vaya proeza!
+TEXT_KINGEA302_05480_SHANTOTTO_100_314	También había una Bastok a medio hacer, una chapuza de lo peor. El eco de cierto ingeniero la habría construido con más fervor. Como él no estaba, no sentí culpa alguna al echarla abajo sin temor.
+TEXT_KINGEA302_05480_ALXAAL_000_315	Y poco después la encontramos acosada por más de esas criaturas extrañas. No es que fueran a ser más que una minucia para usted, claro.
+TEXT_KINGEA302_05480_SHANTOTTO_000_316	En el primer instante en que nos vimos, supe enseguida que no eran ninguna amenaza para mí. Y sin embargo...
+TEXT_KINGEA302_05480_SHANTOTTO_000_317	La emoción de una buena pelea me llena de tanta alegría, ¡que no pude resistir prenderles fuego a los dos ese día! ¡Ojojojo!
+TEXT_KINGEA302_05480_ALXAAL_000_318	Como se habrán imaginado, Shantotto suele dejarse llevar un poco... cuando le da por ahí.
+TEXT_KINGEA302_05480_ALXAAL_000_319	En todo caso, le alegrará saber que Sareel Ja, el demonio responsable de aprovecharse de los recuerdos de Vana'diel, fue capturado. Ya no tiene por qué preocuparse por más miradas indiscretas en medio de su trabajo.
+TEXT_KINGEA302_05480_SHANTOTTO_000_320	Si el problema ya pasó, mi trabajo aquí terminó. Este muñeco volvería a casa, pero ¿y ustedes dos?
+TEXT_KINGEA302_05480_SHANTOTTO_100_320	Sus dos núcleos de rayo parecen dañados, así que es difícil decir cuánto más van a durar.
+TEXT_KINGEA302_05480_PRISHE_110_320	¿Los núcleos de los dos?
+TEXT_KINGEA302_05480_ALXAAL_120_320	Parece que nuestra batalla con Shinryu nos pasó una factura muy alta.
+TEXT_KINGEA302_05480_SHANTOTTO_000_321	Si quieren venir conmigo, no tienen más que pedirlo. Garantizarles un pasaje seguro es tan fácil que ni vale la pena decirlo.
+TEXT_KINGEA302_05480_PRISHE_000_322	（★未使用／削除予定★）
+TEXT_KINGEA302_05480_SHANTOTTO_000_323	（★未使用／削除予定★）
+TEXT_KINGEA302_05480_PRISHE_000_324	Te agradezco la oferta, pero creo que prefiero quedarme. Todavía me quedan muchas aventuras por vivir con <split(<string(gstr1)>, ,1)>.
+TEXT_KINGEA302_05480_ALXAAL_100_324	Yo también me quedaría. No voy a negar que es una decisión que tomo con cierta pena, pero si me queda poco tiempo, quisiera pasarlo aquí, de aventura con mis amigos.
+TEXT_KINGEA302_05480_PRISHE_000_325	（★未使用／削除予定★）
+TEXT_KINGEA302_05480_Q8_000_000	¿Qué vas a decir?
+TEXT_KINGEA302_05480_A8_000_001	Si no les molesta esperar, nuestra aventura no tiene por qué ser aquí.
+TEXT_KINGEA302_05480_A8_000_002	Prefiero que me muestren Vana'diel.
+TEXT_KINGEA302_05480_ALXAAL_100_325	¿Quieres decir que vas a buscar la forma de ir a Vana'diel?
+TEXT_KINGEA302_05480_PRISHE_110_325	¿Una aventura en Vana'diel? ¿Hablas en serio?
+TEXT_KINGEA302_05480_PRISHE_120_325	Es una idea maravillosa, pero ¿cómo rayos piensas llegar hasta allá?
+TEXT_KINGEA302_05480_PRISHE_130_325	Supongo que no debería dudar de que encontrarás la forma.
+TEXT_KINGEA302_05480_ALXAAL_140_325	Entonces está decidido: ¡guardamos nuestras aventuras para Vana'diel!
+TEXT_KINGEA302_05480_ALXAAL_150_325	Con suerte, para cuando llegues ya habremos encontrado una solución a nuestro problema con el electrope.
+TEXT_KINGEA302_05480_PRISHE_100_329	Pero antes de irnos, ¿podríamos ver aunque sea un poquito más de Tuliyollal?
+TEXT_KINGEA302_05480_PRISHE_000_330	Lo justo es que nos despidamos, y además todavía tengo mucho con lo que molestarte.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_331	(-Bakool Ja Ja the Mighty-)¿Oí bien? ¿Quieren dar una vuelta por Tuliyollal? En ese caso, hay al menos un lugar al que me gustaría llevarlos en el camino.
+TEXT_KINGEA302_05480_SHANTOTTO_000_332	Notar los contrastes con Vana'diel fue un verdadero deleite, así que yo también voy, y no hay discusión que lo evite, querido.
+TEXT_KINGEA302_05480_BAKOOLJAJA_100_332	(-Bakool Ja Ja the Mystic-)Mejor así. Algo me dice que me arrepentiría de dejarla sola...
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_333	(-Bakool Ja Ja the Mighty-)Supongo que el aterrizaje de dirigibles es tan buen lugar como cualquier otro para empezar. Cuando estés list<if(gnum4,a,o)>, nos vemos allí.
+TEXT_KINGEA302_05480_ALXAAL_000_335	Tu propuesta de visitar Vana'diel fue sorprendente, y a la vez muy tuya. Buscar una forma de viajar entre mundos suena como una aventura en sí misma.
+TEXT_KINGEA302_05480_PRISHE_000_340	Qué lindo sería comer un último taco antes de irnos.
+TEXT_KINGEA302_05480_SHANTOTTO_000_345	Aquí también tienen tribus parecidas a los Moblins y a los Trolls. ¿Qué otras razas afines viven aquí, si se puede saber?
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_400	(-Bakool Ja Ja the Mighty-)Espero que no hayan esperado mucho.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_401	(-Bakool Ja Ja the Mighty-)Antes de que me ocupe de mis asuntos, seguro que hay algunos lugares en particular que quieren visitar antes de volver a casa.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_402	(-Bakool Ja Ja the Mystic-)Mientras tú acompañas a Alxaal y a Prishe, yo le muestro la ciudad a Shantotto.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_403	(-Bakool Ja Ja the Mystic-)Cuando todos hayan terminado, nos reunimos en Xbalyav Ty'e.
+TEXT_KINGEA302_05480_ALXAAL_000_404	Si no lo conociera, diría que Bakool Ja Ja se volvió un poco más hospitalario desde que nos conocimos. ¿Empezamos con una visita a la Landsguard?
+TEXT_KINGEA302_05480_PRISHE_000_405	Nos ayudaron bastante, ¿no? Muy bien, vamos al Brightploom Post. Como es la última vez, me gustaría disfrutar un poco de las vistas en el camino, si no te molesta.
+TEXT_KINGEA302_05480_SYSTEM_000_500	Tus acompañantes todavía no llegaron. Asegúrate de que estén a tu lado antes de continuar.
+TEXT_KINGEA302_05480_SYSTEM_100_500	Para avanzar con los objetivos de la misión, Prishe y Alxaal tienen que acompañarte y estar a tu lado.
+TEXT_KINGEA302_05480_Q2_000_000	¿Qué vas a hacer?
+TEXT_KINGEA302_05480_A2_000_001	Charlar.
+TEXT_KINGEA302_05480_A2_000_002	Separarse.
+TEXT_KINGEA302_05480_A2_000_003	Nada.
+TEXT_KINGEA302_05480_A2_000_004	<colortype(548)>Hablar de sus recuerdos de Bayside Bevy.<colortype(0)>
+TEXT_KINGEA302_05480_A2_000_005	<colortype(548)>Hablar de sus recuerdos de Yok Tural.<colortype(0)>
+TEXT_KINGEA302_05480_A2_000_006	<colortype(548)>Hablar de sus recuerdos de Xak Tural.<colortype(0)>
+TEXT_KINGEA302_05480_PRISHE_000_502	Qué lugar maravilloso es Tuliyollal...
+TEXT_KINGEA302_05480_ALXAAL_000_503	Aunque estemos a mundos de distancia, nunca voy a olvidar nuestra aventura.
+TEXT_KINGEA302_05480_Q6_000_000	¿Seguro que quieres separarte de Prishe y Alxaal?
+TEXT_KINGEA302_05480_PRISHE_000_505	¿Te llama la aventura? Te entiendo. Te esperamos en el aterrizaje de dirigibles.
+TEXT_KINGEA302_05480_ALXAAL_000_506	Lejos de nosotros apartarte del deber cuando te llama. Te esperamos en el aterrizaje de dirigibles.
+TEXT_KINGEA302_05480_PRISHE_000_507	¿List<if(gnum4,a,o)>? ¡Entonces, al Brightploom Post!
+TEXT_KINGEA302_05480_ALXAAL_000_508	Me alegra verte de vuelta <if(gnum4,sana y salva,sano y salvo)>. ¿Vamos al Brightploom Post?
+TEXT_KINGEA302_05480_PRISHE_000_509	Ver los productos frescos de ese puesto me hace acordar de toda la comida increíble que probamos aquí en Tural.
+TEXT_KINGEA302_05480_PRISHE_000_510	Bistecs de alpaca, xibruq pibil. \<jadeo> ¡Las galletas de té de mate! Ugh, ¡lo que daría por más galletas! Y los alejandrinos tampoco se quedaban atrás con la cocina, aunque no me esperaba la carne cultivada.
+TEXT_KINGEA302_05480_PRISHE_000_511	\<suspiro> Tantas comidas ricas que no tuve tiempo de probar. Tantos postres...
+TEXT_KINGEA302_05480_ALXAAL_000_512	Siento que les debo mucho a los mercaderes de este mercado, y a los suministros que me dieron para nuestras aventuras.
+TEXT_KINGEA302_05480_ALXAAL_000_513	Nunca se está demasiado preparado, aunque Prishe quizá no estaría de acuerdo, con esa cara mitad impresionada y mitad preocupada con la que mira mi bolsa repleta de pociones.
+TEXT_KINGEA302_05480_ALXAAL_000_514	Las viejas costumbres no se pierden fácilmente, supongo.
+TEXT_KINGEA302_05480_PRISHE_000_515	Los Pelupelu de Urqopacha tienen una forma muy curiosa de hablar del dinero, ¿no? Me dan ganas de ir a visitarlos solo para oírlos regatear.
+TEXT_KINGEA302_05480_PRISHE_000_516	Además, todos parecen vendedores muy astutos. Siempre encontraban justo lo que buscaba antes de que se lo pidiera. Unos malditos lectores de mentes, te lo digo yo.
+TEXT_KINGEA302_05480_ALXAAL_000_517	Cuando estuvimos en Kozama'uka, los Moblins me hablaron de los jurapotes y de sus costumbres para crear un entorno en el que se trabaja el mejor oro y el mejor metal de Tural.
+TEXT_KINGEA302_05480_ALXAAL_000_518	Pueblos tan distintos trabajando juntos de esa manera es algo que nunca se vería en nuestro mundo. Quizá sea lo que más voy a extrañar cuando volvamos a casa.
+TEXT_KINGEA302_05480_PRISHE_000_519	El otro día hablé con alguien en las afueras que dudaba si volver a casa, a Tuliyollal, con eso de la brecha de treinta años y todo.
+TEXT_KINGEA302_05480_PRISHE_000_520	Yo sé lo que es perder tiempo... Por eso le dije que hiciera ese viaje mientras todavía pudiera.
+TEXT_KINGEA302_05480_PRISHE_000_521	Aunque haya gente que perdió en esos treinta años, todavía podría haber gente aquí esperándolo. Me pregunto si ya habrá llegado.
+TEXT_KINGEA302_05480_ALXAAL_000_522	Ah, antes de que me olvide, quería preguntarte por esos bagres que hablan. ¿También se los considera una de las tribus de aquí?
+TEXT_KINGEA302_05480_ALXAAL_000_523	Cada vez que los veo, me dan ganas instintivas de protegerlos a ellos y a sus caritas adorables.
+TEXT_KINGEA302_05480_ALXAAL_000_524	Si no fueran tan violentos, me tentaría muchísimo llevarme uno a casa.
+TEXT_KINGEA302_05480_LANDSGUARD05326_000_525	¡Ah, bienvenidos de vuelta! En nombre de la Landsguard, les damos nuestro más sincero agradecimiento.
+TEXT_KINGEA302_05480_LANDSGUARD05326_000_526	Como seguramente ya saben, Sareel Ja está en una de nuestras celdas, a la espera de que el Wing of Reflection dicte su sentencia.
+TEXT_KINGEA302_05480_LANDSGUARD05326_000_527	Hubo un tiempo en que sus crímenes contra Tural y contra el trono le habrían costado la vida sin duda. Dicho eso, creo que la redención no es imposible: Bakool Ja Ja lo demostró. Aunque también está el asunto de las vidas que se perdieron por culpa de Sareel Ja...
+TEXT_KINGEA302_05480_LANDSGUARD05326_000_528	Pero ya no tienen por qué preocuparse por esos asuntos. ¿Supongo que pronto van a partir hacia algún lado?
+TEXT_KINGEA302_05480_PRISHE_000_529	Así es, la verdad. A casa... Nos pareció justo venir a despedirnos. ¿Podrías también darle las gracias de nuestra parte a Kikwezana?
+TEXT_KINGEA302_05480_LANDSGUARD05326_000_530	Sí, claro. No tengo dudas de que le va a dar pena verlos partir, igual que al resto de la Landsguard. Que tengan los dos un buen viaje.
+TEXT_KINGEA302_05480_ALXAAL_000_531	Si no tenemos que parar en ningún otro lado, vamos a Xbalyav Ty'e.
+TEXT_KINGEA302_05480_LANDSGUARD05326_000_535	Gracias otra vez por toda su ayuda con Sareel Ja y los ecos. Buen viaje, amig<if(gnum4,a,o)>. Espero que volvamos a vernos algún día.
+TEXT_KINGEA302_05480_PRISHE_000_590	¡Ahí estás! Vamos. Bakool Ja Ja dijo que nos esperaba en Xbalyav Ty'e, ¿no?
+TEXT_KINGEA302_05480_ALXAAL_000_591	Me alegra que hayas vuelto sin problemas. Ahora que nos despedimos de la Landsguard, ¿vamos a Xbalyav Ty'e?
+TEXT_KINGEA302_05480_ALXAAL_000_592	Bueno, aquí estamos, aunque no veo ni rastro de Bakool Ja Ja. Quizá el tabernero lo haya visto.
+TEXT_KINGEA302_05480_BRUKEVU_000_600	Hoy vienen con compañía pintoresca, por lo que veo. ¿Son solo ustedes tres?
+TEXT_KINGEA302_05480_PRISHE_000_601	En realidad, esperamos a dos más.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_602	(-Bakool Ja Ja the Mystic-)Perdón por la espera. Responder todas sus preguntas me llevó más tiempo del que esperaba...
+TEXT_KINGEA302_05480_SHANTOTTO_000_603	Y las respondió sin dudar ni un instante. Los Mamool Ja de este mundo superaron mis expectativas, que eran bajas, lo admito, pero esto fue bastante.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_604	(-Bakool Ja Ja the Mighty-)Antes de que se vayan, quería invitarlos a una última ronda de tacos. Busquemos dónde sentarnos.
+TEXT_KINGEA302_05480_PRISHE_000_605	¿No vas a comer? ¡Te juro que los tacos de Tuliyollal te cambian la vida!
+TEXT_KINGEA302_05480_SHANTOTTO_000_606	Le agradezco el ofrecimiento, pero este muñeco solo con magia se queda satisfecho.
+TEXT_KINGEA302_05480_PRISHE_100_606	¡Vaya! ¡Estos tacos son tan increíbles como los de Aunt Tii!
+TEXT_KINGEA302_05480_BRUKEVU_000_607	Si me permiten un momento, todos. Hoy queremos ofrecerles algo especial: un regalo para los oídos.
+TEXT_KINGEA302_05480_BRUKEVU_000_608	¡Una actuación especial de Scoria, la cantante prometedora que viene de Alexandria!
+TEXT_KINGEA302_05480_JASPER_000_609	Vaya, vaya, ¿quién iba a decir que nos volveríamos a encontrar justo aquí?
+TEXT_KINGEA302_05480_JASPER_000_610	Practica todos los días desde que se fueron, decidida a cumplir su sueño de ser cantante.
+TEXT_KINGEA302_05480_JASPER_000_611	Imagínense nuestra sorpresa cuando Br'uk Evu se nos acercó para preguntarnos si podía dar actuaciones en su local.
+TEXT_KINGEA302_05480_SCORIA_000_612	¡Prishe! ¿Y, qué te pareció? ¡Por fin lo estoy haciendo: unir Tuliyollal y Alexandria a través de la música!
+TEXT_KINGEA302_05480_PRISHE_000_613	Absolutamente increíble. Me alegra haber podido oírte cantar antes de irme.
+TEXT_KINGEA302_05480_SCORIA_000_614	¿Irte...? ¿Eso quiere decir que por fin vuelves a tu casa?
+TEXT_KINGEA302_05480_SCORIA_000_615	¡En ese caso, algún día voy a tener que ir a cantar allá! ¡Voy a ser la mejor cantante que hayan visto!
+TEXT_KINGEA302_05480_PRISHE_000_616	No tengo dudas. ¡Lo espero con ganas!
+TEXT_KINGEA302_05480_ALXAAL_000_625	Desconocidos que acaban de conocerse y forjan lazos para toda la vida. ¿No es eso lo que significa ser aventurero?
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_630	(-Bakool Ja Ja the Mystic-)Una voz tan hermosa seguro que va a tener éxito aquí en Tuliyollal. Ojalá también visite Mamook. A mi madre le encantaría oírla cantar.
+TEXT_KINGEA302_05480_SHANTOTTO_000_635	Algo en él me da una sensación de déjà vu. Sentí un poder parecido, pero ¿de quién? ¿De quién fue?
+TEXT_KINGEA302_05480_SHANTOTTO_000_640	¿De ese aventurero que siempre anda por ahí metiéndose en todo? Seguro que más tarde tendré tiempo de averiguarlo todo.
+TEXT_KINGEA302_05480_PRISHE_000_700	Tacos que hacen agua la boca y una serenata inolvidable de Scoria. ¿Qué más podría pedir?
+TEXT_KINGEA302_05480_PRISHE_000_701	Tiempo, supongo. Pero no tiene sentido intentar retrasar lo inevitable.
+TEXT_KINGEA302_05480_PRISHE_000_702	¡Muy bien! ¡Estamos listos para irnos!
+TEXT_KINGEA302_05480_SHANTOTTO_000_703	Entonces vamos a Jeuno sin tardar. Allí la conexión con casa es más fuerte, y nos ayudará a llegar.
+TEXT_KINGEA302_05480_SHANTOTTO_000_704	¿Vendrá a despedirnos, o piensa quedarse aquí sin más?
+TEXT_KINGEA302_05480_Q5_000_000	¿Acompañar a Prishe y los demás a Jeuno?
+TEXT_KINGEA302_05480_PRISHE_000_710	Les dije a los otros ecos de aquí que pueden volver a Vana'diel, pero todos eligieron quedarse.
+TEXT_KINGEA302_05480_PRISHE_000_711	Dijeron que si de todos modos están destinados a desaparecer, prefieren buscar nuevas aventuras aquí.
+TEXT_KINGEA302_05480_PRISHE_000_712	Los aventureros son una gente de lo más loca, ¿no?
+TEXT_KINGEA302_05480_ALXAAL_000_720	A pesar de todas nuestras pruebas y penurias, no cambiaría mis recuerdos de este lugar por nada del mundo.
+TEXT_KINGEA302_05480_ALXAAL_000_721	Por todo lo que hiciste por nosotros, gracias.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_730	(-Bakool Ja Ja the Mystic-)A mi hermano todavía le cuesta creer que esta Shantotto pueda llevarlos a casa, pero yo sé que puede. El poder que emana ese muñeco es palpable. Quien sea que lo controla es una maga del más alto nivel.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_731	(-Bakool Ja Ja the Mystic-)¿Crees que la mayoría de la gente de su mundo es así de absurdamente poderosa?
+TEXT_KINGEA302_05480_SHANTOTTO_000_800	Si no hay más motivo para demorarnos, trazaré el rumbo a casa y les mostraré el camino sin rodeos.
+TEXT_KINGEA302_05480_SHANTOTTO_000_801	Concéntrense en su hogar, guarden su imagen en la mente. Búsquenlo con todo el corazón, y el camino entre mundos responderá igualmente.
+TEXT_KINGEA302_05480_SHANTOTTO_000_802	¡Ojojojo! Bien hecho, me dejaron impresionada. Alumnos dignos de mérito, y no lo digo en broma, para nada.
+TEXT_KINGEA302_05480_SHANTOTTO_000_803	Lo confieso, tiene potencial: no es pura fanfarronería. Sin duda mejor que lo que cierto <italic(1)>perdedor total<italic(0)> lograría.
+TEXT_KINGEA302_05480_SHANTOTTO_000_804	Muy bien. Hasta que nos volvamos a ver.
+TEXT_KINGEA302_05480_PRISHE_000_805	Supongo que nos excedimos un poco con Shinryu.
+TEXT_KINGEA302_05480_PRISHE_000_806	La pasamos muy bien aquí, ¿no? Y conocimos a tanta gente interesante.
+TEXT_KINGEA302_05480_PRISHE_000_807	Voy a atesorar estos recuerdos de Tural todos mis días, sean cuantos sean.
+TEXT_KINGEA302_05480_PRISHE_000_808	Y espero verte algún día en Vana'diel, ¿me oíste? Ese mundo enorme nuestro siempre va a estar esperando.
+TEXT_KINGEA302_05480_PRISHE_000_809	Esperándote.
+TEXT_KINGEA302_05480_ALXAAL_000_810	Es raro pensar que pronto voy a vivir junto a esos mismos aventureros cuyos recuerdos me crearon.
+TEXT_KINGEA302_05480_ALXAAL_000_811	Más raro todavía que tú también puedas cruzarte con ellos algún día.
+TEXT_KINGEA302_05480_ALXAAL_000_812	Si ese día llega, espero que les muestres la misma amabilidad que me mostraste a mí.
+TEXT_KINGEA302_05480_ALXAAL_000_813	E invítalos a una aventura, para crear nuevos recuerdos que sean solo suyos.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_814	(-Bakool Ja Ja the Mighty-)Odio interrumpir, pero no creo que sea sensato desperdiciar más del poco tiempo que les queda.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_815	(-Bakool Ja Ja the Mighty-)Pero... deberían volver a comer tacos alguna vez. Ahora somos camaradas, después de todo.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_816	(-Bakool Ja Ja the Mystic-)Y de esos nunca tuvimos muchos, ¿eh, hermano?
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_817	(-Bakool Ja Ja the Mystic-)Cuídense, ustedes dos. Y buen viaje.
+TEXT_KINGEA302_05480_PRISHE_000_818	Hasta la próxima, Bakool Ja Ja. <split(<string(gstr1)>, ,1)>.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_900	(-Bakool Ja Ja the Mighty-)De repente se siente todo tan silencioso...
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_901	(-Bakool Ja Ja the Mystic-)Sécate las lágrimas, hermano. Todavía me tienes a mí.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_902	(-Bakool Ja Ja the Mighty-)¡¿Qué lágrimas?! ¡De los dos, el fuerte soy <italic(1)>yo<italic(0)>! ...\<sollozo>
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_903	(-Bakool Ja Ja the Mystic-)Deberíamos volver a Mamook. Seguro que madre tiene curiosidad por saber qué fue de Alxaal y Prishe.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_905	(-Bakool Ja Ja the Mighty-)Es que se me metió algo en el ojo...
+TEXT_KINGEA302_05480_MIILALJA_000_950	Ah, volviste, <split(<string(gstr1)>, ,1)>. Pero ¿dónde están Alxaal y Prishe? ¿Ya...?
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_951	(-Bakool Ja Ja the Mighty-)Sí, madre. Volvieron a casa.
+TEXT_KINGEA302_05480_MIILALJA_000_952	Una despedida agridulce, seguro. Los que consideras amigos son pocos y contados.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_953	(-Bakool Ja Ja the Mighty-)¡Yo no dije que fueran "amigos"!
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_954	(-Bakool Ja Ja the Mighty-)Son... son camaradas. Prishe, Alxaal y <split(<string(gstr1)>, ,1)>. Nada de lo que nadie diga va a cambiar eso.
+TEXT_KINGEA302_05480_ZEREELJA_000_955	Sería una falta de mi parte no agradecerte también antes de que te vayas. Me estremece pensar qué habría sido no solo de Mamook, sino de toda Tuliyollal, si no hubieras venido en nuestra ayuda.
+TEXT_KINGEA302_05480_ZEREELJA_000_956	Amenazados nada menos que por nuestra propia magia ritual. Nunca habríamos imaginado que se combinaría con el electrope para fines tan viles. Por eso, de ahora en adelante, las técnicas para conjurar sombras quedarán prohibidas, y nunca se transmitirán a las generaciones futuras.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_957	(-Bakool Ja Ja the Mighty-)Nosotros podríamos haber seguido un camino parecido si no fuera por ti y por Wuk Lamat.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_958	(-Bakool Ja Ja the Mystic-)Cometimos muchos errores durante el rito de sucesión. Lastimamos a mucha gente... Pese a todo lo que hicimos, nos dieron una segunda oportunidad, y mientras haya quienes crean en nosotros, vamos a seguir intentando estar a la altura de lo que esperan.
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_959	(-Bakool Ja Ja the Mighty-)Ya encontramos el camino correcto, y no nos vamos a volver a desviar. Nos negamos a ser una carga para nuestros camaradas...
+TEXT_KINGEA302_05480_ZEREELJA_000_960	Bakool Ja Ja...
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_961	(-Bakool Ja Ja the Mighty-)No es tarde para que tú también encuentres el tuyo, padre. Si aprendí algo, es que la gente solo necesita la oportunidad de cambiar.
+TEXT_KINGEA302_05480_ZEREELJA_000_962	Quizá tengas razón, hijo. Quizá tengas razón...
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_963	(-Bakool Ja Ja the Mighty-)Si alguna vez vuelves a necesitar ayuda, no dudes en llamarme. ¡Tus enemigos van a lamentar el día en que conocieron a Bakool Ja Ja!
+TEXT_KINGEA302_05480_BAKOOLJAJA_000_964	(-Bakool Ja Ja the Mystic-)¿Quizá la violencia no debería ser nuestra primera solución? Podrías aprender un par de cosas de la Vow of Reason, hermano.
+TEXT_KINGEA302_05480_MIILALJA_000_965	¿Crees que Prishe y Alxaal llegaron bien a casa? Espero que algún día puedan volver a vernos.
+TEXT_KINGEA302_05480_Q3_000_000	¿Qué vas a decir?
+TEXT_KINGEA302_05480_A3_000_001	Quizá encuentre la forma de ir a visitarlos yo primero.
+TEXT_KINGEA302_05480_A3_000_002	Van a volver. Estoy segur<if(gnum4,a,o)>.
+TEXT_KINGEA302_05480_SYSTEM_000_967	Los recuerdos que habitan Jeuno se agitan una vez más. Quizá los aventureros de allí tengan algo nuevo que contarte.
+TEXT_KINGEA302_05480_PRISHE_000_970	¿Pasa algo?
+TEXT_KINGEA302_05480_ALXAAL_000_971	No es nada. Solo... pensaba en todo lo que vivimos.
+TEXT_KINGEA302_05480_PRISHE_100_971	Fue toda una aventura.
+TEXT_KINGEA302_05480_SYSTEM_110_971	Al comienzo de nuestro viaje, no tenía nada.
+TEXT_KINGEA302_05480_SYSTEM_120_971	Ni nombre. Ni recuerdos de quién era. Solo un vago sentido del deber que me guiaba.
+TEXT_KINGEA302_05480_SYSTEM_130_971	Con cada batalla encontramos el camino, y al final iba a recordar.
+TEXT_KINGEA302_05480_SYSTEM_140_971	Recordé qué era lo que luchaba por proteger.
+TEXT_KINGEA302_05480_SYSTEM_150_971	Algo más valioso que cualquier tesoro.
+TEXT_KINGEA302_05480_SYSTEM_160_971	Tú también luchas por protegerlo.<br>Por eso sé que nos volveremos a encontrar.
+TEXT_KINGEA302_05480_SYSTEM_170_971	Hasta ese día...
+TEXT_KINGEA302_05480_ALXAAL_000_972	Vamos. La aventura nos llama.

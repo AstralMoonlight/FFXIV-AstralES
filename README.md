@@ -106,7 +106,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | **Post Endwalker** | 6.1–6.58 | Historia principal, de "Newfound Adventure" a "The Coming Dawn" | ![Traducido][ok] |
 | **Dawntrail** | 7.0 | Historia principal, de "A New World to Explore" a "Dawntrail" | ![Traducido][ok] |
 | | | Raid de 8: Arcadion (Light-heavyweight, Cruiserweight, Heavyweight) | ![Traducido][ok] |
-| | | Raid de alianza (24): Echoes of Vana'diel | ![Pendiente][no] |
+| | | Raid de alianza (24): Echoes of Vana'diel | ![Traducido][ok] |
 | **Post Dawntrail** | 7.1–7.3 | Historia principal, de "A Royal Invitation" a "The Promise of Tomorrow" | ![Traducido][ok] |
 | | 7.4 | Historia principal, de "With the Winds" a "Windborne" | ![Traducido][ok] |
 

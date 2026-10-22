@@ -1,0 +1,163 @@
+key	text
+TEXT_KINGEA102_05234_SEQ_00	Prishe está casi seguramente probablemente segura de que estás en Jeuno.
+TEXT_KINGEA102_05234_SEQ_01	Prishe parece haber vuelto a la normalidad, pero no recuerda su pelea anterior contigo, ni quién la trajo a Jeuno en primer lugar. A falta de pistas sobre cómo y por qué llegaron allí, Prishe propone hablar con los pocos habitantes que deambulan por la ciudad.<br><br>※Si sales de Lower Jeuno, puedes volver a entrar por el portal de Gok Draak Descent.
+TEXT_KINGEA102_05234_SEQ_02	Con Prishe a tu lado, sales en busca de respuestas. Ella confía en que al menos un lugar, uno llamado el Tenshodo, resulte interesante.<br><br>※Para completar esta tarea, Prishe tiene que acompañarte. Habla con ella otra vez si se separan.
+TEXT_KINGEA102_05234_SEQ_03	Prishe y tú hablan con varios habitantes, pero, igual que ustedes, todos parecen desconcertados por lo que pasa en Jeuno. Sin otras pistas que seguir, deciden volver con Bakool Ja Ja.
+TEXT_KINGEA102_05234_SEQ_04	Vuelves con Bakool Ja Ja más segur<if(gnum4,a,o)> de que están en Jeuno, pero con poco más. Al rato llega por el portal el viajero con armadura, y se desanima al oír que Prishe no tiene idea de quién es él. Todavía le cuesta recordar su propio nombre, así que Bakool Ja Ja le ofrece uno: Alxaal. El grupo empieza a dar vueltas en círculos, y Bakool Ja Ja grita, exasperado. Para sorpresa de todos, quien responde a sus gritos es nada menos que Sareel Ja.<br><br>Afirma ser el creador de la ciudad y de sus habitantes, gracias al poder de los ecos de un lugar más allá del espacio y del tiempo. Su meta es crear un nuevo soberano para Tural, y quizá para el mundo entero, combinando la fuerza de entidades poderosas de otro mundo: Vana'diel. Sareel Ja se muestra muy confiado en su plan cuando se desvanece en el éter, con la promesa de volver cuando termine sus preparativos.
+TEXT_KINGEA102_05234_SEQ_05	Por fin tienes respuestas, pero no las que esperabas. Prishe, en especial, parece afectada por las revelaciones de Sareel Ja. La única pregunta urgente ahora es cuándo volverá Sareel Ja, y si estarás list<if(gnum4,a,o)> para él.
+TEXT_KINGEA102_05234_TODO_00	Habla con Prishe para que te acompañe.
+TEXT_KINGEA102_05234_TODO_01	Reúne información mientras Prishe te acompaña.
+TEXT_KINGEA102_05234_TODO_02	Habla con Bakool Ja Ja mientras Prishe te acompaña.
+TEXT_KINGEA102_05234_TODO_03	Habla con Bakool Ja Ja.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_001	(-Bakool Ja Ja the Mighty-)Ojalá esta muchacha pueda darnos algunas respuestas.
+TEXT_KINGEA102_05234_PRISHE_000_010	¿Cómo era que se llamaban?
+TEXT_KINGEA102_05234_PRISHE_000_011	<split(<string(gstr1)>, ,1)>. Y... Bakool Ja Ja, ¿no?
+TEXT_KINGEA102_05234_PRISHE_000_012	Pareces Hume. Y lo más importante, pareces del tipo aventurero.
+TEXT_KINGEA102_05234_PRISHE_000_013	Pareces Elvaan, como yo. Y lo más importante, pareces del tipo aventurero.
+TEXT_KINGEA102_05234_PRISHE_000_014	<if(gnum4,Una,Un)> Tarutaru. <italic(1)>Eres<italic(0)> Tarutaru, ¿no? Te imaginaba más... bajit<if(gnum4,a,o)>.
+TEXT_KINGEA102_05234_PRISHE_000_015	Pareces Mithra. Y lo más importante, pareces del tipo aventurero.
+TEXT_KINGEA102_05234_PRISHE_000_016	Un momento... ¡¿Un Mithra <italic(1)>macho<italic(0)>?! ¡Bueno, ahora sí que lo vi todo!
+TEXT_KINGEA102_05234_PRISHE_000_017	<italic(1)>Pareces<italic(0)> Galka, pero ¿y la cola? Seguro que te la cortaron en alguna aventura salvaje.
+TEXT_KINGEA102_05234_PRISHE_000_018	No sé de dónde vienes, pero seguro que me encantaría visitar el lugar. Nunca vi a nadie como tú.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_019	(-Bakool Ja Ja the Mighty-)Si ya terminaste con la charla, ¿te molestaría explicar por qué nos atacaste?
+TEXT_KINGEA102_05234_PRISHE_000_020	¿De qué rayos hablas?
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_021	(-Bakool Ja Ja the Mystic-)No te hagas la tonta. Decías disparates, que éramos "tauri", y casi matas a un hombre en tu arrebato.
+TEXT_KINGEA102_05234_PRISHE_000_022	Bueno, sí recuerdo que hace poco peleé contra unos tauri. Para proteger a Ulmia.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_023	(-Bakool Ja Ja the Mystic-)¿Ulmia...?
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_024	(-Bakool Ja Ja the Mystic-)¿Una amiga tuya, dices? Muy bien, pero así llamabas a la sombra de Gulool Ja Ja.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_025	(-Bakool Ja Ja the Mystic-)Hmmm... Dicen que los conjuros para invocarla vienen de una magia mucho más antigua, capaz de nublar la mente de la gente. Si nuestro enemigo es tan hábil como para invocar a Gulool Ja Ja, es lógico que estos trucos tampoco se le escapen.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_026	(-Bakool Ja Ja the Mighty-)O sea que a la joven Prishe probablemente la engañaron para que creyera que la sombra era esa tal Ulmia.
+TEXT_KINGEA102_05234_PRISHE_000_027	Así que todo fue una ilusión.
+TEXT_KINGEA102_05234_PRISHE_000_028	Empiezo a recordar. Hubo alguien que me advirtió que una amiga muy querida necesitaba mi protección.
+TEXT_KINGEA102_05234_PRISHE_000_029	Era azul como tu cabeza izquierda, y me dio estas armas rarísimas.
+TEXT_KINGEA102_05234_BAKOOLJAJA_100_029	(-Bakool Ja Ja the Mystic-)¿Azul como yo?
+TEXT_KINGEA102_05234_PRISHE_000_030	Yo suelo pelear con los puños, pero acepté lo que me dio sin pensarlo dos veces. Supongo que la culpa es de su magia.
+TEXT_KINGEA102_05234_PRISHE_000_031	En todo caso, espero que la verdadera Ulmia no se haya visto arrastrada a todo esto.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_032	(-Bakool Ja Ja the Mystic-)¿Puedes contarnos algo de la que creías que era tu Ulmia? ¿Dónde podría esconderse, por ejemplo?
+TEXT_KINGEA102_05234_PRISHE_000_033	Ojalá pudiera, pero cuando llegué aquí estaba completamente sola.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_034	(-Bakool Ja Ja the Mystic-)¿Y "aquí" es dónde, exactamente?
+TEXT_KINGEA102_05234_PRISHE_000_035	Jeuno. Al menos, creo que esto es Jeuno. Antes nunca hubo nada como eso aquí.
+TEXT_KINGEA102_05234_PRISHE_000_037	Está casi vacía, pero hay unas cuantas personas dando vueltas, si sabes dónde buscar. Quizá puedan decirnos algo.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_038	(-Bakool Ja Ja the Mystic-)Ve con Prishe y averigua lo que puedas de este lugar y del paradero de esa sombra.
+TEXT_KINGEA102_05234_BAKOOLJAJA_100_038	(-Bakool Ja Ja the Mystic-)Nosotros nos quedamos aquí vigilando esta grieta.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_040	(-Bakool Ja Ja the Mystic-)Siento algo podrido en el viento de este lugar. Cuanto antes nos vayamos, mejor.
+TEXT_KINGEA102_05234_PRISHE_000_100	Bien, entonces. Echemos un vistazo.
+TEXT_KINGEA102_05234_PRISHE_000_101	Ah, y deberíamos pasar por el Tenshodo también. Está al fondo de Neptune's Spire, frente a la fuente.
+TEXT_KINGEA102_05234_SYSTEM_000_102	Prishe te acompaña ahora. Mantenla a tu lado para avanzar con los objetivos de la misión.
+TEXT_KINGEA102_05234_SYSTEM_000_103	Puedes dejar a Prishe si entras en otra zona, o si hablas con ella y eliges la opción de separarse.
+TEXT_KINGEA102_05234_SYSTEM_000_104	Si quieres que Prishe vuelva a acompañarte, regresa y habla con ella en el lugar original.
+TEXT_KINGEA102_05234_SYSTEM_000_200	Para avanzar con los objetivos de la misión, Prishe tiene que acompañarte y estar a tu lado.
+TEXT_KINGEA102_05234_SYSTEM_000_201	Prishe todavía no llegó. Asegúrate de que esté a tu lado antes de continuar.
+TEXT_KINGEA102_05234_Q4_000_000	¿Qué vas a hacer?
+TEXT_KINGEA102_05234_A4_000_001	Hablar.
+TEXT_KINGEA102_05234_A4_000_002	Separarse.
+TEXT_KINGEA102_05234_A4_000_003	<colortype(548)>Hablar de las ventanillas cerradas.<colortype(0)>
+TEXT_KINGEA102_05234_A4_000_004	<colortype(548)>Hablar de la puerta bloqueada.<colortype(0)>
+TEXT_KINGEA102_05234_A4_000_005	Nada.
+TEXT_KINGEA102_05234_PRISHE_000_203	Vine a Jeuno solo unas pocas veces, cuando necesitaba un lugar para esconderme, y quizá para lamerme las heridas una o dos veces.
+TEXT_KINGEA102_05234_PRISHE_000_204	Pero siempre la pasé bien aquí. Conocí a mucha gente interesante en el camino.
+TEXT_KINGEA102_05234_Q5_000_000	¿Seguro que quieres separarte de tu acompañante?
+TEXT_KINGEA102_05234_PRISHE_000_205	Ah. Bueno, si estás ocupad<if(gnum4,a,o)>, no te entretengo. El grandote puede hacerme compañía hasta que vuelvas.
+TEXT_KINGEA102_05234_PRISHE_000_206	¿Ya está? ¡Entonces vamos!
+TEXT_KINGEA102_05234_PRISHE_000_207	Aquí se juntan aventureros de todos los rincones del mundo para comprar y vender su botín. Los impuestos son un fastidio, pero vale la pena por la variedad. Pero, entre nos, oí que se pueden conseguir buenos tratos con los mercaderes que venden sus cosas en las afueras de la ciudad.
+TEXT_KINGEA102_05234_PRISHE_000_208	Pero ¿por qué está cerrada? La casa de subastas <italic(1)>nunca<italic(0)> cierra...
+TEXT_KINGEA102_05234_PRISHE_000_209	Quizá estén esperando a que las cosas vuelvan a la normalidad por aquí. Cuando vuelvan a abrir, te recomiendo pasar. Quién sabe, a lo mejor tienes suerte y encuentras algo muuucho más barato que su precio de mercado.
+TEXT_KINGEA102_05234_PRISHE_000_210	¡¿Qué?! ¿Por qué está bloqueado esto?
+TEXT_KINGEA102_05234_PRISHE_000_211	Aquí se supone que hay una escalera que sube a la zona residencial.
+TEXT_KINGEA102_05234_PRISHE_000_212	\<suspiro> Te lo juro, las cosas aquí se ponen más raras a cada minuto.
+TEXT_KINGEA102_05234_VANAADVENTURER05234A_000_213	Ah, qué bien. Esperaba encontrarme con ustedes dos.
+TEXT_KINGEA102_05234_VANAADVENTURER05234A_000_214	No quiero ser demasiado atrevido, pero ¿por qué hablaban hace un rato con ese Mamool Ja? Y lo más importante, ¿qué hacía aquí?
+TEXT_KINGEA102_05234_VANAADVENTURER05234A_000_215	Ellos jamás se atreverían a salir de las costas de Aradjiah, a menos que... ¡Dioses, ¿Gulool Ja Ja sitió Aht Urhgan? ¿Jeuno será la próxima en caer?!
+TEXT_KINGEA102_05234_PRISHE_000_216	No sé nada de sitios ni de invasiones, pero ese Mamool Ja de allá es amigo mío. No tienes nada de qué preocuparte.
+TEXT_KINGEA102_05234_PRISHE_000_217	El pobre debe de estar más confundido que nosotros con todo esto.
+TEXT_KINGEA102_05234_VANAADVENTURER05234A_000_220	Espero que la Serpent General Aliapoh esté bien...
+TEXT_KINGEA102_05234_VANAADVENTURER05234B_000_230	<switch(gnum71,Vaya\, vaya\, creía que conocía a todos los Hume que pasan por aquí últimamente.,Vaya\, vaya\, creía que conocía a todos los Elvaan que pasan por aquí últimamente.,Vaya\, vaya\, creía que conocía a todos los Tarutaru que pasan por aquí últimamente.,Vaya\, vaya\, creía que conocía a todos los Mithra que pasan por aquí últimamente.,Vaya\, vaya\, creía que conocía a todos los Galka que pasan por aquí últimamente.,Hmmm. Nunca vi a nadie como tú por aquí.,Hmmm. Nunca vi a nadie como tú por aquí.,Hmmm. Nunca vi a nadie como tú por aquí.)> ¿De dónde eres, <if(gnum4,forastera,forastero)>?
+TEXT_KINGEA102_05234_VANAADVENTURER05234B_100_230	Hmmm. Nunca vi a nadie como tú por aquí. ¿De dónde eres, <if(gnum4,forastera,forastero)>?
+TEXT_KINGEA102_05234_VANAADVENTURER05234B_000_231	¿<switch(gnum70,Limsa Lominsa,Gridania,Ul'dah)>? Nunca lo oí nombrar.
+TEXT_KINGEA102_05234_VANAADVENTURER05234B_000_232	Casi todos los que pasan por aquí vienen de San d'Oria, Bastok o Windurst.
+TEXT_KINGEA102_05234_VANAADVENTURER05234B_000_233	Aunque, con el estado en que está Jeuno, parece que lo raro se está volviendo cosa de todos los días.
+TEXT_KINGEA102_05234_PRISHE_000_234	Mentiría si dijera que oí hablar de tu tierra natal, pero eso no importa ahora. En momentos así, hay que saber en quién se puede confiar.
+TEXT_KINGEA102_05234_VANAADVENTURER05234B_000_235	¿Y qué clase de lugar es <switch(gnum70,Limsa Lominsa,Gridania,Ul'dah)>? Quizá algún día pueda visitarlo.
+TEXT_KINGEA102_05234_VANAADV05234C_000_240	Usted es <if(gnum4,nueva,nuevo)> en Jeuno, ¿no? Se nota por cómo miraba todo.
+TEXT_KINGEA102_05234_VANAADV05234C_000_241	La ciudad se construyó sobre el Heavens Bridge, que une los dos grandes continentes de Quon y Mindartia.
+TEXT_KINGEA102_05234_VANAADV05234C_000_242	Hay un nivel superior y uno inferior, un puerto y la plaza administrativa de Ru'Lude Gardens.
+TEXT_KINGEA102_05234_VANAADV05234C_000_243	Al menos, los había antes. Todos los caminos para entrar y salir de Lower Jeuno parecen estar bloqueados o cortados.
+TEXT_KINGEA102_05234_PRISHE_000_244	La situación aquí es peor de lo que pensaba.
+TEXT_KINGEA102_05234_VANAADV05234C_000_245	Ni siquiera los hechizos de teletransporte y de regreso parecen funcionar. ¿Qué cree que nos tiene atrapados aquí?
+TEXT_KINGEA102_05234_SYSTEM_000_250	Empujas la puerta, pero no se mueve.
+TEXT_KINGEA102_05234_PRISHE_000_251	¿No abre? \<suspiro> Entonces supongo que no vamos a ver a Aldo.
+TEXT_KINGEA102_05234_PRISHE_000_252	Es el jefe del Tenshodo. Cuando el mundo está en peligro, siempre está ahí para echarme una mano.
+TEXT_KINGEA102_05234_Q2_000_000	¿Qué vas a decir?
+TEXT_KINGEA102_05234_A2_000_001	Me recuerda a mis amigos, los Scions.
+TEXT_KINGEA102_05234_A2_000_002	Lástima que no pueda conocerlo.
+TEXT_KINGEA102_05234_PRISHE_000_254	Los Scions, ¿eh? Suenan como un grupo capaz. Por desgracia, aquí estamos solos...
+TEXT_KINGEA102_05234_PRISHE_000_255	Seguro que ustedes dos se habrían llevado de maravilla. Por desgracia, aquí estamos solos...
+TEXT_KINGEA102_05234_PRISHE_000_270	Sea lo que sea que pasa aquí, esta gente está tan desconcertada como nosotros. Deberíamos volver a buscar a Bakool Ja Ja. A ver si notó algo.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_300	(-Bakool Ja Ja the Mighty-)Por fin vuelven. Con respuestas, espero.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_301	(-Bakool Ja Ja the Mystic-)Así que de verdad estamos en esa "Jeuno", como dice ella.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_302	(-Bakool Ja Ja the Mighty-)Pero recorrí todo Tural, y nunca oí hablar de una "Jeuno" ni de una "San d'Oria" ni de ninguno de esos otros lugares.
+TEXT_KINGEA102_05234_PRISHE_000_303	¿Qué rayos, en nombre de Altana, es Tural? Pensé que todos ustedes, los Mamool Ja, venían de Aradjiah.
+TEXT_KINGEA102_05234_ALXAAL_000_304	(-Viajero con armadura-)¡Prishe! ¡Estás bien!
+TEXT_KINGEA102_05234_ALXAAL_000_305	(-Viajero con armadura-)Y seguro que es gracias a ti.
+TEXT_KINGEA102_05234_PRISHE_000_306	Eh, gracias por preocuparte. Supongo... ¿Y tú quién eres, exactamente?
+TEXT_KINGEA102_05234_Q3_000_000	¿Qué vas a decir?
+TEXT_KINGEA102_05234_A3_000_001	Pensé que era tu amigo.
+TEXT_KINGEA102_05234_A3_000_002	Es el que me pidió que fuera a buscarte.
+TEXT_KINGEA102_05234_PRISHE_000_308	¿Qué? No lo vi en mi vida.
+TEXT_KINGEA102_05234_PRISHE_000_309	Te agradezco la preocupación, pero no lo vi en mi vida.
+TEXT_KINGEA102_05234_ALXAAL_000_310	(-Viajero con armadura-)¡¿Cómo puedes decir algo así?!
+TEXT_KINGEA102_05234_PRISHE_000_311	O sea, <italic(1)>sí<italic(0)> pareces de los que podría conocer, pero no me acuerdo. ¿Cómo dijiste que te llamabas, señor...?
+TEXT_KINGEA102_05234_ALXAAL_000_312	(-Viajero con armadura-)Ah, mi nombre es... Mi nombre es...
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_313	(-Bakool Ja Ja the Mighty-)Tú debes de ser el que encontraron herido en el Skydeep Cenote. Bueno, de <italic(1)>algún<italic(0)> modo te tenemos que llamar.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_314	(-Bakool Ja Ja the Mighty-)¿Qué tal... Alxaal?
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_315	(-Bakool Ja Ja the Mystic-)"Vagabundo" en la lengua de los Mamool Ja.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_316	(-Bakool Ja Ja the Mystic-)Aunque en el eorzeano de <split(<string(gstr1)>, ,1)> quizá se acerque más a "aventurero". Bien elegido, hermano.
+TEXT_KINGEA102_05234_ALXAAL_000_317	La verdad es que suena bastante bien. Alxaal, entonces.
+TEXT_KINGEA102_05234_ALXAAL_000_318	Y bien, ¿dónde estamos, exactamente?
+TEXT_KINGEA102_05234_PRISHE_000_319	En Jeuno. O al menos, en algo muy parecido. Seguro que recuerdas este lugar, ¿no?
+TEXT_KINGEA102_05234_ALXAAL_000_320	Sí que me resulta familiar.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_322	(-Bakool Ja Ja the Mighty-)¿Y qué tiene de especial este lugar, de todos modos? ¿Y adónde se fue esa maldita sombra? ¡Bah, nada de esto tiene sentido!
+TEXT_KINGEA102_05234_SAREELJA_000_400	(-Voz conocida-)Vaya, vaya, qué aprieto tan fastidioso.
+TEXT_KINGEA102_05234_PRISHE_100_400	¡Oye! ¡Ese es el que me hechizó, estoy segura!
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_401	(-Bakool Ja Ja the Mighty-)Así que el adulador de los Boonewa sigue vivo. ¡¿Qué haces aquí?!
+TEXT_KINGEA102_05234_SAREELJA_000_402	Como me encuentran de humor generoso, pensé que podría ilustrarlos sobre la naturaleza de este lugar. Para eso vinieron, ¿no es así?
+TEXT_KINGEA102_05234_SAREELJA_000_403	La señorita tiene razón. Este es el Grand Duchy of Jeuno.
+TEXT_KINGEA102_05234_ALXAAL_000_404	Así que de verdad estamos en Jeuno. Y sin embargo hay algo que se siente tan... raro.
+TEXT_KINGEA102_05234_SAREELJA_000_405	Nunca dije que fuera la <italic(1)>verdadera<italic(0)>. Es una imitación, bastante convincente, si me permiten, que creé a partir de visiones de otro mundo.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_406	(-Bakool Ja Ja the Mystic-)¿Esto lo construiste <italic(1)>tú<italic(0)>?
+TEXT_KINGEA102_05234_SAREELJA_000_407	Así es. Mientras ustedes celebraban la coronación de los Dawnservants, Zoraal Ja y yo fuimos a la puerta de la ciudad dorada.
+TEXT_KINGEA102_05234_SAREELJA_000_408	Todo marchaba según lo planeado: teníamos la llave de la puerta, y el poder de rehacer el mundo estaba a nuestro alcance. O eso creía.
+TEXT_KINGEA102_05234_SAREELJA_000_409	A los ojos del Resilient Son, yo no era más que una herramienta inútil que había que desechar.
+TEXT_KINGEA102_05234_SAREELJA_000_410	Por derecho, debería haber muerto cuando me derribó, pero una vez que la cámara quedó vacía, con la puerta todavía abierta, vi mi oportunidad.
+TEXT_KINGEA102_05234_SAREELJA_000_411	Lo que encontré cuando me arrastré al otro lado del umbral fue un vacío. Un espacio más allá del tiempo. Fue allí, en esa extensión oscura, donde contemplé otro mundo.
+TEXT_KINGEA102_05234_SAREELJA_000_412	Ese mundo se llamaba... Vana'diel.
+TEXT_KINGEA102_05234_PRISHE_000_413	Qué montón de tonterías. Como si alguien fuera a creer que todo y todos aquí no somos más que uno de tus juguetes.
+TEXT_KINGEA102_05234_PRISHE_000_414	¡Se convirtió en piedra!
+TEXT_KINGEA102_05234_SAREELJA_000_415	Como dije, todo lo que ven aquí es creación mía.
+TEXT_KINGEA102_05234_SAREELJA_000_416	Así como creamos un fantasma de Gulool Ja Ja para el Feat of the Brotherhood, pude usar nuestros instrumentos ceremoniales para darles vida a mis visiones de Vana'diel.
+TEXT_KINGEA102_05234_SAREELJA_000_417	En circunstancias normales, mis conjuros solo tienen fuerza para un breve enfrentamiento. Con esa piedra, en cambio, mi magia es capaz de mucho más.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_418	(-Bakool Ja Ja the Mystic-)¿No es eso lo que usó Zoraal Ja para formar su ejército? Electrope, lo llamaba.
+TEXT_KINGEA102_05234_SAREELJA_000_419	¿Electrope, dice?
+TEXT_KINGEA102_05234_SAREELJA_000_420	Si conocen su nombre, supongo que también saben que estas piedras tienen un poder inmenso. Poder suficiente para que mis creaciones persistan todo el tiempo que yo quiera.
+TEXT_KINGEA102_05234_SAREELJA_000_421	Qué fortuna, entonces, que ese mundo entre mundos estuviera lleno de estructuras hechas de electrope. Más de lo que jamás podría haber esperado.
+TEXT_KINGEA102_05234_PRISHE_000_422	¡Espera! Si todo lo que vemos aquí, todo lo que creíamos que era de Vana'diel, es obra tuya, entonces... ¿yo soy...?
+TEXT_KINGEA102_05234_ALXAAL_000_423	Dioses, eso significaría que yo también.
+TEXT_KINGEA102_05234_SAREELJA_000_424	¿Usted...? Sí, bueno... un hilo insignificante en el tapiz de mis grandes designios.
+TEXT_KINGEA102_05234_SAREELJA_000_425	¡Y qué tejido tan maravilloso será, posible gracias a las infinitas posibilidades que recogí en ese Walk of Echoes!
+TEXT_KINGEA102_05234_SAREELJA_000_426	Los recuerdos enterrados allí, esos restos de ecos, convertirán mis sueños en realidad.
+TEXT_KINGEA102_05234_SAREELJA_000_427	Alguna vez creí que ese sueño estaba en el Resilient Son, pero ese bastardo está muerto para mí. ¡Por mi mano, Tural tendrá al soberano más grande que el mundo haya conocido!
+TEXT_KINGEA102_05234_SAREELJA_000_428	Tuve un comienzo admirable, pero mi obra está lejos de terminar.
+TEXT_KINGEA102_05234_SAREELJA_000_429	Muy pronto volveré a valerme de los ecos para invocar a los seres más grandes de Vana'diel, y su fuerza se unirá a esta magnífica sombra.
+TEXT_KINGEA102_05234_SAREELJA_000_430	La razón y la determinación que construyeron la nación de Tuliyollal, unidas a la tiranía implacable que comandaba a los Mamool Ja de aquel mundo.
+TEXT_KINGEA102_05234_Q1_000_000	¿Qué vas a decir?
+TEXT_KINGEA102_05234_A1_000_001	No te vas a salir con la tuya. ¡Me voy a encargar de eso!
+TEXT_KINGEA102_05234_A1_000_002	¡No voy a dejar que mancilles los recuerdos de Vana'diel!
+TEXT_KINGEA102_05234_A1_000_003	Si no entiendes razones, quizá entiendas mis puños.
+TEXT_KINGEA102_05234_SAREELJA_000_432	¡Ese es el espíritu! Mis preparativos llevarán tiempo, claro, pero cuando esté listo, tenga por seguro que <if(gnum4,la,lo)> llamaré. Para que sea testigo de mi grandeza.
+TEXT_KINGEA102_05234_BAKOOLJAJA_100_432	(-Bakool Ja Ja the Mighty-)¡Sareel Ja, espera!
+TEXT_KINGEA102_05234_PRISHE_000_450	...
+TEXT_KINGEA102_05234_ALXAAL_000_451	¿Prishe...?
+TEXT_KINGEA102_05234_BAKOOLJAJA_100_500	(-Bakool Ja Ja the Mighty-)¡Maldición!
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_500	(-Bakool Ja Ja the Mighty-)Justo cuando creía que las cosas no podían complicarse más. Entender lo de Alexandria ya era bastante problema, y ahora encima tenemos que lidiar con esta Vana'diel.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_501	(-Bakool Ja Ja the Mighty-)No me imagino cómo se deben de sentir Prishe y Alxaal.
+TEXT_KINGEA102_05234_BAKOOLJAJA_000_502	(-Bakool Ja Ja the Mighty-)¿Qué haces cuando ponen en duda tu propia existencia?
