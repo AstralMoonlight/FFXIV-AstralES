@@ -1,0 +1,76 @@
+key	text
+TEXT_LUCKTA301_03952_SEQ_00	El jefe de la excavación quiere que participes activamente en la feria de Komra.
+TEXT_LUCKTA301_03952_SEQ_01	Con los preparativos de la feria del pueblo casi terminados, solo falta una cosa: desplegar los estandartes ceremoniales. El jefe de la excavación te eligió nada menos que a ti para llevárselos a los dwarves encargados de exhibirlos. Sea o no cierto que esta tarea es muy codiciada y de gran importancia, ahora es tu trabajo.
+TEXT_LUCKTA301_03952_SEQ_02	Les entregas los estandartes a varios dwarves, lo que resulta una buena oportunidad para conocer las pintorescas personalidades que forman el pueblo de Komra. Seguro que al jefe de la excavación le alegrará saber que los festejos que tanto le costó organizar ya pueden empezar.
+TEXT_LUCKTA301_03952_SEQ_03	Momentos después de que el jefe te dice que ya puedes disfrutar de la feria, que acaba de empezar, aparecen Anogg y Konogg para arrancarte de la celebración. Por lo visto avanzaron con la misteriosa "llave" y quieren ponerte al tanto de cómo están las cosas.
+TEXT_LUCKTA301_03952_SEQ_04	Sigues a los mellizos hasta su taller improvisado, donde te cuentan que lograron transferirle energía a la llave, pero que siguen sin poder usarla por la impenetrable complejidad del aparato. No parece quedar otra que consultar a alguien más familiarizado con la avanzada tecnología de los androides; es decir, a la mismísima 2P. Aunque ahora está fuera de servicio, el escaneo del pod indica que un error crítico en sus procesos de reparación podría resolverse con una pieza de repuesto, y por suerte sabes exactamente dónde podría encontrarse algo así.
+TEXT_LUCKTA301_03952_SEQ_05	Dentro de la Copied Factory, llamas a los mellizos a la sala donde antes encontraste una cantidad alarmante de androides rotos y sin vida. Aunque el perturbador espectáculo haría vacilar a cualquiera, no pierden tiempo en conseguir la pieza de repuesto adecuada.
+TEXT_LUCKTA301_03952_SEQ_06	Con la pieza necesaria en la mano, Anogg le ordena al pod que se ponga a reparar a 2P. Los mellizos y tú esperan conteniendo el aliento hasta que termina el proceso y 2P por fin despierta.
+TEXT_LUCKTA301_03952_TODO_00	Entrégales los estandartes de la feria a los vecinos de Komra.
+TEXT_LUCKTA301_03952_TODO_01	Habla con el jefe de la excavación.
+TEXT_LUCKTA301_03952_TODO_02	Habla con Anogg en los túneles de excavación.
+TEXT_LUCKTA301_03952_TODO_03	Con el modo de chat en <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribe cualquier frase que contenga "Anogg" cerca del destino dentro de la Copied Factory.
+TEXT_LUCKTA301_03952_TODO_04	Habla con Anogg.
+TEXT_LUCKTA301_03952_DWARFMASTER03671_000_001	¡Lali-sabía que tarde o temprano vendrías-ho! Te acuerdas de la feria de la que te hablé, ¿no?
+TEXT_LUCKTA301_03952_DWARFMASTER03671_000_002	Terminamos los preparativos, así que ya casi es hora de abrir los festejos desplegando los estandartes. Pero primero necesitamos un portador oficialmente autorizado que les entregue esos estandartes a tres de los nuestros, y ¿por qué no darte el honor a ti?
+TEXT_LUCKTA301_03952_DWARFMASTER03671_000_003	Hay otros que se pelean por la tarea, no te equivoques; es un deber importante y muy codiciado, entiéndelo, pero no podía privarte de esta oportunidad de conocer de primera mano la cultura Gogg.
+TEXT_LUCKTA301_03952_DWARFMASTER03671_000_004	Considéralo un agradecimiento por evitar que Anogg y Konogg se hagan volar en pedazos. ¡Y espabila! No tenemos <if([gnum11<12],<if([gnum11<4],toda la noche,todo el día)>,<if([gnum11<17],todo el día,toda la noche)>)>.
+TEXT_LUCKTA301_03952_VILLAGERA03952_000_050	¡Ajá! Tú debes de ser <if(gnum4,la portadora,el portador)>. ¡Bueno, entrégamelo! ¡Esto es lo que todos estábamos esperando!
+TEXT_LUCKTA301_03952_VILLAGERA03952_000_051	¡Ah, los colores de Komra! ¡Hablan de nuestro pueblo, de nuestras vidas, de nuestras mismísimas almas! ...Menos este. Este nunca me gustó mucho. Parece que se tropezó a mitad de camino entre el beige y el amarillo y se cayó a una zanja.
+TEXT_LUCKTA301_03952_VILLAGERB03952_000_052	Así que el papel de portador al final fue para <if(gnum4,la forastera,el forastero)>. Nada que no puedas manejar, espero.
+TEXT_LUCKTA301_03952_VILLAGERB03952_000_053	No es que crea que el jefe eligió mal, ojo. Un poco de desperdicio, sí, pero no hay mejor forma de presentarte ante el resto del pueblo. Y mira tú: no eres tan mal<if(gnum4,a,o)>.
+TEXT_LUCKTA301_03952_VILLAGERC03952_000_054	¿Ya es la hora? Ay, me sudan tanto las manos... Ten cuidado, ¿eh? No quisiera ser yo el que deje caer el estandarte.
+TEXT_LUCKTA301_03952_VILLAGERC03952_000_055	Uf. Bien hecho. Compartamos un trago cuando esté desplegado sano y salvo, ¿eh? La feria es nuestra forma de mostrarnos aprecio unos a otros, y yo sin duda te aprecio por evitar que este estandarte se me escurra como una anguila engrasada.
+TEXT_LUCKTA301_03952_VILLAGERA03952_000_060	¡Espera a verlo desplegado! ¡Te va a inspirar, te lo garantizo!
+TEXT_LUCKTA301_03952_VILLAGERB03952_000_065	Si quieres un consejo para conocer mejor al resto del pueblo: come, bebe y diviértete. <italic(1)>Es<italic(0)> una feria, después de todo.
+TEXT_LUCKTA301_03952_VILLAGERC03952_000_070	¡Contigo aquí para contar tus historias de aventuras, seguro que la feria de este año será la mejor de todas! Suponiendo que no me enrede en el estandarte, me tropiece y <italic(1)>lo arruine todo<italic(0)>...
+TEXT_LUCKTA301_03952_DWARFMASTER03671_000_075	Anda, ve. Todo el pueblo está esperando.
+TEXT_LUCKTA301_03952_DWARFMASTER03671_000_100	¿Terminaste? Ojalá hablar con esa gente te haya hecho entender que esto no era un mandado cualquiera que podía hacer cualquiera. No, el más mínimo percance en la entrega de los estandartes habría sido un desastre, ¿me oyes?
+TEXT_LUCKTA301_03952_DWARFMASTER03671_000_101	Y ahora, sin más preámbulos... ¡que empiece la feria!
+TEXT_LUCKTA301_03952_DWARFMASTER03671_000_102	No hace falta que te quedes ahí esperando a que alguien te dé más trabajo. ¡Ve a ver los frutos de nuestro esfuerzo! ¡Celebra! ¡Diviértete! ¡Etcétera!
+TEXT_LUCKTA301_03952_DWARFMASTER03671_000_103	...Si tanto necesitas una tarea, puedes ponerte a abrir el apetito. Espero que disfrutes <italic(1)>a lo grande<italic(0)> de nuestra cocina tradicional, ¡por no hablar de la bebida!
+TEXT_LUCKTA301_03952_KONOGG_000_104	Que la piedra me libre de estas tareas insignificantes. Si veo una serpentina más...
+TEXT_LUCKTA301_03952_ANOGG_000_105	¡Pero si es <split(<string(gstr1)>, ,1)>! ¡Y sin duda agotad<if(gnum4,a,o)> hasta los huesos con tediosas tareas de la feria!
+TEXT_LUCKTA301_03952_Q1_000_000	¿Qué vas a decir?
+TEXT_LUCKTA301_03952_A1_000_001	Mi solemne deber es comerme mi propio peso en comida de feria.
+TEXT_LUCKTA301_03952_A1_000_002	Tuve el honor de entregar los estandartes, muchas gracias.
+TEXT_LUCKTA301_03952_ANOGG_000_107	¡¿Comer?! ¡¿Te volviste loc<if(gnum4,a,o)>?! No hay tiempo para eso: ¡tenemos que activar la llave!
+TEXT_LUCKTA301_03952_ANOGG_000_108	Ah, y supongo que te dijeron que era importantísimo, ¿no? Bueno, que no se te suba a la cabeza. ...Hablando de tu cabeza, creo que podría explotarte cuando veas la llave en acción. ¡Sí, la llave! ¡No me digas que te olvidaste!
+TEXT_LUCKTA301_03952_ANOGG_000_109	Todo este disparate festivo fue una distracción innecesaria, pero Konogg y yo logramos un avance <italic(1)>de verdad<italic(0)> mientras el jefe no miraba.
+TEXT_LUCKTA301_03952_ANOGG_000_110	Si quieres los detalles, y sé que los quieres, tendrás que encontrarte con nosotros en el lugar de siempre. Lo último que necesitamos es a medio pueblo escuchando a escondidas, borracho.
+TEXT_LUCKTA301_03952_KONOGG_000_150	Ni siquiera llegamos a la parte en que Anogg y yo discutimos, y ya estoy molido...
+TEXT_LUCKTA301_03952_ANOGG_000_160	Ahí estás. Repasemos nuestro trabajo, ¿te parece? ¡Seguro que te olvidaste de algún detalle importante!
+TEXT_LUCKTA301_03952_ANOGG_000_161	Como ojalá recuerdes incluso tú, necesitábamos una fuente de energía para que la supuesta "llave" de la que nos habló 2P volviera a funcionar.
+TEXT_LUCKTA301_03952_ANOGG_000_162	Conseguimos esa fuente en forma del caparazón cristalino de un knocker, aunque transferir la energía del cristal a la llave resultó todo un desafío.
+TEXT_LUCKTA301_03952_ANOGG_000_163	¡Pero nada que Konogg y yo, con mi infinita sabiduría, no pudiéramos manejar!
+TEXT_LUCKTA301_03952_ANOGG_000_164	Jeje... Verás que tu fe en nosotros tuvo una gran recompensa. La llave ya tiene toda su energía y, por lo que podemos ver, funciona; así que me atrevo a decir que pronto podremos aplastar a nuestros enemigos con solo apretar un botón.
+TEXT_LUCKTA301_03952_ANOGG_000_165	...¡O <italic(1)>podríamos<italic(0)>, si tuviéramos la menor idea de cómo usar el condenado aparato!
+TEXT_LUCKTA301_03952_KONOGG_000_166	En efecto, parece que la llave es un aparato más complicado de lo que esperábamos. Hasta ahora solo logramos que muestre una serie de glifos extraños.
+TEXT_LUCKTA301_03952_KONOGG_000_167	Se los mostramos al pod para que los tradujera, claro, pero no entendemos ni jota de su terminología, por más veces que le pidamos que la explique.
+TEXT_LUCKTA301_03952_KONOGG_000_168	Los androides parecen tener un dominio intuitivo, o al menos muy afinado, de la tecnología, así que no dudo que 2P sabría, pero...
+TEXT_LUCKTA301_03952_ANOGG_000_169	...No da ninguna señal de despertar milagrosamente, eso seguro.
+TEXT_LUCKTA301_03952_ANOGG_000_170	Uf. Tú, Pod. ¿Se puede reanimar a 2P?
+TEXT_LUCKTA301_03952_POD_000_171	Analizando secuencia de reparación del androide...<br>Error detectado. Confirmando detalles...
+TEXT_LUCKTA301_03952_POD_000_172	Daño detectado en el mecanismo interno.<br>Propuesta: reemplazar la pieza dañada.
+TEXT_LUCKTA301_03952_KONOGG_000_173	Hmm... ¿Así que con una pieza de repuesto es posible repararla? Me atrevo a decir que facilitar ese proceso resultaría más eficiente que seguir con nuestros infructuosos experimentos con la llave.
+TEXT_LUCKTA301_03952_ANOGG_000_174	Yo difícilmente llamaría "eficiente" a vagar por la fábrica durante días sin tener casi idea de qué clase de pieza estamos buscando.
+TEXT_LUCKTA301_03952_ANOGG_000_175	Así que, a menos que nuestr<if(gnum4,a,o)> amig<if(gnum4,a,o)> aquí presente se haya topado por casualidad con una sala llena de cadáveres de androides listos para cosechar...
+TEXT_LUCKTA301_03952_Q2_000_000	¿Qué vas a decir?
+TEXT_LUCKTA301_03952_A2_000_001	Ahora que lo mencionas...
+TEXT_LUCKTA301_03952_A2_000_002	Ah, sí, la sala de los cadáveres. Existe.
+TEXT_LUCKTA301_03952_ANOGG_000_177	¡Raro... pero magnífico! Nos llevarás allí de inmediato. Traeremos también a Pod; puede decirnos si alguno de los androides todavía tiene la pieza que necesitamos. ¡Adelaaante!
+TEXT_LUCKTA301_03952_ANOGG_000_178	（★未使用／削除予定★）
+TEXT_LUCKTA301_03952_KONOGG_000_200	No es que no tenga ganas de desarmar un androide, pero... ¿cómo se <italic(1)>hace<italic(0)> eso?
+TEXT_LUCKTA301_03952_POD_000_205	Las unidades de apoyo táctico están autorizadas para recuperar piezas de androides y realizar operaciones de reemplazo y reparación.
+TEXT_LUCKTA301_03952_ANOGG_000_210	Una mirada al interior de los androides <italic(1)>y<italic(0)> un paso gigante hacia nuestro objetivo final, muajaja... Por cierto, ¿adónde vamos?
+TEXT_LUCKTA301_03952_SYSTEM_000_215	Con el modo de chat en <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, usa el teclado o el teclado en pantalla para escribir cualquier frase que contenga "Anogg" y llamar la atención de la distraída dwarf.
+TEXT_LUCKTA301_03952_SAYTODO_000_220	Anogg
+TEXT_LUCKTA301_03952_ANOGG_000_221	¿Por aquí? ¡Konogg, Pod, dejen de entretenerse!
+TEXT_LUCKTA301_03952_ANOGG_000_222	¡Qué perturbador!
+TEXT_LUCKTA301_03952_KONOGG_000_223	El color de su ropa es distinto, pero parecen ser del mismo modelo que 2P.
+TEXT_LUCKTA301_03952_ANOGG_000_224	Lo que significa que, macabro o no, podemos aprovecharlos. ¡Esto es verdaderamente excelente, Konogg!
+TEXT_LUCKTA301_03952_KONOGG_000_225	Según entiendo, Pod debería poder rescatar la pieza correcta e iniciar las reparaciones. Veamos...
+TEXT_LUCKTA301_03952_KONOGG_000_250	Cuanto más aprendemos de la tecnología de los androides, más fascinante, y más inquietante, se vuelve. ¿Quién podría haber creado esto?
+TEXT_LUCKTA301_03952_POD_000_255	Compatibilidad de la pieza confirmada.
+TEXT_LUCKTA301_03952_ANOGG_000_260	¿Hay que darle instrucciones cada vez? Vamos, Pod, arregla a 2P.
+TEXT_LUCKTA301_03952_ANOGG_000_261	¿Funcionó?
