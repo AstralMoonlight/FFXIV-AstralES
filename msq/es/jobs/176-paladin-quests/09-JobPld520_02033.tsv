@@ -1,0 +1,46 @@
+key	text
+TEXT_JOBPLD520_02033_SEQ_00	Papashan se alivia al verte.
+TEXT_JOBPLD520_02033_SEQ_01	Papashan averiguó que la última carta de Solkzagyl salió de Falcon's Nest, en Coerthas Western Highlands. Ve a la aldea y mira qué puedes averiguar sobre el paradero del paladin desaparecido.
+TEXT_JOBPLD520_02033_SEQ_02	Aunque oyes hablar de un hombre bastante grande al que atacaron unos bandidos la otra noche, no queda claro si era Solkzagyl. La única otra pista que parece servir es Hundred Eyes, un artesano Roegadyn que trabajó con muchos jornaleros desde que empezó la reconstrucción de Falcon's Nest.
+TEXT_JOBPLD520_02033_SEQ_03	Para tu consternación, Hundred Eyes te confirma que Solkzagyl era el hombre emboscado en los páramos la otra noche. El artesano lo enterró al día siguiente, en un terreno de la loma junto a Camp Riversmeet. Ve a la tumba del paladin a presentarle tus respetos.
+TEXT_JOBPLD520_02033_SEQ_04	Llegas a tiempo para rescatar a un muchacho de un grupo de bandidos extrañamente empeñados en matarlo. Después, te explica que era amigo de Solkzagyl, y que los hombres que lo mataron son los mismos que acabas de derrotar: Death's Embrace, los asesinos que robaron Oathkeeper hace años por orden de los Monetarists. Mientras ves alejarse al muchacho, Papashan se comunica contigo por linkpearl, y le cuentas la muerte de Solkzagyl. Horrorizado y confundido, te pide que sigas al muchacho y averigües qué más puedes saber sobre los últimos días de Solkzagyl.
+TEXT_JOBPLD520_02033_SEQ_05	El muchacho se presenta como Constaint, amigo y antiguo alumno de Solkzagyl. Después de que el antiguo capitán lo salvara de una manada de lobos hambrientos, Constaint le suplicó que le enseñara los caminos del paladin. Durante un tiempo Solkzagyl se negó, pero al final cedió y lo aceptó como alumno. Sin embargo, nunca le contó a Constaint sus últimos descubrimientos, y prefirió desafiar a Death's Embrace cuando el muchacho no estaba. Aunque se quedó sin maestro, Constaint sigue decidido a convertirse en paladin y a recuperar Oathkeeper en lugar de Solkzagyl. Con tu ayuda, quizás lo logre.<br><br>※La siguiente misión de paladin estará disponible con Constaint al llegar al nivel 54.
+TEXT_JOBPLD520_02033_TODO_00	Pregúntale a la gente de Falcon's Nest.
+TEXT_JOBPLD520_02033_TODO_01	Habla con Hundred Eyes.
+TEXT_JOBPLD520_02033_TODO_02	Busca la tumba de Solkzagyl en Camp Riversmeet.
+TEXT_JOBPLD520_02033_TODO_03	Habla con Constaint en Falcon's Nest.
+TEXT_JOBPLD520_02033_PAPASHAN_000_000	¡Ah, justo <if(gnum4,la mujer,el hombre)> que esperaba ver!
+TEXT_JOBPLD520_02033_PAPASHAN_000_001	Ya sé desde dónde me mandó Solkzagyl su última carta. Desde Falcon's Nest, una aldea en Coerthas Western Highlands. Quiero que empieces a buscar allí.
+TEXT_JOBPLD520_02033_PAPASHAN_000_002	Recuperar Oathkeeper haría mucho por restaurar el honor de los Sultansworn. Pero no nos adelantemos. Primero tenemos que encontrar a nuestro hombre desaparecido.
+TEXT_JOBPLD520_02033_PAPASHAN_100_002	No quiero nada más que acompañarte en la búsqueda. Pero Jenlyns notaría mi ausencia, y todavía no quiero involucrarlo.
+TEXT_JOBPLD520_02033_EMERISSEL_000_010	¿Un "paladin" Roegadyn? Bueno... sí recuerdo a un viajero que pasó varios días aquí...
+TEXT_JOBPLD520_02033_JOSSELOUX_000_011	Hubo una batalla encarnizada la otra noche, en los páramos. Un hombre bastante grande y un grupo de herejes como él, según cuentan los exploradores. Por supuesto, decidimos no intervenir. Si quieren matarse entre ellos, adelante.
+TEXT_JOBPLD520_02033_FORCHETAIX_000_012	...¿Solkzagyl? Nunca oí hablar de él. ¿Era uno de los artesanos nuevos que trabajan con Hundred Eyes?
+TEXT_JOBPLD520_02033_FORCHETAIX_000_013	Lo siento, aquí vemos muchísimas caras nuevas. La mayoría no deja huella... salvo los herejes y los bandidos, claro.
+TEXT_JOBPLD520_02033_HUNDREDEYES_000_020	Oí que andabas preguntando por un Roegadyn, y de una forma que podría preocupar a cualquiera.
+TEXT_JOBPLD520_02033_HUNDREDEYES_000_021	Sí, conozco a Solkzagyl... <italic(1)>conocía<italic(0)>, debería decir. Un tipo mayor, pasaba tiempo charlando con el muchacho. Llegó, como todos los que vinimos antes que él, buscando lo mismo que buscamos todos...
+TEXT_JOBPLD520_02033_HUNDREDEYES_100_021	...Unos bandidos lo emboscaron de noche, en los páramos. Al día siguiente lo enterré con mis propias manos, cerca de Camp Riversmeet. A Constaint le dolió especialmente, de lo unido que era a él.
+TEXT_JOBPLD520_02033_HUNDREDEYES_100_022	Lo enterré en el terreno de la loma junto a Camp Riversmeet, por si quieres ir a presentarle tus respetos.
+TEXT_JOBPLD520_02033_CONSTAINT_000_030	Que las bendiciones de Halone caigan sobre usted, <if(gnum4,señorita,señor)>. Vaya, eso sí que fue espantoso.
+TEXT_JOBPLD520_02033_CONSTAINT_000_031	¿Usted también era <if(gnum4,amiga,amigo)> de Solkzagyl? Ah, qué bien... Eh, quiero decir, mis condolencias.
+TEXT_JOBPLD520_02033_CONSTAINT_000_032	Sabía que tenía que haber otros que quisieran saberlo...
+TEXT_JOBPLD520_02033_CONSTAINT_000_033	Fue obra de Death's Embrace, apostaría. Esos malvados que acaba de matar también los mandaron ellos.
+TEXT_JOBPLD520_02033_CONSTAINT_000_034	Mi gente cree que son solo otra banda de mercenarios o de herejes. Si supieran de lo que son capaces de verdad...
+TEXT_JOBPLD520_02033_CONSTAINT_000_035	Solo espero que esta vez hagan caso de mis advertencias. Si me disculpa...
+TEXT_JOBPLD520_02033_PAPASHAN_000_036	(-Papashan-)<split(<string(gstr1)>, ,1)>, habla Papashan. ¿Encontraste a Solkzagyl?
+TEXT_JOBPLD520_02033_PAPASHAN_000_037	(-Papashan-)¡Por todos los dioses, ¿asesinado por Death's Embrace?! Oí que algunos de esos desgraciados seguían merodeando, pero nunca pensé que intentarían...
+TEXT_JOBPLD520_02033_PAPASHAN_000_038	(-Papashan-)Espera... ¿podría ser que ellos fueran los que tenían Oathkeeper? ¿Y que mataron a Solkzagyl cuando intentó recuperarla?
+TEXT_JOBPLD520_02033_PAPASHAN_000_039	(-Papashan-)Maldita sea, seguimos sin respuestas. Aunque todavía está el muchacho... Hm. Ve tras él y averigua qué sabe.
+TEXT_JOBPLD520_02033_PAPASHAN_100_039	...Te agradezco que vinieras hasta aquí a verme, <split(<string(gstr1)>, ,1)>, pero creo que nos serviría más que averiguaras qué más sabe el muchacho sobre Solkzagyl.
+TEXT_JOBPLD520_02033_CONSTAINT_000_040	Qué gusto volver a <if(gnum4,verla,verlo)>, <if(gnum4,señorita,señor)>. ¿Quería hablar de algo?
+TEXT_JOBPLD520_02033_CONSTAINT_000_041	¡Ah, así que usted es <if(gnum4,esa paladin libre,ese paladin libre)> del que tanto me habló Solkzagyl! Es un honor <if(gnum4,conocerla,conocerlo)> por fin, <split(<string(gstr1)>, ,1)>. Bueno, por segunda vez. Me llamo Constaint. Es un verdadero honor, <if(gnum4,señorita,señor)>. Un verdadero, verdadero honor.
+TEXT_JOBPLD520_02033_CONSTAINT_000_042	Perdone si estoy un poco fuera de mí. Es que... pensé mucho en él. En el día en que nos conocimos, cuando me salvó. En cómo brillaba su espada mientras danzaba entre los lobos...
+TEXT_JOBPLD520_02033_CONSTAINT_000_043	Le supliqué que me enseñara los caminos del paladin, para poder salvar a otros como él me había salvado a mí. Me habrá dicho que no una docena de veces antes de ceder por fin, seguramente porque me descubrió preguntando por Oathkeeper.
+TEXT_JOBPLD520_02033_CONSTAINT_000_044	Pero supongo que no me creía lo bastante fuerte para ayudarlo a recuperar la espada. ¿Por qué otra cosa se habría escabullido para desafiar a Death's Embrace mientras yo no estaba?
+TEXT_JOBPLD520_02033_CONSTAINT_000_045	Tendría que haber estado ahí, <split(<string(gstr1)>, ,1)>. ¡Tendría que haber estado ahí!
+TEXT_JOBPLD520_02033_CONSTAINT_000_046	...Decidí que voy a recuperarla. Oathkeeper, digo.
+TEXT_JOBPLD520_02033_CONSTAINT_000_047	Él dijo que yo no estaba listo para llevar este cristal, pero ¿qué otra opción tengo ahora que se fue?
+TEXT_JOBPLD520_02033_CONSTAINT_000_048	Usted también quiere encontrarla, ¿verdad? Entonces ayúdeme, <split(<string(gstr1)>, ,1)>, ¡por favor!
+TEXT_JOBPLD520_02033_CONSTAINT_000_049	¡¿Me ayudará?! ¡Alabada sea Halone! ¡No se va a arrepentir!
+TEXT_JOBPLD520_02033_CONSTAINT_000_050	¡Ay, si Solkzagyl pudiera vernos ahora! ¡Dos paladins unidos por un mismo propósito! Bueno, eh, supongo que es un poco prematuro que yo reclame el título, ¿no...?
+TEXT_JOBPLD520_02033_CONSTAINT_000_051	¡Entonces, <if(gnum4,una paladin veterana,un paladin veterano)> y un aspirante a paladin! ¡Unidos por un mismo propósito! ¡Recuperaremos Oathkeeper y llevaremos ante la justicia a los asesinos de Solkzagyl! ¡En... en cuanto descubra información nueva, claro!

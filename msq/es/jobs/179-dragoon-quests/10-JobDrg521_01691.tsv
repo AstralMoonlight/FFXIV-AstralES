@@ -1,0 +1,28 @@
+key	text
+TEXT_JOBDRG521_01691_SEQ_00	Heustienne quiere saber más de la maravillosa técnica que se te ocurrió.
+TEXT_JOBDRG521_01691_SEQ_01	Al oír hablar de tu nueva técnica, Heustienne se da cuenta de que debe dejar de lado sus ideas preconcebidas si quiere superar sus límites. Aunque le gustaría seguir con la lección, ya es tarde y sus deberes la llaman. Antes de irse, Heustienne te invita a visitar el hogar de los dragoons. Vuelve a Ishgard y reúnete con tu alumna frente a la entrada del Congregation of Our Knights Most Heavenly.
+TEXT_JOBDRG521_01691_SEQ_02	Al llegar a la entrada del Congregation, encuentras a Heustienne con su padre, Montorgains, un dragoon retirado. Después de que su padre se despide, Heustienne te habla de su pasado. Te enteras de que es huérfana de guerra y de que se hizo dragoon para honrar a su padre adoptivo. Al final del relato, Heustienne recuerda que Ser Alberic quería hablar contigo. Ve al Observatorium en cuanto puedas.
+TEXT_JOBDRG521_01691_SEQ_03	Ser Alberic te cuenta más del pasado de Heustienne. Dueña de un potencial enorme, en su momento compitió por convertirse en Azure Dragoon. Por desgracia, el Eye eligió a su rival, Estinien, y desde entonces ella entrena con un fervor que roza el autocastigo. Ser Alberic te pide que la vigiles, no sea que pierda de vista su convicción y quede vulnerable a las artimañas del enemigo.<br><br>※La siguiente misión de dragoon estará disponible con Alberic al llegar al nivel 54.
+TEXT_JOBDRG521_01691_TODO_00	Habla con Heustienne en el Congregation.
+TEXT_JOBDRG521_01691_TODO_01	Habla con Alberic en el Observatorium.
+TEXT_JOBDRG521_01691_HEUSTIENNE_000_000	...¿Una forma de sacar a relucir la fuerza de tus compañeros? Nunca se me había ocurrido algo así.
+TEXT_JOBDRG521_01691_HEUSTIENNE_000_001	Y quizá no sea raro, porque a los dragoons nos enseñan a ser implacables en el ataque. Para derribar dragones, nos esforzamos por saltar más alto y golpear más fuerte.
+TEXT_JOBDRG521_01691_HEUSTIENNE_000_002	Pero, en mi empeño obstinado por lo que creía la perfección, parece que terminé luchando solo con mi lanza. Estaba tan concentrada en dar el siguiente golpe que me volví ciega a otras posibilidades.
+TEXT_JOBDRG521_01691_HEUSTIENNE_000_003	Me abriste los ojos, <split(<string(gstr1)>, ,1)>. Si quiero superar mis límites, está claro que debo dejar de lado mis ideas preconcebidas.
+TEXT_JOBDRG521_01691_HEUSTIENNE_000_004	Ah, pero ya se hace tarde. Debo volver al Congregation. ¿Te gustaría acompañarme? Quizá te interese ver cómo viven tus compañeros dragoons.
+TEXT_JOBDRG521_01691_ALBERIC_000_009	Ten confianza, <if(gnum4,amiga mía,amigo mío)>. No me cabe duda de que serás <if(gnum4,una excelente mentora,un excelente mentor)> para Heustienne.
+TEXT_JOBDRG521_01691_HEUSTIENNE_000_010	Bienvenid<if(gnum4,a,o)> al hogar de los dragoons. Pensaba mostrarte las instalaciones, pero mi padre vino a visitarme de improviso.
+TEXT_JOBDRG521_01691_HEUSTIENNE_000_011	Este es mi padre, Montorgains. Padre, permíteme presentarte a mi <if(gnum4,mentora,mentor)>, <if(gnum4,la,el)> Azure Dragoon <split(<string(gstr1)>, ,1)>.
+TEXT_JOBDRG521_01691_MONTORGAINS_000_012	Es un honor y un placer conocerl<if(gnum4,a,o)>. Espero que me perdone por estropearle los planes, pero ¿qué va a hacer un padre? Mi hija está tan entregada a sus deberes que casi nunca viene a casa, así que tengo que venir yo a verla.
+TEXT_JOBDRG521_01691_HEUSTIENNE_000_013	Padre, por favor, ya hablamos de esto. Solo me esfuerzo por ser una dragoon digna de ese nombre, como lo fuiste tú. Todo lo que hago, lo hago para honrarte.
+TEXT_JOBDRG521_01691_MONTORGAINS_000_014	Hija mía, la mejor forma de honrarme es que te cuides. Bueno, no quiero abusar de la hospitalidad: con verte sana y fuerte me basta. Hasta la próxima.
+TEXT_JOBDRG521_01691_HEUSTIENNE_000_015	Es tan bueno conmigo, aunque no llevo su sangre... Como tantos otros, quedé huérfana por la guerra. Habría muerto hace mucho, sola y con frío, si él no me hubiera encontrado y acogido. Todo lo que tengo se lo debo a él.
+TEXT_JOBDRG521_01691_HEUSTIENNE_000_016	Seguí sus pasos y me hice dragoon por una sola razón: honrar a mi padre. Pero si quiero estar a la altura de su legado, si quiero proteger Ishgard como lo hizo él, debo hacerme más fuerte.
+TEXT_JOBDRG521_01691_HEUSTIENNE_000_017	Y lo <italic(1)>haré<italic(0)>, bajo tu sabia guía. Espero con ganas nuestras próximas lecciones.
+TEXT_JOBDRG521_01691_HEUSTIENNE_000_018	Ah, casi se me olvida: Ser Alberic quería hablar contigo. Búscalo en el Observatorium en cuanto puedas, quizá después de dar una vuelta por el Congregation.
+TEXT_JOBDRG521_01691_ALBERIC_000_020	Gracias por venir, <split(<string(gstr1)>, ,1)>. No es nada urgente: solo me preguntaba cómo avanza Heustienne. Dime, ¿cómo va su entrenamiento?
+TEXT_JOBDRG521_01691_ALBERIC_000_021	Así que conociste a su padre. En sus tiempos, Montorgains fue un dragoon de no poca fama. Sirvió a Ishgard con valor hasta que sufrió una herida grave y tuvo que colgar la lanza.
+TEXT_JOBDRG521_01691_ALBERIC_000_022	Como te contó la propia Heustienne, sigue los pasos de su padre. Desde el principio mostró un potencial enorme. Era en todo igual a Estinien, y la rivalidad entre ellos los elevó a los dos.
+TEXT_JOBDRG521_01691_ALBERIC_000_023	Por desgracia, el Eye eligió a Estinien, y no a ella. Desde entonces, entrena con un fervor que roza el autocastigo.
+TEXT_JOBDRG521_01691_ALBERIC_000_024	Está bien aspirar a mayores alturas, pero un dragoon nunca debe perder de vista su convicción. Es lo único que nos protege de las artimañas de los dragones.
+TEXT_JOBDRG521_01691_ALBERIC_000_025	Así que te lo ruego: vigila a Heustienne. Con tu ejemplo brillante, asegúrate de que nunca olvide lo que significa ser dragoon.

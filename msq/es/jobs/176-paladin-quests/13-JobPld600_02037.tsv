@@ -1,0 +1,149 @@
+key	text
+TEXT_JOBPLD600_02037_SEQ_00	Constaint parece haber sufrido una conmoción tremenda.
+TEXT_JOBPLD600_02037_SEQ_01	Hundred Eyes, amigo de Solkzagyl y de Constaint, fue atacado por una manada de lobos y quedó gravemente herido. Constaint fue a verlo hace un rato, pero lo echaron y le dijeron que te buscara justamente a ti. Ve a ver al herido y averigua qué quiere.
+TEXT_JOBPLD600_02037_SEQ_02	Resignado a morir, Hundred Eyes te pide que desentierres la tumba de Solkzagyl y le des a Constaint lo que encuentres. Mirando al moribundo, atormentado por el dolor y la culpa, piensas por un momento en exigirle una explicación, pero por ahora decides no hacerlo.
+TEXT_JOBPLD600_02037_SEQ_03	En lo profundo de la tierra fría y dura no encuentras un ataúd, sino un cofre pequeño con un gallant surcoat. Un grito de rabia te hace dar media vuelta, y te encuentras cara a cara con Constaint, que te siguió a distancia. Te explicas rápido, lo que confunde aún más al muchacho. Tras un momento, declara que Hundred Eyes le dará respuestas y se dirige a Falcon's Nest.
+TEXT_JOBPLD600_02037_SEQ_04	Por desgracia, fueran cuales fueran los motivos de Hundred Eyes, quedarán para siempre en el misterio. El artesano murió por sus heridas mientras no estabas, y a Constaint y a ti no les queda nadie a quien pedirle respuestas... salvo a Papashan, que vino a Falcon's Nest cada vez más preocupado por ustedes. Diciendo solo que tiene que hablar con Constaint, te pide que se reúnan con él en Lancegate, muy al norte, y se va.
+TEXT_JOBPLD600_02037_SEQ_05	No te sorprende mucho descubrir que Solkzagyl está vivo, cuando el antiguo capitán revela que era el hombre encapuchado que los observaba desde lo alto del risco en Camp Riversmeet. Su plan, complicado e impenetrable, era empujar a Constaint a convertirse en paladin y a buscar Oathkeeper por voluntad propia. No basta con recuperar Oathkeeper, afirma. La espada debe ganarla un paladin digno, con un cristal tan puro y poderoso que todos los demás se vean obligados a ceder. Pero cuando dos cristales no pueden reconciliarse - cuando ninguno logra imponerse -, solo queda un recurso: un duelo. Un duelo para establecer quién es de verdad digno de Oathkeeper. Aunque una parte de él cree que es una completa tontería, Constaint no está dispuesto a renunciar a sus juramentos después de haber llegado tan lejos, y tú tampoco.
+TEXT_JOBPLD600_02037_SEQ_06	Aunque pelea con valentía y convicción, Constaint claramente no es rival para ti. Pero la verdadera prueba todavía no llega. Aparece Jenlyns y acusa a Solkzagyl de haber recuperado ya Oathkeeper, y el antiguo capitán revela por fin todo su plan: devolverle la luz al soul crystal que llevó el primer capitán de los Sultansworn. Así, Solkzagyl espera infundirle a Oathkeeper la luz resplandeciente con que brillaba antes. Se pone la armadura y te exige que te enfrentes a él en combate. Y lo derrotas a él también, y tu cristal se impone sobre el suyo y el de Constaint.<br><br>Durante treinta años, como capitán de los Sultansworn, Solkzagyl se esforzó por estar a la altura del ejemplo del fundador de la orden. Durante treinta años intentó que Oathkeeper brillara, como brillaba para los legendarios capitanes de antaño. Un día lo hizo, pero solo por un instante fugaz, antes de que se la quitaran y él faltara a sus juramentos para recuperarla. Aunque no eres miembro de verdad de la orden, él cree que la espada brillará para ti. Tomas la espada de sus manos con cuidado, la alzas, y por un momento el mundo se baña de luz. Al ver otra vez su resplandor, Solkzagyl parece encontrar algo de paz.<br><br>La luz se apaga cuando le entregas la espada a Jenlyns, pero el capitán no parece decepcionado. Invita a Solkzagyl a volver a Ul'dah, y el antiguo capitán acepta, aunque solo como amigo y aliado, porque quien deja la orden la deja para siempre.
+TEXT_JOBPLD600_02037_SEQ_07	A Constaint le cuesta despedirse de Solkzagyl, pero el paladin lo corrige: sus asuntos en Falcon's Nest están lejos de terminar, y se volverán a ver pronto. Jenlyns, Papashan y Solkzagyl parten hacia Ul'dah, y Constaint y tú vuelven hacia Falcon's Nest.
+TEXT_JOBPLD600_02037_SEQ_08	Aunque todavía no hizo las paces con lo que siente por Solkzagyl, Constaint sigue con la intención de ser el mejor paladin libre que pueda. Se despide de ti, no sin antes advertirte que, si vuelven a cruzar espadas, piensa ganar.<br><br>※La siguiente misión de paladin estará disponible con Jenlyns cuando completes la misión de la historia principal "The Far Edge of Fate".
+TEXT_JOBPLD600_02037_TODO_00	Habla con el sanador de la House Durendaire.
+TEXT_JOBPLD600_02037_TODO_01	Desentierra la tumba de Solkzagyl.
+TEXT_JOBPLD600_02037_TODO_02	Habla con Constaint.
+TEXT_JOBPLD600_02037_TODO_03	Habla con Papashan.
+TEXT_JOBPLD600_02037_TODO_04	Habla con Solkzagyl.
+TEXT_JOBPLD600_02037_TODO_05	Habla con Constaint.
+TEXT_JOBPLD600_02037_TODO_06	Habla con Constaint en Falcon's Nest.
+TEXT_JOBPLD600_02037_CONSTAINT_000_000	¡Malas noticias, <split(<string(gstr1)>, ,1)>! ¡Hundred Eyes está gravemente herido! Había lobos y... y los rechazó como pudo, pero para cuando los centinelas fueron a ayudarlo...
+TEXT_JOBPLD600_02037_CONSTAINT_000_001	Fui a verlo hace un rato, pero me echó y me pidió que <if(gnum4,la,lo)> buscara a usted. Por más que lo pienso, no me imagino por qué...
+TEXT_JOBPLD600_02037_CONSTAINT_100_002	No tengo idea de qué quiere hablar con usted, pero por favor, ¡dese prisa, por él!
+TEXT_JOBPLD600_02037_DURENDAIREKNIGHT_100_010	...Haré lo que pueda para aliviar su sufrimiento.
+TEXT_JOBPLD600_02037_HUNDREDEYES_000_010	(-Hundred Eyes-)\<tos> \<resuello> Lobos. Malditos lobos...
+TEXT_JOBPLD600_02037_HUNDREDEYES_000_011	(-Hundred Eyes-)Supongo que me lo gané. \<tos> \<tos> Bueno. Es hora de saldar una última cuenta.
+TEXT_JOBPLD600_02037_HUNDREDEYES_000_012	(-Hundred Eyes-)Ve a la tumba de Solkzagyl. Desentiérrala. Toma lo que encuentres y dáselo al muchacho.
+TEXT_JOBPLD600_02037_HUNDREDEYES_000_013	(-Hundred Eyes-)No compensará lo que les hice a mis hermanos de juramento, pero quizás... ayude un poco a equilibrar la balanza.
+TEXT_JOBPLD600_02037_HUNDREDEYES_000_014	(-Hundred Eyes-)\<tos> \<resuello> Claro que lo que le hicimos al muchacho no tiene defensa, diga él lo que diga...
+TEXT_JOBPLD600_02037_DURENDAIREKNIGHT_100_015	Por favor, necesita descansar...
+TEXT_JOBPLD600_02037_SYSTEM_000_020	Varios fulms bajo la tierra fría y dura, no encuentras un ataúd, sino un cofre pequeño con un gallant surcoat...
+TEXT_JOBPLD600_02037_CONSTAINT_000_021	¡¿Qué hizo?!
+TEXT_JOBPLD600_02037_CONSTAINT_000_022	Pero... pero ¡¿cómo puede ser?! ¡¿Por qué nos mentiría Hundred Eyes?!
+TEXT_JOBPLD600_02037_CONSTAINT_000_023	¡Ese desgraciado! ¡Me va a dar respuestas! ¡Los <italic(1)>dos<italic(0)> me las van a dar!
+TEXT_JOBPLD600_02037_CONSTAINT_000_024	¡Vamos! ¡Volvemos a Falcon's Nest!
+TEXT_JOBPLD600_02037_PAPASHAN_100_025	Descansa en paz, hermano...
+TEXT_JOBPLD600_02037_DURENDAIREKNIGHT_100_026	Se fue...
+TEXT_JOBPLD600_02037_CONSTAINT_200_030	Llegamos tarde...
+TEXT_JOBPLD600_02037_PAPASHAN_000_030	Jenlyns y yo estábamos preocupados. Que haya terminado así...
+TEXT_JOBPLD600_02037_PAPASHAN_000_031	Lo siento. No se podía hacer nada más.
+TEXT_JOBPLD600_02037_CONSTAINT_000_032	Dioses... ¡maldita sea!
+TEXT_JOBPLD600_02037_PAPASHAN_000_033	...Tenemos que hablar, Constaint. Voy a Lancegate. Búscame allí.
+TEXT_JOBPLD600_02037_CONSTAINT_000_034	¿Para qué fue todo esto...?
+TEXT_JOBPLD600_02037_CONSTAINT_100_035	Aquí estamos...
+TEXT_JOBPLD600_02037_PAPASHAN_000_040	Mi compañero quiere darles una explicación.
+TEXT_JOBPLD600_02037_CONSTAINT_000_041	¡¿Por qué las mentiras, Solkzagyl?! ¡¿Todo esto fue solo un juego para usted?!
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_042	Tenía mis motivos, como pronto sabrás-
+TEXT_JOBPLD600_02037_PAPASHAN_000_043	Qué forma tan rara de pedir perdón, Solkzagyl. Te sugiero que lo intentes de nuevo.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_044	...Siento haberte engañado, Constaint.
+TEXT_JOBPLD600_02037_CONSTAINT_000_045	Fingir su muerte, montar todo un escenario para que yo encontrara su armadura...
+TEXT_JOBPLD600_02037_CONSTAINT_000_046	Para ser sincero, estoy tan asombrado como ofendido. ¿Cómo pudo orquestarlo todo tan a la perfección?
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_047	No importa cómo lo hice. Lo que importa es <italic(1)>por qué<italic(0)> lo hice.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_048	Oathkeeper no es más que una espada, Constaint. Los verdaderos juramentos no se forjan en acero: se juran en el corazón.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_049	No basta con recuperar la espada. Debe ganarla un paladin digno. Solo entonces ella - y nuestra orden - recuperarán su antigua gloria.
+TEXT_JOBPLD600_02037_CONSTAINT_000_050	No entiendo. ¿Por qué no me enseñó los caminos y ya, como dijo que haría?
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_051	Un sultán puede mover a un hombre. Un maestro puede instruir a su alumno. Pero solo cuando el alumno se mueve por sí mismo puede convertirse en paladin.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_052	...Dicho esto, no conté con la intervención de <split(<string(gstr1)>, ,1)>.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_053	Maestro Papashan, como hablamos.
+TEXT_JOBPLD600_02037_PAPASHAN_000_054	...Muy bien.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_060	Los cristales que llevamos los paladins son la encarnación de nuestra voluntad.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_061	Al cumplir nuestros juramentos, se vuelven más fuertes, más dominantes.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_062	Ante un cristal especialmente puro, los demás pueden verse obligados a ceder...
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_063	Pero cuando dos cristales no pueden reconciliarse - cuando ninguno logra imponerse -, puede ser un desastre.
+TEXT_JOBPLD600_02037_CONSTAINT_000_064	...Eso suena terriblemente inconveniente.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_065	Ah, no tienes idea. A medida que crece la discordancia entre dos cristales, el aether se acumula y los cristales se vuelven inestables.
+TEXT_JOBPLD600_02037_PAPASHAN_000_066	Sí, sus cristales parecían a punto de estallar de aether.
+TEXT_JOBPLD600_02037_PAPASHAN_000_067	Espera. No querrás decir que sus cristales se van a destruir, ¿no?
+TEXT_JOBPLD600_02037_CONSTAINT_000_068	¡Por la Fury! ¡¿Cómo lo detenemos?!
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_069	Peleando. Sus cristales lo exigen.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_070	Ustedes dos no pueden coexistir así. Uno debe imponerse.
+TEXT_JOBPLD600_02037_CONSTAINT_000_071	...Es lo más estúpido que oí en mi vida.
+TEXT_JOBPLD600_02037_CONSTAINT_000_072	¡Somos paladins! ¡Defensores de los débiles y necesitados! ¡¿Qué locura es esta de tener que enfrentarnos en combate?!
+TEXT_JOBPLD600_02037_CONSTAINT_000_073	Pero... si de verdad no hay otra forma...
+TEXT_JOBPLD600_02037_CONSTAINT_000_074	¡No voy a renunciar a mis juramentos! ¡Me convertiré en el paladin que estoy destinado a ser! ¡Y si eso significa que tenemos que pelear, que así sea!
+TEXT_JOBPLD600_02037_CONSTAINT_100_075	Yo... estoy listo.
+TEXT_JOBPLD600_02037_PAPASHAN_100_076	Bueno, supongo que tendremos que creerle a Solkzagyl.
+TEXT_JOBPLD600_02037_CONSTAINT_000_080	¡En guardia, <if(gnum4,hermana,hermano)>!
+TEXT_JOBPLD600_02037_CONSTAINT_000_090	¿De verdad soy tan débil...?
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_091	No, Constaint. Nada más lejos de la verdad. Peleaste con honor y con propósito. No te avergüences.
+TEXT_JOBPLD600_02037_CONSTAINT_000_092	Solkzagyl...
+TEXT_JOBPLD600_02037_JENLYNS_000_093	(-???-)Impresionante. Realmente impresionante. Intrigas y engaños que dejarían en ridículo a Lord Lolorito.
+TEXT_JOBPLD600_02037_JENLYNS_000_094	Cuénteles la verdad, Solkzagyl. Toda la verdad.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_095	Lo descubriste, ¿eh?
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_096	¿Todavía tienes el cristal que te dejé en los Hundred Throes?
+TEXT_JOBPLD600_02037_CONSTAINT_000_097	¿Qué? Ah, sí. Aquí está.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_098	Este cristal perteneció al primer capitán de los Sultansworn, el primer paladin que empuñó Oathkeeper.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_099	Una vez brilló con una luz resplandeciente, igual que Oathkeeper. Pero ahora los dos perdieron su brillo...
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_100	¡Sí, tengo la espada! ¡Y todo lo que hice - todo lo que les hice hacer - fue con el único propósito de hacerla brillar otra vez!
+TEXT_JOBPLD600_02037_JENLYNS_000_101	Claro. ¡Es tan simple!<br>...Espere, no, no lo es. Es innecesariamente complicado.
+TEXT_JOBPLD600_02037_JENLYNS_000_102	¿Y su cristal, el que le dio a <split(<string(gstr1)>, ,1)> cuando se conocieron? Todavía lo tengo, Solkzagyl. ¡Tómelo y devuélvale a Oathkeeper su luz con el suyo!
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_103	...Un hombre que dejó los Sultansworn no puede volver. Mi cristal ya no basta.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_104	Lo único que puedo hacer es mostrarle el camino a otro, y pedirle que haga lo mismo por sus hermanos y hermanas.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_105	Pero <if(gnum4,ella,él)> todavía no está por encima de todos los demás...
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_106	No hasta que me venza. Desenvaine su espada, <split(<string(gstr1)>, ,1)>. Llegó la hora.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_110	Por fin... un paladin... que puede hacerla brillar otra vez...
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_111	Contemplen Oathkeeper. Otorgada al primer capitán de los Sultansworn. Robada bajo mi guardia por los secuaces de los Monetarists.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_112	Durante años intenté recuperarla, redimirme por mi fracaso...
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_113	"Un paladin jura lealtad al sultanato."<br>"Un paladin será la espada y el escudo del sultanato."<br>"Un paladin defiende al pueblo del reino."
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_114	Treinta años aspiré a esos ideales. Treinta años intenté estar a la altura del ejemplo de nuestro fundador, tan venerado que su propio soul crystal se engastó en el pomo de Oathkeeper.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_115	Para aquellos legendarios capitanes de antaño, la espada resplandecía con tal brillo que la noche se volvía día...
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_116	Pero en los treinta años que la llevé, brilló para mí una sola vez.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_117	Eso fue antes de que me la quitaran. Antes de que faltara a mis juramentos para poder recuperarla.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_118	<split(<string(gstr1)>, ,1)>. En todas sus pruebas y penurias, siguió siendo fiel a sí <if(gnum4,misma,mismo)> y a Eorzea.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_119	Sigue siendo una inspiración para todos nosotros.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_120	Venga, tome Oathkeeper. ¡Álcela y deje que brille como un faro para todos!
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_121	...Usted siempre fue mi primera opción, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_122	Constaint era un incentivo. Una motivación. Aunque, al final, demostró ser mucho más.
+TEXT_JOBPLD600_02037_CONSTAINT_000_130	...Es usted un verdadero desgraciado, ¿lo sabía? Hacer todo esto solo para que brille una maldita espada.
+TEXT_JOBPLD600_02037_CONSTAINT_000_131	Alabada sea Halone por haber encontrado <if(gnum4,una mentora,un mentor)> como se debe en <split(<string(gstr1)>, ,1)>.
+TEXT_JOBPLD600_02037_CONSTAINT_000_132	Bueno, quizás no sea el elegido, pero sigo siendo un paladin libre...
+TEXT_JOBPLD600_02037_CONSTAINT_000_133	Ese es el camino que elegí para mí, y en él me quedaré.
+TEXT_JOBPLD600_02037_PAPASHAN_000_140	Bien dicho. No estaría bien que te desanimaras tan fácil.
+TEXT_JOBPLD600_02037_PAPASHAN_000_141	Jenlyns, dejo los asuntos de aquí en tus capaces manos.
+TEXT_JOBPLD600_02037_JENLYNS_000_150	Lo volvió a hacer, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBPLD600_02037_JENLYNS_000_151	Quizás Oathkeeper no brille para mí como brilló para usted, pero tal vez, con el tiempo, lo haga.
+TEXT_JOBPLD600_02037_JENLYNS_000_152	Y aunque no lo haga, no perderé el ánimo, porque la virtud de un paladin no está en el resplandor de su espada, sino en la rectitud de sus actos.
+TEXT_JOBPLD600_02037_JENLYNS_000_153	Por lo que decidamos hacer cada día, seremos buenos hombres. O no.
+TEXT_JOBPLD600_02037_JENLYNS_000_154	Solkzagyl. Oathkeeper volvió a los Sultansworn. ¿No volverá usted también con nosotros?
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_160	...Como amigo y aliado quizás, pero no como hermano.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_161	Algunos lazos, una vez rotos, no se pueden reparar.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_162	Le doy las gracias, <split(<string(gstr1)>, ,1)>, por todo lo que hizo.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_163	Je, qué raro que tengamos que recurrir a un paladin libre, y no a uno de los nuestros, para que nos muestre el camino.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_164	Aunque supongo que no es la primera vez, ¿verdad...?
+TEXT_JOBPLD600_02037_SOLKZAGYL_100_165	...Si todavía piensa preguntarme cómo lo planeé todo, no lo haga. No me lo creería de todos modos.
+TEXT_JOBPLD600_02037_JENLYNS_100_166	Parece que algunas preguntas no están hechas para responderse, y simplemente tenemos que aceptarlo.
+TEXT_JOBPLD600_02037_PAPASHAN_100_167	Tengo que decir que lo pensé un poco y no veo cómo pudo él... Ah, olvídalo.
+TEXT_JOBPLD600_02037_CONSTAINT_000_170	¿Así que eso es todo? ¿Se va?
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_171	Ul'dah me llama y, además, ya no me queda nada que enseñarte.
+TEXT_JOBPLD600_02037_CONSTAINT_000_172	Entonces le deseo buen viaje, y rezo para que encuentre la felicidad allá.
+TEXT_JOBPLD600_02037_SOLKZAGYL_000_173	Voy a volver, ¿sabes? Hay muchísimo trabajo por hacer en Falcon's Nest, y le hice una promesa a Hundred Eyes...
+TEXT_JOBPLD600_02037_CONSTAINT_000_174	¡Ah! ¡Entonces nos vemos cuando vuelva!
+TEXT_JOBPLD600_02037_CONSTAINT_000_175	Nosotros también deberíamos volver, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBPLD600_02037_CONSTAINT_000_180	Todavía no tengo muy claro para qué fue todo, pero parece que terminó bastante bien.
+TEXT_JOBPLD600_02037_CONSTAINT_000_181	Supongo que usted debería volver a sus grandes aventuras, y yo a mi paladineo, o como sea que se llame.
+TEXT_JOBPLD600_02037_CONSTAINT_000_182	Bueno, entonces. ¡Fue un placer, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBPLD600_02037_CONSTAINT_000_183	Ah, pero le advierto: ¡la próxima vez que crucemos espadas, pienso ganar! ¡Que le vaya bien!
+TEXT_JOBPLD600_02037_SYSTEM_000_500	Aquí terminan las misiones de paladin de FINAL FANTASY XIV: Heavensward. Para empezar la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:
+TEXT_JOBPLD600_02037_SYSTEM_000_501	※Haber completado la misión de la historia principal "The Far Edge of Fate".
+TEXT_JOBPLD600_02037_SYSTEM_000_502	Una vez cumplidos, la siguiente misión de paladin estará disponible con Jenlyns.
+TEXT_JOBPLD600_02037_QIB_001_TODO_1	¡Derrota a Constaint!
+TEXT_JOBPLD600_02037_QIB_001_TODO_2	¡Derrota a Solkzagyl!
+TEXT_JOBPLD600_02037_QIB_CONSTAINT_BATTLETALK_01	¡Solo puede quedar uno, <split(<string(gstr1)>, ,1)>! ¡Enfrénteme!
+TEXT_JOBPLD600_02037_QIB_CONSTAINT_BATTLETALK_02	Cla... claro. Sabía que no sería fácil...
+TEXT_JOBPLD600_02037_QIB_CONSTAINT_BATTLETALK_03	¡No, no! ¡No me rendiré!
+TEXT_JOBPLD600_02037_QIB_CONSTAINT_BATTLETALK_04	Un paladin debe ser... valiente frente... frente a...
+TEXT_JOBPLD600_02037_QIB_SOLKIZAGIL_BATTLETALK_01	¡Vamos, paladin! ¡Muéstreme el temple de su corazón y el acero de su espada!
+TEXT_JOBPLD600_02037_QIB_SOLKIZAGIL_BATTLETALK_02	¡Sí, pelee y luche! ¡No se guarde nada!
+TEXT_JOBPLD600_02037_QIB_SOLKIZAGIL_BATTLETALK_03	¡Bien, bien! ¡Pero no será suficiente!
+TEXT_JOBPLD600_02037_QIB_SOLKIZAGIL_BATTLETALK_04	¡¿Tiene la fuerza para superar esto?!
+TEXT_JOBPLD600_02037_QIB_SOLKIZAGIL_BATTLETALK_05	¡Una actuación digna del Warrior of Light!
+TEXT_JOBPLD600_02037_QIB_SOLKIZAGIL_BATTLETALK_06	¡Todavía no, <split(<string(gstr1)>, ,1)>! ¡Todavía no terminamos!
+TEXT_JOBPLD600_02037_QIB_SOLKIZAGIL_BATTLETALK_07	¡Síííí! ¡SÍÍÍÍ!

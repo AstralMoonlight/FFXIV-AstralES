@@ -1,0 +1,55 @@
+key	text
+TEXT_JOBDRG560_01693_SEQ_00	Ser Alberic consiguió una pista sobre el paradero de Heustienne.
+TEXT_JOBDRG560_01693_SEQ_01	Ser Alberic recibió un informe según el cual hace poco vieron la lanza de Heustienne, Peregrine, en manos de un hereje. Aunque no está claro cómo llegó el arma a esos villanos, es casi seguro que saben qué fue de Heustienne, y Ser Alberic está decidido a dar con ellos. Un regimiento de Temple Knights sigue ahora mismo el rastro de esos mismos herejes. Ve a la zona al oeste de Camp Riversmeet, en Coerthas Western Highlands, y únete a la cacería.
+TEXT_JOBDRG560_01693_SEQ_02	Al oeste de Camp Riversmeet, te encuentras con un Temple Knight que te informa que los herejes se retiraron hacia el sur, en dirección al Swiftrun River. Únete a los caballeros en su cacería y recorre la zona en busca de Heustienne.
+TEXT_JOBDRG560_01693_SEQ_03	Encuentras a Heustienne y la liberas de sus captores herejes, pero ella se niega a volver a Ishgard y no quiere explicar por qué. Te pide que alertes a los Temple Knights de una ofensiva hereje inminente, y además que les mientas a su padre y a sus camaradas sobre su supervivencia. Vuelve al Congregation of Our Knights Most Heavenly, en Ishgard, y entrégale el mensaje de Heustienne a Handeloup.
+TEXT_JOBDRG560_01693_SEQ_04	Handeloup recibe con incredulidad la noticia de la muerte de Heustienne. Ahora ve al Observatorium y dale la trágica noticia a Montorgains.
+TEXT_JOBDRG560_01693_SEQ_05	Pese a tu promesa, no puedes evitar revelarle la verdad a Montorgains, y la búsqueda de Heustienne continúa. Aunque algunos podrían ver su inexplicable desaparición como una deserción, todos los presentes están convencidos de que ella no abandonaría a su nación ni sus votos. Ser Alberic sospecha que Heustienne piensa ir tras Graoully y recuperar Peregrine. Mientras él sigue el rastro del líder de los herejes, te pide que sigas dedicándote a tu técnica de lanza para estar mejor <if(gnum4,preparada,preparado)> para las pruebas que vendrán.<br><br>※La siguiente misión de dragoon estará disponible con Alberic al llegar al nivel 58.
+TEXT_JOBDRG560_01693_TODO_00	Habla con el Temple Knight al oeste de Camp Riversmeet.
+TEXT_JOBDRG560_01693_TODO_01	Busca a Heustienne.
+TEXT_JOBDRG560_01693_TODO_02	Habla con Handeloup en el Congregation.
+TEXT_JOBDRG560_01693_TODO_03	Habla con Montorgains en el Observatorium.
+TEXT_JOBDRG560_01693_ALBERIC_000_000	Parece que tu entrenamiento avanza a buen ritmo, <split(<string(gstr1)>, ,1)>. Ojalá pudiera decir lo mismo de nuestra búsqueda de Heustienne...
+TEXT_JOBDRG560_01693_ALBERIC_000_001	Con la actividad de los herejes en aumento últimamente, nuestras fuerzas están al límite; a los Temple Knights no les sobran hombres para la búsqueda. Aun así, no nos faltan pistas.
+TEXT_JOBDRG560_01693_ALBERIC_000_002	Hace un rato llegó un informe curioso del frente. En una escaramuza reciente entre nuestros caballeros y una banda de herejes, uno de los enemigos blandía una lanza que se parecía muchísimo a Peregrine.
+TEXT_JOBDRG560_01693_ALBERIC_000_003	Esa lanza es un tesoro de la familia de Heustienne. Si los informes son ciertos, ahora la tienen esos herejes.
+TEXT_JOBDRG560_01693_ALBERIC_000_004	Sea como sea que los villanos se hicieron con Peregrine, lo más probable es que sepan algo de lo que le pasó a Heustienne. Si los encontramos a <italic(1)>ellos<italic(0)>, quizá la encontremos a ella.
+TEXT_JOBDRG560_01693_ALBERIC_000_005	Al oeste de Camp Riversmeet, en Coerthas Western Highlands, un regimiento de caballeros persigue a esa misma banda de herejes que buscamos. Quisiera que te unieras a ellos, <split(<string(gstr1)>, ,1)>: es nuestra mejor esperanza de encontrar una pista.
+TEXT_JOBDRG560_01693_ALBERIC_000_009	Ruego que esta información nos lleve hasta Heustienne...
+TEXT_JOBDRG560_01693_KISHI01693_000_010	Ser Alberic nos avisó que vendría. Los herejes se retiraron por aquel paso, y entre ellos va el hombre de la lanza Peregrine.
+TEXT_JOBDRG560_01693_KISHI01693_000_011	Nuestras fuerzas los persiguen en este mismo momento. Ni hace falta decir que agradeceríamos que <if(gnum4,la,el)> Azure Dragoon nos ayudara.
+TEXT_JOBDRG560_01693_KISHI01693_000_019	Los herejes se retiraron por aquel paso, y entre ellos va el hombre de la lanza Peregrine. Nuestras fuerzas los persiguen en este mismo momento. Le agradeceríamos su ayuda.
+TEXT_JOBDRG560_01693_HEUSTIENNE_000_020	Últimamente me encuentro dándote las gracias a menudo, <split(<string(gstr1)>, ,1)>... Cuando salté sobre Graoully y le atravesé el cuero, la criatura respondió elevándose e intentando sacudirme. Lo único que pude hacer fue aferrarme al asta de mi lanza.
+TEXT_JOBDRG560_01693_HEUSTIENNE_000_021	Habíamos subido tanto que no podía bajarme a salvo. Así que esperé mi momento, aguardando la ocasión justa para saltar de mi montura involuntaria.
+TEXT_JOBDRG560_01693_HEUSTIENNE_000_022	Por desgracia, la bestia tenía otros planes. Me llevó directo al medio de los herejes, y enseguida me superaron y me quitaron el arma.
+TEXT_JOBDRG560_01693_HEUSTIENNE_000_023	¿Qué? ¿Te trajo hasta aquí que alguien viera a Peregrine? Parece que mis antepasados velan por mí.
+TEXT_JOBDRG560_01693_HEUSTIENNE_000_024	Escúchame, <split(<string(gstr1)>, ,1)>. El hombre que se llevó mi lanza es el líder de esta banda de herejes.
+TEXT_JOBDRG560_01693_HEUSTIENNE_000_025	Oí decir a los guardias que partió a reunirse con el líder de otro grupo. Lo más probable es que estén tramando un ataque a gran escala contra la Holy See.
+TEXT_JOBDRG560_01693_HEUSTIENNE_000_026	Hay que avisar a los Temple Knights. Debes llevar la noticia al Congregation, para que reforcemos nuestras defensas.
+TEXT_JOBDRG560_01693_HEUSTIENNE_000_027	No. No puedo volver contigo. Hay una tarea de la que debo ocuparme.
+TEXT_JOBDRG560_01693_HEUSTIENNE_000_029	Si alguien pregunta de dónde salió esta información, diles que se la sacaste a un hereje. Y diles que yo... que caí en batalla.
+TEXT_JOBDRG560_01693_HEUSTIENNE_000_030	Sé muy bien que te pido mucho, y me duele engañar a mi padre, pero no tengo otra opción. Pienses lo que pienses de mi pedido, créeme cuando te digo que sigo firme en mi propósito.
+TEXT_JOBDRG560_01693_HEUSTIENNE_000_031	Ugh... No es nada. Solo recibí un golpe de refilón en el pecho.
+TEXT_JOBDRG560_01693_HEUSTIENNE_000_032	Ahora debo irme, y tú también. Cuando vuelvas al Congregation, dale mi mensaje a Ser Handeloup. Por favor, cuida a mis camaradas... y a mi padre.
+TEXT_JOBDRG560_01693_HANDELOUP_000_040	¿Heustienne... muerta? No puedo creerlo... Perder a una de nuestras mejores mientras la sombra de Graoully todavía se cierne sobre nosotros...
+TEXT_JOBDRG560_01693_HANDELOUP_100_040	Pero debemos enfrentar cada amenaza a su tiempo. Primero, nos prepararemos para los herejes. Le agradezco que nos haya alertado de su plan.
+TEXT_JOBDRG560_01693_HANDELOUP_000_041	Bien, aunque me pesa ponerle esta carga, hay que informarle a Montorgains de la muerte de su hija. Fue a reunirse con Ser Alberic en el Observatorium. Por favor, llévele la noticia.
+TEXT_JOBDRG560_01693_HANDELOUP_000_045	Aunque me pesa ponerle esta carga, hay que informarle a Montorgains de la muerte de su hija. Fue a reunirse con Ser Alberic en el Observatorium. Por favor, llévele la noticia.
+TEXT_JOBDRG560_01693_MONTORGAINS_100_050	Ah, <if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,1)>. ¿Averiguó algo sobre el paradero de mi hija?
+TEXT_JOBDRG560_01693_MONTORGAINS_000_050	¿Qué? ¿M-muerta? No... No puede ser...
+TEXT_JOBDRG560_01693_ALBERIC_000_051	Lo siento, amigo mío...
+TEXT_JOBDRG560_01693_MONTORGAINS_000_052	¡Heustienne es una de las mejores dragoons de Ishgard! ¡<italic(1)>No<italic(0)> caería ante unos herejes cualquiera! ¡Tiene que ser un error! ¡S-sí, un error terrible!
+TEXT_JOBDRG560_01693_Q1_000_000	¿Qué vas a hacer?
+TEXT_JOBDRG560_01693_A1_000_001	Decirle la verdad a Montorgains.
+TEXT_JOBDRG560_01693_A1_000_002	Guardar silencio.
+TEXT_JOBDRG560_01693_MONTORGAINS_000_053	¿¡Por qué no dice nada!? ¿¡Me está ocultando algo!?
+TEXT_JOBDRG560_01693_MONTORGAINS_000_054	...Sí, ¿verdad? Lo lleva escrito en la cara.
+TEXT_JOBDRG560_01693_MONTORGAINS_000_055	¡Por favor, necesito saber qué fue de mi hija! Quizá quiera ahorrarme el dolor, ¡pero necesito saber la verdad!
+TEXT_JOBDRG560_01693_MONTORGAINS_000_056	¿Qué? ¿Heustienne <italic(1)>decidió<italic(0)> no volver?
+TEXT_JOBDRG560_01693_MONTORGAINS_000_057	No sé qué la llevó a actuar así, pero me basta con saber que sigue viva. Gracias por darme al menos esta esperanza.
+TEXT_JOBDRG560_01693_ALBERIC_000_058	A quien no la conozca, bien podría parecerle que Heustienne desertó. Pero creo que hablo por todos si digo que ella no abandonaría sus votos, y menos aún a su pueblo.
+TEXT_JOBDRG560_01693_MONTORGAINS_000_059	Así es, Ser Alberic. Por inexplicables que parezcan los actos de mi hija, no dejaré de creer en ella. Cueste lo que cueste, la encontraré y la traeré a casa.
+TEXT_JOBDRG560_01693_ALBERIC_000_060	Montorgains pone buena cara, pero me temo que el peso de la preocupación pueda ser demasiado para él: un motivo más para encontrar cuanto antes a Heustienne.
+TEXT_JOBDRG560_01693_ALBERIC_000_061	Bien, parece claro que piensa ir tras Graoully y recuperar Peregrine. Y aunque esos objetivos por sí solos no explican su decisión de irse, nos revelan dónde es probable que esté.
+TEXT_JOBDRG560_01693_ALBERIC_000_062	Yo seguiré el rastro del líder de los herejes, el hombre que tiene Peregrine. Tú, mientras tanto, debes seguir dedicándote a tu técnica de lanza.
+TEXT_JOBDRG560_01693_ALBERIC_000_063	Las pruebas de estos días te hicieron más fuerte, pero presiento que las mayores pruebas aún están por venir. Asegúrate de estar <if(gnum4,lista,listo)> para enfrentarlas.

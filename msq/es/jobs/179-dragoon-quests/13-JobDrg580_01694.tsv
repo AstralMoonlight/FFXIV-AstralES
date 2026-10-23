@@ -1,0 +1,55 @@
+key	text
+TEXT_JOBDRG580_01694_SEQ_00	Ser Alberic consiguió información sobre los herejes que buscan.
+TEXT_JOBDRG580_01694_SEQ_01	Ser Alberic averiguó quiénes son los herejes. Se hacen llamar los Bloodbearers y sellaron un pacto con Graoully que les da sangre de dragón en abundancia, lo que los vuelve enemigos peligrosísimos. Según la fuente de Ser Alberic, a los Bloodbearers los vieron hace poco en el Chocobo Forest. Si su instinto no le falla y Heustienne piensa recuperar su lanza Peregrine, sin duda irá tras ellos, y eso te dará la oportunidad de reencontrarte con ella. Ve a Dravanian Forelands y reúnete con Ser Alberic en Tailfeather.
+TEXT_JOBDRG580_01694_SEQ_02	Según los lugareños, unos mercaderes extraños frecuentan Tailfeather y compran cantidades enormes de mercancías. Ser Alberic está convencido de que son los Bloodbearers, que vienen a reabastecerse. Te pide que lo ayudes a buscar a esos supuestos mercaderes por la zona. Si ves a alguien sospechoso, enfréntalo y observa cómo reacciona.
+TEXT_JOBDRG580_01694_SEQ_03	El mercader al que te acercas resulta ser un hereje, y tienes que defenderte. Al registrar el cuerpo del hombre, encuentras un extraño trozo de pergamino. Vuelve con Ser Alberic para que lo examine.
+TEXT_JOBDRG580_01694_SEQ_04	El trozo de pergamino lleva un mensaje cifrado al estilo que prefieren los herejes, pero por suerte Ser Alberic logra descifrarlo. Parece que habrá algún tipo de reunión en una zona del bosque al sur de Tailfeather. Ve allí y presencia lo que sea que vaya a ocurrir.
+TEXT_JOBDRG580_01694_SEQ_05	Al llegar al lugar de la reunión, encuentras a Heustienne de rodillas pero viva, rodeada de los cadáveres de varios herejes. Tal como predijo Ser Alberic, vino a recuperar su lanza. Pero, aunque lo logró, se niega a volver contigo a Ishgard. Ante la insistencia de Ser Alberic, por fin revela el motivo de sus actos: cuando era prisionera de los herejes, la obligaron a beber sangre de dragón, y ya se transformó en dragón una vez. Resignada a que la inquisición la juzgue como hereje, declara que piensa ir tras Graoully, y Ser Alberic no encuentra palabras para hacerla cambiar de idea. Por ahora, reúnete con Ser Alberic en el Observatorium.
+TEXT_JOBDRG580_01694_SEQ_06	Ser Alberic cree que Heustienne tiene posibilidades contra Graoully si logra dominar el poder del dragón que amenaza con consumirla. Te pide que retomes tu entrenamiento sin olvidar nunca tu propósito, para que estés <if(gnum4,lista,listo)> para acompañar a Heustienne en su prueba suprema.<br><br>※La siguiente misión de dragoon estará disponible con Alberic al llegar al nivel 60.
+TEXT_JOBDRG580_01694_TODO_00	Habla con Alberic en Tailfeather.
+TEXT_JOBDRG580_01694_TODO_01	Habla con el mercader sospechoso en Tailfeather.
+TEXT_JOBDRG580_01694_TODO_02	Muéstrale el trozo de pergamino a Alberic.
+TEXT_JOBDRG580_01694_TODO_03	Explora el punto de reunión indicado al sur de Tailfeather.
+TEXT_JOBDRG580_01694_TODO_04	Habla con Alberic en el Observatorium.
+TEXT_JOBDRG580_01694_ALBERIC_000_000	Llegas en buen momento, <if(gnum4,amiga mía,amigo mío)>. Tengo noticias sobre los herejes que perseguimos.
+TEXT_JOBDRG580_01694_ALBERIC_000_001	Se hacen llamar los Bloodbearers, y su líder es un hombre llamado Matheonien. Él y sus secuaces pueden tomar forma de dragón.
+TEXT_JOBDRG580_01694_ALBERIC_000_002	Esa transformación es posible si se bebe sangre de dragón (me atrevería a decir que ya lo presenciaste), y le da a quien la bebe una fuerza impía.
+TEXT_JOBDRG580_01694_ALBERIC_000_003	Aunque esa sangre es valiosa, los Bloodbearers tienen un suministro abundante gracias a su pacto con Graoully. Por eso han podido oponer una resistencia tan feroz a nuestras fuerzas.
+TEXT_JOBDRG580_01694_ALBERIC_000_004	Bien, mis fuentes me dicen que vieron a los Bloodbearers en el Chocobo Forest. Si Heustienne piensa recuperar Peregrine, como creo, allí es adonde irá, y allí debemos ir nosotros.
+TEXT_JOBDRG580_01694_ALBERIC_000_005	Por favor, reúnete conmigo en Tailfeather. Empezaremos haciendo averiguaciones por el poblado.
+TEXT_JOBDRG580_01694_ALBERIC_000_009	Ruego que podamos traer a Heustienne a casa...
+TEXT_JOBDRG580_01694_ALBERIC_000_010	Me tomé la libertad de hablar con algunos lugareños antes de que llegaras.
+TEXT_JOBDRG580_01694_ALBERIC_000_011	Dicen que unos mercaderes extraños compran mercancías en cantidades enormes. Me parece que los Bloodbearers se están reabasteciendo.
+TEXT_JOBDRG580_01694_ALBERIC_000_012	Separémonos y busquemos a esos supuestos mercaderes por la zona. Si alguien te parece sospechoso, enfréntalo y observa cómo reacciona.
+TEXT_JOBDRG580_01694_ITANSHA01694_000_020	...¿¡Uno de los perros de la Holy See!? ¡No me vas a atrapar con vida!
+TEXT_JOBDRG580_01694_ALBERIC_000_030	El único sospechoso al que me acerqué era un honesto criador de chocobos. ¿Cómo te fue en tu búsqueda?
+TEXT_JOBDRG580_01694_ALBERIC_000_031	¡Te atacó un falso mercader! Y dices que encontraste este trozo de pergamino en el hombre... Hmmm, lleva un mensaje cifrado al estilo que prefieren los herejes. Por suerte, lo conozco bien.
+TEXT_JOBDRG580_01694_ALBERIC_000_032	Habrá una reunión un poco al sur de aquí. Vamos allá de inmediato.
+TEXT_JOBDRG580_01694_ALBERIC_000_040	Gracias a la Fury, no llegamos tarde.
+TEXT_JOBDRG580_01694_HEUSTIENNE_000_040	<split(<string(gstr1)>, ,1)>... ¿Por qué estás aquí? ¿Por qué está aquí Ser Alberic?
+TEXT_JOBDRG580_01694_ALBERIC_000_041	Quédate tranquila: tu secreto está a salvo con nosotros. Además de nosotros, solo lo sabe tu padre; <split(<string(gstr1)>, ,1)> no soportaba verlo sufrir tanto.<br>...¿Qué te pasa?
+TEXT_JOBDRG580_01694_HEUSTIENNE_000_042	Estoy bien... Ya pasará... Bien, sospecho que fue Matheonien quien los trajo hasta aquí. Como ven, él y sus Bloodbearers ya no volverán a molestar a la Holy See.
+TEXT_JOBDRG580_01694_ALBERIC_000_043	Aun en el exilio que tú misma elegiste, piensas en el deber... Pero ahora que recuperaste Peregrine, ya no hace falta seguir con el engaño. Vuelve con nosotros a Ishgard: tu familia y tus camaradas te necesitan.
+TEXT_JOBDRG580_01694_HEUSTIENNE_000_044	Lo siento, pero no puedo. No puedo volver a Ishgard nunca más.
+TEXT_JOBDRG580_01694_ALBERIC_000_045	¿¡Por qué!? ¿¡Qué te pasó!? ¡La Heustienne que conozco <italic(1)>jamás<italic(0)> abandonaría a su pueblo! ¡<italic(1)>Jamás<italic(0)> le daría la espalda a su nación!
+TEXT_JOBDRG580_01694_HEUSTIENNE_000_046	¡Por favor, entiéndanlo! Deseo con todo mi corazón volver a casa, ¡pero no tengo opción!
+TEXT_JOBDRG580_01694_HEUSTIENNE_000_047	¡Bebí sangre de dragón! ¡Cuando los herejes me tenían cautiva, me hicieron tragar esa sustancia repugnante!
+TEXT_JOBDRG580_01694_ALBERIC_000_048	Que Halone se apiade... E-entonces tú...
+TEXT_JOBDRG580_01694_HEUSTIENNE_000_049	Sí... Ya me transformé... Si pusiera un pie en Ishgard, me acusarían de herejía de la peor clase.
+TEXT_JOBDRG580_01694_HEUSTIENNE_000_050	Si solo tuviera que sufrir yo, que así fuera. Pero sabe tan bien como yo cómo trabaja la inquisición. Si me declaran hereje, lo más probable es que las sospechas caigan también sobre mis padres. No permitiré que eso pase.
+TEXT_JOBDRG580_01694_ALBERIC_000_051	Comprendo muy bien tu situación, pero ¿qué piensas hacer? ¡No puedes querer tirar tu vida por la borda!
+TEXT_JOBDRG580_01694_HEUSTIENNE_000_052	¡Ni lo piense! ¡Le debo la vida a mi padre! ¡Si tengo que morir, no será en vano!
+TEXT_JOBDRG580_01694_HEUSTIENNE_000_053	Como nos mostró <split(<string(gstr1)>, ,1)>, un dragoon no necesita estandartes para hacer lo correcto. Y sé muy bien lo que debo hacer.
+TEXT_JOBDRG580_01694_HEUSTIENNE_000_054	¡Por mi lanza, juro dar caza a Graoully y poner fin a su reinado de terror!
+TEXT_JOBDRG580_01694_HEUSTIENNE_000_055	Gracias, <split(<string(gstr1)>, ,1)>. Por mostrarme el camino que debo seguir. Por ayudarme a aceptar mi destino.
+TEXT_JOBDRG580_01694_HEUSTIENNE_000_056	Ya te lo pedí una vez, pero te lo vuelvo a pedir: por favor, cuida a mis camaradas y a mi padre.
+TEXT_JOBDRG580_01694_ALBERIC_000_057	Por más que busqué, no encontré palabras para detenerla... Por ahora, volvamos al Observatorium.
+TEXT_JOBDRG580_01694_ALBERIC_000_060	De regreso, recordé unas palabras que Heustienne me dijo una vez.
+TEXT_JOBDRG580_01694_ALBERIC_000_061	"Mi valía se mide por los dragones que mato".
+TEXT_JOBDRG580_01694_ALBERIC_000_062	Convertirse en aquello mismo que juró combatir... Solo puedo imaginar la tormenta que debe de estar desatándose en su interior.
+TEXT_JOBDRG580_01694_ALBERIC_000_063	Pero, por cruel que sea su destino, debemos sacar el mejor partido de las cartas que nos tocaron. Y creo ver una oportunidad.
+TEXT_JOBDRG580_01694_ALBERIC_000_064	Al beber sangre de dragón, Heustienne pasó a albergar el poder de los dragones. Si logra dominar ese poder, bien podría tener posibilidades contra Graoully.
+TEXT_JOBDRG580_01694_ALBERIC_000_065	No es tan distinto de dominar el poder del Eye, creo. Pero el peligro de corrupción es mucho mayor.
+TEXT_JOBDRG580_01694_ALBERIC_000_066	Como tú mism<if(gnum4,a,o)> viste, la sangre de dragón altera la carne. Y una vez alterada la carne, la mente no tarda en seguirla.
+TEXT_JOBDRG580_01694_ALBERIC_000_067	¿Podrá Heustienne vencer al dragón que despertó en su interior? No lo sé. Pero debemos creer en ella y prestarle nuestra fuerza, o sin duda la perderemos.
+TEXT_JOBDRG580_01694_ALBERIC_000_068	Por favor, retoma tu entrenamiento una vez más, <split(<string(gstr1)>, ,1)>, y ten siempre presente tu propósito. ¡Porque la próxima vez que nos veamos será para enfrentar al dragón Graoully!

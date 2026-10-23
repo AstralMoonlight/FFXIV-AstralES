@@ -1,0 +1,55 @@
+key	text
+TEXT_JOBMNK400_01063_SEQ_00	El Profesor Erik busca más ayuda para su investigación sobre el aether.
+TEXT_JOBMNK400_01063_SEQ_01	El Profesor Erik te encargó dos tareas. La primera es recoger el aetherometer que tiene Widargelt. Ve a Little Ala Mhigo, en Southern Thanalan, y habla allí con el monk.
+TEXT_JOBMNK400_01063_SEQ_02	Widargelt te insta a ocuparte de tu segunda tarea y te asegura que te llevará su aetherometer cuando termine de reunir datos. Ve a Snakemolt, en el South Shroud, y usa tu aetherometer en el lugar indicado.
+TEXT_JOBMNK400_01063_SEQ_03	Reuniste los datos que pidió el Profesor Erik. Recupera el aetherometer.
+TEXT_JOBMNK400_01063_SEQ_04	Widargelt confiesa que su único propósito es saber por el Profesor Erik dónde están los antiguos campos de batalla, para viajar a ellos y abrir más sus chakra. Así espera servir a la Ala Mhigan Resistance lo mejor que pueda. Vuelve al Goldsmiths' Guild y entrégale al profesor tu aetherometer y el de Widargelt.
+TEXT_JOBMNK400_01063_SEQ_05	Tras echarles un vistazo a los aetherometers, el Profesor Erik se entusiasma con los resultados que podrían dar. Sigue con tu entrenamiento de monk mientras él se ocupa de analizar la última tanda de datos.<br><br>※La siguiente misión de monk estará disponible con Erik al llegar al nivel 45.
+TEXT_JOBMNK400_01063_TODO_00	Habla con Widargelt en Little Ala Mhigo.
+TEXT_JOBMNK400_01063_TODO_01	Coloca el aetherometer en Snakemolt.
+TEXT_JOBMNK400_01063_TODO_02	Recupera el aetherometer.
+TEXT_JOBMNK400_01063_TODO_03	Entrégale los dos aetherometers a Erik en el Goldsmiths' Guild.
+TEXT_JOBMNK400_01063_ERIK_000_000	Ah, <if(gnum4,querida,querido)> <split(<string(gstr1)>, ,1)>, qué amable de tu parte molestarte en venir. Normalmente me enojaría, pero ahora mismo estoy de demasiado buen humor. ¡Y es a ti a quien tengo que agradecérselo!
+TEXT_JOBMNK400_01063_ERIK_000_001	¡Hablo de los datos que conseguiste! ¡Son simplemente maravillosos! Tienes un verdadero don para el trabajo pesado, <if(gnum4,amiga mía,amigo mío)>. Ojalá tuviera cien ayudantes más como tú.
+TEXT_JOBMNK400_01063_ERIK_000_002	Llevo muchísimo tiempo en este campo, y siempre solo. Desde aquel desafortunado incidente con un cultivo de hongos en té caliente que despertó mi pasión por la investigación. No me arrepiento de nada, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMNK400_01063_ERIK_000_003	Salvo, quizás, de tener que compartir un mundo tan maravilloso con almas tan incultas como la tuya. Aun así, tu desempeño no me dejó del todo sin alegría. Es gratificante pensar que mi instrucción te guio hacia semejante éxito.
+TEXT_JOBMNK400_01063_ERIK_000_004	Listo, ¿qué tal estuvo eso? ¿Nos ahorramos más cortesías? Muy bien, entonces.
+TEXT_JOBMNK400_01063_ERIK_000_005	Hice otro descubrimiento que marcará mi carrera mientras pensaba qué campo de batalla medir a continuación. En Eorzea hay muchos lugares donde el aether está en un estado intensamente caótico, pero que nunca fueron escenario de ninguna guerra.
+TEXT_JOBMNK400_01063_ERIK_000_006	Mi hipótesis era que ese flujo del aether indicaba una batalla pasada, y toda mi investigación se basaba en eso.
+TEXT_JOBMNK400_01063_ERIK_000_007	Pero dale la vuelta a la teoría, <split(<string(gstr1)>, ,1)>, si tu mente puede: ¡¿y si la gente del pasado <italic(1)>elegía<italic(0)> las zonas de aether agitado para librar sus batallas?!
+TEXT_JOBMNK400_01063_ERIK_000_008	Ya mandé al monk simplón a tomar mediciones en los Finesand Banks. Como sin duda no sabes, están en la frontera entre Ala Mhigo y Gridania, y fueron el escenario de la Autumn War.
+TEXT_JOBMNK400_01063_ERIK_000_009	Te pido que busques a nuestro amigo monk y recojas su aetherometer. Manual y tedioso, sí, pero tiene un modelo antiguo del aparato que no puede transmitir datos. Tengo entendido que a estas horas el cabeza de chorlito está en Little Ala Mhigo, en Southern Thanalan.
+TEXT_JOBMNK400_01063_ERIK_000_010	¿Crees que te pido mucho? ¡Falso! Te pido más. Tu otra tarea es ir a Snakemolt, en el South Shroud, y tomar mediciones allí con tu propio aetherometer.
+TEXT_JOBMNK400_01063_ERIK_000_011	Yo seguiré con mi investigación aquí mientras no estás. Eso sí, si quieres saber algo de la Autumn War y de los Finesand Banks donde se libró, con gusto te ilustraré. Solo tienes que preguntar.
+TEXT_JOBMNK400_01063_WIDARGELT_000_012	Llegaste lejos. Me alegra verte, <if(gnum4,hermana,hermano)>.
+TEXT_JOBMNK400_01063_WIDARGELT_000_013	¿Vienes por mi aetherometer? Todavía no puedo dártelo. Mi trabajo no terminó.
+TEXT_JOBMNK400_01063_WIDARGELT_000_014	Vine en cuanto me avisaron. Pero las lecturas necesitan más tiempo. No te preocupes. Pronto estarán listas.
+TEXT_JOBMNK400_01063_WIDARGELT_000_015	Tú vas a Snakemolt, en el South Shroud.
+TEXT_JOBMNK400_01063_WIDARGELT_000_016	Erik cree que allí el aether es fuerte. Pero esa tierra no tuvo grandes batallas. Me lo dijo esta mañana.
+TEXT_JOBMNK400_01063_WIDARGELT_000_017	Déjame con mi tarea aquí. Ve a Snakemolt. Toma tus lecturas. Mi trabajo terminará pronto. Te llevaré el aparato.
+TEXT_JOBMNK400_01063_WIDARGELT_000_018	Te hice venir hasta aquí. No te haré esperar. Ve. Nos veremos de nuevo en Snakemolt, <if(gnum4,hermana,hermano)>.
+TEXT_JOBMNK400_01063_WIDARGELT_000_020	Bien hecho, <if(gnum4,hermana,hermano)>. Siento tu chakra. Creció.
+TEXT_JOBMNK400_01063_WIDARGELT_000_021	Esperaba llegar antes que tú. Pero veo que llego tarde. El poder de esta tierra pasó a ti. Aquí no queda nada para mí.
+TEXT_JOBMNK400_01063_WIDARGELT_000_022	Es como te dije. Los monks viajamos adonde el aether fluye fuerte. Allí entrenamos. El poder de la tierra entra en nosotros. Así se expanden nuestros chakra.
+TEXT_JOBMNK400_01063_WIDARGELT_000_023	Ese vínculo causa gran agitación. La energía de la tierra se vuelve inestable. No entrará en nadie más hasta que se calme.
+TEXT_JOBMNK400_01063_WIDARGELT_000_024	Aquí no siento nada. Como tú no sentirías nada en los Finesand Banks. Esa tierra se unió a mi chakra. Y ahora su aether está agitado.
+TEXT_JOBMNK400_01063_WIDARGELT_000_025	El trabajo del maestro no significa nada. No tomé lecturas. Quería apurarme a venir. Pero me retrasé. Hubo una reunión de los monks. Me llamaron a Little Ala Mhigo.
+TEXT_JOBMNK400_01063_WIDARGELT_000_026	¿Los regaños del maestro? No te preocupes. Usaré mi aparato aquí. Cualquier resultado servirá. Ese hombre ya llegó a su conclusión. Torcerá los datos para que encajen.
+TEXT_JOBMNK400_01063_WIDARGELT_000_027	Es una existencia triste. Sacrificarlo todo por la verdad. Y no poder reconocerla <italic(1)>de verdad<italic(0)> cuando la ve.
+TEXT_JOBMNK400_01063_WIDARGELT_000_028	No le digas nada de esto, <if(gnum4,hermana,hermano)>. Ves los objetivos de los dos. Sabes que el mío es más digno.
+TEXT_JOBMNK400_01063_WIDARGELT_000_029	Te cuento esto a ti. Solo a ti. Soy de la Ala Mhigan Resistance. Lucho por liberarnos de Garlemald.
+TEXT_JOBMNK400_01063_WIDARGELT_000_030	Escapé de la ocupación. Vine aquí a pelear. A reunir aliados y armas.
+TEXT_JOBMNK400_01063_WIDARGELT_000_031	Pero estas tierras me entristecen. La gente olvidó. Ala Mhigo es un recuerdo lejano.
+TEXT_JOBMNK400_01063_WIDARGELT_000_032	La Resistance aquí es pequeña. Ayudan donde pueden. Pero no basta. Esta guerra exige un gran poder. Ese poder está en los chakra.
+TEXT_JOBMNK400_01063_WIDARGELT_000_033	El maestro no es un hombre malo. Pero solo piensa en su trabajo. No en el sufrimiento de los inocentes.
+TEXT_JOBMNK400_01063_WIDARGELT_000_034	Su conocimiento puede usarse para el bien. Los campos de batalla. Pueden cambiar el curso de la guerra. Hay que abrir los chakra de muchos.
+TEXT_JOBMNK400_01063_WIDARGELT_000_035	Si pierdo este camino... No. No, <italic(1)>tendré<italic(0)> este poder. ¡Tengo que tenerlo!
+TEXT_JOBMNK400_01063_WIDARGELT_000_036	Fin a la opresión. Fin al hambre. Ala Mhigo será libre. ¡Lo veré con mis propios ojos!
+TEXT_JOBMNK400_01063_WIDARGELT_000_037	Perdona mis palabras. Es un asunto que llevo en el corazón.
+TEXT_JOBMNK400_01063_WIDARGELT_000_038	Te daré mi aparato. Pero te pido que no le digas nada de esto a Erik. Te lo ruego, <if(gnum4,hermana,hermano)>.
+TEXT_JOBMNK400_01063_SYSTEM_000_039	¡El aether de la tierra abre tus chakra!
+TEXT_JOBMNK400_01063_ERIK_000_040	Confío en que volviste con <italic(1)>los dos<italic(0)> aetherometers, ¿no? Por favor, dime que esta vez ustedes, par de torpes, no lograron dañar ninguno.
+TEXT_JOBMNK400_01063_ERIK_000_041	Aquí todo parece en orden. Hmmm... Estas lecturas de tu aparato... prometen. Prometen muchísimo. ¡Me atrevo a decir que estos datos podrían dar resultados revolucionarios!
+TEXT_JOBMNK400_01063_ERIK_000_042	¿Hm? ¿Se te abrió un poco más el chakra? Sí, bueno, el aether es algo de lo más misterioso y maravilloso. Me alegra que esta investigación tan significativa también sirviera a tus fines absurdos.
+TEXT_JOBMNK400_01063_ERIK_000_043	Ahora déjame con mi trabajo. Seguro que encuentras alguna forma simple de pasar el rato. ¿Pelear, por ejemplo? O... no sé... ¿rascarte?
+TEXT_JOBMNK400_01063_POP_MESSAGE	¡Sientes una presencia hostil!

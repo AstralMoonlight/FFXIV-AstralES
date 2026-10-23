@@ -1,0 +1,121 @@
+key	text
+TEXT_JOBPLD680_02574_SEQ_00	La mirada expectante de Mylla solo puede significar una cosa: llegó la hora.
+TEXT_JOBPLD680_02574_SEQ_01	Mylla te despide hacia la final de la Ul Cup con palabras de aliento, pero apenas sales a la arena anuncian que tu rival se retiró del combate. Aunque eso te convierte en <if(gnum4,la campeona,el campeón)> por abandono, una victoria tan poco merecida te sabe a nada. Quizás tu maestra del gremio pueda aclarar algo en medio de la confusión.
+TEXT_JOBPLD680_02574_SEQ_02	Al notar tu descontento, y conociendo demasiado bien los bajos fondos de Ul'dah, Mylla decide investigar el inesperado abandono de tu rival y te pide ayuda. Para empezar, te sugiere que hables con el encargado de inscripciones del torneo, el último que vio a Black Lotus.
+TEXT_JOBPLD680_02574_SEQ_03	Según el encargado de inscripciones, después de decirle que ya no quería pelear, Black Lotus se fue a toda prisa en dirección a Pearl Lane.
+TEXT_JOBPLD680_02574_SEQ_04	Encuentras a Black Lotus, que, sin mucha sorpresa, resulta ser Aldis disfrazado. Te explica que se retiró del torneo para salvar a un niño que conoció en sus andanzas, al que unos tramposos sin escrúpulos tomaron como rehén creyendo que era su hijo. En ese momento llega una Mylla nada impresionada, y Aldis revela además que lo que lo trajo de vuelta a Ul'dah fueron los rumores de tu destreza sin igual. La mención de un niño la deja consternada, pero las preguntas tendrán que esperar, porque todavía no liberaron al muchacho. Aldis piensa dar con los secuestradores y rescatarlo, y te pide que preguntes por gente sospechosa en Pearl Lane.
+TEXT_JOBPLD680_02574_SEQ_05	Preguntando a los vecinos, te enteras de que un corredor de apuestas del mercado negro anda por la zona. Para dar con él, primero tienes que ir a ver a su secuaz cerca de la Gate of Thal y mostrar que quieres hacer negocios. Con el modo de chat en <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribe la contraseña "Doubt the truth" para que el tipo sospechoso sepa que eres <if(gnum4,una clienta,un cliente)>.
+TEXT_JOBPLD680_02574_SEQ_06	Convencido de que eres <if(gnum4,una clienta,un cliente)>, el tipo sospechoso te manda con su socio cerca del Sultantree. Y por lo que dice, ahí es donde encontrarás al niño secuestrado.
+TEXT_JOBPLD680_02574_SEQ_07	El tipo fornido y sus compinches se te echan encima, pero no son rivales para <if(gnum4,la campeona,el campeón)> de la Ul Cup, por abandono o no. Con los matones reducidos, puedes ocuparte del niño.
+TEXT_JOBPLD680_02574_SEQ_08	Mylla y Aldis se te unen mientras terminas de desatar al niño. Tras un reencuentro breve pero cálido, Aldis te cuenta que encontró pruebas sólidas que implican a Odde, el detestable Lalafell del Quicksand, en el intento de arreglar los combates. Y luego, para alivio de Mylla, aclara que el niño en realidad no es suyo. Todo está bien, entonces, salvo que el combate soñado entre Aldis y tú no pudo ser. Pero Mylla te dice que no te rindas, porque cree que puede convencer a los organizadores de celebrar la final de la Ul Cup. Se va a dejar al niño al cuidado de los Brass Blades y te pide que después te reúnas con ella en el gremio.
+TEXT_JOBPLD680_02574_SEQ_09	Mylla repite que confía en que la final de la Ul Cup se celebrará, y se retira para encargarse de que así sea. Asegúrate de estar <if(gnum4,preparada,preparado)> para el combate inminente, porque sin duda será el más difícil de todos.<br><br>※La siguiente misión de paladin estará disponible con Mylla al llegar al nivel 70.
+TEXT_JOBPLD680_02574_TODO_00	Habla con Mylla.
+TEXT_JOBPLD680_02574_TODO_01	Habla con el encargado de inscripciones del torneo.
+TEXT_JOBPLD680_02574_TODO_02	Busca a Black Lotus.
+TEXT_JOBPLD680_02574_TODO_03	Busca información en Pearl Lane.
+TEXT_JOBPLD680_02574_TODO_04	Con el modo de chat en <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribe "Doubt the truth" para que el tipo sospechoso sepa que eres <if(gnum4,una clienta,un cliente)>.
+TEXT_JOBPLD680_02574_TODO_05	Busca al tipo fornido en Spineless Basin.
+TEXT_JOBPLD680_02574_TODO_06	Ayuda al chiquillo.
+TEXT_JOBPLD680_02574_TODO_07	Habla con Mylla en el Gladiators' Guild.
+TEXT_JOBPLD680_02574_MYLLA_000_000	Llegó la hora, <split(<string(gstr1)>, ,1)>: la final de la Ul Cup. Tienes lo que hace falta para ganar. Pelea como siempre, y lo demás vendrá solo.
+TEXT_JOBPLD680_02574_OBSERVERSERVICE02574_000_001	D-Damas y caballeros. Lamento informarles que Black Lotus se retiró del combate.
+TEXT_JOBPLD680_02574_OBSERVERSERVICE02574_000_002	Ante la falta de rival, ¡<if(gnum4,la ganadora,el ganador)> de la final de la Ul Cup por abandono es <string(gstr1)>!
+TEXT_JOBPLD680_02574_MERCHANTVISITOR02574_100_002	Oye, ¿no crees que esos rumores podrían ser ciertos?
+TEXT_JOBPLD680_02574_CRAFTSMANVISITOR02574_110_002	¿Qué, que Black Lotus es Aldis, el gladiator al que desterraron del Coliseum? Parece un poco exagerado, pero con estas cosas nunca se sabe.
+TEXT_JOBPLD680_02574_ADRIEN_000_003	En un giro inesperado de los acontecimientos, Black Lotus, ganador del grupo Nald, se retiró. Repito, Black Lotus se retiró.
+TEXT_JOBPLD680_02574_DOURMEADOW_000_004	¡Por los Twelve, ¿qué demonios está pasando?!
+TEXT_JOBPLD680_02574_ADRIEN_000_005	Les daremos más información en cuanto la tengamos. Por favor, tengan paciencia.
+TEXT_JOBPLD680_02574_MYLLA_000_010	¿Qué significa esto?
+TEXT_JOBPLD680_02574_OBSERVERSERVICE02574_000_011	P-Perdone, señora, pero sé tan poco como usted. Fue el encargado de inscripciones el que habló con Black Lotus sobre el asunto.
+TEXT_JOBPLD680_02574_MYLLA_000_012	Ni siquiera los organizadores entienden del todo la situación...
+TEXT_JOBPLD680_02574_MYLLA_000_013	No es raro que un combatiente se retire de un combate, pero cuando pasa, la mayoría de las veces hay algo turbio detrás.
+TEXT_JOBPLD680_02574_MYLLA_000_014	Aunque algunos considerarían "por abandono" las palabras más dulces, sé que tú no. No, una victoria inmerecida como esta suena hueca y no te da ninguna satisfacción. Por eso pienso meterme en lo que seguro serán lugares oscuros. ¿Puedo contar con tu ayuda?
+TEXT_JOBPLD680_02574_MYLLA_000_015	Bien. Para empezar, vamos a preguntarle al encargado de inscripciones por su conversación con Black Lotus.
+TEXT_JOBPLD680_02574_OBSERVERSERVICE02574_000_017	P-Perdone, pero sé tan poco como usted. Fue el encargado de inscripciones el que habló con Black Lotus sobre el asunto.
+TEXT_JOBPLD680_02574_MYLLA_000_018	Vamos a preguntarle al encargado de inscripciones por su conversación con Black Lotus.
+TEXT_JOBPLD680_02574_ATTENDANT02574_000_020	Sí, <if(gnum4,mi señora,mi señor)>, Black Lotus vino a decirme que ya no quería pelear.
+TEXT_JOBPLD680_02574_ATTENDANT02574_000_021	Pasó poco después de que usted entrara a la antesala. Supuse que él haría lo mismo, pero en cambio anunció que se retiraba.
+TEXT_JOBPLD680_02574_ATTENDANT02574_000_022	Me quedé tan aturdido que, para cuando recuperé la compostura y se me ocurrió preguntarle el motivo, ya había dado media vuelta y se había ido.
+TEXT_JOBPLD680_02574_ATTENDANT02574_000_023	Creo que iba en dirección a Pearl Lane. Si quiere hablar con él, le sugiero que lo busque allí.
+TEXT_JOBPLD680_02574_ATTENDANT02574_000_024	Si quiere hablar con Black Lotus, iba en dirección a Pearl Lane.
+TEXT_JOBPLD680_02574_MYLLA_000_025	¿Pudiste averiguar algo?
+TEXT_JOBPLD680_02574_ALDIS_000_030	(-Black Lotus-)Bueno, diría que es hora de confesar. Con lo perspicaz que eres, seguro ya habías visto a través del disfraz.
+TEXT_JOBPLD680_02574_ALDIS_000_031	<split(<string(gstr1)>, ,1)>, qué bueno volver a verte. Siendo yo mismo, al menos.
+TEXT_JOBPLD680_02574_ALDIS_000_032	A ver si adivino: <if(gnum4,la doncella con el corazón roto exige saber por qué la abandoné en la arena,exiges saber por qué te abandoné en la arena)>. Te lo contaré, y más todavía, pero esto queda entre nosotros, ¿entendido?
+TEXT_JOBPLD680_02574_ALDIS_000_033	Desde que nos ocupamos de lo de Leavold y me fui de Ul'dah, anduve recorriendo la tierra como un auténtico vagabundo.
+TEXT_JOBPLD680_02574_ALDIS_000_034	En el camino ayudé a un niño que lo necesitaba. Ya conociste al pequeño pillo. Me lo encontré un día, solito, con la cara cubierta de mugre. Un huérfano de guerra, como tantos.
+TEXT_JOBPLD680_02574_ALDIS_000_035	Cuando supo a qué me dedico... a qué me dedicaba, decidió que tenía que aprender esgrima y me rogó que le enseñara. No aceptaba un no por respuesta, el muy testarudo, y desde entonces me sigue a todas partes.
+TEXT_JOBPLD680_02574_ALDIS_000_039	Pues los que vinieron a amenazarme creyeron que el niño era mío, lo tomaron como rehén y me exigieron que me retirara del torneo.
+TEXT_JOBPLD680_02574_ALDIS_000_040	Si fuera solo mi cabeza, no lo pensaría dos veces antes de arriesgarla, pero no voy a apostar con la vida de otro. El niño no será de mi sangre, pero está en peligro por mi culpa. Y aquí estamos.
+TEXT_JOBPLD680_02574_ALDIS_100_040	¿Qué quieres que te diga? Sin querer, le tomé cariño al granuja.
+TEXT_JOBPLD680_02574_MYLLA_000_041	<italic(1)>Sabía<italic(0)> que eras tú. Desde el momento en que peleamos.
+TEXT_JOBPLD680_02574_ALDIS_000_042	¡Mylla, querida! ¡Tan deslumbrante como siempre!
+TEXT_JOBPLD680_02574_MYLLA_000_043	¡Ahórratelo! ¡Todo este tiempo y no fuiste capaz de mandar ni una maldita carta!
+TEXT_JOBPLD680_02574_ALDIS_000_044	Tranquila con ese enojo. Sería una verdadera lástima llenar de arrugas esa cara tan bonita.
+TEXT_JOBPLD680_02574_MYLLA_000_045	¡E-Eso no viene al caso! ¡Ahora dime por qué volviste!
+TEXT_JOBPLD680_02574_ALDIS_000_046	\<suspiro> Tan impaciente como siempre, ya veo. Si tanto quieres saberlo, me llegaron rumores de <if(gnum4,una paladin libre,un paladin libre)> <if(gnum4,llamada,llamado)> <string(gstr1)> cuya destreza no tenía comparación.
+TEXT_JOBPLD680_02574_ALDIS_000_047	Tenía que ver - no, que poner a prueba yo mismo - hasta dónde había llegado esa destreza sin comparación. Así que volví a Ul'dah.
+TEXT_JOBPLD680_02574_ALDIS_000_048	Cuando llegué, me enteré de que se había revivido la prestigiosa Ul Cup. Si <split(<string(gstr1)>, ,1)> se inscribía, cumpliría mi deseo. Si no, tendría que conformarme con ganar el torneo y seguir con mis andanzas.
+TEXT_JOBPLD680_02574_ALDIS_000_049	Con un poco de ayuda de un viejo amigo, conseguí una invitación y me busqué un yelmo cerrado lo bastante amenazante. Siendo una especie de paria, no convenía que me vieran, ¿entiendes?
+TEXT_JOBPLD680_02574_MYLLA_000_050	Si te tomaste todo ese trabajo para pelear contra <split(<string(gstr1)>, ,1)>, ¿por qué te retiraste?
+TEXT_JOBPLD680_02574_ALDIS_000_051	¿En pocas palabras? Para abrirle paso al dinero. No al mío, ojo, sino al de otro.
+TEXT_JOBPLD680_02574_ALDIS_100_051	Como sabes, en un torneo de esta escala se mueven sumas de dinero descomunales, y hay quienes no se detienen ante nada para que se muevan hacia ellos.
+TEXT_JOBPLD680_02574_ALDIS_110_051	Bueno, resulta que Black Lotus se interponía entre una banda especialmente sin escrúpulos y su fortuna. Así que se llevaron a mi muchacho y amenazaron su vida.
+TEXT_JOBPLD680_02574_MYLLA_000_052	...¿M-Muchacho?
+TEXT_JOBPLD680_02574_ALDIS_000_053	Sí, bueno, es una historia bastante vergonzosa. Dejémosla para cuando tenga unas cuantas jarras encima.
+TEXT_JOBPLD680_02574_ALDIS_100_053	Alguien quiere que ganes, <split(<string(gstr1)>, ,1)>. Cueste lo que cueste. Aunque no discrepo con su elección de campeón, sus métodos no me gustan.
+TEXT_JOBPLD680_02574_ALDIS_110_053	Ah, pero me temo que el resto tendrá que esperar. El peligro no pasó.
+TEXT_JOBPLD680_02574_ALDIS_000_054	Aunque hice lo que me dijeron, ellos no cumplieron su parte del trato. Pienso rescatarlo, y para eso me vendría bien tu ayuda.
+TEXT_JOBPLD680_02574_ALDIS_000_055	Sabía que podía contar contigo. Primero tenemos que dar con esos villanos que arreglan combates y secuestran niños. Para ir más rápido, separémonos para investigar. Si tú preguntas por gente sospechosa por aquí, yo me encargo de las zonas cercanas.
+TEXT_JOBPLD680_02574_MYLLA_000_056	¿U-Un niño? ¿Cuándo demonios...?
+TEXT_JOBPLD680_02574_ULDAHCITIZENA02574_000_060	¿Gente sospechosa aceptando apuestas sobre la Ul Cup? Yo no vi a nadie, pero seguro que andan por ahí. Esto es Ul'dah, después de todo.
+TEXT_JOBPLD680_02574_ULDAHCITIZENB02574_000_061	¿Qué? ¿Vienes a reírte de mí?
+TEXT_JOBPLD680_02574_ULDAHCITIZENB02574_000_062	...Bueno, por aquí hay muchos que esperan hacerse ricos rápido. Yo no conozco a ningún corredor de apuestas, que no tengo plata para eso, pero seguro que alguien sí.
+TEXT_JOBPLD680_02574_ULDAHCITIZENC02574_000_063	¿A-Apuestas? ¿C-Combates arreglados? ¿De qué está hablando?
+TEXT_JOBPLD680_02574_ULDAHCITIZENC02574_000_064	...¡¿S-Secuestro?! Ay, dioses, nunca imaginé que llegarían tan- ¡Aaah! ¡Yo y mi bocota!
+TEXT_JOBPLD680_02574_ULDAHCITIZENC02574_000_065	\<suspiro> Está bien, está bien... Le cuento lo que sé. Es lo mínimo que puedo hacer para tener la conciencia tranquila.
+TEXT_JOBPLD680_02574_ULDAHCITIZENC02574_000_066	Ese corredor de apuestas del mercado negro no tiene un lugar fijo, así le es más fácil esquivar a las autoridades, pero ahora mismo tiene un secuaz cerca de la Gate of Thal. Dígale las palabras "Doubt the truth" y él le dirá adónde ir.
+TEXT_JOBPLD680_02574_ULDAHCITIZENC02574_000_067	Ahora déjeme en paz... ¡y usted no oyó nada de esto de mi boca!
+TEXT_JOBPLD680_02574_ULDAHCITIZENA02574_000_068	¿Gente sospechosa aceptando apuestas sobre la Ul Cup? Yo no vi a nadie, pero seguro que andan por ahí. Esto es Ul'dah, después de todo.
+TEXT_JOBPLD680_02574_ULDAHCITIZENB02574_000_069	Como dije, por aquí hay muchos que esperan hacerse ricos rápido. Yo no conozco a ningún corredor de apuestas, que no tengo plata para eso, pero seguro que alguien sí.
+TEXT_JOBPLD680_02574_ULDAHCITIZENC02574_000_070	Ese corredor de apuestas del mercado negro no tiene un lugar fijo, así le es más fácil esquivar a las autoridades, pero ahora mismo tiene un secuaz cerca de la Gate of Thal. Dígale las palabras "Doubt the truth" y él le dirá adónde ir.
+TEXT_JOBPLD680_02574_MYLLA_000_071	Un niño... No lo puedo creer...
+TEXT_JOBPLD680_02574_SUSPICIOUSMAN02574_000_080	¿Qué miras? Lárgate.
+TEXT_JOBPLD680_02574_SUSPICIOUSMAN02574_100_080	Con el modo de chat en <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribe la contraseña "Doubt the truth" para que el tipo sospechoso sepa que eres <if(gnum4,una clienta,un cliente)>.
+TEXT_JOBPLD680_02574_SUSPICIOUSMAN02574_000_081	...Ah, <if(gnum4,una clienta,un cliente)>. Vienes a cobrar, ¿no? Entonces es allá, junto al Sultantree.
+TEXT_JOBPLD680_02574_SUSPICIOUSMAN02574_000_082	Para que sepas, puede que haya un poco de ruido. Mi compañero está, eh... cuidando a un niño ahora mismo.
+TEXT_JOBPLD680_02574_SUSPICIOUSMAN02574_000_083	Los cobros son allá, junto al Sultantree. Para que sepas, puede que haya un poco de ruido. Mi compañero está, eh... cuidando a un niño ahora mismo.
+TEXT_JOBPLD680_02574_SYSTEM_000_084	Doubt the truth
+TEXT_JOBPLD680_02574_CAUTIOUSMAN02574_000_090	¿Sí? ¿Qué quieres?
+TEXT_JOBPLD680_02574_Q1_000_000	¿Qué quieres?
+TEXT_JOBPLD680_02574_A1_000_001	Tu ropa, tus botas y tu chocobo.
+TEXT_JOBPLD680_02574_A1_000_002	Al niño.
+TEXT_JOBPLD680_02574_CAUTIOUSMAN02574_000_091	¡¿Que quieres <italic(1)>qué<italic(0)>?! ¡No sé quién es <if(gnum4,esta payasa,este payaso)>, pero <if(gnum4,agárrenla,agárrenlo)>!
+TEXT_JOBPLD680_02574_CAUTIOUSMAN02574_000_092	¡¿Es de los de Aldis?! ¡<if(gnum4,Agárrenla,Agárrenlo)>!
+TEXT_JOBPLD680_02574_POPMESSAGE_100_092	¡Te atacan!
+TEXT_JOBPLD680_02574_CHILD02574_000_093	\<sollozo> ¿Tú también eres <if(gnum4,mala,malo)>? ¡Quiero al tío Aldy! \<sollozo>
+TEXT_JOBPLD680_02574_MYLLA_000_100	¿El niño está ileso?
+TEXT_JOBPLD680_02574_CHILD02574_000_101	¡Tío Aldy, p-perdón! Si fuera más fuerte...
+TEXT_JOBPLD680_02574_ALDIS_000_102	Nada que no arregle un poco de entrenamiento. Por cierto, ¿ya le diste las gracias a <split(<string(gstr1)>, ,1)>?
+TEXT_JOBPLD680_02574_CHILD02574_000_103	¡Ah, cierto!
+TEXT_JOBPLD680_02574_CHILD02574_000_104	¡Gracias por salvarme, <split(<string(gstr1)>, ,1)>! Al principio creí que eras de los malos, pero eres muy buena persona.
+TEXT_JOBPLD680_02574_CHILD02574_100_104	¡Ah, y además eres muy fuerte! ¡Voy a entrenar mucho para ser fuerte yo también y cuidarme solo!
+TEXT_JOBPLD680_02574_ALDIS_000_105	Déjame agradecerte a mí también, <if(gnum4,amiga mía,amigo mío)>. Y por si te lo preguntas, yo tampoco me quedé de brazos cruzados. Logré encontrar pruebas sólidas que implican al exmercenario Odde, nuestro amigo con el que me viste charlando. Ya avisé a los Brass Blades de sus trampas, y no nos va a molestar más.
+TEXT_JOBPLD680_02574_MYLLA_000_106	Espera, ¿ese niño te acaba de llamar tío?
+TEXT_JOBPLD680_02574_ALDIS_000_107	Sí, bueno, ya estoy un poco grande para ser su compañero de juegos. ¿Qué tiene?
+TEXT_JOBPLD680_02574_ALDIS_000_108	Espera un momento... no me digas que supusiste que era... ya sabes.
+TEXT_JOBPLD680_02574_ALDIS_000_109	¡Jajaja! ¡Eso explica tu mal humor!
+TEXT_JOBPLD680_02574_ALDIS_000_110	Para que no haya más malentendidos: no es mío. Lo ayudé por casualidad y nos hicimos muy amigos, nada más.
+TEXT_JOBPLD680_02574_MYLLA_000_111	Ah. ¡Ah! B-Bueno, no es que me importara ni nada. Es que... con todo el tiempo que estuviste fuera, no me habría sorprendido... nada más.
+TEXT_JOBPLD680_02574_ALDIS_100_111	¡Jajaja! ¡Hace falta mucho más tiempo para que crezcan tanto!
+TEXT_JOBPLD680_02574_MYLLA_000_112	¡E-Esto no es para reírse!
+TEXT_JOBPLD680_02574_ALDIS_000_113	¡Aaah, pero <italic(1)>sí<italic(0)> lo es! \<suspiro> En fin, bien está lo que bien acaba. Lástima que el combate soñado entre <split(<string(gstr1)>, ,1)> y yo no pudiera ser...
+TEXT_JOBPLD680_02574_MYLLA_000_114	No te rindas tan rápido. Tienes pruebas de que te amenazaban, ¿no? Creo que hay muchas posibilidades de que todavía podamos lograrlo.
+TEXT_JOBPLD680_02574_MYLLA_000_115	La Ul Cup despertó un entusiasmo como el Coliseum no veía desde hace generaciones. Los organizadores tendrían que ser unos tontos sin remedio para desperdiciar la oportunidad de coronarla con una gran final.
+TEXT_JOBPLD680_02574_MYLLA_000_116	Presentaré una petición formal en mi calidad de maestra del gremio. El combate <italic(1)>se va<italic(0)> a celebrar, ya verás.
+TEXT_JOBPLD680_02574_ALDIS_000_117	¡Ja, esa es mi Mylla, tan brillante como hermosa!
+TEXT_JOBPLD680_02574_ALDIS_000_118	La First Sword cumple su palabra, <if(gnum4,amiga mía,amigo mío)>: nuestro combate es un hecho. Cuando por fin nos encontremos en la arena, no nos guardemos nada. Y sin rencores si gano yo, ¿sí?
+TEXT_JOBPLD680_02574_MYLLA_000_119	Voy a dejar al pequeño al cuidado de los Brass Blades. Después ven a verme al gremio, por favor.
+TEXT_JOBPLD680_02574_MYLLA_000_120	Gracias, <split(<string(gstr1)>, ,1)>. Con tu ayuda, no solo pudimos salvar al muchacho de Aldis, sino que quizás le ahorremos al torneo un final deslucido. Solo queda convencer a los organizadores de celebrar la final. Aunque, conociéndolos, no hará falta convencerlos mucho.
+TEXT_JOBPLD680_02574_MYLLA_000_121	Sobre el muchacho... te agradecería que te guardes mi pequeño malentendido. Ejem.
+TEXT_JOBPLD680_02574_MYLLA_000_122	Bueno, tengo que ocuparme de mis asuntos. Hasta que se confirme el combate, descansa todo lo que puedas. Lo vas a necesitar.

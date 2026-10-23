@@ -1,0 +1,101 @@
+key	text
+TEXT_JOBBRD501_01713_SEQ_00	Jehantel quiere ayudarte a alcanzar mayores alturas en tu arte.
+TEXT_JOBBRD501_01713_SEQ_01	Jehantel te cuenta lo que estuvo haciendo últimamente: entrenar a los miembros del Gods' Quiver. Al interesarse por el desarrollo de las nuevas generaciones, siente que sus canciones ganaron poder, y cree que las tuyas también podrían ganarlo. Si quieres alcanzar nuevas alturas como bard, acepta la invitación de Jehantel y ve a Quiver's Hold, donde te presentará a un conocido suyo.
+TEXT_JOBBRD501_01713_SEQ_02	En Quiver's Hold te presentan a un hombre llamado Sanson, capitán de la Order of the Twin Adder. Aunque se formó como lancer, Sanson cree en el poder del canto y quiere crear una unidad nueva que incluya bards. Para su frustración, hasta ahora los líderes del Gods' Quiver no se mostraron dispuestos a cooperar. Dentro de poco volverá a reunirse con ellos, y espera convencerlos con la existencia de una canción legendaria que, según dicen, tiene el poder de terminar las batallas de forma decisiva: la Ballad of Oblivion. Ve al Seat of the First Bow y asiste a la reunión.
+TEXT_JOBBRD501_01713_SEQ_03	La reunión no sale tan bien como Sanson esperaba. El Gods' Quiver sigue sin querer cooperar, aunque Lewin admite que la Ballad of Oblivion le despierta curiosidad. Sanson anuncia que piensa emprender un viaje para encontrar la canción, pero hasta eso encuentra oposición. El líder de la unidad Gold Bull, un hombre que no tiene a los bards en mucha estima, le pone a Sanson una prueba para ver si es apto para la expedición que propone: acabar con unos treants furiosos en el East Shroud. Así termina la reunión. Habla con Jehantel para saber qué opina de la prueba.
+TEXT_JOBBRD501_01713_SEQ_04	Como duda de que el Gods' Quiver piense de verdad enviar a un bard, Jehantel te pide que ayudes a Sanson en la prueba. Ve al East Shroud y reúnete con el capitán de los Serpents en Amarissaix's Spire.
+TEXT_JOBBRD501_01713_SEQ_05	Al llegar, encuentras a Sanson de rodillas y rodeado de treants furiosos. Acaba con las criaturas y ayuda a tu compañero.
+TEXT_JOBBRD501_01713_SEQ_06	Derrotas a los treants y ayudas a Sanson a ponerse de pie. En ese momento, otra criatura está a punto de tomarte por sorpresa, pero antes de que pueda hacerte daño aparece un archer misterioso que la abate con una lluvia de flechas. El engreído se presenta como Guydelot, y resulta ser el bard asignado a la expedición y uno de los alumnos de Jehantel. Pero, pese a la habilidad de Guydelot, Sanson no está convencido de que sea el indicado, y deja muy claro su disgusto. Habla con Jehantel para saber qué piensa de esta presentación tan accidentada.
+TEXT_JOBBRD501_01713_SEQ_07	Jehantel no se anda con rodeos: vigilar el conflicto entre Sanson y Guydelot será una carga para ti. Pero, por lo mismo, cree que la experiencia te ayudará a crecer como bard. Vuelve a Quiver's Hold y acompaña a Sanson mientras informa del éxito de su prueba.
+TEXT_JOBBRD501_01713_SEQ_08	Con la prueba superada, Sanson recibe el permiso oficial para seguir con la expedición. Así empieza tu viaje en busca de la Ballad of Oblivion. Para la primera etapa, ve a Ishgard y reúnete con tus compañeros en la plaza del aetheryte.
+TEXT_JOBBRD501_01713_SEQ_09	Al llegar a Ishgard, Sanson anuncia que empezará haciendo averiguaciones. Te pide que descanses y recuperes fuerzas, porque sin duda las vas a necesitar a medida que avance el viaje.<br><br>※La siguiente misión de bard estará disponible con Sanson al llegar al nivel 52.
+TEXT_JOBBRD501_01713_TODO_00	Habla con Jehantel en Quiver's Hold.
+TEXT_JOBBRD501_01713_TODO_01	Habla con Jehantel en el Seat of the First Bow.
+TEXT_JOBBRD501_01713_TODO_02	Habla con Jehantel.
+TEXT_JOBBRD501_01713_TODO_03	Habla con Sanson en Amarissaix's Spire.
+TEXT_JOBBRD501_01713_TODO_04	Ayuda a Sanson.
+TEXT_JOBBRD501_01713_TODO_05	Habla con Jehantel en Amarissaix's Spire.
+TEXT_JOBBRD501_01713_TODO_06	Habla con Sanson en Quiver's Hold.
+TEXT_JOBBRD501_01713_TODO_07	Habla con Sanson en Ishgard.
+TEXT_JOBBRD501_01713_JEHANTEL_000_000	Ah, mi querid<if(gnum4,a,o)> <split(<string(gstr1)>, ,1)>. Justo a quien quería ver.
+TEXT_JOBBRD501_01713_JEHANTEL_000_001	Sabrás que estuve entrenando a los miembros del Gods' Quiver. Pues la experiencia resultó de lo más reveladora. Al interesarme de verdad por el desarrollo de las nuevas generaciones, siento que mis canciones ganaron poder. Y las tuyas también podrían, <if(gnum4,amiga mía,amigo mío)>.
+TEXT_JOBBRD501_01713_JEHANTEL_000_002	Si quieres alcanzar nuevas alturas en nuestro arte, te invito a venir a Quiver's Hold. Hay alguien a quien quisiera presentarte.
+TEXT_JOBBRD501_01713_JEHANTEL_000_005	Si quieres alcanzar nuevas alturas en nuestro arte, te invito a venir a Quiver's Hold. Hay alguien a quien quisiera presentarte.
+TEXT_JOBBRD501_01713_SANSON_000_006	¡Por la Matron, usted es <string(gstr1)>! ¡Oí hablar de todas sus hazañas!
+TEXT_JOBBRD501_01713_JEHANTEL_000_010	Te presento a Sanson, capitán de la Order of the Twin Adder. Es un lancer hábil <italic(1)>y<italic(0)> un ferviente creyente en el poder del canto. De hecho, ahora quiere crear una unidad nueva que incluya bards.
+TEXT_JOBBRD501_01713_SANSON_000_011	Es un honor conocerl<if(gnum4,a,o)> por fin, <split(<string(gstr1)>, ,1)>. Jehantel habla de usted a menudo, y muy bien.
+TEXT_JOBBRD501_01713_SANSON_000_012	Y como ya oyó, quiero crear una unidad nueva. Creo que los bards les darían a nuestras fuerzas una ventaja táctica. Para eso fui a pedirle su cooperación al Gods' Quiver.
+TEXT_JOBBRD501_01713_SANSON_000_013	Por desgracia, no recibieron bien mi propuesta. Muchos siguen escépticos sobre el poder del canto y prefieren pasar el tiempo tensando el arco antes que pulsando el arpa. Pero no me di por vencido.
+TEXT_JOBBRD501_01713_SANSON_000_014	Revisé tomos antiguos y consulté a los moogles para encontrar una prueba decisiva del valor de un bard en batalla. Y me alegra decir que mis esfuerzos por fin dieron fruto: ¡existe una canción legendaria que, según dicen, termina una batalla al instante!
+TEXT_JOBBRD501_01713_SANSON_000_015	Se llama la Ballad of Oblivion. Y si la encuentro, convenceré a los líderes del Gods' Quiver de que mi causa vale la pena.
+TEXT_JOBBRD501_01713_SANSON_000_016	Hablando de eso, la reunión está por empezar. Con su permiso, me retiro.
+TEXT_JOBBRD501_01713_JEHANTEL_000_017	Se fue sin darnos la oportunidad de hablar de lo nuestro...
+TEXT_JOBBRD501_01713_JEHANTEL_000_018	De hecho, ¿por qué no acompañamos a Sanson a la reunión? Como tiene que ver con los bards, dudo que nuestra presencia caiga mal. Ven, vamos al Seat of the First Bow.
+TEXT_JOBBRD501_01713_SUBLEADER01713_000_020	Otro bard, ¿eh?
+TEXT_JOBBRD501_01713_SANSON_000_021	¿Prestará su voz a mi causa? ¡Le estoy en deuda!
+TEXT_JOBBRD501_01713_LEWIN_000_022	¡Vaya, si es <split(<string(gstr1)>, ,1)>! ¡No esperaba verl<if(gnum4,a,o)> aquí!
+TEXT_JOBBRD501_01713_DOORMANSINYU_000_030	Jehantel dijo que vendría. Puede entrar.
+TEXT_JOBBRD501_01713_Q1_000_000	¿Ir al Seat of the First Bow?
+TEXT_JOBBRD501_01713_A1_000_000	Sí
+TEXT_JOBBRD501_01713_A1_000_001	No
+TEXT_JOBBRD501_01713_JEHANTEL_000_040	Me temo que la reunión no va bien. El Gods' Quiver no está dispuesto a cooperar.
+TEXT_JOBBRD501_01713_SANSON_000_041	...¡Cuando vean el poder de la balada, cambiarán de opinión! ¡Estoy seguro!
+TEXT_JOBBRD501_01713_LEWIN_000_042	Debo admitir que una forma tan decisiva de terminar una batalla me despierta curiosidad...
+TEXT_JOBBRD501_01713_SANSON_000_043	Mi investigación reveló que la canción viene del extremo occidental de Coerthas. Pienso viajar allí y encontrarla.
+TEXT_JOBBRD501_01713_SANSON_000_044	De hecho, ya le presenté al Gods' Quiver los papeles para pedir que un bard me acompañe en la expedición.
+TEXT_JOBBRD501_01713_SUBLEADER01713_000_045	Tenga por seguro que ya elegimos a uno para usted. No es que hubiera muchos entre los que elegir, ojo. Después de todo, Jehantel apenas empezó sus lecciones.
+TEXT_JOBBRD501_01713_SUBLEADER01713_000_046	Bien, con los tiempos que corren, cada hombre nuestro es valioso. Por eso, antes de comprometer a uno de los nuestros con su causa, quisiera poner a prueba si usted es apto para emprender esa expedición.
+TEXT_JOBBRD501_01713_SANSON_000_047	¿Qué quiere que haga?
+TEXT_JOBBRD501_01713_SUBLEADER01713_000_048	Que demuestre su destreza marcial, así de simple. Unos treants furiosos están acosando a los viajeros en el Twelveswood. Quisiera que usted y su compañero<-->de<-->expedición se encarguen de ellos.
+TEXT_JOBBRD501_01713_SUBLEADER01713_000_049	Y para que no se preocupe, le asignamos a alguien capaz. Haré que se reúna con usted dentro de poco en Amarissaix's Spire, cerca de donde acechan esos treants. Buena suerte, Capitán.
+TEXT_JOBBRD501_01713_SANSON_000_055	No me sorprende. Es de los que dudan del valor de un bard.
+TEXT_JOBBRD501_01713_LEWIN_000_056	Aunque la prueba es algo forzada, es verdad que no nos sobran manos. Rezaré por su éxito.
+TEXT_JOBBRD501_01713_JEHANTEL_000_060	Con eso llegamos a tu parte en todo esto, <split(<string(gstr1)>, ,1)>. Mi deseo es que acompañes a Sanson en su expedición.
+TEXT_JOBBRD501_01713_JEHANTEL_000_061	Te lo pido porque no conozco mejor bard. Además, creo que sacarás algo de esta experiencia.
+TEXT_JOBBRD501_01713_JEHANTEL_000_062	Pero primero está el asunto de la prueba. Dudo que el Gods' Quiver piense de verdad prestarle un bard a Sanson. Por favor, ayúdalo a acabar con los treants, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBBRD501_01713_SANSON_000_063	Esas criaturas son enemigos temibles. Su ayuda me daría ánimos.
+TEXT_JOBBRD501_01713_SANSON_000_064	Me adelantaré a Amarissaix's Spire. Por favor, reúnase conmigo allí en cuanto pueda.
+TEXT_JOBBRD501_01713_SANSON_000_070	Me tomaron por sorpresa... ¡T-tenga cuidado!
+TEXT_JOBBRD501_01713_GUYDELOT_000_500	(-???-)<if(gnum4,La famosa,El famoso)> <string(gstr1)>, supongo.
+TEXT_JOBBRD501_01713_GUYDELOT_100_500	(-Archer seguro de sí-)No estás nada mal, <if(gnum4,hermana,hermano)>.
+TEXT_JOBBRD501_01713_PUKNOPOKI_000_501	¿¡"Nada mal"!? ¡<split(<string(gstr1)>, ,1)> es un prodigio, que lo sepas! ¡Por eso le di el amuleto, kupo!
+TEXT_JOBBRD501_01713_JEHANTEL_000_502	¡Guydelot! ¿Qué significa esta intromisión? ¡Estaban en plena prueba, por los dioses!
+TEXT_JOBBRD501_01713_GUYDELOT_000_503	(-Guydelot-)No te alteres, viejo. Le hace mal a tu corazón. Además, yo no lo llamaría intromisión, ya que formo parte de esta alegre banda.
+TEXT_JOBBRD501_01713_PUKNOPOKI_000_504	¡Es verdad, kupo! Estaba presente cuando recibió sus órdenes. Y también estaba presente cuando dijo: "¡Qué maldito fastidio! ¡Ojalá arruinen la prueba!".
+TEXT_JOBBRD501_01713_GUYDELOT_000_505	(-Guydelot-)Sí, bueno, dije eso, no lo voy a negar. Pero ver a <split(<string(gstr1)>, ,1)> en acción me hizo cambiar de opinión.
+TEXT_JOBBRD501_01713_GUYDELOT_000_506	Soy Guydelot, de los Gold Bulls. No me importan la fama ni la fortuna, y me importa un pepino esa Endecha de la Extinción Eterna que andan buscando.
+TEXT_JOBBRD501_01713_GUYDELOT_000_507	Lo que <italic(1)>sí<italic(0)> me interesa es el canto. No puedo dejar pasar la oportunidad de viajar con <if(gnum4,una bard excepcional,un bard excepcional)> como tú. Y te prometo que no saldrás perdiendo con mi grata compañía.
+TEXT_JOBBRD501_01713_JEHANTEL_000_508	Bueno, sin duda las cosas tomaron un giro interesante. Sepan que Guydelot es uno de mis alumnos más prometedores. Respondo por su habilidad.
+TEXT_JOBBRD501_01713_SANSON_000_509	Habilidad, sí, pero nada más.
+TEXT_JOBBRD501_01713_SANSON_000_511	Sé quién es usted, Guydelot the Spent. Su fama de alborotador lo precede. Trata a la autoridad con desprecio, elude el deber a cada paso y en general es un fastidio.
+TEXT_JOBBRD501_01713_SANSON_000_512	¡Que hayan mandado a alguien como usted quiere decir que <italic(1)>quieren<italic(0)> que fracase! Mis esperanzas de encontrar la Ballad of Oblivion... Todo hecho humo...
+TEXT_JOBBRD501_01713_GUYDELOT_000_513	Grrr, dímelo en la cara, ¿quieres? Jehantel, ¿de verdad tenemos que viajar con este presumido pomposo? ¡<split(<string(gstr1)>, ,1)> y yo solos nos arreglamos de sobra! ¡No necesitamos a nadie más!
+TEXT_JOBBRD501_01713_SANSON_000_514	¿<italic(1)>Sin<italic(0)> mí, dice? ¿¡Quién cree que está detrás de esta expedición!?
+TEXT_JOBBRD501_01713_SANSON_000_515	\<suspiro> Supongo que a caballo regalado no se le miran los dientes. <split(<string(gstr1)>, ,1)>, debo volver a Quiver's Hold con la noticia del éxito de la prueba. Por favor, reúnase conmigo allí.
+TEXT_JOBBRD501_01713_PUKNOPOKI_000_080	¡Qué alegría volver a verte, <split(<string(gstr1)>, ,1)>! ¡Tienes que volver a cantar para mí, y pronto, kupo!
+TEXT_JOBBRD501_01713_JEHANTEL_000_085	Puede que Guydelot tenga sus defectos, pero no es mal muchacho. A decir verdad, yo también pensaba presentártelo.
+TEXT_JOBBRD501_01713_JEHANTEL_000_086	Para eso le pedí a Pukno Poki que lo buscara, y resulta que apareció como nuestro arquero del Gods' Quiver. El destino obra de formas extrañas, ¿no?
+TEXT_JOBBRD501_01713_JEHANTEL_000_088	Lástima que él y Sanson no se entiendan. Sus caracteres son demasiado distintos, y esa brecha no será fácil de cerrar.
+TEXT_JOBBRD501_01713_JEHANTEL_000_089	Aunque será una carga para ti, no dudes de que, al cuidar de estas dos almas tan dispares, crecerás como bard.
+TEXT_JOBBRD501_01713_JEHANTEL_000_090	Pero vamos, volvamos rápido a Gridania. Todavía es muy pronto para dejar solos a esos dos.
+TEXT_JOBBRD501_01713_PUKNOPOKI_000_100	El aire está tenso como un arpa bien afinada, kupo...
+TEXT_JOBBRD501_01713_JEHANTEL_000_101	Puede que hayan empezado con el pie izquierdo, pero estos dos demostraron que están listos para la expedición.
+TEXT_JOBBRD501_01713_GUYDELOT_000_102	Ese Sanson no paró de hablar desde que llegó. En serio, <if(gnum4,hermana,hermano)>, estaríamos mejor sin él.
+TEXT_JOBBRD501_01713_SUBLEADER01713_000_103	Volvieron. Vaya, vaya...
+TEXT_JOBBRD501_01713_SANSON_000_110	Hicimos lo que nos pidió y acabamos con los treants furiosos. Confío en que no tenga objeciones a la expedición.
+TEXT_JOBBRD501_01713_SUBLEADER01713_000_111	Ninguna en absoluto. Y tampoco tengo dudas de que Guydelot le será de gran ayuda. Espero buenas noticias en los próximos días.
+TEXT_JOBBRD501_01713_SANSON_000_112	De gran ayuda, claro...
+TEXT_JOBBRD501_01713_SANSON_000_120	En fin, ya es oficial: podemos seguir con la expedición. Partamos de inmediato hacia la Holy See. Y por si se lo pregunta, ya nos conseguí el paso a territorio ishgardiano.
+TEXT_JOBBRD501_01713_SANSON_000_130	En fin, ya es oficial: podemos seguir con la expedición. Partamos de inmediato hacia la Holy See.
+TEXT_JOBBRD501_01713_SANSON_000_140	Y recuerde: tenemos una oportunidad de oro para elevar la posición de los bards en nuestra nación. ¡Cumplamos con nuestra misión y encontremos la Ballad of Oblivion!
+TEXT_JOBBRD501_01713_GUYDELOT_000_141	Un poco más tieso y se parte en dos.
+TEXT_JOBBRD501_01713_PUKNOPOKI_000_142	Será un viaje agotador, pero mientras trabajen juntos, ¡seguro que lo logran, kupo!
+TEXT_JOBBRD501_01713_JEHANTEL_000_143	Así que a Ishgard, entonces. Buen viaje, <if(gnum4,amiga mía,amigo mío)>. Esperaré tu regreso, deseando oír las canciones que nazcan de tu experiencia.
+TEXT_JOBBRD501_01713_PUKNOPOKI_000_145	Será un viaje agotador, pero mientras trabajen juntos, ¡seguro que lo logran, kupo!
+TEXT_JOBBRD501_01713_JEHANTEL_000_146	Así que a Ishgard, entonces. Buen viaje, <if(gnum4,amiga mía,amigo mío)>. Esperaré tu regreso, deseando oír las canciones que nazcan de tu experiencia.
+TEXT_JOBBRD501_01713_GUYDELOT_000_147	Uf, nieve y hielo por donde mires, y respirar duele como un demonio. Con todo este cielo abierto, se siente más lúgubre que la espesura del Twelveswood.
+TEXT_JOBBRD501_01713_SANSON_000_151	Primero haré averiguaciones aquí en Ishgard. En cuanto a usted, <split(<string(gstr1)>, ,1)>, por favor, descanse y recupere fuerzas. Seguramente las vamos a necesitar en el camino.
+TEXT_JOBBRD501_01713_GUYDELOT_000_152	¡Maldita sea, hombre! Estamos en un lugar nuevo, uno que no estuvo abierto a visitantes en más de una década, ¡y tú con la nariz metida en un maldito libro!
+TEXT_JOBBRD501_01713_GUYDELOT_000_153	¡Tómate un momento para sentir la ciudad, digo yo! Y para eso, me voy a una taberna a <italic(1)>sentir<italic(0)> a la gente del lugar: a las jóvenes, digamos. ¡Je, je, je!
+TEXT_JOBBRD501_01713_SYSTEM_000_155	La siguiente misión de bard estará disponible con Sanson al llegar al nivel 52.
+TEXT_JOBBRD501_01713_SYSTEM_000_156	Puedes consultar en el journal los requisitos para emprender las misiones siguientes.

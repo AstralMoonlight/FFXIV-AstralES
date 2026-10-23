@@ -1,0 +1,50 @@
+key	text
+TEXT_JOBPLD630_02572_SEQ_00	La mirada expectante de Mylla te dice que llegó la hora.
+TEXT_JOBPLD630_02572_SEQ_01	Empieza tu torneo. Con ocho combatientes en cada grupo, tienes que derrotar a tres para llegar a la final. En tu primer combate te tocó Bartholomew, de los Sultansworn, y Mylla te indica que vayas a la entrada del Coliseum y esperes a que te llame el encargado de inscripciones.
+TEXT_JOBPLD630_02572_SEQ_02	Mientras esperas, aparece Bartholomew y te dedica unas palabras deportivas, y poco después te llaman para que ocupes tu lugar en la arena. Te espera una serie de enfrentamientos agotadores; si te falta algún preparativo, el encargado de inscripciones te pide que te ocupes de eso ahora.
+TEXT_JOBPLD630_02572_SEQ_03	Después de superar con creces a Bartholomew, frenas la embestida del Bronze Bull y luego vences a Handeloup, de los Temple Knights, con lo que aseguras tu lugar en la final de la Ul Cup.
+TEXT_JOBPLD630_02572_SEQ_04	Vuelves al Gladiators' Guild y encuentras a tus tres rivales magullados, pero enteros. Después de intercambiar golpes, quizás sea buena idea intercambiar unas palabras con espíritu de camaradería.
+TEXT_JOBPLD630_02572_SEQ_05	Bartholomew, el Bronze Bull y Handeloup te felicitan juntos y te desean suerte en la batalla que viene. Cuando están por separarse, te enteras de que Mylla te estaba buscando.
+TEXT_JOBPLD630_02572_SEQ_06	Mylla describe tu actuación como impresionante y declara que piensa ganar en su grupo para que la final sea entre la maestra del gremio y su <if(gnum4,alumna,alumno)>. Sea quien sea tu rival, tendrás que dar lo mejor de ti en el combate.<br><br>※La siguiente misión de paladin estará disponible con Mylla al llegar al nivel 65.
+TEXT_JOBPLD630_02572_TODO_00	Espera en el lugar indicado.
+TEXT_JOBPLD630_02572_TODO_01	Habla con el encargado de inscripciones del torneo.
+TEXT_JOBPLD630_02572_TODO_02	Habla con el encargado de inscripciones del torneo.
+TEXT_JOBPLD630_02572_TODO_03	Habla con Handeloup.
+TEXT_JOBPLD630_02572_TODO_04	Habla con Mylla.
+TEXT_JOBPLD630_02572_MYLLA_000_000	¡Empieza, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBPLD630_02572_MYLLA_000_001	Hay ocho combatientes en cada grupo, así que tienes que ganar tres combates para pasar a la final.
+TEXT_JOBPLD630_02572_MYLLA_000_002	Y tu rival en el primer combate es Bartholomew, de los Sultansworn.
+TEXT_JOBPLD630_02572_MYLLA_000_003	Si lo derrotas, después te enfrentarás al ganador de otro emparejamiento, y así sucesivamente. Sobra decir que cada combate será más difícil que el anterior.
+TEXT_JOBPLD630_02572_MYLLA_000_004	Pero un combate a la vez. El encargado de inscripciones te llamará cuando sea hora de salir a las arenas sangrientas. ¡Ve, y buena suerte!
+TEXT_JOBPLD630_02572_MYLLA_000_005	El encargado de inscripciones te llamará cuando sea hora de salir a las arenas sangrientas. ¡Buena suerte, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBPLD630_02572_ATTENDANT02572_000_006	<string(gstr1)>, ¿verdad? Si puede esperar ahí mismo, le aviso cuando sea la hora.
+TEXT_JOBPLD630_02572_BARTHOLOMEW_000_010	Ja, pensar que me tocaría usted como primer rival. Doy gracias a los cielos al mismo tiempo que los maldigo...
+TEXT_JOBPLD630_02572_BARTHOLOMEW_000_011	Pero sea quien sea mi rival, pelearé con todo mi ser, por el orgullo de los Sultansworn. Nos vemos en las arenas sangrientas, <if(gnum4,amiga mía,amigo mío)>.
+TEXT_JOBPLD630_02572_ATTENDANT02572_000_012	Es la hora, <if(gnum4,mi señora,mi señor)>. Por favor, termine sus preparativos y avíseme cuando esté <if(gnum4,lista,listo)> para pasar.
+TEXT_JOBPLD630_02572_MYLLA_000_020	El encargado de inscripciones te llamará cuando sea hora de salir a las arenas sangrientas. ¡Buena suerte, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBPLD630_02572_ATTENDANT02572_000_020	¿Está <if(gnum4,lista,listo)> para entrar a la arena?
+TEXT_JOBPLD630_02572_DOURMEADOW_000_022	Con eso terminan todos los combates del grupo Thal. ¡Y qué enfrentamientos tan emocionantes fueron!
+TEXT_JOBPLD630_02572_ADRIEN_000_023	Así es, Dour. El público esperaba mucho y los combatientes cumplieron, empezando por <if(gnum4,la ganadora,el ganador)> del grupo, <string(gstr1)>, que se abrió paso hasta la final de forma convincente.
+TEXT_JOBPLD630_02572_DOURMEADOW_000_024	¿Repasamos su camino para los que llegaron tarde?
+TEXT_JOBPLD630_02572_ADRIEN_000_025	Me leyó la mente. En su primer combate, <split(<string(gstr1)>, ,1)> se enfrentó a Bartholomew. El Sultansworn peleó con el corazón, pero al final la estrella de los aventureros lo superó con creces.
+TEXT_JOBPLD630_02572_DOURMEADOW_000_026	Aunque puede estar orgulloso de su esfuerzo, por desgracia tuvo que despedirse del torneo. No había forma de pasar por encima de <split(<string(gstr1)>, ,1)>, que después se enfrentó al enorme Bronze Bull.
+TEXT_JOBPLD630_02572_ADRIEN_000_027	Veterano de incontables combates aquí en el Coliseum, se podría decir que jugaba de local. Desde el principio, ese hombre hizo valer su fuerza prodigiosa y desató oleada tras oleada de ataques demoledores, pero <split(<string(gstr1)>, ,1)> los resistió todos con calma y salió <if(gnum4,victoriosa,victorioso)>.
+TEXT_JOBPLD630_02572_ADRIEN_000_028	Con eso, pasó al combate final del grupo Thal contra Handeloup, de los Temple Knights. Con técnicas fulminantes que pocas veces se ven por esta parte de Eorzea, el visitante ishgardiano parecía de verdad peligroso.
+TEXT_JOBPLD630_02572_DOURMEADOW_000_029	A decir verdad, por un momento temí por <split(<string(gstr1)>, ,1)>, pero <if(gnum4,la aventurera,el aventurero)> sacó fuerzas de donde no había para asegurarse la victoria... ¡y un lugar en la final de la Ul Cup! ¡Aaah, solo de recordarlo el corazón se me desboca como un chocobo fuera de control!
+TEXT_JOBPLD630_02572_ADRIEN_000_030	Respire hondo, amigo mío, que todavía queda más emoción. Los combates del grupo Nald empiezan en breve, con nombres como la First Sword Mylla saliendo a las arenas sangrientas.
+TEXT_JOBPLD630_02572_DOURMEADOW_000_031	¡¿Qué hice para merecer semejante regalo?! ¡No me voy a perder esos combates, y ustedes tampoco deberían!
+TEXT_JOBPLD630_02572_ODDE_100_031	Todo sale como estaba previsto. Bien.
+TEXT_JOBPLD630_02572_SUSPICIOUSAUDIENCE02572_110_031	<if(gnum4,La paladin libre,El paladin libre)> del que te hablé está a la altura de lo que se esperaba, ¿no?
+TEXT_JOBPLD630_02572_ODDE_120_031	Jejeje, así es. Sigue ganando, <if(gnum4,amiga mía,amigo mío)>, y gánanos una fortuna.
+TEXT_JOBPLD630_02572_ATTENDANT02572_000_032	<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <if(gnum4,mi señora,mi señor)>, ¡y permítame darle mis más sinceras felicitaciones por llegar a la final!
+TEXT_JOBPLD630_02572_MYLLA_000_033	¡Bien peleado, <split(<string(gstr1)>, ,1)>! Te felicitaría más, pero primero deberías ir a hablar con tus rivales. Después de intercambiar golpes, es bueno intercambiar unas palabras con espíritu de camaradería.
+TEXT_JOBPLD630_02572_HANDELOUP_000_040	<split(<string(gstr1)>, ,1)>, estuvo <if(gnum4,magnífica,magnífico)>. Nuestro combate quedará grabado en mi memoria y me inspirará siempre.
+TEXT_JOBPLD630_02572_BARTHOLOMEW_000_041	No tuve ninguna respuesta para usted. Qué cosas tan valiosas habrá protegido para volverse tan fuerte.
+TEXT_JOBPLD630_02572_BARTHOLOMEW_100_041	Como sabe, los Sultansworn vivimos para proteger a Su Gracia. Se mire como se mire, es un deber vital, y siempre me esfuerzo por estar a la altura.
+TEXT_JOBPLD630_02572_BARTHOLOMEW_110_041	Pero cruzar espadas con usted hoy me hizo pensar que quizás no sea suficiente. Lo que sea que todavía me falta, quizás lo encuentre <if(gnum4,viéndola,viéndolo)> a usted.
+TEXT_JOBPLD630_02572_BRONZEBULL_000_042	Creí que tenía alguna posibilidad, pero claramente me adelanté. Me dio una lección completa, y pienso tomármela en serio.
+TEXT_JOBPLD630_02572_HANDELOUP_000_043	Aunque mi torneo haya terminado, me quedaré en Ul'dah para ver los combates que vienen. Y creo que hablo por todos aquí al desearle la mejor de las suertes. Nuestras esperanzas <if(gnum4,la,lo)> acompañan, <if(gnum4,amiga mía,amigo mío)>.
+TEXT_JOBPLD630_02572_HANDELOUP_000_044	Ah, una mujer llamada Mylla <if(gnum4,la,lo)> estaba buscando. Si todavía no habló con ella, quizás debería ir a verla.
+TEXT_JOBPLD630_02572_MYLLA_000_050	¡Un lugar en la final! Sabía que podías, ¡pero verlo pasar todo fue simplemente impresionante!
+TEXT_JOBPLD630_02572_MYLLA_000_051	Quien gane el grupo Nald se enfrentará a ti por el título, y basta decir que pienso ser yo.
+TEXT_JOBPLD630_02572_MYLLA_000_052	Me aseguraré de que nuestro combate se haga realidad, ¡y espero poder contar con tu apoyo!

@@ -1,0 +1,33 @@
+key	text
+TEXT_JOBBRD451_01089_SEQ_00	Jehantel tiene un pedido para ti.
+TEXT_JOBBRD451_01089_SEQ_01	El bard al que llaman the Godsbow te pidió que reúnas las cuatro piezas del choral attire. Busca en los sacos de Halfstone, en Western La Noscea; de Urth's Gift, en el South Shroud; de Raubahn's Push, en Northern Thanalan, y del Goldleaf Dais, en el East Shroud.
+TEXT_JOBBRD451_01089_SEQ_02	Reuniste las cuatro piezas del choral attire. Vuelve al campamento de Jehantel, al oeste de Quarrymill, en el South Shroud.
+TEXT_JOBBRD451_01089_SEQ_03	Volviste con Jehantel trayendo las prendas que él una vez abandonó a su suerte. Ya del todo convencido de que tu destino es vestir el choral attire, parece que el bard tomó una decisión. Te pide tiempo para hacer ciertos preparativos y te manda a concentrarte en tu entrenamiento.<br><br>※La siguiente misión de bard estará disponible con Jehantel al llegar al nivel 50.
+TEXT_JOBBRD451_01089_TODO_00	Encuentra el choral attire en Halfstone.
+TEXT_JOBBRD451_01089_TODO_01	Encuentra el choral attire en Urth's Gift.
+TEXT_JOBBRD451_01089_TODO_02	Encuentra el choral attire en Raubahn's Push.
+TEXT_JOBBRD451_01089_TODO_03	Encuentra el choral attire en el Goldleaf Dais.
+TEXT_JOBBRD451_01089_TODO_04	Vuelve con Jehantel a su campamento al oeste de Quarrymill.
+TEXT_JOBBRD451_01089_JEHANTEL_000_000	¿Vas a escuchar mi pedido aun sabiendo que soy el necio vanaglorioso? Me siento muy honrado.
+TEXT_JOBBRD451_01089_JEHANTEL_000_001	Lo que te pido es sencillo: quisiera que cantaras para mí.
+TEXT_JOBBRD451_01089_Q1_000_000	¿Cantarás para Jehantel?
+TEXT_JOBBRD451_01089_A1_000_001	Sí
+TEXT_JOBBRD451_01089_A2_000_002	No
+TEXT_JOBBRD451_01089_JEHANTEL_000_002	Una interpretación sentida y magistral. Llegaste lejos en tan poco tiempo, mi joven aprendiz.
+TEXT_JOBBRD451_01089_JEHANTEL_000_003	Al oír tu canto hoy, estoy convencido de que vas camino de superarme, como bard y como archer. Pronto no me quedará nada que enseñarte.
+TEXT_JOBBRD451_01089_JEHANTEL_000_004	<split(<string(gstr1)>, ,1)>. Demostraste ser dign<if(gnum4,a,o)> de las prendas consagradas que vestían los verdaderos bards de antaño para honrar al Keeper. Hablo del choral attire.
+TEXT_JOBBRD451_01089_JEHANTEL_000_005	Me confiaron el atuendo cuando Pukno Poki y yo nos conocimos, en lo profundo del Twelveswood. El moogle y yo apenas habíamos cruzado unas pocas palabras cuando me ofreció el atuendo junto con el Soul of the Bard.
+TEXT_JOBBRD451_01089_JEHANTEL_000_006	En ese entonces no conocía el verdadero poder del canto, así que rechacé los regalos... pero Pukno Poki no aceptaba un no. Con todo su buen humor, el moogle puede ser más terco que una roca. "El atuendo elige a quien lo viste, no al revés", insistió, y terminé cediendo a su voluntad.
+TEXT_JOBBRD451_01089_JEHANTEL_000_007	Al dominar los versos de guerra, gané en el campo de batalla una fama que superaba mis sueños más locos, y por un tiempo estuve muy satisfecho.
+TEXT_JOBBRD451_01089_JEHANTEL_000_008	Por desgracia, mi ansia de gloria no tenía límites, y ya conoces las consecuencias. Fue después de la Massacre of Griffin Crossing. Abrumado por la culpa, no deseaba otra cosa que se abriera la tierra y me tragara entero. Había perdido las ganas de vivir, sí, pero era demasiado cobarde para acabar con todo yo mismo.
+TEXT_JOBBRD451_01089_JEHANTEL_000_009	Así que me puse a vagar sin rumbo, buscando un lugar donde morir, lejos de las miradas acusadoras de los hombres.
+TEXT_JOBBRD451_01089_JEHANTEL_000_010	Desengañado del poder del canto, cometí una locura: desperdigué el choral attire por el mundo. "Si de verdad el atuendo elige a quien lo viste", desafié, "que encuentre el camino de vuelta a mí".
+TEXT_JOBBRD451_01089_JEHANTEL_000_011	Decidido a que no me demostraran lo contrario, me esforcé mucho para que el atuendo no volviera a ver la luz del día, y ahora las piezas descansan en lugares peligrosos. Necio orgulloso como era, nunca se me pasó por la cabeza que quizá otra persona estuviera destinada a vestirlo.
+TEXT_JOBBRD451_01089_JEHANTEL_000_012	Quisiera confiarte el choral attire, <split(<string(gstr1)>, ,1)>. Pero como ves, tendrás que desafiar los peligros para conseguirlo. Marcaré en tu mapa dónde está, pero no puedo darte más ayuda que esa.
+TEXT_JOBBRD451_01089_JEHANTEL_000_013	Lamento mucho que mi locura de hace años te haya echado encima esta carga. Pero Althyk obra de formas misteriosas: quizá en Su sabiduría te envió esta prueba para poner a prueba tu espíritu.
+TEXT_JOBBRD451_01089_JEHANTEL_000_014	No quiero agobiarte con mis sentimientos, pero estoy convencido de que eres <if(gnum4,la elegida,el elegido)> del choral attire.
+TEXT_JOBBRD451_01089_JEHANTEL_000_015	Pero, por favor, no tomes eso como permiso para confiarte. Las pruebas no se llamarían así si no exigieran lo mejor de uno. Mantente siempre alerta, <split(<string(gstr1)>, ,1)>. Quiero que vuelvas sin un rasguño y con las cuatro piezas de mis prendas abandonadas.
+TEXT_JOBBRD451_01089_JEHANTEL_000_016	¡Escuchadme, oh poderoso Althyk! ¡Invertid el giro de las estaciones, para que contemplemos las batallas de antaño!
+TEXT_JOBBRD451_01089_JEHANTEL_000_020	Así que volviste... ¿<if(gnum4,sana,sano)> de cuerpo y de mente, espero? ¡Y traes las cuatro piezas del choral attire!
+TEXT_JOBBRD451_01089_JEHANTEL_000_021	Supe que eras <if(gnum4,la verdadera dueña,el verdadero dueño)> de estas prendas antes de oír tu canto. Desde el día en que nos conocimos, tu determinación me recordó mucho de lo que perdí... y que quisiera recuperar.
+TEXT_JOBBRD451_01089_JEHANTEL_000_022	Por fin tomé una decisión sobre un asunto que me atormenta desde hace décadas. Cuando termine mis preparativos, sabrás lo que decidí. Hasta entonces, que tu canto levante el ánimo de tus aliados y tus flechas busquen el corazón de tus enemigos.

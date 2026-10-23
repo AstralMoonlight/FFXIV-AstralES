@@ -1,0 +1,72 @@
+key	text
+TEXT_JOBMNK300_01061_SEQ_00	Gagaruna tiene trabajo para un pugilist dispuesto.
+TEXT_JOBMNK300_01061_SEQ_01	Te encargaron velar por la seguridad de uno de los historiadores militares más destacados de Eorzea. Ve al Goldsmiths' Guild y habla allí con el Profesor Erik, la persona a la que vas a proteger.
+TEXT_JOBMNK300_01061_SEQ_02	El Profesor Erik te cuenta que, en medio de sus estudios, su guardaespaldas anterior se fue de su lado y no volvió. Sin protección, el profesor no puede seguir con su investigación, y por eso tienes que ayudarlo con el trabajo de campo, que es crucial. Adelántate hasta el Sil'dih excavation site, en Central Thanalan, e instala el aetherometer que te confió.
+TEXT_JOBMNK300_01061_SEQ_03	El aether que fluye por el campo de batalla abrió uno de los chakra que hay en ti. Al verlo, un monk veterano llamado Widargelt te regala un soul crystal, la marca de los miembros de la orden de los monks. Te explica que con él aprenderás las técnicas de los monks que lo llevaron antes que tú, pero solo cuando tus chakra se abran más. Por ahora, recupera el aetherometer.
+TEXT_JOBMNK300_01061_SEQ_04	Ya que recuperaste el aetherometer olvidado, vuelve al Goldsmiths' Guild y entrégaselo al Profesor Erik.
+TEXT_JOBMNK300_01061_SEQ_05	El Profesor Erik te advierte que necesitas prepararte más antes de emprender la siguiente tarea que tiene para ti.<br><br>※La siguiente misión de monk estará disponible con Erik al llegar al nivel 35.
+TEXT_JOBMNK300_01061_TODO_00	Habla con Erik en el Goldsmiths' Guild.
+TEXT_JOBMNK300_01061_TODO_01	Instala el aetherometer en el Sil'dih excavation site.
+TEXT_JOBMNK300_01061_TODO_02	Recupera el aetherometer.
+TEXT_JOBMNK300_01061_TODO_03	Entrégale el aetherometer a Erik.
+TEXT_JOBMNK300_01061_GAGARUNA_000_000	Dime, ¿conoces al Profesor Erik? ¡Es un estudioso de la historia militar de Eorzea, de un genio que no tiene igual! Y es uno de nuestros clientes más valiosos.
+TEXT_JOBMNK300_01061_GAGARUNA_000_001	Algunos lo encuentran... verborrágico. Pesado. Altanero. ¡Pero no importa! ¡Ese hombre gasta en una luna de investigación más gil del que la mayoría ve en toda su vida! ¡De ahí nuestras amigables relaciones!
+TEXT_JOBMNK300_01061_GAGARUNA_000_002	Su último trabajo lo lleva a visitar los lugares de antiguos campos de batalla. Insiste en estudiar tierras plagadas de bestias salvajes.
+TEXT_JOBMNK300_01061_GAGARUNA_000_003	Según él, las bestias mantienen alejada a la gente, y menos intromisión humana significa mejor conservación.
+TEXT_JOBMNK300_01061_GAGARUNA_000_004	Sean cuales sean sus motivos, si al profesor le pasara algo, ¡no podríamos cobrar el gil que nos debe, y mucho menos los intereses! Ah, y sería una pérdida terrible para la comunidad académica y bla, bla, bla, sí, sí.
+TEXT_JOBMNK300_01061_GAGARUNA_000_005	Lo importante es que hay que protegerlo. Para eso le mandé a un monk de Ala Mhigo para que velara por su seguridad, pero resulta que el muy bruto no tiene ninguna ética de trabajo... típico de un alamhigano.
+TEXT_JOBMNK300_01061_GAGARUNA_000_006	El profesor no puede concentrarse en su trabajo si se siente en peligro, así que exigió que le asignáramos un nuevo guardaespaldas.
+TEXT_JOBMNK300_01061_GAGARUNA_000_007	Por eso me alegra tanto verte, <split(<string(gstr1)>, ,1)>. El profesor está esperando a su nueva escolta en este momento, y me gustaría que fueras tú.
+TEXT_JOBMNK300_01061_GAGARUNA_000_008	Todavía eres apenas pugilist. Quizás esta tarea te ayude a entender a qué se dedican los monks por aquí.
+TEXT_JOBMNK300_01061_GAGARUNA_000_009	Ve al Goldsmiths' Guild y busca allí a nuestro querido Profesor Erik.
+TEXT_JOBMNK300_01061_GAGARUNA_000_010	El profesor dice que pagará su deuda y los honorarios de su protección cuando termine su investigación. Asegúrate de que nuestra inversión no termine bajo la garra o en las fauces de alguna bestia asquerosa.
+TEXT_JOBMNK300_01061_ERIK_000_020	Ah, ¿<if(gnum4,mi sirvienta,mi sirviente)> de puños fáciles, supongo? Puedes y debes llamarme Erik. Tienes que proteger mi vida, aun a costa de la tuya, y ayudar en mi revolucionaria investigación cuando y como se te pida.
+TEXT_JOBMNK300_01061_ERIK_000_021	Debes saber que mi tarea principal es reconstruir las historias militares de antaño mediante el análisis aetherial de antiguos campos de batalla.
+TEXT_JOBMNK300_01061_ERIK_000_022	Supongo que en tu mente simple esas palabras evocan imágenes románticas de vastas llanuras y valles abiertos, con ejércitos cargando a ciegas unos contra otros. ¡Falso!
+TEXT_JOBMNK300_01061_ERIK_000_023	Busco saber dónde se desplegaban los ejércitos de antaño. Dónde acampaban y por dónde marchaban. Sin duda crees que esas tierras son las que cantan los bardos en sus canciones. ¡Falso! ¡Están <italic(1)>aquí<italic(0)>, bajo nuestros propios pies! Y encontrarlas y determinar <italic(1)>exactamente<italic(0)> cómo se desarrollaron los hechos en ellas es mi propósito.
+TEXT_JOBMNK300_01061_ERIK_000_024	Sin duda aprovechaste <if(gnum4,encantada,encantado)> la oportunidad de ayudar en mi trabajo. Dime, ¿cuáles de mis tratados leíste? ¿Todos... <italic(1)>ninguno<italic(0)>? Dioses, sabía que ustedes los aventureros tenían fama de iletrados. No sabía que se esforzaban por seguir siéndolo. \<suspiro> No importa.
+TEXT_JOBMNK300_01061_ERIK_000_025	Solo te pido que trabajes con diligencia, no como ese bufón de Widargelt. Ese hombre resultó ser la pereza en persona. Claro que <italic(1)>es<italic(0)> un monk de Ala Mhigo. Supongo que el tonto estaba demasiado ocupado abriendo sus <italic(1)>chakra<italic(0)> o lo que sea que hagan esos bárbaros todo el día.
+TEXT_JOBMNK300_01061_ERIK_000_026	Lo admito, parecía muy interesado en mi investigación, pero ahora se fue sabrán los Twelve adónde y todavía no vuelve. ¿Entiendes la enorme magnitud de este inconveniente?
+TEXT_JOBMNK300_01061_ERIK_000_027	Bien, bien. Al menos eso promete algo. Pero hablemos más de mi trabajo. Nuestro primer destino es el Sil'dih excavation site, en Central Thanalan. Creo que allí ocurrieron hechos de gran importancia para la historia de Sil'dih.
+TEXT_JOBMNK300_01061_ERIK_000_028	¿Hm? Si tienes oídos, seguro oíste hablar de Sil'dih, ¿no? ¿O eres tan <if(gnum4,sorda,sordo)> como torpe? \<suspiro> Muy bien. Veo que necesitas instrucción. Como académico, sería una negligencia dejarte revolcarte en semejante ignorancia.
+TEXT_JOBMNK300_01061_ERIK_000_029	Sil'dih se sumió en el caos tras la muerte del Rey Lalawefu, o el King of Springs, como se lo conocía. A pesar del éxito de las reformas económicas...\<parloteo>...fomentó el descontento entre el pueblo...\<parloteo>...con estallidos violentos por todo el reino.
+TEXT_JOBMNK300_01061_ERIK_000_030	Sil'dih estaba...\<parloteo>...el sultán de entonces...\<parloteo>...descendiente lejano...\<parloteo>...se ordenó el ataque... \<parloteo>
+TEXT_JOBMNK300_01061_ERIK_000_031	Y así...\<parloteo>...la ironía de las ironías...\<parloteo>...de no haber sido por ese caballo... \<parloteo>
+TEXT_JOBMNK300_01061_ERIK_000_032	Fascinante, ¿no? Basta para convencer a cualquiera de que las cosas no podrían haber pasado de otra forma, ¿verdad? ¡Falso! Uno de mis colegas no estaba de acuerdo con esta interpretación. Decía tener pruebas de lo contrario, pero todo rastro de ellas desapareció antes de que se publicaran.
+TEXT_JOBMNK300_01061_ERIK_000_033	¡Mi propia investigación desenterrará esas pruebas, si de verdad existen! ¡Conoceré la verdad! Es cierto que no eres el carbón más encendido del brasero, pero seguro que una perspectiva así te tienta incluso a ti.
+TEXT_JOBMNK300_01061_ERIK_000_034	Así que vamos al Sil'dih excavation site, en Central Thanalan. Ve delante de mí para asegurarte de que el camino sea seguro y, cuando llegues, instala este aetherometer.
+TEXT_JOBMNK300_01061_ERIK_000_035	Y si alguna vez quieres saber más de la historia militar de Eorzea, ven a verme. Es una cruzada personal guiar a los ignorantes de este reino hacia un mínimo de iluminación.
+TEXT_JOBMNK300_01061_ERIK_000_040	¡Bien hecho! Ahora solo tenemos que esperar a que el aetherometer mida el- ¿Hm?
+TEXT_JOBMNK300_01061_ERIK_100_050	Hay bestias cerca, <split(<string(gstr1)>, ,1)>. Suelen sentirse atraídas por el olor persistente de la sangre y la muerte. Bueno, para esto estás aquí. Adelante.
+TEXT_JOBMNK300_01061_ERIK_000_050	¡Widargelt! ¡Qué amable de tu parte arrastrarte hasta aquí, holgazán miope! Ah, y <split(<string(gstr1)>, ,1)>. Superaste con creces las expectativas que tenía de ti, que eran bajas, lo admito.
+TEXT_JOBMNK300_01061_ERIK_000_051	Supongo que corresponden las presentaciones. Lejos de mí negarles a los iletrados del reino el consuelo de su mutua compañía. Widargelt, <split(<string(gstr1)>, ,1)>. <split(<string(gstr1)>, ,1)>, Widargelt, el monk del que te hablé, el que me mandó Gagaruna.
+TEXT_JOBMNK300_01061_ERIK_000_052	Intenté hacer de Widargelt un alumno también, pero tiene poca cabeza para la historia. Sus creencias primitivas en la brujería de los chakra y las energías espirituales lo tienen bien agarrado.
+TEXT_JOBMNK300_01061_ERIK_000_053	¿Oh? ¡¿De verdad?! ¡¿<italic(1)>Esta<italic(0)> es la zona donde vieron muertos caminantes?! Oí las historias. ¡Algunos dicen que vieron una aparición vestida como un antiguo comandante!
+TEXT_JOBMNK300_01061_WIDARGELT_000_054	Cuidado. Todavía hay peligros.
+TEXT_JOBMNK300_01061_WIDARGELT_000_055	Su trabajo le es querido. Eso es bueno. Tiene sed de conocimiento. De verdad. El descubrimiento lo despierta. Tú también despertaste, <if(gnum4,amiga,amigo)>. ¿No lo sientes?
+TEXT_JOBMNK300_01061_WIDARGELT_000_056	No temas. Aquí hubo una batalla. Hace mucho. Queda mucha energía. Te encontró. Fluye por ti. Tu chakra se abrió. Esa era la luz que brillaba en ti.
+TEXT_JOBMNK300_01061_WIDARGELT_000_057	Es como dijo Erik. Me llamo Widargelt. Soy un hermano de los monks. Mi orden es el Fist of Rhalgr. Nuestro camino es entrenar el cuerpo y la mente.
+TEXT_JOBMNK300_01061_WIDARGELT_000_058	El puño es nuestra arma. Con él abatimos a nuestros enemigos. La energía que hay en nosotros mueve el puño. El chakra es la sede de esa energía. Es un lugar sagrado. Se puede abrir, y controlar la fuerza vital que guarda.
+TEXT_JOBMNK300_01061_WIDARGELT_000_059	Los chakra existen en todo lo que vive, en todos los seres. Pero no todos los seres pueden abrirlos.
+TEXT_JOBMNK300_01061_WIDARGELT_000_060	Hace falta mucho entrenamiento. Y gran disciplina. Con eso, la fuerza vital se domina.
+TEXT_JOBMNK300_01061_WIDARGELT_000_061	Hay quienes no necesitan entrenamiento. Su fuerza interior es tal que abre los chakra por la fuerza. Oí que eso pasa. Pero nunca lo vi... hasta ahora.
+TEXT_JOBMNK300_01061_WIDARGELT_000_062	Veo en ti una gran convicción. Quieres seguir el camino del monk. Así que te daré esto: un soul crystal. La marca de mi orden.
+TEXT_JOBMNK300_01061_WIDARGELT_000_063	Solo un monk puede tenerlo. Y solo con permiso de la orden. Pero tu chakra despertó. Eso está claro. Así que eres <if(gnum4,digna,digno)>.
+TEXT_JOBMNK300_01061_WIDARGELT_000_064	Muchos llevaron ese cristal antes que tú. Los recuerda. Su respiración y sus movimientos. Algún día serán tuyos. Pero tu chakra debe abrirse más. Solo entonces los recuerdos del cristal entrarán en ti.
+TEXT_JOBMNK300_01061_WIDARGELT_000_065	Esto no es más que el comienzo. Ahora debes entrenar. Aprende a controlar la fuerza vital que hay en ti. Con el tiempo, la dominarás.
+TEXT_JOBMNK300_01061_WIDARGELT_000_066	Estamos en un antiguo campo de batalla. Aquí se libró una gran guerra. El espíritu de la pelea perdura. El aether busca los chakra. Ayuda a abrirlos. Por eso los monks buscamos estas tierras.
+TEXT_JOBMNK300_01061_WIDARGELT_000_067	Erik busca estas tierras por motivos propios. El destino te favorece en esto. Síguelo. Tus chakra crecerán cada vez más.
+TEXT_JOBMNK300_01061_WIDARGELT_000_068	¿Hm? El Profesor Erik se va. No temas. Yo velaré por su seguridad. Por favor, <if(gnum4,hermana,hermano)>, el aetherometer. Recógelo y llévalo al Goldsmiths' Guild.
+TEXT_JOBMNK300_01061_ERIK_000_080	Vaya, mira quién decidió honrarnos con su presencia. ¿Disfrutaste el paseíto de vuelta? Justo iba a empezar mi análisis, así que si tienes asuntos de los que quieras hablar, te pido que los guardes para-
+TEXT_JOBMNK300_01061_ERIK_000_081	¡Trajiste el aetherometer! Excelente. Tenía la sensación de que quizás no eras del todo inútil. Ahora, veamos qué descubrimientos nos esperan.
+TEXT_JOBMNK300_01061_ERIK_000_082	¿Hm? ¿Widargelt te pasó un soul crystal? ¿Ese tarado cabeza hueca te convenció de unirte a los monks? \<suspiro> Bueno, supongo que es mejor que mis alumnos se lleven bien.
+TEXT_JOBMNK300_01061_ERIK_000_083	Pero creo que me encargaré de mandarlos a lugares distintos para la siguiente tanda de mediciones. Y me atrevo a decir que la tierra adonde pienso mandarte está llena de peligros. Más te vale avanzar rápido en el camino del monk si quieres defenderte... ¡y defenderme a mí, de paso!
+TEXT_JOBMNK300_01061_SYSTEM_000_084	La siguiente misión de monk estará disponible con Erik al llegar al nivel 35.
+TEXT_JOBMNK300_01061_QIB_001_TODO_1	¡Derrota a los imps!
+TEXT_JOBMNK300_01061_QIB_001_ERIK_BATTLETALK_01	¡Denles una paliza infernal a esas malditas cosas! ¡Hay mediciones que tomar!
+TEXT_JOBMNK300_01061_QIB_001_ERIK_BATTLETALK_02	¡Sí, <italic(1)>sí<italic(0)>, eso es! ¡Ahora sí fluyen los datos!
+TEXT_JOBMNK300_01061_QIB_001_ERIK_BATTLETALK_03	¡Aaah, aquí viene un enemigo <italic(1)>de verdad<italic(0)>!
+TEXT_JOBMNK300_01061_QIB_001_ERIK_BATTLETALK_04	¡Fascinante! ¡Estos datos serán de un valor incalculable!
+TEXT_JOBMNK300_01061_SYSTEM_000_090	¡Desbloqueaste un nuevo job! Puedes cambiar a este job cuando quieras equipando el soul crystal que recibiste en esta misión.
+TEXT_JOBMNK300_01061_SYSTEM_000_091	Al cambiar de job, los <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipo. Así puedes cambiar de job al instante, sin equipar a mano armas ni equipo.
+TEXT_JOBMNK300_01061_SYSTEM_000_092	El botón de la interfaz Gear Set está en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)>.

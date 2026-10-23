@@ -1,0 +1,73 @@
+key	text
+TEXT_JOBDRG450_01070_SEQ_00	Ser Alberic esperaba con ansias tu llegada.
+TEXT_JOBDRG450_01070_SEQ_01	Para gran sorpresa de Ser Alberic, el fugitivo Estinien se puso en contacto y dice que tiene un asunto importante que tratar con ustedes dos. Viaja a Boulder Downs y espera su llegada en el punto de encuentro acordado.
+TEXT_JOBDRG450_01070_SEQ_02	Estinien explica que no robó el Eye por traición, sino para librar a Ishgard de la ira de Nidhogg cuando vuelva el gran dragón. Al darse cuenta de que te eligieron como segundo Azure Dragoon, te propone que maten juntos al antiguo dragón. Vuelve al Observatorium y habla con Ser Alberic para saber cómo conseguir la armadura necesaria para la tarea.
+TEXT_JOBDRG450_01070_SEQ_03	Ser Alberic te explica que debes ganarte tu drachen armor como los Azure Dragoons que te precedieron: con pruebas. Viaja al Ogre's Belly y busca a Ser Brucemont.
+TEXT_JOBDRG450_01070_SEQ_04	Superaste la primera prueba. Habla con Ser Brucemont y recibe tu recompensa.
+TEXT_JOBDRG450_01070_SEQ_05	Las pruebas continúan. Avanza a la siguiente cámara y habla con Ser Heustienne.
+TEXT_JOBDRG450_01070_SEQ_06	Superaste la segunda prueba. Habla con Ser Heustienne y recibe tu recompensa.
+TEXT_JOBDRG450_01070_SEQ_07	Te espera otro desafío más. Avanza hacia el interior de la caverna y habla con Ser Brucemont.
+TEXT_JOBDRG450_01070_SEQ_08	Triunfaste en la tercera prueba. Vuelve a hablar con Ser Brucemont.
+TEXT_JOBDRG450_01070_SEQ_09	Conseguiste la tercera pieza de la drachen armor. Vuelve al Observatorium y cuéntale a Ser Alberic tu éxito.
+TEXT_JOBDRG450_01070_SEQ_10	Ser Alberic te informa que te espera una última prueba. Viaja al cementerio al noroeste del Steel Vigil, toca una sola nota con la flauta que te dio y encárgate del visitante que llegue.
+TEXT_JOBDRG450_01070_SEQ_11	Mataste a un poderoso dragón de la Dravanian Horde y te quedaste con su cráneo. Llévaselo a Ser Alberic como prueba de tu victoria.
+TEXT_JOBDRG450_01070_SEQ_12	Al recibir el cráneo, Ser Alberic te felicita y te entrega la cuarta pieza de la drachen armor. Aunque la quinta pieza sigue fuera de tu alcance, el viejo dragoon te asegura que estás <if(gnum4,lista,listo)> para terminar tu entrenamiento. Pero antes de seguir, quiere que reafirmes tu compromiso. Si de verdad estás <if(gnum4,dispuesta,dispuesto)> a partir con Estinien a luchar contra el gran dragón Nidhogg, vuelve a hablar con Ser Alberic.
+TEXT_JOBDRG450_01070_TODO_00	Espera a Estinien en el punto de encuentro.
+TEXT_JOBDRG450_01070_TODO_01	Habla con Alberic.
+TEXT_JOBDRG450_01070_TODO_02	Habla con Brucemont y completa la prueba.
+TEXT_JOBDRG450_01070_TODO_03	Recibe la drachen armor de Brucemont.
+TEXT_JOBDRG450_01070_TODO_04	Habla con Heustienne y completa la prueba.
+TEXT_JOBDRG450_01070_TODO_05	Recibe la drachen armor de Heustienne.
+TEXT_JOBDRG450_01070_TODO_06	Habla con Brucemont y completa la prueba.
+TEXT_JOBDRG450_01070_TODO_07	Recibe la drachen armor de Brucemont.
+TEXT_JOBDRG450_01070_TODO_08	Habla con Alberic.
+TEXT_JOBDRG450_01070_TODO_09	Toca la flauta y completa la prueba final.
+TEXT_JOBDRG450_01070_TODO_10	Entrégale a Alberic la draconian flute y el Horde skull.
+TEXT_JOBDRG450_01070_ALBERIC_000_000	Llegas justo a tiempo, <split(<string(gstr1)>, ,1)>. Hace apenas un momento llegó un mensaje de Estinien, para mi asombro. Quiere hablar con nosotros y nos pide que nos reunamos con él en Boulder Downs.
+TEXT_JOBDRG450_01070_ALBERIC_000_001	No sabría decir cuáles son sus verdaderas intenciones. Bien podría ser una trampa, pero aun así debemos ir. Confío en que puedo contar con tu compañía.
+TEXT_JOBDRG450_01070_ESTINIEN_000_010	Saludos, Maestro. Pasó demasiado tiempo.
+TEXT_JOBDRG450_01070_ALBERIC_000_011	¡Estinien, termina con esta locura de una vez! Debes saber que cada segundo que el Eye pasa fuera de los muros de Ishgard nos acerca más a que se repita la tragedia de hace veinte veranos. Entrégate con el Eye y vuelve conmigo a Ishgard antes de que sea demasiado tarde.
+TEXT_JOBDRG450_01070_ESTINIEN_000_012	Ah, pero <italic(1)>ya<italic(0)> es demasiado tarde, Maestro. Porque verás, Nidhogg ya despertó.
+TEXT_JOBDRG450_01070_ALBERIC_000_013	¿¡Qué!?
+TEXT_JOBDRG450_01070_ESTINIEN_000_014	Escúchame, Maestro: te equivocas sobre la causa del regreso de los dragones. El Eye no tiene la culpa.
+TEXT_JOBDRG450_01070_ESTINIEN_000_015	El dragón que llevo dentro me dio un presentimiento: me advirtió que el gran dragón pronto despertaría.
+TEXT_JOBDRG450_01070_ESTINIEN_000_016	Aun dormido, Nidhogg hervía de un rencor incontenible por aquella herida de hace veinte años. Ese rencor lo hará volar hacia Ishgard como una flecha, y lo que vendrá después será muerte y devastación.
+TEXT_JOBDRG450_01070_ESTINIEN_000_017	Pero hay una solución posible: si el Eye se llevara a una tierra remota, lejos de la Holy See, entonces, y solo entonces, se podría evitar la destrucción y salvar la vida de los ishgardianos inocentes.
+TEXT_JOBDRG450_01070_ALBERIC_000_018	¿¡P-pretendes usarte a ti mismo como carnada!?<br>...No, aquí hay algo más de lo que dices. Buscas vengar a Ferndale.
+TEXT_JOBDRG450_01070_ESTINIEN_000_019	Para mí, las dos cosas son una sola. Conoces mi pasado mejor que nadie. Me hice dragoon por una sola razón: vengar a mi familia.
+TEXT_JOBDRG450_01070_ESTINIEN_000_020	Los dragones viven mucho más que los hombres y no olvidan pronto las ofensas que les hicieron. El rencor que guardan arde como un fuego en su corazón, y con el tiempo se vuelve un infierno imposible de apagar. Basta con mirar la historia para ver que Nidhogg se hace más fuerte con cada despertar.
+TEXT_JOBDRG450_01070_ESTINIEN_000_021	La última vez que oscureció nuestros cielos, el gran dragón estuvo a un pelo de arrasar Ishgard. Cuando vuelva a despertar, nada salvo la muerte le impedirá terminar lo que empezó. Nidhogg me lo quitó todo. Ahora yo se lo quitaré todo a él, aunque me cueste la vida.
+TEXT_JOBDRG450_01070_ESTINIEN_000_022	El Eye obra de formas que los hombres apenas comprenden, pero esto está claro: al elegir a dos Azure Dragoons en una misma generación, quiere que nos unamos en una causa común.
+TEXT_JOBDRG450_01070_ESTINIEN_000_023	<if(gnum4,Aventurera,Aventurero)>. Ya oíste mi decisión. Ahora te pido que me prestes tu poder. Sí, el poder del dragón.
+TEXT_JOBDRG450_01070_ESTINIEN_000_024	En la larga y orgullosa historia de Ishgard, nunca antes surgieron dos Azure Dragoons en la misma era para luchar como uno solo. Es nuestra mejor oportunidad, no, nuestra <italic(1)>única<italic(0)> oportunidad, de mandar al gran dragón al sueño eterno.
+TEXT_JOBDRG450_01070_ESTINIEN_000_025	Mira mi armadura. Esta es la drachen mail, forjada en la sangre de dragones. Así como la sangre llama a la sangre, la armadura llama al dragón que llevamos dentro y redobla la fuerza de quien la viste. Si quieres alcanzar tu potencial como Azure Dragoon, tendrás que vestirla tú también.
+TEXT_JOBDRG450_01070_ESTINIEN_000_026	Con ella puesta, heredarás la técnica que los Azure Dragoons se transmiten de generación en generación. Entonces, y solo entonces, tu entrenamiento estará completo.
+TEXT_JOBDRG450_01070_ESTINIEN_000_027	Pero primero debes ganarte la drachen mail como lo hicimos Ser Alberic y yo antes que tú: demostrando que eres dign<if(gnum4,a,o)> en la prueba suprema del Azure, una serie de combates tan atroces que mandan a los indignos a una muerte prematura.
+TEXT_JOBDRG450_01070_ESTINIEN_000_028	Maestro. Cuando <if(gnum4,la aventurera,el aventurero)> consiga la armadura, encárgate, por favor, de que aprenda a dominar por completo el poder del dragón.
+TEXT_JOBDRG450_01070_ALBERIC_000_029	¡Estinien, espera!
+TEXT_JOBDRG450_01070_ESTINIEN_000_030	Guárdate tus preocupaciones. No pienso convertirme en presa fácil de los dragones.
+TEXT_JOBDRG450_01070_ESTINIEN_000_031	Me despido.
+TEXT_JOBDRG450_01070_ALBERIC_000_040	Estinien...
+TEXT_JOBDRG450_01070_ALBERIC_000_041	P-perdóname. Estaba perdido en mis pensamientos. Bien, en cuanto a conseguir la armadura de la que habló Estinien...
+TEXT_JOBDRG450_01070_ALBERIC_000_042	Al principio, mi intención era legarte mi propia armadura. Ya no soy Azure Dragoon, y sus poderes se desperdician conmigo. Sería bastante sencillo dártela y completar tu entrenamiento aquí mismo.
+TEXT_JOBDRG450_01070_ALBERIC_000_043	Pero es como dijo Estinien: la drachen armor no es una armadura cualquiera. Su fuerza viene de la sangre de dragón de la que nació, y el poder de esa sangre resuena con el alma de quien la viste.
+TEXT_JOBDRG450_01070_ALBERIC_000_044	Aunque ya no puedo aprovechar el poder de mi armadura, su vínculo conmigo se forjó hace años. Si te la diera ahora, me temo que te ofrecería apenas una pizca de la protección que me dio a mí en aquellos días.
+TEXT_JOBDRG450_01070_ALBERIC_000_045	Sí, Estinien tiene razón: debes ganarte tu armadura como lo hicimos él y yo antes que tú. Debes completar las pruebas del Azure, para que los poderes de la sangre de dragón sean tuyos y de nadie más.
+TEXT_JOBDRG450_01070_ALBERIC_000_046	Tu prueba final empezará en el Ogre's Belly. Enviaré allí a Ser Brucemont. Búscalo cuando llegues.
+TEXT_JOBDRG450_01070_BRUCEMONT_000_050	Te hiciste más fuerte desde la última vez, <if(gnum4,aventurera,aventurero)>, pero no eres nada al lado de tus predecesores Azure. Si quieres demostrarme que me equivoco, deja que tu lanza hable por ti.
+TEXT_JOBDRG450_01070_BRUCEMONT_000_055	Otra vez, <if(gnum4,aventurera,aventurero)>, demuestras ser dign<if(gnum4,a,o)> más allá de lo que esperaba. Toma esto, pero que sepas que tu prueba apenas empieza.
+TEXT_JOBDRG450_01070_BRUCEMONT_000_056	Tu próximo desafío está en la cámara de al lado. Ser Heustienne te espera allí.
+TEXT_JOBDRG450_01070_HEUSTIENNE_000_060	¿Tú, <if(gnum4,una extranjera,un extranjero)>, pretendes vestir la drachen armor? ¡Entonces demuéstranos que no la deshonrarás!
+TEXT_JOBDRG450_01070_HEUSTIENNE_000_065	Ser Alberic dijo que el Eye te eligió, y parece que dice la verdad. La armadura es tuya: vístela con orgullo y con honor.
+TEXT_JOBDRG450_01070_HEUSTIENNE_000_066	Tu prueba casi termina, pero ten cuidado: muchos llegaron tan lejos como tú antes, solo para caer en el último desafío. No dejes que el exceso de confianza sea tu ruina.
+TEXT_JOBDRG450_01070_BRUCEMONT_000_070	Así que llegaste hasta aquí. Muy bien. ¡Demuestra que eres dign<if(gnum4,a,o)> del Azure, o muere en el intento!
+TEXT_JOBDRG450_01070_BRUCEMONT_000_075	Me demostraste tus poderes más allá de toda duda. Sí, no hay ishgardiano que te niegue el derecho a vestir la armadura de los dragones.
+TEXT_JOBDRG450_01070_BRUCEMONT_000_076	Le avisaré a Ser Alberic que superaste tus pruebas aquí. Será él quien te entregue la cuarta pieza de la armadura y culmine tu entrenamiento. Ve, <if(gnum4,compañera,compañero)> dragoon, y libra a esta tierra de la ira del gran dragón.
+TEXT_JOBDRG450_01070_ALBERIC_000_080	Ser Brucemont me cuenta que tu desempeño fue de lo más impresionante. Sí, estoy más convencido que nunca de que serás tú quien salve nuestra tierra. Pero te advierto, <split(<string(gstr1)>, ,1)>: te espera una última prueba.
+TEXT_JOBDRG450_01070_ALBERIC_000_081	Esta prueba no la enfrentarás ante caballeros, sino ante fantasmas. Ve hacia el Steel Vigil y busca una lápida al noroeste de la construcción.
+TEXT_JOBDRG450_01070_ALBERIC_000_082	Llévate esta flauta y, cuando llegues a tu destino, toca una sola nota fuerte. Pronto llegará un visitante. Atiende a tu invitado y, si deja algún regalo, tráemelo aquí.
+TEXT_JOBDRG450_01070_ALBERIC_000_090	Si estás frente a mí, es que te encargaste del visitante. ¿Tienes algo que mostrar de tus hazañas?
+TEXT_JOBDRG450_01070_ALBERIC_000_091	Ah, el cráneo de Greywine, viejo guerrero de la Dravanian Horde. Se dice que en otras épocas podía derribar un castillo con un solo aliento. Su fuerza había menguado desde entonces, pero un dragón en su ocaso sigue siendo un enemigo temible. Al matarlo, demostraste que mereces esto.
+TEXT_JOBDRG450_01070_ALBERIC_000_092	Ahora tienes cuatro piezas de la armadura que vestimos Estinien, yo y nuestros predecesores. Sin duda te preguntarás por la quinta, pero solo puedo decirte que no me corresponde dártela. Aun así, no temas: tus triunfos en las pruebas y contra un dragón de la Horde demuestran que la sangre de dragón ya resuena con la tuya. Sí, estás tan <if(gnum4,preparada,preparado)> para tu desafío supremo como cualquiera podría estarlo.
+TEXT_JOBDRG450_01070_ALBERIC_000_093	Y, sin embargo, antes de seguir, quiero oírlo de tus propios labios. El poder del gran dragón es materia de leyendas. ¿De verdad decidiste librar esta batalla? ¿Arriesgar tu propia vida para liberar a una tierra extranjera de las garras de su antiguo enemigo? Cuando estés <if(gnum4,segura,seguro)> de tu decisión, vuelve a hablar conmigo.
+TEXT_JOBDRG450_01070_POP_MESSAGE	¡Sientes una presencia hostil!

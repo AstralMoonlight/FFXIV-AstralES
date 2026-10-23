@@ -1,0 +1,61 @@
+key	text
+TEXT_JOBPLD540_02034_SEQ_00	Constaint hizo un nuevo descubrimiento emocionante.
+TEXT_JOBPLD540_02034_SEQ_01	Entre las pertenencias de Solkzagyl había un diario escondido, y su última entrada tiene lo que parece un mapa del Gorgagne Holding. Constaint declara que deberían salir a investigar, aunque reconoce con algo de vergüenza que tú estás mucho mejor <if(gnum4,preparada,preparado)> que él para hacerlo.
+TEXT_JOBPLD540_02034_SEQ_02	Aunque no tiene ningún otro equipo, Constaint logró ajustar los escarpes de Solkzagyl, que ahora lleva con orgullo. Mirando el mapa, te indica que cruces el río hacia el oeste. Busca en la zona cualquier cosa fuera de lo común.
+TEXT_JOBPLD540_02034_SEQ_03	En los páramos nevados encuentras un gallant coronet y un rastro de sangre preocupante. Vuelve con Constaint y mira qué opina.
+TEXT_JOBPLD540_02034_SEQ_04	Constaint reconoce al instante el coronet como el que llevaba Solkzagyl. Intrigado por el rastro de sangre que mencionaste, te sugiere que lo sigan y vean adónde lleva.
+TEXT_JOBPLD540_02034_SEQ_05	Encuentras otra mancha grande de sangre más adelante, en dirección al Dusk Vigil. El rastro continúa...
+TEXT_JOBPLD540_02034_SEQ_06	Una vez más, Constaint y tú descubren una mancha grande de sangre. Ansioso por seguir la búsqueda, el muchacho sale corriendo hacia el oeste.
+TEXT_JOBPLD540_02034_SEQ_07	El entusiasmo de Constaint casi le cuesta la vida: lo encuentras rodeado de asesinos de Death's Embrace. Después de rechazar a sus atacantes, ayudas a Constaint a levantarse, y él ve un movimiento repentino al oeste y, sin pensar en su seguridad, sale de nuevo en su persecución.
+TEXT_JOBPLD540_02034_SEQ_08	Constaint y tú se encuentran cara a cara con más asesinos de Death's Embrace, que se preparan para resistir hasta el final. Aunque no parecen tener Oathkeeper, Constaint está igual de ansioso por llevarlos ante la justicia. Espada en mano y con el coronet de Solkzagyl en la frente, el muchacho carga, y tú lo sigues. Tras una batalla encarnizada, los villanos dejan de existir.
+TEXT_JOBPLD540_02034_SEQ_09	A Constaint le sorprende un poco lo bien que salió todo. Vuelve a Falcon's Nest para un merecido descanso.
+TEXT_JOBPLD540_02034_SEQ_10	La de Solkzagyl no es la única muerte por la que Constaint buscaba justicia. La madre del muchacho también fue víctima de Death's Embrace: la asesinaron cuando atacaron su caravana en el camino a Tailfeather. Los antiguos asesinos se habían vuelto bandidos para sobrevivir, y elegían con cuidado blancos que no provocaran una respuesta de las autoridades. Pero hasta el más humilde merece un defensor, cree Constaint. Aunque no lo lleve a Oathkeeper, está convencido de que su deber como paladin es detener a Death's Embrace antes de que vuelvan a atacar.<br><br>※La siguiente misión de paladin estará disponible con Constaint al llegar al nivel 56.
+TEXT_JOBPLD540_02034_TODO_00	Reúnete con Constaint al suroeste de Gorgagne Mills.
+TEXT_JOBPLD540_02034_TODO_01	Busca algo de interés.
+TEXT_JOBPLD540_02034_TODO_02	Muéstrale el coronet a Constaint.
+TEXT_JOBPLD540_02034_TODO_03	Sigue el rastro de sangre.
+TEXT_JOBPLD540_02034_TODO_04	Sigue el rastro de sangre.
+TEXT_JOBPLD540_02034_TODO_05	Sigue el rastro de sangre.
+TEXT_JOBPLD540_02034_TODO_06	Sigue a Constaint.
+TEXT_JOBPLD540_02034_TODO_07	Habla con Constaint.
+TEXT_JOBPLD540_02034_TODO_08	Habla con Constaint en Falcon's Nest.
+TEXT_JOBPLD540_02034_CONSTAINT_000_000	¡Tengo noticias, <split(<string(gstr1)>, ,1)>! Entre las pertenencias de Solkzagyl había un diario escondido, y su última entrada tiene lo que parece un mapa del Gorgagne Holding.
+TEXT_JOBPLD540_02034_CONSTAINT_000_001	Marcó un lugar cerca del río, aunque no escribió por qué. Pero, con lo empeñado que estaba en recuperar Oathkeeper, seguro tiene alguna relación, ¿no?
+TEXT_JOBPLD540_02034_CONSTAINT_000_002	¡Yo digo que salgamos a investigar! Claro que podemos toparnos con bestias salvajes o algo peor, ¡pero estamos bien preparados para enfrentarlas! Bueno... es decir, <italic(1)>usted<italic(0)> lo está...
+TEXT_JOBPLD540_02034_CONSTAINT_000_010	Impresionante, ¿eh? Me costó, ¡pero logré ajustar los escarpes de Solkzagyl! Deberían protegerme de maravilla contra, eh... amenazas a la altura del muslo.
+TEXT_JOBPLD540_02034_CONSTAINT_000_011	En fin, veamos adónde lleva este mapa... ¿Por allá, quizás?
+TEXT_JOBPLD540_02034_CONSTAINT_000_012	Si estoy leyendo bien el mapa, el lugar que marcó Solkzagyl está... ¿del otro lado del río?
+TEXT_JOBPLD540_02034_SYSTEM_000_020	Un rastro de sangre congelada lleva hacia el oeste...
+TEXT_JOBPLD540_02034_SYSTEM_000_021	Una luz te llama la atención y, al mirar de cerca, encuentras un gallant coronet enterrado bajo la nieve...
+TEXT_JOBPLD540_02034_CONSTAINT_000_030	O era más hacia el- ¡Ah, <split(<string(gstr1)>, ,1)>! ¿Encontró algo?
+TEXT_JOBPLD540_02034_CONSTAINT_000_031	¿El coronet de Solkzagyl? ¡Entonces <italic(1)>sí<italic(0)> vino aquí!
+TEXT_JOBPLD540_02034_CONSTAINT_000_032	¿Y dijo que también había un rastro de sangre? Sigámoslo a ver adónde lleva.
+TEXT_JOBPLD540_02034_CONSTAINT_100_035	¿Qué... qué es esto? ¿Sangre?
+TEXT_JOBPLD540_02034_CONSTAINT_100_036	Parece que lleva hacia el Dusk Vigil...
+TEXT_JOBPLD540_02034_CONSTAINT_100_037	Espero que no sea la sangre de Solkzagyl...
+TEXT_JOBPLD540_02034_CONSTAINT_100_038	Creo que nos lleva hacia el oeste...
+TEXT_JOBPLD540_02034_BALLOON_000_040	¡Atrapen al otro!
+TEXT_JOBPLD540_02034_BALLOON_000_041	¡Cuidado! ¡Parece que <if(gnum4,esta,este)> sabe pelear!
+TEXT_JOBPLD540_02034_CONSTAINT_000_050	¡Claro! ¡Death's Embrace! ¡Deben haber acampado aquí, y Solkzagyl se enteró!
+TEXT_JOBPLD540_02034_CONSTAINT_000_051	Espere, ¡¿eso fue un movimiento?! ¡Al oeste! ¡No podemos dejar que escapen!
+TEXT_JOBPLD540_02034_CONSTAINT_000_060	Fin del camino...
+TEXT_JOBPLD540_02034_CONSTAINT_000_061	Hm. No parece que tengan Oathkeeper... Bueno, al menos podemos llevarlos ante la justicia por sus incontables crímenes y asegurarnos de que no lastimen a más inocentes.
+TEXT_JOBPLD540_02034_CONSTAINT_000_062	¡A las armas, <split(<string(gstr1)>, ,1)>! ¡Por la justicia! ¡Por Solkzagyl!
+TEXT_JOBPLD540_02034_CONSTAINT_000_063	...Hm. Creí que el coronet ayudaría, pero ese discurso igual me salió bastante desabrido...
+TEXT_JOBPLD540_02034_CONSTAINT_000_070	¿Ganamos? Digo, eh... ¡por la Fury, ganamos! ¡Esa escoria villana ya no se aprovechará de los débiles!
+TEXT_JOBPLD540_02034_CONSTAINT_000_071	Lástima que no tuvieran Oathkeeper. Bueno, todo en un día de trabajo para un par de paladins, ¿no? De vuelta a Falcon's Nest para un merecido descanso.
+TEXT_JOBPLD540_02034_CONSTAINT_000_080	Los engranajes de la justicia giran despacio, como bien sabemos. Incluso Ser Aymeric, que dicen que se preocupa de verdad por el bienestar de cada ishgardiano... incluso él está atado por la burocracia.
+TEXT_JOBPLD540_02034_CONSTAINT_000_081	Al final todo vuelve a la guerra. Si no son los herejes o los dragones, bueno... ya sabe cómo es.
+TEXT_JOBPLD540_02034_CONSTAINT_000_082	Y en los forelands, bueno, si uno va tan al oeste sin suficientes escoltas a sueldo, no puede culpar a nadie más que a sí mismo de lo que le pase.
+TEXT_JOBPLD540_02034_CONSTAINT_000_083	Así que cuando asaltaron la caravana de mi madre en el camino a Tailfeather, me resigné a no saber nunca a quién culpar...
+TEXT_JOBPLD540_02034_CONSTAINT_000_084	...Hasta que Solkzagyl me contó todo sobre Death's Embrace, y me di cuenta de que eran los responsables, de eso y de muchos otros ataques.
+TEXT_JOBPLD540_02034_CONSTAINT_000_085	Elegían a sus blancos con cuidado: gente a la que nadie extrañaría... salvo sus amigos y familiares, igual de indefensos.
+TEXT_JOBPLD540_02034_CONSTAINT_000_086	¡Pero todos merecen un defensor! ¡Hasta el más humilde de nosotros vale la pena salvarlo!
+TEXT_JOBPLD540_02034_CONSTAINT_000_087	No sé si los miembros que quedan de Death's Embrace tienen Oathkeeper, pero aunque no la tengan, ¡nuestro deber como paladins es detenerlos!
+TEXT_JOBPLD540_02034_CONSTAINT_000_088	...Eso es lo que diría Solkzagyl si estuviera aquí, ¿no?
+TEXT_JOBPLD540_02034_QIB_001_TODO_1	¡Derrota a los asesinos de Death's Embrace!
+TEXT_JOBPLD540_02034_CONSTAINT_BATTLETALK_01	¡Aquí se acaban sus artimañas! ...Espera, ¿"artimañas" es la palabra que busco?
+TEXT_JOBPLD540_02034_ENEMYLEADER_BATTLETALK_01	¡Perros Royalists! ¡Mis voidsent se darán un festín con sus almas!
+TEXT_JOBPLD540_02034_CONSTAINT_BATTLETALK_02	¡¿Voidsent?! Yo, eh... yo me encargo del mago. Encárguese de esa c<-->cosa, ¿quiere?
+TEXT_JOBPLD540_02034_ENEMYLEADER_BATTLETALK_03	¡Ah, me las van a pagar! ¡No crean que no me las van a pagar!
+TEXT_JOBPLD540_02034_CONSTAINT_BATTLETALK_04	Esto... esto es bastante...

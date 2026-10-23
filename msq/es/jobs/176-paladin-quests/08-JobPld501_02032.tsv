@@ -1,0 +1,47 @@
+key	text
+TEXT_JOBPLD501_02032_SEQ_00	Jenlyns busca la ayuda de un paladin libre de renombre.
+TEXT_JOBPLD501_02032_SEQ_01	En estos tiempos difíciles, los Sultansworn deben estar siempre listos para ser la espada y el escudo del sultanato. Por suerte, parece que tu brillante ejemplo inspiró a muchos jóvenes, hombres y mujeres, a unirse a sus filas. Varios de esos reclutas están entrenando en Camp Bluefog, y Jenlyns cree que les vendrían bien unas palabras de aliento de tu parte.
+TEXT_JOBPLD501_02032_SEQ_02	En Camp Bluefog te encuentras con Owyne, <switch(gnum70,uno de los Sultansworn encargados de supervisar el entrenamiento de los reclutas,uno de los Sultansworn encargados de supervisar el entrenamiento de los reclutas,el Sultansworn al que ayudaste a recuperar la corona real\, a quien además le encargaron supervisar el entrenamiento de los reclutas)>. Te cuenta que en este momento están haciendo ejercicios en la atalaya del este y te invita a seguirlo hasta allí.
+TEXT_JOBPLD501_02032_SEQ_03	Como sabe que eres <if(gnum4,una mujer,un hombre)> de pocas palabras, Owyne te pide que les regales a los reclutas una demostración de esgrima. Ya pusieron cebo para los basilisks, así que solo tienes que esperar a que las bestias vengan a ti.
+TEXT_JOBPLD501_02032_SEQ_04	Despachas al único basilisk que fue lo bastante tonto como para probar suerte contigo. Ve si Owyne quedó satisfecho.
+TEXT_JOBPLD501_02032_SEQ_05	Owyne te agradece la emocionante demostración y te pide que le transmitas su gratitud al Capitán Jenlyns. Vuelve a Ul'dah e infórmale al capitán que terminaste.
+TEXT_JOBPLD501_02032_SEQ_06	Aunque Jenlyns quisiera poder recompensarte, admite que ya no le queda nada que enseñarte. Te pide que sigas adelante y continúes defendiendo a la gente de Eorzea, y eso haces... hasta que te detiene por un momento Papashan, antiguo hermano de los Sultansworn. Aunque tiene un asunto urgente que tratar, parece no querer hablar de él donde Jenlyns pueda oírlo. Ve al Ul'dah Dispatch Yard y habla con el jefe de estación.
+TEXT_JOBPLD501_02032_SEQ_07	Solkzagyl, el predecesor de Jenlyns, estuvo en contacto con Papashan durante muchos años y le contaba al jefe de estación lo que descubría en su búsqueda de Oathkeeper, la espada legendaria que los secuaces de los Monetarists les robaron a los Sultansworn hace mucho. La última carta del antiguo capitán traía una afirmación sorprendente: al parecer, por fin encontró la espada. Pero Papashan no volvió a tener noticias suyas y está cada vez más preocupado. El jefe de estación no quiere involucrar a Jenlyns hasta saber más de la situación, así que te pide ayuda, y tú se la ofreces de inmediato. En cuanto Papashan averigüe desde dónde exactamente envió Solkzagyl su última carta, podrán empezar la búsqueda en serio.<br><br>※La siguiente misión de paladin estará disponible con Papashan al llegar al nivel 52.
+TEXT_JOBPLD501_02032_TODO_00	Habla con Owyne en Camp Bluefog.
+TEXT_JOBPLD501_02032_TODO_01	Habla con Owyne en la atalaya del este.
+TEXT_JOBPLD501_02032_TODO_02	Mata a un fog basilisk.
+TEXT_JOBPLD501_02032_TODO_03	Habla con Owyne.
+TEXT_JOBPLD501_02032_TODO_04	Habla con Jenlyns en Ul'dah.
+TEXT_JOBPLD501_02032_TODO_05	Habla con Papashan en el Ul'dah Dispatch Yard.
+TEXT_JOBPLD501_02032_JENLYNS_000_000	Vivimos tiempos difíciles, <split(<string(gstr1)>, ,1)>, como bien sabe.
+TEXT_JOBPLD501_02032_JENLYNS_000_001	Por eso es más importante que nunca que los Sultansworn estén listos para ser la espada y el escudo del sultanato.
+TEXT_JOBPLD501_02032_JENLYNS_000_002	Durante un tiempo temí que nuestra orden estuviera condenada, pero entonces usted nos ayudó a restaurar nuestro buen nombre.
+TEXT_JOBPLD501_02032_JENLYNS_000_003	Su brillante ejemplo inspiró a muchos jóvenes, hombres y mujeres, a buscarnos. En este mismo momento entrenan para pulir sus habilidades.
+TEXT_JOBPLD501_02032_JENLYNS_000_004	Creo que unas palabras de aliento <if(gnum4,de la mismísima famosa paladin libre,del mismísimo famoso paladin libre)> los motivarían mucho más. ¿Consideraría visitarlos en Camp Bluefog?
+TEXT_JOBPLD501_02032_JENLYNS_000_005	A nuestros paladins más jóvenes seguro les vendrían bien unas palabras de aliento de su parte. Perdone la molestia, pero ¿los visitaría en Camp Bluefog?
+TEXT_JOBPLD501_02032_OWYNE_000_010	Mucho gusto, <split(<string(gstr1)>, ,1)>. Me llamo Owyne.
+TEXT_JOBPLD501_02032_OWYNE_000_011	¡Qué gusto, <split(<string(gstr1)>, ,1)>! ¡Hace siglos que no hablamos! Seguro que no desde que nos ayudó a recuperar la corona.
+TEXT_JOBPLD501_02032_OWYNE_000_012	En este momento, Phillice y yo estamos haciendo ejercicios con los nuevos reclutas en la atalaya del este.
+TEXT_JOBPLD501_02032_OWYNE_000_013	¡Seguro que a los reclutas les va a encantar su visita!
+TEXT_JOBPLD501_02032_OWYNE_000_020	Como todos sabemos que es <if(gnum4,una mujer,un hombre)> de pocas palabras, pensé que podríamos saltarnos el discurso y pedirle en cambio que nos regale una demostración de esgrima. De hecho, ya pusimos cebo para los basilisks. Solo tiene que esperar a que vengan.
+TEXT_JOBPLD501_02032_OWYNE_000_030	¡Una demostración realmente emocionante, <split(<string(gstr1)>, ,1)>! ¡Gracias!
+TEXT_JOBPLD501_02032_OWYNE_000_031	Una cosa es hablar de la técnica correcta, y otra muy distinta es verla con los propios ojos.
+TEXT_JOBPLD501_02032_OWYNE_000_032	Creo que puedo decir que los reclutas recordarán este día por mucho tiempo, ¡y yo también!
+TEXT_JOBPLD501_02032_OWYNE_000_033	Gracias otra vez por la demostración, <split(<string(gstr1)>, ,1)>. Por favor, transmítale también mi gratitud al Capitán Jenlyns.
+TEXT_JOBPLD501_02032_JENLYNS_000_040	<if(gnum4,Bienvenida,Bienvenido)>, <split(<string(gstr1)>, ,1)>. Me dicen que los reclutas se tomaron en serio su lección.
+TEXT_JOBPLD501_02032_JENLYNS_000_041	Ojalá tuviera alguna forma de pagarle, algún conocimiento o técnica que legarle. Me avergüenza admitir que no hay nada que pueda enseñarle.
+TEXT_JOBPLD501_02032_JENLYNS_100_041	Solo puedo ofrecerle mi más sincero agradecimiento. Siga adelante, <if(gnum4,amiga mía,amigo mío)>, y continúe defendiendo a la gente de Ul'dah y de toda Eorzea.
+TEXT_JOBPLD501_02032_PAPASHAN_000_042	(-???-)Disculpen, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBPLD501_02032_PAPASHAN_000_043	(-???-)Disculpen, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBPLD501_02032_PAPASHAN_000_044	Tenemos que hablar, pero no aquí. En el Dispatch Yard, afuera de la ciudad.
+TEXT_JOBPLD501_02032_JENLYNS_100_045	¿Ese era el Maestro Papashan? Bueno, si quiere hablar con usted, no <if(gnum4,la,lo)> retengo.
+TEXT_JOBPLD501_02032_PAPASHAN_000_050	Gracias por venir, <split(<string(gstr1)>, ,1)>. Te estarás preguntando por qué te llamé...
+TEXT_JOBPLD501_02032_PAPASHAN_000_051	Se trata de Solkzagyl, el predecesor de Jenlyns.
+TEXT_JOBPLD501_02032_PAPASHAN_000_052	Como recordarás, sigue buscando Oathkeeper, la espada que nos robaron los secuaces de los Monetarists. De vez en cuando me manda cartas y me cuenta lo último que descubrió.
+TEXT_JOBPLD501_02032_PAPASHAN_000_053	La última traía una afirmación sorprendente. Escribió que había encontrado la espada, por fin...
+TEXT_JOBPLD501_02032_PAPASHAN_000_054	Pero eso fue hace tiempo, y desde entonces no volvió a escribirme.
+TEXT_JOBPLD501_02032_PAPASHAN_000_055	No quisiera preocupar a Jenlyns con esta noticia, al menos no hasta saber qué fue de Solkzagyl. ¿Me ayudas a encontrarlo?
+TEXT_JOBPLD501_02032_PAPASHAN_000_056	Sabía que podía contar contigo, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBPLD501_02032_PAPASHAN_000_057	Por ahora, lo único que sé es que su última carta me llegó por Ishgard. En cuanto sepa más, podremos empezar a buscar en serio.
+TEXT_JOBPLD501_02032_SYSTEM_000_058	La siguiente misión de paladin estará disponible con Papashan al llegar al nivel 52.
+TEXT_JOBPLD501_02032_SYSTEM_000_059	Puedes revisar en el journal los requisitos para empezar las siguientes misiones.

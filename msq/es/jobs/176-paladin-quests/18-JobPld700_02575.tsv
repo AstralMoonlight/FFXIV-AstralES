@@ -1,0 +1,86 @@
+key	text
+TEXT_JOBPLD700_02575_SEQ_00	Mylla te mira con un brillo en los ojos.
+TEXT_JOBPLD700_02575_SEQ_01	A Mylla casi no le cabe la emoción cuando te cuenta que la final de la Ul Cup se va a celebrar. Tu tan esperado combate contra Aldis será en breve; cuando estés <if(gnum4,lista,listo)>, el encargado de inscripciones te llevará a la arena.
+TEXT_JOBPLD700_02575_SEQ_02	Apenas llegas a la arena, un espectador condenadamente curioso revela que Black Lotus es Aldis. Aunque al principio el público se escandaliza, Mylla logra que todos apoyen el combate. En ese momento interviene Nanamo y da su bendición para que siga adelante. Sin obstáculos en el camino, Aldis y tú por fin se enfrentan. Al final de un choque feroz, sales <if(gnum4,victoriosa,victorioso)> y te coronan <if(gnum4,campeona,campeón)> de la Ul Cup. Nanamo se dispone a entregarte el prometido libro de técnicas secretas, pero Papashan confiesa que ese libro nunca existió. El verdadero propósito de reunir a los mejores nombres de la esgrima, explica, era elevar el arte de los gladiators, con el objetivo final de fortalecer al reino frente a sus muchas amenazas. Por último, Nanamo se ocupa del destierro de Aldis y, con una simple frase, le concede el perdón real.
+TEXT_JOBPLD700_02575_SEQ_03	Y así, después de muchas vueltas, la Ul Cup llega a su fin. Mylla y Aldis te esperan en el Gladiators' Guild.
+TEXT_JOBPLD700_02575_SEQ_04	Aunque recibió el perdón, Aldis decide seguir con su viaje para encontrarse a sí mismo. Mylla protesta, pero él no cambia de idea: su derrota contra ti le dejó claro que todavía le falta experiencia, y no estará en paz hasta conseguirla. Al despedirse, Aldis dice que tiene muchas ganas de volver a enfrentarte. Esperando ese día, decides seguir esforzándote por llegar más alto en tu arte.<br><br>※La siguiente misión de paladin estará disponible con Jenlyns cuando cumplas los siguientes requisitos:<br>※Haber completado la misión de la historia principal "Shadowbringers".<br>※Haber completado la misión de rol "To Have Loved and Lost".
+TEXT_JOBPLD700_02575_TODO_00	Habla con el encargado de inscripciones del torneo.
+TEXT_JOBPLD700_02575_TODO_01	Habla con el encargado de inscripciones del torneo.
+TEXT_JOBPLD700_02575_TODO_02	Habla con Mylla.
+TEXT_JOBPLD700_02575_MYLLA_000_000	¡Es oficial, <split(<string(gstr1)>, ,1)>! ¡El Coliseum aceptó volver a celebrar la final de la Ul Cup!
+TEXT_JOBPLD700_02575_MYLLA_000_001	Para no perder el entusiasmo, ya se puso todo en marcha. Y por si te lo preguntas, los Brass Blades ya detuvieron a Odde, así que no puede entorpecer nada.
+TEXT_JOBPLD700_02575_MYLLA_000_002	A Aldis ya le avisaron y se está preparando en este momento, y tú también deberías encargarte de tus preparativos. Cuando todo esté en orden, el encargado de inscripciones te llevará a la arena.
+TEXT_JOBPLD700_02575_MYLLA_000_003	Sobra decir que te voy a alentar desde la galería. Buena suerte, <split(<string(gstr1)>, ,1)>, y dale un beso a Aldis de mi parte... ¡con el borde de tu escudo!
+TEXT_JOBPLD700_02575_MYLLA_000_004	Cuando todo esté en orden, el encargado de inscripciones te llevará a la arena. Buena suerte, <split(<string(gstr1)>, ,1)>, y dale un beso a Aldis de mi parte... ¡con el borde de tu escudo!
+TEXT_JOBPLD700_02575_ATTENDANT02575_000_010	Llegó la hora, <if(gnum4,mi señora,mi señor)>: ¡nada más de cambios repentinos de planes! ¿Está <if(gnum4,lista,listo)> para pasar?
+TEXT_JOBPLD700_02575_ADRIEN_000_011	¡Damas y caballeros! ¡Por fin, después de tanto esperar, llegó el momento que todos estaban esperando: la final de la Ul Cup!
+TEXT_JOBPLD700_02575_CRAFTSMANVISITOR02575_100_011	¡Antes de que empiece, quiero saber algo! ¿Es cierto que Black Lotus es en realidad Aldis, el Sword of Nald?
+TEXT_JOBPLD700_02575_DOURMEADOW_000_014	¡¿Qué?! ¡Black Lotus, debo pedirle que se quite el yelmo!
+TEXT_JOBPLD700_02575_MERCHANTVISITOR02575_000_015	¡Por las barbas de Thal, de verdad es él! ¿Y ahora qué va a pasar?
+TEXT_JOBPLD700_02575_CRAFTSMANVISITOR02575_000_016	No va a pasar nada, eso es lo que va a pasar. Un gladiator expulsado no puede volver a pelear en el Coliseum. No va a haber combate.
+TEXT_JOBPLD700_02575_ALDIS_100_016	(-Aldis-)Sí, así es. Todo este tiempo fui yo.
+TEXT_JOBPLD700_02575_ALDIS_110_016	(-Aldis-)Soy el último que necesita que le recuerden su propio destierro. Si quieren cancelar la final, que así sea. No voy a discutir.
+TEXT_JOBPLD700_02575_ALDIS_120_016	(-Aldis-)Aun así, les pregunto: ¿no nos dejarán pelear a <split(<string(gstr1)>, ,1)> y a mí? ¡Les prometemos un combate que los bardos cantarán por mucho tiempo!
+TEXT_JOBPLD700_02575_MYLLA_000_017	¡Ay, por favor! Uno de los mejores espadachines de nuestra época está por cruzar espadas con una leyenda, ¿y tienen que pensarlo siquiera? ¡Todos aquí deben morirse de ganas de verlos pelear! ¿No es así?
+TEXT_JOBPLD700_02575_MYLLA_100_017	¡Si hay el menor indicio de juego sucio, yo misma le corto la cabeza! ¡Pero denles una oportunidad, digo yo! ¡Recuerden las increíbles actuaciones que nos dieron hasta ahora, e imagínense cuánto mejor será esta!
+TEXT_JOBPLD700_02575_BRONZEBULL_000_018	¡La First Sword dice la verdad! ¡Esto pasa una vez en la vida! ¡Sería una verdadera lástima que terminara así!
+TEXT_JOBPLD700_02575_MERCHANTVISITOR02575_000_019	¡Sí, háganle caso a Mylla! ¡Vine a ver una final, y quiero una, maldita sea!
+TEXT_JOBPLD700_02575_CRAFTSMANVISITOR02575_000_020	¡Yo también! ¡Veo a Aldis desde que era un muchacho, y quiero verlo pelear otra vez! ¡Que se haga, al diablo con las reglas!
+TEXT_JOBPLD700_02575_NANAMOULNAMO_000_021	¿No tiene ninguna objeción, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBPLD700_02575_NANAMOULNAMO_100_021	Debo confesar que yo también esperaba este combate conteniendo el aliento. Habrá tiempo de sobra después para revisar las faltas pasadas.
+TEXT_JOBPLD700_02575_NANAMOULNAMO_110_021	Ahí lo tiene, Aldis. Cuenta con la bendición de todos los presentes.
+TEXT_JOBPLD700_02575_ALDIS_000_022	(-Aldis-)No cambies nunca, Mylla.
+TEXT_JOBPLD700_02575_ALDIS_000_023	(-Aldis-)¡Vamos, <split(<string(gstr1)>, ,1)>! ¡Tu rival es el Sword of Nald!
+TEXT_JOBPLD700_02575_NANAMOULNAMO_000_030	¡Una actuación magnífica de principio a fin! ¡Pocas veces vi un manejo de la espada tan exquisito!
+TEXT_JOBPLD700_02575_NANAMOULNAMO_000_031	Ahora bien, quizás hayan oído que al campeón se le otorgaría un libro raro, que guarda las técnicas secretas del primer capitán de los Sultansworn.
+TEXT_JOBPLD700_02575_NANAMOULNAMO_100_031	Papashan, si es tan amable.
+TEXT_JOBPLD700_02575_PAPASHAN_110_031	Ejem. Si me permite hablar con franqueza, Su Gracia...
+TEXT_JOBPLD700_02575_PAPASHAN_120_031	El libro no existe.
+TEXT_JOBPLD700_02575_ALDIS_000_034	Vaya, vaya. Ya veo lo que hizo, Maestro Papashan.
+TEXT_JOBPLD700_02575_ALDIS_000_035	¡No solo revivió el torneo del sultán Sisigan, sino también su visión!
+TEXT_JOBPLD700_02575_ALDIS_000_036	Parece que hace falta una lección de historia. Ejem. Durante su reinado, el sultán Sasagan Ul Sisigan invitaba a espadachines de todas las tierras a Ul'dah para pelear con su propia élite en torneos.
+TEXT_JOBPLD700_02575_ALDIS_000_037	Con el tiempo, esos torneos empezaron a atraer a mercenarios, y así nació una institución nacional: esa gran diversión que es el Coliseum.
+TEXT_JOBPLD700_02575_ALDIS_000_038	Aunque eso marcó a Ul'dah, los historiadores creen que, al reunir a espadachines expertos, la verdadera intención del sultán era hacer avanzar el arte de los gladiators.
+TEXT_JOBPLD700_02575_ALDIS_000_039	Pero cuando el equilibrio de poder se alejó de los Royalists, la casa real perdió acceso a los enormes fondos que hacían falta para celebrar grandes torneos.
+TEXT_JOBPLD700_02575_ALDIS_000_040	El regreso de la Ul Cup, la promesa de un premio que no existe... Todo eso imitaba la visión del sultán Sasagan.
+TEXT_JOBPLD700_02575_PAPASHAN_100_041	Eres muy perspicaz, Aldis. El verdadero propósito de reunir a los mejores nombres de la esgrima era elevar el arte de los gladiators, como hizo el sultán en su día.
+TEXT_JOBPLD700_02575_PAPASHAN_000_042	Y aunque seguimos sus pasos, nuestro destino está un poco más allá. Porque espero que no solo Ul'dah, sino toda Eorzea, se fortalezca.
+TEXT_JOBPLD700_02575_PAPASHAN_000_043	Desde la amenaza garleana hasta las beast tribes y sus primals, el reino enfrenta muchas amenazas.
+TEXT_JOBPLD700_02575_PAPASHAN_000_044	Si queremos proteger nuestros hogares y a nuestros seres queridos, debemos mantener las espadas afiladas y los escudos firmes.
+TEXT_JOBPLD700_02575_PAPASHAN_100_044	Perdóneme, Su Gracia. Temía que, si sabía que no había ni libro ni técnica, no consintiera el torneo.
+TEXT_JOBPLD700_02575_NANAMOULNAMO_110_044	Debió consultarme desde el principio. Tal como están las cosas, tendremos que buscar otra forma de recompensar a <if(gnum4,nuestra campeona,nuestro campeón)>.
+TEXT_JOBPLD700_02575_NANAMOULNAMO_120_044	<if(gnum4,Mi querida,Mi querido)> <split(<string(gstr1)>, ,1)>. Dígame qué desea; haré todo lo que esté en mi mano por concedérselo.
+TEXT_JOBPLD700_02575_Q1_000_000	¿Qué pedirás?
+TEXT_JOBPLD700_02575_A1_000_001	El perdón para Aldis.
+TEXT_JOBPLD700_02575_A1_000_002	Nada.
+TEXT_JOBPLD700_02575_NANAMOULNAMO_130_044	Una petición noble, digna de su buen corazón. Pero antes de concederla, hay algo que quisiera saber.
+TEXT_JOBPLD700_02575_NANAMOULNAMO_140_044	...¿Nada? ¿De verdad? Muy bien, si <if(gnum4,la campeona,el campeón)> no desea nada, el premio será para el siguiente.
+TEXT_JOBPLD700_02575_NANAMOULNAMO_150_044	Aldis. Aunque hoy no fue su día, peleó de forma sobresaliente y puede estar orgulloso con razón. Pero antes de concederle su premio, hay algo que quisiera saber.
+TEXT_JOBPLD700_02575_NANAMOULNAMO_160_044	Tengo entendido que lo condenaron al destierro por participar en un soborno. ¿Es cierto?
+TEXT_JOBPLD700_02575_ALDIS_000_047	Lo es, Su Gracia.
+TEXT_JOBPLD700_02575_NANAMOULNAMO_000_048	Ya veo. Muy bien, entonces.
+TEXT_JOBPLD700_02575_NANAMOULNAMO_000_049	Yo, Nanamo Ul Namo, sultana de Ul'dah, lo absuelvo de todos sus crímenes.
+TEXT_JOBPLD700_02575_NANAMOULNAMO_000_050	Nuestra bella nación necesita hombres de su fuerza y destreza, hoy más que nunca. Sería imperdonable dejarlo de lado.
+TEXT_JOBPLD700_02575_NANAMOULNAMO_000_051	¡Y a <if(gnum4,la campeona,el campeón)>, <split(<string(gstr1)>, ,1)>, le doy mis más alegres felicitaciones! ¡Su victoria de hoy quedará mucho tiempo en nuestros corazones y en nuestra memoria!
+TEXT_JOBPLD700_02575_NANAMOULNAMO_000_052	Aunque el torneo llegó a su fin, ruego que todos ustedes se esfuercen siempre por elevar su arte... ¡por el bien de todo el reino!
+TEXT_JOBPLD700_02575_ALDIS_000_053	Fue una pelea para recordar. De verdad te volviste fuerte, <if(gnum4,amiga mía,amigo mío)>.
+TEXT_JOBPLD700_02575_DOURMEADOW_000_054	¡Una victoria bien merecida! ¡Felicitaciones!
+TEXT_JOBPLD700_02575_CHILD02574_000_055	¡Eres todavía más fuerte que el tío Aldy! ¡Si algún día te voy a desafiar, voy a tener que entrenar el doble!
+TEXT_JOBPLD700_02575_CHILD02574_100_060	¡Eres todavía más fuerte que el tío Aldy! ¡Si algún día te voy a desafiar, voy a tener que entrenar el doble!
+TEXT_JOBPLD700_02575_MYLLA_000_060	Pensar que el torneo tenía un motivo así... Nosotros, los gladiators, también tenemos que esforzarnos por poner nuestro granito de arena por el bien del reino.
+TEXT_JOBPLD700_02575_ALDIS_000_061	Bien dicho, querida. Ah, pero las cosas que uno tiene que hacer para conseguir un simple combate con <split(<string(gstr1)>, ,1)>. Viendo lo rápido que mejoró en el poco tiempo que estuve fuera, me gusta pensar que, si hubiéramos peleado unos días antes, habría ganado yo.
+TEXT_JOBPLD700_02575_ALDIS_000_062	Entonces, ¿puedo volver al Coliseum?
+TEXT_JOBPLD700_02575_DOURMEADOW_000_063	Tiene el respaldo personal de Su Gracia; diría que no hay nada mejor. Y como finalista de la Ul Cup, atraería bastante público. Nos alegraría tenerlo de vuelta.
+TEXT_JOBPLD700_02575_ALDIS_000_064	Ja, nunca soñé que llegaría este día...
+TEXT_JOBPLD700_02575_ALDIS_000_065	Bueno, supongo que seguiré con mis andanzas.
+TEXT_JOBPLD700_02575_MYLLA_000_066	¡¿Qué?! ¡¿Te dan el perdón real y otra vez te vas de Ul'dah?!
+TEXT_JOBPLD700_02575_ALDIS_000_067	Mylla, nos viste pelear a <split(<string(gstr1)>, ,1)> y a mí. Con todo lo que entrené en mis viajes, con todas las penurias que me impuse, no fui rival para <if(gnum4,ella,él)>.
+TEXT_JOBPLD700_02575_ALDIS_000_068	Está claro que todavía me falta experiencia, conocimiento y destreza, y no estaré en paz hasta conseguirlos. Seguro que lo entiendes, ¿no?
+TEXT_JOBPLD700_02575_MYLLA_000_069	Sí, pero-
+TEXT_JOBPLD700_02575_ALDIS_000_070	No te preocupes, Mylla. Vendré a visitarte cada vez que pueda. Después de todo, aquí tengo una potranca que no para de relinchar por mí.
+TEXT_JOBPLD700_02575_ALDIS_000_071	Y tú, <if(gnum4,mi amiga paladin libre,mi amigo paladin libre)>. No solo me concediste un combate, sino que además rescataste a mi muchacho y defendiste mi honor. No sé cómo agradecértelo.
+TEXT_JOBPLD700_02575_ALDIS_000_072	Aprendí muchísimo de nuestro encuentro, y me alegraría que tú también hayas sacado algo. ¡Espero con muchas ganas nuestro próximo encuentro, cuando podamos enfrentarnos sin más, sin nada que nos distraiga!
+TEXT_JOBPLD700_02575_SYSTEM_100_100	Aquí terminan las misiones de paladin de FINAL FANTASY XIV: Stormblood. Para empezar la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:
+TEXT_JOBPLD700_02575_SYSTEM_100_101	※Haber completado la misión de la historia principal "Shadowbringers".
+TEXT_JOBPLD700_02575_SYSTEM_100_102	※Haber completado la misión de rol "To Have Loved and Lost".
+TEXT_JOBPLD700_02575_SYSTEM_100_103	Una vez cumplidos, la siguiente misión de paladin estará disponible con Jenlyns.

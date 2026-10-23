@@ -1,0 +1,56 @@
+key	text
+TEXT_JOBDRG600_01695_SEQ_00	Ser Alberic aprieta la mandíbula a la espera de un enfrentamiento.
+TEXT_JOBDRG600_01695_SEQ_01	Graoully vuelve a moverse. Según el Observatorium, la criatura pasará pronto cerca del Dreaming Dragon, en Coerthas Western Highlands. Ser Alberic cree que Heustienne intentará enfrentarse a su némesis, y te pide que la ayudes en la batalla. Primero, ve a Coerthas Western Highlands y reúnete con Ser Alberic en el Convictory.
+TEXT_JOBDRG600_01695_SEQ_02	Ser Alberic te informa que vieron cerca del Convictory a una mujer que coincide con la descripción de Heustienne. La última vez que la vieron iba hacia el norte, rumbo al Dreaming Dragon, dejando herejes muertos a su paso. Sigue ese rastro de matanza hasta Heustienne.
+TEXT_JOBDRG600_01695_SEQ_03	Llegas al escenario de una batalla, atravesado por un solo rastro de pisadas. Sigue las pisadas hacia el norte.
+TEXT_JOBDRG600_01695_SEQ_04	Llegas al escenario de otra batalla, atravesado por el mismo rastro de pisadas. Sigue las pisadas hacia el oeste.
+TEXT_JOBDRG600_01695_SEQ_05	Al final del rastro de matanza, encuentras a Heustienne frente a frente con Graoully. Uniendo sus lanzas, logran vencer al dragón que durante tanto tiempo atormentó al pueblo de Ishgard. Ahora ocúpate de tu camarada, que sigue librando una batalla en su interior.
+TEXT_JOBDRG600_01695_SEQ_06	Presencias un conmovedor reencuentro entre Heustienne y su padre, Montorgains. Animada por sus palabras, ella jura vencer la tentación de la sangre de dragón para poder volver algún día a Ishgard. Hasta ese día, recorrerá el mundo y luchará contra los dragones con su propio poder. Y hasta que vuelvas a verla, sigue sirviendo al mundo como <if(gnum4,la mejor,el mejor)> Azure Dragoon que puedas ser.<br><br>※La siguiente misión de dragoon estará disponible con Alberic cuando completes la misión de la historia principal "The Far Edge of Fate".
+TEXT_JOBDRG600_01695_TODO_00	Habla con Alberic en el Convictory.
+TEXT_JOBDRG600_01695_TODO_01	Sigue el rastro de matanza.
+TEXT_JOBDRG600_01695_TODO_02	Sigue el rastro de matanza.
+TEXT_JOBDRG600_01695_TODO_03	Busca a Heustienne.
+TEXT_JOBDRG600_01695_TODO_04	Habla con Heustienne.
+TEXT_JOBDRG600_01695_ALBERIC_000_000	¡<split(<string(gstr1)>, ,1)>! Llegó la hora de rendir cuentas: ¡Graoully vuelve a moverse!
+TEXT_JOBDRG600_01695_ALBERIC_000_001	Según nuestros astrologians, la criatura pasará pronto cerca del Dreaming Dragon, en Coerthas Western Highlands. Heustienne también lo sabrá, e intentará enfrentarse a su némesis. Debemos ir en su ayuda.
+TEXT_JOBDRG600_01695_ALBERIC_000_002	Bien, no convendría que sus camaradas la vieran en este momento. Por eso le aseguraré al Congregation que tienes la situación bajo control.
+TEXT_JOBDRG600_01695_ALBERIC_000_003	Pero, por lo mismo, no recibiremos apoyo de los dragoons. Libraremos esta batalla solos.
+TEXT_JOBDRG600_01695_ALBERIC_000_004	Sin más preámbulos, pongámonos en camino. Por favor, termina tus preparativos y reúnete conmigo en el Convictory.
+TEXT_JOBDRG600_01695_ALBERIC_000_005	Llegó la hora de rendir cuentas. Ayudemos a Heustienne y acabemos con Graoully.
+TEXT_JOBDRG600_01695_MONTORGAINS_000_010	Perdónenme, pero insistí en acompañarlos. Aunque hace mucho que me retiré, no dudaré en volver a tomar mi lanza por mi hija.
+TEXT_JOBDRG600_01695_ALBERIC_000_010	Hablé con la gente de aquí. Vieron cerca a una mujer que coincide con la descripción de Heustienne.
+TEXT_JOBDRG600_01695_ALBERIC_000_011	Dicen que iba hacia el norte, con una lanza en la mano y un rastro de herejes muertos a su paso: lo que quedaba de los Bloodbearers, parece.
+TEXT_JOBDRG600_01695_MONTORGAINS_000_012	Ser Alberic me lo contó todo. No importa en qué se haya convertido mi hija: estoy decidido a traerla a casa. Se lo ruego, por favor, ayúdela a superar la prueba que se avecina.
+TEXT_JOBDRG600_01695_ALBERIC_000_013	Separémonos para encontrar antes a Heustienne. Lord Montorgains vendrá conmigo.
+TEXT_JOBDRG600_01695_MONTORGAINS_000_014	<if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,1)>.
+TEXT_JOBDRG600_01695_SYSTEM_000_020	Hace poco se libró aquí una batalla feroz. Un solo rastro de pisadas lleva hacia el norte.
+TEXT_JOBDRG600_01695_SYSTEM_000_025	Hace poco se libró aquí una batalla feroz. Un solo rastro de pisadas lleva hacia el oeste.
+TEXT_JOBDRG600_01695_HEUSTIENNE_000_030	Así que viniste... Mira, entonces, el rostro maligno de mi tormento: ¡Graoully!
+TEXT_JOBDRG600_01695_HEUSTIENNE_000_031	¡Me da ánimo saber que <if(gnum4,la,el)> Azure Dragoon está conmigo contra mi némesis!
+TEXT_JOBDRG600_01695_HEUSTIENNE_000_032	Ugh... El ansia se hace más fuerte cada día... ¡pero no sucumbiré! ¡No, no seré esclava de ningún dragón!
+TEXT_JOBDRG600_01695_HEUSTIENNE_000_033	Ya fallé una vez en mi deber. ¡No volveré a fallar!
+TEXT_JOBDRG600_01695_HEUSTIENNE_000_034	¡Hoy me quedaré con la cabeza de Graoully!
+TEXT_JOBDRG600_01695_QIB_001_TODO001	¡Derrota a Graoully!
+TEXT_JOBDRG600_01695_QIB_001_HEUSTIENNE_BATTLETALK_DEAD	Perdóname, padre... No soy digna...
+TEXT_JOBDRG600_01695_QIB_001_HEUSTIENNE_BATTLETALK_00	¡Ven a encontrar tu fin, dragón!
+TEXT_JOBDRG600_01695_QIB_001_HEUSTIENNE_BATTLETALK_01	Por fin, cumplí con mi deber...
+TEXT_JOBDRG600_01695_QIB_001_HEUSTIENNE_BATTLETALK_02	¡Levanta vuelo! ¡Atentos al cielo!
+TEXT_JOBDRG600_01695_QIB_001_HEUSTIENNE_BATTLETALK_03	¡Tu hora llegó!
+TEXT_JOBDRG600_01695_QIB_001_HEUSTIENNE_BATTLETALK_04	¡Ya casi lo tenemos! ¡Aprovechemos la ventaja!
+TEXT_JOBDRG600_01695_HEUSTIENNE_000_040	\<jadeo> Lo logré... Resistí al dragón que llevo dentro y cumplí con mi deber... No lo habría logrado sin ti, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBDRG600_01695_HEUSTIENNE_000_041	De verdad eres el modelo al que aspiro. Si quiero ser como tú, debo aprender a dominar un poder mayor sin que me consuma.
+TEXT_JOBDRG600_01695_HEUSTIENNE_000_042	Con esta batalla ganada, tengo un nuevo propósito. ¡Venceré la tentación de la sangre de dragón y la borraré de estas tierras hasta la última gota!
+TEXT_JOBDRG600_01695_MONTORGAINS_000_043	(-???-)¡Heustienne! ¡Gracias a la Fury que estás a salvo!
+TEXT_JOBDRG600_01695_HEUSTIENNE_000_044	¿¡Padre!? ¿¡Q-qué haces aquí!?
+TEXT_JOBDRG600_01695_MONTORGAINS_000_045	Vine a llevarte a casa. Tu madre y yo no soportaríamos perderte otra vez.
+TEXT_JOBDRG600_01695_HEUSTIENNE_000_046	Ojalá pudiera volver, padre, pero no puedo. Bebí sangre de dragón y... y me transformé. A los ojos de la inquisición, no soy mejor que una hereje. No puedo permitir que te relacionen conmigo.
+TEXT_JOBDRG600_01695_ALBERIC_000_047	No tienes por qué preocuparte. Esto quedará en secreto entre nosotros cuatro.
+TEXT_JOBDRG600_01695_HEUSTIENNE_000_048	¡No, el riesgo es demasiado grande! ¡Aun ahora, apenas puedo contener mi sed de sangre de dragón!
+TEXT_JOBDRG600_01695_HEUSTIENNE_000_049	Desde el día en que hice mis votos, me esforcé por ser Azure Dragoon. Como no lo logré, me esforcé por acercarme todo lo posible. ¡Por fin tengo el poder que tanto anhelaba, pero me convierte en enemiga de los míos!
+TEXT_JOBDRG600_01695_ALBERIC_000_050	Malditos dragones... ¿A cuántos de los nuestros se llevaron con su sangre inmunda?
+TEXT_JOBDRG600_01695_MONTORGAINS_000_051	Escúchame, Heustienne. Nunca te rendiste ante el destino, y no debes rendirte ahora. El camino que tienes por delante estará lleno de penurias, de eso no tengo dudas, pero tengo fe en que las superarás todas y volverás con nosotros.
+TEXT_JOBDRG600_01695_HEUSTIENNE_000_052	Gracias, padre. Tu fe en mí me da fuerza. Cueste el tiempo que cueste, venceré la tentación de la sangre de dragón para volver a estar ante ti. Hasta ese día, recorreré el mundo y abatiré a nuestros enemigos con su propio poder.
+TEXT_JOBDRG600_01695_HEUSTIENNE_000_053	¡Lo juro por la lanza de mis antepasados!
+TEXT_JOBDRG600_01695_SYSTEM_000_500	Aquí terminan las misiones de dragoon de FINAL FANTASY XIV: Heavensward. Para empezar la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:
+TEXT_JOBDRG600_01695_SYSTEM_000_501	※Haber completado la misión de la historia principal "The Far Edge of Fate".
+TEXT_JOBDRG600_01695_SYSTEM_000_502	Una vez cumplidos, la siguiente misión de dragoon estará disponible con Alberic.

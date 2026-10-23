@@ -1,0 +1,48 @@
+key	text
+TEXT_JOBDRG601_02910_SEQ_00	Ser Alberic reflexiona sobre el paso del tiempo.
+TEXT_JOBDRG601_02910_SEQ_01	Ser Alberic acaba de enterarse de que Estinien se fue de Ishgard; lamenta su carácter distante, pero muestra cierta comprensión por lo que hizo. Cuando la conversación pasa a la situación de Heustienne, aparece su padre, Montorgains. Cuenta que hace poco le entregaron una carta bastante curiosa, firmada por su hija, que te pedía ayuda. Aceptas ayudar a Heustienne una vez más y partes a reunirte con ella cerca de Mare's Oath.
+TEXT_JOBDRG601_02910_SEQ_02	Heustienne, que ya aprendió a contener hasta cierto punto el efecto de la sangre de dragón, te recibe de buen humor y te cuenta que hizo un nuevo amigo. Para tu sorpresa, ese amigo resulta ser un joven dragón llamado Orn Khai. Heustienne te explica que te llamaron para ayudarlo a buscar a la consorte de su padre, que dejó Eorzea y voló hacia el este hace muchísimo tiempo. Aceptas ayudar a Orn Khai, y Heustienne te aconseja preguntarle a Ser Alberic por las leyendas dravanianas sobre las tierras del este.
+TEXT_JOBDRG601_02910_SEQ_03	Le cuentas a Ser Alberic todo lo que averiguaste hablando con Heustienne y Orn Khai. Él comenta que el sacerdote del Congregation of Our Knights Most Heavenly es toda una autoridad en leyendas dravanianas, y dice que hablará con él por ti. Decides esperar hasta que Ser Alberic pueda darte una pista sobre dónde empezar a buscar.<br><br>※La siguiente misión de dragoon estará disponible con Alberic al llegar al nivel 63.
+TEXT_JOBDRG601_02910_TODO_00	Busca a Heustienne en Mare's Oath.
+TEXT_JOBDRG601_02910_TODO_01	Habla con Alberic.
+TEXT_JOBDRG601_02910_ALBERIC_000_001	Ah, <split(<string(gstr1)>, ,1)>. Me llegó la noticia de que Estinien desapareció de la enfermería.
+TEXT_JOBDRG601_02910_ALBERIC_000_002	Aunque una parte de mí entiende muy bien su deseo de dejar atrás la Holy See, me habría gustado que dijera algo antes de irse.
+TEXT_JOBDRG601_02910_ALBERIC_000_003	Aunque supongo que era de esperar. Muerto Nidhogg, las filas de la Horde se desordenaron, y ya no son la amenaza que eran. Ishgard apenas necesita un Azure Dragoon.
+TEXT_JOBDRG601_02910_ALBERIC_000_004	Basta decir que cabe imaginar que el papel del dragoon también tendrá que cambiar, ahora que entramos en esta nueva era de relativa paz.
+TEXT_JOBDRG601_02910_ALBERIC_000_005	Pero, aunque hayas salvado a Estinien del gran dragón, la lucha interior de Heustienne todavía me atormenta. Que Halone le dé la fuerza necesaria para librarse del feroz dominio de la sangre de dragón.
+TEXT_JOBDRG601_02910_MONTORGAINS_000_006	Se lo ve muy bien, Ser Alberic. ¡Y <if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,1)>! Es un placer verlo a usted también.
+TEXT_JOBDRG601_02910_ALBERIC_000_007	¡Lord Montorgains! <split(<string(gstr1)>, ,1)> y yo justo hablábamos de su hija.
+TEXT_JOBDRG601_02910_MONTORGAINS_000_008	De hecho, esa hija mía es la razón por la que vine a buscarlos. Hace poco, un mercader que pasó por el Chocobo Forest me entregó una carta; si hay que creerle, se la confió la propia Heustienne.
+TEXT_JOBDRG601_02910_MONTORGAINS_000_009	La carta era un pedido de ayuda. <if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,1)>, le pide a usted que la busque.
+TEXT_JOBDRG601_02910_ALBERIC_000_010	¡Por la Fury! ¿¡La atacaron los herejes otra vez!?
+TEXT_JOBDRG601_02910_MONTORGAINS_000_011	Por desgracia, el mensaje no decía más. Ay, no pasa un día sin que rece por que vuelva a salvo...
+TEXT_JOBDRG601_02910_ALBERIC_000_012	<split(<string(gstr1)>, ,1)>, debo pedirte que tomes tu lanza una vez más para ayudar a tu compañera dragoon. ¿Estás <if(gnum4,dispuesta,dispuesto)>?
+TEXT_JOBDRG601_02910_MONTORGAINS_000_013	Gracias, <if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,1)>. Heustienne lo espera en Dravanian Forelands. Por favor, ayúdela en lo que le pida.
+TEXT_JOBDRG601_02910_ALBERIC_000_015	Te confío la seguridad de Heustienne. Ve a Dravanian Forelands y averigua en qué aprieto está.
+TEXT_JOBDRG601_02910_HEUSTIENNE_000_020	¡<split(<string(gstr1)>, ,1)>!
+TEXT_JOBDRG601_02910_HEUSTIENNE_000_021	Así que la carta le llegó a mi padre. Perdona que te hiciera viajar tan lejos solo para verme. Como bien sabes, no puedo volver a Ishgard en mi estado actual.
+TEXT_JOBDRG601_02910_HEUSTIENNE_000_022	Dicho esto, la sangre ya no me domina tanto como antes. En gran parte se lo debo a un nuevo aliado. Su ayuda fue invaluable para aprender a controlar al dragón que llevo dentro.
+TEXT_JOBDRG601_02910_HEUSTIENNE_000_023	De hecho, quisiera presentártelo. ¡Orn Khai, llegó <split(<string(gstr1)>, ,1)>!
+TEXT_JOBDRG601_02910_ORNKHAI_000_024	Es un honor conocerte, <if(gnum4,heroína,héroe)> de los hombres. Mucho me habló de ti mi padre. Solía hablar de <if(gnum4,la guerrera,el guerrero)> que tiene la fuerza de un dragón.
+TEXT_JOBDRG601_02910_HEUSTIENNE_000_025	Orn Khai es un gran amigo desde la primera vez que me encontró sufriendo los efectos de la sangre. Dudo mucho que pudiera estar aquí hablando contigo si no fuera por su ayuda.
+TEXT_JOBDRG601_02910_HEUSTIENNE_000_026	Te llamé para saldar mi deuda con él. Orn Khai, cuéntale a <split(<string(gstr1)>, ,1)> qué te preocupa.
+TEXT_JOBDRG601_02910_ORNKHAI_000_027	Sí, gracias. Mucho antes de que yo naciera, en la época en que el hombre y el dragón vivían en paz, mi padre tenía una consorte.
+TEXT_JOBDRG601_02910_ORNKHAI_000_028	Pero la Dragonsong War los separó. Mi padre era de la camada de Hraesvelgr, como yo, pero su consorte era de la de Nidhogg.
+TEXT_JOBDRG601_02910_ORNKHAI_000_029	Cuando Nidhogg exigió venganza por los agravios que les hicieron a él y a Ratatoskr, mi padre le pidió a su consorte que volara muy lejos, hacia el este.
+TEXT_JOBDRG601_02910_ORNKHAI_000_030	Ella no le guardaba rencor al hombre, y aunque no quería otra cosa que quedarse al lado de mi padre, aceptó su pedido y huyó del conflicto.
+TEXT_JOBDRG601_02910_ORNKHAI_000_031	Pero con tus valientes hazañas, la Dragonsong War terminó. ¡Estoy seguro de que la consorte de mi padre volverá si le avisamos que la guerra acabó!
+TEXT_JOBDRG601_02910_HEUSTIENNE_000_032	Orn Khai necesita tu ayuda para buscar a la consorte de su padre y traerla de vuelta a casa. Pero como ella dejó Dravania hace unos mil veranos, encontrarla no será nada fácil.
+TEXT_JOBDRG601_02910_HEUSTIENNE_000_033	En otras circunstancias, ayudaría yo misma a Orn Khai. Pero, aunque me recuperé en parte, todavía estoy lejos de controlarme del todo.
+TEXT_JOBDRG601_02910_HEUSTIENNE_000_034	Por eso te llamé, <split(<string(gstr1)>, ,1)>. Nadie conoce el mundo como tú. Te lo ruego: ¡ayuda a Orn Khai en su búsqueda!
+TEXT_JOBDRG601_02910_ORNKHAI_000_035	¡Te lo agradezco de todo corazón, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBDRG601_02910_HEUSTIENNE_000_036	Gracias, <split(<string(gstr1)>, ,1)>. Una vez más te debo mi gratitud. Por desgracia, aunque sabemos que está en algún lugar del este, no tenemos la menor idea de dónde está exactamente la consorte.
+TEXT_JOBDRG601_02910_HEUSTIENNE_000_037	Te sugiero que primero le preguntes a Ser Alberic por las leyendas dravanianas, en especial las que hablan de dragones en el Este. Por favor, vuelve a contarme cuando averigües algo que te parezca útil.
+TEXT_JOBDRG601_02910_HEUSTIENNE_000_040	Averigua si Ser Alberic sabe algo de leyendas dravanianas sobre el Este. Por favor, vuelve a contarme cuando averigües algo útil.
+TEXT_JOBDRG601_02910_ORNKHAI_000_045	¡Mi padre decía a menudo que habrías sido <if(gnum4,una excelente dravaniana,un excelente dravaniano)>!
+TEXT_JOBDRG601_02910_ALBERIC_000_050	¡Me alegra verte volver <if(gnum4,sana y salva,sano y salvo)>! ¿Pudiste encontrar a Heustienne?
+TEXT_JOBDRG601_02910_ALBERIC_000_051	Hmm, ya veo. Tiene razón en suponer que los dragones temibles suelen protagonizar las leyendas locales.
+TEXT_JOBDRG601_02910_ALBERIC_000_052	Lo hablaré con el sacerdote del Congregation. Sé que es toda una autoridad en leyendas dravanianas.
+TEXT_JOBDRG601_02910_ALBERIC_000_053	Aunque, pensar que una dragoon a la que antes solo la movía el deseo de matar dragones ahora quiera ayudar a uno... Es un mundo nuevo y extraño el que habitamos, aunque no me disgusta.
+TEXT_JOBDRG601_02910_ALBERIC_000_054	Pero eso no importa. Buscaré al sacerdote de inmediato y le plantearé tu pregunta. Por favor, vuelve pronto y te contaré lo que averigüe.
+TEXT_JOBDRG601_02910_SYSTEM_000_055	La siguiente misión de dragoon estará disponible con Alberic al llegar al nivel 63.
+TEXT_JOBDRG601_02910_SYSTEM_000_056	Puedes consultar en el journal los requisitos para emprender las misiones siguientes.

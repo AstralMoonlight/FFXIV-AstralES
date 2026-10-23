@@ -1,0 +1,54 @@
+key	text
+TEXT_JOBDRG630_02911_SEQ_00	Ser Alberic tiene ganas de contarte leyendas dravanianas.
+TEXT_JOBDRG630_02911_SEQ_01	Ser Alberic te recibe diciendo que terminó de reunir información sobre las leyendas dravanianas que parecen útiles para tu búsqueda. Te entrega un pergamino con la primera historia que te sugiere investigar, y se cuida de mencionar que el sacerdote del Congregation insistió en que estas historias rara vez se pueden tomar al pie de la letra. Partes a llevarles esta información a Heustienne y Orn Khai.
+TEXT_JOBDRG630_02911_SEQ_02	La leyenda que desenterró Ser Alberic habla del Slumbering Wyrm de Gyr Abania. Al principio, el pergamino distrae a Orn Khai, porque los dragones no tienen lengua escrita: transmiten su historia con canciones, y así es como conoce el nombre de la consorte de su padre: Faunehm. Heustienne te pide que acompañes a Orn Khai a The Fringes para averiguar más sobre el Slumbering Wyrm.
+TEXT_JOBDRG630_02911_SEQ_03	El impaciente dragoncito entra corriendo al templo sin ti y, a juzgar por sus gritos de auxilio, se arrepiente de haberlo hecho.
+TEXT_JOBDRG630_02911_SEQ_04	Vencido el atacante de Orn Khai, retomas la búsqueda del dragón de la leyenda. Justo cuando el joven dravaniano se pregunta si la criatura con la que se encontraron era el mismísimo Slumbering Wyrm, aparece un caballero con aspecto de erudito.
+TEXT_JOBDRG630_02911_SEQ_05	El caballero resulta ser un tal Profesor Erik, y a él también le interesa la leyenda del Slumbering Wyrm. Se pone a darles una clase sobre el tema, y lo único digno de mención es que el Slumbering Wyrm era en realidad un sumo sacerdote que murió hace más de trescientos años. Orn Khai no tarda en cansarse de las divagaciones de Erik y sugiere ir a Coerthas a hablar con Ser Alberic.
+TEXT_JOBDRG630_02911_SEQ_06	Ser Alberic se disculpa por haberte mandado a una búsqueda inútil, pero se apresura a decir que tiene otra leyenda que quizá quieras investigar. Esta tiene sus raíces en el lejano este, y Ser Alberic comenta que a Orn Khai podría costarle hacer el viaje contigo por lo modesto de sus alas. Pero Orn Khai no se desanima y convence a Ser Alberic de que idee una forma de que pueda cruzar hasta Kugane.<br><br>※La siguiente misión de dragoon estará disponible con Ser Alberic al llegar al nivel 65.
+TEXT_JOBDRG630_02911_TODO_00	Muéstrale la leyenda dravaniana a Heustienne en Mare's Oath.
+TEXT_JOBDRG630_02911_TODO_01	Llama a Orn Khai.
+TEXT_JOBDRG630_02911_TODO_02	Mata al enemigo.
+TEXT_JOBDRG630_02911_TODO_03	Habla con Orn Khai.
+TEXT_JOBDRG630_02911_TODO_04	Habla con Alberic.
+TEXT_JOBDRG630_02911_HEUSTIENNE_000_005	Averigua si Ser Alberic sabe algo de leyendas dravanianas sobre el este. Por favor, vuelve a contarme cuando averigües algo útil.
+TEXT_JOBDRG630_02911_ORNKHAI_000_010	¡Mi padre decía a menudo que habrías sido <if(gnum4,una excelente dravaniana,un excelente dravaniano)>!
+TEXT_JOBDRG630_02911_ALBERIC_000_020	Ah, <split(<string(gstr1)>, ,1)>, justo a quien quería ver. Hace un rato terminamos de examinar las leyendas dravanianas que conocemos.
+TEXT_JOBDRG630_02911_ALBERIC_000_021	Pero el sacerdote me pidió que te dejara claro que este tipo de leyendas suelen contarse de formas cada vez más... <italic(1)>pintorescas<italic(0)> con el paso de los años.
+TEXT_JOBDRG630_02911_ALBERIC_000_022	Es muy común que un simple reptil o un puk, con ayuda del Keeper, se transforme en un dragón temible. Supongo que no debería sorprender. Las leyendas se hacen famosas cautivando la imaginación de la gente; no sirve de mucho que el protagonista sea un vulgar lagarto con alas.
+TEXT_JOBDRG630_02911_ALBERIC_000_023	Pero dejemos de lado por un momento la cuestión de la autenticidad. Resumí en este pergamino la primera historia que me pareció más relevante; por favor, úsala en tu búsqueda. Ah, y por último, dile a Heustienne que siempre la tengo presente.
+TEXT_JOBDRG630_02911_ALBERIC_000_025	Nunca antes había investigado las leyendas dravanianas con otro fin que cazar un dragón. Quizá esto sea un atisbo del papel que tendrá el dragoon en este mundo.
+TEXT_JOBDRG630_02911_HEUSTIENNE_000_030	¿Ese pergamino es para mí, por casualidad?
+TEXT_JOBDRG630_02911_HEUSTIENNE_000_031	Ah, sí, jamás olvidaría la exquisita letra de Ser Alberic. Esta información será de gran ayuda, estoy segura. Veamos, parece que cree que deberíamos empezar la búsqueda por el Slumbering Wyrm de Gyr Abania.
+TEXT_JOBDRG630_02911_ORNKHAI_000_032	Es la primera vez que veo estos dibujos que usan los hombres. Qué fascinante que puedan compartir información así.
+TEXT_JOBDRG630_02911_ORNKHAI_000_033	La historia dravaniana no se registra con letras, sino con canciones. Esos versos me enseñaron mucho sobre Faunehm, la consorte de mi padre.
+TEXT_JOBDRG630_02911_HEUSTIENNE_000_034	¿Faunehm, dices? Bueno, saber su nombre solo puede ayudar en la búsqueda. <split(<string(gstr1)>, ,1)>, por favor, acompaña a Orn Khai a las ruinas del templo del Fist of Rhalgr, en The Fringes.
+TEXT_JOBDRG630_02911_HEUSTIENNE_000_035	Ser Alberic dice que allí está el origen del Slumbering Wyrm.
+TEXT_JOBDRG630_02911_ORNKHAI_000_036	El viaje es largo, y no nos conviene retrasar más la partida. Silba cuando llegues a nuestro destino e iré a tu lado.
+TEXT_JOBDRG630_02911_HEUSTIENNE_000_040	Quizá yo también podría aprender de la devoción de Orn Khai por su padre. Le di al mío más motivos de preocupación de los que me gustaría admitir.
+TEXT_JOBDRG630_02911_ORNKHAI_000_050	Parece que el hombre sabe construir edificios de muchos estilos. Esperaba algo parecido a lo que hay en The Churning Mists.
+TEXT_JOBDRG630_02911_ORNKHAI_000_051	Entremos y veamos si Faunehm está por aquí.
+TEXT_JOBDRG630_02911_ORNKHAI_000_052	¡<split(<string(gstr1)>, ,1)>!
+TEXT_JOBDRG630_02911_ORNKHAI_000_053	¡Ayúdame, por favor!
+TEXT_JOBDRG630_02911_ORNKHAI_000_055	No sé qué es esto, ¡pero te agradecería que lo mataras!
+TEXT_JOBDRG630_02911_POPMESSAGE_100_058	¡Te están atacando!
+TEXT_JOBDRG630_02911_ORNKHAI_000_070	Estaba admirando la obra de los hombres cuando de pronto se me vino encima. Aunque me cuesta creer que esto sea lo que las leyendas llaman el Slumbering Wyrm...
+TEXT_JOBDRG630_02911_ERIK_000_071	¡Ah, querid<if(gnum4,a,o)> <split(<string(gstr1)>, ,1)>! ¡No sabía que <italic(1)>tú también<italic(0)> investigabas el Slumbering Wyrm!
+TEXT_JOBDRG630_02911_ERIK_000_072	Investigando el Slumbering Wyrm, ¿eh? Siempre es lindo ver que otros se interesan por la historia, aunque sea de forma del todo superficial.
+TEXT_JOBDRG630_02911_ORNKHAI_000_073	E-espera, ¿conoces el Slumbering Wyrm? ¡Vinimos hasta aquí justamente para conocer a ese dragón!
+TEXT_JOBDRG630_02911_ERIK_000_074	¡Jajajaja! A ustedes los dravanianos no les vendría mal estudiar un poco de historia. ¡Hace muchísimo que pasó la época en que se podía conocer al Wyrm!
+TEXT_JOBDRG630_02911_ERIK_000_075	¡El sumo sacerdote Heimart, también conocido como el Slumbering Wyrm, dejó este mundo hace más de trescientos años!
+TEXT_JOBDRG630_02911_ORNKHAI_000_076	¿¡El Slumbering Wyrm era un simple hombre!?
+TEXT_JOBDRG630_02911_ERIK_000_077	¡Pues claro! ¿Por qué ibas a pensar otra cosa? Heimart era un monk famoso por su dominio de la meditación. Aunque, cuando hacía falta, era muy capaz de usar su fuerza de dragón para aplastar a sus enemigos.
+TEXT_JOBDRG630_02911_ERIK_000_078	Se ganó el apodo de Slumbering Wyrm después de...\<parloteo>...cien hombres...\<parloteo>...Sin embargo...\<parloteo>...se quedó dormido...\<parloteo>
+TEXT_JOBDRG630_02911_ORNKHAI_000_079	Bueno, parece que tendremos que empezar la búsqueda de nuevo. Temo quedarme dormido como un dragón yo también si sigo escuchando a este hombre tan pesado. Mejor vayamos a ver a Ser Alberic. Alguien a quien Heustienne estima tanto seguro que puede ayudarnos a buscar.
+TEXT_JOBDRG630_02911_ORNKHAI_000_090	Me alivia no haber sido el único que no pensó que el Slumbering Wyrm podía no ser dravaniano...
+TEXT_JOBDRG630_02911_ALBERIC_000_100	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <split(<string(gstr1)>, ,1)>. Nuestro amigo me contó la verdad detrás de la leyenda. Te pido disculpas por no haber investigado más a fondo la historia antes de llamarte la atención sobre ella.
+TEXT_JOBDRG630_02911_ALBERIC_000_101	Tu próximo destino está en el Lejano Oriente. Dime, <split(<string(gstr1)>, ,1)>, ¿alguna vez pisaste esa región?
+TEXT_JOBDRG630_02911_ALBERIC_000_102	¿Una ciudad portuaria llamada Kugane? Suena de lo más fascinante. Imagino que sería un buen lugar para empezar a investigar esta otra leyenda. Por desgracia, no creo que Orn Khai pueda acompañarte en este viaje.
+TEXT_JOBDRG630_02911_ALBERIC_000_103	¿De verdad nunca hiciste el viaje? Viajaste tanto que di por hecho que habías visitado la ciudad. Bueno, tendrás que ir allí si quieres seguir con tu búsqueda. Por desgracia, no creo que Orn Khai pueda acompañarte esta vez.
+TEXT_JOBDRG630_02911_ORNKHAI_000_104	¿Pero cómo piensan encontrar a Faunehm sin un dragón que los acompañe?
+TEXT_JOBDRG630_02911_ALBERIC_000_105	Entiendo muy bien tu situación, Orn Khai. Es una verdadera lástima que tus alas no estén a la altura de tu ambición.
+TEXT_JOBDRG630_02911_ALBERIC_000_106	Aunque... quizá no consideré todas las opciones que tenemos. Te debemos mucho por todo lo que hiciste por Heustienne. Dame algo de tiempo y me encargaré de que puedas seguir a <split(<string(gstr1)>, ,1)> hasta el Lejano Oriente.
+TEXT_JOBDRG630_02911_ORNKHAI_000_107	¡Te lo agradezco, Ser Alberic! ¡Ay, ojalá pudiera partir ahora mismo! Quizá salir a cazar un poco me calme... ¡Por favor, llámenme cuando esté todo listo!
+TEXT_JOBDRG630_02911_ALBERIC_000_108	Al menos ahora sabemos que a Heustienne no le faltó compañía desde que dejó Ishgard. Lamentablemente, puede que me cueste conseguir pasaje al Este tan rápido como a él le gustaría. Mantén bien pulido tu brazo de lanza: no hay forma de saber qué te espera en Othard.
