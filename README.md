@@ -226,34 +226,18 @@ Mensajes y menús de los aetherytes, el Aethernet y los porters (chocobos, halco
 
 ## Mensajes del chat
 
-El plugin todavía no traduce la ventana del chat. Estas son las hojas de donde sale lo que se ve ahí durante una misión.
+El plugin todavía no traduce la ventana del chat. Estas son todas las hojas del juego de donde sale lo que se ve ahí.
 
 | Hoja | Qué sale en el chat | Estado |
 |---|---|---|
-| `LogMessage` | Avisos del sistema: experiencia, objetos, niveles, misiones aceptadas y completadas, santuarios, instancias (filas en la tabla de abajo) | ![Pendiente][no] |
-| Hoja de cada misión | Lo que dicen los NPC en combate, p. ej. "Foulques of the Mist: Will your courage hold out...?" (`ClsLnc003_00055`, líneas `BATTLETALK`). La traducción ya existe en `msq/es/`: falta mostrarla en el chat | ![Pendiente][no] |
-| `Quest`, `Achievement`, `PlaceName`, `Action`, `ClassJob`, `Item` | Nombres dentro de los avisos ("Leia's Legacy", "Mapping the Realm: East Shroud", Central Shroud, Piercing Talon, lancer, brass spear, Allagan bronze pieces). Quedan en inglés | — |
-
-Filas de `LogMessage` vistas jugando, por orden de prioridad:
-
-| Fila | Texto en inglés | Estado |
-|---|---|---|
-| 588 | You gain 150 (+80%) experience points. | ![Pendiente][no] |
-| 657 | You obtain a brass spear. / You obtain 3 Allagan bronze pieces. | ![Pendiente][no] |
-| 1258 | You obtain 160 gil. | ![Pendiente][no] |
-| 788 | The brass spear is placed in your Armoury Chest. | ![Pendiente][no] |
-| 1601 | "Leia's Legacy" accepted. | ![Pendiente][no] |
-| 1602 | "Salvaging the Scene" complete! | ![Pendiente][no] |
-| 1603 | "A Dangerous Proposition" objective fulfilled! | ![Pendiente][no] |
-| 552 | You learn Piercing Talon. | ![Pendiente][no] |
-| 590 | You attain level 16! | ![Pendiente][no] |
-| 952 | You earn the achievement "Mapping the Realm: East Shroud"! | ![Pendiente][no] |
-| 88 | You discover a new location! | ![Pendiente][no] |
-| 732 / 733 | You have entered a sanctuary. / You have left the sanctuary. | ![Pendiente][no] |
-| 1350 | You are now in the instanced area Central Shroud. Current instance can be confirmed at any time using the /instance text command. | ![Pendiente][no] |
-| 4590 | You spent 158 gil. | ![Pendiente][no] |
-| 7980 | Gear recommended for a lancer equipped. | ![Pendiente][no] |
-| 1581 | Foulques of the Mist uses a potent blinding potion! | ![Pendiente][no] |
+| `LogMessage` | Avisos del sistema y del combate: experiencia y nivel, objetos y gil, misiones aceptadas y completadas, habilidades aprendidas, logros, lugares descubiertos, santuarios e instancias de zona, estados ganados y perdidos, acciones de cada personaje, emotes, errores | ![Pendiente][no] |
+| Hojas de misión (`quest/`) | Lo que dicen los NPC en las ventanas de diálogo y en combate (líneas `BATTLETALK`). La traducción ya existe en `msq/es/`: falta mostrarla en el chat | ![Pendiente][no] |
+| `InstanceContentTextData` | Lo que dicen los jefes en mazmorras, trials y raids. La traducción ya existe en `msq/es/duties/`: falta mostrarla en el chat | ![Pendiente][no] |
+| Hojas `custom/` | Diálogos de NPC fuera de las misiones (eventos de temporada, aetherytes, porters). La traducción ya existe para las que están en `msq/es/events/` y `msq/es/transport/` | ![Pendiente][no] |
+| `NpcYell` | Gritos de NPC en el mundo abierto y en los FATE | ![Pendiente][no] |
+| `TextCommand` | Ayuda y errores de los comandos de texto (`/help`, comandos mal escritos) | ![Pendiente][no] |
+| `Completion` | Frases del autotraductor que escriben los jugadores | — |
+| `Quest`, `Achievement`, `PlaceName`, `Action`, `Status`, `ClassJob`, `Item`, `BNpcName`, `ENpcResident`, `Fate`, `ContentFinderCondition` | Nombres dentro de los avisos (misiones, logros, lugares, habilidades, estados, clases, objetos, enemigos, NPC, FATE, instancias). Quedan en inglés | — |
 
 ## Comandos
 
