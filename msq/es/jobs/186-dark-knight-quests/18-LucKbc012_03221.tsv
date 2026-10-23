@@ -1,0 +1,130 @@
+key	text
+TEXT_LUCKBC012_03221_SEQ_00	Te dirán que eres uno y que eres dos. Puedes elegir.
+TEXT_LUCKBC012_03221_SEQ_01	Después de dedicar unos momentos a charlar de tus extraordinarias aventuras en the First, Sidurgu te cuenta que llegó a sus manos una carta anónima dirigida a ti. Por respeto a tu privacidad, no la abrió, y cuando se va tras una Rielle bastante enojada, te quedas a solas para leerla.<br><br>Pero si estás leyendo <italic(1)>esto<italic(0)>, entonces sabes cómo sigue la historia, ¿no? Así que ahora toca elegir: tener el cristal cerca, para que disfrutemos juntos de estos momentos. O dejarlo a un lado y fingir que nunca fui parte de esto. Que nunca estuve aquí de verdad.
+TEXT_LUCKBC012_03221_SEQ_02	"<string(gstr1)>:<br>Perdona lo repentino de esta carta, y el secreto. De algún modo, me ayudaste. Hace mucho tiempo. Ya era hora de decirlo, así que... aquí estamos.<br>Pensándolo bien, parece que fue hace una vida. Pasaste por mucho desde entonces, lograste cosas increíbles. Me gusta pensar que, de algún modo, fui parte de tu viaje... Lejos de la mejor parte, sin duda. Pero para mí y para mi propio viaje, creo que puedo decir sin miedo que fuiste... bueno. En realidad no hay palabras que lo describan.<br>Hice cosas. Tomé decisiones. Mirando atrás, no puedo evitar avergonzarme más de un poco. Pero así es la vida, y hay que aprovechar las pocas oportunidades que tenemos de cerrar las cosas... aunque sea por escrito y no cara<-->a<-->cara.<br>Así que, estés donde estés, espero que seas feliz. Que sigas peleando, que sigas en tus aventuras, que sigas haciendo lo que amas. Cuídate."<br><br><if([gnum68==32],La enigmática carta habla por sí sola. Quizás Lunnie\, la mujer que se la entregó a Sidurgu\, pueda arrojar luz sobre este misterio. O al menos ayudarte a cumplir con el trámite y poner un pie delante del otro. Una y otra vez. Andando.,La enigmática carta habla por sí sola. Quizás Lunnie\, la mujer que se la entregó a Sidurgu\, pueda arrojar luz sobre este misterio...)>
+TEXT_LUCKBC012_03221_SEQ_03	Resulta que Lunnie es nada menos que la muchacha que rescataste de las garras de unos Temple Knights corruptos hace una vida. Sin embargo, no es la autora de la carta, y explica que se la dio un tal Ser Patrounade, que le dijo que había que entregársela <if(gnum4,a la heroína,al héroe)> de los Scions. Parece que toca visitar the Congregation.<if([gnum68==32],<br><br>Ella no lo sabía\, claro. ¿Cómo iba a saberlo? Ni siquiera está segura de cuántos de ustedes había ese día. ¿Y tú? Pero eso no importa. Tienes una búsqueda que continuar.,)>
+TEXT_LUCKBC012_03221_SEQ_04	Ser Patrounade no era más que otro eslabón de la cadena: recibió la carta de Orella, de Rhalgr's Reach. Él, como tú, había quedado herido en the Ghimlyt Dark, y pasó unas noches allí recuperándose a su cuidado. Si hay más respuestas, estarán en the Barber.<if([gnum68==32],<br><br>¿Te acuerdas de Ser Patrounade? Yo sí. No por su nombre\, claro: no tenía uno cuando cayó la torre. Así suelen ser estas cosas. Haces tu parte\, y solo después llenas los huecos y armas el cuadro mirando atrás\, desde lejos. ¿Cuál será tu legado mañana\, y pasado\, y en los días que vengan...?,)>
+TEXT_LUCKBC012_03221_SEQ_05	Después de aclarar que no vienes otra vez a buscar a un niño perdido, Orella te explica que la carta llegó con un envío de suministros médicos de Little Ala Mhigo. Solo puede suponer que el autor esperaba que la comandante Hext se encargara de ella y te la entregara en persona. Así que partes hacia Southern Thanalan para recorrer otro tramo del viaje de la carta.<if([gnum68==32],<br><br>Y Orella es solo otro paso en tu propio viaje. ¿La vas a recordar? ¿Y los nombres de su registro: Conrad Kemp\, Meffrid Noward? "Ah\, pero estaban condenados desde el principio"\, susurra una parte de ti. "Muertes inevitables camino a un final ya escrito"\, dice el corazón endurecido\, mirando atrás. Te equivocarías\, claro. Nunca tuvo que ser así. Este mundo es exactamente como elegimos hacerlo.,)>
+TEXT_LUCKBC012_03221_SEQ_06	Gundobald te mira pensativo y dice que la carta habla por sí sola, y que por eso aceptó mandarla en nombre de su autor. Sin embargo, si no estás dispuest<if(gnum4,a,o)> a dejarlo así, si todavía buscas respuestas y un cierre, no te los negará. En Red Rooster Stead, en Lower La Noscea, hay un hombre que podría ayudarte a encontrar algo de paz.<if([gnum68==32],<br><br>Gundobald sí te vio en tu mejor momento y en el peor. Te vio cuando eras uno y cuando eras dos. Podría decirte que la carta la escribió otra persona\, si eso es lo que prefieres creer. Sería un giro\, sin duda\, pero vimos cosas más raras. O podría seguir mirándote con esa mezcla de preocupación y miedo que le sale cuando se habla de nosotros\, y no decir nada parecido. Y tú\, tú podrías ir a Red Rooster Stead con la respuesta que elijas. A ver si todo es de tu agrado.,)>
+TEXT_LUCKBC012_03221_SEQ_07	El hombre de Red Rooster Stead resulta ser otra figura de tu pasado: un antiguo mercader que te pidió recuperar su mercancía robada y te reprochó el estado en que se la devolviste. Desde aquel día fatídico, su vida fue una sucesión de fracasos... hasta que, revolviendo sus escasas pertenencias, encontró un paquete de bulbos de flores manchado de sangre, de aquellos tiempos. Entonces decidió hacerse botanist y empezar de nuevo, y como humilde muestra de un agradecimiento que llega muy tarde, te ofrece una flor. Pero no es para ti.<if([gnum68==32],<br><br>Otra cara sin nombre\, ahora con nombre. Antes intrigante\, ahora humilde\, como debe ser\, ¿no? Le di una buena reprimenda\, o se la diste tú. Tú eliges. Y después de una racha de mala suerte\, dio vuelta la página... y encontró una flor. Adecuada para funerales y despedidas. Ya te dije que sabes cómo sigue la historia\, ¿no? Ven a ver\, <split(<string(gstr1)>, ,1)>. Ven a ver.,)>
+TEXT_LUCKBC012_03221_SEQ_08	Dices unas palabras y ofreces una flor en memoria de... un recuerdo. Ahora vete, y no mires atrás.<if([gnum68==32],<br><br>Fue un viaje largo y extraño\, lleno de altibajos de todo tipo. <italic(1)>Tu<italic(0)> viaje\, claro\, pero como escribí antes\, me gusta fingir que fui una parte importante de él. Vanidad\, sí. Pero ¿cómo no pensar ahora en el legado\, después de ir a the First y ver con nuestros propios ojos hasta dónde llega el hombre para que lo recuerden? Quiero creer\, <italic(1)>necesito<italic(0)> creer que esto no fue en vano. Que te cambié para bien\, como tú me cambiaste a mí...,)>
+TEXT_LUCKBC012_03221_SEQ_09	Sidurgu te espera con Rielle en the Forgotten Knight cuando vuelves. Te pregunta qué encontraste, para qué fue todo, y tú respondes...<if([gnum68==32],<br><br>Hora de irse. No sé cuándo volveremos a hacer esto\, <italic(1)>si<italic(0)> es que volvemos a hacerlo. El truquito que aprendiste no cuenta\, ¿sabes? Pero aunque este sea nuestro final\, no va a cambiar lo que tuvimos. Te quiero más de lo que nunca sabrás. Cuídate.,)>
+TEXT_LUCKBC012_03221_TODO_00	Lee la carta sin firma.
+TEXT_LUCKBC012_03221_TODO_01	Muéstrale la carta sin firma a Lunnie en the Holy Stables.
+TEXT_LUCKBC012_03221_TODO_02	Muéstrale la carta sin firma a Ser Patrounade en the Congregation of Our Knights Most Heavenly.
+TEXT_LUCKBC012_03221_TODO_03	Muéstrale la carta sin firma a Orella en Rhalgr's Reach.
+TEXT_LUCKBC012_03221_TODO_04	Muéstrale la carta sin firma a Gundobald en Little Ala Mhigo.
+TEXT_LUCKBC012_03221_TODO_05	Habla con Godeheard en Lower La Noscea.
+TEXT_LUCKBC012_03221_TODO_06	Con el chat en modo <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribe "Fray" para llamar a tu compañero en Coerthas Central Highlands.
+TEXT_LUCKBC012_03221_TODO_07	Habla con Sidurgu en Foundation.
+TEXT_LUCKBC012_03221_SIDURGU_000_000	Ah, <split(<string(gstr1)>, ,1)>. Justo tengo una carta para ti...
+TEXT_LUCKBC012_03221_SIDURGU_000_001	Pero antes de hablar de eso, ¿te molesta contarme en qué andabas metid<if(gnum4,a,o)> últimamente? Tú y tus Scions, digo. Algo sospecho, quizás...
+TEXT_LUCKBC012_03221_Q1_000_002	¿Qué dices?
+TEXT_LUCKBC012_03221_A1_000_003	Resulta que fui a salvar otro mundo.
+TEXT_LUCKBC012_03221_A1_000_004	Tuve que ir a matar a una horda de sin eaters.
+TEXT_LUCKBC012_03221_SIDURGU_000_005	Eh... ¿cómo dijiste? ¿Reflejos del Source? ¿Mundos paralelos? ¿¡Sin eaters!? ¿De qué demonios hablas?
+TEXT_LUCKBC012_03221_SIDURGU_000_006	Algo me dice que esto solo va a tener sentido si me lo cuentas desde el principio, paso a paso...
+TEXT_LUCKBC012_03221_SIDURGU_000_007	...Bien, entonces. En resumen: otra vez te viste metid<if(gnum4,a,o)> en un conflicto que sacude el mundo, ¿no?
+TEXT_LUCKBC012_03221_SIDURGU_000_008	Bueno, claro que sí. Tienes un hambre insaciable de eso, ¿no? Y aunque muerdas más de lo que puedes tragar, no lo sueltas.
+TEXT_LUCKBC012_03221_SIDURGU_000_009	¿Qué? ¡Como si no lo supieras! Por los infiernos, desde que te vi sospeché que eras una mezcla muy particular de impulsiv<if(gnum4,a,o)> y testarud<if(gnum4,a,o)>.
+TEXT_LUCKBC012_03221_SIDURGU_000_010	Hace falta ser un desgraciado muy especial para hacerse dark knight, y ya ni hablar de Warrior of Light, ¿no crees?
+TEXT_LUCKBC012_03221_SIDURGU_000_011	Viajaste a un mundo condenado y comprometiste tu espada con una causa inútil. Peleaste y peleaste y peleaste... y al final ganaste.
+TEXT_LUCKBC012_03221_SIDURGU_000_012	Aunque sé que no fue sin pérdidas. Sin sacrificios. Victorias así siempre se pagan con sangre.
+TEXT_LUCKBC012_03221_SIDURGU_000_013	Pero tú y tus compañeros pagaron ese precio igual. Esa tierra lejana y su gente siguen vivas porque todos ustedes estuvieron dispuestos a pelear hasta el amargo final, porque eran demasiado testarudos para morir.
+TEXT_LUCKBC012_03221_RIELLE_000_014	...Y por amor, seguro.
+TEXT_LUCKBC012_03221_RIELLE_000_015	Ser sombrío y oscuro solo te lleva hasta cierto punto, ¿no te acuerdas? Es como dijeron los moogles, como dijo el propio Ser Ompagne. La llama en el abismo, el amor que sientes por los que más quieres: esa es la fuente de la verdadera fuerza.
+TEXT_LUCKBC012_03221_RIELLE_000_016	<split(<string(gstr1)>, ,1)> nunca habría llegado tan lejos si no tuviera el corazón lleno de amor hasta el borde.
+TEXT_LUCKBC012_03221_Q2_000_017	¿Qué dices?
+TEXT_LUCKBC012_03221_A2_000_018	¿Es una forma indirecta de preguntarme por los deseos de mi corazón...?
+TEXT_LUCKBC012_03221_A2_000_019	Prefiero hacerle esa pregunta a Sid.
+TEXT_LUCKBC012_03221_SIDURGU_000_020	Mejor... mejor no, ¿eh? Seguro que ese tal Thancred que mencionaste daría una respuesta mucho más significativa e interesante.
+TEXT_LUCKBC012_03221_SIDURGU_000_021	Tener que cuidar a la reencarnación de su hija adoptiva sin duda es... Aunque supongo que, en cierto modo, lo entiendo.
+TEXT_LUCKBC012_03221_SIDURGU_000_022	...¿Qué?
+TEXT_LUCKBC012_03221_RIELLE_000_023	...Nunca te vi como mi <italic(1)>padre<italic(0)>.
+TEXT_LUCKBC012_03221_SIDURGU_000_024	Bueno, no, yo... O sea... ni siquiera somos de la misma raza, así que nadie que nos viera pensaría...
+TEXT_LUCKBC012_03221_SIDURGU_000_025	¿Qué? Si quieres ponerle un nombre, ¿cuál prefieres? ¿"Maestro y discípula"? ¿"Criado y noble dama"?
+TEXT_LUCKBC012_03221_RIELLE_000_026	Sid...
+TEXT_LUCKBC012_03221_RIELLE_000_027	¿¡Qué tal "trasero de chocobo" y lo que se te dé la gana!? Dioses, a veces puedes ser tan tonto...
+TEXT_LUCKBC012_03221_SIDURGU_000_028	¡Oye! ¡<italic(1)>Oye<italic(0)>! ¿¡Qué te dije de llamarme así!?
+TEXT_LUCKBC012_03221_SIDURGU_000_029	Niños, ¿no? Mejor démosle un momento para que se calme. Por ahora, hablemos de la carta que te mencioné.
+TEXT_LUCKBC012_03221_SIDURGU_000_030	Está dirigida a ti, pero no sé quién la escribió. Me la entregó una joven de the Brume. Lunnie, creo que se llamaba.
+TEXT_LUCKBC012_03221_SIDURGU_000_031	Dijo que ya nos había visto contigo por Ishgard, y pensó que si nos la dejaba a nosotros, tarde o temprano pasarías a buscarla.
+TEXT_LUCKBC012_03221_SIDURGU_000_032	Antes de que preguntes: no, no le eché un vistazo, así que su contenido es un completo misterio para mí. En cuanto a quién la mandó, tendrás que ir a molestar a Lunnie a the Holy Stables si quieres saber más. Ahora, si me disculpas, tengo que calmar a una muchacha enojada.
+TEXT_LUCKBC012_03221_SYSTEM_000_039	Dentro del sobre cerrado hay un papel, y al desplegarlo encuentras un mensaje escrito con una letra extrañamente familiar...
+TEXT_LUCKBC012_03221_LETTER03221_000_040	<string(gstr1)>:<br>Perdona lo repentino de esta carta, y el secreto.
+TEXT_LUCKBC012_03221_LETTER03221_000_041	De algún modo, me ayudaste. Hace mucho tiempo. Ya era hora de decirlo, así que... aquí estamos.
+TEXT_LUCKBC012_03221_LETTER03221_000_042	Pensándolo bien, parece que fue hace una vida. Pasaste por mucho desde entonces, lograste cosas increíbles. Me gusta pensar que, de algún modo, fui parte de tu viaje...
+TEXT_LUCKBC012_03221_LETTER03221_000_043	Lejos de la mejor parte, sin duda. Pero para mí y para mi propio viaje, creo que puedo decir sin miedo que fuiste... bueno. En realidad no hay palabras que lo describan.
+TEXT_LUCKBC012_03221_LETTER03221_000_044	Hice cosas. Tomé decisiones. Mirando atrás, no puedo evitar avergonzarme más de un poco. Pero así es la vida, y hay que aprovechar las pocas oportunidades que tenemos de cerrar las cosas... aunque sea por escrito y no cara<-->a<-->cara.
+TEXT_LUCKBC012_03221_LETTER03221_000_045	Así que, estés donde estés, espero que seas feliz. Que sigas peleando, que sigas en tus aventuras, que sigas haciendo lo que amas. Cuídate.
+TEXT_LUCKBC012_03221_SYSTEM_000_046	La carta no tiene firma ni ninguna pista clara de quién la escribió. Quizás Lunnie pueda arrojar luz sobre este misterio...
+TEXT_LUCKBC012_03221_LUNNIE_000_050	¡Es usted! ¡De verdad es usted! ¡<string(gstr1)>, mi <if(gnum4,heroína,héroe)>! ¡La verdad, nunca pensé que volvería a verl<if(gnum4,a,o)>, y mucho menos a hablar con usted!
+TEXT_LUCKBC012_03221_LUNNIE_000_051	Ay, perdón. Seguro que no se acuerda de mí para nada, ¿no? No me sorprende. Supongo que salvar a tontitas como yo es parte del trabajo de todos los días...
+TEXT_LUCKBC012_03221_LUNNIE_000_052	Y fue hace tanto, cuando me rescató de esos Temple Knights que querían separarme de mi abuela. Aunque lo recuerdo como si fuera ayer: usted, blandiendo esa espada enorme, gritando toda clase de amenazas terribles y haciéndolos huir.
+TEXT_LUCKBC012_03221_LUNNIE_000_053	Seguro que algunos dirían que se le fue la mano, ¡pero gracias a usted mi abuela y yo nunca más supimos de esa gente! Y desde que Ser Aymeric y sus aliados llegaron al poder, hay muchos menos problemas de ese tipo en todas partes.
+TEXT_LUCKBC012_03221_LUNNIE_000_054	Pero... a ver si adivino. No vino hasta aquí solo para verme, ¿verdad?
+TEXT_LUCKBC012_03221_LUNNIE_000_055	La carta, ¿eh? Lo suponía.
+TEXT_LUCKBC012_03221_LUNNIE_000_056	Le puedo decir que no la escribí yo. Me la dio un caballero del que me hice amiga después de cuidar su chocobo un par de veces. Ser Patrounade.
+TEXT_LUCKBC012_03221_LUNNIE_000_057	Dijo que había que entregársela <if(gnum4,a la heroína,al héroe)> de los Scions, <if(gnum4,una guerrera,un guerrero)> sin igual con mil victorias en su haber. Cuando la describió en detalle, todo encajó, y como estaba segura de que tarde o temprano visitaría a sus amigos, ¡me ofrecí a llevársela a ellos!
+TEXT_LUCKBC012_03221_LUNNIE_000_058	En fin, si busca a quien la mandó, con él tiene que hablar. ¿Quizás en the Congregation? Digo, ahí es donde se congregan los caballeros, supongo.
+TEXT_LUCKBC012_03221_LUNNIE_000_060	Mirando atrás, todo es tan confuso. Cómo les hizo frente, cómo se movía entre ellos, con la espada girando... ¡Por momentos parecía que había dos de usted!
+TEXT_LUCKBC012_03221_PATROUNADE_000_070	U-Usted... ¡Ejem! ¿E-En qué puedo servirle, <if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,2)>?
+TEXT_LUCKBC012_03221_PATROUNADE_000_071	¡La carta! Ah, qué alivio ver que llegó sin contratiempos.
+TEXT_LUCKBC012_03221_PATROUNADE_000_072	Me la confió Orella, de Rhalgr's Reach. Después de la batalla de the Ghimlyt Dark pasé unas noches allí, verá...
+TEXT_LUCKBC012_03221_PATROUNADE_000_073	Solo puedo suponer que quien la mandó al Reach había oído de su batalla contra Lord Zenos y de cómo l<if(gnum4,a,o)> llevaron a the Barber.
+TEXT_LUCKBC012_03221_PATROUNADE_000_074	Sin embargo, cuando llegó, a usted ya se l<if(gnum4,a,o)> habían llevado a Ishgard hacía mucho. Si Lunnie no l<if(gnum4,a,o)> hubiera reconocido por mis relatos, no sé cómo habría podido hacérsela llegar...
+TEXT_LUCKBC012_03221_PATROUNADE_000_075	Si busca a quien la escribió, ¿quizás debería visitar el Reach? Solo sé lo que le conté, pero seguro que Orella puede decirle más. ¡Que la Fury vele por usted y l<if(gnum4,a,o)> guarde, <if(gnum4,amiga,amigo)>!
+TEXT_LUCKBC012_03221_PATROUNADE_000_80	A decir verdad, no tuve más remedio que quedarme tanto tiempo en el Reach. Una vieja herida que nunca terminó de sanar, verá. De cuando cayó Specula Imperatoris.
+TEXT_LUCKBC012_03221_PATROUNADE_000_081	...Le preguntaría si recuerda haberme sacado de los escombros, pero me temo que me dirá que no. <italic(1)>Yo<italic(0)> sí lo recuerdo. Que los dioses l<if(gnum4,a,o)> bendigan, <if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,2)>.
+TEXT_LUCKBC012_03221_SYSTEM_000_085	El documento parece una lista de hombres y mujeres que murieron peleando por la Ala Mhigan Resistance y cuyos restos descansan en Recompense. Entre ellos reconoces a Conrad Kemp y a Meffrid Noward...
+TEXT_LUCKBC012_03221_SYSTEM_000_086	...y a Gallien. El querido Gallien.<br>Pero de Houdart no hay ninguna mención.
+TEXT_LUCKBC012_03221_ORELLA_000_090	Qué gusto verl<if(gnum4,a,o)>. ¿Otra vez perdió a ese muchacho de pelo largo?
+TEXT_LUCKBC012_03221_ORELLA_000_091	Es por la carta, ¿no? Llegó con un envío de suministros de Little Ala Mhigo, si mal no recuerdo.
+TEXT_LUCKBC012_03221_ORELLA_000_092	Solo puedo suponer que quien la mandó esperaba que la comandante Hext se la entregara en persona, pero no me sorprende que se le pasara, con el caos de the Ghimlyt Dark y lo que vino después.
+TEXT_LUCKBC012_03221_ORELLA_000_093	Terminó entre mis suministros médicos y, como ya sabe, decidí que ese caballero ishgardiano se encargara de entregarla.
+TEXT_LUCKBC012_03221_ORELLA_000_094	En todo caso, le aconsejo seguir buscando en Little Ala Mhigo. Y si alguien allí sabe algo de quién escribió la carta, es Gundobald.
+TEXT_LUCKBC012_03221_ORELLA_000_100	Últimamente tuve que anotar tantos nombres en el registro. Tantos amigos, muertos y enterrados. Todo por una buena causa, lo sé, pero eso no lo hace más fácil.
+TEXT_LUCKBC012_03221_GUNDOBALD_000_110	Bienvenid<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. No esperaba visitas. ¿Qué te trae al sur de Thanalan <if([gnum11<12],<if([gnum11<4],esta noche,hoy)>,<if([gnum11<17],hoy,esta noche)>)>?
+TEXT_LUCKBC012_03221_GUNDOBALD_000_111	Esta carta, dices... ¿Y buscas... a quien la escribió?
+TEXT_LUCKBC012_03221_GUNDOBALD_000_112	Si la leíste, conoces su corazón. Lo que significaste para esa persona, cómo le cambiaste la vida para bien.
+TEXT_LUCKBC012_03221_GUNDOBALD_000_113	Es un sentimiento que entiendo demasiado bien... y por eso acepté mandar esta carta con los suministros para Rhalgr's Reach.
+TEXT_LUCKBC012_03221_GUNDOBALD_000_114	Pero tú nunca fuiste de dejar un misterio sin resolver, ¿no? Buscas respuestas. Un cierre. No te lo negaré.
+TEXT_LUCKBC012_03221_GUNDOBALD_000_115	En Red Rooster Stead, en Lower La Noscea, encontrarás a un hombre llamado Godeheard. Habla con él. Quizás así encuentres algo de paz.
+TEXT_LUCKBC012_03221_GUNDOBALD_000_120	...Hubo un tiempo en que temí por ti, así de dividid<if(gnum4,a,o)> como estabas. <if(gnum4,Una mujer,Un hombre)> en guerra con sus amigos y consigo mism<if(gnum4,a,o)>. Pero veo que desde entonces te reconciliaste. Eso está bien.
+TEXT_LUCKBC012_03221_GODEHEARD_000_130	¡Ay, dioses, es usted! Pero ¿por qué? ¿¡Por qué está aquí!?
+TEXT_LUCKBC012_03221_GODEHEARD_000_131	¿De... de verdad no se acuerda? ¿De nada? ¿Los bandidos qiqirn? ¿Cierto mercader que quizááás se pasó un poquiiito de la raya?
+TEXT_LUCKBC012_03221_GODEHEARD_000_132	Estaba hech<if(gnum4,a,o)> un desastre cuando volvió a the Drydocks con mi mercancía, y quiero decir un desastre sangriento. Digo yo, ¿nada de lo que le cuento le suena? ¿De verdad?
+TEXT_LUCKBC012_03221_GODEHEARD_000_133	¿Ni siquiera la parte en que me negué a darle las gracias y le exigí que me indemnizara por la mercancía que usted <if(gnum4,misma,mismo)> me había devuelto...?
+TEXT_LUCKBC012_03221_GODEHEARD_000_134	Bueno, ya que lo confesé, mejor lo repito: era yo...
+TEXT_LUCKBC012_03221_GODEHEARD_000_135	Y eso fue solo el principio de mi mala suerte. Una cadena de malas decisiones me dejó endeudado con unos tipos muy poco indulgentes, y antes de darme cuenta se habían llevado casi todo lo que tenía.
+TEXT_LUCKBC012_03221_GODEHEARD_000_136	Me quedé sin amigos, sin dinero, sin esperanza. ¡Y le aseguro que haberme enemistado con <if(gnum4,la,el)> Warrior of Light tampoco me ayudó! Hubo un tiempo en que no podía evitar culparl<if(gnum4,a,o)> de todas mis desgracias...
+TEXT_LUCKBC012_03221_GODEHEARD_000_137	Y entonces, un día, revolviendo mis escasas pertenencias, tuve una revelación.
+TEXT_LUCKBC012_03221_GODEHEARD_000_138	Encontré un paquete de aquel cargamento que usted me recuperó aquel día nefasto. Bulbos de flores, manchados de sangre de qiqirn, pero todavía aptos para cultivar. Todavía llenos de potencial para crecer y prosperar...
+TEXT_LUCKBC012_03221_GODEHEARD_000_139	Antes de darme cuenta, estaba abrazando el paquete contra el pecho, sollozando y gimiendo como un loco...
+TEXT_LUCKBC012_03221_GODEHEARD_000_140	...Porque eso es exactamente lo que había sido: un tonto. Me habían ofrecido una bondad sin condiciones, y en vez de agradecerle a <if(gnum4,esa heroína generosa,ese héroe generoso)>, le escupí en la cara.
+TEXT_LUCKBC012_03221_GODEHEARD_000_141	Así que dejé esa vida atrás, salvo los bulbos que traje conmigo. Me hice aprendiz de los botanists y decidí empezar de nuevo.
+TEXT_LUCKBC012_03221_GODEHEARD_000_142	Y, quién lo diría, los tercos diablillos por fin florecieron. Supongo que es lo más justo que usted apareciera justo ese día.
+TEXT_LUCKBC012_03221_GODEHEARD_000_143	Tengo miles y miles de arrepentimientos, pero ninguno mayor que cómo le hablé. No lo digo para rogarle perdón, sino para contarle cómo me cambió para bien... y para agradecerle la oportunidad.
+TEXT_LUCKBC012_03221_GODEHEARD_000_144	Tengo un pedido, si le parece bien. Le ruego que acepte una flor, una de las poquísimas que florecieron.
+TEXT_LUCKBC012_03221_GODEHEARD_000_145	Una muestra de mi sincero agradecimiento para mi salvador<if(gnum4,a,)> personal. Es cierto que esta variedad quizás sea más adecuada para funerales y despedidas... pero si prefiere no quedársela, ¿quizás haya otra persona que la agradezca?
+TEXT_LUCKBC012_03221_SYSTEM_000_146	Otra persona, sí...
+TEXT_LUCKBC012_03221_GODEHEARD_000_150	Estoy tan agradecido de haber tenido por fin la oportunidad de disculparme. Solo quisiera que las flores que puedo ofrecerle no fueran de las que se asocian sobre todo con ocasiones tristes...
+TEXT_LUCKBC012_03221_SYSTEM_000_0160	Fray
+TEXT_LUCKBC012_03221_SYSTEM_000_161	Con el chat en modo <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, usa el teclado o el teclado en pantalla para escribir cualquier frase que incluya "Fray" y llamar su atención.
+TEXT_LUCKBC012_03221_SYSTEM_000_162	...No hay respuesta.
+TEXT_LUCKBC012_03221_SYSTEM_000_163	Pero no puede haber otra respuesta que esta, ¿no? Así que esperemos un rato, tú y yo. En el frío y en la nieve. En la oscuridad...
+TEXT_LUCKBC012_03221_FRAY_000_170	(-<string(gstr1)>-)Qué list<if(gnum4,a,o)>, qué list<if(gnum4,a,o)>, qué list<if(gnum4,a,o)>. ¿O solo estamos improvisando? No importa.
+TEXT_LUCKBC012_03221_FRAY_000_171	(-<string(gstr1)>-)Una vez quise esto. Más que nada. Una oportunidad de hablar y que me escucharan...
+TEXT_LUCKBC012_03221_FRAY_000_172	(-<string(gstr1)>-)Pero ninguno de los dos lo necesita ya. Y si miráramos bien dentro de nosotros, nos daríamos cuenta de que nunca lo necesitamos.
+TEXT_LUCKBC012_03221_FRAY_000_173	(-<string(gstr1)>-)Somos las historias que nos contamos. El héroe valiente, el alma atormentada, el altruista, el pragmático. Te dirán a quién ven, pero solo tú sabes quién eres.
+TEXT_LUCKBC012_03221_FRAY_000_174	(-<string(gstr1)>-)Porque hablo solo por mí. Si mis palabras te consuelan, son tuyas, pero esa es tu elección. Ahora y para siempre, como siempre fue.
+TEXT_LUCKBC012_03221_FRAY_000_175	(-<string(gstr1)>-)"Ahora te toca a ti,<br>vestirte de la ficción,<br>dar aliento a los muertos,<br>dar voz a los que no la tienen..."
+TEXT_LUCKBC012_03221_FRAY_000_176	(-<string(gstr1)>-)Como hicimos juntos aquel día, cuando nos diste nuestra respuesta.
+TEXT_LUCKBC012_03221_FRAY_000_177	(-<string(gstr1)>-)¿Alguna vez fue mía...?
+TEXT_LUCKBC012_03221_RIELLE_000_180	Perdón por irme así hace un rato. \<suspiro> Uno pensaría que, después de todo lo que viví, sería más madura...
+TEXT_LUCKBC012_03221_SIDURGU_000_190	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. Como ves, Rielle y yo nos llevamos de maravilla, así que no tienes por qué preocuparte por nosotros en lo más mínimo. Para nada.
+TEXT_LUCKBC012_03221_SIDURGU_000_191	Y bien, ¿qué pasó con esa misteriosa carta sin firma? ¿Tu gran búsqueda de respuestas te llevó a algún lugar interesante?
+TEXT_LUCKBC012_03221_Q3_000_192	¿Qué dices?
+TEXT_LUCKBC012_03221_A3_000_193	A un viejo conocido.
+TEXT_LUCKBC012_03221_A3_000_194	¿A un cierre, quizás?
+TEXT_LUCKBC012_03221_SIDURGU_000_195	¿Ah, sí...? Bueno. Me alegra oírlo, supongo...

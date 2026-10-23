@@ -1,0 +1,103 @@
+key	text
+TEXT_LUCKBC002_03211_SEQ_00	Erik, preocupado, tiene un pedido para ti.
+TEXT_LUCKBC002_03211_SEQ_01	Erik te cuenta que un soldado de la Ala Mhigan Resistance vino a preguntar dónde estaba Widargelt. Temiendo que tu hermano monk termine arrastrado de nuevo al camino de la venganza, el profesor te pide que lo busques cuanto antes, y te sugiere probar suerte en Ala Gannha.
+TEXT_LUCKBC002_03211_SEQ_02	No encuentras a Widargelt en Ala Gannha, pero parece que va seguido a entrenar a los aldeanos. Según uno de ellos, el monk tenía asuntos en Little Ala Mhigo, y partes hacia Thanalan tras él.
+TEXT_LUCKBC002_03211_SEQ_03	Llegas a Little Ala Mhigo y encuentras a Widargelt de pie frente a una tumba: la de Adri, su amigo más cercano, que se volvió su enemigo. Apenas le adviertes a tu hermano monk que la Resistance lo está buscando, llega un soldado. Resulta ser un miembro de la antigua unidad de Widargelt, y lo invita, a su antiguo capitán, a una reunión en Rhalgr's Reach. Widargelt acepta y te pide que estés presente.
+TEXT_LUCKBC002_03211_SEQ_04	La reunión resulta ser nada menos que con Lyse. Para construir una nación unida, le pide a Widargelt que colabore como hombre de sangre real, pero él se niega y dice que quiere servir a Ala Mhigo como un humilde monk. Respetando su decisión, Lyse le pide en cambio que entrene a los soldados de la Resistance en el camino del Fist of Rhalgr, y él acepta encantado. A pedido de Widargelt, los tres visitan después el Temple of the Fist. Allí, Lyse y Widargelt reafirman que, aunque sus caminos sean distintos, su meta es la misma. Tranquilo de que todo está bien, emprendes el regreso a Ul'dah, donde espera Erik.
+TEXT_LUCKBC002_03211_SEQ_05	Erik se alegra de saber que el empeño de Widargelt por revivir el Fist of Rhalgr avanza a buen ritmo. Te agradece por calmar sus temores y declara que piensa observar a Widargelt y a Lyse mientras siguen trabajando por sus metas.
+TEXT_LUCKBC002_03211_TODO_00	Reúne información sobre Widargelt en Ala Gannha.
+TEXT_LUCKBC002_03211_TODO_01	Busca a Widargelt en Little Ala Mhigo.
+TEXT_LUCKBC002_03211_TODO_02	Reúnete con Widargelt en Rhalgr's Reach.
+TEXT_LUCKBC002_03211_TODO_03	Infórmale a Erik en el Goldsmiths' Guild.
+TEXT_LUCKBC002_03211_ERIK_000_001	Ah, <split(<string(gstr1)>, ,1)>, justo a tiempo. Tengo un pedido para ti. No te preocupes, es una tarea sencilla que no va a sobrecargar tu mente sencilla.
+TEXT_LUCKBC002_03211_ERIK_000_002	En buena parte gracias a tu valor, Ala Mhigo se liberó de la tiranía imperial, pero algo se está tramando que me preocupa.
+TEXT_LUCKBC002_03211_ERIK_000_003	No hace mucho, un soldado de la Resistance vino a preguntar dónde estaba Widargelt.
+TEXT_LUCKBC002_03211_ERIK_000_004	Como sabes, el bufón fue capitán de la Resistance. Y había reunido a su mando a hombres y mujeres como él, que ardían en un odio devorador contra el Imperio.
+TEXT_LUCKBC002_03211_ERIK_000_005	Puede que la pregunta fuera totalmente inocente, pero no podemos descartar que haya quienes todavía ardan de odio. Que quieran arrastrar a Widargelt de nuevo al camino de la venganza.
+TEXT_LUCKBC002_03211_ERIK_000_006	Aunque el Widargelt que conocemos ahora no prestaría oídos a esas cosas, quizás no le den opción. Antes de que la cosa se ponga fea, quiero que encuentres a tu hermano monk y le adviertas del peligro.
+TEXT_LUCKBC002_03211_ERIK_000_007	La última vez que vimos a Widargelt fue en Ala Gannha. Si ya no está allí, al menos los aldeanos podrán decirte adónde fue. Ve rápido, <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKBC002_03211_SINCEREYOUNGMAN03211_000_050	Un momento, ¿no eres <if(gnum4,la maestra,el maestro)> del maestro Widargelt?
+TEXT_LUCKBC002_03211_SINCEREYOUNGMAN03211_000_051	¿Lo buscas, dices? Ahora no está aquí, pero viene bastante seguido a entrenarnos.
+TEXT_LUCKBC002_03211_SINCEREYOUNGMAN03211_000_052	Es un maestro duro, pero inspira a esforzarse. Gracias a su guía, me gané el hábito.
+TEXT_LUCKBC002_03211_SINCEREYOUNGMAN03211_000_053	Ah, sí, dónde está. En su última visita dijo que iba a ir a Little Ala Mhigo. Si te apuras, quizás todavía esté allá.
+TEXT_LUCKBC002_03211_DIGNIFIEDMAN03211_000_054	\<jadeo> ¡Eres el monk de aquella vez! ¡Ah, cómo derribaste a la Corpse Brigade, fue glorioso!
+TEXT_LUCKBC002_03211_DIGNIFIEDMAN03211_000_055	Quería volverme fuerte como tú, así que me uní a los monks. ¡Y me enorgullece decir que nunca falté a un entrenamiento!
+TEXT_LUCKBC002_03211_DIGNIFIEDMAN03211_000_056	¿El maestro Widargelt? La última vez que hablé con él, mencionó que intentaba encontrar a Theobald.
+TEXT_LUCKBC002_03211_DIGNIFIEDMAN03211_000_057	Ese tipo desapareció mientras lo atendía el sanador. Alguien lo vio salir tambaleándose del pueblo de madrugada. Iba hacia el oeste, por lo que dicen.
+TEXT_LUCKBC002_03211_OPTIMISTICMAN03211_000_058	Ah, sí, te recuerdo, <if(gnum4,amiga,amigo)>. ¿Necesitas algo?
+TEXT_LUCKBC002_03211_OPTIMISTICMAN03211_000_059	¿El maestro Widargelt? Anda viajando por Eorzea, difundiendo las enseñanzas de los monks.
+TEXT_LUCKBC002_03211_OPTIMISTICMAN03211_000_060	De vez en cuando vuelve a Ala Gannha a entrenar a nuestra gente, pero no sabría decirte cuándo vendrá la próxima vez.
+TEXT_LUCKBC002_03211_ERIK_000_065	La última vez que vimos a Widargelt fue en Ala Gannha. Si ya no está allí, al menos los aldeanos podrán decirte adónde fue. Ve rápido, <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKBC002_03211_OTCHAKHA_000_66	Ay, Maestro Widargelt...
+TEXT_LUCKBC002_03211_DZENTSA_000_67	Bah, ojalá supiera qué decir en momentos como este...
+TEXT_LUCKBC002_03211_WIDARGELT_000_100	<split(<string(gstr1)>, ,1)>... No esperaba verte aquí.
+TEXT_LUCKBC002_03211_WIDARGELT_000_101	Esta tumba. ¿Sabes quién yace aquí?
+TEXT_LUCKBC002_03211_WIDARGELT_000_102	El hombre que se hacía llamar Theobald. Mi hermano más cercano, Adri.
+TEXT_LUCKBC002_03211_WIDARGELT_000_103	Lo habíamos llevado a Ala Gannha para que lo curaran. Pero huyó pese a sus heridas. Parecía un hombre perseguido. Eso dicen los testigos.
+TEXT_LUCKBC002_03211_WIDARGELT_000_104	Yo no lo creo. Adri no era de los que huyen. Había usado a la Corpse Brigade. Sabía que irían por él. En vez de esperar, fue él a buscarlos. Y ahora ya no está.
+TEXT_LUCKBC002_03211_WIDARGELT_000_105	Quería que viviera. Que volviera a estar a mi lado. Yo... debí hacer más.
+TEXT_LUCKBC002_03211_OTCHAKHA_000_106	Hizo todo lo posible para que viera la luz, como hizo con nosotras.
+TEXT_LUCKBC002_03211_DZENTSA_000_107	Sí. No tiene que ser tan duro consigo mismo.
+TEXT_LUCKBC002_03211_WIDARGELT_000_108	A ti también te pasaron muchas cosas, <if(gnum4,hermana,hermano)>. Eso salta a la vista. Ven, déjame oír tu historia.
+TEXT_LUCKBC002_03211_Q1_000_000	¿De qué hablas?
+TEXT_LUCKBC002_03211_A1_000_001	De Lue-Reeq.
+TEXT_LUCKBC002_03211_A1_000_002	De un cazador que encontró su camino.
+TEXT_LUCKBC002_03211_WIDARGELT_000_110	...Así que Lue-Reeq decidió romper con los suyos.
+TEXT_LUCKBC002_03211_WIDARGELT_000_111	Una determinación que entiendo. Yo también elegí mi propio camino. Renuncié a la sangre por la fe.
+TEXT_LUCKBC002_03211_WIDARGELT_000_112	Tu parte en esta historia también me impresiona. Pelear en un mundo inundado de luz... Una vez más, recuerdo tu grandeza.
+TEXT_LUCKBC002_03211_WIDARGELT_000_113	Ah, pero perdona. Viniste de lejos. ¿Necesitas algo?
+TEXT_LUCKBC002_03211_WIDARGELT_000_114	¿Un soldado de la Resistance me busca? ¿Con qué propósito?
+TEXT_LUCKBC002_03211_DZENTSA_000_115	¿No estarán persiguiendo a los del linaje de Theodoric?
+TEXT_LUCKBC002_03211_OTCHAKHA_000_116	Me parece que la Resistance no haría algo así. Pero no se me ocurre otra explicación.
+TEXT_LUCKBC002_03211_RESISTANCEWARRIOR03211_000_117	(-???-)¡Capitán! ¡Cuánto tiempo, señor!
+TEXT_LUCKBC002_03211_WIDARGELT_000_118	Usted... Cuánto tiempo, sí. Pero no soy capitán de nadie. Dejé la Resistance hace mucho.
+TEXT_LUCKBC002_03211_RESISTANCEWARRIOR03211_000_119	Perdone, señor, la costumbre. Me cuesta verlo como algo más que mi respetado capitán.
+TEXT_LUCKBC002_03211_RESISTANCEWARRIOR03211_000_120	Pero si así lo prefiere... Maestro Widargelt, ¿puedo pedirle que me acompañe a Rhalgr's Reach? Hay un asunto que queremos hablar con usted.
+TEXT_LUCKBC002_03211_WIDARGELT_000_121	¿Ah, sí?
+TEXT_LUCKBC002_03211_WIDARGELT_000_122	Muy bien. Guíeme.
+TEXT_LUCKBC002_03211_WIDARGELT_000_123	D'zentsa, O'tchakha, esperen aquí, por favor. Volveré pronto.
+TEXT_LUCKBC002_03211_WIDARGELT_000_124	<split(<string(gstr1)>, ,1)>, ¿puedo pedirte que me acompañes?
+TEXT_LUCKBC002_03211_WIDARGELT_000_125	Te tienen en alta estima en la Resistance. Tu presencia me daría ánimo.
+TEXT_LUCKBC002_03211_RESISTANCEWARRIOR03211_000_126	Entonces, sin más demora, vámonos.
+TEXT_LUCKBC002_03211_SINCEREYOUNGMAN03211_000_130	En su última visita, el maestro Widargelt dijo que iba a ir a Little Ala Mhigo. Si te apuras, quizás todavía esté allá.
+TEXT_LUCKBC002_03211_DIGNIFIEDMAN03211_000_135	El maestro Widargelt intentaba encontrar a Theobald. Ese tipo desapareció mientras lo atendía el sanador. Alguien lo vio salir tambaleándose del pueblo de madrugada, hacia el oeste.
+TEXT_LUCKBC002_03211_OPTIMISTICMAN03211_000_140	El maestro Widargelt anda viajando por Eorzea, difundiendo las enseñanzas de los monks.
+TEXT_LUCKBC002_03211_OPTIMISTICMAN03211_000_145	De vez en cuando vuelve a Ala Gannha a entrenar a nuestra gente, pero no sabría decirte cuándo vendrá la próxima vez.
+TEXT_LUCKBC002_03211_LYSE_000_150	(-???-)¡Perdón por hacerlos esperar!
+TEXT_LUCKBC002_03211_LYSE_000_151	Soy Lyse Hext, de la Ala Mhigan Resistance. Gracias por venir hasta aquí.
+TEXT_LUCKBC002_03211_LYSE_000_152	¿¡<split(<string(gstr1)>, ,1)>!? ¿¡No me digas que conoces al maestro Widargelt!?
+TEXT_LUCKBC002_03211_WIDARGELT_000_153	<split(<string(gstr1)>, ,1)> es <if(gnum4,una querida compañera,un querido compañero)>. Le debo muchísimo.
+TEXT_LUCKBC002_03211_LYSE_000_154	¡Bueno, así es más fácil! Para ir directo al grano, Maestro Widargelt, queremos invitarlo a volver a la Resistance.
+TEXT_LUCKBC002_03211_LYSE_000_155	Bajo el rey loco y después bajo los garleans, la gente de Ala Mhigo vivió con un miedo paralizante y desconfiando unos de otros.
+TEXT_LUCKBC002_03211_LYSE_000_156	Al reconstruir la nación, queremos crear un lugar donde la gente pueda confiar y apoyarse mutuamente. Un lugar donde todos se vean como amigos.
+TEXT_LUCKBC002_03211_WIDARGELT_000_157	¿Incluso los parientes del rey loco?
+TEXT_LUCKBC002_03211_LYSE_000_158	Sé que debimos buscarlo antes. Pero temíamos que hacerlo encendiera a los que tramaban volver al antiguo régimen.
+TEXT_LUCKBC002_03211_WIDARGELT_000_159	No se preocupe, comandante. Sé que su intención es buena y sincera.
+TEXT_LUCKBC002_03211_WIDARGELT_000_160	Pero no puedo volver a la Resistance. Quiero servir a mi nación como un humilde monk. Me lo juré a mí mismo.
+TEXT_LUCKBC002_03211_WIDARGELT_000_161	Un hombre llamado Theodred nunca existió. Siempre hubo solo Widargelt. Y él quiere restaurar lo que se perdió. Las enseñanzas del Fist of Rhalgr.
+TEXT_LUCKBC002_03211_LYSE_000_162	Ya veo... Entonces tiene que hacer lo que le dice el corazón.
+TEXT_LUCKBC002_03211_LYSE_000_163	Probemos de nuevo. Este pedido es para Widargelt, del Fist of Rhalgr.
+TEXT_LUCKBC002_03211_LYSE_000_164	Quiero que entrene a los soldados de la Resistance. Aunque ganamos nuestra libertad, tenemos que estar preparados para pelear por conservarla, y creo que sus técnicas nos servirían mucho.
+TEXT_LUCKBC002_03211_LYSE_000_165	Yo misma nunca entrené como corresponde, y, por si sirve de algo, tengo muchas ganas de aprender.
+TEXT_LUCKBC002_03211_WIDARGELT_000_166	Y para mí sería un honor enseñar.
+TEXT_LUCKBC002_03211_LYSE_000_167	¡Genial! ¡Estamos en deuda con usted!
+TEXT_LUCKBC002_03211_WIDARGELT_000_168	Si me permite un pedido mío... ¿Puedo visitar el Temple of the Fist? Quisiera presentar mis respetos.
+TEXT_LUCKBC002_03211_LYSE_000_169	¡Claro! Para eso no necesita mi permiso.
+TEXT_LUCKBC002_03211_LYSE_000_170	Vamos, <split(<string(gstr1)>, ,1)>, vayamos todos juntos.
+TEXT_LUCKBC002_03211_WIDARGELT_000_171	Estar aquí me trae recuerdos. Recuerdo a los sumos sacerdotes. A mis hermanos y hermanas monks. Todos se fueron. Entre fuego y humo.
+TEXT_LUCKBC002_03211_LYSE_000_172	Pero usted sobrevivió, como las sólidas piedras del templo. Y gracias a sus esfuerzos, la fe empezó a resurgir de las cenizas.
+TEXT_LUCKBC002_03211_WIDARGELT_000_173	No solo por mis esfuerzos. Todo lo que logré se lo debo a muchos otros. Al profesor Erik. A D'zentsa y O'tchakha. Y, no menos importante, a <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKBC002_03211_LYSE_000_174	Yo tampoco habría llegado tan lejos sola. Como usted, tuve compañeros queridos que me sostuvieron y me empujaron hacia adelante.
+TEXT_LUCKBC002_03211_LYSE_000_175	¡Y nunca voy a dejar de avanzar, por Ala Mhigo!
+TEXT_LUCKBC002_03211_WIDARGELT_000_176	Nuestros caminos pueden ser distintos. Pero nuestra meta es la misma. No hacen falta más palabras.
+TEXT_LUCKBC002_03211_WIDARGELT_000_177	<split(<string(gstr1)>, ,1)>, el profesor está preocupado por mí. Por favor, vuelve con él. Dile que todo está bien.
+TEXT_LUCKBC002_03211_WIDARGELT_000_180	Me dijeron que esperara aquí. ¿De qué querrán hablar...?
+TEXT_LUCKBC002_03211_DZENTSA_000_185	Cuida el fuerte, D'zentsa. Nunca haces nada divertido, D'zentsa.
+TEXT_LUCKBC002_03211_OTCHAKHA_000_190	Por favor, cuide al Maestro Widargelt.
+TEXT_LUCKBC002_03211_ERIK_000_200	Ah, volviste. ¿Pudiste encontrar a Widargelt?
+TEXT_LUCKBC002_03211_ERIK_000_201	Ya veo. Me alegra saber que su empeño por revivir el Fist of Rhalgr avanza a buen ritmo. Claro que todavía llevará bastante tiempo que la fe eche raíces en toda la región, pero Widargelt es joven y decidido. Llegará el día en que cumpla su sueño.
+TEXT_LUCKBC002_03211_ERIK_000_202	Pero pensar que quien lo buscaba era nada menos que la hija de Curtis Hext...
+TEXT_LUCKBC002_03211_ERIK_000_203	Una mujer que abraza su linaje y un hombre que reniega del suyo... Visto así, sus caminos no podrían ser más distintos, pero, como descubrieron, su meta es la misma. Ala Mhigo es más fuerte gracias a su colaboración.
+TEXT_LUCKBC002_03211_ERIK_000_204	En fin, parece que mis preocupaciones no tenían fundamento. Gracias por calmar mis temores.
+TEXT_LUCKBC002_03211_ERIK_000_205	Aunque creo que, por un tiempo, observaré a estas dos almas en sus futuras empresas.
+TEXT_LUCKBC002_03211_ERIK_000_206	Después de todo, si algo soy, es observador.

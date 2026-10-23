@@ -1,0 +1,97 @@
+key	text
+TEXT_LUCKBC004_03213_SEQ_00	Alberic tiene ganas de oír sobre tus aventuras.
+TEXT_LUCKBC004_03213_SEQ_01	Encuentras a Alberic tratando de mantenerse abrigado en the Observatorium, y le alegra la oportunidad de intercambiar historias con su <if(gnum4,antigua alumna,antiguo alumno)>. Al mencionar a Orn Khai, el joven dragón aparece en persona, se suma a la conversación y escucha con avidez el relato de tus aventuras en the First. Tu relato de la muerte de Andreia le recuerda la historia de Nidhogg, que también se movía solo por los recuerdos de un tiempo ya muy lejano. Orn Khai lamenta profundamente que nadie llore la muerte del poderoso dragón, y sugiere consultar a Faunehm para saber más del caído Nidhogg.
+TEXT_LUCKBC004_03213_SEQ_02	Faunehm responde al llamado de Orn Khai y comparte con gusto sus recuerdos de su progenitor, Nidhogg. Descubres que el rey Thordan había invitado a Ratatoskr a hablar en nombre de todos los dragones. Cuando le pidió que contara qué pensaba Nidhogg de la humanidad, ella le transmitió la opinión de su amado: sobre todo, que su fragilidad mortal los hacía indignos del papel de guardianes de Hydaelyn. Al oír esas palabras, Thordan montó en cólera y mató a Ratatoskr, lo que llevó a Nidhogg a la locura y desató la Dragonsong War. Tras terminar su relato de esos hechos históricos, Faunehm te aconseja honrarlo ofreciendo, en el lugar donde murió, una flor que le gustaba especialmente: el lirio de niebla. Orn Khai cree que crecen en Ohl Tahn y no pierde un instante en salir volando a buscar la esquiva flor.
+TEXT_LUCKBC004_03213_SEQ_03	Las flores que buscas crecen en el lugar menos pensado, asomando entre las grietas de un peñasco desnudo. A Orn Khai le alegrará saber que la búsqueda terminó.
+TEXT_LUCKBC004_03213_SEQ_04	Orn Khai está encantado de que hayas encontrado los lirios de niebla, y tiene ganas de ofrecerlos en memoria de Nidhogg. Como usaron sus ojos para invocar a Shinryu, al que venciste en Gyr Abania, ese podría considerarse su lugar de descanso final.
+TEXT_LUCKBC004_03213_SEQ_05	Tú y Orn Khai llegan a the Royal Menagerie para presentarle sus respetos a Nidhogg. Mientras recuerdas tus encuentros con el dragón, tu mente vuelve a los días en que eras <if(gnum4,la,el)> Azure Dragoon y peleabas junto a Estinien. Satisfecho de haber honrado la memoria del dragón, Orn Khai te pide que le cuentes a Alberic la historia de Faunehm.
+TEXT_LUCKBC004_03213_SEQ_06	De vuelta en the Observatorium, a Alberic le intriga oír un relato tan detallado de la traición del rey Thordan. Piensa transmitir esta información recién revelada a los Temple Knights, porque cree firmemente que la verdad histórica es fundamental para construir relaciones pacíficas entre hombres y dragones. Aunque el camino no será fácil, tu amistad con Orn Khai será un ejemplo brillante de que la confianza y la cooperación entre sus razas son posibles, y de que ni siquiera los antiguos enemigos tienen por qué quedar presos del pasado.
+TEXT_LUCKBC004_03213_TODO_00	Habla con Orn Khai en Zenith.
+TEXT_LUCKBC004_03213_TODO_01	Busca lirios de niebla.
+TEXT_LUCKBC004_03213_TODO_02	Habla con Orn Khai.
+TEXT_LUCKBC004_03213_TODO_03	Habla con Orn Khai en Gyr Abania.
+TEXT_LUCKBC004_03213_TODO_04	Habla con Alberic en the Observatorium.
+TEXT_LUCKBC004_03213_ALBERIC_000_000	Ah, <split(<string(gstr1)>, ,1)>. Hacía demasiado tiempo que no hablábamos.
+TEXT_LUCKBC004_03213_ALBERIC_000_001	Aunque me visitas mucho más seguido que otro antiguo alumno mío. Parece que él sigue prefiriendo su propia compañía.
+TEXT_LUCKBC004_03213_ALBERIC_000_002	Lo mismo podría decirse de Heustienne, que, según Orn Khai, se hizo un buen nombre como cazadora en Dravania.
+TEXT_LUCKBC004_03213_ALBERIC_000_003	¡Ah, qué oportuno! Hablando del dragón, aparece.
+TEXT_LUCKBC004_03213_ORNKHAI_000_004	¡Saludos! ¿Me equivoco si supongo que vuelves de una de tus aventuras?
+TEXT_LUCKBC004_03213_Q1_000_200	¿Qué dices?
+TEXT_LUCKBC004_03213_A1_000_200	Viajé a un mundo más allá del nuestro.
+TEXT_LUCKBC004_03213_A2_000_200	Le di descanso a la temida Andreia, en una tierra llamada Norvrandt.
+TEXT_LUCKBC004_03213_ORNKHAI_000_010	¡Y pensar que un lugar así puede existir de verdad!
+TEXT_LUCKBC004_03213_ALBERIC_000_011	Y que te enfrentaste a enemigos tan terribles. Caer tan bajo... Es una historia trágica como pocas.
+TEXT_LUCKBC004_03213_ORNKHAI_000_012	Parecida a la de Nidhogg.
+TEXT_LUCKBC004_03213_ALBERIC_000_013	Sí, aunque nada se comparará jamás con su malicia. Ni la muerte pudo calmar su sed de venganza.
+TEXT_LUCKBC004_03213_ALBERIC_000_014	Al menos a Andreia no la consumía el odio de esa manera. No me cabe duda de que el alma de Renda-Rae descansa en paz.
+TEXT_LUCKBC004_03213_ORNKHAI_000_015	Paz... Me pregunto si Nidhogg la encontró alguna vez...
+TEXT_LUCKBC004_03213_ALBERIC_000_016	Me temo que su alma sigue vagando, condenada a errar sin fin.
+TEXT_LUCKBC004_03213_ORNKHAI_000_017	¡Es un destino demasiado cruel, incluso para él!
+TEXT_LUCKBC004_03213_ALBERIC_000_018	Comparto tu sentir. Como Azure Dragoon, alguna vez miré dentro de su corazón, como él miró dentro del mío. Tanta furia... Tanta pena...
+TEXT_LUCKBC004_03213_ORNKHAI_000_019	¡No voy a aceptarlo! Que nadie llore su muerte es más de lo que puedo soportar. ¿Qué dices tú, <split(<string(gstr1)>, ,1)>?
+TEXT_LUCKBC004_03213_Q1_000_300	¿Qué dices?
+TEXT_LUCKBC004_03213_A1_000_300	Quizás podamos honrar lo que fue, si no lo que llegó a ser.
+TEXT_LUCKBC004_03213_A2_000_300	Yo también fui Azure Dragoon. Alberic tiene razón.
+TEXT_LUCKBC004_03213_ORNKHAI_000_025	¡Entonces estamos de acuerdo!
+TEXT_LUCKBC004_03213_ORNKHAI_000_026	Aunque debo admitir que, como soy de la camada de Hraesvelgr, sé poco de Nidhogg.
+TEXT_LUCKBC004_03213_ORNKHAI_000_027	Necesito conocerlo mejor si voy a presentarle mis respetos como corresponde.
+TEXT_LUCKBC004_03213_ORNKHAI_000_028	Hmm... Faunehm es de su camada. Si alguien sabe, es ella. ¡Vamos rápido a Zenith!
+TEXT_LUCKBC004_03213_ALBERIC_000_040	Para bien o para mal, soy quien soy por Nidhogg. Mientras otros celebraban su muerte, no puedo negar que una parte de mí murió ese día.
+TEXT_LUCKBC004_03213_ORNKHAI_000_045	Faunehm ya vino.
+TEXT_LUCKBC004_03213_FAUNEHM_000_050	<if(gnum4,Bienvenida,Bienvenido)>, noble dragoon. Orn Khai me lo ha explicado todo.
+TEXT_LUCKBC004_03213_FAUNEHM_000_051	Decidme, ¿qué fue Nidhogg para vos?
+TEXT_LUCKBC004_03213_Q1_000_400	¿Qué dices?
+TEXT_LUCKBC004_03213_A1_000_400	Un adversario implacable.
+TEXT_LUCKBC004_03213_A2_000_400	La fuente de mi fuerza.
+TEXT_LUCKBC004_03213_FAUNEHM_000_055	Y mucho más. Pues por su poder estáis unidos para siempre.
+TEXT_LUCKBC004_03213_FAUNEHM_000_060	Y aun así erais enemigos, cada uno jurado a matar al otro.
+TEXT_LUCKBC004_03213_FAUNEHM_000_065	Dos almas entrelazadas por el destino.
+TEXT_LUCKBC004_03213_FAUNEHM_000_066	Aunque os enfrentasteis a la ira de Nidhogg y sentisteis su dolor, no podéis conocerlo como lo conocimos los dragones.
+TEXT_LUCKBC004_03213_ORNKHAI_000_067	Queremos oír su historia.
+TEXT_LUCKBC004_03213_FAUNEHM_000_068	Nidhogg no tenía igual, ni siquiera entre los nuestros.
+TEXT_LUCKBC004_03213_FAUNEHM_000_070	Su destino era proteger este mundo de la catástrofe que se abatió sobre el Dragonstar, en lugar de su progenitor.
+TEXT_LUCKBC004_03213_FAUNEHM_000_075	Su destino era proteger este mundo de la catástrofe, en lugar de su progenitor.
+TEXT_LUCKBC004_03213_FAUNEHM_000_080	Valoraba la fuerza por encima de todo, y consideraba los asuntos de los mortales indignos de su atención.
+TEXT_LUCKBC004_03213_FAUNEHM_000_081	Solo los siete grandes dragones eran dignos de su atención. Y entre ellos, nadie salvo Ratatoskr lo comprendía de verdad.
+TEXT_LUCKBC004_03213_FAUNEHM_000_082	Su canto era bellísimo, y concedía su sabiduría por igual a dragones y hombres.
+TEXT_LUCKBC004_03213_FAUNEHM_000_083	Thordan, rey de los hombres, la invitó a hablar en nuestro nombre. Ratatoskr expresó nuestro deseo de vivir en armonía. Sin embargo, se sabía que Nidhogg no compartía esas ideas.
+TEXT_LUCKBC004_03213_FAUNEHM_000_084	Cuando el rey le preguntó cómo veía su hermano a la humanidad, ella no ocultó la verdad. Él creía que criaturas tan frágiles eran incapaces de proteger esta estrella, que esa tarea debía confiarse solo a los siete grandes dragones.
+TEXT_LUCKBC004_03213_ORNKHAI_000_085	¿¡Y por eso Thordan la mató!?
+TEXT_LUCKBC004_03213_FAUNEHM_000_086	Ratatoskr no tenía intención de sembrar la discordia, pero el rey no pudo tolerar que trataran a los suyos con tal desprecio, que los dragones quisiéramos adueñarnos de esta estrella.
+TEXT_LUCKBC004_03213_FAUNEHM_000_087	Se volvió contra Ratatoskr y le quitó no solo los ojos, sino también la vida.
+TEXT_LUCKBC004_03213_FAUNEHM_000_088	Cuando Nidhogg descubrió que el rey Thordan había asesinado a su amada, su furia no tuvo medida.
+TEXT_LUCKBC004_03213_FAUNEHM_000_089	Pese a toda su fuerza, no pudo dominar su propia ira. Lo consumió por completo.
+TEXT_LUCKBC004_03213_ORNKHAI_000_090	Dragones, hombres... todos somos iguales. Esclavos de nuestras emociones, sometidos a nuestro corazón.
+TEXT_LUCKBC004_03213_FAUNEHM_000_091	Pero hay quienes buscan otro camino, como hice yo una vez. Le di la espalda a mi padre y a su sed de venganza.
+TEXT_LUCKBC004_03213_FAUNEHM_000_092	Valeroso dragoon, por vuestra fuerza terminó la Dragonsong War, y por vuestra compasión se forjó una nueva alianza.
+TEXT_LUCKBC004_03213_ORNKHAI_000_093	¡<split(<string(gstr1)>, ,1)> y yo somos la prueba viviente de que podemos vivir juntos! Llevaremos el mensaje de paz a hombres y dragones por igual. ¡Y cuando ya no estemos, nuestros descendientes harán lo mismo!
+TEXT_LUCKBC004_03213_FAUNEHM_000_094	Habladles de Nidhogg. De su fuerza, su debilidad, su amor, su odio. Contadles la verdad.
+TEXT_LUCKBC004_03213_FAUNEHM_000_095	Orn Khai, deseas honrar la muerte de Nidhogg, ¿no es así? Como a mi padre le gustaba la fragancia de los lirios de niebla, quizás serían una ofrenda adecuada.
+TEXT_LUCKBC004_03213_ORNKHAI_000_096	¡Qué idea espléndida! ¡Gracias, Faunehm!
+TEXT_LUCKBC004_03213_ORNKHAI_000_097	Muchas veces vi florecer esas flores en Ohl Tahn. ¡Sígueme!
+TEXT_LUCKBC004_03213_ORNKHAI_000_105	Recuerdo muy bien haber visto lirios de niebla justo aquí. ¿Qué les habrá pasado?
+TEXT_LUCKBC004_03213_ORNKHAI_000_120	¿Así que sí había lirios de niebla aquí? Entonces parece que mi memoria no me falló. Lástima que no pueda decir lo mismo de mis ojos...
+TEXT_LUCKBC004_03213_ORNKHAI_000_121	No importa. Pero hay algo que me preocupa. En sus ritos funerarios, creo que las flores y demás ofrendas se dejan en una tumba o en un lugar importante. Pero ¿cuál elegimos para Nidhogg?
+TEXT_LUCKBC004_03213_ORNKHAI_000_122	Gyr Abania... Sí, podría considerarse su lugar de descanso final, si fue ahí donde peleaste contra el primal nacido de sus ojos.
+TEXT_LUCKBC004_03213_ORNKHAI_000_123	Aunque debo decir, <split(<string(gstr1)>, ,1)>, que pareces bastante hábil abatiendo dragones. Y primals que parecen dragones. ¡Me alegra que no seamos enemigos!
+TEXT_LUCKBC004_03213_ORNKHAI_000_124	Ejem. Volvamos a lo nuestro. Me adelantaré y nos vemos en Gyr Abania.
+TEXT_LUCKBC004_03213_ORNKHAI_000_130	¡Qué alivio encontrarte por fin! Verás, me había perdido un poco.
+TEXT_LUCKBC004_03213_ORNKHAI_000_131	Quizás sea mejor ir rápido a the Royal Menagerie antes de que vuelva a perderme.
+TEXT_LUCKBC004_03213_ORNKHAI_000_200	¡Nidhogg, venimos a honrar tu memoria!
+TEXT_LUCKBC004_03213_ORNKHAI_000_201	Aunque, ahora que estamos aquí, no sé qué decir... <split(<string(gstr1)>, ,1)>, ¿hay algo que quieras decirle?
+TEXT_LUCKBC004_03213_Q1_000_000	¿Qué dices?
+TEXT_LUCKBC004_03213_A1_000_000	No te olvidaremos.
+TEXT_LUCKBC004_03213_A2_000_000	Tu legado vivirá en los cantos de tu pueblo.
+TEXT_LUCKBC004_03213_SYSTEM_000_205	De una estrella lejana, un Padre trajo siete huevos. De ellos nacieron grandes dragones, poderosos y sabios. Con alas negras, uno se alzó a lo alto con un rugido que hizo temblar el mundo. Guardián de su hogar en lugar del Padre, era temible pero justo.
+TEXT_LUCKBC004_03213_SYSTEM_000_206	El hombre, malvado y vanidoso, traicionó al dragón y a los suyos: mató a su amada y le arrancó los ojos. Desde entonces vivió solo para la venganza, con una ira que nada podía contener.
+TEXT_LUCKBC004_03213_SYSTEM_000_207	Mil años después, dos campeones de la humanidad recibieron gran fuerza de los ojos robados. Su destino era enfrentar al dragón, que se había alzado otra vez para hacer la guerra a su enemigo jurado. Al final de su lucha, el hijo descarriado calló.
+TEXT_LUCKBC004_03213_SYSTEM_000_210	Esos guardianes y sus compañeros siguen velando por la estrella, y juglares y narradores cuentan sus hazañas por todas partes. Ni siquiera el antiguo enemigo del que huyó una vez el Padre de los Dragones pudo resistir su poder.
+TEXT_LUCKBC004_03213_SYSTEM_000_215	Esos guardianes siguen velando por la estrella, y juglares y narradores cuentan sus hazañas por todas partes.
+TEXT_LUCKBC004_03213_ORNKHAI_000_220	<split(<string(gstr1)>, ,1)>, no ignoro los pecados que cometió Nidhogg. Lloro la pérdida de lo que fue, de lo que podría haber sido si el destino lo hubiera tratado mejor.
+TEXT_LUCKBC004_03213_ORNKHAI_000_221	Aunque fue un gesto pequeño, estoy seguro de que nuestros pensamientos le llegaron.
+TEXT_LUCKBC004_03213_ORNKHAI_000_222	Tengo mucho en qué pensar en el viaje de vuelta, y supongo que Alberic querrá saber lo que aprendimos de Faunehm. ¿Quizás podrías visitarlo en Coerthas?
+TEXT_LUCKBC004_03213_ALBERIC_000_230	¿Pudieron presentarle sus respetos?
+TEXT_LUCKBC004_03213_ALBERIC_000_231	Ya veo... Es la primera vez que oigo un relato tan detallado de lo que hizo el rey Thordan. Una traición del momento, pero traición al fin. Lástima que esté tan lejos del alcance de la justicia.
+TEXT_LUCKBC004_03213_ALBERIC_000_232	Aunque cueste aceptar los crímenes de nuestros antepasados, tenemos que aceptar el pasado tal como es.
+TEXT_LUCKBC004_03213_ALBERIC_000_233	Por supuesto, compartiré esta información con el resto de los Temple Knights. Sin duda querrán hablar con otros miembros de la camada de Nidhogg para verificar esta versión de los hechos.
+TEXT_LUCKBC004_03213_ALBERIC_000_234	Mientras tanto, todavía queda mucho por hacer para construir relaciones entre hombres y dragones. Intentaremos seguir el ejemplo que dieron tú y Orn Khai, y trabajar juntos por el bien de todos. Que la Fury los guíe a ambos.

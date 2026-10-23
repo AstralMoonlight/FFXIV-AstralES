@@ -1,0 +1,112 @@
+key	text
+TEXT_LUCKBC005_03214_SEQ_00	Jehantel se alegra y se tranquiliza a la vez al verte.
+TEXT_LUCKBC005_03214_SEQ_01	Los rumores de tus pruebas recientes tenían preocupado a Jehantel, y al parecer no es el único. El viejo bard te invita a acompañarlo a New Gridania para ver a tu amigo, el capitán Sanson Smyth, y tranquilizarlo.
+TEXT_LUCKBC005_03214_SEQ_02	Después de decir lo feliz que está de volver a verte, Sanson te cuenta que él y su unidad también pelearon en the Ghimlyt Dark. Sin embargo, a los bards menos experimentados les costó mantener sus cantos cuando los acorralaban. Como Guydelot no quiere instruir a los más jóvenes, Jehantel propone que ustedes dos den una presentación para ellos, para que conozcan un canto lleno de corazón. Deciden que Guydelot también participe, y salen a buscarlo en Nine Ivies, en East Shroud.
+TEXT_LUCKBC005_03214_SEQ_03	Según Pukno Poki, Guydelot se internó en el bosque. Convencido de que el obstinado bard probablemente te responda a ti, Jehantel te pide que lo llames. Con el chat en modo <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribe "Guydelot" para llamar a tu compañero en el lugar indicado de Nine Ivies.
+TEXT_LUCKBC005_03214_SEQ_04	Gritas el nombre de Guydelot con todas tus fuerzas, pero la única respuesta es el silencio. Quizás deberías intentarlo de nuevo más adentro del bosque. Con el chat en modo <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribe "Guydelot" para llamar a tu compañero en el lugar indicado de Nine Ivies.
+TEXT_LUCKBC005_03214_SEQ_05	Por fin Guydelot se deja ver, y le cuentas de la presentación. El bard acepta por la rara oportunidad de tocar contigo, y el escenario elegido es the Sea of Clouds. Sanson les indica reunirse en la plataforma de aeronaves de Gridania mientras él pide a sus superiores permiso para usar una nave.
+TEXT_LUCKBC005_03214_SEQ_06	Con la aeronave conseguida, el grupo parte hacia the Sea of Clouds, al lugar donde terminó tu viaje en busca de la Ballad of Oblivion. Con el cielo de fondo, dan una presentación sentida de una pieza que escribió Jehantel inspirada en tus propias aventuras. La canción conmueve hasta las lágrimas a su pequeño público y ayuda a los reclutas a entender lo más importante para un bard. Su lección también lleva a Sanson a intentar entender mejor a Guydelot, y convence a su amigo de guiar a los más jóvenes a su propio ritmo.
+TEXT_LUCKBC005_03214_SEQ_07	De vuelta en la plataforma de aeronaves, Sanson reitera su deseo de ayudar a sus hombres a ser los mejores bards posibles, antes de salir corriendo tras el siempre libre Guydelot. Eso te deja a solas con Jehantel, que te agradece la experiencia sublime de tocar contigo. La canción, nacida de la colaboración de ustedes, le despertó recuerdos de la pasión que tenía en su juventud. Y tu antiguo mentor cree que, dentro de muchas generaciones, todavía se cantará y despertará la pasión de incontables almas más.
+TEXT_LUCKBC005_03214_TODO_00	Habla con Sanson en Gridania.
+TEXT_LUCKBC005_03214_TODO_01	Habla con Jehantel en East Shroud.
+TEXT_LUCKBC005_03214_TODO_02	Con el chat en modo <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribe "Guydelot" para llamar a tu compañero.
+TEXT_LUCKBC005_03214_TODO_03	Con el chat en modo <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribe "Guydelot" para llamar a tu compañero.
+TEXT_LUCKBC005_03214_TODO_04	Habla con Sanson en la plataforma de aeronaves de Gridania.
+TEXT_LUCKBC005_03214_TODO_05	Habla con Sanson.
+TEXT_LUCKBC005_03214_JEHANTEL_000_000	Ah, <if(gnum4,jovencita,jovencito)>, cuánto me alegra verte <if(gnum4,sana y entera,sano y entero)>. Los rumores del frente me tenían bastante preocupado.
+TEXT_LUCKBC005_03214_JEHANTEL_000_001	Celebraría este feliz reencuentro con unos versos, pero hay alguien que se preocupó por ti todavía más que yo.
+TEXT_LUCKBC005_03214_JEHANTEL_000_002	Hablo, claro, de tu compañero Sanson. Le haría bien volver a verte. Si tienes tiempo, quizás podamos visitarlo juntos en Gridania.
+TEXT_LUCKBC005_03214_JEHANTEL_000_005	A Sanson le haría bien volver a verte. Si tienes tiempo, vayamos a visitarlo juntos a Gridania.
+TEXT_LUCKBC005_03214_JEHANTEL_000_010	Por si te lo preguntas, esos hombres son los bards de Sanson, y antiguos alumnos míos.
+TEXT_LUCKBC005_03214_SANSON_000_030	¡<split(<string(gstr1)>, ,1)>, gracias a la Matron que está a salvo! ¡Estaba muerto de preocupación desde que supe que desapareció misteriosamente después de Ghimlyt!
+TEXT_LUCKBC005_03214_SANSON_000_031	Mi unidad y yo también peleamos contra el Imperio. Nunca había vivido una batalla tan sangrienta.
+TEXT_LUCKBC005_03214_JEHANTEL_000_032	Hicieron bien en volver con nosotros, todos ustedes.
+TEXT_LUCKBC005_03214_SANSON_000_033	En buena parte sobrevivimos gracias a Guydelot. Su canto animaba a todos los que lo oían en el campo de batalla, y cambió el rumbo de la pelea incontables veces.
+TEXT_LUCKBC005_03214_SANSON_000_034	Por su valeroso servicio, la Alliance le dio una medalla. Aunque, claro, nunca le interesaron esas baratijas.
+TEXT_LUCKBC005_03214_NOVICEBARD03214_000_035	(-Bard novato-)El teniente Guydelot fue una inspiración para todos nosotros. Pero nosotros... Para lo que servimos, era como si no hubiéramos estado...
+TEXT_LUCKBC005_03214_SANSON_000_036	Permítame presentarle a nuestros reclutas, <split(<string(gstr1)>, ,1)>. Están... decepcionados con su desempeño en Ghimlyt.
+TEXT_LUCKBC005_03214_SANSON_000_037	Es cierto que no se deshonraron, ni mucho menos. Pero en los momentos en que nos acorralaban, sus cantos flaqueaban y perdían fuerza.
+TEXT_LUCKBC005_03214_JEHANTEL_000_038	Ya veo. Como saben, nuestros cantos toman fuerza de nuestro ferviente deseo de ayudar a los compañeros.
+TEXT_LUCKBC005_03214_JEHANTEL_000_039	No creo que les faltara ese deseo. Simplemente quedó aplastado por el terror de verse frente a la muerte.
+TEXT_LUCKBC005_03214_SANSON_000_040	Como su superior, quería que Guydelot los entrenara. Pero no importa cuántas veces se lo pedí, no, se lo ordené: se niega, y dice que sus cantos no tienen corazón...
+TEXT_LUCKBC005_03214_JEHANTEL_000_041	¿Eso dijo?
+TEXT_LUCKBC005_03214_JEHANTEL_000_042	No quiero desanimarlos, pero puede que haya algo de verdad en las palabras de Guydelot.
+TEXT_LUCKBC005_03214_JEHANTEL_000_043	Recuerden: si un canto ha de tocar el corazón, debe tener corazón. Sin él, ni el himno mejor interpretado puede inspirar a nadie.
+TEXT_LUCKBC005_03214_JEHANTEL_000_044	Creo que les convendría conocer un ejemplo de nuestros cantos. Y, por suerte, tenemos aquí con nosotros a un ejemplo de nuestro arte.
+TEXT_LUCKBC005_03214_JEHANTEL_000_045	<split(<string(gstr1)>, ,1)>, ¿no tocarías para ellos?
+TEXT_LUCKBC005_03214_SANSON_000_046	Permítame rogárselo yo también. Guydelot y yo les hablamos muy bien de sus hazañas a los reclutas. No es exagerado decir que lo idolatran.
+TEXT_LUCKBC005_03214_JEHANTEL_000_047	Ten por seguro que no tocarás <if(gnum4,sola,solo)>. Mi arpa se unirá a la tuya en un dúo lleno de corazón.
+TEXT_LUCKBC005_03214_SANSON_000_048	Se lo agradezco de verdad. Pero, si me permiten ser exigente, deberíamos hacer participar también a Guydelot. Después de todo, es su deber entrenarlos.
+TEXT_LUCKBC005_03214_SANSON_000_049	Y además... creo que le encantaría la oportunidad de tocar con ustedes dos.
+TEXT_LUCKBC005_03214_JEHANTEL_000_050	¡Muy bien, que sea un trío! Pukno Poki mencionó haber visto a Guydelot en East Shroud. Veamos si podemos encontrarlo allá.
+TEXT_LUCKBC005_03214_SANSON_000_060	¿Los reclutas? Esperan en Gridania, para no espantar a Guydelot con la perspectiva de tener que enseñarles.
+TEXT_LUCKBC005_03214_PUKNOPOKI_000_065	¡Cuánto tiempo! No te habrás olvidado de mí, ¿no? ¡Después de todo, fui yo quien descubrió tu talento, kupo!
+TEXT_LUCKBC005_03214_JEHANTEL_000_080	Parece que Guydelot estuvo aquí hace poco.
+TEXT_LUCKBC005_03214_PUKNOPOKI_000_081	¡Así es, kupo! Se fue más adentro del bosque, diciendo: "¡Ese Sanson es más pesado que una vendedora de pescado!".
+TEXT_LUCKBC005_03214_JEHANTEL_000_082	Guydelot te respeta más que a nadie, <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKBC005_03214_JEHANTEL_000_083	Si tú lo llamaras, me atrevo a decir que respondería.
+TEXT_LUCKBC005_03214_SANSON_000_090	¿De verdad soy tan pesado...?
+TEXT_LUCKBC005_03214_PUKNOPOKI_000_095	¡Cuanto más cambian las cosas, más sigue Guydelot igual, kupo!
+TEXT_LUCKBC005_03214_JEHANTEL_000_100	Si llamaras a Guydelot, me atrevo a decir que respondería. Vamos, inténtalo, <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKBC005_03214_SYSTEM_000_120	Con el chat en modo <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, usa el teclado o el teclado en pantalla para escribir "Guydelot" y llamar a tu compañero.
+TEXT_LUCKBC005_03214_SYSTEM_000_125	Guydelot no parece estar por aquí. Quizás deberías internarte más en el bosque.
+TEXT_LUCKBC005_03214_SYSTEM_000_130	Con el chat en modo <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, usa el teclado o el teclado en pantalla para escribir "Guydelot" y llamar a tu compañero.
+TEXT_LUCKBC005_03214_GUYDELOT_000_140	(-Voz conocida-)Vaya, vaya, miren quién está aquí.
+TEXT_LUCKBC005_03214_GUYDELOT_000_141	¿Qué te trae por aquí, <split(<string(gstr1)>, ,1)>? Espero que no sea algún mandado aburrido.
+TEXT_LUCKBC005_03214_Q1_000_100	¿Qué dices?
+TEXT_LUCKBC005_03214_A1_000_101	Un mandado aburrido.
+TEXT_LUCKBC005_03214_A1_000_102	Una invitación a tocar.
+TEXT_LUCKBC005_03214_GUYDELOT_000_150	Lo sabía, maldita sea... Pero a ti no puedo decirte que no, ¿verdad? ¿Cuál es el mandado, entonces?
+TEXT_LUCKBC005_03214_GUYDELOT_000_155	¡Ja, hace siglos que espero que me lo pidas! A ver, ¿cuál es la ocasión?
+TEXT_LUCKBC005_03214_GUYDELOT_000_160	Uf, así que Sanson y Jehantel te convencieron. Debí imaginarlo...
+TEXT_LUCKBC005_03214_GUYDELOT_000_161	Esos reclutas son tan tiesos como su capitán y no espero nada de ellos... pero está bien, lo haré. Cualquier cosa vale la pena por tocar contigo, <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKBC005_03214_SANSON_000_162	¡Guydelot, ahí estás!
+TEXT_LUCKBC005_03214_SANSON_000_163	Supongo que <split(<string(gstr1)>, ,1)> ya te contó lo de la presentación.
+TEXT_LUCKBC005_03214_GUYDELOT_000_164	Sí, y para una reunión tan distinguida espero nada menos que el mejor escenario. Nos vas a conseguir un lugar así, ¿no, jefe?
+TEXT_LUCKBC005_03214_SANSON_000_165	Cuenta con eso. Yo también quiero lo mejor para la presentación.
+TEXT_LUCKBC005_03214_JEHANTEL_000_166	¿Se te ocurre algún lugar?
+TEXT_LUCKBC005_03214_SANSON_000_167	Los reclutas mostraron mucho interés en nuestra expedición en busca de la Ballad of Oblivion.
+TEXT_LUCKBC005_03214_SANSON_000_168	Por eso creo que no hay lugar más apropiado que the Sea of Clouds. Solo la vista ya los dejaría sin aliento.
+TEXT_LUCKBC005_03214_GUYDELOT_000_169	¡Me parece bien! ¡En marcha!
+TEXT_LUCKBC005_03214_SANSON_000_170	Muy bien, iré a conseguirnos una aeronave. Reúnanse en la plataforma de aeronaves, por favor.
+TEXT_LUCKBC005_03214_GUYDELOT_000_190	¡Maldición, ya me estoy entusiasmando!
+TEXT_LUCKBC005_03214_JEHANTEL_000_195	Je, je, no recuerdo cuándo fue la última vez que me entusiasmó tanto una presentación.
+TEXT_LUCKBC005_03214_SANSON_000_200	Mis superiores levantaron las cejas cuando mencioné otro viaje a the Sea of Clouds, pero los convencí con la promesa de otro canto de poder. Tenemos nuestra aeronave.
+TEXT_LUCKBC005_03214_SANSON_000_201	Si todos están listos, vámonos. Los reclutas ya subieron, de lo ansiosos que están. ¿Y quién no lo estaría con la presentación que viene?
+TEXT_LUCKBC005_03214_GUYDELOT_000_500	Y bien, ¿cuál es el plan? ¿Qué vamos a tocar con este cielo azul de fondo?
+TEXT_LUCKBC005_03214_JEHANTEL_000_501	Bueno, ya que tenemos con nosotros a <if(gnum4,una heroína tan célebre,un héroe tan célebre)>, pensaba inspirarme en sus aventuras para una pieza nueva.
+TEXT_LUCKBC005_03214_GUYDELOT_000_502	¡Qué gran idea, viejo! ¡Las historias de <split(<string(gstr1)>, ,1)> darían para una canción condenadamente buena!
+TEXT_LUCKBC005_03214_JEHANTEL_000_503	Nuestros reclutas todavía tienen poca experiencia en levantar el ánimo de sus compañeros en batalla. Una canción que transmita la importancia del compañerismo, que siembre las semillas del deseo de inspirar: eso sería lo ideal, creo.
+TEXT_LUCKBC005_03214_Q1_000_500	¿De qué debería tratar la canción?
+TEXT_LUCKBC005_03214_A1_000_500	De un joven que persiguió una leyenda.
+TEXT_LUCKBC005_03214_A2_000_500	De una heroína olvidada que vengó a sus compañeros.
+TEXT_LUCKBC005_03214_JEHANTEL_000_504	Un alma intrépida que se enfrentó a un enemigo poderoso, con compañeros fieles a su lado... Sí, es una historia emocionante, digna de inmortalizarse en una canción. Vaya, los temas y las emociones ya se están tejiendo en melodía y versos en mi mente.
+TEXT_LUCKBC005_03214_JEHANTEL_000_505	¡Vamos, amigos! ¡Alcemos juntos la voz en sentida armonía!
+TEXT_LUCKBC005_03214_GUYDELOT_000_510	Oh, hijo descarriado, dejaste tu hogar,<br>tu historia escribiste para perdurar.♪<br>Te guió una leyenda, un héroe caído,<br>y avanzaste firme, con rostro decidido.♪
+TEXT_LUCKBC005_03214_GUYDELOT_000_511	Oh, hijo descarriado, partiste a tu misión,<br>a tu lado un compañero en la prueba y la ocasión.♪<br>Mas aunque ese héroe tu espada fuera,<br>tu orgullo fue el rival, la soledad tu frontera.♪
+TEXT_LUCKBC005_03214_GUYDELOT_000_512	Oh, hijo descarriado, tu orgullo dejaste,<br>y el pasado que te ataba también abandonaste.♪<br>A la verdad delante los ojos abriste,<br>y al fin tu deber verdadero comprendiste.♪
+TEXT_LUCKBC005_03214_GUYDELOT_000_520	Oh, valiente cazadora, venganza clamabas,<br>por los compañeros que en la caza dejabas.♪<br>En tu pecho una tormenta que no hallaba calma,<br>salvo hundiendo a la bestia en el abismo del alma.♪
+TEXT_LUCKBC005_03214_GUYDELOT_000_521	Oh, valiente cazadora, a tu presa seguiste,<br>aunque el nuevo hogar que hallaste perdiste.♪<br>Con tus propias manos querías vengarte,<br>para que esa tormenta pudiera aquietarse.♪
+TEXT_LUCKBC005_03214_GUYDELOT_000_522	Oh, valiente cazadora, tomaste una decisión,<br>en la amistad pusiste tu sueño y tu ilusión.♪<br>Abriendo tu corazón, por fin fuiste libre,<br>para darlo todo y que el mundo siempre vibre.♪
+TEXT_LUCKBC005_03214_NOVICEBARD03214_000_530	Por los dioses... Así que esto es tocar con todo el corazón...
+TEXT_LUCKBC005_03214_SANSON_000_531	Fue conmovedor más allá de las palabras. Sentí la lección de la canción con todo mi ser: que comprendernos unos a otros es lo que abre el camino hacia adelante.
+TEXT_LUCKBC005_03214_SANSON_000_532	Comprensión... Pensándolo bien, quizás insistí demasiado en cargarle los reclutas a Guydelot. No intenté entender lo que sentía.
+TEXT_LUCKBC005_03214_SANSON_000_533	Guydelot, esto no es una orden, sino un humilde pedido. No te pido que entrenes a nuestros reclutas, sino que simplemente los conozcas. Así llegarán a entender el corazón del otro, y a forjar un lazo que les dará fuerza a sus cantos.
+TEXT_LUCKBC005_03214_NOVICEBARD03214_000_534	¡Nos encantaría! Su canción nos tocó en lo más hondo, ¡y nada nos gustaría más que poder tocar así a otros!
+TEXT_LUCKBC005_03214_GUYDELOT_000_535	Está bien, entonces. Podemos conocernos cuando tenga ganas. Ahora que saben lo que se siente con una canción de verdad, supongo que todavía hay esperanza para ustedes.
+TEXT_LUCKBC005_03214_GUYDELOT_000_600	Tus aventuras dan para grandes canciones, <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKBC005_03214_JEHANTEL_000_605	Fue una presentación que no olvidaré pronto. Mi pecho todavía vibra de la alegría.
+TEXT_LUCKBC005_03214_SANSON_000_620	No sé cómo agradecerle, <split(<string(gstr1)>, ,1)>. Nuestros reclutas están más motivados que nunca. Apenas volvimos a Gridania, salieron corriendo a entrenar.
+TEXT_LUCKBC005_03214_SANSON_000_621	Creo que iré a acompañarlos. Seguiré lo que usted y Jehantel empezaron, y los ayudaré a ser los mejores bards posibles.
+TEXT_LUCKBC005_03214_SANSON_000_622	Guydelot, tú también vienes, ¿no? Dijiste que ibas a conocerlos.
+TEXT_LUCKBC005_03214_GUYDELOT_000_623	Sí, cuando tenga ganas, y ahora no tengo. Ahora mismo necesito pensar en lo que viví, dejar que me cale hondo, ¿entiendes? Así que voy a pasar un tiempo a solas con mi arpa.
+TEXT_LUCKBC005_03214_SANSON_000_624	¡E-Espera! ¡Si vas a tocar el arpa, al menos deja que te escuchen los reclutas!
+TEXT_LUCKBC005_03214_SANSON_000_625	Perdóneme, <split(<string(gstr1)>, ,1)>, pero tengo que irme. ¡Gracias por una presentación maravillosa!
+TEXT_LUCKBC005_03214_JEHANTEL_000_626	Apasionados como son, no me cabe duda de que encontrarán su camino.
+TEXT_LUCKBC005_03214_JEHANTEL_000_627	Permíteme agradecerte yo también, <split(<string(gstr1)>, ,1)>. A decir verdad, hacía bastante tiempo que yo también quería tocar contigo.
+TEXT_LUCKBC005_03214_JEHANTEL_000_629	Fue una experiencia verdaderamente sublime, como si nuestra música hubiera subido a los cielos y hubiera llovido sobre toda la creación.
+TEXT_LUCKBC005_03214_JEHANTEL_000_630	Creo que la música de esa lluvia llegó a las almas de los caídos. A mis compañeros difuntos del Gods' Quiver.
+TEXT_LUCKBC005_03214_JEHANTEL_000_631	Como llegó al corazón de un viejo que vivió mucho tiempo en silenciosa penitencia. Me despertó recuerdos de la pasión que tenía en mi juventud, cuando todavía pisaba el campo de batalla.
+TEXT_LUCKBC005_03214_JEHANTEL_000_632	Todo esto por una sola canción, <if(gnum4,jovencita,jovencito)>. Una canción nacida de tu historia.
+TEXT_LUCKBC005_03214_JEHANTEL_000_633	Dentro de muchas generaciones, estoy segurísimo de que la canción se seguirá cantando y despertará la pasión de incontables almas más. Me llena de orgullo saber que fui parte de su creación.
+TEXT_LUCKBC005_03214_SYSTEM_000_999	Guydelot
