@@ -22,6 +22,7 @@
   <a href="#eventos-de-temporada">Eventos</a> ·
   <a href="#viaje-y-transporte">Transporte</a> ·
   <a href="#mensajes-del-chat">Chat</a> ·
+  <a href="#ventanas-de-ayuda">Ayuda</a> ·
   <a href="#comandos">Comandos</a>
 </p>
 
@@ -149,9 +150,9 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 | **Dawntrail** | 7.0 | 3.637 | ![Traducido][ok] |
 | **Post Dawntrail** | 7.1 | 252 | ![Traducido][ok] |
 |  | 7.2 | 408 | ![Traducido][ok] |
-|  | 7.3 | 591 | ![Pendiente][no] |
-|  | 7.4 | 517 | ![Pendiente][no] |
-|  | 7.5 en adelante | 681 | ![Pendiente][no] |
+|  | 7.3 | 591 | ![Traducido][ok] |
+|  | 7.4 | 517 | ![Traducido][ok] |
+|  | 7.5 en adelante | 681 | ![Traducido][ok] |
 
 ## Misiones de clase y job
 
@@ -190,7 +191,7 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 | **Ranged** | Bard | 30–100 | ![Pendiente][no] |
 | | Machinist | 30–100 | ![Pendiente][no] |
 | | Dancer | 60–100 | ![Pendiente][no] |
-| **Caster** | Black Mage | 30–100 | ![Pendiente][no] |
+| **Caster** | Black Mage | 30–100 | ![Traducido][ok] |
 | | Summoner | 30–100 | ![Pendiente][no] |
 | | Red Mage | 50–100 | ![Pendiente][no] |
 | | Pictomancer | 80–100 | ![Pendiente][no] |
@@ -238,6 +239,19 @@ El plugin todavía no traduce la ventana del chat. Estas son todas las hojas del
 | `TextCommand` | Ayuda y errores de los comandos de texto (`/help`, comandos mal escritos) | ![Pendiente][no] |
 | `Completion` | Frases del autotraductor que escriben los jugadores | — |
 | `Quest`, `Achievement`, `PlaceName`, `Action`, `Status`, `ClassJob`, `Item`, `BNpcName`, `ENpcResident`, `Fate`, `ContentFinderCondition` | Nombres dentro de los avisos (misiones, logros, lugares, habilidades, estados, clases, objetos, enemigos, NPC, FATE, instancias). Quedan en inglés | — |
+
+## Ventanas de ayuda
+
+Las guías que el juego abre solas la primera vez que se hace algo (Active Help) y se pueden volver a leer desde el menú de ayuda, más los tutoriales propios de algunos contenidos y la descripción de los objetos clave.
+
+| Hoja | Qué sale | Tamaño | Estado |
+|---|---|---|---|
+| `HowTo`, `HowToCategory` | Títulos y categorías de Active Help ("Basic Controls"...) | 278 textos | ![Pendiente][no] |
+| `HowToPage` | Las páginas de cada guía de Active Help ("Non-player characters (NPCs) offering quests can be recognized by the exclamation marks...") | 664 textos, unas 24.000 palabras | ![Pendiente][no] |
+| `ContentsTutorial`, `ContentsTutorialPage` | Tutoriales de contenidos especiales (Bozjan Southern Front...) | 41 textos | ![Pendiente][no] |
+| `EventTutorial`, `EventTutorialPage` | Tutoriales de mecánicas de eventos y misiones (Transport...) | 81 textos | ![Pendiente][no] |
+| `MultipleHelp`, `MultipleHelpString` | Ayudas de varias páginas (Raid Finder Help...) | 64 textos | ![Pendiente][no] |
+| `EventItemHelp` | Descripción de los objetos clave de misión, en su tooltip ("A simple wooden hairpin treasured by young Aunillie...") | 3.221 textos, unas 52.000 palabras | ![Pendiente][no] |
 
 ## Comandos
 

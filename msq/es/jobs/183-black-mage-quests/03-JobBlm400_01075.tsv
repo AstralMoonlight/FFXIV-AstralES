@@ -1,0 +1,68 @@
+key	text
+TEXT_JOBBLM400_01075_SEQ_00	Lalai tiene otra tarea para fortalecer tu vínculo con el negro.
+TEXT_JOBBLM400_01075_SEQ_01	Lalai te transmitió otra profecía de su Maestro. Debes viajar a Eastern Thanalan y, una vez allí, entrar en una cueva que está detrás de Burgundy Falls. En lo más hondo, busca a Kazagg Chah, el Amalj'aa que te entregó la Gem of Shatotto, y habla con él.
+TEXT_JOBBLM400_01075_SEQ_02	Kazagg Chah cree que eres <if(gnum4,la,el)> <sheet(Race,gnum71,0)> de la profecía, pero quiere que vuelvas a enfrentarte a la muerte para probar que estás en condiciones de cumplir tu propósito final. Cuando tengas todo listo, ve al Silent King, en Western Thanalan, y habla con Dozol Meloc.
+TEXT_JOBBLM400_01075_SEQ_03	El Ixal Dozol Meloc te ordenó cerrar la fisura entre planos cercana. Como antes, investiga la fisura y consigue la sangre de los monstruos que salgan de ella.
+TEXT_JOBBLM400_01075_SEQ_04	Mataste al temible ahriman que salió de la fisura. Vierte la sangre que obtuviste del voidsent en la fisura entre planos que sigue abierta.
+TEXT_JOBBLM400_01075_SEQ_05	Cerraste la fisura entre planos. Vuelve a hablar con Dozol Meloc.
+TEXT_JOBBLM400_01075_SEQ_06	Al Ixal parece impresionarle tu destreza con la magia oscura. Para la siguiente etapa de tu prueba, Dozol Meloc te pide que busques a Mendicant Da Za de la 269.ª Order, al norte del Silent King.
+TEXT_JOBBLM400_01075_SEQ_07	Parece que hay otra fisura entre planos que hay que sellar. Haz por Da Za lo mismo que hiciste por Dozol Meloc: investiga la fisura y mata a los monstruos que salgan.
+TEXT_JOBBLM400_01075_SEQ_08	Otra vez mataste al ahriman que salió del vacío y tomaste un poco de su sangre. Vierte el líquido en la fisura entre planos que sigue abierta.
+TEXT_JOBBLM400_01075_SEQ_09	Sellaste otro de los oscuros vacíos. Habla con Da Za para saber qué opina.
+TEXT_JOBBLM400_01075_SEQ_10	Da Za parece compartir la buena opinión de Dozol Meloc sobre tus habilidades arcanas. Infórmale de tus logros a Kazagg Chah, que estuvo supervisando la prueba.
+TEXT_JOBBLM400_01075_SEQ_11	Kazagg Chah aprueba tu desempeño en la última prueba. Te pide que vuelvas a Burgundy Falls, en Eastern Thanalan, para hablar más a fondo de los desafíos que vienen.
+TEXT_JOBBLM400_01075_SEQ_12	Después de ver tu habilidad y tu determinación, Kazagg Chah te confía las palabras proféticas de sus antepasados y promete ayudarte en todo lo que pueda para que cumplas tu propósito.<br><br>※La siguiente misión de black mage estará disponible con Kazagg Chah al llegar al nivel 45.
+TEXT_JOBBLM400_01075_TODO_00	Habla con Kazagg Chah en Burgundy Falls.
+TEXT_JOBBLM400_01075_TODO_01	Habla con Dozol Meloc en el Silent King.
+TEXT_JOBBLM400_01075_TODO_02	Investiga la fisura entre planos y consigue la sangre de los monstruos que salgan.
+TEXT_JOBBLM400_01075_TODO_03	Vierte la sangre de voidsent en la fisura entre planos.
+TEXT_JOBBLM400_01075_TODO_04	Habla con Dozol Meloc.
+TEXT_JOBBLM400_01075_TODO_05	Habla con Mendicant Da Za de la 269.ª Order.
+TEXT_JOBBLM400_01075_TODO_06	Investiga la fisura entre planos y consigue la sangre de los monstruos que salgan.
+TEXT_JOBBLM400_01075_TODO_07	Vierte la sangre de voidsent en la fisura entre planos.
+TEXT_JOBBLM400_01075_TODO_08	Habla con Mendicant Da Za de la 269.ª Order.
+TEXT_JOBBLM400_01075_TODO_09	Habla con Kazagg Chah.
+TEXT_JOBBLM400_01075_TODO_10	Preséntate ante Kazagg Chah en Burgundy Falls.
+TEXT_JOBBLM400_01075_LALAI_000_001	<split(<string(gstr1)>, ,1)>, veo en sus ojos la mirada de <if(gnum4,una mujer preparada,un hombre preparado)> para asumir las abrumadoras responsabilidades del black mage.
+TEXT_JOBBLM400_01075_LALAI_000_002	Pocos conocen nuestra existencia, incluso entre los versados en las artes mágicas. No encontrará mención de nosotros más que en los textos más esotéricos.
+TEXT_JOBBLM400_01075_LALAI_000_003	Pero los secretos de nuestro arte oscuro yacen cifrados aquí, en la biblioteca prohibida de este Sacrarium.
+TEXT_JOBBLM400_01075_LALAI_000_004	El propio Maestro descifró y leyó esos textos hace unos cien años. Se dice que los primeros de los nuestros eran los favoritos de Nald'thal, y que fue Él quien les encomendó el deber de sellar la puerta del vacío.
+TEXT_JOBBLM400_01075_LALAI_000_005	Pero, como bien sabe, el poder de la magia negra está en su enorme potencial destructivo. El más mínimo error al usarla puede desatar los desastres más trágicos.
+TEXT_JOBBLM400_01075_LALAI_000_006	Sobre la desaparición de los black mages de Eorzea, el Maestro solo dice: "No debemos repetir los errores del pasado".
+TEXT_JOBBLM400_01075_LALAI_000_007	<split(<string(gstr1)>, ,1)>, el Maestro me hizo saber lo que debe hacer a continuación. Escuche ahora sus palabras con todo su ser...
+TEXT_JOBBLM400_01075_LALAI_000_008	...
+TEXT_JOBBLM400_01075_LALAI_000_009	"La tierra bebió hasta saciarse la sangre que derramaste, y por este acto, tres almas de tres razas llegaron a Thanalan.
+TEXT_JOBBLM400_01075_LALAI_000_010	"Los fuegos de nuestra Order ardieron una vez negros y plenos. Pero hace mucho los dejaron menguar, y casi se extinguieron. Estas tres almas guardan las brasas que quedan - todo lo que hoy somos.
+TEXT_JOBBLM400_01075_LALAI_000_012	"En las manos de quien anuncie nuestro regreso, la Gem of Shatotto, testimonio de nuestro credo, brillará con una luz nueva. Y por esa luz, los tres guardianes se volverán tus aliados.
+TEXT_JOBBLM400_01075_LALAI_000_013	"Un Amalj'aa llamado Kazagg Chah aguarda en Burgundy Falls, al este de Thanalan. Ve a verlo."
+TEXT_JOBBLM400_01075_LALAI_000_014	...Eso es todo. No se detenga en que los Amalj'aa son enemigos jurados de Ul'dah. No le corresponde cuestionar la voluntad del Maestro - porque es la voluntad del mismísimo Nald'thal.
+TEXT_JOBBLM400_01075_LALAI_000_015	Parta, black mage, y vea sellada la puerta del vacío.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_020	<if(gnum4,Bienvenida,Bienvenido)> seas, <sheet(Race,gnum71,0)>, <if(gnum4,elegida,elegido)> de Ququruka y <if(gnum4,portadora,portador)> de la Gem of Shatotto.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_021	Por el poder de la gema se cruzan otra vez nuestros caminos. Al fin llegó el momento del que habla la profecía, y aun así nada sé de <if(gnum4,aquella,aquel)> que habrá de guiarnos. Ven, dime tu nombre.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_022	<string(gstr1)>. Yo soy Kazagg Chah, hechicero de los Amalj'aa, como lo fueron mis antepasados. Soy el cuarto de mi linaje en recorrer este camino, que ahora me trae a esta tierra.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_032	Como bien sabes, los de mi raza cargan con el desprecio de los ul'dahnos. Por eso debo quedarme aquí, lejos de las murallas de la ciudad.
+TEXT_JOBBLM400_01075_DOZOLMELOC_000_023	Gran poder, este tiene. ¿Pero suficiente, es? ¡Graaaac!
+TEXT_JOBBLM400_01075_DAZA_000_024	Kazagg Chah da miedo a la vista. Sí, sí, pero es sabio y amable - bueno, cálido, amable.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_025	Estos son mis hermanos en el negro, <split(<string(gstr1)>, ,1)>, y ahora también son los tuyos. Ante ti están el Ixal Dozol Meloc y el mendicante de la 269.ª Order de los kobolds, Da Za.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_026	Alimentaste las corrientes aetherial con la sangre de los monstruos. Que la Gem of Shatotto resplandezca así en tu presencia es prueba de tus hazañas, y señal de lo que aún queda por hacer. Me toca a mí presenciar tu despertar y transmitirte el conocimiento que me fue confiado.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_027	Sabe que debes enfrentarte a la muerte antes de poder cumplir tu propósito.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_028	Al Silent King, en Western Thanalan, debes viajar ahora. Allí también hay una fisura entre planos, y allí también debes saciar la sed de la tierra con la sangre de los monstruos que brotan de ella.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_030	No temas, cada uno de nosotros irá al Silent King y allí volveremos a reunirnos. Busca primero al Ixal Dozol Meloc, porque tu camino está destinado a cruzarse antes con el suyo.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_031	Cuando la tarea que tienes delante esté hecha, la Gem of Shatotto brillará con un nuevo resplandor.
+TEXT_JOBBLM400_01075_DOZOLMELOC_000_070	Para cerrar fisura entre planos, magia negra fuerte necesitas. Tú cierras, luego a Dozol Meloc vuelves. ¡Graaaac!
+TEXT_JOBBLM400_01075_DOZOLMELOC_000_071	¡Graaaac! ¡Verdad, Kazagg Chah dijo! Fuerte es el negro en <split(<string(gstr1)>, ,1)>. Ve ahora. A Da Za, ve a ver.
+TEXT_JOBBLM400_01075_DAZA_000_080	Aquí está la fisura entre planos - grieta, desgarro, fisura. Usa el poder que llevas dentro para sellarla.
+TEXT_JOBBLM400_01075_DAZA_000_081	Es tal como Kazagg Chah predijo. Eres <if(gnum4,la elegida,el elegido)>, <split(<string(gstr1)>, ,1)>. Ahora debes volver con él. Sí, sí, vuelve y dile a Kazagg Chah que la tarea está hecha - acabada, terminada, hecha.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_090	Derriba a los monstruos que salgan de las fisuras entre planos y deja que la tierra beba hasta saciarse su sangre.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_091	Cuando la tarea que tienes delante esté hecha, la Gem of Shatotto brillará con un nuevo resplandor.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_092	Lo hiciste bien, <split(<string(gstr1)>, ,1)> - como sabía que lo harías. Ven, es hora de volver a Burgundy Falls.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_100	<string(gstr1)> del negro, vuelves a mí <if(gnum4,victoriosa,victorioso)>.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_101	La Gem of Shatotto arde con fuerza. Eres de verdad <if(gnum4,la heredera,el heredero)> de un poder oscuro y antiguo, como predijo Ququruka. Me recuerda una profecía que mi bisabuelo pronunció hace mucho:
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_102	"Cuando cuatro magos en tierra yerma se vean,<br>y negros poderes de antaño en sus manos tejan,<br>el mal hallará su fatalidad,<br>y la senda a la luz alumbrará la oscuridad".
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_103	Los <italic(1)>negros poderes de antaño<italic(0)> no requieren explicación. Y sabe que <italic(1)>el mal<italic(0)> se refiere al mal nacido del vacío.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_104	Que el sello que mantiene cerrada la puerta del vacío flaqueará y cederá está fuera de duda. Pero tus hazañas hablan de determinación y de habilidad, y en ellas vislumbro esperanza. Ya sé de ti todo lo que necesito saber.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_105	Te concedo el conocimiento que guardó mi linaje. Aquí y ahora, juro dejar atrás los viejos rencores. Con nuestro poder unido, la puerta del vacío volverá a sellarse.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_106	Le diste mucha alegría a este viejo Amalj'aa. Pocos creyeron las palabras de mi bisabuelo. Se burlaron de él y lo ridiculizaron, y peor aún, lo ignoraron. Pero tu llegada cumplió la profecía que pronunció.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_107	<split(<string(gstr1)>, ,1)>, la magia oscura que corre por ti comparte un vínculo profundo con la puerta del vacío. Si ese portal llega a abrirse, correrás un gran peligro.
+TEXT_JOBBLM400_01075_KAZAGGCHAH_000_108	Templa tu mente y tu cuerpo. Cuando estés <if(gnum4,lista,listo)>, vuelve a esta tierra y búscame otra vez. Entonces, y solo entonces, te hablaré de tu siguiente tarea.
+TEXT_JOBBLM400_01075_POP_MESSAGE	¡Un monstruo sale de la fisura entre planos!

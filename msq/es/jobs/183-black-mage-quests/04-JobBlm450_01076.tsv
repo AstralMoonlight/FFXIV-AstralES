@@ -1,0 +1,53 @@
+key	text
+TEXT_JOBBLM450_01076_SEQ_00	Kazagg Chah quiere que asumas otro desafío para fortalecer tus poderes oscuros.
+TEXT_JOBBLM450_01076_SEQ_01	Según Dozol Meloc, el Gloom que emana de la puerta del vacío reacciona al poder que despertó en ti. La antigua magia negra que te ayudará está oculta en el South Shroud, sellada dentro de un pilar por magos de antaño. Busca ese pilar, hoy cubierto de musgo, en Urth's Gift, y averigua qué secretos guarda.
+TEXT_JOBBLM450_01076_SEQ_02	Al investigar el pilar aparece un montón de fisuras entre planos, que Mendicant Da Za y tú despachan con su estilo de siempre. Habla con el mendicante para ver cómo quedó después de la batalla.
+TEXT_JOBBLM450_01076_SEQ_03	Al parecer sin un rasguño, Da Za te indica que vuelvas a Burgundy Falls para contarle tu éxito a Dozol Meloc.
+TEXT_JOBBLM450_01076_SEQ_04	Dozol Meloc está encantado de que el misterioso Gloom haya desaparecido. Ahora habla con Kazagg Chah, que te espera en su lugar de siempre, detrás de Burgundy Falls.
+TEXT_JOBBLM450_01076_SEQ_05	Kazagg Chah se alivia al saber que el Gloom se dispersó, y le complace mucho el poder de la oscuridad que creció en ti.
+TEXT_JOBBLM450_01076_TODO_00	Investiga el pilar cubierto de musgo de Urth's Gift.
+TEXT_JOBBLM450_01076_TODO_01	Habla con Mendicant Da Za de la 269.ª Order.
+TEXT_JOBBLM450_01076_TODO_02	Habla con Dozol Meloc en Burgundy Falls.
+TEXT_JOBBLM450_01076_TODO_03	Habla con Kazagg Chah.
+TEXT_JOBBLM450_01076_KAZAGGCHAH_000_000	<split(<string(gstr1)>, ,1)>. Qué bueno que estés aquí. Mis colegas Dozol Meloc y Da Za quieren hablar contigo. Espera aquí mientras voy a buscarlos.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_001	Para cerrar puerta del vacío, magia negra fuerte necesitas. ¿Para la prueba, <if(gnum4,lista,listo)> estás?
+TEXT_JOBBLM450_01076_Q1_000_1	¿Todo listo?
+TEXT_JOBBLM450_01076_A1_000_1	Sí
+TEXT_JOBBLM450_01076_A1_000_2	No
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_002	Muy bien. ¡Graaaac! Sentido agudo tienes, como Dozol. ¿Notado, lo has? Tu aura. Rareza, tiene.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_003	¡Tontería! ¡Graaaac! Pero no importa. Sentido agudo, Dozol tiene. Tu aura. Rareza, tiene.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_004	Ahora, la puerta del vacío. Gloom, hace. Como aliento negro. Gloom atraído por magia negra. Atraído por ti. Como polilla a la llama. Magia negra, busca, para corromperla y hacerla suya.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_005	Perdiendo fuerza, el sello está. Magia negra y puerta del vacío comparten vínculo. Muy hondo. Pero mucho tiempo así no se debe dejar. ¡Si no, quizá el otro lado te lleva! Graa-aa-aac.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_006	¡Miedo todavía no! Débil aún, el Gloom es. Tiempo, tienes. ¡<split(<string(gstr1)>, ,1)>, fuerte, la siguiente llave encontrará!
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_007	Enseñarte, Dozol hará, lo que hay que hacer.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_008	Muchos black mages, hubo. Hace mucho. Uno más poderoso que el resto. Muy poderoso. Épico, incluso. Black mage épico.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_009	Magia negra demasiado poderosa. Demasiado peligrosa. Malas manos no deben tenerla. Esto sabía, él. Hechizos cifró. Secretos escondió. Camino oscuro a pocos pasó. Muy pocos.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_010	Enseñanzas, escritos, por el reino repartió. Perdidos en el tiempo, quedaron. Olvidados. Uno tallado en piedra. Piedra de pilar con musgo. Pilar en South Shroud. ¡Graaaac!
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_011	¡<if(gnum4,Elegida,Elegido)> <split(<string(gstr1)>, ,1)>, <if(gnum4,elegida,elegido)> es! Desatar el poder de esta magia negra, puedes. ¡Llave, es! ¡Llave para acabar con Gloom!
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_012	Saber de mi linaje, esto es. A Dozol pasó de madre. De madre de madre. De madre de madre de madre. Cuatro nidadas atrás. Maga fuerte, era. Épica, incluso. ¡Maga épica!
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_013	Gran amor por arte oscuro. Más que nada. Con hombres lagarto se unió para aprenderlo todo. Traidora la llamaron. De la aldea la echaron. ¡Graaaac! Sus palabras, Dozol guarda. A <split(<string(gstr1)>, ,1)>, fuerte, ahora las enseña.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_014	"Cuatro magos, en tierra yerma, se ven.<br>Negros poderes viejos, en mano tienen.<br>Del mal todo, la fatalidad.<br>¡Senda a luz alumbra el graaaac!"<br>Ese, graaac de ella. No graaac de Dozol. <italic(1)>Oscuridad<italic(0)> debe ser, Dozol piensa.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_015	Buenas palabras. Hondas palabras. A Dozol aquí trajeron. Para transmitir. No Dozol solo. Otros vienen también. Otros magos.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_016	Hombre pájaro. Hombre lagarto. No importa. Todos esperan a <split(<string(gstr1)>, ,1)>, fuerte. Mente fuerte, tienes, y corazón. Ayudarte, Dozol hará.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_017	A Gridania, ir debes. A Urth's Gift. Cerca del pilar, bestias acechan. Matarlas, debes. Miedo a bestia, no hace falta. ¡<split(<string(gstr1)>, ,1)>, fuerte, fuerte es!
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_018	¡Da Za! ¡Graaaac!
+TEXT_JOBBLM450_01076_DAZA_000_019	Yo también estoy aquí para ayudarte - apoyarte, echarte una mano, ayudarte.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_020	Bosque, peligro para Dozol. Para Ixal, los Wailers esperan. Esperan con lanzas afiladas. En lugar de Dozol, Da Za irá.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_021	Decidido, está. ¡Ve ahora, tú irás! ¡Graaaac!
+TEXT_JOBBLM450_01076_SYSTEM_000_030	Aquí se alza un pilar de piedra cubierto de musgo.
+TEXT_JOBBLM450_01076_SYSTEM_000_031	La Gem of Shatotto brilla con fuerza y revela una inscripción en la piedra. Al acercarte, oyes una voz que resuena...
+TEXT_JOBBLM450_01076_SEKIHI_000_032	(-???-)Por la gema que portáis os será otorgado el grande y oscuro poder de antaño. Mas quienes buscan este poder deben antes probar su valía. ¡Contemplad, ya viene el Gloom que sería vuestra perdición!
+TEXT_JOBBLM450_01076_SEKIHI_100_032	(-???-)Detened con vuestra mano el avance del Gloom. Solo entonces os será concedida la sabiduría umbral de las eras.
+TEXT_JOBBLM450_01076_DAZA_000_040	Esa voz decía la verdad. ¡Mira! El Gloom se está juntando, <split(<string(gstr1)>, ,1)>. Siento monstruos malignos por aquí - cerca, al lado, por aquí.
+TEXT_JOBBLM450_01076_DAZA_000_050	¡Bien peleado! ¡El Gloom se dispersó! ¡Dispersado está el Gloom!
+TEXT_JOBBLM450_01076_DAZA_000_051	Volvamos a Burgundy Falls. Sí, sí, Dozol Meloc nos espera - a ti, a mí, a nosotros.
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_060	Ido de ti, el Gloom está. ¡Por nada se preocupó Dozol!
+TEXT_JOBBLM450_01076_DOZOLMELOC_000_061	¡Graaaac! Ahora a Kazagg Chah ver debes. Esperándote, está.
+TEXT_JOBBLM450_01076_KAZAGGCHAH_000_070	Los dioses fueron buenos al traerte de vuelta sin daño. El Gloom que amenazaba con mancillar este mundo ya no lo hace. Y siento que la oscuridad dentro de ti renació con un nuevo poder.
+TEXT_JOBBLM450_01076_KAZAGGCHAH_000_071	Úsalo bien, <split(<string(gstr1)>, ,1)> del negro, y haz de él una herramienta para nuestros fines. Hazlo, y como dice la profecía, la oscuridad alumbrará ante ti la senda a la luz.
+TEXT_JOBBLM450_01076_QIB_001_TODO_1	¡Repele el avance del Gloom!
+TEXT_JOBBLM450_01076_QIB_001_DAZA_BATTLETALK_01	Si no se lo detiene, el Gloom se convertirá en grandes horrores. Debes detenerlo con tu magia negra - hechizos, conjuros, magia.
+TEXT_JOBBLM450_01076_QIB_001_DAZA_BATTLETALK_02	El Gloom engendró monstruos, <split(<string(gstr1)>, ,1)>. Ten cuidado - precaución, cautela, cuidado.
+TEXT_JOBBLM450_01076_QIB_001_DAZA_BATTLETALK_03	¡Vienen más monstruos! No te preocupes, la marea va a cambiar - girar, voltearse, cambiar.
+TEXT_JOBBLM450_01076_QIB_001_DAZA_BATTLETALK_04	No flaquees, <split(<string(gstr1)>, ,1)>. Debemos resistir - aguantar, perseverar, ¡resistir!
+TEXT_JOBBLM450_01076_QIB_001_DAZA_BATTLETALK_05	Perdóname, <split(<string(gstr1)>, ,1)>. Mis poderes se acabaron - gastados, agotados, acabados.

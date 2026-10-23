@@ -140,6 +140,26 @@ foreach (var group in jobQuests)
     }
 }
 
+// Joining a combat guild ("So You Want to Be a Thaumaturge": the receptionist's welcome and the
+// yes/no) is a quest the journal files under no genre. It goes first in its class's folder, as 00.
+foreach (var q in quests.Where(q => q.JournalGenre.RowId == 0 && q.ClassJobUnlock.RowId != 0 && q.Id.ExtractText().StartsWith("Cls")))
+{
+    var id = q.Id.ExtractText();
+    var mate = quests.FirstOrDefault(j => j.JournalGenre.RowId != 0 && j.Id.ExtractText().StartsWith(id[..6]));
+    var sheet = $"quest/{id[^5..^2]}/{id}";
+
+    if (mate.RowId == 0 || !sheetNames.Contains(sheet))
+    {
+        missing.Add($"guild {id}");
+        continue;
+    }
+
+    var folder = $"jobs/{mate.JournalGenre.RowId:000}-{Slug(genres.GetRow(mate.JournalGenre.RowId).Name.ExtractText())}";
+    var lines = WriteSheet(sheet, Path.Combine(output, folder, $"00-{id}.tsv"));
+    jobLines += lines;
+    index.Append($"\t{folder}\t00-{id}.tsv\t{q.RowId}\t{q.Name.ExtractText()}\t{lines}\n");
+}
+
 Console.WriteLine($"class and job quests: {jobLines} lines → {Path.Combine(output, "jobs")}");
 
 // Sidequests that unlock a game feature, picked by name: the aesthetician, glamours and dyes.

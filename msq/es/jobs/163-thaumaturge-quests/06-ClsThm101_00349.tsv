@@ -6,7 +6,7 @@ TEXT_CLSTHM101_00349_SEQ_03	Cazaste los efts. Vuelve al Thaumaturges' Guild e in
 TEXT_CLSTHM101_00349_SEQ_04	Al parecer, una partida de saqueadores Amalj'aa atacó una caravana de mercaderes y se llevó un cajón de éter. Ve al sur de Drybone e investiga el transporte de guerra blindado de los hombres bestia. Pero antes de recuperar la carga robada, debes derrotar a los Amalj'aa y conseguir frascos de su sangre.
 TEXT_CLSTHM101_00349_SEQ_05	Abatiste a los Amalj'aa y cumpliste el pedido adicional de Cocobuki. Vuelve a investigar el transporte de guerra blindado y recupera el cajón de éter.
 TEXT_CLSTHM101_00349_SEQ_06	Recuperaste el cajón de éter. Vuelve al Thaumaturges' Guild e informa a Cocobani.
-TEXT_CLSTHM101_00349_SEQ_07	Cocobani te enseñó la importancia de mantener un flujo constante de energía aetherial, ya sea manejando tu estado de equilibrio o reponiendo tus reservas arcanas con un frasco del preciado éter. Ten presentes estas lecciones al retomar tu viaje a las profundidades estigias de la thaumaturgy.<br><br>※La siguiente misión de thaumaturge estará disponible con Cocobuki al llegar al nivel 15.
+TEXT_CLSTHM101_00349_SEQ_07	Cocobani te enseñó la importancia de mantener un flujo constante de energía aetherial, ya sea manejando tu estado de equilibrio o reponiendo tus reservas arcanas con un frasco del preciado éter. Ten presentes estas lecciones al retomar tu viaje a las profundidades estigias de la taumaturgia.<br><br>※La siguiente misión de thaumaturge estará disponible con Cocobuki al llegar al nivel 15.
 TEXT_CLSTHM101_00349_TODO_00	Habla con Cocobani.
 TEXT_CLSTHM101_00349_TODO_01	Caza efts.
 TEXT_CLSTHM101_00349_TODO_02	Habla con Cocobani en el Thaumaturges' Guild.
@@ -22,17 +22,17 @@ TEXT_CLSTHM101_00349_COCOBANI_000_13	"Mas, ay, qué desesperación cuando el man
 TEXT_CLSTHM101_00349_COCOBANI_000_14	Una idea aterradora, ¿no? ¡Un thaumaturge que agotó sus reservas arcanas no es más que <if(gnum4,una mujer,un hombre)> con un palo y un sombrero gracioso!
 TEXT_CLSTHM101_00349_COCOBANI_000_15	Para nosotros los magos, la energía aetherial que corre por nuestras venas es como la sangre misma. Si en una batalla nos falta este preciado recurso, estamos prácticamente muertos.
 TEXT_CLSTHM101_00349_COCOBANI_000_17	Controlar el gasto de tu poder exige entender el equilibrio aetherial. La balanza puede inclinarse hacia dos lados: el astral o el umbral.
-TEXT_CLSTHM101_00349_COCOBANI_000_18	Cuando tu mente y tu espíritu se inclinan hacia lo umbral, tu thaumaturgy queda bajo un estado llamado "Umbral Ice". La potencia de tus hechizos disminuye, pero también requieren menos energía para invocarlos.
+TEXT_CLSTHM101_00349_COCOBANI_000_18	Cuando tu mente y tu espíritu se inclinan hacia lo umbral, tu taumaturgia queda bajo un estado llamado "Umbral Ice". La potencia de tus hechizos disminuye, pero también requieren menos energía para invocarlos.
 TEXT_CLSTHM101_00349_COCOBANI_000_19	En cambio, un thaumaturge en estado de "Astral Fire" verá aumentada la potencia de sus conjuros, pero a un costo mayor para su resistencia aetherial.
 TEXT_CLSTHM101_00349_COCOBANI_000_20	Ahora, con los conceptos de equilibrio aetherial y lanzamiento eficiente bien presentes, te pido que salgas y caces... ¡ocho efts! Por favor, haz lo posible por seguir con vida: me deja mal que devuelvan al Ossuary el cadáver destrozado de uno de mis alumnos.
 TEXT_CLSTHM101_00349_COCOBANI_000_30	¡Ajá! Llegas ante mí de pie y respirando. ¡Maravilloso! Es mucho más sencillo hacerle preguntas a un alumno sin tener que recurrir a la adivinación nigromántica.
-TEXT_CLSTHM101_00349_COCOBANI_000_31	Dime, <split(<string(gstr1)>, ,1)>. ¿Qué harías si agotaras tu resistencia para la thaumaturgy en plena batalla?
+TEXT_CLSTHM101_00349_COCOBANI_000_31	Dime, <split(<string(gstr1)>, ,1)>. ¿Qué harías si agotaras tu resistencia para la taumaturgia en plena batalla?
 TEXT_CLSTHM101_00349_Q_000_1	¿Qué harías si te quedaras sin maná en plena batalla?
 TEXT_CLSTHM101_00349_A_000_1	Huir.
 TEXT_CLSTHM101_00349_A_000_3	Usar mi cetro como garrote.
 TEXT_CLSTHM101_00349_COCOBANI_000_40	¿Ah, sí? ¡Muy práctico, sin duda! Retirarse con discreción a esperar que se repongan tus energías es una estrategia sensata. Pero si ya no hay adónde huir, un frasco de éter puede ser tu aliado más firme.
 TEXT_CLSTHM101_00349_COCOBANI_000_50	Sí, el cetro es sin duda un instrumento de muerte letal. ¡De <italic(1)>tu<italic(0)> muerte, valiente insensat<if(gnum4,a,o)>! ¡Recuerda el primer capítulo! ¡No nos acercamos a nuestros enemigos!
-TEXT_CLSTHM101_00349_COCOBANI_000_51	¡Y desde luego no los <italic(1)>golpeamos<italic(0)> con nuestras finas herramientas de thaumaturgy! Por favor, considera reponer tus energías con un frasco de éter antes de humillarte en el cuerpo a cuerpo.
+TEXT_CLSTHM101_00349_COCOBANI_000_51	¡Y desde luego no los <italic(1)>golpeamos<italic(0)> con nuestras finas herramientas de taumaturgia! Por favor, considera reponer tus energías con un frasco de éter antes de humillarte en el cuerpo a cuerpo.
 TEXT_CLSTHM101_00349_COCOBANI_000_60	¡Ah, el éter! ¡El trago de los dioses! Los thaumaturges, y en realidad todos los que practican las artes de la manipulación arcana, valoramos esta sustancia por encima de todas.
 TEXT_CLSTHM101_00349_COCOBANI_000_62	Por eso recibimos con una furia desatada el último informe sobre actividad de hombres bestia. ¡Al parecer, una partida de saqueadores Amalj'aa atacó una caravana en las rutas comerciales y se llevó un cajón entero del preciado éter!
 TEXT_CLSTHM101_00349_COCOBANI_000_64	Llegó la hora de poner a prueba tus nuevos conocimientos. ¡Aniquila a esos bandidos Amalj'aa y recupera la carga de frascos de éter! Según el informe, su transporte de guerra blindado fue visto por última vez al sur de Drybone.
@@ -42,7 +42,7 @@ TEXT_CLSTHM101_00349_COCOBANI_000_80	¿Huelo a éter? Y supongo que ese <italic(
 TEXT_CLSTHM101_00349_COCOBANI_000_81	¡Oho! Diez frascos... veinte... ¡treinta! Ver tanto éter es de lo más reconfortante.
 TEXT_CLSTHM101_00349_COCOBUKI_000_83	¿Qué tenemos aquí, Cocobani? ¿Es el cajón robado? Veo que las lecciones de <split(<string(gstr1)>, ,1)> tuvieron el efecto deseado.
 TEXT_CLSTHM101_00349_COCOBUKI_000_84	Je, je, je. Supondré que ese líquido viscoso y repugnante es sangre de hombre bestia. Cocobusi debería estar contento...
-TEXT_CLSTHM101_00349_COCOBUSI_000_85	¡Cocobuki! Dejaste recado de que viniera al Ossuary. ¿Por fin decidiste empezar mi entrenamiento en la thaumaturgy?
+TEXT_CLSTHM101_00349_COCOBUSI_000_85	¡Cocobuki! Dejaste recado de que viniera al Ossuary. ¿Por fin decidiste empezar mi entrenamiento en la taumaturgia?
 TEXT_CLSTHM101_00349_COCOBUKI_000_87	¡Ah, Cocobusi! ¡Qué bueno que viniste! <split(<string(gstr1)>, ,1)> tuvo la amabilidad de conseguirte un poco de sangre de Amalj'aa.
 TEXT_CLSTHM101_00349_COCOBUKI_000_88	Un conocido mío, alchemist, me explicó que usabas esa sustancia en tus investigaciones para crear un elixir que amplifica el maná.
 TEXT_CLSTHM101_00349_COCOBUKI_000_89	¡Naturalmente, nos interesan muchísimo los resultados de esos experimentos! Así que ya ves, Busi: tu trabajo de alchemist ya te permite trabajar junto a nosotros. ¡No necesitas ser thaumaturge para ser parte de nuestra familia!
@@ -50,5 +50,5 @@ TEXT_CLSTHM101_00349_COCOBANI_000_90	Así es, Busi. Además, el campo de batalla
 TEXT_CLSTHM101_00349_COCOBUSI_000_92	...Ya veo. Este es otro intento de disuadirme de seguir mi verdadera vocación. Yo no <italic(1)>quiero<italic(0)> animarlos desde la seguridad de mi mesa de trabajo. ¡Quiero pelear a su lado!
 TEXT_CLSTHM101_00349_COCOBUKI_000_95	¡B-Busi! ¡No soportamos la idea de que te hagan daño! ¡Por favor, no hagas ninguna tontería!
 TEXT_CLSTHM101_00349_COCOBUKI_000_96	\<suspiro> ...Te pido disculpas, hermano. A veces olvido lo difícil que debe ser no tener una aptitud natural para las artes arcanas.
-TEXT_CLSTHM101_00349_COCOBUKI_000_97	Como te dije, <split(<string(gstr1)>, ,1)>, Cocobusi es peligrosamente inadecuado para la thaumaturgy. Ni con el entrenamiento correcto podría lanzar magia como nosotros. Si intentara forzar una manifestación de poder, el esfuerzo sobre sus reservas de aether probablemente lo mataría.
-TEXT_CLSTHM101_00349_COCOBUKI_000_98	Pero no nos detengamos en esta situación tan desagradable. ¡Porque tú, en cambio, rebosas de potencial para la thaumaturgy! Sigue con diligencia en tus estudios y no dejes de esforzarte por ampliar el manantial de tu poder.
+TEXT_CLSTHM101_00349_COCOBUKI_000_97	Como te dije, <split(<string(gstr1)>, ,1)>, Cocobusi es peligrosamente inadecuado para la taumaturgia. Ni con el entrenamiento correcto podría lanzar magia como nosotros. Si intentara forzar una manifestación de poder, el esfuerzo sobre sus reservas de aether probablemente lo mataría.
+TEXT_CLSTHM101_00349_COCOBUKI_000_98	Pero no nos detengamos en esta situación tan desagradable. ¡Porque tú, en cambio, rebosas de potencial para la taumaturgia! Sigue con diligencia en tus estudios y no dejes de esforzarte por ampliar el manantial de tu poder.

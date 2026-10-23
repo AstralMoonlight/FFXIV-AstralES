@@ -1,0 +1,65 @@
+key	text
+TEXT_JOBBLM300_01073_SEQ_00	Yayake necesita a un thaumaturge talentoso.
+TEXT_JOBBLM300_01073_SEQ_01	Yayake, del Arrzaneth Ossuary, te pidió comprobar la verdad de una profecía que pregona un tal Ququruka, un prisionero que asegura oír la voz de Nald'thal. Para eso, ve a Highbridge, en Eastern Thanalan, e investiga la fisura entre planos que dicen que hay allí. Una vez que la revises, derriba a los monstruos que salgan y consigue un frasco de su sangre.
+TEXT_JOBBLM300_01073_SEQ_02	Conseguiste un frasco de sangre fresca. Viértela en la fisura entre planos que sigue abierta.
+TEXT_JOBBLM300_01073_SEQ_03	Después de verter la sangre de voidsent en la fisura entre planos, aparece un Amalj'aa llamado Kazagg Chah y te entrega la Gem of Shatotto. Llévale la gema y la noticia de tu hazaña a Yayake, en el Thaumaturges' Guild.
+TEXT_JOBBLM300_01073_SEQ_04	A Yayake le sorprende que la supuesta "profecía" tuviera algo de cierto, pero más le sorprende que el propio profeta, Ququruka, se presente en el gremio. Tras lanzarle a Yayake unos cuantos insultos bien medidos, el que se dice black mage te pide que vayas a Milvaneth Sacrarium. Una vez allí, habla con su acompañante, Lalai.
+TEXT_JOBBLM300_01073_SEQ_05	Al llegar al Sacrarium, te enteras de que Ququruka está ocupado en sus meditaciones y le encargó a Lalai guiarte por el camino del black mage. Sigue estudiando las artes negras y vuelve cuando sientas que el poder arcano dentro de ti creció.<br><br>※La siguiente misión de black mage estará disponible con Lalai al llegar al nivel 35.
+TEXT_JOBBLM300_01073_TODO_00	Investiga la fisura entre planos de Highbridge y consigue la sangre de los monstruos que salgan.
+TEXT_JOBBLM300_01073_TODO_01	Vierte la sangre de voidsent en la fisura entre planos.
+TEXT_JOBBLM300_01073_TODO_02	Habla con Yayake en el Thaumaturges' Guild.
+TEXT_JOBBLM300_01073_TODO_03	Preséntate ante Lalai en Milvaneth Sacrarium.
+TEXT_JOBBLM300_01073_YAYAKE_000_000	<split(<string(gstr1)>, ,1)>. <if(gnum4,La,Lo)> estaba esperando - en cierto modo. Permítame explicarle. ¿Conoce el Marasaja Pit? Es una prisión, aquí en Ul'dah.
+TEXT_JOBBLM300_01073_YAYAKE_000_001	En prisión, un hombre hace casi cualquier cosa por mantener la mente ocupada. Hace poco, uno de los reclusos empezó a asegurar que oye la voz de Nald'thal. Sin duda perdió el juicio tras cumplir cien años de una cadena perpetua.
+TEXT_JOBBLM300_01073_YAYAKE_000_002	Pero sabía su nombre, <split(<string(gstr1)>, ,1)>, y sostiene que los Traders exigen que usted consiga la Gem of Shatotto y la cambie por su libertad.
+TEXT_JOBBLM300_01073_YAYAKE_000_003	Una farsa, sin duda. No veo en ello más que los desvaríos de un chiflado<-->de<-->celda con los dientes sudados. Pero me temo que la única forma de estar seguros es sacarlo del Pit.
+TEXT_JOBBLM300_01073_YAYAKE_000_004	El prisionero se llama Ququruka Tataruka y, como si su historia no bastara para probar su locura, también se hace llamar black mage.
+TEXT_JOBBLM300_01073_YAYAKE_000_005	Pero esa magia se perdió en Eorzea hace siglos. ¿A quién cree que va a engañar este charlatán senil con semejantes tonterías?
+TEXT_JOBBLM300_01073_YAYAKE_000_006	\<suspiro> Aun así, invocó el nombre de Nald'thal, y a la Order le parece imprudente ignorar sus palabras. Yo sigo sin creerle, pero usted vino, tal como él dijo.
+TEXT_JOBBLM300_01073_YAYAKE_000_007	Así que lleguemos al fondo de esto, ¿le parece? Quizá sea usted <if(gnum4,una enviada,un enviado)> del destino, o quizá no sea más que cómplice de un viejo embustero.
+TEXT_JOBBLM300_01073_YAYAKE_000_008	Sea como sea, le pido que viaje a Highbridge, en Eastern Thanalan. Busque la fisura entre planos - una grieta entre este mundo y el otro. Derribe a las bestias que acechen allí y riegue la tierra con su sangre.
+TEXT_JOBBLM300_01073_YAYAKE_000_009	Según nuestro farsante encarcelado, eso hará aparecer la Gem of Shatotto.
+TEXT_JOBBLM300_01073_YAYAKE_000_010	La gema no es más que una piedra bonita que sale a menudo en los cuentos para dormir y en las historias de hadas. Veremos si de verdad existe.
+TEXT_JOBBLM300_01073_YAYAKE_000_011	Esperaré aquí lo que descubra. Vuelva conmigo cuando haya terminado.
+TEXT_JOBBLM300_01073_KAZAGGCHAH_000_050	(-???-)<head(<sheet(ClassJob,gnum68,0)>)>, escúchame.
+TEXT_JOBBLM300_01073_KAZAGGCHAH_000_051	Baja el arma, <if(gnum4,amiga,amigo)>. Kazagg Chah no quiere hacerte daño.
+TEXT_JOBBLM300_01073_KAZAGGCHAH_000_052	Así que tú eres de quien habla la profecía de Ququruka.
+TEXT_JOBBLM300_01073_KAZAGGCHAH_000_053	Fue tu mano la que derramó la sangre de estas criaturas sobre esta vena de la tierra, ¿no es así?
+TEXT_JOBBLM300_01073_KAZAGGCHAH_000_054	Entonces te ganaste esta Gem of Shatotto. Tómala. Sabrás qué hacer con ella cuando llegue el momento.
+TEXT_JOBBLM300_01073_KAZAGGCHAH_000_055	Con esto, mi parte está hecha. Adiós, por ahora.
+TEXT_JOBBLM300_01073_YAYAKE_000_080	Bueno, desde luego <italic(1)>huele<italic(0)> como si hubiera andado derramando sangre. Pero hará falta más que una vaharada de pestilencia para convencerme de que es usted <if(gnum4,una enviada,un enviado)> de la voluntad divina. ¿Supongo que fue un viaje movido?
+TEXT_JOBBLM300_01073_YAYAKE_000_081	\<jadeo> ¡E-Es exactamente como la describen los cuentos! ¿De verdad será...? ¿La Gem of Shatotto?
+TEXT_JOBBLM300_01073_YAYAKE_000_082	¡Por los Twelve, puedo <italic(1)>sentir<italic(0)> la magia latiendo en su interior!
+TEXT_JOBBLM300_01073_YAYAKE_000_083	Los cuentos dicen que solo a las almas bendecidas por la gracia de Nald'thal se les confía la custodia de la gema.
+TEXT_JOBBLM300_01073_YAYAKE_000_084	Esto va más allá de una simple coincidencia. Debo investigar más a fondo.
+TEXT_JOBBLM300_01073_YAYAKE_000_085	Y usted debe ayudarme, <split(<string(gstr1)>, ,1)>. Ahora esto le concierne tanto como a cualquiera.
+TEXT_JOBBLM300_01073_YAYAKE_000_086	Aun así, no puedo callar a la escéptica que llevo dentro. Si Ququruka logró de algún modo comunicarse con el exterior, quizá esté manipulando a aventureros como usted con fines que aún desconocemos.
+TEXT_JOBBLM300_01073_YAYAKE_000_087	Convocaré a una reunión de emergencia de la Order. Por favor, espere aquí.
+TEXT_JOBBLM300_01073_QUQURUKA_000_088	(-???-)No será necesario.
+TEXT_JOBBLM300_01073_YAYAKE_000_089	¡¿Ququruka?! ¿Qué hace usted aquí? ¿Cómo escapó del Pit?
+TEXT_JOBBLM300_01073_LALAI_000_090	¡Cuida tu lengua, insolente! El Maestro pasó un siglo meditando en comunión con Nald'thal. ¡Le hablarás con el debido respeto!
+TEXT_JOBBLM300_01073_QUQURUKA_000_091	Los carceleros del Marasaja Pit son muy distintos de los herejes de tu Order. Basta decir que tuvieron la sabiduría de escuchar.
+TEXT_JOBBLM300_01073_QUQURUKA_000_092	¿Debo recordártelo otra vez? La voluntad que proclamo es la del mismísimo Nald'thal. El verdadero criminal es quien ignora las palabras de un dios.
+TEXT_JOBBLM300_01073_YAYAKE_000_093	Tenga cuidado, Ququruka. Los Twelve rara vez perdonan a quienes dicen hablar con Su voz. Esta farsa nos traerá el desastre a todos.
+TEXT_JOBBLM300_01073_QUQURUKA_000_094	La causa del desastre que viene no serán mis palabras - de eso puedes estar segura.
+TEXT_JOBBLM300_01073_QUQURUKA_000_095	Nald'thal me habló. Por Su propia declaración, el sello de la puerta del vacío <italic(1)>se romperá<italic(0)>.
+TEXT_JOBBLM300_01073_QUQURUKA_000_096	Una vez abierta, nadie podrá cerrarla de nuevo salvo <if(gnum4,aquella,aquel)> que porte la Gem of Shatotto.
+TEXT_JOBBLM300_01073_QUQURUKA_000_097	Hablo de ti, <string(gstr1)>.
+TEXT_JOBBLM300_01073_QUQURUKA_000_098	La gema que sostienes es la marca de quien practica la magia negra. Con ella en mano, debes partir ahora a reunir las llaves necesarias para sellar la puerta del vacío.
+TEXT_JOBBLM300_01073_YAYAKE_000_099	¡Espere! No puede - Quiero decir, no tiene derecho a - ¡N-No puedo permitir que esto pase!
+TEXT_JOBBLM300_01073_QUQURUKA_000_100	¡Silencio, mocosa engreída y cabeza hueca! ¡Quien no escucha no será escuchado!
+TEXT_JOBBLM300_01073_QUQURUKA_000_101	Te atribuyes el título de thaumaturge, así que no toleraré que finjas ignorancia. Sabes como cualquiera que existe un inframundo plagado de sombras y monstruosidades - el vacío.
+TEXT_JOBBLM300_01073_QUQURUKA_000_102	A medida que el poder del vacío crece, la barrera entre él y nuestro mundo se debilita. Tarde o temprano, esa barrera cederá y la puerta del vacío se abrirá.
+TEXT_JOBBLM300_01073_QUQURUKA_000_103	Cuando eso pase, solo la magia negra de antaño podrá volver a sellarla.
+TEXT_JOBBLM300_01073_YAYAKE_000_104	Esto... ¡Esto es un sacrilegio!
+TEXT_JOBBLM300_01073_QUQURUKA_000_105	Como quien ahora domina las fuerzas de la destrucción, te ordeno que partas, <italic(1)>black mage<italic(0)>.
+TEXT_JOBBLM300_01073_QUQURUKA_000_106	La Gem of Shatotto es nuestro emblema - la marca de los magos consagrados al verdadero arte oscuro. En ella ya tienes la primera llave para ver sellada la puerta del vacío.
+TEXT_JOBBLM300_01073_QUQURUKA_000_108	Tomaste el negro, pero hace falta tiempo para que el negro te tome a ti - para que impregne tu mente y tu cuerpo, y tiña cada fibra de tu ser oscura como la brea.
+TEXT_JOBBLM300_01073_QUQURUKA_000_109	Visita Milvaneth Sacrarium y escucha allí las palabras de Lalai.
+TEXT_JOBBLM300_01073_QUQURUKA_000_110	No temas el poder de destruir. Domínalo, y con él destruye aquello que quiera destruirte.
+TEXT_JOBBLM300_01073_LALAI_000_111	El Maestro está meditando en sus aposentos. Porque Nald'thal siempre habla, y el Maestro debe escuchar. Me confió la tarea de <if(gnum4,guiarla,guiarlo)> por su camino - pero por ahora debe recorrerlo <if(gnum4,sola,solo)>. Vuelva cuando el negro se haya fortalecido en usted.
+TEXT_JOBBLM300_01073_SYSTEM_000_111	La siguiente misión de black mage estará disponible con Lalai al llegar al nivel 35.
+TEXT_JOBBLM300_01073_POP_MESSAGE	¡Sientes una presencia hostil!
+TEXT_JOBBLM300_01073_SYSTEM_000_120	¡Desbloqueaste un nuevo job! Puedes cambiar a este job cuando quieras equipando el soul crystal que recibiste en esta misión.
+TEXT_JOBBLM300_01073_SYSTEM_000_121	Al cambiar de job, los <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipo. Así puedes cambiar de job al instante, sin equipar a mano armas ni equipo.
+TEXT_JOBBLM300_01073_SYSTEM_000_122	El botón de la interfaz Gear Set está en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)>.

@@ -8,7 +8,7 @@ TEXT_CLSCNJ006_00441_SEQ_05	Pese a tus esfuerzos, Sylphie está segura de que el
 TEXT_CLSCNJ006_00441_SEQ_06	Purificaste una tercera parcela de tierra corrompida. Pregúntale a Sylphie si ya terminaron su trabajo en el bosque.
 TEXT_CLSCNJ006_00441_SEQ_07	Para tu inquietud, Sylphie insiste en que todavía queda un foco de corrupción aún mayor... Sigue a la joven conjurer hacia el sureste.
 TEXT_CLSCNJ006_00441_SEQ_08	Venciste a Akoman. Vuelve a Stillglade Fane e informa a Brother E<-->Sumi<-->Yan.
-TEXT_CLSCNJ006_00441_SEQ_09	Por fin, Sylphie sintió el abrazo de la naturaleza y está lista para seguir sola el camino de la conjury. Al ver que tus experiencias junto a la joven conjurer también profundizaron tu comprensión del arte, Brother E<-->Sumi te recompensa con el poderoso hechizo de curación Cure II. Aunque tu formación con el maestro del gremio llegó a su fin, tu viaje como conjurer sigue adelante.
+TEXT_CLSCNJ006_00441_SEQ_09	Por fin, Sylphie sintió el abrazo de la naturaleza y está lista para seguir sola el camino de la conjuración. Al ver que tus experiencias junto a la joven conjurer también profundizaron tu comprensión del arte, Brother E<-->Sumi te recompensa con el poderoso hechizo de curación Cure II. Aunque tu formación con el maestro del gremio llegó a su fin, tu viaje como conjurer sigue adelante.
 TEXT_CLSCNJ006_00441_TODO_00	Investiga la corrupción en South Shroud.
 TEXT_CLSCNJ006_00441_TODO_01	Habla con Sylphie.
 TEXT_CLSCNJ006_00441_TODO_02	Investiga la alteración.
@@ -33,7 +33,7 @@ TEXT_CLSCNJ006_00441_ESUMIYAN_000_8	¿Flojas? Sylphie, todavía no dominas ni un
 TEXT_CLSCNJ006_00441_SYLPHIE_000_9	...¿Entonces me tengo que quedar aquí?
 TEXT_CLSCNJ006_00441_ESUMIYAN_000_10	No necesariamente...
 TEXT_CLSCNJ006_00441_ESUMIYAN_000_11	<split(<string(gstr1)>, ,1)>, si usted está de acuerdo, quisiera que Sylphie l<if(gnum4,a,o)> acompañe otra vez.
-TEXT_CLSCNJ006_00441_ESUMIYAN_000_12	No propongo este arreglo pensando solo en su seguridad. Dada la naturaleza de la investigación, es probable que el talento innato de Sylphie para oír a los elementales le sea tan útil a usted como su conjury a ella. <if(gnum4,Juntas,Juntos)> podrían lograr mucho.
+TEXT_CLSCNJ006_00441_ESUMIYAN_000_12	No propongo este arreglo pensando solo en su seguridad. Dada la naturaleza de la investigación, es probable que el talento innato de Sylphie para oír a los elementales le sea tan útil a usted como su conjuración a ella. <if(gnum4,Juntas,Juntos)> podrían lograr mucho.
 TEXT_CLSCNJ006_00441_ESUMIYAN_000_13	Sylphie - no te acerques a ningún foco de corrupción sin <split(<string(gstr1)>, ,1)> a tu lado. ¿Fui claro?
 TEXT_CLSCNJ006_00441_ESUMIYAN_000_14	Y si llegan a encontrar el origen de estas alteraciones, <italic(1)>no<italic(0)> empiecen un enfrentamiento. Demasiadas veces dejas que la curiosidad le gane a tu sentido común. Ahora vayan, y que los elementales <if(gnum4,las,los)> protejan.
 TEXT_CLSCNJ006_00441_SYLPHIE_000_15	Yo... Sí, Guildmaster.

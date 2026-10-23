@@ -1,0 +1,67 @@
+key	text
+TEXT_JOBBLM520_01679_SEQ_00	Lalai consiguió nueva información sobre el Book of Thal desaparecido.
+TEXT_JOBBLM520_01679_SEQ_01	Las pruebas indican que quien robó el Book of Thal pretende aprovechar los secretos que guarda, lo que lleva a Lalai a concluir que el ladrón es un black mage. Sospecha que esa persona pudo intentar contactar a otros black mages, en concreto a tus tres amigos de las beast tribes. Ve a Burgundy Falls, en Eastern Thanalan, y pregúntale a Kazagg Chah si tuvo visitas extrañas últimamente.
+TEXT_JOBBLM520_01679_SEQ_02	Kazagg Chah te cuenta que hace muy poco lo atacó un hombre de túnica que usaba magia negra. ¿Será la persona que buscas? Según el Amalj'aa, el atacante no puede haber ido lejos. Búscalo por los alrededores.
+TEXT_JOBBLM520_01679_SEQ_03	Encontraste a un hombre de túnica, pero niega rotundamente ser quien atacó a Kazagg Chah. Te propone que vayan los dos a visitar al Amalj'aa para aclarar el asunto.
+TEXT_JOBBLM520_01679_SEQ_04	A Kazagg Chah le basta una mirada para confirmar que el hombre de túnica no es su agresor. El hombre se presenta como Zhai'a Nelhah, Oidor de Gridania, y te cuenta que el Seedseer Council lo envió a buscar a cierto black mage. Al enterarse del Book of Thal, Zhai'a Nelhah cree que Lalai podría darle información útil y decide visitarla. Vuelve a Milvaneth Sacrarium, en Ul'dah, y asiste a la reunión.
+TEXT_JOBBLM520_01679_SEQ_05	Muy inquieto, Zhai'a Nelhah explica que el hombre al que persigue, Waldeve, dirige una secta de black mages perversos. Waldeve fue conjurer de Stillglade Fane, pero abandonó el arte de la curación para saciar su sed de poder. Parece evidente que él es el ladrón del Book of Thal, y que con el libro pretende desatar una destrucción indescriptible. Aunque sus ideas chocan por completo, para evitar el desastre, Zhai'a Nelhah y Lalai se resignan a trabajar juntos. Cuando el Oidor se va, Lalai te enseña un hechizo nuevo - Ley Lines - que descifró del Book of Nald. Te pide que te apliques a dominarlo y promete avisarte si hay novedades.<br><br>※La siguiente misión de black mage estará disponible con Lalai al llegar al nivel 54.
+TEXT_JOBBLM520_01679_TODO_00	Habla con Kazagg Chah en Burgundy Falls.
+TEXT_JOBBLM520_01679_TODO_01	Encuentra al hombre de túnica.
+TEXT_JOBBLM520_01679_TODO_02	Habla con Kazagg Chah.
+TEXT_JOBBLM520_01679_TODO_03	Habla con Lalai en Milvaneth Sacrarium.
+TEXT_JOBBLM520_01679_LALAI_000_000	Ah, <split(<string(gstr1)>, ,1)>, llega en el momento más oportuno. Hay una tarea que quisiera encargarle.
+TEXT_JOBBLM520_01679_LALAI_000_001	En mi búsqueda del Book of Thal, recurrí a todos mis contactos en el mundo del comercio. El libro no apareció en el mercado negro, ni fue a parar a ninguna colección privada.
+TEXT_JOBBLM520_01679_LALAI_000_002	Eso nos dice que el ladrón no intentó venderlo. Si además tenemos en cuenta que logró abrir un cofre sellado con magia, podemos suponer sin temor que el sospechoso es un mago y que su interés en el libro es personal.
+TEXT_JOBBLM520_01679_LALAI_000_003	Sea como sea que esa persona se enteró de la existencia de la magia negra, parece claro que busca descifrar los secretos del libro. Con qué fin, es pronto para decirlo, pero al menos ahora tenemos una pista.
+TEXT_JOBBLM520_01679_LALAI_000_004	Son muy pocos los que comparten nuestro saber sobre la magia negra: sus tres amigos de las beast tribes que estuvieron presentes cuando el Maestro Ququruka exhaló su último aliento. Quizá alguno de ellos sepa quién es el ladrón.
+TEXT_JOBBLM520_01679_LALAI_000_005	Empiece sus averiguaciones en Burgundy Falls, <split(<string(gstr1)>, ,1)>. Averigüe si Kazagg Chah recibió visitas sospechosas últimamente.
+TEXT_JOBBLM520_01679_LALAI_000_006	Quizá alguno de sus tres amigos de las beast tribes sepa algo del ladrón. Empiece sus averiguaciones en Burgundy Falls, <split(<string(gstr1)>, ,1)>. Averigüe si Kazagg Chah recibió visitas sospechosas últimamente.
+TEXT_JOBBLM520_01679_KAZAGGCHAH_000_010	<split(<string(gstr1)>, ,1)>. Me alegra verte de nuevo, <if(gnum4,amiga,amigo)> mío. ¿Qué te trae por aquí hoy?
+TEXT_JOBBLM520_01679_KAZAGGCHAH_100_010	Que existan tales libros... Pero, para responder a tu pregunta, sí, me visitó un hombre sospechoso, y hace muy poco. Aunque "visitar" no describe bien cómo fue nuestro encuentro.
+TEXT_JOBBLM520_01679_KAZAGGCHAH_000_011	Hace menos de una campanada, se presentó ante mí un hombre de túnica. "Únete a mí", dijo, "¡y juntos dominaremos las artes oscuras!". Una oferta dudosa, que naturalmente rechacé. ¡Pero en cuanto salieron de mi boca esas palabras, me lanzó una lluvia de hechizos!
+TEXT_JOBBLM520_01679_KAZAGGCHAH_000_012	Aunque me cueste creerlo, juraría que los hechizos que usaba eran magia negra.
+TEXT_JOBBLM520_01679_KAZAGGCHAH_000_013	Rechacé sus ataques y respondí con hechizos propios, y él se dio vuelta y huyó enseguida. Todo esto pasó hace un rato. No puede haber ido lejos.
+TEXT_JOBBLM520_01679_KAZAGGCHAH_000_014	Si piensas enfrentarlo, harías bien en tener cuidado. Aunque solo él se me acercó, sentí la presencia de otros.
+TEXT_JOBBLM520_01679_KAZAGGCHAH_000_015	El hombre de túnica que me atacó seguramente sigue cerca. Si piensas enfrentarlo, harías bien en tener cuidado. No está solo.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_020	¿Hm? ¿Qué quieres? ...Espera. Esta aura.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_021	¡Sí, no hay duda! ¡Eres black mage, y me vas a llevar hasta <italic(1)>él<italic(0)>! Ahora habla... ¡o te haré desear haberlo hecho!
+TEXT_JOBBLM520_01679_Q1_000_000	¿Qué respondes?
+TEXT_JOBBLM520_01679_A1_000_001	¿Pero no eres <italic(1)>tú<italic(0)> el black mage?
+TEXT_JOBBLM520_01679_A1_000_002	No tengo idea de quién hablas.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_030	¿Yo? ¿Un black mage? ¡Qué cosa más ridícula! Hmmm, quizá no seas uno de ellos, después de todo...
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_040	Hmmm, tu confusión parece sincera. Quizá de verdad no lo sepas...
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_050	Me temo que hubo un malentendido. Yo no soy el villano que atacó al Amalj'aa, y tampoco parece que tú estés aliado con él.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_051	Veo que no te inclinas a creerme. Bueno, la verdad de mis palabras es fácil de comprobar. Vamos juntos a Burgundy Falls a ver a tu amigo. De todos modos quería hablar con él.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_060	Vamos juntos a Burgundy Falls a ver a tu amigo. Él podrá confirmar que digo la verdad.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_070	Hay un malentendido que quiero aclarar. Nos vemos por primera vez, y eso solo debería bastar para zanjar el asunto, pero por formalidad, responde esta pregunta, por favor: ¿soy yo el hombre que te atacó?
+TEXT_JOBBLM520_01679_KAZAGGCHAH_000_071	No, no lo eres. Te pareces poco al villano.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_072	Ahora que el asunto quedó atrás, permíteme presentarme. Soy el Oidor Zhai'a Nelhah, del Conjurers' Guild de Gridania.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_073	El Seedseer Council me envió a encontrar a un hombre que usa magia negra, el arte prohibido de la destrucción.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_074	Su rastro me trajo a esta zona, donde por casualidad lo vi atacar a tu amigo Amalj'aa. Por desgracia, el villano se retiró a toda prisa y lo perdí de vista en la confusión. Poco después te acercaste a mí.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_075	Quizá no tengas relación con el hombre que busco, pero practicas las artes oscuras de todos modos. El aura te delata, así que ni se te ocurra negarlo. Tú también tendrás que responder ante la justicia.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_076	¿Los Books of Nald'thal? Que la Matron nos proteja... No sabía que existieran libros tan terribles...
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_077	Esa mujer, Lalai - quizá sepa algo útil. Iré a visitarla... y espero que tú también estés allí.
+TEXT_JOBBLM520_01679_KAZAGGCHAH_000_078	Supongo que piensas seguir buscando al misterioso black mage. Aunque dudo que su habilidad esté a la altura de la tuya, demostró ser impredecible y peligroso a la vez. Mantente alerta.
+TEXT_JOBBLM520_01679_KAZAGGCHAH_000_079	Iré a ver a Da Za y a Dozol Meloc para ponerlos al tanto de la situación. Por ahora, harías bien en volver con Lalai.
+TEXT_JOBBLM520_01679_KAZAGGCHAH_000_080	Pondré al tanto de la situación a Da Za y a Dozol Meloc. Te ruego que vuelvas con Lalai.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_090	Por los dioses... Es como si no tuviera oídos para escuchar...
+TEXT_JOBBLM520_01679_LALAI_000_100	¡Gracias a Thal que volvió! ¡Este hombre, al que nunca había visto, subió hasta aquí y empezó a reprenderme por meterme con artes prohibidas! ¡Tuvo el descaro de llamarme tonta - <italic(1)>tres veces<italic(0)>!
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_101	¡Sí, y lo vuelvo a decir: eres una tonta! ¡Pero el más tonto de todos fue tu maestro Ququruka!
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_102	¡Por su culpa estos malhechores andan sueltos haciendo de las suyas!
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_103	\<suspiro> Empecemos de nuevo. Sé lo del Book of Thal... y sé quiénes se lo llevaron. Se hacen llamar los "Defiant", y su único objetivo es dominar el arte de la destrucción.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_104	El hombre al que me encargaron encontrar es su líder. Se llama Waldeve... y antes era conjurer de Stillglade Fane.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_105	Ese hombre tenía una profunda sed de poder - de poder sobre aquellos a quienes había jurado proteger. Para saciar ese deseo, empezó a meterse en las artes oscuras.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_106	Pero al poco tiempo el gremio se enteró de lo que hacía y lo expulsó sin más. Al irse, eso sí, declaró que algún día le mostraría al mundo el verdadero poder de la magia negra.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_107	Durante años no supimos nada de Waldeve. Algunos nos atrevimos a esperar que sus palabras se las llevara el viento. Por desgracia, volvió, y eso solo puede significar una cosa: está listo para cumplir su promesa.
+TEXT_JOBBLM520_01679_LALAI_000_108	Por los dioses... ¿E-Está seguro de esto? ¿De que fue Waldeve quien se llevó el libro?
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_109	Me temo que sí. No es casualidad que el libro desapareciera justo cuando ese hombre reapareció. Incluso ahora sigue instruyendo a sus secuaces en la magia negra, y cada día que pasa la secta se vuelve una amenaza mayor. Si vamos a actuar contra ellos, tiene que ser ahora.
+TEXT_JOBBLM520_01679_LALAI_000_110	Había supuesto que nos enfrentábamos a un mago solitario. Pero si es toda una secta, como dice, tendré que replantear mis planes.
+TEXT_JOBBLM520_01679_LALAI_000_111	<split(<string(gstr1)>, ,1)>, mientras usted investigaba, logré descifrar un hechizo nuevo del Book of Nald. Debería serle útil en las batallas que vienen. ¡Se lo enseñaré ahora mismo!
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_112	¡¿Qué?! ¡¿Piensan combatir la destrucción con <italic(1)>más<italic(0)> destrucción?! ¡Te digo que esto solo puede terminar en tragedia!
+TEXT_JOBBLM520_01679_LALAI_000_113	¡Escúcheme, Oidor! Waldeve y su secta serán una amenaza para el reino, pero <split(<string(gstr1)>, ,1)> no se parece en nada a ellos. El <italic(1)>propio<italic(0)> Maestro Ququruka le confió su legado. No usará mal su poder para causar una masacre - le doy mi palabra.
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_114	No puedo creer lo que oigo... ¡Si la situación no fuera tan grave, te llevaría ante la justicia sin dudarlo un instante!
+TEXT_JOBBLM520_01679_ZHAIANELHAH_000_115	Por suerte para ti, se cierne sobre todos nosotros una amenaza mayor, y tenemos que cooperar si queremos evitar el desastre. Tus contactos ya demostraron ser útiles, y pueden volver a serlo. Si te enteras de algo por ellos, te agradeceré que me avises, ¡pero sabe que no toleraré ninguna intromisión en mi investigación!
+TEXT_JOBBLM520_01679_LALAI_000_116	¡Por los dioses! ¡Qué idiota tan irritante, ignorante e insufrible! ¡Y pensar que tenemos que cooperar con él!
+TEXT_JOBBLM520_01679_LALAI_000_117	No haga caso de lo que masculla ese engreído. Nos prepararemos para la tormenta que se avecina a nuestra manera.
+TEXT_JOBBLM520_01679_LALAI_000_118	Bueno, ¿en qué estábamos? Ah, sí, el hechizo nuevo. Se llama Ley Lines, y será un poderoso añadido a su arsenal. Mientras usted lo domina, seguiré averiguando sobre la situación. Si hay novedades, será la primera persona en saberlo.
+TEXT_JOBBLM520_01679_SYSTEM_000_119	La siguiente misión de black mage estará disponible con Lalai al llegar al nivel 54.

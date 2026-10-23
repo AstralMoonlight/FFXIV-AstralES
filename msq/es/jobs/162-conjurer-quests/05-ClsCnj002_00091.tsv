@@ -3,10 +3,10 @@ TEXT_CLSCNJ002_00091_SEQ_00	Brother E<-->Sumi<-->Yan quiere que aprendas sobre e
 TEXT_CLSCNJ002_00091_SEQ_01	Con el deseo de que aprendas sobre el elemento viento, Brother E<-->Sumi<-->Yan te manda a Fullflower Comb, en East Shroud, a recibir las enseñanzas de la Oidora Wulfiue.
 TEXT_CLSCNJ002_00091_SEQ_02	La Oidora Wulfiue te encargó exterminar un enjambre de abejas. Aunque no ves enseguida qué tiene que ver la tarea, no te queda más remedio que hacer lo que te dicen. Ve al este de Sweetbloom Pier e investiga el manantial.
 TEXT_CLSCNJ002_00091_SEQ_03	Venciste a las abejas del manantial. Vuelve con la Oidora Wulfiue.
-TEXT_CLSCNJ002_00091_SEQ_04	Wulfiue te explica que las abejas estaban allí por una alteración en las corrientes naturales del viento. Vuelve al manantial cerca de Sweetbloom Pier, encuentra el origen de la alteración y purifícalo con la conjury.
+TEXT_CLSCNJ002_00091_SEQ_04	Wulfiue te explica que las abejas estaban allí por una alteración en las corrientes naturales del viento. Vuelve al manantial cerca de Sweetbloom Pier, encuentra el origen de la alteración y purifícalo con la conjuración.
 TEXT_CLSCNJ002_00091_SEQ_05	Dispersaste el foco de aire corrompido. Vuelve a Fullflower Comb e informa a Wulfiue.
 TEXT_CLSCNJ002_00091_SEQ_06	Wulfiue te transmitió lo que sabe del elemento viento. Vuelve a Stillglade Fane y cuéntale tus avances a Brother E<-->Sumi<-->Yan.
-TEXT_CLSCNJ002_00091_SEQ_07	De vuelta en el Conjurers' Guild, Brother E<-->Sumi<-->Yan se alegra de que hayas aprendido a oír la voz del viento. Pero una vez más, la joven conjurer Sylphie interrumpe tus estudios. Como siempre, no tiene ningún deseo de comprender mejor la naturaleza y se niega a escuchar los consejos del maestro. Tú, en cambio, te tomas a pecho las palabras del Padjal y, con el poder de la tierra y el viento a tu mando, sigues tu camino para dominar la conjury.<br><br>※La siguiente misión de conjurer estará disponible con E<-->Sumi<-->Yan al llegar al nivel 15.
+TEXT_CLSCNJ002_00091_SEQ_07	De vuelta en el Conjurers' Guild, Brother E<-->Sumi<-->Yan se alegra de que hayas aprendido a oír la voz del viento. Pero una vez más, la joven conjurer Sylphie interrumpe tus estudios. Como siempre, no tiene ningún deseo de comprender mejor la naturaleza y se niega a escuchar los consejos del maestro. Tú, en cambio, te tomas a pecho las palabras del Padjal y, con el poder de la tierra y el viento a tu mando, sigues tu camino para dominar la conjuración.<br><br>※La siguiente misión de conjurer estará disponible con E<-->Sumi<-->Yan al llegar al nivel 15.
 TEXT_CLSCNJ002_00091_TODO_00	Habla con Wulfiue en Fullflower Comb.
 TEXT_CLSCNJ002_00091_TODO_01	Investiga el manantial cerca de Sweetbloom Pier.
 TEXT_CLSCNJ002_00091_TODO_02	Habla con Wulfiue en Fullflower Comb.
@@ -26,7 +26,7 @@ TEXT_CLSCNJ002_00091_WULFIUE_000_21	Bienvenid<if(gnum4,a,o)> de vuelta. ¿Supong
 TEXT_CLSCNJ002_00091_WULFIUE_000_22	Dígame, ¿vio muchas de las flores que prefieren esas alimañas cerca del manantial? Se lo pregunto porque no había ninguna. Qué extraño, entonces, que las abejas decidieran reunirse allí, ¿no?
 TEXT_CLSCNJ002_00091_WULFIUE_000_23	¿Y qué causó esa conducta anormal? Calme su mente y extienda sus sentidos. ¿Lo siente? El viento se desvía de su curso natural y arrastra consigo a las pobres criaturas.
 TEXT_CLSCNJ002_00091_WULFIUE_000_24	Algo está alterando las corrientes de aire. Una alteración así delata la corrupción.
-TEXT_CLSCNJ002_00091_WULFIUE_000_25	Vuelva al manantial cerca de Sweetbloom Pier y busque focos de aire corrompido. Si encuentra uno, use sus poderes de conjury para dispersarlo.
+TEXT_CLSCNJ002_00091_WULFIUE_000_25	Vuelva al manantial cerca de Sweetbloom Pier y busque focos de aire corrompido. Si encuentra uno, use sus poderes de conjuración para dispersarlo.
 TEXT_CLSCNJ002_00091_WULFIUE_000_28	Bien hecho.<br>El viento ya no gime de frustración.
 TEXT_CLSCNJ002_00091_WULFIUE_000_29	Volvamos a Fullflower.
 TEXT_CLSCNJ002_00091_WULFIUE_000_31	Debo disculparme por exponerl<if(gnum4,a,o)> a tanto peligro - la corrupción era mayor de lo que esperaba. Pero es con pruebas así que crecemos como conjurers.
@@ -38,15 +38,15 @@ TEXT_CLSCNJ002_00091_WULFIUE_000_36	Hmmm... Supongo que debería agradecer que e
 TEXT_CLSCNJ002_00091_WULFIUE_000_37	Es cierto que la Calamidad hizo mucho daño al Twelveswood, pero sospecho que aquí actúa alguna otra fuerza. Le pido que se mantenga alerta, <split(<string(gstr1)>, ,1)>.
 TEXT_CLSCNJ002_00091_WULFIUE_000_38	Pero basta de presagios sombríos. Lamento decirle que su tiempo conmigo llegó a su fin. Vuelva a Stillglade Fane y cuéntele a Brother E<-->Sumi su nuevo dominio.<br>...¡Ah, y no olvide agradecerle por mandarme <if(gnum4,una primera alumna tan dispuesta,un primer alumno tan dispuesto)>!
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_51	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. Los elementales me cuentan que abrió sus oídos a la voz del viento. Me alegra.
-TEXT_CLSCNJ002_00091_ESUMIYAN_000_52	Ahora que se ganó la alianza de dos elementos, avanza con paso firme por el camino de la conjury - aunque solo comprenderá del todo esas fuerzas con el paso del tiempo.
+TEXT_CLSCNJ002_00091_ESUMIYAN_000_52	Ahora que se ganó la alianza de dos elementos, avanza con paso firme por el camino de la conjuración - aunque solo comprenderá del todo esas fuerzas con el paso del tiempo.
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_53	Tenga paciencia. Cuanto más se esfuerce por abrazar a la naturaleza, más estrechamente l<if(gnum4,a,o)> abrazará ella.
 TEXT_CLSCNJ002_00091_SYLPHIE_000_54	¿Te hicieron estudiar el <italic(1)>viento<italic(0)>? ¿Para qué?
 TEXT_CLSCNJ002_00091_SYLPHIE_000_55	No necesitas el viento para curar, digan lo que digan esas lecciones aburridas.
-TEXT_CLSCNJ002_00091_ESUMIYAN_000_56	La conjury está ligada sin remedio a la naturaleza, Sylphie. Esa "lección aburrida" ya deberías haberla aprendido.
+TEXT_CLSCNJ002_00091_ESUMIYAN_000_56	La conjuración está ligada sin remedio a la naturaleza, Sylphie. Esa "lección aburrida" ya deberías haberla aprendido.
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_57	Si estás aquí, supongo que otra vez abandonaste a tus tutores, ¿no?
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_58	<italic(1)>Tienes<italic(0)> que entenderlo: si sigues lanzando hechizos sin el conocimiento adecuado-
 TEXT_CLSCNJ002_00091_SYLPHIE_000_59	¡Tengo todo el conocimiento que necesito! Mi mamá nunca tuvo que "abrazar a la naturaleza" para curar. ¡Y la gente a la que ayudaba le agradecía su arte!
-TEXT_CLSCNJ002_00091_SYLPHIE_000_60	Voy a aprender conjury igual que ella, y voy a ser una conjurer tan grande como ella, ya vas a ver.
+TEXT_CLSCNJ002_00091_SYLPHIE_000_60	Voy a aprender conjuración igual que ella, y voy a ser una conjurer tan grande como ella, ya vas a ver.
 TEXT_CLSCNJ002_00091_SYLPHIE_000_61	Pero no vine a discutir contigo, Brother E<-->Sumi. ¡Quería contarte que descubrí cómo lanzar Raise!
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_62	¿Cómo-? ¿¡En qué estabas <italic(1)>pensando<italic(0)>, niña!?
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_63	¡No sabes lo que haces - lo que arriesgas! ¡Juegas con fuerzas que están más allá de tu comprensión! ¡Si siquiera <italic(1)>intentas<italic(0)> usar ese hechizo, no tendré más remedio que quitarte el nombre de "conjurer" y expulsarte de nuestras salas! <italic(1)>¿Fui claro?<italic(0)>
@@ -54,7 +54,7 @@ TEXT_CLSCNJ002_00091_SYLPHIE_000_64	¿Por qué tienes que enojarte tanto conmigo
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_65	Pero eso- \<suspiro> Sylphie... mi querida niña... Ese es justamente el problema.
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_66	Le pido disculpas, <split(<string(gstr1)>, ,1)>... Espero que estas interrupciones constantes no l<if(gnum4,a,o)>... distraigan.
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_67	Como acaba de oír, la madre de Sylphie también era conjurer - una conjurer que no podía usar ningún hechizo fuera del ámbito de la curación. Ni hace falta decir que Sylphie quiere imitarla en todo.
-TEXT_CLSCNJ002_00091_ESUMIYAN_000_68	Curar sin depender de las energías de la naturaleza es un talento raro y maravilloso. Pero ese poder no nace de la verdadera conjury.
+TEXT_CLSCNJ002_00091_ESUMIYAN_000_68	Curar sin depender de las energías de la naturaleza es un talento raro y maravilloso. Pero ese poder no nace de la verdadera conjuración.
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_69	Por todo lo que sabemos de nuestro arte, Sylphie no debería poder lanzar Raise. Me estremece pensar qué pasaría si lo intentara.
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_70	Me temo que no ser capaz de ponerla en el buen camino refleja mis propias fallas como maestro...
 TEXT_CLSCNJ002_00091_ESUMIYAN_001_71	Solo me alegra que esas mismas fallas no l<if(gnum4,a,o)> hayan frenado a usted. Sea con mi ayuda o a pesar de ella, creo que llegará a ser <if(gnum4,una gran conjurer,un gran conjurer)>. Ya tiene un gran poder, y tendrá más si persevera en nuestro arte - como espero que lo haga. Pero por mucho que crezca, por poderos<if(gnum4,a,o)> que llegue a ser, recuerde que nuestro poder es <italic(1)>prestado<italic(0)>, no tomado.
@@ -62,7 +62,7 @@ TEXT_CLSCNJ002_00091_ESUMIYAN_000_71	Antes de que se vaya, quisiera hablarle de 
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_72	Hasta ahora completó tres tareas a mi entera satisfacción. Quisiera reconocer oficialmente su esfuerzo dándole permiso para unirse a los demás gremios.
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_73	En Gridania están los gremios de los lancers, los archers, los leatherworkers, los carpenters y los botanists. Si alguno de esos caminos le atrae, es libre de pedir la entrada en el gremio correspondiente.
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_74	Solo le pido que tenga presente una cosa: el hombre es curioso por naturaleza y tiende a explorar caminos nuevos, pero solo con dedicación puede alcanzar la verdadera iluminación.
-TEXT_CLSCNJ002_00091_ESUMIYAN_000_75	Claro que me complacería más que pusiera la conjury por encima de otras búsquedas.
+TEXT_CLSCNJ002_00091_ESUMIYAN_000_75	Claro que me complacería más que pusiera la conjuración por encima de otras búsquedas.
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_76	Pero sea cual sea el camino que elija, tengo plena confianza en que sus actos honrarán a todos los involucrados.
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_77	Vaya ahora, <split(<string(gstr1)>, ,1)>, en busca de su destino.
 TEXT_CLSCNJ002_00091_ESUMIYAN_000_78	Que la tierra siempre reciba sus pasos, y el viento guíe su camino.
