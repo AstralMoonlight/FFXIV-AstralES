@@ -1,0 +1,81 @@
+key	text
+TEXT_JOBDRK350_02055_SEQ_00	Fray lleva mucho tiempo esperándote.
+TEXT_JOBDRK350_02055_SEQ_01	La voz, dicen algunos, es un faro que guía al dark knight hacia su verdadera vocación. A medida que te acostumbres a recurrir a tu lado oscuro, la oirás con más claridad. Eso te dice Fray cuando le preguntas por la voz. La comunión acelerará el proceso, continúa, pero no se puede realizar en Ishgard. Viaja con Fray a Little Ala Mhigo, en Southern Thanalan.
+TEXT_JOBDRK350_02055_SEQ_02	"Quiero que mates algo por mí", te pide Fray. "Algo temible, que te lleve al límite". Quiere verte florecer en ese momento. Y tú quieres mostrárselo. Gundobald debería conocer alguna criatura adecuada.
+TEXT_JOBDRK350_02055_SEQ_03	Te entristece ver lo débil y complaciente que se volvió Gundobald, y cómo su cobardía se extendió entre su gente. Temen acercarse a las guaridas de unos simples peistes. Pero tú no. Al menos te dio carne de aldgoat como carnada.
+TEXT_JOBDRK350_02055_SEQ_04	Fray se mantiene aparte, esperando a que le muestres quién eres. Busca un lugar adecuado para la carnada.
+TEXT_JOBDRK350_02055_SEQ_05	Sientes su mirada sobre ti, expectante. Hambrienta, como la tuya. ¿Dónde están esos malditos peistes...?
+TEXT_JOBDRK350_02055_SEQ_06	Un peiste muerto yace a tus pies, y te sientes con vida. De algún modo, sabes que Fray sonríe.
+TEXT_JOBDRK350_02055_SEQ_07	Para impartir justicia, hay que ser fuerte: una verdad sencilla que, por supuesto, ya conocías. Estás <if(gnum4,lista,listo)> para la comunión, pero no se realizará aquí. Al sur de Little Ala Mhigo: allí te espera Fray.
+TEXT_JOBDRK350_02055_SEQ_08	Fray te pide que te acerques y empieces el rito de comunión. Cierra los ojos y extiende la mano. Respira hondo por la nariz: deja que el aire te llene los pulmones y luego déjalo salir por los labios. Más lento, más lento...
+TEXT_JOBDRK350_02055_SEQ_09	En el abismo, la voz de un caminante te canta. Siempre en movimiento, sin descanso ni tregua... Aunque todavía no logras entender su significado, Fray te dice que no te desanimes, y agrega que podría pertenecer a alguien a quien estás <if(gnum4,destinada,destinado)> a buscar. Si es así, nadie puede decir cuánto tardarás en encontrarlo... pero la sola idea del viaje despierta algo en tu interior...<br><br>※La siguiente misión de dark knight estará disponible con Fray al llegar al nivel 40.
+TEXT_JOBDRK350_02055_TODO_00	Reúnete con Fray en Little Ala Mhigo.
+TEXT_JOBDRK350_02055_TODO_01	Habla con Gundobald.
+TEXT_JOBDRK350_02055_TODO_02	Habla con Fray en the Red Labyrinth.
+TEXT_JOBDRK350_02055_TODO_03	Pon la carne de aldgoat en the Red Labyrinth.
+TEXT_JOBDRK350_02055_TODO_04	Espera emboscado a un peiste.
+TEXT_JOBDRK350_02055_TODO_05	Habla con Fray.
+TEXT_JOBDRK350_02055_TODO_06	Reúnete con Fray al sur de Little Ala Mhigo.
+TEXT_JOBDRK350_02055_TODO_07	Comulga con Fray.
+TEXT_JOBDRK350_02055_FRAY_000_000	Presentía que vendrías <if([gnum11<12],<if([gnum11<4],esta noche,hoy)>,<if([gnum11<17],hoy,esta noche)>)>, <split(<string(gstr1)>, ,1)>. Y, efectivamente, aquí estás, con ganas de seguir donde lo dejamos.
+TEXT_JOBDRK350_02055_FRAY_000_001	Empecemos con una pregunta, entonces. Debes tener varias después de lo de la última vez.
+TEXT_JOBDRK350_02055_Q1_000_002	¿Qué preguntarás?
+TEXT_JOBDRK350_02055_A1_000_003	¿Qué fue esa voz que oí?
+TEXT_JOBDRK350_02055_A1_000_004	¿Por qué te detuvo la inquisición?
+TEXT_JOBDRK350_02055_A1_000_005	¿Qué fue de la anciana y su nieta?
+TEXT_JOBDRK350_02055_FRAY_000_010	Ah, sí, la voz. La que oíste cuando tocaste el cristal por primera vez. Excelente pregunta, pero difícil de responder.
+TEXT_JOBDRK350_02055_FRAY_000_011	Algunos dicen que es un faro que guía al dark knight hacia su verdadera vocación.
+TEXT_JOBDRK350_02055_FRAY_000_012	¿De quién es, preguntas? Solo tú puedes descubrirlo, porque cada caballero debe escuchar una voz distinta.
+TEXT_JOBDRK350_02055_FRAY_000_013	A medida que te acostumbres a recurrir a tu lado oscuro, la oirás con más claridad.
+TEXT_JOBDRK350_02055_FRAY_000_014	La comunión acelerará el proceso, pero no nos atrevemos a realizar los ritos aquí, bajo la mirada atenta de the Holy See.
+TEXT_JOBDRK350_02055_FRAY_000_015	Iremos a Southern Thanalan. A Little Ala Mhigo.
+TEXT_JOBDRK350_02055_FRAY_000_020	...¿Por qué <italic(1)>crees<italic(0)> que me detuvieron unos Temple Knights fanáticos que ven herejes en cada esquina?
+TEXT_JOBDRK350_02055_FRAY_000_021	Había una muchacha. Una inocente. La querían a ella, y yo me opuse.
+TEXT_JOBDRK350_02055_FRAY_000_022	Ahora bien, ¿estás <if(gnum4,lista,listo)> para dejar de dar vueltas y hacer la pregunta de verdad?
+TEXT_JOBDRK350_02055_FRAY_000_030	Ay, por todos los... Están bien, las dos. Les resolviste todos sus problemas. <if(gnum4,¿Contenta?,¿Contento?)>
+TEXT_JOBDRK350_02055_FRAY_000_031	Ahora bien, ¿estás <if(gnum4,lista,listo)> para dejar de dar vueltas y hacer la pregunta de verdad?
+TEXT_JOBDRK350_02055_FRAY_000_040	Puntual como siempre, ya veo.
+TEXT_JOBDRK350_02055_FRAY_000_041	La comunión, para que no te preocupes, es bastante sencilla. Es un ritual en el que uno alimenta la oscuridad interior para poder canalizarla mejor en batalla.
+TEXT_JOBDRK350_02055_FRAY_000_042	Pero no supongas que los riesgos son menores que antes. Si te excedes, morirás. O algo peor. Así que, antes de empezar, quiero que me hagas un favor.
+TEXT_JOBDRK350_02055_FRAY_000_043	Quiero que mates algo por mí.
+TEXT_JOBDRK350_02055_FRAY_000_044	Algo salvaje, algo temible que te lleve al límite. Quiero verte florecer en ese momento. Así sabré que estás <if(gnum4,lista,listo)>. Pregúntale a Gundobald: debería conocer alguna criatura adecuada.
+TEXT_JOBDRK350_02055_FRAY_000_050	Vamos, terminemos con esto. Sé que no te estás arrepintiendo.
+TEXT_JOBDRK350_02055_GUNDOBALD_000_051	Un placer verte de nuevo, <split(<string(gstr1)>, ,1)>. ¿Necesitas ayuda?
+TEXT_JOBDRK350_02055_GUNDOBALD_000_052	¿Entrenamiento? Bueno, si buscas bestias peligrosas para eso, entonces...
+TEXT_JOBDRK350_02055_GUNDOBALD_000_053	En the Red Labyrinth viven unos peistes conocidos por su tamaño y su vigor.
+TEXT_JOBDRK350_02055_GUNDOBALD_000_054	Nuestros tramperos se esmeran en evitar sus nidos, y los que no lo hacen cargan con las cicatrices de su imprudencia.
+TEXT_JOBDRK350_02055_FRAY_000_055	Me da lástima el hombre que muere sin cicatrices. Pero esos peistes suenan prometedores. Cuéntame más.
+TEXT_JOBDRK350_02055_GUNDOBALD_000_056	...Ya atacaron caravanas cargadas de cadáveres de aldgoat. El olor los enloquece. Esto debería servir para sacarlos de su escondite.
+TEXT_JOBDRK350_02055_GUNDOBALD_000_057	<split(<string(gstr1)>, ,1)>, siempre te estaré agradecido por lo que hiciste. Esos jóvenes estaban a punto de cometer un error terrible, consumidos como estaban por la ira.
+TEXT_JOBDRK350_02055_GUNDOBALD_000_058	Dudé en actuar, aunque la veía arder dentro de ellos... como la veo arder dentro de ti ahora...
+TEXT_JOBDRK350_02055_GUNDOBALD_000_059	¿Tú... tú buscas la oscuridad interior?
+TEXT_JOBDRK350_02055_GUNDOBALD_000_060	No voy a decir que entiendo lo que quieres decir... pero te deseo suerte en tu entrenamiento.
+TEXT_JOBDRK350_02055_FRAY_000_061	Vamos.
+TEXT_JOBDRK350_02055_GUNDOBALD_000_070	Cuídate, <split(<string(gstr1)>, ,1)>. Confío en que sabes lo que haces.
+TEXT_JOBDRK350_02055_FRAY_000_080	Ah, están cerca. Siento sus ojos sobre nosotros...
+TEXT_JOBDRK350_02055_FRAY_000_081	Bien, aquí estamos. Muéstrame quién eres, <split(<string(gstr1)>, ,1)>. Muéstrame lo que puedes hacer.
+TEXT_JOBDRK350_02055_FRAY_000_082	Estoy esperando.
+TEXT_JOBDRK350_02055_FRAY_000_090	Son solo peistes, <split(<string(gstr1)>, ,1)>. No finjas que nunca hiciste esto antes.
+TEXT_JOBDRK350_02055_FRAY_000_100	No fue tan difícil, ¿verdad?
+TEXT_JOBDRK350_02055_FRAY_000_101	Para impartir justicia, para proteger al débil del fuerte y todo eso, <if(gnum4,tú misma,tú mismo)> tienes que ser fuerte.
+TEXT_JOBDRK350_02055_FRAY_000_102	La fuerza es dolor. La fuerza es sufrimiento. La fuerza es sacrificio.
+TEXT_JOBDRK350_02055_FRAY_000_103	Tenemos que prepararnos para la comunión, pero no aquí. Vamos, antes de que el olor atraiga a más peistes.
+TEXT_JOBDRK350_02055_FRAY_000_110	Te ves <if(gnum4,lista,listo)>. Bien. Ahora escucha con atención.
+TEXT_JOBDRK350_02055_FRAY_000_111	Cierra los ojos y extiende la mano hacia mí. Respira hondo por la nariz: deja que el aire te llene los pulmones y luego déjalo salir por los labios. Más lento, más lento...
+TEXT_JOBDRK350_02055_FRAY_000_112	Escucha mi voz. Escucha los latidos de tu corazón. Escucha al otro...
+TEXT_JOBDRK350_02055_SYSTEM_000_120	Con cada respiración te vuelves <if(gnum4,más liviana,más liviano)> y te hundes más en el abismo...
+TEXT_JOBDRK350_02055_FRAY_000_121	(-???-)Un pie... delante del otro... una y otra vez...
+TEXT_JOBDRK350_02055_FRAY_000_122	(-???-)Hasta los confines del mundo... y de vuelta...
+TEXT_JOBDRK350_02055_FRAY_000_123	(-???-)Y si el tiempo no tiene fin... siempre hacia adelante, más allá... una y otra vez...
+TEXT_JOBDRK350_02055_FRAY_000_124	...Y bien. ¿Qué oíste?
+TEXT_JOBDRK350_02055_FRAY_000_125	Interesante... pero no muy revelador.
+TEXT_JOBDRK350_02055_FRAY_000_126	Pero no te desanimes. Que hayas podido oírla otra vez ya es progreso suficiente.
+TEXT_JOBDRK350_02055_FRAY_000_127	Creo que llegarás a entender sus palabras, y su voluntad, a su debido tiempo.
+TEXT_JOBDRK350_02055_FRAY_000_128	...Debo mencionar que, en algunos casos, se dice que la voz es la de otro: alguien a quien el dark knight está destinado a buscar. Si ese es el caso, quizás tengas un largo viaje por delante...
+TEXT_JOBDRK350_02055_FRAY_000_129	Je, ¿así que te alegraría un viaje así?
+TEXT_JOBDRK350_02055_FRAY_000_130	Tiene su encanto... y viajar también, ya que estamos. Andar libre y ayudar a los necesitados...
+TEXT_JOBDRK350_02055_FRAY_000_131	Pero ninguna buena acción queda sin castigo, ¿no?
+TEXT_JOBDRK350_02055_FRAY_000_132	...Una vez conocí a <if(gnum4,una mujer,un hombre)>. Quería ser <if(gnum4,una heroína,un héroe)>, hacer grandes cosas. Y las hizo.
+TEXT_JOBDRK350_02055_FRAY_000_133	Las canciones siempre terminan ahí. Pero la vida no, ¿verdad?
+TEXT_JOBDRK350_02055_FRAY_000_134	...Hay tentaciones más mortales que el lado oscuro, <split(<string(gstr1)>, ,1)>. Ya deberías haberlo aprendido, pero no lo hiciste. Lo harás.
+TEXT_JOBDRK350_02055_FRAY_000_135	La comunión terminó, y con ella, nuestro tiempo juntos. Pero volveremos a vernos, como antes.

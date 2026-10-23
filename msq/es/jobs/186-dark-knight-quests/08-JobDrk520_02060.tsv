@@ -1,0 +1,101 @@
+key	text
+TEXT_JOBDRK520_02060_SEQ_00	Sidurgu quiere pedirle ayuda a otro dark knight.
+TEXT_JOBDRK520_02060_SEQ_01	En su lecho de muerte, el maestro de Sidurgu habló de una "llama en el abismo", una idea que ni Sidurgu ni Fray entendieron. Siguiendo el credo de sus predecesores, esperaban que el significado se les aclarara con el tiempo. Por desgracia, cuando intervinieron para salvar la vida de una jovencita, la orden los marcó para morir. Fray fue capturado y ejecutado en un juicio por combate, y Sidurgu quedó solo a cargo de Rielle. Temiendo no poder con la tarea, te ruega que te unas a su causa, y aceptas. Quizás sea un buen momento para conocer a Rielle.
+TEXT_JOBDRK520_02060_SEQ_02	Aunque algo distante, Rielle responde tus preguntas lo mejor que puede. Convencido de que ya se estableció una relación mínima, Sidurgu interrumpe con su último plan. Como los Temple Knights parecen convencidos de que Rielle es una especie de abominación, Sidurgu quiere averiguar primero si tiene algo fuera de lo común. Para eso, propone buscar a un curandero Vanu en the Sea of Clouds, ya que se dice que algunos pueden ver el aether de sus pacientes. Reúnete con él en Camp Cloudtop.
+TEXT_JOBDRK520_02060_SEQ_03	Por lo general, los Vanu Vanu no tienen ganas de tratar con forasteros. Sin embargo, quizás estén dispuestos a acceder a tu pedido a cambio de una ofrenda adecuada. Sidurgu te pide que busques y mates gastornis para conseguir sus plumas, ya que se dice que los Vanu las usan en sus rituales.
+TEXT_JOBDRK520_02060_SEQ_04	Consigues las plumas sin mucha dificultad. Viaja ahora al territorio Vanu y ruega encontrar a un curandero dispuesto a escucharte.
+TEXT_JOBDRK520_02060_SEQ_05	Por suerte, te encuentras con una curandera Vanu dispuesta a examinar a Rielle a cambio de tu ofrenda de plumas. Con los brazos en alto, empieza a cantar, y su voz crece en intensidad hasta que ahoga un grito de sorpresa. Un gran espíritu habita en ella, empieza a decir la curandera, pero antes de terminar, siente que otros vienen detrás de ustedes y huye. Volviéndose hacia el camino, Sidurgu prepara su espada y te pide que busques a sus perseguidores mientras él protege a Rielle.
+TEXT_JOBDRK520_02060_SEQ_06	Te topas con unos Temple Knights, que de inmediato te toman por enemigo. Empieza la batalla y pronto termina. Vuelve con Sidurgu y cuéntale lo que encontraste.
+TEXT_JOBDRK520_02060_SEQ_07	Con la curandera Vanu lejos, no hay razón para quedarse en the Sea of Clouds. Vuelve a the Forgotten Knight con Sidurgu y Rielle.
+TEXT_JOBDRK520_02060_SEQ_08	Maldiciendo a los Temple Knights por su salvajismo, Sidurgu está a punto de estallar de ira, hasta que la repentina disculpa de Rielle por ser la causa de sus problemas le quita al dark knight todo el enojo. Aunque los motivos de los Temple Knights siguen siendo un misterio, ahora está claro que la jovencita a la que persiguen con tanto fervor tiene algo bastante fuera de lo común.<br><br>※La siguiente misión de dark knight estará disponible con Sidurgu al llegar al nivel 54.
+TEXT_JOBDRK520_02060_TODO_00	Habla con Rielle.
+TEXT_JOBDRK520_02060_TODO_01	Reúnete con Sidurgu en Camp Cloudtop.
+TEXT_JOBDRK520_02060_TODO_02	Mata gastornis y consigue sus plumas.
+TEXT_JOBDRK520_02060_TODO_03	Entrégale las plumas a la curandera Vanu Vanu.
+TEXT_JOBDRK520_02060_TODO_04	Vigila por si hay perseguidores.
+TEXT_JOBDRK520_02060_TODO_05	Habla con Sidurgu.
+TEXT_JOBDRK520_02060_TODO_06	Habla con Sidurgu en Ishgard.
+TEXT_JOBDRK520_02060_SIDURGU_000_000	Veo que sigues en el camino, <split(<string(gstr1)>, ,1)>... y está bien que así sea. Este es un asunto que solo puedo tratar con otro dark knight. Júrame que no se lo contarás a nadie más.
+TEXT_JOBDRK520_02060_SIDURGU_000_001	Gracias. Entonces empezaré por el principio.
+TEXT_JOBDRK520_02060_SIDURGU_000_002	Nuestro maestro, en sus últimos momentos, nos habló a Fray y a mí con acertijos...
+TEXT_JOBDRK520_02060_SIDURGU_000_003	"Un corazón sangra, un hombre llora, un alma arde. De allí viene la oscuridad, a consumir..."
+TEXT_JOBDRK520_02060_SIDURGU_000_004	"Mas aun en las profundidades, la llama perdura..."
+TEXT_JOBDRK520_02060_SIDURGU_000_005	"Entrégate a la llama y domina el abismo..."
+TEXT_JOBDRK520_02060_SIDURGU_000_006	Fray y yo no entendimos sus palabras. Esperábamos que su significado se nos aclarara al cumplir nuestro deber como dark knights.
+TEXT_JOBDRK520_02060_SIDURGU_000_007	Así que seguimos adelante, fieles al credo, hasta que un día la encontramos.
+TEXT_JOBDRK520_02060_RIELLE_000_008	...
+TEXT_JOBDRK520_02060_SIDURGU_000_009	\<suspiro> ...Adelante, Rielle. Se puede confiar en <if(gnum4,ella,él)>.
+TEXT_JOBDRK520_02060_RIELLE_000_010	...Está bien.
+TEXT_JOBDRK520_02060_RIELLE_000_011	Que Halone te bendiga, <if(gnum4,señorita,señor)>.
+TEXT_JOBDRK520_02060_SIDURGU_000_012	Bien, entonces...
+TEXT_JOBDRK520_02060_SIDURGU_000_013	En ese momento huía de una unidad de Temple Knights que claramente querían hacerle daño. Ni hace falta decir que a Fray y a mí no nos gustó, y decidimos intervenir.
+TEXT_JOBDRK520_02060_SIDURGU_000_014	Después de eso nos escondimos, pero a Fray lo atraparon en la calle cuando fue a buscar provisiones...
+TEXT_JOBDRK520_02060_SIDURGU_000_015	...No puedo protegerla, <split(<string(gstr1)>, ,1)>. No de los Temple Knights. No yo solo. Ni siquiera sé bien por qué la buscan... solo que, si fallo, perderá la vida.
+TEXT_JOBDRK520_02060_SIDURGU_000_016	Ayúdame, <split(<string(gstr1)>, ,1)>, y compartiré contigo mis artes. Y cuando lleguemos al límite de lo que sé, quizás podamos desentrañar juntos el misterio de las últimas palabras de mi maestro.
+TEXT_JOBDRK520_02060_SIDURGU_000_017	No tengo nada más que ofrecerte. ¿Qué dices?
+TEXT_JOBDRK520_02060_SIDURGU_000_018	Entonces está decidido. Seremos sus guardianes.
+TEXT_JOBDRK520_02060_SIDURGU_000_019	¿No tienes algo que decirle a <split(<string(gstr1)>, ,1)>, Rielle?
+TEXT_JOBDRK520_02060_RIELLE_000_020	...
+TEXT_JOBDRK520_02060_SIDURGU_000_030	Habla un poco con ella. Pregúntale sobre ella misma.
+TEXT_JOBDRK520_02060_RIELLE_000_040	...¿Sí?
+TEXT_JOBDRK520_02060_Q1_000_041	¿Qué preguntarás?
+TEXT_JOBDRK520_02060_A1_000_042	¿Por qué querían hacerte daño los Temple Knights?
+TEXT_JOBDRK520_02060_A1_000_043	¿Dónde están tus padres?
+TEXT_JOBDRK520_02060_A1_000_044	¿Qué piensas de Sidurgu?
+TEXT_JOBDRK520_02060_A1_000_045	Nada.
+TEXT_JOBDRK520_02060_RIELLE_000_050	Dijeron... dijeron que yo era una abominación. Que tenía que morir para expiar mis pecados...
+TEXT_JOBDRK520_02060_RIELLE_000_055	Yo... yo...
+TEXT_JOBDRK520_02060_RIELLE_000_060	Ya no habla tanto. No desde que Fray se fue. A veces casi no dice palabra. Otras veces... Pero sé que nunca me haría daño.
+TEXT_JOBDRK520_02060_RIELLE_000_065	Disculpa... <split(<string(gstr1)>, ,1)>, ¿verdad?
+TEXT_JOBDRK520_02060_RIELLE_000_066	Tú también vas a cuidar a Sid, ¿no?
+TEXT_JOBDRK520_02060_RIELLE_000_067	Gracias. Eso me deja más tranquila...
+TEXT_JOBDRK520_02060_SIDURGU_000_068	Bien, ya basta de eso. A asuntos más importantes...
+TEXT_JOBDRK520_02060_SIDURGU_000_069	Como dije antes, no estoy muy seguro de por qué los Temple Knights persiguen a Rielle.
+TEXT_JOBDRK520_02060_SIDURGU_000_070	Parecen creer que algo anda mal con ella, pero no logro imaginar qué podría ser...
+TEXT_JOBDRK520_02060_SIDURGU_000_071	Sin embargo, quizás haya una forma de averiguarlo. El otro día oí una historia curiosa de un caballero de la House Haillenarte que acababa de volver de Camp Cloudtop. Hablaba de curanderos Vanu que podían <italic(1)>ver<italic(0)> el aether de sus pacientes. Tan hábiles eran que podían diagnosticar dolencias con una mirada.
+TEXT_JOBDRK520_02060_SIDURGU_000_072	Puede que no sea más que un cuento fantástico de un hombre con unas copas de más, pero aun así, si hay una posibilidad de saber qué le pasa a Rielle, si es que algo le pasa, diría que debemos aprovecharla. Vamos a Camp Cloudtop a empezar allí la búsqueda de un curandero.
+TEXT_JOBDRK520_02060_SIDURGU_000_080	Por el bien de Rielle, digo que veamos si este rumor tiene algo de cierto...
+TEXT_JOBDRK520_02060_RIELLE_000_085	¿Tú también conocías a Fray? Era un buen maestro... y un amigo.
+TEXT_JOBDRK520_02060_RIELLE_000_090	¿Cómo hacen para flotar así? Nunca vi nada parecido...
+TEXT_JOBDRK520_02060_SIDURGU_000_100	...Bien, entonces.
+TEXT_JOBDRK520_02060_SIDURGU_000_101	En la mayoría de los casos, los Vanu Vanu no suelen tratar con forasteros. Sin embargo, quizás estén dispuestos a recibirnos si llevamos una ofrenda adecuada.
+TEXT_JOBDRK520_02060_SIDURGU_000_102	Me dicen que usan plumas de gastornis en sus rituales. Quizás eso baste...
+TEXT_JOBDRK520_02060_SIDURGU_000_103	<split(<string(gstr1)>, ,1)>, debo pedirte que prepares la ofrenda mientras yo cuido a Rielle. Cuando la tengas, podemos ir juntos a Vundu Ok' Bendu y pedirle a uno de sus curanderos que la examine.
+TEXT_JOBDRK520_02060_RIELLE_000_110	Me siento bien, de verdad...
+TEXT_JOBDRK520_02060_RIELLE_000_115	Por favor, cuídate, <split(<string(gstr1)>, ,1)>...
+TEXT_JOBDRK520_02060_SIDURGU_000_117	Los Temple Knights tienen ojos en todas partes, <split(<string(gstr1)>, ,1)>. No me atrevo a dejarla sola.
+TEXT_JOBDRK520_02060_VANUVANU02060_000_120	¿¡Qué ráfaga de mistral trae abajeños hasta aquí!? ¡Fuera, fuera!
+TEXT_JOBDRK520_02060_VANUVANU02060_000_121	¿Plumas de gastornis? Hmmm... Abajeño conoce bien las costumbres de los Vundu.
+TEXT_JOBDRK520_02060_VANUVANU02060_000_122	Que las nubes de tormenta den paso al sol tibio. ¡Di lo que tengas que decir!
+TEXT_JOBDRK520_02060_SIDURGU_000_123	¿Hará lo que le pedimos, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBDRK520_02060_VANUVANU02060_000_124	Traigan a la niña, abajeños. ¡Déjenme mirarle la cara y conocer su corazón!
+TEXT_JOBDRK520_02060_VANUVANU02060_000_125	Lluvia suave para calmar tu corazón, pequeña. No tengas miedo.
+TEXT_JOBDRK520_02060_VANUVANU02060_000_126	¡Bebe de los vientos! ¡Que tu alma alce el vuelo! ¡Báñate en las brumas y muéstrame tu fulgor!
+TEXT_JOBDRK520_02060_VANUVANU02060_000_127	Vamos, vamos, muéstrame tu fulgor...
+TEXT_JOBDRK520_02060_VANUVANU02060_000_128	¿¡Qué vientos tempestuosos rugen bajo nubes tranquilas!? ¿¡Qué gran espíritu habita en ti!?
+TEXT_JOBDRK520_02060_SIDURGU_000_129	...Habla claro, Vanu.
+TEXT_JOBDRK520_02060_VANUVANU02060_000_130	Esta no es una niña... esto es... ¡Ah!
+TEXT_JOBDRK520_02060_VANUVANU02060_000_131	La tramontana los sigue, abajeños. ¡No pueden quedarse aquí! ¡Fuera de nuestras tierras!
+TEXT_JOBDRK520_02060_SIDURGU_000_132	¡Espera! No... Maldita sea.
+TEXT_JOBDRK520_02060_SIDURGU_000_133	Prepara tu espada, <split(<string(gstr1)>, ,1)>. Nos siguieron.
+TEXT_JOBDRK520_02060_SIDURGU_000_134	Allá: alguien viene...
+TEXT_JOBDRK520_02060_SIDURGU_000_140	Sube a la loma y vigila. Yo me quedo con Rielle.
+TEXT_JOBDRK520_02060_RIELLE_000_145	¿¡Cómo nos encontraron!?
+TEXT_JOBDRK520_02060_RIELLE_000_150	Así que de verdad eran ellos...
+TEXT_JOBDRK520_02060_SIDURGU_000_160	Esos deberían ser los últimos.
+TEXT_JOBDRK520_02060_SIDURGU_000_161	Hm. A estos ya los vi antes por aquí. No responden ante el lord comandante, o eso dicen.
+TEXT_JOBDRK520_02060_SIDURGU_100_161	Los bastardos pensaron atraparnos fuera de la ciudad, lejos de miradas indiscretas...
+TEXT_JOBDRK520_02060_SIDURGU_000_162	No quieren que los vean asesinando a una niña en las calles de the Holy See, ¿¡verdad!? ¡Ni sus partidarios más fieles podrían tolerar eso!
+TEXT_JOBDRK520_02060_SIDURGU_000_163	Parece que nuestra nueva amiga ya nos abandonó. No hay remedio, entonces. De vuelta a Ishgard.
+TEXT_JOBDRK520_02060_SIDURGU_000_164	Vamos, Rielle.
+TEXT_JOBDRK520_02060_RIELLE_000_170	No estás <if(gnum4,herida,herido)>, ¿verdad?
+TEXT_JOBDRK520_02060_SIDURGU_000_180	Confío en que ya no dudas de la verdadera naturaleza de los Temple Knights.
+TEXT_JOBDRK520_02060_SIDURGU_000_181	Asesinos y ladrones que se visten con los adornos de la rectitud.
+TEXT_JOBDRK520_02060_SIDURGU_000_182	¿¡No lo <italic(1)>ves<italic(0)>, <split(<string(gstr1)>, ,1)>!? ¡Somos lo único que se interpone entre ellos y su presa!
+TEXT_JOBDRK520_02060_SIDURGU_000_183	¡No hay justicia para esos monstruos salvo la que nosotros debemos impartir!
+TEXT_JOBDRK520_02060_SIDURGU_000_184	¡Los haré pagar por sus pecados, lo juro! ¡Si tengo que ahogarme en el abismo para lograrlo, lo haré!
+TEXT_JOBDRK520_02060_RIELLE_000_185	¡<split(<string(gstr1)>, ,1)>!
+TEXT_JOBDRK520_02060_RIELLE_000_186	<split(<string(gstr1)>, ,1)>, Sid, yo... ¡quería agradecerles a los dos por protegerme hace un rato! Y... pedirles perdón por hacer que los lastimaran...
+TEXT_JOBDRK520_02060_SIDURGU_000_187	...No seas tonta. No tienes nada de qué disculparte.
+TEXT_JOBDRK520_02060_SIDURGU_000_188	En todo caso, al menos averiguamos algo de los motivos de nuestros enemigos.
+TEXT_JOBDRK520_02060_SIDURGU_000_189	Aunque no tengo la menor idea de qué quiso decir la curandera con "gran espíritu"...

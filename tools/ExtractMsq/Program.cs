@@ -117,7 +117,10 @@ foreach (var sheet in sheetNames.Where(n => n.StartsWith("opening/")).Order())
 }
 
 // Class and job quests (ClsLnc…, JobDrg…): one folder per journal genre, numbered in journal order.
-var jobQuests = quests.Where(q => q.JournalGenre.RowId != 0 && q.Id.ExtractText() is var id && (id.StartsWith("Cls") || id.StartsWith("Job")))
+// Jobs from Shadowbringers on use expansion ids (LucKbb…, AktKbb…, KinGbb…): their journal
+// category (93/94, "Disciple of War/Magic Job Quests") brings them in.
+var jobQuests = quests.Where(q => q.JournalGenre.RowId != 0 && q.Id.ExtractText() is var id
+        && (id.StartsWith("Cls") || id.StartsWith("Job") || q.JournalGenre.Value.JournalCategory.RowId is 93 or 94))
     .GroupBy(q => q.JournalGenre.RowId).OrderBy(g => g.Key);
 var jobLines = 0;
 

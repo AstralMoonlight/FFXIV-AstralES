@@ -176,8 +176,8 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 |---|---|---|---|
 | **Tank** | Paladin | 30–100 | ![Traducido][ok] |
 | | Warrior | 30–100 | ![Pendiente][no] |
-| | Dark Knight | 30–100 | ![Pendiente][no] |
-| | Gunbreaker | 60–100 | ![Pendiente][no] |
+| | Dark Knight | 30–100 | ![Traducido][ok] |
+| | Gunbreaker | 60–100 | ![Traducido][ok] |
 | **Healer** | White Mage | 30–100 | ![Pendiente][no] |
 | | Scholar | 30–100 | ![Pendiente][no] |
 | | Astrologian | 30–100 | ![Pendiente][no] |

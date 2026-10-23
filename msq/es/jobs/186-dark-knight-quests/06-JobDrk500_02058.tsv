@@ -1,0 +1,100 @@
+key	text
+TEXT_JOBDRK500_02058_SEQ_00	Fray estaba aquí mucho antes de que se conocieran.
+TEXT_JOBDRK500_02058_SEQ_01	Fray sabe lo que es mejor para nosotros, así que haremos lo que nos pide. <if(gnum4,La,Lo)> esperaremos afuera de the Gates of Judgement y diremos su nombre para que sepa que estamos aquí.
+TEXT_JOBDRK500_02058_SEQ_02	Un par de caballeros de Whitebrim Front oyen tu llamado y te reconocen como el Warrior of Light. Aprovechando la oportunidad de explotar la buena voluntad de <if(gnum4,la tonta que no pudo esperar a su camarada,el tonto que no pudo esperar a su camarada)> y dejar atrás esta tontería para siempre, los caballeros te convencen de que los ayudes con una banda de gigantes. Ve a Daniffen Pass y termina con esto.
+TEXT_JOBDRK500_02058_SEQ_03	Mientras tus valientes nuevos amigos distraen a la chusma, tú buscarás y matarás al líder. ¡Qué plan brillante! Nada que ver con las incontables otras veces que matamos a los enemigos de otro.
+TEXT_JOBDRK500_02058_SEQ_04	Los mataste. Bien hecho. ¿Ya podemos irnos?
+TEXT_JOBDRK500_02058_SEQ_05	Servir... Salvar... Siervo... Segar... Te cuesta oír las palabras de los caballeros por el martilleo en tu cabeza. Parece que Lord Drillemont te convocó a Whitebrim Front para hablar de unas acusaciones en tu contra, entre ellas la inquietante denuncia de que te vieron conversando con un cadáver. No hay remedio, entonces. Viaja a Whitebrim Front y mátalos a todos.
+TEXT_JOBDRK500_02058_SEQ_06	La oscuridad habita en todos nosotros, pero pocos se ven obligados a enfrentarla como tú. En un momento, Fray está frente a ti, y al siguiente, es <if(gnum4,tu gemela,tu gemelo)>. Mientras luchas con tu lado oscuro por el control, las voces de Whitebrim Front te gritan su apoyo, aunque tu propia voz desprecie tu lucha. Y entonces... tan rápido como empezó, termina. Tu alma vuelve a estar en tus manos.
+TEXT_JOBDRK500_02058_SEQ_07	Por orden de Lord Drillemont, nadie hablará de lo que vio: un gesto que te reconforta más a cada momento. Aunque recuperaste el juicio, tus recuerdos de Fray siguen confusos... y aunque sometiste a tu lado oscuro, sigue siendo tu compañero constante, ansioso por ser libre. Ansioso por liberarte. Solo tienes que pedirlo.<br><br>※La siguiente misión de dark knight está disponible con el Temple Knight impasible de Whitebrim Front.
+TEXT_JOBDRK500_02058_TODO_00	Con el modo de chat en <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribe "¡Fray!" para llamar a tu camarada.
+TEXT_JOBDRK500_02058_TODO_01	Habla con el caballero inflexible en Daniffen Pass.
+TEXT_JOBDRK500_02058_TODO_02	Mata a los gigantes.
+TEXT_JOBDRK500_02058_TODO_03	Habla con el caballero inflexible.
+TEXT_JOBDRK500_02058_TODO_04	Habla con el caballero incansable.
+TEXT_JOBDRK500_02058_TODO_05	Habla con el caballero incansable.
+TEXT_JOBDRK500_02058_FRAY_000_000	Sabía que entrarías en razón, <split(<string(gstr1)>, ,1)>. Ahora, vamos... vámonos...
+TEXT_JOBDRK500_02058_FRAY_000_001	...Si no vuelvo a ver nieve nunca más, será demasiado pronto.
+TEXT_JOBDRK500_02058_FRAY_000_002	Deberíamos ir a algún lugar cálido, al menos por un tiempo...
+TEXT_JOBDRK500_02058_FRAY_000_003	Espérame cerca de the Gates of Judgement. Cuando estés <if(gnum4,sola,solo)>, llámame y me reuniré contigo.
+TEXT_JOBDRK500_02058_SYSTEM_000_004	Un momento después, Fray se va... aunque no logras recordar en qué dirección...
+TEXT_JOBDRK500_02058_SYSTEM_000_005	Con el modo de chat en <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribe con el teclado o el teclado en pantalla cualquier frase que incluya "Fray" para llamar su atención.
+TEXT_JOBDRK500_02058_SYSTEM_000_006	Con el modo de chat en <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribe con el teclado o el teclado en pantalla cualquier frase que incluya "Fray" para llamar su atención.
+TEXT_JOBDRK500_02058_SAY_000_000	Fray
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_010	(-???-)¡Un momento, <italic(1)>conozco<italic(0)> esa voz! ¡Es <string(gstr1)>, <if(gnum4,la heroína,el héroe)> de los Scions!
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_011	¡Permítame decirle qué honor es conocerl<if(gnum4,a,o)>, <if(gnum4,señora,señor)>! Digo, por la Fury, ¡<if(gnum4,la mujer,el hombre)> que venció a Shiva! ¡Todos los caballeros a las órdenes de Lord Drillemont conocen la historia!
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_012	Podría seguir, pero, bueno... lo diré sin rodeos. Si me permite, <if(gnum4,señora,señor)>: necesitamos su ayuda.
+TEXT_JOBDRK500_02058_CAVALRYB02058_000_013	Tenemos un problema gigante, <if(gnum4,señora,señor)>. Una banda de gigantes empezó a asaltar las caravanas que pasan por Daniffen Pass. Creemos que planean extender su territorio...
+TEXT_JOBDRK500_02058_CAVALRYB02058_000_014	Lord Drillemont los quiere fuera, pero ya sabe cómo es: demasiado trabajo para tan pocas manos. Necesitaríamos por lo menos dos docenas de caballeros para echarlos sin riesgo...
+TEXT_JOBDRK500_02058_CAVALRYB02058_000_015	¡Pero ahora que usted está aquí, <if(gnum4,señora,señor)>, no tenemos nada que temer!
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_016	¡Así es! ¡Mientras nosotros creamos una distracción, usted puede escabullirse y acabar con su líder! ¡Sin él, seguro que huyen! ¿Nos ayudará, <if(gnum4,señora,señor)>?
+TEXT_JOBDRK500_02058_CAVALRYS02058_000_017	(-Caballeros de la House Durendaire-)¡Se lo rogamos!
+TEXT_JOBDRK500_02058_CAVALRYS02058_000_018	(-Caballeros de la House Durendaire-)¡Se lo <italic(1)>rogamos<italic(0)>!
+TEXT_JOBDRK500_02058_CAVALRYB02058_000_019	Muchísimas gracias, <if(gnum4,señora,señor)>. ¡No lo olvidaremos!
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_020	Acompáñeme al paso, <if(gnum4,señora,señor)>. Allí podemos hablar de los detalles del plan.
+TEXT_JOBDRK500_02058_FRAY_000_021	No... No más. Basta...
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_030	El líder debería estar en algún lugar de los túneles, <if(gnum4,señora,señor)>...
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_031	En cuanto esté en posición, lanzaremos nuestro ataque. Si todo sale según el plan, solo tendrá que vérselas con el líder y sus guardias. ¡Que la Fury nos guíe y nos proteja!
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_040	¡Haremos lo posible por mantenerlos distraídos, <if(gnum4,señora,señor)>!
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_050	¡Por la Fury, de verdad lo logró! ¡E hizo que pareciera tan fácil!
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_051	En cuanto a nosotros, hubo algunos heridos, pero nada grave. De hecho, la cosa empezaba a ponerse fea... pero en cuanto él cayó, tocaron retirada.
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_052	¡Fue un honor pelear a su lado, <if(gnum4,señora,señor)>! De verdad es todo lo que dicen los bardos.
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_053	A decir verdad... sigo sus hazañas desde hace un tiempo... desde que llegó por primera vez a Whitebrim Front.
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_054	Su destreza marcial es bien conocida, por supuesto, pero lo que de verdad me inspiró fue su compasión por la gente común.
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_055	Cómo arriesgaba la vida sin pensar en la fama ni en la fortuna, cómo los más humildes de nosotros podían encontrar en usted <if(gnum4,a una amiga,a un amigo)>...
+TEXT_JOBDRK500_02058_CAVALRYC02058_000_056	(-???-)¡Señor, señor!
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_057	¿Pasa algo?
+TEXT_JOBDRK500_02058_CAVALRYC02058_000_058	Es Lord Drillemont, señor. Supo que estábamos en el campo con <split(<string(gstr1)>, ,1)>, ¡y exige que se presente en Whitebrim Front de inmediato!
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_059	¿¡<italic(1)>Exige<italic(0)>!? ¿¡Qué significa esto!?
+TEXT_JOBDRK500_02058_CAVALRYC02058_000_060	Hay... ciertas acusaciones, señor. Parece que <if(gnum4,la,lo)> vieron conversando con... con un cadáver en the Brume...
+TEXT_JOBDRK500_02058_CAVALRYC02058_000_061	No es que nadie fuera a creer semejante calumnia, por supuesto...
+TEXT_JOBDRK500_02058_CAVALRYA02058_000_070	Seguro que no hay motivo para preocuparse. Digo, ¿"conversando con un cadáver"? ¿Por qué tontos nos toman?
+TEXT_JOBDRK500_02058_CAVALRYC02058_000_080	Debo advertirle, <if(gnum4,señora,señor)>, que algunas de estas acusaciones las hicieron Temple Knights.
+TEXT_JOBDRK500_02058_CAVALRYC02058_000_081	Puede que, eh... puede que le pidan que entregue su arma...
+TEXT_JOBDRK500_02058_FRAY_000_100	Ja, ja... ¿"Que entregue su arma"? ¿Después de lo que pasó en Ul'dah? Deben estar locos.
+TEXT_JOBDRK500_02058_FRAY_000_101	Presta atención, <split(<string(gstr1)>, ,1)>. Este podría ser el mejor momento de nuestra vida...
+TEXT_JOBDRK500_02058_FRAY_000_102	Claro, si pudieras dejar de negar la verdad que tienes frente a las narices desde el momento en que nos conocimos.
+TEXT_JOBDRK500_02058_FRAY_000_103	Di mi nombre. Dilo. Mi nombre <italic(1)>verdadero<italic(0)>. ¡<italic(1)>Nuestro<italic(0)> nombre verdadero!
+TEXT_JOBDRK500_02058_FRAY_000_104	Vamos, ¡<italic(1)>sabías<italic(0)> desde el principio que Fray estaba muerto, pero no te importó!
+TEXT_JOBDRK500_02058_FRAY_000_105	Tenías una espada y un soul crystal. Pero lo que <italic(1)>querías<italic(0)> era un mentor.
+TEXT_JOBDRK500_02058_FRAY_000_106	Un mentor con los <italic(1)>dones<italic(0)> y el conocimiento. Un dark knight que pudiera guiarte por el camino; alguien en quien aspiraras a convertirte.
+TEXT_JOBDRK500_02058_FRAY_000_107	<if(gnum4,Una mujer,Un hombre)> con la libertad de decir y hacer lo que tú no te atrevías.
+TEXT_JOBDRK500_02058_FRAY_000_108	...Incluso ahora, sigues negándolo. Bueno. Niégame todo lo que quieras. No puedes negar lo que hicimos.
+TEXT_JOBDRK500_02058_FRAY_000_109	¿No fui <if(gnum4,buena,bueno)> contigo? ¿No te di todo lo que te prometí?
+TEXT_JOBDRK500_02058_FRAY_000_110	¿¡No te ayudé a oír los susurros de nuestra propia alma!?
+TEXT_JOBDRK500_02058_FRAY_000_111	Abre los ojos. Mira. ¿Ahora lo ves? ¿Lo <italic(1)>ves<italic(0)>?
+TEXT_JOBDRK500_02058_FRAY_000_112	(-<string(gstr1)>-)Todo hasta ahora fue tu historia...
+TEXT_JOBDRK500_02058_FRAY_000_113	(-<string(gstr1)>-)...¡Y todo lo que venga después será <italic(1)>mío<italic(0)>!
+TEXT_JOBDRK500_02058_FRAY_000_130	(-<string(gstr1)>-)Parece que me subestimé... Pero no importa.
+TEXT_JOBDRK500_02058_FRAY_000_131	(-<string(gstr1)>-)Fueron testigos de la oscuridad que llevamos dentro...
+TEXT_JOBDRK500_02058_FRAY_000_132	(-<string(gstr1)>-)De lo que hay debajo de la máscara...
+TEXT_JOBDRK500_02058_CAVALRY02058_000_133	(-???-)¡<split(<string(gstr1)>, ,1)>! ¡<split(<string(gstr1)>, ,1)>! ¡Escúchenos!
+TEXT_JOBDRK500_02058_CENOTA_000_134	(-Cenota-)¡Nunca l<if(gnum4,a,o)> abandonaremos! ¡Pase lo que pase!
+TEXT_JOBDRK500_02058_CLOTAIRION_000_135	(-Clotairion-)¡Sabemos quién es usted, <split(<string(gstr1)>, ,1)>! ¡Lo sabemos, y usted también!
+TEXT_JOBDRK500_02058_FRAY_000_136	(-<string(gstr1)>-)Una fantástica muestra de ignorancia deliberada...
+TEXT_JOBDRK500_02058_FRAY_000_137	(-<string(gstr1)>-)Borrón y cuenta nueva. ¡Perdonar y olvidar!
+TEXT_JOBDRK500_02058_FRAY_000_138	(-<string(gstr1)>-)Convénzanse de que se puede controlar a <if(gnum4,esa mujer,ese hombre)>...
+TEXT_JOBDRK500_02058_FRAY_000_139	(-<string(gstr1)>-)¡El Warrior of Light! ¡Nuestra Arma de la Luz!
+TEXT_JOBDRK500_02058_FRAY_000_140	(-<string(gstr1)>-)No es demasiado tarde, <split(<string(gstr1)>, ,1)>. Todavía... todavía podemos ser libres...
+TEXT_JOBDRK500_02058_FRAY_000_141	(-<string(gstr1)>-)¿<split(<string(gstr1)>, ,1)>?
+TEXT_JOBDRK500_02058_FRAY_000_142	(-<string(gstr1)>-)Así que esta es tu respuesta...
+TEXT_JOBDRK500_02058_FRAY_000_143	(-<string(gstr1)>-)Escucha mi voz. Escucha nuestros latidos. Escucha...
+TEXT_JOBDRK500_02058_FRAY_000_144	(-<string(gstr1)>-)...Si así tiene que ser, que así sea.
+TEXT_JOBDRK500_02058_FRAY_000_145	(-<string(gstr1)>-)Pero sabe que cuando te canses de esta farsa, estaré aquí... esperando para tomar las riendas...
+TEXT_JOBDRK500_02058_FRAY_000_146	(-<string(gstr1)>-)Solo tienes que pedirlo...
+TEXT_JOBDRK500_02058_TEMPLEKNIGHT02059_000_150	No... no sé qué acabo de presenciar. Y no estoy seguro de querer saberlo...
+TEXT_JOBDRK500_02058_CAVALRYC02058_000_160	¡Alabada sea Halone, está bien, <if(gnum4,señora,señor)>! Por un momento, temimos haberl<if(gnum4,a,o)> perdido para siempre...
+TEXT_JOBDRK500_02058_CAVALRYC02058_000_161	Lord Drillemont dejó claro que no hablaremos más de lo que pasó. Y no es que hiciera falta pedirlo...
+TEXT_JOBDRK500_02058_CAVALRYC02058_000_162	En cuanto a su... amigo... Me dicen que lo enterrarán con todos los ritos. Que su alma descanse en paz...
+TEXT_JOBDRK500_02058_CAVALRYC02058_000_000	...¿Está segur<if(gnum4,a,o)> de que está bien, <if(gnum4,señora,señor)>? Se ve un poco... No importa. Que le vaya bien...
+TEXT_JOBDRK500_02058_QIB_001_TODO_1	¡Abraza el abismo! ¡Libérate!
+TEXT_JOBDRK500_02058_QIB_001_DRILLEMONT_BATTLETALK_DEAD	¡Luche, maldita sea! ¡Luche!
+TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_PLAYERHP50	¡Oh, mira! ¡Lo estás haciendo otra vez! ¡Bravo, <split(<string(gstr1)>, ,1)>, bravo!
+TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_00	No puedes matarme de verdad, ¿sabes? Oh, lo intentarás. Pero fracasarás.
+TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_10	Lo mismo daría que te pusieras la espada en el cuello. Pero ¿dónde nos dejaría eso, hmmm?
+TEXT_JOBDRK500_02058_QIB_001_DRILLEMONT_BATTLETALK_01	¡Reaccione, <split(<string(gstr1)>, ,1)>! ¡Usted es más fuerte que esto!
+TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_02	¿Amigos? ¿En serio? Esto es un asunto <italic(1)>privado<italic(0)>, y lo sabes.
+TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_20	Pero sigue fingiendo lo contrario, si te place.
+TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_03	Je... ¡las cosas sí que están llegando a su punto crítico!, ¿no?
+TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_30	¿Tienes idea de lo ridículo que te ves? ¿¡Agitándote como una bestia salvaje en una batalla contra <italic(1)>ti <if(gnum4,misma,mismo)><italic(0)>!?
+TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_31	¡Una casa dividida no se sostiene, <split(<string(gstr1)>, ,1)>!

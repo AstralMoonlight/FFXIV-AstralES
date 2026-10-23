@@ -1,0 +1,99 @@
+key	text
+TEXT_JOBDRK400_02056_SEQ_00	A Fray le alegra verte, como siempre.
+TEXT_JOBDRK400_02056_SEQ_01	Fray sabe que hace tiempo que no oyes la voz, así que espera ayudarte como antes. Reúnete con Fray en Eastern Thanalan y prepárate para la comunión.
+TEXT_JOBDRK400_02056_SEQ_02	Empieza, como siempre, con una ofrenda de sangre. Busca y mata axe beaks. Fray te observa.
+TEXT_JOBDRK400_02056_SEQ_03	Algo falta, pero no sabes qué. Bueno, está hecho. Quizás Fray quede <if(gnum4,satisfecha,satisfecho)>.
+TEXT_JOBDRK400_02056_SEQ_04	Un destello de fastidio te cruza la cara. Qué inútil, piensas, y Fray sonríe, porque conoce tu corazón. Recuerda este sentimiento. Atesóralo. Te servirá en tu próxima comunión, en Camp Drybone.
+TEXT_JOBDRK400_02056_SEQ_05	¡Cómo se atreve Isembard a interrumpir nuestra comunión! ¡Como si nunca hubieran secuestrado peregrinos! Y aquí estás otra vez, <if(gnum4,obligada,obligado)> a arriesgar el pellejo para rescatar a unos tontos que debieron armarse. Todo porque no hay nadie más. Que así sea. Asalta el campamento de los Amalj'aa y rescata a los prisioneros.
+TEXT_JOBDRK400_02056_SEQ_06	Por suerte, los Amalj'aa son mucho más divertidos que los peistes, ¿¡eh!? ¡Y los hombres bestia seguían viniendo felices, aullando de rabia por sus parientes caídos, sin importar a cuántos mataras! La risita de Fray es contagiosa, y te descubres compartiendo su sonrisa.
+TEXT_JOBDRK400_02056_SEQ_07	Fray te sugiere que no limpies la sangre de tu equipo. Que Isembard vea con sus propios ojos lo que lograste.
+TEXT_JOBDRK400_02056_SEQ_08	Los ojos de Isembard se posan en las manchas de sangre, solo para huir un momento después. Notas el miedo en su voz mientras te agradece por salvar a los peregrinos. A Fray debería parecerle divertido.
+TEXT_JOBDRK400_02056_SEQ_09	Quienes nunca conocieron el verdadero sacrificio tiemblan al verlo. Lo sabes porque Fray lo sabe. Extiende la mano y prepárate para la comunión.
+TEXT_JOBDRK400_02056_SEQ_10	"Servir... Salvar... Siervo... Segar..." La voz sigue y sigue, y cada palabra resuena en tu corazón como el golpe del martillo sobre el cincel. "Sacrificarse es renunciar a lo que te ata", dice Fray. "Reconocer lo que importa y abandonar todo lo que no". Servir... Salvar... Siervo... Segar... Fray sabe que no puedes seguir cargando con todo ese peso. Haz caso a su advertencia, antes de que sea tarde.<br><br>※La siguiente misión de dark knight estará disponible con Fray al llegar al nivel 45.
+TEXT_JOBDRK400_02056_TODO_00	Reúnete con Fray en the Burning Wall.
+TEXT_JOBDRK400_02056_TODO_01	Mata axe beaks.
+TEXT_JOBDRK400_02056_TODO_02	Habla con Fray.
+TEXT_JOBDRK400_02056_TODO_03	Comulga con Fray en Camp Drybone.
+TEXT_JOBDRK400_02056_TODO_04	Reúnete con Fray en el campamento de los Amalj'aa.
+TEXT_JOBDRK400_02056_TODO_05	Habla con Fray.
+TEXT_JOBDRK400_02056_TODO_06	Infórmale a Isembard.
+TEXT_JOBDRK400_02056_TODO_07	Habla con Fray.
+TEXT_JOBDRK400_02056_TODO_08	Comulga con Fray.
+TEXT_JOBDRK400_02056_FRAY_000_000	Te ves bien, <split(<string(gstr1)>, ,1)>. Más <if(gnum4,decidida,decidido)>.
+TEXT_JOBDRK400_02056_FRAY_000_001	No oíste la voz desde la última vez que hablamos. Lo sé. Pero no te preocupes.
+TEXT_JOBDRK400_02056_FRAY_000_002	Si tu afinidad con tu lado oscuro es tan fuerte como creo, la comunión es todo lo que necesitas.
+TEXT_JOBDRK400_02056_FRAY_000_003	Ven conmigo a the Burning Wall. Sabes lo que tienes que hacer.
+TEXT_JOBDRK400_02056_FRAY_000_010	Empieza, como siempre, con sangre. Una confirmación de quién eres.
+TEXT_JOBDRK400_02056_FRAY_000_011	Aquí hay unos axe beaks que se volvieron feroces más allá de toda medida. Criaturas viles, ansiosas por cazar hombres y bestias por igual.
+TEXT_JOBDRK400_02056_FRAY_000_012	Ofrécete a ellos. Vendrán.
+TEXT_JOBDRK400_02056_FRAY_000_013	Y entonces ofrécemelos a mí.
+TEXT_JOBDRK400_02056_FRAY_000_020	Basta de palabras, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBDRK400_02056_FRAY_000_030	¡Ahhh, <if(gnum4,esta,este)> es <if(gnum4,la,el)> <split(<string(gstr1)>, ,1)> que tanto quería ver!
+TEXT_JOBDRK400_02056_FRAY_000_031	Te molesta esto, ¿no? Esta prueba "inútil".
+TEXT_JOBDRK400_02056_FRAY_000_032	Quizás incluso te molesta que yo te haya hecho pasar por ella.
+TEXT_JOBDRK400_02056_FRAY_000_033	Recuerda este sentimiento. Atesóralo. Quiero que arda en tu interior cuando comulguemos en Camp Drybone.
+TEXT_JOBDRK400_02056_FRAY_000_040	Cierra los ojos y extiende la mano hacia mí. Respira hondo por la nariz: deja que el aire te llene los pulmones y luego déjalo salir por los labios. Más lento, más lento...
+TEXT_JOBDRK400_02056_FRAY_000_041	Escucha mi voz. Escucha los latidos de tu corazón. Escucha al otro...
+TEXT_JOBDRK400_02056_ISEMBARD_000_042	(-???-)¡Gracias a los Twelve, <italic(1)>sí<italic(0)> eres tú! ¡<split(<string(gstr1)>, ,1)>!
+TEXT_JOBDRK400_02056_ISEMBARD_000_043	Isembard, ¿te acuerdas? ¡Debe hacer siglos que no hablamos!
+TEXT_JOBDRK400_02056_ISEMBARD_000_044	¡Y pensar que terminarías matando al Lord of the Inferno! Cuando pasaste por aquí la primera vez buscando a nuestra gente desaparecida, te tomé por...
+TEXT_JOBDRK400_02056_ISEMBARD_000_045	¡Ah, pero no es momento de recordar! ¡Te busqué porque necesito tu ayuda!
+TEXT_JOBDRK400_02056_FRAY_000_050	...Cuente, cuente.
+TEXT_JOBDRK400_02056_ISEMBARD_000_051	¡Hace poco, una partida de saqueadores Amalj'aa atacó una caravana en el camino y secuestró a varios peregrinos!
+TEXT_JOBDRK400_02056_ISEMBARD_000_052	Informamos del incidente tanto a los Brass Blades como a los Immortal Flames, pero parece que ninguno está en condiciones de reunir tropas por ahora.
+TEXT_JOBDRK400_02056_ISEMBARD_000_053	Tú <italic(1)>sabes<italic(0)> lo que les espera si no los rescatan pronto. Por favor, <split(<string(gstr1)>, ,1)>, ¡no hay nadie más!
+TEXT_JOBDRK400_02056_FRAY_000_054	¿En serio? ¿¡Lanzarse a un campamento enemigo lleno de guerreros Amalj'aa para liberar a unos tontos que debieron armarse!?
+TEXT_JOBDRK400_02056_FRAY_000_055	¿¡Arriesgar el pellejo para hacer el trabajo de una docena de hombres, todo porque usted lo pidió, maldita sea!? ¿¡Eso es todo!?
+TEXT_JOBDRK400_02056_Q1_000_056	¿Qué dirás?
+TEXT_JOBDRK400_02056_A1_000_057	Es lo que hacemos.
+TEXT_JOBDRK400_02056_A2_000_058	¿Qué otra opción tenemos?
+TEXT_JOBDRK400_02056_FRAY_000_060	Pero es lo que hacemos, ¿no? Cada maldita vez. Está bien. Los traeremos de vuelta.
+TEXT_JOBDRK400_02056_FRAY_000_065	Pero ¿qué otra opción tenemos, eh? Como dijiste: no hay nadie más. Los traeremos de vuelta.
+TEXT_JOBDRK400_02056_ISEMBARD_000_070	Yo... yo... Gracias por... Los llevaban al campamento del sudeste...
+TEXT_JOBDRK400_02056_FRAY_000_071	Entonces allá vamos también.
+TEXT_JOBDRK400_02056_ISEMBARD_000_080	Los... los llevaban al campamento del sudeste...
+TEXT_JOBDRK400_02056_FRAY_000_090	Qué descaro tiene alguna gente, después de todo lo que haces por ellos...
+TEXT_JOBDRK400_02056_FRAY_000_091	Están adentro, como dijo Isembard. A punto de quedar subyugados, seguro.
+TEXT_JOBDRK400_02056_FRAY_000_092	Bueno, ¿qué esperas? ¡Es hora de hacerte <if(gnum4,la heroína,el héroe)>!
+TEXT_JOBDRK400_02056_FRAY_000_100	Je, je, no sabían cuándo parar, ¿verdad?
+TEXT_JOBDRK400_02056_FRAY_000_101	Tú tampoco, ¿eh? Digo, mírate. ¡La mayor parte de eso ni siquiera es tu sangre!
+TEXT_JOBDRK400_02056_FRAY_000_102	Déjala. No tienes nada de qué avergonzarte.
+TEXT_JOBDRK400_02056_FRAY_000_103	Vamos a darle la buena noticia a Isembard.
+TEXT_JOBDRK400_02056_FRAY_000_110	Isembard debería saber lo que hiciste. Muéstraselo.
+TEXT_JOBDRK400_02056_ISEMBARD_000_120	¡B-Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>! ¡Oí que les diste su merecido a esos Amalj'aa! ¡B-Bien hecho!
+TEXT_JOBDRK400_02056_ISEMBARD_000_121	Seguro tienes ganas de seguir tu camino, así que no te quitaré más tiempo... ¡pero g-gracias! ¡Vuelve cuando quieras!
+TEXT_JOBDRK400_02056_ISEMBARD_000_130	¡Estamos bien, <split(<string(gstr1)>, ,1)>! ¡No hace falta que te quedes por nosotros! ¡Sigue tu camino, por favor!
+TEXT_JOBDRK400_02056_FRAY_000_140	Quienes nunca enfrentaron la muerte no tienen reparos en condenar a otros a ella. No saben nada del verdadero sacrificio, y su ignorancia los hace débiles.
+TEXT_JOBDRK400_02056_FRAY_000_141	En el sacrificio hay fuerza. En el sacrificio hay liberación.
+TEXT_JOBDRK400_02056_FRAY_000_142	Cierra los ojos y extiende la mano hacia mí. Respira hondo por la nariz: deja que el aire te llene los pulmones y luego déjalo salir por los labios. Más lento, más lento...
+TEXT_JOBDRK400_02056_SYSTEM_000_150	Con cada respiración te vuelves <if(gnum4,más liviana,más liviano)> y te hundes más en el abismo...
+TEXT_JOBDRK400_02056_FRAY_000_151	(-???-)En un trono de huesos <if(gnum4,ella,él)> espera...
+TEXT_JOBDRK400_02056_FRAY_000_152	(-???-)Servir... Salvar... Siervo... Segar...<br>Vienen a implorar su juicio...
+TEXT_JOBDRK400_02056_FRAY_000_153	(-???-)Servir... Salvar... Siervo... Segar...<br>Uno a uno, en solemne procesión...
+TEXT_JOBDRK400_02056_FRAY_000_154	...Y bien. ¿Qué oíste esta vez?
+TEXT_JOBDRK400_02056_FRAY_000_155	Hm. Y yo que creía que estabas a punto de descubrir la verdad...
+TEXT_JOBDRK400_02056_FRAY_000_156	Tu afinidad con tu lado oscuro se fortalece día a día. Y aun así... hay una vacilación.
+TEXT_JOBDRK400_02056_FRAY_000_157	Escúchame, <split(<string(gstr1)>, ,1)>. Hiciste grandes hazañas y salvaste a innumerables personas. Eres <if(gnum4,una heroína,un héroe)> para el reino...
+TEXT_JOBDRK400_02056_FRAY_000_158	Pero no eres <if(gnum4,una dark knight,un dark knight)>.
+TEXT_JOBDRK400_02056_FRAY_000_159	<if(gnum4,Una dark knight,Un dark knight)> acepta que no puede salvar a todos; que a veces tiene suerte con solo salvarse a sí <if(gnum4,misma,mismo)>.
+TEXT_JOBDRK400_02056_FRAY_000_160	Sacrificarse, <split(<string(gstr1)>, ,1)>, es renunciar a lo que te ata. Reconocer lo que importa y abandonar todo lo que no.
+TEXT_JOBDRK400_02056_FRAY_000_161	Como mínimo, tienes que darte cuenta de que no puedes seguir cargando con todo ese peso...
+TEXT_JOBDRK400_02056_FRAY_000_162	A menos que quieras morir como <if(gnum4,una esclava,un esclavo)>.
+TEXT_JOBDRK400_02056_FRAY_000_163	...Estoy bien, solo un poco... solo un poco <if(gnum4,cansada,cansado)>.
+TEXT_JOBDRK400_02056_FRAY_000_164	La comunión terminó, y con ella, nuestro tiempo juntos. Pero volveremos a vernos, como antes.
+TEXT_JOBDRK400_02056_QIB_001_TODO_1	¡Rescata a los peregrinos!
+TEXT_JOBDRK400_02056_QIB_001_TODO_2	¡Defiende a los peregrinos!
+TEXT_JOBDRK400_02056_QIB_001_TODO_3	¡Masacra a los Amalj'aa!
+TEXT_JOBDRK400_02056_FRAY_BATTLETALK_01	No están lejos. Guía el camino.
+TEXT_JOBDRK400_02056_RESCUE1_BATTLETALK_01	¡Que los dioses te bendigan, <if(gnum4,aventurera,aventurero)>!
+TEXT_JOBDRK400_02056_FRAY_BATTLETALK_02	¡Sigan avanzando! ¡Todavía no estamos a salvo!
+TEXT_JOBDRK400_02056_FRAY_BATTLETALK_05	Claro que hay más. Siempre hay más.
+TEXT_JOBDRK400_02056_SOLDIER_BATTLETALK_01	¡Reagrúpense! ¡No dejen que escape!
+TEXT_JOBDRK400_02056_FRAY_BATTLETALK_03	¡Corran! ¡Vayan a Camp Drybone!
+TEXT_JOBDRK400_02056_BOSS_BATTLETALK_02	¡Pagarás por tu insolencia!
+TEXT_JOBDRK400_02056_FRAY_BATTLETALK_06	¡Ay, qué día! ¡Qué día tan hermoso!
+TEXT_JOBDRK400_02056_FRAY_BATTLETALK_07	Ya tuve suficiente. Vámonos.
+TEXT_JOBDRK400_02056_FRAY_BATTLETALK_04	¿¡Crees que esto es todo!? ¿¡Crees que esto termina conmigo!?
+TEXT_JOBDRK400_02056_RESCUE1_BATTLETALK_02	No... ¡No!
+TEXT_JOBDRK400_02056_RESCUE2_BATTLETALK_01	No... no puedo...
+TEXT_JOBDRK400_02056_RESCUE3_BATTLETALK_01	Creo que necesito sentarme...

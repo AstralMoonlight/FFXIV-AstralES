@@ -1,0 +1,139 @@
+key	text
+TEXT_JOBDRK580_02063_SEQ_00	Una ira que conoces demasiado bien arde en el interior de Sidurgu.
+TEXT_JOBDRK580_02063_SEQ_01	La House Caulignont tiene desde hace mucho fuertes lazos con la Ishgardian Orthodox Church, lo que permitió que muchos de sus hijos e hijas alcanzaran gran prominencia en el clero. La Condesa Ystride de Caulignont estaba a punto de lograr lo mismo, hasta que descubrió la herejía de su esposo. Cuando lo encaró, él confesó con orgullo que llevaba décadas bebiendo sangre de dragón, antes de vaciar un frasco para completar su transformación y asesinar a su esposa. Aunque lo mataron antes de que pudiera hacerlo, igual logró destrozar a su familia: cuando la condesa se dio cuenta de que la sangre corrupta de él había pasado a su hija, Rielle, decidió encerrarla en una celda por miedo a lo que la niña pudiera llegar a ser.<br><br>Ahora que conoce del todo la naturaleza fanática de sus enemigos, Sidurgu quiere aprovechar cualquier ventaja para la batalla que se avecina. Recordando las palabras de la dragona antigua, piensa buscar a los "seres diminutos" que conocen un camino mejor. No tiene idea de quiénes pueden ser, pero tú sospechas que sí lo sabes...
+TEXT_JOBDRK580_02063_SEQ_02	Llamas a Sidurgu y a Rielle a Moghome y les presentas a Moggie, la segunda moogle mejor informada de la aldea. Sin embargo, en vez de hablar con la moogle, Rielle, normalmente reservada, estalla y le reprocha a Sidurgu su obsesión con la oscuridad y cómo la trata. Moggie, que cree entender lo de la "llama en el abismo", les pide a Sidurgu y a ti que recojan pomwort mientras ella y los otros moogles cuidan a Rielle.
+TEXT_JOBDRK580_02063_SEQ_03	Aunque no te queda nada claro para qué, recoges el pomwort como te pidió Moggie. Vuelve con la moogle y entrégale lo que juntaste.
+TEXT_JOBDRK580_02063_SEQ_04	Ya que completaste tu primera "prueba", Moggie te pide que emprendas una segunda. Sidurgu y tú deben eliminar tulihands en el camino a Asah. Una prueba curiosa, sin duda, pero seguro que la locura de la moogle tiene su método...
+TEXT_JOBDRK580_02063_SEQ_05	Mientras matas un tulihand tras otro, empiezas a preguntarte si todo esto no será un trabajo inútil para tenerte <if(gnum4,ocupada,ocupado)>. Reúnete con Sidurgu en Asah y averigua si comparte tus sospechas.
+TEXT_JOBDRK580_02063_SEQ_06	En un giro de los acontecimientos tan impactante como desconcertante, los moogles de Moghome revelan que secuestraron a Rielle. Como era de esperar, Sidurgu estalla de ira, y juntos se ponen a darles una paliza a los moogles. Después, tu camarada vuelve a exigir que le devuelvan a su protegida, pero los moogles le preguntan por qué. Sidurgu invoca su juramento de dark knight, y los moogles reunidos se ponen a cantar, alabando las virtudes del amor. Sin palabras, el dark knight se da vuelta, y encuentra a Rielle sana y salva en compañía de Moggie. A pedido de la moogle, Rielle expresa lo que siente y acusa a Sidurgu de ayudarla solo para avanzar en su propia venganza contra los Temple Knights. Tras un momento, él reconoce que tiene razón, pero le recuerda que no sobrevivirán al juicio que se avecina si no se ayudan. Dice que lo que pase después lo decidirá ella, y sus palabras parecen calmar a la jovencita.
+TEXT_JOBDRK580_02063_SEQ_07	Declarando que el tiempo en Moghome fue una pérdida total, Sidurgu vuelve a Ishgard con Rielle. Mientras los ves partir, sin embargo, no estás del todo <if(gnum4,segura,seguro)> de estar de acuerdo...
+TEXT_JOBDRK580_02063_SEQ_08	En the Forgotten Knight, Sidurgu te revela que estuvo entre aquellos primeros refugiados que llegaron a Ishgard, y que vio, impotente, cómo los Temple Knights ejecutaban a sus padres sin motivo. Él también habría muerto ese día de no ser por la intervención de un dark knight, que luego se convertiría en su mentor. Aunque decía abrazar ideales nobles, confiesa que probablemente no era más que una excusa para entregarse a la venganza. Aunque ahora se cree indigno de defender a Rielle, sabe que ella no tiene a nadie más que a ustedes dos. Al menos en una última batalla, estará a su lado...<br><br>※La siguiente misión de dark knight estará disponible con Sidurgu al llegar al nivel 60.
+TEXT_JOBDRK580_02063_TODO_00	Habla con Moggie en Moghome.
+TEXT_JOBDRK580_02063_TODO_01	Recoge pomwort.
+TEXT_JOBDRK580_02063_TODO_02	Entrégale el pomwort a Moggie.
+TEXT_JOBDRK580_02063_TODO_03	Vigila por si aparecen tulihands en the Landlord Colony.
+TEXT_JOBDRK580_02063_TODO_04	Habla con Sidurgu en Asah.
+TEXT_JOBDRK580_02063_TODO_05	Habla con Sidurgu.
+TEXT_JOBDRK580_02063_TODO_06	Habla con Sidurgu en Ishgard.
+TEXT_JOBDRK580_02063_SYSTEM_000_900	Para emprender esta misión, primero debes completar la misión de la historia principal "Mountaintop Diplomacy".
+TEXT_JOBDRK580_02063_SIDURGU_000_000	Me costó bastante, pero por fin sé toda la verdad. Escúchame, <split(<string(gstr1)>, ,1)>. Tienes derecho a saberlo.
+TEXT_JOBDRK580_02063_SIDURGU_000_001	Durante incontables generaciones, los hijos e hijas de la House Caulignont se consagraron a la iglesia, tan devotos de la fe son.
+TEXT_JOBDRK580_02063_SIDURGU_000_002	Muchos alcanzaron puestos de gran prominencia en el clero, y por un tiempo la Condesa Ystride de Caulignont estuvo a punto de lograr lo mismo. Y cuando ella y su esposo celebraron el nacimiento de su primogénita, el futuro de la casa parecía más brillante que nunca.
+TEXT_JOBDRK580_02063_SIDURGU_000_003	Hasta que, años después, llegaron los inquisidores. La información obtenida en un interrogatorio señalaba a su esposo como hereje.
+TEXT_JOBDRK580_02063_SIDURGU_000_004	Cuando la condesa lo encaró con esas acusaciones, él se llevó un frasco a los labios y completó su transformación, una que, según declaró con orgullo, llevaba <italic(1)>décadas<italic(0)> preparando.
+TEXT_JOBDRK580_02063_SIDURGU_000_005	...Los Temple Knights lo mataron cuando intentaba arrancarle la garganta.
+TEXT_JOBDRK580_02063_SIDURGU_000_006	Después, ella hizo encerrar a Rielle en la celda más profunda que pudo encontrar.
+TEXT_JOBDRK580_02063_SIDURGU_000_007	Locura. ¿¡Qué clase de monstruo piensa encontrar la absolución en la muerte de su hija!?
+TEXT_JOBDRK580_02063_RIELLE_000_008	¡No deben ir! ¡Los va a matar!
+TEXT_JOBDRK580_02063_SIDURGU_000_009	¡Nos va a matar igual si no vamos! Yo... sé lo que hago, Rielle. Tengo un plan...
+TEXT_JOBDRK580_02063_SIDURGU_000_010	<split(<string(gstr1)>, ,1)>, ¿recuerdas las palabras de la dragona cuando le contamos de nuestras artes oscuras? Dijo que había "seres diminutos" que conocían un camino mejor.
+TEXT_JOBDRK580_02063_SIDURGU_000_011	Si pueden enseñarnos a dominar el abismo, quizás podamos hacerle frente a Lady Ystride y a sus secuaces. Por desgracia, no tengo la menor idea de quiénes pueden ser esos "seres diminutos"...
+TEXT_JOBDRK580_02063_SIDURGU_000_020	Haré averiguaciones, pero no espero saber mucho. Si descubres algo de interés, avísame.
+TEXT_JOBDRK580_02063_RIELLE_000_025	Bien, entonces. Un plan.
+TEXT_JOBDRK580_02063_MOGGIE_000_030	¡Vaya, si es <if(gnum4,una de las nuevas visitantes,uno de los nuevos visitantes)> de abajo! ¿Buscas algo? Si es así, ¡solo pregunta! Me enorgullece ser la segunda moogle mejor informada de aquí, ¡kupo!
+TEXT_JOBDRK580_02063_MOGGIE_000_031	...Vaya, qué forma tan sombría de vivir, ¿no? ¡Nunca oí de caballeros tan obsesionados con la "oscuridad"!
+TEXT_JOBDRK580_02063_MOGGIE_000_032	Pero creo que sé por qué te mandó a vernos. Ve a buscar a tus amigos. ¡Tenemos muchísimo de qué hablar, kupo!
+TEXT_JOBDRK580_02063_MOGGIE_000_033	¡Bienvenidos a Moghome, kupo! La pequeña debe ser Rielle, lo que hace del grandote a Sid, ¿no?
+TEXT_JOBDRK580_02063_SIDURGU_000_034	...Sí. Supongo que eres uno de los "seres diminutos" de los que habló la dragona.
+TEXT_JOBDRK580_02063_RIELLE_000_035	...
+TEXT_JOBDRK580_02063_SIDURGU_000_036	Rielle, dile algo a la moogle.
+TEXT_JOBDRK580_02063_SIDURGU_000_037	Rielle.
+TEXT_JOBDRK580_02063_RIELLE_000_038	...
+TEXT_JOBDRK580_02063_SIDURGU_000_039	¡Rielle!
+TEXT_JOBDRK580_02063_RIELLE_000_040	...Estoy harta de esta farsa.
+TEXT_JOBDRK580_02063_RIELLE_000_041	Me dices que hable, pero después te niegas a escuchar. Me dices que haces esto por mí, ¡pero después sigues con la "oscuridad" y el "abismo"!
+TEXT_JOBDRK580_02063_RIELLE_000_042	¿Se supone que tengo que estar agradecida cuando vuelves cubierto de sangre? ¿¡Cuando te curo para que puedas volver a hacerlo!?
+TEXT_JOBDRK580_02063_RIELLE_000_043	Me arrastras hasta el otro lado del mundo para descubrir una nueva forma de matarte, ¿¡y me dices que es por <italic(1)>mi<italic(0)> bien!?
+TEXT_JOBDRK580_02063_RIELLE_000_044	¿¡Por qué estamos aquí, Sidurgu!? ¡Dime la razón <italic(1)>de verdad<italic(0)>!
+TEXT_JOBDRK580_02063_SIDURGU_000_045	Rielle, yo... ¡claro que es por <italic(1)>tu<italic(0)> bien!
+TEXT_JOBDRK580_02063_RIELLE_000_046	Bueno, sí que lo practicaste mucho, ¿no?
+TEXT_JOBDRK580_02063_RIELLE_000_047	¡Seguro que la próxima doncella lo va a agradecer!
+TEXT_JOBDRK580_02063_SIDURGU_000_048	¿¡Qué estás diciendo!? ¡No es así, Rielle!
+TEXT_JOBDRK580_02063_SIDURGU_000_049	¡Y tú! ¡Di algo, maldita sea!
+TEXT_JOBDRK580_02063_MOGGIE_000_050	¡Ahhh, creo que empiezo a entender todo esto de la "oscuridad", kupo!
+TEXT_JOBDRK580_02063_MOGGIE_000_051	Aprovechar el poder de tus emociones o algo así, ¿no? Me recuerda una antigua leyenda sobre un moogle llamado Mog... un nombre bastante simple, lo sé, pero eran tiempos más simples, ¡kupo! En fin, a Mog le encantaba bailar, y...
+TEXT_JOBDRK580_02063_SIDURGU_000_052	Espera, espera. ¿Qué tiene que ver el baile con las artes oscuras?
+TEXT_JOBDRK580_02063_MOGGIE_000_053	¡Todo, kupo! ¡<italic(1)>Todo<italic(0)>!
+TEXT_JOBDRK580_02063_MOGGIE_000_054	La cuestión es que tu maestro tenía toda la razón cuando te dijo que "te entregaras a la llama". Solo que nunca entendiste qué quería decir.
+TEXT_JOBDRK580_02063_MOGGIE_000_055	Pero más vale tarde que nunca, ¡kupo! ¡La Maestra Moggie les mostrará el camino! Primero, ustedes dos, dark knights, tienen que arrancar cuatro ramitas de pomwort cada uno. ¡Andando, kupo!
+TEXT_JOBDRK580_02063_SIDURGU_000_056	No veo de qué sirve esto, pero está bien. Tendrás tu preciado pomwort.
+TEXT_JOBDRK580_02063_MOGGIE_000_057	¡Ah, y Rielle puede quedarse aquí con nosotros mientras no están!
+TEXT_JOBDRK580_02063_SIDURGU_000_058	...Vamos, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBDRK580_02063_MOGGIE_000_060	¡Nadie va a dominar la oscuridad ni el abismo ni nada de nada si antes no me traen mucho pomwort, kupo!
+TEXT_JOBDRK580_02063_RIELLE_000_065	...Cuídalo, ¿sí?
+TEXT_JOBDRK580_02063_SIDURGU_000_070	La fuerza es dolor. La fuerza es sufrimiento. La fuerza es sacrificio... ¡Grr! ¡Al diablo con esto!
+TEXT_JOBDRK580_02063_SIDURGU_000_075	...Recuérdame otra vez por qué volvimos.
+TEXT_JOBDRK580_02063_RIELLE_000_080	Esto no me da buena espina...
+TEXT_JOBDRK580_02063_MOGGIE_000_090	¡Ahí estás, <if(gnum4,la más oscura de las oscuras de la oscuridad,el más oscuro de los oscuros de la oscuridad)>! ¿Trajiste mi pomwort?
+TEXT_JOBDRK580_02063_MOGGIE_000_091	¡Muy bien, muy bien, kupo! ¡Eso debe haberte tenido <if(gnum4,ocupada,ocupado)> un buen rato!
+TEXT_JOBDRK580_02063_MOGGIE_000_092	Para tu siguiente prueba, debes, eh... ¡debes eliminar tulihands, kupo!
+TEXT_JOBDRK580_02063_MOGGIE_000_093	Vieron un montón en el camino a Asah. Si esperas ahí lo suficiente, seguro que aparecen, ¡kupo!
+TEXT_JOBDRK580_02063_MOGGIE_000_094	¿Rielle? ¡Ah, no te preocupes por ella! Está jugando con unos amigos míos, ¡kupo!
+TEXT_JOBDRK580_02063_MOGGIE_000_095	Concéntrate en la prueba, ¡y espérame en Asah cuando termines!
+TEXT_JOBDRK580_02063_MOGGIE_000_100	Cuando Sid y tú terminen de eliminar esos tulihands, búsquenme en Asah, ¡y les daré su siguiente prueba, kupo!
+TEXT_JOBDRK580_02063_SIDURGU_000_101	...¿Qué demonios estamos haciendo, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBDRK580_02063_SIDURGU_000_102	¿Qué pueden saber los moogles de dominar las artes oscuras?
+TEXT_JOBDRK580_02063_TANKMOOGLE02063_000_103	(-???-)¡Muajaja! ¡Tontos de remate!
+TEXT_JOBDRK580_02063_SIDURGU_000_104	...Bien, entonces. ¿Qué es todo esto?
+TEXT_JOBDRK580_02063_TANKMOOGLE02063_000_105	Mientras ustedes dos estaban ocupados juntando pomwort y matando tulihands, ¡secuestramos a Rielle, kupo! ¡Muajaja!
+TEXT_JOBDRK580_02063_HEALERMOOGLE02063_000_106	¡Oh, síííí, kupo! ¡Nos divertimos tanto jugando juntos! ¡Pero tanto tanto, kupo!
+TEXT_JOBDRK580_02063_TANKMOOGLE02063_000_107	¡Tanto que pensamos quedárnosla aquí para siempre! ¡Muajaja!
+TEXT_JOBDRK580_02063_SIDURGU_000_108	No se atreverían.
+TEXT_JOBDRK580_02063_HEALERMOOGLE02063_000_109	Si no nos creen, ¡vayan a buscar! ¡Nunca la van a encontrar, kupo! ¡Ni en un millón de años!
+TEXT_JOBDRK580_02063_TANKMOOGLE02063_000_110	¡Muajaja! ¡Es nuestra, kupo! ¡Nunca la volverán a ver! ¡Muajaja!
+TEXT_JOBDRK580_02063_SIDURGU_000_111	¡Ustedes... pequeñas basuras peludas!
+TEXT_JOBDRK580_02063_SIDURGU_000_112	¡Devuélvanmela, ya! ¡O juro que los mataré a todos hasta el último y reduciré su aldea a cenizas!
+TEXT_JOBDRK580_02063_TANKMOOGLE02063_000_150	¡Ay! ¡P-Podrías lastimar a alguien de verdad si sigues así, kupo!
+TEXT_JOBDRK580_02063_SIDURGU_000_151	¡Esa es la maldita idea! ¡Ahora dime dónde está si quieres vivir!
+TEXT_JOBDRK580_02063_TANKMOOGLE02063_000_152	¡E-Espera, espera!
+TEXT_JOBDRK580_02063_HEALERMOOGLE02063_000_153	¿¡Por qué la quieres de vuelta con tantas ganas, kupo!?
+TEXT_JOBDRK580_02063_SIDURGU_000_154	¿¡Qué clase de pregunta es esa!? ¡Ustedes la secuestraron!
+TEXT_JOBDRK580_02063_HEALERMOOGLE02063_000_155	Pero igual no parece que te guste mucho tenerla cerca, ¿no? Solo es una carga para ti. Entonces, ¿por qué te importa lo que le pase?
+TEXT_JOBDRK580_02063_SIDURGU_000_156	Yo... yo hice un juramento. Protegerla. Eso hacemos los dark knights...
+TEXT_JOBDRK580_02063_ATTACKERMOOGLE02063_000_157	¿¡Crees que eso te dará fuerza suficiente para protegerla!? ¿Deber y honor? ¡Te voy a decir lo que necesitas, kupo!
+TEXT_JOBDRK580_02063_BUFFERMOOGLE02063_000_158	¿De dónde sale la fuerza para al débil proteger?♪<br>¿Es el honor? ¿Es la justicia? ¡Qué aburriiido ha de ser!♪
+TEXT_JOBDRK580_02063_BUFFERMOOGLE02063_000_159	¿Y si la oscuridad nace de una luz?♪<br>¿Una llama que arde por alguien más? ¡Qué grandiooosa virtud!♪
+TEXT_JOBDRK580_02063_BUFFERMOOGLE02063_000_160	¡Es el amor! ¡Es el amor!♪<br>¡Todopoderoso y radiante amooooor!♪
+TEXT_JOBDRK580_02063_MOGGIE_000_161	...Bastante directo, lo admito, pero la sutileza no parece ser tu fuerte, kupo.
+TEXT_JOBDRK580_02063_SIDURGU_000_162	¡Rielle!
+TEXT_JOBDRK580_02063_MOGGIE_000_163	Bueno, aquí estamos. Adelante, Rielle. Di lo que tengas que decir.
+TEXT_JOBDRK580_02063_RIELLE_000_164	...Sé que Fray y tú intentaban hacer lo correcto por su maestro: que salieron en mi defensa porque creían que eso habría querido <italic(1)>él<italic(0)>. ¡Y <italic(1)>sé<italic(0)> que lo hiciste solo porque creías que te haría más fuerte, porque lo único que de verdad te importa es matar más Temple Knights!
+TEXT_JOBDRK580_02063_RIELLE_000_165	Vi cómo los miras, cómo los maldices entre dientes. Cómo disfrutas cada oportunidad de abatirlos. ¡Así que no me digas que todo fue por <italic(1)>mí<italic(0)>! ¡No me digas que Fray <italic(1)>murió<italic(0)> por mí!
+TEXT_JOBDRK580_02063_SIDURGU_000_166	...Todo lo que hice, lo hice por mi madre y mi padre. Por mi maestro, y sí... sobre todo, por mí.
+TEXT_JOBDRK580_02063_SIDURGU_000_167	No fui sincero contigo, ni conmigo mismo... y por eso lo siento. Estaré a tu lado en el juicio que se avecina, pero después... Lo que pase después lo decidirás tú.
+TEXT_JOBDRK580_02063_RIELLE_000_168	Bien. Es una promesa.
+TEXT_JOBDRK580_02063_RIELLE_000_170	Por si sirve de algo, lamento que haya tenido que llegar a esto.
+TEXT_JOBDRK580_02063_SIDURGU_000_180	...Las pequeñas bestias peludas nos engañaron, ¿eh?
+TEXT_JOBDRK580_02063_SIDURGU_000_181	Lástima que su sabiduría sea una tontería. Digo, en serio, ¿amor? ¿Eso es lo que hace falta para dominar el abismo?
+TEXT_JOBDRK580_02063_SIDURGU_000_182	Digo, supongo que algo de razón hay en preocuparse de verdad por quien uno protege, pero... No. No, no les voy a dar a esos cretinos ni una pizca de mérito. Esto fue una total pérdida de tiempo, y punto.
+TEXT_JOBDRK580_02063_SIDURGU_000_183	Aun así... me alegra haber llegado a un entendimiento con Rielle.
+TEXT_JOBDRK580_02063_SIDURGU_000_184	Deberíamos volver a Ishgard. Se acerca la hora del juicio.
+TEXT_JOBDRK580_02063_SIDURGU_000_185	Vamos, Rielle.
+TEXT_JOBDRK580_02063_RIELLE_000_190	...Había que decirlo.
+TEXT_JOBDRK580_02063_SIDURGU_000_200	...Yo tenía más o menos la edad de Rielle cuando llegué a Ishgard. Mis padres... decían que aquí encontraríamos una vida mejor.
+TEXT_JOBDRK580_02063_SIDURGU_000_201	Cuando volvieron los Temple Knights a los que habíamos perdonado, nos dejaron elegir en qué orden moriríamos. Esa sería su piedad con nosotros, declararon.
+TEXT_JOBDRK580_02063_SIDURGU_000_202	Vi a mis padres arrodillarse en la tierra. "No mires", me dijeron. Pero no pude apartar la vista.
+TEXT_JOBDRK580_02063_SIDURGU_000_203	Al final, cuando llegó mi turno, me arrodillé y me preparé para seguirlos a la muerte. Cerré los ojos... pero cuando los abrí, un hombre de negro estaba frente a mí, con la mano extendida. Y la tomé.
+TEXT_JOBDRK580_02063_SIDURGU_000_204	"Defender a los débiles". "Castigar a los malvados".<br>...Quizás no era más que una excusa cómoda para entregarme a la venganza.
+TEXT_JOBDRK580_02063_SIDURGU_000_205	Ella se merece algo mejor que yo. Pero no hay nadie más...
+TEXT_JOBDRK580_02063_SIDURGU_000_206	Una batalla más, <split(<string(gstr1)>, ,1)>. Terminemos con esto.
+TEXT_JOBDRK580_02063_SIDURGU_000_207	Quizás en esta última batalla pueda servir como quería mi maestro...
+TEXT_JOBDRK580_02063_QIB_001_TODO_1	¡Derrota a los moogles!
+TEXT_JOBDRK580_02063_QIB_001_SIDURGU_BATTLETALK_DEAD	¡Devuélvanmela! Devuélvan... mela...
+TEXT_JOBDRK580_02063_QIB_001_TANK_MOOGLE_BATTLETALK_DEAD	Muajaja... ja... ja...
+TEXT_JOBDRK580_02063_QIB_001_HEALER_MOOGLE_BATTLETALK_DEAD	Ay, eso es más de lo que yo...
+TEXT_JOBDRK580_02063_QIB_001_SNIPER_MOOGLE_BATTLETALK_DEAD	Un poco exagerado, si me preguntas, kupo...
+TEXT_JOBDRK580_02063_QIB_001_NUKER_MOOGLE_BATTLETALK_DEAD	Para siempre... para siempre...
+TEXT_JOBDRK580_02063_QIB_001_ATTACKER_MOOGLE_BATTLETALK_DEAD	Esto... esto no es lo que yo...
+TEXT_JOBDRK580_02063_QIB_001_BUFFER_MOOGLE_BATTLETALK_DEAD	¡Sigue llorando, kupo! Sigue...
+TEXT_JOBDRK580_02063_QIB_001_DEBUFFER_MOOGLE_BATTLETALK_DEAD	Uf... Más vale que valga la pena...
+TEXT_JOBDRK580_02063_QIB_001_TANK_MOOGLE_BATTLETALK_00	¡Muajaja! ¡Hagan lo peor que puedan, kupo!
+TEXT_JOBDRK580_02063_QIB_001_HEALER_MOOGLE_BATTLETALK_01	¡Extrañas a tu Rielle, kupo! ¡Pues qué lástima! ¡Ahora es <italic(1)>nuestra<italic(0)> Rielle, kupo!
+TEXT_JOBDRK580_02063_QIB_001_SIDURGU_BATTLETALK_02	¡Te voy a arrancar ese pompón de la cabeza y te lo voy a meter por la maldita garganta!
+TEXT_JOBDRK580_02063_QIB_001_SNIPER_MOOGLE_BATTLETALK_03	¡Nuestro turno, kupo!
+TEXT_JOBDRK580_02063_QIB_001_SIDURGU_BATTLETALK_05	¡Devuélvanmela! ¡Devuélvanmela!
+TEXT_JOBDRK580_02063_QIB_001_NUKER_MOOGLE_BATTLETALK_04	No lo entiendes, ¿verdad, kupo? ¡Se fue! ¡Para siempre! ¡Muajaja!
+TEXT_JOBDRK580_02063_QIB_001_ATTACKER_MOOGLE_BATTLETALK_06	¡No importa cuánto pelees, kupo! ¡Nunca la volverás a ver!
+TEXT_JOBDRK580_02063_QIB_001_BUFFER_MOOGLE_BATTLETALK_07	¿Qué? ¿Ahora vas a llorar, kupo? ¡Adelante! ¡Llora! ¡Llora para mí, kupo!
+TEXT_JOBDRK580_02063_QIB_001_DEBUFFER_MOOGLE_BATTLETALK_08	¡Creo que sí está llorando, kupo! ¡Miren!
+TEXT_JOBDRK580_02063_QIB_001_SIDURGU_BATTLETALK_09	¡GRAAARRRGGGH! ¡MUERAN, MALDITOS, MUERAN!

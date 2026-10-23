@@ -1,0 +1,109 @@
+key	text
+TEXT_JOBDRK450_02057_SEQ_00	Fray te estuvo observando, y no le agrada tu progreso.
+TEXT_JOBDRK450_02057_SEQ_01	La voz espera a ser oída, pero no logras captarla por tu cuenta. Aunque <if(gnum4,decepcionada,decepcionado)>, Fray te ayudará a entender su intención. Solo la comunión servirá. Esta vez realizarás los ritos en Moraby Drydocks.
+TEXT_JOBDRK450_02057_SEQ_02	¿¡De dónde sale esta gente!? Estos débiles, inútiles y desamparados que se creen con derecho a pedirle ayuda a cada aventurero que pasa. ¡Y ahora llega otro, suplicándole al Warrior of Light que recupere un cofre robado o un cajón de quién sabe qué! El mercader asegura que los bandidos Qiqirn y su líder serán una presa digna, pero ya nos decepcionaron antes...
+TEXT_JOBDRK450_02057_SEQ_03	A tu alrededor yacen los restos de los Qiqirn, hechos pedazos, algunos irreconocibles. Con el pecho agitado por el esfuerzo, miras la espada ensangrentada en tus manos, sin saber cuánto tiempo hace que la sostienes. El martilleo en tu cabeza se intensifica, y parpadeas para contener el dolor. Fray... ¿Dónde está Fray...?
+TEXT_JOBDRK450_02057_SEQ_04	Fray se ve como tú te sientes: <if(gnum4,completamente agotada,completamente agotado)> y con necesidad de descansar. "Termínalo", te dice. "Termina lo que empezamos...".
+TEXT_JOBDRK450_02057_SEQ_05	¡Locura! ¡Locura total! ¡Ese saco de mierda sin agallas de verdad exigió una compensación por sus bienes! ¡Qué descaro tiene esta gente, después de todo lo que hacemos por ellos! ¡Pero Fray no iba a dejarlo pasar, oh, no! Fue algo glorioso: Fray dándoles voz a nuestros sentimientos. Nuestras palabras saliendo a borbotones de la boca de Fray. Pero ¿por qué tuvo que irse? ¿Adónde pudo haber ido?
+TEXT_JOBDRK450_02057_SEQ_06	Fray teme por nosotros. Sabe que no podemos seguir así. La voz... tenemos que escuchar la voz...
+TEXT_JOBDRK450_02057_SEQ_07	Fray tiene razón, por supuesto. Fray siempre tuvo razón. Solo cuando hayamos renunciado a todo seremos libres de hacer cualquier cosa. Podemos dejarlo todo atrás: todo. Los Scions. La Alliance. Incluso a Hydaelyn. Solo tenemos que pedirlo, y Fray nos liberará.<br><br>※La siguiente misión de dark knight estará disponible con Fray al llegar al nivel 50.
+TEXT_JOBDRK450_02057_TODO_00	Reúnete con Fray en Moraby Drydocks.
+TEXT_JOBDRK450_02057_TODO_01	Habla con Fray en the Salt Strand.
+TEXT_JOBDRK450_02057_TODO_02	Habla con Fray.
+TEXT_JOBDRK450_02057_TODO_03	Devuelve la mercancía robada.
+TEXT_JOBDRK450_02057_TODO_04	Busca a Fray.
+TEXT_JOBDRK450_02057_TODO_05	Comulga con Fray.
+TEXT_JOBDRK450_02057_FRAY_000_000	...Empiezo a dudar de tu compromiso, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBDRK450_02057_FRAY_000_001	No oíste la voz desde nuestra última comunión, lo que significa que no te tomaste en serio mis lecciones.
+TEXT_JOBDRK450_02057_FRAY_000_002	Sabes que intento ayudarte, ¿no? Todo esto es por <italic(1)>tu<italic(0)> bien.
+TEXT_JOBDRK450_02057_FRAY_000_003	Escuchas, pero no <italic(1)>entiendes<italic(0)>...
+TEXT_JOBDRK450_02057_FRAY_000_004	...Olvídalo.
+TEXT_JOBDRK450_02057_FRAY_000_005	Eres <if(gnum4,de las testarudas,de los testarudos)>. Lo sé. Tendremos que seguir insistiendo hasta que abras los ojos.
+TEXT_JOBDRK450_02057_FRAY_000_006	Moraby Drydocks. Allá iremos ahora.
+TEXT_JOBDRK450_02057_FRAY_000_010	...El mar nunca me gustó mucho, la verdad.
+TEXT_JOBDRK450_02057_FRAY_000_011	<if(gnum4,Esa amiga mía, de la que,Ese amigo mío, del que)> te hablé después de nuestra primera comunión... Una vez vinimos aquí juntos.
+TEXT_JOBDRK450_02057_FRAY_000_012	Para no hacerla larga, terminamos haciendo una tontería ridícula y tuvimos suerte de salir con vida.
+TEXT_JOBDRK450_02057_FRAY_000_013	Intenté convencer<if(gnum4,la,lo)> de que no lo hiciera, pero tenía que subirse a ese maldito barco...
+TEXT_JOBDRK450_02057_MERCHANT02057_000_014	(-???-)¡No sea así, amiga! ¿No se supone que los Maelstrom ayudan a la gente común cuando está en apuros?
+TEXT_JOBDRK450_02057_STYRNLONA_000_015	En la medida de lo posible, sí, pero... esos asuntos son competencia de los Yellowjackets, y...
+TEXT_JOBDRK450_02057_MERCHANT02057_000_016	Y ellos me mandaron a paseo, ¿¡puede creerlo!? ¡Se lo ruego, Sargento!
+TEXT_JOBDRK450_02057_STYRNLONA_000_017	Yo... Un momento. ¿Es usted, <if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>?
+TEXT_JOBDRK450_02057_STYRNLONA_000_018	¡Sí, es usted! ¡La leyenda en persona! Perdóneme, <if(gnum4,señora,señor)>, nunca le agradecí como corresponde sus servicios a Limsa Lominsa. Cuando supe que habían invocado a Leviathan, temí que...
+TEXT_JOBDRK450_02057_MERCHANT02057_000_019	¡Vaya, si es <if(gnum4,la famosa aventurera,el famoso aventurero)> que anda matando primals a diestra y siniestra!
+TEXT_JOBDRK450_02057_MERCHANT02057_000_020	¡De verdad los Twelve deben estar cuidándome, porque usted es justo <if(gnum4,la mujer,el hombre)> que necesito!
+TEXT_JOBDRK450_02057_MERCHANT02057_000_021	\<gimoteo> \<sollozo> ¡Soy... soy víctima de un crimen terrible, no, <italic(1)>atroz<italic(0)>! ¡Unos bandidos Qiqirn me asaltaron cerca de the Salt Strand y no me dejaron más que la ropa puesta!
+TEXT_JOBDRK450_02057_FRAY_000_022	...¿Y qué te hace pensar que me importan tus problemas más que el trasero de un Qiqirn? Ve a molestar a los Yellowjackets, como dijo la sargento.
+TEXT_JOBDRK450_02057_FRAY_000_023	Busco una presa digna, no una pandilla de ratas.
+TEXT_JOBDRK450_02057_MERCHANT02057_000_024	¿¡Cómo puede decir algo así, <if(gnum4,señora,señor)>!? ¡Sin su ayuda, estoy arruinado!
+TEXT_JOBDRK450_02057_Q1_000_025	¿Qué dirás?
+TEXT_JOBDRK450_02057_A1_000_026	Está bien, ayudaré.
+TEXT_JOBDRK450_02057_A1_000_027	No es mi problema.
+TEXT_JOBDRK450_02057_MERCHANT02057_000_030	¡Así habla <if(gnum4,una verdadera heroína,un verdadero héroe)>!
+TEXT_JOBDRK450_02057_MERCHANT02057_000_031	Para que sepa, la tropa no parecía tan peligrosa, pero su líder era un desgraciado de aspecto feroz...
+TEXT_JOBDRK450_02057_MERCHANT02057_000_032	¡Pero considerando los enemigos que usted enfrentó, no podría ser una amenaza para usted!
+TEXT_JOBDRK450_02057_MERCHANT02057_000_035	¡E-Espere, escúcheme! Dijo que quería una presa digna, ¿¡no!?
+TEXT_JOBDRK450_02057_MERCHANT02057_000_036	Su líder era un desgraciado de aspecto feroz, por lo menos dos o tres veces más grande que los demás. ¡Seguro harían falta una docena de hombres para derribarlo!
+TEXT_JOBDRK450_02057_MERCHANT02057_000_037	¡Si es un desafío lo que quiere, ahí lo tiene! ¡<if(gnum4,Usted sola,Usted solo)> contra él y sus secuaces! ¿Qué dice, <if(gnum4,señora,señor)>?
+TEXT_JOBDRK450_02057_FRAY_000_040	Cierra la boca y espera aquí. Ya vuelvo.
+TEXT_JOBDRK450_02057_STYRNLONA_000_050	De verdad no tiene por qué hacer esto, <if(gnum4,señora,señor)>...
+TEXT_JOBDRK450_02057_MERCHANT02057_000_055	Los encontrará en the Salt Strand, <if(gnum4,señora,señor)>. Ahí acamparon. Solo cuídese de su líder, ¿eh? Es un desgraciado de aspecto feroz, ese.
+TEXT_JOBDRK450_02057_FRAY_000_060	Si ese Qiqirn no es todo lo que prometió, se lo cobraré con su pellejo...
+TEXT_JOBDRK450_02057_FRAY_000_061	Aprovechemos esto al máximo, <split(<string(gstr1)>, ,1)>. Sin estilo, sin astucia, solo caos. Marca tus límites y luego ve más allá. Deja que la oscuridad te guíe y te libere.
+TEXT_JOBDRK450_02057_FRAY_000_070	Je... je... Lo hiciste bien...
+TEXT_JOBDRK450_02057_FRAY_000_071	Lo único que queda... es devolverle la mercancía a su dueño...
+TEXT_JOBDRK450_02057_FRAY_000_072	...Termínalo... Termina lo que empezamos...
+TEXT_JOBDRK450_02057_FRAY_000_080	Lo difícil ya pasó... Ahora termínalo...
+TEXT_JOBDRK450_02057_MERCHANT02057_000_090	¡Ah, es usted! ¿Pudo alcanzar a esos bandidos?
+TEXT_JOBDRK450_02057_MERCHANT02057_000_091	Eh, sí... eso parece ser mío, pero...
+TEXT_JOBDRK450_02057_MERCHANT02057_000_092	...¡Que Llymlaen me lleve, no puedo vender esto!
+TEXT_JOBDRK450_02057_MERCHANT02057_000_093	¡Está todo empapado de sangre de Qiqirn! ¿Qué hizo? ¿¡Abrió a uno en canal y lo dejó desangrarse sobre mi mercancía!?
+TEXT_JOBDRK450_02057_MERCHANT02057_000_094	Estoy arruinado... completamente arruinado.
+TEXT_JOBDRK450_02057_MERCHANT02057_000_095	¡<if(gnum4,Señora,Señor)>, exijo una indemnización por la destrucción imprudente de mis bienes!
+TEXT_JOBDRK450_02057_MERCHANT02057_000_096	Soy un hombre razonable, así que reconoceré que usted no es del todo responsable. Con el cincuenta por ciento del valor bastará.
+TEXT_JOBDRK450_02057_FRAY_000_097	¿Cincuenta por ciento? ¿¡CINCUENTA POR CIENTO!?
+TEXT_JOBDRK450_02057_FRAY_000_098	¿¡Masacro a una pandilla de bandidos Qiqirn por tu preciosa mercancía y así me lo agradeces!?
+TEXT_JOBDRK450_02057_FRAY_000_099	Saco de mierda sin agallas. Mato a tus enemigos. Busco tus cosas. Hago lo que ustedes no pueden o no quieren hacer.
+TEXT_JOBDRK450_02057_FRAY_000_100	Son unos inútiles. Débiles. Lo único que hacen es querer y necesitar.
+TEXT_JOBDRK450_02057_FRAY_000_101	Debí dejar que se ahogaran todos en la ola de Leviathan. Al menos así me habría ahorrado sus malditos lloriqueos <italic(1)>constantes<italic(0)>.
+TEXT_JOBDRK450_02057_FRAY_000_102	No me vuelvas a hablar de esto nunca más.
+TEXT_JOBDRK450_02057_MERCHANT02057_000_103	¡P-Perdone mi insolencia, <if(gnum4,señora,señor)>!
+TEXT_JOBDRK450_02057_STYRNLONA_000_104	<if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>, <if(gnum4,señora,señor)>, yo... Tiene todo el derecho a estar <if(gnum4,molesta,molesto)>, pero...
+TEXT_JOBDRK450_02057_STYRNLONA_000_105	...Creo que él entiende, <if(gnum4,señora,señor)>.
+TEXT_JOBDRK450_02057_MERCHANT02057_000_110	¡Nunca más, <if(gnum4,señora,señor)>! ¡Lo prometo!
+TEXT_JOBDRK450_02057_STYRNLONA_000_115	Sinceramente, <if(gnum4,señora,señor)>. Yo... no creo que hiciera falta...
+TEXT_JOBDRK450_02057_FRAY_000_110	No podemos seguir así, <split(<string(gstr1)>, ,1)>. Ya tienes que ver lo que esto nos está haciendo... Lo que ellos nos están haciendo...
+TEXT_JOBDRK450_02057_FRAY_100_110	Esta... esta <italic(1)>gente<italic(0)>...
+TEXT_JOBDRK450_02057_Q2_000_111	¿Qué dirás?
+TEXT_JOBDRK450_02057_A2_000_112	Olvídate de ellos. Solo importa la voz.
+TEXT_JOBDRK450_02057_A2_000_113	No los necesitamos para ser dark knights.
+TEXT_JOBDRK450_02057_A2_000_114	Se lo merecía. Cada palabra.
+TEXT_JOBDRK450_02057_FRAY_000_120	Sí... sí, tienes razón. Debes escuchar sus palabras y descubrir tu verdadera vocación.
+TEXT_JOBDRK450_02057_FRAY_000_121	Estás cerca, <split(<string(gstr1)>, ,1)>... muy, muy cerca...
+TEXT_JOBDRK450_02057_FRAY_000_122	Ojalá pudiera decírtelo. Ojalá pudiera <italic(1)>obligarte<italic(0)> a verlo.
+TEXT_JOBDRK450_02057_FRAY_000_123	Pero lo único que puedo hacer es guiarte en tu viaje...
+TEXT_JOBDRK450_02057_FRAY_000_125	No del todo, <split(<string(gstr1)>, ,1)>. En cierto modo, te ayudaron a cultivar la oscuridad interior. Pero su ayuda ya no hace falta.
+TEXT_JOBDRK450_02057_FRAY_000_126	Lo único que queda es escuchar la voz: captar sus palabras y descubrir tu verdadera vocación.
+TEXT_JOBDRK450_02057_FRAY_000_127	Ojalá pudiera decírtelo. Ojalá pudiera <italic(1)>obligarte<italic(0)> a verlo.
+TEXT_JOBDRK450_02057_FRAY_000_128	Pero lo único que puedo hacer es guiarte en tu viaje...
+TEXT_JOBDRK450_02057_FRAY_000_130	¡Ja... jajaja! ¡Tienes razón, <split(<string(gstr1)>, ,1)>! ¡Toda la razón!
+TEXT_JOBDRK450_02057_FRAY_000_131	Se sintió bien, ¿no? Ver temblar a ese gusano llorón. ¡Creo que casi se mea encima!
+TEXT_JOBDRK450_02057_FRAY_000_132	Por fin empiezas a verlos como lo que son, ¿no? Bien, bien.
+TEXT_JOBDRK450_02057_FRAY_000_133	Lo único que queda es escuchar la voz: captar sus palabras y descubrir tu verdadera vocación...
+TEXT_JOBDRK450_02057_SYSTEM_000_140	Con cada respiración te vuelves <if(gnum4,más liviana,más liviano)> y te hundes más en el abismo...
+TEXT_JOBDRK450_02057_FRAY_000_141	(-???-)Un coro de voces clama por <if(gnum4,una heroína,un héroe)>, y <if(gnum4,ella,él)> acude.
+TEXT_JOBDRK450_02057_FRAY_000_142	(-???-)Sonríe. Asiente. Y guarda silencio...
+TEXT_JOBDRK450_02057_FRAY_000_143	(-???-)Pero <if(gnum4,ella,él)> también tiene voz...
+TEXT_JOBDRK450_02057_FRAY_000_144	(-???-)Me van a oír...
+TEXT_JOBDRK450_02057_FRAY_000_145	...<string(gstr1)>.
+TEXT_JOBDRK450_02057_FRAY_000_146	...Estás al borde del precipicio, pero no temas la caída.
+TEXT_JOBDRK450_02057_FRAY_000_147	Arrójate al abismo y te elevarás por encima de todo, libre al fin.
+TEXT_JOBDRK450_02057_FRAY_000_148	Hay otras tierras además de estas, <split(<string(gstr1)>, ,1)>: tierras donde nadie nos conoce. Pídelo, y dejaremos este lugar para siempre.
+TEXT_JOBDRK450_02057_FRAY_000_149	Solo cuando hayas renunciado a todo serás libre de hacer cualquier cosa.
+TEXT_JOBDRK450_02057_FRAY_000_150	Cuando volvamos a vernos, nos darás tu respuesta.
+TEXT_JOBDRK450_02057_QIB_001_TODO_1	¡Masacra a los Qiqirn!
+TEXT_JOBDRK450_02057_QIB_001_TODO_2	¡Recupera la mercancía robada!
+TEXT_JOBDRK450_02057_FRAY_BATTLETALK_01	Débiles... pero abundantes. Quizás basten...
+TEXT_JOBDRK450_02057_BOSS_BATTLETALK_01	¡Yoyoroon no tiene miedo! ¡Yoyoroon te mata y se lleva tus cosas robadas!
+TEXT_JOBDRK450_02057_FRAY_BATTLETALK_04	Je... je... Bastardos tenaces... Bien, entonces. La mercancía.
+TEXT_JOBDRK450_02057_FRAY_BATTLETALK_05	Bien. Aquí ya no queda nada para... para...
+TEXT_JOBDRK450_02057_FRAY_BATTLETALK_02	¡Ahora no, maldita sea! ¡No cuando estamos tan cerca!

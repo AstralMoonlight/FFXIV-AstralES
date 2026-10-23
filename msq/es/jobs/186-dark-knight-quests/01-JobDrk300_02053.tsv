@@ -1,0 +1,37 @@
+key	text
+TEXT_JOBDRK300_02053_SEQ_00	El pueblo de Ishgard está de muy buen ánimo: otro hereje pagó por sus crímenes.
+TEXT_JOBDRK300_02053_SEQ_01	Hoy se hizo justicia: terminó otro juicio por combate. Según un espectador, fue una pelea memorable, en la que el acusado blandía una espada enorme y usaba artes oscuras contra su rival. Al final, sin embargo, no estuvo a la altura de su oponente, que lo atravesó entre un coro de vítores. Como no ven necesidad de darle una sepultura digna, los Temple Knights piensan deshacerse del cadáver dejándolo en the Brume. <if(gnum4,Intrigada,Intrigado)> por el relato del espectador, consideras buscar a los caballeros y ver a ese "demonio" con tus propios ojos.
+TEXT_JOBDRK300_02053_SEQ_02	Al arrodillarte junto al cuerpo, ves un cristal y estiras la mano para tomarlo. De pronto, tu cuerpo tiembla y una voz extrañamente familiar resuena en tus oídos. Te desplomas, y cuando abres los ojos, <if(gnum4,la mujer,el hombre)> está de pie frente a ti, <if(gnum4,sana y salva,sano y salvo)>. Dice llamarse Fray, y parece que la noticia de su muerte fue muy exagerada. Le intriga lo que le cuentas de la voz que oíste, pero antes de que puedas seguir, un grito en las calles de abajo te llama la atención. Te das vuelta para irte, pero Fray te cierra el paso e insiste en hablar de los "cambios" que estás sufriendo por haber tocado su cristal.
+TEXT_JOBDRK300_02053_SEQ_03	La libertad de seguir a tu corazón: defender al débil y castigar al culpable como te parezca. Ese es el camino del dark knight, y Fray se ofrece a enseñártelo. Solo tienes que aceptar su guía.
+TEXT_JOBDRK300_02053_TODO_00	Busca a los Temple Knights en the Brume.
+TEXT_JOBDRK300_02053_TODO_01	Habla con Fray.
+TEXT_JOBDRK300_02053_CITIZEN02053_000_000	Como te decía, ese hereje peleaba como un hombre <italic(1)>poseído<italic(0)>. Aunque recibió varias heridas, no mostraba ninguna señal de dolor... aunque la sangre era innegable.
+TEXT_JOBDRK300_02053_CITIZEN02053_000_001	A medida que avanzaba la pelea, empezó a empaparle la armadura y a extenderse por cada ilm de su cuerpo. Pero cuando empezó a elevarse y a envolverlo como una niebla, me di cuenta de que no era sangre, sino algo oscuro y retorcido...
+TEXT_JOBDRK300_02053_CITIZEN02053_000_002	¡Pero a los justos no se los acobarda tan fácilmente, alabada sea Halone! Me quedé ronco de tanto gritar cuando ese Temple Knight burló su guardia y lo atravesó.
+TEXT_JOBDRK300_02053_CITIZEN02053_000_003	Mejor así, digo yo. ¡El hombre no nació para manejar esas artes!
+TEXT_JOBDRK300_02053_CITIZEN02053_000_004	Aunque me pregunto... ¿de verdad era uno de esos... esos...?
+TEXT_JOBDRK300_02053_CITIZEN02053_000_005	Bueno, no importa. Oí a los Temple Knights decir que iban a tirar su cadáver en the Brume. Para el amanecer, lo habrán desnudado y arrojado por encima de las murallas. Será como si nunca hubiera existido... y como si nunca hubiéramos tenido esta conversación.
+TEXT_JOBDRK300_02053_TEMPLEKNIGHTA02053_000_030	Ya es más que suficiente caridad. Ellos se ocuparán del resto.
+TEXT_JOBDRK300_02053_TEMPLEKNIGHTB02053_000_031	...Y quizás más temprano que tarde. Vamos.
+TEXT_JOBDRK300_02053_FRAY_000_032	...¿Esto es todo? ¿Esto es todo lo que me espera?
+TEXT_JOBDRK300_02053_FRAY_000_033	No... No más. Basta...
+TEXT_JOBDRK300_02053_FRAY_000_034	Abre los ojos. Mira. ¿Ahora lo ves? ¿Lo <italic(1)>ves<italic(0)>?
+TEXT_JOBDRK300_02053_FRAY_000_035	<split(<string(gstr1)>, ,1)>... ¡<split(<string(gstr1)>, ,1)>!
+TEXT_JOBDRK300_02053_FRAY_000_036	(-???-)...Estaba esperando a que abrieras los ojos.
+TEXT_JOBDRK300_02053_FRAY_000_037	(-???-)¿Estás bien? Te quejabas en sueños y, además, sudabas a mares.
+TEXT_JOBDRK300_02053_FRAY_000_038	Me llamo Fray, por cierto. Y no, no soy <if(gnum4,una hereje,un hereje)>.
+TEXT_JOBDRK300_02053_FRAY_000_039	Intenta convencer de eso a un Temple Knight borracho de autoridad, ¿eh? Lástima que ese engreído pudo conmigo.
+TEXT_JOBDRK300_02053_FRAY_000_040	Pero ¿y <italic(1)>tú<italic(0)>? Lo tocaste, ¿verdad? No debe haberse sentido nada bien.
+TEXT_JOBDRK300_02053_FRAY_000_041	Una voz, ¿eh? Y bastante angustiada, además...
+TEXT_JOBDRK300_02053_SCREAM_000_042	(-???-)¡Por favor, alguien... <italic(1)>quien sea<italic(0)>!
+TEXT_JOBDRK300_02053_FRAY_000_043	No tan rápido. Tenemos que hablar de lo que te está pasando, de lo que está creciendo dentro de ti, antes de que te dejes llevar.
+TEXT_JOBDRK300_02053_FRAY_000_044	Hay una oscuridad dentro de todos nosotros. Nada peligroso, ojo. De hecho, es bastante sana. Pero el cristal te cambia: te da el poder de canalizarla.
+TEXT_JOBDRK300_02053_FRAY_000_045	Pero si lo haces sin el entrenamiento adecuado... bueno... podría doler.
+TEXT_JOBDRK300_02053_FRAY_000_046	Así que adelante: pídeme que te enseñe. Pídeme que te instruya en los caminos de los dark knights, y lo haré.
+TEXT_JOBDRK300_02053_FRAY_000_060	Sé que todavía te preocupa esa mujer que gritaba, así que seré breve.
+TEXT_JOBDRK300_02053_FRAY_000_061	A los dark knights no nos importan en lo más mínimo el prestigio ni el linaje. Somos libres de seguir a nuestro corazón: de defender al débil y castigar al culpable como nos parezca.
+TEXT_JOBDRK300_02053_FRAY_000_062	¿La ley del reino? ¿La autoridad de un apellido? Son herramientas que usan los cobardes para escapar del daño. No necesitamos escudos, ni en sentido figurado ni literal.
+TEXT_JOBDRK300_02053_FRAY_000_063	Toma: mi espada es tu espada, mi soul crystal es tu cristal. Vamos, tómalos. Los vas a necesitar muy pronto.
+TEXT_JOBDRK300_02053_SYSTEM_000_070	¡Desbloqueaste un nuevo job! Puedes cambiar a este job cuando quieras equipando el arma que recibiste en esta misión.
+TEXT_JOBDRK300_02053_SYSTEM_000_071	Al cambiar de job, los <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipo. Así puedes cambiar de job al instante, sin equipar a mano armas ni equipo.
+TEXT_JOBDRK300_02053_SYSTEM_000_072	El botón de la interfaz Gear Set está en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)>.
