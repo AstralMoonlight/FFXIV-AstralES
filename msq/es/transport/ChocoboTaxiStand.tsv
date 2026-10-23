@@ -1,0 +1,180 @@
+key	text
+TEXT_CHOCOBOTAXISTAND_00000_LOW_LEVEL	Si vino a contratar un chocobo de transporte, me temo que tendré que decepcionarlo. Nuestras aves son criaturas muy caprichosas y suelen ponerse nerviosas con quienes no saben comportarse. Vuelva cuando haya demostrado que sabe cuidarse solo, y yo mismo me aseguraré de que le asignen nuestra mejor ave.
+TEXT_CHOCOBOTAXISTAND_00100_LOW_LEVEL	Mil disculpas, pero las reglas me prohíben dejarle contratar un halcón de transporte. Un jinete sin experiencia puede alterar a nuestras aves, y créame que no querrá ir montado en un ave alterada a mil yalms de altura.
+TEXT_CHOCOBOTAXISTAND_00100_LOW_LEVEL_KOJIN	Ah, mil disculpas, pero no puedo ofrecerles un halcón de transporte a los inexpertos. El riesgo de lesiones, o algo peor, es demasiado grande, y si me dejas ser franco, eso sería malo para el negocio.
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_000_1	Los chocobos de transporte se pueden contratar a partir del nivel 10.
+TEXT_CHOCOBOTAXISTAND_00100_SYSTEM_000_1	Los halcones de transporte se pueden contratar a partir del nivel 10.
+TEXT_CHOCOBOTAXISTAND_00000_CHOCOBOTAXI_UNLOCK_01	¡Saludos, viajero! ¿Le interesa un chocobo de transporte?
+TEXT_CHOCOBOTAXISTAND_00000_CHOCOBOTAXI_UNLOCK_02	Ah, no me diga: es su primera visita a esta parada. Voy a anotar su nombre en el registro, así podrá volver a este lugar cuando quiera.
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_UNLOCK_01	Esta piedra se parece muchísimo a un chocobo...
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_UNLOCK_02	Al mirarla de cerca, la piedra resulta ser un gran cuerno. Quizás, si soplas por uno de los agujeros, aparezca un chocobo... aunque tal vez sea prudente dejar el pago del alquiler, por si acaso.
+TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_UNLOCK_01	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>. ¿Desea contratar un halcón de transporte?
+TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_UNLOCK_02	Vaya, ¿no es esta su primera visita a esta parada? En ese caso, anotaré su nombre en nuestro registro para que pueda viajar hasta aquí más fácilmente en el futuro.
+TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_UNLOCK_01_KOJIN	Bienvenido, bienvenido. ¿Te gustaría contratar un halcón de transporte?
+TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_UNLOCK_02_KOJIN	Ah, parece que es la primera vez que vienes a esta parada. Bueno, entonces déjame anotar tu nombre para que puedas usar las rutas que llegan hasta aquí.
+TEXT_CHOCOBOTAXISTAND_00000_CHOCOBOTAXI_01	¡Saludos, viajero! ¿Le interesa un chocobo de transporte?
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_CHOCOBOTAXI_01	La piedra parece ser un gran cuerno. Quizás, si soplas por uno de los agujeros, aparezca un chocobo... aunque tal vez sea prudente dejar el pago del alquiler, por si acaso.
+TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_01	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>. ¿Desea contratar un halcón de transporte?
+TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_01_KOJIN	Bienvenido, bienvenido. ¿Te gustaría contratar un halcón de transporte?
+TEXT_CHOCOBOTAXISTAND_00000_Q1_000_1	Elige una opción.
+TEXT_CHOCOBOTAXISTAND_00000_A1_000_1	Contratar un chocobo de transporte.
+TEXT_CHOCOBOTAXISTAND_00000_A1_000_2	Informarse sobre los chocobos de transporte.
+TEXT_CHOCOBOTAXISTAND_00000_A1_000_3	Nada.
+TEXT_CHOCOBOTAXISTAND_00100_Q1_000_1	Elige una opción.
+TEXT_CHOCOBOTAXISTAND_00100_A1_000_1	Contratar un halcón de transporte.
+TEXT_CHOCOBOTAXISTAND_00100_A1_000_2	Informarse sobre los halcones de transporte.
+TEXT_CHOCOBOTAXISTAND_00100_A1_000_3	Nada.
+TEXT_CHOCOBOTAXISTAND_00000_HELP1	¿No le alcanza el gil para pagar la maldita tarifa de teletransporte del aetheryte? ¿O quizás solo quiere viajar tranquilo, sin tener que pelearse con los mapas ni esquivar bestias sedientas de sangre?
+TEXT_CHOCOBOTAXISTAND_00000_HELP2	¡Entonces un chocobo de transporte es justo lo que necesita! Nuestras aves lo llevarán rápido y seguro a uno de sus muchos destinos convenientes por apenas un puñado de monedas. Solo le pedimos que respete dos reglas sencillas:
+TEXT_CHOCOBOTAXISTAND_00000_HELP3	Primero, si se baja durante el trayecto, no podrá volver a montar. El chocobo seguirá hasta su destino y usted tendrá que arreglárselas solo.
+TEXT_CHOCOBOTAXISTAND_00000_HELP4	Segundo, aunque cada parada tiene una lista completa de destinos, solo autorizamos viajes a los que ya haya visitado al menos una vez.
+TEXT_CHOCOBOTAXISTAND_00000_HELP5	Así nos aseguramos de que, si por casualidad una de nuestras aves se desorienta y pierde el rumbo, usted pueda guiarla de vuelta al camino.
+TEXT_CHOCOBOTAXISTAND_00000_HELP6	Pero quédese tranquilo: en todos nuestros años de servicio, eso no pasó ni una sola vez.
+TEXT_CHOCOBOTAXISTAND_00000_HELP7	Nuestras aves están entrenadas para recorrer rutas fijas y nunca se desvían de ellas. Además, fueron criadas para la velocidad y evitarán las amenazas del camino lo mejor que puedan.
+TEXT_CHOCOBOTAXISTAND_00000_HELP8	De hecho, confiamos tanto en que lo llevarán sano y salvo a su destino final que, si lo atacan mientras va montado en un chocobo de transporte, le devolveremos el pago del alquiler completo.
+TEXT_CHOCOBOTAXISTAND_00000_HELP9	Permítame llevarlo hasta su ave. Por aquí, <if(gnum4,mi señora,mi señor)>.
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP1	En la piedra hay grabada una explicación curiosamente extensa...
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP2	"¿No le alcanza el gil para pagar la maldita tarifa de teletransporte del aetheryte? ¿O quizás solo quiere viajar tranquilo, sin tener que pelearse con los mapas ni esquivar bestias sedientas de sangre?"
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP3	"¡Entonces un chocobo de transporte es justo lo que necesita! Nuestras aves lo llevarán rápido y seguro a uno de sus muchos destinos convenientes por apenas un puñado de monedas. Solo le pedimos que respete dos reglas sencillas:"
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP4	"Primero, si se baja durante el trayecto, no podrá volver a montar. El chocobo seguirá hasta su destino y usted tendrá que arreglárselas solo."
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP5	"Segundo, aunque cada parada tiene una lista completa de destinos, solo autorizamos viajes a los que ya haya visitado al menos una vez."
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP6	"Así nos aseguramos de que, si por casualidad una de nuestras aves se desorienta y pierde el rumbo, usted pueda guiarla de vuelta al camino."
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP7	"Pero quédese tranquilo: en todos nuestros años de servicio, eso no pasó ni una sola vez."
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP8	"Nuestras aves están entrenadas para recorrer rutas fijas y nunca se desvían de ellas. Además, fueron criadas para la velocidad y evitarán las amenazas del camino lo mejor que puedan."
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP9	"De hecho, confiamos tanto en que lo llevarán sano y salvo a su destino final que, si lo atacan mientras va montado en un chocobo de transporte, le devolveremos el pago del alquiler completo."
+TEXT_CHOCOBOTAXISTAND_00100_HELP1	¿No le alcanza el gil para pagar la maldita tarifa de teletransporte del aetheryte? ¿O quizás solo quiere volar tranquilo, disfrutando de la vista desde lo alto en vez de pelearse con los mapas?
+TEXT_CHOCOBOTAXISTAND_00100_HELP2	¡Entonces un halcón de transporte es justo lo que necesita! Nuestras aves lo llevarán rápido y seguro a uno de sus muchos destinos convenientes por apenas un puñado de monedas. Solo le pedimos que respete dos reglas sencillas:
+TEXT_CHOCOBOTAXISTAND_00100_HELP3	Primero, si se baja durante el trayecto, no podrá volver a montar. El halcón seguirá volando hasta su destino y usted tendrá que arreglárselas solo.
+TEXT_CHOCOBOTAXISTAND_00100_HELP4	Segundo, aunque cada parada tiene una lista completa de destinos, solo autorizamos viajes a los que ya haya visitado al menos una vez.
+TEXT_CHOCOBOTAXISTAND_00100_HELP5	Así nos aseguramos de que, si por casualidad una de nuestras aves se desorienta y pierde el rumbo, usted pueda guiarla de vuelta al camino.
+TEXT_CHOCOBOTAXISTAND_00100_HELP6	Pero quédese tranquilo: en todos nuestros años de servicio, eso no pasó ni una sola vez.
+TEXT_CHOCOBOTAXISTAND_00100_HELP7	Nuestras aves están entrenadas para recorrer rutas fijas y nunca se desvían de ellas. Además, fueron criadas para la velocidad, así que no hay que temer ataques de amenazas externas.
+TEXT_CHOCOBOTAXISTAND_00100_HELP8	De hecho, confiamos tanto en que lo llevarán sano y salvo a su destino final que, si lo atacan mientras va montado en un halcón de transporte, le devolveremos el pago del alquiler completo.
+TEXT_CHOCOBOTAXISTAND_00100_HELP9	Permítame llevarlo hasta su ave. Por aquí, <if(gnum4,mi señora,mi señor)>.
+TEXT_CHOCOBOTAXISTAND_00100_HELP1_KOJIN	¿Andas corto de monedas y no puedes pagar el viaje por aetheryte? ¿O solo quieres volar tranquilo y disfrutar de la vista?
+TEXT_CHOCOBOTAXISTAND_00100_HELP2_KOJIN	¡Entonces no busques más que un halcón de transporte! Veloces y fuertes, nuestras aves te llevarán seguro a uno de nuestros muchos destinos convenientes por una miseria. Solo hay dos reglas sencillas:
+TEXT_CHOCOBOTAXISTAND_00100_HELP3_KOJIN	Una: si te bajas durante el trayecto, no podrás volver a montar. El halcón seguirá volando hasta su destino.
+TEXT_CHOCOBOTAXISTAND_00100_HELP4_KOJIN	Dos: solo puedes viajar a las paradas que ya hayas visitado antes.
+TEXT_CHOCOBOTAXISTAND_00100_HELP5_KOJIN	Es para que, en el caso improbable de que un ave pierda el rumbo, puedas guiarla de vuelta al camino.
+TEXT_CHOCOBOTAXISTAND_00100_HELP6_KOJIN	Pero no te alarmes, que eso nunca pasó, y llevamos a la gente miles y miles de malms.
+TEXT_CHOCOBOTAXISTAND_00100_HELP7_KOJIN	Nuestras aves están entrenadas para no desviarse nunca de la ruta, y como son tan veloces, volarán sin que las moleste ninguna fiera salvaje - y eso te lo garantizo.
+TEXT_CHOCOBOTAXISTAND_00100_HELP8_KOJIN	Si te atacan mientras vas montado en un halcón de transporte, te devolveremos el pago del alquiler completo.
+TEXT_CHOCOBOTAXISTAND_00100_HELP9_KOJIN	Bueno, si me sigues, te llevo hasta tu ave.
+TEXT_CHOCOBOTAXISTAND_00000_TAXI_IMPOSSIBLE_1	Lo siento, pero ahora no puedo dejarle contratar un chocobo de transporte. Por la seguridad de nuestras aves, solo permitimos viajes a lugares que usted conozca.
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_IMPOSSIBLE_1	De pronto te das cuenta, con tristeza, de que no tienes idea de cómo llegar a ningún otro destino...
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_IMPOSSIBLE_2	Cada parada de chocobos ofrece varias rutas, pero solo puedes elegir las que llevan a destinos a los que ya viajaste.
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_IMPOSSIBLE_3	Si no visitaste ninguno de los lugares a los que se llega desde aquí, el servicio no estará disponible.
+TEXT_CHOCOBOTAXISTAND_00100_TAXI_IMPOSSIBLE_1	Mis disculpas, <if(gnum4,señora,señor)>, pero ahora no puedo dejarle contratar un halcón de transporte. Por la seguridad de nuestras aves, solo permitimos viajes a lugares que usted conozca.
+TEXT_CHOCOBOTAXISTAND_00100_TAXI_IMPOSSIBLE_1_KOJIN	Ah, mil disculpas, pero no puedo dejarte contratar un halcón de transporte. Por precaución, solo ofrecemos servicio a las paradas que ya hayas visitado.
+TEXT_CHOCOBOTAXISTAND_00100_SYSTEM_IMPOSSIBLE_2	Cada parada de halcones ofrece varias rutas, pero solo puedes elegir las que llevan a destinos a los que ya viajaste.
+TEXT_CHOCOBOTAXISTAND_00100_SYSTEM_IMPOSSIBLE_3	Si no visitaste ninguno de los lugares a los que se llega desde aquí, el servicio no estará disponible.
+TEXT_CHOCOBOTAXISTAND_00000_CONFIRM_Q_1	¿Iniciar este viaje?<br>Destino: <sheet(ChocoboTaxiStand,lnum1,8)><br>Costo: <num(lnum2)> gil<br>Duración: <num(lnum3)> <if([lnum3==1],minuto,minutos)>
+TEXT_CHOCOBOTAXISTAND_00000_CONFIRM_YES	Sí
+TEXT_CHOCOBOTAXISTAND_00000_CONFIRM_NO	No
+TEXT_CHOCOBOTAXISTAND_00000_SHORT_OF_GIL	¿Sin gil, eh? Supongo que hay destinos peores... aunque no se me ocurre ninguno. Vuelva cuando la fortuna le haya llenado la bolsa y los bolsillos.
+TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_SHORT_OF_GIL	De pronto te das cuenta, con tristeza, de que no tienes suficiente gil para dejar una ofrenda adecuada.
+TEXT_CHOCOBOTAXISTAND_00100_SHORT_OF_GIL	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>. ¿Desea contratar un-<br>Ah, ¿no tiene el gil? Entonces... ¡espero poder atenderlo la próxima vez!
+TEXT_CHOCOBOTAXISTAND_00100_SHORT_OF_GIL_KOJIN	Ay, ay, parece que no te alcanzan las monedas. No te preocupes, haré una excepción contigo... es lo que me gustaría decir, pero los negocios son los negocios. ¡Mil disculpas!
+TEXT_CHOCOBOTAXISTAND_00200_LOW_LEVEL	Lo siento, pero no creo que esté listo para montar uno de nuestros amaros. ¡No podemos dejar que se mate en una caída porque no tiene fuerza en las piernas para sujetarse!
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_000_1	Los amaros se pueden alquilar a partir del nivel 10 en cualquier clase.
+TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_01	Tenemos amaros para alquilar, si le interesa.
+TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_02	Ah, antes de que se me olvide, déjeme anotar su nombre en nuestro registro. Así podrá volver aquí cuando quiera.
+TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_01	¿Va a alguna parte? ¡Entonces viaje con estilo!
+TEXT_CHOCOBOTAXISTAND_00200_TAXI_IMPOSSIBLE_1	Ay, qué mala suerte. Parece que no está registrado para viajar a ninguna otra parada de amaros. Tiene que presentarse en su destino antes de que lo dejemos volar. ¡Lo siento, pero las reglas son las reglas!
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_IMPOSSIBLE_2	Cada parada de amaros ofrece varias rutas, pero solo puedes elegir las que llevan a destinos a los que ya viajaste.
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_IMPOSSIBLE_3	Si no visitaste ninguno de los lugares a los que se llega desde aquí, el servicio no estará disponible.
+TEXT_CHOCOBOTAXISTAND_00200_SHORT_OF_GIL	Parece que alguien le hizo un agujero en la bolsa. ¿Por qué no vuelve cuando pueda pagar la tarifa?
+TEXT_CHOCOBOTAXISTAND_00200_HELP1	¿No le alcanzan las monedas para usar un aetheryte? ¿O quizás no le gustan esas tonterías mágicas? Sea como sea, nuestros amaros pueden llevarlo adonde necesite.
+TEXT_CHOCOBOTAXISTAND_00200_HELP2	Pero antes de volar, hay un par de cosas que debo aclararle.
+TEXT_CHOCOBOTAXISTAND_00200_HELP3	Primero, pase lo que pase, no suelte las riendas ni se baje hasta llegar. ¡El amaro no se va a quedar a ver si cambia de idea, simplemente se va a ir volando!
+TEXT_CHOCOBOTAXISTAND_00200_HELP4	Segundo, tiene que estar registrado en su destino antes de que lo dejemos volar hasta allí.
+TEXT_CHOCOBOTAXISTAND_00200_HELP5	Los amaros saben adónde van, pero a veces necesitan que el jinete los mantenga en el rumbo. Y si usted nunca estuvo ahí, ¿cómo va a saber si va por el camino correcto o no?
+TEXT_CHOCOBOTAXISTAND_00200_HELP6	Mientras recuerde estas reglas, ¡la va a pasar de maravilla! Si no, puede que se pierda. O que se muera.
+TEXT_CHOCOBOTAXISTAND_00200_HELP7	Lo que no le tiene que preocupar es que lo ataque la fauna salvaje.
+TEXT_CHOCOBOTAXISTAND_00200_HELP8	¡El amaro va a volar justo por encima de ella! Dicho eso, le aconsejo que mantenga los ojos abiertos, por si acaso.
+TEXT_CHOCOBOTAXISTAND_00200_HELP9	En fin, creo que eso es todo. Aunque escuchándome no se aprende mucho más. ¡El resto lo va a tener que vivir usted mismo!
+TEXT_CHOCOBOTAXISTAND_00200_Q1_000_1	Elige una opción.
+TEXT_CHOCOBOTAXISTAND_00200_A1_000_1	Contratar un amaro de transporte.
+TEXT_CHOCOBOTAXISTAND_00200_A1_000_2	Informarse sobre los amaros de transporte.
+TEXT_CHOCOBOTAXISTAND_00200_A1_000_3	Nada.
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_UNLOCK_01	Esta piedra se parece muchísimo a un amaro...
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_UNLOCK_02	Al mirarla de cerca, la piedra resulta ser un gran cuerno. Quizás, si soplas por uno de los agujeros, aparezca un amaro... aunque tal vez sea prudente dejar el pago del alquiler, por si acaso.
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_CHOCOBOTAXI_01	La piedra parece ser un gran cuerno. Quizás, si soplas por uno de los agujeros, aparezca un amaro... aunque tal vez sea prudente dejar el pago del alquiler, por si acaso.
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_IMPOSSIBLE_1	De pronto te das cuenta, con tristeza, de que no tienes idea de cómo llegar a ningún otro destino...
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_SHORT_OF_GIL	De pronto te das cuenta, con tristeza, de que no tienes suficiente gil para dejar una ofrenda adecuada.
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP1	En la piedra hay grabada una explicación curiosamente extensa...
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP2	"¿Los precios de los aetherytes lo llevan a la ruina? ¿Los demonios devoradores de carne convierten cada viaje a pie en una miseria? Entonces no tema, porque nuestros amaros de transporte, confiables, amables y perfumados, tienen la solución."
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP3	"Cruzar Norvrandt por los aires no podría ser más fácil. Si respeta nuestras dos reglas sencillas, pronto llegará a su destino sin cortes, mordidas, arañazos ni ojos arrancados, ¡y con algo de gil de sobra para disfrutar al llegar!"
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP4	"Primero, si decide bajarse antes de su parada, ¡allá usted! El amaro no dudará en abandonarlo en medio de la nada, así que queda advertido."
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP5	"Segundo, los amaros de transporte solo pueden llevarlo a destinos en los que esté registrado."
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP6	"Por bien entrenados que estén, en el caso improbable de que se desorienten y pierdan el rumbo, pueden necesitar la guía de un jinete que de verdad haya visitado el lugar."
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP7	"Pero esto es solo una precaución, ya que nuestros amaros tienen, al momento de grabar este mensaje, un historial perfecto."
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP8	"También harán todo lo posible por evitar la atención de bestias feroces y similares, aunque es tanto por su propia seguridad como por la del pasajero. ¡Lo que es bueno para el amaro es bueno para usted!"
+TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP9	"Si muere durante el viaje, se le reembolsará el pago del alquiler completo."
+TEXT_CHOCOBOTAXISTAND_00200_LOW_LEVEL_DWARF	Lali-hooo, ay... Vienes a montar un amaro, ¿no? No quiero ser grosero, pero se nota que no estás hecho para tanto volar y planear y demás.
+TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_01_DWARF	¡Lali-ho! Vienes por un amaro de transporte, ¿verdad?
+TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_02_DWARF	Antes de subirte a la montura, déjame anotar tu nombre. Es el procedimiento de siempre, qué se le va a hacer.
+TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_01_DWARF	¡Lali-ho! ¿Adónde vamos hoy?
+TEXT_CHOCOBOTAXISTAND_00200_TAXI_IMPOSSIBLE_1_DWARF	Lo siento, ¡pero no te puedo alquilar uno de nuestros amaros si ni siquiera sabes adónde vas!
+TEXT_CHOCOBOTAXISTAND_00200_SHORT_OF_GIL_DWARF	¿¡Ni siquiera tienes gil para alquilar un amaro!? Ojalá pudiera ayudarte, pero esto no es una obra de caridad.
+TEXT_CHOCOBOTAXISTAND_00200_HELP1_DWARF	¡Nuestros amaros te llevan de una parada a otra mientras tú te relajas y disfrutas del paisaje!
+TEXT_CHOCOBOTAXISTAND_00200_HELP2_DWARF	Pero hay un par de cosas que tienes que tener en cuenta.
+TEXT_CHOCOBOTAXISTAND_00200_HELP3_DWARF	Si decides bajarte antes de llegar a tu destino, es cosa tuya, pero no esperes que el amaro te espere. ¡Se va a ir volando sin pensarlo dos veces, así que después no digas que no te avisé!
+TEXT_CHOCOBOTAXISTAND_00200_HELP4_DWARF	Lo otro es que solo te podemos dejar ir a las paradas que ya visitaste.
+TEXT_CHOCOBOTAXISTAND_00200_HELP5_DWARF	Es que a veces se desorientan, ¿ves?, así que le toca al jinete guiarlos en la dirección correcta.
+TEXT_CHOCOBOTAXISTAND_00200_HELP6_DWARF	La verdad es que casi nunca pasa, pero más vale prevenir que lamentar.
+TEXT_CHOCOBOTAXISTAND_00200_HELP7_DWARF	Van a hacer lo posible por mantenerte lejos de las bestias hambrientas y cosas así, así que eso es algo menos de qué preocuparte.
+TEXT_CHOCOBOTAXISTAND_00200_HELP8_DWARF	Claro que, una vez que te bajas, quedas a merced de cualquier criatura horrible que ande por ahí, así que mejor quédate en la montura.
+TEXT_CHOCOBOTAXISTAND_00200_HELP9_DWARF	Acuérdate de que el amaro es el que hace todo el trabajo pesado, por así decirlo. ¡Mientras respetes las reglas, seguramente todo salga bien!
+TEXT_CHOCOBOTAXISTAND_00200_LOW_LEVEL_ZUN	No quiero ser descortés, pero usted es bastante nuevo en los caminos, ¿no? Me temo que no podemos arriesgarnos a prestarle una de nuestras monturas a un jinete tan inexperto. Por favor, vuelva cuando tenga un poco más de experiencia encima.
+TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_01_ZUN	¿Busca conseguirse un amaro? Entonces diría que vino al lugar indicado.
+TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_02_ZUN	Un segundo, si me permite... ¡Y listo! Ya lo agregué a nuestro registro. Por favor, vuelva cuando necesite una montura.
+TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_01_ZUN	¿Lugares que visitar, gente que ver? No hay mejor manera de viajar que en uno de nuestros amaros.
+TEXT_CHOCOBOTAXISTAND_00200_TAXI_IMPOSSIBLE_1_ZUN	...Ay, vaya. Sí, es una verdadera lástima. Me temo que no está registrado para desembarcar en ninguna otra de nuestras paradas de amaros. Lo lamento mucho, pero no podemos dejarlo volar sin autorización para aterrizar. Son las reglas, ¿entiende?
+TEXT_CHOCOBOTAXISTAND_00200_SHORT_OF_GIL_ZUN	Mire, amigo, sé que hoy en día cuesta conseguir buenas monedas, pero esto no es una obra de caridad. Por favor, vuelva cuando pueda pagar.
+TEXT_CHOCOBOTAXISTAND_00200_HELP1_ZUN	Andar de aquí para allá está muy bien, pero ¿por qué no dejar que una bestia de carga haga el trabajo pesado de vez en cuando? Es la oportunidad perfecta para relajarse y disfrutar del entorno.
+TEXT_CHOCOBOTAXISTAND_00200_HELP2_ZUN	Dicho eso, sería un descuido no darle algunas advertencias. Dos consejos, para ser exactos.
+TEXT_CHOCOBOTAXISTAND_00200_HELP3_ZUN	Primero, no suelte las riendas. Si se baja o se cae del amaro, lo más probable es que se aleje y lo deje volver a pie a la civilización.
+TEXT_CHOCOBOTAXISTAND_00200_HELP4_ZUN	Segundo, aunque el amaro puede llevarlo a muchos destinos, hay algunas limitaciones que debe tener en cuenta.
+TEXT_CHOCOBOTAXISTAND_00200_HELP5_ZUN	Para empezar, usted será responsable de guiar al amaro sano y salvo hasta su destino.
+TEXT_CHOCOBOTAXISTAND_00200_HELP6_ZUN	Después de todo, si usted mismo no sabe adónde va, ¿cómo espera que lo sepa una de estas pobres bestias? Sencillo, ¿no?
+TEXT_CHOCOBOTAXISTAND_00200_HELP7_ZUN	Además, estos amaros están entrenados para seguir rutas seguras y bien definidas. Si intenta obligarlos a salirse del camino, no es probable que se lo tomen bien.
+TEXT_CHOCOBOTAXISTAND_00200_HELP8_ZUN	Lo bueno es que nuestros amaros de transporte son veloces y fuertes. Tiene garantizado un viaje seguro, sin que lo molesten las alimañas que rondan por estas tierras.
+TEXT_CHOCOBOTAXISTAND_00200_HELP9_ZUN	...Y creo que eso es todo lo que necesita saber. ¡Disfrute su viaje por estos cielos amigables, viajero!
+TEXT_CHOCOBOTAXISTAND_00200_LOW_LEVEL_MYSTEL_FEMALE	No quiero ser descortés, pero usted es bastante nuevo en los caminos, ¿no? Me temo que no podemos arriesgarnos a prestarle una de nuestras monturas a un jinete tan inexperto. Por favor, vuelva cuando tenga un poco más de experiencia encima.
+TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_01_MYSTEL_FEMALE	¿Busca conseguirse un amaro? Entonces diría que vino al lugar indicado.
+TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_02_MYSTEL_FEMALE	¿Es la primera vez que viene a nuestra parada de amaros? No se preocupe, amigo. Me aseguraré de anotar su nombre en los libros, para que pueda volver aquí cuando quiera.
+TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_01_MYSTEL_FEMALE	¿Busca conseguirse un amaro? Entonces diría que vino al lugar indicado.
+TEXT_CHOCOBOTAXISTAND_00200_TAXI_IMPOSSIBLE_1_MYSTEL_FEMALE	...Ay, vaya. Sí, es una verdadera lástima. Me temo que no está registrado para desembarcar en ninguna otra de nuestras paradas de amaros. Lo lamento mucho, pero no podemos dejarlo volar sin autorización para aterrizar. Son las reglas, ¿entiende?
+TEXT_CHOCOBOTAXISTAND_00200_SHORT_OF_GIL_MYSTEL_FEMALE	Mire, amigo, sé que hoy en día cuesta conseguir buenas monedas, pero esto no es una obra de caridad. Por favor, vuelva cuando pueda pagar.
+TEXT_CHOCOBOTAXISTAND_00200_HELP1_MYSTEL_FEMALE	¿Tiene las piernas cansadas de tantas horas de camino? ¿Quiere llegar a su destino con estilo, relajándose y disfrutando del paisaje? ¿Por qué no surca los cielos tranquilos en amaro?
+TEXT_CHOCOBOTAXISTAND_00200_HELP2_MYSTEL_FEMALE	Antes de subir, solo le pedimos que tenga en cuenta dos cosas. Todo es para que viaje seguro, claro está.
+TEXT_CHOCOBOTAXISTAND_00200_HELP3_MYSTEL_FEMALE	Primero, si está pensando en bajarse del amaro... por favor, no lo haga. Sin duda el animal saldrá corriendo a alguna parte y usted tendrá que hacer una caminata nada gloriosa de vuelta al punto de partida.
+TEXT_CHOCOBOTAXISTAND_00200_HELP4_MYSTEL_FEMALE	Segundo, conviene que elija su destino con mucho cuidado.
+TEXT_CHOCOBOTAXISTAND_00200_HELP5_MYSTEL_FEMALE	Es que no podemos dejarlo volar a <italic(1)>cualquier parte<italic(0)>, ¿sabe? Antes de subir, debe tener autorización para aterrizar en una parada de amaros que ya haya visitado en sus viajes.
+TEXT_CHOCOBOTAXISTAND_00200_HELP6_MYSTEL_FEMALE	Por inteligentes que sean nuestros amaros, al fin y al cabo no podemos confiarle toda la navegación a lo que, en esencia, es una bestia de carga.
+TEXT_CHOCOBOTAXISTAND_00200_HELP7_MYSTEL_FEMALE	Además, entienda que nuestros amaros están entrenados para volar solo por rutas designadas por su seguridad. Le agradeceremos que <italic(1)>no<italic(0)> intente obligarlos a salirse del camino.
+TEXT_CHOCOBOTAXISTAND_00200_HELP8_MYSTEL_FEMALE	Lo bueno es que son criaturas veloces, fuertes e imponentes. Por peligrosas que sean estas tierras, nos enorgullece decir que nunca atacaron a ninguno de nuestros clientes mientras iba montado en uno de nuestros amaros.
+TEXT_CHOCOBOTAXISTAND_00200_HELP9_MYSTEL_FEMALE	...Sí, creo que ya le conté todo lo que podía. Que disfrute su viaje, amigo. Su fiel montura lo espera.
+TEXT_CHOCOBOTAXISTAND_00300_LOW_LEVEL	Lo siento, amigo, pero no creo que tengas lo necesario para montar una de nuestras alpacas. Parecen dóciles, pero tiran al suelo a cualquier jinete inexperto a la primera oportunidad, y no quiero tener tus heridas en la conciencia.
+TEXT_CHOCOBOTAXISTAND_00300_SYSTEM_000_1	Las alpacas de transporte se pueden contratar a partir del nivel 10.
+TEXT_CHOCOBOTAXISTAND_00300_CHOCOBOTAXI_UNLOCK_01	¡Bienvenido! Si necesitas una alpaca, no busques más.
+TEXT_CHOCOBOTAXISTAND_00300_CHOCOBOTAXI_UNLOCK_02	Antes de ensillarte una, tengo que anotar tu nombre en nuestro registro. Así va a ser más fácil la próxima vez que necesites un viaje.
+TEXT_CHOCOBOTAXISTAND_00300_CHOCOBOTAXI_01	¿En qué te puedo ayudar?
+TEXT_CHOCOBOTAXISTAND_00300_TAXI_IMPOSSIBLE_1	Me temo que no te puedo prestar una alpaca si no me puedes decir adónde vas.
+TEXT_CHOCOBOTAXISTAND_00300_SYSTEM_IMPOSSIBLE_2	Cada parada de alpacas ofrece varias rutas, pero solo puedes elegir las que llevan a destinos a los que ya viajaste.
+TEXT_CHOCOBOTAXISTAND_00300_SYSTEM_IMPOSSIBLE_3	Si no visitaste ninguno de los lugares a los que se llega desde aquí, el servicio no estará disponible.
+TEXT_CHOCOBOTAXISTAND_00300_SHORT_OF_GIL	No puedo vivir solo de la generosidad y la buena voluntad. Si quieres montar una de mis alpacas, vas a necesitar monedas.
+TEXT_CHOCOBOTAXISTAND_00300_HELP1	¿Cansado de caminar a todas partes, o quizás no te gustan los medios mágicos de viaje? Entonces relájate y disfruta de un paseo tranquilo a lomos de una de mis alpacas.
+TEXT_CHOCOBOTAXISTAND_00300_HELP2	Hay algunas cosas que debo mencionar antes de mandarte en camino.
+TEXT_CHOCOBOTAXISTAND_00300_HELP3	Antes que nada, nunca sueltes las riendas. La alpaca prefiere escupirte antes que esperar a ver si quieres volver a montar.
+TEXT_CHOCOBOTAXISTAND_00300_HELP4	Segundo, tienes que estar registrado en tu destino.
+TEXT_CHOCOBOTAXISTAND_00300_HELP5	Las alpacas son más listas de lo que parecen y conocen bien las rutas. Aun así, nunca está de más tener un jinete que las ayude a no desviarse.
+TEXT_CHOCOBOTAXISTAND_00300_HELP6	Recuerda estas reglas y todo debería salir bien. Si no, no me hago responsable de lo que pase.
+TEXT_CHOCOBOTAXISTAND_00300_HELP7	También tengo que decirte que, mientras sigas con la alpaca, no te tiene que preocupar que te ataquen.
+TEXT_CHOCOBOTAXISTAND_00300_HELP8	Son ligeras de patas y saben qué senderos evitar. Pero por si alguna alimaña se mete en el camino, mejor mantente atento, ¿eh?
+TEXT_CHOCOBOTAXISTAND_00300_HELP9	Creo que eso es todo. Buen viaje, amigo mío.
+TEXT_CHOCOBOTAXISTAND_00300_Q1_000_1	Elige una opción.
+TEXT_CHOCOBOTAXISTAND_00300_A1_000_1	Contratar una alpaca de transporte.
+TEXT_CHOCOBOTAXISTAND_00300_A1_000_2	Informarse sobre las alpacas de transporte.
+TEXT_CHOCOBOTAXISTAND_00300_A1_000_3	Nada.

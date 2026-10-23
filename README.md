@@ -20,6 +20,7 @@
   <a href="#misiones-de-clase-y-job">Misiones de clase y job</a> ·
   <a href="#otras-misiones">Otras misiones</a> ·
   <a href="#eventos-de-temporada">Eventos</a> ·
+  <a href="#viaje-y-transporte">Transporte</a> ·
   <a href="#comandos">Comandos</a>
 </p>
 
@@ -138,15 +139,15 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 |  | 5.3 | 647 | ![Traducido][ok] |
 |  | 5.4 | 378 | ![Traducido][ok] |
 |  | 5.5–5.55 | 449 | ![Traducido][ok] |
-| **Endwalker** | 6.0 | 5.240 | ![Pendiente][no] |
-| **Post Endwalker** | 6.1 | 550 | ![Pendiente][no] |
-|  | 6.2 | 483 | ![Pendiente][no] |
-|  | 6.3 | 420 | ![Pendiente][no] |
-|  | 6.4 | 552 | ![Pendiente][no] |
-|  | 6.5–6.58 | 729 | ![Pendiente][no] |
-| **Dawntrail** | 7.0 | 3.637 | ![Pendiente][no] |
-| **Post Dawntrail** | 7.1 | 252 | ![Pendiente][no] |
-|  | 7.2 | 408 | ![Pendiente][no] |
+| **Endwalker** | 6.0 | 5.240 | ![Traducido][ok] |
+| **Post Endwalker** | 6.1 | 550 | ![Traducido][ok] |
+|  | 6.2 | 483 | ![Traducido][ok] |
+|  | 6.3 | 420 | ![Traducido][ok] |
+|  | 6.4 | 552 | ![Traducido][ok] |
+|  | 6.5–6.58 | 729 | ![Traducido][ok] |
+| **Dawntrail** | 7.0 | 3.637 | ![Traducido][ok] |
+| **Post Dawntrail** | 7.1 | 252 | ![Traducido][ok] |
+|  | 7.2 | 408 | ![Traducido][ok] |
 |  | 7.3 | 591 | ![Pendiente][no] |
 |  | 7.4 | 517 | ![Pendiente][no] |
 |  | 7.5 en adelante | 681 | ![Pendiente][no] |
@@ -212,6 +213,15 @@ Solo se ven mientras dura el evento.
 | Evento | Contenido | Estado |
 |---|---|---|
 | All Saints' Wake 2026 (Halloween) | "We Scare Bears", "Grim and Grisly Games" y los diálogos de los NPC del evento | ![Traducido][ok] |
+
+## Viaje y transporte
+
+Mensajes y menús de los aetherytes, el Aethernet y los porters (chocobos, halcones, amaros y alpacas).
+
+| Qué | Ejemplo | Estado |
+|---|---|---|
+| Aetherytes y Aethernet (70 líneas) | Menú del aetheryte (Set Home Point, Aethernet...), "You have attuned yourself to all the Aethernet shards in Gridania..." de cada ciudad, los aetherytes que no responden y los viajes de cosmic exploration | ![Traducido][ok] |
+| Chocobo, falcon, amaro y alpaca porters (179 líneas) | "Well met, traveler! Might I interest you in a chocobo porter?", avisos de nivel, explicaciones y confirmación del viaje | ![Traducido][ok] |
 
 ## Comandos
 

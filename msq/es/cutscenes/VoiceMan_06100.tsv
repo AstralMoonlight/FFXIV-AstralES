@@ -1,0 +1,546 @@
+key	text
+TEXT_VOICEMAN_06100_000010_TATARU	Está todo tan tranquilo estos días sin todos ustedes...
+TEXT_VOICEMAN_06100_000020_TATARU	...No es que extrañe que vuelvan, que conste.
+TEXT_VOICEMAN_06100_000030_TATARU	Tengo mis fuentes, ¡y sé que todos y cada uno de ustedes están bien y ocupados con sus asuntos!
+TEXT_VOICEMAN_06100_000040_TATARU	Mientras tanto, a mí me sobra tiempo libre, ¡y la pregunta es cómo aprovecharlo al máximo!
+TEXT_VOICEMAN_06100_000050_TATARU	¿Y tú? ¿Tienes algún plan para el futuro inmediato?
+TEXT_VOICEMAN_06100_Q1_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A1_000_001_NONE_VOICE	¡Una gran aventura nueva, por supuesto!
+TEXT_VOICEMAN_06100_A1_000_002_NONE_VOICE	Todavía lo estoy pensando...
+TEXT_VOICEMAN_06100_A1_000_003_NONE_VOICE	...
+TEXT_VOICEMAN_06100_000060_TATARU	¿¡Viajar hasta el confín de la existencia y volver no te bastó!? Bueno, si es así, quizá tenga una sugerencia para ti...
+TEXT_VOICEMAN_06100_000070_TATARU	¡Espero que no estuvieras pensando en pedirme consejo <italic(1)>a mí<italic(0)>! Aunque, si <italic(1)>estás<italic(0)> <if(gnum4,abierta,abierto)> a sugerencias, quizá tenga una para ti...
+TEXT_VOICEMAN_06100_000080_TATARU	Después de todo lo que pasaste, no me sorprende que necesites un momento para pensar. Pero si estás <if(gnum4,abierta,abierto)> a sugerencias, quizá tenga una para ti...
+TEXT_VOICEMAN_06100_000090_TATARU	Peleaste con valor y abnegación, ayudando a los necesitados y salvando a nuestra estrella de amenazas inimaginables.
+TEXT_VOICEMAN_06100_000100_TATARU	Por tus hazañas te aclamaron como <if(gnum4,la campeona,el campeón)> de Eorzea y un montón de cosas increíbles más. Pero ¿por qué no dejar esos títulos de lado por un tiempo?
+TEXT_VOICEMAN_06100_000110_TATARU	¡Vuelve a ser <if(gnum4,una simple aventurera,un simple aventurero)> y recorre el mundo en busca de maravillas!
+TEXT_VOICEMAN_06100_Q2_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A2_000_001_NONE_VOICE	¡Tienes razón! ¿Quién sabe qué misterios quedan por descubrir?
+TEXT_VOICEMAN_06100_A2_000_002_NONE_VOICE	Es una gran idea. Pero ¿por dónde empiezo...?
+TEXT_VOICEMAN_06100_A2_000_003_NONE_VOICE	...
+TEXT_VOICEMAN_06100_000120_TATARU	¡Así se habla! ¡Desde aquí siento el fuego que se te acaba de encender en la panza!
+TEXT_VOICEMAN_06100_000130_TATARU	Ahora solo te falta un destino.
+TEXT_VOICEMAN_06100_000135_TATARU	Si te cuesta decidir, déjamelo a mí.
+TEXT_VOICEMAN_06100_000140_TATARU	Ahhh, con tantos lugares emocionantes para elegir, cuesta decidirse...
+TEXT_VOICEMAN_06100_000150_TATARU	Pero creo que tengo el destino perfecto en mente.
+TEXT_VOICEMAN_06100_000160_TATARU	Si te cuesta decidir, déjamelo a mí.
+TEXT_VOICEMAN_06100_000170_TATARU	¡Thavnair! ¡Ahí es adonde deberías ir!
+TEXT_VOICEMAN_06100_000180_TATARU	Dudo que la última vez hayas podido hacer un buen recorrido por Radz-at-Han, con los cielos en llamas, los monstruos desbocados y todo eso. ¡Y seguro que a Vrtra le encantaría verte!
+TEXT_VOICEMAN_06100_000190_TATARU	Y después está el propio Bounty. La presencia del Imperio en la región siempre desalentó la exploración, así que si tienes ganas de navegar ese mar, esta es tu oportunidad.
+TEXT_VOICEMAN_06100_000200_TATARU	¡Piensa en todas las experiencias nuevas que podrías vivir!
+TEXT_VOICEMAN_06100_000210_EMETSELCH	(-Emet-Selch-)Dime, ¿estuviste en las ruinas bajo las aguas del Bounty?
+TEXT_VOICEMAN_06100_000220_EMETSELCH	(-Emet-Selch-)Como <if(gnum4,portadora,portador)> del cristal de Azem, puedes considerar que es tu deber ver al menos eso.
+TEXT_VOICEMAN_06100_000230_TATARU	¡Ah, conozco esa mirada! ¡Es la de <if(gnum4,una aventurera lista,un aventurero listo)> para conquistar el mundo!
+TEXT_VOICEMAN_06100_000240_TATARU	Pensando en una ocasión como esta, tenía pensado regalarte ropa de viaje nueva, pero, eh, todavía no está terminada.
+TEXT_VOICEMAN_06100_000250_TATARU	Pero no debería tardar mucho más, así que espera un poquito, ¡y tendré cosidos los últimos detalles antes de que termines otra taza de té!
+TEXT_VOICEMAN_06100_Q99_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A99_000_001_NONE_VOICE	Eres la mejor, Tataru.
+TEXT_VOICEMAN_06100_A99_000_002_NONE_VOICE	¡Que tenga bolsillos!
+TEXT_VOICEMAN_06100_000260_TATARU	Una puntada aquí, un recorte allá, con amor y cuidado el nudo se hará...♪
+TEXT_VOICEMAN_06100_000270_TATARU	¡Solo falta un poquito! ¡Seguro que todavía estás rebosante de emoción!
+TEXT_VOICEMAN_06100_000280_TATARU	¡Ji, ji! ¡Soy una con la aguja! ¡Miren cómo la tela se rinde a mis caprichos!
+TEXT_VOICEMAN_06100_000290_TATARU	No te preocupes, me aseguraré de que el forro tenga muchos bolsillos para todos tus pequeños "tesoros". Te lo juro, los aventureros son peores que los niños a la hora de juntar cada pluma, hoja y piel de animal que encuentran...
+TEXT_VOICEMAN_06100_000300_TATARU	Ah, no hay que olvidar la impermeabilización. No vaya a ser que te olvides de desvestirte antes de tirarte al mar. O a un río. O a un baño bien caliente...
+TEXT_VOICEMAN_06100_000310_MYSTERIOUSPERSON	Y así he vuelto.
+TEXT_VOICEMAN_06100_000320_TATARU	Ah, despertaste...
+TEXT_VOICEMAN_06100_000330_TATARU	Perdón, a veces me dejo llevar con la costura.
+TEXT_VOICEMAN_06100_000340_TATARU	Te ves muy <if(gnum4,contenta,contento)>. ¿Un sueño agradable? ¿O solo esperas con ganas el próximo capítulo de tu gran saga?
+TEXT_VOICEMAN_06100_000350_TATARU	De cualquier modo, prometí darte ropa nueva, ¡y eso haré!
+TEXT_VOICEMAN_06100_000360_TATARU	Si me acompañas a la Diamond Forge, podemos darle los últimos toques a tu atuendo. ¿Vamos?
+TEXT_VOICEMAN_06100_000370_MEHRAHD	(-Niño harapiento-)¡Por favor, Zasshal! ¡Por favor! ¡Tiene que darme ese mapa del tesoro!
+TEXT_VOICEMAN_06100_000380_BAZAARMOBA	¿Qué es todo esto?
+TEXT_VOICEMAN_06100_000390_MEHRAHD	(-Niño harapiento-)¡A mis padres los mataron los monstruos! ¡Mi hermanita todavía es muy chica para valerse sola! ¿¡No puede tener ni un poco de compasión!?
+TEXT_VOICEMAN_06100_000400_ZASSHAL	Así que esperas hacer fortuna. ¿Y qué? ¿Esperas que te dé mi mercancía por lástima?
+TEXT_VOICEMAN_06100_000410_ZASSHAL	¿Qué tienes para ofrecer como pago?
+TEXT_VOICEMAN_06100_000420_ZASSHAL	¡Lo que pensaba! ¡Vuelve cuando tengas algo más que harapos!
+TEXT_VOICEMAN_06100_000430_ZASSHAL	¡Este no es un simple mapa del tesoro! ¡Es una guía a las bóvedas de Alzadaal III, uno de los grandes satraps de Radz-at-Han y descendiente directo de Alzadaal Khan!
+TEXT_VOICEMAN_06100_000440_BAZAARMOBA	¿Un mapa del Alzadaal's Legacy...?
+TEXT_VOICEMAN_06100_000450_BAZAARMOBB	Eso dice él...
+TEXT_VOICEMAN_06100_000460_BAZAARMOBC	(-Cliente del bazar-)¡Apuesto a que es falso!
+TEXT_VOICEMAN_06100_000470_ZASSHAL	¡No es falso! ¡El pergamino lleva un glifo arcano de paso!
+TEXT_VOICEMAN_06100_000480_ZASSHAL	¡Quizá encuentren las ruinas escondidas en el Bounty, pero no van a poner un pie adentro sin esto en su poder!
+TEXT_VOICEMAN_06100_000490_ZASSHAL	¡Un artefacto de valor incalculable! ¡Lo encontré entre los escombros después de los Días Finales, y lo restauré con mucho cariño yo mismo!
+TEXT_VOICEMAN_06100_000500_ZASSHAL	¡Este mapa es la llave a riquezas fabulosas, y sería el rey de los tontos si simplemente lo <italic(1)>regalara<italic(0)>!
+TEXT_VOICEMAN_06100_000510_ZASSHAL	Alégrate de que no soy ese rey, muchacho: ¡con ese pellejo flacucho jamás volverías vivo con ese tesoro!
+TEXT_VOICEMAN_06100_000520_ZASSHAL	¡Gajajaja!
+TEXT_VOICEMAN_06100_000530_MEHRAHD	(-Niño harapiento-)¡Oh, destino cruel! ¿¡Por qué me tientas con riquezas que no puedo conseguir!?
+TEXT_VOICEMAN_06100_000540_MEHRAHD	(-Niño harapiento-)¡Cómo voy a envidiar a quien compre ese mapa tan valioso! ¡Lo que pague no será nada comparado con el montón de oro que puede encontrar!
+TEXT_VOICEMAN_06100_000550_ZASSHAL	¿Y usted, señor? ¡Un luchador de su porte seguro que disfrutaría el desafío de recuperar la fortuna perdida de Alzadaal!
+TEXT_VOICEMAN_06100_000560_ESTINIEN	¿Una fortuna, dice...?
+TEXT_VOICEMAN_06100_000570_MEHRAHD	(-Niño harapiento-)¡Si tan solo tuviera la fuerza para conseguir ese tesoro, a mi hermanita no le faltaría comida nunca!
+TEXT_VOICEMAN_06100_000580_ESTINIEN	Me lo llevo. ¿Con esto alcanza?
+TEXT_VOICEMAN_06100_000590_ESTINIEN	Qué bueno verte, <if(gnum4,amiga mía,amigo mío)>.
+TEXT_VOICEMAN_06100_000600_ESTINIEN	Alguien está <if(gnum4,vestida,vestido)> para la aventura.
+TEXT_VOICEMAN_06100_000610_ESTINIEN	Pero ¿por qué Thavnair, de todos los lugares? Conociéndote, sospecho que tus planes van más allá de pasear y hacer compras.
+TEXT_VOICEMAN_06100_000620_ESTINIEN	¿Ruinas bajo las aguas del Bounty...? Curioso. Y justo acabo de conseguir un mapa de un lugar así...
+TEXT_VOICEMAN_06100_000630_ZASSHAL	Con esta venta, creo que me gané el resto del día libre. Gracias por su compra, señor, pero si me disculpan...
+TEXT_VOICEMAN_06100_000640_ESTINIEN	No se preocupe por nosotros.
+TEXT_VOICEMAN_06100_000650_ZASSHAL	Y ahora acabo de desplumar a uno de los héroes de los Días Finales. Ruego que las Sisters estuvieran mirando para otro lado...
+TEXT_VOICEMAN_06100_000660_ESTINIEN	Este mapa puede ser auténtico o no. En todo caso, necesitaremos un barco para averiguarlo.
+TEXT_VOICEMAN_06100_Q3_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A3_000_001_NONE_VOICE	Pareces ansioso por ponerte en marcha.
+TEXT_VOICEMAN_06100_A3_000_002_NONE_VOICE	Nunca te imaginé como cazador de tesoros.
+TEXT_VOICEMAN_06100_000670_ESTINIEN	Para que no me malinterpretes: no busco el tesoro para mí.
+TEXT_VOICEMAN_06100_000680_ESTINIEN	Si esa fortuna existe de verdad, podría aliviar las penurias de los que perdieron a sus seres queridos en los Días Finales.
+TEXT_VOICEMAN_06100_000690_ESTINIEN	Espero hacer por Thavnair lo que tú y Alphinaud hicieron por los ala mhiganos cuando recuperaron el tesoro del rey loco.
+TEXT_VOICEMAN_06100_000700_ESTINIEN	Vamos, sabes que a Alphinaud no hay que insistirle mucho para que cuente las historias de sus hazañas juntos.
+TEXT_VOICEMAN_06100_000710_ESTINIEN	Hablando de muchachos precoces, ese chico del bazar era claramente un cómplice del mercader.
+TEXT_VOICEMAN_06100_000720_ESTINIEN	Supongo que su papel era atraer la atención de la multitud y darles peso a las audaces afirmaciones del mercader.
+TEXT_VOICEMAN_06100_000730_ESTINIEN	Una actuación transparente casi toda, pero no todo era teatro: la necesidad de mantener a su hermana sonaba bastante sincera.
+TEXT_VOICEMAN_06100_000740_ESTINIEN	Así que si parte de las ganancias termina en los bolsillos de ese pilluelo, consideraré que fue dinero bien gastado... nos lleve el mapa a la bóveda o no.
+TEXT_VOICEMAN_06100_000750_ESTINIEN	<italic(1)>Vas<italic(0)> a venir, ¿no?
+TEXT_VOICEMAN_06100_Q4_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A4_000_001_NONE_VOICE	¡Por supuesto!
+TEXT_VOICEMAN_06100_A4_000_002_NONE_VOICE	¿Dividimos los gastos?
+TEXT_VOICEMAN_06100_000760_ESTINIEN	Hmph, me lo imaginaba.
+TEXT_VOICEMAN_06100_000770_ESTINIEN	Te agradezco la preocupación, pero si algo aprendí en mi tiempo con los Scions, es a administrar mejor mi bolsa.
+TEXT_VOICEMAN_06100_000780_ESTINIEN	Ahora, veamos cómo conseguir un barco.
+TEXT_VOICEMAN_06100_000790_GRAHATIA	Nunca había visto a Y'shtola quedarse dormida en medio de una investigación...
+TEXT_VOICEMAN_06100_000800_YSHTOLA	Mmm... Cierro los ojos un momento...
+TEXT_VOICEMAN_06100_000810_YSHTOLA	¡Ay!
+TEXT_VOICEMAN_06100_000820_YSHTOLA	¿Desde cuándo están aquí ustedes dos?
+TEXT_VOICEMAN_06100_Q5_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A5_000_001_NONE_VOICE	¡Acabamos de llegar!
+TEXT_VOICEMAN_06100_A5_000_002_NONE_VOICE	No queríamos despertarte.
+TEXT_VOICEMAN_06100_A5_000_003_NONE_VOICE	¿Poniéndote al día con una lectura ligera?
+TEXT_VOICEMAN_06100_000840_YSHTOLA	¿Ah, sí?
+TEXT_VOICEMAN_06100_000850_YSHTOLA	Yo tampoco quería quedarme dormida.
+TEXT_VOICEMAN_06100_000860_YSHTOLA	...Algo así.
+TEXT_VOICEMAN_06100_000870_YSHTOLA	Debo de haber estado estudiando dos... tres días seguidos antes de que el agotamiento me venciera por fin.
+TEXT_VOICEMAN_06100_000880_YSHTOLA	Como saben, estuve investigando formas de viajar del Source a uno de sus reflejos.
+TEXT_VOICEMAN_06100_000890_YSHTOLA	Bueno... buscando pistas, al menos. No espero encontrar un simple instructivo escondido en algún rincón oscuro de la biblioteca.
+TEXT_VOICEMAN_06100_000900_YSHTOLA	Así que estuve hojeando los estantes, con la esperanza de dar aunque sea con una mención parcial de alguna hazaña parecida en el pasado.
+TEXT_VOICEMAN_06100_000910_YSHTOLA	Existe una forma de viajar entre mundos, y pueden estar seguros de que encontraré cómo usarla...
+TEXT_VOICEMAN_06100_000920_YSHTOLA	Eso le prometí a Runar, pero parece que me impuse una tarea casi imposible.
+TEXT_VOICEMAN_06100_000930_GRAHATIA	No tienes por qué ser tan dura contigo misma.
+TEXT_VOICEMAN_06100_000940_GRAHATIA	El salto que logré con la Crystal Tower no se consiguió en una tarde: fue la culminación de un esfuerzo colectivo de generaciones.
+TEXT_VOICEMAN_06100_000950_YSHTOLA	Ah, ¿crees que estoy desanimada? Te aseguro que es todo lo contrario.
+TEXT_VOICEMAN_06100_000960_YSHTOLA	¿Un desafío imponente y el tiempo para hincarle el diente? Me siento como una estudiante novata otra vez.
+TEXT_VOICEMAN_06100_000970_GRAHATIA	Una erudita en su elemento.
+TEXT_VOICEMAN_06100_000980_YSHTOLA	Así es. ¿Querían preguntarme algo más?
+TEXT_VOICEMAN_06100_000990_YSHTOLA	Alzadaal no es una figura menor en la historia hannesa, y se sabe mucho de su familia.
+TEXT_VOICEMAN_06100_001000_YSHTOLA	Pero es la primera vez que oigo hablar de un descendiente que sobrevivió a un viaje a otro mundo.
+TEXT_VOICEMAN_06100_001010_YSHTOLA	Si esas historias son ciertas, quizá dejó alguna pista de cómo lo logró.
+TEXT_VOICEMAN_06100_001020_YSHTOLA	¿Una invitación a ahondar en uno de los misterios pendientes del mundo? Como si pudiera negarme.
+TEXT_VOICEMAN_06100_001030_YSHTOLA	¿Y desde dónde partimos en esta expedición?
+TEXT_VOICEMAN_06100_001040_GRAHATIA	Desde Akyaali, en barco, pero antes pensábamos invitar también a Urianger. Por lo último que supimos, estaba en el Thaumazein.
+TEXT_VOICEMAN_06100_001050_YSHTOLA	Entonces, por supuesto, sumémoslo y pongámonos en camino.
+TEXT_VOICEMAN_06100_001060_GRAHATIA	Ah, Ojika, buen hombre.
+TEXT_VOICEMAN_06100_001070_GRAHATIA	¿Serías tan... amable... de...?
+TEXT_VOICEMAN_06100_001080_KRILE	Qué agradable sorpresa.
+TEXT_VOICEMAN_06100_001090_GRAHATIA	Ojalá hubieras avisado antes. ¡Por un momento creí que estaba teniendo visiones!
+TEXT_VOICEMAN_06100_Q6_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A6_000_001_NONE_VOICE	¿En qué están trabajando ustedes dos?
+TEXT_VOICEMAN_06100_A6_000_002_NONE_VOICE	¿Cómo va la reconstrucción de los Students?
+TEXT_VOICEMAN_06100_001100_KRILE	Raha y yo estamos recopilando registros antiguos de las actividades de los Students.
+TEXT_VOICEMAN_06100_001110_KRILE	Despacio y con constancia. Raha y yo estamos recopilando registros antiguos de las actividades de los Students.
+TEXT_VOICEMAN_06100_001120_KRILE	Pudimos encontrar varios relatos en los archivos del Noumenon, pero la mayoría de nuestros documentos se perdió junto con la Isle of Val...
+TEXT_VOICEMAN_06100_001130_KRILE	Encontramos varios relatos en los archivos del Noumenon y los sumamos a la colección que recuperamos de la Isle of Val.
+TEXT_VOICEMAN_06100_001140_GRAHATIA	Y a juzgar por lo que avanzamos hasta ahora, ordenar esta pila nos va a tener ocupados varios días más.
+TEXT_VOICEMAN_06100_001150_GRAHATIA	Pero ¿qué te trae al anexo, <if(gnum4,amiga mía,amigo mío)>? Seguro que no viniste hasta aquí solo para vernos revolver papeles polvorientos.
+TEXT_VOICEMAN_06100_001160_GRAHATIA	La bóveda del tesoro de Alzadaal III...
+TEXT_VOICEMAN_06100_001170_KRILE	¿Y buscas compañeros que se unan a esta expedición?
+TEXT_VOICEMAN_06100_001180_KRILE	Me encantaría acompañarte, claro, pero me temo que tengo otra tarea pendiente. Y justo sobre eso quería pedirte ayuda...
+TEXT_VOICEMAN_06100_001190_KRILE	TO BE DELETED
+TEXT_VOICEMAN_06100_001191_KRILE	Aunque no es tan urgente como para que no pueda esperar a que vuelvas.
+TEXT_VOICEMAN_06100_001200_KRILE	Deberías ir, Raha. Yo me quedo aquí cuidando el negocio, por así decirlo.
+TEXT_VOICEMAN_06100_001210_GRAHATIA	¿Estás segura? No quisiera dejarte sin ayuda...
+TEXT_VOICEMAN_06100_001220_KRILE	Estoy segura. Solo trata de volver antes de que pasen <italic(1)>demasiadas<italic(0)> lunas.
+TEXT_VOICEMAN_06100_001230_GRAHATIA	¡Vaya! ¡Parece que ya nos vamos de nuevo de aventura!
+TEXT_VOICEMAN_06100_001240_GRAHATIA	¿Invitaste a alguien más?
+TEXT_VOICEMAN_06100_001250_GRAHATIA	Entonces, ¿puedo sugerir que invitemos a Y'shtola?
+TEXT_VOICEMAN_06100_001260_GRAHATIA	Desde que se disolvieron los Scions, pasó la mayor parte del tiempo encerrada en la Great Gubal Library, intentando dar con un método para cruzar la grieta.
+TEXT_VOICEMAN_06100_001270_GRAHATIA	Pero parece que la sabiduría que buscaba no estaba allí. Llegó a Sharlayan el otro día; hablamos un momento antes de que empezara a buscar en el Noumenon.
+TEXT_VOICEMAN_06100_001280_GRAHATIA	Teniendo en cuenta lo que nos contaste de las hazañas extraordinarias de Alzadaal, creo que a Y'shtola le interesará muchísimo oír lo que tienes que decir.
+TEXT_VOICEMAN_06100_001290_GRAHATIA	Espléndido. Entonces vamos ya a los archivos.
+TEXT_VOICEMAN_06100_001300_KRILE	Esperen, antes de que se vayan: tengo otro posible miembro que proponer, si les queda lugar. Urianger.
+TEXT_VOICEMAN_06100_001310_KRILE	Verán, les mandó a los Students un pedido de materiales: tratados sobre la arquitectura de las bóvedas de tesoros y cosas así.
+TEXT_VOICEMAN_06100_001320_KRILE	Por lo que entiendo, los Loporrits quieren hacerle "mejoras" a su propia creación, y quieren saber más sobre cómo construimos las cosas aquí abajo.
+TEXT_VOICEMAN_06100_001330_KRILE	Por lo que entiendo, los Loporrits quieren construir su propia bóveda para que la gente de Etheirys la explore, y buscan inspiración para que sea una experiencia "memorable".
+TEXT_VOICEMAN_06100_001340_KRILE	Así que, ¿por qué no llevan a Urianger con ustedes? Que estudie el Alzadaal's Legacy de primera mano.
+TEXT_VOICEMAN_06100_001350_GRAHATIA	Nadie puede negar el beneficio de ver algo con los propios ojos.
+TEXT_VOICEMAN_06100_001360_GRAHATIA	Si <if(gnum4,nuestra jefa,nuestro jefe)> de expedición no tiene objeciones, propongo que invitemos a Urianger después de hablar con Y'shtola.
+TEXT_VOICEMAN_06100_001370_KRILE	Buen viaje a los dos. Pero no olvides que todavía quiero tu ayuda con ese otro asunto que te mencioné.
+TEXT_VOICEMAN_06100_001380_GRAHATIA	¡Bien! ¡Entonces, a la biblioteca!
+TEXT_VOICEMAN_06100_001400_URIANGER	Ah, <if(gnum4,nuestra ilustre campeona,nuestro ilustre campeón)>.
+TEXT_VOICEMAN_06100_001410_URIANGER	<if(gnum4,Envuelta,Envuelto)> en el manto del explorador común, dejando de lado la fama en vuestra búsqueda de la aventura sencilla.
+TEXT_VOICEMAN_06100_001420_URIANGER	Me dicen que se prepara una nueva expedición.
+TEXT_VOICEMAN_06100_Q7_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A7_000_001_NONE_VOICE	Qué bueno verte bien.
+TEXT_VOICEMAN_06100_A7_000_002_NONE_VOICE	¿Thancred no estaba contigo?
+TEXT_VOICEMAN_06100_001430_URIANGER	Y a vos. Como siempre, sois la viva imagen de la fortaleza.
+TEXT_VOICEMAN_06100_001440_URIANGER	Se fue a atender un asunto personal, pero debería volver pronto.
+TEXT_VOICEMAN_06100_001450_YSHTOLA	Supongo que estuviste ocupado, ¿no?
+TEXT_VOICEMAN_06100_001460_URIANGER	Conforme a nuestro plan, Thancred y yo emprendimos una especie de peregrinación, con el propósito de evaluar la situación de las tierras por las que pasábamos.
+TEXT_VOICEMAN_06100_001470_URIANGER	Pero nuestro viaje se interrumpió por un pedido de ayuda de nuestros peludos aliados lunares.
+TEXT_VOICEMAN_06100_001480_URIANGER	Como recordaréis, los Loporrits buscaban un nuevo propósito para la luna: otro papel con el que pudiera beneficiar a la humanidad. El Forum los está asesorando en esa empresa, pero yo volví para ofrecer mi propio consejo.
+TEXT_VOICEMAN_06100_001490_GRAHATIA	¿Y qué tiene que ver esto exactamente con las bóvedas de tesoros...?
+TEXT_VOICEMAN_06100_001500_URIANGER	Ah, os enterasteis de mi aprieto por la señora Krile.
+TEXT_VOICEMAN_06100_001510_URIANGER	No sé de dónde sacaron tal idea, pero los Loporrits están convencidos de que a los aventureros les encanta buscar tesoros.
+TEXT_VOICEMAN_06100_001520_URIANGER	Así que con su recién construido "país de las maravillas lleno de riquezas y misterios" esperan atraer a la luna a toda clase de exploradores intrépidos. Tan sincero e inocente era su deseo de llevarle alegría al mundo que no pude negarles mi colaboración...
+TEXT_VOICEMAN_06100_001530_URIANGER	Pero ¿y vosotros, amigos míos? ¿Qué os trae a Labyrinthos?
+TEXT_VOICEMAN_06100_001540_URIANGER	Fascinante. Es, en verdad, una oportunidad muy afortunada.
+TEXT_VOICEMAN_06100_001550_URIANGER	Será un honor aceptar vuestra invitación.
+TEXT_VOICEMAN_06100_001560_URIANGER	Me pregunto cuánto tiempo pasó desde la última vez que no actuamos impulsados por el destino o la desesperación.
+TEXT_VOICEMAN_06100_001570_YSHTOLA	Así es. Aunque atesoro los logros de los Scions, es agradable no llevar el peso del mundo sobre los hombros, para variar.
+TEXT_VOICEMAN_06100_001580_GRAHATIA	Contando a Estinien, ahora somos cinco, ¿no? Como no sabemos qué trampas o peligros esperan a los incautos, quizá sea prudente no reclutar a nadie más.
+TEXT_VOICEMAN_06100_001590_YSHTOLA	De acuerdo. Entre todos deberíamos tener las habilidades para manejar cualquier situación. ¿Nos ponemos en camino?
+TEXT_VOICEMAN_06100_001600_THANCRED	¿Qué, no hay tiempo para una palabra al viejo bardo canoso?
+TEXT_VOICEMAN_06100_001610_URIANGER	¿Todo bien, supongo?
+TEXT_VOICEMAN_06100_001620_THANCRED	Un viaje perdido, me temo. Esperaba ponerme al día con un antiguo mentor mientras tú negociabas con los conejos, pero parece que nuestros caminos no estaban destinados a cruzarse.
+TEXT_VOICEMAN_06100_Q8_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A8_000_001_NONE_VOICE	Te ves bien.
+TEXT_VOICEMAN_06100_A8_000_002_NONE_VOICE	¿Qué tal la "peregrinación"?
+TEXT_VOICEMAN_06100_001630_THANCRED	Es porque no viajamos con un aetheryte experimental. Es asombroso lo que hace la falta de náuseas por el bienestar de uno.
+TEXT_VOICEMAN_06100_001640_THANCRED	Tener a un astrologian al lado en el camino es sorprendentemente práctico. Y no está de más que esté mejorando con sus bromas ligeras.
+TEXT_VOICEMAN_06100_001650_THANCRED	En todo caso, mientras recorríamos Ilsabard, vimos que gran parte del continente estaba en distintas etapas de caos.
+TEXT_VOICEMAN_06100_001660_THANCRED	Cierto desorden es de esperar: los Días Finales terminaron, y la gente ya no tiene una amenaza común que la una.
+TEXT_VOICEMAN_06100_001670_THANCRED	Pero eso pasa con estos problemas incipientes, ¿no? Hay que vigilarlos para que no crezcan hasta volverse dolores de cabeza hechos y derechos.
+TEXT_VOICEMAN_06100_001680_THANCRED	Bien. ¿Por qué motivo se reunieron tantos personajes distinguidos?
+TEXT_VOICEMAN_06100_001690_THANCRED	¿Bajo las aguas del Bounty, dices? Veo que ya me robaste a mi compañero de viaje con la promesa de ruinas inexploradas y gloria académica.
+TEXT_VOICEMAN_06100_001700_URIANGER	No, no es por mi propio capricho, sino para cumplir mi compromiso con los Loporrits.
+TEXT_VOICEMAN_06100_001710_THANCRED	Ah, claro... Y si Estinien completa su grupo, probablemente ya tengan todos los miembros que necesitan.
+TEXT_VOICEMAN_06100_001720_YSHTOLA	¿Te sientes excluido? Si quieres, podría interceder por ti.
+TEXT_VOICEMAN_06100_001730_THANCRED	Quizá nos hayan "liberado" de nuestras obligaciones, pero nunca me voy a librar de esa lengua despiadada tuya, ¿verdad?
+TEXT_VOICEMAN_06100_001740_THANCRED	Hablando en serio, es mejor que me quede fuera de esta. Demasiados antiguos Scions juntos podrían preocupar a ciertos sectores.
+TEXT_VOICEMAN_06100_001750_THANCRED	Volveré a mi reconocimiento de siempre y veré cómo está la situación en el Far East. Si encuentran alguna revelación interesante, compártanla.
+TEXT_VOICEMAN_06100_001760_THANCRED	Hasta la próxima.
+TEXT_VOICEMAN_06100_001770_URIANGER	¿Apresuramos también nuestra partida? Ser Estinien se preguntará qué fue de nosotros.
+TEXT_VOICEMAN_06100_001780_GRAHATIA	¿Qué tenemos aquí...?
+TEXT_VOICEMAN_06100_001790_URIANGER	No es muy distinto en su diseño de un horno alquímico hannés...
+TEXT_VOICEMAN_06100_001800_YSHTOLA	Bueno, hay una forma de averiguarlo...
+TEXT_VOICEMAN_06100_001810_VARSHAHN	¡Alto! ¡No deben tocarlo!
+TEXT_VOICEMAN_06100_001820_GRAHATIA	Vrtra... Ah, perdón. ¿Debería seguir llamándote "Varshahn"?
+TEXT_VOICEMAN_06100_001830_VARSHAHN	Pueden llamarme como quieran. Mi naturaleza ya no es un secreto.
+TEXT_VOICEMAN_06100_001840_VARSHAHN	Aun así, no es el escenario que imaginaba para nuestro reencuentro. No habrán entrado en estas ruinas como vulgares saqueadores, ¿verdad...?
+TEXT_VOICEMAN_06100_001850_ESTINIEN	Ojalá pudiéramos negar tus acusaciones... pero me temo que no andas muy lejos de la verdad.
+TEXT_VOICEMAN_06100_001860_URIANGER	Gran Vrtra. ¿Podríamos rogaros que nos expliquéis la naturaleza de este extraño artefacto?
+TEXT_VOICEMAN_06100_001870_VARSHAHN	Lo fabricaron nuestros alquimistas a pedido mío. Con el propósito de... sellar algo.
+TEXT_VOICEMAN_06100_Q9_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A9_000_001_NONE_VOICE	¿Sellar qué, exactamente?
+TEXT_VOICEMAN_06100_A9_000_002_NONE_VOICE	Yo no iba a tocarlo, pero ya conoce a Y'shtola...
+TEXT_VOICEMAN_06100_A9_000_003_NONE_VOICE	...
+TEXT_VOICEMAN_06100_001880_YSHTOLA	Tú y yo hablaremos después.
+TEXT_VOICEMAN_06100_001890_GRAHATIA	No es momento para bromas, <if(gnum4,amiga mía,amigo mío)>, no es momento...
+TEXT_VOICEMAN_06100_001900_URIANGER	Ese "algo" del que habláis... ¿Podría ser algún tipo de amenaza?
+TEXT_VOICEMAN_06100_001910_URIANGER	Ese "algo" del que habláis... ¿Podría ser algún tipo de amenaza?
+TEXT_VOICEMAN_06100_001920_VARSHAHN	Quizá debería simplemente mostrárselo.
+TEXT_VOICEMAN_06100_001930_VARSHAHN	Levanté el sello, aunque sea por un momento. Con una autoridad que solo yo tengo.
+TEXT_VOICEMAN_06100_001940_URIANGER	¿¡Una fisura planar!?
+TEXT_VOICEMAN_06100_001950_GRAHATIA	No, <if(gnum4,amiga mía,amigo mío)>... Por pequeña que sea, ¡esta es una puerta al vacío que funciona!
+TEXT_VOICEMAN_06100_001960_YSHTOLA	Debo admitir que me muero de curiosidad por saber cómo llegó a esconderse una puerta del vacío en las profundidades de estas ruinas.
+TEXT_VOICEMAN_06100_001970_VARSHAHN	Para contar esa historia, primero debemos mirar lejos hacia el sur, y todavía más lejos en la memoria.
+TEXT_VOICEMAN_06100_001980_VARSHAHN	A una época de hace cinco milenios, cuando el Imperio allagano mandó una fuerza invasora a las costas de Meracydia.
+TEXT_VOICEMAN_06100_001990_VARSHAHN	Los pueblos del sur se unieron en torno a las figuras imponentes de Bahamut y Tiamat, y lucharon con fiereza para repeler a los conquistadores.
+TEXT_VOICEMAN_06100_002000_VARSHAHN	Pero con la derrota de Bahamut, la marea se volvió en su contra. Desesperados por conseguir cualquier ventaja, los meracydianos recurrieron a invocar entidades primales.
+TEXT_VOICEMAN_06100_002010_VARSHAHN	En respuesta, el emperador Xande selló un pacto con la Cloud of Darkness, soberana entre los habitantes del vacío que todo lo devoran.
+TEXT_VOICEMAN_06100_002020_VARSHAHN	Así, reforzados por eikons de un lado y voidsent del otro, los dos ejércitos chocaron en una batalla de una carnicería indescriptible. Tanta muerte. Tanta pérdida.
+TEXT_VOICEMAN_06100_002030_GRAHATIA	Me considero bastante versado en ese período de la historia, y sin embargo hablas como alguien que lo presenció...
+TEXT_VOICEMAN_06100_002040_VARSHAHN	Así fue.
+TEXT_VOICEMAN_06100_002050_VARSHAHN	Oí el rugido desafiante de Tiamat y volé a toda prisa hacia aquella tierra desgarrada por la guerra...
+TEXT_VOICEMAN_06100_002060_VARSHAHN	...junto con mi hermana, Azdaja.
+TEXT_VOICEMAN_06100_002070_VARSHAHN	Los dragones no somos "machos" ni "hembras" como suelen clasificar los hombres, pero "hermana mayor" es lo más cerca que puede llegar una lengua mortal a describir lo que ella era para mí.
+TEXT_VOICEMAN_06100_002080_VARSHAHN	Fui el último de nuestra camada en salir del cascarón, y Azdaja me cuidó donde mi padre no pudo.
+TEXT_VOICEMAN_06100_002090_VARSHAHN	Así que estaba con ella cuando Tiamat rugió. Estaba con ella cuando viajó al sur. Y estaba con ella cuando luchó contra las hordas de voidsent.
+TEXT_VOICEMAN_06100_002100_VARSHAHN	Pero por más demonios viles que abatiéramos, otros salían del abismo para ocupar su lugar. Ante una guerra de desgaste imposible de ganar, Azdaja se jugó el todo por el todo en una última apuesta...
+TEXT_VOICEMAN_06100_002110_VARSHAHN	Se lanzó a través de la puerta del vacío para atacar la raíz de su fuerza.
+TEXT_VOICEMAN_06100_002120_VARSHAHN	Intenté seguirla, decidido a ayudarla en lo que pudiera... pero justo cuando llegaba a la reluciente torre de Allag, vi cómo la grieta se cerraba detrás de ella.
+TEXT_VOICEMAN_06100_002130_VARSHAHN	Y desde entonces no sabemos nada de Azdaja.
+TEXT_VOICEMAN_06100_002140_GRAHATIA	Tengo que retractarme de lo que dije sobre mi conocimiento histórico: en ningún lugar de los archivos de la Crystal Tower vi mención de un sacrificio tan noble.
+TEXT_VOICEMAN_06100_002150_VARSHAHN	No me sorprende. A ojos allaganos, debió de parecer que un dragón solitario, enloquecido, simplemente se lanzó por la puerta y no volvió.
+TEXT_VOICEMAN_06100_002160_VARSHAHN	Por mi parte, pasé largos años buscando la forma de reunirme con Azdaja...
+TEXT_VOICEMAN_06100_002170_VARSHAHN	Hasta que ya no pude buscar más: hasta que Allag se volvió polvo, y las artes para abrir una puerta del vacío lo bastante grande para un dragón se perdieron para siempre.
+TEXT_VOICEMAN_06100_002180_YSHTOLA	Y sin embargo, aquí tiene el comienzo de una puerta, bajo el control de un aparato hannés.
+TEXT_VOICEMAN_06100_002190_VARSHAHN	Mi descubrimiento fue anterior a la fundación de Radz-at-Han. Aunque recorrí las tierras buscando un método para cruzar la grieta, fue bajo el mar donde encontré por casualidad una fisura planar natural.
+TEXT_VOICEMAN_06100_002200_VARSHAHN	Pero era demasiado estrecha para el cuerpo de un wyrm. Solo cuando nuestra ciudad se alzó sobre la roca y pude contar con la ayuda de nuestros talentosos alquimistas, las cosas tomaron un giro favorable.
+TEXT_VOICEMAN_06100_002210_VARSHAHN	Su dedicación fue intachable. Trabajaron sin descanso para ampliar la fisura, y tras décadas de esfuerzo, por fin alcanzó un tamaño por el que podría pasar un niño...
+TEXT_VOICEMAN_06100_002220_ESTINIEN	No hace mucho nos dijiste que llamaste a los tuyos; que la respuesta de Azdaja fue el silencio. Sospecho que el final de tu historia no es feliz.
+TEXT_VOICEMAN_06100_002230_VARSHAHN	Con esperanza en el corazón, usé un simulacro para cruzar el umbral... pero no: no la encontré.
+TEXT_VOICEMAN_06100_002240_VARSHAHN	Lo que encontré fue una horda de voidsent agolpados alrededor de la abertura que habían percibido.
+TEXT_VOICEMAN_06100_002250_VARSHAHN	Fue solo un momento, pero bastó. No tuve más remedio que retirarme y dejar que el portal se contrajera otra vez.
+TEXT_VOICEMAN_06100_002260_ESTINIEN	La puerta era una amenaza para tu pueblo. Tuviste que elegir entre poner en peligro a Radz-at-Han y abandonar a tu hermana... y elegiste lo segundo.
+TEXT_VOICEMAN_06100_002270_URIANGER	No es que vuestra hermana desdeñara vuestro llamado; es que estaba atrapada tras una barrera que no pueden atravesar ni el rugido ni el dragón. Aun ahora, en el mundo desolado del Thirteenth...
+TEXT_VOICEMAN_06100_002280_GRAHATIA	Apenas puedo imaginar tu dolor, pero fue sabio no quedarte en ese lugar. Una estancia demasiado larga, e incluso un ser con tu poder corre el riesgo de deformarse en una criatura del vacío.
+TEXT_VOICEMAN_06100_002290_GRAHATIA	Ya viste este fenómeno antes, cuando entramos en la oscuridad...
+TEXT_VOICEMAN_06100_Q10_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A10_000_001_NONE_VOICE	Sí, creí que había llegado nuestra hora.
+TEXT_VOICEMAN_06100_A10_000_002_NONE_VOICE	Me acuerdo de cuando Nero se puso morado...
+TEXT_VOICEMAN_06100_A10_000_003_NONE_VOICE	...
+TEXT_VOICEMAN_06100_002300_GRAHATIA	Yo también. Si no fuera por Unei y Doga, o por Nero, ya que estamos, quizá nunca habríamos vuelto a casa.
+TEXT_VOICEMAN_06100_002310_GRAHATIA	¿Recuerdas lo que le pasó a Nero? ¿Cómo sus heridas dejaron que la corrupción del vacío entrara en su cuerpo y deformara su aether?
+TEXT_VOICEMAN_06100_002320_GRAHATIA	¿Morado? Bueno, sí, sus heridas habían dejado que la corrupción del vacío entrara en su cuerpo y deformara su aether.
+TEXT_VOICEMAN_06100_002330_GRAHATIA	Recuerda bien lo que le pasó a Nero, cuando sus heridas dejaron que la corrupción del vacío entrara en su cuerpo y deformara su aether...
+TEXT_VOICEMAN_06100_002340_GRAHATIA	Si hubiera seguido avanzando mucho más, supongo que se habría transformado por completo.
+TEXT_VOICEMAN_06100_002350_VARSHAHN	Entonces hay pocas esperanzas para Azdaja...
+TEXT_VOICEMAN_06100_002360_GRAHATIA	Ah, no, no quise... Solo hablo de posibilidades.
+TEXT_VOICEMAN_06100_002370_GRAHATIA	Las escamas de la primera camada son extraordinariamente resistentes a las fluctuaciones aetéricas. Al fin y al cabo, son el componente central de los talismanes protectores, e incluso a la corrupción que describí le costaría vencer...
+TEXT_VOICEMAN_06100_002380_GRAHATIA	Claro. Con una escama protectora en su poder, uno podría, en teoría, sobrevivir a una estancia en el Thirteenth sin quedar deformado por sus energías...
+TEXT_VOICEMAN_06100_002390_VARSHAHN	Sea como sea, es demasiado tarde para rescatar a mi hermana. Cinco mil años demasiado tarde.
+TEXT_VOICEMAN_06100_002400_VARSHAHN	Y ahora, incontables personas me buscan para que las guíe y las proteja.
+TEXT_VOICEMAN_06100_002410_VARSHAHN	Así que, cuando sentí intrusos en las ruinas, vine solo para asegurarme de que la puerta siguiera cerrada. Eso, y para proteger el tesoro, por supuesto.
+TEXT_VOICEMAN_06100_002420_VARSHAHN	Del resto, solo quiero olvidarme...
+TEXT_VOICEMAN_06100_002430_VRITRA	Os agradezco vuestra presencia.
+TEXT_VOICEMAN_06100_002440_VRITRA	Las riquezas que recuperó la Radiant Host se acumularon en nombre de Alzadaal: una fortuna que reservé para un futuro día de necesidad.
+TEXT_VOICEMAN_06100_002450_VRITRA	Y he aquí que ese día llegó. ¡Que ayude a nuestra ciudad herida a recuperar su vitalidad y su vigor!
+TEXT_VOICEMAN_06100_002460_VRITRA	En tiempos mejores, dejaría esa tarea a nuestro capaz Ahewann, que los dioses lo tengan en su gloria.
+TEXT_VOICEMAN_06100_002470_VRITRA	Ahora que me falta su consejo, asumiré directamente las responsabilidades de mi cargo.
+TEXT_VOICEMAN_06100_002480_VRITRA	Primero, el tesoro se venderá a cambio de una moneda más práctica, y luego se invertirá en el puerto comercial de Yedlihmad. Hay que restaurar los negocios de nuestros mercaderes y reconstruir sus barcos. ¡El comercio debe volver a fluir!
+TEXT_VOICEMAN_06100_002490_VRITRA	Nadie se salvó de la tragedia de los Días Finales: de eso soy muy consciente.
+TEXT_VOICEMAN_06100_002500_VRITRA	Pero la pérdida del consorcio de Khalzahl dejó un vacío, y al llenarlo, daremos nuevos medios a nuestros pescadores, nuestros artesanos y otros para llevar su mercancía a mercados lejanos.
+TEXT_VOICEMAN_06100_002510_ESTINIEN	¿Y los niños que se quedaron sin familia que los cuide?
+TEXT_VOICEMAN_06100_002520_VRITRA	Esa es una preocupación que pesa mucho en mi mente. Un simple regalo de dinero pronto se acabaría, y dejaría a esas almas jóvenes a la deriva en los márgenes de nuestra sociedad.
+TEXT_VOICEMAN_06100_002530_VRITRA	No, hace falta una solución como corresponde, una que garantice su bienestar por muchos años.
+TEXT_VOICEMAN_06100_002540_VRITRA	Sin duda habéis visto cómo otras naciones enfrentan este desafío, <if(gnum4,aventurera,aventurero)>. ¿Cuál consideráis el camino más sabio?
+TEXT_VOICEMAN_06100_Q11_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A11_000_001_NONE_VOICE	Impuestos. Que se cobren sobre las ganancias comerciales a cambio de su inversión.
+TEXT_VOICEMAN_06100_A11_000_002_NONE_VOICE	Hace falta todo un pueblo...
+TEXT_VOICEMAN_06100_A11_000_003_NONE_VOICE	El orfanato de Idyllshire se financió con el comercio de bienes muy codiciados...
+TEXT_VOICEMAN_06100_A11_000_004_NONE_VOICE	El orfanato del Firmament se construyó como parte de un esfuerzo comunitario de reconstrucción.
+TEXT_VOICEMAN_06100_002550_VRITRA	Ya veo... Creamos una fuente de ingresos confiable.
+TEXT_VOICEMAN_06100_002560_VRITRA	Por supuesto... Debemos cuidarnos unos a otros.
+TEXT_VOICEMAN_06100_002570_VRITRA	Por supuesto... Podemos usar las ganancias del comercio para construir una nueva institución.
+TEXT_VOICEMAN_06100_002580_VRITRA	Por supuesto... El resurgir del comercio puede contribuir a construir una nueva institución.
+TEXT_VOICEMAN_06100_002590_VRITRA	Pongamos en práctica esta idea. Se redactará un contrato que obligue a todos los que reciban parte del tesoro de Alzadaal a destinar una porción de sus ganancias futuras al funcionamiento de un orfanato.
+TEXT_VOICEMAN_06100_002610_VRITRA	Ahora bien, una política de tanta influencia merece un nombre digno...
+TEXT_VOICEMAN_06100_Q12_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A12_000_001_NONE_VOICE	Algo con "Khalzahl" parece apropiado.
+TEXT_VOICEMAN_06100_A12_000_002_NONE_VOICE	¿Por qué no honrar a uno de sus mercaderes más exitosos?
+TEXT_VOICEMAN_06100_002620_VRITRA	Ah, un candidato apropiado...
+TEXT_VOICEMAN_06100_002630_VRITRA	¿Un mercader exitoso...? Ah, creo que entiendo vuestro razonamiento.
+TEXT_VOICEMAN_06100_002640_VRITRA	A Khalzahl no hay que recordarlo como la blasfemia que aterrorizó Thavnair, sino como un hombre trabajador y generoso que trajo mucha riqueza a nuestras costas.
+TEXT_VOICEMAN_06100_002650_VRITRA	¿Alguno de vosotros se opone a esta propuesta? Muchos aquí perdieron a seres queridos por las bestias...
+TEXT_VOICEMAN_06100_002660_NAHBDEEN	En aquellos tiempos de lucha, cualquiera de nosotros podría haberse quebrado. Cualquiera de nosotros podría haber caído en la desesperación.
+TEXT_VOICEMAN_06100_002670_NAHBDEEN	Cuando pienso en Khalzahl, no siento odio... solo un pesar punzante por no haber podido salvarlo a él también.
+TEXT_VOICEMAN_06100_002680_NAHBDEEN	¿¡No es así, muchachos!?
+TEXT_VOICEMAN_06100_002690_ESTINIEN	Esto pinta bien para ese chico... "Mehrahd", ¿no? Quizá pueda cortar lazos con ese vendedor turbio.
+TEXT_VOICEMAN_06100_002700_VRITRA	Entonces que así sea. ¡De ahora en adelante, esta iniciativa se conocerá como la "Khalzahl Foundation"!
+TEXT_VOICEMAN_06100_002710_VRITRA	Nahbdeen, reunid una patrulla, ¡y aseguraos de que ningún niño de esta ciudad viva en la miseria!
+TEXT_VOICEMAN_06100_002720_VRITRA	¡Escribanos! ¡Ocupaos de administrar nuestros fondos, y daos prisa! ¡Nuestros ciudadanos no deben sufrir ni un día más de lo necesario!
+TEXT_VOICEMAN_06100_002730_ESTINIEN	Dragón y hombre, lado a lado en busca de un mañana más brillante. Me recuerda a Ishgard.
+TEXT_VOICEMAN_06100_002740_YSHTOLA	Bien, aquí estamos todos.
+TEXT_VOICEMAN_06100_002750_ESTINIEN	¿Descubriste algo nuevo?
+TEXT_VOICEMAN_06100_002760_YSHTOLA	Examiné más de cerca ese aparato. Pude determinar cómo mantiene sellada la puerta del vacío, pero no cómo podría usarse para ampliar la abertura.
+TEXT_VOICEMAN_06100_002770_YSHTOLA	Para eso necesitaría consultar la técnica que desarrollaron los alquimistas de Vrtra, y no parece que haya sobrevivido ningún registro.
+TEXT_VOICEMAN_06100_002780_ESTINIEN	Eso ya lo sabemos, así que ¿para qué nos llamaste? ¿Averiguaste algo de valor o no?
+TEXT_VOICEMAN_06100_002790_YSHTOLA	Paciencia, buen ser: hay que presentar el tema antes de entrar en detalles.
+TEXT_VOICEMAN_06100_002800_YSHTOLA	Por lo que entendemos, para viajar entre mundos hay que atravesar la grieta nebulosa que existe entre ellos.
+TEXT_VOICEMAN_06100_002810_YSHTOLA	Imagina, si quieres, el momento en que te llamaron al First.
+TEXT_VOICEMAN_06100_002820_YSHTOLA	Tocaste una especie de foco para ayudar al Exarch a localizarte. Después, su hechizo de invocación canalizó las energías de la Crystal Tower para empezar tu viaje a su mundo.
+TEXT_VOICEMAN_06100_002830_YSHTOLA	La magia abrió un agujero en el muro que separa el Source del fragmento, y te arrojó a la nada que hay entre ellos.
+TEXT_VOICEMAN_06100_002840_YSHTOLA	En ese lugar, las leyes de la naturaleza no rigen...
+TEXT_VOICEMAN_06100_002850_YSHTOLA	Y aun así, a través de ese reino de inestabilidad temporal y espacial, llegaste <if(gnum4,sana y salva,sano y salvo)> a tu destino en el First.
+TEXT_VOICEMAN_06100_002860_YSHTOLA	La hazaña que te guio a través de una distancia tan inimaginable, física y metafórica, fue nada menos que un milagro.
+TEXT_VOICEMAN_06100_002870_ESTINIEN	¿Y qué hay de los muchos voidsent que hay en el Source? ¿Quién los guía hasta aquí, y cómo?
+TEXT_VOICEMAN_06100_002880_YSHTOLA	Excelente pregunta.
+TEXT_VOICEMAN_06100_002890_YSHTOLA	Aunque hay varios métodos por los que los habitantes del vacío pueden entrar en nuestro mundo, los rituales de invocación son los más comunes.
+TEXT_VOICEMAN_06100_002900_YSHTOLA	Por ejemplo, pensemos en la gárgola: una criatura de poder intermedio.
+TEXT_VOICEMAN_06100_002910_YSHTOLA	Para llamar a una entidad así, el aspirante a invocador debe abrir a la fuerza una puerta del vacío.
+TEXT_VOICEMAN_06100_002920_YSHTOLA	El portal dura apenas un momento y es relativamente pequeño, así que solo un diablillo u otro ser menor puede colarse con su cuerpo físico intacto.
+TEXT_VOICEMAN_06100_002930_YSHTOLA	Pero nuestra gárgola, más poderosa, es demasiado grande para eso. Crear una puerta lo bastante grande para ella requeriría enormes cantidades de energía, mucho más de lo que tiene cualquier practicante mortal.
+TEXT_VOICEMAN_06100_002940_YSHTOLA	En cambio, es mucho más común traer solo el alma de la entidad. Nosotros mismos lo probamos cuando cierto Exarch nos arrastró al First.
+TEXT_VOICEMAN_06100_002950_YSHTOLA	Y así como nuestros cuerpos se quedaron en nuestro mundo, la forma física del voidsent queda atrás, en el Thirteenth.
+TEXT_VOICEMAN_06100_002960_YSHTOLA	Una vez en su destino, el alma invocada recibe un cuerpo temporal que habitar. En el caso de la gárgola, una efigie de piedra resultó un recipiente adecuado.
+TEXT_VOICEMAN_06100_002970_ESTINIEN	Un momento, ¿dices que a los voidsent tiene que llamarlos a propósito alguien del Source, como un pescador que recoge su presa?
+TEXT_VOICEMAN_06100_002980_YSHTOLA	Exacto. Para que un ser recorra el caos de la grieta, con forma o sin ella, tiene que haber un agente que lo guíe desde el otro lado.
+TEXT_VOICEMAN_06100_002990_VARSHAHN	Cuando las hordas salieron en tropel de la gran puerta de Allag, fueron los tecnólogos quienes las atrajeron.
+TEXT_VOICEMAN_06100_003000_VARSHAHN	Aunque, hasta donde sé, las fisuras planares son, en esencia, pasajes naturales entre nuestro mundo y el vacío, que no requieren esa guía para atravesarlos.
+TEXT_VOICEMAN_06100_003010_VARSHAHN	¿Por qué solo la frontera entre el Source y el Thirteenth es tan frágil? Tanto que a menudo se rompe por sí sola...
+TEXT_VOICEMAN_06100_003020_YSHTOLA	Creo que resolver ese misterio es la clave para entender cómo viajar entre el Source y sus reflejos.
+TEXT_VOICEMAN_06100_003030_ESTINIEN	¿Y cómo piensas conseguir tus respuestas?
+TEXT_VOICEMAN_06100_003040_VARSHAHN	...No, ¡el peligro es demasiado grande!
+TEXT_VOICEMAN_06100_003050_YSHTOLA	Quizá. Pero lo que algunos llaman "peligro", otros lo llaman "aventura".
+TEXT_VOICEMAN_06100_003060_VARSHAHN	¿No escuchó mi historia? Sin contar que el medio para ampliar la puerta se perdió hace siglos.
+TEXT_VOICEMAN_06100_003070_VARSHAHN	Aunque pudiera abrir el portal lo suficiente, apenas lo cruzara la recibiría un ejército de horrores asesinos.
+TEXT_VOICEMAN_06100_003080_YSHTOLA	Le aseguro que estuve muy atenta. Y estoy de acuerdo en que ir sola sería una muerte segura.
+TEXT_VOICEMAN_06100_003090_YSHTOLA	Pero si llevara conmigo a alguien que ya se atrevió a entrar al Thirteenth y humilló a la Cloud of Darkness... bueno, imagino que mis posibilidades mejorarían mucho.
+TEXT_VOICEMAN_06100_Q13_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A13_000_001_NONE_VOICE	Cuenta conmigo.
+TEXT_VOICEMAN_06100_A13_000_002_NONE_VOICE	Adiós a la vida tranquila.
+TEXT_VOICEMAN_06100_003100_YSHTOLA	Tenía la sensación de que dirías eso.
+TEXT_VOICEMAN_06100_003110_YSHTOLA	Una vez más, pongo mi vida en tus manos, siempre confiables.
+TEXT_VOICEMAN_06100_003120_YSHTOLA	¿Desde cuándo te gusta la vida tranquila?
+TEXT_VOICEMAN_06100_003130_YSHTOLA	Una vez más, pongo mi vida en tus manos, siempre confiables.
+TEXT_VOICEMAN_06100_003140_YSHTOLA	Dicho esto, por mucho que quisiera volver directo a la puerta del vacío, está el pequeño detalle de que no podemos abrirla sin la autoridad personal del satrap...
+TEXT_VOICEMAN_06100_003150_VARSHAHN	Como ya dije, les concederé a ustedes y a los suyos cualquier favor que pidan... siempre que no ponga en peligro a mi pueblo.
+TEXT_VOICEMAN_06100_003160_YSHTOLA	Le doy mi palabra de que tomaremos todas las precauciones: no dejaremos que ni un solo voidsent amenace Radz-at-Han. Suponiendo que logremos ampliar el portal, para empezar...
+TEXT_VOICEMAN_06100_003170_ESTINIEN	¿Tienes un plan?
+TEXT_VOICEMAN_06100_003180_YSHTOLA	En realidad, esperaba que usted nos ayudara con eso. ¿Supongo que los alquimistas que contrató le dieron alguna explicación de su método?
+TEXT_VOICEMAN_06100_003190_VARSHAHN	Así es. La casa Daemir supervisaba el proyecto...
+TEXT_VOICEMAN_06100_003200_YSHTOLA	Daemir, Daemir... Ah, sí, la familia vinculada al Great Work.
+TEXT_VOICEMAN_06100_003210_VARSHAHN	No entendí del todo la teoría, pero su investigación empezó con un voidsent que se había colado por la fisura.
+TEXT_VOICEMAN_06100_003220_VARSHAHN	Después de examinarlo a fondo, crearon un simulacro arcano con cualidades parecidas. Un voidsent artificial, por así decirlo. Al parecer fue indispensable en sus esfuerzos por ampliar la puerta.
+TEXT_VOICEMAN_06100_003230_YSHTOLA	...¿Un voidsent artificial?
+TEXT_VOICEMAN_06100_003240_VARSHAHN	Sí. Como eran grandes admiradores de los Archons, la casa Daemir le presentó notas detalladas al comité oficial de Sharlayan. Esperaban elogios y reconocimientos por su simulacro... y quedaron destrozados cuando les informaron que su trabajo había sido clasificado como material prohibido.
+TEXT_VOICEMAN_06100_003250_YSHTOLA	Si eso es cierto, esas notas quizá sigan guardadas en algún archivo prohibido. No en Gubal, claro, porque esa biblioteca todavía no existía. Lo que nos deja...
+TEXT_VOICEMAN_06100_Q14_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A14_000_001_NONE_VOICE	¿La sección restringida del Noumenon?
+TEXT_VOICEMAN_06100_A14_000_002_NONE_VOICE	El lugar favorito de G'raha para colarse.
+TEXT_VOICEMAN_06100_A14_000_003_NONE_VOICE	¿Con... qué?
+TEXT_VOICEMAN_06100_003260_YSHTOLA	Sí, bien podría tener una copia.
+TEXT_VOICEMAN_06100_003270_YSHTOLA	Así es. Los estantes restringidos del Noumenon bien podrían tener una copia.
+TEXT_VOICEMAN_06100_003280_YSHTOLA	¿Ya te olvidaste del desastre de G'raha en el Noumenon?
+TEXT_VOICEMAN_06100_003290_YSHTOLA	...¿La sección restringida donde lo atraparon husmeando? Bien podría tener una copia de la documentación de los Daemir.
+TEXT_VOICEMAN_06100_003300_YSHTOLA	En ese caso, propongo que vayamos directo a Sharlayan.
+TEXT_VOICEMAN_06100_003310_ESTINIEN	A menos que crean que van a necesitar ayuda para llegar a los estantes altos, no veo de qué podría servirles. Vayan ustedes. Todavía tengo que encontrar a Mehrahd y contarle de la Khalzahl Foundation.
+TEXT_VOICEMAN_06100_003320_YSHTOLA	Pongámonos en camino nosotros también.
+TEXT_VOICEMAN_06100_003330_VARSHAHN	Están decididos a aventurarse en el vacío. ¿Me quedo de brazos cruzados...?
+TEXT_VOICEMAN_06100_003340_YSHTOLA	Si las notas de la casa Daemir están en algún lugar, será aquí. Empecemos.
+TEXT_VOICEMAN_06100_003350_YSHTOLA	Sí, la firma aetérica es inconfundible. Sentí muchas veces los rastros de la resonancia de la casa Daemir en el Great Work.
+TEXT_VOICEMAN_06100_003360_YSHTOLA	Hora de ver a qué venía tanto alboroto...
+TEXT_VOICEMAN_06100_003370_YSHTOLA	"Entre las filas de los voidsent existen entidades con el poder de traer a sus hermanos desde el más allá. La especie conocida como 'Atomos', sin embargo, es excepcionalmente prodigiosa en este sentido.
+TEXT_VOICEMAN_06100_003380_YSHTOLA	"De sus fauces dilatadas puede expulsar una procesión interminable de criaturas nacidas del vacío, un talento que puso a dura prueba a la Radiant Host en sus batallas contra estas abominaciones.
+TEXT_VOICEMAN_06100_003390_YSHTOLA	"Suponiendo que la propia entidad actuaba como puerta del vacío, nos propusimos capturar un ejemplar pequeño y examinar después su estructura fisiológica.
+TEXT_VOICEMAN_06100_003400_YSHTOLA	"Nuestros hallazgos revelaron que el Atomos había absorbido una fisura planar en su propia carne, que podía ampliar a voluntad hasta convertirla en una puerta funcional.
+TEXT_VOICEMAN_06100_003410_YSHTOLA	"Tras un análisis más detallado, identificamos un patrón de ondas aetéricas emitido durante este proceso, un patrón que logramos imitar haciendo pasar aether almacenado en cristales por un prisma diseñado para ello.
+TEXT_VOICEMAN_06100_003420_YSHTOLA	"Luego incrustamos dicho prisma en un simulacro arcano, y así completamos lo que llamamos nuestro 'Atomos artificial'".
+TEXT_VOICEMAN_06100_003430_YSHTOLA	¿Cómo pude estar tan ciega a las posibilidades? Esta especie, y su capacidad de invocar voidsent, se discute entre los académicos desde hace años.
+TEXT_VOICEMAN_06100_003440_YSHTOLA	Justo antes de la Séptima Calamidad Umbral, recibimos informes de avistamientos de Atomos en todos los rincones de Eorzea. ¿Seguro que viste alguno en el transcurso de tus viajes?
+TEXT_VOICEMAN_06100_003450_YSHTOLA	Justo antes de la Séptima Calamidad Umbral, recibimos informes de avistamientos de Atomos en todos los rincones de Eorzea. ¿Seguro que al menos oíste las historias?
+TEXT_VOICEMAN_06100_003460_YSHTOLA	Y aun así la casa Daemir construyó su propio Atomos de imitación. No me sorprende que los Archons enviaran su trabajo a un archivo restringido.
+TEXT_VOICEMAN_06100_003470_YSHTOLA	No fue tarea fácil, pero por fin encontramos el volumen que buscábamos.
+TEXT_VOICEMAN_06100_003480_YSHTOLA	Mentiría si dijera que no tengo la tentación de quedarme más. De ver qué otros títulos prohibidos acechan en estos estantes...
+TEXT_VOICEMAN_06100_003490_YSHTOLA	Ah, pero eso sería abusar del privilegio tan especial que nos concedieron, ¿no? Mejor no.
+TEXT_VOICEMAN_06100_003500_NIDHANA	Las ruinas ya eran bastante impresionantes, pero nunca soñé que un tesoro así estuviera escondido en las profundidades del Bounty...
+TEXT_VOICEMAN_06100_003510_NIDHANA	Habría sido útil saber que este aparato existía, Su Excelencia.
+TEXT_VOICEMAN_06100_003520_VARSHAHN	Mis disculpas... la puerta era un secreto que solo compartía con mis consejeros más cercanos. Temía lo que pudiera pasar si gente con malas intenciones se enteraba de su existencia.
+TEXT_VOICEMAN_06100_003530_ESTINIEN	¿Qué estás haciendo ahora?
+TEXT_VOICEMAN_06100_003540_YSHTOLA	Hay algo que quiero comprobar.
+TEXT_VOICEMAN_06100_003550_YSHTOLA	Los informes de NOAH dicen que una breve estancia en el vacío conlleva poco riesgo de desequilibrio aetérico.
+TEXT_VOICEMAN_06100_003560_YSHTOLA	Pero si uno sufre una herida, o si la expedición se alarga más de lo previsto, el riesgo aumenta mucho.
+TEXT_VOICEMAN_06100_003570_YSHTOLA	G'raha teorizó que una escama protectora daría protección contra la influencia corruptora del vacío... Pero preferiría probar esa hipótesis antes de que pongamos un pie en el Thirteenth.
+TEXT_VOICEMAN_06100_003580_ESTINIEN	Así que... esto es una especie de experimento.
+TEXT_VOICEMAN_06100_003590_YSHTOLA	Sí. Un experimento... Dime: ¿cómo comprobarías <italic(1)>tú<italic(0)> la eficacia de la escama protectora?
+TEXT_VOICEMAN_06100_Q15_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A15_000_001_NONE_VOICE	Podría ir yo <if(gnum4,misma,mismo)>.
+TEXT_VOICEMAN_06100_A15_000_002_NONE_VOICE	(No decir nada y mirar a Estinien con intención).
+TEXT_VOICEMAN_06100_A15_000_003_NONE_VOICE	¿Mandando un familiar?
+TEXT_VOICEMAN_06100_003600_ESTINIEN	¿Y cómo harías eso? La puerta todavía es demasiado pequeña para que pase cualquiera de nosotros.
+TEXT_VOICEMAN_06100_003610_YSHTOLA	Estinien tiene razón. Por eso decidí mandar un familiar en nuestro lugar.
+TEXT_VOICEMAN_06100_003620_ESTINIEN	¿Qué? ¿Por qué me miras así? ¿No esperarás que me meta por ese portal diminuto?
+TEXT_VOICEMAN_06100_003630_YSHTOLA	No hace falta intentar nada tan drástico. Un familiar pequeño debería bastar.
+TEXT_VOICEMAN_06100_003640_YSHTOLA	Muy bien. Veo que prestaste atención.
+TEXT_VOICEMAN_06100_003650_YSHTOLA	Así como Vrtra mandó su simulacro, nosotros usaremos un familiar para que cargue con cualquier consecuencia desagradable.
+TEXT_VOICEMAN_06100_003660_YSHTOLA	Ahora bien, un simple diablillo puede atravesar una fisura, por estrecha que sea.
+TEXT_VOICEMAN_06100_003670_YSHTOLA	Lo que significa que una entidad arcana de tamaño parecido debería poder hacer lo mismo.
+TEXT_VOICEMAN_06100_003680_YSHTOLA	No quería llegar a esto... pero me temo que ningún otro familiar servirá.
+TEXT_VOICEMAN_06100_003690_ESTINIEN	No me gusta cómo suena eso. ¿Qué clase de demonio piensa invocar...?
+TEXT_VOICEMAN_06100_003700_YSHTOLA	Del océano surge, de la nube se forma,<br>del manantial brota, de la lluvia que se desborda,<br>del río que fluye la vida nace...
+TEXT_VOICEMAN_06100_003710_YSHTOLA	¡Agua, agua, espuma y burbujas!♪
+TEXT_VOICEMAN_06100_003720_ESTINIEN	Prepárense. Me temo que la poseyeron...
+TEXT_VOICEMAN_06100_003730_NIDHANA	¡Ay, vamos, fue adorable!
+TEXT_VOICEMAN_06100_003740_NOKKEN	¡Agua, agua, espuma y burbujas!♪<br>¡A jugar!
+TEXT_VOICEMAN_06100_003750_YSHTOLA	Aunque no eran mi primera opción, estos familiares que ideé de niña son los que tienen más posibilidades de pasar por la puerta.
+TEXT_VOICEMAN_06100_003760_YSHTOLA	...Solo desearía que mi yo más joven hubiera pensado en un final más digno para el ritual de creación.
+TEXT_VOICEMAN_06100_003770_YSHTOLA	En todo caso, estas dos deberían servirnos bien.
+TEXT_VOICEMAN_06100_003780_YSHTOLA	Esta llevará una escama protectora...
+TEXT_VOICEMAN_06100_003790_YSHTOLA	Y cuando vuelvan del Thirteenth, podremos observar cómo afectó el talismán, o su ausencia, al avance de la corrupción del vacío.
+TEXT_VOICEMAN_06100_003800_YSHTOLA	¿Podría abrir la puerta, Su Excelencia?
+TEXT_VOICEMAN_06100_003810_VARSHAHN	Ah, sí, por supuesto...
+TEXT_VOICEMAN_06100_003820_YSHTOLA	También deberíamos estar atentos a que no se cuelen voidsent mientras hacemos el experimento. Estinien, tú te encargas de mantener a Nidhana a salvo.
+TEXT_VOICEMAN_06100_003830_ESTINIEN	Como digas...
+TEXT_VOICEMAN_06100_003840_YSHTOLA	Tú también será mejor que estés en guardia.
+TEXT_VOICEMAN_06100_Q16_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A16_000_001_NONE_VOICE	Siempre lo estoy.
+TEXT_VOICEMAN_06100_A16_000_002_NONE_VOICE	¡Espuma y burbujas!
+TEXT_VOICEMAN_06100_A16_000_003_NONE_VOICE	...
+TEXT_VOICEMAN_06100_003850_YSHTOLA	Y nos alegramos de ello.
+TEXT_VOICEMAN_06100_003860_YSHTOLA	¿Oh? ¿Te ofreces para unirte a las nixies? Podría encogerte, ¿sabes?...
+TEXT_VOICEMAN_06100_003870_YSHTOLA	Por favor, solo... hazme un favor y olvida que viste eso.
+TEXT_VOICEMAN_06100_003880_YSHTOLA	Empecemos, ¿les parece?
+TEXT_VOICEMAN_06100_003890_YSHTOLA	¡Nixies! ¡Al vacío!
+TEXT_VOICEMAN_06100_003900_NOKKEN	¡Agua, agua, espuma y burbujas! ¡A los reinos de sombra vamos a vagar!
+TEXT_VOICEMAN_06100_003910_YSHTOLA	Creo que ya esperamos bastante.
+TEXT_VOICEMAN_06100_003920_YSHTOLA	¡Nixies! ¡Vuelvan a mi lado!
+TEXT_VOICEMAN_06100_003930_DARKNOKKEN	Agua... agua... \<farfulla>
+TEXT_VOICEMAN_06100_003940_YSHTOLA	Gracias, pequeña. Lo hiciste bien.
+TEXT_VOICEMAN_06100_003950_NIDHANA	Pobrecita. Su esencia quedó deformada sin remedio...
+TEXT_VOICEMAN_06100_003960_VOIDSENTA	¡Los huelo...!
+TEXT_VOICEMAN_06100_003970_VOIDSENTB	No puedo morir... QUIERO morir... Mátenme... ACABEN CONMIGO...
+TEXT_VOICEMAN_06100_003980_VOIDSENTC	¡Luz! ¡Veo luz!
+TEXT_VOICEMAN_06100_003990_VOIDSENTD	(-Voz siniestra-)¡Ábrete! ¡Ábrete! ¡ÁBRETE!
+TEXT_VOICEMAN_06100_004000_VARSHAHN	¡Se nos acabó el tiempo! ¡Tengo que volver a sellar la puerta del vacío!
+TEXT_VOICEMAN_06100_004010_NIDHANA	¡Están pasando!
+TEXT_VOICEMAN_06100_004020_VARSHAHN	En nombre de Alzadaal III... ¡cierro esta puerta al vacío!
+TEXT_VOICEMAN_06100_004030_NIDHANA	Bueno, esa fue una dura lección sobre los peligros de las puertas del vacío...
+TEXT_VOICEMAN_06100_004040_ESTINIEN	¿Y nuestro experimento? Diría que los resultados hablan por sí solos.
+TEXT_VOICEMAN_06100_004050_YSHTOLA	La nixie sin protección sufrió una grave corrupción aetérica. Como observó Nidhana, está en camino de convertirse en un voidsent.
+TEXT_VOICEMAN_06100_004060_YSHTOLA	La que estaba unida al talismán, en cambio, parece intacta. No percibo cambios en su equilibrio.
+TEXT_VOICEMAN_06100_004070_YSHTOLA	Descansen ahora, pequeñas.
+TEXT_VOICEMAN_06100_004080_ESTINIEN	Entonces la teoría de G'raha era correcta.
+TEXT_VOICEMAN_06100_004090_YSHTOLA	Eso parece. Pero aunque nuestro segundo familiar quedó intacto ante las energías del vacío, el talismán en sí muestra señales de deterioro.
+TEXT_VOICEMAN_06100_004100_YSHTOLA	Claro que originalmente se diseñó para proteger el alma de la subyugación de los primals: es lógico que una corrupción aetérica de otro tipo lo afecte de otra manera.
+TEXT_VOICEMAN_06100_004110_YSHTOLA	Quizá tengamos que modificar el diseño de la escama protectora para tener en cuenta el aether especialmente inestable del Thirteenth...
+TEXT_VOICEMAN_06100_004120_ESTINIEN	Hablas mucho de la inestabilidad del vacío, pero mi imaginación no da para tanto. ¿Qué clase de lugar es ese mundo roto?
+TEXT_VOICEMAN_06100_004130_YSHTOLA	Ah, perdón. Olvido que no todos pasamos los días encerrados en archivos polvorientos.
+TEXT_VOICEMAN_06100_004140_YSHTOLA	El Thirteenth es un reflejo del Source que quedó ahogado en una inundación de Oscuridad.
+TEXT_VOICEMAN_06100_004150_YSHTOLA	En palabras del propio Emet-Selch, esa tragedia fue resultado de los intentos de los Ascians por forzar una Reunificación. Se equivocaron por apresurarse, y convirtieron ese mundo en un "vacío inútil".
+TEXT_VOICEMAN_06100_004160_YSHTOLA	¿Recuerdas a Unukalhai, el niño tan peculiar que conocimos durante nuestros problemas con la Warring Triad? Así nos explicó el destino del Thirteenth:
+TEXT_VOICEMAN_06100_004170_YSHTOLA	Los campeones de ese mundo desdichado usaron la piedra conocida como "auracita" para contener el poder de los primals.
+TEXT_VOICEMAN_06100_004180_YSHTOLA	Pero esos mismos héroes se fueron corrompiendo con las energías que se filtraban de la auracita, hasta transformarse en demonios con un hambre interminable de aether.
+TEXT_VOICEMAN_06100_004190_YSHTOLA	Para cuando alguien pensó en oponerse a ellos, la fuerza de la Luz se había debilitado demasiado... y el equilibrio del Thirteenth se inclinó hacia una Oscuridad eterna.
+TEXT_VOICEMAN_06100_004200_YSHTOLA	Si mal no recuerdo, fue Elidibus quien rescató el espíritu de Unukalhai de su último campo de batalla.
+TEXT_VOICEMAN_06100_004210_YSHTOLA	Pero me pregunto si habría otros a los que el emisario salvó del olvido...
+TEXT_VOICEMAN_06100_Q17_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A17_000_001_NONE_VOICE	La camarera de la Wandering Stairs...
+TEXT_VOICEMAN_06100_A17_000_002_NONE_VOICE	La compañera de Ardbert, la espadachina elezen...
+TEXT_VOICEMAN_06100_004220_YSHTOLA	La camarera... Cyella, ¿no? ¿Y dices que era otro de los peones de Elidibus?
+TEXT_VOICEMAN_06100_004230_YSHTOLA	¿Cylva? ¿La aventurera que viajaba con los Warriors of Light? ¿Y dices que era otro de los peones de Elidibus?
+TEXT_VOICEMAN_06100_004240_YSHTOLA	Ya veo... Así que Cyella, o mejor dicho, Cylva, se dejó seducir por los mismos sueños de heroísmo que Unukalhai.
+TEXT_VOICEMAN_06100_004250_YSHTOLA	¿Y qué hay de tu propia experiencia? ¿Nos contarás lo que viste durante la expedición de NOAH?
+TEXT_VOICEMAN_06100_004260_YSHTOLA	Ya me lo imagino... La extensión sin sol, tenebrosa, infestada de legiones de monstruosidades hambrientas de aether. Un vacío en todo el sentido de la palabra.
+TEXT_VOICEMAN_06100_004270_VARSHAHN	Lo que acaba de describir con tanto detalle escabroso es justamente por qué dudo en alentarlos.
+TEXT_VOICEMAN_06100_004280_YSHTOLA	No se preocupe, gran Vrtra: nuestro viaje al Thirteenth es solo la primera etapa de una travesía más larga.
+TEXT_VOICEMAN_06100_004290_YSHTOLA	Una travesía que nos llevará a otros reflejos, a nuevos misterios y descubrimientos, y pienso estar ahí en cada paso del camino.
+TEXT_VOICEMAN_06100_004300_YSHTOLA	Pero primero debo concentrarme en perfeccionar el talismán protector...
+TEXT_VOICEMAN_06100_004310_NIDHANA	Entonces yo puedo empezar a construir un Atomos artificial.
+TEXT_VOICEMAN_06100_004320_NIDHANA	O podría, si tuviera a mano los manuales correspondientes. ¿Podría atreverme a pedir acceso a los archivos de la familia del satrap?
+TEXT_VOICEMAN_06100_004330_NIDHANA	Ejem... ¿Su Excelencia?
+TEXT_VOICEMAN_06100_004340_VARSHAHN	¿Hm...? ¡Ah! Sí, eso se puede arreglar. Hablaré con mis funcionarios cuando volvamos.
+TEXT_VOICEMAN_06100_004350_NIDHANA	¡Entonces nos vemos en la ciudad!
+TEXT_VOICEMAN_06100_004360_NIDHANA	¡Ah, Y'shtola! ¿Supongo que los ajustes van bien?
+TEXT_VOICEMAN_06100_004370_YSHTOLA	Es un proceso largo, pero el final está a la vista, sí.
+TEXT_VOICEMAN_06100_004380_NIDHANA	¡Qué buena noticia! Yo también tuve suerte buscando en los registros privados del satrap.
+TEXT_VOICEMAN_06100_004390_NIDHANA	Lo que encontré fue un registro de transacciones, de la misma época en que se construyó el Alzadaal's Legacy. Incluía una lista de compras de componentes alquímicos muy exclusivos... y supe que había encontrado la clave para fabricar el Atomos artificial.
+TEXT_VOICEMAN_06100_004400_NIDHANA	Después fui al High Crucible a encargar los materiales. ¡Cuando expliqué lo que necesitaba, me rodearon voluntarios insistiendo en que los dejara ayudar con todo el proyecto!
+TEXT_VOICEMAN_06100_004410_YSHTOLA	La reacción normal ante alguien que abre a la fuerza una puerta del vacío es salir corriendo... Los académicos hanneses sin duda son de otra pasta.
+TEXT_VOICEMAN_06100_004420_VARSHAHN	Los alquimistas de antaño estaban hechos de la misma madera. Lo desconocido no les daba miedo; de hecho, siempre estaban ansiosos por buscar nuevos conocimientos, sin importar el peligro.
+TEXT_VOICEMAN_06100_004430_YSHTOLA	¿Y usted no fue también intrépido, incluso temerario, en su determinación?
+TEXT_VOICEMAN_06100_004440_VARSHAHN	...Mi padre entró en su letargo antes de que yo saliera del cascarón. Así que fue Azdaja quien mantuvo mi huevo seguro y caliente.
+TEXT_VOICEMAN_06100_004450_VARSHAHN	Eso creó un lazo entre nosotros. Incluso mucho después de aprender a valerme por mí mismo, casi nunca me apartaba de su lado.
+TEXT_VOICEMAN_06100_004460_VARSHAHN	Era mi guardiana, mi hermana, mi querida compañera... y no pasa un solo día sin que lamente su ausencia.
+TEXT_VOICEMAN_06100_004470_VARSHAHN	Por profunda que fuera la oscuridad, no iba a renunciar a mi búsqueda. Me prometí que llegaría el momento en que volveríamos a surcar los cielos juntos.
+TEXT_VOICEMAN_06100_004480_VARSHAHN	Pero ahora soy el satrap...
+TEXT_VOICEMAN_06100_004490_NAHBDEEN	¡La Radiant Host está a su servicio, Su Excelencia!
+TEXT_VOICEMAN_06100_004500_VARSHAHN	Nahbdeen. ¿Qué significa esto...?
+TEXT_VOICEMAN_06100_004510_NAHBDEEN	Ser Estinien nos contó de su dilema.
+TEXT_VOICEMAN_06100_004520_NAHBDEEN	Durante siglos protegió Radz-at-Han sin mostrar nunca su verdadero ser. Escondido tras un telón, y viviendo solo al servicio del pueblo...
+TEXT_VOICEMAN_06100_004530_NAHBDEEN	Su dedicación significó más para nosotros que su engaño, y por eso lo aceptamos como nuestro soberano legítimo.
+TEXT_VOICEMAN_06100_004540_NAHBDEEN	Después de todo lo que sacrificó por esta nación, ¿creyó que le negaríamos el deseo de su corazón?
+TEXT_VOICEMAN_06100_004550_NAHBDEEN	Sobrevivimos a los Días Finales. Somos un pueblo fuerte y orgulloso. ¡Nosotros, la Radiant Host, mantendremos a salvo Thavnair en su ausencia!
+TEXT_VOICEMAN_06100_004560_VARSHAHN	Les agradezco su lealtad y su aliento. Y sin embargo...
+TEXT_VOICEMAN_06100_004570_NAHBDEEN	¡Ahora escúchame bien, Varshahn!
+TEXT_VOICEMAN_06100_004580_NAHBDEEN	Al fin y al cabo, llevas puesta esa cara.
+TEXT_VOICEMAN_06100_004590_NAHBDEEN	Como ya te dije antes, eres un hermano menor para todos nosotros.
+TEXT_VOICEMAN_06100_004600_NAHBDEEN	Y si eres de la familia, también lo es tu hermana.
+TEXT_VOICEMAN_06100_004610_NAHBDEEN	Estamos aquí si nos necesitas. ¡Pero no nos pidas que nos quedemos mirando mientras abandonas a una hermana que llevas milenios ansiando rescatar!
+TEXT_VOICEMAN_06100_004620_NIDHANA	¡<italic(1)>Vamos<italic(0)> a lograr abrir el camino, es solo cuestión de tiempo! ¡Lo único que tiene que hacer es prepararse para pasar al otro lado!
+TEXT_VOICEMAN_06100_004630_MEHRAHD	Su Excelencia... Quería agradecerle por construir el orfanato. Significa mucho que mi hermana y yo vayamos a tener un lugar donde estar juntos, a salvo y felices.
+TEXT_VOICEMAN_06100_004640_MEHRAHD	¡Y espero que usted y su hermana también puedan volver a estar juntos!
+TEXT_VOICEMAN_06100_Q18_000_001_NONE_VOICE	¿Qué vas a decir?
+TEXT_VOICEMAN_06100_A18_000_001_NONE_VOICE	Para protegerlos bien, tiene que cobrar ánimo.
+TEXT_VOICEMAN_06100_A18_000_002_NONE_VOICE	¿Va a quedarse en la duda para siempre...?
+TEXT_VOICEMAN_06100_004650_VARSHAHN	"Cobrad ánimo y protegedlos bien".
+TEXT_VOICEMAN_06100_004660_VARSHAHN	Esas fueron las palabras que una vez le dije. Y aquí estoy, sin estar a su altura.
+TEXT_VOICEMAN_06100_004670_VARSHAHN	Si mi corazón está dividido, no estoy en condiciones de proteger ni a Azdaja ni a Radz-at-Han.
+TEXT_VOICEMAN_06100_004680_VARSHAHN	¿Me dice que debo aprovechar esta oportunidad?
+TEXT_VOICEMAN_06100_004690_VARSHAHN	"Cobrad ánimo y protegedlos bien". Esas fueron las palabras que una vez le dije. Y aquí estoy, sin estar a su altura.
+TEXT_VOICEMAN_06100_004700_VARSHAHN	Si mi corazón está dividido, no estoy en condiciones de proteger ni a Azdaja ni a Radz-at-Han.
+TEXT_VOICEMAN_06100_004710_VARSHAHN	Pueblo mío, tomé una decisión. Varshahn dejará Thavnair por un tiempo.
+TEXT_VOICEMAN_06100_004720_VARSHAHN	Mi forma de dragón se quedará en el palacio, pero solo para cumplir los deberes más esenciales del satrap.
+TEXT_VOICEMAN_06100_004730_VARSHAHN	Mientras me concentro en controlar este recipiente, puede que algunos asuntos se me escapen.
+TEXT_VOICEMAN_06100_004740_VARSHAHN	Confío en ustedes, mis amigos de confianza, para que se cuiden unos a otros hasta que vuelva.
+TEXT_VOICEMAN_06100_004750_NAHBDEEN	Cuídate, y buena suerte, hermanito. Se derramarían muchas lágrimas si te pasara algo.
+TEXT_VOICEMAN_06100_004760_VARSHAHN	No me atrevería a hacerlos llorar.
+TEXT_VOICEMAN_06100_004765_SYSTEM_NONE_VOICE	Mientras tanto, en el Thirteenth...
+TEXT_VOICEMAN_06100_004770_MYSTERIOUSPERSON	Y así he vuelto.
+TEXT_VOICEMAN_06100_004780_MYSTERIOUSPERSON	A este mundo sin salvadores...

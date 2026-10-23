@@ -1,0 +1,59 @@
+key	text
+TEXT_AETHERYTE_MAINMENU_TITLE	Te damos la bienvenida a <ennoun(PlaceName,2,lnum1,2,1)>.
+TEXT_AETHERYTE_TOWN_WARP	<icon(69)> Aethernet.
+TEXT_AETHERYTE_HOUSING_WARP	<icon(69)> Aethernet del distrito residencial.
+TEXT_AETHERYTE_MENU_WKT	<icon(69)> Visitar otro World.
+TEXT_AETHERYTE_REGISTER_HOME_POINT_CHECKED	<icon(68)> Fijar como Home Point.
+TEXT_AETHERYTE_REGISTER_HOME_POINT	<icon(69)> Fijar como Home Point.
+TEXT_AETHERYTE_REGISTER_FAVORITE_CHECKED	<icon(68)> Registrar como Favored Destination.
+TEXT_AETHERYTE_REGISTER_FAVORITE	<icon(69)> Registrar como Favored Destination.
+TEXT_AETHERYTE_REGISTER_TOKEN_FAVORITE_CHECKED	<if(gnum103,<icon(67)>,<icon(120)>)> Registrar como Security Token Free Destination.
+TEXT_AETHERYTE_REGISTER_TOKEN_FAVORITE	<icon(69)> Registrar como Security Token Free Destination.
+TEXT_AETHERYTE_REGISTER_PSPLUS_FAVORITE_CHECKED	<if(gnum104,<if([gnum78==99],<icon(123)>,<icon(121)>)>,<if([gnum78==99],<icon(63)>,<icon(122)>)>)> Registrar como <if([gnum78==99],PS Plus,)> Free Destination.
+TEXT_AETHERYTE_REGISTER_PSPLUS_FAVORITE	<if([gnum78==99],<icon(123)>,<icon(121)>)> Registrar como <if([gnum78==99],PS Plus,)> Free Destination.
+TEXT_AETHERYTE_REGISTER_NSO_FAVORITE_CHECKED	<if(gnum104,<if([gnum75==7],<icon(184)>,<icon(121)>)>,<if([gnum75==7],<icon(63)>,<icon(122)>)>)> Registrar como <if([gnum75==7],Nintendo Switch Online,)> Free Destination.
+TEXT_AETHERYTE_REGISTER_NSO_FAVORITE	<if([gnum75==7],<icon(184)>,<icon(121)>)> Registrar como <if([gnum75==7],Nintendo Switch Online,)> Free Destination.
+TEXT_AETHERYTE_REGISTER_INFORM_NSO_REQUIRED	Los Nintendo Switch Online Free Destinations registrados solo están disponibles con una suscripción activa a Nintendo Switch Online.<br> ※Si tienes una suscripción activa, reinicia FINAL FANTASY XIV.
+TEXT_AETHERYTE_REGISTER_INFORM_CLOSE	Cerrar
+TEXT_AETHERYTE_MOVE_INSTANCE	<icon(69)> Viajar a otra instancia.
+TEXT_AETHERYTE_MENU_CANCEL	<icon(69)> Cancelar.
+TEXT_AETHERYTE_AETHERNET_MENU_TITLE	Elige un destino.<br>Ubicación actual: <string(lstr1)>
+TEXT_AETHERYTE_AETHERNET_MENU_TITLE_NONE_MESSAGE	<br><br>No hay otros fragmentos de Aethernet disponibles.<br><br>
+TEXT_AETHERYTE_AETHERNET_DEST_NAME	<sheet(PlaceName,lnum1,0)>.
+TEXT_AETHERYTE_AETHERNET_MENU_CANCEL	Salir.
+TEXT_AETHERYTE_MOVE_INSTANCE_MENU_CANCEL	<sheet(Addon,102345,0)>.
+TEXT_AETHERYTE_FIRST_OPEN_01	Ahora tienes acceso al Aethernet.
+TEXT_AETHERYTE_FIRST_OPEN_02	Para moverte rápido por la ciudad, basta con poner la mano sobre un fragmento de Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_FST	Te sintonizaste con todos los fragmentos de Aethernet de Gridania. La Blue Badger Gate, la Yellow Serpent Gate y el embarcadero de aeronaves ya están disponibles como destinos del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_FST_WITH_WHITE_WOLF_GATE	Te sintonizaste con todos los fragmentos de Aethernet de Gridania. La Blue Badger Gate, la Yellow Serpent Gate, la White Wolf Gate y el embarcadero de aeronaves ya están disponibles como destinos del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_SEA	Te sintonizaste con todos los fragmentos de Aethernet de Limsa Lominsa. La Zephyr Gate, la Tempest Gate y el embarcadero de aeronaves ya están disponibles como destinos del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_WIL	Te sintonizaste con todos los fragmentos de Aethernet de Ul'dah. La Gate of Nald, la Gate of Thal, la Gate of the Sultana y el embarcadero de aeronaves ya están disponibles como destinos del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_GOLDSAUCER	Te sintonizaste con todos los fragmentos de Aethernet del Manderville Gold Saucer.
+TEXT_AETHERYTE_FULL_OPEN_TOWN_ROC	Te sintonizaste con todos los fragmentos de Aethernet de Ishgard. Las Gates of Judgement ya están disponibles como destino del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_TOWN_IDYLLSHIRE	Te sintonizaste con todos los fragmentos de Aethernet de Idyllshire. La Epilogue Gate ya está disponible como destino del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_TOWN_IDYLLSHIRE_WITH_QUESTCOMP	Te sintonizaste con todos los fragmentos de Aethernet de Idyllshire. La Prologue Gate y la Epilogue Gate ya están disponibles como destinos del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_TOWN_KUGANE	Te sintonizaste con todos los fragmentos de Aethernet de Kugane. El embarcadero de aeronaves ya está disponible como destino del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_TOWN_KUGANE_WITH_QUESTCOMP	Te sintonizaste con todos los fragmentos de Aethernet de Kugane. El Ruby Price y el embarcadero de aeronaves de Kugane ya están disponibles como destinos del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_TOWN_RHALGRS_REACH	Te sintonizaste con todos los fragmentos de Aethernet de Rhalgr's Reach. La Fringes Gate ya está disponible como destino del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_TOWN_RHALGRS_REACH_WITH_QUESTCOMP	Te sintonizaste con todos los fragmentos de Aethernet de Rhalgr's Reach. La Fringes Gate y la Peaks Gate ya están disponibles como destinos del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE	Te sintonizaste con todos los fragmentos de Aethernet del Doman Enclave. El One River ya está disponible como destino del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE_WITH_QUESTCOMP	Te sintonizaste con todos los fragmentos de Aethernet del Doman Enclave. El One River y Gangos ya están disponibles como destinos del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_CRYSTALIUM	Te sintonizaste con todos los fragmentos de Aethernet del Crystarium. Lakeland ya está disponible como destino del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_EURMORE	Te sintonizaste con todos los fragmentos de Aethernet de Eulmore. Kholusia ya está disponible como destino del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_OLD_SHARLAYAN	Te sintonizaste con todos los fragmentos de Aethernet de Old Sharlayan.
+TEXT_AETHERYTE_FULL_OPEN_OLD_SHARLAYAN_WITH_QUESTCOMP	Te sintonizaste con todos los fragmentos de Aethernet de Old Sharlayan. Labyrinthos ya está disponible como destino del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_RADZ_AT_HAN	Te sintonizaste con todos los fragmentos de Aethernet de Radz<-->at<-->Han.
+TEXT_AETHERYTE_FULL_OPEN_RADZ_AT_HAN_WITH_QUESTCOMP	Te sintonizaste con todos los fragmentos de Aethernet de Radz<-->at<-->Han. Thavnair ya está disponible como destino del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL	Te sintonizaste con todos los fragmentos de Aethernet de Tuliyollal.
+TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_0_0	Te sintonizaste con todos los fragmentos de Aethernet de Tuliyollal. El Arch of the Dawn (Urqopacha) ya está disponible como destino del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_1_0	Te sintonizaste con todos los fragmentos de Aethernet de Tuliyollal. El Arch of the Dawn (Kozama'uka) ya está disponible como destino del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_2_0	Te sintonizaste con todos los fragmentos de Aethernet de Tuliyollal. El Arch of the Dawn (Urqopacha) y el Arch of the Dawn (Kozama'uka) ya están disponibles como destinos del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_3_0	Te sintonizaste con todos los fragmentos de Aethernet de Tuliyollal. El Arch of the Dawn (Urqopacha), el Arch of the Dawn (Kozama'uka) e Ihuykatumu (Kozama'uka) ya están disponibles como destinos del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_4_0	Te sintonizaste con todos los fragmentos de Aethernet de Tuliyollal.
+TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_4_1	El Arch of the Dawn (Urqopacha), el Arch of the Dawn (Kozama'uka), Ihuykatumu (Kozama'uka) y el muelle de dirigibles (Yak T'el) ya están disponibles como destinos del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_5_0	Te sintonizaste con todos los fragmentos de Aethernet de Tuliyollal.
+TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_5_1	El Arch of the Dawn (Urqopacha), el Arch of the Dawn (Kozama'uka), Ihuykatumu (Kozama'uka), el muelle de dirigibles (Yak T'el) y el Xak Tural skygate (Shaaloani) ya están disponibles como destinos del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_SOLUTION_NINE	Te sintonizaste con todos los fragmentos de Aethernet de Solution Nine.
+TEXT_AETHERYTE_FULL_OPEN_SOLUTION_NINE_1	El puerto de escaneo nueve (Heritage Found) ya está disponible como destino del Aethernet.
+TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_6_0	Te sintonizaste con todos los fragmentos de Aethernet de Tuliyollal.
+TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_6_1	El Arch of the Dawn (Urqopacha), el Arch of the Dawn (Kozama'uka), Ihuykatumu (Kozama'uka), el muelle de dirigibles (Yak T'el), el Xak Tural skygate (Shaaloani) y la aldea fantasma ya están disponibles como destinos del Aethernet.

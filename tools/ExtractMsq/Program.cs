@@ -176,6 +176,14 @@ foreach (var (sheet, i) in eventSheets.Select((s, i) => (s, i + 1)))
     index.Append($"\tevents\t{file}\t0\t\t{WriteSheet(sheet, Path.Combine(output, "events", file))}\n");
 }
 
+// Travel: the aetheryte menu, the "You have attuned yourself to all the Aethernet shards..."
+// messages and the chocobo porters. One sheet per name, no quest id: transport/Aetheryte.
+foreach (var sheet in sheetNames.Where(n => n.StartsWith("transport/")).Order())
+{
+    var file = $"{sheet[(sheet.LastIndexOf('/') + 1)..]}.tsv";
+    index.Append($"\ttransport\t{file}\t0\t\t{WriteSheet(sheet, Path.Combine(output, "transport", file))}\n");
+}
+
 // What bosses say mid-fight in dungeons, trials and raids ("Drag them unto the depths, O chains!"),
 // plus the duty's objective. Each duty names its block of InstanceContentTextData rows; the normal
 // and savage versions share one block (savage's may run longer), so a block is written once, under
