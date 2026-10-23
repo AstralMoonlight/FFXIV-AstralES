@@ -23,6 +23,7 @@
   <a href="#viaje-y-transporte">Transporte</a> ·
   <a href="#mensajes-del-chat">Chat</a> ·
   <a href="#ventanas-de-ayuda">Ayuda</a> ·
+  <a href="#menús-e-interfaz">Menús</a> ·
   <a href="#comandos">Comandos</a>
 </p>
 
@@ -252,6 +253,60 @@ Las guías que el juego abre solas la primera vez que se hace algo (Active Help)
 | `EventTutorial`, `EventTutorialPage` | Tutoriales de mecánicas de eventos y misiones (Transport...) | 81 textos | ![Pendiente][no] |
 | `MultipleHelp`, `MultipleHelpString` | Ayudas de varias páginas (Raid Finder Help...) | 64 textos | ![Pendiente][no] |
 | `EventItemHelp` | Descripción de los objetos clave de misión, en su tooltip ("A simple wooden hairpin treasured by young Aunillie...") | 3.221 textos, unas 52.000 palabras | ![Pendiente][no] |
+| `GuidePageString`, `GuideTitle` | Job Gauge Details: la explicación de los medidores de cada job ("Oath Gauge"...) | 163 textos, unas 4.400 palabras | ![Pendiente][no] |
+| `Description`, `DescriptionString`, `DescriptionStandAloneTransient` | Guías de contenidos y minijuegos ("Doman Mahjong for Beginners", "About Orthos Aetherpool Gear"...) | 1.729 textos, unas 55.700 palabras | ![Pendiente][no] |
+
+## Menús e interfaz
+
+Las ventanas del juego todavía salen en inglés, salvo las etiquetas del tooltip de habilidades (Cast, Recast, Range...). Estas son las hojas del juego de donde sale su texto. Los nombres propios (monturas, minions, canciones, logros, instancias) quedan en inglés, como en el resto del plugin, y el tamaño cuenta solo lo que se traduce.
+
+### Ventanas y sistema
+
+| Hoja | Qué sale | Tamaño | Estado |
+|---|---|---|---|
+| `Addon` | Casi todo el texto fijo de las ventanas: títulos, pestañas, botones, etiquetas, confirmaciones y las opciones de System Configuration y Character Configuration ("OK", "Gear", "Race Ability"...) | 14.180 textos (9.412 distintos), unas 56.000 palabras | ![Pendiente][no] |
+| `AddonTransient` | Ayudas de botones al pie de las ventanas cuando se juega con mando ("Move   Confirm   Cancel") y otras etiquetas | 565 textos, unas 6.000 palabras | ![Pendiente][no] |
+| `Lobby` | Pantalla de título, selección de mundo y de personaje, y creación de personaje con las descripciones de razas, clanes y clases ("Start Game"...) | 1.030 textos, unas 9.600 palabras | ![Pendiente][no] |
+| `Error` | Errores al conectarse, al crear personajes y al visitar otros mundos | 63 textos, unas 1.000 palabras | ![Pendiente][no] |
+| `MainCommand`, `MainCommandCategory` | Menú principal: cada comando y su descripción ("Displays gear stored in your Armoury Chest...") | 205 textos, unas 1.600 palabras | ![Pendiente][no] |
+| `ExtraCommand` | Group Pose, Idling Camera, Alarm y Command Panel, con su descripción | 8 textos | ![Pendiente][no] |
+| `ConfigKey` | Acciones de Keybind ("Steer", "Hotbar 9 - Slot 5"...) | 416 textos, unas 1.800 palabras | ![Pendiente][no] |
+| `Platform` | Botones del mando ("Right Stick", "X Button"...) | 163 textos | ![Pendiente][no] |
+| `Hud` | Elementos de HUD Layout ("Hotbar 1", "Action Help"...) | 106 textos | ![Pendiente][no] |
+| `LogFilter` | Filtros del chat en Log Settings, con su descripción y un ejemplo ("Damage dealt by unengaged enemies.") | 469 textos, unas 3.300 palabras | ![Pendiente][no] |
+| `OnlineStatus` | Estados en línea ("Busy", "Looking for Party"...) | 47 textos | ![Pendiente][no] |
+| `Marker`, `FieldMarker` | Marcadores de objetivo y waymarks ("Target to Attack 1"...) | 26 textos | ![Pendiente][no] |
+| `QuickChat`, `QuickChatTransient` | Mensajes de Quick Chat y su explicación | 79 textos, unas 560 palabras | ![Pendiente][no] |
+
+### Duty Finder y diario
+
+| Hoja | Qué sale | Tamaño | Estado |
+|---|---|---|---|
+| `ContentType`, `ContentRoulette`, `ContentUICategory` | Duty Finder: tipos de contenido, ruletas con su descripción y categorías ("Duty Roulette: Leveling"...) | 186 textos, unas 2.300 palabras | ![Pendiente][no] |
+| `ContentFinderConditionTransient` | Descripción de cada instancia en el Duty Finder ("Named after a man-eating creature from Padjal lore...") | 620 textos, unas 46.000 palabras | ![Pendiente][no] |
+| `ContentsNote`, `ContentsNoteCategory` | Challenge Log: retos, descripciones y categorías | 194 textos, unas 1.100 palabras | ![Pendiente][no] |
+| `JournalSection`, `JournalCategory` | Secciones y categorías del Journal ("Main Scenario (A Realm Reborn through Endwalker)"...) | 142 textos | ![Pendiente][no] |
+| `QuestRedoChapterUI`, `QuestRedoChapterUITab`, `QuestRedoChapterUICategory` | New Game+: capítulos, pestañas y el resumen de cada capítulo | 600 textos, unas 13.800 palabras | ![Pendiente][no] |
+| `AchievementKind`, `AchievementCategory`, `Achievement` | Logros: categorías y la descripción de cada uno | 4.095 textos, unas 33.900 palabras | ![Pendiente][no] |
+
+### Personaje, colecciones y grupos
+
+| Hoja | Qué sale | Tamaño | Estado |
+|---|---|---|---|
+| `BaseParam` | Atributos de la ventana de personaje y su descripción ("Strength", "Tenacity"...) | 112 textos, unas 650 palabras | ![Pendiente][no] |
+| `GuardianDeity` | Descripción de los Twelve en la creación de personaje y en el perfil | 12 textos, unas 750 palabras | ![Pendiente][no] |
+| `ItemUICategory`, `ItemSearchCategory`, `ClassJobActionUICategory` | Categorías de objetos, del Market Board y de Actions & Traits ("Primary Arms"...) | 234 textos | ![Pendiente][no] |
+| `MountTransient` | Mount Guide: descripción, historia y cita de cada montura | 1.071 textos, unas 26.000 palabras | ![Pendiente][no] |
+| `CompanionTransient` | Minion Guide: descripción, historia, cita y habilidad de cada minion | 2.942 textos, unas 50.700 palabras | ![Pendiente][no] |
+| `OrnamentTransient` | Descripción de los Fashion Accessories | 56 textos | ![Pendiente][no] |
+| `Orchestrion`, `OrchestrionCategory` | Orchestrion: dónde se consigue cada canción y las categorías | 899 textos, unas 6.700 palabras | ![Pendiente][no] |
+| `Emote`, `EmoteCategory` | Lista de emotes y sus categorías ("Surprised"...) | 308 textos | ![Pendiente][no] |
+| `CharaCardBase`, `CharaCardDecoration`, `CharaCardDesignCategory`, `CharaCardDesignPreset`, `CharaCardHeader`, `CharaCardPlayStyle` | Adventurer Plate: fondos, marcos, decoraciones, diseños y estilos de juego | 1.160 textos, unas 2.300 palabras | ![Pendiente][no] |
+| `BannerBg`, `BannerDecoration`, `BannerDesignPreset`, `BannerFrame`, `BannerObtainHintType`, `BannerTimeline` | Retratos: fondos, marcos, decoraciones, poses y dónde se consigue cada uno | 1.753 textos, unas 5.300 palabras | ![Pendiente][no] |
+| `FCRights`, `FCAuthority`, `FCAuthorityCategory`, `FCHierarchy`, `FCProfile`, `FCReputation`, `FCChestName`, `FCActivity`, `FCActivityCategory`, `CompanyAction` | Free company: permisos, rangos, perfil, reputación, cofre, registro de actividad y acciones de la compañía | 335 textos, unas 1.500 palabras | ![Pendiente][no] |
+| `HousingPlacement`, `HousingUnplacement`, `HousingMateAuthority`, `MateAuthorityCategory`, `FurnitureCatalogCategory`, `YardCatalogCategory`, `HousingAppeal` | Vivienda: avisos al colocar y quitar muebles, permisos y categorías del catálogo | 102 textos, unas 1.000 palabras | ![Pendiente][no] |
+| `GilShop`, `SpecialShop`, `TopicSelect` | Opciones de las tiendas al hablar con un vendedor ("Purchase Items", "Seasonal Event"...) | 2.080 textos (957 distintos), unas 7.600 palabras | ![Pendiente][no] |
+| `NotebookDivision`, `NotebookDivisionCategory`, `CraftType`, `GatheringType` | Crafting Log y Gathering Log: divisiones por nivel y categorías ("Master Recipes", "Woodworking"...) | 150 textos | ![Pendiente][no] |
 
 ## Comandos
 
