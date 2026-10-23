@@ -1,0 +1,52 @@
+key	text
+TEXT_JOBMNK520_02027_SEQ_00	Widargelt pone cara de disculpa.
+TEXT_JOBMNK520_02027_SEQ_01	Widargelt te cuenta que consultó al Profesor Erik sobre su chakra recién abierto. Por desgracia, el buen profesor todavía no le dio una respuesta, así que por ahora no tiene noticias que compartir. Dejando eso de lado de momento, Widargelt te invita a supervisar otra vez el entrenamiento de sus alumnos. Reúnete con él al oeste de Revenant's Toll, donde están entrenando.
+TEXT_JOBMNK520_02027_SEQ_02	Al llegar al lugar de entrenamiento encuentras a uno de los alumnos de Widargelt muy golpeado. Te explica que lo atacaron unos monks, y Widargelt está convencido de que son los mismos hombres que lo atacaron a él. Acompaña a tu hermano monk en la persecución y dirígete a Camp Revenant's Toll.
+TEXT_JOBMNK520_02027_SEQ_03	Widargelt alcanzó a algunos de los monks enemigos. Ocúpate de ellos mientras él sigue persiguiendo a los que todavía andan sueltos.
+TEXT_JOBMNK520_02027_SEQ_04	Acabaste con los monks. Sigue a Widargelt al oeste de Camp Revenant's Toll.
+TEXT_JOBMNK520_02027_SEQ_05	Widargelt alcanzó a otro grupo de monks enemigos. Otra vez, ocúpate de ellos mientras Widargelt sigue con la persecución.
+TEXT_JOBMNK520_02027_SEQ_06	Acabaste con el segundo grupo de monks. Sigue a Widargelt hasta la zona al noreste de the Tangle.
+TEXT_JOBMNK520_02027_SEQ_07	Widargelt alcanzó a otro grupo más de monks enemigos. Y una vez más debes ocuparte de ellos mientras Widargelt sigue con la persecución.
+TEXT_JOBMNK520_02027_SEQ_08	Acabaste con lo que esperas que sea el último grupo de monks. Sigue a Widargelt hasta la zona al norte de the Tangle.
+TEXT_JOBMNK520_02027_SEQ_09	Al llegar encuentras a Widargelt cruzando miradas con sus mejores alumnas, D'zentsa y O'tchakha. Tras explicar que no tienen otra opción, se lanzan contra ustedes. En medio del enfrentamiento, Widargelt y tú sienten que se abre un nuevo chakra. Al verlo, D'zentsa y O'tchakha se retiran, no sin antes revelar que existen dos sectas: una de la luz y otra de la sombra, a la que pertenecen ellas. Vuelve a Revenant's Toll y habla con Widargelt de estas revelaciones.
+TEXT_JOBMNK520_02027_SEQ_10	Herido por la traición de sus alumnas, Widargelt está más decidido que nunca a descubrir la verdad sobre esta misteriosa secta de la sombra y su objetivo. Mientras tanto, te pide que te concentres en dominar el nuevo poder que se desató al abrirse tu chakra.<br><br>※La siguiente misión de monk estará disponible con Widargelt al llegar al nivel 54.
+TEXT_JOBMNK520_02027_TODO_00	Habla con Widargelt.
+TEXT_JOBMNK520_02027_TODO_01	Sigue a Widargelt.
+TEXT_JOBMNK520_02027_TODO_02	Derrota a los monks enemigos.
+TEXT_JOBMNK520_02027_TODO_03	Sigue a Widargelt.
+TEXT_JOBMNK520_02027_TODO_04	Derrota a los monks enemigos.
+TEXT_JOBMNK520_02027_TODO_05	Sigue a Widargelt.
+TEXT_JOBMNK520_02027_TODO_06	Derrota a los monks enemigos.
+TEXT_JOBMNK520_02027_TODO_07	Sigue a Widargelt.
+TEXT_JOBMNK520_02027_TODO_08	Habla con Widargelt en Revenant's Toll.
+TEXT_JOBMNK520_02027_WIDARGELT_000_000	Saludos, <if(gnum4,hermana,hermano)>. Gracias por volver.
+TEXT_JOBMNK520_02027_WIDARGELT_000_001	Después de tu última visita le conté al Profesor Erik lo que me pasó. Desde entonces no tuve noticias de él. Me pregunto si lo olvidó. Es un hombre ocupado.
+TEXT_JOBMNK520_02027_WIDARGELT_000_002	Pero no importa eso por ahora. Estás aquí. ¿Quizás puedas ayudar de nuevo a entrenar a mis alumnos?
+TEXT_JOBMNK520_02027_WIDARGELT_000_003	D'zentsa y O'tchakha quedaron impresionadas contigo. Les hablaron de tu destreza a sus compañeros. Ahora todos quieren que les enseñes.
+TEXT_JOBMNK520_02027_WIDARGELT_000_004	Mis alumnos entrenan al oeste. Vamos allá.
+TEXT_JOBMNK520_02027_WIDARGELT_000_050	Es uno de los míos. Lo golpearon con saña. ¿Quién hizo esto?
+TEXT_JOBMNK520_02027_DESHI02027_000_051	(-Alumno herido-)Ugh... Eran monks... como nosotros...
+TEXT_JOBMNK520_02027_WIDARGELT_000_052	¿Los mismos villanos que me atacaron? ¡Es un ultraje! ¡Tienen que pagar! ¡Conmigo, <if(gnum4,hermana,hermano)>! ¡No pueden estar lejos!
+TEXT_JOBMNK520_02027_WIDARGELT_000_080	¡Son ellos, <if(gnum4,hermana,hermano)>!
+TEXT_JOBMNK520_02027_WIDARGELT_000_081	Pero hay más sueltos. Los vi escabullirse. Encárgate de estos. Yo seguiré persiguiéndolos.
+TEXT_JOBMNK520_02027_WIDARGELT_000_090	¡Son tuyos, <if(gnum4,hermana,hermano)>!
+TEXT_JOBMNK520_02027_WIDARGELT_000_095	¡Ya casi los tenemos a todos!
+TEXT_JOBMNK520_02027_DZENTSA_000_110	¿Te importa apartarte?
+TEXT_JOBMNK520_02027_OTCHAKHA_000_120	...
+TEXT_JOBMNK520_02027_WIDARGELT_000_500	Cuidado, <split(<string(gstr1)>, ,1)>. Esas dos no son lo que parecen.
+TEXT_JOBMNK520_02027_DZENTSA_000_501	Nos quedamos demasiado tiempo. Un poco más y no habríamos tenido adónde volver.
+TEXT_JOBMNK520_02027_OTCHAKHA_000_502	No buscamos perdón por lo que hacemos. Es la única vida que conocemos.
+TEXT_JOBMNK520_02027_DZENTSA_000_503	Y si no volvemos ahora, no nos quedaría nada.
+TEXT_JOBMNK520_02027_OTCHAKHA_000_504	Por favor, entiendan. No tenemos otra opción. Y ahora... ¡prepárense!
+TEXT_JOBMNK520_02027_WIDARGELT_000_505	¡Maldición!
+TEXT_JOBMNK520_02027_WIDARGELT_000_506	E-Este poder que crece dentro... ¿Otro chakra? Pero ¿por qué? ¿Cómo?
+TEXT_JOBMNK520_02027_DZENTSA_000_507	Basta por hoy. Los perdonamos, pero no es por lástima. Los necesitamos, nada más.
+TEXT_JOBMNK520_02027_WIDARGELT_000_508	¿Q-Qué quieres decir?
+TEXT_JOBMNK520_02027_OTCHAKHA_000_509	La suya es la secta de la luz, y la nuestra, la de la sombra. Somos dos caras de la misma moneda.
+TEXT_JOBMNK520_02027_DZENTSA_000_510	Dicho eso, ustedes, los discípulos de la luz, no son más que alimento para nosotras. Existen solo para nutrir a la sombra.
+TEXT_JOBMNK520_02027_WIDARGELT_000_511	¡E-Esperen!
+TEXT_JOBMNK520_02027_WIDARGELT_000_600	Se me abrió un nuevo chakra. Como la otra vez. A ti te pasó lo mismo, ¿verdad?
+TEXT_JOBMNK520_02027_WIDARGELT_000_601	Las dos muchachas. Su forma de canalizar la energía es distinta de la nuestra. Debe de ser el camino de su secta.
+TEXT_JOBMNK520_02027_WIDARGELT_000_602	Tenía grandes esperanzas en ellas. Su traición me entristece. Pero no hay tiempo para lamentos.
+TEXT_JOBMNK520_02027_WIDARGELT_000_603	Esta secta de la sombra. No sabía que existía. Es una gran sorpresa. Tenemos que averiguar todo lo que podamos sobre ellos.
+TEXT_JOBMNK520_02027_WIDARGELT_000_604	Se nos abrió un nuevo chakra. Cómo pasó, no lo sé. Pero tienes un poder nuevo. Y debes dominarlo.

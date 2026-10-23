@@ -1,0 +1,58 @@
+key	text
+TEXT_JOBMNK540_02028_SEQ_00	Widargelt tiene noticias urgentes para ti.
+TEXT_JOBMNK540_02028_SEQ_01	Widargelt te cuenta que recibió una carta de sus antiguas alumnas, D'zentsa y O'tchakha, que les piden a los dos que vayan a Dalamud's Talons. Aunque no se sabe qué pretenden, Widargelt tiene sus propias preguntas para ellas. Dirígete a Northern Thanalan y participa en la reunión.
+TEXT_JOBMNK540_02028_SEQ_02	En la reunión, D'zentsa y O'tchakha explican que existen dos aspectos de los chakra, uno para la secta de la luz y otro para la secta de la sombra; para abrir un chakra de un aspecto que no es el suyo, un monk debe pelear contra un discípulo de la secta contraria. Con ese fin, las dos Miqo'te los atacan a ti y a Widargelt, y la batalla termina con los cuatro combatientes sintiendo cómo se abre su chakra. Cumplida así su tarea, D'zentsa y O'tchakha se retiran, no sin antes rogarte que dejes de ser monk. Habla con Widargelt para saber qué piensa de estas revelaciones.
+TEXT_JOBMNK540_02028_SEQ_03	Como era de esperar, Widargelt no tiene intención de renunciar a su sueño de reconstruir el Fist of Rhalgr. Sin embargo, si van a enfrentar la amenaza de la secta de la sombra, tienen que saber más sobre los dos aspectos de los chakra. El Profesor Erik llegará pronto a Revenant's Toll para compartir con ustedes lo que sabe del tema. Vuelve al asentamiento y no te pierdas lo que sin duda será una experiencia de lo más esclarecedora.
+TEXT_JOBMNK540_02028_SEQ_04	El Profesor Erik completa lo que sabes de la historia del Fist of Rhalgr. Hace tiempo la orden estaba formada por dos sectas distintas pero unidas: una de la luz y otra de la sombra. Por desgracia, los miembros de la segunda fueron expulsados tras una amarga disputa por la alianza de la orden con la casa real de Ala Mhigo. El profesor agrega que en otros tiempos los miembros de las dos sectas se enfrentaban en combate singular para abrir los catorce chakra. Widargelt no entiende por qué la secta de la sombra insiste en pelear en vez de cooperar. Para encontrar la respuesta, anuncia que piensa enfrentarse de nuevo a D'zentsa y O'tchakha. Mientras tanto, concéntrate en dominar el nuevo poder que se desató en tu interior.<br><br>※La siguiente misión de monk estará disponible con Widargelt al llegar al nivel 56.
+TEXT_JOBMNK540_02028_TODO_00	Habla con Widargelt al sur de Dalamud's Talons.
+TEXT_JOBMNK540_02028_TODO_01	Habla con Widargelt.
+TEXT_JOBMNK540_02028_TODO_02	Habla con Widargelt en Revenant's Toll.
+TEXT_JOBMNK540_02028_WIDARGELT_000_000	¡<split(<string(gstr1)>, ,1)>! Llegó una carta. Es de D'zentsa y O'tchakha.
+TEXT_JOBMNK540_02028_WIDARGELT_000_001	Quieren hablar con nosotros. Nos piden que vayamos a Dalamud's Talons.
+TEXT_JOBMNK540_02028_WIDARGELT_000_002	Qué pretenden, no lo sé. Pero yo también tengo preguntas para ellas.
+TEXT_JOBMNK540_02028_WIDARGELT_000_003	El Profesor Erik también mandó noticias. Averiguó algo de la secta de la sombra. Pronto vendrá a compartir lo que sabe. Pero antes de verlo a él, quiero ver a mis antiguas alumnas.
+TEXT_JOBMNK540_02028_WIDARGELT_000_004	Quiero creer en ellas. Tienen buen corazón. De eso estoy seguro. Vamos, <if(gnum4,hermana,hermano)>. Vamos a Dalamud's Talons.
+TEXT_JOBMNK540_02028_WIDARGELT_000_050	Pasó tiempo. Se ven bien, las dos.
+TEXT_JOBMNK540_02028_DZENTSA_000_051	Gracias por venir. Por si sirve de algo, lamentamos haberlos engañado.
+TEXT_JOBMNK540_02028_OTCHAKHA_000_052	Sepan que peleamos por el bien de nuestras dos sectas.
+TEXT_JOBMNK540_02028_OTCHAKHA_000_053	El otro día, cuando rechazaron a nuestros compañeros discípulos de la sombra, se les abrió un nuevo chakra, ¿no es así? Pero la sensación no se parecía a nada que hubieran sentido antes.
+TEXT_JOBMNK540_02028_DZENTSA_000_054	Es porque abrieron un chakra de <italic(1)>nuestro<italic(0)> aspecto, el aspecto de la sombra. Y al revés también, claro. Pelear contra un discípulo de su secta nos permite abrir chakra del aspecto de la luz.
+TEXT_JOBMNK540_02028_WIDARGELT_000_055	¿Aspectos de la luz y de la sombra? Si es así, ¿por qué tenemos que pelear? ¿Por qué no podemos cooperar?
+TEXT_JOBMNK540_02028_DZENTSA_000_056	Nuestro maestro lo prohíbe, me temo. Nuestro <italic(1)>verdadero<italic(0)> maestro, quiero decir.
+TEXT_JOBMNK540_02028_OTCHAKHA_000_057	A decir verdad, ni siquiera deberíamos estar hablando con ustedes. No se nos permite intercambiar palabras, solo golpes.
+TEXT_JOBMNK540_02028_WIDARGELT_000_058	No nos dejan opción. ¡Vamos, <if(gnum4,hermana,hermano)>! ¡Les daremos el intercambio que quieren!
+TEXT_JOBMNK540_02028_OTCHAKHA_000_100	\<jadeo> Ahhh, se me abrió el chakra... \<jadeo> Es tal como lo describió el maestro...
+TEXT_JOBMNK540_02028_DZENTSA_000_101	\<jadeo> Síii, siento el poder corriéndome por el cuerpo... Pero si queremos volvernos más fuertes, si queremos abrir más chakra, tenemos que lanzarnos a luchas mucho más feroces.
+TEXT_JOBMNK540_02028_DZENTSA_000_102	De esas en que se juega la vida.
+TEXT_JOBMNK540_02028_OTCHAKHA_000_103	Mientras sean discípulos de la luz, seguiremos viniendo por ustedes, una y otra vez. Esto no puede terminar hasta que uno de los dos bandos caiga para no volver a levantarse.
+TEXT_JOBMNK540_02028_DZENTSA_000_104	Y por eso los llamamos aquí.
+TEXT_JOBMNK540_02028_DZENTSA_000_105	<italic(1)>No<italic(0)> queremos hacerles daño.
+TEXT_JOBMNK540_02028_DZENTSA_000_106	Así que, por favor, dejen de ser monks. Olvídense de reconstruir el Fist of Rhalgr. ¡Y váyanse lejos, muy lejos!
+TEXT_JOBMNK540_02028_WIDARGELT_000_107	¡Esperen!
+TEXT_JOBMNK540_02028_WIDARGELT_000_150	Quieren que deje de ser monk. Es como pedirme que deje de respirar.
+TEXT_JOBMNK540_02028_WIDARGELT_000_151	Muchas revelaciones hubo hoy. La existencia de aspectos opuestos de los chakra. Y no es la menor. Tenemos que saber más.
+TEXT_JOBMNK540_02028_WIDARGELT_000_152	El profesor llegará pronto a Revenant's Toll. Quizás él pueda iluminarnos.
+TEXT_JOBMNK540_02028_ERIK_000_160	Espaldas fuertes y mentes débiles hasta donde alcanza la vista... Sí, esto es sin duda la frontera.
+TEXT_JOBMNK540_02028_WIDARGELT_000_200	Gracias por venir, profesor. La información que le pedí. ¿Pudo encontrarla?
+TEXT_JOBMNK540_02028_WIDARGELT_000_201	(-Erik-)¡Claro que sí, tarado incurable! ¡Si no, no me habría molestado en venir hasta este rincón perdido! Bien, tengo muchas obligaciones, así que les comunicaré mis hallazgos de inmediato y de la forma más concisa posible. ¡Ejem!
+TEXT_JOBMNK540_02028_ERIK_000_202	Bien, es sabido que el Fist of Rhalgr llegó a la cima de su poder gracias al respaldo real. Menos conocida es la disputa que estalló por ese acuerdo entre dos facciones dentro del Fist: la secta de la luz y la secta de la sombra.
+TEXT_JOBMNK540_02028_ERIK_000_203	El sumo sacerdote de la secta de la luz creía que una alianza con la casa real de Ala Mhigo era la clave de la prosperidad. Sin embargo, su par de la secta de la sombra no estaba de acuerdo, y advirtió que los llevaría a la ruina. La historia les dio la razón a los dos. Pero me desvío.
+TEXT_JOBMNK540_02028_ERIK_000_204	Como era de esperar, los discípulos de cada secta se pusieron del lado de su líder, y las dos facciones chocaron con palabras y con puños. Al final, la secta de la luz se impuso, se selló la alianza con la casa real y todos los miembros de la secta de la sombra fueron expulsados de la orden.
+TEXT_JOBMNK540_02028_ERIK_100_204	Así que en el pasado las dos sectas pertenecían al Fist of Rhalgr, y sus discípulos entrenaban lado a lado como camaradas. Y sin embargo, aunque las técnicas que usaban eran idénticas, su forma de canalizar la energía era de naturaleza opuesta.<br>Fue esa diferencia la que dio origen a los dos aspectos de los chakra.
+TEXT_JOBMNK540_02028_ERIK_000_205	Existe una tradición en la que monks de las dos escuelas se enfrentaban en combate singular. Al atacarlos, supongo que los discípulos de la sombra buscan recrear esa tradición.
+TEXT_JOBMNK540_02028_ERIK_000_206	Este choque de luz y sombra avivaba el aether interior y hacía que se les abriera un chakra del aspecto opuesto. En términos simples para sus mentes simples: los discípulos de la luz peleaban para abrir chakra de la sombra, y los de la sombra, para abrir chakra de la luz.
+TEXT_JOBMNK540_02028_ERIK_000_207	¿Y qué implica esto? Que no hay siete chakra, sino <italic(1)>catorce<italic(0)> en total. Sí, sí, dos caras de la misma moneda; donde hay luz hay sombra, y toda esa palabrería poética.
+TEXT_JOBMNK540_02028_WIDARGELT_000_208	Hay algo que no entiendo, profesor. ¿Por qué nuestras sectas no pueden cooperar? ¿Por qué los discípulos de la sombra tienen que atacar como vulgares bandidos?
+TEXT_JOBMNK540_02028_ERIK_000_209	Una disputa causó la ruptura entre las dos sectas. ¿Quién dice que la disputa no sigue? Sospecho que solo un miembro de la secta de la sombra puede decirles la verdad. Pero ahora debo irme. Seguiré indagando en el asunto en mis ratos libres. Si hay algo más, ya saben dónde encontrarme.
+TEXT_JOBMNK540_02028_WIDARGELT_000_210	Tenemos que volver a hablar con D'zentsa y O'tchakha. Intentaré encontrarlas. Mientras tanto, por favor, sigue perfeccionando tus habilidades.
+TEXT_JOBMNK540_02028_QIB_001_TODO_1	¡Derrota a D'zentsa y O'tchakha!
+TEXT_JOBMNK540_02028_QIB_001_WIDARGELT_BATTLETALK_01	¿Por qué? ¿Por qué tenemos que pelear?
+TEXT_JOBMNK540_02028_QIB_001_KEGEMNK01_BATTLETALK_01	Basta de charla. Sus palabras no nos sirven de nada.
+TEXT_JOBMNK540_02028_QIB_001_KEGEMNK01_BATTLETALK_02	¡Apenas estamos calentando!
+TEXT_JOBMNK540_02028_QIB_001_KEGEMNK02_BATTLETALK_01	¡A ver qué les parece esto!
+TEXT_JOBMNK540_02028_QIB_001_KEGEMNK01_BATTLETALK_03	¡Prepárense para más!
+TEXT_JOBMNK540_02028_QIB_001_KEGEMNK02_BATTLETALK_02	¡Y hay más de donde salió eso!
+TEXT_JOBMNK540_02028_QIB_001_WIDARGELT_BATTLETALK_02	¡¿Nuestra propia técnica?! ¡Apártate, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBMNK540_02028_QIB_001_KEGEMNK01_BATTLETALK_04	N-No... No deberíamos perder...
+TEXT_JOBMNK540_02028_QIB_001_KEGEMNK02_BATTLETALK_03	Maldición... Son demasiado fuertes...
+TEXT_JOBMNK540_02028_QIB_001_WIDARGELT_BATTLETALK_03	Ugh... Perdóname, <if(gnum4,hermana,hermano)>...

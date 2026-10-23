@@ -1,0 +1,56 @@
+key	text
+TEXT_JOBMNK580_02030_SEQ_00	Widargelt tiene una teoría para abrir un chakra del aspecto opuesto y está ansioso por ponerla a prueba.
+TEXT_JOBMNK580_02030_SEQ_01	Con la ayuda del Profesor Erik, Widargelt y O'tchakha idearon un posible método para abrir un chakra del aspecto opuesto sin derramar sangre entre monks. Reúnete con tus camaradas cerca de Dragonspit, en Coerthas Western Highlands, donde pondrán la teoría a prueba.
+TEXT_JOBMNK580_02030_SEQ_02	O'tchakha expone la teoría: en lugar de pelear entre sí, ¿y si bastara con que los monks pelearan contra otros enemigos muy cerca unos de otros? Para eso, Widargelt y O'tchakha buscarán bestias feroces con las que pelear en los alrededores. Busca tus propias bestias acechando en el lugar indicado.
+TEXT_JOBMNK580_02030_SEQ_03	Derrotaste a una horda de bestias feroces. Por desgracia, no parece que se te haya abierto un nuevo chakra. Vuelve a Dragonspit y reúnete con tus camaradas.
+TEXT_JOBMNK580_02030_SEQ_04	Al llegar encuentras a O'tchakha y a Widargelt de rodillas, con H'raha Tia, el líder de la secta de la sombra, regodeándose ante ellos. Explica que vino a silenciar a O'tchakha, pero ofrece liberarla a ella y a D'zentsa a cambio de la vida de Widargelt y de tu servidumbre. El villano se va, y te quedas pensando en sus palabras. Ahora ocúpate de O'tchakha y préstale ayuda.
+TEXT_JOBMNK580_02030_SEQ_05	El encuentro inesperado con su antiguo maestro dejó a O'tchakha desesperada por rescatar a D'zentsa. Haz lo que te pide Widargelt y usa /rally para levantarle el ánimo.
+TEXT_JOBMNK580_02030_SEQ_06	Tus palabras de aliento hicieron maravillas con el ánimo de O'tchakha, que está más decidida que nunca a derrotar a H'raha Tia. Afirma que no se someterá a las exigencias de su antiguo maestro, y que tú tampoco debes hacerlo. Por ahora, Widargelt sugiere que vuelvan a Revenant's Toll para prepararse para la batalla que se avecina.
+TEXT_JOBMNK580_02030_SEQ_07	El Profesor Erik les prestó sus tomos, y O'tchakha los revisa buscando cómo abrir tu último chakra. Mientras tanto, Widargelt te pide que te concentres en perfeccionar la mente y el cuerpo, para estar <if(gnum4,lista,listo)> para enfrentar a H'raha Tia, con o sin los catorce chakra.<br><br>※La siguiente misión de monk estará disponible con Widargelt al llegar al nivel 60.
+TEXT_JOBMNK580_02030_TODO_00	Habla con O'tchakha cerca de Dragonspit.
+TEXT_JOBMNK580_02030_TODO_01	Acecha en el lugar indicado y derrota a los monstruos que aparezcan.
+TEXT_JOBMNK580_02030_TODO_02	Habla con Widargelt.
+TEXT_JOBMNK580_02030_TODO_03	Ayuda a O'tchakha.
+TEXT_JOBMNK580_02030_TODO_04	Usa /rally para levantarle el ánimo a O'tchakha.
+TEXT_JOBMNK580_02030_TODO_05	Habla con Widargelt en Revenant's Toll.
+TEXT_JOBMNK580_02030_WIDARGELT_000_000	Buenas noticias, <if(gnum4,hermana,hermano)>. O'tchakha se recuperó.
+TEXT_JOBMNK580_02030_WIDARGELT_000_001	Hablamos juntos con el Profesor Erik. Con su ayuda, buscamos formas de abrir chakra del aspecto opuesto. Formas que no exijan duelos.
+TEXT_JOBMNK580_02030_WIDARGELT_000_002	Ahora tenemos una teoría. La pondremos a prueba en Coerthas Western Highlands. Cerca de un lugar llamado Dragonspit.
+TEXT_JOBMNK580_02030_WIDARGELT_000_003	O'tchakha ya partió. Vamos con ella.
+TEXT_JOBMNK580_02030_WIDARGELT_000_010	Escucha a O'tchakha. Ella te explicará la teoría.
+TEXT_JOBMNK580_02030_OTCHAKHA_000_050	Ahí está, <split(<string(gstr1)>, ,1)>. Gracias por venir.
+TEXT_JOBMNK580_02030_WIDARGELT_000_051	En este lugar hubo una batalla feroz. Eso dice el Profesor Erik. Caballeros y dragones derramaron mucha sangre. Eso lo hace ideal para nuestra prueba.
+TEXT_JOBMNK580_02030_OTCHAKHA_000_052	Como sabe, para abrir los chakra del aspecto opuesto normalmente hay que pelear contra alguien entrenado en ese aspecto. Pero no nos conviene batirnos a muerte entre nosotros.
+TEXT_JOBMNK580_02030_OTCHAKHA_000_053	Así que formulamos una teoría: en vez de pelear entre sí, ¿y si los discípulos de cada secta pelearan <italic(1)>por separado<italic(0)> pero muy cerca unos de otros?
+TEXT_JOBMNK580_02030_OTCHAKHA_000_054	Influido por su presencia, el aether que impregna un campo de batalla podría ser engañado para abrir un chakra opuesto en cada combatiente.
+TEXT_JOBMNK580_02030_OTCHAKHA_000_055	Sin más preámbulos, pongamos a prueba esta teoría. Por favor, busque cerca de aquí rivales adecuados, lo más temibles que pueda, y pelee contra ellos con todas sus fuerzas. Widargelt y yo haremos lo mismo.
+TEXT_JOBMNK580_02030_HRAHATIA_000_080	Les aconsejo que no se entrometan.
+TEXT_JOBMNK580_02030_OTCHAKHA_000_085	¿C-Cómo lo supo?
+TEXT_JOBMNK580_02030_WIDARGELT_000_100	¡Ponte en guardia, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBMNK580_02030_WIDARGELT_000_101	Es H'raha Tia. El líder de la secta de la sombra. Viene a llevarse de vuelta a O'tchakha.
+TEXT_JOBMNK580_02030_HRAHATIA_000_102	...¿Llevármela de vuelta? Qué idea tan idiota. Es una traidora a nuestra secta, y vine a silenciarla.
+TEXT_JOBMNK580_02030_WIDARGELT_000_103	¡No lo permitiremos! ¡Primero tendrás que derrotarnos!
+TEXT_JOBMNK580_02030_HRAHATIA_000_104	Usted... Usted es <if(gnum4,una discípula,un discípulo)> de la secta de la luz, y además supera a Widargelt. Sí, mis sentidos me dicen claramente que abrió su séptimo chakra.
+TEXT_JOBMNK580_02030_HRAHATIA_000_105	Se me ocurre una idea: una forma pacífica de terminar este encuentro. No hace falta que peleemos, usted y yo.
+TEXT_JOBMNK580_02030_HRAHATIA_000_106	Tchakha, vas a matar a Widargelt y abrir tu séptimo chakra.
+TEXT_JOBMNK580_02030_HRAHATIA_000_107	Cuando lo hayas hecho, vuelve conmigo, y a Zentsa no le pasará nada.
+TEXT_JOBMNK580_02030_HRAHATIA_000_108	En cuanto a usted, aventurer<if(gnum4,a,o)>: si después jura servirme, liberaré a Zentsa y a Tchakha. Un trato justo, ¿no le parece?
+TEXT_JOBMNK580_02030_HRAHATIA_000_109	No hace falta que responda ahora mismo. Si acepta estas condiciones, venga a las ruinas al sur de Little Ala Mhigo. Allí l<if(gnum4,a,o)> esperaré.
+TEXT_JOBMNK580_02030_HRAHATIA_000_110	Piénselo, pero no demasiado, o no puedo garantizar que quede mucho de Zentsa para recuperar.
+TEXT_JOBMNK580_02030_WIDARGELT_000_120	¡Maldito sea!
+TEXT_JOBMNK580_02030_WIDARGELT_000_200	Intenté pelear con él. Pero era demasiado fuerte. Mucho más de lo que imaginaba.
+TEXT_JOBMNK580_02030_OTCHAKHA_000_201	Ese es el poder de quien abrió los catorce chakra. Nadie vivo puede pelear con él de igual a igual, ni siquiera <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMNK580_02030_WIDARGELT_000_202	Hay algo que me inquieta. La secta de la luz fue destruida. Pero H'raha Tia abrió los catorce chakra. ¿Cómo lo hizo?
+TEXT_JOBMNK580_02030_OTCHAKHA_000_203	Estuvo presente en la masacre del templo. Atacó y mató a un sacerdote de su secta, y así abrió el séptimo chakra de la luz.
+TEXT_JOBMNK580_02030_OTCHAKHA_000_204	Tal como estamos, no podemos esperar derrotarlo. Por desgracia, nuestra prueba fue un fracaso.
+TEXT_JOBMNK580_02030_OTCHAKHA_000_205	Mi chakra no se abrió, y el suyo tampoco. ¿Me equivoco?
+TEXT_JOBMNK580_02030_OTCHAKHA_000_206	¿Qué voy a hacer? Ay, Zentsa... Quiero salvarte, pero no puedo matar a Widargelt...
+TEXT_JOBMNK580_02030_WIDARGELT_000_230	O'tchakha necesita consuelo. ¿Le levantarás el ánimo con <colortype(500)><edgecolortype(501)>rally<edgecolortype(0)><colortype(0)>?
+TEXT_JOBMNK580_02030_OTCHAKHA_000_245	Me siento tan impotente...
+TEXT_JOBMNK580_02030_OTCHAKHA_000_250	Por favor, perdone este lamentable espectáculo. Tiene razón, <split(<string(gstr1)>, ,1)>: no debo desesperar.
+TEXT_JOBMNK580_02030_OTCHAKHA_000_251	Zentsa y yo éramos como pájaros en una jaula. Servir a H'raha Tia era la única vida que conocíamos. Pero todo cambió cuando los conocimos a ustedes dos.
+TEXT_JOBMNK580_02030_OTCHAKHA_000_252	Nos abrieron los ojos a un mundo de posibilidades infinitas. Es posible mucho más de lo que jamás había soñado. Por eso no voy a perder la esperanza.
+TEXT_JOBMNK580_02030_OTCHAKHA_000_253	¡Hay una forma de derrotar a H'raha Tia, y solo tenemos que encontrarla! ¡Rescataremos a Zentsa! ¡Sin que yo levante la mano contra Widargelt, y sin que usted se ofrezca como esclav<if(gnum4,a,o)> de H'raha Tia!
+TEXT_JOBMNK580_02030_WIDARGELT_000_254	Todavía hay tiempo. Volvamos a Revenant's Toll. Allí haremos un plan.
+TEXT_JOBMNK580_02030_WIDARGELT_000_300	El Profesor Erik nos prestó sus tomos. O'tchakha los revisa buscando formas de abrir tu último chakra.
+TEXT_JOBMNK580_02030_WIDARGELT_000_301	Quizás encuentre algo. Quizás no. Mientras tanto, debemos hacer lo que podamos. Perfeccionar la mente y el cuerpo para la batalla que viene.

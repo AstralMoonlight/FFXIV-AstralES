@@ -1,0 +1,110 @@
+key	text
+TEXT_JOBBRD600_01718_SEQ_00	Sanson perdió la esperanza de que Guydelot vuelva.
+TEXT_JOBBRD600_01718_SEQ_01	Junto con Mogta, Sanson buscó a Guydelot por todas partes, pero no hay rastro del bard; parece que tendrán que seguir la misión sin él. Mogta les cuenta que la Ballad of Oblivion, según dicen, viene de los cielos del este, y ustedes deducen que se trata del Sea of Clouds. Sanson anuncia que conseguirá una aeronave para llevarlos allí, y te pide que lo veas en el aeródromo de Gridania. Cuando el capitán de los Twin Adder se va, Mogta te revela un secreto: se encontró con Guydelot, pero no logró convencer al bard de volver con él. El moogle cree que a ti te irá mejor, y te confía el diario de Sanson por si sirve de algo. Dirígete a la cima de Sohm Al, donde anda Guydelot, y muéstrale el diario al bard.
+TEXT_JOBBRD600_01718_SEQ_02	Pese al diario y a tus sinceros ruegos, Guydelot se niega a volver a la expedición: le da demasiada vergüenza haber acusado a Sanson de usar el canto como herramienta. Solo puedes quedarte mirando mientras Guydelot se va a buscarse a sí mismo. Sigue a tus otros dos compañeros de vuelta a Gridania y reúnete con ellos en el aeródromo.
+TEXT_JOBBRD600_01718_SEQ_03	Sanson consiguió una aeronave, y juntos vuelan a la isla de Mok Oogl, en el borde del Sea of Clouds. Habla con Sanson para recibir más instrucciones.
+TEXT_JOBBRD600_01718_SEQ_04	Algo en la isla tiene a Mogta muy inquieto, y Sanson cree que es la Ballad of Oblivion. Haz tu parte recorriendo la isla e infórmale a Sanson.
+TEXT_JOBBRD600_01718_SEQ_05	Encuentras a Sanson mirando con anhelo una piedra con marcas extrañas. Mogta recuerda que es una piedra de sellado, usada para encerrar seres malignos, pero su advertencia llega un instante tarde, y Sanson libera a la sirena que estaba encerrada en ella. La Ballad of Oblivion resulta ser la voz desgarradora de almas de esa bestia, que la usó para aniquilar a la tribu de moogles que vivía en Mok Oogl. Sanson está decidido a enfrentarse solo a la sirena, y les pide a Mogta y a ti que huyan. En ese momento vuelve Guydelot, y sus palabras le infunden a Sanson un valor nuevo. Junto con tus compañeros, logras devolver a la sirena a su prisión de piedra. Aunque la Ballad of Oblivion nunca existió de verdad, Sanson cree que las habilidades que dominaste a lo largo de la misión bastarán para satisfacer a sus superiores. Sigue a tus amigos de vuelta a la aeronave y avísale a Sanson cuando estés <if(gnum4,lista,listo)> para volver a Gridania.
+TEXT_JOBBRD600_01718_SEQ_06	Sanson te agradece de corazón tu inestimable aporte a la misión. Mientras presenta su informe ante la Order of the Twin Adder y el Gods' Quiver, te pide que vayas a ver a Jehantel al oeste de Quarrymill, para contarle al viejo bard tu viaje.
+TEXT_JOBBRD600_01718_SEQ_07	Jehantel te agradece haber cuidado a Sanson y a Guydelot, y observa que tus experiencias te elevaron como bard. Te pide que sigas siendo un modelo de tu arte y que enriquezcas el corazón de la gente con tus canciones.<br><br>※La siguiente misión de bard estará disponible con Jehantel cuando completes la misión de la historia principal "The Far Edge of Fate".
+TEXT_JOBBRD600_01718_TODO_00	Entrégale el diario de Sanson a Guydelot.
+TEXT_JOBBRD600_01718_TODO_01	Habla con Sanson en el aeródromo de Gridania.
+TEXT_JOBBRD600_01718_TODO_02	Habla con Sanson.
+TEXT_JOBBRD600_01718_TODO_03	Habla con Sanson.
+TEXT_JOBBRD600_01718_TODO_04	Habla con Sanson.
+TEXT_JOBBRD600_01718_TODO_05	Habla con Jehantel al oeste de Quarrymill.
+TEXT_JOBBRD600_01718_MOGTA_000_000	¡Guydelot parece un tipo simpático! ¡Me muero por conocerlo, kupo!
+TEXT_JOBBRD600_01718_SANSON_000_005	Pese a todos nuestros esfuerzos, me temo que no pudimos encontrar a Guydelot.
+TEXT_JOBBRD600_01718_SANSON_000_006	Si tuviera intención de volver, ya lo habría hecho. Está claro que ya no podemos contar con él.
+TEXT_JOBBRD600_01718_SANSON_000_007	Pero con él o sin él, debemos seguir con nuestra misión.
+TEXT_JOBBRD600_01718_MOGTA_000_008	¡Tenía <italic(1)>tantas<italic(0)> ganas de conocer a Guydelot!, pero supongo que el espectáculo debe continuar. Bueno, la leyenda dice que la Ballad of Oblivion se encuentra en los cielos del este. ¿Hay otro lugar como the Churning Mists en esa dirección, kupo?
+TEXT_JOBBRD600_01718_Q1_000_000	¿Hay un lugar como the Churning Mists?
+TEXT_JOBBRD600_01718_A1_000_000	Sí, se llama el Sea of Clouds.
+TEXT_JOBBRD600_01718_A1_000_001	Sí, los ishgardianos tienen un puesto de avanzada allí.
+TEXT_JOBBRD600_01718_SANSON_000_009	¿De verdad? ¡Entonces allí debemos ir!
+TEXT_JOBBRD600_01718_SANSON_000_010	Tendremos que hacer una breve visita a Gridania para conseguir una aeronave que nos lleve. Por favor, vaya al aeródromo cuando llegue a la ciudad.
+TEXT_JOBBRD600_01718_MOGTA_000_011	Esto queda entre tú y yo, pero en realidad hablé con Guydelot, kupo.
+TEXT_JOBBRD600_01718_MOGTA_000_012	Por desgracia, se negó a volver; dijo que no soportaría mirar a Sanson a la cara. Yo no pude convencerlo de unirse a nosotros, pero quizás tú sí, <split(<string(gstr1)>, ,1)>. Toma, llévate esto.
+TEXT_JOBBRD600_01718_MOGTA_000_013	Es el diario de Sanson, ese en el que siempre está escribiendo. Yo, eh... lo <italic(1)>tomé prestado<italic(0)>. Pensé que quizás ayudaría si se lo mostraras a Guydelot. Lo encontrarás en la cima de Sohm Al, kupo.
+TEXT_JOBBRD600_01718_MOGTA_000_015	Por favor, intenta convencer a Guydelot de que se una a nosotros. Muéstrale el diario de Sanson si crees que ayudará. Lo encontrarás en la cima de Sohm Al, kupo.
+TEXT_JOBBRD600_01718_GUYDELOT_000_020	¡Bah, ese Mogta se fue de la lengua, ¿no?!
+TEXT_JOBBRD600_01718_GUYDELOT_000_030	...¿Hm? ¿El diario de Sanson? Está casi lleno de punta a punta de escritos sobre el canto. Vaya... Al ver esto, uno pensaría que es bard.
+TEXT_JOBBRD600_01718_GUYDELOT_000_031	\<suspiro> Pensé mucho desde la última vez que hablamos.
+TEXT_JOBBRD600_01718_GUYDELOT_000_032	Aunque no es bard, Sanson está empeñado en encontrar la canción. Por los infiernos, tiene más ganas que cualquiera de nosotros, y yo no entendía por qué. Pero ahora sí.
+TEXT_JOBBRD600_01718_GUYDELOT_000_033	Sanson cree de verdad en el canto: así de simple. Pero en el calor del momento lo acusé de usar el canto como herramienta.
+TEXT_JOBBRD600_01718_GUYDELOT_000_035	Estuvo mal, y me avergüenzo de mí mismo. No soporto estar en compañía de Sanson.
+TEXT_JOBBRD600_01718_GUYDELOT_000_036	...¿Se van al Sea of Clouds? Entonces les deseo suerte. No puedo ir con ustedes: no tengo derecho.
+TEXT_JOBBRD600_01718_GUYDELOT_000_037	Ahora necesito estar solo y mirarme bien a mí mismo. Mejor no esperes nada de mí.
+TEXT_JOBBRD600_01718_MOGTA_000_040	Me hice invisible con magia moogle. ¡No debes hablarme, o la gente sospechará, kupo!
+TEXT_JOBBRD600_01718_SANSON_000_045	Me alegra decir que conseguí la cooperación de la Order. ¡Tenemos permiso para tomar una aeronave al Sea of Clouds!
+TEXT_JOBBRD600_01718_MOGTA_000_046	¡Ay, qué alegría más grande! ¡Estoy tan emocionado que oigo música más o menos del lado de la aeronave!
+TEXT_JOBBRD600_01718_MOGTA_000_047	No perdamos tiempo: ¡la Ballad of Oblivion nos espera, kupo!
+TEXT_JOBBRD600_01718_Q2_000_000	¿Viajas al Sea of Clouds?
+TEXT_JOBBRD600_01718_A2_000_000	Sí
+TEXT_JOBBRD600_01718_A2_000_001	No
+TEXT_JOBBRD600_01718_Q3_000_000	¿Viajas al aeródromo de Gridania?
+TEXT_JOBBRD600_01718_A3_000_000	Sí
+TEXT_JOBBRD600_01718_A3_000_001	No
+TEXT_JOBBRD600_01718_SANSON_000_050	Nos dieron permiso para tomar una aeronave al Sea of Clouds. ¡Partamos de inmediato!
+TEXT_JOBBRD600_01718_MOGTA_000_050	Algo de este lugar me pone los pelos de punta, kupo...
+TEXT_JOBBRD600_01718_SANSON_000_055	Mogta siente que aquí descansa un poder siniestro, y eso lo llena de pavor. Solo puede ser la Ballad of Oblivion.
+TEXT_JOBBRD600_01718_SANSON_000_056	Aunque este lugar está abandonado, las estructuras que quedan recuerdan a Moghome. Si aquí vivieron moogles, sin duda vamos por buen camino. ¡Recorramos toda la isla!
+TEXT_JOBBRD600_01718_SANSON_000_500	Esta piedra... Me llama...
+TEXT_JOBBRD600_01718_SANSON_000_501	¡La Ballad of Oblivion está aquí! ¡Nunca estuve tan seguro de nada en mi vida!
+TEXT_JOBBRD600_01718_MOGTA_000_502	Hmmm... ¿Dónde vi antes esas marcas, kupo...?
+TEXT_JOBBRD600_01718_MOGTA_000_503	\<jadeo> ¡Ahora me acuerdo! ¡Es una piedra de sellado, para encerrar seres malignos! N-No toques...
+TEXT_JOBBRD600_01718_LIGEIA_000_504	La larga noche fría terminó, la desterró la mano de un necio.♪<br>Tus sueños son míos para verlos, y tu corazón, mío por derecho.♪
+TEXT_JOBBRD600_01718_LIGEIA_000_505	Canto una canción de amor, y es amor lo que te tengo,♪<br>te lo doy con todo el corazón, y sincero es lo que siento.♪<br>Así amé a las criaturas que en esta tierra vivían,♪<br>pero rechazaron mi amor, y al infierno los mandé un día.♪
+TEXT_JOBBRD600_01718_SANSON_000_506	Uuugh... L-La cabeza... no, el alma misma se me parte... ¿Qué... qué es esta voz?
+TEXT_JOBBRD600_01718_MOGTA_000_507	Resuena por los cielos y lo destruye todo... Ay, por los dioses, ¡¿<italic(1)>esto<italic(0)> es la Ballad of Oblivion?!
+TEXT_JOBBRD600_01718_MOGTA_000_508	¡Y esta bestia la usó para arrasar con toda una tribu de moogles! Esto no es una canción... ¡es un <italic(1)>ultraje<italic(0)>, kupo!
+TEXT_JOBBRD600_01718_SANSON_000_509	Todo este tiempo, lo que buscaba ni siquiera existía...
+TEXT_JOBBRD600_01718_SANSON_000_510	Fui yo quien liberó esta amenaza en el mundo. La venceré, aunque me cueste la vida. ¡Huyan de aquí, los dos!
+TEXT_JOBBRD600_01718_GUYDELOT_000_511	(-???-)¿A quién crees que quieres impresionar?
+TEXT_JOBBRD600_01718_GUYDELOT_000_512	<split(<string(gstr1)>, ,1)> y Mogta no van a huir a ningún lado, y yo tampoco. Estamos juntos en esto, ¡hasta el final!
+TEXT_JOBBRD600_01718_SANSON_000_513	¡¿G-Guydelot?! ¡¿Qué hace aquí?!
+TEXT_JOBBRD600_01718_GUYDELOT_000_514	\<suspiro> Estoy aquí porque no sabes nada, Sanson el Tieso. No puedo dejarte librado a tu suerte.
+TEXT_JOBBRD600_01718_GUYDELOT_000_515	Abre bien los oídos, porque no lo voy a repetir: es el deseo ferviente de ayudar a nuestros compañeros lo que les da poder a nuestras canciones.
+TEXT_JOBBRD600_01718_GUYDELOT_000_516	¡Y no hay canciones con más poder que las que compones tú mismo! Si no hay Ballad of Oblivion que encontrar, ¡tendremos que <italic(1)>crearla<italic(0)>!
+TEXT_JOBBRD600_01718_SANSON_000_517	Sí... Sí, tiene razón. ¡Que la nuestra sea la canción del triunfo sobre una bestia legendaria!
+TEXT_JOBBRD600_01718_GUYDELOT_000_518	¡Ja, eso me gusta! Bueno, somos cuatro para pelear contra la sirena. Así que la canción es un cuarteto, ¿eh?
+TEXT_JOBBRD600_01718_MOGTA_000_070	Uf... La piedra de sellado volvió a estar como antes, kupo.
+TEXT_JOBBRD600_01718_SANSON_000_071	...¡¿Estaba con nosotros <italic(1)>a bordo<italic(0)> de la aeronave?! Pero si apenas hay lugar para... ¡Bah, eso no importa ahora! Dondequiera que se haya escondido, nos tenía a todos muertos de preocupación. ¡¿Lo sabe?!
+TEXT_JOBBRD600_01718_GUYDELOT_000_072	Si antes no lo sabía, ahora sí. También sé lo mucho que trabajaste, gracias a esto.
+TEXT_JOBBRD600_01718_SANSON_000_073	¡M-Mi diario! ¡¿De dónde lo...?! ¡Devuélvamelo ahora mismo! ¡Lo necesito para escribir mi informe!
+TEXT_JOBBRD600_01718_GUYDELOT_000_074	¡Y un cuerno! Compusimos nuestra propia Ballad of Oblivion: ¡es todo lo que necesitas escribir!
+TEXT_JOBBRD600_01718_SANSON_000_075	Hmmm... Ahora que lo pienso, mis superiores van a exigir resultados más tangibles...
+TEXT_JOBBRD600_01718_SANSON_000_076	¡Ah, claro! Las habilidades que <split(<string(gstr1)>, ,1)> dominó durante el viaje... ¡servirán de maravilla!
+TEXT_JOBBRD600_01718_GUYDELOT_000_077	¡Bah, decídete de una maldita vez!
+TEXT_JOBBRD600_01718_MOGTA_000_078	¡Cuando vuelva a Moghome, les voy a contar a todos que creamos nuestra propia Ballad of Oblivion, kupo!
+TEXT_JOBBRD600_01718_GUYDELOT_000_079	Hablando de volver, más vale que vuelva a ser un hombre del Quiver. ¿Y quién sabe? Quizás hasta intente portarme bien de ahora en adelante. Pero haga lo que haga, sepan que no descansaré hasta superar a Jehantel y a <split(<string(gstr1)>, ,1)>.
+TEXT_JOBBRD600_01718_SANSON_000_080	Espero con ganas el día en que lo logre. Recuerde que mi plan no puede tener éxito sin usted.
+TEXT_JOBBRD600_01718_MOGTA_000_081	¡Avísenme cuando formen la unidad! ¡Iré a visitarlos a todos, kupo!
+TEXT_JOBBRD600_01718_SANSON_000_082	Serás el primero en saberlo, amigo mío.
+TEXT_JOBBRD600_01718_GUYDELOT_000_083	Y dicho esto, ¡volvamos a casa!
+TEXT_JOBBRD600_01718_MOGTA_000_090	¡Avísame cuando Sanson y Guydelot formen su unidad! ¡Iré a visitarlos a todos, kupo!
+TEXT_JOBBRD600_01718_GUYDELOT_000_091	Pongámonos en camino, ¿eh?
+TEXT_JOBBRD600_01718_SANSON_000_095	Al volver a Gridania debo presentar mi informe ante la Order of the Twin Adder y el Gods' Quiver. Mientras me ocupo de eso, ¿podría molestarl<if(gnum4,a,o)> para que vaya a ver a Jehantel? Sin duda querrá oír el relato de nuestro viaje.
+TEXT_JOBBRD600_01718_SANSON_000_096	Gracias, <split(<string(gstr1)>, ,1)>, por todo. No sé cuándo será, pero espero con ganas el día en que volvamos a vernos.
+TEXT_JOBBRD600_01718_MOGTA_000_100	Guydelot y Sanson volvieron a sus deberes, y supongo que tú también tienes cosas a las que volver. Creo que aprovecharé para conocer los paisajes y los sonidos del Twelveswood. ¡Mándale mis saludos a Jehantel, kupo!
+TEXT_JOBBRD600_01718_JEHANTEL_000_105	...Un emocionante relato de amistad frente a la adversidad. Te agradezco que hayas cuidado a Sanson y a Guydelot. Cuando el plan de Sanson empiece a tomar forma, podrá contar con mi ayuda en todo lo que pueda.
+TEXT_JOBBRD600_01718_JEHANTEL_000_106	En cuanto a ti, <if(gnum4,amiga mía,amigo mío)>, está claro que tus experiencias te elevaron como bard, como yo esperaba. Ruego que siempre seas un modelo de nuestro arte y que enriquezcas el corazón de la gente con tus canciones.
+TEXT_JOBBRD600_01718_SYSTEM_000_500	Aquí terminan las misiones de bard de FINAL FANTASY XIV: Heavensward. Para empezar la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:
+TEXT_JOBBRD600_01718_SYSTEM_000_501	※Haber completado la misión de la historia principal "The Far Edge of Fate".
+TEXT_JOBBRD600_01718_SYSTEM_000_502	Una vez cumplidos, la siguiente misión de bard estará disponible con Jehantel.
+TEXT_JOBBRD600_01718_QIB_001_TODO_1	¡Derrota a Ligeia!
+TEXT_JOBBRD600_01718_QIB_001_LIGEIA_BATTLETALK_00	Calla ya, mi amor, cierra los ojos cansados.♪<br>Duerme al calor de mi tierno arrullo encantado.♪
+TEXT_JOBBRD600_01718_QIB_001_SANSON_BATTLETALK_01	¡No, bestia! ¡La que va a dormir eres tú!
+TEXT_JOBBRD600_01718_QIB_001_GUYDELOT_BATTLETALK_02	¡¿A eso le llamas canción?! ¡No me hagas reír!
+TEXT_JOBBRD600_01718_QIB_001_LIGEIA_BATTLETALK_03	¿Por qué niegas lo que sientes, por qué me escondes tu amor?♪<br>Entrégale tu corazón a mi canto, y te librará del dolor.♪
+TEXT_JOBBRD600_01718_QIB_001_SANSON_BATTLETALK_04	¡Cuidado, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBBRD600_01718_QIB_001_GUYDELOT_BATTLETALK_05	¡Esto me da mala espina!
+TEXT_JOBBRD600_01718_QIB_001_LIGEIA_BATTLETALK_06	Mi amor no correspondido, tengo hambre de tu beso,♪<br>solo pruebo lágrimas, ¿nunca conoceré el embeleso?♪
+TEXT_JOBBRD600_01718_QIB_001_SANSON_BATTLETALK_07	¡No bajen la guardia!
+TEXT_JOBBRD600_01718_QIB_001_GUYDELOT_BATTLETALK_08	¡Tu música es mala y deberías sentirte mal!
+TEXT_JOBBRD600_01718_QIB_001_LIGEIA_BATTLETALK_09	Perdida en tu cariño, languidezco en la noche oscura.♪<br>Mi salvación está en la luz de tu amor tan pura.♪
+TEXT_JOBBRD600_01718_QIB_001_MOGTA_BATTLETALK_10	¡Un poco más, kupo!
+TEXT_JOBBRD600_01718_QIB_001_GUYDELOT_BATTLETALK_11	Nuestra propia Ballad of Oblivion... ¡a tu consideración, bestia!
+TEXT_JOBBRD600_01718_QIB_001_SANSON_BATTLETALK_DEAD	Maldición...
+TEXT_JOBBRD600_01718_QIB_001_GUYDELOT_BATTLETALK_DEAD	Ugh... Tienen que terminar... nuestra canción...
+TEXT_JOBBRD600_01718_QIB_001_MOGTA_BATTLETALK_DEAD	Y me quedé sin fuerzas, kupo...

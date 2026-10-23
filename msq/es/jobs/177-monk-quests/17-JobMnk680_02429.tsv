@@ -1,0 +1,148 @@
+key	text
+TEXT_JOBMNK680_02429_SEQ_00	Widargelt sigue sumido en la desesperación.
+TEXT_JOBMNK680_02429_SEQ_01	Widargelt todavía necesita tiempo para asimilar su reciente derrota y las revelaciones sobre su pasado. Pero pese a sus propias penas, se preocupa por sus discípulas y te pide que hables con ellas y les levantes el ánimo.
+TEXT_JOBMNK680_02429_SEQ_02	Vas a ver a D'zentsa y O'tchakha, que a su vez te cuentan lo preocupadas que están por su maestro. Sin saber qué hacer, deciden recurrir al siempre perspicaz Erik. Mientras ellas vigilan al desesperado Widargelt, te piden que vayas a buscar al profesor a Rhalgr's Reach, hogar de la Resistance, donde está haciendo sus averiguaciones.
+TEXT_JOBMNK680_02429_SEQ_03	Encuentras a Erik justo cuando termina de preguntarles a los soldados de la Resistance por el misterioso Theobald. Después de contarte lo que averiguó, acepta acompañarte de vuelta a Ala Gannha para tener unas palabras serias con Widargelt.
+TEXT_JOBMNK680_02429_SEQ_04	Widargelt ya asimiló en buena parte su derrota; es más bien la revelación de su verdadera identidad como sobrino del King of Ruin lo que lo hace dudar de que sea digno de revivir el Fist of Rhalgr. Con una historia sobre su hijo fallecido, Erik le enseña a Widargelt que a un hombre no lo define su sangre, sino las decisiones que toma. Recuperados su vigor y su propósito, Widargelt se concentra en lo que hay que hacer. Revela que sospecha que Theobald es en realidad alguien que conoce: un hermano del Temple of the Fist llamado Adri, al que creía muerto desde hace mucho. Si llega el caso, Widargelt está dispuesto a derribarlo, y te pide que lo entrenes a él y a sus discípulas en el camino del pugilist, para que puedan derrotar a la Corpse Brigade. Dirígete al antiguo campo de entrenamiento y empieza su entrenamiento.
+TEXT_JOBMNK680_02429_SEQ_05	Widargelt y sus discípulas resultan alumnos entusiastas, y aprenden rápido los fundamentos del pugilismo. Mientras entrenan, llega un hombre llamado Hewerald con la noticia de que Erik hizo un descubrimiento trascendental sobre Theobald. Mientras tus alumnos siguen entrenando, decides seguir al mensajero hasta East End, donde te espera el profesor.
+TEXT_JOBMNK680_02429_SEQ_06	La reunión con Erik resulta ser una trampa, y te ves obligad<if(gnum4,a,o)> a defenderte. Sin embargo, cuando empiezas a llevar ventaja, la batalla se convierte en una toma de rehenes. Justo cuando parece que tendrás que rendirte, Widargelt y sus discípulas llegan al rescate, tras usar sus nuevas habilidades de combate para arrollar a los centinelas apostados en el bosque.
+TEXT_JOBMNK680_02429_SEQ_07	Con el enemigo derrotado, puedes ocuparte de Erik, ya liberado.
+TEXT_JOBMNK680_02429_SEQ_08	Erik está bien, considerando lo que pasó, y tus amigos parten hacia Ala Gannha. Reúnete con ellos en la aldea y habla con Widargelt para conocer sus planes.
+TEXT_JOBMNK680_02429_SEQ_09	Widargelt anuncia que piensa desafiar a Theobald y poner fin a sus ambiciones tiránicas. Mientras tu hermano monk se prepara para el enfrentamiento, asegúrate de afinar tus propios puños y pies.<br><br>※La siguiente misión de monk estará disponible con Widargelt al llegar al nivel 70.
+TEXT_JOBMNK680_02429_TODO_00	Habla con O'tchakha.
+TEXT_JOBMNK680_02429_TODO_01	Habla con Erik en Rhalgr's Reach.
+TEXT_JOBMNK680_02429_TODO_02	Habla con Widargelt en Ala Gannha.
+TEXT_JOBMNK680_02429_TODO_03	Habla con Widargelt en Gyr Kehim.
+TEXT_JOBMNK680_02429_TODO_04	Habla con Hewerald en East End.
+TEXT_JOBMNK680_02429_TODO_05	Habla con Hewerald en East End.
+TEXT_JOBMNK680_02429_TODO_06	Habla con Erik.
+TEXT_JOBMNK680_02429_TODO_07	Habla con Widargelt en Ala Gannha.
+TEXT_JOBMNK680_02429_WIDARGELT_000_001	Eres tú otra vez, <if(gnum4,hermana,hermano)>.
+TEXT_JOBMNK680_02429_WIDARGELT_000_002	Mis alumnos nuevos. Perdieron la fe en mí. Y así los perdí a ellos.
+TEXT_JOBMNK680_02429_WIDARGELT_000_003	Pero quizás sea mejor así. No soy digno de enseñar. Soy pariente del rey loco. Sería una afrenta.
+TEXT_JOBMNK680_02429_WIDARGELT_000_004	Perdóname... No debería cargarte con esto. Pero contigo siento que puedo abrir mi corazón. Decir cosas que no les diría a otros. Ni siquiera a mis discípulas más cercanas. Hablando de ellas...
+TEXT_JOBMNK680_02429_WIDARGELT_000_005	D'zentsa y O'tchakha. Quizás sus cuerpos sanaron. Pero su orgullo seguirá herido. Tu visita les daría ánimo.
+TEXT_JOBMNK680_02429_OTCHAKHA_000_010	Ah, <split(<string(gstr1)>, ,1)>. Qué amable de su parte venir a vernos.
+TEXT_JOBMNK680_02429_OTCHAKHA_000_011	Zentsa y yo ya estamos bien, no se preocupe. Es el Maestro Widargelt quien nos preocupa. No se recuperará pronto del golpe emocional.
+TEXT_JOBMNK680_02429_DZENTSA_000_012	Con todo lo que pasó, no se le puede culpar. \<suspiro> Se suponía que íbamos a apoyar al maestro, pero al final no fuimos más que un estorbo...
+TEXT_JOBMNK680_02429_OTCHAKHA_000_013	Desde el incidente se suspendieron las clases. Aunque da igual: los aldeanos dejaron de venir. Es un gran revés para nuestra misión, pero el mayor revés de todos es la melancolía del maestro.
+TEXT_JOBMNK680_02429_DZENTSA_000_014	El Profesor Erik sabría qué hacer, apuesto. Vamos a consultarlo. ...Pero, ugh, no quiero dejar solo al maestro.
+TEXT_JOBMNK680_02429_OTCHAKHA_000_015	Yo tampoco. <split(<string(gstr1)>, ,1)>, ¿podríamos molestarl<if(gnum4,a,o)> para que busque al profesor y lo traiga?
+TEXT_JOBMNK680_02429_OTCHAKHA_000_016	Creo que llevó su investigación sobre el hombre llamado Theobald a la Resistance, en Rhalgr's Reach.
+TEXT_JOBMNK680_02429_WIDARGELT_000_020	No tengo derecho a revivir el Fist...
+TEXT_JOBMNK680_02429_DZENTSA_000_025	¡Si tan solo fuera más fuerte, maldición!
+TEXT_JOBMNK680_02429_ERIK_000_030	Ah, <split(<string(gstr1)>, ,1)>, llegas en buen momento. Acabo de terminar de averiguar sobre nuestro amigo, Su Aspirante Majestad Theobald, y sin duda estás ansios<if(gnum4,a,o)> por oír lo que encontré. ¡Ejem!
+TEXT_JOBMNK680_02429_ERIK_000_031	Según todos, el hombre apareció hace muy poco. Nadie sabe bien de dónde vino, pero apenas apareció se declaró heredero de Theodoric y se puso a reclutar gente para su causa.
+TEXT_JOBMNK680_02429_ERIK_000_032	Pero lo que predomina en torno al sujeto es la incertidumbre. No debería sorprender a nadie, pero la gente no está precisamente entusiasmada con el regreso del Griffin. Y no olvidemos que pocos tienen buenos recuerdos del reinado del King of Ruin, ni motivo alguno para querer a su heredero.
+TEXT_JOBMNK680_02429_ERIK_000_033	Eso es todo. Bien, ¿qué te trae por aquí?
+TEXT_JOBMNK680_02429_ERIK_000_034	¿Dices que sigue enfurruñado en su ciclas? \<suspiro> Totalmente sin remedio...
+TEXT_JOBMNK680_02429_ERIK_000_035	Muy bien, iré a hacer entrar en razón a ese tonto a cachetadas. Vamos, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMNK680_02429_DZENTSA_000_040	Así no se puede. Tengo que volverme más fuerte, o no podré proteger a nadie. O no podré proteger a...
+TEXT_JOBMNK680_02429_OTCHAKHA_000_045	Con lluvia, granizo o sol, el Maestro Widargelt nunca faltó a un entrenamiento. Debe de tener toda una tormenta por dentro.
+TEXT_JOBMNK680_02429_ERIK_000_050	Widargelt. Por más paliza que haya sido, ¿cuánto tiempo vas a dejar que una sola derrota te tenga por el suelo? Me dicen que descuidaste tu entrenamiento, que no moviste ni un dedo. ¿Vas a dejar que todo ese músculo se vuelva grasa?
+TEXT_JOBMNK680_02429_WIDARGELT_000_051	La derrota duele. Es cierto. Pero conozco bien su ardor. Con el tiempo, la sensación pasa. Pero esto... No es una mera sensación. Es mi propia existencia.
+TEXT_JOBMNK680_02429_WIDARGELT_000_052	El hombre que destruyó el Fist of Rhalgr. Su sangre corre por mis venas. Que yo busque revivir la orden... Es una afrenta a los muertos. No tengo derecho.
+TEXT_JOBMNK680_02429_ERIK_000_053	...Así que es eso. Te contaré una historia. Yo tuve un hijo. En muchas cosas se parecía a mí, y yo esperaba que algún día siguiera mis pasos.
+TEXT_JOBMNK680_02429_ERIK_000_054	Pero el muchacho tenía sueños más grandes. Quería cambiar el mundo, así que se fue y se unió a la Resistance. Y después murió.
+TEXT_JOBMNK680_02429_ERIK_000_055	Su unidad quedó rodeada sin remedio por fuerzas imperiales. Para salvar a sus camaradas, agarró una bolsa de explosivos y...<br>...Pero los detalles no importan.
+TEXT_JOBMNK680_02429_ERIK_000_056	Durante largos años viví con remordimiento. Si tan solo mi hijo hubiera seguido el camino de la ciencia, me lamentaba, quizás seguiría aquí.
+TEXT_JOBMNK680_02429_ERIK_000_057	Pero al final me di cuenta: era una decisión suya, y la tomó. Eligió ser soldado y murió como un héroe. Al aceptarlo pude encontrar algo parecido a la paz.
+TEXT_JOBMNK680_02429_ERIK_000_058	No nos define nuestra sangre, Widargelt, sino nuestras decisiones. ¿Así que tu tío es el rey loco? ¿Y qué? Tú no eres él. Eres tú, con el nombre que sea, y no hay límite para el camino que puedes recorrer. Ese camino puede estar lleno de penurias, pero no debes rendirte.
+TEXT_JOBMNK680_02429_ERIK_000_059	Mira a los soldados de la Resistance. Incluso ahora pelean sin descanso contra el poder del Imperio, siempre dispuestos a dar la vida por su causa.
+TEXT_JOBMNK680_02429_ERIK_000_060	Mira a los soldados de la Resistance. Incluso después de su gran victoria siguen en guardia, siempre dispuestos a dar la vida por su causa.
+TEXT_JOBMNK680_02429_ERIK_000_061	Estos hombres y mujeres llevan una carga enorme, una bajo la que podrían doblarse en cualquier momento. Y aun así se mantienen firmes hasta el final. Antes me preguntaba por qué no se rinden. Mi hijo me enseñó la respuesta: creen que en el momento en que te rindes con algo, lo pierdes.
+TEXT_JOBMNK680_02429_ERIK_000_062	Cuando nos conocimos, estabas empeñado en la venganza. Por terco que fueras, llegaste a ver la locura de ese camino. Pero llega un momento en que un hombre debe pelear. Para ti, ese momento es ahora.
+TEXT_JOBMNK680_02429_ERIK_100_062	Así que saca esa terquedad de mula que tienes, Widargelt, y pelea. Pelea por aquello en lo que crees.
+TEXT_JOBMNK680_02429_WIDARGELT_000_063	Tiene razón, profesor. Ahora veo lo que de verdad importa. Theobald desea el poder absoluto. Si se sale con la suya, el pueblo sufrirá. Esto no se puede tolerar. Va en contra del nuevo Fist.
+TEXT_JOBMNK680_02429_WIDARGELT_000_064	Quiero devolverle la esperanza al pueblo. Pero para eso debo superarlo. Me volveré más fuerte. Y protegeré lo que amo.
+TEXT_JOBMNK680_02429_ERIK_100_064	Me alegra muchísimo oírlo. Ni hace falta decir que ayudaré en lo que pueda.
+TEXT_JOBMNK680_02429_WIDARGELT_200_064	Hay algo más que me inquieta, profesor. Sobre Theobald. Sus técnicas con el arma de asta son particulares. Ya las vi antes. Pero ¿cuándo? ¿Dónde?
+TEXT_JOBMNK680_02429_WIDARGELT_300_064	Fue hace mucho tiempo. Cuando el Temple of the Fist todavía estaba en pie.
+TEXT_JOBMNK680_02429_WIDARGELT_400_064	\<jadeo> No... No puede ser... ¿Adri?
+TEXT_JOBMNK680_02429_ERIK_500_064	¿Quién es ese Adri?
+TEXT_JOBMNK680_02429_WIDARGELT_600_064	Un hermano del Temple of the Fist. Lo más parecido a una familia que tuve. Lo creía muerto. Caído cuando arrasaron el templo.
+TEXT_JOBMNK680_02429_ERIK_700_064	¿Pero ahora crees que quizás siga vivo, y que es él quien busca impedir que revivas el Fist of Rhalgr?
+TEXT_JOBMNK680_02429_Q2_000_000	¿Qué dices?
+TEXT_JOBMNK680_02429_A2_000_001	Enfrentémoslo y descubramos la verdad.
+TEXT_JOBMNK680_02429_A2_000_002	Si llega el caso, ¿podrías derribarlo?
+TEXT_JOBMNK680_02429_WIDARGELT_800_065	Veía a Adri como a un verdadero hermano. No quiero que peleemos.
+TEXT_JOBMNK680_02429_WIDARGELT_900_065	Veía a Adri como a un verdadero hermano. No quiero que termine así.
+TEXT_JOBMNK680_02429_WIDARGELT_100_066	Pero tampoco puedo renunciar a mi propósito. Busco devolverle la esperanza al pueblo. Adri busca quitársela. Si debemos enfrentarnos...
+TEXT_JOBMNK680_02429_WIDARGELT_200_066	¡Entonces estoy dispuesto a derribarlo!
+TEXT_JOBMNK680_02429_ERIK_000_065	Pero recuerda que Adri no está solo. Reunió a la Corpse Brigade para su causa, y contra ellos el Fist of Rhalgr no sirve. ¿Cómo piensas superar esa desventaja?
+TEXT_JOBMNK680_02429_WIDARGELT_000_066	Si nuestro estilo de pelea no sirve, dominaremos otro. Uno libre y sin las ataduras de la forma.
+TEXT_JOBMNK680_02429_WIDARGELT_000_067	<split(<string(gstr1)>, ,1)>, quiero pedirte un favor. Todo lo que aprendiste como pugilist, queremos aprenderlo nosotros también. ¿Nos enseñarás?
+TEXT_JOBMNK680_02429_Q1_000_000	¿Qué dices?
+TEXT_JOBMNK680_02429_A1_000_001	¿Crees que podrás seguirme el ritmo?
+TEXT_JOBMNK680_02429_A1_000_002	Va a ser duro.
+TEXT_JOBMNK680_02429_WIDARGELT_000_068	¡Danos lo peor que tengas, <if(gnum4,hermana,hermano)>! ¡Lo aguantaremos todo sin inmutarnos!
+TEXT_JOBMNK680_02429_WIDARGELT_000_069	Si estás <if(gnum4,lista,listo)>, quiero empezar de inmediato. Entrenemos en Gyr Kehim. Como hacían los monks de antaño. Llamaré a las muchachas. Por favor, reúnete con nosotros allí.
+TEXT_JOBMNK680_02429_ERIK_000_070	Bueno, parece que la tormenta pasó. Con eso, volveré a Ul'dah a ocuparme de una tarea propia. Confío en que ustedes se encargarán del resto aquí.
+TEXT_JOBMNK680_02429_WIDARGELT_000_080	Theobald dirige la Corpse Brigade. Soldados entrenados para reprimir al Fist of Rhalgr. Contra ellos, nuestro estilo no sirve.
+TEXT_JOBMNK680_02429_WIDARGELT_000_081	Si queremos triunfar, debemos ampliar nuestros horizontes. Y <split(<string(gstr1)>, ,1)> nos ayudará.
+TEXT_JOBMNK680_02429_DZENTSA_000_082	¡Muy bien! ¡Hagámoslo!
+TEXT_JOBMNK680_02429_OTCHAKHA_000_083	¡Daré lo mejor de mí!
+TEXT_JOBMNK680_02429_WIDARGELT_000_084	Conoces bien cómo peleamos. Nuestras fortalezas y nuestras debilidades. Dinos qué debemos mejorar. Con ojos de pugilist.
+TEXT_JOBMNK680_02429_Q1_001	¿Qué deben mejorar?
+TEXT_JOBMNK680_02429_A1_002	La velocidad.
+TEXT_JOBMNK680_02429_A1_003	La resistencia.
+TEXT_JOBMNK680_02429_A1_004	La fuerza.
+TEXT_JOBMNK680_02429_WIDARGELT_000_085	Ya veo... Ante todo, un pugilist es veloz. Por cada golpe que recibe, da una docena.
+TEXT_JOBMNK680_02429_WIDARGELT_000_086	¡D'zentsa, O'tchakha! ¡Nuestros combos deben ser fluidos! ¡Diez mil Bootshines!
+TEXT_JOBMNK680_02429_WIDARGELT_000_087	Ya veo... Al lado del pugilist, nos falta resistencia. Ningún número de golpes debe detenernos.
+TEXT_JOBMNK680_02429_WIDARGELT_000_088	¡D'zentsa, O'tchakha! ¡Nuestra resistencia debe ser inquebrantable! ¡Steel Peak diez mil veces!
+TEXT_JOBMNK680_02429_WIDARGELT_000_089	Ya veo... Al lado del pugilist, nos falta potencia. Cada golpe debe contar.
+TEXT_JOBMNK680_02429_WIDARGELT_000_090	¡D'zentsa, O'tchakha! ¡Nuestros golpes deben ser más duros que la piedra! ¡Arm of the Destroyer durante diez horas!
+TEXT_JOBMNK680_02429_WIDARGELT_000_091	\<jadeo> Así que así entrenabas... \<jadeo> Es revelador...
+TEXT_JOBMNK680_02429_WIDARGELT_000_092	Pero no basta. Debemos aprender más. O no podremos derrotar al enemigo. ¡Por favor, <split(<string(gstr1)>, ,1)>! ¡Enséñanos más!
+TEXT_JOBMNK680_02429_WIDARGELT_000_093	¿Así que todavía nos falta velocidad? Muy bien.
+TEXT_JOBMNK680_02429_WIDARGELT_000_094	¿Así que todavía nos falta resistencia? Muy bien.
+TEXT_JOBMNK680_02429_WIDARGELT_000_095	¿Así que todavía nos falta potencia? Muy bien.
+TEXT_JOBMNK680_02429_WIDARGELT_000_096	\<resoplido> Qué entrenamiento tan brutal... \<jadeo> Con razón eres tan fuerte...
+TEXT_JOBMNK680_02429_WIDARGELT_000_097	¡Pero todavía no terminamos! ¡Otra vez, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBMNK680_02429_HEWERALD_000_099	(-???-)Les ruego que disculpen la interrupción. Me llamo Hewerald y vengo de parte del Profesor Erik.
+TEXT_JOBMNK680_02429_WIDARGELT_100_099	¿El profesor? ¿Pasó algo?
+TEXT_JOBMNK680_02429_HEWERALD_000_100	Nada malo, se lo aseguro. Hizo un descubrimiento trascendental sobre el hombre llamado Theobald.
+TEXT_JOBMNK680_02429_WIDARGELT_100_100	¡¿De verdad?! ¡Tenemos que ir a verlo de inmediato!
+TEXT_JOBMNK680_02429_HEWERALD_200_100	Ah, les pido disculpas, pero el profesor me pidió que llevara solo a <if(gnum4,la Señora,el Señor)> <split(<string(gstr1)>, ,1)>. Cree que usted y las damas deben concentrarse ante todo en su entrenamiento.
+TEXT_JOBMNK680_02429_WIDARGELT_300_100	Supongo que tiene razón. Muy bien.
+TEXT_JOBMNK680_02429_WIDARGELT_000_101	Ve, <if(gnum4,hermana,hermano)>. Nos enseñaste todo lo que necesitamos saber. Solo queda practicar. Hacerlo algo natural.
+TEXT_JOBMNK680_02429_HEWERALD_000_102	Gracias por su comprensión. Entonces, sin más demora, sígame, por favor.
+TEXT_JOBMNK680_02429_DZENTSA_000_105	Ni loca dejo que me vuelvan a dar una paliza así. ¡Voy a entrenar más duro que nunca!
+TEXT_JOBMNK680_02429_OTCHAKHA_000_110	No estaría bien depender siempre de usted y del Maestro Widargelt. No, debemos hacernos fuertes y valernos por nosotras mismas.
+TEXT_JOBMNK680_02429_HEWERALD_000_120	Ya falta poco. El profesor espera más adelante.
+TEXT_JOBMNK680_02429_HEWERALD_000_121	Jejejeje...
+TEXT_JOBMNK680_02429_HEWERALD_000_122	¡Jajajaja! ¡No puedo creer que te lo hayas tragado!
+TEXT_JOBMNK680_02429_HEWERALD_000_123	Ah, pero para ser justos, no dije ninguna mentira. El profesor <italic(1)>sí<italic(0)> te llamó.
+TEXT_JOBMNK680_02429_HEWERALD_000_124	"¡Ayúdame, <split(<string(gstr1)>, ,1)>!", dijo. ¡Jajajaja!
+TEXT_JOBMNK680_02429_QIB_001_TODO_1	¡Derrota al enemigo!
+TEXT_JOBMNK680_02429_QIB_001_HEWERALD_BATTLETALK_00	No podemos dejar que sigas entrometiéndote, ¿entiendes?
+TEXT_JOBMNK680_02429_QIB_001_HEWERALD_BATTLETALK_01	Eres fuerte, te lo reconozco. Pero ¿qué te parecen estas probabilidades?
+TEXT_JOBMNK680_02429_QIB_001_HEWERALD_BATTLETALK_02	¡Te voy a poner en tu lugar!
+TEXT_JOBMNK680_02429_QIB_001_HEWERALD_BATTLETALK_03	¡¿Qué rayos están esperando?! ¡Acaben con <if(gnum4,ella,él)>!
+TEXT_JOBMNK680_02429_QIB_001_HEWERALD_BATTLETALK_04	Desgraciad<if(gnum4,a,o)> testarud<if(gnum4,a,o)>... Tendremos que probar algo distinto.
+TEXT_JOBMNK680_02429_HEWERALD_000_129	¡Ríndete ahora o es hombre muerto!
+TEXT_JOBMNK680_02429_ERIK_000_130	¡¿Ni siquiera pueden terminar una pelea que ustedes empezaron?! ¡Cobardes, todos ustedes!
+TEXT_JOBMNK680_02429_HEWERALD_000_131	¡Llámame como quieras, pero nadie se interpone entre el rey y su trono!
+TEXT_JOBMNK680_02429_WIDARGELT_000_132	Tardabas en volver. Así que te seguimos. Hicimos bien.
+TEXT_JOBMNK680_02429_OTCHAKHA_000_133	Gracias a Rhalgr que no llegamos tarde.
+TEXT_JOBMNK680_02429_HEWERALD_000_134	Ustedes... ¿Cómo rayos pasaron a los centinelas?
+TEXT_JOBMNK680_02429_DZENTSA_000_135	Les pasamos por encima, ¿cómo más?
+TEXT_JOBMNK680_02429_HEWERALD_000_136	Maldición... Se suponía que los de su calaña eran presa fácil...
+TEXT_JOBMNK680_02429_HEWERALD_000_137	Hoy ganaron ustedes, pero esto no terminó. Acuérdense de lo que les digo.
+TEXT_JOBMNK680_02429_WIDARGELT_000_139	No te preocupes por nosotros, <if(gnum4,hermana,hermano)>. Ve con el profesor.
+TEXT_JOBMNK680_02429_DZENTSA_100_139	\<jadeo> Y yo que creía que eras un demonio en combate...
+TEXT_JOBMNK680_02429_OTCHAKHA_200_139	El entrenamiento es arduo, pero perseveraremos, por el Maestro Widargelt.
+TEXT_JOBMNK680_02429_ERIK_000_140	Gracias, <split(<string(gstr1)>, ,1)>. Volvía de Ul'dah cuando me atacaron, y sin ninguna delicadeza, esos malditos brutos.
+TEXT_JOBMNK680_02429_WIDARGELT_000_141	Lo siento, profesor. Es mi culpa. Usted corrió peligro por mi causa.
+TEXT_JOBMNK680_02429_ERIK_000_142	¿No aprendiste nada, zoquete? Formo parte de esta causa por voluntad propia. Para bien o para mal, solo yo soy responsable de mis actos. En fin, hice lo que tenía que hacer, y ya puedes retomar tu entrenamiento tranquilo.
+TEXT_JOBMNK680_02429_OTCHAKHA_000_143	Disculpen, pero ¿puedo sugerir que nos vayamos de aquí? El enemigo todavía podría andar cerca.
+TEXT_JOBMNK680_02429_ERIK_000_144	Lo más sensato que se dijo en todo el día. Vamos, volvamos a Ala Gannha.
+TEXT_JOBMNK680_02429_WIDARGELT_000_145	Somos más fuertes gracias a tus enseñanzas. Lo bastante para enfrentar a la Corpse Brigade.
+TEXT_JOBMNK680_02429_DZENTSA_100_146	Todavía estamos lejos de tu nivel, ¡pero diría que algo mejoramos!
+TEXT_JOBMNK680_02429_OTCHAKHA_200_147	\<jadeo> El entrenamiento... venir corriendo hasta aquí... la batalla misma... \<jadeo> Fue un día... agotador...
+TEXT_JOBMNK680_02429_WIDARGELT_000_150	Gracias otra vez, <split(<string(gstr1)>, ,1)>. Por tus enseñanzas. Gracias a ellas pudimos salvar al profesor.
+TEXT_JOBMNK680_02429_WIDARGELT_000_151	Sufrió algunas heridas. Pero, por suerte, son leves. El sanador de la aldea lo está atendiendo.
+TEXT_JOBMNK680_02429_WIDARGELT_000_152	Cuando se recupere, pienso desafiar a Theobald. Entrenaré duro para ese día. Y pondré fin a sus ambiciones tiránicas. Sé mi testigo, <if(gnum4,hermana,hermano)>.
+TEXT_JOBMNK680_02429_DZENTSA_000_155	Esta vez le ganamos a la Corpse Brigade, y es todo gracias a ti, <split(<string(gstr1)>, ,1)>. A ti y a tu... ugh... entrenamiento brutal.
+TEXT_JOBMNK680_02429_OTCHAKHA_000_160	Sus lecciones nos permitieron superar los límites de nuestro estilo, <split(<string(gstr1)>, ,1)>. Practicaremos sin cesar todo lo que nos enseñó.

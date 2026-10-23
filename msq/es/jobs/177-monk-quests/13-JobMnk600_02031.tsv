@@ -1,0 +1,101 @@
+key	text
+TEXT_JOBMNK600_02031_SEQ_00	Se acaba el tiempo para rescatar a D'zentsa, y Widargelt está inquieto, algo raro en él.
+TEXT_JOBMNK600_02031_SEQ_01	Aunque no encontraste la forma de abrir tu último chakra, tienes que enfrentarte ahora a H'raha Tia, o D'zentsa perderá la vida. Widargelt te pide que te reúnas con él y con O'tchakha cerca de Little Ala Mhigo, en Southern Thanalan, antes de la misión de rescate.
+TEXT_JOBMNK600_02031_SEQ_02	Desesperada por salvar a su amiga, O'tchakha te pide que pelees contra ella para abrir tu último chakra. Pero Widargelt no quiere ni oír hablar de eso. Tiene la esperanza de que, uniendo fuerzas, todavía puedan derrotar a H'raha Tia. Prepárate para el enfrentamiento y avísale a Widargelt cuando estés <if(gnum4,lista,listo)> para ir a las ruinas del sur, adonde llevaron a D'zentsa.
+TEXT_JOBMNK600_02031_SEQ_03	En las ruinas, Widargelt intenta convencer a H'raha Tia de que pelear entre ellos no es el camino. Por desgracia, el maestro de la secta de la sombra no cede en sus creencias y se lanza contra ustedes a puñetazos y patadas. En plena batalla se abre tu último chakra, lo que te permite pelear con H'raha Tia de igual a igual. Y con la ayuda tardía de D'zentsa logras vencerlo a él y a sus alumnos. Cuando todo se calma, habla con Widargelt al sur de Little Ala Mhigo para saber qué piensa del desenlace de la batalla.
+TEXT_JOBMNK600_02031_SEQ_04	Entre los discípulos del Fist of Rhalgr se creía que la búsqueda del poder era el único camino a la grandeza. Pero con tu brillante ejemplo esa vieja idea se hizo pedazos y dejó paso a otros caminos. Junto con D'zentsa y O'tchakha, Widargelt se esforzará por reconstruir la orden como era antes, reuniendo las sectas de la luz y de la sombra. Como modelo de una nueva generación de monks, asegúrate de usar siempre tus poderes por el bien del reino.<br><br>※La siguiente misión de monk estará disponible con Erik cuando completes la misión de la historia principal "The Far Edge of Fate".
+TEXT_JOBMNK600_02031_TODO_00	Habla con O'tchakha cerca de Little Ala Mhigo.
+TEXT_JOBMNK600_02031_TODO_01	Habla con Widargelt.
+TEXT_JOBMNK600_02031_TODO_02	Habla con Widargelt.
+TEXT_JOBMNK600_02031_WIDARGELT_000_000	Se acaba el tiempo. Pronto D'zentsa perderá la vida. Tenemos que actuar ya.
+TEXT_JOBMNK600_02031_WIDARGELT_000_001	Por desgracia, no la encontramos. La forma de abrir el séptimo chakra. Pero aun así debemos actuar.
+TEXT_JOBMNK600_02031_WIDARGELT_000_002	O'tchakha fue a Little Ala Mhigo. Teme por su amiga. Vamos con ella.
+TEXT_JOBMNK600_02031_WIDARGELT_000_010	Tenemos que rescatar a D'zentsa. Pero ¿cómo...?
+TEXT_JOBMNK600_02031_OTCHAKHA_000_050	Zentsa sigue viva, pero me temo que no por mucho tiempo. Hace apenas un momento la llevaron a las ruinas del sur.
+TEXT_JOBMNK600_02031_OTCHAKHA_000_051	Ya lo habrá oído, pero no encontré una forma sin derramamiento de sangre de abrir chakra del aspecto opuesto.
+TEXT_JOBMNK600_02031_OTCHAKHA_000_052	Hasta ahora usted abrió trece chakra, la mayor cantidad de los tres. Con uno más, podría enfrentarse a H'raha Tia de igual a igual...
+TEXT_JOBMNK600_02031_OTCHAKHA_000_053	¡Pelee conmigo, <split(<string(gstr1)>, ,1)>, y haga suyo el último chakra!
+TEXT_JOBMNK600_02031_Q1_000_000	¿Qué respondes?
+TEXT_JOBMNK600_02031_A1_000_010	Muy bien. Terminemos con esto.
+TEXT_JOBMNK600_02031_A1_000_020	No, este no es el camino.
+TEXT_JOBMNK600_02031_WIDARGELT_000_054	¡No, <if(gnum4,hermana,hermano)>! ¡Si O'tchakha muere, la victoria no tendría sentido!
+TEXT_JOBMNK600_02031_WIDARGELT_000_055	Necesitamos poder. Es cierto. Pero ¿a qué precio? Debes recordar lo que de verdad importa. O cometerás un grave error. Como el que cometí yo.
+TEXT_JOBMNK600_02031_WIDARGELT_000_056	Escucha a <split(<string(gstr1)>, ,1)>. Dice la verdad. No es el camino.
+TEXT_JOBMNK600_02031_WIDARGELT_000_057	Necesitamos poder. Es cierto. Pero ¿a qué precio? Si mueres, D'zentsa sufriría. La victoria no tendría sentido.
+TEXT_JOBMNK600_02031_WIDARGELT_000_058	Recuerda mis palabras. Quizás no tengamos todos los chakra abiertos. Pero nos tenemos unos a otros. Juntos podemos derrotar a H'raha Tia. Podemos rescatar a D'zentsa.
+TEXT_JOBMNK600_02031_WIDARGELT_000_059	Los discípulos de nuestras sectas pelearon una vez codo a codo. Hagámoslo de nuevo. Como en los viejos tiempos.
+TEXT_JOBMNK600_02031_OTCHAKHA_000_060	Gracias, Widargelt. Estaré a su lado.
+TEXT_JOBMNK600_02031_WIDARGELT_000_061	Primero intentaré persuadir a H'raha Tia. Hacerlo entrar en razón. Pero si mis palabras fallan, prepárense para pelear.
+TEXT_JOBMNK600_02031_OTCHAKHA_000_070	Llevaron a Zentsa a las ruinas del sur. ¡Tenemos que apurarnos antes de que sea demasiado tarde!
+TEXT_JOBMNK600_02031_WIDARGELT_000_099	Vamos a enfrentar a H'raha Tia. ¿Estás <if(gnum4,lista,listo)>, <if(gnum4,hermana,hermano)>?
+TEXT_JOBMNK600_02031_WIDARGELT_000_100	¡Escúchame, H'raha Tia! ¡Venimos, pero no a aceptar tus exigencias!
+TEXT_JOBMNK600_02031_WIDARGELT_000_101	¡No, venimos a recordarte el pasado! ¡La verdadera naturaleza de nuestra orden!
+TEXT_JOBMNK600_02031_WIDARGELT_000_102	Nuestras dos sectas pelearon una vez lado a lado. No una contra otra. Juntos podemos lograr mucho. Unamos nuestras manos, hermano. ¡Y reconstruyamos el Fist of Rhalgr!
+TEXT_JOBMNK600_02031_HRAHATIA_000_103	Hmph, los cobardes como usted deshonran nuestra orden. Está claro que es a <italic(1)>usted<italic(0)> a quien hay que recordarle nuestra verdadera naturaleza.
+TEXT_JOBMNK600_02031_HRAHATIA_000_104	El arduo entrenamiento para templar mente y cuerpo, la sangre que derramamos y perdemos... todo tiene un único propósito: honrar al Destroyer.
+TEXT_JOBMNK600_02031_HRAHATIA_000_105	Le rendimos un gran tributo batiéndonos a muerte. Y a cambio, Él nos concede un gran poder: el poder de los catorce chakra.
+TEXT_JOBMNK600_02031_HRAHATIA_000_106	Al aliarse con la casa real, los discípulos de la luz perdieron de vista su verdadera naturaleza. Por eso Rhalgr hizo caer la destrucción sobre ellos.
+TEXT_JOBMNK600_02031_HRAHATIA_000_107	Pero en Su sabiduría, a usted lo perdonó, para que su existencia, por débil que sea, sirviera para elevarnos más alto. ¡Sobre sus cuerpos maltrechos, el Fist of Rhalgr recuperará su antigua gloria!
+TEXT_JOBMNK600_02031_WIDARGELT_000_108	Te equivocas. La secta de la luz cayó, pero no por lo que dices. Usamos mal nuestro poder. Lo volvimos contra nuestro propio pueblo. Por <italic(1)>eso<italic(0)> nos derribaron.
+TEXT_JOBMNK600_02031_WIDARGELT_000_109	Ahora <italic(1)>tú<italic(0)> usas mal tu poder. Lo vuelves contra tus propios camaradas. Es lo mismo. Terminará igual. Se destruirán como nos destruimos nosotros.
+TEXT_JOBMNK600_02031_WIDARGELT_000_110	No cometas el mismo error, hermano. Si queremos sobrevivir, debemos encontrar otro camino. Una forma de prosperar juntos. O moriremos en vano. Todos nosotros.
+TEXT_JOBMNK600_02031_WIDARGELT_000_111	Quien tiene poder debe elegir. <italic(1)>Tú<italic(0)> debes elegir. ¿Lo usarás para abrirle camino a la vida? ¿O para destruirla? Sin duda, la elección es clara.
+TEXT_JOBMNK600_02031_HRAHATIA_000_112	Me cansa su palabrería. Ya dejaron claro que no piensan aceptar mis exigencias. No hay nada más que discutir.
+TEXT_JOBMNK600_02031_HRAHATIA_000_113	Atrapen viv<if(gnum4,a,o)> a <if(gnum4,la aventurera,el aventurero)>: todavía nos será útil. ¡Maten al resto!
+TEXT_JOBMNK600_02031_OTCHAKHA_000_500	¡Zentsa! ¡¿Estás bien?!
+TEXT_JOBMNK600_02031_DZENTSA_000_501	Vinieron... Gracias...
+TEXT_JOBMNK600_02031_HRAHATIA_000_502	Así que se volvieron contra mí, las dos. ¿Olvidaron quién las salvó hace tantos años?
+TEXT_JOBMNK600_02031_HRAHATIA_000_503	Pero me enorgullezco de ser un hombre indulgente. En lugar de una disculpa, aceptaré su fuerza vital.
+TEXT_JOBMNK600_02031_HRAHATIA_000_504	¡Jajajaja! ¡Su poder es mío! ¡Alégrense, mis alumnas descarriadas, de haberme sido útiles al final!
+TEXT_JOBMNK600_02031_HRAHATIA_000_505	¡Magnífico! ¡Mi cuerpo es como un horno ardiente! ¡Desatar mi técnica suprema será un juego de niños!
+TEXT_JOBMNK600_02031_HRAHATIA_000_506	¡Esto termina aquí!
+TEXT_JOBMNK600_02031_HRAHATIA_000_507	¡¿Qué?!
+TEXT_JOBMNK600_02031_WIDARGELT_000_508	¿Será posible? ¿Se te abrió el último chakra?
+TEXT_JOBMNK600_02031_DZENTSA_000_509	¡Es la única explicación! ¡Lo que significa que <split(<string(gstr1)>, ,1)> ahora está a la altura de H'raha Tia!
+TEXT_JOBMNK600_02031_OTCHAKHA_000_510	¡Si peleamos juntos, todavía podemos triunfar!
+TEXT_JOBMNK600_02031_HRAHATIA_000_511	¿Triunfar, dices? No recuerdo haber criado a una niña tan tonta.
+TEXT_JOBMNK600_02031_HRAHATIA_000_512	¡<split(<string(gstr1)>, ,1)> es como un bebé de pecho con su nuevo chakra, mientras que todo mi ser arde con la energía vital de tres monks!
+TEXT_JOBMNK600_02031_HRAHATIA_000_513	¡No importa cuántos sean! ¡No pueden esperar derrotarme!
+TEXT_JOBMNK600_02031_DZENTSA_000_600	Tchakha me contó todo. Gracias, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMNK600_02031_OTCHAKHA_000_605	Reencontrarme con Zentsa... No hay palabras para expresar mi alivio.
+TEXT_JOBMNK600_02031_WIDARGELT_000_700	Se terminó. Zentsa está a salvo. Juntos logramos lo imposible.
+TEXT_JOBMNK600_02031_WIDARGELT_000_701	Pero tengo el corazón pesado. No logré convencer a H'raha Tia.
+TEXT_JOBMNK600_02031_WIDARGELT_000_702	En cada paso que doy se derrama sangre. Con mi poder solo conozco la destrucción.
+TEXT_JOBMNK600_02031_DZENTSA_000_703	Eso no es cierto, Widargelt. El poder de un monk también puede usarse para salvar, como nos salvaste tú a nosotras.
+TEXT_JOBMNK600_02031_OTCHAKHA_000_704	Tenemos un favor que pedirle. Si todavía quiere reconstruir el Fist of Rhalgr, nos gustaría ayudarlo.
+TEXT_JOBMNK600_02031_DZENTSA_000_705	Traeríamos a los que quedan de nuestra secta. Juntos podemos devolverle a la orden lo que era, con discípulos de la luz y de la sombra lado a lado.
+TEXT_JOBMNK600_02031_DZENTSA_000_706	Y juntos podemos pensar qué significa el poder para nosotros. Si lo piensas a solas, la mente puede llevarte a un lugar oscuro. Mejor tener cerca camaradas que compartan tu causa, digo yo.
+TEXT_JOBMNK600_02031_OTCHAKHA_000_707	Ahora que H'raha Tia ya no está, <split(<string(gstr1)>, ,1)> es la única persona que queda que abrió los catorce chakra. Y es un alma bondadosa.
+TEXT_JOBMNK600_02031_OTCHAKHA_000_708	No buscó el poder por el poder mismo, y aun así alcanzó la cima de nuestro arte. Con eso hizo pedazos nuestras viejas ideas y nos mostró otro camino.
+TEXT_JOBMNK600_02031_OTCHAKHA_100_708	Y al abrir su último chakra deteniendo la técnica del maestro, nos dio la esperanza de que hay una forma de abrir <italic(1)>todos<italic(0)> los chakra sin derramar sangre.
+TEXT_JOBMNK600_02031_WIDARGELT_000_709	Gracias, D'zentsa, O'tchakha. Juntos crearemos un nuevo camino. ¡Y pondremos nuevos cimientos para nuestra orden!
+TEXT_JOBMNK600_02031_WIDARGELT_000_710	<split(<string(gstr1)>, ,1)>. Es a tu brillante ejemplo al que miramos.
+TEXT_JOBMNK600_02031_WIDARGELT_000_711	Eres como una estrella. La miramos desde abajo. Nos esforzamos por alcanzar su altura.
+TEXT_JOBMNK600_02031_WIDARGELT_000_712	El camino puede ser oscuro. Y puede estar lleno de penurias. Pero pase lo que pase, seguiremos adelante. Hacia tu luz.
+TEXT_JOBMNK600_02031_WIDARGELT_000_713	Prométeme esto, <if(gnum4,hermana,hermano)>. Usa siempre tus poderes para el bien. ¡Y por el reino!
+TEXT_JOBMNK600_02031_SYSTEM_000_500	Aquí terminan las misiones de monk de FINAL FANTASY XIV: Heavensward. Para empezar la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:
+TEXT_JOBMNK600_02031_SYSTEM_000_501	※Haber completado la misión de la historia principal "The Far Edge of Fate".
+TEXT_JOBMNK600_02031_SYSTEM_000_502	Una vez cumplidos, la siguiente misión de monk estará disponible con Erik.
+TEXT_JOBMNK600_02031_QIB_001_TODO_1	¡Contén a H'raha Tia hasta que D'zentsa esté libre!
+TEXT_JOBMNK600_02031_QIB_001_TODO_2	¡Derrota a H'raha Tia!
+TEXT_JOBMNK600_02031_QIB_001_WIDARGELT_BATTLETALK_PCDEAD	No fui lo bastante fuerte...
+TEXT_JOBMNK600_02031_QIB_001_OTCHAKHA_BATTLETALK_DEAD	Ugh... Cuiden a Zentsa, por favor...
+TEXT_JOBMNK600_02031_QIB_001_DZENTSA_BATTLETALK_DEAD	Lo siento, Tchakha...
+TEXT_JOBMNK600_02031_QIB_001_WIDARGELT_BATTLETALK_10	¡Contén a H'raha Tia, <split(<string(gstr1)>, ,1)>! ¡Nosotros desataremos a D'zentsa!
+TEXT_JOBMNK600_02031_QIB_001_OTCHAKHA_BATTLETALK_11	¡Aguanta, Zentsa!
+TEXT_JOBMNK600_02031_QIB_001_DZENTSA_BATTLETALK_12	¡¿Tchakha?! ¡¿Y ustedes dos también?!
+TEXT_JOBMNK600_02031_QIB_001_HRAHATIA_BATTLETALK_13	¿Creen que pueden derrotarme? ¡Necios!
+TEXT_JOBMNK600_02031_QIB_001_HRAHATIA_BATTLETALK_20	Impresionante. Quizás convenga otro enfoque.
+TEXT_JOBMNK600_02031_QIB_001_WIDARGELT_BATTLETALK_21	¡Cuidado, <split(<string(gstr1)>, ,1)>! ¡Siento un torrente de energía!
+TEXT_JOBMNK600_02031_QIB_001_HRAHATIA_BATTLETALK_22	Parece que su despertar está cerca. Qué curioso.
+TEXT_JOBMNK600_02031_QIB_001_OTCHAKHA_BATTLETALK_24	¡Sus filas se redujeron! ¡Es nuestra oportunidad!
+TEXT_JOBMNK600_02031_QIB_001_HRAHATIA_BATTLETALK_30	¡Qué poder! ¡Mi cuerpo apenas puede contenerlo!
+TEXT_JOBMNK600_02031_QIB_001_WIDARGELT_BATTLETALK_31	¡No temas, <if(gnum4,hermana,hermano)>! ¡Ahora estás a su altura!
+TEXT_JOBMNK600_02031_QIB_001_OTCHAKHA_BATTLETALK_32	¡Concéntrese en el maestro, <split(<string(gstr1)>, ,1)>! ¡Nosotras mantendremos ocupados a los demás!
+TEXT_JOBMNK600_02031_QIB_001_DZENTSA_BATTLETALK_33	¡Ya era hora de que sirviera para algo!
+TEXT_JOBMNK600_02031_QIB_001_HRAHATIA_BATTLETALK_40	¡Se acabó el juego! ¡Prepárense!
+TEXT_JOBMNK600_02031_QIB_001_WIDARGELT_BATTLETALK_41	¡Algo viene! ¡Cuidado!
+TEXT_JOBMNK600_02031_QIB_001_OTCHAKHA_BATTLETALK_42	¡Maestro, por favor! ¡Ya no hace falta pelear! ¡Hay otro camino!
+TEXT_JOBMNK600_02031_QIB_001_DZENTSA_BATTLETALK_43	¡<split(<string(gstr1)>, ,1)> abrió su último chakra, y lo hizo sin hacerte daño!
+TEXT_JOBMNK600_02031_QIB_001_HRAHATIA_BATTLETALK_44	Esto no cambia nada. El mío es el único camino verdadero. Peleamos para exaltar a Rhalgr.
+TEXT_JOBMNK600_02031_QIB_001_HRAHATIA_BATTLETALK_60	Así que esto termina aquí...

@@ -1,0 +1,80 @@
+key	text
+TEXT_JOBBRD540_01715_SEQ_00	Sanson consiguió información sobre la Ballad of Oblivion.
+TEXT_JOBBRD540_01715_SEQ_01	Sanson te cuenta que recibió de Ser Alamenain información sobre la Ballad of Oblivion. Concretamente, la mujer que según dicen canta la canción es una soldado destinada en el Convictory. Sanson anuncia que irán los tres a buscarla. Dirígete al campamento ishgardiano y reúnete con tus compañeros.
+TEXT_JOBBRD540_01715_SEQ_02	Encontraron a la soldado, Celaine. Sin embargo, aunque admite que canta la canción, se niega con obstinación a enseñársela. Ahora mismo Guydelot intenta sacársela con buenas palabras; pregúntale cómo le va.
+TEXT_JOBBRD540_01715_SEQ_03	No hay palabras que convenzan a Celaine de enseñarles la canción, y Guydelot no quiere insistirle más. Pero Sanson, decidido a cumplir su deber, propone un trato: los tres ayudarán a los ishgardianos en una operación para diezmar dragones a cambio de estar cerca por si Celaine usa la canción en batalla. Dirígete a Twinpools y preséntate ante el caballero de los Convictors para recibir instrucciones.
+TEXT_JOBBRD540_01715_SEQ_04	El caballero de los Convictors te pide que ayudes a diezmar a los dragones. Acecha en el lugar que marcó en tu mapa y derrota a las criaturas que aparezcan.
+TEXT_JOBBRD540_01715_SEQ_05	Acabaste con suficientes dragones. Reúnete con Sanson y los demás.
+TEXT_JOBBRD540_01715_SEQ_06	Aunque la operación es un éxito, los Convictors sufrieron muchas bajas. Llena de tristeza, Celaine empieza a cantar un réquiem por sus compañeros caídos, que Guydelot reconoce como la canción que envía las almas a los cielos. Sigue el ejemplo de Sanson y presenta tus respetos con /salute.
+TEXT_JOBBRD540_01715_SEQ_07	Agradecida por tu gesto, Celaine se abre con ustedes. Animada por Guydelot, decide disfrutar del tiempo que tiene con sus compañeros, en vez de mantenerlos a distancia para ahorrarse el dolor de perderlos. A su vez, les aconseja a Guydelot y a Sanson que aprecien la compañía del otro. Por último, habla del réquiem, que dice que le enseñó un erudito de la historia de Ishgard llamado Sylviel, que vive en el asentamiento de Tailfeather. Habla con Sanson para saber cuál será el siguiente paso.
+TEXT_JOBBRD540_01715_SEQ_08	Deciden ir a Tailfeather a buscar a Sylviel. Dirígete al asentamiento de las Dravanian Forelands y reúnete con tus compañeros.
+TEXT_JOBBRD540_01715_SEQ_09	Al parecer, Sylviel salió de Tailfeather en una de sus muchas expediciones, y tendrán que esperar a que vuelva. Como la misión los lleva a territorios cada vez más peligrosos, asegúrate de estar <if(gnum4,preparada,preparado)> para lo que venga.<br><br>※La siguiente misión de bard estará disponible al llegar al nivel 56.
+TEXT_JOBBRD540_01715_TODO_00	Habla con Sanson.
+TEXT_JOBBRD540_01715_TODO_01	Habla con Guydelot.
+TEXT_JOBBRD540_01715_TODO_02	Habla con el caballero de los Convictors.
+TEXT_JOBBRD540_01715_TODO_03	Acecha en el lugar indicado y derrota a los dragones que aparezcan.
+TEXT_JOBBRD540_01715_TODO_04	Habla con Sanson.
+TEXT_JOBBRD540_01715_TODO_05	Usa /salute con Celaine.
+TEXT_JOBBRD540_01715_TODO_06	Habla con Sanson.
+TEXT_JOBBRD540_01715_TODO_07	Habla con Sanson en Tailfeather.
+TEXT_JOBBRD540_01715_GUYDELOT_000_000	Ser bard es dejar que el corazón te guíe tanto como la cabeza.<br>...Eso pienso yo, al menos.
+TEXT_JOBBRD540_01715_SANSON_000_005	¡Buenas noticias, <split(<string(gstr1)>, ,1)>! ¡Recibimos información de Ser Alamenain sobre la Ballad of Oblivion!
+TEXT_JOBBRD540_01715_SANSON_000_006	Recordará a la mujer que mencionó, la que envía las almas a los cielos con una canción. Al parecer es una soldado destinada en el Convictory. ¡Vamos allá de inmediato!
+TEXT_JOBBRD540_01715_SANSON_000_007	¡Guydelot, usted viene con nosotros!
+TEXT_JOBBRD540_01715_CELAINE_000_010	Lo siento, pero la respuesta es no.
+TEXT_JOBBRD540_01715_GUYDELOT_000_011	Bueno, si no estás dispuesta, no te voy a presionar. Una canción no es algo que se le pueda sacar a la fuerza a nadie.
+TEXT_JOBBRD540_01715_SANSON_000_015	Encontramos a la soldado, <split(<string(gstr1)>, ,1)>: se llama Celaine. Por desgracia, aunque admite que canta la canción, se niega a enseñárnosla.
+TEXT_JOBBRD540_01715_SANSON_000_016	Guydelot hace lo posible por sacársela con buenas palabras. Por una vez, su talento con las mujeres quizás sirva a una causa honorable.
+TEXT_JOBBRD540_01715_SANSON_000_020	Guydelot hace lo posible por convencer a Celaine de que nos enseñe su canción. Por una vez, su talento con las mujeres quizás sirva a una causa honorable.
+TEXT_JOBBRD540_01715_GUYDELOT_000_025	No vas a cantar para nosotros; no tengo problema con eso. Pero ¿podrías al menos decirnos por qué? Nos ayudaría a llevar mejor la decepción.
+TEXT_JOBBRD540_01715_CELAINE_000_026	No soy bard, solo una simple soldado. Y no es una canción que cantaría por gusto.
+TEXT_JOBBRD540_01715_GUYDELOT_000_027	La dama habló. Me parece que no hay nada más que podamos hacer.
+TEXT_JOBBRD540_01715_SANSON_000_028	¿Va a rendirse así nada más? ¡Tenemos un deber que cumplir!
+TEXT_JOBBRD540_01715_SANSON_000_030	Disculpe, pero su compañero me dio a entender que pronto se llevará a cabo una operación.
+TEXT_JOBBRD540_01715_CELAINE_000_031	Sí, los dragones son cada vez más, y vamos a diezmarlos.
+TEXT_JOBBRD540_01715_SANSON_000_032	Si no tiene inconveniente, quisiéramos prestarle nuestra ayuda. A la operación le vendrían bien unas manos más, y si tiene ocasión de usar la canción en batalla, podríamos oírla.
+TEXT_JOBBRD540_01715_CELAINE_000_033	...Muy bien. Pueden unirse, pero con una condición: solo darán apoyo a nuestras fuerzas.
+TEXT_JOBBRD540_01715_SANSON_000_034	Bien, tenemos trabajo. La operación será en Twinpools, al noroeste. Presentémonos ante el comandante y ofrezcámosle nuestra ayuda.
+TEXT_JOBBRD540_01715_GUYDELOT_000_035	Y él que hace un berrinche cuando yo hago algo espontáneo. Hmph.
+TEXT_JOBBRD540_01715_GUYDELOT_000_036	Bueno, seamos útiles, de la única forma en que un bard sabe serlo.
+TEXT_JOBBRD540_01715_SANSON_000_040	Sé muy bien que esto es bastante repentino, pero es por el bien de nuestra misión.
+TEXT_JOBBRD540_01715_CELAINE_000_041	Recuerden: solo darán apoyo.
+TEXT_JOBBRD540_01715_GUYDELOT_000_042	Quédate tranquila, no pienso lanzarme a la refriega. No, señora, me conformo con quedarme atrás y rasguear una canción o tres.
+TEXT_JOBBRD540_01715_CAVALRY01715_000_045	¿Se unirán a nosotros en la caza? ¡La Holy See se lo agradece!
+TEXT_JOBBRD540_01715_CAVALRY01715_000_046	Ya que es hábil con el arco, puede ayudarnos a diezmar a las bestias. Le marcaré un lugar en el mapa; le ruego que concentre sus esfuerzos en esa zona.
+TEXT_JOBBRD540_01715_SANSON_000_047	Me quedaré cerca, por si tiene ocasión de usar la canción.
+TEXT_JOBBRD540_01715_CELAINE_000_048	Hagan lo que quieran. Solo procuren no excederse.
+TEXT_JOBBRD540_01715_GUYDELOT_000_049	Ir a nuestras posiciones asignadas, hacer lo de siempre... ¡parece bastante sencillo!
+TEXT_JOBBRD540_01715_CAVALRY01715_000_055	Ya que es hábil con el arco, puede ayudarnos a diezmar a los dragones. Le ruego que concentre sus esfuerzos en la zona que le marqué en el mapa.
+TEXT_JOBBRD540_01715_SANSON_000_056	¡No me apartaré ni un fulm del lado de Celaine!
+TEXT_JOBBRD540_01715_CELAINE_000_057	¡Atrás! ¡No me hagan repetirlo!
+TEXT_JOBBRD540_01715_GUYDELOT_000_058	¿No deberías estar en otra parte, <split(<string(gstr1)>, ,1)>? Déjanos este lugar a nosotros y ve al tuyo.
+TEXT_JOBBRD540_01715_CELAINE_000_060	Otra vez, tantas vidas perdidas...
+TEXT_JOBBRD540_01715_GUYDELOT_000_061	Por fin terminó la caza. No tenía idea de que los dragones fueran tan malditamente duros. Y esos eran los <italic(1)>menores<italic(0)>.
+TEXT_JOBBRD540_01715_SANSON_000_065	Celaine no cantó la canción ni una vez...
+TEXT_JOBBRD540_01715_SANSON_000_066	Y aunque la operación en sí fue un éxito, su gente sufrió muchas bajas.
+TEXT_JOBBRD540_01715_CELAINE_000_067	Adiós, amigos míos. Su sacrificio no será olvidado.
+TEXT_JOBBRD540_01715_CELAINE_100_067	Descansen ya, almas valientes,♪<br>reposen su cabeza cansada.♪<br>Vayan al regazo de la Fury,♪<br>por cuyo nombre su sangre fue derramada.♪
+TEXT_JOBBRD540_01715_SANSON_000_068	¿Un réquiem?
+TEXT_JOBBRD540_01715_GUYDELOT_000_070	La canción que envía las almas a los cielos... Así que <italic(1)>esto<italic(0)> era.
+TEXT_JOBBRD540_01715_SANSON_000_072	¿Yo intentaba hacerle cantar una canción de duelo? Que los dioses me fulminen por necio insensible...
+TEXT_JOBBRD540_01715_GUYDELOT_000_073	Por una vez, Sanson tiene razón. Presentemos nuestros respetos a los compañeros caídos de Celaine.
+TEXT_JOBBRD540_01715_SANSON_000_075	Que los dioses me fulminen por necio insensible...
+TEXT_JOBBRD540_01715_GUYDELOT_000_076	Por una vez, Sanson tiene razón. Presentemos nuestros respetos a los compañeros caídos de Celaine.
+TEXT_JOBBRD540_01715_SYSTEM_100_080	Presenta tus respetos <colortype(500)><edgecolortype(501)>saludando<edgecolortype(0)><colortype(0)> a Celaine.
+TEXT_JOBBRD540_01715_CELAINE_000_080	No tienen por qué sentirse mal. La culpa es mía por no darles una explicación como corresponde.
+TEXT_JOBBRD540_01715_CELAINE_000_081	En esta guerra caen hombres con demasiada frecuencia. Para ahorrarme el dolor de perderlos, mantuve a mis compañeros a distancia. Pero siempre termino atormentada por no haberme acercado a ellos antes de que se los llevaran.
+TEXT_JOBBRD540_01715_GUYDELOT_000_082	Sí, mucho mejor probar el dolor que vivir con remordimientos. No hay por qué privarse de la alegría de la amistad.
+TEXT_JOBBRD540_01715_CELAINE_000_083	No lo haré. Ya no. Aprenderé a disfrutar del tiempo que tengo con mis compañeros... y ustedes deberían hacer lo mismo.
+TEXT_JOBBRD540_01715_CELAINE_000_084	Ustedes dos discuten como un viejo matrimonio, pero la vida es demasiado corta para desperdiciarla peleando con los suyos. Así que dejen de lado sus diferencias y disfruten de la compañía del otro mientras puedan.
+TEXT_JOBBRD540_01715_CELAINE_000_085	En cuanto al réquiem que canté... me lo enseñó un erudito de la historia de Ishgard. Si hay alguien que conozca la canción que buscan, es él.
+TEXT_JOBBRD540_01715_CELAINE_000_086	Se llama Sylviel, y lo encontrarán en Tailfeather. Les sugiero que vayan a verlo. Me despido.
+TEXT_JOBBRD540_01715_GUYDELOT_000_090	La canción de Celaine era sencilla, pero la cantó con todo el corazón. Ahí está el poder de un bard.
+TEXT_JOBBRD540_01715_SANSON_000_095	Vayamos a Tailfeather, como recomienda Celaine. Ese Sylviel quizás conozca la canción, y si no, al menos podrá indicarnos dónde buscarla.
+TEXT_JOBBRD540_01715_GUYDELOT_000_096	Es el deseo ferviente de ayudar a nuestros compañeros lo que les da poder a nuestras canciones.
+TEXT_JOBBRD540_01715_GUYDELOT_000_097	Me hace pensar: ¿qué clase de deseo hace falta para una canción que lo destruye todo?
+TEXT_JOBBRD540_01715_GUYDELOT_000_100	Estoy probando acordes para acompañar la melodía de Celaine.
+TEXT_JOBBRD540_01715_SANSON_000_105	Parece que Sylviel salió en una de sus expediciones. Tendremos que esperar a que vuelva.
+TEXT_JOBBRD540_01715_GUYDELOT_000_106	Dime, <split(<string(gstr1)>, ,1)>, ¿qué piensas de las luchas internas de Celaine?
+TEXT_JOBBRD540_01715_GUYDELOT_000_107	...Eso es profundo, <if(gnum4,hermana,hermano)>. Muy perspicaz. Lástima que Sanson no lo entienda: el desgraciado no tiene ojos más que para su maldito tomo.
+TEXT_JOBBRD540_01715_SANSON_000_108	Nuestra misión nos lleva a territorios cada vez más peligrosos. Le ruego que se asegure de estar <if(gnum4,preparada,preparado)> para las pruebas que vienen.

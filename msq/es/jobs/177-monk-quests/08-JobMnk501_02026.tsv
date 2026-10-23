@@ -1,0 +1,83 @@
+key	text
+TEXT_JOBMNK501_02026_SEQ_00	Al Profesor Erik le preocupa un amigo en común, aunque sería el último en admitirlo.
+TEXT_JOBMNK501_02026_SEQ_01	El Profesor Erik te cuenta que tu amigo y compañero monk Widargelt dejó atrás su deseo de venganza, que lo consumía, y ahora busca reconstruir el Fist of Rhalgr. Para eso empezó a tomar alumnos, a los que entrena en Revenant's Toll. El buen profesor te pide que vayas a ver a Widargelt, para que dejes de preocuparte por tu amigo.
+TEXT_JOBMNK501_02026_SEQ_02	Widargelt te presenta a dos de sus alumnas más prometedoras, D'zentsa y O'tchakha, unas huérfanas que un día se presentaron ante él. Como su mayor y su principal discípul<if(gnum4,a,o)>, Widargelt te pide ahora que ayudes en su entrenamiento. Reúnete con Widargelt al sureste de Revenant's Toll.
+TEXT_JOBMNK501_02026_SEQ_03	Primero, Widargelt te pide que le demuestres tu destreza a D'zentsa. Búscala al noreste y derrota a los enemigos que aparezcan.
+TEXT_JOBMNK501_02026_SEQ_04	Derribaste a tu temible enemigo con facilidad. Vuelve con D'zentsa.
+TEXT_JOBMNK501_02026_SEQ_05	Te ganaste el respeto y la admiración de D'zentsa. Ahora le toca a O'tchakha disfrutar de una muestra de tus sublimes habilidades. Búscala al sur y derrota a los enemigos que aparezcan.
+TEXT_JOBMNK501_02026_SEQ_06	Derribaste a más enemigos temibles con facilidad. Vuelve con O'tchakha.
+TEXT_JOBMNK501_02026_SEQ_07	También te ganaste el respeto y la admiración de O'tchakha. Pero mientras las dos amigas hablan entusiasmadas de entrenar contigo, se oye un grito. Parece que Widargelt está en peligro. Apúrate a volver al lugar donde lo dejaste.
+TEXT_JOBMNK501_02026_SEQ_08	Al llegar encuentras a Widargelt solo y de rodillas; sus atacantes ya huyeron. Te explica que lo atacaron unos hombres extraños que peleaban al estilo de los monks. Durante el encuentro parece que se le abrió un nuevo chakra, aunque la sensación no se parecía a nada que hubiera sentido antes. Por ahora, vuelve a la seguridad de Revenant's Toll y reúnete con tus compañeros monks.
+TEXT_JOBMNK501_02026_SEQ_09	Widargelt te cuenta en detalle su encuentro con los hombres extraños. Mientras se defendía, un dolor repentino le recorrió el cuerpo, como si algo lo atravesara. Aunque está seguro de que se le abrió un chakra, no cree que sea el séptimo. A falta de una explicación, dice que le pedirá consejo al Profesor Erik. Si este fenómeno resulta ser una nueva fuente de poder, Widargelt promete compartir sus secretos contigo.<br><br>※La siguiente misión de monk estará disponible con Widargelt al llegar al nivel 52.
+TEXT_JOBMNK501_02026_TODO_00	Habla con Widargelt en Revenant's Toll.
+TEXT_JOBMNK501_02026_TODO_01	Habla con Widargelt al sureste de Revenant's Toll.
+TEXT_JOBMNK501_02026_TODO_02	Habla con D'zentsa y derrota a los enemigos que aparezcan.
+TEXT_JOBMNK501_02026_TODO_03	Habla con D'zentsa.
+TEXT_JOBMNK501_02026_TODO_04	Habla con O'tchakha y derrota a los enemigos que aparezcan.
+TEXT_JOBMNK501_02026_TODO_05	Habla con O'tchakha.
+TEXT_JOBMNK501_02026_TODO_06	Habla con Widargelt.
+TEXT_JOBMNK501_02026_TODO_07	Habla con Widargelt en Revenant's Toll.
+TEXT_JOBMNK501_02026_ERIK_000_000	¡Ah, <split(<string(gstr1)>, ,1)>! ¡Tu sentido de la oportunidad es impecable como siempre! Lástima que tu mente nunca fuera igual de confiable.
+TEXT_JOBMNK501_02026_ERIK_000_001	Pero no te preocupes, que la tarea que quiero encargarte no le exigirá demasiado a tu limitado intelecto. Tiene que ver con tu amigo monk, Widargelt.
+TEXT_JOBMNK501_02026_ERIK_000_002	No sorprenderá a nadie, pero mis sabias palabras le llegaron al zoquete. Ahora que entendió que en la vida hay algo más que la venganza, dedica sus energías a fines más constructivos. A saber, reconstruir su orden, el Fist of Rhalgr.
+TEXT_JOBMNK501_02026_ERIK_000_003	De hecho, empezó a tomar alumnos, y se rumorea que enseña con carisma y celo. Está claro que se le pegó algo de mi propia brillantez como tutor.
+TEXT_JOBMNK501_02026_ERIK_000_004	¿Y cuál es la tarea que quiero encargarte? Tomar más lecturas con mi aetherometer, pensarás sin duda. ¡Falso! Tú más que nadie deberías saber que terminé con esa investigación. ¡Y qué triunfo fue!
+TEXT_JOBMNK501_02026_ERIK_000_005	Claro que quizás vuelva a necesitar tu talento para el trabajo de campo en el futuro. Por ahora, sin embargo, solo quiero que vayas a ver cómo le va a Widargelt. Y no vayas a creer que me preocupa ese tonto. ¡Ni se te ocurra!
+TEXT_JOBMNK501_02026_ERIK_000_006	Como <if(gnum4,hermana,hermano)> del camino, <italic(1)>tú<italic(0)> estarás preocupad<if(gnum4,a,o)> por él, aunque todavía no se te haya ocurrido. Así que me tomo la libertad de decirte lo que tienes que hacer para aliviar esa preocupación.
+TEXT_JOBMNK501_02026_ERIK_000_007	Widargelt entrena a sus alumnos en Revenant's Toll. Con eso tienes toda la información que necesitas. ¡Así que en marcha!
+TEXT_JOBMNK501_02026_ERIK_000_015	Widargelt entrena a sus alumnos en Revenant's Toll. Ve allí y mira cómo le va a tu amigo.
+TEXT_JOBMNK501_02026_WIDARGELT_000_050	<split(<string(gstr1)>, ,1)>. Pasó tiempo, <if(gnum4,hermana,hermano)>. ¿Qué te trae por aquí?
+TEXT_JOBMNK501_02026_WIDARGELT_000_051	Así que te manda el profesor. Pero no importa por qué viniste. Me alegra tu visita.
+TEXT_JOBMNK501_02026_WIDARGELT_000_052	Así es, empecé a enseñar. Quiero preservar nuestro camino. Transmitir nuestro arte a una nueva generación. Aunque yo mismo todavía tengo mucho que aprender.
+TEXT_JOBMNK501_02026_WIDARGELT_000_053	Por ahora tengo pocos alumnos. Pero poco a poco van siendo más.
+TEXT_JOBMNK501_02026_WIDARGELT_000_054	Te presentaré a algunos. Dos muchachas muy prometedoras. ¿Quizás podrías ayudar en su entrenamiento?
+TEXT_JOBMNK501_02026_WIDARGELT_000_055	¡D'zentsa, O'tchakha!
+TEXT_JOBMNK501_02026_DZENTSA_000_055	¿Qué pasa, Maestro Widargelt? ¿Llegó alguien nuevo?
+TEXT_JOBMNK501_02026_WIDARGELT_000_056	No, no es <if(gnum4,una alumna nueva,un alumno nuevo)>. Es <if(gnum4,una antigua,uno antiguo)>. <if(gnum4,La primera y la mejor,El primero y el mejor)>. Hace tiempo que me superó.
+TEXT_JOBMNK501_02026_WIDARGELT_000_057	Se llama <split(<string(gstr1)>, ,1)>. Hoy entrenarán bajo su supervisión. Una oportunidad excelente. Vayan al lugar de siempre y prepárense.
+TEXT_JOBMNK501_02026_DZENTSA_000_058	¡Je, siempre quise tener a alguien mayor que me enseñara! ¡Nos vemos en un rato, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBMNK501_02026_OTCHAKHA_000_059	¡Zentsa, espera! \<suspiro> Disculpe a Zentsa. A veces se le olvidan los modales, pero tiene buen corazón. Será un honor para nosotras que nos observe, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMNK501_02026_WIDARGELT_000_060	A esas dos las abandonaron sus padres. Un día vinieron y me rogaron que les enseñara. Son muy dedicadas. Aprenden muy rápido. Cada día es gratificante.
+TEXT_JOBMNK501_02026_WIDARGELT_000_061	Pero vamos, vayamos al lugar de entrenamiento. Nos vemos al sureste de Revenant's Toll.
+TEXT_JOBMNK501_02026_WIDARGELT_000_100	No tenemos un lugar propio para entrenar. Ni salas propias. Mis alumnos entrenan donde pueden.
+TEXT_JOBMNK501_02026_WIDARGELT_000_101	Primero, quiero que le demuestres tus habilidades a D'zentsa. Te espera al noreste.
+TEXT_JOBMNK501_02026_WIDARGELT_000_110	D'zentsa te espera al noreste. Demuéstrale tus habilidades.
+TEXT_JOBMNK501_02026_DZENTSA_000_120	¡Te estaba esperando! El maestro tiene muy buena opinión de ti, ¡así que más te vale no decepcionarme!
+TEXT_JOBMNK501_02026_DZENTSA_000_130	Uau, de verdad <italic(1)>eres<italic(0)> fuerte... Y yo que me sentía tan orgullosa de mí misma. El mundo es enorme, ¿no?
+TEXT_JOBMNK501_02026_DZENTSA_000_131	¿Así que ahora le vas a hacer una demostración a Tchakha? ¡Je, va a quedar impresionadísima!
+TEXT_JOBMNK501_02026_DZENTSA_000_132	Hemos estado juntas toda la vida, por si te lo preguntas. ¡Podemos leernos los pensamientos como si fueran propios!
+TEXT_JOBMNK501_02026_DZENTSA_000_103	¡Vamos, te llevo con ella! ¡Debería estar por el sur!
+TEXT_JOBMNK501_02026_DZENTSA_000_110	¡Apúrate y muéstrale tus habilidades a Tchakha!
+TEXT_JOBMNK501_02026_OTCHAKHA_000_150	La esperaba con muchas ganas, <if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,1)>. Zentsa me dice que me espera algo especial, que no debo ni pestañear.
+TEXT_JOBMNK501_02026_OTCHAKHA_000_151	¡Mi corazón late con fuerza esperando su demostración! ¡Empiece cuando esté <if(gnum4,lista,listo)>, por favor!
+TEXT_JOBMNK501_02026_DZENTSA_000_155	¡Uau, eso fue todavía mejor que lo que me mostraste a mí!
+TEXT_JOBMNK501_02026_OTCHAKHA_000_200	¡Es tan increíble como dijo Zentsa! ¡Aunque el maestro mismo lo dijo, yo no creía que nadie pudiera ser más fuerte que él!
+TEXT_JOBMNK501_02026_DZENTSA_000_201	¿Ves? ¡La dejaste boquiabierta, tal como te dije!
+TEXT_JOBMNK501_02026_OTCHAKHA_000_202	¡Ay, Zentsa! ¡Nunca estuve tan emocionada! ¡Quiero aprender todo lo que sabe <if(gnum4,la Señora,el Señor)> <split(<string(gstr1)>, ,1)>! ¡<italic(1)>Todo<italic(0)>!
+TEXT_JOBMNK501_02026_DZENTSA_000_203	¡Yo también, Tchakha! ¡Con su ayuda vamos a volvernos más fuertes de lo que nunca nos atrevimos a esperar!
+TEXT_JOBMNK501_02026_OTCHAKHA_000_204	Al crecer solas, Zentsa y yo sufrimos mucho por ser débiles y no poder protegernos.
+TEXT_JOBMNK501_02026_OTCHAKHA_000_205	Por eso nos juramos que nos volveríamos fuertes. ¡Si pudiéramos ser tan fuertes como usted, no tendríamos nada que temer!
+TEXT_JOBMNK501_02026_DZENTSA_000_206	¡Bueno! Me estuve preguntando para qué sirve Four-point Fury...
+TEXT_JOBMNK501_02026_WIDARGELT_000_207	(-Widargelt-)¡¿Quiénes son?! ¡¿Qué quieren?!
+TEXT_JOBMNK501_02026_DZENTSA_000_208	¡Ese fue el Maestro Widargelt!
+TEXT_JOBMNK501_02026_DZENTSA_000_230	¡Maestro! ¡¿Estás bien?!
+TEXT_JOBMNK501_02026_WIDARGELT_000_300	¿Ustedes... no sufrieron daño?
+TEXT_JOBMNK501_02026_DZENTSA_000_301	¡Estamos bien, Maestro, eres tú quien nos preocupa! ¡¿Qué pasó?!
+TEXT_JOBMNK501_02026_WIDARGELT_000_302	Vinieron unos desconocidos. Atacaron sin aviso. Las técnicas que usaron eran las mismas que las nuestras.
+TEXT_JOBMNK501_02026_OTCHAKHA_000_303	¿Las mismas que las nuestras? ¿Quiere decir que eran monks? Pero yo creía que no había otros aparte de nosotros...
+TEXT_JOBMNK501_02026_WIDARGELT_000_304	Yo fui el único que sobrevivió a la masacre del templo. No debería haber...<br>Ugh... Esta sensación...
+TEXT_JOBMNK501_02026_WIDARGELT_000_305	Un nuevo poder crece dentro de mí. Como si se hubiera abierto un nuevo chakra. Pero no se parece a nada que haya sentido antes.
+TEXT_JOBMNK501_02026_DZENTSA_000_306	Tchakha, aquí hubo una batalla famosa, ¿no?
+TEXT_JOBMNK501_02026_OTCHAKHA_000_307	Sí, así es: la Battle of Silvertear Skies. Lo que significa que aquí se pueden abrir los chakra. Pero, a juzgar por el estado del maestro, me inclino a pensar que la causa fue otra.
+TEXT_JOBMNK501_02026_WIDARGELT_000_308	Volvamos a Revenant's Toll. Necesito descansar.
+TEXT_JOBMNK501_02026_WIDARGELT_000_400	Me siento mejor. El dolor pasó.
+TEXT_JOBMNK501_02026_WIDARGELT_000_401	Vinieron poco después de que se fueran. Hombres enmascarados que pelean como nosotros. Eran monks. De eso estoy seguro.
+TEXT_JOBMNK501_02026_WIDARGELT_000_402	Me superaban en número. Los contuve. Pero un dolor repentino me recorrió el cuerpo. Como si me atravesaran. Caí de rodillas.
+TEXT_JOBMNK501_02026_WIDARGELT_000_403	Cuando volví en mí, mis atacantes se habían ido. Lo más probable es que huyeran al oírlos llegar.
+TEXT_JOBMNK501_02026_WIDARGELT_000_404	La sensación que tuve. Se parece a la apertura de un chakra. Pero tampoco es el séptimo chakra.
+TEXT_JOBMNK501_02026_DZENTSA_000_405	Si no es el séptimo chakra, ¿entonces qué puede ser?
+TEXT_JOBMNK501_02026_WIDARGELT_000_406	No lo sé. Tengo que preguntarle a alguien más sabio que yo. Al Profesor Erik. Conoce la historia de nuestra orden. Quizás pueda encontrar más información.
+TEXT_JOBMNK501_02026_WIDARGELT_100_406	D'zentsa, O'tchakha. Vuelvan a su entrenamiento.
+TEXT_JOBMNK501_02026_WIDARGELT_000_407	<split(<string(gstr1)>, ,1)>. Esto podría ser una nueva fuente de poder. Si es así, quiero compartir sus secretos contigo. Si averiguo algo, te lo haré saber.
+TEXT_JOBMNK501_02026_SYSTEM_000_500	La siguiente misión de monk estará disponible con Widargelt al llegar al nivel 52.
+TEXT_JOBMNK501_02026_SYSTEM_000_501	Puedes consultar en tu journal los requisitos para empezar las siguientes misiones.

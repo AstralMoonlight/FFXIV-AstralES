@@ -1,0 +1,137 @@
+key	text
+TEXT_JOBMNK700_02430_SEQ_00	Widargelt aprieta la mandíbula con aire decidido.
+TEXT_JOBMNK700_02430_SEQ_01	Ahora que Erik se recuperó de sus heridas, Widargelt está listo para desafiar a Theobald. Para evitar el riesgo de un derramamiento de sangre prematuro, te encargaron llevarle la carta a su rival, que tiene su escondite en Rustrock.
+TEXT_JOBMNK700_02430_SEQ_02	Le entregas la carta de desafío a Theobald, que la acepta con altanería. Llévale la noticia a Widargelt, en Schism.
+TEXT_JOBMNK700_02430_SEQ_03	Theobald llega a la hora fijada, y Widargelt y él se enfrentan ante los aldeanos reunidos. Pero antes de que vuelen los puños, se revela que Theobald es en realidad Adri, el querido camarada de Widargelt de sus tiempos en el Temple of the Fist. Al sentirse impotente por su origen humilde, le guarda rencor a Widargelt por despreciar su sangre real y el poder que representa. Cuando se acaban las palabras y empiezan a pelear, queda claro que Widargelt lleva ventaja, y Adri llama a sus secuaces en su ayuda y recurre a armamento imperial. Por suerte, aparece Hamon con Chuchuto y Rurukuta, que se enteraron del duelo, y se unen a la refriega para equilibrar las fuerzas. Tras una larga lucha, tú y los tuyos salen victoriosos.
+TEXT_JOBMNK700_02430_SEQ_04	Ante una multitud que lo aclama, Widargelt renueva su promesa de revivir el Fist of Rhalgr. Cuando todo se calma, habla con tus camaradas para saber qué piensan del desenlace.
+TEXT_JOBMNK700_02430_SEQ_05	Tras elogiar a Widargelt por su sentido discurso, Hamon vuelve a Ul'dah con sus dos alumnos. D'zentsa y O'tchakha, por su parte, reafirman su decisión de volverse más fuertes para apoyar mejor a su maestro en su empresa. Por último, Erik te agradece el papel que tuviste en ayudar a Widargelt a seguir adelante frente a la adversidad. Ahora que los demás se fueron, puedes dedicarle toda tu atención a tu hermano monk.
+TEXT_JOBMNK700_02430_SEQ_06	Widargelt reflexiona sobre todas las lecciones que aprendió y se despide de ti para retomar su misión de revivir el Fist of Rhalgr. Hasta que sus caminos vuelvan a cruzarse, sigue ayudando a los demás como lo ayudaste a él.<br><br>※La siguiente misión de monk estará disponible con Erik cuando cumplas los siguientes requisitos:<br>※Haber completado la misión de la historia principal "Shadowbringers".<br>※Haber completado la misión de rol "Courage Born of Fear".
+TEXT_JOBMNK700_02430_TODO_00	Llévale el desafío de Widargelt a Theobald, en Rustrock.
+TEXT_JOBMNK700_02430_TODO_01	Habla con Widargelt en Schism.
+TEXT_JOBMNK700_02430_TODO_02	Habla con Widargelt en Schism.
+TEXT_JOBMNK700_02430_TODO_03	Habla con Hamon.
+TEXT_JOBMNK700_02430_TODO_04	Habla con O'tchakha.
+TEXT_JOBMNK700_02430_TODO_05	Habla con Erik.
+TEXT_JOBMNK700_02430_TODO_06	Habla con Widargelt.
+TEXT_JOBMNK700_02430_WIDARGELT_000_001	El profesor ya está bien. Llegó la hora. Desafiaré a Theobald.
+TEXT_JOBMNK700_02430_WIDARGELT_000_002	Él y sus secuaces usan Rustrock como escondite. Pero ¿quién debería llevar la carta allí?
+TEXT_JOBMNK700_02430_Q1_000_000	¿Quién debería llevar la carta de desafío?
+TEXT_JOBMNK700_02430_A1_000_001	Iré yo.
+TEXT_JOBMNK700_02430_A1_000_002	Deberías ir tú.
+TEXT_JOBMNK700_02430_WIDARGELT_000_003	¿Tú, <if(gnum4,hermana,hermano)>? ¿Es prudente? ¿Y si vuelven a atacarte? No, mejor voy yo.
+TEXT_JOBMNK700_02430_WIDARGELT_000_004	Tienes razón, <if(gnum4,hermana,hermano)>. Lo apropiado es que vaya yo.
+TEXT_JOBMNK700_02430_OTCHAKHA_000_005	Maestro, espere. Si usted lleva la carta, sin duda terminará en sangre. Debería ir <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMNK700_02430_DZENTSA_000_006	Sin un rehén no pueden hacer ninguna jugada sucia. No se atreverían a meterse otra vez con <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMNK700_02430_WIDARGELT_000_007	Muy bien. Te confío esta carta. Llévala a Rustrock. Y asegúrate de que llegue a manos de Theobald.
+TEXT_JOBMNK700_02430_DZENTSA_000_010	¡Les vamos a devolver lo que nos hicieron, y con creces!
+TEXT_JOBMNK700_02430_OTCHAKHA_000_015	El Maestro Widargelt vencerá. Con su entrenamiento, sé que lo hará.
+TEXT_JOBMNK700_02430_THEOBALD_000_020	Ah, te recuerdo: <if(gnum4,la amiga,el amigo)> de esos monks patéticos. Eres audaz por venir aquí. ¿Qué quieres?
+TEXT_JOBMNK700_02430_THEOBALD_000_021	...¿Una carta de desafío? Hmph, una práctica anticuada, digna de un estilo moribundo, y mucho esfuerzo para terminar perdiendo.
+TEXT_JOBMNK700_02430_THEOBALD_000_022	Acepto. De hecho, ya preveía que tendría que darle otra paliza a ese tonto testarudo.
+TEXT_JOBMNK700_02430_THEOBALD_000_023	Estaré en Schism. Y puedes decirle a Widargelt, no, a mi querido primo Theodred, que haría bien en traer un ataúd.
+TEXT_JOBMNK700_02430_WIDARGELT_000_025	Lo que nos enseñaste. Lo pondré en práctica en el duelo.
+TEXT_JOBMNK700_02430_WIDARGELT_000_030	¿Entregaste la carta? Gracias, <if(gnum4,hermana,hermano)>.
+TEXT_JOBMNK700_02430_WIDARGELT_000_031	Invité a la gente de Ala Gannha. Ellos también serán testigos.
+TEXT_JOBMNK700_02430_WIDARGELT_000_032	Será un combate singular. Pero mi rival no tiene escrúpulos. Lo sabemos bien. Así que debemos estar preparados para todo.
+TEXT_JOBMNK700_02430_WIDARGELT_200_032	Pero pase lo que pase, confío en que venceremos. Porque mientras entrenaba desperté a un nuevo poder. El poder de proteger.
+TEXT_JOBMNK700_02430_THEOBALD_000_033	¿En serio? ¿Público? Bueno, si estás decidido a hacer un espectáculo de tu muerte, ¿quién soy yo para impedirlo? Que todos los presentes sean testigos de la muerte del Fist of Rhalgr.
+TEXT_JOBMNK700_02430_THEOBALD_000_034	¡Escúchenme, pueblo de Ala Mhigo! ¡Una fe débil como la que vende este charlatán no les servirá de nada! ¡Solo un gobernante fuerte y absoluto puede salvarlos! ¡Solo <italic(1)>yo<italic(0)> puedo salvarlos!
+TEXT_JOBMNK700_02430_WIDARGELT_000_035	¡Esas palabras bien podrían venir del Imperio! ¡El pueblo no necesita otro tirano! ¡No, lo que necesita es esperanza!
+TEXT_JOBMNK700_02430_WIDARGELT_000_036	Y esperanza todavía puede tener. Esperanza eterna en el corazón. Que nadie puede arrebatarle.
+TEXT_JOBMNK700_02430_WIDARGELT_000_037	Así que te lo suplico, hermano. Renuncia a tus aspiraciones al trono. Únete a mí para revivir el Fist of Rhalgr. Como es tu derecho.
+TEXT_JOBMNK700_02430_WIDARGELT_000_038	Ya pasó el tiempo de los engaños. Solo conozco a un hombre que maneja la lanza como tú. Así que quítate esa máscara que llevas. La máscara de un príncipe muerto. Y muéstrame tu cara, Adri. Mi hermano.
+TEXT_JOBMNK700_02430_THEOBALD_000_039	Jajaja...
+TEXT_JOBMNK700_02430_THEOBALD_000_040	Adri... Hace mucho que no oía ese nombre. Siempre te creí corto de luces, pero parece que al menos tu memoria todavía te sirve.
+TEXT_JOBMNK700_02430_WIDARGELT_000_041	¿Por qué deseas tanto nuestra destrucción? Tanto que te engañas incluso a ti mismo.
+TEXT_JOBMNK700_02430_THEOBALD_000_042	Igual que tú, yo era huérfano. El templo era el único hogar que conocía.
+TEXT_JOBMNK700_02430_THEOBALD_000_043	Pero me arrebataron ese hogar, arrasado por orden de Theodoric. Los monks, aclamados como los mayores guerreros del reino, no pudieron resistir el poder del rey loco.
+TEXT_JOBMNK700_02430_THEOBALD_000_044	¡Fue entonces cuando lo supe: supe que la sangre vale más que todo lo demás!
+TEXT_JOBMNK700_02430_THEOBALD_000_045	Todo el entrenamiento que hacemos para templar cuerpo y mente... ¡Nada de eso vale un escupitajo ante el poder absoluto! ¡Y los que nacen sin él, los que son como yo, siempre estarán condenados a sufrir!
+TEXT_JOBMNK700_02430_THEOBALD_000_046	Pero tú... tú lo tenías todo desde el principio. Nacido en la familia real, con sangre de reyes corriendo por tus venas. Tenías el poder de dirigir y de gobernar. Y aun así le diste la espalda a la liberación de nuestra nación. ¿Y para qué? ¡Por un Fist que ni siquiera pudo protegerse a sí mismo!
+TEXT_JOBMNK700_02430_THEOBALD_000_047	Yo no era nadie. Solo uno de los humildes dobles del Griffin. ¡Pero si tú no te alzas por nuestra nación, lo haré <italic(1)>yo<italic(0)>! ¡Y no tienes derecho a detenerme, tú, que renunciaste a tu propio derecho de nacimiento!
+TEXT_JOBMNK700_02430_WIDARGELT_000_048	¡Escúchame, hermano! Nuestra sangre no define quiénes somos. El camino que recorremos lo elegimos nosotros. Y yo elegí no destruir. Sino proteger.
+TEXT_JOBMNK700_02430_THEOBALD_000_049	¡Palabras huecas de alguien que nació con poder! ¡Nunca entenderás lo que significa ser débil! ¡<italic(1)>Nunca<italic(0)>!
+TEXT_JOBMNK700_02430_WIDARGELT_000_050	¡Soy Widargelt! ¡Un hermano del Fist of Rhalgr! ¡Eso es lo que soy! ¡Ni más ni menos!
+TEXT_JOBMNK700_02430_WIDARGELT_000_051	¡Vivo para revivir el Fist of Rhalgr! ¡Y con mi puño te lo demostraré!
+TEXT_JOBMNK700_02430_HAMON_000_052	Vaya, vaya. El profesor dijo que habría un espectáculo, pero no voy a decirle que no a un poco de acción. Me moría de ganas desde que se suspendió nuestro combate.
+TEXT_JOBMNK700_02430_WIDARGELT_000_053	¡Basta, Adri! ¡Nuestros objetivos son los mismos! ¡Solo difieren nuestros métodos! ¡Juntos podemos lograr mucho! ¡Podemos restaurar nuestra orden!
+TEXT_JOBMNK700_02430_THEOBALD_000_054	¡Adri está muerto! ¡Soy Theobald, el verdadero heredero de Theodoric y legítimo rey de Ala Mhigo! ¡Y con tu muerte reclamaré mi trono!
+TEXT_JOBMNK700_02430_WIDARGELT_000_055	Recurrir a las herramientas de nuestra opresión... No se detendrá ante nada por el poder. Es una existencia retorcida. Y debemos enderezarlo.
+TEXT_JOBMNK700_02430_WIDARGELT_000_056	¡Vamos, amigos míos! ¡Peleamos por la esperanza!
+TEXT_JOBMNK700_02430_QIB_001_TODO_1	¡Derrota al enemigo!
+TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_01	¡Detén esta locura, Adri!
+TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_02	¡Nunca! Llegué hasta aquí: ¡no voy a parar ahora!
+TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_02	¡Yo me encargo de Adri! ¡Concéntrense en los demás!
+TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_03	¡Vengan a mí cuando estén heridos! ¡Los curaré!
+TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_05	¡Jajajaja! ¡Nadie puede interponerse en mi camino!
+TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_04	¡Vienen más! ¡Cuidado, amigos míos!
+TEXT_JOBMNK700_02430_QIB_001_HAMON_BATTLETALK_03	¡Chuchuto, Rurukuta! ¡Nosotros limpiamos a la tropa!
+TEXT_JOBMNK700_02430_QIB_001_CHUCHUTO_BATTLETALK_07	¡Atento, Rurukuta!
+TEXT_JOBMNK700_02430_QIB_001_LULUKUTA_BATTLETALK_06	Hmph, más carne para mis puños.
+TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_06	Fuiste una espina en mi costado, aventurer<if(gnum4,a,o)>. ¡Pero tengo justo lo que necesito para ocuparme de ti!
+TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_JAMMER_HINT	¡Cuidado, <split(<string(gstr1)>, ,1)>! ¡Detecta el movimiento!
+TEXT_JOBMNK700_02430_QIB_001_OTCHAKHA_BATTLETALK_08	¡¿Más refuerzos?!
+TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_09	Cueste lo que cueste, por cualquier medio... ¡seré rey!
+TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_09	¡Un rey sin honor! ¡Ningún alamhigano te aceptará!
+TEXT_JOBMNK700_02430_QIB_001_HAMON_BATTLETALK_10	¡Déjenme esa chatarra a mí! ¡<italic(1)>Hamooon HOLYFIIIST<italic(0)>!
+TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_10	¡Ya solo quedas tú, Adri!
+TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_11	Hasta aquí llegó la temible Corpse Brigade. Al final no son más que reliquias de otra época.
+TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_12	¡Pero yo no! ¡No caeré ante gente como ustedes!
+TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_13	¡Basta, hermano! ¡Se acabó!
+TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_14	¡Silencio! ¡No me rendiré ante un cobarde que abandonó su patria!
+TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_15	¡No nos deja opción! ¡Destruyan esa máquina infernal!
+TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_15	¡Malditos sean! ¡Si he de caer, me los llevo conmigo al séptimo infierno!
+TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_DEAD	Tanto... sin terminar...
+TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_DEAD	No puedo perderlo todo... Otra vez no...
+TEXT_JOBMNK700_02430_QIB_001_HAMON_BATTLETALK_DEAD	Ay... Contra la vejez no se puede...
+TEXT_JOBMNK700_02430_QIB_001_CHUCHUTO_BATTLETALK_DEAD	Lo siento... maestro...
+TEXT_JOBMNK700_02430_QIB_001_LULUKUTA_BATTLETALK_DEAD	Ugh... Me descuidé...
+TEXT_JOBMNK700_02430_QIB_001_DZENTSA_BATTLETALK_DEAD	Maldita sea...
+TEXT_JOBMNK700_02430_QIB_001_OTCHAKHA_BATTLETALK_DEAD	Está... en sus manos...
+TEXT_JOBMNK700_02430_DZENTSA_000_069	El Maestro Widargelt va a ganar. Lo sé.
+TEXT_JOBMNK700_02430_OTCHAKHA_100_069	Ya empieza...
+TEXT_JOBMNK700_02430_WIDARGELT_000_060	Adri. La próxima vez que peleemos, que sea como hermanos. Que sea cara<-->a<-->cara.
+TEXT_JOBMNK700_02430_WIDARGELT_000_061	Soy débil. Demasiado débil para llevar solo el Fist of Rhalgr. Pero pase lo que pase, no me rendiré. Cada vez que caiga, volveré a levantarme.
+TEXT_JOBMNK700_02430_WIDARGELT_000_062	Te lo pido de corazón. ¿No te unirás a mí? Ayúdame a construir un nuevo Fist. Uno que no distinga entre nobles y plebeyos. Que no distinga entre sombra y luz. Un Fist of Rhalgr al que todos puedan pertenecer.
+TEXT_JOBMNK700_02430_ERIK_000_063	Tu celo ardiente aviva la esperanza en el corazón de la gente, y no dudes de que muchos acudirán a ti en busca de fuerza: la fuerza para proteger lo que aman, con sus propias manos.
+TEXT_JOBMNK700_02430_ERIK_000_064	Bien, volvamos a Ala Gannha. Todavía queda mucho por hacer, y no es lo menor agradecerles a nuestros amigos pugilists su oportunísima llegada.
+TEXT_JOBMNK700_02430_HAMON_000_070	Fue un buen discurso, hablado con el corazón. Le faltó pulir, claro, pero eso viene con la edad y la experiencia.
+TEXT_JOBMNK700_02430_RURUKUTA_000_071	Y con la paliza que les dimos, la Corpse Brigade se va a quedar tranquila por un buen tiempo.
+TEXT_JOBMNK700_02430_HAMON_000_072	Y yo también, creo. A mi edad, un momento de diversión cuesta una semana de dolores.
+TEXT_JOBMNK700_02430_CHUCHUTO_000_073	Pero tiene que admitir que de vez en cuando viene bien lanzarse a una batalla de verdad.
+TEXT_JOBMNK700_02430_RURUKUTA_000_074	¿Una batalla de verdad? No sé tú, pero yo apenas sudé.
+TEXT_JOBMNK700_02430_CHUCHUTO_000_075	¿Ah, sí? ¡Entonces supongo que me imaginé todos esos resoplidos!
+TEXT_JOBMNK700_02430_HAMON_000_076	¡Jo, jo, jo! Bueno, por triste que sea despedirse, ya es hora de volver a casa. Pero espero seguir con este buen intercambio con nuestros amigos monks... sobre todo con D'zentsa y O'tchakha.
+TEXT_JOBMNK700_02430_HAMON_000_077	Jóvenes y ágiles como son, creo que tienen mucho potencial como pugilists. Y sería un placer ayudarlas personalmente a explorarlo, je, je, je...
+TEXT_JOBMNK700_02430_CHUCHUTO_000_078	¡Por los dioses, ¿podría ser más obvio?!
+TEXT_JOBMNK700_02430_HAMON_000_079	Hasta la próxima, cuídate, <split(<string(gstr1)>, ,1)>. ¡Y gracias por hacer pasar un buen rato a estos viejos huesos!
+TEXT_JOBMNK700_02430_OTCHAKHA_000_080	Con su ayuda logramos capear otra tormenta. Me atrevo a decir que todos nos ganamos un momento de descanso.
+TEXT_JOBMNK700_02430_DZENTSA_000_081	¿Sabes? No puedo evitar pensar que a veces el maestro es demasiado bueno. Después de todo lo que le hizo ese Theobald... eh, ese tal Adri, va y les ruega a los aldeanos que le curen las heridas.
+TEXT_JOBMNK700_02430_OTCHAKHA_000_082	Está tan entregado a revivir el Fist of Rhalgr que no malgasta energía en cosas como la ira y la venganza.
+TEXT_JOBMNK700_02430_DZENTSA_000_083	Claro. Y de todos modos, por ahora no hay nada que se nos interponga. Somos libres de seguir con nuestra misión.
+TEXT_JOBMNK700_02430_OTCHAKHA_000_084	Así es. Y lo que empezamos en Ala Gannha lo continuaremos en todos los rincones de Gyr Abania, sin descansar hasta que el Fist of Rhalgr vuelva a florecer en todo el reino.
+TEXT_JOBMNK700_02430_DZENTSA_000_085	Diría que el maestro tiene mucho trabajo por delante. Va a necesitar todo el apoyo que podamos darle.
+TEXT_JOBMNK700_02430_OTCHAKHA_000_086	Así que esforcémonos siempre por ser más fuertes, para darle mejor ese apoyo. Después de todo, no estaría bien depender siempre de <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMNK700_02430_DZENTSA_000_087	¡Claro que sí! ¿Y qué estamos esperando? ¡Vamos a entrenar!
+TEXT_JOBMNK700_02430_OTCHAKHA_000_088	¡¿Q-Qué?! Pero si acabamos de... Eh, por favor, discúlpenos, <split(<string(gstr1)>, ,1)>... ¡y gracias! ¡De todo corazón, por todo!
+TEXT_JOBMNK700_02430_ERIK_000_089	Viendo tu furiosa lucha, no pude evitar desear contribuir yo también con los puños. Sospecho que mi hijo sintió lo mismo cuando decidió unirse a la Resistance.
+TEXT_JOBMNK700_02430_ERIK_000_090	Pero así como él recorrió su propio camino, yo debo recorrer el mío. Como hombre de ciencia, mi deber es buscar la verdad inmutable, para que ese conocimiento beneficie algún día a las generaciones futuras.
+TEXT_JOBMNK700_02430_ERIK_000_091	Hice mi pequeña parte por la causa de Widargelt. Pero ten por seguro que fuiste sobre todo tú, <if(gnum4,amiga mía,amigo mío)>, quien lo ayudó a seguir adelante frente a la adversidad, quien lo levantó cuando el destino lo derribó.
+TEXT_JOBMNK700_02430_ERIK_000_092	Y por eso te estoy agradecido. Tienes un corazón noble, y compensa con creces tu mediocre intelecto.
+TEXT_JOBMNK700_02430_ERIK_000_093	Con esto, volveré a Ul'dah. Por entretenido que haya sido ver a los jóvenes encontrar su camino, mi investigación no va a avanzar sola.
+TEXT_JOBMNK700_02430_ERIK_000_094	Como siempre, si quieres aprovechar mis conocimientos, no dudes en venir a verme.
+TEXT_JOBMNK700_02430_DZENTSA_000_095	No lo habríamos logrado sin ti, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMNK700_02430_CHUCHUTO_000_100	Por cómo pelearon tus compañeros monks, no parecía tan distinto de nuestro estilo. ¡Si no me equivoco, les enseñaste un par de trucos!
+TEXT_JOBMNK700_02430_RURUKUTA_000_105	Mirándolo con objetividad, el Maestro Hamon es fuerte ahora, y no me imagino lo fuerte que habrá sido antes. Tengo que esforzarme si quiero ser digno del legado de Holyfist.
+TEXT_JOBMNK700_02430_WIDARGELT_000_106	Los demás quieren hablar contigo. Cuando terminen, yo también quiero hablarte.
+TEXT_JOBMNK700_02430_WIDARGELT_000_110	Las pruebas recientes me enseñaron mucho. Sobre mí mismo. Sobre todo lo que debo.
+TEXT_JOBMNK700_02430_WIDARGELT_000_111	En la adversidad, ninguno de ustedes me abandonó. Yo estuve a punto de abandonar mi sueño. Pero nunca más. Se lo debo a quienes estuvieron a mi lado.
+TEXT_JOBMNK700_02430_WIDARGELT_000_112	Estoy en deuda con muchos. Y contigo más que con nadie. Eres mi <if(gnum4,maestra,maestro)> en todo salvo en el nombre. Siempre das el ejemplo. Me enseñas fuerza y elegancia.
+TEXT_JOBMNK700_02430_WIDARGELT_000_113	Rezo por que ayudes a muchos otros. Como me ayudaste a mí.
+TEXT_JOBMNK700_02430_WIDARGELT_000_114	Retomaré mi misión. Con mis discípulas a mi lado. Juntos extenderemos el Fist por toda la tierra.
+TEXT_JOBMNK700_02430_WIDARGELT_000_115	El viaje será largo. Pero pase lo que pase, llegaré al final. Porque no estoy solo.
+TEXT_JOBMNK700_02430_WIDARGELT_000_116	Que te vaya bien, <if(gnum4,hermana mía,hermano mío)>. Hasta que volvamos a vernos.
+TEXT_JOBMNK700_02430_SYSTEM_100_200	Aquí terminan las misiones de monk de FINAL FANTASY XIV: Stormblood. Para empezar la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:
+TEXT_JOBMNK700_02430_SYSTEM_100_201	※Haber completado la misión de la historia principal "Shadowbringers".
+TEXT_JOBMNK700_02430_SYSTEM_100_202	※Haber completado la misión de rol "Courage Born of Fear".
+TEXT_JOBMNK700_02430_SYSTEM_100_203	Una vez cumplidos, la siguiente misión de monk estará disponible con Erik.

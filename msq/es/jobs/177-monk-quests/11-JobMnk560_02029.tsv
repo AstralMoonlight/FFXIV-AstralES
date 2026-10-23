@@ -1,0 +1,56 @@
+key	text
+TEXT_JOBMNK560_02029_SEQ_00	Widargelt consiguió información sobre el paradero de O'tchakha y quiere compartirla contigo.
+TEXT_JOBMNK560_02029_SEQ_01	Vieron a O'tchakha cerca de Eugenia's Spire. Widargelt quiere enfrentarla para averiguar qué mueve a la secta de la sombra. Apúrate a ir al North Shroud y reúnete con Widargelt cerca de Eugenia's Spire.
+TEXT_JOBMNK560_02029_SEQ_02	Widargelt y tú encuentran a O'tchakha en mal estado. Ella explica que su maestro, un hombre llamado H'raha Tia, las obligó a D'zentsa y a ella a pelear entre sí a muerte. Aunque O'tchakha lo veía como a un padre, este incidente le abrió los ojos sobre su verdadera naturaleza. Ahora O'tchakha teme por D'zentsa, que sigue a merced de su maestro. Anuncia que piensa rescatarla, y Widargelt le promete su ayuda. Mientras los dos van a ponerse a salvo en the Hedgetree, Widargelt te pide que aceches cerca de Eugenia's Spire e interceptes a cualquier perseguidor.
+TEXT_JOBMNK560_02029_SEQ_03	Acabaste con los secuaces que H'raha Tia mandó a confirmar la muerte de O'tchakha. Ve a the Hedgetree y reúnete con tus compañeros.
+TEXT_JOBMNK560_02029_SEQ_04	O'tchakha revela la verdad sobre la secta de la sombra y el hombre despiadado que la dirige ahora. Aunque Widargelt alberga la esperanza de llegar a un entendimiento con H'raha Tia, O'tchakha no confía en que su maestro esté dispuesto a hablar. Lo más probable es que terminen a golpes, y contra un enemigo poderoso que abrió los catorce chakra: siete de la luz y siete de la sombra. Por ahora, vuelve a Revenant's Toll y discute con Widargelt qué hacer.
+TEXT_JOBMNK560_02029_SEQ_05	Cuando O'tchakha se recupere, retomarán el entrenamiento para abrir más chakra. Mientras tanto, Widargelt te pide que te dediques a entrenar, para que puedan avanzar juntos como orgullosos discípulos de la luz.<br><br>※La siguiente misión de monk estará disponible con Widargelt al llegar al nivel 58.
+TEXT_JOBMNK560_02029_TODO_00	Habla con Widargelt cerca de Eugenia's Spire.
+TEXT_JOBMNK560_02029_TODO_01	Acecha en el lugar indicado y derrota a tus perseguidores.
+TEXT_JOBMNK560_02029_TODO_02	Habla con Widargelt.
+TEXT_JOBMNK560_02029_TODO_03	Habla con Widargelt en Revenant's Toll.
+TEXT_JOBMNK560_02029_WIDARGELT_000_000	<split(<string(gstr1)>, ,1)>. Por fin tengo información sobre O'tchakha. Está cerca de Eugenia's Spire, en el North Shroud.
+TEXT_JOBMNK560_02029_WIDARGELT_000_001	Pienso enfrentarla. Exigirle la verdad.
+TEXT_JOBMNK560_02029_WIDARGELT_000_002	Ella y D'zentsa no actúan por voluntad propia. De eso estoy seguro. No, algo las tiene sometidas. Averiguaremos qué es.
+TEXT_JOBMNK560_02029_WIDARGELT_000_003	Vamos, <if(gnum4,hermana,hermano)>. Vamos al North Shroud. Rápido, mientras el rastro sigue fresco.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_010	Uuuugh...
+TEXT_JOBMNK560_02029_WIDARGELT_000_050	¡La encontré así! ¡¿Qué pasó?!
+TEXT_JOBMNK560_02029_OTCHAKHA_000_051	¿Widargelt... y <split(<string(gstr1)>, ,1)>?
+TEXT_JOBMNK560_02029_OTCHAKHA_000_052	Quédense tranquilos, mis heridas no son graves. Zentsa se contuvo.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_053	Pero, por los dioses, me siento tan tonta... Siempre hicimos todo lo que él nos pedía, sin cuestionarlo. Creíamos que así podríamos sobrevivir. Pero al final nos ordenó pelear entre nosotras a muerte para abrir nuestros chakra.
+TEXT_JOBMNK560_02029_WIDARGELT_000_054	¿Pelear a muerte? ¡¿Quién ordenó eso?! ¡¿<italic(1)>Quién<italic(0)>?!
+TEXT_JOBMNK560_02029_OTCHAKHA_000_055	¿Quién más sino nuestro maestro? Se llama H'raha Tia y dirige la secta de la sombra. Pero además fue como un padre para Zentsa y para mí.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_056	Después de que nuestros padres nos abandonaran, el Maestro H'raha Tia nos acogió y nos crio. Siempre nos esforzamos por complacerlo, para no perder nuestro lugar.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_057	Pero hoy nos dejó bien claro lo que valemos para él. No somos sus amigas, y mucho menos su familia. No, no somos más que herramientas que se usan y se tiran.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_058	Cuando peleamos, Zentsa me empujó por el acantilado. Hizo que pareciera un accidente, para que yo sola pudiera huir.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_059	Pero no puedo huir mientras Zentsa siga a merced de nuestro maestro. Tengo que rescatarla, antes de que él decida que ya no le sirve.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_060	Y si saben lo que les conviene, pondrán muchos malms entre ustedes y este lugar. Sin duda el maestro mandará gente a confirmar mi muerte.
+TEXT_JOBMNK560_02029_WIDARGELT_000_061	¡O'tchakha, espera! ¡Déjanos ayudarte!
+TEXT_JOBMNK560_02029_OTCHAKHA_000_062	¿Nos ayudarían, después de todo el mal que les hicimos? ¿Por qué?
+TEXT_JOBMNK560_02029_WIDARGELT_000_063	Una vez ansié el poder. No me detuve ante nada para conseguirlo. Usé a <split(<string(gstr1)>, ,1)>. L<if(gnum4,a,o)> traicioné. Peor, intenté matarl<if(gnum4,a,o)>.
+TEXT_JOBMNK560_02029_WIDARGELT_000_064	Me arrepentí. Empecé de nuevo. Ahora alguien comete el mismo error que yo. No puedo ignorarlo. Ni puedo ignorar a quienes sufren por él.
+TEXT_JOBMNK560_02029_WIDARGELT_000_065	Pero sobre todo, mis alumnas están en problemas. Quiero ayudarlas. Es lo que debe hacer un maestro.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_066	Ay, Widargelt...
+TEXT_JOBMNK560_02029_WIDARGELT_000_067	Iré con O'tchakha a the Hedgetree. Asegúrate de que nadie nos siga. Reúnete con nosotros cuando la zona sea segura.
+TEXT_JOBMNK560_02029_WIDARGELT_000_080	Iré con O'tchakha a the Hedgetree. Asegúrate de que nadie nos siga. Reúnete con nosotros cuando la zona sea segura.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_085	Ay, Widargelt...
+TEXT_JOBMNK560_02029_OTCHAKHA_000_090	Se lo agradezco.
+TEXT_JOBMNK560_02029_WIDARGELT_000_150	Aquí estamos a salvo. Podemos hablar con libertad. Hay mucho que no sé. Por favor, cuéntamelo todo.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_151	Al principio, los miembros del Fist of Rhalgr se esforzaban por abrir los catorce chakra: siete de la luz y siete de la sombra.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_152	A quienes habían abierto los siete chakra de su propio aspecto se les permitía batirse en duelo con quienes habían logrado lo mismo en el aspecto opuesto.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_153	Durante generaciones, esos duelos se celebraron en gran secreto.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_154	Pero eso terminó con la masacre del Temple of the Fist, cuando se extinguió la secta de la luz. Y aunque la secta de la sombra sobrevivió gracias a su anonimato, sus discípulos perdieron el medio para abrir los chakra de la luz.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_155	Hasta que el Maestro H'raha Tia supo del único superviviente de la masacre: usted, Widargelt. Y así fue como Zentsa y yo llegamos a usted.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_156	Nuestro maestro nos enseñó que los discípulos de la luz no eran más que un medio para un fin, un recurso para usar. Nos inculcó la creencia de que nuestras dos sectas debían estar siempre enfrentadas. Y le creímos, tontas de nosotras.
+TEXT_JOBMNK560_02029_WIDARGELT_000_157	Ahora entiendo cómo eran las cosas en el pasado. Cómo son en el presente. Y lo más importante: sé que la luz y la sombra fueron una sola. Y quizás puedan volver a serlo.
+TEXT_JOBMNK560_02029_WIDARGELT_000_158	Hablaré con el Maestro H'raha Tia. Lo convenceré de que nuestras escuelas no tienen por qué pelear. Juntos podemos reconstruir nuestra orgullosa orden.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_159	Me temo que no será fácil convencerlo. Y si se llega a los golpes, como me temo, sepa que su fuerza supera con mucho la nuestra. Es la única persona viva que abrió los catorce chakra.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_160	Últimamente me concentré en abrir chakra de la luz. De mi propio aspecto solo logré abrir seis. No soy rival para el Maestro H'raha Tia.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_161	Usted es nuestra mejor esperanza, <split(<string(gstr1)>, ,1)>. Aun así, todavía le falta un chakra para llegar a catorce, una diferencia pequeña pero decisiva.
+TEXT_JOBMNK560_02029_OTCHAKHA_100_162	Si quiere tener alguna posibilidad, debe abrir el último chakra que se le resiste: el séptimo chakra de la sombra. Por desgracia, eso plantea un dilema: no hay forma de hacerlo fuera de un combate a muerte.
+TEXT_JOBMNK560_02029_WIDARGELT_000_163	Habrá otra forma. Siempre la hay. Quizás no tengamos todos los chakra abiertos. Pero nos tenemos unos a otros. Juntos todavía podemos rescatar a D'zentsa.
+TEXT_JOBMNK560_02029_OTCHAKHA_000_164	Gracias, Widargelt. Juro que haré todo lo posible por ayudarlo.
+TEXT_JOBMNK560_02029_WIDARGELT_000_165	Bien. Pero primero O'tchakha tiene que recuperarse. Volvemos a Revenant's Toll. Hay mucho que planear.
+TEXT_JOBMNK560_02029_WIDARGELT_000_200	Un sanador atiende a O'tchakha. Cuando esté bien, trabajaremos para abrir nuestros chakra.
+TEXT_JOBMNK560_02029_WIDARGELT_000_201	Los dos vimos cuánto teme O'tchakha a su maestro. No es normal. Como advirtió, quizás las palabras no basten. Tenemos que estar preparados para todo.
+TEXT_JOBMNK560_02029_WIDARGELT_000_202	Sigue entrenando, <split(<string(gstr1)>, ,1)>. ¡Y avancemos juntos como orgullosos discípulos de la luz!

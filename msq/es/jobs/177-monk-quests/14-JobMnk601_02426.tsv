@@ -1,0 +1,69 @@
+key	text
+TEXT_JOBMNK601_02426_SEQ_00	El Profesor Erik te mira con aire de suficiencia.
+TEXT_JOBMNK601_02426_SEQ_01	Recibiéndote con su condescendencia de siempre, el Profesor Erik te cuenta que a Widargelt le preocupa algún asunto. El profesor no logró sacarle los detalles al callado monk, pero cree que a ti te irá mejor. Dirígete a Revenant's Toll, donde está Widargelt, y ponte a disposición de tu hermano de armas.
+TEXT_JOBMNK601_02426_SEQ_02	Como predijo el profesor, Widargelt te cuenta enseguida lo que lo aflige. La Ala Mhigan Resistance lo invitó a volver a la causa, y aunque está decidido a rechazar la oferta, el asunto lo hizo pensar en su propósito: qué puede hacer por su patria asediada. O'tchakha y D'zentsa te piden que vigiles a su maestro mientras va a reunirse con el representante de la Resistance en Little Ala Mhigo.
+TEXT_JOBMNK601_02426_SEQ_03	Llegas a tiempo para ver a Widargelt darle su respuesta a Gundobald. Aunque el viejo soldado dice entenderlo, y que pelear no es la única forma de servir a la patria, sus palabras dejan a Widargelt preguntándose por su propio camino. Como quiere estar solo, se despide y se va a un lugar desconocido. Búscalo y ofrécele tu apoyo.
+TEXT_JOBMNK601_02426_SEQ_04	Encuentras a Widargelt contemplando la marca del Destroyer. Mientras te cuenta cómo el Fist of Rhalgr, que fue la fe principal de los alamhiganos, casi desapareció de su patria, el monk por fin comprende lo que debe hacer. Te pide que vuelvas con él a Revenant's Toll, donde compartirá sus planes con todos.
+TEXT_JOBMNK601_02426_SEQ_05	Ante sus amigos y alumnas reunidos, Widargelt revela que piensa ir a Gyr Abania en una misión para revivir el Fist of Rhalgr. O'tchakha, D'zentsa y el profesor se ofrecen a acompañarlo, y tú también, por supuesto. Abrumado por el apoyo, Widargelt expresa su gratitud y su determinación, y te pide que hagas tus preparativos.<br><br>※La siguiente misión de monk estará disponible con Widargelt al llegar al nivel 63.
+TEXT_JOBMNK601_02426_TODO_00	Habla con Widargelt en Revenant's Toll.
+TEXT_JOBMNK601_02426_TODO_01	Habla con Widargelt en Little Ala Mhigo.
+TEXT_JOBMNK601_02426_TODO_02	Busca a Widargelt.
+TEXT_JOBMNK601_02426_TODO_03	Habla con Widargelt en Revenant's Toll.
+TEXT_JOBMNK601_02426_ERIK_000_001	¡Ah, <split(<string(gstr1)>, ,1)>! Por torpe que seas, juraría que tienes una habilidad innata para presentir cuándo te necesitan. Y hablando de eso, tengo una tarea para ti.
+TEXT_JOBMNK601_02426_ERIK_000_002	Tu compañero bruto, Widargelt... Últimamente le pesa algún asunto. Conociéndolo, solo puede tener que ver con Ala Mhigo, pero el zoquete testarudo está empeñado en guardárselo. No querrá molestarme con eso o alguna tontería así, no lo dudo.
+TEXT_JOBMNK601_02426_ERIK_000_003	Pero tú, <if(gnum4,amiga mía,amigo mío)>, eres como <if(gnum4,una hermana,un hermano)> para él. Si hay alguien en este mundo en quien estaría dispuesto a confiar, eres tú. Por el bien de ese idiota sin remedio, te pido que vayas a Revenant's Toll y te pongas a su disposición.
+TEXT_JOBMNK601_02426_WIDARGELT_000_010	Bien. Eso es todo por hoy. Lo hicieron bien. Estoy satisfecho con su progreso.
+TEXT_JOBMNK601_02426_DZENTSA_000_011	Siempre dices lo mismo, Maestro. Pero todavía estamos lejos de donde queremos llegar. Ni cerca.
+TEXT_JOBMNK601_02426_OTCHAKHA_000_012	Así es. Y además, cualquier progreso que hagamos se lo debemos por completo a usted.
+TEXT_JOBMNK601_02426_DZENTSA_000_013	Claro que sí. Sin tu guía no llegaríamos a ninguna parte.
+TEXT_JOBMNK601_02426_WIDARGELT_000_014	Mi guía...
+TEXT_JOBMNK601_02426_WIDARGELT_000_015	<split(<string(gstr1)>, ,1)>, me alegra verte. Aquí todo va bien, como ves. Pero... hmmm...
+TEXT_JOBMNK601_02426_WIDARGELT_000_016	D'zentsa, O'tchakha, pueden adelantarse. Quiero hablar con <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMNK601_02426_WIDARGELT_000_017	Esas dos se hacen más fuertes cada día. Las sombras ya no oscurecen su camino. Su propósito es claro.
+TEXT_JOBMNK601_02426_WIDARGELT_000_018	Ojalá pudiera decir lo mismo del mío...
+TEXT_JOBMNK601_02426_WIDARGELT_000_019	Verás, recibí una oferta. La Resistance. Me piden que vuelva con ellos. Que dirija una de sus unidades.
+TEXT_JOBMNK601_02426_WIDARGELT_000_020	En otro tiempo habría aprovechado la oportunidad sin dudar. Pero ya no. Ya no vivo para la venganza. Tú y el profesor me mostraron que ese no es el camino.
+TEXT_JOBMNK601_02426_WIDARGELT_000_021	Así que rechazaré la oferta. Quiero concentrarme en reconstruir, no en pelear. Pero ¿qué está a mi alcance? Más allá del campo de batalla, ¿cómo puedo servir a mi patria?
+TEXT_JOBMNK601_02426_WIDARGELT_000_022	Perdóname. No debería molestarte con esto. Es una respuesta que tengo que encontrar yo.
+TEXT_JOBMNK601_02426_WIDARGELT_000_023	Pero primero le daré su respuesta a la Resistance. Gracias por escucharme, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMNK601_02426_OTCHAKHA_000_024	Todavía le da vueltas...
+TEXT_JOBMNK601_02426_DZENTSA_000_025	Sí, no es el mejor estado de ánimo para una reunión tan importante. ¿No hay nada que podamos hacer?
+TEXT_JOBMNK601_02426_OTCHAKHA_000_026	Nosotras no: su orgullo no lo permitiría. Pero usted, <split(<string(gstr1)>, ,1)>... recién se le abrió, ¿no? Me atrevo a decir que volverá a hacerlo. Lamentamos mucho molestarl<if(gnum4,a,o)>, pero ¿podría seguir al Maestro Widargelt? ¿Cuidarlo en nuestro lugar?
+TEXT_JOBMNK601_02426_Q1_000_000	¿Cuidarás a Widargelt?
+TEXT_JOBMNK601_02426_A1_000_001	Por ti, O'tchakha, por supuesto.
+TEXT_JOBMNK601_02426_A1_000_002	Por ti, D'zentsa, por supuesto.
+TEXT_JOBMNK601_02426_OTCHAKHA_300_027	¡Jiji! ¡Le debemos una, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBMNK601_02426_DZENTSA_100_027	Espera, ¿qué? ¿Quién, yo?
+TEXT_JOBMNK601_02426_DZENTSA_200_027	Eh, <split(<string(gstr1)>, ,1)>... ¿Crees que, eh... podrías ir a ver cómo está el Maestro Widargelt por nosotras?
+TEXT_JOBMNK601_02426_OTCHAKHA_000_027	Creo que va camino a Little Ala Mhigo.
+TEXT_JOBMNK601_02426_ERIK_000_030	No dudo que Widargelt está en buenas manos. Después de todo, ¿quién va a conocer mejor a un bruto que otro bruto?
+TEXT_JOBMNK601_02426_WIDARGELT_000_040	¿Quieres ser testigo de mi decisión? Muy bien, <if(gnum4,hermana,hermano)>. Sé mi testigo.
+TEXT_JOBMNK601_02426_GUNDOBALD_000_041	¿Y bien? ¿Ya te decidiste?
+TEXT_JOBMNK601_02426_WIDARGELT_000_042	Sí. Su oferta me honra. Pero con todo respeto debo rechazarla. Mis días de venganza terminaron.
+TEXT_JOBMNK601_02426_GUNDOBALD_000_043	Ya veo. Es tu decisión, y no insistiré más. Pero mentiría si dijera que no me decepciona. Con tu dominio del Fist, tu aporte a nuestra lucha habría sido incalculable.
+TEXT_JOBMNK601_02426_WIDARGELT_000_044	Lo siento...
+TEXT_JOBMNK601_02426_GUNDOBALD_000_045	No lo sientas. Recuerda que pelear no es la única forma de servir a la patria. Cada uno de nosotros debe encontrar su propio camino.
+TEXT_JOBMNK601_02426_WIDARGELT_000_046	Nuestro propio camino...
+TEXT_JOBMNK601_02426_WIDARGELT_000_047	Hay un lugar donde quiero estar. Me despido.
+TEXT_JOBMNK601_02426_GUNDOBALD_000_048	Está claro que conoces a Widargelt mejor que la mayoría. Si de verdad eres su amig<if(gnum4,a,o)>, como me parece, no hace falta que te diga que estés a su lado.
+TEXT_JOBMNK601_02426_WIDARGELT_000_050	Encontrarme aquí... Me conoces demasiado bien, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMNK601_02426_WIDARGELT_000_051	La marca del Destroyer. Mi pueblo la trajo aquí cuando llegó el Imperio. El riesgo era grande. Pero su fe era todavía mayor.
+TEXT_JOBMNK601_02426_WIDARGELT_000_052	Por desgracia, esa fe casi se desvaneció. Borrada de la patria. Los garleans no toleran lo divino. Ni siquiera nos permiten el consuelo del culto.
+TEXT_JOBMNK601_02426_WIDARGELT_000_053	...Por Rhalgr, ahora lo sé. Lo que puedo hacer por Ala Mhigo. Desde siempre hubo un solo camino.
+TEXT_JOBMNK601_02426_WIDARGELT_000_054	Volvamos a Revenant's Toll. Allí lo contaré todo.
+TEXT_JOBMNK601_02426_WIDARGELT_000_060	Gracias a todos por venir. Encontré mi vocación. Y quiero compartirla con ustedes.
+TEXT_JOBMNK601_02426_WIDARGELT_000_061	Iré a Gyr Abania. Y allí reviviré el Fist of Rhalgr.
+TEXT_JOBMNK601_02426_DZENTSA_000_062	Bueno, entonces vamos contigo. No te vamos a perder de vista, por lo menos no hasta que te hayamos devuelto el favor.
+TEXT_JOBMNK601_02426_ERIK_000_068	Ni hace falta decir que yo también iré. Las tierras de Gyr Abania guardan incontables misterios, y los conocimientos que poseo sin duda te servirán en tu empresa.
+TEXT_JOBMNK601_02426_WIDARGELT_000_069	¿Y tú, <if(gnum4,hermana,hermano)>? ¿Puedo contar contigo también?
+TEXT_JOBMNK601_02426_Q2_000_000	¿Qué dices?
+TEXT_JOBMNK601_02426_A2_000_001	¡Estoy con ustedes hasta el final!
+TEXT_JOBMNK601_02426_A2_000_002	No tengo ganas.
+TEXT_JOBMNK601_02426_OTCHAKHA_100_070	¡¿Q-Qué?! ¡Pero <split(<string(gstr1)>, ,1)>, sin usted sería impensable! ¡Por favor, reconsidérelo!
+TEXT_JOBMNK601_02426_WIDARGELT_000_070	Me alegra. Tu presencia me da ánimo. La misión no será fácil. Pero no descansaré hasta lograrlo. Y hasta que el Fist of Rhalgr vuelva a la tierra. Lo juro.
+TEXT_JOBMNK601_02426_ERIK_000_071	Con esa nota inspiradora, iré a prepararme.<br>...Y Widargelt, no olvides lo que hablamos.
+TEXT_JOBMNK601_02426_WIDARGELT_000_072	Partiremos pronto. Por favor, haz tus preparativos, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMNK601_02426_SYSTEM_000_080	La siguiente misión de monk estará disponible con Widargelt al llegar al nivel 63.
+TEXT_JOBMNK601_02426_SYSTEM_000_081	Puedes consultar en tu journal los requisitos para empezar las siguientes misiones.
+TEXT_JOBMNK601_02426_DZENTSA_000_091	Me alegra que el maestro haya resuelto sus cosas.
+TEXT_JOBMNK601_02426_OTCHAKHA_000_092	Con su ayuda, el Maestro Widargelt encontró su camino. Gracias, <split(<string(gstr1)>, ,1)>.

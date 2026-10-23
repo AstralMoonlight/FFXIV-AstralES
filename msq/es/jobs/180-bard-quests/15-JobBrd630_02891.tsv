@@ -1,0 +1,57 @@
+key	text
+TEXT_JOBBRD630_02891_SEQ_00	Sanson ya no sabe qué hacer con Nourval.
+TEXT_JOBBRD630_02891_SEQ_01	Pese a las órdenes expresas de Sanson de no llamar la atención en la guarnición, Nourval hizo todo lo contrario: se acercó a interrogar a cada soldado que encontró. Mientras Sanson vigila al díscolo civil, te pide que busques a Guydelot y le preguntes qué logró averiguar tu compañero bard entre los lugareños.
+TEXT_JOBBRD630_02891_SEQ_02	En lugar de contarte lo que averiguó, Guydelot te encarga una tarea. Últimamente unos bandidos enmascarados aterrorizan la zona, y tu compañero bard quiere que investigues qué pasó con un explorador de los Twin Adder que no volvió a tiempo para informar. Mientras Guydelot vigila al sospechoso Nourval, te pide que vayas al noreste de the Fringes, hacia Schism, adonde se dirigía el soldado.
+TEXT_JOBBRD630_02891_SEQ_03	Cerca de Pike Falls encuentras al explorador de los Twin Adder a merced de los bandidos enmascarados, y enseguida ahuyentas a los atacantes. Con la zona asegurada, presta ayuda al explorador herido.
+TEXT_JOBBRD630_02891_SEQ_04	El explorador de los Twin Adder te agradece tu oportuna intervención, y comenta que los bandidos parecían saber de antemano que él venía y buscaban cerrarle el paso. Lleva la noticia del encuentro a tus camaradas en Castrum Oriens.
+TEXT_JOBBRD630_02891_SEQ_05	Ante la insistencia de Sanson, Nourval revela que el tomo está en un lugar relacionado con Gylbarde, el célebre general que dirigió las fuerzas alamhiganas en la Autumn War. Atando cabos, Guydelot sugiere que quizás los bandidos también buscan el tomo. La posibilidad parece inquietar a Nourval, que se retira pese a las protestas de Sanson. Entonces Guydelot revela que Nourval estuvo saliendo a escondidas del castrum cuando ustedes no miraban. Sanson decide dejar que Nourval actúe con libertad para descubrir su verdadero propósito, y te pide que estés atent<if(gnum4,a,o)> a lo que pueda pasar.<br><br>※La siguiente misión de bard estará disponible con Sanson al llegar al nivel 65.
+TEXT_JOBBRD630_02891_TODO_00	Busca a Guydelot.
+TEXT_JOBBRD630_02891_TODO_01	Busca al explorador de los Twin Adder.
+TEXT_JOBBRD630_02891_TODO_02	Ayuda al explorador de los Twin Adder.
+TEXT_JOBBRD630_02891_TODO_03	Habla con Guydelot.
+TEXT_JOBBRD630_02891_NOURVAL_100_000	Aunque no soy más que un humilde civil, me esforzaré por ser útil.
+TEXT_JOBBRD630_02891_SANSON_000_000	¡Bah! No puedo creer que lo diga, ¡pero Nourval podría ser un fastidio todavía mayor que Guydelot!
+TEXT_JOBBRD630_02891_SANSON_000_001	Pese a mis órdenes expresas de no estorbar a la guarnición, ¿qué hace sino ir a molestar a cada soldado que encuentra? ¡Y ahora todos aquí nos miran con recelo!
+TEXT_JOBBRD630_02891_SANSON_000_002	\<suspiro> Traje un cuaderno para registrar los detalles de la misión, pero en lugar de eso lo estoy llenando con los nombres de las personas a las que tengo que pedirles disculpas...
+TEXT_JOBBRD630_02891_NOURVAL_000_004	Lamento si causé problemas, pero simplemente es más eficiente que haga yo mismo las preguntas. Lo que dice un hombre es solo la mitad de la historia; cómo lo dice te da el resto.
+TEXT_JOBBRD630_02891_NOURVAL_000_005	Además, me sentí obligado a compensar por el Maestro Guydelot. Lo único que parecía hacer era beber y cantar.
+TEXT_JOBBRD630_02891_SANSON_000_007	Bueno, con él las apariencias engañan. Tiene su propia forma de conseguir información. Hablando de eso, me intriga saber qué averiguó.
+TEXT_JOBBRD630_02891_SANSON_000_008	<split(<string(gstr1)>, ,1)>, ¿podría buscarlo por el castrum? Mientras tanto, yo vigilaré de cerca a Nourval.
+TEXT_JOBBRD630_02891_SANSON_000_015	Guydelot andará por algún lugar del castrum, haciendo sus averiguaciones con una lira en una mano y una copa en la otra. Por favor, búsquelo y pregúntele qué logró averiguar.
+TEXT_JOBBRD630_02891_NOURVAL_000_020	Todo un personaje, sin duda, je, je, je...
+TEXT_JOBBRD630_02891_GUYDELOT_000_030	Sanson quiere saber lo que sé, ¿eh? Bueno, puede que haya averiguado una o dos cosas, pero todavía no estoy listo para contarlas.
+TEXT_JOBBRD630_02891_GUYDELOT_000_031	Todavía tengo que aclarar algunos detalles, ¿ves?, y no soy de los que cuentan historias a medias. No es digno de un bard, como seguro que entiendes.
+TEXT_JOBBRD630_02891_GUYDELOT_000_032	Pero ya que estás aquí, <italic(1)>sí<italic(0)> hay algo en lo que me vendría bien una mano.
+TEXT_JOBBRD630_02891_GUYDELOT_000_033	Últimamente unos bandidos enmascarados están aterrorizando la zona. Al parecer, ni siquiera los soldados de la Alliance están a salvo. Hace unos días esos desgraciados descarados atacaron una patrulla.
+TEXT_JOBBRD630_02891_GUYDELOT_000_034	Y ahora un explorador de los Twin Adder no volvió a tiempo, y lo más probable es que los bandidos estén otra vez en lo suyo. Quiero que vayas a ver qué pasa.
+TEXT_JOBBRD630_02891_GUYDELOT_100_034	Iría yo, pero tengo que vigilar a nuestro amigo Nourval. Desde que llegamos se está comportando de forma rara.
+TEXT_JOBBRD630_02891_GUYDELOT_000_035	Después habrá más que contar, pero por ahora más te vale ponerte en marcha. El soldado iba a Schism, las ruinas al noreste de aquí.
+TEXT_JOBBRD630_02891_SANSON_000_040	¿No solo se niega a contar lo que averiguó, sino que encima le encarga una tarea? Bueno, conociendo a Guydelot, debemos suponer que tiene sus razones. Por favor, haga lo que le pide.
+TEXT_JOBBRD630_02891_GUYDELOT_000_045	Recuerda, el explorador de los Twin Adder iba a Schism, las ruinas al noreste de aquí. Mientras tanto, yo vigilaré a Nourval.
+TEXT_JOBBRD630_02891_POPMESSAGE_100_046	¡Te atacan!
+TEXT_JOBBRD630_02891_BALLOON_000_048	¡Vienen más!
+TEXT_JOBBRD630_02891_BALLOON_000_049	¡Hasta aquí llegaste!
+TEXT_JOBBRD630_02891_SERPENTSOLDIER02891_000_050	G-Gracias... Me cayeron encima sin el menor aviso.
+TEXT_JOBBRD630_02891_SERPENTSOLDIER02891_000_051	<italic(1)>Sabían<italic(0)> que yo venía. Cambiamos las rutas de patrulla con regularidad, pero lo sabían. Es más, era como si quisieran cerrarme el paso.
+TEXT_JOBBRD630_02891_SERPENTSOLDIER02891_000_052	Pero no es momento de especular. Tengo que llevarles la noticia a mis superiores. Gracias otra vez, amig<if(gnum4,a,o)>.
+TEXT_JOBBRD630_02891_SANSON_000_060	Guydelot se niega a decir una palabra hasta que usted vuelva. Me digo que tiene sus razones, pero por los dioses que es irritante.
+TEXT_JOBBRD630_02891_NOURVAL_000_065	Pregunto yo: ¿cómo puede un hombre ocuparse de sus asuntos si lo vigilan constantemente? Y yo solo quiero ayudar.
+TEXT_JOBBRD630_02891_GUYDELOT_000_070	Ahí estás, <split(<string(gstr1)>, ,1)>. ¿Y bien, qué pasó? ¿Eran los bandidos, al final?
+TEXT_JOBBRD630_02891_SANSON_000_071	¡¿Bandidos enmascarados en la zona, y usted se cruzó con ellos?! ¡Gracias a la Matron que no sufrió daño!
+TEXT_JOBBRD630_02891_SANSON_100_071	Guydelot, ¿por qué no le pareció oportuno contarnos esto?
+TEXT_JOBBRD630_02891_GUYDELOT_101_071	Sí, bueno, sabía que no era nada que <split(<string(gstr1)>, ,1)> no pudiera manejar sol<if(gnum4,a,o)>. Además, yo tenía mis propios asuntos: alguien a quien vigilar.
+TEXT_JOBBRD630_02891_NOURVAL_000_072	...No me imagino quién podrá ser. Maestro Guydelot, le debo una disculpa. Supuse equivocadamente que no estaba haciendo su trabajo. Por poco ortodoxos que sean sus métodos, su eficacia está fuera de duda.
+TEXT_JOBBRD630_02891_GUYDELOT_000_073	Lo mío no tiene ningún truco. Todo el mundo tiene una canción que lleva en el corazón, y con un poco de camaradería y unas copas te dicen cuál es. Después se la toco mientras charlamos de corazón a corazón, y listo.
+TEXT_JOBBRD630_02891_SANSON_000_074	Gracias a Guydelot pudimos enterarnos de los incidentes recientes. Así que te pregunto: ¿no puedes tenernos un poco de confianza?
+TEXT_JOBBRD630_02891_NOURVAL_000_075	No estoy seguro de entender.
+TEXT_JOBBRD630_02891_SANSON_000_076	Mira, Nourval. Hicimos una parada aquí a pedido tuyo, para reunir información para nuestra búsqueda. Pero ni una sola vez nos dijiste qué es lo que deberíamos buscar.
+TEXT_JOBBRD630_02891_SANSON_000_077	A estas alturas conocemos más que bien la región que hay más allá. ¿Qué hacemos ahora?
+TEXT_JOBBRD630_02891_NOURVAL_000_078	Ay, ¿no se los dije? Mis más sinceras disculpas. El tomo que buscamos... dicen que está en un lugar relacionado con Gylbarde, el general que dirigió las fuerzas alamhiganas en la Autumn War.
+TEXT_JOBBRD630_02891_GUYDELOT_000_079	Ahora que lo dices, los bandidos enmascarados aparecieron camino a Schism. Y Gylbarde era un conocido devoto del Fist of Rhalgr. Es solo una corazonada, pero puede que ellos también busquen el tomo.
+TEXT_JOBBRD630_02891_NOURVAL_000_082	Una idea inquietante. Si así fuera, no tenemos tiempo que perder. Iré a hacer averiguaciones de inmediato.
+TEXT_JOBBRD630_02891_SANSON_000_083	¡E-Espera! No te di perm...
+TEXT_JOBBRD630_02891_GUYDELOT_000_084	Déjalo. Hay algo que ustedes dos tienen que saber.
+TEXT_JOBBRD630_02891_GUYDELOT_000_085	Me lo dijo un soldado: Nourval estuvo saliendo a escondidas del castrum cuando no mirábamos.
+TEXT_JOBBRD630_02891_GUYDELOT_000_086	El desgraciado anda muy sospechoso desde que llegamos, y se puso bien tenso cuando salió el tema de los bandidos enmascarados.
+TEXT_JOBBRD630_02891_SANSON_000_087	Sean cuales sean sus verdaderos motivos, tenemos que sacarlos a la luz. En lugar de atarlo corto, démosle cuerda para que actúe.
+TEXT_JOBBRD630_02891_SANSON_000_088	No hay forma de saber qué hará Nourval ahora. Mientras nosotros vigilamos, por favor, asegúrese de estar <if(gnum4,lista,listo)> para cualquier cosa.

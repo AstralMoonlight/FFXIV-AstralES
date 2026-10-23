@@ -1,0 +1,81 @@
+key	text
+TEXT_JOBBRD601_02890_SEQ_00	A Jehantel se le iluminan los ojos al verte.
+TEXT_JOBBRD601_02890_SEQ_01	Con la voz rebosante de alegría, Jehantel te cuenta que Sanson, con quien viajaste antes, logró la aprobación oficial para su unidad de bards. Ahora mismo, el joven capitán de los Twin Adder está reuniendo miembros para su primera misión, y al parecer tiene un favor que pedirte al respecto. Ve a Quiver's Hold, en Gridania, y averigua qué necesita tu amigo.
+TEXT_JOBBRD601_02890_SEQ_02	Sanson te saluda con calidez y te pide que participes en la primera salida de su unidad. Si quieres ayudarlo, reúnete con él en el Adders' Nest, donde recibirá sus órdenes del Comandante Vorsaile Heuloix.
+TEXT_JOBBRD601_02890_SEQ_03	Llegó al Adders' Nest una carta anónima que afirma que existe un tomo con un secreto comprometedor sobre la Autumn War. Para frenar el creciente sentimiento contra los alamhiganos entre los gridanianos, la Order of the Twin Adder decidió enviar a investigar a la recién formada unidad de Sanson. Dirígete a Nine Ivies, en el East Shroud, y busca al misterioso remitente de la carta.
+TEXT_JOBBRD601_02890_SEQ_04	En Nine Ivies te encuentras con el remitente de la carta, un gridaniano llamado Nourval. El joven dice descender de un soldado que peleó en la Autumn War, y según lo que le contaron sus padres, el tomo en cuestión está en algún lugar de Gyr Abania. Se ofrece a ayudar en la búsqueda con la condición de que le permitan acompañarlos, y Sanson cede. Ahora dirígete a Castrum Oriens, que está en el borde de la región.
+TEXT_JOBBRD601_02890_SEQ_05	Por recomendación de Nourval, Sanson decide que la unidad se quede un tiempo en Castrum Oriens para reunir información. Descansa por ahora y prepárate para partir cuando tus camaradas terminen sus averiguaciones.<br><br>※La siguiente misión de bard estará disponible con Sanson al llegar al nivel 63.
+TEXT_JOBBRD601_02890_TODO_00	Habla con Sanson en Quiver's Hold.
+TEXT_JOBBRD601_02890_TODO_01	Habla con Vorsaile Heuloix en el Adders' Nest.
+TEXT_JOBBRD601_02890_TODO_02	Habla con el remitente de la carta en Nine Ivies.
+TEXT_JOBBRD601_02890_TODO_03	Habla con Nourval en Castrum Oriens.
+TEXT_JOBBRD601_02890_JEHANTEL_000_000	Ah, mi querid<if(gnum4,a,o)> <split(<string(gstr1)>, ,1)>. Qué amable de tu parte venir a verme, y en buen momento. Nuestro amigo Sanson, con quien viajaste... Lo vi hace poco, y me alegra decir que sus esfuerzos por fin dieron fruto.
+TEXT_JOBBRD601_02890_JEHANTEL_000_001	Sí, su propuesta de una unidad con bards recibió la aprobación formal. Ahora mismo está reuniendo miembros para la primera misión de la unidad.
+TEXT_JOBBRD601_02890_JEHANTEL_000_002	Durante nuestra conversación, Sanson mencionó que tenía un favor que pedirte. Si todavía no te buscó, quizás puedas ir a verlo tú primero. Lo más probable es que lo encuentres en Quiver's Hold.
+TEXT_JOBBRD601_02890_JEHANTEL_000_005	Si todavía no tuviste noticias de Sanson, quizás puedas ir a verlo tú primero. Lo más probable es que lo encuentres en Quiver's Hold.
+TEXT_JOBBRD601_02890_JEHANTEL_000_010	No tenía nada que hacer, así que pensé en venir. Ve a ver qué necesita Sanson de ti.
+TEXT_JOBBRD601_02890_SANSON_000_020	¡<split(<string(gstr1)>, ,1)>, qué alegría verl<if(gnum4,a,o)>! Nuestro esfuerzo valió la pena, <if(gnum4,amiga mía,amigo mío)>: ¡recibí permiso para formar mi unidad de bards! ¡Y además ya nos asignaron nuestra primera misión!
+TEXT_JOBBRD601_02890_SANSON_000_021	No podría estar más contento... salvo por un problema práctico: a nuestros nuevos reclutas todavía les falta experiencia para lanzarse a una misión de verdad.
+TEXT_JOBBRD601_02890_SANSON_000_022	Al buscar a quién sumar, pensé de inmediato en usted, <split(<string(gstr1)>, ,1)>. Es un ejemplo entre los bards, y me daría mucho ánimo que participara en nuestra primera salida.
+TEXT_JOBBRD601_02890_SANSON_000_023	También me tomé la libertad de pedir el traslado de Guydelot a la unidad. ¡Con la experiencia y el talento de los dos, seguro que daremos una primera impresión espléndida!
+TEXT_JOBBRD601_02890_SANSON_000_024	Bien, voy a recibir mis órdenes del Comandante Heuloix. ¿Puedo suponer que me acompañará?
+TEXT_JOBBRD601_02890_JEHANTEL_000_025	Permíteme decir que yo también tengo interés en el éxito del joven Sanson. Te estaría personalmente agradecido si le prestaras tu ayuda, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBBRD601_02890_JEHANTEL_000_030	Veamos qué clase de misión nos tiene preparada el comandante.
+TEXT_JOBBRD601_02890_SANSON_000_035	Con usted en el equipo, el éxito está casi asegurado.
+TEXT_JOBBRD601_02890_VORSAILE_000_040	Pero si es <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>. Según todos, usted fue clave en el éxito de la anterior expedición del Capitán Smyth. Nos alegra contar con su cooperación.
+TEXT_JOBBRD601_02890_VORSAILE_000_041	Bien, permítanme explicarles la misión. Nuestra orden recibió una carta anónima que hace ciertas... afirmaciones. Queremos que su unidad compruebe si son ciertas.
+TEXT_JOBBRD601_02890_SANSON_000_042	(-Carta anónima-)Existe un tomo que guarda un secreto comprometedor sobre la Autumn War. Si lo quieren, manden a Nine Ivies a su mejor hombre. Allí estaré esperando.
+TEXT_JOBBRD601_02890_SANSON_000_043	...¿La guerra entre Gridania y Ala Mhigo? Pero terminó hace cien años. Me cuesta imaginar qué secreto podría ser tan comprometedor todavía hoy. ¿No será una broma de mal gusto, Comandante?
+TEXT_JOBBRD601_02890_VORSAILE_000_044	Nuestros líderes creen que es probable, desde luego, pero no es un riesgo que estén dispuestos a correr. No, no con los vientos que soplan en la opinión pública.
+TEXT_JOBBRD601_02890_VORSAILE_000_045	Todos saben que nuestra orden participa en la campaña de la Alliance para liberar Ala Mhigo.
+TEXT_JOBBRD601_02890_VORSAILE_000_050	Todos saben que nuestra orden participa en la ayuda de la Alliance a Ala Mhigo, recién liberada.
+TEXT_JOBBRD601_02890_VORSAILE_000_055	Pues hay ciudadanos que no lo aprueban, una facción pequeña pero decidida que se niega a olvidar los agravios de hace un siglo. Todavía ven a Ala Mhigo como el enemigo, y se oponen con ardor a que le tendamos una mano.
+TEXT_JOBBRD601_02890_VORSAILE_000_056	No podemos permitir nada que pueda avivar el descontento de la gente, y debemos actuar rápido. Su misión es contactar al remitente de la carta y averiguar la naturaleza del secreto.
+TEXT_JOBBRD601_02890_GUYDELOT_000_057	(-Voz conocida-)...¿A eso le llaman misión? Más bien un maldito mandado. No tenían ganas de ocuparse ustedes, así que se lo encajan a la unidad nueva y entusiasta.
+TEXT_JOBBRD601_02890_GUYDELOT_000_059	¿Y si el secreto resulta incómodo para Gridania, qué? ¿Lo van a esconder debajo de la alfombra, junto con todo nuestro esfuerzo?
+TEXT_JOBBRD601_02890_SANSON_000_060	¡Guydelot, cuide su lengua! ¡Le está hablando a un oficial superior!
+TEXT_JOBBRD601_02890_VORSAILE_000_061	Ah, así que tú eres el famoso Guydelot. No te preocupes, amigo mío. Sea cual sea el secreto, te doy mi garantía personal de que tú y los tuyos recibirán el reconocimiento que merecen por descubrirlo.
+TEXT_JOBBRD601_02890_GUYDELOT_000_062	Eso me basta. Hace siglos que <split(<string(gstr1)>, ,1)> y yo no actuamos juntos, y solo quiero disfrutar del momento, sin complicaciones, ¿me entiendes?
+TEXT_JOBBRD601_02890_JEHANTEL_000_064	La Autumn War es un tema delicado para los gridanianos, sobre todo para los más viejos. Y para nosotros, los bards, también es notable porque en ella participaron archers que cantaban.
+TEXT_JOBBRD601_02890_JEHANTEL_000_065	En el curso de su misión, me atrevo a decir que habrá mucho sobre lo que reflexionar y muchas ocasiones para crecer. Les deseo a los tres la mejor de las suertes.
+TEXT_JOBBRD601_02890_SANSON_000_066	Sin más demora, apurémonos a Nine Ivies... antes de que Guydelot pueda cometer más indiscreciones.
+TEXT_JOBBRD601_02890_VORSAILE_000_070	No hay forma de saber quién, o qué, los espera en Camp Nine Ivies. Asegúrense de prepararse bien.
+TEXT_JOBBRD601_02890_SANSON_000_075	Si no me equivoco, este es nuestro misterioso remitente.
+TEXT_JOBBRD601_02890_GUYDELOT_000_080	¿Crees que es nuestro hombre?
+TEXT_JOBBRD601_02890_NOURVAL_000_080	(-Nourval-)Bienvenidos, amigos. Soy Nourval, un humilde ciudadano de Gridania, y veo que recibieron mi carta.
+TEXT_JOBBRD601_02890_SANSON_000_081	Vinimos como pediste. El tomo, si eres tan amable.
+TEXT_JOBBRD601_02890_NOURVAL_000_082	(-Nourval-)Ah, pero yo nunca dije que lo tuviera. Y para que quede claro, no lo tengo.
+TEXT_JOBBRD601_02890_SANSON_000_083	¿Qué? ¿Entonces para qué nos hiciste venir?
+TEXT_JOBBRD601_02890_NOURVAL_000_084	(-Nourval-)Paciencia, amigos. Se los explicaré. Verán, como muchos gridanianos, tengo un antepasado que peleó en la Autumn War. Fue él quien supo primero del tomo en cuestión, cuando terminaron los combates.
+TEXT_JOBBRD601_02890_NOURVAL_000_085	(-Nourval-)Yo, a mi vez, lo supe por mis padres, y desde entonces soñé con hojear sus páginas. Por desgracia, como está en lo profundo del territorio alamhigano, me había resignado a no tener nunca la oportunidad.
+TEXT_JOBBRD601_02890_NOURVAL_000_086	(-Nourval-)Pero entonces los valientes soldados de la Alliance tomaron Baelsar's Wall, y el camino quedó despejado. Cuando me enteré, se reavivaron las llamas de mi pasión de niño. ¡Por fin puedo cumplir mi sueño!
+TEXT_JOBBRD601_02890_NOURVAL_000_087	(-Nourval-)...O eso me dije, antes de pensarlo mejor. Verán, no soy soldado, y la idea de vagar por una tierra arrasada por la guerra en busca de un tomo es, francamente, poco realista. Por eso decidí pedirle cooperación a su orden.
+TEXT_JOBBRD601_02890_NOURVAL_000_088	(-Nourval-)Por lo que me contaron mis padres, confío en poder dar con el tomo. Y los ayudaré a encontrarlo. Solo les pido que me lleven con ustedes.
+TEXT_JOBBRD601_02890_NOURVAL_000_089	(-Nourval-)...¿Qué me dicen? No soy más que un plebeyo y sé poco de los asuntos de las naciones, pero me parece que un secreto como el que oculta el tomo podría dañar las relaciones diplomáticas. ¿No es así?
+TEXT_JOBBRD601_02890_SANSON_000_090	Así que si queremos encontrar el tomo, tenemos que aceptar tu compañía. Vaya exigencia para hacerle a tu nación.
+TEXT_JOBBRD601_02890_GUYDELOT_000_091	Je, tienes agallas, eso seguro. ¡Me gusta!
+TEXT_JOBBRD601_02890_SANSON_000_092	¿Habla en serio? Un civil prácticamente nos tiene de rehenes, ¿y usted lo elogia por sus agallas?
+TEXT_JOBBRD601_02890_GUYDELOT_000_093	Míralo así: no sabíamos que el tomo existía, ni tenemos la menor idea de dónde buscarlo. Mejor tener ayuda que andar a tientas, digo yo. Vamos, <split(<string(gstr1)>, ,1)>, apóyame.
+TEXT_JOBBRD601_02890_Q1_000_000	¿Qué dices?
+TEXT_JOBBRD601_02890_A1_000_001	Parece que no tenemos opción.
+TEXT_JOBBRD601_02890_A1_000_002	Agallas no le faltan.
+TEXT_JOBBRD601_02890_SANSON_100_093	Supongo que tiene razón. Nos guste o no, nos costaría mucho sin lo que sabe Nourval.
+TEXT_JOBBRD601_02890_SANSON_101_093	¿Usted también, <split(<string(gstr1)>, ,1)>? ¿Tanto importan las apariencias para un bard? \<suspiro> Dejando de lado por un momento lo de las agallas, no voy a negar que nos costaría mucho sin lo que sabe Nourval.
+TEXT_JOBBRD601_02890_SANSON_000_094	Muy bien, aceptamos tus condiciones. Y esta es la nuestra: debes obedecer nuestras órdenes en todo momento.
+TEXT_JOBBRD601_02890_NOURVAL_000_095	(-Nourval-)¡Al pie de la letra, señor! ¡No se arrepentirán de traerme!
+TEXT_JOBBRD601_02890_SANSON_000_096	Primero iremos a Castrum Oriens, que ahora está en manos de la Order of the Twin Adder. Desde allí nos adentraremos en lo desconocido.
+TEXT_JOBBRD601_02890_SYSTEM_000_097	Para continuar esta misión, primero debes empezar la misión de la historia principal "Beyond the Great Wall".
+TEXT_JOBBRD601_02890_SANSON_000_100	Y aquí estamos, en el extremo oriental del Twelveswood. El viaje apenas empezó, pero ya le estoy muy agradecido por su compañía, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBBRD601_02890_GUYDELOT_000_105	Soldados de todas las naciones, todos en un mismo lugar: ¡una verdadera mina de oro de canciones e historias, si alguna vez vi una!
+TEXT_JOBBRD601_02890_NOURVAL_000_110	(-Nourval-)Los ejércitos de las cuatro naciones, unidos bajo una bandera y un propósito. ¡Un espectáculo que levanta el ánimo!
+TEXT_JOBBRD601_02890_SANSON_000_111	¿Y bien? ¿Adónde ahora?
+TEXT_JOBBRD601_02890_NOURVAL_000_113	(-Nourval-)Le ruego que no se apure, Maestro Sanson. Antes de aventurarnos en las tierras salvajes de Gyr Abania, haríamos bien en conocer el terreno.
+TEXT_JOBBRD601_02890_NOURVAL_000_114	(-Nourval-)Como capitán de los Twin Adder, debería ser fácil para usted conseguir permiso para que nos quedemos aquí. Solo el tiempo necesario para orientarnos.
+TEXT_JOBBRD601_02890_SANSON_000_115	Hmmm, supongo que sería lo prudente...
+TEXT_JOBBRD601_02890_SANSON_000_116	Muy bien, le pediré permiso al mando.
+TEXT_JOBBRD601_02890_GUYDELOT_000_117	¡Y yo me pondré enseguida a hacer amistad con los lugareños! Siempre quise comparar las canciones de las cuatro naciones... y los licores, también, ¡je, je, je!
+TEXT_JOBBRD601_02890_NOURVAL_000_118	(-Nourval-)El Maestro Guydelot es todo un personaje, ¿no?
+TEXT_JOBBRD601_02890_SANSON_000_119	Sí, lo es. No le hagas caso. Bien, yo haré mis propias averiguaciones. Mientras tanto, tú no llames la atención y no molestes a la guarnición. ¿Entendido?
+TEXT_JOBBRD601_02890_SANSON_000_120	<split(<string(gstr1)>, ,1)>, Guydelot y yo nos ocuparemos de los asuntos de aquí. Por favor, descanse hasta que estemos listos para partir.
+TEXT_JOBBRD601_02890_SYSTEM_000_200	La siguiente misión de bard estará disponible con Sanson al llegar al nivel 63.
+TEXT_JOBBRD601_02890_SYSTEM_000_201	Puedes consultar en tu journal los requisitos para empezar las siguientes misiones.

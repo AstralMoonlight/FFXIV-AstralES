@@ -1,0 +1,96 @@
+key	text
+TEXT_JOBMNK650_02428_SEQ_00	Widargelt tiene un plan de expansión.
+TEXT_JOBMNK650_02428_SEQ_01	Aunque a Widargelt le alegra que crezca el número de sus alumnos, todavía hay aldeanos que dudan de la autenticidad de su estilo. Para ganárselos, piensa organizar un combate entre disciplinas que enfrente a monks y pugilists. Como cara conocida del Pugilists' Guild, te encargaron llevar la invitación. Dirígete a Ul'dah y plantéale el asunto a Hamon.
+TEXT_JOBMNK650_02428_SEQ_02	Al llegar al Pugilists' Guild encuentras no solo a Hamon y a Chuchuto, sino también a Rurukuta, que volvió por un tiempo de sus andanzas. A todos les gusta la idea de un combate entre disciplinas, y el maestro del gremio acepta formalmente. Vuelve a Ala Gannha y avísale a Widargelt que los pugilists están en camino.
+TEXT_JOBMNK650_02428_SEQ_03	Widargelt está eufórico al saber que Hamon aceptó la invitación, y se pone a preparar el combate. Te pide que lo veas directamente en Schism, en the Fringes, el lugar elegido.
+TEXT_JOBMNK650_02428_SEQ_04	Apenas llegas a Schism se oyen gritos desde el río: D'zentsa y O'tchakha están en peligro. Corre tras Widargelt a ayudarlas.
+TEXT_JOBMNK650_02428_SEQ_05	Encuentras a Widargelt de rodillas, vencido sin esfuerzo por una banda de hombres dirigida por el misterioso Theobald, que afirma ser el Griffin y también el legítimo Rey de Ala Mhigo. Les lanza una dura advertencia contra revivir el Fist of Rhalgr y revela que Widargelt es en realidad su primo, Theodred, a quien criaron en el Temple of the Fist para librarlo de la ira del King of Ruin. Después Theobald se va, no sin antes anunciar que piensa gobernar Ala Mhigo con puño de hierro. Pasado el peligro inmediato, puedes ocuparte de tus camaradas.
+TEXT_JOBMNK650_02428_SEQ_06	A la luz de lo ocurrido, Widargelt no tiene más remedio que suspender el combate, y con disculpas manda a Hamon y a los suyos de vuelta a Ul'dah. Mientras Widargelt va a ver a sus alumnas, llévale la noticia de estos hechos inquietantes a Erik, que volvió a Ala Gannha de su trabajo de campo.
+TEXT_JOBMNK650_02428_SEQ_07	Erik no puede ocultar su sorpresa ante tu informe. Más allá de la veracidad de las palabras de Theobald, el profesor sostiene que sus secuaces son miembros de la Corpse Brigade, soldados de élite entrenados para combatir a los monks, que en su momento sirvieron a Theodoric como guardia personal. Erik promete investigar las muchas afirmaciones que se hicieron y te pide que vayas a ver a Widargelt.
+TEXT_JOBMNK650_02428_SEQ_08	Encuentras a Widargelt muy desanimado, no solo por la paliza que recibió sino también por la sorprendente revelación sobre su origen. Por ahora, dale a tu hermano monk el tiempo y el espacio que necesita.<br><br>※La siguiente misión de monk estará disponible con Widargelt al llegar al nivel 68.
+TEXT_JOBMNK650_02428_TODO_00	Habla con Hamon en el Pugilists' Guild.
+TEXT_JOBMNK650_02428_TODO_01	Infórmale a Widargelt en Ala Gannha.
+TEXT_JOBMNK650_02428_TODO_02	Habla con Widargelt en Schism.
+TEXT_JOBMNK650_02428_TODO_03	Sigue a Widargelt.
+TEXT_JOBMNK650_02428_TODO_04	Habla con Widargelt.
+TEXT_JOBMNK650_02428_TODO_05	Habla con Erik en Ala Gannha.
+TEXT_JOBMNK650_02428_TODO_06	Habla con Widargelt.
+TEXT_JOBMNK650_02428_WIDARGELT_000_001	Te ves bien, <if(gnum4,hermana,hermano)>. Más fuerte que la última vez que hablamos.
+TEXT_JOBMNK650_02428_WIDARGELT_000_002	Nuestra comunidad también se fortalece. La noticia se corrió después del discurso. Vinieron otros a aprender. Pero es muy pronto para estar satisfechos.
+TEXT_JOBMNK650_02428_WIDARGELT_000_003	Quisiera recibir a más en la fe. Pero todavía hay aldeanos que dudan de nosotros. De nuestra autenticidad y de nuestro propósito.
+TEXT_JOBMNK650_02428_WIDARGELT_000_004	Para convencerlos, quiero demostrar nuestras técnicas. En combate real, con un combate entre disciplinas.
+TEXT_JOBMNK650_02428_WIDARGELT_000_005	Como rivales, pienso en los pugilists de Ul'dah. Si están dispuestos.
+TEXT_JOBMNK650_02428_WIDARGELT_000_006	Eres muy conocid<if(gnum4,a,o)> en el Pugilists' Guild. Si tú se lo pides, seguro que te escucharán.
+TEXT_JOBMNK650_02428_WIDARGELT_000_007	¿Hablarás con ellos en nuestro nombre?
+TEXT_JOBMNK650_02428_WIDARGELT_000_008	Te lo agradezco. Que te vaya bien, <split(<string(gstr1)>, ,1)>. Y mis saludos al Maestro Hamon.
+TEXT_JOBMNK650_02428_DZENTSA_000_010	Mil flexiones y mil sentadillas: eso es razonable para empezar, ¿no?
+TEXT_JOBMNK650_02428_OTCHAKHA_000_015	Espero que Zentsa no espante a nuestros alumnos nuevos con sus exigencias exageradas...
+TEXT_JOBMNK650_02428_HAMON_000_020	¡Ajá! ¡Pero si es una cara conocida, y de las que más aprecio!
+TEXT_JOBMNK650_02428_HAMON_000_021	¡Chuchuto, Rurukuta! ¡Tenemos una visita distinguida!
+TEXT_JOBMNK650_02428_CHUCHUTO_000_022	¡<split(<string(gstr1)>, ,1)>! ¡Por los dioses, cuánto tiempo!
+TEXT_JOBMNK650_02428_RURUKUTA_000_023	Vaya, vaya, parece que elegí un buen momento para tomarme un descanso de mis andanzas. Me alegra verte de nuevo.
+TEXT_JOBMNK650_02428_HAMON_000_024	¡Así es! Bueno, ¿qué te trae por aquí, <if(gnum4,muchacha,hijo)>?
+TEXT_JOBMNK650_02428_CHUCHUTO_000_025	¿Un combate entre disciplinas? ¡Vaya, suena emocionante! ¿No le parece, maestro?
+TEXT_JOBMNK650_02428_HAMON_000_026	\<murmullo> Gyr Abania, tan lejos... Es como ir al otro lado del mundo... \<refunfuño> Puros Highlanders fibrosos... Y hombres, encima...
+TEXT_JOBMNK650_02428_CHUCHUTO_000_027	¡Ay, mira quién habla, un Highlander fibroso, y viejo y arrugado, encima!
+TEXT_JOBMNK650_02428_RURUKUTA_000_028	Yo, por mi parte, aceptaría encantado el desafío. Ya me estaba cansando de dejar a Chuchuto sin sentido a golpes.
+TEXT_JOBMNK650_02428_CHUCHUTO_000_029	¡Dice el que lleva una racha de derrotas!
+TEXT_JOBMNK650_02428_HAMON_000_030	Pero claro que iremos. Después de todo lo que hiciste por nosotros, es lo menos que podemos hacer.
+TEXT_JOBMNK650_02428_HAMON_000_031	Cuanto antes mejor, supongo, y no hay mejor momento que el presente. Partiremos de inmediato.
+TEXT_JOBMNK650_02428_HAMON_000_032	Apúrense a empacar sus cosas. ¡Nos vamos a Gyr Abania!
+TEXT_JOBMNK650_02428_HAMON_000_033	Tú adelántate, <if(gnum4,muchacha,hijo)>, y avísale al joven Widargelt que nos espere. ¡Esto va a estar más reñido que un monk alamhigano!
+TEXT_JOBMNK650_02428_WIDARGELT_000_035	Espero con ganas la respuesta del Maestro Hamon.
+TEXT_JOBMNK650_02428_WIDARGELT_000_040	¿Los pugilists vienen en camino? ¡Alabado sea Rhalgr!
+TEXT_JOBMNK650_02428_WIDARGELT_000_041	Hay mucho que hacer. Anunciaré el combate a los aldeanos. D'zentsa, O'tchakha, estén atentas para recibir a nuestros invitados.
+TEXT_JOBMNK650_02428_WIDARGELT_000_042	Y tú, <split(<string(gstr1)>, ,1)>. Schism. Ese será el lugar. Por favor, ve allí y prepárate.
+TEXT_JOBMNK650_02428_HAMON_000_045	Seguí entrenando y recuperé buena parte de mi antigua fuerza. Todavía lejos de mis días de Holyfist, claro, pero no importa: ¡tengo años por delante! ¡Jo, jo, jo!
+TEXT_JOBMNK650_02428_CHUCHUTO_000_050	Rurukuta se hace el indiferente, pero es el más entusiasmado de todos. ¡Hmph, hay cosas que nunca cambian!
+TEXT_JOBMNK650_02428_WIDARGELT_000_060	Estás aquí. Bien. La gente de Ala Gannha espera un buen combate. No la decepcionemos.
+TEXT_JOBMNK650_02428_WIDARGELT_000_061	Pronto llegarán las muchachas con los pugilists. También se lo dije al profesor. Pero no vendrá. La ciencia antes que el salvajismo, dice.
+TEXT_JOBMNK650_02428_OTCHAKHA_000_062	(-O'tchakha-)¡Aaaaaah!
+TEXT_JOBMNK650_02428_DZENTSA_000_063	(-D'zentsa-)¡Por los siete infiernos! ¿Qué están...? ¡Uuurgh!
+TEXT_JOBMNK650_02428_WIDARGELT_000_064	¡D'zentsa, O'tchakha! ¡Están en problemas!
+TEXT_JOBMNK650_02428_WIDARGELT_000_065	¡Las voces vienen del río! ¡Conmigo, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBMNK650_02428_WIDARGELT_000_070	\<jadeo> Mis técnicas... No les hacen efecto...
+TEXT_JOBMNK650_02428_THEOBALD_000_071	(-Hombre enmascarado-)Jajaja...
+TEXT_JOBMNK650_02428_THEOBALD_000_072	(-Hombre enmascarado-)Vaya, vaya... Creíamos conocer cada ilm de su estilo. Pero tú, aventurer<if(gnum4,a,o)>, no eres como los demás.
+TEXT_JOBMNK650_02428_WIDARGELT_000_073	\<jadeo> Eres el Griffin... El desgraciado que llevó a la muerte a incontables soldados. Hombres y mujeres buenos con toda una vida por delante. \<jadeo> Pero... se suponía que estabas muerto.
+TEXT_JOBMNK650_02428_THEOBALD_000_074	(-Hombre enmascarado-)El desgraciado que murió no era más que un doble, y mejor así, porque se atrevió a tener ambiciones propias. El verdadero Griffin soy <italic(1)>yo<italic(0)>. ¡Y mi verdadero nombre es Theobald, heredero de Theodoric y legítimo Rey de Ala Mhigo!
+TEXT_JOBMNK650_02428_WIDARGELT_000_075	¿Heredero de Theodoric? ¿Rey de Ala Mhigo?
+TEXT_JOBMNK650_02428_THEOBALD_000_076	Así es, y en cumplimiento de mi deber real vine a darte una advertencia. Bajo mi reinado no se tolerarán los cultos que propagan falsas creencias. Abandona cualquier idea tonta de revivir el Fist of Rhalgr. Júrame lealtad, o tendrás el mismo final que tus traicioneros antepasados.
+TEXT_JOBMNK650_02428_WIDARGELT_000_077	¡Mentiras! ¡El linaje de Theodoric se extinguió! ¡Y legítimo o no, nadie se inclinaría ante ti! ¡El pueblo no soportará otro tirano!
+TEXT_JOBMNK650_02428_THEOBALD_000_078	Me hieres, Widargelt. ¿O debería decir... Theodred, querido primo?
+TEXT_JOBMNK650_02428_WIDARGELT_000_079	¡¿Qué?!
+TEXT_JOBMNK650_02428_THEOBALD_000_080	¡Jajaja! ¿Todo este tiempo y no lo sabías? ¿Ni quién eres, ni qué fue de tus padres? Semejante ignorancia es intolerable. No, hay que remediarla de inmediato. Verás, tu padre y tu madre conspiraron para traicionar a la casa real. Por sus crímenes, Su Gracia, mi padre, los ejecutó.
+TEXT_JOBMNK650_02428_THEOBALD_000_081	Y aunque tus padres eran los más torpes de los traidores, tuvieron el ingenio suficiente para saber cuándo se había terminado el juego. Así que mandaron a su querido Theodred, entonces apenas un bebé llorón, a criarse a salvo en el Temple of the Fist. Aunque mi padre se ocupó bastante pronto de ese lugarucho miserable.
+TEXT_JOBMNK650_02428_WIDARGELT_000_082	¡¿T-Te atreves a burlarte de mis padres <italic(1)>y<italic(0)> de mi hogar?! ¡No me importa quién dices ser! ¡Me las pagarás!
+TEXT_JOBMNK650_02428_THEOBALD_000_083	¿No aprendiste nada? Tus técnicas no sirven contra nosotros. Si tu derrota no basta para convencerte, mira la prueba de la destrucción de tu querido templo.
+TEXT_JOBMNK650_02428_THEOBALD_000_084	Escucha bien. Ala Mhigo necesita un gobernante fuerte, un gobernante <italic(1)>absoluto<italic(0)>, que aplaste a sus enemigos y le devuelva su gloria. Ese gobernante soy yo. Tu débil Fist no tiene lugar en su futuro.
+TEXT_JOBMNK650_02428_WIDARGELT_000_100	No es buen momento para el combate. Con mis disculpas al Maestro Hamon, debo suspenderlo.
+TEXT_JOBMNK650_02428_WIDARGELT_100_100	D'zentsa, O'tchakha. Vuelvan a Ala Gannha y descansen, por favor.
+TEXT_JOBMNK650_02428_WIDARGELT_000_101	Yo me quedaré para recibir a nuestros invitados. Espera conmigo, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMNK650_02428_HAMON_000_102	¡Uf! Perdón por la demora, amigos. Como ya había estado aquí una vez, creí que dominaba el camino, ¡pero fue el camino el que me dominó a mí! ¡Jo, jo, jo!
+TEXT_JOBMNK650_02428_HAMON_000_103	...¿Hm? ¿Pasa algo?
+TEXT_JOBMNK650_02428_WIDARGELT_000_104	Sí... Me pusieron delante verdades duras. Que ponen en duda mi propia existencia. Tal como estoy, no soy rival digno para usted y los suyos.
+TEXT_JOBMNK650_02428_WIDARGELT_100_104	Perdóneme, Maestro Hamon. Después de que vino desde tan lejos, me duele decirlo. Pero debo suspender nuestro combate.
+TEXT_JOBMNK650_02428_HAMON_000_105	Bueno, salta a la vista que no lo haces a la ligera. Lo que haya pasado debe de ser grave de verdad.
+TEXT_JOBMNK650_02428_HAMON_100_105	Por ahora, muchacho, más te vale ocuparte de ti mismo. Ya habrá otra ocasión para intercambiar golpes.
+TEXT_JOBMNK650_02428_HAMON_000_106	Vamos, ustedes dos. Nos vamos a casa.
+TEXT_JOBMNK650_02428_RURUKUTA_000_107	¡¿Ya?! Apenas llegamos, y encima por el camino largo. Déjenme descansar un momento, ¿quieren?
+TEXT_JOBMNK650_02428_CHUCHUTO_000_108	¡Ay, no seas tan blandengue! ¡Con todo lo que andas por ahí, seguro que esta distancia no es nada para ti!
+TEXT_JOBMNK650_02428_HAMON_100_108	¿Y Widargelt? Que quede claro: solo estamos posponiendo el combate. Sea lo que sea lo que te aflige ahora, confío en que te recuperarás, listo para darme golpe por golpe.
+TEXT_JOBMNK650_02428_WIDARGELT_000_109	El Maestro Hamon es un alma bondadosa. Solo siento gratitud.
+TEXT_JOBMNK650_02428_WIDARGELT_000_110	Volvamos a Ala Gannha. Tengo que ir a ver a D'zentsa y O'tchakha. Mientras tanto, por favor, busca al Profesor Erik. Cuéntale todo lo que pasó.
+TEXT_JOBMNK650_02428_HAMON_000_115	El joven Widargelt quiere revivir el Fist of Rhalgr, ¿no es así? Una misión noble, pero nada fácil, como seguro que ya sabes. Pero cuando las cosas se ponen difíciles, hay que seguir creyendo: en la causa y en los demás. Y si alguna vez necesitan más puños, pueden contar con nosotros cuando quieran.
+TEXT_JOBMNK650_02428_CHUCHUTO_000_120	Si hay algo que podamos hacer, lo que sea, solo avísanos.
+TEXT_JOBMNK650_02428_ERIK_000_130	¡¿Qué?! A ver si entendí: me estás diciendo que Widargelt, <italic(1)>nuestro<italic(0)> Widargelt, ese mastodonte torpe, es en realidad Theodred, sobrino de Theodoric, el King of Ruin...
+TEXT_JOBMNK650_02428_ERIK_000_131	Y que ese hombre que dice ser el Griffin, al que se daba por muerto, también dice ser Theobald, el legítimo heredero de Theodoric, al que también se daba por muerto. Por los dioses, ni un bard borracho podría inventarse algo así.
+TEXT_JOBMNK650_02428_ERIK_000_132	Dejando de lado los detalles estrafalarios, tengo una sospecha sobre la identidad de quienes los atacaron. Son la misma banda que arrasó el Temple of the Fist: la Corpse Brigade. Entrenados para combatir a los monks, sirvieron al King of Ruin como guardia personal, aunque sería más exacto decir agentes personales de destrucción. Pero cuando su señor cayó, cayeron ellos también, y se volvieron bandidos sobrecalificados.
+TEXT_JOBMNK650_02428_ERIK_000_133	Aun así, parece que no olvidaron del todo su entrenamiento. Eso explicaría por qué, pese a todo su dominio del Fist, Widargelt y las muchachas no pudieron con ellos. Que tú sí pudieras plantarles cara se debe, creo, a tu formación de pugilist.
+TEXT_JOBMNK650_02428_ERIK_000_134	En todo caso, ahora es momento de armarnos de conocimiento. Primero investigaré las múltiples afirmaciones de Theobald. En cuanto a ti, te sugiero que vayas a ver a tu amigo. Conociendo a ese zoquete, estará confundido y abatido sin remedio.
+TEXT_JOBMNK650_02428_WIDARGELT_000_135	Por favor, busca al Profesor Erik. Cuéntale todo lo que pasó.
+TEXT_JOBMNK650_02428_WIDARGELT_000_140	Ah, eres tú...
+TEXT_JOBMNK650_02428_WIDARGELT_000_141	Conocí la derrota. Probé mi buena parte. Pero no así. Estaba indefenso como un bebé.
+TEXT_JOBMNK650_02428_WIDARGELT_000_142	"La fuerza para proteger", proclamé. Pero ni siquiera pude proteger a los míos. Todos mis años de entrenamiento. Todos inútiles. ¿Qué tengo para ofrecerle a la gente?
+TEXT_JOBMNK650_02428_WIDARGELT_000_143	Y pensar... que el rey loco es mi tío. Soy sobrino del hombre que asesinó a mis padres. Que destruyó nuestro templo. Que llevó a nuestra nación a la ruina.<br>...Perdóname, <if(gnum4,hermana,hermano)>. Quiero estar solo.
+TEXT_JOBMNK650_02428_SYSTEM_000_150	Clavaron en el suelo un maniquí de entrenamiento de fabricación alamhigana.

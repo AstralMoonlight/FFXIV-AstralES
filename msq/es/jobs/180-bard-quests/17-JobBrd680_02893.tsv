@@ -1,0 +1,67 @@
+key	text
+TEXT_JOBBRD680_02893_SEQ_00	Sanson está a punto de tomar una decisión sobre el tomo.
+TEXT_JOBBRD680_02893_SEQ_01	Después de oír tu opinión sincera, Sanson decidió qué hacer con el diario que guarda el sórdido secreto de la Autumn War. Ve con él a ver a Guydelot y escucha su anuncio junto a tu hermano bard.
+TEXT_JOBBRD680_02893_SEQ_02	Sanson anuncia que entregará el diario de Gylbarde a sus superiores, pero solo con la condición de que la verdad se dé a conocer algún día, cuando la gente esté lista para oírla. En ese momento llega una carta de Nourval que pide hablar contigo, y solo contigo. Aunque Guydelot sospecha mucho, Sanson prefiere creer que quizás Nourval sí tenga algo importante que decir, y te pide que lo veas cerca del Percipient One, en Dimwold.
+TEXT_JOBBRD680_02893_SEQ_03	Al llegar al punto de encuentro, unos hombres enmascarados te tienden una emboscada, y terminas intercambiando golpes con ellos en lugar de palabras con Nourval. Vuelve rápido a Castrum Oriens y cuéntales a tus camaradas lo que pasó.
+TEXT_JOBBRD680_02893_SEQ_04	Al volver al castrum encuentras a Guydelot solo. Al parecer llegó una segunda carta poco después de que partieras, esta vez para Sanson, y queda claro que él era el objetivo de Nourval desde el principio. Sigue a Guydelot, que vuelve sobre los pasos de Sanson hacia el Percipient One.
+TEXT_JOBBRD680_02893_SEQ_05	Encuentras el cuaderno de Sanson con un mensaje escrito con sangre. Como temían, Nourval se llevó a tu amigo y pronto les hará saber su precio. Vuelve a Gridania y reúnete con Guydelot en el Adders' Nest, donde pedirá la ayuda de la orden.
+TEXT_JOBBRD680_02893_SEQ_06	Aunque Guydelot informó de la situación a sus superiores, se queda con el diario de Gylbarde como garantía. Mientras esperan a ver cómo se mueven la orden y Nourval, tu camarada te pide que descanses y conserves las fuerzas, porque sin duda las vas a necesitar en la misión de rescate que se viene.<br><br>※La siguiente misión de bard estará disponible con Guydelot al llegar al nivel 70.
+TEXT_JOBBRD680_02893_TODO_00	Habla con Guydelot.
+TEXT_JOBBRD680_02893_TODO_01	Espera a Nourval en el Percipient One.
+TEXT_JOBBRD680_02893_TODO_02	Habla con Guydelot.
+TEXT_JOBBRD680_02893_TODO_03	Habla con Guydelot.
+TEXT_JOBBRD680_02893_TODO_04	Habla con Guydelot en el Adders' Nest.
+TEXT_JOBBRD680_02893_GUYDELOT_100_000	Sanson todavía está intentando decidirse. Bueno, tampoco es que yo tenga prisa.
+TEXT_JOBBRD680_02893_SANSON_000_000	En cuanto le entreguemos el diario de Gylbarde al cuartel general, es casi seguro que la verdad sobre la muerte de Vainchelon quedará borrada de la historia...
+TEXT_JOBBRD680_02893_SANSON_000_001	Pensé largo y tendido qué hacer, qué deberíamos hacer con el tomo, y creo que estoy cerca de la respuesta.
+TEXT_JOBBRD680_02893_SANSON_000_002	Antes de decidir, sin embargo, quisiera su opinión sincera. ¿Cree que la sórdida verdad de la Autumn War debería hacerse pública? ¿Aunque ponga en peligro nuestras relaciones con Ala Mhigo?
+TEXT_JOBBRD680_02893_Q1_000_000	¿Qué deberíamos hacer con la verdad?
+TEXT_JOBBRD680_02893_A1_000_001	Hacerla pública.
+TEXT_JOBBRD680_02893_A1_000_002	Mantenerla en secreto.
+TEXT_JOBBRD680_02893_A1_000_003	Comprobar si es cierta.
+TEXT_JOBBRD680_02893_SANSON_000_010	Una elección recta de <if(gnum4,una mujer recta,un hombre recto)>. Aunque los motivos y los métodos de Nourval son inadmisibles, no se puede negar que buscar la verdad tiene algo de justo.
+TEXT_JOBBRD680_02893_SANSON_000_020	Una elección práctica de <if(gnum4,una mujer práctica,un hombre práctico)>. Como militar, debería ser también la mía. Aunque la verdad se perdería, podría decirse que es un sacrificio pequeño frente al caos posible.
+TEXT_JOBBRD680_02893_SANSON_000_025	Así es: una elección sensata exige entender bien la situación. Como siempre, usted es una isla de razón serena en medio de un mar de caos.
+TEXT_JOBBRD680_02893_SANSON_000_030	Gracias, <split(<string(gstr1)>, ,1)>. Como líder de nuestra unidad, ahora estoy listo para tomar mi decisión.
+TEXT_JOBBRD680_02893_SANSON_000_031	Busquemos a Guydelot. Él también querrá oírla.
+TEXT_JOBBRD680_02893_SANSON_000_035	Cuando estén listos los dos, anunciaré mi decisión.
+TEXT_JOBBRD680_02893_GUYDELOT_000_040	¿Y bien, ya te decidiste? ¿Sobre qué hacer con la verdad?
+TEXT_JOBBRD680_02893_SANSON_000_041	Sí. Iré al Adders' Nest y dejaré el diario en manos de nuestros superiores. Ante todo, no podemos permitir que se use como instrumento de odio.
+TEXT_JOBBRD680_02893_SANSON_000_042	Dicho esto, tampoco voy a permitir que se borre la verdad. Me opondré con todo mi ser a cualquier intento de hacerlo.
+TEXT_JOBBRD680_02893_GUYDELOT_000_043	Eh, no sé si entiendo. ¿Qué quieres hacer exactamente?
+TEXT_JOBBRD680_02893_SANSON_000_044	Entregaré el diario... con la condición de que la verdad se revele algún día, cuando la gente esté lista para aceptarla.
+TEXT_JOBBRD680_02893_SANSON_000_045	Llámeme indeciso, pero no soporto ver que se use mal el tomo, ni que se entierre la verdad a propósito.
+TEXT_JOBBRD680_02893_GUYDELOT_000_046	¡Vaya, vaya, mírate! ¡Sanson el Tieso, plantándose firme!
+TEXT_JOBBRD680_02893_GUYDELOT_000_047	Ni hace falta decirlo, pero estoy contigo, Jefe. Nadie va a aprovecharse de la historia ni a borrarla mientras yo esté de guardia.
+TEXT_JOBBRD680_02893_SANSON_000_048	Gracias, amigos míos. Por confiar en mí.
+TEXT_JOBBRD680_02893_GUYDELOT_000_049	Pero que no se te suba a la cabeza, ¿eh? Si tu decisión no me hubiera gustado, te habría tirado de espaldas de un golpe y habría renunciado a tu maldita unidad.
+TEXT_JOBBRD680_02893_SANSON_000_050	Tanto que "Tú decides"... \<suspiro> Nunca cambie, Guydelot.
+TEXT_JOBBRD680_02893_SERPENTSOLDIER02893_000_051	El Capitán Sanson, ¿no? Un tipo me pidió que le pasara esta carta.
+TEXT_JOBBRD680_02893_SANSON_000_052	¡E-Es de Nourval!
+TEXT_JOBBRD680_02893_SANSON_000_053	(-Carta de Nourval-)El diario es suyo y pueden hacer con él lo que quieran. Pero antes de que se lo lleven, quisiera hablar con <split(<string(gstr1)>, ,1)>, y solo con <split(<string(gstr1)>, ,1)>, una última vez. L<if(gnum4,a,o)> espero en Dimwold, junto al Percipient One.
+TEXT_JOBBRD680_02893_GUYDELOT_000_054	Ay, esto apesta. Dime que no.
+TEXT_JOBBRD680_02893_SANSON_000_055	Pero si es una trampa, ¿por qué Nourval pediría <if(gnum4,a la más fuerte,al más fuerte)> de todos nosotros? Quizás de verdad tenga algo importante que decir.
+TEXT_JOBBRD680_02893_SANSON_000_056	Por otro lado, también nos daría la oportunidad de transmitirle nuestra intención. No quiero exponerl<if(gnum4,a,o)> al peligro, <if(gnum4,amiga mía,amigo mío)>, pero ¿irá a esa reunión?
+TEXT_JOBBRD680_02893_GUYDELOT_000_057	No me gusta la idea de que vayas sol<if(gnum4,a,o)>, pero eso arruinaría el propósito de la reunión. Eso sí, a la primera señal de peligro, sal de ahí rápido, ¿sí?
+TEXT_JOBBRD680_02893_SANSON_000_070	Quizás sea nuestra última oportunidad de hablar con Nourval. Por favor, vaya a Dimwold y vea qué tiene que decir.
+TEXT_JOBBRD680_02893_GUYDELOT_000_075	A la primera señal de problemas, te retiras, ¿sí?
+TEXT_JOBBRD680_02893_BALLOON_000_080	Te estábamos esperando.
+TEXT_JOBBRD680_02893_BALLOON_000_085	...
+TEXT_JOBBRD680_02893_GUYDELOT_000_090	Ah, volviste. Pero ¿dónde está Sanson?
+TEXT_JOBBRD680_02893_GUYDELOT_000_091	Justo después de que te fueras llegó otra carta que le pedía que fuera él también. ¿De verdad estás sol<if(gnum4,a,o)>, entonces?
+TEXT_JOBBRD680_02893_GUYDELOT_000_092	¡Maldita sea! Tú eras solo la distracción: ¡Sanson era su verdadero objetivo!
+TEXT_JOBBRD680_02893_GUYDELOT_000_093	Pensé que estaría bien porque tú ibas a estar ahí, ¡pero tendría que haber ido yo también! ¡Que los dioses me fulminen por tonto!
+TEXT_JOBBRD680_02893_GUYDELOT_000_094	Si no viste a Sanson, deben de haberlo atrapado camino a Dimwold. ¡Vamos, tenemos que encontrarlo!
+TEXT_JOBBRD680_02893_GUYDELOT_000_100	El cuaderno de Sanson estaba tirado aquí. Dejaron un mensaje con sangre, esos malditos farsantes.
+TEXT_JOBBRD680_02893_GUYDELOT_000_101	"Tenemos a su amigo. Mandaremos nuestro precio al Adders' Nest."<br>...¡Ese hijo de mala madre puede meterse su rescate por donde no le da el sol! ¡Vamos a asaltar su escondite, a darles su merecido a todos y a liberar a Sanson!
+TEXT_JOBBRD680_02893_Q2_000_000	¿Qué dices?
+TEXT_JOBBRD680_02893_A2_000_001	Hay que mantener la calma.
+TEXT_JOBBRD680_02893_A2_000_002	No sabemos dónde están.
+TEXT_JOBBRD680_02893_GUYDELOT_000_110	Maldición, <split(<string(gstr1)>, ,1)>, ¿cómo puedes estar siempre tan tranquil<if(gnum4,a,o)>? Es contagioso. Y tienes razón, claro. Si entramos a lo loco, pondríamos en peligro a Sanson.
+TEXT_JOBBRD680_02893_GUYDELOT_000_120	Maldición, <split(<string(gstr1)>, ,1)>, ¿cómo puedes estar siempre tan tranquil<if(gnum4,a,o)>? Es contagioso. Y tienes razón, claro. Ni siquiera sabemos adónde se llevaron a Sanson esos desgraciados.
+TEXT_JOBBRD680_02893_GUYDELOT_000_130	Si vamos a salvarlo, necesitamos ayuda. Vamos, volvamos rápido a Gridania, al Adders' Nest.
+TEXT_JOBBRD680_02893_GUYDELOT_000_140	Acabo de informar de la situación. Van a convocar una reunión para discutir la estrategia.
+TEXT_JOBBRD680_02893_GUYDELOT_000_141	En cuanto al diario de Gylbarde... sigo teniéndolo yo. Les dije que es el jefe quien tiene que entregarlo. No les hizo ninguna gracia, imagínate.
+TEXT_JOBBRD680_02893_GUYDELOT_000_142	Verás, a diferencia de nuestro amigo Sanson, yo no le tengo mucha fe a la orden. No confío en que actúen pensando en lo que nos conviene. El diario es nuestra moneda de cambio, no solo con ellos sino también con Nourval.
+TEXT_JOBBRD680_02893_GUYDELOT_000_143	Estaría bien meter también al viejo Jehantel en esto. Querría saberlo, y hasta podría tener algún consejo sabio.
+TEXT_JOBBRD680_02893_GUYDELOT_000_144	Pero por ahora nos quedamos quietos: esperamos a ver qué hacen la orden y Nourval. Y después planeamos lo nuestro. Hasta entonces, descansa y conserva las fuerzas, <split(<string(gstr1)>, ,1)>. Las vamos a necesitar.
