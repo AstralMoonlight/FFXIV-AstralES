@@ -268,7 +268,7 @@ Las ventanas del juego todavía salen en inglés, salvo las etiquetas del toolti
 | `AddonTransient` | Ayudas de botones al pie de las ventanas cuando se juega con mando ("Move   Confirm   Cancel") y otras etiquetas | 565 textos, unas 6.000 palabras | ![Pendiente][no] |
 | `Lobby` | Pantalla de título, selección de mundo y de personaje, y creación de personaje con las descripciones de razas, clanes y clases ("Start Game"...) | 1.030 textos, unas 9.600 palabras | ![Pendiente][no] |
 | `Error` | Errores al conectarse, al crear personajes y al visitar otros mundos | 63 textos, unas 1.000 palabras | ![Pendiente][no] |
-| `MainCommand`, `MainCommandCategory` | Menú principal: cada comando y su descripción ("Displays gear stored in your Armoury Chest...") | 205 textos, unas 1.600 palabras | ![Pendiente][no] |
+| `MainCommand`, `MainCommandCategory` | Menú principal: cada comando y su descripción ("Displays gear stored in your Armoury Chest...") | 205 textos, unas 1.600 palabras | ![Traducido][ok] |
 | `ExtraCommand` | Group Pose, Idling Camera, Alarm y Command Panel, con su descripción | 8 textos | ![Pendiente][no] |
 | `ConfigKey` | Acciones de Keybind ("Steer", "Hotbar 9 - Slot 5"...) | 416 textos, unas 1.800 palabras | ![Pendiente][no] |
 | `Platform` | Botones del mando ("Right Stick", "X Button"...) | 163 textos | ![Pendiente][no] |

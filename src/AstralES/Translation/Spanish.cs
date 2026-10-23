@@ -214,6 +214,7 @@ public static partial class Spanish
         Generic(Add);
         Role(Add);
         General(Add);
+        MainCommand(Add);
         Blm(Add);
         Whm(Add);
         Sge(Add);
