@@ -186,7 +186,7 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 | **Melee** | Monk | 30–100 | ![Traducido][ok] |
 | | Dragoon | 30–100 | ![Traducido][ok] |
 | | Ninja | 30–100 | ![Traducido][ok] |
-| | Samurai | 50–100 | ![Pendiente][no] |
+| | Samurai | 50–63 (9 de 13) | ![En curso][wip] |
 | | Reaper | 70–100 | ![Traducido][ok] |
 | | Viper | 80–100 | ![Traducido][ok] |
 | **Ranged** | Bard | 30–100 | ![Traducido][ok] |

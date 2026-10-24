@@ -1,0 +1,78 @@
+key	text
+TEXT_JOBSAM520_02561_SEQ_00	Musosai recorre el lugar con la mirada, esperando tu llegada.
+TEXT_JOBSAM520_02561_SEQ_01	Gracias a los contactos de Momozigo, Musosai encontró en Ul'dah un mal que hay que extirpar: un prestamista sin escrúpulos que se aprovecha de los pobres. El sinvergüenza en cuestión anda haciendo sus rondas por Stonesthrow, cobra intereses desorbitados por sumas miserables y obliga a la esclavitud a quienes no pueden devolver sus préstamos. Para empezar, Musosai propone ir a Stonesthrow y preguntarles a los vecinos por el prestamista.
+TEXT_JOBSAM520_02561_SEQ_02	Tal como decía la información de Momozigo, muchos vecinos de Stonesthrow quedaron a merced del prestamista. Entre ellos hay una doncella a punto de ser vendida para pagar la deuda que contrajo al comprar medicinas para su padre enfermo. Ya sabes todo lo que necesitas; es hora de volver con Musosai.
+TEXT_JOBSAM520_02561_SEQ_03	Tu informe sobre el sufrimiento de la gente enfurece a Musosai, que sale a buscar a la hija desdichada de la que le hablaste.
+TEXT_JOBSAM520_02561_SEQ_04	Mientras la hija desdichada te cuenta su desgracia, aparece nada menos que el vil prestamista en persona, un hombre llamado Phelyp. Aunque al principio te dispones a impedir que se lleve a la doncella, Musosai te pide que guardes el acero. Supone que detrás de esto hay alguien más que Phelyp, y que si le dan cuerda, el prestamista los llevará hasta sus cómplices. Con eso, salen tras él en dirección al Ul'dah Dispatch Yard.
+TEXT_JOBSAM520_02561_SEQ_05	Sorprendes a Phelyp reunido con un comandante corrupto de los Brass Blades, a quien le compra la vista gorda con sobornos. Convencido de que llegó el momento de desenvainar, Musosai te pide que enfrentes a los villanos.
+TEXT_JOBSAM520_02561_SEQ_06	Despachas sin problemas a los Brass Blades, y su comandante y Phelyp no oponen resistencia. Con la situación bajo control, convendría ver cómo está la hija desdichada.
+TEXT_JOBSAM520_02561_SEQ_07	La hija desdichada te da las gracias una y otra vez, y mientras tanto vuelve Momozigo, notoriamente ausente durante el enfrentamiento, con Fufulupa y otros Brass Blades honrados para arrestar a los criminales. Así se extirpa un mal de Ul'dah. Pero el mal no descansa, y partes de inmediato hacia la siguiente ciudad<-->estado de tu viaje para reparar injusticias: Limsa Lominsa.<br><br>※Para viajar a Limsa Lominsa, primero debes completar la misión del escenario principal "<switch(gnum70,The Lominsan Envoy,The Gridanian Envoy,The Ul'dahn Envoy)>".
+TEXT_JOBSAM520_02561_SEQ_08	En la Drowning Wench, tus compañeros y tú hablan del siguiente paso. Mientras Musosai busca el mal y la injusticia en la ciudad con ayuda de Momozigo, te pide que sigas puliendo tu arte para estar <if(gnum4,lista,listo)> para enfrentar cualquier villanía que aparezca.<br><br>※La siguiente misión de samurai estará disponible con Musosai al llegar al nivel 54.
+TEXT_JOBSAM520_02561_TODO_00	Habla con los vecinos de Stonesthrow.
+TEXT_JOBSAM520_02561_TODO_01	Infórmale a Musosai.
+TEXT_JOBSAM520_02561_TODO_02	Habla con la hija desdichada.
+TEXT_JOBSAM520_02561_TODO_03	Reúnete con Musosai.
+TEXT_JOBSAM520_02561_TODO_04	Derrota a los Brass Blades.
+TEXT_JOBSAM520_02561_TODO_05	Habla con la hija desdichada.
+TEXT_JOBSAM520_02561_TODO_06	Habla con Musosai en la Drowning Wench.
+TEXT_JOBSAM520_02561_MUSOSAI_000_000	Ah, <split(<string(gstr1)>, ,1)>. Es bueno volver a verte, y más fuerte gracias a tu incansable entrenamiento.
+TEXT_JOBSAM520_02561_MUSOSAI_000_001	Ahora bien, entre los muros azotados por la arena de esta ciudad, encontramos un mal que hay que extirpar: un prestamista sin escrúpulos que se aprovecha de los pobres.
+TEXT_JOBSAM520_02561_MOMOZIGO_000_002	Esto lo averigüé untándole la mano a cierto hombre de negocios. Al parecer, el sinvergüenza en cuestión anda haciendo sus rondas por Stonesthrow.
+TEXT_JOBSAM520_02561_MOMOZIGO_000_003	Cobra intereses desorbitados por sumas miserables, y a los que no pueden devolverlo todo los obliga a la esclavitud.
+TEXT_JOBSAM520_02561_MUSOSAI_000_004	Eso no es un hombre, sino una sanguijuela que se alimenta de los menos afortunados. ¡No se puede tolerar semejante mal!
+TEXT_JOBSAM520_02561_MUSOSAI_100_005	Vamos al barrio de chozas, Storm's Blow, a hablar con los vecinos.
+TEXT_JOBSAM520_02561_MUSOSAI_000_008	Parece que en esta nación un gran abismo separa a ricos y pobres. Hingashi, me apena decirlo, no es distinta.
+TEXT_JOBSAM520_02561_MOMOZIGO_000_009	(¡Grrr, ese Wymond! ¿¡Cómo se atreve a cobrarme por la información!?)
+TEXT_JOBSAM520_02561_PAUPERA02561_000_010	Claro, te puedo contar del prestamista. A mí también me vio la cara de tonto, y la culpa es solo mía. Si te engañan una vez, la vergüenza es tuya: así funcionan las cosas aquí.
+TEXT_JOBSAM520_02561_PAUPERB02561_000_011	¿Ese desgraciado prestamista? Es un estafador, eso es lo que es. Se hace pasar por tu mejor amigo, como si le importaras, pero cuando no puedes soltar la plata, muestra cómo es en verdad. \<spit>
+TEXT_JOBSAM520_02561_PAUPERC02561_000_012	Sí, fui tan tonto como para pedir un préstamo, y ahora lo estoy pagando con trabajo hasta quién sabe cuándo, solo Thal lo sabe. Y soy de los que tienen más suerte. Me da mucha pena la muchacha de allá, que están por vender por las medicinas que le compró a su padre enfermo.
+TEXT_JOBSAM520_02561_PAUPERA02561_000_015	Claro, te puedo contar del prestamista. A mí también me vio la cara de tonto, y la culpa es solo mía. Si te engañan una vez, la vergüenza es tuya: así funcionan las cosas aquí.
+TEXT_JOBSAM520_02561_PAUPERB02561_000_016	¿Ese desgraciado prestamista? Es un estafador, eso es lo que es. Se hace pasar por tu mejor amigo, como si le importaras, pero cuando no puedes soltar la plata, muestra cómo es en verdad. \<spit>
+TEXT_JOBSAM520_02561_PAUPERC02561_000_017	Sí, fui tan tonto como para pedir un préstamo, y ahora lo estoy pagando con trabajo hasta quién sabe cuándo, solo Thal lo sabe. Y soy de los que tienen más suerte. Me da mucha pena la muchacha de allá, que están por vender por las medicinas que le compró a su padre enfermo.
+TEXT_JOBSAM520_02561_MUSOSAI_000_020	Parece que antes fui demasiado amable. Este hombre no es una sanguijuela; es la mancha que dejan las aguas negras. Busquemos a esa doncella desdichada, que solo quiso hacer lo correcto por su padre. Buscaré a Momozigo y me reuniré contigo enseguida.
+TEXT_JOBSAM520_02561_MUSOSAI_000_025	Busquemos a esa doncella desdichada, que solo quiso hacer lo correcto por su padre. Buscaré a Momozigo y me reuniré contigo enseguida.
+TEXT_JOBSAM520_02561_PAUPERC02561_000_030	Sí, oíste bien. Mi papá necesitaba medicinas con urgencia, así que pedimos prestadas unas monedas. Pero antes de que nos diéramos cuenta, el puñado se volvió un cofre lleno, y ahora tengo que trabajar para pagarlo.
+TEXT_JOBSAM520_02561_PAUPERC02561_000_031	Pero el interés crece más rápido de lo que puedo trabajar, y el prestamista amenaza con venderme a un cliente. Si eso pasa, no va a quedar nadie que cuide a mi papá. Ya... ya no sé qué hacer... \<sob>
+TEXT_JOBSAM520_02561_MOMOZIGO_000_032	Su propia felicidad está en juego, y aun así se preocupa por su padre... \<sniff> ¡Ay, ese prestamista se lo tiene merecido!
+TEXT_JOBSAM520_02561_PAUPERC02561_000_033	\<gasp> ¡S-señor Phelyp! ¡No me venda, por favor! ¡Voy a trabajar más, lo juro! ¡Pero no me lleve! ¡Mi papá necesita que lo cuiden!
+TEXT_JOBSAM520_02561_PHELYP_100_034	¿Se supone que eso tiene que conmoverme? Si acaso, deberías estar agradecida. Te ofrezco la oportunidad de ganar dinero sin ningún esfuerzo: solo tienes que acostarte de espaldas, je, je, je. Ahora ven sin hacer escándalo.
+TEXT_JOBSAM520_02561_MOMOZIGO_000_035	¡Alto ahí, villano! ¡Si intentas llevarte a la muchacha, vas a tener que vértelas con estos samurai!
+TEXT_JOBSAM520_02561_PHELYP_100_036	No sé quiénes son, pero esta es una transacción comercial legítima, y desde luego no es asunto suyo. Pero si insisten en amenazar mi persona, no dudaré en llamar a los Brass Blades.
+TEXT_JOBSAM520_02561_MUSOSAI_000_037	Le ruego que perdone nuestra indiscreción, mi señor. Como dice, no es asunto nuestro. <split(<string(gstr1)>, ,1)>, guarda tu katana.
+TEXT_JOBSAM520_02561_MOMOZIGO_000_038	¿¡Qué hace, Musosai!? ¿¡O debería decir qué <italic(1)>no<italic(0)> hace!? ¡Pensé que la idea era castigar el mal!
+TEXT_JOBSAM520_02561_MUSOSAI_000_039	No era el momento de desenvainar; hacerlo solo habría empeorado la situación. Debemos ser pacientes y esperar el momento adecuado.
+TEXT_JOBSAM520_02561_MUSOSAI_000_040	Además, sospecho que en este negocio hay alguien más que este Phelyp. Si le damos cuerda, seguro nos llevará hasta sus cómplices. Vamos, sigámoslo.
+TEXT_JOBSAM520_02561_MOMOZIGO_000_045	¡Ya vas a ver, Phelyp! ¡Todavía te vamos a atrapar!
+TEXT_JOBSAM520_02561_PAUPERC02561_100_046	Así que se la llevaron... Ojalá hubiera podido hacer algo, pero me habría pasado lo mismo.
+TEXT_JOBSAM520_02561_MUSOSAI_000_050	Parece que nuestro hombre se reúne con alguien. Ah, hablando del diablo...
+TEXT_JOBSAM520_02561_PHELYP_100_051	Jejeje... Aun con esos harapos, se nota que es una belleza, ¿no? Confío en que servirá para seguir gozando de su favor.
+TEXT_JOBSAM520_02561_DOUJINDAN02561_100_052	Ojo, esta vez te superaste. Sí, servirá muy bien. Muy bien, de veras. Puedes seguir haciendo tus negocios con libertad.
+TEXT_JOBSAM520_02561_MOMOZIGO_000_053	¡La están usando para sobornar a un Brass Blade, y encima a un oficial al mando! ¡Grrr, maldito sinvergüenza!
+TEXT_JOBSAM520_02561_MUSOSAI_000_054	Ahora sabemos por qué este villano podía operar a plena vista sin que la ley lo molestara. ¡<split(<string(gstr1)>, ,1)>, llegó el momento de desenvainar!
+TEXT_JOBSAM520_02561_MUSOSAI_100_055	¡Vamos, <split(<string(gstr1)>, ,1)>! ¡Es hora de desenvainar!
+TEXT_JOBSAM520_02561_POPMESSAGE_100_057	¡Te atacan!
+TEXT_JOBSAM520_02561_BALLOON_100_058	¿¡Qué hacen estos aquí!?
+TEXT_JOBSAM520_02561_PHELYP_100_060	¡Uwaaaaaah! ¡Mamiiiii!
+TEXT_JOBSAM520_02561_DOUJINDAN02561_100_061	¡N-no me hagan daño! ¡Me rindo!
+TEXT_JOBSAM520_02561_MUSOSAI_100_061	Bien peleado, <if(gnum4,alumna mía,alumno mío)>. Ahora ocúpate de la doncella.<br>...¿Hm? ¿Dónde está Momozigo?
+TEXT_JOBSAM520_02561_PAUPERC02561_000_062	¡Gracias! ¡Muchísimas gracias!
+TEXT_JOBSAM520_02561_MUSOSAI_000_070	Lo hiciste bien. Pero recuerda: la katana no se desenvaina a ciegas. Debes dejarla descansar en su vaina, impregnándose de fuerza, hasta que llegue el momento de golpear.
+TEXT_JOBSAM520_02561_MUSOSAI_000_071	Ese es el camino del samurai.<br>...¿Hm?
+TEXT_JOBSAM520_02561_MUSOSAI_000_072	¿Qué hiciste, Momozigo?
+TEXT_JOBSAM520_02561_MOMOZIGO_200_073	¡Musosai, espere! ¡Es mi amigo y viene a ayudar!
+TEXT_JOBSAM520_02561_MUSOSAI_000_073	¿Hm? ¿No es el enemigo?
+TEXT_JOBSAM520_02561_FUFULUPA_000_074	Ah, para nada, buen señor. En pocas palabras, estábamos intentando encontrar pruebas decisivas que vincularan al prestamista Phelyp con uno de nuestros oficiales. Y gracias a su oportuna intervención, lo logramos.
+TEXT_JOBSAM520_02561_FUFULUPA_000_075	Que haya participado en este negocio es una mancha en nuestro honor... que hay que admitir que está lejos de ser impecable. ¡Pero sepan que todavía hay muchos Brass Blades honrados, hombres y mujeres buenos que se esfuerzan por estar a la altura de la confianza del pueblo!
+TEXT_JOBSAM520_02561_PAUPERC02561_000_077	Si no hubieran aparecido, solo los dioses saben dónde habría terminado. No sé cómo agradecerles.
+TEXT_JOBSAM520_02561_MOMOZIGO_000_078	No es nada: el trabajo es su propia recompensa. Ahora vuelve rápido con tu papá y tranquilízalo.
+TEXT_JOBSAM520_02561_FUFULUPA_000_076	Permítanme agradecerles también. Con su ayuda, logramos atrapar a unos sinvergüenzas escurridizos que se nos escapaban desde hace mucho. Tengan por seguro que nosotros nos ocuparemos del resto. ¡Con su permiso!
+TEXT_JOBSAM520_02561_MUSOSAI_000_079	Por un momento pensé que nos habías entregado al enemigo. La próxima vez te agradecería que compartieras tus planes.
+TEXT_JOBSAM520_02561_MOMOZIGO_000_080	Jeje, tenga un poco de fe, ¿quiere? Gracias a mi espontaneidad, logramos cerrar este asunto con un lindo moño. Fufulupa y yo nos conocemos de hace mucho. El tipo es de lo más honrado.
+TEXT_JOBSAM520_02561_MUSOSAI_000_081	No lo dudo. Bien, nuestro trabajo aquí terminó; hay un mal menos que aflige el reino.
+TEXT_JOBSAM520_02561_MUSOSAI_100_081	Sigamos adelante, adonde nos lleve el viento.
+TEXT_JOBSAM520_02561_MUSOSAI_000_082	Y el viento sopla, por lo visto, hacia el mar. Momozigo, te ruego que guíes el camino.
+TEXT_JOBSAM520_02561_MOMOZIGO_000_083	¡Bien! Por aquí, amigos: ¡vamos a Limsa Lominsa!
+TEXT_JOBSAM520_02561_SYSTEM_100_084	Para viajar a Limsa Lominsa, primero debes completar la misión del escenario principal "<switch(gnum70,The Lominsan Envoy,The Gridanian Envoy,The Ul'dahn Envoy)>".
+TEXT_JOBSAM520_02561_MOMOZIGO_000_085	Ahhh, cómo me gusta el mar. Tiene algo que purifica, y no hablo solo de darse un chapuzón.
+TEXT_JOBSAM520_02561_MUSOSAI_000_090	Un puerto tan animado, rebosante de gente de todas las razas y credos... Quizás algún día Hingashi también aprenda a abrirle los brazos al mundo.
+TEXT_JOBSAM520_02561_MUSOSAI_000_091	Ahora bien, como antes, Momozigo y yo buscaremos el mal y la injusticia en este lugar. Te ruego que aproveches el tiempo para seguir puliendo tus habilidades en nuestro arte, para que estés <if(gnum4,lista,listo)> para enfrentar cualquier villanía que aparezca.

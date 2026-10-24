@@ -1,0 +1,87 @@
+key	text
+TEXT_JOBSAM501_02560_SEQ_00	Musosai te mira con ojos penetrantes.
+TEXT_JOBSAM501_02560_SEQ_01	Tras aprobar tu transformación en samurai, Musosai te pide que hagas los últimos preparativos para el duelo. Basta una palabra tuya y empieza.
+TEXT_JOBSAM501_02560_SEQ_02	Apenas te presentan ante el público, Beroald, el gladiador al que Musosai había apaleado antes, interrumpe y exige la revancha. Sin inmutarse, Musosai le parte la espada en dos con calma y lo hace huir tan rápido como llegó. Sin esa distracción, te enfrentas al anciano de Hingashi y logras vencerlo, aunque tienes la sensación de que se contuvo. Aun así, Musosai te colma de elogios y te ofrece tu recompensa: formarte en el camino del samurai. Pero antes de que puedas responder, Beroald vuelve a interrumpir, y esta vez trajo amigos. Convencido de que puedes con ellos de sobra, Musosai te deja a cargo de los invitados indeseados, y te encargas de ellos sin problemas. Desesperado y frustrado, Beroald descarga su furia contra Musosai, pero el viejo lo manda al suelo. Con eso termina tu agitado desafío.
+TEXT_JOBSAM501_02560_SEQ_03	De vuelta en el Gladiators' Guild, Musosai te confiesa que vino a Ul'dah a enfrentarse a retadores para encontrar a un nuevo alumno digno. Y lo encontró: en ti. Aceptas la oferta, para su alegría y alivio, y sin más tu entrenamiento empieza en medio del bullicio del Quicksand.
+TEXT_JOBSAM501_02560_SEQ_04	Musosai te cuenta un período de conflictos en la historia de Hingashi, la Era de la Sangre, y cómo dio origen a los samurai. La vocación de un samurai, explica, es buscar a los malvados y hacerles rendir cuentas, para que semejante tragedia nunca se repita. Con ese fin, recorrerás estas tierras en busca de injusticias que reparar, y así avanzarás por el camino hacia la maestría de tu arte. Cuando Musosai anuncia que piensa empezar esta búsqueda en Ul'dah, llega Momozigo, el presentador de lengua de plata, y se ofrece a ayudarlos. Hasta que encuentren algún mal que extirpar, Musosai te pide que sigas puliendo tus nuevas habilidades.<br><br>※La siguiente misión de samurai estará disponible con Musosai al llegar al nivel 52.
+TEXT_JOBSAM501_02560_TODO_00	Habla con Musosai.
+TEXT_JOBSAM501_02560_TODO_01	Habla con Musosai.
+TEXT_JOBSAM501_02560_TODO_02	Habla con Musosai en el Quicksand.
+TEXT_JOBSAM501_02560_MUSOSAI_000_001	Ah, sí, en tu mirada veo el despertar de <if(gnum4,una samurai recién nacida,un samurai recién nacido)>. Está claro que la piedra ya te legó algunos de sus recuerdos.
+TEXT_JOBSAM501_02560_MUSOSAI_000_002	Pero tener los recuerdos es una cosa, y dominarlos es otra muy distinta. Veremos qué tal te va contra mí. Prepárate, joven samurai; empezaremos en cuanto estés <if(gnum4,lista,listo)>.
+TEXT_JOBSAM501_02560_SYSTEM_900_003	Aprendiste todas las acciones y rasgos de samurai hasta el nivel 50. Puedes ver las descripciones detalladas en la ventana <colortype(500)><edgecolortype(501)>Actions & Traits<edgecolortype(0)><colortype(0)>, en <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)> del menú principal.
+TEXT_JOBSAM501_02560_MUSOSAI_000_000	¿Estás <if(gnum4,lista,listo)>, entonces? Bien, bien, vamos a la arena.
+TEXT_JOBSAM501_02560_MOMOZIGO_000_010	(-Presentador de lengua de plata-)¡Acérquense y sean testigos, porque apareció otro valiente retador! El siguiente en enfrentarse a Musosai, maestro de la espada del Lejano Oriente, es... ¡<if(gnum4,una aventurera errante,un aventurero errante)>!
+TEXT_JOBSAM501_02560_BEROALD_000_011	(-???-)¡Alto ahí!
+TEXT_JOBSAM501_02560_BEROALD_100_011	(-???-)¡Nadie más que yo va a derribar a ese viejo desgraciado: Beroald el Último en Pie! ¡El Azote de las Arenas!
+TEXT_JOBSAM501_02560_BEROALD_000_012	Hace un rato me dejaste en ridículo, ¡pero esta vez no habrá trucos! ¡Esta vez peleo con mi propia espada, no con esa porquería de aguja que me diste!
+TEXT_JOBSAM501_02560_MOMOZIGO_000_013	(-Presentador de lengua de plata-)¿Qué es esto? ¡Beroald el Cabeza Hueca, al que apalearon hace apenas unos momentos, invadió la arena!
+TEXT_JOBSAM501_02560_MOMOZIGO_000_014	(-Presentador de lengua de plata-)Para los que llegaron tarde: es el gladiador deshonrado al que echaron del Coliseum por, y cito de memoria, ¡ser un bruto odioso en todo sentido!
+TEXT_JOBSAM501_02560_MUSOSAI_000_015	Las reglas eran claras, y las aceptaste. No hubo ningún truco.
+TEXT_JOBSAM501_02560_BEROALD_000_016	¡Cierra la boca y pelea otra vez conmigo!
+TEXT_JOBSAM501_02560_MUSOSAI_000_017	Cuánta sed de sangre. Los guerreros de esta tierra son como espadas desnudas.
+TEXT_JOBSAM501_02560_BEROALD_000_018	¡L-la próxima vez te atrapo!
+TEXT_JOBSAM501_02560_MUSOSAI_000_019	Y sin esa distracción, podemos seguir donde lo dejamos.
+TEXT_JOBSAM501_02560_QIB_001_TODO_1	¡Derrota a Musosai!
+TEXT_JOBSAM501_02560_QIB_001_TODO_2	¡Derrota a Beroald!
+TEXT_JOBSAM501_02560_MUSOSAI_000_020	Sacar tanta fuerza de la piedra en tan poco tiempo... No eres <if(gnum4,una mujer,un hombre)> común.
+TEXT_JOBSAM501_02560_MUSOSAI_000_021	Como prometí, te concederé el más raro de los tesoros de Hingashi: ¡formarte en el camino del samurai!
+TEXT_JOBSAM501_02560_MUSOSAI_000_022	¿Qué ocurre? Nuestras técnicas no existen en esta tierra, de ahí su gran valor.
+TEXT_JOBSAM501_02560_MUSOSAI_100_022	Como mi alumn<if(gnum4,a,o)>, entrenarías bajo mi atenta mirada y aprenderías hasta la más poderosa de mis técnicas.
+TEXT_JOBSAM501_02560_BEROALD_100_023	(-Voz conocida-)¡Pero qué desgraciado mentiroso!
+TEXT_JOBSAM501_02560_BEROALD_000_023	¿¡Tanta pelea y ni siquiera había dinero de por medio!?
+TEXT_JOBSAM501_02560_MOMOZIGO_000_024	(-Presentador de lengua de plata-)¿¡Qué es esto!? ¡Volvió Beroald el Cabeza Hueca, y esta vez trajo amigos! ¡Este hombre no sabe cuándo rendirse!
+TEXT_JOBSAM501_02560_BEROALD_100_024	¡Si tienes algún problema, baja y dilo aquí!
+TEXT_JOBSAM501_02560_MUSOSAI_000_025	En ningún momento se dijo que el tesoro fuera un objeto, mucho menos dinero. Además, ganarlo estaba muy por encima de ti.
+TEXT_JOBSAM501_02560_BEROALD_000_026	¡Cállate de una vez! ¡Esta vez te voy a mostrar mi verdadera fuerza!
+TEXT_JOBSAM501_02560_MUSOSAI_000_027	Tu fuerza está en el número, por lo visto. Muy bien, si insistes en otra paliza, que así sea. Pero has de saber que esta vez no seré yo quien te la dé, sino mi alumn<if(gnum4,a,o)>.
+TEXT_JOBSAM501_02560_MUSOSAI_000_028	Habiendo visto tu potencial con mis propios ojos, él y los de su calaña no deberían darte ningún problema.
+TEXT_JOBSAM501_02560_BEROALD_000_029	¡Sea quien sea, encárguense de <if(gnum4,ella,él)> también!
+TEXT_JOBSAM501_02560_MUSOSAI_000_030	Perdóname, sé que estuvo mal obligarte a esa pelea. Y sin embargo no me arrepiento de haberlo hecho, porque me confirmó sin ninguna duda la promesa que había entrevisto en ti.
+TEXT_JOBSAM501_02560_MUSOSAI_000_031	Por mucho tiempo busqué un alumno en mi tierra natal, pero no encontré a nadie digno de recibir mis conocimientos. El problema, concluí, estaba en la forma de pensar de mi gente: el celo con que defienden la tradición a costa de todo lo demás.
+TEXT_JOBSAM501_02560_MUSOSAI_000_032	Así fue que partí hacia una nueva tierra, esta Heir's Ear. Me puse en medio de sus espadachines más capaces y me ofrecí como espectáculo con la esperanza de encontrar un alma digna.
+TEXT_JOBSAM501_02560_MUSOSAI_000_033	Y la encontré: en ti. Ahora bien, me doy cuenta de cómo puede verse todo esto. Para ti podría ser solo un viejo tonto y extraño que dice disparates, pero hace mucho que dejaron de importarme las apariencias.
+TEXT_JOBSAM501_02560_MUSOSAI_000_034	Te lo digo con toda sinceridad: no hay nadie más en quien quisiera volcar mis conocimientos. Así que te pregunto: ¿aceptas ser mi alumn<if(gnum4,a,o)>?
+TEXT_JOBSAM501_02560_Q1_000_035	¿Ser alumn<if(gnum4,a,o)> de Musosai?
+TEXT_JOBSAM501_02560_MUSOSAI_000_038	¡Ahhh, las palabras no alcanzan para expresar mi alegría! ¡Desde este momento somos maestro y alumn<if(gnum4,a,o)>!
+TEXT_JOBSAM501_02560_MUSOSAI_000_039	Estar tan cerca y quedarme corto... Pero no soy de los que se rinden tan fácil. ¡No, me quedaré plantado en este mismo lugar con la esperanza de que lo reconsideres!
+TEXT_JOBSAM501_02560_MUSOSAI_000_040	Ahora bien, quisiera saber tu nombre. ¿Cómo te llamas?
+TEXT_JOBSAM501_02560_MUSOSAI_000_041	<split(<string(gstr1)>, ,1)>... Es un buen nombre. Sin más, <split(<string(gstr1)>, ,1)>, empezaremos tu entrenamiento. Te ruego que me acompañes a la taberna de aquí cerca, la Slick Hand.
+TEXT_JOBSAM501_02560_MUSOSAI_000_050	Empezaré por el principio. En un pasado lejano, Hingashi vivió un período de conflictos en el que numerosas facciones rivales se disputaban la supremacía: la Era de la Sangre.
+TEXT_JOBSAM501_02560_MUSOSAI_000_051	En esa era, muchísimos fueron a la batalla katana en mano, y en el crisol de la guerra se forjó nuestro arte: el camino del samurai.
+TEXT_JOBSAM501_02560_MUSOSAI_000_052	Con el tiempo, el reino se unificó bajo una sola bandera y volvió a reinar la paz. El pueblo dejó de lado sus katana, salvo nosotros, los samurai, que seguimos empuñándola como símbolo de autoridad. Y con esa autoridad viene una grave responsabilidad: proteger la paz.
+TEXT_JOBSAM501_02560_MUSOSAI_000_054	Para asegurarnos de que la Era de la Sangre no se repita nunca, los samurai buscamos a los malvados y les hacemos rendir cuentas. Así alejamos el caos y preservamos el orden en el reino. Esa es nuestra vocación.
+TEXT_JOBSAM501_02560_MUSOSAI_000_055	Hingashi o Heir's Ear, no importa dónde estemos: esta vocación nos guía siempre. Con ese fin, recorreremos estas tierras, tú y yo, en busca de injusticias que reparar. Para alguien que ya entendió los cimientos de nuestro arte, es el camino más seguro hacia la maestría.
+TEXT_JOBSAM501_02560_MUSOSAI_000_056	Nuestros esfuerzos empiezan en esta misma ciudad. Buscaré el mal que haya echado raíces aquí, y entonces podremos extirparlo.
+TEXT_JOBSAM501_02560_MOMOZIGO_000_057	(-Presentador de lengua de plata-)¡Bueno, eso sí que se puso emocionante rápido! ¡Pero pensando todavía más rápido, logré organizar una apuesta y sacar una buena ganancia!
+TEXT_JOBSAM501_02560_MUSOSAI_000_058	Momozigo, te debo mi gratitud. Gracias a ti, por fin encontré a mi alumn<if(gnum4,a,o)>. Ruego que vivas cómodamente con tus ganancias.
+TEXT_JOBSAM501_02560_MOMOZIGO_000_059	En realidad, pensaba acompañarlos; presiento que adondequiera que vayan, el dinero los va a seguir. Y además, parece que planean arrancar el mal de raíz en nuestra hermosa ciudad, ¿no?
+TEXT_JOBSAM501_02560_MOMOZIGO_000_060	Si es así, les conviene llevarme. Con mis contactos puedo conseguir la información que seguramente van a necesitar. Y después está el pequeño detalle de que usted no sabe absolutamente nada de Eorzea.
+TEXT_JOBSAM501_02560_MUSOSAI_000_061	Así es, en efecto. Si el destino no hubiera querido unirnos, nunca habría encontrado el camino desde Fester Bay hasta aquí.
+TEXT_JOBSAM501_02560_MOMOZIGO_000_062	¡Y yo no estaría aquí respirando! Si alguien le debe algo a alguien, soy yo. Usted me salvó de esos bandidos despiadados cuando intenté reclutarlos para el Coliseum. Qué imprudencia, ahora que lo pienso...
+TEXT_JOBSAM501_02560_MOMOZIGO_000_063	En cuanto a ti, amig<if(gnum4,a,o)>: para que el viejo Musosai en persona te haya elegido, debes de estar hech<if(gnum4,a,o)> de un material poco común. No es por presionarte, ¡pero tengo las más altas esperanzas puestas en ti!
+TEXT_JOBSAM501_02560_MUSOSAI_000_064	Y aquí estamos, entonces. Haré mi búsqueda con la ayuda de Momozigo. Hasta que haya novedades, te ruego que sigas puliendo tus nuevas habilidades.
+TEXT_JOBSAM501_02560_MOMOZIGO_001_001	¡Empieza! ¿Cómo le irá a este retador contra el enigmático anciano?
+TEXT_JOBSAM501_02560_MUSOSAI_001_002	Ahora bien, veamos qué tan bien manejas la katana.
+TEXT_JOBSAM501_02560_MUSOSAI_001_003	Ven a mí con todas tus fuerzas.
+TEXT_JOBSAM501_02560_MUSOSAI_001_004	No hace falta que te contengas.
+TEXT_JOBSAM501_02560_MUSOSAI_001_005	La piedra guarda las técnicas de los samurai. Debes sacarlas a la luz.
+TEXT_JOBSAM501_02560_MUSOSAI_001_006	¡Vaya! ¡Dominar tan rápido una técnica tan avanzada!
+TEXT_JOBSAM501_02560_MUSOSAI_001_007	¡Impresionante! Una técnica nacida de duras pruebas, ¡y ya la hiciste tuya!
+TEXT_JOBSAM501_02560_MUSOSAI_001_008	¡Sí! ¡Deja que tu espada se impregne de fuerza antes de liberarla!
+TEXT_JOBSAM501_02560_MUSOSAI_001_009	Es suficiente. La victoria es tuya, joven.
+TEXT_JOBSAM501_02560_MOMOZIGO_001_010	¡Y gana el retador!
+TEXT_JOBSAM501_02560_MOMOZIGO_002_001	¡Ay, caramba, esto no estaba en el libreto! ¡El duelo se volvió un todos contra todos, y es el retador contra el mundo!
+TEXT_JOBSAM501_02560_BEROALD_002_002	¡Nadie me deja en ridículo en mi Coliseum!
+TEXT_JOBSAM501_02560_BEROALD_003_001	¡Desplúmenl<if(gnum4,a,o)>! ¡A <if(gnum4,la supuesta alumna,el supuesto alumno)>!
+TEXT_JOBSAM501_02560_BEROALD_004_001	¡Son unos inútiles, todos ustedes!
+TEXT_JOBSAM501_02560_MUSOSAI_004_002	¡A ver qué tal le va a tu espadita contra un hacha o dos!
+TEXT_JOBSAM501_02560_BEROALD_005_001	Bah, si quieres que algo salga bien...
+TEXT_JOBSAM501_02560_BEROALD_005_002	¡Nadie me gana en mi Coliseum! ¡<italic(1)>Nadie<italic(0)>!
+TEXT_JOBSAM501_02560_MOMOZIGO_005_003	¡Ojo, Beroald se suma a su propia pelea! ¡<italic(1)>Por fin<italic(0)>!
+TEXT_JOBSAM501_02560_MOMOZIGO_005_004	¡Samurai aprendiz contra gladiador curtido! ¿Quién se impondrá en este choque entre el bueno y el feo?
+TEXT_JOBSAM501_02560_BEROALD_005_005	¡A-al diablo con esto! ¡Te voy a hacer sufrir, viejo, aunque sea lo último que haga! ¡Yaaaaaargh!
+TEXT_JOBSAM501_02560_MUSOSAI_005_006	...¿Terminaste? Entonces permíteme.
+TEXT_JOBSAM501_02560_MUSOSAI_005_007	Jajaja, ni siquiera vale la pena desenvainar. Bien peleado, joven. Ya vi todo lo que necesitaba ver.
+TEXT_JOBSAM501_02560_MOMOZIGO_005_008	¡Y gana el retador! ¡Qué luchadores tan temibles son estos samurai! ¡Démosle un aplauso atronador!
+TEXT_JOBSAM501_02560_MUSOSAI_FAILED	Hmmm, quizás me equivoqué...

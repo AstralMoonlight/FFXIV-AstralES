@@ -1,0 +1,44 @@
+key	text
+TEXT_JOBSAM601_02566_SEQ_00	Momozigo tiene una cara avergonzada que anuncia que viene a pedirte un favor.
+TEXT_JOBSAM601_02566_SEQ_01	Momozigo te cuenta que una visitante de Hingashi vino a buscar a Musosai, pero no tuvo corazón para contarle que había muerto. Como fuiste alumn<if(gnum4,a,o)> del viejo, sugiere que es mejor que la noticia se la des tú, y te indica a la digna samurai que está frente al Quicksand.
+TEXT_JOBSAM601_02566_SEQ_02	Le das la mala noticia a la digna samurai, que deja caer los hombros a la vista. Tras recuperar la compostura, se presenta como Makoto del Sekiseigumi, la fuerza de paz de Kugane. Como quiere presentarle sus respetos a Musosai, te pide que la lleves a su tumba en el Silver Bazaar.
+TEXT_JOBSAM601_02566_SEQ_03	De camino al Silver Bazaar te atacan unas bestias hambrientas, pero no son rivales para ti. Neutralizada la amenaza, te vuelves para decirle a Makoto que es seguro seguir.
+TEXT_JOBSAM601_02566_SEQ_04	Disculpándose por quedarse quieta mientras peleabas, Makoto confiesa que quería asegurarse de que de verdad fueras alumn<if(gnum4,a,o)> de Musosai. Tu manejo sublime de la espada disipó cualquier duda que pudiera tener, y vuelve a ponerse en camino hacia el Silver Bazaar.
+TEXT_JOBSAM601_02566_SEQ_05	Tras presentarle sus respetos a Musosai, Makoto te cuenta la veneración que sentía por tu maestro. Mientras otros lo tachaban de cobarde por negarse a cometer seppuku, ella sabía en el fondo de su corazón que tenía un propósito mayor, y tu sola existencia reafirma esa creencia. Después revela por qué vino a Eorzea: a pedirle ayuda a Musosai para luchar contra una facción de insurgentes liderada nada menos que por su alumno descarriado, un hombre llamado Ugetsu. Pero no pudo ser, y se despide para volver a su lejana tierra natal.
+TEXT_JOBSAM601_02566_SEQ_06	Momozigo te agradece por haberte ocupado de Makoto durante su breve estadía. Aunque le preocupan las luchas del Sekiseigumi, admite que desde el otro lado del mundo es poco lo que se puede hacer. Al despedirte, Momozigo te pide que lo visites de vez en cuando, porque se siente solo sin el viejo Musosai.<br><br>※La siguiente misión de samurai estará disponible con Momozigo al llegar al nivel 63.
+TEXT_JOBSAM601_02566_TODO_00	Habla con la digna samurai.
+TEXT_JOBSAM601_02566_TODO_01	Reúnete con Makoto cerca del Silver Bazaar.
+TEXT_JOBSAM601_02566_TODO_02	Habla con Makoto.
+TEXT_JOBSAM601_02566_TODO_03	Reúnete con Makoto en la tumba de Musosai.
+TEXT_JOBSAM601_02566_TODO_04	Infórmale a Momozigo en el Quicksand.
+TEXT_JOBSAM601_02566_MOMOZIGO_000_000	Ah, casi me olvido de contarte. Una mujer vino a buscar a Musosai a la posada. Por su aspecto, es compatriota suya <italic(1)>y<italic(0)> samurai.
+TEXT_JOBSAM601_02566_MOMOZIGO_000_001	En ese momento no me animé a darle la noticia. Pero pensándolo bien, quizás es mejor que se la des tú de todos modos, ya que fuiste alumn<if(gnum4,a,o)> de Musosai.
+TEXT_JOBSAM601_02566_MOMOZIGO_000_002	La visitante está frente al Quicksand. La vas a reconocer por su aire digno.
+TEXT_JOBSAM601_02566_MOMOZIGO_000_005	La samurai que vino de visita está frente al Quicksand. La vas a reconocer por su aire digno.
+TEXT_JOBSAM601_02566_MAKOTO_100_009	¿Hm? Parece usted samurai, pero no es de nuestra tierra. ¿Puedo preguntar quién se dirige a mí?
+TEXT_JOBSAM601_02566_MAKOTO_000_010	¡Vaya, así que es alumn<if(gnum4,a,o)> del maestro Musosai! Dígame, ¿dónde podría encontrarlo?
+TEXT_JOBSAM601_02566_MAKOTO_000_011	...¿Así fue? Las palabras no alcanzan para expresar mi pena. Tuve el honor de conocer a su maestro en el pasado.
+TEXT_JOBSAM601_02566_MAKOTO_000_012	(-Makoto-)Permítame presentarme. Soy Makoto del Sekiseigumi. Somos la fuerza de paz de Kugane, una ciudad portuaria de Hingashi.
+TEXT_JOBSAM601_02566_MAKOTO_000_013	(-Makoto-)Crucé los mares con la esperanza de reunirme con el maestro Musosai, pero parece que tendré que conformarme con presentarle mis respetos. ¿Podría molestarl<if(gnum4,a,o)> pidiéndole que me lleve a su tumba? El Silver Bazaar, lo llaman ustedes, ¿no?
+TEXT_JOBSAM601_02566_MAKOTO_000_014	(-Makoto-)Le estoy en deuda. Vamos, entonces.
+TEXT_JOBSAM601_02566_MOMOZIGO_100_019	Gracias por darle la noticia, <split(<string(gstr1)>, ,1)>, y por aceptar llevarla a ver a Musosai. Un amigo de él es un amigo nuestro, digo yo.
+TEXT_JOBSAM601_02566_POPMESSAGE_100_025	¡Te atacan!
+TEXT_JOBSAM601_02566_MAKOTO_000_030	Su manejo de la espada no deja lugar a dudas: de verdad lo entrenó el maestro Musosai.
+TEXT_JOBSAM601_02566_MAKOTO_000_031	Perdone que me quedara quieta mientras peleaba, pero tenía que asegurarme de que decía la verdad.
+TEXT_JOBSAM601_02566_MAKOTO_000_032	Verá, el maestro Musosai rara vez aceptaba alumnos. Pero cualquier duda que pudiera tener quedó por completo disipada. Ahora bien, sigamos.
+TEXT_JOBSAM601_02566_MAKOTO_000_040	Una hermosa vista al océano. Sin duda aquí estará en paz.
+TEXT_JOBSAM601_02566_MAKOTO_000_041	Como quizás sepa, el maestro Musosai tuvo otro alumno antes que usted. Se llama Ugetsu, y lo buscan en Hingashi por el asesinato de incontables dignatarios del bakufu, el gobierno de nuestra nación.
+TEXT_JOBSAM601_02566_MAKOTO_000_042	Aunque no fueron sus manos las que empuñaron la espada, el maestro Musosai creó al asesino, y a los ojos de la ley se lo consideró igual de responsable.
+TEXT_JOBSAM601_02566_MAKOTO_000_043	Como samurai, se esperaba que cometiera seppuku para expiar el crimen, pero se negó. Por eso en Hingashi lo tacharon de cobarde.
+TEXT_JOBSAM601_02566_MAKOTO_000_044	Pero nada podría estar más lejos de la verdad. El maestro Musosai no huyó porque temiera la muerte; eso lo sabía en el fondo de mi corazón.
+TEXT_JOBSAM601_02566_MAKOTO_000_045	Y al ver su manejo de la espada, ahora sé qué era lo que buscaba hacer. Quería enmendarse formando a un nuevo alumno.
+TEXT_JOBSAM601_02566_MAKOTO_000_046	Tanta era la vergüenza que sentía que la muerte no le bastaba como expiación. No, la única forma de encontrar la paz era empezar de nuevo, con un sucesor digno que le diera honra.
+TEXT_JOBSAM601_02566_MAKOTO_000_047	Sepa que Ugetsu no es un asesino común. Es un insurgente famoso que busca derribar el orden establecido. No pocos samurai simpatizan con su causa, y cada día más se suman a su bandera.
+TEXT_JOBSAM601_02566_MAKOTO_000_048	Durante un tiempo estuvo escondido, pero nuestros agentes informan que hace poco reapareció en Kugane. Todo indica que está a punto de asestarle un duro golpe al bakufu.
+TEXT_JOBSAM601_02566_MAKOTO_000_049	No vine aquí con otro propósito que pedirle ayuda al maestro Musosai. Por desgracia, no pudo ser. Tal como vine, también debo volver: sola.
+TEXT_JOBSAM601_02566_MAKOTO_000_050	Gracias por traerme aquí. Aunque fue breve, fue un honor conocerl<if(gnum4,a,o)>.
+TEXT_JOBSAM601_02566_MOMOZIGO_000_060	¿La llevaste a ver a Musosai? Seguro que le alegró tener visita, y encima de su tierra natal.
+TEXT_JOBSAM601_02566_MOMOZIGO_000_061	...Así que el alumno descarriado anda otra vez haciendo de las suyas. Es preocupante, sin duda, pero los forasteros como nosotros no podemos hacer mucho. Solo nos queda esperar que Makoto y sus compañeros venzan a ese Ugetsu.
+TEXT_JOBSAM601_02566_MOMOZIGO_000_062	Te dejo volver a tus asuntos, pero ven a visitarme de vez en cuando, ¿oíste? Me siento solo sin el viejo.
+TEXT_JOBSAM601_02566_SYSTEM_000_065	La siguiente misión de samurai estará disponible con Momozigo al llegar al nivel 63.
+TEXT_JOBSAM601_02566_SYSTEM_000_066	Puedes revisar en el journal los requisitos para empezar las siguientes misiones.
