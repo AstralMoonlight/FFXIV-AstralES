@@ -1,0 +1,62 @@
+key	text
+TEXT_JOBWHM630_02415_SEQ_00	Sylphie parece ansiosa por hablar contigo.
+TEXT_JOBWHM630_02415_SEQ_01	Sylphie te cuenta de los indicios de la perturbación que sintió mientras acompañaba a los exploradores Serpent en sus patrullas. Reúnete con ella cerca de Bittermill y sigan investigando.
+TEXT_JOBWHM630_02415_SEQ_02	Mientras buscan el origen de la inquietud de los elementales, Sylphie y tú se encuentran con la misma niña extraña que viste una vez. La niña huye al verse descubierta, y tú sales tras ella a toda prisa ante el pedido urgente de Sylphie...
+TEXT_JOBWHM630_02415_SEQ_03	Encuentras a la niña temblando, atacada por una manada de voidsent feroces, y actúas rápido para acabar con esas criaturas infernales. Animada por las palabras amables de Sylphie, la niña les dice su nombre - Gatty - y que ella y su madre viven en el bosque fronterizo. Pero antes de que Sylphie pueda curarle las heridas, otra oleada de poder <if(gnum4,las,los)> distrae, y al voltearse descubren que Gatty desapareció. Convencida de que la niña y su potente aura tienen relación con la perturbación, Sylphie propone que le informen a Brother E<-->Sumi<-->Yan.
+TEXT_JOBWHM630_02415_SEQ_04	Al oír el resumen de Sylphie, Brother E<-->Sumi<-->Yan coincide con su evaluación. Supone que los dones aetherial descontrolados de Gatty probablemente atraen a los voidsent merodeadores, y que la presencia de esas criaturas malignas es lo que agita a los elementales. Vuelve una vez más a Castrum Oriens y ayuda a Sylphie con su plan de interrogar a la escurridiza niña en su hogar del bosque.
+TEXT_JOBWHM630_02415_SEQ_05	Sylphie espera que su búsqueda tenga éxito, pero se pregunta si Gatty y su madre estarán dispuestas a hablar. Al recordar cómo reaccionó la niña cuando le ofreció curarla, la acólita teme que un arrebato de emociones lleve a otra batalla con los voidsent...<br><br>※La siguiente misión de white mage estará disponible con Sylphie al llegar al nivel 65.
+TEXT_JOBWHM630_02415_TODO_00	Habla con Sylphie.
+TEXT_JOBWHM630_02415_TODO_01	Persigue a la niña extraña.
+TEXT_JOBWHM630_02415_TODO_02	Habla con E<-->Sumi-Yan en Stillglade Fane.
+TEXT_JOBWHM630_02415_TODO_03	Habla con Sylphie.
+TEXT_JOBWHM630_02415_SYLPHIE_000_000	¡Ah, hola, <split(<string(gstr1)>, ,1)>! Qué amable que te preocupes, pero estuve perfectamente a salvo: les pedí a los soldados del Wall que me dejaran acompañarlos en sus patrullas en vez de andar sola por ahí.
+TEXT_JOBWHM630_02415_SYLPHIE_000_001	Más de una vez creí sentir algo, un destello brevísimo, pero los exploradores tenían su misión, y no podía arriesgarme a separarme de ellos para confirmar mis sospechas.
+TEXT_JOBWHM630_02415_SYLPHIE_000_002	Necesito revisar una zona en particular, algo alejada de la ruta de patrulla. ¿Crees que podrías venir conmigo? Toma, te marco el lugar en el mapa y nos vemos allí cuando estés list<if(gnum4,a,o)>.
+TEXT_JOBWHM630_02415_SYLPHIE_000_010	Es aquí...
+TEXT_JOBWHM630_02415_GATTY_000_011	(-Niña extraña-)......
+TEXT_JOBWHM630_02415_SYLPHIE_000_012	\<jadeo> ¿¡Lo sientes!? ¡El origen tiene que estar cerca!
+TEXT_JOBWHM630_02415_GATTY_000_013	(-Niña extraña-)¡Ah!
+TEXT_JOBWHM630_02415_SYLPHIE_000_014	...¿Y estás segur<if(gnum4,a,o)> de que es la misma niña?
+TEXT_JOBWHM630_02415_SYLPHIE_000_015	No sé qué está pasando aquí, pero su aura es <italic(1)>cegadora<italic(0)>. ¡Vamos, tenemos que seguirla!
+TEXT_JOBWHM630_02415_SYLPHIE_000_019	...¿Y ahora adónde se fue? ¡Separémonos un rato y sigamos buscando!
+TEXT_JOBWHM630_02415_GATTY_000_020	（★未使用／削除★）
+TEXT_JOBWHM630_02415_GATTY_000_021	¡No te acerques!<br>¡Mamá! ¿¡Dónde estás!?
+TEXT_JOBWHM630_02415_SYLPHIE_000_022	¡Pobrecita, debiste de estar aterrada! ¡Pero no te preocupes! ¡Te llevaremos con tu mamá!
+TEXT_JOBWHM630_02415_GATTY_000_023	No debo hablar con desconocidos...<br>Mamá dice que me van a llevar y a encerrar en una jaula.
+TEXT_JOBWHM630_02415_SYLPHIE_000_024	¿Eso dice? Bueno, yo soy Sylphie, y est<if(gnum4,a,e)> es <split(<string(gstr1)>, ,1)>.
+TEXT_JOBWHM630_02415_SYLPHIE_000_025	Ahora que sabes nuestros nombres, ¿por qué no nos dices el tuyo? Así ya no seremos desconocid<if(gnum4,as,os)>, ¿verdad?
+TEXT_JOBWHM630_02415_GATTY_000_026	(-Gatty-)...Me llamo Gatty.<br>Ustedes no se sienten feos como las cosas malas...
+TEXT_JOBWHM630_02415_GATTY_000_027	（★未使用／削除予定★）
+TEXT_JOBWHM630_02415_SYLPHIE_000_027	¡Bueno, espero que eso quiera decir que podemos ser amig<if(gnum4,as,os)>! Vamos, Gatty, busquemos a tu mamá. ¿Sabes el camino a casa?
+TEXT_JOBWHM630_02415_GATTY_000_028	(-Gatty-)Yo no tengo amigos...<br>Vivimos en el bosque, solo mamá y yo.
+TEXT_JOBWHM630_02415_GATTY_000_029	（★未使用／削除予定★）
+TEXT_JOBWHM630_02415_SYLPHIE_000_029	¿Te lastimaste cuando te atacaron esas criaturas? A ver, déjame ver...
+TEXT_JOBWHM630_02415_SYLPHIE_000_030	¡Ah, eso lo curo en un segundo! Mira. Una conjurer como yo puede curar toda clase de heridas.
+TEXT_JOBWHM630_02415_GATTY_000_031	(-Gatty-)\<jadeo> ¿¡Una conjurer!? ¡No! ¡No me toques!
+TEXT_JOBWHM630_02415_SYLPHIE_000_032	¡Otra vez esa oleada! Y esta vez es mucho más poderosa. ¡Gatty, tenemos que irnos!
+TEXT_JOBWHM630_02415_SYLPHIE_000_033	¿Qué...? ¡Se fue! ¿¡Viste adónde fue!?
+TEXT_JOBWHM630_02415_SYLPHIE_000_034	¿No...? ¡Pero si casi no le quitamos los ojos de encima! ¿Cómo pudo desaparecer tan rápido?
+TEXT_JOBWHM630_02415_Q1_000_000	¿Cómo desapareció Gatty tan rápido?
+TEXT_JOBWHM630_02415_A1_000_001	Se la llevaron los voidsent.
+TEXT_JOBWHM630_02415_A1_000_002	Aprendió el truco de un moogle.
+TEXT_JOBWHM630_02415_A1_000_003	......
+TEXT_JOBWHM630_02415_SYLPHIE_000_035	¿¡Se la llevaron!? Pero no viste más voidsent, ¿o sí?
+TEXT_JOBWHM630_02415_SYLPHIE_000_036	...Yo tampoco. Y estoy bastante segura de que acabaste con todas las bestias que la atacaban.
+TEXT_JOBWHM630_02415_SYLPHIE_000_037	Ah, bueno, los moogles sí que son buenos para desaparecer, pero nunca oí que le enseñaran el secreto a nadie más...
+TEXT_JOBWHM630_02415_SYLPHIE_000_038	...Tú tampoco tienes idea, ¿eh? Desapareció como si fuera un moogle.
+TEXT_JOBWHM630_02415_SYLPHIE_000_039	Hmmm. Esa oleada de poder que sentí también se fue. No creo que sea casualidad que se apagara justo cuando Gatty se fue...
+TEXT_JOBWHM630_02415_SYLPHIE_000_040	Cada vez que entra en pánico, siento que su aura se <italic(1)>expande<italic(0)>, y creo que los voidsent también lo sienten. Y apostaría tres tardes de clases del Oidor Nolanel a que la presencia de esas bestias es lo que altera a los elementales.
+TEXT_JOBWHM630_02415_SYLPHIE_000_041	Muy bien. Es hora de volver a Gridania e informarle al maestro del gremio lo que averiguamos.
+TEXT_JOBWHM630_02415_SYLPHIE_000_049	Hice lo que pude para explicarle al maestro del gremio lo que pasó en East End...
+TEXT_JOBWHM630_02415_ESUMIYAN_000_050	Escuché el informe de Sylphie, y <if(gnum4,las felicito a ambas,los felicito a ambos)> por seguir esta investigación en una zona tan peligrosa.
+TEXT_JOBWHM630_02415_ESUMIYAN_000_051	A juzgar por lo que describen del aura extraordinariamente potente de Gatty, me inclino a darle la razón a la teoría de que son sus energías las que atraen a los voidsent.
+TEXT_JOBWHM630_02415_ESUMIYAN_000_052	Si, como sospechan, la niña vive sola con su madre, es poco probable que le hayan enseñado a controlar su poder. El miedo, el pánico, la ira... cualquier emoción fuerte podría hacer que su aether se encienda de golpe. Para las voraces criaturas del vacío, el "olor" de esos arrebatos sería como el más dulce de los néctares...
+TEXT_JOBWHM630_02415_SYLPHIE_000_053	Entonces, si Gatty aprendiera a controlarlo, el problema estaría resuelto, ¿no?
+TEXT_JOBWHM630_02415_ESUMIYAN_000_054	Suponemos mucho, pero sabemos poco. Sin entender la naturaleza exacta de los dones de la niña, dudo en proponer una solución...
+TEXT_JOBWHM630_02415_SYLPHIE_000_055	Dijo que vivía en el bosque. Volveré a salir con las patrullas Serpent a ver si encuentro su casa.
+TEXT_JOBWHM630_02415_ESUMIYAN_000_056	Buena idea.<br><split(<string(gstr1)>, ,1)>, le ruego que siga dándole a Sylphie todo el apoyo que necesite.
+TEXT_JOBWHM630_02415_SYLPHIE_000_057	Vamos. Volvamos a Castrum Oriens, y ahí hablamos de qué hacer a continuación.
+TEXT_JOBWHM630_02415_ESUMIYAN_000_059	Hasta ahora Sylphie se comportó de forma admirable, pero aun así me tranquiliza saber que usted vigila sus esfuerzos.
+TEXT_JOBWHM630_02415_SYLPHIE_000_060	El maestro del gremio tiene razón: necesitamos saber más sobre la propia Gatty.
+TEXT_JOBWHM630_02415_SYLPHIE_000_061	O sea, ¿cómo puede una niña como ella tener un poder que atrae a los voidsent...? Bueno, lo primero es lo primero: tengo que encontrar dónde vive. Y ojalá ella y su madre estén dispuestas a hablar con nosotr<if(gnum4,as,os)>.
+TEXT_JOBWHM630_02415_SYLPHIE_000_062	¿Crees que vamos a enfrentar más bestias antes de que todo esto termine? Debería ir practicando mis hechizos...

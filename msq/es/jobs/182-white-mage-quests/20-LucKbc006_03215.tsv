@@ -1,0 +1,86 @@
+key	text
+TEXT_LUCKBC006_03215_SEQ_00	Raya<-->O<-->Senna parece estar de humor nostálgico.
+TEXT_LUCKBC006_03215_SEQ_01	Raya<-->O<-->Senna te habla de Alaqa y de los esfuerzos de la mujer Au Ra por expiar sus actos equivocados. La Padjal te pide que vayas a ver a Alaqa en Stillglade Fane y averigües cómo avanza en sus estudios de conjuración.
+TEXT_LUCKBC006_03215_SEQ_02	Tu visita repentina sorprende a Alaqa, que te confiesa que no se siente a gusto ni con el arte de la conjuración ni con su lugar en el Conjurers' Guild. Por suerte, Sylphie y Gatty llegan pronto a levantar el ánimo y, al parecer inspiradas por tu relato de aventuras, proponen un plan: parece que toca un viaje de entrenamiento al Hedgetree.
+TEXT_LUCKBC006_03215_SEQ_03	Alcanzas a Sylphie en el Central Shroud y descubres que algún plan ruin de los Ixal alborotó a los elementales. Agotada por su batalla con un treant enfurecido, Sylphie te ruega que te apresures al Hedgetree, donde Gatty intenta calmar sola la ira de los espíritus del bosque...
+TEXT_LUCKBC006_03215_SEQ_04	Encuentras a Gatty maltrecha y agotada por la ira de los elementales, e intervienes para calmarlos con tus propias energías serenas. Mientras tú estás ocupad<if(gnum4,a,o)> en eso, a Alaqa le toca vencer sus dudas y lanzar un hechizo de sanación para su amiga Padjal herida. Felices por el gran paso de Alaqa, Sylphie y Gatty vuelven corriendo a informarle a Brother E<-->Sumi, mientras Alaqa se queda atrás.
+TEXT_LUCKBC006_03215_SEQ_05	La experiencia parece haber fortalecido a Alaqa, que está decidida a seguir con sus estudios en Stillglade Fane. Algo avergonzada por el repentino torrente de emociones, te pide que le cuentes tú su decisión a Raya<-->O.
+TEXT_LUCKBC006_03215_SEQ_06	Raya<-->O escucha tu informe con mucho interés, y se alegra tanto por los avances de Alaqa como por la inspiración que le diste. Con amigas como Sylphie y Gatty a su lado, el futuro de Alaqa en el Conjurers' Guild parece destinado a ser brillante. En cuanto a tu dominio de la magia blanca, Raya<-->O te advierte que no te confíes: espera oír cosas cada vez más grandes de ti antes de que sus caminos vuelvan a cruzarse...
+TEXT_LUCKBC006_03215_TODO_00	Habla con Alaqa en el Conjurers' Guild.
+TEXT_LUCKBC006_03215_TODO_01	Reúnete con Sylphie cerca del Hedgetree, en el Central Shroud.
+TEXT_LUCKBC006_03215_TODO_02	Habla con Gatty en el Hedgetree.
+TEXT_LUCKBC006_03215_TODO_03	Habla con Alaqa en el Hedgetree.
+TEXT_LUCKBC006_03215_TODO_04	Infórmale a Raya<-->O<-->Senna en Camp Tranquil.
+TEXT_LUCKBC006_03215_RAYAOSENNA_000_000	<split(<string(gstr1)>, ,1)>, ¿cómo vas con tus estudios de la magia blanca? Siento que tu magia se volvió todavía más fuerte desde la última vez que nos vimos.
+TEXT_LUCKBC006_03215_RAYAOSENNA_000_001	Hablando de viejos conocidos, ¿te acuerdas de Alaqa? ¿La muchacha Au Ra responsable de la impureza y su corrupción?
+TEXT_LUCKBC006_03215_RAYAOSENNA_000_002	Para expiar sus culpas, empezó a entrenarse en el arte de la conjuración. ¿Podrías pasar por Stillglade Fane y ver cómo está, de mi parte? Seguro que se alegrará de tu visita.
+TEXT_LUCKBC006_03215_RAYAOSENNA_000_003	Puede que también te encuentres con Gatty mientras estés en la ciudad: por su crianza poco común, a mi compañera Padjal le dieron permiso para moverse con algo más de libertad de lo que normalmente se permitiría. Si las ves, salúdalas de mi parte a ella y a Sylphie.
+TEXT_LUCKBC006_03215_RAYAOSENNA_000_005	¿Fuiste a ver a Alaqa? Me pregunto cómo avanza su entrenamiento en el gremio...
+TEXT_LUCKBC006_03215_ALAQA_000_010	...<split(<string(gstr1)>, ,1)>, ¿te envió Raya<-->O<-->Senna a verme?
+TEXT_LUCKBC006_03215_ALAQA_000_011	Ah, eso imaginaba. No creí que vinieras a buscarme por tu cuenta, después de que alguna vez te deseé la muerte...
+TEXT_LUCKBC006_03215_ALAQA_000_012	Pero te prometo que cambié: hago lo que me piden. Por lo menos, lo intento...
+TEXT_LUCKBC006_03215_ALAQA_000_013	Mis intentos de hechizos de curación son pésimos. Hago los ejercicios como me enseñó la Seedseer, pero parece que no sirvo para las artes de sanación...
+TEXT_LUCKBC006_03215_ALAQA_000_014	Siendo forastera, me... cuesta... hacer amigos aquí.
+TEXT_LUCKBC006_03215_ALAQA_000_015	Aunque <italic(1)>sí<italic(0)> hay dos jovencitas que parecen ansiosas por incluirme en sus charlas.
+TEXT_LUCKBC006_03215_SYLPHIE_000_016	¡Alaqa! ¡No sabía que conocías a <split(<string(gstr1)>, ,1)>!
+TEXT_LUCKBC006_03215_GATTY_000_017	¿Estaban hablando de sus aventuras? ¡Quiero oír de aventuras!
+TEXT_LUCKBC006_03215_SYLPHIE_000_018	¡Ay, yo también, yo también! ¿¡Podemos quedarnos a escuchar!?
+TEXT_LUCKBC006_03215_ALAQA_000_019	S-Supongo que sí. Si a <split(<string(gstr1)>, ,1)> no le molesta...
+TEXT_LUCKBC006_03215_SYLPHIE_000_020	¡Genial! ¿Qué historia vas a contar?
+TEXT_LUCKBC006_03215_Q1_000_000	¿Qué historia vas a contar?
+TEXT_LUCKBC006_03215_A1_000_001	La de un hombre que cruzó el tiempo y el espacio para salvar al mundo... y a mí.
+TEXT_LUCKBC006_03215_A1_000_002	La de una mujer que desafió todo para salvar a su querida familia.
+TEXT_LUCKBC006_03215_SYLPHIE_000_021	Debe de quererte de verdad, y lo entiendo perfectamente. Qué historia tan bonita...
+TEXT_LUCKBC006_03215_SYLPHIE_000_022	Qué hermana tan maravillosa debe de ser. Y qué historia tan bonita...
+TEXT_LUCKBC006_03215_GATTY_000_023	Yo quiero poder hacer eso: proteger a la gente. Pero seguro que voy a necesitar <italic(1)>muchísimo<italic(0)> más entrenamiento...
+TEXT_LUCKBC006_03215_SYLPHIE_000_024	¿Y por qué no vamos todos a entrenar ahora mismo? ¡Juntos! ¡Y podemos esforzarnos para ser como la persona de la que nos habló <split(<string(gstr1)>, ,1)>!
+TEXT_LUCKBC006_03215_GATTY_000_025	¡Sí, qué idea tan maravillosa!
+TEXT_LUCKBC006_03215_GATTY_000_026	¡Alaqa, tú y <split(<string(gstr1)>, ,1)> tienen que venir con nosotras! ¡Va a ser mucho más divertido <if(gnum4,las,los)> cuatro!
+TEXT_LUCKBC006_03215_ALAQA_000_027	Si insistes...
+TEXT_LUCKBC006_03215_SYLPHIE_000_028	¡Propongo ir al Hedgetree y practicar cómo escuchar los susurros del bosque! ¡Vamos, todos, síganme!
+TEXT_LUCKBC006_03215_SYLPHIE_000_030	\<jadeo> \<resoplido> <split(<string(gstr1)>, ,1)>, los Ixal, ellos... \<jadeo>
+TEXT_LUCKBC006_03215_SYLPHIE_000_031	...¡Clavaron una espada en el Hedgetree! A los elementales <italic(1)>no<italic(0)> les gustó nada... \<resoplido>... ¡y antes de darnos cuenta, nos atacaba un treant!
+TEXT_LUCKBC006_03215_SYLPHIE_000_032	Debe de ser una especie de venganza contra Gridania, los Ixal quieren causar pánico o caos o... \<jadeo>
+TEXT_LUCKBC006_03215_SYLPHIE_000_033	Gatty quiso intentar calmar a los espíritus... \<resoplido>... así que nos trajimos aquí al señor ramazos para alejarlo. Apenas logré... \<jadeo>... derribarlo...
+TEXT_LUCKBC006_03215_ALAQA_000_034	Mi conjuración era demasiado débil para servir de algo. Sylphie tuvo que gastar demasiado aether para asegurarse de vencer a la criatura...
+TEXT_LUCKBC006_03215_SYLPHIE_000_035	No te preocupes por mí: ¡es Gatty la que necesita ayuda! Los elementales estaban furiosos, ¡y no hay forma de que pueda calmar su ira sola!
+TEXT_LUCKBC006_03215_SYLPHIE_000_036	¡Por favor, date prisa, <split(<string(gstr1)>, ,1)>! ¡Te necesita!
+TEXT_LUCKBC006_03215_SYLPHIE_000_040	¡Gatty está intentando calmar sola a los elementales! ¡Tienes que ayudarla!
+TEXT_LUCKBC006_03215_ALAQA_000_041	¿Q-Qué hago...? ¿Qué <italic(1)>puedo<italic(0)> hacer...?
+TEXT_LUCKBC006_03215_GATTY_000_050	\<jadeo> \<jadeo> ¡<split(<string(gstr1)>, ,1)>, menos mal!
+TEXT_LUCKBC006_03215_GATTY_000_051	Saqué la espada, pero los elementales arremetieron... No me escuchan...
+TEXT_LUCKBC006_03215_GATTY_000_052	¡Por favor, tienes que calmarlos! Si otro de esos treants va tras Sylphie y Alaqa...
+TEXT_LUCKBC006_03215_GATTY_000_053	\<jadeo> \<resoplido> Ugh...
+TEXT_LUCKBC006_03215_SYLPHIE_000_060	¡Gatty, te ves herida! Quiero curarte, pero ya no me queda aether para lanzar hechizos...
+TEXT_LUCKBC006_03215_SYLPHIE_100_060	¡Alaqa, vas a tener que hacerlo tú!
+TEXT_LUCKBC006_03215_ALAQA_000_061	¿Y-Yo...? Pero no puedo...
+TEXT_LUCKBC006_03215_SYLPHIE_000_062	¡Tienes que hacerlo! ¿¡No ves que está sufriendo!?
+TEXT_LUCKBC006_03215_ALAQA_000_063	Quiero ayudar, pero mi conjuración es tan débil que yo...
+TEXT_LUCKBC006_03215_ALAQA_100_063	...¡Lo intentaré! ¡Nadie debería sufrir así!
+TEXT_LUCKBC006_03215_GATTY_000_064	Gracias, Alaqa: ya me siento mucho mejor. ¡Tu sanación fue como envolverse en una manta suave y calentita!
+TEXT_LUCKBC006_03215_ALAQA_000_065	Me alegra oír eso, Gatty. Para ser sincera, no esperaba que el hechizo funcionara... pero funcionó.
+TEXT_LUCKBC006_03215_GATTY_000_066	Y gracias a ti también, <split(<string(gstr1)>, ,1)>. No sabía que los elementales podían enojarse <italic(1)>tanto<italic(0)>... Uf, me falta mucho para ser tan fuerte como tú.
+TEXT_LUCKBC006_03215_SYLPHIE_000_067	¡"Uf" es la palabra! ¡Creo que Brother E<-->Sumi nos debe una recompensa después de tanto esfuerzo!
+TEXT_LUCKBC006_03215_ALAQA_000_068	Ay, Sylphie...
+TEXT_LUCKBC006_03215_SYLPHIE_000_069	¿¡Alaqa!? Creo que nunca te había visto reír. ¡Este día sí que estuvo lleno de sorpresas!
+TEXT_LUCKBC006_03215_SYLPHIE_000_070	Alaqa no habla mucho, pero en el fondo es la chica más dulce.
+TEXT_LUCKBC006_03215_GATTY_000_071	Alaqa es todavía más bonita cuando se ríe, ¿no te parece?
+TEXT_LUCKBC006_03215_ALAQA_000_080	Gracias, <split(<string(gstr1)>, ,1)>. Si no hubieras venido, quizá habría perdido a las primeras amigas de verdad que tuve...
+TEXT_LUCKBC006_03215_SYLPHIE_000_081	Así es <split(<string(gstr1)>, ,1)>: ¡siempre es <if(gnum4,nuestra heroína,nuestro héroe)> cuando <if(gnum4,la,lo)> necesitamos!
+TEXT_LUCKBC006_03215_GATTY_000_082	¡Así es! De hecho, hoy <if(gnum4,las dos fueron heroínas,los dos fueron héroes)>.
+TEXT_LUCKBC006_03215_ALAQA_000_083	Yo no diría que fui heroica...
+TEXT_LUCKBC006_03215_GATTY_000_084	Lo digo en serio. ¡Tenemos que contarle a Brother E<-->Sumi lo increíble que es ahora tu conjuración!
+TEXT_LUCKBC006_03215_ALAQA_000_085	Otra vez creo que me elogias demasiado, pero sin duda deberíamos informar de lo ocurrido y avisarle que están sanas y salvas.
+TEXT_LUCKBC006_03215_SYLPHIE_000_086	Volvamos, entonces. ¡Creo que ya me merezco una taza de té y una buena siesta larga!
+TEXT_LUCKBC006_03215_ALAQA_000_087	¿<split(<string(gstr1)>, ,1)>? Puede que, después de todo, encuentre mi lugar aquí.
+TEXT_LUCKBC006_03215_ALAQA_000_088	Cuando escuché tu relato, estaba convencida de que no había nadie en mi vida que me importara tanto... ni a quien yo le importara.
+TEXT_LUCKBC006_03215_ALAQA_000_089	Después vi a Gatty herida. Nunca había sentido el corazón latir tan fuerte, nunca había sentido un alivio como cuando mi hechizo la sanó.
+TEXT_LUCKBC006_03215_ALAQA_000_090	Me pregunto si así se sentía también la gente de tus aventuras...
+TEXT_LUCKBC006_03215_ALAQA_000_091	Voy a seguir con mis estudios. Y si me necesitas, si cualquiera de ustedes me necesita, estaré lista.
+TEXT_LUCKBC006_03215_ALAQA_000_092	¿Te molestaría contarle a Raya<-->O que decidí quedarme? Me da un poco de vergüenza mostrar tanto sentimiento delante de la Seedseer...
+TEXT_LUCKBC006_03215_RAYAOSENNA_000_100	<split(<string(gstr1)>, ,1)>, ¿vuelves con noticias de Alaqa?
+TEXT_LUCKBC006_03215_RAYAOSENNA_000_101	Ah, pensaba investigar la perturbación yo misma cuando de pronto se calmó. Fue una suerte que estuvieras cerca.
+TEXT_LUCKBC006_03215_RAYAOSENNA_000_102	Y me alegra mucho saber que Alaqa por fin despertó su talento para la conjuración. Sospechaba que lo que frenaba sus avances no era su potencial ni la falta de estudio, sino la confianza.
+TEXT_LUCKBC006_03215_RAYAOSENNA_000_103	Estoy segura de que tu presencia inspiradora tuvo mucho que ver con su cambio de perspectiva.
+TEXT_LUCKBC006_03215_RAYAOSENNA_000_104	¡Ah, pero no dejes que tanto elogio te distraiga de perfeccionar tu propio arte! El dominio de la magia blanca es un camino que nunca termina de verdad, <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKBC006_03215_RAYAOSENNA_000_105	¡Espero oír cosas cada vez más grandes de ti antes de que volvamos a vernos!

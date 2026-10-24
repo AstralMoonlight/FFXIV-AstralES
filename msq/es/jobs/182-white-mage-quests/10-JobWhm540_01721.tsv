@@ -1,0 +1,61 @@
+key	text
+TEXT_JOBWHM540_01721_SEQ_00	Eschiva está lista para retomar la misión de purgar la impureza.
+TEXT_JOBWHM540_01721_SEQ_01	Eschiva terminó los preparativos para la siguiente etapa de tu misión, que te llevará a Coerthas Western Highlands. Te propone pasar primero por la aldea de Falcon's Nest para reunir información de los lugareños.
+TEXT_JOBWHM540_01721_SEQ_02	Te reúnes con Eschiva en Falcon's Nest. Después de recordar los viajes de su abuelo, te pide que hables con los lugareños y les preguntes si saben algo de la impureza.
+TEXT_JOBWHM540_01721_SEQ_03	Para tu disgusto, los lugareños no saben nada de la impureza. Pero te cuentan que hace poco pasó por Falcon's Nest una extranjera que apestaba a muerte. Ve a la entrada norte de Falcon's Nest y cuéntale a Eschiva lo que averiguaste.
+TEXT_JOBWHM540_01721_SEQ_04	Parece que tu investigación te llevará en la misma dirección que la extranjera. Dejando de lado si es una coincidencia, ve al extremo noroeste de Western Highlands, a la zona al sur de las Slate Mountains, y reúnete con Eschiva.
+TEXT_JOBWHM540_01721_SEQ_05	Eschiva y tú encuentran a la extranjera agachada sobre los restos de un dragón. Al final de una conversación incómoda, la mujer les advierte que la dejen en paz. ¿Quién es esta Alaqa y qué busca? Aunque esas preguntas te inquietan, por ahora debes concentrarte en tu misión. Eschiva cree que la impureza se manifestó cerca; encuéntrala y purifícala.
+TEXT_JOBWHM540_01721_SEQ_06	Lograste purificar la segunda manifestación de la impureza. Reúnete con Eschiva al oeste de Banepool y cuéntale la buena noticia.
+TEXT_JOBWHM540_01721_SEQ_07	A Eschiva le alegra saber que la impureza ya no corrompe la zona. En vez de quedarse a la intemperie, propone volver primero a Falcon's Nest para hablar de lo ocurrido.
+TEXT_JOBWHM540_01721_SEQ_08	Aunque el encuentro con la misteriosa Alaqa la dejó inquieta, Eschiva está decidida a seguir con la misión de librar al reino de la impureza. Mientras ella retoma su investigación de las vetas de agua, sigue perfeccionando tus poderes de purificación, porque pronto volverás a necesitarlos.<br><br>※La siguiente misión de white mage estará disponible con Eschiva al llegar al nivel 56.
+TEXT_JOBWHM540_01721_TODO_00	Habla con Eschiva en Falcon's Nest.
+TEXT_JOBWHM540_01721_TODO_01	Reúne información en Falcon's Nest.
+TEXT_JOBWHM540_01721_TODO_02	Habla con Eschiva.
+TEXT_JOBWHM540_01721_TODO_03	Habla con Eschiva al sur de las Slate Mountains.
+TEXT_JOBWHM540_01721_TODO_04	Encuentra la impureza y purifícala.
+TEXT_JOBWHM540_01721_TODO_05	Infórmale a Eschiva.
+TEXT_JOBWHM540_01721_TODO_06	Habla con Eschiva.
+TEXT_JOBWHM540_01721_ESCHIVA_000_000	Lamento muchísimo la espera, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBWHM540_01721_ESCHIVA_000_010	Tardó un poco, pero aprobaron nuestra solicitud para cruzar Ishgard. Ya podemos seguir hacia Western Highlands.
+TEXT_JOBWHM540_01721_ESCHIVA_000_020	Tardó un poco, pero creo que ya sabemos lo suficiente de nuestro destino. Sigamos hacia Western Highlands.
+TEXT_JOBWHM540_01721_ESCHIVA_000_030	Primero, propongo pasar un momento por Falcon's Nest. Si hubo algo raro en la zona, quizá los lugareños puedan contarnos algo.
+TEXT_JOBWHM540_01721_ESCHIVA_000_040	Así que esto es Falcon's Nest... Pensar que los estilos de construcción pueden ser tan distintos aun dentro de la misma nación...
+TEXT_JOBWHM540_01721_ESCHIVA_000_041	Ir a lugares nuevos es un verdadero <italic(1)>banquete<italic(0)> para los sentidos. Qué maravillas habrá visto mi abuelo en sus viajes con el maestro A<-->Towa...
+TEXT_JOBWHM540_01721_ESCHIVA_000_042	Ah, pero esas reflexiones tendrán que esperar: tenemos una tarea. Empecemos por hablar con la gente de aquí.
+TEXT_JOBWHM540_01721_ESCHIVA_000_043	Cuando termine, le ruego que se reúna conmigo en la entrada norte de la aldea.
+TEXT_JOBWHM540_01721_FORCHETAIX_100_050	...¿La impureza? Nunca oí hablar de eso. Pero tuvimos una visita extraña: una extranjera que olía a muerte.
+TEXT_JOBWHM540_01721_FORCHETAIX_100_051	Como era sospechosa, decidí echarle un vistazo a sus cosas a escondidas, y...<br>Unnngh... Perdona, pero con solo recordarlo me dan ganas de devolver <if([gnum11<12],<if([gnum11<4],el almuerzo,la cena)>,<if([gnum11<17],el desayuno,el almuerzo)>)>...
+TEXT_JOBWHM540_01721_FORCHETAIX_100_052	En fin, después de eso, unos cuantos la enfrentamos y le exigimos saber qué buscaba, pero no quiso decir ni una palabra. No, nos miró como si no estuviéramos, con los ojos vacíos, y se fue de la aldea. Si mal no recuerdo, iba hacia el noroeste. Adonde sea que haya ido, mejor que se haya ido.
+TEXT_JOBWHM540_01721_TOURCENET_100_060	No conozco esa impureza de la que habla. Pero sí consideramos impuros a los dragones.
+TEXT_JOBWHM540_01721_TOURCENET_100_061	Hablando de esas bestias, últimamente hubo informes de una mujer extraña que merodea cerca de sus restos. Estamos atentos por si resulta ser una hereje.
+TEXT_JOBWHM540_01721_FORCHETAIX_100_070	¿La extranjera que apestaba a muerte? Después de que la enfrentamos, se fue de la aldea hacia el noroeste. Mejor que se haya ido, te lo digo.
+TEXT_JOBWHM540_01721_TOURCENET_100_080	Hay una mujer extraña que merodea cerca de los restos de dragones. Si llega a verla, le agradeceríamos que nos avisara.
+TEXT_JOBWHM540_01721_ESCHIVA_000_090	Todos hablan de los rumores de esa mujer extraña. Seguramente es solo una coincidencia, pero parece que vamos en la misma dirección que ella.
+TEXT_JOBWHM540_01721_ESCHIVA_000_091	En el extremo noroeste de la región hay fuentes de agua - lagos congelados, para ser precisa -, y quisiera llevar nuestra investigación allí.
+TEXT_JOBWHM540_01721_ESCHIVA_000_092	No me gusta lo que oigo de esa mujer, y preferiría no cruzármela, pero tenemos una misión que cumplir. Sigamos adelante.
+TEXT_JOBWHM540_01721_ESCHIVA_000_100	¡Santos dioses! ¡El hedor es insoportable, aun con este frío!
+TEXT_JOBWHM540_01721_ESCHIVA_100_100	Eh, perdone que la interrumpa, pero ¿qué está haciendo?
+TEXT_JOBWHM540_01721_ALAQA_000_101	(-Joven maloliente-)Busco.
+TEXT_JOBWHM540_01721_ALAQA_000_102	(-Joven maloliente-)Hmph... Más dañado de lo que me habría gustado, pero servirá. Después de todo, el experimento avanza a buen ritmo.
+TEXT_JOBWHM540_01721_ESCHIVA_000_103	¿Experimento? ¿Qué rayos está haciendo?
+TEXT_JOBWHM540_01721_ALAQA_000_104	(-Joven maloliente-)¿Por qué tendría que darte explicaciones?
+TEXT_JOBWHM540_01721_ESCHIVA_000_105	B-Bueno, supongo que no tiene ninguna obligación. Es que no todos los días veo a alguien, eh, hurgando en el cadáver de un dragón.
+TEXT_JOBWHM540_01721_ALAQA_000_106	(-Joven maloliente-)Así que te doy miedo. Te parezco repugnante, como a todos los demás.
+TEXT_JOBWHM540_01721_ESCHIVA_000_107	¡N-No, me malinterpreta! ¡No quise ofenderla!
+TEXT_JOBWHM540_01721_ESCHIVA_000_108	Lo que haga es asunto suyo, claro, pero no es seguro estar sola aquí afuera.
+TEXT_JOBWHM540_01721_ALAQA_000_109	(-Joven maloliente-)¿Y qué sugieres, entonces? ¿Que me busque un protector fuerte como tu amig<if(gnum4,a,o)>? Como si alguien estuviera dispuesto a ayudarme...
+TEXT_JOBWHM540_01721_ALAQA_000_110	(-Joven maloliente-)¿Hm? Esta aura que despides... Te enviaron a acosarme, ¿no? ¡Para recordarle a esa bruja de Alaqa que no tiene lugar en el mundo!
+TEXT_JOBWHM540_01721_ESCHIVA_000_111	...¿Alaqa?
+TEXT_JOBWHM540_01721_ALAQA_000_112	Te lo advierto: déjenme en paz.
+TEXT_JOBWHM540_01721_ESCHIVA_000_113	Bueno, eso sí que fue raro... No sé qué me llevó a hablar con esa mujer - Alaqa, creo que se llamaba -, pero confieso que siento una curiosidad morbosa por su experimento. Aunque no debo distraerme: tenemos trabajo.
+TEXT_JOBWHM540_01721_ESCHIVA_000_114	Si no me equivoco, la impureza se manifestó en esta zona. Separémonos para buscarla.
+TEXT_JOBWHM540_01721_ESCHIVA_000_118	Nada por ahora. Siga buscando, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBWHM540_01721_ESCHIVA_000_120	¿Encontró la impureza y la purificó? ¡Bien hecho!
+TEXT_JOBWHM540_01721_ESCHIVA_000_121	Aunque no puedo evitar preguntarme: ¿de verdad es una coincidencia que la impureza se haya manifestado justo donde encontramos a Alaqa?
+TEXT_JOBWHM540_01721_ESCHIVA_000_122	Brrr... Estar congelada hasta los huesos no ayuda a conversar. Volvamos a Falcon's Nest y calentémonos antes de hablar en serio.
+TEXT_JOBWHM540_01721_ESCHIVA_000_130	Con su último esfuerzo, siento que sus poderes siguen creciendo. Basta decir que eso es una bendición para nuestra causa.
+TEXT_JOBWHM540_01721_ESCHIVA_000_131	Hasta ahora la misión avanza sin problemas. Si seguimos la veta de agua, debería llevarnos al origen de la impureza.
+TEXT_JOBWHM540_01721_ESCHIVA_000_132	En cuanto a la desconocida, Alaqa... nunca me sentí tan inquieta en presencia de alguien.
+TEXT_JOBWHM540_01721_ESCHIVA_000_133	La idea de que pueda estar relacionada con la impureza también me preocupa, pero hasta que lo sepamos con certeza, no sirve de nada darle vueltas.
+TEXT_JOBWHM540_01721_ESCHIVA_000_134	Por ahora, retomaré mi investigación de las vetas de agua e intentaré deducir otros lugares donde podría aparecer la impureza.
+TEXT_JOBWHM540_01721_ESCHIVA_000_135	Deje en mis manos la parte de investigación de la misión, y le ruego que siga perfeccionando sus poderes de purificación. Después de todo, nadie más que usted puede purgar la impureza.

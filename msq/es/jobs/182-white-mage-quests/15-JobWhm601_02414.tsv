@@ -1,0 +1,73 @@
+key	text
+TEXT_JOBWHM601_02414_SEQ_00	A Raya<-->O<-->Senna no parece sorprenderle verte.
+TEXT_JOBWHM601_02414_SEQ_01	Raya<-->O<-->Senna te sugiere que ofrezcas tu ayuda para resolver una misteriosa perturbación que agita a los elementales. Ve al Conjurers' Guild, en Gridania, y preséntate ante Brother E<-->Sumi<-->Yan.
+TEXT_JOBWHM601_02414_SEQ_02	El maestro del gremio recibe con entusiasmo la ayuda que le ofreces, y pronto explica por qué: la inquietud de los elementales parece venir de East End, la región devastada por la guerra en la frontera entre Gridania y Gyr Abania, y considera que es mejor intentar un viaje a esa zona inestable contigo a su lado. Haz tus preparativos y reúnete con Brother E<-->Sumi<-->Yan en Nine Ivies, en el East Shroud.
+TEXT_JOBWHM601_02414_SEQ_03	Al llegar a Nine Ivies, E<-->Sumi<-->Yan confirma que la perturbación viene, en efecto, de la dirección de East End. Sus sentidos atentos también descubren a una Sylphie con cara de culpa, que asegura no poder ignorar el lamento de los espíritus del bosque. El maestro del gremio le permite a regañadientes unirse al grupo, y los tres parten hacia Castrum Oriens para seguir investigando...<br><br>※El oficial Serpent destinado en Amarissaix's Spire, en el East Shroud, te dará paso a Castrum Oriens.
+TEXT_JOBWHM601_02414_SEQ_04	Te reúnes con Brother E<-->Sumi<-->Yan, que propone separarse para buscar el lugar exacto de la perturbación. Ve hacia el suroeste y examina la zona en busca de algo inusual.
+TEXT_JOBWHM601_02414_SEQ_05	Miras alrededor buscando alguna señal de lo que podría estar alterando a los elementales, y te sorprende ver a una niña y a su madre protectora en las tierras supuestamente peligrosas de East End. Pero, aparte de ese encuentro inesperado, no logras dar con el origen de la perturbación. Vuelve a Castrum Oriens y ayuda al maestro del gremio a averiguar más sobre los habitantes de la zona.
+TEXT_JOBWHM601_02414_SEQ_06	Aunque el asunto dista mucho de estar resuelto, Brother E<-->Sumi<-->Yan siente que ya estuvo demasiado tiempo lejos de Stillglade Fane. Sylphie se ofrece entonces a quedarse en Castrum Oriens y seguir la investigación en su lugar. El maestro del gremio acepta... con la condición de que tú aceptes supervisar sus esfuerzos. El futuro promete estar lleno de desafíos, y tendrás que seguir con tus estudios si quieres estar segur<if(gnum4,a,o)> de hacerles frente.<br><br>※La siguiente misión de white mage estará disponible con Sylphie al llegar al nivel 63.
+TEXT_JOBWHM601_02414_TODO_00	Habla con E-Sumi-Yan en el Conjurers' Guild.
+TEXT_JOBWHM601_02414_TODO_01	Habla con E-Sumi-Yan en Camp Nine Ivies.
+TEXT_JOBWHM601_02414_TODO_02	Habla con E-Sumi-Yan en Castrum Oriens.
+TEXT_JOBWHM601_02414_TODO_03	Examina la zona al suroeste.
+TEXT_JOBWHM601_02414_TODO_04	Habla con E-Sumi-Yan en Castrum Oriens.
+TEXT_JOBWHM601_02414_RAYAOSENNA_000_000	Pensé que vendrías, <split(<string(gstr1)>, ,1)> de blanco. Lo sentiste, ¿verdad? ¿La agitación de los elementales?
+TEXT_JOBWHM601_02414_RAYAOSENNA_000_001	Te sugiero que te presentes ante Brother E<-->Sumi<-->Yan en Stillglade Fane: sin duda agradecerá tu ayuda para descubrir el origen de esta perturbación.
+TEXT_JOBWHM601_02414_RAYAOSENNA_000_009	Ve. Habla con Brother E<-->Sumi<-->Yan. Estoy segura de que juntos pronto descubrirán la fuente de la ira de los elementales.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_000	（★未使用／削除予定★）
+TEXT_JOBWHM601_02414_ESUMIYAN_000_001	（★未使用／削除予定★）
+TEXT_JOBWHM601_02414_ESUMIYAN_000_009	（★未使用／削除予定★）
+TEXT_JOBWHM601_02414_ESUMIYAN_000_010	<split(<string(gstr1)>, ,1)>, qué oportuno...<br>Ah, ¿la Hermana Raya<-->O<-->Senna <if(gnum4,la,lo)> envió al gremio? Me alegra que lo haya hecho.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_011	Como seguro habrá sentido, los elementales están alborotados. Y aunque pronto partiría a investigar, la inquietud del bosque parece venir de tierras a las que no conviene acercarse con prisa ciega.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_012	Hablo de East End, en el borde mismo del Twelveswood. Durante mucho tiempo, las fuerzas del Garlean Empire ocuparon esta frontera entre Gyr Abania y nuestra nación.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_013	Hace poco la Alliance tomó el control de Baelsar's Wall, y con ello manda en las fortificaciones de East End, pero la estabilidad de la región sigue siendo frágil, en el mejor de los casos.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_014	Sería una empresa mucho más segura si <if(gnum4,la,lo)> tuviera a mi lado. ¿Está dispuest<if(gnum4,a,o)> a hacer el viaje?
+TEXT_JOBWHM601_02414_ESUMIYAN_000_015	Entonces no hay por qué demorarse más. Hagamos nuestros preparativos y empecemos la travesía desde Camp Nine Ivies.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_019	Le ruego que se prepare, <split(<string(gstr1)>, ,1)>. Esperaré su llegada en Camp Nine Ivies.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_020	Gracias otra vez por venir, <split(<string(gstr1)>, ,1)>. Llegué hace unos momentos y presté oído a los susurros del bosque, aunque aquí quizá sería mejor llamarlos "lamentos". No cabe duda de que estamos más cerca del origen.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_021	...Y también estoy seguro de que no estamos solos.
+TEXT_JOBWHM601_02414_ESUMIYAN_100_021	¡Sal de ahí! No puedes ocultarme tu presencia.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_022	Ay, Sylphie...
+TEXT_JOBWHM601_02414_SYLPHIE_000_023	Debí imaginar que me sentiría...
+TEXT_JOBWHM601_02414_ESUMIYAN_000_024	Tus faltas a las lecciones de antes me dieron mucha práctica para encontrar a quien no quiere que lo encuentren. Ahora bien, ¿debo suponer que a ti también te trajo aquí el apuro de los elementales?
+TEXT_JOBWHM601_02414_SYLPHIE_000_025	Sí, maestro. Perdón por irme sin permiso, ¡pero <italic(1)>tenía<italic(0)> que saber qué causaba todo este alboroto!
+TEXT_JOBWHM601_02414_ESUMIYAN_000_026	Volverás a Stillglade Fane y dejarás esta investigación en manos de <split(<string(gstr1)>, ,1)> y mías. Esta tarea es tan peligrosa que hasta yo me vi obligado a pedir ayuda.
+TEXT_JOBWHM601_02414_SYLPHIE_000_027	¡Por favor, maestro, déjeme ayudar! Nunca había oído las voces de los elementales con tanta claridad...<br>¡Quieren decirme algo, lo sé!
+TEXT_JOBWHM601_02414_ESUMIYAN_000_028	Y es justamente ese "algo" lo que a mí, como maestro del gremio, me toca descubrir. Tú, como acólita, estás descuidando tus deberes en el gremio.
+TEXT_JOBWHM601_02414_SYLPHIE_000_029	Pero ¿cómo voy a ignorar sus súplicas? Siento su inquietud como... ¡como cadenas que me aprietan el pecho! ¿No es mi deber como conjurer proteger el bosque?
+TEXT_JOBWHM601_02414_ESUMIYAN_000_030	...¿Su inquietud? ¿De verdad percibiste esa emoción en el río de sus susurros? ¿Y de verdad quieres devolverle la tranquilidad al bosque?
+TEXT_JOBWHM601_02414_SYLPHIE_000_031	Lo juro por la Matron misma. Solo quiero poner en práctica las lecciones que usted me enseñó.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_032	Un propósito noble. Pero si te lo permito, debes prometer que pensarás en las consecuencias de tus actos <italic(1)>antes<italic(0)> de hacer nada. No quisiera que se repitieran incidentes pasados...
+TEXT_JOBWHM601_02414_SYLPHIE_000_033	Entonces... ¿¡puedo ir!?
+TEXT_JOBWHM601_02414_SYLPHIE_000_034	¡Prometo que tendré cuidado! ¡Y le pediré ayuda a <split(<string(gstr1)>, ,1)> en cuanto la necesite!
+TEXT_JOBWHM601_02414_ESUMIYAN_000_035	Más te vale. Bien, ya es hora de que desafiemos las tierras fronterizas de Gyr Abania. Podemos llegar hasta Amarissaix's Spire, y desde allí un oficial Serpent nos guiará por las ruinas del castrum.
+TEXT_JOBWHM601_02414_SYSTEM_000_036	Para continuar esta misión, primero debes empezar la misión de la historia principal "Beyond the Great Wall".
+TEXT_JOBWHM601_02414_SYLPHIE_000_040	Uf... está empeorando. \<escalofrío> Esto ya no es inquietud, es miedo...
+TEXT_JOBWHM601_02414_ESUMIYAN_000_041	Cuanto más nos acercamos a East End, más seguro estoy de que vamos en la dirección correcta.
+TEXT_JOBWHM601_02414_SYLPHIE_000_042	Pero todavía no logro dar con el lugar exacto de la perturbación...
+TEXT_JOBWHM601_02414_ESUMIYAN_000_043	Incluso de los propios elementales, solo percibo confusión. Me temo que no queda más remedio que hacer una búsqueda más convencional.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_044	Yo iré al sureste. Sylphie, mira qué encuentras justo al sur. El suroeste le toca a usted, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_050	Preferiría que nos mantuviéramos juntos, pero el tiempo apremia. Le ruego que explore el suroeste, y nos reuniremos aquí en breve.
+TEXT_JOBWHM601_02414_SYLPHIE_000_050	La perturbación...<br>Parece venir de todas partes.
+TEXT_JOBWHM601_02414_GATTY_000_051	(-Niña extraña-)¡Ah!
+TEXT_JOBWHM601_02414_SANCHE_000_052	(-Cazadora severa-)¿¡Qué estás haciendo!? ¡Ven aquí, ahora mismo!
+TEXT_JOBWHM601_02414_ESUMIYAN_000_053	¡<split(<string(gstr1)>, ,1)>! ¿¡Qué ocurre!? Sentí una oleada de pánico que venía de esta dirección.
+TEXT_JOBWHM601_02414_SYLPHIE_000_054	Fuera lo que fuera, ya no siento nada. ¿Viste algo?
+TEXT_JOBWHM601_02414_ESUMIYAN_000_055	...¿Una niña? ¿Aquí? Por lo que describe, la madre podría ser cazadora, pero me intriga que haya elegido este coto de caza...
+TEXT_JOBWHM601_02414_SYLPHIE_000_056	...¿Será que es <italic(1)>su<italic(0)> miedo lo que tiene tan alterados a los elementales? En cualquier caso, parece que la respuesta se fue corriendo entre los matorrales.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_057	Volvamos por ahora a Castrum Oriens y averigüemos más sobre los habitantes de East End.
+TEXT_JOBWHM601_02414_SYLPHIE_000_080	Ni siquiera sabía que alguien viviera en East End...
+TEXT_JOBWHM601_02414_OFFICER02414_000_080	Soy de la unidad que ocupa Castrum Oriens. Me encuentra justo cuando venía a entregar nuestro informe periódico.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_081	Este caballero es un oficial destinado en el castrum. Quizá sepa más de la madre y la niña que vio.
+TEXT_JOBWHM601_02414_OFFICER02414_000_082	¿Y cree que esa gente vivía en el bosque? Tenía entendido que el asentamiento de East End estaba vacío...
+TEXT_JOBWHM601_02414_ESUMIYAN_000_083	Sospechamos que tiene relación con lo que sea que esté perturbando la armonía del Twelveswood. ¿Podría prestarnos algunos soldados para investigar esa posibilidad?
+TEXT_JOBWHM601_02414_OFFICER02414_000_084	En otras circunstancias, ayudaría encantado en su investigación, pero me temo que nuestras tareas en la frontera exigen toda nuestra atención.<br>...Le pido mis más sinceras disculpas, maestro Padjal.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_085	Qué inconveniente. Este asunto dista mucho de estar resuelto, y sin embargo ya tardé demasiado en volver a Stillglade Fane.
+TEXT_JOBWHM601_02414_SYLPHIE_000_086	¡Déjeme encargarme, maestro!
+TEXT_JOBWHM601_02414_ESUMIYAN_000_087	¿Quieres que le confíe esta tarea a una acólita? Es cierto que maduraste mucho en el arte, pero no puedo...
+TEXT_JOBWHM601_02414_SYLPHIE_000_088	¡Los elementales están sufriendo! ¡<italic(1)>Alguien<italic(0)> tiene que ayudarlos! Y seguro que <split(<string(gstr1)>, ,1)> podría echarme una mano... si la necesitara.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_089	...¿Qué dice, <split(<string(gstr1)>, ,1)>? Solo pensaba pedirle que participara en esta primera incursión, pero ¿puedo pedirle que siga el asunto hasta el final?
+TEXT_JOBWHM601_02414_ESUMIYAN_000_090	Gracias. Preveo dificultades por delante, pero también una oportunidad de nuevos descubrimientos. Le ruego que vigile los avances de Sylphie mientras sigue con sus propios estudios.
+TEXT_JOBWHM601_02414_ESUMIYAN_000_091	En cuanto a ti, Sylphie, espero que me informes con regularidad de lo que encuentres. Que la Matron vele por ustedes.
+TEXT_JOBWHM601_02414_SYSTEM_000_300	La siguiente misión de white mage estará disponible con Sylphie al llegar al nivel 63.
+TEXT_JOBWHM601_02414_SYSTEM_000_301	Puedes revisar en el journal los requisitos para empezar las siguientes misiones.
