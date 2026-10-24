@@ -1,0 +1,100 @@
+key	text
+TEXT_JOBSMN630_02626_SEQ_00	Y'mhitra te pide que escuches a Principia.
+TEXT_JOBSMN630_02626_SEQ_01	Y'mhitra te señala a Principia, y el dentudo familiar anuncia que estás list<if(gnum4,a,o)> para el segundo desafío. Perpleja porque la prueba exige más summoners, Y'mhitra no tiene más remedio que aceptar la propuesta de Dancing Wolf de colaborar con los nuevos aprendices de summoner de su regimiento. Viaja a Camp Bluefog, en Northern Thanalan, y preséntate ante el capitán de los Flames.
+TEXT_JOBSMN630_02626_SEQ_02	Después de que Principia explica el segundo desafío, centrado en la habilidad, Dancing Wolf te presenta a su grupo de summoners novatos. Prepárate para combatir a los egis de los aprendices y luego acércate al Summoner Crispin para empezar la prueba.
+TEXT_JOBSMN630_02626_SEQ_03	Venciste al par de Ifrit-Egi que invocaron Crispin y Denise. Acércate al Summoner Jajasamu y sigue con el siguiente paso del desafío.
+TEXT_JOBSMN630_02626_SEQ_04	Triunfaste sobre el formidable Ifrit-Egi que invocó Jajasamu. Habla otra vez con el teniente y prepárate para enfrentar a tu último oponente.
+TEXT_JOBSMN630_02626_SEQ_05	Venciste al Titan-Egi de Jajasamu. Sin entidades aethereales que mandar contra ti, los summoners novatos miran expectantes mientras Dancing Wolf espera para felicitarte.
+TEXT_JOBSMN630_02626_SEQ_06	Principia declara que tu intento del segundo desafío fue un éxito rotundo. Tus oponentes aceptan la derrota de buena gana y parecen ansiosos por retomar su entrenamiento. Te despides de ellos y sigues a Y'mhitra de vuelta a Apkallu Falls.
+TEXT_JOBSMN630_02626_SEQ_07	De vuelta en Gridania, Principia sigue con su lección sobre la historia de la invocación allagan y cuenta los logros de su creador. Y'mhitra parece más decidida que nunca a que te ganes el saber perdido del gran summoner, y te insta a prepararte para el último desafío del familiar.<br><br>※La siguiente misión de summoner estará disponible con Y'mhitra al alcanzar el nivel 65.
+TEXT_JOBSMN630_02626_TODO_00	Habla con Dancing Wolf en Camp Bluefog.
+TEXT_JOBSMN630_02626_TODO_01	Habla con Crispin y derrota a los egis.
+TEXT_JOBSMN630_02626_TODO_02	Habla con Jajasamu y derrota al egi.
+TEXT_JOBSMN630_02626_TODO_03	Habla con Jajasamu y derrota al egi.
+TEXT_JOBSMN630_02626_TODO_04	Habla con Dancing Wolf.
+TEXT_JOBSMN630_02626_TODO_05	Habla con Y'mhitra en Gridania.
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_000	<split(<string(gstr1)>, ,1)>, ¿ha estado bien, espero? Intento convencer a Y'mhitra, pero parece un poco distraída.
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_001	...Y no la culpo. ¿Vio este libro saltarín? Estoy casi seguro de que vi asomar unos dientes entre esas páginas...
+TEXT_JOBSMN630_02626_PRINCIPIA_000_010	Bienvenid<if(gnum4,a,o)> a casa, <if(gnum4,Maestra,Maestro)>. ¿O debería decir "bienvenid<if(gnum4,a,o)> de vuelta"? Me dicen que esta es la base de sus investigaciones con Lady Y'mhitra, pero no estoy seguro del saludo correcto.
+TEXT_JOBSMN630_02626_YMHITRA_000_030	Saludos, <split(<string(gstr1)>, ,1)>. Parece que Prin quiere hablarnos del segundo desafío.
+TEXT_JOBSMN630_02626_PRINCIPIA_000_0040	Felicitaciones, <if(gnum4,Maestra,Maestro)>. Está suficientemente preparad<if(gnum4,a,o)> para emprender la siguiente prueba.
+TEXT_JOBSMN630_02626_YMHITRA_000_041	Perdona, Prin, pero... ¿cómo lo sabes?
+TEXT_JOBSMN630_02626_PRINCIPIA_000_0042	Al analizar los patrones de las emanaciones aethereales de <if(gnum4,la Maestra,el Maestro)>, puedo medir la fuerza y la precisión de los conjuros que lanzó hace poco. Claro que <if(gnum4,la Maestra,el Maestro)> debe intentar el desafío en sí antes de que pueda dar una evaluación con el grado de exactitud adecuado.
+TEXT_JOBSMN630_02626_PRINCIPIA_000_0043	Será una prueba de habilidad. Sin embargo, para realizarla en las condiciones prescritas, debo pedir la ayuda de varios summoners más que hagan el papel de antagonistas...
+TEXT_JOBSMN630_02626_YMHITRA_000_044	¿Varios summoners más...? En estos tiempos, no será nada fácil conseguirlo.
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_045	Vamos, Y'mhitra. ¡La solución la tienes delante de las narices!
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_046	<split(<string(gstr1)>, ,1)>, sus hazañas llamaron la atención de los más altos mandos de los Flames. Después de ver de lo que es capaz, empezamos una iniciativa para llevar a nuestros propios summoners a la batalla contra los primals.
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_047	Varios soldados bajo mi mando ya empezaron un entrenamiento intensivo. Elegí en persona a veteranos sobrevivientes de nuestra expedición contra Ifrit, y les entregamos soul crystals que les quitamos a los Ascians.
+TEXT_JOBSMN630_02626_YMHITRA_000_048	Sí, y el Capitán Wolf lleva días aullándome al oído, suplicando que le pida ayuda a usted como una especie de <if(gnum4,instructora,instructor)> para los dotados de aether.
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_049	Pero ahora necesitan summoners para esa prueba suya, ¿no? Estoy dispuesto a ofrecerles la plena cooperación de mi regimiento. ¡Lo único que pido a cambio son unos cuantos consejos para los aprendices!
+TEXT_JOBSMN630_02626_PRINCIPIA_000_0050	Me parece un trato justo. Y mis encantamientos no me impiden enseñarles a los summoners novatos los fundamentos del arte.
+TEXT_JOBSMN630_02626_YMHITRA_000_051	Muy bien... Supongo que este acuerdo nos puede convenir a todos.
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_052	¡Sabía que aceptarías! Reúnanse conmigo en Camp Bluefog y formaré a la tropa para la inspección.
+TEXT_JOBSMN630_02626_YMHITRA_000_090	Estos son los tres summoners novatos que ayudarán con la prueba. Oí que el entrenamiento allagan puede ser bastante despiadado... Dé lo mejor de sí, ¡pero le ruego que no los lastime durante el combate!
+TEXT_JOBSMN630_02626_PRINCIPIA_000_100	Todo está listo para el segundo desafío, <if(gnum4,Maestra,Maestro)>.
+TEXT_JOBSMN630_02626_CRISPIN_000_110	Me dicen que seremos sus oponentes en este ejercicio. Es un honor conocerl<if(gnum4,a,o)>, <if(gnum4,señorita,señor)>.
+TEXT_JOBSMN630_02626_DENISE_000_120	¡La Summoner Denise, a su servicio, <if(gnum4,señorita,señor)>!
+TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_130	...¿Eh? Todavía no empezamos, ¿no?
+TEXT_JOBSMN630_02626_YMHITRA_000_140	Deberíamos reunirnos con el Capitán Wolf en el campamento; después buscaremos un buen espacio abierto en Northern Thanalan para el segundo desafío.
+TEXT_JOBSMN630_02626_YMHITRA_000_141	Eso sí, le advertí que usted está demasiado ocupad<if(gnum4,a,o)> para entrenar a sus soldados de manera permanente.
+TEXT_JOBSMN630_02626_PRINCIPIA_000_150	Como dije, el segundo desafío será una prueba de habilidad. Evaluaré su técnica en busca de una ejecución impecable y de fallas ejecutadas.
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_160	¡Parece que estamos todos! Pasemos a las instrucciones, ¿les parece?
+TEXT_JOBSMN630_02626_PRINCIPIA_000_161	Como ordene. Este segundo desafío evaluará la elegancia de su técnica, no la magnitud de su Miasma.
+TEXT_JOBSMN630_02626_PRINCIPIA_000_162	Primero, infundiré encantamientos secundarios en los egis de sus oponentes, y luego usted combatirá contra esas entidades.
+TEXT_JOBSMN630_02626_YMHITRA_000_163	Prin me explicó que los encantamientos almacenan el aether que se gasta durante la batalla y permiten un análisis a fondo de su... talento para los Deathflares, por así decirlo. En todo caso, ¡espero que apruebe con honores!
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_164	Bien, supongo que debe saber contra quién se enfrenta. ¡Nombre y rango!
+TEXT_JOBSMN630_02626_CRISPIN_000_165	Summoner Crispin. Soldado de primera clase. Le agradecemos todo lo que pueda enseñarnos, <if(gnum4,señorita,señor)>.
+TEXT_JOBSMN630_02626_DENISE_000_166	Summoner Denise. Sargento. ¡Soy nueva en esto de lanzar hechizos, pero vi mi buena dosis de combate, <if(gnum4,señorita,señor)>! Crispin y yo vamos a pelear contra usted en pareja.
+TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_167	Summoner Jajasamu. <italic(1)>Teniente<italic(0)>. Tiene más de unos cuantos admiradores en el cuartel, <split(<string(gstr1)>, ,1)>... eh, <if(gnum4,señorita,señor)>. ¡Pero eso no quiere decir que se la vamos a dejar fácil!
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_168	¡Basta de charla! ¡Paso ligero al campo de entrenamiento! Avíseles a Crispin y a Denise cuando esté list<if(gnum4,a,o)> para combatir a sus egis, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_169	Después se enfrentará a la bestia del teniente. No atacará directamente a mis soldados, ¡así que dé todo lo que tiene!
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_190	¿List<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>? Como dije, Crispin y Denise serán sus primeros oponentes. Solo deles la señal.
+TEXT_JOBSMN630_02626_DENISE_000_220	¡Nuestros egis están listos para la batalla, <if(gnum4,señorita,señor)>! ¡Los desataremos en cuanto le dé la orden a Crispin!
+TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_230	Por ahora solo voy a mirar. Ya sabe, a ver cómo se las arregla con los peces chicos antes de llegar a la pelea <italic(1)>de verdad<italic(0)>.
+TEXT_JOBSMN630_02626_YMHITRA_000_240	Probablemente deberíamos estar en Northern Thanalan. El Capitán Wolf y sus summoners estarán esperando.
+TEXT_JOBSMN630_02626_PRINCIPIA_000_250	Saludos, <if(gnum4,Maestra,Maestro)>. Estamos realizando el segundo desafío cerca de ese "Camp Bluefog" suyo. Qué extraño, no recuerdo haberme teletransportado de vuelta aquí...
+TEXT_JOBSMN630_02626_CRISPIN_000_260	¡Prepárese, <if(gnum4,señorita,señor)>! ¡Denise y yo invocaremos ahora a nuestros sirvientes para la batalla!
+TEXT_JOBSMN630_02626_DENISE_000_270	¡Sí, un par de Ifrit-Egi para usted!
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_270	¡Excelente! Hable con el Summoner Jajasamu para seguir con el desafío.
+TEXT_JOBSMN630_02626_YMHITRA_000_280	Se suponía que los encantamientos también fortalecían un poco a los egis...<br>¡Bueno, parece que a usted eso le dio igual!
+TEXT_JOBSMN630_02626_PRINCIPIA_000_290	Una actuación excelente hasta ahora, <if(gnum4,Maestra,Maestro)>. Le ruego que continúe con la prueba.
+TEXT_JOBSMN630_02626_CRISPIN_000_300	Su victoria fue abrumadora, <if(gnum4,señorita,señor)>.<br>Ver<if(gnum4,la,lo)> manejar el arte es sencillamente fascinante...
+TEXT_JOBSMN630_02626_DENISE_000_310	La verdad, nunca tuvimos ninguna oportunidad, ¡pero yo guardaba una pizca de esperanza!
+TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_330	¿Ya terminó de calentar con esas brasitas? Porque ni juntos los egis de mis compañeros se comparan con el infierno que yo puedo invocar.
+TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_331	Bien. ¡Que vengan las llamas!
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_350	Su siguiente oponente será otro de los egis del Summoner Jajasamu. Al muchacho no le gusta perder, ¡así que no espere clemencia!
+TEXT_JOBSMN630_02626_YMHITRA_000_360	Se defendió con bastante facilidad, pero ese Ifrit-Egi igual era bastante impresionante.
+TEXT_JOBSMN630_02626_PRINCIPIA_000_370	¿Cómo se siente, <if(gnum4,Maestra,Maestro)>? ¿Mareos? ¿Picazón? ¿Náuseas? ¿No? Quizás este desafío necesita ser más... desafiante. ¡Continúe!
+TEXT_JOBSMN630_02626_CRISPIN_000_380	Hasta el egi de Jajasamu se apagó...<br>Bueno, se acabó, entonces.
+TEXT_JOBSMN630_02626_DENISE_000_390	Todavía no termina: ¡el teniente tiene una carta más bajo la manga!
+TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_420	Ah, tenía esperanzas en ese, ¡pero lo apagó enseguida!
+TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_421	No fue gran prueba, ¿eh? Bueno, tiene suerte de que yo me haya enfrentado a otro primal cuando estaba en la Company of Heroes.
+TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_422	¡Sí, usted no es <if(gnum4,la única,el único)> summoner que puede comandar más de una bestia aethereal! Salude a su último oponente: ¡Titan-Egi!
+TEXT_JOBSMN630_02626_YMHITRA_000_440	¿Un ex miembro de la Company of Heroes? Me impresiona. Tiene madera de summoner talentoso.
+TEXT_JOBSMN630_02626_PRINCIPIA_000_450	Deme un tiempo para masticar los residuos de sus batallas, <if(gnum4,Maestra,Maestro)>. Aunque solo por el sabor, ya puedo predecir un resultado favorable...
+TEXT_JOBSMN630_02626_CRISPIN_000_460	Titan-Egi parecía tan sólido... y entonces usted lo hizo pedacitos.
+TEXT_JOBSMN630_02626_DENISE_000_470	Fue un placer verlo, <if(gnum4,señorita,señor)>. ¡No veo la hora de volver a nuestro entrenamiento!
+TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_480	Ojalá hubiera podido entrar en la batalla en persona. No es que el resultado hubiera cambiado, eh...
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_500	¡Espero que mis summoners le hayan dado suficiente pelea! En fin, ¿escuchamos lo que tiene que decir el libro?
+TEXT_JOBSMN630_02626_PRINCIPIA_000_501	Rumié los remolinos y los ecos de su batalla, y la imagen es clara: su técnica es, sin duda, algo de una belleza exquisita. Den por superado el segundo desafío.
+TEXT_JOBSMN630_02626_DANCINGWOLF_000_502	¡Buenas noticias, aunque nada sorprendentes! ¡Después de todo, barrió a esos egis como una tormenta un campo de dientes de león!
+TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_503	Gracias. Me abrió los ojos: veo que tengo trabajo que hacer antes de dominar de verdad esta disciplina.
+TEXT_JOBSMN630_02626_YMHITRA_000_504	Me alegra saber que les fuimos útiles. Ahora sí tenemos que volver a Gridania.
+TEXT_JOBSMN630_02626_CRISPIN_000_505	Gracias, <if(gnum4,señorita,señor)>. ¡Fue una experiencia de verdad enriquecedora!
+TEXT_JOBSMN630_02626_DENISE_000_505	¡Sí, le ruego que vuelva a entrenar con nosotros en el futuro!
+TEXT_JOBSMN630_02626_PRINCIPIA_000_540	Queda un último desafío. Le ruego que supere esta prueba, para que el saber superior que guardo no siga perdido.
+TEXT_JOBSMN630_02626_YMHITRA_000_560	Felicitaciones, <split(<string(gstr1)>, ,1)>. ¡Con sus impresionantes demostraciones de poder y de habilidad, ya superó dos de los tres desafíos de Prin!
+TEXT_JOBSMN630_02626_YMHITRA_000_561	Pero antes de llegar a la prueba final, Prin quiere seguir instruyéndonos sobre la invocación allagan.
+TEXT_JOBSMN630_02626_PRINCIPIA_000_570	Primero, quisiera preguntarles qué saben del auge y la caída de la invocación en el Allagan Empire. Me hicieron para "abarcar" bastante historia, entiéndanme.
+TEXT_JOBSMN630_02626_YMHITRA_000_571	Por nuestras investigaciones, sabemos que al principio a los summoners se los aclamaba como héroes por su éxito contra los primals. Pero cuando algunos de estos magos empezaron a abusar del poder del arte en su propio beneficio, la adoración del pueblo se volvió un odio opresivo.
+TEXT_JOBSMN630_02626_PRINCIPIA_000_572	Correcto. Hablamos ahora de la segunda mitad de la Tercera Era Astral. Mi creador, el Maestro Sari, fue uno de los que dedicaron sus energías a destruir primals, aun mientras huía de una persecución implacable. Junto a sus discípulos, triunfó sobre Belias y muchas otras entidades menores.
+TEXT_JOBSMN630_02626_YMHITRA_000_573	¿Belias? Ese era el nombre del primal ancestral del que Tristan sacó su poder...<br>El Maestro Sari debió ser muy poderoso para derrotar a semejante enemigo.
+TEXT_JOBSMN630_02626_PRINCIPIA_000_574	Pero aun así conocía el miedo: la idea de que la gran disciplina de la invocación cayera en el olvido era más de lo que el Maestro Sari podía soportar. Así que buscó preservar su legado y ayudar a sus sucesores.
+TEXT_JOBSMN630_02626_PRINCIPIA_000_575	Mi creador conocía bien la aetheroquímica y tenía un interés particular en la tecnología de la información. En términos generales, investigó métodos para producir geometrías arcanas sin grimorios y experimentó con egis potenciados por máquinas.
+TEXT_JOBSMN630_02626_PRINCIPIA_000_576	Con el tiempo abandonó ambas tecnologías, por considerarlas inadecuadas para instruir a las generaciones futuras. Con la esperanza de guiar a los summoners que aún no habían nacido, empezó a escribir y encantar una obra que sobreviviera a las eras. Me hizo a mí.
+TEXT_JOBSMN630_02626_YMHITRA_000_577	Un personaje tan consumado...<br>¿Por qué, entonces, apenas vi mencionado su nombre en las historias de Allag?
+TEXT_JOBSMN630_02626_PRINCIPIA_000_578	Como usted misma dijo, fue una época en que la adoración por los summoners dio un vuelco extremo. Es probable que los logros del Maestro Sari se borraran de los registros, así como a sus leales alumnos los abatían en las calles.
+TEXT_JOBSMN630_02626_PRINCIPIA_000_579	A mí me encerraron en un almacén, abandonado a mi sueño como cualquier tratado sobre acuerdos comerciales en las provincias del sur, así que no puedo contarles nada de lo que le ocurrió a mi creador en sus últimos años.
+TEXT_JOBSMN630_02626_YMHITRA_000_580	Esperaba una recitación árida de la historia de la invocación, pero nos compartiste tu propio relato. Es evidente que le tienes un gran respeto al Maestro Sari.
+TEXT_JOBSMN630_02626_PRINCIPIA_000_581	Soy un familiar. Solo transmito la información tal como me hechizaron. Esta lección terminó.
+TEXT_JOBSMN630_02626_YMHITRA_000_582	Como digas, Prin.<br>Bueno, <split(<string(gstr1)>, ,1)>, parece que por ahora se terminó la clase. Le sugiero que se recupere de la prueba de hoy y se prepare para el último desafío.

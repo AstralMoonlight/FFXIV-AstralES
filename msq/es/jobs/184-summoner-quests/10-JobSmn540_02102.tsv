@@ -1,0 +1,50 @@
+key	text
+TEXT_JOBSMN540_02102_SEQ_00	Dancing Wolf espera tu regreso con expresión grave.
+TEXT_JOBSMN540_02102_SEQ_01	Dancing Wolf te recibe en el Hall of Flames con noticias de otro ataque. Según el informe, parece que el villano que suponen que es Tristan volvió a atacar, esta vez una explotación minera en Central Thanalan. Ve a las Nanawa Mines e interroga al minero que sobrevivió a la masacre.
+TEXT_JOBSMN540_02102_SEQ_02	Harto de las constantes interrupciones en su trabajo, el minero atacado se niega con terquedad a contestar más preguntas hasta que le des la ayuda que pidió. El malhumorado trabajador pone a Dancing Wolf a cargar rocas y te encarga recuperar los chunks of fire silver que robaron los spriggans de la zona. Revisa los rasguños de spriggan y arrebátales el raro mineral a esos soulkin ladrones.
+TEXT_JOBSMN540_02102_SEQ_03	Derrotaste a los spriggans y recuperaste varios chunks of fire silver. Entrégale el mineral al minero atacado en las Nanawa Mines.
+TEXT_JOBSMN540_02102_SEQ_04	Contento por recuperar su fire silver, el minero por fin acepta contar lo del ataque. Y'mhitra llega justo cuando el trabajador empieza su historia, y otra vez te hace una seña para que invoques a Ifrit-Egi y así confirmar la identidad del atacante. Cuando le preguntan qué motivó al villano, el minero insiste en que Tristan buscaba una sola cosa: cristales. Vuelve al Hall of Flames y hablen de esta revelación preocupante.
+TEXT_JOBSMN540_02102_SEQ_05	Tras volver a revisar varios informes de incidentes, Dancing Wolf está convencido de que Tristan estuvo detrás de otros ataques recientes que se atribuyeron por error a los Amalj'aa. Como en todos los casos hubo robo de cristales, Y'mhitra expresa la preocupación de todos los presentes: el infame loco planea invocar a un primal. Si se quieren evitar en el presente las atrocidades del pasado, debes aprovechar al máximo los estudios de Y'mhitra y dominar el saber recuperado de los summoners de Allag.<br><br>※La siguiente misión de summoner estará disponible con Dancing Wolf al alcanzar el nivel 56.
+TEXT_JOBSMN540_02102_TODO_00	Habla con el minero atacado en las Nanawa Mines.
+TEXT_JOBSMN540_02102_TODO_01	Revisa los rasguños de spriggan y consigue chunks of fire silver.
+TEXT_JOBSMN540_02102_TODO_02	Entrégale los chunks of fire silver al minero atacado.
+TEXT_JOBSMN540_02102_TODO_03	Habla con Dancing Wolf en el Hall of Flames.
+TEXT_JOBSMN540_02102_DANCINGWOLF_000_000	Llega en buen momento, <split(<string(gstr1)>, ,1)>. Hay noticias... y ninguna buena. Nuestros soldados en Central Thanalan informaron de otro ataque.
+TEXT_JOBSMN540_02102_DANCINGWOLF_000_001	Revisé las notas de la investigación inicial y parece que Tristan, o alguien muy parecido a él, volvió a atacar. Haré que uno de mis hombres le pase los detalles a Y'mhitra, pero sugiero que vayamos de inmediato a las Nanawa Mines a interrogar a una de las víctimas que sobrevivieron.
+TEXT_JOBSMN540_02102_DANCINGWOLF_000_005	Y'mhitra avisó que vendría pronto. Si tan solo este caballero fuera igual de amable...
+TEXT_JOBSMN540_02102_YMHITRA_000_006	Estoy a punto de descubrir otro secreto de los tomestones... Por ahora, sigan la investigación sin mí, por favor.
+TEXT_JOBSMN540_02102_MINER02102_000_010	¿Cómo que más preguntas? ¡Ya les conté mi historia a tres soldados distintos! ¡Cada vez que tengo que parar a hablar con ustedes, me atraso más en el trabajo!
+TEXT_JOBSMN540_02102_MINER02102_000_011	...Pero tengo una idea: ¿qué tal si nos hacemos un favor mutuo? ¡Ese grandote de uniforme parece que podría levantar unas buenas rocas!
+TEXT_JOBSMN540_02102_MINER02102_000_012	¿Y tú, <if(gnum4,muchacha,muchacho)>? ¿Eres <if(gnum4,maga,mago)> o algo así? Tuvimos problemas con los spriggans de la zona, que nos roban el fire silver, y tú eres justo <if(gnum4,la persona indicada,el tipo indicado)> para recuperarlo. ¡Esa cosa es más rara que los dientes de chocobo, ¿sabes?!
+TEXT_JOBSMN540_02102_DANCINGWOLF_000_013	¡Un momento, señor! ¡No tenemos tiempo para estas distracciones!
+TEXT_JOBSMN540_02102_MINER02102_000_014	Entonces quizás <italic(1)>yo<italic(0)> no tengo tiempo para hablar con ustedes. No hasta que haya un poco de "dar" con su "pedir".
+TEXT_JOBSMN540_02102_DANCINGWOLF_000_015	Me temo que se va a poner terco con esto, <split(<string(gstr1)>, ,1)>. Por favor, dele el gusto y recupere su preciado mineral de los spriggans...
+TEXT_JOBSMN540_02102_MINER02102_000_020	Sí, necesito que me recuperes el fire silver de esos spriggans. Siempre andan por aquí cerca, husmeando los carros... Los vas a encontrar enseguida.
+TEXT_JOBSMN540_02102_DANCINGWOLF_000_025	\<jadeo> \<jadeo> ...Esto es un paseo... comparado con mi entrenamiento de oficial...
+TEXT_JOBSMN540_02102_MINER02102_000_030	¿Encontraste a esos spriggans, <if(gnum4,muchacha,muchacho)>? ¿Y mi fire silver?
+TEXT_JOBSMN540_02102_MINER02102_000_035	¡Ajá, recuperaste todo! ¡Te lo agradezco mucho!
+TEXT_JOBSMN540_02102_YMHITRA_000_040	Perdón, mis estudios tardaron bastante más de lo que...<br>...¿Capitán Wolf? ¿Está todo bien?
+TEXT_JOBSMN540_02102_DANCINGWOLF_000_041	...Todo bien. Ahora, escuchemos su historia, señor.
+TEXT_JOBSMN540_02102_MINER02102_000_042	Sí, supongo que se lo ganaron. Bueno, estábamos en la mina cargando los carros con lo del día, cuando aparece este tipo de túnica. No dice ni una palabra: el desgraciado chasquea los dedos y manda a su demonio mascota a prenderles fuego a mis compañeros...
+TEXT_JOBSMN540_02102_YMHITRA_000_043	Ifrit-Egi... <split(<string(gstr1)>, ,1)>, ¿sería tan amable?
+TEXT_JOBSMN540_02102_MINER02102_000_044	¡Maldita sea! ¡Sí, ese es el demonio que vi!
+TEXT_JOBSMN540_02102_YMHITRA_000_045	Entonces es lo que temíamos... ¿Y tiene alguna idea de por qué lo atacó ese hombre de túnica?
+TEXT_JOBSMN540_02102_MINER02102_000_046	Bueno, muchacha, de Nanawa se saca más que plata: en un buen día también desenterramos nuestra buena parte de cristales. Parece que eso era lo que buscaba.
+TEXT_JOBSMN540_02102_MINER02102_000_047	No me da vergüenza decir que salí corriendo por mi vida cuando la gente empezó a arder. Pero cuando volví a ver el desastre, el carro que tenía los cristales estaba vacío.
+TEXT_JOBSMN540_02102_YMHITRA_000_048	...¿Se los llevó todos?
+TEXT_JOBSMN540_02102_MINER02102_000_049	Sí, hasta el último. Y eso es todo lo que tengo que decir. ¡Ojalá atrapen al desgraciado!
+TEXT_JOBSMN540_02102_DANCINGWOLF_000_050	Cristales... En la lista de mercancías robadas de esa caravana había una caja de cristales. Debió llevarse todo lo demás para ocultar su intención...
+TEXT_JOBSMN540_02102_DANCINGWOLF_000_051	Nuestra presa se está volviendo descuidada... o simplemente impaciente. Es hora de volver a revisar otros incidentes que no creímos relacionados con este caso. Reúnanse conmigo en el Hall of Flames y seguiremos hablando del asunto.
+TEXT_JOBSMN540_02102_YMHITRA_000_052	Solo se me ocurre una razón por la que un hombre como Tristan querría hacerse con tantos cristales... Venga, <split(<string(gstr1)>, ,1)>: no hagamos esperar al Capitán Wolf.
+TEXT_JOBSMN540_02102_YMHITRA_000_055	Sea cual sea el mal que planea nuestro despiadado enemigo, no podemos permitir que se cumpla. Hablemos con el Capitán Wolf para saber qué más descubrió en sus investigaciones.
+TEXT_JOBSMN540_02102_DANCINGWOLF_000_060	...Revisé nuestros registros de incidentes, prestando mucha atención a los manifiestos de carga que incluían cristales. Habíamos atribuido varios asaltos recientes a los Amalj'aa, pero las víctimas, todas y cada una, murieron quemadas. No es del todo imposible, dada la afinidad de los hombres lagarto con el fuego, pero ¿no encontrar ni una sola herida de flecha o de lanza...?
+TEXT_JOBSMN540_02102_YMHITRA_000_061	Sí, es muy poco probable. Quizás debería decir en voz alta lo que todos estamos pensando...
+TEXT_JOBSMN540_02102_YMHITRA_000_062	A juzgar por la enorme cantidad de cristales, debemos suponer que este villano pretende invocar a un primal.
+TEXT_JOBSMN540_02102_DANCINGWOLF_000_063	Después de mi encuentro con Ifrit, supe lo devastadoramente poderosas que pueden ser estas entidades... Y creo que los summoners, con su capacidad de aprovechar ese poder, pueden lograr grandes cosas.
+TEXT_JOBSMN540_02102_DANCINGWOLF_000_064	¡Pero si Tristan de verdad está tan loco como para invocar a un primal, ese acto impensable, y las sangrientas fechorías que cometió para prepararlo, harán que la gente cuestione los motivos de todos los que practican el arte del summoner!
+TEXT_JOBSMN540_02102_YMHITRA_000_065	Mis estudios de los tomestones me revelaron una historia de adoración: los summoners de Allag eran venerados como héroes por su papel en la derrota de los antiguos primals.
+TEXT_JOBSMN540_02102_YMHITRA_000_066	Pero la veneración se fue convirtiendo en repulsión cuando algunos practicantes, embriagados por su inmenso poder, empezaron a usar el arte de la invocación para sus propias ambiciones egoístas.
+TEXT_JOBSMN540_02102_YMHITRA_000_067	Eso no quiere decir, claro, que todos los summoners eligieran volverse tiranos. Pero entre la gente común arraigó la superstición de que quienes jugaban con el poder de los primals terminaban cayendo en brazos del mal.
+TEXT_JOBSMN540_02102_YMHITRA_000_068	Esa superstición se convirtió en terror puro, y fue entonces cuando empezaron las cacerías de magos... Al final de la Tercera Era Astral, los últimos summoners habían desaparecido del escenario de la historia.
+TEXT_JOBSMN540_02102_DANCINGWOLF_000_069	Y si dejamos que Tristan siga adelante con sus planes, nos arriesgamos a que se repita esa tragedia. Revisaré el estado de las patrullas en las rutas comerciales de cristales. ¡<italic(1)>Vamos<italic(0)> a atraparlo!
+TEXT_JOBSMN540_02102_YMHITRA_000_070	<split(<string(gstr1)>, ,1)>. Antes de reunirme con usted en las Nanawa Mines, logré recuperar otro conjuro que podría serle útil en los próximos días. Use su poder con sabiduría...

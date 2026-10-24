@@ -1,0 +1,80 @@
+key	text
+TEXT_JOBSMN600_02105_SEQ_00	Dancing Wolf espera la llegada de Y'mhitra.
+TEXT_JOBSMN600_02105_SEQ_01	Y'mhitra estuvo pensando en la retirada del Ascian of the Twelfth Chalice y comparte sus conclusiones sobre tu enemigo y sus hermanos de máscara negra. Con la teoría de que ese Paragon de menor rango no puede poseer a un ser vivo, la investigadora sugiere atraer al villano a una zona deshabitada y destruirlo para siempre con un golpe de gracia devastador. Pero antes tendrás que conseguir cierto libro prohibido y estudiar el método para desatar el poder de un trance en una sola explosión. Viaja a la Great Gubal Library, en The Dravanian Hinterlands, y reúnete con tus compañeros.
+TEXT_JOBSMN600_02105_SEQ_02	Cuando te preparas para entrar en la Great Gubal Library, te salen al paso el Ascian of the Twelfth Chalice y tres de sus compañeros. Los siervos de Lahabrea proclaman tu fin y se desata una batalla furiosa. Tras un intercambio mortífero de energías arcanas, por fin te alzas victorios<if(gnum4,a,o)> ante tu enemigo arrodillado. El humillado Paragon intenta huir otra vez, pero concentras la energía de tu trance y aniquilas al villano con un estallido abrasador de poder destructivo. Habla con Dancing Wolf y comparte este triunfo con tus compañeros.
+TEXT_JOBSMN600_02105_SEQ_03	Aunque todavía algo aturdido por tu demostración de poder, Dancing Wolf siente por fin que sus soldados agraviados fueron vengados. El capitán elogia a Y'mhitra por su astuto engaño y les agradece a los dos su valiosa ayuda para llevar al Ascian ante la justicia, antes de emprender el camino de vuelta a Ul'dah. Habla ahora con Y'mhitra sobre el futuro de la invocación.
+TEXT_JOBSMN600_02105_SEQ_04	Con la derrota del Ascian of the Twelfth Chalice, Y'mhitra cree que la reputación de las artes de invocación se salvó de un destino ignominioso. Sin embargo, todavía le preocupa mucho la creciente amenaza de los primals. Aunque la solución perfecta sigue sin aparecer, continúa trabajando junto a la decidida investigadora en la búsqueda de un fin para este ciclo de violencia que se perpetúa a sí mismo.<br><br>※La siguiente misión de summoner estará disponible con Y'mhitra cuando completes la misión principal "The Far Edge of Fate".
+TEXT_JOBSMN600_02105_TODO_00	Habla con Y'mhitra en la Great Gubal Library.
+TEXT_JOBSMN600_02105_TODO_01	Habla con Dancing Wolf.
+TEXT_JOBSMN600_02105_TODO_02	Habla con Y'mhitra.
+TEXT_JOBSMN600_02105_DANCINGWOLF_000_000	<split(<string(gstr1)>, ,1)>, estaba por mandar a buscarl<if(gnum4,a,o)>. Y'mhitra debería llegar en cualquier momento.
+TEXT_JOBSMN600_02105_YMHITRA_000_001	¡Ah, qué bien, estamos todos! Estuve pensando en unas teorías metafísicas y quisiera comentarles mis conclusiones a los dos.
+TEXT_JOBSMN600_02105_YMHITRA_000_002	Desde nuestra batalla en las Flats, no dejo de pensar en el recuerdo de nuestro adversario huyendo del campo.
+TEXT_JOBSMN600_02105_YMHITRA_000_003	Según los Scions y sus investigaciones, los Paragons son prácticamente inmortales. Se dice que son entidades aethereales sin forma física propia, que van poseyendo un huésped mortal tras otro en una procesión interminable a lo largo de las eras...
+TEXT_JOBSMN600_02105_YMHITRA_000_004	Pero en cuanto <split(<string(gstr1)>, ,1)> adquirió el Dreadwyrm Trance, la prisa con que se retiró el Ascian no me pareció propia de un ser que no le teme a la muerte.
+TEXT_JOBSMN600_02105_YMHITRA_000_005	Así que planteo la pregunta: ¿será que el Twelfth Chalice y sus hermanos de máscara negra no dominan el arte de la posesión tan bien como sus amos de velo rojo?
+TEXT_JOBSMN600_02105_YMHITRA_000_006	En el momento de la batalla, nuestros cuerpos eran los únicos huéspedes disponibles cerca. Si además no tiene la facilidad de sus superiores para huir al espacio entre los mundos, sospecho que la repentina cobardía de nuestro enemigo se debió a que no podía meter su alma en nuestros recipientes <italic(1)>vivos<italic(0)>.
+TEXT_JOBSMN600_02105_DANCINGWOLF_000_007	Eso explicaría mucho... incluida la razón por la que eligió al difunto Kahedin como títere.
+TEXT_JOBSMN600_02105_YMHITRA_000_008	Sí, creo que la teoría es sólida. ¿La ponemos a prueba? Si logramos atraer al Twelfth Chalice a un lugar sin posibles huéspedes, quizás consigamos destruirlo para siempre...
+TEXT_JOBSMN600_02105_DANCINGWOLF_000_009	¿¡Entonces qué estamos esperando!? ¡Tenemos que idear un plan para sacar al villano de su escondite!
+TEXT_JOBSMN600_02105_YMHITRA_000_010	¡No tan rápido, Capitán Wolf! Primero debemos conseguir el medio para asegurar el fin del Ascian: un poderoso golpe de gracia, dado antes de que tenga la oportunidad de retirarse.
+TEXT_JOBSMN600_02105_YMHITRA_000_011	<split(<string(gstr1)>, ,1)>. Hay un pasaje en el último tomestone que describe cómo desatar el poder de un trance en una sola explosión devastadora.
+TEXT_JOBSMN600_02105_YMHITRA_000_012	Pero la técnica en sí no se explicaba. Según mis investigaciones, solo puede aprenderse de un libro prohibido que está en los estantes de la Great Gubal Library.
+TEXT_JOBSMN600_02105_YMHITRA_000_013	...Llegar a la biblioteca requerirá un viaje largo y peligroso por Abalathia's Spine hasta las tierras salvajes de The Dravanian Hinterlands. Pero creo que nosotros tres estamos a la altura.
+TEXT_JOBSMN600_02105_YMHITRA_000_014	¿Nos ponemos en marcha, entonces? ¡La clave para derrotar al Twelfth Chalice pronto estará a nuestro alcance!
+TEXT_JOBSMN600_02105_DANCINGWOLF_000_045	Me alegra llegar al final de <italic(1)>ese<italic(0)> camino... Pero el viaje valdrá la pena cuando tengamos su libro de summoner. ¡Tristan y Kahedin serán vengados!
+TEXT_JOBSMN600_02105_YMHITRA_000_046	¡Necesitamos que alcance la cumbre del poder de un summoner si vamos a destruir al Twelfth Chalice!
+TEXT_JOBSMN600_02105_YMHITRA_000_050	Ahora que llegamos todos, podemos entrar en la biblioteca y empezar a buscar ese libro prohibido...
+TEXT_JOBSMN600_02105_ASCIANSCUP_000_051	(-Voz altiva-)Se alejaron mucho de la seguridad de sus ciudades, mortales necios. ¿Qué estarán tramando?
+TEXT_JOBSMN600_02105_DANCINGWOLF_000_052	¿¡Otra vez!? ¡Siempre aparece en el peor momento posible!
+TEXT_JOBSMN600_02105_YMHITRA_000_053	Me temo que no es casualidad. Y esta vez no deja nada al azar...
+TEXT_JOBSMN600_02105_ASCIANSCEPTER_000_054	Al principio era divertido veros tropezar como niños torpes, pero vuestros jugueteos se volvieron demasiado insistentes. Quien no quiera bailar en nuestra palma será aplastado en nuestro puño...
+TEXT_JOBSMN600_02105_ASCIANSWORD_000_055	No soportaremos más vuestro resplandor cegador. Nada puede rivalizar con la Oscuridad que avanza.
+TEXT_JOBSMN600_02105_ASCIANSCOIN_000_056	Os ganasteis la ira de los siervos más leales de Lahabrea...
+TEXT_JOBSMN600_02105_ASCIANSCUP_000_060	¿Creías que la batalla terminó con la derrota de nuestro amo? ¡Levántate, <if(gnum4,Portadora,Portador)> de la Luz, y sufre el dolor de nuestra venganza!
+TEXT_JOBSMN600_02105_ASCIANSCUP_000_070	¿Creías que nos quedaríamos de brazos cruzados mientras derribabas la gloriosa obra de nuestro amo? ¡Enfréntanos, <if(gnum4,Portadora,Portador)> de la Luz, y sufre el castigo por tus transgresiones!
+TEXT_JOBSMN600_02105_DANCINGWOLF_000_080	...¿No sería más sensato retirarnos y buscar el libro otro día?
+TEXT_JOBSMN600_02105_YMHITRA_000_081	No piensan darnos esa oportunidad, mi querido capitán. O nos plantamos y peleamos... o morimos.
+TEXT_JOBSMN600_02105_ASCIANS_000_100	\<jadeo> ¿Cómo...? El mismo Lahabrea nos elevó a la grandeza...
+TEXT_JOBSMN600_02105_ASCIANS_000_110	Derrotaste a mi amo, <if(gnum4,Portadora,Portador)> de la Luz: quizás era de esperar que tu fuerza nos superara. Pero llegará el día...
+TEXT_JOBSMN600_02105_ASCIANS_000_120	Mi amo desconfía de tu fuerza, <if(gnum4,Portadora,Portador)> de la Luz, y parece que con razón. Pero ya te llegará tu día...
+TEXT_JOBSMN600_02105_DANCINGWOLF_000_130	¡Esta vez no te nos escaparás, Ascian!
+TEXT_JOBSMN600_02105_YMHITRA_000_130	¡Ahora, <split(<string(gstr1)>, ,1)>! ¡Desate su poder!
+TEXT_JOBSMN600_02105_YMHITRA_000_131	¡Se acabó! ¡El Paragon ya no existe!
+TEXT_JOBSMN600_02105_DANCINGWOLF_000_132	Un hechizo de lo más impresionante, <split(<string(gstr1)>, ,1)>. ¿Pero cuándo aprendió a lanzarlo? ¿No necesitábamos antes el libro de la biblioteca...?
+TEXT_JOBSMN600_02105_YMHITRA_000_133	¡Jajaja! Perdóneme, Capitán. Pero para engañar a los enemigos, lo mejor es empezar por los amigos. Nunca existió tal libro. Lo único que <split(<string(gstr1)>, ,1)> necesitaba de verdad era el catalizador de la batalla para concentrar sus energías.
+TEXT_JOBSMN600_02105_YMHITRA_000_134	Sabía que, cuando el Ascian nos viera viajar hacia esta biblioteca, supondría que buscábamos algún saber enterrado hace mucho. No podía arriesgarse a dejar que <split(<string(gstr1)>, ,1)> ganara todavía más poder...
+TEXT_JOBSMN600_02105_DANCINGWOLF_000_135	Y entonces todo este viaje fue una finta: una trampa para atraerlo a las tierras salvajes. ¡Bwajajajajaja! ¡Pues a mí sí que me engañaste! ¡Recuérdame no medir nunca mi ingenio con el tuyo, Y'mhitra!
+TEXT_JOBSMN600_02105_YMHITRA_000_140	¡Lo logramos, <split(<string(gstr1)>, ,1)>! ¡El Ascian of the Twelfth Chalice ya no existe!
+TEXT_JOBSMN600_02105_YMHITRA_000_145	...¿Mi plan si no hubiera podido lanzar el Deathflare? <if(gnum4,Mi querida,Mi querido)> <split(<string(gstr1)>, ,1)>, nunca tuve ni una sola duda.
+TEXT_JOBSMN600_02105_DANCINGWOLF_000_150	Juntos logramos algo de lo que pocos pueden presumir: derrotar a un Ascian. Nunca habría podido hacerlo solo.
+TEXT_JOBSMN600_02105_DANCINGWOLF_000_151	Gracias a ustedes, el caso de Tristan también puede cerrarse. Mucho tiempo me persiguieron los horrores de aquella misión contra Ifrit, pero por fin siento algo de paz...
+TEXT_JOBSMN600_02105_DANCINGWOLF_000_152	Volveré a Ul'dah y haré poner una lápida para Tristan junto a la de su hermano.
+TEXT_JOBSMN600_02105_DANCINGWOLF_000_153	Quizás no tengamos sus huesos, pero será un lugar donde los sobrevivientes de su unidad puedan honrar al hombre que fue. Me despido, amigos. Ojalá volvamos a vernos en circunstancias más felices.
+TEXT_JOBSMN600_02105_YMHITRA_000_160	Yo también quiero expresarle mi gratitud, <split(<string(gstr1)>, ,1)>. Además de evitar una matanza incalculable, impidió que la trágica historia de la invocación se repitiera en una nueva era.
+TEXT_JOBSMN600_02105_YMHITRA_000_161	Debemos tomar más precauciones para que este arte antiguo no caiga en malas manos. Trabajaré junto a mis colegas de los Sons para vigilar de cerca la difusión de la invocación.
+TEXT_JOBSMN600_02105_YMHITRA_000_162	Si tan solo pudiéramos encontrar una solución duradera al problema de los primals... <italic(1)>Tiene<italic(0)> que haber una forma de romper este ciclo de responder a la fuerza con la fuerza.
+TEXT_JOBSMN600_02105_YMHITRA_000_163	Por mi parte, seguiré investigando los primals y la invocación, y les daré a los Scions todo el apoyo que pueda. ¡Estoy segura de que nuestros caminos volverán a cruzarse, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBSMN600_02105_SYSTEM_000_500	Aquí terminan las misiones de summoner de FINAL FANTASY XIV: Heavensward. Para empezar la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:
+TEXT_JOBSMN600_02105_SYSTEM_000_501	※Haber completado la misión de la historia principal "The Far Edge of Fate".
+TEXT_JOBSMN600_02105_SYSTEM_000_502	Cuando lo hagas, la siguiente misión de summoner estará disponible con Y'mhitra.
+TEXT_JOBSMN600_02105_QIB_001_TODO_001	¡Derrota a los Ascians!
+TEXT_JOBSMN600_02105_QIB_001_ASCIANSCUP_BATTLETALK_10	¡En nombre del Maestro Lahabrea, proclamamos tu perdición!
+TEXT_JOBSMN600_02105_QIB_001_ASCIANSWORD_BATTLETALK_11	（★未使用／削除予定★）
+TEXT_JOBSMN600_02105_QIB_001_ASCIANSCEPTER_BATTLETALK_12	（★未使用／削除予定★）
+TEXT_JOBSMN600_02105_QIB_001_ASCIANSCOIN_BATTLETALK_13	（★未使用／削除予定★）
+TEXT_JOBSMN600_02105_QIB_001_YMHITRA_BATTLETALK_14	¡No nos rendiremos ante su tiranía!
+TEXT_JOBSMN600_02105_QIB_001_DANCINGWOLF_BATTLETALK_15	Bah, igual esperaba encontrarte.<br>¡Tenemos un asunto pendiente, Ascian!
+TEXT_JOBSMN600_02105_QIB_001_ASCIANSCUP_BATTLETALK_20	Es cierto que se volvieron más poderosos...<br>¡Pero no será suficiente!
+TEXT_JOBSMN600_02105_QIB_001_ASCIANSCUP_BATTLETALK_21	¡Wanderer of the Heavens!<br>¡Atiende mi llamado!
+TEXT_JOBSMN600_02105_QIB_001_DANCINGWOLF_BATTLETALK_22	¡Por los dientes de Thal, llueven rocas!<br>¡Cuidado con esa roca, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBSMN600_02105_QIB_001_YMHITRA_BATTLETALK_23	¡Por los Twelve!<br>¿¡Esa roca acaba de explotar!?
+TEXT_JOBSMN600_02105_QIB_001_ASCIANSCUP_BATTLETALK_40	¿¡Por qué siguen en pie!?<br>¡Ríndanse a lo inevitable!
+TEXT_JOBSMN600_02105_QIB_001_YMHITRA_BATTLETALK_41	¡Nunca nos rendiremos ante ustedes!<br>¡Su maldad termina hoy!
+TEXT_JOBSMN600_02105_QIB_001_DANCINGWOLF_BATTLETALK_42	¡Vengaré a mis hombres!
+TEXT_JOBSMN600_02105_QIB_001_ASCIANSSWORD_BATTLETALK_01	（★未使用／削除予定★）
+TEXT_JOBSMN600_02105_QIB_001_ASCIANSCEPTER_BATTLETALK_02	（★未使用／削除予定★）
+TEXT_JOBSMN600_02105_QIB_001_ASCIANSCOIN_BATTLETALK_03	（★未使用／削除予定★）
+TEXT_JOBSMN600_02105_QIB_001_ASCIANSCUP_BATTLETALK_04	No puedo... ¡Estoy acabado!<br>Le fallé, Maestro...
+TEXT_JOBSMN600_02105_QIB_001_YMHITRA_BATTLETALK_05	Perdóneme, <split(<string(gstr1)>, ,1)>...
+TEXT_JOBSMN600_02105_QIB_001_DANCINGWOLF_BATTLETALK_06	¡No! ¡Maldita sea mi debilidad!<br>Mis soldados deben ser vengados...

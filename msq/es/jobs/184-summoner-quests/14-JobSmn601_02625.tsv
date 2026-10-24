@@ -1,0 +1,74 @@
+key	text
+TEXT_JOBSMN601_02625_SEQ_00	Y'mhitra tiene noticias fascinantes para ti.
+TEXT_JOBSMN601_02625_SEQ_01	A Y'mhitra le avisaron desde Saint Coinach's Find que los arqueólogos desenterraron un libro allagan sobre magia de invocación. Ve al campamento de Mor Dhona y habla con Rammbroes.
+TEXT_JOBSMN601_02625_SEQ_02	Rammbroes te pone de inmediato el antiguo libro en las manos y dice que apenas pudo descifrar que contiene el saber de los summoners allaganos. Te pide que se lo lleves a Y'mhitra en Revenant's Toll y dejes que la erudita revise sus páginas.
+TEXT_JOBSMN601_02625_SEQ_03	Y'mhitra abre con cuidado las tapas del libro, y los toma por sorpresa cuando el libro salta de sus manos y se presenta como "Principia". Según este familiar animado, lo crearon como manual de instrucción para summoners prometedores, pero solo puede compartir su saber superior cuando el alumno supera tres desafíos formidables. El primero será una prueba de poder. Sigue a Y'mhitra hasta las tierras salvajes de North Silvertear y pídele a Principia que invoque a tu monstruoso oponente.
+TEXT_JOBSMN601_02625_SEQ_04	Derrotaste al demonio del libro. Comparte tu victoria con Y'mhitra, que está cerca.
+TEXT_JOBSMN601_02625_SEQ_05	Parece que tu victoria sobre el demonio del libro fue más que satisfactoria, pero pese a sus elogios, "Prin" da a entender que tu técnica dista mucho de ser perfecta. Asombrada por esta evaluación e intrigada por la historia de la creación del familiar, Y'mhitra parece perdida en sus pensamientos sobre el pasado. Vuelve a Gridania y reúnete con la erudita en Apkallu Falls.
+TEXT_JOBSMN601_02625_SEQ_06	Y'mhitra vuelve a elogiar tu triunfo y habla con entusiasmo de revelar el saber perdido que guarda el libro. Pero antes de intentar el siguiente desafío de Prin, parece que tendrás que perfeccionar tu técnica.<br><br>※La siguiente misión de summoner estará disponible con Y'mhitra al alcanzar el nivel 63.
+TEXT_JOBSMN601_02625_TODO_00	Habla con Rammbroes en Saint Coinach's Find.
+TEXT_JOBSMN601_02625_TODO_01	Habla con Y'mhitra en Revenant's Toll.
+TEXT_JOBSMN601_02625_TODO_02	Habla con Principia en North Silvertear y completa el primer desafío.
+TEXT_JOBSMN601_02625_TODO_03	Habla con Y'mhitra en North Silvertear.
+TEXT_JOBSMN601_02625_TODO_04	Habla con Y'mhitra en Gridania.
+TEXT_JOBSMN601_02625_YMHITRA_000_030	<split(<string(gstr1)>, ,1)>, tengo noticias fascinantes. Parece que las ruinas de la antigua Allag nos entregaron un libro con secretos desconocidos del arte del summoner.
+TEXT_JOBSMN601_02625_YMHITRA_000_031	Ese libro está ahora bajo la atenta mirada de Rammbroes, en nuestra excavación de Mor Dhona. Yo iré para allá dentro de poco, ¡pero no me molesta que usted le eche un vistazo antes!
+TEXT_JOBSMN601_02625_YMHITRA_000_040	¿Todavía aquí? Creí que la existencia de una obra desconocida sobre el arte de la invocación ya l<if(gnum4,a,o)> tendría volando por las corrientes de aether hasta donde está Rammbroes.
+TEXT_JOBSMN601_02625_RAMMBROES_000_060	Ah, pensé que vendría. Tenga, <split(<string(gstr1)>, ,1)>: un tesoro como este debería estar en sus manos.
+TEXT_JOBSMN601_02625_RAMMBROES_000_061	Lo descubrimos no muy lejos de donde desenterramos el evoker's attire. Juzgué que el libro es una especie de manual de magia de invocación, pero por desgracia no pude descifrar lo que dice. Por suerte, es una tarea que entra de lleno en el campo de Y'mhitra.
+TEXT_JOBSMN601_02625_RAMMBROES_000_062	Hablando de eso, ¿le molestaría llevarle el libro usted mismo? Avisó que la retuvo un asunto aburrido en Revenant's Toll. ¡Le ruego que tenga cuidado!
+TEXT_JOBSMN601_02625_RAMMBROES_000_070	¿Pudo encontrar a Y'mhitra en el pueblo? No se me ocurre nadie mejor para desentrañar los secretos de ese libro allagan.
+TEXT_JOBSMN601_02625_YMHITRA_000_080	...¿<split(<string(gstr1)>, ,1)>? Avisé que nos veríamos en Revenant's Toll. ¿Rammbroes no le pasó mi mensaje?
+TEXT_JOBSMN601_02625_YMHITRA_000_120	Perdón: un asunto sin importancia, pero inevitable, me impidió ir directo a la excavación. Ahora, ¿miramos de cerca este libro allagan?
+TEXT_JOBSMN601_02625_YMHITRA_000_130	Vaya... Es bastante más gastado de lo que suelo esperar de las grandes obras de Allag, pero no nos desanimemos. Lo que de verdad importa es el contenido.
+TEXT_JOBSMN601_02625_PRINCIPIA_000_131	(-???-)¡Una observación excelente!
+TEXT_JOBSMN601_02625_PRINCIPIA_000_132	Principia, a su servicio. Soy un humilde familiar, humildemente familiarizado con la doctrina de la invocación.
+TEXT_JOBSMN601_02625_YMHITRA_000_133	...¿Despertamos a un libro consciente de alguna biblioteca antigua? <split(<string(gstr1)>, ,1)>, ¡tenemos que contenerlo!
+TEXT_JOBSMN601_02625_PRINCIPIA_000_134	¿Acaso les ofendí? Qué extraño, si no estoy equipado con capacidades ofensivas. Mi función es enseñar el arte de la invocación, y mi forma es la de un manual de instrucción.
+TEXT_JOBSMN601_02625_YMHITRA_000_135	...¿Un manual, dices?
+TEXT_JOBSMN601_02625_PRINCIPIA_000_136	Correcto. Cuando me abren en presencia de summoners, debo despertar y compartir con ellos los secretos de la invocación. <if(gnum4,La joven maestra,El joven maestro)> que está ahí posee un soul crystal activo, ¿verdad?
+TEXT_JOBSMN601_02625_YMHITRA_000_137	¿Fue el soul crystal lo que te despertó?
+TEXT_JOBSMN601_02625_PRINCIPIA_000_138	Correcto. Solo quien lleva un soul crystal y se bañó en el aether de un eikon puede manejar los poderes de un summoner. Percibí a alguien digno de instrucción y, por lo tanto, me vi obligado a presentarme.
+TEXT_JOBSMN601_02625_YMHITRA_000_139	"Eikon"... Es la palabra allagan para "primal". Perdona que aclare lo obvio, pero ¿eres un artefacto creado para enseñar magia de invocación a cualquier posible alumno que encuentres? ¿Por qué los antiguos habrían considerado necesario algo así?
+TEXT_JOBSMN601_02625_PRINCIPIA_000_140	La invocación nació con el propósito de eliminar seres, en concreto a los seres conocidos como eikons. Ejem, "primals". Pero una vez vencidas todas estas entidades, ya no se pueden someter nuevos egis. Los viejos summoners mueren, y con ellos su arte.
+TEXT_JOBSMN601_02625_PRINCIPIA_000_141	Fue al vislumbrar ese futuro sombrío que cierto gran summoner se dispuso a crear a este servidor. Inscrito con artes de tremendo poder, existo para enseñar a otros a proteger su existencia.
+TEXT_JOBSMN601_02625_YMHITRA_000_142	Fascinante... Tu creación toca el corazón de la rareza de esta disciplina. La invocación aprovecha el poder de los primals con el único fin de destruirlos, y los nuevos summoners solo surgen en épocas en que abundan los primals.
+TEXT_JOBSMN601_02625_YMHITRA_000_143	Sin maestros vivos, nunca se logra una verdadera sucesión del arte. Principia, ¿vas a instruir entonces a <split(<string(gstr1)>, ,1)> en los secretos perdidos de Allag?
+TEXT_JOBSMN601_02625_PRINCIPIA_000_144	Estoy deseoso de complacerles, pero hay ciertas condiciones. Antes de que pueda abrirse el sello de mi saber superior, el alumno debe superar los tres desafíos que estoy hechizado para plantear.
+TEXT_JOBSMN601_02625_YMHITRA_000_145	Bueno, considerando que a los primals los llama "eikons", me inclino a creer que tenemos en las manos una auténtica reliquia allagan. ¿Qué dice, <split(<string(gstr1)>, ,1)>? ¿Aceptará estos desafíos?
+TEXT_JOBSMN601_02625_PRINCIPIA_000_146	El primer desafío es una prueba de poder. Está pensada para evaluar la magnitud pura de su talento arcano enfrentándole a un oponente predeterminado, de una fortaleza medida con cuidado. También conocida como "yo hago aparecer un monstruo y usted pelea con él".
+TEXT_JOBSMN601_02625_YMHITRA_000_147	Ah, quizás no sea muy sensato intentarlo en medio del pueblo. ¿Por qué no buscamos una zona menos poblada, cerca de los Singing Shards?
+TEXT_JOBSMN601_02625_YMHITRA_000_160	¿Está list<if(gnum4,a,o)> para esta "prueba de poder"? Parece que Principia solo espera su palabra.
+TEXT_JOBSMN601_02625_YMHITRA_000_170	¿No íbamos a North Silvertear? Sin duda no podemos hacer la prueba <italic(1)>aquí<italic(0)>.
+TEXT_JOBSMN601_02625_PRINCIPIA_000_210	¿Comenzamos la prueba de poder, <if(gnum4,Maestra,Maestro)>?
+TEXT_JOBSMN601_02625_YMHITRA_000_211	..."¿<if(gnum4,Maestra,Maestro)>?" ¿Tratas a <if(gnum4,tu alumna,tu alumno)> como a un superior, Principia?
+TEXT_JOBSMN601_02625_PRINCIPIA_000_212	Así me escribieron. Ah, y si mi nombre completo empieza a cansarles la lengua, pueden llamarme "Prin" o "Pia".
+TEXT_JOBSMN601_02625_YMHITRA_000_213	Uuuh, me gusta bastante "Prin". Ejem, quiero decir, ¡procedamos con el desafío!
+TEXT_JOBSMN601_02625_PRINCIPIA_000_220	Una actuación excelente, <if(gnum4,Maestra,Maestro)>. Hasta el más grande de los summoners allaganos tendría que reconocer el alcance de su poder.
+TEXT_JOBSMN601_02625_YMHITRA_000_270	¡Una victoria aplastante, <split(<string(gstr1)>, ,1)>! ¿Quién podría discutir el potencial de la invocación moderna después de esa demostración?
+TEXT_JOBSMN601_02625_PRINCIPIA_000_280	Superó el primer desafío, <if(gnum4,Maestra,Maestro)>. ¡Pocos summoners en la larga historia de Allag pudieron presumir de semejante poder innato!
+TEXT_JOBSMN601_02625_PRINCIPIA_000_281	Además, que haya alcanzado tal potencia solo mediante el estudio del saber antiguo es sencillamente asombroso. Con un poco de pulido en su técnica, guiarle a cotas más altas de poder debería ser asombrosamente sencillo.
+TEXT_JOBSMN601_02625_YMHITRA_000_282	Yo creía que la técnica de <split(<string(gstr1)>, ,1)> estaba más que pulida, ¿pero dices que hay margen para mejorar? Ya veo que tendremos que ajustar nuestra vara de medir la perfección si queremos rivalizar con los practicantes del pasado.
+TEXT_JOBSMN601_02625_PRINCIPIA_000_283	En efecto. Si desean saber más de las prácticas del pasado, solo tienen que preguntar.
+TEXT_JOBSMN601_02625_YMHITRA_000_284	De hecho, sí tengo una pregunta para ti...<br>¿Me permite, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBSMN601_02625_YMHITRA_100_284	Prin, ¿en qué época te crearon? Pareces carecer de los avances tecnológicos que predominaban en los artefactos de los últimos días de la civilización de Allag...
+TEXT_JOBSMN601_02625_PRINCIPIA_000_285	Otra observación excelente. Me escribió el Maestro Sari, un summoner eminente de su tiempo. De hecho, probablemente fue el último gran summoner del reinado del Allagan Empire.
+TEXT_JOBSMN601_02625_PRINCIPIA_000_286	Si me fechara según la noción de historia de su cultura, mi creación habría ocurrido poco antes del colapso del imperio. Es decir, de lleno en la época más rica en descubrimientos aetheroquímicos.
+TEXT_JOBSMN601_02625_PRINCIPIA_100_286	Cabría preguntarse con razón por qué se excluyó esta maravillosa ciencia de mi invención, y les aseguro que hay un motivo...
+TEXT_JOBSMN601_02625_PRINCIPIA_000_287	Al principio, los allaganos alcanzaron la supremacía gracias a su dominio de la magia. Se cuenta que los primeros que manejaron la magia de invocación se arreglaban con grimorios hechos de cuero, tinta y pergamino.
+TEXT_JOBSMN601_02625_PRINCIPIA_000_288	Pero llegó un punto de inflexión en que las ciencias mundanas empezaron a avanzar cada vez más rápido. Esos avances se unieron a lo arcano, y nació la tecnología aetheroquímica.
+TEXT_JOBSMN601_02625_PRINCIPIA_000_289	Así como aprovechar la energía del rayo dio origen a nuevos medios de registro, se desarrollaron técnicas que permitían trazar al instante complejas geometrías arcanas. Los grimorios tradicionales se reemplazaron por armas devastadoramente eficientes y elegantes.
+TEXT_JOBSMN601_02625_PRINCIPIA_000_290	Pero la comodidad de esas herramientas no se prestaba bien a la instrucción de los iniciados. Además, los nuevos medios no podían leerse sin maquinaria específica, y fabricarlos no era cosa sencilla.
+TEXT_JOBSMN601_02625_YMHITRA_000_291	...Y entonces el summoner que te dio vida decidió que los tomestones y cosas parecidas no eran el método ideal para transmitir el saber que había acumulado.
+TEXT_JOBSMN601_02625_PRINCIPIA_000_292	Correcto. Eligió para mí la forma primitiva de un libro e inscribió en mis páginas un caudal de conjuros potentes que no requerían ninguna máquina para lanzarse.
+TEXT_JOBSMN601_02625_YMHITRA_000_293	Gracias, Prin. Solo quería satisfacer mi curiosidad académica, pero me dejé llevar por tu descripción del pasado. ...De verdad eres la creación de una época increíble.
+TEXT_JOBSMN601_02625_YMHITRA_000_294	¡Y gracias por su paciencia, <split(<string(gstr1)>, ,1)>! ¿Volvemos a Gridania?
+TEXT_JOBSMN601_02625_PRINCIPIA_000_330	Bienvenid<if(gnum4,a,o)> a casa, <if(gnum4,Maestra,Maestro)>. ¿O debería decir "bienvenid<if(gnum4,a,o)> de vuelta"? Me dicen que esta es la base de sus investigaciones con Lady Y'mhitra, pero no estoy seguro del saludo correcto.
+TEXT_JOBSMN601_02625_DANCINGWOLF_000_340	<split(<string(gstr1)>, ,1)>, ¿ha estado bien, espero? Intento convencer a Y'mhitra, pero parece un poco distraída.
+TEXT_JOBSMN601_02625_DANCINGWOLF_000_341	...Y no la culpo. ¿Vio este libro saltarín? Estoy casi seguro de que vi asomar unos dientes entre esas páginas...
+TEXT_JOBSMN601_02625_YMHITRA_000_360	¡Bien hecho, <split(<string(gstr1)>, ,1)>! ¡Estamos un paso más cerca de revelar un nuevo secreto de la antigua Allag!
+TEXT_JOBSMN601_02625_YMHITRA_000_361	Prin planteará el siguiente desafío cuando usted haya tenido la oportunidad de repasar sus estudios y llevar sus habilidades a un nuevo nivel de perfección.
+TEXT_JOBSMN601_02625_YMHITRA_000_362	...Decidí quedarme con el familiar a mi lado por el momento. Por muchas maravillas que tenga Eorzea, la gente suele entrar en pánico al ver un libro con colmillos que salta por su cuenta.
+TEXT_JOBSMN601_02625_YMHITRA_000_363	Ah, y no le haga caso al Capitán Wolf. Es obvio que quiere conseguir mis servicios para alguna tarea, ¡pero tenemos asuntos más importantes que atender!
+TEXT_JOBSMN601_02625_SYSTEM_000_900	La siguiente misión de summoner estará disponible con Y'mhitra al alcanzar el nivel 63.
+TEXT_JOBSMN601_02625_SYSTEM_000_901	Puedes revisar en el journal los requisitos para empezar las siguientes misiones.

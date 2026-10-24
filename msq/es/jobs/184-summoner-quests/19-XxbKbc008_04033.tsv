@@ -1,0 +1,62 @@
+key	text
+TEXT_XXBKBC008_04033_SEQ_00	Y'mhitra está ansiosa por tener noticias de su hermana.
+TEXT_XXBKBC008_04033_SEQ_01	Tras escuchar agradecida las noticias de su hermana y de otros sucesos recientes, Y'mhitra te cuenta que el Summoner Jajasamu, del escuadrón de summoners de los Immortal Flames, agradecería tu consejo sobre un asunto que no reveló. Parece que el teniente está de licencia y descansando en el Carline Canopy... si tienes un momento libre.
+TEXT_XXBKBC008_04033_SEQ_02	Te reúnes con el Summoner Jajasamu, y el veterano mercenario te habla de su experiencia peleando junto a dos jóvenes bendecidos con resistencia a la influencia de los primals. Parece molestarle la idea de que estén en primera línea más por un deber impuesto que por elección propia, y te pide que les preguntes qué sienten al respecto. Arenvald, el más accesible de los dos, está en Rhalgr's Reach.
+TEXT_XXBKBC008_04033_SEQ_03	Encuentras a Arenvald sin mucha dificultad, y juntos visitan a Fordola en su celda de la ciudad. La conversación revela mucho de los jóvenes guerreros y de los motivos que los impulsan, pero la siempre amarga Fordola pronto les pide que la dejen en paz. Cediendo a su deseo, tú y Arenvald salen a las calles del Ala Mhigan Quarter.
+TEXT_XXBKBC008_04033_SEQ_04	Dejando de lado lo que sintió Arenvald al vislumbrar los verdaderos sentimientos de Fordola, parece que ya tienes una respuesta a las inquietudes de Jajasamu. Vuelve al Carline Canopy e infórmale al teniente.
+TEXT_XXBKBC008_04033_SEQ_05	Al oír la determinación de Arenvald y Fordola, el propio Jajasamu decide darles el mejor apoyo que pueda, aunque eso signifique convertirse en "el segundo mejor summoner de Eorzea". Te pide que saludes a Y'mhitra de su parte antes de seguir su camino.
+TEXT_XXBKBC008_04033_SEQ_06	Vuelves con Y'mhitra y, aunque ella no puede tenerte como <if(gnum4,mentora,mentor)>, la erudita parece inspirada por el efecto que tienes en tus colegas. Perfeccionar el arte del summoner y alentar el corazón de los demás: esa es la orgullosa carga que te tocó llevar.
+TEXT_XXBKBC008_04033_TODO_00	Habla con Jajasamu en el Carline Canopy.
+TEXT_XXBKBC008_04033_TODO_01	Espera en el lugar indicado de Rhalgr's Reach.
+TEXT_XXBKBC008_04033_TODO_02	Habla con el guardia de la prisión.
+TEXT_XXBKBC008_04033_TODO_03	Habla con Jajasamu en el Carline Canopy.
+TEXT_XXBKBC008_04033_TODO_04	Habla con Y'mhitra en Apkallu Falls.
+TEXT_XXBKBC008_04033_SYSTEM_100_000	Para aceptar esta misión, debes abandonar la misión de job de summoner "To Be Second Best". Abre la entrada correspondiente en el journal o en la duty list y selecciona "Abandonar".
+TEXT_XXBKBC008_04033_YMHITRA_000_000	¡<split(<string(gstr1)>, ,1)>! Justo iba a comunicarme con los Scions para preguntar por mi hermana, ¡y aquí está usted para darme noticias en persona! ¿Qué novedades hay?
+TEXT_XXBKBC008_04033_YMHITRA_000_001	...¿¡Al <italic(1)>First<italic(0)>!? ¿Uno de los trece reflejos, quiere decir...!?
+TEXT_XXBKBC008_04033_YMHITRA_000_002	Creía que mi campo de estudio era complicado, pero me cuesta comprender la magnitud de su historia. Aun así, parece que a Shtola le va bastante bien, y por eso estoy agradecida.
+TEXT_XXBKBC008_04033_YMHITRA_000_003	¡Ah, sí! Antes de que se me olvide, tenía un mensaje para usted.
+TEXT_XXBKBC008_04033_YMHITRA_000_004	¿Recuerda al Summoner Jajasamu? ¿Ex miembro de la Company of Heroes y ahora del escuadrón de summoners de los Immortal Flames? Comanda tanto a un Ifrit-Egi como a un Titan-Egi, y probablemente es uno de los más experimentados... ejem. Bueno, seguro que lo recuerda.
+TEXT_XXBKBC008_04033_YMHITRA_000_005	Resulta que está en Gridania de licencia, y me pidió que <if(gnum4,la,lo)> mandara al Carline Canopy si pasaba por aquí en una de sus visitas imprevisibles.
+TEXT_XXBKBC008_04033_YMHITRA_000_006	Creo que quería consultarle algún asunto privado... Sería muy amable de su parte escucharlo si tiene un momento libre.
+TEXT_XXBKBC008_04033_YMHITRA_000_010	¿Habló con el teniente? Creo que quiere hablar con usted de summoner a summoner.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_020	...¡Maldita sea! ¡Justo estaba pensando en usted, y aquí está! ¿Supongo que Y'mhitra le pasó mi recado? Bueno, dejémonos de ceremonias...
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_030	No le voy a dar vueltas: necesito un consejo sobre los summoners en el combate a muerte.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_031	Me dicen que usted tiene una naturaleza especial que impide que los primals le esclavicen la mente.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_032	Así que lo que quiero saber es: ¿qué piensa de que <if(gnum4,la,lo)> manden al frente cada vez que una tribu de beastmen junta una pila de cristales?
+TEXT_XXBKBC008_04033_Q1_000_000	¿Qué vas a decir?
+TEXT_XXBKBC008_04033_A1_000_000	Así son las cosas.
+TEXT_XXBKBC008_04033_A2_000_000	Me alegra poder ayudar.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_035	¿Quiere decir que es su destino? ¿O sea que acepta lo inevitable y pelea porque es su deber?
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_040	¿O sea que lo ve como el lugar que le corresponde? La gente necesita su ayuda, y usted tiene la bendición de poder ayudarla...?
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_045	Bueno, es una forma de verlo. Yo estoy en esto por la plata, desde que vendía mis hechizos en la Company of Heroes.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_046	La mayoría de los soldados con los que marcho no son muy distintos. Arriesgamos la vida con gusto mientras haya una bolsa esperándonos al final del día. Pero los dos que se unieron a nuestra última escaramuza... ahí la historia es otra.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_047	¿Oyó hablar de Arenvald y Fordola, no?
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_048	El muchacho es de los Scions, igual que usted. Nada de misterio ahí.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_049	En cuanto a la muchacha... ella es un poco más complicada. Ex oficial del ejército imperial, capturada por la Resistance y a un paso de la horca. Ahora pelea por Ala Mhigo como conscripta, y es la única razón por la que sigue respirando.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_050	Apenas son unos brotes, los dos, y los mandaron con los Flames para ayudar a derribar a Ifrit.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_051	Por lo que oí, comparten su resistencia a la influencia de los primals. Y por eso... esa es toda la razón por la que tuvieron el dudoso honor de estar en medio de las llamas.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_052	Mientras tanto, yo y mis compañeros summoners estábamos acurrucados en las sombras, mandando a nuestros egis a apoyar a esos chicos que entre los dos no suman cuarenta veranos.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_053	No puedo decir que me haya gustado mucho la experiencia. Me molestaba pensar que los obligaban a pelear una batalla que no era suya, solo por lo que son.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_054	¿Cree que podría hablar con ellos por mí? ¿Preguntarles qué sienten con todo esto? Usted es casi la única persona a la que puedo acudir...
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_055	Se lo agradezco. Encontrará a Arenvald en Rhalgr's Reach, y él sabrá dónde encontrar a Fordola. Le diré que <if(gnum4,la,lo)> espere junto al aetheryte.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_060	Lo último que supe es que Arenvald estaba en Rhalgr's Reach. Si pudiera hacerles mis preguntas, sin duda dormiría mejor de noche...
+TEXT_XXBKBC008_04033_ARENVALD_000_065	Ah, <split(<string(gstr1)>, ,1)>. Me dijeron que necesitas mi ayuda con algo. Dame un momento y te veo junto al aetheryte.
+TEXT_XXBKBC008_04033_ARENVALD_000_070	¡<split(<string(gstr1)>, ,1)>, oí que vienes de parte de Jajasamu! ¿Qué puedo hacer por nuestr<if(gnum4,a honorable campeona,o honorable campeón)>?
+TEXT_XXBKBC008_04033_ARENVALD_000_071	¿Jajasamu dijo eso...? Sí, nos unimos a ellos contra Ifrit, pero creía que le molestaba más nuestra presencia que le preocupaba nuestro bienestar.
+TEXT_XXBKBC008_04033_ARENVALD_000_072	Hm, ¿por qué no te ahorro algo de tiempo e incluimos a Fordola en esta conversación? Podemos visitarla en su celda, en la ciudad.
+TEXT_XXBKBC008_04033_GUARDS04033_000_140	Si esperas al muchacho de armadura plateada, debería salir de ahí pronto.
+TEXT_XXBKBC008_04033_ARENVALD_000_150	Todavía gruñe como un perro encadenado...
+TEXT_XXBKBC008_04033_ARENVALD_000_151	Pero entre tanto gruñido nos dejó ver cómo es de verdad. Lo suficiente para saber cuándo ofrecerle un hombro, aunque no me deje ver su sufrimiento...
+TEXT_XXBKBC008_04033_ARENVALD_000_152	¡N-no te hagas una idea equivocada! Misma edad, misma tierra natal: ¡no puedo evitar que me importe un poco lo que le pase!
+TEXT_XXBKBC008_04033_ARENVALD_000_153	E-en fin, tengo que pensar en mi propio entrenamiento. ¡Saluda al Summoner Jajasamu de mi parte!
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_170	¿Ya fue a ver a esos dos chicos, entonces?
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_171	Vaya... Así que así son las cosas, ¿eh?
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_172	Bueno, no debería sorprenderme, considerando el ejemplo que tienen para seguir.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_173	Y ahora que sé cómo encaran estas peleas, puedo ajustar mis propias tácticas. Uno es apasionado y la otra temeraria, así que los dos van a necesitar un apoyo atento.
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_174	Haré lo que pueda para ocupar su lugar, aunque dudo que alguna vez lo reemplace. Sí, me van a llamar "el segundo mejor summoner de Eorzea". ¿Qué tal eso de humilde?
+TEXT_XXBKBC008_04033_JAJASAMULALASAMU_000_175	Bien, creo que ya va siendo hora de que me vaya. Salude a Y'mhitra de mi parte, <split(<string(gstr1)>, ,1)>, ¡y gracias por atender mi pedido!
+TEXT_XXBKBC008_04033_YMHITRA_000_190	¿Supongo que todo salió bien con el teniente?
+TEXT_XXBKBC008_04033_YMHITRA_000_191	No voy a meterme en los detalles, pero me alegra verl<if(gnum4,a,o)> tan content<if(gnum4,a,o)>.
+TEXT_XXBKBC008_04033_YMHITRA_000_192	Dominar la invocación es un camino arduo, pero imagino que se hace mucho más llevadero con <if(gnum4,una mentora,un mentor)> como usted. Envidio un poco a sus colegas más jóvenes.
+TEXT_XXBKBC008_04033_YMHITRA_000_193	¡Y si quiero estar a la altura de sus progresos, no debo descuidar mi propia investigación! ¡Que tenga un buen día, <split(<string(gstr1)>, ,1)>!

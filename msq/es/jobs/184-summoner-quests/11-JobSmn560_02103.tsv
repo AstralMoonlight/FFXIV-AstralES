@@ -1,0 +1,48 @@
+key	text
+TEXT_JOBSMN560_02103_SEQ_00	Dancing Wolf está listo para pasar a la ofensiva.
+TEXT_JOBSMN560_02103_SEQ_01	Tras notar que los ataques de Tristan cesaron desde que aumentaron las patrullas en las rutas comerciales, Dancing Wolf propone su plan para atraer al summoner a una trampa. Preparó una caravana con poca escolta como carnada y quiere que tú y Y'mhitra estén presentes para ayudar a enfrentar al peligroso mago. Ve a Camp Bluefog, en Northern Thanalan, y habla con el capitán para conocer los detalles de la emboscada.
+TEXT_JOBSMN560_02103_SEQ_02	Llegas a Camp Bluefog y Dancing Wolf te explica su sencillo plan: la caravana, cargada de cristales, romperá un eje en el momento justo camino a la planta de procesamiento. Tú, Y'mhitra y el capitán tomarán posiciones cerca y esperarán el ataque de Tristan. Ve a tu posición asignada y mantente alerta por si aparece el loco de túnica negra.
+TEXT_JOBSMN560_02103_SEQ_03	Atraídos por la promesa de un botín fácil, un mago y su familiar envuelto en llamas aparecieron y atacaron la caravana. Derrota al summoner vestido de negro y a Ifrit-Egi, y pon fin a la serie de ataques despiadados.
+TEXT_JOBSMN560_02103_SEQ_04	Tras un furioso intercambio de violencia arcana, el villano de túnica negra yace derrotado a tus pies. Atiende ahora al mensajero herido que servía de carnada.
+TEXT_JOBSMN560_02103_SEQ_05	Dancing Wolf y Y'mhitra se reúnen contigo en el lugar de la batalla, tras derrotar a sus propios oponentes. Pero al examinar el cuerpo del summoner, el capitán de los Flames descubre asombrado que el atacante no es Tristan, sino su hermano mayor, Kahedin. Es entonces cuando aparece el Ascian of the Twelfth Chalice, lamentando su decisión de usar a los hermanos como peones. El Paragon elogia los esfuerzos de <if(gnum4,la Portadora,el Portador)> de la Luz por matar primals, antes de desvanecerse tan de repente como apareció. Vuelve ahora al Hall of Flames, en Ul'dah, y habla de estas revelaciones con Dancing Wolf.
+TEXT_JOBSMN560_02103_SEQ_06	Por fin se reveló que la amenaza de túnica negra era Kahedin, muerto hace tiempo: un títere reanimado de un poderoso Ascian. Aunque Tristan y su hermano ya están libres de las manipulaciones del Paragon, Dancing Wolf está decidido a vengarse de ese inmortal despiadado. Y'mhitra aconseja cautela y advierte que no se debe desafiar a la ligera a los siervos de la Oscuridad. Para eso, la investigadora te enseña otro secreto de la antigua magia allagan. Sigue esforzándote por dominar el arte de la invocación para aprovechar el saber oculto en los tomestones que quedan.<br><br>※La siguiente misión de summoner estará disponible con Dancing Wolf al alcanzar el nivel 58.
+TEXT_JOBSMN560_02103_TODO_00	Habla con Dancing Wolf en Camp Bluefog.
+TEXT_JOBSMN560_02103_TODO_01	Monta guardia en el lugar indicado.
+TEXT_JOBSMN560_02103_TODO_02	Derrota al summoner vestido de negro y a Ifrit-Egi.
+TEXT_JOBSMN560_02103_TODO_03	Ayuda al mensajero que sirve de carnada.
+TEXT_JOBSMN560_02103_TODO_04	Habla con Dancing Wolf en el Hall of Flames.
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_000	Saludos, <split(<string(gstr1)>, ,1)>. Espero que esté <if(gnum4,lista,listo)> para actuar.
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_001	Desde que aumentamos nuestra presencia en las rutas comerciales, nuestro villano de túnica negra dejó de atacar. Ahora nos toca a nosotros pasar a la ofensiva.
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_002	Con la bendición de mis superiores, preparé un cargamento de cristales con poca escolta para atraer a Tristan a una emboscada.
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_003	¡Y quiero que usted esté ahí cuando se cierre la trampa! Ya le avisé a Y'mhitra, y nos verá en Camp Bluefog. Pongamos fin a esto, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBSMN560_02103_YMHITRA_000_005	¿Habló con el Capitán Wolf? Sugiero que sigamos sus órdenes y confiemos en los preparativos de los Immortal Flames.
+TEXT_JOBSMN560_02103_YMHITRA_000_006	<if(gnum4,La,Lo)> estábamos esperando, <split(<string(gstr1)>, ,1)>. ¡Pongamos en marcha el plan del Capitán Wolf!
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_010	<split(<string(gstr1)>, ,1)>, llegó. Bien. Nuestros "mensajeros de cristales" acaban de salir del campamento.
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_011	El plan es sencillo: la caravana irá hacia la planta de procesamiento, pero romperá un eje, muy oportunamente, antes de llegar a la atalaya del este.
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_012	Nosotros tres tomaremos posiciones separadas cerca y esperaremos a que Tristan muerda el anzuelo. Hice que el conductor se quejara largo y tendido de la falta de una escolta adecuada para su preciada carga, así que podemos estar bastante seguros de que habrá un ataque.
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_013	¿Supongo que no necesita más explicaciones? Vaya a su posición asignada y haga lo posible por no dejarse ver.
+TEXT_JOBSMN560_02103_YMHITRA_000_020	¿Pasa algo? Este árbol apenas alcanza para ocultarnos a los dos...
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_025	Si lo conozco bien, Tristan no podrá resistirse a este anzuelo. Pero basta de charla: tome su posición y esté atent<if(gnum4,a,o)> a cualquier loco de túnica negra.
+TEXT_JOBSMN560_02103_SOLDIER02103_000_030	...¿Vienes por la emboscada? Eh, un gusto conocerte y todo, pero mejor mantén la distancia. No queremos que el enemigo evite nuestra trampa tan bien preparada, ¿eh?
+TEXT_JOBSMN560_02103_SOLDIER02103_000_040	¡Aaargh! ¡Quema! ¡¡¡QUEMA!!!
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_050	¡Háblame, soldado!
+TEXT_JOBSMN560_02103_SOLDIER02103_000_051	Yo... Voy a vivir, Capitán. Apareció de la nada... Me tomó por sorpresa...
+TEXT_JOBSMN560_02103_YMHITRA_000_052	A mí me pasó lo mismo. Otro hombre de túnica oscura salió de una especie de portal y me atacó con hechizos.
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_053	Mi posición también fue atacada: un subordinado, a juzgar por lo fácil que lo despaché. Pero nunca había visto una magia de teletransporte así...
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_054	...¡No! No puede ser...
+TEXT_JOBSMN560_02103_YMHITRA_000_055	¿Conoce a este hombre, Capitán Wolf?
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_056	¡Es Kahedin, el hermano de Tristan! ¿Pero cómo...? Quedó subyugado... lo mataron...
+TEXT_JOBSMN560_02103_ASCIANSCUP_000_057	(-Voz altiva-)...Y ahora me decepcionaron <italic(1)>los dos<italic(0)> hermanos. \<suspiro> Debería tener más cuidado al elegir a mis peones.
+TEXT_JOBSMN560_02103_YMHITRA_000_058	¿¡Un Ascian!? Esa voz... ¡Usted fue quien le enseñó a Tristan el arte de la invocación! ¿¡Vino a causarle todavía más sufrimiento al mundo!?
+TEXT_JOBSMN560_02103_ASCIANSCUP_000_059	...¿Tristan? Sí, así se llamaba el otro. Esperaba prepararlo: le concedí el saber de los magos de Allag para que desatara su ira contra los primals. Por desgracia, lo vencieron con demasiada facilidad...
+TEXT_JOBSMN560_02103_ASCIANSCUP_000_060	No importa. <if(gnum4,La Portadora,El Portador)> de la Luz demostró ser un reemplazo más que adecuado para mi fallido matador de dioses.
+TEXT_JOBSMN560_02103_ASCIANSCUP_000_061	Con cada primal que matas, el fervor de los beastmen se vuelve más ardiente. Solo tenemos que darles cristales a las tribus... ¡y ver cómo invocan deidades cada vez más terribles!
+TEXT_JOBSMN560_02103_ASCIANSCUP_000_062	Cuando la confluencia del caos llegue a su cúspide, el mundo será tragado por la Oscuridad. Nuestro señor se alzará otra vez...
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_063	...Se fue.
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_064	Y nosotros también deberíamos irnos. Me encargaré de que atiendan las heridas de mi soldado y luego los esperaré afuera del Hall of Flames.
+TEXT_JOBSMN560_02103_YMHITRA_000_070	Otra vez, un Paragon acecha detrás del telón, moviendo los hilos. Debí sospecharlo...
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_075	...Creo que hay que replantear las cosas. Ahora sabemos que la amenaza de túnica negra que creíamos que era Tristan era en realidad su hermano Kahedin: un títere reanimado, bajo el control de un Ascian.
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_076	Los dos hermanos estuvieron presentes en la derrota de Ifrit, así que el aura de Kahedin también habría quedado manchada con la esencia del primal. Lo que, si entiendo bien, explicaría que pudiera comandar al egi.
+TEXT_JOBSMN560_02103_DANCINGWOLF_000_077	Pero que ese Ascian levantara el cadáver del muchacho y lo obligara a servirle como su summoner mascota... ¡Me encargaré de que ese canalla pague por su cruel depravación!
+TEXT_JOBSMN560_02103_YMHITRA_000_078	Sí, el Paragon tiene muchos crímenes por los que responder. Pero debemos movernos con gran cautela: no hay que subestimar el poder de estos inmortales.
+TEXT_JOBSMN560_02103_YMHITRA_000_080	Volveré a Gridania y redoblaré mis esfuerzos por descifrar los tomestones que quedan. ¡No podemos enfrentar a un Ascian sin estar preparados!

@@ -193,7 +193,7 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 | | Machinist | 30–100 | ![Pendiente][no] |
 | | Dancer | 60–100 | ![Pendiente][no] |
 | **Caster** | Black Mage | 30–100 | ![Traducido][ok] |
-| | Summoner | 30–100 | ![Pendiente][no] |
+| | Summoner | 30–100 | ![Traducido][ok] |
 | | Red Mage | 50–100 | ![Pendiente][no] |
 | | Pictomancer | 80–100 | ![Pendiente][no] |
 | **Limitado** | Blue Mage | | ![Pendiente][no] |

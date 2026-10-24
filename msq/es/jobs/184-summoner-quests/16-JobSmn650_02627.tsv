@@ -1,0 +1,116 @@
+key	text
+TEXT_JOBSMN650_02627_SEQ_00	Y'mhitra tiene un anuncio sobre el último desafío.
+TEXT_JOBSMN650_02627_SEQ_01	Principia anuncia que llegó el tercer desafío. Aunque al parecer no puede revelar la naturaleza exacta de la prueba, el familiar explica que otra vez necesitarás la cooperación de los summoners novatos de Dancing Wolf. Y'mhitra se comunica con el capitán de los Flames, y él organiza con gusto que el simulacro de batalla se haga en Seal Rock. Reúnete con Y'mhitra en el puerto de aeronaves de Ul'dah.
+TEXT_JOBSMN650_02627_SEQ_02	Llegas a Ul'dah y te enteras de que Dancing Wolf y sus soldados están bajo ataque en Seal Rock. Muy preocupada, Y'mhitra te insta a avisarle al aviador de élite y partir de inmediato hacia la isla.
+TEXT_JOBSMN650_02627_SEQ_03	Rescataste al Capitán Wolf y a sus soldados de una emboscada tendida por un summoner misterioso y poderoso. Reúnete con tus compañeros en el puerto de aeronaves de Ul'dah.
+TEXT_JOBSMN650_02627_SEQ_04	Aunque parece imposible, descubres que el enemigo que atacó a tus compañeros parece ser Sari, un gran summoner allagan que vivió hace varios miles de años. Habla con Dancing Wolf en el puerto de aeronaves de Ul'dah sobre este giro inquietante.
+TEXT_JOBSMN650_02627_SEQ_05	Dancing Wolf y su escuadrón de summoners te agradecen el rescate, pero la identidad y las habilidades de su atacante siguen causando mucha confusión. Vuelve a Apkallu Falls y únete a Y'mhitra, que se prepara para interrogar a Principia.
+TEXT_JOBSMN650_02627_SEQ_06	Tras considerar los hechos, concluyes que el Sari que encontraste muy probablemente era un clon del creador de Principia. Sea cual sea la verdad, el saber de invocación más valioso del familiar quedó sellado tras un cerrojo arcano. Y'mhitra jura revisar los registros allaganos en busca de pistas que les permitan dar con ese "Sari" y reclamar el saber que te ganaste...<br><br>※La siguiente misión de summoner estará disponible con Y'mhitra al alcanzar el nivel 68.
+TEXT_JOBSMN650_02627_TODO_00	Reúnete con Y'mhitra en el puerto de aeronaves de Ul'dah.
+TEXT_JOBSMN650_02627_TODO_01	Habla con el aviador de élite.
+TEXT_JOBSMN650_02627_TODO_02	Habla con el aviador de élite.
+TEXT_JOBSMN650_02627_TODO_03	Habla con Dancing Wolf.
+TEXT_JOBSMN650_02627_TODO_04	Habla con Y'mhitra en Gridania.
+TEXT_JOBSMN650_02627_PRINCIPIA_000_010	Queda un último desafío. Le ruego que supere esta prueba, para que el saber superior que guardo no siga perdido.
+TEXT_JOBSMN650_02627_YMHITRA_000_030	¡Llegó la hora, <split(<string(gstr1)>, ,1)>! Prin está listo para realizar la prueba final.
+TEXT_JOBSMN650_02627_PRINCIPIA_000_031	Sí, su tercer desafío está aquí, <if(gnum4,Maestra,Maestro)>. Por fin tendré el gusto de compartir el saber que durmió tanto tiempo en mis páginas.
+TEXT_JOBSMN650_02627_YMHITRA_000_032	Hasta ahora tuvimos evaluaciones de poder puro y de habilidad refinada. ¿Qué buscará probar, entonces, este tercer desafío?
+TEXT_JOBSMN650_02627_PRINCIPIA_000_033	...Eso no se lo puedo decir.
+TEXT_JOBSMN650_02627_YMHITRA_100_033	¿No puedes... o no quieres?
+TEXT_JOBSMN650_02627_PRINCIPIA_101_033	No les oculto este detalle por diversión. Debe ser secreto: si conocieran el propósito de la prueba, ese conocimiento afectaría injustamente el resultado.
+TEXT_JOBSMN650_02627_PRINCIPIA_102_033	Lo que sí les diré es que esta prueba requiere condiciones parecidas a las de un verdadero campo de batalla.
+TEXT_JOBSMN650_02627_PRINCIPIA_000_034	Por eso debo pedirle que reúna a otros summoners a su lado y que consiga un lugar donde puedan unir fuerzas contra una amenaza primal de lo más realista.
+TEXT_JOBSMN650_02627_YMHITRA_000_035	Bueno, esto debería ser una buena noticia para el Capitán Wolf. Veré si sus aprendices están disponibles...
+TEXT_JOBSMN650_02627_YMHITRA_000_036	Saludos, habla Y'mhitra, yo... Y'mhitra. ...¿De los Sons of Saint Coinach? Sí. Tengo un favor que pedirle...
+TEXT_JOBSMN650_02627_YMHITRA_000_037	Bueno, el Capitán Wolf aceptó nuestro pedido con muchas ganas. Hasta se ofreció a conseguirnos el uso exclusivo de una parte de Seal Rock.
+TEXT_JOBSMN650_02627_YMHITRA_000_038	Parece que habrá una aeronave esperándonos en Ul'dah para llevarnos a la isla. ¿Nos encontramos en el puerto de aeronaves cuando esté list<if(gnum4,a,o)>?
+TEXT_JOBSMN650_02627_PRINCIPIA_000_039	Este será el último desafío, y el más agotador. Le ruego que se prepare, <if(gnum4,Maestra,Maestro)>, para que no termine agotad<if(gnum4,a,o)> del todo.
+TEXT_JOBSMN650_02627_AIRMAN02104_000_050	El Capitán Wolf y su escuadrón de summoners los esperan en Seal Rock. Se concedió permiso para usar la isla para su... ejercicio, pero debemos pedirles que no dañen las reliquias.
+TEXT_JOBSMN650_02627_PRINCIPIA_000_060	Este será el último desafío, y el más agotador. Le ruego que se prepare, <if(gnum4,Maestra,Maestro)>, para que no termine agotad<if(gnum4,a,o)> del todo.
+TEXT_JOBSMN650_02627_YMHITRA_000_070	Vaya a Ul'dah cuando esté list<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. Debería haber una aeronave esperando para llevarnos a Seal Rock.
+TEXT_JOBSMN650_02627_PRINCIPIA_000_080	Este será el último desafío, y el más agotador. Le ruego que se prepare, <if(gnum4,Maestra,Maestro)>, para que no termine agotad<if(gnum4,a,o)> del todo.
+TEXT_JOBSMN650_02627_YMHITRA_000_100	No sé usted, <split(<string(gstr1)>, ,1)>, ¡pero los nervios me están ganando! El Capitán Wolf y los demás ya aterrizaron en Seal Rock, así que no retrasemos más el desafío.
+TEXT_JOBSMN650_02627_YMHITRA_000_101	¿Quién será? ...Ah, Summoner Jajasamu, ¿en qué puedo...? ¿¡Cómo dice!? ...¿¡Quién!? Nosotros... ...¿¡Teniente!? ¿¡Me oye!?
+TEXT_JOBSMN650_02627_YMHITRA_000_102	¡Maldición! Se cortó la llamada. <split(<string(gstr1)>, ,1)>, nuestros colegas de los Immortal Flames están bajo ataque.
+TEXT_JOBSMN650_02627_YMHITRA_000_103	Su situación suena gravísima. Todos los summoners están malheridos, y solo el Capitán Wolf pelea para contener al enemigo.
+TEXT_JOBSMN650_02627_YMHITRA_000_104	...Nuestra batalla planeada se volvió bastante más real de lo que esperábamos. ¡Será mejor que le expliquemos la situación al piloto y organicemos un rescate!
+TEXT_JOBSMN650_02627_YMHITRA_000_110	El Capitán Wolf necesita nuestra ayuda, <split(<string(gstr1)>, ,1)>. ¡Tenemos que avisarle al piloto de inmediato!
+TEXT_JOBSMN650_02627_PRINCIPIA_000_115	La situación suena grave, <if(gnum4,Maestra,Maestro)>. ¡Debemos ir a Seal Rock de inmediato!
+TEXT_JOBSMN650_02627_YMHITRA_000_120	No sé qué nos hizo volver aquí, ¡pero el Capitán Wolf y sus soldados corren peligro de muerte! ¡Rápido, de vuelta al puerto de aeronaves de Ul'dah!
+TEXT_JOBSMN650_02627_PRINCIPIA_000_130	La situación suena grave, <if(gnum4,Maestra,Maestro)>. ¡Debemos ir a Seal Rock de inmediato!
+TEXT_JOBSMN650_02627_AIRMAN02104_000_240	...¿¡Una emboscada, dice!? Entendido.
+TEXT_JOBSMN650_02627_AIRMAN02104_000_241	Pediré refuerzos, pero mi nave está lista para partir ahora si ustedes lo están. ¿Nos adelantamos?
+TEXT_JOBSMN650_02627_QIB_001_TODO_01	¡Rescata a los summoners!
+TEXT_JOBSMN650_02627_QIB_001_TODO_02	¡Derrota al summoner desconocido!
+TEXT_JOBSMN650_02627_YMHITRA_BATTLETALK_04	¡Sígame, <split(<string(gstr1)>, ,1)>!<br>¡Deberían estar por aquí!
+TEXT_JOBSMN650_02627_QIB_PRINCIPIA_BATTLETALK_01	Encontré a un sobreviviente.<br>¡Asegurémonos de que siga sobreviviendo!
+TEXT_JOBSMN650_02627_QIB_CRISPIN_BATTLETALK_01	Creo que voy a vivir...<br>¡Los demás! Nos separamos...
+TEXT_JOBSMN650_02627_YMHITRA_BATTLETALK_01	Sus heridas no son muy graves.<br>¡Vamos, <split(<string(gstr1)>, ,1)>, no podemos demorarnos!
+TEXT_JOBSMN650_02627_YMHITRA_BATTLETALK_PLAYER_AHEAD	¡<split(<string(gstr1)>, ,1)>, ¿adónde va?!<br>¡Tenemos que mantenernos juntos!
+TEXT_JOBSMN650_02627_YMHITRA_BATTLETALK_02	¿¡Esos son egis!?<br>¡Nunca había visto algo así!
+TEXT_JOBSMN650_02627_QIB_PRINCIPIA_BATTLETALK_02	Los reconozco de los tiempos de Allag.<br>Pero pocos podían invocar tantos...
+TEXT_JOBSMN650_02627_QIB_PRINCIPIA_BATTLETALK_03	Qué vocalizaciones tan raras.<br>No tengo registros del habla de los egis.
+TEXT_JOBSMN650_02627_QIB_PRINCIPIA_BATTLETALK_04	Encontré a otro sobreviviente.<br>¡Las heridas parecen graves!
+TEXT_JOBSMN650_02627_YMHITRA_BATTLETALK_03	¡Hay que tratarlas de inmediato!<br>Prin, ¿puedes, eh, hacer presión?
+TEXT_JOBSMN650_02627_QIB_DENISE_BATTLETALK_01	Nos superaron por completo...<br>El capitán... Los alejó de nosotros...
+TEXT_JOBSMN650_02627_QIB_PRINCIPIA_BATTLETALK_05	Nosotros atenderemos a los heridos.<br>¡Vaya rápido, <if(gnum4,Maestra,Maestro)>!
+TEXT_JOBSMN650_02627_DANCINGWOLF_BATTLETALK_01	¡<split(<string(gstr1)>, ,1)>! ¡Gracias a los dioses!<br>¡Esto me supera!
+TEXT_JOBSMN650_02627_SARI_BATTLETALK_01	Ah, llegó el "potencial".<br>¿Probamos los límites de tu poder?
+TEXT_JOBSMN650_02627_SARI_BATTLETALK_02	Así que en esto se convirtió el arte.<br>Más. ¡Muéstrame más!
+TEXT_JOBSMN650_02627_SARI_BATTLETALK_06	Conoces el poder de Bahamut, ¿verdad?<br>¡Tienes que probarlo otra vez!
+TEXT_JOBSMN650_02627_DANCINGWOLF_BATTLETALK_T_GIMMICK_HINT	¡No podemos esquivar esas llamaradas!<br>Pero parecen más débiles en el centro de la explosión.
+TEXT_JOBSMN650_02627_DANCINGWOLF_BATTLETALK_02	¿¡Quién es este hombre!?<br>Es peor que los Ascians...
+TEXT_JOBSMN650_02627_SARI_BATTLETALK_04	Superas mis expectativas.<br>¿Probamos algo nuevo?
+TEXT_JOBSMN650_02627_DANCINGWOLF_BATTLETALK_03	¡Esperen, esos no parecen egis!
+TEXT_JOBSMN650_02627_SARI_BATTLETALK_03	Habilidad consumada. Un poder aethereal inmenso.<br>¡Eres un espécimen de verdad fascinante!
+TEXT_JOBSMN650_02627_SARI_BATTLETALK_05	Mis energías menguan...<br>Este lugar no era el ideal.
+TEXT_JOBSMN650_02627_DANCINGWOLF_BATTLETALK_DEAD	Es que es... demasiado fuerte...
+TEXT_JOBSMN650_02627_YMHITRA_BATTLETALK_DEAD	Perdóneme. Esperaba ser de más ayuda...
+TEXT_JOBSMN650_02627_SUMMONINGSYSTEM_000_300	(-???-)Potencial anómalo confirmado.<br>Iniciando escaneo.
+TEXT_JOBSMN650_02627_SUMMONINGSYSTEM_000_301	(-???-)Capacidad aethereal latente: inconmensurable.<br>Parámetros estándar superados.<br>Reiniciando sistema.
+TEXT_JOBSMN650_02627_DANCINGWOLF_000_302	¿¡Qué, quiere otra ronda!?
+TEXT_JOBSMN650_02627_PRINCIPIA_000_303	¿¡Maestro Sari!? ¿Cómo llegó usted aquí?
+TEXT_JOBSMN650_02627_YMHITRA_000_304	Maestro...<br>¿¡No te referirás a <italic(1)>ese<italic(0)> Sari!?
+TEXT_JOBSMN650_02627_SARI_000_305	Ah, Principia, te despertaron.<br>...Esto debería bastar.
+TEXT_JOBSMN650_02627_YMHITRA_000_306	¿¡Qué le hizo a Prin!?
+TEXT_JOBSMN650_02627_SARI_000_307	El artefacto está ileso. Solo le agregué otra capa de... seguridad.
+TEXT_JOBSMN650_02627_SARI_050_307	No me decepciones, summoner. Te estaré esperando.
+TEXT_JOBSMN650_02627_YMHITRA_100_307	Qué extraño. La forma en que desapareció fue casi como si...
+TEXT_JOBSMN650_02627_DANCINGWOLF_000_308	¡Por los dientes de Thal! ¿¡Qué fue todo eso!?
+TEXT_JOBSMN650_02627_DANCINGWOLF_000_309	¡Bah! Lo hablaremos en Ul'dah después de atender a los heridos.
+TEXT_JOBSMN650_02627_YMHITRA_000_330	Ese summoner de Seal Rock...<br>Tengo tantas preguntas.
+TEXT_JOBSMN650_02627_PRINCIPIA_000_340	Tengo las páginas revueltas.<br>El Maestro Sari... Aquí... Ahora...
+TEXT_JOBSMN650_02627_YMHITRA_000_350	La Summoner Denise quedó gravemente herida. Si hubiéramos llegado un paso o dos más tarde...
+TEXT_JOBSMN650_02627_AIRMAN02104_000_360	Le agradezco que salvara a mis compañeros. ¡Su acción decidida salvó el día!
+TEXT_JOBSMN650_02627_CRISPIN_000_370	Eso fue como una pesadilla. ¿Qué clase de summoner puede comandar tantos egis a la vez...?
+TEXT_JOBSMN650_02627_DENISE_000_380	Por un momento sentí la mano de Thal en el hombro, pero la magia de la señorita Y'mhitra la apartó. ¡Gracias por venir a rescatarnos!
+TEXT_JOBSMN650_02627_JAJASAMULALASAMU_000_390	Ese tipo llamó a un ejército él solito, y estoy bastante seguro de que algunos no eran egis. No sabía que algo así fuera posible...
+TEXT_JOBSMN650_02627_DANCINGWOLF_000_420	¡Llegó justo a tiempo, <split(<string(gstr1)>, ,1)>! Gracias a usted, mis soldados sobrevivieron a esa emboscada, y estarán aptos para el servicio otra vez después de descansar un poco.
+TEXT_JOBSMN650_02627_CRISPIN_000_421	Sí, tiene nuestra gratitud. Si no se hubiera lanzado así a la pelea, casi seguro que habríamos muerto.
+TEXT_JOBSMN650_02627_JAJASAMULALASAMU_000_422	Usted dijo que ese desgraciado era el "Maestro Sari", ¿no? ¿Un summoner de la antigua Allag? ¿Esos magos tenían alguna forma de volver a la vida?
+TEXT_JOBSMN650_02627_DANCINGWOLF_000_423	¡Bueno, Teniente, no saquemos conclusiones apresuradas!
+TEXT_JOBSMN650_02627_DENISE_000_424	Bueno, <italic(1)>sí<italic(0)> manejaba una magia de invocación distinta a todo lo que habíamos visto. Quizás Prin tenga alguna idea...
+TEXT_JOBSMN650_02627_YMHITRA_000_425	...Me aseguraré de preguntarle. Venga, <split(<string(gstr1)>, ,1)>. Volvamos a Gridania.
+TEXT_JOBSMN650_02627_PRINCIPIA_000_460	Qué mala fortuna que ocurriera un incidente así justo antes de su último desafío...
+TEXT_JOBSMN650_02627_DANCINGWOLF_000_510	Y'mhitra ya me sorprendió una vez con su astucia, pero sabía en las tripas que esa emboscada no era parte de su plan: fue demasiado repentina, demasiado brutal. Y peor aún, ni siquiera estamos seguros de quién era en realidad nuestro enemigo...
+TEXT_JOBSMN650_02627_YMHITRA_000_550	Bueno, lo que iba a ser la prueba final de <split(<string(gstr1)>, ,1)> fue toda una prueba, por decir lo menos. Dime, Prin: ¿por qué estás tan seguro de que era el Maestro Sari?
+TEXT_JOBSMN650_02627_PRINCIPIA_000_551	Según las pruebas disponibles, no cabe duda. Las firmas de voz y de aether eran idénticas a las de mi creador.
+TEXT_JOBSMN650_02627_PRINCIPIA_000_552	Lo único que me hace dudar es su comportamiento. El Maestro Sari nunca fue de los que lastiman a otros con una indiferencia tan cruel.
+TEXT_JOBSMN650_02627_YMHITRA_000_553	Ah, yo diría que hay una incoherencia mayor que considerar, Prin: se supone que tu creador murió hace varios miles de años.
+TEXT_JOBSMN650_02627_PRINCIPIA_000_554	<italic(1)>Hay<italic(0)> otra posibilidad. Las mentes más grandes de Allag descubrieron una ciencia conocida como "clonación", con la que podían crear artificialmente una réplica de un ser vivo.
+TEXT_JOBSMN650_02627_PRINCIPIA_000_555	Seal Rock es, después de todo, una construcción del Allagan Empire. Si el individuo con el que combatieron era de verdad un clon del Maestro Sari, mis sentidos no reconocerían ninguna diferencia apreciable.
+TEXT_JOBSMN650_02627_YMHITRA_000_556	Una copia exacta de la persona original...<br>Explicaría mucho, pero la sola idea es horrible.
+TEXT_JOBSMN650_02627_YMHITRA_000_557	...Ah, ¿¡y no manipuló tus encantamientos!? ¿De verdad estás ileso?
+TEXT_JOBSMN650_02627_PRINCIPIA_000_558	Mis facultades están intactas, pero el saber que debía transmitirle a <if(gnum4,la Maestra,el Maestro)> quedó sellado tras un cerrojo arcano. No puedo hacer nada: solo mi creador tiene la llave.
+TEXT_JOBSMN650_02627_YMHITRA_000_559	¡Entonces tus secretos están perdidos para nosotros! ¡Si tan solo <split(<string(gstr1)>, ,1)> hubiera podido intentar ese tercer desafío!
+TEXT_JOBSMN650_02627_PRINCIPIA_000_560	¿Intentar? <if(gnum4,La Maestra,El Maestro)> ya lo superó.
+TEXT_JOBSMN650_02627_PRINCIPIA_000_561	Permítanme explicar: el tercer desafío es una prueba de la naturaleza del summoner. Por eso la prueba requiere compañeros y una amenaza realista. La emboscada del Maestro Sari, claro, le dio a todo una dimensión inesperada.
+TEXT_JOBSMN650_02627_PRINCIPIA_000_562	Aun así, <if(gnum4,la Maestra,el Maestro)> acudió sin dudar en ayuda de sus compañeros summoners y enfrentó un peligro considerable para rescatarlos sanos y salvos: actos desinteresados que <if(gnum4,la califican,lo califican)> de sobra como <if(gnum4,una digna sucesora,un digno sucesor)>.
+TEXT_JOBSMN650_02627_YMHITRA_000_563	Me preguntaba por qué no bastaban el poder y la habilidad... Sari quería que sus enseñanzas pasaran a summoners de corazón noble.
+TEXT_JOBSMN650_02627_PRINCIPIA_000_564	Correcto. No podía tolerar la idea de que ese saber se usara para fines malvados. Ahora entienden por qué su demostración de violencia me confundió tanto...
+TEXT_JOBSMN650_02627_YMHITRA_000_565	Sí, y razón de más para sospechar de un impostor. Pero sea quien sea ese hombre, vamos a encontrarlo y a obligarlo a quitar ese sello. Tu propósito es demasiado importante.
+TEXT_JOBSMN650_02627_PRINCIPIA_000_566	Y yo les ayudaré en todo lo que pueda. El Maestro Sari que me hizo no soportaría ver su memoria profanada con semejante maldad.
+TEXT_JOBSMN650_02627_YMHITRA_000_567	Bien dicho, Prin. ¡Para ser un montón encantado de tinta y pergamino, tienes una brújula moral impresionantemente desarrollada!
+TEXT_JOBSMN650_02627_PRINCIPIA_000_568	No poseo ni moral ni brújula: solo sigo las instrucciones de mi hechizo para guiar a summoners dignos. Si doy la impresión de tener esas características, ¿quizás me estoy excediendo en mis límites de familiar?
+TEXT_JOBSMN650_02627_YMHITRA_000_569	¡No, no, estás bien, Prin! Olvida lo que dije.
+TEXT_JOBSMN650_02627_YMHITRA_000_570	Veré si puedo desenterrar registros más detallados del Maestro Sari. Quizás la historia de sus últimos años nos ayude a desentrañar este misterio...

@@ -1,0 +1,59 @@
+key	text
+TEXT_JOBSMN450_01094_SEQ_00	Y'mhitra quiere contarte lo que piensa sobre cómo enfrentar a Tristan.
+TEXT_JOBSMN450_01094_SEQ_01	Para prepararse para el inevitable choque con el summoner oscuro, Y'mhitra sugiere que aumentes tus poderes con las antiguas prendas allaganas desenterradas en las ruinas de Mor Dhona. Viaja a Saint Coinach's Find y habla con Rammbroes.
+TEXT_JOBSMN450_01094_SEQ_02	Rammbroes comprende tu situación, pero dice que tendrás que ayudar a su equipo de excavación antes de que consideren entregar sus piezas del evoker's attire. Habla primero con la investigadora aturdida y derrota al mirrorknight que no la deja concentrarse en su trabajo.
+TEXT_JOBSMN450_01094_SEQ_03	Derrotaste al mirrorknight que distraía a la investigadora. Habla otra vez con la investigadora aturdida.
+TEXT_JOBSMN450_01094_SEQ_04	La investigadora, agradecida, te recompensa con una pieza del evoker's attire. Ahora habla con el investigador acobardado y derrota al mirrorknight que lo tiene temblando de miedo.
+TEXT_JOBSMN450_01094_SEQ_05	Derrotaste al aterrador mirrorknight. Habla otra vez con el investigador acobardado.
+TEXT_JOBSMN450_01094_SEQ_06	El investigador, agradecido, te recompensa con una pieza del evoker's attire. Ahora habla con el investigador aparentemente impasible y derrota al mirrorknight que lo inquieta.
+TEXT_JOBSMN450_01094_SEQ_07	Derrotaste al molesto mirrorknight. Habla otra vez con el investigador aparentemente impasible.
+TEXT_JOBSMN450_01094_SEQ_08	El investigador, agradecido, te recompensa con una pieza del evoker's attire. Con todos los mirrorknights derrotados, es hora de volver con Rammbroes para informarle de tu éxito.
+TEXT_JOBSMN450_01094_SEQ_09	Rammbroes elogia tus esfuerzos por proteger las excavaciones y te recompensa con gusto con la prenda de summoner que él mismo descubrió en las ruinas. Cargad<if(gnum4,a,o)> con ropa allagan, ya puedes volver con Y'mhitra, que te espera en Apkallu Falls.
+TEXT_JOBSMN450_01094_SEQ_10	Y'mhitra nota que tu nuevo equipo se parece mucho a la ropa que vestía el summoner oscuro, Tristan. Para asegurar tu supremacía en la invocación, la investigadora parece ansiosa por realizar las Austerities of Wind, un ritual que requiere la esencia aetherica capturada de la Lady of the Vortex. Mientras Y'mhitra busca un lugar apropiado para invocar al egi del viento, te pide que te asegures de estar preparad<if(gnum4,a,o)>.<br><br>※La siguiente misión de summoner estará disponible con Y'mhitra cuando derrotes al primal Garuda.
+TEXT_JOBSMN450_01094_TODO_00	Habla con Rammbroes en Saint Coinach's Find, en Mor Dhona.
+TEXT_JOBSMN450_01094_TODO_01	Habla con la investigadora aturdida y derrota al mirrorknight.
+TEXT_JOBSMN450_01094_TODO_02	Habla con la investigadora aturdida.
+TEXT_JOBSMN450_01094_TODO_03	Habla con el investigador acobardado y derrota al mirrorknight.
+TEXT_JOBSMN450_01094_TODO_04	Habla con el investigador acobardado.
+TEXT_JOBSMN450_01094_TODO_05	Habla con el investigador aparentemente impasible y derrota al mirrorknight.
+TEXT_JOBSMN450_01094_TODO_06	Habla con el investigador aparentemente impasible.
+TEXT_JOBSMN450_01094_TODO_07	Informa a Rammbroes.
+TEXT_JOBSMN450_01094_TODO_08	Vuelve con Y'mhitra en Apkallu Falls.
+TEXT_JOBSMN450_01094_YMHITRA_000_000	Saludos, <split(<string(gstr1)>, ,1)>. Aunque me alegra verl<if(gnum4,a,o)>, me temo que todavía no averiguo el objetivo final de Tristan. Solo sé que es astuto y brutal, y que no se detendrá ante nada para lograr su propósito.
+TEXT_JOBSMN450_01094_YMHITRA_000_001	Tal como están las cosas, solo perseguimos la sombra de ese hombre. Creo que una persecución tan directa nos dejará siempre un paso atrás.
+TEXT_JOBSMN450_01094_YMHITRA_000_002	Nuestra única ventaja es el "tesoro" que tenemos y que Tristan parece codiciar. Tarde o temprano, su deseo lo traerá hasta nosotros.
+TEXT_JOBSMN450_01094_YMHITRA_000_003	No puedo decir dónde ni cuándo atacará Tristan, pero es poco probable que sea en un campo de nuestra elección. Por eso sugiero que nos preparemos lo mejor posible para este conflicto inevitable.
+TEXT_JOBSMN450_01094_YMHITRA_000_004	Por suerte, las ruinas de Mor Dhona quizás nos dieron una nueva fuente de fuerza: entre los Sons se dice que desenterraron un evoker's attire.
+TEXT_JOBSMN450_01094_YMHITRA_000_005	Estas prendas encantadas, hechas durante el reinado del Allagan Empire, se cosieron para uso exclusivo de los summoners. Solo puedo imaginar cuánto aumentarán sus ya impresionantes poderes.
+TEXT_JOBSMN450_01094_YMHITRA_000_006	El hombre que supervisa las excavaciones en Saint Coinach's Find, Rammbroes, es un querido amigo mío. Dadas las circunstancias, estoy segura de que aceptará que usted use el atuendo. ¿Vamos a visitarlo?
+TEXT_JOBSMN450_01094_RAMMBROES_000_010	¡Ah, Y'mhitra! Sospechaba que aparecerías pronto. ¿Y supongo que <if(gnum4,esta distinguida dama,este distinguido caballero)> es <if(gnum4,la nueva,el nuevo)> summoner del que tanto he oído?
+TEXT_JOBSMN450_01094_YMHITRA_000_011	Sí, y espero que sea el primero de muchos. Ahora dime, Rammbroes, ¿está confirmado el hallazgo del evoker's attire de fabricación allagan?
+TEXT_JOBSMN450_01094_RAMMBROES_000_012	Lo está. ¡Un hallazgo verdaderamente histórico!
+TEXT_JOBSMN450_01094_YMHITRA_000_013	Entonces... quisiera pedirte un favor, amigo mío. ¿Recuerdas el aprieto del que te hablé? Nuestras posibilidades de sobrevivir mejorarían mucho si consideraras permitir que <split(<string(gstr1)>, ,1)> use las prendas allaganas.
+TEXT_JOBSMN450_01094_RAMMBROES_000_014	Hmmm. Bueno, después de todo <italic(1)>es<italic(0)> summoner. Y debo confesar no poca curiosidad académica por el efecto que tendrá el atuendo en alguien con la formación adecuada.
+TEXT_JOBSMN450_01094_RAMMBROES_000_015	Sin embargo, estos hallazgos son fruto de mucho sudor y hasta de algunas lágrimas de nuestro equipo de excavación. Es una tarea frustrante a veces, y me temo que no querrán desprenderse de las prendas sin alguna recompensa por sus esfuerzos.
+TEXT_JOBSMN450_01094_RAMMBROES_000_016	Permítame, eso sí, ofrecerle una solución. Unas monstruosidades metálicas de fabricación allagan, llamadas "mirrorknights", surgieron en las excavaciones repartidas por Mor Dhona. Ni hace falta decir que son una amenaza peligrosa para nuestros excavadores.
+TEXT_JOBSMN450_01094_RAMMBROES_000_017	Le sugiero que hable con mis tres investigadores de campo y se deshaga de cualquiera de esos estorbos que obstaculicen su trabajo. Me atrevo a decir que después le entregarán con gusto las piezas del atuendo que tienen.
+TEXT_JOBSMN450_01094_RAMMBROES_000_018	Cuando confirme que nuestras excavaciones están libres de horrores acorazados, me encargaré de recompensarl<if(gnum4,a,o)> con la prenda que yo mismo recuperé de las ruinas.
+TEXT_JOBSMN450_01094_SEEKER450A_000_020	Hay un mirrorknight acechando justo allá. ¡No puedo ni pensar con esa <italic(1)>cosa<italic(0)> dando vueltas! Ay, dioses... ¡Se acerca!
+TEXT_JOBSMN450_01094_SEEKER450A_000_021	¡Uf! Muchas gracias. Ahora por fin podré concentrarme en mi trabajo.
+TEXT_JOBSMN450_01094_SEEKER450A_000_022	...Si no me equivoco, ¿usted buscaba el evoker's attire? Tengo aquí mismo una de sus maravillosas piezas. ¡Es toda suya!
+TEXT_JOBSMN450_01094_SEEKER450B_000_030	¡G-gracias a los d-dioses! R-Rammbroes dijo que v<-->vendría un aventurero. ¡P<-->Por favor! ¡T<-->Tienes que destruir esa h-horrible máquina!
+TEXT_JOBSMN450_01094_SEEKER450B_000_031	Gracias por eliminar la causa de mis pesadillas. Normalmente no tartamudeo así, ¿sabes? Pero el terror absoluto le hace eso a la gente.
+TEXT_JOBSMN450_01094_SEEKER450B_000_032	Ahora, Y'mhitra me dijo que necesitas esta prenda allagan. Me alegra verla usada para algo práctico en lugar de encerrada en alguna bóveda polvorienta.
+TEXT_JOBSMN450_01094_SEEKER450C_000_040	¿Mirrorknights? Sí, se han vuelto bastante molestos. Le agradecería mucho que eliminara la plaga chirriante que me ha estado acosando estos días.
+TEXT_JOBSMN450_01094_SEEKER450C_000_041	Fascinante. Nunca pensé que tendría la suerte de observar tan de cerca un combate contra una máquina allagan.
+TEXT_JOBSMN450_01094_SEEKER450C_000_042	Ha sido una experiencia muy enriquecedora. Si el precio es mi pieza del evoker's attire, que así sea.
+TEXT_JOBSMN450_01094_RAMMBROES_000_050	¡Ah, regresa <if(gnum4,la campeona,el campeón)> de mis investigadores!
+TEXT_JOBSMN450_01094_RAMMBROES_000_051	Con las ruinas libres de mirrorknights, las excavaciones podrán avanzar a un ritmo mucho más satisfactorio. Temblar de miedo por la propia vida hace asombrosamente difícil manipular artefactos antiguos que tienden a deshacerse en polvo.
+TEXT_JOBSMN450_01094_RAMMBROES_000_052	Nos prestó un servicio valioso, <split(<string(gstr1)>, ,1)>. Como prometí, tendrá como recompensa la prenda de summoner que descubrí con mis propias manos.
+TEXT_JOBSMN450_01094_RAMMBROES_000_053	Ah, sí. Y'mhitra dijo que <if(gnum4,la,lo)> esperaría en Apkallu Falls. Parece que no tenía ninguna duda de que usted lo lograría.
+TEXT_JOBSMN450_01094_YMHITRA_000_060	Así que así vestían los summoners de antaño. Bueno, más o menos. Es una lástima que las ruinas todavía no les hayan entregado la última pieza a los Sons.
+TEXT_JOBSMN450_01094_YMHITRA_000_061	Estas prendas... Salvo por el color, son idénticas a la ropa que llevaba Tristan.
+TEXT_JOBSMN450_01094_YMHITRA_000_062	Con su equipo no tendrá ventaja sobre usted. La próxima vez que se enfrente a ese canalla asesino, la victoria se decidirá solo por quién es el summoner más talentoso.
+TEXT_JOBSMN450_01094_YMHITRA_000_063	Para eso, es hora de que aproveche su experiencia de haber derrotado al primal Garuda. Sí, se nota en usted su aura de violencia caprichosa.
+TEXT_JOBSMN450_01094_YMHITRA_000_064	Impresiona imaginar un egi nacido de la Lady of the Vortex... ¡Una ferocidad tan impredecible le será muy útil!
+TEXT_JOBSMN450_01094_YMHITRA_000_065	Buscaré un lugar adecuadamente... aireado... para realizar las Austerities of Wind. Usted, mi querid<if(gnum4,a,o)> summoner, debe preparar cuerpo y mente para las pruebas que vienen. <if(gnum4,La,Lo)> estaré esperando.
+TEXT_JOBSMN450_01094_YMHITRA_000_066	Para eso, quisiera seguir pronto con las Austerities of Wind para conseguirle otro aliado poderoso. Aunque... parece que todavía no cuenta a la Lady of the Vortex entre sus triunfos.
+TEXT_JOBSMN450_01094_YMHITRA_000_067	El primal Garuda es como un frente de tormenta amenazante, siempre a punto de desatar sus vendavales despiadados sobre Gridania. Si quiere capturar su esencia aetherica, tendrá que buscar una expedición a la cual unirse.
+TEXT_JOBSMN450_01094_POP_MESSAGE	¡Sientes una presencia hostil!
