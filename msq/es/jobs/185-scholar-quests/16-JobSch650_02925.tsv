@@ -1,0 +1,75 @@
+key	text
+TEXT_JOBSCH650_02925_SEQ_00	Alka Zolka no deja de preocuparse por Setoto.
+TEXT_JOBSCH650_02925_SEQ_01	Como Setoto parece haberse recuperado del todo, Alka Zolka quiere empezar a buscar un recuerdo de su padre. El Royal Marine sugiere empezar por Amdapor Keep. Si, como sospechan, los de Amdapor capturaron al padre de Setoto durante una misión para descubrir cómo revertir la plaga nymiana, lo habrían llevado a Amdapor Keep para interrogarlo. Así que es probable que ahí queden algunas de sus pertenencias. Ve a las antiguas ruinas y busca cualquier objeto que le recuerde a Setoto a su padre.
+TEXT_JOBSCH650_02925_SEQ_02	Los tres se abren paso por Amdapor Keep y se encuentran con distintos habitantes de las ruinas y con artefactos antiguos, entre ellos un diario de Amdapor que habla de la captura de un espía nymiano. Gracias a él deducen que las pertenencias del padre de Setoto se guardaron en un mana idol. Cuando empiezan a desmantelar esos golems de Amdapor, se les enfrenta un manasnatcher, una de las enormes criaturas que habitan el lugar. Tras una batalla reñida, cae sin vida al suelo, y de sus entrañas sale rodando un cofre. Tú, Alka y Setoto se acercan a abrirlo.
+TEXT_JOBSCH650_02925_SEQ_03	Al abrirlo, ves que contiene lo que parecen ser el grimorio, la ropa y el soul crystal del padre de Setoto. Tomando con cuidado el cristal entre sus manos, Setoto le ruega a Lilac, el hada de su padre, que aparezca. El cristal suelta una esfera de luz morada y Setoto cae al suelo, inconsciente. Tras intentar despertarla sin éxito, Alka Zolka te pide que lo ayudes a sacar a la tonberry de las peligrosas ruinas y llevarla a Camp Tranquil.
+TEXT_JOBSCH650_02925_SEQ_04	Tú y Alka vuelven a Camp Tranquil con Setoto, y el marauder te pide que uses tus conocimientos para diagnosticar qué le pasa. Concluyes que, aunque no tiene heridas, la joven tonberry tardará en despertar. Alka queda muy afectado por la noticia, y sus gritos de pánico llaman la atención de Landenel, de los Wood Wailers, que se ofrece a cuidar a Setoto hasta que se recupere. Alka Zolka te pide que te quedes con ella y con Landenel, y parte hacia Bronze Lake para hablar con Surito Carito.<br><br>※La siguiente misión de scholar estará disponible con Alka Zolka al llegar al nivel 68.
+TEXT_JOBSCH650_02925_TODO_00	Reúnete con Alka Zolka cerca de Amdapor Keep.
+TEXT_JOBSCH650_02925_TODO_01	Reúnete con Alka Zolka cerca de Amdapor Keep.
+TEXT_JOBSCH650_02925_TODO_02	Habla con Alka Zolka en Camp Tranquil.
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_001	¡Setoto! Te ves mucho mejor. Hasta tu tez volvió a la normalidad.
+TEXT_JOBSCH650_02925_SETOTO_000_002	¡Así es! ¡Yo también noté que mi piel vuelve a brillar con un sano tono verde!
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_003	<split(<string(gstr1)>, ,1)>, ahora que Setoto se recuperó, podemos empezar la búsqueda. Antes de partir, repasemos rápido lo que sabemos.
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_004	El padre de Setoto era un scholar de los Royal Marines al que enviaron en una misión para infiltrarse en Amdapor. Tenía que volver con una cura para la enfermedad que amenazaba con arrasar Nym, pero nunca volvió.
+TEXT_JOBSCH650_02925_SETOTO_000_005	Sí. Estoy casi segura de que los de Amdapor lo descubrieron, lo capturaron y luego lo mataron...
+TEXT_JOBSCH650_02925_SETOTO_000_006	Y aunque no fuera así, después de quince siglos podemos dar por hecho que ya no vive. Pero tengo la esperanza de que quede algo de sus pertenencias.
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_007	Los de Amdapor estaban muy dedicados a ampliar su saber sobre la magia curativa. Cualquier cosa que tuviera un scholar habría sido valiosísima para ellos, y si capturaron a tu padre, le habrían confiscado todo lo que llevaba.
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_008	Y después lo habrían llevado a un lugar apartado y seguro para interrogarlo. Eso significa...
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_009	Que nuestras mejores posibilidades de encontrar algo que le haya pertenecido están en Amdapor Keep.
+TEXT_JOBSCH650_02925_SETOTO_000_010	¡Ay, Alka, no solo eres buenísimo, sino también muy listo!
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_011	Ejem. Gracias. Bueno, en los últimos años de la War of the Magi, los de Mhach arrasaron Amdapor. La invadió una infinidad de bestias voidsent que siguen ahí hasta hoy.
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_012	¡Mientras avanzamos, no pueden bajar la guardia! Amdapor Keep está lleno de peligros, conocidos y desconocidos.
+TEXT_JOBSCH650_02925_SETOTO_000_015	Me trataron como a una bestia horrible por tanto tiempo que había olvidado lo que era que me vieran como a una chica. Alka me lo recordó, y por eso no tengo cómo agradecerle.
+TEXT_JOBSCH650_02925_ALKAZOLKA_100_020	¡Por fin llegamos! <split(<string(gstr1)>, ,1)>, si estás list<if(gnum4,a,o)>, guíanos, por favor.
+TEXT_JOBSCH650_02925_SETOTO_000_020	Así que esto es Amdapor Keep... el antiguo hogar de los magos contra los que tanto peleamos.
+TEXT_JOBSCH650_02925_QIB_001_TODO_1	¡Encuentra un recuerdo del padre de Setoto!
+TEXT_JOBSCH650_02925_QIB_001_TODO_2	¡Derrota al manasnatcher!
+TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_10	La Presence Chamber... Desde aquí hay que avanzar con cuidado. No sabemos qué peligros acechan en las sombras.
+TEXT_JOBSCH650_02925_QIB_001_SETOTO_10	Pase lo que pase, no me iré de este lugar sin algo que me recuerde a mi padre.
+TEXT_JOBSCH650_02925_QIB_001_SETOTO_01	\<jadeo> ¡<split(<string(gstr1)>, ,1)>! Este diario... creo que habla de mi difunto padre...
+TEXT_JOBSCH650_02925_QIB_001_SYSTEM_02	(-Diario andrajoso-)El interrogatorio del espía nymiano que capturamos se hará pronto en el Moot Hall.
+TEXT_JOBSCH650_02925_QIB_001_SYSTEM_03	(-Diario andrajoso-)Los poderes curativos que usa su pueblo no se parecen a los de la magia blanca. Cueste lo que cueste, tenemos que averiguar el misterioso origen de su poder.
+TEXT_JOBSCH650_02925_QIB_001_SYSTEM_04	(-Diario andrajoso-)Sospechamos que su túnica es clave para su magia. Sin duda guardará algunas de las respuestas.
+TEXT_JOBSCH650_02925_QIB_001_SYSTEM_05	(-Diario andrajoso-)Por ahora, sin embargo, la guardaremos sellada dentro de uno de nuestros mana idols.
+TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_05	¡Entonces hay que empezar a desmantelar los mana idols!
+TEXT_JOBSCH650_02925_QIB_101_ALKAZOLKA_05	¡Uno de ellos podría tener las cosas del padre de Setoto!
+TEXT_JOBSCH650_02925_QIB_001_SETOTO_11	Basura, nada más...
+TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_06	Todas las páginas están hechas jirones. Quizá tengamos más suerte con el próximo que encontremos.
+TEXT_JOBSCH650_02925_QIB_001_SETOTO_07	Nada en esta bolsa parece haber sido suyo...
+TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_11	\<tos> \<tos> Qué hedor... ¡Es peor que el de la leche cortada!
+TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_08	Este libro parece-
+TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_17	\<gruñido> ¿Q-Qué es esto? ¡Siento un cosquilleo de pies a cabeza y de repente me siento tan liviano! ¡Debe de estar encantado!
+TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_16	¡Este cofre está repleto de tesoros!
+TEXT_JOBSCH650_02925_QIB_001_SETOTO_12	No. Esto no es lo que buscamos. Dejémoslo.
+TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_12	¿Por qué hay tantos mana idols rotos...? ¡Por todos los dioses! ¡Esa bestia! ¡Allá!
+TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_13	¡Nos vio! No tenemos más remedio que pelear.
+TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_14	¿Eso... eso es un cofre? ¡Esta cosa se estaba comiendo los mana idols!
+TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_15	¡Setoto, <split(<string(gstr1)>, ,1)>! Quizá sea esto...
+TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_DEAD	¡Por los siete infiernos! Estamos perdidos...
+TEXT_JOBSCH650_02925_QIB_001_SETOTO_DEAD	Padre... perdóname...
+TEXT_JOBSCH650_02925_NCUT_ALKAZOLKA_000_000	¡Miren! ¡Es un grimorio nymiano!
+TEXT_JOBSCH650_02925_NCUT_SETOTO_000_001	¡Lo reconozco! ¡Es de mi padre! Y esto...
+TEXT_JOBSCH650_02925_NCUT_SETOTO_000_002	¡Es su túnica! E-Es la del día en que se fue. Todo está tan bien conservado que es casi como si la hubiera llevado puesta ayer...
+TEXT_JOBSCH650_02925_NCUT_SETOTO_000_003	¿Oh? ¿Qué es esto?
+TEXT_JOBSCH650_02925_NCUT_ALKAZOLKA_000_004	...¡¿Es su <italic(1)>soul crystal<italic(0)>?!
+TEXT_JOBSCH650_02925_NCUT_SETOTO_000_005	Sí... y adentro duerme el hada que ha acompañado a mi familia por generaciones.
+TEXT_JOBSCH650_02925_NCUT_SETOTO_000_006	Creí que había perdido a casi todos por esa maldita guerra y la terrible enfermedad que vino después... Y aun así, contra todo pronóstico, aquí está: lo último que queda de mi familia, en la palma de mi mano. Daría lo que fuera por volver a verla.
+TEXT_JOBSCH650_02925_NCUT_SETOTO_000_007	¿Lilac...? Lilac, por favor... ¡Respóndeme!
+TEXT_JOBSCH650_02925_NCUT_ALKAZOLKA_000_008	¿Setoto? ¡¿<italic(1)>Setoto<italic(0)>?! ¿Qué pasó? ¡Despierta!
+TEXT_JOBSCH650_02925_NCUT_ALKAZOLKA_000_009	¡<split(<string(gstr1)>, ,1)>, algo anda mal! No responde. ¡Tenemos que llevarla a Camp Tranquil de inmediato!
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_050	<split(<string(gstr1)>, ,1)>, eres Royal Marine y además <if(gnum4,una,un)> scholar excepcional. Seguro que puedes diagnosticar qué le pasa, ¿no?
+TEXT_JOBSCH650_02925_SYSTEM_000_051	Setoto no tiene heridas externas, y su respiración y su pulso están estables. Aun así, parece haber caído en un coma del que no despertará pronto.
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_052	¡¿Que no despertará pronto?! ¡No, no puede ser! ¡¿Qué rayos pasó allá?!
+TEXT_JOBSCH650_02925_LANDENEL_000_053	¿Civiles en apuros que necesitan una mano, supongo? ¿Pueden ayudarles los Wood Wailers?
+TEXT_JOBSCH650_02925_LANDENEL_000_054	¡Ah! ¡Pero si es <if(gnum4,la aventurera,el aventurero)>! ¿Qué le trae por estos rumbos?
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_055	<split(<string(gstr1)>, ,1)>, ¿supongo que es otro de tus amigos?
+TEXT_JOBSCH650_02925_LANDENEL_000_056	Entonces, en resumen, ¿una invocación fallida dejó inconsciente a esta cosa? La solución es bastante sencilla. Déjenla ahí descansando hasta que despierte.
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_057	¡¿Cosa?! ¡¿<italic(1)>Cosa<italic(0)>?! ¡¿Cómo se atreve a hablar de Setoto de forma tan cruel?! ¡Y sugerir que dejemos a esta hermosa jovencita <italic(1)>aquí<italic(0)>, a la intemperie, hasta que despierte! ¡Usted está loco!
+TEXT_JOBSCH650_02925_LANDENEL_000_058	¿Jovencita...? ¿Está seguro de que eso es lo que él... eh, ella es?
+TEXT_JOBSCH650_02925_LANDENEL_000_059	Ejem. Mis disculpas. Llevaré a la jovencita adentro y me aseguraré de que tenga un lugar adecuado para descansar. Pero antes... Esta... capa de mucosidad verde no es contagiosa, ¿verdad?
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_060	¡¿Mucosidad verde?! No es mucosidad verde, es... \<suspiro> Olvídelo.
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_061	No, no es contagiosa. No le pasará nada. Gracias por su ayuda, señor. Se lo agradezco muchísimo.
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_062	Por lo menos por ahora podemos estar tranquilos de que Setoto está a salvo... o todo lo a salvo que puede estar dadas las circunstancias.
+TEXT_JOBSCH650_02925_LANDENEL_000_063	Todo debería estar en orden. Me aseguré de que le dieran a su amiga una cama cómoda para descansar hasta que se recupere.
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_064	<split(<string(gstr1)>, ,1)>, volveré a Bronze Lake a contarle a Surito Carito todo lo que pasó. Quizá él pueda aclarar qué le pasa a Setoto.
+TEXT_JOBSCH650_02925_ALKAZOLKA_000_065	Mientras tanto, te pido que te quedes cerca y la vigiles. No te preocupes. No debería tardar mucho.

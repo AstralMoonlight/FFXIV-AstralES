@@ -1,0 +1,87 @@
+key	text
+TEXT_JOBSCH600_01676_SEQ_00	Surito Carito se ve decidido.
+TEXT_JOBSCH600_01676_SEQ_01	Surito Carito te cuenta que aprendió a rastrear al voidsent invisible. Su investigación reveló que tu hada puede percibir dónde se alimentó el demonio, y que puedes seguirlo por esos rastros aetherial. Con Alka Zolka y los nuevos Royal Marines a tu espalda, ve a la Floating City of Nym y empieza la caza.
+TEXT_JOBSCH600_01676_SEQ_02	Tu hada detecta los rastros aetherial del voidsent: los restos de su presa. Ahora te guía hacia Zelma's Run, en La Noscea alta.
+TEXT_JOBSCH600_01676_SEQ_03	Tu hada vuelve a percibir los rastros aetherial del voidsent, que esta vez se dirige a Camp Bronze Lake. Ve allá deprisa y habla con Alka Zolka.
+TEXT_JOBSCH600_01676_SEQ_04	Con un estallido de luz cegadora, tu hada disipa el hechizo que ocultaba al voidsent. Ya visible el enemigo, los Royal Marines cargan. Alka Zolka y sus soldados dan golpes demoledores mientras tus hechizos los protegen. La batalla es feroz, pero pronto el demonio yace agonizando. Con su último aliento se prepara para liberar la enfermedad - pero antes de que pueda hacerlo, los tonberries acuden en tu ayuda. El golpe final es de ellos. Ahora que estás victorios<if(gnum4,a,o)>, felicita a tus compañeros de combate por acabar con este espectro de Mhach.
+TEXT_JOBSCH600_01676_SEQ_05	Hablaste con tus compañeros de armas. Antes de partir hacia el atardecer, conviene ver qué tiene que decir Surito Carito.
+TEXT_JOBSCH600_01676_SEQ_06	Aunque la cura para el mal de los tonberries todavía no está a tu alcance, Surito Carito está satisfecho con lo que pasó hoy. Ver a tu gente y a la suya trabajar juntas por una causa común es victoria suficiente, al menos por ahora.<br><br>※La siguiente misión de scholar estará disponible con Alka Zolka cuando completes la misión de la historia principal "The Far Edge of Fate".
+TEXT_JOBSCH600_01676_TODO_00	Busca rastros del voidsent en la Floating City of Nym.
+TEXT_JOBSCH600_01676_TODO_01	Busca rastros del voidsent en Zelma's Run.
+TEXT_JOBSCH600_01676_TODO_02	Habla con Alka Zolka en Camp Bronze Lake.
+TEXT_JOBSCH600_01676_TODO_03	Habla con tus compañeros Royal Marines.
+TEXT_JOBSCH600_01676_TODO_04	Habla con Surito Carito.
+TEXT_JOBSCH600_01676_SURITOCARITO_000_000	Lo tengo, <split(<string(gstr1)>, ,1)>: ¡la forma de rastrear a nuestro voidsent invisible! Llegó la hora de hablar de nuestro ataque.
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_001	¡Ja, ja! ¡Estaba esperando este día! ¿Cuál es el plan, Surito Carito?
+TEXT_JOBSCH600_01676_SURITOCARITO_000_002	Primero tenemos que rastrear a nuestra presa. Creo que se ha estado alimentando del aether de las criaturas de la zona para recuperar fuerzas.
+TEXT_JOBSCH600_01676_SURITOCARITO_000_003	Su forma de alimentarse deja rastros aetherial únicos. Como las migas de pan marcan el camino de un niño hambriento, este rastro nos llevará directo al voidsent.
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_004	¿Y cómo vamos a detectar esos rastros?
+TEXT_JOBSCH600_01676_SURITOCARITO_000_005	Con la ayuda de Lily. Ella puede sentir dónde el voidsent dejó aether sin devorar.
+TEXT_JOBSCH600_01676_SURITOCARITO_000_006	Empezaremos la búsqueda donde desenterraste el ánfora, y seguiremos adonde nos lleve Lily.
+TEXT_JOBSCH600_01676_SURITOCARITO_000_007	Cuando ella sienta que el voidsent está cerca, lo obligaremos a mostrarse. Lily iluminará la zona, y su luz disipará la magia que lo oculta. ¿Verdad, querida?
+TEXT_JOBSCH600_01676_SURITOCARITO_000_008	Con el voidsent a la vista, atacaremos con todas nuestras fuerzas. ¡Los marines cargarán y lo matarán antes de que cause más daño!
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_009	Esta es, <split(<string(gstr1)>, ,1)>: ¡nuestra oportunidad de demostrar el poder de nuestro cuerpo!
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_010	Pequeña, el destino del reino está en tus manos. ¿Estás lista?
+TEXT_JOBSCH600_01676_SURITOCARITO_000_011	Entonces nuestro rumbo está claro. ¡Que nuestro plan asegure que la enfermedad nunca vuelva a cobrarse una víctima!
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_012	¡A la victoria - come hells or high water!
+TEXT_JOBSCH600_01676_SURITOCARITO_000_013	¡Rápido, amig<if(gnum4,a,o)>, adonde encontraste el ánfora!
+TEXT_JOBSCH600_01676_SYSTEM_000_020	Por los rastros aetherial que dejaron las presas devoradas, tu hada siente que el voidsent se dirige a Zelma's Run.
+TEXT_JOBSCH600_01676_SURITOCARITO_000_021	Nuestro futuro depende de tu éxito. Que la fortuna te acompañe hoy.
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_022	¿Adónde se habrá ido...?
+TEXT_JOBSCH600_01676_SYSTEM_000_030	Por los rastros aetherial que dejaron las presas devoradas, tu hada siente que el voidsent se dirige a Camp Bronze Lake.
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_031	¿Qué pasa, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_032	¡P-Pero por ahí está Camp Bronze Lake!
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_033	¿Qué podría buscar ahí? ¿Las aguas curativas? No... Supongo que ahí están-
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_034	¡Claro! ¡Los soldados heridos del Maelstrom! ¡Quiere volver a propagar la enfermedad <italic(1)>a través de ellos<italic(0)>!
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_035	¡Tenemos que detenerlo! ¡Rápido, al campamento!
+TEXT_JOBSCH600_01676_OLDSAILOR01676_000_040	¡Maldita sea! ¡Esto está lleno de gente! ¡Si no encontramos rápido al voidsent, va a haber muchos más tonberries!
+TEXT_JOBSCH600_01676_SAILOR01676_000_041	¿Pero cómo lo hacemos salir si no podemos verlo?
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_042	¡Hagan que los soldados evacúen! ¡<split(<string(gstr1)>, ,1)>, encuentra al voidsent con la luz de Lily!
+TEXT_JOBSCH600_01676_ALKAZOLKA_BATTLETALK_01	Solo tú puedes rastrear al voidsent.
+TEXT_JOBSCH600_01676_ALKAZOLKA_BATTLETALK_02	¡¿Q-Qué es esa luz tan rara?!
+TEXT_JOBSCH600_01676_ALKAZOLKA_BATTLETALK_09	¡¿Es eso?! ¡Rápido, tras él!
+TEXT_JOBSCH600_01676_ALKAZOLKA_BATTLETALK_03	¡Va a intentar contagiarnos! ¡Hay que evitarlo a toda costa!
+TEXT_JOBSCH600_01676_ALKAZOLKA_BATTLETALK_04	¡Puaj! ¡¿Qué es esta porquería?! ¡Quítenmela de encima!
+TEXT_JOBSCH600_01676_SURITOCARITO_BATTLETALK_05	¡Tu pueblo no sufrirá la tragedia de Nym, no mientras yo respire!
+TEXT_JOBSCH600_01676_ALKAZOLKA_BATTLETALK_06	¡Surito Carito! ¡Sargento!
+TEXT_JOBSCH600_01676_ALKAZOLKA_BATTLETALK_08	N-No... ¡Noooooooooo!
+TEXT_JOBSCH600_01676_ALKAZOLKA_BATTLETALK_11	¡Por los dioses, <split(<string(gstr1)>, ,1)>! No...
+TEXT_JOBSCH600_01676_ALKAZOLKA_BATTLETALK_12	¡Aaah! ¡Son tonberries!
+TEXT_JOBSCH600_01676_ALKAZOLKA_BATTLETALK_DEAD	A-A la victoria, <split(<string(gstr1)>, ,1)> - come hells o-or...
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_043	¡<split(<string(gstr1)>, ,1)>!
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_044	Por fin...
+TEXT_JOBSCH600_01676_WOUNDEDSOLDIER01676_000_045	¡Aaah! ¡U-U-Un monstruo!
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_046	Por Limsa, por los tonberries y por la gloria... ¡al ataque!
+TEXT_JOBSCH600_01676_MARINES01676_000_047	(-Marines-)¡A LA VICTORIA - COME HELLS OR HIGH WATER!
+TEXT_JOBSCH600_01676_ENEMY01676_000_050	Deleted
+TEXT_JOBSCH600_01676_OLDSAILOR01676_000_051	¿Ya... ya está...?
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_052	¡Atrás! ¡Está intentando contagiarnos!
+TEXT_JOBSCH600_01676_SURITOCARITO_000_053	¡No!
+TEXT_JOBSCH600_01676_SURITOCARITO_000_054	¡Ahora, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBSCH600_01676_ENEMY01676_000_055	Deleted
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_056	¡Jaja! ¡Ganamos!
+TEXT_JOBSCH600_01676_SURITOCARITO_000_057	Sí... Cuando pienso en el horror que le causó a mi pueblo, yo...
+TEXT_JOBSCH600_01676_SURITOCARITO_000_058	Pero ahora nadie más compartirá nuestro destino. Gracias a ti y a Alka Zolka.
+TEXT_JOBSCH600_01676_HALGATOLGA_000_059	Sí, también tienen mi gratitud. Qué bueno ver otra vez en acción a unos <italic(1)>Royal<italic(0)> Marines como se debe.
+TEXT_JOBSCH600_01676_SURITOCARITO_000_060	Así es. Hoy les pasamos la antorcha: ¡que los Royal Marines defiendan al pueblo para siempre!
+TEXT_JOBSCH600_01676_SAILOR01676_000_070	¡Fue un honor pelear a tu lado, <if(gnum4,señora,señor)>! Si alguna vez nos necesitas, no tienes más que pedirlo.
+TEXT_JOBSCH600_01676_OLDSAILOR01676_000_071	No es común sentirse tan a salvo en una batalla. Creo que esos nymianos sabían lo que hacían con sus scholars y sus hadas. Yo también te cubro la espalda, si alguna vez lo necesitas.
+TEXT_JOBSCH600_01676_HALGATOLGA_000_072	\<sollozo> Malditos ojos de tonberry, siempre llorando- Bah, ¿a quién engaño? ¡Hicieron un buen trabajo, un muy buen trabajo!
+TEXT_JOBSCH600_01676_HALGATOLGA_000_073	...¡Pero ni se les ocurra aflojar el entrenamiento por una sola victoria! ¡Si manchan el nombre de mis queridos marines, les arranco la piel de la espalda!
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_074	Imagínate, <split(<string(gstr1)>, ,1)>, derrotar a un voidsent de más de quince siglos... Cuando nos conocimos, no me atrevía a pensar que lograríamos algo así juntos.
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_075	La amenaza desapareció y los Royal Marines renacieron. No está mal para un día de trabajo, me atrevo a decir.
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_076	Pero estamos lejos de terminar. No sé qué amenazas nos traerá el futuro, pero no nos encontrarán desprevenidos, no mientras yo tenga algo que decir. A la victoria, amig<if(gnum4,a,o)> - ¡come hells or high water!
+TEXT_JOBSCH600_01676_SURITOCARITO_100_076	Hoy lograste una gran victoria, amig<if(gnum4,a,o)>. Tus aliados lo agradecerán si se lo dices.
+TEXT_JOBSCH600_01676_SURITOCARITO_000_077	Reuní los restos del voidsent. Con una investigación cuidadosa, deberían revelarme los secretos que necesito para curar a mi pueblo.
+TEXT_JOBSCH600_01676_SURITOCARITO_000_078	No soy tan ingenuo como para creer que las respuestas llegarán pronto. Pero algún día la cura será nuestra.
+TEXT_JOBSCH600_01676_SURITOCARITO_000_079	Por ahora, mi pueblo trabajará para que podamos caminar junto al suyo hacia un amanecer más brillante. Quiero ver un futuro en que seamos parte del reino, no rechazados por él.
+TEXT_JOBSCH600_01676_SURITOCARITO_000_080	Gracias, amig<if(gnum4,a,o)>. Lily eligió muy sabiamente al elegirte a ti.
+TEXT_JOBSCH600_01676_SURITOCARITO_000_081	Permíteme transmitirte una de las habilidades más poderosas de Nym: Dissipation. Es un hechizo secreto reservado a los scholars que se ganaron la plena confianza de sus hadas compañeras. Úsalo con cuidado.
+TEXT_JOBSCH600_01676_SURITOCARITO_000_082	Ahora debo volver con mi pueblo, y tú con el tuyo. Que te vaya bien, ¡y que nuestros esfuerzos hagan del mañana un día más brillante!
+TEXT_JOBSCH600_01676_SYSTEM_000_500	Aquí terminan las misiones de scholar de FINAL FANTASY XIV: Heavensward. Para empezar la siguiente serie de misiones, primero tienes que cumplir estos requisitos:
+TEXT_JOBSCH600_01676_SYSTEM_000_501	※Haber completado la misión de la historia principal "The Far Edge of Fate".
+TEXT_JOBSCH600_01676_SYSTEM_000_502	Cuando lo hagas, la siguiente misión de scholar estará disponible con Alka Zolka.
+TEXT_JOBSCH600_01676_QIB_001_TODO_1	¡Encuentra al voidsent!
+TEXT_JOBSCH600_01676_QIB_001_TODO_COUNT	Rastros aetherial detectados
+TEXT_JOBSCH600_01676_QIB_001_TODO_2	¡Evita la Nymian Plague y mata al voidsent!
+TEXT_JOBSCH600_01676_ALKAZOLKA_000_011	deleted

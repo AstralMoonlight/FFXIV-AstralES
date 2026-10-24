@@ -1,0 +1,135 @@
+key	text
+TEXT_LUCKBC009_03218_SEQ_00	Alka Zolka parece a punto de salir hacia algún lado.
+TEXT_LUCKBC009_03218_SEQ_01	Hablas con Alka Zolka, que se alegra de volver a verte. Te invita a acompañarlo a una sesión de entrenamiento en La Noscea alta, donde se reunirá con Surito Carito, y aceptas, pues nunca se saben demasiadas tácticas marciales.
+TEXT_LUCKBC009_03218_SEQ_02	Tú y Alka Zolka encuentran a Surito Carito cerca del Wanderer's Palace, donde poco después se les une Setoto. Pero el plan de entrenar estratagemas de los marinos nymianos queda de lado en cuanto cuentas tus experiencias en el First. La historia de cómo Lamitt curó el mal de piedra le llama especialmente la atención a Surito Carito, que exclama que se le ocurre cómo aplicar los mismos principios para curar la plaga nymiana. Claro que no conviene descuidar ningún camino que pueda llevar a una cura, así que los otros tres se ofrecen de inmediato a poner a prueba su teoría.
+TEXT_LUCKBC009_03218_SEQ_03	Viajas al South Shroud y consigues sin mucho problema la raíz que te encargó Surito Carito. Como tu encargo fue el que te llevó más lejos de La Noscea alta, es razonable suponer que los demás habrán terminado su parte de los preparativos antes de que vuelvas.
+TEXT_LUCKBC009_03218_SEQ_04	Por desgracia, no eres <if(gnum4,la última,el último)> en volver al Wanderer's Palace: resulta que a Alka Zolka lo retrasó otro encuentro con cierto goldsmith famoso. Aunque ya están todos los materiales necesarios, queda un paso más: probar el compuesto experimental. Surito Carito plantea que, en el improbable caso de que haya calculado mal, tomar el brebaje podría causar una transformación irreversible en un monstruo sin mente. Dada la gravedad del peligro, se ofrece él mismo como sujeto de prueba; pero Setoto señala que sin él el resto de los tonberries tiene pocas esperanzas de encontrar una cura. Sugiere que prueben el compuesto en ella, pero Alka Zolka se niega rotundamente a considerarlo. Los dos se alteran cada vez más, y al final Setoto se va para estar a solas con sus pensamientos.
+TEXT_LUCKBC009_03218_SEQ_05	Hablas con Alka Zolka, que de verdad no parece entender por qué a Setoto no le gustan sus objeciones. Tras mandarlo a despejarse, Surito Carito te confía en privado que le preocupa que Setoto se ofrezca como sujeto de prueba más por su amor a Alka Zolka y su deseo de ser una chica normal que por la lógica que planteó. Te ruega que la busques y averigües si de verdad pensó bien su decisión.
+TEXT_LUCKBC009_03218_SEQ_06	Cuando hablas con Setoto, admite estar enamorada de Alka Zolka, pero insiste en que no es la razón principal por la que se ofrece a probar la cura. Más bien, sus experiencias le hicieron ver con claridad el sufrimiento que siempre padecen los tonberries, y está decidida a ayudar a sus compatriotas - algo para lo que su cuerpo es especialmente apto, pues fue de las más jóvenes y de las últimas en contagiarse.
+TEXT_LUCKBC009_03218_SEQ_07	De vuelta en el Wanderer's Palace, Setoto reafirma su compromiso de someterse al experimento. Esta vez, a Surito Carito lo convence su lógica, y a Alka Zolka sus palabras sinceras. Así empieza la prueba: Setoto bebe el brebaje para desestabilizar su propio aether, Alka Zolka sostiene en alto el foco de Amdapor, y tú y tu hada canalizan juntos todo el aether curativo que pueden. Aunque la experiencia parece dolorosísima, Setoto aguanta el dolor, y al final tienes delante a una Lalafell, sin rastro de verde.
+TEXT_LUCKBC009_03218_SEQ_08	Hablas con Alka Zolka, encantado de que la cura funcionara. Divaga sobre lo admirables que son Surito Carito, tú y sobre todo Setoto, y luego sale corriendo a seguir entrenando, al parecer presa de la inspiración.
+TEXT_LUCKBC009_03218_SEQ_09	Setoto comenta con cariño la partida repentina de Alka Zolka, y te asegura que algún día encontrará la forma de decirle lo que siente, aunque no tiene apuro. Por fin tiene un futuro de verdad por delante, con tiempo de sobra para vivir, amar y perseguir su sueño de ser scholar.
+TEXT_LUCKBC009_03218_SEQ_10	Surito Carito también está feliz con el éxito del experimento. Promete seguir investigando, y confía en que, con el tiempo, podrá curar a muchas más víctimas de la plaga nymiana con los mismos métodos que probaron con Setoto. Quizá alguna mañana no muy lejana el sol salga y vea a todos los tonberries de vuelta a ser quienes eran...
+TEXT_LUCKBC009_03218_TODO_00	Habla con Surito Carito afuera del Wanderer's Palace.
+TEXT_LUCKBC009_03218_TODO_01	Inspecciona el lugar indicado y mata a un verdant treant para conseguir su raíz.
+TEXT_LUCKBC009_03218_TODO_02	Entrégale la revival root a Surito Carito en el Wanderer's Palace.
+TEXT_LUCKBC009_03218_TODO_03	Habla con Alka Zolka.
+TEXT_LUCKBC009_03218_TODO_04	Habla con Setoto en Long Climb.
+TEXT_LUCKBC009_03218_TODO_05	Habla con Surito Carito en el Wanderer's Palace.
+TEXT_LUCKBC009_03218_TODO_06	Habla con Alka Zolka.
+TEXT_LUCKBC009_03218_TODO_07	Habla con Setoto.
+TEXT_LUCKBC009_03218_TODO_08	Habla con Surito Carito.
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_000	¡Pero si es <split(<string(gstr1)>, ,1)> en persona! Hacía bastante tiempo, ¿no?
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_001	R'ashaht me cuenta todas las historias de tus hazañas que le llegan, y debo decir que siempre me inspiran a buscar mayores alturas marciales y tácticas.
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_002	Por eso aprovecho cada oportunidad de pulir mis habilidades, ya sea trabajando o estudiando. De hecho, en un rato tengo una cita con Surito Carito para repasar estratagemas de los marinos para proteger caminos y senderos. ¿Quieres acompañarme?
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_003	¡Excelente! Será un placer volver a entrenar a tu lado. Nos vemos en Camp Bronze Lake: Surito Carito nos espera ahí.
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_010	Es como en los viejos tiempos, ¿no?
+TEXT_LUCKBC009_03218_SURITOCARITO_000_030	¡Vaya, qué grata sorpresa! No sabía que nos acompañarías hoy.
+TEXT_LUCKBC009_03218_SETOTO_000_031	Cielos, ¿es <split(<string(gstr1)>, ,1)> a quien veo?
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_032	¡Setoto! ¡Qué gusto verte! ¿También vienes a los ejercicios?
+TEXT_LUCKBC009_03218_SETOTO_000_033	Claro. Puede que haya empezado mis estudios hace más de un milenio, pero sigo siendo una estudiante con mucho que aprender.
+TEXT_LUCKBC009_03218_SETOTO_000_034	Aunque me limita un poco el pequeño detalle de no poder invocar un hada mientras siga atrapada en esta forma grotesca...
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_035	No tienes nada de grotesca, mi señora. Y estoy seguro de que hay alguna forma de que vuelvas a llamar a un hada: solo tenemos que encontrar cómo despertar el espíritu de Royal Marine que llevas dentro. ¡Come hells or high water!
+TEXT_LUCKBC009_03218_SETOTO_000_036	Yo... Esperemos que tengas razón.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_037	No dudes que la tiene. Pero primero, ya que esta oportunidad es tan rara, ¿puedo sugerir que empecemos por pedirle a <split(<string(gstr1)>, ,1)> que nos cuente sus aventuras recientes? Hay mucho que podemos aprender de ellas.
+TEXT_LUCKBC009_03218_Q1_000_000	¿De qué hablas?
+TEXT_LUCKBC009_03218_A1_000_000	El crecimiento de Giott.
+TEXT_LUCKBC009_03218_A2_000_000	El viaje de Lamitt.
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_040	\<sollozo> Lamitt, ella... Y luego Giott... \<sollozo> Estoy tan orgulloso de ellas...
+TEXT_LUCKBC009_03218_SETOTO_000_041	Lamitt, decidida a salvar a su hermana costara lo que costara... Me recuerda a mi padre.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_042	Me cuesta creer que viajaste a otro mundo. Si fuera cualquier otra persona, dudaría de sus palabras, pero a ti solo puedo envidiarte. Debiste de aprender mucho sobre la naturaleza de nuestra propia estrella.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_043	La idea del mal de piedra me fascina. Muy contagioso, transforma el cuerpo... No puedo evitar ver paralelos con la plaga nymiana.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_044	¿Qué pudiste averiguar de la magia que usaron para curarlo?
+TEXT_LUCKBC009_03218_SURITOCARITO_000_045	Hmm... Quizá aplicar una alta concentración de aether... ¿pero cómo? ¿Podrían servir los cristales para amplificarla? Suponiendo que sí...
+TEXT_LUCKBC009_03218_SURITOCARITO_000_046	¡Podría funcionar! Las similitudes del mal de piedra con nuestra propia dolencia... esto bien podría ser la clave para curar la plaga nymiana.
+TEXT_LUCKBC009_03218_SETOTO_000_047	¿Quieres decir que mi cuerpo... y mi capacidad de lanzar magia curativa podrían recuperarse?
+TEXT_LUCKBC009_03218_SURITOCARITO_000_048	Exacto. Claro que será un proceso complejo, de ensayo y error, pero supongo que de todos modos te interesa, ¿no?
+TEXT_LUCKBC009_03218_SURITOCARITO_000_049	Muy bien. Con su ayuda el proceso irá mucho más rápido.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_050	Setoto, quiero que me ayudes a preparar el compuesto experimental.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_051	Vamos a necesitar instrumentos que permitan mucha precisión. Alka Zolka, tienes que consultar a un goldsmith experto para conseguir los materiales adecuados.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_052	Creo que también nos sirve la revival root, aunque no conozco mejor fuente que los viejos treants de Snakemolt. Sé que queda bastante lejos, pero ¿puedo confiarte esta tarea?
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_053	¡Un reto digno de los Royal Marines, y estaremos a la altura!
+TEXT_LUCKBC009_03218_SETOTO_000_070	Es lo más parecido a la esperanza que he sentido en mucho tiempo.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_073	...aunque la concentración tiene que superar todo lo que hemos- Ah, <split(<string(gstr1)>, ,1)>. Sí, pensándolo bien, estoy seguro de que necesito esa raíz. Cuanto más grande el corte, mejor.
+TEXT_LUCKBC009_03218_SURITOCARITO_100_120	¿Pudiste conseguir la raíz?
+TEXT_LUCKBC009_03218_SURITOCARITO_000_120	Gracias. Espero que sea lo bastante potente. Ahora solo falta esperar a que vuelva Alka Zolka, y...
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_121	Perdón, acabo de escaparme... Conozco a un goldsmith de cierta fama, y aceptó hacer los instrumentos a cambio de que lo masajeara con aceite de salamandra. Otra vez.
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_122	Pero el material en sí debería ser más que adecuado.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_123	Ah. Están un poco aceitosos, pero supongo que se quitará.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_124	Entonces podemos preparar el compuesto cuando queramos. Pero lo que viene después es un problema.
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_125	¿Un problema? ¿En qué sentido?
+TEXT_LUCKBC009_03218_SURITOCARITO_000_126	Aunque confío bastante en mi teoría, el compuesto experimental es eso: experimental. Ya dije que este proceso implicaría ensayo y error.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_127	Como la plaga nymiana no afecta a las bestias, es imposible probarlo en otro que no sea un tonberry. Y como tomarlo alterará el equilibrio aetherial del cuerpo, es posible que el sujeto termine peor que antes.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_128	Naturalmente, no pienso imponerle ese destino a ninguno de mis hermanos. Así que, si yo quedara deformado sin remedio como resultado... la tarea de destruirme les tocará a ustedes.
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_129	¡No puede creer en serio que aceptaríamos eso!
+TEXT_LUCKBC009_03218_SETOTO_000_130	...¿Y si lo prueban en mí?
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_131	¡De ninguna manera! Ya oíste lo que dijo: ¡el sujeto de prueba podría convertirse en un monstruo!
+TEXT_LUCKBC009_03218_SETOTO_000_132	Estoy dispuesta a correr el riesgo.
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_133	¡Pues yo no estoy dispuesto a dejarte!
+TEXT_LUCKBC009_03218_SETOTO_000_134	¿Entonces prefieres que lo haga Surito Carito? Si la prueba falla y él se convierte en una especie de abominación, ¿quién quedaría para seguir investigando la cura? Lo lógico es que yo sea el sujeto.
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_135	¿Y se supone que debo aceptarlo?
+TEXT_LUCKBC009_03218_SETOTO_000_136	¡No te toca a ti decidirlo!
+TEXT_LUCKBC009_03218_SURITOCARITO_000_137	Por favor, cálmense. De todos modos, la mezcla llevará un tiempo de preparar. Podemos hablarlo más tarde, cuando todos hayamos tenido oportunidad de pensar.
+TEXT_LUCKBC009_03218_SETOTO_000_138	Bien. Si no les importa, pensaré en otra parte.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_145	Esperaba que todos estuvieran de acuerdo, pero supongo que la vida rara vez es tan sencilla.
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_160	No lo entiendo... ¡Solo intento evitar que se ponga en peligro!
+TEXT_LUCKBC009_03218_SURITOCARITO_000_161	...Creo que a ti también te vendría bien un respiro. ¿Quizá un poco de ejercicio?
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_162	Si usted insiste.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_163	\<suspiro> Esto sería muchísimo más fácil si fueran sinceros el uno con el otro.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_164	Como sin duda sabes, Setoto está muy enamorada de Alka Zolka. Pero parece... reacia a hacer algo al respecto, dado su estado actual.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_165	Aunque planteó un punto importante, no quiero que se ofrezca si su objetivo principal es quitar ese obstáculo. Si Alka Zolka se viera obligado a matarla, y después supiera por qué lo hizo... Ni pensarlo.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_166	¿Podrías ir a hablar con ella? Supongo que estará echando humo en algún lugar de La Noscea exterior. Suele ponerse a vagar cuando está alterada.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_180	Si lograras que Setoto te dijera lo que de verdad siente, estaría en mejor posición para decidir si de verdad puedo pedirles esto a los dos.
+TEXT_LUCKBC009_03218_SETOTO_000_200	Yo... te pido disculpas por cómo me porté hace un rato.
+TEXT_LUCKBC009_03218_SETOTO_000_201	Pero no pienso cambiar de opinión. Mi lógica es sólida.
+TEXT_LUCKBC009_03218_Q1_000_100	¿Qué vas a decir?
+TEXT_LUCKBC009_03218_A1_000_100	Lo es. ¿Pero son esas las verdaderas razones por las que te ofreciste?
+TEXT_LUCKBC009_03218_A2_000_100	¿Lo es? El amor nos hace hacer tonterías...
+TEXT_LUCKBC009_03218_SETOTO_000_210	¿Si son...? Ah. Ya veo.
+TEXT_LUCKBC009_03218_SETOTO_000_215	...¿Tan obvio es?
+TEXT_LUCKBC009_03218_SETOTO_000_220	Ya que llegamos a esto: sí, estoy enamorada de Alka Zolka.
+TEXT_LUCKBC009_03218_SETOTO_000_221	Y quizá, si las cosas fueran distintas, me bastaría con eso. Si pudiéramos caminar de la mano sin llamar la atención de cada aspirante a héroe en diez malms a la redonda. Si mis compatriotas fueran igual de libres para buscar su propia felicidad.
+TEXT_LUCKBC009_03218_SETOTO_000_222	Pero tal como están las cosas, que insista en protegerme por encima de todo... me molesta.
+TEXT_LUCKBC009_03218_SETOTO_000_223	No soy tonta. Sé que otros, Alka Zolka incluido, son más fuertes que yo, y no soy tan orgullosa como para rechazar ayuda por principio.
+TEXT_LUCKBC009_03218_SETOTO_000_224	Pero no basta con vivir protegida de todo daño. Quiero... <italic(1)>siempre<italic(0)> quise ayudar a la gente. Ahora más que nunca, sabiendo en carne propia el precio terrible que esta plaga nos cobra a todos.
+TEXT_LUCKBC009_03218_SETOTO_000_225	No son solo mis propios deseos los que me hacen tan terca: la verdad es que no hay un sujeto más adecuado para probar la cura. No había cumplido ni veinte veranos cuando me contagié, así que si tiene efectos inesperados, mi cuerpo es el que mejor podrá soportarlos.
+TEXT_LUCKBC009_03218_SETOTO_000_226	Además, fui de las últimas en caer por la plaga antes de que entráramos en nuestro largo sueño, así que mi enfermedad está menos avanzada. Si esta posible cura da resultados, se verán en mí más rápido que en nadie.
+TEXT_LUCKBC009_03218_SETOTO_000_227	Mentiría si dijera que no me asusta la idea de que falle. Pero... si hay un medio de salvar a mi pueblo del sufrimiento, no puedo ignorarlo. Seguiste el camino del scholar... lo entiendes, ¿verdad?
+TEXT_LUCKBC009_03218_Q1_000_200	¿Qué vas a decir?
+TEXT_LUCKBC009_03218_A1_000_200	Tus argumentos convencen.
+TEXT_LUCKBC009_03218_A2_000_200	Sí, creo que conozco ese sentimiento.
+TEXT_LUCKBC009_03218_SETOTO_000_230	Gracias. Creo que hablarlo contigo me ayudó a aclarar la cabeza. Estoy lista para hablar con los demás.
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_240	\<jadeo> \<jadeo> ¡Listo! Yo... \<jadeo> ...¡terminé el régimen de entrenamiento de... \<jadeo> ...mil pasos del Sargento Tolga!
+TEXT_LUCKBC009_03218_SURITOCARITO_000_250	Ah, volvieron. ¿Cómo te sientes?
+TEXT_LUCKBC009_03218_SETOTO_000_251	Más segura que nunca. Tiene que probar la cura en mí.
+TEXT_LUCKBC009_03218_SETOTO_000_252	Alka, por favor. No tomo esta decisión a la ligera ni con prisa. A decir verdad, estoy aterrada.
+TEXT_LUCKBC009_03218_SETOTO_000_253	Pero <italic(1)>necesito<italic(0)> hacerlo. <split(<string(gstr1)>, ,1)> estuvo de acuerdo: tengo que ser yo.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_254	Hmm... Sí, debo admitir que tu razonamiento es sólido.
+TEXT_LUCKBC009_03218_SETOTO_000_255	Te agradezco que te preocupes por mí, Alka. Significa más de lo que imaginas. Pero este es mi deber: mi batalla.
+TEXT_LUCKBC009_03218_SETOTO_000_256	Puedes confiar en que enfrentaré a este enemigo con todo lo que tengo: juro no abandonar el campo hasta el final. Pero si llega el momento en que ya no sea yo misma... necesito saber que mi destino está en buenas manos. En <italic(1)>tus<italic(0)> manos.
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_257	Como quieras. Estaré a tu lado, como lo estaría cualquier marino de verdad. Pero que sepas que espero que te alces con la victoria, come hells or high water.
+TEXT_LUCKBC009_03218_SETOTO_000_258	Lo haré. Gracias, Alka.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_259	Muy bien. Si los dos están decididos, respetaré la decisión de Setoto.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_260	Pero antes de empezar, debo explicarles cómo va a funcionar el proceso.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_261	Primero, Setoto tomará el compuesto que preparé. Debería desestabilizar la composición aetherial de su cuerpo. Una vez que lo haga, Alka Zolka, tú tienes que estar listo con esto, la gema que trajimos de Amdapor. Servirá de foco.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_262	<split(<string(gstr1)>, ,1)> y Lily canalizarán su magia curativa a través del foco, que la amplificará. En teoría, exponer a Setoto a suficiente aether curativo hará que su propio aether se sintonice con él y se corrija solo.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_100	Si a todos les queda claro lo que hay que hacer, ¡empecemos!
+TEXT_LUCKBC009_03218_SETOTO_000_101	Ay... Ay, quema. ¡Quema!
+TEXT_LUCKBC009_03218_SURITOCARITO_000_102	¡<split(<string(gstr1)>, ,1)>, Lily, ahora!
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_103	¡Resiste, Setoto!
+TEXT_LUCKBC009_03218_SETOTO_000_104	¡AAAAAH! \<jadeo> Ah...
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_105	Eres de verdad radiante, Setoto. Por dentro y por fuera.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_300	Estaba casi seguro de que funcionaría, pero ver el resultado es otra cosa. Apenas puedo creer lo que ven mis ojos...
+TEXT_LUCKBC009_03218_SETOTO_000_305	¡Siento la brisa en la piel! Ay, es <italic(1)>maravilloso<italic(0)>.
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_310	¡Pensar que, después de tanto tiempo y tanta investigación sin fin, tenemos una cura para la plaga nymiana! Que Surito Carito haya logrado crear algo así ya es notable, pero verlo funcionar...
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_311	Sin la habilidad de scholar de <split(<string(gstr1)>, ,1)>, nunca habría sido posible. ¡Y Setoto! Tu bondad, tu convicción, tu fuerza de espíritu...
+TEXT_LUCKBC009_03218_ALKAZOLKA_000_312	¡Me inspira a entrenar con más fervor todavía!
+TEXT_LUCKBC009_03218_SETOTO_000_320	Es tan típico de él.
+TEXT_LUCKBC009_03218_SETOTO_000_321	Y seguro que sigue sin darse cuenta de lo que siento.
+TEXT_LUCKBC009_03218_SETOTO_000_322	Pero está bien. Nunca esperé de verdad tener otra oportunidad de vivir la vida que alguna vez imaginé para mí, y ahora que la tengo, pienso disfrutarla. No hay por qué apurarse con las mejores partes.
+TEXT_LUCKBC009_03218_SETOTO_000_323	Lo mismo vale para mi vocación. Pienso volver a aprender las artes del scholar, empezando por lo básico. Y con mi equilibrio aetherial restablecido, debería poder invocar a Lilac como se debe. Algún día seremos la salvación de los necesitados, lo juro.
+TEXT_LUCKBC009_03218_SETOTO_000_324	Pero por ahora tengo mucho que entrenar si quiero estar a la altura de los Royal Marines. Así que... ¡me voy a buscar a Alka!
+TEXT_LUCKBC009_03218_SURITOCARITO_000_340	Después de trabajar tanto tiempo sin resultados, ver por fin la cura hecha realidad... Me quedo sin palabras.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_341	Claro que tendré que vigilar el estado de Setoto por un tiempo, por si hay efectos adversos que no se vean enseguida. Pero esto es un avance. Un avance asombroso hacia el día en que veamos a todos los tonberries de vuelta a ser quienes eran.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_342	Mientras tanto... aunque son inexpertos en asuntos del corazón, no tienes que preocuparte demasiado por esos dos. Confío en que lo resolverán a su tiempo.
+TEXT_LUCKBC009_03218_SURITOCARITO_000_343	Que te vaya bien, en los mundos adonde te lleven tus viajes, y gracias.

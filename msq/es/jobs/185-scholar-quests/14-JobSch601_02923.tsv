@@ -1,0 +1,63 @@
+key	text
+TEXT_JOBSCH601_02923_SEQ_00	Alka Zolka se alegra de verte.
+TEXT_JOBSCH601_02923_SEQ_01	Alka Zolka recibió una carta de Surito Carito en la que les pide que vayan a verlo de inmediato. Aunque no explica por qué, parece urgentísimo. Ve a La Noscea alta para averiguar qué pasa en el Wanderer's Palace.
+TEXT_JOBSCH601_02923_SEQ_02	Surito Carito revela que su estudio del cadáver del voidsent invisible le dio una casi cura capaz de frenar el avance de la plaga nymiana. Aunque es un descubrimiento milagroso, aclara que los llamó porque uno de sus ayudantes de investigación, Setoto, desapareció. Temiendo que le pase algo a su amigo si se aleja demasiado, te pide que encuentres al tonberry y lo traigas de vuelta. Alka cree que es posible que hayan puesto a Setoto en las listas de la Hunt, y sugiere empezar la búsqueda en el Maelstrom Command.
+TEXT_JOBSCH601_02923_SEQ_03	El encargado de la Hunt te informa que el único tonberry registrado en la Hunt por ahora es uno llamado Marberry. Poco después aparece R'ashaht con noticias interesantes. La comandante Miqo'te les cuenta que en Vesper Bay corren rumores de un polizón de aspecto extraño que salió corriendo de un ferry en cuanto tocó tierra. Quien - o lo que - fuera, lo describen como de baja estatura, como un Lalafell, pero de rasgos exóticos. Quizá este pasajero misterioso sea tu tonberry perdido, y te convendría investigar más el asunto.
+TEXT_JOBSCH601_02923_SEQ_04	Tú y Alka se acercan a un marinero que parece ser de la tripulación del barco que mencionó R'ashaht. El hombre confirma haber visto al polizón, que describe como una especie de bestia rara o un goblin sin máscara. Les asegura que, fuera lo que fuera, los Brass Blades lo están buscando. Mientras Alka se desvía a Ul'dah para ver qué más puede averiguar del incidente por medio de sus contactos, te pide que le informes a Surito Carito de todo lo que pasó.
+TEXT_JOBSCH601_02923_SEQ_05	Surito Carito opina que, si Setoto está en Aldenard, será casi imposible encontrarlo. Cree que es mejor esperar a tener más noticias sobre adónde pudo ir el tonberry antes de hacer nada. Descansa mientras puedas, porque en cuanto les llegue a ti y a Alka Zolka algún indicio del paradero de Setoto, tendrán que correr a encontrar al tonberry, y quizá a rescatarlo.<br><br>※La siguiente misión de scholar estará disponible con Surito Carito al llegar al nivel 63.
+TEXT_JOBSCH601_02923_TODO_00	Habla con Surito Carito cerca del Wanderer's Palace.
+TEXT_JOBSCH601_02923_TODO_01	Habla con el encargado de la Hunt del Maelstrom Command.
+TEXT_JOBSCH601_02923_TODO_02	Reúnete con Alka Zolka en Vesper Bay.
+TEXT_JOBSCH601_02923_TODO_03	Informa a Surito Carito cerca del Wanderer's Palace.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_001	<split(<string(gstr1)>, ,1)>, que llegues justo en este instante... es como si los mismos dioses te hubieran enviado.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_002	Hace ni un cuarto de campanada recibí una carta de Surito Carito. Surgió una emergencia en el Wanderer's Palace, y pide que vayamos de inmediato.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_003	Aunque no sabemos bien de qué se trata, no podemos ignorar su llamado.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_004	Nos espera en el lugar de siempre. ¡Vamos, amig<if(gnum4,a,o)>, no hay tiempo que perder!
+TEXT_JOBSCH601_02923_SURITOCARITO_000_010	Alka Zolka, <split(<string(gstr1)>, ,1)>. Gracias a los dos por responder tan rápido a mi llamado.
+TEXT_JOBSCH601_02923_SURITOCARITO_000_011	Perdonen la brusquedad, pero creo que es mejor ir directo al grano. ¿Supongo que los dos recuerdan al voidsent invisible que derrotamos hace poco?
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_012	Cómo olvidar a una criatura tan vil.
+TEXT_JOBSCH601_02923_SURITOCARITO_000_013	Pues les alegrará saber que terminé de estudiar sus restos y creo que tengo una cura al alcance de la mano.
+TEXT_JOBSCH601_02923_SURITOCARITO_000_014	Ah, pero quizá "cura" sea exagerar un poco. Lo que digo solo detendrá el avance de la enfermedad, no revertirá todos sus efectos en nuestros cuerpos.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_015	¡Surito Carito, es usted demasiado modesto! De verdad, lo que cuenta es increíble... un milagro, incluso.
+TEXT_JOBSCH601_02923_SURITOCARITO_000_016	Por desgracia, no los llamé hoy para que me alaben por mis avances. Verán, Setoto, uno de mis compañeros que me ayuda con mis experimentos, desapareció misteriosamente.
+TEXT_JOBSCH601_02923_SURITOCARITO_000_017	Estoy terriblemente preocupado. Aunque el rencor ya se apagó en casi todos nuestros corazones, todavía tenemos forma de tonberry. Si nos alejamos demasiado de nuestro hogar, más de una organización estaría encantada de mandar a cazarnos.
+TEXT_JOBSCH601_02923_SURITOCARITO_000_018	Por eso les pido a ustedes, mis dos aliados de mayor confianza, que encuentren a Setoto y lo traigan de vuelta al Wanderer's Palace antes de que sea tarde.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_019	Claro que lo haremos. ¡No podemos ignorar el ruego de uno de los scholars más eminentes de Nym!
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_020	<split(<string(gstr1)>, ,1)>, tengo una idea de por dónde empezar. Preguntemos en las Grand Companies si le pusieron precio a la cabeza de Setoto.
+TEXT_JOBSCH601_02923_SURITOCARITO_000_021	¿Precio? \<suspiro> Esperemos que no se haya llegado a eso...
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_022	El Maelstrom Command está en Limsa Lominsa. Ahí podemos preguntarle al encargado de la Hunt si registraron algún tonberry hace poco.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_025	Lo hemos hecho un millón de veces, y aun así algo de hoy me tiene muy inquieto. Por favor, vamos rápido a ver qué tiene que decir Surito Carito.
+TEXT_JOBSCH601_02923_HUNTBILLMASTER_000_030	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, señor. ¿En qué puedo servirle hoy?
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_031	Buscamos salvar... eh... <italic(1)>matar<italic(0)> a un tonberry.
+TEXT_JOBSCH601_02923_HUNTBILLMASTER_000_032	¿Un tonberry, eh? Por ahora solo tenemos un tonberry marcado para la Hunt, llamado Marberry.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_033	¿Marberry? Si mal no recuerdo, lo marcaron para la Hunt antes de que Setoto desapareciera. Es poco probable que los hayan confundido. Parece que tendremos que buscar en otra parte.
+TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_034	<if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)> de los Scions,<split(<string(gstr1)>, ,1)> de los Scions)>)>, Alka. No sabía que ustedes dos se conocían.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_035	¡R'ashaht! Qué gusto verte otra vez. Creo que el otro día olvidé decírtelo, pero te agradezco muchísimo tu ayuda con mi entrenamiento.
+TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_036	Sabes que siempre ayudo con gusto. Pero supongo que no vinieron hasta aquí para darme las gracias. ¿Qué los trae por aquí?
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_037	Buscamos a un tonberry que se escapó y pensamos que quizá lo habían marcado para la Hunt.
+TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_038	¿Un tonberry, dices?
+TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_039	No te prometo que tenga que ver, pero hace unos días hubo un alboroto en Vesper Bay. Descubrieron a un polizón escondido en uno de los ferries.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_040	¿En serio?
+TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_041	Los testigos dicen que una pequeña mancha verde saltó de entre las cajas y desapareció corriendo en cuanto el barco llegó a puerto.
+TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_042	Aunque tenía el tamaño y la complexión de un Lalafell o un Qiqirn, dicen que se veía demasiado extraño para ser cualquiera de los dos.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_043	Hm... Gracias, R'ashaht. ¡Parece que acabas de darnos nuestra primera pista!
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_044	¡<split(<string(gstr1)>, ,1)>, sígueme! Vamos a Vesper Bay a toda prisa.
+TEXT_JOBSCH601_02923_SURITOCARITO_000_045	Temo por la seguridad de nuestro amigo. Por favor, <split(<string(gstr1)>, ,1)>, haz lo que haga falta para encontrar a Setoto y traerlo de vuelta al Wanderer's Palace antes de que sea tarde.
+TEXT_JOBSCH601_02923_ALKAZOLKA_100_050	Ah, qué bien. Por un momento creí que te había perdido. Empecemos por interrogar a este hombre: parece ser de los del ferry que nos mencionó R'ashaht.
+TEXT_JOBSCH601_02923_DARKSAILOR02923_000_050	¿Me preguntas si vi al polizón? Sí. Claro que lo vi.
+TEXT_JOBSCH601_02923_DARKSAILOR02923_000_051	Y no era un polizón cualquiera el que subió a nuestro barco. No, señor. Sospecho que era uno de esos tipos... un goblin... sin su máscara. Eso, o una bestia rara de esas que no se encuentran por estos lados. No es que importe, ojo.
+TEXT_JOBSCH601_02923_DARKSAILOR02923_000_052	Fuera lo que fuera, los Brass Blades lo están buscando, y puedes estar seguro de que lo van a atrapar.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_053	Ya veo. Muchas gracias por su ayuda, señor.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_054	Si una organización tan grande todavía no encuentra al polizón, tenemos pocas posibilidades de lograrlo nosotros.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_055	En lugar de correr de un lado a otro a ciegas, nos conviene más reunir toda la información que podamos sobre el incidente. Iré a hablar con mis conocidos en Ul'dah. Mientras tanto, te pido que vuelvas con Surito Carito y le cuentes todo lo que averiguamos.
+TEXT_JOBSCH601_02923_DARKSAILOR02923_100_060	¿Qué demonios era esa cosa? Nunca vi nada parecido.
+TEXT_JOBSCH601_02923_SURITOCARITO_000_070	<split(<string(gstr1)>, ,1)>, solo espero que tu rápido regreso signifique que traes buenas noticias.
+TEXT_JOBSCH601_02923_SURITOCARITO_000_071	...¡¿Que cruzó el mar y que lo más probable es que ahora esté en Thanalan?! ¿Qué pudo llevar a nuestro amigo a hacer algo así?
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_072	Surito Carito, perdone la tardanza.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_073	Me desvié un poco a Ul'dah para hablar con mis conocidos. Por desgracia, no pudieron decirme nada aparte de que los Brass Blades investigan quién podría ser el polizón. Aun así, les pedí que estén atentos y me avisen si se enteran de algo más.
+TEXT_JOBSCH601_02923_SURITOCARITO_000_074	Gracias, Alka Zolka. \<suspiro> Si, como sospechas, nuestro amigo huyó al vasto continente de Aldenard, no tiene mucho sentido seguir buscando.
+TEXT_JOBSCH601_02923_SURITOCARITO_000_075	Si los Brass Blades no logran encontrar a su presa, por ahora no tenemos que preocuparnos de que la Hunt ni ninguna otra institución atrape a Setoto. Lo mejor es esperar hasta saber más.
+TEXT_JOBSCH601_02923_ALKAZOLKA_000_076	Estoy de acuerdo. Si me entero de algo nuevo, se lo haré saber de inmediato.
+TEXT_JOBSCH601_02923_SURITOCARITO_000_077	Es muy posible que esta búsqueda se vuelva un esfuerzo a largo plazo. <split(<string(gstr1)>, ,1)>, te sugiero que descanses mientras puedas.
+TEXT_JOBSCH601_02923_SYSTEM_000_078	La siguiente misión de scholar estará disponible con Surito Carito al llegar al nivel 63.
+TEXT_JOBSCH601_02923_SYSTEM_000_079	Puedes revisar en el journal los requisitos para empezar las siguientes misiones.

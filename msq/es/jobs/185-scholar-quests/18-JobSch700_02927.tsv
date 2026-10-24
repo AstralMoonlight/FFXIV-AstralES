@@ -1,0 +1,90 @@
+key	text
+TEXT_JOBSCH700_02927_SEQ_00	Alka Zolka espera con impaciencia tu llegada.
+TEXT_JOBSCH700_02927_SEQ_01	Alka Zolka te informa que la Order of the Twin Adder le concedió oficialmente a Landenel el permiso para entrar a la ciudad perdida. Te pide que lo acompañes a las puertas, y sale corriendo contigo pisándole los talones.
+TEXT_JOBSCH700_02927_SEQ_02	Esperas a que llegue Landenel, y los tres entran juntos por el portal. Casi enseguida ven al hada fantasma y la persiguen. Desconcertado por sus movimientos, Alka comenta que la esfera de luz morada parece querer guiarlos a algún lugar. Al final se fusiona con Kuribu, una de las estatuas guardianas. Tras derrotar a la amalgama resultante, bajas la vista y ves brillar en el suelo una gema rojo sangre.
+TEXT_JOBSCH700_02927_SEQ_03	Te agachas y guardas rápido la gema roja que cayó de la fusión de Kuribu y el hada. Al darse vuelta, Alka te llama y te pide que te apures a seguirlos a él y a Landenel de vuelta a Camp Tranquil. Todos están ansiosos por ver si Setoto por fin abrió los ojos.
+TEXT_JOBSCH700_02927_SEQ_04	Al llegar a Camp Tranquil, Landenel desaparece y vuelve poco después con Setoto. Alka se alivia al ver que por fin despertó. Setoto les cuenta brevemente un sueño que tuvo con su padre, y eso lleva a Alka a preguntarse otra vez qué pretendía la Lilac a medio manifestar al entrar a la ciudad perdida y, al parecer, guiarlos hasta Kuribu. Luego se vuelve hacia ti y te pregunta qué recogiste justo antes de salir de Amdapor. Le muestras la gema, y Alka, al reconocer su posible valor, te pide que se la lleves a Surito Carito para que la examine.
+TEXT_JOBSCH700_02927_SEQ_05	Según Surito Carito, la gema es el núcleo de cristal de la estatua que derrotaste y contiene una potente magia blanca. Supone que Lilac, una parte de la conciencia del padre de Setoto, la movía el fuerte deseo de ver a Setoto curada de la Green Death. Por eso el hada fantasma los guió por la ciudad perdida para que descubrieran esta gema, que podría contener un remedio para el mal que aflige a los habitantes del Wanderer's Palace.
+TEXT_JOBSCH700_02927_SEQ_06	Convencido de que la gema guarda la clave para curar la Green Death y revivir las artes del scholar, Surito Carito promete empezar a analizarla de inmediato. Te da las gracias, y dice que no se arrepiente de haberte confiado a Lily. Aunque Surito Carito parece haber dicho todo lo que quería, Alka Zolka te mira expectante. Parece que él también tiene algo que decirte.
+TEXT_JOBSCH700_02927_SEQ_07	Alka Zolka está feliz de ver que Setoto volvió a la normalidad, y muy entusiasmado por lo que el futuro les depara a los Royal Marines. Te dice que se siente afortunado de tenerte como amig<if(gnum4,a,o)>, y te sugiere que vuelvan juntos a casa a entrenar.<br><br>※La siguiente misión de scholar estará disponible con Alka Zolka cuando cumplas estos requisitos:<br>※Haber completado la misión de la historia principal "Shadowbringers".<br>※Haber completado la misión de rol "The Soul of Temperance".
+TEXT_JOBSCH700_02927_TODO_00	Habla con Alka Zolka cerca de las puertas de la Lost City of Amdapor.
+TEXT_JOBSCH700_02927_TODO_01	Habla con Alka Zolka cerca de las puertas de la Lost City of Amdapor.
+TEXT_JOBSCH700_02927_TODO_02	Habla con Alka Zolka en Camp Tranquil.
+TEXT_JOBSCH700_02927_TODO_03	Habla con Surito Carito en el Wanderer's Palace.
+TEXT_JOBSCH700_02927_TODO_04	Habla con Surito Carito.
+TEXT_JOBSCH700_02927_TODO_05	Habla con Setoto.
+TEXT_JOBSCH700_02927_TODO_06	Habla con Alka Zolka.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_001	¡<split(<string(gstr1)>, ,1)>, llegaste! Excelente.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_002	Hace apenas un momento, Landenel recibió la autorización necesaria para que entremos a Amdapor.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_003	Además nos acompañará a la ciudad perdida. Dice que, de tanto cuidar a Setoto, le tomó un cariño de hermano y quiere ayudar. Sinceramente, creo que solo tiene ganas de pelear.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_004	Bueno, sean cuales sean sus razones, me alegra contar con su ayuda. Cuantos más combatientes curtidos llevemos, más rápido podremos eliminar al parásito que le chupa el aether a Setoto. Ahora vamos a las puertas, donde nos reuniremos con Landenel.
+TEXT_JOBSCH700_02927_LANDENEL_000_005	No debería faltar mucho para que nos responda la Order of the Twin Adder.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_010	¿Estás list<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_011	Bien. En cuanto llegue Landenel, entramos a la ciudad perdida.
+TEXT_JOBSCH700_02927_LANDENEL_000_015	Supongo que Alka Zolka le contó todo lo que necesita saber, incluido que voy a adentrarme con ustedes en las profundidades de la ciudad perdida. Por favor, vaya para allá. Nos vemos en las puertas.
+TEXT_JOBSCH700_02927_NCUT_ALKAZOLKA_000_000	¿Se... se fue? ¡Jaja! ¡Sí! ¡Lo logramos! ¡Otra victoria para los Royal Marines!
+TEXT_JOBSCH700_02927_NCUT_LANDENEL_000_001	La estatua dejó de moverse, y el miedo que sentía hace un rato empieza a irse. Parece que el hada fantasma ya no...
+TEXT_JOBSCH700_02927_NCUT_ALKAZOLKA_000_002	Sí, lo que significa que es muy probable que el aether de Setoto haya vuelto a ella. ¡Pronto despertará! Volvamos rápido para que vea una cara amiga al despertar.
+TEXT_JOBSCH700_02927_NCUT_ALKAZOLKA_000_003	<split(<string(gstr1)>, ,1)>, ¡¿qué rayos haces?! ¡Vamos, tenemos que volver a Camp Tranquil de inmediato!
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_030	\<jadeo> Esa pelea... \<jadeo> ...me cansó mucho más de lo que creía. \<jadeo> ¿Dónde está Setoto? Y Landenel, ya que estamos...
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_031	¡Setoto, despertaste!
+TEXT_JOBSCH700_02927_SETOTO_000_032	Alka, ¿qué pasa? ¿Estás bien?
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_033	...¿No te acuerdas? Intentaste invocar a Lilac y perdiste el conocimiento. Estuviste dormida todo este tiempo... bueno, hasta que derrotamos al hada que habías llamado.
+TEXT_JOBSCH700_02927_SETOTO_000_034	No... no tenía idea... Lo siento mucho. Nunca quise ponerlos en peligro.
+TEXT_JOBSCH700_02927_SETOTO_000_035	...Mientras dormía, tuve un sueño.
+TEXT_JOBSCH700_02927_SETOTO_000_036	Era sobre mi padre. Cuando llegó la primera ola de la enfermedad, la gente empezó a enfermar uno tras otro. Lo vi correr por las calles con los demás scholars, intentando salvar a todos los que podían.
+TEXT_JOBSCH700_02927_SETOTO_000_037	Entonces la enfermedad me alcanzó a mí. Cuando mi piel empezó a ponerse verde y mis brazos y piernas a encogerse, decidió emprender una misión para conseguir la cura, una que sabía desde el principio que estaba destinada a fracasar.
+TEXT_JOBSCH700_02927_SETOTO_000_038	Fue adonde vivían todos los white mages: la nación enemiga de Amdapor. En un último intento por salvarme, cruzó sus fronteras. Supongo que todos sabemos cómo termina la historia...
+TEXT_JOBSCH700_02927_SETOTO_000_039	\<suspiro> Aunque ya no me quisiera - o incluso me odiara - por lo que me había convertido, no importaría. Solo me gustaría haberlo visto una última vez...
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_040	¡¿Qué dices, Setoto?! Tu padre habría estado encantado de ver a la jovencita deslumbrante en que te convertiste.
+TEXT_JOBSCH700_02927_SETOTO_000_041	Gracias, Alka. Siempre sabes qué decir.
+TEXT_JOBSCH700_02927_SETOTO_000_042	Siempre supe que nunca volvería a sentir el abrazo cariñoso de mi padre, pero pensé que quizá, solo quizá, podría al menos ver a su hada.
+TEXT_JOBSCH700_02927_SETOTO_000_043	Pero por mi deseo egoísta puse a todos en peligro, incluida Lilac. Las palabras no alcanzan para decir cuánto lo siento.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_044	Eso me recuerda... Setoto, ¿tienes idea de por qué a Lilac la atraía tanto la ciudad perdida?
+TEXT_JOBSCH700_02927_LANDENEL_000_045	No tiene que preocuparse por eso, amigo. Lo más probable es que lo que hace un espíritu desbocado no tenga ni pies ni cabeza.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_046	Quizá... pero se movía con intención, casi como si intentara mostrarnos algo. ¿Tienes alguna idea, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBSCH700_02927_CHOICE_Q1_001	¿Qué haces?
+TEXT_JOBSCH700_02927_CHOICE_A1_002	Mostrar la gema.
+TEXT_JOBSCH700_02927_CHOICE_A1_003	Negar con la cabeza.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_050	Eso me recuerda que, después de la batalla, te agachaste como para recoger algo. ¿Encontraste algo interesante?
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_051	¿Una gema? ¡Creo que <italic(1)>esto<italic(0)> es lo que Lilac quería que encontráramos!
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_052	Deberíamos llevársela a Surito Carito para que la examine. Él, más que nadie, sabrá entender su importancia.
+TEXT_JOBSCH700_02927_SETOTO_000_053	¡Ay, casi lo olvido! Señor Landenel, gracias por cuidarme cuando estaba mal.
+TEXT_JOBSCH700_02927_LANDENEL_000_054	No hay de qué. Puede que este mundo esté lleno de hombres y mujeres egoístas, pero no olvides que no todos somos así.
+TEXT_JOBSCH700_02927_LANDENEL_000_055	Si te encuentras con alguien o algo que quiera hacerte daño, ven a buscarme. Cuando lo atraviese con mi lanza, no te molestará más.
+TEXT_JOBSCH700_02927_SETOTO_000_056	Gracias, señor. Así lo haré.
+TEXT_JOBSCH700_02927_LANDENEL_000_060	Vaya con Alka Zolka. Enseguida traigo a la chica tonberry.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_070	Surito Carito, hay algo que queremos que examine.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_071	<split(<string(gstr1)>, ,1)> encontró esta gema en la Lost City of Amdapor. Parecía tener mucha importancia para el hada que invocó Setoto.
+TEXT_JOBSCH700_02927_SURITOCARITO_000_072	¿De veras?
+TEXT_JOBSCH700_02927_SURITOCARITO_000_073	Por los dioses... No puede ser...
+TEXT_JOBSCH700_02927_SURITOCARITO_000_074	E-Esta gema... parece contener magia blanca concentrada. ¡¿Cómo la encontraron?!
+TEXT_JOBSCH700_02927_SURITOCARITO_000_075	Ah... Por lo que me cuentan, solo puedo suponer que es el núcleo de cristal de la estatua guardiana y la fuente de su poder.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_076	¿Es posible, entonces, que <italic(1)>esto<italic(0)> sea lo que el padre de Setoto quería conseguir al infiltrarse en Amdapor?
+TEXT_JOBSCH700_02927_SURITOCARITO_000_077	Es muy probable. Si los nymianos hubieran logrado conseguir y analizar una de estas gemas, podríamos haber encontrado el remedio para muchísimas enfermedades, quizá incluso para la que destruyó nuestras tierras.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_078	Es justo lo que pensaba. Lilac actuaba con intención. Nos guió a la ciudad perdida para que descubriéramos esto...
+TEXT_JOBSCH700_02927_SURITOCARITO_000_079	Normalmente, un hada que no logró manifestarse del todo no es más que una esfera de energía aetherial turbulenta, que su invocador no puede manejar.
+TEXT_JOBSCH700_02927_SURITOCARITO_000_080	Pero Lilac es, en parte, un resto del aether de su padre. Quizá conservó la firme voluntad de él de ver a Setoto a salvo.
+TEXT_JOBSCH700_02927_SETOTO_000_081	Lilac... Padre... Gracias. Gracias por todo.
+TEXT_JOBSCH700_02927_LANDENEL_000_085	Tenía razón, Comandante. De verdad, el deber de los fuertes es proteger a los débiles.
+TEXT_JOBSCH700_02927_SURITOCARITO_000_090	Ustedes dos hicieron todo lo posible por traernos a Setoto sana y salva. No tengo cómo agradecérselo.
+TEXT_JOBSCH700_02927_SURITOCARITO_000_091	Esta gema que trajeron de Amdapor por obra de Lilac sin duda abrirá el camino a una nueva generación de scholars.
+TEXT_JOBSCH700_02927_SURITOCARITO_000_092	Empezaré a analizarla de inmediato. Haré lo que haga falta para descubrir la cura, y así continuar el legado del padre de Setoto.
+TEXT_JOBSCH700_02927_SURITOCARITO_000_093	Y hablando de legados, te convertiste en <if(gnum4,una,un)> scholar excelente, <split(<string(gstr1)>, ,1)>. No puedo evitar sentir orgullo cada vez que te veo.
+TEXT_JOBSCH700_02927_SETOTO_000_094	Por mi deseo egoísta de reencontrarme con mi padre, les causé muchísimos problemas a los dos. Lo siento muchísimo.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_095	Setoto, no hace falta que te disculpes. Tu gratitud eterna es más que suficiente.
+TEXT_JOBSCH700_02927_SETOTO_000_096	¡Jejeje! Gracias, Alka, por todo. Que incluso ahora me trates como a la jovencita que fui... quizá es lo que más me gusta de ti.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_097	Perdona, Setoto. No te oí bien. ¿Podrías...? ¡Setoto! ¿Estás bien? ¡Te estás poniendo roja! ¿Quizá necesitas acostarte a descansar?
+TEXT_JOBSCH700_02927_SETOTO_000_098	¡E-Estoy perfectamente! Aunque... Alka, la próxima vez que los Royal Marines salgan a entrenar, ¿te parece bien que los acompañe?
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_099	¡Claro! Serías una gran incorporación a nuestras filas, mi señora. ¡Al fin y al cabo, eres hija de uno de los Royal Marines de la propia Nym!
+TEXT_JOBSCH700_02927_SETOTO_000_100	Por ahora, esto basta. Pero cuando llegue el día en que recupere mi cuerpo de antes, les ruego que me den fuerzas - padre, Lilac - para que algún día pueda decirle lo que siento.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_105	Pensar que Lilac conservaría un fragmento de la conciencia de su padre y nos guiaría a la piedra... Setoto debió de ser todo para él.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_120	Qué alivio que Setoto haya vuelto a la normalidad.
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_121	Aunque fue muy duro, no puedo evitar alegrarme de nuestra pequeña desventura. ¡No solo ayudará a Surito Carito a descubrir una cura, sino que los Royal Marines salimos más fuertes! ¡Hasta ganamos un nuevo miembro!
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_122	Sé que no lo digo lo suficiente, pero gracias, <split(<string(gstr1)>, ,1)>, por estar siempre ahí. ¡Eres <if(gnum4,una,un)> scholar excelente y <if(gnum4,una amiga,un amigo)> todavía mejor!
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_123	Ahora, vámonos de aquí. ¡Ya es hora de volver a casa a seguir entrenando!
+TEXT_JOBSCH700_02927_ALKAZOLKA_000_124	¡A LA VICTORIA - COME HELLS OR HIGH WATER!
+TEXT_JOBSCH700_02927_SYSTEM_000_500	Aquí terminan las misiones de scholar de FINAL FANTASY XIV: Stormblood. Para empezar la siguiente serie de misiones, primero tienes que cumplir estos requisitos:
+TEXT_JOBSCH700_02927_SYSTEM_000_501	※Haber completado la misión de la historia principal "Shadowbringers".
+TEXT_JOBSCH700_02927_SYSTEM_000_502	※Haber completado la misión de rol "The Soul of Temperance".
+TEXT_JOBSCH700_02927_SYSTEM_000_503	Cuando lo hagas, la siguiente misión de scholar estará disponible con Alka Zolka.

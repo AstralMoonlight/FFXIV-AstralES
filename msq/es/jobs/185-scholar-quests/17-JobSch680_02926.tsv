@@ -1,0 +1,63 @@
+key	text
+TEXT_JOBSCH680_02926_SEQ_00	Alka Zolka tiene el rostro tenso.
+TEXT_JOBSCH680_02926_SEQ_01	Al intentar invocar a Lilac, Setoto gastó casi todo su aether, un estado del que normalmente uno se recupera con un poco de descanso. Pero aunque lleva bastante tiempo dormida, la joven tonberry no da señales de mejoría, y a Alka le preocupa que haya algo más. Te pide que visites a Surito Carito en el Wanderer's Palace para que los dos junten sus conocimientos de scholar y averigüen qué es exactamente lo que pasa.
+TEXT_JOBSCH680_02926_SEQ_02	Surito Carito especula que Setoto no se ha recuperado porque solo logró una invocación parcial. Cree que eso dio lugar a un hada fantasma, que impide su recuperación al no dejar que el aether vuelva a ella. Te dice que la única forma de salvarla es encontrar y eliminar a esa criatura a medio formar, y te manda de vuelta con Alka Zolka.
+TEXT_JOBSCH680_02926_SEQ_03	Mientras le cuentas a Alka Zolka cómo están las cosas, Landenel se acerca con noticias interesantes. Les cuenta que muchos de sus hombres se encontraron con un fantasma en el bosque, con forma de esfera morada flotante. La descripción coincide con la Lilac a medio invocar de las ruinas, y tú y Alka deciden investigar. Según Landenel, los Wailers vieron al hada fantasma en Snakemolt y en los Upper Paths. El ex marauder buscará en Snakemolt, mientras tú revisas los Upper Paths.
+TEXT_JOBSCH680_02926_SEQ_04	Recorres con cuidado la primera zona de los Upper Paths en busca del espectro morado errante. No encuentras nada. Quizá sea hora de seguir.
+TEXT_JOBSCH680_02926_SEQ_05	Una búsqueda a fondo en la siguiente zona de los Upper Paths no da resultado. Ojalá el último tramo del South Shroud que te pidieron revisar dé algo.
+TEXT_JOBSCH680_02926_SEQ_06	Mientras recorres este último pedazo de tierra, algo morado y aetherial te llama la atención. Suelta un chillido espantoso y se lanza contra ti. Lo derrotas rápido, pero por desgracia no es el hada fantasma que buscas. Sin duda Alka Zolka te espera en Camp Tranquil. Mejor no hacerlo esperar.
+TEXT_JOBSCH680_02926_SEQ_07	Alka Zolka tampoco tuvo suerte con el hada. Cuando los dos se preparan para hablar de cómo seguir, aparece Landenel otra vez. Les cuenta que el hada fantasma acaba de atacar a uno de sus hombres y luego escapó hacia la Lost City of Amdapor. Aunque está ansioso por perseguirla, por la oscuridad que persiste ahí, el comandante de los Wood Wailers necesita primero el permiso de la Order of the Twin Adder antes de que cualquiera de ustedes pueda entrar. Les pide que se preparen mientras esperan, y va a hablar con sus superiores. <br><br>※La siguiente misión de scholar estará disponible con Alka Zolka al llegar al nivel 70.
+TEXT_JOBSCH680_02926_TODO_00	Habla con Surito Carito en el Wanderer's Palace.
+TEXT_JOBSCH680_02926_TODO_01	Informa a Alka Zolka en Camp Tranquil.
+TEXT_JOBSCH680_02926_TODO_02	Busca al hada fantasma en los Upper Paths.
+TEXT_JOBSCH680_02926_TODO_03	Busca al hada fantasma en los Upper Paths.
+TEXT_JOBSCH680_02926_TODO_04	Busca al hada fantasma en los Upper Paths.
+TEXT_JOBSCH680_02926_TODO_05	Informa a Alka Zolka en Camp Tranquil.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_001	<split(<string(gstr1)>, ,1)>, algo anda muy mal. Desde que se desplomó, Setoto ni se ha movido.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_002	Según Surito Carito, la enfermedad no solo transforma el cuerpo, sino también la naturaleza del aether de quien la sufre.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_003	Por eso, intentar invocar a Lilac en su estado actual seguramente la dejó casi sin vitalidad.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_004	Pero un poco de descanso debería haber bastado para reponer sus reservas, y ya debería estar despierta. Que no lo esté significa que pasa algo más.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_005	Por favor, ve a hablar con Surito Carito, de scholar a scholar. Quizá si juntan sus cabezas averigüen qué pasa. Yo me quedo aquí cuidando a Setoto.
+TEXT_JOBSCH680_02926_LANDENEL_000_008	No se preocupe, aventurer<if(gnum4,a,o)>. La chica verde está en buenas manos.
+TEXT_JOBSCH680_02926_SURITOCARITO_000_010	Así que Setoto sigue dormida...
+TEXT_JOBSCH680_02926_SURITOCARITO_000_011	Normalmente, cuando un scholar invoca a su hada, lo hace extrayendo parte del aether que circula por su cuerpo y dándole forma con su voluntad.
+TEXT_JOBSCH680_02926_SURITOCARITO_000_012	Al liberar esa forma puede despedirla, y el aether vuelve a fluir a su cuerpo. Eso debería haberle pasado a Setoto al perder el conocimiento. No entiendo por qué sigue dormida... A menos que...
+TEXT_JOBSCH680_02926_SURITOCARITO_000_013	¿Y si solo logró una invocación parcial?
+TEXT_JOBSCH680_02926_SURITOCARITO_000_014	Es posible que todo el aether de Setoto saliera de su cuerpo al llamar a Lilac, y que perdiera el conocimiento antes de que el hada se manifestara del todo.
+TEXT_JOBSCH680_02926_SURITOCARITO_000_015	Eso significaría que ese fantasma sin atadura anda por ahí, vagando sin rumbo e impidiendo que ella recupere el conocimiento.
+TEXT_JOBSCH680_02926_SURITOCARITO_000_016	¡Tú y Alka tienen que apurarse a encontrarlo y eliminarlo antes de que se aleje demasiado! ¡Podría ser la única forma de despertarla!
+TEXT_JOBSCH680_02926_LANDENEL_000_020	No parece que se esté recuperando. Pobre chica. Quizá la baba verde por fin pudo con ella...
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_025	Si tú y Surito Carito juntan sus cabezas, estoy seguro de que encontrarán la forma de salvarla. Date prisa, <split(<string(gstr1)>, ,1)>. Temo que se nos acaba el tiempo.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_030	Por fin volviste. ¿Qué dijo Surito Carito?
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_031	¡¿Un familiar a medio invocar?! Entonces, como sugiere Surito Carito, tenemos que cazar a esa cosa y destruirla.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_032	¿Te acuerdas de que, justo antes de que Setoto perdiera el conocimiento en las ruinas, apareció delante de nosotros una esfera de luz morada? Esa debe de ser el hada fantasma de la que habla.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_033	El problema es que, en cuanto se materializó, desapareció de Amdapor Keep. No hay forma de saber adónde se fue...
+TEXT_JOBSCH680_02926_LANDENEL_000_034	Ustedes dos se ven muy sombríos. ¿Qué pasa?
+TEXT_JOBSCH680_02926_LANDENEL_000_035	Hm... ¿Esa cosa, por casualidad, se parece a una esfera violeta flotante?
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_036	¿Entonces la vio?
+TEXT_JOBSCH680_02926_LANDENEL_000_037	No, pero últimamente muchos de los Wailers dicen haberse encontrado con un espectro en el bosque. De hecho, los informes son tantos que me ordenaron investigar el asunto.
+TEXT_JOBSCH680_02926_LANDENEL_000_038	Curiosamente, la descripción que me dieron parece coincidir con esa hada fantasma suya.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_039	Sí. Debe de ser eso, sin duda.
+TEXT_JOBSCH680_02926_LANDENEL_000_040	Aunque me gustaría empezar de inmediato a buscar a esa hada espectral, antes tengo que atender unos asuntos bastante urgentes.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_041	¡No se preocupe! <split(<string(gstr1)>, ,1)> y yo nos encargamos desde aquí. Ya lo molestamos bastante.
+TEXT_JOBSCH680_02926_LANDENEL_000_042	Muy bien, entonces. Mis hombres vieron a esa cosa por los Upper Paths y Snakemolt. Quizá les convenga empezar a buscar en esos dos lugares.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_043	Gracias.
+TEXT_JOBSCH680_02926_LANDENEL_000_044	No lo hago por ustedes. Lo hago por la jovencita. No es como si pudiera quedarme mirando mientras una chica indefensa lucha por su vida.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_045	\<suspiro> No lo parece, pero en algún lugar de ese hombre hay un buen corazón.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_046	Bueno, empecemos de inmediato a recorrer las zonas que mencionó Landenel. ¡Tú ve a los Upper Paths, y yo voy a Snakemolt!
+TEXT_JOBSCH680_02926_SURITOCARITO_000_047	<split(<string(gstr1)>, ,1)>, por favor, apúrate a contarle a Alka Zolka lo que te dije. Hay que detener a toda costa al hada a medio invocar.
+TEXT_JOBSCH680_02926_SYSTEM_000_050	No notas nada fuera de lo común.
+TEXT_JOBSCH680_02926_SYSTEM_000_051	Por el rabillo del ojo ves una presencia luminosa e inquietante que flota hacia ti.
+TEXT_JOBSCH680_02926_SYSTEM_000_052	¡Suelta un grito espantoso y te ataca!
+TEXT_JOBSCH680_02926_LANDENEL_000_060	Me gustaría acompañarlos, pero por desgracia tengo otras cosas que atender.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_070	¡Ah, ya era hora de que llegaras, amig<if(gnum4,a,o)>! Empezaba a temer que alguna bestia del bosque hubiera podido contigo.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_071	Yo me encontré con unas cuantas criaturas del bosque durante mi búsqueda, entre ellas una esfera de luz morada. Por desgracia, resultó ser un simple will-o'-the-wisp. Por tu cara, supongo que tu búsqueda no fue mejor.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_072	\<suspiro> ¿Adónde demonios se fue volando esa cosa?
+TEXT_JOBSCH680_02926_LANDENEL_000_073	¡Ahí están! Hace un momento, su hada atacó a uno de mis hombres.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_074	¡¿Q-Qué?!
+TEXT_JOBSCH680_02926_LANDENEL_000_075	Según él, desapareció en la Lost City of Amdapor. Pero todavía no podremos perseguirla. La entrada a la zona está muy restringida por la oscuridad que la impregna.
+TEXT_JOBSCH680_02926_LANDENEL_000_076	Necesitamos el permiso de la Order of the Twin Adder. Iré a pedirlo ahora mismo. Mientras tanto, les pido que esperen aquí.
+TEXT_JOBSCH680_02926_ALKAZOLKA_000_077	Landenel, con todo respeto, ¿por qué está tan empeñado en ayudarnos? Para decirlo sin rodeos, el hada es responsabilidad nuestra, no suya.
+TEXT_JOBSCH680_02926_LANDENEL_000_078	Ya se los dije: verde o no, no soporto ver sufrir a la jovencita. Al fin y al cabo, el deber de los fuertes es proteger a los débiles.
+TEXT_JOBSCH680_02926_LANDENEL_000_079	Ahora, si ustedes dos piensan acompañarme en esta pelea contra el hada fantasma, les sugiero que empiecen a prepararse. Acabar con esa cosa no va a ser fácil.
+TEXT_JOBSCH680_02926_LANDENEL_000_100	Alka Zolka volvió de su búsqueda hace un rato y lo ha estado buscando desde entonces. Más vale que vaya a hablar con él.
