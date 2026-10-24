@@ -1,0 +1,57 @@
+key	text
+TEXT_JOBWAR501_00585_SEQ_00	Curious Gorge parece ansioso por ampliar su repertorio de combate.
+TEXT_JOBWAR501_00585_SEQ_01	Curious Gorge te habla de su hermano, Broken Mountain, que sigue recuperándose de sus heridas en Camp Bronze Lake. Los hermanos siguen firmes en su propósito de llevar las enseñanzas de su pueblo por toda Eorzea, aunque Broken Mountain no parece querer volver a tomar el hacha. En cambio, ahora se dedica a estudios más eruditos, y en ellos dio con información sobre antiguas técnicas marciales. Si quieres saber más, ve a Camp Bronze Lake y habla con Broken Mountain.
+TEXT_JOBWAR501_00585_SEQ_02	Broken Mountain te habla de un héroe legendario llamado Mythril Heart, cuya destreza en combate describen con detalle los relatos que descubrió. Duda de que sean ciertos y no le ve sentido a seguir estudiándolos. Pero Curious Gorge cree firmemente lo contrario, y hasta su viejo compañero de armas Wheiskaet parece pensar que algo de verdad tienen. Bajo presión, Broken Mountain dice que lo reconsiderará si encuentras pruebas de que Mythril Heart existió. Curious Gorge recuerda que el último viaje del héroe lo llevó a Silvertear Falls y te sugiere hablar con los Sons of Saint Coinach, que investigan en Mor Dhona.
+TEXT_JOBWAR501_00585_SEQ_03	Aunque ninguno de los investigadores sabe nada de Mythril Heart, queda claro que los artefactos que no son de origen allagano suelen quedar sin tocar. Recorre las orillas de Silvertear Falls y busca pruebas de que el héroe Hellsguard pisó estas tierras.
+TEXT_JOBWAR501_00585_SEQ_04	Como por obra del destino, encuentras un hacha que no tiene nada de especial, salvo las letras "MH" grabadas toscamente en el mango. ¿Será el arma que empuñó el legendario Mythril Heart? Muéstrasela a Broken Mountain y ve si sirve como prueba de que las historias no eran simples cuentos de hadas.
+TEXT_JOBWAR501_00585_SEQ_05	Broken Mountain declara que el arma es la del legendario Mythril Heart, lo que prueba que las historias que descubrió eran ciertas. Convencido de que el héroe existió, acepta retomar el estudio de los tomos antiguos para desentrañar los secretos de las técnicas de Mythril Heart, aunque también reconoce que esas técnicas podrían despertar a la bestia interior como ninguna otra.<br><br>※La siguiente misión de warrior estará disponible con Broken Mountain al llegar al nivel 52.
+TEXT_JOBWAR501_00585_TODO_00	Habla con Broken Mountain en Camp Bronze Lake.
+TEXT_JOBWAR501_00585_TODO_01	Interroga a los estudiosos de Saint Coinach's Find.
+TEXT_JOBWAR501_00585_TODO_02	Busca pruebas en las orillas de Silvertear Falls.
+TEXT_JOBWAR501_00585_TODO_03	Muéstrale el hacha a Broken Mountain.
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_000	¡<split(<string(gstr1)>, ,1)>, casi no te reconozco! Las llamas de la batalla te templaron como el acero fino.
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_001	Desde la última vez que hablamos, decidí empezar de nuevo el camino del warrior. Juré que no volvería a sucumbir a la bestia interior, como cuando enfrenté a mi hermano en Wineport.
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_002	Hablando de eso, Broken Mountain recuperó buena parte de sus fuerzas... aunque cuando le hablo de volver a tomar el hacha, cambia de tema y vuelve a sus estudios de arcanima y otras ocupaciones eruditas.
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_003	Aun así, su deseo de llevar las enseñanzas de nuestros antepasados a cada rincón de Eorzea sigue intacto.
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_004	¡Y no podrías haber llegado en mejor momento! ¡Acabo de recibir una carta de Broken Mountain que dice que encontró información sobre antiguas técnicas marciales!
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_005	Si te interesa (y seguro que sí), ¿por qué no me acompañas a Camp Bronze Lake y escuchamos juntos lo que tiene que decir?
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_008	Sabía que mi hermano no tardaría en descubrir algo valioso. Nos espera en Camp Bronze Lake. No lo hagamos esperar mucho.
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_009	Ah, sabía que <if(gnum4,una warrior de verdad como tú,un warrior de verdad como tú)> nunca dejaría pasar una oportunidad así.
+TEXT_JOBWAR501_00585_BROKENMOUNTAIN_000_010	Te recuerdo bien, <split(<string(gstr1)>, ,1)>: <if(gnum4,la única warrior,el único warrior)> que logró domar a su bestia interior. Me estremece pensar qué habría pasado si no hubieras estado ahí para salvarnos de nosotros mismos.
+TEXT_JOBWAR501_00585_BROKENMOUNTAIN_000_011	Conoces la naturaleza impetuosa de las fuerzas que manejamos, y también las consecuencias de perder el control aunque sea un instante. La bestia no se molesta en distinguir entre amigos y enemigos, y si le das rienda suelta, ataca a ambos.
+TEXT_JOBWAR501_00585_BROKENMOUNTAIN_000_012	Revisé incontables tomos buscando cómo domar a la bestia interior, como lo hiciste tú, pero hasta ahora fue en vano. Solo encontré cuentos ridículos de técnicas que, si hay que creerle al autor, harían temblar de miedo al mismísimo Rhalgr.
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_013	Los ancianos solían contar historias de warriors legendarios para inspirar a los jóvenes. ¿Estás seguro de que en las tuyas no hay nada de verdad?
+TEXT_JOBWAR501_00585_BROKENMOUNTAIN_000_014	Del todo. Hay descripciones de las técnicas que usaba el héroe Mythril Heart, pero los detalles cuesta tragárselos. Ningún warrior, vivo o muerto, puede arrancarle un brazo a un behemoth con las manos desnudas.
+TEXT_JOBWAR501_00585_BROKENMOUNTAIN_000_015	Los relatos están llenos de disparates parecidos, hermano. Sería perder el tiempo investigar si son ciertos cuando sabemos tan poco de cómo domar a la bestia interior. Además, sabes tan bien como yo que Mythril Heart no es más que un héroe de cuento de hadas.
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_016	¿¡Y si pudiera probar que Mythril Heart fue de carne y hueso!? ¿Entonces aceptarías seguir con tus estudios?
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_017	...Nunca se apartó del camino del warrior, ni siquiera cuando los años le pasaron factura. Hacha en mano, fue a Silvertear Falls y nunca volvió... ¡lo que significa que, si de verdad existió, puede que ahí haya algo que lo pruebe!
+TEXT_JOBWAR501_00585_WHEISKAET_000_018	Guarda el hacha, Gorge. ¡Te serviría más pasar el tiempo dándole hachazos a un muñeco de práctica que buscando fantasmas!
+TEXT_JOBWAR501_00585_WHEISKAET_000_019	Un gusto, <split(<string(gstr1)>, ,1)>. Gracias por asegurarte de que mi viejo amigo viviera para aprender de sus errores, aunque parece que la lección no le duró mucho.
+TEXT_JOBWAR501_00585_BROKENMOUNTAIN_000_020	Wheiskaet tuvo la amabilidad de mantener ocupado a mi hermano con trabajo y de ayudarme durante mi recuperación.
+TEXT_JOBWAR501_00585_WHEISKAET_000_021	Lo que sea para mantener a un antiguo camarada lejos de los problemas. En cuanto a esas historias... por descabelladas que parezcan, yo no las descartaría tan rápido. No olvidemos que <split(<string(gstr1)>, ,1)> tiene en su haber más de una hazaña legendaria.
+TEXT_JOBWAR501_00585_BROKENMOUNTAIN_000_022	Bueno... si por casualidad <italic(1)><if(gnum4,ella,él)><italic(0)> encontrara pruebas de que Mythril Heart existió, lo reconsideraría. Pero dejen a mi hermano fuera de esto.
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_023	Puede que no esté listo para acompañarte, pero sí puedo aconsejarte por dónde empezar. Busca a los Sons of Saint Coinach. Seguro que saben algo del último viaje de Mythril Heart.
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_029	Sé que existió, <split(<string(gstr1)>, ,1)>, ¡y cuento contigo para probarlo!
+TEXT_JOBWAR501_00585_BROKENMOUNTAIN_000_029	Tráeme pruebas de que Mythril Heart existió y reconsideraré mi postura sobre la veracidad de las historias.
+TEXT_JOBWAR501_00585_WHEISKAET_000_029	Si las historias tienen algo de verdad, ruego que encuentres pruebas. Nada me haría más feliz que ver redescubiertas técnicas que se creían perdidas.
+TEXT_JOBWAR501_00585_CLIFTON_000_030	¿Reliquias de un antiguo warrior Hellsguard? Aunque estamos hasta el cuello de artefactos allaganos, no puedo decir que haya visto ninguno que pueda ser lo que busca.
+TEXT_JOBWAR501_00585_CLIFTON_000_035	Puede que los otros investigadores tengan información que le sirva. De vez en cuando aparecen en nuestras excavaciones artefactos de todas las épocas.
+TEXT_JOBWAR501_00585_SYELE_000_030	Hmm... Bueno, cuando las aguas de Silvertear Falls bajaron hace quince años, dejaron al descubierto un tesoro de artefactos de varias épocas, y muchos todavía no se recuperaron.
+TEXT_JOBWAR501_00585_SYELE_000_031	No sé si alguno de esos artefactos tiene relación con ese Mythril Heart, pero quizás le convenga empezar a buscar en las zonas que antes estaban bajo el agua.
+TEXT_JOBWAR501_00585_SYELE_000_035	Hace tiempo que queremos examinar los artefactos de esa zona, pero nuestro trabajo actual nos tiene ocupados.
+TEXT_JOBWAR501_00585_SYELE_000_036	Y como la mayoría de los artefactos descubiertos no parecen ser de origen allagano, puede que pase un tiempo antes de que excavemos esa zona más a fondo.
+TEXT_JOBWAR501_00585_KLYNTHOTA_000_030	Nuestra investigación se centra en artefactos del Allagan Empire. Así que puede haber descubrimientos más recientes que algún investigador obsesionado pasó por alto.
+TEXT_JOBWAR501_00585_KLYNTHOTA_000_035	Por interesantes que sean los artefactos de otras épocas, las distracciones solo retrasarían nuestra investigación del Allagan Empire.
+TEXT_JOBWAR501_00585_SYSTEM_000_040	Tras una búsqueda rápida, no encuentras nada de interés.
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_050	¿¡Esa es el hacha de Mythril Heart!? ¡Por los Twelve, las historias eran ciertas! ¡Rápido, tienes que mostrársela a mi hermano!
+TEXT_JOBWAR501_00585_WHEISKAET_000_050	Si alguien puede probar que Mythril Heart existió, eres tú.
+TEXT_JOBWAR501_00585_BROKENMOUNTAIN_000_050	¿Y bien? ¿Encontraste alguna prueba de que Mythril Heart existió?
+TEXT_JOBWAR501_00585_BROKENMOUNTAIN_000_051	Esta hacha... El grabado y la curva de la hoja son tal como los describen. Y pensar en las bestias que probaron este acero...
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_052	¡Esto prueba que Mythril Heart es más que un cuento de fogata! ¡Con un corazón de acero y sus técnicas legendarias, tendremos la fuerza para matar por docenas hasta a las bestias más fuertes!
+TEXT_JOBWAR501_00585_BROKENMOUNTAIN_000_053	Si las hazañas de Mythril Heart son de verdad posibles, saber cómo las lograba sería invaluable para restaurar la reputación de los warriors...
+TEXT_JOBWAR501_00585_WHEISKAET_000_054	Podrían mostrarle a la gente de Eorzea el verdadero potencial del warrior. Seguro que más de uno se sentiría impulsado a tomar el hacha.
+TEXT_JOBWAR501_00585_BROKENMOUNTAIN_000_055	Así es, podría ser una gran ayuda para nuestra causa. Muy bien. Volveré a mis tomos y buscaré cualquier pasaje sobre Mythril Heart.
+TEXT_JOBWAR501_00585_CURIOUSGORGE_000_056	Eso sí, las técnicas antiguas podrían despertar a la bestia interior como ninguna otra...
+TEXT_JOBWAR501_00585_BROKENMOUNTAIN_000_057	De eso no tengo duda, y por eso no debes tomarte el entrenamiento a la ligera. Cuando descubra más, tendrás que estar <if(gnum4,lista,listo)>.
+TEXT_JOBWAR501_00585_SYSTEM_000_058	La siguiente misión de warrior estará disponible con Broken Mountain al llegar al nivel 52.
+TEXT_JOBWAR501_00585_SYSTEM_000_059	Puedes revisar en el journal los requisitos para empezar las siguientes misiones.

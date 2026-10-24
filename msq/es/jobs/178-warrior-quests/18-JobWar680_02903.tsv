@@ -1,0 +1,82 @@
+key	text
+TEXT_JOBWAR680_02903_SEQ_00	Broken Mountain está fuera de sí de la preocupación.
+TEXT_JOBWAR680_02903_SEQ_01	Curious Gorge desapareció, pero no sin dejar rastro. Según Wyrnzoen, hace poco un hombre que coincide con su descripción se embarcó rumbo al este. Broken Mountain está seguro de que su hermano se fue a buscar a Dorgono a la Azim Steppe. Como no puede dejar su puesto en Limsa Lominsa, te pide que busques a Curious Gorge y te asegures de que no le pase nada.
+TEXT_JOBWAR680_02903_SEQ_02	Viajas al este, a la Azim Steppe, y preguntas a la gente de un pequeño asentamiento llamado Reunion. Aunque muchos no saben distinguir a Curious Gorge de los tantos viajeros que pasan por ahí, un mercader recuerda a un Roegadyn grandote con un hacha que iba al oeste en busca de un asentamiento Qerel.
+TEXT_JOBWAR680_02903_SEQ_03	Curious Gorge estaba a punto de ser destripado cuando interviniste para rescatarlo de una comadreja hambrienta. Parece intacto mientras lo ayudas a ponerse de pie.
+TEXT_JOBWAR680_02903_SEQ_04	Te alivia ver que Curious Gorge no está herido, pero no hay tiempo para charlar. Están atacando al pueblo de Dorgono, así que Curious Gorge sale corriendo hacia el oeste.
+TEXT_JOBWAR680_02903_SEQ_05	Al llegar, encuentras a Dorgono contemplando las ruinas del asentamiento de su pueblo. Según cuenta, su gente está sana y salva en Reunion. Por desgracia, para Dorgono no habrá regreso a casa. Los que asediaron sus hogares eran los mismos que el clan Qerel había desterrado. Formaron una orden propia, los Chaghan, y creen que la furia ciega de su bestia interior es un don de su diosa, la Dusk Mother. Los Qerel creen que ahora Dorgono es una de los Chaghan y se niegan a aceptarla de vuelta. Ella está decidida a vengar a su pueblo y recuperar su confianza. Tu ayuda, y hasta la de Curious Gorge, será indispensable en esta empresa. Mientras se va a rastrear el paradero de los Chaghan, te sugiere volver a Reunion a descansar y prepararte para la batalla.
+TEXT_JOBWAR680_02903_SEQ_06	Hablas con Curious Gorge en Reunion, y parece que todavía no se dio cuenta del origen de sus problemas. Con la batalla en el horizonte, solo queda esperar que haga las paces con sus emociones antes de que empiece la pelea.<br><br>※La siguiente misión de warrior estará disponible con Curious Gorge al llegar al nivel 70.
+TEXT_JOBWAR680_02903_TODO_00	Reúne información en Reunion.
+TEXT_JOBWAR680_02903_TODO_01	Busca a Curious Gorge.
+TEXT_JOBWAR680_02903_TODO_02	Rescata a Curious Gorge.
+TEXT_JOBWAR680_02903_TODO_03	Habla con Dorgono.
+TEXT_JOBWAR680_02903_TODO_04	Habla con Curious Gorge.
+TEXT_JOBWAR680_02903_BROKENMOUNTAIN_000_000	¡Se fue! ¡Mi hermano se fue!
+TEXT_JOBWAR680_02903_BROKENMOUNTAIN_000_001	Hablé con Wyrnzoen, y sus hombres dicen haber visto a un hombre que coincide con la descripción de mi hermano subiendo a un barco rumbo al Lejano Oriente.
+TEXT_JOBWAR680_02903_BROKENMOUNTAIN_000_002	El tonto enamorado. Sin duda se fue a buscar a Dorgono.
+TEXT_JOBWAR680_02903_BROKENMOUNTAIN_000_003	Tan debilitado como está, quién sabe qué desgracia puede encontrarlo allá. Ojalá pudiera ir a buscarlo, pero no puedo dejar mi puesto aquí en Limsa.
+TEXT_JOBWAR680_02903_BROKENMOUNTAIN_000_004	Me avergüenza pedirte más, pero ¿crees que podrías encontrarlo?
+TEXT_JOBWAR680_02903_Q1_000_005	eliminado
+TEXT_JOBWAR680_02903_A1_000_006	eliminado
+TEXT_JOBWAR680_02903_A2_000_007	eliminado
+TEXT_JOBWAR680_02903_BROKENMOUNTAIN_000_008	<if(gnum4,Bendita,Bendito)> seas, <split(<string(gstr1)>, ,1)>. Si está buscando a Dorgono, entonces va camino a la Azim Steppe.
+TEXT_JOBWAR680_02903_BROKENMOUNTAIN_000_009	eliminado
+TEXT_JOBWAR680_02903_BROKENMOUNTAIN_000_010	Si las llanuras son tan vastas como ella decía, te convendría buscar el asentamiento más cercano y empezar por ahí. Si los dioses son amables, alguien lo habrá visto.
+TEXT_JOBWAR680_02903_BROKENMOUNTAIN_000_011	Buen viaje, <split(<string(gstr1)>, ,1)>. Ruego que no cause más problemas de los que ya causó.
+TEXT_JOBWAR680_02903_BROKENMOUNTAIN_000_015	Si Dorgono decía la verdad, las llanuras de la Azim Steppe son vastas y llenas de peligros. Cuando llegues, ve rápido al asentamiento más cercano y averigua lo que puedas del paradero de mi hermano.
+TEXT_JOBWAR680_02903_TAMACHAG_100_020	¿Un hombre grande con un hacha? ¿Tienes idea de cuántos brutos con hachas pasan pisando fuerte por aquí?
+TEXT_JOBWAR680_02903_MASGUD_100_021	¿Un Roegadyn fornido y de cara roja? Sí, me acuerdo. Preguntaba por el clan Qerel, pero hace años que no viven aquí.
+TEXT_JOBWAR680_02903_CHAMBUI_100_022	Ah, ¿ese tipo revoltoso que buscaba al clan Qerel? Si siguió mi consejo, fue directo al oeste a buscar su asentamiento. O lo que queda de él.
+TEXT_JOBWAR680_02903_SHOUNINA02903_000_020	eliminado
+TEXT_JOBWAR680_02903_SHOUNINB02903_000_021	eliminado
+TEXT_JOBWAR680_02903_SHOUNINC02903_000_022	eliminado
+TEXT_JOBWAR680_02903_TAMACHAG_100_025	¿Un hombre grande con un hacha a la espalda? Vas a tener que ser más específic<if(gnum4,a,o)>. Por aquí no faltan los que andan con hachas.
+TEXT_JOBWAR680_02903_MASGUD_100_026	Si buscas a los Qerel, aquí no los vas a encontrar. Lo mismo le dije a ese Roegadyn escandaloso.
+TEXT_JOBWAR680_02903_CHAMBUI_100_027	No sé qué vas a encontrar al oeste, pero seguramente no a los Qerel.
+TEXT_JOBWAR680_02903_SHOUNINA02903_000_025	eliminado
+TEXT_JOBWAR680_02903_SHOUNINB02903_000_026	eliminado
+TEXT_JOBWAR680_02903_SHOUNINC02903_000_027	eliminado
+TEXT_JOBWAR680_02903_POPMESSAGE_100_029	¡Te están atacando!
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_030	Gracias, amable desconocid<if(gnum4,a,o)>. Si no hubieras llegado, habría... ¡¿<split(<string(gstr1)>, ,1)>?! ¿Q-Qué haces aquí?
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_031	Ah, eso puede esperar. Están atacando al pueblo de Dorgono. ¡Vamos, tenemos que ayudarlos!
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_032	Dorgono está a salvo, ¿pero dónde están los demás?
+TEXT_JOBWAR680_02903_DORGONO_000_040	¡<split(<string(gstr1)>, ,1)>, viniste! Todavía hay esperanza... Aunque no entiendo por qué decidiste traer al gusano.
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_041	¿¡Gusano!? Pero yo... Tú... Ugh, ¿puedes decirnos qué pasó aquí?
+TEXT_JOBWAR680_02903_DORGONO_000_042	Atacaron el asentamiento Qerel, pero llegué tarde. Esto es todo lo que había cuando llegué. Pero no se preocupen: escaparon.
+TEXT_JOBWAR680_02903_DORGONO_000_043	Logré seguirles el rastro hasta Reunion. Pero al encontrarlos, me recibieron con miradas de miedo y asco. Solo me toleraron lo justo para explicarme que la voluntad de Karash tiene la culpa de sus desgracias.
+TEXT_JOBWAR680_02903_DORGONO_000_044	Los desterrados de los Qerel formaron un clan propio: los Chaghan. Me ofrecieron refugio cuando me expulsaron.
+TEXT_JOBWAR680_02903_DORGONO_000_045	Donde los Qerel ven la voluntad de Karash como fuente de ruina y destrucción, los Chaghan la alaban como una bendición de la Dusk Mother.
+TEXT_JOBWAR680_02903_DORGONO_000_046	Cometen toda clase de atrocidades cuando Karash se apodera de ellos. Algunos hasta matan a su propia familia y dicen que lo hacen en nombre de la Mother. No pude soportar su salvajismo y me fui pronto. Aun así, mi pueblo ahora me confunde con una de los Chaghan.
+TEXT_JOBWAR680_02903_DORGONO_000_047	Después de tanto esfuerzo, tanto entrenamiento, me rechazan. ¡Pero no puedo rendirme! ¡Vengaré a mi pueblo y me ganaré su confianza!
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_048	Tus enemigos son warriors que se entregan libremente a su bestia interior. Sola no tienes ninguna oportunidad. ¡Yo te ayudaré!
+TEXT_JOBWAR680_02903_DORGONO_000_049	No necesito tu ayuda, gusano. Solo me estorbarías con tanto retorcerte.
+TEXT_JOBWAR680_02903_DORGONO_000_050	En cambio, el hacha probada de <split(<string(gstr1)>, ,1)> sería bienvenida. ¿Qué dices?
+TEXT_JOBWAR680_02903_Q1_000_051	¿Le prestas tu fuerza a Dorgono?
+TEXT_JOBWAR680_02903_A1_000_052	eliminado
+TEXT_JOBWAR680_02903_A2_000_053	eliminado
+TEXT_JOBWAR680_02903_DORGONO_000_054	Gracias. ¡Tu sola presencia vale por cien warriors!
+TEXT_JOBWAR680_02903_DORGONO_000_055	Ya... ya veo. Entonces no me queda más que enfrentarlos sola...
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_056	¿Qué estás diciendo? <if(gnum4,La,El)> <split(<string(gstr1)>, ,1)> que yo conozco nunca dejaría que una compañera se lanzara sola al peligro. ¡Tienes que ayudar a Dorgono!
+TEXT_JOBWAR680_02903_DORGONO_000_057	Gracias. ¡Tu sola presencia vale por cien warriors!
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_058	Sí, y conmigo a tu lado, son otros cien a tu disposición. Ocuparse de los Chaghan debería ser un juego de niños.
+TEXT_JOBWAR680_02903_DORGONO_000_059	Haz lo que quieras. Solo te pido que no nos retrases.
+TEXT_JOBWAR680_02903_DORGONO_000_060	Por ahora, vuelvan a Reunion y descansen. Los Chaghan se volvieron descuidados y no debería costarme rastrearlos. Cuando llegue el momento, espero que estés listo, Curious Gorge.
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_061	¿Eh? Digo, c-claro. ¡Puedes contar conmigo!
+TEXT_JOBWAR680_02903_DORGONO_000_062	No tardaré, <split(<string(gstr1)>, ,1)>. Pronto pondremos fin a su locura.
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_063	¡Esa mujer es insoportable! Es arrogante, grosera, terca... \<suspiro> Y por fin me llamó por mi nombre...
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_064	Ejem. Y también tiene razón. Pelear contra los Chaghan en mi estado actual sería una locura. Volvamos a Reunion.
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_070	<split(<string(gstr1)>, ,1)>. Te lo pregunto sin rodeos: ¿qué haces aquí exactamente?
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_071	Mi hermano está preocupado por mí, ¿eh? Parece que últimamente me hice muy amigo de los problemas.
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_072	Desde que Dorgono me venció en el muelle, todo salió mal. Mi bestia interior sigue dormida, y con ella mi capacidad de pelear.
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_073	Hay momentos en que se me acelera la sangre y me atrevo a esperar que la bestia interior despierte... solo para verme asaltado por visiones de Dorgono y sentir que la fuerza me abandona.
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_074	No sé qué me pasa por dentro, ni cómo vencerlo. Solo sabía que tenía que seguir a Dorgono. ¿Qué rayos me pasa?
+TEXT_JOBWAR680_02903_Q1_000_075	¿Qué vas a decir?
+TEXT_JOBWAR680_02903_A1_000_076	Creo que estás enamorado de Dorgono.
+TEXT_JOBWAR680_02903_A2_000_077	Tienes que entrenar más duro y recuperar la concentración.
+TEXT_JOBWAR680_02903_A3_000_078	...
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_079	¿¡E-Enamorado!? Esperaba que me dieras un consejo, no bromas crueles.
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_080	¿Será tan simple? Confieso que últimamente ando algo distraído, pero no estoy tan seguro de que sea solo cuestión de entrenamiento.
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_081	\<suspiro> ¿Qué hago molestándote con esto? Seguro que tienes una verdadera montaña de problemas propios.
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_082	En cualquier caso, este problema es carga mía. No se va a resolver echándoselo encima a otros.
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_083	Y si quiero estar listo para nuestra batalla, tiene que resolverse rápido.
+TEXT_JOBWAR680_02903_CURIOUSGORGE_000_084	No te entretengo más, <split(<string(gstr1)>, ,1)>. Haz lo que tengas que hacer para prepararte, y yo haré lo mismo.

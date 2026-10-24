@@ -1,0 +1,49 @@
+key	text
+TEXT_JOBWAR300_01049_SEQ_00	El Axemaster Wyrnzoen necesita <if(gnum4,una aventurera,un aventurero)> de confianza.
+TEXT_JOBWAR300_01049_SEQ_01	Un viejo camarada de Wyrnzoen, que ahora trabaja para el señor Gegeruju de Costa del Sol, pidió refuerzos con urgencia, y el maestro del hacha cree que eres la única persona del gremio capaz de la tarea. Viaja a Costa del Sol y reúnete con tu compañera de gremio Solkwyb.
+TEXT_JOBWAR300_01049_SEQ_02	Solkwyb te explica que una temible horda de tortugas asedia Costa del Sol y que las criaturas parecen venir de la costa norte. Investiga qué puede estar causando que haya cada vez más.
+TEXT_JOBWAR300_01049_SEQ_03	Con la ayuda de un formidable Roegadyn que se hace llamar Curious Gorge, hiciste retroceder a la horda de tortugas que, al parecer, convocó una figura sospechosa. Habla con tu compañera de gremio Solkwyb, que parece inquieta por lo que vio.
+TEXT_JOBWAR300_01049_SEQ_04	Solkwyb sospecha que Curious Gorge es en realidad un joven y talentoso marauder que desapareció cuando se disolvió la Company of Heroes. Si quieres entrenarte en el arte perdido del warrior, busca a Curious Gorge en Hidden Falls.
+TEXT_JOBWAR300_01049_SEQ_05	Impresionado por tu fuerza, Curious Gorge te entrega el Soul of the Warrior. Te explica que, cuando despierte tu bestia interior, las runas resonarán y te darán una fuerza que nunca creíste posible. Pule tus habilidades hasta que Curious Gorge logre descifrar las crónicas de sus antepasados que lleva consigo, para seguir con tu entrenamiento.<br><br>※La siguiente misión de warrior estará disponible con Curious Gorge al llegar al nivel 35.
+TEXT_JOBWAR300_01049_TODO_00	Habla con Solkwyb en Costa del Sol.
+TEXT_JOBWAR300_01049_TODO_01	Investiga la costa norte.
+TEXT_JOBWAR300_01049_TODO_02	Habla con Solkwyb.
+TEXT_JOBWAR300_01049_TODO_03	Habla con Curious Gorge.
+TEXT_JOBWAR300_01049_WYRNZOEN_000	Ah, <split(<string(gstr1)>, ,1)>. Justo a quien esperaba ver. Sí, salta a la vista que no tienes rival en nuestro gremio, y tengo una tarea que no le confiaría a cualquier marauder.
+TEXT_JOBWAR300_01049_WYRNZOEN_000_001	Te explico: acabo de recibir un mensaje de un viejo compañero de armas que ahora sirve como guardia en Costa del Sol. Parece que la lucha se puso dura por allá, y necesita refuerzos con urgencia.
+TEXT_JOBWAR300_01049_WYRNZOEN_000_002	Y ojo, que ese hombre no es ningún cachorro cobarde. Maneja el hacha como el mejor, y la prueba es que el señor Gegeruju paga buenas monedas por sus servicios y los de sus hombres. No, un enemigo capaz de poner en apuros a ese grupo no es cosa de juego.
+TEXT_JOBWAR300_01049_WYRNZOEN_000_003	Mandé a Solkwyb por delante para que atienda a los heridos. Búscala cuando llegues y te pondrá al tanto de la situación.
+TEXT_JOBWAR300_01049_SOLKWYB_000_010	¡<split(<string(gstr1)>, ,1)>! Siempre es un gusto verte. Últimamente una manada de tortugas furiosas anda atacando esta zona, mordiendo y triturando todo lo que ve. Ni siquiera los mejores hombres que pudo pagar el señor Gegeruju pueden con esas criaturas.
+TEXT_JOBWAR300_01049_SOLKWYB_000_011	Dicen que las han visto llegar nadando por la costa norte, que está poco vigilada. Quiero que vayas allá a investigar por qué hay cada vez más.
+TEXT_JOBWAR300_01049_SOLKWYB_000_020	¡Ugh, maldita sea! ¡<split(<string(gstr1)>, ,1)>, tenemos que encargarnos de estas bestias!
+TEXT_JOBWAR300_01049_SOLKWYB_000_021	¡Por los siete infiernos, no se acaban nunca! ¡Prepárate para retroceder!
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_022	(-???-)¡Yo me encargo de los caparazones! ¡Ustedes, cachorros, intenten no terminar como comida de tortuga!
+TEXT_JOBWAR300_01049_SOLKWYB_000_023	¡Esa hacha! No había visto una así desde...
+TEXT_JOBWAR300_01049_SOLKWYB_000_024	¡<split(<string(gstr1)>, ,1)>! ¡Hay que hacer lo que podamos!
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_030	Con eso van a volver corriendo a sus nidos. Pueden llamarme Curious Gorge. Un solo comentario sobre el nombre y les arranco esas cabezas feas de los hombros y les chupo el tuétano de la columna mientras se retuercen. Ustedes dos son guardias de Costa del Sol, ¿no?
+TEXT_JOBWAR300_01049_SOLKWYB_000_031	No exactamente. Somos del Marauders' Guild, y nos mandó el Axemaster Wyrnzoen a ayudar con la defensa. Yo soy Solkwyb, y <if(gnum4,ella es mi compañera,él es mi compañero)> <split(<string(gstr1)>, ,1)>.
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_032	¿Del gremio, dices? ¡Pues que me parta un rayo y me llamen duende! Si me lo hubieran dicho antes, me habría presentado con el debido respeto.
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_033	Tú eres <split(<string(gstr1)>, ,1)>, ¿verdad? Nos acabamos de conocer, pero veo en ti una fuerza que no tiene cualquiera. ¿Qué dices? ¿Desatas la bestia que llevas dentro y te vuelves <if(gnum4,una,un)> <italic(1)>warrior<italic(0)> conmigo?
+TEXT_JOBWAR300_01049_SOLKWYB_000_034	¿¡<if(gnum4,Una,Un)> <italic(1)>warrior<italic(0)>, dices!? Así que <italic(1)>eras<italic(0)> tú a quien vi, usando técnicas de combate que yo creía perdidas en las arenas del tiempo...
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_035	¿Perdidas? ¡Gajaja! Quizás en <italic(1)>estas<italic(0)> tierras. ¡Pero de donde yo vengo, el camino del warrior sigue bien vivo! Mi tribu lo viene transmitiendo desde hace miles de años.
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_036	Pero cada verano somos menos, y por eso dejé la montaña donde me crie para venir aquí. ¿Qué dices, <split(<string(gstr1)>, ,1)>? Si quieres recorrer el camino del warrior conmigo, búscame en Hidden Falls.
+TEXT_JOBWAR300_01049_SOLKWYB_000_040	Los warriors de antaño... Todos oímos las historias, pero nunca soñé que conocería a uno en carne y hueso.
+TEXT_JOBWAR300_01049_SOLKWYB_000_041	Lo recuerdo vagamente, pero hace muchos años se decía que en la Company of Heroes había un joven marauder que soltaba golpes demoledores como sus camaradas nunca habían visto. Cuando la Company se disolvió, desapareció y nadie volvió a verlo. ¿Será este Curious Gorge?
+TEXT_JOBWAR300_01049_SOLKWYB_000_042	No puedo dar fe de quién es ese hombre, pero no se puede negar la fuerza que vimos hoy, ni que <italic(1)>tú<italic(0)> le caíste bien, <split(<string(gstr1)>, ,1)>. Esta podría ser la oportunidad de tu vida. Hidden Falls, ¿no? Yo que tú, iría para allá sin perder tiempo.
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_050	Sabía que vendrías, <split(<string(gstr1)>, ,1)>. Empecemos.
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_051	Cualquiera puede tomar un hacha y llamarse marauder, pero para volverse warrior de verdad, hay que demostrar que se puede domar la bestia interior que guía la hoja.
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_052	Vi tu pelea con las tortugas y debo decir que me impresionaste. Demostraste que lo mereces mucho más de lo que imaginaba.
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_053	En tus manos está el Soul of the Warrior: un cristal en el que quedaron grabadas las hazañas de miles y miles de warriors de la historia. Por incontables generaciones, el Soul pasó a quienes en mi tribu eligen el camino del warrior, para guiarlos y ayudarlos en su viaje.
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_54	Cuando despierte tu bestia interior, las runas resonarán, fortalecerán tu voluntad y te darán una fuerza que nunca creíste posible.
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_55	¡Hoy hay motivo para celebrar, <if(gnum4,amiga mía,amigo mío)>! Porque gracias a ti me aseguré de que el legado de mi tribu perdure. Sí, para este día, para este momento, bajé de la montaña.
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_56	Pero por más que me empeñe en mi objetivo, no puedo negar el miedo de que mi misión termine en fracaso. Verás, aunque me llamo warrior, la verdad es que dejé las montañas antes de terminar mi entrenamiento.
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_57	Y aunque llevo conmigo las crónicas de mis antepasados, que detallan las antiguas artes de la guerra, no soy capaz de descifrar del todo los textos.
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_58	Pero puede que aún haya esperanza, porque hay otro que huyó de mi aldea: alguien que compartía mi sueño de transmitir las enseñanzas de la tribu y que <italic(1)>sí<italic(0)> sabe leer el tomo... Mi hermano.
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_59	Sin él, me temo que por ahora no puedo enseñarte mucho más. Pero eso no me va a desanimar de seguir estudiando las crónicas, ni va a quebrar mi fe en que pronto se me revelarán más secretos.
+TEXT_JOBWAR300_01049_CURIOUSGORGE_000_60	Hasta entonces, te pido que uses lo que te enseñé y sigas entrenando. Tienes que endurecer tu voluntad para que soporte las cargas que vendrán. Buena suerte, <if(gnum4,amiga mía,amigo mío)>.
+TEXT_JOBWAR300_01049_SYSTEM_000_62	La siguiente misión de warrior estará disponible con Curious Gorge al llegar al nivel 35.
+TEXT_JOBWAR300_01049_QIB_001_TODO_1	¡Rechaza a los archelons enloquecidos!
+TEXT_JOBWAR300_01049_QIB_001_SOLKWYB_BATTLETALK_01	Aquí termina mi batalla...<br>Perdóname, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBWAR300_01049_SYSTEM_000_70	¡Desbloqueaste un nuevo job! Puedes cambiar a este job cuando quieras equipando el soul crystal que recibiste en esta misión.
+TEXT_JOBWAR300_01049_SYSTEM_000_71	Al cambiar de job, los <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipo. Así puedes cambiar de job al instante, sin equipar a mano armas ni equipo.
+TEXT_JOBWAR300_01049_SYSTEM_000_72	El botón de la interfaz Gear Set está en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)>.

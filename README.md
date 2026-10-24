@@ -176,7 +176,7 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 | Rol | Job | Niveles | Estado |
 |---|---|---|---|
 | **Tank** | Paladin | 30–100 | ![Traducido][ok] |
-| | Warrior | 30–100 | ![Pendiente][no] |
+| | Warrior | 30–100 | ![Traducido][ok] |
 | | Dark Knight | 30–100 | ![Traducido][ok] |
 | | Gunbreaker | 60–100 | ![Traducido][ok] |
 | **Healer** | White Mage | 30–100 | ![Pendiente][no] |

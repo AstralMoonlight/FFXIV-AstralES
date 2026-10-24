@@ -1,0 +1,22 @@
+key	text
+TEXT_JOBWAR451_01053_SEQ_00	Curious Gorge quiere decirte dónde está la última pieza de la armadura reliquia.
+TEXT_JOBWAR451_01053_SEQ_01	Pese a sus dudas sobre tu capacidad de controlar del todo su poder, Curious Gorge te dice dónde está la última pieza de la armadura perdida de sus antepasados. Búscala en las aguas del Weeping Saint, en Coerthas Central Highlands. Curious Gorge, todavía con el corazón cargado por lo ocurrido, se quedará atrás.
+TEXT_JOBWAR451_01053_SEQ_02	Apenas tomaste la armadura, apareció Curious Gorge y te la quitó sin darte la menor explicación. ¿Qué hizo cambiar de opinión a tu mentor? Vuelve a Hidden Falls a pedirle una explicación.
+TEXT_JOBWAR451_01053_SEQ_03	Curious Gorge te pide disculpas por lo que hizo y te explica que no puede confiar en ti, ni en sí mismo, ni en nadie para llevar la armadura hasta que quien quiera ponérsela demuestre su fuerza sin la menor duda. Te pide que sigas entrenando mientras él estudia los textos para ver cómo se puede probar esa fuerza.<br><br>※La siguiente misión de warrior estará disponible con Curious Gorge al llegar al nivel 50.
+TEXT_JOBWAR451_01053_TODO_00	Busca la armadura reliquia en el Weeping Saint.
+TEXT_JOBWAR451_01053_TODO_01	Habla con Curious Gorge.
+TEXT_JOBWAR451_01053_CURIOUSGORGE_000_000	¿De verdad quieres buscar la reliquia suprema de mi pueblo? ¿La armadura que podría consumir el alma misma del warrior más poderoso? Muy bien, si de verdad estás <if(gnum4,convencida,convencido)> de estar <if(gnum4,lista,listo)>, no seré yo quien se interponga en tu camino.
+TEXT_JOBWAR451_01053_CURIOUSGORGE_000_001	Pero te lo ruego, <split(<string(gstr1)>, ,1)>: en el momento en que sientas que pierdes el control y que tu bestia interior se impone, deshazte de la armadura. Tírala desde la montaña más alta o al fondo del océano, me da igual.
+TEXT_JOBWAR451_01053_CURIOUSGORGE_000_002	Porque una vez que la bestia consume tu alma, no hay vuelta atrás. Seguirás arrasando como un monstruo, sin dejar más que matanza a tu paso. El reino sangrará y la historia se repetirá. No puedo permitirlo.
+TEXT_JOBWAR451_01053_CURIOUSGORGE_000_003	No, a mi pueblo ya lo rechazaron bastante tiempo. Quiero ver llegar una nueva era, en la que los warriors protejan a los débiles y la gente del reino los quiera y los admire. Mis años de batalla y mis noches en vela estudiando los textos antiguos... ¡todo fue para este día!
+TEXT_JOBWAR451_01053_CURIOUSGORGE_000_004	Hermano... No sé adónde te llevó el destino. Y aun así estoy seguro de que, en espíritu, hoy estás conmigo. Juntos devolveremos el honor a nuestro pueblo.
+TEXT_JOBWAR451_01053_CURIOUSGORGE_000_005	...Perdona mi sentimentalismo, <split(<string(gstr1)>, ,1)>. Como te dije, llevo mucho tiempo esperando esto. La coraza que buscas está en las tierras altas de Coerthas, en el manantial que llaman el Weeping Saint. Yo... me quedo aquí. Lo de Wineport todavía me pesa en el corazón.
+TEXT_JOBWAR451_01053_CURIOUSGORGE_000_010	Entrégame la coraza, <split(<string(gstr1)>, ,1)>. Después de darle muchas vueltas, no puedo confiarle semejante reliquia a alguien de fuera que podría verse desbordado por su poder.
+TEXT_JOBWAR451_01053_CURIOUSGORGE_000_011	Ahora vuelvo a Hidden Falls. Si quieres hablar conmigo, ven. No voy a huir.
+TEXT_JOBWAR451_01053_CURIOUSGORGE_000_020	<split(<string(gstr1)>, ,1)>, lo siento. No quería que las cosas pasaran así, pero no tuve opción.
+TEXT_JOBWAR451_01053_CURIOUSGORGE_000_021	Le di muchas vueltas al asunto, pero esta es mi decisión. No puedo confiarte este poder cuando ni siquiera confío en mí mismo.
+TEXT_JOBWAR451_01053_CURIOUSGORGE_000_022	Así es: yo tampoco voy a intentar ponerme la coraza otra vez, ni nadie. No hasta tener la prueba de que alguien tiene una voluntad lo bastante fuerte para resistir el canto de sirena de la bestia.
+TEXT_JOBWAR451_01053_CURIOUSGORGE_000_023	Mira bien dentro de tu alma, <split(<string(gstr1)>, ,1)>. Mira a los ojos de la bestia que te devuelve la mirada. ¿De verdad puedes decir que eres capaz de pelear con ese monstruo y salir victorios<if(gnum4,a,o)>?
+TEXT_JOBWAR451_01053_CURIOUSGORGE_000_024	Volveré al tomo. Si hay respuestas, están en esas páginas. Mientras tanto, sigue entrenando, para que encuentres tu propia respuesta.
+TEXT_JOBWAR451_01053_POP_MESSAGE	¡Sientes una presencia hostil!
+TEXT_JOBWAR451_01053_ACCESS_MESSAGE	¡El enemigo sigue cerca!

@@ -1,0 +1,78 @@
+key	text
+TEXT_JOBWAR650_02902_SEQ_00	Broken Mountain perdió su habitual compostura.
+TEXT_JOBWAR650_02902_SEQ_01	La derrota en las ruinas de Nym no bastó para disuadir a los Mamool Ja: según los informes del mando del Maelstrom, ahora tienen la mira puesta en Wineport. Ni hace falta decir que Broken Mountain piensa rechazarlos otra vez. Y tampoco sorprende que espere que lo acompañes en la misión. Sin perder tiempo, va a Raincatcher Gully y te pide que lo veas allí cuando estés <if(gnum4,lista,listo)> para la batalla.
+TEXT_JOBWAR650_02902_SEQ_02	Mientras Broken Mountain repasa su plan para defender Wineport, a Dorgono la decepciona saber que la relegaron a tareas de apoyo. Aunque él teme el riesgo de que pierda el control, admite que con esa decisión les falta fuerza. Qué suerte, entonces, que Curious Gorge vuelva a toparse con la reunión en medio de Raincatcher Gully. Con la ayuda de su hacha, Broken Mountain guiará a sus hombres por una ruta al oeste más allá del Severed String, mientras tú vas directo al sur eliminando a los enemigos que se te crucen.
+TEXT_JOBWAR650_02902_SEQ_03	Mientras recorres Raincatcher Gully, te atacan dos guerreros Mamool Ja. Por desgracia para ellos, la suerte no está de su lado, y unos cuantos hachazos bastan para acabar con ellos. Sigues por el camino al sur, hacha en mano.
+TEXT_JOBWAR650_02902_SEQ_04	Pronto aparece otra banda de luchadores Mamool Ja. Aunque son más, siguen sin estar a la altura de tu destreza. Todavía con el hacha en la mano, te adentras más en la naturaleza.
+TEXT_JOBWAR650_02902_SEQ_05	Otra banda de Mamool Ja se atreve a cerrarte el paso. Pero poco pueden hacer contra tu terrible fuerza. Mientras sigues por el camino, ves a lo lejos una figura conocida.
+TEXT_JOBWAR650_02902_SEQ_06	Encuentras a Broken Mountain y a sus hombres maltrechos y derrotados. Según te explica, les tendieron una emboscada y Curious Gorge fue el primero en caer. Dorgono, que tampoco pudo escapar, probablemente esté peleando por su vida contra los Mamool Ja. Te pide que los encuentres antes de que sea tarde.
+TEXT_JOBWAR650_02902_SEQ_07	Encuentras a Curious Gorge herido y a Dorgono de pie sobre los cuerpos destrozados de los Mamool Ja. Se vuelve a mirarte con lo que parece una intención asesina, pero de pronto su mirada se suaviza. Al bajar el hacha, se da cuenta de que logró contener a su bestia interior. Curious Gorge, testigo de ese dominio de sí misma, siente su logro como una vergüenza propia. Mientras se va, demasiado avergonzado para enfrentar a los demás, Broken Mountain y sus hombres se acercan tambaleándose a felicitar a Dorgono. Después vuelven a Moraby Drydocks para despedirla por última vez.
+TEXT_JOBWAR650_02902_SEQ_08	Dorgono, que ahora puede controlar a su bestia interior, piensa volver a casa y recuperar la confianza de su pueblo. Pero todavía queda el asunto de Curious Gorge y su bestia interior dormida. Broken Mountain está convencido de que su hermano enfrenta una crisis como nunca conoció: se enamoró. Dorgono lo dejó hecho un torbellino de emociones, pero el tiempo cura todas las heridas. Broken Mountain sugiere darle a su hermano espacio para lidiar solo con esas emociones.<br><br>※La siguiente misión de warrior estará disponible con Broken Mountain al llegar al nivel 68.
+TEXT_JOBWAR650_02902_TODO_00	Habla con Broken Mountain en Raincatcher Gully Docks.
+TEXT_JOBWAR650_02902_TODO_01	Busca luchadores Mamool Ja en la zona.
+TEXT_JOBWAR650_02902_TODO_02	Busca luchadores Mamool Ja en la zona.
+TEXT_JOBWAR650_02902_TODO_03	Busca luchadores Mamool Ja en la zona.
+TEXT_JOBWAR650_02902_TODO_04	Reúnete con Broken Mountain.
+TEXT_JOBWAR650_02902_TODO_05	Busca a Curious Gorge.
+TEXT_JOBWAR650_02902_TODO_06	Habla con Broken Mountain en Moraby Drydocks.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_000	¡<split(<string(gstr1)>, ,1)>! Me temo que solo tengo malas noticias. ¡Los Mamool Ja volvieron con refuerzos!
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_001	Según los informes del mando del Maelstrom, tienen la mira puesta en Wineport. Como los echamos de las ruinas de Nym, no tengo duda de que piensan convertir la aldea en su nueva base de operaciones.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_002	Nosotros avivamos las llamas de su agresión, <split(<string(gstr1)>, ,1)>, así que es nuestro deber poner las cosas en orden.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_003	Me temo que son una amenaza demasiado grande para tomar esto como parte del entrenamiento de Dorgono. Pase lo que pase, espero que pongas a los Mamool Ja por encima de todo. Cuando estés <if(gnum4,lista,listo)>, mis hombres y yo te veremos en Raincatcher Gully.
+TEXT_JOBWAR650_02902_DORGONO_000_008	Hola, <split(<string(gstr1)>, ,1)>. Tu hacha se ve muy afilada <if([gnum11<12],<if([gnum11<4],esta noche,esta mañana)>,<if([gnum11<17],esta tarde,esta noche)>)>.
+TEXT_JOBWAR650_02902_WARRIOR02902_000_009	Oh, qué vida la mía, bendecida por segunda vez con tu presencia. Hablo por todos cuando digo que haremos todo lo posible por estar a la altura de tus hazañas.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_010	Nuestros exploradores dicen que los Mamool Ja siguen al sur.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_011	No hay forma de saber qué camino tomarán para llegar a Wineport, así que tenemos que cortarles el paso en todas las rutas posibles, no sea que conviertan la aldea en un campo de batalla.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_012	<split(<string(gstr1)>, ,1)>, te pido que vayas directo al sur y te deshagas de los enemigos que encuentres en el camino. Los demás barreremos hacia el oeste, hacia Red Mantis Falls, y después al sur por el Severed String. Dorgono, tú te quedas cerca de mí en la retaguardia. Me ayudarás dando apoyo, nada más.
+TEXT_JOBWAR650_02902_DORGONO_000_013	\<suspiro> Si insistes...
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_014	Lo siento, Dorgono, pero hay demasiado en juego para arriesgarnos a que pierdas el control de tu bestia interior. Aunque contigo conmigo en apoyo, me temo que quizás nos falte fuerza para acabar con los Mamool Ja.
+TEXT_JOBWAR650_02902_CURIOUSGORGE_000_015	¡No temas, hermano, que aquí tienes mi hacha!
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_016	Qué grata sorpresa. ¿Seguro que puedes pelear?
+TEXT_JOBWAR650_02902_CURIOUSGORGE_000_017	¡Después de partir rocas y derribar titanes con los marauders, nunca me sentí mejor!
+TEXT_JOBWAR650_02902_DORGONO_000_0018	Ugh, otra vez tú. ¿Viniste a retrasarnos, <italic(1)>gusano<italic(0)>?
+TEXT_JOBWAR650_02902_CURIOUSGORGE_000_019	No más que la vaca en celo que no puede controlar a su bestia interior. ¿Qué tal si cuando esto termine te muestro <italic(1)>mi<italic(0)> bestia interior y...?
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_020	¡Basta! ¡Los dos! Hermano, si estás seguro de poder con esto, quiero que vayas al frente.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_021	Muy bien, entonces. Movámonos rápido. <split(<string(gstr1)>, ,1)>, nos encontraremos donde se unen los caminos, en la ruta que lleva a Limsa Lominsa.
+TEXT_JOBWAR650_02902_WARRIOR02902_000_029	Mis disculpas, <if(gnum4,señora,señor)>. Le... Le fallamos.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_030	¿<split(<string(gstr1)>, ,1)>? Ah, gracias a los dioses, no estás herid<if(gnum4,a,o)>. Los Mamool Ja nos... nos tomaron por sorpresa al pasar por el Severed String. No tuvimos más remedio que ir rápido hacia el punto de encuentro.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_031	Como me temía, las bravuconadas de mi hermano no eran más que eso. Fue el primero en flaquear y no pudo seguirnos el paso cuando huimos. Él, junto con Dorgono.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_032	Por favor, tienes que encontrarlos. Antes de que los maten los Mamool Ja. O algo peor...
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_033	Por favor, <split(<string(gstr1)>, ,1)>, no te preocupes por mí: ¡tienes que encontrar a Dorgono y a mi hermano antes de que sea tarde!
+TEXT_JOBWAR650_02902_DORGONO_000_034	Grrr...
+TEXT_JOBWAR650_02902_CURIOUSGORGE_000_040	<split(<string(gstr1)>, ,1)>... Ten cuidado. Dorgono derrotó a los Mamool Ja, pero...
+TEXT_JOBWAR650_02902_CURIOUSGORGE_000_041	¡Su bestia interior la consumió!
+TEXT_JOBWAR650_02902_CURIOUSGORGE_000_042	Me fallaron las fuerzas, <split(<string(gstr1)>, ,1)>. Por favor, tienes que detener a Dorgono.
+TEXT_JOBWAR650_02902_DORGONO_000_043	¡L-Lo logré! ¡Contuve la voluntad de Karash!
+TEXT_JOBWAR650_02902_CURIOUSGORGE_000_044	¿Será posible? ¿Superó a su bestia interior por su determinación de protegerme?
+TEXT_JOBWAR650_02902_CURIOUSGORGE_000_045	Las llamas de su espíritu arden con tanta fuerza, y en cambio siento que las mías casi se apagaron.
+TEXT_JOBWAR650_02902_CURIOUSGORGE_000_046	Te ruego que vuelvas con los demás sin mí. No puedo enfrentarlos así.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_047	Matamos dos pájaros de un tiro: rechazamos a los Mamool Ja y Dorgono por fin logró controlar a su bestia interior.
+TEXT_JOBWAR650_02902_DORGONO_000_048	Ahora el poder de Karash lo controlo yo. ¡Pronto mi pueblo me recibirá con los brazos abiertos!
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_049	Eso espero. Volvamos a Moraby Drydocks a preparar tu despedida, ¿te parece?
+TEXT_JOBWAR650_02902_DORGONO_000_050	Antes me faltó valor para preguntarlo, pero ahora tengo que hacerlo: <split(<string(gstr1)>, ,1)>, ¿volverías... volverías conmigo a la Azim Steppe?
+TEXT_JOBWAR650_02902_DORGONO_000_051	Mi pueblo podría enseñarte mucho, igual que tú podrías enseñarnos a nosotros. Con tu ayuda, nunca más tendríamos que temer la voluntad de Karash.
+TEXT_JOBWAR650_02902_DORGONO_000_052	eliminado
+TEXT_JOBWAR650_02902_DORGONO_000_053	Por favor, <split(<string(gstr1)>, ,1)>, di que te unirás a mi clan.
+TEXT_JOBWAR650_02902_Q1_000_054	¿Qué vas a decir?
+TEXT_JOBWAR650_02902_A1_000_055	No puedo abandonar mis deberes aquí.
+TEXT_JOBWAR650_02902_A2_000_056	¿Y quién protegería Eorzea en mi ausencia?
+TEXT_JOBWAR650_02902_A3_000_057	Tengo que quedarme aquí y seguir entrenando.
+TEXT_JOBWAR650_02902_A4_000_058	...
+TEXT_JOBWAR650_02902_DORGONO_000_059	Sí, claro. Sería egoísta de mi parte pedirte que abandones tus obligaciones.
+TEXT_JOBWAR650_02902_DORGONO_000_060	¡Por la Mother, claro! ¿Cómo pude estar tan ciega? Nunca podría privar a Eorzea de <if(gnum4,su protectora,su protector)>.
+TEXT_JOBWAR650_02902_DORGONO_000_061	Si prefieres entrenar aquí y no en la Azim Steppe, estás en tu derecho.
+TEXT_JOBWAR650_02902_DORGONO_000_062	Yo... Lo siento. ¿En qué estaba pensando, al pedirte algo tan tonto?
+TEXT_JOBWAR650_02902_DORGONO_000_063	Olvida que te lo pregunté. Fue una tontería pensar que dejarías tu vida aquí en Eorzea.
+TEXT_JOBWAR650_02902_DORGONO_000_064	Vamos, deberíamos volver a Moraby Drydocks. Los demás nos esperan.
+TEXT_JOBWAR650_02902_DORGONO_000_068	Lo que hablamos hace un rato queda entre nosotros, ¿sí?
+TEXT_JOBWAR650_02902_WARRIOR02902_000_069	Voy a extrañar a Dorgono. Era una rosa hermosa en medio de un montón de... Ejem. Olvida lo que dije.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_070	Me duele dejar ir a una warrior tan buena. Aun así, no puedo reprocharte que quieras volver a casa.
+TEXT_JOBWAR650_02902_DORGONO_000_071	Una parte de mí quiere quedarse y devolverles su bondad. Antes de venir aquí, estaba segura de que la redención estaba fuera de mi alcance.
+TEXT_JOBWAR650_02902_DORGONO_000_072	Ahora, gracias a ustedes y a sus warriors, aprendí a dominar el poder de Karash. Por fin puedo volver a casa y mostrarle a mi pueblo que esta fuerza es un don, no una maldición.
+TEXT_JOBWAR650_02902_DORGONO_000_073	Gracias a todos, por todo. Adiós.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_074	Otra vez estamos en deuda contigo, <split(<string(gstr1)>, ,1)>. No solo eliminamos la amenaza de los Mamool Ja, sino que ayudamos a Dorgono a encaminarse para reunirse con su pueblo.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_075	Pero todavía queda el asunto de mi hermano. Él nunca se atrevería a admitirlo, pero supe desde el momento en que la vio que estaba enamorado. Y ahí está el problema.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_076	El único amor que conoció en su vida es el de su hacha y la emoción de la batalla. Después de cómo lo trató ella desde que lo derrotó aquí, en el Wolves' Den, me temo que su amor y su rechazo hacia ella están en guerra.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_077	Como no logra dominar sus emociones, perdió el contacto con su bestia interior.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_078	Seguro que su ausencia lo va a afligir, pero, como dicen, el tiempo cura todas las heridas.
+TEXT_JOBWAR650_02902_BROKENMOUNTAIN_000_079	Lo único que podemos hacer ahora es esperar y confiar en que se recupere. Si pasa algo, serás la primera persona en saberlo.

@@ -1,0 +1,54 @@
+key	text
+TEXT_JOBWAR630_02901_SEQ_00	Parece que algo le pesa en la mente a Broken Mountain.
+TEXT_JOBWAR630_02901_SEQ_01	Broken Mountain decidió cómo empezar a entrenar a Dorgono. Pero mientras se prepara para ayudarla a dominar a su bestia interior, no puede dejar de preocuparse por Curious Gorge, que dice que su bestia interior se quedó en silencio. Por desgracia no hay tiempo para lamentarse, porque el Maelstrom le pidió ayuda a la tropa de warriors de Broken Mountain para expulsar a una banda de Mamool Ja fuera de la ley. Él lo ve como una oportunidad para Dorgono, porque cree que la determinación de defender a sus aliados le permitirá controlar a su bestia interior. Prepara a sus hombres y parte hacia las ruinas de Nym, en Outer La Noscea.
+TEXT_JOBWAR630_02901_SEQ_02	Con todos reunidos, Broken Mountain te explica su plan. Con Dorgono a su lado, llevará a su banda de warriors por el Long Climb y barrerá a la fuerza principal de los Mamool Ja. Mientras tanto, tú tienes que colarte en el corazón de las ruinas y eliminar a los centinelas. Con las órdenes repartidas, se separan para reunirse en el camino que lleva a Hermit's Hovel.
+TEXT_JOBWAR630_02901_SEQ_03	Mientras recorres el corazón de las ruinas de Nym, ves a dos luchadores Mamool Ja y los derrotas rápido y en silencio. Quizás queden otros centinelas en la zona.
+TEXT_JOBWAR630_02901_SEQ_04	Das con otro par de luchadores Mamool Ja y los tomas por sorpresa. Como parece que no hay moros en la costa, sigues por el camino a través de las ruinas en busca de los demás.
+TEXT_JOBWAR630_02901_SEQ_05	Broken Mountain y sus hombres están intactos, y Dorgono no mostró señales de sucumbir a su bestia interior en la batalla. Pero su calma no era motivo de celebración. Curious Gorge, que daba un inocente paseo por las ruinas de Nym, la vio pelear y notó que Dorgono se contenía. Aunque solo quería ahorrarles a sus compañeros el riesgo de su bestia interior, eso significa que todavía no domina el poder que ruge dentro de ella. Aun así, los Mamool Ja fueron expulsados y los cargamentos del Maelstrom ya pueden pasar sin peligro. Solo queda volver a Moraby Drydocks y descansar.
+TEXT_JOBWAR630_02901_SEQ_06	Todos volvieron a salvo a Moraby Drydocks... todos menos Curious Gorge. Qué raro que haya dado con su misión en las ruinas de Nym. Broken Mountain cree que tiene que ver con el origen del dilema personal de Curious Gorge, pero te asegura que no es nada de qué preocuparse. Por ahora te pide que descanses y te prepares para el siguiente paso del entrenamiento de Dorgono.<br><br>※La siguiente misión de warrior estará disponible con Broken Mountain al llegar al nivel 65.
+TEXT_JOBWAR630_02901_TODO_00	Habla con Broken Mountain en la Floating City of Nym.
+TEXT_JOBWAR630_02901_TODO_01	Busca luchadores Mamool Ja en la zona.
+TEXT_JOBWAR630_02901_TODO_02	Busca luchadores Mamool Ja en la zona.
+TEXT_JOBWAR630_02901_TODO_03	Reúnete con Broken Mountain.
+TEXT_JOBWAR630_02901_TODO_04	Habla con Broken Mountain en Moraby Drydocks.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_000	Llegas en buen momento, <split(<string(gstr1)>, ,1)>. Ya decidí cómo empezar a entrenar a Dorgono. Por desgracia, como ya sabes, mi hermano no va a estar. Parece que su situación es más grave de lo que pensé al principio.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_001	Desde su choque con Dorgono, no logra sacar la fuerza de su bestia interior. Insiste en que repasar lo básico del hacha en el Marauders' Guild le devolverá sus habilidades, pero sospecho que su problema está en otro lado. Y lo mismo puede decirse de Dorgono.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_002	Aunque mi hermano y yo no terminamos el entrenamiento formal en el camino del warrior, recordarás que al final descubrimos una forma de que él controlara la ferocidad de su bestia interior: una situación desesperada que endureció su determinación de proteger a sus aliados y le permitió templar su furia.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_003	Ella cree que su problema se resolverá con entrenamiento físico, pero si queremos tener éxito, tenemos que recrear una experiencia parecida para Dorgono. Puede ser peligroso, pero no veo otra forma.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_004	Y no tendremos que esperar mucho la oportunidad. Da la casualidad de que nos pidieron ayuda para expulsar a un grupo de Mamool Ja que ahora ocupa las ruinas de la ciudad de Nym.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_005	Al principio vinieron aquí en busca de trabajo. Pero como no lo encontraron, se dedicaron al pillaje y al saqueo, y ni siquiera los convoyes del Maelstrom se salvan.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_006	Para colmo, la zona también es la primera línea de las batallas con los kobolds. Cualquiera de esas dos tribus ya es bastante para nuestras fuerzas, y no podemos con las dos.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_007	Por eso llamaron a nuestro escuadrón de warriors recién entrenados para esta incursión. Dorgono vendrá con nosotros, y tu presencia será imprescindible por si pierde el control. Cuando estés <if(gnum4,lista,listo)>, ve a las ruinas de Outer La Noscea.
+TEXT_JOBWAR630_02901_DORGONO_000_010	Estos Mamool Ja parecen una tribu salvaje. Me pregunto si podrían con los Dotharl...
+TEXT_JOBWAR630_02901_WARRIOR02901_000_011	¡Por la Navigator, <string(gstr1)>! Las historias de tu heroísmo nos inspiraron a todos. Es un verdadero honor pelear a tu lado.
+TEXT_JOBWAR630_02901_CURIOUSGORGE_000_012	¡Ahhh! ¡Por los pechos de la Matron, no me asustes así!<br>¿Que por qué estoy aquí? Solo salí a dar un paseo. ¿Qué ganaría yo con espiarte a ti y a Dorgono...?
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_020	Bien, ya estamos todos. Por lo que puedo ver, los Mamool Ja se dividieron en dos grupos: una fuerza principal que apunta al próximo cargamento del Maelstrom, y lo que parecen grupos de centinelas apostados para avisar de cualquier intromisión.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_021	Como eres quien tiene más destreza entre nosotros, quiero que te cueles en el corazón de las ruinas y te deshagas de los que vigilan.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_022	Mientras tanto, yo guiaré a los demás por una ruta al norte hacia el Long Climb y atacaremos a su fuerza principal. Si todo sale según el plan, deberíamos encontrarnos donde se unen los dos caminos.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_023	Si a Dorgono la domina su bestia interior y no da señales de recuperar el control, nos retiraremos de inmediato y te buscaremos.
+TEXT_JOBWAR630_02901_DORGONO_000_024	Si llegamos a enfrentarnos, te lo ruego: haz lo que tengas que hacer para detenerme.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_025	Eso es todo. Si no hay preguntas, ¡que empiece la operación!
+TEXT_JOBWAR630_02901_DORGONO_000_028	¡Sí! ¡Bieeen!
+TEXT_JOBWAR630_02901_WARRIOR02901_000_029	¡<if(gnum4,Señorita <split(<string(gstr1)>, ,2)>,Señor <split(<string(gstr1)>, ,2)>)>, está <if(gnum4,ilesa,ileso)>! Claro que no esperaba menos de <if(gnum4,una warrior tan aclamada,un warrior tan aclamado)>.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_030	Ah, <split(<string(gstr1)>, ,1)>. Por lo seca que tienes la frente, supongo que despachaste rápido a los centinelas. Nosotros, por nuestra parte, logramos una victoria ajustada sobre la fuerza principal de los Mamool Ja.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_031	Y pese al caos y el estrago de la batalla, la bestia interior de Dorgono no la afectó.
+TEXT_JOBWAR630_02901_DORGONO_000_032	¡Ya no soy esclava de Karash! ¡Soy dueña de la bestia interior!
+TEXT_JOBWAR630_02901_CURIOUSGORGE_000_033	(-???-)¿Dueña? Ni de cerca.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_034	¡Hermano! ¿Qué haces aquí? ¿Nos estuviste siguiendo todo este tiempo?
+TEXT_JOBWAR630_02901_CURIOUSGORGE_000_035	¿¡Siguiendo!? ¡Tonterías! Solo estaba... ¡dando un paseo! Sí, daba un paseo tranquilo por las ruinas de Nym cuando di con su pequeño altercado con los Mamool Ja.
+TEXT_JOBWAR630_02901_CURIOUSGORGE_000_036	No pude evitar fijarme en tu figura, Dorgono. Tu figura de combate, digo. Cualquiera con ojos podía ver que dudabas en cada golpe de hacha.
+TEXT_JOBWAR630_02901_CURIOUSGORGE_000_037	Nunca vas a aprender a controlar a tu bestia interior si tienes demasiado miedo de exigirte y sacarla. Créeme, lo sé.
+TEXT_JOBWAR630_02901_DORGONO_000_038	¿Miedo, yo? Hmph, mira quién habla: ¡el gusano patético al que mandé volando al agua del muelle del Wolves' Den!
+TEXT_JOBWAR630_02901_CURIOUSGORGE_000_039	¿¡Gusano!? Desagradecida... Vuelve a llamarme así y te...
+TEXT_JOBWAR630_02901_DORGONO_000_040	Te llamo como me dé la gana, <italic(1)>gusano<italic(0)>. Si tienes quejas, díselas a mi hacha.
+TEXT_JOBWAR630_02901_CURIOUSGORGE_000_041	Tú... Tienes suerte de que hoy ande algo indispuesto. La próxima vez que nos veamos, voy a tener que meterte algo de modales en esa linda cabecita tuya.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_042	Aunque no te guste su opinión, tengo que darle la razón a mi hermano. Yo también noté que parecías contenerte.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_043	Aunque la batalla fue dura, no mostraste necesidad de esforzarte de más, y mucho menos de recurrir a tu bestia interior.
+TEXT_JOBWAR630_02901_DORGONO_000_044	Nunca quise contenerme, es solo que, bueno... Pensé que era mejor no preocupar a los demás.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_045	No tienes que ser tan dura contigo. No aprendiste a controlar a tu bestia interior, no, pero derrotamos a los Mamool Ja, y los cargamentos a Limsa ya están a salvo. Todos deberíamos estar orgullosos de lo que logramos hoy. Ahora volvamos a Moraby Drydocks a un merecido descanso.
+TEXT_JOBWAR630_02901_DORGONO_000_046	Tu paliza a los Mamool Ja debe haber sido algo glorioso de ver. Nunca conocí a <if(gnum4,una mujer tan valiente,un hombre tan valiente)>, tan fuerte. Tan fuerte como para vencerme incluso cuando suelto a mi bestia interior.
+TEXT_JOBWAR630_02901_DORGONO_000_047	Si tan solo pudiera llevarte a la Azim Steppe, yo... Me tengo que ir.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_050	Parece que hará falta más que una pequeña escaramuza con hombres bestia para que Dorgono controle a su bestia interior.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_051	Ojalá Curious Gorge estuviera aquí para ayudarnos. ¿A ti también te pareció raro que dejara su entrenamiento para hablar con nosotros? O más bien, con Dorgono...
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_052	Si mis sospechas son ciertas, enfrenta un obstáculo como ningún otro que haya enfrentado antes. Aunque seguro que no es nada que deba preocuparte.
+TEXT_JOBWAR630_02901_BROKENMOUNTAIN_000_053	Hoy hiciste un buen trabajo. Descansa ahora y recupera fuerzas. Seguro que las vamos a necesitar para las pruebas que vienen.

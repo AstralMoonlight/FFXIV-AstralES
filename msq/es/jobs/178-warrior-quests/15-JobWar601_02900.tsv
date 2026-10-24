@@ -1,0 +1,62 @@
+key	text
+TEXT_JOBWAR601_02900_SEQ_00	Por el fuego en sus ojos, Curious Gorge parece listo para pelear.
+TEXT_JOBWAR601_02900_SEQ_01	Desde la última vez que viste a Curious Gorge, la fama del Maelstrom y sus warriors se extendió por todas partes. De hecho, una banda anónima de marauders los desafió a combatir en el Wolves' Den. Aunque nadie sabe quiénes son esos luchadores, parecen conocerte bien a ti y tus hazañas, porque también pidieron que estés presente. Curious Gorge, que no es de los que decepcionan, viaja sin perder tiempo a Moraby Drydocks para reunirse con su hermano.
+TEXT_JOBWAR601_02900_SEQ_02	Participas en una batalla emocionante contra un Wyrnzoen mal disfrazado y su séquito. Cuando se asienta el polvo, una de sus marauders se niega a rendirse. Aunque Wyrnzoen no entiende por qué no cede, su mirada lo dice todo: la ceguera de la furia de su bestia interior. Tras arrojar al agua del muelle a Wyrnzoen, a Broenbhar y hasta a Curious Gorge, quedan solo tú y Broken Mountain para someter a esa bestia salvaje.
+TEXT_JOBWAR601_02900_SEQ_03	Ya en sus cabales, la joven marauder se presenta como Dorgono, del clan Qerel. La bestia interior no le es ajena a su pueblo, pero no saben controlarla. Por eso destierran a los que, como ella, caen bajo su influencia. Vino a Eorzea a pulir sus habilidades con la esperanza de dominar a su bestia interior. Broken Mountain acepta de buena gana a Dorgono como nueva alumna. Curious Gorge, en cambio, se considera incapaz de entrenarla y decide entrenar por su cuenta.
+TEXT_JOBWAR601_02900_SEQ_04	Broken Mountain teme no tener tiempo para supervisar a los nuevos warriors del Maelstrom y además ocuparse del entrenamiento de Dorgono. Recurre a ti, porque sabe que solo tú puedes derrotar a Dorgono si se pierde en su bestia interior. Por ahora te pide que descanses mientras piensa cuál es la mejor forma de entrenarla.<br><br>※La siguiente misión de warrior estará disponible con Broken Mountain al llegar al nivel 63.
+TEXT_JOBWAR601_02900_TODO_00	Habla con Broken Mountain en Moraby Drydocks.
+TEXT_JOBWAR601_02900_TODO_01	Habla con Broken Mountain.
+TEXT_JOBWAR601_02900_TODO_02	Habla con Broken Mountain.
+TEXT_JOBWAR601_02900_CURIOUSGORGE_000_000	¡Ah, <split(<string(gstr1)>, ,1)>! Siempre es un gusto verte. Por lo curtida que tienes la mirada, veo que no escatimaste esfuerzos en afilar tu hacha en el campo de batalla.
+TEXT_JOBWAR601_02900_CURIOUSGORGE_000_001	Mi hermano y yo también vimos bastantes batallas, junto con los nuevos warriors del Maelstrom. Su entrenamiento va muy bien.
+TEXT_JOBWAR601_02900_CURIOUSGORGE_000_002	De hecho, nuestras hazañas nos ganaron una especie de admiradores: hace poco recibimos una invitación anónima para participar en unos ejercicios de combate en el Wolves' Den.
+TEXT_JOBWAR601_02900_CURIOUSGORGE_000_003	No tengo la menor idea de quiénes son, pero parece que <italic(1)>tú<italic(0)> sí. Te mencionaron por tu nombre e insistieron en que también te sumes a la pelea.
+TEXT_JOBWAR601_02900_CURIOUSGORGE_000_004	Quizás quieran saldar una vieja cuenta. En cualquier caso, ¿quiénes somos nosotros para negarles la oportunidad de temblar ante el poder del hacha de un warrior?
+TEXT_JOBWAR601_02900_CURIOUSGORGE_000_005	Vamos, <split(<string(gstr1)>, ,1)>. Mi hermano nos preparó un barco en Moraby Drydocks. Si lo que quieren es una paliza, ¡no dudemos en dársela!
+TEXT_JOBWAR601_02900_SYSTEM_100_100	eliminado
+TEXT_JOBWAR601_02900_SYSTEM_100_101	eliminado
+TEXT_JOBWAR601_02900_SYSTEM_100_102	eliminado
+TEXT_JOBWAR601_02900_CURIOUSGORGE_000_008	No perdamos tiempo, <split(<string(gstr1)>, ,1)>. Sería de mala educación hacer esperar más a nuestros anfitriones.
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_010	Bien, llegaste. Como seguro te contó mi hermano, todavía no sabemos quiénes son estos retadores.
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_011	Al principio, claro, nos negamos. Nuestro tiempo estaría mejor invertido entrenando a las tropas. Pero al final no pude resistirme a su entusiasmo por pelear y sus ganas de mostrar su destreza en combate, y acepté por mi cuenta. Supuse que, como mínimo, sería inspirador para nuestros hombres.
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_012	Contigo a nuestro lado, será una experiencia de lo más enriquecedora para todos. No tengo nada que enseñarles a nuestros hombres sobre cómo blandir un hacha, pero haré lo que pueda para ayudarte con mi magia curativa. Cuando estés <if(gnum4,lista,listo)> para la batalla, podemos salir hacia el Wolves' Den.
+TEXT_JOBWAR601_02900_WYRNZOEN_000_015	(-¿Wyrnzoen...?-)¡<string(gstr1)>, no lo puedo creer! Pasó demasiado tiempo. Dicen que te volviste muy fuerte desde la batalla de Salt Strand. Que hasta dominaste las artes olvidadas del warrior.
+TEXT_JOBWAR601_02900_WYRNZOEN_000_016	(-¿Wyrnzoen...?-)Pero las palabras se las lleva el viento. ¡Prepara tu hacha y demuéstrame por qué los hombres deberían temer la mordida de tu acero!
+TEXT_JOBWAR601_02900_WYRNZOEN_000_020	(-¿Wyrnzoen...?-)Así que esta... \<jadeo> Esta es la fuerza de un warrior, el arte de la batalla que celebran las leyendas. Quizás, con unos inviernos menos, mis esfuerzos habrían sido algo más que una lucha inútil. Cumpliste y superaste todas las expectativas.
+TEXT_JOBWAR601_02900_BROENBHAR_000_021	(-Tipo conocido-)Sí. Me duele decirlo, pero no somos rivales para alguien como tú. Que los dioses nos ayuden si los Sahagin aprenden a manejar el hacha así.
+TEXT_JOBWAR601_02900_WYRNZOEN_000_022	En efecto, <if(gnum4,la alumna,el alumno)> superó al maestro... ¡al maestro del <italic(1)>gremio<italic(0)>! ¡Porque era yo desde el principio! ¡Ja, ja, ja!
+TEXT_JOBWAR601_02900_WYRNZOEN_000_023	...¿Ni siquiera una ceja levantada? Nuestros disfraces no eran tan malos. ¿O me vas a decir que olvidaste la cara de tu antiguo instructor?
+TEXT_JOBWAR601_02900_CURIOUSGORGE_000_024	¿Wyrnzoen? ¡Por los Twelve, eres tú! ¡Y Broenbhar! No esperaba aplastar con tanta facilidad a los famosos marauders de Limsa. Esto fue solo un calentamiento, ¿no? Ni siquiera empezamos a sudar.
+TEXT_JOBWAR601_02900_DORGONO_000_025	(-Luchadora encantadora-)Unnngh...
+TEXT_JOBWAR601_02900_DORGONO_000_026	(-Luchadora encantadora-)¡Graaaghhh!
+TEXT_JOBWAR601_02900_WYRNZOEN_000_027	¡Dorgono! ¿Qué te pasa?
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_028	¡Esos ojos! ¿¡Usa la fuerza de su bestia interior!?
+TEXT_JOBWAR601_02900_CURIOUSGORGE_000_029	Qué manera de blandir el hacha... es un sueño...
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_030	¡Hermano!
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_031	<split(<string(gstr1)>, ,1)>. No podemos dejar que salga de este muelle.
+TEXT_JOBWAR601_02900_DORGONO_000_040	L-Lo siento. La voluntad de Karash arde con fuerza dentro de mí. Demasiada fuerza.
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_041	¿Karash...? Estoy casi seguro de que eso era el ataque desenfrenado de alguien dominado por su bestia interior.
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_042	Pero es algo que rara vez se ve fuera de los muros de mi aldea. ¿Quién eres y de dónde vienes, amiga?
+TEXT_JOBWAR601_02900_DORGONO_000_043	Soy Dorgono, de los Qerel. Mi hogar está... estaba... en la Azim Steppe, en tierras muy al este.
+TEXT_JOBWAR601_02900_DORGONO_000_044	Nadie nos iguala en el arte del hacha. Somos un pueblo fuerte. A veces <italic(1)>demasiado<italic(0)> fuerte. Hay algunos como yo, consumidos por eso que ustedes llaman bestia interior, la voluntad de Karash. Somos los Taken, malditos con una sed insaciable de violencia.
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_045	¡Increíble! Tu pueblo se parece bastante al de mi aldea.
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_046	Aunque supongo que es lógico que otros compartan este don. La fuerza de la bestia interior nace de un instinto primitivo con el que todos nacemos. Solo es cuestión de aprender a sacarla, una técnica que los warriors dominamos hace mucho.
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_047	Y aun así lo llamas maldición. ¿Tu pueblo no aprendió a controlar este poder?
+TEXT_JOBWAR601_02900_DORGONO_000_048	¿La voluntad de Karash, esta... bestia interior... se puede controlar?
+TEXT_JOBWAR601_02900_DORGONO_000_049	¡Entonces quizás por fin pueda volver a casa!
+TEXT_JOBWAR601_02900_DORGONO_000_050	A los Taken los condenan al destierro. Por eso viajé al oeste, a entrenarme más en el arte del hacha. Si logro superar esta aflicción, quizás tenga una oportunidad de redimirme.
+TEXT_JOBWAR601_02900_WYRNZOEN_000_051	Bueno, sin duda esto es un giro inesperado. Como es nuestra recluta más prometedora, quería ver cómo le iba contra combatientes curtidos. Nunca pensé que de verdad pudiera derrotar a alguien como Curious Gorge.
+TEXT_JOBWAR601_02900_WYRNZOEN_000_052	Me parece que seguir entrenándola bajo nuestro techo sería un desperdicio. ¿Estarían dispuestos a hacerse cargo de ella?
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_053	Bueno, no podemos dejarla sin supervisión. Si sucumbe a su bestia interior, quién sabe qué destrozos podría causar.
+TEXT_JOBWAR601_02900_WYRNZOEN_000_054	Entonces la dejo en sus manos capaces. Seguro que harán de ella una gran warrior.
+TEXT_JOBWAR601_02900_DORGONO_000_055	¡Gracias, señor! Haré todo lo que me pida si con eso logro domar a esta bestia miserable que llevo dentro.
+TEXT_JOBWAR601_02900_CURIOUSGORGE_000_056	Yo... No puedo creer que perdí. ¿Cómo voy a instruir a otros si todavía me falta tanto?
+TEXT_JOBWAR601_02900_CURIOUSGORGE_000_057	Hermano, lo siento, pero no puedo guiarla en el camino del warrior cuando yo mismo tropecé en él.
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_058	No, déjalo. Su falta de determinación solo pondría obstáculos a la tarea que tenemos por delante.
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_059	Es un camino que tiene que recorrer solo. Vamos, vámonos.
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_060	Con mi hermano metido en su propio entrenamiento por un tiempo, me temo que voy a estar demasiado ocupado supervisando la instrucción de los reclutas del Maelstrom para guiar como corresponde a Dorgono. Que los dioses nos ayuden si la consume su bestia interior.
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_061	Seguro que, con tanto mundo recorrido, tienes otras obligaciones urgentes, pero eres la única persona capaz de contener a Dorgono si pasa lo peor. ¿Crees que podrías dedicar algo de tiempo a ayudarme con su entrenamiento?
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_065	Ah, gracias a los dioses. No sé qué habría hecho si te negabas.
+TEXT_JOBWAR601_02900_BROKENMOUNTAIN_000_067	Normalmente nos reunimos a entrenar en el Wolves' Den, pero creo que con Dorgono hay que hacer una excepción. Sí, tanto por su bien como por el del resto de los reclutas del Maelstrom. Por ahora quiero pensarlo un poco. Te ruego que vuelvas en unos días, y ya tendré una solución.
+TEXT_JOBWAR601_02900_SYSTEM_000_070	La siguiente misión de warrior estará disponible con Broken Mountain al llegar al nivel 63.
+TEXT_JOBWAR601_02900_SYSTEM_000_071	Puedes revisar en el journal los requisitos para empezar las siguientes misiones.
