@@ -1,0 +1,325 @@
+key	text
+TEXT_ADDON_1003	GP
+TEXT_ADDON_1004	CP
+TEXT_ADDON_1014	min
+TEXT_ADDON_1015	h
+TEXT_ADDON_1017	Beneficios de la comida (EXP +<num(lnum1)>%)
+TEXT_ADDON_1023	A
+TEXT_ADDON_1024	STR
+TEXT_ADDON_1025	VIT
+TEXT_ADDON_1026	DEX
+TEXT_ADDON_1027	INT
+TEXT_ADDON_1028	MND
+TEXT_ADDON_1030	Objetivo
+TEXT_ADDON_1031	Bonificación
+TEXT_ADDON_1032	Preparando
+TEXT_ADDON_1033	Subobjetivo
+TEXT_ADDON_1034	Nv. 
+TEXT_ADDON_1040	Ranura
+TEXT_ADDON_1041	Combo
+TEXT_ADDON_1043	Fijar
+TEXT_ADDON_1044	Cambiar set
+TEXT_ADDON_1045	<icon(19)><br>Editar
+TEXT_ADDON_1046	<icon2(11)> Comparar precios
+TEXT_ADDON_1047	Ver el perfil de la compañía
+TEXT_ADDON_1049	Recompensas de rama
+TEXT_ADDON_1050	Lanzando
+TEXT_ADDON_1051	Interrumpido
+TEXT_ADDON_1052	Obteniendo la firma
+TEXT_ADDON_1053	EP
+TEXT_ADDON_1054	Costo de EP
+TEXT_ADDON_1055	Coleccionable
+TEXT_ADDON_1056	Collectability
+TEXT_ADDON_1059	Sistema
+TEXT_ADDON_1060	Rango: <num(lnum1)>
+TEXT_ADDON_1061	Componentes: <num(lnum1)>
+TEXT_ADDON_1062	Vigilancia: <if([lnum1>0],+<num(lnum1)>,<num(lnum1)>)>
+TEXT_ADDON_1063	Recuperación: <if([lnum1>0],+<num(lnum1)>,<num(lnum1)>)>
+TEXT_ADDON_1064	Velocidad: <if([lnum1>0],+<num(lnum1)>,<num(lnum1)>)>
+TEXT_ADDON_1065	Alcance: <if([lnum1>0],+<num(lnum1)>,<num(lnum1)>)>
+TEXT_ADDON_1066	Favor: <if([lnum1>0],+<num(lnum1)>,<num(lnum1)>)>
+TEXT_ADDON_1068	Funciones de las piezas
+TEXT_ADDON_1069	Bonificación de equipamiento
+TEXT_ADDON_1070	Jobs adicionales
+TEXT_ADDON_1071	Dark Knight
+TEXT_ADDON_1072	Astrologian
+TEXT_ADDON_1073	Machinist
+TEXT_ADDON_1075	Bonificación de grupo
+TEXT_ADDON_1077	Disponible por debajo del nv. <num(lnum1)>
+TEXT_ADDON_1080	DoW/DoM
+TEXT_ADDON_1081	DoH/DoL
+TEXT_ADDON_1082	Tanque
+TEXT_ADDON_1083	Sanador
+TEXT_ADDON_1084	DPS cuerpo a cuerpo
+TEXT_ADDON_1085	DPS físico a distancia
+TEXT_ADDON_1086	DPS mágico a distancia
+TEXT_ADDON_1090	Levequests a gran escala
+TEXT_ADDON_1092	¿Usar <if(lnum1,<if([lnum1<=10],<switch(lnum1,una,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)> guildleve <if([lnum0==1],allowance,allowances)> para aceptar <string(lstr2)>?
+TEXT_ADDON_1094	<headall(<sheet(ClassJob,lnum1,0)>)> [Job limitado]
+TEXT_ADDON_1095	Agregar pestaña
+TEXT_ADDON_1096	Chat Log Settings
+TEXT_ADDON_1097	Novice Network List
+TEXT_ADDON_1098	Unirse a la Novice Network
+TEXT_ADDON_1099	¡Interrumpido!
+TEXT_ADDON_1100	Objetivo <num(lnum1)>/<num(lnum2)>
+TEXT_ADDON_1101	MANIOBRA
+TEXT_ADDON_1102	MANIOBRA EN TIEMPO ACTIVO
+TEXT_ADDON_1103	ÉXITO
+TEXT_ADDON_1104	FALLO
+TEXT_ADDON_1105	Recibiste una respuesta del Support Desk.<br>Ábrelo desde el menú principal para verla.
+TEXT_ADDON_1106	Recibiste una carta de un GM.<br>Visita a un delivery moogle para recibirla y leerla.
+TEXT_ADDON_1107	Tienes una carta nueva.<br>Vuelve a tu Home World y visita a un delivery moogle para recibirla y leerla.
+TEXT_ADDON_1114	Tienes una carta nueva.<br>Visita a un delivery moogle para recibirla y leerla.
+TEXT_ADDON_1115	Alianza A
+TEXT_ADDON_1116	Alianza B
+TEXT_ADDON_1118	Alianza C
+TEXT_ADDON_1119	World actual (<if([lnum1==0],Home World,World de visita)>)
+TEXT_ADDON_1120	Cadena n.º
+TEXT_ADDON_1121	¡Bonificación de cadena! <if([lnum1==1],Queda,Quedan)> <num(lnum1)> <if([lnum1==1],segundo,segundos)>.
+TEXT_ADDON_1122	¡Se acabó el tiempo!
+TEXT_ADDON_1123	CAMBIO DE CLASE
+TEXT_ADDON_1124	CAMBIO DE JOB
+TEXT_ADDON_1125	Cadena HQ n.º
+TEXT_ADDON_1126	Enviando: <num(lnum1)>  Recibiendo: <num(lnum2)>
+TEXT_ADDON_1127	Hora local
+TEXT_ADDON_1128	Hora del servidor
+TEXT_ADDON_1129	Hora de Eorzea
+TEXT_ADDON_1130	HL
+TEXT_ADDON_1131	HS
+TEXT_ADDON_1132	HE
+TEXT_ADDON_1133	Apoyo
+TEXT_ADDON_1136	Reproduciendo duty grabado
+TEXT_ADDON_1137	Duty Recorder en pausa<br>Este duty se puede grabar. Inicia un <colortype(506)><edgecolortype(507)>record ready check<edgecolortype(0)><colortype(0)> para empezar a grabar.
+TEXT_ADDON_1138	Grabando duty
+TEXT_ADDON_1139	La alarma <colortype(500)><edgecolortype(501)><string(lstr1)><edgecolortype(0)><colortype(0)> quedó fijada para las <settime(lnum3)><if([lnum5==0],<num(t_hour)>:<sec(t_min)>,<if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)>)> <switch(lnum2,,,)>.<br>Se avisará <num(lnum4)> <if([lnum4==1],minuto,minutos)> antes.
+TEXT_ADDON_1140	Botín
+TEXT_ADDON_1144	Unirse al FATE
+TEXT_ADDON_1145	Level Sync
+TEXT_ADDON_1150	Cambio de hotbar
+TEXT_ADDON_1151	Modo PvP
+TEXT_ADDON_1152	Tiempo de carga
+TEXT_ADDON_1154	Esperar
+TEXT_ADDON_1155	Party List Settings
+TEXT_ADDON_1156	<colortype(506)><edgecolortype(507)>Si entras con un grupo, entrarás como grupo entre mundos.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_1160	Alianza D
+TEXT_ADDON_1161	Alianza E
+TEXT_ADDON_1162	Alianza F
+TEXT_ADDON_1166	Favoritos
+TEXT_ADDON_1168	Agregar a favoritos
+TEXT_ADDON_1169	Quitar de favoritos
+TEXT_ADDON_1170	Agregar a la hotbar
+TEXT_ADDON_1171	Quitar del historial
+TEXT_ADDON_1172	Orden predeterminado
+TEXT_ADDON_1173	Por nombre
+TEXT_ADDON_1174	Ordena los emotes.
+TEXT_ADDON_1180	Emotes favoritos y usados hace poco.
+TEXT_ADDON_1181	Gestos y movimientos estándar.
+TEXT_ADDON_1182	Movimientos que se repiten, ajustables u otros especiales.
+TEXT_ADDON_1183	Expresiones faciales.
+TEXT_ADDON_1184	Busca emotes.<br>※También puedes buscar con los comandos de texto.
+TEXT_ADDON_1185	Fija o libera la brújula del minimapa.
+TEXT_ADDON_1186	Fija o libera los íconos de la hotbar.
+TEXT_ADDON_1187	Centra el mapa en tu posición.
+TEXT_ADDON_1188	Mueve el cursor al menú de selección de mapas.
+TEXT_ADDON_1190	Limit Break
+TEXT_ADDON_1191	Si continúas, se perderán los cambios sin guardar. ¿Continuar?
+TEXT_ADDON_1192	Muestra los mapas de la región o del mundo.
+TEXT_ADDON_1193	Muestra u oculta el texto del mapa.
+TEXT_ADDON_1194	Activa o desactiva la transparencia del mapa cuando no está en uso.
+TEXT_ADDON_1196	Mapa del mundo
+TEXT_ADDON_1197	Fija el mapa para que no se cierre con la tecla Escape, con el botón <icon2(10)> ni al abrir el menú principal.
+TEXT_ADDON_1198	Leves de <string(lstr1)>
+TEXT_ADDON_1199	Muestra u oculta los íconos del mapa.
+TEXT_ADDON_1200	Log Configuration
+TEXT_ADDON_1202	Nombres sobre los personajes
+TEXT_ADDON_1203	Tamaño de letra
+TEXT_ADDON_1204	Agrega la hora a los mensajes del chat.
+TEXT_ADDON_1205	Reproduce un sonido al recibir un tell.
+TEXT_ADDON_1206	Muestra el desglose completo del daño de las técnicas de arma.
+TEXT_ADDON_1207	Muestra el chat al recibir un mensaje durante una cinemática.
+TEXT_ADDON_1208	Exporta el chat.
+TEXT_ADDON_1212	Chat
+TEXT_ADDON_1214	Anuncios
+TEXT_ADDON_1215	Sujeto
+TEXT_ADDON_1216	Objeto
+TEXT_ADDON_1217	Predeterminado
+TEXT_ADDON_1218	Aplicar
+TEXT_ADDON_1219	Cerrar
+TEXT_ADDON_1220	Fijar nombre
+TEXT_ADDON_1221	Comentario
+TEXT_ADDON_1224	Filtro nuevo <sec(lnum1)>
+TEXT_ADDON_1225	Presets generales
+TEXT_ADDON_1226	Presets de combate
+TEXT_ADDON_1227	Tú
+TEXT_ADDON_1228	Miembro del grupo
+TEXT_ADDON_1229	Miembro de la alianza
+TEXT_ADDON_1230	Otro PC
+TEXT_ADDON_1231	Enemigo en combate
+TEXT_ADDON_1232	Enemigo fuera de combate
+TEXT_ADDON_1234	Nombre completo
+TEXT_ADDON_1235	Apellido abreviado
+TEXT_ADDON_1236	Nombre abreviado
+TEXT_ADDON_1237	Iniciales
+TEXT_ADDON_1240	Formato de 24 horas
+TEXT_ADDON_1241	Formato de 12 horas
+TEXT_ADDON_1242	Tipo 1
+TEXT_ADDON_1243	Tipo 2
+TEXT_ADDON_1244	Tipo 3
+TEXT_ADDON_1245	Tipo 4
+TEXT_ADDON_1246	Tipo 5
+TEXT_ADDON_1247	Tipo 6
+TEXT_ADDON_1248	Tipo 7
+TEXT_ADDON_1249	Tipo 8
+TEXT_ADDON_1250	Tipo 9
+TEXT_ADDON_1251	Tipo 10
+TEXT_ADDON_1252	Tipo 11
+TEXT_ADDON_1253	Tipo 12
+TEXT_ADDON_1254	Tipo 13
+TEXT_ADDON_1255	Tipo 14
+TEXT_ADDON_1256	Tipo 15
+TEXT_ADDON_1257	Tipo 16
+TEXT_ADDON_1258	Tipo 17
+TEXT_ADDON_1259	Tipo 18
+TEXT_ADDON_1260	Tipo 19
+TEXT_ADDON_1261	Tipo 20
+TEXT_ADDON_1262	Name Display Settings
+TEXT_ADDON_1264	Transparencia del cuadro de chat
+TEXT_ADDON_1265	Chat Bubble Settings
+TEXT_ADDON_1270	Elige un conjunto de ajustes predeterminados.
+TEXT_ADDON_1271	No guardaste los cambios. ¿Continuar?
+TEXT_ADDON_1272	¿Borrar los ajustes de los filtros del chat?
+TEXT_ADDON_1273	Marcar todo
+TEXT_ADDON_1274	Desmarcar todo
+TEXT_ADDON_1275	Presets de eventos
+TEXT_ADDON_1276	Mascotas/compañeros
+TEXT_ADDON_1277	Mascotas/compañeros (grupo)
+TEXT_ADDON_1278	Mascotas/compañeros (alianza)
+TEXT_ADDON_1279	Mascotas/compañeros (otro PC)
+TEXT_ADDON_1280	Activa el filtro de lenguaje ofensivo.
+TEXT_ADDON_1281	No disponible por ahora.
+TEXT_ADDON_1282	Log Text Colors
+TEXT_ADDON_1283	NPC aliados
+TEXT_ADDON_1288	Lugar personalizado
+TEXT_ADDON_1290	Mín.
+TEXT_ADDON_1291	Máx.
+TEXT_ADDON_1292	World
+TEXT_ADDON_1293	Personalizado
+TEXT_ADDON_1294	Artesano
+TEXT_ADDON_1295	Recolector
+TEXT_ADDON_1297	SEARCH CLASS JOB CUSTOMIZE
+TEXT_ADDON_1299	Grand Companies
+TEXT_ADDON_1300	Keybind
+TEXT_ADDON_1302	Movimiento
+TEXT_ADDON_1303	Selección de objetivo
+TEXT_ADDON_1305	Hotbar
+TEXT_ADDON_1306	Atajos
+TEXT_ADDON_1308	Comandos
+TEXT_ADDON_1309	Tecla 1
+TEXT_ADDON_1310	Tecla 2
+TEXT_ADDON_1313	<icon2(10)> Deseleccionar
+TEXT_ADDON_1314	Esa tecla ya está asignada a otra función.<br>¿Reemplazar la asignación actual?<br>(<string(lstr1)> : <string(lstr2)>)
+TEXT_ADDON_1315	Iniciando la configuración de teclas.<br>Indica el teclado que estás usando.
+TEXT_ADDON_1316	Teclado japonés (106/109)
+TEXT_ADDON_1317	Teclado inglés (101/104)
+TEXT_ADDON_1318	Teclado alemán (102/105)
+TEXT_ADDON_1319	Teclado francés (102/105)
+TEXT_ADDON_1320	¿Cerrar la ventana y descartar todos los cambios sin guardar?
+TEXT_ADDON_1323	Activa el chat directo.
+TEXT_ADDON_1324	Ya obtuviste este objeto como fashion accessory. Puedes volver a conseguirlo gratis hablando con un Calamity salvager. ¿Continuar?
+TEXT_ADDON_1327	¿Restablecer la configuración de teclas predeterminada?
+TEXT_ADDON_1330	Busca nombres que empiecen con las letras indicadas. Si dejas el campo vacío, muestra todos.
+TEXT_ADDON_1331	Limita la búsqueda a jugadores con ciertos estados en línea.
+TEXT_ADDON_1332	Limita la búsqueda a jugadores que tengan ciertas clases o jobs.
+TEXT_ADDON_1333	Limita la búsqueda a jugadores dentro de un rango de niveles.
+TEXT_ADDON_1334	Limita la búsqueda a jugadores en cierta zona o región.
+TEXT_ADDON_1335	Limita la búsqueda a jugadores que indicaron ciertos idiomas en su Search Info.
+TEXT_ADDON_1336	Limita la búsqueda a jugadores de las Grand Companies indicadas.
+TEXT_ADDON_1338	Objeto de raza obtenido
+TEXT_ADDON_1340	Acción aprendida
+TEXT_ADDON_1346	Rasgo obtenido
+TEXT_ADDON_1348	Habilidad de raza obtenida
+TEXT_ADDON_1350	No hay nada para mostrar.
+TEXT_ADDON_1351	No se pudieron obtener los datos. Ese jugador está en otro World.
+TEXT_ADDON_1352	<icon2(10)>Subcomandos  <icon2(11)>Elegir objeto
+TEXT_ADDON_1353	<icon2(8)> Poner en venta  <icon2(10)> Subcomandos
+TEXT_ADDON_1354	<icon2(8)><icon2(10)> Subcomandos  <icon2(11)> Elegir objeto
+TEXT_ADDON_1358	Paleta de colores
+TEXT_ADDON_1361	Extraíble: <if([lnum1>0],Sí,No)>  Proyectable: <if([lnum2>0],Sí,No)>  Desintetizable: <if([lnum3>0],<num(lnum4)>.00,No)>
+TEXT_ADDON_1370	Armoury Chest
+TEXT_ADDON_1384	Anillos
+TEXT_ADDON_1387	Guardar en el Armoury Chest
+TEXT_ADDON_1388	Devolver al inventario
+TEXT_ADDON_1389	Ordenar
+TEXT_ADDON_1390	Deshacer orden
+TEXT_ADDON_1391	Equipado
+TEXT_ADDON_1392	Armoury Chest (mano principal/secundaria)
+TEXT_ADDON_1393	Armoury Chest (cabeza/cuerpo/manos)
+TEXT_ADDON_1394	Armoury Chest (piernas/pies)
+TEXT_ADDON_1395	Armoury Chest (cuello/orejas)
+TEXT_ADDON_1396	Armoury Chest (muñecas/anillo)
+TEXT_ADDON_1398	Armoury Chest (mano secundaria/cabeza/cuerpo)
+TEXT_ADDON_1399	Muestra la guía para personalizar el conjunto.
+TEXT_ADDON_1400	Crafting Log
+TEXT_ADDON_1404	Sintetizar
+TEXT_ADDON_1405	Extras
+TEXT_ADDON_1408	Nivel de receta
+TEXT_ADDON_1409	Recetas especiales
+TEXT_ADDON_1410	No hay recetas para mostrar.
+TEXT_ADDON_1412	Buscar receta
+TEXT_ADDON_1413	Escribe el nombre completo o parcial de un objeto y presiona Enter para buscar.
+TEXT_ADDON_1414	Buscar objeto por método de artesanía
+TEXT_ADDON_1417	Características
+TEXT_ADDON_1418	Sin síntesis rápida
+TEXT_ADDON_1419	No se puede fabricar en HQ
+TEXT_ADDON_1420	Craftsmanship necesario: <num(lnum1)>
+TEXT_ADDON_1421	Control necesario: <num(lnum1)>
+TEXT_ADDON_1422	Equipo necesario: <sheet(Item,lnum1,9)>
+TEXT_ADDON_1423	Estado necesario: <colortype(549)><edgecolortype(550)><sheet(Status,lnum1,0)><edgecolortype(0)><colortype(0)>
+TEXT_ADDON_1424	Síntesis de coleccionable disponible
+TEXT_ADDON_1425	No se puede fabricar en HQ/síntesis de coleccionable disponible
+TEXT_ADDON_1426	Craftsmanship necesario para síntesis rápida: <num(lnum1)>
+TEXT_ADDON_1427	Control necesario para síntesis rápida: <num(lnum1)>
+TEXT_ADDON_1428	Síntesis de coleccionable
+TEXT_ADDON_1429	Receta de especialista
+TEXT_ADDON_1434	NQ
+TEXT_ADDON_1439	Fabricable
+TEXT_ADDON_1440	Sin elegir
+TEXT_ADDON_1441	Elegido
+TEXT_ADDON_1443	No da EXP
+TEXT_ADDON_1444	Mostrar solo recetas recientes
+TEXT_ADDON_1445	Elegir material
+TEXT_ADDON_1449	Recetas borradas
+TEXT_ADDON_1450	¿Terminar este objeto como coleccionable?<br><colortype(504)><edgecolortype(505)>Collectability Rating:<edgecolortype(0)><colortype(0)> <num(lnum1)><br><br><colortype(500)><edgecolortype(501)>Solo se puede sintetizar un coleccionable a la vez. Los coleccionables no se pueden comerciar ni vender en los mercados.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_1451	Craftsmanship recomendado: <num(lnum1)>
+TEXT_ADDON_1452	Receta experta
+TEXT_ADDON_1454	(Máx. <num(lnum1)>％)
+TEXT_ADDON_1455	Especial
+TEXT_ADDON_1456	Coleccionables
+TEXT_ADDON_1457	Desgaste
+TEXT_ADDON_1458	Rareza
+TEXT_ADDON_1459	Recolectar
+TEXT_ADDON_1460	Volver
+TEXT_ADDON_1462	GP necesario: <num(lnum1)>
+TEXT_ADDON_1463	¿Recolectar este objeto como coleccionable?<br><colortype(504)><edgecolortype(505)>Collectability Rating:<edgecolortype(0)><colortype(0)> <num(lnum1)><br><br><colortype(500)><edgecolortype(501)>Solo se puede recolectar un coleccionable a la vez. Los coleccionables no se pueden comerciar ni vender en los mercados.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_1466	Efecto del lugar
+TEXT_ADDON_1467	<string(lstr1)> <colortype(500)><edgecolortype(501)>[No]<edgecolortype(0)><colortype(0)> 
+TEXT_ADDON_1468	<string(lstr1)> <colortype(502)><edgecolortype(503)>[Sí]<edgecolortype(0)><colortype(0)> 
+TEXT_ADDON_1469	BONIFICACIÓN
+TEXT_ADDON_1470	Buscar objeto
+TEXT_ADDON_1472	Buscar objeto por método de recolección
+TEXT_ADDON_1473	Al 100% de eficiencia, el progreso aumenta <num(lnum1)>.
+TEXT_ADDON_1474	Al 100% de eficiencia, la calidad aumenta <num(lnum1)>.
+TEXT_ADDON_1477	Solo se pueden mostrar 9 íconos. Revisa el HUD.
+TEXT_ADDON_1478	Siempre se sintetiza como coleccionable
+TEXT_ADDON_1479	Títulos obtenidos
+TEXT_ADDON_1480	Títulos
+TEXT_ADDON_1482	Título actual
+TEXT_ADDON_1484	Logro
+TEXT_ADDON_1488	No se aplicaron los ajustes.<br>¿Descartar los cambios?
+TEXT_ADDON_1489	Usar como título
+TEXT_ADDON_1490	Quitar el título
+TEXT_ADDON_1491	Ver logro
+TEXT_ADDON_1492	Ordenar por nombre
+TEXT_ADDON_1493	Ordenar por categoría
+TEXT_ADDON_1495	Ordenar por ID
+TEXT_ADDON_1496	Ver las opciones de orden.

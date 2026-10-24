@@ -1,0 +1,230 @@
+key	text
+TEXT_ADDON_17500	En disputa
+TEXT_ADDON_17503	¡<switch(lnum1,<icon(51)><colortype(533)><edgecolortype(534)>los Maelstrom<edgecolortype(0)><colortype(0)>,<icon(52)><colortype(535)><edgecolortype(536)>los Adders<edgecolortype(0)><colortype(0)>,<icon(53)><colortype(537)><edgecolortype(538)>los Flames<edgecolortype(0)><colortype(0)>)> reclamaron un triumph de rango <switch(lnum2,B,A,S)>!
+TEXT_ADDON_17504	¡Nieve en <num(lnum1)> s!
+TEXT_ADDON_17505	¡Empezó a nevar!
+TEXT_ADDON_17506	¡Auroras visibles en <num(lnum1)> s!
+TEXT_ADDON_17507	¡Una aurora llena el cielo!
+TEXT_ADDON_17508	Importar código
+TEXT_ADDON_17510	Escribe el código del strategy board que quieres importar.
+TEXT_ADDON_17512	Pegar desde el portapapeles
+TEXT_ADDON_17515	Importar
+TEXT_ADDON_17516	Crear código para compartir
+TEXT_ADDON_17518	Usa este código para compartir tu strategy board con otros jugadores.
+TEXT_ADDON_17522	Copiar al portapapeles
+TEXT_ADDON_17525	Se cargó el strategy board “<string(lstr1)>”.<br>¿Continuar y guardarlo?
+TEXT_ADDON_17527	Elige una carpeta de destino para el strategy board “<string(lstr1)>”.
+TEXT_ADDON_17528	Mover strategy board
+TEXT_ADDON_17531	Tienes inscripciones a duties pendientes. ¿Seguro que quieres cancelarlas y cerrar sesión?
+TEXT_ADDON_17532	Tienes inscripciones a duties pendientes. ¿Seguro que quieres cancelarlas y cerrar el cliente del juego?
+TEXT_ADDON_17541	Enemigo n.º <num(lnum1)>: combate contra <num(lnum2)> <if([lnum2<=1],tipo,tipos)> de bestia.
+TEXT_ADDON_17542	Enemigo de élite n.º <num(lnum1)>: combate contra <num(lnum2)> <if([lnum2<=1],tipo,tipos)> de bestia.
+TEXT_ADDON_17543	Jefe del tablero: combate contra <num(lnum1)> <if([lnum1<=1],tipo,tipos)> de bestia.
+TEXT_ADDON_17544	Tienda n.º <num(lnum1)>: compra objetos con territory tokens.
+TEXT_ADDON_17545	Campamento n.º <num(lnum1)>: recupera HP para ti y <if([lnum2<=1],<num(lnum2)> familiar,hasta <num(lnum2)> familiares)>.
+TEXT_ADDON_17546	Tesoro n.º <num(lnum1)>: elige un objeto de un cofre generoso.
+TEXT_ADDON_17547	<if(lnum2,<sheet(Addon,lnum2,0)>,)><if(lnum3,<if(lnum4,\, <sheet(Addon,lnum3,0)>\, o <sheet(Addon,lnum4,0)>, o <sheet(Addon,lnum3,0)>)>,)> al azar n.º <num(lnum1)>: prueba suerte.
+TEXT_ADDON_17552	Enemigo de élite
+TEXT_ADDON_17553	Jefe
+TEXT_ADDON_17555	Campamento
+TEXT_ADDON_17556	Tesoro
+TEXT_ADDON_17557	Al azar
+TEXT_ADDON_17562	Principios de diciembre
+TEXT_ADDON_17563	La clasificación ya no está activa.
+TEXT_ADDON_17564	Participa en la clasificación poniendo el Crucible Mode en "Third Degree".
+TEXT_ADDON_17565	No puedes participar en la clasificación del centro de datos actual.
+TEXT_ADDON_17566	No puedes participar. La clasificación no está activa.
+TEXT_ADDON_17567	Marca la casilla para registrar puntajes en la clasificación.
+TEXT_ADDON_17568	Participar en la clasificación.
+TEXT_ADDON_17569	Registrando puntaje para la clasificación
+TEXT_ADDON_17570	Aprende sobre las custom deliveries.
+TEXT_ADDON_17580	Almacén
+TEXT_ADDON_17583	Tipo de almacén
+TEXT_ADDON_17600	Disposición del tablero
+TEXT_ADDON_17601	Aprende sobre el Crucible of the Unbroken.
+TEXT_ADDON_17602	Suspender el progreso
+TEXT_ADDON_17603	Rendirse
+TEXT_ADDON_17604	Crucible items
+TEXT_ADDON_17605	Beast gear
+TEXT_ADDON_17606	Efectos del beast gear
+TEXT_ADDON_17610	¿Desechar <ennoun(XBMItem,2,lnum1,1,1)>?
+TEXT_ADDON_17615	Territory tokens
+TEXT_ADDON_17616	<br>Se vende por <kilo(lnum1,\,)> territory tokens
+TEXT_ADDON_17618	¿Rendirte y salir del Crucible of the Unbroken?
+TEXT_ADDON_17619	¿Suspender el progreso y salir del Crucible of the Unbroken?<br><colortype(506)><edgecolortype(507)>Elige "Retomar el progreso" al hablar con Lauda para volver a entrar al Crucible desde este punto.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_17622	Hay un cofre del tesoro abierto. Elige el objeto efímero que quieres recibir.
+TEXT_ADDON_17623	Hay un cofre del tesoro abierto. Tu cuchillo de ladrón lo convence de darte <num(lnum1)> <if([lnum1<=1],objeto efímero,objetos efímeros)>.
+TEXT_ADDON_17624	Obtenido.
+TEXT_ADDON_17626	¿Elegir <ennoun(XBMItem,2,lnum1,1,1)>?
+TEXT_ADDON_17627	<colortype(508)><edgecolortype(509)>No puedes recibir <ennoun(XBMItem,2,lnum1,1,1)>. No puedes tener beast gear repetido.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_17628	No puedes llevar más crucible items. Para recibir <ennoun(XBMItem,2,lnum1,1,1)>, primero desecha un objeto de tu inventario.
+TEXT_ADDON_17629	No puedes llevar más beast gear. Para recibir <ennoun(XBMItem,2,lnum1,1,1)>, primero desecha una pieza de tu inventario.
+TEXT_ADDON_17630	Crucible item elegido
+TEXT_ADDON_17631	Beast gear elegido
+TEXT_ADDON_17632	¿Desechar tu <ennoun(XBMItem,3,lnum1,1,1)> a cambio de <ennoun(XBMItem,2,lnum2,1,1)>?
+TEXT_ADDON_17633	¿Cerrar el cofre sin recibir ningún objeto?<br><colortype(506)><edgecolortype(507)>No puedes volver a abrir el cofre después de cerrarlo.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_17634	Huir
+TEXT_ADDON_17637	Entras a la tienda inquietante y encuentras una variedad de objetos efímeros a la vista. Elige los que quieres comprar, o vende de tu inventario.
+TEXT_ADDON_17638	¡Con descuento!
+TEXT_ADDON_17639	Comprado.
+TEXT_ADDON_17641	¿Comprar <ennoun(XBMItem,2,lnum1,1,1)>?
+TEXT_ADDON_17642	<colortype(508)><edgecolortype(509)>No puedes comprar <ennoun(XBMItem,2,lnum1,1,1)>. No puedes tener beast gear repetido.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_17643	No puedes llevar más crucible items. Para comprar <ennoun(XBMItem,2,lnum1,1,1)>, primero desecha un objeto de tu inventario.
+TEXT_ADDON_17644	No puedes llevar más beast gear. Para comprar <ennoun(XBMItem,2,lnum1,1,1)>, primero desecha otra pieza.
+TEXT_ADDON_17647	¿Desechar tu <ennoun(XBMItem,3,lnum1,1,1)> para comprar <ennoun(XBMItem,2,lnum2,1,1)>?
+TEXT_ADDON_17648	¿Terminar de comprar y salir de la tienda?<br><colortype(506)><edgecolortype(507)>No puedes volver a la tienda después de salir.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_17649	Ordena según el parámetro elegido.
+TEXT_ADDON_17650	Mostrar/ocultar estadísticas.
+TEXT_ADDON_17651	¿A quién le das <ennoun(XBMItem,2,lnum1,1,1)>?
+TEXT_ADDON_17653	¿Comprar <ennoun(XBMItem,2,lnum1,1,1)> y dárselo a tu <sheet(Pet,<sheet(XBMPet,lnum2,0)>,0)>?
+TEXT_ADDON_17656	¿Salir del campamento sin descansar?<br><colortype(506)><edgecolortype(507)>No puedes volver al campamento después de salir.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_17657	Tú y <num(lnum1)> <if([lnum1<=1],familiar,familiares)> pueden recuperar HP en este campamento.<br>Los familiares que descansan pierden los efectos actuales de la comida.
+TEXT_ADDON_17658	Descansar
+TEXT_ADDON_17660	<if([lnum2>0],Descansar y recuperar el <num(lnum7)>% del HP para ti y para:<if([lnum2>0],<br>・ <headall(<sheet(Pet,<sheet(XBMPet,lnum2,0)>,0)>)>,)><if([lnum3>0],<br>・ <headall(<sheet(Pet,<sheet(XBMPet,lnum3,0)>,0)>)>,)><if([lnum4>0],<br>・ <headall(<sheet(Pet,<sheet(XBMPet,lnum4,0)>,0)>)>,)><if([lnum5>0],<br>・ <headall(<sheet(Pet,<sheet(XBMPet,lnum5,0)>,0)>)>,)><if([lnum6>0],<br>・ <headall(<sheet(Pet,<sheet(XBMPet,lnum6,0)>,0)>)>,)><br>¿Continuar?,¿Descansar sin compañía mientras tus familiares hacen guardia y recuperar el <num(lnum7)>% del HP?)><string(lstr1)>
+TEXT_ADDON_17661	<br><br>Ten en cuenta que se perderán los efectos de la comida de:<br>・ <headall(<sheet(Pet,<sheet(XBMPet,lnum1,0)>,0)>)><if([lnum2>0],<br>・ <headall(<sheet(Pet,<sheet(XBMPet,lnum2,0)>,0)>)>,)><if([lnum3>0],<br>・ <headall(<sheet(Pet,<sheet(XBMPet,lnum3,0)>,0)>)>,)><if([lnum4>0],<br>・ <headall(<sheet(Pet,<sheet(XBMPet,lnum4,0)>,0)>)>,)><if([lnum5>0],<br>・ <headall(<sheet(Pet,<sheet(XBMPet,lnum5,0)>,0)>)>,)>
+TEXT_ADDON_17663	¿Vender <ennoun(XBMItem,2,lnum1,1,1)> por <kilo(lnum2,\,)> territory tokens?
+TEXT_ADDON_17664	¡Encuentras <ennoun(XBMItem,1,lnum1,1,1)> en tu bolso de químico!
+TEXT_ADDON_17667	El botín de la batalla está a tus pies. Puedes tomar todas las recompensas de abajo o elegirlas de a una.
+TEXT_ADDON_17674	Recibirás:<if([lnum1>0],<br>・ <kilo(lnum1,\,)> territory tokens,)><if([lnum2>0],<br>・ <sheet(XBMItem,lnum2,11)>,)><if([lnum3>0],<br>・ <sheet(XBMItem,lnum3,11)>,)><if([lnum4>0],<br>・ <sheet(XBMItem,lnum4,11)>,)><if([lnum5>0],<br>・ <sheet(XBMItem,lnum5,11)>,)><br>¿Continuar?
+TEXT_ADDON_17675	¿Tomar <kilo(lnum1,\,)> territory tokens?
+TEXT_ADDON_17676	Queda botín sin reclamar. ¿Dejarlo?
+TEXT_ADDON_17677	No puedes tomar todo.<br><if([lnum1>0],<colortype(506)><edgecolortype(507)>※Superarías la capacidad de tu inventario de crucible items.<edgecolortype(0)><colortype(0)><br>,)><if([lnum2>0],<colortype(506)><edgecolortype(507)>※Recibirías beast gear repetido.<edgecolortype(0)><colortype(0)><br>,)><if([lnum3>0],<colortype(506)><edgecolortype(507)>※Superarías la capacidad de tu inventario de beast gear.<edgecolortype(0)><colortype(0)><br>,)>Elige el botín de a uno.
+TEXT_ADDON_17678	¿Tomar <ennoun(XBMItem,2,lnum1,1,1)>?
+TEXT_ADDON_17679	<colortype(508)><edgecolortype(509)>No puedes tomar <ennoun(XBMItem,2,lnum1,1,1)>. No puedes tener beast gear repetido.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_17680	No puedes llevar más crucible items. Para tomar <ennoun(XBMItem,2,lnum1,1,1)>, primero desecha un objeto de tu inventario.
+TEXT_ADDON_17682	No puedes llevar más beast gear. Para tomar <ennoun(XBMItem,2,lnum1,1,1)>, primero desecha otra pieza.
+TEXT_ADDON_17688	Con glamour
+TEXT_ADDON_17689	Cambiar a tamaño pequeño
+TEXT_ADDON_17690	Cambiar a tamaño mediano
+TEXT_ADDON_17691	Cambiar a tamaño grande
+TEXT_ADDON_17693	Glamour de bestia
+TEXT_ADDON_17694	USAR CRUCIBLE ITEM
+TEXT_ADDON_17696	¿En quién usas <ennoun(XBMItem,2,lnum1,1,1)>?
+TEXT_ADDON_17697	¿Usar <ennoun(XBMItem,2,lnum1,1,1)> para revivir a tu <sheet(Pet,<sheet(XBMPet,lnum2,0)>,0)>?
+TEXT_ADDON_17698	Palabra clave
+TEXT_ADDON_17700	Master's Bestiary
+TEXT_ADDON_17703	Bestias capturadas
+TEXT_ADDON_17705	Ajustes de battlehorns
+TEXT_ADDON_17706	Asignar al primer battlehorn
+TEXT_ADDON_17707	Asignar al segundo battlehorn
+TEXT_ADDON_17708	Asignar al tercer battlehorn
+TEXT_ADDON_17709	Editar apariencia
+TEXT_ADDON_17712	Clasificación
+TEXT_ADDON_17714	Tempered Release (Nv. 18)
+TEXT_ADDON_17715	Trick (Nv. 8)
+TEXT_ADDON_17716	Hábitat natural
+TEXT_ADDON_17725	Resistencia física
+TEXT_ADDON_17726	Resistencia mágica
+TEXT_ADDON_17727	Constitución
+TEXT_ADDON_17728	Saciedad
+TEXT_ADDON_17730	Todavía no se forjó un pacto...
+TEXT_ADDON_17731	Battlehorns
+TEXT_ADDON_17733	Quitar del battlehorn
+TEXT_ADDON_17741	Beastkin
+TEXT_ADDON_17742	Vilekin
+TEXT_ADDON_17743	Cloudkin
+TEXT_ADDON_17744	Seedkin
+TEXT_ADDON_17745	Wavekin
+TEXT_ADDON_17746	Scalekin
+TEXT_ADDON_17747	Soulkin
+TEXT_ADDON_17748	Ashkin
+TEXT_ADDON_17749	Borrow (Nv. 22)
+TEXT_ADDON_17751	Un objetivo
+TEXT_ADDON_17752	Área de efecto
+TEXT_ADDON_17753	Debilidad:
+TEXT_ADDON_17755	Poison
+TEXT_ADDON_17756	Objetivo:
+TEXT_ADDON_17757	Tipo de daño:
+TEXT_ADDON_17758	Estado:
+TEXT_ADDON_17759	Interrupción:
+TEXT_ADDON_17760	Área de efecto:
+TEXT_ADDON_17763	Elegir tablero
+TEXT_ADDON_17765	Resumen del tablero
+TEXT_ADDON_17768	<string(lstr1)> x <num(lnum2)>
+TEXT_ADDON_17771	Movimiento <num(lnum1)>
+TEXT_ADDON_17772	Ver bonificaciones
+TEXT_ADDON_17773	Desafiar este tablero
+TEXT_ADDON_17774	Retomar el progreso
+TEXT_ADDON_17775	Empezar la batalla
+TEXT_ADDON_17776	Crucible Mode
+TEXT_ADDON_17777	Crucible Mode actual:
+TEXT_ADDON_17778	Muestra el progreso hasta que se suspendieron los datos.
+TEXT_ADDON_17780	Quitar del equipo
+TEXT_ADDON_17781	Ver el Master's Bestiary
+TEXT_ADDON_17782	Composición del equipo
+TEXT_ADDON_17784	Agregar al equipo
+TEXT_ADDON_17787	<if(lnum1,<colortype(506)><edgecolortype(507)>※Tu equipo actual es más chico que el máximo permitido.<edgecolortype(0)><colortype(0)><br>,)><if(lnum2,<colortype(506)><edgecolortype(507)>※Uno o más de tus familiares tienen un beast rank menor al recomendado.<edgecolortype(0)><colortype(0)><br>,)><if(lnum3,<colortype(506)><edgecolortype(507)>※El período de puntaje de las Crucible Rankings termina en menos de 10 minutos.<edgecolortype(0)><colortype(0)><br>,)>¿Desafiar este tablero?
+TEXT_ADDON_17788	¿Descartar los cambios y volver a la elección de tablero?
+TEXT_ADDON_17789	Hay al menos un battlehorn sin asignar.<br>¿Empezar la batalla de todos modos?
+TEXT_ADDON_17792	Puntaje de la Crucible Ranking:
+TEXT_ADDON_17793	Período de clasificación:
+TEXT_ADDON_17794	 a 
+TEXT_ADDON_17797	Anterior
+TEXT_ADDON_17800	¡<switch(lnum1,Team Astra,Team Umbra)> superó el aetherometer!
+TEXT_ADDON_17821	Keybound Brawler
+TEXT_ADDON_17822	MGC actual
+TEXT_ADDON_17823	¡Escribe tu camino a la victoria, gana Manderville Gold Saucer Credits (MGC) y llévate premios exclusivos!<br><br><colortype(508)><edgecolortype(509)>Atención<edgecolortype(0)><colortype(0)><br>Para participar en este duty hace falta un teclado. No se pueden usar <switchplatform(1)> ni <switchplatform(41)>, así que conecta un teclado antes de inscribirte.
+TEXT_ADDON_17826	<colortype(508)><edgecolortype(509)>No se encontró un teclado que se pueda usar.<br>Sin poder escribir texto, no vas a poder avanzar en el juego.<br>¿Seguro que quieres jugar?<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_17830	x<float(lnum1,10,.)>
+TEXT_ADDON_17831	Derrota a 25 enemigos
+TEXT_ADDON_17832	Derrota a todos los enemigos
+TEXT_ADDON_17833	Derrota al airbuster
+TEXT_ADDON_17835	¡Entradas apasionadas activadas!
+TEXT_ADDON_17836	Terminaron las entradas apasionadas.
+TEXT_ADDON_17837	¡Frases tapadas en parte!
+TEXT_ADDON_17838	¡Frases destapadas!
+TEXT_ADDON_17839	¡Entradas desactivadas!
+TEXT_ADDON_17840	¡Entradas activadas de nuevo!
+TEXT_ADDON_17841	¡Barrera reforzada!
+TEXT_ADDON_17842	El refuerzo se desvanece...
+TEXT_ADDON_17843	[Enter]: enviar texto  <string(lstr1)>: borrar texto/salir
+TEXT_ADDON_17851	Aplicar los ajustes de nombres visibles a los nombres de personajes
+TEXT_ADDON_17854	¿Salir de <string(lstr1)>?<br><colortype(508)><edgecolortype(509)>※Si abandonas el juego, no recibirás recompensas y podrías recibir una penalización del Duty Finder.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_17856	Canjeando objetos de tinte
+TEXT_ADDON_17858	¿Cancelar el canje de objetos de tinte?
+TEXT_ADDON_17859	Bonificación por objetivo de la misión
+TEXT_ADDON_17860	Este objeto tiene materia engarzada. ¿Seguro que quieres canjearlo?
+TEXT_ADDON_17862	Este objeto es parte de un gear set registrado. ¿Seguro que quieres canjearlo?
+TEXT_ADDON_17864	¡FIEBRE DE TECLEO!
+TEXT_ADDON_17865	※Solo se muestran el puntaje del primer lugar y el tuyo.
+TEXT_ADDON_17871	First Degree
+TEXT_ADDON_17872	Second Degree
+TEXT_ADDON_17873	Third Degree
+TEXT_ADDON_17877	Aumento de bonificación
+TEXT_ADDON_17880	Movimientos hechos
+TEXT_ADDON_17882	HP restante
+TEXT_ADDON_17887	EXP obtenida
+TEXT_ADDON_17888	¡Sube el beast rank!
+TEXT_ADDON_17890	Anulación ✓
+TEXT_ADDON_17891	No cumpliste ningún requisito de bonificación.
+TEXT_ADDON_17892	Ningún familiar te acompañó.
+TEXT_ADDON_17894	¿Usar tu <ennoun(XBMItem,3,lnum1,1,1)> para huir de la batalla?
+TEXT_ADDON_17895	¿Usar <ennoun(XBMItem,1,lnum1,1,1)> para huir de la batalla?
+TEXT_ADDON_17896	Beast rank
+TEXT_ADDON_17906	<icon(187)> Cortante
+TEXT_ADDON_17907	<icon(185)> Contundente
+TEXT_ADDON_17908	<icon(186)> Perforante
+TEXT_ADDON_17909	Ordena según los parámetros elegidos.
+TEXT_ADDON_17910	Filtrar familiares.
+TEXT_ADDON_17911	Beast rank: <num(lnum1)>
+TEXT_ADDON_17912	Nivel: <num(lnum1)> (sincronizado a <num(lnum1)>)<br>Nv. de objeto prom.: <num(lnum5)><br><if(lnum2,Sincronización de nivel de objeto: <num(lnum2)><br>,)>Beast rank recomendado: <num(lnum3)> (sincronizado desde <num(lnum4)>)
+TEXT_ADDON_17916	Equipo recomendado
+TEXT_ADDON_17917	Elige un equipo de familiares que te acompañe.
+TEXT_ADDON_17918	¿Continuar con esta composición de equipo?
+TEXT_ADDON_17919	¿Guardar esta composición de equipo?
+TEXT_ADDON_17920	¿Importar esta composición de equipo?
+TEXT_ADDON_17921	Crucible item <num(lnum1)>
+TEXT_ADDON_17922	Retomarás el progreso con esta composición de equipo.
+TEXT_ADDON_17923	Elige los familiares que llamarás durante el combate.
+TEXT_ADDON_17924	Se elegirá automáticamente un equipo adecuado para el tablero actual.
+TEXT_ADDON_17925	Guarda e importa composiciones de equipo.
+TEXT_ADDON_17926	Quitar a todos los familiares
+TEXT_ADDON_17927	¿Quitar a todos los familiares de tu equipo actual?
+TEXT_ADDON_17928	Guardar composición de equipo
+TEXT_ADDON_17929	Importar composición de equipo
+TEXT_ADDON_17933	Equipo actual
+TEXT_ADDON_17934	Equipo guardado antes
+TEXT_ADDON_17936	No se encontraron familiares que correspondan.
+TEXT_ADDON_17941	RES F
+TEXT_ADDON_17942	RES M
+TEXT_ADDON_17943	CON

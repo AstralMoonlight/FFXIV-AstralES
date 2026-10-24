@@ -1,0 +1,108 @@
+key	text
+TEXT_ADDON_102500	Resistencias
+TEXT_ADDON_102502	Resistencia a Slow
+TEXT_ADDON_102503	Resistencia a Petrification
+TEXT_ADDON_102504	Resistencia a Paralysis
+TEXT_ADDON_102505	Resistencia a Silence
+TEXT_ADDON_102506	Resistencia a Blind
+TEXT_ADDON_102507	Resistencia a Poison
+TEXT_ADDON_102508	Resistencia a Stun
+TEXT_ADDON_102509	Resistencia a Sleep
+TEXT_ADDON_102510	Resistencia a Bind
+TEXT_ADDON_102511	Resistencia a Heavy
+TEXT_ADDON_102512	Reputación
+TEXT_ADDON_102513	Reconocimiento de jugadores
+TEXT_ADDON_102515	Relaciones con las sociedades
+TEXT_ADDON_102520	Reconocimientos recibidos
+TEXT_ADDON_102522	https://www.finalfantasyxiv.com/qqr/?lang=<switch(lnum2,ja,en-us,en-gb,de,fr)>&url=<string(lstr1)>
+TEXT_ADDON_102523	Official Sites
+TEXT_ADDON_102525	Los sitios oficiales de FINAL FANTASY XIV.
+TEXT_ADDON_102526	Noticias y comunidad
+TEXT_ADDON_102527	Guías de juego e información
+TEXT_ADDON_102529	Noticias recientes e información detallada sobre personajes, objetos, misiones y más: 
+TEXT_ADDON_102530	https://sqex.to/Q9IuA
+TEXT_ADDON_102533	Información de reclutamiento de free companies y linkshells. Encuentra aliados para tu aventura:
+TEXT_ADDON_102534	https://sqex.to/TvICc
+TEXT_ADDON_102537	Aprende o repasa lo básico para avanzar en el juego sin problemas:
+TEXT_ADDON_102538	https://sqex.to/eqx3f
+TEXT_ADDON_102541	Aprende a personalizar la interfaz y otros elementos del juego a tu gusto:
+TEXT_ADDON_102542	https://sqex.to/YpShL
+TEXT_ADDON_102545	Mira los detalles de las actualizaciones actuales y anteriores:
+TEXT_ADDON_102546	https://sqex.to/dCSwT
+TEXT_ADDON_102548	Community Finder
+TEXT_ADDON_102549	Ajustes de reconocimiento de jugadores
+TEXT_ADDON_102551	Votar expulsión
+TEXT_ADDON_102552	Proponer expulsar a <string(lstr1)>.
+TEXT_ADDON_102553	Elige el motivo de la expulsión.
+TEXT_ADDON_102554	Ausente
+TEXT_ADDON_102556	Acoso
+TEXT_ADDON_102557	Trampas
+TEXT_ADDON_102561	Se propuso expulsar del grupo a <string(lstr1)>.
+TEXT_ADDON_102562	Motivo: <string(lstr1)>
+TEXT_ADDON_102563	¿Quieres expulsar a este miembro del grupo?
+TEXT_ADDON_102566	<colortype(508)><edgecolortype(509)>Atención: usar la votación de expulsión sin motivo es sancionable.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_102568	¿Mostrar retratos en la ventana de reconocimientos?<br>※Si todos los miembros del grupo ya se fueron, el ajuste se aplicará en el próximo duty.
+TEXT_ADDON_102569	Sí, mostrar retratos.
+TEXT_ADDON_102572	Reconoce al jugador que te dejó una buena impresión.
+TEXT_ADDON_102578	Retirarte de un duty con el botón de retirarse o dejando que se agote el tiempo te da una penalización temporal que no te deja inscribirte en duties.<br>¿Continuar?
+TEXT_ADDON_102581	Aventurero necesitado (<string(lstr1)>)
+TEXT_ADDON_102582	<colortype(500)><edgecolortype(501)>Objeto ya recibido<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_102583	<head(<if(lnum1,<if([lnum1<=10],<switch(lnum1,un,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)>)> jugador<if([lnum1==1],,es)> solamente<br> (<num(lnum2)> tanque<if([lnum2==1],,s)>, <num(lnum3)> sanador<if([lnum3==1],,es)>, <num(lnum4)> DPS)
+TEXT_ADDON_102584	Hasta <if(lnum1,<if([lnum1<=10],<switch(lnum1,un,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)> jugador<if([lnum1==1],,es)><br> (<num(lnum2)> tanque<if([lnum2==1],,s)>, <num(lnum3)> sanador<if([lnum3==1],,es)>, <num(lnum4)> DPS)
+TEXT_ADDON_102585	<if([lnum1<lnum2],<head(<num(lnum1)>)> a,)> <num(lnum2)> jugadores<br>(<num(lnum7)> grupo<if([lnum7==1],,s)><if([lnum3>0], de <num(lnum4)> tanque<if([lnum4==1],,s)>\, <num(lnum5)> sanador<if([lnum5==1],,es)>\, <num(lnum6)> DPS,)>)
+TEXT_ADDON_102586	Cumple los requisitos de dos o más duties.
+TEXT_ADDON_102587	Premios obtenibles: diarios
+TEXT_ADDON_102588	<colortype(500)><edgecolortype(501)>Recompensa ya recibida<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_102589	Premios obtenibles: semanales
+TEXT_ADDON_102590	Borrar la elección
+TEXT_ADDON_102591	<head(<if(lnum1,<if([lnum1<=10],<switch(lnum1,un,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)>)> jugador<if([lnum1==1],,es)> solamente<br> (<num(lnum2)> tanque<if([lnum2==1],,s)>, <num(lnum3)> sanador<if([lnum3==1],,es)>, <num(lnum4)> DPS cuerpo a cuerpo, <num(lnum5)> DPS a distancia)
+TEXT_ADDON_102592	Hasta <if(lnum1,<if([lnum1<=10],<switch(lnum1,un,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)> jugador<if([lnum1==1],,es)><br> (<num(lnum2)> tanque<if([lnum2==1],,s)>, <num(lnum3)> sanador<if([lnum3==1],,es)>, <num(lnum4)> DPS cuerpo a cuerpo, <num(lnum5)> DPS a distancia)
+TEXT_ADDON_102594	The Echo: se aplica al empezar el duty
+TEXT_ADDON_102595	The Echo: se aplica si todo el grupo queda incapacitado
+TEXT_ADDON_102596	Ordenar la Party List
+TEXT_ADDON_102597	Completar lo siguiente:
+TEXT_ADDON_102599	<head(<if(lnum1,<if([lnum1<=10],<switch(lnum1,un,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)>)> jugador<if([lnum1==1],,es)> solamente
+TEXT_ADDON_102600	Ingreso a una Grand Company<br>※Al entrar como grupo, los miembros quedan como freelancers.
+TEXT_ADDON_102601	Tiempo transcurrido: <num(lnum1)> min
+TEXT_ADDON_102602	Ordenar los duties por nivel necesario para participar.
+TEXT_ADDON_102603	De tres a nueve grupos de uno a <if(lnum1,<if([lnum1<=10],<switch(lnum1,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)> jugadores.
+TEXT_ADDON_102604	Sincronización de nivel de objeto: <num(lnum1)><br>※Con la sincronización, se ajustan todos los atributos de los objetos.
+TEXT_ADDON_102605	Nivel de objeto promedio: <num(lnum1)><br>Sincronización de nivel de objeto: <num(lnum2)><br>※Con la sincronización, se ajustan todos los atributos de los objetos.
+TEXT_ADDON_102608	Este duty sincroniza el nivel de objeto. Todos los niveles de objeto se ajustan al indicado.
+TEXT_ADDON_102609	Este duty no tiene requisitos de rol.
+TEXT_ADDON_102611	Si te retiras de un duty tres veces en un día, ya sea con el botón de retirarse o dejando que se agote el tiempo, recibirás una <colortype(506)><edgecolortype(507)>penalización temporal que no te deja inscribirte en duties.<edgecolortype(0)><colortype(0)><br>¿Continuar?
+TEXT_ADDON_102612	Si llamas a un compañero ahora, se cancelará tu inscripción en el Duty Finder. ¿Continuar?
+TEXT_ADDON_102613	Confirmación de participación en el duty
+TEXT_ADDON_102615	<sheet(ExVersion,lnum1,0)> no registrado
+TEXT_ADDON_102616	Nivel <num(lnum1)><br>※En PvP no cuentan el nivel ni los atributos del jugador, y se usan valores propios de PvP.
+TEXT_ADDON_102617	Solo miembros del PvP team
+TEXT_ADDON_102619	Grabación del duty activada
+TEXT_ADDON_102621	Inicia una votación para abandonar el duty actual.<br>Si más de la mitad de los miembros vota <colortype(500)><edgecolortype(501)>Sí<edgecolortype(0)><colortype(0)>, el grupo se disuelve y el duty termina.<br>※Abandonar un duty de esta forma no da penalización.
+TEXT_ADDON_102623	Si más de la mitad de los miembros vota <colortype(500)><edgecolortype(501)>Sí<edgecolortype(0)><colortype(0)>, el grupo se disuelve y el duty termina.<br>※Abandonar un duty de esta forma no da penalización.
+TEXT_ADDON_102624	¿Quieres abandonar este duty?
+TEXT_ADDON_102628	Disponibilidad de duties<br>※El duty cambia todos los días a las <setresettime(0)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p. m.,a. m.)> (hora real).
+TEXT_ADDON_102630	Aviso de teletransporte
+TEXT_ADDON_102631	¿Ir de inmediato a la zona sellada?
+TEXT_ADDON_102634	Casi completo
+TEXT_ADDON_102636	Invitaciones a cross-world linkshells
+TEXT_ADDON_102637	Enfoque
+TEXT_ADDON_102638	Buscando
+TEXT_ADDON_102643	Aceptar solicitudes
+TEXT_ADDON_102648	Enviar solicitud
+TEXT_ADDON_102652	Cerrado
+TEXT_ADDON_102654	Solicitud
+TEXT_ADDON_102656	¿Solicitar ingreso a <string(lstr1)>?
+TEXT_ADDON_102657	Ya solicitaste ingreso a otra free company.<br>¿Retirar esa solicitud y solicitar ingreso a <string(lstr1)>?
+TEXT_ADDON_102658	Solicitantes
+TEXT_ADDON_102661	Retirar la solicitud
+TEXT_ADDON_102662	¿Retirar tu solicitud de ingreso a <string(lstr1)>?
+TEXT_ADDON_102663	Aprobar la solicitud
+TEXT_ADDON_102664	Rechazar la solicitud
+TEXT_ADDON_102665	¿Aprobar la solicitud de ingreso de <if([gstr1==gstr2],ti,<if(gnum7,<ennoun(ObjStr,2,gnum7,1,1)>,gstr2)>)>?
+TEXT_ADDON_102666	¿Rechazar la solicitud de ingreso de <if([gstr1==gstr2],ti,<if(gnum7,<ennoun(ObjStr,2,gnum7,1,1)>,gstr2)>)>?
+TEXT_ADDON_102667	Tu compañía no puede aceptar más solicitudes.
+TEXT_ADDON_102678	Cerrado por ahora
+TEXT_ADDON_102679	Sin especificar
+TEXT_ADDON_102683	No hay solicitantes.
+TEXT_ADDON_102685	Falló el teletransporte.
+TEXT_ADDON_102686	¿Usar <ennoun(Item,1,lnum1,1,1)> para teletransportarte gratis? (Total: <num(lnum2)>)

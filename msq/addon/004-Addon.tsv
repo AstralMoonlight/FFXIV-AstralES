@@ -1,0 +1,243 @@
+key	text
+TEXT_ADDON_2007	FP
+TEXT_ADDON_2015	MIN
+TEXT_ADDON_2041	x <num(lnum1)>
+TEXT_ADDON_2042	x10k+
+TEXT_ADDON_2046	NUEVO
+TEXT_ADDON_2051	Miembros de la alianza
+TEXT_ADDON_2061	Llega al rango <if(lnum4,<switch(lnum2,<sheet(GCRankLimsaFemaleText,lnum3,0)>,<sheet(GCRankGridaniaFemaleText,lnum3,0)>,<sheet(GCRankUldahFemaleText,lnum3,0)>)>,<switch(lnum2,<sheet(GCRankLimsaMaleText,lnum3,0)>,<sheet(GCRankGridaniaMaleText,lnum3,0)>,<sheet(GCRankUldahMaleText,lnum3,0)>)>)> o superior
+TEXT_ADDON_2063	Text Auto-advance Settings
+TEXT_ADDON_2064	Aplicar a todos los diálogos
+TEXT_ADDON_2065	Aplicar solo a los diálogos con voz
+TEXT_ADDON_2066	Diálogos sin voz
+TEXT_ADDON_2067	Velocidad del avance automático
+TEXT_ADDON_2069	Abrir Text Auto-advance Settings
+TEXT_ADDON_2070	Lista de deseos
+TEXT_ADDON_2072	Tu lista de deseos está vacía.<br><br>Puedes agregar hasta diez objetos a tu lista de deseos. Los demás jugadores no pueden ver su contenido, pero en los resultados de búsqueda se muestra cuánta gente de tu World quiere cada objeto.<br><br><colortype(500)><edgecolortype(501)>※Ten en cuenta que todos los datos de la lista de deseos se borran cuando los Worlds entran en mantenimiento.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_2073	<icon2(10)> Subcomandos <icon2(8)> Ver resultados <icon2(9)> Atrás
+TEXT_ADDON_2074	Agregar a la lista de deseos (<num(lnum1)>/<num(lnum2)>)
+TEXT_ADDON_2075	Quitar de la lista de deseos (<num(lnum1)>/<num(lnum2)>)
+TEXT_ADDON_2076	Demanda
+TEXT_ADDON_2078	<icon2(10)> Subcomandos <icon2(8)> Ver resultados <icon2(9)> Atrás <icon2(12)><icon2(13)> Pasar página
+TEXT_ADDON_2079	Buscar en la misma categoría
+TEXT_ADDON_2084	Puedes agregar hasta 100 objetos a tus favoritos. Los demás jugadores no pueden verlos, y puedes consultarlos mientras visitas otro World.
+TEXT_ADDON_2085	Solo no obtenidos/no registrados
+TEXT_ADDON_2086	No hay objetos no obtenidos o no registrados para mostrar en esta página.
+TEXT_ADDON_2087	Mostrar el precio con la comisión incluida.
+TEXT_ADDON_2090	Para reducir la congestión, la zona a la que vas a entrar se dividió en varias instancias idénticas. Elige un destino.
+TEXT_ADDON_2091	Sin preferencia.
+TEXT_ADDON_2096	¿Cerrar la ventana y descartar los cambios?
+TEXT_ADDON_2111	Sin permiso para amueblar
+TEXT_ADDON_2112	Colocar muebles
+TEXT_ADDON_2113	Colocar/quitar muebles
+TEXT_ADDON_2118	Housing II
+TEXT_ADDON_2121	Housing no disponible.
+TEXT_ADDON_2122	Taller de la compañía
+TEXT_ADDON_2130	Solo depositar dinero
+TEXT_ADDON_2131	Solo retirar dinero
+TEXT_ADDON_2132	Solo ver
+TEXT_ADDON_2150	Comparar objetos
+TEXT_ADDON_2154	Objeto elegido
+TEXT_ADDON_2155	Ranura: <string(lstr1)>
+TEXT_ADDON_2156	No hay nada equipado en esta ranura.
+TEXT_ADDON_2157	<icon2(8)> Pasar página　<icon2(11)> Cambiar de dedo
+TEXT_ADDON_2160	Aetherial Reduction
+TEXT_ADDON_2168	Clase necesaria
+TEXT_ADDON_2169	Tasa de anomalías
+TEXT_ADDON_2170	Pureza
+TEXT_ADDON_2171	Aetherial Reduction exitosa.
+TEXT_ADDON_2174	Reducir un objeto único o no comerciable.
+TEXT_ADDON_2175	No tienes objetos reducibles.
+TEXT_ADDON_2176	Reducir
+TEXT_ADDON_2179	<head(<sheet(ClassJob,lnum1,0)>)> Nv. <num(lnum2)>
+TEXT_ADDON_2180	Historial de cartas enviadas
+TEXT_ADDON_2182	Aquí se muestran la fecha, la hora, los adjuntos y los destinatarios de las últimas veinte cartas que enviaste a amigos. El contenido de las cartas enviadas no se puede revisar.
+TEXT_ADDON_2185	<icon2(10)> Subcomandos <icon2(9)> Cerrar
+TEXT_ADDON_2186	¿Borrar esta entrada?
+TEXT_ADDON_2187	Borrar todas las entradas del destinatario
+TEXT_ADDON_2188	Borrar entrada
+TEXT_ADDON_2196	Escribe el texto.
+TEXT_ADDON_2197	<icon(18)> Confirmar el texto escrito.
+TEXT_ADDON_2200	Ver el Party Finder
+TEXT_ADDON_2201	Party Finder
+TEXT_ADDON_2203	Reclutar miembros
+TEXT_ADDON_2204	Criterios de reclutamiento
+TEXT_ADDON_2205	Buscar grupo
+TEXT_ADDON_2206	Rol
+TEXT_ADDON_2207	Nv. de objeto prom.
+TEXT_ADDON_2208	Reclutador
+TEXT_ADDON_2212	<num(lnum1)> resultado<if([lnum1==1],,s)>
+TEXT_ADDON_2214	Tiempo límite
+TEXT_ADDON_2215	<if([lnum1==1],Queda,Quedan)> <num(lnum1)> minuto<if([lnum1==1],,s)>
+TEXT_ADDON_2216	Indicar nivel de objeto
+TEXT_ADDON_2217	Estado
+TEXT_ADDON_2218	<if([lnum1==1],Falta,Faltan)> <num(lnum1)> jugador<if([lnum1==1],,es)>
+TEXT_ADDON_2219	Unirse al grupo
+TEXT_ADDON_2221	Terminar
+TEXT_ADDON_2222	Atrás
+TEXT_ADDON_2225	Duty
+TEXT_ADDON_2227	o más
+TEXT_ADDON_2228	Roles
+TEXT_ADDON_2232	Estilo de juego
+TEXT_ADDON_2233	Reclutar
+TEXT_ADDON_2235	Aplicar cambios
+TEXT_ADDON_2236	Enviar /tell
+TEXT_ADDON_2237	Criterios de búsqueda
+TEXT_ADDON_2241	Restablecer criterios
+TEXT_ADDON_2242	No hay resultados.
+TEXT_ADDON_2245	Libre
+TEXT_ADDON_2248	Omitir
+TEXT_ADDON_2250	Bienvenidos los nuevos
+TEXT_ADDON_2251	Urgente
+TEXT_ADDON_2252	Con calma
+TEXT_ADDON_2253	Hasta completar el duty
+TEXT_ADDON_2254	Varias vueltas por el botín
+TEXT_ADDON_2255	En serio y con equipo de alto nivel
+TEXT_ADDON_2256	Centrado en la historia, sin saltar cinemáticas
+TEXT_ADDON_2260	No se encontraron resultados con los criterios de búsqueda actuales.
+TEXT_ADDON_2261	<icon(103)>Grabable
+TEXT_ADDON_2264	Compartir la información del Party Finder.
+TEXT_ADDON_2265	Busca grupo (<string(lstr1)>)<if(lnum2,, <icon(88)>)>
+TEXT_ADDON_2266	Silenciar Echo
+TEXT_ADDON_2267	Estado de finalización
+TEXT_ADDON_2268	Cualquiera
+TEXT_ADDON_2274	Quest Battles
+TEXT_ADDON_2275	FATEs
+TEXT_ADDON_2276	Treasure Hunt
+TEXT_ADDON_2277	The Fold (Nv. <num(lnum1)><if([lnum2>0], +  80,)>)
+TEXT_ADDON_2278	<head(<sheet(InstanceContent,lnum1,3)>)> (Nv. <num(lnum2)><if([lnum3>0], +  <num(lnum3)>,)>)
+TEXT_ADDON_2284	Ver el comentario
+TEXT_ADDON_2285	Todos los niveles
+TEXT_ADDON_2286	Todos los lugares
+TEXT_ADDON_2290	Exploratory Missions
+TEXT_ADDON_2291	<icon2(11)> Ajustar criterios <icon2(10)> Subcomandos <icon2(8)> Ver detalles <icon2(9)> Cerrar
+TEXT_ADDON_2292	<icon2(11)> Buscar <icon2(9)> Cerrar
+TEXT_ADDON_2294	<sheet(PlaceName,lnum1,0)> (lugar)
+TEXT_ADDON_2295	<icon2(11)> Alternar roles <icon2(8)> Indicar clase/job
+TEXT_ADDON_2297	No puedes cumplir el objetivo elegido con esta composición de grupo. ¿Continuar de todos modos?
+TEXT_ADDON_2298	Mostrar avisos de reclutamiento
+TEXT_ADDON_2299	Actualizar resultados
+TEXT_ADDON_2300	Quitar las restricciones de rol de todos los lugares libres.
+TEXT_ADDON_2302	Asignar la clase/job actual como rol buscado.
+TEXT_ADDON_2303	¿Disolver el grupo y cancelar el reclutamiento?
+TEXT_ADDON_2304	Deep Dungeon
+TEXT_ADDON_2305	The Forbidden Land, Eureka
+TEXT_ADDON_2306	Gathering Forays
+TEXT_ADDON_2307	Field Operations
+TEXT_ADDON_2308	GATEs
+TEXT_ADDON_2310	<string(lstr1)>. (Contrato suspendido)
+TEXT_ADDON_2312	Elige un rango de niveles.
+TEXT_ADDON_2313	Elige una clase.
+TEXT_ADDON_2315	<string(lstr1)>. (Vende <num(lnum3)> <if([lnum3==1],objeto,objetos)> (<if([lnum2==1],<icon(51)>,<if([lnum2==2],<icon(52)>,<if([lnum2==3],<icon(53)>,<if([lnum2==4],<icon(64)>,<if([lnum2==7],<icon(96)>,<if([lnum2==10],<icon(107)>,<if([lnum2==12],<icon(113)>,<if([lnum2==14],<icon(169)>,)>)>)>)>)>)>)>)>) hasta el <settime(lnum4)><if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>) (Venture lista en <if([lnum5>0],<num(lnum5)> h<if([lnum6>0],<num(lnum6)> min,)>,<if([lnum6>0],<num(lnum6)> min,1 min)>)>)
+TEXT_ADDON_2316	<string(lstr1)>. (Vende <num(lnum3)> <if([lnum3==1],objeto,objetos)> (<if([lnum2==1],<icon(51)>,<if([lnum2==2],<icon(52)>,<if([lnum2==3],<icon(53)>,<if([lnum2==4],<icon(64)>,<if([lnum2==7],<icon(96)>,<if([lnum2==10],<icon(107)>,<if([lnum2==12],<icon(113)>,<if([lnum2==14],<icon(169)>,)>)>)>)>)>)>)>)>) hasta el <settime(lnum4)><if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>) (Venture completada)
+TEXT_ADDON_2318	<string(lstr1)>. (No vende ningún objeto) (<if([lnum2==1],<icon(51)>,<if([lnum2==2],<icon(52)>,<if([lnum2==3],<icon(53)>,<if([lnum2==4],<icon(64)>,<if([lnum2==7],<icon(96)>,<if([lnum2==10],<icon(107)>,<if([lnum2==12],<icon(113)>,<if([lnum2==14],<icon(169)>,)>)>)>)>)>)>)>)>) (Venture lista en <if([lnum5>0],<num(lnum5)> h<if([lnum6>0],<num(lnum6)> min,)>,<if([lnum6>0],<num(lnum6)> min,1 min)>)>)
+TEXT_ADDON_2319	<string(lstr1)>. (No vende ningún objeto) (<if([lnum2==1],<icon(51)>,<if([lnum2==2],<icon(52)>,<if([lnum2==3],<icon(53)>,<if([lnum2==4],<icon(64)>,<if([lnum2==7],<icon(96)>,<if([lnum2==10],<icon(107)>,<if([lnum2==12],<icon(113)>,<if([lnum2==14],<icon(169)>,)>)>)>)>)>)>)>)>) (Venture completada)
+TEXT_ADDON_2322	Venture
+TEXT_ADDON_2324	Ninguna en curso
+TEXT_ADDON_2325	Nivel máximo: <num(lnum1)>
+TEXT_ADDON_2326	Experiencia
+TEXT_ADDON_2328	Los puntos de experiencia que ganó tu retainer.
+TEXT_ADDON_2329	El nivel promedio de todo el equipo puesto.
+TEXT_ADDON_2330	Ventures
+TEXT_ADDON_2334	Duración
+TEXT_ADDON_2340	Minería
+TEXT_ADDON_2341	Botánica
+TEXT_ADDON_2342	Pesca
+TEXT_ADDON_2346	EXP obtenida
+TEXT_ADDON_2348	Moneda obtenida
+TEXT_ADDON_2352	Fecha de finalización
+TEXT_ADDON_2353	Asignar
+TEXT_ADDON_2356	Faltan <num(lnum1)>:<sec(lnum2)> (<settime(lnum3)><if([gnum77==3],<num(t_day)>/<num(t_mon)>,<num(t_mon)>/<num(t_day)>)> <num(t_hour)>:<sec(t_min)>)
+TEXT_ADDON_2357	No vas a recibir gil al completar esta venture.
+TEXT_ADDON_2358	Este retainer no cumple los requisitos de esta venture.
+TEXT_ADDON_2359	No tienes suficientes ventures.
+TEXT_ADDON_2360	No puedes enviar a un retainer a conseguir objetos que tú nunca recolectaste.
+TEXT_ADDON_2361	Este retainer está en otra venture o tiene una por terminar.
+TEXT_ADDON_2363	Informe de la venture
+TEXT_ADDON_2365	Llamar de vuelta
+TEXT_ADDON_2368	Este retainer no tiene un arma principal equipada.
+TEXT_ADDON_2371	¿Cancelar la venture y llamar de vuelta a este retainer?
+TEXT_ADDON_2372	Equipar al retainer
+TEXT_ADDON_2376	Retainer: <string(lstr1)><br>Elige una opción.
+TEXT_ADDON_2377	Retainer: <string(lstr1)><br>Ventures: <num(lnum2)><br>Elige una opción.
+TEXT_ADDON_2378	Confiar o retirar objetos. (Espacios ocupados: <kilo(lnum1,\,)>)
+TEXT_ADDON_2379	Confiar o retirar gil. (Gil confiado: <kilo(lnum1,\,)>)
+TEXT_ADDON_2380	<if([lnum1==0],,<icon(63)>)>Vender en el mercado objetos de tu inventario.
+TEXT_ADDON_2381	<if([lnum1==0],,<icon(63)>)>Vender en el mercado objetos del inventario de tu retainer.
+TEXT_ADDON_2382	Ver el historial de ventas.
+TEXT_ADDON_2384	Ver el informe de la venture. (Lista el <settime(lnum1)><if([gnum77==3],<num(t_day)>/<num(t_mon)>,<num(t_mon)>/<num(t_day)>)> a las <num(t_hour)>:<sec(t_min)>)
+TEXT_ADDON_2385	Ver el informe de la venture. (Completada)
+TEXT_ADDON_2386	Asignar una venture.
+TEXT_ADDON_2387	Asignar una venture. (En curso)
+TEXT_ADDON_2388	Ver los atributos y el equipo del retainer.
+TEXT_ADDON_2389	Ver los atributos y el equipo del retainer. (Sin arma principal)
+TEXT_ADDON_2390	Restablecer la clase del retainer. (<head(<sheet(ClassJob,lnum1,0)>)>: Nv. <num(lnum2)>)
+TEXT_ADDON_2391	Asignar una clase al retainer.
+TEXT_ADDON_2392	<head(<sheet(ClassJob,lnum1,0)>)> (no disponible).
+TEXT_ADDON_2393	Reasignar
+TEXT_ADDON_2395	Asignar un job al retainer.
+TEXT_ADDON_2396	Elige un job.
+TEXT_ADDON_2397	<icon(63)>Recomprar objetos.
+TEXT_ADDON_2398	Subir el nivel del retainer. (Nv. <num(lnum2)>) Objeto necesario: <sheet(Item,lnum1,9)>
+TEXT_ADDON_2399	<icon(63)>Canjear Venture Promissory Notes. (Actuales: <num(lnum1)>)
+TEXT_ADDON_2400	Votar la entrega de recompensas
+TEXT_ADDON_2401	<colortype(571)><edgecolortype(572)><num(lnum1)> de <num(lnum2)> miembros del grupo pueden recibir recompensas en este momento. Por eso, los cofres que aparecen se reducen de <num(lnum4)> a <num(lnum3)>. Vota "Sí" si quieres continuar, o "No" si prefieres esperar a que vuelvan los jugadores ausentes.<edgecolortype(0)><colortype(0)><br>※La cantidad de cofres depende de los miembros del grupo que puedan recibir recompensas al momento de la entrega.<br>※Los cofres aparecen si el temporizador llega a cero.
+TEXT_ADDON_2402	Aparecerán <num(lnum1)> de <num(lnum2)> cofres posibles. ¿Continuar?
+TEXT_ADDON_2403	<icon(172)> Ver el informe de la venture. (Por terminar)
+TEXT_ADDON_2406	Aplicar glamours.
+TEXT_ADDON_2407	Teñir objetos.
+TEXT_ADDON_2408	Votar la aparición de cofres
+TEXT_ADDON_2409	<colortype(571)><edgecolortype(572)><num(lnum1)> de <num(lnum2)> miembros del grupo pueden recibir recompensas en este momento. Por eso, los cofres que aparecen se reducen a <num(lnum3)>. <if([lnum4>0],<br>Además\, como algunos miembros del grupo no pueden recibir recompensas\, los cofres tendrán menos recompensas. ,)><br>Vota "Sí" si quieres continuar, o "No" si prefieres esperar a que vuelvan los jugadores ausentes.<edgecolortype(0)><colortype(0)><br>※La cantidad de cofres depende de los miembros del grupo que puedan recibir recompensas al momento de la entrega.<br>※Los cofres aparecen si el temporizador llega a cero.
+TEXT_ADDON_2410	¿Continuar con menos recompensas?
+TEXT_ADDON_2411	Desactivar la vista previa del tinte
+TEXT_ADDON_2412	Activar la vista previa del tinte
+TEXT_ADDON_2413	Quitar el conjunto
+TEXT_ADDON_2414	¿Borrar los datos del conjunto guardado y quitar todo menos el último equipo puesto?
+TEXT_ADDON_2415	Ajustar el visor a mano (solo cierto equipo).
+TEXT_ADDON_2419	Guardar/borrar conjunto
+TEXT_ADDON_2420	Probador
+TEXT_ADDON_2422	Mostrar el equipo
+TEXT_ADDON_2423	Mostrar el casco
+TEXT_ADDON_2424	Mostrar las armas envainadas
+TEXT_ADDON_2425	Envainar/desenvainar el arma
+TEXT_ADDON_2426	Probar
+TEXT_ADDON_2427	Este objeto no lo puede equipar<br>tu raza o tu género.
+TEXT_ADDON_2428	<icon2(10)> Subcomandos  <icon2(8)> Canjear
+TEXT_ADDON_2429	<icon2(10)> Subcomandos  <icon2(8)> Comprar
+TEXT_ADDON_2431	Vista previa del gear set
+TEXT_ADDON_2436	Por ahora no puedes equipar este objeto.<br>¿Continuar con la transacción?
+TEXT_ADDON_2439	Probar en el retainer
+TEXT_ADDON_2441	TRANSFIGURACIÓN
+TEXT_ADDON_2445	Aether Currents
+TEXT_ADDON_2447	No hay información para mostrar.
+TEXT_ADDON_2448	Aether Currents descubiertas
+TEXT_ADDON_2449	Sintonía<br>completa
+TEXT_ADDON_2450	Infusión de materia
+TEXT_ADDON_2451	Infundido
+TEXT_ADDON_2452	Infundir
+TEXT_ADDON_2457	Atributo
+TEXT_ADDON_2459	Mejora del arma reliquia
+TEXT_ADDON_2461	Relic Weapon Animus
+TEXT_ADDON_2462	Relic Weapon Novus
+TEXT_ADDON_2463	Mejorar
+TEXT_ADDON_2467	No tienes el tipo de materia correcto.
+TEXT_ADDON_2468	No tienes ninguna alexandrite.
+TEXT_ADDON_2469	Este atributo no admite más infusiones.
+TEXT_ADDON_2470	El pergamino no admite más infusiones.
+TEXT_ADDON_2471	Se pueden infundir como máximo cinco atributos.
+TEXT_ADDON_2472	Para mejorar este atributo se necesita materia de otro grado.
+TEXT_ADDON_2473	Bonificaciones base
+TEXT_ADDON_2474	Bonificaciones adicionales
+TEXT_ADDON_2478	El pergamino no está infundido por completo con materia.
+TEXT_ADDON_2480	<icon2(10)> Subcomandos  <icon2(8)> Confirmar  <icon2(9)> Cerrar
+TEXT_ADDON_2485	La infusión va a funcionar.
+TEXT_ADDON_2486	Es posible que la infusión falle.
+TEXT_ADDON_2487	Hay bastante probabilidad de que la infusión falle.
+TEXT_ADDON_2488	Hay mucha probabilidad de que la infusión falle.
+TEXT_ADDON_2489	Si la infusión falla, pierdes la materia pero no la alexandrite. ¿Continuar?
+TEXT_ADDON_2490	Relic Weapon Nexus
+TEXT_ADDON_2491	Zodiac Weapon
+TEXT_ADDON_2492	Mejora de la Zodiac Weapon
+TEXT_ADDON_2496	[Funciona como un objeto de calidad normal].
+TEXT_ADDON_2497	Teñible (condiciones no cumplidas)
+TEXT_ADDON_2499	[Se usa para obtener <if([lnum1>0],<kilo(lnum2,\,)> <if([lnum2==1],<ennoun(Item,3,lnum1,1,1)>,<ennoun(Item,3,lnum1,2,1)>)>,un objeto específico)>].

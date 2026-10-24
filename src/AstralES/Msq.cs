@@ -49,6 +49,9 @@ public sealed unsafe class Msq : IDisposable
 
     // Resolved English (plain, normalised) → resolved Spanish. Speaker labels go in the same table.
     private Dictionary<string, ReadOnlySeString>? table;
+
+    // Before login (title screen, character select) only the plain labels apply: they need no character.
+    private Dictionary<string, ReadOnlySeString>? lobby;
     private readonly HashSet<string> reported = [];
 
     // Spanish already written into a subtitle node: the next frame finds it there and must not report it.
@@ -78,7 +81,7 @@ public sealed unsafe class Msq : IDisposable
 
     private void OnAddon(AddonEvent type, AddonArgs args)
     {
-        if (!enabled() || !clientState.IsLoggedIn)
+        if (!enabled())
             return;
 
         try
@@ -94,8 +97,7 @@ public sealed unsafe class Msq : IDisposable
                 return;
 
             var values = (AtkValue*)address;
-
-            table ??= Build();
+            var lookup = clientState.IsLoggedIn ? table ??= Build() : lobby ??= Plain([]);
 
             for (var i = 0; i < count; i++)
             {
@@ -114,7 +116,7 @@ public sealed unsafe class Msq : IDisposable
                 if (diagnostics() && plain.Any(char.IsLetter))
                     Report($"[diag] {args.AddonName}[{i}]: {text.ToMacroString()}");
 
-                if (table.TryGetValue(plain, out var spanish))
+                if (lookup.TryGetValue(plain, out var spanish))
                 {
                     // A trailing 0 in case the copy is taken as a C string.
                     value->SetManagedString([.. spanish.Data.Span, 0]);
@@ -265,17 +267,27 @@ public sealed unsafe class Msq : IDisposable
             }
         }
 
-        // Generic NPCs ("Carriage Driver") name the speaker from their own row, not from the line.
-        using (var npc = new StreamReader(assembly.GetManifestResourceStream("npc.tsv")!))
+        log.Info($"MSQ: {lines} líneas en español listas para este personaje");
+        return Plain(result);
+    }
+
+    // Generic NPCs ("Carriage Driver") name the speaker from their own row, not from the line;
+    // window labels (ui.ConfigKey.tsv) are plain English too.
+    private Dictionary<string, ReadOnlySeString> Plain(Dictionary<string, ReadOnlySeString> result)
+    {
+        var assembly = Assembly.GetExecutingAssembly();
+
+        foreach (var resource in assembly.GetManifestResourceNames().Where(n => n == "npc.tsv" || n.StartsWith("ui.")))
         {
-            foreach (var line in npc.ReadToEnd().Split('\n').Skip(1))
+            using var plain = new StreamReader(assembly.GetManifestResourceStream(resource)!);
+
+            foreach (var line in plain.ReadToEnd().Split('\n').Skip(1))
             {
                 if (line.TrimEnd('\r').Split('\t') is [var en, var es])
                     result.TryAdd(Normalize(en), evaluator.EvaluateMacroString(es, [], ClientLanguage.English));
             }
         }
 
-        log.Info($"MSQ: {lines} líneas en español listas para este personaje");
         return result;
     }
 

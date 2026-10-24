@@ -1,0 +1,246 @@
+key	text
+TEXT_ADDON_2500	Duty Finder
+TEXT_ADDON_2502	Nivel <num(lnum1)>
+TEXT_ADDON_2503	Rol: 
+TEXT_ADDON_2504	Unirse
+TEXT_ADDON_2505	Estado del duty
+TEXT_ADDON_2507	Agregar miembros
+TEXT_ADDON_2508	Salir
+TEXT_ADDON_2509	No hay duties disponibles.
+TEXT_ADDON_2510	Tienes una penalización por abandonar un duty y por ahora no puedes emprender tareas nuevas.
+TEXT_ADDON_2512	Lugar: <sheet(PlaceName,lnum1,0)>
+TEXT_ADDON_2514	Clase: <sheet(ClassJobCategory,lnum1,0)>
+TEXT_ADDON_2515	Nivel: <num(lnum1)> (sincronizado desde <num(lnum2)>)
+TEXT_ADDON_2516	Nv. de objeto prom.: <num(lnum1)>
+TEXT_ADDON_2518	Duty: <string(lstr1)>
+TEXT_ADDON_2519	Unirse a un grupo en curso
+TEXT_ADDON_2520	Duty listo
+TEXT_ADDON_2521	Clase: 
+TEXT_ADDON_2522	Tu clase cambió. No se puede empezar el duty.
+TEXT_ADDON_2523	Anterior: 
+TEXT_ADDON_2524	Actual: 
+TEXT_ADDON_2525	Empezar
+TEXT_ADDON_2527	No puedes actuar. No se puede empezar el duty.
+TEXT_ADDON_2528	Tu nivel de objeto es muy bajo. No se puede empezar el duty.
+TEXT_ADDON_2529	Obteniendo datos...
+TEXT_ADDON_2532	Clase actual: 
+TEXT_ADDON_2533	Espera promedio
+TEXT_ADDON_2534	Tiempo agotado
+TEXT_ADDON_2536	Formando el grupo
+TEXT_ADDON_2537	Reservando servidor
+TEXT_ADDON_2538	Clase elegida: 
+TEXT_ADDON_2539	※Los miembros desconectados no podrán volver.
+TEXT_ADDON_2542	¿Completar las vacantes?
+TEXT_ADDON_2545	¿Abandonar el duty?
+TEXT_ADDON_2546	Nivel: <num(lnum1)>
+TEXT_ADDON_2548	Restricción: no se pueden agregar miembros
+TEXT_ADDON_2549	Continuar
+TEXT_ADDON_2553	EXP: <kilo(lnum1,\,)>/<kilo(lnum2,\,)>
+TEXT_ADDON_2554	Temas
+TEXT_ADDON_2555	Miembros
+TEXT_ADDON_2557	Actividad
+TEXT_ADDON_2558	Info
+TEXT_ADDON_2560	Calendario
+TEXT_ADDON_2561	Unión
+TEXT_ADDON_2562	<sheet(GrandCompany,lnum1,0)><br> <colortype(lnum3)>\<Reputación: <sheet(FCReputation,lnum2,4)>><colortype(0)>
+TEXT_ADDON_2564	No se pudieron obtener los datos.
+TEXT_ADDON_2565	Miembros en línea y en su Home World: <num(lnum1)>/<num(lnum2)>
+TEXT_ADDON_2569	Nivel: <num(lnum1)> (sincronizado a <num(lnum1)>)
+TEXT_ADDON_2571	Mensajes cortos
+TEXT_ADDON_2572	Invitado
+TEXT_ADDON_2573	Ingresó
+TEXT_ADDON_2580	Conexión
+TEXT_ADDON_2581	Mensajes
+TEXT_ADDON_2582	Novedades
+TEXT_ADDON_2584	Solicitado
+TEXT_ADDON_2587	Dejar la compañía
+TEXT_ADDON_2588	Revisar
+TEXT_ADDON_2589	El master de la compañía no puede dejarla.
+TEXT_ADDON_2590	Rango <num(lnum1)>
+TEXT_ADDON_2594	Este rango no tiene privilegios.
+TEXT_ADDON_2595	Ajustes de permisos
+TEXT_ADDON_2596	Permisos sobre miembros
+TEXT_ADDON_2597	Permisos de comunidad
+TEXT_ADDON_2598	Permisos de duties
+TEXT_ADDON_2599	Cambiar jerarquía
+TEXT_ADDON_2600	Agregar rango
+TEXT_ADDON_2601	No tienes permiso para cambiar la jerarquía.
+TEXT_ADDON_2602	No se pueden agregar más rangos.
+TEXT_ADDON_2603	Permisos
+TEXT_ADDON_2604	Escribe un nombre para el rango nuevo.
+TEXT_ADDON_2605	Nombre del rango
+TEXT_ADDON_2606	Mostrar solo los miembros en línea.
+TEXT_ADDON_2607	Obteniendo datos.
+TEXT_ADDON_2610	Avisos de actividad
+TEXT_ADDON_2612	Mensaje corto
+TEXT_ADDON_2613	No tienes permiso para publicar un mensaje corto.
+TEXT_ADDON_2614	No se publicó ningún mensaje corto.
+TEXT_ADDON_2615	Ver el perfil de la propiedad
+TEXT_ADDON_2620	Petición de Free Company
+TEXT_ADDON_2622	Master
+TEXT_ADDON_2624	Ayuda
+TEXT_ADDON_2625	Anular
+TEXT_ADDON_2626	Quitar firma
+TEXT_ADDON_2627	Firmar
+TEXT_ADDON_2629	No hay firmas.
+TEXT_ADDON_2630	Perfil de la compañía
+TEXT_ADDON_2632	Esperando aprobación
+TEXT_ADDON_2635	Fecha de fundación
+TEXT_ADDON_2639	<num(lnum1)>/<num(lnum2)> en línea (Home World)
+TEXT_ADDON_2643	Congelada
+TEXT_ADDON_2645	Lema
+TEXT_ADDON_2646	No hay lema.
+TEXT_ADDON_2649	Asigna un rango al miembro.
+TEXT_ADDON_2650	Ascenso/descenso
+TEXT_ADDON_2658	Solo un master puede ascender a otro miembro a master.
+TEXT_ADDON_2659	Elige un rango distinto del actual.
+TEXT_ADDON_2660	Ajustes
+TEXT_ADDON_2674	Usando el chat de la compañía
+TEXT_ADDON_2682	Los permisos del master no se pueden cambiar.
+TEXT_ADDON_2683	Este ajuste no se puede cambiar.
+TEXT_ADDON_2684	Ajustes básicos
+TEXT_ADDON_2685	Acceso al cofre
+TEXT_ADDON_2686	Mostrar el emblema en el equipo.
+TEXT_ADDON_2687	Sin acceso
+TEXT_ADDON_2689	Acceso total
+TEXT_ADDON_2690	Jerarquía
+TEXT_ADDON_2692	Elige un rango para reordenar.
+TEXT_ADDON_2693	Sube o baja el rango en la jerarquía de la compañía.
+TEXT_ADDON_2699	El master no se puede mover.
+TEXT_ADDON_2700	El invitado no se puede mover.
+TEXT_ADDON_2701	Solo depositar
+TEXT_ADDON_2705	Solicitar ingreso
+TEXT_ADDON_2707	La sede de la propiedad no está construida.
+TEXT_ADDON_2712	Gil actual: 
+TEXT_ADDON_2713	Tarifa: 
+TEXT_ADDON_2720	Aethernet
+TEXT_ADDON_2725	Lugar actual: <string(lstr1)>
+TEXT_ADDON_2730	Chocobo de transporte
+TEXT_ADDON_2738	Ver clasificación
+TEXT_ADDON_2740	Licencias de terceros
+TEXT_ADDON_2743	Cerraste sesión en PlayStation™Network.<br>Vuelve a iniciar sesión.
+TEXT_ADDON_2744	Detalles de la instalación
+TEXT_ADDON_2750	Main Menu
+TEXT_ADDON_2751	Tienes una notificación nueva.
+TEXT_ADDON_2760	Notificaciones
+TEXT_ADDON_2762	Se usa con accesorios de antorcha.
+TEXT_ADDON_2770	Rango en la Grand Company
+TEXT_ADDON_2772	Oficial
+TEXT_ADDON_2773	Suboficial y soldado
+TEXT_ADDON_2776	?/<kilo(lnum1,\,)> (Total: <kilo(lnum2,\,)><if([lnum3>0], /  <kilo(lnum4,\,)>,)>)
+TEXT_ADDON_2777	Este duty sin restricción de roles sincroniza el nivel de objeto. Todos los niveles de objeto se ajustan al indicado.
+TEXT_ADDON_2778	Este duty es parte del evento Moogle Treasure Trove.
+TEXT_ADDON_2779	Duty: <head(<string(lstr1)>)>
+TEXT_ADDON_2780	Revisando el estado de los miembros...
+TEXT_ADDON_2782	<num(lnum1)>/<num(lnum2)> elegidos <if([lnum3>4],\(especial\),<if([lnum3>0],<switch(lnum3,\(4 jugadores\),\(8 jugadores\),\(24 jugadores\),\(gran escala\))>,)>)>
+TEXT_ADDON_2787	Formando el grupo...
+TEXT_ADDON_2788	Reservando la instancia...
+TEXT_ADDON_2790	Ascenso en la compañía
+TEXT_ADDON_2791	Rango siguiente: 
+TEXT_ADDON_2792	Rango actual: 
+TEXT_ADDON_2793	Máximo de sellos: <kilo(lnum1,\,)>
+TEXT_ADDON_2794	Sellos necesarios: 
+TEXT_ADDON_2797	Sellos actuales: 
+TEXT_ADDON_2800	Ascender/descender
+TEXT_ADDON_2801	Despedir
+TEXT_ADDON_2802	Invitar a la compañía
+TEXT_ADDON_2803	Ajustes de jerarquía
+TEXT_ADDON_2804	Borrar rango
+TEXT_ADDON_2806	Invitar a la compañía nueva
+TEXT_ADDON_2807	Ver el perfil de la compañía
+TEXT_ADDON_2808	Cambiar nombre del rango
+TEXT_ADDON_2810	¿Dejar de ser líder de <string(lstr1)>?
+TEXT_ADDON_2812	Líder
+TEXT_ADDON_2813	Invitado
+TEXT_ADDON_2815	Abrir comunicación
+TEXT_ADDON_2816	Desactivar acción
+TEXT_ADDON_2817	Usar acción
+TEXT_ADDON_2818	Descartar acción
+TEXT_ADDON_2819	Abrir los ajustes del chat del canal
+TEXT_ADDON_2820	Tablero de la compañía
+TEXT_ADDON_2826	Editar mensaje corto
+TEXT_ADDON_2827	Editar el tablero de la compañía
+TEXT_ADDON_2828	※Se aplica el requisito de nivel de objeto más alto de los duties disponibles.
+TEXT_ADDON_2829	Duties:
+TEXT_ADDON_2830	No se cumplen estos requisitos:
+TEXT_ADDON_2831	Tiempo para que el Duty Finder esté disponible: 
+TEXT_ADDON_2833	Preparando el duty...
+TEXT_ADDON_2834	Buscando miembros...
+TEXT_ADDON_2836	Información
+TEXT_ADDON_2837	※La cantidad de <ennoun(Item,3,lnum1,2,1)> que recibes depende del resultado de la partida.
+TEXT_ADDON_2838	　Victoria: <num(lnum1)><br>　Derrota: <num(lnum2)><br>　Empate: <num(lnum3)>
+TEXT_ADDON_2839	　1.º lugar: <num(lnum1)><br>　2.º lugar: <num(lnum2)><br>　3.º lugar: <num(lnum3)>
+TEXT_ADDON_2841	Las recompensas de este duty se pueden canjear con los moogles itinerantes.
+TEXT_ADDON_2842	Progreso: <num(lnum1)>/<num(lnum2)>
+TEXT_ADDON_2843	Menos de <num(lnum1)> min
+TEXT_ADDON_2844	Más de <num(lnum1)> min
+TEXT_ADDON_2845	No puedes unirte a quest battles mientras usas el Duty Finder.
+TEXT_ADDON_2846	Requisitos previos
+TEXT_ADDON_2847	Uno o más jugadores no pudieron entrar a la instancia.
+TEXT_ADDON_2848	Agregar miembro
+TEXT_ADDON_2849	Salir
+TEXT_ADDON_2850	¿Asignar a <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)> el rango <string(lstr1)>?
+TEXT_ADDON_2851	¿Asignar a <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)> el rango <string(lstr1)>?<br>Con eso tu rango pasará a ser <string(lstr2)>.<br><colortype(508)><edgecolortype(509)>No se puede deshacer.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_2852	¿Despedir a <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)> de la free company? <if(gnum8,<if(<sheet(BNpcName,gnum8,6)>,Su,Su)>,<if(gnum6,Su,Su)>)> habitación privada se demolerá automáticamente y <if(gnum8,<if(<sheet(BNpcName,gnum8,6)>,su,su)>,<if(gnum6,su,su)>)> chocobo saldrá de los establos. Los retainers que <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)> tenga en la propiedad, en cambio, se quedan.
+TEXT_ADDON_2853	¿Dejar la free company? Tu retainer se quedará en la propiedad.
+TEXT_ADDON_2854	Se perderán todos los cambios. ¿Continuar?
+TEXT_ADDON_2855	Otro miembro de la compañía cambió el rango de <string(lstr1)>. Se perdieron tus cambios.
+TEXT_ADDON_2856	Otro miembro borró el rango <string(lstr1)>. Se perdieron tus cambios.
+TEXT_ADDON_2857	Ese nombre de rango no es válido.
+TEXT_ADDON_2859	Otro miembro de la compañía agregó un rango nuevo.<br>Se perdieron tus cambios.
+TEXT_ADDON_2860	Otro miembro de la compañía borró un rango.<br>Se perdieron tus cambios.
+TEXT_ADDON_2861	¿Borrar el rango “<string(lstr1)>”?<br>Todos los miembros con ese rango pasarán a <string(lstr2)>.
+TEXT_ADDON_2862	Ponle un nombre a tu free company.
+TEXT_ADDON_2863	Ese nombre no se puede usar.
+TEXT_ADDON_2864	Ese nombre ya está elegido.
+TEXT_ADDON_2865	Si cancelas la petición, se perderán todas las firmas. ¿Continuar?
+TEXT_ADDON_2866	¿Firmar la petición de free company de <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>?
+TEXT_ADDON_2867	¿Negarte a firmar la petición de free company de <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>?
+TEXT_ADDON_2868	¿Quitar tu firma de la petición de free company de <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>?
+TEXT_ADDON_2869	¿Borrar la firma de <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)> de la petición de free company?
+TEXT_ADDON_2870	¿Pedirle a <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)> que firme tu petición para formar una free company?
+TEXT_ADDON_2871	¿Pagar la tarifa de 15.000 gil y terminar de formar la free company?
+TEXT_ADDON_2872	¿Invitar a <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)> a tu free company?
+TEXT_ADDON_2873	¿Aceptar la invitación de <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)> a su free company?
+TEXT_ADDON_2874	¿Rechazar la invitación de <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)> a su free company?
+TEXT_ADDON_2875	Te despidieron de la free company.
+TEXT_ADDON_2876	¿Desactivar “<sheet(CompanyAction,lnum1,0)>”?
+TEXT_ADDON_2877	¿Usar “<sheet(CompanyAction,lnum1,0)>”?
+TEXT_ADDON_2878	¿Descartar “<sheet(CompanyAction,lnum1,0)>”?
+TEXT_ADDON_2879	Asignar el rango <string(lstr1)>.
+TEXT_ADDON_2880	Cofre de la compañía
+TEXT_ADDON_2886	Acceso al cofre denegado.
+TEXT_ADDON_2888	Cambiar nombre
+TEXT_ADDON_2889	Solo retirar
+TEXT_ADDON_2891	¿Guardar <ennoun(Item,1,lnum1,1,1)> en el cofre de la compañía?
+TEXT_ADDON_2892	¿Guardar <num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)> en el cofre de la compañía?
+TEXT_ADDON_2893	Solo los miembros de la free company pueden usar el cofre de la compañía.
+TEXT_ADDON_2894	El cofre de la compañía no está disponible por ahora.
+TEXT_ADDON_2895	¿Sacar <ennoun(Item,1,lnum1,1,1)> del cofre de la compañía?
+TEXT_ADDON_2896	¿Sacar <num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)> del cofre de la compañía?
+TEXT_ADDON_2897	Elige la cantidad a guardar.
+TEXT_ADDON_2898	Elige la cantidad a sacar.
+TEXT_ADDON_2899	No tienes permiso para usar el cofre de la compañía.
+TEXT_ADDON_2900	Juntando firmas para una petición de Free Company
+TEXT_ADDON_2901	Presentando una petición de Free Company para su aprobación
+TEXT_ADDON_2902	Firmando una petición de Free Company
+TEXT_ADDON_2903	Detalles
+TEXT_ADDON_2908	Despedir de la compañía.
+TEXT_ADDON_2909	Dejar la compañía.
+TEXT_ADDON_2910	Para formar una free company se necesitan tres firmas. Las solicitudes de firma se envían igual que las invitaciones al grupo. Quienes firmen tu petición serán los primeros miembros de tu free company. Recuerda que solo puede firmar alguien que no sea miembro de otra free company.
+TEXT_ADDON_2911	Ya tienes tres firmas: habla con un administrador de la Order of Independent Companies (OIC) para presentar tu petición y pagar la tarifa de 15.000 gil.
+TEXT_ADDON_2912	Si firmas una petición de free company, pasarás a formar parte de sus miembros fundadores.
+TEXT_ADDON_2920	Solicitud de firma
+TEXT_ADDON_2922	Invitación a Free Company
+TEXT_ADDON_2941	Amigos
+TEXT_ADDON_2943	Enemigos
+TEXT_ADDON_2945	Otros
+TEXT_ADDON_2951	Guardar en el cofre
+TEXT_ADDON_2952	Elige un compartimento.
+TEXT_ADDON_2960	Depositar gil
+TEXT_ADDON_2962	No tienes acceso a esta función.
+TEXT_ADDON_2972	No tienes permiso para ver el historial.
+TEXT_ADDON_2974	Caja
+TEXT_ADDON_2975	Objeto/gil
+TEXT_ADDON_2978	No hay historial para mostrar.
+TEXT_ADDON_2980	Nombre del compartimento

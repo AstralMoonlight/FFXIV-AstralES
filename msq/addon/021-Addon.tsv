@@ -1,0 +1,223 @@
+key	text
+TEXT_ADDON_10500	Inscribirse con Duty Support
+TEXT_ADDON_10501	Inscribirse con Trust
+TEXT_ADDON_10508	Afinidad
+TEXT_ADDON_10510	Command Missions
+TEXT_ADDON_10513	Nivel <num(lnum1)><if([lnum2>lnum1],～<num(lnum2)>,)> (sincronizado si es mayor)<if([lnum3>0],<br>Nivel de objeto promedio: <num(lnum3)>,)><if([lnum4>0],　<br>Sincronización de nivel de objeto: <num(lnum4)>,)>
+TEXT_ADDON_10514	¿Aplicar los glamours?
+TEXT_ADDON_10515	¿Restablecer los glamours?
+TEXT_ADDON_10516	¿Deshacer todos los glamours?
+TEXT_ADDON_10518	<colortype(508)><edgecolortype(509)>No tienes suficientes glamour prisms.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_10519	Atributos actuales
+TEXT_ADDON_10520	EXP del escuadrón
+TEXT_ADDON_10522	¿Empezar “<sheet(GcArmyExpedition,lnum1,8)>”?<br><br>Regreso estimado: <settime(lnum2)><num(t_mon)>/<num(t_day)> <num(t_hour)>:<sec(t_min)><if([lnum3==0],, \(en <num(lnum3)> <if([lnum3==1],hora,horas)>\))><if([lnum4>0],<br><br><colortype(506)><edgecolortype(507)>※La afinidad sin asignar se pierde al partir.<edgecolortype(0)><colortype(0)>,)><br><if([lnum5>0],<br><colortype(500)><edgecolortype(501)>※Si una misión sale bien\, no se puede emprender otra hasta que se reinicie la lista de misiones.<edgecolortype(0)><colortype(0)>,)>
+TEXT_ADDON_10523	Capacidad física
+TEXT_ADDON_10524	Capacidad mental
+TEXT_ADDON_10525	Capacidad táctica
+TEXT_ADDON_10528	Atributos del escuadrón: <num(lnum1)>/<num(lnum2)>/<num(lnum3)>
+TEXT_ADDON_10529	Rango del escuadrón: <if([lnum1==0],<-->,<num(lnum1)>)>
+TEXT_ADDON_10530	Adventurer Squadron
+TEXT_ADDON_10531	 <if([lnum1==0],<if([lnum2>0],<num(lnum2)> <if([lnum2==1],minuto,minutos)>,menos de 1 minuto)>,<num(lnum1)> <if([lnum1==1],hora,horas)><if([lnum2>0],<if([lnum1>0], y ,)>,)><if([lnum2>0],<num(lnum2)> <if([lnum2==1],minuto,minutos)>,)>)> restantes [<settime(lnum3)><if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)> <num(t_hour)>:<sec(t_min)>]
+TEXT_ADDON_10532	Órdenes del escuadrón
+TEXT_ADDON_10537	Reclutas nuevos
+TEXT_ADDON_10539	<if([lnum1==0],Misión completada,Entrenamiento completado)> (vuelve al cuartel para el informe)
+TEXT_ADDON_10540	Informe de la misión
+TEXT_ADDON_10542	Misión: <string(lstr1)>
+TEXT_ADDON_10544	Req.
+TEXT_ADDON_10546	Al usar un glamour, el objeto queda vinculado a ti.
+TEXT_ADDON_10555	Gastos
+TEXT_ADDON_10556	Recompensa básica
+TEXT_ADDON_10557	Atributos necesarios
+TEXT_ADDON_10559	Como la afinidad con la misión está al máximo
+TEXT_ADDON_10562	Táctica de combate nueva: <head(<string(lstr1)>)>
+TEXT_ADDON_10563	Dominio de la táctica <head(<string(lstr1)>)>: <num(lnum2)>
+TEXT_ADDON_10564	Mostrar órdenes
+TEXT_ADDON_10566	Confirmar afinidad
+TEXT_ADDON_10567	Cambiar de clase
+TEXT_ADDON_10568	Revisar alistamientos
+TEXT_ADDON_10570	Job limitado
+TEXT_ADDON_10571	Rutinas de entrenamiento
+TEXT_ADDON_10572	¡Misión completada!
+TEXT_ADDON_10575	La misión fracasó...
+TEXT_ADDON_10578	Recompensa de EXP: <num(lnum1)>
+TEXT_ADDON_10580	¿Empezar “<string(lstr1)>”?<br><colortype(506)><edgecolortype(507)>※El total de atributos del escuadrón supera lo permitido por su rango actual. Se limitarán uno o más atributos.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_10581	Sesiones diarias restantes:<br><num(lnum1)>
+TEXT_ADDON_10582	Sastre del escuadrón
+TEXT_ADDON_10583	Aplicar glamours
+TEXT_ADDON_10588	<colortype(506)><edgecolortype(507)>Los glamours del escuadrón están disponibles desde el nivel 51.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_10589	<colortype(506)><edgecolortype(507)>Para aplicar un glamour, habla con un miembro del escuadrón.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_10590	No disponible
+TEXT_ADDON_10591	Entrenamiento actual
+TEXT_ADDON_10592	Tiempo para terminar
+TEXT_ADDON_10597	Rutina completada
+TEXT_ADDON_10599	EXP obtenida: <num(lnum1)>
+TEXT_ADDON_10600	<colortype(506)><edgecolortype(507)>Glamours del escuadrón no disponibles.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_10603	Atributos del escuadrón: <num(lnum2)>/<num(lnum3)>
+TEXT_ADDON_10609	Miembros del escuadrón
+TEXT_ADDON_10610	¡La misión fue un éxito!
+TEXT_ADDON_10613	Lamento informar que la misión terminó en un fracaso...
+TEXT_ADDON_10620	Misiones del escuadrón
+TEXT_ADDON_10625	Command Missions (dungeons)
+TEXT_ADDON_10630	Afinidad con la misión
+TEXT_ADDON_10635	Voy al grano: el escuadrón no está listo para esta misión.
+TEXT_ADDON_10638	Hay pocas probabilidades de que esta misión salga bien...
+TEXT_ADDON_10641	Esta misión pondrá a prueba al escuadrón al límite. ¿Vale la pena el riesgo?
+TEXT_ADDON_10644	Esta misión será difícil, ¡pero creo que nuestro escuadrón está a la altura!
+TEXT_ADDON_10647	¡Esta misión va a salir bien!
+TEXT_ADDON_10662	Pregunta
+TEXT_ADDON_10663	Posponer
+TEXT_ADDON_10665	Alistado el <settime(lnum1)><num(t_mon)>/<num(t_day)>/<num(t_year)>
+TEXT_ADDON_10666	Tu escuadrón está completo. Elige un miembro para despedir.
+TEXT_ADDON_10667	Ver miembros
+TEXT_ADDON_10668	Elige una clase nueva.
+TEXT_ADDON_10671	Lanzador
+TEXT_ADDON_10672	<sheet(ClassJob,lnum1,0)> Nv. <num(lnum2)>
+TEXT_ADDON_10673	Aceptar la nueva afinidad.
+TEXT_ADDON_10674	¿Despedir a <string(lstr1)>?
+TEXT_ADDON_10675	¿Despedir a <string(lstr1)> y reclutar a <string(lstr2)>?
+TEXT_ADDON_10676	¿Usar <ennoun(Item,1,lnum1,1,1)> para ordenar el cambio de clase?<if([lnum2>0],<br><colortype(506)><edgecolortype(507)>\(Se quitarán todos los glamours.\)<edgecolortype(0)><colortype(0)>,)>
+TEXT_ADDON_10680	Indica las tácticas de combate.
+TEXT_ADDON_10681	Dominio
+TEXT_ADDON_10682	Independiente
+TEXT_ADDON_10683	Ofensiva
+TEXT_ADDON_10684	Defensiva
+TEXT_ADDON_10685	Equilibrada
+TEXT_ADDON_10688	Daño recibido
+TEXT_ADDON_10691	<string(lstr1)>  (dominio: <num(lnum2)>)
+TEXT_ADDON_10698	Fija o libera las órdenes del escuadrón.
+TEXT_ADDON_10700	Inscripción a partida personalizada
+TEXT_ADDON_10702	The Claws
+TEXT_ADDON_10703	The Fangs
+TEXT_ADDON_10704	Espectadores
+TEXT_ADDON_10705	<string(lstr1)> (invitado)
+TEXT_ADDON_10707	Para organizar una partida personalizada, necesitas dos grupos ligeros o completos que quieran participar. Después de enviar las invitaciones, el líder de los Claws puede seguir con la inscripción presionando el botón Unirse.<br><br><colortype(506)><edgecolortype(507)>※Los grupos de espectadores tienen que tener al menos dos miembros.<br>※No se pueden enviar invitaciones a grupos de espectadores hasta formar los grupos participantes.<br>※Para organizar una partida personalizada, los líderes de los grupos participantes y espectadores tienen que estar en la misma zona.<br>※En las partidas personalizadas no cuentan los ajustes de grupo reducido.<br><br>※Esto cancela la inscripción a la partida:<br>　・Un líder de grupo sale de la zona<br>　・Cambia un líder de grupo<br>　・Un miembro del grupo cierra sesión<br>　・Un miembro nuevo se une a un grupo<br>　・Un miembro deja un grupo<br>　・Un grupo se disuelve<br>　・Un grupo rechaza la inscripción a la partida<br>　・Se presiona el botón "Cancelar todo"<br><edgecolortype(0)><colortype(0)>
+TEXT_ADDON_10710	Inscribir partida personalizada
+TEXT_ADDON_10711	Invitación a partida personalizada
+TEXT_ADDON_10712	Desafiar al grupo de <string(lstr1)> a una partida personalizada.
+TEXT_ADDON_10713	Invitar al grupo de <string(lstr1)> a ver una partida personalizada.
+TEXT_ADDON_10714	Invitar
+TEXT_ADDON_10716	<string(lstr1)> te desafió a una partida personalizada en Wolves' Den. ¿Aceptar el desafío?
+TEXT_ADDON_10717	<string(lstr1)> te invitó a ver una partida personalizada en Wolves' Den. ¿Aceptar la invitación?
+TEXT_ADDON_10718	¿Rechazar la invitación de <string(lstr1)> a una partida personalizada?
+TEXT_ADDON_10719	¿Cancelar todos los preparativos de la partida personalizada?
+TEXT_ADDON_10720	Invitar a una partida personalizada
+TEXT_ADDON_10721	Aceptar la revancha
+TEXT_ADDON_10722	Confirmando... (<num(lnum1)>/<num(lnum2)>)
+TEXT_ADDON_10724	Para jugar la revancha, todos los miembros de los dos equipos tienen que aceptar el desafío. La partida personalizada termina si un solo participante rechaza la revancha.<br>¿Continuar?
+TEXT_ADDON_10725	La partida personalizada termina si un solo participante rechaza la revancha. Los espectadores pueden dejar su grupo en cualquier momento sin afectar la revancha.<br>¿Continuar?
+TEXT_ADDON_10729	Muestra los aventureros que están viendo esta partida.
+TEXT_ADDON_10730	No hay personajes para mostrar.
+TEXT_ADDON_10734	Revanchas restantes: <num(lnum1)>
+TEXT_ADDON_10736	Inspeccionar
+TEXT_ADDON_10737	Ver el progreso de la partida
+TEXT_ADDON_10739	Ver espectadores
+TEXT_ADDON_10742	Cámara de la partida: <num(lnum1)>
+TEXT_ADDON_10743	<icon2(14)><icon2(15)> Cambiar cámara  <icon2(18)> Mostrar menú
+TEXT_ADDON_10744	Invitar espectadores a la partida personalizada
+TEXT_ADDON_10745	Muestra los ajustes del modo espectador.
+TEXT_ADDON_10746	Elegir mapa
+TEXT_ADDON_10802	※Los grupos que cumplen el tamaño mínimo no tienen restricciones de rol ni de nivel de objeto.
+TEXT_ADDON_10803	※Las alianzas no tienen restricciones de rol ni de nivel de objeto.
+TEXT_ADDON_10804	Tiempo límite: <num(lnum1)>-<num(lnum2)> minutos
+TEXT_ADDON_10805	1-<num(lnum1)> jugadores
+TEXT_ADDON_10807	Cantidad de partidas
+TEXT_ADDON_10808	Inscripción al torneo
+TEXT_ADDON_10809	Período de inscripción al torneo
+TEXT_ADDON_10811	<colortype(506)><edgecolortype(507)>※La opción "Duty completado" solo está disponible para duties<br>　ya completados.<br>※Elegir una fase de práctica no implica saltarse<br>　las fases.<edgecolortype(0)><colortype(0)><br>
+TEXT_ADDON_10812	No se puede elegir junto con otros duties
+TEXT_ADDON_10813	Frontline Freelancer
+TEXT_ADDON_10814	Los freelancers pueden participar en las campañas de Frontline sin estar atados a su Grand Company.<br><colortype(508)><edgecolortype(509)>※Al entrar como grupo, los miembros quedan como freelancers.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_10817	Tiempo transcurrido: <num(lnum1)>:<sec(lnum2)> / espera promedio: <string(lstr3)>
+TEXT_ADDON_10818	Puesto en la lista de espera por rol: <string(lstr1)>
+TEXT_ADDON_10819	Tiempo transcurrido: <num(lnum1)>:<sec(lnum2)>
+TEXT_ADDON_10820	<head(<sheet(ContentType,lnum1,0)>)> (ARR, Heavensward, Stormblood, Shadowbringers, Endwalker)
+TEXT_ADDON_10821	Duty normal
+TEXT_ADDON_10822	Duty de alto nivel
+TEXT_ADDON_10823	No puedes participar en un duty mientras buscas grupo.<br>¿Dejar de usar el Party Finder?
+TEXT_ADDON_10824	<colortype(506)><edgecolortype(507)>※Este duty solo admite grupos completos, sin requisitos de rol. No se pueden fijar requisitos de emparejamiento.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_10825	※Con la opción de grupo sin restricciones hacen falta tres grupos de al menos un miembro cada uno.
+TEXT_ADDON_10826	Inscripción de alianza
+TEXT_ADDON_10827	Grupos participantes: dos grupos de <if(lnum1,<if([lnum1<=10],<switch(lnum1,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)> jugadores<br>Grupo de espectadores: 1-8 jugadores
+TEXT_ADDON_10828	Chocobo de carrera listo inscrito
+TEXT_ADDON_10829	※Los jobs limitados solo pueden participar en un grupo armado que cumpla el tamaño necesario o en un grupo sin restricciones, y si las reglas del duty lo permiten.
+TEXT_ADDON_10830	Inscribirse desde el Home World
+TEXT_ADDON_10831	1.er dan o más
+TEXT_ADDON_10832	Por las revisiones del sistema de PvP, este duty no está disponible por ahora. Se darán más avisos en las próximas notas del parche o medios similares.
+TEXT_ADDON_10834	Ofrendas sacramentales
+TEXT_ADDON_10836	Bonificación de recompensas
+TEXT_ADDON_10840	Invoca a Eminent Grief con el Final Verse (Quantum).
+TEXT_ADDON_10846	* No se muestran todos los requisitos sin cumplir.
+TEXT_ADDON_10848	Battle mentor con certificación vigente
+TEXT_ADDON_10849	En este duty no se puede silenciar el Echo.
+TEXT_ADDON_10850	Un duelo muy caballeroso
+TEXT_ADDON_10852	Esperando respuesta...
+TEXT_ADDON_10853	Tiempo restante: <num(lnum1)>
+TEXT_ADDON_10856	Te desafiaron a un duelo.
+TEXT_ADDON_10859	¿Rechazar el desafío de <string(lstr1)>?
+TEXT_ADDON_10862	Perdiste el duelo.
+TEXT_ADDON_10863	Levantarse
+TEXT_ADDON_10864	Pedir un duelo
+TEXT_ADDON_10871	Se denunciará a <string(lstr1)> por actividad de RMT.<br><colortype(508)><edgecolortype(509)>Si la denuncia resulta infundada o malintencionada, podrías recibir una sanción.<edgecolortype(0)><colortype(0)><br>¿Continuar?
+TEXT_ADDON_10874	Denunciar actividad de RMT
+TEXT_ADDON_10875	Estoy de acuerdo.
+TEXT_ADDON_10890	Centro de datos
+TEXT_ADDON_10895	Reclutar miembros en todo el centro de datos
+TEXT_ADDON_10896	Formar un grupo privado
+TEXT_ADDON_10897	Contraseña del grupo (hasta 4 dígitos)
+TEXT_ADDON_10898	Escribe la contraseña del grupo privado.
+TEXT_ADDON_10899	Contraseña del grupo
+TEXT_ADDON_10902	Grupo entre mundos
+TEXT_ADDON_10903	Estás en un grupo entre mundos. Los hechizos y acciones que afectan a todo el grupo funcionan distinto.
+TEXT_ADDON_10904	Zona de búsqueda
+TEXT_ADDON_10907	Buscar por nombre del reclutador
+TEXT_ADDON_10909	Busca reclutadores en el centro de datos. Se muestran hasta 10 resultados.
+TEXT_ADDON_10914	Abrir la búsqueda por nombre del reclutador
+TEXT_ADDON_10918	La cantidad de resultados de la búsqueda avanzada aparecerá cada tanto en el chat. No incluye los grupos privados.
+TEXT_ADDON_10919	Filtra los resultados por objetivo del grupo, condiciones de participación, estilo de juego, ajustes del Duty Finder y reparto del botín.
+TEXT_ADDON_10920	Ordena de forma ascendente o descendente. (Se muestran hasta 50 resultados)
+TEXT_ADDON_10929	<icon(77)>Bienvenidos principiantes y primerizos
+TEXT_ADDON_10930	Si lo eliges, los jugadores de otros Worlds ya no podrán ver ni aceptar tu anuncio de reclutamiento.
+TEXT_ADDON_10931	Reclutar solo en el World
+TEXT_ADDON_10938	<colortype(506)><edgecolortype(507)>※Los ajustes que fijes aquí solo se muestran. Para cambiar los ajustes reales, entra a la ventana del Duty Finder.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_10939	Si eliges "Duty completado", solo podrán unirse al grupo los jugadores que hayan completado cierto duty. "Duty sin completar" indica lo contrario.
+TEXT_ADDON_10940	Contact List
+TEXT_ADDON_10942	Los 50 jugadores con los que formaste grupo más recientemente. La clase/job es la que tenía cada jugador al formarse el grupo.
+TEXT_ADDON_10946	<colortype(506)><edgecolortype(507)>Los nombres de los jugadores de otros Worlds que agregues a la Blacklist se guardan en tu PC.<edgecolortype(0)><colortype(0)><br><br>¿Agregar a <string(lstr1)> a tu Blacklist?
+TEXT_ADDON_10947	No hay jugadores para mostrar.
+TEXT_ADDON_10949	Duty completado (recompensa semanal sin reclamar)
+TEXT_ADDON_10950	Obtener el estado en línea de los amigos de otros Worlds.
+TEXT_ADDON_10955	<colortype(506)><edgecolortype(507)><br>※Los nombres de los personajes de otros Worlds se guardan en el cliente.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_10956	Estado en línea desconocido
+TEXT_ADDON_10957	<string(lstr1)> se agregará a tu Blacklist. Ya no verás los mensajes de este personaje y su modelo quedará oculto. También entrarán a la Blacklist los demás personajes registrados en la cuenta de ese jugador.<br>El nombre y el Home World del personaje al momento de agregarlo se guardan en tu equipo.<br><colortype(506)><edgecolortype(507)>Si solo quieres silenciar a este personaje, puedes agregarlo a tu Mute List.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_10958	Entiendo.
+TEXT_ADDON_10960	<icon(95)>Estado De regreso
+TEXT_ADDON_10961	El estado <icon(95)>De regreso se aplica a los jugadores que tienen al menos una clase de nivel 50 o más, que no visitaron Eorzea en más de 45 días y que aceptaron la Returner's Bounty.<br><br>La Returner's Bounty incluye:<br>  <colortype(506)><edgecolortype(507)>Acceso a la Novice Network<br>  Bonificación de EXP al agruparte con un <icon(78)>mentor (hasta el Nv. 90)<br>  Ícono de estado en línea De regreso<edgecolortype(0)><colortype(0)><br><br>El estado De regreso se quita después de acumular 72 horas de juego desde que aceptaste la Bounty, o con el comando de texto <colortype(506)><edgecolortype(507)><sheet(TextCommand,238,8)><edgecolortype(0)><colortype(0)>.
+TEXT_ADDON_10963	<colortype(500)><edgecolortype(501)>Una vez quitado el estado De regreso, no se puede volver a obtener hasta cumplir ciertas condiciones.<edgecolortype(0)><colortype(0)><br><br>¿Continuar?
+TEXT_ADDON_10966	Decidir más tarde
+TEXT_ADDON_10967	<colortype(506)><edgecolortype(507)>Podrás aceptar la Returner's Bounty la próxima vez que inicies sesión.<edgecolortype(0)><colortype(0)><br><br>¿Continuar?
+TEXT_ADDON_10970	Certificación de mentor
+TEXT_ADDON_10973	Certificado
+TEXT_ADDON_10974	<icon(79)> Mentor de combate
+TEXT_ADDON_10975	1: Completa 1.000 dungeons, raids o trials instanciados.
+TEXT_ADDON_10976	<icon(80)> Mentor de oficios
+TEXT_ADDON_10977	1: Recolecta o pesca 300 coleccionables.
+TEXT_ADDON_10978	Pedir la certificación de mentor
+TEXT_ADDON_10980	¡Tienes todo para ser mentor de combate!
+TEXT_ADDON_10981	¡Tienes todo para ser mentor de oficios!
+TEXT_ADDON_10982	¡Vaya! ¡Cumples los requisitos para ser mentor de combate y de oficios!
+TEXT_ADDON_10983	Parece que no tienes las credenciales para ser mentor, aunque me atrevo a decir que puedes conseguirlas.
+TEXT_ADDON_10984	2: Recibe 1.500 reconocimientos de jugadores.
+TEXT_ADDON_10985	3: Completa cualquier misión de rol de tanque de nivel <num(lnum1)>.
+TEXT_ADDON_10986	4: Completa cualquier misión de rol de sanador de nivel <num(lnum1)>.
+TEXT_ADDON_10987	Esperando un lugar...
+TEXT_ADDON_10988	Puesto actual en la fila
+TEXT_ADDON_10989	¿Cancelar la inscripción?
+TEXT_ADDON_10990	Sincronizar el nivel de objeto al más bajo
+TEXT_ADDON_10991	Sincronizar el nivel de objeto (150)
+TEXT_ADDON_10992	No sincronizar el nivel de objeto
+TEXT_ADDON_10993	Ajusta el nivel de todos los objetos equipados de ambas partes al del objeto de menor nivel (<num(lnum1)>).
+TEXT_ADDON_10994	Ajusta el nivel de todos los objetos equipados de ambas partes a 150 o menos.
+TEXT_ADDON_10995	No ajusta el nivel de ningún objeto.
+TEXT_ADDON_10997	Aventurero necesitado: tanque
+TEXT_ADDON_10998	Aventurero necesitado: sanador
+TEXT_ADDON_10999	Aventurero necesitado: DPS

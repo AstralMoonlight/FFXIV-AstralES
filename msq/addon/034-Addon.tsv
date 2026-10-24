@@ -1,0 +1,190 @@
+key	text
+TEXT_ADDON_17000	Cantidad necesaria: <num(lnum1)>
+TEXT_ADDON_17001	Mech Ops: <sheet(ENpcResident,lnum1,0)>
+TEXT_ADDON_17002	misiones de clase D
+TEXT_ADDON_17003	misiones de clase C
+TEXT_ADDON_17004	misiones de clase B
+TEXT_ADDON_17007	¡Despegue!
+TEXT_ADDON_17009	Indicar instancia
+TEXT_ADDON_17010	ANUNCIO
+TEXT_ADDON_17011	Valor obtenido:
+TEXT_ADDON_17012	　<if([lnum2>0],NQ,HQ)> = <num(lnum1)> pts
+TEXT_ADDON_17013	　<if([lnum2>0],Mediano,Grande)> = <num(lnum1)> pts
+TEXT_ADDON_17014	Tiempo restante:  <if([lnum1>0],<if([lnum1==1],<num(lnum1)> minuto,<num(lnum1)> minutos)>,)><if([lnum2>0],<if([lnum2==1], <num(lnum2)> segundo, <num(lnum2)> segundos)>,)>
+TEXT_ADDON_17015	¿Viajar al destino elegido?
+TEXT_ADDON_17016	Para reducir la congestión, el destino al que vas a viajar se dividió en varias instancias idénticas.<br><br>¿Continuar sin indicar una instancia?
+TEXT_ADDON_17017	No hay datos de las misiones pendientes de otras estrellas.
+TEXT_ADDON_17019	Un mensaje de la Cosmic Exploration Initiative
+TEXT_ADDON_17022	Omega
+TEXT_ADDON_17023	Ultima
+TEXT_ADDON_17024	Para el siguiente nivel:
+TEXT_ADDON_17025	No se permite Phoenix Down
+TEXT_ADDON_17030	Abrir Wondrous Tails
+TEXT_ADDON_17032	<if([lnum1>0],carreras de chocobos,???)><br>Nv. <num(lnum7)>
+TEXT_ADDON_17034	<if([lnum1>0],Crystalline Conflict,???)><br>Nv. <num(lnum7)>
+TEXT_ADDON_17036	<if([lnum1>0],mahjong de Doma,???)><br>Nv. <num(lnum7)>
+TEXT_ADDON_17037	Juega <num(lnum8)> <if([lnum8==1],partida,partidas)> de mahjong de Doma con otros jugadores.<br>※No cuentan las partidas contra NPC.
+TEXT_ADDON_17038	Completa <num(lnum8)> misiones de suministros y aprovisionamiento de la Grand Company.
+TEXT_ADDON_17039	Se desbloquea al unirte a cualquier Grand Company.
+TEXT_ADDON_17040	Completa <num(lnum8)> <if([lnum8==1],critical encounter,critical encounters)> en <sheet(PublicContent,lnum5,3)>.
+TEXT_ADDON_17041	※No cuentan The Final Verse ni The Final Verse (Quantum).
+TEXT_ADDON_17042	Completa <num(lnum8)> <if([lnum2==29],<if([lnum8==1],skirmish,skirmishes)>,<if([lnum8==1],FATE,FATEs)>)> <if([lnum5==27],en el frente sur de Bozja,en Zadnor)>.
+TEXT_ADDON_17043	Completa <sheet(PublicContent,lnum5,3)> <num(lnum8)> <if([lnum8==1],vez,veces)>.<br>※No cuenta Delubrum Reginae (Savage).
+TEXT_ADDON_17050	Allowance de misiones diarias
+TEXT_ADDON_17052	Allied Society (<sheet(BeastTribe,lnum1,11)>)
+TEXT_ADDON_17053	Ajusta el casco.
+TEXT_ADDON_17054	Mostrar las orejas a través del casco (solo cierto equipo).
+TEXT_ADDON_17080	Grupos
+TEXT_ADDON_17082	Crear grupos
+TEXT_ADDON_17083	(Ninguno)
+TEXT_ADDON_17087	Tipo de ícono de DPS
+TEXT_ADDON_17088	Unificado
+TEXT_ADDON_17089	Separado
+TEXT_ADDON_17090	Resaltado de íconos
+TEXT_ADDON_17093	Elige si los roles DPS se muestran con un ícono unificado o separando DPS cuerpo a cuerpo y a distancia.
+TEXT_ADDON_17094	Resalta el ícono del rol indicado al revisar un strategy board.<br>Este ajuste se aplica a todos los strategy boards. Además, el ícono solo se resalta si el rol está puesto en el tablero que estás revisando.
+TEXT_ADDON_17096	Tu clase/job
+TEXT_ADDON_17097	Strategy board nuevo
+TEXT_ADDON_17098	Carpeta nueva
+TEXT_ADDON_17100	Pilgrim's Traverse
+TEXT_ADDON_17112	Ajustes por modo
+TEXT_ADDON_17114	Activar los globos de chat.
+TEXT_ADDON_17115	Con esta opción activada, parte de los mensajes del chat aparece sobre la cabeza de cada personaje.
+TEXT_ADDON_17120	Cantidad máxima visible
+TEXT_ADDON_17121	Mostrar tus propios mensajes.
+TEXT_ADDON_17122	Mostrar en combate.
+TEXT_ADDON_17123	Tamaño de los globos de chat
+TEXT_ADDON_17127	Ajustes de visualización por duty
+TEXT_ADDON_17128	Duties de PvP a gran escala (Frontline y Rival Wings)
+TEXT_ADDON_17129	Crystalline Conflict: Quick Chat
+TEXT_ADDON_17130	Elige qué ajustes quieres restablecer.
+TEXT_ADDON_17132	Ajustes de visualización por modo.
+TEXT_ADDON_17133	Ajustes de color de texto y fondo por modo.
+TEXT_ADDON_17134	Ajustes generales.
+TEXT_ADDON_17135	Formato de los globos de chat
+TEXT_ADDON_17136	1 fila
+TEXT_ADDON_17137	2 filas
+TEXT_ADDON_17150	Ajustes de Cosmic Exploration
+TEXT_ADDON_17152	Ajustes de la información de Cosmic Exploration
+TEXT_ADDON_17153	Mostrar el progreso de los proyectos de exploración en curso.
+TEXT_ADDON_17154	Mostrar el índice de infraestructura
+TEXT_ADDON_17155	Abrir automáticamente al completar un proyecto.
+TEXT_ADDON_17159	Necesita recetas expertas.
+TEXT_ADDON_17160	Mensajes de la iniciativa
+TEXT_ADDON_17161	Mostrar siempre.
+TEXT_ADDON_17162	Mostrar la primera vez que entras en cada inicio de sesión.
+TEXT_ADDON_17164	Con este ajuste, los mensajes se siguen mostrando al alcanzar hitos de progreso.
+TEXT_ADDON_17166	En las misiones básicas de clase A o las misiones provisionales, conseguir estrellas de oro en misiones seguidas aumenta las recompensas de créditos, dronebits y aportes a Starward Standings.<br><br>1 de oro: sin aumento<br>2 de oro: +5% de recompensas<br>3 de oro: +10% de recompensas<br>4 de oro: +15% de recompensas<br>5 de oro: +20% de recompensas<br>Super Star: +30% de recompensas<br><br>El contador se reinicia al llegar a Super Star.<if([lnum1>0],<br>Estrellas de oro actuales: <num(lnum1)>,)>
+TEXT_ADDON_17167	Bonificación de oro
+TEXT_ADDON_17168	Estrellas de oro actuales: <num(lnum1)>
+TEXT_ADDON_17169	<colortype(500)><edgecolortype(501)>※Hacer misiones por debajo de la clase A reinicia tu contador de estrellas de oro.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_17171	<colortype(500)><edgecolortype(501)>※Abandonar esta misión reinicia tu contador de estrellas de oro.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_17172	¿Usar <ennoun(Item,2,lnum1,1,1)>?
+TEXT_ADDON_17173	Sitio de artefactos
+TEXT_ADDON_17174	Mostrar la guía del Cosmic Class Score
+TEXT_ADDON_17175	Mostrar la guía de los Tool Mastery Points
+TEXT_ADDON_17176	Misiones de Tool Mastery
+TEXT_ADDON_17178	Tool Mastery Points de <head(<sheet(ClassJob,lnum1,0)>)>
+TEXT_ADDON_17182	Objetivo 1
+TEXT_ADDON_17183	Objetivo 2
+TEXT_ADDON_17185	Cosmic Class Score
+TEXT_ADDON_17186	Tool Mastery Points
+TEXT_ADDON_17202	¡Se agregó una etapa nueva al Gold Saucer<br>Active Time Event "Air Force One"!<br><br>Por eso, se actualizó el horario de los GATE.<br>Habla con el encargado del Gold Saucer<br>en Entrance Square<br>para más detalles.
+TEXT_ADDON_17203	No se puede inscribir. Ya hay elegida otra categoría de duty <if([lnum1>4],\(especial\),<if([lnum1>0],<switch(lnum1,\(4 jugadores\),\(8 jugadores\),\(24 jugadores\),\(gran escala\))>,)>)>.
+TEXT_ADDON_17210	Elige si el Command Panel queda abierto o se cierra solo al usar comandos desde el panel.
+TEXT_ADDON_17211	Elige si el Command Panel se abre donde está el cursor del mouse.
+TEXT_ADDON_17212	Fija los comandos del Command Panel para que no se puedan mover.
+TEXT_ADDON_17213	Ajusta el tono de la ventana del Command Panel.
+TEXT_ADDON_17214	Puedes registrar atajos en una hotbar para abrir enseguida ciertas pestañas del Command Panel.
+TEXT_ADDON_17215	Command Panel (<num(lnum1)>)
+TEXT_ADDON_17216	Elige si el Command Panel se abre en la última pestaña usada.
+TEXT_ADDON_17218	Ajustes del Command Panel
+TEXT_ADDON_17220	Reparar todos los inventarios
+TEXT_ADDON_17221	¿Reparar todos los objetos que se pueda, incluidos los del inventario, el Armoury Chest y los equipados, con estos materiales?<br><br><string(lstr1)>
+TEXT_ADDON_17222	Progreso de la reparación
+TEXT_ADDON_17226	Reparaciones completadas.
+TEXT_ADDON_17227	Cancelar reparaciones
+TEXT_ADDON_17229	¿Reparar todos los objetos que se pueda, incluidos los del inventario, el Armoury Chest y los equipados, por <kilo(lnum1,\,)> gil?
+TEXT_ADDON_17250	Hay phantom jobs nuevos en el Occult Crescent: South Horn.<br>También hay objetos nuevos a la venta con el anticuario de la expedición.<br>Además, sintonizarte con todos los Aethernet shards de Tuliyollal ahora desbloquea la aldea fantasma como destino del Aethernet.
+TEXT_ADDON_17251	E. Silver Obols
+TEXT_ADDON_17252	E. Gold Obols
+TEXT_ADDON_17253	Arcane Amulets
+TEXT_ADDON_17254	Prioridad de la Forked Tower
+TEXT_ADDON_17300	Configuración compartida
+TEXT_ADDON_17302	Esta función te deja subir al servidor, como datos guardados temporales, la configuración y las hotbars del personaje con el que iniciaste sesión. Después puedes descargar y aplicar esos ajustes a otro personaje, por ejemplo los personajes prearmados de una convención, para jugar en cualquier lado con tus preferencias de siempre.
+TEXT_ADDON_17303	Si quieres hacer copias de seguridad periódicas de tus ajustes, usa la copia de seguridad en el servidor de la pantalla de selección de personaje.
+TEXT_ADDON_17304	Ver los datos compartidos
+TEXT_ADDON_17305	Subir ajustes
+TEXT_ADDON_17306	Descargar/aplicar ajustes
+TEXT_ADDON_17307	Abre la sección de copia de seguridad en el servidor del manual del juego.
+TEXT_ADDON_17308	Revisa los detalles de los datos compartidos y el código para compartir.
+TEXT_ADDON_17309	Sube los ajustes de tu personaje actual y guárdalos como datos compartidos.
+TEXT_ADDON_17310	Descarga datos compartidos y aplica sus ajustes a tu personaje actual.
+TEXT_ADDON_17311	No se puede conectar con el servidor. Inténtalo de nuevo más tarde.
+TEXT_ADDON_17312	No se encontraron datos compartidos.
+TEXT_ADDON_17313	Se agotó el tiempo. No se pudo completar el pedido.<br>Vuelve a abrir la ventana de configuración compartida e inténtalo de nuevo.
+TEXT_ADDON_17314	No se pudieron obtener los datos compartidos. Inténtalo de nuevo más tarde.
+TEXT_ADDON_17315	Detalles de los datos compartidos
+TEXT_ADDON_17317	Esta ventana muestra los detalles de la configuración que subiste de tu personaje actual. Aquí puedes ver el código para acceder a estos datos y el comentario que escribiste al subirlos.<br>Fíjate en la fecha y la hora en que vencen tus datos guardados.<br>※Los datos compartidos que subes no muestran el nombre de tu personaje a otros jugadores.
+TEXT_ADDON_17318	También puedes usar la Companion App para revisar los datos compartidos y el código, y para alargar la fecha de vencimiento de los datos guardados.
+TEXT_ADDON_17319	Fecha de subida
+TEXT_ADDON_17320	Vencimiento de los datos guardados
+TEXT_ADDON_17321	Código para compartir
+TEXT_ADDON_17322	Comentario de la subida
+TEXT_ADDON_17323	Copiar el código
+TEXT_ADDON_17324	Borrar los datos compartidos
+TEXT_ADDON_17326	¿Borrar los datos compartidos?
+TEXT_ADDON_17327	Se borraron los datos compartidos.
+TEXT_ADDON_17328	No se pudieron borrar los datos compartidos. Inténtalo de nuevo más tarde.
+TEXT_ADDON_17330	Subida de datos compartidos
+TEXT_ADDON_17332	Se subirán como datos compartidos estos ajustes de tu personaje actual.
+TEXT_ADDON_17335	Gear sets
+TEXT_ADDON_17336	Datos varios
+TEXT_ADDON_17337	Macros individuales
+TEXT_ADDON_17338	Macros compartidas
+TEXT_ADDON_17340	System Configuration (parcial)
+TEXT_ADDON_17341	Escribe un comentario para la configuración compartida.
+TEXT_ADDON_17342	Otras personas pueden leer este comentario.<br>No incluyas información privada.
+TEXT_ADDON_17343	Subir datos
+TEXT_ADDON_17345	Conectando con el servidor...
+TEXT_ADDON_17346	Creando los datos compartidos...
+TEXT_ADDON_17347	Subiendo los datos...
+TEXT_ADDON_17348	¿Subir los datos de ajustes?
+TEXT_ADDON_17349	Datos de ajustes subidos.
+TEXT_ADDON_17350	No se pudieron subir los datos de ajustes. Inténtalo de nuevo más tarde.
+TEXT_ADDON_17351	Verificando los datos compartidos...
+TEXT_ADDON_17360	Descarga de datos compartidos
+TEXT_ADDON_17362	Escribe el código de los datos compartidos que quieres aplicar a tu personaje actual.
+TEXT_ADDON_17363	Código para compartir (16 caracteres)
+TEXT_ADDON_17367	Buscando datos compartidos...
+TEXT_ADDON_17368	No se encontraron datos compartidos. Confirma que el código sea correcto.
+TEXT_ADDON_17370	No se pudo completar la búsqueda. Inténtalo de nuevo más tarde.
+TEXT_ADDON_17382	Se encontraron los datos compartidos del código escrito.
+TEXT_ADDON_17386	Elige los ajustes que quieres aplicar.
+TEXT_ADDON_17396	¡Atención! Los ajustes de los datos compartidos reemplazarán la configuración actual de tu personaje.
+TEXT_ADDON_17397	Aplicar los ajustes de los datos compartidos
+TEXT_ADDON_17399	Descargando los datos compartidos...
+TEXT_ADDON_17400	Aplicando los ajustes...
+TEXT_ADDON_17401	¿Descargar y aplicar los ajustes de los datos compartidos?
+TEXT_ADDON_17402	Se aplicaron los ajustes de los datos compartidos.
+TEXT_ADDON_17404	No se pudieron descargar los datos compartidos. Inténtalo de nuevo más tarde.
+TEXT_ADDON_17434	Clic del stick izquierdo
+TEXT_ADDON_17435	Clic del stick derecho
+TEXT_ADDON_17436	LB
+TEXT_ADDON_17437	RB
+TEXT_ADDON_17439	RT
+TEXT_ADDON_17443	Stick izquierdo
+TEXT_ADDON_17444	Stick derecho
+TEXT_ADDON_17449	L3
+TEXT_ADDON_17450	R3
+TEXT_ADDON_17451	L1
+TEXT_ADDON_17452	R1
+TEXT_ADDON_17453	L2
+TEXT_ADDON_17454	R2
+TEXT_ADDON_17464	presiona el stick izquierdo
+TEXT_ADDON_17465	presiona el stick derecho
+TEXT_ADDON_17468	ZL
+TEXT_ADDON_17469	ZR
+TEXT_ADDON_17472	botones de dirección
+TEXT_ADDON_17494	Tiempo de reclamo
+TEXT_ADDON_17497	Puntos tácticos por reclamar triumphs

@@ -1,0 +1,114 @@
+key	text
+TEXT_ADDON_102008	¿Usar <ennoun(Item,1,lnum1,1,1)> para abrir el cofre?
+TEXT_ADDON_102104	norte
+TEXT_ADDON_102105	noreste
+TEXT_ADDON_102106	este
+TEXT_ADDON_102107	sureste
+TEXT_ADDON_102108	sur
+TEXT_ADDON_102109	suroeste
+TEXT_ADDON_102110	oeste
+TEXT_ADDON_102111	noroeste
+TEXT_ADDON_102114	Necesita <num(lnum1)> de Perception
+TEXT_ADDON_102115	Perception ≥ <num(lnum1)>
+TEXT_ADDON_102201	Ve a <ennoun(PlaceName,2,lnum1,2,1)>.
+TEXT_ADDON_102202	Cumple los objetivos de la leve.
+TEXT_ADDON_102203	Vuelve con <sheet(ENpcResident,lnum2,0)> <if(<sheet(PlaceName,lnum1,1)>,<switch(<sheet(PlaceName,lnum1,1)>,en ,en )>,en )><ennoun(PlaceName,2,lnum1,2,1)>.
+TEXT_ADDON_102204	Entrega el pedido a <sheet(ENpcResident,lnum2,0)> <if(<sheet(PlaceName,lnum1,1)>,<switch(<sheet(PlaceName,lnum1,1)>,en ,en )>,en )><ennoun(PlaceName,2,lnum1,2,1)>.
+TEXT_ADDON_102205	Volver a intentar la levequest.
+TEXT_ADDON_102206	Entrégale esto a <sheet(ENpcResident,lnum3,0)>:<br><num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)>
+TEXT_ADDON_102207	Entrégale esto a <sheet(ENpcResident,lnum5,0)>:<br><num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)><br><num(lnum4)> <ennoun(Item,3,lnum3,lnum4,1)>
+TEXT_ADDON_102208	Entrégale esto a <sheet(ENpcResident,lnum7,0)>:<br><num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)><br><num(lnum4)> <ennoun(Item,3,lnum3,lnum4,1)><br><num(lnum6)> <ennoun(Item,3,lnum5,lnum6,1)>
+TEXT_ADDON_102209	Entrégale esto a <sheet(ENpcResident,lnum9,0)>:<br><num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)><br><num(lnum4)> <ennoun(Item,3,lnum3,lnum4,1)><br><num(lnum6)> <ennoun(Item,3,lnum5,lnum6,1)><br><num(lnum8)> <ennoun(Item,3,lnum9,lnum8,1)>
+TEXT_ADDON_102210	Entrégale <if([lnum2==1],<ennoun(Item,1,lnum1,1,1)>,<ennoun(Item,3,lnum1,2,1)>)> a <sheet(ENpcResident,lnum3,0)>.
+TEXT_ADDON_102221	Charla
+TEXT_ADDON_102223	¿Completar el intercambio?
+TEXT_ADDON_102233	Créditos de la Free Company
+TEXT_ADDON_102234	Experiencia de la Free Company
+TEXT_ADDON_102235	Anima
+TEXT_ADDON_102236	El nivel de tu clase actual es menor al recomendado para esta misión. Igual puedes completarla, pero recibirás una penalización de experiencia. ¿Continuar?
+TEXT_ADDON_102243	Recompensa base
+TEXT_ADDON_102250	Montura necesaria: <headall(<sheet(Mount,lnum1,0)>)>
+TEXT_ADDON_102252	Horario: <num(lnum1)>:<sec(lnum2)>-<num(lnum3)>:<sec(lnum4)> (hora de Eorzea)
+TEXT_ADDON_102253	Tamaño máximo del grupo: <num(lnum1)> <if([lnum1==1],miembro,miembros)>
+TEXT_ADDON_102254	Disponible: <settime(lnum1)><if([gnum77==3],<num(t_day)>/<num(t_mon)>,<num(t_mon)>/<num(t_day)>)>  a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:00 <if([t_hour<12],a. m.,p. m.)> (hora real)
+TEXT_ADDON_102256	Ciudad-estado: <sheet(Town,lnum1,0)>
+TEXT_ADDON_102257	Misión necesaria: <sheet(Quest,lnum1,0)>
+TEXT_ADDON_102258	<head(<sheet(ClassJobCategory,lnum1,0)>)> (Nv. <num(lnum2)>)
+TEXT_ADDON_102259	Clase/job necesario: <head(<sheet(ClassJobCategory,lnum1,0)>)>
+TEXT_ADDON_102260	Nivel necesario: Nv. <num(lnum1)>
+TEXT_ADDON_102261	Dungeon necesaria: <head(<sheet(InstanceContent,lnum1,3)>)>
+TEXT_ADDON_102262	No puede haber activas misiones diarias de allied societies aceptadas antes de hoy.
+TEXT_ADDON_102263	No quedan allowances de misiones diarias de allied societies.
+TEXT_ADDON_102264	Solo disponible durante el evento de temporada.
+TEXT_ADDON_102265	Hay que tener un apartamento o una propiedad, o compartir una.<br><br>Hay que estar en el Home World.
+TEXT_ADDON_102266	<sheet(ExVersion,lnum1,0)> instalado y registrado.
+TEXT_ADDON_102267	Clase/job necesario: <head(<sheet(ClassJob,lnum1,0)>)>
+TEXT_ADDON_102269	Hay que tener o llevar equipado el objeto necesario.
+TEXT_ADDON_102270	Hay que tener el objeto necesario.
+TEXT_ADDON_102271	No puede haber una misión de New Game+ en curso.
+TEXT_ADDON_102272	Hay que llevar equipado el objeto necesario.
+TEXT_ADDON_102273	Hay que estar en modo New Game+.
+TEXT_ADDON_102301	Fijar como Home Point.
+TEXT_ADDON_102302	Registrar como Favored Destination.
+TEXT_ADDON_102303	¿Fijar este lugar como tu Home Point?
+TEXT_ADDON_102306	¿Registrar este lugar como Favored Destination?
+TEXT_ADDON_102309	Elige el Favored Destination que vas a reemplazar.
+TEXT_ADDON_102311	¿Registrar este lugar como tu destino gratis de Nintendo Switch Online? Se quitará <head(<ennoun(PlaceName,2,<sheet(Aetheryte,lnum1,8)>,2,1)>)>.
+TEXT_ADDON_102312	Este lugar ya está registrado como otro destino gratis. ¿Registrarlo como tu destino gratis de Nintendo Switch Online?
+TEXT_ADDON_102313	Este lugar ya está registrado como Favored Destination. ¿Registrarlo como tu destino gratis de Nintendo Switch Online?
+TEXT_ADDON_102314	Este lugar ya está registrado como tu destino gratis <if([gnum75==7],de Nintendo Switch Online,por plataforma)>. ¿Registrarlo como Favored Destination?
+TEXT_ADDON_102315	¿Cambiar tu Home Point de <ennoun(PlaceName,2,<sheet(Aetheryte,lnum1,8)>,2,1)>?
+TEXT_ADDON_102318	¿Registrar este lugar como tu destino gratis de Nintendo Switch Online?
+TEXT_ADDON_102319	¿Agregar <ennoun(PlaceName,2,<sheet(Aetheryte,lnum2,8)>,2,1)> a tus Favored Destinations? Se quitará <head(<ennoun(PlaceName,2,<sheet(Aetheryte,lnum1,8)>,2,1)>)>.
+TEXT_ADDON_102324	¿Registrar este lugar como tu destino gratis de PlayStation®Plus? Se quitará <head(<ennoun(PlaceName,2,<sheet(Aetheryte,lnum1,8)>,2,1)>)>.
+TEXT_ADDON_102325	Este lugar ya está registrado como otro destino gratis. ¿Registrarlo como tu destino gratis de PlayStation®Plus?
+TEXT_ADDON_102326	Este lugar ya está registrado como otro destino gratis. ¿Registrarlo como tu destino gratis por security token?
+TEXT_ADDON_102327	¿Registrar este lugar como tu destino gratis de PlayStation®Plus?
+TEXT_ADDON_102328	Este lugar ya está registrado como Favored Destination. ¿Registrarlo como tu destino gratis de PlayStation®Plus?
+TEXT_ADDON_102329	Elige un destino.<br>Lugar actual: <string(lstr1)>
+TEXT_ADDON_102331	Este lugar ya está registrado como tu destino gratis de Nintendo Switch Online. ¿Registrarlo como tu destino gratis por security token?
+TEXT_ADDON_102332	Este lugar ya está registrado como otro destino gratis por plataforma. ¿Registrarlo también como tu destino gratis de PlayStation®Plus?
+TEXT_ADDON_102333	Este lugar ya está registrado como tu destino gratis <if([gnum78==99],de PlayStation®Plus,por plataforma)>. ¿Registrarlo como Favored Destination?
+TEXT_ADDON_102334	¿Registrar este lugar como tu destino gratis por security token?
+TEXT_ADDON_102335	¿Registrar este lugar como tu destino gratis por security token? Se quitará <head(<ennoun(PlaceName,2,<sheet(Aetheryte,lnum1,8)>,2,1)>)>.
+TEXT_ADDON_102336	Este lugar ya está registrado como tu destino gratis por security token. ¿Registrarlo como Favored Destination?
+TEXT_ADDON_102337	Este lugar ya está registrado como Favored Destination. ¿Registrarlo como tu destino gratis por security token?
+TEXT_ADDON_102338	Este lugar ya está registrado como otro destino gratis por plataforma. ¿Registrarlo también como tu destino gratis de Nintendo Switch Online?
+TEXT_ADDON_102339	Tu inscripción se cancelará al salir de la zona. ¿Continuar?
+TEXT_ADDON_102341	Completado
+TEXT_ADDON_102350	Ve a <ennoun(PlaceName,2,lnum1,2,1)>, equipa una herramienta principal de <if([lnum2==1],miner,botanist)> y empieza a <if([lnum2==1],minar,talar)>.
+TEXT_ADDON_102351	Ve a <ennoun(PlaceName,2,lnum1,2,1)>, equipa una herramienta secundaria de <if([lnum2==1],miner,botanist)> y empieza a <if([lnum2==1],extraer piedra,cosechar)>.
+TEXT_ADDON_102352	Antes de continuar con este duty, hay que quitar ciertos estados o efectos obtenidos en la misión “<sheet(Quest,lnum1,QUEST_NAME)>”.
+TEXT_ADDON_102353	¿Quitar los efectos y continuar?
+TEXT_ADDON_102382	Elige un destino.
+TEXT_ADDON_102383	<sheet(ChocoboTaxiStand,lnum1,8)>. (<num(lnum3)> <if([lnum3==1],minuto,minutos)>/<kilo(lnum2,\,)> gil)
+TEXT_ADDON_102391	¿Ponerle a tu chocobo el nombre “<string(lstr1)>”?
+TEXT_ADDON_102421	El deber llama. ¿Empezar la batalla de<br>“<string(lstr1)>”?<br><br><colortype(500)><edgecolortype(501)>※Hay sincronización de nivel.<edgecolortype(0)><colortype(0)> Si superas el nivel máximo permitido, se sincronizará así:<br><br> Nivel: <sheet(QuestBattle,lnum2,3)><if([lnum3>0],<br> Nivel de objeto: <num(lnum3)>,)><edgecolortype(0)><colortype(0)>
+TEXT_ADDON_102424	El deber llama. ¿Empezar la batalla de<br>“<string(lstr1)>”?<br><br><colortype(500)><edgecolortype(501)>※Hay sincronización de nivel.<edgecolortype(0)><colortype(0)> Si superas el nivel máximo permitido, se sincronizará así:<br><br> Nivel: <num(lnum2)><if([lnum3>0],<br> Nivel de objeto: <num(lnum3)>,)><edgecolortype(0)><colortype(0)>
+TEXT_ADDON_102429	Estás por debajo del nivel recomendado (<num(lnum2)>) para esta misión (<string(lstr1)>). ¿Continuar?
+TEXT_ADDON_102433	¿Seguro que quieres comerciar un objeto con materia engarzada? Se perderá la materia.
+TEXT_ADDON_102434	¿Seguro que quieres comerciar un objeto de alta calidad?
+TEXT_ADDON_102442	Misiones diarias
+TEXT_ADDON_102445	¿Empezar “<sheet(Fate,lnum1,0)>”?
+TEXT_ADDON_102450	PvP Profile
+TEXT_ADDON_102452	The Wolves' Den
+TEXT_ADDON_102454	Rango de PvP: 
+TEXT_ADDON_102457	Puntos de acción disponibles
+TEXT_ADDON_102459	Desempeño general
+TEXT_ADDON_102462	Desempeño semanal
+TEXT_ADDON_102465	Habilidad/rasgo
+TEXT_ADDON_102467	AP
+TEXT_ADDON_102470	Mejora
+TEXT_ADDON_102472	¿Gastar <sheet(PvPAction,lnum2,1)> AP para obtener “<sheet(ActStr,lnum1,0)>”?
+TEXT_ADDON_102478	Rasgo
+TEXT_ADDON_102479	Acción de PvP
+TEXT_ADDON_102481	Obtener mejora
+TEXT_ADDON_102483	Las acciones y los rasgos de PvP se pueden reforzar con sus mejoras.
+TEXT_ADDON_102489	Campañas:
+TEXT_ADDON_102490	1.er lugar:
+TEXT_ADDON_102491	2.º lugar:
+TEXT_ADDON_102492	3.er lugar:
+TEXT_ADDON_102495	¿Restablecer las acciones de PvP predeterminadas?
+TEXT_ADDON_102497	Desempeño de la temporada
+TEXT_ADDON_102498	Calificación más alta:
+TEXT_ADDON_102499	Nivel más alto:

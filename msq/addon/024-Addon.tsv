@@ -1,0 +1,282 @@
+key	text
+TEXT_ADDON_12009	C+1
+TEXT_ADDON_12010	C♯
+TEXT_ADDON_12011	E♭
+TEXT_ADDON_12012	F♯
+TEXT_ADDON_12013	G♯
+TEXT_ADDON_12014	B♭
+TEXT_ADDON_12015	+1 octava
+TEXT_ADDON_12016	-1 octava
+TEXT_ADDON_12017	+1 semitono
+TEXT_ADDON_12018	-1 semitono
+TEXT_ADDON_12020	Ajustes de actuación
+TEXT_ADDON_12022	Controles de teclado
+TEXT_ADDON_12023	Controles de <switchplatform(1)>
+TEXT_ADDON_12044	Elige una nota para asignar. Clic derecho para borrar.
+TEXT_ADDON_12045	Elige una tecla.
+TEXT_ADDON_12049	¿Restablecer todos los ajustes a sus valores predeterminados?
+TEXT_ADDON_12050	Se perderán todos los cambios sin guardar. ¿Continuar?
+TEXT_ADDON_12080	<icon(16)> Abrir ajustes <icon(19)> Recorrer HUD <icon(18)> Salir
+TEXT_ADDON_12081	Presiona <if([gnum78==3],esc,Esc)> para salir del modo de actuación.
+TEXT_ADDON_12083	Asignar todas las notas al teclado.
+TEXT_ADDON_12084	Iniciando los controles de teclado.<br>Elige tu tipo de teclado.
+TEXT_ADDON_12091	Modo conjunto activado
+TEXT_ADDON_12093	Silenciar a los demás intérpretes en el modo de actuación.
+TEXT_ADDON_12094	Mostrar la guía de controles de <lower(<switchplatform(1)>)>.
+TEXT_ADDON_12095	Tipo de reproducción
+TEXT_ADDON_12096	Modo de visualización de teclas
+TEXT_ADDON_12097	Usar el método de control actual
+TEXT_ADDON_12098	Modo teclado
+TEXT_ADDON_12099	Modo <switchplatform(1)>
+TEXT_ADDON_12100	Modo conjunto
+TEXT_ADDON_12101	Con el modo conjunto activado, los jugadores cercanos oyen a todos los miembros del grupo sincronizados, pero los intérpretes notan una demora entre lo que tocan y lo que se oye, según el tipo de reproducción.<br>Quienes elijan "Solo uno mismo" oyen solo su instrumento, y "Todos los miembros" reproduce los instrumentos de todos con más demora.
+TEXT_ADDON_12105	Mostrar las entradas de <switchplatform(1)>
+TEXT_ADDON_12106	Mostrar el metrónomo
+TEXT_ADDON_12107	Silenciar a los demás intérpretes
+TEXT_ADDON_12108	Dejar de silenciar a los demás intérpretes
+TEXT_ADDON_12109	Asistencia de actuación
+TEXT_ADDON_12110	Cross-world Linkshells
+TEXT_ADDON_12115	<colortype(506)><edgecolortype(507)>Las linkshells con menos de 2 miembros se disuelven automáticamente si no se suman miembros en 24 horas (hora real).<br>(<if([lnum3>0],Se acabó el tiempo. La linkshell se disolverá en breve.,Tiempo restante:<if([lnum1>0], <num(lnum1)> h,)><if([lnum2==0],<if([lnum1==0], menos de 1 min,)>, <num(lnum2)> min)>)>)<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_12116	Actualizar la lista de miembros.
+TEXT_ADDON_12117	No se pudo obtener la lista de miembros.
+TEXT_ADDON_12118	Las <colortype(504)><edgecolortype(505)>cross-world linkshells<edgecolortype(0)><colortype(0)> son linkshells especiales con las que jugadores de distintos mundos forman grupos de chat privados y se comunican en tiempo real. Cualquier jugador puede crear una cross-world linkshell o unirse a una con una invitación. Aunque con ellas también se puede hablar con jugadores del mismo mundo, para eso se recomiendan las linkshells normales que se consiguen en Limsa Lominsa, Gridania y Ul'dah.<br><br>El orden de los canales de cross-world linkshell se cambia con los subcomandos de la lista. Esta información se guarda en el cliente, así que si vas a jugar en varios equipos, conviene guardar los datos con la copia de seguridad de ajustes.<br><br>Ten en cuenta que se puede pertenecer a hasta ocho cross-world linkshells a la vez, y que las linkshells con menos de 2 miembros activos se disuelven automáticamente si no se suman miembros en 24 horas (hora real). No se pueden crear varias cross-world linkshells seguidas.
+TEXT_ADDON_12120	Aceptar la invitación a la cross-world linkshell
+TEXT_ADDON_12121	Rechazar la invitación a la cross-world linkshell
+TEXT_ADDON_12123	Dejar de ser Cross-world Linkshell Leader
+TEXT_ADDON_12124	Dejar la cross-world linkshell
+TEXT_ADDON_12125	Disolver la cross-world linkshell
+TEXT_ADDON_12128	Invitar a la cross-world linkshell
+TEXT_ADDON_12129	Cancelar la invitación a la cross-world linkshell
+TEXT_ADDON_12130	Hacer Cross-world Linkshell Master
+TEXT_ADDON_12131	Hacer Cross-world Linkshell Leader
+TEXT_ADDON_12132	Quitar de Cross-world Linkshell Leader
+TEXT_ADDON_12133	Expulsar de la cross-world linkshell
+TEXT_ADDON_12134	¿Aceptar la invitación a la cross-world linkshell “<string(lstr1)>”?
+TEXT_ADDON_12135	¿Rechazar la invitación a la cross-world linkshell “<string(lstr1)>”?
+TEXT_ADDON_12137	Una vez disuelta, no podrás recuperar esta cross-world linkshell. ¿Seguro que es lo que quieres?
+TEXT_ADDON_12139	¿Expulsar a <string(lstr1)> de tu cross-world linkshell?
+TEXT_ADDON_12140	¿Hacer a <string(lstr1)> Cross-world Linkshell Leader?
+TEXT_ADDON_12141	¿Quitar a <string(lstr1)> de Cross-world Linkshell Leader?
+TEXT_ADDON_12142	¿Hacer a <string(lstr1)> Cross-world Linkshell Master y traspasarle todos los derechos del cargo?
+TEXT_ADDON_12144	¿Cancelar la invitación de <string(lstr1)> a la cross-world linkshell?
+TEXT_ADDON_12146	Elige un nombre para tu cross-world linkshell.
+TEXT_ADDON_12147	Los nombres tienen que tener entre 3 y 20 letras o números. También se permiten estos signos de puntuación:
+TEXT_ADDON_12151	¿Fijar el nombre “<string(lstr1)>”?
+TEXT_ADDON_12152	CWLS [<num(lnum1)>]:
+TEXT_ADDON_12153	Cambiar nombre de la cross-world linkshell
+TEXT_ADDON_12154	Obteniendo los datos de la cross-world linkshell...
+TEXT_ADDON_12155	Fecha de creación: <settime(lnum1)><num(t_mon)>/<num(t_day)>/<num(t_year)>
+TEXT_ADDON_12156	¿Dejar “<string(lstr1)>”? Se elegirá un master nuevo entre los miembros que quedan.
+TEXT_ADDON_12157	Dejarla aunque seas el master.
+TEXT_ADDON_12158	Abrir los comandos de la cross-world linkshell.
+TEXT_ADDON_12159	Activar la cross-world linkshell
+TEXT_ADDON_12161	Cambiar número de la cross-world linkshell
+TEXT_ADDON_12162	Asigna un número nuevo a CWLS-<num(lnum1)>.<br>Intercambia los números ya asignados.
+TEXT_ADDON_12164	Invitar a CWLS-<num(lnum1)>: <string(lstr2)>
+TEXT_ADDON_12171	Por número
+TEXT_ADDON_12172	Alfabéticamente
+TEXT_ADDON_12173	Priorizar miembros en línea.
+TEXT_ADDON_12174	Reasignación de canales
+TEXT_ADDON_12176	Restablecer el orden de los canales.
+TEXT_ADDON_12177	Se restablecerá el orden actual de los canales de cross-world linkshell. Los números de canal pueden cambiar; tenlo en cuenta al usarlos con comandos de texto.<br>Afecta a todos los canales de cross-world linkshell a los que perteneces, sin importar el centro de datos. ¿Continuar?
+TEXT_ADDON_12179	<icon(63)>Organizar CWLS
+TEXT_ADDON_12180	Quitar glamour
+TEXT_ADDON_12184	Glamour dispellers
+TEXT_ADDON_12185	Quitar el glamour de <string(lstr1)>
+TEXT_ADDON_12187	¿Usar <num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)> para quitar los glamours elegidos?<br>※También se quitarán los tintes y los emblemas de la compañía.
+TEXT_ADDON_12188	Marcar o desmarcar todo.
+TEXT_ADDON_12189	<colortype(506)><edgecolortype(507)>Se superó el límite de CWLS activas. Algunas CWLS están desactivadas.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_12196	Activo
+TEXT_ADDON_12197	Reclamando <switch(lnum1,<icon(51)>,<icon(52)>,<icon(53)>)>
+TEXT_ADDON_12198	Reclamado por <switch(lnum1,<icon(51)>,<icon(52)>,<icon(53)>)>
+TEXT_ADDON_12200	Lista de búsqueda de objetos
+TEXT_ADDON_12218	Bloqueado
+TEXT_ADDON_12220	Se desbloquea con una misión
+TEXT_ADDON_12221	Se desbloquea al llamarlo una vez
+TEXT_ADDON_12222	Se desbloquea al abrirlo una vez
+TEXT_ADDON_12223	Sin acceso
+TEXT_ADDON_12224	Bloque: <if([lnum1>0], \[1\],)><if([lnum2>0], \[2\],)><if([lnum3>0], \[3\],)><if([lnum4>0], \[4\],)><if([lnum5>0], \[5\],)><if([lnum6>0], \[cristales\],)><if([lnum7>0], <string(lstr8)>,)>
+TEXT_ADDON_12225	Bolsa: <if([lnum1>0], \[1\],)><if([lnum2>0], \[2\],)>
+TEXT_ADDON_12240	Puede que los resultados no reflejen el inventario actual. Vuelve a llamar al retainer para ver los últimos resultados.
+TEXT_ADDON_12241	Puede que los resultados no reflejen el inventario actual. Vuelve a abrirlo para ver los últimos resultados.
+TEXT_ADDON_12242	Mostrando los últimos resultados.
+TEXT_ADDON_12244	El jugador tiene que confirmar algunos resultados. Los marcados con <colortype(508)><edgecolortype(509)>?<edgecolortype(0)><colortype(0)> se basan en la información del último acceso. Para ver los últimos resultados, vuelve a abrir los menús correspondientes.
+TEXT_ADDON_12248	Cargar set activo
+TEXT_ADDON_12249	Guardar set activo
+TEXT_ADDON_12250	Blue Magic Spellbook
+TEXT_ADDON_12251	Marca las acciones que quieres agregar a tu set activo.
+TEXT_ADDON_12252	Detalles del hechizo
+TEXT_ADDON_12254	¿Guardar las acciones en “<string(lstr1)>”? 
+TEXT_ADDON_12255	¿Cargar el set activo “<string(lstr1)>”?
+TEXT_ADDON_12256	Dónde se aprende
+TEXT_ADDON_12258	Cómo se aprende
+TEXT_ADDON_12259	Acciones totales
+TEXT_ADDON_12261	Todavía no aprendiste esta acción.
+TEXT_ADDON_12269	Se aprende con el Whalaqee Totem
+TEXT_ADDON_12270	Aprendido primero
+TEXT_ADDON_12271	Set activo 1
+TEXT_ADDON_12272	Set activo 2
+TEXT_ADDON_12273	Set activo 3
+TEXT_ADDON_12274	Set activo 4
+TEXT_ADDON_12275	Set activo 5
+TEXT_ADDON_12276	Necesario para completar la misión de blue mage de nivel <num(lnum1)>, “<string(lstr2)>”.
+TEXT_ADDON_12278	Pistas
+TEXT_ADDON_12279	Marcador de fichas peligrosas
+TEXT_ADDON_12280	Descarte recomendado
+TEXT_ADDON_12281	Registro del chat
+TEXT_ADDON_12282	Menzen Tsumo
+TEXT_ADDON_12283	Riichi
+TEXT_ADDON_12284	Ippatsu
+TEXT_ADDON_12285	After a Kan
+TEXT_ADDON_12286	Robbing a Kan
+TEXT_ADDON_12287	Last-tile Draw
+TEXT_ADDON_12288	Last-tile Claim
+TEXT_ADDON_12289	Pinfu
+TEXT_ADDON_12290	Call Tanyao
+TEXT_ADDON_12291	Tanyao
+TEXT_ADDON_12292	Pure Double Chi
+TEXT_ADDON_12293	Fanpai
+TEXT_ADDON_12294	East
+TEXT_ADDON_12295	South
+TEXT_ADDON_12296	West
+TEXT_ADDON_12297	North
+TEXT_ADDON_12298	Double East
+TEXT_ADDON_12299	Double South
+TEXT_ADDON_12300	Double West
+TEXT_ADDON_12301	Double North
+TEXT_ADDON_12302	White Dragons
+TEXT_ADDON_12303	Green Dragons
+TEXT_ADDON_12304	Red Dragons
+TEXT_ADDON_12305	Dora
+TEXT_ADDON_12306	Double Riichi
+TEXT_ADDON_12307	Mixed Triple Chi
+TEXT_ADDON_12308	Pure Straight
+TEXT_ADDON_12309	Outside Hand
+TEXT_ADDON_12310	All Pon
+TEXT_ADDON_12311	Triple Pon
+TEXT_ADDON_12312	All Terminals and Honors
+TEXT_ADDON_12313	Three Concealed Pon
+TEXT_ADDON_12314	Three Kan
+TEXT_ADDON_12315	Little Three Dragons
+TEXT_ADDON_12316	Seven Pairs
+TEXT_ADDON_12317	Terminals in All Groups
+TEXT_ADDON_12318	Twice Pure Double Chi
+TEXT_ADDON_12319	Half Flush
+TEXT_ADDON_12320	Full Flush
+TEXT_ADDON_12321	Nagashi-mangan
+TEXT_ADDON_12322	Blessing of Heaven
+TEXT_ADDON_12323	Blessing of Earth
+TEXT_ADDON_12324	Nine Gates
+TEXT_ADDON_12325	Pure Nine Gates
+TEXT_ADDON_12326	Big Three Dragons
+TEXT_ADDON_12327	Big Four Winds
+TEXT_ADDON_12328	Little Four Winds
+TEXT_ADDON_12329	Four Concealed Pon
+TEXT_ADDON_12330	Four Concealed Pon on Pair Wait
+TEXT_ADDON_12331	Four Kan
+TEXT_ADDON_12332	All Honors
+TEXT_ADDON_12333	All Terminals
+TEXT_ADDON_12334	All Green
+TEXT_ADDON_12335	Thirteen Orphans
+TEXT_ADDON_12336	Pure Thirteen Orphans
+TEXT_ADDON_12337	Ura Dora
+TEXT_ADDON_12338	Aka Dora
+TEXT_ADDON_12339	Big Three Dragons (Pao)
+TEXT_ADDON_12340	Big Four Winds (Pao)
+TEXT_ADDON_12345	Aplicar los ajustes de la Party List
+TEXT_ADDON_12346	Spriggan
+TEXT_ADDON_12347	Moogle
+TEXT_ADDON_12348	Mandragora
+TEXT_ADDON_12350	Bomb
+TEXT_ADDON_12351	Cactuar
+TEXT_ADDON_12352	Tonberry
+TEXT_ADDON_12353	Behemoth
+TEXT_ADDON_12354	Morbol
+TEXT_ADDON_12367	Ajustes de nombres de jugadores de mahjong
+TEXT_ADDON_12370	Partidas contra jugadores
+TEXT_ADDON_12371	Partidas contra NPC
+TEXT_ADDON_12372	Partidas jugadas
+TEXT_ADDON_12374	Yakuman cantados hace poco
+TEXT_ADDON_12377	Calificación actual
+TEXT_ADDON_12380	Rango siguiente
+TEXT_ADDON_12381	<num(lnum1)> pts
+TEXT_ADDON_12382	Nombres de las fichas
+TEXT_ADDON_12383	Mostrar cantos
+TEXT_ADDON_12384	Victorias por mesa
+TEXT_ADDON_12385	Principiante
+TEXT_ADDON_12386	Intermedio
+TEXT_ADDON_12387	Avanzado
+TEXT_ADDON_12388	<num(lnum1)> victorias
+TEXT_ADDON_12391	Ajustar
+TEXT_ADDON_12393	Sí
+TEXT_ADDON_12397	9.º kyu
+TEXT_ADDON_12398	8.º kyu
+TEXT_ADDON_12399	7.º kyu
+TEXT_ADDON_12400	6.º kyu
+TEXT_ADDON_12401	5.º kyu
+TEXT_ADDON_12402	4.º kyu
+TEXT_ADDON_12403	3.º kyu
+TEXT_ADDON_12404	2.º kyu
+TEXT_ADDON_12405	1.º kyu
+TEXT_ADDON_12406	1.er dan
+TEXT_ADDON_12407	2.º dan
+TEXT_ADDON_12408	3.er dan
+TEXT_ADDON_12409	4.º dan
+TEXT_ADDON_12410	5.º dan
+TEXT_ADDON_12411	6.º dan
+TEXT_ADDON_12412	7.º dan
+TEXT_ADDON_12413	8.º dan
+TEXT_ADDON_12414	9.º dan
+TEXT_ADDON_12415	10.º dan
+TEXT_ADDON_12416	Ajustes de visualización del mahjong
+TEXT_ADDON_12417	Juego de fichas
+TEXT_ADDON_12418	Doma
+TEXT_ADDON_12420	Tradicional
+TEXT_ADDON_12425	<num(lnum1)> puntos
+TEXT_ADDON_12426	Restablecer rango/calificación
+TEXT_ADDON_12427	¿Quieres restablecer tu rango y tu calificación en todos los tipos de partida?<br>※Se conserva la calificación más alta.
+TEXT_ADDON_12428	Restablecer rango y calificación.
+TEXT_ADDON_12429	Declarar la mano ganadora automáticamente
+TEXT_ADDON_12430	Ajustes de disposición
+TEXT_ADDON_12432	Alta resolución (para Full HD o más)
+TEXT_ADDON_12433	<colortype(506)><edgecolortype(507)>Con la disposición de alta resolución, a veces la interfaz puede quedar más grande que la pantalla.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_12434	Indicador de dora
+TEXT_ADDON_12435	Mahjong de Doma
+TEXT_ADDON_12437	El indicador de dora es la misma ficha que da la bonificación de dora.
+TEXT_ADDON_12438	Como manda la tradición, el indicador de dora es la ficha anterior a la que da la bonificación de dora.
+TEXT_ADDON_12439	El rango y la calificación se comparten entre las partidas completas y las rápidas.<br>Tenlo en cuenta antes de restablecerlos.
+TEXT_ADDON_12442	Sin completar
+TEXT_ADDON_12444	<colortype(500)><edgecolortype(501)>Desafío vencido<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_12445	Detalles de la bonificación
+TEXT_ADDON_12448	Moderado
+TEXT_ADDON_12452	Acto <num(lnum1)>
+TEXT_ADDON_12453	Magia
+TEXT_ADDON_12454	Tiempo estándar:
+TEXT_ADDON_12455	Tiempo ideal:
+TEXT_ADDON_12456	Rival:
+TEXT_ADDON_12457	Resistencia:
+TEXT_ADDON_12458	Debilidades:
+TEXT_ADDON_12459	Fortalezas:
+TEXT_ADDON_12460	Vulnerabilidades:
+TEXT_ADDON_12461	Objetivo semanal
+TEXT_ADDON_12462	Requisitos para completar:
+TEXT_ADDON_12463	Tiempo restante:  <if([lnum1>0],<num(lnum1)> h ,)><if([lnum2>0],<num(lnum2)> min ,<if([lnum1>0],,menos de 1 minuto)>)><settime(lnum3)>[<num(t_mon)>/<num(t_day)> <num(t_hour)>:<sec(t_min)>]
+TEXT_ADDON_12464	Recompensa de primera vez
+TEXT_ADDON_12465	Recompensa semanal
+TEXT_ADDON_12467	Lista de bonificaciones
+TEXT_ADDON_12471	Blue Mage Log
+TEXT_ADDON_12472	Slow
+TEXT_ADDON_12473	Petrification/Freeze
+TEXT_ADDON_12474	Paralysis
+TEXT_ADDON_12475	Interrupción
+TEXT_ADDON_12476	Blind
+TEXT_ADDON_12477	Stun
+TEXT_ADDON_12478	Sleep
+TEXT_ADDON_12479	Bind
+TEXT_ADDON_12480	Heavy
+TEXT_ADDON_12481	Daño fijo/muerte
+TEXT_ADDON_12483	Por debajo del promedio
+TEXT_ADDON_12485	Por encima del promedio
+TEXT_ADDON_12491	Resultados de la etapa
+TEXT_ADDON_12494	Tiempo
+TEXT_ADDON_12495	<num(lnum1)> min <sec(lnum2)> s

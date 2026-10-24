@@ -1,0 +1,290 @@
+key	text
+TEXT_ADDON_8012	Alineado a la izquierda (mejoras)
+TEXT_ADDON_8013	Alineado a la izquierda (debilitamientos)
+TEXT_ADDON_8015	Cross Hotbar 1 - izquierda
+TEXT_ADDON_8016	Cross Hotbar 1 - derecha
+TEXT_ADDON_8017	Cross Hotbar 2 - izquierda
+TEXT_ADDON_8018	Cross Hotbar 2 - derecha
+TEXT_ADDON_8019	Cross Hotbar 3 - izquierda
+TEXT_ADDON_8020	Cross Hotbar 3 - derecha
+TEXT_ADDON_8021	Cross Hotbar 4 - izquierda
+TEXT_ADDON_8022	Cross Hotbar 4 - derecha
+TEXT_ADDON_8023	Cross Hotbar 5 - izquierda
+TEXT_ADDON_8024	Cross Hotbar 5 - derecha
+TEXT_ADDON_8025	Cross Hotbar 6 - izquierda
+TEXT_ADDON_8026	Cross Hotbar 6 - derecha
+TEXT_ADDON_8027	Cross Hotbar 7 - izquierda
+TEXT_ADDON_8028	Cross Hotbar 7 - derecha
+TEXT_ADDON_8029	Cross Hotbar 8 - izquierda
+TEXT_ADDON_8030	Cross Hotbar 8 - derecha
+TEXT_ADDON_8031	Subir - izquierda
+TEXT_ADDON_8032	Subir - derecha
+TEXT_ADDON_8033	Bajar - izquierda
+TEXT_ADDON_8034	Bajar - derecha
+TEXT_ADDON_8039	Muy pequeño
+TEXT_ADDON_8041	Invertido
+TEXT_ADDON_8043	Ascendente
+TEXT_ADDON_8044	Descendente
+TEXT_ADDON_8075	Cantidad de duties mostrados
+TEXT_ADDON_8081	Crystalline Conflict (PvP)
+TEXT_ADDON_8082	Mostrar el equipo propio a la izquierda del medidor de progreso.
+TEXT_ADDON_8083	Mostrar el equipo propio a la izquierda del mapa.
+TEXT_ADDON_8084	Mostrar la cuenta regresiva final.
+TEXT_ADDON_8085	Ajustes de nombres en PvP
+TEXT_ADDON_8086	Ajustes de abreviatura
+TEXT_ADDON_8088	Abreviado
+TEXT_ADDON_8091	Abrir al iniciar sesión.
+TEXT_ADDON_8092	Abrir al cambiar de zona.
+TEXT_ADDON_8093	Atención. Ya completaste el duty elegido.<br><br>¿Entrar a <sheet(InstanceContent,lnum1,3)>?<br><colortype(500)><edgecolortype(501)>※Reparto del botín: <switch(lnum4,normal,solo codicia,lootmaster)><edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8094	Atención. Ya completaste el duty elegido.<br><br><head(<if(lnum2,<if([lnum2<=10],<switch(lnum2,un,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)>)> <if([lnum2==1],miembro del grupo ya pasó,miembros del grupo ya pasaron)> esta parte de la historia. Al completar el duty <if([lnum3==1],aparecerá,aparecerán)> <head(<if(lnum3,<if([lnum3<=10],<switch(lnum3,un,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum3)>)>,<num(lnum3)>)>)> <if([lnum3==1],cofre,cofres)> del tesoro.<br><br>¿Entrar a <sheet(InstanceContent,lnum1,3)>?<br><colortype(500)><edgecolortype(501)>※Reparto del botín: <switch(lnum4,normal,solo codicia,lootmaster)><edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8095	<head(<if(lnum2,<if([lnum2<=10],<switch(lnum2,un,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)>)> <if([lnum2==1],miembro del grupo ya pasó,miembros del grupo ya pasaron)> esta parte de la historia. Al completar el duty <if([lnum3==1],aparecerá,aparecerán)> <head(<if(lnum3,<if([lnum3<=10],<switch(lnum3,un,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum3)>)>,<num(lnum3)>)>)> <if([lnum3==1],cofre,cofres)> del tesoro.<br><br>¿Entrar a <sheet(InstanceContent,lnum1,3)>?<br><colortype(500)><edgecolortype(501)>※Reparto del botín: <switch(lnum4,normal,solo codicia,lootmaster)><edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8096	Atención. El duty elegido está más allá de tu avance en la historia.<br><br><head(<if(lnum2,<if([lnum2<=10],<switch(lnum2,un,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)>)> <if([lnum2==1],miembro del grupo ya pasó,miembros del grupo ya pasaron)> esta parte de la historia. Al completar el duty <if([lnum3==1],aparecerá,aparecerán)> <head(<if(lnum3,<if([lnum3<=10],<switch(lnum3,un,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum3)>)>,<num(lnum3)>)>)> <if([lnum3==1],cofre,cofres)> del tesoro.<br><br>¿Entrar a <sheet(InstanceContent,lnum1,3)>?<br><colortype(500)><edgecolortype(501)>※Reparto del botín: <switch(lnum4,normal,solo codicia,lootmaster)><edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8097	Atención. El duty elegido está más allá de tu avance en la historia.<br><br>¿Entrar a <sheet(InstanceContent,lnum1,3)>?<br><colortype(500)><edgecolortype(501)>※Reparto del botín: <switch(lnum4,normal,solo codicia,lootmaster)><edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8098	¿Entrar a <sheet(InstanceContent,lnum1,3)>?
+TEXT_ADDON_8099	<colortype(508)><edgecolortype(509)>Atención.<edgecolortype(0)><colortype(0)><br><br>Un total de <if(lnum2,<if([lnum2<=10],<switch(lnum2,un,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)> miembros (contándote) ya completaron este duty y no pueden recibir sus recompensas. Al completar el duty <if([lnum3==1],aparecerá,aparecerán)> <head(<if(lnum3,<if([lnum3<=10],<switch(lnum3,un,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum3)>)>,<num(lnum3)>)>)> <if([lnum3==1],cofre,cofres)> del tesoro.<br><br>¿Entrar a <sheet(InstanceContent,lnum1,3)>?<br><colortype(500)><edgecolortype(501)>※Reparto del botín: <switch(lnum4,normal,solo codicia,lootmaster)><edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8100	Descifrar
+TEXT_ADDON_8101	¿Descifrar <ennoun(Item,2,lnum1,1,1)>?
+TEXT_ADDON_8104	Elige el mapa gastado que quieres descifrar.
+TEXT_ADDON_8105	¿Abrir el cofre del tesoro? Se perderá el mapa del tesoro.
+TEXT_ADDON_8106	Mapa del tesoro
+TEXT_ADDON_8108	¡Examina el cofre del tesoro!
+TEXT_ADDON_8109	¡Derrota al enemigo!
+TEXT_ADDON_8110	¡Asegura el cofre del tesoro!
+TEXT_ADDON_8111	Examinar el cofre del tesoro
+TEXT_ADDON_8112	Derrotar al enemigo
+TEXT_ADDON_8113	Asegurar el cofre del tesoro
+TEXT_ADDON_8114	¡Cruza el portal hacia lo desconocido!
+TEXT_ADDON_8115	Entrar al portal
+TEXT_ADDON_8116	¿Cruzar el portal?<br><colortype(508)><edgecolortype(509)>Los miembros del grupo también serán transportados.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8120	Mostrar el mensaje en el chat.
+TEXT_ADDON_8130	Ready Check
+TEXT_ADDON_8133	Se inició un ready check.<br>¿Avisar a tus compañeros que ya puedes empezar?<br>※Puedes responder más tarde eligiendo el aviso correspondiente.
+TEXT_ADDON_8135	¿Iniciar un ready check para todos los miembros del grupo y la alianza?
+TEXT_ADDON_8139	<icon2(11)> Ver registro del mirador
+TEXT_ADDON_8140	Sightseeing Log
+TEXT_ADDON_8142	Total: <num(lnum1)>/<num(lnum2)>
+TEXT_ADDON_8144	Impresiones
+TEXT_ADDON_8145	Ver las impresiones.
+TEXT_ADDON_8146	Registro del mirador
+TEXT_ADDON_8147	Ver el registro del mirador.
+TEXT_ADDON_8148	Elige una entrada.
+TEXT_ADDON_8149	<icon2(11)> Ver impresiones
+TEXT_ADDON_8150	Challenge Log
+TEXT_ADDON_8156	Shadowbringers
+TEXT_ADDON_8157	Alianza A/B/C
+TEXT_ADDON_8158	Alianza D/E/F
+TEXT_ADDON_8160	Endwalker
+TEXT_ADDON_8162	Mostrar el registro automáticamente al completar un mirador nuevo.
+TEXT_ADDON_8163	Ver mirador
+TEXT_ADDON_8165	Desafío completado
+TEXT_ADDON_8170	EXP de compañero
+TEXT_ADDON_8172	Todavía no desbloqueaste esta categoría.
+TEXT_ADDON_8174	EXP elemental
+TEXT_ADDON_8175	Dawntrail
+TEXT_ADDON_8176	Mostrar en el mapa
+TEXT_ADDON_8188	Extendido
+TEXT_ADDON_8190	Copiar HUD
+TEXT_ADDON_8191	Origen
+TEXT_ADDON_8192	Copia los ajustes del HUD de la pantalla elegida.
+TEXT_ADDON_8194	Origen: <if([lnum1==0],pantalla normal \(<if([gnum75>0],<switch(gnum75,PS3,PS4™,PS4™,PS5™,,)>,)>\),pantalla de Remote Play)><br>Destino: <if([lnum1==0],pantalla de Remote Play,pantalla normal  \(<if([gnum75>0],<switch(gnum75,PS3,PS4™,PS4™,PS5™,,)>,)>\))><br>Se reemplazarán los ajustes actuales. ¿Continuar?
+TEXT_ADDON_8197	Pantalla normal (<if([gnum75>0],<switch(gnum75,PS3,PS4™,PS4™,PS5™,,)>,)>)
+TEXT_ADDON_8198	Pantalla de Remote Play
+TEXT_ADDON_8199	Distancia de visualización de personajes
+TEXT_ADDON_8200	Activar los efectos de superficie mojada.
+TEXT_ADDON_8201	Ajustes del altavoz de <switchplatform(21)>
+TEXT_ADDON_8202	Volumen del altavoz
+TEXT_ADDON_8203	Sonidos del altavoz
+TEXT_ADDON_8204	Límites de visualización
+TEXT_ADDON_8205	Cantidad de personajes y objetos
+TEXT_ADDON_8206	Ventanas abiertas
+TEXT_ADDON_8207	Activar la carrera automática con <icon2(12)>+<icon2(20)>.
+TEXT_ADDON_8208	Ajustes del panel táctil
+TEXT_ADDON_8209	Usar el panel táctil como mouse.
+TEXT_ADDON_8210	Sensibilidad del panel táctil
+TEXT_ADDON_8211	Activar el mouse virtual.
+TEXT_ADDON_8212	Activar los controles ampliados del panel táctil.
+TEXT_ADDON_8213	Clic izquierdo del panel táctil
+TEXT_ADDON_8214	Clic derecho del panel táctil
+TEXT_ADDON_8215	Ajustes de Remote Play
+TEXT_ADDON_8216	Entrada del panel táctil
+TEXT_ADDON_8217	Activar el panel táctil trasero.
+TEXT_ADDON_8218	Permitir el zoom de la ventana con <icon(17)>.
+TEXT_ADDON_8219	Permitir pegar texto con <icon(12)> + <icon(13)>.
+TEXT_ADDON_8220	Todos los sonidos del sistema
+TEXT_ADDON_8221	Solo avisos
+TEXT_ADDON_8228	Bajo
+TEXT_ADDON_8229	Mínimo
+TEXT_ADDON_8230	Ajustes de la pantalla de título
+TEXT_ADDON_8231	Pantalla de título al iniciar
+TEXT_ADDON_8232	Avance del escenario principal
+TEXT_ADDON_8235	Recorrer los elementos del HUD (siguiente)
+TEXT_ADDON_8236	Recorrer los elementos del HUD (anterior)
+TEXT_ADDON_8240	Sin límite
+TEXT_ADDON_8250	Ajustes de objetivo en el suelo (modo <if([gnum75>0],mando,mando)>)
+TEXT_ADDON_8251	Anillo de objetivo
+TEXT_ADDON_8252	Velocidad del cursor (sin fijar)
+TEXT_ADDON_8253	Resaltar los posibles objetivos.
+TEXT_ADDON_8254	Demora de la animación en reposo
+TEXT_ADDON_8255	Activar la Cross Hotbar.
+TEXT_ADDON_8256	Mostrar mensajes de error del tiempo de reutilización.
+TEXT_ADDON_8257	Variar al azar la animación de reposo de pie.
+TEXT_ADDON_8258	Mostrar mensajes de error cuando fallan las acciones.
+TEXT_ADDON_8259	Mostrar mensajes de error de altitud.
+TEXT_ADDON_8260	Fijo al cursor
+TEXT_ADDON_8261	Libre (<icon2(13)>+<icon2(20)> para mover)
+TEXT_ADDON_8263	Cambiar el círculo de objetivo a selección de objetivo.
+TEXT_ADDON_8264	Permitir elegir el objetivo más cercano al cursor del mouse.
+TEXT_ADDON_8265	Absoluto
+TEXT_ADDON_8266	Relativo
+TEXT_ADDON_8267	Limitar el movimiento del anillo al alcance de selección.
+TEXT_ADDON_8268	Presionar la acción dos veces para usarla.
+TEXT_ADDON_8271	Estándar: jugar en HD.
+TEXT_ADDON_8272	Tamaño predeterminado de la interfaz
+TEXT_ADDON_8273	Aplicar a todo
+TEXT_ADDON_8274	¿Ajustar el tamaño de todos los elementos de la interfaz?
+TEXT_ADDON_8275	Aplicar el cambio a todos los elementos de la interfaz
+TEXT_ADDON_8276	Tamaño predeterminado
+TEXT_ADDON_8278	Tamaño de la interfaz
+TEXT_ADDON_8281	Agrandar la interfaz del sistema.
+TEXT_ADDON_8283	Copia de seguridad de la configuración
+TEXT_ADDON_8284	Avisar cuando pase cierto tiempo desde la última copia de seguridad.
+TEXT_ADDON_8285	Ajustes de ausencia automática
+TEXT_ADDON_8286	Tiempo hasta la ausencia automática
+TEXT_ADDON_8287	Carpeta de capturas de pantalla
+TEXT_ADDON_8288	Cambiar carpeta
+TEXT_ADDON_8291	5 min
+TEXT_ADDON_8292	10 min
+TEXT_ADDON_8293	30 min
+TEXT_ADDON_8294	60 min
+TEXT_ADDON_8295	Indica la ruta de la carpeta de destino.<br><colortype(500)><edgecolortype(501)>Solo para usuarios avanzados.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8296	Pasar a la Idling Camera al activarse la ausencia automática.
+TEXT_ADDON_8297	Ajustes de Group Pose/Idling Camera
+TEXT_ADDON_8298	Cambiar el estado en línea a Modo de cámara mientras están activas.
+TEXT_ADDON_8300	Mount Guide
+TEXT_ADDON_8303	Minion
+TEXT_ADDON_8305	<icon2(10)> Colocar en la hotbar  <icon2(8)> Llamar
+TEXT_ADDON_8306	<icon2(11)> Cambiar de lista
+TEXT_ADDON_8307	Administra los minions de tu lista de favoritos.
+TEXT_ADDON_8308	Administra las monturas de tu lista de favoritos.
+TEXT_ADDON_8309	Elige una montura.
+TEXT_ADDON_8310	Elige un minion.
+TEXT_ADDON_8311	Total: <num(lnum1)>
+TEXT_ADDON_8314	Terrestre
+TEXT_ADDON_8315	Aérea
+TEXT_ADDON_8316	Comportamiento
+TEXT_ADDON_8317	Minion Guide
+TEXT_ADDON_8319	Editar la hotbar de minions.
+TEXT_ADDON_8321	Abrir el Yo-kai Medallium.
+TEXT_ADDON_8330	Trials of the Braves
+TEXT_ADDON_8335	Dungeons
+TEXT_ADDON_8337	Leves
+TEXT_ADDON_8338	Derrota a <num(lnum2)> <ennoun(BNpcName,3,lnum1,2,1)>.
+TEXT_ADDON_8339	Derrota a <ennoun(BNpcName,2,lnum1,1,1)>.
+TEXT_ADDON_8340	Completa el FATE “<sheet(Fate,lnum1,0)>”.
+TEXT_ADDON_8341	Completa la levequest “<sheet(Leve,lnum1,0)>”.
+TEXT_ADDON_8343	Atma obtenido
+TEXT_ADDON_8346	Desechar el key item.
+TEXT_ADDON_8347	Completa la levequest de la Grand Company “<sheet(Leve,lnum1,0)>”.
+TEXT_ADDON_8348	Cristales obtenidos
+TEXT_ADDON_8351	Busca en la Minion Guide. Se muestran hasta 30 resultados.
+TEXT_ADDON_8352	Busca en la Mount Guide. Se muestran hasta 30 resultados.
+TEXT_ADDON_8354	Incluir el texto
+TEXT_ADDON_8357	Elige una ranura nueva.
+TEXT_ADDON_8359	Escribe el nombre completo o parcial de un minion y presiona Enter para buscar.
+TEXT_ADDON_8360	Escribe el nombre completo o parcial de una montura y presiona Enter para buscar.
+TEXT_ADDON_8361	Grado
+TEXT_ADDON_8362	Grado: <if([lnum1>0],<num(lnum1)>,???)>
+TEXT_ADDON_8363	Habilidad: <if([lnum1>0],<sheet(ChocoboRaceAbility,lnum1,0)>,<if([lnum1==0],Ninguna,???)>)>
+TEXT_ADDON_8364	Color: <if([lnum1>0],<sheet(Stain,lnum1,5)>,???)>
+TEXT_ADDON_8365	Capacidad de cría: <if([lnum1<0],?,<num(lnum1)>)>
+TEXT_ADDON_8366	Linaje
+TEXT_ADDON_8368	Polluelo
+TEXT_ADDON_8369	Fecha de adopción
+TEXT_ADDON_8370	Catalizador obtenido
+TEXT_ADDON_8371	Material del Zodiac obtenido
+TEXT_ADDON_8373	No se encontró el minion.
+TEXT_ADDON_8374	No se encontró la montura.
+TEXT_ADDON_8376	Buscar minion
+TEXT_ADDON_8378	Buscar montura
+TEXT_ADDON_8379	Tesoro obtenido
+TEXT_ADDON_8380	Se puede obtener una pieza de equipo o un material de mejora por semana.
+TEXT_ADDON_8390	Cross-world Linkshell [2]
+TEXT_ADDON_8391	Cross-world Linkshell [3]
+TEXT_ADDON_8392	Cross-world Linkshell [4]
+TEXT_ADDON_8393	Cross-world Linkshell [5]
+TEXT_ADDON_8394	Cross-world Linkshell [6]
+TEXT_ADDON_8395	Cross-world Linkshell [7]
+TEXT_ADDON_8396	Cross-world Linkshell [8]
+TEXT_ADDON_8397	Emotes hacia uno mismo
+TEXT_ADDON_8400	Alertas visuales
+TEXT_ADDON_8401	Activar las alertas visuales.
+TEXT_ADDON_8403	Transparencia
+TEXT_ADDON_8404	Ajustes del filtro de color
+TEXT_ADDON_8405	Activar el filtro de color
+TEXT_ADDON_8408	Tipo 1 (protanopía)
+TEXT_ADDON_8409	Tipo 2 (deuteranopía)
+TEXT_ADDON_8410	Tipo 3 (tritanopía)
+TEXT_ADDON_8411	Personajes visibles en las zonas residenciales
+TEXT_ADDON_8417	Marks
+TEXT_ADDON_8418	Elite Marks
+TEXT_ADDON_8422	<kilo(lnum1,\,)> gil / <kilo(lnum2,\,)> <if([lnum2==1],Allied Seal,Allied Seals)>
+TEXT_ADDON_8424	Si persigues un mark nuevo, abandonarás el actual. ¿Continuar?
+TEXT_ADDON_8425	Nombre: 
+TEXT_ADDON_8426	Lugar: 
+TEXT_ADDON_8427	Recompensa: 
+TEXT_ADDON_8428	Autorizado por: 
+TEXT_ADDON_8429	Chief Admiral Merlwyb Bloefhiswyn
+TEXT_ADDON_8430	Elder Seedseer Kan-E-Senna
+TEXT_ADDON_8431	Flame General Raubahn Aldynn
+TEXT_ADDON_8432	Objetivos:
+TEXT_ADDON_8435	Emitido por:
+TEXT_ADDON_8436	Clan Centurio
+TEXT_ADDON_8437	Clan Marks de nivel 1
+TEXT_ADDON_8438	Clan Marks de nivel 2
+TEXT_ADDON_8439	Clan Marks de nivel 3
+TEXT_ADDON_8440	Elite Clan Marks
+TEXT_ADDON_8441	Abrir el mapa
+TEXT_ADDON_8442	Veteran Clan Marks de nivel 1
+TEXT_ADDON_8443	Veteran Clan Marks de nivel 2
+TEXT_ADDON_8444	Veteran Clan Marks de nivel 3
+TEXT_ADDON_8445	Elite Veteran Clan Marks
+TEXT_ADDON_8450	Novedad especial
+TEXT_ADDON_8451	Las crystal bells repartidas por Eorzea sirven para llamar a un esteticista.
+TEXT_ADDON_8452	Ahora se pueden agregar habitaciones privadas a las propiedades de las free companies.
+TEXT_ADDON_8453	Ahora se puede despedir de una free company a los miembros con habitación propia. Los objetos guardados en la habitación se recuperan hablando con un cuidador residente.
+TEXT_ADDON_8454	Ahora puedes cambiar el color del plumaje de tu chocobo del establo dándole golosinas.
+TEXT_ADDON_8455	Ahora puedes comprar terreno para una propiedad privada. Habla con un cuidador residente para que te explique los pasos.
+TEXT_ADDON_8456	Se agregaron subdivisiones a los tres distritos residenciales. Ahora hay el doble de terrenos a la venta. A las subdivisiones se llega con los Aethernet shards.
+TEXT_ADDON_8457	Ahora puedes usar los expansion of duty permits para ubicar retainers en la propiedad. Habla con un cuidador residente para que te explique los pasos.
+TEXT_ADDON_8458	Ahora puedes usar las aetherial wheels. Carga las ruedas en los soportes y convierte la energía acumulada en acciones de la compañía. Habla con un cuidador residente para que te explique los pasos.
+TEXT_ADDON_8459	Ahora puedes agregar un taller de la compañía a tu propiedad. En los talleres se fabrican proyectos de la compañía, como aetherial wheels, materiales de housing y aeronaves, que después se pueden enviar en viajes de exploración. Habla con un cuidador residente para que te explique los pasos.
+TEXT_ADDON_8460	¡Ya está disponible en Chocobo Square una atracción nueva: Lord of Verminion!
+TEXT_ADDON_8461	Hay estos cambios en el housing:<br><br> - Ahora se pueden compartir las propiedades privadas.<br> - Ahora se puede ajustar el brillo de la iluminación de la propiedad.<br> - Las propiedades sin visitar por mucho tiempo se demolerán automáticamente y sus terrenos volverán a la venta.<br><br>Para más detalles sobre estos cambios, habla con un <colortype(506)><edgecolortype(507)>cuidador residente<edgecolortype(0)><colortype(0)>.
+TEXT_ADDON_8462	Las misiones de exploración ya están disponibles en el <colortype(506)><edgecolortype(507)>panel de control de viajes<edgecolortype(0)><colortype(0)> del taller de la compañía. Con ellas, tú y los miembros de tu compañía pueden explorar un grupo lejano de islotes del Sea of Clouds llamado the Diadem.<br><br>Para más detalles, habla con el mammet voyager #004A.
+TEXT_ADDON_8463	Ahora se pueden colocar macetas y floreros en todas las propiedades y habitaciones privadas. Los curious crops que crecen en las macetas se pueden canjear por materiales con los proveedores de materiales de las zonas residenciales.
+TEXT_ADDON_8464	Ya se pueden comprar <colortype(506)><edgecolortype(507)>apartamentos<edgecolortype(0)><colortype(0)> en las zonas residenciales. Habla con un cuidador residente para más detalles.
+TEXT_ADDON_8465	Se agregaron estas actividades al Duty Finder, dentro de Gold Saucer:<br><br><colortype(506)><edgecolortype(507)>Triple Triad Battlehall Matches<edgecolortype(0)><colortype(0)><br><colortype(506)><edgecolortype(507)>LoVM Player Battles (Non-RP)<edgecolortype(0)><colortype(0)><br><colortype(506)><edgecolortype(507)>LoVM Player Battles (RP)<edgecolortype(0)><colortype(0)><br><colortype(506)><edgecolortype(507)>LoVM Tournaments<edgecolortype(0)><colortype(0)><br><br>Para inscribirse en las partidas de Lord of Verminion ya no hace falta MGP.
+TEXT_ADDON_8466	Se agregaron estas funciones a los orchestrions de las propiedades:<br><br><colortype(506)><edgecolortype(507)>Listas de reproducción<edgecolortype(0)><colortype(0)><br><colortype(506)><edgecolortype(507)>Opción Reproducir todo<edgecolortype(0)><colortype(0)><br><colortype(506)><edgecolortype(507)>Opción Repetir<edgecolortype(0)><colortype(0)><br><colortype(506)><edgecolortype(507)>Opción Aleatorio<edgecolortype(0)><colortype(0)><br><br>Hay más información sobre las listas en el tema de Active Help "The Orchestrion".<br><br>Ahora se pueden poner los peces pescados en <colortype(506)><edgecolortype(507)>acuarios<edgecolortype(0)><colortype(0)> y exhibirlos en las propiedades o habitaciones privadas.
+TEXT_ADDON_8467	Ya se pueden comprar cuadros en the Hard Place, en Idyllshire. Se pueden enmarcar y exhibir en propiedades, habitaciones y apartamentos.
+TEXT_ADDON_8468	Hay misiones de exploración nuevas en el <colortype(506)><edgecolortype(507)>panel de control de viajes<edgecolortype(0)><colortype(0)> del taller de la compañía. Con ellas, tú y los miembros de tu compañía pueden explorar un grupo lejano de islotes del Sea of Clouds llamado the Diadem.<br><br>Para más detalles, habla con el mammet voyager #004A.
+TEXT_ADDON_8469	Los dueños de propiedades que quieran mudarse a otro terreno ya tienen la opción de <colortype(506)><edgecolortype(507)>mudanza<edgecolortype(0)><colortype(0)>. Además, pueden usar <colortype(506)><edgecolortype(507)>almacenes<edgecolortype(0)><colortype(0)> para guardar por un tiempo los muebles de exterior y de interior. Habla con un cuidador residente para más detalles.
+TEXT_ADDON_8470	¿No sabes qué ponerte para el próximo evento de temporada? Se agregaron <colortype(506)><edgecolortype(507)>glamour dressers<edgecolortype(0)><colortype(0)> a las habitaciones de las posadas de las grandes ciudades<-->estado de Eorzea y de Kugane: ¡combinar el equipo ahora es más fácil!
+TEXT_ADDON_8471	¡Ya se pueden formar <colortype(506)><edgecolortype(507)>PvP teams<edgecolortype(0)><colortype(0)> propios! Mira el <colortype(506)><edgecolortype(507)>tablero de creación de equipos<edgecolortype(0)><colortype(0)> en <colortype(506)><edgecolortype(507)>Wolves' Den Pier<edgecolortype(0)><colortype(0)> para saber más.
+TEXT_ADDON_8472	Hay estas <colortype(506)><edgecolortype(507)>restricciones<edgecolortype(0)><colortype(0)> temporales<br>para las próximas compras de terrenos:<br><br>・Todas las compras nuevas de terrenos se limitan a las <colortype(506)><edgecolortype(507)>free companies<edgecolortype(0)><colortype(0)>.<br>・Cada jugador puede tener solo una propiedad privada y una de free company por <colortype(506)><edgecolortype(507)>World<edgecolortype(0)><colortype(0)> y por <colortype(506)><edgecolortype(507)>cuenta de servicio<edgecolortype(0)><colortype(0)>.<br>・Las free companies con menos de <colortype(506)><edgecolortype(507)>cuatro miembros<edgecolortype(0)><colortype(0)> no pueden comprar terrenos.<br><br>Los terrenos a los que renuncien sus dueños<br>no se podrán comprar por un tiempo.
+TEXT_ADDON_8473	Ya hay <colortype(506)><edgecolortype(507)>Message Books<edgecolortype(0)><colortype(0)> en todas las propiedades y apartamentos. Los visitantes pueden dejar mensajes personales y darles <colortype(506)><edgecolortype(507)>me gusta<edgecolortype(0)><colortype(0)> a las propiedades.
+TEXT_ADDON_8474	Se agregaron estos duties<br>al Duty Finder, dentro de "Gold Saucer":<br><br>Chocobo Races<br><colortype(506)><edgecolortype(507)>Chocobo Race: Random<edgecolortype(0)><colortype(0)><br><colortype(506)><edgecolortype(507)>Chocobo Race: Sagolii Road<edgecolortype(0)><colortype(0)><br><colortype(506)><edgecolortype(507)>Chocobo Race: Costa del Sol<edgecolortype(0)><colortype(0)><br><colortype(506)><edgecolortype(507)>Chocobo Race: Tranquil Paths<edgecolortype(0)><colortype(0)><br><br>Chocobo Races (Party Member)<br><colortype(506)><edgecolortype(507)>Chocobo Race: Random<edgecolortype(0)><colortype(0)><br><colortype(506)><edgecolortype(507)>Chocobo Race: Sagolii Road<edgecolortype(0)><colortype(0)><br><colortype(506)><edgecolortype(507)>Chocobo Race: Costa del Sol<edgecolortype(0)><colortype(0)><br><colortype(506)><edgecolortype(507)>Chocobo Race: Tranquil Paths<edgecolortype(0)><colortype(0)><br>
+TEXT_ADDON_8475	¡Ya está disponible un Gold Saucer Active<br>Time Event nuevo: "Leap of Faith"!<br><br>Por eso, se actualizó el horario de los GATE.<br>Habla con el encargado del Gold Saucer<br>en Entrance Square<br>para más detalles. 
+TEXT_ADDON_8476	Ya hay <colortype(506)><edgecolortype(507)>maniquíes<edgecolortype(0)><colortype(0)> para todas las residencias; se compran a los mercaderes de las zonas residenciales, a los sirvientes de la propiedad, a los hokonin o a los housekeeping nodes. Los maniquíes sirven para exhibir equipo y también para vendérselo a posibles compradores.<br><br>Ahora se pueden poner <colortype(506)><edgecolortype(507)>etiquetas<edgecolortype(0)><colortype(0)> a todas las residencias, y se ven en estos lugares:<br><br>Perfil de la propiedad<br>Pantalla de elección de distrito<br>Pantalla de elección de habitación privada<br>Pantalla de elección de apartamento
+TEXT_ADDON_8477	Si llegas a la satisfacción máxima con <colortype(506)><edgecolortype(507)>Zhloe Aliapoh<edgecolortype(0)><colortype(0)>, podrás aplicarle glamours a la joven comerciante.
+TEXT_ADDON_8478	¡Ya está disponible un Gold Saucer Active<br>Time Event nuevo: "Air Force One"!<br><br>Por eso, se actualizó el horario de los GATE.<br>Habla con el encargado del Gold Saucer<br>en Entrance Square<br>para más detalles. 
+TEXT_ADDON_8479	Ahora se pueden descubrir <colortype(506)><edgecolortype(507)>cartas náuticas<edgecolortype(0)><colortype(0)> en ciertos viajes submarinos, que revelan dónde hay más lugares para explorar.
+TEXT_ADDON_8481	¡Ya está disponible un Gold Saucer Active<br>Time Event nuevo: "The Slice Is Right"!<br><br>Por eso, se actualizó el horario de los GATE.<br>Habla con el encargado del Gold Saucer<br>en Entrance Square<br>para más detalles. 
+TEXT_ADDON_8482	¡Se agregó una etapa nueva al Gold Saucer<br>Active Time Event "Leap of Faith"!<br><br>Por eso, se actualizó el horario de los GATE.<br>Habla con el encargado del Gold Saucer<br>en Entrance Square<br>para más detalles.
+TEXT_ADDON_8483	Ahora puedes probarte el equipo de la tienda en línea con Dreamfitting.<br>Entra a Dreamfitting desde la cama de cualquier habitación de posada para probarte desde conjuntos enteros hasta piezas sueltas, ¡y deja volar tus sueños!
+TEXT_ADDON_8486	Ishgard y alrededores
+TEXT_ADDON_8490	En una habitación de posada, ahora puedes aplicar glamours con objetos de tu inventario y también con los guardados en glamour dressers o armoires.<br><br>¡Retírate a tu habitación y cambia de estilo con comodidad!
+TEXT_ADDON_8491	Preferencias de pestañas
+TEXT_ADDON_8493	Quitar destino registrado
+TEXT_ADDON_8494	¿Quitar <ennoun(PlaceName,2,<sheet(Aetheryte,lnum1,8)>,2,1)> como destino <switch(lnum2,gratis por security token,<if([gnum78==99],gratis por PlayStation®Plus,gratis por plataforma)>,<if([gnum75==7],gratis por Nintendo Switch Online,gratis por plataforma)>,favorito)>?
+TEXT_ADDON_8495	Zonas residenciales
+TEXT_ADDON_8499	Mostrar por expansión

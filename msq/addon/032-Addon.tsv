@@ -1,0 +1,195 @@
+key	text
+TEXT_ADDON_16005	¡Junta MGF y canjéalo por premios fabulosos!
+TEXT_ADDON_16006	¿Salir de Blunderville?
+TEXT_ADDON_16007	Modo espectador
+TEXT_ADDON_16009	Salir de Blunderville
+TEXT_ADDON_16014	Mostrar registro<br>Aquí aparecen los nombres de los participantes que pasan de ronda.<br>En las etapas de supervivencia, aparecen los nombres de los eliminados.
+TEXT_ADDON_16015	Fijar/liberar el HUD
+TEXT_ADDON_16016	La posición y el tamaño del HUD de Blunderville se ajustan con el HUD liberado.
+TEXT_ADDON_16017	¡Únete a un show!
+TEXT_ADDON_16018	Esperando inscripción
+TEXT_ADDON_16026	Te eliminaron. Puedes ver la próxima ronda en modo espectador o salir del show.
+TEXT_ADDON_16027	Lugar anterior: <if([lnum1>0],<string(lstr2)>,ninguno)>
+TEXT_ADDON_16032	Ver los glamours aplicados.
+TEXT_ADDON_16033	Ver el equipo puesto.
+TEXT_ADDON_16034	Viendo los glamours aplicados.
+TEXT_ADDON_16040	Ver variantes de color
+TEXT_ADDON_16041	Variantes de color
+TEXT_ADDON_16050	Facewear
+TEXT_ADDON_16053	Estilo
+TEXT_ADDON_16060	Agregar a los Term Filters
+TEXT_ADDON_16061	Funciones de bloqueo
+TEXT_ADDON_16062	Editor del Term Filter
+TEXT_ADDON_16064	Término filtrado
+TEXT_ADDON_16066	Chat a filtrar
+TEXT_ADDON_16070	Lista del Term Filter
+TEXT_ADDON_16072	Oculta los mensajes que contienen los términos que definas.
+TEXT_ADDON_16073	Borrar Term Filter
+TEXT_ADDON_16074	Aplicando el filtro a: <string(lstr1)>
+TEXT_ADDON_16075	Activar los Term Filters
+TEXT_ADDON_16076	Ajustes del Term Filter
+TEXT_ADDON_16079	Visualización del chat al aplicar filtros
+TEXT_ADDON_16080	Mostrar el número del Term Filter que corresponde.
+TEXT_ADDON_16081	Ocultar el mensaje afectado por completo.
+TEXT_ADDON_16084	Se quitará “<string(lstr2)>” de la lista del Term Filter. ¿Continuar?
+TEXT_ADDON_16085	(No se pudo mostrar el mensaje por el Term Filter <num(lnum1)>).
+TEXT_ADDON_16086	Registrar término filtrado
+TEXT_ADDON_16087	Editar término filtrado
+TEXT_ADDON_16100	Ajusta la resolución de los recursos de la interfaz.<br>Algunos widgets del HUD, ventanas o íconos de acción pueden cambiar según lo que elijas.<br>※Hay que reiniciar para aplicar los cambios.<br><br>Estándar<br>Dibuja los recursos de la interfaz con resolución HD o Full HD.<br><br>Alta<br>Dibuja los recursos de la interfaz con resolución WQHD o 4K.
+TEXT_ADDON_16101	Ajusta dinámicamente la resolución de cada objetivo de renderizado para reducir la carga de la GPU y mantener estable la tasa de cuadros.<if([gnum78==2],<br>※Con NVIDIA DLSS elegido\, el reescalado gráfico se hace automáticamente.<br>※Igual se puede elegir una tasa de cuadros objetivo.,)><if([gnum78==3],<br>※Igual se puede elegir una tasa de cuadros objetivo.,)>
+TEXT_ADDON_16102	Ajusta la calidad del escalado gráfico.<br>Mejora el rendimiento con un valor entre 50% y 100%.<if([gnum78==2],<br>※Con NVIDIA DLSS elegido\, el reescalado gráfico se hace automáticamente.,)>
+TEXT_ADDON_16103	Elige entre el reescalado gráfico de NVIDIA o de AMD.<br><br>NVIDIA DLSS (Deep Learning Super Sampling)<br>Usa aprendizaje profundo para llevar resoluciones bajas a la resolución de pantalla elegida.<br>※Hace falta una tarjeta gráfica GeForce RTX para activarlo.<br><br>AMD FSR (FidelityFX Super Resolution)<br>Usa técnicas avanzadas de reescalado para llevar resoluciones bajas a la resolución de pantalla elegida.
+TEXT_ADDON_16104	Ajusta el detalle de los objetos 3D según su distancia a la cámara.<br>Mantiene la calidad visual y mejora el rendimiento dibujando más simples los modelos de personajes y los fondos lejanos.
+TEXT_ADDON_16105	Hace que el pasto se mueva y se mece cuando pasan los personajes.
+TEXT_ADDON_16106	Activa o desactiva el reflejo de la luz y los objetos en el agua, el suelo y otras superficies.
+TEXT_ADDON_16107	Ajusta los colores para mezclar el contorno de los objetos con el fondo y suavizar los bordes dentados, mejorando la calidad visual y el rendimiento.
+TEXT_ADDON_16108	En normal, usa una iluminación simplificada para reducir la carga gráfica y mejorar el rendimiento.
+TEXT_ADDON_16109	Ajusta la calidad visual del pasto del entorno.
+TEXT_ADDON_16110	Usa mapeado de paralaje para dar profundidad y definición a las superficies con textura.
+TEXT_ADDON_16111	Usa teselado para mejorar el aspecto de la superficie del agua.
+TEXT_ADDON_16112	Activa o desactiva el destello del reflejo en la superficie del agua.
+TEXT_ADDON_16113	Activa o desactiva las sombras. Los ajustes se pueden cambiar por categoría para el mejor rendimiento.
+TEXT_ADDON_16114	Mantiene la calidad visual y mejora el rendimiento dibujando más simples las sombras de los personajes lejanos.
+TEXT_ADDON_16115	Mantiene la calidad visual y mejora el rendimiento dibujando más simples las sombras de los objetos lejanos del fondo.
+TEXT_ADDON_16116	Ajusta la resolución de las texturas que se usan para dibujar las sombras.
+TEXT_ADDON_16117	Ajusta la distancia hasta la que se dibujan las sombras. Los valores altos se ven más reales, pero afectan el rendimiento.
+TEXT_ADDON_16118	Suaviza los bordes de las sombras para que se vean más naturales.
+TEXT_ADDON_16119	Ajusta la resolución de las texturas de los personajes y los fondos.<br>※Hay que reiniciar para aplicar los cambios.
+TEXT_ADDON_16120	Ajusta el filtrado de texturas.<br><br>Anisotrópico<br>Usa muestreo para que las texturas se vean bien en pantalla según el ángulo de la cámara.<br><br>Trilineal<br>Suaviza la transición entre resoluciones de textura teniendo en cuenta la profundidad.<br><br>Bilineal<br>Calcula el color promedio de los píxeles vecinos para que las texturas se vean más naturales.
+TEXT_ADDON_16121	Ajusta el filtrado anisotrópico. Los valores altos dan texturas más suaves.
+TEXT_ADDON_16122	Ajusta la física del movimiento. Los ajustes se pueden cambiar por categoría para el mejor rendimiento.
+TEXT_ADDON_16123	Oscurece los bordes de la pantalla y lleva la atención al centro.
+TEXT_ADDON_16124	Crea un desenfoque que sale de un punto de la pantalla, como una explosión.
+TEXT_ADDON_16125	Dibuja sombras naturales en los objetos cercanos para que la imagen se vea más realista.
+TEXT_ADDON_16126	Ajusta la intensidad de la luz que se refracta o se refleja en las superficies.
+TEXT_ADDON_16127	Ajusta la distorsión ondulante del paisaje visto bajo el agua.
+TEXT_ADDON_16128	Desenfoca los objetos y el paisaje que están más allá del punto de enfoque de la cámara.<br>※La profundidad de campo solo se aplica en las cinemáticas y en Group Pose.
+TEXT_ADDON_16129	Ajusta el nivel de detalle de los objetos lejanos y de los reflejos de luz.
+TEXT_ADDON_16130	Elige la pantalla principal. Con varias pantallas conectadas, la principal la decide la configuración de tu sistema.<br>※Hay que reiniciar para aplicar los cambios.
+TEXT_ADDON_16131	Elige el modo de pantalla.<br><br>Ventana<br>La aplicación comparte el espacio de la pantalla principal con las demás aplicaciones abiertas.<br><br>Ventana sin bordes<br>La aplicación comparte el espacio de la pantalla principal con las demás aplicaciones, pero cubre toda la pantalla.<br><br>Pantalla completa<br>La aplicación controla en exclusiva la pantalla principal.
+TEXT_ADDON_16132	Fija la resolución de pantalla del juego.<br><br>Presets<br>Una lista de resoluciones predefinidas que admite tu pantalla principal.<br>En pantalla completa, también se aplica la frecuencia de la pantalla principal.<br><br>Personalizada<br>Ajusta libremente el ancho y el alto de la resolución.<br>※Solo disponible en modo ventana.
+TEXT_ADDON_16133	De forma predeterminada, los elementos del HUD no se escalan con la resolución de la pantalla, y en resoluciones altas la interfaz puede verse demasiado chica. Con este ajuste puedes elegir un nivel de escalado adecuado para la resolución que quieras.<br>※Con una resolución más baja, el escalado se ajusta solo.
+TEXT_ADDON_16134	Aunque el tamaño de cada elemento del HUD y de las ventanas se puede ajustar libremente, este ajuste fija su tamaño inicial.<br>Si eliges "Aplicar a todo", los cambios se aplican a todos los elementos de la interfaz, incluidos los que ya están en pantalla.
+TEXT_ADDON_16135	Ajusta el brillo de la imagen del juego para que los colores se vean bien en pantalla. 
+TEXT_ADDON_16136	Ajusta el brillo de la iluminación propia de tu personaje.
+TEXT_ADDON_16137	Ajusta el límite de la tasa de cuadros del juego.<br><br>Ninguno<br>La tasa de cuadros no tiene tope y sube hasta donde dé tu sistema.<br><br>Frecuencia de la pantalla principal<br>Usa la frecuencia de tu pantalla principal como límite.<br><br>60 fps<br>Fija el límite en 60 fps.<br><br>30 fps<br>Fija el límite en 30 fps.
+TEXT_ADDON_16138	Limita la tasa de cuadros del juego cuando usas otra aplicación con el cliente abierto pero inactivo.
+TEXT_ADDON_16139	Limita la tasa de cuadros del juego cuando el cliente está activo pero tu estado es "Ausente".
+TEXT_ADDON_16140	Fija la resolución de pantalla del juego.<br><br><if([gnum75==4],Full HD<br>Fija la resolución en 1920x1080.<br>Recomendado para el mejor rendimiento.<br><br>WQHD<br>Fija la resolución en 2560x1440.<br>Recomendado para un rendimiento equilibrado.<br><br>4K<br>Fija la resolución en 3840x2160.<br>Recomendado para los mejores gráficos.,)><if([gnum106==99],Full HD<br>Fija la resolución en 1920x1080.<br>Recomendado para el mejor rendimiento.<br><br>WQHD<br>Fija la resolución en 2560x1440.<br>Recomendado para un rendimiento equilibrado.<br><br>4K<br>Fija la resolución en 3840x2160.<br>Recomendado para los mejores gráficos.,)><if([gnum78==99],<if([gnum75==4],,PS4 estándar<br>Fija la imagen en Full HD =1920x1080.<br><br>PS4 Pro<br>Fija la imagen en WQHD =2560x1440.)>,)>
+TEXT_ADDON_16142	De forma predeterminada, la interfaz del sistema no se escala con la resolución de la pantalla, y en resoluciones altas estos menús pueden verse demasiado chicos. Con este ajuste activado, la interfaz del sistema se escala sola según la resolución.
+TEXT_ADDON_16143	Ajusta la intensidad de las sombras que proyecta tu personaje cuando está iluminado.
+TEXT_ADDON_16144	Limita la tasa de cuadros a 30 fps.<if([gnum75==7],<br>※Solo en modo TV.,)>
+TEXT_ADDON_16145	Activa o desactiva las alertas visuales.<br>Varios efectos de sonido y ruidos ambientales del juego se muestran como ondas. Estas alertas aparecen a la izquierda o a la derecha de la pantalla según de dónde venga el sonido respecto de la cámara. El color de las ondas indica el tipo de sonido:<br>Rojo: sonidos del sistema<br>Verde: efectos de sonido, ruidos ambientales, voces, instrumentos<br>Azul: música
+TEXT_ADDON_16146	Ajusta el tamaño de las alertas visuales.
+TEXT_ADDON_16147	Ajusta la transparencia de las alertas visuales.
+TEXT_ADDON_16148	Activa filtros que ayudan a distinguir los colores y mejoran la visibilidad del juego.<br>※Después de activar esta opción, elige un tipo de filtro en la lista desplegable.
+TEXT_ADDON_16149	Ajusta la intensidad del filtro de color.
+TEXT_ADDON_16150	Elige un filtro de color según el tipo de corrección que necesites.<br><br>Protanopía: corrección para dificultades al percibir la luz roja.<br>Deuteranopía: corrección para dificultades al percibir la luz verde.<br>Tritanopía: corrección para dificultades al percibir la luz azul.
+TEXT_ADDON_16202	Decide quién tiene derecho a expulsar personajes de la sede o del jardín de tu propiedad, y a prohibirles la entrada.<br>Haz clic en el botón de ayuda para más detalles.
+TEXT_ADDON_16203	Mostrar la ayuda de los derechos del dueño de la propiedad.
+TEXT_ADDON_16204	Ajustes de titulares de derechos
+TEXT_ADDON_16205	Titular principal
+TEXT_ADDON_16206	Titulares secundarios
+TEXT_ADDON_16207	Desmarca la casilla para no consultar la Blacklist.
+TEXT_ADDON_16208	Quitar a los personajes elegidos como titulares secundarios.
+TEXT_ADDON_16209	Agregar titulares secundarios
+TEXT_ADDON_16210	Personajes prohibidos
+TEXT_ADDON_16213	¿Aplicar los ajustes?
+TEXT_ADDON_16215	Ajustes de derechos del dueño de la propiedad
+TEXT_ADDON_16218	Inquilinos
+TEXT_ADDON_16223	Tiempo restante
+TEXT_ADDON_16225	¿Quitar a <string(lstr1)> de tu lista de personajes prohibidos y volver a permitirle la entrada a tu propiedad?
+TEXT_ADDON_16226	Quitar de la lista
+TEXT_ADDON_16227	Prohibir la entrada
+TEXT_ADDON_16228	Registrar como personaje prohibido
+TEXT_ADDON_16229	Todos los personajes registrados en esta cuenta tendrán prohibida la entrada a tu propiedad por 10 días. ¿Seguro que quieres agregarlos a tu lista de personajes prohibidos?<br><br>Solo el titular principal puede quitar personajes de la lista.
+TEXT_ADDON_16230	Registrar en la lista de personajes prohibidos
+TEXT_ADDON_16231	Ayuda de los derechos del dueño de la propiedad
+TEXT_ADDON_16233	Sin especificar.
+TEXT_ADDON_16236	Los apartamentos y las habitaciones privadas no se pueden renovar ni mudar.
+TEXT_ADDON_16282	Campana
+TEXT_ADDON_16283	Se puede usar como comando de texto o guardar en una macro.
+TEXT_ADDON_16284	Silenciar el sonido durante un duty.
+TEXT_ADDON_16290	Caja de música
+TEXT_ADDON_16291	Preludio
+TEXT_ADDON_16294	Festival
+TEXT_ADDON_16295	Alternar phantom actions
+TEXT_ADDON_16296	Usar phantom action
+TEXT_ADDON_16297	Usa la phantom action elegida.
+TEXT_ADDON_16299	Alterna las phantom actions y elige una para usar.
+TEXT_ADDON_16308	Ajustes optimizados para <if([gnum78==3],modelos de gama alta con la mejor calidad gráfica.,PC de escritorio que cumplen los requisitos recomendados.)>
+TEXT_ADDON_16309	Ajustes optimizados para <if([gnum78==3],modelos de gama alta.,laptops que cumplen los requisitos recomendados.)>
+TEXT_ADDON_16310	<if([gnum78==3],Ajustes que dan el mejor rendimiento,Ajustes que dan el mejor rendimiento en PC de escritorio)> sin sacrificar la calidad gráfica.
+TEXT_ADDON_16312	Estándar (HD/Full HD)
+TEXT_ADDON_16313	Alta (WQHD/4K)
+TEXT_ADDON_16314	NVIDIA DLSS
+TEXT_ADDON_16315	AMD FSR
+TEXT_ADDON_16316	Por debajo de 30 fps
+TEXT_ADDON_16317	Por debajo de 60 fps
+TEXT_ADDON_16318	Siempre activado
+TEXT_ADDON_16323	TSCMAA
+TEXT_ADDON_16324	TSCMAA + Camera Jitter
+TEXT_ADDON_16325	FXAA
+TEXT_ADDON_16339	Alta - 2048p
+TEXT_ADDON_16340	Normal - 1024p
+TEXT_ADDON_16341	Baja - 512p
+TEXT_ADDON_16342	La mejor
+TEXT_ADDON_16345	El más fuerte
+TEXT_ADDON_16353	Anisotrópico
+TEXT_ADDON_16354	Trilineal
+TEXT_ADDON_16355	Bilineal
+TEXT_ADDON_16356	x16
+TEXT_ADDON_16357	x8
+TEXT_ADDON_16359	GTAO: calidad
+TEXT_ADDON_16360	GTAO: estándar
+TEXT_ADDON_16361	HBAO+: calidad
+TEXT_ADDON_16362	HBAO+: estándar
+TEXT_ADDON_16400	Diseño de interiores
+TEXT_ADDON_16411	Sí (comprado)
+TEXT_ADDON_16412	No (sin comprar)
+TEXT_ADDON_16415	Ver el almacén.
+TEXT_ADDON_16416	Muebles permitidos
+TEXT_ADDON_16418	<colortype(506)><edgecolortype(507)>Al cambiar el estilo del interior, todos los muebles colocados pasan solos al almacén.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_16419	Cambiar el estilo del interior
+TEXT_ADDON_16421	No tienes permiso para cambiar el estilo del interior.
+TEXT_ADDON_16422	El estilo del interior solo se puede cambiar desde el jardín de tu propiedad.
+TEXT_ADDON_16423	El estilo elegido ya está en uso.
+TEXT_ADDON_16424	Cambiar el interior a <string(lstr1)>.<br><colortype(506)><edgecolortype(507)>※Todos los muebles colocados pasarán al almacén.<edgecolortype(0)><colortype(0)><br><colortype(506)><edgecolortype(507)>※Cambiar el estilo del interior puede tardar un poco.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_16425	Estado del diseño
+TEXT_ADDON_16426	No se puede <switch(lnum1,mudar ni renovar,mudar,renovar)>. Tu almacén está lleno. 
+TEXT_ADDON_16427	Elige "Confirmar" para aplicar el cambio.
+TEXT_ADDON_16429	Ya tienes permiso para cambiar el diseño del interior a <string(lstr1)>.
+TEXT_ADDON_16430	<colortype(506)><edgecolortype(507)>Tarifa: <kilo(lnum1,\,)><edgecolortype(0)><colortype(0)>
+TEXT_ADDON_16433	Gladiator, Marauder, Paladin, Warrior, Dark Knight
+TEXT_ADDON_16434	Conjurer, White Mage, Scholar, Astrologian
+TEXT_ADDON_16435	Pugilist, Lancer, Rogue, Archer, Arcanist, Thaumaturge, Monk, Dragoon, Ninja, Samurai, Bard, Machinist, Black Mage, Summoner, Red Mage
+TEXT_ADDON_16436	Se desbloquea al completar este ejercicio:
+TEXT_ADDON_16437	Guía de combate
+TEXT_ADDON_16438	El Hall of the Novice ofrece ejercicios de entrenamiento para el combate en grupo.
+TEXT_ADDON_16439	Para saber más, visita el Hall of the Novice en western La Noscea o habla con un Smith en un Adventurers' Guild después de llegar al nivel 15 o más como Disciple of War o Magic.
+TEXT_ADDON_16441	Se desbloquea al avanzar más en el escenario principal.
+TEXT_ADDON_16443	¡Completa todos los ejercicios tácticos para recibir una recompensa especial!
+TEXT_ADDON_16444	Al completar estos ejercicios recibirás equipo nuevo para el rol que elegiste y el anillo brand-new ring, que aumenta un 30% la EXP obtenida hasta el nivel 30.
+TEXT_ADDON_16445	A medida que subas de nivel, enfrentarás desafíos de combate más difíciles, con todo tipo de ataques enemigos peligrosos. Estos ejercicios te dan lo que necesitas saber para sobrevivir. Al completarlos recibirás el neophyte's ring, que aumenta un 30% la EXP obtenida hasta el nivel 60.
+TEXT_ADDON_16446	¡COMPLETADO!
+TEXT_ADDON_16447	Smith
+TEXT_ADDON_16449	Estas clases/jobs pueden hacer este ejercicio:
+TEXT_ADDON_16453	Pasar al entrenamiento básico
+TEXT_ADDON_16454	Ver ejercicio
+TEXT_ADDON_16455	Primero tienes que desbloquear el Hall of the Novice para hacer estos ejercicios.
+TEXT_ADDON_16459	Ayuda de diseño de interiores
+TEXT_ADDON_16461	※Pueden inscribirse alianzas de <num(lnum1)> miembros o más, con al menos un miembro por grupo. No hay emparejamiento para las alianzas que no cumplen el tamaño necesario (24 jugadores).
+TEXT_ADDON_16462	※Pueden inscribirse las alianzas que cumplen el tamaño necesario (24 jugadores).
+TEXT_ADDON_16464	Bonificación por tiempo limitado
+TEXT_ADDON_16465	Más probabilidad de obtener ciertos objetos del cofre del tesoro al completar el duty.
+TEXT_ADDON_16466	Inscribirse desde el centro de datos físico del Home World.
+TEXT_ADDON_16468	Bonificación no disponible
+TEXT_ADDON_16469	Recompensa sin reclamar
+TEXT_ADDON_16470	<if([lnum1==lnum2],<colortype(500)><edgecolortype(501)>,)>Recompensa recibida<if([lnum2>0], \(<num(lnum1)>/<num(lnum2)>\),)><if([lnum1==lnum2],<edgecolortype(0)><colortype(0)>,)>
+TEXT_ADDON_16481	No puedes hacer este ejercicio con tu clase/job actual.
+TEXT_ADDON_16485	<colortype(506)><edgecolortype(507)>Filtra los resultados por términos específicos.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_16486	Se pueden filtrar hasta 50 resultados con uno o más términos separados por espacios.<br><br>Solo se muestran los anuncios de reclutamiento que tienen todas las palabras clave y ninguna de las palabras excluidas.
+TEXT_ADDON_16487	Palabras clave
+TEXT_ADDON_16488	Palabras excluidas
+TEXT_ADDON_16491	Elige hasta cuatro duties.
+TEXT_ADDON_16493	Buscar repartos de jobs recomendados para duties de alto nivel.

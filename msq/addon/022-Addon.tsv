@@ -1,0 +1,263 @@
+key	text
+TEXT_ADDON_11000	Cofre cerrado
+TEXT_ADDON_11005	¿Abrir <ennoun(Item,2,lnum1,1,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> restantes: <num(lnum3)><br>Intentos restantes: <num(lnum2)>
+TEXT_ADDON_11006	¿Abrir <ennoun(Item,2,lnum1,2,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> restantes: <num(lnum3)><br>Intentos restantes: <num(lnum2)>
+TEXT_ADDON_11012	Relato disponible
+TEXT_ADDON_11013	Faux Hollows
+TEXT_ADDON_11014	Una vez por semana, completar un unreal trial da acceso a Faux Hollows.<br><colortype(506)><edgecolortype(507)>※La opción "Duty completado" solo está disponible para duties ya completados.<br>※Si consigues un relato jugando Faux Hollows, desbloqueas una partida extra por semana.<br>※Elegir una fase de práctica no implica saltarse las fases.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11015	Faux Hollows disponible
+TEXT_ADDON_11016	Faux Hollows accesible
+TEXT_ADDON_11017	<colortype(500)><edgecolortype(501)>Faux Hollows no disponible<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11018	Nv.  1 - 50
+TEXT_ADDON_11019	Nv. 51 - 60
+TEXT_ADDON_11020	Nv. 61 - 70
+TEXT_ADDON_11021	Nv. 71 - 80
+TEXT_ADDON_11022	Nv. 81 - 90
+TEXT_ADDON_11030	Hola.<sound(1,96)>
+TEXT_ADDON_11031	¡Buena partida!<sound(1,96)>
+TEXT_ADDON_11032	Gracias.<sound(1,97)>
+TEXT_ADDON_11033	¡Buen trabajo!<sound(1,97)>
+TEXT_ADDON_11035	<head(<sheet(ClassJob,lnum2,0)>)>: <if([lnum1==100],¡Limit Break listo!<sound(1,98)>,¡Limit Break al <num(lnum1)>%!<sound(1,99)>)>
+TEXT_ADDON_11036	¡Junto suministros ofensivos!<sound(1,100)>
+TEXT_ADDON_11037	¡Junto suministros defensivos!<sound(1,100)>
+TEXT_ADDON_11038	¡Junto suministros de adrenalina!<sound(1,100)>
+TEXT_ADDON_11039	¡Junto wolf's heart!<sound(1,100)>
+TEXT_ADDON_11040	¡Ataco al tanque!<sound(1,101)>
+TEXT_ADDON_11041	¡Ataco al sanador!<sound(1,101)>
+TEXT_ADDON_11042	¡Ataco al DPS cuerpo a cuerpo!<sound(1,101)>
+TEXT_ADDON_11043	¡Ataco al DPS a distancia!<sound(1,101)>
+TEXT_ADDON_11044	¡Detengo al tanque!<sound(1,102)>
+TEXT_ADDON_11045	¡Detengo al sanador!<sound(1,102)>
+TEXT_ADDON_11046	¡Detengo al DPS cuerpo a cuerpo!<sound(1,102)>
+TEXT_ADDON_11047	¡Detengo al DPS a distancia!<sound(1,102)>
+TEXT_ADDON_11048	¡Junto medallas!<sound(1,103)>
+TEXT_ADDON_11049	¡Tomen las medallas!<sound(1,103)>
+TEXT_ADDON_11050	¡Todos, al ataque!<sound(1,104)>
+TEXT_ADDON_11051	¡Retirada y reagrúpense!<sound(1,99)>
+TEXT_ADDON_11052	¡MP al <num(lnum1)>%!<sound(1,99)>
+TEXT_ADDON_11053	¡TP al <num(lnum1)>%!<sound(1,99)>
+TEXT_ADDON_11054	¡Ataco al <lower(<sheet(ClassJob,lnum1,0)>)>! <sound(1,101)>
+TEXT_ADDON_11055	¡Bloqueo al <lower(<sheet(ClassJob,lnum1,0)>)>! <sound(1,102)>
+TEXT_ADDON_11057	¡Concéntrense en el <lower(<sheet(ClassJob,lnum1,0)>)>!
+TEXT_ADDON_11058	¡Fin del ataque concentrado! <sound(1,99)>
+TEXT_ADDON_11067	¿Seguro que quieres borrar todos los datos de búsqueda?
+TEXT_ADDON_11072	Elige los filtros que quieres usar. Los ajustes se guardan mientras tengas la sesión iniciada.
+TEXT_ADDON_11073	Marcar/desmarcar todo
+TEXT_ADDON_11076	Objetivo: ninguno
+TEXT_ADDON_11077	Objetivo: completar el duty
+TEXT_ADDON_11078	Objetivo: práctica
+TEXT_ADDON_11079	Objetivo: botín
+TEXT_ADDON_11080	Estilo de juego: bienvenidos principiantes y primerizos
+TEXT_ADDON_11081	Condiciones: ninguna
+TEXT_ADDON_11082	Condiciones: duty completado
+TEXT_ADDON_11083	Ajustes del Duty Finder: grupo sin restricciones
+TEXT_ADDON_11084	Ajustes del Duty Finder: IL mínimo
+TEXT_ADDON_11085	Reparto del botín: ninguno
+TEXT_ADDON_11090	Duty bloqueado
+TEXT_ADDON_11091	Deseleccionar clases
+TEXT_ADDON_11104	Partida personalizada
+TEXT_ADDON_11108	Quitar a los espectadores de la búsqueda.
+TEXT_ADDON_11109	¿Unirte a la alianza de <string(lstr1)> para <string(lstr3)>?
+TEXT_ADDON_11110	Team Claw
+TEXT_ADDON_11111	Team Fang
+TEXT_ADDON_11114	Estás en una alianza. Los hechizos y acciones que afectan a todo el grupo funcionan distinto.
+TEXT_ADDON_11115	¿Unirte a la alianza de <string(lstr1)> para <string(lstr2)>?
+TEXT_ADDON_11117	Intervalo de avisos (1 a 10 min)
+TEXT_ADDON_11118	Desactivar los avisos cuando no hay resultados.
+TEXT_ADDON_11119	Mostrar en el chat los resultados de la búsqueda avanzada.
+TEXT_ADDON_11122	Cambiar el modo de la lista.
+TEXT_ADDON_11123	Abrir los ajustes de visualización del Party Finder.
+TEXT_ADDON_11124	Mostrar los reclutadores de la Blacklist.
+TEXT_ADDON_11125	Ajustes de visualización del Party Finder
+TEXT_ADDON_11128	Mostrar los duties bloqueados.
+TEXT_ADDON_11129	Se descartarán todos los cambios. ¿Continuar?
+TEXT_ADDON_11131	Compartido
+TEXT_ADDON_11152	50% + área
+TEXT_ADDON_11153	Sobrecalentado
+TEXT_ADDON_11163	¡<sheet(Hud,lnum1,ADDONHUD_NAME)> y <sheet(Hud,lnum2,ADDONHUD_NAME)> actualizados!
+TEXT_ADDON_11164	¡<sheet(Hud,lnum1,ADDONHUD_NAME)> y <sheet(Hud,lnum2,ADDONHUD_NAME)> desbloqueados y actualizados!
+TEXT_ADDON_11168	Condiciones: duty sin completar
+TEXT_ADDON_11169	Nivel de objeto promedio: <num(lnum1)>
+TEXT_ADDON_11171	※No incluye los grupos privados.
+TEXT_ADDON_11172	Reclutador: <string(lstr1)>
+TEXT_ADDON_11173	Reclutar miembros de alianza
+TEXT_ADDON_11174	<colortype(506)><edgecolortype(507)>No hay emparejamiento para alianzas. Para formar una alianza hacen falta tres grupos completos (o tres grupos de al menos un miembro cada uno si se usan grupos reducidos).<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11175	Lugar: <head(<string(lstr1)>)>
+TEXT_ADDON_11177	Agregar al reclutador a la Blacklist
+TEXT_ADDON_11179	Ajustes del Duty Finder: silenciar el Echo
+TEXT_ADDON_11181	¡<sheet(Hud,lnum1,ADDONHUD_NAME)> desbloqueado!
+TEXT_ADDON_11182	Detalles del medidor del job
+TEXT_ADDON_11185	¡<sheet(Hud,lnum1,ADDONHUD_NAME)> ampliado!
+TEXT_ADDON_11186	¡<sheet(Hud,lnum1,ADDONHUD_NAME)> y <sheet(Hud,lnum2,ADDONHUD_NAME)> desbloqueados!
+TEXT_ADDON_11187	Estilo de juego: grabable
+TEXT_ADDON_11188	Condiciones: duty completado (recompensa semanal sin reclamar)
+TEXT_ADDON_11189	Actualizado
+TEXT_ADDON_11190	Canje de monedas
+TEXT_ADDON_11194	¿Canjear <kilo(lnum2,\,)> <ennoun(Item,3,lnum1,lnum2,1)> por este objeto?
+TEXT_ADDON_11195	¿Canjear <kilo(lnum4,\,)> <ennoun(Item,3,lnum3,2,1)> por este objeto?<br><br><headall(<sheet(Item,lnum1,0)>)> x <kilo(lnum2,\,)>
+TEXT_ADDON_11200	Cheap Dungeon
+TEXT_ADDON_11202	Piso: <num(lnum1)>
+TEXT_ADDON_11205	Rendirse
+TEXT_ADDON_11206	CRYSTAL
+TEXT_ADDON_11207	CHOCOBO
+TEXT_ADDON_11208	BAHAMUT
+TEXT_ADDON_11209	FANTASY
+TEXT_ADDON_11210	VBONXMG
+TEXT_ADDON_11211	UDKZQWI
+TEXT_ADDON_11212	YJDRFPL
+TEXT_ADDON_11213	PEQIVKZX
+TEXT_ADDON_11214	¿Ya tuviste suficiente?
+TEXT_ADDON_11218	¿Dejar de jugar?
+TEXT_ADDON_11219	Tiempo<br><num(lnum1)> min <num(lnum2)> s<br><br>Mejor tiempo<br><num(lnum3)> min <num(lnum4)> s<br>
+TEXT_ADDON_11221	¡Junta las letras para formar la contraseña!
+TEXT_ADDON_11224	Mejor tiempo: <string(lstr1)>
+TEXT_ADDON_11225	Tiempo: <string(lstr1)>
+TEXT_ADDON_11227	¡Dungeon superada!
+TEXT_ADDON_11228	Egg Hunter Riggy
+TEXT_ADDON_11231	¿Otra vez?
+TEXT_ADDON_11239	Gemas<br><num(lnum1)><br><br>Puntaje máximo<br><num(lnum2)>
+TEXT_ADDON_11241	Presiona Start para jugar
+TEXT_ADDON_11244	Fallaste...
+TEXT_ADDON_11246	Modo fácil
+TEXT_ADDON_11247	PUNTAJE:
+TEXT_ADDON_11248	CADENA
+TEXT_ADDON_11249	CRÍTICO
+TEXT_ADDON_11250	GENIAL
+TEXT_ADDON_11251	BIEN
+TEXT_ADDON_11252	FALLO
+TEXT_ADDON_11253	RESULTADOS
+TEXT_ADDON_11255	FRACASO
+TEXT_ADDON_11257	Crítico
+TEXT_ADDON_11258	Genial
+TEXT_ADDON_11261	¡CADENA PERFECTA!
+TEXT_ADDON_11262	Satisfacción del público
+TEXT_ADDON_11264	La pantalla de resultados se cierra en <num(lnum1)>:<sec(lnum2)>
+TEXT_ADDON_11266	SOBERBIO
+TEXT_ADDON_11267	No vas a poder volver a ver tu fortuna después de cerrar esta ventana.<br>¿Seguro que quieres continuar?
+TEXT_ADDON_11269	Kupo Kupo Adventure
+TEXT_ADDON_11270	Turno del jugador
+TEXT_ADDON_11271	Turno del enemigo
+TEXT_ADDON_11273	Fin del juego
+TEXT_ADDON_11278	BP
+TEXT_ADDON_11279	[W][S]/ Mover   Cambiar ángulo   Disparar
+TEXT_ADDON_11280	Cadena
+TEXT_ADDON_11281	<icon2(11)> Elegir acción/estado  <icon2(5)><icon2(23)> Mover  <icon2(12)><icon2(13)> Cambiar ángulo  <icon2(8)> Disparar  <icon2(10)> Cerrar
+TEXT_ADDON_11282	Empezar el juego
+TEXT_ADDON_11287	<icon2(8)> Usar acción  <icon2(11)>/<icon2(9)> Volver
+TEXT_ADDON_11288	¡Victoria, kupó!
+TEXT_ADDON_11289	Tu aventura termina, kupó...
+TEXT_ADDON_11291	Nuevo récord
+TEXT_ADDON_11292	Etapa 1
+TEXT_ADDON_11293	Etapa 2
+TEXT_ADDON_11294	Etapa 3
+TEXT_ADDON_11295	Bonificación al primer intento
+TEXT_ADDON_11296	HP completo
+TEXT_ADDON_11297	MP completo
+TEXT_ADDON_11298	Sin acciones
+TEXT_ADDON_11299	Sin daño
+TEXT_ADDON_11300	Sanador puro
+TEXT_ADDON_11301	Sanador de barreras
+TEXT_ADDON_11304	BP arriba
+TEXT_ADDON_11306	Modo de comandos
+TEXT_ADDON_11307	<icon2(5)><icon2(23)> Mover<br><icon2(8)> Usar acción<br><icon2(9)> Cancelar
+TEXT_ADDON_11308	[W][S]/ Mover<br> Usar acción<br> Cancelar
+TEXT_ADDON_11309	<icon2(11)><icon2(9)> Volver
+TEXT_ADDON_11310	Acuerdo de acciones de actuación
+TEXT_ADDON_11312	Acepto las condiciones de arriba.
+TEXT_ADDON_11315	Acción borrada
+TEXT_ADDON_11316	Suministros: Gobcrate
+TEXT_ADDON_11317	Suministros: Gobtank
+TEXT_ADDON_11318	Suministros: tanque principal de ceruleum
+TEXT_ADDON_11319	Suministros: Gobbiejuice
+TEXT_ADDON_11326	No se puede montar
+TEXT_ADDON_11327	Se puede montar
+TEXT_ADDON_11329	Dañado
+TEXT_ADDON_11330	Recuperación de materia
+TEXT_ADDON_11332	Quita y recupera la materia de la ranura inferior de un objeto.
+TEXT_ADDON_11333	Equipo
+TEXT_ADDON_11336	Si falla, se pierde la materia.
+TEXT_ADDON_11339	La recuperación sale bien con seguridad.
+TEXT_ADDON_11342	Falcons
+TEXT_ADDON_11343	Ravens
+TEXT_ADDON_11344	CE
+TEXT_ADDON_11349	Daño recibido
+TEXT_ADDON_11352	Ordenado por <string(lstr1)>
+TEXT_ADDON_11353	Tiempo restante en Rival Wings: <num(lnum1)>:<sec(lnum2)>
+TEXT_ADDON_11354	¡Ganan los Falcons!
+TEXT_ADDON_11355	¡Ganan los Ravens!
+TEXT_ADDON_11356	¡Victoria de <string(lstr1)>!
+TEXT_ADDON_11358	Ceruleum
+TEXT_ADDON_11359	Preparando las fuerzas para desplegarse en el <if([lnum1==0],norte,sur)>.
+TEXT_ADDON_11360	K: los objetivos que quedaron KO
+TEXT_ADDON_11361	D: las veces que quedaste KO
+TEXT_ADDON_11362	A: los KO en los que ayudaste
+TEXT_ADDON_11363	¡Fuerzas desplegadas desde el <if([lnum1==0],norte,sur)>!
+TEXT_ADDON_11364	Torre 1
+TEXT_ADDON_11365	Torre 2
+TEXT_ADDON_11366	Núcleo
+TEXT_ADDON_11367	Motor de ceruleum desplegado.
+TEXT_ADDON_11368	Clasificatoria de ascenso disponible
+TEXT_ADDON_11370	Apareció un gobtank cerca del núcleo.<br>Aumentan el medidor de límite, el ceruleum y los efectos de Soaring de todo el equipo.
+TEXT_ADDON_11372	<switch(lnum1,Torre de los Falcons,Torre de los Ravens)> <num(lnum3)><br>Integridad: <num(lnum2)>%
+TEXT_ADDON_11373	<switch(lnum1,Núcleo de los Falcons,Núcleo de los Ravens)><br>Integridad: <num(lnum2)>%
+TEXT_ADDON_11374	Generador<br><switch(lnum1,de los Falcons,de los Ravens,sin reclamar)>
+TEXT_ADDON_11375	El mercenario goblin <switch(lnum1,está inactivo.,está<br>en combate.,está<br>esperando para desplegarse \(<num(lnum2)>:<sec(lnum3)>\).)>
+TEXT_ADDON_11376	La estación está<br><switch(lnum1,bajo control de los Falcons,bajo control de los Ravens,sin reclamar,preparando un motor para partir \(<num(lnum2)>:<sec(lnum3)>\))>.
+TEXT_ADDON_11377	Aliado con los Ravens
+TEXT_ADDON_11378	Elige la machina que vas a montar.<br>※Solo un miembro por grupo puede montar una machina.
+TEXT_ADDON_11380	Usos restantes: <num(lnum1)>
+TEXT_ADDON_11381	※Los usos se comparten en toda la alianza.
+TEXT_ADDON_11383	Apareció un gobtank cerca del núcleo.<br>Aumenta el efecto de Soaring de todo el equipo.
+TEXT_ADDON_11384	Aumentan el ceruleum y los efectos de Soaring de todo el equipo.
+TEXT_ADDON_11385	Aumentan el medidor de límite y los efectos de Soaring de todo el equipo.
+TEXT_ADDON_11386	No se puede montar la machina.
+TEXT_ADDON_11387	Otro miembro del grupo ya montó.
+TEXT_ADDON_11388	Se agotó el ceruleum.
+TEXT_ADDON_11389	Se llegó al límite de monturas.
+TEXT_ADDON_11390	No quedan usos.
+TEXT_ADDON_11394	Partidas totales:
+TEXT_ADDON_11395	Victorias totales:
+TEXT_ADDON_11396	Partidas de la semana:
+TEXT_ADDON_11397	Victorias de la semana:
+TEXT_ADDON_11398	Aliado con los Falcons
+TEXT_ADDON_11399	¡Enemigos en combate en el <if([lnum1==0],norte,sur)>!
+TEXT_ADDON_11400	Gambler's Lure
+TEXT_ADDON_11402	Tesoro reclamado
+TEXT_ADDON_11403	Recompensa (intento n.º <num(lnum1)>)
+TEXT_ADDON_11404	Probar suerte
+TEXT_ADDON_11405	Abrir el cofre
+TEXT_ADDON_11408	Mostrar ayuda
+TEXT_ADDON_11411	¡Este cofre del tesoro tiene la marca del Gambler's Lure!<br>Si quieres probar suerte, aparecerán dos cartas, una tapada y otra a la vista, con un valor de uno a nueve. Tienes que adivinar si la carta tapada vale más o menos que la otra.<br>・Si aciertas, aumenta la cantidad de objetos que puedes reclamar.<br>・Después de acertar puedes volver a probar suerte, hasta cinco veces.<br>・Si fallas en cualquier momento, el cofre desaparece y pierdes todo el tesoro.<br>・Si el número es el mismo, la cantidad de objetos no cambia y tienes que volver a probar suerte. Esto no cuenta para el máximo de cinco veces.<br>・Para reclamar el tesoro, solo tienes que resistirte al Gambler's Lure y abrir el cofre...
+TEXT_ADDON_11425	Cant./máx.
+TEXT_ADDON_11429	Recompensas
+TEXT_ADDON_11431	Objetos disponibles
+TEXT_ADDON_11434	En posesión
+TEXT_ADDON_11436	<switch(lnum1,Logro,Misión,???,)> necesario:<br><br><colortype(506)><edgecolortype(507)><string(lstr2)><edgecolortype(0)><colortype(0)><br><string(lstr3)>
+TEXT_ADDON_11437	¿Reclamar <if([lnum2==1],<ennoun(Item,2,lnum1,1,1)>,<num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)>)>?
+TEXT_ADDON_11443	No hacen falta glamour prisms para<br>aplicar glamours desde un glamour dresser.
+TEXT_ADDON_11444	No hacen falta glamour prisms para<br>aplicar glamours desde un armoire.
+TEXT_ADDON_11445	Abrir el inventario
+TEXT_ADDON_11446	Abrir el glamour dresser
+TEXT_ADDON_11447	Abrir el armoire
+TEXT_ADDON_11451	Aplicar tinte
+TEXT_ADDON_11455	Alarma
+TEXT_ADDON_11457	Editor de alarmas
+TEXT_ADDON_11459	Agregar alarma
+TEXT_ADDON_11463	 Hora local
+TEXT_ADDON_11464	 Hora del servidor
+TEXT_ADDON_11465	 Hora de Eorzea
+TEXT_ADDON_11468	Cada hora (hora real)
+TEXT_ADDON_11469	Diaria (hora de Eorzea)
+TEXT_ADDON_11471	Horas (<num(lnum1)>-<num(lnum2)>)
+TEXT_ADDON_11472	Minutos (0-59)
+TEXT_ADDON_11473	Aviso (minutos)
+TEXT_ADDON_11476	/alarm "<string(lstr4)>" <switch(lnum1,lt,st,et)> <switch(lnum5,,rp )><string(lstr2)> <num(lnum3)> se<digit(lnum6,2)><switch(lnum7,, mute)>
+TEXT_ADDON_11477	Copiar el comando de texto
+TEXT_ADDON_11480	No hay alarmas fijadas.
+TEXT_ADDON_11481	<icon(104)><string(lstr3)><br>Hora <settime(lnum1)> <if([lnum2==0],<num(t_hour)>:<sec(t_min)>,<if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)>)>
+TEXT_ADDON_11486	a. m.
+TEXT_ADDON_11487	p. m.
+TEXT_ADDON_11488	Borrar todo
+TEXT_ADDON_11489	¿Borrar todas las alarmas guardadas?
+TEXT_ADDON_11490	Proyectos de Cosmic Exploration
+TEXT_ADDON_11496	Información de la alianza

@@ -1,7 +1,7 @@
 <Project Sdk="Dalamud.NET.Sdk/15.0.0">
 
   <PropertyGroup>
-    <Version>0.1.70.0</Version>
+    <Version>0.1.71.0</Version>
     <Description>Traduce al español latino los tooltips de habilidades y la historia principal de FFXIV.</Description>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
@@ -18,6 +18,10 @@
     <EmbeddedResource Include="..\..\msq\es\**\*.tsv" LogicalName="msq.%(Filename)%(Extension)" />
     <!-- Generic NPC names (the game's ENpcResident, not quest text): English → Spanish. -->
     <EmbeddedResource Include="..\..\msq\npc.tsv" LogicalName="npc.tsv" />
+    <!-- Window labels from interface sheets (ConfigKey, LogFilter): English → Spanish, same as npc.tsv. -->
+    <EmbeddedResource Include="..\..\msq\ui\*.tsv" LogicalName="ui.%(Filename)%(Extension)" />
+    <!-- Interface rows (Addon sheet) by row, read back by AddonText.cs. -->
+    <EmbeddedResource Include="..\..\msq\addon\*.tsv" LogicalName="addon.%(Filename)%(Extension)" />
   </ItemGroup>
 
   <!-- Dalamud reloads a dev plugin when this file's timestamp changes; touch it so a rebuild always reloads. -->

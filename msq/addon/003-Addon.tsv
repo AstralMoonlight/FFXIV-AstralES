@@ -1,0 +1,287 @@
+key	text
+TEXT_ADDON_1500	Plan de la ceremonia
+TEXT_ADDON_1502	Estilo de la ceremonia
+TEXT_ADDON_1503	Decoración de la capilla
+TEXT_ADDON_1504	Procesión
+TEXT_ADDON_1505	Salida
+TEXT_ADDON_1506	Lleva el ramo
+TEXT_ADDON_1507	Música
+TEXT_ADDON_1508	Guardar plan
+TEXT_ADDON_1510	Color de la alfombra
+TEXT_ADDON_1511	Color de las flores
+TEXT_ADDON_1513	Recepción
+TEXT_ADDON_1514	Vista previa
+TEXT_ADDON_1515	The Lover's Kiss
+TEXT_ADDON_1516	The Spinner's Hand
+TEXT_ADDON_1517	The Solemn Oath
+TEXT_ADDON_1518	A pie
+TEXT_ADDON_1519	En góndola (1)
+TEXT_ADDON_1521	En chocobo
+TEXT_ADDON_1523	Pareja
+TEXT_ADDON_1524	Escuchar
+TEXT_ADDON_1525	Iluminación
+TEXT_ADDON_1526	Natural
+TEXT_ADDON_1527	Romántica
+TEXT_ADDON_1528	En góndola (2)
+TEXT_ADDON_1529	En góndola (3)
+TEXT_ADDON_1530	Color de las telas
+TEXT_ADDON_1532	Blanco
+TEXT_ADDON_1533	Rosa
+TEXT_ADDON_1534	Naranja
+TEXT_ADDON_1535	Azul
+TEXT_ADDON_1536	Rojo
+TEXT_ADDON_1542	Estilo de la ceremonia<br><br>The Lover's Kiss<br>La preside un moogle del coro; es una ceremonia alegre que se sella con un beso.<br><br>The Spinner's Hand<br>La preside una oficiante de las Graces; esta ceremonia tradicional dedicada a los Twelve termina con un brindis simbólico por el comienzo de su vida juntos.<br><br>The Solemn Oath<br>La preside un oficiante de los Vows; esta ceremonia sin culto termina con la firma de un pacto oficial ante los invitados.
+TEXT_ADDON_1543	Decoración de la capilla<br><br>※<if([lnum1<2],La capilla usará iluminación natural,Puedes elegir entre iluminación natural o romántica para la capilla)>.<br><br>※<if([lnum1>0],<switch(lnum1,Se elegirá por ti una combinación de alfombra y flores,Puedes elegir uno de tres colores para la alfombra de la capilla y las flores del salón,Puedes elegir uno de cinco colores para la alfombra de la capilla y las flores del salón)>,)>.<br><br>※<if([lnum1>0],<switch(lnum1,La capilla no tendrá telas decorativas,Puedes elegir uno de tres colores para las telas de la capilla,Puedes elegir uno de cinco colores para las telas de la capilla)>,)>.
+TEXT_ADDON_1544	Procesión<br><br><if([lnum1<2],Tú y tu pareja entrarán a pie en la Ivory Chapel,Tú y tu pareja pueden entrar en la Ivory Chapel a pie\, o sentados en <if([lnum1>2],una de tres góndolas encantadas,una góndola encantada)>)>.
+TEXT_ADDON_1545	Salida<br><br><if([lnum1<2],Tú y tu pareja saldrán a pie de la Ivory Chapel,Tú y tu pareja pueden salir de la Ivory Chapel a pie\, o montados en un chocobo)>.
+TEXT_ADDON_1546	Ramo<br><br>Puedes decidir quién lleva el ramo durante la ceremonia. Quien lleve las flores entrará a la capilla por la izquierda.
+TEXT_ADDON_1547	Música<br><br><if([lnum1<2],Se elegirá por ti la música de antes de la procesión y de la recepción,Puedes elegir la música de antes de la procesión y de la recepción. <head(<if(lnum2,<if([lnum2<=10],<switch(lnum2,una,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)>)> canciones para elegir)>.
+TEXT_ADDON_1548	¿Guardar estos ajustes?
+TEXT_ADDON_1549	Los cambios no se guardarán. ¿Seguro que quieres cancelar?
+TEXT_ADDON_1550	Aniversario
+TEXT_ADDON_1552	Una invitación
+TEXT_ADDON_1553	Fecha de la ceremonia
+TEXT_ADDON_1555	Invitación
+TEXT_ADDON_1556	Copias
+TEXT_ADDON_1557	Quedan <num(lnum1)>
+TEXT_ADDON_1560	Quedan ??
+TEXT_ADDON_1561	Solo los conocidos con invitación podrán entrar a tu Bonding Ceremony. ¿Imprimir la invitación?
+TEXT_ADDON_1570	world
+TEXT_ADDON_1572	Limsa Lominsa
+TEXT_ADDON_1573	limsa
+TEXT_ADDON_1574	La Noscea
+TEXT_ADDON_1575	lanoscea
+TEXT_ADDON_1576	Gridania
+TEXT_ADDON_1577	gridania
+TEXT_ADDON_1578	The Black Shroud
+TEXT_ADDON_1579	shroud
+TEXT_ADDON_1580	Ul'dah
+TEXT_ADDON_1581	uldah
+TEXT_ADDON_1582	Thanalan
+TEXT_ADDON_1583	thanalan
+TEXT_ADDON_1584	Ishgard
+TEXT_ADDON_1585	ishgard
+TEXT_ADDON_1586	Coerthas
+TEXT_ADDON_1587	coerthas
+TEXT_ADDON_1588	Mor Dhona
+TEXT_ADDON_1589	mordhona
+TEXT_ADDON_1590	Abalathia's Spine
+TEXT_ADDON_1591	abalathia
+TEXT_ADDON_1592	Dravania
+TEXT_ADDON_1593	dravania
+TEXT_ADDON_1594	Kugane
+TEXT_ADDON_1595	kugane
+TEXT_ADDON_1596	Gyr Abania
+TEXT_ADDON_1597	gyrabania
+TEXT_ADDON_1598	Othard
+TEXT_ADDON_1599	othard
+TEXT_ADDON_1600	The Crystarium
+TEXT_ADDON_1601	crystarium
+TEXT_ADDON_1602	Eulmore
+TEXT_ADDON_1603	eulmore
+TEXT_ADDON_1604	Norvrandt
+TEXT_ADDON_1605	norvrandt
+TEXT_ADDON_1612	Es el aniversario de tu Eternal Bonding. Ve al Sanctum of the Twelve, en East Shroud, y habla con Hawu Bajihri para celebrar esta ocasión tan especial.
+TEXT_ADDON_1613	No volver a mostrar.
+TEXT_ADDON_1615	The Ceremony of Eternal Bonding
+TEXT_ADDON_1616	Aviso de aniversario
+TEXT_ADDON_1617	STR/DEX/VIT/INT/MND
+TEXT_ADDON_1621	Cuerpo a cuerpo
+TEXT_ADDON_1622	Físico a distancia
+TEXT_ADDON_1623	Mágico a distancia
+TEXT_ADDON_1626	<icon(105)> <string(lstr1)> y
+TEXT_ADDON_1627	<icon(106)> <string(lstr1)> y
+TEXT_ADDON_1628	<icon(105)> [Arriba]
+TEXT_ADDON_1629	<icon(106)> [Abajo]
+TEXT_ADDON_1630	X: <num(lnum1)><if(lnum2,<switch(lnum2,₁,₂,₃,₄,₅,₆,₇,₈,₉)>,₀)> Y: <num(lnum3)><if(lnum4,<switch(lnum4,₁,₂,₃,₄,₅,₆,₇,₈,₉)>,₀)>
+TEXT_ADDON_1631	X: <num(lnum1)><if(lnum2,<switch(lnum2,₁,₂,₃,₄,₅,₆,₇,₈,₉)>,₀)> Y: <num(lnum3)><if(lnum4,<switch(lnum4,₁,₂,₃,₄,₅,₆,₇,₈,₉)>,₀)> Z: <if([lnum7<0],-,)><num(lnum5)><if(lnum6,<switch(lnum6,₁,₂,₃,₄,₅,₆,₇,₈,₉)>,₀)>
+TEXT_ADDON_1636	<string(lstr1)> ( <float(lnum2,10,.)>  , <float(lnum3,10,.)> ) Z: <if([lnum5<0],-,)><float(lnum4,10,.)>
+TEXT_ADDON_1657	Inventario: equipo/objetos
+TEXT_ADDON_1658	Inventario: housing
+TEXT_ADDON_1659	Desintetizable: <if([lnum1>0],<num(lnum2)>.00 \(<head(<sheet(ClassJob,lnum1,0)>)>\),No)>
+TEXT_ADDON_1668	Grupo <num(lnum1)>
+TEXT_ADDON_1670	Todos los amigos
+TEXT_ADDON_1671	Filtrar grupos
+TEXT_ADDON_1672	Cambiar nombre del grupo
+TEXT_ADDON_1673	Más antiguos
+TEXT_ADDON_1674	Más recientes
+TEXT_ADDON_1675	Alfabético
+TEXT_ADDON_1676	Número de amigo
+TEXT_ADDON_1678	Asignar grupo de amigos
+TEXT_ADDON_1679	Grupos de amigos
+TEXT_ADDON_1682	Días de amistad:
+TEXT_ADDON_1686	Escribe un nombre nuevo para <string(lstr1)>Grupo <num(lnum2)>.
+TEXT_ADDON_1689	Nombre del grupo
+TEXT_ADDON_1691	Reducible: <if([lnum1>0],Sí,No)>
+TEXT_ADDON_1692	Precio de venta en tienda: ninguno
+TEXT_ADDON_1693	Precio de venta en tienda<if([lnum2>0],, \(NQ\))>: <kilo(lnum1,\,)>
+TEXT_ADDON_1694	Precio de venta en tienda<if([lnum2>0],, \(NQ\))>: <kilo(lnum1,\,)> (restringido)
+TEXT_ADDON_1695	Mostrando: <head(<string(lstr1)>)>
+TEXT_ADDON_1696	Amigos en el grupo: <num(lnum1)>
+TEXT_ADDON_1697	Las linkshells no funcionan mientras visitas otros Worlds o centros de datos.
+TEXT_ADDON_1702	Nada para mostrar.
+TEXT_ADDON_1703	Recetas buscadas
+TEXT_ADDON_1704	Receta original
+TEXT_ADDON_1705	Condiciones del filtro
+TEXT_ADDON_1706	Ocultar recetas completadas
+TEXT_ADDON_1710	Recetas por nivel
+TEXT_ADDON_1712	Árbol de recetas
+TEXT_ADDON_1714	Materias primas
+TEXT_ADDON_1715	Ver el inventario
+TEXT_ADDON_1719	Lista de materias primas
+TEXT_ADDON_1721	Estado del inventario
+TEXT_ADDON_1725	Actualizar el árbol de recetas
+TEXT_ADDON_1726	Actualizar la lista de materias primas
+TEXT_ADDON_1729	Más probabilidad de recibir objetos raros.
+TEXT_ADDON_1730	Agregar a favoritos (<num(lnum1)>/<num(lnum2)>)
+TEXT_ADDON_1731	Quitar de favoritos (<num(lnum1)>/<num(lnum2)>)
+TEXT_ADDON_1732	Mostrar solo recetas grabables
+TEXT_ADDON_1748	Vender/donar
+TEXT_ADDON_1749	Ordenar/deshacer orden
+TEXT_ADDON_1751	Colocar
+TEXT_ADDON_1752	Equipar equipo/Outfit Vessel
+TEXT_ADDON_1756	Se usa al sintetizar.
+TEXT_ADDON_1757	Se usa al recolectar.
+TEXT_ADDON_1758	Se usa al teñir o colorear objetos.
+TEXT_ADDON_1759	Se usa con los glamour prisms.
+TEXT_ADDON_1760	Se usa al jugar con <lower(<switchplatform(1)>)>.
+TEXT_ADDON_1761	¿Qué ajustes quieres restablecer?
+TEXT_ADDON_1762	Primer nivel.
+TEXT_ADDON_1763	Segundo nivel.
+TEXT_ADDON_1764	Ambos niveles.
+TEXT_ADDON_1765	¿Restablecer el orden predeterminado del primer nivel?
+TEXT_ADDON_1766	¿Restablecer el orden predeterminado del segundo nivel?
+TEXT_ADDON_1767	Se usa en las tiendas.
+TEXT_ADDON_1768	Se usa con el Moogle Delivery Service.
+TEXT_ADDON_1769	Se usa al comerciar.
+TEXT_ADDON_1770	Se usa en las propiedades.
+TEXT_ADDON_1771	Se usa con la materia.
+TEXT_ADDON_1772	Se usa en las carreras de chocobos.
+TEXT_ADDON_1773	Se usa con los retainers.
+TEXT_ADDON_1774	Se usa con los mapas del tesoro.
+TEXT_ADDON_1775	Un comando general.
+TEXT_ADDON_1776	Mover al primer nivel
+TEXT_ADDON_1777	Mover al segundo nivel
+TEXT_ADDON_1778	Subir
+TEXT_ADDON_1779	Bajar
+TEXT_ADDON_1780	Subcommand Settings
+TEXT_ADDON_1782	Mostrar
+TEXT_ADDON_1783	Comando
+TEXT_ADDON_1784	Primer nivel
+TEXT_ADDON_1785	Segundo nivel
+TEXT_ADDON_1789	¿Restablecer ambos niveles a los ajustes predeterminados?
+TEXT_ADDON_1790	¿Aplicar los cambios a los niveles?
+TEXT_ADDON_1791	Si sales sin elegir Aplicar, se perderán todos los cambios. ¿Continuar?
+TEXT_ADDON_1792	<colortype(506)><edgecolortype(507)>Personaliza los subcomandos que aparecen.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_1793	Simplifica tus subcomandos<br>pasando los que usas poco a un segundo nivel.<br>Para mover un subcomando al segundo nivel,<br>resáltalo en la lista del primer nivel y presiona<br>el botón de flecha derecha.
+TEXT_ADDON_1794	Abre los comandos del segundo nivel. No se puede mover al segundo nivel.
+TEXT_ADDON_1795	Abre la ventana Subcommand Settings.
+TEXT_ADDON_1796	Se usa para entregar los objetos pedidos.
+TEXT_ADDON_1797	Se usa para ver los cuadros.
+TEXT_ADDON_1798	Se usa con la alforja del chocobo.
+TEXT_ADDON_1799	Se usa en la island sanctuary.
+TEXT_ADDON_1800	¿Aceptar el teletransporte a <ennoun(PlaceName,2,<sheet(Aetheryte,lnum1,8)>,2,1)>?
+TEXT_ADDON_1804	Oferta de teletransporte
+TEXT_ADDON_1806	Teletransportarse al aetheryte cercano
+TEXT_ADDON_1807	Cartas de amigos
+TEXT_ADDON_1808	Compras y recompensas
+TEXT_ADDON_1809	Cartas de GM
+TEXT_ADDON_1810	Pedido de entrega de recompensas
+TEXT_ADDON_1811	Pide la entrega inmediata de las recompensas especiales obtenidas hace poco. Después de enviar un pedido, tienes que esperar un momento para hacer otro.<br><br><colortype(506)><edgecolortype(507)>Los objetos de la tienda en línea se entregan solos mientras haya espacio en tu buzón de moogle. Las compras para toda la cuenta llegan la próxima vez que inicies sesión.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_1815	Desíntesis
+TEXT_ADDON_1818	Elige un objeto
+TEXT_ADDON_1823	Objeto original
+TEXT_ADDON_1824	Clase necesaria / habilidad actual
+TEXT_ADDON_1825	Probabilidad de éxito
+TEXT_ADDON_1831	Desintetizar un objeto único o no comerciable.
+TEXT_ADDON_1832	Desintetizar un objeto con materia.
+TEXT_ADDON_1833	Desintetizar
+TEXT_ADDON_1835	Desíntesis exitosa.
+TEXT_ADDON_1836	Antes
+TEXT_ADDON_1837	Después
+TEXT_ADDON_1839	<head(<ennoun(Item,2,lnum1,1,1)>)> está equipado. ¿Continuar con la desíntesis?
+TEXT_ADDON_1842	Habilidad
+TEXT_ADDON_1844	Este objeto no se puede desintetizar.
+TEXT_ADDON_1845	No tienes objetos que se puedan desintetizar.
+TEXT_ADDON_1846	¿Restablecer tu habilidad de desíntesis de <sheet(ClassJob,lnum1,0)>?
+TEXT_ADDON_1847	Desintetizar el coleccionable.
+TEXT_ADDON_1848	[Habilidad óptima para la desíntesis: <num(lnum1)>.00]
+TEXT_ADDON_1849	Muestra solo las cartas o paquetes sin leer.
+TEXT_ADDON_1851	<icon2(10)> Subcomandos　<icon2(9)> Volver
+TEXT_ADDON_1853	No hay cartas elegidas.
+TEXT_ADDON_1854	No puedes tener más cartas del sistema. Para recibir envíos nuevos, primero desecha algunas.
+TEXT_ADDON_1855	No puedes tener más cartas de campañas o de la Mog Station. Para recibir envíos nuevos, primero reclama tus objetos y después desecha algunas cartas.
+TEXT_ADDON_1856	No puedes tener más cartas de amigos con adjuntos. Para recibir envíos nuevos, primero reclama tus objetos y después desecha algunas cartas. Los envíos de gil no cuentan como objetos.
+TEXT_ADDON_1857	No puedes tener más cartas de amigos. Para recibir envíos nuevos, primero desecha algunas.
+TEXT_ADDON_1858	Lista de destinatarios
+TEXT_ADDON_1860	<icon2(8)>Aceptar　<icon2(11)>Abrir el Journal  <icon2(24)> Desplazar
+TEXT_ADDON_1862	Remitentes anteriores
+TEXT_ADDON_1863	Destinatarios anteriores
+TEXT_ADDON_1865	No hay amigos en este grupo.
+TEXT_ADDON_1867	El buzón de este tipo de cartas está al 80%.
+TEXT_ADDON_1868	El buzón de este tipo de cartas está al 100%.
+TEXT_ADDON_1869	La capacidad de adjuntos sin reclamar está al 100%.
+TEXT_ADDON_1871	Procesando...
+TEXT_ADDON_1873	Cantidad actual de objetos adjuntos sin reclamar (sin contar el gil).
+TEXT_ADDON_1877	Dificultad <num(lnum1)>
+TEXT_ADDON_1880	Hunting Log
+TEXT_ADDON_1884	¡Completado!
+TEXT_ADDON_1889	Entrada completada
+TEXT_ADDON_1890	Rango de dificultad completado
+TEXT_ADDON_1891	<head(<sheet(ClassJob,lnum1,0)>)> rango <num(lnum2)>
+TEXT_ADDON_1892	<sheet(GrandCompany,lnum1,0)> rango <num(lnum2)>
+TEXT_ADDON_1893	Requisitos para el rango <num(lnum1)>:
+TEXT_ADDON_1894	Completa los objetivos del rango <num(lnum1)>
+TEXT_ADDON_1895	Llega al nivel <num(lnum1)>0 o más
+TEXT_ADDON_1897	ID
+TEXT_ADDON_1900	Color del texto del chat
+TEXT_ADDON_1912	Echo
+TEXT_ADDON_1913	Mensajes del sistema
+TEXT_ADDON_1914	Mensajes del sistema de combate
+TEXT_ADDON_1915	Mensajes del sistema de recolección
+TEXT_ADDON_1916	Mensajes de error
+TEXT_ADDON_1917	Diálogos de NPC
+TEXT_ADDON_1918	Botín
+TEXT_ADDON_1919	Subida de nivel
+TEXT_ADDON_1923	Daño causado
+TEXT_ADDON_1924	Ataques fallidos
+TEXT_ADDON_1926	Objetos
+TEXT_ADDON_1927	Curación
+TEXT_ADDON_1928	Efectos de mejora
+TEXT_ADDON_1929	Efectos de debilitamiento
+TEXT_ADDON_1930	¿Restablecer los colores predeterminados del texto?
+TEXT_ADDON_1934	Anuncios de la Free Company
+TEXT_ADDON_1935	Chat 1
+TEXT_ADDON_1936	Chat 2
+TEXT_ADDON_1939	Nunca vas a poder equipar este objeto.<br>¿Continuar con la transacción?
+TEXT_ADDON_1943	Buscar por categoría
+TEXT_ADDON_1944	Arma principal/secundaria
+TEXT_ADDON_1945	Indica un objeto o una categoría.
+TEXT_ADDON_1946	No hay objetos que coincidan.
+TEXT_ADDON_1947	Ordena según el parámetro elegido.<br>(Se muestran hasta 100 entradas).
+TEXT_ADDON_1948	Mostrar <if([lnum1==1],el resultado restante,los siguientes <num(lnum1)> resultados)>.
+TEXT_ADDON_1949	Mostrar <if([lnum1==1],el resultado anterior,los <num(lnum1)> resultados anteriores)>.
+TEXT_ADDON_1950	Resultados de búsqueda
+TEXT_ADDON_1957	Precio más bajo: <num(lnum1)>
+TEXT_ADDON_1959	No se encontraron objetos.
+TEXT_ADDON_1960	Búsqueda avanzada
+TEXT_ADDON_1962	Por ahora no puedes equipar este objeto.<br>¿Continuar con la transacción?
+TEXT_ADDON_1963	¿Comprar <num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)> por <kilo(lnum3,\,)> gil<if([lnum4>0], \(comisión de <kilo(lnum4,\,)> incluida\),)>?
+TEXT_ADDON_1964	¿Comprar <ennoun(Item,1,lnum1,1,1)> por <kilo(lnum3,\,)> gil<if([lnum4>0], \(comisión de <kilo(lnum4,\,)> incluida\),)>?
+TEXT_ADDON_1965	Armadura
+TEXT_ADDON_1969	Nv. 1
+TEXT_ADDON_1975	Comprador
+TEXT_ADDON_1976	Fecha
+TEXT_ADDON_1977	Transacciones recientes
+TEXT_ADDON_1979	Tu nivel de fisher no alcanza para usar este cebo. ¿Comprarlo de todos modos?
+TEXT_ADDON_1982	Elige las opciones.
+TEXT_ADDON_1984	Mostrar solo objetos HQ.
+TEXT_ADDON_1985	Ocultar lotes en venta.
+TEXT_ADDON_1986	Escribe las primeras letras del objeto que buscas<br>y presiona el botón Buscar.<br>Las búsquedas de menos de tres caracteres<br>dan como máximo 20 resultados.<br>Usa las flechas o <icon2(5)> arriba/abajo para ver el historial.
+TEXT_ADDON_1987	Elige el nivel necesario<br>y presiona el botón Buscar.
+TEXT_ADDON_1988	Elige la clase y el nivel necesario<br>y presiona el botón Buscar.
+TEXT_ADDON_1989	Presiona el botón Buscar.
+TEXT_ADDON_1990	Filtro de materia desactivado
+TEXT_ADDON_1991	<head(<if(lnum1,<if([lnum1<=10],<switch(lnum1,una,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)>)> <if([lnum1==1],materia engarzada,materias engarzadas)>
+TEXT_ADDON_1997	Espera e intenta buscar de nuevo.
+TEXT_ADDON_1999	Housing

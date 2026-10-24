@@ -1,0 +1,245 @@
+key	text
+TEXT_ADDON_9000	Elige un pronóstico.
+TEXT_ADDON_9005	Daño a PC
+TEXT_ADDON_9006	Daño a otros
+TEXT_ADDON_9010	Cruza
+TEXT_ADDON_9012	Elige un padre.
+TEXT_ADDON_9013	Elige una madre.
+TEXT_ADDON_9014	Linaje del padre
+TEXT_ADDON_9015	Linaje de la madre
+TEXT_ADDON_9018	Capacidad de cría
+TEXT_ADDON_9019	Reproductor
+TEXT_ADDON_9020	Tarifa de cruza
+TEXT_ADDON_9021	Tienes que elegir un padre y una madre.
+TEXT_ADDON_9022	El padre y la madre no pueden ser ambos reproductores.
+TEXT_ADDON_9023	No tienes suficiente gil.
+TEXT_ADDON_9024	Un chocobo con capacidad de cría 0 no puede participar en una cruza.
+TEXT_ADDON_9025	Cruza lista.
+TEXT_ADDON_9028	Elige una pareja para la cruza.
+TEXT_ADDON_9030	Elegir reproductor
+TEXT_ADDON_9031	¿Hacer la cruza por <kilo(lnum1,\,)> gil?
+TEXT_ADDON_9033	Nivel de linaje del polluelo resultante
+TEXT_ADDON_9038	¿Seguro que quieres empezar el entrenamiento?
+TEXT_ADDON_9039	¿Enseñarle a <head(lstr1)> la habilidad de carrera “<sheet(ChocoboRaceAbility,lnum2,0)>”?
+TEXT_ADDON_9040	Elegir alimento
+TEXT_ADDON_9043	Elegir manual
+TEXT_ADDON_9044	Manuales
+TEXT_ADDON_9048	Un chocobo que se retira a pastar no se puede volver a registrar como chocobo de carrera. ¿Continuar?
+TEXT_ADDON_9049	Retirar al chocobo.
+TEXT_ADDON_9050	No se entrega el formulario de retiro para chocobos de carrera de rango menor a 40. Si continúas, <head(lstr1)> pasará a ser propiedad del Manderville Gold Saucer.
+TEXT_ADDON_9051	Renunciar al registro de retiro. ¡Fuera de aquí, pajarraco!
+TEXT_ADDON_9054	Nombre
+TEXT_ADDON_9056	Elige un nombre para tu chocobo de carrera. Puedes elegir una palabra o una combinación de dos de la lista.
+TEXT_ADDON_9057	Nombre del chocobo de carrera
+TEXT_ADDON_9059	Palabra 1
+TEXT_ADDON_9060	Palabra 2
+TEXT_ADDON_9061	Sin segunda palabra.
+TEXT_ADDON_9063	Lista de palabras
+TEXT_ADDON_9070	¿Registrar al chocobo de carrera <head(lstr1)>?
+TEXT_ADDON_9071	¿Cambiar el nombre de tu chocobo de carrera a <head(lstr1)> por <kilo(lnum1,\,)> gil?
+TEXT_ADDON_9072	Elegir chocobo
+TEXT_ADDON_9073	Chocobo de carrera
+TEXT_ADDON_9076	Palabras
+TEXT_ADDON_9078	Elige al azar un par de palabras por ti.
+TEXT_ADDON_9079	Filtrar las palabras por idioma.
+TEXT_ADDON_9081	Chocobo
+TEXT_ADDON_9111	¿Salir del circuito de entrenamiento?
+TEXT_ADDON_9112	Chocobo Races
+TEXT_ADDON_9113	Entrando a una carrera...
+TEXT_ADDON_9114	Resultados de la carrera
+TEXT_ADDON_9116	Premio
+TEXT_ADDON_9125	Resistencia
+TEXT_ADDON_9127	Inscripción a la carrera
+TEXT_ADDON_9130	Costo de inscripción
+TEXT_ADDON_9131	Inscribiendo en la carrera. Espera.
+TEXT_ADDON_9132	¡Todo listo!
+TEXT_ADDON_9133	Carrera
+TEXT_ADDON_9135	Esperando a los otros jinetes.
+TEXT_ADDON_9136	Agotado
+TEXT_ADDON_9137	Incansable
+TEXT_ADDON_9138	Tiempo hasta la carrera
+TEXT_ADDON_9141	MGP actual
+TEXT_ADDON_9142	¡Aparece un cofre!
+TEXT_ADDON_9144	No terminó
+TEXT_ADDON_9145	EXP de carrera
+TEXT_ADDON_9147	Esprint
+TEXT_ADDON_9148	Desafío
+TEXT_ADDON_9160	Inscripción a la partida
+TEXT_ADDON_9162	Reglas regionales
+TEXT_ADDON_9163	Reglas de la partida
+TEXT_ADDON_9165	Elige las reglas de la partida.
+TEXT_ADDON_9166	Confirmando la inscripción. Espera.
+TEXT_ADDON_9167	Tu rival ya está listo.
+TEXT_ADDON_9169	Tiempo restante: <num(lnum1)> s
+TEXT_ADDON_9175	Te desafiaron a una partida normal. Confirma las reglas.
+TEXT_ADDON_9176	Cambio de reglas
+TEXT_ADDON_9181	Confirma las reglas y las recompensas.
+TEXT_ADDON_9184	Desafío de Triple Triad
+TEXT_ADDON_9185	Desafío a partida normal
+TEXT_ADDON_9186	Reglas del torneo
+TEXT_ADDON_9188	Puntos del torneo
+TEXT_ADDON_9189	¿Rechazar la invitación a la partida?
+TEXT_ADDON_9190	¡Ganaste!
+TEXT_ADDON_9191	Perdiste...
+TEXT_ADDON_9194	Revancha
+TEXT_ADDON_9196	Tu rival no quiere la revancha.
+TEXT_ADDON_9197	Tu rival quiere la revancha.
+TEXT_ADDON_9198	Pedido de revancha enviado. Esperando respuesta.
+TEXT_ADDON_9199	Tu rival está cambiando las reglas. Espera.
+TEXT_ADDON_9200	Confirma las reglas del torneo.
+TEXT_ADDON_9201	¿Pedir la revancha?
+TEXT_ADDON_9202	Desafío a partida de torneo
+TEXT_ADDON_9203	Partida normal
+TEXT_ADDON_9204	Torneo
+TEXT_ADDON_9205	Partidas disponibles: <num(lnum1)>/<num(lnum2)>
+TEXT_ADDON_9206	Rival
+TEXT_ADDON_9207	Costo de la partida
+TEXT_ADDON_9208	Elegir mazo
+TEXT_ADDON_9210	La carta no está en la lista de cartas.
+TEXT_ADDON_9212	Reglas
+TEXT_ADDON_9213	¿Comprar una carta que ya reclamaste?
+TEXT_ADDON_9214	<settime(lnum1)><if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)> <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> a <settime(lnum2)><if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)> <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)>
+TEXT_ADDON_9221	Clasificación del torneo
+TEXT_ADDON_9223	Elige un tipo de partida.
+TEXT_ADDON_9224	Partida de Triple Triad
+TEXT_ADDON_9227	Partidas
+TEXT_ADDON_9228	Victorias
+TEXT_ADDON_9229	Puntos
+TEXT_ADDON_9233	Esta partida no tiene reglas adicionales.
+TEXT_ADDON_9234	Entraste a un torneo.<br>Confirma las reglas y las recompensas.
+TEXT_ADDON_9235	Puntos previstos
+TEXT_ADDON_9236	Premio posible
+TEXT_ADDON_9255	Tu número: [<digit(lnum1,4)>]
+TEXT_ADDON_9256	Bonificación por madrugar
+TEXT_ADDON_9257	MGP +<num(lnum1)>%
+TEXT_ADDON_9258	Elige una casilla
+TEXT_ADDON_9259	Elige una línea
+TEXT_ADDON_9260	Mini Cactpot
+TEXT_ADDON_9262	Elige <if(lnum1,<if([lnum1<=10],<switch(lnum1,una,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)> <if([lnum1==1],casilla,casillas)> para descubrir.
+TEXT_ADDON_9263	Elige una línea para sumar.
+TEXT_ADDON_9265	Pago
+TEXT_ADDON_9266	Suma
+TEXT_ADDON_9267	MGP
+TEXT_ADDON_9268	¿Comprar <if([lnum2==1],<ennoun(Item,1,lnum1,1,1)>,<num(lnum2)> <ennoun(Item,3,lnum1,2,1)>)> por <kilo(lnum3,\,)> MGP?
+TEXT_ADDON_9272	Jumbo Cactpot
+TEXT_ADDON_9274	Al azar
+TEXT_ADDON_9276	¿Comprar un boleto de Jumbo Cactpot con el número <digit(lnum2,4)> por <kilo(lnum3,\,)> MGP?<br>Tienes <kilo(lnum4,\,)>.
+TEXT_ADDON_9279	Número ganador
+TEXT_ADDON_9280	El número ganador se elige cada <if([gnum83!=0],<switch(gnum83,<setresettime(21,6)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p. m.,a. m.)>,<setresettime(11,0)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p. m.,a. m.)>,<setresettime(4,0)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p. m.,a. m.)>,<setresettime(18,6)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p. m.,a. m.)>,,,<setresettime(11,0)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p. m.,a. m.)>)>,<setresettime(21,6)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p. m.,a. m.)>)> (hora real).
+TEXT_ADDON_9281	Primer premio
+TEXT_ADDON_9282	Coinciden todos los números
+TEXT_ADDON_9283	Segundo premio
+TEXT_ADDON_9284	Coinciden los últimos 3 números
+TEXT_ADDON_9285	Tercer premio
+TEXT_ADDON_9286	Coinciden los últimos 2 números
+TEXT_ADDON_9287	Cuarto premio
+TEXT_ADDON_9288	Coincide el último número
+TEXT_ADDON_9289	Consuelo
+TEXT_ADDON_9290	No coincide ningún número
+TEXT_ADDON_9293	Bonificación por participar
+TEXT_ADDON_9294	Participantes actuales
+TEXT_ADDON_9295	Participantes
+TEXT_ADDON_9297	Boletos
+TEXT_ADDON_9299	Tus números: [<digit(lnum1,4)>]<if([lnum2>=0],<if([lnum3>=0], \[<digit(lnum2,4)>\] \[<digit(lnum3,4)>\], \[<digit(lnum2,4)>\])>,)>
+TEXT_ADDON_9300	¿Comprar un boleto para el sorteo de esta semana?
+TEXT_ADDON_9301	Resultados anteriores
+TEXT_ADDON_9304	Número ganador: <digit(lnum1,4)>
+TEXT_ADDON_9306	Elige un número al azar por ti.
+TEXT_ADDON_9311	+<kilo(lnum1,\,)> MGP
+TEXT_ADDON_9313	N.º <num(lnum1)>
+TEXT_ADDON_9320	¿Terminar de jugar <string(lstr1)>? No se devolverá tu MGP.
+TEXT_ADDON_9321	¿Jugar una ronda de <string(lstr1)> por <kilo(lnum2,\,)> MGP?<br>Tienes <kilo(lnum3,\,)>.
+TEXT_ADDON_9323	¡Mide tu habilidad!
+TEXT_ADDON_9324	¡Encuentra el punto justo!
+TEXT_ADDON_9325	¡Doble o nada!
+TEXT_ADDON_9329	<colortype(506)><edgecolortype(507)>¡Felicidades!<edgecolortype(0)><colortype(0)><br>Puedes reclamar tu recompensa y terminar el juego, o volver a intentarlo para ganar todavía más. Pero recuerda: si fallas, pierdes todas las recompensas anteriores.<br><br>Pago actual: <colortype(506)><edgecolortype(507)><num(lnum3)><edgecolortype(0)><colortype(0)> MGP<br>Pago si doblas: <colortype(506)><edgecolortype(507)><num(lnum4)><edgecolortype(0)><colortype(0)> MGP<br><br>Oportunidades de doblar restantes: <num(lnum2)>
+TEXT_ADDON_9330	Tiempo restante: <num(lnum1)>:<sec(lnum2)>
+TEXT_ADDON_9331	<head(<if([gstr1==gstr2],tú,<if(gnum7,<ennoun(ObjStr,2,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],tomas,toma)> el pico.
+TEXT_ADDON_9332	<head(<if([gstr1==gstr2],tú,<if(gnum7,<ennoun(ObjStr,2,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],tomas,toma)> el hacha.
+TEXT_ADDON_9333	<colortype(506)><edgecolortype(507)>¡Felicidades!<edgecolortype(0)><colortype(0)><br>Puedes reclamar tu recompensa y terminar el juego, o volver a intentarlo para ganar todavía más. Pero recuerda: si fallas, pierdes todas las recompensas anteriores.<br><br>Pago actual: <colortype(506)><edgecolortype(507)><num(lnum5)><edgecolortype(0)><colortype(0)> MGP<br>Pago si doblas: <colortype(506)><edgecolortype(507)><num(lnum6)><edgecolortype(0)><colortype(0)> MGP<br>Tiempo restante: <num(lnum3)>:<sec(lnum4)><br><br>Oportunidades de doblar restantes: <num(lnum2)>
+TEXT_ADDON_9339	Lista de cartas
+TEXT_ADDON_9340	Mazos
+TEXT_ADDON_9341	Manderville Gold Saucer Points (MGP)
+TEXT_ADDON_9343	Próximo torneo de Triple Triad
+TEXT_ADDON_9345	Partidas disponibles hasta las <settime(lnum1)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> <if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>
+TEXT_ADDON_9346	Inscripción desde las <settime(lnum1)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> <if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>
+TEXT_ADDON_9347	Resultados de torneos recientes
+TEXT_ADDON_9349	Partidas: 
+TEXT_ADDON_9350	Victorias: 
+TEXT_ADDON_9351	Puntos: 
+TEXT_ADDON_9353	Boletos disponibles: <num(lnum1)>/<num(lnum2)>
+TEXT_ADDON_9354	Esperando resultados
+TEXT_ADDON_9355	Boleto canjeable
+TEXT_ADDON_9356	Boleto vencido
+TEXT_ADDON_9357	　(Tus números: [<digit(lnum1,4)>]<if([lnum2>=0],<if([lnum3>=0], \[<digit(lnum2,4)>\] \[<digit(lnum3,4)>\], \[<digit(lnum2,4)>\])>,)>)
+TEXT_ADDON_9360	Boleto sin comprar
+TEXT_ADDON_9363	Recibiendo datos...
+TEXT_ADDON_9365	Disponible:
+TEXT_ADDON_9367	Verminion
+TEXT_ADDON_9368	Mahjong
+TEXT_ADDON_9373	Parámetros
+TEXT_ADDON_9378	Velocidad máxima
+TEXT_ADDON_9379	Aceleración
+TEXT_ADDON_9380	Aguante
+TEXT_ADDON_9382	Astucia
+TEXT_ADDON_9383	Clima preferido
+TEXT_ADDON_9384	Bueno
+TEXT_ADDON_9385	Malo
+TEXT_ADDON_9386	Habilidad de carrera
+TEXT_ADDON_9387	Hereditaria
+TEXT_ADDON_9390	Capacidad de entrenamiento
+TEXT_ADDON_9391	Sesiones disponibles
+TEXT_ADDON_9392	Capacidad de carrera
+TEXT_ADDON_9394	Nivel de linaje
+TEXT_ADDON_9396	Ascendencia
+TEXT_ADDON_9399	No tienes un chocobo de carrera.
+TEXT_ADDON_9414	Lados:
+TEXT_ADDON_9415	Rareza:
+TEXT_ADDON_9416	Tipo:
+TEXT_ADDON_9418	Mazo <num(lnum1)>
+TEXT_ADDON_9419	Cambia cómo se muestran tus cartas.
+TEXT_ADDON_9424	Escribe un nombre nuevo para el mazo.
+TEXT_ADDON_9425	Editar mazo
+TEXT_ADDON_9429	Cambiar nombre del mazo
+TEXT_ADDON_9432	Quitar del mazo
+TEXT_ADDON_9433	<icon2(11)> Cambiar vista  <icon2(10)> Subcomandos
+TEXT_ADDON_9434	Vaciar mazo
+TEXT_ADDON_9435	¿Seguro que quieres quitar todas las cartas de este mazo?
+TEXT_ADDON_9437	No vas a poder usar el mazo en partidas por este motivo:<br><colortype(506)><edgecolortype(507)><string(lstr1)><edgecolortype(0)><colortype(0)><br><br>¿Guardar el mazo?
+TEXT_ADDON_9438	No hay suficientes cartas
+TEXT_ADDON_9439	Demasiadas cartas raras
+TEXT_ADDON_9440	Incluye una carta sin reclamar
+TEXT_ADDON_9441	Incluye cartas repetidas
+TEXT_ADDON_9443	Tu mazo tiene demasiadas cartas raras.
+TEXT_ADDON_9444	Reglas para armar mazos<br>・Cartas de rareza ★★★★★: 1 carta por mazo<br>・Cartas de rareza ★★★★ o más: 2 cartas por mazo<br>・Cartas de rareza ★★★ o menos: sin límite
+TEXT_ADDON_9446	Lados
+TEXT_ADDON_9449	Ninguna carta coincide con los filtros actuales.
+TEXT_ADDON_9450	Puntaje del jugador
+TEXT_ADDON_9451	Puntos de rango:
+TEXT_ADDON_9452	Torneo de Lord of Verminion
+TEXT_ADDON_9453	The <ordinal(lnum1)> Lord of Verminion Tournament
+TEXT_ADDON_9455	Las partidas empiezan a las <settime(lnum1)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> <if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>
+TEXT_ADDON_9456	Resultados del torneo
+TEXT_ADDON_9458	Partidas:
+TEXT_ADDON_9459	Victorias:
+TEXT_ADDON_9460	Puntos:
+TEXT_ADDON_9462	No hay resultados para mostrar.
+TEXT_ADDON_9465	Fija filtros y personaliza el orden.
+TEXT_ADDON_9466	Ajustes de filtros
+TEXT_ADDON_9469	TODOS
+TEXT_ADDON_9471	Scion
+TEXT_ADDON_9472	Garlean
+TEXT_ADDON_9473	Primal
+TEXT_ADDON_9474	Sociedad
+TEXT_ADDON_9476	Lado superior
+TEXT_ADDON_9477	Lado inferior
+TEXT_ADDON_9478	Lado izquierdo
+TEXT_ADDON_9479	Lado derecho
+TEXT_ADDON_9480	Prioridad 1
+TEXT_ADDON_9481	Prioridad 2
+TEXT_ADDON_9482	Prioridad 3
+TEXT_ADDON_9483	Prioridad 4
+TEXT_ADDON_9492	Fijar una alarma para la inscripción al evento.
+TEXT_ADDON_9493	Ver la explicación de las reglas.
+TEXT_ADDON_9496	Abrir el calendario de torneos
+TEXT_ADDON_9497	Rivales

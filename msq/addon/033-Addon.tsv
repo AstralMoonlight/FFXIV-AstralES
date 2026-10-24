@@ -1,0 +1,287 @@
+key	text
+TEXT_ADDON_16501	Objeto de texto
+TEXT_ADDON_16504	Cambiar los ajustes del grupo
+TEXT_ADDON_16505	Quitar los ajustes del grupo
+TEXT_ADDON_16508	Quitar el objeto del grupo
+TEXT_ADDON_16509	Crear grupo desde el objeto
+TEXT_ADDON_16510	Cambiar parámetros
+TEXT_ADDON_16511	<if(lnum1,Bloquear,Desbloquear)> objeto
+TEXT_ADDON_16514	Parámetros del objeto
+TEXT_ADDON_16516	Guardar strategy board
+TEXT_ADDON_16518	Carpeta de destino
+TEXT_ADDON_16519	Nombre del strategy board
+TEXT_ADDON_16520	Capas de objetos
+TEXT_ADDON_16527	Strategy board predefinido
+TEXT_ADDON_16528	Strategy board en blanco
+TEXT_ADDON_16529	Strategy board con código para compartir
+TEXT_ADDON_16532	Crear carpeta
+TEXT_ADDON_16533	Mostrar/ocultar
+TEXT_ADDON_16535	Compartir
+TEXT_ADDON_16536	Revisar estrategia
+TEXT_ADDON_16539	No elegiste ningún ajuste.
+TEXT_ADDON_16542	Mover a una carpeta
+TEXT_ADDON_16543	Crear código para compartir
+TEXT_ADDON_16548	No hay strategy boards guardados.
+TEXT_ADDON_16549	¿Seguro que quieres compartir <if([lnum1==0],el strategy board,la carpeta de strategy boards)> “<string(lstr2)>” con tu grupo?
+TEXT_ADDON_16551	Aetherwell verde
+TEXT_ADDON_16552	Aetherwell rojo
+TEXT_ADDON_16553	Aetherwell azul
+TEXT_ADDON_16554	Aetherwell amarillo
+TEXT_ADDON_16555	Aetherwell Array
+TEXT_ADDON_16558	Phantom Glass
+TEXT_ADDON_16561	Martial Memories
+TEXT_ADDON_16565	Elegir Martial Memory
+TEXT_ADDON_16568	Direct Hit
+TEXT_ADDON_16574	Personalización del arma fantasma
+TEXT_ADDON_16576	Martial Memories (Field Operations de <sheet(PlaceName,lnum1,0)>)
+TEXT_ADDON_16586	South Horn
+TEXT_ADDON_16587	North Horn
+TEXT_ADDON_16588	Conocimiento
+TEXT_ADDON_16589	EXP fant.
+TEXT_ADDON_16591	Tu ofrenda actual alcanza para asegurarte el paso prioritario.
+TEXT_ADDON_16593	Tu ofrenda actual no alcanza para tener chance de paso.
+TEXT_ADDON_16594	Tu paso a la torre no está garantizado.
+TEXT_ADDON_16595	Te aseguraste el paso prioritario a la torre.
+TEXT_ADDON_16597	E. Silver Pieces
+TEXT_ADDON_16598	E. Gold Pieces
+TEXT_ADDON_16599	Sanguine Ciphers
+TEXT_ADDON_16608	DOMINADO
+TEXT_ADDON_16610	Nivel de conocimiento
+TEXT_ADDON_16611	Phantom Job
+TEXT_ADDON_16618	EXP fantasma
+TEXT_ADDON_16619	Critical Encounter
+TEXT_ADDON_16620	Sincronizar el nivel de conocimiento
+TEXT_ADDON_16621	Terminar la sincronización del nivel de conocimiento
+TEXT_ADDON_16622	¡Se acerca un critical encounter!<br>Empieza en <string(lstr1)>
+TEXT_ADDON_16623	El critical encounter empieza en breve.
+TEXT_ADDON_16624	Reclutando miembros: <num(lnum1)>:<sec(lnum2)>
+TEXT_ADDON_16625	Preparando el inicio: <num(lnum1)>:<sec(lnum2)>
+TEXT_ADDON_16627	Lugares prioritarios
+TEXT_ADDON_16628	Buscando paso / lugares restantes
+TEXT_ADDON_16629	Umbral de ofrenda
+TEXT_ADDON_16630	El conocimiento y la EXP fantasma que se pueden obtener se muestran en las zonas que corresponde.
+TEXT_ADDON_16631	<sheet(Status,lnum2,0)> Nv. <num(lnum1)>
+TEXT_ADDON_16636	Sincroniza el nivel de conocimiento de todos los miembros para armar un grupo equilibrado.
+TEXT_ADDON_16637	El nivel de conocimiento del grupo está sincronizado.<br>Presiona para desactivar la sincronización.
+TEXT_ADDON_16638	Solo el líder del grupo puede sincronizar el nivel de conocimiento del grupo.
+TEXT_ADDON_16639	El nivel de conocimiento del grupo está sincronizado.
+TEXT_ADDON_16642	Occult Record
+TEXT_ADDON_16647	Detalles del phantom job
+TEXT_ADDON_16648	Cambiar de phantom job
+TEXT_ADDON_16652	¿Ofrecer <num(lnum1)> <if([lnum1==1],sanguine cipher,sanguine ciphers)>?<br><colortype(506)><edgecolortype(507)>Si <if([lnum1==1],el cipher no te da,los ciphers no te dan)> acceso, se te <if([lnum1==1],devuelve,devuelven)>. Pero si obtienes acceso y no entras, <if([lnum1==1],lo pierdes,los pierdes)>.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_16653	Phantom actions
+TEXT_ADDON_16654	Phantom traits
+TEXT_ADDON_16655	※Los datos se actualizan cada cierto tiempo. Puede que la información no esté al día.
+TEXT_ADDON_16657	Aprende sobre los phantom jobs.
+TEXT_ADDON_16658	Repertorio de phantom jobs
+TEXT_ADDON_16661	Nv. <sheet(MKDTrait,lnum1,1)><nbsp><sheet(MKDTrait,lnum1,3)>
+TEXT_ADDON_16662	Asignar a la ranura predeterminada de phantom action
+TEXT_ADDON_16663	Ocultar del panel de phantom actions
+TEXT_ADDON_16664	Mostrar en el panel de phantom actions
+TEXT_ADDON_16666	Detalles del progreso
+TEXT_ADDON_16668	Occult Record <num(lnum1)>
+TEXT_ADDON_16669	<sheet(MKDLore,lnum1,5)> se agregó<br>al Occult Record.
+TEXT_ADDON_16670	Confirma tu <if([lnum2>0],ofrenda adicional,ofrenda)> de <ennoun(Item,3,lnum1,2,1)>.<br>Si al menos 24 jugadores ofrecen ciphers, se activará un nodo aetherial que da acceso a la torre. <colortype(506)><edgecolortype(507)>Se puede teletransportar a 48 jugadores como máximo. Si participan más, tienen prioridad las ofrendas más grandes.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_16671	Ofreciste
+TEXT_ADDON_16679	Sin descubrir.
+TEXT_ADDON_16680	Ajustes de phantom actions
+TEXT_ADDON_16683	Entrada de <switchplatform(1)>
+TEXT_ADDON_16684	<icon2(14)>+<icon(17)>: elegir acción / <icon2(15)>+<icon(17)>: usar acción
+TEXT_ADDON_16685	<icon2(14)>+<icon(17)>: usar acción / <icon2(15)>+<icon(17)>: elegir acción
+TEXT_ADDON_16686	Giro de las phantom actions
+TEXT_ADDON_16687	Antihorario
+TEXT_ADDON_16688	Horario
+TEXT_ADDON_16689	Restablecer después de usar
+TEXT_ADDON_16693	Elige hacia dónde gira el panel de phantom actions al alternar acciones.
+TEXT_ADDON_16694	Si está activado, el panel de phantom actions se restablece después de usar una acción.
+TEXT_ADDON_16695	Elige qué combinación de botones de tu <lower(<switchplatform(1)>)> se usa para elegir y usar phantom actions.<br>※Si solo aprendiste una phantom action, cualquiera de las dos combinaciones la usa.
+TEXT_ADDON_16699	Las Forked Towers son <colortype(506)><edgecolortype(507)>el mayor desafío<edgecolortype(0)><colortype(0)> del Occult Crescent. Aprovecha al máximo tus phantom jobs y trabaja en equipo para superar enemigos poderosos y mecánicas de combate complicadas.
+TEXT_ADDON_16700	Cerrar el panel al usar una acción.
+TEXT_ADDON_16702	Abrir el último panel usado.
+TEXT_ADDON_16707	Agregar pestaña a la hotbar
+TEXT_ADDON_16709	Abrir el panel donde está el cursor del mouse.
+TEXT_ADDON_16710	Usar como ícono del Command Panel
+TEXT_ADDON_16711	Mostrar la ayuda del Command Panel.
+TEXT_ADDON_16712	Tono del Command Panel
+TEXT_ADDON_16713	Atajos del Command Panel
+TEXT_ADDON_16714	No permitir arrastrar dentro del Command Panel.
+TEXT_ADDON_16715	Restablecer el ícono predeterminado
+TEXT_ADDON_16716	Starward Standings
+TEXT_ADDON_16718	World: <string(lstr1)>
+TEXT_ADDON_16719	Transcurrido: <num(lnum1)> días
+TEXT_ADDON_16720	Próxima actualización: <settime(lnum1)><if([gnum77==3], <num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)> <num(t_hour)>:<sec(t_min)>
+TEXT_ADDON_16724	Mech Ops
+TEXT_ADDON_16729	¡En reconocimiento a su habilidad excepcional, su dedicación inquebrantable y sus incontables aportes a la iniciativa, distinguimos a <string(lstr1)> como Star Contributor!
+TEXT_ADDON_16730	Star Contributor
+TEXT_ADDON_16733	Cambiar pose
+TEXT_ADDON_16734	Ajusta la pose del holograma exhibido.
+TEXT_ADDON_16737	Stellar Missions
+TEXT_ADDON_16739	Stellar Successes
+TEXT_ADDON_16740	Índice de infraestructura
+TEXT_ADDON_16741	Cosmic Research
+TEXT_ADDON_16743	Guía de exploración
+TEXT_ADDON_16746	Elegir misión
+TEXT_ADDON_16747	Registro de misiones
+TEXT_ADDON_16748	Misiones básicas
+TEXT_ADDON_16749	Misiones provisionales
+TEXT_ADDON_16750	Misiones críticas
+TEXT_ADDON_16751	Misiones de clase D
+TEXT_ADDON_16752	Misiones de clase C
+TEXT_ADDON_16753	Misiones de clase B
+TEXT_ADDON_16754	Misiones de clase A
+TEXT_ADDON_16755	Requisitos para las misiones de clase C
+TEXT_ADDON_16756	Requisitos para las misiones de clase B
+TEXT_ADDON_16757	Requisitos para las misiones de clase A
+TEXT_ADDON_16759	Las misiones encadenadas dejan de estar disponibles en estos casos:<br>　・Se acepta otra misión<br>　・Se abandona la misión encadenada
+TEXT_ADDON_16761	Acciones de Stellar Mission
+TEXT_ADDON_16763	Información adicional
+TEXT_ADDON_16765	Calificación en estrellas
+TEXT_ADDON_16766	Tiempo límite: <if([lnum1>0],<num(lnum1)> min <if([lnum2>0],<num(lnum2)> s,)>,ninguno)><if([lnum3>0], - <num(lnum3)> min <if([lnum4>0],<num(lnum4)> s,)>,)>
+TEXT_ADDON_16767	Clase necesaria: <sheet(ClassJobCategory,lnum1,0)> <if([lnum2>0],<sheet(ClassJobCategory,lnum2,0)>,)>
+TEXT_ADDON_16768	No hay misiones que correspondan.
+TEXT_ADDON_16769	Estrella de oro: <kilo(lnum1,\,)> o más (<if([lnum2>0],lograda,sin lograr)>)
+TEXT_ADDON_16770	Estrella de plata: <kilo(lnum1,\,)> - <kilo(lnum2,\,)>
+TEXT_ADDON_16771	Estrella de oro: al menos <num(lnum1)>:<sec(lnum2)> restantes (<if([lnum3>0],lograda,sin lograr)>)
+TEXT_ADDON_16772	Estrella de plata: al menos <num(lnum1)>:<sec(lnum2)> restantes
+TEXT_ADDON_16773	Mostrar en el mapa
+TEXT_ADDON_16776	<sheet(ClassJobCategory,lnum2,0)> de nivel <num(lnum1)> o más
+TEXT_ADDON_16777	Completa esta misión:
+TEXT_ADDON_16780	Sinus Ardorum
+TEXT_ADDON_16783	Ocultar las misiones con estrella de oro
+TEXT_ADDON_16784	Mostrar solo las misiones con estrella de oro
+TEXT_ADDON_16785	Misión en curso
+TEXT_ADDON_16787	Puntaje actual
+TEXT_ADDON_16788	Requisito de estrella de plata
+TEXT_ADDON_16789	Requisito de estrella de oro
+TEXT_ADDON_16790	Progreso de la misión
+TEXT_ADDON_16792	<num(lnum1)>:<sec(lnum2)> o más restantes
+TEXT_ADDON_16794	Cosmopouch
+TEXT_ADDON_16795	Cosmic Crafting Log
+TEXT_ADDON_16796	Stellar Reduction
+TEXT_ADDON_16799	ALERTA ROJA
+TEXT_ADDON_16807	No se pueden retomar las misiones provisionales abandonadas.<br>Completa otra misión para retomarlas.
+TEXT_ADDON_16808	<colortype(506)><edgecolortype(507)>※Ten en cuenta que, si abandonas una misión provisional,<br>no la puedes retomar enseguida.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_16811	COMPLETADO
+TEXT_ADDON_16814	Desbloquea Cosmic Research hablando con <sheet(ENpcResident,lnum2,0)> <if(<sheet(PlaceName,lnum1,1)>,<switch(<sheet(PlaceName,lnum1,1)>,en ,en )>,en )><ennoun(PlaceName,2,lnum1,2,1)>.
+TEXT_ADDON_16815	Alerta roja
+TEXT_ADDON_16818	Progreso: <num(lnum1)>%
+TEXT_ADDON_16819	Cosmic Class Tracker
+TEXT_ADDON_16820	Inscripción a Mech Ops
+TEXT_ADDON_16823	Por ahora no hay órdenes de mech ops.
+TEXT_ADDON_16824	Resumen de la operación
+TEXT_ADDON_16825	Funciones del mech
+TEXT_ADDON_16826	Estas acciones están disponibles<br>para los pilotos durante la operación.
+TEXT_ADDON_16827	<num(lnum1)> s para el cierre
+TEXT_ADDON_16829	Postularse como piloto
+TEXT_ADDON_16830	Las solicitudes de piloto se consiguen con <sheet(ENpcResident,lnum2,0)><br>a cambio de <ennoun(Item,3,lnum1,2,1)>.
+TEXT_ADDON_16831	Cancelar la solicitud
+TEXT_ADDON_16832	¡Pilotos elegidos!<br>Despegue en <num(lnum1)>:<sec(lnum2)> s.
+TEXT_ADDON_16833	Mechs desplegados.<br><num(lnum1)>:<sec(lnum2)> s para que termine la operación.
+TEXT_ADDON_16834	Solicitud de piloto
+TEXT_ADDON_16835	Confirmación de piloto
+TEXT_ADDON_16838	¡Solicitud de piloto aceptada!
+TEXT_ADDON_16839	Abordar
+TEXT_ADDON_16844	Por apoyar las mech ops, aumentan las recompensas de créditos. Bonificación restante: <num(lnum1)>/20
+TEXT_ADDON_16845	Lugar: <headall(<ennoun(PlaceName,2,lnum1,2,1)>)>
+TEXT_ADDON_16853	Todas las disciplinas
+TEXT_ADDON_16854	Ver logros
+TEXT_ADDON_16856	Vidriera
+TEXT_ADDON_16857	Brazos cruzados
+TEXT_ADDON_16859	Modelo de pasarela
+TEXT_ADDON_16860	Una mano en la cadera
+TEXT_ADDON_16861	Las dos manos en la cadera
+TEXT_ADDON_16862	Completa <string(lstr1)> (<num(lnum3)>/<num(lnum2)>)
+TEXT_ADDON_16863	Completa <string(lstr1)> con estrella de oro (<num(lnum3)>/<num(lnum2)>)
+TEXT_ADDON_16864	Misión encadenada disponible
+TEXT_ADDON_16865	No hay datos de las misiones pendientes.
+TEXT_ADDON_16866	Se necesitan coleccionables<if([lnum1>0], y Stellar Reduction,)>
+TEXT_ADDON_16867	<colortype(508)><edgecolortype(509)>Quest Sync<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_16868	¿Empezar la misión elegida?
+TEXT_ADDON_16869	¿Retirarte y renunciar a tu puesto de piloto?<br><br><colortype(500)><edgecolortype(501)>※Ten en cuenta que perderás tu solicitud de piloto aunque te retires.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_16870	Tienes una inscripción pendiente en el Duty Finder. ¿Seguro que quieres enviar una solicitud de piloto?<br><br><colortype(500)><edgecolortype(501)>※Si te eligen como piloto, se cancelará la inscripción.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_16871	Misiones encadenadas
+TEXT_ADDON_16872	Misiones con restricción de horario
+TEXT_ADDON_16873	Misiones con restricción de clima
+TEXT_ADDON_16874	Requisitos<br>・Hora de Eorzea:<br>　<sec(lnum1)>:<sec(lnum2)> - <sec(lnum3)>:<sec(lnum4)>
+TEXT_ADDON_16875	Requisitos<br>・Clima: <string(lstr1)>
+TEXT_ADDON_16876	Si sales del lugar de la misión, perderás tu puesto de piloto y bajarás de tu mech. También se reiniciarán tus aportes a la misión.<br>¿Seguro que quieres continuar?
+TEXT_ADDON_16879	Lunar Development Initiative
+TEXT_ADDON_16880	Phaenna Development Initiative
+TEXT_ADDON_16881	Oizys Development Initiative
+TEXT_ADDON_16882	Auxesia Development Initiative
+TEXT_ADDON_16883	Progreso actual: <head(<string(lstr1)>)> espera más desarrollo con las stellar missions.
+TEXT_ADDON_16884	Progreso actual: se preparan los proyectos. Espera las oportunidades de reclutamiento.
+TEXT_ADDON_16885	Progreso actual: instalaciones en construcción.
+TEXT_ADDON_16886	Progreso actual: hay proyectos para completar.
+TEXT_ADDON_16887	Progreso actual: construcción de las instalaciones terminada.
+TEXT_ADDON_16888	Progreso actual: <head(<string(lstr1)>)> completado.
+TEXT_ADDON_16889	El próximo proyecto empieza en <if([lnum1>0],<num(lnum1)> h ,)><if([lnum2>0],<num(lnum2)> min,<if([lnum1>0],,menos de 1 minuto)>)> [<settime(lnum3)><if([gnum77==3],<num(t_day)>/<num(t_mon)>,<num(t_mon)>/<num(t_day)>)> <num(t_hour)>:<sec(t_min)>]
+TEXT_ADDON_16890	El proyecto termina en <if([lnum1>0],<num(lnum1)> h ,)><if([lnum2>0],<num(lnum2)> min,<if([lnum1>0],,menos de 1 minuto)>)> [<settime(lnum3)><if([gnum77==3],<num(t_day)>/<num(t_mon)>,<num(t_mon)>/<num(t_day)>)> <num(t_hour)>:<sec(t_min)>]
+TEXT_ADDON_16891	Proyecto en curso
+TEXT_ADDON_16892	Todas las instalaciones completadas
+TEXT_ADDON_16893	Fijar una alarma.
+TEXT_ADDON_16894	Registro de desarrollo
+TEXT_ADDON_16895	Registro en video
+TEXT_ADDON_16896	¿Reproducir el video?<br><colortype(506)><edgecolortype(507)>※Si el proyecto de infraestructura actual avanza mientras ves esta cinemática, puede que no veas los resultados en tiempo real.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_16899	Puntaje actual: <kilo(lnum1,\,)><br>Requisito de estrella de plata: <kilo(lnum2,\,)><br>Requisito de estrella de oro: <kilo(lnum3,\,)>
+TEXT_ADDON_16900	Puntaje actual: <kilo(lnum1,\,)>. Puntaje máximo: <kilo(lnum2,\,)>
+TEXT_ADDON_16901	Requisito de estrella de plata: <sec(lnum1)>:<sec(lnum2)> restantes
+TEXT_ADDON_16902	Requisito de estrella de oro: <sec(lnum1)>:<sec(lnum2)> restantes
+TEXT_ADDON_16904	Phaenna
+TEXT_ADDON_16905	Oizys
+TEXT_ADDON_16906	Auxesia
+TEXT_ADDON_16908	Suministros
+TEXT_ADDON_16909	Collectability:
+TEXT_ADDON_16912	Stellar Opportunity
+TEXT_ADDON_16915	¿Pagar <kilo(lnum2,\,)> <ennoun(Item,3,lnum1,2,1)> para sacar otra cosmic fortune?<br>(Créditos restantes: <kilo(lnum3,\,)>)
+TEXT_ADDON_16918	Ruleta
+TEXT_ADDON_16919	<colortype(500)><edgecolortype(501)>※El tiempo límite empieza a correr al empezar.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_16920	<colortype(506)><edgecolortype(507)>※Como tu nivel de objeto está por debajo del promedio, esta misión será más difícil.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_16923	Se reinicia en <num(lnum1)> h <num(lnum2)> min [<settime(lnum3)><if([gnum77==3],<num(t_day)>/<num(t_mon)>,<num(t_mon)>/<num(t_day)>)> <num(t_hour)>:<sec(t_min)>]
+TEXT_ADDON_16924	<num(lnum1)> <if([lnum1==1],punto,puntos)> de éxitos diarios
+TEXT_ADDON_16926	Diario
+TEXT_ADDON_16930	Éxitos diarios: <num(lnum1)> pts
+TEXT_ADDON_16931	Completaste todos los éxitos diarios.
+TEXT_ADDON_16933	Solicitud de piloto pendiente
+TEXT_ADDON_16934	¿Canjear <ennoun(Item,1,lnum1,1,1)> para sacar otra Big Bang fortune?<br>(Boletos restantes: <num(lnum2)>)
+TEXT_ADDON_16935	Información de Cosmic Research
+TEXT_ADDON_16937	Investigación entregada
+TEXT_ADDON_16939	Velocidad de análisis de datos hasta <string(lstr1)> de cada clase +<num(lnum2)>%
+TEXT_ADDON_16940	Stellar Roulette
+TEXT_ADDON_16942	No se puede mostrar. La clase no está desbloqueada.
+TEXT_ADDON_16943	Análisis de <headall(<string(lstr1)>)> actual: <headall(<string(lstr2)>)> <num(lnum3)>
+TEXT_ADDON_16944	Velocidad de análisis de datos de <string(lstr1)> +<num(lnum2)>%
+TEXT_ADDON_16945	Tarea de análisis actual
+TEXT_ADDON_16947	Se completó el análisis de datos de <string(lstr1)>.
+TEXT_ADDON_16948	Conjunto de datos
+TEXT_ADDON_16949	Análisis actual/necesario
+TEXT_ADDON_16952	nivel principiante
+TEXT_ADDON_16953	nivel intermedio
+TEXT_ADDON_16954	nivel avanzado
+TEXT_ADDON_16955	nivel experto
+TEXT_ADDON_16956	iniciativa de desarrollo lunar
+TEXT_ADDON_16957	iniciativa de desarrollo de Phaenna
+TEXT_ADDON_16958	iniciativa de desarrollo de Oizys
+TEXT_ADDON_16959	iniciativa de desarrollo de Auxesia
+TEXT_ADDON_16962	No hay misiones disponibles.
+TEXT_ADDON_16963	No hay misiones críticas.
+TEXT_ADDON_16964	Las solicitudes de piloto se consiguen con <sheet(ENpcResident,lnum2,0)> (X:<num(lnum3)> Y:<num(lnum4)>) a cambio de <ennoun(Item,3,lnum1,2,1)>.
+TEXT_ADDON_16965	¿Abandonar la misión?
+TEXT_ADDON_16969	¡Ya!
+TEXT_ADDON_16974	Reclutando apoyo en tierra: <num(lnum1)>:<sec(lnum2)>
+TEXT_ADDON_16975	Mech Ops en curso: <num(lnum1)>:<sec(lnum2)><if([lnum3<0],,<br>Progreso: <num(lnum3)>%)>
+TEXT_ADDON_16981	Recompensa de piloto de mech
+TEXT_ADDON_16982	PREPARADOS PARA EL DESPEGUE
+TEXT_ADDON_16983	MECH OP INICIADA
+TEXT_ADDON_16984	¿Retirar la solicitud de piloto?
+TEXT_ADDON_16985	Searchingway
+TEXT_ADDON_16986	<sheet(PlaceName,<sheet(TerritoryType,lnum1,5)>,0)> <if([lnum2>0],<if([lnum2>9],A,<switch(lnum2,,,,,,,,,)>)>,0)>. (<kilo(lnum3,\,)>) (instancia actual)
+TEXT_ADDON_16987	No hay datos de las misiones sin completar.
+TEXT_ADDON_16990	Las mech ops son misiones especiales en las que se usan poderosos trajes de vacío.<br><br>¿Quieres ver la guía de exploración?
+TEXT_ADDON_16991	¿Enviar una solicitud de piloto?<br><br><colortype(500)><edgecolortype(501)>※Si te eligen como piloto, la solicitud no se devuelve.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_16993	Puntos de éxitos diarios
+TEXT_ADDON_16995	Las stellar missions son pedidos de artesanía y recolección que publica la iniciativa.<br><br>¿Quieres ver la guía de exploración?
+TEXT_ADDON_16996	La cosmic research se basa en reunir datos sobre la Cosmic Exploration Initiative.<br><br>¿Quieres ver la guía de exploración?
+TEXT_ADDON_16997	Los stellar successes son los logros obtenidos en la exploración cósmica.<br><br>¿Quieres ver la guía de exploración?
+TEXT_ADDON_16998	Tu nivel de objeto está por debajo del promedio para la misión elegida. Para conseguir más fácil una estrella de oro, puedes comprar equipo a <sheet(ENpcResident,lnum2,0)> en <ennoun(PlaceName,2,lnum1,2,1)>.
+TEXT_ADDON_16999	No mostrar este mensaje hasta el próximo inicio de sesión.

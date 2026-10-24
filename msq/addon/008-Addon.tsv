@@ -1,0 +1,285 @@
+key	text
+TEXT_ADDON_4000	System Configuration
+TEXT_ADDON_4002	<num(lnum1)> fps
+TEXT_ADDON_4006	Algunos cambios solo se aplican al presionar Aplicar.
+TEXT_ADDON_4011	Sonido
+TEXT_ADDON_4012	Gráficos
+TEXT_ADDON_4013	Mouse
+TEXT_ADDON_4014	Mando
+TEXT_ADDON_4019	Limitar la tasa de cuadros a 30 fps <if([gnum75==7],\(modo TV\),)>.
+TEXT_ADDON_4020	Ajustes de pantalla
+TEXT_ADDON_4021	Pantalla principal
+TEXT_ADDON_4022	※Hay que reiniciar.
+TEXT_ADDON_4023	Modo de pantalla
+TEXT_ADDON_4024	Ventana
+TEXT_ADDON_4025	Ventana sin bordes
+TEXT_ADDON_4026	Pantalla completa
+TEXT_ADDON_4027	Resolución
+TEXT_ADDON_4028	Presets
+TEXT_ADDON_4030	Ancho
+TEXT_ADDON_4031	Alto
+TEXT_ADDON_4032	Tasa de cuadros
+TEXT_ADDON_4034	60 fps (frecuencia 1/1)
+TEXT_ADDON_4035	30 fps (frecuencia 1/2)
+TEXT_ADDON_4036	Limitar la tasa de cuadros cuando el cliente no está activo.
+TEXT_ADDON_4037	Corrección gamma en pantalla completa
+TEXT_ADDON_4040	Ajustes de sonido
+TEXT_ADDON_4041	Reproducir sonidos cuando la ventana no está activa.
+TEXT_ADDON_4042	Reproducir música al ir montado.
+TEXT_ADDON_4043	Posición de escucha
+TEXT_ADDON_4044	Cámara
+TEXT_ADDON_4046	Ajustes de volumen
+TEXT_ADDON_4047	Volumen general
+TEXT_ADDON_4048	BGM
+TEXT_ADDON_4049	Efectos de sonido
+TEXT_ADDON_4050	Voces
+TEXT_ADDON_4051	Sonidos del sistema
+TEXT_ADDON_4052	Sonidos ambientales
+TEXT_ADDON_4053	Otros PC
+TEXT_ADDON_4054	Frecuencia de la pantalla principal
+TEXT_ADDON_4055	60 fps
+TEXT_ADDON_4056	Reproducir sonidos del sistema mientras esperas el Duty Finder.
+TEXT_ADDON_4057	Nivel recomendado: × no se ve / ◯ apenas se ve
+TEXT_ADDON_4058	Corrección gamma
+TEXT_ADDON_4059	30 fps
+TEXT_ADDON_4060	Ajustes gráficos
+TEXT_ADDON_4062	Activa el renderizado HDR y mejora la calidad gráfica general.
+TEXT_ADDON_4063	No dibujar los objetos que no se ven. (Occlusion Culling)
+TEXT_ADDON_4064	Usar modelos de poco detalle en los objetos lejanos. (LOD)
+TEXT_ADDON_4065	Cargar los datos LOD solo cuando haga falta. (LOD Streaming)
+TEXT_ADDON_4066	Suavizado de bordes (antialiasing)
+TEXT_ADDON_4067	Calidad de la iluminación transparente
+TEXT_ADDON_4068	Calidad del pasto
+TEXT_ADDON_4069	Calidad de las sombras
+TEXT_ADDON_4070	Usar modelos de poco detalle en las sombras. (LOD)
+TEXT_ADDON_4071	Sombras
+TEXT_ADDON_4072	Resolución de las sombras
+TEXT_ADDON_4073	Cascadas de sombras
+TEXT_ADDON_4074	Suavizado de sombras
+TEXT_ADDON_4075	Detalle de las texturas
+TEXT_ADDON_4076	Filtrado de texturas
+TEXT_ADDON_4077	Filtrado anisotrópico
+TEXT_ADDON_4079	Oscurecer de forma natural los bordes de la pantalla. (Limb Darkening)
+TEXT_ADDON_4080	Desenfocar alrededor de los objetos en movimiento. (Radial Blur)
+TEXT_ADDON_4081	Reflejos en tiempo real
+TEXT_ADDON_4082	Oclusión ambiental en espacio de pantalla
+TEXT_ADDON_4083	Destello
+TEXT_ADDON_4084	Cinemáticas
+TEXT_ADDON_4085	Activar la profundidad de campo.
+TEXT_ADDON_4086	Efectos de combate
+TEXT_ADDON_4090	Ajustes del mouse
+TEXT_ADDON_4091	Permitir cambiar la resolución arrastrando con el mouse.
+TEXT_ADDON_4092	Limitar el mouse a la ventana del juego.
+TEXT_ADDON_4093	Sensibilidad de la cámara con el mouse
+TEXT_ADDON_4094	Consultas de objetivo automático.
+TEXT_ADDON_4095	Iluminación de los personajes
+TEXT_ADDON_4096	Limitar los fps al estar ausente.
+TEXT_ADDON_4097	Ajustes de resolución de la interfaz
+TEXT_ADDON_4098	Resolución de la interfaz
+TEXT_ADDON_4100	Ajustes de <switchplatform(1)>
+TEXT_ADDON_4101	Activar el mando.
+TEXT_ADDON_4102	Dispositivo:
+TEXT_ADDON_4103	Mantener el mando activo cuando el cliente no está activo.
+TEXT_ADDON_4104	Activar la vibración.
+TEXT_ADDON_4105	Botones de confirmar/cancelar
+TEXT_ADDON_4106	Invertir los ejes de la cámara con el stick.
+TEXT_ADDON_4107	Tipo de mando
+TEXT_ADDON_4108	Personalización de <switchplatform(1)>
+TEXT_ADDON_4109	Rivales de PvP
+TEXT_ADDON_4110	Calibración
+TEXT_ADDON_4111	Activar las funciones de DualSense / DUALSHOCK 4.
+TEXT_ADDON_4112	<icon(8)>: Confirmar  /  <icon(9)>: Cancelar (estándar japonés)
+TEXT_ADDON_4113	<icon(8)>: Cancelar  /  <icon(9)>: Confirmar (estándar global)
+TEXT_ADDON_4114	Sensibilidad del stick
+TEXT_ADDON_4115	Probar
+TEXT_ADDON_4117	Restablecer
+TEXT_ADDON_4118	No se encontró el dispositivo
+TEXT_ADDON_4120	Ajustes de idioma
+TEXT_ADDON_4121	Subtítulos de las cinemáticas
+TEXT_ADDON_4122	Audio de las cinemáticas
+TEXT_ADDON_4123	※Según el idioma elegido, el audio puede no coincidir con los subtítulos.
+TEXT_ADDON_4124	Los mandos compatibles pueden usar la vibración y reproducir efectos de sonido. <switch(gnum78,\(<icon(63)>Esta función necesita DirectX 11.\),,\(<icon(63)>Esta función solo está disponible en Windows.\))>
+TEXT_ADDON_4125	Resolución del mapa
+TEXT_ADDON_4126	Volumen de los efectos del jugador
+TEXT_ADDON_4131	Actividad reciente
+TEXT_ADDON_4132	Miembros en línea y en su Home World
+TEXT_ADDON_4134	No tienes permiso para editar el tablero de la compañía.
+TEXT_ADDON_4135	No hay mensajes.
+TEXT_ADDON_4140	Volver a equipar el equipo anterior.
+TEXT_ADDON_4141	Crear un gear set nuevo.
+TEXT_ADDON_4142	Mostrar la ayuda de los gear sets.
+TEXT_ADDON_4143	Equipar set
+TEXT_ADDON_4144	Datos del equipo no disponibles.
+TEXT_ADDON_4145	No puedes crear más gear sets.
+TEXT_ADDON_4146	Elige un gear set.
+TEXT_ADDON_4147	Ya estás usando este gear set.
+TEXT_ADDON_4148	No tienes gear sets guardados.
+TEXT_ADDON_4151	Algunos
+TEXT_ADDON_4155	Física del movimiento
+TEXT_ADDON_4160	Completa
+TEXT_ADDON_4161	Simple
+TEXT_ADDON_4164	Activar la resolución dinámica.
+TEXT_ADDON_4165	Ajusta la resolución automáticamente para el mejor rendimiento.<br><if([gnum78==3],<icon(63)>Por ahora no está disponible en la versión para Mac de FINAL FANTASY XIV.,※Versión beta)>
+TEXT_ADDON_4166	Umbral de tasa de cuadros
+TEXT_ADDON_4168	Escala de resolución 3D
+TEXT_ADDON_4169	Reescalado gráfico
+TEXT_ADDON_4174	Ajustes de <switchplatform(21)>
+TEXT_ADDON_4177	Otros ajustes
+TEXT_ADDON_4178	Ajustes de accesibilidad
+TEXT_ADDON_4179	Ajustes del tema
+TEXT_ADDON_4180	Proyectar sombras
+TEXT_ADDON_4182	Restablecer valores predeterminados
+TEXT_ADDON_4186	Muestra
+TEXT_ADDON_4187	Oscuro
+TEXT_ADDON_4188	Claro
+TEXT_ADDON_4189	Elige el esquema de colores que prefieras. Algunos elementos de la interfaz no cambian.<br>※Tienes que volver a iniciar sesión para ver los cambios.
+TEXT_ADDON_4190	¿Restablecer todos los ajustes a sus valores predeterminados?
+TEXT_ADDON_4191	¿Restablecer todos los ajustes de la categoría a sus valores predeterminados?
+TEXT_ADDON_4195	¿Aplicar esta resolución?<br>Los ajustes se restablecerán en <num(lnum1)> <if([lnum1==1],segundo,segundos)>.
+TEXT_ADDON_4200	Máximo
+TEXT_ADDON_4202	Estándar
+TEXT_ADDON_4205	Los ajustes gráficos más altos posibles. Recomendado solo para PC de gama alta.
+TEXT_ADDON_4206	Ajustes gráficos optimizados para PC que cumplen los requisitos recomendados.
+TEXT_ADDON_4207	Ajustes que dan el mejor rendimiento sin sacrificar la calidad gráfica.
+TEXT_ADDON_4208	Los ajustes están personalizados.
+TEXT_ADDON_4216	Mostrar propios y del fondo
+TEXT_ADDON_4217	Mostrar del fondo
+TEXT_ADDON_4220	Un ejemplo del tema oscuro.
+TEXT_ADDON_4221	Un ejemplo del tema claro.
+TEXT_ADDON_4222	Un ejemplo del tema Classic FF.
+TEXT_ADDON_4223	Un ejemplo del tema Clear Blue.
+TEXT_ADDON_4224	Un ejemplo del tema Clear White.
+TEXT_ADDON_4225	Un ejemplo del tema Clear Green.
+TEXT_ADDON_4226	Un ejemplo del tema Clear Grey.
+TEXT_ADDON_4227	Un ejemplo del tema Clear Pink.
+TEXT_ADDON_4234	Classic FF
+TEXT_ADDON_4235	Clear Blue
+TEXT_ADDON_4236	Clear White
+TEXT_ADDON_4237	Clear Green
+TEXT_ADDON_4238	Clear Grey
+TEXT_ADDON_4239	Clear Pink
+TEXT_ADDON_4246	Mostrar propios
+TEXT_ADDON_4250	Fuerte
+TEXT_ADDON_4251	Débil
+TEXT_ADDON_4259	ABXY (tipo 3)
+TEXT_ADDON_4260	ABXY (tipo 1)
+TEXT_ADDON_4261	×○□△ (tipo 1)
+TEXT_ADDON_4262	×○□△ + panel táctil (tipo 2)
+TEXT_ADDON_4263	×○□△ + panel táctil (tipo 3)
+TEXT_ADDON_4264	ABXY (tipo 2)
+TEXT_ADDON_4265	Ajustar al cliente
+TEXT_ADDON_4276	Muy alto
+TEXT_ADDON_4281	JPG (calidad estándar)
+TEXT_ADDON_4286	Simplificado
+TEXT_ADDON_4300	Calibrar
+TEXT_ADDON_4305	Presiona Calibrar para empezar.
+TEXT_ADDON_4307	¿Guardar estos ajustes?<br>(Presiona <icon(12)> + <icon(19)> para guardar).
+TEXT_ADDON_4308	No se encuentra el dispositivo.
+TEXT_ADDON_4310	Si sales ahora, se perderán todos los cambios. ¿Continuar?
+TEXT_ADDON_4313	Activar POV
+TEXT_ADDON_4314	Desactiva esta opción si no puedes asignar botones.
+TEXT_ADDON_4315	Coreano
+TEXT_ADDON_4320	<icon(20)> Inclina el stick izquierdo hacia arriba.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4321	<icon(20)> Inclina el stick izquierdo hacia abajo.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4322	<icon(20)> Inclina el stick izquierdo a la izquierda.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4323	<icon(20)> Inclina el stick izquierdo a la derecha.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4324	<icon(23)> Inclina el stick derecho hacia arriba.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4325	<icon(23)> Inclina el stick derecho hacia abajo.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4326	<icon(23)> Inclina el stick derecho a la izquierda.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4327	<icon(23)> Inclina el stick derecho a la derecha.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4328	<icon(1)> Presiona <if([gnum75>0],el botón de dirección arriba,arriba en la cruceta)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4329	<icon(2)> Presiona <if([gnum75>0],el botón de dirección abajo,abajo en la cruceta)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4330	<icon(3)> Presiona <if([gnum75>0],el botón de dirección izquierda,izquierda en la cruceta)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4331	<icon(4)> Presiona <if([gnum75>0],el botón de dirección derecha,derecha en la cruceta)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4332	Presiona el botón <icon(11)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4333	Presiona el botón <icon(8)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4334	Presiona el botón <icon(9)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4335	Presiona el botón <icon(10)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4336	Presiona el gatillo <icon(12)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4337	Presiona el gatillo <icon(14)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4338	Presiona el gatillo <icon(13)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4339	Presiona el gatillo <icon(15)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4340	Presiona el botón <icon(19)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4341	Presiona el botón <icon(18)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4342	Presiona el botón <icon(16)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4343	Presiona el botón <icon(17)>.<br>(<num(lnum1)>/24)
+TEXT_ADDON_4352	Reasignar equipo
+TEXT_ADDON_4353	Reasignar número de set
+TEXT_ADDON_4354	Cambiar nombre del set
+TEXT_ADDON_4355	Borrar set
+TEXT_ADDON_4356	¿Reasignar el equipo actual a “<string(lstr1)>”?
+TEXT_ADDON_4357	¿Borrar “<string(lstr1)>”?
+TEXT_ADDON_4358	¿Equipar el equipo anterior?
+TEXT_ADDON_4359	<sheet(ClassJob,lnum1,1)> (Nv. <num(lnum2)>)
+TEXT_ADDON_4360	Mostrar set
+TEXT_ADDON_4361	Faltaba el arma principal indicada en tu Armoury Chest.
+TEXT_ADDON_4362	Faltaban uno o más objetos en tu Armoury Chest.
+TEXT_ADDON_4363	Uno o más objetos no tenían el color indicado.
+TEXT_ADDON_4364	No se pudieron equipar uno o más objetos.
+TEXT_ADDON_4365	<sheet(ClassJob,lnum1,1)> (Nv. de objeto <num(lnum2)>)
+TEXT_ADDON_4366	Buscar objetos coincidentes
+TEXT_ADDON_4367	<icon2(10)> Subcomandos <icon2(11)> Buscar objetos coincidentes
+TEXT_ADDON_4368	Uno o más objetos no tenían engarzada la materia indicada.
+TEXT_ADDON_4369	Uno o más objetos no tenían la apariencia indicada.
+TEXT_ADDON_4370	Restauración de materia
+TEXT_ADDON_4372	I
+TEXT_ADDON_4373	II
+TEXT_ADDON_4374	III
+TEXT_ADDON_4375	IV
+TEXT_ADDON_4379	Buscar objeto
+TEXT_ADDON_4380	Canje de materia agrietada
+TEXT_ADDON_4384	<head(<ennoun(Item,2,lnum1,1,1)>)>, registrado en este gear set, no está en tu Armoury Chest. ¿Reemplazarlo por otro <ennoun(Item,3,lnum1,1,1)>?
+TEXT_ADDON_4385	<head(<ennoun(Item,2,lnum1,1,1)>)>, registrado en este gear set, no está en tu Armoury Chest. ¿Reemplazarlo por <ennoun(Item,1,lnum2,1,1)>?
+TEXT_ADDON_4388	<head(<ennoun(Item,2,lnum1,1,1)>)>, registrado en este gear set, no se puede equipar. ¿Reemplazarlo por <ennoun(Item,1,lnum2,1,1)>?
+TEXT_ADDON_4392	Subir set
+TEXT_ADDON_4393	Bajar set
+TEXT_ADDON_4394	Vincular a un Glamour Plate
+TEXT_ADDON_4395	Cambiar el Glamour Plate vinculado
+TEXT_ADDON_4396	Quitar el vínculo con el Glamour Plate
+TEXT_ADDON_4397	Cross-world Linkshell [1]
+TEXT_ADDON_4399	Anuncios del PvP Team
+TEXT_ADDON_4400	Extracción de materia
+TEXT_ADDON_4409	No tienes objetos de los que se pueda extraer materia.
+TEXT_ADDON_4410	El spiritbond de un objeto tiene que estar completo para extraerle materia.
+TEXT_ADDON_4411	Editar retrato
+TEXT_ADDON_4413	Extraer de un objeto único o no comerciable.
+TEXT_ADDON_4414	Extraer de un objeto con materia.
+TEXT_ADDON_4415	Al extraer materia de un objeto, su spiritbond baja al 1%. ¿Continuar?
+TEXT_ADDON_4418	Llevas este objeto equipado. ¿Seguro que quieres extraerle materia?
+TEXT_ADDON_4432	No tienes materia que se pueda engarzar.
+TEXT_ADDON_4433	No tienes equipo de esta categoría en el que se pueda engarzar materia.
+TEXT_ADDON_4434	<colortype(506)><edgecolortype(507)>No se pudo engarzar la materia.<br>¿Volver a intentarlo con los mismos materiales?<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_4435	Extraer materia
+TEXT_ADDON_4436	Engarzar
+TEXT_ADDON_4437	Pedir engarce
+TEXT_ADDON_4447	Este engarce va a funcionar.
+TEXT_ADDON_4448	Es posible que este engarce falle.
+TEXT_ADDON_4449	Hay bastante probabilidad de que este engarce falle.
+TEXT_ADDON_4450	Hay mucha probabilidad de que este engarce falle.
+TEXT_ADDON_4451	El nivel del objeto elegido es muy bajo para aprovechar todo el potencial de la materia.
+TEXT_ADDON_4452	No tienes el catalizador adecuado para completar el engarce.
+TEXT_ADDON_4453	No se puede engarzar la materia. La probabilidad de éxito es 0%.
+TEXT_ADDON_4454	Tienes que ser Disciple of the Hand de nivel <num(lnum1)> para engarzar esta materia.
+TEXT_ADDON_4455	No puedes engarzar más materia en este objeto.
+TEXT_ADDON_4456	No tienes el catalizador adecuado. Se usará uno de calidad mayor a la necesaria.
+TEXT_ADDON_4460	Pedido de engarce de materia
+TEXT_ADDON_4462	Fijar recompensa
+TEXT_ADDON_4464	Enviar pedido
+TEXT_ADDON_4466	Retirar pedido
+TEXT_ADDON_4470	¿Enviar el pedido de engarce?
+TEXT_ADDON_4471	¿Aceptar el pedido de engarce?
+TEXT_ADDON_4474	Atención: no vas a poder recibir todo el gil.<br><br>¿Quieres continuar de todos modos?
+TEXT_ADDON_4475	Le estás encargando a otro jugador que engarce materia en un coleccionable. ¿Continuar?
+TEXT_ADDON_4477	¿Seguro que quieres vender este objeto?
+TEXT_ADDON_4478	Pago: <kilo(lnum1,\,)> <ennoun(Item,3,lnum2,lnum1,1)>
+TEXT_ADDON_4479	Le estás encargando a otro jugador que engarce materia adicional en un objeto. Si falla, pierdes la materia y no se devuelve la tarifa de engarce. ¿Continuar?
+TEXT_ADDON_4480	Vas a intentar engarzar materia adicional en un objeto. Si fallas, pierdes la materia. ¿Continuar?
+TEXT_ADDON_4483	¿Restaurar <ennoun(Item,2,lnum1,1,1)> a <ennoun(Item,1,lnum2,1,1)>?
+TEXT_ADDON_4484	¿Restaurar la materia agrietada engarzada en este equipo?
+TEXT_ADDON_4485	Retiro de materia
+TEXT_ADDON_4492	Ninguno de tus objetos tiene materia engarzada.
+TEXT_ADDON_4493	No tienes equipo con materia agrietada engarzada.
+TEXT_ADDON_4494	No tienes materia agrietada.
+TEXT_ADDON_4495	La materia se pierde al retirarla. ¿Continuar?
+TEXT_ADDON_4496	Tarifa de retiro: <kilo(lnum1,\,)>
+TEXT_ADDON_4499	Vas a engarzar materia en un coleccionable. ¿Continuar?

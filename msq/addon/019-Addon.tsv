@@ -1,0 +1,189 @@
+key	text
+TEXT_ADDON_9500	Canje de MGP
+TEXT_ADDON_9502	Tasa de cambio
+TEXT_ADDON_9503	1 MGP = <num(lnum1)>
+TEXT_ADDON_9504	MGP pedido
+TEXT_ADDON_9505	Gil necesario
+TEXT_ADDON_9506	Atención:<br>No se puede cambiar gil por MGP si la cantidad pedida te deja con más de <kilo(lnum1,\,)>.<br>No se puede cambiar MGP por gil.<br>
+TEXT_ADDON_9509	¿Cambiar <kilo(lnum1,\,)> gil por <kilo(lnum2,\,)> MGP?
+TEXT_ADDON_9510	Comprador de cartas
+TEXT_ADDON_9512	Carta
+TEXT_ADDON_9515	En el mazo
+TEXT_ADDON_9516	No tienes cartas para vender.
+TEXT_ADDON_9519	<colortype(506)><edgecolortype(507)>Puedes vender todas las cartas que quieras, pero se pierde lo que supere el máximo de MGP permitido por persona.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_9522	MGP/máx.
+TEXT_ADDON_9525	<kilo(lnum1,\,)> MGP
+TEXT_ADDON_9526	Entrando a una partida...
+TEXT_ADDON_9527	Confirmar los datos de emparejamiento del Battlehall
+TEXT_ADDON_9528	Partida de Triple Triad: partida normal
+TEXT_ADDON_9529	Triple Triad
+TEXT_ADDON_9531	Inscribiendo en la partida. Espera.
+TEXT_ADDON_9533	¡Partida lista!
+TEXT_ADDON_9538	<colortype(500)><edgecolortype(501)>Si te retiras de una partida tres veces en un día, ya sea con el botón de retirarse o dejando que se agote el tiempo, te expulsarán del Battlehall y recibirás una penalización que restringe por un tiempo el Duty Finder y el Raid Finder.<edgecolortype(0)><colortype(0)><br>¿Continuar?
+TEXT_ADDON_9539	Confirmando al rival...
+TEXT_ADDON_9541	Esperando que el rival elija una regla...
+TEXT_ADDON_9542	El rival elegirá una regla.
+TEXT_ADDON_9544	Empezar la partida con estas reglas.
+TEXT_ADDON_9545	Esperando al rival...
+TEXT_ADDON_9547	Cancelar la inscripción.
+TEXT_ADDON_9549	Torneo de Triple Triad: emparejamiento del Battlehall
+TEXT_ADDON_9550	Lord of Verminion
+TEXT_ADDON_9551	Entrando a una partida...
+TEXT_ADDON_9562	¿Retirarte de la partida?
+TEXT_ADDON_9564	Verminion Challenge
+TEXT_ADDON_9565	Batalla contra jugadores (RP)
+TEXT_ADDON_9566	Batalla contra maestros
+TEXT_ADDON_9567	Batalla contra maestros (difícil)
+TEXT_ADDON_9568	Batalla contra maestros (extrema)
+TEXT_ADDON_9570	Batalla contra jugadores (sin RP)
+TEXT_ADDON_9571	Torneo de maestros
+TEXT_ADDON_9575	Ganaste
+TEXT_ADDON_9576	Perdiste
+TEXT_ADDON_9581	Duración de la partida: <num(lnum1)>:<sec(lnum2)>
+TEXT_ADDON_9583	RP
+TEXT_ADDON_9587	Victorias en torneos
+TEXT_ADDON_9593	VEL
+TEXT_ADDON_9594	Hotbar de minions
+TEXT_ADDON_9595	Elige los minions que quieres llamar durante la partida y ponlos en la hotbar.
+TEXT_ADDON_9596	Eficaz contra Shields.
+TEXT_ADDON_9597	Eficaz contra Gates.
+TEXT_ADDON_9598	Eficaz contra Arcana Stones.
+TEXT_ADDON_9599	Eficaz contra Search Eyes.
+TEXT_ADDON_9600	Editor de la hotbar de minions
+TEXT_ADDON_9605	ATQ
+TEXT_ADDON_9606	DEF
+TEXT_ADDON_9610	Un objetivo
+TEXT_ADDON_9611	Varios objetivos
+TEXT_ADDON_9612	Fortalezas
+TEXT_ADDON_9613	Acción especial: 
+TEXT_ADDON_9614	Abrir la Minion Guide.
+TEXT_ADDON_9615	Ordenar los minions.
+TEXT_ADDON_9624	Quitar de la hotbar
+TEXT_ADDON_9626	Lista de batallas
+TEXT_ADDON_9631	Critter
+TEXT_ADDON_9632	Monster
+TEXT_ADDON_9633	Poppet
+TEXT_ADDON_9634	Gadget
+TEXT_ADDON_9640	Ataque automático:
+TEXT_ADDON_9644	Acción especial
+TEXT_ADDON_9647	Costo: <if([lnum2==1],???,<num(lnum1)>)>
+TEXT_ADDON_9652	Retirarse
+TEXT_ADDON_9653	<colortype(500)><edgecolortype(501)>Si te retiras, pierdes la partida.<br><br><edgecolortype(0)><colortype(0)><colortype(506)><edgecolortype(507)>※Si juegas contra otro PC, retirarte cuenta para la penalización diaria por retiros de Lord of Verminion.<edgecolortype(0)><colortype(0)><br>¿Continuar?
+TEXT_ADDON_9656	Activar trampa
+TEXT_ADDON_9659	Con el bloqueo puesto, los elementos de la interfaz no se pueden mover ni escalar.
+TEXT_ADDON_9663	Cola
+TEXT_ADDON_9664	Sally Gate
+TEXT_ADDON_9674	Dominio
+TEXT_ADDON_9683	Torneo abierto desde las <settime(lnum1)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> <if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)> hasta las <settime(lnum2)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> <if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>
+TEXT_ADDON_9686	Batallas
+TEXT_ADDON_9687	Victorias
+TEXT_ADDON_9695	Puntos: <num(lnum1)>
+TEXT_ADDON_9696	Capturas: <num(lnum1)> 
+TEXT_ADDON_9698	VS
+TEXT_ADDON_9700	Arcana Stone A
+TEXT_ADDON_9701	Arcana Stone B
+TEXT_ADDON_9702	Arcana Stone C
+TEXT_ADDON_9703	Gate A
+TEXT_ADDON_9704	Gate B
+TEXT_ADDON_9705	Gate C
+TEXT_ADDON_9706	No sientes nada.
+TEXT_ADDON_9707	Sientes algo cerca.
+TEXT_ADDON_9708	Sientes algo muy cerca.
+TEXT_ADDON_9709	¡Está justo debajo de ti!
+TEXT_ADDON_9717	Bonificación de Cactuar
+TEXT_ADDON_9718	Gilded Cactuar
+TEXT_ADDON_9719	Silver Cactuar
+TEXT_ADDON_9720	Bronze Cactuar
+TEXT_ADDON_9721	 x <num(lnum1)> 
+TEXT_ADDON_9727	Bonificación por participar
+TEXT_ADDON_9728	¿Salir de “<string(lstr1)>”?<br><colortype(508)><edgecolortype(509)>※Tu puntaje actual se tendrá en cuenta para la recompensa.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_9729	Puntaje
+TEXT_ADDON_9733	Puntaje final
+TEXT_ADDON_9740	Ruby Bomb
+TEXT_ADDON_9744	Recompensa final
+TEXT_ADDON_9748	Elige tus cartas y arma un mazo.
+TEXT_ADDON_9749	Set de cartas 1: elige una de las opciones disponibles.
+TEXT_ADDON_9750	Set de cartas 2: elige una de las opciones disponibles.
+TEXT_ADDON_9751	Set de cartas 3: elige una de las opciones disponibles.
+TEXT_ADDON_9756	Confirmar mazo
+TEXT_ADDON_9757	Las cartas no se pueden cambiar una vez que empieza la partida.<br>¿Continuar con este mazo?
+TEXT_ADDON_9762	Recompensa por clasificación
+TEXT_ADDON_9763	Recompensa por puntos
+TEXT_ADDON_9770	Ganancias del torneo
+TEXT_ADDON_9773	Ej. <num(lnum1)>
+TEXT_ADDON_9775	Fijar el filtro de visualización.
+TEXT_ADDON_9776	Mostrar todas las cartas
+TEXT_ADDON_9777	Mostrar solo las cartas que tienes
+TEXT_ADDON_9778	Mostrar solo las cartas que no tienes
+TEXT_ADDON_9780	Tutorial de Triple Triad.
+TEXT_ADDON_9786	<head(<sheet(TripleTriadCompetition,lnum1,0)>)><br>Llega a los primeros puestos.
+TEXT_ADDON_9787	Resultado al azar de la compra:<br><sheet(Item,lnum1,9)>
+TEXT_ADDON_9788	Resultado al azar de la tasación:<br><sheet(Item,lnum1,9)>
+TEXT_ADDON_9791	<head(<sheet(ContentFinderCondition,lnum1,43)>)><br>Búsqueda del tesoro de los conejos felices.
+TEXT_ADDON_9793	Clasificación final
+TEXT_ADDON_9794	CAMPEÓN
+TEXT_ADDON_9800	Siguiente
+TEXT_ADDON_9801	Ver mazo.
+TEXT_ADDON_9802	Ver los detalles del personaje.
+TEXT_ADDON_9803	Mazo de <string(lstr1)>
+TEXT_ADDON_9807	Revanchas restantes: <num(lnum1)>
+TEXT_ADDON_9808	Revancha no disponible
+TEXT_ADDON_9809	Confirmando revancha: <num(lnum1)>/<num(lnum2)>
+TEXT_ADDON_9810	Vas a salir del Triple Triad Invitational Parlor. El torneo termina si un solo miembro del grupo rechaza la revancha.<br>¿Continuar?
+TEXT_ADDON_9811	Para jugar la revancha, todos los miembros del grupo tienen que aceptar el desafío. El torneo termina si un solo miembro del grupo la rechaza.<br>¿Continuar?
+TEXT_ADDON_9814	Obtención
+TEXT_ADDON_9815	Resultados de la ronda <num(lnum1)>
+TEXT_ADDON_9818	Nombre del jugador
+TEXT_ADDON_9820	Capturas
+TEXT_ADDON_9824	Enfrentamientos de la ronda <num(lnum1)>
+TEXT_ADDON_9825	Ya se armaron los enfrentamientos de la próxima ronda. Espera mientras los participantes se preparan.
+TEXT_ADDON_9827	Mesa 1
+TEXT_ADDON_9828	Mesa 2
+TEXT_ADDON_9829	Mesa 3
+TEXT_ADDON_9830	Mesa 4
+TEXT_ADDON_9835	Armando el mazo
+TEXT_ADDON_9836	Desconectado
+TEXT_ADDON_9837	VICTORIA
+TEXT_ADDON_9838	DERROTA
+TEXT_ADDON_9839	EMPATE
+TEXT_ADDON_9840	Partida inválida
+TEXT_ADDON_9843	Partida en curso: turno <num(lnum1)>
+TEXT_ADDON_9844	Ver los datos del personaje.
+TEXT_ADDON_9845	¿Listos para empezar la partida?
+TEXT_ADDON_9847	Tu rival estaba desconectado. Ganaste esta ronda sin jugar.
+TEXT_ADDON_9848	Todavía hay partidas en curso. Espera.
+TEXT_ADDON_9850	Fija las reglas del torneo.
+TEXT_ADDON_9855	Este torneo tiene estas reglas:<br><br><switch(lnum1,・<string(lstr2)>,・<string(lstr2)><br>・<string(lstr3)>,・<string(lstr2)><br>・<string(lstr3)><br>・<string(lstr4)>,・<string(lstr2)><br>・<string(lstr3)><br>・<string(lstr4)><br>・<string(lstr5)>)><br><br><colortype(506)><edgecolortype(507)>Las reglas no se pueden cambiar una vez que empieza la competencia.<edgecolortype(0)><colortype(0)><br><br>¿Continuar?
+TEXT_ADDON_9856	Todos los participantes están listos.<br>La partida empieza en breve.
+TEXT_ADDON_9857	Ya se armaron los enfrentamientos de la próxima ronda.<br>La partida empieza en breve.
+TEXT_ADDON_9859	Terminaron todas las partidas de esta ronda.<br>Contando los resultados. 
+TEXT_ADDON_9860	Datos del mazo no disponibles
+TEXT_ADDON_9861	Armado de mazos
+TEXT_ADDON_9863	Ronda <num(lnum1)>
+TEXT_ADDON_9864	Puntos <if([lnum1>=0],+<num(lnum1)>,<num(lnum1)>)>　Capturas <if([lnum2>=0],+<num(lnum2)>,<num(lnum2)>)>
+TEXT_ADDON_9868	Activar las voces de los personajes durante las partidas.
+TEXT_ADDON_9869	Voz actual
+TEXT_ADDON_9871	Elegir personaje
+TEXT_ADDON_9872	Elegir voz del personaje
+TEXT_ADDON_9874	Personajes
+TEXT_ADDON_9878	Atuendo
+TEXT_ADDON_9880	Disponible con <sheet(ENpcResident,1044839,0)> en Wonder Square al completar la misión “<sheet(Quest,lnum2,0)>”.
+TEXT_ADDON_9883	Lista de atuendos
+TEXT_ADDON_9891	Elegir atuendo
+TEXT_ADDON_9892	Aprende sobre el mahjong de Doma.
+TEXT_ADDON_9893	Se obtiene en un evento de temporada.
+TEXT_ADDON_9897	Disponible con <sheet(ENpcResident,1044839,0)> en Wonder Square al completar la misión secundaria “???” de <sheet(ExVersion,lnum1,0)>.
+TEXT_ADDON_9898	Disponible con <sheet(ENpcResident,1044839,0)> en Wonder Square al completar la misión del escenario principal “???” de <sheet(ExVersion,lnum1,0)>.
+TEXT_ADDON_9899	Disponible con <sheet(ENpcResident,1044839,0)> en Wonder Square al completar la misión de Chronicles of a New Era “???” de <sheet(ExVersion,lnum1,0)>.
+TEXT_ADDON_9982	Cliffhanger
+TEXT_ADDON_9983	Skinchange We Can Believe In
+TEXT_ADDON_9984	Vase Off
+TEXT_ADDON_9985	Any Way the Wind Blows
+TEXT_ADDON_9986	The Time of My Life
+TEXT_ADDON_9987	Monster Toss
+TEXT_ADDON_9988	Cuff-a-Cur
+TEXT_ADDON_9989	Crystal Tower Striker
+TEXT_ADDON_9990	The Moogle's Paw
+TEXT_ADDON_9993	The Finer Miner
+TEXT_ADDON_9994	Out on a Limb
+TEXT_ADDON_9996	The Slice Is Right

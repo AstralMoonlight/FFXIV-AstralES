@@ -1,0 +1,238 @@
+key	text
+TEXT_ADDON_11504	Comprar aunque no se pueda equipar.
+TEXT_ADDON_11506	Ya tienes ese objeto. ¿Reclamar otro?
+TEXT_ADDON_11507	Tu personaje no puede equipar ese objeto. ¿Reclamarlo de todos modos?
+TEXT_ADDON_11508	Tu personaje no puede equipar ese objeto por ahora. ¿Reclamarlo de todos modos?
+TEXT_ADDON_11509	Reclamar de todos modos.
+TEXT_ADDON_11510	Tu nivel de fisher no alcanza para usar este cebo. ¿Continuar con la transacción?
+TEXT_ADDON_11514	Continuar con el canje.
+TEXT_ADDON_11515	Tu nivel de fisher no alcanza para usar este cebo. ¿Aceptar de todos modos?
+TEXT_ADDON_11517	Ya tienes esta arma. ¿Continuar con la transacción?
+TEXT_ADDON_11538	Puntaje máximo: <num(lnum1)>
+TEXT_ADDON_11544	Restablecer postura.
+TEXT_ADDON_11560	Refinamiento: <if([lnum3>0],<num(lnum1)>/<num(lnum2)>,<num(lnum2)>（espada：<num(lnum4)>/<num(lnum5)> escudo：<num(lnum6)>/<num(lnum7)>）)>
+TEXT_ADDON_11564	¿Refinar el arma con los atributos actuales?
+TEXT_ADDON_11566	¿Refinar el arma con los atributos redistribuidos?
+TEXT_ADDON_11572	Tasa
+TEXT_ADDON_11575	Gratificación
+TEXT_ADDON_11580	Donar
+TEXT_ADDON_11581	Este objeto tiene materia engarzada. ¿Seguro que quieres donarlo?
+TEXT_ADDON_11582	Tu spiritbond con este objeto está al 100%. ¿Seguro que quieres donarlo?
+TEXT_ADDON_11583	Este objeto es único y no se puede comerciar. ¿Seguro que quieres donarlo?
+TEXT_ADDON_11584	Anular donación
+TEXT_ADDON_11586	Se guarda un registro de los últimos 100 objetos donados hasta que salgas de la zona o cierres sesión.
+TEXT_ADDON_11589	No hay objetos para recomprar.
+TEXT_ADDON_11590	¿Recuperar <ennoun(Item,2,lnum1,2,1)>?<br><colortype(506)><edgecolortype(507)>※El precio de la gratificación incluye ahora una pequeña comisión.<br>※Los objetos recuperados ya no cuentan para la reconstrucción del enclave.<br>※Recuperar donaciones no aumenta ni afecta el presupuesto semanal.<colortype(506)><edgecolortype(507)>
+TEXT_ADDON_11591	¿Donar los objetos por una gratificación de <kilo(lnum1,\,)>?
+TEXT_ADDON_11592	<colortype(508)><edgecolortype(509)>Se supera el presupuesto semanal por <kilo(lnum2,\,)>.<edgecolortype(0)><colortype(0)><br>¿Donar los objetos por una gratificación de <kilo(lnum1,\,)>?
+TEXT_ADDON_11593	Ya tienes otro <ennoun(Item,3,lnum1,1,1)>. ¿Recuperar<if([lnum2==1],lo,los)> de todos modos?<br><colortype(506)><edgecolortype(507)>※El precio de la gratificación incluye ahora una pequeña comisión.<br>※Los objetos recuperados ya no cuentan para la reconstrucción del enclave.<br>※Recuperar donaciones no aumenta ni afecta el presupuesto semanal.<colortype(506)><edgecolortype(507)>
+TEXT_ADDON_11596	Elige el objeto que vas a donar.
+TEXT_ADDON_11600	Magia Board
+TEXT_ADDON_11602	Nivel elemental
+TEXT_ADDON_11604	Elementos
+TEXT_ADDON_11609	Puntos de experiencia elemental
+TEXT_ADDON_11610	Obtención de tesoros
+TEXT_ADDON_11611	Lista de aventureros
+TEXT_ADDON_11612	Actualizar la lista de aventureros.
+TEXT_ADDON_11614	<colortype(506)><edgecolortype(507)>No se pudieron obtener los datos.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11617	Tiempo restante de la expedición: <if([lnum1<1],menos de 1 min,<num(lnum1)> min)>
+TEXT_ADDON_11619	Busca grupo activado
+TEXT_ADDON_11620	Busca grupo desactivado
+TEXT_ADDON_11621	¿Volver al punto de inicio de<br><string(gstr56)>? <br><br><colortype(500)><edgecolortype(501)>※Volverás automáticamente 10 minutos después de quedar KO.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11622	MA
+TEXT_ADDON_11623	<if([gnum80==1],<icon2(10)>,)> Girar en sentido antihorario  <if([gnum80==1],<icon2(8)>,)> Girar en sentido horario
+TEXT_ADDON_11626	La EXP elemental que se puede obtener se muestra en las zonas que corresponde.
+TEXT_ADDON_11627	Duración de la expedición
+TEXT_ADDON_11629	Buscando grupos
+TEXT_ADDON_11631	Job necesario
+TEXT_ADDON_11633	Logograms
+TEXT_ADDON_11637	No tienes logograms.
+TEXT_ADDON_11638	No tienes este tipo de logogram.
+TEXT_ADDON_11639	Logogram (<string(lstr1)>)
+TEXT_ADDON_11640	Logos Manipulator
+TEXT_ADDON_11642	Astral Array
+TEXT_ADDON_11643	Umbral Array
+TEXT_ADDON_11646	Extraer mneme
+TEXT_ADDON_11647	<if([lnum1>1],Mnemes extraídos,Mneme extraído)>.<br>Activa una logos action para convertir <if([lnum1>1],los dos mnemes,el mneme)> en una acción del duty.
+TEXT_ADDON_11648	<colortype(508)><edgecolortype(509)>Falló la extracción.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11649	<colortype(508)><edgecolortype(509)>Tu magia board no admite más logos actions. Para usar un mneme recién extraído, primero tienes que reemplazar una acción.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11650	<colortype(508)><edgecolortype(509)>Queda un mneme extraído hace poco y se asignó a tu magia board.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11651	<colortype(508)><edgecolortype(509)>Queda un mneme extraído hace poco. Para continuar, destrúyelo o reemplaza una logos action.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11653	Reemplazar
+TEXT_ADDON_11654	Destruir
+TEXT_ADDON_11655	¿Reemplazar “<sheet(Action,lnum1,0)>”<if([lnum2>0], y “<sheet(Action,lnum2,0)>”,)> por el mneme recién obtenido y convertirlo en una logos action nueva?
+TEXT_ADDON_11656	¿Seguro que quieres borrar el mneme?
+TEXT_ADDON_11657	Poner en el Astral Array
+TEXT_ADDON_11658	Poner en el Umbral Array
+TEXT_ADDON_11659	Quitar logogram
+TEXT_ADDON_11660	Intercambiar arrays
+TEXT_ADDON_11662	Intercambiar acciones
+TEXT_ADDON_11663	Logos actions
+TEXT_ADDON_11664	Registro de logos actions
+TEXT_ADDON_11667	Recolectado
+TEXT_ADDON_11668	¡Nuevo!
+TEXT_ADDON_11669	Elige un logogram.
+TEXT_ADDON_11670	Los dos arrays extrajeron el mismo mneme. Mnemes combinados.
+TEXT_ADDON_11671	Mejora del equipo de Eureka
+TEXT_ADDON_11673	Aplicar mneme
+TEXT_ADDON_11675	¿Dejar el equipo como está?<br>※Se perderá<if([lnum2==1], <head(<ennoun(Item,2,lnum1,1,1)>)>,n los <num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)>)> usado<if([lnum2==1],,s)>.
+TEXT_ADDON_11676	¿Continuar?
+TEXT_ADDON_11678	<colortype(506)><edgecolortype(507)>No se pueden extraer mnemes si no hay al menos un logogram en el astral array.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11681	Parámetros extraídos
+TEXT_ADDON_11682	Ajuste final
+TEXT_ADDON_11683	¿Reemplazar <if([lnum2>0],estas logos actions,esta logos action)>?<br>"<sheet(Action,lnum1,0)>"<if([lnum2>0], y “<sheet(Action,lnum2,0)>”,)>
+TEXT_ADDON_11684	Explorando la dungeon
+TEXT_ADDON_11685	Priorizar por
+TEXT_ADDON_11687	Poner la magia board en modo ofensivo.
+TEXT_ADDON_11688	Poner la magia board en modo defensivo.
+TEXT_ADDON_11710	Victoria
+TEXT_ADDON_11711	Derrota
+TEXT_ADDON_11713	¡Perdón!<sound(1,99)>
+TEXT_ADDON_11714	¡Me adelanto!<sound(1,104)>
+TEXT_ADDON_11715	¡Me repliego!<sound(1,99)>
+TEXT_ADDON_11716	<head(<sheet(ClassJob,lnum1,0)>)>: ¡Muevo el cristal ahora!<sound(1,101)>
+TEXT_ADDON_11717	¡Empujen el cristal!<sound(1,104)>
+TEXT_ADDON_11718	¡Cubro al <sheet(ClassJob,lnum1,0)>!<sound(1,98)>
+TEXT_ADDON_11720	PvP Team Board
+TEXT_ADDON_11722	Usa el tablero para crear tu propio PvP team<br>y para ver cómo se forman y se califican los equipos.
+TEXT_ADDON_11723	Crear equipo
+TEXT_ADDON_11724	Resumen del PvP team
+TEXT_ADDON_11725	Sistema de PvP teams
+TEXT_ADDON_11726	¿Qué son los PvP teams?
+TEXT_ADDON_11727	Los PvP teams son aventureros que, en vez de que sus compañeros<br>se elijan al azar, se juntan para enfrentar Crystalline Conflict y otros duties de PvP con grupos que arman ellos mismos.<br><br>Para crear un PvP team hay que cumplir estas condiciones:<br>・Solo el líder del grupo puede crear un equipo<br>・Los miembros no pueden ser parte de otro PvP team<br>・El grupo tiene que tener de 4 a 6 miembros (se permite entre mundos)<br>・Todos los miembros tienen que haber desbloqueado el PvP<br>・No se permiten jugadores con cuentas de prueba gratuita<br>・Todos los miembros tienen que tener su Home World en el centro de datos físico actual
+TEXT_ADDON_11728	Calificación del equipo
+TEXT_ADDON_11729	La calificación del equipo es un número que indica la fuerza relativa de<br>un PvP team. Sube o baja según el desempeño<br>en las partidas clasificatorias. Para inscribirse en una partida clasificatoria de PvP team,<br>primero hay que formar un grupo de 4 miembros del mismo PvP team.
+TEXT_ADDON_11730	Rango del equipo
+TEXT_ADDON_11731	El rango del equipo depende de su calificación actual.<br>Sube y baja junto con la calificación.
+TEXT_ADDON_11732	Temporadas
+TEXT_ADDON_11733	Se llama "temporada" al período fijo en el que<br>se juegan las partidas oficiales de PvP por equipos e individuales. Solo las<br>partidas clasificatorias de una temporada cuentan para tu calificación de PvP.<br>Los equipos que terminan la temporada en los primeros puestos reciben<br>premios especiales.<br>Las calificaciones y clasificaciones de los equipos se reinician al final de cada temporada.<br>El calendario de temporadas y la clasificación se ven en<br><colortype(500)><edgecolortype(501)>PvP Team<edgecolortype(0)><colortype(0)>, dentro del <colortype(500)><edgecolortype(501)>menú principal<edgecolortype(0)><colortype(0)>.
+TEXT_ADDON_11734	Administración del equipo
+TEXT_ADDON_11735	La información del equipo, como el estado de sus miembros, se ve<br>en <colortype(500)><edgecolortype(501)>PvP Team<edgecolortype(0)><colortype(0)>, dentro del <colortype(500)><edgecolortype(501)>menú principal<edgecolortype(0)><colortype(0)>.
+TEXT_ADDON_11736	Invitar jugadores
+TEXT_ADDON_11737	Para invitar a un jugador a un PvP team, elígelo como objetivo y usa <colortype(500)><edgecolortype(501)>Invitar<br>al PvP team<edgecolortype(0)><colortype(0)> en los subcomandos. Al aceptar, se unirá<br>al equipo. Para invitar a alguien de otro<br>World a tu PvP team, primero tienen que estar en un grupo<br>entre mundos.<br><br>Para despedir a un miembro de tu PvP team se hace lo mismo<br>que para invitar, pero eligiendo <colortype(500)><edgecolortype(501)>Despedir del PvP team<edgecolortype(0)><colortype(0)> en<br>los subcomandos después de elegir al jugador como objetivo.<br><br><colortype(506)><edgecolortype(507)>* Solo el líder o los sublíderes del PvP team pueden invitar y despedir miembros.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11739	Algunas acciones del equipo, como cambiar su nombre o actualizar<br>su emblema, necesitan permiso. Ese permiso solo<br>lo tienen el líder y los sublíderes. El líder puede<br>nombrar sublíder con un subcomando en la lista de miembros<br>de la ventana PvP Team.
+TEXT_ADDON_11740	Disolver o dejar un equipo
+TEXT_ADDON_11741	Para disolver un equipo, el líder tiene que elegir primero <colortype(500)><edgecolortype(501)>Disolver<br>equipo<edgecolortype(0)><colortype(0)> en <colortype(500)><edgecolortype(501)>Estado<edgecolortype(0)><colortype(0)>, en la ventana PvP Team. Después, más de la mitad<br>de los miembros tiene que aprobar la disolución para que<br>se haga efectiva.<br><br>Para dejar un PvP team, el miembro tiene que elegir <colortype(500)><edgecolortype(501)>Dejar el equipo<edgecolortype(0)><colortype(0)>, también<br>en <colortype(500)><edgecolortype(501)>Estado<edgecolortype(0)><colortype(0)> de la ventana PvP Team. Una vez fuera del equipo,<br>ese miembro ya no tiene acceso a las funciones<br>del PvP team anterior.
+TEXT_ADDON_11742	Traspaso automático del liderazgo
+TEXT_ADDON_11743	Si el líder no se conecta durante más de 90 días (incluido el caso<br>de que borre el personaje), el sublíder del PvP team pasa<br>automáticamente a ser líder. Si el equipo no tiene<br>sublíder, el liderazgo pasa al<br>miembro que entró primero al equipo.
+TEXT_ADDON_11744	Disolución automática
+TEXT_ADDON_11745	Un PvP team se disuelve automáticamente si ningún miembro se conecta durante más de 90 días (hora real).
+TEXT_ADDON_11754	Calificación más alta
+TEXT_ADDON_11755	Nivel más alto
+TEXT_ADDON_11756	Miembros: en línea <num(lnum1)> / total <num(lnum2)>
+TEXT_ADDON_11768	Partida
+TEXT_ADDON_11771	Sublíder
+TEXT_ADDON_11779	Ascender a líder
+TEXT_ADDON_11780	Ascender a sublíder
+TEXT_ADDON_11781	Quitar de sublíder
+TEXT_ADDON_11782	Invitar al PvP team
+TEXT_ADDON_11783	Despedir del PvP team
+TEXT_ADDON_11785	Invitación a PvP team
+TEXT_ADDON_11786	¿Invitar a <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)> a tu PvP team?
+TEXT_ADDON_11787	El mal comportamiento de cualquier miembro del PvP team, en cualquier momento, puede hacer que el equipo se disuelva automáticamente. ¿Aceptar la invitación de <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>?
+TEXT_ADDON_11788	¿Rechazar la invitación de <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)> a su PvP team?
+TEXT_ADDON_11789	¿Despedir a <if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)> del PvP team? 
+TEXT_ADDON_11792	Resultados del equipo
+TEXT_ADDON_11795	Resultados de la temporada
+TEXT_ADDON_11798	(Victorias: <string(lstr1)>%)
+TEXT_ADDON_11801	Llegaste al rango más alto.
+TEXT_ADDON_11802	Restante
+TEXT_ADDON_11805	https://sqex.to/54Qrw
+TEXT_ADDON_11811	Recibido
+TEXT_ADDON_11812	Hace <num(lnum1)> d
+TEXT_ADDON_11815	Fecha de creación
+TEXT_ADDON_11816	Nombre del equipo
+TEXT_ADDON_11817	Editar nombre
+TEXT_ADDON_11818	Editar emblema
+TEXT_ADDON_11819	※Solo el líder y el sublíder pueden editar el nombre o el emblema del equipo.
+TEXT_ADDON_11820	Dejar el equipo
+TEXT_ADDON_11821	Disolver el equipo
+TEXT_ADDON_11822	Si dejas el equipo, se reinicia tu cantidad de partidas individuales. Solo el líder puede disolver el equipo.
+TEXT_ADDON_11823	※El PvP team se disuelve automáticamente si ningún miembro se conecta durante más de 90 días (hora real).
+TEXT_ADDON_11825	Si dejas el equipo, se reinicia tu cantidad de partidas individuales. ¿Continuar?
+TEXT_ADDON_11826	Dejar el equipo.
+TEXT_ADDON_11827	Para disolver un PvP team hace falta la aprobación de más de la mitad de<br>sus miembros. Los miembros desconectados cuentan como votos en contra.
+TEXT_ADDON_11828	Presentar la moción.
+TEXT_ADDON_11829	¿Ascender a <string(lstr1)> a líder del PvP team?
+TEXT_ADDON_11830	Confirmación de disolución del PvP team
+TEXT_ADDON_11832	El líder del equipo presentó una moción para <colortype(506)><edgecolortype(507)>disolver el PvP team<edgecolortype(0)><colortype(0)>.<br>Los votos de los miembros desconectados cuentan como "No".<br>No responder a tiempo también cuenta como "No".
+TEXT_ADDON_11833	Aprobar la disolución.
+TEXT_ADDON_11840	Renombra tu PvP team.
+TEXT_ADDON_11844	Nombre del PvP team
+TEXT_ADDON_11847	¿Enviar a los miembros de tu grupo el pedido para crear el PvP team “<string(lstr1)>”?
+TEXT_ADDON_11848	El nombre del equipo cambiará a “<string(lstr1)>” y no se podrá volver a cambiar por 30 días. ¿Continuar?
+TEXT_ADDON_11850	Confirmación de creación del PvP team
+TEXT_ADDON_11852	<if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)> pidió crear el PvP team “<string(lstr1)>”. El equipo se creará cuando todos los miembros lo aprueben. El mal comportamiento de cualquier miembro, en cualquier momento, puede hacer que el equipo se disuelva automáticamente. ¿Aprobar la creación?
+TEXT_ADDON_11855	Derrotas a <colortype(506)><edgecolortype(507)><string(lstr1)><edgecolortype(0)><colortype(0)>.
+TEXT_ADDON_11856	<colortype(506)><edgecolortype(507)><string(lstr1)><edgecolortype(0)><colortype(0)> te derrota.
+TEXT_ADDON_11857	Tu partida contra <colortype(506)><edgecolortype(507)><string(lstr1)><edgecolortype(0)><colortype(0)> termina en empate.
+TEXT_ADDON_11858	Empieza una temporada nueva.
+TEXT_ADDON_11859	Derrotas a <colortype(506)><edgecolortype(507)>\<DESCONOCIDO><edgecolortype(0)><colortype(0)>.
+TEXT_ADDON_11860	<colortype(506)><edgecolortype(507)>\<DESCONOCIDO><edgecolortype(0)><colortype(0)> te derrota.
+TEXT_ADDON_11861	Tu partida contra <colortype(506)><edgecolortype(507)>\<DESCONOCIDO><edgecolortype(0)><colortype(0)> termina en empate.
+TEXT_ADDON_11870	Calendario de PvP
+TEXT_ADDON_11872	Revisa los períodos de inscripción de las partidas clasificatorias de The Feast.
+TEXT_ADDON_11873	12:00 a. m.
+TEXT_ADDON_11874	6:00 a. m.
+TEXT_ADDON_11875	12:00 p. m.
+TEXT_ADDON_11876	6:00 p. m.
+TEXT_ADDON_11878	LUN
+TEXT_ADDON_11879	MAR
+TEXT_ADDON_11880	MIÉ
+TEXT_ADDON_11881	JUE
+TEXT_ADDON_11882	VIE
+TEXT_ADDON_11883	<colortype(502)><edgecolortype(503)>SÁB<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11884	<colortype(500)><edgecolortype(501)>DOM<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11888	Período de inscripción
+TEXT_ADDON_11892	El mercenario goblin se<br>prepara para desplegarse.
+TEXT_ADDON_11893	Puntos tácticos por reclamar ovoos
+TEXT_ADDON_11895	Puntos tácticos perdidos por KO
+TEXT_ADDON_11897	¡KO!
+TEXT_ADDON_11898	¡Asistencia!
+TEXT_ADDON_11899	Caído...
+TEXT_ADDON_11900	Aplicar glamour
+TEXT_ADDON_11901	Aplicar glamour al dedo derecho
+TEXT_ADDON_11902	Aplicar glamour al dedo izquierdo
+TEXT_ADDON_11904	Restaurar objeto
+TEXT_ADDON_11905	¿Devolver el objeto a su forma original?
+TEXT_ADDON_11909	Mostrar solo objetos que tu raza y género pueden equipar.
+TEXT_ADDON_11912	Editar Glamour Plates
+TEXT_ADDON_11918	Creación de glamours
+TEXT_ADDON_11920	Elegir equipo
+TEXT_ADDON_11926	Armoury Chest (orejas/cuello)
+TEXT_ADDON_11927	Armoury Chest (muñecas/dedos)
+TEXT_ADDON_11928	Glamour prisms: <num(lnum1)>
+TEXT_ADDON_11929	Ocultar objetos registrados en gear sets.
+TEXT_ADDON_11930	Ordenar por nivel de objeto en cada categoría.
+TEXT_ADDON_11933	Escribe el nombre completo o parcial de un objeto<br>y presiona Enter para buscar.
+TEXT_ADDON_11934	No se encontraron objetos que coincidan.
+TEXT_ADDON_11935	No hay objetos listos para glamour.
+TEXT_ADDON_11936	Guardar como glamour
+TEXT_ADDON_11939	Creación de Glamour Plate
+TEXT_ADDON_11943	Quitar la imagen del objeto del plate
+TEXT_ADDON_11946	¿Guardar el plate como está?
+TEXT_ADDON_11947	¿Guardar el plate como está?<br><br>Se usarán estos tintes:
+TEXT_ADDON_11955	Elegir plate
+TEXT_ADDON_11970	Dedos
+TEXT_ADDON_11974	Elegir equipo
+TEXT_ADDON_11978	<colortype(508)><edgecolortype(509)>No se puede guardar. No tienes suficiente tinte.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11979	¿Descartar todos los cambios?
+TEXT_ADDON_11980	No hay glamours.
+TEXT_ADDON_11981	Hay demasiados objetos equipados en estas ranuras:<br>
+TEXT_ADDON_11982	　Mano secundaria
+TEXT_ADDON_11983	　Cabeza
+TEXT_ADDON_11984	　Cuerpo
+TEXT_ADDON_11985	　Manos
+TEXT_ADDON_11986	　Piernas
+TEXT_ADDON_11987	　Pies
+TEXT_ADDON_11989	No hay objetos en la categoría <string(lstr1)>.
+TEXT_ADDON_11990	Vincular gear set
+TEXT_ADDON_11991	<colortype(506)><edgecolortype(507)>Este objeto se puede guardar en un armoire.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11992	<colortype(506)><edgecolortype(507)>El mismo objeto ya está guardado en tu glamour dresser.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11993	<colortype(506)><edgecolortype(507)>Este objeto está guardado en un gear set.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11994	Si usas <ennoun(Item,1,lnum1,1,1)> en el objeto elegido y lo guardas en el glamour dresser, su spiritbond vuelve a 0% y su estado a 100%, y se le quita la personalización: glamours, tintes, emblemas, firmas, materia y la mayoría de las bonificaciones aetheriales. Además, el objeto quedará vinculado a ti al sacarlo. ¿Continuar?
+TEXT_ADDON_11995	Si usas <num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)> en los objetos elegidos y los guardas en el glamour dresser, su spiritbond vuelve a 0% y su estado a 100%, y se les quita la personalización: glamours, tintes, emblemas, firmas, materia y la mayoría de las bonificaciones aetheriales. Además, los objetos quedarán vinculados a ti al sacarlos. ¿Continuar?
+TEXT_ADDON_11996	Guardar como glamour de conjunto
+TEXT_ADDON_11997	<colortype(506)><edgecolortype(507)>Incluye objetos que se pueden guardar en un armoire.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11998	<colortype(506)><edgecolortype(507)>Incluye objetos guardados en un gear set.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_11999	En el proceso también se quitan los tintes y los emblemas de la compañía.

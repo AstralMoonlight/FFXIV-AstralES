@@ -1,0 +1,266 @@
+key	text
+TEXT_ADDON_6500	Alimentar
+TEXT_ADDON_6502	Premia al chocobo por portarse bien.
+TEXT_ADDON_6505	Sin permiso
+TEXT_ADDON_6506	Chocobo personal
+TEXT_ADDON_6507	No tienes un chocobo en el establo.
+TEXT_ADDON_6508	Establo
+TEXT_ADDON_6510	No hay chocobos para mostrar.
+TEXT_ADDON_6514	<icon2(8)> Entrenar  <icon2(10)> Subcomandos
+TEXT_ADDON_6515	Traer
+TEXT_ADDON_6517	¿Traer a tu chocobo del establo?
+TEXT_ADDON_6518	Elige un objeto para alimentar a tu chocobo.
+TEXT_ADDON_6521	Ver detalles
+TEXT_ADDON_6522	Si no se sube el tope de rango, entrenar más no dará EXP extra. ¿Seguir entrenando?
+TEXT_ADDON_6523	Entrenar más no dará EXP extra. ¿Seguir entrenando?
+TEXT_ADDON_6524	¿Seguro que quieres darle a tu chocobo un Han lemon para que su plumaje vuelva a ser amarillo desierto?
+TEXT_ADDON_6530	Elige un comprador.
+TEXT_ADDON_6531	Particular.
+TEXT_ADDON_6532	Free company.
+TEXT_ADDON_6533	¿Comprar este terreno por <kilo(lnum1,\,)> gil?
+TEXT_ADDON_6535	Viajar al distrito de la propiedad privada.
+TEXT_ADDON_6536	Viajar al distrito de la propiedad de la free company.
+TEXT_ADDON_6539	Piensa bien antes de dejar que otros entren a tu propiedad privada.
+TEXT_ADDON_6540	Acceso a la propiedad privada
+TEXT_ADDON_6545	Cambio de plumaje posible en <if([lnum1>0],<num(lnum1)> h <if([lnum2>0],<num(lnum2)> min,)>,<if([lnum2>0],<num(lnum2)> min,menos de un minuto)>)>.
+TEXT_ADDON_6546	Entrenar (listo en <if([lnum1>0],<num(lnum1)> min,menos de 1 min)>)
+TEXT_ADDON_6547	El rango de <head(<if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>)> todavía no llegó al tope actual o ya está al máximo. Para subir el rango de un chocobo, tiene que ganar EXP en el campo. Darle <ennoun(Item,1,lnum1,1,1)> a tu compañero no subirá su tope de rango.<br>¿Continuar de todos modos?
+TEXT_ADDON_6548	Alimentar al chocobo de un miembro de la compañía no cambia su gusto por ciertos forrajes, ni sube su rango ni su tope de rango. ¿Continuar?
+TEXT_ADDON_6549	Elegir propiedad
+TEXT_ADDON_6551	Elegir dueño del terreno
+TEXT_ADDON_6554	Viajar al distrito del apartamento.
+TEXT_ADDON_6555	El rango de <head(<if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>)> ya está al máximo. Darle <ennoun(Item,1,lnum2,1,1)> a tu compañero no lo subirá más.<br>¿Continuar de todos modos?
+TEXT_ADDON_6556	Mercado
+TEXT_ADDON_6558	Comparar precios
+TEXT_ADDON_6559	Mercado registrado
+TEXT_ADDON_6560	Premiar con este objeto.
+TEXT_ADDON_6565	Rango: 
+TEXT_ADDON_6566	EXP: <num(lnum1)>/<num(lnum2)>
+TEXT_ADDON_6567	Rendimiento
+TEXT_ADDON_6568	Vigilancia
+TEXT_ADDON_6569	Recuperación
+TEXT_ADDON_6571	Alcance
+TEXT_ADDON_6572	Favor
+TEXT_ADDON_6573	Capacidad
+TEXT_ADDON_6575	Componentes
+TEXT_ADDON_6576	Registrar
+TEXT_ADDON_6578	Equipamiento
+TEXT_ADDON_6579	Elegir componentes
+TEXT_ADDON_6581	Casco
+TEXT_ADDON_6582	Aparejo
+TEXT_ADDON_6583	Castillo de proa
+TEXT_ADDON_6584	Castillo de popa
+TEXT_ADDON_6585	¿Usar los componentes elegidos y <if([lnum1==1],este objeto,<num(lnum1)> de estos objetos)> para equipar y registrar tu aeronave?
+TEXT_ADDON_6586	Registrar la aeronave.
+TEXT_ADDON_6587	¿Usar <if([lnum4==1],tu último <ennoun(Item,3,lnum2,1,1)>,<num(lnum3)> de tus <num(lnum4)> <ennoun(Item,3,lnum2,2,1)>)> para reparar <ennoun(Item,3,lnum1,1,1)> de tu nave?
+TEXT_ADDON_6588	Bitácora de viajes
+TEXT_ADDON_6590	Informe
+TEXT_ADDON_6592	Objetos encontrados
+TEXT_ADDON_6594	Duración del viaje
+TEXT_ADDON_6595	Rumbo
+TEXT_ADDON_6596	Volver a enviar
+TEXT_ADDON_6597	Cerrar el informe
+TEXT_ADDON_6598	■<if([lnum1==0],,<digit(lnum1,2)>h)> <digit(lnum2,2)> min transcurridos　<--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><--><-->
+TEXT_ADDON_6600	Detalles del viaje
+TEXT_ADDON_6602	Viaje de exploración/submarino
+TEXT_ADDON_6603	Viajes anteriores
+TEXT_ADDON_6604	Rango necesario
+TEXT_ADDON_6605	Destino
+TEXT_ADDON_6607	Gastos
+TEXT_ADDON_6609	<if([lnum3>0],<num(lnum3)> d\,,)> <sec(lnum1)> h, <sec(lnum2)> min
+TEXT_ADDON_6613	Tanques de ceruleum
+TEXT_ADDON_6617	Hora de regreso
+TEXT_ADDON_6618	Enviar
+TEXT_ADDON_6619	¿Llamar de vuelta el viaje?
+TEXT_ADDON_6620	¿Usar <ennoun(Item,1,lnum4,1,1)> para volver a enviar tu nave por el mismo rumbo del último viaje?
+TEXT_ADDON_6621	Si llamas de vuelta tu nave, se cancela el viaje actual. No se devuelven los objetos usados para empezarlo. ¿Llamarla de vuelta?
+TEXT_ADDON_6622	Crafting Log de la compañía
+TEXT_ADDON_6625	Tipo
+TEXT_ADDON_6628	Fase: <num(lnum1)>
+TEXT_ADDON_6629	Materiales necesarios
+TEXT_ADDON_6630	Cant. máx.
+TEXT_ADDON_6632	Entrega de materiales
+TEXT_ADDON_6634	Estado de fabricación
+TEXT_ADDON_6636	Calidad de la construcción
+TEXT_ADDON_6638	Fase
+TEXT_ADDON_6641	Materiales necesarios
+TEXT_ADDON_6646	Necesario
+TEXT_ADDON_6647	Etapa
+TEXT_ADDON_6650	Aportar objetos
+TEXT_ADDON_6651	Elige un objeto para aportar.
+TEXT_ADDON_6652	¿Aportar <if([lnum2==1],<ennoun(Item,1,lnum1,1,1)>,<num(lnum2)> <ennoun(Item,3,lnum1,2,1)>)> al proyecto de la compañía?
+TEXT_ADDON_6656	Construcción de prototipos
+TEXT_ADDON_6660	Planos
+TEXT_ADDON_6664	Empezar a crear este prototipo:
+TEXT_ADDON_6668	Crear
+TEXT_ADDON_6671	Distancia del viaje
+TEXT_ADDON_6673	No hay planos de prototipos.
+TEXT_ADDON_6674	¿Cargar combustible y enviar tu nave?
+TEXT_ADDON_6678	Ceruleum necesario
+TEXT_ADDON_6679	Distancia al destino
+TEXT_ADDON_6680	Tiempo al destino
+TEXT_ADDON_6681	Tiempo de exploración
+TEXT_ADDON_6682	Borrador
+TEXT_ADDON_6684	Elige un objeto para el borrador.
+TEXT_ADDON_6688	Distancia de exploración
+TEXT_ADDON_6689	Objetos/dificultad
+TEXT_ADDON_6691	Distancia
+TEXT_ADDON_6692	Condiciones
+TEXT_ADDON_6694	Aportar
+TEXT_ADDON_6701	¿Fabricar <ennoun(Item,1,lnum1,1,1)>?
+TEXT_ADDON_6702	EXP de viaje
+TEXT_ADDON_6703	Bonificación de EXP de viaje
+TEXT_ADDON_6704	Ese tinte no se puede usar para colorear componentes de aeronaves ni de submarinos.
+TEXT_ADDON_6705	Ajustar iluminación (actual: <num(lnum1)>)
+TEXT_ADDON_6706	Brillo
+TEXT_ADDON_6710	Apartamento
+TEXT_ADDON_6711	Atención
+TEXT_ADDON_6712	Los ajustes solo se ven en tu pantalla hasta que confirmes la nueva configuración.
+TEXT_ADDON_6714	Mudanza de residencia privada (Plot <num(lnum3)>, Ward <num(lnum2)>, <ennoun(PlaceName,2,lnum1,2,1)>).
+TEXT_ADDON_6715	Mudanza de la propiedad de la free company (Plot <num(lnum3)>, Ward <num(lnum2)>, <ennoun(PlaceName,2,lnum1,2,1)>).
+TEXT_ADDON_6718	Inquilino nuevo
+TEXT_ADDON_6720	Desalojar
+TEXT_ADDON_6721	¿Desalojar a <string(lstr1)> de la propiedad?<br><br><colortype(500)><edgecolortype(501)>※Quien sea desalojado ya no podrá usar ciertas funciones de la propiedad.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_6722	Confirmar el desalojo.
+TEXT_ADDON_6723	¿Dar la bienvenida a <string(lstr1)> a la propiedad compartida?<br><br><colortype(506)><edgecolortype(507)>※Los permisos se actualizan al cerrar la ventana.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_6724	Propiedad compartida (Plot <num(lnum3)>, <ordinal(lnum2)> Ward, <sheet(PlaceName,lnum1,0)>)
+TEXT_ADDON_6741	Dejar la propiedad compartida.
+TEXT_ADDON_6742	¿Dejar la propiedad?<br><br><colortype(500)><edgecolortype(501)>※Ya no podrás usar ciertas funciones de la propiedad.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_6745	Florero
+TEXT_ADDON_6747	Flores disponibles
+TEXT_ADDON_6749	En exhibición
+TEXT_ADDON_6751	No tienes flores en el inventario.
+TEXT_ADDON_6752	¿Poner <ennoun(Item,2,lnum1,1,1)> en el florero?
+TEXT_ADDON_6753	<colortype(506)><edgecolortype(507)>Elegiste el mismo objeto que ya está en exhibición.<edgecolortype(0)><colortype(0)><br><br>¿Desechar este objeto y reemplazarlo por otro?
+TEXT_ADDON_6755	¿Desechar este objeto y reemplazarlo por <ennoun(Item,1,lnum1,1,1)>?
+TEXT_ADDON_6757	Mejora del renderizado de muebles
+TEXT_ADDON_6758	Desactivar el SSAO en los muebles.
+TEXT_ADDON_6759	La oclusión ambiental en espacio de pantalla (SSAO) dibuja sombras naturales en los objetos cercanos para que la imagen se vea más realista.
+TEXT_ADDON_6761	Opciones del apartamento
+TEXT_ADDON_6763	Cambiar nombre del apartamento
+TEXT_ADDON_6767	Escribe el nombre del apartamento.
+TEXT_ADDON_6770	No se permiten espacios ni guiones bajos dobles.<br>• No puede haber un espacio antes ni después del nombre.<br>• No se permiten nombres hechos solo de signos de puntuación.
+TEXT_ADDON_6771	Nombre del apartamento
+TEXT_ADDON_6772	Piensa bien antes de dejar que otros entren a tu apartamento.
+TEXT_ADDON_6773	Acceso al apartamento
+TEXT_ADDON_6774	Detalles del apartamento
+TEXT_ADDON_6776	<if([lnum1==425],<sheet(PlaceName,1805,0)> ,<if([lnum1==426],<sheet(PlaceName,1807,0)> ,<if([lnum1==427],<sheet(PlaceName,1809,0)> ,<if([lnum1==2412],<sheet(PlaceName,1905,0)> ,<if([lnum1==4139],<sheet(PlaceName,3718,0)>,Public Apartments )>)>)>)>)> <if([lnum3==129],Wing 1 ,Wing 2 )>Room #<num(lnum4)>, <ordinal(lnum2)> Ward, <sheet(PlaceName,lnum1,0)> 
+TEXT_ADDON_6779	Dejar el apartamento
+TEXT_ADDON_6780	Si dejas tu apartamento, perderás los muebles que queden en él y no se devolverá el gil gastado en comprarlo. ¿Continuar?
+TEXT_ADDON_6781	Renunciar a todos los derechos sobre esta propiedad.
+TEXT_ADDON_6782	¿Entrar a tu habitación?
+TEXT_ADDON_6783	Habitaciones de apartamento
+TEXT_ADDON_6790	Ajustes del acuario
+TEXT_ADDON_6793	Tamaño del pez
+TEXT_ADDON_6799	Algunos peces solo pueden vivir en ciertos ambientes.
+TEXT_ADDON_6801	Peces
+TEXT_ADDON_6806	¿Aplicar los cambios indicados?<br><br><colortype(500)><edgecolortype(501)>※Los objetos HQ y los coleccionables pasarán a ser normales.<edgecolortype(0)><colortype(0)><br><colortype(500)><edgecolortype(501)>※Se destruirán los objetos que hay ahora en el acuario.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_6807	Elegir peces/accesorios
+TEXT_ADDON_6810	Peces del acuario
+TEXT_ADDON_6812	Ambiente: <head(<string(lstr1)>)>
+TEXT_ADDON_6813	Especies compatibles
+TEXT_ADDON_6814	Tamaño
+TEXT_ADDON_6818	¿Sacar todos los peces del acuario?
+TEXT_ADDON_6820	Lista de peces
+TEXT_ADDON_6821	Enmarcar cuadro
+TEXT_ADDON_6827	¿Enmarcar <ennoun(Item,2,lnum1,1,1)>?
+TEXT_ADDON_6828	Ese cuadro ya está enmarcado. Si continúas, perderás este objeto:
+TEXT_ADDON_6829	<colortype(500)><edgecolortype(501)>¿Desechar este cuadro<edgecolortype(0)><colortype(0)> y reemplazarlo por <ennoun(Item,2,lnum1,1,1)>?
+TEXT_ADDON_6832	No hay objetos para enmarcar.
+TEXT_ADDON_6833	Buscar muebles colocados/guardados
+TEXT_ADDON_6838	Almacén
+TEXT_ADDON_6839	Mostrar vista previa
+TEXT_ADDON_6840	Guardar
+TEXT_ADDON_6841	Espera...
+TEXT_ADDON_6842	Estado del almacén
+TEXT_ADDON_6845	Capacidad actual
+TEXT_ADDON_6846	Muebles colocados
+TEXT_ADDON_6848	Estado de la mudanza
+TEXT_ADDON_6849	Interior
+TEXT_ADDON_6850	Exterior
+TEXT_ADDON_6851	No hay muebles de interior guardados.
+TEXT_ADDON_6852	No hay muebles de exterior guardados.
+TEXT_ADDON_6853	<colortype(506)><edgecolortype(507)>※No podrás renovar si el total de objetos de tu almacén supera su capacidad. Durante una mudanza, la capacidad sube por un tiempo a 600 muebles de interior y 80 de exterior. Los establos de chocobos y los aetherytes no cuentan para el límite.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_6856	Modo de almacenamiento
+TEXT_ADDON_6857	Decoración de pared
+TEXT_ADDON_6859	¿Aplicar <ennoun(Item,1,lnum1,1,1)>?
+TEXT_ADDON_6860	<colortype(506)><edgecolortype(507)>Vas a aplicar el mismo diseño. ¿Continuar y perder el objeto aplicado?<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_6861	¿Aplicar <ennoun(Item,1,lnum1,1,1)>? Se perderá el diseño aplicado.
+TEXT_ADDON_6862	Diseños disponibles
+TEXT_ADDON_6863	Diseño actual
+TEXT_ADDON_6864	No hay diseños disponibles.
+TEXT_ADDON_6865	Teletransporte a propiedades
+TEXT_ADDON_6869	Tipo de propiedad
+TEXT_ADDON_6872	No hay destinos accesibles.<br>※Puede que no se obtengan los datos si tu amigo está visitando otro World.
+TEXT_ADDON_6873	Apartamentos
+TEXT_ADDON_6876	<if([lnum1==425],<sheet(PlaceName,1805,0)> ,<if([lnum1==426],<sheet(PlaceName,1807,0)> ,<if([lnum1==427],<sheet(PlaceName,1809,0)> ,<if([lnum1==2412],<sheet(PlaceName,1905,0)>,<if([lnum1==4139],<sheet(PlaceName,3718,0)>,Public Apartments )>)>)>)>)> <if([lnum3==129],Wing 1 ,Wing 2 )>Room #<num(lnum4)>, <ordinal(lnum2)> Ward, <sheet(PlaceName,lnum1,0)> 
+TEXT_ADDON_6878	Teletransporte
+TEXT_ADDON_6880	Submarino de la compañía
+TEXT_ADDON_6883	Popa
+TEXT_ADDON_6884	Proa
+TEXT_ADDON_6885	Puente
+TEXT_ADDON_6886	¿Usar los componentes elegidos y <if([lnum1==1],este objeto,<num(lnum1)> de estos objetos)> para equipar y registrar tu submarino?
+TEXT_ADDON_6887	Registrar el submarino.
+TEXT_ADDON_6888	Submarino
+TEXT_ADDON_6895	Unas palabras del dueño
+TEXT_ADDON_6897	Editar el comentario de bienvenida
+TEXT_ADDON_6898	Ajustes del Message Book
+TEXT_ADDON_6899	Me gusta en total
+TEXT_ADDON_6902	Público
+TEXT_ADDON_6903	Privado
+TEXT_ADDON_6904	Borrar mensaje
+TEXT_ADDON_6905	No hay saludo.
+TEXT_ADDON_6906	Mensaje borrado.
+TEXT_ADDON_6907	Mensaje marcado como privado.
+TEXT_ADDON_6910	Dejar un mensaje
+TEXT_ADDON_6911	Restantes: <num(lnum1)>
+TEXT_ADDON_6912	Comentario de bienvenida
+TEXT_ADDON_6914	Mensaje
+TEXT_ADDON_6918	Los mensajes quedan privados hasta que se aprueban.
+TEXT_ADDON_6919	Todos los mensajes de los visitantes quedan privados hasta que alguien con permiso los marque como públicos.
+TEXT_ADDON_6922	Si ya hay un comentario de bienvenida, se reemplazará. ¿Continuar?
+TEXT_ADDON_6923	Solo se puede dejar un mensaje por día. ¿Continuar?
+TEXT_ADDON_6924	Si borras este mensaje, podrás dejar otro en su lugar. ¿Continuar?<br><br>“<string(lstr1)>”
+TEXT_ADDON_6925	Me gusta
+TEXT_ADDON_6927	Clase/job: <headall(<sheet(ClassJob,lnum1,0)>)>
+TEXT_ADDON_6928	Raza: <sheet(Race,lnum1,0)>
+TEXT_ADDON_6929	Género: <if([lnum1==0],♂,♀)>
+TEXT_ADDON_6930	Pose: <string(lstr1)>
+TEXT_ADDON_6931	Retainer vendedor
+TEXT_ADDON_6933	Capacidad: <num(lnum1)>/<num(lnum2)>
+TEXT_ADDON_6934	Lista de mercancías
+TEXT_ADDON_6935	Vender solo como conjunto
+TEXT_ADDON_6936	Total general
+TEXT_ADDON_6938	Equipo del maniquí
+TEXT_ADDON_6940	Inventario/Armoury Chest
+TEXT_ADDON_6943	No hay objetos.
+TEXT_ADDON_6944	AGOTADO
+TEXT_ADDON_6945	No se cobran impuestos por los objetos vendidos en maniquíes.
+TEXT_ADDON_6946	¿Quitar el equipo del maniquí?
+TEXT_ADDON_6949	Tienda de maniquí
+TEXT_ADDON_6951	Elige un objeto para comprar.
+TEXT_ADDON_6952	El conjunto se compra entero.<br>Las piezas no se venden por separado.
+TEXT_ADDON_6954	Devolver al inventario del retainer
+TEXT_ADDON_6955	Objetos en venta
+TEXT_ADDON_6956	Comprar
+TEXT_ADDON_6959	¿Comprar el objeto elegido por <kilo(lnum1,\,)> gil?
+TEXT_ADDON_6961	Ajustes de la tienda de maniquí
+TEXT_ADDON_6964	Etiquetar las actividades de la casa.
+TEXT_ADDON_6965	Principal
+TEXT_ADDON_6966	Secundaria 1
+TEXT_ADDON_6967	Secundaria 2
+TEXT_ADDON_6968	Etiqueta
+TEXT_ADDON_6974	<colortype(506)><edgecolortype(507)>Puede que uno o más objetos no sean compatibles con tu clase, nivel o equipo actual.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_6975	<colortype(508)><edgecolortype(509)>Uno o más de los objetos elegidos ya no están en venta.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_6979	Quitar objeto agotado
+TEXT_ADDON_6980	Los cambios no se aplican hasta<br>que presionas el botón Aplicar.
+TEXT_ADDON_6981	Elige un retainer para que haga de vendedor.
+TEXT_ADDON_6982	Ajustes de exhibición del maniquí
+TEXT_ADDON_6985	Lista de objetos
+TEXT_ADDON_6986	\<No está en venta>
+TEXT_ADDON_6987	¿Exhibir el equipo en el maniquí?<br>Los objetos exhibidos no están en venta.
+TEXT_ADDON_6989	Exhibición del maniquí
+TEXT_ADDON_6991	Ver los objetos exhibidos en el maniquí.<br>Los objetos exhibidos no están en venta.
+TEXT_ADDON_6994	Poner equipo en venta en el mercado como conjunto.<br><br><colortype(506)><edgecolortype(507)>※Ten en cuenta que, al poner un conjunto de equipo en venta, otros jugadores verán el nombre de tu personaje y podrán enviarte mensajes con /tell.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_6995	Vender como conjunto.
+TEXT_ADDON_6996	Enviar /tell al vendedor

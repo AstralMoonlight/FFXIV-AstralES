@@ -1,0 +1,330 @@
+key	text
+TEXT_ADDON_500	Nivel de reparación
+TEXT_ADDON_501	Objeto base
+TEXT_ADDON_502	Extraíble
+TEXT_ADDON_503	No se puede vender <if(lnum1,,　No se vende en el mercado)>
+TEXT_ADDON_507	Recomendado: Nv. <num(lnum1)>
+TEXT_ADDON_511	DPS
+TEXT_ADDON_514	<string(lstr1)> Nv. <num(lnum2)>
+TEXT_ADDON_515	<sheet(Item,lnum1,9)><br><kilo(lnum2,\,)> gil
+TEXT_ADDON_517	No extraíble
+TEXT_ADDON_518	Materiales
+TEXT_ADDON_519	Misión: <string(lstr1)>
+TEXT_ADDON_520	Inventario
+TEXT_ADDON_524	Cristales
+TEXT_ADDON_525	Dificultad
+TEXT_ADDON_532	Retainer
+TEXT_ADDON_533	¿Cuántos sacas del montón?
+TEXT_ADDON_536	Key Items
+TEXT_ADDON_539	Abrir el Armoury Chest
+TEXT_ADDON_540	Vender un objeto único o no comerciable.
+TEXT_ADDON_541	Desechar un objeto único o no comerciable.
+TEXT_ADDON_542	Nivel de objeto <num(lnum1)>
+TEXT_ADDON_543	Descripción
+TEXT_ADDON_547	<icon2(10)> Subcomandos  <icon2(9)> Volver
+TEXT_ADDON_548	Mercados
+TEXT_ADDON_549	Cartas
+TEXT_ADDON_550	HUD Layout
+TEXT_ADDON_552	Guardar
+TEXT_ADDON_553	Restablecer todo
+TEXT_ADDON_554	Elemento actual
+TEXT_ADDON_555	Mostrar todo
+TEXT_ADDON_556	Mostrar
+TEXT_ADDON_557	Transparencia en combate
+TEXT_ADDON_558	Transparencia del objetivo
+TEXT_ADDON_559	Transparencia activa
+TEXT_ADDON_560	Transparencia pasiva
+TEXT_ADDON_561	Tamaño del elemento
+TEXT_ADDON_562	¿Restablecer el HUD layout predeterminado en esta ranura?
+TEXT_ADDON_563	Memories of an Era Past
+TEXT_ADDON_564	Arms of Eld
+TEXT_ADDON_567	Arms of Eld - <switch(lnum1,Curtana,Spharai,Bravura,Gae Bolg,Artemis Bow,Thyrus,Stardust Rod)> (paso <num(lnum2)>)
+TEXT_ADDON_568	(Total: <kilo(lnum1,\,)><if([lnum3>0], /  <kilo(lnum2,\,)>,)>)
+TEXT_ADDON_569	<if([lnum1>9999],9\,999+,<kilo(lnum1,\,)>)>/<kilo(lnum2,\,)> (Total: <kilo(lnum3,\,)><if([lnum5>0], /  <kilo(lnum4,\,)>,)>)
+TEXT_ADDON_572	Confirmar
+TEXT_ADDON_574	Guildleves
+TEXT_ADDON_575	Desechar el objeto de housing.
+TEXT_ADDON_576	Sí
+TEXT_ADDON_577	No
+TEXT_ADDON_582	Dificultad:
+TEXT_ADDON_583	[Nota]
+TEXT_ADDON_584	Cambiar de clase durante este duty, o usar una clase de nivel superior al recomendado, puede reducir la experiencia que recibes al completarlo.
+TEXT_ADDON_585	Nivel recomendado +<num(lnum1)>
+TEXT_ADDON_586	No se puede iniciar la levequest. Uno o más miembros del grupo están demasiado lejos.
+TEXT_ADDON_587	No te quedan leve allowances. Recibirás la siguiente en <if(lnum1,<if([lnum1==1],<num(lnum1)> hora y ,<num(lnum1)> horas y )>,)><num(lnum2)> <if([lnum2==1],minuto,minutos)>.
+TEXT_ADDON_588	No puedes aceptar más levequests.
+TEXT_ADDON_594	Battlecraft
+TEXT_ADDON_595	Fieldcraft
+TEXT_ADDON_596	Tradecraft
+TEXT_ADDON_597	Facción
+TEXT_ADDON_602	Nivel recomendado: <num(lnum1)>
+TEXT_ADDON_603	Tiempo límite: <num(lnum1)> min
+TEXT_ADDON_604	No hay guildleves disponibles por ahora.
+TEXT_ADDON_605	No quedan más guildleves disponibles por ahora.
+TEXT_ADDON_606	La diferencia entre tu nivel y el nivel recomendado de la levequest es demasiado grande. Si continúas, recibirás una penalización de experiencia.
+TEXT_ADDON_607	¿Seguro que quieres abandonar la levequest?
+TEXT_ADDON_608	Tu Home Point no está en un aetheryte de esta zona. Si vuelves a tu Home Point en cualquier momento de la levequest, la abandonarás automáticamente. ¿Continuar?
+TEXT_ADDON_609	Lugar: <string(lstr1)>
+TEXT_ADDON_610	Gathering Log
+TEXT_ADDON_612	Categoría
+TEXT_ADDON_615	<icon2(12)><icon2(13)> Elegir categoría
+TEXT_ADDON_618	Cant.
+TEXT_ADDON_619	Cant.  <num(lnum1)>/<num(lnum2)>
+TEXT_ADDON_620	Tala y cosecha
+TEXT_ADDON_622	Nada
+TEXT_ADDON_626	Fuera de alcance
+TEXT_ADDON_627	Oculto
+TEXT_ADDON_628	Raro
+TEXT_ADDON_630	Gathering Log （<string(lstr1)>）
+TEXT_ADDON_631	Filtros del chat
+TEXT_ADDON_632	Subcomandos no disponibles
+TEXT_ADDON_633	Focus Target
+TEXT_ADDON_634	Ausente
+TEXT_ADDON_635	Emote
+TEXT_ADDON_636	Marcar
+TEXT_ADDON_637	Desmontar
+TEXT_ADDON_638	Dejar de atacar
+TEXT_ADDON_639	Retirar
+TEXT_ADDON_640	Recuperar
+TEXT_ADDON_641	PvP Team
+TEXT_ADDON_642	Usar key item
+TEXT_ADDON_643	Terminar la síntesis
+TEXT_ADDON_644	Despedir
+TEXT_ADDON_645	Shout
+TEXT_ADDON_646	Free Company
+TEXT_ADDON_647	Yell
+TEXT_ADDON_648	Alliance
+TEXT_ADDON_649	<colortype(504)><edgecolortype(505)>Completado<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_650	Restablecer la enemistad del muñeco de práctica
+TEXT_ADDON_651	Novice Network
+TEXT_ADDON_652	Tell
+TEXT_ADDON_653	Say
+TEXT_ADDON_655	LS n.º <num(lnum1)>: <string(lstr2)>
+TEXT_ADDON_656	Log n.º <num(lnum1)>
+TEXT_ADDON_657	Escribe el nombre de la pestaña nueva.
+TEXT_ADDON_658	¿Borrar la pestaña?
+TEXT_ADDON_659	Renombrar pestaña
+TEXT_ADDON_662	General
+TEXT_ADDON_663	Combate
+TEXT_ADDON_665	Evento
+TEXT_ADDON_666	Tell a <string(lstr1)>
+TEXT_ADDON_672	X:
+TEXT_ADDON_673	Y:
+TEXT_ADDON_678	Levemete
+TEXT_ADDON_679	<icon2(10)> Colocar en la hotbar  <icon2(8)> Usar acción
+TEXT_ADDON_680	Actions & Traits
+TEXT_ADDON_683	Acciones
+TEXT_ADDON_684	Job
+TEXT_ADDON_685	Rasgos
+TEXT_ADDON_686	Rol de recolector
+TEXT_ADDON_688	Acciones adicionales
+TEXT_ADDON_690	<sheet(ActStr,lnum1,0)><br><if(lnum2,Nv. <num(lnum2)> ,)>HP: <num(lnum3)>
+TEXT_ADDON_691	<head(<sheet(ActStr,lnum1,0)>)><br><if(lnum2,Nv. <num(lnum2)> ,)>MP: <num(lnum3)>
+TEXT_ADDON_692	<head(<sheet(ActStr,lnum1,0)>)><br><if(lnum2,Nv. <num(lnum2)> ,)>MP: todo
+TEXT_ADDON_693	<sheet(ActStr,lnum1,0)><br><if(lnum2,Nv. <num(lnum2)> ,)>TP: <num(lnum3)>
+TEXT_ADDON_694	<sheet(ActStr,lnum1,0)><br><if(lnum2,Nv. <num(lnum2)> ,)>TP: todo
+TEXT_ADDON_695	<head(<sheet(ActStr,lnum1,0)>)><br><if(lnum2,Nv. <num(lnum2)> ,)>GP: <num(lnum3)>
+TEXT_ADDON_696	<head(<sheet(ActStr,lnum1,0)>)><br><if(lnum2,Nv. <num(lnum2)> ,)>CP: <num(lnum3)>
+TEXT_ADDON_697	<sheet(ActStr,lnum1,0)><br><if(lnum2,Nv. <num(lnum2)> ,)>MP: <num(lnum3)>  TP: <num(lnum4)>
+TEXT_ADDON_699	Instantáneo
+TEXT_ADDON_701	Lanzamiento
+TEXT_ADDON_702	Reutilización
+TEXT_ADDON_704	Costo de HP
+TEXT_ADDON_705	Costo de MP
+TEXT_ADDON_706	Costo de TP
+TEXT_ADDON_707	Costo de CP
+TEXT_ADDON_708	Costo de GP
+TEXT_ADDON_709	Alcance 
+TEXT_ADDON_710	Radio 
+TEXT_ADDON_711	Obtenido
+TEXT_ADDON_712	Afinidad
+TEXT_ADDON_713	<num(lnum1)> y
+TEXT_ADDON_714	<string(lstr1)> s
+TEXT_ADDON_715	<string(lstr1)> pasos
+TEXT_ADDON_719	Resistido
+TEXT_ADDON_720	 EXP
+TEXT_ADDON_721	Enemistad
+TEXT_ADDON_722	Destello
+TEXT_ADDON_723	Fallo
+TEXT_ADDON_726	Esquiva
+TEXT_ADDON_727	 (<num(lnum1)>% resistido)
+TEXT_ADDON_728	 (<num(lnum1)>% bloqueado)
+TEXT_ADDON_729	 (<num(lnum1)>% desviado)
+TEXT_ADDON_731	Invulnerable
+TEXT_ADDON_732	Rango
+TEXT_ADDON_734	Ciudad-estado
+TEXT_ADDON_737	<switch(lnum3,1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th,13th,14th,15th,16th,17th,18th,19th,20th,21st,22nd,23rd,24th,25th,26th,27th,28th,29th,30th,31st,32nd)> Sun of the <switch(lnum2,1st Astral,1st Umbral,2nd Astral,2nd Umbral,3rd Astral,3rd Umbral,4th Astral,4th Umbral,5th Astral,5th Umbral,6th Astral,6th Umbral)> Moon
+TEXT_ADDON_738	Mano principal
+TEXT_ADDON_739	Mano secundaria
+TEXT_ADDON_740	Cabeza
+TEXT_ADDON_742	Manos
+TEXT_ADDON_743	Cintura
+TEXT_ADDON_744	Piernas
+TEXT_ADDON_745	Pies
+TEXT_ADDON_746	Orejas
+TEXT_ADDON_747	Cuello
+TEXT_ADDON_748	Muñecas
+TEXT_ADDON_749	Anillo derecho
+TEXT_ADDON_750	Anillo izquierdo
+TEXT_ADDON_751	Soul Crystal
+TEXT_ADDON_752	Arma arrojadiza
+TEXT_ADDON_753	Camiseta interior
+TEXT_ADDON_754	Ropa interior
+TEXT_ADDON_755	Puntaje del equipo
+TEXT_ADDON_756	Gear Set
+TEXT_ADDON_758	Atributos
+TEXT_ADDON_759	Perfil
+TEXT_ADDON_760	Clases/Jobs
+TEXT_ADDON_761	Currency
+TEXT_ADDON_764	Lista de gear sets
+TEXT_ADDON_766	<icon2(23)> Desplazar  <icon2(11)> Cambiar zona  <icon2(12)>+<icon2(23)> Zoom  <icon2(13)> Mostrar/ocultar mapa
+TEXT_ADDON_767	<icon2(23)> Desplazar  <icon2(11)> Cambiar piso  <icon2(12)>+<icon2(23)> Zoom  <icon2(13)> Mostrar/ocultar mapa
+TEXT_ADDON_769	No elegiste ningún gear set.
+TEXT_ADDON_770	Signs
+TEXT_ADDON_772	Cantidad a confiar
+TEXT_ADDON_773	Cantidad a recuperar
+TEXT_ADDON_774	Montura
+TEXT_ADDON_775	Armoury
+TEXT_ADDON_776	Cofre
+TEXT_ADDON_779	Ir de acompañante
+TEXT_ADDON_780	Emotes
+TEXT_ADDON_783	Abrir la lista de gear sets
+TEXT_ADDON_784	Cancelar la invitación a la linkshell
+TEXT_ADDON_785	¿Cancelar la invitación de <string(lstr1)> a la linkshell?
+TEXT_ADDON_786	Cancelar todas las invitaciones al grupo
+TEXT_ADDON_787	¿Cancelar <if([lnum1==1],la,las)> <num(lnum1)> <if([lnum1==1],invitación,invitaciones)> al grupo que enviaste?
+TEXT_ADDON_790	Título
+TEXT_ADDON_793	Raza/clan/género
+TEXT_ADDON_795	Nameday
+TEXT_ADDON_796	Guardián
+TEXT_ADDON_800	Disciples of War
+TEXT_ADDON_801	Disciples of Magic
+TEXT_ADDON_802	Disciples of the Hand
+TEXT_ADDON_803	Disciples of the Land
+TEXT_ADDON_805	EXP
+TEXT_ADDON_806	Gladiator
+TEXT_ADDON_807	Pugilist
+TEXT_ADDON_808	Marauder
+TEXT_ADDON_809	Lancer
+TEXT_ADDON_810	Archer
+TEXT_ADDON_811	Conjurer
+TEXT_ADDON_812	Thaumaturge
+TEXT_ADDON_813	Carpenter
+TEXT_ADDON_814	Blacksmith
+TEXT_ADDON_815	Armorer
+TEXT_ADDON_816	Goldsmith
+TEXT_ADDON_817	Leatherworker
+TEXT_ADDON_818	Weaver
+TEXT_ADDON_819	Alchemist
+TEXT_ADDON_820	Culinarian
+TEXT_ADDON_821	Miner
+TEXT_ADDON_822	Botanist
+TEXT_ADDON_823	Fisher
+TEXT_ADDON_828	Arcanist
+TEXT_ADDON_829	Rogue
+TEXT_ADDON_830	Gil
+TEXT_ADDON_831	Company Seals
+TEXT_ADDON_832	Otros
+TEXT_ADDON_834	PvP
+TEXT_ADDON_836	Elige un nombre nuevo.
+TEXT_ADDON_837	Elige un número nuevo.
+TEXT_ADDON_838	The Hunt
+TEXT_ADDON_839	Disponible
+TEXT_ADDON_840	Desactivar todas las ventanas de Active Help.
+TEXT_ADDON_841	※Las ventanas de Active Help se pueden desactivar en UI Settings, dentro de Character Configuration.
+TEXT_ADDON_842	<icon2(9)> Cerrar
+TEXT_ADDON_843	<icon2(5)>Desplazar  <icon2(9)>Cerrar
+TEXT_ADDON_845	<icon2(19)> Elegir
+TEXT_ADDON_846	<icon2(8)> Confirmar
+TEXT_ADDON_847	Las ventanas de Active Help se pueden volver a activar en UI Settings, dentro de Character Configuration.
+TEXT_ADDON_848	Reflejar
+TEXT_ADDON_849	Reflejado
+TEXT_ADDON_850	Reparaciones
+TEXT_ADDON_852	Equipo
+TEXT_ADDON_853	<head(<string(lstr1)>)> (equipado)
+TEXT_ADDON_855	Reparar todo
+TEXT_ADDON_857	Costo
+TEXT_ADDON_858	Dark Matter
+TEXT_ADDON_859	Total: <kilo(lnum1,\,)>
+TEXT_ADDON_860	¿Reparar <ennoun(Item,2,lnum1,1,1)> por <kilo(lnum2,\,)> gil?
+TEXT_ADDON_861	¿Reparar todos los objetos de la lista por <kilo(lnum1,\,)> gil?
+TEXT_ADDON_862	¿Reparar <ennoun(Item,2,lnum1,1,1)> con <ennoun(Item,1,lnum2,1,1)>?
+TEXT_ADDON_863	¿Reparar todos los objetos de la lista que se pueda con estos materiales?<br><br><string(lstr1)>
+TEXT_ADDON_865	No tienes objetos que se puedan reparar.
+TEXT_ADDON_866	Grado <num(lnum1)>
+TEXT_ADDON_869	Clase
+TEXT_ADDON_870	Región
+TEXT_ADDON_871	Zona
+TEXT_ADDON_872	Dark Matter (bolsa)
+TEXT_ADDON_873	G<num(lnum2)> (<kilo(lnum1,\,)>)
+TEXT_ADDON_874	(El enlace al mapa no está disponible en esta zona)
+TEXT_ADDON_875	(No hay un lugar fijado para el enlace al mapa)
+TEXT_ADDON_878	Asiento de montura n.º <num(lnum1)>
+TEXT_ADDON_880	Alforja
+TEXT_ADDON_881	Guardar todo en la alforja
+TEXT_ADDON_882	Chocobo Saddlebag
+TEXT_ADDON_884	Alforja izquierda
+TEXT_ADDON_885	Alforja derecha
+TEXT_ADDON_886	Guardar en la alforja
+TEXT_ADDON_887	Sacar todo de la alforja
+TEXT_ADDON_888	Sacar de la alforja
+TEXT_ADDON_889	¿Cuántos quieres sacar?
+TEXT_ADDON_890	¿Cuántos quieres guardar?
+TEXT_ADDON_892	Elige un objeto para guardar en la alforja.
+TEXT_ADDON_896	Los glamours no están disponibles por las restricciones del equipo.
+TEXT_ADDON_901	Engarzar materia
+TEXT_ADDON_903	No se pudieron obtener los datos.
+TEXT_ADDON_904	No perteneces a una Grand Company.
+TEXT_ADDON_905	No perteneces a una free company.
+TEXT_ADDON_909	Miembros: <num(lnum1)>
+TEXT_ADDON_912	Envío de gil
+TEXT_ADDON_914	Elige la cantidad a retirar.
+TEXT_ADDON_915	Elige la cantidad a depositar.
+TEXT_ADDON_916	Elige un retainer.
+TEXT_ADDON_917	Salir.
+TEXT_ADDON_918	No se puede usar en modo mando.
+TEXT_ADDON_923	Depositar
+TEXT_ADDON_924	Continuar
+TEXT_ADDON_929	Total
+TEXT_ADDON_930	Ajustar precio
+TEXT_ADDON_933	Precio pedido
+TEXT_ADDON_936	Impuesto (<num(lnum1)>%)
+TEXT_ADDON_943	Cuando se venda el objeto, se te cobrará un impuesto del <num(lnum1)>% (<kilo(lnum2,\,)>).
+TEXT_ADDON_945	¿Poner en venta los objetos de la lista?
+TEXT_ADDON_946	En venta
+TEXT_ADDON_947	No está en venta
+TEXT_ADDON_948	Este retainer no fue enviado<br>a ningún market ward.
+TEXT_ADDON_955	Precio total
+TEXT_ADDON_957	Coloca aquí un objeto para ponerlo en venta.
+TEXT_ADDON_958	Devolver al retainer
+TEXT_ADDON_960	Party Members
+TEXT_ADDON_961	Friend List
+TEXT_ADDON_963	Player Search
+TEXT_ADDON_964	(No se pudo obtener)
+TEXT_ADDON_965	<icon2(8)><icon2(10)> Subcomandos  <icon2(11)> Enviar solicitud de amistad
+TEXT_ADDON_966	<icon2(8)><icon2(10)> Subcomandos  <icon2(11)> Agregar a la Blacklist
+TEXT_ADDON_967	<string(lstr1)>. (Vende <num(lnum3)> <if([lnum3==1],objeto,objetos)> (<if([lnum2==1],<icon(51)>,<if([lnum2==2],<icon(52)>,<if([lnum2==3],<icon(53)>,<if([lnum2==4],<icon(64)>,<if([lnum2==7],<icon(96)>,<if([lnum2==10],<icon(107)>,<if([lnum2==12],<icon(113)>,<if([lnum2==14],<icon(169)>,)>)>)>)>)>)>)>)>) hasta el <settime(lnum4)><if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>)
+TEXT_ADDON_968	<string(lstr1)>. (No vende ningún objeto) (<if([lnum2==1],<icon(51)>,<if([lnum2==2],<icon(52)>,<if([lnum2==3],<icon(53)>,<if([lnum2==4],<icon(64)>,<if([lnum2==7],<icon(96)>,<if([lnum2==10],<icon(107)>,<if([lnum2==12],<icon(113)>,<if([lnum2==14],<icon(169)>,)>)>)>)>)>)>)>)>)
+TEXT_ADDON_969	¡Impuesto del mercado reducido un <num(lnum1)>% hasta las <settime(lnum2)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> del <if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>!
+TEXT_ADDON_970	Todos
+TEXT_ADDON_972	Enemigo
+TEXT_ADDON_973	Jugador
+TEXT_ADDON_974	El impuesto del mercado está reducido por ahora.
+TEXT_ADDON_975	Comparar precios.
+TEXT_ADDON_976	Devolver los objetos al inventario
+TEXT_ADDON_977	<icon2(8)><icon2(10)> Subcomandos
+TEXT_ADDON_980	¡Objeto encontrado!
+TEXT_ADDON_983	 (resistido por completo)
+TEXT_ADDON_984	 ¡no tiene efecto!
+TEXT_ADDON_987	¡Incapacitado!
+TEXT_ADDON_988	Efecto adicional
+TEXT_ADDON_989	¡Invulnerable!
+TEXT_ADDON_991	Efectos
+TEXT_ADDON_992	Requisitos
+TEXT_ADDON_993	Engarce de materia
+TEXT_ADDON_994	Catalizador
+TEXT_ADDON_995	Reparación rápida
+TEXT_ADDON_996	<br><br>Material de artesanía
+TEXT_ADDON_997	<br><br>Catalizador de artesanía
+TEXT_ADDON_998	Restaura hasta el <num(lnum1)>% del HP (máximo <num(lnum2)> puntos).
+TEXT_ADDON_999	Restaura <num(lnum2)> de MP.

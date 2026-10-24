@@ -1,0 +1,122 @@
+key	text
+TEXT_ADDON_5020	Bloq Mayús
+TEXT_ADDON_5068	D
+TEXT_ADDON_5069	E
+TEXT_ADDON_5070	F
+TEXT_ADDON_5071	G
+TEXT_ADDON_5072	H
+TEXT_ADDON_5074	J
+TEXT_ADDON_5075	K
+TEXT_ADDON_5076	L
+TEXT_ADDON_5077	M
+TEXT_ADDON_5078	N
+TEXT_ADDON_5079	O
+TEXT_ADDON_5080	P
+TEXT_ADDON_5081	Q
+TEXT_ADDON_5082	R
+TEXT_ADDON_5083	S
+TEXT_ADDON_5084	T
+TEXT_ADDON_5085	U
+TEXT_ADDON_5086	V
+TEXT_ADDON_5087	W
+TEXT_ADDON_5088	X
+TEXT_ADDON_5089	Y
+TEXT_ADDON_5090	Z
+TEXT_ADDON_5091	L-WIN
+TEXT_ADDON_5092	R-WIN
+TEXT_ADDON_5093	App
+TEXT_ADDON_5112	F1
+TEXT_ADDON_5113	F2
+TEXT_ADDON_5114	F3
+TEXT_ADDON_5115	F4
+TEXT_ADDON_5116	F5
+TEXT_ADDON_5117	F6
+TEXT_ADDON_5118	F7
+TEXT_ADDON_5119	F8
+TEXT_ADDON_5120	F9
+TEXT_ADDON_5121	F10
+TEXT_ADDON_5122	F11
+TEXT_ADDON_5123	F12
+TEXT_ADDON_5165	Inclinar rueda a la izquierda
+TEXT_ADDON_5166	Inclinar rueda a la derecha
+TEXT_ADDON_5195	Elige un comando.
+TEXT_ADDON_5196	Este comando solo se puede asignar a letras, números o ciertos signos de puntuación.
+TEXT_ADDON_5197	Presiona la tecla que quieras asignar.
+TEXT_ADDON_5198	Elige un comando. Clic derecho para borrar.
+TEXT_ADDON_5199	¿Restablecer la configuración de teclas predeterminada?
+TEXT_ADDON_5208	BS
+TEXT_ADDON_5209	TAB
+TEXT_ADDON_5213	ENT
+TEXT_ADDON_5220	CL
+TEXT_ADDON_5227	ESC
+TEXT_ADDON_5232	SPC
+TEXT_ADDON_5233	PU
+TEXT_ADDON_5234	PD
+TEXT_ADDON_5235	END
+TEXT_ADDON_5236	HM
+TEXT_ADDON_5237	(L)
+TEXT_ADDON_5238	(U)
+TEXT_ADDON_5239	(R)
+TEXT_ADDON_5240	(D)
+TEXT_ADDON_5246	DEL
+TEXT_ADDON_5310	ºDL
+TEXT_ADDON_5360	M1
+TEXT_ADDON_5361	M3
+TEXT_ADDON_5362	M2
+TEXT_ADDON_5363	M4
+TEXT_ADDON_5364	M5
+TEXT_ADDON_5365	\<M
+TEXT_ADDON_5366	M>
+TEXT_ADDON_5401	Claws
+TEXT_ADDON_5402	Fangs
+TEXT_ADDON_5403	Medallas
+TEXT_ADDON_5404	K/D/A
+TEXT_ADDON_5406	Puntaje: 
+TEXT_ADDON_5408	Nivel
+TEXT_ADDON_5409	Quedaste KO y perdiste medallas (<colortype(506)><edgecolortype(507)><num(lnum1)> → <num(lnum2)><edgecolortype(0)><colortype(0)>). <br>En un momento vuelves al área de inicio.
+TEXT_ADDON_5411	(Victorias: <string(lstr1)>%)
+TEXT_ADDON_5412	Clasificación
+TEXT_ADDON_5414	Nivel: 
+TEXT_ADDON_5415	Clasificatoria de ascenso
+TEXT_ADDON_5416	Clasificatoria de ascenso disponible (<head(<string(lstr1)>)>)
+TEXT_ADDON_5420	Progreso de la partida
+TEXT_ADDON_5421	Ver el progreso de la partida.
+TEXT_ADDON_5424	Asistencias
+TEXT_ADDON_5426	Fijar o liberar el cambio de vista del progreso de la partida.
+TEXT_ADDON_5428	K/D/A total
+TEXT_ADDON_5429	K: los objetivos que dejaste KO<br>D: las veces que quedaste KO<br>A: los KO en los que ayudaste
+TEXT_ADDON_5430	Canje de coleccionables
+TEXT_ADDON_5433	Nivel de objeto
+TEXT_ADDON_5436	Scrip
+TEXT_ADDON_5442	Pago
+TEXT_ADDON_5445	Collectability: <num(lnum1)><if([lnum2==lnum1],,<if([lnum2==0],,-<num(lnum2)>)>)>
+TEXT_ADDON_5447	Tiempo restante: <num(lnum1)> h <num(lnum2)> min <settime(lnum3)>[<num(t_mon)>/<num(t_day)> <num(t_hour)>:<sec(t_min)>]
+TEXT_ADDON_5449	Canje de objetos NQ
+TEXT_ADDON_5450	Canje de objetos HQ
+TEXT_ADDON_5451	Llegaste al límite semanal de <ennoun(Item,3,lnum1,1,1)> y no vas a recibir el pago completo. ¿Continuar con la transacción?
+TEXT_ADDON_5452	No puedes llevar más <ennoun(Item,3,lnum1,2,1)> y no vas a recibir el pago completo. ¿Continuar con la transacción?
+TEXT_ADDON_5454	Semanal
+TEXT_ADDON_5456	Puntaje
+TEXT_ADDON_5457	Ver clasificaciones
+TEXT_ADDON_5458	Las clasificaciones se actualizan con regularidad en Lodestone.<br><string(lstr1)>
+TEXT_ADDON_5459	https://sqex.to/Jhk
+TEXT_ADDON_5460	https://sqex.to/2IS
+TEXT_ADDON_5461	Usa la aplicación lectora de códigos de tu smartphone y entra a Lodestone para ver las clasificaciones actuales de The Feast.
+TEXT_ADDON_5462	Acción de rol de PvP<br>Asigna este ícono a la hotbar y cambiará solo a la acción de rol que elijas.
+TEXT_ADDON_5465	Necesario para fabricar: <sheet(Item,lnum1,9)>
+TEXT_ADDON_5466	Necesario para recolectar: <if([lnum2==0],Tome of Regional Folklore,<sheet(Item,lnum1,9)>)>
+TEXT_ADDON_5471	Buscar misiones
+TEXT_ADDON_5473	Busca una misión que contenga el término indicado. Mueve el cursor arriba o abajo para ver el historial.<br><br><colortype(506)><edgecolortype(507)>※Desmarca Solo título para buscar el término en todo el texto de las misiones.<br>Los resultados pueden tardar más.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_5474	No hay misiones que coincidan.
+TEXT_ADDON_5476	Solo título
+TEXT_ADDON_5478	Misiones secundarias ???
+TEXT_ADDON_5479	Sin recompensa.
+TEXT_ADDON_5480	Hacer que el retainer venda objetos
+TEXT_ADDON_5482	Personalizar subcomandos
+TEXT_ADDON_5484	Recuperar materia
+TEXT_ADDON_5488	Recompensa no disponible en New Game+.
+TEXT_ADDON_5489	Enlazar la misión en el chat.
+TEXT_ADDON_5494	No se encontraron resultados.
+TEXT_ADDON_5497	Misión: ???
+TEXT_ADDON_5498	Ya completaste esta misión.<br>No vas a recibir recompensa.
+TEXT_ADDON_5499	Temporizador de regreso

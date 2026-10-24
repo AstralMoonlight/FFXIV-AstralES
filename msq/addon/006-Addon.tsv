@@ -1,0 +1,236 @@
+key	text
+TEXT_ADDON_3000	La reliquia no muestra actividad aetherial.
+TEXT_ADDON_3001	La reliquia muestra una actividad aetherial indefinida.
+TEXT_ADDON_3002	La reliquia muestra una actividad aetherial tenue.
+TEXT_ADDON_3003	La reliquia muestra una actividad aetherial leve.
+TEXT_ADDON_3004	La reliquia muestra una actividad aetherial moderada.
+TEXT_ADDON_3005	La reliquia muestra una actividad aetherial clara.
+TEXT_ADDON_3006	La reliquia muestra una actividad aetherial fuerte.
+TEXT_ADDON_3007	La reliquia muestra una actividad aetherial vigorosa.
+TEXT_ADDON_3008	La reliquia muestra una actividad aetherial intensa.<br>¡La sintonía del alma está cerca!
+TEXT_ADDON_3009	La reliquia muestra una actividad aetherial extrema.<br>¡La sintonía del alma está casi completa!
+TEXT_ADDON_3010	¡La reliquia rebosa de actividad aetherial!<br>¡Sintonía del alma completa!
+TEXT_ADDON_3012	Miras dentro del Zodiac glass...
+TEXT_ADDON_3030	El arma no muestra ninguna sensación de <sheet(Relic6Magicite,lnum1,1)>.
+TEXT_ADDON_3031	El arma muestra una sensación indefinida de <sheet(Relic6Magicite,lnum1,1)>.
+TEXT_ADDON_3032	El arma muestra una sensación tenue de <sheet(Relic6Magicite,lnum1,1)>.
+TEXT_ADDON_3033	El arma muestra una sensación leve de <sheet(Relic6Magicite,lnum1,1)>.
+TEXT_ADDON_3034	El arma muestra una sensación moderada de <sheet(Relic6Magicite,lnum1,1)>.
+TEXT_ADDON_3035	El arma muestra una sensación clara de <sheet(Relic6Magicite,lnum1,1)>.
+TEXT_ADDON_3036	El arma muestra una sensación fuerte de <sheet(Relic6Magicite,lnum1,1)>.
+TEXT_ADDON_3037	El arma muestra una sensación vigorosa de <sheet(Relic6Magicite,lnum1,1)>.
+TEXT_ADDON_3038	El arma muestra una sensación intensa de <sheet(Relic6Magicite,lnum1,1)>.<br>¡La resonancia del alma completa está cerca!
+TEXT_ADDON_3039	El arma muestra una sensación extrema de <sheet(Relic6Magicite,lnum1,1)>.<br>¡La resonancia del alma completa está casi lista!
+TEXT_ADDON_3040	El arma late con una sensación de <sheet(Relic6Magicite,lnum1,1)>. ¡Resonancia del alma con <sheet(Relic6Magicite,lnum1,0)> completa!
+TEXT_ADDON_3050	Duty Recorder
+TEXT_ADDON_3052	Ajustes del grabador
+TEXT_ADDON_3053	Activar
+TEXT_ADDON_3054	Desactivar
+TEXT_ADDON_3055	Duties grabados
+TEXT_ADDON_3057	No hay duties grabados.
+TEXT_ADDON_3058	Duración - <digit(lnum1,2)>:<digit(lnum2,2)>:<digit(lnum3,2)>
+TEXT_ADDON_3059	Reproducir
+TEXT_ADDON_3060	Bloquear
+TEXT_ADDON_3061	Desbloquear
+TEXT_ADDON_3062	Activa la grabación del duty cuando se cumplen todas las condiciones.
+TEXT_ADDON_3063	Desactiva la grabación del duty aunque se cumplan todas las condiciones.
+TEXT_ADDON_3064	Muestra la ayuda del Duty Recorder.
+TEXT_ADDON_3065	<colortype(508)><edgecolortype(509)>Solo se puede reproducir en las posadas.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_3066	<colortype(508)><edgecolortype(509)>Se detectó una versión antigua de los datos. No se puede reproducir.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_3067	<colortype(508)><edgecolortype(509)>Los datos están dañados. No se puede reproducir.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_3068	Manual del grabador
+TEXT_ADDON_3072	<colortype(514)>Duties grabables<colortype(0)>
+TEXT_ADDON_3075	・Bloqueado
+TEXT_ADDON_3080	Elegir capítulo
+TEXT_ADDON_3081	<colortype(500)><edgecolortype(501)>Reproducir<edgecolortype(0)><colortype(0)><br><if([gnum78==3],space,Barra espaciadora)>/<icon2(11)>
+TEXT_ADDON_3082	<colortype(500)><edgecolortype(501)>Pausa<edgecolortype(0)><colortype(0)><br><if([gnum78==3],space,Barra espaciadora)>/<icon2(11)>
+TEXT_ADDON_3085	Activar/desactivar Focus Target
+TEXT_ADDON_3086	Mostrar/ocultar el HUD
+TEXT_ADDON_3087	Mostrar la ayuda
+TEXT_ADDON_3088	Activar Group Pose
+TEXT_ADDON_3089	Activar Idling Camera
+TEXT_ADDON_3090	Capítulo siguiente
+TEXT_ADDON_3091	Capítulo anterior
+TEXT_ADDON_3092	Elegir capítulo
+TEXT_ADDON_3093	x1
+TEXT_ADDON_3094	x2
+TEXT_ADDON_3095	x4
+TEXT_ADDON_3096	¿Salir del modo de visualización?
+TEXT_ADDON_3099	<colortype(500)><edgecolortype(501)>Velocidad<edgecolortype(0)><colortype(0)> x1<br>Tecla <if([gnum78==3],num9,Num9)>/<icon2(13)>
+TEXT_ADDON_3100	<colortype(500)><edgecolortype(501)>Velocidad<edgecolortype(0)><colortype(0)> x2<br>Tecla <if([gnum78==3],num9,Num9)>/<icon2(13)>
+TEXT_ADDON_3101	<colortype(500)><edgecolortype(501)>Velocidad<edgecolortype(0)><colortype(0)> x4<br>Tecla <if([gnum78==3],num9,Num9)>/<icon2(13)>
+TEXT_ADDON_3102	Atención
+TEXT_ADDON_3104	Iniciando un <colortype(506)><edgecolortype(507)>record ready check<edgecolortype(0)><colortype(0)>.<br>Cuando todos los miembros del duty elijan "Sí", empezará la cuenta regresiva y se grabará el duty.<br><colortype(508)><edgecolortype(509)>※En las próximas grabaciones no se pedirá confirmación.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_3105	Iniciando un <colortype(506)><edgecolortype(507)>record ready check<edgecolortype(0)><colortype(0)>.<br>Cuando todos los miembros del duty elijan "Sí",<br>empezará la cuenta regresiva y se grabará el duty.<br><colortype(508)><edgecolortype(509)>※En las próximas grabaciones<br>　no se pedirá confirmación.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_3106	Duración de la cuenta regresiva (5 a 30 segundos)
+TEXT_ADDON_3107	<colortype(500)><edgecolortype(501)>Tiempo para el record ready check: <num(lnum1)> min <num(lnum2)> s<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_3108	<colortype(500)><edgecolortype(501)>Grabación desactivada<br>No se grabará el duty.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_3109	<colortype(500)><edgecolortype(501)>Grabación activada<br>Se grabará el duty.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_3110	Empezar
+TEXT_ADDON_3111	<colortype(500)><edgecolortype(501)>Esperando que todos los miembros del duty confirmen el record ready check.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_3115	Se inició el <colortype(506)><edgecolortype(507)>record ready check<edgecolortype(0)><colortype(0)>. La grabación empezará cuando todos los jugadores elijan "Sí".
+TEXT_ADDON_3120	<icon(100)>Invitar a un amigo a volver
+TEXT_ADDON_3121	Si eliges el botón Sí, el equipo de operaciones de FINAL FANTASY XIV enviará al jugador indicado un correo de parte de tu personaje con una invitación para volver a Eorzea.<br><br><colortype(506)><edgecolortype(507)>Las invitaciones solo se envían si se cumplen todas las condiciones.<br>No se pueden enviar más de 5 invitaciones a la vez.<br>Al llegar a 5, las invitaciones quedan restringidas por un tiempo.<edgecolortype(0)><colortype(0)><br><br>※Más detalles en este enlace: <colortype(502)><edgecolortype(503)>https://sqex.to/callback<edgecolortype(0)><colortype(0)><br><br>¿Enviar un correo de invitación a <colortype(508)><edgecolortype(509)><string(lstr1)><edgecolortype(0)><colortype(0)>?
+TEXT_ADDON_3122	Confirmar la invitación.
+TEXT_ADDON_3130	Item Search Settings
+TEXT_ADDON_3131	Busca objetos que contengan ciertas letras. Se muestran hasta 100 resultados. Usa las flechas o <icon2(5)> arriba/abajo para ver el historial.
+TEXT_ADDON_3134	Elige el tipo de búsqueda.
+TEXT_ADDON_3135	Coincidencia al inicio
+TEXT_ADDON_3136	Coincidencia parcial
+TEXT_ADDON_3137	Busca objetos que empiecen con ciertas letras. También muestra la disponibilidad en el mercado y la información de la lista de deseos.
+TEXT_ADDON_3138	No se puede mostrar la disponibilidad en el mercado ni la lista de deseos de algunos objetos.
+TEXT_ADDON_3139	Elegir
+TEXT_ADDON_3143	Ishgard y Coerthas
+TEXT_ADDON_3145	El Lejano Oriente
+TEXT_ADDON_3148	Ilsabard
+TEXT_ADDON_3149	Tural
+TEXT_ADDON_3150	Mount Speed
+TEXT_ADDON_3153	Velocidad
+TEXT_ADDON_3165	Guildhests
+TEXT_ADDON_3177	Mostrar la guía.
+TEXT_ADDON_3180	Personaje (PvP)
+TEXT_ADDON_3185	Glamour Plate
+TEXT_ADDON_3189	<colortype(506)><edgecolortype(507)>※El equipo que ocupa varias ranuras solo se muestra en su ranura principal.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_3190	Equipo recomendado
+TEXT_ADDON_3194	Se equipó desde tu Armoury Chest el equipo adecuado para <if([lnum1==10],un <sheet(ClassJob,lnum1,0)>,<if([lnum1==14],un <sheet(ClassJob,lnum1,0)>,<if([lnum1==5],un <sheet(ClassJob,lnum1,0)>,<if([lnum1==26],un <sheet(ClassJob,lnum1,0)>,<if([lnum1==33],un <sheet(ClassJob,lnum1,0)>,un <sheet(ClassJob,lnum1,0)>)>)>)>)>)>.
+TEXT_ADDON_3195	Tu Armoury Chest no tiene equipo adecuado para <if([lnum1==10],un <sheet(ClassJob,lnum1,0)>,<if([lnum1==14],un <sheet(ClassJob,lnum1,0)>,<if([lnum1==5],un <sheet(ClassJob,lnum1,0)>,<if([lnum1==26],un <sheet(ClassJob,lnum1,0)>,<if([lnum1==33],un <sheet(ClassJob,lnum1,0)>,un <sheet(ClassJob,lnum1,0)>)>)>)>)>)>.
+TEXT_ADDON_3197	Recomendado
+TEXT_ADDON_3199	Armando la recomendación...
+TEXT_ADDON_3203	Éxito
+TEXT_ADDON_3204	Fracaso
+TEXT_ADDON_3205	Storm Seals
+TEXT_ADDON_3206	Serpent Seals
+TEXT_ADDON_3207	Flame Seals
+TEXT_ADDON_3208	Tiempo restante: <num(lnum1)>:<sec(lnum2)><br>Progreso: <num(lnum3)>%
+TEXT_ADDON_3215	<icon2(23)> Desplazar  <icon2(12)>+<icon2(23)> Zoom  <icon2(13)> Teletransportarse
+TEXT_ADDON_3217	¿Teletransportarte a <if(lnum3,<switch(lnum3,<icon(68)>,<icon(67)>,<icon(120)>,<icon(123)>,<icon(63)>,<icon(121)>,<icon(122)>,<icon(184)>)>,)><ennoun(PlaceName,2,<sheet(Aetheryte,lnum1,8)>,2,1)> por <kilo(lnum2,\,)> gil?<br>※No se cobra si usas un aetheryte ticket.
+TEXT_ADDON_3218	<sheet(PlaceName,<sheet(Aetheryte,lnum1,8)>,0)><br>Sin sintonizar
+TEXT_ADDON_3226	Strength
+TEXT_ADDON_3227	Vitality
+TEXT_ADDON_3228	Dexterity
+TEXT_ADDON_3229	Intelligence
+TEXT_ADDON_3230	Mind
+TEXT_ADDON_3231	Piety
+TEXT_ADDON_3232	Resistencias elementales
+TEXT_ADDON_3233	<icon(56)> Fuego
+TEXT_ADDON_3234	<icon(61)> Agua
+TEXT_ADDON_3235	<icon(60)> Rayo
+TEXT_ADDON_3236	<icon(58)> Viento
+TEXT_ADDON_3237	<icon(59)> Tierra
+TEXT_ADDON_3238	<icon(57)> Hielo
+TEXT_ADDON_3239	Propiedades ofensivas
+TEXT_ADDON_3240	Direct Hit Rate
+TEXT_ADDON_3241	Critical Hit
+TEXT_ADDON_3242	Determination
+TEXT_ADDON_3245	Tenacity
+TEXT_ADDON_3249	Skill Speed
+TEXT_ADDON_3250	Resistencias físicas
+TEXT_ADDON_3251	Slashing
+TEXT_ADDON_3252	Piercing
+TEXT_ADDON_3253	Blunt
+TEXT_ADDON_3257	Spell Speed
+TEXT_ADDON_3258	Propiedades PvP
+TEXT_ADDON_3259	Morale
+TEXT_ADDON_3267	Desenvaina o envaina el arma.
+TEXT_ADDON_3268	Oculta o muestra las armas de las manos principal y secundaria al envainarlas.
+TEXT_ADDON_3269	Oculta o muestra el casco.
+TEXT_ADDON_3270	Restablece la vista.
+TEXT_ADDON_3271	Activa o desactiva el modo de vista del personaje (solo con <lower(<switchplatform(1)>)>).
+TEXT_ADDON_3273	Nivel de objeto promedio
+TEXT_ADDON_3274	El nivel promedio de todo el equipo que llevas puesto. Cuanto más alto, más difíciles son los desafíos que puedes emprender con el Duty Finder.
+TEXT_ADDON_3275	Habilidad de desíntesis
+TEXT_ADDON_3280	Canje de sellos de la Grand Company
+TEXT_ADDON_3284	Sellos
+TEXT_ADDON_3287	No hay objetos para canjear.
+TEXT_ADDON_3290	¿Canjear <kilo(lnum3,\,)> <if([lnum3==1],sello,sellos)> por <if([lnum2==1],<ennoun(Item,1,lnum1,1,1)>,<kilo(lnum2,\,)> <ennoun(Item,3,lnum1,lnum2,1)>)>?
+TEXT_ADDON_3292	Solo los miembros <if([lnum1==1],del,<if([lnum1==2],de la,de los)>)> <sheet(GrandCompany,lnum1,0)> pueden canjear <if([lnum1==1],storm,<if([lnum1==2],serpent,flame)>)> seals por bienes y servicios.
+TEXT_ADDON_3300	Paleta de la hotbar
+TEXT_ADDON_3301	Presiona una combinación de botones<br>para asignarle una acción.
+TEXT_ADDON_3302	<icon2(9)> Salir <if([lnum1==1],<icon2(11)> Asignar al Command Panel,)>
+TEXT_ADDON_3303	Colocar en la hotbar
+TEXT_ADDON_3304	¿Borrar de la hotbar?
+TEXT_ADDON_3310	Editar ranuras
+TEXT_ADDON_3311	Cambiar
+TEXT_ADDON_3320	Editar hotbar
+TEXT_ADDON_3321	Elige la ranura a editar<br>presionando su combinación de botones.
+TEXT_ADDON_3322	Elige una ranura nueva para este comando.<br>Elige la misma ranura para borrarlo.
+TEXT_ADDON_3323	<icon(19)> Salir
+TEXT_ADDON_3324	<icon2(9)> Cancelar  <icon(19)> Salir
+TEXT_ADDON_3330	<icon2(12)><icon2(13)> Pasar página
+TEXT_ADDON_3335	<icon2(10)> Colocar en la hotbar
+TEXT_ADDON_3340	MODO MOUSE VIRTUAL
+TEXT_ADDON_3341	<icon2(14)> Clic izquierdo  <icon2(15)> Clic derecho  <icon2(12)>+<icon(17)> Salir
+TEXT_ADDON_3342	<icon2(12)>+<icon(17)> Mostrar/ocultar cursor
+TEXT_ADDON_3343	MODO DE OBJETIVO EN EL SUELO
+TEXT_ADDON_3344	<icon2(13)>+<icon2(20)> Mover el anillo <icon2(13)>＋<icon(16)> Restablecer el anillo
+TEXT_ADDON_3350	Achievements
+TEXT_ADDON_3352	Puntos totales
+TEXT_ADDON_3355	No hay logros para mostrar.
+TEXT_ADDON_3356	Legado
+TEXT_ADDON_3357	Título: <string(lstr1)>
+TEXT_ADDON_3358	Relacionados
+TEXT_ADDON_3359	Últimos cinco
+TEXT_ADDON_3360	Logro obtenido
+TEXT_ADDON_3364	<icon2(10)><icon2(8)> Subcomandos
+TEXT_ADDON_3366	Puntos de logro
+TEXT_ADDON_3367	Muestra la ayuda de los certificados de logro.
+TEXT_ADDON_3368	Elige los objetos de recompensa de los logros completados para recibirlos.<br><br>Además, cada logro que consigues te da puntos de logro. Puedes canjearlos por <colortype(506)><edgecolortype(507)>achievement certificates<edgecolortype(0)><colortype(0)> hablando con Jonathas en Old Gridania. Con los certificados puedes comprar recompensas especiales, como objetos raros y equipo.
+TEXT_ADDON_3369	Casi completos
+TEXT_ADDON_3370	Zona actual
+TEXT_ADDON_3371	Ver más logros casi completos.
+TEXT_ADDON_3372	Pasar a los avisos al iniciar sesión
+TEXT_ADDON_3373	Logros casi completos:
+TEXT_ADDON_3374	Seguimiento
+TEXT_ADDON_3375	Muestra hasta 30 logros guardados en tu lista de seguimiento.
+TEXT_ADDON_3376	Agregar al seguimiento
+TEXT_ADDON_3377	Quitar del seguimiento
+TEXT_ADDON_3378	Filtra los logros completados.
+TEXT_ADDON_3379	Filtra los logros sin terminar.
+TEXT_ADDON_3380	Filtra los logros que dan títulos.
+TEXT_ADDON_3381	Filtra los logros que dan otros objetos.
+TEXT_ADDON_3382	Mostrar categorías filtradas
+TEXT_ADDON_3387	Escribe palabras clave para buscar entre las entradas de Active Help desbloqueadas. La búsqueda distingue mayúsculas de minúsculas.
+TEXT_ADDON_3388	No se encontraron coincidencias.
+TEXT_ADDON_3389	Resultados
+TEXT_ADDON_3390	Active Help
+TEXT_ADDON_3392	Mouse/teclado
+TEXT_ADDON_3393	Modo <switchplatform(1)>
+TEXT_ADDON_3394	No hay entradas.
+TEXT_ADDON_3395	※Los tutoriales están pensados para jugadores que usan <lower(<switchplatform(1)>)>.
+TEXT_ADDON_3405	Existencias
+TEXT_ADDON_3406	¿Comprar <num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)> por <kilo(lnum3,\,)> gil?
+TEXT_ADDON_3407	¿Vender <num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)> por <kilo(lnum3,\,)> gil?
+TEXT_ADDON_3408	Terminando la transacción con el comerciante.
+TEXT_ADDON_3415	Mostrar solo objetos agregados hace poco.
+TEXT_ADDON_3417	Mostrar objetos para el job/clase actual.
+TEXT_ADDON_3420	El rango de tu compañía no es suficiente.
+TEXT_ADDON_3421	Tu compañía no tiene créditos suficientes.
+TEXT_ADDON_3422	¿Comprar la acción “<sheet(CompanyAction,lnum1,0)>” por <kilo(lnum2,\,)> créditos?
+TEXT_ADDON_3423	Tu compañía no usó ninguna acción.
+TEXT_ADDON_3424	Tu compañía no tiene acciones.
+TEXT_ADDON_3425	No tienes permiso para usar acciones de la compañía.
+TEXT_ADDON_3430	Acciones activas
+TEXT_ADDON_3431	Acciones inactivas
+TEXT_ADDON_3432	No hay acciones activas.
+TEXT_ADDON_3433	No hay acciones inactivas.
+TEXT_ADDON_3440	Tintura común
+TEXT_ADDON_3444	Tintura 1
+TEXT_ADDON_3445	Tintura 2
+TEXT_ADDON_3450	Emblema en el equipo
+TEXT_ADDON_3452	Agregar emblema
+TEXT_ADDON_3453	Quitar emblema
+TEXT_ADDON_3455	Agregar a todo
+TEXT_ADDON_3457	Tarifa
+TEXT_ADDON_3459	No tienes equipo que admita emblema.
+TEXT_ADDON_3460	Canje de créditos
+TEXT_ADDON_3463	Acción de la compañía
+TEXT_ADDON_3465	Créditos
+TEXT_ADDON_3466	No tienes permiso para gastar créditos de la compañía.
+TEXT_ADDON_3467	Acción activa
+TEXT_ADDON_3473	¿Comprar <if([lnum3==1],<ennoun(Item,2,lnum1,1,1)>,<num(lnum3)> <ennoun(Item,3,lnum1,3,1)>)> por <if([lnum2==1],<kilo(lnum2,\,)> crédito de la compañía,<kilo(lnum2,\,)> créditos de la compañía)>?
+TEXT_ADDON_3474	¿Agregar el emblema de tu compañía a <ennoun(Item,2,lnum1,1,1)> por <num(lnum2)> gil?
+TEXT_ADDON_3475	¿Agregar el emblema de tu compañía a los objetos indicados por <num(lnum1)> gil?
+TEXT_ADDON_3476	¿Quitar el emblema de tu compañía de <ennoun(Item,2,lnum1,1,1)>?
+TEXT_ADDON_3477	¿Quitar el emblema de tu compañía de todos los objetos indicados?
+TEXT_ADDON_3478	Esta función solo está disponible para los miembros de una free company.
+TEXT_ADDON_3480	Renombrar cofre

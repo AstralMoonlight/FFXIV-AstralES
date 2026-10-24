@@ -1,0 +1,211 @@
+key	text
+TEXT_ADDON_12510	Visita a otro World
+TEXT_ADDON_12513	Destinos disponibles
+TEXT_ADDON_12514	<if([lnum1==2],　　　　　　　　　　<colortype(514)>Sistema de viaje entre centros de datos<colortype(0)><br>El sistema de viaje entre centros de datos es una extensión del World Visit System\, y te permite visitar por un tiempo Worlds de otros centros de datos. El viaje entre centros de datos tiene ciertas restricciones\, incluidas las del World Visit System.<br><br>　　　　　　　　　　<colortype(514)>Visitar otros centros de datos<colortype(0)><br>　・Hasta que vuelvas de visitar otro centro de datos\, no puedes iniciar sesión ni hacer otras acciones con los personajes de tu Home World.<br>　・Solo puedes viajar a otros centros de datos desde tu Home World. Si quieres viajar a un centro de datos distinto del que estás visitando\, primero tienes que volver a tu Home World y pedir la visita desde ahí.<br>　・Si cierras sesión en otro World y no vuelves a iniciarla en 30 días\, volverás automáticamente a tu Home World. Según cuándo hayas cerrado sesión por última vez\, puede que vuelvas después de más de 30 días.<br><br>,)><if([lnum1<2],　　　　　　　　　　<colortype(514)>World Visit System<colortype(0)><br>El World Visit System te permite viajar desde <if([lnum1==0],tu Home World,el World que estás visitando)> a otros Worlds del mismo centro de datos. Mientras visitas otros Worlds\, puedes formar grupo con amigos\, comprar objetos\, hacer duties y más.<br><br>　　　　　　　　　　<colortype(514)>Visitar otros Worlds<colortype(0)><br>　・Según la congestión del World de destino\, el viaje puede tardar varios minutos.<br>　・Cuando todo esté listo\, el viaje se hace solo y cancela todas las acciones y duties en curso.<br>　・Si cierras sesión en otro World y no vuelves a iniciarla en 30 días\, volverás automáticamente a tu Home World. Según cuándo hayas cerrado sesión por última vez\, puede que vuelvas después de más de 30 días.<br><br>,)>　　　　　　　<colortype(514)>Restricciones al visitar <if([lnum1>0],otros centros de datos,otros Worlds)><colortype(0)><br><if([lnum1==1],Estás fuera de tu Home Data Center. ,)>Estas restricciones se aplican al jugar <if([lnum1>0],en otro centro de datos,en otros Worlds)>:<br><br><if([lnum1>0],<colortype(514)>Friend List<colortype(0)><br>　・No puedes comunicarte con amigos de otros centros de datos<br>　・No puedes formar grupo con amigos de otros centros de datos<br>　・No se ven los datos de conexión de los amigos de otras regiones<br><br>,)><colortype(514)>Free companies<colortype(0)><br>　・No se pueden formar free companies ni unirse a una<br>　・No se ve la información de la free company<br>　・No se ganan créditos de la compañía<br>　・Si el master de la compañía pasa 35 días seguidos fuera de su Home World, su rango pasa automáticamente a otro miembro<br>　・No se ven los datos de conexión de los miembros de otras regiones<br><br><if([lnum1>0],<colortype(514)>Cross-world linkshells<colortype(0)><br>　・No se pueden crear cross-world linkshells<br>　・No se pueden obtener los privilegios de master de una cross-world linkshell<br><br>,)><colortype(514)>Linkshells<colortype(0)><br>　・No se pueden usar las linkshells<br>　・No se ve la información de las linkshells<br>　・No se pueden crear linkshells ni unirse a una<br><br><if([lnum1>0],<colortype(514)>PvP teams<colortype(0)><br>　・No se pueden usar los PvP teams<br>　・No se ve la información de los PvP teams<br>　・No se pueden crear PvP teams ni unirse a uno<br><br><colortype(514)>Fellowships<colortype(0)><br>　・No se puede usar ninguna función de las fellowships\, salvo la búsqueda de reclutamiento<br><br>,)><colortype(514)>Retainers<colortype(0)><br>　・No se pueden llamar, contratar ni despedir retainers<br>　・No se pueden poner objetos en el mercado (pero sí comprarlos)<br><br><colortype(514)>Housing<colortype(0)><br>　・No se pueden comprar terrenos ni apartamentos<br>　・No se pueden compartir residencias<br><br><colortype(514)>Eternal Bonding<colortype(0)><br>　・No están disponibles las Ceremonies of Eternal Bonding<br>　・No están disponibles las misiones de Eternal Bonding<br>　・No se puede asistir a ceremonias ajenas<br><br><colortype(514)>Duties y funciones<colortype(0)><br><if([lnum1==2],　・Se puede entrar a las partidas clasificatorias de Crystalline Conflict si:<br>　　・Tu Home World está en el mismo centro de datos físico<br>　　・Participas desde el centro de datos anfitrión<br>,)>　・No se puede entrar a los torneos de Lord of Verminion<br>　・No se puede entrar a los torneos de Triple Triad<br>　・No se pueden comprar boletos de Cactpot<br>　・El Moogle Delivery Service no está disponible<br>　・Los resultados de las deep dungeons no se guardan en las clasificaciones<br>　・El teletransporte con el friendship circlet y el de eternal bonding solo está<br>　　disponible si los dos están en el mismo World<br>　・No se puede llegar a los puntos de recolección legendarios ni vírgenes<br>
+TEXT_ADDON_12516	World actual
+TEXT_ADDON_12517	World no disponible
+TEXT_ADDON_12518	Obteniendo los datos del World...
+TEXT_ADDON_12519	¿Viajar a <string(lstr1)>?
+TEXT_ADDON_12521	Destino: <string(lstr1)>
+TEXT_ADDON_12522	Puesto en la fila: 
+TEXT_ADDON_12523	Tiempo transcurrido: <num(lnum1)>:<sec(lnum2)> Espera promedio: 
+TEXT_ADDON_12528	Puesto en la fila
+TEXT_ADDON_12533	Más de <num(lnum1)>
+TEXT_ADDON_12538	Listo para el traslado.
+TEXT_ADDON_12541	Viajero
+TEXT_ADDON_12543	Info del World
+TEXT_ADDON_12544	Lista de Worlds
+TEXT_ADDON_12548	Empezar el duty
+TEXT_ADDON_12551	Objetivo principal
+TEXT_ADDON_12554	Recompensa del objetivo semanal
+TEXT_ADDON_12555	Tiempo restante: <if([lnum1>0],<num(lnum1)> h ,)><if([lnum2>0],<num(lnum2)> min ,<if([lnum1>0],,menos de 1 minuto)>)><settime(lnum3)>[<num(t_mon)>/<num(t_day)> <num(t_hour)>:<sec(t_min)>]
+TEXT_ADDON_12556	<colortype(500)><edgecolortype(501)>Objetivo vencido<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_12559	Mostrar la ayuda de Crystarium Deliveries.
+TEXT_ADDON_12560	Nivel de estima
+TEXT_ADDON_12561	Estima
+TEXT_ADDON_12563	Objeto pedido
+TEXT_ADDON_12566	Detalles de la paga
+TEXT_ADDON_12569	Escribe la cantidad a entregar.
+TEXT_ADDON_12571	Crystarium Deliveries
+TEXT_ADDON_12589	Vende <num(lnum1)> <if([lnum1<=1],objeto,objetos)>
+TEXT_ADDON_12590	Ninguna en curso
+TEXT_ADDON_12591	Lista en <if([lnum1>0],<num(lnum1)> h <if([lnum2>0],<num(lnum2)> min,)>,<if([lnum2>0],<num(lnum2)> min,1 min)>)>
+TEXT_ADDON_12593	Ordenar retainers
+TEXT_ADDON_12595	Cambia el orden de tus retainers.
+TEXT_ADDON_12596	No vende ningún objeto
+TEXT_ADDON_12597	Vende <num(lnum1)> <if([lnum1==1],objeto,objetos)> hasta el <settime(lnum2)><if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>
+TEXT_ADDON_12600	<string(lstr1)> (lista en <if([lnum2>0],<num(lnum2)> h <if([lnum3>0],<num(lnum3)> min,)>,<if([lnum3>0],<num(lnum3)> min,1 min)>)>)
+TEXT_ADDON_12602	Contrato suspendido
+TEXT_ADDON_12603	Objetos en venta:
+TEXT_ADDON_12604	Venture:
+TEXT_ADDON_12607	Nombre del retainer
+TEXT_ADDON_12608	Orden de contratación
+TEXT_ADDON_12611	Cambiar nombre del set activo
+TEXT_ADDON_12612	El nombre de los sets activos se cambia desde el menú de subcomandos.
+TEXT_ADDON_12613	Escribe un nombre nuevo para <string(lstr1)>. Si dejas el campo vacío, vuelve el nombre predeterminado.
+TEXT_ADDON_12615	Desafío semanal
+TEXT_ADDON_12616	Duty estándar
+TEXT_ADDON_12624	¿Viajar a <string(lstr1)>?<br><colortype(506)><edgecolortype(507)>Para hacer el traslado tienes que estar jugando solo o en un grupo entre mundos.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_12625	Traveler
+TEXT_ADDON_12626	Los avisos de cartas no están disponibles fuera de tu Home Data Center.
+TEXT_ADDON_12627	Voyager
+TEXT_ADDON_12628	No están disponibles todos los datos del jugador que envió esta solicitud de amistad. Solo puedes rechazarla o dejarla pendiente.<br><colortype(506)><edgecolortype(507)>※Después de cierto tiempo, las solicitudes de amistad pendientes dejan de valer y quien la envió se quita de tu Friend List.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_12630	One-nut Clan Marks
+TEXT_ADDON_12631	Two-nut Clan Marks
+TEXT_ADDON_12632	Three-nut Clan Marks
+TEXT_ADDON_12633	Elite Clan Nutsy Marks
+TEXT_ADDON_12635	Clan Nutsy
+TEXT_ADDON_12639	Junior Guildship Marks
+TEXT_ADDON_12640	Associate Guildship Marks
+TEXT_ADDON_12641	Senior Guildship Marks
+TEXT_ADDON_12642	Elite Guildship Marks
+TEXT_ADDON_12643	Gleaners' Guildship
+TEXT_ADDON_12645	Beginner Dawn Hunt Marks
+TEXT_ADDON_12646	Intermediate Dawn Hunt Marks
+TEXT_ADDON_12647	Advanced Dawn Hunt Marks
+TEXT_ADDON_12648	Elite Dawn Hunt Marks
+TEXT_ADDON_12649	Dawn Hunt
+TEXT_ADDON_12672	<switch(lnum1,Punto virgen,Punto legendario,Punto efímero)><br>Hora de aparición (hora de Eorzea)
+TEXT_ADDON_12673	De <sec(lnum1)>:<sec(lnum2)> a <sec(lnum3)>:<sec(lnum4)>
+TEXT_ADDON_12674	Fijar una alarma para la próxima aparición.
+TEXT_ADDON_12675	No leíste el folklore correspondiente.
+TEXT_ADDON_12676	Activar la recolección rápida
+TEXT_ADDON_12678	RECOLECCIÓN RÁPIDA
+TEXT_ADDON_12679	¿Abandonar el punto de recolección?<br>Si lo haces, el punto desaparecerá.
+TEXT_ADDON_12680	Abandonar el punto.
+TEXT_ADDON_12681	Punto de recolección nublado<br>Estado: turbulencia umbral
+TEXT_ADDON_12682	<head(<string(lstr1)>)> necesario: <num(lnum2)>
+TEXT_ADDON_12683	¿Abandonar las aguas abundantes?<br><colortype(508)><edgecolortype(509)>※Si lo haces, las aguas abundantes desaparecerán.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_12692	Con este ajuste activado, no se dan las bonificaciones del Echo.<br><colortype(506)><edgecolortype(507)>※Solo se puede elegir con un grupo armado que cumpla el tamaño necesario o con un grupo sin restricciones.<br>※Solo cuentan los ajustes del líder del grupo.<br><edgecolortype(0)><colortype(0)>
+TEXT_ADDON_12693	Fija cómo se reparte el botín.<br><br><colortype(506)><edgecolortype(507)>Normal<br><edgecolortype(0)><colortype(0)>El botín se reparte con el sistema de necesidad, codicia y pasar.<br><br><colortype(506)><edgecolortype(507)>Solo codicia<br><edgecolortype(0)><colortype(0)>Todos los miembros del grupo tienen que elegir Codicia o Pasar.<br><br><colortype(506)><edgecolortype(507)>Lootmaster<br><edgecolortype(0)><colortype(0)>El líder del grupo decide a quién le toca cada objeto.<br><br><colortype(508)><edgecolortype(509)>※Solo codicia y lootmaster solo se pueden elegir con un grupo armado que cumpla el tamaño necesario o con un grupo sin restricciones.<br>※En algunos duties el reparto puede estar limitado a solo codicia.<br>※En algunos duties no se puede cambiar el reparto.<br>※Solo el líder del grupo puede cambiar el reparto del botín.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_12694	Se te emparejará con jugadores que usan los idiomas elegidos.<br><br><colortype(506)><edgecolortype(507)>※Según los idiomas elegidos, los tiempos de emparejamiento pueden aumentar. Si las esperas se hacen muy largas, prueba con otros ajustes de idioma.<br><edgecolortype(0)><colortype(0)><br><colortype(508)><edgecolortype(509)>※La _ indica el idioma actual de tu cliente.<br>※Este ajuste se comparte en todos los emparejamientos de duties, aunque puede no aplicarse a algunas actividades del Gold Saucer.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_12695	No disponible en New Game+.
+TEXT_ADDON_12697	Sincroniza a todos los participantes al nivel que pide el duty.<br><colortype(506)><edgecolortype(507)>※Con un grupo sin restricciones, el equipo sigue ganando spiritbond.<br>※Con un grupo sin restricciones, los enemigos siguen dando EXP y objetos.<edgecolortype(0)><colortype(0)><br><colortype(508)><edgecolortype(509)>※Solo se puede elegir con un grupo sin restricciones.<br>※Solo cuentan los ajustes del líder del grupo.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_12700	Trust
+TEXT_ADDON_12702	Grupo actual
+TEXT_ADDON_12703	Elegir grupo
+TEXT_ADDON_12706	Inscribirse en el duty
+TEXT_ADDON_12707	Glamours
+TEXT_ADDON_12708	Escenario
+TEXT_ADDON_12710	EXP de Trust
+TEXT_ADDON_12711	Mostrar la ayuda de Trust.
+TEXT_ADDON_12718	Ayuda de Trust
+TEXT_ADDON_12720	Nivel insuficiente
+TEXT_ADDON_12721	No eres Disciple of War ni of Magic
+TEXT_ADDON_12723	Misión
+TEXT_ADDON_12725	Avatares
+TEXT_ADDON_12728	Nivel de objeto insuficiente
+TEXT_ADDON_12730	Channel Log Settings
+TEXT_ADDON_12733	Sonido de aviso
+TEXT_ADDON_12734	Mostrar pestaña
+TEXT_ADDON_12737	Color del texto
+TEXT_ADDON_12738	¿Continuar sin elegir una pestaña?
+TEXT_ADDON_12740	<colortype(506)><edgecolortype(507)><br>※Si no recibes respuesta a una solicitud de amistad mientras estás en el mismo centro de datos que el jugador al que se la enviaste, queda pendiente una semana y después deja de valer.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_12741	<colortype(506)><edgecolortype(507)><br>※No puedes ver los datos de conexión de los jugadores de tu Friend List mientras están en otra región.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_12742	El Home World de <string(lstr1)> está en un centro de datos de otra región. ¿Enviar la solicitud de amistad?
+TEXT_ADDON_12750	Ishgardian Restoration
+TEXT_ADDON_12755	Scrips
+TEXT_ADDON_12762	<if([lnum2>0],No puedes llevar más kupo vouchers y no vas a recibir más sellos.<br>,)><if([lnum1>0],No vas a poder recibir todos los <ennoun(Item,3,lnum1,2,1)>.<br>,)>¿Continuar con la transacción?
+TEXT_ADDON_12764	Pts. Skyward
+TEXT_ADDON_12768	Kupo Stamps
+TEXT_ADDON_12769	Kupo Vouchers
+TEXT_ADDON_12771	Ya tienes la cantidad máxima de vouchers y no puedes recibir más sellos.
+TEXT_ADDON_12772	La temporada de clasificación está por terminar
+TEXT_ADDON_12774	※No se darán puntos. Tienes que estar en tu Home World.
+TEXT_ADDON_12775	Puntaje de la temporada
+TEXT_ADDON_12776	Puntaje acumulado
+TEXT_ADDON_12778	Clasificación no activa
+TEXT_ADDON_12780	Kupo of Fortune
+TEXT_ADDON_12783	Dedicado a los <sheet(ClassJob,lnum1,0)>s de destreza sin igual, y a todos los que trabajaron para levantar este lugar de las ruinas para que pudiéramos volar cada vez más alto.
+TEXT_ADDON_12785	A nuestros Skybuilders
+TEXT_ADDON_12786	Con gratitud de parte de todos los que pisan el Firmament.
+TEXT_ADDON_12790	Collection
+TEXT_ADDON_12795	Tinte: <sheet(Stain,lnum1,6)>
+TEXT_ADDON_12796	Tinte 1: <sheet(Stain,lnum1,6)>
+TEXT_ADDON_12797	Tinte 2: <sheet(Stain,lnum1,6)>
+TEXT_ADDON_12800	Fellowships
+TEXT_ADDON_12802	Crear fellowship
+TEXT_ADDON_12803	No perteneces a ninguna fellowship.
+TEXT_ADDON_12806	Se permiten estos signos de puntuación:<br><colortype(508)><edgecolortype(509)>'<nbsp>. , : ; ! ? & - _<edgecolortype(0)><colortype(0)><br>• No se permiten espacios ni guiones bajos dobles.<br>• No puede haber un espacio antes ni después del nombre.<br>• No se permiten nombres hechos solo de signos de puntuación.
+TEXT_ADDON_12807	Copiar el nombre de la fellowship
+TEXT_ADDON_12812	Tablero de mensajes
+TEXT_ADDON_12816	Ajustes de la fellowship
+TEXT_ADDON_12817	Solo el master de la fellowship puede hacer cambios.
+TEXT_ADDON_12818	Nombre de la fellowship
+TEXT_ADDON_12819	Cambiar nombre de la fellowship
+TEXT_ADDON_12820	Actividades
+TEXT_ADDON_12826	Disolver la fellowship
+TEXT_ADDON_12827	Disolver
+TEXT_ADDON_12830	Blacklist de la fellowship
+TEXT_ADDON_12837	Vas a disolver <string(lstr1)>. ¿Seguro que quieres continuar?
+TEXT_ADDON_12841	Mensaje del día
+TEXT_ADDON_12845	Encuesta
+TEXT_ADDON_12846	Ajustes de la encuesta
+TEXT_ADDON_12847	Hay una encuesta disponible.
+TEXT_ADDON_12848	No disponible.
+TEXT_ADDON_12849	Plazo:  <settime(lnum1)><num(t_mon)>/<num(t_day)>/<num(t_year)> <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)>
+TEXT_ADDON_12850	Responder
+TEXT_ADDON_12854	Opciones de respuesta
+TEXT_ADDON_12860	Plazo
+TEXT_ADDON_12861	Días
+TEXT_ADDON_12864	¿Publicar la encuesta para los miembros de la fellowship?
+TEXT_ADDON_12867	¿Seguro que quieres borrar la encuesta?
+TEXT_ADDON_12870	Votar
+TEXT_ADDON_12872	Avisos
+TEXT_ADDON_12873	Editar aviso
+TEXT_ADDON_12874	Aviso
+TEXT_ADDON_12876	Reclutamiento
+TEXT_ADDON_12877	Plazo de reclutamiento: <settime(lnum1)><num(t_mon)>/<num(t_day)>/<num(t_year)> <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)>
+TEXT_ADDON_12878	Ajustes de reclutamiento
+TEXT_ADDON_12889	Terminar el reclutamiento
+TEXT_ADDON_12890	Se muestran hasta 100 comentarios; los más viejos se borran primero.
+TEXT_ADDON_12891	Publicar comentario
+TEXT_ADDON_12892	Borrar comentario
+TEXT_ADDON_12893	Este comentario fue borrado.
+TEXT_ADDON_12894	Cargando comentarios...
+TEXT_ADDON_12898	Neutral
+TEXT_ADDON_12899	Sonrisa pícara
+TEXT_ADDON_12900	Sonrisa
+TEXT_ADDON_12901	Sonrisa amplia
+TEXT_ADDON_12902	Radiante
+TEXT_ADDON_12903	Pensativo
+TEXT_ADDON_12904	Llorando
+TEXT_ADDON_12905	Sorprendido
+TEXT_ADDON_12907	Grupo
+TEXT_ADDON_12910	Ajustes del grupo
+TEXT_ADDON_12913	Expulsar de la fellowship
+TEXT_ADDON_12914	Traspasar los privilegios de master
+TEXT_ADDON_12915	Nombrar administrador de la fellowship
+TEXT_ADDON_12916	Agregar a la blacklist de la fellowship
+TEXT_ADDON_12917	Dejar de ser administrador de la fellowship
+TEXT_ADDON_12918	Dejar la fellowship
+TEXT_ADDON_12928	Renombrar grupo
+TEXT_ADDON_12929	Escribe un nombre nuevo para el grupo <num(lnum1)>.
+TEXT_ADDON_12933	Fellowship Finder
+TEXT_ADDON_12944	Plazo de reclutamiento
+TEXT_ADDON_12945	¿Unirte a la fellowship “<string(lstr1)>”?
+TEXT_ADDON_12946	Buscar fellowship
+TEXT_ADDON_12954	No se pudieron obtener los datos.
+TEXT_ADDON_12955	Meta de reclutamiento
+TEXT_ADDON_12956	Miembros  (actuales: <if([lnum1==1000],<colortype(508)><edgecolortype(509)><kilo(lnum1,\,)><edgecolortype(0)><colortype(0)>,<kilo(lnum1,\,)>)>/1.000)
+TEXT_ADDON_12957	No hay comentarios para mostrar.
+TEXT_ADDON_12958	No hay miembros para mostrar.
+TEXT_ADDON_12959	Vencido
+TEXT_ADDON_12960	¿Publicar el comentario en el tablero de mensajes?
+TEXT_ADDON_12961	¿Borrar este comentario?<br><br>“<string(lstr1)>”
+TEXT_ADDON_12962	Meta: <kilo(lnum1,\,)>
+TEXT_ADDON_12963	Invitar a la fellowship
+TEXT_ADDON_12965	Invitación a fellowship
+TEXT_ADDON_12973	¿Aceptar la invitación a la fellowship “<string(lstr1)>”?
+TEXT_ADDON_12974	¿Rechazar la invitación a la fellowship “<string(lstr1)>”?
+TEXT_ADDON_12975	¿Dejar la fellowship “<string(lstr1)>”?
+TEXT_ADDON_12976	Dejar la fellowship.
+TEXT_ADDON_12978	Cancelar la invitación a la fellowship
+TEXT_ADDON_12980	Membresía
+TEXT_ADDON_12986	Administrador
+TEXT_ADDON_12988	No hay fellowships para mostrar.
+TEXT_ADDON_12989	Actualizar la lista
+TEXT_ADDON_12990	Abrir la búsqueda de fellowships
+TEXT_ADDON_12991	Quitar los permisos de administrador
+TEXT_ADDON_12993	Ayuda de fellowships
+TEXT_ADDON_12997	Ayuda del Fellowship Finder

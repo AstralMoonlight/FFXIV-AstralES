@@ -40,6 +40,7 @@ public sealed unsafe class Plugin : IDalamudPlugin
     private readonly IPluginLog log;
     private readonly Hook<ShowTooltipDelegate> showTooltip;
     private readonly Msq msq;
+    private readonly AddonText addonText;
 
     // Each unknown line is logged once, so /xllog lists exactly what is left to translate.
     private readonly HashSet<string> reported = [];
@@ -70,6 +71,7 @@ public sealed unsafe class Plugin : IDalamudPlugin
             (nint)AtkTooltipManager.MemberFunctionPointers.ShowTooltip, OnShowTooltip);
         showTooltip.Enable();
 
+        addonText = new AddonText(interop, lifecycle, data, log, () => enabled, () => diagnostics);
         msq = new Msq(lifecycle, clientState, data, evaluator, log, () => enabled, () => diagnostics);
 
         commands.AddHandler(Command, new CommandInfo(OnCommand)
@@ -249,6 +251,7 @@ public sealed unsafe class Plugin : IDalamudPlugin
     {
         showTooltip.Dispose();
         msq.Dispose();
+        addonText.Dispose();
         lifecycle.UnregisterListener(OnUpdate, OnDrawn);
         commands.RemoveHandler(Command);
     }

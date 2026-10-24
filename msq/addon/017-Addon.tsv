@@ -1,0 +1,250 @@
+key	text
+TEXT_ADDON_8500	Mostrar por zona/región
+TEXT_ADDON_8501	Aetheryte Tickets: <if([lnum1>999],999+,<num(lnum1)>)>
+TEXT_ADDON_8504	Guardar en el historial
+TEXT_ADDON_8507	No hay aetherytes para mostrar.
+TEXT_ADDON_8511	Aetheryte
+TEXT_ADDON_8515	Abrir los ajustes de teletransporte
+TEXT_ADDON_8516	Ajustes de teletransporte
+TEXT_ADDON_8519	Propiedad compartida (Plot <num(lnum2)>, <switch(lnum1,1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th,13th,14th,15th,16th,17th,18th,19th,20th,21st,22nd,23rd,24th,25th,26th,27th,28th,29th,30th)> Ward)
+TEXT_ADDON_8522	Uso de aetheryte tickets
+TEXT_ADDON_8523	Confirmar siempre antes de usar
+TEXT_ADDON_8524	Usar siempre
+TEXT_ADDON_8525	No usar nunca
+TEXT_ADDON_8526	Confirmar con todo costo por encima del límite de gil
+TEXT_ADDON_8527	Usar siempre con costos por encima del límite de gil
+TEXT_ADDON_8528	Límite de gil
+TEXT_ADDON_8530	Formar alianza
+TEXT_ADDON_8532	Grupo 1
+TEXT_ADDON_8533	Grupo 2
+TEXT_ADDON_8534	Grupo 3
+TEXT_ADDON_8536	Cancelar todo
+TEXT_ADDON_8537	※Para formar una alianza, los líderes de todos los grupos participantes tienen que estar en la misma zona.<br>※No se puede formar una alianza en estos casos:<br>  - Un líder de grupo sale de la zona.<br>  - Un grupo cambia de líder.<br>  - Un miembro del grupo cierra sesión.<br>  - Un miembro nuevo se une al grupo.<br>  - Un miembro deja el grupo.<br>  - Un grupo se disuelve.<br>  - Un grupo se retira de la alianza.<br>  - Se presiona el botón Cancelar todo.
+TEXT_ADDON_8538	Recibiste una invitación a una alianza de <string(lstr1)>.<br>¿Aceptar?
+TEXT_ADDON_8539	¿Cancelar todas las invitaciones a la alianza?
+TEXT_ADDON_8540	Invitar a la alianza
+TEXT_ADDON_8542	Invitación a alianza
+TEXT_ADDON_8544	¿Invitar a <string(lstr1)> a una alianza?
+TEXT_ADDON_8545	¿Rechazar la invitación a una alianza de <string(lstr1)>?
+TEXT_ADDON_8546	<head(<string(lstr1)>)> (invitado)
+TEXT_ADDON_8550	Pronóstico del tiempo
+TEXT_ADDON_8555	Clima
+TEXT_ADDON_8570	Especialista
+TEXT_ADDON_8576	Acciones de rol
+TEXT_ADDON_8577	Tu clase/job actual no puede usarlo como acción de rol. Quítalo desde el submenú.
+TEXT_ADDON_8578	Mostrar la descripción del medidor del job.
+TEXT_ADDON_8582	Muestra las acciones de la clase.
+TEXT_ADDON_8583	Muestra las acciones del job.
+TEXT_ADDON_8584	Muestra las acciones de especialista.
+TEXT_ADDON_8586	Escuadrón
+TEXT_ADDON_8587	Órdenes
+TEXT_ADDON_8588	Mascota
+TEXT_ADDON_8589	Muestra las acciones de la mascota.
+TEXT_ADDON_8594	Acciones que se pueden asignar a la hotbar.
+TEXT_ADDON_8596	Acciones que no se pueden asignar a una hotbar.
+TEXT_ADDON_8597	Acciones de la mascota.
+TEXT_ADDON_8598	Ajustes de cambio de acciones
+TEXT_ADDON_8599	Estos ajustes de cambio de acciones están <colortype(506)><edgecolortype(507)>activados<edgecolortype(0)><colortype(0)>:<br><head(<sheet(Action,lnum1,0)>)> → <head(<sheet(Action,lnum2,0)>)><br>Puedes cambiarlos en el menú <colortype(506)><edgecolortype(507)>Ajustes de cambio de acciones<edgecolortype(0)><colortype(0)>.
+TEXT_ADDON_8604	Hunting Log (GC)
+TEXT_ADDON_8605	Duty Roulette
+TEXT_ADDON_8608	Trials
+TEXT_ADDON_8609	Raids
+TEXT_ADDON_8612	Gold Saucer
+TEXT_ADDON_8614	Hall of the Novice
+TEXT_ADDON_8617	Pistas del Sightseeing Log
+TEXT_ADDON_8620	[Importante]
+TEXT_ADDON_8621	[Seguimiento]
+TEXT_ADDON_8622	[Mantenimiento]
+TEXT_ADDON_8623	[Recuperación]
+TEXT_ADDON_8625	¿Quitar <ennoun(PlaceName,2,<sheet(Aetheryte,lnum1,8)>,2,1)> como destino registrado?<br><colortype(506)><edgecolortype(507)>※Ya estás usando tus destinos gratis <if([gnum78==99],de PlayStation®Plus y por plataforma ,<if([gnum75==7],de Nintendo Switch Online y por plataforma,por plataforma)>)>.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8630	Soporte de ruedas
+TEXT_ADDON_8634	Compatible con grado 1
+TEXT_ADDON_8635	Compatible con grado 2
+TEXT_ADDON_8636	Compatible con grado 3
+TEXT_ADDON_8637	Elige una aetherial wheel para cargar.
+TEXT_ADDON_8640	<colortype(506)><edgecolortype(507)>Cargada<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8641	<if([lnum1>0],<if([lnum1==1],Queda,Quedan)> <if(lnum1,<if([lnum1<=10],<switch(lnum1,una,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)> <if([lnum1==1],hora,horas)>,<head(Queda menos de 1 hora)>)>.
+TEXT_ADDON_8642	¿Poner <ennoun(Item,2,lnum1,1,1)> en el soporte de ruedas?
+TEXT_ADDON_8643	¿Sacar <ennoun(Item,2,lnum2,1,1)> de la ranura <if(lnum1,<if([lnum1<=10],<switch(lnum1,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)>?
+TEXT_ADDON_8644	¿Sacar la <ennoun(Item,3,lnum1,1,1)> sin cargar de la ranura <if(lnum2,<if([lnum2<=10],<switch(lnum2,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)>? Se perderá la rueda.
+TEXT_ADDON_8645	Desechar la aetherial wheel.
+TEXT_ADDON_8646	Elige una rueda cargada para convertirla en acción de la compañía.
+TEXT_ADDON_8647	Convertir
+TEXT_ADDON_8648	¿Convertir <ennoun(Item,2,lnum1,1,1)> en la acción de la compañía “<sheet(CompanyAction,lnum2,0)>”?
+TEXT_ADDON_8651	Sightseeing Log (<string(lstr1)>)
+TEXT_ADDON_8652	Mostrar la ayuda del Sightseeing Log.
+TEXT_ADDON_8660	Volver a la posición predeterminada
+TEXT_ADDON_8661	Escalar ventana
+TEXT_ADDON_8667	Cursor de hardware: FFXIV personalizado
+TEXT_ADDON_8668	Cursor de hardware: estándar del sistema
+TEXT_ADDON_8669	Cursor de software
+TEXT_ADDON_8670	Ajustes de funciones ampliadas del mouse
+TEXT_ADDON_8671	Activar las funciones ampliadas del mouse.<if([gnum75==0], \(cursor de software\),)>
+TEXT_ADDON_8672	Activar el seguimiento.
+TEXT_ADDON_8673	Tamaño del cursor del mouse
+TEXT_ADDON_8677	Oclusión de paralaje
+TEXT_ADDON_8678	Teselado
+TEXT_ADDON_8680	Refracción del agua
+TEXT_ADDON_8681	Activar la interacción dinámica con el pasto.
+TEXT_ADDON_8682	Usar modelos de poco detalle en las sombras de los objetos lejanos. (LOD)
+TEXT_ADDON_8683	Resolución de las texturas
+TEXT_ADDON_8715	Ajustes de interfaz en alta resolución
+TEXT_ADDON_8716	Escala la interfaz para verla mejor en pantallas de alta resolución.
+TEXT_ADDON_8717	100% (HD) - Estándar 
+TEXT_ADDON_8718	150% (Full HD) - 1728x972 o más
+TEXT_ADDON_8719	200% (WQHD) - 2304x1296 o más
+TEXT_ADDON_8720	300% (4K) - 3456x1944 o más
+TEXT_ADDON_8722	Calidad de dibujado
+TEXT_ADDON_8733	Activar la música de combate normal.
+TEXT_ADDON_8734	Activar la BGM de la ciudad<-->estado en las zonas residenciales.
+TEXT_ADDON_8736	Ecualizador
+TEXT_ADDON_8737	Modo
+TEXT_ADDON_8739	Refuerzo de graves
+TEXT_ADDON_8740	Refuerzo de agudos
+TEXT_ADDON_8741	Refuerzo de voces
+TEXT_ADDON_8742	Logitech PRO-G 50mm
+TEXT_ADDON_8748	Resolución de pantalla
+TEXT_ADDON_8749	Full HD: mejora la tasa de cuadros
+TEXT_ADDON_8750	WQHD<if([gnum75==4], \(reescalado a 4K\): opción estándar/equilibrada,)><if([gnum106==99],: opción estándar/equilibrada,)>
+TEXT_ADDON_8751	4K<if([gnum75==4],: mejora la calidad de dibujado,)><if([gnum75==5],: mejora la calidad de dibujado,)><if([gnum75==6],: <icon(63)>disponible en Xbox Series X,)>
+TEXT_ADDON_8754	150% (se recomienda Full HD)
+TEXT_ADDON_8755	200% (se recomienda WQHD; solo en WQHD o más)
+TEXT_ADDON_8758	※ Solo agranda ciertos elementos de la interfaz del sistema.
+TEXT_ADDON_8759	Ajustes de DualSense/DUALSHOCK 4 <switch(gnum78,\(<icon(63)>necesita DirectX 11.\),,\(<icon(63)>necesita Windows.\))>
+TEXT_ADDON_8760	Audio espacial <switch(gnum78,\(<icon(63)>Esta función necesita DirectX 11.\),,\(<icon(63)>Esta función solo está disponible en Windows.\))>
+TEXT_ADDON_8761	Activar Immerse Spatial Audio
+TEXT_ADDON_8762	Más información sobre Immerse Spatial Audio
+TEXT_ADDON_8763	Immerse Gamepack no está instalado. Para escuchar el audio espacial Immerse 360, tienes que entrar al sitio web y descargar el gamepack. ¿Quieres continuar?<br><colortype(508)><edgecolortype(509)>Se abrirá tu navegador.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8764	Tu perfil de Immerse Gamepack no está completo. ¿Quieres abrir la página de tu perfil de Immerse para terminar la configuración?<br><colortype(508)><edgecolortype(509)>Se abrirá tu navegador.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8766	Immerse Gamepack no está instalado. Elige el botón del sitio web para descargarlo.
+TEXT_ADDON_8767	<icon(63)>Perfil incompleto. Abre la aplicación Immerse Gamepack FINAL FANTASY XIV Edition.
+TEXT_ADDON_8769	Immerse Spatial Audio está listo.<br>Ajustar la posición de escucha puede mejorar aún más el sonido.
+TEXT_ADDON_8770	Immerse Spatial Audio está activado.<br>Ajustar la posición de escucha puede mejorar aún más el sonido.
+TEXT_ADDON_8771	<icon(63)>Hubo un error. Abre la aplicación Immerse Gamepack FINAL FANTASY XIV Edition.
+TEXT_ADDON_8772	<icon(63)>Esperando respuesta de Immerse Gamepack.
+TEXT_ADDON_8773	<icon(63)>Hay una actualización disponible. Descárgala en la aplicación Immerse Gamepack FINAL FANTASY XIV Edition.
+TEXT_ADDON_8774	Hubo un error. Para saber más, abre la aplicación Immerse Gamepack FINAL FANTASY XIV Edition.
+TEXT_ADDON_8775	Esperando respuesta de Immerse Gamepack. Para saber más, abre la aplicación Immerse Gamepack FINAL FANTASY XIV Edition.
+TEXT_ADDON_8776	Tu prueba de Immerse Gamepack venció. Para seguir usando Immerse, compra una licencia. ¿Quieres abrir la página de tu perfil de Immerse para mejorarla?<br><colortype(508)><edgecolortype(509)>Se abrirá tu navegador.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8777	<icon(63)>Prueba vencida. Abre la aplicación Immerse Gamepack FINAL FANTASY XIV Edition para mejorarla.
+TEXT_ADDON_8778	Hay una actualización de Immerse Gamepack. ¿Quieres abrir la página de descarga?<br><colortype(508)><edgecolortype(509)>Se abrirá tu navegador.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8800	Preparando la demolición automática de la propiedad de la free company.
+TEXT_ADDON_8801	Preparando la demolición automática de la propiedad privada.
+TEXT_ADDON_8802	Preparando la demolición automática de la propiedad compartida (1).
+TEXT_ADDON_8803	Preparando la demolición automática de la propiedad compartida (2).
+TEXT_ADDON_8805	※La demolición automática se cancela cuando llega el dueño.
+TEXT_ADDON_8806	Misión disponible.
+TEXT_ADDON_8808	Próxima allowance de misiones diarias de allied societies
+TEXT_ADDON_8809	Allowances restantes hoy: <num(lnum1)>
+TEXT_ADDON_8811	Revisa el estado actual de las entregas.
+TEXT_ADDON_8812	 Faltan <num(lnum1)>:<sec(lnum2)>  (<settime(lnum3)><if([gnum77==3],<num(t_day)>/<num(t_mon)>,<num(t_mon)>/<num(t_day)>)> <num(t_hour)>:<sec(t_min)>)   Allowances: <num(lnum4)>
+TEXT_ADDON_8813	Cliente
+TEXT_ADDON_8816	Aeronaves
+TEXT_ADDON_8817	Submarinos
+TEXT_ADDON_8818	Estado de la lotería de housing
+TEXT_ADDON_8819	Fashion Report
+TEXT_ADDON_8820	Revisa el desafío de moda actual.
+TEXT_ADDON_8821	Reconstrucción del Doman Enclave
+TEXT_ADDON_8823	Ver el estado de las donaciones.
+TEXT_ADDON_8825	Canasta de donaciones
+TEXT_ADDON_8826	Presupuesto semanal: 
+TEXT_ADDON_8828	Tasa: 
+TEXT_ADDON_8830	Empieza la semana nueva
+TEXT_ADDON_8831	Por ahora no se aceptan donaciones.
+TEXT_ADDON_8832	The Masked Carnivale
+TEXT_ADDON_8833	Revisa el avance de los objetivos semanales.
+TEXT_ADDON_8834	 Faltan <if([lnum1>0],<num(lnum1)>:<sec(lnum2)>,<if([lnum2>0],<num(lnum1)>:<sec(lnum2)>, menos de 1 minuto)>)> (<settime(lnum3)><if([gnum77==3],<num(t_day)>/<num(t_mon)>,<num(t_mon)>/<num(t_day)>)> <num(t_hour)>:<sec(t_min)>) <if([lnum4>0],todo completado,sin completar)>
+TEXT_ADDON_8835	Condiciones de los objetivos semanales
+TEXT_ADDON_8839	 [Sin completar]
+TEXT_ADDON_8840	 [Completado]
+TEXT_ADDON_8841	Tienes que estar en tu Home World para obtener los datos.
+TEXT_ADDON_8842	<icon(63)>No se pudieron obtener los datos.
+TEXT_ADDON_8844	Período de inscripción en curso.
+TEXT_ADDON_8845	Período de resultados en curso.
+TEXT_ADDON_8846	Inscripción actual
+TEXT_ADDON_8848	Número de la lotería: <num(lnum1)>
+TEXT_ADDON_8849	Tipo de inscripción: <switch(lnum1,representante de free company,comprador particular)>
+TEXT_ADDON_8850	Ajustes del orden de roles
+TEXT_ADDON_8852	<colortype(506)><edgecolortype(507)>Personaliza el orden de las clases y los jobs en tu Party List.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8853	Subir.
+TEXT_ADDON_8854	Bajar.
+TEXT_ADDON_8855	Paladin/Gladiator
+TEXT_ADDON_8856	Warrior/Marauder
+TEXT_ADDON_8858	White Mage/Conjurer
+TEXT_ADDON_8859	Scholar
+TEXT_ADDON_8861	Monk/Pugilist
+TEXT_ADDON_8862	Dragoon/Lancer
+TEXT_ADDON_8863	Ninja/Rogue
+TEXT_ADDON_8864	Bard/Archer
+TEXT_ADDON_8866	Black Mage/Thaumaturge
+TEXT_ADDON_8867	Summoner/Archanist
+TEXT_ADDON_8873	¿Restablecer los ajustes predeterminados?
+TEXT_ADDON_8874	¿Aplicar la personalización?
+TEXT_ADDON_8875	Muestra una cuenta regresiva que ven todos los jugadores del duty.
+TEXT_ADDON_8876	Muestra una cuenta regresiva que ven todos los miembros del grupo y la alianza.
+TEXT_ADDON_8877	Duración de la cuenta regresiva (5 a 30 segundos).
+TEXT_ADDON_8880	¿Cancelar la cuenta regresiva actual?
+TEXT_ADDON_8883	No se pueden obtener todos los datos durante un duty instanciado.
+TEXT_ADDON_8884	Lista de clientes
+TEXT_ADDON_8886	Allowances: <num(lnum1)>
+TEXT_ADDON_8891	Recibir
+TEXT_ADDON_8893	No tienes objetos para canjear.
+TEXT_ADDON_8894	¿Canjear <num(lnum4)> <ennoun(Item,3,lnum1,lnum4,1)> por <num(lnum3)> <ennoun(Item,3,lnum2,lnum3,1)>?
+TEXT_ADDON_8901	Mostrar solo objetos de IL <num(lnum1)> o menos
+TEXT_ADDON_8902	Ocultar objetos registrados en gear sets
+TEXT_ADDON_8904	※En los grupos por debajo del mínimo, el reparto del botín pasa a ser solo codicia.
+TEXT_ADDON_8905	※Las alianzas ocupan la misma instancia.
+TEXT_ADDON_8906	※Los grupos que cumplen el tamaño mínimo no tienen restricciones de rol.
+TEXT_ADDON_8907	Progreso de la operación
+TEXT_ADDON_8910	Sin completar
+TEXT_ADDON_8912	Evaluación
+TEXT_ADDON_8916	<string(lstr1)><br><color(4293325567)><edgecolor(4280504028)>[Completado]<edgecolor(stackcolor)><color(stackcolor)>
+TEXT_ADDON_8917	Después de completar una misión
+TEXT_ADDON_8918	¡Felicidades por cumplir los objetivos de la misión!<br><br>Lo primero: reclama la recompensa de la misión. Un ícono en el mapa marca dónde está.<br><br>Con los objetivos cumplidos, puedes explorar the Diadem libremente durante el tiempo que le quede a la operación. Ahora las grietas aetheriales dejan pasar a guaridas antes inaccesibles, y algunas hasta te llevan más allá del Grounding Gale.<br><if([lnum1==0],<br>A esta altura de la misión\, también puedes cambiar a una clase de Disciple of the Land.<br>,)><br>Puedes retirarte antes de la misión con el <colortype(500)><edgecolortype(501)>Duty Finder<edgecolortype(0)><colortype(0)> o saliendo de la zona de la misión desde el <colortype(500)><edgecolortype(501)>campamento base<edgecolortype(0)><colortype(0)>.
+TEXT_ADDON_8922	Unirse a una misión en curso
+TEXT_ADDON_8924	Nivel (ascendente)
+TEXT_ADDON_8925	Nivel (descendente)
+TEXT_ADDON_8929	Embarcar
+TEXT_ADDON_8930	Ajustes de las misiones de exploración
+TEXT_ADDON_8932	<colortype(506)><edgecolortype(507)>※Lootmaster y solo codicia solo están disponibles al participar con un grupo armado o desde el panel de control de viajes.<br>※En los grupos no armados que salen de Ishgard, el reparto del botín pasa a ser solo codicia.<br>※Solo el líder del grupo puede cambiar el reparto del botín.<br>※El reparto del botín solo rige dentro de la zona instanciada.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_8933	¿Embarcar en una misión de exploración a <string(lstr1)> con tu grupo actual?
+TEXT_ADDON_8934	Tiempo de la misión
+TEXT_ADDON_8935	Enemigos derrotados
+TEXT_ADDON_8936	NM derrotados
+TEXT_ADDON_8937	Cofres de oro
+TEXT_ADDON_8938	Cofres de plata
+TEXT_ADDON_8939	Cofres de bronce
+TEXT_ADDON_8942	Rango mínimo de la aeronave: <num(lnum1)>
+TEXT_ADDON_8943	<head(<string(lstr1)>)> mínimo: <num(lnum2)>
+TEXT_ADDON_8944	Todos los participantes de la misión tienen que entregar <ennoun(Item,1,lnum1,1,1)>.
+TEXT_ADDON_8945	<head(<if(lnum1,<if([lnum1<=10],<switch(lnum1,un,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)>)> jugador<if([lnum1==1],,es)> <if([lnum1>1],\(<num(lnum2)> tanque<if([lnum2==1],,s)>\, <num(lnum3)> sanador<if([lnum3==1],,es)>\, <num(lnum4)> DPS\),)>
+TEXT_ADDON_8946	De dos a <if(lnum1,<if([lnum1<=10],<switch(lnum1,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)> jugadores
+TEXT_ADDON_8948	Resultados de la misión
+TEXT_ADDON_8949	Cofres descubiertos
+TEXT_ADDON_8950	Abrir los ajustes de las misiones de exploración.
+TEXT_ADDON_8953	Objeto buscado: 
+TEXT_ADDON_8954	Se canjea por: Brass Spoils
+TEXT_ADDON_8956	¿Canjear <ennoun(Item,1,lnum1,1,1)> por <num(lnum3)> <ennoun(Item,3,lnum2,lnum3,1)>?
+TEXT_ADDON_8958	Canje de objetos
+TEXT_ADDON_8959	Objetos válidos
+TEXT_ADDON_8961	<if([lnum2>0],★,　)><switch(lnum1,<icon(51)>,<icon(52)>,<icon(53)>)><sheet(GrandCompany,lnum1,0)><br>Datos obtenidos
+TEXT_ADDON_8962	Ocupado
+TEXT_ADDON_8964	Puntaje táctico
+TEXT_ADDON_8965	Datos obtenidos
+TEXT_ADDON_8966	Aplicar los ajustes actuales de nombres visibles
+TEXT_ADDON_8967	Daño<br>recibido
+TEXT_ADDON_8968	Lugares ocupados
+TEXT_ADDON_8969	Ver los resultados detallados de la campaña.
+TEXT_ADDON_8970	Resultados detallados
+TEXT_ADDON_8972	Campos
+TEXT_ADDON_8973	Puntos tácticos por ocupaciones
+TEXT_ADDON_8974	Puntos tácticos por enemigos derrotados
+TEXT_ADDON_8975	Puntos tácticos por drones derrotados
+TEXT_ADDON_8976	Puntaje táctico total
+TEXT_ADDON_8987	Datos obtenidos de los tomeliths
+TEXT_ADDON_8988	Datos obtenidos de las fuerzas enemigas
+TEXT_ADDON_8989	Datos perdidos por bajas aliadas
+TEXT_ADDON_8990	Total de datos obtenidos
+TEXT_ADDON_8992	Ordenar por categoría.
+TEXT_ADDON_8995	Datos obtenidos de los tomeliths congelados
+TEXT_ADDON_8999	Puntos tácticos perdidos por bajas aliadas

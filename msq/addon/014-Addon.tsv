@@ -1,0 +1,94 @@
+key	text
+TEXT_ADDON_7001	Quitar de la venta
+TEXT_ADDON_7003	Muebles
+TEXT_ADDON_7008	Color
+TEXT_ADDON_7009	Color elegido
+TEXT_ADDON_7010	Elige del catálogo para aplicar al objeto.
+TEXT_ADDON_7012	Elegir color
+TEXT_ADDON_7016	Cartas náuticas
+TEXT_ADDON_7020	Lugares descubiertos
+TEXT_ADDON_7021	Lugares explorados
+TEXT_ADDON_7028	Elige un mueble
+TEXT_ADDON_7030	Ajustes del Angler's Print
+TEXT_ADDON_7032	<if([lnum2>0],El coleccionable <ennoun(Item,3,lnum1,1,1)>,<head(<ennoun(Item,1,lnum1,1,1)>)>)> se imprimirá en el lienzo. ¿Continuar?<br><if([lnum2>0],※Se imprimen primero los objetos con menor collectability.<br>,)><colortype(500)><edgecolortype(501)>※Los objetos HQ y los coleccionables pasarán a ser normales.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_7033	<colortype(506)><edgecolortype(507)>Elegiste el mismo objeto que ya está en exhibición.<edgecolortype(0)><colortype(0)><br><br>¿Desechar este objeto y reemplazarlo por otro?<br><if([lnum2>0],※Se imprimen primero los objetos con menor collectability.<br>,)><colortype(500)><edgecolortype(501)>※Los objetos HQ y los coleccionables pasarán a ser normales.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_7034	<if([lnum2>0],El coleccionable <ennoun(Item,3,lnum1,1,1)>,<head(<ennoun(Item,1,lnum1,1,1)>)>)> se imprimirá en el lienzo. ¿Continuar?<br><if([lnum2>0],※Se imprimen primero los objetos con menor collectability.<br>,)><colortype(500)><edgecolortype(501)>※Los objetos HQ y los coleccionables pasarán a ser normales.<edgecolortype(0)><colortype(0)><br><br>Se desechará este objeto:<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_7035	Disponible 
+TEXT_ADDON_7037	No hay nada para imprimir.
+TEXT_ADDON_7038	Las funciones de uno o más componentes perjudican el rendimiento.<br>¿Continuar con estos componentes?<br><br><colortype(506)><edgecolortype(507)>No se pueden enviar naves sin suficiente velocidad o alcance.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_7039	Detalles del terreno
+TEXT_ADDON_7045	Participar en la lotería
+TEXT_ADDON_7046	¿Quieres depositar <kilo(lnum1,\,)> gil para participar en la lotería de este <if([lnum2==3],<if([lnum3==0],<colortype(506)><edgecolortype(507)>terreno privado<edgecolortype(0)><colortype(0)>,<colortype(506)><edgecolortype(507)>terreno de free company<edgecolortype(0)><colortype(0)>)>,terreno)>? Ten en cuenta que solo puedes participar en la lotería de un terreno por período.<br><br><colortype(506)><edgecolortype(507)>・Este terreno lo pueden comprar ahora <switch(lnum2,solo las free companies,solo los compradores particulares,las free companies y los compradores particulares)>.<br>・Una vez enviada, la inscripción a la lotería no se puede retirar.<br>・Puedes ver los resultados de la lotería en este cartel durante el período de resultados.<br>・Quienes no ganen pueden recuperar el 100% de su depósito usando este cartel durante el período de resultados.<br>・Si te mudas desde un terreno que ya tienes, en principio se te devuelve cerca del 15% del valor del terreno anterior. El monto devuelto no puede superar el valor del terreno nuevo.<br>・Si ganas la lotería pero no reclamas el terreno durante el período de resultados, pierdes el derecho y se descuenta del depósito una tarifa de cancelación del 50%. El 50% restante se te devuelve al usar este cartel.<br>・Sin importar el resultado, todas las devoluciones de un período vencen 90 días (hora real) después del período de resultados. Usa este cartel dentro de ese plazo para recibirlas.<br>・Sin importar el resultado, si cambias de Home World después de inscribirte en una lotería, pierdes todas las devoluciones.<br>・No puedes pedir otro terreno hasta reclamar todas las propiedades o devoluciones pendientes.<br><if([lnum2==1],・No puedes comprar terreno para tu free company hasta treinta días después de unirte. Si dejas tu free company después de inscribirte en la lotería\, no podrás reclamar el terreno ganado\, aunque vuelvas a la misma free company.,<if([lnum2==3],<if([lnum3==1],・No puedes comprar terreno para tu free company hasta treinta días después de unirte. Si dejas tu free company después de inscribirte en la lotería\, no podrás reclamar el terreno ganado\, aunque vuelvas a la misma free company.,)>,)>)><edgecolortype(0)><colortype(0)>
+TEXT_ADDON_7047	Entiendo y quiero continuar.
+TEXT_ADDON_7050	Lista del Orchestrion
+TEXT_ADDON_7053	Reproducir todo
+TEXT_ADDON_7054	Aleatorio
+TEXT_ADDON_7055	Repetir
+TEXT_ADDON_7056	Derechos del dueño de la propiedad
+TEXT_ADDON_7060	No se está reproduciendo ninguna canción.
+TEXT_ADDON_7061	Lista de reproducción
+TEXT_ADDON_7062	Editar la lista
+TEXT_ADDON_7069	Detener la pista actual
+TEXT_ADDON_7070	Dejar de escuchar
+TEXT_ADDON_7071	La lista de reproducción está vacía.
+TEXT_ADDON_7072	¿Empezar <italic(1)><string(lstr2)><italic(0)> (modo: <string(lstr1)>)?<br><br><colortype(506)><edgecolortype(507)>※Afecta la BGM de la propiedad.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_7073	¿Detener la lista actual?<br><br><colortype(506)><edgecolortype(507)>※Afecta la BGM de la propiedad.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_7074	¿Cambiar la lista actual a <string(lstr1)>?<br><br><colortype(506)><edgecolortype(507)>※Afecta la BGM de la propiedad.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_7075	BGM de la propiedad
+TEXT_ADDON_7078	Elegir pista
+TEXT_ADDON_7080	Editor de listas
+TEXT_ADDON_7087	Agregar pista
+TEXT_ADDON_7090	¿Actualizar la lista?<br><br><colortype(506)><edgecolortype(507)>※Puede afectar la BGM de la propiedad.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_7091	¿Descartar los cambios y volver a la lista?
+TEXT_ADDON_7095	Pistas de la lista
+TEXT_ADDON_7097	Agregar al editor de listas
+TEXT_ADDON_7100	Orchestrion List
+TEXT_ADDON_7102	Mostrar solo los rollos obtenidos.
+TEXT_ADDON_7103	Dónde conseguirlo
+TEXT_ADDON_7105	Ajustes del Orchestrion
+TEXT_ADDON_7108	Categoría: <string(lstr1)>
+TEXT_ADDON_7109	Pista: <string(lstr1)>
+TEXT_ADDON_7111	Repetir en bucle
+TEXT_ADDON_7112	Dejar de repetir
+TEXT_ADDON_7113	Detener
+TEXT_ADDON_7114	¿Cambiar la música de fondo de toda la propiedad a <italic(1)><string(lstr1)><italic(0)>?
+TEXT_ADDON_7115	Al detener el orchestrion, la música de fondo de toda la propiedad vuelve a la predeterminada. ¿Continuar?
+TEXT_ADDON_7116	No se está reproduciendo ninguna canción.
+TEXT_ADDON_7117	No hay canciones para mostrar.
+TEXT_ADDON_7120	Escribe el nombre completo o parcial de un rollo de música y presiona Enter para buscar.
+TEXT_ADDON_7121	No hay rollos de música que coincidan.
+TEXT_ADDON_7122	El número ganador es... ¡<num(lnum1)>!<br><br>¡Felicidades! Ganaste esta lotería. ¿Terminar la compra y reclamar tu terreno?<br>※Terreno disponible hasta las <settime(lnum2)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> del <if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>.
+TEXT_ADDON_7123	Terminó el período de resultados. Perdiste el derecho a este terreno y, además, se descuenta de tu depósito una tarifa de cancelación del 50%. ¿Aceptar la devolución restante de <kilo(lnum1,\,)> gil?<br>※Devolución disponible hasta las <settime(lnum2)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> del <if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>.
+TEXT_ADDON_7124	El número ganador es... <num(lnum1)>. ¡Que tengas más suerte la próxima vez!<br><br>¿Aceptar la devolución completa de tu depósito de <kilo(lnum2,\,)> gil?<br>※Devolución disponible hasta las <settime(lnum3)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> del <if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>.
+TEXT_ADDON_7125	Pasaron más de 90 días desde el fin del período de resultados, así que tu devolución venció.
+TEXT_ADDON_7127	Ver los resultados de la lotería
+TEXT_ADDON_7128	¡Felicidades! Como fuiste la única participación en esta lotería, ganaste sin sorteo. ¿Terminar la compra y reclamar tu terreno?<br>※Terreno disponible hasta las <settime(lnum2)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> del <if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>.
+TEXT_ADDON_7129	Hubo una sola participación en esta lotería.
+TEXT_ADDON_7130	Actualizar ranura
+TEXT_ADDON_7131	Waymarks
+TEXT_ADDON_7133	RANURAS
+TEXT_ADDON_7136	Guardar los marcadores colocados.
+TEXT_ADDON_7137	Los waymarks solo se pueden colocar fuera de combate.<br>※En PvP se pueden usar en combate.<br>Los waymarks solo se pueden guardar y cargar en ciertos duties.
+TEXT_ADDON_7138	Reemplazar
+TEXT_ADDON_7141	Empezar
+TEXT_ADDON_7146	¿Salir del juego?
+TEXT_ADDON_7151	Negociar
+TEXT_ADDON_7156	Habilidades
+TEXT_ADDON_7157	Reversal<br> Invierte el orden en que avanzan las fichas.
+TEXT_ADDON_7158	Double Down<br> Duplica el valor de las fichas.
+TEXT_ADDON_7159	Shuffle<br> Cambia al azar la posición de las fichas.
+TEXT_ADDON_7160	Wipe<br> Reinicia el tablero con fichas nuevas.
+TEXT_ADDON_7161	¡Habilidades disponibles!
+TEXT_ADDON_7162	Turno <num(lnum1)>
+TEXT_ADDON_7181	The Hammer
+TEXT_ADDON_7182	Family Trade
+TEXT_ADDON_7183	Meteor Survivor Ring
+TEXT_ADDON_7184	Godbert's Masterworks
+TEXT_ADDON_7185	Salamander Oil
+TEXT_ADDON_7186	Manderville Mammet
+TEXT_ADDON_7187	A Gentleman's Attire
+TEXT_ADDON_7188	Alexandrite
+TEXT_ADDON_7189	Agent of Enquiry
+TEXT_ADDON_7190	Assiduous Assistant
+TEXT_ADDON_7491	Concentración
+TEXT_ADDON_7495	Menos turnos

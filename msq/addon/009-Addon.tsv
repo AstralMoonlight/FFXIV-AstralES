@@ -1,0 +1,271 @@
+key	text
+TEXT_ADDON_4500	Linkshell [1]
+TEXT_ADDON_4501	Linkshell [2]
+TEXT_ADDON_4502	Linkshell [3]
+TEXT_ADDON_4503	Linkshell [4]
+TEXT_ADDON_4504	Linkshell [5]
+TEXT_ADDON_4505	Linkshell [6]
+TEXT_ADDON_4506	Linkshell [7]
+TEXT_ADDON_4507	Linkshell [8]
+TEXT_ADDON_4509	Anuncios de la Novice Network
+TEXT_ADDON_4510	Support Desk
+TEXT_ADDON_4513	Noticias
+TEXT_ADDON_4514	Contacto
+TEXT_ADDON_4516	Temas recientes
+TEXT_ADDON_4517	Preguntas frecuentes
+TEXT_ADDON_4518	Buscar en las preguntas frecuentes
+TEXT_ADDON_4519	Buscar en la base de datos
+TEXT_ADDON_4520	Denunciar acoso
+TEXT_ADDON_4521	Si otro jugador te acosa, de palabra o en el juego, envía tu denuncia aquí.
+TEXT_ADDON_4522	Denunciar trampas
+TEXT_ADDON_4523	Si crees que alguien usa un programa que le da una ventaja injusta, o viste la compra, venta o farmeo con bots de objetos a cambio de dinero real, puedes enviar una denuncia aquí. Ten en cuenta que no podemos responder cada denuncia por separado.
+TEXT_ADDON_4524	Informar un error
+TEXT_ADDON_4525	Si crees que encontraste un error, puedes informarlo aquí. Si es un problema del juego, revisa antes las preguntas frecuentes de Lodestone y el manual en línea. Ten en cuenta que no podemos responder cada informe por separado.
+TEXT_ADDON_4526	Dejar una sugerencia
+TEXT_ADDON_4527	Envía aquí tus comentarios o sugerencias sobre la atención dentro del juego. Ten en cuenta que no podemos responder cada comentario o sugerencia por separado. Los comentarios y sugerencias sobre FFXIV se pueden publicar en los foros oficiales de discusión general de FFXIV.
+TEXT_ADDON_4529	Obteniendo información...
+TEXT_ADDON_4530	Enviar informe
+TEXT_ADDON_4532	Pregunta 1: 
+TEXT_ADDON_4533	Pregunta 2: 
+TEXT_ADDON_4534	Título:
+TEXT_ADDON_4535	Mensaje:
+TEXT_ADDON_4536	Terminar
+TEXT_ADDON_4542	No se encontraron preguntas frecuentes que coincidan.<br>Presiona el botón Equipo de soporte para enviar una pregunta.
+TEXT_ADDON_4543	Equipo de soporte
+TEXT_ADDON_4545	Respuestas y avisos recientes
+TEXT_ADDON_4547	[Respuesta] 
+TEXT_ADDON_4548	Avisos personales
+TEXT_ADDON_4549	Historial de informes
+TEXT_ADDON_4555	Preguntas frecuentes relacionadas
+TEXT_ADDON_4556	No hay preguntas para mostrar.
+TEXT_ADDON_4558	¿Quieres descartar tu mensaje?
+TEXT_ADDON_4566	Re:
+TEXT_ADDON_4570	Misiones de entrega de la Grand Company
+TEXT_ADDON_4572	Suministros
+TEXT_ADDON_4573	Aprovisionamiento
+TEXT_ADDON_4574	Entrega experta
+TEXT_ADDON_4577	Pedido
+TEXT_ADDON_4581	Próxima mission allowance en <num(lnum1)> <if([lnum1==1],hora,horas)> y <num(lnum2)> <if([lnum2==1],minuto,minutos)>, a las <settime(lnum3)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> del <num(t_mon)>/<num(t_day)> (hora real).
+TEXT_ADDON_4582	1.º
+TEXT_ADDON_4583	2.º
+TEXT_ADDON_4584	3.º
+TEXT_ADDON_4586	Las misiones de entrega experta se desbloquean al llegar al rango <switch(lnum1,<sheet(GCRankLimsaMaleText,lnum2,0)>,<sheet(GCRankGridaniaMaleText,lnum2,0)>,<sheet(GCRankUldahMaleText,lnum2,0)>)>.
+TEXT_ADDON_4587	No tienes objetos que sirvan.
+TEXT_ADDON_4588	Hoy ya no se aceptan más entregas.
+TEXT_ADDON_4594	 Faltan <num(lnum1)>:<sec(lnum2)>  (<settime(lnum3)><if([gnum77==3],<num(t_day)>/<num(t_mon)>,<num(t_mon)>/<num(t_day)>)> <num(t_hour)>:<sec(t_min)>)
+TEXT_ADDON_4595	Misiones de suministros
+TEXT_ADDON_4596	Misiones de aprovisionamiento
+TEXT_ADDON_4598	Próxima mission allowance
+TEXT_ADDON_4601	Bonificación  HQ
+TEXT_ADDON_4602	Entregar
+TEXT_ADDON_4604	Todavía no desbloqueaste ninguna de las clases necesarias para las misiones.
+TEXT_ADDON_4605	Atención: no vas a poder recibir todos los company seals. ¿Quieres continuar de todos modos?
+TEXT_ADDON_4606	Atención: no vas a poder llevar todos los Allagan tomestones. ¿Quieres continuar de todos modos?
+TEXT_ADDON_4607	Atención: no vas a poder recibir todos los company seals y Allagan tomestones. ¿Quieres continuar de todos modos?
+TEXT_ADDON_4608	Plazo del desafío
+TEXT_ADDON_4609	Atención: no vas a poder recibir todo lo siguiente:<br><if([lnum1>0],<br>  Company Seals,)><if([lnum2>0],<br>  Allagan Tomestones,)><if([lnum3>0],<br>  Reputación,)><br><br>¿Quieres continuar de todos modos?
+TEXT_ADDON_4610	Recuperar objetos
+TEXT_ADDON_4613	Montón
+TEXT_ADDON_4614	No hay objetos para recuperar.
+TEXT_ADDON_4615	Espacios libres en el inventario: <num(lnum1)>
+TEXT_ADDON_4616	Objetos guardados: <num(lnum1)>
+TEXT_ADDON_4617	Mostrar todos los objetos
+TEXT_ADDON_4618	Ocultar objetos de gear sets
+TEXT_ADDON_4619	Ocultar objetos del Armoury Chest
+TEXT_ADDON_4620	¿Reclamar <if([lnum2==1],<ennoun(Item,1,lnum1,lnum2,1)>,<num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)>)>? Una vez reclamado, no se puede devolver.
+TEXT_ADDON_4623	Misiones de entrega
+TEXT_ADDON_4624	<icon2(11)> Objetos de las misiones de entrega
+TEXT_ADDON_4626	Próxima map allowance
+TEXT_ADDON_4634	Equipo de clase/job
+TEXT_ADDON_4635	Equipo de temporada 1
+TEXT_ADDON_4637	Extras exclusivos
+TEXT_ADDON_4638	No tienes armadura de artefacto.
+TEXT_ADDON_4639	No tienes equipo de temporada.
+TEXT_ADDON_4640	No tienes objetos de logros.
+TEXT_ADDON_4641	No tienes extras exclusivos.
+TEXT_ADDON_4644	No hay objetos disponibles.
+TEXT_ADDON_4645	Sellos (ascendente)
+TEXT_ADDON_4646	Sellos (descendente)
+TEXT_ADDON_4647	Tipo de objeto
+TEXT_ADDON_4649	Este objeto es parte de un gear set registrado. ¿Seguro que quieres continuar?
+TEXT_ADDON_4650	Al guardar <ennoun(Item,2,lnum1,1,1)> en el armoire, se retira toda la materia engarzada, el spiritbond vuelve a 0% y se quita toda la personalización. El equipo con menos de 100% de estado no se puede guardar. ¿Continuar?
+TEXT_ADDON_4654	No se puede engarzar esta materia en un objeto que ya tiene materia.
+TEXT_ADDON_4655	Engarce avanzado prohibido
+TEXT_ADDON_4656	Tarifa de engarce
+TEXT_ADDON_4658	¿Engarzar <ennoun(Item,2,lnum2,1,1)> en <ennoun(Item,2,lnum1,1,1)> por <kilo(lnum3,\,)> gil?
+TEXT_ADDON_4662	Armadura de artefacto
+TEXT_ADDON_4663	Equipo de temporada
+TEXT_ADDON_4664	Objetos de logros
+TEXT_ADDON_4666	El armoire no tiene armadura de artefacto.
+TEXT_ADDON_4667	El armoire no tiene equipo de temporada.
+TEXT_ADDON_4668	El armoire no tiene objetos de logros.
+TEXT_ADDON_4669	El armoire no tiene extras exclusivos.
+TEXT_ADDON_4672	¿Aplicar el glamour al equipo actual?
+TEXT_ADDON_4673	Escribe el nombre completo o parcial de un objeto y presiona Enter para buscar. Se muestran hasta 100 resultados.
+TEXT_ADDON_4675	¿Sacar <ennoun(Item,2,lnum1,1,1)> del armoire?
+TEXT_ADDON_4681	Inventario: equipo
+TEXT_ADDON_4682	Inventario: elementos/muebles
+TEXT_ADDON_4683	HOUSING
+TEXT_ADDON_4685	Inventario del retainer: equipo
+TEXT_ADDON_4686	Inventario del retainer: elementos/muebles
+TEXT_ADDON_4688	Elegir otro
+TEXT_ADDON_4690	Teñido de objetos
+TEXT_ADDON_4694	No tienes objetos teñibles.
+TEXT_ADDON_4695	Teñir
+TEXT_ADDON_4696	Vínculo único
+TEXT_ADDON_4697	Vincular
+TEXT_ADDON_4703	Tintes
+TEXT_ADDON_4704	Tinte necesario
+TEXT_ADDON_4705	Elegir otro objeto
+TEXT_ADDON_4707	Mostrar todo el equipo puesto.<br>(Puede que el objeto elegido deje de verse).
+TEXT_ADDON_4708	Ver todo el equipo teñible con el mismo color.<br>(Solo se tiñe el objeto elegido).
+TEXT_ADDON_4710	Oculta o muestra las armas de las manos principal y secundaria.
+TEXT_ADDON_4711	<icon2(20)> Mover <icon2(25)> Girar <icon2(12)>＋<icon2(24)> Acercar/alejar
+TEXT_ADDON_4712	Vista previa no disponible por restricciones de raza o género.
+TEXT_ADDON_4713	Vista previa no disponible para objetos de housing.
+TEXT_ADDON_4714	No tienes este tinte.
+TEXT_ADDON_4715	Este tinte no se puede usar en objetos de housing.
+TEXT_ADDON_4717	Piezas/componentes
+TEXT_ADDON_4718	Vista previa no disponible.
+TEXT_ADDON_4719	Aplicar este tinte.
+TEXT_ADDON_4720	¡Ganan los Fangs!
+TEXT_ADDON_4721	¡Ganan los Claws!
+TEXT_ADDON_4722	¡Empate!
+TEXT_ADDON_4725	EXP PvP
+TEXT_ADDON_4726	Wolf Marks
+TEXT_ADDON_4728	Home World
+TEXT_ADDON_4730	Bajas
+TEXT_ADDON_4731	Veces KO
+TEXT_ADDON_4733	HP restaurado
+TEXT_ADDON_4734	Tiempo restante en Wolves' Den: <num(lnum1)> min <sec(lnum2)> s
+TEXT_ADDON_4737	¡<if([lnum1==1],El,<if([lnum1==2],La,Los)>)> <sheet(GrandCompany,lnum1,0)> <if([lnum1==1],gana,<if([lnum1==2],gana,ganan)>)>!
+TEXT_ADDON_4738	Ocupaciones
+TEXT_ADDON_4739	Tiempo restante en la zona: <num(lnum1)>:<sec(lnum2)>
+TEXT_ADDON_4740	Sin ocupar
+TEXT_ADDON_4741	Ocupando <switch(lnum1,<icon(51)>,<icon(52)>,<icon(53)>)>
+TEXT_ADDON_4742	Ocupado por <switch(lnum1,<icon(51)>,<icon(52)>,<icon(53)>)>
+TEXT_ADDON_4743	Lugares ocupados
+TEXT_ADDON_4744	<if([lnum2>0],★,　)><switch(lnum1,<icon(51)>,<icon(52)>,<icon(53)>)><sheet(GrandCompany,lnum1,0)><br>Puntaje táctico
+TEXT_ADDON_4746	<icon2(12)><icon2(13)> Cambiar de lista
+TEXT_ADDON_4747	Quedaste KO.<br>En un momento vuelves al área de inicio.
+TEXT_ADDON_4748	Empate
+TEXT_ADDON_4750	Pertrechos
+TEXT_ADDON_4751	Armas
+TEXT_ADDON_4753	Novedades
+TEXT_ADDON_4754	No eres miembro <if([lnum1==1],del,<if([lnum1==2],de la,de los)>)> <sheet(GrandCompany,lnum1,0)>.
+TEXT_ADDON_4755	Quedaste KO.<br>Presiona OK para volver al área de inicio.
+TEXT_ADDON_4757	B
+TEXT_ADDON_4758	C
+TEXT_ADDON_4759	Equipo
+TEXT_ADDON_4763	Materia engarzada
+TEXT_ADDON_4766	Materia restaurable
+TEXT_ADDON_4767	Se mostrará una lista de la materia restaurable.
+TEXT_ADDON_4771	Recibes:
+TEXT_ADDON_4772	A cambio de:
+TEXT_ADDON_4774	Canjear
+TEXT_ADDON_4776	<sheet(Item,lnum1,9)><br>(Collectability Rating: <num(lnum2)>～)
+TEXT_ADDON_4780	<sheet(GrandCompany,lnum1,0)>
+TEXT_ADDON_4783	<sheet(FCRights,lnum2,0)><br>Rango <num(lnum1)>
+TEXT_ADDON_4785	Beneficios
+TEXT_ADDON_4787	Reputación
+TEXT_ADDON_4790	EXP de la compañía
+TEXT_ADDON_4791	Créditos de la compañía
+TEXT_ADDON_4792	Editar perfil
+TEXT_ADDON_4796	La compañía no tiene un lema.
+TEXT_ADDON_4797	No tienes permiso para editar el perfil de la compañía.
+TEXT_ADDON_4798	Este beneficio todavía no está desbloqueado.
+TEXT_ADDON_4800	The Unending Journey 
+TEXT_ADDON_4803	Cinemáticas ya vistas
+TEXT_ADDON_4804	Cinemática n.º
+TEXT_ADDON_4805	Cargando...
+TEXT_ADDON_4806	No hay cinemáticas para mostrar.
+TEXT_ADDON_4807	<icon2(23)> Desplazar
+TEXT_ADDON_4808	The Palace of the Dead
+TEXT_ADDON_4809	Heaven-on-High
+TEXT_ADDON_4810	Historial de ventas
+TEXT_ADDON_4815	Fecha/hora
+TEXT_ADDON_4816	No hay ventas para mostrar.
+TEXT_ADDON_4817	No se pudo actualizar la lista.
+TEXT_ADDON_4818	Reflejar el progreso de las misiones
+TEXT_ADDON_4819	Eureka Orthos
+TEXT_ADDON_4820	Editor de emblemas
+TEXT_ADDON_4823	Figura
+TEXT_ADDON_4824	Común
+TEXT_ADDON_4826	Escudo
+TEXT_ADDON_4831	Al azar
+TEXT_ADDON_4832	¿Guardar los cambios del diseño del emblema?
+TEXT_ADDON_4833	¿Descartar todos los cambios sin guardar?
+TEXT_ADDON_4835	No tienes permiso para cambiar el emblema de la compañía.
+TEXT_ADDON_4838	Requisito: <sheet(FCRights,lnum1,0)>
+TEXT_ADDON_4839	Elegiste un símbolo no válido.
+TEXT_ADDON_4840	Cosecha
+TEXT_ADDON_4842	Tala
+TEXT_ADDON_4846	Extracción de piedra
+TEXT_ADDON_4850	Intentos (máx.: <num(lnum1)>)
+TEXT_ADDON_4851	Usar materiales HQ.
+TEXT_ADDON_4853	<colortype(500)><edgecolortype(501)>※Los materiales HQ no mejoran la calidad del objeto.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_4854	Elige la cantidad que quieres sintetizar.
+TEXT_ADDON_4856	<colortype(500)><edgecolortype(501)>※No se pueden fabricar coleccionables con la síntesis rápida.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_4857	Sintetizar solo objetos NQ.
+TEXT_ADDON_4863	Remote Play
+TEXT_ADDON_4870	Carrera automática
+TEXT_ADDON_4871	Cambiar set de hotbars
+TEXT_ADDON_4872	Resaltar la hotbar izquierda
+TEXT_ADDON_4873	Resaltar la hotbar derecha
+TEXT_ADDON_4874	Desenvainar/fijar objetivo
+TEXT_ADDON_4875	Cambiar cámara
+TEXT_ADDON_4876	Saltar/cancelar lanzamiento
+TEXT_ADDON_4877	Elegir objetivo/confirmar
+TEXT_ADDON_4879	Abrir mapa/subcomandos
+TEXT_ADDON_4880	Abrir el menú principal
+TEXT_ADDON_4881	Elegir HUD<if([gnum78==99], o panel táctil,)>
+TEXT_ADDON_4882	Mover personaje
+TEXT_ADDON_4883	Mover cámara
+TEXT_ADDON_4884	Mover cursor
+TEXT_ADDON_4885	Sentarse/fijar objetivo
+TEXT_ADDON_4887	Restablecer la posición de la cámara
+TEXT_ADDON_4888	Desenvainar/envainar el arma
+TEXT_ADDON_4889	Fijar objetivo
+TEXT_ADDON_4890	Sin asignar
+TEXT_ADDON_4891	Mirar al objetivo
+TEXT_ADDON_4892	Asistir al objetivo
+TEXT_ADDON_4893	Mirar a la cámara
+TEXT_ADDON_4894	Ejecutar macro n.º 98 (exclusiva)
+TEXT_ADDON_4895	Ejecutar macro n.º 99 (exclusiva)
+TEXT_ADDON_4896	Command Panel
+TEXT_ADDON_4898	Asignar a la hotbar
+TEXT_ADDON_4899	Tu clase/job actual no puede usarlo como acción adicional. Quítalo desde el submenú.
+TEXT_ADDON_4901	Monturas
+TEXT_ADDON_4902	Minions
+TEXT_ADDON_4903	Compañeros
+TEXT_ADDON_4904	Comandos principales
+TEXT_ADDON_4905	Tu clase actual.
+TEXT_ADDON_4906	Mascotas
+TEXT_ADDON_4911	Defensor
+TEXT_ADDON_4912	Atacante
+TEXT_ADDON_4922	Accesorios
+TEXT_ADDON_4928	¿Canjear <kilo(lnum4,\,)> <ennoun(Item,3,lnum3,lnum4,1)> por <if([lnum2==1],<ennoun(Item,1,lnum1,1,1)>,<kilo(lnum2,\,)> <ennoun(Item,3,lnum1,2,1)>)>?
+TEXT_ADDON_4933	Objetos necesarios
+TEXT_ADDON_4935	¿Restaurar <num(lnum4)> <ennoun(Item,3,lnum3,lnum4,1)> a <num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)>?
+TEXT_ADDON_4936	No puedes equipar <ennoun(Item,2,lnum1,1,1)> con tu rango de PvP actual. ¿Comprarlo de todos modos?
+TEXT_ADDON_4937	Ya obtuviste la acción que da este objeto. ¿Continuar?
+TEXT_ADDON_4938	No hay objetos a la venta.
+TEXT_ADDON_4940	Visor de gear sets
+TEXT_ADDON_4942	No se encontró un objeto coincidente en tu Armoury Chest.
+TEXT_ADDON_4943	Se equipó un objeto de otro color.
+TEXT_ADDON_4944	No pudiste equipar este objeto.
+TEXT_ADDON_4945	Se equipó un objeto con otra materia engarzada.
+TEXT_ADDON_4946	Se equipó un objeto con otra apariencia.
+TEXT_ADDON_4963	Llamar
+TEXT_ADDON_4966	Habilidades
+TEXT_ADDON_4968	Rango:
+TEXT_ADDON_4969	SP: <num(lnum1)>
+TEXT_ADDON_4974	¿Gastar <num(lnum2)> SP para obtener “<string(lstr1)>”?
+TEXT_ADDON_4975	Llamado
+TEXT_ADDON_4977	Esperando
+TEXT_ADDON_4980	Editor de perfil
+TEXT_ADDON_4984	Lema de la compañía
+TEXT_ADDON_4987	Color actual
+TEXT_ADDON_4988	Feed favorito
+TEXT_ADDON_4994	No hay equipo para mostrar.
+TEXT_ADDON_4995	Montar/desmontar

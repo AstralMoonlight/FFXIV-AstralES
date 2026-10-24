@@ -1,0 +1,344 @@
+key	text
+TEXT_ADDON_1	OK
+TEXT_ADDON_2	Cancelar
+TEXT_ADDON_3	Sí.
+TEXT_ADDON_4	No.
+TEXT_ADDON_5	Salir
+TEXT_ADDON_7	Ninguno
+TEXT_ADDON_10	Japonés
+TEXT_ADDON_11	Inglés
+TEXT_ADDON_12	Alemán
+TEXT_ADDON_13	Francés
+TEXT_ADDON_14	Chino simplificado
+TEXT_ADDON_35	Nv. <num(lnum1)>
+TEXT_ADDON_36	Nv. <if([lnum1>0],+<num(lnum1)>,<num(lnum1)>)>
+TEXT_ADDON_39	Hace unos minutos
+TEXT_ADDON_40	<num(lnum1)> min
+TEXT_ADDON_41	<num(lnum1)> h
+TEXT_ADDON_42	<num(lnum1)> d
+TEXT_ADDON_49	<num(lnum1)> s
+TEXT_ADDON_50	Enviar tell
+TEXT_ADDON_51	Ver Search Info
+TEXT_ADDON_52	Editar Search Info
+TEXT_ADDON_53	Comerciar
+TEXT_ADDON_54	Invitar al grupo
+TEXT_ADDON_55	Ascender
+TEXT_ADDON_56	Expulsar del grupo
+TEXT_ADDON_57	Atacar
+TEXT_ADDON_58	Examinar
+TEXT_ADDON_59	Agregar a la Blacklist
+TEXT_ADDON_60	Quitar de la Blacklist
+TEXT_ADDON_61	Enviar solicitud de amistad
+TEXT_ADDON_62	Cancelar solicitud de amistad
+TEXT_ADDON_63	Responder solicitud de amistad
+TEXT_ADDON_64	Rechazar solicitud de amistad
+TEXT_ADDON_65	Quitar de la Friend List
+TEXT_ADDON_66	Ver
+TEXT_ADDON_67	Responder
+TEXT_ADDON_68	Borrar
+TEXT_ADDON_69	Quitar objeto
+TEXT_ADDON_70	Seguir
+TEXT_ADDON_71	Ocultar el chat de la linkshell
+TEXT_ADDON_72	Mostrar el chat de la linkshell
+TEXT_ADDON_73	Activar linkshell
+TEXT_ADDON_74	Disolver linkshell
+TEXT_ADDON_75	Aceptar invitación a la linkshell
+TEXT_ADDON_76	Rechazar invitación a la linkshell
+TEXT_ADDON_77	Dejar la linkshell
+TEXT_ADDON_78	Hacer Linkshell Master
+TEXT_ADDON_79	Hacer Linkshell Leader
+TEXT_ADDON_80	Quitar de Linkshell Leader
+TEXT_ADDON_81	Expulsar de la linkshell
+TEXT_ADDON_82	Desactivar linkshell
+TEXT_ADDON_83	Invitar a la linkshell
+TEXT_ADDON_84	Dejar de ser Linkshell Leader
+TEXT_ADDON_85	Quitar
+TEXT_ADDON_86	Separar pestaña
+TEXT_ADDON_87	Borrar pestaña
+TEXT_ADDON_88	Entregar
+TEXT_ADDON_89	Quitarse
+TEXT_ADDON_90	Usar
+TEXT_ADDON_91	Desechar
+TEXT_ADDON_92	Dividir
+TEXT_ADDON_93	Vender
+TEXT_ADDON_94	Adjuntar
+TEXT_ADDON_96	Equipar
+TEXT_ADDON_97	Confiar al retainer
+TEXT_ADDON_98	Recuperar del retainer
+TEXT_ADDON_99	Poner en venta
+TEXT_ADDON_100	Copiar
+TEXT_ADDON_101	Pegar
+TEXT_ADDON_102	Cortar
+TEXT_ADDON_103	Ejecutar
+TEXT_ADDON_105	Deshacer
+TEXT_ADDON_106	Rehacer
+TEXT_ADDON_107	Reparar
+TEXT_ADDON_108	¿Dejar el grupo y abandonar el duty actual?
+TEXT_ADDON_109	¿Abandonar el duty actual?
+TEXT_ADDON_110	<colortype(508)><edgecolortype(509)>¿Desechar <if([lnum2==1],<ennoun(Item,2,lnum1,1,1)>,<num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)>)>?<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_111	¿Volver a <ennoun(PlaceName,2,<sheet(Aetheryte,lnum1,8)>,2,1)>?
+TEXT_ADDON_112	¿Aceptar Raise?
+TEXT_ADDON_113	¿Aceptar Rebirth de <string(lstr1)>?
+TEXT_ADDON_114	¿Equipar los objetos del gear set <num(lnum2)> (<string(lstr1)>)?
+TEXT_ADDON_115	¿Cerrar sesión y volver a la pantalla de título?
+TEXT_ADDON_116	¿Cerrar sesión y salir del juego?
+TEXT_ADDON_117	¿Volver a tu Home Point?
+TEXT_ADDON_118	¿Volver al punto de inicio de<br><string(gstr56)>?
+TEXT_ADDON_119	¿Volver al punto de inicio de<br><string(gstr56)>? <br><br><colortype(500)><edgecolortype(501)>※Es posible que no puedas volver a entrar en los combates en curso.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_120	¿Unirte al grupo de <string(lstr1)>?
+TEXT_ADDON_121	¿Rechazar la invitación al grupo de <string(lstr1)>?
+TEXT_ADDON_122	¿Dejar el grupo?
+TEXT_ADDON_123	¿Disolver el grupo?
+TEXT_ADDON_124	¿Agregar a <string(lstr1)> a tu Blacklist?
+TEXT_ADDON_125	¿Quitar a <string(lstr1)> de tu Blacklist?
+TEXT_ADDON_126	¿Aceptar la solicitud de amistad de <string(lstr1)>? <br><colortype(506)><edgecolortype(507)>※Las solicitudes de amistad pendientes dejan de valer después de cierto tiempo. Si respondes a una solicitud vencida, el nombre de quien la envió se quita de tu Friend List, sin importar la opción que elijas.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_127	¿Rechazar la solicitud de amistad de <string(lstr1)>?
+TEXT_ADDON_128	¿Cancelar la solicitud de amistad a <string(lstr1)>?
+TEXT_ADDON_129	¿Quitar a <string(lstr1)> de tu Friend List?
+TEXT_ADDON_130	¿Enviar la carta a <string(lstr1)>?
+TEXT_ADDON_131	Solo puedes enviar cartas a los jugadores de tu Friend List. <string(lstr1)> no está en ella.
+TEXT_ADDON_132	¿Borrar esta carta?
+TEXT_ADDON_133	Para enviar este mensaje, primero elige un destinatario de tu Friend List.
+TEXT_ADDON_134	¿Aceptar la invitación a la linkshell “<string(lstr1)>”?
+TEXT_ADDON_135	¿Rechazar la invitación a la linkshell “<string(lstr1)>”?
+TEXT_ADDON_136	¿Dejar “<string(lstr1)>”?
+TEXT_ADDON_137	Una vez disuelta, no podrás recuperar esta linkshell. ¿Seguro que es lo que quieres?
+TEXT_ADDON_138	Sí. Es exactamente lo que quiero.
+TEXT_ADDON_139	¿Expulsar a <string(lstr1)> de tu linkshell?
+TEXT_ADDON_140	¿Hacer a <string(lstr1)> Linkshell Leader?
+TEXT_ADDON_141	¿Quitar a <string(lstr1)> de Linkshell Leader?
+TEXT_ADDON_142	¿Hacer a <string(lstr1)> Linkshell Master y traspasarle todos los derechos del cargo?
+TEXT_ADDON_143	Sí, ahora mismo.
+TEXT_ADDON_145	Timers
+TEXT_ADDON_147	Próxima leve allowance
+TEXT_ADDON_148	  Faltan <num(lnum1)>:<sec(lnum2)>  <settime(lnum3)><string(lstr4)><if([gnum77==3],<num(t_day)>/<num(t_mon)>,<num(t_mon)>/<num(t_day)>)> <num(t_hour)>:<sec(t_min)><string(lstr5)>
+TEXT_ADDON_149	¿Enviar una solicitud de amistad a <string(lstr1)>?
+TEXT_ADDON_151	¿Seguro que quieres usar el coleccionable?
+TEXT_ADDON_152	Desechar el coleccionable.
+TEXT_ADDON_153	<colortype(508)><edgecolortype(509)>¿Desechar <ennoun(Item,2,lnum1,1,1)><if([lnum2>0], \(Collectability Rating: <num(lnum2)>\),)>?<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_154	Bajar la calidad
+TEXT_ADDON_155	<colortype(508)><edgecolortype(509)>Bajar la calidad de <if([lnum2==1],<ennoun(Item,2,lnum1,1,1)>,<num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)>)> con este resultado:<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_156	<colortype(508)><edgecolortype(509)>Bajar la calidad de <ennoun(Item,2,lnum1,1,1)> (Collectability Rating: <num(lnum2)>) con este resultado:<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_157	Bajar la calidad del coleccionable.
+TEXT_ADDON_158	Bajar la calidad del objeto.
+TEXT_ADDON_159	Copiar el nombre del objeto
+TEXT_ADDON_162	Record Ready Check
+TEXT_ADDON_165	¿Expulsar a <string(lstr1)> del grupo?
+TEXT_ADDON_166	<string(lstr1)> quiere teletransportarte a <ennoun(PlaceName,2,<sheet(Aetheryte,lnum2,8)>,2,1)>.
+TEXT_ADDON_168	Aceptar
+TEXT_ADDON_169	Rechazar
+TEXT_ADDON_170	Invitación al grupo
+TEXT_ADDON_171	Solicitud de amistad
+TEXT_ADDON_172	Invitación a linkshell
+TEXT_ADDON_173	¿Hacer a <string(lstr1)> líder del grupo?
+TEXT_ADDON_174	Invitar a <string(lstr2)>
+TEXT_ADDON_175	Solo
+TEXT_ADDON_176	Grupo
+TEXT_ADDON_177	Grupo ligero
+TEXT_ADDON_178	Grupo completo
+TEXT_ADDON_179	Montado
+TEXT_ADDON_180	Disciplines of War
+TEXT_ADDON_181	Disciplines of Magic
+TEXT_ADDON_182	Disciplines of the Land
+TEXT_ADDON_183	Disciplines of the Hand
+TEXT_ADDON_184	Job especializado
+TEXT_ADDON_186	Teleport
+TEXT_ADDON_187	Elige un destino.<br>Gil actual: <kilo(lnum1,\,)>
+TEXT_ADDON_193	Rol
+TEXT_ADDON_195	¿Salir del juego?
+TEXT_ADDON_199	<string(lstr1)> quiere teletransportarte a <switch(lnum2,New Gridania,Bentbranch Meadows,the Hawthorne Hut,Quarrymill,Camp Tranquil,Fallgourd)>.
+TEXT_ADDON_200	<br><colortype(500)><edgecolortype(501)>Hechizo listo en <if(lnum1,<num(lnum1)> <if([lnum1==1],minuto,minutos)>,<if([lnum2>30],menos de un minuto,menos de 30 segundos)>)>.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_205	gil
+TEXT_ADDON_206	Indica la cantidad.
+TEXT_ADDON_207	Si te alejas del objetivo, se cancela el intercambio.
+TEXT_ADDON_209	<icon2(10)> Retirar objeto
+TEXT_ADDON_210	Síntesis
+TEXT_ADDON_213	Progreso
+TEXT_ADDON_214	Durabilidad
+TEXT_ADDON_215	Estado
+TEXT_ADDON_216	Calidad
+TEXT_ADDON_217	HQ
+TEXT_ADDON_218	Paso
+TEXT_ADDON_220	Síntesis rápida
+TEXT_ADDON_223	Éxito
+TEXT_ADDON_224	Fallo
+TEXT_ADDON_226	Normal
+TEXT_ADDON_227	Bueno
+TEXT_ADDON_228	Excelente
+TEXT_ADDON_229	Malo
+TEXT_ADDON_230	Personaje
+TEXT_ADDON_232	HP
+TEXT_ADDON_233	MP
+TEXT_ADDON_234	TP
+TEXT_ADDON_239	Centrado
+TEXT_ADDON_240	Robusto
+TEXT_ADDON_241	Flexible
+TEXT_ADDON_242	Nv. ???
+TEXT_ADDON_243	Fuego
+TEXT_ADDON_244	Agua
+TEXT_ADDON_245	Rayo
+TEXT_ADDON_246	Viento
+TEXT_ADDON_247	Tierra
+TEXT_ADDON_248	Hielo
+TEXT_ADDON_255	Propiedades físicas
+TEXT_ADDON_256	Attack Power
+TEXT_ADDON_257	Defense
+TEXT_ADDON_258	Accuracy
+TEXT_ADDON_259	Evasion
+TEXT_ADDON_260	Propiedades mentales
+TEXT_ADDON_261	Attack Magic Potency
+TEXT_ADDON_262	Healing Magic Potency
+TEXT_ADDON_263	Magic Accuracy
+TEXT_ADDON_264	Enhancing Magic Potency
+TEXT_ADDON_265	Enfeebling Magic Potency
+TEXT_ADDON_266	Magic Evasion
+TEXT_ADDON_267	Damage
+TEXT_ADDON_268	Delay
+TEXT_ADDON_269	Propiedades defensivas
+TEXT_ADDON_270	Block Rate
+TEXT_ADDON_271	Block Strength
+TEXT_ADDON_273	Artesanía
+TEXT_ADDON_274	Craftsmanship
+TEXT_ADDON_275	Control
+TEXT_ADDON_276	Recolección
+TEXT_ADDON_278	Perception
+TEXT_ADDON_279	Magic Defense
+TEXT_ADDON_280	Saltar
+TEXT_ADDON_281	¿Saltar la cinemática?
+TEXT_ADDON_282	<icon2(10)> Borrar<if(gnum94, <switchplatform(41)>,<nbsp>)>
+TEXT_ADDON_285	Physical Damage
+TEXT_ADDON_286	Auto-attack
+TEXT_ADDON_288	Magic Damage
+TEXT_ADDON_289	※En la versión final, la<br>silueta que se ve aquí se<br>reemplazará por un modelo 3D.
+TEXT_ADDON_290	Social
+TEXT_ADDON_292	Criterios de búsqueda
+TEXT_ADDON_293	Nombre
+TEXT_ADDON_294	Clase/Job
+TEXT_ADDON_295	GC
+TEXT_ADDON_296	Lugar
+TEXT_ADDON_297	Compañía
+TEXT_ADDON_298	Idioma
+TEXT_ADDON_299	La lista está vacía.
+TEXT_ADDON_300	Blacklist
+TEXT_ADDON_302	Agregar
+TEXT_ADDON_305	Search Info
+TEXT_ADDON_312	Dejar el grupo
+TEXT_ADDON_313	Disolver el grupo
+TEXT_ADDON_321	No hay miembros en el grupo.
+TEXT_ADDON_322	<icon2(8)> Cambiar orden  <icon2(10)> Subcomandos
+TEXT_ADDON_324	<icon2(11)> Buscar
+TEXT_ADDON_325	Buscar
+TEXT_ADDON_329	Restablecer
+TEXT_ADDON_330	Nombre
+TEXT_ADDON_331	Apellido
+TEXT_ADDON_333	Estado en línea
+TEXT_ADDON_335	Nivel
+TEXT_ADDON_337	Grand Company
+TEXT_ADDON_338	Idioma
+TEXT_ADDON_339	No hay resultados.
+TEXT_ADDON_342	Comentario de búsqueda
+TEXT_ADDON_343	Se muestran hasta 200 resultados.
+TEXT_ADDON_344	Las letras resaltadas indican los idiomas del jugador: japonés (J), inglés (E), alemán (D), francés (F). La letra subrayada es el idioma actual del cliente.
+TEXT_ADDON_346	Actualizar
+TEXT_ADDON_347	Agregar jugador a la Blacklist
+TEXT_ADDON_348	Agregar jugador a la Friend List
+TEXT_ADDON_349	Mover a los jugadores en línea al principio de la lista.
+TEXT_ADDON_350	Tienda
+TEXT_ADDON_352	Existencias
+TEXT_ADDON_353	Recompra
+TEXT_ADDON_354	Elige la cantidad.
+TEXT_ADDON_355	Objeto
+TEXT_ADDON_356	Cantidad
+TEXT_ADDON_357	Precio
+TEXT_ADDON_358	Bolsa
+TEXT_ADDON_359	<icon2(10)> Subcomandos  <icon2(8)> Comprar　<icon2(11)> Elegir objeto para vender
+TEXT_ADDON_360	Item Request
+TEXT_ADDON_364	<colortype(506)><edgecolortype(507)>¿<if([lnum1==0],Activar,Desactivar)> el avance automático del texto?<br>※Usa <if([gnum80==0],<if([gnum78==3],\[space\],\[Space\])>,<icon2(11)>)> para activarlo o desactivarlo.<br><edgecolortype(0)><colortype(0)><br>Con esto se ajusta la velocidad de los diálogos sin voz:<br>  <icon(6)> <if([gnum106==99],Cruceta,botones de dirección izquierda/derecha)><br>　<if([gnum78==3],\[tab\]\[shift+tab\],\[Tab\]\[Shift+Tab\])>
+TEXT_ADDON_365	La lista de Buyback guarda los últimos 10 objetos vendidos.
+TEXT_ADDON_366	Un objeto que sale de la lista ya no se puede recomprar.
+TEXT_ADDON_367	La lista se borra al cambiar de zona.
+TEXT_ADDON_368	Responder en el canal del chat elegido
+TEXT_ADDON_369	Desconocido
+TEXT_ADDON_370	Ocultar la ventana del chat
+TEXT_ADDON_372	Editar macro
+TEXT_ADDON_373	¿Qué quieres hacer?
+TEXT_ADDON_379	Job actual: <headall(<sheet(ClassJob,lnum1,0)>)>
+TEXT_ADDON_382	La lista de Buyback guarda los últimos 20 objetos vendidos.
+TEXT_ADDON_384	La lista se borra al despedir al retainer.
+TEXT_ADDON_385	No hay objetos para mostrar.
+TEXT_ADDON_386	Velocidad　<if([gnum80==0],<if([gnum78==3],\[shift+tab\],\[Shift+Tab\])>,<if([gnum106==99],Cruceta,)><icon2(3)>)>
+TEXT_ADDON_388	Equipo propio
+TEXT_ADDON_389	Equipo enemigo
+TEXT_ADDON_390	Necesidad
+TEXT_ADDON_391	Codicia
+TEXT_ADDON_392	Pasar
+TEXT_ADDON_393	Único
+TEXT_ADDON_394	s
+TEXT_ADDON_395	Cofre del tesoro
+TEXT_ADDON_397	Este objeto tiene materia engarzada. ¿Seguro que quieres venderlo?
+TEXT_ADDON_398	Tu spiritbond con este objeto está al 100%. ¿Seguro que quieres venderlo?
+TEXT_ADDON_399	Este objeto es único y no se puede comerciar. ¿Seguro que quieres venderlo?
+TEXT_ADDON_400	User Macros
+TEXT_ADDON_402	Comandos de texto
+TEXT_ADDON_403	Diccionario
+TEXT_ADDON_405	Macro n.º
+TEXT_ADDON_406	Íconos
+TEXT_ADDON_408	<icon2(10)> Subcomandos  <icon2(11)> Comandos de texto
+TEXT_ADDON_409	CWLS [<num(lnum1)>]: <string(lstr2)>
+TEXT_ADDON_410	Linkshells
+TEXT_ADDON_412	Lista
+TEXT_ADDON_419	En línea: <num(lnum1)>
+TEXT_ADDON_420	Moogle Delivery Service
+TEXT_ADDON_422	Sin abrir
+TEXT_ADDON_423	Abiertas
+TEXT_ADDON_424	Nueva
+TEXT_ADDON_425	Elige la cantidad.
+TEXT_ADDON_427	<icon2(10)> Subcomandos  <icon2(11)> Nueva carta
+TEXT_ADDON_428	No tienes cartas, envíos de gil ni paquetes sin abrir.
+TEXT_ADDON_429	No tienes cartas abiertas.
+TEXT_ADDON_430	Tomar todo
+TEXT_ADDON_434	Destinatario
+TEXT_ADDON_435	<icon2(10)> Subcomandos
+TEXT_ADDON_436	<icon2(8)><icon2(10)>Subcomandos  <icon2(9)>Atrás
+TEXT_ADDON_437	Cantidad de cartas del sistema. Se guardan hasta 10.
+TEXT_ADDON_438	Cantidad de cartas con objetos de campañas. Se guardan hasta 20.
+TEXT_ADDON_439	Cantidad de cartas de amigos con objetos adjuntos. Se guardan hasta 20 adjuntos.
+TEXT_ADDON_440	Editor de cartas
+TEXT_ADDON_442	Editar
+TEXT_ADDON_443	Enviar
+TEXT_ADDON_445	Mensaje
+TEXT_ADDON_447	¿Descartar la carta y devolver a tu inventario los objetos o el gil adjuntos?
+TEXT_ADDON_448	<icon2(8)> Elegir adjunto
+TEXT_ADDON_449	<icon2(10)> Priorizar en la Duty List <icon2(24)> Desplazar
+TEXT_ADDON_450	Journal
+TEXT_ADDON_452	En curso
+TEXT_ADDON_453	Completadas
+TEXT_ADDON_454	Misiones
+TEXT_ADDON_455	Levequests
+TEXT_ADDON_456	Allowances
+TEXT_ADDON_457	Historial de leves
+TEXT_ADDON_459	No tienes duties pendientes.
+TEXT_ADDON_462	Objetivos
+TEXT_ADDON_463	Recompensa
+TEXT_ADDON_464	Nv.
+TEXT_ADDON_465	Opciones
+TEXT_ADDON_466	Historial
+TEXT_ADDON_467	Mapa
+TEXT_ADDON_468	Reintentar
+TEXT_ADDON_469	Abandonar
+TEXT_ADDON_470	Iniciar
+TEXT_ADDON_471	Bonificación por completar
+TEXT_ADDON_473	¿Abandonar “<string(lstr2)>”?
+TEXT_ADDON_476	Resumen
+TEXT_ADDON_477	No completaste ningún duty.
+TEXT_ADDON_478	Puedes volver a intentar una levequest fallida por <if(lnum1,<if([lnum1<=10],<switch(lnum1,una,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)> leve allowance<if([lnum1==1],,s)>. ¿Continuar?
+TEXT_ADDON_479	Esta misión todavía no está disponible.
+TEXT_ADDON_481	Materia
+TEXT_ADDON_484	Se vende por <kilo(lnum1,\,)> gil <if(lnum2,,　No se vende en el mercado)>
+TEXT_ADDON_486	Resultado
+TEXT_ADDON_490	Más: Ctrl+Alt
+TEXT_ADDON_492	Bonificaciones
+TEXT_ADDON_495	No comerciable
+TEXT_ADDON_496	Vinculado
+TEXT_ADDON_497	Artesanía y reparaciones
+TEXT_ADDON_499	Spiritbond

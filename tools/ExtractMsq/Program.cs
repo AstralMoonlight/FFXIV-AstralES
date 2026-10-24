@@ -207,6 +207,64 @@ foreach (var sheet in sheetNames.Where(n => n.StartsWith("transport/")).Order())
     index.Append($"\ttransport\t{file}\t0\t\t{WriteSheet(sheet, Path.Combine(output, "transport", file))}\n");
 }
 
+// Interface text (Addon: window titles, buttons, labels, confirmations; AddonTransient: controller
+// hints). Each distinct text once, under its first row, one file per 500 row ids:
+// addon/NNN-Addon.tsv holds rows NNN*500 to NNN*500+499, so a patch that adds rows leaves the other
+// files as they were. The plugin looks a row's English up in the game and gives every row with that
+// text the Spanish.
+foreach (var name in new[] { "Addon", "AddonTransient" })
+{
+    var rows = data.Excel.GetSheet<RawRow>(Language.English, name);
+    var seen = new HashSet<string>();
+    var chunk = new List<string>();
+    var block = -1;
+
+    void Flush()
+    {
+        if (chunk.Count == 0)
+            return;
+
+        var file = $"{block:000}-{name}.tsv";
+        Directory.CreateDirectory(Path.Combine(output, "addon"));
+        File.WriteAllText(Path.Combine(output, "addon", file), "key\tspeaker\ttext\n" + string.Concat(chunk), new UTF8Encoding(false));
+        index.Append($"\taddon\t{file}\t0\t\t{chunk.Count}\n");
+        chunk.Clear();
+    }
+
+    foreach (var row in rows)
+    {
+        for (var c = 0; c < rows.Columns.Count; c++)
+        {
+            if (rows.Columns[c].Type != Lumina.Data.Structs.Excel.ExcelColumnDataType.String)
+                continue;
+
+            var column = row.ReadStringColumn(c);
+            var text = column.ToMacroString().Replace("\r", "").Replace("\n", "<br>");
+
+            // Nothing to translate without Latin letters outside the macros (a lone <icon2(12)>);
+            // rows the global release never wrote stay Japanese (kana or kanji; the English text
+            // uses the middle dot ・ for bullets).
+            if (!column.ExtractText().Any(char.IsAsciiLetter) || text.Any(ch => ch is >= 'ぁ' and <= 'ヺ' or >= '一' and <= '鿿')
+                || !seen.Add(text))
+                continue;
+
+            if (text.Contains('\t'))
+                throw new InvalidDataException($"{name} {row.RowId}: tab in the text, the TSV would break");
+
+            if (row.RowId / 500 != block)
+            {
+                Flush();
+                block = (int)(row.RowId / 500);
+            }
+
+            chunk.Add($"TEXT_{name.ToUpperInvariant()}_{row.RowId}{(c == 0 ? "" : $"_{c}")}\t\t{text}\n");
+        }
+    }
+
+    Flush();
+    Console.WriteLine($"{name}: {seen.Count} distinct texts → {Path.Combine(output, "addon")}");
+}
+
 // What bosses say mid-fight in dungeons, trials and raids ("Drag them unto the depths, O chains!"),
 // plus the duty's objective. Each duty names its block of InstanceContentTextData rows; the normal
 // and savage versions share one block (savage's may run longer), so a block is written once, under

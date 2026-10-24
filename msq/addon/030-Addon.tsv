@@ -1,0 +1,277 @@
+key	text
+TEXT_ADDON_15001	Mostrar Search Info
+TEXT_ADDON_15002	Editar el diseño del plate
+TEXT_ADDON_15004	Ajustes de privacidad
+TEXT_ADDON_15007	Clase/job favorito
+TEXT_ADDON_15008	Título favorito
+TEXT_ADDON_15009	Estilo de juego
+TEXT_ADDON_15010	Horario de juego
+TEXT_ADDON_15011	Días de semana
+TEXT_ADDON_15012	Fines de semana
+TEXT_ADDON_15014	Editar plate
+TEXT_ADDON_15019	Guardar/cargar
+TEXT_ADDON_15021	Base del plate
+TEXT_ADDON_15022	Patrón superpuesto
+TEXT_ADDON_15023	Fondo
+TEXT_ADDON_15024	Borde superior
+TEXT_ADDON_15025	Borde inferior
+TEXT_ADDON_15026	Marco del retrato
+TEXT_ADDON_15027	Marco del plate
+TEXT_ADDON_15031	Reflejado
+TEXT_ADDON_15032	Guardar/cargar diseño
+TEXT_ADDON_15033	Elegir base del plate
+TEXT_ADDON_15034	Elegir patrón superpuesto
+TEXT_ADDON_15035	Elegir fondo
+TEXT_ADDON_15036	Elegir borde superior
+TEXT_ADDON_15037	Elegir borde inferior
+TEXT_ADDON_15038	Elegir marco del retrato
+TEXT_ADDON_15039	Elegir marco del plate
+TEXT_ADDON_15043	Mostrar la lista de bases del plate
+TEXT_ADDON_15044	Mostrar la lista de patrones superpuestos
+TEXT_ADDON_15045	Mostrar la lista de fondos
+TEXT_ADDON_15046	Mostrar la lista de bordes superiores
+TEXT_ADDON_15047	Mostrar la lista de bordes inferiores
+TEXT_ADDON_15048	Mostrar la lista de marcos del retrato
+TEXT_ADDON_15049	Mostrar la lista de marcos del plate
+TEXT_ADDON_15058	Escribe un nombre nuevo para esta ranura de guardado.
+TEXT_ADDON_15059	Se descartarán todos los ajustes actuales.<br>¿Continuar?
+TEXT_ADDON_15062	Visible para:
+TEXT_ADDON_15063	Solo amigos
+TEXT_ADDON_15065	Estos ajustes controlan quién puede ver tu Adventurer Plate.<br><br>"Todos" deja que cualquier jugador la vea, y "Solo amigos" la limita a los de tu Friend List. Si eliges "Nadie", solo tú podrás verla.
+TEXT_ADDON_15066	Elige tu clase/job favorito. Se mostrará en tu Adventurer Plate.
+TEXT_ADDON_15067	Elige tu título favorito. Se mostrará en tu Adventurer Plate.
+TEXT_ADDON_15068	Elige tus tipos de juego favoritos. Puedes elegir hasta 6.
+TEXT_ADDON_15069	NIVEL <num(lnum1)>
+TEXT_ADDON_15073	Clase/job actual
+TEXT_ADDON_15078	Elegir clase/job
+TEXT_ADDON_15080	Elegir estilo de juego
+TEXT_ADDON_15083	Ver la Adventurer Plate
+TEXT_ADDON_15084	Con las Adventurer Plates puedes compartir la información de tu personaje en un perfil de tu propio diseño. Para ver las plates de otros aventureros, usa los subcomandos al elegir un personaje como objetivo o haz clic derecho en su nombre en la Friend List, por ejemplo.<br>※Por ahora los demás jugadores no pueden ver tu plate. Hazla pública cambiando su apariencia o sus ajustes.
+TEXT_ADDON_15087	Todos
+TEXT_ADDON_15088	Nadie
+TEXT_ADDON_15089	Ajustes avanzados
+TEXT_ADDON_15090	Invertir la posición del retrato
+TEXT_ADDON_15091	Con las Adventurer Plates puedes compartir la información de tu personaje en un perfil de tu propio diseño. Para ver las plates de otros aventureros, usa los subcomandos al elegir un personaje como objetivo o haz clic derecho en su nombre en tu Friend List.
+TEXT_ADDON_15092	Los demás jugadores no pueden ver tu Adventurer Plate porque todavía no la creaste.<br>※Hazla pública actualizando su apariencia o sus ajustes.
+TEXT_ADDON_15093	Los demás jugadores no pueden ver tu Adventurer Plate porque tus retratos se restablecieron al usar una Fantasia.<br>※Hazla pública actualizando su apariencia o sus ajustes.
+TEXT_ADDON_15094	Editar el comentario de búsqueda
+TEXT_ADDON_15100	Misión completada
+TEXT_ADDON_15101	Island Sanctuary <icon(116)>
+TEXT_ADDON_15103	Recolecta <ennoun(Item,3,lnum1,2,1)>
+TEXT_ADDON_15104	Agenda de los Isleworks
+TEXT_ADDON_15106	Ritmo: <num(lnum1)>/<num(lnum2)>
+TEXT_ADDON_15107	Temporada actual
+TEXT_ADDON_15108	Temporada siguiente
+TEXT_ADDON_15109	Inicio del ciclo: <settime(lnum2)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> del <if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>
+TEXT_ADDON_15110	En producción.
+TEXT_ADDON_15111	Materiales insuficientes.
+TEXT_ADDON_15112	Enviado.
+TEXT_ADDON_15113	Este taller no está disponible.
+TEXT_ADDON_15114	Fijar la agenda
+TEXT_ADDON_15115	Quitar el objeto
+TEXT_ADDON_15116	Elegir preset
+TEXT_ADDON_15117	Registrar preset
+TEXT_ADDON_15118	Revisar materiales
+TEXT_ADDON_15119	Fijar ciclos de descanso
+TEXT_ADDON_15120	Revisar oferta y demanda
+TEXT_ADDON_15121	Vaciar la agenda
+TEXT_ADDON_15124	Tiempo:
+TEXT_ADDON_15125	Cantidad:
+TEXT_ADDON_15126	Valor:
+TEXT_ADDON_15127	Categoría:
+TEXT_ADDON_15131	Horario
+TEXT_ADDON_15133	Se perderá toda la programación del ciclo actual. ¿Continuar?
+TEXT_ADDON_15135	Presets de agenda
+TEXT_ADDON_15140	<num(lnum1)> h
+TEXT_ADDON_15141	Usar preset
+TEXT_ADDON_15143	Borrar preset
+TEXT_ADDON_15144	Ajustes de ciclos de descanso
+TEXT_ADDON_15146	Elige dos ciclos de descanso para esta temporada y dos para la siguiente.<br><br>No se pueden elegir los ciclos que ya pasaron.
+TEXT_ADDON_15147	Ciclos de descanso de la temporada actual (empezó a las <settime(lnum1)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> del <if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>)
+TEXT_ADDON_15148	Ciclos de descanso de la temporada siguiente (empieza a las <settime(lnum1)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p. m.,a. m.)> del <if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>)
+TEXT_ADDON_15151	¿Continuar con este horario de ciclos de descanso?<br>Se perderá toda la programación de los ciclos de abajo.
+TEXT_ADDON_15152	Temporada actual: ciclos <num(lnum1)><if([lnum3>0], y <num(lnum2)>,)>
+TEXT_ADDON_15153	Temporada siguiente: ciclos <num(lnum1)><if([lnum3>0], y <num(lnum2)>,)>
+TEXT_ADDON_15154	Distribución de materiales
+TEXT_ADDON_15156	Ciclo actual
+TEXT_ADDON_15158	Todas las temporadas
+TEXT_ADDON_15162	Déficit
+TEXT_ADDON_15163	No hay objetos en producción.
+TEXT_ADDON_15164	Oferta y demanda
+TEXT_ADDON_15168	Popularidad
+TEXT_ADDON_15170	Cambio de demanda
+TEXT_ADDON_15171	Popularidad prevista
+TEXT_ADDON_15172	Producto
+TEXT_ADDON_15177	Muy alta
+TEXT_ADDON_15181	Desbordante
+TEXT_ADDON_15182	Excedente
+TEXT_ADDON_15183	Suficiente
+TEXT_ADDON_15184	Insuficiente
+TEXT_ADDON_15185	Inexistente
+TEXT_ADDON_15186	Por las nubes
+TEXT_ADDON_15187	En aumento
+TEXT_ADDON_15189	En baja
+TEXT_ADDON_15190	En picada
+TEXT_ADDON_15192	Informe de ganancias
+TEXT_ADDON_15194	Temporada actual:
+TEXT_ADDON_15195	Temporada anterior:
+TEXT_ADDON_15196	Récord:
+TEXT_ADDON_15197	Ganancias de la temporada actual por ciclo
+TEXT_ADDON_15201	Total del ciclo <num(lnum1)>:
+TEXT_ADDON_15202	No hay ganancias para informar.
+TEXT_ADDON_15204	Administración de la pastura
+TEXT_ADDON_15207	Apodo
+TEXT_ADDON_15208	Ánimo
+TEXT_ADDON_15209	Comida
+TEXT_ADDON_15210	Restos
+TEXT_ADDON_15211	Registro del cuidador
+TEXT_ADDON_15218	Cambiar apodo
+TEXT_ADDON_15219	Confiar al cuidador
+TEXT_ADDON_15220	Despedir al cuidador
+TEXT_ADDON_15221	Recoger los restos y retomar el servicio de cuidado
+TEXT_ADDON_15222	Soltar
+TEXT_ADDON_15223	El cuidador de criaturas cobra una tarifa diaria de <kilo(lnum1,\,)> seafarer's cowries por el servicio de cuidado; se cobra al pedirlo y después todos los días a las <setresettime(17)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p. m.,a. m.)> (hora real). La tarifa diaria se cobra una sola vez.<br><br>Un equipo de mammets dará de comer y recogerá hasta 20 restos por animal.<br><br>¿Confiarle al cuidador de criaturas el cuidado de este animal con esta comida?<br><br>※El cuidado se detiene en estos casos:<br><colortype(506)><edgecolortype(507)>　・No hay seafarer's cowries suficientes.<br>　・Los restos llegaron al máximo de 20.<edgecolortype(0)><colortype(0)><br>※El cuidado y su tarifa se retoman solos cuando se cumplen las condiciones.<br>※Los restos del servicio de cuidado no dan EXP de la isla.
+TEXT_ADDON_15226	¿Aceptar estos objetos?
+TEXT_ADDON_15228	<string(lstr1)> será liberado de la pastura. ¿Continuar?<br><br><colortype(506)><edgecolortype(507)>※Las criaturas liberadas no se pueden recuperar.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_15229	Soltar animal
+TEXT_ADDON_15230	No se puede soltar al animal porque está en cuidado o tiene restos para recoger.
+TEXT_ADDON_15231	Se soltará <ennoun(BNpcName,3,lnum1,1,1)> capturado. ¿Continuar?
+TEXT_ADDON_15232	Indica un apodo.
+TEXT_ADDON_15234	Apodo actual: <string(lstr1)>
+TEXT_ADDON_15238	Se aplicará el nombre “<string(lstr1)>”. ¿Continuar? 
+TEXT_ADDON_15241	Personalización del refugio
+TEXT_ADDON_15243	Senderos
+TEXT_ADDON_15244	Laderas
+TEXT_ADDON_15245	Terrenos
+TEXT_ADDON_15247	¿Cambiar la apariencia de tu refugio?<br><br><colortype(506)><edgecolortype(507)>※Renovar la Cozy Cabin quita todos los efectos de glamour.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_15248	¿Cambiar la apariencia de la instalación?<br><br><colortype(506)><edgecolortype(507)>※Una renovación quita todos los efectos de glamour.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_15249	Mover instalación
+TEXT_ADDON_15251	Posición actual: <string(lstr1)>
+TEXT_ADDON_15252	Instalaciones de procesamiento
+TEXT_ADDON_15259	Administración del refugio
+TEXT_ADDON_15261	Cabaña y campos
+TEXT_ADDON_15262	Revisar
+TEXT_ADDON_15263	Exportaciones
+TEXT_ADDON_15265	<head(<ennoun(BNpcName,2,lnum1,1,1)>)> será liberado de la pastura. ¿Continuar?<br><br><colortype(506)><edgecolortype(507)>※Las criaturas liberadas no se pueden recuperar.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_15266	Passionate Pioneering
+TEXT_ADDON_15267	Felicitous Tokens
+TEXT_ADDON_15272	Asignado
+TEXT_ADDON_15274	No tienes objetos para exportar.
+TEXT_ADDON_15275	Vender todo lo que supere el valor de abajo.
+TEXT_ADDON_15276	Envío en lote
+TEXT_ADDON_15277	Confirmar envío
+TEXT_ADDON_15284	Atención: no vas a poder recibir todos los cowries. ¿Quieres continuar de todos modos?
+TEXT_ADDON_15285	Atención: uno o más objetos se están usando en el taller. ¿Quieres continuar de todos modos?
+TEXT_ADDON_15288	¿Vender los objetos con más de <num(lnum1)> en el inventario?<br><br><colortype(506)><edgecolortype(507)>※Cuidado con los objetos reservados para producir artesanías.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_15300	Servicio de cuidado
+TEXT_ADDON_15302	Elegir destino
+TEXT_ADDON_15304	¿Seguro que quieres reconstruir este monumento?
+TEXT_ADDON_15307	Mostrar arriba a los jugadores cuyas islas puedes visitar.
+TEXT_ADDON_15310	¿Viajar a la isla de <string(lstr1)>?
+TEXT_ADDON_15311	No hay animales pastando.
+TEXT_ADDON_15312	Minions sueltos
+TEXT_ADDON_15315	Llamar a todos los minions
+TEXT_ADDON_15316	Se llamarán todos los minions que andan por la isla. ¿Continuar?
+TEXT_ADDON_15318	Elegir terreno
+TEXT_ADDON_15319	Elegir minions
+TEXT_ADDON_15320	Recuperar minion
+TEXT_ADDON_15321	Guía de minions de la isla
+TEXT_ADDON_15324	Caminando
+TEXT_ADDON_15325	Descansando
+TEXT_ADDON_15326	Posición actual
+TEXT_ADDON_15327	Siguiéndote
+TEXT_ADDON_15328	Casa
+TEXT_ADDON_15329	Soltar minion
+TEXT_ADDON_15331	¿Soltar <ennoun(Companion,2,lnum1,1,1)> en esta zona?<br>Zona: <string(lstr2)>
+TEXT_ADDON_15332	¿Mover <ennoun(Companion,2,lnum1,1,1)> de esta zona?<br>Zona: <string(lstr2)>
+TEXT_ADDON_15333	<head(<ennoun(Companion,2,lnum1,1,1)>)> te está siguiendo. ¿Soltarlo de todos modos?<br><br>Zona: <string(lstr2)><br><br><colortype(506)><edgecolortype(507)>※El minion llamado andará suelto por el lugar indicado.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_15334	<head(<ennoun(Companion,2,lnum1,1,1)>)> ya anda suelto por la zona indicada. ¿Quieres continuar de todos modos?
+TEXT_ADDON_15335	<num(lnum1)>/<num(lnum2)> minions sueltos en la isla
+TEXT_ADDON_15336	¿Gastar <num(lnum1)> seafarer's cowries para enviar una expedición a <ennoun(MJIName,2,lnum2,2,1)>?
+TEXT_ADDON_15337	Confiar al jardinero
+TEXT_ADDON_15338	Despedir al jardinero
+TEXT_ADDON_15339	Recoger la cosecha y retomar el servicio de jardinería
+TEXT_ADDON_15340	Ajustes del santuario
+TEXT_ADDON_15342	Permitir la entrada a:
+TEXT_ADDON_15344	Miembros de la free company
+TEXT_ADDON_15355	Visitantes
+TEXT_ADDON_15356	¿Cambiar la zona de la expedición a <ennoun(MJIName,2,lnum1,2,1)>?
+TEXT_ADDON_15357	¿Gastar <num(lnum1)> seafarer's cowries para alargar la expedición?
+TEXT_ADDON_15358	¿Gastar <num(lnum1)> seafarer's cowries para alargar la expedición y cambiar la zona a <ennoun(MJIName,2,lnum2,2,1)>?
+TEXT_ADDON_15359	Elegir la zona de la expedición
+TEXT_ADDON_15360	¿Registrar como preset la agenda que empieza con este objeto?
+TEXT_ADDON_15362	¿Mover este edificio al lugar indicado?<br><br><colortype(506)><edgecolortype(507)>※Si ya hay un edificio en el lugar indicado, los dos intercambian lugares.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_15363	¿Seguro que quieres arrancar y desechar el cultivo de <sheet(Item,lnum1,0)>? (Estado de crecimiento: <string(lstr2)>)
+TEXT_ADDON_15364	Arrancar y desechar
+TEXT_ADDON_15366	Revisar el manual
+TEXT_ADDON_15368	Recoger la cosecha y terminar el servicio de jardinería
+TEXT_ADDON_15369	Recoger los restos y terminar el servicio de cuidado
+TEXT_ADDON_15370	The Coziest of Cabins
+TEXT_ADDON_15371	Top Crops
+TEXT_ADDON_15372	Adorable Animals
+TEXT_ADDON_15373	A Workshop of Wonders
+TEXT_ADDON_15374	The Perfect Paradise
+TEXT_ADDON_15375	Materiales necesarios
+TEXT_ADDON_15381	Revisar materiales necesarios
+TEXT_ADDON_15382	Fijar según la demanda
+TEXT_ADDON_15383	Fijar la agenda según la oferta y la demanda
+TEXT_ADDON_15385	Haz clic aquí para cambiar al modo <string(lstr1)>.
+TEXT_ADDON_15386	¿Borrar el preset elegido?
+TEXT_ADDON_15389	Usa el tablero de la instalación para terminar la construcción. 
+TEXT_ADDON_15392	Entrada
+TEXT_ADDON_15393	Ajustes del minimapa
+TEXT_ADDON_15394	Mostrar la vegetación.
+TEXT_ADDON_15395	Mostrar los árboles.
+TEXT_ADDON_15396	Mostrar las rocas y los depósitos minerales.
+TEXT_ADDON_15397	Mostrar los suelos.
+TEXT_ADDON_15398	Mostrar los recursos acuáticos.
+TEXT_ADDON_15399	Cambio de valor
+TEXT_ADDON_15400	V&C Dungeon Finder
+TEXT_ADDON_15402	Variant
+TEXT_ADDON_15403	Advanced/Criterion
+TEXT_ADDON_15408	Variant actions<br>(elige dos)
+TEXT_ADDON_15409	Variant actions<br>(solo preset)
+TEXT_ADDON_15410	Variant actions<br>(no disponibles)
+TEXT_ADDON_15411	Solo las pueden fijar los Disciples of War o Magic<br>(sin contar los jobs limitados)
+TEXT_ADDON_15412	Fijar acciones
+TEXT_ADDON_15413	Variant actions
+TEXT_ADDON_15415	Acción I
+TEXT_ADDON_15416	Acción II
+TEXT_ADDON_15419	Activar el emparejamiento de grupos.
+TEXT_ADDON_15420	Se usará el emparejamiento para formar grupos de cuatro jugadores.
+TEXT_ADDON_15421	Forma un grupo de cuatro jugadores.
+TEXT_ADDON_15423	Entradas <num(lnum1)>/<num(lnum2)>
+TEXT_ADDON_15424	Esta entrada todavía no se escribió...
+TEXT_ADDON_15425	Página en blanco
+TEXT_ADDON_15426	Leer la entrada.
+TEXT_ADDON_15427	Mostrar la ayuda del V&C Dungeon Finder.
+TEXT_ADDON_15428	Ayuda del V&C Dungeon Finder
+TEXT_ADDON_15430	¿Entrar a la dungeon en solitario?
+TEXT_ADDON_15431	Las variant actions no se pueden cambiar en combate ni mientras corre su tiempo de reutilización.
+TEXT_ADDON_15432	Para leer esta entrada, primero tienes que completar la misión “<sheet(Quest,lnum1,0)>”.
+TEXT_ADDON_15433	Votos: <num(lnum1)>/<num(lnum2)>
+TEXT_ADDON_15435	Ruta
+TEXT_ADDON_15437	Terminar el duty.
+TEXT_ADDON_15438	Si "Terminar el duty." recibe más votos, aparecerá una salida en vez de un portal a la zona siguiente. ¿Confirmar tu voto?
+TEXT_ADDON_15439	De <if([lnum2>0],<num(lnum2)>,1)> a <num(lnum1)> jugadores
+TEXT_ADDON_15440	¿Cerrar la ventana sin votar?<br><br><colortype(506)><edgecolortype(507)>Puedes volver a abrir la ventana desde los avisos dentro del tiempo límite.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_15450	¡Empezó una temporada nueva y tienes recompensas sin reclamar!<br><br>Habla con el intendente de temporada en Wolves' Den Pier para reclamar las recompensas de nivel de la temporada pasada.<br><br><colortype(506)><edgecolortype(507)>Las recompensas de la temporada pasada solo están disponibles hasta que termine la temporada actual.<edgecolortype(0)><colortype(0)>
+TEXT_ADDON_15453	Intendente de temporada
+TEXT_ADDON_15454	¡Ola de calor en <num(lnum1)> s!
+TEXT_ADDON_15455	¡El calor del desierto aumenta!
+TEXT_ADDON_15460	¡Potenciado!
+TEXT_ADDON_15463	Sistema de despliegue de armas<br>cargando
+TEXT_ADDON_15464	¡Armas desplegadas!
+TEXT_ADDON_15465	Sistema de despliegue de armas<br>desactivado
+TEXT_ADDON_15467	Maelstrom
+TEXT_ADDON_15468	Adders
+TEXT_ADDON_15469	Flames
+TEXT_ADDON_15470	Ajustes de retratos de los miembros del grupo
+TEXT_ADDON_15473	Alinear los retratos abajo de la ventana.
+TEXT_ADDON_15476	Mostrar la ayuda de los retratos de los miembros del grupo.
+TEXT_ADDON_15488	Traspaso de los ajustes de hotbars
+TEXT_ADDON_15490	Al cambiar tu job a <sheet(ClassJob,lnum1,0)>, puedes traspasar los ajustes de la hotbar y la cross hotbar de <sheet(ClassJob,<sheet(ClassJob,lnum1,29)>,0)>.
+TEXT_ADDON_15491	Traspasar
+TEXT_ADDON_15493	Como las acciones de <sheet(ClassJob,<sheet(ClassJob,lnum1,29)>,0)> también se pueden usar con <sheet(ClassJob,lnum1,0)>, traspasar estos ajustes te permite jugar de forma parecida enseguida.<br><br>Se recomienda esta opción si tienes poca o ninguna experiencia con <sheet(ClassJob,lnum1,0)>.<br><br>Si necesitas pensarlo, esta ventana se volverá a abrir la próxima vez que cambies tu job a <sheet(ClassJob,lnum1,0)>.<br>※Esta ventana dejará de aparecer cuando avances en las misiones del job.
+TEXT_ADDON_15494	¿Continuar sin traspasar los ajustes de hotbars?
+TEXT_ADDON_15498	Traspaso de hotbar y cross hotbar

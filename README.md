@@ -258,25 +258,25 @@ Las guías que el juego abre solas la primera vez que se hace algo (Active Help)
 
 ## Menús e interfaz
 
-Las ventanas del juego todavía salen en inglés, salvo las etiquetas del tooltip de habilidades (Cast, Recast, Range...). Estas son las hojas del juego de donde sale su texto. Los nombres propios (monturas, minions, canciones, logros, instancias) quedan en inglés, como en el resto del plugin, y el tamaño cuenta solo lo que se traduce.
+Las ventanas del juego ya muestran en español la mayor parte de su texto fijo: títulos, secciones, opciones, botones, confirmaciones y mensajes (hoja `Addon`), y también los menús de Keybind y Log Settings. Los nombres de ventanas, menús y atributos quedan en inglés. Siguen en inglés la pantalla de título y la de personajes (hoja `Lobby`), las ayudas de botones del mando y algunas etiquetas que el juego arma con datos del mando. Estas son las hojas del juego de donde sale su texto. Los nombres propios (monturas, minions, canciones, logros, instancias) quedan en inglés, como en el resto del plugin, y el tamaño cuenta solo lo que se traduce.
 
 ### Ventanas y sistema
 
 | Hoja | Qué sale | Tamaño | Estado |
 |---|---|---|---|
-| `Addon` | Casi todo el texto fijo de las ventanas: títulos, pestañas, botones, etiquetas, confirmaciones y las opciones de System Configuration y Character Configuration ("OK", "Gear", "Race Ability"...) | 14.180 textos (9.412 distintos), unas 56.000 palabras | ![Pendiente][no] |
+| `Addon` | Casi todo el texto fijo de las ventanas: títulos, pestañas, botones, etiquetas, confirmaciones y las opciones de System Configuration y Character Configuration ("OK", "Gear", "Race Ability"...) | 14.180 textos (9.395 distintos), unas 49.000 palabras | ![Traducido][ok] |
 | `AddonTransient` | Ayudas de botones al pie de las ventanas cuando se juega con mando ("Move   Confirm   Cancel") y otras etiquetas | 565 textos, unas 6.000 palabras | ![Pendiente][no] |
 | `Lobby` | Pantalla de título, selección de mundo y de personaje, y creación de personaje con las descripciones de razas, clanes y clases ("Start Game"...) | 1.030 textos, unas 9.600 palabras | ![Pendiente][no] |
-| `Error` | Errores al conectarse, al crear personajes y al visitar otros mundos | 63 textos, unas 1.000 palabras | ![Pendiente][no] |
+| `Error` | Errores al conectarse, al crear personajes y al visitar otros mundos. Quedan en inglés los dos que llevan datos (la fila de espera, la plataforma) | 63 textos, unas 1.000 palabras | ![Traducido][ok] |
 | `MainCommand`, `MainCommandCategory` | Menú principal: cada comando y su descripción ("Displays gear stored in your Armoury Chest...") | 205 textos, unas 1.600 palabras | ![Traducido][ok] |
-| `ExtraCommand` | Group Pose, Idling Camera, Alarm y Command Panel, con su descripción | 8 textos | ![Pendiente][no] |
-| `ConfigKey` | Acciones de Keybind ("Steer", "Hotbar 9 - Slot 5"...) | 416 textos, unas 1.800 palabras | ![Pendiente][no] |
-| `Platform` | Botones del mando ("Right Stick", "X Button"...) | 163 textos | ![Pendiente][no] |
-| `Hud` | Elementos de HUD Layout ("Hotbar 1", "Action Help"...) | 106 textos | ![Pendiente][no] |
-| `LogFilter` | Filtros del chat en Log Settings, con su descripción y un ejemplo ("Damage dealt by unengaged enemies.") | 469 textos, unas 3.300 palabras | ![Pendiente][no] |
-| `OnlineStatus` | Estados en línea ("Busy", "Looking for Party"...) | 47 textos | ![Pendiente][no] |
-| `Marker`, `FieldMarker` | Marcadores de objetivo y waymarks ("Target to Attack 1"...) | 26 textos | ![Pendiente][no] |
-| `QuickChat`, `QuickChatTransient` | Mensajes de Quick Chat y su explicación | 79 textos, unas 560 palabras | ![Pendiente][no] |
+| `ExtraCommand` | Group Pose, Idling Camera, Alarm y Command Panel, con su descripción | 8 textos | ![Traducido][ok] |
+| `ConfigKey` | Acciones de Keybind ("Steer", "Hotbar 9 - Slot 5"...). Los nombres de ventanas y canales del chat quedan en inglés | 416 textos, unas 1.800 palabras | ![Traducido][ok] |
+| `Platform` | Botones del mando ("Right Stick", "X Button"...). Las siglas (LB, R2) y los nombres de tiendas y redes quedan | 163 textos | ![Traducido][ok] |
+| `Hud` | Elementos de HUD Layout ("Hotbar 1", "Action Help"...). Son nombres de ventanas y medidores: quedan en inglés | 106 textos | ![Traducido][ok] |
+| `LogFilter` | Filtros del chat en Log Settings, con su descripción y un ejemplo ("Damage dealt by unengaged enemies."). Los ejemplos quedan en inglés, como el chat | 469 textos, unas 3.300 palabras | ![Traducido][ok] |
+| `OnlineStatus` | Estados en línea ("Busy", "Looking for Party"...) | 47 textos | ![Traducido][ok] |
+| `Marker`, `FieldMarker` | Marcadores de objetivo y waymarks ("Target to Attack 1"...) | 26 textos | ![Traducido][ok] |
+| `QuickChat`, `QuickChatTransient` | Mensajes de Quick Chat y su explicación. La frase de ejemplo queda en inglés, como el chat | 79 textos, unas 560 palabras | ![Traducido][ok] |
 
 ### Duty Finder y diario
 

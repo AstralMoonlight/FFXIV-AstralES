@@ -1,0 +1,268 @@
+key	text
+TEXT_ADDON_6070	Guardar ajustes
+TEXT_ADDON_6077	Guardar preferencias
+TEXT_ADDON_6080	Posición del personaje
+TEXT_ADDON_6082	Ajustes que se guardan:<br>・Posición, zoom, ángulo de visión y ángulo de giro
+TEXT_ADDON_6083	Ajustes que se guardan:<br>・Iluminación 1-3 (posición, tipo y color)<br>・Iluminación del personaje<br>・Ajustes manuales de brillo
+TEXT_ADDON_6084	Posición del personaje:<br>Los ajustes se guardan según la orientación de tu personaje. Al cargarlos, se ajustan según hacia dónde mira tu personaje.
+TEXT_ADDON_6085	Posición de la cámara:<br>Los ajustes se guardan según la posición<br>actual de la cámara. Al cargarlos, se<br>ajustan sin importar hacia dónde<br>mira tu personaje.
+TEXT_ADDON_6086	Los ajustes se pueden guardar según<br>hacia dónde mira tu personaje o<br>la orientación actual de la cámara.
+TEXT_ADDON_6088	Copia de seguridad de los ajustes del cliente <num(lnum1)>
+TEXT_ADDON_6089	Creada<br><settime(lnum1)><num(t_mon)>/<num(t_day)>/<num(t_year)> <num(t_hour)>:<sec(t_min)>:<sec(t_sec)>
+TEXT_ADDON_6090	Copia de seguridad de <headall(<string(lstr1)>)> <num(lnum2)>
+TEXT_ADDON_6092	<head(<string(lstr1)>)> Duty grabado n.º <num(lnum2)>
+TEXT_ADDON_6094	FINAL FANTASY XIV
+TEXT_ADDON_6095	Datos del sistema
+TEXT_ADDON_6096	Datos con la información del sistema de FINAL FANTASY XIV.
+TEXT_ADDON_6099	Nv. <num(lnum1)> <head(<sheet(ClassJob,lnum2,0)>)><br>Zona: <sheet(PlaceName,lnum3,0)><br>World: <string(lstr4)>
+TEXT_ADDON_6100	No se encuentran los datos de configuración del personaje. ¿Crear datos nuevos?
+TEXT_ADDON_6101	No hay espacio suficiente en el disco duro para crear los datos de configuración del personaje.<br>Se necesitan <num(lnum1)> <switch(lnum2,bytes,KB,MB,GB)> más de espacio.<br>¿Abrir la utilidad del disco duro?
+TEXT_ADDON_6102	No se pudieron crear los datos de configuración del personaje.
+TEXT_ADDON_6108	Nv. <num(lnum1)> <sheet(ClassJob,lnum2,0)><br>Zona: <sheet(PlaceName,lnum3,0)><br>World: <string(lstr4)>
+TEXT_ADDON_6109	No hay espacio suficiente en el disco duro para crear los datos de configuración del personaje.<br>Se necesitan <num(lnum1)> <switch(lnum2,bytes,KB,MB,GB)> más de espacio.
+TEXT_ADDON_6110	Los datos de configuración del personaje están dañados. Sal del juego y bórralos.
+TEXT_ADDON_6111	Los datos de configuración del personaje están dañados. Cargando la copia de seguridad.
+TEXT_ADDON_6112	Grupo reciente
+TEXT_ADDON_6115	Los usuarios de <if([gnum75>0],<switch(gnum75,PlayStation®3,PlayStation®4,PlayStation®4,PlayStation®5,,)>,)> pueden ajustar el área de imagen del juego a la pantalla del televisor en Display Area Settings.
+TEXT_ADDON_6120	Lo último
+TEXT_ADDON_6121	Todos los avisos
+TEXT_ADDON_6122	Avisos importantes
+TEXT_ADDON_6123	Otros avisos
+TEXT_ADDON_6124	Mantenimiento
+TEXT_ADDON_6127	Gracias por tu informe. Un representante lo revisará en breve.<br><br>El aviso de respuesta aparecerá en <colortype(500)><edgecolortype(501)>Respuestas y avisos recientes<edgecolortype(0)><colortype(0)>, dentro de la pestaña <colortype(500)><edgecolortype(501)>Información<edgecolortype(0)><colortype(0)>. Según el caso, el representante puede pedirte más información. Todas las consultas y respuestas se ven en la pestaña <colortype(500)><edgecolortype(501)>Historial<edgecolortype(0)><colortype(0)>. 
+TEXT_ADDON_6129	¿Cerrar este caso?
+TEXT_ADDON_6130	El caso está cerrado.
+TEXT_ADDON_6131	Gracias por tu informe. Un representante lo revisará en breve.
+TEXT_ADDON_6133	Gracias por tu sugerencia. Un representante la revisará y, si hace falta, se la pasará al equipo de desarrollo.
+TEXT_ADDON_6140	Cargar ajustes
+TEXT_ADDON_6143	Cargar
+TEXT_ADDON_6147	Ajustes que se cargan:<br>・Posición, zoom, ángulo de visión y ángulo de giro
+TEXT_ADDON_6148	Ajustes que se cargan:<br>・Iluminación 1-3 (posición, tipo y color)<br>・Iluminación del personaje<br>・Ajustes manuales de brillo
+TEXT_ADDON_6150	Se avisó a un Game Master. Según la cantidad de casos que se estén atendiendo, puede tardar un poco en responder.
+TEXT_ADDON_6151	Presiona confirmar para continuar.
+TEXT_ADDON_6152	Velocidad x2
+TEXT_ADDON_6153	Velocidad x4
+TEXT_ADDON_6154	¿Saltar?
+TEXT_ADDON_6159	Revisa el estado de tu escuadrón.
+TEXT_ADDON_6161	<num(lnum1)> de <num(lnum2)> completadas
+TEXT_ADDON_6162	No hay ventures en curso.
+TEXT_ADDON_6164	Tiempo restante
+TEXT_ADDON_6168	Revisa el tiempo que falta para que terminen las ventures.
+TEXT_ADDON_6169	Revisa la lista de objetos pedidos.
+TEXT_ADDON_6170	Rowena's House of Splendors
+TEXT_ADDON_6171	Ver la lista de objetos pedidos ahora.
+TEXT_ADDON_6172	Individual
+TEXT_ADDON_6173	Propiedad
+TEXT_ADDON_6174	Proyectos de la compañía
+TEXT_ADDON_6176	Proyecto en construcción.
+TEXT_ADDON_6177	No hay proyectos en curso.
+TEXT_ADDON_6178	Viajes de exploración/submarinos
+TEXT_ADDON_6179	Revisa el tiempo que falta para que terminen los viajes actuales.
+TEXT_ADDON_6180	Viajes completados: <num(lnum1)> (<num(lnum2)>/<num(lnum3)> restantes)
+TEXT_ADDON_6181	No hay viajes en curso.
+TEXT_ADDON_6182	Naves de la compañía
+TEXT_ADDON_6188	Detalles del viaje actual:
+TEXT_ADDON_6190	Viaje completado
+TEXT_ADDON_6191	Esperando el avance del proyecto.
+TEXT_ADDON_6192	Etapa completada.
+TEXT_ADDON_6193	No se pueden obtener los datos mientras estás en un duty.
+TEXT_ADDON_6194	Recuperar pertenencias de la propiedad de la compañía
+TEXT_ADDON_6195	Recuperar pertenencias de la propiedad privada
+TEXT_ADDON_6196	Demolición programada de propiedades
+TEXT_ADDON_6197	Hay una propiedad programada para demolición inmediata.
+TEXT_ADDON_6198	Ver las propiedades programadas para demolición.
+TEXT_ADDON_6199	Próxima misión de exploración
+TEXT_ADDON_6203	Muebles de exterior
+TEXT_ADDON_6204	Elementos exteriores
+TEXT_ADDON_6205	Sede de la propiedad
+TEXT_ADDON_6206	Muebles de interior
+TEXT_ADDON_6207	Elementos interiores
+TEXT_ADDON_6208	Ajustes de la propiedad
+TEXT_ADDON_6210	Ir a la puerta principal
+TEXT_ADDON_6211	Ir a la entrada
+TEXT_ADDON_6212	Ir a la puerta de la habitación
+TEXT_ADDON_6213	Ajustes del interior
+TEXT_ADDON_6215	Modo de disposición
+TEXT_ADDON_6216	Mover
+TEXT_ADDON_6217	Girar
+TEXT_ADDON_6219	Activa o desactiva la colocación sobre superficies. 
+TEXT_ADDON_6220	Activa o desactiva el ajuste a la cuadrícula.
+TEXT_ADDON_6221	Mueve el objeto elegido.
+TEXT_ADDON_6222	Gira el objeto elegido.
+TEXT_ADDON_6223	Guarda el objeto elegido en tu inventario.
+TEXT_ADDON_6224	Guarda el objeto elegido en tu almacén.
+TEXT_ADDON_6225	Quita el objeto elegido.
+TEXT_ADDON_6227	Activar el ajuste a la cuadrícula
+TEXT_ADDON_6228	Activar la colocación sobre superficies
+TEXT_ADDON_6232	Renombrar la propiedad
+TEXT_ADDON_6233	Editar el saludo
+TEXT_ADDON_6234	Renunciar al terreno
+TEXT_ADDON_6235	Ajustes de acceso de visitantes
+TEXT_ADDON_6236	Sobre el housing
+TEXT_ADDON_6238	Desactivar el ajuste a la cuadrícula
+TEXT_ADDON_6239	Desactivar la colocación sobre superficies
+TEXT_ADDON_6242	Escribe el nombre de la propiedad.
+TEXT_ADDON_6243	Los nombres solo pueden tener letras y números. También se permiten estos signos de puntuación:
+TEXT_ADDON_6245	• No se permiten espacios ni guiones bajos dobles.<br>• No puede haber un espacio antes ni después del nombre.<br>• No se permiten nombres hechos solo de signos de puntuación.
+TEXT_ADDON_6246	Nombre de la propiedad
+TEXT_ADDON_6247	Colocar objeto de housing.
+TEXT_ADDON_6248	Quitar objeto de housing.
+TEXT_ADDON_6249	Aviso de vinculación de objeto
+TEXT_ADDON_6252	Demoler el taller
+TEXT_ADDON_6253	Si demueles el taller de la compañía, perderás todo el avance de los proyectos de la compañía y de los viajes de exploración y submarinos, y no se devolverá el gil gastado en las instalaciones. ¿Continuar?
+TEXT_ADDON_6254	Demoler el taller de la compañía.
+TEXT_ADDON_6255	¿Renunciar a la propiedad de este terreno? No se devolverá el precio de compra.
+TEXT_ADDON_6256	No se perderán las paredes exteriores actuales. ¿Continuar?
+TEXT_ADDON_6257	Ajustes de la propiedad compartida
+TEXT_ADDON_6260	Dar estos privilegios a quienes no son miembros de la free company:
+TEXT_ADDON_6261	Acceso a la sede de la propiedad
+TEXT_ADDON_6262	Ajustes de la etiqueta de la propiedad
+TEXT_ADDON_6263	Vista previa de los muebles de interior
+TEXT_ADDON_6264	Vista previa de los muebles de exterior
+TEXT_ADDON_6267	Colocado
+TEXT_ADDON_6268	Mueble de exterior
+TEXT_ADDON_6270	No hay muebles de exterior colocados.
+TEXT_ADDON_6272	Pintar
+TEXT_ADDON_6273	No hay muebles que se puedan pintar.
+TEXT_ADDON_6277	Remodelar el exterior
+TEXT_ADDON_6278	Comprar elementos exteriores
+TEXT_ADDON_6279	Pintar el exterior
+TEXT_ADDON_6282	Elementos básicos
+TEXT_ADDON_6283	Elementos opcionales
+TEXT_ADDON_6285	Revertir
+TEXT_ADDON_6286	Techo
+TEXT_ADDON_6287	Pared exterior
+TEXT_ADDON_6288	Ventana
+TEXT_ADDON_6289	Puerta
+TEXT_ADDON_6290	Decoración del techo
+TEXT_ADDON_6291	Decoración de la pared exterior
+TEXT_ADDON_6292	Cartel
+TEXT_ADDON_6293	Cerca
+TEXT_ADDON_6294	¿Seguro que quieres quitar este elemento?
+TEXT_ADDON_6295	¿Aplicar los cambios indicados?
+TEXT_ADDON_6302	Comprar un permiso de construcción
+TEXT_ADDON_6303	Construir la sede de la propiedad
+TEXT_ADDON_6304	Quitar la sede de la propiedad
+TEXT_ADDON_6307	Una vez quitados, los elementos ya no se pueden poner en venta.<br><colortype(508)><edgecolortype(509)>También se pueden perder objetos por esto:<br>  - Que otro jugador quite el objeto<br>  - Dejar la free company o que te<br>  despidan de ella<br>  - Dejar de compartir una propiedad<br>  - La demolición de una propiedad<edgecolortype(0)><colortype(0)><br><br>Los elementos exteriores de la propiedad se pueden<br>quitar en cualquier momento y volver a tu inventario.<br>Al aplicar elementos exteriores nuevos, se quitan<br>solos los que había y también vuelven a tu<br>inventario.<br><br>Elige "Confirmar" para aplicar todos los cambios.
+TEXT_ADDON_6308	Una vez quitados, los elementos ya no se pueden poner en venta.<br><colortype(508)><edgecolortype(509)>También se pueden perder objetos por esto:<br>  - Que otro jugador quite el objeto<br>  - Dejar la free company o que te<br>  despidan de ella<br>  - Dejar de compartir una propiedad<br>  - La demolición de una propiedad<edgecolortype(0)><colortype(0)><br>Esto incluye los objetos comprados en la tienda en línea o canjeados con un código promocional.<br><br>Los muebles de interior de la propiedad se pueden<br>quitar en cualquier momento y volver a tu inventario.<br><br>Elige "Confirmar" para aplicar todos los cambios.
+TEXT_ADDON_6310	Permisos de construcción
+TEXT_ADDON_6312	Vas a construir <sheet(HousingPreset,lnum1,0)>. ¿Seguro que quieres continuar?
+TEXT_ADDON_6313	Al quitar la sede de una propiedad, solo se recupera el permiso de construcción. ¿Seguro que quieres continuar?
+TEXT_ADDON_6314	No tienes permisos de construcción.
+TEXT_ADDON_6319	Mesas
+TEXT_ADDON_6320	Sobre mesa
+TEXT_ADDON_6321	De pared
+TEXT_ADDON_6322	Alfombras
+TEXT_ADDON_6324	No hay muebles de interior colocados.
+TEXT_ADDON_6327	Remodelar el interior
+TEXT_ADDON_6328	Comprar elementos interiores
+TEXT_ADDON_6329	Pintar el interior
+TEXT_ADDON_6333	Mostrar todo
+TEXT_ADDON_6337	Planta baja
+TEXT_ADDON_6338	Sótano
+TEXT_ADDON_6339	Pared interior
+TEXT_ADDON_6340	Piso
+TEXT_ADDON_6341	Lámpara de techo
+TEXT_ADDON_6342	<switch(lnum1,Planta baja,Segundo piso)> 
+TEXT_ADDON_6343	Segundo piso
+TEXT_ADDON_6344	¿Aplicar los cambios de elementos?
+TEXT_ADDON_6345	Elegir distrito residencial
+TEXT_ADDON_6349	Ir al distrito indicado. (Revisa las pestañas)
+TEXT_ADDON_6350	Nada.
+TEXT_ADDON_6351	Ward
+TEXT_ADDON_6352	Número
+TEXT_ADDON_6353	Dueño/precio
+TEXT_ADDON_6355	¿Viajar a <ordinal(lnum2)> Ward, <sheet(PlaceName,lnum1,0)>?
+TEXT_ADDON_6360	<kilo(lnum1,\,)> gil
+TEXT_ADDON_6363	<if([lnum1<4],<switch(lnum1,1st,2nd,3rd)>,<num(lnum1)>th)> Ward
+TEXT_ADDON_6364	<ordinal(lnum2)> Ward, <sheet(PlaceName,lnum1,0)>
+TEXT_ADDON_6368	Próxima devaluación
+TEXT_ADDON_6369	Dirección
+TEXT_ADDON_6370	Tamaño del terreno
+TEXT_ADDON_6372	Mediano
+TEXT_ADDON_6375	Comprar terreno
+TEXT_ADDON_6378	Plot <num(lnum3)>, <ordinal(lnum2)> Ward, <sheet(PlaceName,lnum1,0)> 
+TEXT_ADDON_6380	Perfil de la propiedad
+TEXT_ADDON_6383	Dueño
+TEXT_ADDON_6384	Saludo
+TEXT_ADDON_6385	No hay un saludo escrito.
+TEXT_ADDON_6386	Plot <num(lnum3)>, <ordinal(lnum2)> Ward, <sheet(PlaceName,lnum1,0)> (<switch(lnum4,pequeño,mediano,grande)>)
+TEXT_ADDON_6390	Message Book
+TEXT_ADDON_6392	Escribir mensaje
+TEXT_ADDON_6395	Cada visitante puede escribir hasta tres mensajes.
+TEXT_ADDON_6396	No puedes escribir más mensajes.
+TEXT_ADDON_6400	No hay mensajes.
+TEXT_ADDON_6401	No se pudieron obtener los datos.
+TEXT_ADDON_6403	Salir del distrito residencial.
+TEXT_ADDON_6404	Quitar la sede de la propiedad.
+TEXT_ADDON_6405	Renunciar a la propiedad.
+TEXT_ADDON_6406	Terrenos 1-30
+TEXT_ADDON_6407	Terrenos 31-60
+TEXT_ADDON_6408	Color del mueble
+TEXT_ADDON_6409	Color del mueble de exterior
+TEXT_ADDON_6410	Jardinería
+TEXT_ADDON_6411	Tierra
+TEXT_ADDON_6412	Semilla
+TEXT_ADDON_6413	¿Preparar el cantero con <ennoun(Item,1,lnum1,1,1)> y <ennoun(Item,1,lnum2,1,1)>?
+TEXT_ADDON_6416	Plantar
+TEXT_ADDON_6417	Abonar
+TEXT_ADDON_6418	Elige la tierra y las semillas.
+TEXT_ADDON_6419	Elige el abono a aplicar.
+TEXT_ADDON_6420	<ordinal(lnum2)> Bed, <ordinal(lnum1)> Patch
+TEXT_ADDON_6424	<icon2(10)> Cancelar
+TEXT_ADDON_6425	¿Confirmar la compra de este terreno de free company?<br>※El monto de tu depósito se aplica completo a la compra y no se devuelve.
+TEXT_ADDON_6426	¿Confirmar la compra y mudarte a este terreno de free company?<br>※En principio, se te devuelve cerca del 15% del valor de tu terreno anterior. El monto devuelto no puede superar el valor del terreno nuevo.<br>Devolución estimada: <kilo(lnum1,\,)> gil
+TEXT_ADDON_6427	¿Confirmar la compra de este terreno privado?<br>※El monto de tu depósito se aplica completo a la compra y no se devuelve.
+TEXT_ADDON_6428	¿Confirmar la compra y mudarte a este terreno privado?<br>※En principio, se te devuelve cerca del 15% del valor de tu terreno anterior. El monto devuelto no puede superar el valor del terreno nuevo.<br>Devolución estimada: <kilo(lnum1,\,)> gil
+TEXT_ADDON_6429	Participar en la lotería de housing
+TEXT_ADDON_6430	Una vez usado, el permiso no se puede recuperar. ¿Seguro que quieres contratar a <ennoun(ENpcResident,1,lnum1,1,1)>?
+TEXT_ADDON_6432	Confirmar la contratación.
+TEXT_ADDON_6433	Confirmar el despido.
+TEXT_ADDON_6434	Elige el género.
+TEXT_ADDON_6435	Masculino.
+TEXT_ADDON_6436	Femenino.
+TEXT_ADDON_6437	Elige la raza.
+TEXT_ADDON_6438	Hyur.
+TEXT_ADDON_6439	Elezen.
+TEXT_ADDON_6440	Lalafell.
+TEXT_ADDON_6441	Miqo'te.
+TEXT_ADDON_6442	Roegadyn.
+TEXT_ADDON_6443	Cancelar.
+TEXT_ADDON_6445	Al llamar de vuelta a tu retainer se perderá el permiso de ampliación de tareas. ¿Seguro que quieres continuar?
+TEXT_ADDON_6447	Ubicar al retainer.
+TEXT_ADDON_6448	Quitar al retainer.
+TEXT_ADDON_6449	Au Ra.
+TEXT_ADDON_6450	Habitaciones privadas
+TEXT_ADDON_6452	Habitaciones
+TEXT_ADDON_6453	<string(lstr1)>, habitaciones n.º <string(lstr2)>
+TEXT_ADDON_6455	Ocupante
+TEXT_ADDON_6458	<icon2(8)> Entrar a la habitación  <icon2(10)> Ver detalles de la habitación
+TEXT_ADDON_6460	Vacía
+TEXT_ADDON_6461	¿Entrar <if([gstr1==gstr3],a tu habitación,<if([gstr1==gstr3],<if(gnum8,a la habitación de <ennoun(ObjStr,2,gnum8,1,1)>,a tu habitación)>,<if(gnum8,a la habitación de <ennoun(ObjStr,2,gnum8,1,1)>,a la habitación de gstr3)>)>)>?
+TEXT_ADDON_6462	Detalles de la habitación
+TEXT_ADDON_6465	Opciones de la habitación
+TEXT_ADDON_6467	Cambiar nombre de la habitación
+TEXT_ADDON_6468	Dejar la habitación
+TEXT_ADDON_6469	¿Qué ajustes quieres cambiar?
+TEXT_ADDON_6470	Propiedad de la Free Company
+TEXT_ADDON_6472	¿Retirarte a tu habitación?
+TEXT_ADDON_6473	Piensa bien antes de dejar que otros entren a tu habitación.
+TEXT_ADDON_6474	Permitir el acceso.
+TEXT_ADDON_6475	Escribe un nombre nuevo.
+TEXT_ADDON_6476	Nombre de la habitación
+TEXT_ADDON_6477	Si dejas tu habitación, perderás los muebles que queden en ella y no se devolverá el gil gastado en comprarla. ¿Continuar?
+TEXT_ADDON_6478	Acceso restringido
+TEXT_ADDON_6479	Room #<num(lnum4)>, Plot <num(lnum3)>, <ordinal(lnum2)> Ward, <sheet(PlaceName,lnum1,0)> 
+TEXT_ADDON_6480	Ver detalles de la habitación
+TEXT_ADDON_6481	Ver detalles de la propiedad
+TEXT_ADDON_6482	No hay detalles para mostrar.
+TEXT_ADDON_6483	No hay información del ocupante.
+TEXT_ADDON_6484	Demoler la habitación.
+TEXT_ADDON_6487	Habitaciones privadas 
+TEXT_ADDON_6488	Propiedad privada
+TEXT_ADDON_6489	Aeronave de la compañía
+TEXT_ADDON_6490	Establo de chocobos
+TEXT_ADDON_6496	Entrenamiento
+TEXT_ADDON_6497	Listo
+TEXT_ADDON_6498	En <if([lnum1>0],<num(lnum1)> min,menos de 1 min)>
+TEXT_ADDON_6499	Entrenar
