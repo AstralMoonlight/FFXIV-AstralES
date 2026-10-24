@@ -1,0 +1,68 @@
+key	text
+TEXT_JOBAST520_02021_SEQ_00	En el Athenaeum Astrologicum se comenta que Jannequinard empezó a preparar un viaje.
+TEXT_JOBAST520_02021_SEQ_01	El simposio de Jannequinard y Leveva sobre la astrología sharlayana se celebrará en Falcon's Nest, una pequeña aldea fortificada de Coerthas Western Highlands. Viaja a ese lugar remoto más allá de Snowcloak y busca a Jannequinard.
+TEXT_JOBAST520_02021_SEQ_02	A nadie en la aldea le avisaron del simposio, y ahora tú y tus compañeros tienen que correr a buscar a alguien, a quien sea, que quiera asistir.
+TEXT_JOBAST520_02021_SEQ_03	Mientras hablas con un anciano de Falcon's Nest, vuelve de una misión de reconocimiento un caballero gravemente herido. Usa Aspected Benefic en el hombre antes de que sucumba a sus heridas.
+TEXT_JOBAST520_02021_SEQ_04	Tu hechizo surte efecto casi de inmediato, pero parece que los compañeros del caballero siguen en el campo. No hay tiempo para esperar a que se reúna la guarnición. Tendrás que encontrar tú a los caballeros heridos y curarlos antes de que los herejes que los atacaron terminen el trabajo.
+TEXT_JOBAST520_02021_SEQ_05	Encuentras a uno de los compañeros del caballero rodeado de herejes, pero los ahuyentas rápido. Usa Aspected Benefic para curar al caballero herido y que sobreviva para pelear otro día.
+TEXT_JOBAST520_02021_SEQ_06	El caballero se recupera milagrosamente y puede volver solo a la aldea. Busca a Jannequinard y cuéntale tus aventuras.
+TEXT_JOBAST520_02021_SEQ_07	A Jannequinard le encanta saber que la guarnición piensa asistir al simposio. Pero se pregunta dónde estarán. Busca a los guardias y diles que el evento está por empezar.
+TEXT_JOBAST520_02021_SEQ_08	Encuentras a los caballeros que ayudaste, pero se enredan con las palabras mientras inventan una excusa lamentable para no asistir. Ve al lugar del simposio y avísale a Leveva que la guarnición no vendrá.
+TEXT_JOBAST520_02021_SEQ_09	Leveva cancela su discurso al saber que nadie vendrá a oírlo. Jannequinard, experto en fracasos, no se inquieta tanto como la dama por el giro de los acontecimientos e intenta débilmente consolar al grupo antes de juntar sus cosas y volver al Athenaeum. Quizá tenga una idea de cuál debería ser el siguiente paso.
+TEXT_JOBAST520_02021_SEQ_10	Hablas con Jannequinard en el Athenaeum sobre el padre de Leveva. Él, a su vez, te cuenta del astrologian asesinado del que habló el anciano de Falcon's Nest: ese hombre era amigo de Jannequinard y es uno de los motivos por los que sigue luchando por difundir la astrología sharlayana en Ishgard.<br><br>※La siguiente misión de astrologian estará disponible con Jannequinard cuando alcances el nivel 54.
+TEXT_JOBAST520_02021_TODO_00	Habla con Jannequinard en Falcon's Nest.
+TEXT_JOBAST520_02021_TODO_01	Cuéntale a la gente de Falcon's Nest sobre el simposio.
+TEXT_JOBAST520_02021_TODO_02	Usa Aspected Benefic en el caballero herido.
+TEXT_JOBAST520_02021_TODO_03	Busca al caballero rezagado y mata a los herejes que lo acosan.
+TEXT_JOBAST520_02021_TODO_04	Usa Aspected Benefic en el caballero rezagado.
+TEXT_JOBAST520_02021_TODO_05	Habla con Jannequinard en Falcon's Nest.
+TEXT_JOBAST520_02021_TODO_06	Habla con el caballero herido.
+TEXT_JOBAST520_02021_TODO_07	Habla con Leveva.
+TEXT_JOBAST520_02021_TODO_08	Habla con Jannequinard.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_000	Tengo una buena noticia y una mala... La buena es que los preparativos del simposio sobre la astrología sharlayana avanzan sin problemas, porque, como esperábamos, el Vault puso muy poca resistencia. Hasta se tomaron la molestia de conseguirnos un lugar espacioso para el evento.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_001	La mala es que... el lugar espacioso en cuestión está en Falcon's Nest. Por si se lo pregunta, hablo de la misma obra helada en medio de la nada de la que sin duda habrá oído tantas cosas buenas. Sí, <if(gnum4,amiga mía,amigo mío)>: <italic(1)>ese<italic(0)> Falcon's Nest. Aunque supongo que puede ser una bendición disfrazada... Solo que no sé bien cuál podría ser esa bendición. ¡Quizá deberíamos ir todos a la aldea y averiguarlo!
+TEXT_JOBAST520_02021_JANNEQUINARD_000_009	Dicen que el yeti asado que sirven en Falcon's Nest es sublime... así que algo es algo.
+TEXT_JOBAST520_02021_LEVEVA_000_010	El Vault nos preparó para fracasar... ¡Malditos sean! ¡Malditos sean todos!
+TEXT_JOBAST520_02021_QUIMPERAIN_000_010	En Falcon's Nest solo hay caballeros y canteros. A menos que la astrología sharlayana pueda calentar dedos congelados o llenar un estómago vacío, no creo que encontremos a mucha gente que nos dé siquiera un cuarto de campanada de su tiempo.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_010	Saludos, <split(<string(gstr1)>, ,1)>. Parece... que no solo nuestro simposio se celebrará en una aldea diminuta a malms de la civilización, llena de gente que ni siquiera sabe <italic(1)>escribir<italic(0)> astrología, menos aún entender cómo funciona... sino que a nadie en todo el pueblo le avisaron de nuestra llegada. Los tres llevamos la última campanada hablando con cualquiera que quiera escuchar, invitándolo al evento para que al menos no le hablemos a una sala vacía. Oh, no se preocupe, <if(gnum4,amiga mía,amigo mío)>. Le dejamos el barrio norte solo para usted. \<guiño>
+TEXT_JOBAST520_02021_JANNEQUINARD_000_019	Ninguno de nosotros se topó con un solo astrologian... aunque, quizá están todos escondidos en la parte norte de la aldea. No, yo tampoco lo creo.
+TEXT_JOBAST520_02021_ROUJIN02021_000_020	Astrología sharlayana, ¿eh? ¿Eres hereje? Porque hablas como tal. En Ishgard hay un solo tipo de astrología, y no es la pagana.
+TEXT_JOBAST520_02021_ROUJIN02021_000_021	Como eres infiel, supongo que los caballeros te dejarán parlotear... pero si armas mucho alboroto, desaparecerás como aquel otro muchacho. A ver, ¿cuándo fue eso...?
+TEXT_JOBAST520_02021_HEISHI02021_000_022	Malditos... herejes...
+TEXT_JOBAST520_02021_ROUJIN02021_000_023	¡Un explorador! ¡Y sus heridas se ven profundas! ¡¿Hay algún curandero cerca?!
+TEXT_JOBAST520_02021_ROUJIN02021_000_029	Este no se salva sin un curandero que le atienda las heridas. Ya perdió demasiada sangre.
+TEXT_JOBAST520_02021_HEISHIA02021_000_030	Por favor... Tengo cinco... hijos...
+TEXT_JOBAST520_02021_HEISHIA02021_000_031	¿Qué hechicería es esta? Mis cortes... ¡Se cierran solos! ¿Es usted <if(gnum4,sanadora,sanador)>, <if(gnum4,aventurera,aventurero)>? Si es así, tengo otro pedido para usted.
+TEXT_JOBAST520_02021_HEISHIA02021_000_032	Había otros en mi grupo de reconocimiento. Todos salimos heridos. Algunos más gravemente que otros. Temo que mis compañeros caballeros estén en grave peligro. ¿Podría buscarlos y atenderlos como hizo conmigo? Informaré a Ser Redwald, pero temo que, para cuando reúna refuerzos, varios hombres ya hayan muerto.
+TEXT_JOBAST520_02021_ROUJIN02021_000_039	¿Viste sus heridas, <if(gnum4,muchacha,muchacho)>? Si ese pobre diablo fue el único de su grupo que volvió a Falcon's Nest, me estremece pensar en cómo estarán los demás. Tienes que apurarte, <if(gnum4,sanadora,sanador)>. O los lobos comerán bien esta noche.
+TEXT_JOBAST520_02021_HEISHIB02021_000_039	Se lo ruego... Mate a estos enemigos de la Fury para que pueda morir sabiendo que esos desgraciados corrieron la misma suerte que yo...
+TEXT_JOBAST520_02021_HEISHIB02021_000_040	Gracias, <if(gnum4,aventurera,aventurero)>... Le contaré... a la Fury de su bondad... cuando me arrodille ante Ella a las puertas de...
+TEXT_JOBAST520_02021_HEISHIB02021_000_041	¿Cómo hizo...? ¡Es como si nunca me hubieran herido! ¿Qué clase de magia usa, <if(gnum4,amiga,amigo)>?
+TEXT_JOBAST520_02021_HEISHIB02021_000_042	¿Astromancia? Pero yo creía que las estrellas solo servían para prever los movimientos de la Horde. ¿Por qué no hay más astrologians en el campo de batalla?
+TEXT_JOBAST520_02021_HEISHIB02021_000_043	¿Usted y sus compañeros están en Falcon's Nest para hablar justo de eso? Quizá pueda convencer a otros de la guarnición de que asistan. Ahora tengo que volver rápido a la aldea. Mi capitán querrá un informe completo de lo que pasó hoy.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_050	¿Dónde estaba? Como no volvía, fuimos a las puertas del norte y encontramos la zona revuelta de caballeros.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_051	¿Salió de la aldea a ayudar a exploradores heridos? ¡Pudieron matarl<if(gnum4,a,o)>! ¡O comérsel<if(gnum4,a,o)>! ¡O matarl<if(gnum4,a,o)> y después comérsel<if(gnum4,a,o)>! ¡O comérsel<if(gnum4,a,o)> y después matarl<if(gnum4,a,o)>!
+TEXT_JOBAST520_02021_JANNEQUINARD_000_052	¿Qué es esto? ¿Dice que su demostración de astromancia impresionó tanto a los caballeros que vendrán a nuestro evento? Hm... Esto podría favorecernos. Si los caballeros empiezan a pedir a gritos que se asignen astrologians a sus filas, puede que la Holy See escuche. Busquemos a esos buenos hombres y avisémosles que el simposio está por empezar.
+TEXT_JOBAST520_02021_LEVEVA_000_059	Lo sabía. Vacío... Bueno, salvo por ese pobre diablo que tuvo la mala suerte de que le tocara vigilar la escalera. \<suspiro> Nos dejaron en ridículo.
+TEXT_JOBAST520_02021_HEISHIB02021_000_060	Por las pelotas escarchadas de Thal, no vino ni una sola persona.
+TEXT_JOBAST520_02021_HEISHIB02021_000_061	¡Te lo dije! Te dije que era un plan pésimo. "Aprovechen la confusión del simposio repleto para acercarse al objetivo", dice ella. "La sacarán de la aldea antes de que sus compañeros se den cuenta de que no está", dice ella. Hasta un bebé ciego habría visto que nadie iba a juntarse a oír una charla de astrología en medio de la maldita...
+TEXT_JOBAST520_02021_HEISHIA02021_000_062	¡Ah! ¡<if(gnum4,La astrologian,El astrologian)> que me curó las heridas! Como ve, tanto yo como mi compañero... caballero nos recuperamos rápido. Gracias a su maravillosa magia, claro.
+TEXT_JOBAST520_02021_HEISHIA02021_000_063	¿Hm? ¿Los refuerzos de la guarnición nunca llegaron? Refuerzo... ¡s! Sí. Yo... Yo hablé con... eh, con Ser Redwolfe en persona. Quizá pensó que no hacían falta refuerzos después de que yo... eh... ¡lo convenciera de lo hábil <if(gnum4,sanadora,sanador)> que es usted! Sí, eso es. Seguro que ese es el motivo. Sí.
+TEXT_JOBAST520_02021_HEISHIB02021_000_064	Y... aunque nos encantaría asistir... eh, el capitán ya nos asignó otra misión. Les pido disculpas a usted y a sus compañeros. Quizá podamos ir, eh... al <italic(1)>próximo<italic(0)> simposio. ¡Sigan, entonces!
+TEXT_JOBAST520_02021_LEVEVA_000_070	Bueno, se acabó. Ganó el Vault.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_071	No lo vea así, Lady Leveva. Este es solo un obstáculo que debemos saltar. El Vault quiere que nos detengamos y demos media vuelta, y seguirá poniéndonos obstáculos hasta que lo hagamos. Pero no podemos dejar que eso nos desanime. Debemos seguir hasta llegar a nuestro destino... o hasta que se les acaben los obstáculos.
+TEXT_JOBAST520_02021_ROUJIN02021_000_072	Ja. Lloran por obstáculos. No saben la suerte que tuvieron.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_073	¿Vino... por el simposio?
+TEXT_JOBAST520_02021_ROUJIN02021_000_074	No. No dejaría que nadie me viera en esa reunión. Me tacharían de hereje y me mandarían a Witchdrop. O peor, me cortarían el cuello y me tirarían a las bestias. Como le hicieron a aquel otro astrologian del Viejo Mundo.
+TEXT_JOBAST520_02021_LEVEVA_000_075	¿El otro astrologian? ¿Cuándo fue eso?
+TEXT_JOBAST520_02021_ROUJIN02021_000_076	Cuando llegas a mi edad, todos los veranos se funden. Mi pelo todavía tenía color, así que deben de haber sido por lo menos veinte... quizá más, quizá menos.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_077	Hubo un astrologian que fue... Pero fue hace mucho tiempo. No pudo ser nadie que usted conociera.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_079	No podemos quedarnos en el pasado. Debemos encontrar la forma de interpretar las cartas que nos tocaron, para que beneficien al presente: a nuestro presente.
+TEXT_JOBAST520_02021_LEVEVA_000_080	No... No pudo ser nadie que yo conociera... Nunca tuve la oportunidad de...
+TEXT_JOBAST520_02021_LEVEVA_000_081	Tienes razón, Jannequinard. No debemos dejar que el Vault, ni los bandidos, ni las mentes cerradas nos impidan lograr aquello a lo que vinimos. Las estrellas nos señalarán el camino.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_082	Y ayudaremos al pueblo de Ishgard a verlo también.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_090	A Lady Leveva no le cayó nada bien el recuerdo del anciano sobre el astrologian asesinado. Entiendo que enterarse de la muerte de un colega pueda afectar a cualquiera... pero cualquiera diría que perdió a su padre.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_091	Oh... Oh... Ohhh, Jannequinard, ¿qué has hecho? Nunca me voy a perdonar esta ofensa.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_092	Verá. El astrologian del que habló el anciano... resulta que lo conocía bien. Se llamaba Rufin, y fue mi amigo y confidente cuando estudiaba en Sharlayan: mi único amigo. Me siguió de vuelta a Ishgard cuando el éxodo acortó mi estadía en la ciudad<-->estado.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_093	Su sueño era reavivar el interés por las técnicas olvidadas que dieron origen a la astrología ishgardiana. Pero en esa época la Holy See se oponía todavía más que ahora a las ideas extranjeras. La noche en que lo encontré desangrándose en su escritorio fue una de las más tristes de mi vida. Pero incluso en la hora de su muerte, Rufin se mantuvo firme y me hizo prometer que no dejaría que su sueño se apagara por culpa de las mentes cerradas.
+TEXT_JOBAST520_02021_JANNEQUINARD_000_094	\<suspiro> No es que me haya ido muy bien hasta ahora... Pero quizá, si logramos una mayor armonía con las estrellas, nos muestren el camino a seguir. Sí, parece probable...

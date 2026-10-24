@@ -1,0 +1,139 @@
+key	text
+TEXT_JOBAST650_02411_SEQ_00	Jannequinard parece enfermo. ¿Se estará recuperando de otra larga noche en el Forgotten Knight, o hay algo más que inquieta al vizconde?
+TEXT_JOBAST650_02411_SEQ_01	Según Jannequinard, Lady Leveva abandonó los preparativos del simposio de astrología para lamentar la vuelta de Kyokuho a su patria, Hingashi. Te pide que lo ayudes a encontrarla en los Pillars y a hacer entrar en razón a la joven.
+TEXT_JOBAST650_02411_SEQ_02	Una simple búsqueda por los Pillars te reúne con Lady Leveva, que, tras una conversación agotadora, te desea buen viaje a Kugane, donde espera que superes algún desastre imprevisto para obtener una cantidad indeterminada de conocimiento. Y de esperanza. Esperanza a montones.
+TEXT_JOBAST650_02411_SEQ_03	Varios vecinos amables (y algunos no tanto) te dieron una buena idea de dónde puedes encontrar una buena vista de los cielos: el Tasogare Bridge, que da a los muelles.
+TEXT_JOBAST650_02411_SEQ_04	Kyokuho cree que, con tus conocimientos de astrología, quizá pueda reparar los lazos debilitados que mantienen la barrera geomántica que protege a la ciudad de los ataques de las criaturas sobrenaturales. Te pidió que lo encuentres en el santuario del oeste del Short Pier.
+TEXT_JOBAST650_02411_SEQ_05	Pese a algunos tropiezos paranormales en forma de los inquietos esbirros de Kinko, Kyokuho y tú logran reparar los cuatro lazos debilitados de la barrera.
+TEXT_JOBAST650_02411_SEQ_06	Por desgracia, la reparación parece temporal, y es solo cuestión de tiempo que la guardiana dorada del bosque vuelva a intentar vengarse. Si se quiere encontrar una solución más duradera, Kyokuho necesitará que lo sigas ayudando. Visítalo a él y a su maestro en Kogane Dori.
+TEXT_JOBAST650_02411_SEQ_07	Antes de que puedas ayudar a Kyokuho a tender de nuevo los lazos geománticos, tendrás que reforzar tu sintonía con los cielos. En otras palabras: entrenar, entrenar y quizá entrenar un poco más.<br><br>※La siguiente misión de astrologian estará disponible con Kyokuho cuando alcances el nivel 68.
+TEXT_JOBAST650_02411_TODO_00	Busca a Leveva en los Pillars.
+TEXT_JOBAST650_02411_TODO_01	Viaja a Kugane y busca un lugar adecuado para mirar las estrellas.
+TEXT_JOBAST650_02411_TODO_02	Observa desde el Tasogare Bridge.
+TEXT_JOBAST650_02411_TODO_03	Habla con Kyokuho en el santuario del oeste.
+TEXT_JOBAST650_02411_TODO_04	Habla con Kyokuho.
+TEXT_JOBAST650_02411_TODO_05	Habla con Kyokuho.
+TEXT_JOBAST650_02411_JANNEQUINARD_000_000	Aunque su visita me llena de alegría el corazón, <split(<string(gstr1)>, ,1)>, no logro sonreír sabiendo que Lady Leveva está tan preocupada.
+TEXT_JOBAST650_02411_JANNEQUINARD_000_001	Aunque debería pasar estos últimos días antes del simposio dándole los toques finales a su discurso ante el Vault, en cambio se pasa el tiempo vagando aturdida por los Pillars, murmurando para sí sobre la tierra, el viento y el agua.
+TEXT_JOBAST650_02411_JANNEQUINARD_000_002	Temo que la partida de Kyokuho le dejó a Lady Leveva un vacío en el corazón que no sabe cómo llenar.
+TEXT_JOBAST650_02411_JANNEQUINARD_000_003	Intenté largamente tranquilizarla, pero no hace falta leer las estrellas para adivinar cómo terminó eso. Quizá, si usted habla con ella, por fin entre en razón.
+TEXT_JOBAST650_02411_JANNEQUINARD_000_009	Lady Leveva podría estar en cualquier parte de los Pillars. Quizá sea mejor que la busquemos por separado. Le avisaré por linkpearl si la encuentro primero.
+TEXT_JOBAST650_02411_LEVEVA_000_010	¿<split(<string(gstr1)>, ,1)>? ¿A qué debo el honor? No, déjame adivinar: nuestro buen amigo Jannequinard te pidió que hicieras entrar en razón a la pobre Leveva, que anda con la cabeza en las nubes.
+TEXT_JOBAST650_02411_LEVEVA_000_011	Ay, qué maravilla. Hoy tengo el privilegio de que me sermoneen <italic(1)>los dos<italic(0)>.
+TEXT_JOBAST650_02411_JANNEQUINARD_000_012	¡Vaya, Lady Leveva... y <split(<string(gstr1)>, ,1)>! ¡Quién diría que los encontraría aquí en esta bella <if([gnum11<12],<if([gnum11<4],noche,mañana)>,<if([gnum11<17],tarde,noche)>)>!
+TEXT_JOBAST650_02411_LEVEVA_000_013	Basta de teatro, Janne. Sé lo que estás haciendo, y como te dije una y otra vez, no olvidé mi deber con el Athenaeum ni mis compromisos con el simposio. Solo necesito... tiempo para pensar. <italic(1)>Sola<italic(0)>.
+TEXT_JOBAST650_02411_JANNEQUINARD_000_014	A lo que yo sigo respondiendo: ¿para qué pensar sola cuando tiene a su disposición una de las mentes más brillantes del mundo? ¡Y a <split(<string(gstr1)>, ,1)>!
+TEXT_JOBAST650_02411_LEVEVA_000_015	\<suspiro> Las mentes más brillantes, ¿eh?
+TEXT_JOBAST650_02411_LEVEVA_000_016	Entonces respóndanme esto: ¿por qué los resultados de mi lectura del día en que llegaron <split(<string(gstr1)>, ,1)> y Kyokuho todavía me pesan? ¿Por qué siento que se me escapa... o más bien que interpreto mal algún detalle endiabladamente importante?
+TEXT_JOBAST650_02411_JANNEQUINARD_000_017	Llega la paz, se hacen amigos, se recorren caminos peligrosos, se gana conocimiento. ¿No pasó ya eso? Kyokuho y <split(<string(gstr1)>, ,1)> llegan al terminar la Dragonsong War, <split(<string(gstr1)>, ,1)> salva a Kyokuho de la muerte en el Steel Vigil, y el Athenaeum aprende sobre la geomancia.
+TEXT_JOBAST650_02411_LEVEVA_000_018	Sí, pero ¿y si la destrucción venidera que anunciaba el Spire invertido no era el incidente de la ciudadela, sino otra cosa? ¿Algo mucho más grave?
+TEXT_JOBAST650_02411_JANNEQUINARD_000_019	...Entonces eso significaría que el "fruto del saber y la esperanza" de la profecía no eran las historias de Kyokuho sobre su arte... sino algo distinto. ¿Algo que solo veremos si seguimos por este camino peligroso?
+TEXT_JOBAST650_02411_LEVEVA_000_020	Pero ¿el desastre es de verdad el camino, o nuestra decisión de seguirlo?
+TEXT_JOBAST650_02411_Q1_000_000	¿Cómo interpretas las cartas, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBAST650_02411_A1_000_001	Al final del camino del desastre está la esperanza.
+TEXT_JOBAST650_02411_A1_000_002	Buscar la esperanza sería un desastre.
+TEXT_JOBAST650_02411_A1_000_003	¿Se viene un gran ascenso?
+TEXT_JOBAST650_02411_LEVEVA_000_021	Justo lo que yo pensaba. Solo evitando algún peligro imprevisto se obtendrá la esperanza... y el conocimiento.
+TEXT_JOBAST650_02411_LEVEVA_000_022	Una interpretación interesante... aunque bastante libre de las cartas... y de las reglas básicas de la gramática y la sintaxis. No, la sexta carta dice claramente que la esperanza es consecuencia de la desgracia que describen la cuarta y la quinta.
+TEXT_JOBAST650_02411_LEVEVA_000_023	Sé que solo intentas tranquilizarme con humor, pero no es momento de bromas. Si queremos entender hacia dónde va nuestro destino, debemos intentar comprender las señales que se nos dan... y creo que esas señales apuntan a buscar la esperanza frente al desastre.
+TEXT_JOBAST650_02411_LEVEVA_000_024	Y creo que el desastre en cuestión tiene algo que ver con la vuelta de Kyokuho a su tierra, si es que no es la vuelta misma.
+TEXT_JOBAST650_02411_LEVEVA_000_025	También podría significar que nuestro amigo está en peligro.
+TEXT_JOBAST650_02411_JANNEQUINARD_000_026	Veo adónde quiere llegar, y aunque quería a nuestro alborotador de túnica roja tanto como cualquiera (salvo quizá Fleuraie), un viaje en este momento significaría cancelar el simposio y, con eso, cualquier posibilidad de que la Holy See nos tome en serio alguna vez.
+TEXT_JOBAST650_02411_LEVEVA_000_027	¡Y ahora entiendes por qué <italic(1)>llevo día y noche aquí arriba comiéndome las uñas hasta la carne<italic(0)>!
+TEXT_JOBAST650_02411_LEVEVA_000_028	\<suspiro> Perdón. La falta de sueño le altera el ánimo a cualquiera. Pero... creo que su intervención de hoy quizá me haya dado una solución a nuestro aprieto.
+TEXT_JOBAST650_02411_LEVEVA_000_029	Una solución que ahora me reprocho no haber visto antes. ¡Una solución que yo misma propuse hace apenas unos días, cuando pensaba cómo podría estar presente cuando Kyokuho abriera el sexto cielo! ¡<split(<string(gstr1)>, ,1)> viajará a Hingashi!
+TEXT_JOBAST650_02411_JANNEQUINARD_000_030	La lectura solo mencionaba "amigos viejos" y "amigos nuevos". No recuerdo nada de astrologians sharlayanas de pelo plateado. Pero ¿cómo propone que <split(<string(gstr1)>, ,1)> encuentre a nuestro protegido? El Lejano Oriente es grande. ¿Quizá podríamos escribir una carta?
+TEXT_JOBAST650_02411_LEVEVA_000_031	Sí, y ponerle "Para: Kyokuho. Hingashi". No, zoquete. ¡Tenemos algo mucho mejor! ¡Tenemos las estrellas, y nuestra fe inquebrantable en que nos guiarán a lo que buscamos!
+TEXT_JOBAST650_02411_JANNEQUINARD_000_032	O <split(<string(gstr1)>, ,1)> podría empezar a buscar en Kugane, la ciudad portuaria de la que Kyokuho dijo venir, centrándose en los lugares ideales para mirar las estrellas, una afición que nuestro amigo tomó durante su estadía con nosotros.
+TEXT_JOBAST650_02411_LEVEVA_000_033	<italic(1)>O<italic(0)> <split(<string(gstr1)>, ,1)> podría... No, espera. Esa propuesta en realidad es decente. <split(<string(gstr1)>, ,1)>, ¡ya tienes tu misión! ¡Que las estrellas te guíen bien! Ah, y espero informes. ¡Muchos informes! Janne, volvamos a los prepara... \<bostezo> Está bien, quizá después de descansar unas campanadas...
+TEXT_JOBAST650_02411_JANNEQUINARD_000_039	Gracias, <split(<string(gstr1)>, ,1)>, por ayudarme a convencer a Lady Leveva de que vuelva. Pero si su viaje no da frutos, me temo que volveremos a estar en el mismo barco que antes. No un barco de verdad, ojo. Uno figurado. Usted, en cambio, estará en un barco de verdad... y después en uno figurado. Ejem.
+TEXT_JOBAST650_02411_LEVEVA_000_039	Ya puedo concentrarme otra vez en la tarea que tengo entre manos. Janne puede ser un patán molesto, pretencioso, terco, pomposo y cabeza de chorlito... pero respeto y valoro sus ganas de preservar el legado de mi padre.
+TEXT_JOBAST650_02411_UDOKU_000_040	¡Si buscas las estrellas, no tienes más que mirar hacia arriba!
+TEXT_JOBAST650_02411_UDOKU_000_041	¡Jajajaja! Pero si buscas a un <italic(1)>tonto<italic(0)>, uno que se dice maestro del viento y el agua cuando en realidad no es más que un tramposo, un mentiroso y una vergüenza para nuestra noble profesión, quizá encuentres a la rata donde se esconden todas las ratas: cerca de los muelles.
+TEXT_JOBAST650_02411_UDOKU_000_049	Harías bien en no prestarle oído a ese. Es capaz de llenártelo de historias de desgracia y ruina para sacarte el dinero que tanto te costó ganar, dinero que estaría mejor gastado en los talentos de un verdadero geomante.
+TEXT_JOBAST650_02411_FUUSUIO_000_049	Todo mercader respetable sabe que sin el sabio consejo de un geomante su negocio está destinado a fracasar. Pero ese consejo no sale barato. Si buscas el nuestro, podemos hacerte una lectura en... tres meses. Salvo que pagues la tarifa de urgencia.
+TEXT_JOBAST650_02411_FUUSUIJYO_000_049	Casi todos los que trabajan en el transporte o en el comercio tienen un geomante a sueldo al que consultan antes de tomar cualquier decisión importante de negocios. Dicen que detrás de todo hombre rico fluyen el viento y el agua.
+TEXT_JOBAST650_02411_CHOUNIN02411A_000_040	Cuando quiero pasear bajo las estrellas, voy con mi prometida al Tasogare Bridge, el que cruza aquel muelle. Ver cómo el carmesí se funde con el índigo es algo que no olvidarás pronto.
+TEXT_JOBAST650_02411_CHOUNIN02411A_000_049	Cuando quiero pasear bajo las estrellas, voy con mi prometida al Tasogare Bridge, el que cruza aquel muelle. Ver cómo el carmesí se funde con el índigo es algo que no olvidarás pronto.
+TEXT_JOBAST650_02411_CHOUNIN02411B_000_040	Kugane está repleta como un almacén de posadas y casas de té de varios pisos, así que desde el empedrado uno nunca tiene una buena vista del cielo. No, si quieres ver los cielos en todo su esplendor, tienes que subir. Toma este puente detrás de mí. Allí, en lo alto de esa gran estructura, te esperan las estrellas.
+TEXT_JOBAST650_02411_CHOUNIN02411B_000_041	Mira directamente al oeste del Kugane Castle, hacia el Ruby Tide y Othard más allá. Dicen que su ubicación la decidió un gran geomante, que le dijo al primer bugyo que ponerlo allí aseguraría la prosperidad de la ciudad por generaciones.
+TEXT_JOBAST650_02411_CHOUNIN02411B_000_048	Kugane está repleta como un almacén de posadas y casas de té de varios pisos, así que desde el empedrado uno nunca tiene una buena vista del cielo. No, si quieres ver los cielos en todo su esplendor, tienes que subir. Toma este puente detrás de mí. Allí, en lo alto de esa gran estructura, te esperan las estrellas.
+TEXT_JOBAST650_02411_CHOUNIN02411B_000_049	Mira directamente al oeste del Kugane Castle, hacia el Ruby Tide y Othard más allá. Dicen que su ubicación la decidió un gran geomante, que le dijo al primer bugyo que ponerlo allí aseguraría la prosperidad de la ciudad por generaciones.
+TEXT_JOBAST650_02411_KYOKUHO_000_050	(-???-)Veo que alguien me quitó el lugar. Quizá tenga que cortarle el cuello y tirar su cuerpo a la marea.
+TEXT_JOBAST650_02411_KYOKUHO_000_051	¡Ja, ja, ja! Te estoy tomando el brazo, <split(<string(gstr1)>, ,1)>... ¿o era el pelo? Ustedes los occidentales tienen unos dichos rarísimos. ¿Qué te trae tan lejos de casa?
+TEXT_JOBAST650_02411_KYOKUHO_000_052	¿Un camino lleno de desastres? ¿Desgracias? ¿Una <italic(1)>perdición<italic(0)> inminente? ¡Ja, ja, ja!
+TEXT_JOBAST650_02411_KYOKUHO_000_053	Ejem. Sí, bueno, puede que la situación no sea tan alentadora como sugiere mi buen humor.
+TEXT_JOBAST650_02411_KYOKUHO_000_054	Todo empezó hace varias décadas, cuando el bakufu decidió abrir el puerto a los barcos mercantes extranjeros. Para recibir a tantos barcos, talaron una parte del antiguo bosque de la costa.
+TEXT_JOBAST650_02411_KYOKUHO_000_055	Pero eso enfureció a la entidad que había guardado el bosque por incontables generaciones: una zorra dorada llamada Kinko.
+TEXT_JOBAST650_02411_KYOKUHO_000_056	Hubo una gran batalla, pero las garras y los colmillos no pudieron contra el frío acero. Mataron a Kinko y terminaron el nuevo puerto.
+TEXT_JOBAST650_02411_KYOKUHO_000_057	Pero el espíritu de la zorra se quedó: agriaba la leche, marchitaba las cosechas y causaba tormentas que estrellaban barco tras barco contra los acantilados. Desesperado, el bakufu recurrió al geomante más poderoso del país: mi bisabuelo, Kazan.
+TEXT_JOBAST650_02411_KYOKUHO_000_058	Kazan usó el poder del mar, el cielo y la tierra para calmar al espíritu el tiempo suficiente para levantar una barrera invisible que no solo protegía la ciudad, sino que aseguraba su prosperidad.
+TEXT_JOBAST650_02411_KYOKUHO_000_059	De inmediato cambió la suerte de los habitantes de Kugane. A mi bisabuelo lo aclamaron como un héroe, y a la geomancia como la salvación de nuestra nación. En cuestión de meses, las calles se llenaron de puestos y tiendas de supuestos videntes, y la gente prácticamente les tiraba dinero por sus consejos y bendiciones.
+TEXT_JOBAST650_02411_KYOKUHO_000_060	A esos impostores, a esos <italic(1)>charlatanes<italic(0)>, no les interesaban los ritos sagrados que mi bisabuelo recibió de su bisabuelo, y este del suyo. No les interesaba mantener la barrera que conservaba el esplendor de Kugane y hacía retroceder a las fuerzas que querían verla caer. No, les interesaba más llenarse los bolsillos. Y ahora...
+TEXT_JOBAST650_02411_KYOKUHO_000_061	¡Ahora los lazos que sostienen la barrera están a punto de romperse, y no queda nadie que sepa repararlos! Ese saber murió con mi abuelo...
+TEXT_JOBAST650_02411_KYOKUHO_000_062	Así que me propuse convencer a los geomantes de Kugane de que solo unidos descubriríamos cómo salvar nuestra bella ciudad. De que solo unidos contendríamos la oscuridad y traeríamos una prosperidad duradera para todos. De que solo unidos seguiría vivo el legado de mi bisabuelo.
+TEXT_JOBAST650_02411_KYOKUHO_000_063	Por desgracia, fracasé. Me tacharon de embustero los mismos hombres y mujeres que engordaron a fuerza de engaños. Como no podía reparar los lazos yo solo ni mover a mis colegas a actuar, me paré en este mismo puente a pensar en una respuesta... y entonces la vi en el sol poniente. Mi respuesta estaba en el Oeste.
+TEXT_JOBAST650_02411_KYOKUHO_000_064	Así que hice las maletas y me fui a Eorzea, en busca de algo, <italic(1)>lo que fuera<italic(0)>, que me ayudara a salvar Kugane. Creí que ese algo era la astrología, pero antes de poder estar seguro, me llamaron de vuelta. Eso ya lo sabes.
+TEXT_JOBAST650_02411_KYOKUHO_000_065	Desde entonces vengo aquí cada noche con la esperanza de que las estrellas me den otra revelación. Pero siguen calladas... <split(<string(gstr1)>, ,1)>, los cielos hablan a través de ti. Dime, ¿qué dicen?
+TEXT_JOBAST650_02411_Q2_000_000	¿Qué dicen los cielos?
+TEXT_JOBAST650_02411_A2_000_001	Usar la geomancia para reparar la barrera.
+TEXT_JOBAST650_02411_A2_000_002	Usar la astrología para restaurar la barrera.
+TEXT_JOBAST650_02411_A2_000_003	Resuelve tus propios problemas.
+TEXT_JOBAST650_02411_KYOKUHO_000_066	Admito que fue una historia larga, pero ¿no escuchaste nada de lo que dije? ¡Si pudiera <italic(1)>reparar<italic(0)> la barrera <italic(1)>yo solo<italic(0)>, no habría viajado a la otra punta del mundo en primer lugar!
+TEXT_JOBAST650_02411_KYOKUHO_000_067	Un momento... Pero <italic(1)>sí<italic(0)> viajé a la otra punta del mundo, y <italic(1)>no<italic(0)> volví con las manos vacías. Si algo aprendí en Ishgard, es que la astrología occidental complementa en muchos sentidos a la geomancia. ¡Usadas juntas, podrían funcionar!
+TEXT_JOBAST650_02411_KYOKUHO_000_068	Eso... ¡Eso es brillante! No sé por qué no se me ocurrió. Si algo aprendí en Ishgard, es que la astrología occidental complementa en muchos sentidos a la geomancia. ¡Usadas juntas, podrían funcionar!
+TEXT_JOBAST650_02411_KYOKUHO_000_069	Ja, ja. Ahórrame tus occidentales...
+TEXT_JOBAST650_02411_KYOKUHO_000_070	¿Tus occidentales...? ¿Occidental? ¡Occidental! ¡Espera! Si algo aprendí en Ishgard, es que la astrología occidental complementa en muchos sentidos a la geomancia oriental. ¡Usadas juntas, podrían funcionar!
+TEXT_JOBAST650_02411_KYOKUHO_100_071	Después de todo, solo tienes que usar tu Aspected Benefic y puedes curar cualquier herida, ¿no es así?
+TEXT_JOBAST650_02411_KYOKUHO_000_071	...No, en serio, te lo pregunto de verdad. La lección que explicaba los detalles del poder de las estrellas y cómo aprovecharlo estaba programada, qué casualidad, para el día <italic(1)>después<italic(0)> de que volví a casa. Pero tú... ¡Tú lo sabes todo! ¡Dime que puedes ayudar a reparar la barrera!
+TEXT_JOBAST650_02411_KYOKUHO_000_072	¡Ja, ja! ¡Lo logré, bisabuelo! ¡Encontré la forma de arreglar las cosas!
+TEXT_JOBAST650_02411_KYOKUHO_000_073	Bueno, entonces. No hay tiempo que perder. Mi bisabuelo creó su barrera anclando las energías del viento, el agua y la tierra a cuatro santuarios ubicados en los extremos norte, este, sur y oeste de la ciudad. Es allí donde hay que reparar los lazos. Empezaremos por el santuario del oeste, aquí cerca, en el Short Pier.
+TEXT_JOBAST650_02411_KYOKUHO_000_080	Este es uno de los santuarios de los que te hablé. Puede que no parezca gran cosa, pero si lo destruyeran, toda la ciudad se llenaría de perros mapache de testículos enormes y de gatos arcoíris voladores... o quizá solo de espíritus furiosos.
+TEXT_JOBAST650_02411_KYOKUHO_000_081	Mi plan es sencillo: si tengo razón, <colortype(500)><edgecolortype(501)>Aspected Benefic<edgecolortype(0)><colortype(0)> se entrelazará con las energías geománticas de la barrera y la reparará tan fácil como repara la carne. Esperaremos a que caiga la noche para hacer el rito, porque lo último que necesitamos es que un ronin borracho te rompa la concentración.
+TEXT_JOBAST650_02411_QIB_001_TODO_1	Comprueba la fuerza de la barrera en el santuario del oeste.
+TEXT_JOBAST650_02411_QIB_001_TODO_2	Comprueba la fuerza de la barrera en el santuario del sur.
+TEXT_JOBAST650_02411_QIB_001_TODO_3	Comprueba la fuerza de la barrera en el santuario del este.
+TEXT_JOBAST650_02411_QIB_001_TODO_4	Comprueba la fuerza de la barrera en el santuario del norte.
+TEXT_JOBAST650_02411_QIB_001_TODO_DIRECTION	Usa <colortype(500)><edgecolortype(501)>Aspected Benefic<edgecolortype(0)><colortype(0)> en el lazo debilitado.
+TEXT_JOBAST650_02411_KYOKUHO_QIB_000_000	¡Rápido! ¡Revisa el santuario y dime en qué estado está!
+TEXT_JOBAST650_02411_KYOKUHO_QIB_000_001	Está peor de lo que pensaba. Los lazos se deterioran más rápido con cada día que pasa. A este ritmo, no durarán hasta la próxima luna nueva.
+TEXT_JOBAST650_02411_KYOKUHO_QIB_000_002	¡Las magias se entrelazan! ¡Como dos mitades de un todo!
+TEXT_JOBAST650_02411_KYOKUHO_QIB_000_003	¡Al siguiente santuario! Está en lo profundo de los Rakusui Gardens, al sur de aquí.
+TEXT_JOBAST650_02411_KYOKUHO_QIB_BATTLETALK_01	Ya sabes qué hacer. Sintonízate con el santuario para ver cuánto daño tiene el lazo.
+TEXT_JOBAST650_02411_KYOKUHO_QIB_000_004	¿Sirvientes de la zorra? ¡Al reparar el primer lazo del oeste debimos de alertarla de nuestra presencia!
+TEXT_JOBAST650_02411_KYOKUHO_QIB_000_005	Para completar el sello hace falta concentración, y no estaré tranquilo hasta que estos espíritus inquietos vuelvan a la tierra.
+TEXT_JOBAST650_02411_KYOKUHO_QIB_BATTLETALK_02	¡Ahora, <split(<string(gstr1)>, ,1)>, antes de que invoquen más!
+TEXT_JOBAST650_02411_KYOKUHO_QIB_100_005	¡No estuvo tan mal!<br>Ahora hazte a un lado. Yo completaré el ritual.
+TEXT_JOBAST650_02411_KYOKUHO_QIB_000_006	¡Ya va la mitad! ¡A este ritmo, la barrera estará a plena fuerza antes del amanecer! ¡Adelante, al Kugane Castle!
+TEXT_JOBAST650_02411_KYOKUHO_QIB_000_007	Parece que hablé demasiado pronto... Kinko sabe lo que hacemos y está mandando a sus esbirros en masa para detenernos.
+TEXT_JOBAST650_02411_KYOKUHO_QIB_BATTLETALK_03	Intenta no alejarte mucho de mí, ¡si no por tu seguridad, por la mía!
+TEXT_JOBAST650_02411_KYOKUHO_QIB_BATTLETALK_04	¡No se acaban nunca! Sabía que Kugane tenía una historia sangrienta, pero pensar que tantos muertos siguen rondando...
+TEXT_JOBAST650_02411_KYOKUHO_QIB_BATTLETALK_05	Bien, <split(<string(gstr1)>, ,1)>. Dejemos atrás este santuario. Temo que, cuanto más nos demoremos, más fuerte se vuelve la mirada de Kinko sobre nosotros.
+TEXT_JOBAST650_02411_KYOKUHO_QIB_100_007	Sé mis ojos, <if(gnum4,amiga,amigo)>. Ahora tengo que concentrarme en el ancla.
+TEXT_JOBAST650_02411_KYOKUHO_QIB_000_008	Queda un solo santuario: el del norte. Como sabes... o no, el norte es donde se junta toda la mala suerte. Espero la mayor resistencia allí. Prepárate.
+TEXT_JOBAST650_02411_KYOKUHO_QIB_BATTLETALK_06	¡Fuera! ¡Fuera, criatura inmunda de la oscuridad...!<br>Probar no cuesta nada, ¿no? ¡C-Cuidado!
+TEXT_JOBAST650_02411_KYOKUHO_QIB_BATTLETALK_07	No podremos respirar tranquilos hasta que lances tu magia y yo complete el rito. ¡Rápido!
+TEXT_JOBAST650_02411_KYOKUHO_QIB_100_008	Respira hondo, Kyokuho. Tú puedes...
+TEXT_JOBAST650_02411_KYOKUHO_QIB_000_009	¡Lo logré! Eh, ¡lo <italic(1)>logramos<italic(0)>! ¡Reparamos la barrera de mi bisabuelo y frustramos a la zorra dorada!
+TEXT_JOBAST650_02411_KYOKUHO_QIB_BATTLETALK_DEAD	¡Aaagh! ¿También este fracaso... estaba escrito en las estrellas?
+TEXT_JOBAST650_02411_KYOKUHO_000_090	¡Qué demostración! Excelente, de verdad. Aunque, si hubiera sido yo, quizá habría usado Gravity en vez de Malefic cuando esa criatura inmunda tenía... Ah, cierto. Mejor me vuelvo a morder la lengua.
+TEXT_JOBAST650_02411_MURAKUMO_000_091	(-???-)¡Kyokuho! ¡Me dijeron que había espíritus en las calles!
+TEXT_JOBAST650_02411_KYOKUHO_000_092	¡Y llegas justo cuando ya los vencimos! ¡Qué suerte! Sí, Maestro Murakumo. Los lazos están reparados, completos gracias a la magia occidental... y un poco de sudor del hombro, ¿o era de la frente? ¿<split(<string(gstr1)>, ,1)>?
+TEXT_JOBAST650_02411_MURAKUMO_000_093	¿Magia occidental? Entonces <if(gnum4,esta señora ijin,este señor ijin)> es...
+TEXT_JOBAST650_02411_KYOKUHO_000_094	¡<if(gnum4,La misma,El mismo)>! Y espera a ver los lazos reforzados. Las energías se entrelazan con las nuestras como el sol y la luna, como la oscuridad y la luz. ¡Son una sola, Maestro!
+TEXT_JOBAST650_02411_MURAKUMO_000_095	Entonces hice bien en llamarte de vuelta. Disculpe la intromisión, viajer<if(gnum4,a,o)>. Soy Murakumo. Segundo discípulo del gran Kazan y maestro del joven Kyokuho.
+TEXT_JOBAST650_02411_KYOKUHO_000_096	Pero con Kugane a salvo... ahora puedo volver a Ishgard a terminar mi entrenamiento como astrologian. ¡Hurra!
+TEXT_JOBAST650_02411_MURAKUMO_000_097	De ninguna manera. Aunque reparaste por ahora los lazos debilitados, siguen siendo efímeros. A menos que esperes que tu amig<if(gnum4,a,o)> se quede en Kugane el resto de su vida, tendremos que encontrar una solución más duradera. En otras palabras, hay que tender los lazos de nuevo.
+TEXT_JOBAST650_02411_KYOKUHO_000_098	¡Pero sabes tan bien como yo que el secreto para tender esos lazos murió con mi abuelo!
+TEXT_JOBAST650_02411_MURAKUMO_000_099	No pasa un día sin que cargue con el peso de mi torpeza. Si hubiera mostrado tanto talento para el arte como tu abuelo, quizá Kazan me habría confiado también ese saber.
+TEXT_JOBAST650_02411_MURAKUMO_000_100	Pero no lo hizo, y ahora los dos ya no están. Podemos lamentar lo que no podemos cambiar, o podemos dejar atrás nuestros fracasos y buscar el camino que nos lleve adelante.
+TEXT_JOBAST650_02411_KYOKUHO_000_101	Mi maestro tiene razón. Quizá haya algo en los tomos de mi abuelo, o quizá todavía encuentre la forma de ganarme a los demás geomantes para nuestra causa. Siempre hay esperanza, ¿no?
+TEXT_JOBAST650_02411_KYOKUHO_000_102	En todo caso, nos diste tiempo para buscar una respuesta, y por eso te estoy agradecido. La ciudad también lo estaría si supiera que la salvaste de un ejército de espectros furiosos que querían devorarle el alma y defecar sus huesos directo al más oscuro de los infiernos.
+TEXT_JOBAST650_02411_MURAKUMO_000_103	En su prisa por encontrar una respuesta difícil, no ve la sencilla que tiene justo delante de los ojos.
+TEXT_JOBAST650_02411_MURAKUMO_000_104	Quizá a Kyokuho le tome tiempo darse cuenta, pero <italic(1)>usted<italic(0)> es la esperanza que buscamos. Con el tiempo, usted también lo verá.
+TEXT_JOBAST650_02411_MURAKUMO_000_109	Aunque pasó apenas una generación, la gente de Kugane ya olvidó que su prosperidad no se debe a unos estafadores de lengua viperina, sino al humilde esfuerzo de verdaderos geomantes como el bisabuelo de Kyokuho.
+TEXT_JOBAST650_02411_KYOKUHO_000_110	Así que supongo que esto es una despedida... A menos, claro, que te quedes.
+TEXT_JOBAST650_02411_KYOKUHO_000_111	¿¡Te quedas!? ¡Se queda! ¡Maestro, se queda! ¿Qué te hizo cambiar de opinión?
+TEXT_JOBAST650_02411_KYOKUHO_000_112	No, no me lo digas. Saber que estarás aquí conmigo y con el Maestro Murakumo me basta. Empezaba a preocuparme qué haría la próxima vez que los esbirros de Kinko invadieran la ciudad. Al maestro le cuesta salir de la letrina cada mañana, imagínate pelear contra espectros sedientos de sangre.
+TEXT_JOBAST650_02411_KYOKUHO_000_113	Ahora que lo mencionas, todo esto me recuerda esa lectura que hizo Lady Leveva la mañana en que llegué al Observatorium. Algo de caminos amistosos bordeados de arbustos de frutos peligrosos que serpentean hacia la esperanza.
+TEXT_JOBAST650_02411_KYOKUHO_000_114	¿De verdad las estrellas pudieron predecir todo esto? Si es así... ¡estoy impresionado! Tendré que pensarlo más. Mientras tanto, ¿puedo sugerirte que sigas puliendo tu arte aquí, en la pintoresca Hingashi? Verás que nuestras bestias son tan temibles como las del Oeste, ¡si no el doble!

@@ -1,0 +1,69 @@
+key	text
+TEXT_JOBNIN560_01686_SEQ_00	Ves una carta con el nombre de Jacke en la mano de Oboro.
+TEXT_JOBNIN560_01686_SEQ_01	Gracias a su red de ojos y oídos, Jacke encontró información sobre el único tesoro de los Yatsurugi que sigue sin aparecer: la daga. Mientras Oboro espera en el almacén del muelle a que lleguen la Princesa Yuki y Akagi, visita el Rogues' Guild y recoge lo que averiguó Jacke.
+TEXT_JOBNIN560_01686_SEQ_02	Jacke descubrió que la daga del clan Yatsurugi saldrá a subasta. Los vendedores son un grupo conocido como los Truehounds, una banda de Salthounds que nunca dejó el mar. En apariencia, liberaron los tesoros del Lejano Oriente de la bodega de un barco imperial, y como la palabra de la Princesa Yuki es la única prueba de lo contrario, Jacke te informa con pesar que el gremio no puede intervenir. Sin embargo, te manda con un traficante del mercado negro que hace poco llamó la atención del gremio. Para saber más de los Truehounds, busca a ese misterioso personaje en la House of Sticks, en Lower La Noscea.
+TEXT_JOBNIN560_01686_SEQ_03	Derrotas al trío de Qiqirn que aparece. Ahora entrégale el saco de gil al traficante.
+TEXT_JOBNIN560_01686_SEQ_04	Aunque una capucha le cubre la cara, la voz del traficante te suena extrañamente familiar. Pero se ahorra las presentaciones y va directo al grano: los Truehounds. Capitaneados por una tal Rosalinde, estos degolladores se hicieron un nombre y una fortuna en los mares del Lejano Oriente. Lo que les falta en número lo compensan tomando pluto antes de abordar los barcos de sus víctimas. Además, hace poco contrataron a un mercenario llamado Redway, un hombre al que Gekkai entrenó en el ninjutsu. Toda la tripulación echó el ancla en Costa del Sol. Ve para allá ahora y espía a esos canallas.
+TEXT_JOBNIN560_01686_SEQ_05	Te agazapas en las sombras mientras la Capitana Rosalinde y Redway conversan. El supuesto shinobi juntó información sobre ti y tus aliados, igual que tú sobre él y los suyos. También oyes a la líder de los Truehounds explicar su plan para capturar a la Princesa Yuki usando el tesoro del clan como cebo y la subasta como trampa. Vuelve ahora con Oboro al almacén del muelle e infórmale de estas graves novedades.
+TEXT_JOBNIN560_01686_SEQ_06	La Princesa Yuki y Akagi te esperaban en el almacén. Al enterarse de que los Truehounds están metidos, Yuki revela que no solo le robaron los tesoros a su clan, sino también las vidas de su gente. Aunque la princesa quería pelear, sus vasallos se lo prohibieron y dieron la vida por defenderla. Cuando dejó sus tierras, juró que nunca más dejaría que alguien muriera por ella. Akagi aprovecha la oportunidad para forzarla y, por fin, Yuki acepta tu ayuda y la de Oboro. Pero pone una condición: no pueden sacrificar su vida por la de ella. Ya de acuerdo, Oboro les pide a todos que esperen noticias de la subasta del mercado negro.<br><br>※La siguiente misión de ninja estará disponible con Oboro al llegar al nivel 58.
+TEXT_JOBNIN560_01686_TODO_00	Habla con Jacke en el Rogues' Guild.
+TEXT_JOBNIN560_01686_TODO_01	Busca al traficante del mercado negro en Lower La Noscea.
+TEXT_JOBNIN560_01686_TODO_02	Entrégale el saco de gil al traficante del mercado negro.
+TEXT_JOBNIN560_01686_TODO_03	Espía a los Truehounds desde el lugar indicado en Costa del Sol.
+TEXT_JOBNIN560_01686_TODO_04	Habla con Oboro en el almacén del muelle.
+TEXT_JOBNIN560_01686_OBORO_000_000	<split(<string(gstr1)>, ,1)>, la red de Jacke se enteró de quién estuvo vendiendo los tesoros robados del clan Yatsurugi. Es información que podría llevarnos directo a la daga.
+TEXT_JOBNIN560_01686_OBORO_000_001	Nos llamó a los dos al gremio, pero ¿podría pedirte que vayas sol<if(gnum4,a,o)>?
+TEXT_JOBNIN560_01686_OBORO_000_002	Ahora no puedo irme. Akagi y la Princesa Yuki vienen para acá.
+TEXT_JOBNIN560_01686_OBORO_000_003	Les mandé una misiva diciendo que quizás tengamos información sobre los bandidos que la robaron. La princesa quiere saber más de ellos, así que decidió venir.
+TEXT_JOBNIN560_01686_OBORO_000_004	Creo que Jacke te dará una pista. Síguela y vuelve cuando hayas desenredado la verdad.
+TEXT_JOBNIN560_01686_OBORO_000_010	La red de espías de Jacke es de lo más impresionante. Ya que estamos instalados en Eorzea, quizás no estaría de más armar la nuestra...
+TEXT_JOBNIN560_01686_JACKE_000_030	¡<split(<string(gstr1)>, ,1)>! Los dioses saben que no es fácil hacer hablar a los traficantes del mercado negro, pero le hicimos cosquillas en el cuello a Mulfa Kelfa con un pincho y soltó un montón de información.
+TEXT_JOBNIN560_01686_JACKE_000_031	La chuchería que queda, una daga según todos, se va a vender en una subasta, y solo se entra con invitación. Los organizadores son una banda que se hace llamar los Truehounds.
+TEXT_JOBNIN560_01686_JACKE_000_032	Para la ley, venden botín afanado a los imperiales en una expedición al Lejano Oriente. Pero Garlemald no controla la tierra de donde viene tu moza linda.
+TEXT_JOBNIN560_01686_JACKE_000_033	Es un teatro de los buenos: sacar ganancia disfrazados de compañía en regla. Los compradores tampoco van a hacer muchas preguntas: robado o no, un tesoro es un tesoro.
+TEXT_JOBNIN560_01686_JACKE_000_034	Pero es la palabra de tu princesa contra la de los Truehounds. El gremio no puede actuar con eso. No oficialmente, al menos.
+TEXT_JOBNIN560_01686_JACKE_000_035	Le dejé la investigación a un... bueno, digamos que es un traficante del mercado negro. Es un tipo raro: hace poco que el gremio le echó el ojo. Pero nunca conocí a un fulano que consiguiera información tan rápido.
+TEXT_JOBNIN560_01686_JACKE_000_036	Esta mañana un viento del sur levantó el Veil: eso pone al hombre en la House of Sticks. Aquí tienes un saco de plata. Buena suerte, <if(gnum4,muchacha,muchacho)>.
+TEXT_JOBNIN560_01686_JACKE_000_050	No te olvidaste, ¿no? No es tu estilo, <if(gnum4,muchacha,muchacho)>. Tienes que ir a la House of Sticks.
+TEXT_JOBNIN560_01686_KARASU_000_100	¿Quieres información? Entonces ven, dame lo que es mío.
+TEXT_JOBNIN560_01686_KARASU_000_110	Hm, hmmm... Sí... Sí, parece que está todo lo que me prometieron. Los callejones dan mucha plata, ¿eh? Ahora, sobre esos Truehounds.
+TEXT_JOBNIN560_01686_KARASU_000_111	La mayoría de los Salthounds volvieron a tierra después de la Calamidad. Pero unos pocos se negaron a dejar el mar y volvieron a las andadas como los Truehounds. Navegan bajo la bandera negra de una tal Capitana Rosalinde.
+TEXT_JOBNIN560_01686_KARASU_100_111	Tienen la fuerza de una tripulación del doble de su tamaño, sobre todo por el pluto que toman. Con los músculos reforzados por esa sustancia, y una buena dosis de crueldad natural, se ganaron fortuna e infamia en los mares del este.
+TEXT_JOBNIN560_01686_KARASU_000_112	Pero ahora escondieron su barco en Hullbreaker Isle y se fueron a Costa del Sol. Parece que se les antojó una jarra de cerveza y mirar a las bailarinas.
+TEXT_JOBNIN560_01686_KARASU_000_113	No serán difíciles de encontrar si quieres echarles un vistazo, pero hazlo bajo tu propio riesgo. Puede que los piratas borrachos no te asusten. Pero Redway, su nuevo mercenario, debería.
+TEXT_JOBNIN560_01686_KARASU_000_114	Dicen que es un <italic(1)>ex<italic(0)>miembro de las operaciones encubiertas garleanas, que se entregó de lleno al estudio del ninjutsu.
+TEXT_JOBNIN560_01686_KARASU_000_115	Su empeño le dio buenos frutos... aunque a costa de su humildad. Mantente alerta, o sentirás su hoja pinchándote la espalda.
+TEXT_JOBNIN560_01686_KARASU_000_116	En fin, ¡eso es todo de mi parte! Salúdame al torpe... ¡<if(gnum4,pollita,pollito)>! ¡Ajajajá!
+TEXT_JOBNIN560_01686_ROSALINDE_000_200	Redway, Redway, Redway. Perdí mi botín. Es plata que quizás nunca recupere. Pero me convenciste de darte tiempo. Que tu informe valga la pena, o me quedo con tu cabeza.
+TEXT_JOBNIN560_01686_REDWAY_000_201	Eran dos ladrones, Capitana: la mismísima Orquídea de Hierro y un criado. El segundo parece más forzudo que valiente, pero la princesa es peligrosa.
+TEXT_JOBNIN560_01686_REDWAY_000_202	Tiene a dos shinobi a su servicio. Uno es un jonin domano, Oboro. También es una fuerza a tener en cuenta.
+TEXT_JOBNIN560_01686_REDWAY_000_203	El otro es <if(gnum4,una,un)> <switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>: <split(<string(gstr1)>, ,1)>, si no me equivoco. Es <if(gnum4,famosa,famoso)> por mérito propio, y <if(gnum4,peligrosa,peligroso)>.
+TEXT_JOBNIN560_01686_REDWAY_000_204	Que estén metidos me hace pensar que la princesa tiene más dinero del que aparenta. Estos dos son responsables de la muerte de mi maestro: sus servicios no pueden ser baratos.
+TEXT_JOBNIN560_01686_ROSALINDE_000_205	Los asesinos de tu maestro, ¿eh? No estarás soñando con vengar a Gekkai en <italic(1)>mi<italic(0)> tiempo, ¿no?
+TEXT_JOBNIN560_01686_REDWAY_000_206	¿Venganza, Capitana? ¿Por qué? Gekkai me trataba como basura, él y Karasu. Porque yo no era de su preciosa aldeíta.
+TEXT_JOBNIN560_01686_REDWAY_000_207	¿Pero Oboro? ¡Si derroto al <italic(1)>favorito<italic(0)> de Gekkai, los derroto a todos! Eso es lo que desea mi corazón, sí.
+TEXT_JOBNIN560_01686_ROSALINDE_000_208	Me importa un pepino lo que hagas con los ninjas. Pero no son <italic(1)>ellos<italic(0)> los que quiero: es la princesa. Viva.
+TEXT_JOBNIN560_01686_ROSALINDE_000_209	Como yo lo veo, la subasta es la trampa perfecta, con la daga de los Yatsurugi de cebo.
+TEXT_JOBNIN560_01686_ROSALINDE_000_210	La Orquídea de Hierro no podrá resistirse. Atraparla entonces será fácil y rápido. ¿<italic(1)>Entendido<italic(0)>, Redway?
+TEXT_JOBNIN560_01686_REDWAY_000_211	Claro, claro. La princesa no tendrá ninguna oportunidad con la guardia doblada. No, no la tendrá.
+TEXT_JOBNIN560_01686_YUKI_000_250	Más te vale que esto no sea una treta para ganarte mi favor.
+TEXT_JOBNIN560_01686_AKAGI_000_255	Limpio, ordenado, acogedor... uno se podría acostumbrar a vivir en un lugar así.
+TEXT_JOBNIN560_01686_OBORO_000_300	¿Hubo éxito, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBNIN560_01686_OBORO_000_301	Hmmm. Esa tal Rosalinde es astuta: nos espiaba a través de Redway...
+TEXT_JOBNIN560_01686_OBORO_000_302	Princesa, ahora el enemigo estará atento a nuestras tretas. Recuperar el último tesoro será mucho más difícil. Así que le ruego que nos lo deje a nosotros, los shinobi.
+TEXT_JOBNIN560_01686_YUKI_000_303	Sé que lo que dices tiene sentido, Oboro. Pero este es mi problema. Debo resolverlo yo sola.
+TEXT_JOBNIN560_01686_YUKI_000_304	¡Yo... yo <italic(1)>no<italic(0)> voy a permitir que muera más gente en mi nombre!
+TEXT_JOBNIN560_01686_YUKI_000_305	...Los Truehounds no solo robaron los tesoros. Mi gente se interpuso en su camino. Y murieron muchos. Demasiados.
+TEXT_JOBNIN560_01686_YUKI_000_306	Yo quería pelear. Pero mis vasallos no lo permitieron. Y mientras los abatían, me llamaban. <italic(1)>Gritaban<italic(0)> mi nombre. No tienen idea de lo que se siente.
+TEXT_JOBNIN560_01686_YUKI_100_306	Mis tierras están al borde de la ruina. Mi gente está al borde del hambre. Si <italic(1)>yo<italic(0)> no hago algo, todos sus sacrificios no habrán servido de nada.
+TEXT_JOBNIN560_01686_YUKI_200_306	Cuando vine aquí, juré que traería prosperidad a mi país encontrando y vendiendo mis tesoros. Sola. Nadie volvería a morir protegiéndome. Ni mi pueblo, ni mis vasallos, ni ustedes.
+TEXT_JOBNIN560_01686_AKAGI_300_306	¿No quiere que nadie muera protegiéndola, Princesa? ¿¡Y qué hay de los que daríamos la vida con gusto por defenderla!?
+TEXT_JOBNIN560_01686_AKAGI_000_307	Si... si no va a confiar en los shinobi, entonces... entonces yo... ¡yo me abro la panza!
+TEXT_JOBNIN560_01686_AKAGI_000_308	¡Yo estoy atado a usted, Princesa, pero ellos no! ¡No les dimos dinero ni gratitud, y aun así nos siguen ayudando! Puede confiar en ellos, <italic(1)>tiene<italic(0)> que hacerlo... ¡o no hay forma de recuperar el tesoro!
+TEXT_JOBNIN560_01686_AKAGI_000_309	<italic(1)>Confíe<italic(0)> en los shinobi. O me pierde a mí y suma uno más a los que murieron intentando protegerla. Con eso me va a detener. ¿Verdad? ¿¡P-Princesa!?
+TEXT_JOBNIN560_01686_YUKI_000_310	...Je... ¡jejeje! Akagi, tienes la forma más <italic(1)>extraña<italic(0)> de... Está claro que los shinobi te causaron una gran impresión.
+TEXT_JOBNIN560_01686_YUKI_000_311	Oboro, <split(<string(gstr1)>, ,1)>: considérenlo mi pedido formal. Ayúdenme a recuperar nuestro último tesoro.
+TEXT_JOBNIN560_01686_YUKI_000_312	Pero tengo una condición. Pase lo que pase, no darán su vida por la mía. Llámenlo... el deber de seguir con vida, si quieren.
+TEXT_JOBNIN560_01686_OBORO_000_313	¿Seguir con vida, eh? Una idea interesante. A los shinobi nos entrenan para poner el deber por encima de todo, incluida nuestra vida.
+TEXT_JOBNIN560_01686_OBORO_000_314	Dicho esto, <split(<string(gstr1)>, ,1)>, esta es la misión que se te dio. Tienes el deber de llevarla a cabo. Y pase lo que pase, sé que cumplirla te ayudará a crecer como shinobi.
+TEXT_JOBNIN560_01686_OBORO_000_315	Ahora esperamos y vigilamos las señales de la subasta. Hablaré con Jacke. Con los ojos y oídos que tiene a su servicio, tenderemos una red para enterarnos de la daga del clan Yatsurugi.

@@ -1,0 +1,130 @@
+key	text
+TEXT_JOBNIN630_02949_SEQ_00	Yomei tiene una misiva del Lejano Oriente con tu nombre.
+TEXT_JOBNIN630_02949_SEQ_01	Yomei te recibe al llegar y te da una carta con entusiasmo. Parece que Oboro y Jacke llegaron sanos y salvos a las costas de Hingashi, y que su investigación sobre el pergamino robado encontró pistas prometedoras. Tu amigo y maestro shinobi te pide que te reúnas con él en Kugane para seguir la búsqueda. Al desembarcar, busca a Oboro en el callejón detrás del Pier #2.
+TEXT_JOBNIN630_02949_SEQ_02	Oboro te cuenta todo lo que averiguaron él y Jacke. Al parecer, el robo del pergamino fue obra de la Garnet League, una banda de samuráis sin amo que se volvieron bandidos después de huir deshonrados del campo de batalla durante la rebelión de Doma. Fáciles de reconocer por su ropa rojo sangre y sus modales toscos, últimamente andan por Kugane. A pedido de Oboro, espíalos desde las sombras en el Shiokaze Hostelry y el Rakuza District y mira qué puedes averiguar de sus planes y del paradero actual del pergamino.
+TEXT_JOBNIN630_02949_SEQ_03	Al escuchar a escondidas a los hombres de la Garnet League, averiguas que los contrató un cliente hingano, cuya identidad no queda clara, para sacar el pergamino de un depósito imperial. También logras reunir más información sobre la propia Garnet League: la dirige una tal Zakuro Brightblood, una samurái temida tanto por su habilidad con la espada como por su mal genio casi legendario. Seguro que Oboro y Jacke querrán oír todo lo que averiguaste.
+TEXT_JOBNIN630_02949_SEQ_04	Tus compañeros y tú comparten lo que averiguaron, y se les suman V'kebbe y Underfoot, a quienes Jacke llamó a Kugane para ayudar a recuperar el pergamino. Juntando datos sueltos, el Capitán Jacke idea un plan enrevesado para recuperar el pergamino que incluye, entre otras rarezas, un acto de equilibrismo y caca de pájaro de imitación. Como a nadie se le ocurre nada mejor, reparten las tareas y se preparan para entrar en acción.
+TEXT_JOBNIN630_02949_SEQ_05	Ejecutas a la perfección el creativo plan de Jacke, y Zakuro sale corriendo horrorizada a los baños. Infíltrate en el Bokairo y busca el pergamino en los canastos del vestidor mientras Oboro, no muy convencido, y Jacke entretienen a Zakuro con sus encantos varoniles.
+TEXT_JOBNIN630_02949_SEQ_06	Revisas los canastos junto a la entrada de los baños, pero el pergamino no aparece. ¿Quizás haya algún lugar donde todavía no buscaste?
+TEXT_JOBNIN630_02949_SEQ_07	Revisas otro grupo de canastos, pero sin suerte. ¿Dónde habrá escondido Zakuro el pergamino?
+TEXT_JOBNIN630_02949_SEQ_08	Revisas los canastos de la sala más interior de la casa de baños y recuperas el pergamino sin que Zakuro se dé cuenta. Vuelve rápido al callejón y comparte la buena noticia con tus amigos.
+TEXT_JOBNIN630_02949_SEQ_09	Oboro y Jacke celebran el éxito de la misión. Pero el ánimo del shinobi se ensombrece bastante al ver qué es en realidad el pergamino: un mudra de invocación prohibido y antiguo tesoro de su aldea que desapareció durante la invasión garleana de hace veinticinco años. Parece que el pergamino durmió intacto en una bóveda imperial hasta que Zakuro y sus secuaces lo robaron por encargo de su misterioso cliente. Mientras Oboro se pregunta quién fuera de su aldea podría saber del pergamino, Karasu Redbeak aparece en una nube de humo, revela que él era quien movía los hilos de la operación en nombre de su nuevo señor, y amenaza con hacerles daño a Tsubame, V'kebbe y Underfoot, a quienes capturó mientras tanto, si no le devuelven el pergamino. Tras lanzar una advertencia enigmática sobre un desafío que vendrá, desaparece tan rápido como llegó y los deja sin saber qué hacer. Sigue puliendo tus habilidades en el arte del ninjutsu, para estar <if(gnum4,lista,listo)> para el juego mortal que el cuervo te tenga preparado.<br><br>※La siguiente misión de ninja estará disponible con Oboro al llegar al nivel 65.
+TEXT_JOBNIN630_02949_TODO_00	Reúnete con Oboro en Kugane.
+TEXT_JOBNIN630_02949_TODO_01	Usa Hide para reunir información en el Shiokaze Hostelry y el Rakuza District.
+TEXT_JOBNIN630_02949_TODO_02	Infórmale a Oboro.
+TEXT_JOBNIN630_02949_TODO_03	Vigila desde un lugar alto.
+TEXT_JOBNIN630_02949_TODO_04	Busca el pergamino en los canastos de la casa de baños.
+TEXT_JOBNIN630_02949_TODO_05	Busca el pergamino en más canastos.
+TEXT_JOBNIN630_02949_TODO_06	Busca el pergamino en todavía más canastos.
+TEXT_JOBNIN630_02949_TODO_07	Espera a Jacke y a Oboro en el punto de encuentro.
+TEXT_JOBNIN630_02949_YOUMEI_000_000	Ah, <split(<string(gstr1)>, ,1)>. Tengo una carta para usted del Maestro Oboro. Parece que su investigación en Kugane dio frutos. Tome, véalo usted mism<if(gnum4,a,o)>.
+TEXT_JOBNIN630_02949_OBORO_000_001	(-Carta de Oboro-)<italic(1)>Querid<if(gnum4,a,o)> <split(<string(gstr1)>, ,1)>:<br>Espero que al recibir esta carta te encuentres bien. Después de un viaje largo y bastante tranquilo, llegamos sanos y salvos a Kugane. Al Capitán Jacke parece encantarle la cultura hingana, y en este mismo momento está paseando por el barrio del placer.<italic(0)>
+TEXT_JOBNIN630_02949_OBORO_000_002	(-Carta de Oboro-)<italic(1)>Pero perdóname, no te interesa un diario de nuestros viajes. En cuanto al asunto del pergamino, abundan los rumores de que una banda de forajidos domanos anda causando revuelo en la ciudad. Juntando los relatos que oímos, el buen Capitán y yo estamos convencidos de que son los ladrones que buscamos.<italic(0)>
+TEXT_JOBNIN630_02949_OBORO_000_003	(-Carta de Oboro-)<italic(1)>Si hay que creer lo que se dice en la ciudad, esta gente es mucho más peligrosa de lo que imaginábamos. Confío en que sigues tu entrenamiento de ninjutsu con la diligencia de siempre. Perdona: claro que sí. En cualquier caso, quisiéramos que te unieras a nosotros lo antes posible. Estaremos atentos a tu llegada. Búscanos en el callejón detrás de los muelles de ferri del segundo pier. Buen viaje, amig<if(gnum4,a,o)>.<italic(0)>
+TEXT_JOBNIN630_02949_YOUMEI_000_004	Qué bueno ver al Maestro Oboro de buen ánimo otra vez. Desde que los ancianos le ordenaron quedarse aquí en Eorzea, no era el mismo.
+TEXT_JOBNIN630_02949_YOUMEI_000_005	Al fin y al cabo, un shinobi sin un deber que cumplir es como un halcón con las alas cortadas. Qué bueno ver al Maestro Oboro volar alto otra vez.
+TEXT_JOBNIN630_02949_YOUMEI_000_006	Aun así, me preocupa. Aunque lo respeto mucho, a menudo es demasiado confiado para su propio bien. Le ruego que vaya a su lado, amig<if(gnum4,a,o)>, y que se asegure de que no se meta en problemas innecesarios. Que los kami lo lleven a salvo al otro lado del mar.
+TEXT_JOBNIN630_02949_YOUMEI_000_010	El Maestro Oboro lo espera en Kugane. Le deseo un buen viaje.
+TEXT_JOBNIN630_02949_JACKE_000_011	¡<split(<string(gstr1)>, ,1)>! ¿Por qué tardaste tanto? ¿Les echaste un ojo a las mozas del barrio del placer? ¡Este lugar me gusta más cada día!
+TEXT_JOBNIN630_02949_TSUBAME_000_012	¡Ah, <split(<string(gstr1)>, ,1)>! Cuánto tiempo. Haber viajado tan lejos para ayudar a Oboro en su misión... no tengo palabras para expresar mi gratitud.
+TEXT_JOBNIN630_02949_OBORO_000_020	<split(<string(gstr1)>, ,1)>. Gracias por responder a mi llamado. Tsubame también hizo el viaje desde la aldea para ayudarnos a recuperar el pergamino.
+TEXT_JOBNIN630_02949_TSUBAME_000_021	Es un honor volver a estar a su lado, <split(<string(gstr1)>, ,1)>. Sin duda su presencia le hará bien al Maestro Oboro, como siempre.
+TEXT_JOBNIN630_02949_JACKE_000_022	Yo también pensé que nos vendrían bien unos capos más en el trabajo, así que mandé llamar a Underfoot y a la Stray. Su barco debería llegar al puerto dentro de poco.
+TEXT_JOBNIN630_02949_OBORO_000_023	Mientras tanto, déjame contarte lo que averiguamos. Según fuentes confiables, el robo del pergamino es obra de la Garnet League, una banda de forajidos famosa y temida en toda Doma.
+TEXT_JOBNIN630_02949_OBORO_000_024	Cuando aplastaron la rebelión de Doma hace un año, muchos samuráis huyeron del campo de batalla para escapar de la ira del Empire. Deshonrados y sin poder volver a casa, la mayoría se volvieron bandidos para ganarse la vida. Los más letales de esos guerreros formaron la Garnet League.
+TEXT_JOBNIN630_02949_OBORO_000_025	Matar inocentes por su monedero, saquear aldeas... Los hombres y mujeres de la Garnet se mancharán las manos de sangre con gusto mientras eso signifique vivir para ver el día siguiente.
+TEXT_JOBNIN630_02949_OBORO_000_026	No sé por qué codician tanto ese pergamino. Lo que sí sé es que, si no los detenemos, es casi seguro que dejarán un rastro de cadáveres. Debemos movernos, y rápido.
+TEXT_JOBNIN630_02949_OBORO_000_027	Por suerte, no debería costarnos encontrarlos. Confiados en que pueden matar a cualquiera que se atreva a enfrentarlos, apenas se molestan en esconderse. Al contrario: lucen sus kimonos color granate para que todos los vean. Puedes distinguirlos de los Sekiseigumi, que visten parecido, porque no llevan hakama y tienen unos modales singularmente groseros.
+TEXT_JOBNIN630_02949_OBORO_000_028	Separémonos para cubrir todo el terreno que podamos. <split(<string(gstr1)>, ,1)>, te confío el Shiokaze Hostelry y el Rakuza District. Mantente en las sombras y reúne toda la información que puedas. Cuando terminemos, nos volvemos a reunir aquí.
+TEXT_JOBNIN630_02949_SYSTEM_000_030	Estos hombres parecen miembros de la Garnet League. Parece que hablan de algo...
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEA02949_000_031	Un día nos hace meternos en un maldito depósito imperial, y al siguiente la Confederacy nos persigue por medio Ruby Sea. Aunque Zakuro nos pagara el doble, no valdría la maldita pena.
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEB02949_000_032	Vamos. Hasta tú tienes que admitir que fue toda una aventurita. Aunque tuvimos suerte de toparnos con esos piratas eorzeanos cuando lo hicimos, y de que se creyeran nuestro pequeño engaño. Al final llegamos aquí con nuestro pequeño premio, ¿o no? Solo dimos un pequeño rodeo.
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEA02949_000_033	No llegamos <italic(1)>todos<italic(0)>... ¿o te olvidaste de los que dejamos en Bloodshore? Seguro que los mataron nuestros perseguidores. Pobres desgraciados... ¿A quién se le ocurrió la brillante idea de seguir el plan de ese enmascarado?
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEA02949_000_034	Si nuestros hermanos no supieron defenderse, la culpa es solo suya. En cuanto a nuestro misterioso benefactor, nos trajo hasta aquí como prometió, ¿no? Ahora solo tenemos que esperar a que aparezca nuestro cliente y entregarle la mercancía, y nunca más vamos a tener que preocuparnos por pasar hambre.
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEA02949_000_035	Hablando de eso, ¿cuánto tiempo piensa hacernos esperar ese hombre? Empiezo a preguntarme si alguien no nos está tomando a todos por tontos.
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEA02949_000_036	Vamos, vamos. Al fin y al cabo, nos atrasamos con la entrega. Dicen que nuestro cliente volvió a Koshu cuando no aparecimos, y que ahora está haciendo el largo viaje de vuelta a Kugane. Le debemos algo de paciencia, ¿no?
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEA02949_000_037	Un día nos hace meternos en... Oye, ¿por qué no te ocupas de tus malditos asuntos?
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEB02949_000_038	Mi amigo tiene mal genio. Harías bien en dejarlo en paz.
+TEXT_JOBNIN630_02949_SYSTEM_000_039	Los hombres de la Garnet League no van a soltar ningún secreto delante de extraños. Aléjate de su vista y <colortype(500)><edgecolortype(501)>ocúltate<edgecolortype(0)><colortype(0)> en las sombras antes de volver a acercarte.
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEA02949_000_045	Esto no es ningún maldito espectáculo. ¡Lárgate!
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEB02949_000_046	No acostumbro hablar con extraños. Si tienes algún asunto, dilo. Si no, vete.
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEA02949_100_045	Lo creeré cuando lo vea...
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEB02949_100_046	Paciencia, amigo. ¡Un poco más, y la vida que siempre quisimos será nuestra!
+TEXT_JOBNIN630_02949_SYSTEM_000_050	Estos hombres parecen miembros de la Garnet League. Parece que hablan de algo...
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEC02949_000_051	¡T-Te juro que solo quería ver por qué tanto alboroto! ¡Apenas le puse un dedo encima y de repente tenía la espada de Zakuro en el cuello! ¡C-Creí que me iba a matar ahí mismo!
+TEXT_JOBNIN630_02949_ZAKUROPEOPLED02949_000_052	Ponte en su lugar. Dicen que nuestro cliente es un hombre tan peligroso que mata a los que no cumplen sus tratos. Si le pasara algo al pergamino, su vida, y la nuestra, estaría perdida.
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEC02949_000_053	¿M-Me estás diciendo que ella tiene tanto miedo como nosotros? ¿Zakuro Brightblood, que mató ella sola a cien garleanos en un día durante la rebelión? ¿Zakuro Brightblood, que se tiñe el pelo de rojo con la sangre de sus enemigos?
+TEXT_JOBNIN630_02949_ZAKUROPEOPLED02949_000_054	Impone, es cierto. Pero en el fondo es bastante sensible.
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEC02949_000_055	¿¡S-Sensible!? No me hagas reír...
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEC02949_000_056	T-Te juro que solo quería... Ah, ¿estaba diciendo algo? N-No, no creo...
+TEXT_JOBNIN630_02949_SYSTEM_000_057	Los hombres de la Garnet League no van a soltar ningún secreto delante de extraños. Aléjate de su vista y <colortype(500)><edgecolortype(501)>ocúltate<edgecolortype(0)><colortype(0)> en las sombras antes de volver a acercarte.
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEC02949_000_058	¿Q-Qué pasa? ¿N-No ves que estamos hablando de asuntos importantes?
+TEXT_JOBNIN630_02949_ZAKUROPEOPLED02949_000_059	Pareces <if(gnum4,perdida,perdido)>, <if(gnum4,amiga,amigo)>. Te sugiero que te encuentres, y rápido. Kugane no es amable con los que buscan donde no deben.
+TEXT_JOBNIN630_02949_ZAKUROPEOPLEC02949_100_058	¡<italic(1)>S-Sensible<italic(0)>! ¡J-Ja, qué buena!
+TEXT_JOBNIN630_02949_ZAKUROPEOPLED02949_100_059	Te digo que, cuando la conoces, es bastante encantadora...
+TEXT_JOBNIN630_02949_JACKE_000_065	Parece que el viaje largo le embotó las orejas al viejo Jacke. Espero que tú hayas tenido más suerte.
+TEXT_JOBNIN630_02949_TSUBAME_000_066	Tiene un aire distinto, <split(<string(gstr1)>, ,1)>. Se nota que se volvió aún más fuerte desde la última vez que nos vimos.
+TEXT_JOBNIN630_02949_OBORO_000_070	Parece que ya estamos todos. Excelente: compartamos lo que averiguamos.
+TEXT_JOBNIN630_02949_OBORO_000_071	A ver si lo entendí bien. En resumen, la Garnet League sacó el pergamino de un depósito garleano por encargo de un cliente hingano desconocido. Pensaban navegar directo de Yanxia a Kugane, pero se toparon con la Confederacy, sin duda porque eran demasiado pobres para pagar el Ruby Tithe.
+TEXT_JOBNIN630_02949_OBORO_000_072	Al huir, los capturaron los Krakens, así que dijeron ser refugiados domanos que pedían asilo. Al llegar a Eorzea se escaparon con el pergamino y por fin consiguieron un pasaje seguro a Kugane... ¿con ayuda de Karasu? Los motivos de ese siguen tan indescifrables como siempre... pero me desvío.
+TEXT_JOBNIN630_02949_OBORO_000_073	Además, los dirige una tal Zakuro Brightblood, de quien se cuentan no pocas historias exageradas. Sean ciertas o no, no cabe duda de que es una rival temible.
+TEXT_JOBNIN630_02949_OBORO_000_074	Por mi parte, oí que protege mucho el pergamino y lo lleva encima en todo momento, de día y de noche.
+TEXT_JOBNIN630_02949_TSUBAME_000_075	Yo oí que Zakuro y sus seguidores alquilaron un cuarto en el Bokairo, una posada de la ciudad famosa por sus baños termales.
+TEXT_JOBNIN630_02949_JACKE_000_076	Lo único que el viejo Jacke logró averiguar es que la moza está muy orgullosa de su melena. Y que le gusta tomar té: hace el viaje de la posada a la casa de té y de vuelta por lo menos tres veces al día.
+TEXT_JOBNIN630_02949_OBORO_000_077	Eso es muy... esclarecedor, Capitán Jacke. Ahora tenemos que encontrar la forma de quedarnos con el pergamino antes de que llegue el cliente de Zakuro... pero ¿cómo? Podríamos retarla a un combate singular, pero a los Sekiseigumi no les gustaría nada.
+TEXT_JOBNIN630_02949_OBORO_000_078	Además, somos shinobi, ¿no? Debemos usar el sigilo a nuestro favor. Solo necesitamos un plan...
+TEXT_JOBNIN630_02949_PERIMUHAURIMU_000_080	¡Cuidado abajo! Underfoot entra en escena. Qué bueno volver a verte, <split(<string(gstr1)>, ,1)>. Me muero por echarles un ojo a los trucos nuevos que aprendiste de tus amigos de aquí.
+TEXT_JOBNIN630_02949_VKEBBE_000_081	¿Qué tiene que hacer una moza para conseguir un poco de sushi? ¡Me muero de hambre! ¿Y qué pasa con todas estas malditas gaviotas? ¡Te juro que si otra me caga en el pelo, esta noche cenamos guiso de gaviota!
+TEXT_JOBNIN630_02949_JACKE_000_079	Un momento... ¡eso es! V'kebbe, eres una maldita genia... y yo también, creo.
+TEXT_JOBNIN630_02949_JACKE_000_082	Acérquense y préstenme las orejas, amigos: ¡el viejo Jacke tiene un plan!
+TEXT_JOBNIN630_02949_JACKE_000_083	Primero, agarramos a Zakuro cuando vaya de la posada a la casa de té. Underfoot, V'kebbe, Tsubame: ustedes tres se encargan de armar un escándalo y frenar a la moza en seco.
+TEXT_JOBNIN630_02949_JACKE_000_084	Mientras tanto, <split(<string(gstr1)>, ,1)>, tú subes a esa percha sobre el mercado y dejas caer desde arriba un poco de caca de gaviota de imitación.
+TEXT_JOBNIN630_02949_JACKE_000_085	Con su preciosa melena toda embadurnada, seguro que la moza va a ir a las termas. No va a poder meter el pergamino al agua, así que solo tenemos que seguirla, bien sigilosos, y sacarlo del canasto donde lo haya guardado.
+TEXT_JOBNIN630_02949_JACKE_000_086	Por si acaso, Oboro y yo también vamos a la casa de baños y entretenemos a la muchacha hasta que <split(<string(gstr1)>, ,1)> tenga el pergamino a salvo en sus zarpas.
+TEXT_JOBNIN630_02949_OBORO_000_087	Un plan de lo más impresionante, Capitán Jacke. Pero tengo una pregunta: ¿cómo propone que los dos... entretengamos a Zakuro?
+TEXT_JOBNIN630_02949_TSUBAME_000_088	Oboro, seguro que recuerda nuestra visita a Bronze Lake y el pequeño espectáculo que le monté a nuestro amigo pirata. En realidad es muy simple.
+TEXT_JOBNIN630_02949_OBORO_000_089	No estoy seguro de entender qué quie... Ah. Pensándolo bien, no estoy del todo convencido de que sea lo mejor...
+TEXT_JOBNIN630_02949_JACKE_000_090	¡Jajá! Valórate un poco más, muchacho. Ahora, <split(<string(gstr1)>, ,1)>. Vas a tener que subir al techo del Bokairo y de ahí pasar al cable que está sobre el mercado.
+TEXT_JOBNIN630_02949_JACKE_000_091	Toma, este tinte blanco debería imitar bastante bien la caca de gaviota. En cuanto Underfoot y los demás pongan a Zakuro en posición, déjalo caer.
+TEXT_JOBNIN630_02949_JACKE_000_092	Muy bien, muchachos y muchachas, ¡atentos! Nos volvemos a ver aquí cuando todo esté en orden.
+TEXT_JOBNIN630_02949_JACKE_100_095	Buen plan, ¿eh? El viejo Jacke todavía tiene lo suyo.
+TEXT_JOBNIN630_02949_VKEBBE_000_100	¡Qué dolor... ay, qué dolor!
+TEXT_JOBNIN630_02949_TSUBAME_000_101	¡Pobrecita! ¿Qué le pasa?
+TEXT_JOBNIN630_02949_PERIMUHAURIMU_100_101	¡Alguien, quien sea, busque un sanador! ¡La muchacha necesita ayuda!
+TEXT_JOBNIN630_02949_ZAKURO_000_102	¿Qué fue...? ¡Agh! ¿¡Caca de pájaro!? ¡Ay, qué maldita <italic(1)>maravilla<italic(0)>!
+TEXT_JOBNIN630_02949_VKEBBE_000_103	Gracias, amable señor y señora. Pero no se preocupen, no estoy enferma. Es que no comí nada en todo el día.
+TEXT_JOBNIN630_02949_PERIMUHAURIMU_000_104	¡Jajá! ¿Eso es todo? Por suerte, el Shiokaze Hostelry está a dos pasos, y dicen que su sushi es para <italic(1)>morirse<italic(0)>. ¿Vamos?
+TEXT_JOBNIN630_02949_ZAKURO_000_105	¡Mi pelo! ¡Mi precioso pelo! \<suspiro> De vuelta a la casa de baños, supongo...
+TEXT_JOBNIN630_02949_SYSTEM_000_110	Revisas el canasto, pero sin suerte. El pergamino tiene que estar por aquí...
+TEXT_JOBNIN630_02949_OBORO_000_115	¡Qué melena tan hermosa tiene! ¿Cómo hace para mantenerla tan suave y sedosa?
+TEXT_JOBNIN630_02949_JACKE_000_116	Vi muchas mozas en mis tiempos, pero ninguna se compara con usted, mi señora.
+TEXT_JOBNIN630_02949_ZAKURO_000_117	¿De verdad? No es por presumir, pero <italic(1)>sí<italic(0)> dicen que mi belleza se canta por todas partes...
+TEXT_JOBNIN630_02949_SYSTEM_000_120	Revisas el canasto, pero sin suerte. El pergamino tiene que estar por aquí...
+TEXT_JOBNIN630_02949_OBORO_000_130	¡Bien hecho, amigos! La operación fue, se mire como se mire, un éxito rotundo. Dicho esto, no vi a Tsubame ni a los demás... Espero que todo esté bien.
+TEXT_JOBNIN630_02949_JACKE_000_131	<italic(1)>Eso<italic(0)> sí que fue un truco fino, si me permiten decirlo. En cuanto a la moza, yo no me preocuparía: lo más probable es que V'kebbe y Underfoot se la llevaran a zamparse alguna de las delicias más finas de Kugane.
+TEXT_JOBNIN630_02949_OBORO_000_132	Sin duda tiene razón, Capitán Jacke. Mientras tanto, te ruego que me muestres el pergamino, <split(<string(gstr1)>, ,1)>. Quiero ver qué es lo que tanto codicia el misterioso patrón de Zakuro.
+TEXT_JOBNIN630_02949_OBORO_000_133	Vaya, esto es... ¿¡puedo creer lo que ven mis ojos!? ¡El mudra de invocación prohibido! Casi creía que era solo un cuento de fantasmas para meterles miedo a los shinobi que se desviaran del camino.
+TEXT_JOBNIN630_02949_JACKE_000_134	¿Invocación prohibida? No distinguiría un mudra de mi propia abuela, pero eso suena bastante peligroso...
+TEXT_JOBNIN630_02949_OBORO_000_135	Lo es, Capitán Jacke. Las leyendas dicen que, si la concentración del invocador flaquea aunque sea un instante, la bestia monstruosa que invoca este mudra no dudará en devorarlo entero.
+TEXT_JOBNIN630_02949_OBORO_000_136	Hace muchos años, nuestra aldea se lo regaló al Rey de Doma, y luego lo sellaron para usarlo solo en las circunstancias más graves. Pero se perdió en el caos de la invasión garleana y nunca más se supo de él. Así que estuvo durmiendo en una bóveda imperial todos estos años...
+TEXT_JOBNIN630_02949_JACKE_000_137	¿O sea que, aun con esa maldita invocación todopoderosa al alcance de la mano, los domanos no pudieron contener al Empire? Supongo que no era para tanto, ¿eh?
+TEXT_JOBNIN630_02949_OBORO_000_138	Al contrario: nunca tuvimos la oportunidad de saberlo. El Maestro Gekkai, que dirigía a los shinobi, consideró que el riesgo era demasiado grande y se negó a usarlo, aun mientras caía nuestra nación.
+TEXT_JOBNIN630_02949_OBORO_000_139	No sé si el Maestro Gekkai ya tramaba su traición entonces o si de verdad buscaba el bien de nuestros compatriotas, aunque me gustaría creer lo segundo.
+TEXT_JOBNIN630_02949_OBORO_000_140	En cualquier caso, está claro que nadie en Garlemald conocía el verdadero poder del pergamino. Y así quedó intacto hasta que la Garnet League lo robó por encargo de algún señor desconocido.
+TEXT_JOBNIN630_02949_OBORO_000_141	Pero, aparte de mis compañeros shinobi, ¿quién podría conocer el verdadero poder del pergamino? Aunque ahora importa poco. Tenemos el pergamino, y debo devolverlo a su lugar en mi aldea.
+TEXT_JOBNIN630_02949_JACKE_000_142	Me temo que no puedo dejarte hacer eso, amigo. Les prometí a los Krakens que les devolvería el pergamino, y no voy a dejar que digan que Jacke no es un hombre de palabra.
+TEXT_JOBNIN630_02949_JACKE_000_143	Al fin y al cabo, el pergamino falta de tu aldea desde hace veintitantos veranos, ¿no? Está claro que nadie sufre mucho por él.
+TEXT_JOBNIN630_02949_OBORO_000_144	¡Ese no es el punto, Capitán Jacke! ¡Este pergamino es un tesoro antiguo y le pertenece a Doma!
+TEXT_JOBNIN630_02949_JACKE_000_145	¡Le pertenece a quien lo encontró, y esos son los Krakens! Dioses, qué testarudo eres, desgraciado...
+TEXT_JOBNIN630_02949_KARASU_000_146	(-Voz conocida-)Caballeros, caballeros... ¿tienen que armar semejante escena? Al fin y al cabo, estrictamente hablando, el pergamino no le <italic(1)>pertenece<italic(0)> a ninguno de los dos.
+TEXT_JOBNIN630_02949_OBORO_100_147	¡Karasu! ¿De dónde saliste...? Pero no importa. Gracias por guiarnos hasta aquí. Puedes estar seguro de que el pergamino volverá sano y salvo a Doma. Tienes mi gratitud.
+TEXT_JOBNIN630_02949_KARASU_000_148	Ay, Oboro... mi querido, dulce e iluso Oboro. Cada día estás más torpe. ¿De verdad crees que hago lo que hago por <italic(1)>ti<italic(0)>?
+TEXT_JOBNIN630_02949_KARASU_000_149	<italic(1)>Sí<italic(0)> dije que yo movía todos los hilos de este pequeño teatro de títeres, ¿no? Muy bien, déjame decirlo con palabras que hasta tú entiendas: el pergamino le pertenece a Hingashi, al señor al que ahora sirvo.
+TEXT_JOBNIN630_02949_KARASU_000_150	Mi error fue confiarles a Zakuro y a sus lacayos lo que debí encargarme yo mismo desde el principio. En fin, ¡se aprende viviendo, supongo!
+TEXT_JOBNIN630_02949_KARASU_000_151	En cualquier caso, permítanme proponer un trato simple. Ustedes me entregan el pergamino, y yo les devuelvo a sus amigos con la cabeza todavía pegada al cuerpo. Un trato justo, ¿no?
+TEXT_JOBNIN630_02949_OBORO_000_152	¡Karasu, cobarde...!
+TEXT_JOBNIN630_02949_KARASU_000_153	Pensándolo bien... ¡Ajajajá! Sí, creo que podríamos divertirnos todavía más. Ojos y oídos abiertos, torpe: pronto tendrás noticias mías.
+TEXT_JOBNIN630_02949_OBORO_000_154	¡Maldición! Y yo que creía que ese hombre había cambiado después de dejar a Gekkai. Pero no: parece que simplemente encontró otro villano al que servir.
+TEXT_JOBNIN630_02949_JACKE_000_155	El que es estafador, estafador se queda, digo yo. Y uno listo, además: Underfoot y la Stray no son de los que se dejan agarrar tan fácil.
+TEXT_JOBNIN630_02949_OBORO_000_156	Mientras tengamos el pergamino, no es probable que Karasu les haga daño a nuestros amigos. Pero es el rival más impredecible que hay. Debemos actuar con cautela.
+TEXT_JOBNIN630_02949_OBORO_000_157	Perdóname, <split(<string(gstr1)>, ,1)>. Significaría mucho para mí que te quedaras en Kugane hasta que terminemos aquí. Te ruego que sigas entrenando tu ninjutsu; te volveré a llamar cuando llegue el momento.

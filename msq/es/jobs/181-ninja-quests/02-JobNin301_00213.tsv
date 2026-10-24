@@ -1,0 +1,46 @@
+key	text
+TEXT_JOBNIN301_00213_SEQ_00	Oboro quiere darte tu primera lección en el arte del ninjutsu.
+TEXT_JOBNIN301_00213_SEQ_01	Al sentir que el alma de sus ancestros es fuerte en ti, Oboro te enseña de buena gana una forma básica de ninjutsu: el Fuma Shuriken. Forma el mudra del cielo, o Ten, y luego libera la técnica para canalizar la energía en forma de proyectil en llamas. Como primera tarea, demuéstrale la técnica a Oboro en el mokujin, o muñeco de entrenamiento, que instalaron afuera del almacén del muelle.
+TEXT_JOBNIN301_00213_SEQ_02	Tu Fuma Shuriken da de lleno en el mokujin. Habla con Oboro para saber qué opina de tu técnica.
+TEXT_JOBNIN301_00213_SEQ_03	Oboro te considera <if(gnum4,lista,listo)> para la siguiente fase del entrenamiento, que te enfrentará a rivales de verdad. Prepárate como haga falta y habla con él cuando quieras combatir.
+TEXT_JOBNIN301_00213_SEQ_04	Al plantarles cara a Oboro y a los esbirros que invocó, pasaste tu última prueba con honores. Habla con Oboro, que sin duda está contento con tu esfuerzo.
+TEXT_JOBNIN301_00213_SEQ_05	Oboro y Tsubame están muy impresionados con la rapidez con que dominaste tu primer mudra. A cambio de la lección recibida, les enseñas a los domanos los detalles de la reverencia eorzeana, un gesto que, pese a su aparente sencillez, a Oboro no le sale fácil. Te anima a seguir puliendo tu técnica hasta que estés <if(gnum4,lista,listo)> para la siguiente lección.<br><br>※La siguiente misión de ninja estará disponible con Tsubame al llegar al nivel 35.
+TEXT_JOBNIN301_00213_TODO_00	Usa Fuma Shuriken en el mokujin.
+TEXT_JOBNIN301_00213_TODO_01	Infórmale a Oboro.
+TEXT_JOBNIN301_00213_TODO_02	Habla con Oboro para empezar el entrenamiento.
+TEXT_JOBNIN301_00213_TODO_03	Habla con Oboro.
+TEXT_JOBNIN301_00213_OBORO_000_000	Sí... Lo siento. Aunque no eres de nuestra sangre, el alma de mi pueblo es fuerte en ti. Ahora eres <if(gnum4,una,uno)> de los nuestros: <if(gnum4,una,un)> shinobi.
+TEXT_JOBNIN301_00213_OBORO_000_001	...Y sin embargo, tu entrenamiento acaba de empezar.
+TEXT_JOBNIN301_00213_OBORO_000_002	Escucha bien mis palabras, <split(<string(gstr1)>, ,1)>. Para el shinobi, la hoja y la mente son una. La mente débil da una hoja débil. La mente falsa da una hoja falsa. ¿Pero la mente fuerte y verdadera? Esa hoja no conocerá igual.
+TEXT_JOBNIN301_00213_OBORO_000_003	Así enseñaba mi maestro, y su maestro, y el maestro de su maestro antes que él. El shinobi debe mantener la mente serena en todo momento, o su hoja bien podría ser de pasto.
+TEXT_JOBNIN301_00213_OBORO_000_004	Esa es la lección de la mente. Ahora empezaremos la lección del cuerpo.
+TEXT_JOBNIN301_00213_OBORO_000_005	Recordarás que el arte del ninjutsu usa gestos de las manos llamados mudra para invocar las energías del cielo, la tierra y el hombre: <italic(1)>Ten<italic(0)>, <italic(1)>Chi<italic(0)> y <italic(1)>Jin<italic(0)> en la lengua de Doma.
+TEXT_JOBNIN301_00213_OBORO_000_006	Se pueden liberar infinidad de técnicas según los mudra que combines y el orden en que lo hagas... Pero quizás me estoy adelantando. Un niño debe aprender a caminar antes de correr.
+TEXT_JOBNIN301_00213_OBORO_000_007	Para empezar, quiero que domines tu primer mudra: Ten, el mudra del cielo. Invoca la energía del cielo y proyéctala, y de tu mano saldrá volando una estrella en llamas, el Fuma Shuriken.
+TEXT_JOBNIN301_00213_OBORO_000_008	Afuera del almacén encontrarás un <italic(1)>mokujin<italic(0)>: un hombre de madera como los que se usan tradicionalmente en Doma para entrenar. Haz lo que te dije y golpéalo con un Fuma Shuriken. Observaré tu técnica desde lejos.
+TEXT_JOBNIN301_00213_OBORO_000_015	Forma el mudra Ten para invocar la energía del cielo y luego canalízala desde tus manos en forma de Fuma Shuriken para golpear el mokujin. Observaré tu técnica desde lejos.
+TEXT_JOBNIN301_00213_TSUBAME_000_016	El arte del ninjutsu es fácil de aprender, pero no tan fácil de dominar. Tenga paciencia y escuche bien las palabras de Oboro.
+TEXT_JOBNIN301_00213_SYSTEM_000_000	Hay un maniquí de entrenamiento de factura oriental clavado en el suelo.
+TEXT_JOBNIN301_00213_OBORO_000_040	Sí, eso servirá, <split(<string(gstr1)>, ,1)>. Está claro que no nos equivocamos con tu potencial.
+TEXT_JOBNIN301_00213_OBORO_100_040	Quizás también sentiste que tu cuerpo se volvió más ligero. Es otro beneficio de tu entrenamiento. Puede que te descubras danzando por el aire con las espadas desenvainadas. Pero ten cuidado: el verdadero shinobi no desperdicia ningún movimiento.
+TEXT_JOBNIN301_00213_OBORO_000_041	Demostraste bien tus habilidades contra el hombre de madera, pero la madera no devuelve los golpes. Tu próximo rival no será tan dócil. Prepárate.
+TEXT_JOBNIN301_00213_TSUBAME_000_045	Detrás de esa cara seria, sé que Oboro <if(gnum4,la considera una alumna digna,lo considera un alumno digno)>. Pero no crea ni por un momento que se va a contener.
+TEXT_JOBNIN301_00213_TSUBAME_000_020	Su aptitud para nuestro arte es asombrosa, <split(<string(gstr1)>, ,1)>. El alma de nuestros ancestros eligió bien, sin duda.
+TEXT_JOBNIN301_00213_OBORO_000_069	...Ya veo. Lady Yugiri decía la verdad.
+TEXT_JOBNIN301_00213_OBORO_000_070	...Ya veo.
+TEXT_JOBNIN301_00213_TSUBAME_000_071	Lo que Oboro quiere decir es que nunca vio a nadie dominar los fundamentos del ninjutsu tan rápido. ¿No es así, Oboro?
+TEXT_JOBNIN301_00213_OBORO_000_072	Puedo hablar por mí mismo, Tsubame. Pero es cierto: <split(<string(gstr1)>, ,1)> superó incluso mis propias expectativas. Su hoja corta el aire como un pez se desliza por el agua.
+TEXT_JOBNIN301_00213_OBORO_000_073	Pero basta de entrenamiento por hoy. Ahora me toca a mí ser el alumno, y a ti <if(gnum4,la maestra,el maestro)>. Quiero aprender las costumbres de Eorzea. Me enseñarás, ¿verdad?
+TEXT_JOBNIN301_00213_OBORO_000_074	Tienes mi gratitud, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBNIN301_00213_OBORO_000_075	Primero, quisiera conocer mejor el terreno de La Nosc... ¿Hm? ¿Te parece gracioso algo?
+TEXT_JOBNIN301_00213_OBORO_000_076	¿¡Mi <italic(1)>reverencia<italic(0)>!? Ya veo. ¿Quién habría pensado que un simple gesto de cortesía sería tan complicado? ¿Así, entonces? \<tos> Ugh...
+TEXT_JOBNIN301_00213_TSUBAME_000_077	Perdónelo. Oboro no es el mismo desde que llegó a estas costas. Parece que ni la comida ni el clima le sientan bien.
+TEXT_JOBNIN301_00213_OBORO_000_078	¡Y no olvidemos la peste de esos malditos pájaros-caballo! Razón de más para cumplir nuestra misión pronto y volver a tierras más hospitalarias. En fin, <split(<string(gstr1)>, ,1)>, con esto basta por hoy. Practica bien tu ninjutsu y vuelve cuando estés <if(gnum4,lista,listo)> para la siguiente lección.
+TEXT_JOBNIN301_00213_TSUBAME_000_079	Parece que usted también tiene que practicar algo.
+TEXT_JOBNIN301_00213_QIB_001_TODO001	¡Derrota a los onibi!
+TEXT_JOBNIN301_00213_QIB_001_TODO002	¡Derrota al ogama y a los onibi!
+TEXT_JOBNIN301_00213_QIB_001_TODO003	¡Derrota a Oboro!
+TEXT_JOBNIN301_00213_QIB_001_OBORO_BATTLETALK_01	Los onibi atacarán en oleadas. Usa tu Fuma Shuriken para acabar con ellos desde una distancia segura.
+TEXT_JOBNIN301_00213_QIB_001_TSUBAME_BATTLETALK_01	¡Excelente, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBNIN301_00213_QIB_001_OBORO_BATTLETALK_02	Para tu siguiente desafío invocaré una gran bestia. Recuerda: debes mantener la mente serena, ¡por temible que sea el enemigo!
+TEXT_JOBNIN301_00213_QIB_001_OBORO_BATTLETALK_03	En tu último desafío, yo seré tu rival. ¡Veamos cuánto aprendiste!

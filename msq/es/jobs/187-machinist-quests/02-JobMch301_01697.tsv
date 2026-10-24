@@ -1,0 +1,76 @@
+key	text
+TEXT_JOBMCH301_01697_SEQ_00	Rostnsthal quiere evaluar tu talento natural con un arma de fuego.
+TEXT_JOBMCH301_01697_SEQ_01	Rostnsthal aceptó poner a prueba tu potencial y te enseñó los fundamentos del uso de un arma de fuego. Reúnete con el maestro de puntería en la Floating City of Nym y sométete a su evaluación.
+TEXT_JOBMCH301_01697_SEQ_02	Sobreviviste a la agotadora evaluación de Rostnsthal y lograste vencer al instructor en persona. Obligado por su palabra, el maestro de puntería acepta a regañadientes volver al taller... no sin antes contarle a Stephanivien los motivos de su repentina renuncia. Vuelve a la Skysteel Manufactory y habla con el jefe de los machinists, frustrado por sus finanzas.
+TEXT_JOBMCH301_01697_SEQ_03	Aunque quisiera recompensarte con más generosidad, Stephanivien se ve frenado por las arcas maltrechas de la House Haillenarte. En cambio, el jefe de los machinists te transmite un mensaje de Rostnsthal: domina las habilidades que aprendiste si quieres seguir recibiendo instrucción.<br><br>※La siguiente misión de machinist estará disponible con Stephanivien al llegar al nivel 35.
+TEXT_JOBMCH301_01697_TODO_00	Habla con Rostnsthal.
+TEXT_JOBMCH301_01697_TODO_01	Habla con Stephanivien en la Skysteel Manufactory.
+TEXT_JOBMCH301_01697_ROSTNSTHAL_000_000	...Para ser primeriz<if(gnum4,a,o)>, te ves muy cómod<if(gnum4,a,o)> con esa carabina. Lástima que esa comodidad solo te va a durar hasta que <italic(1)>dispares<italic(0)> el maldito trasto. Bueno, aquí van unos consejos antes de empezar, para que no te metas una bala en el pie.
+TEXT_JOBMCH301_01697_ROSTNSTHAL_000_001	Apunta el cañón a tu objetivo, aprieta el gatillo (no demasiado fuerte, ojo) y bum, dispara el arma. Son tus disparos los que deciden cuánto daño puedes hacer con cualquier arma.
+TEXT_JOBMCH301_01697_ROSTNSTHAL_000_003	Ahora hablemos de ese artefacto que llevas en la cintura. No lo entiendo bien, pero el jefe dice que toma el aether de tu cuerpo y lo convierte en la chispa que alimenta unos aparatos nuevos en los que está trabajando.
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_004	Ah, y te ruego que no olvides llevar tu Soul of the Machinist. Basé el diseño en los soul crystals más tradicionales, y servirá de punto focal para las conversiones de energía que hace el aetherotransformador. ...Ah, ese sería el "artefacto" que mencionó Rostnsthal.
+TEXT_JOBMCH301_01697_SYSTEM_900_000	Aprendiste todas las acciones y rasgos de machinist hasta el nivel 30. Puedes ver las descripciones detalladas en la ventana <colortype(500)><edgecolortype(501)>Actions & Traits<edgecolortype(0)><colortype(0)>, en <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)> del menú principal.
+TEXT_JOBMCH301_01697_ROSTNSTHAL_000_005	Bueno, eso es todo lo que te toca por ahora. Sígueme y veremos qué tal te va en el campo... o puedes tirar tu carabina entre los arbustos y huir como un perro apaleado. Esas son tus opciones.
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_009	¡Tienes que convencer a Rostnsthal de que vuelva con nosotros!
+TEXT_JOBMCH301_01697_JOYE_000_009	El señorito tiene tantas esperanzas puestas en el futuro del taller. No quisiera verlo decepcionado...
+TEXT_JOBMCH301_01697_ROSTNSTHAL_000_010	¡Ja! Así que estás dispuest<if(gnum4,a,o)> a hacer mi prueba, ¿eh? Las reglas son simples: ve hacia la Hermit's Hovel y dispárale a lo que te digan.
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_011	(-Stephanivien-)Te esperaré al final de tu prueba, <split(<string(gstr1)>, ,1)>. ¡Tengo plena confianza en que impresionarás a nuestro instructor con tu entusiasmo y tu potencial!
+TEXT_JOBMCH301_01697_QIB_001_TODO001	¡Derrota a los basalt golems!
+TEXT_JOBMCH301_01697_QIB_001_TODO002	¡Derrota a los training incendiaries!
+TEXT_JOBMCH301_01697_QIB_001_TODO003	¡Derrota a los docile miacids y a los docile tigers!
+TEXT_JOBMCH301_01697_QIB_001_TODO004	Docile miacids derrotados
+TEXT_JOBMCH301_01697_QIB_001_TODO005	Docile tigers derrotados
+TEXT_JOBMCH301_01697_QIB_001_TODO006	¡Dirígete a la Hermit's Hovel!
+TEXT_JOBMCH301_01697_QIB_001_TODO007	¡Derrota a Rostnsthal!
+TEXT_JOBMCH301_01697_QIB_001_TODO008	Basalt golems derrotados
+TEXT_JOBMCH301_01697_QIB_001_TODO009	Training incendiaries derrotados
+TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_DEAD	Se me acabaron las balas...
+TEXT_JOBMCH301_01697_QIB_001_ROSTNSTHAL_BATTLETALK_00	Bueno, vamos a tener una buena cacería a la antigua.
+TEXT_JOBMCH301_01697_QIB_001_ROSTNSTHAL_BATTLETALK_01	Joye te va a dar las instrucciones mientras yo vigilo tu puntería.
+TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_03	Los golems van a ser tu primer objetivo.<br>Concéntrate en agarrarle el ritmo a la distancia.
+TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_04	¡Trata de evitar a esos coeurls!<br>No vale la pena gastar munición en ellos.
+TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_05	Lo siguiente: vamos a cazar bombs.
+TEXT_JOBMCH301_01697_QIB_001_ROSTNSTHAL_BATTLETALK_08	Nada mal, <if(gnum4,muchacha,muchacho)>, nada mal.<br>Pero ahora te voy a poner contra unas bestias de verdad, ¿eh?
+TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_09	Rostnsthal...<br>¿No hizo ya bastante para <if(gnum4,una principiante,un principiante)>?
+TEXT_JOBMCH301_01697_QIB_001_ROSTNSTHAL_BATTLETALK_10	¡Ni de lejos! ¡Quiero ver las pieles de un par de miacids y de un par de tigres!
+TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_11	Tú... tú <italic(1)>quieres<italic(0)> que fracase.<br>¡No voy a dejar que le hagas trampa al señorito!
+TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_12	¡Si tú vas a torcer las reglas, yo también!
+TEXT_JOBMCH301_01697_QIB_001_ROSTNSTHAL_BATTLETALK_13	Haz lo que tengas que hacer, muchacha. Voy a estar esperando esas pieles en la cabaña.
+TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_12_2	¡Tramposo de porquería!<br>¡Vamos, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_13	Ah... ¿Ya terminamos?<br>Supongo que ya terminamos...
+TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_14	¡Bien! ¡A la Hermit's Hovel!
+TEXT_JOBMCH301_01697_ROSTNSTHAL_100_010	¿Trajiste esas pieles, entonces?
+TEXT_JOBMCH301_01697_ROSTNSTHAL_100_011	Hmph. Aun con la ayuda de la joven Joye, lo hiciste bien, <if(gnum4,muchachita,muchacho)>.
+TEXT_JOBMCH301_01697_STEPHANIVIEN_100_012	¡Hurra! ¿Entonces volverás al taller con nosotros?
+TEXT_JOBMCH301_01697_ROSTNSTHAL_100_013	Dije que lo hizo bien, ¡no que hubiéramos terminado! Todavía le queda un último objetivo por derribar: ¡yo!
+TEXT_JOBMCH301_01697_JOYE_100_013	¡<split(<string(gstr1)>, ,1)> tiene talento, pero ni siquiera <if(gnum4,ella,él)> puede ganarle a Rostnsthal!
+TEXT_JOBMCH301_01697_STEPHANIVIEN_100_014	Este hombre de veras se está poniendo pesado. ¿<split(<string(gstr1)>, ,1)>? ¿Serías tan amable de darle una buena paliza al instructor?
+TEXT_JOBMCH301_01697_QIB_001_STEPHANIVIEN_BATTLETALK_15	¡No apresures tus disparos!<br>Respira. Piensa. ¡Fuego!
+TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_16	¡Buen trabajo, <split(<string(gstr1)>, ,1)>!<br>¡Puedes ganar esto!
+TEXT_JOBMCH301_01697_QIB_001_STEPHANIVIEN_BATTLETALK_17	¡Sigue así, <split(<string(gstr1)>, ,1)>!<br>¡Ya no da más!
+TEXT_JOBMCH301_01697_QIB_001_STEPHANIVIEN_BATTLETALK_18	¡Qué actuación tan emocionante!<br>¡Salvaste el taller!
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_020	Bueno, ahí lo tienes, instructor: <split(<string(gstr1)>, ,1)> demostró su potencial sin sombra de duda. Eres un hombre de palabra, ¿no es así?
+TEXT_JOBMCH301_01697_ROSTNSTHAL_000_021	Sí, volveré a tu maldito taller. ...Pero ¿sabes por qué me fui en primer lugar?
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_022	...¿Para respirar otra vez el aire salado de tu amada tierra natal?
+TEXT_JOBMCH301_01697_ROSTNSTHAL_000_023	¡Ja! No le tengo ningún cariño a La Noscea. De hecho, sería feliz si no volviera a ver este lugar nunca más.
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_024	¿¡Entonces por qué nos causas tantas molestias huyendo a un lugar que tan claramente desprecias!?
+TEXT_JOBMCH301_01697_ROSTNSTHAL_000_025	Por un saco de dinero del tamaño de mi maldita cabeza. No sé para quién trabajaba, pero un tipo vino a ofrecerme buena plata para que levara anclas. Y eso hice.
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_026	¿Alguien te <italic(1)>pagó<italic(0)> para que abandonaras el taller? ¿Quién haría algo así...?
+TEXT_JOBMCH301_01697_ROSTNSTHAL_000_027	Como dije, nunca había visto a ese desgraciado. Pero si me aparezco por el taller, supongo que su jefe va a querer que le devuelva el dinero. Lástima que ya me lo gasté todo en grog...
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_028	Ah, no, no, no, no te me vas a escabullir tan fácil. Yo pagaré esa deuda, y a cambio instruirás a cada aspirante a machinist que cruce nuestra puerta.
+TEXT_JOBMCH301_01697_ROSTNSTHAL_000_029	Bueno, al menos tienes a un infeliz que vale la pena enseñar. Supongo que me toca volver a los brazos helados de la Señora Ishgard...
+TEXT_JOBMCH301_01697_JOYE_000_030	¿F-fue prudente, señorito? Las arcas de los Haillenarte no están precisamente rebosantes...
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_031	¡Ah! Sí, tienes toda la razón: <italic(1)>sí<italic(0)> estamos algo cortos de dinero. ¡Pero estoy seguro de que una revisión minuciosa de los libros de cuentas hará aparecer uno o dos gil de sobra!
+TEXT_JOBMCH301_01697_JOYE_000_032	La gente buena no tiene precio, ¿eh, señorito?
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_033	Así es, querida. Rostnsthal puede ser un poco arisco a veces, pero nadie puede discutirle su ojo para la puntería.
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_034	Dejando eso de lado, presiento que el asunto que tenía por estos lados no terminó como él quería. Ojalá me confiara sus problemas... Supongo que tendré que conformarme con que haya vuelto.
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_035	¡Pero tú, <split(<string(gstr1)>, ,1)>! ¡Superaste todas mis expectativas! Te ruego que me acompañes de vuelta al taller para agradecerte como mereces por lo que lograste.
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_040	¡Ah, <if(gnum4,la salvadora,el salvador)> de la Skysteel Manufactory! Esperaba darte una recompensa adecuada, pero un vistazo a los libros de cuentas me aconseja una prudencia fastidiosa.
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_041	Así que, en lugar de regalarte un arma de fuego de los mejores materiales y el diseño más reciente, debo pedirte con humildad que te conformes con el modelo anticuado que te di en Camp Overlook.
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_042	Ah, y también debo darte un mensaje de Rostnsthal. Te pide que tomes las habilidades que te enseñó hasta ahora y que "las domines en la fragua de la batalla". Bueno, algo por el estilo.
+TEXT_JOBMCH301_01697_STEPHANIVIEN_000_043	Supongo que piensa seguir instruyéndote cuando demuestres un nivel de competencia suficiente. Y ese día no puede estar muy lejos para alguien con tu talento, ¿eh, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBMCH301_01697_SYSTEM_000_044	La siguiente misión de machinist estará disponible con Stephanivien al llegar al nivel 35.
+TEXT_JOBMCH301_01697_SYSTEM_000_045	Puedes revisar en el journal los requisitos para empezar las siguientes misiones.
+TEXT_JOBMCH301_01697_QIB_001_ROSTNSTHAL_BATTLETALK_15	（★Sin uso／se eliminará★）
+TEXT_JOBMCH301_01697_QIB_001_ROSTNSTHAL_BATTLETALK_16	（★Sin uso／se eliminará★）
+TEXT_JOBMCH301_01697_QIB_001_ROSTNSTHAL_BATTLETALK_17	（★Sin uso／se eliminará★）

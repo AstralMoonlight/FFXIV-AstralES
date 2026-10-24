@@ -1,0 +1,51 @@
+key	text
+TEXT_JOBAST680_02412_SEQ_00	Kyokuho te dedica su mejor mirada de "¿Dónde estabas, <if(gnum4,jovencita,jovencito)>? Llevo días esperándote".
+TEXT_JOBAST680_02412_SEQ_01	Sin otra pista, Kyokuho sugiere viajar al lugar donde entrenó su bisabuelo: Yanxia. Como tú tampoco tienes una idea mejor, aceptas reunirte con él en Namai para empezar a buscar... algo. Lo que sea.
+TEXT_JOBAST680_02412_SEQ_02	Según los ancianos de Namai, los geomantes usaban un templo llamado el Swallow's Compass para afinar la mente y el cuerpo. El templo ahora está abandonado, pero Kyokuho cree que quizá encuentren algo dentro. Viaja al sur, al One River, y reúnete con él cerca del edificio.
+TEXT_JOBAST680_02412_SEQ_03	Tu intrusión activa una trampa y despierta a un guardián al que los geomantes ordenaron proteger las puertas del templo. La batalla es feroz y sangrienta, pero sales victorios<if(gnum4,a,o)>. Habla con Kyokuho para decidir el siguiente paso.
+TEXT_JOBAST680_02412_SEQ_04	Tras confirmar que no hay más trampas, Kyokuho entra solo al Swallow's Compass a buscar cualquier cosa que le dé pistas sobre la barrera de su bisabuelo. Encuentra varios rollos que parecen servir justo para eso, pero por su estado no puede estar seguro. Convencido de que Murakumo puede descifrarlos, parte hacia el Shiokaze Hostelry.
+TEXT_JOBAST680_02412_SEQ_05	El Maestro Murakumo sí logra descifrar los rollos, pero lo que encuentra deja a Kyokuho, por primera vez que se recuerde, sin palabras. La única forma verdadera de tender los lazos de una barrera irrompible es con la sangre de un sacrificio. Sigue a Kyokuho a Kogane Dori y pregúntale qué necesita de ti ahora.
+TEXT_JOBAST680_02412_SEQ_06	Kyokuho se niega siquiera a considerar ofrecer un sacrificio y vuelve a un lugar conocido: el punto de partida. Como necesita más tiempo para pensar, sugiere que sigas con tu propio entrenamiento hasta que tenga una revelación.<br><br>※La siguiente misión de astrologian estará disponible con Kyokuho cuando alcances el nivel 70.
+TEXT_JOBAST680_02412_TODO_00	Acompaña a Kyokuho a Yanxia.
+TEXT_JOBAST680_02412_TODO_01	Sigue a Kyokuho al Swallow's Compass.
+TEXT_JOBAST680_02412_TODO_02	Habla con Kyokuho.
+TEXT_JOBAST680_02412_TODO_03	Habla con Kyokuho en Kugane.
+TEXT_JOBAST680_02412_TODO_04	Habla con Kyokuho.
+TEXT_JOBAST680_02412_MURAKUMO_000_000	Saludos, <split(<string(gstr1)>, ,1)>. Espero que su entrenamiento haya ido mejor que nuestra búsqueda de información...
+TEXT_JOBAST680_02412_KYOKUHO_000_000	Tengo una buena noticia y una mala, <split(<string(gstr1)>, ,1)>. La mala es que la trigésima séptima lectura de los tomos de mi bisabuelo no reveló nada sobre los lazos que no hubieran revelado las treinta y seis anteriores.
+TEXT_JOBAST680_02412_KYOKUHO_000_001	La buena, si se le puede llamar así, es que <italic(1)>sí<italic(0)> descubrimos dónde entrenó el Gran Maestro Kazan cuando era joven.
+TEXT_JOBAST680_02412_KYOKUHO_000_002	¿Cómo nos ayuda eso? Buena pregunta. Yo mismo todavía no estoy del todo seguro, pero es más de lo que teníamos la última vez que estuviste aquí, y una onza de esperanza es mejor que nada, así que... ¿qué dices, <if(gnum4,amiga,amigo)>? ¿Te animas a un viaje por el Ruby Sea?
+TEXT_JOBAST680_02412_KYOKUHO_000_003	¡Ja, ja! Sabía que no me dirías que no. Aun así, el camino no será fácil. Yanxia es grande y las cicatrices de la guerra son profundas a lo largo de la Gensui Chain. Puede que lo que nos habría servido ya se lo hayan llevado las llamas. Tendremos que confiar en nuestra suerte y esperar que nos guíe bien.
+TEXT_JOBAST680_02412_KYOKUHO_000_004	Decidí que empezaremos a buscar en Namai porque, bueno... no hay ningún motivo, pero por algo hay que empezar, ¿no? Nos vemos allá. Buen viaje, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBAST680_02412_MURAKUMO_000_009	El Maestro Kazan rara vez hablaba de su juventud, pero recuerdo varias ocasiones durante mi propio entrenamiento en que recibía a visitantes del continente. No me atrevía a preguntar quiénes eran, porque solo podíamos hablar cuando se nos dirigía la palabra, pero ahora que lo pienso, quizá esos hombres fueran geomantes de Yanxia.
+TEXT_JOBAST680_02412_KYOKUHO_000_010	El aire está cargado de niebla, y estas chozas seguro dejan entrar más lluvia de la que detienen. Algo como un tomo no duraría ni un mes aquí... menos aún las décadas que pasaron desde el entrenamiento de mi bisabuelo. Aun así, unas palabras con los ancianos de la aldea me dieron un dato interesante.
+TEXT_JOBAST680_02412_KYOKUHO_000_011	Aunque costó convencerlos, varios lograron recordar a unos videntes con túnicas que vivían en un templo cercano, un templo que se usó hasta la invasión garleana y la posterior prohibición de toda religión.
+TEXT_JOBAST680_02412_KYOKUHO_000_012	El edificio, llamado el Swallow's Compass, está abandonado desde entonces, pero sigue en buen estado. Y escucha esto: los lugareños lo evitan por miedo a molestar a los espíritus con los que, según creían, se comunicaban los geomantes. ¿Sabes lo que significa? ¡Puede que todavía quede algo adentro! ¡Vamos!
+TEXT_JOBAST680_02412_KYOKUHO_000_020	El Swallow's Compass. Construido durante el reinado del primer rey de Doma. Me tomé la libertad de explorar el terreno antes de que llegaras y descubrí esta puerta. Ya sé, ya sé. No es nada comparada con ese portón impresionante que tenemos detrás, así que cualquier ladrón o bandido normal la pasaría por alto. Pero entonces, ¿por qué levantar un campo geomántico para protegerla?
+TEXT_JOBAST680_02412_KYOKUHO_000_021	Siento aquí el flujo de energías poderosas. Lo que sea que haya detrás de esta puerta, los geomantes querían mantenerlo a salvo.
+TEXT_JOBAST680_02412_KYOKUHO_000_022	De hecho... puede que hasta haya trampas. Por eso solo <italic(1)>yo<italic(0)> debería intentar cruzar el umbral.
+TEXT_JOBAST680_02412_KYOKUHO_000_023	Digo, ¿quién sabe qué guardianes terribles invocaron para proteger el templo?
+TEXT_JOBAST680_02412_Q1_000_024	¿Estás <if(gnum4,lista,listo)>?
+TEXT_JOBAST680_02412_KYOKUHO_000_030	¡Bueno, supongo que ahora sabemos qué guardianes terribles invocaron para proteger el templo! También te alegrará saber que logré anular por un rato la barrera y abrir el paso a la cámara de más allá. Como puede haber más trampas, te pido que esperes aquí afuera para encargarte de ellas por mí. ¡Es broma! Ya revisé. No hay más trampas. Probablemente.
+TEXT_JOBAST680_02412_KYOKUHO_000_031	¡La suerte está de nuestro lado, <split(<string(gstr1)>, ,1)>! Los rollos estaban intactos: la barrera los protegió de los elementos y de los ladrones. Costó buscar, pero creo que encontré varios que hablan de cómo tender los lazos geománticos.
+TEXT_JOBAST680_02412_KYOKUHO_000_032	Al menos eso creo... La escritura de estos rollos es antigua y está desteñida, por no hablar de que la letra está muy por encima de lo que puedo entender. Por suerte, el Maestro Murakumo es casi tan antiguo como los tomos y no debería costarle mucho sacarles sus secretos.
+TEXT_JOBAST680_02412_KYOKUHO_000_033	Con una jarra o seis de sake caliente se pondrá manos a la obra. Jajaja. Nos vemos en el Shiokaze Hostelry, <split(<string(gstr1)>, ,1)>. ¡Hasta te guardo una copa!
+TEXT_JOBAST680_02412_MURAKUMO_000_039	Bienvenid<if(gnum4,a,o)> de vuelta. Los rollos que Kyokuho y usted trajeron de Yanxia no fueron difíciles de descifrar. No, lo difícil fue decidir cómo usar esta nueva información.
+TEXT_JOBAST680_02412_KYOKUHO_000_040	...
+TEXT_JOBAST680_02412_MURAKUMO_000_041	Kyokuho. Llegó <if(gnum4,la occidental,el occidental)>. ¿Puedo sugerirte que tú también vuelvas con nosotros?
+TEXT_JOBAST680_02412_KYOKUHO_000_042	Yo... oh. Disculpa, <split(<string(gstr1)>, ,1)>. Quizá quieras sentarte para esto... O no. Da igual... En realidad <italic(1)>nada<italic(0)> importa, ¿verdad?
+TEXT_JOBAST680_02412_KYOKUHO_000_043	Los rollos tenían el saber del ritual completo. De hecho, estaba en el primerísimo. Ja... Qué suerte la nuestra, ¿no?
+TEXT_JOBAST680_02412_KYOKUHO_000_044	Viento, agua, tierra. Crear los lazos requiere las energías de los tres. Aunque eso te lo podría decir hasta un novicio de geomancia de primer año. No, lo que nos dejó helados fue la mención de una cuarta energía, una energía que vuelve permanente el sello...
+TEXT_JOBAST680_02412_MURAKUMO_000_045	Kyokuho...
+TEXT_JOBAST680_02412_KYOKUHO_000_046	¡La vida!
+TEXT_JOBAST680_02412_KYOKUHO_000_047	¿No lo ves, <split(<string(gstr1)>, ,1)>? ¡Derramaban sangre viva para completar el ritual! ¡Condenaban un alma a una eternidad sin paz para que su magia no se desvaneciera!
+TEXT_JOBAST680_02412_MURAKUMO_000_048	Ahora entiendo por qué el Gran Maestro Kazan no dejó notas sobre los ritos. No quería que este saber cayera en malas manos.
+TEXT_JOBAST680_02412_KYOKUHO_000_049	Y como él nunca hizo los ritos, los lazos que anclan la barrera alrededor de Kugane nunca se completaron. Por eso necesitan atención constante. No se derramó sangre para hacerlos eternos.
+TEXT_JOBAST680_02412_KYOKUHO_000_050	¡Mi bisabuelo no sacrificaría ni una sola vida para lograr sus fines, y yo tampoco!
+TEXT_JOBAST680_02412_MURAKUMO_000_051	Basta, Kyokuho. Ya habrá tiempo para pensar en esto mañana. Vuelve a Kogane Dori y a ver si encuentras algo de consuelo en el sueño.
+TEXT_JOBAST680_02412_MURAKUMO_000_059	No culpo a mi maestro por ocultarme este oscuro secreto. La carga habría sido demasiado para mí. Pero entonces... ¿por qué contárselo al abuelo de Kyokuho?
+TEXT_JOBAST680_02412_KYOKUHO_000_060	Fracasé... Igual que mi bisabuelo, y que mi abuelo después de él. Todos conocíamos la única forma de crear una barrera perfecta, y ninguno fue capaz de hacerlo.
+TEXT_JOBAST680_02412_KYOKUHO_000_061	Y miren: los lazos que reforzamos hace apenas unas noches... ya empezaron a aflojarse y deshilacharse.
+TEXT_JOBAST680_02412_KYOKUHO_000_062	Estuvieron débiles demasiado tiempo, y eso le permitió a Kinko recuperar fuerzas. Curar sus heridas. Alimentar su ira.
+TEXT_JOBAST680_02412_KYOKUHO_000_063	Y ahora no podemos hacer nada más que mirar cómo reúne a sus esbirros para un último asalto a la tierra que alguna vez gobernó. Kugane no tiene ninguna posibilidad...
+TEXT_JOBAST680_02412_KYOKUHO_000_064	Ahora sería un buen momento para tropezarnos con esa esperanza que, según la lectura de Lady Leveva, estaría al final de este camino de destrucción.

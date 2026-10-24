@@ -1,0 +1,25 @@
+key	text
+TEXT_JOBNIN400_00216_SEQ_00	Oboro cree que llegó la hora de poner a prueba tus talentos en el terreno.
+TEXT_JOBNIN400_00216_SEQ_01	Impresionado por tus avances, Oboro decidió que tu entrenamiento seguirá en el terreno... como participante de pleno derecho en su misión para asesinar a Karasu. Le llegó la noticia de que la unidad de espionaje imperial que comanda Karasu va tras el Capitán Grymuwil de los Bloody Executioners, así que Oboro piensa averiguar el paradero del traidor interrogando a un tal Wolfstan, el teniente de confianza del capitán. Ve a Camp Bronze Lake, en Upper La Noscea, donde Oboro te explicará en detalle el plan de ataque.
+TEXT_JOBNIN400_00216_SEQ_02	Oboro te enseña la técnica del Shukuchi, que según explica te dará un punto de observación ideal para la vigilancia. Cuando estés <if(gnum4,lista,listo)> para seguir con la misión, vuelve a hablar con él.
+TEXT_JOBNIN400_00216_TODO_00	Habla con Oboro en Camp Bronze Lake.
+TEXT_JOBNIN400_00216_OBORO_000_000	Entrenaste bien desde la última vez, <split(<string(gstr1)>, ,1)>. No oí ni un chirrido de la puerta al entrar, ni un crujido del piso al acercarte.
+TEXT_JOBNIN400_00216_OBORO_000_001	Esto está claro: ni las cascadas ni los hombres de madera te servirán para afinar más tus sentidos. No: un shinobi de tu nivel aprende en el terreno. Considera esto tu primera lección en el arte del asesinato.
+TEXT_JOBNIN400_00216_OBORO_000_002	No hace falta recordarte quién es nuestro objetivo. Es un pájaro siempre escurridizo, pero di con cierta información que creo que puede servirnos.
+TEXT_JOBNIN400_00216_OBORO_000_003	Se rumorea que el Capitán Grymuwil de los Bloody Executioners escapó por poco de varios atentados contra su vida estos días. Sin duda es obra de Karasu y sus hombres: nadie más es tan audaz ni tan hábil como para siquiera intentar un ataque así.
+TEXT_JOBNIN400_00216_OBORO_000_004	Solo la muerte hace que un shinobi abandone su misión. Karasu <italic(1)>volverá<italic(0)> a atacar; la única pregunta es <italic(1)>dónde<italic(0)> y <italic(1)>cuándo<italic(0)>.
+TEXT_JOBNIN400_00216_OBORO_000_005	Si respondemos esas preguntas, la próxima vez seremos nosotros quienes le hagamos una visita sorpresa. Por suerte, conozco a un hombre que podría darnos lo que buscamos.
+TEXT_JOBNIN400_00216_OBORO_000_006	El Capitán Grymuwil tiene un teniente de confianza llamado Wolfstan, un hombre que, si hay que creer los rumores, es muy aficionado a los baños termales. Recuerdo haber leído de un famoso balneario no lejos de aquí, pero no me acuerdo del nombre... ¿Tienes idea de dónde podría estar?
+TEXT_JOBNIN400_00216_Q1_000_000	¿Adónde iría un eorzeano a bañarse?
+TEXT_JOBNIN400_00216_A1_000_001	Camp Bronze Lake.
+TEXT_JOBNIN400_00216_A1_000_002	Costa del Sol.
+TEXT_JOBNIN400_00216_A1_000_003	Camp Overlook.
+TEXT_JOBNIN400_00216_OBORO_000_010	¡Vaya, sí, eso me suena! En Upper La Noscea, hacia el este, ¿no? Vamos para allá de inmediato.
+TEXT_JOBNIN400_00216_OBORO_000_011	Ese es un balneario junto al mar, ¿no? El lugar del que leí estaba en tierras altas y era famoso por sus baños curativos...
+TEXT_JOBNIN400_00216_OBORO_000_012	¡Sí! Era Camp... no. No puede ser. El número del <italic(1)>Harbor Herald<italic(0)> que leí hace poco hablaba de Camp Overlook como un bastión de defensa contra unas criaturas desagradables llamadas kobolds. Suena como el último lugar adonde alguien iría a descansar y relajarse.
+TEXT_JOBNIN400_00216_TSUBAME_000_020	Su presencia siempre nos da ánimo, <split(<string(gstr1)>, ,1)>. Antes nos costaba adaptarnos a esta tierra, pero su amistad y su entrega al camino del shinobi nos devolvieron la esperanza.
+TEXT_JOBNIN400_00216_OBORO_000_050	No sabía que a tantos eorzeanos también les gustaran los baños públicos. Diría que es una vista reconfortante, pero en realidad me da todavía más nostalgia de los placeres de mi tierra.
+TEXT_JOBNIN400_00216_OBORO_100_050	Dicho esto, ver a toda esta gente dando vueltas me preocupa. Aun con estos disfraces, es cuestión de tiempo que nuestras costumbres extranjeras levanten sospechas entre los más observadores.
+TEXT_JOBNIN400_00216_OBORO_000_051	Sí, mejor nos quedamos fuera de la vista hasta que llegue nuestro hombre. Vigilemos desde lo alto hasta que llegue la hora de actuar.
+TEXT_JOBNIN400_00216_OBORO_000_052	Llegó la hora de enseñarte otra técnica, que llamamos <italic(1)>Shukuchi<italic(0)>. Piensa en ella como comprimir el espacio físico que te rodea, lo que te permite cruzar grandes distancias en un abrir y cerrar de ojos. Adelante, <split(<string(gstr1)>, ,1)>, inténtalo.
+TEXT_JOBNIN400_00216_TSUBAME_000_080	¡Hace mucho que soñaba con visitar unas aguas termales de Eorzea! Quizás, cuando terminemos la misión, podamos volver a disfrutarlas...

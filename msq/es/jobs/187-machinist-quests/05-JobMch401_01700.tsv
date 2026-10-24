@@ -1,0 +1,104 @@
+key	text
+TEXT_JOBMCH401_01700_SEQ_00	Stephanivien está otra vez molesto por la ausencia de Rostnsthal.
+TEXT_JOBMCH401_01700_SEQ_01	Stephanivien te cuenta que todo está listo para la inminente batalla en Skyfire Locks. Todo, salvo la presencia del maestro de puntería del taller, que suele desaparecer. Sal a Foundation y busca a Rostnsthal.
+TEXT_JOBMCH401_01700_SEQ_02	Encuentras a Rostnsthal no muy lejos del taller, de pie junto a un rufián desconocido al que acaba de vencer. El instructor dice que pilló al hombre merodeando cerca, con ganas de causarle problemas al taller. Busca a otros alborotadores como él en Foundation y espántalos con tu técnica Slug Shot.<br><br>Si Slug Shot no está disponible, se puede usar Heated Slug Shot.
+TEXT_JOBMCH401_01700_SEQ_03	Recorriste las calles de Foundation y espantaste a varios otros individuos sospechosos. Pero sus palabras de despedida no pintaron un retrato muy favorable del maestro de puntería de los machinists. Vuelve a la Skysteel Manufactory y habla con Stephanivien.
+TEXT_JOBMCH401_01700_SEQ_04	Le cuentas tus encuentros a Stephanivien, y el jefe de los machinists deduce que los rumores espantosos y las intimidaciones son obra de algún rival sin escrúpulos del taller. Pero, para sorpresa de Stephanivien y Joye, Rostnsthal admite que buena parte de los chismes sobre su reputación probablemente son ciertos. Todavía aturdidos por las confesiones tan francas de Rostnsthal, los machinists deben terminar de prepararse para la batalla. Reúnete con Stephanivien en Skyfire Locks, en Coerthas Central Highlands.
+TEXT_JOBMCH401_01700_SEQ_05	Tú y tus compañeros machinists defendieron con éxito Skyfire Locks. Habla con Stephanivien sobre lo que dejó la batalla.
+TEXT_JOBMCH401_01700_SEQ_06	Tu victoria sobre los dragones parece haberte ganado por fin el respeto, a regañadientes, del conde Baurendouin de Haillenarte. Habla otra vez con Stephanivien.
+TEXT_JOBMCH401_01700_SEQ_07	Stephanivien quiere demostrar su oficio ante un público más amplio y acepta el burlón desafío de Lord Tedalgrinche de inscribir a sus machinists en el próximo torneo. Vuelve a la Skysteel Manufactory y habla con Stephanivien.
+TEXT_JOBMCH401_01700_SEQ_08	El jefe de los machinists te confió sus dudas sobre la participación de la House Haillenarte en la próxima competencia. Aunque tu triunfo sobre los dravanianos fue una experiencia valiosa, quizás no baste para preparar a los machinists para el combate en grupo contra caballeros curtidos. Concéntrate en tu entrenamiento y ayuda a convertir tu escasa posibilidad de victoria en una certeza.<br><br>※La siguiente misión de machinist estará disponible con Stephanivien al llegar al nivel 45.
+TEXT_JOBMCH401_01700_TODO_00	Busca a Rostnsthal.
+TEXT_JOBMCH401_01700_TODO_01	Usa Slug Shot para espantar a los alborotadores.
+TEXT_JOBMCH401_01700_TODO_02	Habla con Stephanivien.
+TEXT_JOBMCH401_01700_TODO_03	Habla con Stephanivien en Skyfire Locks.
+TEXT_JOBMCH401_01700_TODO_04	Habla con Stephanivien.
+TEXT_JOBMCH401_01700_TODO_05	Habla otra vez con Stephanivien.
+TEXT_JOBMCH401_01700_TODO_06	Habla con Stephanivien en la Skysteel Manufactory.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_000	Bueno, <split(<string(gstr1)>, ,1)>, estamos todo lo listos que se puede estar.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_0001	...Salvo nuestro instructor descarriado. ¿Serías tan amable de buscar a Rostnsthal y avisarle de la urgencia de la situación? Me imagino que anda holgazaneando en algún lugar de Foundation, rumbo al taller sin ninguna prisa.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_009	Este será el primer combate de los machinists y necesitamos cada dedo en el gatillo. Encárgate de tus tareas, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMCH401_01700_ROSTNSTHAL_000_020	Ah, <split(<string(gstr1)>, ,1)>. Mira a este infeliz que pillé merodeando cerca del taller. Pensé que no tramaba nada bueno, así que lo senté para una charla amistosa.
+TEXT_JOBMCH401_01700_ROSTNSTHAL_000_021	...¿Hm? ¿Un ataque de dragones? ¿Y el jefe necesita todas las manos en cubierta? Sí, enseguida voy... en cuanto termine de sacarle unas respuestas a este feo desgraciado.
+TEXT_JOBMCH401_01700_ROSTNSTHAL_000_022	Ya sabes que donde hay una rata, siempre hay una docena más. Mejor date una vuelta rápida y encárgate de los alborotadores antes de volver. No hace falta matar a nadie, ojo: el ruido de un Slug Shot debería bastar para espantarlos.
+TEXT_JOBMCH401_01700_SYSTEM_000_023	Para avanzar en esta misión se puede usar Heated Slug Shot en lugar de Slug Shot.
+TEXT_JOBMCH401_01700_ROSTNSTHAL_000_029	Apuesto a que hay más de una rata correteando por aquí. Si ves a algún desgraciado sigiloso haciendo de las suyas, un Slug Shot debería bastar para que salga corriendo.
+TEXT_JOBMCH401_01700_FUSHINA01700_000_030	¡Ah! ¡Por los siete infiernos! ¡Casi me vuelas un dedo del pie!
+TEXT_JOBMCH401_01700_FUSHINA01700_000_031	...Tú eres <if(gnum4,la nueva cachorra,el nuevo cachorro)> de Rostnsthal, ¿no? ¡Si buscas problemas, no busques más allá de ese perro lominsano traicionero!
+TEXT_JOBMCH401_01700_FUSHINA01700_000_035	Je, je, je... Con una sola llamarada debería bastar...
+TEXT_JOBMCH401_01700_FUSHINB01700_000_030	¡Qué grosería! Pero supongo que no debería esperar menos de <if(gnum4,una,uno)> de los subordinados de Rostnsthal: lo aprendiste del mismísimo bruto despiadado.
+TEXT_JOBMCH401_01700_FUSHINB01700_000_031	¡Escuchen mis palabras! ¡La Skysteel Manufactory da refugio a villanos! ¡Por la seguridad de los ciudadanos de Ishgard, hay que cerrar la manufactura!
+TEXT_JOBMCH401_01700_FUSHINB01700_000_032	Su instructor Roegadyn se hace pasar por el antiguo comodoro de los Knights of the Barracuda. Es mentira. En verdad es un pirata sanguinario que asesinó a toda su tripulación.
+TEXT_JOBMCH401_01700_FUSHINB01700_000_035	¡Por la seguridad de los ciudadanos de Ishgard, hay que cerrar la Skysteel Manufactory!
+TEXT_JOBMCH401_01700_FUSHINC01700_000_030	...No es la última vez que me ves.
+TEXT_JOBMCH401_01700_CELESTAUX_000_031	Gracias. Me llamo Celestaux, soy uno de tus compañeros machinists, por si no lo sabías. Estaba preparándome para nuestra pelea con Svara cuando ese matón me emboscó.
+TEXT_JOBMCH401_01700_CELESTAUX_000_032	No te molestes en perseguirlo: dudo que sepa más que lo que le pagaron por hacer. Pero dejó bien claro que alguien por ahí le guarda rencor a nuestro taller.
+TEXT_JOBMCH401_01700_CELESTAUX_000_033	...En fin, tengo que volver a mis tareas. Nunca peleamos en una batalla de verdad, mucho menos contra un monstruo como Svara, y vamos a necesitar todas las ventajas que podamos conseguir.
+TEXT_JOBMCH401_01700_FUSHINC01700_000_035	Tú no vas a ninguna parte.
+TEXT_JOBMCH401_01700_CELESTAUX_000_035	Maldita sea...
+TEXT_JOBMCH401_01700_CELESTAUX_000_036	Maldita sea...
+TEXT_JOBMCH401_01700_FUSHINC01700_000_036	Tú no vas a ninguna parte.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_040	¿Está todo bien? Rostnsthal me dice que hay villanos sueltos causándole problemas al taller.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_041	...¿Intimidaban a mis machinists? ¿Prendían fuegos y esparcían rumores? Joye también escuchó calumnias viles para difamar a nuestro maestro de puntería.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_042	（★Sin uso／se eliminará★）
+TEXT_JOBMCH401_01700_JOYE_000_042	(-Joye-)Usted tuvo todo el cuidado del mundo al elegir al empleado indicado, señorito. Podría irnos mucho peor que con el antiguo comodoro de los Barracudas de Limsa Lominsa.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_043	（★Sin uso／se eliminará★）
+TEXT_JOBMCH401_01700_JOYE_000_043	(-Joye-)Y ahora media Ishgard cree que miente, que es un condenado por crímenes terribles.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_044	¿Alguien busca dañar la reputación del taller con estos ataques contra el carácter de nuestro instructor? Lo siento, Rostnsthal: tu relación con los machinists no te trajo más que burlas e insultos...
+TEXT_JOBMCH401_01700_ROSTNSTHAL_000_045	(-Rostnsthal-)Bah, no te culpes, jefe. Después de todo, más de la mitad de eso probablemente es cierto.
+TEXT_JOBMCH401_01700_ROSTNSTHAL_000_046	(-Rostnsthal-)Sí, fui el comodoro de los Barracudas... hasta que me echaron a patadas por hacer un maldito desastre. Por eso me encontraste en Camp Overlook: fui a visitar a uno de mis antiguos subordinados.
+TEXT_JOBMCH401_01700_ROSTNSTHAL_000_047	(-Rostnsthal-)Claro que él preferiría recibir otro hachazo en la cara antes que hablar conmigo. Mis errores les costaron a algunos más que a otros, y no hay un solo desgraciado en La Noscea que me llame amigo.
+TEXT_JOBMCH401_01700_ROSTNSTHAL_000_049	(-Rostnsthal-)Tu rival misterioso debe de haberse enterado de mi pasado manchado, porque me ofrecieron una fortuna para que aceptara el puesto de maestro de puntería.
+TEXT_JOBMCH401_01700_ROSTNSTHAL_000_050	(-Rostnsthal-)Supongo que pensaron que el taller se arruinaría cuando la verdad detrás de mi encantadora reputación se supiera.
+TEXT_JOBMCH401_01700_ROSTNSTHAL_000_051	(-Rostnsthal-)Pero resulta que no me gusta ser el títere de un desgraciado sin cara. Así que tomé su dinero, y el tuyo, y me fui a las colinas. No tenía ninguna intención de cumplir mi contrato... hasta que tu aventurer<if(gnum4,a,o)> aquí presente me hizo entusiasmarme de verdad con enseñar.
+TEXT_JOBMCH401_01700_ROSTNSTHAL_000_052	(-Rostnsthal-)Dicho eso, no hay nada en mi acuerdo que diga que tengo que pelear con malditos dragones. Y mis alumnos lo harán mejor sin mí gruñéndoles por encima del hombro, de todos modos.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_053	Aunque echaremos de menos su apoyo, quizás Rostnsthal tenga razón: nuestra demostración será todavía más impresionante sin él. Revisemos nuestras armas una última vez y reunámonos en Skyfire Locks.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_060	Permíteme explicarte nuestra estrategia defensiva antes de que lleguen el dragón y sus secuaces.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_061	Encima de cada una de las tres esclusas pusimos un cañón matadragones. Nuestra tarea como machinists será defender los cañones de los parientes menores de Svara.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_062	Encontrarás una esclusa al noreste...
+TEXT_JOBMCH401_01700_STEPHANIVIEN_100_062	Una esclusa al noroeste...
+TEXT_JOBMCH401_01700_STEPHANIVIEN_101_062	...Y una esclusa al sur. Yo seguiré dónde se concentra el enemigo y te indicaré el cañón que más necesite protección.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_063	Escucha, llegan los dragones... ¡Todos a sus puestos!
+TEXT_JOBMCH401_01700_QIB_001_TODO001	¡Derrota a las fuerzas dravanianas!
+TEXT_JOBMCH401_01700_QIB_001_BALLISTA_A	Big Bertha Este
+TEXT_JOBMCH401_01700_QIB_001_BALLISTA_B	Big Bertha Oeste
+TEXT_JOBMCH401_01700_QIB_001_BALLISTA_C	Big Bertha Sur
+TEXT_JOBMCH401_01700_QIB_001_JOYE_BATTLETALK_DEAD	Le fallé, señorito...
+TEXT_JOBMCH401_01700_QIB_001_STEPHANIVIEN_BATTLETALK_DEAD	Maldición...<br>Esperaba dar una mejor demostración...
+TEXT_JOBMCH401_01700_QIB_001_STEPHANIVIEN_BATTLETALK_00	¡<split(<string(gstr1)>, ,1)>, al cañón del sur!<br>¡Joye, al noroeste!
+TEXT_JOBMCH401_01700_QIB_001_JOYE_BATTLETALK_03	¡Cargada y lista!<br>¡Allá voy, desgraciados escamosos!
+TEXT_JOBMCH401_01700_QIB_001_STEPHANIVIEN_BATTLETALK_01	¡El enemigo se amontona sobre el cañón del noreste!<br>¡Joye! ¡<split(<string(gstr1)>, ,1)>! ¡Rápido!
+TEXT_JOBMCH401_01700_QIB_001_STEPHANIVIEN_BATTLETALK_02	¡Tengo que curar las heridas de los caídos!<br>¡Defiendan los cañones como haga falta!
+TEXT_JOBMCH401_01700_QIB_001_STEPHANIVIEN_BATTLETALK_04	¡Llegó Svara!
+TEXT_JOBMCH401_01700_QIB_001_STEPHANIVIEN_BATTLETALK_05	¡Apunten los cañones hacia la bestia! ¡Concentren todo el fuego en Svara!
+TEXT_JOBMCH401_01700_QIB_001_STEPHANIVIEN_BATTLETALK_06	¡Ganamos, padre! ¡Mis machinists se llevaron la victoria!
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_080	¿Y bien, padre? ¿Ve ahora cómo podríamos vencer a los dragones sin arriesgar la vida de nuestros soldados?
+TEXT_JOBMCH401_01700_BAURENDOUIN_000_081	...Fue una demostración de lo más impresionante. Debo admitir que tus plebeyos cumplieron de forma admirable...
+TEXT_JOBMCH401_01700_TEDALGRINCHE_000_082	(-Noble presuntuoso-)Ya me <italic(1)>parecía<italic(0)> haber oído el terrible estruendo de cañones disparando. ¿Y qué encuentro cuando me apresuro a salir? A los nobles Haillenarte retozando en la nieve con sus lacayos plebeyos...
+TEXT_JOBMCH401_01700_TEDALGRINCHE_000_083	(-Noble presuntuoso-)Después de brindarles esta oportunidad de mejorar la maltrecha reputación de su noble casa, ¿la consideración de la House Dzemael no merece una respuesta formal?
+TEXT_JOBMCH401_01700_BAURENDOUIN_000_084	Lord Tedalgrinche, mis disculpas: el enemigo cayó sobre nosotros antes de que pudiéramos poner pluma sobre pergamino.
+TEXT_JOBMCH401_01700_TEDALGRINCHE_000_085	Ah, sí, me imagino que estaba muy ocupado reuniendo a duras penas una compañía de soldados que sirviera. Si tan solo su querido hijo fuera tan ardiente con su formación de caballero como lo es con sus ociosos cachivaches.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_086	No hay nada "ocioso" en mi trabajo. No diría tales insultos si hubiera visto a mis machinists en acción.
+TEXT_JOBMCH401_01700_TEDALGRINCHE_000_087	¡Ay, qué carácter! Parece que tu trato con plebeyos te gastó los modales además de las habilidades marciales.
+TEXT_JOBMCH401_01700_TEDALGRINCHE_000_088	Si tanta confianza le tienes a esos "machinists" tuyos, ¿por qué no los inscribes en el próximo torneo?
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_089	Quizás lo haga. Le doy mi palabra de que pondremos de cabeza el combate tradicional de Ishgard.
+TEXT_JOBMCH401_01700_TEDALGRINCHE_000_090	¡Ajajajá! ¡Los jueces de la Holy See quedarán de lo <italic(1)>más<italic(0)> impresionados cuando los probados aceros de los campeones nobles hagan pedazos a tu chusma plebeya!
+TEXT_JOBMCH401_01700_BAURENDOUIN_000_091	Hijo mío, ¿qué hiciste...? El torneo es un escenario en el que se exhiben el poder y el temple de las cuatro grandes casas. Solo se elige a los mejores caballeros para participar.
+TEXT_JOBMCH401_01700_BAURENDOUIN_000_092	Aun con la ayuda de tus machinists, nuestras filas maltrechas tienen pocas posibilidades de ganar. ¿Ahora tenemos que pasear nuestra vergüenza ante lo más alto de la Holy See?
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_093	No descarte tan rápido nuestras posibilidades, padre. Le doy mi palabra de que la House Haillenarte saldrá de la competencia con el orgullo intacto.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_094	Y además, si ganamos, quiero <italic(1)>su<italic(0)> palabra de que me dejará la dirección de la manufactura.
+TEXT_JOBMCH401_01700_BAURENDOUIN_000_095	Muy bien, hijo testarudo. ...Y ganes o no, asegúrate de darle una buena paliza a la House Dzemael.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_096	Así lo haré, padre. ¡No lo decepcionaremos!
+TEXT_JOBMCH401_01700_JOYE_000_099	Nunca pensé que vería el día en que el mismísimo conde nos diera su bendición...
+TEXT_JOBMCH401_01700_ROSTNSTHAL_000_099	Quizás no me viste, pero yo estaba mirando de todos modos. ¡Esos dragones no supieron ni qué les pegó!
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_100	¡<split(<string(gstr1)>, ,1)>! Gracias a tu innegable pericia, mi padre por fin reconoció el valor de la maquinística. ¡Pero no podemos quedarnos con un solo caballero cabeza dura! Este torneo será nuestra oportunidad de mostrarles a todos el potencial de nuestro oficio.
+TEXT_JOBMCH401_01700_JOYE_000_101	Señorito, si me permite... Parece que a Lord Tedalgrinche no le caen bien los plebeyos como yo.
+TEXT_JOBMCH401_01700_JOYE_000_103	Si mi presencia le va a causar más problemas, quizás debería dejar el taller...
+TEXT_JOBMCH401_01700_ROSTNSTHAL_000_104	No le hagas caso a ese petimetre presumido, muchacha. Es pura palabrería.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_105	Así es, Tedalgrinche siempre buscó pincharme de esa manera. No es a ti a quien desprecia, querida: es la mezcla de nobles y plebeyos.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_106	La House Dzemael es una familia poderosa, y su talento para construir fortificaciones le dio enorme riqueza e influencia. Firmes aliados de la House Durendaire, los Dzemael también tomaron parte en varias victorias importantes.<br>Por eso están en la cima de la sociedad ishgardiana, mirando por encima del hombro a cualquiera que no comparta su linaje "noble".
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_107	Si de verdad quieres complacerme, brilla todo lo que puedas en el torneo y bórrale esa sonrisa arrogante de la cara. ¿Nos vamos?
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_110	Debo confesarte mis dudas, <split(<string(gstr1)>, ,1)>. Cuando le pregunté por nuestras posibilidades de ganar, mi prospectómetro dio un resultado desfavorable.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_111	Vencimos a los dragones, es cierto... pero esa batalla no nos preparó para enfrentarnos a grupos coordinados de caballeros curtidos. Mis machinists simplemente no están listos.
+TEXT_JOBMCH401_01700_STEPHANIVIEN_000_112	Por suerte, todavía faltan algunos días para el torneo. No les digamos nada desalentador a nuestros colegas y sigamos entrenándolos, y entrenándonos, para la competencia que se viene.
+TEXT_JOBMCH401_01700_SYSTEM_000_113	（★Sin uso／se eliminará★）

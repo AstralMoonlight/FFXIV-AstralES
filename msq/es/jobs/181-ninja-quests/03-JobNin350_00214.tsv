@@ -1,0 +1,12 @@
+key	text
+TEXT_JOBNIN350_00214_SEQ_00	Tsubame parece muy contenta con tus avances.
+TEXT_JOBNIN350_00214_SEQ_01	A Tsubame la impresionan mucho la aptitud y la afinidad que mostraste por el camino del shinobi, y piensa que tus habilidades podrían algún día rivalizar con las suyas. Llegó la hora de tu siguiente lección. Entra al almacén y habla con Oboro.
+TEXT_JOBNIN350_00214_SEQ_02	Después de mostrar con orgullo cómo domina una técnica difícil, la reverencia eorzeana común, Oboro te enseña tu segundo mudra. Conocido como <italic(1)>Chi<italic(0)> en la lengua de Doma, este gesto te permitirá invocar el poder de la tierra misma. Cuando estés <if(gnum4,lista,listo)> para aprender a usarlo en combate, vuelve a hablar con Oboro.
+TEXT_JOBNIN350_00214_TODO_00	Habla con Oboro.
+TEXT_JOBNIN350_00214_TSUBAME_000_000	¡<split(<string(gstr1)>, ,1)>! Vaya, ni siquiera oí sus pasos al acercarse. Cada día es más shinobi.
+TEXT_JOBNIN350_00214_TSUBAME_000_001	Oboro l<if(gnum4,a,o)> esperaba. Por favor, entre.
+TEXT_JOBNIN350_00214_OBORO_000_005	La mano frente al torso, inclinarse desde la cadera... Mente serena, mente serena...
+TEXT_JOBNIN350_00214_TSUBAME_000_010	La facilidad con que entendió las bases de nuestro arte es impresionante, por decir poco. No descuide su entrenamiento y veo venir el día en que sus habilidades rivalicen con las mías.
+TEXT_JOBNIN350_00214_OBORO_000_020	Ah, <split(<string(gstr1)>, ,1)>. Por tu porte se nota que entrenaste con mucha dedicación.
+TEXT_JOBNIN350_00214_OBORO_000_021	Pero no eres <if(gnum4,la única,el único)> que dominó la técnica que se le enseñó. ¡Contempla mi reverencia eorzeana, perfecta en equilibrio y forma!
+TEXT_JOBNIN350_00214_OBORO_000_022	...Ejem. Ahora es hora de tu siguiente lección. Mira bien mis manos, <split(<string(gstr1)>, ,1)>. Con este mudra, el shinobi puede invocar las energías de la tierra: <italic(1)>Chi<italic(0)>, en nuestra lengua. Graba su forma en tu mente y te mostraré cómo usarlo en combate.

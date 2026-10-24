@@ -1,0 +1,129 @@
+key	text
+TEXT_JOBNIN600_01688_SEQ_00	Oboro está inmóvil como una piedra, como si escuchara algo.
+TEXT_JOBNIN600_01688_SEQ_01	Con una voz que apenas pasa de un susurro, Oboro te dice que el almacén está rodeado. Las hojas en las sombras son sin duda leales a Redway y esperan atacarlos cuando estén más vulnerables. Oboro te pide que les des un blanco: patrulla, finge que te quedas dormid<if(gnum4,a,o)> con /doze y luego devuelve el golpe.
+TEXT_JOBNIN600_01688_SEQ_02	Los visitantes indeseados ya no están. Cuéntaselo a Oboro.
+TEXT_JOBNIN600_01688_SEQ_03	Aunque Oboro había pensado un plan para cruzar a escondidas a Hullbreaker Isle, el ataque reciente al almacén lo hizo cambiar de idea. Si Redway se tomó la molestia de mandar asesinos a su escondite, sin duda también hay ojos hostiles vigilando los muelles. Oboro razona que lo más sensato ahora es ver qué oposición los espera, y te pide que te reúnas con él en los Moraby Drydocks.
+TEXT_JOBNIN600_01688_SEQ_04	Agazapados en una almena, Oboro y tú miran el puerto con desánimo. Hay demasiados guardias para pelear. Pero tu amigo tiene un plan. Razona que, como eres <italic(1)>tú<italic(0)> quien tiene el deber de salvar a la Princesa Yuki, él es libre de ponerse en peligro y atraer la atención de Redway. Así podrás cruzar el canal a escondidas en el bote que consiguió Jacke. Retírate a Oschon's Torch y espera tu momento.
+TEXT_JOBNIN600_01688_SEQ_05	Redway capturó encantado a Oboro y se fue con sus hombres. Después de calmar a un Akagi alterado, los dos deciden infiltrarse en el campamento de los Truehounds en Hullbreaker Isle. Habla con él en los Moraby Drydocks.
+TEXT_JOBNIN600_01688_SEQ_06	Hablaste con Akagi. Acércate otra vez a él cuando quieras subir al bote hacia Hullbreaker Isle.
+TEXT_JOBNIN600_01688_SEQ_07	Rosalinde prometió liberar a los vasallos cautivos a cambio de los tesoros del clan Yatsurugi. Pero la capitana falta a su palabra cuando la Princesa Yuki se los lleva, y ordena atarla y encerrarla con los demás prisioneros. Justo cuando todo parece perdido, apareces con Akagi. Por fin, la Princesa Yuki te ordena que la rescates. Desenvainas las dagas, cortas las ataduras de Oboro y le llevas la pelea a Redway. Cuando el mercenario se da cuenta de que va perdiendo, intenta huir... y encuentra un final sangriento en el hacha de Rosalinde. La batalla sigue y por fin le pones fin para siempre a los saqueos de la capitana degolladora. Con su líder muerta, los Truehounds que quedan huyen y dejan atrás todos los tesoros del clan Yatsurugi. La Princesa Yuki les da las gracias de corazón y luego se vuelve emocionada hacia sus vasallos liberados. Con lo que saquen de estos tesoros, sus tierras podrán reconstruirse. Oboro indica que es hora de irse. Habla con él en el almacén del muelle.
+TEXT_JOBNIN600_01688_SEQ_08	Oboro te felicita por cumplir tu primera misión. En verdad, pocos shinobi podrían haberse ganado la confianza de su señor como tú te ganaste la de la Princesa Yuki. Ahora te pide que medites sobre lo vivido y sigas por el camino hacia la maestría del arte del ninjutsu.<br><br>※La siguiente misión de ninja estará disponible con Oboro cuando completes la misión del escenario principal "The Far Edge of Fate".
+TEXT_JOBNIN600_01688_TODO_00	Usa /doze en los lugares indicados y mata a los intrusos.
+TEXT_JOBNIN600_01688_TODO_01	Habla con Oboro.
+TEXT_JOBNIN600_01688_TODO_02	Habla con Oboro en los Moraby Drydocks.
+TEXT_JOBNIN600_01688_TODO_03	Espera cerca de Oschon's Torch.
+TEXT_JOBNIN600_01688_TODO_04	Habla con Akagi.
+TEXT_JOBNIN600_01688_TODO_05	Vuelve a hablar con Akagi.
+TEXT_JOBNIN600_01688_TODO_06	Habla con Oboro en el almacén del muelle.
+TEXT_JOBNIN600_01688_AKAGI_000_000	P-Princesa, yo... le fallé...
+TEXT_JOBNIN600_01688_OBORO_000_000	No levantes la voz, <split(<string(gstr1)>, ,1)>. El bosque está lleno de oídos hostiles...
+TEXT_JOBNIN600_01688_OBORO_000_001	No me cabe duda de que las sombras que nos rodean son de Redway. Cómo nos encontró, no lo sé.
+TEXT_JOBNIN600_01688_OBORO_000_002	Pero ¿por qué? Sus rehenes ya lo protegen. ¿Tanto lo consume el miedo que quiere degollarnos mientras estamos indefensos? Esto es cobardía... o locura.
+TEXT_JOBNIN600_01688_OBORO_000_003	Sus hombres intentarán tomarnos por sorpresa. Yo digo que los dejemos.
+TEXT_JOBNIN600_01688_OBORO_000_004	Ve a patrullar afuera. En algún momento, finge que te quedas dormid<if(gnum4,a,o)> con <colortype(500)><edgecolortype(501)>doze<edgecolortype(0)><colortype(0)>. Nuestros enemigos atacarán. Cuando lo hagan, asegúrate de que no vivan para informarle a Redway.
+TEXT_JOBNIN600_01688_OBORO_000_010	No te preocupes por mí, <split(<string(gstr1)>, ,1)>. Si alguna sombra entra aquí, me aseguraré de que no salga.
+TEXT_JOBNIN600_01688_SYSTEM_000_015	Derrota a los enemigos que aparecen cuando finges dormir con <colortype(500)><edgecolortype(501)>doze<edgecolortype(0)><colortype(0)> durante la patrulla.
+TEXT_JOBNIN600_01688_OBORO_000_50	Gracias. Siento que ya no hay visitantes indeseados.
+TEXT_JOBNIN600_01688_OBORO_000_51	Akagi se está recuperando. Cumplimos nuestro deber. ¡Ahora, la princesa espera que la rescatemos!
+TEXT_JOBNIN600_01688_OBORO_000_52	Hablé con Jacke y nos consiguió un bote. El plan <italic(1)>era<italic(0)> cruzar a escondidas a Hullbreaker Isle desde los Moraby Drydocks y encontrar a la princesa...
+TEXT_JOBNIN600_01688_OBORO_000_53	Pero si Redway mandó a sus degolladores aquí, no habrá descuidado los muelles. Seguramente el lugar está lleno de guardias. No sería sensato seguir sin reconocer el terreno.
+TEXT_JOBNIN600_01688_AKAGI_000_54	Yo... yo solo los retrasaría si fuera, ¿no?
+TEXT_JOBNIN600_01688_OBORO_000_55	Acabas de curarte, Akagi. La Princesa Yuki quiere que estés a salvo, y la servirás mejor quedándote aquí.
+TEXT_JOBNIN600_01688_AKAGI_000_56	Eh... está bien. <split(<string(gstr1)>, ,1)>, te confío su vida. Por favor, <italic(1)>por favor<italic(0)>, tráela sana y salva.
+TEXT_JOBNIN600_01688_OBORO_000_70	¿Qué esperas, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBNIN600_01688_AKAGI_000_75	No, en serio, no tienes que venir a ver cómo estoy. Estoy bien aquí. Soy demasiado cobarde para servir de mucho, de todos modos. Jaja... ja...
+TEXT_JOBNIN600_01688_OBORO_000_100	Esto es aún peor de lo que imaginaba. Hay Truehounds por todas partes. No podemos arriesgarnos a una batalla abierta. Si aunque sea <italic(1)>uno<italic(0)> escapa de nuestras hojas, la Princesa Yuki morirá...
+TEXT_JOBNIN600_01688_OBORO_000_101	Tengo un plan. Pero no te va a gustar. Dime, <split(<string(gstr1)>, ,1)>: ¿recuerdas qué te ordenó la princesa?
+TEXT_JOBNIN600_01688_Q1_000_000	¿Qué ordenó la Princesa Yuki?
+TEXT_JOBNIN600_01688_A1_000_010	Seguir con vida.
+TEXT_JOBNIN600_01688_A1_000_020	...
+TEXT_JOBNIN600_01688_OBORO_000_110	Exacto.
+TEXT_JOBNIN600_01688_OBORO_000_120	Te ordenó seguir con vida. Espero que tu silencio sea estoico y no porque lo hayas olvidado.
+TEXT_JOBNIN600_01688_OBORO_000_150	Tú estás <if(gnum4,atada,atado)> a ella, <string(gstr1)>. Yo no. Yo soy un aliado, y mi muerte no significa nada a los ojos del deber. Pero si mueres sin librar a la princesa del peligro, entonces, como shinobi, fallaste tu misión.
+TEXT_JOBNIN600_01688_OBORO_000_151	Tienes que vivir para salvarla. Así que... yo debo ser el peón, y debo ser sacrificado.
+TEXT_JOBNIN600_01688_OBORO_000_152	Redway tiene los ojos puestos en mí. Si me entrego, bajará la guardia y tendrás la oportunidad de cruzar a escondidas a la isla.
+TEXT_JOBNIN600_01688_OBORO_000_153	...<italic(1)>Sí<italic(0)> te dije que no te iba a gustar. Pero es la única forma. Espero que estés <if(gnum4,lista,listo)>. Ejem...
+TEXT_JOBNIN600_01688_OBORO_000_155	¡Yo <italic(1)>confiaba<italic(0)> en ti, <split(<string(gstr1)>, ,1)>! ¡Y ahora muestras quién eres en realidad! ¡Cobarde, eso eres! No eres shinobi: ¡eres un <italic(1)>error<italic(0)>! ¡Nunca debí enseñarte las costumbres de mi aldea! ¡Fuera de mi vista!
+TEXT_JOBNIN600_01688_OBORO_000_156	...Uf. Perdóname, <split(<string(gstr1)>, ,1)>. Tenía que darles un motivo para creer que nos separamos. Pase lo que pase conmigo, no puedes intervenir.
+TEXT_JOBNIN600_01688_OBORO_000_157	Ahora la princesa solo tiene <if(gnum4,una shinobi,un shinobi)>. Espera tu oportunidad para salvarla. Su destino, <italic(1)>nuestro destino<italic(0)>, está en tus manos.
+TEXT_JOBNIN600_01688_REDWAY_000_200	¿Mataste a <italic(1)>todos<italic(0)> los mercenarios que mandé a buscarte? Quizás debí gastar más en ellos y menos en comprar la ubicación de tu chocita. Bueno, buena lección para el futuro.
+TEXT_JOBNIN600_01688_REDWAY_000_201	Pero <italic(1)>en serio<italic(0)>, Oboro, ¿cómo puedes ser tan estúpido? ¡Podrías haber huido con <split(<string(gstr1)>, ,1)>! ¿Pero lo hiciste? No. Volviste corriendo, ¡como un niño que no aprendió a temerle al puño de su padre!
+TEXT_JOBNIN600_01688_REDWAY_100_201	Te <italic(1)>dije<italic(0)> que le cortaría el cuello a la princesa si venías por ella. Todavía puedo hacerlo, si no obedeces. Así que ven conmigo, o morirá. Gritando, sí.
+TEXT_JOBNIN600_01688_OBORO_000_202	¡Desgraciado! ¿¡No tienes honor!? No te escondas detrás de tus rehenes: ¡<italic(1)>pelea conmigo<italic(0)>!
+TEXT_JOBNIN600_01688_REDWAY_000_203	¡Ajajajá! ¿Por qué debería? Tú y tu honor <italic(1)>perdieron<italic(0)>. Tu manera, la manera tradicional, está pasada de moda. ¡Ahora toca lo <italic(1)>nuevo<italic(0)>!
+TEXT_JOBNIN600_01688_REDWAY_000_204	El cambio exige sacrificios, Oboro. Tu aldea, por ejemplo. Usaré tu vida para sacar a tus ancianos a campo abierto y arrasaré sus casas. Luego reconstruiré a los shinobi a <italic(1)>mi<italic(0)> imagen. Simple, ¿sí?
+TEXT_JOBNIN600_01688_REDWAY_000_205	Aaah, si tan solo fuera hoy... Quizás te mantenga con vida para que lo veas. Ahora, <italic(1)>al pie<italic(0)>, Oboro. Tu princesa te espera.
+TEXT_JOBNIN600_01688_AKAGI_000_207	¡<split(<string(gstr1)>, ,1)>! ¿¡Qué haces escondiéndote aquí atrás cuando tus amigos están en peligro!?
+TEXT_JOBNIN600_01688_AKAGI_000_208	¡<if(gnum4,T-Traidora,T-Traidor)>! Tú... ¡Maldición, shinobi! La princesa tenía razón: ¡nunca debí confiar en ti! ¡Vete! ¡Vamos, fuera! ¡La salvaré yo mismo!
+TEXT_JOBNIN600_01688_AKAGI_000_209	¿Qué? ¿¡Solo teatro!? Oboro... ¿Oboro puso su vida en peligro <italic(1)>por<italic(0)> la princesa?
+TEXT_JOBNIN600_01688_AKAGI_000_210	Aaah... ¡jaja! ¡Ya lo sabía! ¡Nunca dudé de ti, ni por un segundo!
+TEXT_JOBNIN600_01688_AKAGI_000_211	Me vendé bien la pierna. ¡Puedo correr y pelear con ella! No voy a ganarme la fama en casa si dejo que los shinobi lo hagan todo, ¿eh? ¡Llevémosles la batalla!
+TEXT_JOBNIN600_01688_AKAGI_000_212	Gracias, amig<if(gnum4,a,o)>. ¡No te vas a arrepentir! ¡Ahora, a los Moraby Drydocks!
+TEXT_JOBNIN600_01688_AKAGI_000_300	No queda ni un guardia. Supongo que Redway los tiene a todos vigilando a Oboro.
+TEXT_JOBNIN600_01688_AKAGI_000_301	Bueno, <split(<string(gstr1)>, ,1)>, es ahora o nunca: crucemos a esa isla. Oboro dijo algo de un bote...
+TEXT_JOBNIN600_01688_KASHIN01688_000_500	¡Princesa, perdónenos! ¡Nunca quisimos que perdiera los tesoros!
+TEXT_JOBNIN600_01688_ROSALINDE_000_501	Sí, eso es todo. Qué bueno tener el botín de vuelta.
+TEXT_JOBNIN600_01688_YUKI_000_502	¡Ya tienes lo que viniste a buscar, Rosalinde! ¡Ahora libera a mi gente!
+TEXT_JOBNIN600_01688_ROSALINDE_000_503	Muchachos, me acuerdo de haber visto un par de grilletes vacíos en el calabozo. ¡Encierren a la princesa bajo cubierta con los demás!
+TEXT_JOBNIN600_01688_YUKI_000_504	¿¡Qué!? ¡No! ¡Me diste tu palabra! Dijiste...
+TEXT_JOBNIN600_01688_ROSALINDE_000_505	¿¡De verdad <italic(1)>creíste<italic(0)> que iba a cambiar tesoros por rehenes!? ¡Ajajajá! ¡No hay ni una razón en el mundo para que cumpla esa promesa, niña!
+TEXT_JOBNIN600_01688_REDWAY_000_506	¡Capitana, lo atrapé! Le presento a Oboro: el <italic(1)>último<italic(0)> de los que querían rescatar a la princesa.
+TEXT_JOBNIN600_01688_YUKI_000_507	¿¡O-Oboro!? ¿Por qué, <italic(1)>por qué<italic(0)> me seguiste?
+TEXT_JOBNIN600_01688_OBORO_000_507	eliminado
+TEXT_JOBNIN600_01688_REDWAY_000_508	<if(gnum4,La discípula,El discípulo)> de Oboro huyó, Capitana. Sí. Se fue con la cola entre las patas. Estos supuestos shinobi nunca estuvieron a mi altura.
+TEXT_JOBNIN600_01688_REDWAY_000_509	¡Y el nuevo orden me seguirá a <italic(1)>mí<italic(0)>, peleará por <italic(1)>mi<italic(0)> atención y suplicará por <italic(1)>mis<italic(0)> enseñanzas! ¡Sí, sí, sí!
+TEXT_JOBNIN600_01688_ROSALINDE_000_510	¿Ves, Princesa? A Redway lo pagué con dinero contante y sonante. ¿Y <italic(1)>tú<italic(0)> conseguiste a dos ninjas con orejas de rata... con qué? ¿Promesas? ¡Ja! ¡Recibes lo que pagas!
+TEXT_JOBNIN600_01688_ROSALINDE_000_511	¿Qué es esto? ¿Se marchita la Orquídea de Hierro? ¡Perdiste tus chucherías, perdiste a tus guardaespaldas y le fallaste a tu gente! ¿Qué se siente, eh?
+TEXT_JOBNIN600_01688_MOB01688_000_512	¡AAAAAAAAARGH!
+TEXT_JOBNIN600_01688_REDWAY_000_513	¡T-Tú! No... ¡no, no! ¡Tú no deberías estar aquí! ¡Vete! ¡Fuera!
+TEXT_JOBNIN600_01688_YUKI_000_514	¿<split(<string(gstr1)>, ,1)>? ¿¡<italic(1)>Akagi<italic(0)>!?
+TEXT_JOBNIN600_01688_OBORO_000_515	Dígame, Princesa: ¿qué <italic(1)>se<italic(0)> siente saber que no está sola?
+TEXT_JOBNIN600_01688_OBORO_000_516	No tiene por qué desesperar, Princesa. ¡Aquí hay dos que todavía sirven en <italic(1)>su<italic(0)> nombre! ¡Por favor, confíe en ellos!
+TEXT_JOBNIN600_01688_YUKI_000_517	...Sálvame. ¡<split(<string(gstr1)>, ,1)>, te ordeno que derrotes a estos perros!
+TEXT_JOBNIN600_01688_OBORO_000_518	¡Tienes tu deber, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBNIN600_01688_KASHIN01688_000_600	¡Princesa! ¡Gracias al cielo que está a salvo!
+TEXT_JOBNIN600_01688_YUKI_000_601	¿Y ustedes? ¿Están heridos? Podemos buscar atención al volver a la ciudad.
+TEXT_JOBNIN600_01688_YUKI_000_602	<split(<string(gstr1)>, ,1)>... Tuve suerte de tener a <if(gnum4,una shinobi,un shinobi)> como tú a mi servicio. Con toda mi habilidad, no podría haberlo hecho sola. Gracias, de todo corazón.
+TEXT_JOBNIN600_01688_YUKI_000_603	Los tesoros del clan Yatsurugi son míos. Con su venta compraremos herramientas de labranza y graneros para nuestro grano. ¡Con trabajo duro, nuestras tierras prosperarán!
+TEXT_JOBNIN600_01688_KASHIN01688_000_604	Usted también tiene nuestro agradecimiento, shinobi. La princesa es el estandarte en torno al cual nos reunimos, el faro que nos guiará a reconstruir nuestra nación. No hay palabras para expresar nuestra gratitud por haberla defendido.
+TEXT_JOBNIN600_01688_YUKI_000_606	Bueno, espero que ahora nuestras tierras se libren del invierno. Que la nieve se derrita bajo el sol de primavera y nos libre de esta vida fría y seca. Vamos, amigos: ¡volvamos a casa a reconstruir!
+TEXT_JOBNIN600_01688_OBORO_000_607	Cumpliste tu misión, <split(<string(gstr1)>, ,1)>, y salvaste a un país y a su gente. Recuerda este momento, para mirarlo atrás con orgullo en el corazón.
+TEXT_JOBNIN600_01688_OBORO_000_608	Bueno, creo que debemos irnos. Nos espera el almacén, y largas meditaciones sobre lo de hoy.
+TEXT_JOBNIN600_01688_OBORO_000_700	Fue una primera misión prometedora, <split(<string(gstr1)>, ,1)>. Solo alguien muy hábil en nuestro arte podría haberse ganado la confianza de la Princesa Yuki como tú lo hiciste. Pero por ahora la hora de la emoción pasó, y tengo ganas de meditar en silencio.
+TEXT_JOBNIN600_01688_YUKI_000_701	¡Oboro! ¡Oboro! ¡Así que <italic(1)>aquí<italic(0)> te habías metido!
+TEXT_JOBNIN600_01688_OBORO_000_702	¿Princesa? ¿No había partido de vuelta a casa?
+TEXT_JOBNIN600_01688_YUKI_000_703	Tenía algo que decirte antes de irme. Pienso mandar una carta formal de agradecimiento por los servicios que hiciste en mi nombre, del clan Yatsurugi a tu aldea.
+TEXT_JOBNIN600_01688_YUKI_000_704	Tu pueblo y el mío tienen que reconstruirse. Pensé que una carta podría dar pie a una amistad. Pero no conozco bien sus costumbres: ¿debería dirigírsela a los ancianos de tu aldea?
+TEXT_JOBNIN600_01688_OBORO_000_705	Sí, sería perfecto. La aldea recibiría con gusto su amistad, Princesa. Gracias po... Un momento, ¿a los ancianos de la aldea?
+TEXT_JOBNIN600_01688_YUKI_000_706	¡Muy bien, así se hará! Gracias, Oboro. ¡Espero que volvamos a vernos, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBNIN600_01688_OBORO_000_707	¡N-No! Los ancianos creen que me quedé en Eorzea curándome las heridas. ¡Si se enteran de que ando por ahí en nuevas misiones...!
+TEXT_JOBNIN600_01688_OBORO_000_708	¡Tengo que alcanzarla! ¡Maldición, ¿por qué tiene que ser tan rápida?! ¡Princesa, espere!
+TEXT_JOBNIN600_01688_SYSTEM_000_500	Aquí terminan las misiones de ninja de FINAL FANTASY XIV: Heavensward. Para empezar la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:
+TEXT_JOBNIN600_01688_SYSTEM_000_501	※Haber completado la misión de la historia principal "The Far Edge of Fate".
+TEXT_JOBNIN600_01688_SYSTEM_000_502	Una vez cumplidos, la siguiente misión de ninja estará disponible con Oboro.
+TEXT_JOBNIN600_01688_QIB_001_TODO_1	¡Derrota a los Truehounds y salva a la Princesa Yuki!
+TEXT_JOBNIN600_01688_QIB_001_OBORO_BATTLETALK_DEAD	T-Tienes que terminar esto...
+TEXT_JOBNIN600_01688_QIB_001_AKAGI_BATTLETALK_DEAD	P-Princesa, lo s-siento...
+TEXT_JOBNIN600_01688_QIB_001_YUKI_BATTLETALK_08	¡<split(<string(gstr1)>, ,1)>, tienes que ganar!
+TEXT_JOBNIN600_01688_QIB_001_AKAGI_BATTLETALK_00	<split(<string(gstr1)>, ,1)>, yo me encargo de Redway. ¡Tú libera a Oboro!
+TEXT_JOBNIN600_01688_QIB_001_ROSALINDE_BATTLETALK_02	¡Redway, no te pago para que estés ahí parado! ¡Mátalos!
+TEXT_JOBNIN600_01688_QIB_001_REDWAY_BATTLETALK_01	Inesperado, sí, pero no imposible. ¡Los perros cobardes de la princesa no son rival para mí!
+TEXT_JOBNIN600_01688_QIB_001_OBORO_BATTLETALK_03	eliminado
+TEXT_JOBNIN600_01688_QIB_001_ROSALINDE_BATTLETALK_04	eliminado
+TEXT_JOBNIN600_01688_QIB_001_REDWAY_BATTLETALK_05	eliminado
+TEXT_JOBNIN600_01688_QIB_001_AKAGI_BATTLETALK_06	eliminado
+TEXT_JOBNIN600_01688_QIB_001_ROSALINDE_BATTLETALK_07	eliminado
+TEXT_JOBNIN600_01688_QIB_001_REDWAY_BATTLETALK_09	Tú... tú me obligaste. ¡Que caiga sobre tu cabeza!
+TEXT_JOBNIN600_01688_QIB_001_OBORO_BATTLETALK_10	¡Su mudra de invocación! ¡<split(<string(gstr1)>, ,1)>, ya sabes lo que hay que hacer!
+TEXT_JOBNIN600_01688_QIB_001_AKAGI_BATTLETALK_11	eliminado
+TEXT_JOBNIN600_01688_QIB_001_REDWAY_BATTLETALK_12	¡N-No! ¡Te haré arrepentirte de esto! ¡Sí! ¡SÍ!
+TEXT_JOBNIN600_01688_QIB_001_AKAGI_BATTLETALK_13	¿¡Q-Quién es el conjurer!?<br>¡<split(<string(gstr1)>, ,1)>, detenlo, rápido!
+TEXT_JOBNIN600_01688_QIB_001_REDWAY_BATTLETALK_14	No... ¡no, esto no vale la pena! ¡Mi recompensa no vale mi vida! ¡No!
+TEXT_JOBNIN600_01688_QIB_001_ROSALINDE_BATTLETALK_15	¿¡QUÉ!? ¿¡Un motín!? ¡Me quedo con tu cabeza, Redway! ¡CON TU CABEZA!
+TEXT_JOBNIN600_01688_QIB_001_REDWAY_BATTLETALK_16	¿Qué...? ¡Aaarrrggghhh! ¡AAAAAAHHH!
+TEXT_JOBNIN600_01688_QIB_001_ROSALINDE_BATTLETALK_17	¡Son todos unos inútiles! ¡Lo haré yo misma!
+TEXT_JOBNIN600_01688_QIB_001_AKAGI_BATTLETALK_18	¿Por qué? Dioses, ¡él... él era tu aliado!
+TEXT_JOBNIN600_01688_QIB_001_OBORO_BATTLETALK_19	Que encuentres la paz, Redway...
+TEXT_JOBNIN600_01688_QIB_001_YUKI_BATTLETALK_20	Rosalinde, tu propio shinobi... ¿¡Por qué!?
+TEXT_JOBNIN600_01688_QIB_001_ROSALINDE_BATTLETALK_21	Un mercenario que no sabe hacer su trabajo no<br>merece que lo <italic(1)>contraten<italic(0)> más, ¿no?
+TEXT_JOBNIN600_01688_QIB_001_YUKI_BATTLETALK_22	Pero debiste confiar en su hoja... ¡Al infierno contigo!<br>¡<split(<string(gstr1)>, ,1)>, muéstrale lo que puede hacer un shinobi <italic(1)>de verdad<italic(0)>!

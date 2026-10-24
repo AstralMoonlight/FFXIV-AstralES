@@ -1,0 +1,106 @@
+key	text
+TEXT_JOBMCH540_01707_SEQ_00	Stephanivien quiere que te sumes a la operación de la House Dzemael.
+TEXT_JOBMCH540_01707_SEQ_01	Stephanivien por fin recibió los detalles de la operación conjunta con la House Dzemael. La House Haillenarte ayudará a defender Falcon's Nest acabando con las fuerzas dravanianas reunidas en el Black Iron Bridge. Ve a Coerthas Western Highlands y reúnete con Stephanivien en el asediado asentamiento.
+TEXT_JOBMCH540_01707_SEQ_02	Llegas a Falcon's Nest y descubres que ninguno de tus compañeros machinists respondió al llamado a las armas de Stephanivien, así que el conde tuvo que salir con los pocos caballeros que pudo reunir... y con un Rostnsthal reacio. Pero mientras hablan de sus escasas opciones, llega Celestaux con la noticia de que tienen prisionero al padre de Joye en la Brume. Vuelve a Ishgard y habla con el machinist de la manufactura en Foundation.
+TEXT_JOBMCH540_01707_SEQ_03	El machinist de la Brume te señala la puerta tras la que supuestamente retienen al padre de Joye. Acércate al guardia cobarde e intimídalo con un Slug Shot.<br><br>Si Slug Shot no está disponible, se puede usar Heated Slug Shot.
+TEXT_JOBMCH540_01707_SEQ_04	Con la oportuna ayuda de Stephanivien, no te cuesta nada convencer al guardia de que libere a su prisionero. Ahora que su padre está libre, el director de la manufactura cree que podrá convencer a Joye de volver a las filas de los machinists. Vuelve rápido a Coerthas Western Highlands y únete a Rostnsthal en la batalla del Black Iron Bridge.
+TEXT_JOBMCH540_01707_SEQ_05	Reemplazas en primera línea a Rostnsthal, que está herido, y ayudas a la House Haillenarte a acabar rápido con los dravanianos merodeadores. Habla con Stephanivien sobre la traición de Tedalgrinche.
+TEXT_JOBMCH540_01707_SEQ_06	Stephanivien te elogia por tu papel en el rescate del padre de Joye y por tu victoria sobre las fuerzas dravanianas. Con Joye de vuelta entre los machinists y en la mansión, el director de la manufactura está ansioso por levantar una copa para celebrar. Vuelve a la Skysteel Manufactory y habla con Stephanivien.
+TEXT_JOBMCH540_01707_SEQ_07	Aunque a Stephanivien le alegra pensar que tus hazañas impresionaron todavía más a la Holy See, también desconfía de la villanía cada vez mayor de Tedalgrinche. Practica la nueva técnica que te transmitió Rostnsthal y mantente alerta ante las traiciones de la House Dzemael.<br><br>※La siguiente misión de machinist estará disponible con Stephanivien al llegar al nivel 56.
+TEXT_JOBMCH540_01707_TODO_00	Habla con Stephanivien en Falcon's Nest.
+TEXT_JOBMCH540_01707_TODO_01	Habla con el machinist de la manufactura en la Brume.
+TEXT_JOBMCH540_01707_TODO_02	Usa Slug Shot contra el guardia cobarde.
+TEXT_JOBMCH540_01707_TODO_03	Habla con Rostnsthal en el Black Iron Bridge.
+TEXT_JOBMCH540_01707_TODO_04	Habla con Stephanivien.
+TEXT_JOBMCH540_01707_TODO_05	Habla con Stephanivien en la Skysteel Manufactory.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_000	Espero que tu arma de fuego esté cargada y lista, <split(<string(gstr1)>, ,1)>: recibimos nuestras órdenes de despliegue de la House Dzemael.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_001	Varios grupos de dravanianos convergen sobre Falcon's Nest, y nos encargaron acabar con las bestias reunidas en el Black Iron Bridge. Conociendo a Tedalgrinche, y por desgracia lo conozco, no me extrañaría que atrajera más enemigos a esa estructura estrecha solo para agotarnos.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_002	Y tenemos que superar este ataque sin la ayuda de Joye... ni la de Celestaux, de hecho: todavía no vuelve desde que salió hecho una furia.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_003	Reuniré a los machinists que nos quedan y los llevaré a Falcon's Nest. Te ruego que te reúnas con nosotros allá lo antes posible.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_009	Reuniré a los machinists que nos quedan y los llevaré a Falcon's Nest. Te ruego que te reúnas con nosotros allá lo antes posible.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_010	Ah, <split(<string(gstr1)>, ,1)>... Me temo que la partida de Celestaux animó a sus compañeros a desobedecer mis órdenes. Eres <if(gnum4,la única,el único)> machinist que respondió a mi llamado a las armas.
+TEXT_JOBMCH540_01707_BAURENDOUIN_000_011	(-Conde Baurendouin de Haillenarte-)Y ante esta... insubordinación, me vi obligado a desplegar a los pocos caballeros de los que podíamos prescindir, yo incluido.
+TEXT_JOBMCH540_01707_ROSTNSTHAL_000_012	(-Rostnsthal-)Hasta me rogaron a <italic(1)>mí<italic(0)> que viniera. Como ya dije, pelear con malditos dragones no está en mi contrato, así que me van a pagar muy bien por la molestia.
+TEXT_JOBMCH540_01707_TEDALGRINCHE_000_013	(-Tedalgrinche-)¿Esta es toda la compañía de la House Haillenarte? Parece que les faltan unos cuantos machinists.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_014	Tenemos a nuestros colegas en reserva. Para una operación como esta, solo necesitamos desplegar a <split(<string(gstr1)>, ,1)>, <if(gnum4,la mejor,el mejor)> machinist de nuestras filas.
+TEXT_JOBMCH540_01707_TEDALGRINCHE_000_015	(-Tedalgrinche-)Ajajajá, tu confianza es de veras inspiradora. Pero, por suerte, hay pocos enemigos amenazando el Black Iron Bridge. Me atrevo a decir que, aun con tan pocos, no se verán en grandes aprietos.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_016	¿¡Celestaux!? ¿V-viniste a pelear con nosotros?
+TEXT_JOBMCH540_01707_CELESTAUX_000_017	Eso depende de usted, mi señor. Encontramos al padre de Joye: lo tienen prisionero en la Brume.
+TEXT_JOBMCH540_01707_BAURENDOUIN_000_018	(-Conde Baurendouin de Haillenarte-)¿¡Prisionero!? ...¿Sospechas que es algún tipo de coacción?
+TEXT_JOBMCH540_01707_CELESTAUX_000_019	Sí, creemos que le tenían el ojo puesto a Joye desde hace tiempo. Su papá desapareció justo después de conseguir un trabajo aquí en Falcon's Nest... y de repente Joye se casó con el hermano de un carpintero que trabaja en las fortificaciones.
+TEXT_JOBMCH540_01707_CELESTAUX_000_020	La House Dzemael está detrás de esto, o yo soy primo tercero de un chocobo.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_021	¡Tedalgrinche, canalla!
+TEXT_JOBMCH540_01707_CELESTAUX_000_022	¡Todavía no es tarde! ¡Si sacamos a su papá, Joye puede dejar esa farsa de matrimonio y volver a la manufactura, que es donde debe estar!
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_023	Pero el puente... Los dravanianos...
+TEXT_JOBMCH540_01707_BAURENDOUIN_000_024	(-Conde Baurendouin de Haillenarte-)Ve. Joye es machinist: como director de la manufactura, es tu deber velar por tus empleados. Mis caballeros y yo marcharemos por la House Haillenarte.
+TEXT_JOBMCH540_01707_ROSTNSTHAL_000_025	(-Rostnsthal-)Bah, no tienes que preocuparte: van a tener a este servidor peleando a su lado. Ve a ayudar al jefe, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMCH540_01707_CELESTAUX_000_026	Si va <split(<string(gstr1)>, ,1)>, entonces yo me quedo. Les prometimos machinists a los Dzemael, y no queremos faltar a nuestra palabra ahora, ¿verdad? Con uno debería bastar.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_027	Gracias. Gracias a todos. Terminaremos este asunto con la mayor prisa y volveremos lo antes posible.
+TEXT_JOBMCH540_01707_CELESTAUX_000_028	Vas a encontrar a uno de los machinists de la manufactura en la Brume. Él te va a mostrar dónde tienen al papá de Joye.
+TEXT_JOBMCH540_01707_KIKOUSHI01707_000_030	Celestaux dijo que vendrías. El jefe llamaría demasiado la atención, así que le pedimos que esperara en el taller hasta que estemos listos para actuar.
+TEXT_JOBMCH540_01707_KIKOUSHI01707_000_031	El papá de Joye está justo detrás de esa puerta.
+TEXT_JOBMCH540_01707_KIKOUSHI01707_000_032	Solo tenemos que convencer al tipo que la vigila de que la abra. No tiene pinta de ser de los valientes, así que con un Slug Shot debería mearse en los pantalones.
+TEXT_JOBMCH540_01707_SYSTEM_000_033	Para avanzar en esta misión se puede usar Heated Slug Shot en lugar de Slug Shot.
+TEXT_JOBMCH540_01707_KIKOUSHI01707_000_039	Rózale una o dos balas a ese tipo y pronto lo vas a tener llorando por su mamá.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_039	Mi pobre Joye...
+TEXT_JOBMCH540_01707_FRAIDEOUX_000_039	¡At-atrás o te r-reviento los sesos!
+TEXT_JOBMCH540_01707_FRAIDEOUX_000_040	¡Ay! ¿Pero qué...? ¡M-me disparaste!
+TEXT_JOBMCH540_01707_FRAIDEOUX_000_041	¡P-por favor! ¡No hice nada malo! Un petimetre elegante me tiró una bolsita en el regazo y me dijo que vigilara la puerta. ¡Lo juro, es todo lo que sé!
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_042	¿Y cuánto te pagó?
+TEXT_JOBMCH540_01707_FRAIDEOUX_000_043	¡No lo suficiente para morir por eso, mi señor! ¡P-por favor, no me dispare otra vez!
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_044	Ah, no era mi intención amenazarte. Solo queremos que liberes al hombre que está detrás de esa puerta.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_045	Y si temes la venganza de tu patrón, puedes refugiarte en la manufactura. De hecho, ¿por qué no te haces machinist? Así no tendrías que volver a aceptar un trabajo tan turbio.
+TEXT_JOBMCH540_01707_FRAIDEOUX_000_046	...¿M-me está ofreciendo trabajo, mi señor? Sí, por eso suelto al tipo. Diablos, por un sueldo fijo lo llevo cargado de un lado a otro de la ciudad y de vuelta.
+TEXT_JOBMCH540_01707_JOYEFATHER_000_047	Lord Stephanivien... Mi humilde agradecimiento.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_048	Estuviste encerrado bastante tiempo, pobre hombre. ¿Sabes quién te hizo esto, o por qué?
+TEXT_JOBMCH540_01707_JOYEFATHER_000_049	No tengo la menor idea, mi señor. La House Dzemael me contrató para trabajar en sus murallas, y cuando fui a unirme a la cuadrilla que salía para Falcon's Nest, un desgraciado, con perdón, mi señor, me metió un saco en la cabeza y me llevó a rastras.
+TEXT_JOBMCH540_01707_JOYEFATHER_000_050	No soy más que un viejo cazador acabado. No tengo dinero para un rescate, y mi familia tampoco. Me puse a pensar que a lo mejor se llevaron al tipo equivocado...
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_051	Entonces, ¿no sabías que Joye se había casado, ni que había dejado su puesto en la mansión y en la manufactura?
+TEXT_JOBMCH540_01707_JOYEFATHER_000_052	¿¡Se casó y renunció!? ¿¡Por qué haría algo tan tonto!? Nunca la vi más feliz que cuando anda con una de esas armas de chispa.
+TEXT_JOBMCH540_01707_JOYEFATHER_000_053	...Ah, por eso me llevaron: están chantajeando a mi pequeña Joye. Es imposible que se haya casado así como así con un tipo que no la deja seguir en el taller.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_054	Entonces era machinist por elección propia... Me alegra mucho oír eso.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_055	Es hora de liberar a tu hija de su falso matrimonio. ¡Cuando vea que estás a salvo, no envidio al hombre que se hace pasar por su marido!
+TEXT_JOBMCH540_01707_KIKOUSHI01707_000_056	¡Sabía que usted lo iba a arreglar, mi señor! ¡Encárguese de Joye y yo les digo al resto de los machinists que pueden volver a trabajar!
+TEXT_JOBMCH540_01707_KIKOUSHI01707_000_057	Bueno, ¿muchacho? Tú vienes conmigo.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_058	Hablaré con Joye y desenredaré este disparate. Pero tú tienes que ir rápido al Black Iron Bridge y prestarle tu cañón a la batalla.
+TEXT_JOBMCH540_01707_ROSTNSTHAL_000_060	Ya era hora de que volvieras. ¿Encontraste al papá de Joye, entonces?
+TEXT_JOBMCH540_01707_ROSTNSTHAL_000_061	Bien. Ahora le toca al jefe traerla de vuelta.
+TEXT_JOBMCH540_01707_BAURENDOUIN_000_062	La lucha fue feroz. El maestro Rostnsthal resultó herido cuando detuvo con gallardía un zarpazo que iba a arrancarme la cabeza.
+TEXT_JOBMCH540_01707_ROSTNSTHAL_000_063	Bah, esa es la forma noble de decir que me tropecé con su maldita cola y me fui de cara contra el golpe. En fin, vas a tener que tomar mi lugar en primera línea, y pronto, antes de que a estos caballeros delicados les den una paliza.
+TEXT_JOBMCH540_01707_QIB_001_TODO_1	¡Derrota a los dravanianos!
+TEXT_JOBMCH540_01707_QIB_001_CELESTAUX_BATTLETALK_01	¡Qué alegría verte!<br>¡Empecemos por este extremo y avancemos hacia el otro!
+TEXT_JOBMCH540_01707_QIB_001_ROSTNSTHAL_BATTLETALK_01	¡Mirada al frente!<br>¡Derriben a ese desgraciado grandote!
+TEXT_JOBMCH540_01707_QIB_001_ROSTNSTHAL_BATTLETALK_02	¡Sigan disparando! ¡Ya no da más!
+TEXT_JOBMCH540_01707_QIB_001_ROSTNSTHAL_BATTLETALK_03	¡Concéntrense! ¡Sigan con el grande!
+TEXT_JOBMCH540_01707_QIB_001_ROSTNSTHAL_BATTLETALK_04	¡Limpien lo que queda! ¡Ya casi terminan!
+TEXT_JOBMCH540_01707_ROSTNSTHAL_000_110	Te faltaban unos cuantos compañeros, pero igual cumpliste. No es que esperara menos de un<if(gnum4,a,o)> de mis alumn<if(gnum4,as,os)> estrella.
+TEXT_JOBMCH540_01707_BAURENDOUIN_000_111	Una estrella, de verdad. Su llegada fue como un regalo del cielo.
+TEXT_JOBMCH540_01707_JOYE_000_112	(-???-)¡Carguen! ¡Apunten! ¡Fuego!
+TEXT_JOBMCH540_01707_JOYE_000_113	(-???-)¿¡Qué tal eso, desgraciado escamoso!?
+TEXT_JOBMCH540_01707_JOYE_000_114	Me temo que les causé muchos problemas a todos. Gracias por rescatar a mi papá...
+TEXT_JOBMCH540_01707_BAURENDOUIN_000_115	No fue ninguna molestia, tratándose de una empleada tan buena. Como ahora estás casada, entiendo que quizás no quieras retomar tus deberes en la mansión... pero ¿consideraste la oferta de mi hijo de que tú y tu marido vengan a trabajar a la manufactura?
+TEXT_JOBMCH540_01707_JOYE_000_116	Mi "marido" y yo acordamos separarnos. Si a mi señor le parece bien, ¡me gustaría volver a trabajar en el taller <italic(1)>y<italic(0)> en la mansión, en los dos!
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_117	¡Joye, querida! ¡Bienvenida, por supuesto! Ni la mansión ni la manufactura fueron lo mismo sin ti.
+TEXT_JOBMCH540_01707_JOYE_000_118	M-mi señor, señorito, no sé cómo...
+TEXT_JOBMCH540_01707_JOYE_100_118	E-es decir...
+TEXT_JOBMCH540_01707_JOYE_000_119	¡Me alegra estar de vuelta!
+TEXT_JOBMCH540_01707_TEDALGRINCHE_000_120	Ah, veo que incluso para la tan venida a menos House Haillenarte, un puñado de dragones no es una verdadera amenaza. Tendré que buscarles un desafío más importante para su próxima salida.
+TEXT_JOBMCH540_01707_TEDALGRINCHE_000_121	Parece que todavía no entienden que el caballero es el amo del campo de batalla.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_123	Eso fue mucho más que un "puñado" de dragones, Tedalgrinche. ¿Nos crees ciegos? Sabemos quién está trabajando contra la manufactura; sabemos qué villanía solapada obligó a Joye a casarse...
+TEXT_JOBMCH540_01707_TEDALGRINCHE_000_124	¿Qué insinúas? Hablas como si yo recordara los nombres de tus sirvientes plebeyos, o tuviera el más mínimo interés en sus uniones vulgares. Ahora, si me disculpan, mis señores...
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_129	Te ruego que vayas rápido al Black Iron Bridge.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_130	Maldito sea ese hombre y su arrogancia. Mi prospectómetro y yo nos mantendremos alerta para frustrar los engaños de Tedalgrinche a cada paso.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_131	Pero los honores de este triunfo son para ti, <split(<string(gstr1)>, ,1)>. El puente está despejado y Joye volvió con nosotros.
+TEXT_JOBMCH540_01707_JOYE_000_132	(-Joye-)Tenía miedo de no volver a ver nunca la manufactura. Gracias otra vez por la cálida bienvenida.
+TEXT_JOBMCH540_01707_JOYE_000_133	(-Joye-)Nunca me sentí tan completa como cuando entré en las filas de los machinists.
+TEXT_JOBMCH540_01707_JOYE_000_134	(-Joye-)Cuando tuve que decirle al señorito que renunciaba, sentí que dejaba atrás una parte de mi alma...
+TEXT_JOBMCH540_01707_JOYE_000_135	(-Joye-)Ahí me di cuenta: para mí, ser machinist es más que disparar un arma; es una forma de conectarme con otra parte de mí misma.
+TEXT_JOBMCH540_01707_ROSTNSTHAL_000_136	(-Rostnsthal-)Bueno, ahora que estás "conectada" otra vez, podemos volver a trabajar en tu puntería... y en tus groserías.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_137	Y también está el pequeño asunto de nuestra celebración del torneo, que quedó pendiente.
+TEXT_JOBMCH540_01707_JOYE_000_138	(-Joye-)...Si al señorito le parece bien, preferiría entrenar un poco. Siento la necesidad de disparar unas doscientas balas o algo así...
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_139	Ah, claro, cada uno celebra a su manera. ¡Fuego a discreción, querida! ¡Yo, por mi parte, me muero por un buen trago en la manufactura!
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_140	Una vez más demostraste tu valor ante los machinists y ante la House Haillenarte. En cuanto a Lord Tedalgrinche... tenía mis sospechas, pero ahora parece más que claro que estuvo detrás de cada percance y cada desgracia que sufrió la manufactura.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_141	Pero, pese a su bellaquería, nuestros éxitos en el campo no habrán pasado desapercibidos para la Holy See.
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_142	Y a medida que crezca nuestra reputación, también crecerá la ira de Tedalgrinche. Más vale que estemos en guardia...
+TEXT_JOBMCH540_01707_STEPHANIVIEN_000_143	...Ah, ¿te enteraste? Durante su escaramuza con los dragones, Rostnsthal desarrolló una técnica nueva. Insistió mucho en que te pasara los detalles.
+TEXT_JOBMCH540_01707_SYSTEM_000_144	（★Sin uso／se eliminará★）

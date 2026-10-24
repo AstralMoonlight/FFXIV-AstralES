@@ -1,0 +1,90 @@
+key	text
+TEXT_JOBNIN401_00217_SEQ_00	Oboro está listo para seguir con la operación.
+TEXT_JOBNIN401_00217_SEQ_01	Primero, Oboro quiere ubicarse en lo alto de los tejados, fuera de la vista. Explica que, aunque un shinobi puede cubrir grandes distancias con Shukuchi, la técnica solo funciona bien en terreno parejo. Tsubame se ubicó en un punto de partida ideal. Sigue su ejemplo para llegar al tejado donde espera Oboro y vigila con tus compañeros shinobi hasta que llegue Wolfstan.
+TEXT_JOBNIN401_00217_SEQ_02	Un hombre que Oboro reconoce enseguida como Wolfstan llegó a Camp Bronze Lake. Como el método que propone Oboro no la convence mucho, Tsubame propone otro plan para sacarle la información al objetivo. Baja de los tejados y reúnete en secreto con la kunoichi.
+TEXT_JOBNIN401_00217_SEQ_03	Te reúnes con Tsubame, que le dio un nuevo sentido a eso de "esconderse a plena vista" con ayuda de un disfraz muy revelador. Te da una botella de licor y te pide que se la lleves cuando haya logrado aturdir lo suficiente a Wolfstan.
+TEXT_JOBNIN401_00217_SEQ_04	La operación es un éxito rotundo: Wolfstan no puede contra los encantos de Tsubame, y saliste con información clave para predecir los movimientos de Karasu. Reúnete con Oboro y planeen el siguiente paso.
+TEXT_JOBNIN401_00217_SEQ_05	Oboro celebra el éxito de la operación, aunque se traga el orgullo por no haber podido aportar algo más. Con el destino de Grymuwil, y por lo tanto el de Karasu, ya confirmado, tus compañeros shinobi y tú acuerdan correr a Aleport para golpear primero al enemigo.
+TEXT_JOBNIN401_00217_SEQ_06	Logras burlar las defensas de Karasu, pero el intento de asesinato termina como siempre: tu escurridiza presa se te escapa de entre los dedos. Sin embargo, la derrota más amarga hasta ahora dejó a Oboro más decidido que nunca. Reagrúpense en el almacén del muelle y pregúntale qué harán ahora.
+TEXT_JOBNIN401_00217_SEQ_07	Aunque frustrado por este nuevo fracaso, Oboro está convencido de que, con tus habilidades en aumento, no faltará mucho para que los tres puedan enfrentarse a Karasu de verdad. Decides tomarte a pecho lo vivido y entrenar como nunca antes.<br><br>※La siguiente misión de ninja estará disponible con Oboro al llegar al nivel 45.
+TEXT_JOBNIN401_00217_TODO_00	Vigila desde el tejado.
+TEXT_JOBNIN401_00217_TODO_01	Habla con Tsubame.
+TEXT_JOBNIN401_00217_TODO_02	Sírvele la botella de vino especiado a Wolfstan.
+TEXT_JOBNIN401_00217_TODO_03	Infórmale a Oboro.
+TEXT_JOBNIN401_00217_TODO_04	Vigila en Aleport.
+TEXT_JOBNIN401_00217_TODO_05	Habla con Oboro en el almacén del muelle.
+TEXT_JOBNIN401_00217_OBORO_000_000	¿Supongo que el Shukuchi ya te sale natural? Muy bien. Te esperaré en el tejado, pero te advierto: aunque la técnica te permite cubrir grandes distancias en un abrir y cerrar de ojos, no te permite volar a gusto por el cielo.
+TEXT_JOBNIN401_00217_OBORO_000_001	La cornisa donde está Tsubame queda a la altura del tejado y debería ser un buen punto de partida. Dicho esto, un shinobi siempre tiene recursos: si quieres llegar al tejado de otra forma, también servirá.
+TEXT_JOBNIN401_00217_TSUBAME_000_010	El tejado puede parecer muy lejos, pero si usa su técnica de Shukuchi desde el borde, debería llegar sin problemas.
+TEXT_JOBNIN401_00217_OBORO_000_015	Muy impresionante, <split(<string(gstr1)>, ,1)>: solo un verdadero shinobi podría estar donde estás ahora. En fin, este debería ser un buen punto de observación. Vigilemos hasta que llegue Wolfstan.
+TEXT_JOBNIN401_00217_WOLFSTAN_000_040	¡Nada como un baño caliente, una botella de buen vino y un par de mozas de buen ver para curar lo que te aqueja! ¡Por mí, el Capitán Grymuwil puede tardarse todo lo que quiera!
+TEXT_JOBNIN401_00217_OBORO_000_041	...Wolfstan.
+TEXT_JOBNIN401_00217_OBORO_000_042	Muy bien. Ahora solo tenemos que usar estas cañas de bambú para respirar, sumergirnos y...
+TEXT_JOBNIN401_00217_TSUBAME_000_043	O-Oboro. No dudo que esos métodos nos sirvieron bien en Doma, pero ¿no levantaría sospechas el bambú en estos lugares?
+TEXT_JOBNIN401_00217_OBORO_000_044	¿De verdad lo crees? P-Pero la vigilancia bajo el agua siempre fue mi especialidad...
+TEXT_JOBNIN401_00217_TSUBAME_000_045	Tengo una idea que creo que le va bien tanto a nuestro objetivo como a las costumbres de esta tierra. Solo hará falta un simple cambio de ropa y una o dos botellas de buen licor...
+TEXT_JOBNIN401_00217_TSUBAME_000_046	Necesitaré su ayuda, <split(<string(gstr1)>, ,1)>. Tal como lo veo, ese hombre no podría rechazar una copa de <if(gnum4,una doncella tan seductora,un caballero tan apuesto)> como usted.
+TEXT_JOBNIN401_00217_OBORO_000_047	¡Interesante! ¿Y cuál será, si se puede saber, <italic(1)>mi<italic(0)> papel en todo esto?
+TEXT_JOBNIN401_00217_TSUBAME_000_048	Eh, pensaba que, ah, <italic(1)>sus<italic(0)> talentos serían más útiles <italic(1)>supervisando<italic(0)> la operación. Sí, ah, desde aquí arriba. Para asegurarse de que nada salga mal, claro.
+TEXT_JOBNIN401_00217_TSUBAME_000_049	Ahora tengo que prepararme, <split(<string(gstr1)>, ,1)>. Reúnase conmigo allá abajo, fuera de la vista, y le daré el objeto que servirá para dar el golpe final, por así decirlo.
+TEXT_JOBNIN401_00217_OBORO_000_060	¡No temas, <split(<string(gstr1)>, ,1)>! ¡Estaré vigilando desde aquí, listo para saltar en tu defensa si a ti o a Tsubame les pasa algo!
+TEXT_JOBNIN401_00217_TSUBAME_000_100	¿Lo llevo bien puesto, <split(<string(gstr1)>, ,1)>? No estoy acostumbrada a ropa tan... reveladora.
+TEXT_JOBNIN401_00217_TSUBAME_000_101	En fin, le confío esto. Aunque parezca una simple botella de vino, le hice algunas <italic(1)>mejoras<italic(0)> a la receta.
+TEXT_JOBNIN401_00217_TSUBAME_000_102	Esté de servicio o no, un viejo lobo de mar como Wolfstan seguro que estará en guardia. Empezaré con un vino sin adulterar. Cuando esté lo bastante alegre, esa será su señal para entrar con lo más fuerte.
+TEXT_JOBNIN401_00217_TSUBAME_000_103	Sospecho que, cuando tenga la cabeza lo bastante nublada, le dará un trago con gusto y sin protestar. ¡Ahora, empecemos!
+TEXT_JOBNIN401_00217_TSUBAME_000_120	¡Ay, <italic(1)>mira<italic(0)>, Wolfie, mi amor! ¡<if(gnum4,Esta linda muchacha,Este muchacho fornido)> tiene un <italic(1)>regalito<italic(0)> solo para ti!
+TEXT_JOBNIN401_00217_WOLFSTAN_000_151	¡Buen vino y buenas mozas! ¡<italic(1)>Esto<italic(0)> es lo que tenía en mente cuando me metí a pirata!
+TEXT_JOBNIN401_00217_WOLFSTAN_000_155	¿Y esto qué es? <if(gnum4,¿Vienes a pelearle a tu amiga el cariño de Wolfie? ¡No me opongo!,¿Crees que puedes beber más que Wolfstan Siete Estómagos? ¡O eres una leyenda o eres un tonto!)> ¡Jajá, que alguien me traiga una copa!
+TEXT_JOBNIN401_00217_WOLFSTAN_000_156	Sí, eso es lo... ¡hip!... bueno, aunque un poco más fuerte de lo que... ¡hip!... recordaba. Quizás debería... ¡hip!... descansaaar...
+TEXT_JOBNIN401_00217_TSUBAME_000_157	¡Ay, no seas tan modesto! ¡Si oí que Wolfstan Siete Estómagos una vez dejó tirada a una ballena bebiendo!
+TEXT_JOBNIN401_00217_WOLFSTAN_000_158	¡Jajajá! ¡Claro que podía... ¡hip!... muchachaaa! Mis malditos... ¡hip!... deberes me tuvieron lejos de la botella demasiado tiempo. Me falta práctica, nada más.
+TEXT_JOBNIN401_00217_TSUBAME_000_159	¿Tus <italic(1)>deberes<italic(0)>? ¡Ay, eso suena tan <italic(1)>importante<italic(0)> y <italic(1)>emocionante<italic(0)>! ¡Haría <italic(1)>lo que fuera<italic(0)> por saber más!
+TEXT_JOBNIN401_00217_WOLFSTAN_000_160	¿Dijiste... ¡hip!... <italic(1)>lo que fuera<italic(0)>? ¡Jajajá! Bueno, ¿quizás oíste hablar de los Bloody Executioners? ¡La banda de piratas más brava y sanguinaria que jamás... ¡hip!... surcó los malditos mares!
+TEXT_JOBNIN401_00217_WOLFSTAN_000_161	Creo que nuestro Capitán Grymuwil hundió más barcos garleanos que todos los demás piratas... ¡hip!... juntos. ¿Y quién crees que protege al capitán de todos los enemigos que se hizo? Pues nada menos que su querido compañero... ¡hip!... Wolfstaaan.
+TEXT_JOBNIN401_00217_TSUBAME_000_162	¡Que el Navigator nos ampare! ¿No deberías volver de inmediato con tu capitán? ¡Seguro que no está a salvo sin su hombre más leal y capaz a su lado!
+TEXT_JOBNIN401_00217_WOLFSTAN_000_163	En circunstancias normales, tendrías... ¡hip!... razón, muchacha. Pero hay un lugar adonde ni yo puedo seguirlo: ¡Aleport! Sí, el hombre es endiabladamente <italic(1)>exigente<italic(0)> con su... ¡hip!... grog. Dice que no puede... ¡hip!... concentrarse si no está solooo...
+TEXT_JOBNIN401_00217_WOLFSTAN_000_164	No es que me... ¡hip!... queje. Es el único momento en que tenemos un día de descanso. Pero no te preocupes, muchachitaaa. Nadie sabe dónde está el capitán más que... ¡hip!... yo, ¡y por todos los infiernos que no voy a decir nada! ¡Jajá!
+TEXT_JOBNIN401_00217_WOLFSTAN_000_165	...¿Muchachitaaa? ¿Me estás escuchando?
+TEXT_JOBNIN401_00217_WOLFSTAN_000_166	Qué... ¡hip!... raro. Estaba aquí... ¡hip!... hace un momento... ¡Hip! ¡Hip! Uuurgh...
+TEXT_JOBNIN401_00217_WOLFSTAN_000_170	¿Por dónde se...? ¡Hip! Uuuuurgh...
+TEXT_JOBNIN401_00217_TSUBAME_000_175	Bueno, debo decir que salió todavía mejor de lo que esperaba. Contémosle a Oboro lo que averiguamos. ¿Mi disfraz? Lo guardé... ¡para siempre, con suerte! ¿Es que las mujeres eorzeanas no tienen vergüenza?
+TEXT_JOBNIN401_00217_OBORO_000_200	¿Y bien? ¿Lograste soltarle la lengua a nuestro hombre?
+TEXT_JOBNIN401_00217_OBORO_000_201	...Ya veo. El Capitán Grymuwil va camino a Aleport, y solo, además.
+TEXT_JOBNIN401_00217_OBORO_000_202	Si conozco a Karasu, esto no se le escapó. Sin duda él y sus sombras ya están al acecho.
+TEXT_JOBNIN401_00217_OBORO_000_203	No tenemos mucho tiempo. ¡Apurémonos a Aleport y emboscaremos a los emboscadores!
+TEXT_JOBNIN401_00217_OBORO_000_250	Karasu y sus sombras acechan en alguna parte... Lo siento.
+TEXT_JOBNIN401_00217_OBORO_000_259	Se pone el sol y el puerto se cubre de sombras. Si hubiera un momento perfecto para atacar...
+TEXT_JOBNIN401_00217_OBORO_000_260	...Hablando del rey de Roma. Mira cómo caminan esos hombres: no son marineros comunes.
+TEXT_JOBNIN401_00217_OBORO_000_261	Son shinobi imperiales, esperando para saltar sobre cualquiera que se interponga entre ellos y su presa y degollarlo.
+TEXT_JOBNIN401_00217_OBORO_000_262	Karasu es demasiado orgulloso para confiarles una misión tan importante a sus lacayos. Está aquí en alguna parte, de eso estoy seguro.
+TEXT_JOBNIN401_00217_OBORO_000_263	<split(<string(gstr1)>, ,1)>, tú avanza y registra los muelles. Yo me acercaré desde el otro lado. Tsubame, tú asegura la ruta de escape: esta vez no se nos escapará.
+TEXT_JOBNIN401_00217_TSUBAME_000_264	Cuídese de mantenerse bien <if(gnum4,escondida,escondido)>, <split(<string(gstr1)>, ,1)>, <if(gnum4,oculta,oculto)> a los ojos de las sombras de Karasu. Y aun así, me temo que su tarea será todavía más complicada...
+TEXT_JOBNIN401_00217_TSUBAME_000_265	Porque a Karasu no solo lo sirven hombres, sino también criaturas de la noche. Criaturas que no ven con los ojos, sino con cada fibra de su ser. Manténgase bien lejos de ellas, o todo será en vano.
+TEXT_JOBNIN401_00217_OBORO_000_266	Eso es todo. Hay poco tiempo. ¡Debemos actuar rápido!
+TEXT_JOBNIN401_00217_KARASU_000_290	¡¿Q-Qué es esto?! ¡No, no, <italic(1)>NO<italic(0)>! ¡Así no va la historia! ¡Se supone que soy yo quien <italic(1)>te<italic(0)> sorprende!
+TEXT_JOBNIN401_00217_OBORO_000_291	¡Hoy se invirtieron los papeles, Karasu! ¡Ahora enfrenta tu muerte como el hombre que alguna vez fuiste!
+TEXT_JOBNIN401_00217_KARASU_000_292	Debo decir que la popularidad de verdad tiene sus desventajas. ¡Muy bien! Si tanto quieren cavar sus propias tumbas, ¡aquí tienen la maldita pala!
+TEXT_JOBNIN401_00217_OBORO_000_300	¡Agh! ¡El maldito escurridizo!
+TEXT_JOBNIN401_00217_OBORO_000_301	Estuvimos demasiado cerca como para perder la esperanza. Vamos, Tsubame, <split(<string(gstr1)>, ,1)>. Volvamos a la seguridad del almacén y evaluemos nuestras opciones.
+TEXT_JOBNIN401_00217_GEKKAI_000_302	(-???-)Grymuwil sigue vivo. Un fracaso así... no es propio de ti, Karasu.
+TEXT_JOBNIN401_00217_KARASU_000_303	P-Perdóneme, Maestro. Tuve un reencuentro inesperado con unos amigos. Parece que querían matarme. Y yo que creía que nos llevábamos tan bien...
+TEXT_JOBNIN401_00217_GEKKAI_000_304	(-???-)Tu trabajo es darme respuestas, Karasu, no excusas. No podemos permitir que unas cuantas ratas sueltas arruinen nuestros planes. Si vuelven, mátalos.
+TEXT_JOBNIN401_00217_GEKKAI_000_306	(-???-)Esta es tu última advertencia. La próxima vez que me falles será la última.
+TEXT_JOBNIN401_00217_KARASU_000_307	\<glup> ¿Tiene que decirlo <italic(1)>así<italic(0)>? Está bien, está bien... ¡Que nunca se diga que no soy un soldado leal!
+TEXT_JOBNIN401_00217_TSUBAME_000_310	Otra vez, Karasu se nos escapa. ¿No llegará nunca el día en que podamos volver triunfantes a nuestra aldea?
+TEXT_JOBNIN401_00217_OBORO_000_350	¡Bah! Una vez más, el maldito cuervo logró desbaratar nuestros planes mejor trazados.
+TEXT_JOBNIN401_00217_OBORO_000_351	Es como si sus habilidades crecieran con cada encuentro. ¿Pero cómo es posible? ¿Habrá perfeccionado algún nuevo régimen de entrenamiento desde que llegó a Eorzea?
+TEXT_JOBNIN401_00217_OBORO_000_352	Pero no hay tiempo para lamentar los errores del pasado. Desde tiempos de mis ancestros, fallar en el deber es inaceptable para un shinobi. Mi misión terminará en éxito, con la muerte de Karasu, o en fracaso... con la mía.
+TEXT_JOBNIN401_00217_OBORO_000_353	Pero no todo está perdido. Karasu no es el único que pulió sus habilidades. Luchando a tu lado allá, por momentos sentí como si hubiéramos entrenado juntos desde niños.
+TEXT_JOBNIN401_00217_OBORO_000_354	Mostraste una concentración y una aptitud notables para nuestro arte, pero debes volverte aún más fuerte si queremos tener alguna esperanza de triunfar. Dedícate a tu entrenamiento en cuerpo y mente, y Tsubame y yo haremos lo mismo. Espero tu regreso, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBNIN401_00217_QIB_001_TODO001	¡Usa Hide para pasar entre los guardias y encontrar a Karasu!
+TEXT_JOBNIN401_00217_QIB_001_TODO002	¡Derrota a Karasu!
+TEXT_JOBNIN401_00217_QIB_001_TODO003	¡Acaba con todos los enemigos!
+TEXT_JOBNIN401_00217_QIB_001_KARASU_BATTLETALK_00	Lamento irme, <italic(1)>de verdad<italic(0)> lo lamento, pero hay alguien muy importante a quien tengo que matar.
+TEXT_JOBNIN401_00217_QIB_001_TSUBAME_BATTLETALK_00	¡Esta vez no tendrás escapatoria, perro traidor!
+TEXT_JOBNIN401_00217_QIB_001_KARASU_BATTLETALK_01	Sé que me amas, golondrinita, ¡pero a veces hay que saber dejar ir!
+TEXT_JOBNIN401_00217_QIB_001_OBORO_BATTLETALK_01	Te clavaré mi hoja en el pecho. ¡Reza lo que sepas, demonio!
+TEXT_JOBNIN401_00217_QIB_001_KARASU_BATTLETALK_03	¡Vaya, vaya! Lástima que no se dieran cuenta de que hay más de una... salida...
+TEXT_JOBNIN401_00217_QIB_001_OBORO_BATTLETALK_02	¡Maldición! ¡Lo teníamos justo donde queríamos!
+TEXT_JOBNIN401_00217_QIB_001_OBORO_BATTLETALK_DEAD	Fui demasiado... descuidado...
+TEXT_JOBNIN401_00217_QIB_001_TSUBAME_BATTLETALK_DEAD	Perdóneme, Oboro... He... fallado...

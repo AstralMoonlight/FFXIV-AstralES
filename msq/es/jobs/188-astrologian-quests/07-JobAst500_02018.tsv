@@ -1,0 +1,12 @@
+key	text
+TEXT_JOBAST500_02018_SEQ_00	Jannequinard está a punto de reventar de emoción. Si haces esperar más al vizconde, seguro que algo de su ropa termina cediendo.
+TEXT_JOBAST500_02018_SEQ_01	Jannequinard cree que estás <if(gnum4,lista,listo)> para abrir la puerta del sexto cielo. Pero no le toca a él decidirlo. Habla con Leveva en el segundo piso del Athenaeum Astrologicum y averigua qué opina ella.
+TEXT_JOBAST500_02018_SEQ_02	Resulta que Leveva también cree que estás <if(gnum4,lista,listo)> para abrir la sexta puerta, pero antes de seguir te explica el concepto de sinastría y los beneficios que puede traerles a tus aliados en combate.
+TEXT_JOBAST500_02018_TODO_00	Habla con Leveva en el segundo piso.
+TEXT_JOBAST500_02018_JANNEQUINARD_000_000	Lady Leveva me dice que está casi <if(gnum4,lista,listo)> para abrir la sexta y última puerta. Sí. Dije última. Todos sabemos que hay siete cielos, pero abrir el séptimo es imposible... bueno, salvo al morir, claro. Intentar sintonizarse con la estrella polar sería pura locura y, sin duda, su perdición. Ah, pero mírenme. Incluso ahora intento dar lecciones <if(gnum4,a la gran,al gran)> <split(<string(gstr1)>, ,1)>, cuando es obvio que su talento supera con creces el mío. Perdóneme.
+TEXT_JOBAST500_02018_JANNEQUINARD_000_001	Lady Leveva todavía no partió hacia el lugar de la última puerta. Sin duda teme otro ataque de bandidos, pero sea cual sea el motivo, sigue en el segundo piso y pidió que la visite cuanto antes.
+TEXT_JOBAST500_02018_JANNEQUINARD_000_009	Lady Leveva está en el segundo piso solo porque se niega a aceptar el cuarto que le ofrecí en Durendaire Manor. No es que yo fuera a intentar nada indebido contra su honra. Con apenas la mitad de mis veranos, es demasiado joven para mi gusto.
+TEXT_JOBAST500_02018_LEVEVA_000_010	Has llegado lejos desde aquel día decisivo en que nuestros caminos se cruzaron en el Black Shroud. Y ahora aquí estamos, a punto de que te sintonices con el sexto cielo. El tiempo de verdad no espera a nadie, ¿verdad?
+TEXT_JOBAST500_02018_LEVEVA_000_011	Antes de emprender esta tarea, quiero enseñarte una técnica llamada "sinastría".
+TEXT_JOBAST500_02018_LEVEVA_000_012	Al unir por un tiempo tu destino con el de un compañero, este recibirá el beneficio de las estrellas igual que tú.
+TEXT_JOBAST500_02018_LEVEVA_000_013	Como astrologian aprendiz aceptable, ya tienes suficiente control sobre el aether. Solo debes concentrarlo en crear un vínculo con el aliado que elijas para lograr la sinastría.

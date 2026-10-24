@@ -1,0 +1,74 @@
+key	text
+TEXT_JOBMCH601_02905_SEQ_00	Stephanivien parece encantado de verte.
+TEXT_JOBMCH601_02905_SEQ_01	Stephanivien recibe tu visita a la manufactura con el aire de un hombre asediado por todos lados. Te explica que Hilda pidió que equiparan y entrenaran a la guardia de la ciudad con armas de fuego de machinist, pero el taller, ya tapado de encargos, no tenía a nadie libre... hasta que llegaste tú, claro. Sin perder tiempo en reclutarte como <if(gnum4,instructora,instructor)>, el jefe de los machinists te cuenta que también piensa contar con los servicios del ausente Rostnsthal. Reúnete con Stephanivien en Idyllshire y ayuda a buscar al antiguo maestro de puntería.
+TEXT_JOBMCH601_02905_SEQ_02	Llegas a Idyllshire y encuentras a Stephanivien embelesado por el potencial de tanta tecnología goblin. El distraído machinist por fin se concentra en lo que hay que hacer y te pide que les preguntes a los habitantes del pueblo por alguna pista del paradero de Rostnsthal.
+TEXT_JOBMCH601_02905_SEQ_03	Después de unas cuantas preguntas, te mandan hacia el Hard Place. Entra al establecimiento y busca la mesa de Rostnsthal.
+TEXT_JOBMCH601_02905_SEQ_04	Stephanivien llega al Hard Place justo cuando encuentras a Rostnsthal, y juntos intentan convencer al viejo instructor de los machinists de aceptar un nuevo puesto con la guardia de la ciudad. No del todo convencido, Rostnsthal responde que tomará su decisión después de reunirse con "la muchacha que dirige la guardia". Vuelve a Ishgard y habla con Hilda en la Brume.
+TEXT_JOBMCH601_02905_SEQ_05	Rostnsthal y tú se reúnen con Hilda, y ella explica que la guardia va a integrarse oficialmente a las fuerzas de seguridad de Ishgard. Pero no a todos en Ishgard les agrada la decisión, e Hilda recurrió a los machinists para ayudarla a demostrar el valor de la guardia sin sombra de duda. Tras aceptar el desafío de entrenar en armas de fuego a los inexpertos guardias de la Brume, Rostnsthal propone formar una unidad escogida para impresionar e intimidar a sus detractores. Tu trabajo será evaluar el progreso de los Hounds cuando termine su primer período de entrenamiento...<br><br>※La siguiente misión de machinist estará disponible con Hilda al llegar al nivel 63.
+TEXT_JOBMCH601_02905_TODO_00	Reúnete con Stephanivien en Idyllshire.
+TEXT_JOBMCH601_02905_TODO_01	Habla con los habitantes de Idyllshire.
+TEXT_JOBMCH601_02905_TODO_02	Busca a Rostnsthal.
+TEXT_JOBMCH601_02905_TODO_03	Habla con Hilda en la Brume.
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_000	¡<split(<string(gstr1)>, ,1)>! Qué suerte que hayas elegido este momento para visitarnos. Perdona mi brusquedad, pero ¿conoces la guardia de Ishgard y a los plebeyos que llenan sus filas?
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_001	¿De veras? ¿Ya trabajaste con Hilda? Espléndido, absolutamente espléndido. Entonces hablemos del problema en cuestión.
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_002	Tras el cambio de nuestra hermosa ciudad hacia una forma de gobierno más igualitaria, se habló de armar a la guardia de la ciudad con armas y equipo de machinist, justo el tipo de iniciativa que defiendo desde hace mucho. Y como parte de este plan, me pidieron que proporcionara un instructor competente.
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_003	Pero por mucho que quiera cumplir este pedido de Hilda, me temo que los candidatos adecuados para el puesto escasean de forma lamentable.
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_010	Seguro te enteraste de la liberación de Ala Mhigo, ¿verdad? Bueno, las secuelas de ese pequeño conflicto tienen a la manufactura tapada de encargos de material y de tiradores, y no me sobra ni un solo machinist. Hasta tuve que ceder a Joye, mi indispensable mano derecha, para un despliegue en tierras lejanas.
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_020	Seguro te enteraste de la situación en Ala Mhigo, ¿verdad? Bueno, ese pequeño conflicto tiene a la manufactura tapada de encargos de material y de tiradores, y no me sobra ni un solo machinist. Hasta tuve que ceder a Joye, mi indispensable mano derecha, para un despliegue en tierras lejanas.
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_030	Así que, <split(<string(gstr1)>, ,1)>, entenderás por qué tu presencia hoy aquí me parece un regalo de los dioses. ¿Quién mejor para aceptar este puesto que nuestr<if(gnum4,a,o)> machinist más consumad<if(gnum4,a,o)>?
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_031	Entiendo, claro, que tienes tus propios asuntos que atender y que no puedes pasar cada momento entrenando a la guardia. ¡Por eso pienso repartir tus tareas con nuestro viejo amigo Rostnsthal!
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_032	Además de su amplio conocimiento de las armas de fuego, fue comodoro de los Knights of the Barracuda: esa experiencia debería ser invaluable para los mandos de la guardia. Es la elección natural para acompañarte en esta empresa.
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_033	Por lo que me dijeron, hace poco vieron a nuestro antiguo instructor llegar a Idyllshire. ¡Te ruego que me acompañes, <split(<string(gstr1)>, ,1)>, y me eches una mano para convencer a ese bandido malhablado de volver a Ishgard!
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_034	Me pregunto cómo le habrá ido a Rostnsthal. Quizás hasta esté ansioso por aceptar nuestra propuesta...
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_040	¿¡Ya <italic(1)>viste<italic(0)> este lugar, <split(<string(gstr1)>, ,1)>!? ¡Mi prospectómetro está sencillamente sobrecargado de tanto potencial! ¡Vaya, solo con la tecnología goblin amontonada en la plaza principal podría estar días cacharreando!
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_041	...Ejem, no es que vayamos a estar aquí tanto tiempo. Rostnsthal es un tipo que llama la atención: alguien tiene que haberlo visto. ¿Preguntamos por ahí?
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_042	Disculpe, ¿por casualidad vio por aquí a un Roegadyn grande? Un tipo áspero. Aficionado a los mosquetes y a las groserías.
+TEXT_JOBMCH601_02905_ADVENTURER02905_000_050	¿Le interesaría una visita guiada por...? Ah, ¿solo una pregunta? Sí, vi a un hombre así. De hecho, acaba de pasar por esta calle.
+TEXT_JOBMCH601_02905_YLOISE_000_060	...Ah, un tipo grande con un parche en el ojo, ¿no? Lo vi pasar como vería pasar a cualquier bestia peligrosa. Siga por su camino y lo más probable es que lo encuentre.
+TEXT_JOBMCH601_02905_MIDNIGHTDEW_000_070	...Vi a tu hombre. Entró al Hard Place, todo moreno y misterioso. \<sigh> Casi me dan ganas de seguirlo hasta adentro...
+TEXT_JOBMCH601_02905_ADVENTURER02905_000_080	¿Sigue buscando a ese amigo suyo? Por apenas mil gil, con gusto lo guío... Está bien, está bien, no hace falta que ponga esa cara.
+TEXT_JOBMCH601_02905_YLOISE_000_081	Sí, sí, pasó por aquí. Aunque me imagino que el que usted caza sería un buen cazador.
+TEXT_JOBMCH601_02905_MIDNIGHTDEW_000_082	Como te dije, prueba en el Hard Place: ahí vas a encontrar a tu hombre.<br>...¿Es de los que beben solos, o crees que le gusta la compañía? ¿Por qué pregunto? Ah, por nada...
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_090	Ah, veo que me llevas un paso de ventaja, <split(<string(gstr1)>, ,1)>. Al menos esta vez nuestro querido instructor no fue tan endiabladamente difícil de encontrar, ¿eh?
+TEXT_JOBMCH601_02905_ROSTNSTHAL_000_091	Me pareció oír unas voces conocidas. ¿Y qué los trae a los dos hasta acá? No son solo las ganas de volver a ver esta cara fea, eso seguro.
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_092	Tan perspicaz como siempre, amigo mío. De hecho, venimos con una oferta de trabajo...
+TEXT_JOBMCH601_02905_ROSTNSTHAL_000_093	¿Quieres que vuelva a enseñar a apretar el gatillo? Al diablo con eso. ¿Por qué no lo hace Joye?
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_094	Joye es demasiado humilde para ser una buena instructora, y además está totalmente ocupada con otros asuntos de la manufactura. Y tú tienes bastante experiencia al mando de una compañía militar, si no me equivoco.
+TEXT_JOBMCH601_02905_ROSTNSTHAL_000_095	¿Estás loco o simplemente te olvidaste? Mi pésimo mando de los Barracudas fue lo que arruinó mi reputación en primer lugar. ¿De verdad crees que un hombre como yo sirve para hacerse cargo de entrenar a tu guardia?
+TEXT_JOBMCH601_02905_Q1_000_000	¿Qué le dices?
+TEXT_JOBMCH601_02905_A1_000_001	¡Eres el mejor para el trabajo!
+TEXT_JOBMCH601_02905_A1_000_002	Bueno, si no tienes agallas para eso...
+TEXT_JOBMCH601_02905_ROSTNSTHAL_000_100	...Por todos los diablos, deben de estar desesperados si yo soy lo mejor que tienen. Bueno, si rascas lo bastante, a lo mejor queda algo de acero debajo de todo este óxido.
+TEXT_JOBMCH601_02905_ROSTNSTHAL_000_110	...¿Me estás picando el orgullo, <if(gnum4,muchacha,muchacho)>? Bah, parece que estás empeñad<if(gnum4,a,o)> en no dejar que un viejo pirata se oxide en paz.
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_120	...Entonces, ¿¡esto significa que aceptas!?
+TEXT_JOBMCH601_02905_ROSTNSTHAL_000_121	Arría velas, jefe. Tomaré mi decisión final después de charlar con esa muchacha que dirige la guardia.
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_122	Parece que tenemos que organizar una reunión con Hilda. ¿Te molestaría encargarte de las presentaciones?
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_123	¡Gracias! Ahora sí tengo que volver al taller: ¡me espera una pequeña montaña de munición si voy a cumplir con todos estos encargos! ¡Dejen bien en alto a la manufactura, amigos míos!
+TEXT_JOBMCH601_02905_ROSTNSTHAL_000_124	Uf, y justo cuando me estaba calentando de una maldita vez. Nos vemos en Ishgard, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMCH601_02905_STEPHANIVIEN_000_125	Sabes dónde encontrar a Hilda, ¿verdad? Ojalá pudiera acompañarte, pero, ay, el deber me encadena a mi mesa de trabajo...
+TEXT_JOBMCH601_02905_MUSCADAIN_000_126	<if(gnum4,Campeona,Campeón)>. Aunque estoy seguro de que su asunto es de lo más urgente, debo pedirle que me deje ocuparme primero del mío.
+TEXT_JOBMCH601_02905_SYMME_000_127	Elegiste un buen momento para venir, eso es seguro...
+TEXT_JOBMCH601_02905_EUDESTAND_000_128	Me temo que vas a tener que esperar tu turno. Hilda está ocupada con este...
+TEXT_JOBMCH601_02905_MUSCADAIN_000_130	(-Temple Knight de mirada fría-)¿Quedó claro, o tengo que repetirlo en términos sencillos? Espero muy poco de su chusma plebeya. Si quieren servir a Ishgard, sepan cuál es su lugar... y no se metan en nuestro camino.
+TEXT_JOBMCH601_02905_HILDA_000_131	Desgraciado de sangre azul...<br>¡No movería así la lengua si su jefe estuviera cerca!
+TEXT_JOBMCH601_02905_HILDA_000_132	Y muy buenos días a ti, <split(<string(gstr1)>, ,1)>: un pajarito me dijo que venías en camino. Los muchachos y las muchachas se pusieron muy contentos al saber que iban a aprender a los pies de <if(gnum4,la salvadora,el salvador)> de Ishgard.
+TEXT_JOBMCH601_02905_HILDA_000_133	Y tú debes de ser Rostnsthal, ¿eh? Te lo advierto desde ya: la guardia está muy verde. No están acostumbrados al entrenamiento formal, y vas a tener que exigirles mucho antes de que valgan más que carne de cañón.
+TEXT_JOBMCH601_02905_ROSTNSTHAL_000_134	¿Exigirles mucho, dices? Yo hago las cosas a lo pirata, muchacha. Para la primera campanada los voy a tener meando sangre y llorando por su mamá.
+TEXT_JOBMCH601_02905_HILDA_000_135	¡Eso habrá que verlo! No sé cómo son los callejones de Limsa, pero la Brume no es lugar para florecitas marchitas. ¡Lo que a los míos les falta en habilidad, lo compensan con coraje!
+TEXT_JOBMCH601_02905_ROSTNSTHAL_000_136	¡Ja! ¡Me gustan los desafíos! Ahora cuéntame más sobre cómo encaja esta guardia tuya en las defensas de Ishgard.
+TEXT_JOBMCH601_02905_HILDA_000_140	Bueno, oficialmente volvimos a los brazos de la Eorzean Alliance, ¿no? Y si mandan a los Temple Knights a ocuparse de alguna crisis, las calles se van a quedar algo cortas de soldados.
+TEXT_JOBMCH601_02905_HILDA_000_150	Bueno, oficialmente volvimos a los brazos de la Eorzean Alliance, ¿no? Y como mandaron a buena parte de los Temple Knights a Ala Mhigo, las calles están algo cortas de soldados.
+TEXT_JOBMCH601_02905_HILDA_000_160	Ahí es donde entra la guardia. Hasta ahora fuimos algo así como una operación independiente, pero las casas quieren ponernos en la nómina. Piensan usar nuestros números para tapar los agujeros de las murallas, por así decirlo.
+TEXT_JOBMCH601_02905_SYMME_000_161	¡Y lo mejor es que nos pagan por hacer más de lo que hacíamos gratis! ¡Plata en el bolsillo y comida en la panza! ¡No hay de qué quejarse!
+TEXT_JOBMCH601_02905_EUDESTAND_000_162	Sí, pero el arreglo no le gusta a todo el mundo. Hay inquisidores y nobles que buscan hacernos tropezar a cada paso. No les hace ninguna gracia la idea de que los plebeyos estén armados y organizados.
+TEXT_JOBMCH601_02905_HILDA_000_163	Hmph. Creo que la única forma de callar a esos desgraciados es convencer a todos los demás de que vale la pena conservar la guardia. Pero si queremos demostrar lo que valemos, necesitamos equipo y entrenamiento como corresponde.
+TEXT_JOBMCH601_02905_HILDA_000_164	Por eso tomé casi todo el dinero que nos dieron y fui a rogarle a Lord Haillenarte. Ahora tenemos armas de fuego, y dos tipos listos para enseñarnos a usarlas.
+TEXT_JOBMCH601_02905_ROSTNSTHAL_000_165	...Sí, ya oí suficiente. No puedes proteger como se debe a gente que no reconoce tu autoridad. Hagan lo que dice el viejo Rostnsthal y pronto les enseñaremos a esos desgraciados a respetarlos.
+TEXT_JOBMCH601_02905_ROSTNSTHAL_000_166	Esto es lo primero que vamos a hacer. Reúne una cuadrilla con tus mejores muchachos y muchachas y ponles un nombre, uno que haga que esos criticones se enderecen y presten atención.
+TEXT_JOBMCH601_02905_HILDA_000_167	¿Qué, quieres decir una compañía de élite como los Dragoons o la Heavens' Ward? Creo que un buen nombre podría impresionar a algunos de los nobles, pero que me lleve el diablo si se me ocurre alguno...
+TEXT_JOBMCH601_02905_ROSTNSTHAL_000_168	Hmmm, bueno, veamos...<br>¿Qué tal 'ilda's 'ounds?
+TEXT_JOBMCH601_02905_HILDA_000_169	...Ah, ¿quieres decir "Hilda's Hounds"?<br>¡Bueno, me gusta cómo suena! ¿Qué dicen, muchachos?
+TEXT_JOBMCH601_02905_ROSTNSTHAL_000_170	En cuanto escojan una cuadrilla para los Hounds, empiezo a enseñarles lo básico. Y después de que hayan tenido la oportunidad de distinguir el cañón de la culata, puedes volver a poner a prueba sus habilidades. ¿Te parece un reparto justo del trabajo?
+TEXT_JOBMCH601_02905_ROSTNSTHAL_000_172	Bien, entonces. Los voy a poner en forma antes de que te des cuenta. A ver qué tan duros son en verdad estos desgraciados nacidos en la Brume...
+TEXT_JOBMCH601_02905_SYSTEM_000_900	La siguiente misión de machinist estará disponible con Hilda al llegar al nivel 63.
+TEXT_JOBMCH601_02905_SYSTEM_000_901	Puedes revisar en el journal los requisitos para empezar las siguientes misiones.

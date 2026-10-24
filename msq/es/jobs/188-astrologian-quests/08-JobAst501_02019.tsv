@@ -1,0 +1,89 @@
+key	text
+TEXT_JOBAST501_02019_SEQ_00	Leveva parece ansiosa. Quizá te convenga no hacerla esperar más.
+TEXT_JOBAST501_02019_SEQ_01	Leveva cree que estás <if(gnum4,lista,listo)> para abrir la sexta y última puerta de los cielos. Avísale a Jannequinard que partirás pronto.
+TEXT_JOBAST501_02019_SEQ_02	Jannequinard, en una rara muestra de entusiasmo, decidió acompañarte a Camp Dragonhead. Viaja al campamento ishgardiano y reúnete con Leveva y Quimperain, que ya partieron.
+TEXT_JOBAST501_02019_SEQ_03	Cuando acusan a Leveva de atacar a la astrologian que los tres rescataron hace poco en Rathefrost, ella se entrega sin resistirse a los Temple Knights para que la interroguen. Pero pronto se descubre que los caballeros son impostores encargados de llevar a Leveva ante un thaumaturge sharlayano que la espera para escoltarla de vuelta al Viejo Mundo. Sin perder tiempo, Quimperain, tú y, aunque cueste creerlo, Jannequinard unen fuerzas para derrotar a los secuestradores de Leveva, y luego encuentran una misiva en el cuerpo del mago sharlayano. Habla con Leveva para decidir qué hacer.
+TEXT_JOBAST501_02019_SEQ_04	Abriste la puerta del cielo del hielo y te sintonizaste con el Spear. Habla con Jannequinard y averigua qué piensa de la misiva.
+TEXT_JOBAST501_02019_SEQ_05	La misiva resulta ser la orden del ataque que sufrieron, firmada nada menos que por Forlemort. Jannequinard sugiere enfrentar al jefe de los astrologians en el astroscopio del Observatorium.
+TEXT_JOBAST501_02019_SEQ_06	Forlemort acepta que, a cambio de su silencio sobre la misiva, no volverá a entrometerse en los esfuerzos de Leveva y Jannequinard por difundir la astrología sharlayana en Ishgard. Por ahora, eres libre de dar tus primeros pasos como astrologian en plena sintonía con los cielos.
+TEXT_JOBAST501_02019_TODO_00	Habla con Jannequinard.
+TEXT_JOBAST501_02019_TODO_01	Habla con Leveva en Camp Dragonhead.
+TEXT_JOBAST501_02019_TODO_02	Habla con Leveva.
+TEXT_JOBAST501_02019_TODO_03	Llévale la misiva a Jannequinard.
+TEXT_JOBAST501_02019_TODO_04	Espera a Forlemort en el astroscopio del Observatorium.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_000	¿Ya habló con Lady Leveva? Dijo que l<if(gnum4,a,o)> esperaría en el segundo piso, pero no es de las que se dejan encerrar fácilmente, y temo que no tardará en suspirar por volver al campo con Quimperain a esquivar los golpes de bandidos misteriosos.
+TEXT_JOBAST501_02019_LEVEVA_000_000	Creo que estás <if(gnum4,lista,listo)> para sintonizarte con la última constelación. El lugar de la próxima lección en realidad no queda lejos. ¿Supongo que tus viajes te llevaron a Camp Dragonhead? Excelente.
+TEXT_JOBAST501_02019_LEVEVA_000_001	Yo, como siempre, me adelantaré para hacer las últimas lecturas. Si nuestras salidas anteriores sirven de indicio, los bandidos que nos acosan sin duda aprovecharán esta oportunidad, así que le pediré a Quimperain que explore la zona con tiempo y avise de cualquier actividad sospechosa a los caballeros de la guarnición del campamento. Que otro se manche las manos de sangre, para variar. Puedes contarle nuestros planes a Jannequinard, aunque no dudo que ya tiene los suyos.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_010	¿Lady Leveva ya partió? Entonces debe de haber saltado por la ventana, porque no la vi salir por la puerta. Me atrevo a decir que eso significa que viajaremos solos. ¿Hm? ¡Claro que iré! ¿Por qué no habría de ir?
+TEXT_JOBAST501_02019_JANNEQUINARD_000_019	Camp Dragonhead queda apenas a unos malms al sureste de las Gates of Judgement. El viaje no debería tomar nada de tiempo. En cuanto a los bandidos, no hay por qué temer un asalto. El campamento tiene una guarnición completa de caballeros que patrullan las colinas día y noche. No dejarán que le caiga un copo de nieve en la cabeza a Lady Leveva... menos aún un martillo de guerra de treinta ponzes.
+TEXT_JOBAST501_02019_LEVEVA_000_020	<split(<string(gstr1)>, ,1)>... ¿y Jannequinard? Vaya... Al parecer, eh, regalarle mi mapa de constelaciones a esa astrologian de Rathefrost no fue prudente, porque mis lecturas para el lugar del sexto cielo resultaron un poco erradas. Pero un segundo cálculo muestra que estamos cerca. El lugar ideal está justo al norte de aquí, en una torre abandonada llamada el Steel Vigil.
+TEXT_JOBAST501_02019_KNIGHT02019_000_021	Usted. Tiene aspecto de persona instruida. ¿Puedo preguntarle si ha visto antes este mapa estelar? Lo llevaba encima una astrologian que vino a pedirnos ayuda después de que la atacaran.
+TEXT_JOBAST501_02019_LEVEVA_000_022	Ese es mi mapa, el que le regalé a la astrologian de Rathefrost. ¿Me está diciendo que la volvieron a atacar?
+TEXT_JOBAST501_02019_KNIGHT02019_000_023	¿<italic(1)>Su<italic(0)> mapa? Pues entonces tendré que pedirle que me acompañe para un interrogatorio. La astrologian asegura que le arrebató esta carta a uno de sus atacantes antes de escapar.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_024	¡Lady Leveva! ¿¡Por qué atacaría a la misma mujer que arriesgó la vida por salvar!?
+TEXT_JOBAST501_02019_QUIMPERAIN_000_025	¡Porque no lo hizo, mi señor! ¿Cómo puede siquiera pensar algo tan absurdo? Esto debe de ser algún malentendido. Yo estuve en el ataque. Salvamos a la joven de la que habla de un grupo de bandidos, y Lady Leveva le dio su propio mapa de constelaciones para reemplazar el que dañaron sus atacantes. <if(gnum4,Mi señora,Mi señor)> <split(<string(gstr1)>, ,1)>, aquí presente, también fue testigo de todo esto.
+TEXT_JOBAST501_02019_KNIGHT02019_000_026	Pues nosotros tenemos nuestros propios testigos que dicen otra cosa. Así que, hasta que haya un juicio y un juez que dicte sentencia, esta Leveva tendrá que venir a declarar, porque ella misma admitió que el mapa es suyo.
+TEXT_JOBAST501_02019_LEVEVA_000_027	Está bien. No tengo nada que esconder, y discutir aquí no nos acercará a la verdad. De hecho, quiero enfrentar a esa mujer que levanta falsas acusaciones contra quienes le salvaron la vida.
+TEXT_JOBAST501_02019_LEVEVA_000_028	Muy bien, entonces. Llévenme adonde quieran. Responderé todas sus preguntas, y pronto sabrán quién dice mentiras. Amigos míos, no se preocupen demasiado: estaré en compañía de los Temple Knights, donde nada malo puede pasarme. Volveré cuando haya probado mi inocencia.
+TEXT_JOBAST501_02019_QUIMPERAIN_000_029	¡Nada malo, dice! Ese "caballero" era la misma astrologian que salvamos en Mor Dhona. ¡La astrologian que ahora asegura que <italic(1)>nosotros<italic(0)> la atacamos a <italic(1)>ella<italic(0)>!
+TEXT_JOBAST501_02019_JANNEQUINARD_000_030	¿¡Quieres decir que la astrologian era una Temple Knight!?
+TEXT_JOBAST501_02019_QUIMPERAIN_000_031	¡No! Escúcheme... ¡<italic(1)>mi señor<italic(0)>! Digo que la astrologian es tan astrologian como caballero. ¡Digo que nos engañaron! ¡Caímos en una treta que dejó a Lady Leveva en manos de los que intentan matarla desde que pisó Eorzea!
+TEXT_JOBAST501_02019_JANNEQUINARD_000_032	Entonces... Quieres decir que <italic(1)>no<italic(0)> estará a salvo con esos Temple Knights.
+TEXT_JOBAST501_02019_QUIMPERAIN_000_033	Eso es... grrr... Esos <italic(1)>no<italic(0)> eran Temple Knights, <italic(1)>mi señor<italic(0)>. Pero llevaban los colores de Our Knights Most Heavenly, y si los atacáramos tan cerca de Camp Dragonhead, con toda su guarnición, nos llenarían de flechas antes de que alguien preguntara por qué sacamos las espadas. No, debemos seguir de cerca a los captores de Lady Leveva y esperar la oportunidad de recuperarla.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_034	¡Qué emocionante! ¿Puedo ir adelante? ¿No? Claro que no.
+TEXT_JOBAST501_02019_QIB_001_TODO_1	Sigue a los falsos Temple Knights.
+TEXT_JOBAST501_02019_QIB_001_TODO_2	Mata a los falsos Temple Knights que se alejen sin llamar la atención.
+TEXT_JOBAST501_02019_QIB_001_TODO_3	Mata a los atacantes sharlayanos.
+TEXT_JOBAST501_02019_QIB_001_TODO_4	Recoge la misiva.
+TEXT_JOBAST501_02019_QIB_JANNEQUINARD_BATTLETALK_01	¡Sí, ejem! ¡Yo digo que mantengamos la distancia hasta que se presente la oportunidad de rescatar a Lady Leveva!
+TEXT_JOBAST501_02019_QIB_QUIMPERAIN_BATTLETALK_01	(¡Y <italic(1)>yo<italic(0)> digo que eso es lo que <italic(1)>yo<italic(0)> he estado diciendo todo el tiempo! Ahora, ¿podría bajar la voz, mi señor? Si no, dará igual lo bien que nos escondamos.)
+TEXT_JOBAST501_02019_QIB_QUIMPERAIN_BATTLETALK_02	(Nuestra falsa astrologian se separó del grupo para encargarse de esos ogros. ¡Tomémosla por sorpresa!)
+TEXT_JOBAST501_02019_QIB_JANNEQUINARD_BATTLETALK_02	(Muy bien. <split(<string(gstr1)>, ,1)>, puede seguirnos.)
+TEXT_JOBAST501_02019_QIB_QUIMPERAIN_BATTLETALK_03	(Es lo que pensaba. Esta mujer es la misma a la que ayudamos en Mor Dhona, y no creo que trabajara sola. Debemos seguir persiguiéndolos.)
+TEXT_JOBAST501_02019_QIB_JANNEQUINARD_BATTLETALK_03	(Por suerte para nosotros, van a pie. Si llegaran a, digamos, una aeronave, no tendríamos forma de seguirl... Ah, ¿es una aeronave lo que oigo?)
+TEXT_JOBAST501_02019_QIB_THAUMATURGE02019_BATTLETALK_01	¡Quiero a Leveva, y la quiero viva! Maten a los demás y dejen sus cadáveres a los lobos.
+TEXT_JOBAST501_02019_QIB_LEVEVA_BATTLETALK_01	No voy a volver a Sharlayan. ¡Quimperain!
+TEXT_JOBAST501_02019_QIB_QUIMPERAIN_BATTLETALK_05	¡Como ordene, mi señora!
+TEXT_JOBAST501_02019_QIB_JANNEQUINARD_BATTLETALK_05	¡La situación es grave, <split(<string(gstr1)>, ,1)>! ¡No podemos dejar que se lleven a Lady Leveva!
+TEXT_JOBAST501_02019_QIB_QUIMPERAIN_BATTLETALK_DEAD	Hice todo lo que pude... Parece que no bastó...
+TEXT_JOBAST501_02019_QIB_JANNEQUINARD_BATTLETALK_DEAD	Lo siento, padre...
+TEXT_JOBAST501_02019_QIB_LEVEVA_BATTLETALK_DEAD	¡<split(<string(gstr1)>, ,1)>! A mí no me matarán... pero a ti sí. ¡No puedes rendirte!
+TEXT_JOBAST501_02019_LEVEVA_000_050	Justo como esperaba. Estos necios me trajeron directo a las respuestas que busco desde que llegué a esta tierra perdida. Y, si no me equivoco, mis leales compañeros deberían llegar justo... ahora...
+TEXT_JOBAST501_02019_LEVEVA_000_051	¡Ahora!<br>¡Esto me lo llevo yo!
+TEXT_JOBAST501_02019_JANNEQUINARD_000_052	¡En cuanto despeguen en esa aeronave, todo el país sabrá que no son verdaderos Temple Knights y tendrán que responder por sus crímenes!
+TEXT_JOBAST501_02019_JANNEQUINARD_000_053	(-Thaumaturge del Viejo Mundo-)¡Una vez en el aire, dará igual lo que sepa cualquiera, necio! ¡No vamos a volver cuando los hayamos matado a ti y a tus amigos!
+TEXT_JOBAST501_02019_LEVEVA_000_054	Nadie se interpondrá en mi destino. ¡Y menos un lacayo del Forum!
+TEXT_JOBAST501_02019_QUIMPERAIN_000_060	Por favor, <if(gnum4,mi señora,mi señor)>. Deme un momento para recomponerme.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_060	No creo que a Lady Leveva le moleste que echemos un vistazo a esa misiva, ¿verdad? No, tiene razón. Lo más probable es que sí.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_059	Bandidos disfrazados de astrologians disfrazados de Temple Knights que trabajan para sharlayanos malvados... Espero que ustedes sepan qué está pasando, porque yo estoy completamente desconcertado.
+TEXT_JOBAST501_02019_LEVEVA_000_060	Claro que sabía que los Temple Knights eran falsos. Reconocí casi de inmediato a la astrologian que salvamos, y me ofende que creyeran que no lo haría. También sabía que, si les seguía el juego, me llevarían a los verdaderos culpables, segura de que ustedes tres, tan leales, me seguirían.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_061	Y me alegra que también <italic(1)>supiera<italic(0)> que de algún modo saldríamos con vida de ese pequeño forcejeo, porque yo no lo tuve claro durante casi todo el viaje.
+TEXT_JOBAST501_02019_LEVEVA_000_062	Bueno, yo estaba segura de que <split(<string(gstr1)>, ,1)> lo lograría, porque las estrellas ya me habían dicho que <if(gnum4,ella,él)> abriría la sexta puerta aquí, en el Steel Vigil, justo el lugar al que llegamos pese a ese contratiempo inesperado. Tu destino, Jannequinard... Bueno, nunca me molesté en leerlo, ¡porque creí que te saltarías esta lección como todas las demás!
+TEXT_JOBAST501_02019_LEVEVA_000_070	<split(<string(gstr1)>, ,1)>. Contempla el cielo nocturno y abre tu alma a la última constelación: ¡el Spear!
+TEXT_JOBAST501_02019_LEVEVA_000_071	El Spear es la puerta del sexto cielo, donde la Fury habita en un palacio de hielo tallado con Su propia lanza, hielo hecho de rayos de luna que juntó la Lover, Menphina.
+TEXT_JOBAST501_02019_LEVEVA_000_072	El Spear nos llena no solo del poder para vencer a nuestros enemigos, sino también de la compasión necesaria para tener piedad de esos mismos enemigos.
+TEXT_JOBAST501_02019_LEVEVA_000_073	Y ahora ese poder es tuyo, para dirigirlo a quienes lo necesiten según su destino.
+TEXT_JOBAST501_02019_LEVEVA_000_074	Está hecho. Te sintonizaste con los seis cielos inferiores. Y ahora que conoces su fuerza, empieza el verdadero viaje.
+TEXT_JOBAST501_02019_LEVEVA_000_080	Como dije desde el principio. Las estrellas, los cielos, los arcanos: conocen nuestro destino, pero son caprichosos con lo que cuentan. Nos toca a nosotros arrancárselo del corazón y usarlo de un modo que beneficie a toda la humanidad.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_080	L<if(gnum4,a,o)> felicito, <split(<string(gstr1)>, ,1)>. Lo que a mí me llevó más de quince veranos lograr, usted lo hizo... y más, en cuestión de meses. Pero nuestro tiempo juntos me enseñó que, aunque creamos otra cosa, todos tenemos nuestro papel, y cada papel es tan importante como los demás. Si no los hubiera tomado bajo mi ala a Quimperain y a usted, nunca habrían salvado a Leveva de sus atacantes... lo que significa que, en cierto modo, yo salvé a Lady Leveva. No es que yo vaya a llevarme <italic(1)>todo<italic(0)> el mérito de semejante heroísmo.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_081	Tampoco me llevaré el mérito de esta misiva, que nunca se habría descubierto si no los hubiera tomado a usted y a Quimperain bajo mi al... Ah, esa mirada fría. Le queda bien a este lugar dejado de los dioses. Entendido. Rompamos el sello y veamos qué... Pero... Esta letra... La he visto muchas veces. Es la de mi tío. Pero eso significaría...
+TEXT_JOBAST501_02019_QUIMPERAIN_000_082	¡Significaría que el astrologian de más alto rango de toda Ishgard intentó asesinarnos! ¡Si el Tribunal se enterara, lo ahorcarían!
+TEXT_JOBAST501_02019_LEVEVA_000_083	Y un ahorcamiento solo nos traería otro astrologian ortodoxo malhumorado que se niega a abrir los ojos a las ventajas de nuestra disciplina. No. Podemos usar esta misiva a nuestro favor. Mientras esté en nuestras manos, también lo estará el jefe de los astrologians.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_084	¿¡Sugiere que usemos la misiva para chantajear a Forlemort!?
+TEXT_JOBAST501_02019_LEVEVA_000_085	Lo que <italic(1)>sugiero<italic(0)> es que simplemente le perdonemos la vida al jefe de los astrologians a cambio de una pequeña ayuda para promover nuestra causa justa y noble. Ni más ni menos.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_086	Ya veo... Es usted toda una diablilla, querida. Muy bien. Citaré a mi tío en el astroscopio. Allí podremos presentarle nuestra oferta.
+TEXT_JOBAST501_02019_FORLEMORT_000_089	¿<if(gnum4,La recadera,El recadero)> de Jannequinard? Pero ¿cómo es que sigues...? Digo, no tengo tiempo para charlas. ¿No ves que soy un hombre ocupado?
+TEXT_JOBAST501_02019_FORLEMORT_000_090	¿Por qué insistes en molestarme, Jannequinard? Ya te di tu carta, ¡ahora déjame en paz!
+TEXT_JOBAST501_02019_LEVEVA_000_091	Ah, pero esa no es la única carta que ha escrito últimamente, ¿verdad?
+TEXT_JOBAST501_02019_LEVEVA_000_092	¿Quizá recuerde cierta carta al Forum?
+TEXT_JOBAST501_02019_JANNEQUINARD_000_093	Una carta que traía un grupo de personajes de dudosa reputación que intentaron secuestrar a Lady Leveva y entregarla a unos sharlayanos, por no hablar de matarme a mí, a mi criado y a <if(gnum4,mi buena amiga,mi buen amigo)> <split(<string(gstr1)>, ,1)>, que, por si lo olvidó, es en este momento huésped de honor de la House Fortemps.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_094	Una carta redactada y firmada nada menos que por usted, tío.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_095	Oh, pero no nos malinterprete. No queremos ni su deshonra ni su muerte. Al menos no por nuestra mano.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_096	De hecho, le pedimos muy poco. Nada, podría decirse, en el sentido de que nunca más use su influencia para estorbar nuestros esfuerzos por difundir la astrología sharlayana aquí en Ishgard. No se meta más en mis asuntos ni en los de mis invitados, y su secreto estará a salvo. Hasta le perdonaré que haya intentado mandarme a asesinar. Siempre, claro, que me dé su palabra.
+TEXT_JOBAST501_02019_FORLEMORT_000_097	No es que me hayas dejado mucha opción. Tienes mi palabra, pero sabe que callarme no hará que tus tonterías sean mejor recibidas en el Vault. Hay otros que quieren verte caer. Otros a los que poco les importa si yo digo lo mío o no.
+TEXT_JOBAST501_02019_LEVEVA_000_098	Sabemos muy bien las cumbres que nos quedan por escalar.
+TEXT_JOBAST501_02019_LEVEVA_000_099	Pero no dejaremos que eso nos desanime. Se me mostró un camino que pienso recorrer entero, y las estrellas guiarán mis pasos.
+TEXT_JOBAST501_02019_FORLEMORT_000_100	Las estrellas anuncian muchas cosas, querida. Y ni los mejores lectores pueden verlas todas. No lo olvides.
+TEXT_JOBAST501_02019_JANNEQUINARD_000_101	Así que lo silenciamos... pero, según él, <italic(1)>él<italic(0)> era la menor de nuestras preocupaciones.
+TEXT_JOBAST501_02019_LEVEVA_000_102	（★未使用／削除予定★）
+TEXT_JOBAST501_02019_LEVEVA_000_103	（★未使用／削除予定★）

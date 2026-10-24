@@ -1,0 +1,135 @@
+key	text
+TEXT_JOBMCH700_02909_SEQ_00	Hilda tiene un mensaje de la manufactura.
+TEXT_JOBMCH700_02909_SEQ_01	Hilda te informa que Stephanivien terminó de examinar Hrunting. Ve a la manufactura y averigua qué descubrió el jefe de los machinists.
+TEXT_JOBMCH700_02909_SEQ_02	Stephanivien revela que alteraron la empuñadura de la espada sagrada para esconder una pequeña bomba de entrenamiento. Aunque no es muy letal, la explosión bastaría para interrumpir la ceremonia y poner en duda la autoridad de ser Aymeric y la competencia de los Hounds. El jefe de los machinists también menciona que circulan rumores maliciosos cuyo propósito parece ser desacreditar a la guardia y así frenar la iniciativa de armar a los plebeyos de Ishgard.<br><br>Para aprovechar al máximo esta oportunidad, Muscadain propone un plan para atrapar a los culpables con las manos en la masa. Vuelve a la Brume y habla con Hilda sobre tu papel en esta operación.
+TEXT_JOBMCH700_02909_SEQ_03	Hilda explica la estrategia, y te unes a Stephanivien y a los demás en el Saint Valeroyant's Forum. Tras unos momentos tensos, el aparato del jefe de los machinists localiza una señal en la Brume, y sales a enfrentar a los instigadores de este complot solapado.<br><br>Encuentras a una noble con el detonador, pero ella y sus aliados se resisten a someterse a la autoridad de los Hounds. Empieza la batalla y, con el apoyo de ser Muscadain, terminas por vencer a la baronesa Melisie.
+TEXT_JOBMCH700_02909_SEQ_04	El éxito de la operación parece haber hecho nacer cierto respeto mutuo entre Hilda y ser Muscadain. Pero la despedida del Temple Knight trae una revelación inesperada: parece que los dos son hermanos. Tras reconocer a su hermano, y el papel que tuvo Stephanivien en su madurez, Hilda está ansiosa por volver otra vez a la Brume.
+TEXT_JOBMCH700_02909_SEQ_05	Rostnsthal considera que los Hounds ya pueden cumplir sus deberes sin más instrucción y se despide de Ishgard. Hilda te agradece todo lo que hiciste, y su confianza no te deja ninguna duda de que la guardia se ganará honores todavía mayores en los días por venir.<br><br>※La siguiente misión de machinist estará disponible con Stephanivien cuando cumplas estos requisitos:<br>※Haber completado la misión del escenario principal "Shadowbringers".<br>※Haber completado la misión de rol "Courage Born of Fear".
+TEXT_JOBMCH700_02909_TODO_00	Habla con Stephanivien.
+TEXT_JOBMCH700_02909_TODO_01	Habla con Hilda.
+TEXT_JOBMCH700_02909_TODO_02	Habla con Hilda.
+TEXT_JOBMCH700_02909_TODO_03	Habla con Hilda.
+TEXT_JOBMCH700_02909_ROSTNSTHAL_999_000	Me contraté para enseñarles a disparar a las ratas de la Brume, y lo siguiente que sé es que estoy metido en la porquería hasta el cuello. Más me vale que me paguen un extra por este trabajo de investigación...
+TEXT_JOBMCH700_02909_HILDA_000_000	Acaba de llegar un mensajero de la manufactura: parece que terminaron de revisar la espada.
+TEXT_JOBMCH700_02909_HILDA_000_001	Vamos para allá a oír lo que tiene que decir Lord Stephanivien.
+TEXT_JOBMCH700_02909_SYMME_000_002	Ya casi es la hora de la ceremonia. Me pregunto si esos aspirantes a caballero estarán nerviosos...
+TEXT_JOBMCH700_02909_EUDESTAND_000_010	No importa lo que le hayan hecho a esa espada. Los Hounds tienen un trabajo que hacer, y lo vamos a hacer, maldita sea.
+TEXT_JOBMCH700_02909_HILDA_000_011	¿List<if(gnum4,a,o)> para ir, <split(<string(gstr1)>, ,1)>? Lord Stephanivien nos estará esperando.
+TEXT_JOBMCH700_02909_ROSTNSTHAL_000_012	Se viene una tormenta...<br>Hora de echar las redes a ver qué pescamos.
+TEXT_JOBMCH700_02909_MUSCADAIN_000_020	Parece que están presentes todos los interesados. ¿Si es tan amable, Lord Stephanivien?
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_021	Muy bien. Iré directo al grano: descubrí una pequeña bomba escondida dentro de la empuñadura de la espada.
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_022	Este explosivo en particular era parte de un lote destinado al entrenamiento de los Temple Knights, y está diseñado para detonarse a distancia. No los aburriré con los detalles, pero les aseguro que conozco muy bien sus capacidades: después de todo, fui yo quien lo fabricó.
+TEXT_JOBMCH700_02909_HILDA_000_023	Por todos los diablos...<br>Alguien se tomó muchas molestias para colar esa bomba en la ceremonia. ¿Un intento de asesinato?
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_024	Poco probable. Como dije, estas bombas se diseñaron para ejercicios de entrenamiento: aunque estuvieras agarrando la empuñadura cuando explotara, ni siquiera perderías un dedo. Unas quemaduras feas, como mucho.
+TEXT_JOBMCH700_02909_MUSCADAIN_000_025	Eso sería más que suficiente. Si la espada sagrada cayera durante las investiduras, muchos entre el público lo interpretarían como una señal de la Fury. La autoridad del Lord Commander quedaría en duda, y la responsabilidad del incidente caería de lleno sobre los Hounds.
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_026	Ah, así que alguien quiere desacreditar a la guardia sin remedio. Eso explicaría los rumores ridículos que circulan ahora entre los señores y las damas...
+TEXT_JOBMCH700_02909_HILDA_000_027	¿Rumores? ¿Qué rumores?
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_028	Pues que el robo y la recuperación de Hrunting fueron orquestados por completo por la propia guardia. Algunos de los nobles más impresionables están convencidos de que ustedes armaron a unos bandidos con armas de fuego, les dijeron que robaran la espada y después los atraparon para ganar prestigio.
+TEXT_JOBMCH700_02909_ROSTNSTHAL_000_029	Entonces el ambiente ya está agrio y a punto de hervir. ¡Si encima explotara la espada, sería como echarle aceite al fuego! ¡Al diablo la razón: serían las cabezas de la guardia las que rodarían!
+TEXT_JOBMCH700_02909_MUSCADAIN_000_030	¿Quién pudo haber iniciado los chismes detrás de estas acusaciones sin fundamento? Ordené que los hechos en torno al robo de Hrunting se mantuvieran en la más estricta confidencialidad...
+TEXT_JOBMCH700_02909_Q1_000_000	¿Quién empezó los rumores?
+TEXT_JOBMCH700_02909_A1_000_001	La mujer que organizó el robo.
+TEXT_JOBMCH700_02909_A1_000_002	Un Temple Knight traidor.
+TEXT_JOBMCH700_02909_HILDA_000_040	Ah, bueno, ella sabría todo al respecto, ¿no?
+TEXT_JOBMCH700_02909_HILDA_000_050	Es una posibilidad, te lo concedo. Pero yo me inclino más a echarle la culpa a esa clienta que empezó todo el lío.
+TEXT_JOBMCH700_02909_MUSCADAIN_000_060	Sospecho que esa villana le teme a la amenaza contra el orden establecido, y la notoriedad de los Hounds los convirtió en un blanco. Un golpe contra ustedes es un golpe contra la idea de que <italic(1)>cualquier<italic(0)> plebeyo tenga el poder de un arma de fuego...
+TEXT_JOBMCH700_02909_HILDA_000_061	Me halaga saber que nos volvimos tan importantes, pero acorraló a la jauría equivocada. Ahora nos toca a nosotros salir de cacería.
+TEXT_JOBMCH700_02909_ROSTNSTHAL_000_062	Vamos tras el cerebro, ¿eh? Estoy a favor de un poco de revancha, pero vamos a necesitar una descripción mejor que "mujerzuela demasiado maquillada".
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_063	¡Por suerte, esta vez mi prospectómetro y yo les llevamos un paso de ventaja! En cuanto descubrí la bomba, me puse a fabricar un aparato que nos ayude a ubicar con precisión su detonador.
+TEXT_JOBMCH700_02909_MUSCADAIN_000_064	...Y así nos lleve directo a quien lo tenga. Propongo que simplemente sigamos con la ceremonia como estaba planeada y atrapemos a ese necio con las manos en la masa.
+TEXT_JOBMCH700_02909_HILDA_000_065	No es mal plan, siempre que estemos preparados para los cómplices que pueda tener escondidos con ella.
+TEXT_JOBMCH700_02909_MUSCADAIN_000_066	La ceremonia está por empezar. Preparémonos para la tarea que nos espera.
+TEXT_JOBMCH700_02909_HILDA_000_067	Vamos a organizar nuestra estrategia y después volvemos a la Brume. Nos vemos allá cuando estés <if(gnum4,lista,listo)>, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMCH700_02909_SYMME_000_068	No te preocupes por la seguridad de la ceremonia: para eso estuvimos entrenando. ¡Les vamos a mostrar a esos sangre azul lo lejos que llegamos!
+TEXT_JOBMCH700_02909_EUDESTAND_000_069	Ve a encargarte de esos desgraciados que intentaron incriminarnos. Ah, y de paso vigila a Hilda, ¿eh?
+TEXT_JOBMCH700_02909_ROSTNSTHAL_000_070	No pensaba hacer más que enseñar a apretar el gatillo, pero al diablo. Atrapemos a estos desgraciados, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_071	Tengo que hacerle unos últimos ajustes al aparato detector. Puede que necesite más ajustes a medida que se acerque a la señal, así que estaré con ustedes para ayudarlos en el Saint Valeroyant's Forum.
+TEXT_JOBMCH700_02909_HILDA_000_080	Bien, <split(<string(gstr1)>, ,1)>, la ceremonia está por empezar. Este es el plan.
+TEXT_JOBMCH700_02909_HILDA_000_081	Muscadain y los otros Hounds se van a encargar de la seguridad como estaba previsto, para no levantar sospechas.
+TEXT_JOBMCH700_02909_HILDA_000_082	Creemos que la dama va a tener a alguien mirando la ceremonia, listo para avisarle el mejor momento para detonar esa bombita: seguro justo cuando la espada descanse sobre el hombro de un aspirante. Así lo haría yo, al menos.
+TEXT_JOBMCH700_02909_HILDA_100_082	No debería ser muy difícil ubicar al vigía, y los Hounds pueden atraparlo antes de que se escape.
+TEXT_JOBMCH700_02909_HILDA_000_083	Mientras tanto, nosotros vamos a esperar en el Saint Valeroyant's Forum con el aparato de Stephanivien, listos para movernos en cuanto estemos seguros de dónde está el detonador.
+TEXT_JOBMCH700_02909_HILDA_000_084	Trae tu mejor munición, <split(<string(gstr1)>, ,1)>. Si esta mujer puede despejar un camino a través del Vault, seguro tiene de su lado a algo peor que unos cuantos bandidos harapientos...
+TEXT_JOBMCH700_02909_ROSTNSTHAL_000_500	...¿Qué tanto demoras, jefe? La ceremonia ya empezó.
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_501	¡Un poco de silencio, por favor! Si logro captar el momento exacto en que se activa el detonador...
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_502	¡Lo tengo! ¡La señal vino del extremo más lejano de la Brume!
+TEXT_JOBMCH700_02909_HILDA_000_503	Los desgraciados presumidos se esconden justo en nuestro propio territorio. Bien, entonces. ¡Mejor vamos a darles una maldita bienvenida como corresponde!
+TEXT_JOBMCH700_02909_MELISIE_000_504	Habla Melisie. ¿El público está disfrutando nuestro pequeño espect...? ¿¡Qué!? ¿¡Nada!? ¿¡Ni siquiera una bocanada de humo!?
+TEXT_JOBMCH700_02909_HILDA_000_505	¡Sorpresa! Encontramos tu bomba.
+TEXT_JOBMCH700_02909_MELISIE_000_506	¡Los Hounds!
+TEXT_JOBMCH700_02909_HILDA_000_507	...Te conozco. Eres esa noble desgraciada que me ignoró frente al Vault. Justo en el lugar y el momento indicados para soltar ese rumor del bandido, ¿eh? Y supongo que también fuiste tú la que escribió ese contrato de venta.
+TEXT_JOBMCH700_02909_MELISIE_000_508	¿¡Q-qué disparate es este!? ¡No recuerdo haberme codeado con plebeyos!
+TEXT_JOBMCH700_02909_HILDA_000_509	Ja, esta vez sí te llamé la atención, ¿no? Mejor así, porque tengo un carro lleno de preguntas para ti. Aquí va una: ¿tus amigos inquisidores van a venir por las buenas?
+TEXT_JOBMCH700_02909_TEMPLEKIGHTLEADER02909_000_510	(-???-)Tú y tus "Hounds" serán los únicos que entreguen las armas este día.
+TEXT_JOBMCH700_02909_TEMPLEKIGHTLEADER02909_000_512	No solo interfirieron en asuntos oficiales de la inquisición, sino que además insultaron y acusaron a una noble inocente. ¡Quizás una temporada en los calabozos les recuerde cuál es su lugar!
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_513	¡Un momento! Los Hounds tienen pruebas sólidas de que estas personas participaron en un crimen grave. Hablen con ser Muscadain y todo quedará expli...
+TEXT_JOBMCH700_02909_ROSTNSTHAL_000_514	Ah, ahora conocemos al resto de las ratas. Si se preguntaban cómo consiguió la noble mujerzuela una bomba de entrenamiento o despejó un camino a través del Vault para esos bandidos, ahí tienen la respuesta. Ya me imaginaba que tarde o temprano iban a asomar los bigotes.
+TEXT_JOBMCH700_02909_HILDA_000_515	Juraron proteger Ishgard, ¿y eligen ponerse del lado de esta noble tarada? ¡Ser Aymeric lucha para que la ciudad no se destroce a sí misma! ¿Por qué no le clavan una espada por la espalda, de paso?
+TEXT_JOBMCH700_02909_MELISIE_000_516	Hmph. Se acabó el tiempo de las bravuconadas vacías, niña. No somos salvajes vulgares: ríndanse y les prometo que vivirán para ver el día de mañana.
+TEXT_JOBMCH700_02909_HILDA_000_517	Ja, esa "promesa" te la puedes meter por donde no te da el sol. ¿Te parece bastante vulgar?
+TEXT_JOBMCH700_02909_HILDA_000_518	Esto se acabó. ¡Con nuestra autoridad como guardia de Ishgard, los detenemos por los crímenes de robo, insurgencia y estupidez en general, maldita sea!
+TEXT_JOBMCH700_02909_HILDA_100_100	Eso salió bien.<br>...Esperen, ¿dónde está la noble?
+TEXT_JOBMCH700_02909_ROSTNSTHAL_110_100	¡Bah, la mujerzuela debe de haberse escabullido mientras estábamos en lo más reñido! ¡No puede haber ido muy lejos!
+TEXT_JOBMCH700_02909_STEPHANIVIEN_120_100	¡Ahí! ¡Huye hacia el Arc!
+TEXT_JOBMCH700_02909_HILDA_130_100	¿¡<split(<string(gstr1)>, ,1)>!?<br>¡Vamos, ustedes! ¡Tras ella!
+TEXT_JOBMCH700_02909_MELISIE_000_100	¡Auxilio, ser caballero! No sé qué les pasa, ¡pero estos rufianes plebeyos quieren hacerme daño!
+TEXT_JOBMCH700_02909_MUSCADAIN_000_101	Dejemos el teatro, baronesa Melisie. Después de capturar a su cómplice en la ceremonia, fue sorprendentemente fácil sacarle los detalles de su plan.
+TEXT_JOBMCH700_02909_MELISIE_000_102	¿¡Se puso del lado de estos... estos perros vulgares!? ¡Lo creía un orgulloso miembro de la nobleza! Siendo uno de los pocos elegidos, ¿cómo puede tolerar cualquier acto que ponga el poder en las manos inmundas de los nacidos en la Brume?
+TEXT_JOBMCH700_02909_MUSCADAIN_000_103	¿Los pocos elegidos? Un accidente de nacimiento nos dio el privilegio de luchar por nuestra nación, y yo, por mi parte, doy la bienvenida a nuestros nuevos compañeros de armas. Sus actos la marcan como enemiga de Ishgard, ¡y pagará por sus crímenes!
+TEXT_JOBMCH700_02909_MELISIE_000_104	¡Esto es una blasfemia! ¡Soy una inquisidora! ¡Usted traiciona su linaje, y por eso me toca a mí extirpar la corrupción que se filtra en las venas de nuestra nación!
+TEXT_JOBMCH700_02909_MUSCADAIN_000_600	...Se acabó.
+TEXT_JOBMCH700_02909_MUSCADAIN_000_601	La baronesa y sus compinches creen que solo la nobleza es digna de guiar al pueblo de Ishgard. Les molestaban los esfuerzos por acercar a nobles y plebeyos, y parece que la formación de los Hounds era una amenaza demasiado grande para soportarla.
+TEXT_JOBMCH700_02909_HILDA_000_602	Lo único que queremos es un poco de respeto y la fuerza para defender nuestro hogar. ¿A qué le tienen tanto miedo, maldita sea?
+TEXT_JOBMCH700_02909_MUSCADAIN_000_603	Temen perder su posición, y debo confesar que yo también sentí un susurro de ese terror irracional. Si hubiera sucumbido a mis celos y a mi odio, quizás me habría unido a ellos en su retorcido camino.
+TEXT_JOBMCH700_02909_MUSCADAIN_000_604	Pero la juzgué mal. Creía que despreciaba tanto las circunstancias de su nacimiento que solo buscaba traer la ruina a Ishgard.
+TEXT_JOBMCH700_02909_HILDA_000_605	Hasta hace poco, no habrías estado muy lejos de la verdad. Fueron <split(<string(gstr1)>, ,1)> y ser Aymeric los que me convencieron de que luchar por el cambio valía muchísimo más que sumar más miseria.
+TEXT_JOBMCH700_02909_MUSCADAIN_000_606	...En efecto.
+TEXT_JOBMCH700_02909_MUSCADAIN_000_607	Le ruego que perdone las pullas que les lancé a usted y a sus Hounds, capitana. Estuve ciego ante el coraje y la determinación de la gente común, y le pido humildemente que la guardia siga ayudándonos a defender la ciudad.
+TEXT_JOBMCH700_02909_HILDA_000_608	...Tú tampoco merecías todo el veneno que te escupí. Cuando te miro, veo la cara de <italic(1)>él<italic(0)>, y no lo puedo evitar, maldita sea. Pero voy a intentar mejorar eso, ¿eh?
+TEXT_JOBMCH700_02909_MUSCADAIN_000_609	Ahora debo irme a ocuparme del trámite de los prisioneros.<br>...Cuídate, hermana.
+TEXT_JOBMCH700_02909_ROSTNSTHAL_000_610	...¿¡Hermana!?
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_200	¿Entonces son hermanos? No sabía que ser Muscadain y tú tuvieran un vínculo tan estrecho.
+TEXT_JOBMCH700_02909_HILDA_000_201	Me olvidé de contar esa parte, ¿no? Sí, es mi medio hermano: nació de otra mujer después de que mi querido papá echara a mi mamá a la calle.
+TEXT_JOBMCH700_02909_ROSTNSTHAL_000_202	Bueno, eso... Eso no es algo que uno suelte así nomás, ¿verdad?
+TEXT_JOBMCH700_02909_HILDA_000_203	No es algo que saque a relucir seguido, no. Y no creo que a Muscadain le entusiasmara mucho declarar su parentesco con el Mongrel, sobre todo después de heredar las propiedades del viejo.
+TEXT_JOBMCH700_02909_ROSTNSTHAL_000_204	Bueno, a lo mejor ahora pueden dejar atrás esa mala sangre. Mejor que ahogarse en ella, en todo caso.
+TEXT_JOBMCH700_02909_HILDA_000_205	A lo mejor tienes razón, Rostnsthal.
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_206	Te convertiste en una mujer de lo más admirable, querida, sin mencionar que eres una campeona para la gente de la Brume. Parece que hice bien en ponerte esa arma de fuego en la mano.
+TEXT_JOBMCH700_02909_HILDA_000_206	Y te agradezco que hayas hecho esa apuesta. Ese día me diste algo más que un arma: me diste el control de mi destino. Si no fuera por ti, seguro todavía estaría rebuscando en la calle y maldiciendo al cielo.
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_207	Es de veras gratificante ver lo lejos que llegaste.
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_208	Ahora sí tengo que volver al taller. Esta montaña de encargos no hace más que crecer mientras más la descuido... ¡como me lo recordaría Joye sin piedad!
+TEXT_JOBMCH700_02909_HILDA_000_209	Nosotros también deberíamos volver a la Brume. Symme y Eudestand se estarán preguntando qué fue de nosotros.
+TEXT_JOBMCH700_02909_SYMME_000_210	Lo logramos, ¿eh? Después de todo eso, ¡la ceremonia salió más suave que el trasero de un bebé! Me pregunto cuál será nuestra próxima misión...
+TEXT_JOBMCH700_02909_EUDESTAND_000_211	Después de ver cómo hacían guardia esos Temple Knights, me di cuenta de unas cuantas cosas que los Hounds podríamos hacer mejor. Un poco más de entrenamiento y un poco más de disciplina, y llegaremos.
+TEXT_JOBMCH700_02909_ROSTNSTHAL_000_212	Nuestro trabajo aquí terminó, ¿no crees, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBMCH700_02909_STEPHANIVIEN_000_213	Gracias, <split(<string(gstr1)>, ,1)>. Con tu ayuda y la de Rostnsthal, Hilda y sus Hounds se ganaron un lugar como corresponde en la ciudad. ¡Ah, mi prospectómetro nunca me lleva por mal camino!
+TEXT_JOBMCH700_02909_HILDA_000_220	La espada volvió a su lugar, la baronesa está encadenada y los Hounds demostraron que son una fuerza a tener en cuenta. Finales felices para todos, ¿eh?
+TEXT_JOBMCH700_02909_ROSTNSTHAL_000_221	Tus muchachos y muchachas estaban algo verdes al principio, pero ya no puedo llamarlos cachorros. Diría que les va a ir bien sin nosotros.
+TEXT_JOBMCH700_02909_HILDA_000_222	¿Qué, entonces se van los dos? Pensé que tendrían unos cuantos trucos más para enseñarnos...
+TEXT_JOBMCH700_02909_ROSTNSTHAL_000_223	No empieces a lloriquear ahora, muchacha. Les dimos las herramientas y los cimientos: el resto de la maldita casa la pueden construir ustedes.
+TEXT_JOBMCH700_02909_HILDA_000_224	Sí, eso podemos hacerlo. Gracias...
+TEXT_JOBMCH700_02909_ROSTNSTHAL_000_225	Bueno, no nos pongamos sentimentales, maldita sea. Me voy.<br>Buenos vientos, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMCH700_02909_HILDA_000_226	Gracias a ti también, <split(<string(gstr1)>, ,1)>. Vuelve a visitarnos cuando puedas: ¡seguro que los Hounds van a tener historias nuevas que contar!
+TEXT_JOBMCH700_02909_SYSTEM_100_260	Aquí terminan las misiones de machinist de FINAL FANTASY XIV: Stormblood. Para emprender la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:
+TEXT_JOBMCH700_02909_SYSTEM_100_261	※Haber completado la misión de la historia principal "Shadowbringers".
+TEXT_JOBMCH700_02909_SYSTEM_100_262	※Haber completado la misión de rol "Courage Born of Fear".
+TEXT_JOBMCH700_02909_SYSTEM_100_263	Cuando lo hagas, la siguiente misión de machinist estará disponible con Stephanivien.
+TEXT_JOBMCH700_02909_QIB_001_TODO_1	¡Derrota a los caballeros y a los inquisidores!
+TEXT_JOBMCH700_02909_QIB_001_TODO_2	¡Derrota a la baronesa Melisie!
+TEXT_JOBMCH700_02909_HILDA_BATTLETALK_FST_001_001	Adelante, resístanse, entonces.<br>Los desafío, maldita sea.
+TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_FST_001_002	¡Cómo te <italic(1)>atreves<italic(0)> a hablarme de esa manera!<br>¡Deshágense de esta inmundicia plebeya!
+TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_001_001	¡Los mataré! ¡Los mataré a todos!
+TEXT_JOBMCH700_02909_MUSCADAIN_BATTLETALK_SEC_001_001	Parece que ya no hay nada que hablar.<br>¡Adelante, Hounds!
+TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_002_001	\<growl> ¡Me volveré hereje si hace falta!<br>¡Mueran por el fuego y el colmillo!
+TEXT_JOBMCH700_02909_STEPHANIVIEN_BATTLETALK_SEC_002_002	...¿¡Acaba de beberse la sangre de un dragón!? Había oído las historias, pero ver la transformación con mis propios ojos...
+TEXT_JOBMCH700_02909_HILDA_BATTLETALK_SEC_002_003	No me esperaba eso de una inquisidora.<br>¡Perdió la maldita cabeza!
+TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_002_004	¡Gajajajajajá!<br>¡Muerte a los plebeyos! ¡Muerte a todas las alimañas!
+TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_003_001	¡Gajajajajajá!<br>¡Ardan! ¡Ardan en la llama justa!
+TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_004_001	¡Ustedes profanaron mi amada Ishgard!<br>¡Convertiré esta ciudad en cenizas!
+TEXT_JOBMCH700_02909_ROSTNSTHAL_BATTLETALK_SEC_004_002	No me gusta nada la pinta de esa bola de fuego.<br>¡Mejor haz algo, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBMCH700_02909_HILDA_BATTLETALK_SEC_004_003	¡Yo te cubro, <split(<string(gstr1)>, ,1)>!<br>¡Ven hacia mí!
+TEXT_JOBMCH700_02909_HILDA_BATTLETALK_DEAD	Como un perro... en la cuneta...
+TEXT_JOBMCH700_02909_ROSTNSTHAL_BATTLETALK_DEAD	Debí quedarme en la taberna...
+TEXT_JOBMCH700_02909_STEPHANIVIEN_BATTLETALK_DEAD	Maldición... Tengo que retirarme...
+TEXT_JOBMCH700_02909_MUSCADAIN_BATTLETALK_DEAD	Perdónenme...
+TEXT_JOBMCH700_02909_STEPHANIVIEN_BATTLETALK_SEC_003_002	（★Sin uso／se eliminará★）

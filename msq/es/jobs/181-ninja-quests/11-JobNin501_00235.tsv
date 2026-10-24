@@ -1,0 +1,82 @@
+key	text
+TEXT_JOBNIN501_00235_SEQ_00	Oboro estuvo pensando en cómo podrías crecer como shinobi.
+TEXT_JOBNIN501_00235_SEQ_01	Oboro está convencido de que todavía te queda camino hacia la maestría, pero no sabe por dónde deberías empezar. Recuerda que las misiones al servicio de Doma afinaron sus propias habilidades y se pregunta si a ti tampoco te faltará un deber. Por suerte, Jacke le pidió hace poco a Oboro que fuera a verlo por un asunto urgente. Acompaña a tu antiguo mentor al Rogues' Guild.
+TEXT_JOBNIN501_00235_SEQ_02	Según Jacke, hay un bandido con ropa del Lejano Oriente que anda robando a la gente y, lo que es más preocupante, usa ninjutsu para hacerlo. Después de registrar a un Oboro algo disgustado, el maestro del gremio les pide a los dos que lo ayuden a rastrear al ladrón. Síguelo a Summerford Farms y entrevista allí a la víctima, Mulfa Kelfa.
+TEXT_JOBNIN501_00235_SEQ_03	El afligido mercader te cuenta la triste historia de cómo dos ladrones le robaron su única, rarísima y carísima esfera del Lejano Oriente. Al saber que los criminales huyeron hacia el noroeste, Jacke propone perseguirlos de inmediato, para alcanzarlos antes de que puedan escapar con el botín mal habido. Empieza por ir al lugar donde los vieron por última vez, justo afuera de Summerford Farms.
+TEXT_JOBNIN501_00235_SEQ_04	Encuentras un rastro de huellas que va hacia el noroeste. Síguelo por el camino que cruza el puente, hacia el Descent.
+TEXT_JOBNIN501_00235_SEQ_05	Las huellas siguen hacia el noroeste. Baja por la escalera de madera y vuelve a ver adónde llevan.
+TEXT_JOBNIN501_00235_SEQ_06	Ves la silueta tenue de dos figuras cerca de la entrada de Woad Whisper Canyon, al noreste. Ve en esa dirección y prepárate para cualquier cosa.
+TEXT_JOBNIN501_00235_SEQ_07	Acorralas a una extraña muchacha junto a los acantilados, que responde a las preguntas de Jacke desenvainando sus hojas en silencio. Pero antes de que lleguen a los golpes, aparece Mulfa Kelfa. Les agradece su servicio y luego le pide a su guardaespaldas que los mate. Al parecer, no le conviene que sepan cómo consiguió la esfera. Por desgracia para él, Jacke, Oboro y tú acaban rápido con su matón a sueldo. La extraña muchacha les agradece a regañadientes la ayuda. Oboro reconoce que es del Lejano Oriente, y entonces su criado, Akagi, la presenta como la Princesa Yuki Yatsurugi. Dejó sus tierras en busca de los tesoros que le robaron a su clan. Oboro le ofrece tu ayuda con atrevimiento, pero ella la rechaza y llama traidores a todos los shinobi. Akagi, en cambio, se muestra más abierto a la propuesta de Oboro y promete avisarles si Yuki llega a estar en peligro. Vuelve ahora al almacén del muelle y escucha qué piensa Oboro del asunto.
+TEXT_JOBNIN501_00235_SEQ_08	Oboro te cuenta que las habilidades de la princesa son famosas en el Lejano Oriente y que quizás no necesite mucho tu ayuda. Pero ahora le prometiste tu hoja, así que debes entrenarla, y entrenar tu mente, para poder protegerla pase lo que pase.<br><br>※La siguiente misión de ninja estará disponible con Oboro al llegar al nivel 52.
+TEXT_JOBNIN501_00235_TODO_00	Habla con Jacke en el Rogues' Guild.
+TEXT_JOBNIN501_00235_TODO_01	Habla con Mulfa Kelfa en Summerford Farms.
+TEXT_JOBNIN501_00235_TODO_02	Busca en la zona al oeste de Summerford Farms.
+TEXT_JOBNIN501_00235_TODO_03	Busca en la zona que lleva al Descent.
+TEXT_JOBNIN501_00235_TODO_04	Busca alrededor de la base del Descent.
+TEXT_JOBNIN501_00235_TODO_05	Habla con la sospechosa peculiar.
+TEXT_JOBNIN501_00235_TODO_06	Habla con Oboro en el almacén del muelle.
+TEXT_JOBNIN501_00235_OBORO_000_000	<split(<string(gstr1)>, ,1)>, bienvenid<if(gnum4,a,o)>. Se nota que tu entrega a nuestro arte fue absoluta, y siento que te espera un poder mayor.
+TEXT_JOBNIN501_00235_OBORO_000_001	Pero ya no tengo ninjutsu nuevo que enseñarte. Solo tú puedes despertar el poder que llevas dentro. Pero si lo logras, nuestro arte latirá en tu propio corazón.
+TEXT_JOBNIN501_00235_OBORO_000_002	Yo aprendí muchísimo mientras fui shinobi de Doma. Quizás encontrarías tu propio camino si tu hoja sirviera a un señor...
+TEXT_JOBNIN501_00235_OBORO_000_003	Pero esos pensamientos tendrán que esperar. Minutos antes de que cruzaras esa puerta, recibí esta misiva de Jacke. Me pide que vaya a la ciudad de Limsa lo antes posible.
+TEXT_JOBNIN501_00235_OBORO_000_004	Acompáñame, <split(<string(gstr1)>, ,1)>. Tu camino empezó en el Rogues' Guild, y quizás volver despierte algo nuevo en ti.
+TEXT_JOBNIN501_00235_OBORO_000_015	Me pregunto si Jacke tendrá algún consejo para ti.
+TEXT_JOBNIN501_00235_OBORO_000_050	Capitán Jacke, cuánto tiempo. Nunca le agradecí como corresponde que consiguiera la vestimenta ancestral del shinobi.
+TEXT_JOBNIN501_00235_JACKE_000_051	¡Eh, me preguntaba cuándo aparecerías! ¡Y trajiste a <split(<string(gstr1)>, ,1)>! ¿Cómo andas, <if(gnum4,muchacha,muchacho)>?
+TEXT_JOBNIN501_00235_JACKE_000_052	Bene, bene. Ahora, tengo que cruzar unas palabras con Oboro. Anda suelto un ladrón por La Noscea que es rápido, demasiado rápido para ser un estafador del montón.
+TEXT_JOBNIN501_00235_OBORO_000_053	Hm. Lamento su problema, claro, pero ¿para qué me llamó a mí?
+TEXT_JOBNIN501_00235_JACKE_000_054	Bueno, según me contaron, el que anda afanando no es de Eorzea. Viene del Lejano Oriente, a juzgar por la ropa.
+TEXT_JOBNIN501_00235_OBORO_000_055	Qué extraño... El viaje es demasiado largo para hacerlo a la ligera. ¿Qué los habrá traído hasta aquí?
+TEXT_JOBNIN501_00235_JACKE_000_056	¿Quién sabe, quién sabe? Pero aquí viene lo curioso: este tipo es ninja, por lo que dicen todos.
+TEXT_JOBNIN501_00235_OBORO_000_057	¿Un ninja? ¡Jajá! ¡Es asombroso cuánto se parece su ladrón a mí, Jacke! ¡Vaya, si no supiera la verdad, diría que el culpable soy <italic(1)>yo<italic(0)>!
+TEXT_JOBNIN501_00235_JACKE_000_058	Sí... ¡Así que pon las zarpas donde pueda verlas!
+TEXT_JOBNIN501_00235_JACKE_000_059	¡Ajajajajajá! No pude resistirme a la broma. Claro que no sospecho de <italic(1)>ti<italic(0)>. La verdad, solo quería ver si sabías algo que pudiera ayudarme con el caso.
+TEXT_JOBNIN501_00235_OBORO_000_060	Que me engañara una treta tan obvia... \<suspiro> Bueno, si el ladrón <italic(1)>es<italic(0)> un shinobi de origen domano, quizás lo conozca. ¿Nos permitiría a <split(<string(gstr1)>, ,1)> y a mí ayudar en su investigación?
+TEXT_JOBNIN501_00235_JACKE_000_061	¡Con gusto! Las cosas irán mucho mejor con un par de capos como ustedes a bordo. ¿Por qué no vamos a ver qué tiene que decir la víctima sobre nuestro estafador, eh?
+TEXT_JOBNIN501_00235_JACKE_000_062	El tipo que buscamos es Mulfa Kelfa, y lo encontraremos en Summerford Farms. Ja, hace un buen rato que no trabajamos juntos, <split(<string(gstr1)>, ,1)>, ¡y tengo ganas de tenerte conmigo!
+TEXT_JOBNIN501_00235_JACKE_000_070	¡Yo y mi <if(gnum4,moza,fulano)> favorit<if(gnum4,a,o)>, de vuelta al trabajo! ¿Estás <if(gnum4,lista,listo)> para ir a averiguar qué le pasó a ese tal Mulfa Kelfa?
+TEXT_JOBNIN501_00235_JACKE_000_075	Préstale las orejas a ese tipo de allá, <if(gnum4,muchacha,muchacho)>.
+TEXT_JOBNIN501_00235_MULFAKELFA_000_100	¿Y <italic(1)>quién<italic(0)>, si se puede saber, es <italic(1)>usted<italic(0)>? Sí, <italic(1)>usted<italic(0)>... y ese tipo de cara lúgubre de allá. ¿Son de su gente, Jacke? ¿Pueden encargarse de este asunto con la discreción habitual del gremio?
+TEXT_JOBNIN501_00235_JACKE_000_101	(-Jacke-)Sí, creo que sí. <split(<string(gstr1)>, ,1)> es de <if(gnum4,las muchachas más nuevas,los muchachos más nuevos)> del gremio. Y ese tipo de cara lúgubre es, eh... un pichón: acaba de entrar, por así decirlo.
+TEXT_JOBNIN501_00235_MULFAKELFA_000_102	En ese caso... ¡recuperen mi esfera! Es única, y me la robaron: ¡dos ladrones asquerosos con pinta del Lejano Oriente! ¡Y después de gastar una maldita fortuna en ella!
+TEXT_JOBNIN501_00235_MULFAKELFA_000_103	Qué <italic(1)>descaro<italic(0)> el de esos dos, caerme encima justo cuando venía para acá. ¡Los muy canallas corrieron hacia el noroeste, el triple de rápido que mis hombres! ¡Quiero que los encuentren y les pongan grilletes, maldita sea!
+TEXT_JOBNIN501_00235_JACKE_000_104	(-Jacke-)Bueno, entonces mejor vamos tras ellos. Si <italic(1)>son<italic(0)> extranjeros, no conocerán el terreno. Quizás podamos aprovechar eso y alcanzarlos antes de que salgan pitando.
+TEXT_JOBNIN501_00235_JACKE_000_105	(-Jacke-)No hace falta ser tímidos si se llega a los pinchos, pero tampoco los despachen. Tenemos que averiguar por qué esos estafadores le birlan a la gente honrada.
+TEXT_JOBNIN501_00235_MULFAKELFA_000_110	¡Recupérenme la esfera! ¡No me importa cómo!
+TEXT_JOBNIN501_00235_GILPIN_000_115	Sigue tu camino. Aquí no hay nada que ver.
+TEXT_JOBNIN501_00235_SYSETM_000_130	Encuentras unas huellas que van hacia el noroeste.
+TEXT_JOBNIN501_00235_SYSETM_000_131	Alcanzas a distinguir dos figuras más adelante, en Woad Whisper Canyon.
+TEXT_JOBNIN501_00235_OBORO_000_200	No está muerto. Creo que solo se dejó inconsciente a sí mismo. Más urgente es la muchacha que nos mira en silencio. Por su aspecto, no hay que tomarla a la ligera.
+TEXT_JOBNIN501_00235_JACKE_000_200	Vaya, vaya, ¡sí que eres una moza linda! ¿Y por qué te dio por afanar?
+TEXT_JOBNIN501_00235_JACKE_000_201	\<suspiro> Nunca una palabra tierna para Jacke, ¿verdad? No, <italic(1)>siempre<italic(0)> un pincho...
+TEXT_JOBNIN501_00235_MULFAKELFA_000_202	¡Sí! ¡Es ella! ¡La ladrona! ¡Ja, sabía que llevarle esto al gremio era lo correcto!
+TEXT_JOBNIN501_00235_MULFAKELFA_000_203	Por desgracia, esto significa que nuestra relación termina aquí. Sería... inconveniente que supieran cómo conseguí la esfera. ¿Mercenario? Se requieren sus servicios.
+TEXT_JOBNIN501_00235_GILPIN_000_204	¡Jajajá, será un placer! A Jacke hay que tenerle respeto, ¡pero no cuando trae a dos novatos a su lado! ¡Mi fiel tridente acabará con todos!
+TEXT_JOBNIN501_00235_JACKE_000_205	Bueno, qué palabras tan finas de un maldito traidor. ¿A ninguno de los dos le molesta que lo llamen novato?
+TEXT_JOBNIN501_00235_OBORO_000_206	En lo más mínimo. Será todavía más dulce hacerle tragar esas palabras. Y es un rival más adecuado que una doncella callada.
+TEXT_JOBNIN501_00235_GILPIN_000_207	¡Jajá, fanfarroneen y rabien lo que quieran: no se irán en paz a la noche! ¡Jajajá!
+TEXT_JOBNIN501_00235_JACKE_000_208	Bueno, te juzgamos mal, mi linda moza. Parece que te debemos una disculpa.
+TEXT_JOBNIN501_00235_YUKI_000_208	(-Sospechosa peculiar-)Te lo agradezco. Pero no necesitaba su ayuda contra unos brutos como estos.
+TEXT_JOBNIN501_00235_OBORO_000_209	Tu reverencia... Entonces es cierto. Eres del Lejano Oriente. ¿Nos conocemos, por casualidad? Me resultas... familiar.
+TEXT_JOBNIN501_00235_YUKI_000_300	(-Sospechosa peculiar-)Hmph. Tu acento te delata como shinobi. Akagi, explica la situación.
+TEXT_JOBNIN501_00235_AKAGI_000_301	Ngh... Ah, ¿ustedes eran los que nos perseguían? Da miedo que te persigan.<br>...Pero, eh, este... Claro. Por qué estamos aquí.
+TEXT_JOBNIN501_00235_AKAGI_000_302	Ejem... ¡Ella es Yatsurugi no Yuki! Si entiendo bien sus costumbres, ustedes la llamarían la Princesa Yuki del clan Yatsurugi. Dejó sus tierras para buscar los tesoros de su familia. Se los robaron unos bandidos, ¿saben?
+TEXT_JOBNIN501_00235_OBORO_000_303	¿¡El clan Yatsurugi!? ¡Está muy lejos de sus dominios, Princesa! Dígame, ¿por qué hizo el viaje?
+TEXT_JOBNIN501_00235_YUKI_000_304	(-Yuki-)...No tengo tiempo para charlas, no mientras siga sin saber quiénes son los bandidos. Solo necesitas saber que recuperé tres de los tesoros robados, y que me iré cuando tenga los otros dos.
+TEXT_JOBNIN501_00235_OBORO_000_305	Muy bien. Sus razones son asunto suyo. Pero no puedo dejarla sin una daga jurada, Princesa.
+TEXT_JOBNIN501_00235_OBORO_000_307	Y conozco a la persona indicada. <split(<string(gstr1)>, ,1)>, ¿no ayudarás a la Princesa Yuki en su misión como su shinobi?
+TEXT_JOBNIN501_00235_OBORO_000_308	Como sabes, somos hojas, y las misiones son nuestras piedras de afilar. Con el deber y el servicio afinamos nuestras habilidades y nuestra mente. Este es el siguiente paso en tu camino.
+TEXT_JOBNIN501_00235_OBORO_000_309	La princesa es una forastera aquí. No puede confiar en nadie salvo en ti. Tu misión es protegerla con tu vida y devolverla a salvo con su gente. ¿Qué dices?
+TEXT_JOBNIN501_00235_YUKI_000_310	(-Yuki-)Tch, ¿me crees tan ingenua como para confiar en <italic(1)>shinobi<italic(0)>? ¡Cuando cayó Doma, todos vimos <italic(1)>sus<italic(0)> dagas clavadas en su espalda! ¡Vamos, Akagi, deja a los traidores!
+TEXT_JOBNIN501_00235_AKAGI_000_311	...Está así desde que llegamos. ¡Si apenas me deja empacarle la maldita ropa!
+TEXT_JOBNIN501_00235_AKAGI_000_312	Entiendo que no quiera mi ayuda para pelear, supongo. No soy un guerrero. Pero ella también tiene sus límites. Todos los tienen, sea mendigo o princesa. Así que les agradecería que me echaran una mano para mantenerla... bueno, con vida.
+TEXT_JOBNIN501_00235_OBORO_000_313	Por supuesto, amigo mío. Si su vida corre peligro, manda aviso aquí. <split(<string(gstr1)>, ,1)> y yo responderemos.
+TEXT_JOBNIN501_00235_AKAGI_000_314	Se los agradezco mucho. No tienen idea de... Ah, pero mejor me voy. Me corta la cabeza si me encuentra charlando. ¡Estaremos en contacto!
+TEXT_JOBNIN501_00235_JACKE_000_315	Recuperando chucherías del Lejano Oriente que alguien birló, ¿eh?
+TEXT_JOBNIN501_00235_JACKE_000_316	Supongo que tendremos que sonsacarle más a ese par de canallas. El gremio echará una zarpa para rastrear a los bandidos que afanaron los tesoros.
+TEXT_JOBNIN501_00235_OBORO_000_317	Gracias, Jacke. Cuando tenga algo, ya sabe dónde encontrarnos. ¿Vamos, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBNIN501_00235_OBORO_000_500	Ya había oído hablar de Yuki Yatsurugi. El orgullo de su clan, la poderosa princesa del Lejano Oriente...
+TEXT_JOBNIN501_00235_OBORO_000_501	Si al menos una décima parte de los rumores es cierta, tiene motivos para rechazar nuestra ayuda. Pero de alguna forma tienes que ganarte su confianza. Algún día, su vida podría depender de eso.
+TEXT_JOBNIN501_00235_OBORO_000_502	El camino que tienes por delante es largo. Tu determinación no puede flaquear. Te ayudaré en lo que pueda, pero desde hoy debes dedicar todo tu ser a proteger a la Princesa Yuki.
+TEXT_JOBNIN501_00235_SYSTEM_000_550	La siguiente misión de ninja estará disponible con Oboro al llegar al nivel 52.
+TEXT_JOBNIN501_00235_SYSTEM_000_551	Puedes revisar en el journal los requisitos para empezar las siguientes misiones.

@@ -1,0 +1,103 @@
+key	text
+TEXT_JOBNIN300_00212_SEQ_00	Jacke tiene el trabajo justo para <if(gnum4,una moza tan avispada,un tipo tan avispado)> como tú.
+TEXT_JOBNIN300_00212_SEQ_01	Impresionado por el trabajo que hiciste para su gremio, Jacke te encarga investigar a un grupo de individuos sospechosos que llamaron la atención de sus hombres estos últimos días. Viaja a Wineport, donde se vio a esos tipos turbios, y reúnete con tu compañero rogue, Perimu Haurimu.
+TEXT_JOBNIN300_00212_SEQ_02	Perimu te cuenta lo poco que averiguó sobre el objetivo de la investigación cuando un grito que viene del pueblo interrumpe la conversación. Entra a Wineport y averigua qué pasó.
+TEXT_JOBNIN300_00212_SEQ_03	Al entrar a Wineport encuentras a una lechera, la que gritó, de pie junto a los cuerpos de tres rufianes. Te explica que casi la asaltan, hasta que los brutos se pelearon entre ellos, borrachos, y quedaron todos fuera de combate. A Perimu la historia le parece <italic(1)>demasiado<italic(0)> conveniente y se va al este de Wineport a investigar. Sigue a tu compañero de gremio y mira qué encontró.
+TEXT_JOBNIN300_00212_SEQ_04	Perimu encuentra a un par de peones tirados en el suelo, armados y heridos de muerte. Más convencido que nunca de que la inocente lechera no es lo que parece, sale tras ella. Acompáñalo a Upper La Noscea y descubre quién es la muchacha en realidad.
+TEXT_JOBNIN300_00212_SEQ_05	Apenas Perimu y tú dan con la muchacha, los embosca un excéntrico oriental vestido de rojo. Llega un compañero de la muchacha y el agresor se retira, dejando claro que volverán a verlo. Al hablar con los dos, descubres que son Oboro y Tsubame, <italic(1)>shinobi<italic(0)> de Doma, en el Lejano Oriente, que vinieron a hacer justicia con un compatriota traidor: el hombre llamado Karasu. Al ver que el alma de su hermano caído responde a tu tacto, Oboro se ofrece a enseñarte el arte de su pueblo a cambio de información que pueda ayudarlo en su misión. Si quieres aceptar su oferta, búscalo en los muelles de Raincatcher Gully.
+TEXT_JOBNIN300_00212_SEQ_06	A Oboro le alegra que hayas venido y te invita a entrar al almacén, donde podrán hablar en privado. Te da la contraseña: cuando el guardián Byakubu diga <italic(1)>Ayame<italic(0)>, debes responder <italic(1)>Kaede<italic(0)>.
+TEXT_JOBNIN300_00212_SEQ_07	Tu pronunciación del idioma de Doma parece haber convencido a Byakubu, que te deja pasar al escondite ninja. Habla con Oboro, que te espera adentro.
+TEXT_JOBNIN300_00212_SEQ_08	Oboro te agradece tu cooperación y te resume el antiguo arte que su pueblo se transmite desde hace generaciones. Según cuenta, el arte, llamado <italic(1)>ninjutsu<italic(0)>, consiste en canalizar los poderes del cielo, la tierra y el hombre, a los que se da forma física con unos gestos de las manos llamados <italic(1)>mudra<italic(0)>. Te enseña tu primer mudra, <italic(1)>Ten<italic(0)>, y te invita a sintonizarte con el alma de su hermano y volver a hablar con él para empezar tu entrenamiento.
+TEXT_JOBNIN300_00212_TODO_00	Habla con Perimu Haurimu en Wineport.
+TEXT_JOBNIN300_00212_TODO_01	Busca actividad sospechosa en Wineport.
+TEXT_JOBNIN300_00212_TODO_02	Habla con Perimu Haurimu.
+TEXT_JOBNIN300_00212_TODO_03	Habla con la extraña lechera en Bronze Lake.
+TEXT_JOBNIN300_00212_TODO_04	Habla con Oboro junto al almacén de los muelles de Raincatcher Gully.
+TEXT_JOBNIN300_00212_TODO_05	Habla con Byakubu.
+TEXT_JOBNIN300_00212_TODO_06	Habla con Oboro.
+TEXT_JOBNIN300_00212_JACKE_000_000	Ah, <split(<string(gstr1)>, ,1)>. ¿Tienes los pinchos bien afilados? Porque tengo un trabajo que hacer, y creo que el capo que mandó a los Executioners al tajo es justo quien tiene que hacerlo.
+TEXT_JOBNIN300_00212_JACKE_000_001	Mis hombres vieron a unos tipos raros por Wineport estos días. Hasta donde sé, no son perros que rompan el código, y ahí está el problema: no sabemos ni la mitad de lo que me gustaría.
+TEXT_JOBNIN300_00212_JACKE_000_002	Dicen que son simples campesinos, refugiados de algún reino lejano, pero no conozco muchos campesinos que anden merodeando en la oscurana tanto como ellos.
+TEXT_JOBNIN300_00212_JACKE_000_003	Mientras no rompan el código, pueden hacer lo que quieran. Pero siendo quienes somos, nos toca a nosotros investigar el asunto y asegurarnos de que todo esté en orden.
+TEXT_JOBNIN300_00212_JACKE_000_004	Como el instinto me dice que esto es trabajo para dos rogues, mandé a Underfoot por delante. Así que ponte tus mejores botas, ve a Wineport y reúnete con él allá.
+TEXT_JOBNIN300_00212_JACKE_000_015	No es momento para cháchara, <split(<string(gstr1)>, ,1)>. Cuento con que Underfoot y tú vigilen Wineport y se aseguren de que todo esté en orden.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_030	¡<split(<string(gstr1)>, ,1)>! Cuando Jacke dijo que mandaría detrás de mí a <if(gnum4,una de las mozas más listas,uno de los tipos más listos)> del gremio, ya me olía que serías tú.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_031	Me encantaría decirte que el viejo Underfoot ya les sonsacó todo a nuestros amigos, pero la verdad es que encontré más preguntas que respuestas.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_032	Dicen que vienen de las islas del mar del sur, pero mis pajaritos del Mealvaan's Gate juran, hasta el último, que eso es puro teatro del malo. No hay registro de ningún barco así que haya entrado al puerto.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_033	Parece que nos toca a ti y a mí echar un ojo más de cerca, ¿no? Espero que hayas traído tus pinchos más afilados, porque no hay forma de saber con quién vamos a...
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_034	¿Oíste eso, <if(gnum4,muchacha,muchacho)>? O el viejo Underfoot se volvió loco, o una moza acaba de gritar por su vida.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_035	Algo me dice que nuestra tarea está a punto de ponerse interesante. ¿Qué dices si vamos a ver qué pasa?
+TEXT_JOBNIN300_00212_TSUBAME_000_050	¡T-Tengan piedad! No soy más que una simple lechera, y no tengo ni un gil a mi nombre.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_051	Tranquila, muchacha: mi amigo y yo no queremos hacerte daño. Aunque debo decir que me tienes intrigado... ¿Qué demonios pasó aquí, por los Twelve?
+TEXT_JOBNIN300_00212_TSUBAME_000_052	Acababa de llegar al pueblo a comprar provisiones. Apenas crucé las puertas, me abordaron de repente tres borrachos fornidos que me exigieron entregarles todo lo que llevaba.
+TEXT_JOBNIN300_00212_TSUBAME_000_053	Por suerte para mí, parece que los hombres habían bebido de más. Cuando vieron lo poco que traía en el monedero, empezaron a discutir entre ellos. Se armó una pelea a puñetazos y, antes de que me diera cuenta, los tres estaban tirados en el suelo, como los ven ahora.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_054	Parece que Nymeia te sonrió hoy, muchacha. Aunque te sugiero que tengas más cuidado la próxima vez que vengas. Por aquí anda toda clase de gentuza, y no todos son tan torpes y cabezas huecas como tus amigos de acá.
+TEXT_JOBNIN300_00212_TSUBAME_000_055	Gracias por su preocupación, buen señor. Le aseguro que tomaré en serio sus palabras. Que tengan un buen día los dos.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_056	¿Y bien, <split(<string(gstr1)>, ,1)>? ¿Qué te parecieron las palabras de la muchacha?
+TEXT_JOBNIN300_00212_Q1_000_000	¿Qué te pareció la muchacha?
+TEXT_JOBNIN300_00212_A1_000_001	Puro teatro.
+TEXT_JOBNIN300_00212_A1_000_002	Parecía una muchacha honrada.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_057	¿Tú también? Yo pensaba lo mismo. ¿Que se pelearon entre ellos? Mira nada más: estos patanes casi no tienen ni un rasguño.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_058	¿Tú crees? Yo tengo mis dudas. ¿Que se pelearon entre ellos? Mira nada más: estos patanes casi no tienen ni un rasguño.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_059	Sí, apuesto a que esa moza esconde más de lo que dice. Vamos, sigámosle el rastro y veamos qué oculta.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_70	...Menudo desastre tenemos aquí. ¿Crees que estos tipos se pusieron del lado equivocado de nuestra muchacha? Una cosa es segura: son tan campesinos como tú y yo. Basta ver esos pinchos para saberlo.
+TEXT_JOBNIN300_00212_NINJA00212_000_71	(-Hombre con ropa de campesino-)He... fallado...<br>Se lo ruego... Tome esto y devuélvaselo al Maestro Oboro... a Lady... Tsubame...
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_72	...Es tarde. El pobre diablo está muerto. En cuanto a esta piedra, sé tanto como tú. ¿Un amuleto de la suerte, quizás?
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_73	En fin, mejor movamos las patas antes de que la muchacha se escape. Sus huellas van hacia Upper La Noscea.
+TEXT_JOBNIN300_00212_KARASU_000_100	(-???-)Se esconde detrás de un árbol... ¡como si eso pudiera ocultarla de mí!
+TEXT_JOBNIN300_00212_KARASU_000_101	(-Excéntrico oriental-)No creería <italic(1)>de verdad<italic(0)> que podía engañarme con esos trapos ridículos, ¿o sí? ¿O <italic(1)>sí<italic(0)>? ¿Será que no es tan lista como creíamos?
+TEXT_JOBNIN300_00212_KARASU_000_102	(-Excéntrico oriental-)¡Y <if(gnum4,una misteriosa salvadora,un misterioso salvador)> corre a defender a la damisela! ¡Qué <if(gnum4,valentía,caballerosidad)>! ¡Qué compasión!
+TEXT_JOBNIN300_00212_KARASU_000_103	(-Excéntrico oriental-)...¡Qué insensatez! Poco sabe que la muchacha es <italic(1)>más<italic(0)> que capaz de cuidarse sola.
+TEXT_JOBNIN300_00212_KARASU_000_104	(-Excéntrico oriental-)...¡Y justo a tiempo! ¡Oboro el torpe salta a escena para salvar a su querida golondrinita con el ataque sorpresa menos sorprendente que el reino haya visto!
+TEXT_JOBNIN300_00212_OBORO_000_105	(-Oboro-)¡Basta de desvaríos, Karasu, o te arranco esa lengua del maldito pico!
+TEXT_JOBNIN300_00212_KARASU_000_106	(-Karasu-)¡Ayayay! ¡Nuestro héroe está herido! ¡Una puñalada en el corazón! ¡Sus amigos de la infancia se alzan ante él, con las espadas desenvainadas y el odio en los ojos! ¡Oh, qué tragedia! ¡El público solloza!
+TEXT_JOBNIN300_00212_KARASU_000_107	(-Karasu-)...¿Y esto qué es? ¿Un par de actores de reparto que se olvidaron de salir del escenario? ¿Nadie les dijo que su papel en la obra terminó hace rato?
+TEXT_JOBNIN300_00212_KARASU_000_108	(-Karasu-)¡Ojojo! ¡<if(gnum4,La rogue sin rostro,El rogue sin rostro)> muestra una habilidad sorprendente! ¿Tendrá todavía un papel que interpretar? Te diré algo: a diferencia de cierta persona, tú al menos me... <italic(1)>intrigas<italic(0)>.
+TEXT_JOBNIN300_00212_KARASU_000_109	(-Karasu-)...Pero otros asuntos reclaman la atención de nuestro héroe, así que el primer acto debe llegar a su fin. ¡Ven, mascota mía!
+TEXT_JOBNIN300_00212_OBORO_000_110	(-Oboro-)¡Espera! ¡Karasu! ...Siempre tan rápido para huir, ese.
+TEXT_JOBNIN300_00212_TSUBAME_000_111	(-Extraña lechera-)¿Ustedes dos, los de Wineport? ¿Me... siguieron hasta aquí?
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_112	Disculpe, señorita. Mi amigo y yo venimos en nombre de las Dutiful Sisters. Y <italic(1)>usted<italic(0)>, hermana, tiene que responder unas preguntas.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_113	Viví en los bajos fondos el tiempo suficiente para reconocer cuando alguien es más de lo que parece. Así que pónganosla fácil, muchacha: ¿quiénes son exactamente y qué hacen aquí? Y esperemos, por el bien de los dos, que no tenga nada que ver con romper el código.
+TEXT_JOBNIN300_00212_OBORO_000_114	(-Oboro-)...Así que ustedes son los rogues de los que habló Lady Yugiri. Perdónenme: fue un descuido no buscarlos antes. Muy bien. Sabrán todo lo que hay que saber.
+TEXT_JOBNIN300_00212_OBORO_000_115	(-Oboro-)...Así que ustedes son los rogues de los que tanto he oído. Perdónenme: fue un descuido no buscarlos antes. Muy bien. Sabrán todo lo que hay que saber.
+TEXT_JOBNIN300_00212_OBORO_000_116	Mi nombre es Oboro, y ella es Tsubame. Venimos de una aldea de Doma, a varios miles de malms al otro lado del mar. Somos... ah, pero quizás no tengan una palabra para lo que somos. En nuestra lengua, se nos llamaría <italic(1)>shinobi<italic(0)>.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_117	¿<italic(1)>Doma<italic(0)>? ¿¡La provincia imperial!?
+TEXT_JOBNIN300_00212_TSUBAME_000_118	...La misma, aunque no tenía por qué ser así. Nuestros compatriotas lucharon con honor contra el poderío de Garlemald. Lo que nos faltaba en número, lo compensábamos con destreza marcial. Era una batalla que podíamos ganar... si uno de los nuestros no nos hubiera traicionado.
+TEXT_JOBNIN300_00212_TSUBAME_000_119	Con cada secreto y cada movimiento nuestro en manos del enemigo, el rumbo de la batalla cambió al día siguiente. Miles de nuestros compatriotas fueron masacrados y, al caer el día, Doma seguía bajo el yugo imperial.
+TEXT_JOBNIN300_00212_OBORO_000_120	El perro traidor se unió a las filas imperiales como jefe de sus agentes encubiertos, o eso dicen. Es el hombre que acaban de conocer, Karasu... aunque me cuesta llamarlo hombre.
+TEXT_JOBNIN300_00212_OBORO_000_121	Hasta hoy, susurra al oído de los garleanos y se burla de quienes alguna vez lo llamaron amigo y hermano. Pero eso se acabó. Vinimos a Eorzea por orden del anciano de nuestra aldea, para que Karasu pague por sus crímenes... con su vida.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_122	¿Vinieron a despachar a un estafador traidor que cantó contra sus compañeros? Suenas como un tipo de los buenos. El viejo Underfoot está impresionado.
+TEXT_JOBNIN300_00212_OBORO_000_123	...¿Hm? Perdónenme: esta tierra y su lengua todavía son nuevas para nosotros. Aun así, logramos atraer a Karasu hasta aquí, pero no pocos de nuestros compañeros dieron la vida en el intento. Y ahora esto... ¿Su sacrificio fue en vano?
+TEXT_JOBNIN300_00212_OBORO_000_124	Ah... Tienes mi gratitud. Cuando uno de los nuestros cae, la tradición dicta que devolvamos su alma a la aldea, para que descanse con nuestros ancestros.
+TEXT_JOBNIN300_00212_OBORO_000_125	¡¿Qué?! ¿El alma de nuestro hermano caído llama a <if(gnum4,esta mujer,este hombre)>? ¿Será una señal? ¿Estamos destinados a luchar juntos?
+TEXT_JOBNIN300_00212_OBORO_000_126	Te haré una oferta. Te enseñaremos nuestro arte: el arte del ninjutsu. A cambio, compartirás con nosotros lo que sabes de esta tierra, para que nos sirva en nuestra misión.
+TEXT_JOBNIN300_00212_TSUBAME_000_127	¡P-Pero, Oboro! ¡<if(gnum4,Ella no es domana,Él no es domano)>! ¡No es de la aldea!
+TEXT_JOBNIN300_00212_OBORO_000_128	Mira a tu alrededor, Tsubame. Nuestros hermanos y hermanas cayeron o están gravemente heridos. Y el fracaso de hoy lo deja más que claro: no podemos esperar enfrentarnos a Karasu sin conocer el terreno.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_129	No puedo decir que me encante la idea de perder a <if(gnum4,una jefaza,un capo)> como tú, pero ¡qué demonios! ¡De joven me habría encantado probar algunas de esas técnicas con mis propias zarpas!
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_130	Y cuanto más escuchan mis orejas, mejor gente me parecen estos dos. Si quieres echarles una mano, no seré yo quien se interponga.
+TEXT_JOBNIN300_00212_OBORO_000_131	Si quieres saber más, ven al almacén del muelle de Raincatcher Gully. Te esperaremos allí.
+TEXT_JOBNIN300_00212_PERIMUHAURIMU_000_132	¿Quién lo hubiera dicho, eh? En fin, la decisión es tuya, <split(<string(gstr1)>, ,1)>. Mientras tanto, yo vuelvo a Limsa a informarle a Jacke antes de que venga y me dé un buen coscorrón en la sesera.
+TEXT_JOBNIN300_00212_TSUBAME_000_140	La tradición nos prohíbe compartir nuestro arte con quienes no son de nuestra aldea. Pero después de verl<if(gnum4,a,o)> plantarle cara a Karasu hoy, no puedo negar su potencial...
+TEXT_JOBNIN300_00212_OBORO_000_160	Así que nos volvemos a ver. ¿Debo entender que, si estás aquí, es porque decidiste aceptar nuestra oferta?
+TEXT_JOBNIN300_00212_Q2_000_000	¿Aceptar la oferta de Oboro?
+TEXT_JOBNIN300_00212_Q2_000_001	Sí
+TEXT_JOBNIN300_00212_Q2_000_002	No
+TEXT_JOBNIN300_00212_OBORO_000_165	...Gracias. No hablo solo por mí y por Tsubame, sino por toda nuestra aldea, cuando digo que tienes nuestra más profunda gratitud.
+TEXT_JOBNIN300_00212_OBORO_000_166	Lo que voy a decirte ahora prefiero decírtelo lejos de oídos extraños. Byakubu tiene órdenes de dejar pasar por las puertas detrás de mí solo a visitantes de confianza.
+TEXT_JOBNIN300_00212_OBORO_000_167	Cuando te diga <italic(1)>a-ya-me<italic(0)>, debes responder <italic(1)>ka-e-de<italic(0)>. No necesitas saber qué significan las palabras, solo que te permitirán entrar.
+TEXT_JOBNIN300_00212_OBORO_000_170	...Ya veo. Me decepciona, pero es honorable que vinieras a decírmelo en persona. Si alguna vez cambias de opinión, te ruego que vuelvas con nosotros.
+TEXT_JOBNIN300_00212_TSUBAME_000_175	Oboro decidió aceptarl<if(gnum4,a,o)>, y no me corresponde cuestionar su juicio. Desde hoy, es <if(gnum4,una,uno)> de los nuestros.
+TEXT_JOBNIN300_00212_BYAKUBU_000_180	<italic(1)>A... ya... me<italic(0)>...
+TEXT_JOBNIN300_00212_Q3_000_000	¿Qué respondes?
+TEXT_JOBNIN300_00212_A3_000_001	<italic(1)>Kaede<italic(0)>.
+TEXT_JOBNIN300_00212_A3_000_002	<italic(1)>Kaeru<italic(0)>.
+TEXT_JOBNIN300_00212_BYAKUBU_000_185	...Entra.
+TEXT_JOBNIN300_00212_BYAKUBU_000_190	...Vete.
+TEXT_JOBNIN300_00212_BYAKUBU_000_200	...El Maestro Oboro te espera.
+TEXT_JOBNIN300_00212_OBORO_000_210	Bienvenid<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. Estás en la base de operaciones provisional que mi pueblo estableció en tu tierra de Eorzea.
+TEXT_JOBNIN300_00212_OBORO_000_211	Puede que no parezca gran cosa, ni por fuera ni por dentro, pero esa es justamente la idea. Es un lugar ideal para vigilar las idas y venidas de Karasu y sus hombres sin llamar demasiado la atención.
+TEXT_JOBNIN300_00212_OBORO_000_212	Mi hermano caído vio en ti <if(gnum4,una digna heredera,un digno heredero)> de su alma. Para honrar su memoria, te la confío. Pero el alma sola no te hará <italic(1)>shinobi<italic(0)>. No: para eso hará falta entrenar el cuerpo y la mente.
+TEXT_JOBNIN300_00212_OBORO_000_213	Nuestro arte, el arte del ninjutsu, nació con nuestros ancestros hace muchos años. Desde entonces se transmite de generación en generación... de madre a hija, de padre a hijo.
+TEXT_JOBNIN300_00212_OBORO_100_213	Tomamos poder del mundo que nos rodea, del cielo, de la tierra y del corazón del hombre, y lo canalizamos para darle forma física. Me dicen que se parece a lo que ustedes llaman... <italic(1)>ei-ter<italic(0)>, ¿era así? Debo confesar que las palabras y las costumbres de Eorzea todavía me resultan ajenas.
+TEXT_JOBNIN300_00212_OBORO_000_214	¿Cómo se canaliza este poder, preguntas? Mediante los <italic(1)>mudra<italic(0)>, gestos de las manos que invocan cada una de las tres formas de energía de las que hablé. El primer mudra que te enseñaré toma poder del cielo. En Doma lo llamamos <italic(1)>Ten<italic(0)>.
+TEXT_JOBNIN300_00212_OBORO_000_215	Tienes ganas de aprender, ¿verdad? Sintoniza tu alma con la de mi hermano caído y vuelve a acercarte a mí. Entonces empezará tu entrenamiento.

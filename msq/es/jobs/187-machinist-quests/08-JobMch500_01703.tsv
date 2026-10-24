@@ -1,0 +1,52 @@
+key	text
+TEXT_JOBMCH500_01703_SEQ_00	Stephanivien quiere pedirte que reúnas a tus colegas para el torneo.
+TEXT_JOBMCH500_01703_SEQ_01	Stephanivien, eufórico porque llegó el día del torneo, quiere que llames a tus colegas para que vuelvan a la manufactura. Sal del taller y habla con Joye.
+TEXT_JOBMCH500_01703_SEQ_02	Te acercas a Joye y la encuentras desesperada tras descubrir un cajón lleno de armas de fuego rotas. Después de que la calmas un poco, logra decirte dónde está Rostnsthal. Ve al otro lado del taller y busca al maestro de puntería.
+TEXT_JOBMCH500_01703_SEQ_03	Rostnsthal se pone furioso al enterarse de las armas destrozadas y te pide que revises los alrededores de la manufactura en busca de los cómplices del culpable. Busca en Foundation a los maleantes que sigan rondando y espántalos con Slug Shot.<br><br>Si Slug Shot no está disponible, se puede usar Heated Slug Shot.
+TEXT_JOBMCH500_01703_SEQ_04	Te encuentras con tres posibles alborotadores y los ahuyentas con tu puntería aterradoramente precisa. Vuelve a la manufactura e infórmale a Stephanivien.
+TEXT_JOBMCH500_01703_SEQ_05	Apenas terminas de contarle tus encuentros a Stephanivien, una explosión cercana sacude el taller. Sal y habla con Joye.
+TEXT_JOBMCH500_01703_SEQ_06	Joye te cuenta con tristeza que encontró las torretas destruidas, pero parece que Stephanivien todavía no está dispuesto a renunciar al lugar de la House Haillenarte en el torneo. El jefe de los machinists jura reemplazar las armas dañadas y manda a tus colegas adelante para que den una demostración de confianza. Reúnete con Stephanivien en la manufactura y hablen de lo que hay que hacer para superar este nuevo desastre.
+TEXT_JOBMCH500_01703_SEQ_07	Ante los repetidos ataques contra el taller y las cada vez menores posibilidades de éxito, Stephanivien depende cada vez más del brillo de unos pocos talentosos: Joye y tú. Pero ¿bastará el talento para compensar la pérdida de tantas armas de machinist...?
+TEXT_JOBMCH500_01703_TODO_00	Habla con Joye.
+TEXT_JOBMCH500_01703_TODO_01	Habla con Rostnsthal.
+TEXT_JOBMCH500_01703_TODO_02	Usa Slug Shot para espantar a los alborotadores.
+TEXT_JOBMCH500_01703_TODO_03	Infórmale a Stephanivien.
+TEXT_JOBMCH500_01703_TODO_04	Habla con Joye.
+TEXT_JOBMCH500_01703_TODO_05	Habla con Stephanivien.
+TEXT_JOBMCH500_01703_STEPHANIVIEN_000_000	Por fin llegó el día del torneo. ¡Esto es, <split(<string(gstr1)>, ,1)>! ¡Es el momento de la verdad para la maquinística!
+TEXT_JOBMCH500_01703_STEPHANIVIEN_000_001	Te ruego que reúnas a nuestros colegas. Joye debería estar aquí afuera haciendo las últimas revisiones de las armas de fuego, y Rostnsthal... bueno, quizás Joye sepa mejor que yo dónde anda.
+TEXT_JOBMCH500_01703_STEPHANIVIEN_000_002	Te ruego que les avises a nuestros colegas que llegó el momento.
+TEXT_JOBMCH500_01703_JOYE_000_010	¡Ay, <split(<string(gstr1)>, ,1)>, esto es un desastre! ¡Alguien se metió en nuestros cajones de almacenamiento y destrozó todas las armas de fuego!
+TEXT_JOBMCH500_01703_JOYE_000_011	¡T-tengo que decírselo al señorito! ...¡No! ¡Primero tenemos que revisar los otros cajones! O, a lo mejor... ¡Aaay! ¿¡Qué hacemos!?
+TEXT_JOBMCH500_01703_JOYE_000_012	...Sí, tienes razón, claro. Entrar en pánico no nos va a servir de nada. Voy a ver qué pasó con el resto de las armas y después le cuento al señorito lo que encontré.
+TEXT_JOBMCH500_01703_JOYE_000_013	¿Rostnsthal? La última vez que lo vi, estaba tomando aire fresco detrás del taller.
+TEXT_JOBMCH500_01703_ROSTNSTHAL_000_020	No mires ahora, <if(gnum4,muchachita,muchacho)>, pero creo que otra vez tenemos visitas. Desgraciados porfiados...
+TEXT_JOBMCH500_01703_ROSTNSTHAL_000_021	...¿¡Eh!? ¿¡Que destrozaron nuestras armas, dices!? Parece que el infeliz que nos quiere fuera se cansó de andar con disimulos.
+TEXT_JOBMCH500_01703_ROSTNSTHAL_000_022	Mejor ahuyentemos al resto de estos matones antes de que se les ocurra prenderle fuego al lugar.
+TEXT_JOBMCH500_01703_ROSTNSTHAL_000_023	Ya sabes qué hacer: solo Slug Shots de advertencia, para no echarnos encima la ira de los Temple Knights. Nos vemos en el taller cuando termines tu ronda.
+TEXT_JOBMCH500_01703_SYSTEM_000_024	Para avanzar en esta misión se puede usar Heated Slug Shot en lugar de Slug Shot.
+TEXT_JOBMCH500_01703_PROWLER01703A_000_030	Hm, hm, hm. El momento tiene que ser perfecto...
+TEXT_JOBMCH500_01703_PROWLER01703A_000_035	¡Ah! ¿¡De dónde saliste!?
+TEXT_JOBMCH500_01703_PROWLER01703B_000_030	No es nada personal, Haillenarte, pero el dinero es el dinero...
+TEXT_JOBMCH500_01703_PROWLER01703B_000_035	¡P-por favor, no! ¡No fue idea mía!
+TEXT_JOBMCH500_01703_PROWLER01703C_000_030	Solo hay que esperar a que nadie mire...
+TEXT_JOBMCH500_01703_PROWLER01703C_000_035	...¡Ah! ¡Esa bolsa no vale que me disparen!
+TEXT_JOBMCH500_01703_STEPHANIVIEN_000_040	<split(<string(gstr1)>, ,1)>, ¿estás bien? Nuestro buen instructor me dice que otra vez anduvieron ocupados ahuyentando a maleantes a sueldo.
+TEXT_JOBMCH500_01703_JOYE_000_041	(-Joye-)Me temo que el daño ya está hecho, señorito. Aun juntando los repuestos, tenemos menos de la mitad de las armas que necesitamos para el torneo...
+TEXT_JOBMCH500_01703_JOYE_000_042	（★Sin uso／se eliminará★）
+TEXT_JOBMCH500_01703_STEPHANIVIEN_000_042	Entonces tendremos que arreglarnos con la mitad. Será difícil, lo sé, pero creo que todavía tenemos una oportuni...
+TEXT_JOBMCH500_01703_ROSTNSTHAL_000_043	(-Rostnsthal-)¿¡Qué demonios fue eso!? ¡Sonó como si alguien hubiera disparado un maldito cañón o algo así!
+TEXT_JOBMCH500_01703_STEPHANIVIEN_000_049	¿Y ahora qué será...?
+TEXT_JOBMCH500_01703_JOYE_000_050	Ay, s-señorito... Nuestras torretas...
+TEXT_JOBMCH500_01703_ROSTNSTHAL_000_051	(-Rostnsthal-)¡Maldición! ¡Se nos debe de haber escapado uno de esos desgraciados come mierda!
+TEXT_JOBMCH500_01703_JOYE_000_052	Se acabó, entonces. Vamos a tener que retirarnos de la competencia.
+TEXT_JOBMCH500_01703_STEPHANIVIEN_000_053	No, querida. ¡Todavía hay tiempo para remediarlo! ¡Estos intentos de arruinar nuestras posibilidades no hacen más que avivar el fuego de mi determinación!
+TEXT_JOBMCH500_01703_STEPHANIVIEN_000_054	Te ruego que me acompañes adentro, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBMCH500_01703_STEPHANIVIEN_000_055	¡Rostnsthal! ¡Joye! Lleven a sus compañeros machinists al campo del torneo y pónganse máscaras de confianza absoluta. Mientras nuestro misterioso enemigo se distrae con su despliegue de valentía, yo trabajaré para reemplazar las armas dañadas.
+TEXT_JOBMCH500_01703_JOYE_000_056	P-pero ¿¡cómo va a fabricar tantas armas antes de que empiece la competencia!?
+TEXT_JOBMCH500_01703_STEPHANIVIEN_000_057	En pocas palabras: no puedo. No con mis exigentes estándares de siempre, claro. Solo nosotros cuatro debemos saber de la mala calidad de los reemplazos.
+TEXT_JOBMCH500_01703_STEPHANIVIEN_000_058	Joye y tú tendrán que pelear todavía más duro para compensar la falta de potencia de fuego de sus colegas.
+TEXT_JOBMCH500_01703_CELESTAUX_000_060	Yo también haré lo posible por mantener el ánimo de los demás, Lord Stephanivien. Mis disculpas: no quería escuchar a escondidas ni nada, pero cuando oí el ruido...
+TEXT_JOBMCH500_01703_STEPHANIVIEN_000_061	Ah, Celestaux... Bueno, ya no hay remedio. Bienvenido a la conspiración.
+TEXT_JOBMCH500_01703_STEPHANIVIEN_000_062	Rivales formidables. Escasas posibilidades de éxito. ¡Esta será una victoria digna de una canción!
+TEXT_JOBMCH500_01703_STEPHANIVIEN_000_070	Ojalá las probabilidades no estuvieran tan en nuestra contra, ¡pero no podemos dejar que unos cuantos contratiempos se interpongan en nuestro momento de gloria!
