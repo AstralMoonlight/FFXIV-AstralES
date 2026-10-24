@@ -1,0 +1,106 @@
+key	text
+TEXT_AKTKBB141_04072_SEQ_00	Terminados sus preparativos, Lalah está lista para que Guildivain rinda cuentas.
+TEXT_AKTKBB141_04072_SEQ_01	Lalah te cuenta que terminó de preparar su contramedida contra Guildivain. Con todo listo por fin, los tres parten hacia the Hundred Throes, en The Dravanian Forelands, donde el villano tiene su guarida.
+TEXT_AKTKBB141_04072_SEQ_02	Junto a la entrada de la cueva de Guildivain, Lalah te muestra la contramedida: un conjunto de ropa con un encantamiento especial que te protege de la influencia de tu enemigo. Te pones la nueva vestimenta y te adentras en la cueva, donde encuentras a Guildivain esperando con Mahaud y Ancel.
+TEXT_AKTKBB141_04072_SEQ_03	Al servicio de su retorcida investigación, Guildivain lanza a Mahaud y Ancel contra ti, pero logras liberarlos de su control. Sin inmutarse, y de hecho encantado con tu hazaña, el sage deshonrado se transforma entonces en un monstruo temible para hacer sus pruebas en persona, pero con tus firmes compañeros a tu lado resistes lo peor de su magia funesta y lo reduces.
+TEXT_AKTKBB141_04072_SEQ_04	Aunque Ancel no quiere otra cosa que acabar con Guildivain, Mahaud cree que Loifa debe ser quien decida el destino del villano. Y, fiel a su juramento, él le perdona la vida para que enfrente a la justicia en Sharlayan. Luego Loifa se ofrece a devolverle su soul crystal a Lalah, pero ella le pide que lo conserve y que, con sus actos, honre la memoria de su madre.
+TEXT_AKTKBB141_04072_SEQ_05	Al volver a Idyllshire, Lalah les cuenta a Loifa y sus amigos que informó a sus superiores de su desaparición. Como los sórdidos detalles de los experimentos de Guildivain salieron a la luz, quizás a pesar de los esfuerzos del Forum, la inocencia de los antiguos fugitivos quedó clara. Así que ya no tienen que temer que los persigan las autoridades sharlayanas y son libres de empezar de nuevo. Loifa promete usar sus poderes para el bien mientras busca una cura para Mahaud y Ancel, y ellos, a su vez, seguirán a su lado. Inspirad<if(gnum4,a,o)> por su determinación, haces el juramento silencioso de seguir haciendo tu parte, llevando las esperanzas de los sages del pasado y luchando por el futuro de todas las vidas.
+TEXT_AKTKBB141_04072_TODO_00	Habla con Lalah Jinjahl en the Hundred Throes.
+TEXT_AKTKBB141_04072_TODO_01	Habla con Lalah Jinjahl en the Hundred Throes.
+TEXT_AKTKBB141_04072_TODO_02	Vuelve a hablar con Lalah Jinjahl.
+TEXT_AKTKBB141_04072_TODO_03	Habla con Loifa en Idyllshire.
+TEXT_AKTKBB141_04072_LOIFA_100_000	Pronto... Pronto rescataremos a Mahaud y Ancel, y saldaremos cuentas con Guildivain...
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_000	Perdón por la espera: la contramedida está lista. Pero como es bastante delicada, la guardaré hasta el momento decisivo.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_100_000	Bien. Vamos a la guarida de Guildivain de inmediato.
+TEXT_AKTKBB141_04072_LOIFA_000_001	¿Hay más noticias de Mahaud y Ancel?
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_002	Mi compañero agente informa que sus amigos siguen vivos. Y juntos nos aseguraremos de que sigan así.
+TEXT_AKTKBB141_04072_LOIFA_000_003	Gracias, gracias... Aunque para mí son más que amigos: son mi familia.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_004	Nuestro destino está en el noreste de The Dravanian Forelands, donde las faldas de Sohm Al se encuentran con the Hundred Throes. La entrada de la cueva está justo al oeste de los manantiales.
+TEXT_AKTKBB141_04072_LOIFA_100_005	Entendido. Me adelantaré para explorar la zona.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_010	Aquí es, <split(<string(gstr1)>, ,1)>: la guarida de Guildivain. Recuerde que lo principal es la seguridad de Mahaud y Ancel.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_011	En cuanto a la contramedida: es un conjunto de ropa con un encantamiento especial que l<if(gnum4,a,o)> protegerá de la influencia de Guildivain. Si llegara a pasar lo peor, l<if(gnum4,a,o)> mantendrá a salvo, y mantendrá vivas nuestras esperanzas.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_100_012	Como le dije, es bastante delicada, pero le garantizo que le durará esta batalla. Cuando esté list<if(gnum4,a,o)> para entrar, le pediré que se la ponga.
+TEXT_AKTKBB141_04072_SYSTEM_110_012	Durante la batalla, parte de tu equipo tendrá un glamour. Tus atributos y habilidades no se verán afectados.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_012	Entonces... ¿Está list<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>?
+TEXT_AKTKBB141_04072_LOIFA_000_020	¡Mahaud! ¡Ancel!
+TEXT_AKTKBB141_04072_MAHAUD_000_021	¡Aaagh! ¡Ahhhhhh!
+TEXT_AKTKBB141_04072_ANCEL_000_022	Grrr... ¡Aaarrrggghhh!
+TEXT_AKTKBB141_04072_LOIFA_000_023	¿¡Qué les hiciste, desgraciado!?
+TEXT_AKTKBB141_04072_GUILDIVAIN_000_024	Vaya, cuánta ira, ¡cuando deberías alegrarte por tus amigos! Tienen la oportunidad de contribuir al futuro de la humanidad.
+TEXT_AKTKBB141_04072_GUILDIVAIN_000_025	Por la fragilidad de nuestra carne, tanto conocimiento, habilidad y experiencia se pierden para siempre. ¡Un desperdicio inadmisible e inaceptable!
+TEXT_AKTKBB141_04072_GUILDIVAIN_000_026	No habrá una solución duradera al problema sin más sacrificios. Es inevitable. Pero <italic(1)>tú<italic(0)>, amigo mío... tú eres un espécimen vivo de valor incalculable, ¡y doy gracias por la oportunidad de estudiarte más a fondo!
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_027	¡Monstruo! ¿¡Cuántas vidas se perdieron y se destrozaron por sus retorcidos caprichos!?
+TEXT_AKTKBB141_04072_GUILDIVAIN_000_028	Hace bien el papel de moralista indignada. Lástima. Como compatriota sharlayana, tenía la esperanza de que usted, al menos, llegara a apreciar mi visión. Por desgracia, es tan corta de miras como los demás.
+TEXT_AKTKBB141_04072_GUILDIVAIN_000_029	Pero no importa. Todavía puede servir para algo: como referencia de mis avances. Oh, sí, están todos los elementos para una prueba de fuerza.
+TEXT_AKTKBB141_04072_GUILDIVAIN_000_030	Mahaud, Ancel. Maten a estos tontos santurrones.
+TEXT_AKTKBB141_04072_MAHAUD_000_031	(-Mahaud y Ancel-)¡¡¡GRAAAAAARRRGH!!!
+TEXT_AKTKBB141_04072_LOIFA_000_032	¡Aguanten, amigos! ¡Los vamos a salvar!
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_033	Debería ser posible romper el control de Guildivain. Solo tenemos que encontrar una oportunidad...
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_034	En cuanto a usted: le agradecería que nunca más me llamara compatriota.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_035	Me da asco pensar que somos del mismo país.
+TEXT_AKTKBB141_04072_GUILDIVAIN_000_036	Vaya, vaya, la animosidad es casi palpable. Más vale que me haga a un lado.
+TEXT_AKTKBB141_04072_LOIFA_000_040	¡Mahaud! ¡Ancel!
+TEXT_AKTKBB141_04072_LOIFA_000_041	Perdónenme... No quería hacerles daño...
+TEXT_AKTKBB141_04072_GUILDIVAIN_000_042	Vaya... Parece que tienes una afinidad excepcional con el arte del sage.
+TEXT_AKTKBB141_04072_GUILDIVAIN_000_043	¡Ja, ja, ja! ¡Que me bendigan con especímenes tan excelentes para mi investigación! ¡Tenemos que ver qué más pueden hacer! ¡Sí, tenemos que verlo!
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_044	¡Cuidado!
+TEXT_AKTKBB141_04072_LOIFA_000_045	¿Qué...?
+TEXT_AKTKBB141_04072_Q1_000_000	¿Qué dices?
+TEXT_AKTKBB141_04072_A1_000_001	Tienes una promesa que cumplir.
+TEXT_AKTKBB141_04072_A1_000_002	Ahora estamos a mano.
+TEXT_AKTKBB141_04072_LOIFA_000_046	Sí... No caeré. Nunca más.
+TEXT_AKTKBB141_04072_LOIFA_000_047	Tras todo el sufrimiento y el sacrificio, sigo aquí. Sigo vivo.
+TEXT_AKTKBB141_04072_LOIFA_000_048	Y mientras viva, me niego a dejar que nadie más se me muera.
+TEXT_AKTKBB141_04072_LOIFA_000_049	¿Qué dicen, Mahaud, Ancel?
+TEXT_AKTKBB141_04072_MAHAUD_000_050	Ni hace falta que preguntes.
+TEXT_AKTKBB141_04072_ANCEL_000_051	Adonde vayas, te seguimos. Ya lo sabes.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_052	Yo también creo en usted, Loifa. En usted y en <split(<string(gstr1)>, ,1)>.
+TEXT_AKTKBB141_04072_LOIFA_000_053	¡Guildivain! Querías ver qué más podíamos hacer, ¿no? ¡Entonces ven a averiguarlo!
+TEXT_AKTKBB141_04072_GUILDIVAIN_000_054	Jajaja... ¡Ajajajajaja!
+TEXT_AKTKBB141_04072_GUILDIVAIN_100_054	¡Maravilloso! ¡Absolutamente maravilloso!
+TEXT_AKTKBB141_04072_GUILDIVAIN_000_055	¡No se contengan, mis queridos sujetos, porque yo tampoco lo haré! ¡Por el bien de la humanidad, superemos juntos los límites de nuestra carne!
+TEXT_AKTKBB141_04072_LOIFA_000_060	...
+TEXT_AKTKBB141_04072_ANCEL_000_061	¿Qué estamos esperando? ¡Matémoslo y acabemos con esto!
+TEXT_AKTKBB141_04072_MAHAUD_000_062	No, Ancel. La decisión debe ser de Loifa.
+TEXT_AKTKBB141_04072_LOIFA_000_063	Este poder que tengo, nacido de sacrificios incontables...
+TEXT_AKTKBB141_04072_LOIFA_000_064	Juré que solo lo usaría para proteger la vida. No para quitarla.
+TEXT_AKTKBB141_04072_LOIFA_000_065	Guildivain enfrentará a la justicia en su patria, donde cometió sus crímenes más atroces.
+TEXT_AKTKBB141_04072_LOIFA_000_066	Lo siento, amigos.
+TEXT_AKTKBB141_04072_LOIFA_000_067	Lalah. Este cristal era de tu madre, y por derecho te pertenece.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_068	Ya está donde debe estar. Con sus actos, honre la memoria de mi madre.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_069	Yo me esforzaré por hacer lo mismo, con mi fiel espada y mi escudo.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_070	Con su permiso, pongo a Guildivain bajo custodia. Será trasladado de vuelta a Sharlayan, donde lo juzgará el Forum.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_071	Mientras me ocupo de los trámites necesarios, ustedes deberían volver a Idyllshire y descansar. Me reuniré con ustedes en breve.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_072	Esta clemencia es más de lo que merece, pero responderá por sus crímenes. Por todos y cada uno.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_080	Cuando salí de Sharlayan, quería recuperar el soul crystal de mi madre. Lo quería como recuerdo de ella.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_081	Pero me di cuenta de que no hay mejor forma de recordarla que el legado de lo que hizo en vida.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_082	Era la más gentil y noble de las mujeres, alguien que nunca retrocedía ante el peligro cuando alguien necesitaba auxilio.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_084	Y me esforzaré por honrar ese legado saliendo en defensa de quienes necesiten protección.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_085	Eso incluye a Loifa y sus amigos. Así que, por si le preocupan, no se preocupe.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_086	Usted también debería volver a Idyllshire. Los dioses saben que también merece un descanso.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_087	Por favor, adelántese a Idyllshire. Yo iré en breve.
+TEXT_AKTKBB141_04072_GUILDIVAIN_100_087	Je, je, je... Maravilloso... Absolutamente maravilloso... ¿No te parece... mi querida Hatia?
+TEXT_AKTKBB141_04072_MAHAUD_000_088	Tenemos la oportunidad de volver a ver a nuestra madre, y te lo debemos a ti.
+TEXT_AKTKBB141_04072_ANCEL_000_089	Por venganza estábamos dispuestos a morir... pero ahora tenemos una razón para vivir.
+TEXT_AKTKBB141_04072_LOIFA_000_090	Te tomaste tu tiempo. A ver si adivino: estabas hablando con tus superiores y haciendo los arreglos para mandarnos a Sharlayan a nosotros también.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_091	(-Lalah Jinjahl-)Tuvimos una conversación larga y difícil, debo confesarlo.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_092	Aunque les alegró que Guildivain volviera a Sharlayan, y con vida, nada menos, les decepcionó mucho saber que los fugitivos escaparon. Y que, pese a todos mis esfuerzos, no pude volver a dar con su rastro.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_093	Aunque no desconfío exactamente del Forum, tengo motivos para creer que sabían más de las actividades de Guildivain de lo que dejaban ver. Quizás esperaban una resolución que no sacara a la luz los sórdidos detalles de sus experimentos...
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_094	Pero ahora que todo va a salir a la luz, y su inocencia quedó clara, mis superiores ya no pensarán en perseguirlos. Son libres de empezar de nuevo, y es lo mínimo que merecen después de todo lo que sufrieron.
+TEXT_AKTKBB141_04072_LOIFA_000_095	Vaya, vaya. Eres sorprendentemente razonable para ser una sharlayana cabeza dura.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_096	¡Cómo dice! ¡Con un simple "gracias" bastaba!
+TEXT_AKTKBB141_04072_LOIFA_000_097	Nunca pedí mis poderes, pero el destino quiso que los tuviera.
+TEXT_AKTKBB141_04072_LOIFA_000_098	Y los usaré para lo que fueron creados, y lucharé por el futuro de todas las vidas.
+TEXT_AKTKBB141_04072_LOIFA_000_099	También buscaré una cura para los efectos secundarios del procedimiento.
+TEXT_AKTKBB141_04072_LOIFA_000_100	Y cuando lo logre, mis amigos por fin podrán volver a casa, con la tranquilidad de que no volverán a perder el control.
+TEXT_AKTKBB141_04072_MAHAUD_000_101	No sabemos cómo agradecerles que vinieran a ayudarnos.
+TEXT_AKTKBB141_04072_ANCEL_000_102	Sí. Si no fuera por ustedes, estaríamos muertos, o algo peor.
+TEXT_AKTKBB141_04072_ANCEL_000_103	Casi nos habíamos dado por perdidos y solo vivíamos para la venganza. Pero ustedes nos dieron una segunda oportunidad, y no la vamos a desperdiciar.
+TEXT_AKTKBB141_04072_MAHAUD_000_104	Ayudaremos a Loifa en su investigación, claro, y será tanto por él como por nosotros. Con todas sus bravatas, no soporta estar solo.
+TEXT_AKTKBB141_04072_LOIFA_000_105	¿Q-Qué?
+TEXT_AKTKBB141_04072_ANCEL_000_106	Sí, creíamos que los hombres viera preferían la soledad, pero no nuestro Loifa. En el fondo, es un niñito solitario.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_107	Una familia, de verdad...
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_108	De niña, veía a los sages de antaño con asombro. En las historias, todos eran figuras severas, casi míticas, intocables en sus virtudes e ideales.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_109	Pero cuanto más lo pienso, más me convenzo de que esas leyendas no pudieron ser tan distintas de nosotros. No: eran gente común que sentía un gran amor por sus amigos y su familia. Y ese amor se extendía a toda vida.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_110	Hoy más que nunca veo ese amor en mi querida madre difunta. Y aunque todavía me queda mucho por aprender, siempre me esforzaré por enorgullecerla.
+TEXT_AKTKBB141_04072_LALAHJINJAHL_000_111	Gracias, <split(<string(gstr1)>, ,1)>. No habría aprendido estas lecciones, ni cumplido mi misión, sin usted. Como nuestro trabajo terminó, se acabó nuestro tiempo juntos. Pero me quedaré un tiempo en Eorzea, y espero verl<if(gnum4,a,o)> más y escuchar sus historias.

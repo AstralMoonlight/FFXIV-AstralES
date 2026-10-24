@@ -1,0 +1,108 @@
+key	text
+TEXT_KINGBB121_04851_SEQ_00	Keshkwa tiene noticias graves que compartir.
+TEXT_KINGBB121_04851_SEQ_01	Iq Soq Xmajun volvió a atacar. Como Golias ya está interrogando a los testigos, Keshkwa y tú van a reunirse con él en Fallgourd Float para ayudar a descubrir pistas que podrían ser vitales.
+TEXT_KINGBB121_04851_SEQ_02	Los Twin Adders pidieron a cualquiera que tenga información sobre Iq Soq Xmajun que vaya a Fallgourd Float, donde pueden contarle lo que saben a Golias y a los demás soldados presentes. Keshkwa y tú se ofrecen a ayudar hablando con los aventureros que acaban de llegar del bosque.
+TEXT_KINGBB121_04851_SEQ_03	Todos los aventureros tienen historias sobre el tural vidraal, que se hizo notar en distintos lugares. Con un montón de información nueva, buscas a Keshkwa para compartir lo que averiguaste.
+TEXT_KINGBB121_04851_SEQ_04	Al comparar notas, descubren que las historias de los avistamientos en East Shroud no terminan de coincidir. Uno de los aventureros con los que habló Keshkwa asegura que oyó a Iq Soq Xmajun pero no lo vio, así que tu mentor sugiere volver a interrogarlo.
+TEXT_KINGBB121_04851_SEQ_05	El aventurero del relato inusual explica que, aunque estaba lo bastante cerca para oír el aleteo de Iq Soq Xmajun, en realidad no llegó a ver a la bestia. Parece un detalle sin importancia, pero cuando menciona que en ese momento llevaba un popurrí ala mhigano, Keshkwa casi salta de emoción y sale corriendo a buscar a Golias.
+TEXT_KINGBB121_04851_SEQ_06	Tras hablarlo más, concluyen que muchos de los que sobrevivieron a encuentros con Iq Soq Xmajun llevaban un popurrí con hierba silvestre de Gyr Abania. Suponiendo que el potente aroma de la planta mantuvo a raya a la bestia, Keshkwa y tú deciden juntar una buena cantidad en Pike Falls, donde crece en abundancia.
+TEXT_KINGBB121_04851_SEQ_07	Aunque juntar hierba silvestre es una tarea relativamente sencilla, no está libre de peligros, como la fauna local se encarga de recordarte. Una vez cosechada una cantidad suficiente, estás ansios<if(gnum4,a,o)> por mostrarle a Keshkwa el fruto de tu trabajo.
+TEXT_KINGBB121_04851_SEQ_08	Satisfecho con la hierba silvestre que juntaste por ahora, Keshkwa sugiere ir a Quarrymill, donde quedaron en reunirse con Golias.
+TEXT_KINGBB121_04851_SEQ_09	Al volver a Quarrymill, encuentras a Golias acompañado de Innocent Stork, que encargó unas bolsas difusoras para dispersar mejor el aroma de la hierba silvestre. Cuando las bolsas estén listas, podrán llevar a Iq Soq Xmajun al lugar que elijan. Luego Innocent Stork pregunta si, en vez de matar a Iq Soq Xmajun, sería posible capturarlo para estudiarlo. Pero a Keshkwa no le gusta nada la idea, y le recuerda que sus cazadores no lograron burlar a la astuta bestia. Aunque lo capturaran, está seguro de que escaparía, y declara que hay que matarlo sin dudar. Innocent Stork cede y acepta su argumento, pero Keshkwa sospecha que esconde algo, igual que Golias, a quien el viper nota raro. Cazar a Iq Soq Xmajun ya es bastante difícil, pero tener que hacerlo mientras dudas de los motivos de tus aliados solo complica las cosas...<br><br>※La siguiente misión de viper estará disponible con Keshkwa al llegar al nivel 88.
+TEXT_KINGBB121_04851_TODO_00	Habla con Golias en Fallgourd Float.
+TEXT_KINGBB121_04851_TODO_01	Reúne información.
+TEXT_KINGBB121_04851_TODO_02	Habla con Keshkwa.
+TEXT_KINGBB121_04851_TODO_03	Habla con el aventurero sereno.
+TEXT_KINGBB121_04851_TODO_04	Habla con Golias.
+TEXT_KINGBB121_04851_TODO_05	Busca hierba silvestre fragante en Pike Falls.
+TEXT_KINGBB121_04851_TODO_06	Habla con Keshkwa.
+TEXT_KINGBB121_04851_TODO_07	Habla con Golias en Quarrymill.
+TEXT_KINGBB121_04851_SYSTEM_100_000	Para emprender esta misión, primero debes completar la misión de la historia principal "Beyond the Great Wall".
+TEXT_KINGBB121_04851_KESHKWA_000_000	Me levanté esta mañana con un mal presentimiento y, efectivamente, Iq Soq Xmajun volvió a atacar.
+TEXT_KINGBB121_04851_KESHKWA_000_003	Golias e Innocent Stork están intentando reducir, según los informes, dónde aparecerá la próxima vez, pero hasta ahora no consiguieron nada.
+TEXT_KINGBB121_04851_KESHKWA_000_004	Oí que Golias está en Fallgourd Float, hablando con los testigos. Vamos a ver qué averiguó.
+TEXT_KINGBB121_04851_KESHKWA_000_010	Igual que con los cazadores de Innocent Stork. Deja los cadáveres donde caen, sin comerlos, solo para dejar claro algo: "Esto es mío, y viven o mueren según me plazca".
+TEXT_KINGBB121_04851_GOLIAS_000_020	Gracias por venir. Supongo que Keshkwa ya les contó algunos detalles, pero es todavía peor de lo que pensábamos. Iq Soq Xmajun se vuelve cada vez más audaz... con consecuencias mortales.
+TEXT_KINGBB121_04851_GOLIAS_000_021	Por suerte, la gente de aquí mantiene la calma, aunque debemos actuar rápido para evitar un pánico generalizado. Los Adders pidieron a cualquiera con información que la comparta y se reúna aquí.
+TEXT_KINGBB121_04851_GOLIAS_000_022	Como pedimos que se informara cualquier detalle, por pequeño que fuera, estamos algo desbordados. Pero estoy seguro de que entre los relatos hay pistas vitales para localizar a nuestra presa.
+TEXT_KINGBB121_04851_KESHKWA_000_023	Podemos ayudar con eso. Solo tenemos que preguntarle a la gente de aquí qué vio, ¿no?
+TEXT_KINGBB121_04851_GOLIAS_000_024	¡Ah, sí, eso sería de gran ayuda! ¿Quizás usted podría empezar cerca del aetheryte, mientras <split(<string(gstr1)>, ,1)> pregunta a los que están junto al Bobbing Cork?
+TEXT_KINGBB121_04851_KESHKWA_000_030	Dime loco, pero creo que le estoy agarrando la mano a esto de las artes de la conversación. Quizás tuve <if(gnum4,una buena maestra,un buen maestro)>.
+TEXT_KINGBB121_04851_GOLIAS_000_035	Le recomiendo interrogar a los aventureros. Con su naturaleza curiosa y su tendencia a meterse en problemas, es más probable que hayan visto algo interesante.
+TEXT_KINGBB121_04851_ADVENTURERA04851_000_040	Pasaba por North Shroud cuando vi una criatura espantosa con unas alas rojas inmensas. Estaba un poco lejos para verla bien, pero parecía estar peleando contra un grupo de bestias más pequeñas, a las que masacró enseguida antes de irse volando.
+TEXT_KINGBB121_04851_ADVENTURERB04851_000_045	Cuando pasaba por aquí, oí que algún monstruo andaba desbocado en East Shroud.
+TEXT_KINGBB121_04851_ADVENTURERB04851_000_046	Al principio no le di mucha importancia, pero cuando vi a toda la gente que venía de esa dirección, y las caras que traían, decidí quedarme quieto. Menos mal, o quizás estaría muerto.
+TEXT_KINGBB121_04851_ADVENTURERC04851_000_050	¡L-Lo vi volando sobre Central Shroud! Con cada aleteo de sus enormes alas venía un viento poderoso con olor a sangre. ¡Tan nauseabundo y asfixiante que apenas pude contener el vómito!
+TEXT_KINGBB121_04851_ADVENTURERA04851_000_060	Incluso de lejos pude ver lo que les hizo a esas otras criaturas más pequeñas. Nunca olvidaré cómo sus garras las atravesaban como un cuchillo a la mantequilla.
+TEXT_KINGBB121_04851_ADVENTURERB04851_000_065	No sé exactamente qué pasó en East Shroud, pero, por cómo hablaban los sobrevivientes, debe de haber sido horrible.
+TEXT_KINGBB121_04851_ADVENTURERC04851_000_070	Esas alas carmesí, el hedor a sangre... ¡Me van a perseguir hasta el fin de mis días!
+TEXT_KINGBB121_04851_KESHKWA_000_090	Todos tienen una historia que contar, pero nada que parezca indicar dónde atacará Iq Soq Xmajun la próxima vez. ¿Te fue mejor a ti?
+TEXT_KINGBB121_04851_KESHKWA_000_091	North, East y Central Shroud, ¿eh? Los que yo interrogué dijeron que estaba en el sur. Te digo que debe de estar intentando hacer de todo el maldito bosque su territorio.
+TEXT_KINGBB121_04851_KESHKWA_000_092	Un momento. Uno de los tipos con los que hablé estuvo en East Shroud...
+TEXT_KINGBB121_04851_KESHKWA_000_093	Tu testigo oyó que la bestia andaba desbocada, pero el mío dijo que nunca vio a Iq Soq Xmajun, aunque deberían haber estado allí al mismo tiempo. Vale la pena investigarlo, ¿no crees?
+TEXT_KINGBB121_04851_Q1_000_100	¿Qué dices?
+TEXT_KINGBB121_04851_A1_000_100	Puede que tengas razón.
+TEXT_KINGBB121_04851_A2_000_100	No parece mucho, pero es nuestra única pista.
+TEXT_KINGBB121_04851_KESHKWA_000_095	No digo que sea la respuesta, pero nunca se sabe adónde te lleva un rastro hasta que lo sigues.
+TEXT_KINGBB121_04851_KESHKWA_000_096	Deberíamos volver a hablar con ese tipo. Te llevo con él.
+TEXT_KINGBB121_04851_KESHKWA_000_100	Este es el caballero que se paseó por East Shroud y no vio nada, o eso dice.
+TEXT_KINGBB121_04851_ADVENTURERD04851_000_122	Como dije antes, estaba atravesando East Shroud por un encargo cuando oí algo que sonaba como el aleteo de unas alas enormes.
+TEXT_KINGBB121_04851_ADVENTURERD04851_000_123	Un momento después vi a un animal herido corriendo entre la maleza. Fue entonces cuando recordé los rumores de una monstruosidad suelta, me di cuenta de que estaba en peligro y corrí.
+TEXT_KINGBB121_04851_KESHKWA_000_124	¿Así que el bicho estaba herido, pero aun así pudo escapar? Pero la única forma de que se librara de Iq Soq Xmajun es que el desgraciado lo dejara ir...
+TEXT_KINGBB121_04851_KESHKWA_000_125	Y mientras tanto, nuestro amigo aquí estaba lo bastante cerca para oír el aleteo, y vivió para contarlo. Un aventurero que viaja solo habría sido presa fácil, entonces ¿por qué Iq Soq Xmajun lo perdonó?
+TEXT_KINGBB121_04851_Q2_000_200	¿Qué dices?
+TEXT_KINGBB121_04851_A1_000_200	¿Hizo algo que ningún otro aventurero había hecho?
+TEXT_KINGBB121_04851_A2_000_200	¿Llevaba algo que ningún otro aventurero tenía?
+TEXT_KINGBB121_04851_ADVENTURERD04851_000_130	Aparte de correr como si me fuera la vida en ello, no hice nada fuera de lo común. Aunque, ahora que lo pienso, se me ocurre una cosa...
+TEXT_KINGBB121_04851_ADVENTURERD04851_000_135	Lo único que llevaba encima eran unas pociones y éteres embotellados. Ah, pero había otra cosa...
+TEXT_KINGBB121_04851_ADVENTURERD04851_000_140	Llevo un popurrí con hierba silvestre de Gyr Abania. Una costumbre ala mhigana, por si no lo sabían.
+TEXT_KINGBB121_04851_KESHKWA_000_141	¡Tiene que ser eso! ¡Golias va a querer oír esto!
+TEXT_KINGBB121_04851_ADVENTURERD04851_000_150	Eso fue... raro. Nunca vi a nadie emocionarse tanto con solo mencionar un popurrí, pero supongo que hay gente para todo.
+TEXT_KINGBB121_04851_KESHKWA_000_155	Podemos repasar los detalles después, pero primero necesito que Golias averigüe algo por mí.
+TEXT_KINGBB121_04851_GOLIAS_000_170	¿Podría esperar aquí un momento? Keshkwa me pidió que verificara una teoría suya. No tardaré.
+TEXT_KINGBB121_04851_GOLIAS_000_190	Es exactamente como usted supuso.
+TEXT_KINGBB121_04851_GOLIAS_000_191	La mayoría de los que vieron a Iq Soq Xmajun y vivieron para contarlo son aventureros ala mhiganos.
+TEXT_KINGBB121_04851_KESHKWA_000_192	Lo sabía. Tiene que ser ese aroma.
+TEXT_KINGBB121_04851_KESHKWA_000_193	Muchos animales tienen un olfato muy potente, e Iq Soq Xmajun no es la excepción. Por eso es mucho más sensible a los olores que no le gustan.
+TEXT_KINGBB121_04851_KESHKWA_000_194	Creo que la bestia no soporta la hierba silvestre de esos popurrís. Es un aroma potente, muy parecido al de otra hierba que tenemos en Tural.
+TEXT_KINGBB121_04851_KESHKWA_000_195	Ahora que lo pienso, ¡Iq Soq Xmajun nunca se acercó a donde crecía esa hierba!
+TEXT_KINGBB121_04851_GOLIAS_000_196	Si lo que para uno es manjar para otro es veneno, quizás lo mismo valga para los aromas.
+TEXT_KINGBB121_04851_KESHKWA_000_197	Exacto. Y ahora que sabemos qué no soporta Iq Soq Xmajun, podemos usar esta información para llevarlo adonde queramos.
+TEXT_KINGBB121_04851_GOLIAS_000_198	Entonces... me convendría compartir nuestro descubrimiento con Innocent Stork. Con la información y los contactos que tiene a su disposición, me atrevería a decir que nos ayudará a encontrar la forma de aprovechar el aroma al máximo.
+TEXT_KINGBB121_04851_KESHKWA_000_199	Me atrevería a decir que tiene razón. Mientras tanto, nosotros iremos a Gyr Abania a recoger hierba silvestre.
+TEXT_KINGBB121_04851_GOLIAS_000_200	Sí, por supuesto... Debemos hacer todo lo que esté en nuestras manos para evitar otra tragedia.
+TEXT_KINGBB121_04851_GOLIAS_000_201	Muchos de los aventureros reunidos aquí están tan aterrados de toparse con Iq Soq Xmajun que están pensando en dejar el oficio por completo.
+TEXT_KINGBB121_04851_GOLIAS_000_203	Varios todavía son novatos. Si tuvieran que enfrentarse a un enemigo tan superior, morirían antes de ganar la experiencia necesaria para que siquiera se los considere aventureros. La idea de que les arrebaten así su brillante futuro es casi más de lo que puedo soportar.
+TEXT_KINGBB121_04851_GOLIAS_000_204	Esa es precisamente la razón por la que me uní a los Twin Adders: para evitar muertes tan absurdas.
+TEXT_KINGBB121_04851_GOLIAS_000_205	Por eso les pido humildemente su colaboración para matar al temible Iq Soq Xmajun.
+TEXT_KINGBB121_04851_KESHKWA_000_206	No hace falta pedirlo. Ya tenía toda la intención de mandar bajo tierra a ese desgraciado.
+TEXT_KINGBB121_04851_GOLIAS_000_207	Vamos al asunto, entonces. Hace un momento, uno de los aventureros mencionó que la hierba silvestre que buscamos crece en abundancia en Pike Falls.
+TEXT_KINGBB121_04851_GOLIAS_000_208	Una vez que hayan juntado suficiente, reunámonos en Quarrymill. Pero debo advertirles que en Gyr Abania vive una fauna especialmente feroz. Estén alerta.
+TEXT_KINGBB121_04851_GOLIAS_000_220	Avisaré a la Eorzean Alliance que ustedes estarán recogiendo suministros necesarios en the Fringes, no vaya a ser que los centinelas los confundan con bandidos o algo peor.
+TEXT_KINGBB121_04851_KESHKWA_000_225	Esto me trae recuerdos. Una vez estaba recogiendo hierbas para preparar un paralizante que hace maravillas con los tural vidraal. Lo único es que me olvidé de ponerme guantes, y no sentí las manos durante los tres días siguientes.
+TEXT_KINGBB121_04851_KESHKWA_000_240	Con esto debería bastar. Por mucho que me gustaría quedarme a estudiar la fauna, mejor volvamos a Quarrymill.
+TEXT_KINGBB121_04851_INNOCENTSTORCK_000_250	En cuanto me informaron de su plan para atrapar a Iq Soq Xmajun, vine lo más rápido que pude.
+TEXT_KINGBB121_04851_KESHKWA_000_255	Ahora solo necesitamos una forma de difundir el extracto.
+TEXT_KINGBB121_04851_GOLIAS_000_270	Hicieron bien en juntar tanta hierba silvestre. Como prometí, llamé a Innocent Stork para que nos aconseje sobre los siguientes pasos.
+TEXT_KINGBB121_04851_INNOCENTSTORCK_000_271	Le encargué a un alquimista conocido unas bolsas difusoras hechas a medida, que podremos usar para esparcir el aroma por una zona amplia y prolongar su potencia.
+TEXT_KINGBB121_04851_INNOCENTSTORCK_000_272	Les daremos estas bolsas a las unidades de los Twin Adders encargadas de llevar a la bestia a un lugar aislado que elijamos.
+TEXT_KINGBB121_04851_KESHKWA_000_273	Lejos de los civiles, y un lugar ideal para el enfrentamiento final. Bien pensado.
+TEXT_KINGBB121_04851_INNOCENTSTORCK_000_274	En efecto. Una vez fabricadas las bolsas, la bestia es prácticamente nuestra.
+TEXT_KINGBB121_04851_INNOCENTSTORCK_000_275	Si me permiten, tengo otra petición. En vez de matar a Iq Soq Xmajun de una vez, ¿podrían capturarlo vivo?
+TEXT_KINGBB121_04851_INNOCENTSTORCK_000_276	Para entender mejor su comportamiento. Ese conocimiento sería invaluable si en el futuro nos acosaran depredadores de naturaleza parecida.
+TEXT_KINGBB121_04851_KESHKWA_000_277	Es un riesgo que no podemos correr, señora. Esos cazadores suyos intentaron atraerlo con un cadáver con sedantes, pero Iq Soq Xmajun vio a través de su plan.
+TEXT_KINGBB121_04851_KESHKWA_100_277	Demostró una astucia que rivaliza con la de cualquier hombre. Aunque lo capturáramos, sería cuestión de tiempo hasta que escapara y volviera a matar. Solo hay una forma de tratar con una monstruosidad así: matarla en la primera oportunidad. Sin medias tintas, sin dudar.
+TEXT_KINGBB121_04851_INNOCENTSTORCK_000_279	Entonces no nos queda otra opción.
+TEXT_KINGBB121_04851_INNOCENTSTORCK_000_280	Les ruego que perdonen una sugerencia tan imprudente. Abandonaré toda idea de capturar a la bestia y me ocuparé de conseguir las bolsas difusoras. Pronto tendrán noticias mías.
+TEXT_KINGBB121_04851_KESHKWA_000_281	A estas alturas ya debería saber a qué nos enfrentamos. ¿Para qué preguntar siquiera...?
+TEXT_KINGBB121_04851_Q3_000_300	¿Qué dices?
+TEXT_KINGBB121_04851_A1_000_300	No se puede confiar en Innocent Stork.
+TEXT_KINGBB121_04851_A2_000_300	Tiene sus propios intereses.
+TEXT_KINGBB121_04851_KESHKWA_000_285	\<suspiro> No soy de los que adivinan las intenciones de la gente. Ojalá nos hiciera el favor a todos de poner las cartas sobre la mesa.
+TEXT_KINGBB121_04851_GOLIAS_000_286	Los ricos y poderosos rara vez son tan complacientes.
+TEXT_KINGBB121_04851_KESHKWA_000_287	En eso tiene razón. Pero ya que la gente sencilla estamos diciendo lo que pensamos...
+TEXT_KINGBB121_04851_KESHKWA_000_288	Hay miedo en usted, pero no sé de qué. ¿Me cuenta qué le pasa? Nunca se sabe, quizás pueda ayudar.
+TEXT_KINGBB121_04851_GOLIAS_000_289	Bueno, eh, después de hablar con esos aventureros, no puedo evitar sentir un poco de miedo de Iq Soq Xmajun, eso es todo. E-En fin, debería volver a Gridania para, eh... dar mi informe.
+TEXT_KINGBB121_04851_KESHKWA_000_290	La gente siempre dice una cosa y quiere decir otra. Justo cuando empezaba a creer que le había agarrado la mano a la conversación educada...
+TEXT_KINGBB121_04851_KESHKWA_000_293	No se puede forzar, ya sé. Si Golias tiene algo que decir, lo dirá cuando esté listo.
+TEXT_KINGBB121_04851_KESHKWA_000_294	Así que ahora tenemos que esperar esas bolsas, y quién sabe cuánto tardarán. Yo vigilaré las cosas aquí, así que te recomiendo que te prepares para enfrentar a Iq Soq Xmajun.

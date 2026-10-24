@@ -1,0 +1,63 @@
+key	text
+TEXT_AKTKBB101_04067_SEQ_00	La joven sharlayana contempla el paisaje fascinada.<br><br>※Esta misión desbloquea el job sage.
+TEXT_AKTKBB101_04067_SEQ_01	Mientras recorres las cubiertas inferiores de Limsa Lominsa, una joven de vestimenta extravagante llama tu atención. Con la curiosidad despierta, te acercas y descubres que es Lalah Jinjahl, una agente sharlayana que llegó a Eorzea en una misión autorizada por el Forum para capturar a unos fugitivos. Lalah busca un aventurero que le sirva de escolta, y aceptas prestarle tu ayuda. Antes de revelar los detalles de la misión, propone ir a un lugar más reservado, y se dirigen a las afueras de la Zephyr Gate para seguir conversando.
+TEXT_AKTKBB101_04067_SEQ_02	Los fugitivos que persigue Lalah son individuos peligrosos que se potenciaron por medios prohibidos, medios que les trastornaron la mente. Uno de ellos cometió un asesinato en pleno delirio y, aunque murió poco después, otros tres siguen prófugos. Además, robaron secretos técnicos en forma de un soul crystal de sage, y cuando Lalah va a mostrarte otro, la piedra parece reaccionar a tu presencia. Convencida de que está destinado a ti, se ofrece a entregarte el cristal, siempre que jures usar el arte del sage solo para el bien.
+TEXT_AKTKBB101_04067_SEQ_03	Tras pensar bien la oferta de Lalah, haces tu juramento y aceptas su regalo: el soul crystal y un conjunto de ropa de sage. Luego te pide que tomes la piedra y te pongas la vestimenta, para que empiece tu entrenamiento como sage.
+TEXT_AKTKBB101_04067_TODO_00	Habla con Lalah Jinjahl en la Zephyr Gate.
+TEXT_AKTKBB101_04067_TODO_01	Vuelve a hablar con Lalah Jinjahl.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_000	Limsa Lominsa... Antiguo refugio de piratas de mala fama, hoy una de las mejores ciudades-estado del reino, con una industria naviera sin igual y una cultura culinaria envidiable. ¡Ay, cuánto movimiento! ¡Los libros no mentían!
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_001	Bueno, aquí estoy, madre. En la lejana Eorzea.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_001	Cumpliré esta misión, ya lo verá. ¡En su noble nombre, y como la primera de mi promoción, triunfaré!
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_002	...Y después, quizás invite a nuestra distinguida exalumna Alisaie a tomar el té en the Bismarck. ¡Je, je, todos me van a envidiar!
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_003	¡Uwaaah!
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_004	...Ejem. Mis disculpas, <if(gnum4,buena señora,buen señor)>. No me había fijado en usted.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_005	(-Lalah Jinjahl-)Soy Lalah Jinjahl, natural de Sharlayan.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_110_005	(-Lalah Jinjahl-)Mmm... Por su aspecto, supongo que es <if(gnum4,una aventurera,un aventurero)>. ¿Por casualidad ha viajado mucho por Eorzea?
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_005	(-Lalah Jinjahl-)¡Así que sí! ¡Qué buena suerte! ¿Y dice que se llama <split(<string(gstr1)>, ,1)>? Juraría que ya oí ese nombre en alguna parte... En fin, ¡es un placer conocerl<if(gnum4,a,o)>!
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_006	(-Lalah Jinjahl-)En cuanto a mí, soy agente en una misión del Forum, el órgano que gobierna nuestra nación.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_007	(-Lalah Jinjahl-)Como es mi primera vez en Eorzea, estudié lo mejor que pude para prepararme, pero nada reemplaza el conocimiento de alguien del lugar. Por eso pensaba contratar a <if(gnum4,una aventurera,un aventurero)> como usted para que me sirviera de escolta.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_008	(-Lalah Jinjahl-)La misión consiste en perseguir y capturar a unos fugitivos, así que implica cierto peligro, pero usted no parece ajen<if(gnum4,a,o)> a esas cosas. ¿Estaría dispuest<if(gnum4,a,o)> a ayudarme en esta empresa?
+TEXT_AKTKBB101_04067_Q1_000_000	¿Qué dices?
+TEXT_AKTKBB101_04067_A1_000_001	Con gusto te doy el recorrido completo.
+TEXT_AKTKBB101_04067_A1_000_002	Claro, si la recompensa vale la pena.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_009	(-Lalah Jinjahl-)¡Maravilloso! Aunque tengo algo de destreza con la espada y sé defenderme, ¡me alegrará contar con su competente compañía!
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_010	(-Lalah Jinjahl-)Puede estar tranquil<if(gnum4,a,o)>: recibirá una recompensa adecuada por sus servicios. Siendo así, entiendo que su respuesta es sí. ¡Me alegrará contar con su competente compañía!
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_011	(-Lalah Jinjahl-)Bien, antes de revelarle los detalles de mi misión, deberíamos ir a un lugar más reservado. ¿Quizás fuera de la ciudad, junto a la Zephyr Gate?
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_020	Perdone si parezco demasiado cautelosa, pero esta misión es altamente confidencial. Si se enterara quien no debe, mis superiores me darían un buen sermón.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_021	Pero creo que aquí podemos hablar con libertad, así que permítame explicarle los detalles.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_022	Como le mencioné, sigo la pista de unos fugitivos: criminales que huyeron de Sharlayan y llegaron a estas costas.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_023	Individuos extremadamente peligrosos que se potenciaron por medios prohibidos, medios que les trastornaron la mente.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_024	En pleno delirio, uno de sus compañeros llegó a cometer un asesinato. Murió después por los efectos secundarios de su potenciación, pero otros tres siguen prófugos y son una amenaza para los inocentes.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_025	Además, se acusa a su líder, un viera, de haber robado valiosos secretos tecnológicos.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_026	Como material de referencia, traje este soul crystal...
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_027	¡Ay! ¡Quema! ¡Quema!
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_028	¿Qué demonios...? Nunca supe de un soul crystal que desprendiera tanto calor...
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_030	Uf, por fin se enfrió. Pero ¿qué pudo provocar una reacción tan intensa?
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_031	Ni en el Studium vi algo así, pero quizás... ¿fue usted?
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_032	Los secretos tecnológicos que robaron estaban en un cristal parecido. Este ejemplar me lo prestó un instituto de sanación de Sharlayan.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_033	Dígame, <split(<string(gstr1)>, ,1)>. En el curso de sus aventuras, ¿alguna vez deseó con todas sus fuerzas salvar a alguien?
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_034	¿Y no lo logró pese a todos sus esfuerzos, y después maldijo su propia impotencia?
+TEXT_AKTKBB101_04067_Q2_000_000	¿Qué dices?
+TEXT_AKTKBB101_04067_A2_000_001	Tuve que ver cómo se iban algunos de mis amigos más queridos.
+TEXT_AKTKBB101_04067_A2_000_002	Sí, pero eso no me impide intentar salvar a quien pueda.
+TEXT_AKTKBB101_04067_A2_000_003	...
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_035	Perdone si mi pregunta fue indiscreta. Pero no cabe duda: el soul crystal resonó con ese deseo que hay en usted.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_036	Cuando recibí el cristal, me dijeron que, si respondía así ante mi colaborador eorzeano, debía confiárselo. Porque el conocimiento que transmite, el de la somanóutica, sin duda me sería útil en mi misión.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_037	Desarrollada en el Studium, la somanóutica es una disciplina que combina la sabiduría de la medicina, la aetherología y la hechicería. Y a quienes la dominan se les llama sages.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_038	Con la medicina, un sage comprende el funcionamiento de la carne; con la aetherología, desvela los secretos del alma; y con la hechicería, aprende a manipular ambas. Con esa formación, un sage puede tanto fortalecer como sanar. Pero, del mismo modo, también es capaz de lo contrario. De causar daño.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_039	No cualquiera puede abrazar el arte del sage. No: hay que estar dispuesto a tener en las manos la vida de los demás.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_040	¿Está dispuest<if(gnum4,a,o)> a cargar con ese peso, <split(<string(gstr1)>, ,1)>?
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_041	Si lo está, y jura usar el arte para el bien, le confiaré este soul crystal.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_050	¿Y bien? ¿Ya tomó una decisión?
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_066	Entonces seré testigo de su juramento. ¿Jura usar el arte del sage para el bien, y ejercer su poder según su mejor juicio y capacidad?
+TEXT_AKTKBB101_04067_Q3_000_000	¿Juras y te conviertes en sage?
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_067	Que dude dice mucho de usted. Me atrevería a decir que solo necesita un poco más de tiempo, y estoy dispuesta a esperar. Piénselo bien y avíseme cuando esté list<if(gnum4,a,o)> para jurar.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_100_070	¡Excelente! Siendo <if(gnum4,la elegida,el elegido)> del cristal, tenía fe en que estaría a la altura.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_071	Cuando quienes l<if(gnum4,a,o)> rodean clamen por auxilio, el cristal será su aliado. Porque guarda la sabiduría de los sages del pasado, y sus esperanzas para el futuro.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_072	Si escucha sus susurros y sigue sus pasos, llegará a encarnar esas esperanzas. A salvar y cambiar incontables vidas.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_073	Por si le preocupa cómo aprenderá el arte, puedo guiarl<if(gnum4,a,o)>... hasta cierto punto, al menos. En mi tiempo en el Studium tuve ocasión de estudiar somanóutica, ¿sabe? Aunque no tenía talento para los hechizos y terminé prefiriendo el acero, recuerdo las lecciones y compartiré lo que sé.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_078	Junto con el soul crystal, le daré un conjunto de ropa de sage.
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_079	Así que adelante: tome su cristal, póngase la vestimenta, ¡y empezaremos su entrenamiento!
+TEXT_AKTKBB101_04067_SYSTEM_000_090	¡Desbloqueaste un nuevo job! Puedes cambiar a este job cuando quieras equipando el arma que recibiste en esta misión.
+TEXT_AKTKBB101_04067_SYSTEM_000_091	Al cambiar de job, los <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipo. Así puedes cambiar de job al instante, sin equipar a mano armas ni equipo.
+TEXT_AKTKBB101_04067_SYSTEM_000_092	El botón de la interfaz Gear Set está en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)>.

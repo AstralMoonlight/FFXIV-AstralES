@@ -1,0 +1,120 @@
+key	text
+TEXT_AKTKBB231_04077_SEQ_00	Drusilla parece aliviada de verte cruzar su puerta sin un rasguño.
+TEXT_AKTKBB231_04077_SEQ_01	Aunque le alegra verte a salvo, Drusilla te cuenta que miembros de la familia de todo Thanalan informaron de avistamientos inquietantes. Eso, junto con una daga sin filo que entregaron en el cuartel de los Lemures como amenaza, tiene a todos con los nervios de punta. Propone investigar esos informes, tanto para reunir información que pueda servir como para salir un rato de su cuartel. Debes hablar con la familia en Black Brush Station, de donde vino uno de los informes.
+TEXT_AKTKBB231_04077_SEQ_02	Aunque el primer Lemure al que te acercas no vio nada raro últimamente, habla largo y tendido y te cuenta la historia de su exilio de Garlemald. También te habla de una joven que asegura haber visto imágenes aterradoras en la arena, y te indica que vayas a Lost Hope si quieres escuchar sus delirios.
+TEXT_AKTKBB231_04077_SEQ_03	La mujer es mucho más sensata de lo que te hicieron creer, aunque sigue afectada por lo que vivió hace poco. Después de que te presentas como amig<if(gnum4,a,o)> de Drusilla, te cuenta con lujo de detalles cómo ella y su amado huyeron de Garlemald, con unas ganas de compartir detalles personales que parecen curiosamente comunes entre los Lemures. Luego te dice que no fue ella, sino su amado, quien vio la temible figura en el desierto, y te ruega que le preguntes a él los detalles y que, si puedes, acabes con esa vil amenaza.
+TEXT_AKTKBB231_04077_SEQ_04	Interrumpes a un hombre delgado entregado al sagrado acto de la creación poética. No queda claro si es porque los versos que recita son divinos o espantosos, pero el caso es que un voidsent se revela justo cuando la última rima se pierde en el viento del desierto. El poeta está indefenso ante la bestia de otro mundo, y la carnicería queda en tus manos.
+TEXT_AKTKBB231_04077_SEQ_05	Despachas la amenaza, que se abstiene de opinar sobre la última obra maestra del poeta. El artista, alterado, parece ileso y te mira con asombro. Quizás el sonido de tu voz lo saque de su aturdimiento o, si no, un enérgico asentimiento.
+TEXT_AKTKBB231_04077_SEQ_06	El hombre te agradece efusivamente y luego cuenta que fue durante una excursión parecida al desierto cuando vio al hombre de piel pálida y ojos rojo sangre. La enigmática figura le devolvió la mirada con un silencio inquietante y una sonrisa siniestra antes de desaparecer. Aunque no está claro si era Orcus o no, el poeta reconoce que el desierto no es lugar para hazañas líricas y vuelve a los brazos nada críticos de su amada, con lo que tu deber allí termina.
+TEXT_AKTKBB231_04077_SEQ_07	Drusilla escucha tu relato con preocupación y te felicita por matar al voidsent antes de que alguien saliera herido. Luego te pregunta qué opinas de los variopintos miembros de los Lemures, antes de hablar de cómo todos huyeron de su patria, Garlemald. Después cuenta con detalle su propia historia: el fallido intento de su abuelo Rullus de asesinar a Solus zos Galvus, y su posterior búsqueda de poder, que terminó con Orcus poseyéndolo y con ella huyendo a Eorzea. Aunque está claro que no le resulta fácil recordarlo, que esté dispuesta a compartirlo prueba que llegó a considerarte parte de la familia que eligió. Cansada por el trabajo del día, te pide que vuelvas al cuartel.<br><br>※Puedes volver a entrar al cuartel de los Lemures hablando con el Lemure leal de Pearl Lane.
+TEXT_AKTKBB231_04077_SEQ_08	Aunque Orcus no se mostró durante tu investigación de los informes de la familia, Drusilla parece segura de que actuará pronto, y de que ella será su objetivo. Apenas comparte esa intuición, aparece Orcus con la guadaña lista para separarle la cabeza de los hombros. Aunque lo excitan el odio y el miedo que ve arder en ti, quiere que su comida sea todavía más sabrosa, y para eso declara que torturará a Drusilla a su antojo mientras espera que tu alma alcance todo su delicioso potencial. Con esas palabras de despedida, Orcus vuelve a las sombras de donde vino, y los deja a Hermin y a ti solos en la habitación de Drusilla. La muchacha, atónita, parece necesitar unas palabras de consuelo, o quizás una válvula de escape para su ira creciente.
+TEXT_AKTKBB231_04077_SEQ_09	Cuando se le pasa la furia a Hermin, el siguiente paso queda claro: rescatar a Drusilla de las garras de Orcus a toda costa. Su paradero sigue tan incierto como siempre, pero Hermin piensa juntar los recursos de la familia para hacer un esfuerzo conjunto por averiguarlo. Mientras tanto, debes mantener tus habilidades afiladas, porque solo un reaper puede abatir a Orcus.<br><br>※La siguiente misión de reaper estará disponible con Hermin al llegar al nivel 80.
+TEXT_AKTKBB231_04077_TODO_00	Habla con el Lemure leal en Black Brush Station.
+TEXT_AKTKBB231_04077_TODO_01	Habla con la mujer elegante.
+TEXT_AKTKBB231_04077_TODO_02	Habla con el dandi esbelto.
+TEXT_AKTKBB231_04077_TODO_03	Derrota al voidsent saciado de sangre.
+TEXT_AKTKBB231_04077_TODO_04	Habla con el dandi esbelto.
+TEXT_AKTKBB231_04077_TODO_05	Habla con Drusilla en Stonesthrow.
+TEXT_AKTKBB231_04077_TODO_06	Entra al cuartel de los Lemures.
+TEXT_AKTKBB231_04077_TODO_07	Habla con Hermin.
+TEXT_AKTKBB231_04077_HERMIN_000_001	Si la jefa dice que eres de la familia, eres de la familia. Mandemos a ese desgraciado bajo tierra, ¿eh? Por Arnegis.
+TEXT_AKTKBB231_04077_DRUSILLA_000_010	Me alegra ver que Orcus todavía no te clavó los dientes, <split(<string(gstr1)>, ,1)>. Pero no vayas a creer que dejó de intentarlo.
+TEXT_AKTKBB231_04077_DRUSILLA_000_011	Anda por ahí, saboreándote a la distancia. No puede resistirse a vigilar su premio, igual que no puede resistirse a buscar bocaditos para aguantar hasta su festín. Los informes que recibimos de un hombre pálido como la muerte merodeando por la arena lo prueban.
+TEXT_AKTKBB231_04077_HERMIN_000_012	Y después está el asunto de esta daga sin filo. No sabemos quién la mandó, pero sí sabemos qué significa.
+TEXT_AKTKBB231_04077_DRUSILLA_000_013	Es una advertencia que suelen usar los elementos menos recomendables de Ul'dah. Una advertencia de que la próxima llegará afilada y directo a la panza.
+TEXT_AKTKBB231_04077_HERMIN_000_014	Peor para ellos. No tienen ni idea de lo que enfrentamos y sobrevivimos, si creen que nos vamos a ensuciar los calzones por amenazas vacías.
+TEXT_AKTKBB231_04077_DRUSILLA_000_015	Esperemos que no sea más que eso, muchacha, porque tenemos que seguir esos informes más temprano que tarde. ¿A alguien le apetece un poco de aire fresco? Si de paso olemos el hedor de Orcus, mejor todavía...
+TEXT_AKTKBB231_04077_DRUSILLA_000_016	<split(<string(gstr1)>, ,1)>, quiero que preguntes por los alrededores de Black Brush Station, y yo iré a Stonesthrow. Cuando termines, encuéntrame allí y compartiremos lo que averiguamos.
+TEXT_AKTKBB231_04077_HERMIN_000_020	No todos en la familia tienen los medios o las ganas de vivir en la joya del desierto. Algunos se conforman con algo de menos brillo.
+TEXT_AKTKBB231_04077_LEMURESMEMBERA_000_030	Reconozco ese andar seguro. La marca de <if(gnum4,una mujer,un hombre)> list<if(gnum4,a,o)> para enfrentarse al mundo y más. Debes de ser <if(gnum4,la reaper eorzeana,el reaper eorzeano)> de quien nos avisó la jefa.
+TEXT_AKTKBB231_04077_LEMURESMEMBERA_000_031	Casi me decepciona decirte que no pasa nada raro. El soldado que llevo dentro habría querido ver a un reaper en acción. Antes peleé en el ejército imperial, aunque al verme ahora no lo pensarías.
+TEXT_AKTKBB231_04077_LEMURESMEMBERA_000_032	De joven serví con orgullo a las órdenes de Lord Valens, hasta el día en que nos ordenó usar a la gente común como carne de cañón en una escaramuza sin sentido. Me negué, y me condenaron a muerte por mi franqueza. Ni hace falta decir que no acudí a esa cita.
+TEXT_AKTKBB231_04077_LEMURESMEMBERA_000_033	Comparado con esa maldad, las amenazas sin dientes y los fantasmas no me molestan. Pero los menos curtidos se alteran más fácilmente; una muchacha en particular se asusta hasta de las sombras.
+TEXT_AKTKBB231_04077_LEMURESMEMBERA_000_034	Asegura haber visto toda clase de horrores, pero sospecho que se asustaría de su propio reflejo. Aun así, si quieres escuchar sus delirios, la encontrarás en Lost Hope.
+TEXT_AKTKBB231_04077_LEMURESMEMBERA_000_040	Por aquí todo está tranquilo, salvo esa muchacha que le cuenta a quien quiera escucharla las cosas que vio en la oscuridad. Búscala en Lost Hope si tienes ganas de una historia escalofriante.
+TEXT_AKTKBB231_04077_LEMURESMEMBERB_000_050	¡Aaah! Ah... hola. ¿Quién es usted?
+TEXT_AKTKBB231_04077_LEMURESMEMBERB_000_051	¡Oh! ¿Drusilla recibió mi mensaje? ¿Mandó a alguien a librarnos de este terrible mal que acecha entre bastidores?
+TEXT_AKTKBB231_04077_LEMURESMEMBERB_000_052	De verdad, se preocupa por nosotros como si fuéramos de su sangre, que es más de lo que puedo decir de la mía. Ni una sola vez extrañé la vida cómoda que dejé en Garlemald, y eso se lo debo a Drusilla.
+TEXT_AKTKBB231_04077_LEMURESMEMBERB_000_053	Claro que ella no es la razón por la que me fui de casa. Si no hubiera conocido a mi amado, seguramente seguiría comiendo pastelitos de limón en la ignorancia.
+TEXT_AKTKBB231_04077_LEMURESMEMBERB_000_054	En la ignorancia del amor, de la libertad. El primero lo encontré en Garlemald, y la segunda en Eorzea, cuando nuestra nueva vida floreció en algo hermoso.
+TEXT_AKTKBB231_04077_LEMURESMEMBERB_000_055	No todos los días fueron fáciles. Ni siquiera la mayoría. Pero la mirada atenta de Drusilla nos mantuvo a salvo, y nuestra libertad vale cualquier penuria.
+TEXT_AKTKBB231_04077_LEMURESMEMBERB_000_056	Qué miedo terrible me apretó el corazón cuando mi amado me contó del hombre pálido que vio en la arena. Pero ahora que la familia vino a ayudar, puedo respirar tranquila.
+TEXT_AKTKBB231_04077_LEMURESMEMBERB_000_057	Seguro que quiere saber dónde encontrar exactamente a esa criatura horrible, pero no puedo ayudarle ni la mitad de bien que mi amado. Búsquelo al sureste, ¡y le ruego que ponga fin a esta pesadilla!
+TEXT_AKTKBB231_04077_LEMURESMEMBERB_000_060	Solo pensar en esa piel pálida me acelera el corazón de terror. Busque a mi amado para que por fin acabemos con esta amenaza. Debería estar justo al sureste de aquí, buscando inspiración para su última obra maestra.
+TEXT_AKTKBB231_04077_LEMURESMEMBERC_000_070	Por brumas endiabladas el cazador avanza,<br>tras el rastro de la presa que a otros espanta,<br>en la noche más oscura clama por quien te ampare,<br>y he aquí que a tu lado camina <if(gnum4,la reaper,el reaper)>.
+TEXT_AKTKBB231_04077_LEMURESMEMBERC_000_071	Ah, perdón por el arrebato, <if(gnum4,amiga,amigo)>. Soy poeta, ¿sabe?, y no puedo resistirme a poner en palabras el torrente de emociones que acompaña a una figura tan llamativa como la suya.
+TEXT_AKTKBB231_04077_LEMURESMEMBERC_000_072	¡Ay! ¡Un... Un... m-m-m...!
+TEXT_AKTKBB231_04077_LEMURESMEMBERC_000_073	¡¡¡Monstruo!!!
+TEXT_AKTKBB231_04077_ORCUSBEHAVER_000_074	¡Graaaaaagh!
+TEXT_AKTKBB231_04077_SYSTEM_000_075	La sed de sangre que emana de este voidsent es potente y poderosa...
+TEXT_AKTKBB231_04077_LEMURESMEMBERC_000_090	¡Gracias, gracias, gracias! ¡<if(gnum4,Mi salvadora,Mi salvador)>, mi regalo de los dioses!
+TEXT_AKTKBB231_04077_LEMURESMEMBERC_000_091	Ojalá hubiera podido ayudarle, pero, por desgracia, la pluma de un poeta sirve de poco en batalla.
+TEXT_AKTKBB231_04077_LEMURESMEMBERC_000_092	¡A menos, claro, que esa batalla no sea de espadas y guadañas, sino de palabras! Pregúntele al padre de mi amada, que todavía se lame las heridas que le dejaron los versos injuriosos que compuse cuando tuvo el descaro de prohibir nuestra unión.
+TEXT_AKTKBB231_04077_LEMURESMEMBERC_000_093	¡Una obra maestra de metáfora mordaz y reproche sutil! Por desgracia, con todas sus pretensiones, los nobles no tienen nada de sutiles cuando se enfurecen. Nos vimos obligados a huir, a abandonar nuestros hogares sin más sustento que nuestro amor.
+TEXT_AKTKBB231_04077_LEMURESMEMBERC_000_094	Aun así, no me arrepiento ni de un solo momento de nuestra vida en el exilio. En Eorzea encontramos un tesoro inesperado: la libertad. Libertad de mente y libertad de corazón.
+TEXT_AKTKBB231_04077_LEMURESMEMBERC_000_095	Ah, pero me desvío. Seguro que no me buscó solo para salvarme la vida e irse con un asentimiento y una sonrisa. ¿Quería encargar un poema?
+TEXT_AKTKBB231_04077_LEMURESMEMBERC_000_096	¿El hombre pálido? Sí, me lo encontré mientras vagaba por estos páramos áridos en busca de inspiración. Sentí en la espalda la mirada de una presencia terrible, y cuando me volví a enfrentarla, ahí estaba él, sonriendo como un carnicero en un corral.
+TEXT_AKTKBB231_04077_LEMURESMEMBERC_000_097	Llevaba una túnica demasiado gruesa para estas arenas abrasadas, y su piel parecía no haber recibido jamás un beso del sol ardiente. Lo peor de todo eran sus ojos, como dos pozos de sangre sin fondo. Temí que hubiera llegado mi fin, pero luego desapareció tan rápido como había aparecido.
+TEXT_AKTKBB231_04077_LEMURESMEMBERC_000_098	Quizás fui imprudente. Lo que pasó hace poco deja claro que el precio de la inspiración es más alto de lo que estoy dispuesto a pagar. Volveré con mi amada, por mi seguridad y por la suya. Gracias otra vez, <if(gnum4,mi salvadora,mi salvador)>.
+TEXT_AKTKBB231_04077_DRUSILLA_000_100	Ahí estás. ¿Y?
+TEXT_AKTKBB231_04077_DRUSILLA_000_101	Otro de sus malditos secuaces. Bueno, supongo que podemos consolarnos con que nadie de la familia salió herido, tú incluid<if(gnum4,a,o)>. Bien hecho.
+TEXT_AKTKBB231_04077_DRUSILLA_000_102	A propósito, ¿qué piensas de esta familia en la que te metieron? Habla con libertad: no viví tanto tiempo ofendiéndome por opiniones que no quiero oír.
+TEXT_AKTKBB231_04077_Q1_000_000	¿Qué dices?
+TEXT_AKTKBB231_04077_A1_000_001	Me sorprende que hayan sobrevivido tanto tiempo.
+TEXT_AKTKBB231_04077_A1_000_002	Me parece una familia como cualquier otra.
+TEXT_AKTKBB231_04077_A1_000_003	Lo que yo piense no importa, ¿no?
+TEXT_AKTKBB231_04077_DRUSILLA_000_104	Para sobrevivir hace falta algo más que fuerza bruta. Ninguno de ellos servía para vivir bajo la bota del Empire, y eso me basta.
+TEXT_AKTKBB231_04077_DRUSILLA_000_105	¡Ja! Supongo que habrás visto familias raras, entonces. Aunque me gusta pensar que somos únicos. Una colección de descartados que no sirven para vivir bajo la bota del Empire. Yo incluida.
+TEXT_AKTKBB231_04077_DRUSILLA_000_106	Si tú lo dices. Supongo que no nos odias, y eso me basta. Al final del día, no somos más que una banda variopinta de marginados que no sirven para vivir bajo la bota del Empire. Yo incluida.
+TEXT_AKTKBB231_04077_DRUSILLA_000_107	Por mucho que algunos iluminados te digan lo contrario, a la gente le gusta tener voz en la vida que lleva. Eso es lo que nos separa de esos bichos de allá.
+TEXT_AKTKBB231_04077_DRUSILLA_000_108	Nacen reinas, obreras, zánganos. Criados para papeles tan arraigados que no sabrían vivir de otra manera. Por la gloria y la prosperidad de la colmena.
+TEXT_AKTKBB231_04077_DRUSILLA_000_109	Pero nosotros llevamos dentro la capacidad de ser distintos. Podemos nacer para cultivar, para hacer de soldados o para hacer política, pero podemos elegir otro camino cuando se nos antoje.
+TEXT_AKTKBB231_04077_DRUSILLA_000_110	No está en nuestra naturaleza aceptar nuestra suerte sin cuestionarla. No: tenemos que creer en algo. Poner nuestra fe en ello. Solo entonces nos dignamos a marchar al mismo paso.
+TEXT_AKTKBB231_04077_DRUSILLA_000_111	Y, en efecto, una fe de tipo "salvaje" es una forma de hacernos bailar al mismo son. A otros se los puede mover con la fe en la lógica o en la ley. Intangible, invisible... y aun así motivo suficiente para matar y conquistar si a la reina le conviene.
+TEXT_AKTKBB231_04077_DRUSILLA_000_112	"¡Los invasores mancillaron nuestro derecho de nacimiento durante ocho siglos, nunca más! ¡Marchamos hacia Locus Amoenus!" Con unas pocas palabras justicieras, Su Radiancia Solus zos Galvus enardeció a la colmena.
+TEXT_AKTKBB231_04077_DRUSILLA_000_113	Una vez que ese fuego arde, la pasión de las masas no se apaga pronto. Lo que antes era el deseo de un hogar se convirtió en una misión sagrada de difundir la ilustración. Una ilustración que no toleraría creencias como las de los beastmen.
+TEXT_AKTKBB231_04077_DRUSILLA_000_114	Incontables multitudes entregaron la vida en el altar del imperio, hasta que todo un continente quedó unido bajo un único puño magitek.
+TEXT_AKTKBB231_04077_DRUSILLA_000_115	Para los que todavía soñaban el sueño de la unidad, una hazaña digna de canciones. Pero algunos despertaron y la vieron como la tiranía que era. Entre ellos, mi abuelo Rullus.
+TEXT_AKTKBB231_04077_DRUSILLA_000_116	Los talentos de los reapers se transmiten por la sangre. Rullus era el mejor de nosotros: el más consumado y temido de la larga historia de la orden.
+TEXT_AKTKBB231_04077_DRUSILLA_000_117	El deber de los reapers, nuestro papel en la colmena, si quieres, era librar a nuestros compatriotas de tiranos corruptos y hambrientos de poder. Cuando Garlemald encontró su religión en la conquista, su apetito se volvió insaciable.
+TEXT_AKTKBB231_04077_DRUSILLA_000_118	Mi abuelo le dio vueltas a ese dilema durante muchas noches sin dormir, y tomó una decisión: le quitaría la vida a Solus zos Galvus.
+TEXT_AKTKBB231_04077_DRUSILLA_000_119	Hace veinte años, se coló en las cámaras más profundas del palacio imperial, silencioso como una sombra, hasta que pudo oír latir el corazón del Emperor...
+TEXT_AKTKBB231_04077_DRUSILLA_000_120	Pero cuando Rullus volvió conmigo, Solus estaba vivo y bien. Mi abuelo, en cambio, andaba asustadizo, y su pelo negro se había vuelto blanco.
+TEXT_AKTKBB231_04077_DRUSILLA_000_121	No dijo nada de su encuentro con el Emperor, salvo que el hombre más poderoso de Garlemald no era ningún hombre.
+TEXT_AKTKBB231_04077_DRUSILLA_000_122	Avergonzado por su derrota, mi abuelo buscó más poder. Poco a poco, fue entregando más de sí mismo al voidsent detrás de su avatar.
+TEXT_AKTKBB231_04077_DRUSILLA_000_123	Orcus atacó cuando Rullus estaba más débil, y se quedó con su carne y su alma de un solo golpe. Cuando terminó, no quedaba ni una mota de mi abuelo en ese cuerpo. Solo estaba Orcus.
+TEXT_AKTKBB231_04077_DRUSILLA_000_124	El monstruo entró en un frenesí extasiado, y mi familia fue su primera víctima. Recuerdo el frío de sus dientes hundiéndose en mi carne, royendo hasta llegar a mi esencia misma.
+TEXT_AKTKBB231_04077_DRUSILLA_000_125	¿Cómo es que estoy aquí delante de ti, entonces? Ah, Orcus se atiborró de un alma esa noche. Pero no era la mía, no exactamente. Fue mi avatar lo que le llenó la panza. Parece que fue todo lo que pudo tragar.
+TEXT_AKTKBB231_04077_DRUSILLA_000_126	Algunos lo considerarían un giro afortunado del destino, pero tuve poco tiempo para pensar en mi suerte. Huí en cuanto pude: Su Radiancia nunca vio con buenos ojos a los que intentaban acabar con su vida, ni a sus familias.
+TEXT_AKTKBB231_04077_DRUSILLA_000_127	Anduve de un lado a otro durante años hasta que me establecí aquí y empecé a buscar a otros como yo. Otros que habían despertado del sueño del Empire.
+TEXT_AKTKBB231_04077_DRUSILLA_000_128	"Lemures" es como llamamos a los espíritus de los muertos en la lengua garleana. Un apodo de lo más apropiado. Despertar de un largo sueño no es tan distinto de salir de la tumba. Doy fe de eso.
+TEXT_AKTKBB231_04077_DRUSILLA_000_129	Maldita sea... Recuérdame no dar discursos tan largos con la arena volándome en la cara. Vuelvo a tomarme una cerveza. Nos vemos en el cuartel.
+TEXT_AKTKBB231_04077_HERMIN_000_140	Bienvenida, Jefa. ¿Cómo estaba la familia?
+TEXT_AKTKBB231_04077_DRUSILLA_000_141	Asustada, pero ilesa, salvo por algún pelo revuelto y unos versos destrozados. Orcus dejó a uno de sus secuaces de regalo, pero <split(<string(gstr1)>, ,1)> lo despachó enseguida.
+TEXT_AKTKBB231_04077_HERMIN_000_142	Siempre dije que valía la pena quedarse con <if(gnum4,ella,él)>. Usted tiene ojo para los de corazón fiero.
+TEXT_AKTKBB231_04077_HERMIN_000_143	Apuesto a que podría matar a Orcus <if(gnum4,ella sola,él solo)>. No es que fuéramos a dejarle toda la gloria.
+TEXT_AKTKBB231_04077_DRUSILLA_000_144	Claro que no. Estaremos todos ahí cuando Orcus intente llevarse su premio. Y no creo que tengamos que esperar mucho.
+TEXT_AKTKBB231_04077_DRUSILLA_000_145	Orcus dijo que atacaría cuando <split(<string(gstr1)>, ,1)> estuviera madur<if(gnum4,a,o)> de miedo, odio y desesperación. Condimentos a los que no quiere renunciar.
+TEXT_AKTKBB231_04077_DRUSILLA_000_146	Tengo una idea de cómo podría intentar despertar esas emociones. Y, de paso, terminar una comida a medio comer...
+TEXT_AKTKBB231_04077_ORCUS_000_147	¡Exacto, Drusilla!
+TEXT_AKTKBB231_04077_ORCUS_000_148	¿Cuántas noches lloraste a tu avatar perdido? La fuente de tu poder. Debo decir que fue todo un manjar.
+TEXT_AKTKBB231_04077_ORCUS_000_149	Ah, no lo creo. Mueve un solo dedo, y su cabeza caerá al suelo.
+TEXT_AKTKBB231_04077_ORCUS_000_150	Oooh, eso es, <split(<string(gstr1)>, ,1)>. Ese fuego. Quiero verlo arder. Quiero verlo rugir. ¡Quiero ver el odio filtrarse hasta lo más hondo de tu alma!
+TEXT_AKTKBB231_04077_ORCUS_000_151	¿Hago que este sea el último aliento de Drusilla? ¿O este? ¡Es tan difícil elegir!
+TEXT_AKTKBB231_04077_ORCUS_000_152	Hice bien en no ceder a mis instintos más bajos. En dejar que la idea de tu sabor se cocinara a fuego lento en mi mente mientras Drusilla y tú forjaban un vínculo, un... parentesco, incluso.
+TEXT_AKTKBB231_04077_ORCUS_000_153	¡Nacido de entender sus ideales insignificantes, para que aprecies mejor la amarga pérdida!
+TEXT_AKTKBB231_04077_ORCUS_000_154	Mmm... Pero quizás debería esperar un poco más. Dejar que el sabor de tu odio madure y el regusto de tu malicia se añeje.
+TEXT_AKTKBB231_04077_ORCUS_000_155	Todavía puedo sacarle provecho a Drusilla. Deleitarme con sus gritos, regodearme en su miseria. ¡Aah, qué espléndido será!
+TEXT_AKTKBB231_04077_ORCUS_000_156	Y mientras tanto, mi cerdit<if(gnum4,a,o)> premiad<if(gnum4,a,o)> engordando de aversión y poniéndose suculent<if(gnum4,a,o)> de terror.
+TEXT_AKTKBB231_04077_ORCUS_000_157	Al fin y al cabo, la paciencia recompensa al gourmet diligente. Cuando tu tentador sabor haya madurado del todo, volveré. ¡Y recogeré mi cosecha!
+TEXT_AKTKBB231_04077_HERMIN_000_160	¡Maldito voidsent desgraciado! ¡Pedazo de mierda sin alma!
+TEXT_AKTKBB231_04077_Q2_000_000	¿Qué dices?
+TEXT_AKTKBB231_04077_A2_000_001	¡Tenemos que pensar, Hermin!
+TEXT_AKTKBB231_04077_A2_000_002	¡Que se joda ese maldito engendro demoníaco!
+TEXT_AKTKBB231_04077_A2_000_003	¡Orcus va a pagar por esto!
+TEXT_AKTKBB231_04077_HERMIN_000_162	Ya sé, ya sé... No es momento de perder los estribos. Respiremos hondo, cabeza fría...
+TEXT_AKTKBB231_04077_HERMIN_000_163	¡Sí... sí, así se habla!
+TEXT_AKTKBB231_04077_HERMIN_000_164	Bien. Necesitamos un plan. Lo primero: averiguar dónde se esconde Orcus. El resto de la familia debería poder ayudar con eso.
+TEXT_AKTKBB231_04077_HERMIN_000_165	Mientras tanto, tienes que prepararte. Sé que eres buen<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>, pero no podemos dejar la vida de la jefa al azar. Afila tus habilidades y tu guadaña, y después vuelve a afilarlas.
+TEXT_AKTKBB231_04077_HERMIN_000_166	La jefa no puede hacer nada contra Orcus sin su avatar. Eso significa que el trabajo pesado te toca a ti.
+TEXT_AKTKBB231_04077_HERMIN_000_167	Claro que haré lo que pueda para darte ventaja. Puedes contar con eso. ¡Por Drusilla!

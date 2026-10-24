@@ -1,0 +1,69 @@
+key	text
+TEXT_KINGBB101_04848_SEQ_00	Ayudar a este tejedor podría ser el comienzo de una aventura completamente nueva.<br><br>※Esta misión desbloquea el job viper.
+TEXT_KINGBB101_04848_SEQ_01	Mientras paseas por las calles de Ul'dah, te topas con un tejedor preocupado que necesita ayuda. Al parecer, uno de los clientes del gremio se niega a pagar el conjunto que le hicieron a medida, aunque no está del todo claro por qué. A pedido del tejedor, vas a investigar el asunto y a buscar a un hombre que lleva un par de espadas a la espalda y se hace llamar "viper".
+TEXT_KINGBB101_04848_SEQ_02	El hombre misterioso resulta ser un viper profesional: un cazador turalí que mata bestias peligrosas a cambio de bienes y servicios. Keshkwa llegó a Eorzea desde un continente más allá del océano, al oeste, no conoce las costumbres locales y no esperaba tener que pagar la ropa que encargó. Aunque al principio el tejedor no había aceptado un arreglo así, se compadece del viajero y le propone que acabe con una bestia especialmente problemática que aterroriza a los comerciantes cerca de Camp Drybone. Naturalmente, a Keshkwa le alegra la oportunidad, pero el tejedor te pide que lo acompañes para asegurarte de que el trabajo se haga como se pidió.
+TEXT_KINGBB101_04848_SEQ_03	Al llegar a Camp Drybone, Keshkwa te dice que el contacto del tejedor ya le dio suficiente información para empezar a buscar a su presa. Enseguida localiza al gigantesco reptil y lo despacha sin esfuerzo con sus espadas gemelas. Al notar tu asombro ante esa impresionante demostración de esgrima, Keshkwa te pregunta si te interesaría convertirte en viper. Pero pone una única condición: que lo ayudes a matar a una criatura peligrosa conocida como tural vidraal, que llegó a Eorzea desde Tural. Como no espera una respuesta inmediata, los dos vuelven al Weavers' Guild para informar que Keshkwa abatió al monstruo.
+TEXT_KINGBB101_04848_SEQ_04	Para cuando llegas al Weavers' Guild, Keshkwa ya habló con el representante y recibió su conjunto a medida como pago por matar a la bestia. Como decidiste aprender el camino del viper, Keshkwa te da un soul crystal que contiene la sabiduría acumulada de sus predecesores, y un par de espadas para practicar tu nuevo arte. Además, el gremio te dio un atuendo propio para agradecerte que supervisaras la cacería de Keshkwa. Una vez que te equipes, podrás empezar tu entrenamiento en serio.
+TEXT_KINGBB101_04848_TODO_00	Habla con el viper frente al Weavers' Guild.
+TEXT_KINGBB101_04848_TODO_01	Habla con Keshkwa en Camp Drybone.
+TEXT_KINGBB101_04848_TODO_02	Habla con Keshkwa frente al Weavers' Guild.
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERA04848_000_000	Eres <if(gnum4,aventurera,aventurero)>, ¿no? Hay un problemita en el Weavers' Guild, y nos vendría bien una mano para resolverlo.
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERA04848_000_001	Recibimos un pedido de un conjunto completo, pero ahora que el trabajo está terminado, el cliente se niega a pagar.
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERA04848_000_002	Ojo, que yo sospeché desde el principio. Se hace llamar "viper", nada menos. ¡En mi experiencia, no hay que fiarse de la gente que se pone nombre de serpiente!
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERA04848_000_003	En fin, lleva un par de espadas a la espalda, y no quiero ni pensar qué pasaría si se enojara y empezara a usarlas. ¿Podrías ir al gremio a calmar las cosas?
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERA04848_000_010	No me gusta nada la pinta de esas espadas que lleva, aunque sin ellas seguiría siendo bastante intimidante...
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERB04848_000_015	Por más que intento razonar con él, ¡no para de hablar de vipers o algo así! ¿Qué voy a hacer?
+TEXT_KINGBB101_04848_KESHKWA_000_020	<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,forastera,forastero)>. Esperaba conocer a alguien un poco más curtido, alguien que haya visto bastante acción. ¿Podrías decirme qué presas vale la pena cazar por estos lados?
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERB04848_000_021	¿Tienes idea de qué está hablando? No tuve ningún problema en hacer su pedido, pero ahora que le toca pagar, ¡es como si habláramos idiomas distintos!
+TEXT_KINGBB101_04848_KESHKWA_000_022	Lo mismo digo: no entiendo por qué este tipo se pone tan difícil. Lo único que pido es el atuendo que encargué y el nombre de algunos bichos que valga la pena matar.
+TEXT_KINGBB101_04848_KESHKWA_000_023	Quizás deba explicarlo desde el principio. Soy de Tural, un continente bien grande al otro lado del mar, al oeste de aquí.
+TEXT_KINGBB101_04848_KESHKWA_000_025	Estuviste allá, ¿no? Entonces quizás viste a otros que usan espadas dobles, o "vipers", como se nos conoce por tradición.
+TEXT_KINGBB101_04848_KESHKWA_000_030	Algunos de la tripulación del barco lo llamaban el "Nuevo Mundo", pero no tiene nada de nuevo, no, <if(gnum4,señora,señor)>. Allá está mi aldea, hogar del antiguo arte del viper.
+TEXT_KINGBB101_04848_KESHKWA_000_035	Nuestro deber es cazar bestias feroces que ponen en peligro la vida de gente inocente. De hecho, eso es lo que me trajo hasta aquí.
+TEXT_KINGBB101_04848_KESHKWA_000_036	El asunto es que tanta pelea y tantos días de camino no le hicieron nada bien a mi equipo. Me pareció que ya era hora de conseguirme un atuendo nuevo, hecho a medida y todo.
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERB04848_000_037	Fascinante, sin duda, pero ¿por qué se niega a pagar su pedido? ¿Y por qué insiste tanto en que yo "elija mi presa"?
+TEXT_KINGBB101_04848_KESHKWA_000_039	Porque ¿de qué otra forma voy a pagarte? Nos haces un favor, y cazamos la bestia que quieras. Ese es el código: así hacemos negocios los vipers.
+TEXT_KINGBB101_04848_Q1_000_100	¿Qué dices?
+TEXT_KINGBB101_04848_A1_000_100	Parece que el Weavers' Guild no necesita que maten a ningún monstruo.
+TEXT_KINGBB101_04848_A2_000_100	Los tejedores prefieren formas de pago más convencionales.
+TEXT_KINGBB101_04848_KESHKWA_000_045	¿Ah, sí? ¿O sea que quieren otra cosa?
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERB04848_000_046	Un pago acorde a la habilidad y los materiales necesarios. En gil, preferiblemente.
+TEXT_KINGBB101_04848_KESHKWA_000_055	Vaya, eso no me lo esperaba. Supongo que eso explica nuestro pequeño malentendido.
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERB04848_000_056	Pero seguro que sus compatriotas comercian con algún tipo de moneda, ¿no? ¿O ustedes, los vipers, están tan apartados de la sociedad que no conocen esas cosas?
+TEXT_KINGBB101_04848_KESHKWA_000_057	¡Claro que sabemos lo que es el dinero! ¡No somos ningunos pueblerinos! Pero, eh, cuando se trata de conseguir bienes y servicios, normalmente dejo que los ancianos traten con los artesanos y demás. O sea, no tengo la costumbre de andar con mucho dinero encima...
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERB04848_000_058	\<suspiro> Que así sea... Si su única forma de pago es matar bestias, tendrá que servir.
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERB04848_000_060	Da la casualidad de que uno de mis colegas de Eastern Thanalan informa que una bestia salvaje atacó a los mercaderes que llevaban nuestros suministros.
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERB04848_100_060	Es más, la criatura es una especie de reptil de muchas cabezas que nunca se había visto en esta región. Se rumorea que escapó del Coliseum y que desde entonces anda desbocada.
+TEXT_KINGBB101_04848_KESHKWA_000_061	¿Escamas? ¿Muchas cabezas? Muy bien, trato hecho.
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERB04848_000_062	¿"Trato"? Considerando que el gremio ya cumplió su parte, ¡debería considerarse afortunado! Aun así, no quisiera que algo saliera mal a estas alturas.
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERB04848_000_063	¿Puedo pedirte un favor, <if(gnum4,amiga,amigo)>? Me gustaría que lo acompañaras y te aseguraras de que se ocupe de la criatura como acordamos. Además, me atrevería a decir que ver trabajar a un supuesto "viper" será una experiencia reveladora.
+TEXT_KINGBB101_04848_KESHKWA_000_064	(-Keshkwa-)Me llamo Keshkwa. Un placer.
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERB04848_000_065	A la criatura la vieron por última vez cerca de Camp Drybone, así que te aconsejo empezar por ahí.
+TEXT_KINGBB101_04848_WEAVERSGUILDMEMBERB04848_000_070	Parece que ese viper ya salió hacia Camp Drybone. Espero que sepa el camino, o al menos que tenga el buen tino de preguntar.
+TEXT_KINGBB101_04848_KESHKWA_000_100	Así que esto es Camp Drybone, ¿eh? Nombre apropiado. En fin, ¿list<if(gnum4,a,o)> para cazar?
+TEXT_KINGBB101_04848_KESHKWA_000_101	¿Y esa cara? Ah, déjame adivinar, ¿quieres preguntar por ahí primero, a ver si alguien nos indica el camino?
+TEXT_KINGBB101_04848_KESHKWA_000_102	No hace falta. El amigo del tejedor me contó bastante. Solo tenemos que rastrear a la bestia, y esa es la especialidad de un viper.
+TEXT_KINGBB101_04848_KESHKWA_000_200	Atacó a comerciantes que llevaban materiales de sastre. Unos rollos de tela y demás no me suenan nada sabrosos, así que supongo que la bestia les tenía el ojo puesto a los mercaderes mismos.
+TEXT_KINGBB101_04848_KESHKWA_000_201	La mayoría de los depredadores usan el olfato para elegir su comida. Los olores viajan con el viento, así que tienes que fijarte en dónde están las rocas y las plantas para saber cómo suele correr el aire por una zona. Después de eso, no es tan difícil deducir dónde tiene su guarida un bicho.
+TEXT_KINGBB101_04848_KESHKWA_000_202	Sí, es uno grande. Y con mala cara, además. Debe de estar haciendo estragos en la cadena alimenticia, por no hablar del peligro que es para la gente de aquí. Bueno, ¡hora de hacer lo que mejor hace un viper!
+TEXT_KINGBB101_04848_KESHKWA_000_203	Listo. ¿Y? ¿Te gustó el espectáculo? No te hagas: veo que te intriga.
+TEXT_KINGBB101_04848_KESHKWA_000_204	Pero antes de contarte todos mis secretos, tengo una pregunta. ¿Alguna vez oíste hablar de un "tural vidraal"?
+TEXT_KINGBB101_04848_KESHKWA_000_205	¿Sí? Entonces sabes que son una raza rara de bestia que tiene toda clase de poderes que no deberían tener. Una amenaza para cualquier otro ser vivo que se atreva a respirar cerca de ellas.
+TEXT_KINGBB101_04848_KESHKWA_000_210	Me lo imaginaba. Bueno, son una raza rara de bestia que tiene toda clase de poderes que no deberían tener. Una amenaza para cualquier otro ser vivo que se atreva a respirar cerca de ellas.
+TEXT_KINGBB101_04848_KESHKWA_000_215	Por su larga vida y sus habilidades antinaturales, las apodaron los "tiranos de Tural". Eso es más o menos lo que significa el nombre.
+TEXT_KINGBB101_04848_KESHKWA_000_216	En fin, alguien tiene que cazar a los tural vidraal, y ese alguien somos nosotros, los vipers.
+TEXT_KINGBB101_04848_KESHKWA_000_217	¿Sabes? Conocí a unos cuantos aventureros en mi tiempo aquí, pero se nota que estás por encima del resto. Hasta podrías tener lo que hace falta para ser viper.
+TEXT_KINGBB101_04848_KESHKWA_000_218	Si te interesa, puedo enseñarte, con una condición: que me ayudes a cazar a un tural vidraal que llegó a Eorzea. ¿Qué dices?
+TEXT_KINGBB101_04848_KESHKWA_000_224	¡Ja! Qué cosa pedirte así de golpe, ya sé. Solo piénsalo un poco, ¿sí?
+TEXT_KINGBB101_04848_KESHKWA_000_225	Volvamos a Ul'dah a decirle al tejedor que estamos a mano. El viaje te dará tiempo para pensar en mi oferta.
+TEXT_KINGBB101_04848_KESHKWA_000_250	Acabo de darle la buena noticia a nuestro amigo tejedor, y me entregó este conjunto de ropa elegante, como prometió. Debo decir que valió la pena el esfuerzo.
+TEXT_KINGBB101_04848_KESHKWA_000_251	Entonces, sobre mi oferta. ¿List<if(gnum4,a,o)> para convertirte en viper y proteger a la gente de las bestias más feroces que existieron jamás?
+TEXT_KINGBB101_04848_Q3_000_000	¿Quieres convertirte en viper?
+TEXT_KINGBB101_04848_KESHKWA_000_255	Bueno, qué lástima. Y yo que pensaba que querrías mantener a la gente de Eorzea a salvo de ese tural vidraal. Avísame si cambias de opinión.
+TEXT_KINGBB101_04848_KESHKWA_000_260	¡Muy buena respuesta! ¡Haré de ti <if(gnum4,una viper,un viper)>, ya verás! Lo primero: déjame darte este soul crystal.
+TEXT_KINGBB101_04848_KESHKWA_000_261	Contiene el conocimiento de nuestras artes de combate, transmitido desde tiempos antiguos de una generación de vipers a la siguiente. Si tienes el talento, nuestras habilidades también pueden ser tuyas.
+TEXT_KINGBB101_04848_KESHKWA_000_262	También tengo un equipo de viper nuevo para ti. El Weavers' Guild quería agradecerte que supervisaras nuestra cacería, así que te hicieron un atuendo propio. Supongo que ese tipo te tomó las medidas a ojo o algo así... Ah, y las espadas son un par de repuesto que tenía a mano.
+TEXT_KINGBB101_04848_KESHKWA_000_263	Pruébatelo todo, y de paso déjame verte.
+TEXT_KINGBB101_04848_SYSTEM_000_900	¡Desbloqueaste un nuevo job! Puedes cambiar a este job cuando quieras equipando el arma que recibiste en esta misión.
+TEXT_KINGBB101_04848_SYSTEM_000_901	Al cambiar de job, los <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipo. Así puedes cambiar de job al instante, sin equipar a mano armas ni equipo.
+TEXT_KINGBB101_04848_SYSTEM_000_902	El botón de la interfaz Gear Set está en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)>.

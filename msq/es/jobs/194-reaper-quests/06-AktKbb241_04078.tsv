@@ -1,0 +1,87 @@
+key	text
+TEXT_AKTKBB241_04078_SEQ_00	Hermin parece estar en un arrebato de furia, con la ira dirigida a algo que no puedes ver.
+TEXT_AKTKBB241_04078_SEQ_01	Hace poco llegó al cuartel de los Lemures un regalo escalofriante: una carta escrita con sangre, que dice que Orcus te espera en the Dusk Vigil. En respuesta, Hermin convoca a todos los miembros de la familia dispuestos y capaces de pelear. Intuyendo que el voidsent despacharía a este grupo en un instante, por leal que sea, los convences de quedarse. Hermin acepta a regañadientes, pero te pide que lleves la guadaña de Drusilla, porque un reaper no es nada sin su arma, y su líder seguro que necesitará la suya. Los Lemures te despiden con vítores... aunque, mientras viajas a the Dusk Vigil, sientes una presencia que sigue cada uno de tus pasos...
+TEXT_AKTKBB241_04078_SEQ_02	Al llegar al lugar indicado, Orcus se comunica contigo y te insta a adentrarte en las ruinas, hasta que te encuentras cara a cara con el voidsent en una sala azotada por el viento, donde espera ansioso tu llegada junto a una Drusilla maltrecha pero que todavía respira. Deleitándose con el festín de miedo y odio en el que te convertiste, Orcus ataca, listo para servirse su comida, pero resultas más dur<if(gnum4,a,o)> de lo que esperaba. Distraído por tu valiente resistencia, Orcus no nota que Drusilla recupera el conocimiento, y una vez que tu mentora recupera su guadaña, entre <if(gnum4,las dos,ambos)> dominan rápidamente a su malvado enemigo. El monstruo está derrotado, pero sigue vivo, y el derecho a la venganza le corresponde a una mujer...
+TEXT_AKTKBB241_04078_SEQ_03	Con un último tajo de su guadaña, Drusilla pone fin a la maldición que su abuelo desató sobre el mundo. Ya no hay más palabras que decir, y Drusilla decide que es hora de volver al cuartel de los Lemures: de volver a casa.<br><br>※Puedes volver a entrar al cuartel de los Lemures hablando con el Lemure leal de Pearl Lane.
+TEXT_AKTKBB241_04078_SEQ_04	Aunque Drusilla todavía llora a Arnegis y cree que no está en condiciones de liderar por haber arrastrado a la familia a su venganza personal, los Lemures no quieren ni oír hablar de eso. Le siguen siendo leales porque les salvó la vida y les dio un lugar al que llamar hogar. Tomándose a pecho sus palabras, Drusilla declara que los Lemures ya no se definirán por sus lazos del pasado, sino por su futuro en común. Luego te da de nuevo la bienvenida a su familia, con la entusiasta aprobación de todos. Con los Lemures a punto de disfrutar de cierta paz y tranquilidad por un tiempo, Drusilla se despide de ti, pero también te anima a visitar a la familia cuando te canse el peso del mundo.
+TEXT_AKTKBB241_04078_TODO_00	Espera en el lugar indicado cerca de Banepool.
+TEXT_AKTKBB241_04078_TODO_01	Entra al cuartel de los Lemures.
+TEXT_AKTKBB241_04078_TODO_02	Habla con Drusilla.
+TEXT_AKTKBB241_04078_HERMIN_000_001	Cuando le ponga las manos encima... ¡Ah, <split(<string(gstr1)>, ,1)>! Escucha, averiguamos dónde tienen a la jefa. Pero te advierto que cómo lo supimos no es nada lindo.
+TEXT_AKTKBB241_04078_HERMIN_000_002	Esta mañana llegó un sobre al cuartel. Lo abrí, y adentro había... había...
+TEXT_AKTKBB241_04078_HERMIN_000_003	...¡Mierda! ¡Adentro había una carta, escrita con sangre!
+TEXT_AKTKBB241_04078_HERMIN_000_004	No hay duda de quién era. Orcus se regodea en su propia crueldad. La carta decía que nos espera en the Dusk Vigil. Los dioses sabrán qué le está haciendo ahora.
+TEXT_AKTKBB241_04078_HERMIN_000_005	Convoqué a todos los miembros de la familia que pueden pelear. Saldremos en cuanto estén todos reunidos.
+TEXT_AKTKBB241_04078_LEMURESMEMBERA_000_006	¡Aquí estamos, Hermin, y hay más esperando afuera! ¡Estamos listos para pagar la deuda que tenemos con Drusilla, con nuestras vidas si hace falta!
+TEXT_AKTKBB241_04078_LEMURESMEMBERC_000_007	Con almas valerosas y corazones de acero,<br>por su líder y el ideal de la familia entero,<br>pronto entrarán en la guarida del demonio,<br>a poner fin a su terror y a su dominio.
+TEXT_AKTKBB241_04078_HERMIN_000_008	A la jefa se le inflaría el pecho de orgullo al ver a este grupo de asesinos a sangre fría. Bien, <split(<string(gstr1)>, ,1)>, estamos listos cuando des la orden.
+TEXT_AKTKBB241_04078_Q1_000_000	¿Qué dices?
+TEXT_AKTKBB241_04078_A1_000_001	Este es un trabajo para un reaper, y solo para un reaper.
+TEXT_AKTKBB241_04078_A1_000_002	Si enfrentan a Orcus, no volverán.
+TEXT_AKTKBB241_04078_HERMIN_000_010	¿¡Qué!? Bueno, puede que no estemos a tu altura, ¡pero tenemos nuestras habilidades!
+TEXT_AKTKBB241_04078_HERMIN_000_011	Vas a necesitar a alguien que distraiga a Orcus, ¿no? Así puedes ir a rematarlo mientras está de espaldas. ¡No nos digas que nos quedemos aquí rascándonos la panza mientras la jefa sufre!
+TEXT_AKTKBB241_04078_Q2_000_000	¿Qué dices?
+TEXT_AKTKBB241_04078_A2_000_001	¡No me hagas repetirlo!
+TEXT_AKTKBB241_04078_A2_000_002	Drusilla no querría que tiraran sus vidas por la borda.
+TEXT_AKTKBB241_04078_HERMIN_000_013	Pero tú...
+TEXT_AKTKBB241_04078_HERMIN_000_014	¿¡Qué sabes tú de lo que ella quiere!?
+TEXT_AKTKBB241_04078_LEMURESMEMBERA_000_015	Hermin, escucha. Quizás... quizás tenga razón.
+TEXT_AKTKBB241_04078_HERMIN_000_016	<italic(1)>Sé<italic(0)> que tiene razón, maldita sea. Eso no quita que me moleste. La jefa no le confiaría las artes de los reapers a <if(gnum4,cualquier mujer,cualquier hombre)>. Y <split(<string(gstr1)>, ,1)> demostró una y otra vez que lo vale.
+TEXT_AKTKBB241_04078_HERMIN_000_017	Si vas a ir sol<if(gnum4,a,o)>, llévate eso.
+TEXT_AKTKBB241_04078_HERMIN_000_018	Para la jefa. Ningún reaper que se respete puede cosechar sin su guadaña.
+TEXT_AKTKBB241_04078_HERMIN_000_019	¡Ahora ve y haz que Orcus maldiga el día en que cruzó a este mundo!
+TEXT_AKTKBB241_04078_HERMIN_100_019	Tráela a salvo, <split(<string(gstr1)>, ,1)>, y vuelve tú también. La familia no abandona a la familia.
+TEXT_AKTKBB241_04078_ORCUS_000_030	(-Orcus-)Ahí estás, <split(<string(gstr1)>, ,1)>. Mi banquete premiado. Acércate.
+TEXT_AKTKBB241_04078_ORCUS_000_031	Mmm... Puedo olerlo. Tu miedo. Tu odio.
+TEXT_AKTKBB241_04078_ORCUS_000_032	Tu alma tierna y marmoleada. Mi obra maestra, madura para el sacrificio.
+TEXT_AKTKBB241_04078_ORCUS_000_033	¡Saborearé cada bocado! ¡Te arrancaré la carne de los huesos y los partiré para sorber la médula durante lunas!
+TEXT_AKTKBB241_04078_ORCUS_000_034	¡Cuánta hambre tuve, cuánta sed! ¡Embelesado con la idea de tu dulce esencia bajando por mi garganta!
+TEXT_AKTKBB241_04078_ORCUS_000_035	Nunca sufrí tanto esperando, ¡pero al contemplar tu magnificencia veo que valió cada punzada de agonía!
+TEXT_AKTKBB241_04078_ORCUS_000_036	No espero que saltes de buena gana a mis fauces. Ni lo deseo. ¡Quiero que te retuerzas y luches hasta tu último aliento!
+TEXT_AKTKBB241_04078_ORCUS_000_037	Muy bien. La rebeldía te sienta...
+TEXT_AKTKBB241_04078_ORCUS_000_038	...Aunque empieza a aburrirme.
+TEXT_AKTKBB241_04078_ORCUS_000_039	A <italic(1)>molestarme<italic(0)>, más bien. Ya es hora de que me muestres la panza para mi hoja.
+TEXT_AKTKBB241_04078_ORCUS_000_040	¡El único propósito de la presa es saciar!
+TEXT_AKTKBB241_04078_ORCUS_000_041	¡Vaya, qué puntería tan terrible!
+TEXT_AKTKBB241_04078_ORCUS_000_042	¡Ungaaah!
+TEXT_AKTKBB241_04078_ORCUS_000_043	Ugh... ¿Cómo? ¡No debería quedar nada de ti!
+TEXT_AKTKBB241_04078_DRUSILLA_000_044	Debiste aprender a masticar mejor la comida.
+TEXT_AKTKBB241_04078_ORCUS_000_045	¡Tontos, los dos! ¡No moriré tan fácilmente!
+TEXT_AKTKBB241_04078_Q3_000_000	¿Qué dices?
+TEXT_AKTKBB241_04078_A3_000_001	Ahora empieza <italic(1)>nuestro<italic(0)> festín.
+TEXT_AKTKBB241_04078_A3_000_002	No quiero que sea fácil.
+TEXT_AKTKBB241_04078_A3_000_003	......
+TEXT_AKTKBB241_04078_ORCUS_000_047	\<tos> ...Ugh... \<resuello> No...
+TEXT_AKTKBB241_04078_Q4_000_000	¿Qué dices?
+TEXT_AKTKBB241_04078_A4_000_001	Esto se termina ahora, Orcus.
+TEXT_AKTKBB241_04078_A4_000_002	El honor es tuyo, Drusilla.
+TEXT_AKTKBB241_04078_DRUSILLA_000_049	Espera. Déjame a mí. Esto viene de hace mucho.
+TEXT_AKTKBB241_04078_DRUSILLA_000_050	Gracias, <split(<string(gstr1)>, ,1)>.
+TEXT_AKTKBB241_04078_ORCUS_000_051	Rebosante de miedo... Hervida en odio... Todavía puedo... oler su aroma exquisito...
+TEXT_AKTKBB241_04078_ORCUS_000_052	Solo... solo un bocado...
+TEXT_AKTKBB241_04078_DRUSILLA_000_053	Se acabó. Volvamos al cuartel, <split(<string(gstr1)>, ,1)>.
+TEXT_AKTKBB241_04078_HERMIN_000_060	¡Jefa! ¡<split(<string(gstr1)>, ,1)>!
+TEXT_AKTKBB241_04078_DRUSILLA_000_061	Perdón por preocuparlos tanto a todos. Al buscarme arriesgaron la vida, y por eso les doy las gracias. A todos.
+TEXT_AKTKBB241_04078_HERMIN_000_062	<italic(1)>Nosotros<italic(0)> no arriesgamos nada. Solo nos quedamos aquí rezando hasta que <split(<string(gstr1)>, ,1)> y usted cruzaron esa puerta...
+TEXT_AKTKBB241_04078_DRUSILLA_100_062	No seas tan dura contigo, muchacha. Sé que todos y cada uno de ustedes l<if(gnum4,a,o)> habrían acompañado si no los hubiera hecho entrar en razón.
+TEXT_AKTKBB241_04078_HERMIN_000_063	Le debemos la vida, Jefa. Le debíamos devolverle el favor.
+TEXT_AKTKBB241_04078_DRUSILLA_000_064	Son más de lo que merezco. ¿Quién arrastra a los que ama a una venganza personal? ¿Quién lleva a su familia a la muerte?
+TEXT_AKTKBB241_04078_ARNEGISWIFE_000_065	Arnegis no era ningún tonto. Conocía los riesgos y los aceptó. Puso su fe en usted porque creía que había que detener a Orcus, y tenía razón.
+TEXT_AKTKBB241_04078_ARNEGISWIFE_000_066	Ya no habrá más víctimas que llorar. Él la ayudó a conseguir esa victoria. Para él sería suficiente, y para mí también lo será.
+TEXT_AKTKBB241_04078_DRUSILLA_000_067	Tienes razón. No es momento de lamentarse. Arnegis sería el primero en decírmelo.
+TEXT_AKTKBB241_04078_DRUSILLA_000_068	Ahora es momento de honrar su sacrificio. De brindar por los que perdimos y por los que siguen a nuestro lado.
+TEXT_AKTKBB241_04078_DRUSILLA_000_069	Y de agradecer a las almas valientes que nos trajeron hasta aquí. O sea, a ti, <split(<string(gstr1)>, ,1)>, por mucho que me gustaría llevarme el mérito de la muerte de Orcus.
+TEXT_AKTKBB241_04078_DRUSILLA_000_070	Fue un camino largo y sangriento, pero con esto termina tu primera tarea como reaper.
+TEXT_AKTKBB241_04078_DRUSILLA_000_071	Y qué tarea fue, ¿eh? Puede que no seas garlean<if(gnum4,a,o)>, pero enfrentaste tu misión con una determinación única que impresionaría al soldado más curtido. Me enorgullece llamarte familia.
+TEXT_AKTKBB241_04078_DRUSILLA_000_072	Puede que hayamos fundado los Lemures para darles un hogar a los garleanos descarriados...
+TEXT_AKTKBB241_04078_DRUSILLA_000_073	...Pero no somos tan distintos, garleanos y eorzeanos. No es ninguna gran revelación, pero momentos como este ayudan a ponerlo todo en perspectiva.
+TEXT_AKTKBB241_04078_DRUSILLA_000_074	Esta familia fue un sueño que nos dio fuerzas para sobrevivir en una tierra extraña.
+TEXT_AKTKBB241_04078_DRUSILLA_000_075	Pero lo hermoso de los sueños, si me preguntas, es que pueden cambiar. Pueden mejorar. Así que digo que, de hoy en adelante, a los Lemures no los unirá el origen, sino el propósito. Hermanos y hermanas unidos por convicciones compartidas.
+TEXT_AKTKBB241_04078_HERMIN_000_076	No creo que nadie se oponga a eso, Jefa. Los Lemures están listos para recibir a gente de todo tipo.
+TEXT_AKTKBB241_04078_HERMIN_000_077	Empezando por ti, <split(<string(gstr1)>, ,1)>, aunque ya era casi oficial, ¿eh?
+TEXT_AKTKBB241_04078_DRUSILLA_000_078	Sí. Por el nacimiento de una nueva familia, <if(gnum4,Hermana,Hermano)>.
+TEXT_AKTKBB241_04078_DRUSILLA_000_080	Qué día, ¿eh? Espero que pase un buen tiempo antes de que tenga ocasión de parlotear tanto otra vez.
+TEXT_AKTKBB241_04078_DRUSILLA_000_081	Hablar demasiado me pone sentimental. O peor, me humedece los ojos.
+TEXT_AKTKBB241_04078_DRUSILLA_000_082	Así que dejémoslo ahí, ¿eh? Si alguna vez te cansa el peso del mundo sobre los hombros, que sepas que nuestras puertas siempre estarán abiertas.
+TEXT_AKTKBB241_04078_DRUSILLA_000_083	Y si necesitas a alguien que te escuche, un hombro en el que llorar o una botella fuerte en la que meterte de cabeza, ¡aquí estaré, <if(gnum4,Hermana,Hermano)>!
+TEXT_AKTKBB241_04078_SYSTEM_000_100	Para emprender esta misión, primero debes completar la misión de la historia principal "Over the Wall".

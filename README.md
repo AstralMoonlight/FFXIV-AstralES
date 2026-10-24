@@ -182,13 +182,13 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 | **Healer** | White Mage | 30–100 | ![Traducido][ok] |
 | | Scholar | 30–100 | ![Traducido][ok] |
 | | Astrologian | 30–100 | ![Pendiente][no] |
-| | Sage | 70–100 | ![Pendiente][no] |
+| | Sage | 70–100 | ![Traducido][ok] |
 | **Melee** | Monk | 30–100 | ![Traducido][ok] |
 | | Dragoon | 30–100 | ![Traducido][ok] |
 | | Ninja | 30–100 | ![Pendiente][no] |
 | | Samurai | 50–100 | ![Pendiente][no] |
-| | Reaper | 70–100 | ![Pendiente][no] |
-| | Viper | 80–100 | ![Pendiente][no] |
+| | Reaper | 70–100 | ![Traducido][ok] |
+| | Viper | 80–100 | ![Traducido][ok] |
 | **Ranged** | Bard | 30–100 | ![Traducido][ok] |
 | | Machinist | 30–100 | ![Pendiente][no] |
 | | Dancer | 60–100 | ![Pendiente][no] |
