@@ -1,0 +1,147 @@
+key	text
+TEXT_KINGBB241_04859_SEQ_00	Kupopo asiente con entusiasmo en tu dirección.
+TEXT_KINGBB241_04859_SEQ_01	El viaje de Kupopo por sus recuerdos dio pocos frutos mientras no estabas. Pero, al recordar otra vez su pelea con Beruru, de pronto se le ocurre una respuesta: Beruru se <italic(1)>convirtió<italic(0)> en parte de la pintura. Aunque no queda claro qué quiere decir con eso, promete explicarlo todo pronto. Pero antes debes acompañarlo en un último viaje, y para eso tienes que encontrarte con el moogle en el Jadeite Flood.
+TEXT_KINGBB241_04859_SEQ_02	En el Jadeite Flood, Kupopo te cuenta que Janquetilaque murió protegiendo a los demás pacientes del Warmwine Sanitorium, apenas unos días antes de que Kupopo y Beruru volvieran de su primera aventura sin él. Beruru estaba destrozada, y en un momento de poco juicio, el moogle intentó animarla diciéndole que podía, y debía, valerse por sí misma como pictomancer. Pero Beruru reaccionó con enojo, y la discusión terminó con los dos separándose. Kupopo explica además que Beruru es una pictomancer de un talento excepcional, capaz de darles vida a sus creaciones, y también de alterar a los seres vivos. Ahora cree que, consumida por el dolor, Beruru se encerró dentro de la pintura, el último recuerdo de Janquetilaque, y te pide que entres al mundo de la pintura para salvarla.
+TEXT_KINGBB241_04859_SEQ_03	Dentro de la pintura descubres un paisaje onírico muy elaborado, y en su centro, a Beruru cautiva. Está viva, pero atrapada en una prisión que ella misma creó, con una ilusión de Janquetilaque como carcelero. Burlándose de Kupopo cuando este le dice que no es más que una sombra, la ilusión se niega a liberarla, y te considera a ti, <if(gnum4,heredera,heredero)> de su soul crystal, una mala imitación incapaz de vencer al maestro. Te toca derrotarlo y liberar a Beruru.
+TEXT_KINGBB241_04859_SEQ_04	Vencida la ilusión de Janquetilaque, Beruru recobra el sentido y por fin se reencuentra con Kupopo. Pero pronto deben separarse, porque Kupopo revela su verdadera naturaleza: durante mucho tiempo cuidó de Beruru como su amigo imaginario hecho realidad. A la joven pictomancer le cuesta dejar atrás su fantasía, pero el moogle y tú la convencen de volver a enfrentar el mundo. Kupopo se despide por última vez de ti y de Beruru cuando regresan al Jadeite Flood.
+TEXT_KINGBB241_04859_SEQ_05	El aether de Kupopo volvió a Beruru, y con él, los recuerdos del tiempo que pasaste con el moogle. Inspirada por tus actos desinteresados, te agradece por acompañar a su más querido amigo, y decide emprender un viaje propio para ayudar a otros como tú la ayudaste a ella. En memoria de Kupopo, y por el bien de quienes aún puedas salvar, juras mantener las costumbres del pictomancer y pintar el mundo con esperanza.
+TEXT_KINGBB241_04859_TODO_00	Habla con Kupopo junto al Jadeite Flood.
+TEXT_KINGBB241_04859_TODO_01	Habla con Kupopo.
+TEXT_KINGBB241_04859_TODO_02	Vuelve a hablar con Kupopo.
+TEXT_KINGBB241_04859_TODO_03	Habla con Beruru.
+TEXT_KINGBB241_04859_KUPOPO_000_001	¡Vaya, <split(<string(gstr1)>, ,1)>! Se nota que te dedicaste a tu entrenamiento.
+TEXT_KINGBB241_04859_KUPOPO_000_002	Ah, sí, el aura enigmática de un artista consumado es inconfundible. ¡Me recuerdas a Janquetilaque en sus mejores años, kupo!
+TEXT_KINGBB241_04859_KUPOPO_000_003	Ahora, imagina un lienzo enorme que todavía no recibió ni una gota de pintura. Así, por desgracia, está mi búsqueda de Beruru. No encontré ninguna pista nueva sobre su paradero, y no sé qué hacer ahora...
+TEXT_KINGBB241_04859_Q1_000_000	¿Qué dices?
+TEXT_KINGBB241_04859_A1_000_001	Quizás deberíamos pensar en cuál pudo ser el objetivo de Beruru.
+TEXT_KINGBB241_04859_A1_000_002	¿Por qué se pelearon ustedes dos, para empezar?
+TEXT_KINGBB241_04859_A1_000_003	¡Yo tampoco sé qué hacer, kupo!
+TEXT_KINGBB241_04859_KUPOPO_000_005	El objetivo de Beruru... Si queremos siquiera adivinarlo, creo que no me queda otra que volver a los sucesos de aquel día fatídico.
+TEXT_KINGBB241_04859_KUPOPO_000_006	\<suspiro> No quería contar lo que pasó aquel día fatídico, pero quizás debí hacerlo...
+TEXT_KINGBB241_04859_KUPOPO_000_007	Para alguien con una imaginación tan excepcional, a veces no te enteras de nada. Pero tranquil<if(gnum4,a,o)>, que no te tengo en menos por eso, kupo. En fin, a falta de una idea mejor...
+TEXT_KINGBB241_04859_KUPOPO_000_008	Hablemos de la raíz misma de nuestros problemas. La discusión que hizo que Beruru y yo siguiéramos caminos separados...
+TEXT_KINGBB241_04859_KUPOPO_000_009	Ese día, los dos volvimos a Limsa Lominsa después de un viaje, el primero sin la compañía de Janquetilaque.
+TEXT_KINGBB241_04859_KUPOPO_000_010	La vejez y los largos años en el camino le habían pasado factura, y tomamos la difícil decisión de dejarlo al cuidado de un sanatorio.
+TEXT_KINGBB241_04859_KUPOPO_000_011	Con una sonrisa en la cara, desde la cama, nos deseó suerte en nuestra próxima aventura, y le recordó a Beruru que no debía...
+TEXT_KINGBB241_04859_KUPOPO_000_012	\<jadeo> ¿Será posible? Sí... ¡Sí, tiene que ser eso!
+TEXT_KINGBB241_04859_KUPOPO_000_013	¡Beruru se convirtió en <italic(1)>parte<italic(0)> de la pintura!
+TEXT_KINGBB241_04859_KUPOPO_000_014	No te culpo por no entender nada. Te prometo que pronto te lo explico todo, kupo.
+TEXT_KINGBB241_04859_KUPOPO_000_015	<split(<string(gstr1)>, ,1)>, fuiste <if(gnum4,la mejor alumna,el mejor alumno)> que podría haber deseado. Entrenaste con dedicación, ayudaste a quienes lo necesitaban y cumpliste tu promesa conmigo.
+TEXT_KINGBB241_04859_KUPOPO_000_016	No debería pedirte más, pero para lo que estoy por hacer, me temo que debo hacerlo. Te lo ruego, ¡préstame tu fuerza una última vez, kupo!
+TEXT_KINGBB241_04859_KUPOPO_000_017	Ven a encontrarte conmigo en el Jadeite Flood. ¡Te estaré esperando!
+TEXT_KINGBB241_04859_KUPOPO_000_020	¡Ahí estás, <split(<string(gstr1)>, ,1)>!
+TEXT_KINGBB241_04859_KUPOPO_000_021	Sé que debes de tener muchas preguntas. Déjame explicarte todo, kupo.
+TEXT_KINGBB241_04859_KUPOPO_000_022	Hicieron falta unos cuantos "por favor, por favorcito", pero convencí al sacerdote del Ossuary de que nos prestara la pintura.
+TEXT_KINGBB241_04859_KUPOPO_000_023	Beruru la heredó de Janquetilaque, junto con las otras obras, cuando él falleció.
+TEXT_KINGBB241_04859_KUPOPO_000_024	El día de nuestra pelea, Beruru y yo habíamos vuelto de nuestro primer viaje juntos, como te dije. Pero cuando llegamos al sanatorio para ver cómo le había ido a Janquetilaque en nuestra ausencia, lo único que nos esperaba eran unas pocas pinturas suyas y sus pertenencias...
+TEXT_KINGBB241_04859_KUPOPO_000_025	Unos días antes, una criatura feroz se había metido en el lugar. Para proteger a los demás pacientes, Janquetilaque la enfrentó y la venció, pero el esfuerzo fue demasiado...
+TEXT_KINGBB241_04859_KUPOPO_000_026	Beruru y yo quedamos destrozados. Si tan solo hubiéramos vuelto antes, si hubiéramos tomado un camino más corto o no hubiéramos perdido tanto tiempo, Janquetilaque quizás seguiría vivo. Esos pensamientos nos atormentaban, kupo...
+TEXT_KINGBB241_04859_KUPOPO_000_027	Beruru fue la que peor lo tomó, porque había perdido a su única familia. Se aferró a mí y lloró, como una niña con su muñeca. Y yo, en un momento de poco juicio, dije una tontería...
+TEXT_KINGBB241_04859_KUPOPO_000_028	Le dije que no tenía por qué depender tanto de mí. Que podía valerse por sí misma como pictomancer, y que debía hacerlo.
+TEXT_KINGBB241_04859_KUPOPO_000_029	Me apartó de un empujón, furiosa. Una palabra dura llevó a otra, y nos gritamos hasta quedarnos roncos. Cuando ya no quedaba nada que decir, se fue sola hecha una furia, abrazando las pinturas de Janquetilaque.
+TEXT_KINGBB241_04859_KUPOPO_000_030	El resto ya lo sabes. Un tiempo después, viajó a Ul'dah, vendió las pinturas para reunir el dinero de su tumba, y luego desapareció.
+TEXT_KINGBB241_04859_KUPOPO_000_031	Durante mucho tiempo no pude entender qué estaba pensando, ni adónde pudo haber ido. Pero la respuesta la teníamos delante de las narices, kupo.
+TEXT_KINGBB241_04859_KUPOPO_000_032	Verás, Beruru tenía una imaginación tan vívida que podía darle vida a cualquiera de sus ideas.
+TEXT_KINGBB241_04859_KUPOPO_000_033	Como ese don tan raro le permitía no solo crear sino también <italic(1)>transformar<italic(0)>, Janquetilaque le hizo prometer que nunca usaría sus poderes para alterar a un ser vivo.
+TEXT_KINGBB241_04859_KUPOPO_000_034	¡Pero en su dolor, hizo justamente eso! ¡Se volvió una con esta pintura!
+TEXT_KINGBB241_04859_KUPOPO_000_035	Cuesta creerlo, lo sé, pero la pintura misma lo cuenta. Antes desprendía calidez y fantasía; ahora la envuelve un manto asfixiante de tristeza.
+TEXT_KINGBB241_04859_KUPOPO_000_036	Y eso me lleva a mi petición. Con mis propias magias, quiero entrar en la pintura y salvar a Beruru, pero no sé si puedo hacerlo solo. ¿Puedo contar con tu ayuda, <split(<string(gstr1)>, ,1)>?
+TEXT_KINGBB241_04859_KUPOPO_000_037	¡Te debo una! Te advierto: la pintura será un mundo donde la imaginación se hace realidad. O sea, puede pasar cualquier cosa, así que asegúrate de ir bien preparad<if(gnum4,a,o)>, kupo.
+TEXT_KINGBB241_04859_KUPOPO_000_040	¿List<if(gnum4,a,o)> para lanzarte a la pintura, kupo?
+TEXT_KINGBB241_04859_Q2_000_000	¿Qué dices?
+TEXT_KINGBB241_04859_A2_000_001	¡Cuando quieras!
+TEXT_KINGBB241_04859_A2_000_002	Necesito un momento...
+TEXT_KINGBB241_04859_KUPOPO_000_042	¡Parece que lo logramos, kupo!
+TEXT_KINGBB241_04859_Q3_000_000	¿Qué dices?
+TEXT_KINGBB241_04859_A3_000_001	¿Dónde estamos?
+TEXT_KINGBB241_04859_A3_000_002	¿El Grand Cosmos...? ¿Pero cómo?
+TEXT_KINGBB241_04859_A3_000_003	Es como un sueño...
+TEXT_KINGBB241_04859_KUPOPO_000_044	¿Eh? ¿Te resulta familiar el paisaje?
+TEXT_KINGBB241_04859_KUPOPO_000_045	¿¡Estuviste en un lugar así en otro mundo!? ¡Solo pensarlo me da vueltas la cabeza, kupo!
+TEXT_KINGBB241_04859_KUPOPO_000_046	Si mal no recuerdo, Janquetilaque vio este palacio suntuoso en un sueño, y se inspiró para recrearlo en el lienzo.
+TEXT_KINGBB241_04859_KUPOPO_000_047	Quizás su afinidad con lo arcano le permitía visitar otros mundos mientras dormía. ¡O quizás alguien de ese mundo le mandó la visión, kupo! Sea como sea, no hay duda de que estamos dentro de la pintura.
+TEXT_KINGBB241_04859_KUPOPO_000_048	Beruru tiene que estar en alguna parte. ¡Vamos, <split(<string(gstr1)>, ,1)>!
+TEXT_KINGBB241_04859_KUPOPO_000_049	¡Beruru!
+TEXT_KINGBB241_04859_KUPOPO_000_050	¡Soy yo, Kupopo! ¡Vine a buscarte!
+TEXT_KINGBB241_04859_BERURU_000_051	¿Viniste... a buscarme? Nadie haría eso. Nadie...
+TEXT_KINGBB241_04859_BERURU_000_052	El maestro Janquetilaque ya no está por mi culpa. Porque llegué demasiado tarde.
+TEXT_KINGBB241_04859_KUPOPO_000_053	¡No digas eso, Beruru! ¡No es tu culpa!
+TEXT_KINGBB241_04859_BERURU_000_054	Hasta Kupopo me abandonó. Mi único amigo...
+TEXT_KINGBB241_04859_KUPOPO_000_055	¡Eso no es cierto! ¡Siempre voy a ser tu amigo! ¡Pase lo que pase!
+TEXT_KINGBB241_04859_KUPOPO_000_056	¡Por favor, Beruru! ¡Por favor, vuelve conmigo!
+TEXT_KINGBB241_04859_JANQUETILAQUEGHOST_000_059	(-Pictomancer fantasmal-)Ella me pertenece. Y ustedes no tienen lugar aquí.
+TEXT_KINGBB241_04859_KUPOPO_000_060	¿¡M-Maestro Janquetilaque!?
+TEXT_KINGBB241_04859_KUPOPO_000_061	No... ¡Tú no eres más que una sombra nacida de la imaginación!
+TEXT_KINGBB241_04859_JANQUETILAQUEGHOST_000_062	Que <italic(1)>tú<italic(0)> me llames sombra, Kupopo. No puedo tolerar semejante insolencia.
+TEXT_KINGBB241_04859_KUPOPO_100_062	¡Uaaaagh!
+TEXT_KINGBB241_04859_Q4_000_000	¿Qué dices?
+TEXT_KINGBB241_04859_A4_000_001	¡El verdadero Janquetilaque jamás le haría daño a Kupopo!
+TEXT_KINGBB241_04859_A4_000_002	¡Vamos a liberar a Beruru de tus garras!
+TEXT_KINGBB241_04859_JANQUETILAQUEGHOST_000_065	<if(gnum4,Una,Un)> pictomancer. Y con mi soul crystal, nada menos...
+TEXT_KINGBB241_04859_JANQUETILAQUEGHOST_000_066	Una imitación. No eres rival para el maestro que aspiras a ser.
+TEXT_KINGBB241_04859_Q5_000_000	¿Qué dices?
+TEXT_KINGBB241_04859_A5_000_001	¡Mi imaginación es mía, y puede con la tuya de sobra!
+TEXT_KINGBB241_04859_A5_000_002	¡Te mostraré lo que puede hacer esta imitación!
+TEXT_KINGBB241_04859_JANQUETILAQUEGHOST_000_068	Palabras audaces. ¡Pero pronto conocerás el verdadero poder de la pictomancia!
+TEXT_KINGBB241_04859_JANQUETILAQUEGHOST_000_069	Aquí, dentro de mi obra maestra, la imaginación dicta la realidad. ¡Daré los últimos toques con los tonos de tu terror!
+TEXT_KINGBB241_04859_KUPOPO_000_080	¡Lo lograste, <split(<string(gstr1)>, ,1)>! ¡Tu imaginación triunfó sobre la suya!
+TEXT_KINGBB241_04859_KUPOPO_000_081	Beruru... ¡Despierta, Beruru!
+TEXT_KINGBB241_04859_KUPOPO_000_082	¡Vamos, Lalafell cabeza dura! ¡Reacciona!
+TEXT_KINGBB241_04859_BERURU_000_083	¿Kupopo...? ¿Qué haces aquí?
+TEXT_KINGBB241_04859_KUPOPO_000_084	¡Vinimos a llevarte de vuelta, kupo! ¡Te buscamos por todas partes!
+TEXT_KINGBB241_04859_BERURU_000_085	Nunca pensé que alguien vendría a buscarme dentro de la pintura...
+TEXT_KINGBB241_04859_BERURU_000_086	<split(<string(gstr1)>, ,1)>, ¿verdad? Gracias por acompañar a Kupopo en su viaje.
+TEXT_KINGBB241_04859_Q6_000_000	¿Qué dices?
+TEXT_KINGBB241_04859_A6_000_001	El deber de un pictomancer es ayudar a los demás.
+TEXT_KINGBB241_04859_A6_000_002	¿Por qué entraste en esta pintura?
+TEXT_KINGBB241_04859_BERURU_000_088	Así es... El maestro Janquetilaque me enseñó exactamente lo mismo, y yo me esforcé por cumplir con nuestro deber.
+TEXT_KINGBB241_04859_BERURU_000_089	Pero no pude salvarlo. No pude salvar al hombre que me crio...
+TEXT_KINGBB241_04859_BERURU_000_090	Pensé que aquí podría reencontrarme con el maestro Janquetilaque.
+TEXT_KINGBB241_04859_BERURU_000_091	Murió por mi culpa. Porque me faltaba experiencia para prever lo que podía pasar...
+TEXT_KINGBB241_04859_KUPOPO_000_092	¡No es tu culpa, Beruru! Ni las mentes más brillantes e imaginativas pueden predecir el futuro, kupo.
+TEXT_KINGBB241_04859_BERURU_000_093	¿¡Y tú qué haces aquí!? ¡Haciéndote el amable, después de todo lo que dijiste!
+TEXT_KINGBB241_04859_BERURU_000_094	Mi mejor amigo. Y me <italic(1)>abandonaste<italic(0)> cuando te necesitaba. Me dijiste que siguiera mi propio camino...
+TEXT_KINGBB241_04859_KUPOPO_000_095	Sabes por qué dije lo que dije, kupo...
+TEXT_KINGBB241_04859_KUPOPO_000_096	No soy real. Por mucho que lo desee, no puedo quedarme a tu lado para siempre.
+TEXT_KINGBB241_04859_KUPOPO_000_097	Igual que el Janquetilaque al que vencimos, soy producto de la pictomancia. Tu amigo imaginario, nada más.
+TEXT_KINGBB241_04859_KUPOPO_000_098	No es raro que los niños tengan amigos imaginarios. Nos crean en su mente para que los ayudemos a sobrellevar sus problemas.
+TEXT_KINGBB241_04859_KUPOPO_000_099	Pero los niños crecen. Y cuando crecen, nosotros desaparecemos, kupo.
+TEXT_KINGBB241_04859_BERURU_000_100	¡Pero no <italic(1)>tienes<italic(0)> que desaparecer! Yo te pinté para que existieras... ¡Mi primerísima creación!
+TEXT_KINGBB241_04859_BERURU_000_101	Igual que pinté al maestro Janquetilaque. Para poder arreglar mi error... y para no quedarme sola...
+TEXT_KINGBB241_04859_KUPOPO_000_102	Los pictomancers pueden hacer cosas maravillosas. Al darle vida a nuestra imaginación, les llevamos esperanza a quienes la necesitan, kupo.
+TEXT_KINGBB241_04859_KUPOPO_000_103	Eso lo aprendió <split(<string(gstr1)>, ,1)> en su viaje.
+TEXT_KINGBB241_04859_KUPOPO_000_104	Y tú también, Beruru.
+TEXT_KINGBB241_04859_KUPOPO_000_105	Pero por dura que sea la realidad, ¡un pictomancer no existe para pintar encima de ella, kupo!
+TEXT_KINGBB241_04859_KUPOPO_000_106	En lugar de huir de la realidad, ¡nuestro deber es darle a la gente el valor para <italic(1)>enfrentarla<italic(0)>!
+TEXT_KINGBB241_04859_BERURU_000_107	Pero... ¿Cómo puedo hacerlo si las personas que más me importan ya no están?
+TEXT_KINGBB241_04859_Q7_000_000	¿Qué dices?
+TEXT_KINGBB241_04859_A7_000_001	Si sigues adelante por ellos, siempre estarán contigo.
+TEXT_KINGBB241_04859_A7_000_002	Al darles esperanza a otros, encontrarás tu propia esperanza.
+TEXT_KINGBB241_04859_BERURU_000_109	Seguir como pictomancer... por el maestro Janquetilaque y por Kupopo...
+TEXT_KINGBB241_04859_BERURU_000_110	Darles esperanza a otros como pictomancer...
+TEXT_KINGBB241_04859_BERURU_000_111	Quizás... quizás pueda encontrar la fuerza para valerme por mí misma. Llevándolos en mi corazón...
+TEXT_KINGBB241_04859_KUPOPO_000_112	¡Claro que sí, kupo! ¡Claro que podrás, y vas a estar muy bien!
+TEXT_KINGBB241_04859_KUPOPO_000_113	Sabiendo eso, ya puedo irme tranquilo, kupo.
+TEXT_KINGBB241_04859_KUPOPO_000_114	¡Adiós, <split(<string(gstr1)>, ,1)>! ¡Fue una alegría viajar contigo!
+TEXT_KINGBB241_04859_KUPOPO_000_115	¡Adiós, Beruru! ¡Eres mi amiga más querida, y siempre lo serás!
+TEXT_KINGBB241_04859_BERURU_000_120	Eh, ¿<split(<string(gstr1)>, ,1)>?
+TEXT_KINGBB241_04859_BERURU_000_121	Perdón por todos los problemas que causé. Gracias por ayudar a Kupopo a encontrarme y salvarme.
+TEXT_KINGBB241_04859_BERURU_000_122	Cuando él se desvaneció, un aether cálido y reconfortante fluyó hacia mi cuerpo...
+TEXT_KINGBB241_04859_BERURU_000_123	Creo que era la magia que usé para crearlo.
+TEXT_KINGBB241_04859_BERURU_000_124	En ese instante, los momentos y recuerdos que compartió con usted se volvieron míos.
+TEXT_KINGBB241_04859_BERURU_000_125	La sombra del Shroud, el frío de Coerthas, el esplendor de Kugane... Los dos viajaron muy lejos.
+TEXT_KINGBB241_04859_BERURU_000_126	Sentí la desesperación de Kupopo mientras me buscaba. Su nostalgia por nuestros días en el camino con el maestro Janquetilaque...
+TEXT_KINGBB241_04859_BERURU_000_127	Y su felicidad por haber encontrado en usted a <if(gnum4,una amiga,un amigo)>.
+TEXT_KINGBB241_04859_BERURU_000_128	¿Pero y usted, <split(<string(gstr1)>, ,1)>? ¿Qué le pareció el viaje?
+TEXT_KINGBB241_04859_Q8_000_000	¿Qué te pareció el viaje?
+TEXT_KINGBB241_04859_A8_000_001	Disfruté entrenándome para ser pictomancer.
+TEXT_KINGBB241_04859_A8_000_002	Kupopo fue un compañero de viaje maravilloso.
+TEXT_KINGBB241_04859_A8_000_003	Fue difícil seguirle el ritmo a Kupopo...
+TEXT_KINGBB241_04859_BERURU_000_130	¡Me alegra oír eso! Yo sentí exactamente lo mismo cuando aprendía el arte con el maestro Janquetilaque.
+TEXT_KINGBB241_04859_BERURU_000_131	A Kupopo le alegraría oír eso... y a mí también. Significa mucho saber que alguien más lo recordará con cariño.
+TEXT_KINGBB241_04859_BERURU_000_132	Ji, ji, entiendo lo que dice. Kupopo a veces era demasiado despreocupado. Pero tenía buenas intenciones, y espero que haya llegado a apreciarlo como yo.
+TEXT_KINGBB241_04859_BERURU_000_133	¿Sabe? Aquí vi a mi primer moogle. Cómo bailaba en el aire, tan lleno de vida y alegría... ¿Qué niño no habría querido un amigo así?
+TEXT_KINGBB241_04859_BERURU_000_134	Podría crearlo otra vez. Recordar la sensación y la imagen, y pintarlo de nuevo.
+TEXT_KINGBB241_04859_BERURU_000_135	Pero no lo haré. Porque, como me enseñaron ustedes dos, una despedida no es el final.
+TEXT_KINGBB241_04859_BERURU_000_136	Gracias, <split(<string(gstr1)>, ,1)>. Por todo lo que hizo por Kupopo y por mí.
+TEXT_KINGBB241_04859_BERURU_000_137	A partir de aquí, emprenderé otro viaje como pictomancer. Vaya donde vaya, juro pintar un camino de esperanza como lo hizo el maestro Janquetilaque... ¡y como seguro que seguirá haciéndolo usted!

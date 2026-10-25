@@ -1,0 +1,71 @@
+key	text
+TEXT_JOBRDM601_02583_SEQ_00	X'rhun tiene una propuesta para seguir con tu entrenamiento.
+TEXT_JOBRDM601_02583_SEQ_01	Ahora que su venganza contra Lambard terminó, X'rhun parece ansioso por seguir con tu entrenamiento. Viaja a The Dravanian Hinterlands y reúnete con tu mentor cerca del aetheryte de Idyllshire.
+TEXT_JOBRDM601_02583_SEQ_02	X'rhun propone que afines tus habilidades con los agresores de los Illuminati que amenazan a la gente de Idyllshire. Ve hacia el Arkhitekton y explora la zona en busca de rivales dignos.
+TEXT_JOBRDM601_02583_SEQ_03	Usaste tu arte con éxito contra los soldados mecánicos de los Illuminati. Vuelve al Makers' Quarter y habla con X'rhun.
+TEXT_JOBRDM601_02583_SEQ_04	Después de elogiar tu victoria sobre los goblins, X'rhun empieza a preocuparse porque Arya no vuelve. Regresa al Arkhitekton y busca a tu compañera de estudios de magia roja.
+TEXT_JOBRDM601_02583_SEQ_05	Encuentras a Arya agotada tras una pelea que le costó ganar. Pero cuando intentas reanimarla, se vuelve hostil de repente y te ves obligad<if(gnum4,a,o)> a dejarla inconsciente. Vuelve a Idyllshire y ve cómo se recupera en Rowena's Center for Cultural Promotion.
+TEXT_JOBRDM601_02583_SEQ_06	Arya parece no recordar casi nada de lo que hizo después de su pelea con las fuerzas de los Illuminati. Habla con X'rhun y escucha lo que piensa de esa conducta tan impropia de Arya.
+TEXT_JOBRDM601_02583_SEQ_07	X'rhun te cuenta lo que observó de la repentina transformación de Arya, y la compara con el cambio que sufrió Lambard antes de empezar a alimentarse de aether vivo. Decidido a encontrar una cura para esta terrible condición, el Crimson Duelist te pide que te prepares para otra expedición.<br><br>※La siguiente misión de red mage estará disponible con X'rhun al llegar al nivel 63.
+TEXT_JOBRDM601_02583_TODO_00	Habla con X'rhun Tia en Idyllshire.
+TEXT_JOBRDM601_02583_TODO_01	Explora la zona y derrota a los enemigos que aparezcan.
+TEXT_JOBRDM601_02583_TODO_02	Habla con X'rhun.
+TEXT_JOBRDM601_02583_TODO_03	Rescata a Arya.
+TEXT_JOBRDM601_02583_TODO_04	Habla con Arya en Idyllshire.
+TEXT_JOBRDM601_02583_TODO_05	Habla con X'rhun Tia.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_030	<split(<string(gstr1)>, ,1)>. Arya. Aunque hubo lecciones que aprender mientras l<if(gnum4,as,os)> arrastraba en mi búsqueda de venganza, ya es hora de que les ofrezca un entrenamiento más ordenado.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_040	Con tu apoyo y el de tus compañeros, la hija de Curtis liberó Ala Mhigo. Pero, en vez de volver en este momento de gloria, siento que puedo contribuir más a la reconstrucción de mi patria desde afuera.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_050	Hay movimientos en marcha para liberar Ala Mhigo de sus opresores, pero quiero seguir ayudando a la lucha desde afuera. Hay mucho que puedo lograr más allá de las fronteras de mi patria, y la hija de Curtis ya cuenta con el apoyo de héroes como tú.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_060	Después de largos años, Ala Mhigo por fin tiene la oportunidad de tomar las riendas de su destino. Pero voy a seguir con mi peregrinaje. Incluso desde fuera de las fronteras de mi patria, todavía hay mucho que puedo aportar a su lucha.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_080	Hace dos décadas me uní a los revolucionarios. Aunque nuestros motivos eran justos, fueron nuestros actos los que al final abrieron una brecha que el Imperio aprovechó. Mi tiempo al frente de ese escenario terminó: volver ahora solo traería confusión y resentimiento.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_081	La revolución se convirtió después en la "Resistance", y el derecho a dar forma al futuro de Ala Mhigo está ahora en manos de quienes vivirán la era que viene.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_082	No, yo haré mi parte formando a una nueva generación de red mages. Dejé mi huella como Crimson Duelist, pero ustedes no están atados por mi juramento: son libres de decidir por sí mism<if(gnum4,as,os)> cómo usar mejor lo que les enseño.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_083	Ahora, en cuanto a sus estudios, ya saben de mi preferencia por la práctica. Tenemos que desafiarl<if(gnum4,as,os)> con una nueva frontera: un lugar donde los fuertes se reúnen en busca de aventuras. ¡A Idyllshire, amigos!
+TEXT_JOBRDM601_02583_ARYA_000_090	¿Qué le parece? Me compré ropa y espada nuevas con las monedas que me dio Jessie.
+TEXT_JOBRDM601_02583_ARYA_000_091	¡Ojalá fuera igual de fácil mejorar mis habilidades!
+TEXT_JOBRDM601_02583_XRHUNTIA_000_120	Parece que la joven Arya invirtió en su apariencia. ¿No se ve como toda una red mage?
+TEXT_JOBRDM601_02583_XRHUNTIA_000_121	Bien. ¡Estrenemos ese equipo nuevo! Hay una organización hostil de goblins conocida como los "Illuminati" que le está causando problemas a la gente de aquí, de Idyllshire.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_122	La amenaza más importante para la población parecen ser los soldados mecánicos que controlan los agresores de los Illuminati. ¡Yo digo que les hagamos un favor a los lugareños usando esos armatostes ruidosos como práctica de combate!
+TEXT_JOBRDM601_02583_XRHUNTIA_000_123	Aunque, después de su pelea con Lambard, puede que no sean más que eso. Sobre todo para ti, <split(<string(gstr1)>, ,1)>: dominas tanto la magia roja que me atrevo a decir que podrías con uno o dos soldados mecánicos tú sol<if(gnum4,a,o)>...
+TEXT_JOBRDM601_02583_XRHUNTIA_000_124	En cuanto a ti, Arya, tus hechizos tienen poder en bruto, pero les falta refinamiento. Creo que preferiría que entrenaras con alguien.
+TEXT_JOBRDM601_02583_ARYA_000_125	...Quiero intentar pelear sola.
+TEXT_JOBRDM601_02583_ARYA_000_126	Por favor, entiéndame, yo... Antes de empezar a aprender magia, sentía que apenas existía.
+TEXT_JOBRDM601_02583_ARYA_100_126	Pero cuando me esfuerzo por estar a su altura y a la de <split(<string(gstr1)>, ,1)>, cuando veo que mejoro, es cuando me siento más <italic(1)>viva<italic(0)>.
+TEXT_JOBRDM601_02583_ARYA_000_127	¡No quiero nada más que convertirme en una red mage hecha y derecha! Quiero estar a su lado y pelear como su igual.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_128	¡Bueno, lejos de mí detenerte! Quizás la forma perfecta de superar tus problemas con la magia blanca sea estar sola en una situación en la que no te quede más remedio que superarlos.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_129	Ahora <if(gnum4,las,los)> dos vayan hacia el Arkhitekton y busquen sus propios enemigos mecánicos para vencerlos. L<if(gnum4,as,os)> voy a esperar aquí, en el Makers' Quarter.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_140	Los rivales que buscas están cerca del Arkhitekton. Vuelve aquí conmigo cuando hayas ganado.
+TEXT_JOBRDM601_02583_BALLOON_160	Pshhh... ¡Shkohhh!<br>¡Cortecitos y pinchacitos!
+TEXT_JOBRDM601_02583_BALLOON_161	Pshhh... ¡Shkohhh!<br>¡Gente de arriba pide doloreo!
+TEXT_JOBRDM601_02583_XRHUNTIA_000_160	Ah, ya reconozco ese paso confiado. ¡Bien hecho, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBRDM601_02583_XRHUNTIA_000_161	...¿De casualidad viste a Arya por el camino? A menos que haya sobreestimado mucho sus habilidades, esperaba que llegara poco después que tú.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_162	Hm. Arya <italic(1)>sí<italic(0)> parecía decidida a demostrar lo que vale. Perdona la metáfora retorcida, pero tengo el presentimiento de que cortó más de lo que podía freír. ¡Vamos, busquemos a nuestra joven maga y ayudémosla si hace falta!
+TEXT_JOBRDM601_02583_ARYA_000_180	<split(<string(gstr1)>, ,1)>...? Lo logré... Gané...
+TEXT_JOBRDM601_02583_XRHUNTIA_000_190	¡<split(<string(gstr1)>, ,1)>, ahí estás! ¿Arya está bien?
+TEXT_JOBRDM601_02583_XRHUNTIA_000_191	Vaya, ese es un buen montón de goblins. Por lo que se ve, derrotar a todos estos le costó casi todo lo que tenía.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_192	¿Puedes caminar, amiga mía? Nunca te había visto tan...
+TEXT_JOBRDM601_02583_ARYA_000_193	Dénmelas...
+TEXT_JOBRDM601_02583_ARYA_000_194	Su energía vital... Sus almas... ¡Tengo que alimentarme!
+TEXT_JOBRDM601_02583_XRHUNTIA_000_195	Su pelo... ¡Se volvió como Lambard! ¡Detente, Arya!
+TEXT_JOBRDM601_02583_XRHUNTIA_000_196	...No sirve de nada: el hambre la dominó. ¡Vamos a tener que dejarla inconsciente!
+TEXT_JOBRDM601_02583_XRHUNTIA_000_197	Sugiero que la llevemos de vuelta a Idyllshire y la dejemos descansar en el establecimiento de Rowena. Solo espero que esté más dispuesta a conversar cuando despierte...
+TEXT_JOBRDM601_02583_XRHUNTIA_000_210	Aceptaron prestarnos un lugar donde Arya pueda recuperarse. No me gusta mucho deberle favores al consorcio de Rowena, ¡pero hay días en que un mal trato es lo mejor que se puede conseguir!
+TEXT_JOBRDM601_02583_XRHUNTIA_000_211	Como ves, nuestra compañera recuperó el sentido. Quizás sea mejor que hables tú con ella.
+TEXT_JOBRDM601_02583_ARYA_000_220	¿Qué pasó...? ¿De... de verdad los ataqué?
+TEXT_JOBRDM601_02583_ARYA_000_221	Dioses, ¿por qué haría algo así?
+TEXT_JOBRDM601_02583_ARYA_000_222	Recuerdo haber derrotado esa máquina; recuerdo haber caído de rodillas, agotada de tanto lanzar hechizos.
+TEXT_JOBRDM601_02583_ARYA_000_223	Recuerdo que mis pensamientos se iban apagando mientras un rugido en mi cabeza se hacía cada vez más fuerte. Y después... nada.
+TEXT_JOBRDM601_02583_ARYA_000_224	No entiendo qué se apoderó de mí: yo nunca sacaría la espada contra usted ni contra X'rhun.
+TEXT_JOBRDM601_02583_ARYA_000_230	Lo siento mucho. Otra vez me traiciona la memoria...
+TEXT_JOBRDM601_02583_XRHUNTIA_000_240	Fue un error de juicio de mi parte: no debí ponerte a prueba con tanta dureza. Ahora escúchame con atención, Arya.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_241	Vi cómo te agotan las peleas, pero no entendí la cruda verdad que ese agotamiento anunciaba.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_242	En el momento en que dices que un rugido ahogó tus pensamientos, el color de tu pelo cambió de forma muy notoria. Vimos una transformación parecida en Lambard antes de que empezara a alimentarse de aether vivo.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_243	Lambard podía usar magia de un poder increíble, pero eso lo dejaba hambriento de fuerza vital. Creo que lo que te pasó fue que te rendiste a esa misma hambre.
+TEXT_JOBRDM601_02583_ARYA_000_244	No puede ser...
+TEXT_JOBRDM601_02583_XRHUNTIA_000_245	Mi antiguo colega contó cómo provocó un cambio en su propio cuerpo. Supongo que es posible que hayan hecho un ritual así contigo también, pero él mencionó que el proceso tomaba muchos años...
+TEXT_JOBRDM601_02583_XRHUNTIA_000_246	Seguro que tienes muchas más preguntas, pero por ahora tienes que descansar. Si esta hambre se apodera de ti cuando se te agota el aether, es todavía más importante que te recuperes de tus esfuerzos.
+TEXT_JOBRDM601_02583_XRHUNTIA_100_246	Y, ¿Arya? No te desesperes pensando que te perdiste a ti misma. Después de todo, ahora estás en pleno control, ¿no?
+TEXT_JOBRDM601_02583_ARYA_000_247	Sí. Gracias, X'rhun.
+TEXT_JOBRDM601_02583_XRHUNTIA_000_248	<split(<string(gstr1)>, ,1)>, vamos a buscar la cura para la condición de Arya. Aunque sé poco de esas artes prohibidas, confío en que una expedición decidida nos dará las respuestas que necesitamos. Prepárate para otro viaje.
+TEXT_JOBRDM601_02583_SYSTEM_000_900	La siguiente misión de red mage estará disponible con X'rhun Tia al llegar al nivel 63.
+TEXT_JOBRDM601_02583_SYSTEM_000_901	Puedes revisar en el journal los requisitos para empezar las siguientes misiones.

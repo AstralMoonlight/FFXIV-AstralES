@@ -1,0 +1,127 @@
+key	text
+TEXT_JOBRDM700_02587_SEQ_00	X'rhun busca la sabiduría de los taumaturgos.
+TEXT_JOBRDM700_02587_SEQ_01	X'rhun te cuenta que intentó investigar por su cuenta la posesión de los voidsent, pero admite que el tema escapa a lo que sabe. Como el Thaumaturges' Guild conocerá mucho mejor las prácticas y la historia de la antigua Mhach, tu mentor te pide que lo acompañes al Arrzaneth Ossuary, en Ul'dah.
+TEXT_JOBRDM700_02587_SEQ_02	Acompañas a X'rhun mientras le explica a la prelada Yayake la situación de Arya, y la taumaturga del monóculo acepta consultar algunos de los libros prohibidos del gremio. Después de estudiar lo que encuentra, Yayake te da no solo el lugar del ritual de Lilith, sino también una pista para sobrevivir al enfrentamiento que viene: una buena provisión de antídotos. Después, X'rhun sale a contactar a Jessie para conseguir una aeronave que los lleve a la ciudad en ruinas en medio de los pantanos intransitables de Yafaem. Habla con él cuando vuelva.
+TEXT_JOBRDM700_02587_SEQ_03	X'rhun te cuenta que Jessie está más que feliz de darles transporte después de la ayuda desinteresada de Arya en ese "asunto del asesinato". Viaja a Revenant's Toll y habla con la vicepresidenta de la Ironworks.
+TEXT_JOBRDM700_02587_SEQ_04	Te reúnes con Jessie en Revenant's Toll, y parece que la propia vicepresidenta tomará el timón del barco rumbo a Mhach. El plan es sencillo: atravesar las ruinas, encontrar a Lilith y arrancar a Arya de las garras muertas de la reina voidsent. Con la orden tajante de Yayake, "CONSIGAN ANTÍDOTOS", resonando en tu mente, te preparas para el combate y partes a reunirte con Jessie en la orilla norte de Silvertear Lake.
+TEXT_JOBRDM700_02587_SEQ_05	Tras una batalla decisiva con Lilith, lograste matar a la ondulante voidsent y detener su ritual impío. Escolta a Arya fuera de las ruinas y vuelve a Mor Dhona.
+TEXT_JOBRDM700_02587_SEQ_06	Arya quedó libre del abrazo corrupto de Lilith, con la sangre limpia y el alma ilesa. Una vez más, tus compañeros y tú demostraron que el corazón y el acero de un red mage pueden vencer al más tiránico de los enemigos. Habla con X'rhun a orillas de Silvertear Lake.
+TEXT_JOBRDM700_02587_SEQ_07	Tus compañeros quieren expresarle su gratitud a Jessie, pero la vicepresidenta le resta importancia a su ayuda: solo estaba saldando cuentas. Jessie se despide, y tú sigues a tus compañeros de vuelta a Revenant's Toll.
+TEXT_JOBRDM700_02587_SEQ_08	X'rhun elogia tu crecimiento extraordinario como red mage y declara que ya terminaste sus lecciones. Por otro lado, como Arya se liberó de la influencia de Lilith y perdió su poder, tendrá que volver a aprender las artes arcanas desde lo más básico. Hasta que esté lista para vestir otra vez el rojo, el Crimson Duelist piensa colgar su manto de mentor y volver a su peregrinaje. Pero, en vez de lamentar la separación, X'rhun parece seguro de que los caminos de quienes desafían las mareas del destino volverán a cruzarse algún día...<br><br>※La siguiente misión de red mage estará disponible con Arya cuando cumplas los siguientes requisitos:<br>※Haber completado la misión de la historia principal "Shadowbringers".<br>※Haber completado la role quest "A Tearful Reunion".
+TEXT_JOBRDM700_02587_TODO_00	Habla con X'rhun en el Thaumaturges' Guild.
+TEXT_JOBRDM700_02587_TODO_01	Habla con X'rhun Tia.
+TEXT_JOBRDM700_02587_TODO_02	Habla con Jessie en Revenant's Toll.
+TEXT_JOBRDM700_02587_TODO_03	Habla con Jessie.
+TEXT_JOBRDM700_02587_TODO_04	Habla con Jessie.
+TEXT_JOBRDM700_02587_TODO_05	Habla con X'rhun Tia.
+TEXT_JOBRDM700_02587_TODO_06	Habla con X'rhun Tia.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_000	<split(<string(gstr1)>, ,1)>, decidí que deberíamos ir al Thaumaturges' Guild de Ul'dah... para que nos ayuden a encontrar a Arya, claro.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_001	Estuve investigando sobre los voidsent y las posesiones, y, como sospechaba, el proceso no es sencillo.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_002	Aun así, dudo que tengamos tiempo para que yo me vuelva un experto en el tema. Necesitamos uno ya.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_003	Los taumaturgos son de las pocas organizaciones que conocen bien a nuestra presa. Y como además son los herederos modernos del saber arcano de Mhach, puede que en sus estantes haya hasta saberes antiguos que nos digan más sobre Lilith. ¡En marcha!
+TEXT_JOBRDM700_02587_YAYAKE_000_020	Una situación de lo más urgente y aterradora, sin duda...
+TEXT_JOBRDM700_02587_XRHUNTIA_000_030	Ah, <split(<string(gstr1)>, ,1)>, justo le estaba explicando nuestros pesares a la prelada Yayake.
+TEXT_JOBRDM700_02587_YAYAKE_000_040	Vaya, vaya, cuando X'rhun habló de otro colega, ¡no esperaba encontrarme con nuestra propia encarnación de la devastación!
+TEXT_JOBRDM700_02587_YAYAKE_000_045	Vaya, vaya, cuando X'rhun habló de otro colega, ¡no esperaba encontrarme con un<if(gnum4,a,o)> de nuestros propios taumaturgos!
+TEXT_JOBRDM700_02587_YAYAKE_000_050	Bienvenid<if(gnum4,a,o)> al Thaumaturges' Guild. Haré lo que pueda para ayudarlos.
+TEXT_JOBRDM700_02587_YAYAKE_000_060	Bien, entonces. Los libros con pasajes sobre la voidsent Lilith son todos obras ocultistas prohibidas: volúmenes aborrecibles encadenados a los estantes de nuestros archivos más profundos, para que nunca más vean la luz del día. Voy un momento allá atrás a buscar uno o dos.
+TEXT_JOBRDM700_02587_YAYAKE_000_061	Si pudieran esperar allá un momento...
+TEXT_JOBRDM700_02587_YAYAKE_000_070	...Por Thal, es todavía más siniestra de lo que imaginaba. Como no se la menciona en el último milenio, creía que Lilith había sido destruida, ¡pero parece que está muy viva y es sumamente peligrosa!
+TEXT_JOBRDM700_02587_YAYAKE_000_071	Su faceta más temible es el poder de esclavizar la voluntad de una persona. ¡Si contamos a todos los que tienen aunque sea un susurro de su esencia en las venas, se metió en la mente de un verdadero ejército!
+TEXT_JOBRDM700_02587_YAYAKE_000_072	...El sello que usaba ese tal Lambard es una manifestación de segunda mano del poder de Lilith. Solo tenía que untar una herramienta con su sangre corrupta y después grabar el nombre de ella en la carne de sus víctimas para crear los títeres sin mente que describen.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_073	¿Y eso era apenas un eco débil de su verdadero poder?
+TEXT_JOBRDM700_02587_YAYAKE_000_074	Correcto. Un poder que no dudará en usar contra los mortales a los que tanto desprecia. El archimago Calowise se encargó de asegurarse de eso cuando la atrajo a su trampa.
+TEXT_JOBRDM700_02587_YAYAKE_000_075	Además de su talento para drenar la fuerza vital de sus presas, Lilith también es conocida por escupir veneno. Una rival verdaderamente horrenda...
+TEXT_JOBRDM700_02587_YAYAKE_000_076	Pero el archimago fue preparado con antídotos potentes. Vencida por la traición de su invocador y por los límites de su huésped mortal, Lilith se vio despojada de su querida vara y sellada dentro de un sarcófago de Mhach.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_077	Y desde entonces pasó los siguientes mil años tramando su fuga...
+TEXT_JOBRDM700_02587_YAYAKE_100_077	Así es. Pero la simple libertad no es su objetivo final. Por encima de todo, me imagino que Lilith desea una forma que le permita manifestar la totalidad de su terrible poder.
+TEXT_JOBRDM700_02587_YAYAKE_000_078	Quiere volver a instalar su alma en el recipiente perfecto, y así multiplicar la fuerza de su encarnación.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_079	El recipiente perfecto... Lilith orquestó con cuidado la concepción de Arya a lo largo de siglos. Si no la enfrentamos ahora, no quiero ni pensar el caos que una criatura tan astuta y poderosa podría desatar sobre Eorzea.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_080	Miren lo que ya logró. Sus manipulaciones fueron tan sutiles que ni uno solo de los Nightkin se dio cuenta de su plan ni intentó destruirla...
+TEXT_JOBRDM700_02587_XRHUNTIA_100_080	Bueno, todo esto fue muy esclarecedor, pero seguimos sin acercarnos a encontrar a Arya. ¿Se le ocurre algo?
+TEXT_JOBRDM700_02587_YAYAKE_000_081	Para instalarse en un nuevo huésped, Lilith tendrá que recrear lo más fielmente posible las condiciones de su invocación original: la alineación de las estrellas, el clima, el lugar, esas cosas.
+TEXT_JOBRDM700_02587_YAYAKE_000_082	El lugar se lo puedo decir. Suponiendo que el suelo mismo no se haya hundido en un abismo, Lilith habrá llevado a su amiga a un círculo de invocación en la ciudad en ruinas de Mhach.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_085	...¿Así que estuviste en The Weeping City? Sin una aeronave y alguien que la pilotee no hay forma de llegar, ¿eh?
+TEXT_JOBRDM700_02587_XRHUNTIA_000_090	...¿The Weeping City no está en los pantanos de Yafaem? Sin una aeronave y alguien que la pilotee no hay forma de llegar, ¿eh?
+TEXT_JOBRDM700_02587_XRHUNTIA_000_095	¡Ah, pero no se preocupen! Conocemos justo a la persona que puede ayudarnos con eso: ¡la vicepresidenta Jessie, de Garlond Ironworks!
+TEXT_JOBRDM700_02587_XRHUNTIA_000_096	Voy a contactarla de inmediato.
+TEXT_JOBRDM700_02587_YAYAKE_000_100	Ya devolví esas obras ocultistas a sus estantes seguros. No queremos que algún aprendiz ambicioso invoque señores del vacío o haga llover plagas de ranas venenosas, ¿verdad?
+TEXT_JOBRDM700_02587_XRHUNTIA_000_110	Ya hablé con Jessie. Después de ese "asunto del asesinato", como ella lo llama, estuvo más que feliz de prestarnos un barco de la compañía.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_111	¡Prelada Yayake, fue de una ayuda inmensa! ¿Cómo podemos pagárselo?
+TEXT_JOBRDM700_02587_YAYAKE_000_112	No hace falta: un comerciante ya le pagó generosamente al gremio. Pidió que ayudáramos a cualquier "mago del rojo" que viniera a buscar nuestro saber.
+TEXT_JOBRDM700_02587_YAYAKE_000_113	¿Conocen a un tal señor Wilkin? Parece que estuvo repartiendo su fortuna por Ul'dah con mucha generosidad para asegurarse de que no se encontraran con negativas ni inconvenientes.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_114	Vaya, vaya. ¡La gratitud de un comerciante rico es algo muy bueno de tener! Bien, es hora de partir a Revenant's Toll. Jessie nos estará esperando.
+TEXT_JOBRDM700_02587_YAYAKE_000_115	¡No olviden CONSEGUIR ANTÍDOTOS! Me llevaría una desilusión terrible si me entero de que murieron por el veneno de Lilith después de todo lo que les conté.
+TEXT_JOBRDM700_02587_YAYAKE_000_130	¡No vayan corriendo sin prepararse! Me imagino que aquí mismo, en Ul'dah, pueden comprar antídotos.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_135	Parece que Jessie está decidida a pilotar la nave ella misma. Al parecer, la aeronave está amarrada por Silvertear Lake.
+TEXT_JOBRDM700_02587_JESSIE_000_140	X'rhun me contó la historia, y tengo una aeronave lista para volar.
+TEXT_JOBRDM700_02587_JESSIE_000_141	Yo misma los voy a llevar al pantano. ¡Dije que le devolvería el favor a Arya, y no me echo atrás en mis promesas!
+TEXT_JOBRDM700_02587_JESSIE_000_142	¿Vamos? Estoy amarrada en la orilla norte del lago.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_143	<split(<string(gstr1)>, ,1)>, el plan es sencillo: atravesamos las ruinas lo más rápido que podamos y le armamos un infierno a la reina voidsent.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_144	El resultado de esta pelea decidirá el destino de Arya. Trae todo lo que tengas... ¡y asegúrate de que eso incluya un frasco o dos de antídoto!
+TEXT_JOBRDM700_02587_XRHUNTIA_000_150	¡Lilith y The Weeping City nos esperan! ...No quiero sonar como una niñera pesada, pero trajiste un antídoto, ¿verdad?
+TEXT_JOBRDM700_02587_XRHUNTIA_000_151	La propia Jessie tomará el timón, ¡así que habla con ella cuando estés list<if(gnum4,a,o)> para partir!
+TEXT_JOBRDM700_02587_JESSIE_000_180	¿Listos, entonces? ¿Tienen su equipo? ¿Fueron al baño? Vamos directo a las ruinas de Mhach.
+TEXT_JOBRDM700_02587_JESSIE_000_200	Todos a bordo, gente. No sé mucho de esa bruja demoníaca, ¡pero ustedes devuélvanla al vacío! Quiero ver a Arya sana y salva.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_201	Lilith solo tiene una oportunidad para este ritual. Pero en cuanto sepa que estamos ahí para detenerla, puede que empiece la ceremonia de todos modos, al diablo con las condiciones.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_202	Si eso pasa, <italic(1)>tenemos<italic(0)> que vencer a la criatura antes de que meta su alma a la fuerza en el cuerpo de Arya. ¡Vamos a triunfar sobre Lilith y a liberar a nuestra compañera de su maldición!
+TEXT_JOBRDM700_02587_XRHUNTIA_000_300	¡Arya! ¡Lilith está muerta! ¡Vuelve con nosotros!<br>...Maldición, ¿¡por qué no despierta!?
+TEXT_JOBRDM700_02587_ARYA_000_301	Ugh... ¿Dónde estoy? ¿Dónde están todos?
+TEXT_JOBRDM700_02587_ARYA_000_302	Ah, ya entiendo. Esto es... mi propia mente. Ese demonio me está haciendo a un lado...
+TEXT_JOBRDM700_02587_LILITH_000_303	(-???-)Ssssí... Aceptad vuestro destino, niña. Mi propia forma fue destruida, pero mi alma halló refugio en vuestro cuerpo...
+TEXT_JOBRDM700_02587_LILITH_000_304	(-???-)Cuando vuestra voluntad se haya reducido al olvido, mi esencia transformará este cascarón. ¡Me alzaré de nuevo, gloriosa y completa! ¡Y entonces me vengaré de todos los hijos del hombre!
+TEXT_JOBRDM700_02587_LILITH_000_305	Je, je, je... No intentéis desafiarme, mi amada creación. Rendíos al vacío... Rendíos a mí...
+TEXT_JOBRDM700_02587_ARYA_000_306	Lilith me creó...
+TEXT_JOBRDM700_02587_ARYA_000_307	Tengo que aceptar este destino: es lo que siempre estuve destinada a ser.
+TEXT_JOBRDM700_02587_ARYA_000_308	Perdóneme, <split(<string(gstr1)>, ,1)>. Había tantos recuerdos más que esperaba crear.
+TEXT_JOBRDM700_02587_ARYA_000_309	...Adiós.
+TEXT_JOBRDM700_02587_ARYA_000_310	No... ¡esto no puede ser todo! ¡Quiero más! ¡Quiero vivir!
+TEXT_JOBRDM700_02587_LILITH_000_310	¡No os torturéis, niña! Vuestra voluntad está perdida. ¡Vuestro destino está sellado!
+TEXT_JOBRDM700_02587_ARYA_000_311	...¡Yo decido mi propio destino!
+TEXT_JOBRDM700_02587_XRHUNTIA_000_312	¡Arya! ¡Bienvenida de vuelta, amiga mía!
+TEXT_JOBRDM700_02587_ARYA_000_313	¿X'rhun? ¿<split(<string(gstr1)>, ,1)>? ¡Cuidado! ¡Lilith sigue aquí!
+TEXT_JOBRDM700_02587_XRHUNTIA_000_314	...Tu alma ya está a salvo. Lilith se fue: al final la venciste.
+TEXT_JOBRDM700_02587_ARYA_000_315	¡Una oportunidad que no habría tenido si ustedes no la hubieran destruido en carne y hueso!
+TEXT_JOBRDM700_02587_XRHUNTIA_000_316	Con un corazón firme y el poder de la magia roja, no hay enemigo que no podamos vencer.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_317	...¡Como ustedes dos lo demostraron de sobra!
+TEXT_JOBRDM700_02587_XRHUNTIA_000_318	Ahora, dejemos atrás estas ruinas lúgubres. Pero tengan cuidado con lo que los rodea: en esta vieja ciudad no solo viven voidsent siniestros.
+TEXT_JOBRDM700_02587_ARYA_000_360	Le doy las gracias, <split(<string(gstr1)>, ,1)>. ¡Sin usted no estaría aquí ahora!
+TEXT_JOBRDM700_02587_JESSIE_000_370	Al salir me dejé llevar por el momento, pero preferiría no volver a pilotar un barco cerca de ese lugar...
+TEXT_JOBRDM700_02587_XRHUNTIA_000_390	¡Lo logramos, <split(<string(gstr1)>, ,1)>! Fue una pelea difícil, ¡pero tu corazón y tu acero se llevaron la victoria!
+TEXT_JOBRDM700_02587_XRHUNTIA_000_391	¡Y tenemos que agradecerle a Jessie por habernos llevado a las ruinas!
+TEXT_JOBRDM700_02587_JESSIE_000_392	No, solo estaba devolviendo el favor. A diferencia de ciertos presidentes que podría mencionar, no me gusta dejar cuentas pendientes.
+TEXT_JOBRDM700_02587_JESSIE_000_393	Ahora mejor llevo a esta chica de vuelta a los muelles de la compañía, así que aquí me despido.
+TEXT_JOBRDM700_02587_ARYA_000_394	¡Cuídese, Jessie, y gracias!<br>¿Volvemos al pueblo, entonces?
+TEXT_JOBRDM700_02587_JESSIE_000_400	¿Hm? No te voy a llevar volando al Toll, floj<if(gnum4,a,o)> sinvergüenza. ¡Vas a tener que caminar!
+TEXT_JOBRDM700_02587_ARYA_000_410	¿Cuándo fue la última vez que estuvimos en Revenant's Toll? Parece que hubiera pasado toda una vida...
+TEXT_JOBRDM700_02587_XRHUNTIA_000_420	Ah, no hay nada como un rescate exitoso para sacarme una sonrisa. Es maravilloso tener de vuelta a nuestra compañera, sana y salva.
+TEXT_JOBRDM700_02587_ARYA_000_421	¡Es maravilloso estar de vuelta! ¡Ya quiero empezar a entrenar otra vez!
+TEXT_JOBRDM700_02587_XRHUNTIA_000_422	Arya... Sobre tu entrenamiento. Seguro que sentiste el cambio dentro de ti, ¿no?
+TEXT_JOBRDM700_02587_XRHUNTIA_000_423	Tu inclinación por los hechizos venía de la sangre de Lilith. Ahora que su corrupción desapareció de tus venas, también desapareció tu aptitud para lo arcano.
+TEXT_JOBRDM700_02587_ARYA_000_424	Sí, siento la diferencia. Mi aether está tan débil ahora que dudo que pueda lanzar ni la magia más simple.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_425	Me preguntaba cómo te tomarías la noticia, pero pareces casi... ¿feliz?
+TEXT_JOBRDM700_02587_ARYA_000_426	¡Lo estoy! Así puedo estudiar magia desde cero, ¡y saber que todos mis logros serán de verdad míos!
+TEXT_JOBRDM700_02587_ARYA_000_427	Claro que esto quiere decir que voy a tener mucho más trabajo antes de poder alcanzar a <split(<string(gstr1)>, ,1)>...
+TEXT_JOBRDM700_02587_ARYA_000_428	Pero tener una meta tan lejana es lo que me va a empujar a aguantar el entrenamiento que viene.
+TEXT_JOBRDM700_02587_Q1_000_440	¿Qué vas a decir?
+TEXT_JOBRDM700_02587_A1_000_441	¡Te estaré esperando!
+TEXT_JOBRDM700_02587_A1_000_442	No te exijas demasiado.
+TEXT_JOBRDM700_02587_ARYA_000_450	¡Algún día voy a llegar!
+TEXT_JOBRDM700_02587_ARYA_000_460	¡Prometo que no me voy a meter en peligro! ¡Al menos no hasta dominar un poco más de magia!
+TEXT_JOBRDM700_02587_XRHUNTIA_000_470	Tienes el corazón de una red mage, eso es seguro.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_471	Empieza por lo básico de la taumaturgia y la conjuración. Una base que construyas tú misma será mucho más estable que el poder instintivo que tenías antes. Y cuando domines los fundamentos, puedo volver a entrenarte en la magia roja.
+TEXT_JOBRDM700_02587_ARYA_000_472	¡Espero con ansias ese día, X'rhun!
+TEXT_JOBRDM700_02587_XRHUNTIA_000_473	En cuanto a ti, <split(<string(gstr1)>, ,1)>, te volviste más fuerte que nunca.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_474	Ya sabes desde hace tiempo que la magia de un red mage se alimenta del aether de quien la lanza. La potencia de <italic(1)>tus<italic(0)> hechizos es un reflejo de tu espíritu indomable.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_475	Y me atrevo a decir que el soul crystal que llevas premiará tu dedicación al arte dándote nuevos conocimientos.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_476	Así termina, por ahora, mi etapa de mentor. <split(<string(gstr1)>, ,1)>, ya terminaste mis lecciones, y tú, Arya, ¡tienes que prepararte para empezar todo de nuevo!
+TEXT_JOBRDM700_02587_XRHUNTIA_000_480	Te lanzaste a las cenizas humeantes de la revolución y volviste a encender los fuegos de la gloria de Ala Mhigo. Recuerda la luz que trajiste con esa liberación la próxima vez que te adentres en la oscuridad.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_490	Te lanzaste a las cenizas humeantes de la revolución, y por todo Ala Mhigo empezaron a arder nuevos fuegos. Contigo a la cabeza, no tengo dudas de que mi patria pronto se bañará en la luz de la liberación.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_500	Las cenizas de la revolución llevan mucho tiempo humeando en Ala Mhigo, pero el humo ya se siente pesado en el viento. Es hora de que los de la vieja guardia nos hagamos a un lado y dejemos que ustedes, los de esta generación, elijan el camino de nuestro futuro.
+TEXT_JOBRDM700_02587_ARYA_000_510	X'rhun... Habla como si pensara dejarnos.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_511	Así es, tengo que volver a mi peregrinaje. ¡Pero no teman! Los que desafían las mareas del destino siempre terminan encontrándose... tarde o temprano.
+TEXT_JOBRDM700_02587_XRHUNTIA_000_512	Así que esto no es una despedida: solo una separación temporal de caminos. ¡Espero con ansias el día en que nuestros caminos vuelvan a cruzarse, amigos!
+TEXT_JOBRDM700_02587_SYSTEM_000_500	Aquí terminan las misiones de red mage de FINAL FANTASY XIV: Stormblood. Para emprender la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:
+TEXT_JOBRDM700_02587_SYSTEM_000_501	※Haber completado la misión de la historia principal "Shadowbringers".
+TEXT_JOBRDM700_02587_SYSTEM_000_502	※Haber completado la role quest "A Tearful Reunion".
+TEXT_JOBRDM700_02587_SYSTEM_000_503	Cuando lo hayas hecho, la siguiente misión de red mage estará disponible con Arya.

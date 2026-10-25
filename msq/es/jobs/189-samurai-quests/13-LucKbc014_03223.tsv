@@ -1,0 +1,87 @@
+key	text
+TEXT_LUCKBC014_03223_SEQ_00	Parece que Makoto se prepara para un viaje.
+TEXT_LUCKBC014_03223_SEQ_01	Makoto te cuenta que está por partir a Eorzea a visitar la tumba de Musosai. Como cree que tu llegada es una feliz coincidencia, te invita a acompañarla, y aceptas con gusto. Al llegar a Ul'dah, dice que primero quiere pasar a ver a tu amigo presentador, Momozigo, en the Quicksand.
+TEXT_LUCKBC014_03223_SEQ_02	Makoto y tú llegan a the Quicksand, pero Momozigo no está. Por ahora deciden seguir hasta the Silver Bazaar, donde descansa Musosai.
+TEXT_LUCKBC014_03223_SEQ_03	En the Silver Bazaar, Makoto no puede evitar fijarse en que hay gente vestida de samurai. Aunque es curioso, por ahora lo dejas de lado y sigues hasta la tumba de Musosai.
+TEXT_LUCKBC014_03223_SEQ_04	Arrodillada ante la tumba de Musosai, Makoto le cuenta de su victoria sobre Ugetsu y sus insurgentes. Apenas termina su informe, se arma un alboroto cerca, y ella corre por instinto a ver qué pasa. Al alcanzarla, te encuentras con un Roegadyn de cara conocida. El hombre la emprende contra los que se visten de samurai, diciendo que manchan la memoria de Musosai. Pero apenas te ve, huye como si le fuera la vida en ello. Intrigada porque los conoce a ti y a Musosai, Makoto decide perseguirlo, y tú vas pisándole los talones rumbo al muelle.
+TEXT_LUCKBC014_03223_SEQ_05	Makoto y tú no tardan en acorralar al misterioso hombre, que resulta ser nada menos que Ostyrgrein, el guardaespaldas al que venciste una vez en la cubierta de un barco. Dice que desde entonces se reformó y que, como quiere convertirse en un verdadero samurai, visita la tumba de Musosai todos los días. Pero hace poco alguien empezó a contar la historia de cómo Musosai recorrió el país enderezando entuertos, y the Silver Bazaar se convirtió en una especie de atracción turística. Eso provocó su arrebato de antes, que a su vez los llevó a ustedes hasta él. Ostyrgrein te ruega entonces que lo tomes como alumno, pero no estás muy dispuest<if(gnum4,a,o)>. Al ver su determinación, Makoto lo invita a ir a Kugane a entrenarse, y él acepta encantado. Pero antes de partir al Lejano Oriente, Makoto sugiere volver una vez más a the Quicksand, donde cree que encontrarán otra cara conocida contando una historia conocida.
+TEXT_LUCKBC014_03223_SEQ_06	Como sospechaba Makoto, el narrador que anda difundiendo la historia de las hazañas de Musosai es nada menos que Momozigo, y empieza otra función poco después de que llegas. Escuchas con atención mientras narra con dramatismo tu viaje con tu antiguo maestro, y sus palabras le devuelven una vida intensa a tus recuerdos de aquel tiempo. Después le cuentas tus aventuras recientes en the First, para que las sume a su repertorio. Tras despedirse de Makoto y de Ostyrgrein, Momozigo te anima a seguir luchando por lo justo, para que el legado de Musosai viva no solo en ti, sino también en otros.
+TEXT_LUCKBC014_03223_TODO_00	Habla con Makoto en Ul'dah.
+TEXT_LUCKBC014_03223_TODO_01	Habla con Makoto en the Silver Bazaar.
+TEXT_LUCKBC014_03223_TODO_02	Habla con Makoto.
+TEXT_LUCKBC014_03223_TODO_03	Habla con el tipo conocido.
+TEXT_LUCKBC014_03223_TODO_04	Habla con Makoto en Ul'dah.
+TEXT_LUCKBC014_03223_MAKOTO_000_000	¡<split(<string(gstr1)>, ,1)>, qué amable de su parte venir a verme, y justo ahora!
+TEXT_LUCKBC014_03223_MAKOTO_000_001	Verá, estoy por partir a Eorzea a visitar la tumba del maestro Musosai, para contarle de nuestra victoria sobre Ugetsu.
+TEXT_LUCKBC014_03223_MAKOTO_000_002	Que haya venido a verme en este momento es una feliz coincidencia. ¿Me haría el honor de acompañarme en este viaje?
+TEXT_LUCKBC014_03223_MAKOTO_000_003	Gracias, amig<if(gnum4,a,o)>. Y por si se lo pregunta, no me olvidé de Momozigo. También quisiera visitarlo. Al llegar, vayamos primero a the Quicksand.
+TEXT_LUCKBC014_03223_MAKOTO_000_010	Me temo que Momozigo no está. Según la gente de aquí, está preparando otro espectáculo.
+TEXT_LUCKBC014_03223_MAKOTO_000_011	Aunque me intriga lo que tiene preparado, no deberíamos hacer esperar al maestro Musosai. Vayamos primero a su tumba.
+TEXT_LUCKBC014_03223_MAKOTO_000_012	Si no recuerdo mal, el lugar era the Silver Bazaar. Vamos, pongámonos en camino.
+TEXT_LUCKBC014_03223_MAKOTO_000_020	El pueblo está mucho más animado de lo que recordaba... y además hay gente vestida de samurai. Qué curioso.
+TEXT_LUCKBC014_03223_MAKOTO_000_021	Pero vamos, el maestro Musosai nos espera.
+TEXT_LUCKBC014_03223_MAKOTO_000_030	Lo logramos, maestro Musosai.
+TEXT_LUCKBC014_03223_MAKOTO_000_031	Con <split(<string(gstr1)>, ,1)> a nuestro lado, derrotamos a Ugetsu y pusimos fin a su locura.
+TEXT_LUCKBC014_03223_MAKOTO_000_032	Y sus enseñanzas, su legado, siguen vivos en el Sekiseigumi. Así que, por favor, descanse en paz.
+TEXT_LUCKBC014_03223_MAKOTO_000_033	Listo. Gracias por acompañarme.
+TEXT_LUCKBC014_03223_OSTYRGREIN_000_034	(-???-)¡Argh! ¡No voy a tolerar esta farsa!
+TEXT_LUCKBC014_03223_MAKOTO_000_035	Eso suena a problemas. Vamos a ver qué pasa.
+TEXT_LUCKBC014_03223_OSTYRGREIN_000_036	(-Tipo conocido-)¡Vestirse de samurai no los hace samurai! ¡Desgraciados, manchan la memoria del maestro Musosai!
+TEXT_LUCKBC014_03223_OSTYRGREIN_000_037	(-Tipo conocido-)¡Por los cojones de Thal, eres... eres tú! ¡Uwaaaaaah!
+TEXT_LUCKBC014_03223_MAKOTO_000_038	Ese hombre los conoce a usted y al maestro Musosai. Quisiera saber quién es.
+TEXT_LUCKBC014_03223_MAKOTO_000_039	Lo tenemos, <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKBC014_03223_OSTYRGREIN_000_040	(-Tipo conocido-)¡P-perdóname! ¡Ya aprendí la lección! ¡Desde que me diste una paliza en el barco, me reformé!
+TEXT_LUCKBC014_03223_Q1_000_000	¿Qué vas a decir?
+TEXT_LUCKBC014_03223_A1_000_001	¡Eres aquel falso samurai!
+TEXT_LUCKBC014_03223_A1_000_002	¡Ostyrgrein!
+TEXT_LUCKBC014_03223_OSTYRGREIN_000_041	(-Ostyrgrein-)S-sí, soy Ostyrgrein. El guardaespaldas de un asesino en serie que creyó que podía contigo.
+TEXT_LUCKBC014_03223_OSTYRGREIN_000_042	(-Ostyrgrein-)Pero ya no le vendo mi espada a ningún maleante. Ahora llevo una vida honrada, vendiendo aceite de sapo.
+TEXT_LUCKBC014_03223_MAKOTO_000_043	Me parece que el mal que había en este hombre fue extirpado.
+TEXT_LUCKBC014_03223_MAKOTO_000_044	No tiene nada que temer de <split(<string(gstr1)>, ,1)>. Por favor, cálmese y cuéntenos la causa de su arrebato de antes.
+TEXT_LUCKBC014_03223_OSTYRGREIN_000_045	(-Ostyrgrein-)Verán, después de ver lo que puede hacer un samurai de verdad, supe que yo también quería serlo. Así que busqué al maestro Musosai, con la esperanza de que me tomara como alumno...
+TEXT_LUCKBC014_03223_OSTYRGREIN_000_046	(-Ostyrgrein-)...Y me enteré de que ya había muerto. Desde entonces visito su tumba todos los días para inspirarme.
+TEXT_LUCKBC014_03223_OSTYRGREIN_000_047	(-Ostyrgrein-)Pero hace poco alguien se puso a contar en the Quicksand la historia de cómo el maestro Musosai recorrió el país enderezando entuertos. Por eso, la gente empezó a vestirse de samurai y a ir en manada a su tumba como si fuera un maldito espectáculo. ¡Pero son falsos, todos ellos! ¡Más falsos de lo que yo fui nunca!
+TEXT_LUCKBC014_03223_MAKOTO_000_048	Tuve el honor de conocer al maestro Musosai. Y el maestro Musosai que yo conocí se alegraría de que su historia inspirara a otros a seguir sus pasos.
+TEXT_LUCKBC014_03223_MAKOTO_000_049	Y aunque era un hombre solitario, no rechazaba la compañía de los demás. No creo que le molesten las multitudes.
+TEXT_LUCKBC014_03223_OSTYRGREIN_000_050	(-Ostyrgrein-)¿En serio? Bueno, supongo que usted sabrá mejor que yo... ¡Ah! ¡Pero claro!
+TEXT_LUCKBC014_03223_OSTYRGREIN_000_051	(-Ostyrgrein-)Puede que el maestro Musosai ya no esté, ¡pero tú fuiste su alumn<if(gnum4,a,o)>! ¡Te lo ruego, enséñame a ser un samurai de verdad como tú!
+TEXT_LUCKBC014_03223_Q2_000_000	¿Qué vas a decir?
+TEXT_LUCKBC014_03223_A2_000_001	No tengo tiempo.
+TEXT_LUCKBC014_03223_A2_000_002	...
+TEXT_LUCKBC014_03223_MAKOTO_000_052	<split(<string(gstr1)>, ,1)> tiene muchas ocupaciones y no está en condiciones de tomar alumnos. Pero si está decidido a aprender, lo invito a venir a Kugane. Puedo presentarle algunas escuelas de esgrima.
+TEXT_LUCKBC014_03223_OSTYRGREIN_000_053	(-Ostyrgrein-)¿Q-quiere decir que puedo entrenarme en el Lejano Oriente? ¿Donde empezó todo? ¡No hay nada que me guste más! ¡Sería un sueño hecho realidad!
+TEXT_LUCKBC014_03223_MAKOTO_000_054	Muy bien. Un viaje largo es mejor acompañado. Volvamos juntos a Kugane.
+TEXT_LUCKBC014_03223_MAKOTO_000_055	Aunque me pregunto, ese alguien que anda contando la historia de la misión del maestro Musosai... Me parece que solo puede ser una persona.
+TEXT_LUCKBC014_03223_MAKOTO_000_056	Sería una lástima venir hasta aquí y no ver a nuestro amigo. Intentemos visitar de nuevo the Quicksand.
+TEXT_LUCKBC014_03223_OSTYRGREIN_000_058	Me da vergüenza decirlo, pero en realidad no sé mucho del maestro Musosai. A mí también me interesaría oír esa historia.
+TEXT_LUCKBC014_03223_MAKOTO_000_060	Como sospechaba, nuestro narrador es Momozigo. Y por suerte está por empezar otra función.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_090	Acérquense todos, damas y caballeros, y escuchen mi relato...
+TEXT_LUCKBC014_03223_MOMOZIGO_000_091	Un relato que empezó con un encuentro inesperado entre <if(gnum4,una joven aventurera,un joven aventurero)> y un anciano samurai venido del Lejano Oriente.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_092	Ese samurai, llamado Musosai, aceptaba desafíos en las arenas sangrientas. Muchos respondieron a su llamado, pero ninguno tuvo respuesta para su esgrima sublime. Por un tiempo pareció que nadie lo vencería...
+TEXT_LUCKBC014_03223_MOMOZIGO_000_093	Pero llegó <if(gnum4,una aventurera,un aventurero)> sin pretensiones. Empuñando la katana, un arma extranjera que nunca antes había tomado, ¡luchó con corazón y destreza y se alzó con la victoria!
+TEXT_LUCKBC014_03223_MOMOZIGO_000_094	Después de recorrer juntos el reino derrotando al mal, jamás <if(gnum4,la aventurera,el aventurero)> habría imaginado que, en su prueba final, tendría que derrotar al propio Musosai.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_095	Sin otra salida, desenvainó la katana y se enfrentó a su amigo y maestro.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_096	Se desató una batalla agotadora, en la que ninguno cedía ni un ilm. <if(gnum4,La aventurera,El aventurero)> dio todo de sí, pero Musosai le respondía golpe por golpe, desatando una técnica mortal tras otra, sin mostrar señal alguna de la enfermedad que le devastaba el cuerpo.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_097	Pero al final de un duelo entre iguales, fue <if(gnum4,la samurai más joven,el samurai más joven)> quien asestó el golpe final y se alzó con la victoria. Su maestro l<if(gnum4,a,o)> había entrenado bien.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_098	Tendido en la nieve, maltrecho y ensangrentado, Musosai le exigió a su alumn<if(gnum4,a,o)> que terminara el trabajo. Cerrando los ojos con fuerza, <if(gnum4,la aventurera,el aventurero)> alzó la katana...
+TEXT_LUCKBC014_03223_MOMOZIGO_000_099	¡FIUUU! ¡La hoja trazó un arco feroz!
+TEXT_LUCKBC014_03223_MOMOZIGO_000_100	...Y cortó el aire vacío. <if(gnum4,La aventurera,El aventurero)> había extirpado el mal que había en Musosai, como el propio Musosai había hecho con quienes todavía podían redimirse.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_101	Así fue como el anciano samurai encontró la paz en su último momento. Dicen que su alma descansa ahora en lo alto del acantilado junto a the Silver Bazaar, desde donde contempla la puesta de sol.
+TEXT_LUCKBC014_03223_MOMOZIGO_100_101	Y en algún lugar, <if(gnum4,la joven aventurera,el joven aventurero)> sigue el legado de su noble maestro, luchando por la justicia y derrotando al mal dondequiera que esté.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_102	Así termina mi relato: la Leyenda de Musosai. Gracias a todos por su amable atención.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_110	¿Sabes? Es más difícil hacer esto con ustedes de público... pero me alegra verlos a todos, hasta al señor Samurai Falso.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_111	Seguro te preguntas cómo encontré mi nueva vocación. Bueno, en mi viaje a Kugane tuve la oportunidad de oír a un narrador en el Mujikoza. Supe de inmediato que esto era lo que quería hacer: para esto estaba hecha mi lengua de plata.
+TEXT_LUCKBC014_03223_MAKOTO_000_112	Fue un relato magistral y sentido. Le ruego que siga compartiendo la historia del maestro Musosai con todo el mundo.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_113	¡Cuente con eso! Aunque, claro, si quiero ser un narrador que se respete, voy a necesitar algo de variedad en mi repertorio.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_114	<split(<string(gstr1)>, ,1)>, sigues por ahí con tus aventuras, ¿no? ¿No tienes historias nuevas que contar que puedan dar para un buen relato?
+TEXT_LUCKBC014_03223_Q3_000_000	¿De qué le vas a hablar?
+TEXT_LUCKBC014_03223_A3_000_001	De la lucha por salvar the First.
+TEXT_LUCKBC014_03223_A3_000_002	De la cacería de Andreia.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_115	Por los Doce... ¿Tu misión de enderezar entuertos te llevó al otro lado de la grieta, a otro mundo? La realidad de verdad supera a la ficción...
+TEXT_LUCKBC014_03223_MOMOZIGO_000_116	¡Gracias, <split(<string(gstr1)>, ,1)>! ¡Esto será una espléndida adición a mis relatos!
+TEXT_LUCKBC014_03223_MAKOTO_000_117	Me temo que ya es hora de buscar nuestro barco. Aunque fue breve, me alegro de este reencuentro.
+TEXT_LUCKBC014_03223_OSTYRGREIN_000_118	¡Voy a entrenar duro en Hingashi, y voy a volver hecho un samurai de verdad! ¡Ya verás!
+TEXT_LUCKBC014_03223_MAKOTO_000_119	Si sus viajes l<if(gnum4,a,o)> vuelven a llevar a Kugane, por favor, búsqueme en el cuartel. Hasta la próxima...
+TEXT_LUCKBC014_03223_MOMOZIGO_000_120	Pensar que ese farsante cambiaría y trataría de convertirse en un samurai de verdad... El viejo estará contento.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_121	Eso demuestra que el legado de Musosai de verdad vive en ti, <split(<string(gstr1)>, ,1)>. Y echa raíces hasta en el corazón de aquellos a quienes rebanaste.
+TEXT_LUCKBC014_03223_MOMOZIGO_000_122	Así que sigue luchando por lo justo, amig<if(gnum4,a,o)>. ¡Y acuérdate de visitarme de vez en cuando para contarme más historias!

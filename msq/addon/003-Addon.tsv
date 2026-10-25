@@ -282,6 +282,6 @@ TEXT_ADDON_1987	Elige el nivel necesario<br>y presiona el botón Buscar.
 TEXT_ADDON_1988	Elige la clase y el nivel necesario<br>y presiona el botón Buscar.
 TEXT_ADDON_1989	Presiona el botón Buscar.
 TEXT_ADDON_1990	Filtro de materia desactivado
-TEXT_ADDON_1991	<head(<if(lnum1,<if([lnum1<=10],<switch(lnum1,una,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)>)> <if([lnum1==1],materia engarzada,materias engarzadas)>
+TEXT_ADDON_1991	<head(<if(lnum1,<if([lnum1<=10],<switch(lnum1,una,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)>)> <if([lnum1==1],materia insertada,materias insertadas)>
 TEXT_ADDON_1997	Espera e intenta buscar de nuevo.
 TEXT_ADDON_1999	Housing

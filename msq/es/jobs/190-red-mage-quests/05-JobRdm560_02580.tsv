@@ -1,0 +1,142 @@
+key	text
+TEXT_JOBRDM560_02580_SEQ_00	X'rhun Tia tiene una propuesta para ayudar a curar la pérdida de memoria de Arya.
+TEXT_JOBRDM560_02580_SEQ_01	Mientras X'rhun investiga los orígenes de Arya con los Yellowjackets, te pide que intentes despertar la memoria de la muchacha. Habla con Arya y convéncela de salir a dar un paseo contigo.
+TEXT_JOBRDM560_02580_SEQ_02	Arya despertó descansada, pero sigue sin recuerdos. Parece estar de acuerdo con la idea de un paseo, y menciona que quiere ver el paisaje desde lo alto de la muralla del puerto. Reúnete con Arya en las almenas.
+TEXT_JOBRDM560_02580_SEQ_03	Tus intentos de devolverle la memoria a Arya hacen que recuerde algo desagradable que les pasó a ella y a su tío. Vuelve a la posada y cuéntale a X'rhun lo que descubrió.
+TEXT_JOBRDM560_02580_SEQ_04	Arya logra recordar la muerte de su tío, pero el resto de sus recuerdos sigue oculto tras una niebla impenetrable. Pero cuando X'rhun se pregunta adónde habrá ido el barco del grupo, Arya recuerda de pronto que los asesinos hablaban de reunirse con su misterioso amo. Prepárate para un enfrentamiento y reúnete con X'rhun y Arya en las Isles of Umbra.<br><br>※Se puede llegar a las Isles of Umbra después de aceptar (o haber completado) la misión del escenario principal "The Reluctant Researcher".
+TEXT_JOBRDM560_02580_SEQ_05	Llegas a las Isles of Umbra, y X'rhun confirma que los asesinos callados están ahí. Muertos y magos mudos entorpecen tu búsqueda, y todavía no encuentras al amo del grupo. Habla con X'rhun Tia en el Ship's Graveyard.
+TEXT_JOBRDM560_02580_SEQ_06	Después de varias peleas con los implacables secuaces del grupo, al fin te encuentras con el titiritero en persona: un hombre llamado Lambard. Parece que el villano conoce a X'rhun, pero la intervención inesperada de Arya interrumpe lo que prometía ser un reencuentro violento. Vuelve a Aleport y escucha la historia de X'rhun.
+TEXT_JOBRDM560_02580_SEQ_07	X'rhun te cuenta cómo se fundaron los Crimson Duelists y cómo la traición de Lambard echó por tierra sus esfuerzos por derrocar a un tirano. Ahora X'rhun quiere vengarse del traidor que asesinó a sus compañeros, pero no espera que lo acompañes en lo que se volvió una venganza personal. Acércate al Duelist, que te espera, y dile que piensas recorrer este viaje hasta el final.
+TEXT_JOBRDM560_02580_SEQ_08	X'rhun te acepta con gusto como compañer<if(gnum4,a,o)> de armas, pero se sorprende cuando Arya dice que ella también quiere ayudar a vencer al amo del grupo. Convencido por su valor y su determinación, decide recibir a la decidida joven en las filas de los red mages. Ahora los tres deben prepararse para enfrentar al traicionero Lambard.<br><br>※La siguiente misión de red mage estará disponible con X'rhun Tia al llegar al nivel 58.
+TEXT_JOBRDM560_02580_TODO_00	Habla con Arya.
+TEXT_JOBRDM560_02580_TODO_01	Habla con Arya.
+TEXT_JOBRDM560_02580_TODO_02	Reúnete con X'rhun Tia.
+TEXT_JOBRDM560_02580_TODO_03	Reúnete con X'rhun Tia en las Isles of Umbra.
+TEXT_JOBRDM560_02580_TODO_04	Habla con X'rhun Tia.
+TEXT_JOBRDM560_02580_TODO_05	Reúnete con X'rhun Tia en Aleport.
+TEXT_JOBRDM560_02580_TODO_06	Habla con X'rhun Tia.
+TEXT_JOBRDM560_02580_SYSTEM_000_000	Arya duerme plácidamente...
+TEXT_JOBRDM560_02580_XRHUNTIA_000_030	Hablé con Arya, pero parece que todavía no recupera la memoria. El incienso que usaron debió ser muy potente para dejar una niebla tan duradera...
+TEXT_JOBRDM560_02580_XRHUNTIA_000_031	Si no puede recuperarse sola, tendremos que confiar en algún paisaje o suceso conocido que le sacuda los sentidos y los devuelva a la normalidad. ¿Te puedo pedir que la saques a algún lado para probar mi teoría? ¡Después de todo, contigo parece mucho más cómoda!
+TEXT_JOBRDM560_02580_XRHUNTIA_000_032	Por lo menos quisiera saber de dónde viene. Voy a recurrir otra vez a mi conocido de los Yellowjackets: seguro que tiene una familia que la está buscando.
+TEXT_JOBRDM560_02580_ARYA_000_060	¡<split(<string(gstr1)>, ,1)>! ¡Gracias otra vez por sacarme de esa caja!
+TEXT_JOBRDM560_02580_ARYA_000_061	Dormí de maravilla. Ese cansancio horrible se me pasó, pero todavía no logro recordar nada...
+TEXT_JOBRDM560_02580_ARYA_000_062	...¿Afuera? Bueno, sí, supongo que un poco de brisa fresca me ayudaría a despejar las telarañas.
+TEXT_JOBRDM560_02580_ARYA_000_063	Creo que me gustaría ver el paisaje desde las almenas. ¿Me acompaña allá arriba, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBRDM560_02580_ARYA_000_090	¡Mire! ¿¡No es precioso!? Nunca vi nada... tan...
+TEXT_JOBRDM560_02580_ARYA_000_091	...¿De verdad es la primera vez que veo este paisaje? Trato de recordar, pero mi mente es una página en blanco. No puedo estar segura de nada...
+TEXT_JOBRDM560_02580_Q1_000_100	¿Qué vas a decir?
+TEXT_JOBRDM560_02580_A1_000_101	Vamos a crearte nuevos recuerdos.
+TEXT_JOBRDM560_02580_A1_000_102	A mí también se me olvidan esas cosas.
+TEXT_JOBRDM560_02580_ARYA_000_110	...¿Crear nuevos recuerdos?
+TEXT_JOBRDM560_02580_ARYA_000_111	¡Oh, no lo había pensado así! Es casi como un regalo, ¿no? ¡Poder disfrutar las cosas como si fueran nuevas!
+TEXT_JOBRDM560_02580_ARYA_000_120	<split(<string(gstr1)>, ,1)>, ¿¡usted también perdió la memoria!? O... no... Solo quiere decir que es olvidadiz<if(gnum4,a,o)>, ¿verdad?
+TEXT_JOBRDM560_02580_ARYA_000_121	Le agradezco que intente animarme, de verdad. Prefiero mil veces reír a lamentarme por lo que perdí...
+TEXT_JOBRDM560_02580_ARYA_000_130	Creo que me quedaré aquí arriba un rato más, para asegurarme de recordarlo mañana...<br>¡Oh, mire ese barco! ¿Cómo hacen para que cosas tan enormes floten?
+TEXT_JOBRDM560_02580_Q2_000_131	¿Qué vas a decir?
+TEXT_JOBRDM560_02580_A2_000_131	Te gustan los barcos, ¿eh?
+TEXT_JOBRDM560_02580_A2_000_132	Te gustan los lugares altos, ¿eh?
+TEXT_JOBRDM560_02580_ARYA_000_140	Yo... ¡Pues sí, me gustan! Creo que siempre me gustaron. ¡Qué pregunta tan perspicaz!
+TEXT_JOBRDM560_02580_ARYA_000_141	Recuerdo que, cuando era niña, siempre le rogaba a mi tío que...<br>¡Oh! ¡Me acuerdo! Tenía un tío...
+TEXT_JOBRDM560_02580_ARYA_000_150	¿Los lugares altos? No, no en especial. ¿Por qué? ¿¡Cree que me gusta mirar a los demás desde arriba!?
+TEXT_JOBRDM560_02580_ARYA_000_151	Aunque sí me gusta mirar los barcos. Recuerdo que, cuando era niña, siempre le rogaba a mi tío que...<br>¡Oh! ¡Me acuerdo! Tenía un tío...
+TEXT_JOBRDM560_02580_ARYA_000_152	Era mi única familia. Él... él trató de protegerme, pero...
+TEXT_JOBRDM560_02580_ARYA_000_153	...Perdóneme. Lo que pasó exactamente todavía es un revoltijo, pero no era un recuerdo agradable.
+TEXT_JOBRDM560_02580_ARYA_000_154	Ese día... todo me está volviendo de golpe. ¿Le parece que volvamos a la posada? Necesito un momento.
+TEXT_JOBRDM560_02580_ARYA_000_180	Parece que X'rhun ya volvió de su encargo. Si quieren escucharme, les contaré lo que recordé hasta ahora...
+TEXT_JOBRDM560_02580_XRHUNTIA_000_210	Los Yellowjackets lograron desenterrar un informe sobre Arya en sus registros, y volví corriendo a contarles la noticia. Pero como ya recordó lo que pasó, prefiero oír la historia de la fuente, por así decirlo.
+TEXT_JOBRDM560_02580_ARYA_000_240	Por lo que recuerdo, siempre viví con mi tío. Era un hombre amable y bondadoso, que muchas veces me contaba historias de mis padres. Yo era pequeña cuando murieron... demasiado pequeña para recordarlos, creo.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_241	...El informe decía que eran ciudadanos de Limsa Lominsa. ¿Recuerdas dónde estaban cuando los atacaron?
+TEXT_JOBRDM560_02580_ARYA_000_242	Sí, íbamos de camino a... algún lugar. Los atacantes aparecieron como de la nada, y mi tío se puso delante para protegerme. Lo mataron.
+TEXT_JOBRDM560_02580_ARYA_000_243	Lo que pasó después es borroso, pero el recuerdo de ese momento lo tengo clarísimo.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_244	...Gracias, Arya. No tienes que obligarte a recordar el resto. Por ahora, tenemos que preocuparnos por tu futuro.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_245	No sería caritativo mandarte de vuelta a la ciudad sola, y menos con buena parte de tu memoria todavía perdida.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_246	Pero tampoco podemos pedirte que nos acompañes. Nuestro viaje nos lleva a enfrentar al mismo grupo de cuyas garras malvadas acabas de escapar.
+TEXT_JOBRDM560_02580_ARYA_000_247	¡Aun así, iría con ustedes!
+TEXT_JOBRDM560_02580_ARYA_000_248	Me salvaron la vida y me ayudaron a aceptar la pérdida de mi pasado. ¡Si hay una posibilidad de que mis recuerdos vuelvan y los lleven hasta esos villanos, quiero quedarme a su lado!
+TEXT_JOBRDM560_02580_XRHUNTIA_000_249	...¿Cómo negarme ante tanta pasión? Parece que adoptamos a una nueva compañera, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_250	Pero el mayor desafío que tenemos ahora es decidir nuestro próximo destino. El barco mercante huyó, y no sabemos hacia dónde va...
+TEXT_JOBRDM560_02580_ARYA_000_251	...Isles of Umbra.
+TEXT_JOBRDM560_02580_ARYA_000_252	Lo recuerdo. Fueron las únicas palabras que les oí decir antes de desmayarme. "Isles of Umbra. El amo llama..."
+TEXT_JOBRDM560_02580_XRHUNTIA_000_253	Estos títeres no hablan por hablar; no, no pueden.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_254	¡Prepárate, <split(<string(gstr1)>, ,1)>! Cruzamos a las Isles of Umbra para enfrentar a ese "amo" suyo. ¡Tú también, Arya! ¡Peleamos juntos!
+TEXT_JOBRDM560_02580_SYSTEM_000_255	Se puede llegar a las Isles of Umbra después de aceptar (o haber completado) la misión del escenario principal "The Reluctant Researcher".
+TEXT_JOBRDM560_02580_ARYA_000_260	X'rhun me prestó un arma para defenderme, pero... ¿tenemos que pelear contra esas luces fantasmales?
+TEXT_JOBRDM560_02580_XRHUNTIA_000_270	Los soldados del Maelstrom hablan de un flujo constante de recién llegados callados: parece que el amo reúne a todas sus marionetas en las islas. Le di a Arya las armas que tenía, pero...
+TEXT_JOBRDM560_02580_ARYA_000_271	...¡P-p-puedo p-pelear!
+TEXT_JOBRDM560_02580_XRHUNTIA_000_272	¿Pelear? ¡Si apenas puedes hablar, muchacha! Creí que les tenía miedo a los magos que se la llevaron, pero no: es la idea de fantasmas y espectros lo que la tiene temblando.
+TEXT_JOBRDM560_02580_ARYA_000_273	¿¡Y-y me lo pueden reprochar!? Hasta el suelo de aquí parece embrujado... como si en cualquier momento fueran a s-salir espíritus furiosos...
+TEXT_JOBRDM560_02580_XRHUNTIA_000_274	¿Como esa cosa oscura que tienes detrás?
+TEXT_JOBRDM560_02580_ARYA_000_275	¡A-aaaah!
+TEXT_JOBRDM560_02580_XRHUNTIA_000_276	No hay nada ahí, muchacha. ¿Ahora sí podemos seguir? ¿O prefieres volver a Aleport?
+TEXT_JOBRDM560_02580_ARYA_000_277	¡V-voy con ustedes!
+TEXT_JOBRDM560_02580_QIB_001_TODO_01	¡Encuentra el campamento del grupo!
+TEXT_JOBRDM560_02580_QIB_001_TODO_02	¡Derrota a los no muertos!
+TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_01	Sabemos que el grupo se reunió aquí. ¡Solo tenemos que encontrarlos!
+TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_02	¡No tenemos nada que hacer con los muertos! ¡Vamos!
+TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_08	Los caídos están inquietos hoy...<br>Alguien los azuzó contra nosotros.
+TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_03	¡Los encontramos!
+TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_09	Quieren retrasarnos. ¿Por qué se contienen?
+TEXT_JOBRDM560_02580_QIB_THAUMATURGE02580_BATTLETALK_01	¡Levántate, aparecido del inframundo! ¡Aliméntate de mi esencia y devora sus almas!
+TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_04	¡Otro ritual de sacrificio! ¡Quédate atrás, Arya, este enemigo te supera!
+TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_05	¡Es más fuerte contra un enemigo solo! ¡Tenemos que enfrentarlo lado a lado, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_06	Saca su poder de sus secuaces. ¡Yo entretengo a la sombra; tú destruye a los espíritus menores!
+TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_07	¡Así se hace! ¡Ahora terminemos con esto!
+TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_DEAD	Y así termina mi historia...
+TEXT_JOBRDM560_02580_ARYA_000_280	¡Usted y X'rhun pelean tan bien juntos! Ojalá hubiera podido ayudar...
+TEXT_JOBRDM560_02580_XRHUNTIA_000_290	La mano que controla a estos asesinos no puede estar lejos. Separémonos para buscar, ¿te parece? ¡Grita si te metes en problemas!
+TEXT_JOBRDM560_02580_LAMBARD_000_300	(-???-)...Delicioso.
+TEXT_JOBRDM560_02580_LAMBARD_000_301	(-???-)Tu cuerpo mortal rebosa de energía vital. Un festín irresistible...
+TEXT_JOBRDM560_02580_XRHUNTIA_000_302	¡<split(<string(gstr1)>, ,1)>! ¿Estás bien?
+TEXT_JOBRDM560_02580_XRHUNTIA_000_303	...¿¡Lambard!?
+TEXT_JOBRDM560_02580_LAMBARD_000_304	Un placer verlo, X'rhun. Vaya, cómo le marcaron los años la frente.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_305	Este desgraciado sonriente es Lambard. Alguna vez fuimos aliados...
+TEXT_JOBRDM560_02580_LAMBARD_000_306	Ah, sí, los valientes Crimson Duelists. Qué buenos recuerdos. Disfruté mucho masacrándolos.
+TEXT_JOBRDM560_02580_XRHUNTIA_100_306	Los Duelists siguen vivos en mí, traidor.
+TEXT_JOBRDM560_02580_LAMBARD_110_306	No por mucho tiempo, mi viejo amigo...
+TEXT_JOBRDM560_02580_LAMBARD_000_307	¡Pronto correrá la misma suerte que ellos!
+TEXT_JOBRDM560_02580_ARYA_000_308	¡<split(<string(gstr1)>, ,1)>!
+TEXT_JOBRDM560_02580_LAMBARD_000_309	Qué interrupciones tan groseras. No es así como quiero saborear su derrota...
+TEXT_JOBRDM560_02580_XRHUNTIA_000_310	¡Lambard! Maldito seas...
+TEXT_JOBRDM560_02580_ARYA_000_330	...¿Conocía a ese hombre?
+TEXT_JOBRDM560_02580_XRHUNTIA_000_331	Sí, sí, ya hablaremos de eso. ¡Primero quiero saber dónde aprendiste a lanzar hechizos así!
+TEXT_JOBRDM560_02580_ARYA_000_332	Yo... No recuerdo que nadie me haya enseñado. Simplemente pasó.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_333	¿¡"Simplemente pasó"!? Yo esperaba que golpearas cosas con ese cetro viejo, no que lanzaras bolas de fuego. Increíble...
+TEXT_JOBRDM560_02580_XRHUNTIA_000_334	...Entonces, Arya, ¿quiere decir que superaste tu miedo a los no muertos?
+TEXT_JOBRDM560_02580_ARYA_000_335	¿Qué está di...? ¡Aaah!
+TEXT_JOBRDM560_02580_XRHUNTIA_000_336	Bueno, amigos, ¿volvemos a Aleport? Ahora que desenmascaramos al amo del grupo, les puedo decir esto: no es un hombre al que queramos enfrentar sin estar preparados.
+TEXT_JOBRDM560_02580_ARYA_000_360	X'rhun quiere hablarnos del amo del grupo. Casi me da miedo oír lo que tiene que decir...
+TEXT_JOBRDM560_02580_XRHUNTIA_000_420	Como quedó claro en nuestro desagradable encuentro, tengo una historia con este amo de los asesinos. Se llama Lambard.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_421	Hace veinte años, él y yo formamos parte del grupo que fundó los Crimson Duelists. Estudiamos las enseñanzas olvidadas que pasaron de generación en generación entre la gente de Gyr Abania, y revivimos el arte de la magia roja como arma contra la tiranía.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_422	...Pero un día Lambard simplemente perdió la cabeza. Asesinó a mis compañeros, que no sospechaban nada, y desapareció en las sombras. Yo volví de explorar solo y me encontré con lo que quedaba de una masacre...
+TEXT_JOBRDM560_02580_XRHUNTIA_000_423	Más tarde supe que habían pagado su traición con monedas imperiales, pero nunca pude averiguar qué fue de él. Después de veinte años de búsqueda inútil, lo creía muerto.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_424	Ahora esto se volvió una cuestión de venganza. Pienso perseguir a Lambard y cobrarle su traición, pero no les voy a pedir que me acompañen en esta venganza.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_425	No te preocupes, <split(<string(gstr1)>, ,1)>. Lo que sabes de magia roja te permitirá crecer sin necesidad de un maestro.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_426	En cuanto a ti, Arya, te conseguiré un refugio adecuado. ¡No te voy a dejar a tu suerte!
+TEXT_JOBRDM560_02580_XRHUNTIA_000_427	Voy a atesorar el tiempo que pasamos juntos, amigos. ¡Que nuestros caminos vuelvan a cruzarse!
+TEXT_JOBRDM560_02580_ARYA_000_428	¿Deberíamos dejar que se vaya solo así? No sé usted, pero yo siento que mi parte en esto no terminó...
+TEXT_JOBRDM560_02580_ARYA_000_450	¿Qué hacemos, <split(<string(gstr1)>, ,1)>...?
+TEXT_JOBRDM560_02580_XRHUNTIA_000_480	¿Sí, <split(<string(gstr1)>, ,1)>? ¿Había algo más?
+TEXT_JOBRDM560_02580_Q3_000_481	¿Qué vas a decir?
+TEXT_JOBRDM560_02580_A3_100_481	Voy contigo.
+TEXT_JOBRDM560_02580_A3_200_481	Todavía tengo cosas que aprender.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_481	Esta no es tu batalla, amig<if(gnum4,a,o)>. Me encargaré de Lambard solo, o moriré en el intento.
+TEXT_JOBRDM560_02580_XRHUNTIA_100_481	Tú... \<suspiro><br>Veo que estoy gastando saliva. Tienes esa mirada decidida que tanto me impresionó la primera vez que nos vimos.
+TEXT_JOBRDM560_02580_XRHUNTIA_200_481	Siempre las hay, pero ya avanzaste lo suficiente en el camino como para seguir sin mí. ¿Eso lo entiendes, verdad?
+TEXT_JOBRDM560_02580_XRHUNTIA_210_481	Tú... \<suspiro><br>Veo que estás decidid<if(gnum4,a,o)> a superarte. Es obvio por qué Alisaie hablaba tan bien de ti.
+TEXT_JOBRDM560_02580_XRHUNTIA_220_481	Tú... \<suspiro><br>Veo que estás decidid<if(gnum4,a,o)> a superarte. Es la razón por la que te volviste <if(gnum4,la gran maga,el gran mago)> que eres hoy.
+TEXT_JOBRDM560_02580_XRHUNTIA_300_481	Muy bien. ¡Entonces vamos juntos!
+TEXT_JOBRDM560_02580_XRHUNTIA_310_481	Ahora eres más mi compañer<if(gnum4,a,o)> que mi alumn<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>, ¡y recibo con gusto tu espada a mi lado!
+TEXT_JOBRDM560_02580_ARYA_000_482	¡Yo también voy!
+TEXT_JOBRDM560_02580_ARYA_000_483	Quiero ayudar a salvar a otros de ese monstruo, igual que ustedes me salvaron a mí. Quiero... ¡quiero que me enseñen magia roja!
+TEXT_JOBRDM560_02580_ARYA_000_484	Tal como están las cosas, solo soy una carga para ustedes. Si voy a hacer algo más que dejarme llevar por ustedes, ¡necesito mi propia forma de cambiar las cosas!
+TEXT_JOBRDM560_02580_XRHUNTIA_000_485	Hmmm. Sin duda tienes aptitud para lo arcano. Parece que Lambard busca a jóvenes así para "reclutarlos" en su grupo de títeres.
+TEXT_JOBRDM560_02580_XRHUNTIA_000_486	Pero <split(<string(gstr1)>, ,1)> te rescató de ese destino sin mente, y ahora quieres vestir el rojo para pelear en nuestra cruzada...
+TEXT_JOBRDM560_02580_XRHUNTIA_000_487	Tiene algo de justo, ¿no?
+TEXT_JOBRDM560_02580_XRHUNTIA_100_487	Entonces quédate con nosotros, Arya. Únete a las filas de los red mages.
+TEXT_JOBRDM560_02580_ARYA_000_488	<split(<string(gstr1)>, ,1)>, X'rhun...
+TEXT_JOBRDM560_02580_XRHUNTIA_000_489	Te ves espléndida. ¡Pero hace falta más que la ropa para hacer a una mujer!
+TEXT_JOBRDM560_02580_XRHUNTIA_000_490	Ayúdame a entrenarla como te entrené a ti, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBRDM560_02580_ARYA_000_491	¡Voy a prestar mucha atención, lo prometo!
+TEXT_JOBRDM560_02580_XRHUNTIA_000_492	Ah, ¿y Arya? Se acabó lo de esconderte detrás de <split(<string(gstr1)>, ,1)>, ¿está claro?
+TEXT_JOBRDM560_02580_ARYA_000_493	Yo... ¡Voy a tratar de ser valiente!

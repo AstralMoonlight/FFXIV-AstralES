@@ -23,7 +23,7 @@ public static partial class Spanish
         add("Camera Mode", "Modo de cámara");
         add("Looking for Repairs", "Busca reparaciones");
         add("Looking to Repair", "Ofrece reparaciones");
-        add("Looking to Meld Materia", "Ofrece engarzar materia");
+        add("Looking to Meld Materia", "Ofrece insertar materia");
         add("Role-playing", "Haciendo rol");
         add("Looking for Party", "Busca grupo");
         add("Sword for Hire", "Espada de alquiler");

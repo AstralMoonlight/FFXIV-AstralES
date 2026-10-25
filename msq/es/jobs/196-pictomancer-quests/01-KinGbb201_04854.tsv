@@ -1,0 +1,101 @@
+key	text
+TEXT_KINGBB201_04854_SEQ_00	El Oidor afligido ya no sabe qué hacer.<br><br>※Esta misión desbloquea el job pictomancer.
+TEXT_KINGBB201_04854_SEQ_01	En Old Gridania te encuentras con un Oidor que se alivia al ver que no vienes a presentar una queja, como tantos antes que tú. Al parecer, un moogle travieso anda molestando a los aventureros en la plaza del aetheryte para arrastrarlos a una especie de "empresa pictórica". El Oidor te aconseja evitar a ese moogle... a menos que tengas inclinaciones artísticas.
+TEXT_KINGBB201_04854_SEQ_02	No cuesta encontrar al moogle que tanto empeño pone en dar a conocer la "pictomancia" a todo el mundo. Cuando le dices que te interesa, se presenta como Kupopo y te cuenta una breve historia de este arte. Pero como solo tiene un soul crystal para compartir, te pide que aceptes una entrevista en el Carline Canopy para evaluar si eres apt<if(gnum4,a,o)> para el puesto.
+TEXT_KINGBB201_04854_SEQ_03	Kupopo queda satisfecho con tus respuestas a su infinidad de preguntas y te considera <if(gnum4,digna heredera,digno heredero)> de su soul crystal. Pero antes de entregártelo, te advierte que el cristal viene con una condición. Kupopo quiere reencontrarse con una amiga perdida y te pide que lo ayudes a buscarla durante tu entrenamiento. Si estás dispuest<if(gnum4,a,o)> a complacerlo, solo tienes que volver a hablarle para confirmar tu compromiso.
+TEXT_KINGBB201_04854_SEQ_04	Tras recibir tu promesa de ayuda, Kupopo te entrega el soul crystal. El moogle te pide que te lo equipes cuando estés list<if(gnum4,a,o)> para empezar tu entrenamiento en serio.
+TEXT_KINGBB201_04854_TODO_00	Busca al moogle entrometido en la plaza del aetheryte de Gridania.
+TEXT_KINGBB201_04854_TODO_01	Habla con Kupopo y asiste a su entrevista.
+TEXT_KINGBB201_04854_TODO_02	Vuelve a hablar con Kupopo.
+TEXT_KINGBB201_04854_CONJURER04854_000_001	Que la Matron me ayude, una queja más hoy y juro que...
+TEXT_KINGBB201_04854_CONJURER04854_000_002	¡Ejem! Disculpe mis desvaríos. Pero, por favor, dígame que no viene a presentar una queja...
+TEXT_KINGBB201_04854_Q1_000_000	¿Qué dices?
+TEXT_KINGBB201_04854_A1_000_001	Para que sepa, mi <if([gnum11<12],<if([gnum11<4],noche,día)>,<if([gnum11<17],día,noche)>)> va de maravilla.
+TEXT_KINGBB201_04854_A1_000_002	No vengo a eso... ¿Pasa algo?
+TEXT_KINGBB201_04854_CONJURER04854_000_004	Bueno, debo advertirle que hay un moogle causando molestias aquí en Gridania.
+TEXT_KINGBB201_04854_CONJURER04854_000_005	La plaga con pompón anda acosando a los aventureros para arrastrarlos a no sé qué empresa pictórica. Aunque nadie muestra interés, se niega a rendirse.
+TEXT_KINGBB201_04854_CONJURER04854_000_006	Usted es de los que se dedican a la aventura, ¿no es así? Si es así, haría bien en mantenerse lejos de ese moogle...
+TEXT_KINGBB201_04854_CONJURER04854_000_007	...a menos que se dedique a la aventura <italic(1)>artística<italic(0)>. Si mi relato despertó su interés, sospecho que sigue merodeando por la plaza del aetheryte.
+TEXT_KINGBB201_04854_CONJURER04854_000_010	\<suspiro> De todos los Oidores, ¿por qué tengo que lidiar yo con esta montaña de quejas...?
+TEXT_KINGBB201_04854_KUPOPO_000_020	(-Moogle entrometido-)¡Eh, tú, kupo! ¿Qué te parecería pintar un poco?
+TEXT_KINGBB201_04854_KUPOPO_000_021	(-Moogle entrometido-)No una pintura cualquiera, eh. ¡Pintura <italic(1)>mágica<italic(0)>, donde tus obras cobran vida! ¡El límite es tu imaginación!
+TEXT_KINGBB201_04854_KUPOPO_000_022	(-Moogle entrometido-)Ay, kupo nuts... ¿Por qué nadie me da una oportunidad? Podrían hacer tanto bien con el poder de la pictomancia.
+TEXT_KINGBB201_04854_Q2_000_000	¿Qué dices?
+TEXT_KINGBB201_04854_A2_000_001	¡Me convenciste con lo de "pintura mágica"!
+TEXT_KINGBB201_04854_A2_000_002	Tal vez me interese saber más sobre la pictomancia.
+TEXT_KINGBB201_04854_KUPOPO_000_024	(-Moogle entrometido-)¿¡Q-Qué dijiste, kupo!?
+TEXT_KINGBB201_04854_KUPOPO_000_025	(-Moogle entrometido-)No me estás tomando el pompón, ¿verdad? ¿Quieres saber más sobre la pictomancia? ¿¡De verdad!?
+TEXT_KINGBB201_04854_KUPOPO_000_026	¡Hurra, hurra! Me llamo Kupopo, ¡y estoy encantadísimo de conocerte, kupo!
+TEXT_KINGBB201_04854_KUPOPO_000_027	¡Soy el heredero del soul crystal de un pictomancer, y busco a alguien creativo que continúe este arte arcano!
+TEXT_KINGBB201_04854_KUPOPO_000_028	¡Toca una lección de historia! Ejem... La pictomancia nació hace unos mil quinientos años, en el ocaso de la Quinta Era Astral.
+TEXT_KINGBB201_04854_KUPOPO_000_029	Las otras escuelas de magia que surgieron en esa época, como la negra y la blanca, son expresiones de la voluntad de quien las lanza, ¡pero la pictomancia se apoya en algo todavía más abstracto: la imaginación!
+TEXT_KINGBB201_04854_KUPOPO_000_030	¡Canalizando aether hacia una idea que tiene en la mente, un pictomancer puede darle forma a lo que no la tiene!
+TEXT_KINGBB201_04854_KUPOPO_000_031	Ya sé que cuesta un poco entenderlo. Y justo por eso la gran Archon Relm, fundadora de la pictomancia, incorporó a nuestro arte las herramientas del pintor.
+TEXT_KINGBB201_04854_KUPOPO_000_032	Relm era una artista talentosa además de maga, así que tomó un pincel en lugar de un bastón y manejó el aether como si fuera pintura para darles forma a sus ideas.
+TEXT_KINGBB201_04854_KUPOPO_000_033	¡Así nació la pictomancia, una disciplina mágica distinta de todas las demás, kupo!
+TEXT_KINGBB201_04854_KUPOPO_000_034	Y Relm tenía un alma generosa: jamás, jamás usó sus poderes para su propio beneficio. ¡Dedicó su vida a ayudar y defender a los necesitados!
+TEXT_KINGBB201_04854_KUPOPO_000_035	Durante la War of the Magi, Relm recorrió el mundo y salvó a incontables personas con su pictomancia, y por esas hazañas se ganó un lugar entre los Twelve Archons.
+TEXT_KINGBB201_04854_KUPOPO_000_036	Entonces, ¿qué dices? ¿Te gustaría recoger el noble legado de la Archon y convertirte, me atrevo a decirlo, en una nueva Relm?
+TEXT_KINGBB201_04854_KUPOPO_000_037	¡Maravilloso, kupo! ¡Tu entusiasmo me llena el corazón!
+TEXT_KINGBB201_04854_KUPOPO_000_038	Pero como solo tengo un soul crystal, debo asegurarme de confiárselo a la persona correcta. Así que, antes de concederte esta deslumbrante oportunidad...
+TEXT_KINGBB201_04854_KUPOPO_000_039	...¡necesito que asistas a una entrevista de trabajo! Búscame en el Carline Canopy, y ven preparad<if(gnum4,a,o)> con tus respuestas más elegantes y pictomantescas para mi ráfaga de preguntas muy profesionales.
+TEXT_KINGBB201_04854_KUPOPO_000_050	¡Ah, ahí estás! Te habría invitado a mi acogedora casita y te habría servido té con galletas...
+TEXT_KINGBB201_04854_KUPOPO_000_051	...pero no tengo una acogedora casita. Ni ningún hogar, a decir verdad. Así es la vida de un moogle errante, kupo.
+TEXT_KINGBB201_04854_KUPOPO_000_052	Tampoco tengo ni un gil, así que no puedo pedirnos té con galletas. ¡Pero lo que <italic(1)>sí<italic(0)> podemos usar es una mesa!
+TEXT_KINGBB201_04854_KUPOPO_000_053	¡Ejem! Por el poder que me fue conferido, declaro abierta esta entrevista, kupo. Empecemos por lo básico: ¿me dices tu nombre completo?
+TEXT_KINGBB201_04854_Q3_000_000	¿Cómo te llamas?
+TEXT_KINGBB201_04854_A3_000_001	Soy <string(gstr1)>.
+TEXT_KINGBB201_04854_A3_000_002	Mi nombre no importa. No soy nadie importante.
+TEXT_KINGBB201_04854_KUPOPO_000_055	¡Qué buen nombre! ¡Mucho gusto, <string(gstr1)>!
+TEXT_KINGBB201_04854_KUPOPO_000_056	¡Ooooh, qué misterio! Me tiembla el pompón de la emoción.
+TEXT_KINGBB201_04854_KUPOPO_000_057	¡Pero era una pregunta trampa, kupo! Ya sé quién eres... ¡<if(gnum4,señorita,señor)> Warrior of Light!
+TEXT_KINGBB201_04854_KUPOPO_100_057	¡Pero era una pregunta trampa, kupo! Ya sé quién eres: ¡<string(gstr1)>, una de las estrellas en ascenso del reino!
+TEXT_KINGBB201_04854_KUPOPO_000_058	Bien, a la siguiente pregunta. ¿Cuál dirías que es tu oficio principal?
+TEXT_KINGBB201_04854_Q4_000_000	¿Cuál es tu oficio principal?
+TEXT_KINGBB201_04854_A4_000_001	Soy aventurer<if(gnum4,a,o)> de pies a cabeza.
+TEXT_KINGBB201_04854_A4_000_002	¡<if(gnum4,Defensora,Defensor)> de los débiles y <if(gnum4,campeona,campeón)> del reino!
+TEXT_KINGBB201_04854_A4_000_003	Estoy, eh... entre un trabajo y otro por ahora...
+TEXT_KINGBB201_04854_KUPOPO_000_060	¡Muy bien, muy bien! Los aventureros tienen fama de serviciales, siempre listos para ayudar a quien lo necesita. ¡Tienes el temperamento ideal para un pictomancer, kupo!
+TEXT_KINGBB201_04854_KUPOPO_000_061	Jojo, decirlo con tanto orgullo... ¡de verdad tienes ganas de ayudar a los demás! ¡Tienes el temperamento ideal para un pictomancer, kupo!
+TEXT_KINGBB201_04854_KUPOPO_000_062	Ay, yo... Perdón si hice una pregunta delicada...
+TEXT_KINGBB201_04854_KUPOPO_000_063	¡Pero arriba ese ánimo! Si pasas mi entrevista, serás pictomancer certificad<if(gnum4,a,o)>, ¡y todo el reino dirá "oooh" y "aaah" al verte!
+TEXT_KINGBB201_04854_KUPOPO_000_064	Y pasando a la siguiente pregunta... ¿Cómo calificarías tus habilidades artísticas?
+TEXT_KINGBB201_04854_Q5_000_000	¿Cómo calificarías tus habilidades artísticas?
+TEXT_KINGBB201_04854_A5_000_001	¡Soy <if(gnum4,una maestra,un maestro)> de las artes!
+TEXT_KINGBB201_04854_A5_000_002	Por encima del promedio, quizás.
+TEXT_KINGBB201_04854_A5_000_003	¿Mis monigotes de palitos no tienen rival...?
+TEXT_KINGBB201_04854_KUPOPO_000_066	¡Excelente, kupo! El recurso más valioso de un pictomancer es una imaginación vívida, ¡pero tener algo de habilidad seguro que no le hace daño!
+TEXT_KINGBB201_04854_KUPOPO_000_067	¡Eso está perfecto, kupo! ¡Porque el recurso más valioso de un pictomancer no es su habilidad artística, sino una imaginación vívida!
+TEXT_KINGBB201_04854_KUPOPO_000_068	Pues a mí los monigotes de palitos me parecen maravillosos, ¡igual que tu sinceridad! Te alegrará saber que la pictomancia depende más de la imaginación que del talento artístico, ¡así que no te preocupes por tu tremenda falta de lo segundo!
+TEXT_KINGBB201_04854_KUPOPO_000_069	Hablando de imaginación, pongamos la tuya a trabajar. Dime lo primero que se te viene a la mente cuando oyes la palabra... ¡"moogle"!
+TEXT_KINGBB201_04854_Q6_000_000	¿Qué piensas cuando oyes la palabra "moogle"?
+TEXT_KINGBB201_04854_A6_000_001	¡Algo esponjoso y divertido!
+TEXT_KINGBB201_04854_A6_000_002	Una ternura irresistible.
+TEXT_KINGBB201_04854_A6_000_003	Bolitas de pelo malditas.
+TEXT_KINGBB201_04854_KUPOPO_000_071	Ah, sí... Desde el pelaje esponjoso hasta los gestos alegres, ¡casi puedo ver al moogle de tu mente revoloteando con encanto por el aire! ¡Tienes una imaginación muy rica, kupo!
+TEXT_KINGBB201_04854_KUPOPO_000_072	Estoy de acuerdo, kupo. Las liebres que viajan por las estrellas y los bagres despreocupados lloran al vernos, ¡cargando con la certeza de que nunca superarán a la más esponjosa y encantadora de las criaturas!
+TEXT_KINGBB201_04854_KUPOPO_000_073	¿¡C-Cómo dices!? Esa respuesta es bastante inquietante... pero supongo que entre el genio y la locura hay una línea muy fina. No le daré más vueltas, kupo.
+TEXT_KINGBB201_04854_KUPOPO_000_074	Ahora, esta pregunta es muy importante: ¡alguien está en problemas! ¿Qué haces?
+TEXT_KINGBB201_04854_Q7_000_000	¿Qué haces cuando alguien está en problemas?
+TEXT_KINGBB201_04854_A7_000_001	¡Ayudarlo sin dudar!
+TEXT_KINGBB201_04854_A7_000_002	Hablarle primero para entender el problema.
+TEXT_KINGBB201_04854_A7_000_003	Preguntar cuál es la recompensa, a ver si vale la pena.
+TEXT_KINGBB201_04854_KUPOPO_000_076	¡No esperaba otra respuesta, kupo! Si me permites una pregunta más: ¿puedes contarme algún ejemplo reciente en el que te hayas acercado a alguien en apuros?
+TEXT_KINGBB201_04854_KUPOPO_000_077	Es un enfoque muy prudente, kupo. Si me permites una pregunta más: ¿puedes contarme algún ejemplo reciente en el que te hayas acercado a alguien en apuros?
+TEXT_KINGBB201_04854_KUPOPO_000_078	¿¡Recompensa!? Bueno... eso quiere decir que considerarías echar una mano, ¿verdad? Sí, sí... Ah, si me permites una pregunta más: ¿podrías contarme algún ejemplo reciente en el que te hayas acercado a alguien en apuros?
+TEXT_KINGBB201_04854_KUPOPO_000_079	...¿Cómo? ¿¡Un Oidor al que le llueven quejas por mis campañas de pictomancia!?
+TEXT_KINGBB201_04854_KUPOPO_000_080	Ay, vaya... Eso es bastante desalentador, kupo. ¡P-Pero esto no se trata de mí! Lo importante es que <italic(1)>tú<italic(0)> no sueles ignorar las penas de los demás.
+TEXT_KINGBB201_04854_KUPOPO_000_081	¡Esa disposición a servir a un propósito mayor y seguir el ejemplo de la Archon Relm es la clave para convertirse en un pictomancer de verdadero talento!
+TEXT_KINGBB201_04854_KUPOPO_000_082	Después de considerar tus respuestas, ¡me emociona anunciarte que pasaste mi entrevista con honores, kupo! Estoy seguro de que llevarás nuestro legado de forma admirable.
+TEXT_KINGBB201_04854_KUPOPO_000_083	Después de considerar tus respuestas, ¡creo que tienes lo necesario para ser <if(gnum4,una pictomancer capaz,un pictomancer capaz)>! Qué alivio haberte encontrado, kupo...
+TEXT_KINGBB201_04854_KUPOPO_000_084	Después de considerar tus respuestas, dejarte ser pictomancer... podría tener consecuencias moderadamente desastrosas. Aun así, tomé peores decisiones en mi vida, y no se puede negar que prometes, así que te daré el beneficio de la duda.
+TEXT_KINGBB201_04854_KUPOPO_000_085	Te considero <if(gnum4,digna,digno)> del soul crystal. Pero debo advertirte que viene con ciertas condiciones, como se suele decir. Y con algo de carga emocional, también.
+TEXT_KINGBB201_04854_KUPOPO_000_086	Verás, hace varias lunas, tuve una pelea terrible con mi mejor amiga. Cada uno siguió su camino, y no la volví a ver desde entonces...
+TEXT_KINGBB201_04854_KUPOPO_000_087	Más que nada en el mundo, quisiera volver a verla e intentar reconciliarnos. Así que, si durante nuestro viaje oímos algo de ella, me gustaría que me echaras una mano.
+TEXT_KINGBB201_04854_KUPOPO_000_088	Si con esta condición sigues queriendo entrenarte como pictomancer, el soul crystal es tuyo. ¡Solo tienes que decirlo, kupo!
+TEXT_KINGBB201_04854_KUPOPO_000_090	Entonces, ¿sigues queriendo ser pictomancer, aceptando mi condición?
+TEXT_KINGBB201_04854_KUPOPO_000_091	¡Entonces, como prometí, te entrego el soul crystal!
+TEXT_KINGBB201_04854_KUPOPO_000_092	¡Y para que empieces con buen pie, te preparé un equipo completo! Ojalá te quede, kupo...
+TEXT_KINGBB201_04854_SYSTEM_000_093	¡Desbloqueaste un nuevo job! Puedes cambiar a este job cuando quieras equipando el arma que recibiste en esta misión.
+TEXT_KINGBB201_04854_SYSTEM_000_094	Al cambiar de job, los <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipo. Así puedes cambiar de job al instante, sin equipar a mano armas ni equipo.
+TEXT_KINGBB201_04854_SYSTEM_000_095	El botón de la interfaz Gear Set está en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)>.

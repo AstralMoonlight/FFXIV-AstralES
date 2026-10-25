@@ -186,16 +186,16 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 | **Melee** | Monk | 30–100 | ![Traducido][ok] |
 | | Dragoon | 30–100 | ![Traducido][ok] |
 | | Ninja | 30–100 | ![Traducido][ok] |
-| | Samurai | 50–63 (9 de 13) | ![En curso][wip] |
+| | Samurai | 50–100 | ![Traducido][ok] |
 | | Reaper | 70–100 | ![Traducido][ok] |
 | | Viper | 80–100 | ![Traducido][ok] |
 | **Ranged** | Bard | 30–100 | ![Traducido][ok] |
 | | Machinist | 30–100 | ![Traducido][ok] |
-| | Dancer | 60–100 | ![Pendiente][no] |
+| | Dancer | 60–100 | ![Traducido][ok] |
 | **Caster** | Black Mage | 30–100 | ![Traducido][ok] |
 | | Summoner | 30–100 | ![Traducido][ok] |
-| | Red Mage | 50–100 | ![Pendiente][no] |
-| | Pictomancer | 80–100 | ![Pendiente][no] |
+| | Red Mage | 50–100 | ![Traducido][ok] |
+| | Pictomancer | 80–100 | ![Traducido][ok] |
 | **Limitado** | Blue Mage | | ![Pendiente][no] |
 | | Beastmaster | | ![Pendiente][no] |
 

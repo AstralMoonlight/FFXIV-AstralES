@@ -1,0 +1,68 @@
+key	text
+TEXT_JOBSAM680_02569_SEQ_00	Makoto tiene noticias sobre el paradero de Ugetsu.
+TEXT_JOBSAM680_02569_SEQ_01	Al registrar a fondo el cuarto de Shiden aparecieron cartas que revelan dónde está la base insurgente en Yanxia. Con su influencia sobre el Sekiseigumi muy debilitada, se cree que Ugetsu esperará su llegada o llevará la pelea a Kugane. Mientras el capitán Kongo defiende el cuartel, les pide a Makoto y a ti que viajen al continente a dar caza al líder insurgente. La primera parada es Namai, una aldea de campesinos en medio de la Gensui Chain.
+TEXT_JOBSAM680_02569_SEQ_02	Al llegar a Namai, Makoto te explica su plan. Mientras ella se adelanta a explorar la ruina que le sirve de escondite a Ugetsu, te pide que recorras la zona en busca de sus cómplices y te encargues de ellos si hace falta.
+TEXT_JOBSAM680_02569_SEQ_03	Mientras revisas un tramo de la Glittering Basin, te topas con un insurgente y lo despachas antes de que pueda dar la alarma. Sin hacer ruido y sin dejarte ver, sigues buscando más enemigos.
+TEXT_JOBSAM680_02569_SEQ_04	Te encuentras con más insurgentes y los silencias rápido. Quizás un punto más, y podrás estar razonablemente segur<if(gnum4,a,o)> de que la zona está despejada.
+TEXT_JOBSAM680_02569_SEQ_05	Aparece otra banda de insurgentes y, como antes, acabas con ellos en un momento. A la tercera va la vencida: partes a reunirte con Makoto.
+TEXT_JOBSAM680_02569_SEQ_06	Ugetsu no está en Yanxia. Justo cuando empiezas a darte cuenta, con el estómago revuelto, uno de sus secuaces confirma tus temores: va camino a Kugane. No hay tiempo que perder; Makoto y tú deben volver de prisa al Sekiseigumi Barracks.
+TEXT_JOBSAM680_02569_SEQ_07	Makoto y tú vuelven al cuartel a tiempo para ver al capitán Kongo enfrentándose a Ugetsu. El duelo termina en un instante y el capitán se desploma, con la vida escapándosele. Con su último aliento nombra a Makoto su sucesora al frente del Sekiseigumi. Pero su autoridad se tambalea de inmediato, cuando Ugetsu revela que ella es en realidad su hermana menor, Kagetsu. El líder insurgente proclama su intención de cambiar Hingashi a sangre y fuego, e invita a los presentes a unirse a su causa, incluid<if(gnum4,a,o)> tú, su <if(gnum4,hermana,hermano)> de escuela. Aunque nadie responde a su llamado, la duda se lee en todos los rostros. Ugetsu propone entonces una batalla entre los dos bandos para decidir el asunto, pero al irse se burla de Makoto diciéndole que quizás le falten aliados. Makoto intenta reunir a sus hombres, pero ahora que se sabe quién es, sus palabras reciben una respuesta tibia. Parece que Ugetsu podría tener razón.
+TEXT_JOBSAM680_02569_SEQ_08	Makoto te lo confiesa todo. Ella y Ugetsu nacieron en una familia samurai de la capital, y desde muy pequeño su hermano mostró un gran talento con la katana. Musosai lo tomó como alumno y juntos salieron de viaje para su entrenamiento. Pero el Ugetsu que volvió era otro hombre, lleno de rabia y desesperanza a la vez, que soñaba con derrocar al bakufu. Todo estalló cuando asesinó a altos dignatarios de Hingashi, un crimen que pagó toda su familia con la vida; toda, salvo la propia Kagetsu, que logró escapar. Después viajó a Kugane, donde adoptó el nombre de Makoto y llamó a las puertas del Sekiseigumi. Desde entonces vive para castigar a su hermano, pero mientras la causa de él se fortalece, la de ella se debilita por la sangre que comparte con Ugetsu. Muerto el capitán, no tiene en qué apoyarse salvo su propia convicción... y tú.<br><br>※La siguiente misión de samurai estará disponible con Makoto al llegar al nivel 70.
+TEXT_JOBSAM680_02569_TODO_00	Reúnete con Makoto en Namai.
+TEXT_JOBSAM680_02569_TODO_01	Revisa el lugar indicado y derrota al enemigo.
+TEXT_JOBSAM680_02569_TODO_02	Revisa el lugar indicado y derrota al enemigo.
+TEXT_JOBSAM680_02569_TODO_03	Revisa el lugar indicado y derrota al enemigo.
+TEXT_JOBSAM680_02569_TODO_04	Vuelve con Makoto.
+TEXT_JOBSAM680_02569_TODO_05	Habla con Makoto.
+TEXT_JOBSAM680_02569_TODO_06	Habla con Makoto.
+TEXT_JOBSAM680_02569_MAKOTO_000_000	¡Grandes noticias, <split(<string(gstr1)>, ,1)>! ¡Descubrimos dónde se esconde Ugetsu!
+TEXT_JOBSAM680_02569_MAKOTO_000_001	El capitán Kongo tiene los detalles. Un momento, por favor.
+TEXT_JOBSAM680_02569_KONGO_000_002	<split(<string(gstr1)>, ,1)>, bienvenid<if(gnum4,a,o)>. Registramos el cuarto de Shiden y entre sus cosas aparecieron nada menos que cartas que le mandaba Ugetsu. Apuntan a cierta ruina en Yanxia.
+TEXT_JOBSAM680_02569_KONGO_000_003	A estas alturas, la noticia de la muerte de Shiden ya le habrá llegado a Ugetsu, y debe suponer que no tardaremos en encontrarlo.
+TEXT_JOBSAM680_02569_KONGO_000_004	Pero no va a huir; no puede. Hacerlo después de perder a su mano derecha le costaría gran parte del impulso que tanto le costó ganar.
+TEXT_JOBSAM680_02569_KONGO_000_005	Tal como lo veo, a Ugetsu le quedan dos opciones: esperar a que vayamos o traernos la pelea. En cualquier caso, hay mucho en juego.
+TEXT_JOBSAM680_02569_KONGO_000_006	Como sabes, Ugetsu es un espadachín sin igual. Solo tú, que venciste a Shiden, y quizás yo tendríamos alguna posibilidad contra él.
+TEXT_JOBSAM680_02569_KONGO_000_007	Como capitán, mi lugar está aquí, en el cuartel. Mientras yo lo defiendo, les pido a Makoto y a ti que viajen a Yanxia a dar caza a Ugetsu.
+TEXT_JOBSAM680_02569_KONGO_000_008	Rezaré por su seguridad y su éxito. Y si el bribón se aparece aquí, ten por seguro que le daré una bienvenida memorable.
+TEXT_JOBSAM680_02569_MAKOTO_000_009	Yanxia está en el continente, al otro lado del Ruby Sea. Primero iremos a Namai, una pequeña aldea de montaña, y de ahí saldremos tras Ugetsu y sus cómplices.
+TEXT_JOBSAM680_02569_MAKOTO_000_020	La ruina que le sirve de escondite a Ugetsu está cerca. Me adelantaré a explorar; mientras tanto, le ruego que recorra la zona en busca de insurgentes y se encargue de ellos.
+TEXT_JOBSAM680_02569_SAMURAI02569_100_025	Ugh... Basura del bakufu...
+TEXT_JOBSAM680_02569_MAKOTO_000_030	Ugetsu no está por ninguna parte. Entonces eso significa...
+TEXT_JOBSAM680_02569_SAMURAI02569_000_031	Así es, va camino a Kugane... \<tos> A hacerle una visita a su capitán... Jejeje...
+TEXT_JOBSAM680_02569_MAKOTO_000_032	¡P-por los kami! ¡Tenemos que volver de prisa!
+TEXT_JOBSAM680_02569_SAMURAI02569_000_035	Lord Ugetsu va camino a Kugane... \<tos> A hacerle una visita a su capitán... Jejeje...
+TEXT_JOBSAM680_02569_MAKOTO_000_040	¡No hay tiempo que perder, <split(<string(gstr1)>, ,1)>! ¡Volvamos de prisa a Kugane!
+TEXT_JOBSAM680_02569_Q1_000_041	¿Volver a Kugane?
+TEXT_JOBSAM680_02569_MAKOTO_000_064	¡Noooooo!
+TEXT_JOBSAM680_02569_KONGO_000_065	Perdónenme... Fui... demasiado débil...
+TEXT_JOBSAM680_02569_KONGO_000_066	El Sekiseigumi... ahora es tuyo... Debes... terminar... \<jadeo>
+TEXT_JOBSAM680_02569_UGETSU_000_067	Vaya, vaya. Por un momento dudé de mis ojos, pero de verdad eres tú, Kagetsu. No esperaba verte con el uniforme del Sekiseigumi, querida hermana.
+TEXT_JOBSAM680_02569_UGETSU_000_069	Esa postura... Sí, el vivo retrato del maestro. Así que tú eres <if(gnum4,la última alumna,el último alumno)> de Musosai, y <if(gnum4,la,el)> samurai que abatió a Shiden.
+TEXT_JOBSAM680_02569_UGETSU_000_070	Por fin nos conocemos. Soy Ugetsu, para servirte. Como tú, me entrené con Musosai. Y como tú, me obligaron a recorrer su absurdo camino. Somos casi hermanos de escuela. Qué lástima, entonces, que estemos en bandos opuestos.
+TEXT_JOBSAM680_02569_UGETSU_000_071	Hingashi lleva demasiado tiempo en paz. Sus líderes se ablandaron y pasan los días en la decadencia. Su existencia es una plaga que hay que quemar con el fuego de la revolución.
+TEXT_JOBSAM680_02569_UGETSU_000_072	Para encender ese fuego, le ordené a Shiden asesinar al Tairo. Pero gracias a ti y a los tuyos, el intento terminó en un fracaso miserable.
+TEXT_JOBSAM680_02569_UGETSU_000_073	Hasta ahora nos mantuvimos en las sombras, pero ese tiempo pasó. No son pocos los que comparten nuestra visión, y si los sumamos a nuestras filas, tendremos la fuerza para enfrentar al bakufu abiertamente y derrotarlo.
+TEXT_JOBSAM680_02569_UGETSU_000_074	Eliminar a su capitán fue el primer paso de esta empresa. Sin él, los buenos hombres y mujeres del Sekiseigumi pueden elegir con el corazón. Si aquí hay almas que quieran unirse a nuestra causa, las recibimos con los brazos abiertos.
+TEXT_JOBSAM680_02569_UGETSU_100_074	La oferta también vale para ti, Kagetsu. Y para ti, mi <if(gnum4,hermana,hermano)> de escuela. ¿No crearán conmigo un mundo nuevo?
+TEXT_JOBSAM680_02569_MAKOTO_000_075	¿Crear? ¡Con el filo de una espada no se puede crear nada! ¡No, lo que buscas es destruir! ¡Si cae el bakufu, Hingashi se hundirá en otra Era de la Sangre!
+TEXT_JOBSAM680_02569_UGETSU_000_076	Correrá sangre, sí, pero servirá para nutrir y fortalecer una nueva nación, libre de la corrupción que pudrió a la antigua.
+TEXT_JOBSAM680_02569_UGETSU_000_077	Lo que tenemos ahora no es paz, sino estancamiento. Hingashi se convirtió en un pantano de podredumbre, y nosotros, los samurai, debemos ser el tsunami que lo limpie para abrirle paso a la paz <italic(1)>verdadera<italic(0)>.
+TEXT_JOBSAM680_02569_MAKOTO_000_078	¡Un samurai lucha para alejar el caos, no para crearlo! ¿¡Olvidaste las enseñanzas del maestro Musosai!?
+TEXT_JOBSAM680_02569_UGETSU_000_079	Está claro que contigo pierdo el aliento. Pero ¿y los demás? ¿Seguirán siendo esclavos sin seso del bakufu? ¿O se unirán a mí para lograr un cambio verdadero?
+TEXT_JOBSAM680_02569_UGETSU_000_080	Qué decepción. Esperaba que algunos entraran en razón. Pero si debemos luchar, que así sea.
+TEXT_JOBSAM680_02569_UGETSU_000_081	No deseo derramar sangre sin necesidad. Resolvamos esto lejos de la gente, en la Isle of Bekko. Tu gente contra la mía.
+TEXT_JOBSAM680_02569_UGETSU_000_082	Aunque, si me permites una observación, parece que podrían faltarte espadas, querida hermana. Ahora que tus hombres saben lo que nos une.
+TEXT_JOBSAM680_02569_MAKOTO_000_083	Escúchenme, compañeros. Como líder del Primer Escuadrón, fui elegida para continuar el legado del capitán Kongo.
+TEXT_JOBSAM680_02569_MAKOTO_000_084	La batalla contra Ugetsu promete ser sangrienta, pero pase lo que pase, debemos vencer. ¡El futuro de Hingashi depende de nosotros!
+TEXT_JOBSAM680_02569_MAKOTO_000_090	Perdóneme, <split(<string(gstr1)>, ,1)>, pero todo es cierto. Ugetsu es mi hermano mayor. Y Kagetsu es mi nombre de nacimiento, aunque hace mucho que lo dejé atrás.
+TEXT_JOBSAM680_02569_MAKOTO_000_091	Nacimos en una familia samurai de la capital, Bukyo. Desde muy pequeño, Ugetsu mostró un talento enorme como espadachín, y todos lo conocían como un niño prodigio. Pero para mí siempre fue el hermano amable y atento.
+TEXT_JOBSAM680_02569_MAKOTO_000_092	Estaba orgullosa de él, y no pude estarlo más cuando el legendario Musosai lo tomó como alumno. Luego salió de viaje para entrenarse y nunca volví a verlo.
+TEXT_JOBSAM680_02569_MAKOTO_000_093	El que volvió era otro hombre. En vez de sonrisas fáciles, tenía el ceño fruncido. En vez de bromas afables, lanzaba diatribas encendidas contra el bakufu y los grandes señores. Había tanta rabia, pero más que eso, había desesperanza: desesperanza por su país.
+TEXT_JOBSAM680_02569_MAKOTO_000_094	Poco después se separó del maestro Musosai y empezó a enseñarme a usar la katana. Creo que ya entonces soñaba con derrocar al bakufu, y por eso me inculcó lo necesario para sobrevivir en un mundo arrasado por la guerra. Con el tiempo, me convertí en samurai por derecho propio.
+TEXT_JOBSAM680_02569_MAKOTO_000_095	Y entonces pasó. Mi hermano asesinó a altos funcionarios del bakufu, y nuestra familia pagó el precio. Ordenaron borrar nuestro linaje. A mis padres los ejecutaron sin juicio, y solo de casualidad escapé de su destino.
+TEXT_JOBSAM680_02569_MAKOTO_000_096	En la calle y sin hogar, viajé a Kugane. Adopté el nombre de Makoto y llamé a las puertas del Sekiseigumi con un solo propósito en mente: castigar a Ugetsu.
+TEXT_JOBSAM680_02569_MAKOTO_000_097	Puede que compartamos la misma sangre, pero nunca podré perdonarlo. Porque tiene en las manos la sangre de nuestros padres.
+TEXT_JOBSAM680_02569_MAKOTO_000_099	Pero, por mucha determinación que tenga, no estoy a la altura de mi hermano. Y mientras su causa se fortalece, la mía no hace más que debilitarse.
+TEXT_JOBSAM680_02569_MAKOTO_000_100	En nuestra cultura, a la gente se la define primero por su cuna, y saber que soy pariente de Ugetsu sacudió la fe de mis hombres en mí. Puede que no acepten mi autoridad, aunque el capitán así lo quisiera.
+TEXT_JOBSAM680_02569_MAKOTO_000_101	Y sin él, no tengo en qué apoyarme salvo mi propia convicción... y usted, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBSAM680_02569_MAKOTO_100_102	Aunque me cueste la vida, juro acabar con la ambición de mi hermano. Le ruego que me acompañe en esta hora tan difícil.

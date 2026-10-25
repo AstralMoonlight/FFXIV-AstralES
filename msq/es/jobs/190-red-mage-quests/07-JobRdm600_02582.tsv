@@ -1,0 +1,133 @@
+key	text
+TEXT_JOBRDM600_02582_SEQ_00	X'rhun planea un enfrentamiento final con Lambard.
+TEXT_JOBRDM600_02582_SEQ_01	X'rhun te explica el plan del Imperio para asesinar a la vicepresidenta de Garlond Ironworks y te cuenta una idea para frustrar el intento. Después de reunirse con la propia Jessie para afinar los detalles, promete encontrarte en la terraza sobre Rowena's House of Splendors, en Revenant's Toll.
+TEXT_JOBRDM600_02582_SEQ_02	Te reúnes con tus compañeros en Revenant's Toll, y aunque Jessie parece dispuesta a hacer de carnada, X'rhun no quiere ponerla en peligro. De pronto, Arya se ofrece a disfrazarse de la vicepresidenta, y un nuevo plan nace de su inesperada sugerencia. Reúnete con X'rhun junto al aetheryte de Revenant's Toll para las últimas instrucciones.
+TEXT_JOBRDM600_02582_SEQ_03	Te reúnes con tus compañeros, y X'rhun confiesa que todavía no entiende cómo Lambard traicionó a los Crimson Duelists por monedas imperiales. Pero, decidido a hacerle pagar, te pide que se reúnan junto a la puerta sureste para empezar la operación.
+TEXT_JOBRDM600_02582_SEQ_04	Empezó la misión para volver la emboscada del grupo en su contra. Sigue a Arya por el camino hacia North Silvertear y defiéndela de cualquier atacante.
+TEXT_JOBRDM600_02582_SEQ_05	Frustraste la primera emboscada. Sigue hacia el sur y rescata a Arya de los ataques del grupo.
+TEXT_JOBRDM600_02582_SEQ_06	Después de derrotar a la segunda oleada de atacantes, X'rhun te contacta con más instrucciones. Parece que el Crimson Duelist despachó al grupo que iba a flanquearlos, y está seguro de que pronto Lambard caerá en la trampa. Toma posición junto a la aeronave cerca de The Keeper of the Lake y espera a que aparezca el amo de los asesinos.
+TEXT_JOBRDM600_02582_SEQ_07	Lambard sale de las sombras para terminar el trabajo, y X'rhun deja su escondite para enfrentarlo. Pero, pese a su habilidad superior en combate, el veterano red mage cae ante los siniestros poderes de Lambard. Arya y tú saltan a defender a su compañero caído y libran una pelea desesperada contra magia antigua y artes prohibidas. Junt<if(gnum4,as,os)> logran derrotar a Lambard, y ahora pueden atender a X'rhun, gravemente herido.
+TEXT_JOBRDM600_02582_SEQ_08	X'rhun está muy malherido, pero parece que vivirá para pelear otro día. Habla con tu mentor en Revenant's Toll.
+TEXT_JOBRDM600_02582_SEQ_09	Gracias a los esfuerzos combinados tuyos y de tus compañeros red mages, el complot para asesinar a la vicepresidenta de Garlond Ironworks terminó en fracaso. Además de la gratitud de Jessie, X'rhun les da las gracias a ti y a Arya por ayudarlo a enmendar los errores de su pasado. Lambard y su grupo ya no existen, y tu dominio de la magia roja logró una victoria concreta por el bien del reino.<br><br>※La siguiente misión de red mage estará disponible con X'rhun Tia después de completar la misión del escenario principal "The Far Edge of Fate".
+TEXT_JOBRDM600_02582_TODO_00	Habla con Arya en Revenant's Toll.
+TEXT_JOBRDM600_02582_TODO_01	Habla con X'rhun en Revenant's Toll.
+TEXT_JOBRDM600_02582_TODO_02	Reúnete con X'rhun en Revenant's Toll.
+TEXT_JOBRDM600_02582_TODO_03	Rescata a Arya de sus atacantes.
+TEXT_JOBRDM600_02582_TODO_04	Rescata a Arya de sus atacantes.
+TEXT_JOBRDM600_02582_TODO_05	Espera a que aparezca Lambard.
+TEXT_JOBRDM600_02582_TODO_06	Espera en el lugar indicado.
+TEXT_JOBRDM600_02582_TODO_07	Habla con X'rhun en Revenant's Toll.
+TEXT_JOBRDM600_02582_ARYA_000_000	No lo entiendo. <italic(1)>Lanzo<italic(0)> la magia blanca de la forma correcta, pero los efectos son tan débiles...
+TEXT_JOBRDM600_02582_XRHUNTIA_000_030	Lambard debe estar preparándose para actuar contra Garlond Ironworks.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_031	Según los planes que vimos, saben que Jessie tiene previsto acompañar una entrega a la Ala Mhigan Resistance. La emboscada en sí será en las afueras de Revenant's Toll, mientras ella va hacia una aeronave que la espera.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_032	¡Debería ser fácil esperarlos en Mor Dhona y tomar por sorpresa a los atacantes, y a Lambard! Claro que nuestro éxito dependerá de que Jessie coopere, y quedé en reunirme con ella para afinar los detalles.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_034	Te pido que te adelantes a Revenant's Toll, y te encontraremos en la terraza sobre Rowena's House of Splendors.
+TEXT_JOBRDM600_02582_ARYA_000_060	Perdón, ¿me estaba buscando? Es que me sentía más cómoda esperando en el rincón...
+TEXT_JOBRDM600_02582_ARYA_000_061	¡Oh! ¡Llegaron X'rhun y Jessie!
+TEXT_JOBRDM600_02582_JESSIE_000_062	Bueno, ya me contaron todo sobre ese gran plan para asesinarme. Me sorprende que nadie lo haya intentado antes, ¡con lo rápido que la compañía se cae a pedazos en cuanto salgo de la habitación!
+TEXT_JOBRDM600_02582_JESSIE_000_063	En fin, entiendo que tú y <if(gnum4,la señorita,el señor)> <split(<string(gstr1)>, ,2)> aquí presente se encargan de mantenerme con vida mientras voy feliz de la vida hacia la aeronave. ¿Es así?
+TEXT_JOBRDM600_02582_XRHUNTIA_000_064	A Lambard le ordenaron emplear todo su grupo en esta operación. Mientras no sospechen que conocemos su plan, tenemos la oportunidad de acabar con todos. Solo quisiera poder lograrlo sin exponerte al peligro...
+TEXT_JOBRDM600_02582_ARYA_000_065	Quizás podríamos... si yo me hiciera pasar por Jessie.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_066	¿Disfrazarte de la vicepresidenta? Eso... eso es en realidad una idea bastante astuta.
+TEXT_JOBRDM600_02582_JESSIE_000_067	Entonces consigámosle un disfraz a la chica. No me da miedo hacer de carnada, pero, a la hora de la verdad, solo les voy a estorbar. Hmmm, vamos a tener que hacer algo con ese pelo...
+TEXT_JOBRDM600_02582_JESSIE_000_068	¡Listo! De lejos, nadie va a notar la diferencia. Solo que... de cerca te falta un poco de altura. ¿Podemos estirarte un fulm más o menos?
+TEXT_JOBRDM600_02582_ARYA_000_069	¿¡Estirarme!?
+TEXT_JOBRDM600_02582_JESSIE_000_070	Solo te tomo el pelo, muchacha. Agradezco lo que haces por mí. ¡Si alguna vez necesitas un favor, con gusto te lo devuelvo!
+TEXT_JOBRDM600_02582_XRHUNTIA_000_071	La aeronave de la Ironworks llegará pronto al acantilado en las afueras del pueblo. Arya irá hacia el barco haciéndose pasar por Jessie, y tú, <split(<string(gstr1)>, ,1)>, harás de guardaespaldas.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_072	Todavía queda un poco de tiempo hasta la hora de partida de la aeronave. Haz los preparativos que necesites y después búscame junto al aetheryte.
+TEXT_JOBRDM600_02582_ARYA_000_120	Jessie dijo que sería más convincente si pareciera a punto de "arrancarle la nariz de un mordisco a alguien". Ni siquiera sé bien qué quiere decir eso...
+TEXT_JOBRDM600_02582_XRHUNTIA_000_150	Llegó la hora. La aeronave de la Ironworks se prepara para partir, y se acerca nuestra batalla con el traidor Lambard.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_151	Pero hay algo que nunca logré entender: ¿por qué Lambard le vendió el alma al Imperio?
+TEXT_JOBRDM600_02582_XRHUNTIA_000_154	Era el erudito más brillante de los Duelists, y no la clase de hombre que traicionaría a su patria por unas vulgares monedas. Me quedé perplejo cuando supe que el Imperio había comprado su lealtad...
+TEXT_JOBRDM600_02582_XRHUNTIA_000_155	¡Pero, sean cuales sean sus razones, el crimen que cometió es imperdonable! Y le haremos pagar por él.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_156	Terminemos con esto, amigos. ¡A la puerta sureste!
+TEXT_JOBRDM600_02582_ARYA_000_180	Estuve practicando mis hechizos, pero me pregunto si estoy lista para esto...<br>¡Oh, pero mejor no lanzo nada mientras me hago pasar por Jessie!
+TEXT_JOBRDM600_02582_XRHUNTIA_000_210	¡Llegó el momento! Arya, toma el camino hacia North Silvertear y mantén la farsa lo mejor que puedas.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_211	La aeronave espera cerca de The Keeper of the Lake, pero podemos estar seguros de que los asesinos actuarán antes de que llegues. <split(<string(gstr1)>, ,1)>, de ti dependerá proteger a "Jessie" en el camino.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_212	En vez de dejar que nos flanqueen, voy a interceptar al grupo grande que pensaba caerles encima desde el sur.
+TEXT_JOBRDM600_02582_XRHUNTIA_100_212	Sigues sorprendiéndome con la potencia de tu magia ofensiva, Arya. Con lo que avanzaste, no tengo dudas de que podrías arreglártelas contra uno o dos de esos asesinos sin mente.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_213	Pero te pido que no pelees a menos que sea absolutamente necesario: el objetivo es atraer al propio Lambard, y nuestra farsa tiene que ser convincente. <split(<string(gstr1)>, ,1)> debería ser más que suficiente contra sus títeres.
+TEXT_JOBRDM600_02582_ARYA_000_214	¡De eso no tengo dudas! Bueno, entonces... ¡allá voy!
+TEXT_JOBRDM600_02582_ARYA_000_240	¡Qué pelea! ¿Está list<if(gnum4,a,o)> para seguir?
+TEXT_JOBRDM600_02582_ARYA_000_241	Yo voy adelante, como antes.
+TEXT_JOBRDM600_02582_ARYA_000_250	Usted hace que parezca tan fácil...
+TEXT_JOBRDM600_02582_ARYA_000_251	...¿Hola? Sí, <split(<string(gstr1)>, ,1)> derrotó todas las emboscadas hasta ahora.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_252	(-X'rhun Tia-)<italic(1)>Muy bien. Acabo de terminar de limpiar al grupo que iba a flanquearlos, y voy a tomar posición cerca de la aeronave.<italic(0)>
+TEXT_JOBRDM600_02582_XRHUNTIA_000_253	(-X'rhun Tia-)<italic(1)>Por ahora seguimos con la farsa. Ve a abordar la aeronave como planeamos; <split(<string(gstr1)>, ,1)> y yo nos esconderemos cerca hasta que Lambard actúe.<italic(0)>
+TEXT_JOBRDM600_02582_XRHUNTIA_000_254	(-X'rhun Tia-)<italic(1)>Debería quedarle poco de sus títeres, y no le quedará más remedio que actuar en persona. Ese es el momento de atacar: ¡juntos!<italic(0)>
+TEXT_JOBRDM600_02582_ARYA_000_255	¿Oyó todo eso, <split(<string(gstr1)>, ,1)>? Entonces sigamos.
+TEXT_JOBRDM600_02582_ARYA_000_270	No veo a X'rhun, pero dijo que estaría escondido cerca. Mejor escóndase usted también, o Lambard va a descubrir nuestro engaño...
+TEXT_JOBRDM600_02582_LAMBARD_000_300	...¿Qué tenemos aquí? ¿Una impostora? Parece que caí en la trampa de una niña.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_301	Tu grupo está en ruinas, Lambard. ¡Y esta vez vas a pagar por tus crímenes!
+TEXT_JOBRDM600_02582_XRHUNTIA_000_302	Pero antes necesito saberlo. ¿¡Por qué te vendiste al Imperio!? Después de todo lo que logramos juntos...
+TEXT_JOBRDM600_02582_LAMBARD_000_303	Ah, siempre el mismo X'rhun simplón. El mismo idealismo tedioso.
+TEXT_JOBRDM600_02582_XRHUNTIA_100_303	...¿Adónde quieres llegar?
+TEXT_JOBRDM600_02582_LAMBARD_110_303	¿Cuántas vidas salvamos, usted y yo? ¿Y qué logramos de verdad con eso? El antiguo arte de la magia roja es capaz de mucho más.
+TEXT_JOBRDM600_02582_LAMBARD_120_303	Un red mage restringe la fuente de su mana, pero acelera el efecto de sus hechizos usando su propio cuerpo como medio. ¿Y qué le pasaría a un mago así si intentara las mismas técnicas canalizando las inmensas energías aetheriales de la naturaleza?
+TEXT_JOBRDM600_02582_XRHUNTIA_130_303	Una empresa de tontos. ¡Consumiría a quien la intentara!
+TEXT_JOBRDM600_02582_LAMBARD_000_304	Exacto. Y ahí vemos el verdadero potencial del arte. Imagine los increíbles poderes que podríamos desatar... si no estuviéramos encerrados en estas prisiones de carne.
+TEXT_JOBRDM600_02582_LAMBARD_000_305	Fue en la sabiduría de los antiguos donde descubrí la forma de trascender nuestros límites: un método para transformar el propio cuerpo y dominar magias cada vez más grandes.
+TEXT_JOBRDM600_02582_LAMBARD_100_305	Pero el precio fue alto. Reestructurar mi cuerpo me costó años y años de sueño arcano.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_306	...¿Y valió la pena? ¿Renunciar a lo que te hace mortal?
+TEXT_JOBRDM600_02582_LAMBARD_000_307	¡Me liberé de mis cadenas! ¡Ahora domino energías mayores que cualquiera de las que hay en el negro, en el blanco o en el rojo!
+TEXT_JOBRDM600_02582_LAMBARD_100_307	Los Crimson Duelists fueron apenas mi primer paso hacia la grandeza... nobles sacrificios por una causa mayor.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_308	¡Maldito desalmado!
+TEXT_JOBRDM600_02582_LAMBARD_000_309	Mi arte no está atado por tabúes de mentes débiles. ¡No puede vencerme con su débil magia roja!
+TEXT_JOBRDM600_02582_XRHUNTIA_000_310	Nunca perdí un duelo contra ti. ¡Hoy no será diferente!
+TEXT_JOBRDM600_02582_LAMBARD_000_311	Usted siempre fue mejor luchador...<br>¡Apenas logré hacerle un rasguño!
+TEXT_JOBRDM600_02582_LAMBARD_000_313	...Pero un solo rasguño es todo lo que necesito.
+TEXT_JOBRDM600_02582_LAMBARD_000_314	Verá, como consecuencia de mi transformación, mi fuerza no está en dañar su cuerpo, sino en drenar su espíritu. Una vez que lo hiero, su fuerza vital me pertenece.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_315	Tú... \<jadeo>
+TEXT_JOBRDM600_02582_ARYA_100_315	¡X'rhun, no!
+TEXT_JOBRDM600_02582_LAMBARD_150_315	Vaya, vaya... todavía respira.
+TEXT_JOBRDM600_02582_LAMBARD_200_315	Pero no por mucho...<br>Lo enviaré al reino de Thal con la respuesta a su pregunta: mi razón para unirme al Imperio.
+TEXT_JOBRDM600_02582_LAMBARD_000_316	Mi nueva forma me permite usar hechizos de una magnitud negada a los simples mortales. Pero tengo que alimentarme. Si no consumo suficiente energía vital, me aqueja un hambre terrible.
+TEXT_JOBRDM600_02582_LAMBARD_000_317	Mi trabajo como asesino me da presas frescas y un entorno ideal para seguir con mis investigaciones. Le estaré eternamente agradecido a Zenos por su rara y generosa comprensión.
+TEXT_JOBRDM600_02582_LAMBARD_000_318	Usted habla de logros, pero las restricciones de la magia roja no me dieron más que frustración. ¡Y ahora, después de dos décadas de resistencia inútil, <italic(1)>su<italic(0)> lucha por fin termina!
+TEXT_JOBRDM600_02582_XRHUNTIA_100_318	...Amigos... ¡tienen que huir!
+TEXT_JOBRDM600_02582_ARYA_000_319	¡Esto no termina aquí!
+TEXT_JOBRDM600_02582_LAMBARD_000_320	¿Alumn<if(gnum4,as,os)> de la magia roja? Vengan, entonces. ¡Muéstrenme cómo resisten la llegada de su propia destrucción!
+TEXT_JOBRDM600_02582_QIB_001_TODO_01	¡Derrota a Lambard!
+TEXT_JOBRDM600_02582_QIB_LAMBARD_BATTLETALK_01	Les enseñaré la mentira sobre la que se construye su arte: lo inevitable de su destino.
+TEXT_JOBRDM600_02582_QIB_ARYA_BATTLETALK_01	¡Ya veremos qué arte es la mentira! ¡Con la magia roja forjamos nuestro propio destino!
+TEXT_JOBRDM600_02582_QIB_LAMBARD_BATTLETALK_14	Sí, brillen con fuerza, pequeñ<if(gnum4,as,os)> aprendices. Su esencia será aún más dulce...
+TEXT_JOBRDM600_02582_QIB_LAMBARD_BATTLETALK_15	X'rhun les enseñó bien. ¡Pero sus lecciones no l<if(gnum4,as,os)> prepararon para esto!
+TEXT_JOBRDM600_02582_QIB_ARYA_BATTLETALK_02	¡Ugh! ¡No puedo resistir eso sola!<br>¡Quédese cerca de mí, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBRDM600_02582_QIB_LAMBARD_BATTLETALK_03	Ya retrasé bastante mi festín.<br>¡Sus almas son mías para devorarlas!
+TEXT_JOBRDM600_02582_QIB_ARYA_BATTLETALK_03	¡Recuerde lo que le hizo a X'rhun!<br>¡No podemos tener ninguna herida!
+TEXT_JOBRDM600_02582_QIB_ARYA_BATTLETALK_04	¡Rápido! ¡Cure sus heridas!<br>¡No deje que le robe el aether!
+TEXT_JOBRDM600_02582_QIB_LAMBARD_BATTLETALK_06	Bebí lo suficiente como para matar a la mayoría de los mortales. Y aun así siguen de pie...
+TEXT_JOBRDM600_02582_QIB_LAMBARD_BATTLETALK_07	Astut<if(gnum4,as,os)>...<br>Cerraron sus heridas con magia.
+TEXT_JOBRDM600_02582_QIB_LAMBARD_BATTLETALK_08	¿Qué pozo de poder esconden?<br>¡...Cuánto tardaré en secarlo!
+TEXT_JOBRDM600_02582_QIB_ARYA_BATTLETALK_05	¡<split(<string(gstr1)>, ,1)>!<br>¡No olvide curarse!
+TEXT_JOBRDM600_02582_QIB_LAMBARD_BATTLETALK_09	Su determinación es admirable. ¡Pero yo domino la magia de los antiguos!
+TEXT_JOBRDM600_02582_QIB_LAMBARD_BATTLETALK_10	¡No hay escapatoria!<br>¡Sus almas se marchitarán en el fuego del vacío!
+TEXT_JOBRDM600_02582_QIB_ARYA_BATTLETALK_06	Nos vamos a quemar viv<if(gnum4,as,os)>...<br>¿Pero y si rompemos las esferas?
+TEXT_JOBRDM600_02582_QIB_LAMBARD_BATTLETALK_11	¿Qué...? ¡No!<br>¿¡El fuego del vacío era vulnerable!?
+TEXT_JOBRDM600_02582_QIB_LAMBARD_BATTLETALK_12	¡Imposible!<br>¡Ningún mortal puede rivalizar con mi poder!
+TEXT_JOBRDM600_02582_QIB_LAMBARD_BATTLETALK_13	¡No! Lo sacrifiqué todo...
+TEXT_JOBRDM600_02582_QIB_ARYA_BATTLETALK_DEAD	Es... demasiado fuerte...
+TEXT_JOBRDM600_02582_XRHUNTIA_000_360	Mis compañeros...<br>Son los campeones del rojo......
+TEXT_JOBRDM600_02582_ARYA_000_361	¡X'rhun! ¡No intente moverse!
+TEXT_JOBRDM600_02582_XRHUNTIA_000_362	Todavía no estoy muerto, muchacha... aunque fue lindo que pensaras en vengarme.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_363	Qué par tan lamentable hacemos. Los últimos Crimson Duelists, manchando el suelo de escarlata con nuestra sangre... Y ni siquiera puedo decir que esta venganza final es mía: ese honor es de mis alumnos.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_364	Ah, pero ahí está la diferencia entre tú y yo, Lambard. Tus títeres siguen tus órdenes sin preguntar, pero no continuarán tu legado cuando ya no estés.
+TEXT_JOBRDM600_02582_LAMBARD_000_365	¿Eso es lo que le enseñaron veinte años de lucha? Lo admito: el sentido de la justicia que les contagia a otros le dio la victoria. Por hoy, al menos...
+TEXT_JOBRDM600_02582_LAMBARD_000_367	Pero los hados son conocidos por sus giros crueles de la fortuna. Tome a esta Arya suya...
+TEXT_JOBRDM600_02582_ARYA_000_368	...Estoy bien. Fue una pelea difícil, nada más.
+TEXT_JOBRDM600_02582_LAMBARD_000_369	Je, je, je... ¿Será esta la injusticia que lo quiebre? Qué lástima que me vaya a perder... su sufrimiento...
+TEXT_JOBRDM600_02582_XRHUNTIA_000_370	Lambard sabía algo, y parecía divertirle. ¿De verdad estás bien?
+TEXT_JOBRDM600_02582_ARYA_000_371	Ya me siento mucho mejor, de verdad. ¡Deberíamos volver a Revenant's Toll!
+TEXT_JOBRDM600_02582_ARYA_000_380	Estuvo cerca, ¡pero al final ganamos! De verdad tengo que mejorar mi magia curativa...
+TEXT_JOBRDM600_02582_XRHUNTIA_000_450	Todavía me cuesta mantenerme en pie, pero creo que voy a vivir. ¡Ver cómo contrarrestaste la técnica que me derribó fue un momento de mucho orgullo! ¡Arya y tú hacen un buen equipo!
+TEXT_JOBRDM600_02582_XRHUNTIA_000_451	Supongo que la vicepresidenta llegará pronto...
+TEXT_JOBRDM600_02582_JESSIE_000_460	Te lo agradezco. Si no hubieran descubierto este complot, seguramente ya estaría muerta. ¡Da mucho que pensar!
+TEXT_JOBRDM600_02582_XRHUNTIA_000_461	Son <split(<string(gstr1)>, ,1)> y Arya quienes más merecen tu gratitud: yo estaba ocupado desangrándome mientras <if(gnum4,ellas,ellos)> dos vencían al amo de los asesinos.
+TEXT_JOBRDM600_02582_JESSIE_000_462	¿Ah, sí? Bueno, entonces, no duden en mandarle al mismo Cid la cuenta de cualquier gasto de esta operación.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_463	Con la muerte de Lambard, su grupo de asesinos también dejará de atormentarnos.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_464	Durante gran parte de mi vida, viví con el fracaso: la pérdida de mi patria, no haber podido ayudar a evitar la Calamidad. Pero elegí seguir luchando frente a esas derrotas.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_465	Me tomó dos décadas enmendar los errores de mi pasado. Pero por fin logré una victoria concreta para mi patria y para Eorzea.
+TEXT_JOBRDM600_02582_XRHUNTIA_000_466	Ustedes lo hicieron posible.<br>Gracias, <if(gnum4,mis alumnas. Mis compañeras,mis alumnos. Mis compañeros)>.
+TEXT_JOBRDM600_02582_SYSTEM_000_900	Aquí terminan las misiones de red mage de FINAL FANTASY XIV: Heavensward.
+TEXT_JOBRDM600_02582_SYSTEM_000_901	Para emprender la siguiente serie de misiones, debes haber completado la misión del escenario principal "The Far Edge of Fate".
+TEXT_JOBRDM600_02582_SYSTEM_000_902	Cuando lo hayas hecho, la siguiente misión de red mage estará disponible con X'rhun Tia.

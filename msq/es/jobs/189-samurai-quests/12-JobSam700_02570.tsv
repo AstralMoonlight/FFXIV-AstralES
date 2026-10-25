@@ -1,0 +1,95 @@
+key	text
+TEXT_JOBSAM700_02570_SEQ_00	Makoto parece derrotada aun antes de que empiece la batalla.
+TEXT_JOBSAM700_02570_SEQ_01	Los temores de Makoto se hicieron realidad. Hay miembros del Sekiseigumi que desertan desde que se supo que ella es la hermana de Ugetsu y tú <if(gnum4,la alumna,el alumno)> de Musosai. Tal como están las cosas, no tendrá fuerzas para enfrentar a los insurgentes. Como no está dispuesta a que todo termine así, te pide que busques en Kugane a tus compañeros desencantados y los traigas de vuelta para que la escuchen.
+TEXT_JOBSAM700_02570_SEQ_02	Hablaste con algunos miembros del Sekiseigumi. Aunque no se muestran nada entusiasmados, aceptan al menos escuchar lo que Makoto tenga que decir. Hiciste tu parte; lo demás depende de tu amiga.
+TEXT_JOBSAM700_02570_SEQ_03	Ante el Sekiseigumi reunido, Makoto respira hondo y empieza su discurso. Aunque saber que Kogarashi y Musosai eran la misma persona les devuelve de inmediato su buena opinión de ti, a Makoto le cuesta mucho más recuperar su respeto. Justo cuando parece que sus esfuerzos van a fracasar, llega una ayuda oportuna en la forma de Momozigo, que de improviso decidió viajar a Kugane. Con su lengua de plata en plena forma, les hace ver su error, y vuelven a cerrar filas detrás de Makoto. Con la esperanza recuperada, partes al campo de batalla: la Isle of Bekko.
+TEXT_JOBSAM700_02570_SEQ_04	En la Isle of Bekko, el Sekiseigumi se enfrenta cara<-->a<-->cara con los insurgentes. Estalla la batalla, y te enfrentas a Ugetsu en un duelo frenético entre los dos alumnos de Musosai. Al final del enfrentamiento, eres tú quien queda en pie, y los insurgentes que quedan, sin líder, huyen en desbandada.
+TEXT_JOBSAM700_02570_SEQ_05	Makoto le da a Ugetsu el golpe final, cumpliendo así su venganza y acabando con una gran amenaza para el reino. Sin dedicarle otra mirada a su hermano de sangre, parte con su familia adoptiva de vuelta al Sekiseigumi Barracks.
+TEXT_JOBSAM700_02570_SEQ_06	Makoto te ofrece su eterna gratitud por el papel vital que cumpliste en la derrota de los insurgentes. Ahora que su nombramiento como capitana es oficial, promete estar a la altura de la fe que su predecesor tenía en ella. Mientras tanto, salió a la luz que la mayoría de los miembros más jóvenes de la orden se unieron por el deseo de emular a Kogarashi. Makoto reflexiona que, al emprender su misión de enderezar entuertos, quizás Musosai quería sembrar las semillas de una nueva generación. Fuera cual fuera su intención, tu maestro puede descansar tranquilo sabiendo que su espíritu echó raíces en los hombres y mujeres del Sekiseigumi, verdaderos samurai que se esfuerzan por preservar el orden y alejar el caos. Como alguien que comparte esa vocación, decides seguir recorriendo tu camino con valor y honor, guiad<if(gnum4,a,o)> siempre por un inquebrantable sentido de la justicia.<br><br>※La siguiente misión de samurai estará disponible con Makoto cuando cumplas los siguientes requisitos:<br>※Haber completado la misión de la historia principal "Shadowbringers".<br>※Haber completado la misión de rol "Courage Born of Fear".
+TEXT_JOBSAM700_02570_TODO_00	Habla con los miembros del Sekiseigumi.
+TEXT_JOBSAM700_02570_TODO_01	Infórmale a Makoto.
+TEXT_JOBSAM700_02570_TODO_02	Reúnete con Makoto en la Isle of Bekko.
+TEXT_JOBSAM700_02570_TODO_03	Reúnete con Makoto en la Isle of Bekko.
+TEXT_JOBSAM700_02570_TODO_04	Habla con Makoto en Kugane.
+TEXT_JOBSAM700_02570_MAKOTO_000_000	<split(<string(gstr1)>, ,1)>... Mis temores se hicieron realidad. Los miembros del Sekiseigumi están desertando, uno tras otro.
+TEXT_JOBSAM700_02570_MAKOTO_000_001	Saber que soy la hermana de Ugetsu, y usted <if(gnum4,la alumna,el alumno)> de Musosai, destrozó su fe en nuestra causa.
+TEXT_JOBSAM700_02570_MAKOTO_000_002	Con tantos que se fueron, no tenemos fuerzas para enfrentar a los insurgentes. Tenemos que convencerlos de volver como sea...
+TEXT_JOBSAM700_02570_MAKOTO_000_003	Lo que me une a Ugetsu no tiene vuelta, pero si al menos logramos quitarle el estigma al maestro Musosai, quizás cambien de parecer.
+TEXT_JOBSAM700_02570_MAKOTO_000_004	Solo necesito una oportunidad para decir lo que tengo que decir. ¿Me ayudaría a reunir a nuestros compañeros desencantados?
+TEXT_JOBSAM700_02570_MAKOTO_000_005	Yo buscaré por el cuartel y el lado norte de la ciudad, si usted puede concentrarse en el sur.
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERA_000_010	¿Qué quiere, ijin? No tengo nada que hablar con alguien como usted.
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERA_000_011	¿La capitana quiere una oportunidad para explicarse? Bueno, supongo que no hace daño escucharla...
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERB_000_012	Dicen que venciste al teniente, pero que me lleve el diablo si no usaste trucos sucios que te enseñó el cobarde de Musosai.
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERB_000_013	...¿La capitana me llama? ¿Qué quiere ahora la hermana del insurgente? Hmph, más vale ir a ver qué excusa barata tiene preparada.
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERC_000_014	Mira, no es que desconfíe de ti ni de la capitana. Es que... ya no tengo ánimo para pelear.
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERC_000_015	Quiere hablar, ¿eh? Hm, bueno, dudo que algo de lo que diga me haga cambiar de opinión, pero por ahora te sigo la corriente.
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERA_000_017	Oigamos lo que tiene que decir.
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERB_000_018	Más vale que valga la pena, o me voy a la taberna.
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERC_000_019	Por los kami, qué incómodo es esto...
+TEXT_JOBSAM700_02570_MAKOTO_000_020	Gracias por su ayuda, <split(<string(gstr1)>, ,1)>. Empecemos antes de que cambien de opinión.
+TEXT_JOBSAM700_02570_MAKOTO_000_021	Escúchenme, compañeros. En nuestra nación, Musosai es un nombre que despierta odio. Todos saben que fueron sus manos las que crearon al monstruo que es Ugetsu. Y todos saben que eludió su responsabilidad por miedo a la muerte.
+TEXT_JOBSAM700_02570_MAKOTO_000_022	Pero nada podría estar más lejos de la verdad, porque Musosai siempre enseñó que la vocación del samurai es preservar el orden.
+TEXT_JOBSAM700_02570_MAKOTO_000_023	Ugetsu, en cambio, busca justo lo contrario. Al derrocar al bakufu, pretende desatar un caos tal que provoque otra Era de la Sangre.
+TEXT_JOBSAM700_02570_MAKOTO_000_024	Puede que Ugetsu se haya entrenado con Musosai, pero no fue un verdadero alumno suyo. No: <if(gnum4,su verdadera alumna,su verdadero alumno)> está ahora frente a ustedes, y, como su maestro, empuña la katana para proteger la paz.
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERB_000_025	¡Bah! "Proteger la paz", le gusta decir, pero ¿qué hizo Musosai alguna vez para "proteger la paz"? ¿Puede decirnos eso?
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERA_000_026	Yo haría la misma pregunta. Lo único que sabemos es que desafió a guerreros de todo el reino y nunca lo derrotaron. Una hazaña impresionante, sin duda, pero no viene al caso.
+TEXT_JOBSAM700_02570_MAKOTO_000_027	Pro... proteger la paz requiere fuerza. Así como nosotros pulimos nuestras habilidades con un entrenamiento riguroso, Musosai pulía las suyas con duelos.
+TEXT_JOBSAM700_02570_Q1_000_028	¿Qué vas a decir?
+TEXT_JOBSAM700_02570_A1_000_029	Recorrió el país enderezando entuertos como Kogarashi.
+TEXT_JOBSAM700_02570_A2_000_030	Hizo pagar a los malhechores como Kogarashi.
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERB_000_031	Un momento... ¿<italic(1)>El<italic(0)> Kogarashi? ¿El samurai misterioso que recorría el país castigando a los malvados cuando yo era chico?
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERA_000_032	¿El hombre que protegía a los débiles y castigaba por igual a ladrones comunes y a grandes señores antes de desaparecer como el viento?
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERC_000_033	¿Musosai era él desde el principio? ¡Y-yo me hice samurai por él!
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERB_000_034	¡Y-yo también! ¡Kogarashi era mi héroe! ¡Quería cambiar el mundo como él!
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERA_000_035	Ahora que lo pienso, fue cuando oí hablar de Kogarashi por primera vez que el deseo de tomar la katana echó raíces en mi corazón.
+TEXT_JOBSAM700_02570_MAKOTO_000_036	Sabía que el maestro Musosai había recorrido el país con mi hermano, pero pensar que lo hizo como Kogarashi... ¿Habrá sido esa experiencia la que llevó a Ugetsu a sus creencias extremas?
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERA_000_037	Muy bien, capitana, nos equivocamos con Musosai. Pero ¿qué tiene que decir de usted misma?
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERB_000_038	¡Eso, no nos olvidamos de eso! Su hermano es el desgraciado que intenta destruir nuestra nación. ¿Cómo vamos a confiar en usted?
+TEXT_JOBSAM700_02570_MOMOZIGO_000_039	(-Voz conocida-)¡Aaargh, basta! ¡Me estuve mordiendo la lengua, pero ya no lo soporto!
+TEXT_JOBSAM700_02570_MOMOZIGO_000_040	Hola, <split(<string(gstr1)>, ,1)>. Seguro que no esperabas verme <italic(1)>a mí<italic(0)> aquí, ¿eh? Se me ocurrió visitar la tierra natal de Musosai, ¿sabes?, y ya sabes lo espontáneo que soy.
+TEXT_JOBSAM700_02570_MOMOZIGO_000_041	¡Pero qué me encuentro al llegar sino esta penosa muestra de estrechez de mente! ¡El viejo se estaría revolviendo en su tumba!
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERB_000_042	¿Y tú quién diablos eres?
+TEXT_JOBSAM700_02570_MOMOZIGO_000_043	Quién soy no importa. Lo que importa es lo que hice, y eso fue viajar con <split(<string(gstr1)>, ,1)> y Musosai enderezando entuertos.
+TEXT_JOBSAM700_02570_MOMOZIGO_000_044	Ya quedó claro que todos ustedes respetan y admiran a Musosai, que resulta ser su héroe de la infancia, Kogarashi. Pues entonces deberían saber lo que siempre decía de sus compatriotas: que se fijan tanto en la cuna de una persona que no ven lo que vale de verdad.
+TEXT_JOBSAM700_02570_MOMOZIGO_000_045	Es tan condenadamente obvio que no puedo creer que tenga que decirlo, pero tener un villano por hermano no convierte a Makoto en villana. ¡Pese a lo que los une, ella se le opone, por los dioses!
+TEXT_JOBSAM700_02570_MOMOZIGO_000_046	Ahora mírense ustedes. Ninguno nació en una familia samurai, pero a fuerza de trabajo llegaron hasta aquí: se convirtieron en lo que querían ser.
+TEXT_JOBSAM700_02570_MOMOZIGO_000_047	¡Lo que hizo Makoto no es distinto! ¡Como ustedes, rompió las cadenas de su cuna para vivir la vida que ella eligió!
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERC_000_048	Por los kami, ¿cómo no lo vi? ¿Después de todo lo que pasamos juntos como compañeros?
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERB_000_049	Maldita sea, tienes razón. ¿Cuántas veces tuve que aguantar desprecio por venir de una aldea pobre? Y ahí estaba yo, despreciando a la capitana...
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERA_000_050	Qué necio fui. Siempre desprecié este aspecto de nuestra cultura, y todo este tiempo seguí siendo su prisionero sin darme cuenta.
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERA_000_051	Vamos, amigos. Traigamos de vuelta a los que todavía andan por ahí. ¡Tenemos una batalla que ganar y una paz que proteger!
+TEXT_JOBSAM700_02570_MAKOTO_000_052	Usted es el caballero de la posada de Ul'dah. Le debo mi gratitud.
+TEXT_JOBSAM700_02570_MOMOZIGO_000_053	Ah, no hay de qué. Soy presentador de oficio, y las palabras son lo mío. Las espadas... no tanto, así que aquí me retiro. ¡Uy, creo que iré a darme un baño en una de esas aguas termales de las que tanto oí hablar!
+TEXT_JOBSAM700_02570_MOMOZIGO_000_054	Lo demás lo dejo en tus hábiles manos, <split(<string(gstr1)>, ,1)>. ¡Detén a Ugetsu y dale al viejo la paz que se merece!
+TEXT_JOBSAM700_02570_MAKOTO_000_055	Se acerca la hora acordada. Vamos al campo de batalla: la Isle of Bekko.
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERA_000_057	Me alegra decir que pudimos reunir a todos. Lo único que queda es pelear como nunca antes.
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERB_000_058	¡Bien, démosles a esos desgraciados insurgentes una paliza que no olviden nunca!
+TEXT_JOBSAM700_02570_SEKISEITAISOLDIERC_000_059	Se me fueron todas las dudas. ¡Estoy listo para pelear contigo!
+TEXT_JOBSAM700_02570_RANJISHI_100_057	Me avergüenza haber dudado de ti. De niño admiraba a Kogarashi, y ruego que logres detener a su alumno indigno.
+TEXT_JOBSAM700_02570_RISHIN_100_058	Ojalá pudiéramos acompañarte, pero algunos deben quedarse aquí en el cuartel. ¡Nuestras esperanzas van contigo y con el Primer Escuadrón!
+TEXT_JOBSAM700_02570_TOMIKUSA_100_059	Makoto sufrió mucho por culpa de su hermano. Por favor, cuídala por nosotros.
+TEXT_JOBSAM700_02570_MAKOTO_100_060	Todos los que se fueron volvieron, y todos con la determinación recuperada. ¡Vamos a enfrentar a Ugetsu!
+TEXT_JOBSAM700_02570_UGETSU_000_060	¿Seguirá esta falsa paz? ¿O el fuego del cambio verdadero arrasará la tierra? Hoy decidimos la historia de Hingashi.
+TEXT_JOBSAM700_02570_UGETSU_100_061	Hoy decidimos qué camino es el correcto: ¡el de Musosai... o el mío!
+TEXT_JOBSAM700_02570_UGETSU_000_061	Entre ustedes solo hay alguien digno de ser mi rival: quien se entrenó con mi propio maestro. ¡Ven, <split(<string(gstr1)>, ,1)>, muéstrame la fuerza de tu convicción!
+TEXT_JOBSAM700_02570_UGETSU_000_070	¿Por qué... detienes tu espada?
+TEXT_JOBSAM700_02570_UGETSU_000_071	Se acabó... Los cielos eligieron... Ahora, acaba conmigo...
+TEXT_JOBSAM700_02570_UGETSU_000_072	Un samurai... debe ser resuelto... Acaba conmigo... ¡o yo acabaré contigo!
+TEXT_JOBSAM700_02570_UGETSU_000_073	Bien... Te hiciste fuerte... hermanita...
+TEXT_JOBSAM700_02570_MAKOTO_000_075	Vamos, amigos. Volvamos al cuartel.
+TEXT_JOBSAM700_02570_MAKOTO_000_080	Logramos sofocar una gran amenaza para la nación, y en buena parte fue gracias a usted, <split(<string(gstr1)>, ,1)>. Le estaré eternamente agradecida.
+TEXT_JOBSAM700_02570_MAKOTO_000_081	Aunque no tenemos a todos los insurgentes, sin un líder que los una, con el tiempo se dispersarán a los cuatro vientos.
+TEXT_JOBSAM700_02570_MAKOTO_000_082	En cuanto a mí, ya se hizo oficial mi nombramiento como capitana del Sekiseigumi. Es una carga pesada, pero juro llevarla con honor y estar a la altura de la fe que el capitán Kongo tenía en mí.
+TEXT_JOBSAM700_02570_MAKOTO_000_083	Mientras tanto, la verdadera identidad de Kogarashi corre de boca en boca por la orden.
+TEXT_JOBSAM700_02570_MAKOTO_000_084	Parece que casi todos nuestros miembros más jóvenes lo idolatraban, y se unieron por el deseo de marcar la diferencia.
+TEXT_JOBSAM700_02570_MAKOTO_000_085	Creo que, al emprender su misión, el maestro Musosai quería en parte sembrar las semillas de una nueva generación.
+TEXT_JOBSAM700_02570_MAKOTO_000_086	Ugetsu buscaba el camino rápido hacia el cambio, y no le importaba que estuviera lleno de conflicto y sufrimiento. Veía Hingashi como una casa ruinosa que solo servía para derribarla.
+TEXT_JOBSAM700_02570_MAKOTO_000_087	Pero el maestro Musosai buscaba restaurar esa casa, tabla por tabla, clavo por clavo. Una injusticia a la vez, aunque tomara varias vidas.
+TEXT_JOBSAM700_02570_MAKOTO_000_088	Para que su legado siga vivo, emprenderé mi propia misión de cambio aquí en Kugane. Y ruego que usted haga lo mismo, adonde sea que l<if(gnum4,a,o)> lleve su camino.
+TEXT_JOBSAM700_02570_SYSTEM_100_100	Aquí terminan las misiones de samurai de FINAL FANTASY XIV: Stormblood. Para empezar la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:
+TEXT_JOBSAM700_02570_SYSTEM_100_101	※Haber completado la misión de la historia principal "Shadowbringers".
+TEXT_JOBSAM700_02570_SYSTEM_100_102	※Haber completado la misión de rol "Courage Born of Fear".
+TEXT_JOBSAM700_02570_SYSTEM_100_103	Una vez cumplidos, la siguiente misión de samurai estará disponible con Makoto.
+TEXT_JOBSAM700_02570_RANJISHI_100_090	Me avergüenza haber dudado de ti. De niño admiraba a Kogarashi, y creo hablar por todos aquí si digo que tu ayuda es para nosotros un honor y un motivo de gratitud.
+TEXT_JOBSAM700_02570_RISHIN_100_091	¡Si queremos acercarnos a la maestría del maestro Musosai y a la tuya, tenemos que entrenar sin descanso!
+TEXT_JOBSAM700_02570_TOMIKUSA_100_092	Al derrotar a su hermano, Makoto cortó todo lazo con su pasado. Si alguien dudaba de que sirviera como capitana, seguro que ya nadie lo duda.

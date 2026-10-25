@@ -86,7 +86,7 @@ TEXT_ADDON_102391	¿Ponerle a tu chocobo el nombre “<string(lstr1)>”?
 TEXT_ADDON_102421	El deber llama. ¿Empezar la batalla de<br>“<string(lstr1)>”?<br><br><colortype(500)><edgecolortype(501)>※Hay sincronización de nivel.<edgecolortype(0)><colortype(0)> Si superas el nivel máximo permitido, se sincronizará así:<br><br> Nivel: <sheet(QuestBattle,lnum2,3)><if([lnum3>0],<br> Nivel de objeto: <num(lnum3)>,)><edgecolortype(0)><colortype(0)>
 TEXT_ADDON_102424	El deber llama. ¿Empezar la batalla de<br>“<string(lstr1)>”?<br><br><colortype(500)><edgecolortype(501)>※Hay sincronización de nivel.<edgecolortype(0)><colortype(0)> Si superas el nivel máximo permitido, se sincronizará así:<br><br> Nivel: <num(lnum2)><if([lnum3>0],<br> Nivel de objeto: <num(lnum3)>,)><edgecolortype(0)><colortype(0)>
 TEXT_ADDON_102429	Estás por debajo del nivel recomendado (<num(lnum2)>) para esta misión (<string(lstr1)>). ¿Continuar?
-TEXT_ADDON_102433	¿Seguro que quieres comerciar un objeto con materia engarzada? Se perderá la materia.
+TEXT_ADDON_102433	¿Seguro que quieres comerciar un objeto con materia insertada? Se perderá la materia.
 TEXT_ADDON_102434	¿Seguro que quieres comerciar un objeto de alta calidad?
 TEXT_ADDON_102442	Misiones diarias
 TEXT_ADDON_102445	¿Empezar “<sheet(Fate,lnum1,0)>”?

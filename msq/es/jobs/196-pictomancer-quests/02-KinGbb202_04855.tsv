@@ -1,0 +1,60 @@
+key	text
+TEXT_KINGBB202_04855_SEQ_00	Kupopo cree que debe pedir disculpas.
+TEXT_KINGBB202_04855_SEQ_01	Ahora que tienes el poder de la pictomancia, Kupopo está ansioso por enseñarte lo básico de este arte, aunque prefiere hacerlo con la conciencia tranquila. Al enterarse de los problemas que causó con sus campañas, quiere disculparse con el Oidor afligido, y te pide que lo acompañes al Nophica's Altar.
+TEXT_KINGBB202_04855_SEQ_02	Aunque la disculpa de Kupopo lo sorprende gratamente, el Oidor revela que el moogle no era la única fuente de sus pesares. Una mansión abandonada en el Gentry's Ward se llenó de alimañas ruidosas, y hay que acallar su escándalo. Recordándote que el espíritu del pictomancer es echar una mano, Kupopo ve en esto una oportunidad para que pongas a prueba tus habilidades, y te ofrece como voluntari<if(gnum4,a,o)> para acabar con la amenaza.
+TEXT_KINGBB202_04855_SEQ_03	Acabas sin problemas con las alimañas del sótano de la mansión, y los vecinos ya podrán dormir en paz. A Kupopo le alegra ver lo rápido que te adaptas a tu papel, y te sugiere volver a Old Gridania para celebrar tu éxito.
+TEXT_KINGBB202_04855_SEQ_04	Resuelto el problema de las alimañas del Oidor, regresas triunfante a las puertas del Gentry's Ward. Sin duda Kupopo querrá hablar más de tus avances.
+TEXT_KINGBB202_04855_SEQ_05	Viajar es esencial para la pictomancia, explica Kupopo, porque las experiencias nuevas enriquecen mucho a quien la practica. Pero su lección se ve interrumpida por el Oidor afligido, cuya expresión se llena de alivio cuando le cuentas tu victoria. Se marcha mucho más feliz que cuando lo conociste, y a Kupopo le encanta ver el fruto de tus esfuerzos desinteresados. Antes de partir juntos hacia un nuevo destino, te recuerda que sigas entrenando y que no olvides tu promesa de ayudarlo a encontrar a su querida amiga.<br><br>※La siguiente misión de pictomancer estará disponible con Kupopo al llegar al nivel 83.
+TEXT_KINGBB202_04855_TODO_00	Habla con el Oidor afligido junto al Nophica's Altar.
+TEXT_KINGBB202_04855_TODO_01	Habla con Kupopo.
+TEXT_KINGBB202_04855_TODO_02	Habla con Kupopo.
+TEXT_KINGBB202_04855_TODO_03	Vuelve a hablar con Kupopo.
+TEXT_KINGBB202_04855_KUPOPO_000_001	¡Muy bien! ¡Ahora encarnas <italic(1)>literalmente<italic(0)> el alma de un pictomancer, kupo!
+TEXT_KINGBB202_04855_KUPOPO_000_002	El pincel de un pictomancer parece una brocha grande, pero en realidad es una especie de bastón estilizado. Dicho eso... seguro te preguntas por qué no usamos bastones y ya.
+TEXT_KINGBB202_04855_KUPOPO_000_003	En pocas palabras, ¡es mucho más fácil darle vida a tu imaginación a través del arte! Los pinceles y la tinta mágicos le permiten a un pictomancer expresar ideas abstractas de forma deliberada, kupo.
+TEXT_KINGBB202_04855_KUPOPO_000_004	Pero, como te dije, al final lo que más importa es tu imaginación. ¡Porque con la sabiduría de los pictomancers del pasado a tu disposición, ya tienes las habilidades artísticas que necesitas!
+TEXT_KINGBB202_04855_KUPOPO_000_005	Ahora, por mucho que me gustaría que te pusieras a pintar enseguida, hay algo que debemos hacer primero.
+TEXT_KINGBB202_04855_KUPOPO_000_006	Tenemos que ir al Nophica's Altar a pedirle disculpas al Oidor que mencionaste, y cuando digo "tenemos", quiero decir yo. ¡En marcha, kupo!
+TEXT_KINGBB202_04855_CONJURER04854_000_010	\<suspiro> Por el amor de los elementales, no más quejas...
+TEXT_KINGBB202_04855_CONJURER04854_000_011	¡Ah! Disculpe, <if(gnum4,aventurera,aventurero)>. Ese moogle de ahí... ¿será acaso...?
+TEXT_KINGBB202_04855_KUPOPO_000_012	Así es, soy el que le causó tantos problemas. No era mi intención, y vengo a pedirle perdón, kupo...
+TEXT_KINGBB202_04855_CONJURER04854_000_013	Ah, ya veo... Como parece arrepentido de verdad, solo le pido que de ahora en adelante se abstenga de hacer campañas tan agresivas. ¿De acuerdo?
+TEXT_KINGBB202_04855_KUPOPO_000_014	¡Tiene mi palabra, kupo! Ahora que encontré a <if(gnum4,una pictomancer capaz,un pictomancer capaz)>, mis días de campaña se terminaron.
+TEXT_KINGBB202_04855_CONJURER04854_000_015	Me alivia oírlo. Con este asunto resuelto, puedo ocuparme de otra situación...
+TEXT_KINGBB202_04855_KUPOPO_000_016	¿Eh? ¿Y qué situación es esa?
+TEXT_KINGBB202_04855_CONJURER04854_000_017	Unos ruidos inquietantes que salen de una mansión vacía del Gentry's Ward. Se cree que hay criaturas rondando el sótano, y su escándalo nocturno no deja dormir a los vecinos...
+TEXT_KINGBB202_04855_KUPOPO_000_018	¿Criaturas, dice...? ¡<split(<string(gstr1)>, ,1)> se encargará de ellas, kupo!
+TEXT_KINGBB202_04855_KUPOPO_000_019	Recuerda: el espíritu del pictomancer es echar una mano. ¡Hacer brillar la luz de la esperanza para quienes la necesitan!
+TEXT_KINGBB202_04855_KUPOPO_000_020	Además, es una buena oportunidad para poner a prueba tus nuevas habilidades. ¡Tranquil<if(gnum4,a,o)>, que estaré ahí para darte sabios consejos en cada aleteo del camino!
+TEXT_KINGBB202_04855_CONJURER04854_000_021	Es muy amable su ofrecimiento de ayuda, y lo acepto con gratitud. El Gentry's Ward queda justo pasando las Apkallu Falls; vayan allí cuando estén listos.
+TEXT_KINGBB202_04855_KUPOPO_000_022	Y listos estamos, ¿verdad, <split(<string(gstr1)>, ,1)>? ¡Que empiece el entrenamiento de pictomancia, kupo!
+TEXT_KINGBB202_04855_SYSTEM_000_023	Aprendiste todas las acciones y rasgos de pictomancer hasta el nivel 80. Puedes ver sus descripciones detalladas en la ventana <colortype(500)><edgecolortype(501)>Actions & Traits<edgecolortype(0)><colortype(0)>, en <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)>, dentro del menú principal.
+TEXT_KINGBB202_04855_CONJURER04854_000_025	Gracias otra vez, y cuídense...
+TEXT_KINGBB202_04855_KUPOPO_000_030	¡El Gentry's Ward está pasando esas puertas! ¿List<if(gnum4,a,o)> para poner a prueba tus habilidades, kupo?
+TEXT_KINGBB202_04855_Q1_000_000	¿Qué dices?
+TEXT_KINGBB202_04855_A1_000_001	¡Estoy list<if(gnum4,a,o)> para pintar una tormenta!
+TEXT_KINGBB202_04855_A1_000_002	Necesito un momento para terminar de prepararme...
+TEXT_KINGBB202_04855_KUPOPO_000_032	¡Excelente! ¡Hora de limpiar esa mansión, kupo!
+TEXT_KINGBB202_04855_KUPOPO_000_033	Muy bien, ¡pero no tardes mucho, kupo!
+TEXT_KINGBB202_04855_KUPOPO_000_040	¡Bien hecho, <split(<string(gstr1)>, ,1)>! ¡Desde el principio supe que serías <if(gnum4,una pictomancer excelente,un pictomancer excelente)>!
+TEXT_KINGBB202_04855_Q2_000_000	¿Qué dices?
+TEXT_KINGBB202_04855_A2_000_001	Se lo debo al soul crystal.
+TEXT_KINGBB202_04855_A2_000_002	¿Qué puedo decir? Soy buen<if(gnum4,a,o)>.
+TEXT_KINGBB202_04855_A2_000_003	¿De <italic(1)>verdad<italic(0)> lo supiste?
+TEXT_KINGBB202_04855_KUPOPO_000_042	Tanto talento, y sigues siendo tan humilde... ¡Me quito el pompón ante ti, kupo!
+TEXT_KINGBB202_04855_KUPOPO_000_043	¡Claro que sí, amig<if(gnum4,a,o)>! ¡Y el mérito también es mío por descubrir tu talento!
+TEXT_KINGBB202_04855_KUPOPO_000_044	¡C-Claro que lo supe! ¡Palabra de moogle!
+TEXT_KINGBB202_04855_KUPOPO_000_045	En fin, ahora que esas criaturas escandalosas se fueron para siempre, los vecinos podrán descansar tranquilos otra vez.
+TEXT_KINGBB202_04855_KUPOPO_000_046	Pero vamos, salgamos de aquí: la humedad no le sienta bien a mi pelaje.
+TEXT_KINGBB202_04855_KUPOPO_000_050	¡Permíteme felicitarte por tu primera salida exitosa, <split(<string(gstr1)>, ,1)>! Los pictomancers de antaño estarían orgullosos.
+TEXT_KINGBB202_04855_KUPOPO_000_051	Puede que aún seas novat<if(gnum4,a,o)> en este arte, pero como aventurer<if(gnum4,a,o)> veteran<if(gnum4,a,o)> aprendiste lo fundamental muy rápido. ¡Como debe ser, kupo!
+TEXT_KINGBB202_04855_KUPOPO_000_052	¡La Archon Relm no animaba a sus discípulos a recorrer la estrella solo para divertirse!
+TEXT_KINGBB202_04855_KUPOPO_000_053	Quería que conocieran a fondo el mundo. Que viajaran a tierras desconocidas y saborearan cada descubrimiento. Que se deleitaran con las sensaciones, con las emociones... y sí, hasta con el peligro.
+TEXT_KINGBB202_04855_KUPOPO_000_054	¡Porque estas experiencias enriquecen la paleta de la imaginación, y hacen que la pictomancia sea todavía más vibrante, kupo!
+TEXT_KINGBB202_04855_CONJURER04854_000_055	¡Volvieron!
+TEXT_KINGBB202_04855_CONJURER04854_000_056	Empecé a preocuparme y vine a ver si todo estaba bien. ¿Me atrevo a esperar que se hayan encargado de las criaturas?
+TEXT_KINGBB202_04855_CONJURER04854_000_057	(-Oidor alegre-)¡Maravilloso, maravilloso! Con esto se resolvieron todos los asuntos pendientes, y al igual que los vecinos del Gentry's Ward, yo también podré volver a dormir tranquilo...
+TEXT_KINGBB202_04855_CONJURER04854_000_058	(-Oidor alegre-)Tienen mi más sincera gratitud. Que la Matron los proteja dondequiera que vayan.
+TEXT_KINGBB202_04855_KUPOPO_000_059	¿Viste lo feliz que lo hicimos? ¡Ese es el poder de la pictomancia!
+TEXT_KINGBB202_04855_KUPOPO_000_060	¡Y esto es solo el principio! Como parte de tu entrenamiento, tú y yo viajaremos por todas partes buscando a quienes nos necesiten, ¡igual que hizo la Archon Relm!
+TEXT_KINGBB202_04855_KUPOPO_000_061	Pero tampoco debes olvidar nuestra promesa. Antes de ponernos en camino, me gustaría averiguar si la gente de aquí sabe algo de mi amiga... Mientras tanto, ¡te pido que te dediques a pulir tus habilidades, kupo!

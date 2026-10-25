@@ -1,0 +1,81 @@
+key	text
+TEXT_JOBRDM501_02577_SEQ_00	X'rhun quiere enseñarte los orígenes de la magia roja.
+TEXT_JOBRDM501_02577_SEQ_01	X'rhun te da una breve lección sobre los orígenes de la magia roja: el arte se fundó sobre las escuelas de la magia negra y la blanca, como un medio para sobrevivir al mismo desastre que esas antiguas disciplinas habían causado. Pero, consciente de que una lección de historia no reemplaza la experiencia práctica, X'rhun sugiere que tratar de descubrir quiénes son los secuestradores podría darte la práctica de combate que necesitas. Sigue al Crimson Duelist hasta la Church of Saint Adama Landama, en Eastern Thanalan.
+TEXT_JOBRDM501_02577_SEQ_02	Te reúnes con X'rhun en la iglesia y hablas con el padre Iliud sobre los inquietantes hechiceros que atacaron a las hermanas a pocos yalms de las puertas de Ul'dah. Aunque no puede identificar al grupo, el padre Iliud parece reconocer la naturaleza de los tatuajes de los secuestradores: dice que son sellos malditos que borran la voluntad de quien los lleva. Después de pedirle al padre que siga investigando, X'rhun te pide que lo sigas afuera. Aunque lo dice en tono juguetón, sus palabras dan a entender que más te vale prepararte para pelear...
+TEXT_JOBRDM501_02577_SEQ_03	Al salir de la iglesia descubres que el misterioso grupo te venía siguiendo. Después de un intento fallido de X'rhun por parlamentar, pronto te ves envuelt<if(gnum4,a,o)> en una larga pelea contra los sectarios y sus secuaces. Tus implacables enemigos no muestran miedo ni remordimiento, y su líder se sacrifica sin dudarlo para invocar a un monstruoso void hound. Aun así, al final tu recién adquirida magia roja triunfa sobre la enorme bestia. Habla con X'rhun sobre lo que dejó la pelea.
+TEXT_JOBRDM501_02577_SEQ_04	X'rhun se agacha junto al cadáver de una de las atacantes y estudia el sello maldito de su mejilla. Jura dar caza al vil titiritero detrás de este acto abominable y te pide que vuelvas al cementerio de la iglesia.
+TEXT_JOBRDM501_02577_SEQ_05	De vuelta en la iglesia, X'rhun te cuenta cómo se formaron los Crimson Duelists y su fallida cruzada contra el tiránico rey Theodoric. Pese a haber perdido a sus compañeros, el red mage parece firme en su decisión de defender a los débiles y el bien común. Si quieres seguir estudiando magia roja a su lado, parece que tú también tendrás que estar dispuest<if(gnum4,a,o)> a recorrer este camino sin concesiones.<br><br>※La siguiente misión de red mage estará disponible con X'rhun Tia al llegar al nivel 52.
+TEXT_JOBRDM501_02577_TODO_00	Reúnete con X'rhun Tia en la Church of Saint Adama Landama.
+TEXT_JOBRDM501_02577_TODO_01	Habla con X'rhun Tia.
+TEXT_JOBRDM501_02577_TODO_02	Habla con X'rhun Tia.
+TEXT_JOBRDM501_02577_TODO_03	Habla con X'rhun Tia.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_030	Ah, por el brillo de tus ojos veo que el soul crystal te entregó sus secretos. Bienvenid<if(gnum4,a,o)> a las filas de los red mages.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_031	El arte que practicamos tiene un origen noble. Sus energías, equilibradas y controladas, se usaron alguna vez para detener la marea de destrucción y recuperar un futuro para los desposeídos.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_032	Hablo de la época, hace unos mil quinientos años, en que el choque de dos civilizaciones hechiceras provocó la Calamidad de la Sexta Era Umbral.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_033	Antes de que subieran las grandes inundaciones, la gente huyó de sus hogares hacia las montañas de Gyr Abania. Entre los refugiados había incluso magos de Mhach y de Amdapor.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_034	Estos practicantes de la hechicería se volvieron blanco de represalias por su papel en romper el equilibrio natural, y pronto abandonaron sus túnicas negras y sus vestiduras blancas. Pero si la gente quería sobrevivir y reconstruir después del desastre, iba a necesitar el poder de lo arcano.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_035	Así se reinventaron los principios de la magia negra y la blanca, y sobre sus bases combinadas se construyó una disciplina completamente nueva: la magia roja.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_036	Ah, pero ya hablé bastante de la historia. ¡Es mucho mejor que conozcas la magia roja en carne propia! Todavía queda el misterio de quién mandó a los secuestradores tras esas pobres niñas, y tengo el presentimiento de que buscar al culpable te dará la práctica de combate que necesitas.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_037	Pero antes de lanzarnos a la pelea, quiero hacer unas preguntas. Ven conmigo a Eastern Thanalan, a la Church of Saint Adama Landama.
+TEXT_JOBRDM501_02577_ILIUD_000_050	¿Así que eres aprendiz de X'rhun Tia? Creo que el camino del red mage te resultará difícil, pero gratificante.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_060	¡<split(<string(gstr1)>, ,1)>, ahí estás! Te presentaría al padre Iliud, pero creo que ya se conocen.
+TEXT_JOBRDM501_02577_XRHUNTIA_100_060	¡<split(<string(gstr1)>, ,1)>, ahí estás! ¿Me permites presentarte al padre Iliud?
+TEXT_JOBRDM501_02577_ILIUD_000_061	X'rhun me contó una historia de hechiceros malvados y su intento de secuestrar a dos niñas. Y quieres preguntarme si conozco a ese grupo de taumaturgos, ¿verdad?
+TEXT_JOBRDM501_02577_ILIUD_000_062	Se me ocurren varias sectas así, pero necesito más detalles. ¿Dices que todos sus miembros tenían algunos rasgos bastante inusuales...?
+TEXT_JOBRDM501_02577_XRHUNTIA_000_063	Así es. No dijeron una sola palabra en todo el enfrentamiento; ni un cambio de expresión cuando les pedí que se rindieran. Además, todos parecían llevar una especie de tatuaje: un sello que latía con energía arcana...
+TEXT_JOBRDM501_02577_ILIUD_000_064	Ah, una práctica malvada. Se sabe que esos sellos malditos destruyen la voluntad de quien los lleva y lo convierten en un títere dócil que actúa más o menos como lo describes. No hay salvación para esas pobres criaturas.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_065	Entonces hay que buscar a los desalmados que mueven los hilos. Te pido que averigües lo que puedas de ese grupo y de su propósito, padre.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_066	<split(<string(gstr1)>, ,1)>, tenemos otra tarea pendiente. ¿Te sugiero que estires un poco antes de salir? ¡Pronto vas a entender por qué!
+TEXT_JOBRDM501_02577_SYSTEM_000_067	Aprendiste todas las acciones y rasgos de red mage hasta el nivel 50. Puedes ver descripciones detalladas en la ventana <colortype(500)><edgecolortype(501)>Actions & Traits<edgecolortype(0)><colortype(0)>, a la que se accede desde <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)> en el menú principal.
+TEXT_JOBRDM501_02577_ILIUD_000_070	X'rhun te espera fuera de la iglesia. Lo dijo en tono juguetón, pero te pido que tomes en serio su sugerencia y te prepares para pelear.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_090	¿Notaste que nos venían siguiendo, <split(<string(gstr1)>, ,1)>? El mismo grupo que investigamos parece haberse interesado en nosotros.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_091	Presiento una emboscada. ¿Quizás quieren hacernos callar?
+TEXT_JOBRDM501_02577_XRHUNTIA_000_092	¡Bueno, que lo intenten! Será la oportunidad perfecta para que pruebes tus nuevas habilidades. Pero primero, una breve lección.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_093	Los hechizos de un red mage pertenecen a dos escuelas distintas, ya que tienen sus raíces en las antiguas disciplinas de la magia negra y la blanca.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_094	Entrelazadas, forman el núcleo sólido de la magia roja, y lanzando ambas disciplinas de forma equilibrada un red mage puede levantar esa base cada vez más alto.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_095	Cuando tu fuerza llega a su punto máximo, ¡ese es el momento de lanzarte hacia adelante y desatar las energías que vibran en tu hoja! Y después saltas hacia atrás y vuelves al primer paso. ¡Es un baile, amig<if(gnum4,a,o)>!
+TEXT_JOBRDM501_02577_XRHUNTIA_000_096	¡Salgan, salgan, donde sea que estén! No tenemos intención de huir ni de escondernos de ustedes.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_097	Llevo una espada, como ven, pero no soy amigo de la violencia. ¿No habrá forma de parlamentar en vez de derramar sangre?
+TEXT_JOBRDM501_02577_XRHUNTIA_000_098	...Qué inquietante.<br>Bueno, <split(<string(gstr1)>, ,1)>, parece que vas a tener tu pelea. ¡Recuerda lo que te enseñé!
+TEXT_JOBRDM501_02577_QIB_001_TODO_01	¡Derrota a los atacantes!
+TEXT_JOBRDM501_02577_QIB_001_TODO_02	¡Derrota al enemigo!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_01	¡Empieza por lo básico!<br>¡Lanza magia negra y blanca de la forma más pareja posible!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_02	Hmph. Ahora mandan a otro.<br>No esperaban que sobreviviéramos al primer ataque.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_120	Estos títeres deben tener un líder escondido cerca. Llevemos la pelea a nuestros atacantes, ¿te parece?
+TEXT_JOBRDM501_02577_XRHUNTIA_000_121	...Ah, pero antes de seguir con la cacería, asegurémonos de tu técnica. Como red mage, puedes lanzar dos hechizos seguidos gracias a lo que se conoce como el efecto "Dualcast".
+TEXT_JOBRDM501_02577_XRHUNTIA_000_122	Recita un hechizo corto y verás que un conjuro largo se puede lanzar al instante. ¡Aprovecha esta técnica para bombardear a tus enemigos con destrucción arcana!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_03	¡Recuerda! ¡Equilibra el negro y el blanco y aprovecha al máximo el Dualcast!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_04	¿Qué tenemos aquí?<br>¿Un orbe de aether perdido?
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_05	¿Otro orbe?<br>...¡Ah, los caídos les mandan aether a sus aliados!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_06	¡Sigue la esfera!<br>¡Nos llevará al origen de esta emboscada!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_07	El aether de los caídos...<br>¡Reunido con algún propósito oscuro, apuesto!
+TEXT_JOBRDM501_02577_QIB_001_THAUMATURGE02576_BATTLETALK_08	¡Sabueso del reino del inframundo, acepta este festín de almas! ¡Que nuestras vidas sirvan de pago por la destrucción de nuestro enemigo!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_09	¿Se sacrificó ante ese perro demoníaco solo para matarnos <italic(1)>a nosotros<italic(0)>? Me sentiría halagado si no estuviera tan horrorizado. ¡Cuidado con esos colmillos!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_10	¡Sí, así se hace!<br>¡Ahora canaliza ese poder a través de tu hoja!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_11	¡Tus energías están desequilibradas!<br>¡Combina el negro y el blanco por igual para aumentar tu fuerza!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_12	¡Buen golpe! ¡Sentí la potencia de tus ataques desde aquí!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_13	¡Mantente lejos del aether que escupe!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_14	¡Tus energías se acercan a su punto máximo!<br>¡Busca una abertura y clava tu hoja!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_15	¡Equilibra tus hechizos! ¡Negro y blanco! ¡No puedes potenciar tu hoja si lanzas de forma desigual!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_16	¡Impresionante!<br>¡Naciste para vestir el rojo!
+TEXT_JOBRDM501_02577_QIB_001_XRHUNTIA_BATTLETALK_DEAD	No... sobreviví tanto tiempo... para...
+TEXT_JOBRDM501_02577_XRHUNTIA_000_180	Bien hecho, <split(<string(gstr1)>, ,1)>. ¡Superaste mis expectativas!
+TEXT_JOBRDM501_02577_XRHUNTIA_000_181	...Y menos mal, porque no esperaba la llegada de ese sabueso temible. Estos magos estaban dispuestos a perder la vida con tal de que nosotros perdiéramos la nuestra...
+TEXT_JOBRDM501_02577_XRHUNTIA_000_182	¿Lo ves? ¿La marca de su mejilla izquierda? Este es el sello maldito que le robó la voluntad y la dejó a merced de las órdenes más atroces.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_183	Nuestros atacantes eran todos jóvenes, hombres y mujeres; todos convertidos en peones sin mente por algún amo oculto.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_184	Y ese amo no tiene ningún reparo en sacrificar a las piezas que ya no le sirven. No, esto no puede quedar así.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_185	Escúchame, <split(<string(gstr1)>, ,1)>. Empezaste tu formación en la magia roja, pero hay mucho más que quiero enseñarte. Ven, volvamos al cementerio.
+TEXT_JOBRDM501_02577_ILIUD_000_200	Parece que el estruendo de la pelea se calmó. No voy a aconsejarle prudencia a alguien con tu experiencia, pero te ruego que al menos consideres entrar al peligro con un trote atento en vez de una carga a ciegas...
+TEXT_JOBRDM501_02577_XRHUNTIA_000_210	...¿Conoces la historia de estas tumbas?
+TEXT_JOBRDM501_02577_XRHUNTIA_000_211	El cementerio de la iglesia es el último lugar de descanso de muchas víctimas de la Calamidad de la Séptima Era Umbral. La magia roja se concibió para detener esas mareas de destrucción, en una época en que el abuso de la hechicería inundó el mundo de muerte.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_212	Lo que la distingue de las disciplinas anteriores es clave: mientras que quienes practican la magia negra y la blanca recurren al aether del entorno, un red mage teje sus hechizos usando solo las reservas de mana con las que nació. En la época en que se creó la magia roja, hacerlo de otra forma estaba prohibido.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_213	Para lograr efectos más poderosos, los primeros red mages adoptaron un método en el que técnicas de espada precisas aprovechaban y amplificaban la energía de sus conjuros: el propio cuerpo del mago servía de acelerador arcano. Una forma ingeniosa de respetar los límites que se habían impuesto.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_214	Entiende que la hoja que empuñamos no es solo un arma: ¡es el centro de todos nuestros esfuerzos por aliviar el conflicto y el sufrimiento!
+TEXT_JOBRDM501_02577_XRHUNTIA_000_215	Cada generación de red mages es parte de una batalla sin fin. Somos soldados que luchan por quienes sufren la violencia y la opresión, el baluarte contra los crueles caprichos del destino.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_216	...Hace veinte años me uní a los revolucionarios de Ala Mhigo y aprendí la magia roja junto a compañeros que pensaban como yo. Formamos los Crimson Duelists, y juntos nos alzamos contra la tiranía del rey loco Theodoric.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_220	...Nos aplastaron. De todos los Duelists, solo yo sobreviví para ver a nuestra patria languidecer bajo el dominio de los invasores imperiales. Hasta que tú llegaste, claro.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_230	...Nos aplastaron. De todos los Duelists, solo yo sobreviví para ver a nuestra patria languidecer bajo el dominio de los invasores imperiales.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_241	Incluso después de dejar Ala Mhigo, nunca dejé de luchar por su liberación. Y cuando supe de la Calamidad, de la amenaza contra todas las tierras de Eorzea, me alié con los valientes eruditos de Sharlayan.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_242	Al final, no pude proteger mi patria ni detener el desastre de fuego que se acercaba. Pero en todos estos años nunca traicioné el juramento de los Duelists de defender a los débiles con el corazón y el acero.
+TEXT_JOBRDM501_02577_XRHUNTIA_000_244	...Así es la magia que vas a aprender de este tonto idealista. Pero si quieres dominar este arte, ¡mi camino será <italic(1)>tu<italic(0)> camino mientras dure tu formación!
+TEXT_JOBRDM501_02577_XRHUNTIA_000_245	Por ahora me quedaré aquí en la iglesia, y seré una molestia para el buen padre Iliud hasta que descubramos el origen de esta secta. ¡Tu única tarea será reflexionar sobre las lecciones de hoy y prepararte para nuestro próximo encuentro!

@@ -5,7 +5,9 @@ using Dalamud.Game.Addon.Lifecycle;
 using Dalamud.Game.Addon.Lifecycle.AddonArgTypes;
 using Dalamud.Plugin.Services;
 using Dalamud.Utility;
+using FFXIVClientStructs.FFXIV.Client.UI.Misc;
 using FFXIVClientStructs.FFXIV.Component.GUI;
+using FFXIVClientStructs.FFXIV.Component.Text;
 using Lumina.Excel;
 using Lumina.Text.ReadOnly;
 
@@ -79,6 +81,25 @@ public sealed unsafe class Msq : IDisposable
 
     private void Reset() => table = null;
 
+    // Login fires on the loading screen, before the game fills the character's global parameters
+    // (Grand Company ranks, gnum52–54): a table built then resolves them as 0, misses those lines
+    // and floods /xllog with "uninitialized global parameter". Until then only the plain labels apply.
+    private Dictionary<string, ReadOnlySeString> Lookup()
+    {
+        if (table is not null)
+            return table;
+
+        var module = RaptureTextModule.Instance();
+
+        if (!clientState.IsLoggedIn || module is null)
+            return lobby ??= Plain([]);
+
+        ref var parameters = ref module->TextModule.MacroDecoder.GlobalParameters;
+        var ready = parameters.LongCount > 51 && parameters[51].Type != TextParameterType.Uninitialized;
+
+        return ready ? table = Build() : lobby ??= Plain([]);
+    }
+
     private void OnAddon(AddonEvent type, AddonArgs args)
     {
         if (!enabled())
@@ -97,7 +118,7 @@ public sealed unsafe class Msq : IDisposable
                 return;
 
             var values = (AtkValue*)address;
-            var lookup = clientState.IsLoggedIn ? table ??= Build() : lobby ??= Plain([]);
+            var lookup = Lookup();
 
             for (var i = 0; i < count; i++)
             {
@@ -143,7 +164,7 @@ public sealed unsafe class Msq : IDisposable
         try
         {
             var strings = AtkStage.Instance()->GetStringArrayData(Arrays[args.AddonName]);
-            table ??= Build();
+            var table = Lookup();
 
             for (var i = 0; strings is not null && i < strings->Size; i++)
             {

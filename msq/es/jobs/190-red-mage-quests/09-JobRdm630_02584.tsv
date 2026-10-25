@@ -1,0 +1,78 @@
+key	text
+TEXT_JOBRDM630_02584_SEQ_00	X'rhun propone un viaje a la cuna de la magia roja.
+TEXT_JOBRDM630_02584_SEQ_01	X'rhun propone un viaje a las montañas de Gyr Abania, donde visitarán el Ziggurat que construyeron los red mages de antaño. Dentro de ese antiguo edificio, tu mentor espera encontrar pistas para tratar la condición de Arya, igual que hace mucho tiempo desenterró junto a Lambard los secretos de la magia roja. Viaja a la región de Gyr Abania y reúnete con X'rhun cerca del monumento centenario.
+TEXT_JOBRDM630_02584_SEQ_02	Te encuentras con X'rhun cerca del Ziggurat, y después de una breve lección de historia te pone a buscar registros del ritual de transformación de Lambard. Entra en las ruinas y busca las tablillas de piedra que queden.
+TEXT_JOBRDM630_02584_SEQ_03	Conseguiste tres tablillas de piedra en distintos estados de deterioro. Entrégaselas a X'rhun Tia.
+TEXT_JOBRDM630_02584_SEQ_04	X'rhun echa un vistazo a las tablillas que trajiste y encuentra una que describe un rito en el que un mago ingería la sangre de un voidsent a cambio de un poder sobrenatural. La descripción del hambre que sufrían esos magos se parece asombrosamente a la condición de Arya. Convencido de que el tónico explicado en la misma tablilla debería aliviar el sufrimiento de tu compañera, X'rhun te pide que consigas el ingrediente principal del brebaje: el núcleo de un urolith enorme. Ve a los Sleeping Stones y enfrenta al ejemplar más grande que encuentres.
+TEXT_JOBRDM630_02584_SEQ_05	Derrotaste a un unbreakable urolith y le sacaste su núcleo palpitante. Busca a X'rhun Tia en la aldea de Ala Gannha, en Gyr Abania, y entrégale el ingrediente.
+TEXT_JOBRDM630_02584_SEQ_06	Con los materiales del tónico en la mano, X'rhun parece ansioso por recurrir a la experiencia de los alquimistas de Ul'dah. Mientras tu mentor se ocupa de que preparen el brebaje, vuelve a Idyllshire y cuéntale a Arya cómo van.
+TEXT_JOBRDM630_02584_SEQ_07	Al beber la mezcla alquímica, Arya parece recuperarse casi de inmediato de su debilidad. Pero X'rhun se apresura a recordarle que cualquier esfuerzo arcano podría devolverla pronto a un estado de hambre sin mente. Sigue afinando tus propias habilidades para ayudar mejor a Arya a retomar su querido camino de red mage.<br><br>※La siguiente misión de red mage estará disponible con X'rhun al llegar al nivel 65.
+TEXT_JOBRDM630_02584_TODO_00	Habla con X'rhun Tia cerca del Ziggurat.
+TEXT_JOBRDM630_02584_TODO_01	Consigue tablillas de piedra.
+TEXT_JOBRDM630_02584_TODO_02	Entrégale las tablillas de piedra a X'rhun Tia.
+TEXT_JOBRDM630_02584_TODO_03	Explora la zona y derrota a un unbreakable urolith para obtener su núcleo.
+TEXT_JOBRDM630_02584_TODO_04	Entrégale el núcleo de urolith enorme a X'rhun Tia.
+TEXT_JOBRDM630_02584_TODO_05	Habla con Arya en Idyllshire.
+TEXT_JOBRDM630_02584_ARYA_000_000	Decidí no dejar que esto me afecte. Como dice X'rhun, sigo teniendo el control de quién soy.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_030	¿Estás list<if(gnum4,a,o)> para partir? El viaje que tengo en mente nos llevará a las montañas de Gyr Abania, donde visitaremos el Ziggurat que construyeron los red mages de antaño.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_031	Lambard y yo exploramos alguna vez esas ruinas antiguas, en busca de conocimientos sobre la primera forma de la magia roja. Eso fue hace mucho, antes de conocer a Curtis y unirnos a la revolución...
+TEXT_JOBRDM630_02584_XRHUNTIA_100_031	Lambard y yo exploramos alguna vez esas ruinas antiguas, en busca de conocimientos sobre la primera forma de la magia roja. Eso fue hace mucho, antes de formar los Crimson Duelists y unirnos a la revolución...
+TEXT_JOBRDM630_02584_XRHUNTIA_200_031	...Antes de darme cuenta de qué clase de sabiduría oculta buscaba Lambard en realidad.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_032	Ahora el edificio está invadido por los qiqirn, pero una expedición minuciosa todavía podría desenterrar algo valioso; quizás hasta los secretos detrás de la transformación oculta de Lambard.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_033	Arya, amiga mía, tengo que pedirte que te quedes aquí y sigas con tu convalecencia. ¡Y nada de hechizos!
+TEXT_JOBRDM630_02584_XRHUNTIA_000_034	Ni una llamita para encender una vela. En tu estado tan débil, no sabemos con qué rapidez podría volver el hambre.
+TEXT_JOBRDM630_02584_ARYA_000_035	Sí, claro. Con solo pensar en lo que podría pasar ya me siento mal...
+TEXT_JOBRDM630_02584_ARYA_000_036	Yo voy a estar bien en mi cama, pero ¿y ustedes dos? ¿De verdad van a viajar hasta Gyr Abania solo por mí?
+TEXT_JOBRDM630_02584_XRHUNTIA_000_037	¿Qué harías si fuera al revés? ¿Si <split(<string(gstr1)>, ,1)> sufriera una condición y supieras que más allá de las montañas podría haber una cura? ¿Entonces qué?
+TEXT_JOBRDM630_02584_ARYA_000_038	¡Pues saldría por la puerta en un instante!
+TEXT_JOBRDM630_02584_Q1_000_050	¿Qué vas a decir?
+TEXT_JOBRDM630_02584_A1_000_051	Gracias, Arya.
+TEXT_JOBRDM630_02584_A1_000_052	¿En serio...?
+TEXT_JOBRDM630_02584_XRHUNTIA_000_060	¡Jajaja! ¡Que respondas con tanta convicción es la razón por la que no dudamos en hacer lo mismo por ti!
+TEXT_JOBRDM630_02584_XRHUNTIA_000_070	¡Jajaja! ¡Ni la menor duda! Hasta dejaste descolocad<if(gnum4,a,o)> a <split(<string(gstr1)>, ,1)>.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_071	¡Que respondas con tanta convicción es la razón por la que no dudamos en hacer lo mismo por ti!
+TEXT_JOBRDM630_02584_XRHUNTIA_000_080	Arya se esforzó tanto por dominar sus habilidades que me imagino que le costará dejar de entrenar por un tiempo. Pero antes que nada tiene que recuperarse de su agotamiento.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_081	Vamos, <split(<string(gstr1)>, ,1)>: el Ziggurat nos espera. Descansa bien, Arya. Volveremos lo antes posible.
+TEXT_JOBRDM630_02584_ARYA_000_100	Odio ser la causa de tantos problemas...<br>Y odio sentirme todavía tan débil. Prometo quedarme en cama como una niña buena hasta recuperarme del todo.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_120	Empecemos nuestra expedición, ¿te parece? Atent<if(gnum4,a,o)> a las tablillas de piedra con las historias del rojo.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_121	¿Te mencioné que fueron nuestros antepasados en el arte quienes construyeron el Ziggurat? Se construyó para calmar el clima inestable que desató la Calamidad de esa época: una especie de peso amortiguador que reducía a un hilo las violentas corrientes de aether de la tierra.
+TEXT_JOBRDM630_02584_XRHUNTIA_100_121	Pero, con el tiempo, el Ziggurat también se volvió una biblioteca, donde generación tras generación de red mages guardaron sus historias y sus secretos. Es una lástima que tantas de esas preciosas tablillas se hayan perdido a manos de saqueadores, o simplemente se hayan desgastado con el paso del tiempo...
+TEXT_JOBRDM630_02584_XRHUNTIA_000_122	Por eso, no espero encontrar un registro completo del espantoso rito de Lambard, pero al menos deberíamos descubrir pistas de en qué consiste el ritual de transformación. Tú ve por un lado y yo por otro, ¡y los dos tengamos cuidado de no caer en manos de bandidos qiqirn!
+TEXT_JOBRDM630_02584_XRHUNTIA_000_150	¿Cómo te fue? Yo descubrí varias tablillas que, aunque son de lo más fascinantes, dicen poco sobre rituales ocultos...
+TEXT_JOBRDM630_02584_XRHUNTIA_000_160	¡Ajá! Si estoy leyendo bien esta, puede que hayas encontrado justo lo que buscábamos.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_161	Parece un registro de una época anterior a que la magia roja se unificara como disciplina propia. El pasaje describe un rito con el que se puede hacer un pacto con un voidsent e ingerir su sangre a cambio de un poder sobrenatural.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_162	Incluso entre los suyos, ciertas criaturas del vacío tienen un apetito voraz de aether vivo. Lambard debe haber obtenido de uno de esos demonios la capacidad de absorber la fuerza vital de sus víctimas...
+TEXT_JOBRDM630_02584_XRHUNTIA_000_163	Se dice que esa práctica empezó con una familia de hechiceros de Mhach, que vivió en la época anterior a la Calamidad de la Sexta Era Umbral. Para los red mages, cuyas artes dependen tanto de su propio aether, robarle a un enemigo su energía vital tiene una ventaja obvia, aunque desagradable.
+TEXT_JOBRDM630_02584_XRHUNTIA_100_163	Y si uno puede usar esas energías para fortalecer y sostener su propio cuerpo, como hizo Lambard, puede incluso usar magias más allá de los límites de los simples mortales.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_164	Pero, como era de esperar, como solía dejar locos hambrientos de aether, el rito terminó declarándose un arte prohibido.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_165	Hmmm. Hay más... Algo sobre un brebaje alquímico que servía para saciar el hambre de aether cuando no había presas vivas a mano. ¡Y el amable escriba hasta incluyó cómo prepararlo!
+TEXT_JOBRDM630_02584_XRHUNTIA_000_166	La transformación de Arya fue asombrosamente parecida a la de Lambard. ¡Seguro que este brebaje también sería eficaz para frenar su condición!
+TEXT_JOBRDM630_02584_XRHUNTIA_000_167	A ver. Parece que el ingrediente principal es un trozo de aether semicristalizado. Una sustancia así se podría sacar del núcleo de un urolith, y me parece que mientras más grande, mejor.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_168	Si mal no recuerdo, hay uroliths al este, cerca de los Sleeping Stones. Te pido que busques uno de los ejemplares más grandes y consigas un núcleo aetherial.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_169	Cuando tengas lo que necesitamos, nos encontramos en la aldea de Ala Gannha. Yo me ocuparé de reunir los demás ingredientes.
+TEXT_JOBRDM630_02584_ARYA_000_180	Oh, ¿¡encontraron algo que podría explicar mi condición!? ¡Qué maravilla, gracias! Espero que podamos revertir... lo que sea esto.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_210	¿Lograste conseguir un núcleo adecuado?
+TEXT_JOBRDM630_02584_XRHUNTIA_000_220	¡Ah, sí, este servirá muy bien! Alcanza para una dosis decente, en todo caso.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_221	Ya reuní los demás ingredientes, así que solo queda ponerlos en manos de un alquimista experimentado.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_222	Ah, pero Arya debe estar preguntándose dónde andamos. ¿Por qué no te adelantas a Idyllshire y le cuentas cómo vamos? ¡Te alcanzo allá en cuanto termine de regatear con los preparadores de pociones de Ul'dah!
+TEXT_JOBRDM630_02584_ARYA_000_270	¿Una especie de poción? ¿Y se supone que ayuda con el hambre? Entonces será una preocupación menos...
+TEXT_JOBRDM630_02584_ARYA_000_271	¿Cree que X'rhun volverá pronto...?
+TEXT_JOBRDM630_02584_XRHUNTIA_000_280	¡Ya volví!
+TEXT_JOBRDM630_02584_XRHUNTIA_000_281	Arya, por favor, bébete este brebaje, y te cuento lo que descubrimos en Gyr Abania.
+TEXT_JOBRDM630_02584_ARYA_000_282	Yo... ¡Por los dioses!
+TEXT_JOBRDM630_02584_ARYA_100_282	El sabor no era muy agradable que digamos, ¡pero ya me siento mucho mejor! Es como si hubieran echado un chorro de agua fresca sobre el fuego que tenía en el pecho... ¡No sé cómo agradecerles!
+TEXT_JOBRDM630_02584_XRHUNTIA_000_283	Tu sonrisa es la mejor recompensa que podríamos pedir. Pero te pido que no te confíes: ese tónico solo sirve para ayudar a reponer tu aether agotado. No hace nada para deshacer el mal de fondo.
+TEXT_JOBRDM630_02584_ARYA_000_284	Entiendo. Si vuelvo a agotar mi mana, volveré a estar como antes: una salvaje controlada por el hambre. Lo que quiere decir que, por ahora, todavía tengo que dejar de entrenar...
+TEXT_JOBRDM630_02584_XRHUNTIA_000_285	...Por ahora.
+TEXT_JOBRDM630_02584_ARYA_000_286	Entonces, ¿creen que Lambard me infundió sangre de voidsent mientras me tenía cautiva?
+TEXT_JOBRDM630_02584_XRHUNTIA_000_287	Según lo que encontré en los registros de incidentes de los Yellowjackets, el tiempo que pasó entre tu secuestro y tu rescate no fue demasiado largo.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_288	Y pasaste buena parte de esa prueba encerrada en una caja. Parece poco probable que hubiera tiempo suficiente para hacer un ritual tan complicado y peligroso. No, tenemos que buscar en otra parte la verdad detrás de tu condición.
+TEXT_JOBRDM630_02584_ARYA_000_289	¡Tienen que dejarme ayudarlos!
+TEXT_JOBRDM630_02584_ARYA_000_290	Si eso me permite volver a practicar magia aunque sea un día antes... Es una tortura ver pasar los momentos, perdiendo tiempo que podría usar para alcanzarlos.
+TEXT_JOBRDM630_02584_Q2_000_291	¿Qué vas a decir?
+TEXT_JOBRDM630_02584_A2_000_292	¡Lo vas a lograr!
+TEXT_JOBRDM630_02584_A2_000_293	¡Nunca me vas a alcanzar!
+TEXT_JOBRDM630_02584_ARYA_000_300	¡Claro que lo voy a intentar! Aunque no sé de qué ayuda seré...
+TEXT_JOBRDM630_02584_XRHUNTIA_000_310	¡Ja! Sin piedad, ¿eh, <split(<string(gstr1)>, ,1)>? Pero si dejaras de avanzar por Arya, ella no tendría a qué aspirar, ¿no?
+TEXT_JOBRDM630_02584_XRHUNTIA_000_321	Creo que pondremos a nuestra sufrida amiga a revisar pergaminos por nosotros. Los sharlayanos dejaron una verdadera montaña de saber en la que podemos escarbar en busca de respuestas.
+TEXT_JOBRDM630_02584_XRHUNTIA_000_322	<split(<string(gstr1)>, ,1)>, te dejo con tu entrenamiento. ¡Después de todo, tienes que darle a Arya una cima cada vez más alta a la que mirar!

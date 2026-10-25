@@ -38,9 +38,9 @@ public static partial class Spanish
         add("Summon a minion at random.", "Invoca un minion al azar.");
         add("Summon a random flying mount.", "Invoca una montura voladora al azar.");
         add("Dismount your current mount.", "Baja de tu montura actual.");
-        add("Affix materia onto weapons and armor.", "Engarza materia en armas y armaduras.");
+        add("Affix materia onto weapons and armor.", "Inserta materia en armas y armaduras.");
         add("Affix materia onto weapons and armor. Can also affix materia to items with no slots remaining, but success is not guaranteed.",
-            "Engarza materia en armas y armaduras. También puede engarzarla en objetos sin ranuras libres, pero el éxito no está garantizado.");
+            "Inserta materia en armas y armaduras. También puede insertarla en objetos sin ranuras libres, pero el éxito no está garantizado.");
         add("Extract the aether from an item with a complete spiritbond, and then recrystallize the resulting residue into a concentrated substance known as “materia.”",
             "Extrae el éter de un objeto con el spiritbond completo y recristaliza el residuo en una sustancia concentrada conocida como “materia”.");
         add("Use dye to color gear.", "Usa tinte para colorear el equipo.");
