@@ -196,7 +196,7 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 | | Summoner | 30–100 | ![Traducido][ok] |
 | | Red Mage | 50–100 | ![Traducido][ok] |
 | | Pictomancer | 80–100 | ![Traducido][ok] |
-| **Limitado** | Blue Mage | | ![Pendiente][no] |
+| **Limitado** | Blue Mage | 1–70 | ![Traducido][ok] |
 | | Beastmaster | | ![Pendiente][no] |
 
 ## Otras misiones

@@ -1,0 +1,113 @@
+key	text
+TEXT_JOBAOZ730_04774_SEQ_00	P'yandih parece manejar el gremio sin ninguna dificultad.
+TEXT_JOBAOZ730_04774_SEQ_01	A P'yandih le llegó hace poco un mensaje de Martyn en el que pide que te reúnas con él en Mealvaan's Gate, en Limsa Lominsa. Con la esperanza de que eso signifique que encontró un candidato digno para ser tu archienemigo, te pone en camino enseguida.
+TEXT_JOBAOZ730_04774_SEQ_02	Encuentras a Martyn terminando una lección con un antiguo compañero de estudios, y cobrando una compensación que podría decirse injustificada por sus enseñanzas. Terminado el asunto, te explica que quizá entre los Executioners haya un luchador adecuado para ser tu archienemigo. Para eso, sugiere visitar el <italic(1)>Astalicia<italic(0)> y hablar con sus miembros.
+TEXT_JOBAOZ730_04774_SEQ_03	Aunque sabes lo que hay que hacer, no puedes evitar notar el recelo de Martyn a hablar con los Executioners. Te sugiere que lleves la voz cantante mientras él observa desde una distancia cómodamente segura.<br><br>※Martyn tiene que acompañarte para completar esta tarea. Si se separan, vuelve a hablar con él.
+TEXT_JOBAOZ730_04774_SEQ_04	Acompañad<if(gnum4,a,o)> por Martyn, vas a hablar con varios miembros de los Executioners. Te ofrecen dos posibles candidatos, pero por desgracia ninguno es ideal para lo que necesitan. Martyn sugiere buscar a un miembro de más rango que quizá sepa más de los piratas capaces de La Noscea.
+TEXT_JOBAOZ730_04774_SEQ_05	Juntos terminan dando con Hasthwab. Aunque no parece estar de humor para charlar, les da un dato valioso. Un hombre llamado Octobeard dice ser la mano derecha de Mistbeard, y lo vieron frecuentar el Drowning Wench. Dada la fama de Mistbeard, estás convencid<if(gnum4,a,o)> de que cualquiera digno de trabajar a su lado es más que capaz de ser tu archienemigo. Así que van a la taberna.
+TEXT_JOBAOZ730_04774_SEQ_06	Como necesita asegurarse de la destreza en armas del hombre, Martyn desafía a Octobeard a un combate. El pirata acepta, aunque quizá no con la elegancia ni la fanfarronería que esperabas. Le pide a Martyn que vaya al Rogue River, así que los dos se despiden y se preparan para ponerlo a prueba.
+TEXT_JOBAOZ730_04774_SEQ_07	Con una floritura de su bastón, Martyn ataca a Octobeard con varios hechizos y deja al pirata aparentemente fuera de combate. Queriendo saber su verdadera identidad, Martyn le quita la máscara y revela que es Trachtoum. Adoptó la identidad de Octobeard para beber cerveza gratis en el Drowning Wench. Promete no volver a hacerlo nunca y pide que lo dejen ir antes de salir corriendo con la cola entre las patas. Sin otras pistas, Martyn cree que llegó la hora de mirar hacia otro lado. Te pide que vayas a informarle a P'yandih en Ul'dah mientras él busca nuevas pistas.
+TEXT_JOBAOZ730_04774_SEQ_08	Le das la mala noticia a P'yandih, pero ella no parece para nada desanimada por el giro inesperado. Promete avisarle a Royse y se despide, no sin antes sugerirte que vayas a aprender Schiltron para completar tu repertorio de hechizos.
+TEXT_JOBAOZ730_04774_TODO_00	Habla con Martyn en Mealvaan's Gate, en Limsa Lominsa.
+TEXT_JOBAOZ730_04774_TODO_01	Habla con Martyn y pídele que te acompañe.
+TEXT_JOBAOZ730_04774_TODO_02	Habla con los tripulantes del <italic(1)>Astalicia<italic(0)> mientras Martyn te acompaña.
+TEXT_JOBAOZ730_04774_TODO_03	Habla con Hasthwab mientras Martyn te acompaña.
+TEXT_JOBAOZ730_04774_TODO_04	Habla con Martyn.
+TEXT_JOBAOZ730_04774_TODO_05	Habla con Martyn cerca del Rogue River, en Middle La Noscea.
+TEXT_JOBAOZ730_04774_TODO_06	Habla con P'yandih en Ul'dah.
+TEXT_JOBAOZ730_04774_PYANDIH_100_000	Si mal no recuerdo, Martyn le encargó aprender magia azul nueva antes de volver. Con las pruebas que vienen, creo que es prudente que siga su consejo.
+TEXT_JOBAOZ730_04774_SYSTEM_100_001	La siguiente misión de blue mage estará disponible con P'yandih al aprender Goblin Punch.
+TEXT_JOBAOZ730_04774_PYANDIH_000_000	Tiene la cara de <if(gnum4,una mujer,un hombre)> que dominó técnicas nuevas. ¿Debo suponer que siguió el consejo de Martyn?
+TEXT_JOBAOZ730_04774_PYANDIH_000_001	Aunque me encantaría que me deleitara con historias de su entrenamiento, hace poco recibimos un mensaje de Martyn que pide su presencia.
+TEXT_JOBAOZ730_04774_PYANDIH_000_002	Pide que se reúna con él en Mealvaan's Gate, en Limsa Lominsa. Creo que quizá por fin encontró a nuestro luchador.
+TEXT_JOBAOZ730_04774_PYANDIH_000_010	No esperaba que Martyn estuviera justo en Limsa Lominsa, pero ahí es donde le pidió que se vieran.
+TEXT_JOBAOZ730_04774_ARCANIST04774_000_011	Parece que todavía me queda mucho por aprender...
+TEXT_JOBAOZ730_04774_MARTYN_000_020	Tienes que vaciar la mente, muchacho. No tener forma, ser amorfo. ¡Como el agua!
+TEXT_JOBAOZ730_04774_MARTYN_000_021	Ah, <split(<string(gstr1)>, ,1)>. No te esperaba tan pronto.
+TEXT_JOBAOZ730_04774_MARTYN_000_022	Verás, no pude evitar pasar por mi viejo lugar de entrenamiento, y un antiguo compañero de estudios insistió en recibir algunas lecciones especiales.
+TEXT_JOBAOZ730_04774_ARCANIST04774_000_023	¡Los consejos de Martyn siempre son nada menos que inspiradores! Difícilmente encontraría a alguien más hábil en las artes arcanas aquí en el gremio.
+TEXT_JOBAOZ730_04774_ARCANIST04774_000_024	¡Pero su genio no termina ahí! Para comprender mejor la naturaleza de las magias de todos los rincones del mundo, dominó casi todas las escuelas de magia que existen.
+TEXT_JOBAOZ730_04774_Q2_000_000	¿Qué dices?
+TEXT_JOBAOZ730_04774_A2_000_001	Nunca me dijiste que dominabas otras escuelas de magia.
+TEXT_JOBAOZ730_04774_A2_000_002	Creía que te dedicabas solo a la magia azul.
+TEXT_JOBAOZ730_04774_MARTYN_000_025	Dominar todas esas magias fue la única forma de plasmar por completo en la magia azul la sabiduría de los whalaqee.
+TEXT_JOBAOZ730_04774_MARTYN_000_026	Aun así, si voy a ser un <italic(1)>verdadero<italic(0)> maestro del azul, no puedo recurrir ahora a todos esos otros hechizos que aprendí, ¿no?
+TEXT_JOBAOZ730_04774_MARTYN_000_027	Con eso basta por hoy. Si sigues el rumbo y te tomas a pecho mis enseñanzas, seguro que te va a ir muy bien.
+TEXT_JOBAOZ730_04774_ARCANIST04774_000_028	¡Gracias, Martyn, gracias! No tengo mucho dinero, pero tome: una pequeña muestra de mi agradecimiento.
+TEXT_JOBAOZ730_04774_MARTYN_000_029	Bueno. Sobre tu archienemigo. Después de sopesar nuestras opciones aquí en Limsa Lominsa, creo que un miembro de los Executioners podría ser justo lo que buscas.
+TEXT_JOBAOZ730_04774_MARTYN_000_030	Queda por ver si estarán dispuestos a hablar con nosotros de su destreza en armas, y más aún a aceptar ser tu rival en el Celestium, pero no lo sabremos si no lo intentamos, ¿eh? Vamos, vayamos al <italic(1)>Astalicia<italic(0)>.
+TEXT_JOBAOZ730_04774_ARCANIST04774_000_040	Ser agua, dijo... Un momento. ¿Quería decir que use un hechizo y me vuelva agua <italic(1)>literalmente<italic(0)>, o...?
+TEXT_JOBAOZ730_04774_MARTYN_000_050	Como es tu archienemigo, ¿por qué no llevas tú la voz cantante para conocerlos? Voy a estar justo detrás de ti. Lo prometo.
+TEXT_JOBAOZ730_04774_MARTYN_000_051	Y si oyes algo que suena a rodillas temblando, no te preocupes: es solo mi emoción por convertirme en empresario. Sí, eso, mi emoción...
+TEXT_JOBAOZ730_04774_SYSTEM_000_055	Martyn te acompaña ahora. Mantenlo a tu lado para avanzar en los objetivos de la misión.
+TEXT_JOBAOZ730_04774_SYSTEM_000_056	Puedes dejar atrás a Martyn entrando a otra zona, o hablando con él y eligiendo la opción de separarse.
+TEXT_JOBAOZ730_04774_SYSTEM_000_057	Si quieres que Martyn vuelva a acompañarte, regresa y habla con él en el lugar original.
+TEXT_JOBAOZ730_04774_SYSTEM_100_058	Mientras te acompañan, quizá encuentres en el camino "puntos de conversación" que ofrecen temas de charla adicionales.
+TEXT_JOBAOZ730_04774_SYSTEM_100_059	Entra en la zona brillante y habla con tus acompañantes de misión para iniciar estas conversaciones adicionales. ¡Disfruten de explorar juntos los alrededores!
+TEXT_JOBAOZ730_04774_Q3_000_000	¿Qué haces?
+TEXT_JOBAOZ730_04774_A3_000_001	Hablar con Martyn.
+TEXT_JOBAOZ730_04774_A3_000_002	Separarte de Martyn.
+TEXT_JOBAOZ730_04774_A3_000_003	Nada.
+TEXT_JOBAOZ730_04774_MARTYN_000_060	La estrella de todo buen espectáculo debería tener una relación establecida con el tipo que hace de contrafigura, ¿no? Razón de más para que seas tú quien lleve la voz cantante aquí. Si te ayuda, piénsalo como más entrenamiento de blue mage.
+TEXT_JOBAOZ730_04774_SYSTEM_000_065	¿Seguro que quieres separarte de Martyn?
+TEXT_JOBAOZ730_04774_MARTYN_000_066	Bah, era de esperar que algún asunto de importancia <italic(1)>trascendental<italic(0)> te reclamara. Aunque supongo que en tu caso no es ninguna exageración. Bueno, lejos de mí retenerte. Te espero en el <italic(1)>Astalicia<italic(0)>.
+TEXT_JOBAOZ730_04774_MARTYN_000_070	¿Todo resuelto? Entonces volvamos a lo nuestro. Ejem, después de ti...
+TEXT_JOBAOZ730_04774_BLOODYEXECUTIONERA04773_100_071	¿Asuntos con los Executioners, dices?
+TEXT_JOBAOZ730_04774_BLOODYEXECUTIONERB04773_100_072	...¿Y bien? ¿Qué quieres?
+TEXT_JOBAOZ730_04774_HASTHWAB_100_073	¿Qué asunto tienes con los Executioners?
+TEXT_JOBAOZ730_04774_SYSTEM_000_071	Martyn tiene que acompañarte y estar a tu lado para avanzar en los objetivos de la misión.
+TEXT_JOBAOZ730_04774_SYSTEM_000_072	Martyn todavía no llegó. Asegúrate de que esté a tu lado antes de intentar continuar.
+TEXT_JOBAOZ730_04774_A4_000_001	<colortype(548)>Hablar de los muelles.<colortype(0)>
+TEXT_JOBAOZ730_04774_MARTYN_000_080	Se los ve descargando mercancía a todas horas del día. Y donde hay mercancía, seguro que hay pagos que cambian de manos. Lo que significa...
+TEXT_JOBAOZ730_04774_MARTYN_000_081	¡Ajá!
+TEXT_JOBAOZ730_04774_MARTYN_000_082	¡Otro gil para la vieja bolsa!
+TEXT_JOBAOZ730_04774_MARTYN_000_083	Rayos. Y yo que esperaba que fueran un poco más descuidados con sus monedas...
+TEXT_JOBAOZ730_04774_BLOODYEXECUTIONERA04773_000_090	¿Qué dices? ¿Nuestra hacha más afilada?
+TEXT_JOBAOZ730_04774_BLOODYEXECUTIONERA04773_000_091	Ese sería Hyllfyr, aunque no todos los días vienen desconocidos a <italic(1)>pedir<italic(0)> que los hagan pedazos.
+TEXT_JOBAOZ730_04774_MARTYN_000_092	No quiero ofender, pero ya está entrado en años y, si los rumores son ciertos, además tiene un pulmón enfermo. Creo que es mejor buscar en otro lado.
+TEXT_JOBAOZ730_04774_BLOODYEXECUTIONERB04773_000_095	¿Un brazo fuerte para pelear? ¿Y quién dice que yo no soy lo bastante buena, eh?
+TEXT_JOBAOZ730_04774_BLOODYEXECUTIONERB04773_000_096	...Bah, está bien. Si buscan lo mejor de lo mejor, deberían ir a hablar con el Capitán Sicard. No hay mejor tirador en toda La Noscea.
+TEXT_JOBAOZ730_04774_MARTYN_000_097	¿El Capitán Sicard? No es para nada un mal candidato, pero como es el capitán interino de los Executioners, seguro que pediría un precio considerable. Y lo que es más importante, se comería mis ganancias...
+TEXT_JOBAOZ730_04774_MARTYN_000_100	Hmmm. Quizá intentar reclutar entre los Executioners no fue tan buena idea, después de todo. Pero no podemos irnos con las manos vacías.
+TEXT_JOBAOZ730_04774_MARTYN_100_100	Bueno, está claro que no llegamos a ninguna parte hablando con la tropa. Lo que necesitamos es a alguien con un poco más de autoridad que nos ayude a echar una red más amplia.
+TEXT_JOBAOZ730_04774_BLOODYEXECUTIONERA04773_000_110	Hyllfyr es el hombre que buscas, pero después no digas que no te avisé.
+TEXT_JOBAOZ730_04774_BLOODYEXECUTIONERB04773_000_111	Si los presentes no están a la altura de tus <italic(1)>elevadas<italic(0)> exigencias, supongo que podrías ir a hablar con el Capitán Sicard. No vas a encontrar mejor tirador.
+TEXT_JOBAOZ730_04774_HASTHWAB_000_120	¿Necesitan un compañero de duelo para montar algún espectáculo?
+TEXT_JOBAOZ730_04774_HASTHWAB_000_121	A los Bloody Executioners no les interesa bailar por dinero, <if(gnum4,muchacha,muchacho)>. Tendrán que buscar en otro lado.
+TEXT_JOBAOZ730_04774_MARTYN_000_122	P-Por supuesto. Lejos de nosotros abusar de su hospitalidad.
+TEXT_JOBAOZ730_04774_MARTYN_000_123	Aunque, si sabe de algún pirata que esté dispuesto a aceptar nuestra oferta, que no sea de los Executioners, claro, le agradeceríamos mucho cualquier cosa que pueda contarnos.
+TEXT_JOBAOZ730_04774_HASTHWAB_000_124	Hmmm... Ahora que lo pienso, últimamente se habla de un tipo que dice ser la mano derecha del mismísimo Mistbeard y que llegó a la ciudad. Dicen que pasa casi todo el tiempo en el Drowning Wench.
+TEXT_JOBAOZ730_04774_HASTHWAB_000_125	Lleva una máscara roja y se hace llamar "Octobeard", aunque cueste creerlo.
+TEXT_JOBAOZ730_04774_MARTYN_000_126	Octobeard, ¿eh? Cualquiera que ande con Mistbeard seguro que es un rival digno. Gracias, señor. Se lo agradezco mucho.
+TEXT_JOBAOZ730_04774_MARTYN_000_127	Bueno, entonces, ¿vamos al Drowning Wench?
+TEXT_JOBAOZ730_04774_HASTHWAB_000_130	Un nombre bien raro, si me preguntas, ese Octobeard. Pero siendo la supuesta mano de Mistbeard, no me imagino que alguien tenga agallas para cuestionarlo.
+TEXT_JOBAOZ730_04774_MARTYN_000_140	No creo que podamos convencerlo sin pelear, así que me pareció justo vestirme para la ocasión: hay que dar la mejor impresión y todo eso. Ahora, ¿dónde está ese tal Octobeard...?
+TEXT_JOBAOZ730_04774_TRACHTOUM_000_141	(-???-)Soy la mano derecha de Mistbeard. Sí, señor, lo soy yo.♪<br>Me empino la jarra y salgo por la puerta de atrás.♪<br>Yyy nadie se va a enterar.♪
+TEXT_JOBAOZ730_04774_MARTYN_000_142	Es él, si hemos de creerles a esas notas desafinadas. Vamos al grano, ¿eh?
+TEXT_JOBAOZ730_04774_TRACHTOUM_000_143	¡¿Eh?! ¡T-Tú!
+TEXT_JOBAOZ730_04774_MARTYN_000_144	¡Oye, Octobeard! Quisiera hablar contigo... S-Si no te molesta, claro.
+TEXT_JOBAOZ730_04774_TRACHTOUM_000_145	Yo... eh... ¡ejem! ¡No me gusta tu tono, mequetrefe presumido!
+TEXT_JOBAOZ730_04774_TRACHTOUM_000_146	Si tantas ganas tienes de pelea, entonces, eh... ¡entonces supongo que mejor te la doy! Afuera, junto al Rogue River. En cinco minutos...
+TEXT_JOBAOZ730_04774_MARTYN_000_150	No lo vi irse, precisamente, pero <italic(1)>sí<italic(0)> va a venir... ¿no? Claro que no me molestaría buscar otro candidato, pero...
+TEXT_JOBAOZ730_04774_MARTYN_0100_400	¡Ahí estás! Esperaba que no... digo, ¡que <italic(1)>sí<italic(0)> vinieras!
+TEXT_JOBAOZ730_04774_TRACHTOUM_000_400	¡Sí, aquí estoy! ...Pero no tiene nada de vergonzoso salir corriendo, muchacho. De verdad. No te lo tendría en cuenta si te fueras. Ahora mismo...
+TEXT_JOBAOZ730_04774_MARTYN_000_401	¡En guardia!
+TEXT_JOBAOZ730_04774_MARTYN_000_402	¡Toma esto!
+TEXT_JOBAOZ730_04774_MARTYN_000_403	¡Y esto!
+TEXT_JOBAOZ730_04774_MARTYN_000_404	¿Ya tuviste suficiente, patán con cerebro de percebe?
+TEXT_JOBAOZ730_04774_MARTYN_000_405	¡Santos dioses! ...¿Me pasé?
+TEXT_JOBAOZ730_04774_MARTYN_000_406	Bueno, todavía respira. Algo es algo, supongo. Ahora veamos quién está debajo de esa máscara.
+TEXT_JOBAOZ730_04774_Q1_000_000	¿Qué dices?
+TEXT_JOBAOZ730_04774_A1_000_001	Justo lo que sospechaba. Trachtoum.
+TEXT_JOBAOZ730_04774_A1_000_002	Te conozco. Eres el que decía haber matado a Tidu... digo, a Titan.
+TEXT_JOBAOZ730_04774_TRACHTOUM_000_407	¡Piedad! ¡Piedad! Lo único que quería era una pinta de cerveza... o tres, y había oído que el tabernero se lleva bien con la tripulación de Mistbeard. Les dije que era su mano derecha, y una cosa llevó a la otra...
+TEXT_JOBAOZ730_04774_TRACHTOUM_000_408	Pero ustedes saben la verdad. Sobre mí, sobre todo... Así que, por favor, se los ruego: ¡déjenme ir!
+TEXT_JOBAOZ730_04774_TRACHTOUM_100_408	¡Juro que puedo cambiar! ¡Ya van a ver!
+TEXT_JOBAOZ730_04774_MARTYN_000_409	Así que era un impostor desde el principio. Qué lástima...
+TEXT_JOBAOZ730_04774_MARTYN_000_410	Aunque de verdad fuera la mano de Mistbeard, cualquiera que caiga ante mí no está a tu altura, eso seguro. Vamos a tener que seguir buscando.
+TEXT_JOBAOZ730_04774_MARTYN_000_411	No sé tú, pero creo que llegó la hora de mirar hacia otro lado. ¿Podría molestarte para que vayas a informarle a P'yandih en Ul'dah?
+TEXT_JOBAOZ730_04774_MARTYN_000_412	Te aviso sin falta cuando encuentre nuevos candidatos.
+TEXT_JOBAOZ730_04774_PYANDIH_000_420	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. ¿Hubo suerte en Limsa Lominsa?
+TEXT_JOBAOZ730_04774_PYANDIH_000_421	Ah, qué mala suerte. Aun así, hay que avisarle a Royse, pero de eso me encargo yo.
+TEXT_JOBAOZ730_04774_PYANDIH_000_422	Pero antes de que se vaya, no estaría bien despedirl<if(gnum4,a,o)> sin ninguna indicación para su entrenamiento de blue mage.
+TEXT_JOBAOZ730_04774_PYANDIH_000_423	Si mal no recuerdo, Martyn dijo que Schiltron le serviría mucho para reforzar su repertorio de hechizos. Venga a verme cuando lo domine.

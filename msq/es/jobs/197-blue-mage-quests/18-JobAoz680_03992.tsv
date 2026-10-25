@@ -1,0 +1,61 @@
+key	text
+TEXT_JOBAOZ680_03992_SEQ_00	Martyn parece inquieto y frustrado.
+TEXT_JOBAOZ680_03992_SEQ_01	Frustrado en sus intentos de descubrir la naturaleza de Golden Goliath, Martyn dio con un plan sencillo: seguir a su rival a una distancia prudente. Acompaña al maestro del gremio en su espionaje cerca de las puertas del castillo.
+TEXT_JOBAOZ680_03992_SEQ_02	Golden Goliath por fin sale del castillo, y Martyn y tú empiezan a seguir a su presa. Lo siguen sin que los descubra, y terminan llegando al Pier #2...
+TEXT_JOBAOZ680_03992_SEQ_03	Tras una breve charla con el encargado de los halcones, Martyn te cuenta que Golden Goliath parece haber tomado un ave especial con ruta directa a la aldea de Namai. El maestro del gremio te insta a apurarte hasta el asentamiento de Yanxia antes de que se les escape la presa.
+TEXT_JOBAOZ680_03992_SEQ_04	Te reúnes con Martyn en Namai a tiempo para ver que los habitantes están claramente acostumbrados al extraño comportamiento de Golden Goliath. Pensando que los vecinos quizá conozcan al misterioso combatiente mejor que la gente de Kugane, Martyn sugiere que se separen y hagan algunas preguntas.
+TEXT_JOBAOZ680_03992_SEQ_05	Tus conversaciones con los aldeanos revelan que a Golden Goliath antes se lo conocía como "Gogo", un imitador bastante famoso en la región. Busca a Martyn y cuéntale lo que descubriste.
+TEXT_JOBAOZ680_03992_SEQ_06	Aunque tus averiguaciones sacaron a la luz datos interesantes, parece que Martyn hizo un nuevo amigo dispuesto a contar una historia más completa del enigmático Golden Goliath. El viejo aldeano revela que "Gogo", como también se conocía al campeón, formaba parte de su compañía de artistas en los tiempos anteriores a la rebelión de Lord Kaien. Imitador milagroso, Gogo se hizo famoso por sus imitaciones imposibles antes de que un cambio de suerte lo llevara a buscar un nuevo escenario como la estrella invicta del Fukumen Fighting Festival.<br><br>Fascinado y consternado por la capacidad aparentemente sobrenatural de Golden Goliath de reflejar el flujo aetherial de su rival, Martyn sugiere volver a Kugane mientras traza un plan de acción...
+TEXT_JOBAOZ680_03992_SEQ_07	Para cuando vuelves a los muelles de Kugane, Martyn ya decidió su estrategia para enfrentar al formidable Golden Goliath. Los movimientos y la flexibilidad serán la clave de la victoria, y con esa meta en mente el maestro del gremio vuelve a su entrenamiento. O al menos lo hará cuando les haya servido el té a los clientes.<br><br>※La siguiente misión de blue mage estará disponible con Martyn al llegar al nivel 70 y aprender Aetherial Spark.
+TEXT_JOBAOZ680_03992_TODO_00	Habla con Martyn.
+TEXT_JOBAOZ680_03992_TODO_01	Vuelve a hablar con Martyn.
+TEXT_JOBAOZ680_03992_TODO_02	Habla con Martyn en Namai.
+TEXT_JOBAOZ680_03992_TODO_03	Interroga a los habitantes de Namai.
+TEXT_JOBAOZ680_03992_TODO_04	Habla con Martyn.
+TEXT_JOBAOZ680_03992_TODO_05	Habla con Martyn en Kugane.
+TEXT_JOBAOZ680_03992_MARTYN_100_000	Llegaste lejos, <split(<string(gstr1)>, ,1)>, pero no siento ninguna "vibración"... ni ultra ni de ninguna clase.
+TEXT_JOBAOZ680_03992_SYSTEM_100_001	La siguiente misión de blue mage estará disponible con Martyn al aprender Ultravibration.
+TEXT_JOBAOZ680_03992_MARTYN_200_000	¡<split(<string(gstr1)>, ,1)>! Veo que dominar Ultravibration no te hizo temblar hasta caerte a pedazos.
+TEXT_JOBAOZ680_03992_MARTYN_000_000	Yo estuve saliendo cuando podía a trabajar en el rompecabezas del viejo Goldie. Pero no importa cuántas piezas encuentre, no logro armar la imagen.
+TEXT_JOBAOZ680_03992_MARTYN_000_001	Lo mejor que se me ocurre es seguirlo después de un combate, a ver si se le escapa algo.
+TEXT_JOBAOZ680_03992_MARTYN_000_002	Vamos. El jefe me dio <if([gnum11<12],<if([gnum11<4],la noche,la mañana)>,<if([gnum11<17],la tarde,la noche)>)> libre, así que es ahora o nunca.
+TEXT_JOBAOZ680_03992_MARTYN_000_010	El combate debería terminar pronto. Quedémonos fuera de vista y esperemos a nuestro amigo, ¿te parece?
+TEXT_JOBAOZ680_03992_MARTYN_000_011	Ahí va. No tan cerca, eh...
+TEXT_JOBAOZ680_03992_MARTYN_000_020	Goldie se subió a uno de esos pájaros enormes y se fue volando a algún lado. El encargado me dice que va directo a una aldea llamada Namai, y que paga extra por la ruta poco habitual.
+TEXT_JOBAOZ680_03992_MARTYN_000_021	Voy a tomar un bote a Yanxia ya mismo para que no se nos escape, pero reúnete conmigo allá lo antes que puedas.
+TEXT_JOBAOZ680_03992_MARTYN_000_030	A mí me parece un asentamiento agrícola cualquiera... Un momento, ¿ese no es nuestro hombre?
+TEXT_JOBAOZ680_03992_MARTYN_000_031	...Es medio raro, ¿no?
+TEXT_JOBAOZ680_03992_MARTYN_000_032	Ajá, así que es una especie de imitador. Es raro hacer eso en medio de la calle, pero a los aldeanos no parecen sorprenderles sus payasadas.
+TEXT_JOBAOZ680_03992_MARTYN_000_033	Aquí deben conocerlo, o al menos mejor que en Kugane. ¿Qué dices si nos separamos y hacemos algunas preguntas?
+TEXT_JOBAOZ680_03992_NAMAIMAIDEN03992_000_040	¿Golden... Goliath? Nunca oí ese nombre. ¿Quizá puedes preguntarle a algún grande?
+TEXT_JOBAOZ680_03992_MIYAKE_000_041	Ah, Golden Goliath. Así lo llaman en Hingashi, ¿no? Aquí lo conocemos como "Gogo".
+TEXT_JOBAOZ680_03992_MIYAKE_000_042	Antes actuaba para nosotros en el enclave, pero a los imperiales no les servía de mucho el talento de un imitador. Nos enorgulleció enterarnos de que le iba tan bien en Kugane.
+TEXT_JOBAOZ680_03992_NAMAIFARMHAND03992_000_043	¿Quién? Ah, te refieres a Gogo. Ese nombre de arena siempre me confunde, pero sí, lo conozco bien. De hecho, crecimos juntos aquí.
+TEXT_JOBAOZ680_03992_NAMAIFARMHAND03992_000_044	El talento de ese hombre para la imitación es nada menos que milagroso. Siempre tuvo un don natural para eso, y después pasó horas y horas practicando hasta ser <italic(1)>perfecto<italic(0)>.
+TEXT_JOBAOZ680_03992_NAMAIMAIDEN03992_000_045	Perdón, no conozco a ninguna persona "dorada"...
+TEXT_JOBAOZ680_03992_MIYAKE_000_046	Extraño los días en que Gogo era artista en Doma, pero no tenía futuro. Mejor que haga fortuna en Kugane.
+TEXT_JOBAOZ680_03992_NAMAIFARMHAND03992_000_047	Nunca vi a nadie exactamente igual a Gogo, y sin embargo él puede ser <italic(1)>exactamente<italic(0)> igual a cualquiera.
+TEXT_JOBAOZ680_03992_MARTYN_000_050	Ah, justo a tiempo, <split(<string(gstr1)>, ,1)>. Mi nuevo amigo aquí estaba por contar la historia de cómo se hizo famoso Golden Goliath...
+TEXT_JOBAOZ680_03992_CALMMAN03992_000_051	Bueno, todo se remonta a la época en que yo era empresario de espectáculos. Golden Goliath era uno de los artistas que tenía a mi cargo, aunque en ese entonces se hacía llamar simplemente "Gogo".
+TEXT_JOBAOZ680_03992_CALMMAN03992_000_052	Esto fue en los años anteriores a la rebelión de Lord Kaien. Vivíamos bajo el dominio imperial, pero supongo que no veían nada malo en dejarnos montar algunos espectáculos. Y déjenme decirles que, ya entonces, Gogo era el favorito del público.
+TEXT_JOBAOZ680_03992_CALMMAN03992_000_053	La gente no se cansaba de él. Con apenas una mirada, podía imitar cualquier gesto o expresión con una exactitud asombrosa.
+TEXT_JOBAOZ680_03992_CALMMAN03992_000_054	Su destreza llegaba hasta las técnicas de los samurai y los ninja: habilidades que llevan años de aprendizaje, y él las ejecutaba a la perfección en cuestión de momentos.
+TEXT_JOBAOZ680_03992_CALMMAN03992_000_055	Una vez, un señor samurai furioso quiso abatirlo por su insolencia, pero Gogo replicó el ataque tan rápido que el espadachín tuvo que ponerse a la defensiva. En ese momento lo vimos elevar la imitación de arte escénico a arte <italic(1)>marcial<italic(0)>.
+TEXT_JOBAOZ680_03992_CALMMAN03992_000_056	Pero la brutal represión que siguió al levantamiento de Lord Kaien puso fin a esos espectáculos. Gogo tuvo que dejar el escenario... pero su dedicación a su oficio nunca flaqueó.
+TEXT_JOBAOZ680_03992_CALMMAN03992_000_057	Más tarde nos llegaron rumores de hombres que se enfrentaban a monstruos usando contra ellos sus propios ataques bestiales. A Gogo le intrigó. Se embarcó a Kugane para ver ese espectáculo con sus propios ojos, y se inscribió como combatiente en el Fukumen Fighting Festival.
+TEXT_JOBAOZ680_03992_CALMMAN03992_000_058	Para alguien como Gogo, imitar el arte de la hechicería azul era de lo más sencillo. Incluso en la arena, le bastaba un parpadeo para entender y dominar los ataques de sus rivales salvajes. Ni una sola vez probó la derrota.
+TEXT_JOBAOZ680_03992_CALMMAN03992_000_059	Y cuando se presentaron desafiantes a disputarle la supremacía, también volvió sus técnicas contra ellos. Fueron cayendo uno a uno, y así nació la leyenda de Golden Goliath.
+TEXT_JOBAOZ680_03992_CALMMAN03992_000_060	Eso es todo lo que puedo contar por ahora. En cuanto al próximo capítulo de la saga de Gogo, bueno, es algo que todos esperamos con ganas.
+TEXT_JOBAOZ680_03992_MARTYN_000_061	Por todos los infiernos... Por cómo lo describió el viejo, la imitación de Goldie suena a una forma más avanzada de magia azul.
+TEXT_JOBAOZ680_03992_MARTYN_000_062	Nosotros tenemos que trabajar para conseguir nuestros hechizos, ¿no? Provocas a una criatura para que muestre una habilidad, y <italic(1)>después<italic(0)> absorbes su aether cuando ganas la pelea.
+TEXT_JOBAOZ680_03992_MARTYN_000_063	Pero Goldie se salta esa última parte y aprende trucos nuevos casi al instante.
+TEXT_JOBAOZ680_03992_MARTYN_000_064	¡Y ni siquiera tiene que ser un monstruo! Esgrima, magia, cualquier cosa que le lance un rival, él puede aprenderla.
+TEXT_JOBAOZ680_03992_MARTYN_000_065	Copiar sus movimientos no alcanzaría: es como si percibiera los ataques en un nivel más profundo y reflejara el flujo exacto de su aether.
+TEXT_JOBAOZ680_03992_MARTYN_000_066	Algo así requiere un don natural para la observación, pulido por años de estudio paciente. Goldie, como acabamos de descubrir, dedicó toda su vida al arte de la imitación, y creo que este talento, irónicamente inimitable, es su recompensa.
+TEXT_JOBAOZ680_03992_MARTYN_000_067	Hasta unos blue mages expertos como tú y yo deben parecerle bebés. Tiene que haber alguna forma de arrancarle una victoria...
+TEXT_JOBAOZ680_03992_MARTYN_000_068	Volvamos a Kugane por ahora, y voy a intentar pensar un plan en el camino.
+TEXT_JOBAOZ680_03992_MARTYN_000_070	Bueno, <split(<string(gstr1)>, ,1)>, lo estuve pensando y creo que di con una estrategia ganadora.
+TEXT_JOBAOZ680_03992_MARTYN_000_071	La imitación de Goldie es un arma formidable, de eso no hay duda. Pero que haya aprendido un montón de hechizos y demás no significa que sepa la mejor forma de usarlos.
+TEXT_JOBAOZ680_03992_MARTYN_000_072	¡Movimientos y flexibilidad! Eso es lo importante. Y en cuanto a instinto de combate, creo que llevo ventaja sobre un artista de escenario.
+TEXT_JOBAOZ680_03992_MARTYN_000_073	Solo será cuestión de esquivar sus ataques y asegurarme de conectar unos buenos golpes propios. Ni va a saber qué lo golpeó.
+TEXT_JOBAOZ680_03992_MARTYN_000_074	Hablando de mejoras, ¿por qué no ves de aprender Aetherial Spark? De todos modos, voy a estar ocupado entrenando para mi gran revancha... cuando termine de servir el té.

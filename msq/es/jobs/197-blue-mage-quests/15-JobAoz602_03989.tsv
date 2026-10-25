@@ -1,0 +1,65 @@
+key	text
+TEXT_JOBAOZ602_03989_SEQ_00	Martyn parece contento de verte.
+TEXT_JOBAOZ602_03989_SEQ_01	Martyn te da una calurosa bienvenida y enseguida te pone al día con las últimas novedades del gremio. Poco después llega una de sus discípulas, P'yandih, para hacer una prueba de sus habilidades, pero la aparición repentina de Royse desbarata el calendario de clases de Martyn. Al parecer, la directora del Celestium recibe a unos distinguidos visitantes del Lejano Oriente y necesita que el Great Azuro, o alguna de sus encarnaciones, les dé un espectáculo impresionante a estos posibles inversionistas. Como queda ocupado, Martyn te encarga tomarle el examen a P'yandih. Según él, solo tienes que supervisar el combate de la joven maga contra un horror con tentáculos, que espera pacientemente tu llegada en Central Thanalan.
+TEXT_JOBAOZ602_03989_SEQ_02	Recurres a los servicios marciales del voidsent con tentáculos, y P'yandih usa su magia para apalear a la criatura más allá de la rendición. Satisfech<if(gnum4,a,o)> con sus progresos y preguntándose si Martyn ya habrá terminado su combate de exhibición, los dos vuelven a Ul'dah.
+TEXT_JOBAOZ602_03989_SEQ_03	Vuelves al gremio, pero parece que a los invitados de Royse del Lejano Oriente el Masked Carnivale no les impresionó para nada: lo llamaron una mala copia del "Fukumen Fighting Festival". Indignada porque alguien le robó la idea de su negocio, Royse le ordena a Martyn ir a Kugane a investigar, y te deja a cargo del gremio y de la recién bautizada "Azuro the Fourth".<br><br>※La siguiente misión de blue mage estará disponible con P'yandih al llegar al nivel 63 y aprender Basic Instinct.
+TEXT_JOBAOZ602_03989_TODO_00	Habla con el voidsent con tentáculos en Spineless Basin, en Central Thanalan.
+TEXT_JOBAOZ602_03989_TODO_01	Habla con Martyn en Ul'dah.
+TEXT_JOBAOZ602_03989_MARTYN_000_000	¡<split(<string(gstr1)>, ,1)>! ¿Cómo te va en tu inmersión en las aguas profundas del azul?
+TEXT_JOBAOZ602_03989_MARTYN_000_002	Si te preocupa el gremio, quédate tranquil<if(gnum4,a,o)>: la gente ruega por sumarse a nuestras filas, ¡y nos golpea la puerta día y noche! Bueno... en sentido figurado, claro.
+TEXT_JOBAOZ602_03989_MARTYN_000_003	¡Y mejor todavía: estos jóvenes magos entusiastas tienen tanta sed de conocimiento que llegaron hasta el Lejano Oriente y Ala Mhigo para descubrir hechizos nuevos!
+TEXT_JOBAOZ602_03989_MARTYN_000_004	Ah, recuerdo que no hace tanto era solo yo andando a duras penas por el reino, y ahora somos un montón trabajando para mejorar el arte...
+TEXT_JOBAOZ602_03989_MARTYN_000_005	Voy a tener que anotar estos trucos nuevos en tu libro de hechizos para que vayas a verlos por tu cuenta, ¿eh?
+TEXT_JOBAOZ602_03989_MARTYN_000_006	Ah, y quería contarte del log que estoy armando. Gracias a ti y a nuestros otros colegas, logré construir un argumento bastante convincente sobre la versatilidad imbatible de la magia azul, pero unas cuantas notas más del terreno no vendrían mal. En fin, esas son todas las novedades del gremio...
+TEXT_JOBAOZ602_03989_MARTYN_000_007	Ah, P'yandih, mi diligente discípula. Hoy es el día en que t...
+TEXT_JOBAOZ602_03989_PYANDIH_000_008	¡<split(<string(gstr1)>, ,1)>, esperaba que volviera! Estuve practicando toda la magia azul que pude conseguir, ¡y me encantaría que viera mis progresos!
+TEXT_JOBAOZ602_03989_MARTYN_000_009	Vamos, vamos, habrá tiempo para eso después. <italic(1)>Como iba diciendo<italic(0)>, hoy es el día de tu gran examen.
+TEXT_JOBAOZ602_03989_Q1_000_000	¿Qué dices?
+TEXT_JOBAOZ602_03989_A1_000_001	Siento que... falta algo.
+TEXT_JOBAOZ602_03989_A1_000_002	¿Dónde está tu amigo?
+TEXT_JOBAOZ602_03989_PYANDIH_000_010	Ah, ¿se refiere a Nutiba? Le iba muy bien, y un día, no hace mucho, simplemente... se fue.
+TEXT_JOBAOZ602_03989_MARTYN_000_011	Sí, fue una lástima perder a un alumno tan prometedor, pero seguro que tenía sus razones. Solo nos queda esperar que ande por ahí dejando bien parados a los blue mages.
+TEXT_JOBAOZ602_03989_ROYSE_000_012	¡<split(<string(gstr1)>, ,1)>! Nadie me dijo que estabas disponible, querid<if(gnum4,a,o)>. Aunque el trabajo que tengo en mente no está a la altura de tu talento, de todos modos. Puedo arreglármelas con Azuro the Third, aquí presente...
+TEXT_JOBAOZ602_03989_ROYSE_000_013	Verán, recibo a unos clientes que viajaron desde el Lejano Oriente para presenciar el espectáculo del Great Azuro, o de alguna de sus encarnaciones, combatiendo en el Masked Carnivale. Sé que es sin aviso, pero te necesito en el Celestium ya mismo.
+TEXT_JOBAOZ602_03989_MARTYN_000_014	Lo siento, Royse, pero hoy es un día impor...
+TEXT_JOBAOZ602_03989_ROYSE_000_015	¿Ya mencioné que esos clientes son ricos mercaderes de Kugane? Si das un buen espectáculo, quizá consigamos nuevos inversionistas... lo que significa más dinero para repartir.
+TEXT_JOBAOZ602_03989_MARTYN_000_016	Bueno, no querríamos decepcionar a nuestros distinguidos invitados, ¿verdad? ¡Más vale que haga unos estiramientos!
+TEXT_JOBAOZ602_03989_MARTYN_000_017	Te dejo a cargo del examen de P'yandih, <split(<string(gstr1)>, ,1)>. Sinceramente, ¡no tiene nada de difícil! Ya le conseguí un voidsent para pelear: lo único que tienes que hacer es ver si gana o no.
+TEXT_JOBAOZ602_03989_MARTYN_000_018	Su rival la espera en Spineless Basin, una bestia grandota con tentáculos. Preséntense, ¡y P'yandih podrá lanzarse al ataque!
+TEXT_JOBAOZ602_03989_PYANDIH_000_019	\<suspiro> Martyn nunca cambia, ¿verdad? Me da vueltas la cabeza... Pero al menos así puedo mostrarle cuánto mejoré. ¡Vamos, busquemos a ese voidsent!
+TEXT_JOBAOZ602_03989_ORTHRUS_000_020	¡Oye, te conozco! Eres ese personaje, Azuro the Second.
+TEXT_JOBAOZ602_03989_ORTHRUS_100_020	Martyn me dijo que iba a entrenar contra una novata joven y bonita, así que tú no te metas, ¿está bien?
+TEXT_JOBAOZ602_03989_ORTHRUS_000_021	¡Muajajá! <italic(1)>Eso<italic(0)> es lo que quería oír. ¡Prometo no dejarte demasiados moretones!
+TEXT_JOBAOZ602_03989_PYANDIH_000_022	Eh, <split(<string(gstr1)>, ,1)>... ¿Algún consejo para enfrentar a esta bestia?
+TEXT_JOBAOZ602_03989_Q2_000_000	¿Qué dices?
+TEXT_JOBAOZ602_03989_A2_000_001	¡Hazlo takoyaki!
+TEXT_JOBAOZ602_03989_A2_000_002	¡Cuidado con su ataque de imp!
+TEXT_JOBAOZ602_03989_ORTHRUS_000_023	¡Ay, ay, ay! ¡Eso dolió!
+TEXT_JOBAOZ602_03989_ORTHRUS_000_024	¡Ay! ¡Justo en los cefalópodos!
+TEXT_JOBAOZ602_03989_ORTHRUS_000_025	¡Basta! ¡Me rindo! ¡El tío Ulty no se anotó para esto!
+TEXT_JOBAOZ602_03989_PYANDIH_000_026	¡Lo logré! ¡Gané! ¡Ahora puedo debutar en el Masked Carnivale!
+TEXT_JOBAOZ602_03989_PYANDIH_000_027	Verá, el título de "Azuro the Fourth" dependía del resultado de este examen...
+TEXT_JOBAOZ602_03989_PYANDIH_000_028	...Solo que ese honor en realidad le correspondía a Nutiba. Él siempre fue mucho más hábil que yo con la magia azul.
+TEXT_JOBAOZ602_03989_PYANDIH_000_029	¿Qué lo habrá llevado a irse así? Me daba cuenta de que algo le preocupaba, pero desapareció sin decir una palabra. Qué desperdicio...
+TEXT_JOBAOZ602_03989_PYANDIH_000_030	Pero no, no me corresponde cuestionar sus decisiones. Él tiene su vida y yo la mía. Volvamos a la ciudad a ver si terminó el combate de Martyn, ¿le parece?
+TEXT_JOBAOZ602_03989_ROYSE_000_035	Nos volvemos a ver, querid<if(gnum4,a,o)>.
+TEXT_JOBAOZ602_03989_MARTYN_000_040	¿Y cómo te fue con el examen?
+TEXT_JOBAOZ602_03989_MARTYN_000_041	¡Fantástico! Así que tenemos otra Azuro para deslumbrar al público, ¿eh?
+TEXT_JOBAOZ602_03989_MARTYN_000_042	Mi propia demostración salió bastante bien, me pareció. De hecho, nuestros invitados del Lejano Oriente deberían llegar pronto para colmarme de elogios...
+TEXT_JOBAOZ602_03989_ROYSE_000_043	¡Bienvenidos, bienvenidos! Qué función, ¿no les parece?
+TEXT_JOBAOZ602_03989_GUEST03989_000_044	No me parece. Vaya, su "Masked Carnivale" no es más que una mala copia del Fukumen Fighting Festival de Kugane.
+TEXT_JOBAOZ602_03989_ROYSE_000_045	...¿Fu-ku-men?
+TEXT_JOBAOZ602_03989_GUEST03989_000_046	Nuestra palabra para "máscaras", señorita Royse. Las llevan los hechiceros azules que se enfrentan a las temibles criaturas del festival, oponiendo hechizos espectaculares a la ferocidad salvaje. Es muy popular entre el público.
+TEXT_JOBAOZ602_03989_MARTYN_000_047	¿D-Dijo "hechiceros azules"...?
+TEXT_JOBAOZ602_03989_GUEST03989_000_048	Si hubiera sabido que me esperaba un entretenimiento de segunda, habría terminado mi viaje en su "Golden Saucer".
+TEXT_JOBAOZ602_03989_ROYSE_000_049	¡¿Oí bien?! ¡Porque suena a que alguien está ganando dinero con <italic(1)>mi<italic(0)> negocio!
+TEXT_JOBAOZ602_03989_ROYSE_000_050	Martyn, necesito que tomes el próximo barco a Kugane e investigues eso del festival Fu-ku-men. Si de verdad es una imitación descarada del Masked Carnivale, pienso protestar con toda la contundencia posible. Va a haber <italic(1)>magistrados<italic(0)> de por medio.
+TEXT_JOBAOZ602_03989_MARTYN_000_051	A mí, en lo personal, me intrigan esos supuestos "hechiceros azules". ¡Si descubro que se están burlando de nuestro arte, se va a armar la de los siete infiernos!
+TEXT_JOBAOZ602_03989_ROYSE_000_052	Mientras Martyn esté al otro lado del mar, contamos contigo para cubrir el hueco en el Celestium, querida. Te ganaste el título de Azuro the Fourth: ahora veamos cómo te queda el disfraz.
+TEXT_JOBAOZ602_03989_PYANDIH_100_053	¡Contemplen!
+TEXT_JOBAOZ602_03989_PYANDIH_000_053	¡El orgulloso linaje del Great Azuro sigue vivo!
+TEXT_JOBAOZ602_03989_MARTYN_000_054	Sí que das el papel, P'yandih.
+TEXT_JOBAOZ602_03989_MARTYN_000_055	Dioses, siento que la distancia entre maestro y alumna se acorta día a día. Más vale que amplíe mi propio libro de hechizos si quiero seguir llamándome maestro del gremio...
+TEXT_JOBAOZ602_03989_MARTYN_000_056	Y creo que tú también deberías mantenerte un paso adelante. ¡Basic Instinct es uno bueno para aprender! Cuando lo domines, y hayas pulido un poco tus poderes, te agradecería que pasaras a ver cómo está P'yandih.
+TEXT_JOBAOZ602_03989_MARTYN_000_057	Por un tiempo no voy a estar para dar clases, ¡pero tengo mucha fe en que el gremio nunca va a tambalear con ustedes dos a cargo!
+TEXT_JOBAOZ602_03989_PYANDIH_000_058	Vamos a estar bien, seguro. El que me preocupa es Martyn... En fin, ¡voy a cuidar el fuerte aquí por si necesita algo!

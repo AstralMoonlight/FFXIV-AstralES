@@ -1,0 +1,73 @@
+key	text
+TEXT_JOBAOZ650_03991_SEQ_00	Martyn te recibe con una sonrisa confiada.
+TEXT_JOBAOZ650_03991_SEQ_01	Llegó el día del combate de exhibición, y Martyn se declara listo para el duelo. Más o menos. En realidad, se sentiría mucho más seguro si de algún modo pudiera recuperar el disfraz que Gyodo le robó y vendió. Te invita a recorrer los callejones de Kogane Dori para hacer salir al inescrupuloso Namazu.
+TEXT_JOBAOZ650_03991_SEQ_02	Logras abordar a Gyodo, solo para descubrir que subastó el atuendo de Martyn pieza por pieza. Parece que tendrás que revisar las tiendas y los puestos de Kugane para volver a comprarlas. Martyn dice que buscará en los mercados del Rakuza District, y te ofrece como voluntari<if(gnum4,a,o)> para visitar a los comerciantes de Kogane Dori.
+TEXT_JOBAOZ650_03991_SEQ_03	Tus preguntas sobre el paradero del disfraz de Martyn traen noticias desalentadoras: por lo que entiendes, un tipo lalafell se te adelantó y compró las distintas prendas de blue mage. Pero si te apuras, quizá todavía alcances al hombre por los alrededores...
+TEXT_JOBAOZ650_03991_SEQ_04	El lalafell huye al verte llegar, pero cuando lo acorralas en un callejón, el joven deja caer los hombros, resignado. Es Nutiba Buntiba. Admite con tristeza que es Bluehood, y confiesa su parte en el robo de los soul crystals y en la organización del festival. Sin querer, y al parecer sin poder, explicar lo que hizo, igual busca reparar un poco el daño poniendo en tus manos el disfraz completo del Great Azuro. Nutiba te pide que le lleves el atuendo a Martyn, que te espera frente a las puertas del castillo, cerca del Ijin District.
+TEXT_JOBAOZ650_03991_SEQ_05	Desconcertado, Martyn acepta el disfraz y entra a la arena para su duelo con Golden Goliath. Pero a pesar de todos sus esfuerzos, el maestro del gremio se ve abrumado por el dominio de su rival de varias formas de magia. Completamente abatido, pero sin poder contener la curiosidad, Martyn vuelve a esperar junto a las puertas para interrogar al hombre que lo apaleó de forma tan contundente.
+TEXT_JOBAOZ650_03991_SEQ_06	Ante las preguntas incrédulas de Martyn, Golden Goliath afirma que no tuvo maestro, que sus artes son "inimitables". Despachado con grosería por un Kageyama exultante, Martyn vuelve arrastrando los pies a la casa de té.
+TEXT_JOBAOZ650_03991_SEQ_07	Ardiendo de ganas de una revancha, Martyn decide que hace falta investigar más a fondo las artes inimitables de Golden Goliath. Luego vuelve a ocuparse de los clientes de la casa de té, no sin antes aconsejarte que no descuides tus propios estudios avanzados.<br><br>※La siguiente misión de blue mage estará disponible con Martyn al llegar al nivel 68 y aprender Ultravibration.
+TEXT_JOBAOZ650_03991_TODO_00	Habla con Martyn.
+TEXT_JOBAOZ650_03991_TODO_01	Habla con los comerciantes de Kogane Dori.
+TEXT_JOBAOZ650_03991_TODO_02	Habla con el tipo lalafell.
+TEXT_JOBAOZ650_03991_TODO_03	Llévale el disfraz de Azuro a Martyn.
+TEXT_JOBAOZ650_03991_TODO_04	Habla con Martyn.
+TEXT_JOBAOZ650_03991_TODO_05	Vuelve a hablar con Martyn.
+TEXT_JOBAOZ650_03991_MARTYN_100_000	Tenemos que estar listos para cualquier cosa, <split(<string(gstr1)>, ,1)>. En poder bruto estás entre los mejores, ¡pero no olvides que la mayor fortaleza de la magia azul es la versatilidad!
+TEXT_JOBAOZ650_03991_SYSTEM_100_001	La siguiente misión de blue mage estará disponible con Martyn al aprender Tingle.
+TEXT_JOBAOZ650_03991_MARTYN_200_000	¡<split(<string(gstr1)>, ,1)>! Te estuviste preparando por si se daba el improbable caso de que yo no estuviera en condiciones para el combate, ¿eh?
+TEXT_JOBAOZ650_03991_MARTYN_000_000	Aprecio el esfuerzo, pero como ves, estoy más que listo para enfrentar a Golden Goliath yo solito. Hoy es el día en que nos vemos las caras, y estuve rondando el festival para estudiar el estilo de pelea de mi rival.
+TEXT_JOBAOZ650_03991_MARTYN_000_001	Por lo que pude averiguar, el viejo Goldie aprendió todos sus hechizos de las criaturas exóticas del festival: técnicas que nunca vi ni oí nombrar.
+TEXT_JOBAOZ650_03991_MARTYN_000_002	Pero eso solo significa que su repertorio de magia azul es limitado. Yo, en cambio, pasé muchas lunas armando un arsenal variado de maravillas ofensivas y defensivas. ¡No hay forma de que pierda!
+TEXT_JOBAOZ650_03991_Q1_000_000	¿Qué dices?
+TEXT_JOBAOZ650_03991_A1_000_001	Nada es seguro.
+TEXT_JOBAOZ650_03991_A1_000_002	No te confíes...
+TEXT_JOBAOZ650_03991_MARTYN_000_003	Voy a estar bien, ¡créeme! Aunque hay un problemita...
+TEXT_JOBAOZ650_03991_MARTYN_000_004	No tengo mi disfraz. Sé que es una tontería, pero meterme en el personaje me ayuda a concentrar mis habilidades.
+TEXT_JOBAOZ650_03991_MARTYN_000_005	Tengo ganas de colgar a nuestro amigo Gyodo y averiguar dónde vendió mi ropa... ¿Me acompañas?
+TEXT_JOBAOZ650_03991_MARTYN_000_006	Bien. Mis compañeros de la casa de té aceptaron cubrir mis tareas, así que ahora tengo un poco de tiempo. Volvamos a los callejones a ver si logramos hacer salir a ese pescado.
+TEXT_JOBAOZ650_03991_MARTYN_000_010	Está cerca, me parece. Casi puedo <italic(1)>olerlo<italic(0)>...
+TEXT_JOBAOZ650_03991_GYODO_000_011	¡Entradas! Compren sus entr... ¡Argh, otra vez ustedes dos!
+TEXT_JOBAOZ650_03991_MARTYN_000_012	Creí que podía vivir sin mi ropa vieja, Gyodo, pero resulta que soy un poco sentimental. Necesito saberlo: ¿a quién le vendiste mi guardarropa?
+TEXT_JOBAOZ650_03991_GYODO_000_013	¿Su atuendo brillante? Ah, lo subasté pieza por pieza con un comerciante de segunda mano, y lo compraron mercaderes del Rakuza District y de Kogane Dori.
+TEXT_JOBAOZ650_03991_GYODO_000_014	No sé qué tiendas lo tienen ahora, pero si piensa volver a comprar su disfraz, más vale que se apure, ¿sí, sí?
+TEXT_JOBAOZ650_03991_MARTYN_000_015	Hm, bueno, suena a un trabajo para dos magos. ¿Puedo pedirte que revises las tiendas de Kogane Dori? Yo me encargo del Rakuza District.
+TEXT_JOBAOZ650_03991_MARTYN_000_016	Compra todas las piezas que encuentres y saldamos cuentas en el castillo. ¡Ojalá me alcance la bolsa!
+TEXT_JOBAOZ650_03991_MUTO_000_020	¿Subastado por Gyodo, dices...? Ah, sí, ¡esas prendas extranjeras! Acabo de venderlas.
+TEXT_JOBAOZ650_03991_ITTO_000_021	Pues sí, hace poco le compré algo a un vendedor Namazu. ¿Supongo que se refiere a ese cetro tan raro?
+TEXT_JOBAOZ650_03991_ITTO_000_022	Si se apura, quizá pueda hacer un trato con el cliente que lo compró. Era un joven lalafell, se fue hace apenas unos momentos.
+TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_030	Yo... ¡Tengo que irme!
+TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_031	(-Nutiba Buntiba-)Perdone que haya salido corriendo, me entró el pánico y... \<suspiro> Espero que haya estado bien.
+TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_032	(-Nutiba Buntiba-)No quiero mentirle a usted, justamente, así que déjeme confirmarle lo que cree el maestro del gremio: <italic(1)>sí<italic(0)>, soy Bluehood.
+TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_033	(-Nutiba Buntiba-)Todo esto, robar los soul crystals, montar el festival, vender los secretos de la hechicería azul, fue cosa mía. Sabía que estaba mal, y no espero que me perdonen.
+TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_034	(-Nutiba Buntiba-)Pero también debe saber que no tuve otra opción, por razones que por ahora no puedo explicar...
+TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_035	(-Nutiba Buntiba-)Tome. Esto no alcanza ni de lejos para compensar lo que hice, pero me tomé la libertad de recuperar el disfraz de Azuro. Por favor, asegúrese de que llegue a manos de Martyn.
+TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_036	(-Nutiba Buntiba-)Va a necesitar toda la ventaja que pueda conseguir contra Golden Goliath... aunque dudo que le sirva de algo. Que le vaya bien, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBAOZ650_03991_MARTYN_000_040	No queda nada. Todos los tenderos que tenían una pieza de mi disfraz ya la habían vendido. ¿Supongo que a ti no te fue mejor?
+TEXT_JOBAOZ650_03991_MARTYN_000_041	¡¿Conseguiste el juego completo?! Pero ¿cómo...?
+TEXT_JOBAOZ650_03991_MARTYN_000_042	¿Y Nutiba simplemente te lo <italic(1)>dio<italic(0)>? No entiendo. ¿A qué está jugando?
+TEXT_JOBAOZ650_03991_MARTYN_100_042	Bueno, dejemos ese misterio para después: tengo un combate que ganar y no necesito más distracciones.
+TEXT_JOBAOZ650_03991_MARTYN_000_043	Llegó la hora de que Azuro the Third demuestre lo que vale en este escenario del Lejano Oriente. Vamos a ver de qué está hecho realmente este Goldie...
+TEXT_JOBAOZ650_03991_KUGANEMC_000_070	¡Damas y caballeros! Para el espectáculo de esta noche les traemos un combate de exhibición fuera de ranking con el incomparable, el invencible, el implacable ¡GOLDEN GOLIATH!
+TEXT_JOBAOZ650_03991_KUGANEMC_000_071	¡Su rival es un forastero en nuestras costas, un desafiante del lejano oeste que busca medir sus formidables habilidades contra nuestro campeón vigente! ¡Reciban a Azuro the Third!
+TEXT_JOBAOZ650_03991_SPECTATORMAN03991_000_072	¡Mírenlo! Este tonto no es más que un aspirante a Bluehood. ¡Nunca va a vencer a Golden Goliath!
+TEXT_JOBAOZ650_03991_MARTYN_000_073	¡Les voy a mostrar cómo pelea un practicante <italic(1)>de verdad<italic(0)> de la magia azul!
+TEXT_JOBAOZ650_03991_MARTYN_000_074	¡Prueba esto!
+TEXT_JOBAOZ650_03991_GOGO_000_075	(-Golden Goliath-)¡<italic(1)>Prueba esto<italic(0)>!
+TEXT_JOBAOZ650_03991_MARTYN_000_076	Por todos los infiernos...
+TEXT_JOBAOZ650_03991_KUGANEMC_000_077	¡Ojo! El desafiante parece tener algunos trucos bajo la manga, pero ¿le bastarán para derribar a nuestro dorado modelo de virtudes?
+TEXT_JOBAOZ650_03991_MARTYN_000_078	¡Y hay más de donde salió eso!
+TEXT_JOBAOZ650_03991_GOGO_000_079	(-Golden Goliath-)¡<italic(1)>Y hay más de donde salió eso<italic(0)>!
+TEXT_JOBAOZ650_03991_MARTYN_000_080	Pero... Ningún blue mage puede hacer eso... ¿o sí?
+TEXT_JOBAOZ650_03991_KUGANEMC_000_081	¡Y Azuro the Third cae! ¡Victoria para Golden Goliath!
+TEXT_JOBAOZ650_03991_MARTYN_000_090	Bueno, eso fue todo. Fracasé. Ahora nunca van a hacer caso a mis exigencias.
+TEXT_JOBAOZ650_03991_MARTYN_000_091	¿Y qué fueron esos hechizos que lanzó Goldie al final? Juro que solo lo había visto usar técnicas de monstruos, y de repente me tira Flare y Holy.
+TEXT_JOBAOZ650_03991_MARTYN_000_092	Te lo digo, como estudioso de las artes arcanas desde hace años, esto me carcome por dentro. ¡¿Cómo puede alguien manejar magia azul, blanca <italic(1)>y<italic(0)> negra al mismo tiempo, maldita sea?! No me voy hasta tener algunas respuestas.
+TEXT_JOBAOZ650_03991_MARTYN_000_093	Me diste una paliza en toda regla, amigo, pero tengo que preguntarte: ¿dónde aprendiste a pelear así? ¿Quién fue tu maestro?
+TEXT_JOBAOZ650_03991_GOGO_000_094	(-Golden Goliath-)¿Maestro? No tuve maestro. Mis artes son solo mías. Son... inimitables.
+TEXT_JOBAOZ650_03991_KAGEYAMA_000_095	¡Lárgate, perro quejoso! ¡Ve a lloriquear por tu derrota a otra parte! ¡Jajajajá!
+TEXT_JOBAOZ650_03991_MARTYN_000_096	¿Sin maestro? ¿Así que aprendió todo eso <italic(1)>solo<italic(0)>? No parece posible...
+TEXT_JOBAOZ650_03991_MARTYN_000_097	Rayos, se está haciendo tarde. Perdona que me vaya corriendo, pero me necesitan en la casa de té.
+TEXT_JOBAOZ650_03991_MARTYN_000_100	Esto ya no se trata del festival, <split(<string(gstr1)>, ,1)>: ¡está en juego la reputación de nuestro gremio! ¡No voy a dejar que termine en derrota!
+TEXT_JOBAOZ650_03991_MARTYN_000_101	Voy a desafiar a Goldie a una revancha, no te preocupes por eso. Pero primero tengo que saber más del hombre y de su arte "inimitable" si quiero tener alguna oportunidad.
+TEXT_JOBAOZ650_03991_MARTYN_000_102	Ah, y, eh, no deberías descuidar tus estudios mientras tanto. ¿Por qué no intentas adquirir Ultravibration? Ahora, si me disculpas, tengo clientes que atender...

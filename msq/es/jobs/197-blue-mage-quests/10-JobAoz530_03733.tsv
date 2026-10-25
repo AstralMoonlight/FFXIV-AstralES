@@ -1,0 +1,51 @@
+key	text
+TEXT_JOBAOZ530_03733_SEQ_00	Martyn piensa darles una lección a Nutiba Buntiba y P'yandih.
+TEXT_JOBAOZ530_03733_SEQ_01	Ahora que Northerlies forma parte de tu colección de hechizos, Martyn tiene ganas de que les muestres a P'yandih y a Nutiba Buntiba la forma y la técnica correctas de un blue mage. Los dos aprendices esperan ansiosos tu llegada en Hammerlea, donde se dará la lección, aunque todavía no te explicaron qué habilidades se supone que vas a enseñar.
+TEXT_JOBAOZ530_03733_SEQ_02	Poco después de llegar a Hammerlea, Martyn revela que vas a combatir contra un mammet que pidió prestado al Celestium, para mostrarles a los alumnos las aplicaciones prácticas de la magia azul. Tu autoproclamado mentor te da un momento para ordenar tus ideas antes de activar al adorable pero letal autómata armado con un hacha.
+TEXT_JOBAOZ530_03733_SEQ_03	Los golpes lentos y pausados del arena viking no son rival para tus hechizos de magia azul rápidos y precisos, y al poco tiempo el mammet yace inmóvil a tus pies. Martyn, en cambio, se ve visiblemente afligido al ver inutilizada la costosa máquina, porque sin duda tendrá que buscar el dinero para pagar las reparaciones.
+TEXT_JOBAOZ530_03733_SEQ_04	Nutiba Buntiba y P'yandih comentan que tus ágiles movimientos y tu incesante andanada de ataques fueron decisivos para la victoria, y parece que aprendieron una lección valiosa. Terminada la demostración, Martyn encabeza el regreso a Ul'dah.
+TEXT_JOBAOZ530_03733_SEQ_05	En el Blue Mages' Guild te enteras de que Martyn no solo les cobra las clases a sus aprendices, sino que la demostración que diste les salió más cara de lo habitual. Él asegura que es un medio para un fin, porque sus aportes hacen falta para el funcionamiento diario del gremio. Quizá en un intento algo apresurado de cambiar de tema, saca el asunto de los distintos papeles que cumplen los aventureros cuando forman grupos para salir a explorar. Normalmente los miembros se reparten el ataque, la defensa y la curación, pero en el caso de los blue mages, pueden cumplir todas esas funciones a la vez. De hecho, hubo varios informes de grupos formados solo por blue mages que tuvieron bastante éxito en esas empresas. Martyn quiere investigarlo más a fondo, con la esperanza de demostrar la eficacia de los miembros de su gremio en combates reales. Mientras tanto, te pide que te prepares para la próxima lección con Nutiba Buntiba y P'yandih dominando Whistle, un hechizo que, es de suponer, él ya conoce.<br><br>※La siguiente misión de blue mage estará disponible con Martyn al llegar al nivel 55 y aprender Whistle.
+TEXT_JOBAOZ530_03733_TODO_00	Habla con Martyn en Hammerlea.
+TEXT_JOBAOZ530_03733_TODO_01	Vuelve a hablar con Martyn y derrota al arena viking.
+TEXT_JOBAOZ530_03733_TODO_02	Habla con Martyn.
+TEXT_JOBAOZ530_03733_TODO_03	Habla con Martyn en Ul'dah.
+TEXT_JOBAOZ530_03733_MARTYN_100_000	Vamos, <split(<string(gstr1)>, ,1)>. Los dos sabemos muy bien que todavía no aprendiste Northerlies. No sirve de nada que intentes engañarme, ¿sabes?
+TEXT_JOBAOZ530_03733_SYSTEM_100_001	La siguiente misión de blue mage estará disponible con Martyn al aprender Northerlies.
+TEXT_JOBAOZ530_03733_MARTYN_000_000	¡Ah, esa es la cara de alguien que se enfrentó a uno o tres yetis! Ahora que dominas Northerlies, estás un paso más cerca de mi nivel.
+TEXT_JOBAOZ530_03733_MARTYN_000_001	Y como te dije antes, quiero que me ayudes a entrenar a un par de blue mages novatos. ¿Te acuerdas de los dos que prácticamente te rogaban que les enseñaras? Parece que por fin se les va a cumplir el deseo. Nos vemos en Hammerlea.
+TEXT_JOBAOZ530_03733_LATOOLJA_000_005	Latool Ja cree que el poder se le está subiendo a la cabeza a Martyn. ¡Pronto no le va a caber en su sombrerito azul!
+TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_006	\<jadeo> Si estoy soñando, ¡no me despierten!
+TEXT_JOBAOZ530_03733_PYANDIH_000_007	¡No me lo perdería por nada del mundo!
+TEXT_JOBAOZ530_03733_MARTYN_000_010	Normalmente, lograr que estos dos entrenen en serio es una maldita cuesta arriba, pero en cuanto les dije que ibas a venir, no podían llegar lo bastante rápido.
+TEXT_JOBAOZ530_03733_MARTYN_000_011	Pensé que tenían que ver magia azul práctica, lejos de todo el espectáculo del Masked Carnivale, así que pedí prestado este arena viking para que hagas una demostración de algunos hechizos. Pero no te pases con él, ¿eh? Tengo que devolverlo, ¿sabes?
+TEXT_JOBAOZ530_03733_MARTYN_000_012	Avísame cuando estés list<if(gnum4,a,o)> y lo pongo en "Mutilar levemente".
+TEXT_JOBAOZ530_03733_MARTYN_000_013	¡Escuchen, ustedes dos! No se pasen todo el rato embobados con ojos de enamorados. ¡Fíjense en qué hechizos usa <split(<string(gstr1)>, ,1)> y cuándo!
+TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_016	¡Permítame decirle qué honor y qué privilegio es recibir las enseñanzas de <if(gnum4,una verdadera maestra,un verdadero maestro)> de las artes azules!
+TEXT_JOBAOZ530_03733_PYANDIH_000_017	Normalmente solo podemos verl<if(gnum4,a,o)> desde las gradas baratas del Celestium, ¡así que esto es un verdadero lujo!
+TEXT_JOBAOZ530_03733_MARTYN_000_020	¡Vamos, montón de tornillos!
+TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_025	¡Asombroso! ¡Increíble!
+TEXT_JOBAOZ530_03733_PYANDIH_000_026	¡Hizo que pareciera fácil!
+TEXT_JOBAOZ530_03733_MARTYN_000_030	¡Ja, ja! ¡Tal como te enseñé! Ejem.
+TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_031	¡Qué movimientos tan fluidos! ¡Y sus pasos fueron todo un espectáculo!
+TEXT_JOBAOZ530_03733_PYANDIH_000_032	¡No tuvo ninguna oportunidad! ¡Usted siguió atacando y atacando hasta dejarlo hecho un montón de chatarra humeante!
+TEXT_JOBAOZ530_03733_MARTYN_000_033	Sí, muy impresionante. (Después hablamos de esto, <split(<string(gstr1)>, ,1)>...) Creo que por ahora es <italic(1)>más<italic(0)> que suficiente. ¡Todos de vuelta a Ul'dah!
+TEXT_JOBAOZ530_03733_LATOOLJA_000_035	¿Martyn estuvo como siempre, humilde? Con eso quiero decir: "¿Se comportó como si fuera el regalo de los dioses a la magia?".
+TEXT_JOBAOZ530_03733_MARTYN_000_040	Mandé a Nutiba Buntiba y a P'yandih a hacer unos encargos para el gremio, pero llegarán pronto.
+TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_041	¡Dioses benditos! ¡Esas no son las tarifas que acordamos!
+TEXT_JOBAOZ530_03733_MARTYN_000_042	¡Los mammets y los instructores invitados no salen baratos, ¿saben?! Y además, unos gil extra les van a parecer una miseria cuando sean blue mages hechos y derechos. ¡No se van a arrepentir, se los prometo!
+TEXT_JOBAOZ530_03733_MARTYN_000_043	Así está mejor. Si siguen el ejemplo de <split(<string(gstr1)>, ,1)> y el mío, van a tumbar bestias feroces a diestra y siniestra. ¡Ahora vuelvan a su entrenamiento, mis fieles aprendices!
+TEXT_JOBAOZ530_03733_MARTYN_000_044	Por todos los infiernos, ¿qué creen que dirijo aquí? ¡¿Una obra de caridad?!
+TEXT_JOBAOZ530_03733_Q1_000_000	¿Qué dices?
+TEXT_JOBAOZ530_03733_A1_000_001	No sabía que cobrabas por estas "lecciones" tuyas.
+TEXT_JOBAOZ530_03733_A1_000_002	¡Cállate y dame mi parte!
+TEXT_JOBAOZ530_03733_MARTYN_000_045	¿De qué otra forma crees que mantengo a flote el gremio? Y para que sepas, las tarifas son perfectamente razonables, sobre todo si se consideran todos los "gastos imprevistos". Vas a recibir tu parte, no te preocupes.
+TEXT_JOBAOZ530_03733_MARTYN_000_046	¡Cálmate, no me olvidé! Pero no te hagas ilusiones. Las tarifas no son ni de lejos tan altas como dicen esos dos. Lo justo para mantener a flote el gremio.
+TEXT_JOBAOZ530_03733_MARTYN_000_047	Lo más importante es que me enteré de otra cosa.
+TEXT_JOBAOZ530_03733_MARTYN_000_048	Mis aprendices no son los únicos que salen a buscar enemigos con los que poner a prueba sus habilidades. Como todo el mundo sabe, los aventureros suelen juntarse para meterse en catacumbas abandonadas, mansiones embrujadas y lugares así. Normalmente deciden de antemano quién hace qué, según su especialidad.
+TEXT_JOBAOZ530_03733_MARTYN_000_049	Uno para abrir camino y atraer a las bestias, un par más para apuñalar, quemar y demás, y quizá alguien que se ocupe de las extremidades destrozadas y las heridas abiertas. En otras palabras, todos tienen un papel que cumplir.
+TEXT_JOBAOZ530_03733_MARTYN_000_050	¡Pero cuando me enteré de que grupos de blue mages lo estaban haciendo igual de bien sin especializarse en ningún papel, me puse loco de contento! ¿Por qué? Porque eso solo puede significar una cosa:
+TEXT_JOBAOZ530_03733_MARTYN_000_051	¡Los blue mages pueden hacer tooodooo!
+TEXT_JOBAOZ530_03733_MARTYN_000_052	Atacar, defender, curar... ¡lo que quieras!
+TEXT_JOBAOZ530_03733_MARTYN_000_053	Claro, eso ya lo sabíamos, pero nunca había pensado en usar la magia azul fuera del combate uno contra uno. Les pedí a los miembros del gremio que escriban un informe cada vez que salgan a explorar en grupo, para poder idear nuevas estrategias de trabajo con otros.
+TEXT_JOBAOZ530_03733_MARTYN_000_054	Hasta P'yandih y Nutiba Buntiba quizá tengan algo interesante que contarme la próxima vez que nos veamos. Eso sí, esos dos se llevan con la magia azul como los gatos... y los popotos con el agua. O sea, no muy bien. Por eso los voy a llevar a entrenar más, y me gustaría que nos acompañaras.
+TEXT_JOBAOZ530_03733_MARTYN_000_055	Hasta entonces, ¡quiero que aprendas Whistle! No a silbar juntando los labios, sino el hechizo de magia azul. ¡Ahora ve, mi aprendiz irritantemente capaz!

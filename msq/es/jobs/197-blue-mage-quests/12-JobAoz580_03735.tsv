@@ -1,0 +1,87 @@
+key	text
+TEXT_JOBAOZ580_03735_SEQ_00	Martyn intenta desesperadamente no pensar en el inminente combate contra Siegfried.
+TEXT_JOBAOZ580_03735_SEQ_01	A pesar de su próximo combate contra un gladiator del Coliseum, Martyn prefirió lanzarse a investigar las aplicaciones de la magia azul. Le interesa sobre todo saber qué tan bien mantienen en forma los hechizos que domina a un grupo de blue mages que explora lugares peligrosos, como Copperbell Mines, que piensa visitar. Un aumento reciente de la actividad de los hecatoncheires volvió demasiado peligroso para los trabajadores entrar al sitio de excavación, y Martyn quiere sofocar el levantamiento, poner a prueba sus teorías y entrenar a P'yandih y a Nutiba Buntiba, todo de una sola vez. A sus dos jóvenes aprendices les dijeron que te esperen en el asentamiento cercano de Horizon, a poca distancia de las minas.
+TEXT_JOBAOZ580_03735_SEQ_02	En Horizon, P'yandih explica que ya estuvo varias veces en Copperbell Mines. Nutiba Buntiba, en cambio, no tiene su experiencia, pero se esforzó por estudiar el trazado de los túneles. Martyn, por su parte, no sabe casi nada de las minas: nunca estuvo allí y no se molestó en reunir información de antemano. Sin embargo, el lema de Nutiba, "No prepararse es prepararse para fracasar", parece haberlo tocado. Martyn guía al grupo por las llanuras de Western Thanalan hasta el lugar de la cacería de hecatoncheires.
+TEXT_JOBAOZ580_03735_SEQ_03	Para sorpresa de todos, el primer rival que recibe al grupo no es un hecatoncheir, sino un voidsent alado. Martyn y sus dos alumnos ya mataron a la bestia cuando llegas y, como llegaste tarde a la batalla, te designan para buscar por la zona a una criatura parecida que se les escapó y es una amenaza para la gente de Horizon.
+TEXT_JOBAOZ580_03735_SEQ_04	Pronto encuentras al voidsent flotando amenazante a poca distancia de la mina y, aunque está decidido a hacerte trocitos de carne del tamaño de un bocado, termina cayendo ante tu magia azul. Vuelves a contarles el resultado de tu batalla a Martyn y a los demás, que siguen intentando desentrañar el misterio de qué pasó exactamente aquí.
+TEXT_JOBAOZ580_03735_SEQ_05	Martyn se da cuenta de que los voidsent son idénticos a los que se usan en el Masked Carnivale, y la pregunta de cómo pudo pasar esto se responde enseguida cuando Fyrgeiss y su hijo Zirnberk salen de la mina. Soltaron voidsent en los túneles para eliminar a los hecatoncheires que habían invadido Copperbell Mines, una tarea que normalmente les tocaría a los Stone Torches. Royse, que se enteró por sus subordinados de dónde estaba Fyrgeiss, llega para reprocharle que se llevara los voidsent de la colección del Celestium. Él responde que su reciente inversión le da derecho a usar las criaturas como quiera. Royse insiste en que, a pesar del respaldo económico que recibió, su posición no cambió, y estalla una discusión venenosa entre ella y Fyrgeiss. Martyn interviene para sugerir que, en lugar de usar voidsent, Amajina & Sons podría contratar al Blue Mages' Guild para proteger su propiedad. Cuando le tiran la propuesta en la cara con crueldad, cambia de táctica rápidamente y ofrece una apuesta basada en el resultado de su combate con Zirnberk. Si pierde, el control del Celestium pasaría a Fyrgeiss y se permitiría seguir usando a los voidsent como armas vivientes. Si Martyn gana, Royse seguiría siendo la dueña y el Blue Mages' Guild pasaría a trabajar para Amajina & Sons Mineral Concern. Aunque a Royse le horroriza la idea de poner su sustento en las manos poco confiables de Martyn, Fyrgeiss acepta con gusto, seguro de que su hijo saldrá vencedor. Después de haber dicho más que suficiente por un día, tu mentor decide no empeorar la situación y se retira a Ul'dah a prepararse para su muy esperada batalla.
+TEXT_JOBAOZ580_03735_SEQ_06	De vuelta en el Blue Mages' Guild, la bravuconería de Martyn no tranquiliza mucho a Royse, que parece casi resignada a perder el Celestium. Los preparativos de Martyn para la pelea parecen limitarse a pedirte que estés list<if(gnum4,a,o)> para reemplazarlo en el caso, no tan improbable como uno pensaría, de que algo le impida participar. Con su costumbre de pedirte que aprendas hechizos concretos de magia azul, te indica que domines Frog Legs. Curiosamente, es una técnica para atraer la atención del enemigo, algo que en la arena rara vez hace falta, aunque, como señala Martyn, pronto podría llegar el día en que tengas ocasión de usarla, si el gremio llega a trabajar para Amajina & Sons.<br><br>※La siguiente misión de blue mage estará disponible con Martyn al llegar al nivel 60 y aprender Frog Legs.
+TEXT_JOBAOZ580_03735_TODO_00	Habla con Martyn en Horizon.
+TEXT_JOBAOZ580_03735_TODO_01	Habla con Martyn.
+TEXT_JOBAOZ580_03735_TODO_02	Inspecciona el lugar indicado y derrota a los voidsent que aparezcan.
+TEXT_JOBAOZ580_03735_TODO_03	Habla con Martyn.
+TEXT_JOBAOZ580_03735_TODO_04	Habla con Martyn en Ul'dah.
+TEXT_JOBAOZ580_03735_MARTYN_100_000	Aprecio tu entusiasmo, ¡pero difícilmente puedes considerarte mi igual si todavía no aprendiste Exuviation!
+TEXT_JOBAOZ580_03735_SYSTEM_100_001	La siguiente misión de blue mage estará disponible con Martyn al aprender Exuviation.
+TEXT_JOBAOZ580_03735_MARTYN_000_000	Quizá te preguntes por qué te pedí que aprendieras justamente Exuviation.
+TEXT_JOBAOZ580_03735_MARTYN_000_001	Bueno, es parte de mi investigación sobre la versatilidad de los blue mages. Claro que puedes usarlo para curarte a ti mism<if(gnum4,a,o)>, pero quiero ver qué tan eficaz es ese hechizo para mantener a tus amigos vivitos y coleando.
+TEXT_JOBAOZ580_03735_MARTYN_000_002	De hecho, pensé en llevar a P'yandih y a Nutiba al campo para poner a prueba algunas de mis teorías. Además, les servirá de entrenamiento. Los mandé adelante a Horizon, y de ahí iremos a Copperbell Mines, donde dicen que los hecatoncheires están causando algunas molestias.
+TEXT_JOBAOZ580_03735_MARTYN_000_003	Un problema que no se resuelve, según cuentan. Suena a la oportunidad perfecta para lucir nuestro trabajo en equipo. No es que alguna vez hayamos trabajado en equipo, ¡pero parece un buen lugar para empezar!
+TEXT_JOBAOZ580_03735_LATOOLJA_000_004	Latool Ja no está seguro de este plan. Nutiba y P'yandih seguramente creen que es solo un ejercicio de entrenamiento, ¡pero los hecatoncheires son muy peligrosos!
+TEXT_JOBAOZ580_03735_LATOOLJA_000_005	Por favor, trate de que a los tres no les pase nada. ¿Quizá <split(<string(gstr1)>, ,1)> hace de <if(gnum4,sanadora,sanador)>, sí?
+TEXT_JOBAOZ580_03735_LATOOLJA_000_008	Martyn muy irresponsable al llevar novatos a minas infestadas de hecatoncheires. Latool Ja dice que hasta los murciélagos de cueva son demasiado fuertes para esos principiantes.
+TEXT_JOBAOZ580_03735_MARTYN_000_010	¿Dónde diablos están? Conociéndolos, seguro que algún estafador los está desplumando. Ejem.
+TEXT_JOBAOZ580_03735_MARTYN_000_011	¡Miren quién llegó! ¿Ya terminaron de pasear?
+TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_012	¡<if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,1)>! ¡Desde la última vez que nos vimos, mi magia azul avanzó a pasos agigantados!
+TEXT_JOBAOZ580_03735_PYANDIH_000_013	¡Y gracias a nuestra última lección, ahora soy mejor para hacer retroceder a mis enemigos! A sus pies. O tentáculos. Bueno, lo que tengan.
+TEXT_JOBAOZ580_03735_MARTYN_000_014	¡Oigan! No se adelanten. Quizá tengan unos cuantos hechizos nuevos y algo más de experiencia, pero si se confían, ¡esos hecatoncheires les van a moler los huesos antes de que puedan decir "Flying Sardine"!
+TEXT_JOBAOZ580_03735_PYANDIH_000_015	¡Hmph! Copperbell Mines no es nuevo para mí, ¿sabe? ¡Los hecatoncheires no me dan miedo!
+TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_016	Como es la primera vez que exploro este lugar, estuve pidiéndoles consejo a otros aventureros, revisando el trazado de los túneles y demás. ¡"No prepararse es prepararse para fracasar" es mi lema! ¿Y usted, maestro del gremio?
+TEXT_JOBAOZ580_03735_MARTYN_000_017	Bueno, no puedo decir que haya estado allí, pero cuando uno domina las artes azules tanto como yo, puede... improvisar sobre la marcha, por así decirlo.
+TEXT_JOBAOZ580_03735_MARTYN_000_018	Oye, <split(<string(gstr1)>, ,1)>, ¿tú sabes algo de Copperbell Mines?
+TEXT_JOBAOZ580_03735_Q1_000_000	¿Qué dices?
+TEXT_JOBAOZ580_03735_A1_000_001	Fui más veces de las que puedes contar.
+TEXT_JOBAOZ580_03735_A1_000_002	Tengo grabado en la memoria cada rincón.
+TEXT_JOBAOZ580_03735_A1_000_003	...
+TEXT_JOBAOZ580_03735_MARTYN_000_019	Entonces quizá debería dejar que tú nos guíes. ¡Ja, ja! ¡Es broma! Todos sabemos quién es el líder. ¡Blue mages, conmigo!
+TEXT_JOBAOZ580_03735_MARTYN_000_020	Me estás tomando el pelo, ¿no? Entonces, el único que no sabe nada del lugar... ¿soy yo? ¡Hmph! Nunca fui de los que dejan que una falta total de información previa les impida hacer algo, y no voy a empezar ahora. ¡Blue mages, conmigo!
+TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_026	No esperaba que nos atacaran antes de poner un pie en la mina, y menos un... ¿voidsent? Supongo que es lo que es. Lo que era, mejor dicho.
+TEXT_JOBAOZ580_03735_PYANDIH_000_027	No sé qué es, pero me alegra que esté muerto. Esperen. ¿Se acaba de mover, o me lo estoy imaginando?
+TEXT_JOBAOZ580_03735_MARTYN_000_030	¡Te estábamos esperando cuando este maldito bicho volador espantoso apareció de la nada! Aunque nos tomó por sorpresa, ¡no pudo con la fuerza combinada de nuestra magia azul!
+TEXT_JOBAOZ580_03735_MARTYN_000_031	Hubo otro que se fue aleteando a algún lado, pero estamos demasiado agotados para perseguirlo. Como te perdiste toda la diversión, te ofrezco como voluntari<if(gnum4,a,o)> para ir a buscarlo. ¡Y date prisa! Se va a armar la de todos los infiernos si esa cosa llega a Horizon.
+TEXT_JOBAOZ580_03735_MARTYN_000_036	¡Necesito que encuentres y mates a ese voidsent antes de que escape!
+TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_037	Los voidsent no aparecen de la nada. Alguien o <italic(1)>algo<italic(0)> tiene que estar detrás de esto...
+TEXT_JOBAOZ580_03735_PYANDIH_000_038	¡Hicieron falta los tres para matar al primer voidsent, y usted llega y derriba uno sol<if(gnum4,a,o)>! Parece que tenemos mucho que aprender, incluido el maestro del gremio...
+TEXT_JOBAOZ580_03735_MARTYN_000_040	Bien hecho, <if(gnum4,señorita,compadre)>. Ahora que lo pienso, ya vi criaturas como esta antes. ¡Se usan en el Masked Carnivale!
+TEXT_JOBAOZ580_03735_MARTYN_000_041	Lo que plantea la pregunta: ¿qué hacen aquí?
+TEXT_JOBAOZ580_03735_FYRGEISS_000_042	(-???-)¡Fueron por aquí! ¡Rápido!
+TEXT_JOBAOZ580_03735_MARTYN_000_043	¡Fyrgeiss! Y su hijo, Zirnfrieg... ¿o era Siegberk? ¡Bah, como se llame, maldita sea!
+TEXT_JOBAOZ580_03735_FYRGEISS_000_044	¿Azuro? ¿Tú y tus amiguitos lograron matar a los voidsent que escaparon? Parece que nos ahorraron un bochorno.
+TEXT_JOBAOZ580_03735_MARTYN_000_045	¡Olvídese de eso y díganos qué está pasando!
+TEXT_JOBAOZ580_03735_ROYSE_000_046	(-???-)¡Ya lo oíste, Fyrgeiss!
+TEXT_JOBAOZ580_03735_MARTYN_000_047	¿Royse también? Por todos los infiernos, ahora aparecen de todas partes.
+TEXT_JOBAOZ580_03735_ROYSE_000_048	Por suerte tus subordinados son muy sueltos de lengua, o nunca te habría encontrado. ¡¿Crees que puedes llevarte mis voidsent y salirte con la tuya?! Inversionista o no, te pasaste de la raya.
+TEXT_JOBAOZ580_03735_FYRGEISS_000_049	Vamos, vamos. Solo tomé prestados un par para intentar sofocar el levantamiento de los hecatoncheires en propiedad de la compañía.
+TEXT_JOBAOZ580_03735_FYRGEISS_000_050	¡Seguro que te alegrará saber que tus vodorigas resultaron de lo más eficaces! ¡Verdaderas armas vivientes! Verás, la tarea parecía un desperdicio del talento de los Stone Torches, y contratar aventureros puede costar muchísimo.
+TEXT_JOBAOZ580_03735_FYRGEISS_000_051	De hecho, estoy pensando en desplegar voidsent en otros lugares para proteger mis intereses de las bestias errantes, los saqueadores amalj'aa y demás, y dejar a mi hijo y a sus hombres libres para volver a Ul'dah, donde podrían aprovechar mejor su talento.
+TEXT_JOBAOZ580_03735_ROYSE_000_052	Así que de eso se trata todo esto. Era solo una treta para echarles mano a mis bestias del foso, ¿no? ¡Esto es una violación de nuestro acuerdo!
+TEXT_JOBAOZ580_03735_FYRGEISS_000_053	¿Violación? Con la enorme suma que invertí, el Celestium es prácticamente mío.
+TEXT_JOBAOZ580_03735_FYRGEISS_000_054	Tengo derecho a manejarlo como me plazca. Hasta el último mammet, voidsent y bestia salvaje de esa colección me pertenece ahora.
+TEXT_JOBAOZ580_03735_ROYSE_000_055	¡Te permití invertir en el Celestium, no comprármelo en mis narices!
+TEXT_JOBAOZ580_03735_FYRGEISS_000_056	Si crees que soy de los que se quedan atrás esperando a que el dinero vaya llegando de a poco, ¡te equivocas <italic(1)>de medio a medio<italic(0)>!
+TEXT_JOBAOZ580_03735_ROYSE_000_057	No llegué adonde estoy dejando que unos fanfarrones tontos con más gil que sesos me pasen por encima. ¡El Celestium es mío, ¿me oyes?!
+TEXT_JOBAOZ580_03735_FYRGEISS_000_058	¡Cuida tu boca, empresaria de tercera!
+TEXT_JOBAOZ580_03735_ROYSE_000_059	Ah, ¿sí? ¿Quizá debería preguntarles a tus amigos del Syndicate quién creen <italic(1)>ellos<italic(0)> que es de tercera?
+TEXT_JOBAOZ580_03735_FYRGEISS_000_060	¡Te voy a echar de Ul'dah, no, de Eorzea! ¡Todo lo que tienes será mío! ¡Mío!
+TEXT_JOBAOZ580_03735_MARTYN_000_061	¿Puedo hacer una sugerencia? Si busca un reemplazo para los Stone Torches, quizá el Blue Mages' Guild sea una alternativa más... manejable que las bestias desbocadas.
+TEXT_JOBAOZ580_03735_MARTYN_000_062	Cada uno de nuestros magos viene equipado con una selección completa de hechizos de ataque, defensa y curación, perfecta para cualquier ocasión.
+TEXT_JOBAOZ580_03735_FYRGEISS_000_063	¿Cualquier ocasión? Vamos, todos sabemos que el que mucho abarca poco aprieta. No necesito bufones patéticos con disfraces ridículos.
+TEXT_JOBAOZ580_03735_MARTYN_000_064	¡Oiga, cuidado, abuelo! ¡Ya veremos quién es patético cuando tumbe a su muchacho de culo!
+TEXT_JOBAOZ580_03735_MARTYN_000_065	De hecho, me parece que podríamos resolver toda esta disputa con una apuesta amistosa.
+TEXT_JOBAOZ580_03735_MARTYN_000_066	Si pierdo, el Celestium pasa a ser suyo, con toda la colección incluida. Puede usar todos esos voidsent, junto con el resto de las bestias del foso, como quiera.
+TEXT_JOBAOZ580_03735_MARTYN_000_067	Pero si gano, el Celestium se queda con Royse. Usted renuncia a cualquier idea de usar voidsent y contrata al Blue Mages' Guild para defender su propiedad.
+TEXT_JOBAOZ580_03735_ROYSE_000_068	¡Maldito idiota! ¡¿Qué crees que estás haciendo?!
+TEXT_JOBAOZ580_03735_FYRGEISS_000_069	Tienes agallas, eso te lo concedo. Muy bien, acepto.
+TEXT_JOBAOZ580_03735_ZIRNBERK_000_070	No sé qué espero con más ganas: sumar el Celestium a la colección cada vez más grande de negocios de mi familia, o humillarlo por completo delante de su querido público. Nos vemos en la arena, payaso.
+TEXT_JOBAOZ580_03735_MARTYN_000_071	Ahora que eso está resuelto, mejor nos vamos. Gracias a los voidsent, parece que al final no vamos a cazar hecatoncheires.
+TEXT_JOBAOZ580_03735_MARTYN_000_072	Nutiba, P'yandih, no creo que pueda darles más lecciones hasta después de mi combate, así que quizá deberían ir a aprender algunos hechizos nuevos o algo así. <split(<string(gstr1)>, ,1)> y yo volvemos al gremio.
+TEXT_JOBAOZ580_03735_FYRGEISS_000_076	Ese amigo tuyo vestido de azul sí que tiene la boca grande cuando le conviene. Su pequeño arrebato le va a costar caro a Royse, acuérdate de lo que te digo.
+TEXT_JOBAOZ580_03735_ZIRNBERK_000_077	Usted debe ser Azuro the Second, ¿verdad? Me atrevería a decir que es mucho más capaz que ese cretino al que insiste en seguir.
+TEXT_JOBAOZ580_03735_ROYSE_000_078	\<suspiro> No puedo creerlo...
+TEXT_JOBAOZ580_03735_LATOOLJA_000_079	Latool Ja se enteró de lo que pasó. Con razón Royse se ve tan afligida.
+TEXT_JOBAOZ580_03735_MARTYN_000_080	¡Ja! No hay nada como subir la apuesta para que una pelea sea más interesante, ¿no te parece?
+TEXT_JOBAOZ580_03735_ROYSE_000_081	Aunque la sola idea me revuelve el estómago, el futuro del Celestium está en tus manos, Martyn. ¡Si pierdes contra Siegfried, te tiro a los behemoths!
+TEXT_JOBAOZ580_03735_MARTYN_000_082	¡No tema! ¡Yo, el Great Azuro, juro defender su arena con mi propia vida!
+TEXT_JOBAOZ580_03735_MARTYN_000_083	Como si tuviera opción, maldita sea... Otro lindo lío en el que me metí por bocón. En fin, como te dije antes, voy a necesitar que estés list<if(gnum4,a,o)> para reemplazarme, por si acaso como unos dragon peppers en mal estado o algo así y quedo "inevitablemente retenido", si entiendes lo que quiero decir.
+TEXT_JOBAOZ580_03735_MARTYN_000_084	Ah, y hay un hechizo más que quiero que aprendas. Se llama Frog Legs y, aunque quizá no sea muy útil en la arena, vas a poder usarlo cuando nos paguen por proteger las minas de Amajina & Sons.
+TEXT_JOBAOZ580_03735_MARTYN_000_085	Como Azuro the Second, espero grandes cosas de ti. ¡Ahora ve y haz que tu maestro del gremio se sienta orgulloso!

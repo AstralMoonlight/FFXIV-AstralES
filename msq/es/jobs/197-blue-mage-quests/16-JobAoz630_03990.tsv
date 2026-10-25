@@ -1,0 +1,116 @@
+key	text
+TEXT_JOBAOZ630_03990_SEQ_00	P'yandih parece haber estado esperándote.
+TEXT_JOBAOZ630_03990_SEQ_01	P'yandih, a quien en el Celestium aplauden como "Azuro the Fourth", parece haber estado esperando tu llegada. Después de un breve saludo, te entrega una carta de Martyn, una misiva desde el misterioso Lejano Oriente. Lees por encima la nota lastimera y te enteras de que el maestro del gremio tuvo algún tipo de problema y pide ayuda lo antes posible. Parece que tu camino lleva a una casa de té frente al Sekiseigumi Barracks, en Kugane...
+TEXT_JOBAOZ630_03990_SEQ_02	Llegas a Kugane y encuentras a Martyn trabajando en una casa de té, el curioso desenlace de una desafortunada serie de sucesos que le ocurrieron poco después de llegar a la ciudad. Robo y escándalo público aparte, el maestro del gremio te asegura que por fin puede dedicarle algo de tiempo al verdadero propósito de su viaje. Sin embargo, agradecería cualquier ayuda que puedas darle en su investigación del Fukumen Fighting Festival. Para eso, debes ir al Shiokaze Hostelry y averiguar lo que puedas de los clientes.
+TEXT_JOBAOZ630_03990_SEQ_03	Tus averiguaciones en el Shiokaze Hostelry arrojaron algo de luz sobre la arena de combate de Kugane. Vuelve con Martyn y cuéntale lo que descubriste.
+TEXT_JOBAOZ630_03990_SEQ_04	Compartes la información con Martyn, que concluye a regañadientes que para conseguir una entrada al festival habrá que tratar con un comerciante del mercado negro. Sigue al maestro del gremio por los callejones de Kogane Dori.
+TEXT_JOBAOZ630_03990_SEQ_05	El comerciante sospechoso con el que te encuentras es nada menos que Gyodo, el Namazu que robó a Martyn en primer lugar. En un acto de arrepentimiento, y de cobardía lloriqueante, Gyodo le devuelve al maestro del gremio el dinero robado y además le da una ficha de entrada al festival. Con unas monedas más en el bolsillo, Martyn sugiere ir de inmediato a las puertas del castillo, donde debería haber un encargado de entradas del festival para dejarlos pasar al espectáculo.
+TEXT_JOBAOZ630_03990_SEQ_06	Aunque parece que Gyodo los engañó con una entrada barata, igual entran al festival y ven el combate de apertura. A Martyn lo indignan las similitudes descaradas del evento con el Masked Carnivale, y se horroriza al descubrir que el emprendedor combatiente conocido como "Bluehood" habla con la voz de Nutiba Buntiba. Pero antes de que puedan averiguar nada más, los obligan a salir del lugar.
+TEXT_JOBAOZ630_03990_SEQ_07	Furioso, Martyn decide quedarse junto a las puertas del castillo y esperar a que salga su discípulo deshonesto. Cuando Bluehood por fin aparece, insiste en que no es quien Martyn cree. Entonces sale el director del festival, Kageyama, para cortar en seco la diatriba del maestro del gremio. Desafía al "fundador de la magia azul" a demostrar la autenticidad de lo que dice en un duelo contra el campeón vigente, Golden Goliath, una propuesta que Martyn acepta sin pensarlo. Preguntándose si fue sensato, tu antiguo mentor vuelve corriendo a su puesto en la casa de té.
+TEXT_JOBAOZ630_03990_SEQ_08	Decidido a seguir adelante, Martyn elige con sensatez dedicar el tiempo hasta el combate de exhibición a investigar el estilo de pelea de su rival. Mientras tanto, te insta a seguir entrenando por si se da el improbable caso de que tengas que ocupar su lugar en la arena.<br><br>※La siguiente misión de blue mage estará disponible con Martyn al llegar al nivel 65 y aprender Tingle.
+TEXT_JOBAOZ630_03990_TODO_00	Habla con Martyn en Kugane.
+TEXT_JOBAOZ630_03990_TODO_01	Interroga a los clientes del Shiokaze Hostelry.
+TEXT_JOBAOZ630_03990_TODO_02	Habla con Martyn.
+TEXT_JOBAOZ630_03990_TODO_03	Vuelve a hablar con Martyn.
+TEXT_JOBAOZ630_03990_TODO_04	Habla con el encargado de entradas del festival.
+TEXT_JOBAOZ630_03990_TODO_05	Habla con Martyn.
+TEXT_JOBAOZ630_03990_TODO_06	Vuelve a hablar con Martyn.
+TEXT_JOBAOZ630_03990_PYANDIH_100_000	¿No había algo que Martyn creía que debía aprender antes de volver a verme? Sé que es un poco despistado, pero su instinto para estas cosas suele ser curiosamente útil...
+TEXT_JOBAOZ630_03990_SYSTEM_100_001	La siguiente misión de blue mage estará disponible con P'yandih al aprender Basic Instinct.
+TEXT_JOBAOZ630_03990_PYANDIH_000_000	<split(<string(gstr1)>, ,1)>, se ve todavía más competente que de costumbre. ¿Debo suponer que siguió el consejo de Martyn?
+TEXT_JOBAOZ630_03990_PYANDIH_000_001	Bueno, no afloje ahora, ¡porque yo estoy mejorando a pasos agigantados! ¡En el Celestium todavía resuenan los aplausos por las hazañas de Azuro the Fourth!
+TEXT_JOBAOZ630_03990_PYANDIH_000_002	Hablando de arenas de combate, tengo aquí una carta para usted del maestro del gremio. ¿Cómo irá su investigación en Kugane?...
+TEXT_JOBAOZ630_03990_MARTYN_000_003	(-Carta de Martyn-)<italic(1)>Querid<if(gnum4,a,o)> <split(<string(gstr1)>, ,1)>:<br>Te escribo desde tierras extrañas e inhóspitas, con el burbujeo de la tetera como compañía constante.<italic(0)>
+TEXT_JOBAOZ630_03990_MARTYN_000_004	(-Carta de Martyn-)<italic(1)>En justicia, esta misiva debería ser un informe completo sobre nuestros competidores del Lejano Oriente, pero debo confesar que mis esfuerzos de investigación sufrieron un revés considerable tras mi llegada a Kugane.<italic(0)>
+TEXT_JOBAOZ630_03990_MARTYN_000_005	(-Carta de Martyn-)<italic(1)>Me temo que el verdadero propósito de mi viaje se retrasará más allá de los límites de la paciencia de Royse, así que te ruego humildemente que me prestes tu ayuda.<italic(0)>
+TEXT_JOBAOZ630_03990_MARTYN_000_006	(-Carta de Martyn-)<italic(1)>Por favor, ven a la casa de té frente al Sekiseigumi Barracks y te lo explicaré todo.<br>Esperanzado,<br>Martyn<italic(0)>
+TEXT_JOBAOZ630_03990_PYANDIH_000_007	Ay, no. Supongo que algo así era de esperar.
+TEXT_JOBAOZ630_03990_PYANDIH_000_008	Lo va a ayudar, ¿verdad, <split(<string(gstr1)>, ,1)>? Me estremece pensar en qué clase de lío se habrá metido...
+TEXT_JOBAOZ630_03990_PYANDIH_000_010	¿Martyn dijo que se vieran en una casa de té? Creo que nunca lo vi tomar té...
+TEXT_JOBAOZ630_03990_MARTYN_000_020	¡Bienvenid<if(gnum4,a,o)>, honorable cliente! ¿Le apetece una taza de té humeante y un delicioso dango?
+TEXT_JOBAOZ630_03990_MARTYN_000_022	U... ¡<split(<string(gstr1)>, ,1)>! ¡Viniste!
+TEXT_JOBAOZ630_03990_Q1_000_000	¿Qué dices?
+TEXT_JOBAOZ630_03990_A1_000_001	¿Cambiaste de profesión?
+TEXT_JOBAOZ630_03990_A1_000_002	Eh... ¿linda bata?
+TEXT_JOBAOZ630_03990_MARTYN_000_023	Esto es parte del, eh, "revés" que mencioné en mi carta. De todos modos, ya estaba por terminar por <if([gnum11<12],<if([gnum11<4],esta noche,esta mañana)>,<if([gnum11<17],hoy,esta noche)>)>, así que es tan buen momento como cualquiera para hablar.
+TEXT_JOBAOZ630_03990_MARTYN_000_024	Bueno, cuando llegué a Kugane, pensé: "Martyn, tienes que buscarte un lugar donde quedarte". No habrán pasado más que unos momentos antes de que me perdiera sin remedio en las callejuelas, y fue entonces cuando un Namazu amable me ofreció una mano. Una aleta. Lo que sea.
+TEXT_JOBAOZ630_03990_MARTYN_000_025	Aceptar su ayuda fue el principio de mis desgracias. El pequeño sinvergüenza me dejó inconsciente, me vació la bolsa y me desnudó hasta el pellejo antes de que me diera cuenta de lo que pasaba.
+TEXT_JOBAOZ630_03990_MARTYN_000_026	Para colmo de males, lo que hacen las autoridades locales con un hombre aturdido y con el trasero al aire que anda tambaleándose por la ciudad es encerrarlo acusado de escándalo público.
+TEXT_JOBAOZ630_03990_MARTYN_000_027	Al menos pude demostrar mi inocencia en eso, pero igual me quedé sin un centavo, sin amigos y desnudo como un recién nacido. Entonces los oficiales se apiadaron de mí y me consiguieron trabajo aquí, en la casa de té, a cambio de comida y alojamiento... después de prestarme algo de ropa, claro.
+TEXT_JOBAOZ630_03990_MARTYN_000_028	Desde entonces aproveché cada momento libre para aprender los secretos de la taza de té perfecta, pero creo que ya le agarré la mano. Por fin puedo empezar a husmear en ese Fukumen Fighting Festival y, con tu ayuda, ojalá recuperar el tiempo perdido.
+TEXT_JOBAOZ630_03990_MARTYN_000_029	Muy bien. Yo voy a hacer preguntas por la casa de té, mientras tú interrogas a los clientes del Shiokaze Hostelry. ¡Con suavidad, eh!
+TEXT_JOBAOZ630_03990_MARTYN_000_030	Cuando hayas sacado algunos datos jugosos, nos volvemos a ver aquí y comparamos notas. ¡Manos a la obra!
+TEXT_JOBAOZ630_03990_HABOKU_000_040	Sé más de beber que de pelear, pero hasta yo oí hablar de ese festival... Abrió sus puertas hace muy poco, y las bestias que muestra en combate ya atraen multitudes.
+TEXT_JOBAOZ630_03990_HABOKU_000_041	Pero las verdaderas estrellas son los hechiceros azules. Su magia salvaje hace que los clientes vuelvan una y otra vez, como con un buen sake suave.
+TEXT_JOBAOZ630_03990_HAYATAKA_000_042	...¿Que si lo <italic(1)>conozco<italic(0)>? Fui a <italic(1)>verlo<italic(0)>. Bluehood fue el favorito del público por un tiempo, pero ahora todos aclaman a Golden Goliath.
+TEXT_JOBAOZ630_03990_HAYATAKA_000_043	No solo venció a todas las criaturas que enfrentó, sino que también aplastó a cada advenedizo que tuvo el valor de disputarle el título.
+TEXT_JOBAOZ630_03990_HAYATAKA_000_044	Ya te aviso, amig<if(gnum4,a,o)>: las entradas al festival se agotan rápido. Pero todo tiene su precio, si tienes con qué pagarlo...
+TEXT_JOBAOZ630_03990_MARTYN_000_045	¿El Fukumen Fighting Festival? Hombres que matan bestias, ¡bah! ¿Qué tiene eso de entretenido?
+TEXT_JOBAOZ630_03990_MARTYN_000_046	Entiendo que a la gente común le encante, pero parece que hasta el señor bugyo cayó bajo su hechizo. Lo último que oí es que organizaban combates en el Noh Theater del castillo. Increíble...
+TEXT_JOBAOZ630_03990_HABOKU_000_047	Eso es todo lo que sé del festival, pero si tiene alguna pregunta sobre sake...
+TEXT_JOBAOZ630_03990_HAYATAKA_000_048	Como te dije, quizá te cueste conseguir entradas para un combate, sobre todo si quieres ver a Golden Goliath. O eres muy rápid<if(gnum4,a,o)>... o muy ric<if(gnum4,a,o)>.
+TEXT_JOBAOZ630_03990_MARTYN_000_049	Ese teatro se construyó como escenario para mostrar nuestras artes tradicionales, no para este circo vulgar para las masas sedientas de sangre. Este "festival" es un insulto a nuestro patrimonio cultural.
+TEXT_JOBAOZ630_03990_MARTYN_000_050	¿Y qué averiguamos?
+TEXT_JOBAOZ630_03990_MARTYN_000_051	Hmmm, me parece que el festival es un fenómeno reciente... lo que significa que es casi seguro una imitación de nuestro Masked Carnivale.
+TEXT_JOBAOZ630_03990_MARTYN_000_052	Pero para estar completamente seguros, tengo que ver uno de esos combates con mis propios ojos.
+TEXT_JOBAOZ630_03990_MARTYN_000_053	Bueno, yo oí lo mismo que tú sobre las entradas: parece que se agotan antes de que puedas parpadear, maldita sea. Pero dicen que en el mercado negro hay un comercio próspero.
+TEXT_JOBAOZ630_03990_MARTYN_000_054	Y aunque preferiría no tratar con gente de callejón, no creo que tengamos tiempo para perder. Recorramos las calles alrededor de Kogane Dori y veamos qué ofrecen, ¿te parece?
+TEXT_JOBAOZ630_03990_MARTYN_000_060	Atent<if(gnum4,a,o)> a cualquier personaje de aspecto sospechoso...
+TEXT_JOBAOZ630_03990_GYODO_000_061	(-???-)¡Entradas para el festival! ¡Tengo entradas para el fukumen y para las peleas, sí, sí!
+TEXT_JOBAOZ630_03990_GYODO_000_062	(-Namazu sospechoso-)\<jadeo> ¡U-Usted! ¡Lo conozco!
+TEXT_JOBAOZ630_03990_Q2_000_000	¿Qué dices?
+TEXT_JOBAOZ630_03990_A2_000_001	¡Gyoshin!
+TEXT_JOBAOZ630_03990_A2_000_002	¡Gyodo!
+TEXT_JOBAOZ630_03990_A2_000_003	¡Gyofun!
+TEXT_JOBAOZ630_03990_GYODO_000_063	¡Uf, me llamo Gyodo! Gyo. Do.
+TEXT_JOBAOZ630_03990_GYODO_100_063	¡Sí, sí, soy yo! ¡Su fiel Gyodo!
+TEXT_JOBAOZ630_03990_MARTYN_000_064	¡Un momento, eres ese Namazu que me robó!
+TEXT_JOBAOZ630_03990_GYODO_000_065	Bueno... ¡prácticamente estaba pidiendo que lo robaran! ¿Cómo iba a saber que conocía a nuestr<if(gnum4,a amiga,o amigo)> en común aquí presente?
+TEXT_JOBAOZ630_03990_MARTYN_000_066	¡Debería destriparte aquí mismo, en plena calle! ¡¿Dónde está mi dinero?! ¡¿Dónde está mi <italic(1)>ropa<italic(0)>, asqueroso comefondos?!
+TEXT_JOBAOZ630_03990_GYODO_000_067	¡C-Calma, calma, no nos apresuremos! El dinero se lo puedo devolver, ¡pero la ropa fina se vendió rápido! ¿Quizá aceptaría otra forma de compensación, sí, sí?
+TEXT_JOBAOZ630_03990_GYODO_000_068	...¡Entradas! Buscaba entradas para el Fukumen Fighting Festival, ¿no? Tome, ¡tiene que quedarse con esta rara y valiosa ficha de entrada! ¡Gratis!
+TEXT_JOBAOZ630_03990_GYODO_000_069	Ahora estamos a mano, ¿sí, sí? ¡Entonces debo seguir mi camino!
+TEXT_JOBAOZ630_03990_MARTYN_000_070	Bueno, supongo que nunca voy a volver a ver mi ropa... pero al menos recuperé algunas monedas, y de paso conseguí una entrada.
+TEXT_JOBAOZ630_03990_MARTYN_000_071	Vamos al castillo a ver si hay algún combate en curso. Me imagino que habrá alguien recibiendo las entradas en la puerta.
+TEXT_JOBAOZ630_03990_MARTYN_000_072	Esto debería ser interesante...
+TEXT_JOBAOZ630_03990_KUGANESTAFF_000_075	Ah, les espera una delicia: ¡el inimitable "Golden Goliath" está en el programa de hoy! ¿Me permiten sus entradas, por favor?
+TEXT_JOBAOZ630_03990_MARTYN_000_076	¿Con esto entramos los dos?
+TEXT_JOBAOZ630_03990_KUGANESTAFF_000_077	Por supuesto, señor... Pero ¿sabe que esta ficha solo permite la entrada a los combates preliminares? Para ver el evento principal hace falta una entrada de precio completo.
+TEXT_JOBAOZ630_03990_MARTYN_000_078	¡Grrr, ese bigotudo resbaloso debió darnos la más barata que tenía! Bueno, no importa. Mientras podamos hacernos una idea de qué pasa en este festival suyo...
+TEXT_JOBAOZ630_03990_KUGANEMC_000_080	¡Damas y caballeros! Para levantar el telón del espectáculo salvaje de esta noche, aquí está el ilustre guerrero envuelto en cielo en persona... ¡Bluehood!
+TEXT_JOBAOZ630_03990_KUGANEMC_000_081	¡Maravíllense con sus artes cerúleas mientras se enfrenta a un terrible y tenaz tigre yanxiano!
+TEXT_JOBAOZ630_03990_KUGANEMC_000_082	¡Una actuación magistral! Aunque pocos se comparan con la magnificencia de Golden Goliath, ¿quién puede negar el talento evidente de Bluehood, el pionero original de la hechicería azul?
+TEXT_JOBAOZ630_03990_MARTYN_000_083	¿El pionero de...? ¡Fui <italic(1)>yo<italic(0)> quien le trajo la magia azul a las masas, no este impostor engreído!
+TEXT_JOBAOZ630_03990_MARTYN_000_084	Ya vi suficiente. Los hechizos son reales, sí, pero la ejecución es atroz. ¡Es una ofensa a nuestra profesión! Me gustaría saber quién está detrás de esa máscara...
+TEXT_JOBAOZ630_03990_KUGANEMC_000_085	¡Y ahora, damas y caballeros! Antes de pasar al evento principal, el propio Bluehood les pide que le presten un momento de atención.
+TEXT_JOBAOZ630_03990_NUTIBABUNTIBA_000_086	(-Bluehood-)¡Escuchen todos, escuchen! ¡Ningún truco oculto ni conjuro arcano puede competir con el poder supremo de la hechicería azul! ¿Quién de ustedes sueña con tener semejante poder milagroso en la palma de la mano?
+TEXT_JOBAOZ630_03990_MARTYN_000_087	¡Conozco esa voz! ¡Es él, es el maldito Nutiba Buntiba!
+TEXT_JOBAOZ630_03990_SPECTATORMAN03990_000_088	¿Quiere decir que <italic(1)>cualquiera<italic(0)> puede aprender esos hechizos? ¿Hasta yo...?
+TEXT_JOBAOZ630_03990_NUTIBABUNTIBA_000_089	(-Bluehood-)¡Si tienen la voluntad, yo, el fundador de las evocaciones azules, solo tengo que mostrarles el camino!
+TEXT_JOBAOZ630_03990_NUTIBABUNTIBA_000_090	(-Bluehood-)¡Tengo conmigo talismanes de sobra para despertar el espíritu azul que llevan dentro, y una pila de atuendos hechos a medida para armarlos y vestirlos!
+TEXT_JOBAOZ630_03990_NUTIBABUNTIBA_000_091	(-Bluehood-)¡Los primeros de la fila también recibirán uno de los pocos tomos de hechizos de hechicería azul! ¡Acérquense y abran sus bolsas! ¡La audacia tiene su recompensa!
+TEXT_JOBAOZ630_03990_MARTYN_000_092	¡Ese ladrón desgraciado! <italic(1)>Sabía<italic(0)> que me faltaba una reserva de soul crystals...
+TEXT_JOBAOZ630_03990_MARTYN_000_093	¡Digo, ¿no tiene vergüenza?! ¡Hasta me robó mi viejo discurso de venta, con oferta de iniciación y todo!
+TEXT_JOBAOZ630_03990_KUGANEMC_000_094	¡Damas y caballeros! Les pido a quienes no tengan entrada de precio completo que tengan la amabilidad de dejar sus asientos. ¡El evento principal está por comenzar!
+TEXT_JOBAOZ630_03990_MARTYN_000_100	No estaba del todo seguro de qué encontraríamos ahí dentro, pero no era al gran desaparecido Nutiba, eso te lo aseguro.
+TEXT_JOBAOZ630_03990_MARTYN_000_101	Esperemos un rato a ver si sale. Me gustaría tener unas palabras con nuestro joven emprendedor.
+TEXT_JOBAOZ630_03990_MARTYN_000_102	¡Vaya, vaya, qué casualidad encontrarte aquí, Nutiba! ¡Espero que tengas una buena explicación para apuñalar así por la espalda a tu viejo maestro del gremio!
+TEXT_JOBAOZ630_03990_NUTIBABUNTIBA_000_103	(-Bluehood-)¿P-Perdón? Debe confundirme con otra persona. No tengo la menor idea de qu...
+TEXT_JOBAOZ630_03990_MARTYN_000_104	¡Ya puedes dejar de fingir! Te vi luciendo tu "hechicería azul" en esa farsa de función. ¡Y no creas que no reconocí mis soul crystals desaparecidos!
+TEXT_JOBAOZ630_03990_KAGEYAMA_000_105	¡A ver, a ver! No sé quién eres ni qué quieres, ¡pero no voy a permitir que pongas en peligro mi inversión! ¡Cuidado con quién te metes!
+TEXT_JOBAOZ630_03990_KAGEYAMA_000_106	¡Ja! Son forasteros, ¿eh? Entonces harían bien en aprender el nombre de Kageyama, ¡el príncipe de los mercaderes de Kugane!
+TEXT_JOBAOZ630_03990_MARTYN_000_107	¿Príncipe... de los mercaderes?
+TEXT_JOBAOZ630_03990_MARTYN_000_108	¿Así que no es más que un villano de dos gil? Aunque debe tener agallas si creyó que podía conquistar el castillo.
+TEXT_JOBAOZ630_03990_KAGEYAMA_000_109	¡Ah! ¡Ahora te reconozco! ¡Eso fue un malentendido! ¡Fui víctima de las circunstancias! Desde entonces dejé todo eso atrás y volví a mi lugar de ciudadano y comerciante honrado.
+TEXT_JOBAOZ630_03990_MARTYN_000_110	¿Coerción? ¿Secuestro? Suena a una buena pieza.
+TEXT_JOBAOZ630_03990_KAGEYAMA_000_111	¡Ah! ¡Ahora te reconozco! ¡Eso no fue idea mía! ¡Fui tan víctima de ese hombre espantoso como cualquiera! En todo caso, desde entonces dejé todo eso atrás y volví a mi lugar de ciudadano y comerciante honrado.
+TEXT_JOBAOZ630_03990_MARTYN_000_112	Bueno, diga lo que diga que es, está claro que su negocio es una imitación descarada de nuestro Masked Carnivale de Ul'dah. Como maestro del gremio de los blue mages, le exijo que ponga fin a este intento inescrupuloso de sacar provecho de la magia que fundé <italic(1)>yo<italic(0)>.
+TEXT_JOBAOZ630_03990_KAGEYAMA_000_113	¿Esperas que me derrumbe sin más ante tu insistencia? ¿Quién dice que no fueron <italic(1)>ustedes<italic(0)> los que <italic(1)>nos<italic(0)> imitaron?
+TEXT_JOBAOZ630_03990_KAGEYAMA_000_114	Si de verdad eres el fundador de la magia azul, no te molestará darnos a todos una demostración de tus poderes. Te desafío a enfrentar al mejor combatiente de la historia del Fukumen Fighting Festival: ¡el invicto Golden Goliath!
+TEXT_JOBAOZ630_03990_KAGEYAMA_000_115	Demuestra tu valía contra nuestro campeón y accederemos a tus exigencias. Confío en que estas condiciones te parecen aceptables.
+TEXT_JOBAOZ630_03990_MARTYN_000_116	¡P-Por supuesto! ¡Acepto su desafío!
+TEXT_JOBAOZ630_03990_KAGEYAMA_000_117	Jm, jm, jm, muy bien. Organizaré un combate de exhibición para la ocasión y te avisaré de la fecha más adelante. Y no te alejes mucho...
+TEXT_JOBAOZ630_03990_MARTYN_000_118	...Dioses del cielo, ¿en qué me metí esta vez? Vamos, <split(<string(gstr1)>, ,1)>, tengo que volver corriendo a la casa de té. Está por empezar mi turno.
+TEXT_JOBAOZ630_03990_MARTYN_000_120	Bien. Lo único que tengo que hacer es vencer a ese tal Golden Goliath, y el festival pasa a la historia. Digo, ¿qué tan difícil puede ser? Aunque sea su "campeón", todo esto es una competencia inferior, para empezar.
+TEXT_JOBAOZ630_03990_MARTYN_000_121	Pero aunque estoy seguro de ganar, nunca conviene confiarse demasiado. Mejor investigo un poco más antes del combate, me parece.
+TEXT_JOBAOZ630_03990_MARTYN_000_122	Por cierto, quizá quieras mantenerte en forma por si acaso el día del combate no estoy en condiciones de pelear. ¡Tingle es un hechizo útil para saber! Ejem, en fin. Yo vuelvo al trabajo.

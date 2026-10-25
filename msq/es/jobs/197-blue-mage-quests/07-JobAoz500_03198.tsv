@@ -1,0 +1,101 @@
+key	text
+TEXT_JOBAOZ500_03198_SEQ_00	Latool Ja se las arregla muy bien para cuidar el fuerte en ausencia de Martyn.
+TEXT_JOBAOZ500_03198_SEQ_01	Latool Ja le avisa a Martyn que aprendiste el hechizo Glower, y tu mentor vuelve a ignorar las indicaciones del cirujano y deja la cama para felicitarte. Pero ese logro palidece al lado de otra buena noticia que recibió: Whastrach entregó la medicina a los whalaqee y la epidemia que los aquejaba quedó erradicada. Por desgracia, el júbilo de Martyn dura poco: llega Ceadda, el joven curandero de la tribu del Nuevo Mundo, con malas noticias. Al parecer, Whastrach se adueñó de tierras sagradas para los whalaqee en un claro intento de apoderarse del Lapis Canyon, rico en ceruleum. Martyn está furioso por la traición del hombre en quien confió, y sale corriendo a enfrentarlo en la planta de procesamiento de Northern Thanalan.
+TEXT_JOBAOZ500_03198_SEQ_02	Al llegar, encuentras a Martyn y a Ceadda en plena discusión con Whastrach. El autoproclamado hombre de negocios afirma que adquirió las tierras de los whalaqee mediante un contrato legal a cambio del cargamento de medicina, y que la mina de ceruleum que piensa abrir les dará a los whalaqee la oportunidad de formar parte del mundo moderno. Ceadda y Martyn no están para nada de acuerdo: dicen que engañaron a los ancianos para que firmaran y que no le toca a Whastrach decidir cómo deben vivir. Cuando ninguno de los dos bandos cede, Royse interrumpe con una revelación sorprendente: no solo es la que financia a Whastrach, sino que también fue ella quien le habló del plan de Martyn de producir medicina para los whalaqee. Aunque no conocía el alcance de los planes de Whastrach, no sabe qué bando apoyar. Para zanjar el asunto, propone que Martyn y Whastrach se enfrenten en el Celestium en un combate de blue mages, y promete retirar su inversión si Martyn gana. Pero si pierde, tendrá que convencer a los whalaqee de entregar sus tierras según lo acordado. Como Martyn todavía se está recuperando de sus heridas, te eligen para ocupar su lugar con la identidad de "Azuro the Second".
+TEXT_JOBAOZ500_03198_SEQ_03	De vuelta en Ul'dah, participas en una demostración de práctica de tus hechizos, engalanad<if(gnum4,a,o)> con tu nuevo atuendo del Masked Carnivale. Es entonces cuando entra Whastrach vestido como el aterrador Azulmagia, que parece un demonio en algo más que el aspecto. Por fin entiendes por qué su destreza como blue mage es tan respetada, cuando desata una serie de hechizos asombrosamente potentes.
+TEXT_JOBAOZ500_03198_SEQ_04	Con el enfrentamiento decisivo en el horizonte, Royse te sugiere participar primero en combates contra sus bestias del foso para pulir tus habilidades antes de enfrentar al odiado rival de tu mentor. Azulmagia te espera en la etapa final del Masked Carnivale, pero ¿bastará tu magia azul para vencerlo?<br><br>※La siguiente misión de blue mage estará disponible con Latool Ja después de completar la etapa 25 del Masked Carnivale.
+TEXT_JOBAOZ500_03198_TODO_00	Busca a Martyn en la Ceruleum Processing Plant, en Northern Thanalan.
+TEXT_JOBAOZ500_03198_TODO_01	Habla con Royse en Ul'dah.
+TEXT_JOBAOZ500_03198_TODO_02	Habla con Royse.
+TEXT_JOBAOZ500_03198_LATOOLJA_100_000	¿<split(<string(gstr1)>, ,1)> aprendió Glower? Oh... <split(<string(gstr1)>, ,1)> lo dominará pronto. ¡Latool Ja cree en usted!
+TEXT_JOBAOZ500_03198_SYSTEM_100_001	La siguiente misión de blue mage estará disponible con Latool Ja al aprender Glower.
+TEXT_JOBAOZ500_03198_LATOOLJA_000_000	<split(<string(gstr1)>, ,1)> aprendió Glower, ¿sí? Entonces <split(<string(gstr1)>, ,1)> lo logró, tal como dijo Martyn.
+TEXT_JOBAOZ500_03198_LATOOLJA_000_001	Latool Ja le avisará a Martyn.
+TEXT_JOBAOZ500_03198_MARTYN_000_002	¡Lo lograste, <split(<string(gstr1)>, ,1)>! ¡Me llenas de orgullo! Y eso no es lo único que hay que celebrar...
+TEXT_JOBAOZ500_03198_MARTYN_000_003	Recibí una carta que dice que Whastrach cumplió su palabra: ¡la medicina funcionó y los whalaqee están a salvo!
+TEXT_JOBAOZ500_03198_NEWWORLDBOY_000_004	(-Joven-)¡Martyn! ¡Te estuve buscando por todas partes!
+TEXT_JOBAOZ500_03198_MARTYN_000_005	¡¿Ceadda?! ¿Cómo llegaste aquí?
+TEXT_JOBAOZ500_03198_NEWWORLDBOY_000_006	¡Eso no importa! ¡Tengo algo urgente que decirte!
+TEXT_JOBAOZ500_03198_MARTYN_000_007	<split(<string(gstr1)>, ,1)>, él es Ceadda, el curandero whalaqee del que te hablé. Aprendió a hablar la lengua común de Eorzea, y...
+TEXT_JOBAOZ500_03198_NEWWORLDBOY_000_008	¡¿Me vas a escuchar?! Es Whastrach: trajo la medicina y todos los enfermos se curaron.
+TEXT_JOBAOZ500_03198_NEWWORLDBOY_000_009	Pero no se conformó con dárnosla: ¡la usó para reclamar el Lapis Canyon!
+TEXT_JOBAOZ500_03198_MARTYN_000_010	Pero ¿por qué haría...?
+TEXT_JOBAOZ500_03198_MARTYN_100_010	¡Claro! ¡El ceruleum!
+TEXT_JOBAOZ500_03198_MARTYN_000_011	El Lapis Canyon es tierra sagrada, y brilla de un azul intenso por todo el ceruleum que hay bajo la superficie.
+TEXT_JOBAOZ500_03198_MARTYN_000_012	Ese desgraciado lo quería desde el principio. ¡Debe estar en la planta de procesamiento! Vamos, Ceadda, ¡en marcha!
+TEXT_JOBAOZ500_03198_LATOOLJA_000_013	¡Martyn, espere! Ah... Muy rápido para un hombre que estar en cama muchos días.
+TEXT_JOBAOZ500_03198_LATOOLJA_000_014	¿Puede <split(<string(gstr1)>, ,1)> ir con ellos? Latool Ja teme que Martyn muerda más de lo que puede tragar. ¿O se dice "masticar"?
+TEXT_JOBAOZ500_03198_LATOOLJA_100_015	Por lo que Latool Ja sabe, la planta de procesamiento está en Northern Thanalan. ¡Asegúrese de que Martyn no haga ninguna tontería!
+TEXT_JOBAOZ500_03198_LATOOLJA_000_018	Martyn nunca escuchar al cirujano. Martyn nunca escuchar a nadie.
+TEXT_JOBAOZ500_03198_NEWWORLDBOY_100_018	Los whalaqee viven a la luz del Lapis Canyon desde hace generaciones. ¡No podemos dejar que los hombres de Whastrach lo destruyan!
+TEXT_JOBAOZ500_03198_WHASTRACH_100_019	¿Por qué tiene que ser tan terco?
+TEXT_JOBAOZ500_03198_MARTYN_000_020	¡Solo les diste la medicina para poder robarles el Lapis Canyon!
+TEXT_JOBAOZ500_03198_WHASTRACH_000_021	¿"Robar"? ¡No me hables como si fuera un ladrón cualquiera! No voy a negar que conseguir el ceruleum era mi principal interés, pero firmamos un acuerdo. Todo es perfectamente legal, te lo aseguro.
+TEXT_JOBAOZ500_03198_NEWWORLDBOY_000_022	¡Sabes muy bien que los ancianos no saben leer eorzeano! Les dijiste que, si no firmaban el contrato, no tendrían la medicina. Y además, ¡sus leyes no se aplican a los whalaqee!
+TEXT_JOBAOZ500_03198_WHASTRACH_000_023	Aun así, espero que tus ancianos cumplan la promesa que hicieron, sea legal o no.
+TEXT_JOBAOZ500_03198_WHASTRACH_000_024	Quizá olvidaste que la medicina la pagó y la produjo mi compañía. Antes de que empezaran las negociaciones, ya había gastado sumas enormes para fabricar un cargamento suficiente para tratar a todos.
+TEXT_JOBAOZ500_03198_WHASTRACH_000_025	Salvé a tu tribu de la aniquilación, ¿y así me lo pagas? Les di a todos una segunda oportunidad de llevar una vida sana y productiva.
+TEXT_JOBAOZ500_03198_NEWWORLDBOY_000_026	¡Te aprovechaste de nuestro sufrimiento para saquear lo que más queremos! Desde la época de mis antepasados, el Lapis Canyon está en el centro de nuestras creencias, ¡de todo lo que hacemos!
+TEXT_JOBAOZ500_03198_WHASTRACH_000_027	¿Creencias? Vamos, ¡no seas absurdo! Esa sustancia azul que llaman "la sangre vital del planeta" es ceruleum, un tipo de combustible. Ahí bajo tierra no le sirve a nadie.
+TEXT_JOBAOZ500_03198_WHASTRACH_000_028	Cuando abra una mina en el Lapis Canyon, espero emplear a los whalaqee y darles a todos la oportunidad de ganar un salario como corresponde.
+TEXT_JOBAOZ500_03198_WHASTRACH_000_029	Cuando se den cuenta de lo que se perdieron todo este tiempo, pronto olvidarán sus supersticiones.
+TEXT_JOBAOZ500_03198_MARTYN_000_030	¡Cómo te atreves, maldita sea! ¡¿Quién eres tú para llamarlas supersticiones?! ¡Es su forma de vida, y lo único que quieres es destruirla por tu propia codicia!
+TEXT_JOBAOZ500_03198_WHASTRACH_000_031	¡Hago más por los whalaqee de lo que tú harás jamás! Les doy la oportunidad de construirse un futuro mejor. ¡O forman parte del mundo moderno o se quedan atrás!
+TEXT_JOBAOZ500_03198_MARTYN_000_032	¡Esa decisión no te corresponde!
+TEXT_JOBAOZ500_03198_WHASTRACH_000_033	¡¿Y la medicina?! Fue producto de la sociedad eorzeana. ¡Sin ella estarían todos muertos! Y otra cosa: ¡mi inversionista financió su producción a cambio de una parte de las ganancias de mi empresa en el Nuevo Mundo!
+TEXT_JOBAOZ500_03198_ROYSE_000_034	(-Voz conocida-)¡Queridos, queridos! ¡No hace falta pelear!
+TEXT_JOBAOZ500_03198_ROYSE_000_035	Lo admito, soy la que financia a Whastrach. Todo empezó cuando le conté el plan de Martyn para salvar a los whalaqee de la epidemia. Verán, la perspectiva de comerciar con el Nuevo Mundo sonaba bastante prometedora, aunque es la primera vez que oigo hablar de la mina de ceruleum.
+TEXT_JOBAOZ500_03198_ROYSE_000_036	Expandirse a nuevas regiones suele provocar resistencia de los lugareños, pero esto supera con creces lo que esperaba. Whastrach, no me gusta que me oculten cosas. ¡Estoy pensando seriamente en retirarme de nuestro trato!
+TEXT_JOBAOZ500_03198_ROYSE_000_037	Dicho eso, veo que puede ser una empresa que valga la pena, siempre que no se explote a los whalaqee. Pero también estoy de acuerdo con Martyn en que no hay que alterar su forma de vida. Como ven, esto me deja ante una decisión difícil...
+TEXT_JOBAOZ500_03198_ROYSE_000_038	¡Por eso propongo que ustedes dos lo resuelvan en la arena! Whastrach, tú también eres blue mage, ¿no?
+TEXT_JOBAOZ500_03198_WHASTRACH_000_039	Así es. Aunque debo advertirle que Martyn nunca estuvo a mi altura, ni siquiera antes de que una de sus mascotas lo masticara y lo escupiera.
+TEXT_JOBAOZ500_03198_ROYSE_000_040	¡Entonces quizá sea hora de que su aprendiz, "Azuro the Second", haga su gran debut!
+TEXT_JOBAOZ500_03198_ROYSE_000_041	Ya me lo imagino: ¡el choque definitivo de la magia azul! ¡<if(gnum4,La leal discípula,El leal discípulo)> del Great Azuro frente a un misterioso desafiante para decidir quién es el mejor hechicero!
+TEXT_JOBAOZ500_03198_ROYSE_000_042	Si <split(<string(gstr1)>, ,1)> gana, le corto los fondos al proyecto del Lapis Canyon y las tierras vuelven a sus dueños originales. Y si gana Whastrach, Martyn tendrá que hacer de intermediario con los whalaqee y convencerlos de aceptar la explotación.
+TEXT_JOBAOZ500_03198_MARTYN_000_043	Royse, usted puede hacer lo que quiera con su dinero, ¡pero no espere que yo acepte esto!
+TEXT_JOBAOZ500_03198_WHASTRACH_000_044	Para ser un tipo tan anticuado, Martyn parece olvidar que disputas como esta se deciden en combate desde tiempos antiguos.
+TEXT_JOBAOZ500_03198_WHASTRACH_000_045	¡Yo, por mi parte, no tengo objeciones! ¡Cuenten conmigo!
+TEXT_JOBAOZ500_03198_MARTYN_000_046	¡¿Y los whalaqee?! ¡Ellos deberían decidir su propio destino, no nosotros!
+TEXT_JOBAOZ500_03198_NEWWORLDBOY_000_047	Tienes razón, Martyn, pero nosotros tenemos una tradición parecida. Cuando dos bandos no llegan a un acuerdo, un representante de cada uno participa en una prueba de fuerza.
+TEXT_JOBAOZ500_03198_NEWWORLDBOY_100_048	Lo ideal sería que eligieran a alguien de mi pueblo, pero estamos en Eorzea, y no tengo más remedio que pedirle que participe en nuestro nombre. Entonces, ¿lo hará, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBAOZ500_03198_Q1_000_000	¿Qué dices?
+TEXT_JOBAOZ500_03198_A1_000_001	¡Voy a pelear por lo que es justo!
+TEXT_JOBAOZ500_03198_A1_000_002	¡Voy a pelear por Martyn!
+TEXT_JOBAOZ500_03198_A1_000_003	¿En qué me estoy metiendo?
+TEXT_JOBAOZ500_03198_ROYSE_000_049	¡Muy galante de tu parte, querid<if(gnum4,a,o)>! ¡El público va a estar encantado!
+TEXT_JOBAOZ500_03198_ROYSE_000_050	¡Qué forma tan noble de mostrarle gratitud a tu mentor! Quizá podamos usar esto en el espectáculo...
+TEXT_JOBAOZ500_03198_ROYSE_000_051	Lo sé, querid<if(gnum4,a,o)>, es mucha responsabilidad. ¡Y nada menos que en tu combate de debut! Pero como dice el muchacho, tienes que ser tú.
+TEXT_JOBAOZ500_03198_ROYSE_000_052	Lo primero es lo primero: hay que ponerles a ustedes dos sus disfraces y ver esa magia suya. Quiero saber qué va a ver mi público cuando llegue el gran día. ¡Andando!
+TEXT_JOBAOZ500_03198_MARTYN_000_055	¡Por todos los infiernos! ¿Cómo dejamos que Royse nos convenciera de esto?
+TEXT_JOBAOZ500_03198_WHASTRACH_000_056	Siempre me caíste bien, <split(<string(gstr1)>, ,1)>, así que es una lástima que tenga que darte una buena paliza delante de toda esa gente. Tengo mucho en juego, así que no esperes que me contenga.
+TEXT_JOBAOZ500_03198_LATOOLJA_000_057	Gracias por traer a Martyn de vuelta a Ul'dah. Latool Ja se alegra de que esté ileso, pero está de un humor muy raro. ¡Latool Ja quiere saber qué pasa!
+TEXT_JOBAOZ500_03198_NEWWORLDBOY_000_058	Por favor, tiene que derrotar a Whastrach. Es un hombre cruel y sin corazón, ¡así que no le tenga piedad!
+TEXT_JOBAOZ500_03198_ROYSE_000_060	Cuando se hayan puesto sus nuevos disfraces, los veo en la arena. ¡Por aquí, queridos!
+TEXT_JOBAOZ500_03198_ROYSE_000_070	¡<split(<string(gstr1)>, ,1)>, querid<if(gnum4,a,o)>! ¿Estás list<if(gnum4,a,o)>?
+TEXT_JOBAOZ500_03198_LATOOLJA_100_070	Pero usted... falló...
+TEXT_JOBAOZ500_03198_MAMOOLJASHOP_100_071	¡Jajaja! ¡No, Gaheel Ja no creer eso!
+TEXT_JOBAOZ500_03198_ROYSE_000_071	Maravilloso, querid<if(gnum4,a,o)>. ¡Parece que nació <if(gnum4,una nueva heroína,un nuevo héroe)>!
+TEXT_JOBAOZ500_03198_ROYSE_000_072	Ahora es el turno de Whastrach. Presten atención al disfraz, queridos: ¡es mi mejor creación hasta ahora!
+TEXT_JOBAOZ500_03198_MAMOOLJASHOP_100_072	Qué... poder...
+TEXT_JOBAOZ500_03198_ROYSE_000_073	El temible brujo que trasciende las dimensiones del tiempo y el espacio: ¡Azulmagia!
+TEXT_JOBAOZ500_03198_WHASTRACH_000_074	¿Por qué tengo que ser yo el villano?
+TEXT_JOBAOZ500_03198_ROYSE_000_075	¡Es todo parte del número, querido! ¿Qué puede ser más emocionante que una lucha épica entre el bien y el mal?
+TEXT_JOBAOZ500_03198_MARTYN_100_075	¿Me está diciendo que Whastrach está dentro de esa cosa? ¿Y por qué flota?
+TEXT_JOBAOZ500_03198_ROYSE_100_076	¡Por el efecto dramático, por supuesto! Si tanto quieres saberlo, es un dispositivo de levitación a ceruleum. Sorprendentemente barato, además. Al parecer, flotar unos ilms sobre el suelo no tiene muchas aplicaciones prácticas.
+TEXT_JOBAOZ500_03198_WHASTRACH_100_077	Todavía no me convence que sea del todo necesario, y el disfraz es bastante más llamativo de lo que me hubiera gustado. Pero si voy a hacer esto, más vale que lo disfrute. ¡Le mostraré al público cómo es la verdadera magia azul!
+TEXT_JOBAOZ500_03198_ROYSE_000_076	Eso es lo que me gusta oír. ¡Seguro que será una función que nunca olvidarán, aquí mismo, en el Masked Carnivale!
+TEXT_JOBAOZ500_03198_ROYSE_100_078	No quiero ser indiscreta, <split(<string(gstr1)>, ,1)> querid<if(gnum4,a,o)>, pero creo que te convendría practicar un poco antes de protagonizar el evento principal.
+TEXT_JOBAOZ500_03198_WHASTRACH_100_079	¡Jajaja! Entrena todo lo que quieras, no cambiará nada. ¡El Lapis Canyon es mío!
+TEXT_JOBAOZ500_03198_MARTYN_000_080	Todavía no puedo creer que esto esté pasando...
+TEXT_JOBAOZ500_03198_LATOOLJA_000_081	El Glower de <split(<string(gstr1)>, ,1)> muy doloroso... Tampoco refrescante. Solo doloroso.
+TEXT_JOBAOZ500_03198_NEWWORLDBOY_000_082	No deje que Whastrach lo intimide. ¡Sé que puede vencerlo!
+TEXT_JOBAOZ500_03198_ROYSE_000_090	Yo diría que estás list<if(gnum4,a,o)> para participar en el Masked Carnivale, aunque te recomiendo probar tus habilidades contra rivales menos difíciles antes de enfrentar a Azulmagia.
+TEXT_JOBAOZ500_03198_ROYSE_000_091	Reuní toda una colección de bestias exóticas, pero deberías elegir con cuidado. Tratamos de terminar la función antes de que alguno de los dos bandos sufra heridas graves, pero, como puede atestiguar Martyn, los accidentes pasan.
+TEXT_JOBAOZ500_03198_ROYSE_000_092	Cuando confíes en tus habilidades, dímelo y te daré la oportunidad de resolver esta disputa con Azulmagia. Hasta entonces, pelea bien, pero no hagas ninguna locura. Me costaría encontrar <italic(1)>otr<if(gnum4,a,o)><italic(0)> blue mage de reemplazo...
+TEXT_JOBAOZ500_03198_MARTYN_000_093	Esa Royse... Es de lo que no hay, ¿no? Supongo que si lo hubiera visto venir, no estaríamos en este lío.
+TEXT_JOBAOZ500_03198_NEWWORLDBOY_000_094	¡Ahora todo depende de usted, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBAOZ500_03198_MARTYN_000_095	Tiene razón. Si no me hubieran dejado casi muerto en esa maldita función, podría haberme encargado de él yo mismo. Bueno, me gustaría pensar que tendría alguna oportunidad de ganar, pero él siempre fue mejor mago.
+TEXT_JOBAOZ500_03198_MARTYN_100_095	Pero, para ser sincero, creo que tienes verdadero talento para la magia azul. De hecho, no deberías tenerle miedo a Whastrach: ¡él debería tenerte miedo a ti!
+TEXT_JOBAOZ500_03198_MARTYN_000_096	Con los hechizos indicados, creo que podrás bajarle los humos. ¡Ahora sal ahí y muéstrale de qué estás hech<if(gnum4,a,o)>!
+TEXT_JOBAOZ500_03198_MARTYN_000_097	Uf... Mírame, alterándome así. Mejor vuelvo antes de que el cirujano se dé cuenta de que me fui. Con suerte me dejarán salir de la enfermería para ver algunas de tus funciones. ¡Mucha suerte, <split(<string(gstr1)>, ,1)>!
+TEXT_JOBAOZ500_03198_SYSTEM_000_100	Se desbloqueó el Masked Carnivale. Para participar, habla con el encargado del Celestium en Onyx Lane.
