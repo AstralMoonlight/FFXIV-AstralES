@@ -57,7 +57,7 @@ public sealed unsafe class Plugin : IDalamudPlugin
     private bool diagnostics;
 
     public Plugin(IAddonLifecycle lifecycle, ICommandManager commands, IChatGui chat, IPluginLog log, IGameInteropProvider interop,
-        IClientState clientState, IDataManager data, ISeStringEvaluator evaluator)
+        IClientState clientState, IDataManager data, ISeStringEvaluator evaluator, IToastGui toasts)
     {
         this.lifecycle = lifecycle;
         this.commands = commands;
@@ -72,7 +72,7 @@ public sealed unsafe class Plugin : IDalamudPlugin
         showTooltip.Enable();
 
         addonText = new AddonText(interop, lifecycle, data, log, () => enabled, () => diagnostics);
-        msq = new Msq(lifecycle, clientState, data, evaluator, log, () => enabled, () => diagnostics);
+        msq = new Msq(lifecycle, chat, toasts, clientState, data, evaluator, log, () => enabled, () => diagnostics);
 
         commands.AddHandler(Command, new CommandInfo(OnCommand)
         {

@@ -229,11 +229,11 @@ Mensajes y menús de los aetherytes, el Aethernet y los porters (chocobos, halco
 
 ## Mensajes del chat
 
-El plugin todavía no traduce la ventana del chat. Estas son todas las hojas del juego de donde sale lo que se ve ahí.
+El plugin traduce los mensajes del sistema (los que no tienen remitente) que ya están en su tabla, en el chat y en los mensajes grandes en pantalla; por ahora, los del evento de Fall Guys. Lo que dicen los NPC y los jugadores sigue en inglés. Estas son todas las hojas del juego de donde sale lo que se ve en el chat.
 
 | Hoja | Qué sale en el chat | Estado |
 |---|---|---|
-| `LogMessage` | Avisos del sistema y del combate: experiencia y nivel, objetos y gil, misiones aceptadas y completadas, habilidades aprendidas, logros, lugares descubiertos, santuarios e instancias de zona, estados ganados y perdidos, acciones de cada personaje, emotes, errores | ![Pendiente][no] |
+| `LogMessage` | Avisos del sistema y del combate: experiencia y nivel, objetos y gil, misiones aceptadas y completadas, habilidades aprendidas, logros, lugares descubiertos, santuarios e instancias de zona, estados ganados y perdidos, acciones de cada personaje, emotes, errores. Traducidos los de Blunderville | ![En curso][wip] |
 | Hojas de misión (`quest/`) | Lo que dicen los NPC en las ventanas de diálogo y en combate (líneas `BATTLETALK`). La traducción ya existe en `msq/es/`: falta mostrarla en el chat | ![Pendiente][no] |
 | `InstanceContentTextData` | Lo que dicen los jefes en mazmorras, trials y raids. La traducción ya existe en `msq/es/duties/`: falta mostrarla en el chat | ![Pendiente][no] |
 | Hojas `custom/` | Diálogos de NPC fuera de las misiones (eventos de temporada, aetherytes, porters). La traducción ya existe para las que están en `msq/es/events/` y `msq/es/transport/` | ![Pendiente][no] |

@@ -3,6 +3,9 @@ using System.Text.RegularExpressions;
 using Dalamud.Game;
 using Dalamud.Game.Addon.Lifecycle;
 using Dalamud.Game.Addon.Lifecycle.AddonArgTypes;
+using Dalamud.Game.Chat;
+using Dalamud.Game.Gui.Toast;
+using Dalamud.Game.Text.SeStringHandling;
 using Dalamud.Plugin.Services;
 using Dalamud.Utility;
 using FFXIVClientStructs.FFXIV.Client.UI.Misc;
@@ -42,6 +45,8 @@ public sealed unsafe class Msq : IDisposable
     private static readonly Regex Counter = new(@"\s+\d+/\d+$", RegexOptions.Compiled);
 
     private readonly IAddonLifecycle lifecycle;
+    private readonly IChatGui chat;
+    private readonly IToastGui toasts;
     private readonly IClientState clientState;
     private readonly IDataManager data;
     private readonly ISeStringEvaluator evaluator;
@@ -59,10 +64,12 @@ public sealed unsafe class Msq : IDisposable
     // Spanish already written into a subtitle node: the next frame finds it there and must not report it.
     private readonly HashSet<string> drawn = [];
 
-    public Msq(IAddonLifecycle lifecycle, IClientState clientState, IDataManager data, ISeStringEvaluator evaluator,
+    public Msq(IAddonLifecycle lifecycle, IChatGui chat, IToastGui toasts, IClientState clientState, IDataManager data, ISeStringEvaluator evaluator,
         IPluginLog log, Func<bool> enabled, Func<bool> diagnostics)
     {
         this.lifecycle = lifecycle;
+        this.chat = chat;
+        this.toasts = toasts;
         this.clientState = clientState;
         this.data = data;
         this.evaluator = evaluator;
@@ -76,6 +83,10 @@ public sealed unsafe class Msq : IDisposable
         lifecycle.RegisterListener(AddonEvent.PreRefresh, OnAddon);
         lifecycle.RegisterListener(AddonEvent.PreDraw, ["TalkSubtitle", "_BattleTalk"], OnSubtitleDraw);
         lifecycle.RegisterListener(AddonEvent.PreRequestedUpdate, Arrays.Keys, OnArrayUpdate);
+        chat.CheckMessageHandled += OnChat;
+        toasts.Toast += OnToast;
+        toasts.QuestToast += OnQuestToast;
+        toasts.ErrorToast += OnErrorToast;
         clientState.Login += Reset;
     }
 
@@ -191,6 +202,63 @@ public sealed unsafe class Msq : IDisposable
         {
             if (reported.Add("array-error"))
                 log.Error(ex, "Duty list / journal translation failed");
+        }
+    }
+
+    // System messages in the chat (LogMessage rows: "You have been eliminated and sent to spectator
+    // mode."), recognised by their whole text like any window's. Only lines without a sender: what
+    // players write ("Yes", "Cancel") must stay as they wrote it.
+    private void OnChat(IHandleableChatMessage message)
+    {
+        if (!enabled() || message.Sender.ToString().Length != 0)
+            return;
+
+        try
+        {
+            var plain = Normalize(message.Message.ToString());
+
+            if (diagnostics())
+                Report($"[diag] chat {message.LogKind}: {plain}");
+
+            if (Lookup().TryGetValue(plain, out var spanish))
+                message.Message = spanish.ToDalamudString();
+        }
+        catch (Exception ex)
+        {
+            if (reported.Add("chat-error"))
+                log.Error(ex, "Chat translation failed");
+        }
+    }
+
+    // The big messages in the middle of the screen ("You have been eliminated and sent to spectator
+    // mode."): the game hands each of the three kinds its text before showing it.
+    private void OnToast(ref SeString message, ref ToastOptions options, ref bool isHandled) => SwapToast(ref message);
+
+    private void OnQuestToast(ref SeString message, ref QuestToastOptions options, ref bool isHandled) => SwapToast(ref message);
+
+    private void OnErrorToast(ref SeString message, ref bool isHandled) => SwapToast(ref message);
+
+    private void SwapToast(ref SeString message)
+    {
+        if (!enabled())
+            return;
+
+        try
+        {
+            var plain = Normalize(message.TextValue);
+
+            if (diagnostics())
+                Report($"[diag] toast: {plain}");
+
+            if (Lookup().TryGetValue(plain, out var spanish))
+                message = spanish.ToDalamudString();
+            else if (plain.Length > 20)
+                Report($"Sin traducir (toast): {plain}");
+        }
+        catch (Exception ex)
+        {
+            if (reported.Add("toast-error"))
+                log.Error(ex, "Toast translation failed");
         }
     }
 
@@ -348,6 +416,10 @@ public sealed unsafe class Msq : IDisposable
     public void Dispose()
     {
         lifecycle.UnregisterListener(OnAddon, OnSubtitleDraw, OnArrayUpdate);
+        chat.CheckMessageHandled -= OnChat;
+        toasts.Toast -= OnToast;
+        toasts.QuestToast -= OnQuestToast;
+        toasts.ErrorToast -= OnErrorToast;
         clientState.Login -= Reset;
     }
 }
