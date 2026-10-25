@@ -183,12 +183,13 @@ foreach (var (name, i) in featureNames.Select((n, i) => (n, i + 1)))
     index.Append($"\tfeatures\t{file}\t{q.RowId}\t{name}\t{WriteSheet($"quest/{id[^5..^2]}/{id}", Path.Combine(output, "features", file))}\n");
 }
 
-// The seasonal event running now (All Saints' Wake 2026): its two quests, then what the event NPCs
-// say outside them (custom/ talk sheets: the guide, the witch, the warp into the horror room).
-string[] eventIds = ["FesHlx201_", "FesHlx202_", "FesHlx2026"];
+// The events running now, numbered in this order: All Saints' Wake 2026 (its two quests, then what
+// the event NPCs say outside them: the guide, the witch, the warp into the horror room) and the
+// Fall Guys event (the Blunderville quest and the guide at its gate).
+string[] eventIds = ["FesHlx201_", "FesHlx202_", "FesHlx2026", "SubGsc901_", "CtsEtcFgsEntrance_"];
 var eventSheets = sheetNames.Where(n => (n.StartsWith("quest/") || n.StartsWith("custom/"))
         && eventIds.Any(id => n[(n.LastIndexOf('/') + 1)..].StartsWith(id)))
-    .OrderBy(n => !n.StartsWith("quest/")).ThenBy(n => n).ToList();
+    .OrderBy(n => Array.FindIndex(eventIds, id => n[(n.LastIndexOf('/') + 1)..].StartsWith(id))).ThenBy(n => n).ToList();
 
 if (eventSheets.Count < eventIds.Length)
     missing.Add($"event sheets: found only {string.Join(", ", eventSheets)}");

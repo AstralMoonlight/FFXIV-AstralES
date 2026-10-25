@@ -216,6 +216,7 @@ Solo se ven mientras dura el evento.
 | Evento | Contenido | Estado |
 |---|---|---|
 | All Saints' Wake 2026 (Halloween) | "We Scare Bears", "Grim and Grisly Games" y los diálogos de los NPC del evento | ![Traducido][ok] |
+| Fall Guys (Blunderville, Gold Saucer) | "Just Crowning Around", los diálogos de los NPC de Blunderville Square y los objetivos y avisos de la ronda | ![Traducido][ok] |
 
 ## Viaje y transporte
 
