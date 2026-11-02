@@ -61,6 +61,9 @@ public sealed unsafe class Msq : IDisposable
     private Dictionary<string, ReadOnlySeString>? lobby;
     private readonly HashSet<string> reported = [];
 
+    // Spanish for AtkValues the game does not own, in native memory. Never freed: the window may keep the pointer.
+    private readonly Dictionary<ReadOnlySeString, nint> native = [];
+
     // Spanish already written into a subtitle node: the next frame finds it there and must not report it.
     private readonly HashSet<string> drawn = [];
 
@@ -150,8 +153,15 @@ public sealed unsafe class Msq : IDisposable
 
                 if (lookup.TryGetValue(plain, out var spanish))
                 {
-                    // A trailing 0 in case the copy is taken as a C string.
-                    value->SetManagedString([.. spanish.Data.Span, 0]);
+                    if (text.Data.SequenceEqual(spanish.Data.Span))
+                        continue;
+
+                    // A String the game does not own (sheet text) may be kept by pointer after setup
+                    // (the Glamour Dresser job list): a managed copy is freed and the list shows garbage.
+                    if (value->Type == AtkValueType.ManagedString)
+                        value->SetManagedString([.. spanish.Data.Span, 0]);
+                    else
+                        value->String = (byte*)Native(spanish);
                 }
                 else if (Dialogue.Contains(args.AddonName) && plain.Length > 20)
                 {
@@ -405,6 +415,18 @@ public sealed unsafe class Msq : IDisposable
     private static string DutyPrefix(string resource) => $"TEXT_{IdOf(resource).ToUpperInvariant()}_";
 
     // The window may wrap or break lines differently from the sheet: compare words only.
+    private nint Native(ReadOnlySeString spanish)
+    {
+        if (native.TryGetValue(spanish, out var pointer))
+            return pointer;
+
+        var bytes = spanish.Data.Span;
+        pointer = System.Runtime.InteropServices.Marshal.AllocHGlobal(bytes.Length + 1);
+        bytes.CopyTo(new Span<byte>((void*)pointer, bytes.Length));
+        ((byte*)pointer)[bytes.Length] = 0;
+        return native[spanish] = pointer;
+    }
+
     private static string Normalize(string text) => string.Join(' ', text.Split(default(char[]), StringSplitOptions.RemoveEmptyEntries));
 
     private void Report(string message)

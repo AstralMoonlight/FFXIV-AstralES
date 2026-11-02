@@ -82,7 +82,8 @@ public sealed unsafe class AddonText : IDisposable
 
         foreach (var row in sheet)
         {
-            if (!spanish.TryGetValue(English(row), out var es))
+            // Spanish identical to the English (job names, rule 3): leave the game's own text alone.
+            if (!spanish.TryGetValue(English(row), out var es) || es == English(row))
                 continue;
 
             var bytes = ReadOnlySeString.FromMacroString(es, default).Data.Span;
