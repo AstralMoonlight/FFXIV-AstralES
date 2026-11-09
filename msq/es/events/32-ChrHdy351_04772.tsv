@@ -1,0 +1,49 @@
+key	text
+TEXT_CHRHDY351_04772_SEQ_00	El artesano de la House Manderville está listo para atender tu solicitud de mejora.<br>※Si cambias de clase o job, no podrás avanzar en esta misión.
+TEXT_CHRHDY351_04772_SEQ_01	Con la decisión de mejorar otra arma Manderville, consultas al artesano de la House Manderville. Entusiasta pero apenado, te pide que le consigas de nuevo los materiales raros necesarios: en este caso, tres pedazos de amplifying achondrite.<br><br>※No puedes avanzar con una clase o un job distinto del que tenías al aceptar esta misión.<br><br>※Los pedazos de amplifying achondrite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY351_04772_SEQ_02	Como prometieron, los servidores de la House Manderville, con ayuda del siempre irascible Gerolt, elevan tu arma a una nueva etapa de majestuosidad. Si deseas mejorar otras armas, el artesano te pide contratar sus servicios sin dudarlo.
+TEXT_CHRHDY351_04772_TODO_00	<if([lnum1<lnum2],Consigue pedazos de amplifying achondrite,Con <if([lnum4==19],<ennoun(Item,2,39144,1,1) y <ennoun(Item,2,39163,1,1)>,<if([lnum4==20],<ennoun(Item,2,39145,1,1)>,<if([lnum4==21],<ennoun(Item,2,39146,1,1)>,<if([lnum4==22],<ennoun(Item,2,39147,1,1)>,<if([lnum4==23],<ennoun(Item,2,39148,1,1)>,<if([lnum4==24],<ennoun(Item,2,39152,1,1)>,<if([lnum4==25],<ennoun(Item,2,39153,1,1)>,<if([lnum4==27],<ennoun(Item,2,39154,1,1)>,<if([lnum4==28],<ennoun(Item,2,39155,1,1)>,<if([lnum4==30],<ennoun(Item,2,39149,1,1)>,<if([lnum4==31],<ennoun(Item,2,39151,1,1)>,<if([lnum4==32],<ennoun(Item,2,39150,1,1)>,<if([lnum4==33],<ennoun(Item,2,39156,1,1)>,<if([lnum4==34],<ennoun(Item,2,39157,1,1)>,<if([lnum4==35],<ennoun(Item,2,39158,1,1)>,<if([lnum4==37],<ennoun(Item,2,39159,1,1)>,<if([lnum4==38],<ennoun(Item,2,39160,1,1)>,<if([lnum4==39],<ennoun(Item,2,39162,1,1)>,<if([lnum4==40],<ennoun(Item,2,39161,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario o en tu Armoury Chest\, entrégale los pedazos de amplifying achondrite al artesano de la House Manderville)>.
+TEXT_CHRHDY351_04772_SYSTEM_000_000	Al completar la misión "In Need of Adjustment", recibirás un arma Manderville para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_CHRHDY351_04772_SYSTEM_000_001	Asegúrate de cambiar al job que quieras antes de hablar con el artesano de la House Manderville.
+TEXT_CHRHDY351_04772_Q1_000_001	¿Qué haces?
+TEXT_CHRHDY351_04772_A1_000_002	Aceptar esta misión con otro job.
+TEXT_CHRHDY351_04772_A1_000_003	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_CHRHDY351_04772_SYSTEM_000_005	Habla de nuevo con el artesano de la House Manderville cuando quieras aceptar esta misión.
+TEXT_CHRHDY351_04772_SYSTEM_000_006	Ya recibiste <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>. Cambia a otro job y habla de nuevo con el artesano de la House Manderville.
+TEXT_CHRHDY351_04772_SYSTEM_000_007	Ya recibiste <ennoun(Item,2,lnum1,1,1)>. Cambia a otro job y habla de nuevo con el artesano de la House Manderville.
+TEXT_CHRHDY351_04772_SYSTEM_000_008	Asegúrate de tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en tu Armoury Chest o en tu inventario.
+TEXT_CHRHDY351_04772_SYSTEM_100_008	Al hacerlo, podrás aceptar la misión "In Need of Adjustment".
+TEXT_CHRHDY351_04772_SYSTEM_000_009	Para aceptar la misión "In Need of Adjustment", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> equipado, en tu Armoury Chest o en tu inventario.
+TEXT_CHRHDY351_04772_CRAFTER04653_000_010	¿Otra mejora? ¡Por supuesto, por supuesto! Tengo todas las herramientas y materiales necesarios para reforjar su arma.
+TEXT_CHRHDY351_04772_CRAFTER04653_000_011	...Todos los materiales, claro, salvo tres piezas de achondrite extraordinariamente rara. Disculpe por cantar siempre la misma canción, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>, pero debo pedirle que aporte usted este recurso tan valioso.
+TEXT_CHRHDY351_04772_SYSTEM_000_012	Los pedazos de amplifying achondrite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY351_04772_CRAFTER04653_000_020	¿Sigue intentando conseguir la achondrite? Por favor, tómese todo el tiempo que necesite. Me pagan muy bien por estar de pie sin hacer nada en mi puesto, día tras día... tras día.
+TEXT_CHRHDY351_04772_SYSTEM_000_021	Los pedazos de amplifying achondrite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY351_04772_CRAFTER04653_000_030	¡Ah, consiguió la achondrite! Le ruego quitarse el arma para que podamos prodigarle todas nuestras atenciones artesanales.
+TEXT_CHRHDY351_04772_CRAFTER04653_000_031	Por su mirada expectante, ¿puedo suponer que estamos listos para continuar?
+TEXT_CHRHDY351_04772_CRAFTER04653_000_040	Sí, estos pedazos de achondrite están todos convenientemente pedazudos. ¡Que empiece el proceso de mejora!
+TEXT_CHRHDY351_04772_MANDERVILALCHEMIST_000_041	Ahora aplicaremos el recubrimiento de Maxalamanderville. Como sabe, la composición final del aceite alterará las vías de conductividad aetérica y, con ello, la manera en que su arma le sirve en batalla.
+TEXT_CHRHDY351_04772_MANDERVILALCHEMIST_000_042	Debo pedirle que sea muy precis<if(gnum4,a,o)> y firme con sus preferencias particulares.
+TEXT_CHRHDY351_04772_Q2_000_000	¿Qué haces?
+TEXT_CHRHDY351_04772_A2_000_001	Ajustar los atributos de tu arma Manderville.
+TEXT_CHRHDY351_04772_A2_000_002	Saber más sobre los atributos de las armas Manderville.
+TEXT_CHRHDY351_04772_A2_000_003	Nada.
+TEXT_CHRHDY351_04772_SYSTEM_000_043	Puedes elegir tres atributos para añadir a tu arma Manderville recién mejorada. Uno de ellos tendrá un valor menor que los otros dos.
+TEXT_CHRHDY351_04772_SYSTEM_000_044	Cuando hayas ajustado los valores a tu gusto, selecciona "Confirm" para finalizar tu decisión.
+TEXT_CHRHDY351_04772_SYSTEM_000_045	Restablecer los atributos de tu arma requerirá un pedazo adicional de amplifying achondrite, así que elige con cuidado.
+TEXT_CHRHDY351_04772_MANDERVILALCHEMIST_000_046	Como desee, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>.
+TEXT_CHRHDY351_04772_GEROLT_000_047	Listo. ¡Una buena reforja, aunque lo diga yo mismo!
+TEXT_CHRHDY351_04772_GEROLT_000_048	¡Disfruta tu nuevo <ennoun(Item,3,lnum1,1,1)> y <ennoun(Item,3,lnum2,1,1)>!
+TEXT_CHRHDY351_04772_GEROLT_000_049	¡Disfruta tu nuevo <ennoun(Item,3,lnum1,1,1)>!
+TEXT_CHRHDY351_04772_CRAFTER04653_000_050	¡De verdad, otra obra maestra! ¡Un testimonio de la fina armonía de nuestros martillos en colaboración!
+TEXT_CHRHDY351_04772_GEROLT_000_051	Sí, muy bonito lo de los martillazos.
+TEXT_CHRHDY351_04772_GEROLT_000_052	Pero por el amor de Byregot... ¿Te mataría ponerte unos malditos pantalones?
+TEXT_CHRHDY351_04772_CRAFTER04653_000_053	Mi falta de ropa es un esfuerzo consciente, uno que debo mantener si quiero emular la metodología magistral de Lord Godbert.
+TEXT_CHRHDY351_04772_CRAFTER04653_100_054	¿Por qué no lo intenta usted, señor Gerolt? Liberarse de la tiranía de la vestimenta socialmente aceptable es una experiencia liberadora, se lo aseguro.
+TEXT_CHRHDY351_04772_GEROLT_000_055	Liberarme, dices...
+TEXT_CHRHDY351_04772_GEROLT_000_056	¿¡Para unirme a tu sociedad de cerebro y calzones pequeños!? ¡Ni en un millón de años!
+TEXT_CHRHDY351_04772_CRAFTER04653_000_060	¡Una obra de arte que quita el aliento, construida sobre una sólida base de artesanía en colaboración!
+TEXT_CHRHDY351_04772_GEROLT_000_061	Sí, pero... sobre todo sobre mis talentos de herrero. Ustedes dos sigan practicando, eso sí.
+TEXT_CHRHDY351_04772_CRAFTER04653_000_070	Parecería que por hoy terminaron nuestros esfuerzos. Si tiene otras armas que necesiten mejora, no dude en pedir nuestros servicios.
+TEXT_CHRHDY351_04772_CRAFTER04653_000_071	Unos momentos de aviso y unos pedazos de achondrite es todo lo que necesitamos.
+TEXT_CHRHDY351_04772_MANDERVILALCHEMIST_000_072	En cuanto a los reajustes simples, solo tiene que traerme una pieza de la misma amplifying achondrite. Me encargaré de que las vías aetéricas de sus armas queden a su gusto.

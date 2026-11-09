@@ -1,0 +1,121 @@
+key	text
+TEXT_CHRHDY301_04771_SEQ_00	Gerolt parece todavía menos contento de verte que de costumbre.<br>※Si cambias de clase o job, no podrás avanzar en esta misión.
+TEXT_CHRHDY301_04771_SEQ_01	Aunque estás ansios<if(gnum4,a,o)> por seguir mejorando tu arma Manderville, la actitud hosca de Gerolt indica que él no lo está en absoluto. El antagonismo repentino y descarado del herrero preocupa mucho a Godbert, que teme que esta actitud perjudique el trabajo. Sugiere un trago compartido para resolver sus diferencias y te manda a apartar una mesa en Mehryde's Meyhane.<br><br>※No puedes avanzar con una clase o un job distinto del que tenías al aceptar esta misión.
+TEXT_CHRHDY301_04771_SEQ_02	Después de consumir suficiente valor líquido para ahogar a un behemoth, Gerolt expone sus razones para despreciar a Godbert, una diferencia fundamental de perspectivas que termina dejando al herrero revolcándose en un lodazal de autodesprecio. Por suerte, un comentario bien pensado de tu parte (¿o fue de Rowena?) reaviva el orgullo profesional de Gerolt. Mientras él vuelve tambaleándose a su yunque, Godbert te pide empezar a reunir la achondrite necesaria antes de regresar a sus diversas tareas.<br><br>※Los pedazos de amplifying achondrite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY301_04771_SEQ_03	La mejora vuelve a ser un éxito, y el milagroso aceite Maxalamanderville te permite afinar las propiedades de tu arma. Por impresionante que sea tu avance, Godbert te asegura que todavía queda una etapa final en la evolución del arma...
+TEXT_CHRHDY301_04771_TODO_00	Espera a Godbert y a Gerolt en una mesa libre de Mehryde's Meyhane.
+TEXT_CHRHDY301_04771_TODO_01	<if([lnum1<lnum2],Consigue pedazos de amplifying achondrite,Con <if([lnum4==19],<ennoun(Item,2,39144,1,1) y <ennoun(Item,2,39163,1,1)>,<if([lnum4==20],<ennoun(Item,2,39145,1,1)>,<if([lnum4==21],<ennoun(Item,2,39146,1,1)>,<if([lnum4==22],<ennoun(Item,2,39147,1,1)>,<if([lnum4==23],<ennoun(Item,2,39148,1,1)>,<if([lnum4==24],<ennoun(Item,2,39152,1,1)>,<if([lnum4==25],<ennoun(Item,2,39153,1,1)>,<if([lnum4==27],<ennoun(Item,2,39154,1,1)>,<if([lnum4==28],<ennoun(Item,2,39155,1,1)>,<if([lnum4==30],<ennoun(Item,2,39149,1,1)>,<if([lnum4==31],<ennoun(Item,2,39151,1,1)>,<if([lnum4==32],<ennoun(Item,2,39150,1,1)>,<if([lnum4==33],<ennoun(Item,2,39156,1,1)>,<if([lnum4==34],<ennoun(Item,2,39157,1,1)>,<if([lnum4==35],<ennoun(Item,2,39158,1,1)>,<if([lnum4==37],<ennoun(Item,2,39159,1,1)>,<if([lnum4==38],<ennoun(Item,2,39160,1,1)>,<if([lnum4==39],<ennoun(Item,2,39162,1,1)>,<if([lnum4==40],<ennoun(Item,2,39161,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario o en tu Armoury Chest\, entrégale los pedazos de amplifying achondrite a Gerolt)>.
+TEXT_CHRHDY301_04771_SYSTEM_000_000	Al completar la misión "A Spirited Reforging", recibirás un arma Manderville para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_CHRHDY301_04771_SYSTEM_000_001	Asegúrate de cambiar al job que quieras antes de hablar con Gerolt.
+TEXT_CHRHDY301_04771_Q4_000_001	¿Qué haces?
+TEXT_CHRHDY301_04771_A4_000_002	Aceptar esta misión con otro job.
+TEXT_CHRHDY301_04771_A4_000_003	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_CHRHDY301_04771_SYSTEM_000_005	Una vez que aceptes esta misión, no podrás avanzar con una clase o un job distinto del que tenías al aceptarla.
+TEXT_CHRHDY301_04771_SYSTEM_000_006	Habla de nuevo con Gerolt cuando quieras aceptar esta misión.
+TEXT_CHRHDY301_04771_SYSTEM_000_007	Para aceptar la misión "A Spirited Reforging", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en tu Armoury Chest o en tu inventario.
+TEXT_CHRHDY301_04771_SYSTEM_000_008	Para aceptar la misión "A Spirited Reforging", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> equipado, en tu Armoury Chest o en tu inventario.
+TEXT_CHRHDY301_04771_GEROLT_000_010	Ah, eres tú...
+TEXT_CHRHDY301_04771_GEROLT_000_011	Supongo que ese petimetre de anteojos sí mencionó que había hecho algún gran avance y que necesitaba reunir a los sospechosos de siempre.
+TEXT_CHRHDY301_04771_CRAFTER04653_000_012	Le avisaré a su señoría de su llegada...
+TEXT_CHRHDY301_04771_GODBERT_000_013	¡<split(<string(gstr1)>, ,1)>, bienvenid<if(gnum4,a,o)>, bienvenid<if(gnum4,a,o)>!
+TEXT_CHRHDY301_04771_GODBERT_000_014	Espero que esté list<if(gnum4,a,o)> para otro ratito de trabajo modesto, pues le arranqué un nuevo secreto de herrería a las profundidades de la extraordinaria reliquia de mi familia.
+TEXT_CHRHDY301_04771_GODBERT_000_015	En cuanto a por qué Godbrand abandonó sus diarios cifrados, parecería que deseaba la mayor seguridad que ofrece el aparato de grabación de la reliquia. Que temiera tanto que este conocimiento cayera en malas manos habla del potencial destructivo de lo que buscamos recrear.
+TEXT_CHRHDY301_04771_GODBERT_000_016	Y hablando de eso, esta etapa de mejora requerirá una alteración fundamental del diseño del arma.
+TEXT_CHRHDY301_04771_GODBERT_000_017	Godbrand entendía que cada portador tiene necesidades y preferencias distintas, y por eso ideó un método para modificar las cualidades base de cada arma.
+TEXT_CHRHDY301_04771_GODBERT_000_018	Esencial para el proceso es un nuevo tipo de aceite conocido como "Maxalamanderville". Ajustando con sutileza la proporción exacta de sus ingredientes, podemos influir en las vías de conductividad aetérica a nuestro gusto.
+TEXT_CHRHDY301_04771_GEROLT_000_019	Agh, más maldito aceite...
+TEXT_CHRHDY301_04771_GODBERT_000_020	El ingrediente principal del aceite proviene, una vez más, de un meteorito, en concreto de una achondrite con propiedades amplificadoras.
+TEXT_CHRHDY301_04771_GODBERT_000_021	¡Ah, tantos materiales de otro mundo! Pero no sorprende, ahora que sabemos el origen alienígena de las técnicas de herrería de Godbrand.
+TEXT_CHRHDY301_04771_GEROLT_000_022	¿Origen alienígena, dices? Con razón no las conocía...
+TEXT_CHRHDY301_04771_GODBERT_000_023	Como ya es costumbre, yo prepararé la mayor parte de los recursos necesarios, mientras usted consigue nuestra provisión de achondrite.
+TEXT_CHRHDY301_04771_GEROLT_000_024	Oh, sí, qué maldita "costumbre" tan encantadora. Alguien con tus medios podría comprar también una montaña de esas piedras del espacio, digo yo.
+TEXT_CHRHDY301_04771_GODBERT_000_025	Y con gusto lo haría... salvo que la comerciante en cuestión no acepta otra cosa que cierto tipo de tomestone a cambio.
+TEXT_CHRHDY301_04771_GODBERT_000_026	Por mucho que me duela seguir imponiéndole cargas a <split(<string(gstr1)>, ,1)>, nadie está mejor capacitado para esa tarea onerosa.
+TEXT_CHRHDY301_04771_GODBERT_000_027	Estas mejoras requieren una reforja drástica, y será su pericia la que nos lleve al éxito o al fracaso, señor Gerolt.
+TEXT_CHRHDY301_04771_GEROLT_000_028	Bueno, bueno, me callo la boca y hago lo que me digan...
+TEXT_CHRHDY301_04771_GODBERT_000_029	Hrm. Corríjame si me equivoco, pero me da la clara impresión de que ha perdido el interés en este proyecto.
+TEXT_CHRHDY301_04771_GEROLT_000_030	¿Tú crees, carajo?
+TEXT_CHRHDY301_04771_GEROLT_000_031	Mira, acepté este trabajo para pagar mis deudas de bebida. Ahora que ya lo logré, no tengo ningún deseo de seguir trabajando para un imbécil pretencioso, poco vestido y demasiado acicalado.
+TEXT_CHRHDY301_04771_GODBERT_000_032	Ya veo. Debo admitir que, desde el principio, su disgusto hacia mí estaba bastante mal disimulado.
+TEXT_CHRHDY301_04771_GODBERT_000_033	Y me temo que un antagonismo tan enconado perjudicará nuestros esfuerzos de forja...
+TEXT_CHRHDY301_04771_GODBERT_000_034	¡Sí, resolvamos nuestras diferencias con un jarro de buen licor, o varios, según lo dicten las circunstancias! ¡Todo por mi cuenta, por supuesto!
+TEXT_CHRHDY301_04771_GEROLT_000_035	Licor gratis, ¿eh? ¡Entonces mejor trae tu bolsa más grande!
+TEXT_CHRHDY301_04771_GODBERT_000_036	<split(<string(gstr1)>, ,1)>, debe acompañarnos. Si tiene la bondad de apartar una mesa en la meyhane, llegaré enseguida.
+TEXT_CHRHDY301_04771_GEROLT_000_040	¡Ju ju ju! ¡Invita el viejo Godbert! ¡Vamos a ver qué tan hondos son de verdad los bolsillos de su señoría!
+TEXT_CHRHDY301_04771_GODBERT_000_200	¡Ohohoho! ¡Una noche espléndida para bebidas espirituosas!
+TEXT_CHRHDY301_04771_GEROLT_000_201	Estás seguro de esto, ¿no? Tengo una sed tremenda, ¡y no se me va a quitar con lo barato!
+TEXT_CHRHDY301_04771_GODBERT_000_202	¿Y usted, <split(<string(gstr1)>, ,1)>? ¿Seguirá el fino ejemplo del señor Gerolt?
+TEXT_CHRHDY301_04771_Q1_000_000	¿Qué vas a decir?
+TEXT_CHRHDY301_04771_A1_000_001	¡Que vengan las bebidas de primera!
+TEXT_CHRHDY301_04771_A1_000_002	Tal vez tome una o dos...
+TEXT_CHRHDY301_04771_A1_000_003	Yo no tomo licor, gracias.
+TEXT_CHRHDY301_04771_GODBERT_000_203	Muy bien. Entonces para empezar pediré lo mismo para todos.
+TEXT_CHRHDY301_04771_GODBERT_000_204	Muy bien. Entonces le pediremos una alternativa sabrosa.
+TEXT_CHRHDY301_04771_MIHLEEL_000_205	Sus bebidas, Lord Godbert. ¡Que las disfruten!
+TEXT_CHRHDY301_04771_GODBERT_000_206	¡A su salud, amigos míos!
+TEXT_CHRHDY301_04771_GEROLT_000_207	Bien, nada de andarse por las ramas. Hace muchísimo que te odio hasta las tripas.
+TEXT_CHRHDY301_04771_GODBERT_000_208	Ja, así que hasta mis entrañas le ofenden. ¿Y eso por qué?
+TEXT_CHRHDY301_04771_GEROLT_000_209	Porque para un artesano de verdad, la devoción por su oficio debería ser lo primero.
+TEXT_CHRHDY301_04771_GEROLT_000_210	Pero tú andas fundando consorcios o construyendo patios de juego para bobos y desplumar a las masas. ¡Eres... eres un maldito <italic(1)>mercader<italic(0)>, eso es lo que eres!
+TEXT_CHRHDY301_04771_GODBERT_000_211	Cree que mi "devoción" es insuficiente, entonces. Pero nuestras obras requieren no solo el sudor de la frente, sino capital para cubrir gastos, ¿no? Así pues, ¿no facilita el proceso creativo un ingreso constante?
+TEXT_CHRHDY301_04771_GODBERT_000_212	En ese sentido, mis negocios me han permitido darme el gusto de proyectos de orfebrería que de otro modo jamás habría podido costear.
+TEXT_CHRHDY301_04771_GODBERT_000_213	¿No es cierto que usted fabrica teteras para pagar préstamos o simplemente llegar a fin de mes? ¿No lo libraría una buena fuente de riqueza de tan tedioso trabajo y le permitiría perseguir lo que desea su corazón?
+TEXT_CHRHDY301_04771_GEROLT_000_214	¡T-Trago! ¡Necesitamos más trago por aquí!
+TEXT_CHRHDY301_04771_GEROLT_000_215	Lo que de verdad... ¡hip!... me amargó fue cuando sentaste el culo en el Syndicate. ¿¡Cómo vas a fabricar algo que valga la pena con la cabeza metida en esa mierda política!?
+TEXT_CHRHDY301_04771_GODBERT_000_216	Le sorprendería. Mi participación en el gobierno de Ul'dah me abrió los ojos a un mundo distinto, lo que a su vez me dio gran inspiración para varias piezas originales.
+TEXT_CHRHDY301_04771_GEROLT_000_217	Pues quédate con tu maldita inspi... ¡hip!... ración. ¡No quiero nada que ver con legisladores remilgados de tu calaña!
+TEXT_CHRHDY301_04771_GEROLT_000_218	Tú... tú y tus malditos... ¡hip!... argumentos razonables.
+TEXT_CHRHDY301_04771_GEROLT_000_219	Los ricachones no tienen... no tienen idea de cómo es para los pobres diablos como yo. ¿¡Y qué tienes contra usar <italic(1)>ropa<italic(0)>, de todos modos!?
+TEXT_CHRHDY301_04771_GODBERT_000_220	Nos parecemos más de lo que cree, señor Gerolt. ¡Sobre todo en la sencillez de nuestro atuendo!
+TEXT_CHRHDY301_04771_GEROLT_000_221	Sí, todo está claro ahora... Tú eres el maestro artesano...
+TEXT_CHRHDY301_04771_GEROLT_000_222	Y yo soy un maldito fracaso... ¡Un <italic(1)>fracaso<italic(0)>! \<sollozo>
+TEXT_CHRHDY301_04771_GEROLT_000_223	¿Rowena? ¿De dónde...? ¿Cómo...?
+TEXT_CHRHDY301_04771_GEROLT_000_224	Ah, al diablo... Soy una miseria de herrero, y eso es lo único que importa.
+TEXT_CHRHDY301_04771_GODBERT_000_225	Hm, parece que le confunde con otra persona. ¿Quizá podría ofrecerle una palabra amable...?
+TEXT_CHRHDY301_04771_Q2_000_000	¿Qué vas a decir?
+TEXT_CHRHDY301_04771_A2_000_001	Gerolt, tu trabajo es impecable.
+TEXT_CHRHDY301_04771_A2_000_002	¡Gerolt, eres una lloriqueante deshonra para tu oficio!
+TEXT_CHRHDY301_04771_GEROLT_000_226	Eso... eso significa mucho viniendo de ti. Gracias.
+TEXT_CHRHDY301_04771_GEROLT_000_227	Siempre me dices las cosas de frente. Te lo agradezco.
+TEXT_CHRHDY301_04771_GEROLT_000_228	Bien, ya acabé de llorar en mi copa. Voy a arreglar esas armas, y al diablo el dinero: lo haré por mi propio maldito orgullo.
+TEXT_CHRHDY301_04771_GODBERT_000_229	Parecería que el señor Gerolt superó su aversión a nuestra sociedad. Espléndido. Aunque jamás habría imaginado que el jugo de zanahoria pudiera ser tan embriagador...
+TEXT_CHRHDY301_04771_GODBERT_000_230	Ah, verá, me preocupaba la salud de nuestro buen herrero, así que hace varias rondas le pedí a Mihleel que le cambiara el licor por algo menos fuerte. Los licores de la meyhane son sublimes, pero en exceso pueden hacer estragos en el cuerpo.
+TEXT_CHRHDY301_04771_GODBERT_000_231	Hubo un tiempo en que yo también dedicaba cada momento de vigilia a mi oficio...
+TEXT_CHRHDY301_04771_GODBERT_000_232	Pero, por desgracia, dirigir un imperio mercantil conlleva sus propias responsabilidades. Problemas de dinero aparte, sí le envidio al señor Gerolt su pureza de propósito.
+TEXT_CHRHDY301_04771_GODBERT_000_233	Y con eso, volvamos a nuestras adquisiciones asignadas. ¡Necesitaremos tres pedazos de dicha achondrite en cuanto pueda!
+TEXT_CHRHDY301_04771_SYSTEM_000_240	Los pedazos de amplifying achondrite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY301_04771_GEROLT_000_241	Agh, tomé un trago de más en la meyhane... ¿Dónde están esas malditas piedras, entonces? ¿O solo viniste a que me duela más la cabeza?
+TEXT_CHRHDY301_04771_SYSTEM_000_242	Los pedazos de amplifying achondrite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY301_04771_GEROLT_000_250	Parece que ya resolviste lo de la achondrite. Ahora, a menos que quieras mi martillo a distancia de golpear la entrepierna, más te vale quitarte el arma antes de que empecemos.
+TEXT_CHRHDY301_04771_GEROLT_000_251	Ah, el calor del horno ya me despejó. A ver esas piedras especiales.
+TEXT_CHRHDY301_04771_GEROLT_000_252	Sí, creo que con esto basta, pero... hay algo más que me inquieta. ¿Rowena estuvo en la meyhane? No me acuerdo bien...
+TEXT_CHRHDY301_04771_GEROLT_000_253	Bah, olvídalo. ¡Trae a su señoría antes de que se me quiten las ganas de forjar!
+TEXT_CHRHDY301_04771_GODBERT_000_254	Y ahora, el toque final: el aceite Maxalamanderville. Antes de terminar la mezcla, sin embargo, debe decirnos cómo desea que su arma le sirva en batalla.
+TEXT_CHRHDY301_04771_GODBERT_000_255	La proporción de los ingredientes influirá mucho en las cualidades del arma, así que piense bien antes de responder...
+TEXT_CHRHDY301_04771_Q3_000_000	¿Qué haces?
+TEXT_CHRHDY301_04771_A3_000_001	Ajustar los atributos de tu arma Manderville.
+TEXT_CHRHDY301_04771_A3_000_002	Saber más sobre los atributos de las armas Manderville.
+TEXT_CHRHDY301_04771_A3_000_003	Nada.
+TEXT_CHRHDY301_04771_SYSTEM_000_260	Puedes elegir tres atributos para añadir a tu arma Manderville recién mejorada. Uno de ellos tendrá un valor menor que los otros dos.
+TEXT_CHRHDY301_04771_SYSTEM_000_261	Cuando hayas ajustado los valores a tu gusto, selecciona "Confirm" para finalizar tu decisión.
+TEXT_CHRHDY301_04771_SYSTEM_000_262	Restablecer los atributos de tu arma requerirá un pedazo adicional de amplifying achondrite, así que elige con cuidado.
+TEXT_CHRHDY301_04771_GODBERT_000_270	¡Entendido! ¡Sus deseos son órdenes!
+TEXT_CHRHDY301_04771_GODBERT_000_280	¡Y está hecho!
+TEXT_CHRHDY301_04771_GEROLT_000_281	Tienes en tus manos el resultado de una devoción inmortal a la excelencia artesanal...
+TEXT_CHRHDY301_04771_GEROLT_000_282	¡<head(<ennoun(Item,1,lnum1,1,1)>)> y <ennoun(Item,1,lnum2,1,1)>!
+TEXT_CHRHDY301_04771_GEROLT_000_283	¡<head(<ennoun(Item,1,lnum1,1,1)>)>!
+TEXT_CHRHDY301_04771_GODBERT_000_284	Si no hubiera confesado con tanta valentía sus agravios aquella noche, ¡me atrevo a decir que este grado de colaboración habría sido inalcanzable!
+TEXT_CHRHDY301_04771_GEROLT_000_285	Sí, bueno, mi memoria está algo borrosa en ese punto... pero acepto las victorias donde las encuentre.
+TEXT_CHRHDY301_04771_GODBERT_000_286	Como siempre, <split(<string(gstr1)>, ,1)>, si desea mejorar otras armas Manderville que tenga, solo dígalo. Mi diligente servidor está a sus órdenes.
+TEXT_CHRHDY301_04771_CRAFTER04653_000_287	Ejem, Lord Godbert... Aunque me avergüenza admitirlo, la pericia necesaria para fabricar el aceite Maxalamanderville supera mis limitados conocimientos alquímicos.
+TEXT_CHRHDY301_04771_GEROLT_000_288	A mí no me mires. Si supiera mezclar pociones mágicas, hace tiempo que me habría vuelto a crecer el pelo.
+TEXT_CHRHDY301_04771_GODBERT_000_289	Ohohoho, ya sé que para usted también sería una hazaña insuperable. Por eso contraté a un maestro alchemist.
+TEXT_CHRHDY301_04771_GEROLT_000_290	Hm. Tiene un gusto raro para la ropa, pero al menos lleva algo puesto...
+TEXT_CHRHDY301_04771_GODBERT_000_291	La nueva incorporación al séquito de la House Manderville ayudará con las siguientes mejoras y supervisará la preparación del aceite.
+TEXT_CHRHDY301_04771_GODBERT_000_292	También estará disponible para reajustar las propiedades de sus armas, con solo traerle la cantidad necesaria de achondrite.
+TEXT_CHRHDY301_04771_GODBERT_000_293	¡Este ha sido un paso monumental, amigos míos! Pero aún queda una etapa antes de que la evolución del arma Manderville pueda considerarse completa.
+TEXT_CHRHDY301_04771_GEROLT_000_294	Sabía que ibas para allá. A ver si adivino: ¿vamos a quedarnos aquí con la maldita respiración contenida mientras decides qué sigue?
+TEXT_CHRHDY301_04771_GODBERT_000_295	¡Precisamente! Preparar el proceso <italic(1)>puede<italic(0)> ser una empresa larga, así que le sugiero seguir respirando.
+TEXT_CHRHDY301_04771_GODBERT_000_296	El paso final se acerca, <split(<string(gstr1)>, ,1)>. Le ruego que complazca esta ambición mía una última vez.
+TEXT_CHRHDY301_04771_SYSTEM_000_300	El alchemist de la House Manderville del High Crucible of Al-Kimiya ahora ofrece el reajuste de armas Manderville.
+TEXT_CHRHDY301_04771_SYSTEM_000_301	Consigue el pedazo de amplifying achondrite necesario y equipa el arma que quieras reajustar antes de acercarte al siempre paciente servidor de Lord Godbert.

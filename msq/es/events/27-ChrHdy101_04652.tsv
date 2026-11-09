@@ -1,0 +1,109 @@
+key	text
+TEXT_CHRHDY101_04652_SEQ_00	El sirviente de la House Manderville lleva un buen rato esperando con paciencia para hablar contigo.<br>※Si cambias de clase o job, no podrás avanzar en esta misión.
+TEXT_CHRHDY101_04652_SEQ_01	Con bastante aprensión, te acercas al sirviente de la House Manderville para ofrecer tu ayuda en la empresa de herrería de Godbert. El sirviente responde con un agradecimiento respetuoso y te dirige a su base de operaciones, en un rincón del High Crucible.<br><br>※No puedes avanzar con una clase o un job distinto del que tenías al aceptar esta misión.
+TEXT_CHRHDY101_04652_SEQ_02	Al llegar al taller, el sirviente se retira para informar a Lord Manderville de tu llegada. Godbert aparece enseguida y, tras contarte una breve historia de las armas Manderville, te presenta al tercer miembro del equipo: el legendario herrero Gerolt. Todavía hay varios obstáculos entre Godbert y la recreación de las armas de su antepasado, y tu tarea en particular será conseguir suficiente manderium meteorite. Según Gerolt, esas piedras del cielo podrían conseguirse con Jubrunnah, una de las lacayas de Rowena, que puso un puesto cerca del aetheryte de la ciudad. Sospechosamente oportuno.
+TEXT_CHRHDY101_04652_SEQ_03	Te acercas a Jubrunnah y descubres que la oportunista comerciante tiene una gran cantidad de pedazos de meteorito. El gil es la moneda preferida de los coleccionistas de todo el mundo, pero no para la clientela tan especial de Rowena, claro que no. Parece que su agente tiene órdenes de cobrarte un buen montón de Allagan tomestones por cada pedazo de esa piedra del cielo fantásticamente rara. Y Gerolt necesita tres.
+TEXT_CHRHDY101_04652_SEQ_04	Le entregas el manderium meteorite al herrero, que no pierde tiempo en empezar la extracción del aceite. El resultado inerte es, como mínimo, decepcionante. Godbert elige justo ese momento para aparecer y ofrecerle a un Gerolt atónito una exhibición de alquimia escandalosamente varonil que transforma el líquido en un Exalamanderville resplandeciente. Con todos los componentes listos, Gerolt toma su martillo y logra forjar lo que, por lo visto, es solo la primera versión del arma Manderville que elegiste. Las siguientes mejoras tendrán que esperar a que Godbert descifre el próximo pasaje del manual de su antepasado. Por el momento, parece que eres libre de pasar el tiempo como quieras. ¿Metid<if(gnum4,a,o)> en otro caso disparatado, tal vez...?
+TEXT_CHRHDY101_04652_TODO_00	Habla con el sirviente de la House Manderville.
+TEXT_CHRHDY101_04652_TODO_01	Habla con Jubrunnah.
+TEXT_CHRHDY101_04652_TODO_02	Entrégale a Gerolt los pedazos de manderium meteorite.
+TEXT_CHRHDY101_04652_SYSTEM_100_000	Al completar la misión "Make It a Manderville", recibirás un arma Manderville para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_CHRHDY101_04652_SYSTEM_110_000	Asegúrate de cambiar al job que quieras antes de hablar con el sirviente de la House Manderville.
+TEXT_CHRHDY101_04652_Q2_000_000	¿Qué harás?
+TEXT_CHRHDY101_04652_A2_000_000	Aceptar esta misión con otro job.
+TEXT_CHRHDY101_04652_A2_000_001	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_CHRHDY101_04652_SYSTEM_120_000	Una vez que aceptes esta misión, no podrás avanzar con una clase o un job distinto del que tenías al aceptarla.
+TEXT_CHRHDY101_04652_SYSTEM_130_000	Habla de nuevo con el sirviente de la House Manderville cuando quieras aceptar esta misión.
+TEXT_CHRHDY101_04652_SERVANT04652_000_000	<if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,2)>, qué maravilla poder hablar con usted por fin. Su cooperación en la empresa de herrería de Lord Manderville es muy apreciada.
+TEXT_CHRHDY101_04652_SERVANT04652_000_001	Con respecto a dicha empresa, nos prestaron un rincón del High Crucible para instalar nuestro taller. ¿Tendría la bondad de seguirme?
+TEXT_CHRHDY101_04652_SERVANT04652_000_010	Nuestra humilde base de operaciones.
+TEXT_CHRHDY101_04652_SERVANT04652_100_010	Sin duda vendrá muchas veces en los próximos días, así que le sugiero enfáticamente sintonizarse con el Aethernet de la ciudad... si aún no lo ha hecho.
+TEXT_CHRHDY101_04652_SERVANT04652_000_011	Por lo demás, ¿confío en que ya tiene todo listo? Un momento mientras le informo a Lord Manderville de su llegada.
+TEXT_CHRHDY101_04652_GODBERT_000_020	¡Oho! ¡Bienvenid<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>, bienvenid<if(gnum4,a,o)>! ¡Con su firme ayuda en la mezcla, tengo plena confianza en que esta aventura de forja será un éxito rotundo!
+TEXT_CHRHDY101_04652_GODBERT_000_021	Y así, empecemos... ¡con una exposición detallada de la historia de las armas Manderville!
+TEXT_CHRHDY101_04652_GODBERT_000_022	En primer lugar, cuando digo "armas Manderville", me refiero a la serie de obras maestras creadas por el legendario artesano Godbrand Manderville, primer lord de la House Manderville.
+TEXT_CHRHDY101_04652_GODBERT_000_023	Hechas de místico manderium, estas armas, según dicen sin igual, son quizá nuestro tesoro más preciado... o lo fueron, hasta que alguien las extravió. Pésimo manejo de la casa, eso. Por fortuna, el viejo manual en el que Godbrand escribió sus secretos sigue intacto y en nuestro poder.
+TEXT_CHRHDY101_04652_GODBERT_000_024	Así que, con esa preciosa reliquia familiar en la mano y una buena reserva del mineral más puro, ¡pretendo recrear lo perdido!
+TEXT_CHRHDY101_04652_GODBERT_000_025	Sin embargo, el trabajo no puede avanzar sin algunos ingredientes clave más. Quisiera pedirle que consiga dichos materiales y que nos dé la perspectiva de una persona curtida en la aventura sobre los frutos de nuestra labor.
+TEXT_CHRHDY101_04652_GODBERT_000_026	¡Excelente! Sabía que podía contar con usted. Para un goldsmith como yo, fabricar armas es como aventurarse en territorio desconocido, y solo confiaría en los guías más competentes.
+TEXT_CHRHDY101_04652_GODBERT_000_027	Y hablando de eso, permítame presentarle a uno de los mejores del oficio. ¡Acérquese, amigo mío!
+TEXT_CHRHDY101_04652_GEROLT_000_030	Agh, maldita sea... Ya me olía que tú eras <if(gnum4,la "aventurera",el "aventurero")> que su señoría dijo que iba a ayudar. Como mosca a la mierda en cuanto hueles armas nuevas y brillantes, ¿no? \<suspiro>
+TEXT_CHRHDY101_04652_GEROLT_000_031	Mucho gusto y todo eso. Me llamo Gerolt. Supongo que vamos a trabajar juntos en este proyectito emocionante de su señoría. \<suspiro>
+TEXT_CHRHDY101_04652_Q1_000_000	¿Qué dirás?
+TEXT_CHRHDY101_04652_A1_000_000	No pareces muy contento de estar aquí...
+TEXT_CHRHDY101_04652_A1_000_001	¡Vamos, esto será divertido!
+TEXT_CHRHDY101_04652_GEROLT_000_040	¿¡Y por qué iba a estarlo!? Mira a este dandi podrido en gil para el que me obligan a martillar. Preferiría arrastrar mis joyas sobre brasas ardientes que forjar otra baratija para un viejo bastardo y rico.
+TEXT_CHRHDY101_04652_GEROLT_000_041	Oh, sí, tan divertido como un barril de paissas apestadas. Mira a este dandi podrido en gil para el que me obligan a martillar. Preferiría arrastrar mis joyas sobre brasas ardientes que forjar otra baratija para un viejo bastardo y rico.
+TEXT_CHRHDY101_04652_GODBERT_000_050	¿Conque así son las cosas? Contacté a Rowena con la esperanza de contratar el talento del mejor herrero de Eorzea...
+TEXT_CHRHDY101_04652_GODBERT_000_051	Pero, ya que claramente no le interesa ofrecerme sus servicios, contrataré a otro artesano. Podemos dejar atrás esa charla de joyas y brasas...
+TEXT_CHRHDY101_04652_GEROLT_000_053	¡Espera, espera, espera, me entendiste muy mal, su señoría! ¡Eso fue solo un chistecito de herrero para aligerar el ambiente! ¡Sería un <italic(1)>honor<italic(0)> trabajar en tu baratij... eh, arma Manderville!
+TEXT_CHRHDY101_04652_GEROLT_000_054	Agh, el asunto es este... Ya me gasté lo que me va a dejar este trabajo en unas botellas muy elegantes de licor thavnairiano. No me puedo dar el lujo de <italic(1)>no<italic(0)> hacerlo.
+TEXT_CHRHDY101_04652_GODBERT_000_055	Entonces volvemos al negocio, ¿sí? ¡Maravilloso!
+TEXT_CHRHDY101_04652_GEROLT_000_056	Sí, es condenadamente espléndido. Tu equipo está aquí completito, ¡así que a forjar!
+TEXT_CHRHDY101_04652_GODBERT_000_057	Nada me gustaría más. Sin embargo, por ahora hay tres enigmas entre nosotros y la realización de cualquier arma Manderville.
+TEXT_CHRHDY101_04652_GODBERT_000_058	El primero es idear un método para trabajar el manderium. Por lo que he podido descifrar del manual, el proceso es bastante exigente.
+TEXT_CHRHDY101_04652_GEROLT_000_059	Eso déjaselo al viejo Gerolt. Todavía no conozco el metal al que no pueda darle forma a golpes.
+TEXT_CHRHDY101_04652_GODBERT_000_060	¡Oho! ¡Entonces le cedo esa tarea a su ingenio artesanal!
+TEXT_CHRHDY101_04652_GODBERT_000_061	El segundo es fabricar la ornamentación que amplificará la intensidad aetérica del arma.
+TEXT_CHRHDY101_04652_GEROLT_000_062	Si necesitas una hoja resistente, aquí estoy. Pero andar con piececitas decorativas no es lo mío.
+TEXT_CHRHDY101_04652_GODBERT_000_063	¡Entonces es una suerte que manosear piececitas sí sea lo mío! Aunque sin duda será un desafío, crear adornos convenientemente exquisitos es tarea para mí y mi martillo de goldsmith.
+TEXT_CHRHDY101_04652_GODBERT_000_064	En cuanto al tercer y último problema, necesitamos un frasco de Exalamanderville. Con acceso a un horno alquímico de tamaño industrial, debería ser posible extraer este superlativo aceite mineral de meteoritos ricos en manderium.
+TEXT_CHRHDY101_04652_GEROLT_000_065	Si entendí bien el proceso, este aceite exalamandra-no-sé-qué es clave para maximizar la conductividad aetérica.
+TEXT_CHRHDY101_04652_GODBERT_000_066	Y gracias a la buena voluntad del High Crucible, tenemos aquí mismo el aparato de extracción que necesitamos. Solo falta reunir unos tres buenos pedazos de manderium meteorite. Ese será su encargo, <split(<string(gstr1)>, ,1)>.
+TEXT_CHRHDY101_04652_GODBERT_000_067	Bien, entonces iré a preparar los materiales de la parte que me toca.
+TEXT_CHRHDY101_04652_GEROLT_000_068	Y yo voy a atizar las llamas. Parece que nos harán falta bien calientes.
+TEXT_CHRHDY101_04652_GEROLT_000_069	Ah, Rowena me pidió que te dijera algo. Parece que una de sus lacayas puso, oh, qué maldita casualidad, un puesto junto al aetheryte, y puede que tenga los pedazos de meteorito que necesitamos.
+TEXT_CHRHDY101_04652_GEROLT_000_070	Una muchacha que se llama Jubrunnah, creo. Podría ahorrarte la búsqueda, pero de seguro no va a regalar las piedras del cielo.
+TEXT_CHRHDY101_04652_GEROLT_000_072	Jubrunnah. En la plaza del aetheryte. Supongo que tiene los pedazos de meteorito que necesitas, pero como dije, no van a salir baratos.
+TEXT_CHRHDY101_04652_JUBRUNNAH_000_080	Usted debe ser <if(gnum4,la famosa,el famoso)> <split(<string(gstr1)>, ,1)>. La señora Rowena me dijo que la esperara y que atendiera cualquier solicitud de adquisición.
+TEXT_CHRHDY101_04652_JUBRUNNAH_000_081	¿Manderium meteorite? Pues sí, resulta que acaparamos el mercado de ese activo en particular.
+TEXT_CHRHDY101_04652_JUBRUNNAH_000_082	Del cielo cae una cantidad limitada, ¿sabe?, y los coleccionistas pagan muchísimo gil por esas rarezas. En su caso, sin embargo, tengo instrucciones de pedirle el pago en otra moneda. Dígalo conmigo...
+TEXT_CHRHDY101_04652_JUBRUNNAH_000_083	Allagan. Tome. Stones.
+TEXT_CHRHDY101_04652_JUBRUNNAH_000_084	La tarifa actual es de 500 <ennoun(Item,3,　28,2,1)> por cada pedazo de manderium meteorite. Estaré aquí cuando quiera hacer el intercambio.
+TEXT_CHRHDY101_04652_GEROLT_000_085	¿Ya tienes esos pedazos de piedra del cielo? ...¿Entonces por qué pierdes el tiempo hablando conmigo?
+TEXT_CHRHDY101_04652_SYSTEM_000_086	Los pedazos de manderium meteorite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY101_04652_GEROLT_000_090	¿Y bien? No te quedes ahí rascándote. A ver la mercancía.
+TEXT_CHRHDY101_04652_GEROLT_000_091	Sí, estas son auténticas piedras del cielo, sin duda. Godbert todavía no vuelve, ¡pero creo que podemos adelantarnos con la extracción de ese aceite especial suyo!
+TEXT_CHRHDY101_04652_GEROLT_000_100	Maldición. Esto conduce lo mismo que la grasa de cocina.
+TEXT_CHRHDY101_04652_GEROLT_000_101	Debí arruinar alguno de los pasos. Pero ¿cuál? Estoy casi seguro de que seguí las instrucciones al pie de la maldita letra.
+TEXT_CHRHDY101_04652_GODBERT_000_102	(-Godbert-)¡No hubo falla en su proceso, señor Gerolt!
+TEXT_CHRHDY101_04652_GEROLT_000_103	¿Ah, no? ¿Entonces cómo explicas esta botella de orines aguados que tengo en el yunque?
+TEXT_CHRHDY101_04652_GODBERT_000_104	Aún le falta el tratamiento final, una técnica avanzada de prensado de aceite transmitida por generaciones de entusiastas Manderville de la lubricación.
+TEXT_CHRHDY101_04652_GEROLT_000_105	Hmph... Va a hacer falta más que un prensado entusiasta para poner este líquido a la altura.
+TEXT_CHRHDY101_04652_GODBERT_000_106	¡Hombre de poca fe! ¡Observe!
+TEXT_CHRHDY101_04652_GEROLT_000_107	¡Por todos los cielos, hombre! ¿¡Por qué demonios te quedas en paños menores!? ¡Debí saber que no eras más que un petimetre degenerado!
+TEXT_CHRHDY101_04652_GODBERT_000_108	¡Paciencia, señor Gerolt! Esto es solo el preludio.
+TEXT_CHRHDY101_04652_GODBERT_000_109	¡Contemple las poderosas sentadillas de un hombre Manderville!
+TEXT_CHRHDY101_04652_GODBERT_000_110	Con eso debería bastar para que fluyan los jugos. ¡Ahora, a demostrar dicha técnica!
+TEXT_CHRHDY101_04652_GODBERT_000_111	Una sola gota... ¡de potentísimo... sudor Manderville!
+TEXT_CHRHDY101_04652_GEROLT_000_112	Dioses, está lleno de estrellas...
+TEXT_CHRHDY101_04652_GEROLT_000_113	¡P-Pero eso no cambia nada! ¡Sigues siendo un viejo excéntrico que da saltitos y suda sobre las cosas!
+TEXT_CHRHDY101_04652_GODBERT_000_114	Tal vez, pero mire más de cerca, señor Gerolt. ¡Así queda listo el Exalamanderville!
+TEXT_CHRHDY101_04652_GEROLT_000_115	¿Cómo que "listo"? Lo único que hiciste fue añadirle tus goteos...
+TEXT_CHRHDY101_04652_GEROLT_100_116	¡N-No me jodas!
+TEXT_CHRHDY101_04652_GEROLT_000_117	No es posible... Supongo que no me lo vas a explicar, ¿verdad?
+TEXT_CHRHDY101_04652_GODBERT_000_118	Uno no revela así como así los trucos de su oficio, y menos las tradiciones familiares guardadas por tanto tiempo. Como colega profesional, seguro que lo entiende.
+TEXT_CHRHDY101_04652_GEROLT_000_119	Sí, bueno... ¡a mí me da igual! ¡Ni muerto me verían haciendo esas poses espeluznantes!
+TEXT_CHRHDY101_04652_GODBERT_000_120	Bromas vigorizantes aparte, creo que ya tenemos todos los componentes necesarios. ¡Es su momento de brillar, señor Gerolt!
+TEXT_CHRHDY101_04652_GEROLT_000_121	Oh, voy a brillar, ya lo creo. Estás un poco por encima del artesano promedio, te lo concedo, pero todavía te faltan unos cuantos peldaños.
+TEXT_CHRHDY101_04652_GEROLT_000_122	Mejor tápense los ojos, <if(gnum4,damas y caballeros,caballeros)>, ¡porque <italic(1)>mi<italic(0)> trabajo es francamente cegador!
+TEXT_CHRHDY101_04652_GODBERT_000_200	¡Éxito! ¡Justo como lo predije!
+TEXT_CHRHDY101_04652_GEROLT_000_201	Ahí tienes una obra maestra en colaboración...
+TEXT_CHRHDY101_04652_GEROLT_000_202	¡<head(<ennoun(Item,2,lnum1,1,1)>)> y <ennoun(Item,2,lnum2,1,1)>!
+TEXT_CHRHDY101_04652_GEROLT_000_203	¡<head(<ennoun(Item,2,lnum1,1,1)>)>!
+TEXT_CHRHDY101_04652_GODBERT_000_204	Que haya vivido para ver recreada la maravillosa forja de mi antepasado... ¡Ha hecho muy feliz a este hombre Manderville, <split(<string(gstr1)>, ,1)>!
+TEXT_CHRHDY101_04652_GEROLT_000_205	No saques las burbujas todavía, su señoría. Nos falta un buen trecho antes de poder decir que el trabajo está "terminado".
+TEXT_CHRHDY101_04652_GODBERT_000_206	El señor Gerolt tiene toda la razón. Olvidé explicar debidamente que esta es solo la primera etapa de una creación mucho más grandiosa, el esqueleto del arma, por así decirlo.
+TEXT_CHRHDY101_04652_GEROLT_000_207	Sí, ahora empieza la interminable tarea del refinamiento. O sea que me voy a quedar aquí atascado quién sabe cuánto...
+TEXT_CHRHDY101_04652_GODBERT_000_207	Me apena acaparar su tiempo, mi buen herrero, pero el manual está escrito en un cifrado de lo más desconcertante. Ni siquiera sé cuándo terminaré de descifrar el siguiente paso...
+TEXT_CHRHDY101_04652_GEROLT_000_208	¿Así que me toca quedarme de brazos cruzados? ¡Al menos tengo unas botellas de buen licor para hacerme compañía, je, je!
+TEXT_CHRHDY101_04652_GODBERT_000_209	Una demora lamentable pero inevitable. Volvamos a reunirnos cuando el manual haya revelado sus secretos, ¿le parece?
+TEXT_CHRHDY101_04652_GODBERT_000_210	Mientras tanto, dejo el arma en sus manos curtidas en batalla. Cuando volvamos a vernos, su informe sobre el desempeño será indispensable para guiar nuestras mejoras.
+TEXT_CHRHDY101_04652_GODBERT_000_211	Ah, y si desea experimentar con otra variedad de arma Manderville...
+TEXT_CHRHDY101_04652_GODBERT_000_212	...Entonces este artesano altamente capacitado de la House Manderville está a su servicio. Le enseñé las técnicas necesarias para esta etapa inicial de fabricación. Solo requiere una contribución de manderium meteorite para forjar el arma que elija.
+TEXT_CHRHDY101_04652_GEROLT_100_212	¡Otro bastardo casi desnudo! ¿¡Qué tienen ustedes los Manderville contra los pantalones!?
+TEXT_CHRHDY101_04652_GODBERT_150_212	¡Ohohoho!
+TEXT_CHRHDY101_04652_GEROLT_000_213	¿Sabes qué? Ni quiero saber, solo... déjame la forja a mí. Cuando hago un trabajo, lo hago bien.
+TEXT_CHRHDY101_04652_GODBERT_000_214	Muy bien, entonces volveré pronto. ¡Estoy ansioso por ver tomar forma la siguiente etapa de nuestra obra maestra!
+TEXT_CHRHDY101_04652_SYSTEM_000_216	El artesano de la House Manderville del High Crucible of Al-Kimiya ahora ofrece una misión repetible. Puedes aceptarla para crear armas Manderville para otros jobs.
+TEXT_CHRHDY101_04652_SYSTEM_000_217	Asegúrate de cambiar al job que quieras antes de hablar con el artesano de la House Manderville.

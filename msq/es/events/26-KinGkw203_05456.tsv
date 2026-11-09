@@ -1,0 +1,59 @@
+key	text
+TEXT_KINGKW203_05456_SEQ_00	Lydirceil quiere ver tu arma phantom todavía más mejorada.<br>※Si cambias de clase o job, no podrás avanzar en esta misión.
+TEXT_KINGKW203_05456_SEQ_01	Con el martillo de Gerolt renacido, llegó la hora de aprovechar sus propiedades dadas por el vacío. Lydirceil te informa que hará falta waning arcanite para la mejora y te dirige a Ermina, la representante de la House of Splendors, que puede darte el mineral por el precio justo. El siempre diligente Dodokkuli espera junto a la herrería, listo para hacer el procesamiento preliminar una vez que tengas el arcanite.<br><br>※No puedes avanzar con una clase o un job distinto del que tenías al aceptar esta misión.<br><br>※Los pedazos de waning arcanite se obtienen de Ermina en la aldea phantom.
+TEXT_KINGKW203_05456_SEQ_02	Una vez que le entregas tres pedazos de waning arcanite, el metalurgista prepara el mineral con destreza y le deja el resto del trabajo a Gerolt. Martillo en mano, el herrero descarriado canaliza sus energías de otro mundo hacia tu arma phantom y la eleva a alturas de poder antes inimaginables.
+TEXT_KINGKW203_05456_TODO_00	<if([lnum1<lnum2],Consigue pedazos de waning arcanite,Con <if([lnum4==19],<ennoun(Item,2,47006,1,1)> y <br><ennoun(Item,2,47027,1,1)>,<if([lnum4==20],<ennoun(Item,2,47007,1,1)>,<if([lnum4==21],<ennoun(Item,2,47008,1,1)>,<if([lnum4==22],<ennoun(Item,2,47009,1,1)>,<if([lnum4==23],<ennoun(Item,2,47010,1,1)>,<if([lnum4==24],<ennoun(Item,2,47011,1,1)>,<if([lnum4==25],<ennoun(Item,2,47012,1,1)>,<if([lnum4==27],<ennoun(Item,2,47013,1,1)>,<if([lnum4==28],<ennoun(Item,2,47014,1,1)>,<if([lnum4==30],<ennoun(Item,2,47015,1,1)>,<if([lnum4==31],<ennoun(Item,2,47017,1,1)>,<if([lnum4==32],<ennoun(Item,2,47016,1,1)>,<if([lnum4==33],<ennoun(Item,2,47018,1,1)>,<if([lnum4==34],<ennoun(Item,2,47019,1,1)>,<if([lnum4==35],<ennoun(Item,2,47020,1,1)>,<if([lnum4==37],<ennoun(Item,2,47021,1,1)>,<if([lnum4==38],<ennoun(Item,2,47022,1,1)>,<if([lnum4==39],<ennoun(Item,2,47023,1,1)>,<if([lnum4==40],<ennoun(Item,2,47024,1,1)>,<if([lnum4==41],<ennoun(Item,2,47025,1,1)>,<if([lnum4==42],<ennoun(Item,2,47026,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario o en tu Armoury Chest\, entrégale los pedazos de waning arcanite a Dodokkuli)>.
+TEXT_KINGKW203_05456_GEROLT_000_001	Cada vez que miro a Brigid, la cara de Rowena me cruza la mente como un maldito espectro. Que le deba algo de este éxito a esa arpía solo me echa sal en la herida...
+TEXT_KINGKW203_05456_BRIGID_000_005	Aunque he cumplido mis obligaciones contractuales, permitidme quedarme un poco más. Deseo ver qué forma adopta vuestra arma.
+TEXT_KINGKW203_05456_SYSTEM_000_010	Para aceptar la misión "A Phantom Reborn", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en tu Armoury Chest o en tu inventario.
+TEXT_KINGKW203_05456_SYSTEM_000_011	Para aceptar la misión "A Phantom Reborn", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> equipado, en tu Armoury Chest o en tu inventario.
+TEXT_KINGKW203_05456_LYDIRCEIL_000_012	Gracias a tus valientes esfuerzos, este asunto de la conversión aetérica fue un éxito enorme. Ahora le toca a nuestro herrero hacer su parte y ponerse a martillar.
+TEXT_KINGKW203_05456_SYSTEM_000_013	Al completar la misión "A Phantom Reborn", recibirás un arma phantom para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_KINGKW203_05456_Q1_000_000	¿Qué harás?
+TEXT_KINGKW203_05456_A1_000_001	Aceptar esta misión con otro job.
+TEXT_KINGKW203_05456_A1_000_002	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_KINGKW203_05456_SYSTEM_000_015	Habla de nuevo con Lydirceil cuando quieras aceptar esta misión.
+TEXT_KINGKW203_05456_LYDIRCEIL_000_016	Los topógrafos desenterraron un mineral nuevo que llaman waning arcanite. Gerolt dice que necesitará tres pedazos para la mejora.
+TEXT_KINGKW203_05456_LYDIRCEIL_000_017	Por desgracia, tendrás que tratar otra vez con Ermina. Llévale la mercancía a Dodokkuli cuando hayas soltado tus tomestones.
+TEXT_KINGKW203_05456_LYDIRCEIL_000_020	Cuando tengas el mineral, dáselo a Dodokkuli. No hace falta molestar a Gerolt con el procesamiento inicial.
+TEXT_KINGKW203_05456_SYSTEM_000_025	Los pedazos de waning arcanite se obtienen de Ermina en la aldea phantom.
+TEXT_KINGKW203_05456_GEROLT_000_030	Resulta que <italic(1)>sí<italic(0)> se puede mejorar la perfección, si invocas malditos voidsent y amasas cantidades de aether que hacen llorar, claro.
+TEXT_KINGKW203_05456_BRIGID_000_035	A los voidsent nos repugna actuar sin la promesa de una compensación proporcional. Esta "House of Splendors" parece regirse por principios similares.
+TEXT_KINGKW203_05456_DODOKKULI_000_100	¿Logró conseguir suficiente waning arcanite?
+TEXT_KINGKW203_05456_DODOKKULI_000_101	¿Reunió suficiente waning arcanite? No olvide quitarse su arma phantom antes de que empecemos.
+TEXT_KINGKW203_05456_SYSTEM_000_102	Al entregar el waning arcanite necesario, tu arma phantom será mejorada con el martillo renacido de Gerolt.
+TEXT_KINGKW203_05456_SYSTEM_000_103	Ten en cuenta que perderás cualquier materia insertada durante el proceso.
+TEXT_KINGKW203_05456_DODOKKULI_000_104	¡Espléndido! Cuando termine el procesamiento inicial, ¡sin duda Gerolt querrá poner a prueba su martillo!
+TEXT_KINGKW203_05456_GEROLT_000_105	Demonios, el poder que emana de mi martillo no se parece a nada que haya sentido, es de otro maldito mundo... ¡Hora de darle buen uso!
+TEXT_KINGKW203_05456_GEROLT_000_106	¡MUAJAJAJA!
+TEXT_KINGKW203_05456_GEROLT_000_107	¡Listo! Nadie diría que esta no era la forma original del arma. Te lo juro, si me lo hubieras preguntado hace un momento, habría jurado que no se podía lograr una armonía de aether tan perfecta...
+TEXT_KINGKW203_05456_GEROLT_000_108	¡Contempla el aterrador poder del vacío hecho realidad: <ennoun(Item,2,lnum1,1,1)>!
+TEXT_KINGKW203_05456_GEROLT_000_109	¡Contempla el aterrador poder del vacío hecho realidad: <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>!
+TEXT_KINGKW203_05456_GEROLT_000_110	Aun así... No puedo evitar sentir que este éxito no me lo gané... Como un voidsent que le arrebata la vida a algún pobre diablo, este poder no es realmente mío.
+TEXT_KINGKW203_05456_BRIGID_000_111	No os apresuréis a restaros mérito, artesano. Fuisteis vos quien empuñó el martillo con tal aplomo.
+TEXT_KINGKW203_05456_ARCHIVE_000_112	¡Hohoh, traficando con voidsent para reforzar sus herramientas! Debo decir que el método me suena...
+TEXT_KINGKW203_05456_ARCHIVE_000_113	Ah, sí. La conversión aetérica, una innovación mhachi, si mal no recuerdo. Me llena el corazón ver el conocimiento antiguo de vuelta al frente.
+TEXT_KINGKW203_05456_GEROLT_000_114	Conocimiento antiguo, ¿eh?...
+TEXT_KINGKW203_05456_ARCHIVE_000_115	¿Es disgusto lo que detecto?
+TEXT_KINGKW203_05456_GEROLT_000_116	No tengo nada contra los métodos antiguos. Demonios, sería el primero en respaldarlos.
+TEXT_KINGKW203_05456_GEROLT_000_117	Pero seguro que mis talentos dados por los dioses ya se ganaron un lugar en los libros de historia. ¿Qué dices, <if(gnum4,muchacha,muchacho)>? ¿Quién es el más feroz junto a la forja, los antiguos maestros o este servidor?
+TEXT_KINGKW203_05456_Q2_000_000	¿Qué dirás?
+TEXT_KINGKW203_05456_A2_000_001	Es difícil elegir un ganador.
+TEXT_KINGKW203_05456_A2_000_002	¡Tu talento y su sabiduría <italic(1)>combinados<italic(0)> son una fuerza sin igual!
+TEXT_KINGKW203_05456_GEROLT_000_119	Hm. Tal vez esto no sea una competencia, después de todo. Tal vez combinar lo mejor de mis métodos modernos con su conocimiento antiguo sea la clave para avanzar.
+TEXT_KINGKW203_05456_GEROLT_000_120	Pensé que dirías eso... Resulta que yo pensaba exactamente lo mismo.
+TEXT_KINGKW203_05456_GEROLT_000_121	¡Decidido! Llevar la antorcha de las técnicas perdidas está muy bien, ¡pero es hora de que tome esa base de conocimiento y desarrolle algo totalmente nuevo!
+TEXT_KINGKW203_05456_ARCHIVE_000_122	¡Ajá! La sabiduría del pasado allanando el camino a la innovación futura, ¡de lo más encomiable!
+TEXT_KINGKW203_05456_ARCHIVE_000_123	Pero basta de conocimiento antiguo. ¡Acabo de volver de la orilla, donde saqué un verdadero monstruo!
+TEXT_KINGKW203_05456_ARCHIVE_000_124	Me puse a filetear a la bestia con mi cuchillo recién templado, ¡pero al primer corte el ejemplar se encogió hasta el tamaño de un pez normal!
+TEXT_KINGKW203_05456_DODOKKULI_000_125	Intrigante... ¿Qué podría causar semejante fenómeno?
+TEXT_KINGKW203_05456_ARCHIVE_000_126	Creo que la barrera de la isla le dio a la criatura capacidades mágicas que le permitían proyectar un glamour rudimentario. Parecer mucho más grande sin duda le ayudaba a sobrevivir.
+TEXT_KINGKW203_05456_GEROLT_000_127	Tamaño ridículo aparte, yo digo que abramos una botella de las buenas y les entremos a esos filetes mientras están frescos.
+TEXT_KINGKW203_05456_ARCHIVE_000_128	No nos apresuremos. ¿No preferirían darse un banquete con el pez en su estado agrandado?
+TEXT_KINGKW203_05456_ARCHIVE_000_129	Claro que primero habría que afilar mi hoja y fusionar su esencia con el aether que impregna la isla...
+TEXT_KINGKW203_05456_ARCHIVE_000_130	Tú, ¿podrías realizar semejante hazaña?
+TEXT_KINGKW203_05456_BRIGID_000_131	...No para una criatura tan repugnante.
+TEXT_KINGKW203_05456_ARCHIVE_000_132	¿¡Repugnante!? ¡Qué falta de respeto tan descarada! ¡Ya verás, encontraré la solución yo mismo!
+TEXT_KINGKW203_05456_GEROLT_000_133	Yo me habría conformado con un miserable filete de pescado...
+TEXT_KINGKW203_05456_GEROLT_000_134	No es que necesite excusas para un trago de celebración. En fin, ya sean armas mortales o cuchillos oxidados lo que quieras mejorar, ¡ya sabes dónde encontrarme!
+TEXT_KINGKW203_05456_SYSTEM_000_135	Ahora puedes conseguir armas phantom con más mejoras para otros jobs entregándole el waning arcanite necesario a Dodokkuli en la aldea phantom.

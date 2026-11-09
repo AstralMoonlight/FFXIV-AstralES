@@ -1,0 +1,30 @@
+key	text
+TEXT_JOBREL015_00361_SEQ_00	Sientes que a Gerolt le emociona verte de vuelta en Hyrstmill.
+TEXT_JOBREL015_00361_SEQ_01	Ahora que reuniste las piezas necesarias, Gerolt revela cuál es su materia secreta: tu arma reliquia nexus. En efecto, razona, si todas las energías combinadas que están ligadas al arma se pudieran convertir en materia, las mismas almas que tanto te costó cultivar podrían ascender al nuevo recipiente. Falta ver si algo tan disparatado es siquiera posible. Para averiguarlo, Gerolt te pide que consultes al maestro Mutamix en the Bonfire.
+TEXT_JOBREL015_00361_SEQ_02	Mutamix acepta de buena gana ayudarte. Informa a Gerolt de que el maestro de la materia está listo y dispuesto.
+TEXT_JOBREL015_00361_SEQ_03	Encantado de que el maestro Mutamix haya prometido ayudar, Gerolt dice que ya está todo en su lugar. Habla con Jalzahn cuando quieras recrear tu Zodiac Weapon.
+TEXT_JOBREL015_00361_TODO_00	Habla con Mutamix Bubblypots en the Bonfire.
+TEXT_JOBREL015_00361_TODO_01	Habla con Gerolt.
+TEXT_JOBREL015_00361_GEROLT_000_000	Así que encontraste las cuatro cosas, ¿eh? ¿Que cómo lo sé? Ja, lo llevas escrito en esa cara de triunfo.
+TEXT_JOBREL015_00361_JALZAHN_000_001	¿Dice Gerolt la verdad, <if(gnum4,amiga mía,amigo mío)>? ¿Conseguiste <italic(1)>todos<italic(0)> los objetos? ¡Hurra! Vamos, <if(gnum4,amigos míos,caballeros)>, ¡recreemos un arma de antaño!
+TEXT_JOBREL015_00361_GEROLT_000_002	Todavía no llegamos, Jalzahn. Sí, puedo forjar un recipiente con la materia prima que trajo <split(<string(gstr1)>, ,1)> en un abrir y cerrar de ojos. Pero entonces solo tendremos un arma bonita sin la esencia de un arma legendaria.
+TEXT_JOBREL015_00361_GEROLT_000_003	Todavía hay que unirla con materia especial. Según mis cuentas, es la única manera de infundir el nuevo recipiente con el poder de las almas.
+TEXT_JOBREL015_00361_JALZAHN_000_004	¿Cómo propones que hagamos esa materia? ¿Debería <split(<string(gstr1)>, ,1)> reunir diez piezas de cada tipo de atma? No, quizá... ¿veinte? ¿Cincuenta? Sin duda, una materia compuesta de cincuenta piezas sería suficiente.
+TEXT_JOBREL015_00361_GEROLT_000_005	¿De qué demonios hablas, viejo? La respuesta la tienes frente a los ojos: ¡la maldita reliquia!
+TEXT_JOBREL015_00361_GEROLT_000_006	Sí, tú y <split(<string(gstr1)>, ,1)> hicieron un buen trabajo llenándola de energía de almas como los antiguos. Solo hay que convertir todo eso en materia y unirlo al nuevo recipiente, ¡para que las almas asciendan a un arma legendaria!
+TEXT_JOBREL015_00361_GEROLT_000_007	Pero es una barbaridad de energía. Un artesano del montón haría un desastre con mi mejor forja, y encima dispersaría las almas. Lo que necesitamos es un verdadero maestro de la materia, si me entiendes.
+TEXT_JOBREL015_00361_JALZAHN_000_008	¡El maestro Mutamix, por supuesto! ¿Quién más podría crear una materia tan potente?
+TEXT_JOBREL015_00361_JALZAHN_000_009	Vamos, <split(<string(gstr1)>, ,1)>, ¡debes ir a the Bonfire y pedirle ayuda de inmediato! Seguro que no rechazará el desafío.
+TEXT_JOBREL015_00361_JALZAHN_000_020	Nunca he estado tan cerca de realizar mis sueños... Pero la larga experiencia entre experimentos fallidos enseña prudencia en estos asuntos.
+TEXT_JOBREL015_00361_GEROLT_000_025	¿No ibas a hablar con Mutamix en the Bonfire sobre el arma legendaria?
+TEXT_JOBREL015_00361_SYSTEM_000_000	Para recibir la misión "His Dark Materia" debes tener equipada un arma reliquia nexus. Los paladins deben tener equipados Curtana y el Holy Shield.
+TEXT_JOBREL015_00361_SYSTEM_000_001	Para avanzar en la misión "His Dark Materia" debes tener equipada un arma reliquia nexus. Los paladins deben tener equipados Curtana y el Holy Shield.
+TEXT_JOBREL015_00361_MUTAMIX_000_050	Pshhh... Shkohhh...<br>Hubairtin y Adkin cambian muchos lengüeteos sobre sphere scrolls. Pero hoy, ¿altoterrano busca saberes-materia de Mutamix?
+TEXT_JOBREL015_00361_MUTAMIX_000_051	...¿Altoterrano quiere hacer de cosa-pelea legendaria una materia? Interesante. Cosa-pelea llena de aire-alma se vuelve materia asombrosa... ¡Y con saberes en cajacabeza de Mutamix, es posible!
+TEXT_JOBREL015_00361_MUTAMIX_000_052	Pero a Mutamix le dan tiembletiritas. ¡Es juego-suerte muy grande! Ni con saberes de Mutamix puede dar palabra-amarra de éxito. ¡Cajacabeza llena de zumbidos-duda muchomucho!
+TEXT_JOBREL015_00361_MUTAMIX_000_053	¡Puede salir muy, muy mal! ¡Si Mutamix falla, cosa-pelea legendaria se hace pedacitos! ¡Aire-alma también hace adiós-adiós!
+TEXT_JOBREL015_00361_MUTAMIX_000_054	Pero dará prestamano si altoterrano tiene vejiga no-débil. Da llamagrito y Mutamix hace viaje a tu quedalugar.
+TEXT_JOBREL015_00361_MUTAMIX_000_070	Cuando altoterrano arregle cajacabeza, da llamagrito. Mutamix hará viaje a tu quedalugar.
+TEXT_JOBREL015_00361_GEROLT_000_100	¿Y qué dijo Mutamix? ...¡Ja! ¡Sabía que no podría decirle que no a un desafío así!
+TEXT_JOBREL015_00361_GEROLT_000_101	Y eso... eso significa que ya está todo listo para el gran espectáculo. Ya tengo la forja encendida, así que solo falta decirle a Jalzahn que estás list<if(gnum4,a,o)> y dispuest<if(gnum4,a,o)>.
+TEXT_JOBREL015_00361_GEROLT_000_102	Bueno, <if(gnum4,mi amiga aventurera,mi amigo aventurero)>, ¿qué dices si recreamos un arma legendaria? ¡Ajajajá!

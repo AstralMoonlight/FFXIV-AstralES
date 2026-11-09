@@ -1,0 +1,69 @@
+key	text
+TEXT_LUCKSA109_03949_SEQ_00	La expresión satisfecha de Mikoto sugiere que todo va según lo planeado.
+TEXT_LUCKSA109_03949_SEQ_01	Mikoto y Misija por fin encontraron una fuente de aether adecuada para cargar el foco de cristal. La extracción será un proceso delicado, por lo que Mikoto insiste en acompañarte al sitio.
+TEXT_LUCKSA109_03949_SEQ_02	Llegas al sitio de extracción y encuentras a tus dos compañeras bajo el ataque de soldados garleanos. Arma en mano, te lanzas y les das a los imperiales una paliza terrible que los obliga a retirarse a toda prisa. Pasado el peligro, revisas si Mikoto y Misija están heridas.
+TEXT_LUCKSA109_03949_SEQ_03	Con el dispositivo de extracción listo, Mikoto coloca el foco de cristal y espera con paciencia a que se restauren sus reservas de aether. Tras unos momentos, Misija retira el foco del dispositivo, para desconcierto de Mikoto. Pero el desconcierto pronto se vuelve pánico cuando Misija le apunta con un arma y te ordena bajar la tuya. Como no quieres arriesgar a Mikoto, obedeces. En un instante, Misija y Mikoto desaparecen, y con ellas el foco de cristal.
+TEXT_LUCKSA109_03949_SEQ_04	Regresas al campamento sin compañía y con las manos vacías, para consternación de Bajsaljen y los demás. A falta de soldados para perseguir a Misija y rescatar a Mikoto, Bajsaljen cree que lo mejor es seguir con el plan y asaltar Castrum Lacus Litore.
+TEXT_LUCKSA109_03949_SEQ_05	Los exploradores de la Resistance aún no encuentran rastro de Mikoto, pero no hay motivo para perder la esperanza. Bajsaljen confía en que, cuando caiga el castrum, el rescate de Mikoto no tardará en llegar.
+TEXT_LUCKSA109_03949_TODO_00	Reúnete con Mikoto.
+TEXT_LUCKSA109_03949_TODO_01	Rescata a Mikoto.
+TEXT_LUCKSA109_03949_TODO_02	Habla con Bajsaljen.
+TEXT_LUCKSA109_03949_TODO_03	Habla con Bajsaljen.
+TEXT_LUCKSA109_03949_SYSTEM_100_000	Se necesita Resistance rank <num(lnum1)> para avanzar en esta misión.
+TEXT_LUCKSA109_03949_MIKOTO_000_000	Funcionó, <split(<string(gstr1)>, ,1)>. ¡Encontramos una firma aetérica que coincide y la rastreamos hasta su origen!
+TEXT_LUCKSA109_03949_MIKOTO_000_001	Lilja está trabajando en un dispositivo que nos permitirá cargar el foco de cristal con el aether ambiental de la zona.
+TEXT_LUCKSA109_03949_MIKOTO_000_002	Como es de esperar, la extracción será un trabajo delicado. Por eso quisiéramos ir con usted para supervisar la operación nosotras mismas. ¿Vamos?
+TEXT_LUCKSA109_03949_MIKOTO_000_010	...Fuimos demasiado descuidadas.
+TEXT_LUCKSA109_03949_MEESIYA_000_012	Ugh... Mi cabeza...
+TEXT_LUCKSA109_03949_MIKOTO_000_300	Le pido disculpas, <split(<string(gstr1)>, ,1)>. Estábamos tan pendientes del dispositivo de extracción que ni notamos que se acercaban. No volverá a suceder.
+TEXT_LUCKSA109_03949_LILJA_000_301	(-Lilja-)¿Están bien? Oí gritos.
+TEXT_LUCKSA109_03949_MEESIYA_000_302	Una emboscada de los garleanos. Por suerte, <split(<string(gstr1)>, ,1)> llegó antes de que nos hicieran daño.
+TEXT_LUCKSA109_03949_LILJA_000_303	(-Lilja-)\<suspiro> Otra oportunidad perdida de <if(gnum4,verla,verlo)> en acción. Al menos, todas están bien.
+TEXT_LUCKSA109_03949_MIKOTO_000_304	Lilja, ¿llegamos a nuestro destino?
+TEXT_LUCKSA109_03949_LILJA_000_305	Estoy captando un aumento enorme en los niveles de ondas NR-G108. Definitivamente es el lugar.
+TEXT_LUCKSA109_03949_MIKOTO_000_306	Entonces, empecemos.
+TEXT_LUCKSA109_03949_MEESIYA_000_307	¿Cuánto falta para que sus energías se restauren por completo?
+TEXT_LUCKSA109_03949_MIKOTO_000_308	Excelente pregunta, pero por desgracia es bastante difícil responderla con certeza.
+TEXT_LUCKSA109_03949_MIKOTO_000_309	Considerando las altas concentraciones de aether que ha absorbido hasta ahora, imagino que tiene reservas suficientes para nuestros propósitos. Pero debemos tener presente que el aether natural de este lugar tardará en restaurarse si tuviéramos que cargar el foco otra vez.
+TEXT_LUCKSA109_03949_MEESIYA_000_310	¿Otra vez? No... No creo que haga falta.
+TEXT_LUCKSA109_03949_MIKOTO_000_311	¿Perdón?
+TEXT_LUCKSA109_03949_MEESIYA_000_312	¡Un movimiento en falso y ella muere!
+TEXT_LUCKSA109_03949_MIKOTO_000_313	¿Misija? ¿Qué... Qué está haciendo?
+TEXT_LUCKSA109_03949_MEESIYA_000_314	Oh, no te preocupes. Todavía te necesito.
+TEXT_LUCKSA109_03949_MEESIYA_000_315	Aunque si <if(gnum4,ella,él)> se niega a retroceder...
+TEXT_LUCKSA109_03949_MEESIYA_000_316	Sabia decisión.
+TEXT_LUCKSA109_03949_LILJA_000_330	P-Pero... ¡No tiene ningún sentido! ¿Por qué haría...?
+TEXT_LUCKSA109_03949_BAISHAEN_000_400	¿¡Que hizo qué!? No... ¡No, no puedo creerlo!
+TEXT_LUCKSA109_03949_MARSHAK_000_401	Por los dioses... ¿Y dice que también robó el foco de cristal?
+TEXT_LUCKSA109_03949_MARSHAK_000_402	Me temo que tenemos poco tiempo para averiguar cómo y por qué nos traicionó. Rescatar a Mikoto debe ser la prioridad.
+TEXT_LUCKSA109_03949_BAISHAEN_000_403	Aun así, puede que Misija no haya actuado sola. Necesito que me traiga una lista de sus allegados dentro de la Resistance. Tengo preguntas para ellos...
+TEXT_LUCKSA109_03949_MARSHAK_000_404	¡Sí, señor!
+TEXT_LUCKSA109_03949_BAISHAEN_000_405	Para serle completamente sincero, no tenemos tropas que destinar al rescate de Mikoto. Ya estamos demasiado dispersos.
+TEXT_LUCKSA109_03949_BAISHAEN_000_406	Pero tampoco podemos dejarla a merced del Imperio. Que se la hayan llevado con vida sugiere un plan que requiere sus conocimientos y sus dones sobrenaturales.
+TEXT_LUCKSA109_03949_BAISHAEN_000_407	Hasta que sepamos exactamente dónde la tienen, creo que lo mejor es concentrar nuestros escasos recursos en el asalto a Castrum Lacus Litore.
+TEXT_LUCKSA109_03949_BAISHAEN_000_408	Una vez que caiga el castrum, será más fácil garantizar su seguridad. Después dedicaremos todos nuestros esfuerzos a rescatarla. Tiene mi palabra.
+TEXT_LUCKSA109_03949_SYSTEM_000_499	Mientras tanto, en Castrum Lacus Litore...
+TEXT_LUCKSA109_03949_RIAN_000_500	¡...Y estoy harto de quedarme sentado rascándome el trasero!
+TEXT_LUCKSA109_03949_RIAN_000_501	¿Para qué esperar refuerzos si podemos barrer a la Resistance de Bozja de un solo golpe? ¡Aun con las tropas de este castrum, no tendrían ninguna oportunidad!
+TEXT_LUCKSA109_03949_ALBIREO_000_502	Usted ya ha mostrado una insubordinación flagrante al salir a la carga contra las órdenes recibidas. Se ha llevado a soldados a corte marcial por mucho menos, y tal conducta desdice de su rango.
+TEXT_LUCKSA109_03949_ALBIREO_000_503	No hace falta que le recuerde que nuestro verdadero objetivo es someter a Dalmasca y apoderarnos de sus recursos, no enredarnos en escaramuzas mezquinas con estos perros bozjanos.
+TEXT_LUCKSA109_03949_ALBIREO_000_504	Nos ocuparemos de ellos a su debido tiempo, pero solo cuando la resistencia dalmascana haya sido aniquilada.
+TEXT_LUCKSA109_03949_RIAN_000_505	¿Con quién crees que hablas, muchacho? Sé muy bien que hay que meter en cintura a Dalmasca, y dije desde el principio que invadir Bozja era una pérdida de tiempo. Cuanto antes terminemos con esto, mejor.
+TEXT_LUCKSA109_03949_MENENIUS_000_506	Una pérdida de tiempo... ¿Y quién estaba al frente durante la invasión? Espero que no haya olvidado a los soldados que sacrificó por esta "pérdida de tiempo".
+TEXT_LUCKSA109_03949_ALBIREO_000_507	Conservar nuestra posición aquí es esencial para nuestros planes. Ahora que Doma y Ala Mhigo recuperaron su independencia, los bozjanos se han animado a seguir su ejemplo. Si lo logran, los dalmascanos serán los siguientes. No podemos aspirar a resistir una rebelión unida en todos los frentes.
+TEXT_LUCKSA109_03949_MENENIUS_000_508	No gastes saliva, Albeleo. Lo único que entiende este perro rabioso es el derramamiento de sangre.
+TEXT_LUCKSA109_03949_RIAN_000_509	Cuida esa lengua, o la próxima sangre que se derrame será la tuya.
+TEXT_LUCKSA109_03949_MENENIUS_000_510	Gruña todo lo que quiera, pero la verdad es ineludible: el Imperio está condenado a caer, y pronto la IVth Legion no tendrá hogar al cual volver.
+TEXT_LUCKSA109_03949_RIAN_000_511	¿Y con eso quieres decir...?
+TEXT_LUCKSA109_03949_MENENIUS_000_512	Si Gabranth va a construir su nueva nación, tenemos que recuperar el control de estas provincias.
+TEXT_LUCKSA109_03949_RIAN_000_513	Bueno, conoces a nuestro querido Noah mejor que nadie. Y seguro que has hecho planes propios para esta <italic(1)>nueva nación<italic(0)> que está construyendo.
+TEXT_LUCKSA109_03949_MENENIUS_000_514	No me agrada su tono. ¿Insinúa que traicionaría su confianza?
+TEXT_LUCKSA109_03949_RIAN_000_515	Ay, ya basta. Si alguien detesta este teatro pedante más que yo, eres tú.
+TEXT_LUCKSA109_03949_MENENIUS_000_516	Quizá. Pero mientras me quede una carta por jugar, ¿hago mal en conservarla?
+TEXT_LUCKSA109_03949_RIAN_000_517	Conque así son las cosas, ¿eh? Bien, quédate aquí a tramar tus intrigas. Mi lugar está en el campo de batalla.
+TEXT_LUCKSA109_03949_MENENIUS_000_518	Muy bien, si ese es su deseo. Pero cuando se asiente el polvo y suenen las campanas del juicio, ruego que esté listo para responder por sus transgresiones.
+TEXT_LUCKSA109_03949_ALBIREO_000_519	¿Está seguro de que esto es prudente?
+TEXT_LUCKSA109_03949_MENENIUS_000_520	Será un perro, pero no carece de utilidad. Me atrevo a decir que nadie es más leal a Gabranth y a la IVth Legion. Además, no es tan necio como para buscar la falsa gloria de una muerte honorable en combate.
+TEXT_LUCKSA109_03949_MENENIUS_000_521	Él y sus bestias deberían servir de distracción para nuestros enemigos. Mientras tanto, dejo el castrum en tus manos. Si los bozjanos llegan hasta aquí, confío en que no me decepcionarás.
+TEXT_LUCKSA109_03949_ALBIREO_000_522	Con su permiso.
+TEXT_LUCKSA109_03949_BAISHAEN_000_550	Nuestros exploradores aún no encuentran rastro de Mikoto, pero le prometo que la traeremos a salvo. Por ahora, concentremos nuestros esfuerzos en retomar el castrum.

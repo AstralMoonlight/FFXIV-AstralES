@@ -1,0 +1,20 @@
+key	text
+TEXT_CHRHDY399_04784_SYSTEM_000_000	El alchemist de la House Manderville puede reajustar los atributos de tu arma Manderville.
+TEXT_CHRHDY399_04784_MANDERVILALCHEMIST_000_001	Si no está contento con las propiedades de su arma o solo desea experimentar, con gusto reajustaré sus vías aetéricas.
+TEXT_CHRHDY399_04784_Q1_000_100	¿Qué haces?
+TEXT_CHRHDY399_04784_A1_000_100	Reajustar los atributos de tu arma Manderville.
+TEXT_CHRHDY399_04784_A2_000_100	Saber más sobre el reajuste de atributos de las armas Manderville.
+TEXT_CHRHDY399_04784_A3_000_100	Nada.
+TEXT_CHRHDY399_04784_SYSTEM_000_010	Puedes volver a elegir o equilibrar los tres atributos que añadiste a tu arma Manderville. Igual que en la mejora inicial, uno de ellos tendrá un valor menor que los otros dos.
+TEXT_CHRHDY399_04784_SYSTEM_100_010	Puedes volver a elegir o equilibrar los tres atributos que añadiste a tu arma Manderville. Igual que en la mejora anterior, uno de ellos tendrá un valor menor que los otros dos.
+TEXT_CHRHDY399_04784_SYSTEM_000_011	Cuando hayas reajustado los valores a tu gusto, selecciona "Confirm" para finalizar tu decisión.
+TEXT_CHRHDY399_04784_SYSTEM_000_012	Restablecer los atributos de tu arma requerirá un pedazo adicional de amplifying achondrite, así que elige con cuidado.
+TEXT_CHRHDY399_04784_SYSTEM_100_012	Restablecer los atributos de tu arma requerirá un pedazo adicional de cosmic crystallite, así que elige con cuidado.
+TEXT_CHRHDY399_04784_SYSTEM_100_013	El arma que llevas equipada no se puede reajustar. Debes equipar el arma Manderville que quieras reajustar antes de hablar con el alchemist de la House Manderville.
+TEXT_CHRHDY399_04784_MANDERVILALCHEMIST_000_020	Ejem, ¿por casualidad tiene más achondrite guardada? Solo necesito un pedazo, pero es un elemento bastante crucial...
+TEXT_CHRHDY399_04784_SYSTEM_000_021	Los pedazos de amplifying achondrite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY399_04784_MANDERVILALCHEMIST_100_020	Ejem, ¿por casualidad tiene más crystallite guardada? Solo necesito un pedazo, pero es un elemento bastante crucial...
+TEXT_CHRHDY399_04784_SYSTEM_100_021	Los pedazos de cosmic crystallite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY399_04784_MANDERVILALCHEMIST_000_030	Lo siento, pero me temo que el reajuste solo está disponible para las armas Manderville. ¿Podría equipar un arma adecuada antes de que empecemos...?
+TEXT_CHRHDY399_04784_MANDERVILALCHEMIST_000_040	Listo: perfectamente ajustada a sus nuevas preferencias. Si vuelve a necesitar mis manipulaciones alquímicas, estaré aquí en el High Crucible en el futuro previsible.
+TEXT_CHRHDY399_04784_SYSTEM_000_041	Tu arma Manderville (<if([gnum68<8],<sheet(ClassJob,gnum68,0)>,<if([gnum68>18],<sheet(ClassJob,gnum68,0)>,)>)>) fue reajustada.

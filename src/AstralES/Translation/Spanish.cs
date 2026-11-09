@@ -216,6 +216,7 @@ public static partial class Spanish
         General(Add);
         MainCommand(Add);
         Interface(Add);
+        Status(Add);
         Blm(Add);
         Whm(Add);
         Sge(Add);

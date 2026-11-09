@@ -1,0 +1,79 @@
+key	text
+TEXT_JOBREL101_02212_SEQ_00	Ardashir parece ansioso por dar vida al anima.<br>※Cambiar de clase o job impedirá avanzar en esta misión.
+TEXT_JOBREL101_02212_SEQ_01	Ardashir espera empezar a trabajar en el anima weapon cuanto antes. Ya están todos los elementos necesarios salvo dos: la astral nodule y la umbral nodule, los catalizadores que facilitan canalizar el aether hacia la soulstone. Sin saber dónde conseguirlos, Ardashir sugiere hablar con Rowena en Revenant's Toll. Con suerte, conocerá a algún mercader que pueda darle lo que necesita.<br><br>※No puedes avanzar con una clase o job distinto del que tenías al aceptar esta misión.
+TEXT_JOBREL101_02212_SEQ_02	Al enterarse de que necesitas cristales de propiedades inusuales, Rowena sugiere hablar con una mercader llamada Syndony. Es una joyera que además sabe bastante de cristales. La puedes encontrar en la terraza del segundo piso de the House of Splendors.
+TEXT_JOBREL101_02212_SEQ_03	Al hablar con Syndony, pronto queda claro que tu fama te precede. Cuando preguntas por las nodules, tu extravagante pedido la deja sorprendida, pero no renuncia al desafío de producir lo que buscas. El proceso requiere luminous crystals de aspecto elemental, e insiste en que le traigas uno de cada elemento. Sin embargo, cree también que podría haber otro camino: traerle una Zodiac Weapon del más alto grado. Al ver tu cara de desconcierto, admite que un arma tan legendaria quizá no sea más que un rumor.<br><br>※Si no quieres o no puedes ofrecer una Zodiac Weapon adecuada, los luminous crystals se pueden obtener participando en FATEs en estas regiones:<br>- The Sea of Clouds: luminous wind crystals<br>- Azys Lla: luminous fire crystals<br>- The Churning Mists: luminous lightning crystals<br>- Coerthas Western Highlands: luminous ice crystals<br>- The Dravanian Forelands: luminous earth crystals<br>- The Dravanian Hinterlands: luminous water crystals
+TEXT_JOBREL101_02212_SEQ_04	Con las nodules en la mano, Ardashir por fin está listo para llevar a cabo el plan de Gerolt. Completa la infusión de aether y le entrega la soulstone palpitante a Gerolt, que de inmediato se pone a fijar la gema radiante en tu arma. Tiempo después, el sudoroso herrero baja por fin el martillo, con cara de agotamiento y de satisfacción. El plan tuvo éxito y ya tienes tu propia anima weapon. Ahora comienza el camino para descubrir todo su potencial.
+TEXT_JOBREL101_02212_TODO_00	Habla con Rowena en Revenant's Toll.
+TEXT_JOBREL101_02212_TODO_01	Habla con Syndony en Revenant's Toll.
+TEXT_JOBREL101_02212_TODO_02	Entrégale la astral nodule y la umbral nodule a Ardashir en Azys Lla.
+TEXT_JOBREL101_02212_SYSTEM_100_000	Ten en cuenta que al completar la misión "Soul without Life" recibirás una anima weapon para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_JOBREL101_02212_Q1_000_000	¿Qué haces?
+TEXT_JOBREL101_02212_A1_000_000	Aceptar esta misión con otro job.
+TEXT_JOBREL101_02212_A2_000_000	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_JOBREL101_02212_SYSTEM_100_001	Una vez que aceptes esta misión, no podrás avanzar con una clase o un job distinto del que tenías al aceptarla.
+TEXT_JOBREL101_02212_SYSTEM_100_002	Asegúrate de cambiar al job que deseas antes de hablar con Ardashir.
+TEXT_JOBREL101_02212_SYSTEM_100_003	Ya recibiste <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>.
+TEXT_JOBREL101_02212_SYSTEM_100_004	Ya recibiste <ennoun(Item,2,lnum1,1,1)>.
+TEXT_JOBREL101_02212_SYSTEM_100_005	Para fortalecer aún más esta anima weapon, habla otra vez con Ardashir y acepta la misión "Toughening Up".
+TEXT_JOBREL101_02212_SYSTEM_100_006	Para forjar otra anima weapon, cambia al job que deseas y habla otra vez con Ardashir.
+TEXT_JOBREL101_02212_ARDASHIR_000_000	¿Entiendo que está list<if(gnum4,a,o)> para continuar? Excelente. Gerolt ya empezó a trabajar en el arma que servirá para contener el anima. La dificultad está en mantenerla el tiempo suficiente para que se haga la transferencia.
+TEXT_JOBREL101_02212_ARDASHIR_000_001	Pero con los materiales estabilizadores adecuados, creo que debería ser posible, siempre que actuemos rápido.
+TEXT_JOBREL101_02212_ARDASHIR_100_001	Traje varias soulstones conmigo, así que no se preocupe por eso. Me encargaré de que una se ajuste a su arma.
+TEXT_JOBREL101_02212_ARDASHIR_000_002	Lo único necesario que no tengo son cristales capaces de manejar las cantidades de aether que requiere nuestro trabajo.
+TEXT_JOBREL101_02212_ARDASHIR_000_003	Para ser exactos, necesitaremos astral nodules y umbral nodules.
+TEXT_JOBREL101_02212_ARDASHIR_000_004	Ojalá estuviéramos trabajando en Radz<-->at<-->Han. Allá conocía a un mercader que las vendía. Aunque eran costosas, nunca me faltaron. Quizá la señora Rowena sepa de alguien dispuesto a comerciar. ¿Podría hablar con ella en mi nombre?
+TEXT_JOBREL101_02212_ARDASHIR_000_005	Sin duda, a quien ella le recomiende no se desprenderá de ellas tan fácilmente, pero confío en que podrá llegar a algún tipo de arreglo.
+TEXT_JOBREL101_02212_ARDASHIR_100_005	Mientras tanto, Gerolt y yo terminaremos los preparativos del anima weapon. Buen viaje, <if(gnum4,amiga,amigo)>.
+TEXT_JOBREL101_02212_ARDASHIR_000_010	Ah, viene a crear otra anima weapon, ¿verdad? ¡Ni falta hace decir que estaré encantado de ayudar! ¿Confío en que recuerda las astral nodules y umbral nodules necesarias?
+TEXT_JOBREL101_02212_ARDASHIR_000_011	Sí, bueno, necesito que consiga más de las dos. Sin duda, Syndony podrá darle suficientes, si su habilidad es tan impresionante como parece. Espero que siga donde la vio la última vez. Quizá le convenga hablar con la señora Rowena para estar segur<if(gnum4,a,o)>.
+TEXT_JOBREL101_02212_ROWENA_100_011	Vaya, si es mi <if(gnum4,aventurera favorita,aventurero favorito)>. ¿Cómo va esa anima weapon?
+TEXT_JOBREL101_02212_ROWENA_100_012	¿Astral nodules y umbral nodules? Hmmm, puede que Syndony tenga lo que buscas.
+TEXT_JOBREL101_02212_ROWENA_100_013	Es joyera de oficio, pero lo que hace con los cristales es digno de verse, te lo digo yo. Dicen que puede despojarlos de elementos, cargarlos de otros y hasta sacarlos de la nada, si es que te lo crees. No puedo responder por los rumores, pero sus ganancias dicen mucho.
+TEXT_JOBREL101_02212_ROWENA_100_014	Puede ser un poco quisquillosa con los clientes, pero siendo tú <if(gnum4,la Warrior of Light,el Warrior of Light)>, seguro que tu brillante fama le llama la atención como los cristales que tanto le gustan.
+TEXT_JOBREL101_02212_ROWENA_100_015	Si subes, la encontrarás en la terraza.
+TEXT_JOBREL101_02212_ROWENA_100_016	Ah, <split(<string(gstr1)>, ,1)>. ¿Qué te trae a the House of Splendors?
+TEXT_JOBREL101_02212_ROWENA_100_017	¿Nodules para otra anima weapon? Entonces querrás hablar con Syndony. La encontrarás en la terraza del piso de arriba.
+TEXT_JOBREL101_02212_SYNDONY_000_020	Ah, <if(gnum4,la Warrior of Light,el Warrior of Light)>. Qué agradable sorpresa. No se alarme, querid<if(gnum4,a,o)>. Mi negocio es conocer todos los tesoros de Eorzea, sean materiales o mortales. Pero dígame, ¿a qué debo el placer?
+TEXT_JOBREL101_02212_SYNDONY_000_021	...¿Astral nodules y umbral nodules? Vaya, vaya... Veo que es <if(gnum4,una mujer,un hombre)> de gustos poco comunes. ¿Puedo preguntarle qué piensa hacer con cristales tan curiosos?
+TEXT_JOBREL101_02212_SYNDONY_000_022	Una esencia parecida al alma. Supongo que un trabajo tan peculiar requiere cristales igual de peculiares. Bueno, hizo bien en buscarme. He dedicado mi vida al estudio de los cristales, y no soporto la idea de que haya cristales que no pueda conseguir.
+TEXT_JOBREL101_02212_SYNDONY_000_023	Eso sí, lo que me pide no son simples baratijas. Cristales de tal pureza no se consiguen fácilmente, y menos si además deben ser tan ricos en energías de aspecto astral y um<-->bral...
+TEXT_JOBREL101_02212_SYNDONY_100_023	Aun así, con los materiales adecuados creo que se puede hacer. Requerirá una gran cantidad de aether, claro está, y de un tipo específico.
+TEXT_JOBREL101_02212_SYNDONY_000_024	Me han informado de que, cuando un hombre cae en batalla, queda una energía residual en el aether mucho después de que su espíritu haya vuelto al Lifestream. Esa energía puede infundir a los cristales cercanos una pureza que rara vez se ve en la naturaleza. Una pureza esencial para lo que usted desea.
+TEXT_JOBREL101_02212_SYNDONY_000_025	Puedo usar esos cristales, luminous crystals los llamo, para imbuir cristales vacíos con las energías astrales y umbrales necesarias para crear lo que busca. Pero necesitaré un cristal de cada elemento.
+TEXT_JOBREL101_02212_SYNDONY_100_025	No serán fáciles de conseguir, se lo aseguro. Seguramente tendrá que recorrer hasta el último ilm de Eorzea para encontrarlos.
+TEXT_JOBREL101_02212_SYNDONY_000_026	...Sin embargo, quizá haya otra manera de obtener el aether que necesitamos. Requiere algo más raro, algo mucho más valioso que los luminous crystals.
+TEXT_JOBREL101_02212_SYNDONY_000_027	Como le dije, mi negocio es conocer todos los tesoros de Eorzea. Y si los rumores son ciertos, existen ciertas armas legendarias que, se dice, han bebido las almas de incontables enemigos.
+TEXT_JOBREL101_02212_SYNDONY_100_027	De hecho, se supone que cierto gran héroe que empuña una de esas armas trabaja con un joven investigador en algún lugar más allá de the Sea of Clouds. Aunque eso es solo lo que he oído. No voy a exigirle nada por simples habladurías.
+TEXT_JOBREL101_02212_SYNDONY_000_028	Aun así, los rumores de estas armas no se descartan tan fácilmente. Encarnaciones de la guerra, verdaderos depósitos de energía de almas...
+TEXT_JOBREL101_02212_SYNDONY_100_028	Si tuviera un arma así, crear estas nodules astrales y umbrales sería un juego de niños.
+TEXT_JOBREL101_02212_SYNDONY_100_029	O simplemente podría reunir los luminous crystals necesarios. L<if(gnum4,a,o)> ayudaré de todos modos.
+TEXT_JOBREL101_02212_SYNDONY_200_029	Dejo la elección en sus manos, <italic(1)>famosamente<italic(0)> capaces.
+TEXT_JOBREL101_02212_SYNDONY_000_030	<if(gnum4,La Warrior of Light,El Warrior of Light)>. Qué gusto verl<if(gnum4,a,o)>, tan brillante como siempre. ¿Qué puedo hacer por usted hoy?
+TEXT_JOBREL101_02212_SYNDONY_000_031	¿Astral nodules y umbral nodules <italic(1)>otra vez<italic(0)>? Deduzco que les dio buen uso a las anteriores.
+TEXT_JOBREL101_02212_SYNDONY_000_032	Bueno, lejos de mí rechazar a otra persona entendida en cristales. Siempre que tenga lo necesario para hacerlas, claro. Quiero de usted una Zodiac Weapon o un juego completo de luminous crystals.
+TEXT_JOBREL101_02212_SYNDONY_100_033	En cualquier caso, será un placer trabajar con usted.
+TEXT_JOBREL101_02212_SYSTEM_000_100	Quienes posean una Zodiac Weapon Zeta pueden cambiarla por la astral nodule y la umbral nodule. Excalibur Zeta debe cambiarse junto con el Aegis Shield Zeta. Ten en cuenta que perderás la Zodiac Weapon Zeta al completar el cambio.
+TEXT_JOBREL101_02212_SYSTEM_100_100	También se pueden obtener la astral nodule y la umbral nodule a cambio de luminous crystals de aspecto elemental. Estos cristales se pueden obtener, aunque con poca probabilidad, al participar en FATEs en ciertas zonas.
+TEXT_JOBREL101_02212_SYSTEM_000_102	Los luminous wind crystals se obtienen de FATEs en the Sea of Clouds.<br>Los luminous fire crystals se obtienen de FATEs en Azys Lla.<br>Los luminous lightning crystals se obtienen de FATEs en the Churning Mists.
+TEXT_JOBREL101_02212_SYSTEM_000_103	Los luminous ice crystals se obtienen de FATEs en Coerthas Western Highlands.<br>Los luminous earth crystals se obtienen de FATEs en the Dravanian Forelands.<br>Los luminous water crystals se obtienen de FATEs en the Dravanian Hinterlands.
+TEXT_JOBREL101_02212_SYSTEM_000_104	Recibirás la astral nodule a cambio de un luminous wind crystal, uno de fire y uno de lightning.
+TEXT_JOBREL101_02212_SYSTEM_000_105	Recibirás la umbral nodule a cambio de un luminous ice crystal, uno de earth y uno de water.
+TEXT_JOBREL101_02212_SYSTEM_000_106	Los luminous crystals se pueden obtener, aunque con poca probabilidad, al participar en FATEs en las regiones mencionadas con cualquier Disciple of War o Magic, sin importar el nivel.
+TEXT_JOBREL101_02212_SYSTEM_100_107	Puedes consultar esta información en tu journal o hablando con Syndony en cualquier momento.
+TEXT_JOBREL101_02212_ARDASHIR_000_040	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. ¿Pudo conseguir lo que necesitamos?
+TEXT_JOBREL101_02212_ARDASHIR_000_041	Sí, parecen auténticas. No me atrevo a preguntar cuánto le costó, pero tiene mi más sincero agradecimiento. Como prometí, la soulstone está lista. Solo queda la infusión de aether.
+TEXT_JOBREL101_02212_ARDASHIR_000_042	¡Y si el arma que forjó Gerolt es lo bastante fuerte para contener el anima resultante, pronto seremos los orgullosos padres de un arma viviente!
+TEXT_JOBREL101_02212_ARDASHIR_000_043	Bien, empecemos.
+TEXT_JOBREL101_02212_ARDASHIR_000_044	El aether se asentó en la soulstone, pero no durará mucho.
+TEXT_JOBREL101_02212_ARDASHIR_000_045	¡Rápido, Gerolt, séllela dentro del arma antes de que el aether se desvanezca!
+TEXT_JOBREL101_02212_GEROLT_000_046	\<jadeo> \<jadeo> Con... con eso debería bastar. Esa cosa no se va a ir a ninguna parte.
+TEXT_JOBREL101_02212_GEROLT_000_047	¡Ahora sí que es un arma digna de leyendas! Sí, una anima weapon: <ennoun(Item,3,lnum1,1,1)>. Empúñala con orgullo, <if(gnum4,muchacha,muchacho)>.
+TEXT_JOBREL101_02212_GEROLT_000_048	¡Ahora sí que es un arma digna de leyendas! Sí, una anima weapon: <ennoun(Item,3,lnum1,1,1)>, y su gemela <ennoun(Item,3,lnum2,1,1)>. Empúñalas con orgullo, <if(gnum4,muchacha,muchacho)>.
+TEXT_JOBREL101_02212_GEROLT_000_049	Aunque yo no diría que <if([gnum68==19],estén terminadas,esté terminada)> todavía. Un arma recién salida de la forja es una cosa, pero si hablamos de <italic(1)>vida<italic(0)>, <if([gnum68==19],no son más que bebés de pecho,no es más que una bebé de pecho)>. <if([gnum68==19],Hay que ponerlas,Hay que ponerla)> a prueba y <if([gnum68==19],curtirlas,curtirla)>.
+TEXT_JOBREL101_02212_GEROLT_000_050	Claro que podría <if([gnum68==19],darles,darle)> con mi martillo, pero eso no reemplaza una batalla de verdad. Si me preguntas, tienes que salir ahí afuera y enseñarle a ese anima lo que significa ser guerrero.
+TEXT_JOBREL101_02212_ARDASHIR_000_051	Disculpe, Gerolt, pero ¿puedo hablar con nuestr<if(gnum4,a amiga,o amigo)> aquí presente? Al fin y al cabo, fue mi investigación la que nos trajo hasta aquí.
+TEXT_JOBREL101_02212_ARDASHIR_000_052	Venga, <split(<string(gstr1)>, ,1)>, hablemos del siguiente paso en el desarrollo del anima.
+TEXT_JOBREL101_02212_SYSTEM_100_060	Las misiones de la anima weapon se pueden repetir en cualquier momento. Ten en cuenta, sin embargo, que solo puedes hacerlas para un job a la vez.
+TEXT_JOBREL101_02212_SYSTEM_100_061	Si deseas reiniciar estas misiones con otro job, elige <colortype(500)><edgecolortype(501)>Duty<edgecolortype(0)><colortype(0)> en el menú principal y luego <colortype(500)><edgecolortype(501)>Journal<edgecolortype(0)><colortype(0)>. Después selecciona la misión en la interfaz y elige <colortype(500)><edgecolortype(501)>Abandon<edgecolortype(0)><colortype(0)>.
+TEXT_JOBREL101_02212_SYSTEM_100_062	Cuando hayas abandonado la misión, puedes cambiar al job que deseas y hablar con Ardashir para empezar de nuevo.

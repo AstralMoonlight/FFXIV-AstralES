@@ -1,0 +1,42 @@
+key	text
+TEXT_JOBREL002_01436_SEQ_00	Jalzahn tiene grandes planes para tu arma reliquia.
+TEXT_JOBREL002_01436_SEQ_01	Según Jalzahn, tu arma reliquia aún puede crecer. Para mejorarla, debes recrear las hazañas de los Zodiac Braves, héroes venerados en las leyendas de Thavnair. Para no dejar el proceso al azar, Jalzahn sugiere conseguir los "Trials of the Braves", una colección de textos sagrados que narran las hazañas de los héroes. Como conocida vendedora de esa clase de literatura, quizá Rowena tenga los libros en existencia.
+TEXT_JOBREL002_01436_SEQ_02	Rowena cree que quizá tenga los libros que buscas. Te pide que le lleves tu consulta a G'jusana, una de sus cada vez más numerosas subordinadas.
+TEXT_JOBREL002_01436_SEQ_03	Para tu alegría, G'jusana tiene en existencia la colección completa de los Trials of the Braves, y te ofrece cada libro al módico precio de 100 <ennoun(Item,3,　28,2,1)>. Los medios para poseer un arma más poderosa están ante ti: solo tienes que extender la mano y tomarlos.<br><br>※Al comprar, debes tener equipada el arma reliquia atma que quieres mejorar.<br>※Solo puedes tener un libro de cada juego de nueve a la vez.<br>※Al completar los objetivos de los nueve libros, presenta tu arma reliquia atma a Jalzahn para completar el proceso de mejora.
+TEXT_JOBREL002_01436_TODO_00	Habla con Rowena en Revenant's Toll.
+TEXT_JOBREL002_01436_TODO_01	Habla con G'jusana.
+TEXT_JOBREL002_01436_JALZAHN_000_000	Ah, <if(gnum4,mi valerosa ayudante,mi valeroso ayudante)>. Confío en que disfrutes tu reliquia infun<-->dida con atma.
+TEXT_JOBREL002_01436_JALZAHN_000_001	Pues bien, por impresionante que sea tu nuevo poder... ¿y si te dijera que tu arma puede volverse más poderosa aún?
+TEXT_JOBREL002_01436_JALZAHN_000_002	Mi investigación me lleva a creer que es muy posible. Como antes, si aceptas ser mi sujeto, te prometo que no saldrás perdiendo. ¿Qué dices?
+TEXT_JOBREL002_01436_Q1_000_000	¿Ayudar otra vez a Jalzahn?
+TEXT_JOBREL002_01436_A1_000_001	Sí
+TEXT_JOBREL002_01436_A1_000_002	No
+TEXT_JOBREL002_01436_JALZAHN_000_010	Vamos, no hay necesidad de hacerse de rogar: desear más poder está en la naturaleza del hombre. Y aunque nuestro interés sea distinto, compartimos el mismo objetivo. En todo caso, te ruego que me hagas el favor de escuchar la teoría que formulé hace poco.
+TEXT_JOBREL002_01436_JALZAHN_000_015	Sabía que podía contar contigo, <if(gnum4,amiga mía,amigo mío)>. Escucha, pues, la teoría que formulé hace poco.
+TEXT_JOBREL002_01436_JALZAHN_000_020	Cuenta la leyenda que, cuando el mundo está al borde de la destrucción, surgen almas valientes portadoras de la Luz para desterrar la Oscuridad.
+TEXT_JOBREL002_01436_JALZAHN_000_021	Estos héroes reciben infinidad de nombres, pero en mi Radz<-->at<-->Han natal se les llama "Zodiac Braves".
+TEXT_JOBREL002_01436_JALZAHN_000_022	Se dice que los Zodiac Braves empuñaban armas de un poder sin igual, que brillaban con el fulgor de mil estrellas.
+TEXT_JOBREL002_01436_JALZAHN_000_023	Mi objetivo final, <if(gnum4,querida aventurera,querido aventurero)>, es nada menos que recrear esas armas legendarias.
+TEXT_JOBREL002_01436_JALZAHN_000_024	La tradición de Thavnair sostiene que los Zodiac Braves llenaban sus armas de luz venciendo a enemigos formidables. Mi teoría es que en realidad los héroes absorbían almas.
+TEXT_JOBREL002_01436_JALZAHN_000_025	Y ahora, gracias al atma, tu arma se ha transformado en algo con esa misma capacidad, y existe como recipiente de almas. Pero por ahora ese recipiente contiene apenas una pequeña fracción de lo que puede.
+TEXT_JOBREL002_01436_JALZAHN_100_025	Para que tu arma alcance su potencial, debes hacer que beba a fondo de las almas de los enemigos caídos.
+TEXT_JOBREL002_01436_JALZAHN_000_026	Por supuesto, no todas las almas son iguales, y por lo tanto no todas las criaturas sirven a nuestro propósito. De hecho, los mismos Zodiac Braves eran muy selectivos a la hora de elegir a qué enemigos vencer.
+TEXT_JOBREL002_01436_JALZAHN_000_027	Por eficiencia, harías bien en buscar adversarios de naturaleza similar. Para eso puedes consultar los "Trials of the Braves", una colección de textos sagrados que narran las hazañas de los héroes.
+TEXT_JOBREL002_01436_JALZAHN_000_028	Esos libros son bastante comunes en Radz<-->at<-->Han, pero como formulé la teoría hace poco, ay, no se me ocurrió traerlos. Aunque, con el comercio tan floreciente entre nuestras tierras, quizá algún mercader local que trate en mercancías importadas los tenga en existencia.
+TEXT_JOBREL002_01436_SYSTEM_000_000	Para recibir la misión "Trials of the Braves" debes tener equipada un arma reliquia atma. Los paladins deben tener equipada Curtana o el Holy Shield.
+TEXT_JOBREL002_01436_SYSTEM_000_001	Para avanzar en la misión "Trials of the Braves" debes tener equipada un arma reliquia atma. Los paladins deben tener equipada Curtana o el Holy Shield.
+TEXT_JOBREL002_01436_ROWENA_000_040	¿Eh? ¿Literatura de Thavnair sobre héroes que empuñaban armas deslumbrantes? Y se llama Trials of the Braves...
+TEXT_JOBREL002_01436_ROWENA_000_041	Quizá tenga algo que encaje con tu descripción. G'jusana es la que se encarga de los tomos y demás. La encontrarás cerca de la puerta norte de Revenant's Toll.
+TEXT_JOBREL002_01436_ROWENA_000_045	Quizá tenga esa serie de los Trials of the Braves en existencia. G'jusana es la que se encarga de los tomos y demás. La encontrarás cerca de la puerta norte de Revenant's Toll.
+TEXT_JOBREL002_01436_GJUSANA_000_050	...¿Trials of the Braves? Vaya, sí, resulta que tenemos esos tomos, pero ¿a quién le interesarían esas cosas viejas y mohosas como...?
+TEXT_JOBREL002_01436_GJUSANA_000_051	¡Ah! Lo que quise decir es que son <italic(1)>extremadamente<italic(0)> raros, ¡y es difícil encontrarlos en cualquier otra parte de Eorzea!
+TEXT_JOBREL002_01436_GJUSANA_000_052	Nueve libros forman un juego, y cada uno vale por sí solo una pequeña fortuna. Pero me caes bien, <if(gnum4,aventurera,aventurero)>, así que te hago un descuento.
+TEXT_JOBREL002_01436_GJUSANA_000_053	Por el módico precio de 100 <ennoun(Item,3,　28,2,1)>, ¡puedes tener un pedazo de historia, un libro de los sagrados Trials of the Braves!
+TEXT_JOBREL002_01436_GJUSANA_000_054	Que no te quepa duda: en cualquier otra parte pagarías fácilmente el doble. ¡Cuando quieras hacer el cambio, solo avísame!
+TEXT_JOBREL002_01436_SYSTEM_000_100	Al derrotar a todos los enemigos que figuran en un libro de los Trials of the Braves, tu arma reliquia atma ganará atributos.
+TEXT_JOBREL002_01436_SYSTEM_000_101	Existen juegos distintos de Trials of the Braves para cada reliquia. Un juego consta de nueve libros, de los cuales al principio solo cuatro están disponibles para cambio.
+TEXT_JOBREL002_01436_SYSTEM_100_101	El juego del paladin consta de siete libros para Curtana y dos para el Holy Shield. Al principio solo seis están disponibles para cambio.
+TEXT_JOBREL002_01436_SYSTEM_000_102	Cada libro se puede comprar a G'jusana. Ten en cuenta que solo puedes tener uno a la vez.
+TEXT_JOBREL002_01436_SYSTEM_000_103	Debes completar todos los objetivos de un libro antes de poder obtener otro.
+TEXT_JOBREL002_01436_SYSTEM_000_104	También puedes deshacerte de él hablando con G'jusana o desde el menú Key Items.
+TEXT_JOBREL002_01436_SYSTEM_000_105	¡Que tu reliquia beba a fondo de las almas de tus enemigos!

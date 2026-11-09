@@ -1,0 +1,85 @@
+key	text
+TEXT_CHRHDY201_04725_SEQ_00	Gerolt no te espanta de inmediato, lo que significa que debe tener algo que contarte.<br>※Si cambias de clase o job, no podrás avanzar en esta misión.
+TEXT_CHRHDY201_04725_SEQ_01	Godbert está listo para continuar con el refinamiento de las armas de su familia y, con ese fin, el goldsmith te informa que hace falta otro tipo de material meteórico para mejorar la conductividad aetérica de tu arma. Según el manual de su antepasado, sin embargo, la verdadera clave del proceso es algo mucho más intangible: la claridad que se alcanza tras una victoria vigorizante. Godbert afirma haber obtenido ya esa iluminación en su encuentro con el Doctor Lugae, e insiste en que Gerolt pase por su propia forma de meditación marcial. Debes acompañar al herrero a Windweft, donde Godbert le preparó el oponente perfecto.<br><br>※No puedes avanzar con una clase o un job distinto del que tenías al aceptar esta misión.
+TEXT_CHRHDY201_04725_SEQ_02	Godbert te presenta al oponente de Gerolt: un adorable mammet armado con un hacha. Pese a su evidente ventaja de tamaño y fuerza, Gerolt pierde el primer asalto, pero una generosa aplicación de Salamanderville le da el poder para vencer al sorprendentemente ágil autómata. Encendido por su victoria, el herrero apenas puede esperar para avivar su horno. Parece que más te vale conseguir pronto los materiales, antes de que se apague el brillo de la victoria...<br><br>※Los pedazos de complementary chondrite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY201_04725_SEQ_03	Le entregas los pedazos de chondrite a Gerolt, y el mundo parece oscurecerse mientras esperas con ansia el resultado. Cuando cesan los martillazos, sin embargo, tienes en tus manos una obra maestra Manderville mejorada con éxito. Gerolt pregunta entonces cuánto tomará el proceso completo de refinamiento, una pregunta que Godbert no puede responder por ahora. Al romper el cifrado, Godbert se dio cuenta de que el manual es solo la primera parte de un conjunto incompleto, y que encontrar el resto de las instrucciones de Godbrand será toda una búsqueda. Hasta que aparezca la continuación de la guía, tendrás que conformarte con tus armas aún imperfectas.
+TEXT_CHRHDY201_04725_TODO_00	Espera en el lugar designado.
+TEXT_CHRHDY201_04725_TODO_01	<if([lnum1<lnum2],Consigue pedazos de complementary chondrite,Con <if([lnum4==19],<ennoun(Item,2,38400,1,1) y <ennoun(Item,2,38419,1,1)>,<if([lnum4==20],<ennoun(Item,2,38401,1,1)>,<if([lnum4==21],<ennoun(Item,2,38402,1,1)>,<if([lnum4==22],<ennoun(Item,2,38403,1,1)>,<if([lnum4==23],<ennoun(Item,2,38404,1,1)>,<if([lnum4==24],<ennoun(Item,2,38408,1,1)>,<if([lnum4==25],<ennoun(Item,2,38409,1,1)>,<if([lnum4==27],<ennoun(Item,2,38410,1,1)>,<if([lnum4==28],<ennoun(Item,2,38411,1,1)>,<if([lnum4==30],<ennoun(Item,2,38405,1,1)>,<if([lnum4==31],<ennoun(Item,2,38407,1,1)>,<if([lnum4==32],<ennoun(Item,2,38406,1,1)>,<if([lnum4==33],<ennoun(Item,2,38412,1,1)>,<if([lnum4==34],<ennoun(Item,2,38413,1,1)>,<if([lnum4==35],<ennoun(Item,2,38414,1,1)>,<if([lnum4==37],<ennoun(Item,2,38415,1,1)>,<if([lnum4==38],<ennoun(Item,2,38416,1,1)>,<if([lnum4==39],<ennoun(Item,2,38418,1,1)>,<if([lnum4==40],<ennoun(Item,2,38417,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario o en tu Armoury Chest\, entrégale los pedazos de complementary chondrite a Gerolt)>.
+TEXT_CHRHDY201_04725_SYSTEM_000_000	Al completar la misión "Well-oiled", recibirás un arma Manderville para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_CHRHDY201_04725_SYSTEM_000_001	Asegúrate de cambiar al job que quieras antes de hablar con Gerolt.
+TEXT_CHRHDY201_04725_Q1_000_001	¿Qué harás?
+TEXT_CHRHDY201_04725_A1_000_002	Aceptar esta misión con otro job.
+TEXT_CHRHDY201_04725_A1_000_003	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_CHRHDY201_04725_SYSTEM_000_005	Una vez que aceptes esta misión, no podrás avanzar con una clase o un job distinto del que tenías al aceptarla.
+TEXT_CHRHDY201_04725_SYSTEM_000_006	Habla de nuevo con Gerolt cuando quieras aceptar esta misión.
+TEXT_CHRHDY201_04725_SYSTEM_000_007	Para aceptar la misión "Well-oiled", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en tu Armoury Chest o en tu inventario.
+TEXT_CHRHDY201_04725_SYSTEM_000_008	Para aceptar la misión "Well-oiled", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> equipado, en tu Armoury Chest o en tu inventario.
+TEXT_CHRHDY201_04725_GEROLT_000_010	<split(<string(gstr1)>, ,1)>. ¿Cómo te va con esa arma Manderville tuya?
+TEXT_CHRHDY201_04725_GEROLT_000_011	Ya que fue mi mano la que la forjó, la respuesta que buscas es "condenadamente de maravilla".
+TEXT_CHRHDY201_04725_GEROLT_000_012	Pero siempre se puede mejorar. Y parece que Godbert ya está listo para construir sobre el esqueleto de lo que hicimos hasta ahora.
+TEXT_CHRHDY201_04725_CRAFTER04653_000_013	Mandaré llamar a su señoría...
+TEXT_CHRHDY201_04725_GODBERT_000_014	¡<split(<string(gstr1)>, ,1)>! ¡Qué amable de su parte venir!
+TEXT_CHRHDY201_04725_GODBERT_000_015	He tenido la nariz metida en ese manual desconcertante por lo que parece una eternidad, pero mis esfuerzos de descifrado por fin han dado deliciosos frutos.
+TEXT_CHRHDY201_04725_GODBERT_000_016	Parecería que, para mejorar más la conductividad aetérica de nuestras armas, debemos aplicar otra variedad de meteorito, así como se sacan chispas golpeando una roca con otra. Una chondrite rara, en este caso.
+TEXT_CHRHDY201_04725_GODBERT_000_017	Sin embargo, la verdadera clave del proceso es algo mucho más intangible...
+TEXT_CHRHDY201_04725_GEROLT_000_018	Bueno, no nos dejes colgando, pavo real melodramático. ¡Dilo de una vez!
+TEXT_CHRHDY201_04725_GODBERT_000_019	El tomo de mi antepasado es... bueno, es tanto un diario como una guía de instrucciones, y Godbrand detalla una historia de fracasos al intentar elevar sus creaciones.
+TEXT_CHRHDY201_04725_GODBERT_000_020	Como también era un guerrero consumado, se retiró a los confines más lejanos de la naturaleza, donde buscó desahogar sus frustraciones con los monstruos más temibles que se le cruzaron.
+TEXT_CHRHDY201_04725_GODBERT_000_021	La claridad posterior a la batalla llenó su espíritu y, milagro de milagros, su siguiente intento de mejora fue un éxito rotundo.
+TEXT_CHRHDY201_04725_GODBERT_000_022	Así que ya ve: el ingrediente que faltaba en la receta de refinamiento de Godbrand era la sublime tranquilidad que se alcanza tras una victoria vigorizante.
+TEXT_CHRHDY201_04725_GODBERT_000_023	Yo mismo recibí las bendiciones de la iluminación en batalla durante mis viajes con <split(<string(gstr1)>, ,1)>, tras un encuentro levemente extenuante con cierto Doctor Lugae.
+TEXT_CHRHDY201_04725_GODBERT_000_024	¡Sin embargo! ¡Sostengo, señor Gerolt, que su meditación marcial es aún lamentablemente insuficiente!
+TEXT_CHRHDY201_04725_GEROLT_000_025	¿¡Eh!? ¿¡Crees que romper cráneos en vez de lingotes va a mejorar de alguna forma mi instinto de forja!?
+TEXT_CHRHDY201_04725_GODBERT_000_026	¡Se lo garantizo! De hecho, hasta que triunfe en esta prueba, sospecho que el siguiente peldaño de la maestría Manderville quedará por siempre fuera de su alcance.
+TEXT_CHRHDY201_04725_GODBERT_000_027	Y no es que espere que se lance a ciegas a los puñetazos. No, señor, le preparé el oponente perfecto.
+TEXT_CHRHDY201_04725_GODBERT_000_028	<split(<string(gstr1)>, ,1)>, si tiene la bondad de acompañar al señor Gerolt a Windweft, estaré con ustedes en un momento.
+TEXT_CHRHDY201_04725_GEROLT_000_030	¿Quiere que pelee con algún infeliz en Windweft...? Una maldita pérdida de tiempo, si me preguntas.
+TEXT_CHRHDY201_04725_GEROLT_000_200	Bueno, aquí estoy. ¿Dónde está mi "oponente perfecto"?
+TEXT_CHRHDY201_04725_GODBERT_000_201	Con ganas de empezar, ya veo. ¡Formidable! Sígame y daremos inicio a este combate esclarecedor.
+TEXT_CHRHDY201_04725_GEROLT_000_202	Pfff. ¿Un mammet enclenque? Yo no seré guerrero, pero deleita tus ojos con estos brazos fibrosos. Si esto fuera una pelea de taberna, la apuesta inteligente sería por el herrero.
+TEXT_CHRHDY201_04725_GODBERT_000_203	¡Como debe ser! Por eso configuré los parámetros de combate de este sujeto al nivel máximo.
+TEXT_CHRHDY201_04725_GEROLT_000_204	¡B-Bueno! ¡Vamos a darle!
+TEXT_CHRHDY201_04725_GEROLT_000_205	Bastardo... tramposo... chiquito...
+TEXT_CHRHDY201_04725_GODBERT_000_206	Hm. Ya sé lo que hace falta...
+TEXT_CHRHDY201_04725_GODBERT_000_207	¡Una generosa aplicación de lubricación por mandato Manderville!
+TEXT_CHRHDY201_04725_GEROLT_000_208	¿¡Con qué me acabas de embarrar!?
+TEXT_CHRHDY201_04725_GODBERT_000_209	¡Solo el mejor Salamanderville, buen hombre! Sienta cómo se hunde en sus músculos y aumenta su destreza natural. ¡Es el aceite de los campeones!
+TEXT_CHRHDY201_04725_GEROLT_000_210	¿Sabes? <italic(1)>Sí<italic(0)> me siento raramente poderoso...
+TEXT_CHRHDY201_04725_GEROLT_000_211	¡Ja! ¡Toma eso, hojalatero!
+TEXT_CHRHDY201_04725_GEROLT_000_212	Qué subidón, nunca había tenido tantas ganas de forjar algo. ¿Esta es la "iluminación en batalla" de la que hablabas?
+TEXT_CHRHDY201_04725_GODBERT_000_213	La misma. En su estado de conciencia aumentada, nuestras mejoras serán sin duda impecables.
+TEXT_CHRHDY201_04725_GEROLT_000_214	Entonces manos a la obra. Como antes, a ti te toca negociar con Jubrunnah por los pedazos de meteorito. Rowena sabe que tiene que darle la chondrite que necesitamos.
+TEXT_CHRHDY201_04725_GEROLT_000_215	¡Yo me voy a calentar el horno!
+TEXT_CHRHDY201_04725_GODBERT_000_216	¡Ohohoho! Hasta en su nivel más débil, ver pelear a mi mammet siempre es un placer.
+TEXT_CHRHDY201_04725_GODBERT_000_217	Sí, en realidad tenía a este caballero del hacha en sus parámetros más bajos. Y aunque el Salamanderville estimula la circulación, no tiene ningún otro efecto especial.
+TEXT_CHRHDY201_04725_GODBERT_000_218	El oponente más temible, verá, es la prisión de la mente. Aunque la batalla en sí sea una farsa, el impulso positivo que se gana al imponerse en lo que se creyó una gran lucha no es menos real.
+TEXT_CHRHDY201_04725_GODBERT_000_219	Ahora, si tiene la bondad de conseguir la chondrite, debo atender mi parte de los preparativos.
+TEXT_CHRHDY201_04725_SYSTEM_000_220	Los pedazos de complementary chondrite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY201_04725_GEROLT_000_230	¿Dónde está la chondrite? Con tres pedazos basta, pero apúrate, ¡no quiero perder mi concentración de pelea!
+TEXT_CHRHDY201_04725_SYSTEM_000_231	Los pedazos de complementary chondrite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY201_04725_GEROLT_000_240	¿Tienes la chondrite? Y vas a tener que quitarte el arma antes de que pueda trabajarla, cabeza hueca.
+TEXT_CHRHDY201_04725_GEROLT_000_241	El horno ruge y está listo. A ver esas piedras nuevas del espacio.
+TEXT_CHRHDY201_04725_GEROLT_000_242	Bien. Manda llamar a su señoría y ¡a darle con martillo y tenazas!
+TEXT_CHRHDY201_04725_GODBERT_000_250	¡Éxito!
+TEXT_CHRHDY201_04725_GEROLT_000_251	Nuestra obra maestra en colaboración, llevada a nuevas alturas...
+TEXT_CHRHDY201_04725_GEROLT_000_252	¡<head(<ennoun(Item,2,lnum1,1,1)>)> y <ennoun(Item,2,lnum2,1,1)>!
+TEXT_CHRHDY201_04725_GEROLT_000_253	¡<head(<ennoun(Item,2,lnum1,1,1)>)>!
+TEXT_CHRHDY201_04725_GODBERT_000_254	¡Se lo dije! ¡Son los resultados innegables de su despertar marcial!
+TEXT_CHRHDY201_04725_GEROLT_000_255	Sigo teniendo mis dudas en eso, pero sí, de todos modos es una belleza.
+TEXT_CHRHDY201_04725_GODBERT_000_256	Hablando de obras maestras, <split(<string(gstr1)>, ,1)>, si desea refinar otras armas Manderville que tenga, acuda a mi protegido artesano aquí presente.
+TEXT_CHRHDY201_04725_GODBERT_000_257	Él también halló la iluminación en el crisol de la batalla, y está listo con la mente clara y el pulso firme.
+TEXT_CHRHDY201_04725_GEROLT_000_258	Sí, bueno... yo estaré por aquí, como siempre, para asegurarme de que todo cumpla con mis exigentes estándares.
+TEXT_CHRHDY201_04725_GODBERT_000_259	Por cierto, ¿le agrada la nueva apariencia de su arma? ¿O quizá estaba más <if(gnum4,enamorada,enamorado)> de su encarnación anterior?
+TEXT_CHRHDY201_04725_GODBERT_000_260	Ohoho, entiendo muy bien el atractivo de la elegancia sencilla.
+TEXT_CHRHDY201_04725_GODBERT_000_261	¡Por eso empezamos a ofrecer una línea de réplicas de armas Manderville!
+TEXT_CHRHDY201_04725_GODBERT_000_262	Voy a abrir aquí una tienda de prueba, así que, por favor, bendíganos con su clientela si así lo desea.
+TEXT_CHRHDY201_04725_GEROLT_000_263	Y yo que pensaba que Rowena era la glotona del comercio.
+TEXT_CHRHDY201_04725_GODBERT_000_264	Nuestro trabajo es tan estético como práctico. Sería una tontería desaprovechar un negocio tan evidente.
+TEXT_CHRHDY201_04725_GEROLT_000_265	Charla de mercaderes aparte, ¿cuánto falta para perfeccionar de verdad la creación de tu antepasado? Me da la impresión de que apenas rascamos la superficie.
+TEXT_CHRHDY201_04725_GODBERT_000_266	Una excelente pregunta... y difícil de responder. Al romper el cifrado, me di cuenta de que el manual es solo la primera parte de un conjunto incompleto.
+TEXT_CHRHDY201_04725_GEROLT_000_267	¿Incompleto? ¡No puedes hablar en serio! ¿Dónde está el resto, carajo?
+TEXT_CHRHDY201_04725_GODBERT_000_268	Por ahora se desconoce. Encontrar la continuación de la guía de Godbrand ocupará mis horas de vigilia.
+TEXT_CHRHDY201_04725_GEROLT_000_269	Bah, y ocupar una mesa en la meyhane ocupará las mías. Tienes suerte de que tengan una selección impresionante de licores...
+TEXT_CHRHDY201_04725_GODBERT_000_270	Una vez más, les pido disculpas por las demoras interminables.
+TEXT_CHRHDY201_04725_GODBERT_000_271	Queden con bien, amigos míos. Parto en mi búsqueda sin más preámbulos.
+TEXT_CHRHDY201_04725_SYSTEM_000_282	Ahora puedes comprarle réplicas de armas Manderville al vendedor de la House Manderville.

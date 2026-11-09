@@ -1,0 +1,62 @@
+key	text
+TEXT_LUCKSA301_04084_SEQ_00	Marsak tiene nueva información sobre el paradero de los imperiales.
+TEXT_LUCKSA301_04084_SEQ_01	Los exploradores de la Resistance confirmaron que la IVth Legion abandonó Castrum Lacus Litore y ahora está concentrando sus fuerzas en Zadnor. Pese a la presencia de la flota imperial, Bajsaljen piensa enfrentar al enemigo, con Camp Vrdelnis como base de operaciones.
+TEXT_LUCKSA301_04084_SEQ_02	Siguiendo las instrucciones de Marsak, hablas con Sjeros, quien te escoltará a Zadnor.
+TEXT_LUCKSA301_04084_SEQ_03	Gracias al ingenio de Ironworks y a las contribuciones de la resistencia dalmascana, Cid logró levantar una barrera que protege Camp Vrdelnis de los ataques aéreos. Pero Bajsaljen quiere hacer avanzar el frente, y todo puesto que se establezca en adelante requerirá una protección similar. Por suerte, Ironworks ya tiene un plan de acción que Lilja está ansiosa por explicar.
+TEXT_LUCKSA301_04084_SEQ_04	La Resistance busca asegurar nuevos puestos más cerca de la base de operaciones imperial, pero para eso necesita más barreras y una fuente de energía suficiente que las alimente. Con ese fin, Cid y Lilja te piden que coloques en el campo dispositivos que desvíen el flujo de aether hacia los puestos propuestos.
+TEXT_LUCKSA301_04084_SEQ_05	Con la última creación de Ironworks, la Resistance debería obtener toda la energía necesaria para mantener una barrera alrededor de cada puesto, suponiendo, claro, que los dispositivos funcionen. Te preparas para otra incursión al campo de batalla, con la intención de abrir el primer punto de apoyo en territorio enemigo.
+TEXT_LUCKSA301_04084_TODO_00	Habla con Sjeros.
+TEXT_LUCKSA301_04084_TODO_01	Habla con Bajsaljen en Zadnor.
+TEXT_LUCKSA301_04084_TODO_02	Habla con Lilja.
+TEXT_LUCKSA301_04084_TODO_03	Habla con Mikoto.
+TEXT_LUCKSA301_04084_MARSHAK_000_000	Blade <split(<string(gstr1)>, ,2)>. Por fin dimos con el paradero de la última instalación de la IVth Legion aquí en Bozja. Nuestros exploradores vieron a sus fuerzas reunirse en Zadnor, al norte, lo que parece indicar que abandonaron Castrum Lacus Litore.
+TEXT_LUCKSA301_04084_MARSHAK_000_001	Desplegamos nuestra vanguardia para avanzar hacia la fortaleza enemiga, pero una flota de buques de guerra cierra el paso.
+TEXT_LUCKSA301_04084_MARSHAK_000_002	Ahora que la reina Gunnhildr ya no es una amenaza, Bajsaljen piensa desplegar las tropas que tenía en reserva. Nos uniremos a ellas en Zadnor en breve.
+TEXT_LUCKSA301_04084_MARSHAK_000_003	Nuestra primera parada es Camp Vrdelnis. Cuando esté en condiciones, Sjeros <if(gnum4,la,lo)> escoltará hasta allá.
+TEXT_LUCKSA301_04084_SERAOUSH_000_020	<if(gnum4,La,Lo)> esperaba, Blade <split(<string(gstr1)>, ,2)>. Si ya terminó sus preparativos, partamos hacia Camp Vrdelnis.
+TEXT_LUCKSA301_04084_SYSTEM_000_030	Ya tienes acceso a Zadnor. Como el frente sur de Bozja, Zadnor se puede explorar en grupos de hasta ocho jugadores o en solitario.
+TEXT_LUCKSA301_04084_SYSTEM_000_031	Para viajar a Zadnor, habla con Sjeros en Gangos.
+TEXT_LUCKSA301_04084_SYSTEM_000_032	Ten en cuenta que todas las incursiones a Zadnor tienen nivel de objeto sincronizado. El equipo que supere el nivel de objeto <num(lnum1)> se ajustará.
+TEXT_LUCKSA301_04084_BAISHAEN_000_100	Gracias por venir. Entiendo que es su primera vez en Zadnor, ¿verdad? Aun antes de que la IVth Legion se trasladara aquí desde Castrum Lacus Litore, no era precisamente el lugar más acogedor.
+TEXT_LUCKSA301_04084_BAISHAEN_000_101	Al verlo ahora, cuesta creer que alguna vez fuera una tierra rica y fértil. Por desgracia, no se libró de los estragos de la Cuarta Calamidad Umbral.
+TEXT_LUCKSA301_04084_BAISHAEN_000_102	Tras el desastre, esta meseta se llenó de cristales de aspecto tierra. Los mineros aprovecharon la oportunidad y pronto agotaron este valioso recurso. Como los colonos no tenían otro motivo para seguir viviendo en un entorno tan duro, la región terminó deshabitada.
+TEXT_LUCKSA301_04084_BAISHAEN_000_103	Hasta que los imperiales decidieron establecer un puesto aquí. Justo cuando nos creíamos preparados para su próximo asalto, traen de Dalmasca una flota de naves encabezada por la <italic(1)>Dalriada<italic(0)>. Desde que echó el ancla no se ha movido.
+TEXT_LUCKSA301_04084_BAISHAEN_000_104	No se puede negar la ventaja estratégica de su posición actual, pero aún no estamos convencidos de que sirva como nueva base de operaciones.
+TEXT_LUCKSA301_04084_BAISHAEN_000_105	En cualquier caso, en lugar de especular sobre las intrigas imperiales, debemos actuar con decisión. Ha llegado la hora de darle el golpe final a la IVth Legion.
+TEXT_LUCKSA301_04084_BAISHAEN_000_106	Para lograrlo, primero tendremos que ocuparnos de los buques de guerra que frenan nuestro avance.
+TEXT_LUCKSA301_04084_CID_000_107	(-Voz conocida-)Pues qué bueno que nos tienen a nosotros para ayudar con eso.
+TEXT_LUCKSA301_04084_CID_000_108	¿Ven esas formaciones rocosas flotantes? Se podría pensar que son resultado de la Cuarta Calamidad Umbral, pero en realidad las causó el incidente de Bozja.
+TEXT_LUCKSA301_04084_CID_000_109	Cuando Dalamud golpeó la ciudadela, enormes cantidades de energía impregnaron el lugar, y las corrientes de aether seguramente las llevaron a todos los rincones de Bozja. Ciertas regiones sufrieron más que otras y, bueno... los resultados hablan por sí mismos.
+TEXT_LUCKSA301_04084_CID_000_110	Por suerte, logramos aprovechar esa energía para levantar una barrera contra los ataques aéreos, muy parecida a Seiryu's Wall.
+TEXT_LUCKSA301_04084_BAISHAEN_000_130	Como puede ver, la barrera solo llega hasta los límites de este campamento, pero debería mantenernos a salvo por el momento. Las palabras no alcanzan para expresar mi gratitud a Cid por todo lo que ha hecho por nosotros.
+TEXT_LUCKSA301_04084_CID_000_131	No todo el mérito es mío. Esto no habría sido posible sin el equipo que nos suministró la resistencia dalmascana.
+TEXT_LUCKSA301_04084_CID_000_132	Además, la idea de usar la energía residual de esta tierra fue de Lilja, una de mis ingenieras más nuevas. Así que, como ve, fue un esfuerzo conjunto.
+TEXT_LUCKSA301_04084_CID_000_133	Pero como dijo, la barrera solo puede cubrir hasta cierto punto. Si la <italic(1)>Dalriada<italic(0)> decide hacer algo más que amenazar a lo lejos, nuestras tropas del frente no tendrán ninguna oportunidad.
+TEXT_LUCKSA301_04084_BWAGI_000_134	Ojalá fuera cosa de enfrentar su flota con otra nuestra. Tal como están las cosas, la alianza del Este no puede prestarnos ninguna nave, y los bozjanos casi no tienen.
+TEXT_LUCKSA301_04084_LILJA_000_135	Puede que no tengamos flota, pero <italic(1)>sí<italic(0)> tenemos abundante aether residual a nuestra disposición.
+TEXT_LUCKSA301_04084_LILJA_100_135	Ojalá hubiera alguien que pudiera ayudarnos. Quizá un ingeniero de talla mundial y maestro de la innovación o algo así... \<tos> \<tos>
+TEXT_LUCKSA301_04084_CID_000_136	A ver, dime, ¿y dónde podríamos encontrar a uno de esos?
+TEXT_LUCKSA301_04084_CID_000_137	Sí, sí, ya entendí. Después de todo, no puedo dejar que las novatas como tú me roben el protagonismo. Veré si puedo convertir esa idea tuya en una solución viable.
+TEXT_LUCKSA301_04084_BAISHAEN_000_138	Estaríamos perdidos sin la ayuda de Garlond Ironworks y de la alianza del Este. Su buena voluntad debe pagarse nada menos que con la victoria.
+TEXT_LUCKSA301_04084_LILJA_000_180	Ya que está aquí, tenemos un favor que pedirle. Me ofrecí a hacerlo yo, pero cierta persona insistió en que me quedara.
+TEXT_LUCKSA301_04084_CID_000_181	Se agradece el entusiasmo, pero preferiría ir yo mismo antes que poner en peligro a mi gente. Además, este no es trabajo para una ingeniera. En pocas palabras: la Resistance quiere avanzar sobre la posición enemiga, y para eso necesitan protección.
+TEXT_LUCKSA301_04084_CID_000_182	Queremos levantar más barreras en cada puesto que establezcan en la ruta hacia la base de operaciones de la IVth Legion. El problema es que el aether residual quizá no alcance, así que planeamos desviar las corrientes de más lejos.
+TEXT_LUCKSA301_04084_LILJA_000_183	Aunque la teoría es bastante sólida, no hemos tenido oportunidad de ponerla en práctica.
+TEXT_LUCKSA301_04084_CID_000_184	Ahí es donde esperábamos que pudieras ayudar. Necesitamos que lleves este dispositivo prototipo y lo actives en un lugar específico.
+TEXT_LUCKSA301_04084_Q1_000_100	¿Qué vas a decir?
+TEXT_LUCKSA301_04084_A1_000_100	Y ese lugar estaría en medio del campo de batalla, ¿verdad?
+TEXT_LUCKSA301_04084_A2_000_100	Otro día en la vida de <if(gnum4,la mandadera,el mandadero)> de Eorzea.
+TEXT_LUCKSA301_04084_CID_000_190	Vaya, ¿cómo lo adivinaste? Como antes, solo tienes que colocar el dispositivo y nosotros nos encargamos del resto.
+TEXT_LUCKSA301_04084_LILJA_000_195	Sé que solo está bromeando, pero por favor no diga esas cosas. No soportaría que alguien pensara que lo dice en serio.
+TEXT_LUCKSA301_04084_MIKOTO_000_200	Aunque la tecnología es algo distinta, en cuanto a lo que tiene que hacer, es más o menos lo mismo que hizo en el frente sur.
+TEXT_LUCKSA301_04084_LILJA_000_202	Piénselo como desviar los arroyos de aether con una represa.
+TEXT_LUCKSA301_04084_LILJA_000_203	Y para ese propósito, ¡permítame presentarle nuestro recién patentado manipulador de aether por deflujo, o "D.A.M.", para abreviar!
+TEXT_LUCKSA301_04084_CID_000_204	Sí, bueno, nombre cuestionable aparte, respondo por su fabricación. Solo falta ponerlo a prueba.
+TEXT_LUCKSA301_04084_MIKOTO_000_205	Aunque me pesa pedirle que cargue con esto, usted es nuestra mayor oportunidad de éxito.
+TEXT_LUCKSA301_04084_MIKOTO_000_206	Mientras hace sus preparativos, intentaremos localizar una corriente adecuada.
+TEXT_LUCKSA301_04084_CID_000_207	Y yo, mejor regreso al taller. Veré si se puede hacer algo con la <italic(1)>Dalriada<italic(0)>.
+TEXT_LUCKSA301_04084_MARSHAK_000_208	Si ya terminaron de hablar, ¿puedo sugerirle que hable también con nuestro encargado de información? Sabe mucho sobre Zadnor, y estoy seguro de que le será útil.
+TEXT_LUCKSA301_04084_MIKOTO_000_220	En cuanto salga de la barrera de Ironworks, enfrentará no solo a las tropas imperiales, sino también ataques aéreos.
+TEXT_LUCKSA301_04084_MIKOTO_000_221	Hasta que encontremos la manera de lidiar con sus buques de guerra, se lo ruego: tenga cuidado.
+TEXT_LUCKSA301_04084_SYSTEM_000_224	Se agregaron nuevas entradas al <colortype(500)><edgecolortype(501)>Field Record<edgecolortype(0)><colortype(0)> en Collection, en la sección Duty del menú principal.
+TEXT_LUCKSA301_04084_SYSTEM_000_225	Puedes aceptar la siguiente misión hablando con Mikoto al alcanzar el Resistance rank <num(lnum1)> o superior.

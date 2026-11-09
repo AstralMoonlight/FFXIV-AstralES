@@ -1,0 +1,75 @@
+key	text
+TEXT_KINGKW304_05505_SEQ_00	Lydirceil parece algo desconcertado por la última idea de Gerolt.<br>※Cambiar de clase o job impedirá avanzar en esta misión.
+TEXT_KINGKW304_05505_SEQ_01	Sin entender qué quiere decir Gerolt con canalizar recuerdos en el arma phantom, Lydirceil le pide detalles al herrero. Gerolt razona así: el verdadero poder de un arma se desata en el proceso de adaptación entre arma y portador, en el que se superan las imperfecciones y se dominan las manías. Tu arma phantom, sin embargo, es absolutamente impecable, lo que hace innecesaria esa adaptación, pero también impide sus beneficios. Con tus recuerdos marciales, espera recrear ese proceso a la inversa para que tu arma phantom alcance su máximo potencial. Según Brigid, solo sirven los recuerdos más recientes, así que te encuentras de nuevo camino a lejanos campos de batalla.<br><br>Los recuerdos se guardarán en un knowledge crystal vacío que te dio Dodokkuli. Una vez que esté lleno hasta el tope, Gerolt podrá empezar la tan esperada fase final de mejora.<br><br>Puedes usar el knowledge crystal para medir tu progreso y comprobar qué duties y field operations cuentan.<br><br>※No puedes avanzar con una clase o job distinto del que tenías al aceptar esta misión.<br><br>※Habla con Lydirceil si quieres abandonar esta misión.
+TEXT_KINGKW304_05505_SEQ_02	Después de generar multitud de recuerdos marciales, le entregas el knowledge crystal a Gerolt, que usa un poco de ecliptic arcanite sobrante para asegurar que los recuerdos se fijen bien. A partir de ahí, Brigid toma el relevo, completa el proceso con soltura y ajusta los atributos de tu arma a tu gusto exacto. Después de incontables encargos, experimentos y arriesgadas incursiones por tierras cercanas y lejanas, tu arma phantom por fin alcanzó su máxima potencia. Esta faceta única del entorno arcano de la isla y de tus propios recuerdos sin duda te servirá fielmente en las batallas por venir. Si quieres seguir ajustando sus propiedades, Brigid lo hará con gusto.<br><br>※Para desbloquear la siguiente misión, debes completar la misión secundaria "Wisdom's End".
+TEXT_KINGKW304_05505_TODO_00	Con <if([lnum4==19],<ennoun(Item,2,50978,1,1)> y <br><ennoun(Item,2,50999,1,1)>,<if([lnum4==20],<ennoun(Item,2,50979,1,1)>,<if([lnum4==21],<ennoun(Item,2,50980,1,1)>,<if([lnum4==22],<ennoun(Item,2,50981,1,1)>,<if([lnum4==23],<ennoun(Item,2,50982,1,1)>,<if([lnum4==24],<ennoun(Item,2,50983,1,1)>,<if([lnum4==25],<ennoun(Item,2,50984,1,1)>,<if([lnum4==27],<ennoun(Item,2,50985,1,1)>,<if([lnum4==28],<ennoun(Item,2,50986,1,1)>,<if([lnum4==30],<ennoun(Item,2,50987,1,1)>,<if([lnum4==31],<ennoun(Item,2,50989,1,1)>,<if([lnum4==32],<ennoun(Item,2,50988,1,1)>,<if([lnum4==33],<ennoun(Item,2,50990,1,1)>,<if([lnum4==34],<ennoun(Item,2,50991,1,1)>,<if([lnum4==35],<ennoun(Item,2,50992,1,1)>,<if([lnum4==37],<ennoun(Item,2,50993,1,1)>,<if([lnum4==38],<ennoun(Item,2,50994,1,1)>,<if([lnum4==39],<ennoun(Item,2,50995,1,1)>,<if([lnum4==40],<ennoun(Item,2,50996,1,1)>,<if([lnum4==41],<ennoun(Item,2,50997,1,1)>,<if([lnum4==42],<ennoun(Item,2,50998,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario o Armoury Chest, entrégale a Gerolt el knowledge crystal lleno de recuerdos marciales.
+TEXT_KINGKW304_05505_GEROLT_000_001	Con tus recuerdos marciales tejidos en la trama misma de tu arma phantom, ¡será <italic(1)>tuya<italic(0)> en el sentido más verdadero de la palabra!
+TEXT_KINGKW304_05505_BRIGID_000_005	En cuestión de armas no se puede transigir. ¡Veamos qué verdadero potencial yace en vuestro armamento!
+TEXT_KINGKW304_05505_SYSTEM_000_010	Para aceptar la misión "Final Phantasm", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en tu Armoury Chest o en tu inventario.
+TEXT_KINGKW304_05505_SYSTEM_000_011	Para aceptar la misión "Final Phantasm", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> equipado, en tu Armoury Chest o en tu inventario.
+TEXT_KINGKW304_05505_LYDIRCEIL_000_012	Si te soy sincero, no tengo la menor idea de qué habla Gerolt con todo este asunto de los recuerdos.
+TEXT_KINGKW304_05505_SYSTEM_000_013	Al completar la misión "Final Phantasm" recibirás un arma phantom de <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_KINGKW304_05505_Q1_000_000	¿Qué haces?
+TEXT_KINGKW304_05505_A1_000_001	Aceptar esta misión con otro job.
+TEXT_KINGKW304_05505_A1_000_002	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_KINGKW304_05505_SYSTEM_000_015	Habla de nuevo con Lydirceil cuando puedas aceptar esta misión.
+TEXT_KINGKW304_05505_LYDIRCEIL_000_016	¡Mejor oigamos los detalles del genial herrero en persona!
+TEXT_KINGKW304_05505_GEROLT_000_017	Que quede claro: tu arma phantom ya está en un estado de perfección que pocos podrían siquiera aspirar a reproducir. Es el maldito colmo del diseño eficiente.
+TEXT_KINGKW304_05505_GEROLT_000_018	Dásela a cualquier novato sin entrenamiento y aun así cantaría, te lo digo yo.
+TEXT_KINGKW304_05505_LYDIRCEIL_000_019	Solo oigo cosas buenas. ¿Dónde está el problema?
+TEXT_KINGKW304_05505_GEROLT_000_020	No me entiendes. Con el tiempo, hasta la hoja más lamentable puede desatar un poder increíble. Todo es cuestión de adaptación.
+TEXT_KINGKW304_05505_GEROLT_000_021	Pero con el arma phantom no hay imperfecciones que compensar, ni manías que dominar, ni oportunidad de que se dé ese proceso de fusión entre arma y portador.
+TEXT_KINGKW304_05505_GEROLT_000_022	De ahí mi idea de recrear ese proceso a la inversa infundiéndole tus recuerdos, y crear así un arma realmente única. ¡Esa es mi visión para la fase final de esta empresa!
+TEXT_KINGKW304_05505_LYDIRCEIL_000_023	Creo que ya capto la idea... Vamos a usar recuerdos para devolverle ese algo especial que hace funcionar a un arma. Mellas y rasguños metafóricos, por así decirlo.
+TEXT_KINGKW304_05505_GEROLT_000_024	Sí, más o menos. En fin, creo que ya sé cuál es el recipiente perfecto para guardar los recuerdos marciales de <split(<string(gstr1)>, ,1)>.
+TEXT_KINGKW304_05505_DODOKKULI_000_025	¿Se refiere a los knowledge crystals que la expedición encontró en la isla? ¡Justo tengo uno aquí!
+TEXT_KINGKW304_05505_DODOKKULI_000_026	Tome. Este no tiene ningún recuerdo antiguo. Pensaba examinarlo más a fondo, ¡pero prefiero mucho más verlo en uso!
+TEXT_KINGKW304_05505_BRIGID_000_027	También deseo ofrecer mis servicios. Cuando el knowledge crystal rebose de recuerdos, con gusto me encargaré de unir memoria y arma.
+TEXT_KINGKW304_05505_BRIGID_000_028	Debo advertiros, sin embargo, que los recuerdos más antiguos no servirán. Solo los más frescos darán un reflejo fiel de vuestras fuerzas actuales.
+TEXT_KINGKW304_05505_GEROLT_000_029	¡Bien, <if(gnum4,muchacha,muchacho)>! ¡Te digo que vuelvas a unos cuantos campos de batalla recientes y llenes ese cristal!
+TEXT_KINGKW304_05505_SYSTEM_000_030	Puedes llenar tu knowledge crystal de recuerdos marciales completando duties y field operations.
+TEXT_KINGKW304_05505_SYSTEM_000_031	Usa el propio knowledge crystal para medir tu progreso y comprobar qué duties y field operations cuentan.
+TEXT_KINGKW304_05505_SYSTEM_000_032	La misión actual, "Final Phantasm", no se puede abandonar desde el journal. Si quieres hacerlo, habla con Lydirceil.
+TEXT_KINGKW304_05505_LYDIRCEIL_000_035	¿Te llama la aventura? Bueno, no voy a intentar retenerte.
+TEXT_KINGKW304_05505_SYSTEM_000_040	Esta misión se puede abandonar en cualquier momento. Sin embargo, perderás los recuerdos marciales acumulados.
+TEXT_KINGKW304_05505_SYSTEM_000_045	¿Abandonar la misión "Final Phantasm"?
+TEXT_KINGKW304_05505_SYSTEM_000_050	¿Seguro que quieres continuar?
+TEXT_KINGKW304_05505_SYSTEM_000_055	Si abandonas esta misión perderás los recuerdos marciales acumulados. Si decides retomarla más adelante, tendrás que llenar de nuevo el knowledge crystal.
+TEXT_KINGKW304_05505_SYSTEM_000_060	Lo entiendo y quiero abandonar la misión.
+TEXT_KINGKW304_05505_LYDIRCEIL_000_065	La verdad es que todavía estoy tratando de entender todo el concepto, pero con tus propios recuerdos infundidos, esa arma no se parecerá a ninguna otra, eso seguro.
+TEXT_KINGKW304_05505_BRIGID_000_070	¡Vuestra arma quedará tejida con un rico tapiz de recuerdos marciales, y cada uno elevará su potencial sin medida!
+TEXT_KINGKW304_05505_GEROLT_000_100	Asegúrate de llenar ese knowledge crystal hasta el tope. Sé que es trabajo duro, pero este es el último tramo. ¡No podemos dejar que todo ese esfuerzo se desperdicie!
+TEXT_KINGKW304_05505_GEROLT_000_200	¿Llenaste el cristal? Entonces quítate tu maldita arma phantom.
+TEXT_KINGKW304_05505_GEROLT_000_201	Llenaste el knowledge crystal, ¿eh? Anda, pásamelo.
+TEXT_KINGKW304_05505_SYSTEM_000_202	Tras entregar el knowledge crystal, tu arma phantom se infundirá de recuerdos marciales.
+TEXT_KINGKW304_05505_SYSTEM_000_203	Ten en cuenta que perderás toda materia insertada durante el proceso.
+TEXT_KINGKW304_05505_GEROLT_000_204	¡Mira esta maldita cosa! Prácticamente rebosa de recuerdos.
+TEXT_KINGKW304_05505_GEROLT_000_205	Voy a necesitar un poco de ecliptic arcanite para fijarlos al arma, pero no tendrás que soltarle más tomestones a Ermina: quedó suficiente de la última vez.
+TEXT_KINGKW304_05505_GEROLT_000_206	Llegó el momento. ¡El último paso!
+TEXT_KINGKW304_05505_GEROLT_000_207	Ajusté el núcleo del arma para que esos recuerdos se sujeten bien. Te dejo la fusión a ti.
+TEXT_KINGKW304_05505_BRIGID_000_208	¡Ajá! ¡Es hora de que mi orbe y yo brillemos!
+TEXT_KINGKW304_05505_BRIGID_000_209	Pero antes de comenzar, deseo saber qué forma ideal imagináis para vuestra arma phantom.
+TEXT_KINGKW304_05505_BRIGID_000_210	El combate es complejo y siempre cambiante; cada batalla es un lienzo en blanco que aguarda su obra maestra. ¿Venceréis a los enemigos con una ráfaga de golpes, o canalizaréis vuestra fuerza en un solo golpe mortal? Quizá prefiráis mitigar el daño recibido... Así expresa su arte quien domina lo marcial.
+TEXT_KINGKW304_05505_BRIGID_000_211	¡Si tenéis en mente una visión concreta, os ruego que la compartáis conmigo!
+TEXT_KINGKW304_05505_SYSTEM_000_212	Puedes elegir tres atributos para añadir a tu arma phantom mejorada. Uno de ellos tendrá un valor más bajo que los otros dos.
+TEXT_KINGKW304_05505_SYSTEM_100_212	Cuando hayas ajustado los valores a tu gusto, selecciona "Confirm" para finalizar tu decisión.
+TEXT_KINGKW304_05505_SYSTEM_000_213	Si quieres reajustar estos atributos después de completar la misión actual, deberás darle a Brigid pedazos de ecliptic arcanite. Piensa bien tus elecciones.
+TEXT_KINGKW304_05505_BRIGID_000_214	Ahora a duplicar los recuerdos contenidos en el knowledge crystal y fundirlos con vuestra arma phantom...
+TEXT_KINGKW304_05505_BRIGID_100_214	Sí, con esto debería bastar...
+TEXT_KINGKW304_05505_BRIGID_000_215	¡Tachán! ¡Mi obra está completa!
+TEXT_KINGKW304_05505_GEROLT_000_216	Los vívidos recuerdos de un maestro marcial en el fragor de la batalla, mezclados con la mejor artesanía de todo el maldito reino... ¡Y ni rastro de magia ilusoria que limite su potencial!
+TEXT_KINGKW304_05505_GEROLT_000_217	¡Tu <ennoun(Item,3,lnum1,1,1)> es la cumbre de la perfección bélica!
+TEXT_KINGKW304_05505_GEROLT_000_218	¡Tus <ennoun(Item,3,lnum1,1,1)> y <ennoun(Item,3,lnum2,1,1)> son la cumbre de la perfección bélica!
+TEXT_KINGKW304_05505_GEROLT_000_219	Ahora bien, por mucho que me duela admitirlo, esto no fue un trabajo en solitario.
+TEXT_KINGKW304_05505_GEROLT_000_220	Ni hace falta decir que tú hiciste la mayor parte del trabajo pesado, <if(gnum4,muchacha,muchacho)>, pero tampoco habría podido hacerlo sin los demás.
+TEXT_KINGKW304_05505_GEROLT_000_221	¡No está mal este equipo, después de todo!
+TEXT_KINGKW304_05505_LYDIRCEIL_000_222	¿Eso fue un momento de humildad genuina? ¿¡Dónde está Gerolt y qué le hiciste!? Bromas aparte, me alegra que la House of Splendors te haya presentado.
+TEXT_KINGKW304_05505_LYDIRCEIL_000_223	Hablando de eso, ¿crees que ya casi pagaste tus deudas?
+TEXT_KINGKW304_05505_GEROLT_000_224	¿Mis deudas?
+TEXT_KINGKW304_05505_GEROLT_000_225	¡Me había olvidado por completo de ellas! No sirve de nada preocuparse por unos cuantos gil cuando hay técnicas antiguas que aprender y armas divinas que forjar.
+TEXT_KINGKW304_05505_DODOKKULI_000_226	Si bien su dedicación es encomiable, un poco de responsabilidad financiera no le vendría mal...
+TEXT_KINGKW304_05505_GEROLT_000_227	En fin, eso es todo lo que podemos hacer por ti en esta maldita roca. ¡Es hora de que salgas ahí afuera y pongas a prueba esa arma phantom!
+TEXT_KINGKW304_05505_SYSTEM_100_227	Habla con Brigid en la aldea phantom si quieres reajustar los atributos de tu arma phantom.
+TEXT_KINGKW304_05505_SYSTEM_000_228	Los pedazos de ecliptic arcanite necesarios para el reajuste se obtienen de Ermina, que también está en la aldea phantom.
+TEXT_KINGKW304_05505_GEROLT_000_229	Ahora que lo pienso, más vale que le devuelva al Archive su maldito cuchillo...
+TEXT_KINGKW304_05505_SYSTEM_000_230	Para desbloquear la siguiente misión, debes completar la misión secundaria "Wisdom's End".

@@ -186,7 +186,10 @@ foreach (var (name, i) in featureNames.Select((n, i) => (n, i + 1)))
 // The events running now, numbered in this order: All Saints' Wake 2026 (its two quests, then what
 // the event NPCs say outside them: the guide, the witch, the warp into the horror room) and the
 // Fall Guys event (the Blunderville quest and the guide at its gate).
-string[] eventIds = ["FesHlx201_", "FesHlx202_", "FesHlx2026", "SubGsc901_", "CtsEtcFgsEntrance_"];
+string[] eventIds = ["FesHlx201_", "FesHlx202_", "FesHlx2026", "SubGsc901_", "CtsEtcFgsEntrance_", "CtsMkdWepTrade", "KinGkw30", "KinGkw399_",
+    // Relic weapon chains the journal genres do not bring in, and their NPC dialogue.
+    "KinGkw0", "KinGkw1", "KinGkw2", "ChrHdy", "LucKsa", "AktKct", "StmBdy401_", "JobRel399_",
+    "CmnDefRelicWeapon", "CmnDef2AnimaWeapon", "RegDra2TomestoneWeaponTradeExplain_", "CtsMycResistanceLevelUp_", "CtsErk"];
 var eventSheets = sheetNames.Where(n => (n.StartsWith("quest/") || n.StartsWith("custom/"))
         && eventIds.Any(id => n[(n.LastIndexOf('/') + 1)..].StartsWith(id)))
     .OrderBy(n => Array.FindIndex(eventIds, id => n[(n.LastIndexOf('/') + 1)..].StartsWith(id))).ThenBy(n => n).ToList();

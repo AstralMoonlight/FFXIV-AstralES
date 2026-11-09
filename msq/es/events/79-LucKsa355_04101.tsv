@@ -1,0 +1,96 @@
+key	text
+TEXT_LUCKSA355_04101_SEQ_00	Antes de darle los toques finales al arma Resistance, Zlatan tiene una última tarea para ti.<br>※Cambiar de clase o job impide avanzar en esta misión.
+TEXT_LUCKSA355_04101_SEQ_01	Según explica Zlatan, las emociones puras que buscas se descubrieron primero en lugares de batallas intensas donde las emociones estaban a flor de piel. Te pide que busques enfrentamientos igual de feroces para encontrar quince cristales de raw emotions.<br><br>※No puedes avanzar con una clase o job distinto del que tenías al aceptar esta misión.<br>※Las raw emotions se obtienen completando las raids Delubrum Reginae o the Dalriada en Zadnor, cualquier dungeon de nivel 70 o la deep dungeon Heaven-on-High.
+TEXT_LUCKSA355_04101_SEQ_02	Regresas a Gangos con las raw emotions necesarias, y el conocido estruendo del martillo de Gerolt y el zumbido del nodo allagano no tardan en llenar el aire. Poco después el trabajo está terminado, y tienes en las manos un arma que los antiguos bozjanos solo pudieron soñar, con una fuerza que bien podría rivalizar con la de Save the Queen. Zlatan no pierde tiempo en llevarle la buena noticia a Bajsaljen.<br><br>Interrumpiendo el júbilo, Regana saca a colación el asunto del contrato, alegando que Rowena duplicó el precio de los materiales usados para forjar esas armas. Para sorpresa de todos, la propia Rowena aparece de improviso para desmentir esas mismas afirmaciones y destapar el plan de extorsión de Regana. Descubiertos sus planes, Regana da por hecho que la despedirán, pero Zlatan insiste en que se quede para cumplir el contrato entre la Resistance y la House of Splendors. Rowena accede a su petición y todos los presentes, salvo quizá Gerolt, se alegran de que puedan seguir trabajando.<br><br>Tu trabajo para perfeccionar el arma Resistance ha animado a Bajsaljen, porque ahora el pueblo de Bozja tendrá por fin un faro brillante de esperanza bajo el cual reunirse.
+TEXT_LUCKSA355_04101_TODO_00	<if([lnum1<lnum2],Obtén raw emotions,Con <if([lnum4==19],<ennoun(Item,2,32669,1,1)> y <ennoun(Item,2,32686,1,1)>,<if([lnum4==20],<ennoun(Item,2,32670,1,1)>,<if([lnum4==21],<ennoun(Item,2,32671,1,1)>,<if([lnum4==22],<ennoun(Item,2,32672,1,1)>,<if([lnum4==23],<ennoun(Item,2,32673,1,1)>,<if([lnum4==24],<ennoun(Item,2,32677,1,1)>,<if([lnum4==25],<ennoun(Item,2,32678,1,1)>,<if([lnum4==27],<ennoun(Item,2,32679,1,1)>,<if([lnum4==28],<ennoun(Item,2,32680,1,1)>,<if([lnum4==30],<ennoun(Item,2,32674,1,1)>,<if([lnum4==31],<ennoun(Item,2,32676,1,1)>,<if([lnum4==32],<ennoun(Item,2,32675,1,1)>,<if([lnum4==33],<ennoun(Item,2,32681,1,1)>,<if([lnum4==34],<ennoun(Item,2,32682,1,1)>,<if([lnum4==35],<ennoun(Item,2,32683,1,1)>,<if([lnum4==37],<ennoun(Item,2,32684,1,1)>,<if([lnum4==38],<ennoun(Item,2,32685,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario o Armoury Chest\, entrega las raw emotions a Zlatan en Gangos)>.
+TEXT_LUCKSA355_04101_SYSTEM_800_000	Ten en cuenta que al completar la misión "Irresistible" recibirás un arma Resistance para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_LUCKSA355_04101_SYSTEM_801_000	Asegúrate de cambiar al job que quieras antes de hablar con Zlatan.
+TEXT_LUCKSA355_04101_Q1_800_000	¿Qué haces?
+TEXT_LUCKSA355_04101_A1_800_000	Aceptar esta misión con otro job.
+TEXT_LUCKSA355_04101_A2_800_000	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_LUCKSA355_04101_SYSTEM_800_001	Habla de nuevo con Zlatan cuando quieras aceptar esta misión.
+TEXT_LUCKSA355_04101_SYSTEM_800_005	Ya recibiste <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>. Cambia a otro job y habla de nuevo con Zlatan.
+TEXT_LUCKSA355_04101_SYSTEM_800_006	Ya recibiste <ennoun(Item,2,lnum1,1,1)>. Cambia a otro job y habla de nuevo con Zlatan.
+TEXT_LUCKSA355_04101_SYSTEM_800_008	Para aceptar la misión "Irresistible", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en tu Armoury Chest o en tu inventario.
+TEXT_LUCKSA355_04101_SYSTEM_800_009	Para aceptar la misión "Irresistible", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> equipado, en tu Armoury Chest o en tu inventario.
+TEXT_LUCKSA355_04101_ZLATAN_000_000	Esta nueva variedad de cristales se descubrió primero en las mesetas de Zadnor.
+TEXT_LUCKSA355_04101_ZLATAN_000_001	Igual que los recuerdos de los moribundos, creemos que estos cristales se manifestaron en batallas encarnizadas contra el enemigo, donde las emociones estaban a flor de piel.
+TEXT_LUCKSA355_04101_ZLATAN_000_003	Para alguien de su destreza, solo puedo suponer que debe buscar batallas peligrosas contra los enemigos más mortales para despertar esas emociones. Creemos que quince de estas emociones cristalizadas deberían bastar.
+TEXT_LUCKSA355_04101_ZLATAN_000_010	Busca refinar otra arma Resistance, ya veo. Por suerte, quedan recursos de la última arma, aunque necesitaremos otro surtido de emociones puras.
+TEXT_LUCKSA355_04101_ZLATAN_000_011	Como antes, necesitaremos quince para terminar nuestro trabajo.
+TEXT_LUCKSA355_04101_SYSTEM_000_021	Las raw emotions se obtienen realizando las duties Delubrum Reginae o the Dalriada.
+TEXT_LUCKSA355_04101_SYSTEM_000_022	También se pueden obtener completando cualquier dungeon de nivel 70 o la deep dungeon Heaven-on-High.
+TEXT_LUCKSA355_04101_ZLATAN_000_030	No me atrevo a preguntar dónde piensa conseguir exactamente las emociones que necesitamos, pero ruego que vuelva a salvo, Blade <split(<string(gstr1)>, ,2)>.
+TEXT_LUCKSA355_04101_SYSTEM_000_032	Las raw emotions se obtienen completando las raids Delubrum Reginae o the Dalriada.
+TEXT_LUCKSA355_04101_SYSTEM_000_033	También se pueden obtener completando cualquier dungeon de nivel 70 o la deep dungeon Heaven-on-High.
+TEXT_LUCKSA355_04101_ZLATAN_000_050	Qué bueno que volvió, Blade <split(<string(gstr1)>, ,2)>. Si consiguió una provisión adecuada de emociones puras, comencemos el proceso de refinado. Antes de empezar, ¿podría pedirle que se quite el arma?
+TEXT_LUCKSA355_04101_ZLATAN_000_060	El maestro Gerolt ya preparó la forja y están todos los demás materiales necesarios. ¿Me permite ver los cristales que reunió?
+TEXT_LUCKSA355_04101_ZLATAN_000_070	Excelente. Y el arma, si es tan amable.
+TEXT_LUCKSA355_04101_ZLATAN_000_071	Ahora, llevémosle esto al maestro Gerolt. Casi no puedo esperar para ver qué maravillas hará con su forja.
+TEXT_LUCKSA355_04101_GEROLT_000_100	Sí, parece que está todo.
+TEXT_LUCKSA355_04101_GEROLT_000_101	Hora de ponerse a trabajar. ¿Por qué no vas a decirle al nodo lo que se te antoja mientras empiezo con el arma?
+TEXT_LUCKSA355_04101_ZLATAN_000_102	Hablando del nodo allagano, Regana, la última vez que lo usamos hizo falta un sellador. ¿No necesitaremos más?
+TEXT_LUCKSA355_04101_REGANA_000_103	Sí, todavía se requiere un sellador hecho con limolita aetérica para completar el proceso de refinado.
+TEXT_LUCKSA355_04101_REGANA_000_104	Sin embargo, al ajustar el nodo y probar el proceso de revestimiento mejorado, sobró una cantidad sorprendente de sellador. Debería alcanzar por ahora, pero si <split(<string(gstr1)>, ,1)> quisiera refinar otras armas, tendremos que conseguir más.
+TEXT_LUCKSA355_04101_GEROLT_000_105	Qué amable de tu parte. A lo mejor no eres tan tacaña después de todo.
+TEXT_LUCKSA355_04101_REGANA_000_106	Bueno, a todos nos conviene ver estas armas perfeccionadas. Y si la House of Splendors ha de establecer buenas relaciones con la Resistance, una actitud implacable constante en los negocios no nos llevará a ninguna parte.
+TEXT_LUCKSA355_04101_GEROLT_000_107	Esa no parece la House of Splendors que conozco, pero si quieres echarle un hueso a la Resistance, ¿quién soy yo para discutir?
+TEXT_LUCKSA355_04101_GEROLT_000_110	Con ganas de volver a encender la forja, ¿eh? Bueno, manos a la obra.
+TEXT_LUCKSA355_04101_REGANA_000_111	Y no se preocupe por el aetherial sealant: ya me encargué de prepararlo. Es lo menos que puedo hacer tras mis faltas anteriores.
+TEXT_LUCKSA355_04101_ZLATAN_000_112	Es increíblemente generoso de su parte, Regana. Gracias.
+TEXT_LUCKSA355_04101_REGANA_000_113	S-Sí, bueno... Generosidad aparte, hay cuestiones materiales que atender si nuestro trabajo ha de continuar. Si desea hacer más modificaciones al arma, me temo que tendrá que aportar su propio sellador.
+TEXT_LUCKSA355_04101_MEMORIZESYSTEM_000_120	Receptáculo del arma listo para aplicar el revestimiento aeteroaislante. Seleccione el ajuste de atributos deseado.
+TEXT_LUCKSA355_04101_Q1_000_100	¿Qué haces?
+TEXT_LUCKSA355_04101_A1_000_100	Ajustar los atributos del arma Resistance.
+TEXT_LUCKSA355_04101_A2_000_100	Preguntar por el proceso de refinado.
+TEXT_LUCKSA355_04101_A3_000_100	Nada.
+TEXT_LUCKSA355_04101_SYSTEM_000_301	Puedes aumentar a tu gusto cuatro atributos de tu arma Resistance. Cuando estés conforme con el reparto de atributos, selecciona <colortype(500)><edgecolortype(501)>Allocate<edgecolortype(0)><colortype(0)> para completar el proceso.
+TEXT_LUCKSA355_04101_SYSTEM_000_303	Elige con cuidado, pues redistribuir los atributos requerirá conseguir materiales adicionales.
+TEXT_LUCKSA355_04101_GEROLT_000_350	Sí, con eso basta. Y ese nodo allagano hizo un buen trabajo con los toques finales.
+TEXT_LUCKSA355_04101_GEROLT_000_355	Las esperanzas y los sueños de la antigua Bozja hechos realidad. Un arma verdaderamente digna de Gunnhildr's Blades: ¡<sheet(Item,lnum1,9)>!
+TEXT_LUCKSA355_04101_GEROLT_000_360	Las esperanzas y los sueños de la antigua Bozja hechos realidad. Una hoja verdaderamente digna de Gunnhildr's Blades: ¡<sheet(Item,lnum1,9)>!
+TEXT_LUCKSA355_04101_GEROLT_000_361	Y claro, no podemos olvidar a su gemela, ¡<sheet(Item,lnum1,9)>!
+TEXT_LUCKSA355_04101_GEROLT_000_400	La inscripción de la reina nunca brilló tanto como cuando martillé esos cristales en el arma Resistance. Apenas puedo imaginar qué llevó la fabricación de Save the Queen.
+TEXT_LUCKSA355_04101_GEROLT_000_401	Tú, que te enfrentaste cara a cara con Su Majestad, sabrás mejor que nadie lo potente que puede ser el poder de los recuerdos y las emociones, ¿eh?
+TEXT_LUCKSA355_04101_GEROLT_000_402	Y ahora ese mismo poder corre por tu arma Resistance. Yo diría que a la mismísima reina Gunnhildr le costaría sacarles más poder a esas inscripciones.
+TEXT_LUCKSA355_04101_ZLATAN_000_403	¡Tal como lo describe, se diría que esta arma Resistance rivaliza con la fuerza de Save the Queen!
+TEXT_LUCKSA355_04101_GEROLT_000_404	¡Sí, Zlatan! ¡Bien podría!
+TEXT_LUCKSA355_04101_ZLATAN_000_405	¿Qué... Cómo acaba de llamarme?
+TEXT_LUCKSA355_04101_ZLATAN_000_406	Seguro que no soy el único que lo oyó. Mi nombre <italic(1)>verdadero<italic(0)>... Oh, ruego que no sea solo un momento pasajero de sobriedad.
+TEXT_LUCKSA355_04101_GEROLT_000_407	¿¡Conque <italic(1)>así<italic(0)> se llama!? Supongo que era cuestión de tiempo que le atinara...
+TEXT_LUCKSA355_04101_GEROLT_000_408	Pero bueno, no nos dejemos llevar por la celebración todavía. Aún tenemos que compartir el fruto de nuestro trabajo con Bajsaljen y los demás.
+TEXT_LUCKSA355_04101_ZLATAN_000_409	¡Sí, por supuesto! Iré a avisarle de inmediato.
+TEXT_LUCKSA355_04101_REGANA_000_410	Y yo llevaré nuestro contrato a su conclusión...
+TEXT_LUCKSA355_04101_GEROLT_000_450	Lo juro, si mis teteras brillaran la mitad que estas armas Resistance, pagaría mis deudas en un abrir y cerrar de ojos.
+TEXT_LUCKSA355_04101_ZLATAN_000_451	Maestro Gerolt, preferiría que no compare el legado de mis antepasados con... teteras, por muy brillantes que sean.
+TEXT_LUCKSA355_04101_GEROLT_000_452	Solo era un poco de humor para aligerar el ambiente, nada por lo que alterarse, Laz... Eh, muchacho.
+TEXT_LUCKSA355_04101_ZLATAN_000_453	No pasa nada, maestro Gerolt. Si no hubo intención de ofender, nadie se ofende.
+TEXT_LUCKSA355_04101_REGANA_000_454	Me temo que no se ha dado cuenta de que Gerolt ya olvidó su nombre.
+TEXT_LUCKSA355_04101_MEMORIZESYSTEM_000_455	Gracias por usar los servicios de refinado de armas de la House of Splendors. \<bip> \<bip><br>Esperamos volver a servirle. Y recuerde: si lo que busca es calidad, ¡visite Mor Dhona y deje que la señora Rowena le dé un toque de esplendor a su vida!
+TEXT_LUCKSA355_04101_BAISHAEN_000_500	Un arma fuera del alcance incluso de Gunnhildr's Blades. Una verdadera maravilla de artesanía.
+TEXT_LUCKSA355_04101_BAISHAEN_000_501	Aunque se les encargó solo recrear las armas de la ilustre guardia de la reina Gunnhildr, está claro que fueron mucho más allá de lo que nadie podría haber esperado. No me cabe duda de que hicieron realidad este sueño en apariencia imposible.
+TEXT_LUCKSA355_04101_BAISHAEN_000_505	Y no se me ocurre mejor soldado que usted para empuñarla, Blade <split(<string(gstr1)>, ,2)>. En sus manos será un faro de esperanza en nuestra lucha por la libertad.
+TEXT_LUCKSA355_04101_BAISHAEN_000_510	Y no se me ocurre mejor soldado que usted para empuñarla, Blade <split(<string(gstr1)>, ,2)>. En sus manos será un recordatorio de nuestra libertad duramente ganada.
+TEXT_LUCKSA355_04101_REGANA_000_515	Ahora que el arma está forjada, quisiera tratar el asunto del pago por los suministros y servicios prestados a la Resistance.
+TEXT_LUCKSA355_04101_REGANA_000_516	Dado el considerable desgaste de los recursos de la House, me temo que en adelante se duplicará el costo de fabricar las armas Resistance.
+TEXT_LUCKSA355_04101_REGANA_000_517	Quisiera que no fuera así, pero la señora Rowena insistió...
+TEXT_LUCKSA355_04101_ROWENA_000_518	(-???-)¿Ah, sí?
+TEXT_LUCKSA355_04101_REGANA_000_519	¡S-Señora Rowena! ¿A qué debemos el placer?
+TEXT_LUCKSA355_04101_ROWENA_000_520	Zlatan aquí presente me llamó, con la idea de hablar de los términos de los contratos al por mayor que supuestamente le ofrecí a la Resistance.
+TEXT_LUCKSA355_04101_ROWENA_000_521	Y después de hablar con G'jusana y las otras, dijeron que fuiste <italic(1)>tú<italic(0)> quien arregló esos tratos. Está claro que esperabas quedarte con una tajada no tan pequeña de las ganancias, ¿verdad?
+TEXT_LUCKSA355_04101_REGANA_000_522	¡N-No! ¡Jamás! ¡Todo lo que hago siempre ha sido por la House of Splendors!
+TEXT_LUCKSA355_04101_ROWENA_000_523	¿Y exactamente cómo beneficia a la empresa intentar robarles ganancias a tus colegas? ¿Usar mi buen nombre para extorsionar a gente decente? ¡Si esto era para impresionarme, estás <italic(1)>muy<italic(0)> equivocada!
+TEXT_LUCKSA355_04101_GEROLT_000_524	¿Impresionarla...?
+TEXT_LUCKSA355_04101_ROWENA_000_525	Sí. Por razones que seguramente nunca entenderé, esta de aquí me tomó mucho cariño. De hecho, a diferencia de la mayoría de las otras chicas, entró a la House of Splendors porque quería aprender el oficio. Y desde el primer día se ha matado tratando de demostrar su valía.
+TEXT_LUCKSA355_04101_REGANA_000_526	Yo... íbamos a ganar tanto con este trato que esperaba que pasara por alto que usara su nombre para concretarlo. Pero traicioné la confianza que depositó en mí, y por eso lo siento de verdad. No volveré a importunarla, señora Rowena.
+TEXT_LUCKSA355_04101_ZLATAN_000_527	Si me permite intervenir, el trabajo de Regana con la Resistance ha sido sencillamente excepcional. Desde el encargo del nodo allagano hasta su ayuda con nuestra investigación, ha contribuido muchísimo a nuestra causa. Incluso ayudó a mantener a Gerolt concentrado y, más importante aún, sobrio, el tiempo suficiente para terminar el trabajo.
+TEXT_LUCKSA355_04101_ZLATAN_000_528	No exagero al decir que, sin ella, no estaríamos presentándole a Bajsaljen el fruto de nuestro trabajo.
+TEXT_LUCKSA355_04101_ZLATAN_000_529	Si pudiera encontrar en su corazón la manera de perdonar las faltas de Regana, sería un honor y un privilegio para mí seguir haciendo negocios con la House of Splendors con ella como su representante.
+TEXT_LUCKSA355_04101_BAISHAEN_000_530	Mientras se mantenga nuestro acuerdo original y el costo de sus servicios no se haya duplicado, no veo razón para oponerme a que sigamos trabajando juntos.
+TEXT_LUCKSA355_04101_ROWENA_000_531	Ya que por <italic(1)>muy poco<italic(0)> nos libramos de cometer una falta, estoy dispuesta a acceder a los deseos de nuestros clientes. Regana se quedará aquí a supervisar los asuntos de la House hasta que se cumplan las obligaciones de nuestro contrato.
+TEXT_LUCKSA355_04101_GEROLT_000_532	Todo eso está muy bien, pero yo creía que nuestro trabajo, y más importante aún, mi contrato, se acababa después de forjar esa arma.
+TEXT_LUCKSA355_04101_BAISHAEN_000_533	Sus bromas nunca fueron graciosas, Gerolt. El acuerdo original era forjar armas para <italic(1)>todos<italic(0)> los Gunnhildr's Blades. Su trabajo apenas empieza.
+TEXT_LUCKSA355_04101_ZLATAN_000_534	El arma de Blade <split(<string(gstr1)>, ,2)> siempre iba a ser solo un prototipo... Aunque la experiencia me dice que recordar los detalles no es su fuerte.
+TEXT_LUCKSA355_04101_ROWENA_000_535	Y <italic(1)>mi<italic(0)> experiencia <italic(1)>me<italic(0)> dice que más les vale vigilar cuánto bebe ese bobo. Ya les digo que yo no voy a pagar nada de eso, así que asegúrense de cobrarle hasta la última gota.
+TEXT_LUCKSA355_04101_REGANA_000_536	Gracias, Bajsaljen. Le juro que no se arrepentirá.
+TEXT_LUCKSA355_04101_BAISHAEN_000_537	Todavía nos queda un largo camino, Blade <split(<string(gstr1)>, ,2)>, pero tengo fe en ellos. Y en usted. Durante demasiado tiempo el pueblo de Bozja ha carecido de un símbolo de esperanza. Pero ahora, gracias a usted y a los demás, pronto lo encontrará.

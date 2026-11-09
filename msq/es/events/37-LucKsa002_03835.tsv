@@ -1,0 +1,309 @@
+key	text
+TEXT_LUCKSA002_03835_SEQ_00	Marsak está listo para partir.
+TEXT_LUCKSA002_03835_SEQ_01	Aceptas prestarle tu fuerza a la Bozjan Resistance, y Marsak no pierde tiempo en preparar una nave que te lleve a su base de operaciones. Te pide que te reúnas con él en el Doman Enclave cuando estés a punto de embarcar.
+TEXT_LUCKSA002_03835_SEQ_02	Encuentras a Marsak esperándote con paciencia en el muelle. Lista la partida, hablas con el barquero, que los hace subir a los dos a su aeronave.
+TEXT_LUCKSA002_03835_SEQ_03	Apenas llegas al campamento de la Resistance, te encuentras cara a cara con Bajsaljen, líder de la Bozjan Resistance. Él y sus camaradas te explican su plan: volver a forjar las legendarias armas de los Gunnhildr's Blades. Pese a la escasez de registros sobre la Queen Gunnhildr y su guardia, avanzaron mucho en la reproducción de esas célebres armas. La clave para terminarlas es una inscripción sagrada grabada en ellas, cuyo rastro se perdió cuando cayó la Bozja Citadel hace muchos años. Para seguir adelante, recurrieron a una vieja amiga: Mikoto.
+TEXT_LUCKSA002_03835_SEQ_04	Con quizá demasiadas palabras, y una demostración con ayuda de Gerolt, Mikoto detalla sus planes. Con las técnicas olvidadas de los videntes bozjanos, debes usar un foco de cristal especial para entrar en los recuerdos de alguien que pueda haber visto la inscripción sagrada necesaria para volver a forjar las armas de Gunnhildr. El problema es que quienes la vieron murieron cuando fue destruida la Bozja Citadel. O eso creían. Mientras considera la posibilidad de que haya supervivientes, Mikoto tiene una visión del futuro. En ella ve a Cid Garlond, y se convence de que él es el testigo que buscas.
+TEXT_LUCKSA002_03835_SEQ_05	Aunque extrañamente reacio, Bajsaljen entiende que Cid Garlond es probablemente tu única esperanza de forjar las armas de Gunnhildr. Y así te pide que vayas a Rhalgr's Reach y hables con los ingenieros de los Ironworks de allá para encontrarlo.
+TEXT_LUCKSA002_03835_SEQ_06	Al hablar con una novata de ingeniería en Rhalgr's Reach, parece que Cid está demasiado ocupado para ayudar. Por suerte, Jessie oye la conversación y aclara cualquier malentendido sobre sus compromisos actuales. Antes de irse, Jessie te pide andar con cuidado, por temor a los horrores que puedan salir a la luz del pasado de Cid.
+TEXT_LUCKSA002_03835_SEQ_07	Se acordó que Cid se reúna contigo en el Doman Enclave. Mientras vas a su encuentro, no puedes evitar preguntarte qué secretos guardan sus recuerdos.
+TEXT_LUCKSA002_03835_TODO_00	Habla con el piloto de la aeronave en el Doman Enclave.
+TEXT_LUCKSA002_03835_TODO_01	Habla con el piloto de la aeronave en el Doman Enclave.
+TEXT_LUCKSA002_03835_TODO_02	Habla con Mikoto.
+TEXT_LUCKSA002_03835_TODO_03	Habla con Bajsaljen.
+TEXT_LUCKSA002_03835_TODO_04	Habla con la ingeniera de los Ironworks en Rhalgr's Reach.
+TEXT_LUCKSA002_03835_TODO_05	Habla con la ingeniera de los Ironworks.
+TEXT_LUCKSA002_03835_MARSHAK_000_000	Cuando termine sus preparativos, reúnase conmigo en el muelle y nos pondremos en camino.
+TEXT_LUCKSA002_03835_MARSHAK_000_010	Nuestro destino es Gangos, la base de operaciones actual de la Resistance. Para no llamar la atención del Imperio, esta nave es una de las pocas autorizadas a viajar entre Doma y las demás provincias. Si necesita ir a Gangos en el futuro, le ruego que venga aquí a hacerlo.
+TEXT_LUCKSA002_03835_AIRSHIPGUIDE_000_030	¿Sube a bordo, <if(gnum4,señorita,señor)>?
+TEXT_LUCKSA002_03835_Q1_000_031	¿Viajar a Gangos?
+TEXT_LUCKSA002_03835_BAISHAEN_000_060	(-???-)Que tengamos de <if(gnum4,invitada a la mismísima libertadora,invitado al mismísimo libertador)> de Doma <italic(1)>y<italic(0)> Ala Mhigo. No pensé que pudiera convencerse de ayudarnos.
+TEXT_LUCKSA002_03835_BAISHAEN_000_061	Bajsaljen, líder de la Bozjan Resistance. No soy la mejor elección para el puesto, si he de ser franco, pero llevaré el título de todos modos.
+TEXT_LUCKSA002_03835_GEROLT_000_062	(-???-)¡Maldita sea, hombre! ¡Así no vas a inspirar mucha confianza!
+TEXT_LUCKSA002_03835_BAISHAEN_000_063	¡Ja, ja, tiene toda la razón, maestro Gerolt! Ya que está aquí, ¿no quiere venir a saludar a nuestra visita?
+TEXT_LUCKSA002_03835_GEROLT_000_065	¿Eh...? ¿¡Qué demonios haces <italic(1)>tú<italic(0)> aquí!?
+TEXT_LUCKSA002_03835_GEROLT_000_070	¿No te conozco de alguna parte? ...¡Ah, ya sé! Eres <if(gnum4,esa muchacha,ese tipo)> que salvó a Eorzea de los garleanos o algo así. <split(<string(gstr1)>, ,1)>, ¿no? ¿Qué pasa? Tienes cara de que alguien te meó en la avena.
+TEXT_LUCKSA002_03835_BAISHAEN_000_071	El mayor héroe de Eorzea y su mejor herrero. Con ustedes dos aquí, nuestro plan no puede fallar. Ojalá la Queen Gunnhildr estuviera aquí para verlo.
+TEXT_LUCKSA002_03835_GEROLT_000_072	Oye, <split(<string(gstr1)>, ,1)>... ¿Entre nosotros? Solo estoy aquí para pagar mis deudas con esa serpiente des<-->almada de Rowena.
+TEXT_LUCKSA002_03835_GEROLT_000_073	Ha estado vendiéndole suministros a la Resistance y mencionaron que necesitaban un herrero. Entonces les dijo que yo soy el mejor maldito herrero del mundo, con una habilidad que dejaría en vergüenza al mismísimo Byregot.
+TEXT_LUCKSA002_03835_GEROLT_000_074	No puedo decir que sea ni la mitad de lo que ella dijo, pero haré mi mejor esfuerzo. Con gusto me dan buena comida y mejor bebida, así que sígueme la corriente, ¿quieres?
+TEXT_LUCKSA002_03835_BAISHAEN_000_075	Ahora que están los dos aquí, creo que es hora de explicar nuestros planes. ¿Misija?
+TEXT_LUCKSA002_03835_MEESIYA_000_076	Sí, por supuesto. Nuestra meta es volver a forjar las armas que empuñaron los Gunnhildr's Blades. Simple en principio, no tanto en la ejecución.
+TEXT_LUCKSA002_03835_MEESIYA_000_077	Las armas y la mayoría de los textos sobre la historia de Su Majestad y su guardia se perdieron en la devastación de la Cuarta Calamidad Umbral.
+TEXT_LUCKSA002_03835_MEESIYA_000_078	Dicho esto, conseguimos ciertos datos y, junto con el conocimiento y la pericia del maestro Gerolt, avanzamos mucho en la reproducción de esas célebres hojas de antaño.
+TEXT_LUCKSA002_03835_GEROLT_000_079	Ya averiguamos qué armas empuñaban, su forma y su peso, hasta los materiales que necesito para mi forja. Pero no sabemos ni una maldita cosa de lo que les da espíritu.
+TEXT_LUCKSA002_03835_MEESIYA_000_080	Se dice que la Queen Gunnhildr grabó una inscripción sagrada en cada hoja, con lo que les otorgó el poder de los dioses. Por desgracia, no queda registro de esos grabados, pero todavía hay esperanza.
+TEXT_LUCKSA002_03835_MEESIYA_000_081	Aunque no eran más que pálidas imitaciones, existieron réplicas que bien pudieron llevar esas inscripciones. Por desgracia, se perdieron cuando cayó la Bozja Citadel.
+TEXT_LUCKSA002_03835_MARSHAK_000_082	¿Sabe del incidente de Bozja?
+TEXT_LUCKSA002_03835_Q2_000_100	¿Qué vas a decir?
+TEXT_LUCKSA002_03835_A1_000_100	Me suena vagamente...
+TEXT_LUCKSA002_03835_A2_000_100	Sí, aunque admito que no recuerdo los detalles.
+TEXT_LUCKSA002_03835_MARSHAK_000_085	Un capítulo amargo de nuestra historia, pues marcó el fin de la Bozja que conocíamos.
+TEXT_LUCKSA002_03835_MARSHAK_000_090	No sorprende que alguien tan mundano en la aventura lo conozca. Si me permite, compartiré la trágica historia de nuestra patria.
+TEXT_LUCKSA002_03835_MARSHAK_000_095	Hace quince veranos, los garleanos hacían experimentos para establecer contacto con la luna menor, Dalamud.
+TEXT_LUCKSA002_03835_MARSHAK_000_096	Creían que el satélite tenía un poder inmenso, y erigieron un transmisor lunar con la esperanza de aprovecharlo.
+TEXT_LUCKSA002_03835_MARSHAK_000_097	Pero al activar el transmisor y enviar la señal, Dalamud respondió con una enorme descarga de energía en bruto. La destrucción fue incalculable.
+TEXT_LUCKSA002_03835_MEESIYA_000_098	La ciudadela, las reliquias del reino de la Queen Gunnhildr... No quedó más que humo y ceniza.
+TEXT_LUCKSA002_03835_GEROLT_000_099	Pero todavía hay esperanza. La ciudadela fue borrada del maldito mapa, sí, pero aún hay manera de encontrar esas inscripciones. O eso me dijeron.
+TEXT_LUCKSA002_03835_BAISHAEN_000_100	Es una explicación que conviene dejarle a alguien que sepa mucho más que yo.
+TEXT_LUCKSA002_03835_GEROLT_000_105	Creo que te dejo a la muchacha de allá. Los eruditos como ella siempre logran sacarme de quicio, y para empezar no entiendo ni la mitad de lo que dicen.
+TEXT_LUCKSA002_03835_MIKOTO_000_130	Qué bueno verle de nuevo, <split(<string(gstr1)>, ,1)>. Aunque esperaba haber logrado más antes de su llegada.
+TEXT_LUCKSA002_03835_Q3_000_200	¿Qué vas a decir?
+TEXT_LUCKSA002_03835_A1_000_200	Espera, no me digas. Tu nombre es...
+TEXT_LUCKSA002_03835_A2_000_200	Seguro que tu ayuda será tan valiosa ahora como en el <italic(1)>Prima Vista<italic(0)>.
+TEXT_LUCKSA002_03835_MIKOTO_000_135	¿De verdad dejé tan poca impresión? Soy yo, Mikoto, de la House Jinba. ¿No recuerda nuestro viaje juntos a Rabanastre?
+TEXT_LUCKSA002_03835_MIKOTO_000_140	Es demasiado amable. De no ser por su heroísmo, Ramza y Alma habrían... habrían...
+TEXT_LUCKSA002_03835_BAISHAEN_000_141	Desde el inicio de esta empresa, fue evidente que necesitábamos a alguien versado en aetherología. Se lo transmitimos a la alianza, y ellos nos presentaron a Mikoto. Dicen que es una de las mentes más brillantes de los Students of Baldesion.
+TEXT_LUCKSA002_03835_MIKOTO_000_142	Y sin embargo, es mi ineptitud la que exige su presencia aquí. \<suspiro> Estaba casi segura de que Gerolt y yo bastaríamos para esto, por desgracia...
+TEXT_LUCKSA002_03835_MEESIYA_000_143	Ejem. El asunto del que habla tiene que ver con una práctica olvidada de los hombres santos que habitaron estas tierras. Con cristales de aspecto singular, estos videntes podían dar consuelo a quienes padecían males de la mente.
+TEXT_LUCKSA002_03835_MEESIYA_000_144	Tenían la capacidad de moldear sus propios recuerdos, y de quitar los que consideraban dañinos para reemplazarlos, a fin de que el paciente hallara cierta paz.
+TEXT_LUCKSA002_03835_MARSHAK_000_145	Yo también descarté la idea de que existieran esas prácticas. Hasta que una excavación reciente sacó a la luz pruebas convincentes de su trabajo: los cristales que creemos que usaban en sus curaciones.
+TEXT_LUCKSA002_03835_MARSHAK_000_146	Por desgracia, no pudimos averiguar cómo deben usarse. En ese momento pedimos la ayuda de Mikoto.
+TEXT_LUCKSA002_03835_GEROLT_000_147	¿Y bien, muchacha? ¿Algún avance?
+TEXT_LUCKSA002_03835_MIKOTO_000_148	Mi análisis inicial sugiere que los cristales se crearon artificialmente en algún momento del pasado remoto. Los materiales indican que muy probablemente los produjeron los pueblos ancestrales de esta zona.
+TEXT_LUCKSA002_03835_MIKOTO_000_149	Es más, su firma aetérica se parece notablemente a la actividad oscilatoria de las ondas cerebrales que, al hacerse resonar con las vibraciones NRR<-->armónicas de frecuencia definida de un individuo... Ah. Lo hice otra vez, ¿verdad?
+TEXT_LUCKSA002_03835_MIKOTO_000_150	Creo... que conviene un enfoque más sencillo. Ejem. Todo ser vivo se compone del aether corpóreo de la carne, el aether incorpóreo del alma y el residuo aetérico de sus recuerdos.
+TEXT_LUCKSA002_03835_MIKOTO_000_151	Si alguien poseyera solo aether corpóreo, no sería más que un cadáver andante. A la inversa, a las entidades hechas solo de aether incorpóreo la gente común las llama fantasmas. En cualquiera de los casos, pueden conservar también algunos recuerdos residuales.
+TEXT_LUCKSA002_03835_GEROLT_000_152	Sí, zombis y fantasmas. Te sigo.
+TEXT_LUCKSA002_03835_MIKOTO_000_153	Estos cristales pueden aislar la firma aetérica de los recuerdos y resonar con ella. Eso permitía a los videntes sondear la mente de sus pacientes.
+TEXT_LUCKSA002_03835_GEROLT_000_154	Todo eso está muy bien, muchacha, pero ¿y si su mente ya no es lo que era? ¿O si estaban demasiado borrachos para recordar lo que buscas?
+TEXT_LUCKSA002_03835_MIKOTO_000_155	Excelente pregunta, maestro Gerolt. Todos tenemos dos tipos de memoria: explícita e implícita.
+TEXT_LUCKSA002_03835_MIKOTO_000_156	Como su nombre lo indica, la memoria explícita se refiere al recuerdo activo de experiencias pasadas, mientras que la implícita se adquiere y almacena de manera pasiva.
+TEXT_LUCKSA002_03835_MIKOTO_000_157	Por ejemplo, al conocer a alguien, su apariencia pasa a ser parte de la memoria explícita, lo que permite recordar ese dato. Pero si pasa mucho tiempo sin verlo, recordarlo puede resultar difícil.
+TEXT_LUCKSA002_03835_MIKOTO_000_158	Y sin embargo, en ese momento la mente también registra los sonidos y olores del lugar, la temperatura y demás.
+TEXT_LUCKSA002_03835_MIKOTO_000_159	Hmm... Quizá una demostración explique mejor el fenómeno.
+TEXT_LUCKSA002_03835_Q4_000_300	¿Qué vas a decir?
+TEXT_LUCKSA002_03835_A1_000_300	¿Sin un vidente?
+TEXT_LUCKSA002_03835_A2_000_300	¿No necesitamos algún hechizo?
+TEXT_LUCKSA002_03835_MIKOTO_000_170	Por fortuna, eso no será necesario.
+TEXT_LUCKSA002_03835_MIKOTO_000_171	Cuando me hablaron de los videntes y sus prácticas, de inmediato recordé su capacidad de asomarse al pasado.
+TEXT_LUCKSA002_03835_MIKOTO_000_172	Creo que esa gente fue bendecida con un don similar, y por eso la eligieron para servir como videntes.
+TEXT_LUCKSA002_03835_MIKOTO_000_173	Aunque yo también poseo el Echo, no tengo la capacidad de asomarme al pasado como usted, y por eso no he podido emplear el poder de estos cristales.
+TEXT_LUCKSA002_03835_GEROLT_000_174	Por eso te llamamos.
+TEXT_LUCKSA002_03835_MIKOTO_000_175	Hasta ahora no podía más que plantear teorías. Pero con su ayuda, ya puedo ponerlas a prueba.
+TEXT_LUCKSA002_03835_MIKOTO_000_176	Y usted, maestro Gerolt, será mi primer sujeto de prueba.
+TEXT_LUCKSA002_03835_MIKOTO_000_250	<split(<string(gstr1)>, ,1)>, quisiera que recuerde la última vez que experimentó el Echo. Concéntrese en esa sensación.<br>Maestro Gerolt, necesito que evoque un recuerdo del pasado. Puede ser cualquiera.
+TEXT_LUCKSA002_03835_GEROLT_000_251	Más te vale no ponerte a hurgar por ahí y sacar algo desagradable, ¿oíste, muchacha?
+TEXT_LUCKSA002_03835_MIKOTO_000_252	Por favor, maestro Gerolt. ¡Concéntrese!
+TEXT_LUCKSA002_03835_MIKOTO_000_253	Esto es... de lo más inesperado. Por razones que aún no puedo explicar, parece que el Echo me permitió acompañarle en su recuerdo.
+TEXT_LUCKSA002_03835_ROWENA_000_254	Eres un herrero capaz, Gerolt, eso no se niega. Pero aguantas el dinero tan bien como el licor.
+TEXT_LUCKSA002_03835_GEROLT_000_255	¿Y de qué maldita cosa sirve el dinero si no se gasta? Uno tiene que vivir un poco, Rowena.
+TEXT_LUCKSA002_03835_ROWENA_000_256	Sí, y a uno tampoco le haría daño usar la cabeza. Con todo ese talento tuyo, creo que ya tendrías una pequeña fortuna. Podrías ser <italic(1)>tú<italic(0)> el que estuviera en el Syndicate en lugar de Godbert.
+TEXT_LUCKSA002_03835_GEROLT_000_257	Como si alguna vez quisiera parecerme a ese vejestorio medio desnudo...
+TEXT_LUCKSA002_03835_GEROLT_000_258	No sabía que tenía tan buena memoria.
+TEXT_LUCKSA002_03835_MIKOTO_000_259	Como ve, la memoria implícita es sorprendentemente completa. Desde el cielo despejado y las olas hasta las palabras exactas de la conversación, todo parece haberse conservado a la perfección.
+TEXT_LUCKSA002_03835_GEROLT_000_260	Tú... ¿no estabas oyendo eso, verdad?
+TEXT_LUCKSA002_03835_ROWENA_000_261	¡Cada vez que alguien te da un buen consejo, das media vuelta y haces justo lo contrario! Antes me gustaba esa vena rebelde tuya, pero ahora veo que eres un maldito idiota. \<suspiro> La verdad, no sé qué fue lo que vi en ti.
+TEXT_LUCKSA002_03835_GEROLT_000_262	Sea lo que sea que hayas visto, no es que yo haya cambiado desde entonces.
+TEXT_LUCKSA002_03835_GEROLT_000_263	Y tú tampoco... Sigues tan hermosa como el día en que nos conocimos.
+TEXT_LUCKSA002_03835_GEROLT_000_264	¡Oye, espera un momento! ¡Yo jamás dije <italic(1)>nada<italic(0)> así! ¡Lo juro por mi último tarro de cerveza!
+TEXT_LUCKSA002_03835_MIKOTO_000_265	Los recuerdos implícitos, aunque muy completos, no siempre son fieles a los hechos. En el caso de experiencias dolorosas o indeseables, pueden ofuscarse para protegernos de verdades duras.
+TEXT_LUCKSA002_03835_MIKOTO_000_266	Nuestra percepción de la realidad también puede distorsionarlos, incluso desde que se guardan en la mente. Luego, con el tiempo, esas distorsiones crecen. Los recuerdos felices se vuelven más dichosos; los tristes, aún más amargos.
+TEXT_LUCKSA002_03835_MIKOTO_000_267	La memoria explícita es especialmente sensible a esas tergiversaciones, pues uno tiende a recordar lo que más le conviene a su visión del mundo. Por eso buscamos la implícita, porque ahí es donde más probablemente hallemos la verdad.
+TEXT_LUCKSA002_03835_GEROLT_000_268	¿¡La verdad!? ¡Rowena y yo estuvimos aquí hace apenas una semana! ¡No me digas que mi memoria es tan malditamente poco fiable!
+TEXT_LUCKSA002_03835_MIKOTO_000_269	Un autoengaño, tal vez. Como dije antes, la mente tiene sus maneras de ocultar los recuerdos dolorosos.
+TEXT_LUCKSA002_03835_GEROLT_000_270	Eh... No me siento muy bien. Si me disculpan.
+TEXT_LUCKSA002_03835_MIKOTO_000_271	Como puede ver, estos cristales nos permiten elegir puntos específicos del pasado de una persona para observarlos a voluntad. Sin embargo, a diferencia del Echo, lo que veamos no siempre será como de verdad fue.
+TEXT_LUCKSA002_03835_BAISHAEN_000_272	Pero aún queda por encontrar a alguien que haya visto las réplicas y sus inscripciones.
+TEXT_LUCKSA002_03835_MARSHAK_000_273	En este momento, igual podríamos estar buscando a un fantasma.
+TEXT_LUCKSA002_03835_MARSHAK_000_274	Tras la invasión garleana, Bozja quedó casi aislada del mundo. Nadie podía entrar ni salir, lo que significa que todos sus habitantes, y probablemente cualquiera que haya visto las armas, murieron al destruirse la ciudadela.
+TEXT_LUCKSA002_03835_MARSHAK_000_275	...Hmm. ¿Y los soldados apostados allí que estuvieran fuera en el momento del incidente? Bah, aunque pudiéramos encontrarlos, dudo que se pudiera convencerlos de cooperar.
+TEXT_LUCKSA002_03835_MIKOTO_000_276	¡Ahh!
+TEXT_LUCKSA002_03835_CID_000_277	¡No, por favor! Lord Varis... ¡Nooo!
+TEXT_LUCKSA002_03835_MIKOTO_000_278	¿Usted... también lo vio? Mis visiones, ellas... no son de lo que ya pasó... sino de lo que está por venir.
+TEXT_LUCKSA002_03835_MIKOTO_000_279	¿Será que el cristal nos permitió compartir también mi visión?
+TEXT_LUCKSA002_03835_BAISHAEN_000_280	Mikoto, <split(<string(gstr1)>, ,1)>. ¿Están bien?
+TEXT_LUCKSA002_03835_BAISHAEN_000_281	¿Cid...? ¿Cid Garlond? ¿El hijo del monstruo detrás del proyecto Meteor?
+TEXT_LUCKSA002_03835_MARSHAK_000_282	Ahora que lo pienso, Yugiri mencionó que Doma y la Eorzean Alliance han recibido apoyo de Garlond Ironworks.
+TEXT_LUCKSA002_03835_MARSHAK_000_283	Pensé que el nombre de la compañía era mera casualidad, pero... ¿Quiere decir que Cid Garlond es el dueño?
+TEXT_LUCKSA002_03835_BAISHAEN_000_284	El hijo de Midas nan Garlond... vive...
+TEXT_LUCKSA002_03835_MARSHAK_000_285	Hay que llamarlo de inmediato. Si estuvo en la ciudadela antes de su destrucción, es muy posible que haya visto las réplicas.
+TEXT_LUCKSA002_03835_BAISHAEN_000_286	El destino es en verdad una amante cruel. Poner nuestras esperanzas en un garleano, nada menos que el engendro de ese bastardo de Midas. ¿De verdad no hay otra manera?
+TEXT_LUCKSA002_03835_MARSHAK_000_287	¡Bajsaljen, por favor!
+TEXT_LUCKSA002_03835_BAISHAEN_000_288	\<suspiro> ...Muy bien. Solo espero que nuestros camaradas caídos puedan perdonarnos.
+TEXT_LUCKSA002_03835_BAISHAEN_000_289	Por favor, tráiganos a ese Cid Garlond. Por el pueblo de Bozja. Por todo Ilsabard.
+TEXT_LUCKSA002_03835_GEROLT_000_295	Si no tiene que ver con mi forja, tendrá que esperar, <if(gnum4,muchacha,muchacho)>. Yo... necesito pensar.
+TEXT_LUCKSA002_03835_BAISHAEN_000_300	No creo que simpatice con nuestra situación, pero por lo que sé, tampoco siente aprecio por el Imperio. Si eso basta para convencerlo de ayudarnos, que así sea.
+TEXT_LUCKSA002_03835_BAISHAEN_000_301	Oí que hay ingenieros apostados en Rhalgr's Reach. Quizá pueda empezar a buscar a Garlond ahí.
+TEXT_LUCKSA002_03835_IRONWORKSCLERK_000_320	Oiga, ¿no es usted <split(<string(gstr1)>, ,1)>? ¿<if(gnum4,Salvadora,Salvador)> de Eorzea, <if(gnum4,libertadora,libertador)> de Ala Mhigo, y todo eso? Me llamo Lilja, la recluta más nueva de los Ironworks. ¿En qué puedo ayudarle?
+TEXT_LUCKSA002_03835_IRONWORKSCLERK_000_321	¿El jefe? Ocupadísimo, según Jessie. Pero entre usted y yo, creo que es puro...
+TEXT_LUCKSA002_03835_JESSIE_000_322	Ah, sigue, sigue. ¿Puro qué?
+TEXT_LUCKSA002_03835_IRONWORKSCLERK_000_323	Decía que debe ser puro <italic(1)>alivio<italic(0)> para usted saber que el jefe volvió de lo que sea que andaba haciendo. Y hablando de él, <split(<string(gstr1)>, ,1)> dijo que quería hablarle sobre... ¿qué era?
+TEXT_LUCKSA002_03835_JESSIE_000_324	Maldita sea, Lilja. Tendrás muy buen oído, pero no escuchas nada.
+TEXT_LUCKSA002_03835_JESSIE_000_325	\<suspiro> ...¿Te molestaría empezar otra vez desde el principio?
+TEXT_LUCKSA002_03835_JESSIE_000_326	Ya veo. Bueno, se te acaba de ir. Hay que darle mantenimiento a Seiryu's Wall, y quiso supervisarlo en persona. Dicho esto, cualquier asunto tuyo es prioridad absoluta. Veré si puedo contactarlo.
+TEXT_LUCKSA002_03835_IRONWORKSCLERK_000_327	¿Supongo que este es un día normal para usted? Debe ser duro. Siempre poniendo buena cara mientras la lanzan al peligro, con la gente jalándole de aquí para allá como si fuera <if(gnum4,la niña,el niño)> de los mandados.
+TEXT_LUCKSA002_03835_IRONWORKSCLERK_000_328	N-No es que no apreciemos lo que hace por nosotros. Bien sabe el cielo que yo sí. De hecho, bueno, verá...
+TEXT_LUCKSA002_03835_IRONWORKSCLERK_000_329	Soy algo así como su admiradora. Sabía que los Ironworks trabajaban con usted de vez en cuando, pero no pensé que tendría oportunidad de conocerle en persona. ¿Puedo... puedo darle la mano?
+TEXT_LUCKSA002_03835_JESSIE_000_330	¡Lilja! El alivio de que Cid volviera es para <italic(1)>mí<italic(0)>, no para ti. ¿No tienes trabajo que hacer?
+TEXT_LUCKSA002_03835_IRONWORKSCLERK_000_331	¡Ah, cierto! El trabajo. El deber me llama, ¡pero espero que nos veamos pronto!
+TEXT_LUCKSA002_03835_JESSIE_000_332	El jefe dice que te verá en el Doman Enclave. No es el lugar más cómodo, pero me temo que tendrá que servir.
+TEXT_LUCKSA002_03835_JESSIE_000_333	Una cosa más. El incidente de Bozja es un punto sensible para el jefe.
+TEXT_LUCKSA002_03835_JESSIE_000_334	Aunque haya sido un accidente, casi toda la gente fuera del Imperio lo recuerda como una masacre.
+TEXT_LUCKSA002_03835_JESSIE_000_335	El jefe intentó detener el experimento de su padre, pero sus ruegos cayeron en oídos sordos. Incluso ahora sigue culpándose por todo.
+TEXT_LUCKSA002_03835_JESSIE_000_336	"Debí esforzarme más", decía. "Pude haberlo salvado. Pude haberlos salvado a todos". Con todo su genio, y el hombre no halla la manera de perdonarse.
+TEXT_LUCKSA002_03835_JESSIE_000_337	Así que si vas a ponerte a hurgar en su pasado, ten cuidado. Me da terror pensar qué demonios tiene encerrados en ese cerebro suyo...
+TEXT_LUCKSA002_03835_IRONWORKSCLERK_000_350	Es dura como un blindaje de magitek cuando quiere, pero tiene el corazón en su lugar. Lástima que siempre esté tan ocupada.
+TEXT_LUCKSA002_03835_IRONWORKSCLERK_000_351	Igual que usted, si no me equivoco. No le entretengo más. ¡Mucha suerte!
+TEXT_LUCKSA002_03835_BAISHAEN_010_000	Creo que Mikoto puede explicar mejor la segunda parte de nuestro plan.
+TEXT_LUCKSA002_03835_BAISHAEN_010_001	A menos que... ¿haya algo más que quiera hablar?
+TEXT_LUCKSA002_03835_BAISHAEN_020_000	No creo que simpatice con nuestra situación, pero por lo que sé, tampoco siente aprecio por el Imperio. Si eso basta para convencerlo de ayudarnos, que así sea.
+TEXT_LUCKSA002_03835_BAISHAEN_020_001	Oí que hay ingenieros apostados en Rhalgr's Reach. Quizá pueda empezar a buscar a Garlond ahí.
+TEXT_LUCKSA002_03835_BAISHAEN_020_002	A menos que... ¿haya algo más que quiera hablar?
+TEXT_LUCKSA002_03835_Q10_000_000	¿Qué vas a decir?
+TEXT_LUCKSA002_03835_A10_000_000	Cuéntame sobre Bozja y la Resistance.
+TEXT_LUCKSA002_03835_A10_000_001	Cuéntame sobre Gangos.
+TEXT_LUCKSA002_03835_A10_000_002	Cuéntame sobre el incidente de Bozja.
+TEXT_LUCKSA002_03835_A10_000_003	Cuéntame sobre ti.
+TEXT_LUCKSA002_03835_A10_000_0010	Nada.
+TEXT_LUCKSA002_03835_BAISHAEN_100_200	Nuestro hogar está en el sur de Ilsabard, al oeste de Dalmasca.
+TEXT_LUCKSA002_03835_BAISHAEN_100_201	Nuestros registros más antiguos, o al menos los que pudimos recuperar, sugieren que Bozja se fundó en algún momento de la Tercera Era Astral. El Allagan Empire estaba en la cumbre de su poder, y varias tribus de hrothgar vinieron aquí a refugiarse de su dominio.
+TEXT_LUCKSA002_03835_BAISHAEN_100_202	Fue la Queen Gunnhildr quien mantuvo a raya a los allaganos. Su resplandor iluminó nuestro camino a la prosperidad, y por su gracia se fundó la nación de Bozja.
+TEXT_LUCKSA002_03835_BAISHAEN_100_203	Por desgracia, la Cuarta Calamidad Umbral acabó con su reino. Pero los supervivientes reconstruyeron poco a poco, y Bozja renació como una ciudad-estado que coexistió con las naciones vecinas durante siglos.
+TEXT_LUCKSA002_03835_BAISHAEN_100_204	El ascenso del Garlean Empire lo cambió todo. Nadie pudo oponerse a la fuerza y versatilidad de su ejército.
+TEXT_LUCKSA002_03835_BAISHAEN_100_205	Su campaña empezó hace unos cincuenta años, y una generación entera de nuestro pueblo creció sin conocer más que la opresión. Pero ahora conocerán la libertad.
+TEXT_LUCKSA002_03835_BAISHAEN_100_206	Cuando nos llegó la noticia de que Ala Mhigo y Doma se habían alzado contra el Imperio, aprovechamos la oportunidad de huir y formar focos de resistencia.
+TEXT_LUCKSA002_03835_BAISHAEN_100_207	Con ayuda de Lord Hien, los diversos grupos que se habían formado se unieron en una sola fuerza cohesionada, y me eligieron como su líder.
+TEXT_LUCKSA002_03835_BAISHAEN_100_208	Sin embargo, si la IVth Imperial Legion logra consolidar sus fuerzas en Bozja, nuestros esfuerzos habrán sido en vano. Debemos contraatacar, y pronto.
+TEXT_LUCKSA002_03835_BAISHAEN_100_300	Por ahora, esta es nuestra base de operaciones, al sureste de lo que queda de la Bozja Citadel. Cuando empiece la lucha, aquí resistiremos.
+TEXT_LUCKSA002_03835_BAISHAEN_100_301	Por fortuna, los humedales de los alrededores y la niebla que persiste todo el año han servido para ocultar nuestra operación. Lo que no quiere decir, claro, que no hayamos tomado otras medidas para no ser descubiertos.
+TEXT_LUCKSA002_03835_BAISHAEN_100_302	En el improbable caso de que sus exploradores se acerquen al perímetro, nuestros magos lanzaron un hechizo de ocultación sobre la zona para que no nos vean.
+TEXT_LUCKSA002_03835_BAISHAEN_100_303	Refugios como este abundan en la costa sur de Ilsabard. Admito que nuestras instalaciones son bastante modestas, pero me gusta pensar que hemos avanzado mucho en proveer para nuestros soldados aquí.
+TEXT_LUCKSA002_03835_BAISHAEN_100_304	Gracias a la generosidad de nuestros aliados del Este, y de la Eorzean Alliance, no nos faltan provisiones ni armas. Solo falta conseguir las hojas de Gunnhildr.
+TEXT_LUCKSA002_03835_BAISHAEN_100_400	Fue hace unos veinte años, si no me equivoco. El Imperio, temeroso de la amenaza de los primals y de las tribus que los invocan, ideó un plan para aniquilarlos.
+TEXT_LUCKSA002_03835_BAISHAEN_100_401	El proyecto Meteor. Mediante el magitek, pretendían recrear la antigua hechicería capaz de hacer caer meteoros.
+TEXT_LUCKSA002_03835_BAISHAEN_100_402	Al frente del proyecto estaba su ingeniero jefe, Midas nan Garlond. Con el tiempo, todos sus centros de investigación participaron en el desarrollo.
+TEXT_LUCKSA002_03835_BAISHAEN_100_403	El proyecto dio un giro peligroso cuando se descubrió que la luna menor, Dalamud, era en realidad un satélite de diseño allagano. Estaban decididos a hacerlo parte de sus planes.
+TEXT_LUCKSA002_03835_BAISHAEN_100_404	Y así erigieron una torre de transmisión colosal, diseñada para controlar a Dalamud. Su primera prueba resultó ser también la última...
+TEXT_LUCKSA002_03835_BAISHAEN_100_405	A falta de testigos, es difícil describir lo que pasó después. Suele hablarse de una explosión, pero las ruinas no mostraron rastros de pólvora ni de magia. Solo sabemos que esa noche brilló una luz terrible desde el cielo.
+TEXT_LUCKSA002_03835_BAISHAEN_100_406	En un instante, la ciudadela desapareció. Sus ciudadanos y soldados... mi familia...
+TEXT_LUCKSA002_03835_BAISHAEN_100_407	Nadie sabe con certeza por qué Dalamud respondió con semejante fuerza destructiva, pero todo el trabajo del proyecto Meteor se detuvo de inmediato.
+TEXT_LUCKSA002_03835_BAISHAEN_100_408	Sin embargo, cinco años después, Nael van Darnus volvió a poner en marcha el proyecto. Su devoción fue recompensada con la llegada de la Séptima Calamidad Umbral.
+TEXT_LUCKSA002_03835_BAISHAEN_100_409	El mundo ya pagó un precio demasiado alto por la ambición de los garleanos... Hay que detenerlos.
+TEXT_LUCKSA002_03835_BAISHAEN_100_500	Nací en Bozja, aunque nunca conocí una vida libre del yugo del Imperio.
+TEXT_LUCKSA002_03835_BAISHAEN_100_501	Siguiendo los pasos de mi difunto padre, estudié para ser médico. Para mi sorpresa y mi pesar, mis logros académicos no pasaron desapercibidos. Me llevaron a la capital, donde recibí educación formal en ciencias médicas. Pronto me desplegaron como médico en su ejército.
+TEXT_LUCKSA002_03835_BAISHAEN_100_502	Mi servicio fue recompensado al final con la ciudadanía, tras lo cual conocí a mi esposa y formamos una familia. Si su meta era que me conformara y me acomodara, fracasó, pues no pasó un día en que no pensara en la liberación de mi patria.
+TEXT_LUCKSA002_03835_BAISHAEN_100_503	Pero tendría que esperar un poco más, pues me asignaron a la IVth Imperial Legion. Hubo un levantamiento en Nagxia, y nos tocó sofocarlo. Solo al terminar la misión supe lo que le había pasado a Bozja. A mi familia...
+TEXT_LUCKSA002_03835_BAISHAEN_100_504	Volvimos lo más rápido que pudimos, pero no quedaba nada de la ciudadela.
+TEXT_LUCKSA002_03835_BAISHAEN_100_505	Me ordenaron volver a la capital, pero tenía que encontrar a mi esposa y a mis hijos. Recorrí cada ilm de ese páramo estéril... y nada.
+TEXT_LUCKSA002_03835_BAISHAEN_100_506	Cadenas y una celda me dieron la bienvenida de vuelta en Garlemald, pero pese a mi encierro, acabaron por llegarme rumores de lo ocurrido en Bozja. De sus experimentos fallidos para controlar a Dalamud.
+TEXT_LUCKSA002_03835_BAISHAEN_100_507	Despojado de mi ciudadanía, esperaba quedarme bajo llave hasta el fin de mis días. Por suerte para mí, necesitaban más médicos para su siguiente campaña.
+TEXT_LUCKSA002_03835_BAISHAEN_100_508	Pero nunca llegué al campo de batalla, pues escapé con otros soldados para unirme a la Resistance.
+TEXT_LUCKSA002_03835_BAISHAEN_100_509	Muchos años de servicio en la Resistance me moldearon hasta ser quien tiene ahora delante. Y seguiré sirviendo el tiempo que haga falta para ver a mi patria a salvo del Imperio.
+TEXT_LUCKSA002_03835_MARSHAK_010_000	Contamos con la ayuda de una erudita de Sharlayan que podrá explicar mejor los detalles de nuestro plan.
+TEXT_LUCKSA002_03835_MARSHAK_010_001	A menos, claro, que tenga otra pregunta para mí.
+TEXT_LUCKSA002_03835_MARSHAK_020_000	No sorprende que conozca a Cid Garlond. Solo espero que no esté tan absorto en su trabajo como para no hallar tiempo de ayudarnos.
+TEXT_LUCKSA002_03835_MARSHAK_020_001	No le entretengo. A menos, claro, que desee preguntarme algo.
+TEXT_LUCKSA002_03835_Q20_000_000	¿Qué vas a decir?
+TEXT_LUCKSA002_03835_A20_000_000	Cuéntame sobre la IVth Imperial Legion.
+TEXT_LUCKSA002_03835_A20_000_001	Cuéntame sobre el Legatus Noah van Gabranth.
+TEXT_LUCKSA002_03835_A20_000_002	Cuéntame sobre Castrum Lacus Litore.
+TEXT_LUCKSA002_03835_A20_000_003	Cuéntame sobre ti.
+TEXT_LUCKSA002_03835_A20_000_0010	Nada.
+TEXT_LUCKSA002_03835_MARSHAK_200_200	La invasión inicial de Bozja la dirigió Basch van Gabranth. Sin embargo, poco después hubo un cambio de mando.
+TEXT_LUCKSA002_03835_MARSHAK_200_201	Hace treinta años, durante la invasión de Dalmasca, su salud empeoró inesperadamente y su hijo, Noah van Gabranth, supervisó la conquista hasta el final. Tenía apenas veinte años cuando asumió el mando completo.
+TEXT_LUCKSA002_03835_MARSHAK_200_202	La IVth Imperial Legion es bastante singular, pues la mayor parte de sus fuerzas no son garleanos de nacimiento, incluido su líder actual.
+TEXT_LUCKSA002_03835_MARSHAK_200_203	Por lo que me han dicho, tanto Noah como su padre se apresuraron a rendirle pleitesía al Emperador Solus. Quizá fue esa lealtad ferviente lo que les ayudó a alcanzar tal prominencia.
+TEXT_LUCKSA002_03835_MARSHAK_200_204	Pero no todos fueron tan fervientes seguidores del Imperio. Al contrario, me atrevería a decir que la mayoría de sus soldados eran como nosotros, sin más remedio que servir para no acabar pasados por la espada.
+TEXT_LUCKSA002_03835_MARSHAK_200_205	Aunque supongo que la lealtad inquebrantable de la IVth Imperial Legion es lo que la distingue del resto. O, más exactamente, su lealtad a Noah van Gabranth.
+TEXT_LUCKSA002_03835_MARSHAK_200_206	Además, verá que no suelen depender de las armas magitek como la mayoría de los soldados imperiales.
+TEXT_LUCKSA002_03835_MARSHAK_200_207	De hecho, parecen preferir pelear a la antigua, con magia arcana, técnicas afines a la invocación y toda clase de bestias salvajes, en vez de depender de la artillería pesada.
+TEXT_LUCKSA002_03835_MARSHAK_200_208	Aunque, si hemos de creer los informes recientes, eso será lo que menos nos preocupe. Dicen que los batallones en camino a Bozja van al mando de Lyon sas Helsos.
+TEXT_LUCKSA002_03835_MARSHAK_200_209	Es un estratega cuya astucia solo se compara con su fama de domador de bestias, y se rumorea que él solo vale más que mil soldados rasos. Podría decirse que tiene historia con la Resistance.
+TEXT_LUCKSA002_03835_MARSHAK_200_300	Ah, sí, el líder de la IVth Imperial Legion, uno de los más jóvenes en ocupar jamás ese puesto. Su padre, Basch van Gabranth, fue legatus antes que él, y obtuvo muchas victorias en nombre del Imperio.
+TEXT_LUCKSA002_03835_MARSHAK_200_301	Basch era un caballero de la República de Landis que, como tantas otras naciones, cayó pronto a manos del Imperio. En vez de morir con dignidad, se apresuró a arrodillarse ante sus conquistadores, se ganó el favor del Emperador y obtuvo su puesto de legatus.
+TEXT_LUCKSA002_03835_MARSHAK_200_302	Fue toda una hazaña, dado que no era de sangre garleana. Solo se puede imaginar hasta dónde llegó para ganarse su confianza, pero es evidente que se esforzó mucho por conservarla.
+TEXT_LUCKSA002_03835_MARSHAK_200_303	Su salud empeoró inesperadamente durante la invasión de Dalmasca, lo que le dio a Noah la oportunidad que necesitaba para destacar. Y fue bajo el mando de Noah que cayó Rabanastre.
+TEXT_LUCKSA002_03835_MARSHAK_200_304	Luego, cuando su padre falleció dos años después, lo nombraron legatus de la IVth Imperial Legion.
+TEXT_LUCKSA002_03835_MARSHAK_200_305	Muchos creen que la conquista de Dalmasca le ganó el puesto, pero algunos sostienen que lo nombraron por recomendación del Emperador, quizá en reconocimiento al servicio de su padre.
+TEXT_LUCKSA002_03835_MARSHAK_200_306	Sea cual sea la razón, Noah siguió los pasos de su padre. La IVth Imperial Legion siguió compuesta sobre todo por soldados extranjeros, y su lealtad al nuevo legatus fue inquebrantable.
+TEXT_LUCKSA002_03835_MARSHAK_200_307	Cabría esperar que semejante legión siguiera en la gracia del Emperador, pero no fue así cuando Varis subió al trono. Durante varios años la destinó a sofocar levantamientos en provincias remotas, como para mantenerla a distancia.
+TEXT_LUCKSA002_03835_MARSHAK_200_308	Quizá sospechaba que los Gabranth tenían un motivo oculto para buscar tan ferviente adoración de la IVth Imperial Legion. No tengo pruebas, claro, pero uno no puede evitar preguntarse...
+TEXT_LUCKSA002_03835_MARSHAK_200_400	Antes se conocía como Alermuc Fortress, erigida con la esperanza de disuadir a los garleanos. Tras el incidente de Bozja fue reconstruida y recibió un nuevo nombre: Castrum Lacus Litore.
+TEXT_LUCKSA002_03835_MARSHAK_200_401	Su posición al norte de Bozja la convertirá en un punto estratégico crítico en las batallas por venir. Si queremos tener alguna esperanza de recuperar Bozja, primero debemos hacernos con el castrum.
+TEXT_LUCKSA002_03835_MARSHAK_200_402	El lugar se eligió en su origen por sus defensas naturales. Rodeada por todos lados de acantilados escarpados, Alermuc Fortress era casi inexpugnable. Siempre que uno tuviera los medios para defenderla, claro.
+TEXT_LUCKSA002_03835_MARSHAK_200_403	Cuando llegaron los garleanos, sus armas magitek no se parecían a nada que hubiéramos visto. Se perdieron muchas vidas en la lucha por conservar la fortaleza, y al final simplemente nos superaron.
+TEXT_LUCKSA002_03835_MARSHAK_200_404	Actualmente, el castrum está en manos del segundo al mando del Legatus Gabranth, Menenius rem Lanatus. Una elección interesante, como mínimo.
+TEXT_LUCKSA002_03835_MARSHAK_200_405	Los Lanatus son una familia conocida de linaje largo y augusto. Es decir, hasta que incurrieron en la ira del Emperador, lo que manchó su nombre y les arrebató su posición en la sociedad garleana.
+TEXT_LUCKSA002_03835_MARSHAK_200_406	Y sin embargo, Basch van Gabranth eligió a miembros de esa familia para servir bajo su mando. Tal vez percibió su desesperación por redimir su honor. De ser así, el camino a la redención es largo de verdad, pues dos generaciones de Lanatus han servido a los Gabranth.
+TEXT_LUCKSA002_03835_MARSHAK_200_407	Imagine el reconocimiento que recibirían por frustrar nuestros intentos de tomar la fortaleza. Puede estar segur<if(gnum4,a,o)> de que hará todo lo que esté en su poder para detenernos.
+TEXT_LUCKSA002_03835_MARSHAK_200_500	Sirvo principalmente de enlace entre la Bozjan Resistance y nuestros aliados. No niego que aún tengo mucho que aprender, pero haré todo lo que esté en mi poder para ver a Bozja libre del Imperio. Si eso me cuesta la vida, que así sea.
+TEXT_LUCKSA002_03835_MARSHAK_200_501	¿Usted... desea saber de mi pasado? No es distinto del de casi todos, imagino: reclutado por el Imperio, que es la única razón por la que no estaba en la ciudadela para morir junto a mi familia en el incidente de Bozja.
+TEXT_LUCKSA002_03835_MARSHAK_200_502	Algunos lo llaman una masacre planeada por el Imperio, pero no estoy dispuesto a creer que matarían voluntariamente a tantos de sus propios soldados e ingenieros.
+TEXT_LUCKSA002_03835_MARSHAK_200_503	Criado bajo la doctrina garleana, comprendo que no todos son los monstruos sanguinarios que muchos de nosotros pintamos. Aunque el Imperio quiera oprimirnos, no comparto la misma animosidad hacia sus ciudadanos que mis camaradas de la Resistance.
+TEXT_LUCKSA002_03835_MARSHAK_200_504	Pero estas son reflexiones que mejor quedan entre nosotros dos, ¿verdad? No quisiera que los demás me creyeran un cobarde o un traidor a nuestra causa.
+TEXT_LUCKSA002_03835_MEESIYA_010_000	¿Por casualidad usted y Mikoto se conocen? Sus explicaciones pueden ser... enrevesadas a veces, pero confío en que pueda aclarar nuestros planes.
+TEXT_LUCKSA002_03835_MEESIYA_010_001	...¿Hay algo más que desee preguntarme?
+TEXT_LUCKSA002_03835_MEESIYA_020_000	El hijo de Midas nan Garlond. Un desertor imperial... Vaya, qué compañía tan curiosa tenemos.
+TEXT_LUCKSA002_03835_MEESIYA_020_001	Ejem. Perdóneme. ¿Necesita algo?
+TEXT_LUCKSA002_03835_Q30_000_000	¿Qué vas a decir?
+TEXT_LUCKSA002_03835_A30_000_000	Cuéntame sobre la Queen Gunnhildr.
+TEXT_LUCKSA002_03835_A30_000_001	Cuéntame sobre los Gunnhildr's Blades.
+TEXT_LUCKSA002_03835_A30_000_002	Cuéntame sobre las armas que planean forjar.
+TEXT_LUCKSA002_03835_A30_000_003	Cuéntame sobre ti.
+TEXT_LUCKSA002_03835_A30_000_0010	Nada.
+TEXT_LUCKSA002_03835_MEESIYA_400_200	Durante la Tercera Era Astral, la Queen Gunnhildr unió a las tribus fragmentadas de hrothgar para alzarse y expulsar a los allaganos, y luego fundó la nación de Bozja.
+TEXT_LUCKSA002_03835_MEESIYA_400_201	Cabe señalar que Gunnhildr no era su nombre, sino un título que recibía la monarca de cada época. El hilo común de todas las soberanas de Bozja es su capacidad de leer las estrellas. Hubo otras que compartieron esa capacidad, pero se dice que ellas fueron las mayores videntes de sus respectivas épocas.
+TEXT_LUCKSA002_03835_MEESIYA_400_202	También se dice que fueron grandes guerreras. Al combatir a los allaganos o a cualquier otro invasor, a la reina siempre se la encontraba al mando desde el frente.
+TEXT_LUCKSA002_03835_MEESIYA_400_203	Por desgracia, Bozja cayó a raíz de la Cuarta Calamidad Umbral. Por algún milagro, unos pocos sobrevivieron y lograron construir lo que conocimos como la ciudad-estado de Bozja.
+TEXT_LUCKSA002_03835_MEESIYA_400_300	Eran la guardia de élite de la reina, maestros de innumerables armas y magias, y se dice que fueron los mayores guerreros de su época.
+TEXT_LUCKSA002_03835_MEESIYA_400_301	Su destreza en combate solo se comparaba con su devoción a la Queen Gunnhildr. No dudaban en dar la vida a su servicio. Y si uno de estos guerreros caía en batalla, su hoja sagrada pasaba a un sucesor digno.
+TEXT_LUCKSA002_03835_MEESIYA_400_302	Con el tiempo, su título de Gunnhildr's Blades se volvió sinónimo de la gunblade, que alcanzó gran renombre durante la guerra contra los allaganos.
+TEXT_LUCKSA002_03835_MEESIYA_400_303	No hay bozjano vivo que no conozca las historias de su heroísmo. No tengo duda de que volver a forjar estas armas nos dará la fuerza y la determinación que necesitamos para triunfar.
+TEXT_LUCKSA002_03835_MEESIYA_400_400	Con la ayuda del maestro Gerolt, tenemos casi todo lo necesario para volver a forjar las armas de la guardia de la Queen Gunnhildr.
+TEXT_LUCKSA002_03835_MEESIYA_400_401	Aunque es cierto que las leyendas de su poder inspiran, llamarlas simplemente las hojas de Gunnhildr no las distinguiría de las armas de antaño. Después de todo, no queremos dar la impresión de que se recuperaron las originales.
+TEXT_LUCKSA002_03835_MEESIYA_400_402	Tras pensarlo mucho, el maestro Gerolt ofreció una sugerencia simple y sorprendentemente satisfactoria: "armas Resistance".
+TEXT_LUCKSA002_03835_MEESIYA_400_403	También hizo una observación bastante curiosa sobre los pasos de su forja: que estas armas pueden mejorarse más según los enemigos que se enfrenten.
+TEXT_LUCKSA002_03835_MEESIYA_400_404	Por lo que dice, estas armas nunca están realmente completas hasta que cumplen su propósito.
+TEXT_LUCKSA002_03835_MEESIYA_400_500	Hace dos años que me uní a la Resistance. Antes viví como todos los bozjanos, bajo el duro yugo del Imperio.
+TEXT_LUCKSA002_03835_MEESIYA_400_501	Es la única vida que he conocido, aunque mis padres me hablaban a menudo de lo que recordaban de los días de la Bozja independiente.
+TEXT_LUCKSA002_03835_MEESIYA_400_502	Aunque fue bajo el amparo de nuestros opresores garleanos, me formé en arqueología prehistórica.
+TEXT_LUCKSA002_03835_MEESIYA_400_503	Agradezco las oportunidades que me dio, pero no podía cerrar los ojos ante el sufrimiento de mi pueblo. Así que me fui para unirme a la Resistance.
+TEXT_LUCKSA002_03835_MEESIYA_400_504	Fui yo quien propuso volver a forjar las legendarias armas de la guardia de la Queen Gunnhildr, y Bajsaljen decidió confiar en mi plan. Me anima saber que todo lo que aprendí del Imperio se usará para bien.
+TEXT_LUCKSA002_03835_MIKOTO_020_000	Nuestra exploración de los recuerdos del maestro Gerolt fue un éxito. En buena parte por la confianza que le tiene a usted, sospecho.
+TEXT_LUCKSA002_03835_MIKOTO_020_001	Y qué suerte para nosotros que además conozca bien a Cid. Seguro que tiene mucho que preparar, así que no le entretengo.
+TEXT_LUCKSA002_03835_MIKOTO_020_002	...¿Había algo más?
+TEXT_LUCKSA002_03835_Q40_000_000	¿Qué vas a decir?
+TEXT_LUCKSA002_03835_A40_000_000	Cuéntame sobre los videntes.
+TEXT_LUCKSA002_03835_A40_000_001	Cuéntame sobre el foco de cristal.
+TEXT_LUCKSA002_03835_A40_000_002	Cuéntame sobre la exploración de la memoria.
+TEXT_LUCKSA002_03835_A40_000_003	Cuéntame sobre tu don.
+TEXT_LUCKSA002_03835_A40_000_004	Cuéntame sobre ti.
+TEXT_LUCKSA002_03835_A40_000_0010	Nada.
+TEXT_LUCKSA002_03835_MIKOTO_300_200	Aunque son escasos, los registros encontrados hasta ahora sugieren que las prácticas de los videntes se remontan a la Cuarta Era Astral.
+TEXT_LUCKSA002_03835_MIKOTO_300_201	En aquellos días, la región sufría toda clase de desastres naturales, lo que provocó gran inquietud no solo entre los bozjanos, sino también en las naciones vecinas.
+TEXT_LUCKSA002_03835_MIKOTO_300_202	Fue en esos tiempos tumultuosos cuando aparecieron los primeros videntes. De hecho, tengo razones para creer que poseían el Echo.
+TEXT_LUCKSA002_03835_MIKOTO_300_203	Con un foco de cristal, podían ahondar en la mente de los abatidos y los afligidos, buscar sus recuerdos más oscuros y alterarlos para aliviar la carga de la gente.
+TEXT_LUCKSA002_03835_MIKOTO_300_204	Quizá veían la alteración de las mentes como necesaria para su supervivencia, pero hoy en día debemos considerar las implicaciones éticas de esos métodos. No tengo duda de que mis superiores en Sharlayan los considerarían reprobables.
+TEXT_LUCKSA002_03835_MIKOTO_300_300	Mi análisis inicial de los cristales sugiere que están hechos por el hombre. Nada en mis datos prueba que los materiales sean exclusivos de esta región, lo que me lleva a creer que los crearon los bozjanos, o más bien los videntes.
+TEXT_LUCKSA002_03835_MIKOTO_300_301	Sin embargo, dado el intrincado entramado de estos cristales, parece muy improbable que los bozjanos pudieran producirlos con los métodos que tenían en la Cuarta Era Astral.
+TEXT_LUCKSA002_03835_MIKOTO_300_302	De hecho, al examinarlos más de cerca, quedó claro que su estructura es bastante similar a la de las construcciones allaganas.
+TEXT_LUCKSA002_03835_MIKOTO_300_303	Lo que plantea la pregunta: ¿quiénes eran los videntes, y de dónde venían? Es solo una hipótesis de trabajo, pero sospecho que sus raíces se remontan a los propios allaganos, quizá supervivientes de la Cuarta Calamidad Umbral que deseaban expiar los pecados de sus antepasados.
+TEXT_LUCKSA002_03835_MIKOTO_300_304	Vinieron a estas tierras buscando una manera de ayudar a los bozjanos, y para eso crearon estos focos de cristal.
+TEXT_LUCKSA002_03835_MIKOTO_300_305	...Ejem. Como dije, es solo una hipótesis de trabajo. Aunque entiendo si suena más a fantasía.
+TEXT_LUCKSA002_03835_MIKOTO_300_400	Quizá debería empezar con una explicación sencilla, como antes. Consideremos la composición del aether de una persona, ¿le parece? Está el aether corpóreo de la carne, el aether incorpóreo del alma y el residuo aetérico de los recuerdos del individuo.
+TEXT_LUCKSA002_03835_MIKOTO_300_401	Si alguien poseyera solo aether corpóreo, no sería más que un cadáver andante. A la inversa, a las entidades hechas solo de aether incorpóreo la gente común las llama fantasmas. Por supuesto, un fantasma con recuerdos residuales probablemente podría recordar su pasado y conservar la conciencia de sí mismo.
+TEXT_LUCKSA002_03835_MIKOTO_300_402	Con un foco de cristal podemos aislar la firma aetérica de los recuerdos, igual que los videntes. Luego podemos ahondar en recuerdos específicos evocados por el sujeto y explorarlos.
+TEXT_LUCKSA002_03835_MIKOTO_300_403	Pero debemos tener cuidado con lo que observamos, pues aunque la información guardada en la memoria puede ser muy completa, no siempre es fiel a los hechos. Puede distorsionarse con el paso del tiempo, o incluso al guardarse por primera vez, debido a los prejuicios personales.
+TEXT_LUCKSA002_03835_MIKOTO_300_404	Por eso es importante distinguir entre memoria explícita e implícita.
+TEXT_LUCKSA002_03835_MIKOTO_300_405	Los recuerdos explícitos son los que se guardan y evocan de manera consciente, mientras que los implícitos los acumula nuestro subconsciente de forma más pasiva.
+TEXT_LUCKSA002_03835_MIKOTO_300_406	Al conocer a alguien por primera vez, su apariencia se guarda en la memoria explícita, aunque puede desvanecerse con el tiempo. Si pasa mucho tiempo sin verlo, recordarlo puede resultar difícil.
+TEXT_LUCKSA002_03835_MIKOTO_300_407	Y sin embargo, en ese momento la mente también registra todo lo que experimenta el sistema nervioso sensorial.
+TEXT_LUCKSA002_03835_MIKOTO_300_408	Por desgracia, la información sacada de la memoria explícita es muy sensible a las tergiversaciones. Después de todo, si un individuo decide activamente recordar algo, ¿quién dice que no lo alterará a su gusto?
+TEXT_LUCKSA002_03835_MIKOTO_300_409	Por eso buscamos información en la memoria implícita, que es más probable que se conserve libre de los prejuicios de la visión del mundo del individuo.
+TEXT_LUCKSA002_03835_MIKOTO_300_500	El Echo puede manifestarse de innumerables maneras según la persona. A mí se me concedió la capacidad de asomarme al futuro.
+TEXT_LUCKSA002_03835_MIKOTO_300_501	Es un poder muy parecido a los sueños proféticos y las adivinaciones, y sin embargo bastante distinto, pues esas visiones solo hablan del futuro posible.
+TEXT_LUCKSA002_03835_MIKOTO_300_502	El Echo no me muestra lo que puede pasar, sino lo que <italic(1)>va a<italic(0)> pasar.
+TEXT_LUCKSA002_03835_MIKOTO_300_503	Los eruditos especulan que Mezaya Thousand Eyes también compartía este don, de ahí la alarmante exactitud de los pasajes escritos en sus <italic(1)>Divine Chronicles<italic(0)>.
+TEXT_LUCKSA002_03835_MIKOTO_300_504	Estas visiones son decididamente raras, y suelen contener alguna clave crucial sobre lo que tengo delante en el momento. Para bien o para mal, nunca he tenido visiones de una amenaza inminente contra mi vida o la de quienes me rodean.
+TEXT_LUCKSA002_03835_MIKOTO_300_505	No es que quiera ver esas cosas, claro. ¿Se imagina saber de una perdición segura que no se puede evitar?
+TEXT_LUCKSA002_03835_MIKOTO_300_506	Una vez le conté mis visiones a una conocida, un vistazo relativamente inofensivo del futuro, y acabó en una discusión terrible. Temo no poder soportar el peso de noticias más sombrías...
+TEXT_LUCKSA002_03835_MIKOTO_300_507	Pero eso no viene al caso. Mi don es algo trivial. Nada en lo que deba pensar en confiar.
+TEXT_LUCKSA002_03835_MIKOTO_300_600	¿¡Sobre mí!? ¡Oh, de verdad no hay mucho que contar, se lo aseguro!
+TEXT_LUCKSA002_03835_MIKOTO_300_601	Bueno, si insiste... Gracias a mis estudios adelantados entré al Studium mucho antes que la mayoría. Mi investigación en aetherología me valió con el tiempo el título de Archon. Cuando no estoy investigando en el campo, doy clases en el Studium.
+TEXT_LUCKSA002_03835_MIKOTO_300_602	Moenbryda es, eh... fue... mi mentora. No sería la erudita que soy si no fuera por ella. Tengo gratos recuerdos de las muchas noches en que trabajamos juntas en sus planes originales del sifón aetérico. Fue como una hermana para mí.
+TEXT_LUCKSA002_03835_MIKOTO_300_603	Hablando de eso, tengo una hermana, en realidad. Gemela idéntica, de hecho. Aunque no hablamos desde que a ella también la nombraron Archon.
+TEXT_LUCKSA002_03835_MIKOTO_300_604	Me superaba en todos los aspectos académicos, pero a menudo discrepaba de las opiniones del Forum. Solo puedo suponer que por eso dejó el Studium.
+TEXT_LUCKSA002_03835_MIKOTO_300_605	Siempre fue de voluntad fuerte y bastante crítica con quienes la rodeaban. Por desgracia, nunca nos llevamos muy bien de niñas. A menudo me pregunto si por eso Moenbryda me tomó tan pronto bajo su ala.
+TEXT_LUCKSA002_03835_MIKOTO_300_606	Todavía la veo, en mis sueños. Siempre con una sonrisa cálida y palabras de aliento.
+TEXT_LUCKSA002_03835_MIKOTO_300_607	Si usáramos el foco de cristal, quizá habría manera de hablar con ella otra vez. Una perspectiva tentadora, pero al final sé que no sería realmente ella...

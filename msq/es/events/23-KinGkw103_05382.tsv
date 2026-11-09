@@ -1,0 +1,58 @@
+key	text
+TEXT_KINGKW103_05382_SEQ_00	Lydirceil tiene muchas ganas de continuar con la mejora del arma.<br>※Si cambias de clase o job, no podrás avanzar en esta misión.
+TEXT_KINGKW103_05382_SEQ_01	Con Gerolt rebosante de energía aetérica, solo falta conseguir la materia prima para empezar la mejora. Por suerte, parece que el equipo de exploración logró extraer una buena cantidad de waxing arcanite, necesaria para refinar tu arma phantom. Dadas las obligaciones contractuales con la House of Splendors, sin embargo, tendrás que comprarle los tres pedazos de mineral a Ermina, su representante comercial en la isla. Dodokkuli, por su parte, espera con paciencia junto a la herrería, listo para recibir el mineral y hacer el procesamiento preliminar.<br><br>※No puedes avanzar con una clase o un job distinto del que tenías al aceptar esta misión.<br><br>※Los pedazos de waxing arcanite se obtienen de Ermina en la aldea phantom.
+TEXT_KINGKW103_05382_SEQ_02	Tras desprenderte de un buen montón de tomestones bien ganados, le entregas a Dodokkuli tres pedazos de waxing arcanite. Ansioso por contemplar el nuevo potencial de forja de Gerolt, termina rápidamente los preparativos y le pasa las riendas al herrero rebosante de aether. Gerolt recurre al manantial de energía que lleva dentro, emula con éxito el antiguo arte de la infusión aetérica y completa esta fase del refinamiento. Alzas tu arma phantom mejorada y te dispones a probar su verdadero potencial en el campo de batalla.
+TEXT_KINGKW103_05382_TODO_00	<if([lnum1<lnum2],Consigue pedazos de waxing arcanite,Con <if([lnum4==19],<ennoun(Item,2,47869,1,1)> y <br><ennoun(Item,2,47890,1,1)>,<if([lnum4==20],<ennoun(Item,2,47870,1,1)>,<if([lnum4==21],<ennoun(Item,2,47871,1,1)>,<if([lnum4==22],<ennoun(Item,2,47872,1,1)>,<if([lnum4==23],<ennoun(Item,2,47873,1,1)>,<if([lnum4==24],<ennoun(Item,2,47874,1,1)>,<if([lnum4==25],<ennoun(Item,2,47875,1,1)>,<if([lnum4==27],<ennoun(Item,2,47876,1,1)>,<if([lnum4==28],<ennoun(Item,2,47877,1,1)>,<if([lnum4==30],<ennoun(Item,2,47878,1,1)>,<if([lnum4==31],<ennoun(Item,2,47880,1,1)>,<if([lnum4==32],<ennoun(Item,2,47879,1,1)>,<if([lnum4==33],<ennoun(Item,2,47881,1,1)>,<if([lnum4==34],<ennoun(Item,2,47882,1,1)>,<if([lnum4==35],<ennoun(Item,2,47883,1,1)>,<if([lnum4==37],<ennoun(Item,2,47884,1,1)>,<if([lnum4==38],<ennoun(Item,2,47885,1,1)>,<if([lnum4==39],<ennoun(Item,2,47886,1,1)>,<if([lnum4==40],<ennoun(Item,2,47887,1,1)>,<if([lnum4==41],<ennoun(Item,2,47888,1,1)>,<if([lnum4==42],<ennoun(Item,2,47889,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario o en tu Armoury Chest\, entrégale los pedazos de waxing arcanite a Dodokkuli)>.
+TEXT_KINGKW103_05382_GEROLT_000_001	He mejorado montones de armas a lo largo de los años, pero nunca a una persona, y menos a mi propio cuerpo. ¡Estoy listo para otra hazaña de genio casi imposible!
+TEXT_KINGKW103_05382_SYSTEM_000_005	Para aceptar la misión "Wrought by Hands Phantasmal", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en tu Armoury Chest o en tu inventario.
+TEXT_KINGKW103_05382_SYSTEM_000_006	Para aceptar la misión "Wrought by Hands Phantasmal", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> equipado, en tu Armoury Chest o en tu inventario.
+TEXT_KINGKW103_05382_LYDIRCEIL_000_010	Nuestro herrero descarriado prácticamente chorrea aether, lo que significa que por fin podemos empezar la mejora.
+TEXT_KINGKW103_05382_SYSTEM_000_011	Al completar la misión "Wrought by Hands Phantasmal", recibirás un arma phantom para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_KINGKW103_05382_Q1_000_000	¿Qué harás?
+TEXT_KINGKW103_05382_A1_000_001	Aceptar esta misión con otro job.
+TEXT_KINGKW103_05382_A1_000_002	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_KINGKW103_05382_SYSTEM_000_013	Habla de nuevo con Lydirceil cuando quieras aceptar esta misión.
+TEXT_KINGKW103_05382_LYDIRCEIL_000_014	Esperemos que toda esa energía le mejore el martillo y no el gaznate... De todos modos, gracias por tu ayuda.
+TEXT_KINGKW103_05382_LYDIRCEIL_000_015	Ah, parece que los topógrafos desenterraron buena cantidad de waxing arcanite, ese mineral nuevo que te mencioné. Con tres pedazos debería bastar para cada mejora.
+TEXT_KINGKW103_05382_LYDIRCEIL_000_016	Sin duda Ermina te cobrará un ojo de la cara. Llévale todo a Dodokkuli cuando lo tengas.
+TEXT_KINGKW103_05382_GEROLT_000_020	El maldito mineral apenas sale de la tierra y ya baja en picada esa arpía tacaña, con las garras relucientes... Pero no te preocupes, <if(gnum4,muchacha,muchacho)>, tu arma phantom no se la puede quedar.
+TEXT_KINGKW103_05382_LYDIRCEIL_000_025	Cuando consigas tres pedazos de waxing arcanite, dáselos a Dodokkuli para que empiece con los preparativos. Gerolt estará rebosante de entusiasmo y de aether, pero seguro que igual se niega a hacer el trabajo pesado...
+TEXT_KINGKW103_05382_SYSTEM_000_030	Los pedazos de waxing arcanite se obtienen de Ermina en la aldea phantom.
+TEXT_KINGKW103_05382_DODOKKULI_000_090	¿Reunió todo el waxing arcanite necesario? Tendrá que quitarse su arma phantom antes de que empecemos.
+TEXT_KINGKW103_05382_SYSTEM_100_090	Al entregar el waxing arcanite necesario, tu arma phantom será mejorada con la técnica recién adquirida de Gerolt.
+TEXT_KINGKW103_05382_SYSTEM_200_090	Ten en cuenta que perderás cualquier materia insertada durante el proceso.
+TEXT_KINGKW103_05382_DODOKKULI_000_100	Qué gusto verle. ¿Confío en que haya conseguido el waxing arcanite necesario?
+TEXT_KINGKW103_05382_DODOKKULI_000_101	Un material intrigante, sin duda. Empezaré los preparativos de inmediato: ¡no debo ser el único ansioso por ver trabajar a Gerolt imbuido de aether!
+TEXT_KINGKW103_05382_GEROLT_000_102	Todo este poder corriendo por mis venas... ¡Nunca me sentí tan capaz!
+TEXT_KINGKW103_05382_GEROLT_000_103	¡MUAJAJAJAJAJA!
+TEXT_KINGKW103_05382_GEROLT_000_104	Un fantasma de múltiples aspectos, hecho de aether muy concentrado, en perfecta armonía con la esencia misma del arma...
+TEXT_KINGKW103_05382_GEROLT_000_105	¡Contempla el verdadero potencial de la maldita infusión aetérica: <ennoun(Item,2,lnum1,1,1)>!
+TEXT_KINGKW103_05382_GEROLT_000_106	¡Contempla el verdadero potencial de la maldita infusión aetérica: <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>!
+TEXT_KINGKW103_05382_GEROLT_000_107	¡Te digo que la potencia de estos aetherwells casi da miedo! Todavía siento esa energía arremolinándose dentro de mí.
+TEXT_KINGKW103_05382_ARCHIVE_000_108	¡Hohoh, parece que sus esfuerzos dieron fruto! Como siempre, hay mucho que aprender del pasado. Ah, hablando de aprender, ¿tal vez deseen oír el funcionamiento exacto de la infusión aetérica?
+TEXT_KINGKW103_05382_ARCHIVE_000_109	El aether del ambiente sometido a altas temperaturas es agitado por el viento y, en ese estado reactivo, entra al cuerpo. Una vez ligada, la infusión aetérica se enfría rápidamente bajo la influencia del agua y escapa de la forma corpórea. De ahí se filtra en la tierra, donde se purifica...
+TEXT_KINGKW103_05382_ARCHIVE_000_110	¡Y así se repite el ciclo, armonizando a la perfección el aether interno del artesano!
+TEXT_KINGKW103_05382_LYDIRCEIL_000_111	Como una versión aetérica de un baño de vapor bien caliente...
+TEXT_KINGKW103_05382_GEROLT_000_112	Debo admitir que esto de aprender técnicas oscuras es condenadamente gratificante.
+TEXT_KINGKW103_05382_GEROLT_000_113	Demonios, ya ni me importa mi deuda aplastante con esa arpía. ¡Olvida el gil: de ahora en adelante, me dedico solamente a refinar mi arte y ampliar mi repertorio!
+TEXT_KINGKW103_05382_LYDIRCEIL_100_113	Oye, nunca nos dijiste cuál era esa vaga noción tuya.
+TEXT_KINGKW103_05382_GEROLT_200_113	¡Basta de darle vueltas! El plan salió sin un maldito tropiezo, ¿o no?
+TEXT_KINGKW103_05382_ARCHIVE_000_114	Ah, eso me recuerda que tengo una pregunta para ti, <if(gnum4,amiga mía,amigo mío)>.
+TEXT_KINGKW103_05382_ARCHIVE_000_115	Es sobre el cuchillo que encontré en mi sarcófago. ¿Estás totalmente seguro de que <italic(1)>no<italic(0)> es un arma?
+TEXT_KINGKW103_05382_Q2_000_000	¿Qué dirás?
+TEXT_KINGKW103_05382_A2_000_001	¡Me temo que es solo un utensilio de cocina!
+TEXT_KINGKW103_05382_A2_000_002	Bueno, cualquier cosa blandida con ánimo bélico tiene potencial...
+TEXT_KINGKW103_05382_ARCHIVE_000_117	¿Ah, sí? ¿O solo intentas desanimarme?
+TEXT_KINGKW103_05382_ARCHIVE_000_118	¡Hohoh! ¡Entonces estamos de acuerdo!
+TEXT_KINGKW103_05382_ARCHIVE_000_119	¡De hecho, Nym fue hogar de un orgulloso linaje de guerreros culinarians que usaban todo un arsenal de técnicas de apuñalamiento sin más que sus utensilios de cocina! ¡Con una prueba tan irrefutable de que mi cuchillo es un arma, no debería haber problema en afilarlo hasta la perfección mortal!
+TEXT_KINGKW103_05382_LYDIRCEIL_000_120	¡Si hay una sola palabra de verdad en eso, me dan lástima los pobres habitantes de la antigua Nym!
+TEXT_KINGKW103_05382_DODOKKULI_000_121	No sé qué pensar de esta revelación. Algo me dice que la idea tendría poca acogida entre los historiadores...
+TEXT_KINGKW103_05382_LYDIRCEIL_000_122	¡Tu maldito cuchillito es para rebanar popotos y picar zanahorias! No se va a mejorar, ¡y se acabó!
+TEXT_KINGKW103_05382_GEROLT_000_123	Rebanar y picar, ¿eh? ¡Eso me da una idea!
+TEXT_KINGKW103_05382_GEROLT_000_124	Estoy harto de la bazofia insípida que sirve la expedición. ¡Es hora de aprovechar lo que da el mar!
+TEXT_KINGKW103_05382_GEROLT_000_125	¡Y para eso nos hace falta un cuchillo de maestro capaz de filetear hasta a las malditas criaturas marinas más grandes!
+TEXT_KINGKW103_05382_ARCHIVE_000_126	Un poco de pesca sin duda compensaría el escaso entretenimiento de la isla. Decidido: mientras preparas mi hoja, ¡yo estaré junto a la orilla, caña en mano!
+TEXT_KINGKW103_05382_ARCHIVE_000_127	¡Hohoh, apenas puedo esperar a ver qué ejemplares gigantescos saco!
+TEXT_KINGKW103_05382_GEROLT_000_128	En ese caso, ¡voy a afilar tu cuchillo mientras busco en esa tablilla mi próxima adquisición artesanal!
+TEXT_KINGKW103_05382_SYSTEM_000_129	Ahora puedes conseguir armas phantom mejoradas para otros jobs entregándole el waxing arcanite necesario a Dodokkuli en la aldea phantom.
+TEXT_KINGKW103_05382_SYSTEM_000_130	Ahora puedes comprarle réplicas de armas phantom al metalurgista de la expedición.

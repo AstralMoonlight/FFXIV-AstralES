@@ -1,0 +1,42 @@
+key	text
+TEXT_KINGKW102_05381_SEQ_00	Lydirceil estuvo estudiando a fondo la tablilla de piedra del Archive.
+TEXT_KINGKW102_05381_SEQ_01	Con los recipientes barnizados y listos, te espera la ardua tarea de llenarlos mediante combates feroces. Según Gerolt, el aether inestable de la isla no sirve para esto, y te recomienda salir a campos de batalla lejanos y variados. Cada aetherwell se recarga con una categoría distinta de Duty Roulette:<br><br>Verde: High-level Dungeons<br>Azul: Alliance Raids<br>Rojo: Trials<br>Amarillo: Normal Raids<br><br>Puedes usar el aetherwell array para ver cuánto aether acumulaste.<br><br>※Habla con Gerolt si quieres abandonar esta misión.
+TEXT_KINGKW102_05381_SEQ_02	Después de una sucesión interminable de batallas reñidas, los aetherwells están llenos. Se los entregas a Gerolt, que hace los preparativos necesarios y canaliza toda esa energía hacia su propio ser. Una vez absorbido el antiguo arte de la "maldita infusión aetérica", el artesano cascarrabias está casi listo para dedicarse a las armas phantom. ¿Qué alturas de refinamiento, hasta ahora inimaginables, te esperan?
+TEXT_KINGKW102_05381_TODO_00	Llena los aetherwells y habla con Gerolt.
+TEXT_KINGKW102_05381_GEROLT_000_001	Le eché un vistazo a la tablilla del tipito y, por lo que veo, vamos bien para lograr la infusión aetérica. Solo falta llenar de aether esos malditos recipientes.
+TEXT_KINGKW102_05381_LYDIRCEIL_000_010	Te agradezco toda la ayuda con los ingredientes. Con eso resuelto, podemos empezar a llenar esos aetherwells.
+TEXT_KINGKW102_05381_LYDIRCEIL_000_011	Estuve revisando la tablilla que entregó el Archive, y dice que el aether muy puro se concentra durante la batalla. ¿Crees que <split(<string(gstr1)>, ,1)> podrá llenar los aetherwells mientras recorre la isla?
+TEXT_KINGKW102_05381_GEROLT_000_012	Mis tripas me dicen que el aether de aquí es demasiado inestable. Tendremos que probar suerte en otra parte.
+TEXT_KINGKW102_05381_GEROLT_000_013	De hecho, te conviene lanzar bien lejos la red: no te limites a pelear en un solo lugar.
+TEXT_KINGKW102_05381_Q1_000_000	¿Qué dirás?
+TEXT_KINGKW102_05381_A1_000_001	¡Ningún monstruo del mundo conocerá la paz!
+TEXT_KINGKW102_05381_A1_000_002	¿O sea, lo de siempre?
+TEXT_KINGKW102_05381_GEROLT_000_015	Je, con una amenaza como tú rondando, ¿alguna vez la conocieron? Como sea, seguro que tendrás ese aether almacenado en un dos por tres.
+TEXT_KINGKW102_05381_GEROLT_000_016	¡Exacto! Sigue haciendo lo que sea que hagan ustedes los aventureros y llenarás esos recipientes en un dos por tres.
+TEXT_KINGKW102_05381_GEROLT_000_017	Bueno, mejor llévate los aetherwells. Me tomé la libertad de encajarlos en un artefacto improvisado para tu comodidad: un "aetherwell array", por llamarlo de algún modo.
+TEXT_KINGKW102_05381_GEROLT_000_018	Una vez que te metas de lleno, solo échale un ojo a cada recipiente para ver cuánto aether tiene.
+TEXT_KINGKW102_05381_SYSTEM_000_019	Al completar misiones de Duty Roulette obtendrás distintos tipos de aether según la categoría elegida.
+TEXT_KINGKW102_05381_SYSTEM_100_019	Usa el aetherwell array para ver cuánto aether acumulaste.
+TEXT_KINGKW102_05381_SYSTEM_000_020	Una vez al día, tus esfuerzos generarán aether adicional, ¡así que asegúrate de completar muchas misiones de grupo para cosechar las recompensas!
+TEXT_KINGKW102_05381_SYSTEM_100_020	Las categorías de Duty Roulette que hayas completado antes de aceptar esta misión no generarán aether adicional hoy. El derecho a esta bonificación se reinicia cada día a las <setresettime(0)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p.m.,a.m.)> (hora de la Tierra).
+TEXT_KINGKW102_05381_SYSTEM_000_021	Para desbloquear Duty Roulette: Normal Raids, primero debes desbloquear al menos dos normal raids.
+TEXT_KINGKW102_05381_SYSTEM_000_022	Una de esas raids se desbloquea hablando con el desconocido elegante de True Vue, en Solution Nine, y avanzando en la misión que te da.
+TEXT_KINGKW102_05381_SYSTEM_000_023	La misión actual, "Aether, Aether, Everywhere", no se puede abandonar desde el journal. Si quieres hacerlo, habla con Gerolt.
+TEXT_KINGKW102_05381_LYDIRCEIL_000_025	Si el Archive tiene razón, pelear es la manera más rápida de llenar esos aetherwells. Una verdadera penuria, de seguro, pero apuesto a que matar bestias inmundas por montones es parte de tu día a día.
+TEXT_KINGKW102_05381_GEROLT_000_096	A mí me da igual si te da flojera llenar esos aetherwells. Pero ojo: si te largas ahora, todo el aether que almacenaste se va a perder.
+TEXT_KINGKW102_05381_SYSTEM_000_097	Puedes abandonar esta misión en cualquier momento. Pero ten en cuenta que perderás todo el aether acumulado.
+TEXT_KINGKW102_05381_SYSTEM_000_098	¿Abandonar la misión "Aether, Aether, Everywhere"?
+TEXT_KINGKW102_05381_SYSTEM_000_099	¿Seguro que quieres continuar?
+TEXT_KINGKW102_05381_SYSTEM_100_099	Si abandonas esta misión perderás todo el aether acumulado. Si decides retomarla más adelante, tendrás que llenar los aetherwells desde cero.
+TEXT_KINGKW102_05381_SYSTEM_200_099	Lo entiendo y quiero abandonar la misión.
+TEXT_KINGKW102_05381_GEROLT_000_100	Toma esos cuatro aetherwells y llénalos con el aether que se dispersa en batalla. Si quieres ver cuánto llevas, solo mira las malditas cosas, así de simple
+TEXT_KINGKW102_05381_GEROLT_000_101	¡Cuatro aetherwells rebosantes de energía! Sabía que no tendrías problemas para llenarlos.
+TEXT_KINGKW102_05381_GEROLT_000_102	Un momento. Esa cara de sufrimiento cuenta otra historia... Bueno, deberías dar las gracias: de no ser por tu viejo amigo Gerolt y su solución especial, seguirías por ahí matando monstruos por docenas.
+TEXT_KINGKW102_05381_GEROLT_000_103	Además, no tendrás que pasar otra vez por todo ese lío. Puedo mejorar infinidad de armas con todo el aether que juntaste.
+TEXT_KINGKW102_05381_GEROLT_000_104	Bueno, basta de cháchara. Pásame ese artefacto y voy a instalar los aetherwells.
+TEXT_KINGKW102_05381_GEROLT_000_105	¡Por los siete infiernos! Todo ese aether tan concentrado está fluyendo directo a mi forja: ¡el puro poder desatado me canta!
+TEXT_KINGKW102_05381_GEROLT_000_106	Hiciste un trabajo condenadamente bueno con esos aetherwells, <if(gnum4,muchacha,muchacho)>.
+TEXT_KINGKW102_05381_GEROLT_000_107	Bien, ¡hora de canalizar esta energía bruta con mi sello personal!
+TEXT_KINGKW102_05381_GEROLT_000_108	¡MUAJAJAJA!
+TEXT_KINGKW102_05381_GEROLT_100_108	El antiguo arte de la maldita infusión aetérica, ¡y ahora es mío!
+TEXT_KINGKW102_05381_GEROLT_000_109	¡Con algunos materiales nuevos, pronto llevaré las armas phantom a alturas nunca vistas de poder marcial!

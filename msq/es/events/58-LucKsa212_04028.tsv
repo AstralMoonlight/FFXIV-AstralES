@@ -1,0 +1,24 @@
+key	text
+TEXT_LUCKSA212_04028_SEQ_00	Annes busca reliquias de cierto tipo y sospecha que sabes dónde encontrarlas.
+TEXT_LUCKSA212_04028_TODO_00	Entra en Delubrum Reginae.
+TEXT_LUCKSA212_04028_TODO_01	Entrega la enigmatic Bozjan relic a Annes.
+TEXT_LUCKSA212_04028_SYSTEM_100_000	Para emprender esta misión debes haber acumulado <kilo(lnum2,\,)> de mettle.
+TEXT_LUCKSA212_04028_SYSTEM_100_001	Has acumulado <kilo(lnum2,\,)> de mettle.
+TEXT_LUCKSA212_04028_ANNES_000_000	¡Blade <split(<string(gstr1)>, ,2)>! Es un placer <if(gnum4,conocerla,conocerlo)>. Me llamo Annes.
+TEXT_LUCKSA212_04028_ANNES_000_001	Zlatan me ha contado mucho de lo difícil que es trabajar con Gerolt. N-No es que <italic(1)>él<italic(0)> sea difícil, claro. Ejem. También me ha contado todas sus hazañas en el frente sur.
+TEXT_LUCKSA212_04028_ANNES_000_002	Y justo por eso estoy aquí. Creo que mi investigación sobre herramientas y armas de la antigua Bozja puede serle útil.
+TEXT_LUCKSA212_04028_ANNES_000_003	Las ruinas del palacio de Bozja descubiertas hace poco sin duda están repletas de esas reliquias. Si llega a explorar sus profundidades, le agradecería mucho que trajera lo que encuentre.
+TEXT_LUCKSA212_04028_ANNES_000_004	Buen viaje, Blade <split(<string(gstr1)>, ,2)>. Espero su regreso.
+TEXT_LUCKSA212_04028_SYSTEM_100_005	Esta misión puede completarse una vez por semana, y su estado se reinicia cada <setresettime(17,2)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p.m.,a.m.)> (hora de la Tierra).
+TEXT_LUCKSA212_04028_SYSTEM_000_005	El objeto que busca Annes se obtiene completando la raid "Delubrum Reginae".
+TEXT_LUCKSA212_04028_SYSTEM_000_006	Para entrar en Delubrum Reginae, habla con Sjeros en Gangos.
+TEXT_LUCKSA212_04028_ANNES_000_010	Qué gusto <if(gnum4,verla,verlo)>, Blade <split(<string(gstr1)>, ,2)>. Las reliquias que trajo de las ruinas han sido de gran ayuda para mi investigación.
+TEXT_LUCKSA212_04028_ANNES_000_011	Como parece tener mucho talento para desenterrar artefactos antiguos, quizá podría ampliar la búsqueda, por decirlo así, a las herramientas usadas en los rituales bozjanos. Serían de gran provecho para nuestro trabajo.
+TEXT_LUCKSA212_04028_ANNES_000_012	Por supuesto, unas reliquias son más útiles que otras, así que las que no necesitemos para nuestro trabajo son suyas.
+TEXT_LUCKSA212_04028_ANNES_000_020	Le agradeceré mucho las reliquias que pueda encontrar que se hayan usado en rituales antiguos. Pero tenga cuidado allá abajo. Puede haber toda clase de trampas protegiendo el lugar.
+TEXT_LUCKSA212_04028_ANNES_000_050	¡Regresó! Y sin un rasguño, ya veo. ¿Pudo recuperar algo interesante de las ruinas?
+TEXT_LUCKSA212_04028_ANNES_000_060	Extraordinario. Sencillamente extraordinario. Vaya, ¿y esto qué es...?
+TEXT_LUCKSA212_04028_ANNES_000_061	Parece haber unas monedas antiguas mezcladas con los objetos que trajo. Puede que a los coleccionistas les fascine esta moneda antigua, pero queda fuera de nuestro campo de estudio, así que puede quedársela.
+TEXT_LUCKSA212_04028_ANNES_000_062	En todo caso, ya nos dio material de sobra para trabajar por ahora. Gracias, Blade <split(<string(gstr1)>, ,2)>.
+TEXT_LUCKSA212_04028_ANNES_000_070	Tiene buen ojo para las antigüedades, Blade <split(<string(gstr1)>, ,2)>. Vaya, ¿y esto qué es...?
+TEXT_LUCKSA212_04028_ANNES_000_071	¡Más monedas! Como acordamos, puede hacer con ellas lo que quiera. Gracias otra vez por toda su ayuda.

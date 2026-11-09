@@ -1,0 +1,15 @@
+key	text
+TEXT_KINGKW399_05507_SYSTEM_000_000	Brigid puede reajustar los atributos de tus armas phantom.
+TEXT_KINGKW399_05507_BRIGID_000_001	¿Buscáis alterar los atributos de vuestra arma phantom? Tarea bastante simple, con los recursos suficientes.
+TEXT_KINGKW399_05507_Q1_000_100	¿Qué haces?
+TEXT_KINGKW399_05507_A1_000_100	Reajustar los atributos de tus armas phantom.
+TEXT_KINGKW399_05507_A2_000_100	Informarte sobre el reajuste de atributos de las armas phantom.
+TEXT_KINGKW399_05507_A3_000_100	Nada.
+TEXT_KINGKW399_05507_SYSTEM_000_010	Los tres atributos que añadiste a tus armas phantom se pueden volver a elegir o equilibrar. Igual que en la mejora inicial, uno de ellos tendrá un valor más bajo que los otros dos.
+TEXT_KINGKW399_05507_SYSTEM_000_011	Cuando hayas reajustado los valores a tu gusto, selecciona "Confirm" para finalizar tu decisión.
+TEXT_KINGKW399_05507_SYSTEM_000_012	Restablecer los atributos de tu arma requiere otro pedazo de ecliptic arcanite, así que piensa bien tus elecciones.
+TEXT_KINGKW399_05507_BRIGID_000_020	Necesito un pedazo de ecliptic arcanite para el reajuste. Dejo su obtención en vuestras hábiles manos.
+TEXT_KINGKW399_05507_SYSTEM_000_021	Los pedazos de ecliptic arcanite se obtienen de Ermina en la aldea phantom.
+TEXT_KINGKW399_05507_BRIGID_000_030	Me temo que el proceso está hecho a medida para las armas phantom. ¿Puedo pediros que equipéis el armamento adecuado antes de comenzar?
+TEXT_KINGKW399_05507_BRIGID_000_040	¡Un reajuste completamente exitoso! Claro que, si más adelante deseáis explorar una configuración sutilmente distinta, no tenéis más que pedirlo.
+TEXT_KINGKW399_05507_SYSTEM_000_106	Se reajustaron tus armas phantom (<if([gnum68<8],<sheet(ClassJob,gnum68,0)>,<if([gnum68>18],<sheet(ClassJob,gnum68,0)>,)>)>).

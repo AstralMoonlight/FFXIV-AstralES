@@ -1,0 +1,23 @@
+key	text
+TEXT_LUCKSA104_03944_SEQ_00	Dmitar quiere contarte de un hallazgo peculiar en el frente sur.
+TEXT_LUCKSA104_03944_TODO_00	<if([lnum1<lnum2],Consigue un forgotten fragment,Entrégale el forgotten fragment a Dmitar)>.
+TEXT_LUCKSA104_03944_SYSTEM_100_000	Se necesita Resistance rank <num(lnum1)> para avanzar en esta misión.
+TEXT_LUCKSA104_03944_SYSTEM_100_001	El Resistance rank sube al informar al comandante de la Resistance tras ganar suficiente mettle.
+TEXT_LUCKSA104_03944_DMITAR_000_000	Llega en buen momento, Blade <split(<string(gstr1)>, ,2)>. Tengo un informe bastante interesante que compartir con usted.
+TEXT_LUCKSA104_03944_DMITAR_000_001	En una misión de reconocimiento, nuestros exploradores dieron con reliquias que confirmamos que pertenecieron a los Gunnhildr's Blades.
+TEXT_LUCKSA104_03944_DMITAR_000_002	Por mucho tiempo se creyó que la guardia de la reina poseía cristales donde guardaba el conocimiento de sus técnicas de combate, y este hallazgo disipó toda duda. Estos forgotten fragments, como los llamamos, bien podrían cambiar el curso de la guerra a nuestro favor.
+TEXT_LUCKSA104_03944_DMITAR_000_003	Verá, para nuestra sorpresa, el maestro Gerolt afirma tener experiencia con cristales similares, y cree que se pueden extraer los recuerdos que contienen.
+TEXT_LUCKSA104_03944_DMITAR_000_004	Ya se puso a trabajar en la manera de hacerlo, y nos aseguró que no tardarán en revelarnos sus secretos.
+TEXT_LUCKSA104_03944_DMITAR_000_005	Con sus armas y técnicas a su disposición, sería verdaderamente <if(gnum4,heredera,heredero)> del legado de los Gunnhildr's Blades.
+TEXT_LUCKSA104_03944_DMITAR_000_006	Siempre que pueda conseguir más de estos fragmentos, claro.
+TEXT_LUCKSA104_03944_DMITAR_000_007	A juzgar por el informe de nuestros exploradores, no será tarea fácil. Parece que, donde se encuentran, hay temibles bestias cerca.
+TEXT_LUCKSA104_03944_DMITAR_000_008	Aun así, puede convenir limpiar el campo de batalla de esas criaturas, no solo por el bien de nuestros soldados, sino por la oportunidad de conseguir fragmentos en la zona. Le deseo la mejor de las suertes.
+TEXT_LUCKSA104_03944_SYSTEM_000_010	Los forgotten fragments sin identificar se obtienen al derribar monstruos en la naturaleza, y en escaramuzas y enfrentamientos críticos. También se pueden comerciar o vender en el market board.
+TEXT_LUCKSA104_03944_DMITAR_000_020	Si encuentra aunque sea un solo fragmento, podemos empezar el siguiente paso.
+TEXT_LUCKSA104_03944_SYSTEM_000_021	Los forgotten fragments sin identificar se obtienen al derribar monstruos en la naturaleza, y en escaramuzas y enfrentamientos críticos. También se pueden comerciar o vender en el market board.
+TEXT_LUCKSA104_03944_DMITAR_000_045	¿Cómo le fue buscando forgotten fragments?
+TEXT_LUCKSA104_03944_DMITAR_000_050	¡Bien hecho, Blade <split(<string(gstr1)>, ,2)>! Muy bien hecho.
+TEXT_LUCKSA104_03944_DMITAR_100_050	Ahora, antes de empezar la extracción, primero hay que tasar estos fragmentos para saber qué clase de recuerdos contienen.
+TEXT_LUCKSA104_03944_DMITAR_000_051	De ahora en adelante, entréguele los fragmentos que encuentre a uno de nuestros tasadores.
+TEXT_LUCKSA104_03944_DMITAR_000_052	De hecho, hay uno apostado junto a esa tienda de allá.
+TEXT_LUCKSA104_03944_SYSTEM_000_061	Las acciones extraídas de los forgotten fragments se guardan en el lost finds cache.

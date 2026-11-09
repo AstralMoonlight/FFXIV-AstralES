@@ -1,0 +1,126 @@
+key	text
+TEXT_KINGKW201_05454_SEQ_00	Lydirceil parece inusualmente entusiasmado.
+TEXT_KINGKW201_05454_SEQ_01	Lydirceil quiere ver tu arma phantom todavía más mejorada, y te asegura que Gerolt tiene las mismas ganas, aunque aún no esté listo para seguir. De hecho, el temperamental herrero está reflexionando con diligencia sobre el siguiente paso, o eso afirma Lydirceil. Te anima a hablar directamente con Gerolt para saber qué está planeando.<br>※Esta misión no se puede abandonar desde el journal. Si quieres abandonarla, puedes hacerlo en cualquier momento hablando con Lydirceil.
+TEXT_KINGKW201_05454_SEQ_02	Gerolt en efecto ha estado pensando a fondo, ansioso por ampliar su repertorio y elevar tu arma a nuevas alturas de poder. Para eso, le encargó a la arqueóloga de la expedición buscar en los registros técnicas adecuadas. Con la mente nublada por demasiadas copas de ron, el herrero te pide visitar a la arqueóloga para enterarte de lo que encontró mientras a él se le pasa la borrachera.
+TEXT_KINGKW201_05454_SEQ_03	Cuando llegas, la arqueóloga de la expedición te explica a fondo los tres métodos antiguos que considera dignos de estudio: "tallado de maleficios", "forja de Karnak" y "conversión aetérica". Con los nuevos conocimientos y un fajo de notas detalladas, vuelves a la herrería para consultar con Gerolt.
+TEXT_KINGKW201_05454_SEQ_04	Tras hablarlo con Gerolt, el herrero decide reproducir la técnica de la conversión aetérica. Para empezar hacen falta varios ingredientes y, como eres la única persona libre de salir del Occult Crescent, conseguirlos te toca inevitablemente a ti. Gerolt te esperará junto a la herrería.<br><br>Umbral clay: búscala con un comerciante en los mercados de Tuliyollal.<br>Aspected aether agglomerate, aspected aetheroconductor, aspected aetherocatalyst: fabrícalos con la receta correspondiente o cómpralos en el market board.<br><br>※Si decides fabricar los materiales aspected, necesitarás haber obtenido los tomos Master Recipe XII de los Disciples of the Hand.
+TEXT_KINGKW201_05454_SEQ_05	Le entregas los ingredientes a Gerolt, que está listo y ansioso por continuar, después de una rápida libación. Sin duda, el herrero recién fortificado con ron empezará su tarea cuando hables con él de nuevo.
+TEXT_KINGKW201_05454_SEQ_06	Tras trasladarse brevemente a uno de los edificios de la aldea phantom, Gerolt vuelve de sus labores acompañado de un voidsent singular. Al oír al herrero relatar el procedimiento de conversión aetérica, queda claro que él invocó a la criatura sin querer. El voidsent parece confundido e insiste en que su forma original era más poderosa, lo que lleva a Dodokkuli a suponer que el recipiente que fabricó Gerolt de alguna manera no es adecuado. Para animar a la atribulada criatura a quedarse y asegurar su futura cooperación en la mejora del arma, formas un pacto y le prometes aether a cambio. El siguiente paso será ayudarla a liberar todo su potencial, aunque por qué medios y con qué fin sigue sin estar claro...
+TEXT_KINGKW201_05454_TODO_00	Habla con Gerolt.
+TEXT_KINGKW201_05454_TODO_01	Habla con la arqueóloga de la expedición.
+TEXT_KINGKW201_05454_TODO_02	Habla con Gerolt.
+TEXT_KINGKW201_05454_TODO_03	Entrégale a Gerolt los objetos pedidos.
+TEXT_KINGKW201_05454_TODO_04	Consigue un sack of umbral clay.
+TEXT_KINGKW201_05454_TODO_05	Consigue un lump of aspected aether agglomerate.
+TEXT_KINGKW201_05454_TODO_06	Consigue un lump of aspected aetheroconductor.
+TEXT_KINGKW201_05454_TODO_07	Consigue un lump of aspected aetherocatalyst.
+TEXT_KINGKW201_05454_TODO_08	Habla con Gerolt.
+TEXT_KINGKW201_05454_LYDIRCEIL_000_001	Qué bueno verte. ¿Cómo te trata esa arma tuya?
+TEXT_KINGKW201_05454_LYDIRCEIL_000_002	Me alegra oírlo. Puede que la tripulación y yo no estemos hechos para el fuego de la batalla, pero equipar a alguien de tu calibre ya es recompensa suficiente.
+TEXT_KINGKW201_05454_LYDIRCEIL_000_003	En fin, tengo ganas de que mejoren otra vez tu arma phantom, pero Gerolt todavía no está a la altura de la tarea.
+TEXT_KINGKW201_05454_LYDIRCEIL_000_004	Y no es que se haya vuelto flojo, ojo: el desgraciado parece estar dándole vueltas a todo el asunto.
+TEXT_KINGKW201_05454_LYDIRCEIL_000_005	Seguro que te cuenta lo que trama, de todos modos.
+TEXT_KINGKW201_05454_SYSTEM_000_006	La misión actual, "Timeworn Techniques", no se puede abandonar desde el journal. Si quieres hacerlo, habla con Lydirceil.
+TEXT_KINGKW201_05454_LYDIRCEIL_000_010	Te vas de aventura, ¿eh? Bueno, ya sabes dónde encontrarnos cuando termines.
+TEXT_KINGKW201_05454_SYSTEM_000_015	¿Abandonar la misión "Timeworn Techniques"?
+TEXT_KINGKW201_05454_SYSTEM_000_016	¿Seguro que quieres continuar?
+TEXT_KINGKW201_05454_SYSTEM_000_017	Si abandonas esta misión perderás los objetos entregados. Si decides retomarla más adelante, tendrás que reunir de nuevo los ingredientes necesarios.
+TEXT_KINGKW201_05454_SYSTEM_000_018	Lo entiendo y quiero abandonar la misión.
+TEXT_KINGKW201_05454_LYDIRCEIL_000_020	Como te dije, Gerolt ha estado pensando en el siguiente paso de la mejora. Seguro que te cuenta los detalles con mucho gusto.
+TEXT_KINGKW201_05454_GEROLT_000_100	<if(gnum4,La muchacha,El muchacho)> que quería ver. Es hora de hablar de cómo elevar esa arma tuya.
+TEXT_KINGKW201_05454_GEROLT_000_101	Después de dominar esa técnica antigua de la tablilla del Archive, me muero por ampliar mi repertorio y convertir tu arma en algo que dé verdadero miedo...
+TEXT_KINGKW201_05454_GEROLT_000_102	Pero si nos ponemos a hacer ajustes sin tener una visión clara, el avance que logramos se esfumará en el aire como un maldito truco de conjurer.
+TEXT_KINGKW201_05454_GEROLT_000_104	Por eso tengo a la arqueóloga de la expedición peinando los registros en busca de la técnica perfecta.
+TEXT_KINGKW201_05454_GEROLT_000_105	Iría a ver cómo le va, pero he tomado más de un sorbito de ron para matar el tiempo... No creo que ahora mismo aguante explicaciones largas y jerga técnica.
+TEXT_KINGKW201_05454_GEROLT_000_106	Como se trata de tu arma, pensé que podías ir en mi lugar. Está metida en ese edificio pasando las escaleras del oeste.
+TEXT_KINGKW201_05454_LYDIRCEIL_000_110	Algo he aprendido con los años como para entender una que otra tablilla de piedra. Claro que para escudriñar textos antiguos, mejor dejárselo a los expertos. Menos mal que trajimos a una arqueóloga.
+TEXT_KINGKW201_05454_GEROLT_000_115	Encontrarás a la arqueóloga en el edificio pasando las escaleras del oeste. Con suerte, se me habrá despejado la cabeza cuando vuelvas.
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_200	Ah, usted debe ser <split(<string(gstr1)>, ,1)>. Si viene por el encargo de Gerolt, acabo de terminar de ordenar lo que encontré, con la valiosa ayuda del Archive, debo añadir.
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_201	Identifiqué tres métodos de mejora prometedores que podrían ser compatibles con su arma phantom.
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_202	El primero es una técnica skallana conocida como "tallado de maleficios". Luego tenemos la "forja de Karnak", un método para imbuir armamento arcano originario de esa misma ciudad.
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_203	Y por último, pero no menos importante, la técnica mhachi de la "conversión aetérica".
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_204	¡Con gusto le daré un breve resumen si alguna le despierta interés!
+TEXT_KINGKW201_05454_Q1_000_000	¿Sobre qué quieres preguntar?
+TEXT_KINGKW201_05454_A1_000_001	El tallado de maleficios.
+TEXT_KINGKW201_05454_A1_000_002	La forja de Karnak.
+TEXT_KINGKW201_05454_A1_000_003	La conversión aetérica.
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_206	Las ruinas de la antigua Skalla se tallaron en la piedra densa tan común en Gyr Abania. Aunque su durabilidad no tiene rival, esa misma propiedad la hace difícil de trabajar.
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_207	¡Y así se concibió la técnica conocida como tallado de maleficios!
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_208	Con martillos potenciados por un sinfín de maleficios, los canteros skallanos podían provocar cambios estructurales en los materiales que trabajaban.
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_209	Me atrevería a decir que el mismo principio serviría para su arma phantom y permitiría reconfigurarla por completo.
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_210	¿Conoce, por casualidad, a los legendarios guerreros de Karnak y las temibles armas arcanas que usaban? En su composición, sus hojas eran perfectamente neutras, diseñadas para potenciarse después con toda clase de poderes quiméricos.
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_211	Para lograrlo, los artesanos usaban cristales sin aspecto durante la forja.
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_212	Gerolt podría reproducir este método para mejorar su arma phantom y modificar su aspecto de un solo golpe. ¡Vale la pena considerarlo, en la humilde opinión de esta erudita!
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_214	¡Una técnica de lo más curiosa! Una que requiere toda la cautela debida, por su "naturaleza extravagante y su terrible potencia", si hemos de creer la descripción.
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_215	A su inventor lo inspiró el mismo principio de la "infusión aetérica" que elevó su arma a su forma actual. Buscaba amplificar el efecto manipulando el aether imbuido durante el proceso.
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_216	¡Para mi gran pesar no puedo decirle más, de tan deteriorada que estaba la tablilla con la inscripción!
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_217	Por lo que pude deducir, sin embargo, la técnica consiste en imbuir una herramienta y no el arma en sí. Por fortuna, los materiales requeridos y el procedimiento general eran perfectamente legibles, aunque no se puede decir lo mismo de la parte sobre el resultado final...
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_218	Me tomé la libertad de reunir unas notas, por si quiere consultar los detalles más finos en algún momento.
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_219	Sin duda querrá hablarlo con Gerolt antes de elegir qué método reproducir. ¡Que sus esfuerzos den fruto!
+TEXT_KINGKW201_05454_LYDIRCEIL_000_220	Tienes cara de haber recibido toda una maldita clase sobre técnicas perdidas de mejora de armas. La arqueóloga es una muchacha rara, pero difícilmente encontrarás una mente más aguda, al menos no una tan loca como para unirse a este grupo variopinto.
+TEXT_KINGKW201_05454_ARCHAEOLOGIST05454_000_225	Confío en que encuentre algo que valga la pena entre las técnicas que seleccioné. ¡No deje de consultarlo con Gerolt!
+TEXT_KINGKW201_05454_GEROLT_000_300	Debes venir de ver a la arqueóloga. ¿Encontró algo que valga la pena?
+TEXT_KINGKW201_05454_GEROLT_000_302	¿Tallado de maleficios, eh? Muy bien si quieres sacarle pedazos a la piedra, pero jamás funcionaría con una creación compleja como tu arma phantom.
+TEXT_KINGKW201_05454_GEROLT_000_304	La forja de Karnak tampoco sirve. Lo que queremos es forjar un arma con mordida propia, no una pieza decorativa sin vida para adornarla con chucherías mágicas.
+TEXT_KINGKW201_05454_GEROLT_000_305	La conversión aetérica, en cambio... Eso sí suena prometedor.
+TEXT_KINGKW201_05454_GEROLT_000_306	Después de todo, no hay técnica más compatible con la infusión aetérica que una inspirada en ella. ¡En cuanto mejoremos mi martillo, voy a afilar tu arma hasta una perfección todavía más mortal!
+TEXT_KINGKW201_05454_LYDIRCEIL_000_307	Pero a la inscripción le faltan pedazos. Demasiadas incógnitas para mi gusto...
+TEXT_KINGKW201_05454_GEROLT_100_307	¡Bah! Mientras sepa qué materiales necesito y qué hacer con ellos, todo saldrá bien.
+TEXT_KINGKW201_05454_GEROLT_000_308	Además, ¡es la única técnica viable de todo el maldito lote!
+TEXT_KINGKW201_05454_GEROLT_000_309	Además, nos hemos enfrentado a peores probabilidades, ¿no? ¡Yo digo que tiremos los malditos dados!
+TEXT_KINGKW201_05454_LYDIRCEIL_000_310	Je. Tu talento para encender a Gerolt nunca dejará de asombrarme.
+TEXT_KINGKW201_05454_DODOKKULI_000_311	¿Puedo preguntar qué hace falta para reproducir esta técnica? ¿Quizá tomó algunas notas durante su reunión con la arqueóloga?
+TEXT_KINGKW201_05454_DODOKKULI_000_312	Hmmm. Parece que necesitaremos algo de umbral clay...
+TEXT_KINGKW201_05454_DODOKKULI_100_312	...Un lump of aspected aether agglomerate, un lump of aspected aetheroconductor y un lump of aspected aetherocatalyst.
+TEXT_KINGKW201_05454_DODOKKULI_200_312	Y, como sin duda ya habrá anticipado, cantidades enormes de aether.
+TEXT_KINGKW201_05454_DODOKKULI_000_313	¡Ah, tenga por seguro que reunir el aether no será tarea suya! Con tiempo suficiente, podemos juntar lo necesario en la isla por nuestra cuenta.
+TEXT_KINGKW201_05454_DODOKKULI_100_313	¡Solo le pido que consiga los cuatro ingredientes que acabo de mencionar!
+TEXT_KINGKW201_05454_DODOKKULI_000_314	Por desgracia, las notas no especifican dónde ni cómo conseguirlos, pero creo que el umbral clay se comercia mucho en Tural. Seguro que encuentra lo que necesita en los mercados de Tuliyollal.
+TEXT_KINGKW201_05454_DODOKKULI_000_315	En cuanto a los aditivos, un artesano experimentado debería poder fabricarlos, aunque apostaría a que también se pueden comprar por el precio justo.
+TEXT_KINGKW201_05454_DODOKKULI_000_316	¡Una vez que le entregue los objetos a Gerolt, estaremos listos para reproducir el proceso de conversión aetérica y mejorar su martillo!
+TEXT_KINGKW201_05454_SYSTEM_000_317	En tu journal encontrarás cómo conseguir cada ingrediente.
+TEXT_KINGKW201_05454_LYDIRCEIL_000_320	Me da pena cargarte con los mandados, pero seguimos atrapados en esta roca. Eso sí, ¡el aether déjanoslo a nosotros!
+TEXT_KINGKW201_05454_GEROLT_000_400	Encuentra los ingredientes que necesito, ¿oíste? Mi martillo no se va a mejorar solo.
+TEXT_KINGKW201_05454_SYSTEM_000_401	Algunos de los objetos que pide Gerolt se consiguen en estos lugares:<br>Los sacks of umbral clay se venden en los mercados de Tuliyollal.
+TEXT_KINGKW201_05454_SYSTEM_000_402	Los lumps of aspected aether agglomerate, aspected aetheroconductor y aspected aetherocatalyst se fabrican en el crafting log usando los tomos Master Recipe XII de los Disciples of the Hand.
+TEXT_KINGKW201_05454_SYSTEM_000_403	En tu journal encontrarás cómo conseguir cada objeto.
+TEXT_KINGKW201_05454_GEROLT_000_404	Con esto basta.
+TEXT_KINGKW201_05454_GEROLT_000_405	Mientras hurgabas en los mercados, llenamos un aetherwell vacío para ir preparando. Creo que me gané un traguito de ron por tanto trabajo; me pongo a la obra en cuanto me moje la garganta.
+TEXT_KINGKW201_05454_LYDIRCEIL_000_460	Este asunto de la conversión aetérica es todo un misterio. Igual que esta maldita isla...
+TEXT_KINGKW201_05454_GEROLT_000_406	Pásame las notas, ¿quieres?
+TEXT_KINGKW201_05454_GEROLT_000_407	Hmm... Aquí dice que tengo que poner los componentes en el suelo y comprobar que el entorno sea seguro. ¡Muy sospechoso, si me preguntas!
+TEXT_KINGKW201_05454_GEROLT_000_408	Bueno, sería un dolor de muelas que les pasara algo a los aetherwells, así que me instalaré en este edificio grandote. Espérate tranquilo, ¿sí?
+TEXT_KINGKW201_05454_GEROLT_000_409	Perdón por la espera.
+TEXT_KINGKW201_05454_LYDIRCEIL_000_410	¿¡Q-Qué demonios es eso!?
+TEXT_KINGKW201_05454_GEROLT_000_411	Ni idea.
+TEXT_KINGKW201_05454_DODOKKULI_000_412	¡Es a todas luces un voidsent! ¿¡Cómo y por qué llegó aquí!?
+TEXT_KINGKW201_05454_GEROLT_000_413	Oye, yo solo seguí las instrucciones.
+TEXT_KINGKW201_05454_GEROLT_000_414	"Amásese el umbral clay hasta que sea maleable, y luego dese forma a la masa combinándola con los aditivos... Después, infúndase a la figura aether dador de vida".
+TEXT_KINGKW201_05454_GEROLT_000_415	Después solo recité las palabras del final de la nota y, cuando me di cuenta, este bichito me estaba mirando.
+TEXT_KINGKW201_05454_Q3_000_000	¿Qué dirás?
+TEXT_KINGKW201_05454_A3_000_001	Una invocación realmente magistral. ¡Bravo!
+TEXT_KINGKW201_05454_A3_000_002	Quizá era mejor no probar esta técnica...
+TEXT_KINGKW201_05454_GEROLT_000_417	¡Ja! ¡Estas manos dadas por los dioses hacen maravillas hasta con un maldito pedazo de arcilla!
+TEXT_KINGKW201_05454_DODOKKULI_000_418	Las instrucciones no tenían ninguna relación evidente con la invocación de voidsent. Sin duda eso habría quedado claro de tener la información que falta...
+TEXT_KINGKW201_05454_DODOKKULI_000_419	Si la tablilla estuviera en mejor estado, quizá habríamos evitado este resultado. Me da bastante vergüenza no haber notado nada raro al revisar las notas...
+TEXT_KINGKW201_05454_GEROLT_000_420	¿Qué es eso de evitar resultados? Aunque hubiera sabido lo que venía, habría seguido adelante igual. ¡Todo esto es parte de la conversión aetérica, no hay duda!
+TEXT_KINGKW201_05454_LYDIRCEIL_000_421	¿De verdad tenía que pasar esto? ¡Me temo que no veo la relación entre ese charco de porquería y las armas phantom!
+TEXT_KINGKW201_05454_BRIGID_000_422	(-???-)¿Oooerh?
+TEXT_KINGKW201_05454_BRIGID_000_423	¿Dónde es esto? ¿Q-Quién soy?
+TEXT_KINGKW201_05454_DODOKKULI_000_424	Ejem. A juzgar por su apariencia física, creo que podría ser una especie de voidsent conocida en lengua común como "hecteye".
+TEXT_KINGKW201_05454_BRIGID_000_425	Os equivocáis. No era tan... endeble de cuerpo.
+TEXT_KINGKW201_05454_GEROLT_000_426	Bueno, ese cuerpo tuyo es lo que armé con la arcilla y demás. Supongo que tu verdadera forma es otra cosa muy distinta.
+TEXT_KINGKW201_05454_DODOKKULI_000_427	Ahora que lo pienso, recuerdo haber oído que los voidsent invocados requieren un recipiente adecuado para funcionar bien en este mundo.
+TEXT_KINGKW201_05454_DODOKKULI_100_427	Quizá su construcción de arcilla no sea adecuada para esta criatura en particular, y por eso limita su poder.
+TEXT_KINGKW201_05454_LYDIRCEIL_000_428	¿Cómo vamos a saber qué recipiente necesita la maldita cosa si no conocemos su verdadera forma?
+TEXT_KINGKW201_05454_BRIGID_100_428	Yo era... No... puedo recordar.
+TEXT_KINGKW201_05454_LYDIRCEIL_200_428	Justo nuestra maldita suerte...
+TEXT_KINGKW201_05454_BRIGID_000_429	Esto es... desagradable. Quiero ir a casa.
+TEXT_KINGKW201_05454_LYDIRCEIL_100_429	¡Espera! ¡Si te largas, volvemos al principio!
+TEXT_KINGKW201_05454_BRIGID_200_429	Si necesitáis mis... servicios, exijo... aether. Mucho aether.
+TEXT_KINGKW201_05454_Q4_000_000	¿Qué dirás?
+TEXT_KINGKW201_05454_A4_000_001	Hagamos un pacto.
+TEXT_KINGKW201_05454_A4_000_002	Bueno, siempre que prometas prestarnos tu poder...
+TEXT_KINGKW201_05454_BRIGID_000_431	¡Oooerh! Siento... vuestro aether. ¡Dulce aether! Con vos haré... el trato.
+TEXT_KINGKW201_05454_BRIGID_100_431	Cuando mi poder fluya, os... ayudaré.
+TEXT_KINGKW201_05454_LYDIRCEIL_000_432	Si esto de verdad es parte del proceso, tendremos que ayudar al bichito a liberar su verdadero poder antes de siquiera pensar en mejorar el martillo de Gerolt... De todos modos, me alegra tenerte de nuevo con nosotros.

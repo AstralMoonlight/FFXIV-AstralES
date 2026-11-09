@@ -1,0 +1,115 @@
+key	text
+TEXT_LUCKSA111_03951_SEQ_00	Bajsaljen está decidido a tomar Castrum Lacus Litore y quiere que te unas a él.
+TEXT_LUCKSA111_03951_SEQ_01	La Resistance ha luchado con valor para obligar a las tropas imperiales a replegarse al castrum, y por fin Operation Eagle's Nest puede llegar a su fin. Bajsaljen está listo para guiar a Gunnhildr's Blades hasta las entrañas de la bestia, y no se le ocurre mejor soldado que tú para acompañarlos.<br><br>※Se puede entrar a Castrum Lacus Litore mediante el enfrentamiento crítico correspondiente.
+TEXT_LUCKSA111_03951_SEQ_02	Vencer a los soldados imperiales te cuesta casi nada. Pero antes de que puedas planear tu siguiente paso, Misija aparece ante ti con Mikoto, el foco de cristal y la legendaria espada Save the Queen. Usando a Mikoto como rehén, Misija te obliga a activar el foco de cristal para explorar los recuerdos de la espada sagrada. Su intención queda clara poco después, cuando la reina Gunnhildr surge como una entidad semejante a un primal y esclaviza las mentes de los soldados que llevan el título de su guardia. La amenaza de la reina resulta demasiado grande y obliga a la Resistance a retirarse del castrum.
+TEXT_LUCKSA111_03951_SEQ_03	Tras reagruparse en Utya's Aegis, hablan de lo ocurrido en el castrum. Mikoto explica que Misija descubrió la manera de alterar los recuerdos de Save the Queen, lo que le permitió llamar a la reina Gunnhildr de un modo parecido a la invocación de un primal. Tras perder el castrum y a Gunnhildr's Blades, la Resistance debe pensar muy bien cómo seguir.
+TEXT_LUCKSA111_03951_SEQ_04	La Resistance sufrió una grave derrota en Castrum Lacus Litore, pero no se desanima. Marsak te informa que acaban de llegar refuerzos de Dalmasca y que vienen más en camino de la alianza del Este. Aunque tomará tiempo, la Resistance no descansará hasta liberar a Bozja del dominio imperial.
+TEXT_LUCKSA111_03951_TODO_00	Supera el enfrentamiento crítico "the Battle of Castrum Lacus Litore".
+TEXT_LUCKSA111_03951_TODO_01	Habla con Bajsaljen.
+TEXT_LUCKSA111_03951_TODO_02	Habla con Marsak.
+TEXT_LUCKSA111_03951_SYSTEM_100_000	Se necesita Resistance rank <num(lnum1)> para avanzar en esta misión.
+TEXT_LUCKSA111_03951_BAISHAEN_000_000	Ha llegado la hora, <split(<string(gstr1)>, ,1)>. ¡Este día tomaremos Castrum Lacus Litore!
+TEXT_LUCKSA111_03951_BAISHAEN_000_001	En nombre de la Resistance, le ofrezco mi más humilde agradecimiento. No habríamos llegado tan lejos sin su ayuda.
+TEXT_LUCKSA111_03951_BAISHAEN_000_002	¿Qué me dice, <if(gnum4,amiga mía,amigo mío)>? ¿Está <if(gnum4,lista,listo)> para aplastar a los garleanos?
+TEXT_LUCKSA111_03951_Q1_000_100	¿Qué vas a decir?
+TEXT_LUCKSA111_03951_A1_000_100	No podrían detenerme aunque quisieran.
+TEXT_LUCKSA111_03951_A2_000_100	Parece que lo tienen todo bajo control, pero si insisten.
+TEXT_LUCKSA111_03951_BAISHAEN_000_005	La batalla por el castrum será sin duda la más feroz hasta ahora, pero no olviden su entrenamiento. No olviden todo por lo que hemos luchado. Ustedes son Gunnhildr's Blades, y por la gracia de la reina venceremos este día. Ahora, preparémonos para la batalla. ¡Por Bozja!
+TEXT_LUCKSA111_03951_BAISHAEN_000_006	Los informes indican que un poderoso mago está al mando del castrum, y la presencia de Lyon sas Helsos dará problemas, por decir lo menos.
+TEXT_LUCKSA111_03951_BAISHAEN_000_007	Aun así, con usted a nuestro lado, confío en que al final saldremos victoriosos.
+TEXT_LUCKSA111_03951_SYSTEM_100_008	Ahora tienes acceso al enfrentamiento crítico "the Battle of Castrum Lacus Litore".
+TEXT_LUCKSA111_03951_SYSTEM_101_008	Este enfrentamiento crítico comenzará cuando haya en el frente sur de Bozja un número suficiente de jugadores con acceso a Castrum Lacus Litore.
+TEXT_LUCKSA111_03951_SYSTEM_111_008	Además, completar otras escaramuzas y enfrentamientos críticos reducirá el tiempo necesario para que la batalla de Castrum Lacus Litore pueda iniciarse de nuevo.
+TEXT_LUCKSA111_03951_SYSTEM_102_008	Asegúrate de preparar lost actions desde el lost finds cache, ya que pueden ser clave para cambiar el curso de la batalla.
+TEXT_LUCKSA111_03951_BAISHAEN_000_010	Si lo logramos, el sur de Bozja bien podría quedar libre del yugo del Imperio. Con usted a nuestro lado, tengo pocas dudas de que al final saldremos victoriosos.
+TEXT_LUCKSA111_03951_TODO_000_100	Habla con Bajsaljen.
+TEXT_LUCKSA111_03951_MARSHAK_000_300	¿Algo le preocupa?
+TEXT_LUCKSA111_03951_BAISHAEN_000_301	Sus soldados cayeron con tanta facilidad y huyeron tan rápido. Todo esto parece... demasiado fácil.
+TEXT_LUCKSA111_03951_MARSHAK_000_302	Atacamos antes de que llegaran sus refuerzos, como estaba planeado, y nuestros soldados lucharon con valor. Si cree que la victoria fue fácil, señor, es porque su plan se ejecutó al pie de la letra.
+TEXT_LUCKSA111_03951_BAISHAEN_000_303	Quizá...
+TEXT_LUCKSA111_03951_LILJA_000_304	¡<split(<string(gstr1)>, ,1)>!
+TEXT_LUCKSA111_03951_LILJA_000_305	¿Está... \<jadeo> \<jadeo> ¿Está bien... Mikoto?
+TEXT_LUCKSA111_03951_MARSHAK_000_306	Debemos separarnos para buscarla.
+TEXT_LUCKSA111_03951_MEESIYA_000_307	(-Misija-)No creo que haga falta.
+TEXT_LUCKSA111_03951_BAISHAEN_000_308	La superamos en número y en fuerza, Misija. Suéltela, y todavía podríamos ser indulgentes con usted.
+TEXT_LUCKSA111_03951_MEESIYA_000_309	No vine a negociar, Bajsaljen.
+TEXT_LUCKSA111_03951_BAISHAEN_000_310	Por favor, Misija. Sea cual sea su agravio, estoy seguro de que podemos encontrar una solución. Pero tiene que soltarla.
+TEXT_LUCKSA111_03951_BAISHAEN_000_311	Podemos construir una Bozja mejor, Misija. Juntos.
+TEXT_LUCKSA111_03951_MEESIYA_000_312	Siempre tan optimista. Y seguramente el primero en caer cuando todo esto termine.
+TEXT_LUCKSA111_03951_MEESIYA_000_313	<split(<string(gstr1)>, ,1)>. Si quieres verla ilesa, ven aquí. Despacito.
+TEXT_LUCKSA111_03951_BAISHAEN_000_314	(Prepare a los Blades y espere una oportunidad.)
+TEXT_LUCKSA111_03951_MEESIYA_000_315	Cuánto he esperado este momento.
+TEXT_LUCKSA111_03951_MIKOTO_000_316	<split(<string(gstr1)>, ,1)>, lo siento tanto...
+TEXT_LUCKSA111_03951_MEESIYA_000_317	Cuidado. Sería una lástima que me viera obligada a mancillar una reliquia sagrada como esta.
+TEXT_LUCKSA111_03951_MEESIYA_000_318	¿Te gustaría ilustrar a <if(gnum4,nuestra amiga,nuestro amigo)> aquí presente sobre su historia?
+TEXT_LUCKSA111_03951_MARSHAK_000_319	¿Qué está tramando? ¿Y qué es esa espada tan extraña?
+TEXT_LUCKSA111_03951_MEESIYA_000_320	Toma.
+TEXT_LUCKSA111_03951_MEESIYA_000_321	Vamos a dar un paseíto por los recuerdos de esta espada. Si quieres que Mikoto siga entera, claro.
+TEXT_LUCKSA111_03951_LILJA_000_322	¡Mikoto!
+TEXT_LUCKSA111_03951_MEESIYA_000_323	¡Hazlo! ¡Hazlo ya!
+TEXT_LUCKSA111_03951_MARSHAK_000_324	¿Misija pretende explorar los recuerdos de esa espada? Quizá mientras esté ocupada podamos-
+TEXT_LUCKSA111_03951_BAISHAEN_000_325	No. Parece que Mikoto y <split(<string(gstr1)>, ,1)> irán con ella. Interrumpirlos podría tener consecuencias funestas. Debemos esperar nuestro momento.
+TEXT_LUCKSA111_03951_BLADESOFGUNNHILDR_000_350	¿Está hecho, entonces?
+TEXT_LUCKSA111_03951_BLADESOFGUNNHILDR_000_351	No respira, y su pulso se detuvo.
+TEXT_LUCKSA111_03951_BLADESOFGUNNHILDR_000_352	Tuvimos la suerte de tomarla desprevenida. Si hubiéramos despertado la ira de la espada, podría habernos destruido a todos.
+TEXT_LUCKSA111_03951_BLADESOFGUNNHILDR_000_353	Una muerte rápida e indolora. Lo más probable es que ni se haya dado cuenta de lo que pasó.
+TEXT_LUCKSA111_03951_MIKOTO_000_354	¿Es este... el recuerdo de la última reina?
+TEXT_LUCKSA111_03951_QUEENGUNNHILDR_000_355	Cierto es que la espada poseía un poder terrible. Mas ¿era este el único camino?
+TEXT_LUCKSA111_03951_QUEENGUNNHILDR_000_356	Me creí capaz de controlarlo, de encauzar su poder para el bien. Y sin embargo... parece que no estuve a la altura.
+TEXT_LUCKSA111_03951_QUEENGUNNHILDR_000_357	Al menos, me consuela saber que mi pueblo está a salvo.
+TEXT_LUCKSA111_03951_MEESIYA_000_358	Solo mentiras y engaños. Te usaron, te traicionaron, te masacraron y arrastraron tu nombre por el lodo.<br>¡Ahora, levántate, mi reina! ¡Cobra tu venganza y borra su legado maldito de las páginas de la historia!
+TEXT_LUCKSA111_03951_MIKOTO_000_359	¡No! ¡Déjela en paz!
+TEXT_LUCKSA111_03951_MEESIYA_000_400	¡Ve! ¡Reclama lo que es tuyo!
+TEXT_LUCKSA111_03951_STANIK_000_401	Muerte a los impostores... En nombre de la reina...
+TEXT_LUCKSA111_03951_BAISHAEN_000_402	¡Retirada!
+TEXT_LUCKSA111_03951_LILJA_000_403	¡Mikoto, no!
+TEXT_LUCKSA111_03951_BAISHAEN_000_404	¡Marsak!
+TEXT_LUCKSA111_03951_BAISHAEN_000_405	¡<split(<string(gstr1)>, ,1)>! ¡Debemos retirarnos y reagruparnos!
+TEXT_LUCKSA111_03951_BWAGI_000_405	¡Todos ustedes, corran!
+TEXT_LUCKSA111_03951_MIKOTO_000_410	Misija siempre pareció tan amable y atenta. ¿Por qué tuvo que llegar a esto?
+TEXT_LUCKSA111_03951_MIKOTO_000_411	Me gustaría creer que el Imperio la engañó de algún modo, pero... sé que no es tan simple. Tenemos que detenerla, <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKSA111_03951_LILJA_000_412	Si no lo hubiera visto con mis propios ojos, no lo creería...
+TEXT_LUCKSA111_03951_BWAGI_000_414	Con usted nada es simple nunca, ¿verdad? Yo solo vine a entregar un mensaje de Lady Fran.
+TEXT_LUCKSA111_03951_BWAGI_000_415	No entiendo qué pasa aquí, pero no pienso quedarme lo suficiente para averiguarlo. Le sugiero que usted tampoco se quede mucho.
+TEXT_LUCKSA111_03951_MARSHAK_000_416	Estuvimos tan cerca. Malditamente cerca... Misija <italic(1)>va<italic(0)> a pagar por esto.
+TEXT_LUCKSA111_03951_BAISHAEN_000_500	Así que las leyendas sobre su poder son ciertas. Las creíamos meros cuentos de hadas.
+TEXT_LUCKSA111_03951_BWAGI_000_501	No sería la primera vez que uno resulta cierto. Créame.
+TEXT_LUCKSA111_03951_MARSHAK_000_502	¡Pero ella es la protectora de Bozja! ¿Por qué haría la reina algo así...?
+TEXT_LUCKSA111_03951_MIKOTO_000_503	Misija. Ella sembró una semilla de odio en la reina.
+TEXT_LUCKSA111_03951_LILJA_000_504	¿Entonces alteró la memoria de la reina?
+TEXT_LUCKSA111_03951_MIKOTO_000_505	Ese odio pareció reafirmarse cuando la reina vio a los soldados que portaban las armas de su guardia. Lo más probable es que Misija previera esa reacción.
+TEXT_LUCKSA111_03951_BAISHAEN_000_506	Muerte a los impostores, dijeron... Dioses, ¿qué sucedió hace tantos años?
+TEXT_LUCKSA111_03951_MARSHAK_000_507	No nos detengamos en el pasado. Hay que salvar a los Blades.
+TEXT_LUCKSA111_03951_MIKOTO_000_508	Me temo que los efectos del tempering no se pueden revertir... O más bien, aún no se ha encontrado la cura.
+TEXT_LUCKSA111_03951_MARSHAK_000_509	Maldición. ¿Eso también era parte de su plan?
+TEXT_LUCKSA111_03951_BAISHAEN_000_510	Volvamos a Gangos. Todavía tenemos mucho que discutir.
+TEXT_LUCKSA111_03951_MARSHAK_000_511	Entendido.
+TEXT_LUCKSA111_03951_MARSHAK_000_550	Perder el castrum y a Gunnhildr's Blades a la vez... Un golpe duro y por demás inesperado.
+TEXT_LUCKSA111_03951_MARSHAK_000_551	Parece que, en lugar de confiar en la simple fuerza numérica, Menenius tuvo desde el principio un plan mucho más retorcido. Y caímos de lleno en su trampa.
+TEXT_LUCKSA111_03951_MARSHAK_000_552	Por suerte, acaban de llegar refuerzos de Dalmasca, y pronto se nos unirán más de la alianza del Este.
+TEXT_LUCKSA111_03951_MARSHAK_000_553	Hasta entonces, no queda más que esperar y planear nuestro próximo paso. Es hora de descansar, <if(gnum4,amiga mía,amigo mío)>. Se lo ha ganado de sobra.
+TEXT_LUCKSA111_03951_SYSTEM_000_599	Mientras tanto, en Castrum Lacus Litore...
+TEXT_LUCKSA111_03951_RIAN_000_600	¡Vaya, vaya! Por aquí se dice que invocaste a un primal, ¿es cierto? Sin duda sabes causar una buena primera impresión, ¿eh, muchacha?
+TEXT_LUCKSA111_03951_RIAN_000_601	He visto algo parecido con Albeleo y esa auracite suya, pero ¿una invocación de primal? Eso requiere muchísimo más aether, ¿no? E imagino que todavía más para controlarlo.
+TEXT_LUCKSA111_03951_MENENIUS_000_602	Lo hiciste bien. Ahora, ve. Atiende tus heridas.
+TEXT_LUCKSA111_03951_MENENIUS_000_603	Es una orden. Tenemos tiempo de sobra antes de que la Resistance regrese, y cuando lo haga, volveré a necesitarte. ¿Entendido?
+TEXT_LUCKSA111_03951_MEESIYA_000_604	Sí, señor.
+TEXT_LUCKSA111_03951_RIAN_000_605	Pobrecita. Si tan solo aprendiera a soltar, sería mejor para todos. Bueno, para algunos más que para otros...
+TEXT_LUCKSA111_03951_MENENIUS_000_606	...¿Qué quiere?
+TEXT_LUCKSA111_03951_RIAN_000_607	Supongo que estás al tanto de la solicitud de la IIIrd Legion de volver a la capital.
+TEXT_LUCKSA111_03951_MENENIUS_000_608	Por supuesto que lo estoy. Pero Gabranth no está en posición de obedecer tales órdenes.
+TEXT_LUCKSA111_03951_RIAN_000_609	Lo imaginé. No es que importe. Nerva es igual que su padre Titus, débil y cobarde. No sirve para dar órdenes, y mucho menos para guiar una nación.
+TEXT_LUCKSA111_03951_RIAN_000_610	Después de haber servido a las órdenes de Basch, entiendo muy bien tu frustración, pero la Garlemald que añoras es cosa del pasado.
+TEXT_LUCKSA111_03951_RIAN_000_611	Aunque debo decir que tus planes para ganar tiempo han resultado muy eficaces. Solo queda esperar que estés tan preparado como nuestro querido Noah para lo que viene.
+TEXT_LUCKSA111_03951_MENENIUS_000_612	¿Qué es lo que intenta decir?
+TEXT_LUCKSA111_03951_RIAN_000_613	Los soldados con el potencial de ella no se usan y se tiran como una bota vieja.
+TEXT_LUCKSA111_03951_MENENIUS_000_614	Yo... Nosotros jamás la hemos considerado desechable. Es un activo valioso.
+TEXT_LUCKSA111_03951_RIAN_000_615	Por ahora, al menos. Como siempre digo, la muerte encuentra la manera de eliminar a los mediocres y a los desafortunados.
+TEXT_LUCKSA111_03951_MENENIUS_000_616	\<suspiro> Casi envidio su despreocupación. No es que vaya a hacer caso de mis consejos en estos asuntos, y menos aún de los de Gabranth.
+TEXT_LUCKSA111_03951_RIAN_000_617	Lo dice el que ignora los consejos de sus pares y de sus superiores por defender Bozja.
+TEXT_LUCKSA111_03951_RIAN_000_618	Pero tengo que reconocértelo, esclavizar a esos soldados de la Resistance fue una idea fantástica. ¿Para qué molestarse en persuadir si puedes dominar las mentes? ¡Jajaja!
+TEXT_LUCKSA111_03951_MENENIUS_000_619	La adulación no le sienta, Lyon, ni siquiera cuando es falsa.
+TEXT_LUCKSA111_03951_RIAN_000_620	Quizá, pero los trucos sucios como ese te sientan muy bien, ¿no? Siempre fuiste un bastardo intrigante. Una verdadera víbora.
+TEXT_LUCKSA111_03951_MENENIUS_000_621	<italic(1)>Eso<italic(0)> lo tomaré como un cumplido.
+TEXT_LUCKSA111_03951_SYSTEM_000_800	Ahora puedes cambiar Bozjan coins por equipo hablando con el proveedor de la Resistance en Utya's Aegis.
+TEXT_LUCKSA111_03951_SYSTEM_000_801	El equipo del proveedor de la Resistance posee atributos especiales que solo tienen efecto al combatir en el frente sur de Bozja.

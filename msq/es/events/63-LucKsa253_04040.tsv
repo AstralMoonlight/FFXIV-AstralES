@@ -1,0 +1,54 @@
+key	text
+TEXT_LUCKSA253_04040_SEQ_00	Zlatan está listo para despedirte una vez más.<br>※Cambiar de clase o job impide avanzar en esta misión.
+TEXT_LUCKSA253_04040_SEQ_01	Aunque le alivia saber que las ruinas bozjanas no son el único lugar donde encontrar antigüedades hechas de limolita aetérica, a Zlatan no le incomoda menos que la ardua tarea de conseguirlas recaiga en ti. Gerolt confía en que quince reliquias bastarán para tus planes, así que partes en busca de ruinas oscuras y peligrosas, con la esperanza de que su cálculo sea acertado.<br><br>※No puedes avanzar con una clase o job distinto del que tenías al aceptar esta misión.<br>※Los timeworn artifacts se obtienen completando la raid Delubrum Reginae o la deep dungeon Palace of the Dead.
+TEXT_LUCKSA253_04040_SEQ_02	Regresas a Gangos con un surtido de artefactos que te costó ganarte. Una vez cargados en el nodo allagano, junto con el arma Resistance, el proceso de refinado resulta sorprendentemente sencillo. Casi sospechosamente sencillo. Zlatan y Gerolt hablan entonces de si es factible repetir el refinado, lo que da pie a una grabación igual de sospechosa del nodo allagano, que ensalza la mercancía de la House of Splendors que te ahorraría la molestia de buscar más artefactos, aunque por un precio. Zlatan no te prohibirá comprarle a la House of Splendors, pero se comprende que quiera evitar todo trato innecesario con la notoriamente inescrupulosa Rowena.
+TEXT_LUCKSA253_04040_TODO_00	<if([lnum1<lnum2],Obtén timeworn artifacts,Con <if([lnum4==19],<ennoun(Item,2,32651,1,1)> y <ennoun(Item,2,32668,1,1)>,<if([lnum4==20],<ennoun(Item,2,32652,1,1)>,<if([lnum4==21],<ennoun(Item,2,32653,1,1)>,<if([lnum4==22],<ennoun(Item,2,32654,1,1)>,<if([lnum4==23],<ennoun(Item,2,32655,1,1)>,<if([lnum4==24],<ennoun(Item,2,32659,1,1)>,<if([lnum4==25],<ennoun(Item,2,32660,1,1)>,<if([lnum4==27],<ennoun(Item,2,32661,1,1)>,<if([lnum4==28],<ennoun(Item,2,32662,1,1)>,<if([lnum4==30],<ennoun(Item,2,32656,1,1)>,<if([lnum4==31],<ennoun(Item,2,32658,1,1)>,<if([lnum4==32],<ennoun(Item,2,32657,1,1)>,<if([lnum4==33],<ennoun(Item,2,32663,1,1)>,<if([lnum4==34],<ennoun(Item,2,32664,1,1)>,<if([lnum4==35],<ennoun(Item,2,32665,1,1)>,<if([lnum4==37],<ennoun(Item,2,32666,1,1)>,<if([lnum4==38],<ennoun(Item,2,32667,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario o Armoury Chest\, entrega los timeworn artifacts al nodo allagano en Gangos)>.
+TEXT_LUCKSA253_04040_SYSTEM_800_000	Ten en cuenta que al completar la misión "A New Path of Resistance" recibirás un arma Resistance para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_LUCKSA253_04040_SYSTEM_801_000	Asegúrate de cambiar al job que quieras antes de hablar con Zlatan.
+TEXT_LUCKSA253_04040_Q1_800_000	¿Qué haces?
+TEXT_LUCKSA253_04040_A1_800_000	Aceptar esta misión con otro job.
+TEXT_LUCKSA253_04040_A2_800_000	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_LUCKSA253_04040_SYSTEM_800_001	Habla de nuevo con Zlatan cuando quieras aceptar esta misión.
+TEXT_LUCKSA253_04040_SYSTEM_800_005	Ya recibiste <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>. Cambia a otro job y habla de nuevo con Zlatan.
+TEXT_LUCKSA253_04040_SYSTEM_800_006	Ya recibiste <ennoun(Item,2,lnum1,1,1)>. Cambia a otro job y habla de nuevo con Zlatan.
+TEXT_LUCKSA253_04040_SYSTEM_800_008	Para aceptar la misión "A New Path of Resistance", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en tu Armoury Chest o en tu inventario.
+TEXT_LUCKSA253_04040_SYSTEM_800_009	Para aceptar la misión "A New Path of Resistance", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> equipado, en tu Armoury Chest o en tu inventario.
+TEXT_LUCKSA253_04040_ZLATAN_000_000	¿Quién iba a pensar que la respuesta a nuestras plegarias estaría, de todos los lugares, en la cerámica antigua?
+TEXT_LUCKSA253_04040_ZLATAN_000_001	Y gracias a los mercaderes de hace incontables años, esas reliquias se pueden encontrar mucho más allá de su región de origen. Considerando el estado actual de Bozja, poder buscarlas en otros lugares podría beneficiarnos.
+TEXT_LUCKSA253_04040_ZLATAN_000_002	Digo "nos", pero me temo que la tarea de conseguirlas recae en usted, Blade <split(<string(gstr1)>, ,2)>. Aunque no me atrevo a preguntar por qué, el maestro Gerolt está muy seguro de que quince artefactos hechos de limolita aetérica contendrán la cantidad necesaria para recubrir su arma Resistance. Confío en que usted sabe mejor que yo qué ruinas merecen explorarse, así que dejo lo demás en sus manos. Buen viaje.
+TEXT_LUCKSA253_04040_ZLATAN_000_010	¿Viene a refinar otra arma Resistance? Entonces necesitaremos más limolita aetérica.
+TEXT_LUCKSA253_04040_ZLATAN_000_011	Después de su última incursión, confío en que sabe dónde buscar las antigüedades necesarias, así que no diré más. El nodo estará esperando su regreso.
+TEXT_LUCKSA253_04040_SYSTEM_000_020	Los timeworn artifacts se obtienen completando la raid Delubrum Reginae o la deep dungeon Palace of the Dead.
+TEXT_LUCKSA253_04040_MEMORIZESYSTEM_000_028	\<bip> \<bip> No se puede iniciar la extracción de limolita aetérica. Inserte artefactos.
+TEXT_LUCKSA253_04040_SYSTEM_000_026	Los timeworn artifacts se obtienen completando la raid Delubrum Reginae o la deep dungeon Palace of the Dead.
+TEXT_LUCKSA253_04040_MEMORIZESYSTEM_000_050	\<bip> Arma no encontrada. \<bip> Entregue el arma para continuar con la mejora.
+TEXT_LUCKSA253_04040_MEMORIZESYSTEM_000_055	\<bip> \<bip> Inserte las materias primas para iniciar la extracción de limolita aetérica.
+TEXT_LUCKSA253_04040_MEMORIZESYSTEM_000_060	\<bip> Escaneando...<br>\<bip> \<bip> Limolita aetérica detectada. Inserte el arma.
+TEXT_LUCKSA253_04040_MEMORIZESYSTEM_000_061	\<bip> Arma detectada. Preparando revestimiento aeteroaislante.
+TEXT_LUCKSA253_04040_MEMORIZESYSTEM_000_062	Aether del arma estabilizado. \<bip> Seleccione los recuerdos para el ajuste de atributos deseado.
+TEXT_LUCKSA253_04040_Q1_000_100	¿Qué haces?
+TEXT_LUCKSA253_04040_A1_000_100	Ajustar los atributos del arma Resistance.
+TEXT_LUCKSA253_04040_A2_000_100	Preguntar por el proceso de refinado.
+TEXT_LUCKSA253_04040_A3_000_100	Nada.
+TEXT_LUCKSA253_04040_SYSTEM_000_301	Al suministrarle timeworn artifacts al nodo allagano, puedes aumentar a tu gusto los cuatro atributos disponibles de tu arma Resistance.
+TEXT_LUCKSA253_04040_SYSTEM_000_302	Cuando estés conforme con el reparto de atributos, selecciona <colortype(500)><edgecolortype(501)>Allocate<edgecolortype(0)><colortype(0)> para completar el proceso.
+TEXT_LUCKSA253_04040_SYSTEM_000_303	Elige con cuidado, pues redistribuir los atributos requerirá conseguir materiales adicionales.
+TEXT_LUCKSA253_04040_MEMORIZESYSTEM_000_070	\<bip> \<bip> Escaneando registro... Preparando recuerdos para la extracción...
+TEXT_LUCKSA253_04040_MEMORIZESYSTEM_000_071	\<bip> Aplicando revestimiento aeteroaislante...<br>\<bip> \<bip> Iniciando infusión de recuerdos aetéricos...
+TEXT_LUCKSA253_04040_GEROLT_000_072	Vaya, que me parta un rayo. ¡Funcionó!
+TEXT_LUCKSA253_04040_GEROLT_000_080	Hay que reconocérselo a la bola de tuercas allagana: cualquier herrero que se precie estaría orgulloso de un arma tan fina como esta. <if([gnum68==20],Los llamaré,<if([gnum68==30],Los llamaré,<if([gnum68==38],Los llamaré,La llamaré)>)>)> ¡<ennoun(Item,2,lnum1,1,1)>!
+TEXT_LUCKSA253_04040_GEROLT_000_081	Hay que reconocérselo a la bola de tuercas allagana: cualquier herrero que se precie estaría orgulloso de un arma tan fina como esta. La llamaré ¡<ennoun(Item,2,lnum1,1,1)>!
+TEXT_LUCKSA253_04040_GEROLT_000_082	¿Y qué mejor pareja para ella que <ennoun(Item,2,lnum1,1,1)>?
+TEXT_LUCKSA253_04040_GEROLT_000_100	Claro que si algo no anda bien con <if([gnum68==19],ellos,<if([gnum68==20],ellos,<if([gnum68==30],ellos,<if([gnum68==38],ellos,el arma)>)>)>)>, díselo al nodo, no a mí.
+TEXT_LUCKSA253_04040_MEMORIZESYSTEM_000_101	\<bip> Advertencia. \<bip> Advertencia.<br>Las infusiones de recuerdos posteriores requieren volver a aplicar el revestimiento aeteroaislante.
+TEXT_LUCKSA253_04040_ZLATAN_000_102	Lo que significa que Blade <split(<string(gstr1)>, ,2)> tendría que conseguir más limolita.
+TEXT_LUCKSA253_04040_MEMORIZESYSTEM_000_103	¡Y no hay mejor lugar para conseguir dicha limolita que la House of Splendors de Rowena!
+TEXT_LUCKSA253_04040_MEMORIZESYSTEM_000_104	Nuestros puestos ofrecen las mejores reliquias, con altas concentraciones de limolita aetérica, seguras de satisfacer todas sus necesidades de forja de armas. ¡Visite hoy a su representante más cercano de la House of Splendors y reciba un descuento en su primera compra!<br>Si lo que busca es calidad, venga a Mor Dhona y deje que la señora Rowena le dé un toque de esplendor a su vida.
+TEXT_LUCKSA253_04040_MEMORIZESYSTEM_000_105	Este anuncio le fue presentado por la House of Splendors de Rowena.<br><italic(1)>La House of Splendors no se hace responsable de daños, lesiones o muerte<br>dolorosa derivados del uso, mal uso o imposibilidad de uso de sus productos.<br>Oferta nula en el vacío donde esté prohibida o no prohibida.<italic(0)>
+TEXT_LUCKSA253_04040_GEROLT_000_106	Maldita sea... ¿Nada está a salvo de esa bruja codiciosa?
+TEXT_LUCKSA253_04040_GEROLT_000_107	Supongo que debería considerarme afortunado. Al menos conservé mi nombre, no como el resto de sus malditos subordinados. \<suspiro> Aunque seguro que no tardará en venir por él también...
+TEXT_LUCKSA253_04040_GEROLT_000_120	Recuerda, <if(gnum4,muchacha,muchacho)>: si algo no anda bien con <if([gnum68==19],ellos,<if([gnum68==20],ellos,<if([gnum68==30],ellos,<if([gnum68==38],ellos,el arma)>)>)>)>, díselo al nodo, no a mí.
+TEXT_LUCKSA253_04040_MEMORIZESYSTEM_000_121	\<bip> Se requiere limolita aetérica adicional para volver a aplicar el revestimiento aeteroaislante. Para máxima eficiencia, se recomiendan los artefactos de la House of Splendors de Rowena. \<bip> ¡Los representantes de la House of Splendors están a sus órdenes!
+TEXT_LUCKSA253_04040_ZLATAN_000_122	Hm... Sin duda eso le ahorraría la carga excesiva de recorrer el mundo buscando las antigüedades necesarias. Claro, sin mencionar el pago que esperarían a cambio...
+TEXT_LUCKSA253_04040_ZLATAN_000_123	Por lo que entiendo, endeudarse con ellos, financieramente o de otro modo, sería poco aconsejable.
+TEXT_LUCKSA253_04040_SYSTEM_000_124	El aetherial sealant se obtiene de Auriana en Revenant's Toll o de Hismena en Idyllshire.

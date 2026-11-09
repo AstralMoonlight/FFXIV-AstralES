@@ -1,0 +1,14 @@
+key	text
+TEXT_JOBREL006_01141_SEQ_00	Brangwine quiere confirmar si te interesa uno de sus mysterious maps.
+TEXT_JOBREL006_01141_SEQ_01	Brangwine está dispuesta a darte un mysterious map a cambio de, básicamente, robarles a los muertos. Aunque no puedes evitar sospechar de sus motivos, debes hacer lo que te pide si quieres reinar en tu cocina. Los efectos personales de tus colegas caídos suelen aparecer donde rondan las criaturas más mortíferas del lugar.<br><br>※El objeto clave se puede obtener al completar una mazmorra con Duty Roulette: High-level Dungeons.
+TEXT_JOBREL006_01141_SEQ_02	Conseguiste un saco con los efectos personales de algún desdichado aventurero. Regresa a Revenant's Toll y preséntaselo a Brangwine.
+TEXT_JOBREL006_01141_SEQ_03	Le entregas el sack of adventurer's effects a Brangwine y, por tus molestias, recibes un mysterious map. Ahora tú también puedes reinar en tu cocina... si es que eso es lo que tu corazón desea.<br><br>※Esta misión repetible se puede hacer una vez al día. Al completarla, volverá a estar disponible al día siguiente a las <setresettime(0)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p.m.,a.m.)> (hora de la Tierra).
+TEXT_JOBREL006_01141_TODO_00	Consigue un sack of adventurer's effects al completar una mazmorra con Duty Roulette: High-level Dungeons.
+TEXT_JOBREL006_01141_TODO_01	Entrégale a Brangwine el sack of adventurer's effects.
+TEXT_JOBREL006_01141_BRANGWINE_000_000	¿Así que te interesa mi pequeña propuesta? ¡Maravilloso! ¡Estoy deseando hurgar en los efectos personales de tus colegas caídos!
+TEXT_JOBREL006_01141_BRANGWINE_000_001	Como te dije, suelen aparecer donde rondan las criaturas más mortíferas. Te prometo que tu mysterious map te estará esperando cuando vuelvas. ¡Entonces tú también podrás deleitarte con una cocina impecable!
+TEXT_JOBREL006_01141_BRANGWINE_000_010	Los efectos personales de los aventureros caídos suelen aparecer donde rondan las criaturas más mortíferas. Te prometo que tu mysterious map te estará esperando cuando vuelvas. ¡Entonces tú también podrás disfrutar de una cocina impecable!
+TEXT_JOBREL006_01141_BRANGWINE_000_050	Ah, regresaste, jovencit<if(gnum4,a,o)>. ¿Y con buenas noticias, espero?
+TEXT_JOBREL006_01141_BRANGWINE_000_055	...¡Ay, qué buen botín! ¿Y dices que lo encontraste todo en este saco? Vaya, qué considerado de parte de nuestros queridos difuntos, ¿no? En fin, con lo que hay dentro debería poder...
+TEXT_JOBREL006_01141_BRANGWINE_000_056	¡Ay, Dios, casi se me escapa mi secretito! ¡Baste decir que estoy satisfecha con nuestro trato!
+TEXT_JOBREL006_01141_BRANGWINE_000_057	Gracias, jovencit<if(gnum4,a,o)>. De veras eres de fiar. Ojalá tuviera <if(gnum4,una hija,un hijo)> como tú en lugar del caso perdido que me tocó. Si necesitas más mysterious maps, ya sabes qué traerme.

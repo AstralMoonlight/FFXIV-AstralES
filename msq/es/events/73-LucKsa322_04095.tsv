@@ -1,0 +1,28 @@
+key	text
+TEXT_LUCKSA322_04095_SEQ_00	Merlzirn necesita a alguien que no tema excavar detrás de las líneas enemigas.
+TEXT_LUCKSA322_04095_TODO_00	Supera el enfrentamiento crítico "the Battle of Castrum Lacus Litore".
+TEXT_LUCKSA322_04095_TODO_01	Supera el enfrentamiento crítico "the Dalriada".
+TEXT_LUCKSA322_04095_TODO_02	Entrega las ancient Bozjan raiments y las ancient Bozjan armor a Merlzirn.
+TEXT_LUCKSA322_04095_SYSTEM_100_000	Para emprender esta misión debes haber acumulado <kilo(lnum2,\,)> de mettle.
+TEXT_LUCKSA322_04095_SYSTEM_100_001	Has acumulado <kilo(lnum2,\,)> de mettle.
+TEXT_LUCKSA322_04095_MERLZIRN_000_000	¡Por mi vida, Blade <split(<string(gstr1)>, ,2)>! Es un honor, <if(gnum4,señora,señor)>.
+TEXT_LUCKSA322_04095_MERLZIRN_000_001	Me llamo Merlzirn, investigador y curador de artefactos de la antigua Bozja. Trabajo en recrear las vestimentas y las armas de nuestros antepasados, y si me lo permite, creo que ambos nos beneficiaríamos de un poco de cooperación...
+TEXT_LUCKSA322_04095_MERLZIRN_000_002	Con gran riesgo personal, he desafiado el campo de batalla para explorar las ruinas que pude encontrar en busca de reliquias, pero las circunstancias han cambiado en los últimos días.
+TEXT_LUCKSA322_04095_MERLZIRN_000_003	Algo atrajo la atención de la IVth Legion hacia las ruinas, y han estado buscando, excavando algo. Sea lo que sea, no puedo seguir con mi trabajo mientras ronden el lugar.
+TEXT_LUCKSA322_04095_MERLZIRN_000_004	Pero usted ha pasado bastante tiempo detrás de las líneas enemigas, ¿no? Le agradecería muchísimo que trajera las reliquias que encuentre en su próxima incursión.
+TEXT_LUCKSA322_04095_MERLZIRN_000_005	Con solo unos cuantos de estos artefactos, estoy seguro de que puedo recrear las armas de nuestros antepasados, y le prometo que valdrá la pena.
+TEXT_LUCKSA322_04095_SYSTEM_000_006	Esta misión puede completarse una vez por semana, y su estado se reinicia cada <setresettime(17,2)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p.m.,a.m.)> (hora de la Tierra).
+TEXT_LUCKSA322_04095_SYSTEM_000_010	Al completar los enfrentamientos críticos "the Battle of Castrum Lacus Litore" o "the <italic(1)>Dalriada<italic(0)>", recibirás artefactos especiales.
+TEXT_LUCKSA322_04095_SYSTEM_000_011	Debes entregar estos artefactos a Merlzirn para avanzar en esta misión.
+TEXT_LUCKSA322_04095_SYSTEM_000_012	Para participar en esas duties, primero habla con Sjeros en Gangos para viajar al frente sur de Bozja o a Zadnor. Después podrás inscribirte en el enfrentamiento crítico correspondiente cuando esté disponible.
+TEXT_LUCKSA322_04095_MERLZIRN_000_020	Qué gusto <if(gnum4,verla,verlo)>, Blade <split(<string(gstr1)>, ,2)>. Mi investigación avanza a buen paso, en buena parte gracias a sus aportes.
+TEXT_LUCKSA322_04095_MERLZIRN_000_021	Aunque mentiría si dijera que más reliquias no acelerarían mi avance.
+TEXT_LUCKSA322_04095_MERLZIRN_000_022	¿Podría pedirle que recupere más artefactos? Naturalmente, lo que no sirva para mi trabajo es suyo.
+TEXT_LUCKSA322_04095_MERLZIRN_000_030	Gracias otra vez por su ayuda, Blade <split(<string(gstr1)>, ,2)>. Espero con ansias ver qué reliquias consigue.
+TEXT_LUCKSA322_04095_MERLZIRN_000_040	¿Pudo encontrar algo allá afuera?
+TEXT_LUCKSA322_04095_MERLZIRN_000_050	¡Vaya, vaya, qué hallazgo tan extraordinario! Sin duda al maestro Gerolt también le entusiasmará examinar esto.
+TEXT_LUCKSA322_04095_MERLZIRN_000_051	¿Y qué tenemos aquí...? ¡Vaya, parece ser algún tipo de moneda!
+TEXT_LUCKSA322_04095_MERLZIRN_000_052	Sin duda un hallazgo valioso, pero por desgracia a mi trabajo no le sirve. Me parece justo que se la quede, Blade <split(<string(gstr1)>, ,2)>. Quizá pueda encontrarle algún uso.
+TEXT_LUCKSA322_04095_MERLZIRN_000_053	En cuanto a lo demás, esto ayudará mucho a completar mis recreaciones del armamento de la antigua Bozja. Si necesitara más aportes, espero poder recurrir a usted en el futuro.
+TEXT_LUCKSA322_04095_MERLZIRN_000_060	Otro hallazgo fantástico. Gracias, Blade <split(<string(gstr1)>, ,2)>. Ah, ¿y esto qué es...?
+TEXT_LUCKSA322_04095_MERLZIRN_000_061	Más monedas antiguas. Como acordamos, puede hacer con ellas lo que quiera. Espero volver a trabajar con usted.

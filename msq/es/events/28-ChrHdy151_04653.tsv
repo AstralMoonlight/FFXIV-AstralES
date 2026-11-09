@@ -1,0 +1,26 @@
+key	text
+TEXT_CHRHDY151_04653_SEQ_00	El artesano de la House Manderville está listo para atender tu solicitud de forja.<br>※Si cambias de clase o job, no podrás avanzar en esta misión.
+TEXT_CHRHDY151_04653_SEQ_01	Te acercas al artesano de la House Manderville para pedirle forjar una nueva arma Manderville. El servicial artesano solo te pide que le entregues los pedazos de manderium meteorite necesarios, un proceso agotador y caro que ya conoces muy bien.<br><br>※No puedes avanzar con una clase o un job distinto del que tenías al aceptar esta misión.
+TEXT_CHRHDY151_04653_SEQ_02	Apenas pones los pedazos de meteorito en manos del artesano, él y Gerolt colaboran en la creación de otra magistral arma Manderville. Si quieres ampliar tu arsenal de armas Manderville, parece que basta con pedirlo... siempre que traigas suficientes piedras del cielo a precio exorbitante, claro.
+TEXT_CHRHDY151_04653_TODO_00	Entrégale al artesano de la House Manderville los pedazos de manderium meteorite.
+TEXT_CHRHDY151_04653_SYSTEM_100_000	Al completar la misión "Make Another Manderville", recibirás un arma Manderville para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_CHRHDY151_04653_SYSTEM_110_000	Asegúrate de cambiar al job que quieras antes de hablar con el artesano de la House Manderville.
+TEXT_CHRHDY151_04653_Q2_000_000	¿Qué harás?
+TEXT_CHRHDY151_04653_A2_000_000	Aceptar esta misión con otro job.
+TEXT_CHRHDY151_04653_A2_000_001	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_CHRHDY151_04653_SYSTEM_120_000	Habla de nuevo con el artesano de la House Manderville cuando quieras aceptar esta misión.
+TEXT_CHRHDY151_04653_SYSTEM_130_000	Ya recibiste <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>. Cambia a otro job y habla de nuevo con el artesano de la House Manderville.
+TEXT_CHRHDY151_04653_SYSTEM_140_000	Ya recibiste <ennoun(Item,2,lnum1,1,1)>. Cambia a otro job y habla de nuevo con el artesano de la House Manderville.
+TEXT_CHRHDY151_04653_CRAFTER04653_000_000	¡Saludos y salutaciones, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>! Estoy dispuesto y capacitado para ayudarle a crear cualquier arma Manderville que desee.
+TEXT_CHRHDY151_04653_CRAFTER04653_000_001	Antes de atender su pedido, sin embargo, debo pedirle la cantidad necesaria de manderium meteorite. Tres buenos pedazos, para ser exactos.
+TEXT_CHRHDY151_04653_SYSTEM_100_001	Los pedazos de manderium meteorite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY151_04653_CRAFTER04653_150_001	¿Cómo van sus esfuerzos por conseguir el manderium meteorite? ...Ah, siguen en proceso, ya veo. ¡No se preocupe! Soportaré el tedio de la espera imaginando todas las maneras de gastar mis cuantiosos honorarios.
+TEXT_CHRHDY151_04653_SYSTEM_160_001	Los pedazos de manderium meteorite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY151_04653_CRAFTER04653_000_0010	¿Tiene algo para mí, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>?
+TEXT_CHRHDY151_04653_CRAFTER04653_000_0011	¡Ah, sí, los pedazos de meteorito! Claro que no esperaba un curry hannish y una botella de lassi frío, para nada... Ejem, la extracción debería tomar solo un momento, así que le pediré al señor Gerolt que tenga listo su yunque.
+TEXT_CHRHDY151_04653_GEROLT_000_012	¡Otra obra maestra!
+TEXT_CHRHDY151_04653_GEROLT_000_013	¡Ahora tienes con orgullo <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>!
+TEXT_CHRHDY151_04653_GEROLT_000_014	¡Ahora tienes con orgullo <ennoun(Item,2,lnum1,1,1)>!
+TEXT_CHRHDY151_04653_CRAFTER04653_000_015	¡Bravo! ¡Usted es toda una inspiración, señor Gerolt! ¡Jamás habría logrado tanta perfección yo solo, y menos con el estorbo de tanta ropa!
+TEXT_CHRHDY151_04653_GEROLT_000_016	Un día más de trabajo para este perro viejo, ¡ja!
+TEXT_CHRHDY151_04653_CRAFTER04653_000_017	¿Confío en que le satisface el resultado de nuestro trabajo? Si alguna vez desea ampliar su arsenal de armas Manderville, estoy a su servicio en el futuro previsible.

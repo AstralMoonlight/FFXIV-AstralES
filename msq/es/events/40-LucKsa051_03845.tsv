@@ -1,0 +1,30 @@
+key	text
+TEXT_LUCKSA051_03845_SEQ_00	A Zlatan le preocupa mucho el posible costo de forjar más armas Resistance.
+TEXT_LUCKSA051_03845_SEQ_01	Al mencionar que quieres forjar más armas Resistance, a Zlatan se le pone una cara de culpa abrumadora. Como sus arcas no aguantan más deudas, accede a tu pedido con la condición de que consigas el polvo necesario. Cómo hacerlo lo deja por completo a tu criterio.
+TEXT_LUCKSA051_03845_SEQ_02	Por medios de los que quizá sea mejor no hablar, consigues el polvo para el trabajo de Gerolt. Con su nueva arma lista, te pide salir al mundo y perfeccionar tu destreza con esta arma Resistance recién hecha. Y cuando llegue el momento, te ayudará a alcanzar nuevas alturas de perfección marcial.
+TEXT_LUCKSA051_03845_TODO_00	<if([lnum1<lnum2],Consigue Thavnairian scalepowder,Entrégale a Zlatan\, en Gangos\, la Thavnairian scalepowder)>.
+TEXT_LUCKSA051_03845_SYSTEM_800_000	Al completar la misión "Resistance Is (Not) Futile", recibirás un arma Resistance para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_LUCKSA051_03845_SYSTEM_801_000	Asegúrate de cambiar al job que quieras antes de hablar con Zlatan.
+TEXT_LUCKSA051_03845_Q1_800_000	¿Qué haces?
+TEXT_LUCKSA051_03845_A1_800_000	Aceptar esta misión con otro job.
+TEXT_LUCKSA051_03845_A2_800_000	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_LUCKSA051_03845_SYSTEM_800_001	Habla de nuevo con Zlatan cuando quieras aceptar esta misión.
+TEXT_LUCKSA051_03845_SYSTEM_800_005	Ya recibiste <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>. Cambia a otro job y habla de nuevo con Zlatan.
+TEXT_LUCKSA051_03845_SYSTEM_800_006	Ya recibiste <ennoun(Item,2,lnum1,1,1)>. Cambia a otro job y habla de nuevo con Zlatan.
+TEXT_LUCKSA051_03845_ZLATAN_000_000	¿Desea forjar otra arma Resistance? Nos sobran materiales de la primera, pero queda el asunto del polvo.
+TEXT_LUCKSA051_03845_ZLATAN_000_001	Cuando decidimos forjar estas armas, sabíamos que costaría bastante. Pero no es exagerado decir que una sola arma dejó muy mermadas nuestras arcas.
+TEXT_LUCKSA051_03845_ZLATAN_000_002	Me da vergüenza pedirlo después de todo lo que ha hecho por nuestra causa, pero... ¿Podríamos rogarle que consiga el polvo por nosotros?
+TEXT_LUCKSA051_03845_ZLATAN_000_003	Esperemos que conseguir con qué comerciar por más polvo no sea demasiado para alguien tan curtido en la aventura.
+TEXT_LUCKSA051_03845_ZLATAN_000_010	¿Desea forjar <italic(1)>otra<italic(0)> arma Resistance? Ay, cielos...
+TEXT_LUCKSA051_03845_ZLATAN_000_015	Tomará tiempo, pero deberíamos poder reunir los materiales. Salvo uno... Si está dispuest<if(gnum4,a,o)> a conseguir más polvo, nosotros nos encargamos del resto.
+TEXT_LUCKSA051_03845_SYSTEM_000_020	La Thavnairian scalepowder se obtiene de Auriana en Revenant's Toll o de Hismena en Idyllshire.
+TEXT_LUCKSA051_03845_ZLATAN_000_030	Disculpe que le ponga esta carga, pero simplemente no podemos permitirnos más deudas con la señora Rowena.
+TEXT_LUCKSA051_03845_SYSTEM_000_031	La Thavnairian scalepowder se obtiene de Auriana en Revenant's Toll o de Hismena en Idyllshire.
+TEXT_LUCKSA051_03845_ZLATAN_000_050	¿Supongo que ya visitó la House of Splendors?
+TEXT_LUCKSA051_03845_ZLATAN_000_055	Excelente. Haré que el maestro Gerolt se ponga a trabajar de inmediato.
+TEXT_LUCKSA051_03845_GEROLT_000_060	Llenándole otra vez los bolsillos a Rowena... \<suspiro>
+TEXT_LUCKSA051_03845_GEROLT_000_061	Mejor tu dinero que el de los bozjanos, supongo. Si estás segur<if(gnum4,a,o)>, nos ponemos a terminar tu arma.
+TEXT_LUCKSA051_03845_GEROLT_000_062	De mis mejores trabajos, aunque lo diga yo mismo. ¡<sheet(Item,lnum1,9)>!
+TEXT_LUCKSA051_03845_GEROLT_100_062	De mis mejores trabajos, aunque lo diga yo mismo. ¡Los llamo <ennoun(Item,3,lnum1,1,1)> y <ennoun(Item,3,lnum2,1,1)>!
+TEXT_LUCKSA051_03845_GEROLT_000_063	Si es cierto lo que averiguamos de las hojas de Gunnhildr, se pueden hacer más fuertes según el tipo de monstruo que derribes con ellas. Debería valer también para las tuyas.
+TEXT_LUCKSA051_03845_GEROLT_000_064	Así que, cuando <if([gnum68==19],los,la)> hayas puesto a prueba, vuelve y veré cómo <if([gnum68==19],endurecerlos,endurecerla)>.

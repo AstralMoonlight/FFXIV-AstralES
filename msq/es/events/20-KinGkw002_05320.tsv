@@ -1,0 +1,48 @@
+key	text
+TEXT_KINGKW002_05320_SEQ_00	Lydirceil está ansioso por que Gerolt haga realidad sus planes.<br>※Si cambias de clase o job, no podrás avanzar en esta misión.
+TEXT_KINGKW002_05320_SEQ_01	Te acercas a Lydirceil con la decisión tomada de buscar las nuevas cumbres de perfección que prometen las armas phantom de Gerolt. Aunque la tripulación desenterró una buena cantidad de la materia prima necesaria, Lydirceil te informa de un acuerdo contractual algo enredado con la House of Splendors. Al parecer, todos los recursos obtenidos durante la expedición son propiedad de Rowena, así que tendrás que gastar bastante para comprar el arcanite que hace falta. Convenientemente, Ermina, la representante comercial de Rowena, está lista para hacer negocios. A unos pasos te espera Dodokkuli, un metalurgista que ayuda con los preparativos en lugar de Gerolt.<br><br>※No puedes avanzar con una clase o un job distinto del que tenías al aceptar esta misión.
+TEXT_KINGKW002_05320_SEQ_02	Con tu reserva de tomestones muy mermada, le entregas a Dodokkuli los tres pedazos de arcanite. El metalurgista prepara el mineral con diligencia y luego le deja el resto del trabajo a Gerolt, que descarga su martillo infundido de demiatma sobre el yunque y completa el proceso. El resultado es todo lo que el maestro artesano llama "la cumbre de la fabricación de armas", y sin duda será un compañero exquisito en tus futuros encuentros con monstruos grandes y pequeños.
+TEXT_KINGKW002_05320_TODO_00	Entrégale a Dodokkuli el arcanite necesario.
+TEXT_KINGKW002_05320_GEROLT_000_001	Hace falta un par de manos divinas para sacarle la magia a un martillo. <italic(1)>Este<italic(0)> par de manos divinas en particular.
+TEXT_KINGKW002_05320_LYDIRCEIL_000_010	Ahora que sus herramientas están a la altura, es hora de poner a Gerolt a trabajar.
+TEXT_KINGKW002_05320_SYSTEM_000_011	Al completar la misión "Forging the Phantasmal", recibirás un arma phantom para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_KINGKW002_05320_Q1_000_000	¿Qué harás?
+TEXT_KINGKW002_05320_A1_000_001	Aceptar esta misión con otro job.
+TEXT_KINGKW002_05320_A1_000_002	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_KINGKW002_05320_SYSTEM_000_013	Habla de nuevo con Lydirceil cuando quieras aceptar esta misión.
+TEXT_KINGKW002_05320_GEROLT_050_013	Bueno, hablemos de materia prima. Si voy a canalizar todo este aether del ambiente, necesitaré algo capaz de domar ese poder.
+TEXT_KINGKW002_05320_GEROLT_060_013	Como dije, la isla nos lo va a dar. Desenterraron un montón de arcanite, ¿o no?
+TEXT_KINGKW002_05320_LYDIRCEIL_000_014	Sí, pero hay un <italic(1)>pequeño<italic(0)> problema...
+TEXT_KINGKW002_05320_LYDIRCEIL_000_015	Todo lo que desenterremos con algo de valor le pertenece por derecho a la House of Splendors de Rowena. Esas fueron las condiciones para conseguir el financiamiento, por lo visto...
+TEXT_KINGKW002_05320_LYDIRCEIL_100_015	Y fueron ellos, claro, quienes te recomendaron tanto.
+TEXT_KINGKW002_05320_ERMINA_000_016	Mi nombre es Ermina y represento a la House of Splendors de Rowena. Como bien dice el caballero, nuestra casa invirtió un capital considerable en esta empresa.
+TEXT_KINGKW002_05320_ERMINA_000_017	A cambio, reclamamos la propiedad de cualquier material obtenido en el curso de la expedición. Si le interesa algún recurso en particular, no dude en preguntar.
+TEXT_KINGKW002_05320_ERMINA_000_018	El precio de mercado actual es de quinientos Allagan tomestones of mathematics por cada pedazo de arcanite. Estaré aquí cuando desee hacer una compra.
+TEXT_KINGKW002_05320_GEROLT_100_018	No hay nada como el hedor empalagoso de los negocios para aplastarle a uno las ganas de trabajar. Solo necesito tres malditos pedazos, pero alguien más tendrá que preparar la forja mientras yo me vuelvo a encender...
+TEXT_KINGKW002_05320_DODOKKULI_200_018	(-???-)\<suspiro> Ustedes los maestros artesanos pueden ser tan temperamentales...
+TEXT_KINGKW002_05320_DODOKKULI_250_018	Dodokkuli, a su servicio. Soy metalurgista de oficio, y perfectamente capaz de encargarme de los preparativos en lugar de Gerolt.
+TEXT_KINGKW002_05320_DODOKKULI_300_018	Cuando haya reunido suficiente arcanite, tenga la bondad de entregármelo.
+TEXT_KINGKW002_05320_GEROLT_000_020	¿¡Esa arpía y sus compinches creen que pueden chuparle todos los metales y minerales a esta roca!? No mientras yo esté aquí. ¡Voy a usar hasta el último pedacito!
+TEXT_KINGKW002_05320_LYDIRCEIL_000_025	Cuando tengas tres pedazos de arcanite, pásaselos a Dodokkuli. Él se encargará del trabajo pesado que a nuestro genio herrero le da flojera hacer...
+TEXT_KINGKW002_05320_SYSTEM_000_030	El arcanite se obtiene de Ermina en la aldea phantom.
+TEXT_KINGKW002_05320_DODOKKULI_000_035	Estoy listo para empezar mi trabajo en cuanto haga falta. Hable conmigo cuando tenga el arcanite necesario.
+TEXT_KINGKW002_05320_DODOKKULI_000_200	Ahí está. ¿Puedo suponer que ya consiguió suficiente arcanite?
+TEXT_KINGKW002_05320_DODOKKULI_000_201	¡Magnífico! Prepararé el mineral antes de dejarle el resto a Gerolt.
+TEXT_KINGKW002_05320_GEROLT_000_202	Una malla de aether reluciente, cambiante y de muchas capas, hecha maleable y canalizada con precisión experta...
+TEXT_KINGKW002_05320_GEROLT_000_203	¡Contempla la cumbre de la fabricación de armas: <ennoun(Item,2,lnum1,1,1)>!
+TEXT_KINGKW002_05320_GEROLT_000_204	¡Contempla la cumbre de la fabricación de armas y escudos: <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>!
+TEXT_KINGKW002_05320_LYDIRCEIL_000_205	¡Qué belleza! Nada mal para un bueno para nada empapado en ron...
+TEXT_KINGKW002_05320_GEROLT_000_206	¿Impresionados, eh?
+TEXT_KINGKW002_05320_GEROLT_000_207	A decir verdad, esto no es mucho más que una prueba de concepto con los recursos que hay.
+TEXT_KINGKW002_05320_GEROLT_000_208	Con un poco de refinamiento y materiales de mejor calidad, voy a lograr hazañas de genio cada vez más colosales.
+TEXT_KINGKW002_05320_ARCHIVE_000_209	¡Debo decir que han despertado mi curiosidad intelectual!
+TEXT_KINGKW002_05320_GEROLT_000_210	Quieres que mejore tu arma también, ¿eh? Sigo disfrutando el resplandor de mi propia genialidad, así que te haré muy buen precio.
+TEXT_KINGKW002_05320_ARCHIVE_000_211	Oh, nada tan complicado. Verás, encontré un cuchillo de cocina en el sarcófago donde desperté.
+TEXT_KINGKW002_05320_ARCHIVE_000_212	La punta se desgastó hasta quedar en un muñón decepcionante, nada apto para picar y apuñalar. ¿Tal vez quieras afilármelo?
+TEXT_KINGKW002_05320_GEROLT_000_213	¡Considera tu cuchillo restaurado a su antigua gloria apuñaladora!
+TEXT_KINGKW002_05320_LYDIRCEIL_000_214	Nada de eso. ¡Además, recuerdo que dijiste que esas tareas eran indignas de ti!
+TEXT_KINGKW002_05320_LYDIRCEIL_000_215	¡Es un herrero de <italic(1)>armas<italic(0)>, por todos los cielos! Ese cuchillo oxidado que encontraste en el ataúd no es para hacer la guerra.
+TEXT_KINGKW002_05320_ARCHIVE_000_216	¿Ah, no? Ese detallito debió quedar bajo el sello. Supongo que tendré que conformarme con rebanar una o dos verduras...
+TEXT_KINGKW002_05320_GEROLT_000_217	Bueno, creo que es hora de celebrar un trabajo condenadamente bien hecho. ¡Traigan el resto del ron del barco!
+TEXT_KINGKW002_05320_GEROLT_000_218	Antes de que me emborrache hasta quedar ciego, te recuerdo: con mis herramientas imbuidas, no voy a necesitar más demiatma, aunque quieras mejorar otra arma. Arcanite, eso es lo único que tendrás que reunir.
+TEXT_KINGKW002_05320_SYSTEM_000_219	Ahora puedes conseguir armas phantom para otros jobs entregándole el arcanite necesario a Dodokkuli en la aldea phantom.

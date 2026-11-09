@@ -1,0 +1,108 @@
+key	text
+TEXT_CHRHDY401_04806_SEQ_00	Gerolt arde en deseos de seguir perfeccionando las armas Manderville.<br>※Si cambias de clase o job, no podrás avanzar en esta misión.
+TEXT_CHRHDY401_04806_SEQ_01	Con su júbilo algo apagado por la presencia de su amada esposa Julyan y su ojo crítico, Godbert te revela la clave para perfeccionar las legendarias armas Manderville: el aceite llamado Ultramanderville. El ingrediente principal de este lubricante proviene, al parecer, de otro material meteórico más, que una vez más se consigue con tu habitual vendedora hambrienta de tomestones.<br><br>※No puedes avanzar con una clase o un job distinto del que tenías al aceptar esta misión.<br><br>※Los pedazos de cosmic crystallite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY401_04806_SEQ_02	Para incredulidad inicial de Gerolt, la esencia aetérica de la crystallite se extrae mediante el movimiento caballeroso, en concreto las ondas resonantes que crea un baile Manderville en conjunto. A partir de ahí, solo hay que remodelar el arma y recubrirla con una mezcla cuidadosamente medida de Ultramanderville. El resultado desbloquea una última grabación guardada en la reliquia recuperada de Godbert, y recibes un mensaje de felicitación del excéntrico Godbrand. Conmovida por la sincera súplica de Godbrand y convencida por la pureza de propósito de su esposo, Julyan decide aprobar que el proyecto de armas Manderville siga recibiendo financiamiento. Godbert te agradece una vez más tus aportes y te invita a refinar nuevas armas como mejor te parezca. Después de todo, no se escatiman gastos cuando se invierte en un futuro de paz.
+TEXT_CHRHDY401_04806_TODO_00	<if([lnum1<lnum2],Consigue pedazos de cosmic crystallite,Con <if([lnum4==19],<ennoun(Item,2,39920,1,1) y <ennoun(Item,2,39939,1,1)>,<if([lnum4==20],<ennoun(Item,2,39921,1,1)>,<if([lnum4==21],<ennoun(Item,2,39922,1,1)>,<if([lnum4==22],<ennoun(Item,2,39923,1,1)>,<if([lnum4==23],<ennoun(Item,2,39924,1,1)>,<if([lnum4==24],<ennoun(Item,2,39928,1,1)>,<if([lnum4==25],<ennoun(Item,2,39929,1,1)>,<if([lnum4==27],<ennoun(Item,2,39930,1,1)>,<if([lnum4==28],<ennoun(Item,2,39931,1,1)>,<if([lnum4==30],<ennoun(Item,2,39925,1,1)>,<if([lnum4==31],<ennoun(Item,2,39927,1,1)>,<if([lnum4==32],<ennoun(Item,2,39926,1,1)>,<if([lnum4==33],<ennoun(Item,2,39932,1,1)>,<if([lnum4==34],<ennoun(Item,2,39933,1,1)>,<if([lnum4==35],<ennoun(Item,2,39934,1,1)>,<if([lnum4==37],<ennoun(Item,2,39935,1,1)>,<if([lnum4==38],<ennoun(Item,2,39936,1,1)>,<if([lnum4==39],<ennoun(Item,2,39938,1,1)>,<if([lnum4==40],<ennoun(Item,2,39937,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario o en tu Armoury Chest\, entrégale los pedazos de cosmic crystallite a Gerolt)>.
+TEXT_CHRHDY401_04806_SYSTEM_000_000	Al completar la misión "Resonating with Perfection", recibirás un arma Manderville para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_CHRHDY401_04806_SYSTEM_000_001	Asegúrate de cambiar al job que quieras antes de hablar con Gerolt.
+TEXT_CHRHDY401_04806_Q4_000_001	¿Qué haces?
+TEXT_CHRHDY401_04806_A4_000_002	Aceptar esta misión con otro job.
+TEXT_CHRHDY401_04806_A4_000_003	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_CHRHDY401_04806_SYSTEM_000_005	Una vez que aceptes esta misión, no podrás avanzar con una clase o un job distinto del que tenías al aceptarla.
+TEXT_CHRHDY401_04806_SYSTEM_000_006	Habla de nuevo con Gerolt cuando quieras aceptar esta misión.
+TEXT_CHRHDY401_04806_SYSTEM_000_007	Para aceptar la misión "Resonating with Perfection", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en tu Armoury Chest o en tu inventario.
+TEXT_CHRHDY401_04806_SYSTEM_000_008	Para aceptar la misión "Resonating with Perfection", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> equipado, en tu Armoury Chest o en tu inventario.
+TEXT_CHRHDY401_04806_GEROLT_000_010	Oí que Godbert por fin averiguó cómo perfeccionar su arma alienígena. Ya era maldita hora, ¿eh?
+TEXT_CHRHDY401_04806_CRAFTER04653_000_011	Le informaremos a su señoría que está ansios<if(gnum4,a,o)> por empezar...
+TEXT_CHRHDY401_04806_GODBERT_000_012	¡Por fin, <split(<string(gstr1)>, ,1)>! ¡El final de nuestro arduo, pero gratificante, viaje de herrería ya está a la vista!
+TEXT_CHRHDY401_04806_JULYAN_000_013	Y un viaje condenadamente caro. Por eso estoy aquí, no como esposa abnegada ni como madre amorosa, sino como socia principal preocupada de Manderville & Manderville.
+TEXT_CHRHDY401_04806_JULYAN_000_014	Nuestra empresa pagó la cuenta de toda clase de materiales extravagantes y ayuda experta, por no hablar del alquiler de estas instalaciones del High Crucible.
+TEXT_CHRHDY401_04806_JULYAN_000_015	Aunque esta sea la etapa final del proceso, es solo un arma Manderville de quién sabe cuántas...
+TEXT_CHRHDY401_04806_JULYAN_000_016	Nuestro negocio secundario de réplicas tampoco está en auge que digamos, así que pensé que debía venir a evaluar con mis propios ojos si vale la pena seguir con esto.
+TEXT_CHRHDY401_04806_GODBERT_000_017	A-Así que ofrezcamos toda nuestra cooperación a mi espos... eh, <italic(1)>socia<italic(0)> mientras supervisa el proceso.
+TEXT_CHRHDY401_04806_GEROLT_000_018	¡Ja, eso sí que es digno de verse! ¡Parece que su señoría perdió su aplomo engreído!
+TEXT_CHRHDY401_04806_GEROLT_000_019	¿Qué pasó, Godbert? ¿No me estabas diciendo que tu ridícula riqueza te daba libertad para fabricar lo que quisieras...?
+TEXT_CHRHDY401_04806_GODBERT_000_020	Yo que usted me portaría de maravilla, señor Gerolt. ¡Después de todo, su <italic(1)>considerable<italic(0)> remuneración es uno de los principales gastos que Lady Julyan va a escudriñar!
+TEXT_CHRHDY401_04806_GODBERT_000_021	Ejem. Pasemos al tema de la mejora del arma, ¿le parece?
+TEXT_CHRHDY401_04806_GODBERT_000_022	Como era de esperarse, la clave del arma perfecta está en aplicar el aceite perfecto, ¡una sustancia conocida como Ultramanderville! Este lubricante superlativo maximizará la conductividad aetérica.
+TEXT_CHRHDY401_04806_GEROLT_000_023	Otra vez con los aceites espeluznantes...
+TEXT_CHRHDY401_04806_GODBERT_000_024	Y como se podía predecir, el ingrediente principal del Ultramanderville proviene de otro material meteórico increíblemente raro. Lo llaman "cosmic crystallite".
+TEXT_CHRHDY401_04806_GODBERT_000_025	Sin embargo, en cuanto al método para extraer dicho ingrediente del meteorito, la reliquia de mi antepasado carecía notablemente de instrucciones.
+TEXT_CHRHDY401_04806_GODBERT_000_026	Así que consulté con el señor PuPu. Gracias a su conocimiento enciclopédico de las civilizaciones alienígenas, pudo proporcionarme la técnica necesaria.
+TEXT_CHRHDY401_04806_GODBERT_000_027	Debo decir que es un proceso bastante <italic(1)>poco ortodoxo<italic(0)>, y que no puedo completar solo. Requerirá la participación de todos los presentes.
+TEXT_CHRHDY401_04806_GEROLT_000_028	No me gusta cómo suena eso... ¿Qué tontería de petimetre piensas endilgarnos esta vez?
+TEXT_CHRHDY401_04806_GODBERT_000_029	Oh, nada demasiado agotador, se lo aseguro. Todo se explicará a su debido tiempo.
+TEXT_CHRHDY401_04806_GODBERT_000_30	Antes de empezar, debemos atender la tediosa tarea de conseguir los materiales. <split(<string(gstr1)>, ,1)>, si es tan amable, le ruego conseguir la crystallite con nuestra habitual vendedora hambrienta de tomestones.
+TEXT_CHRHDY401_04806_GODBERT_000_031	Necesitaremos tres buenos pedazos: uno para el ingrediente principal del aceite y los otros para remodelar el arma en sí.
+TEXT_CHRHDY401_04806_GODBERT_000_032	Sí, debo advertirle que estas técnicas mandervillianas avanzadas no solo mejorarán las propiedades de su arma, sino que también alterarán mucho su apariencia. Ante tan maravillosa transformación, ¡apresurémonos a nuestras tareas!
+TEXT_CHRHDY401_04806_SYSTEM_000_040	Los pedazos de cosmic crystallite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY401_04806_GEROLT_000_050	Cuando tengas suficiente de esa crystallite, tráemela. Y entonces veremos qué nueva tortura nos tiene preparada su señoría...
+TEXT_CHRHDY401_04806_SYSTEM_000_051	Los pedazos de cosmic crystallite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY401_04806_GEROLT_000_060	Esa es la crystallite, ¿eh? Mejor quítate el equipo, entonces. ¡Y me refiero solo al arma!
+TEXT_CHRHDY401_04806_GEROLT_000_061	Ooh, a ver esas piedras brillantes.
+TEXT_CHRHDY401_04806_GEROLT_000_062	Sí, con esto debería bastar. ¡Voy por su señoría y nos ponemos a trabajar!
+TEXT_CHRHDY401_04806_GODBERT_000_100	Gracias por sus incansables esfuerzos, <split(<string(gstr1)>, ,1)>. Sé que estas adquisiciones son muy exigentes, pero sin ellas no podríamos continuar.
+TEXT_CHRHDY401_04806_GODBERT_000_101	Se dice que la crystallite de este tipo tiene propiedades místicas, cada partícula infundida del aether de su viaje por el cosmos...
+TEXT_CHRHDY401_04806_GODBERT_000_102	Usaremos la técnica de Godbrand para aprovechar y condensar esa energía cósmica y extraer una sola gota concentrada. Este líquido precioso es el corazón y el alma de nuestro recubrimiento de Ultramanderville.
+TEXT_CHRHDY401_04806_GEROLT_000_103	Bueno, todo eso es condenadamente fascinante, pero ¿nos explicas de una maldita vez la técnica? ¿Esta vez nos vas a poner a pelear? ¿A meditar...?
+TEXT_CHRHDY401_04806_GODBERT_000_104	A bailar, buen hombre. Interpretaremos juntos la danza tradicional de la House Manderville.
+TEXT_CHRHDY401_04806_GODBERT_000_105	En su búsqueda de un método viable, Godbrand fracasó innumerables veces al intentar extraer la esencia aetérica de la crystallite.
+TEXT_CHRHDY401_04806_GODBERT_000_106	Frustrado sin medida, terminó por contactar a un amigo de una estrella lejana para pedirle consejo. Así aprendió la teoría de comprimir la energía almacenada en la crystallite bombardeándola con cierta forma de onda aetérica, igual que quien exprime un limón.
+TEXT_CHRHDY401_04806_GODBERT_000_107	Inspirado, Godbrand volvió al trabajo y experimentó con generar ondas mediante el movimiento físico. Una coreografía en particular dio la resonancia perfecta y, he aquí, nacieron las características ondulaciones Manderville.
+TEXT_CHRHDY401_04806_GODBERT_000_108	Ah, y resulta que la "estrella lejana" en cuestión era el planeta natal de nuestro señor PuPu. Fue su ojo agudo el que reconoció las propiedades resonantes de nuestra danza caballerosa y nos permitió redescubrir la extracción.
+TEXT_CHRHDY401_04806_GEROLT_000_109	Adórnalo con todas las palabras elegantes que quieras, pero no me trago esta mierda ridícula. ¿Crees que puedes extraer esencia mineral con tu bailecito estúpido? ¡Ja! ¡A mí no me cuentes!
+TEXT_CHRHDY401_04806_JULYAN_000_110	Yo vine estrictamente a observar, así que tampoco voy a bailar.
+TEXT_CHRHDY401_04806_GODBERT_000_111	Como deseen. Haremos la extracción sin ustedes.
+TEXT_CHRHDY401_04806_GODBERT_000_112	En cuanto a usted, <split(<string(gstr1)>, ,1)>, su papel será crucial: quisiera que sostenga la crystallite y atrape la quintaesencia cuando caiga.
+TEXT_CHRHDY401_04806_GEROLT_000_113	¿Ya ves? Un montón de mierda de chocobo...
+TEXT_CHRHDY401_04806_GODBERT_000_114	Hrm, a la danza le falta intensidad...
+TEXT_CHRHDY401_04806_JULYAN_000_115	Agh, por el amor de... bueno.
+TEXT_CHRHDY401_04806_GEROLT_000_116	Es... es condenadamente mágico...
+TEXT_CHRHDY401_04806_GODBERT_000_117	La resonancia... ¡todavía no es lo bastante fuerte!
+TEXT_CHRHDY401_04806_GODBERT_000_118	¡Hurra! ¡Nuestra interpretación conjunta lo logró!
+TEXT_CHRHDY401_04806_GODBERT_000_119	El señor Gerolt y yo nos encargaremos desde aquí. ¡Preparemos el frasco de Ultramanderville y procedamos con las mejoras finales!
+TEXT_CHRHDY401_04806_GEROLT_000_120	¡Sí, estás a punto de presenciar la cumbre de la artesanía!
+TEXT_CHRHDY401_04806_GODBERT_000_130	Ahora aplicamos el recubrimiento de Ultramanderville. Igual que en la etapa anterior, la composición final del aceite influirá mucho en las propiedades del arma.
+TEXT_CHRHDY401_04806_GODBERT_000_131	Necesito que se tome un momento y considere bien qué cualidades valora más en su arma...
+TEXT_CHRHDY401_04806_Q3_000_000	¿Qué haces?
+TEXT_CHRHDY401_04806_A3_000_001	Ajustar los atributos de tu arma Manderville.
+TEXT_CHRHDY401_04806_A3_000_002	Saber más sobre los atributos de las armas Manderville.
+TEXT_CHRHDY401_04806_A3_000_003	Nada.
+TEXT_CHRHDY401_04806_SYSTEM_000_140	Puedes elegir tres atributos para añadir a tu arma Manderville recién mejorada. Uno de ellos tendrá un valor menor que los otros dos.
+TEXT_CHRHDY401_04806_SYSTEM_000_141	Cuando hayas ajustado los valores a tu gusto, selecciona "Confirm" para finalizar tu decisión.
+TEXT_CHRHDY401_04806_SYSTEM_000_142	Restablecer los atributos de tu arma requerirá un pedazo adicional de cosmic crystallite, así que elige con cuidado.
+TEXT_CHRHDY401_04806_GODBERT_000_143	¿Está segur<if(gnum4,a,o)>? ¡Entonces así será!
+TEXT_CHRHDY401_04806_GODBERT_000_144	¡Contemple, <split(<string(gstr1)>, ,1)>! ¡La obra está hecha!
+TEXT_CHRHDY401_04806_GEROLT_000_145	El arte perfeccionado de artesanos dedicados...
+TEXT_CHRHDY401_04806_GEROLT_000_146	¡<head(<ennoun(Item,1,lnum1,1,1)>)> y <ennoun(Item,1,lnum2,1,1)>!
+TEXT_CHRHDY401_04806_GEROLT_000_147	¡<head(<ennoun(Item,1,lnum1,1,1)>)>!
+TEXT_CHRHDY401_04806_GODBERT_000_148	La hermosa y tangible recompensa de todo nuestro esfuerzo y sacrificio...
+TEXT_CHRHDY401_04806_GEROLT_000_149	Es un espectáculo grandioso, ya lo creo. Pelear con mammets, tomar tragos raros y bailar danzas todavía más raras es una maldita forma extraña de forjar un arma, pero el resultado final no se discute.
+TEXT_CHRHDY401_04806_GODBERT_000_150	De hecho, terminar nuestro proyecto tiene otra consecuencia favorable.
+TEXT_CHRHDY401_04806_GODBERT_000_151	La reliquia de mi familia contiene lo que parece ser una grabación bloqueada y, si lo que me dice el señor PuPu es correcto, nuestra arma Manderville terminada debería servir de llave para abrirla. ¿Lo intentamos?
+TEXT_CHRHDY401_04806_GODBERT_000_200	Ah, excelente, parece que la reliquia respondió a su arma. ¡Comencemos la proyección!
+TEXT_CHRHDY401_04806_GODBRAND_000_201	Si está viendo esta grabación, debo suponer que llevó con éxito el arma Manderville a su estado final.
+TEXT_CHRHDY401_04806_GODBRAND_000_202	Permítame, entonces, compartir algo de la filosofía que inspiró la creación de estas armas.
+TEXT_CHRHDY401_04806_GODBRAND_000_203	Como expliqué en mi relato anterior, los muchos mundos donde vivíamos los mandervillianos fueron devastados por una catástrofe inexplicable.
+TEXT_CHRHDY401_04806_GODBERT_000_204	Los Días Finales, hay que imaginar...
+TEXT_CHRHDY401_04806_GODBRAND_000_205	La paz reina en <italic(1)>esta<italic(0)> estrella por ahora, pero nunca podemos saber cuándo ni qué clase de caos amenazará nuestra vida tranquila.
+TEXT_CHRHDY401_04806_GODBRAND_000_206	Por eso me empeñé en forjar armas con el poder de repeler cualquier amenaza, por terrible que fuera.
+TEXT_CHRHDY401_04806_GODBRAND_000_207	Sin embargo... En malas manos, armas tan poderosas pueden agravar el mismo problema que se crearon para resolver.
+TEXT_CHRHDY401_04806_GODBRAND_000_208	Por desgracia, mi larga búsqueda de portadores dignos, dotados tanto de excelencia marcial como de firme fortaleza moral, ha fracasado. No me queda más remedio que destruir mis obras triunfales.
+TEXT_CHRHDY401_04806_GEROLT_000_209	Eso explica cómo perdieron las originales, ¿eh?
+TEXT_CHRHDY401_04806_GODBRAND_000_210	Con la esperanza de que algún día surja un héroe digno, decidí dejarles a mis herederos los secretos de su fabricación. Por necesidad, el proceso debe ser críptico, para que armas tan potentes no se obtengan con demasiada facilidad.
+TEXT_CHRHDY401_04806_GODBRAND_000_211	Que esté viendo esto prueba que tuvo la sabiduría para atravesar mis elaborados enredos, y la disciplina para recorrer de nuevo los agotadores pasos de mi saga de herrería.
+TEXT_CHRHDY401_04806_GODBRAND_000_212	Tengo fe en su juicio.
+TEXT_CHRHDY401_04806_GODBRAND_000_213	Haga lo que sea justo, y confíe las armas Manderville a quienes defiendan los ideales de la paz.
+TEXT_CHRHDY401_04806_GODBERT_000_214	¡Qué satisfacción saber que mis motivos coincidían con los de mi antepasado! Fue mi propia experiencia de los Días Finales lo que me impulsó a recrear las armas Manderville y ponerlas en manos heroicas como las suyas.
+TEXT_CHRHDY401_04806_GODBERT_000_215	Y es todavía más satisfactorio haber cumplido la tarea que el propio Godbrand les encomendó a sus descendientes. Les agradezco a todos sus valiosos aportes.
+TEXT_CHRHDY401_04806_GEROLT_000_216	Lo admito, fue un poco impactante oír que estábamos fabricando diseños alienígenas, ¡pero contrataste al herrero indicado para el trabajo!
+TEXT_CHRHDY401_04806_CRAFTER04653_000_217	U-Usted sabe que el trabajo aún no termina, ¿sí? Todavía nos quedan muchas variantes de armas por reforjar.
+TEXT_CHRHDY401_04806_GEROLT_000_218	Ya sé, ya sé, no se te retuerzan los malditos calzones. Me quedaré hasta el último martillazo.
+TEXT_CHRHDY401_04806_GODBERT_000_219	Para extraer la esencia de Ultramanderville, debo pedirle que recurra a la ayuda de los alchemists del High Crucible. No importa quién baile, siempre que lo haga con perfección y aplomo caballerosos.
+TEXT_CHRHDY401_04806_JULYAN_000_220	Ahora me queda claro que las armas Manderville son más que un capricho: son una inversión en el futuro de nuestro mundo.
+TEXT_CHRHDY401_04806_JULYAN_000_221	¡Tienen mi permiso para mantenerlas en los libros como empresa oficial de Manderville & Manderville!
+TEXT_CHRHDY401_04806_GODBERT_000_222	¡Ohoho, qué alivio! Sería difícil cubrir estos gastos con mi presupuesto semanal de entretenimiento.
+TEXT_CHRHDY401_04806_GODBERT_000_223	Con eso resuelto, podemos seguir como antes: nuestro excelente artesano de la House Manderville atenderá las solicitudes para perfeccionar otras armas que tenga.
+TEXT_CHRHDY401_04806_GODBERT_000_224	Mientras tanto, nuestro experto alchemist le ayudará a ajustar las propiedades de las armas. Siempre que aporte la crystallite necesaria, por supuesto.
+TEXT_CHRHDY401_04806_GODBERT_000_225	En suma, esta ha sido una experiencia de lo más satisfactoria. ¡Gracias otra vez, y espero con ansias nuestro próximo encuentro mutuamente beneficioso!

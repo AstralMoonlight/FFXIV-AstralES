@@ -1,0 +1,45 @@
+key	text
+TEXT_KINGKW303_05504_SEQ_00	Lydirceil, sorprendentemente sin chamuscarse, está ansioso por seguir.<br>※Cambiar de clase o job impedirá avanzar en esta misión.
+TEXT_KINGKW303_05504_SEQ_01	Aunque Lydirceil quiere ver tu arma phantom libre de sus adornos ilusorios, Gerolt ya tiene dudas. Pese al éxito de la prueba anterior, el herrero revela que notó un ligero desequilibrio aetherial en la armadura de Lydirceil causado por el Phantom Philleter. Sin querer dejar el asunto sin resolver, Gerolt decide reconstruir el núcleo de tu arma para contrarrestar cualquier discrepancia. Por desgracia, para eso hacen falta tres pedazos de ecliptic arcanite y, cabe suponer, un gasto considerable de tomestones. Una vez hecho el trato, Dodokkuli te esperará para recibir el mineral y hacer el procesamiento inicial.<br><br>※No puedes avanzar con una clase o job distinto del que tenías al aceptar esta misión.<br><br>※Los pedazos de ecliptic arcanite se obtienen de Ermina en la aldea phantom.
+TEXT_KINGKW303_05504_SEQ_02	El diminuto metalúrgico termina sus preparativos con destreza y le entrega el mineral procesado a Gerolt. Blandiendo el cuchillo con entusiasmo, el curtido herrero corta la ilusión que envuelve tu arma phantom. Aunque ya se reveló la verdadera forma del arma, Gerolt está decidido a "exprimirle hasta la última gota de potencial" a su creación, y te pide canalizar en ella recuerdos de batalla para ayudarlo a cumplir su visión. Qué quiere decir exactamente con eso, está por verse...
+TEXT_KINGKW303_05504_TODO_00	<if([lnum1<lnum2],Consigue pedazos de ecliptic arcanite,Con <if([lnum4==19],<ennoun(Item,2,50032,1,1)> y <br><ennoun(Item,2,50053,1,1)>,<if([lnum4==20],<ennoun(Item,2,50033,1,1)>,<if([lnum4==21],<ennoun(Item,2,50034,1,1)>,<if([lnum4==22],<ennoun(Item,2,50035,1,1)>,<if([lnum4==23],<ennoun(Item,2,50036,1,1)>,<if([lnum4==24],<ennoun(Item,2,50037,1,1)>,<if([lnum4==25],<ennoun(Item,2,50038,1,1)>,<if([lnum4==27],<ennoun(Item,2,50039,1,1)>,<if([lnum4==28],<ennoun(Item,2,50040,1,1)>,<if([lnum4==30],<ennoun(Item,2,50041,1,1)>,<if([lnum4==31],<ennoun(Item,2,50043,1,1)>,<if([lnum4==32],<ennoun(Item,2,50042,1,1)>,<if([lnum4==33],<ennoun(Item,2,50044,1,1)>,<if([lnum4==34],<ennoun(Item,2,50045,1,1)>,<if([lnum4==35],<ennoun(Item,2,50046,1,1)>,<if([lnum4==37],<ennoun(Item,2,50047,1,1)>,<if([lnum4==38],<ennoun(Item,2,50048,1,1)>,<if([lnum4==39],<ennoun(Item,2,50049,1,1)>,<if([lnum4==40],<ennoun(Item,2,50050,1,1)>,<if([lnum4==41],<ennoun(Item,2,50051,1,1)>,<if([lnum4==42],<ennoun(Item,2,50052,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario o Armoury Chest\, entrégale los pedazos de ecliptic arcanite a Dodokkuli)>.
+TEXT_KINGKW303_05504_GEROLT_000_001	Menuda demostración, ¿eh?
+TEXT_KINGKW303_05504_BRIGID_000_005	Por mucho que disfrutara ver a vuestro compañero envuelto en llamas mágicas, consideré mejor apagarlo antes de que la travesura se saliera de control...
+TEXT_KINGKW303_05504_SYSTEM_000_010	Para aceptar la misión "A Phantom Unveiled", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en tu Armoury Chest o en tu inventario.
+TEXT_KINGKW303_05504_SYSTEM_000_011	Para aceptar la misión "A Phantom Unveiled", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> equipado, en tu Armoury Chest o en tu inventario.
+TEXT_KINGKW303_05504_LYDIRCEIL_000_012	¡Uf! Ya empezaba a temer que me iba a quedar ardiendo para siempre... En fin, más vale que veamos cómo quitarle a tu arma phantom su magia ilusoria y llevarla a nuevas alturas.
+TEXT_KINGKW303_05504_SYSTEM_000_013	Al completar la misión "A Phantom Unveiled" recibirás un arma phantom de <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_KINGKW303_05504_Q1_000_000	¿Qué haces?
+TEXT_KINGKW303_05504_A1_000_001	Aceptar esta misión con otro job.
+TEXT_KINGKW303_05504_A1_000_002	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_KINGKW303_05504_SYSTEM_000_015	Habla de nuevo con Lydirceil cuando puedas aceptar esta misión.
+TEXT_KINGKW303_05504_LYDIRCEIL_000_016	¿Todo listo? Manos a la obra.
+TEXT_KINGKW303_05504_GEROLT_000_017	Eso creía yo... pero noté algo durante nuestro experimento que me hizo pensar en una última modificación.
+TEXT_KINGKW303_05504_GEROLT_000_018	Cuando corté el glamour hace un rato, el equilibrio aetherial de tu armadura se desvió un poco. Al principio no le di mucha importancia, pero pensándolo bien, quién sabe cómo reaccionará el arma phantom.
+TEXT_KINGKW303_05504_GEROLT_000_019	Así que este es mi plan: rehacer el núcleo del arma para canalizar el aether en un solo punto focal. Eso anulará el pequeño desequilibrio que causa el Philleter y asegurará que el arma alcance su verdadera forma.
+TEXT_KINGKW303_05504_LYDIRCEIL_000_020	¿Otro maldito paso?
+TEXT_KINGKW303_05504_GEROLT_000_021	¡Deja de quejarte! Además, ya sé qué materiales nos van a hacer falta.
+TEXT_KINGKW303_05504_GEROLT_000_022	Los exploradores desenterraron un mineral nuevo al que llaman ecliptic arcanite, y resulta que es ideal para reconstruir los núcleos de las armas phantom.
+TEXT_KINGKW303_05504_LYDIRCEIL_000_023	Me temo que tendrás que tratar otra vez con Ermina para conseguir el mineral. Cuando tengas tres pedazos, entrégaselos a Dodokkuli para que los procese.
+TEXT_KINGKW303_05504_LYDIRCEIL_000_025	Dodokkuli está esperando para procesar el mineral en cuanto lo consigas. Es que Gerolt ya no se molesta con el trabajo pesado.
+TEXT_KINGKW303_05504_SYSTEM_000_030	Los pedazos de ecliptic arcanite se obtienen de Ermina en la aldea phantom.
+TEXT_KINGKW303_05504_GEROLT_000_035	Si te preguntas por qué no mencioné antes el mineral, es porque no sabía que nos haría falta la maldita cosa hasta esa demostración. Los contratiempos son parte del oficio de herrero.
+TEXT_KINGKW303_05504_BRIGID_000_040	¡Admiro la dedicación de Gerolt a su oficio! Artesanos menores habrían pasado por alto un leve desequilibrio aetherico, ¡pero él no!
+TEXT_KINGKW303_05504_DODOKKULI_000_100	Antes de que Gerolt pueda empezar a reconstruir el núcleo de su arma phantom, tengo que procesar el ecliptic arcanite. ¿Ya consiguió los tres pedazos?
+TEXT_KINGKW303_05504_DODOKKULI_000_101	¿Ya consiguió el mineral necesario? Asegúrese de quitarse el arma phantom antes de empezar.
+TEXT_KINGKW303_05504_SYSTEM_000_102	Tras entregar el ecliptic arcanite necesario, el núcleo de tu arma phantom se reconstruirá por completo.
+TEXT_KINGKW303_05504_SYSTEM_000_103	Ten en cuenta que perderás toda materia insertada durante el proceso.
+TEXT_KINGKW303_05504_DODOKKULI_000_104	Excelente. Pronto tendré listo el mineral. El resto de la fabricación lo dejo en las hábiles manos de Gerolt.
+TEXT_KINGKW303_05504_DODOKKULI_000_105	¡Ánimo, que estamos muy cerca de ver su arma libre de su manto ilusorio!
+TEXT_KINGKW303_05504_GEROLT_000_106	Bien, tu arma phantom ya tiene un núcleo nuevo y reluciente. Si mis cálculos son correctos, eso evitará cualquier desequilibrio aetherico cuando corte la ilusión.
+TEXT_KINGKW303_05504_GEROLT_000_107	En otras palabras, ¡hora del Phantom Philleter!
+TEXT_KINGKW303_05504_GEROLT_000_108	¡MUAJAJAJAJAJA!
+TEXT_KINGKW303_05504_GEROLT_000_109	Bueno, fue un éxito rotundo. Corté de lleno los adornos ilusorios de tu arma y todas las mejoras siguen intactas.
+TEXT_KINGKW303_05504_GEROLT_000_110	¡Contempla el verdadero poder, sin ataduras, de mi última creación: <ennoun(Item,2,lnum1,1,1)>!
+TEXT_KINGKW303_05504_GEROLT_000_111	¡Contempla el verdadero poder, sin ataduras, de mis últimas creaciones: <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>!
+TEXT_KINGKW303_05504_GEROLT_000_112	Basta con decir que estas manos bendecidas por los dioses obraron otro maldito milagro.
+TEXT_KINGKW303_05504_LYDIRCEIL_000_113	Habrás recurrido a la sabiduría antigua en busca de inspiración, pero al final fue ese brillante cerebro empapado en ron el que logró los verdaderos avances. ¡Creo que es justo decir que eres el mejor maldito herrero de nuestra época!
+TEXT_KINGKW303_05504_GEROLT_000_114	"De nuestra época", ¿eh?
+TEXT_KINGKW303_05504_GEROLT_000_115	¡Entonces es justo que mis creaciones las empuñe <if(gnum4,la luchadora más feroz,el luchador más feroz)> de nuestros tiempos! Oye, se me ocurre una idea: ¿por qué no canalizas en esa arma phantom algunos de tus recuerdos de batalla más valerosos?
+TEXT_KINGKW303_05504_GEROLT_000_116	Que me lleve el diablo si no intento exprimirle hasta la última gota de potencial, ¡y creo que tus recuerdos son la clave para cumplir mi visión!
+TEXT_KINGKW303_05504_SYSTEM_000_117	De ahora en adelante puedes obtener armas phantom mejoradas para otros jobs canjeando el ecliptic arcanite necesario con Dodokkuli en la aldea phantom.

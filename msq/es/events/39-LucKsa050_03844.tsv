@@ -1,0 +1,58 @@
+key	text
+TEXT_LUCKSA050_03844_SEQ_00	Gerolt parece listo para encender su forja.<br>※Si cambias de clase o job, no podrás avanzar en esta misión.
+TEXT_LUCKSA050_03844_SEQ_01	Gracias a tus esfuerzos y a la cooperación de Cid, todo está listo para volver a forjar las hojas de Gunnhildr, armas que Gerolt ahora llama armas Resistance. Antes de ponerse a trabajar, sin embargo, Gerolt te pide detalles de tu exploración de la mente de Cid. Con eso le queda claro que las armas requieren un último ingrediente para estar completas: un polvo especial muy conductor del aether. Para su disgusto, la persona más indicada para conseguirlo es nada menos que Rowena. Con el riesgo de endeudarse aún más, te pide reunirte con ella en Kugane para llegar a un acuerdo en nombre de la Bozjan Resistance.<br><br>※No puedes avanzar con una clase o un job distinto del que tenías al aceptar esta misión.
+TEXT_LUCKSA050_03844_SEQ_02	Rowena ya oyó de boca de Gerolt los detalles de tu problema, y está dispuesta a darte el polvo que necesitas. Eso sí, le costará algo a la Bozjan Resistance. No sabes qué significa esto para Bajsaljen y sus camaradas, pero el trato queda hecho de todos modos. Con el asunto de Kugane resuelto, vuelves a Gangos con ganas de ver los frutos del trabajo de Gerolt.
+TEXT_LUCKSA050_03844_SEQ_03	Aunque llegas demasiado tarde para contemplar los golpes magistrales del martillo de Gerolt sobre el yunque, tienes la suerte de presenciar los toques finales de la inscripción. Armad<if(gnum4,a,o)> como un miembro de la guardia de élite de Gunnhildr, pronto podrás ayudar a liberar al pueblo de Bozja.
+TEXT_LUCKSA050_03844_TODO_00	Espera a Rowena en el Umineko Teahouse de Kugane.
+TEXT_LUCKSA050_03844_TODO_01	Entrégale a Gerolt, en Gangos, la Thavnairian scalepowder.
+TEXT_LUCKSA050_03844_SYSTEM_900_000	¿<string(gstr1)>? Soy Zlatan. Es un honor conocerle. No tengo mucha experiencia con la forja, pero espero mejorar trabajando con el maestro Gerolt.
+TEXT_LUCKSA050_03844_SYSTEM_901_000	El primer paso de mi formación parece ser lograr que recuerde mi nombre...
+TEXT_LUCKSA050_03844_GEROLT_000_000	Llegaste. Bien. ¿List<if(gnum4,a,o)> para ponernos a trabajar en las armas Resistance, <if(gnum4,muchacha,muchacho)>?
+TEXT_LUCKSA050_03844_SYSTEM_800_000	Al completar la misión "Fire in the Forge", recibirás un arma Resistance para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_LUCKSA050_03844_Q1_800_000	¿Qué haces?
+TEXT_LUCKSA050_03844_A1_800_000	Aceptar esta misión con otro job.
+TEXT_LUCKSA050_03844_A2_800_000	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_LUCKSA050_03844_SYSTEM_800_001	Habla de nuevo con Gerolt cuando quieras aceptar esta misión.
+TEXT_LUCKSA050_03844_GEROLT_000_001	¿Te gusta el nombre, "arma Resistance"?
+TEXT_LUCKSA050_03844_GEROLT_000_002	Se me ocurrió llamarlas hojas de Gunnhildr, pero después de hablar con Misija, nos pareció que sería muy confuso, ya que así se llama también la guardia de la reina.
+TEXT_LUCKSA050_03844_GEROLT_000_003	Como sea, no pudiste llegar en mejor momento. Antes de ponernos a trabajar en serio, esperaba que me contaras algo más de lo que pasó en la cabeza de Cid. Ya oí bastante de Mikoto, pero quiero saber si tú viste otra cosa.
+TEXT_LUCKSA050_03844_GEROLT_000_004	Hmm... Parece que hice bien en preguntarte antes de ponerme a trabajar.
+TEXT_LUCKSA050_03844_GEROLT_000_005	Me parece que esas marcas elegantes de las armas son más que nada para lucir. Puedo copiarlas, sí, pero no va a bastar.
+TEXT_LUCKSA050_03844_GEROLT_000_006	Lo más probable es que también estuvieran talladas en las empuñaduras. Y para que el hechizo agarre, haría falta un acabado con un polvo fino que conduzca el aether.
+TEXT_LUCKSA050_03844_GEROLT_000_007	Para un material así, creo que habría que consultar a los alchemists de Radz<-->at<-->Han... \<suspiro> Y solo se me ocurre una persona con contactos cercanos allá.
+TEXT_LUCKSA050_03844_Q2_000_100	¿Qué vas a decir?
+TEXT_LUCKSA050_03844_A1_000_100	¿Rowena...?
+TEXT_LUCKSA050_03844_A2_000_100	Ay, dioses, ¿no te referirás a...?
+TEXT_LUCKSA050_03844_GEROLT_000_015	Sí, la demonia del dinero.
+TEXT_LUCKSA050_03844_GEROLT_000_016	Pero no te preocupes, <if(gnum4,muchacha,muchacho)>. Resulta que tiene un contrato para mandar suministros aquí con regularidad. Si le decimos que necesitamos el polvo para la Resistance, a lo mejor la convencemos de perdonar el costo.
+TEXT_LUCKSA050_03844_GEROLT_000_017	Ya sé que no suele hacer negocios por caridad, pero vale la pena intentarlo, ¿no? Veré cómo me pongo en contacto con ella, y luego tú puedes ir a verla y arreglar el resto.
+TEXT_LUCKSA050_03844_GEROLT_000_018	¿No esperarás que vaya <italic(1)>yo<italic(0)> a verla, verdad? Las armas Resistance me tienen ocupadísimo, y Drake aquí... Digo... Eh... ¿Cómo te llamabas?
+TEXT_LUCKSA050_03844_ZLATAN_000_019	Zlatan, maestro Gerolt. Me llamo Zlatan. Pero, más importante aún, ¿y si la señora Rowena no acepta hacer una contribución caritativa a nuestra causa?
+TEXT_LUCKSA050_03844_GEROLT_000_020	Seguro que si tú y Bajsaljen le piden con buenos modos, cambia de idea. Pero olvida eso, tenemos trabajo importante que hacer.
+TEXT_LUCKSA050_03844_GEROLT_000_021	En cuanto a dónde encontrar a Rowena, antes de irse de Gangos dijo que pararía en Kugane por negocios. ¿Qué tal si le digo que te vea en el Umineko Teahouse? Con suerte, una buena taza de té le mejorará el humor.
+TEXT_LUCKSA050_03844_GEROLT_000_040	Me temo que Rowena te toca a ti, <if(gnum4,muchacha,muchacho)>. Yo intentando negociar con ella sería como sacarle sangre a una piedra.
+TEXT_LUCKSA050_03844_ZLATAN_000_045	Temo que a Bajsaljen no le guste el plan del maestro Gerolt. Pero supongo que es por el bien de la Resistance...
+TEXT_LUCKSA050_03844_ROWENA_000_070	(-???-)Ya me preguntaba cuándo aparecerías. Gerolt me lo contó todo.
+TEXT_LUCKSA050_03844_ROWENA_000_071	Y por suerte para ti, mis negocios aquí eran en el Thavnairian Consulate. Aquí tienes. Con esto debería alcanzar el polvo para una de esas armas Resistance que están forjando.
+TEXT_LUCKSA050_03844_ROWENA_000_072	Hay que reconocérselo a Gerolt. Se pasa la mitad del tiempo endeudándose más, y la otra mitad evitando pagar.
+TEXT_LUCKSA050_03844_ROWENA_000_073	Aunque por mí, bien. Gracias a sus maquinaciones tengo un poco más de influencia sobre la Resistance y, por extensión, sobre él.
+TEXT_LUCKSA050_03844_ROWENA_000_074	Dales un mensaje a Gerolt y a Bajsaljen de mi parte, ¿quieres? Si necesitan más material para estas armas, con gusto se los daré. Por una tarifa, claro.
+TEXT_LUCKSA050_03844_ROWENA_000_075	Lo mismo va para ti. Sé que ustedes los aventureros siempre quieren estar preparados para cualquier encuentro, así que si piensas forjar otra de estas armas Resistance, y sospecho que sí, ya sabes adónde ir.
+TEXT_LUCKSA050_03844_ROWENA_000_076	Me encargaré de que mis muchachas de Revenant's Toll e Idyllshire tengan bien surtidos los estantes. Hasta la próxima.
+TEXT_LUCKSA050_03844_ZLATAN_000_090	Hace mucho que deseamos ver forjadas de nuevo las hojas de Gunnhildr, y para eso Bajsaljen accedió a cubrir los gastos necesarios. Solo ruego que estemos listos cuando la señora Rowena exija el pago.
+TEXT_LUCKSA050_03844_GEROLT_000_100	El arma está casi lista, <split(<string(gstr1)>, ,1)>. Solo le falta una buena capa de ese polvo para terminar la inscripción.
+TEXT_LUCKSA050_03844_GEROLT_000_105	Claro que encontró lo que necesitábamos, maldita sea. Por mucho que odie engordarle la bolsa con el dinero de otro, al menos ya podemos hacer nuestra parte por la Resistance.
+TEXT_LUCKSA050_03844_GEROLT_000_120	Deleita tus ojos con uno de mis mejores trabajos hasta la fecha. Y lo mejor de todo: la inscripción va a reaccionar a tu aether.
+TEXT_LUCKSA050_03844_GEROLT_100_120	Una arma condenadamente buena para reunir a los bozjanos: <sheet(Item,lnum1,9)>. Creo que Gunnhildr estaría orgullosa.
+TEXT_LUCKSA050_03844_GEROLT_101_120	Una espada y un escudo condenadamente buenos para reunir a los bozjanos: <ennoun(Item,3,lnum1,1,1)> y <ennoun(Item,3,lnum2,1,1)>. Creo que Gunnhildr estaría orgullosa.
+TEXT_LUCKSA050_03844_ZLATAN_000_121	Que me toque contemplar la gloria de las legendarias hojas renacidas... Todavía hay esperanza.
+TEXT_LUCKSA050_03844_GEROLT_000_122	Un día más de trabajo para tu viejo amigo Gerolt. Claro que esto es solo el principio.
+TEXT_LUCKSA050_03844_ZLATAN_000_123	Su destreza con el martillo fue digna de verse, maestro Gerolt. Y ver a <split(<string(gstr1)>, ,1)> empuñar una de sus hojas sagradas... es como estar ante uno de los héroes de antaño.
+TEXT_LUCKSA050_03844_ZLATAN_000_124	Cuando llegue el momento de combatir al Imperio, nuestros hermanos de armas le mirarán y conocerán el valor. En nombre de la Bozjan Resistance, le ofrezco mi más humilde agradecimiento por su ayuda hasta ahora.
+TEXT_LUCKSA050_03844_GEROLT_000_125	Me encantaría empezar otra arma, pero tuve que usar hasta la última pizca del polvo en esta.
+TEXT_LUCKSA050_03844_ZLATAN_000_126	Lo que significa que nos endeudaríamos más con la señora Rowena si conseguimos más... Debo consultar a Bajsaljen antes de seguir.
+TEXT_LUCKSA050_03844_GEROLT_000_127	Parece que tomaremos un breve descanso, ¿eh? Pero si llegas a querer otra arma, ven a hablar con mi ayudante aquí.
+TEXT_LUCKSA050_03844_GEROLT_000_128	¡Creo que esta noche me gané un buen tarro de cerveza! Para, eh... celebrar la forja, claro.
+TEXT_LUCKSA050_03844_SYSTEM_000_300	Zlatan, en Gangos, ahora ofrece una misión repetible. Puedes aceptarla para crear armas Resistance para otros jobs.
+TEXT_LUCKSA050_03844_SYSTEM_000_301	Asegúrate de cambiar al job que quieras antes de hablar con Zlatan.
+TEXT_LUCKSA050_03844_SYSTEM_000_302	Además, ahora puedes comprar Thavnairian scalepowder a Auriana en Revenant's Toll o a Hismena en Idyllshire.

@@ -1,0 +1,62 @@
+key	text
+TEXT_LUCKSA151_03970_SEQ_00	Zlatan está listo para poner a prueba el poder de los recuerdos.<br>※Cambiar de clase o job impide avanzar en esta misión.
+TEXT_LUCKSA151_03970_SEQ_01	Consultas a Zlatan sobre qué tipo de recuerdos serían ideales para fortalecer la inscripción de tu arma. Como las hojas de Gunnhildr se forjaron en Bozja, cree que los recuerdos de batalla del frente sur son imprescindibles. Y, para darle un toque personal, sugiere que lo ideal serían recuerdos de batalla de un lugar memorable de tu pasado. En cuanto a la cantidad, considera que hacen falta tres variedades de recuerdos, veinte de cada una.<br><br>※No puedes avanzar con una clase o job distinto del que tenías al aceptar esta misión.<br>※Los memories of the dying se obtienen combatiendo en el frente sur o en FATEs específicos de los siguientes lugares:<br>Coerthas Western Highlands, the Dravanian Forelands, the Dravanian Hinterlands, the Churning Mists, the Sea of Clouds o Azys Lla.
+TEXT_LUCKSA151_03970_SEQ_02	Con los recuerdos necesarios en la mano, regresas a Gangos y se los entregas a Gerolt, quien se pone a trabajar de inmediato y llena el campamento con el estruendo de su martillo. El repique pronto cesa y te presenta un arma recién forjada. Al tomarla, el nuevo poder que corre por ella es inconfundible. Zlatan contempla maravillado la obra de Gerolt, pero el festejo se termina cuando aparece Rowena. Explica que la idea de usar recuerdos para mejorar las armas Resistance fue suya. Además, uno de los materiales necesarios, bastante caro según ella, se compró en sus almacenes a nombre de la Resistance. Falta ver qué pedirá a cambio de su mercancía, pero por ahora te satisface saber que cuentas con mejores armas para la lucha contra el Imperio.
+TEXT_LUCKSA151_03970_TODO_00	Con <if([lnum4==19],<ennoun(Item,2,30228,1,1)> y <ennoun(Item,2,30245,1,1)>,<if([lnum4==20],<ennoun(Item,2,30229,1,1)>,<if([lnum4==21],<ennoun(Item,2,30230,1,1)>,<if([lnum4==22],<ennoun(Item,2,30231,1,1)>,<if([lnum4==23],<ennoun(Item,2,30232,1,1)>,<if([lnum4==24],<ennoun(Item,2,30236,1,1)>,<if([lnum4==25],<ennoun(Item,2,30237,1,1)>,<if([lnum4==27],<ennoun(Item,2,30238,1,1)>,<if([lnum4==28],<ennoun(Item,2,30239,1,1)>,<if([lnum4==30],<ennoun(Item,2,30233,1,1)>,<if([lnum4==31],<ennoun(Item,2,30235,1,1)>,<if([lnum4==32],<ennoun(Item,2,30234,1,1)>,<if([lnum4==33],<ennoun(Item,2,30240,1,1)>,<if([lnum4==34],<ennoun(Item,2,30241,1,1)>,<if([lnum4==35],<ennoun(Item,2,30242,1,1)>,<if([lnum4==37],<ennoun(Item,2,30243,1,1)>,<if([lnum4==38],<ennoun(Item,2,30244,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario o Armoury Chest, entrega los memories of the dying a Zlatan en Gangos.
+TEXT_LUCKSA151_03970_SYSTEM_800_000	Ten en cuenta que al completar la misión "For Want of a Memory" recibirás un arma Resistance para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_LUCKSA151_03970_SYSTEM_801_000	Asegúrate de cambiar al job que quieras antes de hablar con Zlatan.
+TEXT_LUCKSA151_03970_Q1_800_000	¿Qué haces?
+TEXT_LUCKSA151_03970_A1_800_000	Aceptar esta misión con otro job.
+TEXT_LUCKSA151_03970_A2_800_000	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_LUCKSA151_03970_SYSTEM_800_001	Habla de nuevo con Zlatan cuando quieras aceptar esta misión.
+TEXT_LUCKSA151_03970_SYSTEM_800_005	Ya recibiste <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>. Cambia a otro job y habla de nuevo con Zlatan.
+TEXT_LUCKSA151_03970_SYSTEM_800_006	Ya recibiste <ennoun(Item,2,lnum1,1,1)>. Cambia a otro job y habla de nuevo con Zlatan.
+TEXT_LUCKSA151_03970_SYSTEM_800_008	Para aceptar la misión "For Want of a Memory", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en tu Armoury Chest o en tu inventario.
+TEXT_LUCKSA151_03970_SYSTEM_800_009	Para aceptar la misión "For Want of a Memory", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> equipado, en tu Armoury Chest o en tu inventario.
+TEXT_LUCKSA151_03970_ZLATAN_000_000	Muy bien. Como hablamos con el maestro Gerolt, le pido que consiga recuerdos para su arma.
+TEXT_LUCKSA151_03970_ZLATAN_000_001	Si me permite ser franco, es todo un alivio saber que no dependemos de la señora Rowena para esto. Fabricar armas para los nuevos Gunnhildr's Blades ya fue bastante duro para nuestras arcas.
+TEXT_LUCKSA151_03970_ZLATAN_000_002	Dioses, me estremezco de pensar qué más podría exigir como pago...
+TEXT_LUCKSA151_03970_ZLATAN_000_003	Ejem, pero me desvío del tema. Quizá primero debamos considerar qué clase de recuerdos convienen a nuestros propósitos.
+TEXT_LUCKSA151_03970_ZLATAN_000_004	Tendrían que ser recuerdos de batalla, por supuesto, pero... Hm. El linaje de estas armas se remonta a Bozja, así que quizá lo ideal sean recuerdos de batalla del frente sur.
+TEXT_LUCKSA151_03970_ZLATAN_000_005	Y para darle un toque personal, creo que una batalla memorable de los lugares de su pasado vendría muy bien.
+TEXT_LUCKSA151_03970_ZLATAN_000_006	Según mis cálculos, necesitaremos tres variedades de recuerdos, veinte de cada una. Cuando reúna lo necesario, podemos consultar al maestro Gerolt cómo proceder.
+TEXT_LUCKSA151_03970_ZLATAN_000_010	¿<italic(1)>Otra<italic(0)> arma Resistance? Entonces espero que esté en condiciones de conseguir más recuerdos.
+TEXT_LUCKSA151_03970_ZLATAN_000_011	Como antes, necesitaremos tres variedades de recuerdos, veinte de cada una. Si los reúne en el frente sur o en otro lugar más memorable, lo dejo a su criterio.
+TEXT_LUCKSA151_03970_SYSTEM_000_020	Los memories of the dying se obtienen combatiendo en el frente sur o en FATEs específicos de ciertos lugares.
+TEXT_LUCKSA151_03970_SYSTEM_000_021	Los memories of the dying se encuentran en FATEs de estos seis lugares:<br>Coerthas Western Highlands, the Dravanian Forelands, the Dravanian Hinterlands, the Churning Mists, the Sea of Clouds o Azys Lla.
+TEXT_LUCKSA151_03970_ZLATAN_000_030	Tres variedades de recuerdos deberían bastar de sobra, pero necesitaremos veinte de cada una para asegurar el éxito.
+TEXT_LUCKSA151_03970_SYSTEM_000_031	Los memories of the dying se obtienen combatiendo en el frente sur o en FATEs específicos de ciertos lugares.
+TEXT_LUCKSA151_03970_SYSTEM_000_032	Los memories of the dying se encuentran en FATEs de estos seis lugares:<br>Coerthas Western Highlands, the Dravanian Forelands, the Dravanian Hinterlands, the Churning Mists, the Sea of Clouds o Azys Lla.
+TEXT_LUCKSA151_03970_ZLATAN_000_050	¿Pudo conseguir los recuerdos necesarios? Antes de nada, necesito que se quite el arma.
+TEXT_LUCKSA151_03970_ZLATAN_000_060	El maestro Gerolt está listo para empezar. Si tiene los recuerdos necesarios, claro.
+TEXT_LUCKSA151_03970_ZLATAN_000_065	Excelente. Y el arma, si es tan amable.
+TEXT_LUCKSA151_03970_ZLATAN_000_066	Ahora, veamos qué tiene planeado el maestro Gerolt.
+TEXT_LUCKSA151_03970_GEROLT_000_070	Sí, parece que está todo. Hay que reconocerlo, esos soldados tenían mucho que decir de los cristales y demás.
+TEXT_LUCKSA151_03970_GEROLT_000_071	Bueno, si esto funciona como debe, y funcionará porque lo planeé yo, una vez extraídos los recuerdos, las inscripciones absorberán su energía y quedará estabilizada. Como mínimo, debería duplicar la fuerza del vínculo entre el usuario y el arma.
+TEXT_LUCKSA151_03970_ZLATAN_000_072	¡Santo cielo! Pensar que los recuerdos de batalla pudieran dar tal fuerza... Ejem. ¿Empezamos, entonces, maestro Gerolt?
+TEXT_LUCKSA151_03970_GEROLT_000_080	Otra arma para la vieja forja, ¿eh? Muy bien, veamos qué trucos me quedan bajo la manga.
+TEXT_LUCKSA151_03970_ZLATAN_000_081	Basta que me lo diga, maestro Gerolt, y lo ayudaré.
+TEXT_LUCKSA151_03970_GEROLT_000_082	Quédate ahí, <split(<string(gstr1)>, ,1)>. Esto no debería tardar.
+TEXT_LUCKSA151_03970_GEROLT_000_090	Buen trabajo, aunque esté mal que yo lo diga. Digna de reavivar la esperanza de la Resistance: ¡<sheet(Item,lnum1,9)>!
+TEXT_LUCKSA151_03970_GEROLT_000_095	Una hoja de primera, aunque esté mal que yo lo diga. Digna de reavivar la esperanza de la Resistance: ¡<ennoun(Item,3,lnum1,1,1)>!
+TEXT_LUCKSA151_03970_GEROLT_000_096	Y claro, no podemos olvidar a su gemela, ¡<ennoun(Item,3,lnum1,1,1)>!
+TEXT_LUCKSA151_03970_GEROLT_000_100	Salió mejor de lo que esperaba. La verdad, al principio estaba atascado, y de pronto me cayó como un barril de ale. Tuve que mover algunos hilos para reunir todos los ingredientes, pero valió la pena, ¿eh?
+TEXT_LUCKSA151_03970_GEROLT_000_101	Yo diría que, si tuviera que repetirlo, podríamos meterles todavía más recuerdos a las inscripciones.
+TEXT_LUCKSA151_03970_ZLATAN_000_102	Su genio nunca deja de asombrarme, maestro Gerolt. Pero si me permite preguntar, ¿qué quiso decir exactamente con "mover algunos hilos"?
+TEXT_LUCKSA151_03970_ROWENA_000_103	(-???-)¿Tratándose de un borracho holgazán como él? Naturalmente, solo puede significar una cosa.
+TEXT_LUCKSA151_03970_ROWENA_000_104	Y la idea no le cayó como un barril de ale, sino como mi mano en esa nuca de bobalicón. Se suponía que venía a informar de sus avances, pero casi me rogó llorando que lo ayudara.
+TEXT_LUCKSA151_03970_ZLATAN_000_105	Entonces, los materiales del arma eran... ¿de sus almacenes?
+TEXT_LUCKSA151_03970_ROWENA_000_106	No todos, no. Solo uno. Cuando dejó de lloriquear y me explicó su aprieto, me acordé de una jovencita de Idyllshire cuyo trabajo requería una tela de memoria especial, aunque prefiero no entrar en detalles. Como imaginarás, no sale barata.
+TEXT_LUCKSA151_03970_ZLATAN_000_108	Por los dioses... ¿Más deudas?
+TEXT_LUCKSA151_03970_GEROLT_000_109	¡Seguro que a Bajsaljen no le molesta!
+TEXT_LUCKSA151_03970_ROWENA_000_110	¿Así que Gerolt vino a verme sin consultar antes a la Resistance? Qué sorpresa.
+TEXT_LUCKSA151_03970_ROWENA_000_111	Por mucho que me guste exprimirle hasta el último gil, si la Resistance se derrumbara en un momento así, sería malo para el negocio. ¿Qué tal si hacemos otro trato?
+TEXT_LUCKSA151_03970_ZLATAN_000_112	\<suspiro> Siempre tan mujer de negocios, ya veo. ¿Qué tiene en mente?
+TEXT_LUCKSA151_03970_ROWENA_000_113	Nada que les apriete más las arcas, si es lo que estabas pensando. Ya verás...
+TEXT_LUCKSA151_03970_GEROLT_000_114	Mira nomás. Nuestra suerte va mejorando. ¿Por qué estará de tan buen humor?
+TEXT_LUCKSA151_03970_ZLATAN_000_115	No me atrevo a preguntar, porque sospecho que esto no augura nada bueno para el futuro de la Resistance...
+TEXT_LUCKSA151_03970_ZLATAN_000_116	Pero supongo que de poco sirve lamentar problemas que aún no llegan. El trabajo en el arma de Blade <split(<string(gstr1)>, ,2)> está terminado. Al final, eso es lo que importa.
+TEXT_LUCKSA151_03970_ZLATAN_000_117	Por el bien de la Resistance, debemos concentrar nuestros esfuerzos en fortalecer aún más las armas Resistance. Estoy seguro de que Rowena nos revelará sus planes muy pronto.
+TEXT_LUCKSA151_03970_GEROLT_000_120	El poder de los recuerdos parece haber agarrado bien en el arma, y el encantamiento de la tela se mantiene. Yo diría que aguanta otro refinado si hace falta.
+TEXT_LUCKSA151_03970_ZLATAN_000_121	Con cada forjado, el maestro Gerolt me deja admirado. Por desgracia, esa sensación la reemplazan la confusión y la frustración ante su espantosa ética de trabajo.
+TEXT_LUCKSA151_03970_ZLATAN_000_122	Pero eso no viene al caso. Cuando crea que está en condiciones de fortalecer más su arma, no dude en llamarnos. Cuídese, y manténgase a salvo en el campo de batalla.

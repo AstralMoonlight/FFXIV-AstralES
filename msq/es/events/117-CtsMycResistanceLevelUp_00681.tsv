@@ -1,0 +1,27 @@
+key	text
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_001	Sea <if(gnum4,bienvenida,bienvenido)>, Blade <split(<string(gstr1)>, ,2)>. Si cree que sus hazañas en el campo de batalla han demostrado su mettle y merecen evaluación, quisiera oírlas.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_002	Suponiendo, claro, que tenga hazañas que informar. Si es siquiera la mitad del soldado que dicen, espero su regreso, <if(gnum4,señorita,señor)>.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_010	Ah, Blade <split(<string(gstr1)>, ,2)>. ¿Qué noticias hay del frente?
+TEXT_CTSMYCRESISTANCELEVELUP_00681_Q1_000_001	¿Qué haces?
+TEXT_CTSMYCRESISTANCELEVELUP_00681_A1_000_001	Presentar pruebas de tu mettle.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_A1_000_002	Preguntar por los Resistance ranks.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_A1_000_003	Nada.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_020	Gracias por su informe, Blade <split(<string(gstr1)>, ,2)>, pero era del todo innecesario. Me atrevo a decir que no hay soldado en toda la Resistance que no sepa de sus valientes actos.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_030	Ya veo... No es el informe más convincente, pero sin duda merece reconocimiento.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_031	Debes aumentar tu mettle en <kilo(lnum1,\,)> para ascender al siguiente Resistance rank.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_040	Si no hubiera otros soldados que lo confirmen, creería que su informe es pura ficción.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_050	Sin duda las tropas se sentirán inspiradas al oír de sus logros. Espero seguir sabiendo de sus éxitos en el campo.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_051	Hay una nueva misión de la Resistance disponible.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_052	Hay una nueva misión de la Resistance disponible en Zadnor.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_060	Ah, antes de que se vaya. Me complace informarle que nuestro intendente tuvo a bien ampliar su lost finds holster. Confío en que le dará buen uso a nuestras reservas adicionales.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_065	También debo mencionar que la investigación de los forgotten fragments avanza a buen paso, y nuestros tasadores confían en poder identificar una mayor variedad. Ruego que le sean útiles en batalla.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_070	Por lo que me dicen nuestros exploradores, la lucha se vuelve más feroz y desesperada cada día. No dudo que haya enfrentado situaciones abrumadoras antes, pero le recuerdo que debe mantenerse alerta. No se sabe qué estarán planeando.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_071	Al combatir con Resistance rank <num(lnum1)> o superior, quedar fuera de combate provocará una pérdida de mettle.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_072	Además, usar Return tras quedar fuera de combate supone una penalización adicional de mettle. La penalización varía según tu Resistance rank.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_080	Si no tiene nada más que informar, no le quito más tiempo. Ruego que se mantenga a salvo allá afuera, Blade <split(<string(gstr1)>, ,2)>.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_090	Si no tiene nada más que informar, no le quito más tiempo. A menos, claro, que haya algo más que contar de sus empresas en el frente.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_Q2_000_001	¿Tienes más que informar?
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_100	Ja, lo sospechaba. Bueno, oigámoslo.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_105	Entendido. Espero su próximo informe, <if(gnum4,señorita,señor)>.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_110	Por los dioses. Tendría tales hazañas por imposibles si las contara cualquier otro.
+TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_111	En nombre de la Resistance, le ofrezco mi más humilde agradecimiento. Con usted a nuestro lado, la esperanza de una Bozja libre nunca se perderá.

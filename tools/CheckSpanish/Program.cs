@@ -62,6 +62,14 @@ void ExpectColours(string english, string? expected)
 
 foreach (var job in jobs)
 {
+    // The whole Status sheet, including duty and NPC statuses no job owns. Only on request: it is
+    // not job progress.
+    if (job == "ESTADOS")
+    {
+        Report(job, "todos", GameData.Statuses.DistinctBy(s => s.Description).Select(s => (s.Id, s.Name, Level: 0, s.Description)));
+        continue;
+    }
+
     // Rows with no text (pet and helper actions) have nothing to translate and are not counted.
     // GENERAL is the GeneralAction sheet (Sprint, Teleport…), not a job of the Action sheet.
     var actions = job == "GENERAL"

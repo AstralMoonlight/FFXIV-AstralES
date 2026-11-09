@@ -1,0 +1,46 @@
+key	text
+TEXT_LUCKSA251_04038_SEQ_00	Zlatan está listo para despedirte.<br>※Cambiar de clase o job impide avanzar en esta misión.
+TEXT_LUCKSA251_04038_SEQ_01	Consultas a Zlatan sobre qué clase de recuerdos serían ideales para seguir mejorando tu arma Resistance, y sugiere los que provienen de batallas de gran peligro, como las de un asalto a gran escala. Confía en que quince de esos recuerdos bastarán. Pero dónde reunirlos lo deja a tu criterio.<br><br>※No puedes avanzar con una clase o job distinto del que tenías al aceptar esta misión.<br>※Las loathsome memories of the dying se obtienen participando en enfrentamientos críticos en el frente sur o completando las alliance raids de Crystal Tower.
+TEXT_LUCKSA251_04038_SEQ_02	Gerolt tiene lista la forja para tu regreso y se pone a trabajar en cuanto le entregas los recuerdos. Con sus habituales floreos de golpes y estruendos, tu arma Resistance adquiere una nueva forma, y las energías que emana son casi palpables. Aunque está muy satisfecho con su trabajo, cree que aún hay margen de mejora. Espera que la inspiración vuelva a llegar antes de que recurras otra vez a sus servicios.
+TEXT_LUCKSA251_04038_TODO_00	<if([lnum1<lnum2],Obtén loathsome memories of the dying,Con <if([lnum4==19],<ennoun(Item,2,30785,1,1)> y <ennoun(Item,2,30802,1,1)>,<if([lnum4==20],<ennoun(Item,2,30786,1,1)>,<if([lnum4==21],<ennoun(Item,2,30787,1,1)>,<if([lnum4==22],<ennoun(Item,2,30788,1,1)>,<if([lnum4==23],<ennoun(Item,2,30789,1,1)>,<if([lnum4==24],<ennoun(Item,2,30793,1,1)>,<if([lnum4==25],<ennoun(Item,2,30794,1,1)>,<if([lnum4==27],<ennoun(Item,2,30795,1,1)>,<if([lnum4==28],<ennoun(Item,2,30796,1,1)>,<if([lnum4==30],<ennoun(Item,2,30790,1,1)>,<if([lnum4==31],<ennoun(Item,2,30792,1,1)>,<if([lnum4==32],<ennoun(Item,2,30791,1,1)>,<if([lnum4==33],<ennoun(Item,2,30797,1,1)>,<if([lnum4==34],<ennoun(Item,2,30798,1,1)>,<if([lnum4==35],<ennoun(Item,2,30799,1,1)>,<if([lnum4==37],<ennoun(Item,2,30800,1,1)>,<if([lnum4==38],<ennoun(Item,2,30801,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario o Armoury Chest\, entrega las loathsome memories of the dying a Zlatan en Gangos)>.
+TEXT_LUCKSA251_04038_SYSTEM_800_000	Ten en cuenta que al completar la misión "Change of Arms" recibirás un arma Resistance para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_LUCKSA251_04038_SYSTEM_801_000	Asegúrate de cambiar al job que quieras antes de hablar con Zlatan.
+TEXT_LUCKSA251_04038_Q1_800_000	¿Qué haces?
+TEXT_LUCKSA251_04038_A1_800_000	Aceptar esta misión con otro job.
+TEXT_LUCKSA251_04038_A2_800_000	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_LUCKSA251_04038_SYSTEM_800_001	Habla de nuevo con Zlatan cuando quieras aceptar esta misión.
+TEXT_LUCKSA251_04038_SYSTEM_800_005	Ya recibiste <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>. Cambia a otro job y habla de nuevo con Zlatan.
+TEXT_LUCKSA251_04038_SYSTEM_800_006	Ya recibiste <ennoun(Item,2,lnum1,1,1)>. Cambia a otro job y habla de nuevo con Zlatan.
+TEXT_LUCKSA251_04038_SYSTEM_800_008	Para aceptar la misión "Change of Arms", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en tu Armoury Chest o en tu inventario.
+TEXT_LUCKSA251_04038_SYSTEM_800_009	Para aceptar la misión "Change of Arms", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> equipado, en tu Armoury Chest o en tu inventario.
+TEXT_LUCKSA251_04038_ZLATAN_000_000	¿Está en condiciones de buscar recuerdos para su arma? Excelente.
+TEXT_LUCKSA251_04038_ZLATAN_000_001	Llegamos a la conclusión de que los formados en un momento de gran peligro, como en algún asalto a gran escala, serían los que mejor sirven a nuestros propósitos.
+TEXT_LUCKSA251_04038_ZLATAN_000_002	Las batallas del frente sur sin duda bastarán, pero imagino que alguien con tanto mundo como usted sabrá de otros lugares donde encontrarlos. Si consigue quince de esos recuerdos, estaremos en buen camino para forjarle un arma nueva.
+TEXT_LUCKSA251_04038_ZLATAN_000_010	Viene a refinar otra arma Resistance, supongo. Entonces le pediré al maestro Gerolt que prepare la forja.
+TEXT_LUCKSA251_04038_ZLATAN_000_011	Como antes, el trabajo requerirá otros quince recuerdos.
+TEXT_LUCKSA251_04038_SYSTEM_000_020	Las loathsome memories of the dying se obtienen participando en enfrentamientos críticos en el frente sur.
+TEXT_LUCKSA251_04038_SYSTEM_000_021	También se pueden obtener completando las alliance raids de Crystal Tower.
+TEXT_LUCKSA251_04038_ZLATAN_000_025	Con recuerdos de suficiente intensidad, estamos seguros de que no harán falta más de quince. Si los busca en el frente sur o en otra parte, lo dejo a su criterio.
+TEXT_LUCKSA251_04038_SYSTEM_000_026	Las loathsome memories of the dying se obtienen participando en enfrentamientos críticos en el frente sur.
+TEXT_LUCKSA251_04038_SYSTEM_000_027	También se pueden obtener completando las alliance raids de Crystal Tower.
+TEXT_LUCKSA251_04038_ZLATAN_000_050	Ah, regresó. Antes de empezar, ¿podría pedirle que se quite el arma?
+TEXT_LUCKSA251_04038_ZLATAN_000_055	El maestro Gerolt ya preparó la forja, junto con todos los demás materiales necesarios. ¿Me entrega los recuerdos que reunió?
+TEXT_LUCKSA251_04038_ZLATAN_000_060	Maravilloso. Y el arma, si es tan amable.
+TEXT_LUCKSA251_04038_ZLATAN_000_061	Muy bien. El maestro Gerolt estará encantado. O lo que pase por encanto en esa mente empapada de ale.
+TEXT_LUCKSA251_04038_GEROLT_000_065	Muy bien. Si estos recuerdos son tan potentes como creo, esto va a estar interesante.
+TEXT_LUCKSA251_04038_GEROLT_000_070	Con ganas de darle una manita a otra arma Resistance, ¿eh? Bueno, no puedo decir que no, después de que te tomaste la molestia de juntar todos estos recuerdos.
+TEXT_LUCKSA251_04038_GEROLT_000_071	Muy bien. Si estos recuerdos se parecen en algo a los anteriores, no debería tardar mucho.
+TEXT_LUCKSA251_04038_GEROLT_000_080	Parece que los recuerdos agarraron bien en tu arma. Y la convirtieron en toda una obra de arte. <if([gnum68==20],Los llamo,<if([gnum68==30],Los llamo,<if([gnum68==38],Los llamo,La llamo)>)>)> ¡<ennoun(Item,2,lnum1,1,1)>!
+TEXT_LUCKSA251_04038_GEROLT_000_081	Parece que los recuerdos agarraron bien en tu arma. Y la convirtieron en toda una obra de arte. La llamo ¡<ennoun(Item,2,lnum1,1,1)>!
+TEXT_LUCKSA251_04038_GEROLT_000_082	Y claro, no podemos olvidar a su pareja, ¡<ennoun(Item,2,lnum1,1,1)>!
+TEXT_LUCKSA251_04038_GEROLT_000_090	Resulta que las inscripciones de la reina son más poderosas de lo que creía. No me sorprendería que tuvieran algo más de potencial sin aprovechar.
+TEXT_LUCKSA251_04038_ZLATAN_000_091	¡Volvió a superarse, maestro Gerolt! Casi basta para pasar por alto sus deplorables hábitos de bebida. ¿Y cree que el arma se puede mejorar aún más?
+TEXT_LUCKSA251_04038_GEROLT_000_092	No sabría decirlo. Quizá si, eh... si diera un paseíto por el campamento, ya sabes, para despejar la cabeza y eso, a lo mejor me llega la inspiración.
+TEXT_LUCKSA251_04038_ZLATAN_000_093	¿No dijo exactamente lo mismo poco después de que Blade <split(<string(gstr1)>, ,2)> saliera a reunir recuerdos? Si mal no recuerdo, fue un paseo muy corto hasta el almacén. Donde se bebió todo nuestro último barril de ale...
+TEXT_LUCKSA251_04038_ZLATAN_000_094	No, creo que ya ha tenido suficiente <italic(1)>inspiración<italic(0)> por hoy, maestro Gerolt. Lo que conviene es compartir su último logro con los demás y volver enseguida al trabajo.
+TEXT_LUCKSA251_04038_GEROLT_000_095	Bah.
+TEXT_LUCKSA251_04038_GEROLT_000_096	\<suspiro> Ni una pinta por todos mis esfuerzos. Bueno, no te entretengo. Seguro que te mueres por probar esa arma tan elegante. Si después decides que todavía le falta, vuelve y veré qué puedo hacer.
+TEXT_LUCKSA251_04038_ZLATAN_000_100	Como siempre, es un honor y un privilegio verlo trabajar, maestro Gerolt. Está claro que todavía me queda mucho por aprender del arte de la herrería.
+TEXT_LUCKSA251_04038_GEROLT_000_101	Se agradece el halago, pero lo que necesito ahora no son cumplidos, sino hidromiel. O quizá si me dejaras arreglar una o dos teteras para variar un poco...
+TEXT_LUCKSA251_04038_ZLATAN_000_102	La Resistance necesita armas, maestro Gerolt, no teteras. Seguramente idear formas de mejorar las armas Resistance sería un mejor uso de su tiempo, ¿no?
+TEXT_LUCKSA251_04038_ZLATAN_000_103	Y hablando de eso, si cree que su arma necesita refinarse, no dude en venir a hablar conmigo.

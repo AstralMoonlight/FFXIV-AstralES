@@ -1,0 +1,56 @@
+key	text
+TEXT_LUCKSA101_03941_SEQ_00	La determinación en los ojos de Marsak te dice que se acerca la hora de la batalla.
+TEXT_LUCKSA101_03941_SEQ_01	El renacimiento de los Gunnhildr's Blades encendió un fuego en la Resistance, y sus fuerzas se acercan cada vez más a Castrum Lacus Litore. Tras recuperar hace poco Utya's Aegis, un puesto de avanzada en el frente sur, Marsak le pidió a Sjeros que te escolte hasta allá para que evalúes la situación por ti mism<if(gnum4,a,o)>.
+TEXT_LUCKSA101_03941_SEQ_02	Sin muchos preámbulos, Sjeros acepta guiarte a Utya's Aegis, donde Bajsaljen planea presentarte a un grupo de soldados bastante notable.
+TEXT_LUCKSA101_03941_SEQ_03	Bajsaljen te presenta con orgullo a los nuevos Gunnhildr's Blades, aunque los presentes no son toda la guardia. Los demás ya salieron al campo, esforzándose por hacer avanzar el frente hacia el castrum. Tras explicar la situación, Bajsaljen cae en la cuenta de que todavía no has visto la fortaleza con tus propios ojos. Para remediarlo, te invita a mirar el campo de batalla y contemplar el objeto de su lucha.
+TEXT_LUCKSA101_03941_SEQ_04	Mientras miras el castrum, imponente a lo lejos, Bajsaljen te habla de su iniciativa para recuperarlo, Operation Eagle's Nest. Antes de que te unas a sus tropas en el campo, sin embargo, te pide hablar con Mikoto.
+TEXT_LUCKSA101_03941_SEQ_05	Encuentras a Mikoto en compañía de Misija, y tienen noticias emocionantes: un análisis del foco de cristal demostró que se puede recargar. El problema es que, para hacerlo, hay que infiltrarse en territorio imperial. Aun así, los planes para restaurar el foco de cristal van bien encaminados. Planes que necesitarán tu ayuda para tener éxito.
+TEXT_LUCKSA101_03941_SEQ_06	Mikoto parece temer los peligros por venir, pero entiende que ambas partes deben hacer lo que hay que hacer. Te desea buen viaje mientras te preparas para enfrentar el frente sur de Bozja.
+TEXT_LUCKSA101_03941_TODO_00	Habla con Sjeros.
+TEXT_LUCKSA101_03941_TODO_01	Ve al frente sur de Bozja y habla con Bajsaljen.
+TEXT_LUCKSA101_03941_TODO_02	Habla con Bajsaljen.
+TEXT_LUCKSA101_03941_TODO_03	Habla con Mikoto.
+TEXT_LUCKSA101_03941_TODO_04	Habla con Mikoto.
+TEXT_LUCKSA101_03941_MARSHAK_000_000	Qué bueno verle, <if(gnum4,amiga mía,amigo mío)>. Aunque costó mucho, me complace decir que el maestro Gerolt logró volver a forjar las armas de los Gunnhildr's Blades. En efecto, la ilustre guardia de la reina por fin ha renacido.
+TEXT_LUCKSA101_03941_MARSHAK_000_001	Cuando se logró, la noticia corrió pronto por cada facción de la Bozjan Resistance. Como esperábamos, eso reafirmó su determinación de seguir adelante y ver a nuestro hogar recuperar su antigua gloria.
+TEXT_LUCKSA101_03941_MARSHAK_000_002	De hecho, nuestras tropas ya recuperaron Utya's Aegis, un puesto de avanzada en el frente sur de Bozja. Cuando esté list<if(gnum4,a,o)>, le pediría que vaya al frente a evaluar mejor la situación. Sjeros le mostrará el camino.
+TEXT_LUCKSA101_03941_SERAOUSH_000_030	Ah, Blade <split(<string(gstr1)>, ,2)>. Le estaba esperando. Si tiene la bondad de seguirme.
+TEXT_LUCKSA101_03941_SYSTEM_000_031	Ahora puedes viajar al frente sur de Bozja. La batalla por Bozja admite grupos de hasta ocho jugadores, o se puede jugar en solitario.
+TEXT_LUCKSA101_03941_SYSTEM_000_033	Ten en cuenta que todas las incursiones al frente tienen item level sincronizado. El equipo que supere el item level <num(lnum1)> se ajustará.
+TEXT_LUCKSA101_03941_BAISHAEN_000_060	Me alegra que haya podido unirse a nosotros, Blade <split(<string(gstr1)>, ,2)>, y justo a tiempo.
+TEXT_LUCKSA101_03941_BAISHAEN_100_060	¡Permítame presentarle a los Gunnhildr's Blades!
+TEXT_LUCKSA101_03941_BAISHAEN_101_060	El alto mago Xeven, maestro de las llamas. La furia de su arte rivaliza con los infiernos más ardientes.<br>Isolde, el ojo de águila. A plena luz o en la noche más oscura, ningún enemigo escapa a su vista.<br>Stanik, la hoja inquebrantable de Bozja. Son incontables los enemigos que se han estrellado contra su escudo.
+TEXT_LUCKSA101_03941_BAISHAEN_102_060	Velibor, la hoja funesta. Su furia desatada puede abatir a escuadras enteras de un solo golpe.<br>Aggie, el puño de hierro de Bozja. Una joven prodigio cuya destreza marcial deja en vergüenza incluso a los veteranos más curtidos.<br>Blaz, la hoja misericordiosa. Ningún enemigo, por terrible que sea, puede disuadir a su hoja de dar en el blanco.
+TEXT_LUCKSA101_03941_BAISHAEN_103_060	Tenga por seguro que esta no es toda la guardia. Varios ya salieron al campo y les vendría muy bien su presencia, si está dispuest<if(gnum4,a,o)>.
+TEXT_LUCKSA101_03941_BAISHAEN_000_061	Con los Gunnhildr's Blades y el Warrior of Light al frente de la carga, Castrum Lacus Litore será nuestro. Es solo cuestión de tiempo.
+TEXT_LUCKSA101_03941_BAISHAEN_000_062	Y hablando de eso, creo que aún no ha visto el castrum. Sígame, y le mostraré el objeto de nuestra lucha en el frente sur.
+TEXT_LUCKSA101_03941_XEVEN_000_070	Blade <split(<string(gstr1)>, ,2)>. Es un honor y un privilegio conocerle. Espero con ansias pelear a su lado en los días por venir.
+TEXT_LUCKSA101_03941_ISOLDE_000_071	Mucho gusto, Blade <split(<string(gstr1)>, ,2)>. Cuando empiece la batalla, tenga por seguro que los Gunnhildr's Blades le cubrirán las espaldas.
+TEXT_LUCKSA101_03941_STANIK_000_072	¡Ja, ja, por fin nos conocemos, Blade <split(<string(gstr1)>, ,2)>! Démosles una buena paliza a los imperiales, ¿sí?
+TEXT_LUCKSA101_03941_BLAZ_000_073	Blade <split(<string(gstr1)>, ,2)>. Nos honra con su presencia. Aunque mis antepasados vienen de Doma, Bozja es mi hogar. Con usted a nuestro lado, confío en que la veremos libre.
+TEXT_LUCKSA101_03941_VELIBOR_000_074	Qué bueno tenerle con nosotros, Blade <split(<string(gstr1)>, ,2)>. Alguien de los que me gustan, si son ciertas las historias de su fama. Cuando empiece la pelea, me aseguraré de no estorbarle. ¿Confío en que me dará la misma cortesía?
+TEXT_LUCKSA101_03941_AGGIE_000_075	Un honor conocerle, <if(gnum4,señorita,señor)>. Ni en mis sueños más locos pensé que me elegirían para algo así, ¡pero no le voy a fallar! ¡Lo prometo!
+TEXT_LUCKSA101_03941_BAISHAEN_000_090	Ahí está. Castrum Lacus Litore, para usar el nombre garleano.
+TEXT_LUCKSA101_03941_BAISHAEN_000_091	Su verdadero nombre es Alermuc, que significa "águila" en bozjano, pues ellas también habitaron estas montañas. Para nuestro pueblo son símbolo de fuerza y buena fortuna, dos cosas que hacían mucha falta cuando el Imperio invadió.
+TEXT_LUCKSA101_03941_BAISHAEN_000_092	Pero no hay que detenerse en fracasos pasados. Ahora tenemos la oportunidad de recuperar lo que nos pertenece por derecho. Para recordarle al pueblo lo que podemos ganar, decidí llamar a esta iniciativa "Operation Eagle's Nest".
+TEXT_LUCKSA101_03941_BAISHAEN_000_093	Como la gran águila, debemos golpear fuerte y rápido. Y con usted a nuestro lado, no tengo duda de que llevaremos esto a un final glorioso.
+TEXT_LUCKSA101_03941_BAISHAEN_000_094	Pero antes de lanzarse a la batalla, creo que Mikoto quería hablarle del foco de cristal. ¿Buenas noticias, quizá?
+TEXT_LUCKSA101_03941_BAISHAEN_000_100	Mikoto pidió hablar con usted lo antes posible. Algo relacionado con el foco de cristal, creo.
+TEXT_LUCKSA101_03941_MIKOTO_000_130	¡Ah, <split(<string(gstr1)>, ,1)>!
+TEXT_LUCKSA101_03941_MIKOTO_000_131	Tengo noticias bastante emocionantes. Como recordará, la energía del foco de cristal se gastó en nuestra exploración de los recuerdos de Cid.
+TEXT_LUCKSA101_03941_MIKOTO_000_132	Tras un análisis cuidadoso, concluimos que, de hecho, puede absorber aether de manera similar al auracite que descubrimos en Ivalice.
+TEXT_LUCKSA101_03941_MIKOTO_000_133	Siempre que tengamos, claro, una fuente de energía adecuada que coincida con su frecuencia aetérica.
+TEXT_LUCKSA101_03941_MEESIYA_000_134	Y ahí está el problema. Los cristales con una firma aetérica tan específica son bastante raros. Jamás podríamos reunir la cantidad necesaria.
+TEXT_LUCKSA101_03941_MEESIYA_000_135	Si localizáramos una corriente de aether de la frecuencia correcta, en cambio, cargar el foco sería cosa de rutina. Por desgracia, esas corrientes solo existen en regiones de Bozja llenas de imperiales.
+TEXT_LUCKSA101_03941_MEESIYA_000_136	Mikoto quería esperar a que se calmaran los combates, pero como ya le expliqué, el tiempo es un lujo que no podemos darnos.
+TEXT_LUCKSA101_03941_MEESIYA_000_137	Seguro que entiende mejor que nadie que el derramamiento de sangre solo cesará cuando se decida un vencedor, y que el número de muertos seguirá subiendo en ambos bandos.
+TEXT_LUCKSA101_03941_MEESIYA_000_138	Los horrores de esta guerra pesan mucho en el corazón de nuestro pueblo.
+TEXT_LUCKSA101_03941_MEESIYA_000_139	Una carga que podría aliviarse si pudiéramos usar el foco de cristal para sanar heridas no de la carne, sino de la mente.
+TEXT_LUCKSA101_03941_MEESIYA_000_140	Los planes para localizar una corriente de aether van bien encaminados, pero sospecho que su ayuda los agilizaría. ¿Podemos pedirle su ayuda en esta empresa?
+TEXT_LUCKSA101_03941_MIKOTO_000_141	Como tenemos poco tiempo, Cid ya empezó a trabajar en un aparato de monitoreo para localizar una fuente de aether suficiente.
+TEXT_LUCKSA101_03941_MIKOTO_000_142	Voy a reunirme con él para los preparativos finales. Mientras tanto, les pido a ustedes dos que investiguen un lugar que creo cercano a una corriente de aether.
+TEXT_LUCKSA101_03941_MARSHAK_000_143	Disculpen la interrupción, pero algunos de nuestros soldados querían hablar brevemente antes de que parta. Supongo que su información le será útil en el campo.
+TEXT_LUCKSA101_03941_RESISTANCERECORDER_000_150	Blade <split(<string(gstr1)>, ,2)>. ¿Podría hablar con usted antes de que parta al frente sur? Por supuesto, puedo esperar a que termine sus asuntos con la señorita Mikoto.
+TEXT_LUCKSA101_03941_MIKOTO_000_180	Agradezco su disposición a ayudar, pero ¿siempre tiene que ponerse en tanto peligro?<br>...Perdón. Entiendo que solo hace lo que hay que hacer.
+TEXT_LUCKSA101_03941_MIKOTO_000_181	Todos tenemos nuestro papel, y prometo cumplir el mío lo mejor que pueda. Cuídese allá afuera, ¿sí?
+TEXT_LUCKSA101_03941_SYSTEM_000_190	Habla con la secretaría de la Resistance o con Sjeros para saber más sobre la batalla en el frente sur de Bozja.

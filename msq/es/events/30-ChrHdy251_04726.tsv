@@ -1,0 +1,38 @@
+key	text
+TEXT_CHRHDY251_04726_SEQ_00	El artesano de la House Manderville está listo para atender tu solicitud de mejora.<br>※Si cambias de clase o job, no podrás avanzar en esta misión.
+TEXT_CHRHDY251_04726_SEQ_01	Te acercas al artesano de la House Manderville para pedirle mejorar otra arma Manderville. El siempre entusiasta artesano solo te pide los pedazos necesarios de complementary chondrite, una sustancia que, por supuesto, solo se consigue con cierta comerciante y a cambio de un tipo de moneda muy particular.<br><br>※No puedes avanzar con una clase o un job distinto del que tenías al aceptar esta misión.<br><br>※Los pedazos de complementary chondrite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY251_04726_SEQ_02	Haces la contribución meteórica requerida y otra vez tienes la dicha de presenciar una colaboración de brillantez artesanal. Animado por los elogios a regañadientes de Gerolt, el artesano de la House Manderville te pide acudir a él de nuevo si tienes otras armas que quieras mejorar.
+TEXT_CHRHDY251_04726_TODO_00	<if([lnum1<lnum2],Consigue pedazos de complementary chondrite,Con <if([lnum4==19],<ennoun(Item,2,38400,1,1) y <ennoun(Item,2,38419,1,1)>,<if([lnum4==20],<ennoun(Item,2,38401,1,1)>,<if([lnum4==21],<ennoun(Item,2,38402,1,1)>,<if([lnum4==22],<ennoun(Item,2,38403,1,1)>,<if([lnum4==23],<ennoun(Item,2,38404,1,1)>,<if([lnum4==24],<ennoun(Item,2,38408,1,1)>,<if([lnum4==25],<ennoun(Item,2,38409,1,1)>,<if([lnum4==27],<ennoun(Item,2,38410,1,1)>,<if([lnum4==28],<ennoun(Item,2,38411,1,1)>,<if([lnum4==30],<ennoun(Item,2,38405,1,1)>,<if([lnum4==31],<ennoun(Item,2,38407,1,1)>,<if([lnum4==32],<ennoun(Item,2,38406,1,1)>,<if([lnum4==33],<ennoun(Item,2,38412,1,1)>,<if([lnum4==34],<ennoun(Item,2,38413,1,1)>,<if([lnum4==35],<ennoun(Item,2,38414,1,1)>,<if([lnum4==37],<ennoun(Item,2,38415,1,1)>,<if([lnum4==38],<ennoun(Item,2,38416,1,1)>,<if([lnum4==39],<ennoun(Item,2,38418,1,1)>,<if([lnum4==40],<ennoun(Item,2,38417,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario o en tu Armoury Chest\, entrégale los pedazos de complementary chondrite al artesano de la House Manderville)>.
+TEXT_CHRHDY251_04726_SYSTEM_000_000	Al completar la misión "The Next Mander-level", recibirás un arma Manderville para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_CHRHDY251_04726_SYSTEM_000_001	Asegúrate de cambiar al job que quieras antes de hablar con el artesano de la House Manderville.
+TEXT_CHRHDY251_04726_Q1_000_001	¿Qué harás?
+TEXT_CHRHDY251_04726_A1_000_002	Aceptar esta misión con otro job.
+TEXT_CHRHDY251_04726_A1_000_003	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_CHRHDY251_04726_SYSTEM_000_005	Habla de nuevo con el artesano de la House Manderville cuando quieras aceptar esta misión.
+TEXT_CHRHDY251_04726_SYSTEM_000_006	Ya recibiste <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>. Cambia a otro job y habla de nuevo con el artesano de la House Manderville.
+TEXT_CHRHDY251_04726_SYSTEM_000_007	Ya recibiste <ennoun(Item,2,lnum1,1,1)>. Cambia a otro job y habla de nuevo con el artesano de la House Manderville.
+TEXT_CHRHDY251_04726_SYSTEM_000_008	Para aceptar la misión "The Next Mander-level", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en tu Armoury Chest o en tu inventario.
+TEXT_CHRHDY251_04726_SYSTEM_000_009	Para aceptar la misión "The Next Mander-level", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> equipado, en tu Armoury Chest o en tu inventario.
+TEXT_CHRHDY251_04726_CRAFTER04653_000_010	¿Si estoy libre para hacer una mejora? ¡Pues claro, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>!
+TEXT_CHRHDY251_04726_CRAFTER04653_000_011	Solo tiene que aportar la cantidad necesaria de complementary chondrite, y podremos elevar su arma Manderville al siguiente Mander-nivel, ¡ajajajá! Ejem. Tres pedazos, por favor.
+TEXT_CHRHDY251_04726_SYSTEM_000_012	Los pedazos de complementary chondrite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY251_04726_CRAFTER04653_000_020	Sí, me temo que son <italic(1)>tres<italic(0)> pedazos de complementary chondrite. No querríamos alterar el delicado equilibrio de sus armas con una proporción sin probar, ¿verdad?
+TEXT_CHRHDY251_04726_SYSTEM_000_021	Los pedazos de complementary chondrite se obtienen de Jubrunnah en la plaza del aetheryte de Radz<-->at<-->Han.
+TEXT_CHRHDY251_04726_CRAFTER04653_000_030	\<\<olfateo> ¿Es chondrite lo que huelo? ¡Espléndido! ¿Tendría la bondad de quitarse el arma...?
+TEXT_CHRHDY251_04726_CRAFTER04653_000_031	¿Estamos listos para continuar, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>?
+TEXT_CHRHDY251_04726_CRAFTER04653_000_040	Muy bien. En cuanto a mi fuego interior, le aseguro que arde más que el horno del señor Gerolt. Llamemos al herrero y su martillo, ¿le parece?
+TEXT_CHRHDY251_04726_GEROLT_000_041	...¡Y listo! ¿Qué te parece, eh?
+TEXT_CHRHDY251_04726_GEROLT_000_042	¡Te mejoramos a <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>!
+TEXT_CHRHDY251_04726_GEROLT_000_043	¡Te mejoramos a <ennoun(Item,2,lnum1,1,1)>!
+TEXT_CHRHDY251_04726_CRAFTER04653_000_044	¡Otro triunfo en colaboración, señor Gerolt! ¡Siento que, cuanto más trabajo a su lado, más me acerco a la verdadera maestría!
+TEXT_CHRHDY251_04726_GEROLT_000_045	¡Ja! ¡No digas tonterías, tarado sin pantalones! ¡He visto mejores artesanos en una guardería de goblins!
+TEXT_CHRHDY251_04726_GEROLT_000_046	Y ya que estamos hablando, su señoría te puso a hacer la misma "meditación marcial" que a mí, ¿no? ¿Contra qué te puso a pelear?
+TEXT_CHRHDY251_04726_CRAFTER04653_000_047	Crucé colmillos, por así decirlo, con un gaja furioso en Saltwind's Welcome.
+TEXT_CHRHDY251_04726_GEROLT_000_048	¿¡T-Te refieres a uno de esos brutos enormes que lo pisotean todo!? ¿¡Y lo derribaste!?
+TEXT_CHRHDY251_04726_CRAFTER04653_000_049	Sí, aunque apenas sobreviví con mis paños menores intactos...
+TEXT_CHRHDY251_04726_GEROLT_000_050	¿A-Ah, sí...? \<tos> Puede que haya exagerado un poquito antes. Le haces honor a tu oficio, así que sigue así, ¿sí?
+TEXT_CHRHDY251_04726_CRAFTER04653_000_051	¡Lo haré, señor Gerolt!
+TEXT_CHRHDY251_04726_CRAFTER04653_000_060	¡Un resultado superlativo, como siempre, señor Gerolt! ¡No podría pedir mejor ejemplo al que aspirar en mi propia búsqueda de la perfección!
+TEXT_CHRHDY251_04726_GEROLT_000_061	¡Sí, cuando tienes un don como el mío, puedes arreglar cualquier arma que caiga en tus manos! ...Claro que ayudaste un poquito.
+TEXT_CHRHDY251_04726_CRAFTER04653_000_070	Ahí lo tiene, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Si vuelve a necesitar nuestros servicios de mejora, estamos a sus órdenes.
+TEXT_CHRHDY251_04726_CRAFTER04653_000_071	¡Solo necesitamos un puñado de chondrite y unos momentos de su tiempo!

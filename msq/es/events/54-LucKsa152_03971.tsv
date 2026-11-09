@@ -1,0 +1,61 @@
+key	text
+TEXT_LUCKSA152_03971_SEQ_00	Zlatan tiene una mirada esperanzada, pues sabe que tu regreso solo puede significar una cosa.<br>※Cambiar de clase o job impide avanzar en esta misión.
+TEXT_LUCKSA152_03971_SEQ_01	Con ganas de fortalecer aún más tu arma Resistance, consultas a Zlatan, quien sugiere que busques otro surtido de recuerdos. Pero te advierte que el arma requerirá recuerdos mucho más potentes si quieres notar alguna mejora. Luego te despide, seguro de que la amenaza de una muerte inminente no te impedirá terminar el trabajo.<br><br>※Las bitter memories se obtienen combatiendo en el frente sur, superando cualquier dungeon de nivel 60 o completando Duty Roulette: Leveling. La opción Unrestricted Party no puede estar activada al superar dichas dungeons.
+TEXT_LUCKSA152_03971_SEQ_02	Regresas a Gangos y encuentras a Gerolt sorprendentemente sobrio y listo para trabajar. Con su floritura habitual, prepara la forja y en poco tiempo tienes en tus manos una nueva y poderosa arma Resistance. Pero no hay tiempo para celebrar, pues pronto llega una empleada de Rowena con una forma de pagar los tratos anteriores de Gerolt con la House of Splendors. Dejando de lado el dinero, Zlatan ruega por tu éxito continuo en la lucha contra el Imperio.
+TEXT_LUCKSA152_03971_TODO_00	<if([lnum1<lnum2],Obtén bitter memories,Con <if([lnum4==19],<ennoun(Item,2,30767,1,1)> y <ennoun(Item,2,30784,1,1)>,<if([lnum4==20],<ennoun(Item,2,30768,1,1)>,<if([lnum4==21],<ennoun(Item,2,30769,1,1)>,<if([lnum4==22],<ennoun(Item,2,30770,1,1)>,<if([lnum4==23],<ennoun(Item,2,30771,1,1)>,<if([lnum4==24],<ennoun(Item,2,30775,1,1)>,<if([lnum4==25],<ennoun(Item,2,30776,1,1)>,<if([lnum4==27],<ennoun(Item,2,30777,1,1)>,<if([lnum4==28],<ennoun(Item,2,30778,1,1)>,<if([lnum4==30],<ennoun(Item,2,30772,1,1)>,<if([lnum4==31],<ennoun(Item,2,30774,1,1)>,<if([lnum4==32],<ennoun(Item,2,30773,1,1)>,<if([lnum4==33],<ennoun(Item,2,30779,1,1)>,<if([lnum4==34],<ennoun(Item,2,30780,1,1)>,<if([lnum4==35],<ennoun(Item,2,30781,1,1)>,<if([lnum4==37],<ennoun(Item,2,30782,1,1)>,<if([lnum4==38],<ennoun(Item,2,30783,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario o Armoury Chest\, entrega las bitter memories a Zlatan en Gangos)>.
+TEXT_LUCKSA152_03971_SYSTEM_800_000	Ten en cuenta que al completar la misión "The Will to Resist" recibirás un arma Resistance para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_LUCKSA152_03971_SYSTEM_801_000	Asegúrate de cambiar al job que quieras antes de hablar con Zlatan.
+TEXT_LUCKSA152_03971_Q1_800_000	¿Qué haces?
+TEXT_LUCKSA152_03971_A1_800_000	Aceptar esta misión con otro job.
+TEXT_LUCKSA152_03971_A2_800_000	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_LUCKSA152_03971_SYSTEM_800_001	Habla de nuevo con Zlatan cuando quieras aceptar esta misión.
+TEXT_LUCKSA152_03971_SYSTEM_800_005	Ya recibiste <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>. Cambia a otro job y habla de nuevo con Zlatan.
+TEXT_LUCKSA152_03971_SYSTEM_800_006	Ya recibiste <ennoun(Item,2,lnum1,1,1)>. Cambia a otro job y habla de nuevo con Zlatan.
+TEXT_LUCKSA152_03971_SYSTEM_800_008	Para aceptar la misión "The Will to Resist", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en tu Armoury Chest o en tu inventario.
+TEXT_LUCKSA152_03971_SYSTEM_800_009	Para aceptar la misión "The Will to Resist", asegúrate de tener <ennoun(Item,2,lnum1,1,1)> equipado, en tu Armoury Chest o en tu inventario.
+TEXT_LUCKSA152_03971_ZLATAN_000_000	Viene a fortalecer más su arma, ya veo. Entonces necesitaremos más recuerdos.
+TEXT_LUCKSA152_03971_ZLATAN_000_001	Por supuesto, si queremos una mejora significativa, tendrán que venir de batallas mucho más feroces.
+TEXT_LUCKSA152_03971_ZLATAN_000_002	Pero ¿dónde encontrarlos? Sin duda el combate en el frente sur se ha vuelto más peligroso, pero ¿qué más queda? ¿Viajar en busca de alguna dungeon oscura y lúgubre, repleta de horrores indescriptibles?
+TEXT_LUCKSA152_03971_ZLATAN_000_003	Bueno... Supongo que ya ha llegado hasta aquí. Sin duda conoce sus límites mejor que yo. Si consigue seis cristales de estos terribles recuerdos amargos, creo que bastará.
+TEXT_LUCKSA152_03971_ZLATAN_000_010	Con ganas de refinar otra de sus armas, supongo. Entonces ya sabe qué hay que hacer.
+TEXT_LUCKSA152_03971_ZLATAN_000_011	Otros seis de sus más terribles recuerdos amargos, del frente sur o de algún otro lugar peligroso de sus aventuras.
+TEXT_LUCKSA152_03971_SYSTEM_000_020	Las bitter memories se obtienen combatiendo en el frente sur o en ciertas dungeons.
+TEXT_LUCKSA152_03971_SYSTEM_000_021	Las bitter memories se obtienen superando cualquier dungeon de nivel 60 o Duty Roulette: Leveling. Además, la opción Unrestricted Party no puede estar activada al superar dichas dungeons.
+TEXT_LUCKSA152_03971_SYSTEM_100_021	Solo se puede obtener una bitter memory al día mediante Duty Roulette: Leveling.
+TEXT_LUCKSA152_03971_ZLATAN_000_030	Solo puedo imaginar los horrores que enfrentará para conseguir los recuerdos que necesitamos, pero le deseo suerte. Cuídese allá afuera, Blade <split(<string(gstr1)>, ,2)>.
+TEXT_LUCKSA152_03971_SYSTEM_000_031	Las bitter memories se obtienen combatiendo en el frente sur o en ciertas dungeons.
+TEXT_LUCKSA152_03971_SYSTEM_000_032	Las bitter memories se obtienen superando cualquier dungeon de nivel 60 o Duty Roulette: Leveling. Además, la opción Unrestricted Party no puede estar activada al superar dichas dungeons.
+TEXT_LUCKSA152_03971_SYSTEM_100_032	Solo se puede obtener una bitter memory al día mediante Duty Roulette: Leveling.
+TEXT_LUCKSA152_03971_ZLATAN_000_050	¿Supongo que la búsqueda de recuerdos fue bien? Si está en condiciones de empezar, le pido que se quite el arma.
+TEXT_LUCKSA152_03971_ZLATAN_000_060	Por si le preocupa, he vigilado al maestro Gerolt y me aseguré de que se ocupara de los preparativos. ¿Confío en que tiene todo lo necesario?
+TEXT_LUCKSA152_03971_ZLATAN_000_065	¡Excelente! Y el arma, por favor.
+TEXT_LUCKSA152_03971_ZLATAN_000_066	Muy bien, ruego que el maestro Gerolt esté listo para trabajar.
+TEXT_LUCKSA152_03971_GEROLT_000_070	¡<split(<string(gstr1)>, ,1)>! ¡No pudiste llegar en mejor momento! ¡Acabo de \<hip> ponerme sobrio!
+TEXT_LUCKSA152_03971_ZLATAN_000_071	¿¡Escondiendo ale <italic(1)>otra vez<italic(0)>!? Pero ¿dónde pudo haberlo... \<suspiro> No importa. ¿Podemos ponernos a trabajar, por favor?
+TEXT_LUCKSA152_03971_GEROLT_000_080	¿Alguna vez viste algo tan hermoso? El espíritu de la batalla hecho carne: ¡<sheet(Item,lnum1,9)>!
+TEXT_LUCKSA152_03971_GEROLT_000_081	¿No es una preciosidad? El espíritu de la batalla hecho carne: ¡<sheet(Item,lnum1,9)>!
+TEXT_LUCKSA152_03971_GEROLT_000_082	Y claro, no podemos olvidar a su deslumbrante compañera, ¡<ennoun(Item,3,lnum1,1,1)>!
+TEXT_LUCKSA152_03971_GEROLT_000_090	Ahora, si me disculpan, por aquí anda un tarro de ale con mi nombre.
+TEXT_LUCKSA152_03971_REGANA_000_091	(-???-)Cara de bobo, calva reluciente y sed de licor. ¿Supongo que usted es Gerolt, el famoso herrero y derrochador de fortunas?
+TEXT_LUCKSA152_03971_GEROLT_000_092	¿Quién demonios eres tú? ¿Y qué tienen que ver mis problemas de dinero?
+TEXT_LUCKSA152_03971_GEROLT_000_093	No pareces de la Resistance.
+TEXT_LUCKSA152_03971_REGANA_000_094	Me llamo Regana y vengo en nombre de mi empleadora, Rowena. Creo que ella ya les habló de una forma de aliviar la carga financiera de la Resistance.
+TEXT_LUCKSA152_03971_REGANA_000_095	Vamos, no me diga que ya lo olvidó. ¿O acaso creyó que pensaba regalarle esa tela de memoria?
+TEXT_LUCKSA152_03971_REGANA_000_096	Rowena desea compilar registros de las diversas técnicas usadas para reproducir las hojas de Gunnhildr. Quiere que se cataloguen para nuestra investigación desde los materiales necesarios hasta las inscripciones que les dan su poder.
+TEXT_LUCKSA152_03971_REGANA_000_097	Con esos documentos en la mano, fabricaríamos réplicas de todas las armas que hayan hecho hasta ahora, además de las que forjen de aquí en adelante.
+TEXT_LUCKSA152_03971_ZLATAN_000_098	Las armas Resistance son increíblemente valiosas y clave para la victoria de la Resistance en la guerra contra el Imperio. Bajsaljen jamás lo permitiría.
+TEXT_LUCKSA152_03971_REGANA_000_099	Entonces cobraré los gil que se le deben a Rowena por su tela, si eso prefieren.
+TEXT_LUCKSA152_03971_REGANA_000_100	Si le tranquiliza, las réplicas solo pretenden parecerse a las originales en apariencia. No necesitamos recrear las complejidades de las inscripciones ni sus propiedades aetéricas.
+TEXT_LUCKSA152_03971_GEROLT_000_101	No creo que a la Resistance le haga mucha gracia que-
+TEXT_LUCKSA152_03971_ZLATAN_000_102	Aceptaremos su oferta. Quizá sea la única manera de mantener armados contra el Imperio a Gunnhildr's Blades y a <if(gnum4,nuestra amiga,nuestro amigo)> aquí presente.
+TEXT_LUCKSA152_03971_REGANA_000_103	Sabia decisión. Aunque tampoco es que usted pudiera negarse, Gerolt. Claro, eso lo sabría si hubiera leído su contrato.
+TEXT_LUCKSA152_03971_ZLATAN_000_104	Y para que quede claro, estas réplicas son estrictamente con fines de investigación, ¿sí? ¿No las subastarán entre los señores y las damas del reino para sacar ganancias?
+TEXT_LUCKSA152_03971_REGANA_000_105	Tiene nuestra palabra de que no haremos mal uso de lo aprendido en esta empresa, y me quedaré aquí en Gangos por si necesita consultarme sobre mi trabajo.
+TEXT_LUCKSA152_03971_REGANA_000_106	Ah, una última cosa. Si <split(<string(gstr1)>, ,1)> necesitara estas réplicas por cualquier motivo, tengo instrucciones de complacer sus deseos. Ahora, si me disculpan.
+TEXT_LUCKSA152_03971_ZLATAN_000_107	Yo... no creo que haya respondido a mi pregunta.
+TEXT_LUCKSA152_03971_GEROLT_000_108	Bueno, sea lo que sea que esté tramando, al menos no veremos lo peor hasta que acabemos. Si no, me parece que mi trabajo quedaría empañado con <italic(1)>mis propios<italic(0)> recuerdos de batalla contra arpías tacañas.
+TEXT_LUCKSA152_03971_SYSTEM_000_109	Ahora se pueden comprar réplicas de armas Resistance a Regana.
+TEXT_LUCKSA152_03971_GEROLT_000_120	Creo que ya acabamos. Ahora, ¿dónde dejé ese tarro de ale?
+TEXT_LUCKSA152_03971_GEROLT_000_121	Ahora que lo pienso... Esconder mis tragos va a ser difícil, con Zlatan <italic(1)>y<italic(0)> Regana respirándome en la nuca.
+TEXT_LUCKSA152_03971_ZLATAN_000_122	De verdad, ¿le costaría tanto esperar a cumplir sus obligaciones con Rowena para beber? Si lo vuelvo a encontrar bebiendo cerca de la forja, será la última vez.
+TEXT_LUCKSA152_03971_ZLATAN_000_123	Hasta la próxima, <split(<string(gstr1)>, ,1)>. Tenga por seguro que lo vigilaremos el tiempo que haga falta para que el trabajo avance como debe.

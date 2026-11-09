@@ -19,6 +19,7 @@
   <a href="#historia">Historia</a> ·
   <a href="#misiones-de-clase-y-job">Misiones de clase y job</a> ·
   <a href="#otras-misiones">Otras misiones</a> ·
+  <a href="#armas-relic">Armas relic</a> ·
   <a href="#eventos-de-temporada">Eventos</a> ·
   <a href="#viaje-y-transporte">Transporte</a> ·
   <a href="#mensajes-del-chat">Chat</a> ·
@@ -31,7 +32,7 @@
 
 ## Qué hace
 
-- **Tooltips de combate:** habilidades, rasgos y estados (buffs y debuffs).
+- **Tooltips de combate:** habilidades, rasgos y estados (buffs y debuffs), también los de mazmorras, raids y otros contenidos.
 - **Historia principal:** diálogos, cinemáticas sin voz, Journal y Duty List.
 - **Nombres en inglés:** habilidades, estados, medidores, jobs, personajes, lugares y misiones quedan tal como aparecen en el juego y en las guías. Solo se traduce el texto que los rodea.
 
@@ -208,6 +209,18 @@ Misiones fuera de la historia que desbloquean funciones del juego.
 | Beauty Is Only Scalp Deep | Cambio de peinado (estilista) | ![Traducido][ok] |
 | If I Had a Glamour | Glamours | ![Traducido][ok] |
 | Color Your World | Tintes | ![Traducido][ok] |
+
+## Armas relic
+
+| Cadena | Contenido | Estado |
+|---|---|---|
+| Zodiac Weapons (A Realm Reborn) | Las misiones; faltan los diálogos de canje | ![Traducido][ok] |
+| Anima Weapons (Heavensward) | 3 de 14 misiones | ![En progreso][wip] |
+| Eureka (Stormblood) | | ![Pendiente][no] |
+| Resistance Weapons (Shadowbringers, Bozja) | Todas las misiones | ![Traducido][ok] |
+| Manderville Weapons (Endwalker) | Todas las misiones | ![Traducido][ok] |
+| Phantom Weapons (Dawntrail) | Todas las misiones y los diálogos de canje | ![Traducido][ok] |
+| Herramientas de crafter (Splendorous Tools) | | ![Pendiente][no] |
 
 ## Eventos de temporada
 
