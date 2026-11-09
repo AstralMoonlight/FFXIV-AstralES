@@ -1,0 +1,76 @@
+key	text
+TEXT_JOBXBM101_05491_SEQ_00	J'yhuh Tia espera a que su <if(gnum4,nueva pupila,nuevo pupilo)> se prepare.
+TEXT_JOBXBM101_05491_SEQ_01	Después de equiparte y sellar tu primer pacto como beastmaster, estás <if(gnum4,lista,listo)> para empezar el entrenamiento. Mientras J'yhuh Tia piensa en un lugar adecuado, Loosefrox menciona un terreno que cuidan los Wood Wailers. J'yhuh Tia deduce que se refiere al Bannock, así que los tres van a pedirles permiso a los centinelas del bosque.
+TEXT_JOBXBM101_05491_SEQ_02	El Wood Wailer con el que hablas desconfía al principio, pero al reconocerte como <if(gnum4,salvadora,salvador)> del reino, retira sus dudas de inmediato y con vergüenza. Les dan libre acceso al Bannock, un giro que a J'yhuh Tia le resulta tan desconcertante como grato.
+TEXT_JOBXBM101_05491_SEQ_03	Tus lecciones de beastmaster empiezan con J'yhuh Tia enseñándote a llamar a un familiar con un cuerno de batalla. Espera ver a tu Cu Sith invocado antes de que vuelvas a hablar con él.
+TEXT_JOBXBM101_05491_SEQ_04	Tu Cu Sith parece de buen ánimo, así que, después de explicarte cómo sellar pactos con bestias salvajes, J'yhuh Tia te da tu primer encargo en dúo. Debes volver al Bannock después de capturar el favor de al menos dos familiares más, para sumar tres entradas en tu bestiario casi vacío.
+TEXT_JOBXBM101_05491_SEQ_05	Tu maestro te recibe con una sonrisa y te felicita por el buen trabajo. Gran parte de tu progreso como beastmaster será fruto de la paciencia y el esfuerzo, y J'yhuh Tia te recuerda que tengas presentes esos principios mientras sigues puliendo tus habilidades.<br><br>※La siguiente misión de beastmaster estará disponible con J'yhuh Tia al llegar al nivel 8.
+TEXT_JOBXBM101_05491_TODO_00	Habla con el Wailer desconfiado.
+TEXT_JOBXBM101_05491_TODO_01	Habla con J'yhuh Tia.
+TEXT_JOBXBM101_05491_TODO_02	Invoca a tu Cu Sith y habla con J'yhuh Tia.
+TEXT_JOBXBM101_05491_TODO_03	Hazte amig<if(gnum4,a,o)> de tres bestias distintas y habla con J'yhuh Tia.
+TEXT_JOBXBM101_05491_LOOSEFROX_000_001	Shkohhh... Supongo que tengo que darte la bienvenida. Como soy tu <italic(1)>superior<italic(0)> y todo eso.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_005	Vaya, qué buena figura. Pero tienes que cumplir tu promesa para ganarte mi tutela.
+TEXT_JOBXBM101_05491_SYSTEM_000_006	Usa el Cu Sith gourd para sellar el pacto con tu primer familiar.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_010	Je. Ya tienes la confianza Kornago en tu postura. Bienvenid<if(gnum4,a,o)> al grupo, joven beastmaster.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_011	Déjame explicarte tu equipo. La mayoría de los beastmasters, sin importar su tradición, usan hachas.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_012	No tanto por sed de sangre como por las zarzas. Cuando estás metido hasta la cintura en la maleza a media montaña, un hacha te abre el camino mejor que cualquier espada.
+TEXT_JOBXBM101_05491_LOOSEFROX_000_013	Pshhh... Ese escudo es para protegerte, por si no lo adivinapensaste. ¡Ir cuerno a cuerno contra los bestiamigos es asunto peligroso!
+TEXT_JOBXBM101_05491_JYHUHTIA_000_014	La práctica dice más que las palabras, claro. Así que empecemos con algo práctico.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_015	Con lo aficionada que es la gente a meterse en lo salvaje, apostaría a que hay algún lugar para entrenar fuera de la ciudad...
+TEXT_JOBXBM101_05491_LOOSEFROX_000_016	Cuando fui a buscarlo, Sabiomaestro, vi unos terrenos seguros con esos soldados... ¿Cómo se llaman? ¿"Wailwooders"?
+TEXT_JOBXBM101_05491_JYHUHTIA_000_017	"Wood Wailers", creo. Y según mi mapa... eso debería ser el Bannock. Veamos si con un poco de lamento nos prestan algo de espacio.
+TEXT_JOBXBM101_05491_LOOSEFROX_000_020	Pshhh... Shkohhh... ¿"Wood Wailers"? ...¿Por qué la madera los hace lloragritar?
+TEXT_JOBXBM101_05491_JYHUHTIA_000_025	Parece un lugar ideal para entrenar. Si nos dan permiso...
+TEXT_JOBXBM101_05491_WOODWAILER05491_000_030	¿Beastmasters? ¿En nuestro terreno?
+TEXT_JOBXBM101_05491_WOODWAILER05491_000_031	...Por impresionante que sea su trabajo con los grifos, les sugiero a ustedes, ala mhiganos, que practiquen en otro lado. Tenemos las manos llenas con los reclutas nuevos y no podemos tener extraños estorbando.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_032	Nos malinterpreta, señor. No somos beastmasters de Ala Mhigo, sino de la tradición Kornago. Si tan solo nos prestara un rincón...
+TEXT_JOBXBM101_05491_WOODWAILER05491_000_033	...Un momento. ¡Te reconozco! ¡Eres <string(gstr1)>!
+TEXT_JOBXBM101_05491_WOODWAILER05491_000_034	¡P-Perdonen mi ignorancia! Los amigos de <if(gnum4,la señora,el señor)> <split(<string(gstr1)>, ,2)> pueden usar el Bannock, por supuesto. ¡Es un honor!
+TEXT_JOBXBM101_05491_JYHUHTIA_000_035	...¿Eh?
+TEXT_JOBXBM101_05491_WOODWAILER05491_000_036	Le avisaré directamente a la Elder Seedseer que están aquí. Por favor... ¡pónganse cómodos!
+TEXT_JOBXBM101_05491_JYHUHTIA_000_037	Bueno, eso fue... revelador. No sabía que eras tan famos<if(gnum4,a,o)>.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_038	En fin, parece que tenemos el Bannock para nosotros. ¡Salud!
+TEXT_JOBXBM101_05491_LOOSEFROX_000_040	Shkohhh... Este lugar está bastante bien. Al menos aquí no nos van a frenaespantar.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_050	Empecemos, ¿te parece?
+TEXT_JOBXBM101_05491_JYHUHTIA_000_051	Comenzamos por lo más básico de lo básico: llamar a un familiar a tu lado.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_052	Cualquier familiar se puede invocar con un cuerno de batalla. La magia de cada pacto es única y resuena cuando llamas.
+TEXT_JOBXBM101_05491_LOOSEFROX_000_053	Primero tienes que afinar tu cuerno, o tu señal se va a enredatrabar. Consultar tu bestiario debería ayudar. Shkohhh... Tómalo como un consejo de una maestra <italic(1)>de verdad<italic(0)>.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_054	Se aprende mejor haciendo. Prepara tu cuerno de batalla y llama a tu Cu Sith.
+TEXT_JOBXBM101_05491_SYSTEM_000_055	Abre el Master's Bestiary desde el menú principal y asigna el Cu Sith a tu cuerno de batalla con el subcomando.
+TEXT_JOBXBM101_05491_SYSTEM_000_056	Las bestias se invocan usando la habilidad <colortype(500)><edgecolortype(501)>Battlehorn<edgecolortype(0)><colortype(0)> a la que están asignadas.
+TEXT_JOBXBM101_05491_LOOSEFROX_000_060	Cuantos más bestiamigos hagas, más gusto da hojapasar el bestiario. Shkohhh... Aunque <italic(1)>tú<italic(0)> nunca lo vas a saber.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_070	Usa tu cuerno de batalla para llamar a tu Cu Sith. El pacto con cada familiar es distinto, así que consulta tu bestiario si tienes dudas.
+TEXT_JOBXBM101_05491_SYSTEM_000_071	Abre el Master's Bestiary desde el menú principal y asigna el Cu Sith a tu cuerno de batalla con el subcomando.
+TEXT_JOBXBM101_05491_SYSTEM_000_072	Las bestias se invocan usando la habilidad <colortype(500)><edgecolortype(501)>Battlehorn<edgecolortype(0)><colortype(0)> a la que están asignadas.
+TEXT_JOBXBM101_05491_CUSITH_000_073	¡Grrrrrlll!
+TEXT_JOBXBM101_05491_JYHUHTIA_000_074	Bien, bien. Tu Cu Sith parece estar de buen ánimo.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_075	El primer familiar de un beastmaster es un aliado como ningún otro. Cuida ese lazo.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_076	Cada bestia tiene sus propias habilidades, fortalezas y debilidades. Te conviene conocer cada inclinación de tu compañero.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_077	No solo por tu propia supervivencia, sino por los familiares que te confían su vida.
+TEXT_JOBXBM101_05491_LOOSEFROX_000_078	Para eso llevamos bestiarios. En la cajacabeza solo cabe tanto, pero lo que notanotes sobre tus bestiamigos siempre te va a servir de recuerdamente.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_079	Con eso en mente, es hora de tu primer encargo. Quiero que tú y tu Cu Sith recorran estos bosques y vuelvan con dos amigos nuevos. Eso son tres entradas en tu bestiario.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_080	Tómate tu tiempo para acostumbrarte a esa hacha, y recuerda que algunas criaturas nunca van a aceptar un pacto, por más fuerte que te creas.
+TEXT_JOBXBM101_05491_LOOSEFROX_000_082	¡Sabiomaestro, <if(gnum4,a esta,a este)> le falta tripapiensa hasta para no meterse en la boca de un morbol! Su soul crystal le va a medir mejor sus posibilidades, seguro.
+TEXT_JOBXBM101_05491_JYHUHTIA_100_082	Cuando encuentres una bestia de la que te sientas <if(gnum4,lista,listo)> para hacerte amig<if(gnum4,a,o)>, deja claras tus intenciones. Demuestra que mereces el pacto que ofreces y captura el corazón de tu futuro familiar.
+TEXT_JOBXBM101_05491_LOOSEFROX_000_083	Pshhh... Si retas a un bestiamigo demasiado fuerte, tengo una palabra para ti: gentepuré.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_084	...En otras palabras, conoce tus límites. Pero aprender a manejar toda clase de bestias es la base de nuestro oficio, así que sal con curiosidad, cautela y valor.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_085	¡Ahora, en marcha!
+TEXT_JOBXBM101_05491_CUSITH_000_086	¡Grauh!
+TEXT_JOBXBM101_05491_SYSTEM_000_087	Usa <colortype(500)><edgecolortype(501)>Gauge<edgecolortype(0)><colortype(0)> para confirmar tus posibilidades de sellar un pacto con un objetivo.
+TEXT_JOBXBM101_05491_SYSTEM_000_088	Para sellar un pacto, debes usar <colortype(500)><edgecolortype(501)>Capture<edgecolortype(0)><colortype(0)> sobre la bestia antes de derrotarla. Usar <colortype(500)><edgecolortype(501)>Capture<edgecolortype(0)><colortype(0)> sobre un objetivo debilitado puede aumentar la probabilidad de éxito.
+TEXT_JOBXBM101_05491_SYSTEM_100_088	Al hacerte amig<if(gnum4,a,o)> de una bestia, esta se agrega a tu bestiario. Ten en cuenta que algunos intentos pueden fallar y que no puedes hacerte amig<if(gnum4,a,o)> de bestias de mayor nivel que el tuyo.
+TEXT_JOBXBM101_05491_SYSTEM_000_089	El Master's Bestiary indica el hábitat natural de todas las bestias que se pueden capturar. Para principiantes se recomiendan las ardillas del Central Shroud y las ovejas de Middle La Noscea.
+TEXT_JOBXBM101_05491_SYSTEM_100_089	Puede que descubras que algunas bestias tienen en la naturaleza nombres y aspectos distintos a los de su categoría en el bestiario.
+TEXT_JOBXBM101_05491_SYSTEM_110_089	Por ejemplo, la entrada de sabotender puede incluir a las bestias de ese nombre y también a los cactuars.
+TEXT_JOBXBM101_05491_SYSTEM_120_089	Además, subespecies como el flowering sabotender pueden lucir colores o aspectos particularmente raros.
+TEXT_JOBXBM101_05491_SYSTEM_130_089	Si descubres un ejemplar interesante, usa <colortype(500)><edgecolortype(501)>Gauge<edgecolortype(0)><colortype(0)> para ver qué posibilidades tienes de hacerte amig<if(gnum4,a,o)> de él.
+TEXT_JOBXBM101_05491_SYSTEM_140_089	Las entradas del bestiario se registran según la especie básica, sin importar el nombre o el color del ejemplar en el campo. Al cumplir ciertos requisitos, podrás aplicar glamour a tus familiares para que tomen el aspecto de una subespecie.
+TEXT_JOBXBM101_05491_LOOSEFROX_000_090	Pshhh... Shkohhh... ¿Miraste tu bestiario últimamente? ¡Revísalo antes de preguntarme!
+TEXT_JOBXBM101_05491_JYHUHTIA_000_100	No hay prisa. Tómate tu tiempo para dominar el hacha y vuelve cuando te hayas ganado la lealtad de tres tipos de bestias distintos, contando a tu Cu Sith.
+TEXT_JOBXBM101_05491_SYSTEM_100_100	El Master's Bestiary indica el hábitat natural de todas las bestias que se pueden capturar. Para principiantes se recomiendan las ardillas del Central Shroud y las ovejas de Middle La Noscea.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_101	¡Ese es el espíritu, <split(<string(gstr1)>, ,1)>! Bien hecho.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_102	Diste oficialmente tus primeros pasos por el camino Kornago. Espero que no haya sido muy duro.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_103	En cuanto a cómo decidas recorrerlo... eso de verdad tengo ganas de verlo.
+TEXT_JOBXBM101_05491_JYHUHTIA_000_104	Mantén los ojos atentos y la frente en alto. Todavía vamos a hacer de ti <if(gnum4,una,un)> beastmaster de verdad.
+TEXT_JOBXBM101_05491_SYSTEM_000_105	Al subir de nivel como beastmaster, tus familiares podrán usar habilidades más fuertes en combate. ¡Pule tus habilidades para mejorar el trabajo en equipo!

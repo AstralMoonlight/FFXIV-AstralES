@@ -108,6 +108,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | **Endwalker** | 6.0 | Historia principal, de "The Next Ship to Sail" a "Endwalker" | ![Traducido][ok] |
 | | | Raid de 8: Pandæmonium (Asphodelos, Abyssos, Anabaseios) | ![Traducido][ok] |
 | | | Raid de alianza (24): Myths of the Realm | ![Traducido][ok] |
+| | | Paralela: Omega: Beyond the Rift | ![Traducido][ok] |
 | **Post Endwalker** | 6.1–6.58 | Historia principal, de "Newfound Adventure" a "The Coming Dawn" | ![Traducido][ok] |
 | **Dawntrail** | 7.0 | Historia principal, de "A New World to Explore" a "Dawntrail" | ![Traducido][ok] |
 | | | Raid de 8: Arcadion (Light-heavyweight, Cruiserweight, Heavyweight) | ![Traducido][ok] |
@@ -198,7 +199,7 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 | | Red Mage | 50–100 | ![Traducido][ok] |
 | | Pictomancer | 80–100 | ![Traducido][ok] |
 | **Limitado** | Blue Mage | 1–70 | ![Traducido][ok] |
-| | Beastmaster | | ![Pendiente][no] |
+| | Beastmaster | 1–50 | ![Traducido][ok] |
 
 ## Otras misiones
 

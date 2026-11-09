@@ -1,0 +1,79 @@
+key	text
+TEXT_JOBXBM131_05494_SEQ_00	J'yhuh Tia te está evaluando.
+TEXT_JOBXBM131_05494_SEQ_01	Como el Crucible of the Unbroken puede ser una prueba de vida o muerte, hace falta prepararse bien. J'yhuh Tia no piensa dejarte intentarlo antes de que tengas como familiares firmes a por lo menos quince bestias.
+TEXT_JOBXBM131_05494_SEQ_02	Satisfecho con los aliados que te respaldan, J'yhuh Tia sugiere buscar el paradero de Lauda. Como Guttler sabe que hay tres beastmasters aptos en estos bosques, seguramente no se alejó mucho, así que se separan para preguntarles a los Wood Wailers del Bannock.
+TEXT_JOBXBM131_05494_SEQ_03	Reuniste varios relatos sobre distintos avistamientos. Vuelve con J'yhuh Tia para contarle lo que averiguaste.
+TEXT_JOBXBM131_05494_SEQ_04	Después de hablarlo, concluyen que lo más probable es que Lauda esté en Bentbranch Meadows. Solo hay una forma de saberlo, así que van hacia allá.
+TEXT_JOBXBM131_05494_SEQ_05	El pelo de Lauda vuelve a estar claro y su mirada, vacía. Te da la bienvenida, al principio aparentemente contenta de que quieras desafiar el Crucible según los deseos de su amo, y luego inquieta. Por un momento, la mujer que antes te suplicó desesperada habla con amargura e insiste en que tus intenciones están equivocadas. Las bestias no son criaturas para hacerse amigos, afirma, sino para dominarlas: peones bajo el control de un beastmaster. Pero los Kornago no siguen esos principios, como J'yhuh Tia y tú le dejan claro. Crees en la armonía entre lo salvaje y las personas, y estás aquí para demostrar la fuerza de los lazos que forjaste. Dos tableros te separan de Guttler, así que te preparas para soportar el crisol que te espera...<br><br>※La siguiente misión de beastmaster estará disponible con J'yhuh Tia al completar el First Board of the Unbroken.
+TEXT_JOBXBM131_05494_TODO_00	Hazte amig<if(gnum4,a,o)> de quince bestias distintas y habla con J'yhuh Tia.
+TEXT_JOBXBM131_05494_TODO_01	Reúne información en el Bannock.
+TEXT_JOBXBM131_05494_TODO_02	Habla con J'yhuh Tia.
+TEXT_JOBXBM131_05494_TODO_03	Habla con Lauda.
+TEXT_JOBXBM131_05494_LOOSEFROX_000_001	Pshhh... Shkohhh... Voy a leebuscar sobre el Crucible of the Unbroken. Por el bien del <italic(1)>Cu Sith<italic(0)>.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_010	Tu dedicación te está sirviendo, <split(<string(gstr1)>, ,1)>. Te estás convirtiendo en <if(gnum4,una,un)> buen beastmaster.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_011	Pero el Crucible of the Unbroken sigue siendo un misterio. Y a los enemigos desconocidos hay que acercarse con toda la cautela.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_012	Por eso quiero que prepares un ejército de aliados. O por lo menos un pequeño batallón.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_013	Cuando hayas reclutado quince bestias distintas, ven a hablar conmigo. Fíjate en los lugares que Loosefrox dejó anotados en tu bestiario: te van a servir.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_015	Como tu maestro, faltaría a mi deber si te dejara desafiar el Crucible así como estás. Vuelve cuando te hayas ganado el favor de por lo menos quince bestias distintas.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_020	Parece que alguien está <if(gnum4,lista,listo)> para desafiar el Crucible.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_021	Pero primero tenemos que encontrar a Lauda.
+TEXT_JOBXBM131_05494_LOOSEFROX_000_022	Shkohhh... Ojaladeseo que no se haya ido del Black Shroud...
+TEXT_JOBXBM131_05494_JYHUHTIA_000_023	Guttler sabe que estamos aquí. Con su furia ciega, no creo que deje pasar tres posibles objetivos. Si Lauda se mueve a su antojo, quizá se quede cerca para volver a atraernos.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_024	Puede que los Wood Wailers sepan algo de su paradero. Preguntemos por ahí y volvamos a juntarnos con lo que averigüemos.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_025	Disculpen, tenemos una pregunta...
+TEXT_JOBXBM131_05494_LOOSEFROX_000_030	Una damita de morado, con cara de no tener bestiamigos. ¿Vieron a alguien así?
+TEXT_JOBXBM131_05494_ELMAR_000_040	¿Una beastmaster?
+TEXT_JOBXBM131_05494_ELMAR_000_041	No puedo prometer que sea la que buscan, pero sí me crucé con una desconocida que recorría estos bosques.
+TEXT_JOBXBM131_05494_ELMAR_000_042	Su pelo me llamó especialmente la atención: rara vez se ve un rojo tan intenso. La última vez que la vi iba hacia el Jadeite Flood.
+TEXT_JOBXBM131_05494_ELMAR_000_045	La mujer que vi tenía el pelo rojo e iba hacia el Jadeite Flood. ¿Será la que buscan?
+TEXT_JOBXBM131_05494_MARIUSTEL_000_050	¿Alguien fuera de lo común, dice?
+TEXT_JOBXBM131_05494_MARIUSTEL_000_051	La única desconocida que vi últimamente era una pobre rodeada de bestias.
+TEXT_JOBXBM131_05494_MARIUSTEL_000_052	Una Roegadyn robusta con un hacha, claramente sobrepasada. La rescaté del enjambre, por supuesto, y me dio las gracias una y otra vez antes de volver a Gridania.
+TEXT_JOBXBM131_05494_MARIUSTEL_000_055	Si tan solo esa Roegadyn hubiera usado mejor su hacha... Volvía a Gridania, por si es la que buscan.
+TEXT_JOBXBM131_05494_ALIXIE_000_060	Sí, vi a alguien así.
+TEXT_JOBXBM131_05494_ALIXIE_000_061	Estaba parada sin rumbo a la sombra de unos árboles... Parecía perdida, así que la acompañé a Bentbranch Meadows.
+TEXT_JOBXBM131_05494_ALIXIE_000_062	Iba vestida de lavanda y... Bueno, es difícil describir su actitud.
+TEXT_JOBXBM131_05494_ALIXIE_000_065	La señora que acompañé a Bentbranch Meadows iba de morado y parecía... Bueno, no diría <italic(1)>aturdida<italic(0)>, pero...
+TEXT_JOBXBM131_05494_SYSTEM_000_066	Quizá valga la pena preguntar un poco más...
+TEXT_JOBXBM131_05494_SYSTEM_000_067	Reuniste toda la información que pudiste. Vuelve con J'yhuh Tia y cuéntale lo que averiguaste.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_070	¿Oíste algo que nos lleve a Lauda?
+TEXT_JOBXBM131_05494_Q1_100_000	¿Qué dices?
+TEXT_JOBXBM131_05494_A1_100_001	Una pelirroja intensa iba hacia el Jadeite Flood.
+TEXT_JOBXBM131_05494_A1_100_002	Una Roegadyn con un hacha volvió hace poco a Gridania.
+TEXT_JOBXBM131_05494_A1_100_003	Llevaron a Bentbranch Meadows a una mujer vestida de lavanda.
+TEXT_JOBXBM131_05494_JYHUHTIA_100_071	¿Una pelirroja intensa? No suena a ella...
+TEXT_JOBXBM131_05494_JYHUHTIA_000_071	...¿Te golpeaste la cabeza, <split(<string(gstr1)>, ,1)>? Lauda es Hyur.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_072	Lauda sí vestía de morado... Esa puede ser la pista que esperábamos. A Bentbranch Meadows, entonces.
+TEXT_JOBXBM131_05494_LOOSEFROX_000_075	¡Pshhh...! ¡Es ella!
+TEXT_JOBXBM131_05494_JYHUHTIA_000_080	Bien. Parece que las preguntas dieron fruto.
+TEXT_JOBXBM131_05494_KORNAGOSHOP_000_085	Saludos, amig<if(gnum4,a,o)>. Soy colega de J'yhuh Tia y vine a ayudar en lo que pueda.
+TEXT_JOBXBM131_05494_LAUDA_000_090	Ustedes...
+TEXT_JOBXBM131_05494_LAUDA_000_091	Bienvenidos. ¿Vinieron a desafiar el Crucible of the Unbroken, como desea mi amo?
+TEXT_JOBXBM131_05494_JYHUHTIA_000_093	De vuelta a las frases hechas, ¿eh? Guttler debe estar despierto.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_094	Adelante, <split(<string(gstr1)>, ,1)>. Dale tu respuesta.
+TEXT_JOBXBM131_05494_Q1_110_000	¿Qué dices?
+TEXT_JOBXBM131_05494_A1_110_001	Vengo por mi Cu Sith.
+TEXT_JOBXBM131_05494_A1_110_002	Tu Crucible no nos va a quebrar ni a mí ni a mis familiares.
+TEXT_JOBXBM131_05494_LAUDA_000_095	¿Arriesga su vida... por simples monstruos?
+TEXT_JOBXBM131_05494_JYHUHTIA_000_096	¡Je! Bien dicho, <split(<string(gstr1)>, ,1)>. Como <if(gnum4,toda una,todo un)> beastmaster Kornago.
+TEXT_JOBXBM131_05494_LAUDA_000_097	...Ustedes son lunáticos o tontos.
+TEXT_JOBXBM131_05494_LAUDA_000_098	Un beastmaster somete a lo salvaje. La fuerza exige sumisión, y somos nosotros quienes dominamos.
+TEXT_JOBXBM131_05494_LAUDA_000_099	Intentar crear lazos con monstruos sin mente es temerario. Imposible.
+TEXT_JOBXBM131_05494_LAUDA_000_100	Son ganado, no camaradas.
+TEXT_JOBXBM131_05494_Q1_000_000	¿Qué dices?
+TEXT_JOBXBM131_05494_A1_000_001	Creo en los lazos que forjé.
+TEXT_JOBXBM131_05494_A1_000_002	Tienen corazón y alma, igual que tú y yo.
+TEXT_JOBXBM131_05494_LAUDA_000_102	Palabras bonitas y vacías...
+TEXT_JOBXBM131_05494_JYHUHTIA_000_103	Palabras que hablan por los Kornago. Valoramos la camaradería entre lo salvaje y las personas. ...Está claro que no se puede decir lo mismo de los Lhu.
+TEXT_JOBXBM131_05494_LAUDA_000_104	...Así es. Sus palabras no significan nada en mi tradición. Pero, en su magnanimidad, mi amo recibe a todos los beastmasters en el Crucible of the Unbroken.
+TEXT_JOBXBM131_05494_LOOSEFROX_000_105	Entonces déjenos golpepelearlo de una vez. ¿Dónde está ese Guttler?
+TEXT_JOBXBM131_05494_LAUDA_000_106	Por desgracia, no es posible ver a mi amo de inmediato. Primero deben recorrer dos tableros del Crucible.
+TEXT_JOBXBM131_05494_LAUDA_000_107	Su alma será llevada a un tablero que deberá recorrer. Monstruos feroces le cerrarán el paso, pero vencerlos l<if(gnum4,a,o)> hará más fuerte como beastmaster. Supere un tablero y podrá pasar al siguiente.
+TEXT_JOBXBM131_05494_LAUDA_000_108	Mi amo reside en el tercer tablero, el más profundo. Procure llegar hasta él, porque desea mucho poner a prueba sus habilidades en persona.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_109	¿"Desea mucho", pero no lo suficiente como para recibirnos en el primer tablero?
+TEXT_JOBXBM131_05494_LAUDA_000_110	...Se lo impiden los engaños de un beastmaster deshonesto. Disculpen las molestias.
+TEXT_JOBXBM131_05494_LAUDA_000_111	Cuando esté preparad<if(gnum4,a,o)>, l<if(gnum4,a,o)> llevaré al Crucible of the Unbroken.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_112	Pedí otro favor, y vino un colega a ayudar. Por lo que veo, trajo más que todo su inventario.
+TEXT_JOBXBM131_05494_JYHUHTIA_000_113	...Bien. Vuelve san<if(gnum4,a,o)> y salv<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. Creo en ti.
+TEXT_JOBXBM131_05494_SYSTEM_000_114	Se desbloqueó el First Board of the Unbroken. Para desafiarlo, habla con Lauda en Bentbranch Meadows.
+TEXT_JOBXBM131_05494_SYSTEM_000_115	Además, ahora puedes comerciar con el mercader Kornago.

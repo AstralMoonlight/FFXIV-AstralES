@@ -1,0 +1,61 @@
+key	text
+TEXT_JOBXBM152_05499_SEQ_00	La mirada de Lauda se suavizó.
+TEXT_JOBXBM152_05499_SEQ_01	La derrota de Guttler liberó a todas las almas atrapadas en el Crucible, bestias y beastmasters por igual. Tu Cu Sith aúlla en homenaje a Philkin, que volvió al mar aetherial. Lauda nota que algunas bestias todavía siguen ahí, algo que piensa investigar después de enfrentar por fin a Guttler.<br><br>Una sombra del behemoth se alza en un bosque no muy distinto del que alguna vez protegió. Lauda le habla con franqueza, admite la culpa de su gente y le ruega una oportunidad de reconciliarse. Los dos son cómplices del asesinato de un inocente y de la destrucción sin sentido de un lazo entre dos almas que se querían profundamente. Mientras le pide a Guttler su compañía para intentar expiar su culpa, jura detener cualquier otro acto de venganza. Al principio Guttler desprecia su audacia, pero ni siquiera él puede negar lo unidas que están las bestias y las personas. Ahora ve cómo, al buscar venganza, hirió sin querer a una cría de los suyos, y tras poner a prueba las intenciones de Lauda, acepta una alianza con ella. Dos almas de igual valor, libres de elegir el camino que recorren: un camino hacia la redención y el perdón.
+TEXT_JOBXBM152_05499_SEQ_02	J'yhuh Tia está asombrado por el pacto que sellaron Lauda y Guttler. Aunque seguramente les espera una relación difícil, los dos parecían decididos a volver al Crucible, así que vas a Bentbranch Meadows a ver cómo están.
+TEXT_JOBXBM152_05499_SEQ_03	Lauda te agradece todo lo que hiciste y se disculpa por los problemas que te causó. J'yhuh Tia ve el lado bueno de tus pruebas en tu crecimiento como beastmaster, pero Lauda insiste en recordar el error de los Lhu para que nunca se repita. Por eso anuncia que el Crucible será un refugio para todas las almas que decidieron quedarse, y un campo de práctica para quienes quieran seguir puliendo sus habilidades de combate. Ahora todos pueden entrenar juntos y en libertad, bestias y beastmasters. Quien muestra más ganas de desafiar el Crucible es nada menos que Sylmond, que dejó su vocación de aventurero para ser el nuevo pupilo de J'yhuh Tia, para disgusto de Loosefrox. J'yhuh Tia aplasta de inmediato las esperanzas de Sylmond de desafiar el Crucible pronto, y le indica que aprenda observándote. El Elezen se propone con entusiasmo apoyar tus esfuerzos, sobre todo averiguando todo lo que haya que saber del Crucible. Lo que antes era una fuente de conflicto entra ahora en una era de competencia alegre, y sus habitantes seguro te van a exigir más allá de lo que creías posible.<br><br>※Al hacerte amig<if(gnum4,a,o)> de veinticinco bestias y hablar con Sylmond en Bentbranch Meadows, podrás desbloquear el siguiente tablero del Crucible.
+TEXT_JOBXBM152_05499_TODO_00	Habla con J'yhuh Tia.
+TEXT_JOBXBM152_05499_TODO_01	Habla con Lauda.
+TEXT_JOBXBM152_05499_JYHUHTIA_000_000	Ve y hazle tomar una siesta corta a Guttler, ¿eh? Te esperamos de vuelta san<if(gnum4,a,o)> y salv<if(gnum4,a,o)>.
+TEXT_JOBXBM152_05499_JYHUHTIA_000_001	¡<if(gnum4,La campeona,El campeón)> del Crucible! Bien hecho, <split(<string(gstr1)>, ,1)>. Bien hecho.
+TEXT_JOBXBM152_05499_LAUDA_000_005	Presencié todo su combate contra Guttler. Fue fiel a su palabra y a su credo.
+TEXT_JOBXBM152_05499_LAUDA_000_006	...Yo también seré fiel a los míos.
+TEXT_JOBXBM152_05499_LAUDA_000_010	Mis palabras apenas expresan lo profundo de mi gratitud.
+TEXT_JOBXBM152_05499_LAUDA_000_011	Al derrotar a Guttler, quedaron libres las almas de todos los beastmasters atrapados por su venganza.
+TEXT_JOBXBM152_05499_LAUDA_000_012	...Incluida la de Philkin. Que por fin encuentren paz.
+TEXT_JOBXBM152_05499_CUSITH_000_013	¡Gaaauuuuuuggghhhhhh!
+TEXT_JOBXBM152_05499_JYHUHTIA_000_014	...¿Y las bestias? Sin mencionar el alma del propio Guttler.
+TEXT_JOBXBM152_05499_LAUDA_000_015	El Crucible ya no encarcela a nadie. Muchas almas volaron al mar aetherial, pero algunas siguen aquí. No sé si por duda o por costumbre.
+TEXT_JOBXBM152_05499_LAUDA_000_016	Las enfrentaré una por una y averiguaré qué desean. Si buscan refugio en el Crucible, espero dárselo. Compañerismo... como el que ustedes me mostraron.
+TEXT_JOBXBM152_05499_LAUDA_000_017	Pero primero hay un alma con la que necesito hablar desde hace mucho.
+TEXT_JOBXBM152_05499_LAUDA_000_018	...Guardián del bosque. Presencié tu combate y vi tu dolor al desnudo.
+TEXT_JOBXBM152_05499_LAUDA_000_019	Es un dolor que abandoné hace tiempo. Huí de tu sufrimiento y me hundí en la desesperanza.
+TEXT_JOBXBM152_05499_LAUDA_000_020	Si mi gente se te hubiera acercado con respeto, ofreciéndote un lazo sincero en lugar de cadenas despectivas, ¿cuántas vidas se habrían salvado?
+TEXT_JOBXBM152_05499_LAUDA_000_021	...¿No hay forma de seguir adelante?
+TEXT_JOBXBM152_05499_LAUDA_100_021	Juntos asesinamos a un inocente. Un hombre cuya muerte casi condena a la joven bestia que tenía a su cargo. ¿No merece este crimen arrepentimiento?
+TEXT_JOBXBM152_05499_LAUDA_110_021	Quiero estar a tu lado y expiar. Le pido compañía a quien comparte mi pecado. Pero si la venganza todavía te domina el corazón, que sepas esto: aunque me cueste la vida, acabaré contigo.
+TEXT_JOBXBM152_05499_GUTTLER_000_022	...Miserable hija de los hombres. Pronunciáis palabras tan grandes como insignificante sois.
+TEXT_JOBXBM152_05499_GUTTLER_000_023	Y sin embargo... En esa pequeña vida que tuve delante vi cariño por los vuestros. Una compañía indiscutible. Inseparable.
+TEXT_JOBXBM152_05499_GUTTLER_000_024	Me llamáis asesino, y lo soy. La furia me arrancó los ojos, y en mi ceguera le robé a una cría de bestia su amado guardián...
+TEXT_JOBXBM152_05499_GUTTLER_100_024	En verdad, la vida robada jamás puede devolverse. La nuestra es una enemistad sin fin. ¿Y aun así le ofrecéis alianza a quien derramó la sangre de vuestro pueblo?
+TEXT_JOBXBM152_05499_LAUDA_000_025	Quiero recorrer el verdadero camino del beastmaster, para que nadie que venga detrás se equivoque como mi gente. Quiero cargar con el peso de nuestras faltas y crear armonía entre las bestias y las personas.
+TEXT_JOBXBM152_05499_GUTTLER_000_026	...Entonces dejemos atrás esta servidumbre, oh, hermana de sangre derramada.
+TEXT_JOBXBM152_05499_LAUDA_000_027	...Gracias, amo.
+TEXT_JOBXBM152_05499_JYHUHTIA_000_028	¡Iguales, Lauda! ¡Los dos!
+TEXT_JOBXBM152_05499_LAUDA_000_029	...Guttler. Soy Lauda, una beastmaster que busca redención. ¿Me harías el honor de ser mi compañero?
+TEXT_JOBXBM152_05499_GUTTLER_000_030	...Hacia la redención viajaré con vos, Lauda.
+TEXT_JOBXBM152_05499_JYHUHTIA_000_040	...Bueno, ese fue un pacto como ninguno que haya visto.
+TEXT_JOBXBM152_05499_JYHUHTIA_000_041	El suyo es un lazo complicado, por decir lo menos, pero los dos parecían con ganas de empezar a trabajar dentro del Crucible.
+TEXT_JOBXBM152_05499_JYHUHTIA_000_042	Seguramente por las bestias que siguen ahí. Vamos a ver cómo les va, ¿te parece?
+TEXT_JOBXBM152_05499_JYHUHTIA_000_045	Lauda y Guttler, hermanos de sangre derramada... Seguro van a encontrar su camino.
+TEXT_JOBXBM152_05499_LAUDA_000_050	Permítame darle otra vez mi más profundo agradecimiento...
+TEXT_JOBXBM152_05499_LAUDA_000_051	...y mis más sinceras disculpas por las penurias que le hice pasar. Nadie debió pagar por la avaricia de mi gente.
+TEXT_JOBXBM152_05499_JYHUHTIA_000_052	Si no nos hubiera hecho pasar <italic(1)>algunas<italic(0)> penurias, <split(<string(gstr1)>, ,1)> no sería ni la mitad de beastmaster que es ahora, ni las almas atrapadas serían libres. Bien está lo que bien acaba, ¿no?
+TEXT_JOBXBM152_05499_LAUDA_000_053	Quizá... Pero nunca debemos olvidar cómo se desviaron los Lhu. Pienso mantener vivo su recuerdo, para bien o para mal, a través del Crucible.
+TEXT_JOBXBM152_05499_LAUDA_000_054	Así como antes servía para entrenar beastmasters, ahora cuidará las almas de las bestias.
+TEXT_JOBXBM152_05499_LAUDA_000_055	Cuando Guttler y yo enfrentamos a las que quedaban en el Crucible, no pocas expresaron el deseo de seguir puliendo sus habilidades en combate. Así que les daremos la oportunidad.
+TEXT_JOBXBM152_05499_LAUDA_000_056	El Crucible of the Unbroken vuelve a estar abierto, y todos los que están adentro viven como quieren. La libertad es una fuerza en sí misma: me atrevo a decir que hasta <if(gnum4,una,un)> beastmaster de su nivel se verá a prueba por la nueva fuerza de sus habitantes.
+TEXT_JOBXBM152_05499_LAUDA_000_057	"Que nadie sea medido en segundo lugar, pues estamos a la par del hombre". ...Así dice Guttler.
+TEXT_JOBXBM152_05499_JYHUHTIA_000_058	¡Jajaja! Bestias y beastmasters entrenando hombro con hombro: no imagino un Crucible más feliz.
+TEXT_JOBXBM152_05499_SYLMOND_000_059	(-???-)Sabiomaestro J'yhuh Tia, ¿puedo intentar <italic(1)>yo<italic(0)> el Crucible?
+TEXT_JOBXBM152_05499_LOOSEFROX_000_060	...¡¿Tu lengua acaba de decir <italic(1)>Sabiomaestro<italic(0)>?!
+TEXT_JOBXBM152_05499_JYHUHTIA_000_061	Ah, cierto. El tipo me rogó que le enseñara, así que lo acepté.
+TEXT_JOBXBM152_05499_LOOSEFROX_000_062	¡¿Otra vez?! ¡<italic(1)>Sabiomaestro<italic(0)>!
+TEXT_JOBXBM152_05499_SYLMOND_000_063	Verte con tu Cu Sith me cambió la vida, <split(<string(gstr1)>, ,1)>. ¡Dejé de ser aventurero y desde ahora voy a seguir el camino del beastmaster!
+TEXT_JOBXBM152_05499_SYLMOND_000_064	¡Enséñeme sus artes, señora Loosefrox! Sabiomaestro dice que su conocimiento de las bestias no tiene igual.
+TEXT_JOBXBM152_05499_LOOSEFROX_000_065	...<italic(1)>Supongo<italic(0)>. ¡Pero solo cuando tenga ganas!
+TEXT_JOBXBM152_05499_JYHUHTIA_000_066	En cuanto a tu pregunta, de ninguna manera. Estás demasiado verde para desafiar el Crucible. Por ahora, quiero que mires y aprendas de <split(<string(gstr1)>, ,1)>. Ese es el tipo de beastmaster que debes aspirar a ser.
+TEXT_JOBXBM152_05499_SYLMOND_000_067	¡Entonces apoyaré fielmente tus esfuerzos, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,1)>! Ante todo, sacándole con sutileza cada secreto del Crucible a la señora Lauda.
+TEXT_JOBXBM152_05499_LAUDA_000_068	...Muy sutil, sí.
+TEXT_JOBXBM152_05499_LAUDA_000_069	Espero que siga visitándonos, <split(<string(gstr1)>, ,1)>. Quizá algún día hasta nos encontremos en un tablero.
+TEXT_JOBXBM152_05499_LAUDA_000_070	Cuando llegue ese día, ojalá encuentre a un rival digno del nombre de beastmaster.
+TEXT_JOBXBM152_05499_SYSTEM_000_080	Al hacerte amig<if(gnum4,a,o)> de veinticinco bestias y hablar con Sylmond en Bentbranch Meadows, podrás desafiar el First Master's Board.
