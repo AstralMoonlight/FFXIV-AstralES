@@ -1,0 +1,17 @@
+key	text
+TEXT_COMGRD001_01105_SEQ_00	Vorsaile Heuloix quiere que empieces tu entrenamiento en serio.
+TEXT_COMGRD001_01105_SEQ_01	El Alto Comandante Serpent Vorsaile Heuloix tiene grandes esperanzas en tu futuro en la Order of the Twin Adder, y quiere mandarte a entrenar para que desarrolles tu potencial. Toma el ferry de Moraby Drydocks, en Lower La Noscea, para llegar a the Wolves' Den. Una vez allí, busca al Capitán Storm Berkoeya Loetahlsyn.
+TEXT_COMGRD001_01105_SEQ_02	Tras destruir con una brutal reprimenda hasta el último resto de tu confianza y amor propio, el Capitán Storm Berkoeya Loetahlsyn te da permiso a regañadientes para empezar tu entrenamiento en the Wolves' Den.
+TEXT_COMGRD001_01105_TODO_00	Habla con Berkoeya Loetahlsyn en the Wolves' Den.
+TEXT_COMGRD001_01105_VORSAILE_000_000	Escuche bien, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. La Order of the Twin Adder no acepta a buscadores de gloria así como así.
+TEXT_COMGRD001_01105_VORSAILE_000_001	Si está aquí hoy es porque creemos en su potencial. Creemos que saldrá como Serpent a ayudar a restaurar el orden en un mundo enloquecido.
+TEXT_COMGRD001_01105_VORSAILE_000_002	...Y sin embargo, el potencial por sí solo no lleva lejos. De hecho, el camino a la gloria está sembrado de cadáveres de aspirantes a <if(gnum4,heroínas,héroes)> a quienes les faltó determinación y diligencia para pulir su talento innato.
+TEXT_COMGRD001_01105_VORSAILE_000_003	Pero usted no sufrirá ese destino, estoy seguro. Con grandes esperanzas en su futuro, deseo enviarle a comenzar la siguiente fase de su entrenamiento.
+TEXT_COMGRD001_01105_VORSAILE_000_004	El lugar será the Wolves' Den, un campo de pruebas establecido por la Eorzean Alliance para preparar a los reclutas de las Grand Companies para las batallas que se avecinan.
+TEXT_COMGRD001_01105_VORSAILE_000_005	The Wolves' Den está justo frente a la costa de La Noscea. El ferry de Moraby Drydocks, en Lower La Noscea, le llevará hasta allí.
+TEXT_COMGRD001_01105_VORSAILE_000_006	Cuando llegue, busque al Capitán Storm Berkoeya Loetahlsyn. Ya me tomé la libertad de presentar una carta de recomendación en su nombre.
+TEXT_COMGRD001_01105_BERKOEYA_000_010	No recuerdo haber visto esa cara fea por aquí. ¿Hm? ¿Dices que te mandó <italic(1)>Heuloix<italic(0)>?
+TEXT_COMGRD001_01105_BERKOEYA_000_011	Dijo que mandaba un lobo nuevo a la guarida - ¡bah! Más bien el enclenque de la camada, si me preguntas.
+TEXT_COMGRD001_01105_BERKOEYA_000_012	Apenas tienes colmillos para afilar, pero supongo que hoy estoy condenadamente generoso, así que te tiro un hueso: empieza con Crystalline Conflict. Esos combates de entrenamiento están hechos para inútiles aventureros que no distinguen una buena estrategia del trasero de un caballo.
+TEXT_COMGRD001_01105_BERKOEYA_000_013	Sigo creyendo que antes del <if([gnum11<12],<if([gnum11<4],amanecer,mediodía)>,<if([gnum11<17],atardecer,amanecer)>)> te vas a ir a casa con la cola entre las patas, llorando por tu mami, pero si insistes en intentarlo, habla con el Teniente Gungi Zelungi. Lo encontrarás afuera, si es que te animas.
+TEXT_COMGRD001_01105_BERKOEYA_000_014	¡Y párate derecho, gusano! Este no es lugar para gente sin columna. ¡Retírate!

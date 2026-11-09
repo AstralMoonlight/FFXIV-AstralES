@@ -1,0 +1,60 @@
+key	text
+TEXT_STMBDY701_03131_SEQ_00	A Hamakaze le pidieron que estuviera atento por si aparecías.
+TEXT_STMBDY701_03131_SEQ_01	A Hamakaze, chico de los mandados de la Confederacy, le encargaron encontrarte, aunque parece que no había avanzado nada hasta que apareciste sin avisar en Crick. Como es un simple grumete, su superior, Rasho, casi no le contó nada, salvo que te mandara con alguien llamado Kyusei. El nombre no te dice nada, pero no parece que haya peligro en averiguar más.
+TEXT_STMBDY701_03131_SEQ_02	Aunque Kyusei da la impresión de ser cortés y educado, no quiere hablar abiertamente. Te pide que te reúnas con él y con Rasho al pie de Heaven<-->on<-->High, seguramente para estar lejos de los oídos de los piratas menos discretos del lugar.
+TEXT_STMBDY701_03131_SEQ_03	Kyusei relata que dio con una cámara oculta llena de maquinaria extraña, con la que se teletransportó por accidente al interior de Heaven<-->on<-->High. Una vez dentro, descubrió que la torre estaba plagada de bestias infernales y tuvo suerte de escapar con vida. Rasho agrega que quiere investigar a las criaturas de la torre antes de que encuentren la forma de salir. Sin embargo, la gente del Ruby Sea considera sagrada la torre, y cualquier intento de entrar se vería como una afrenta. La Confederacy no puede permitirse más daños a su ya dudosa reputación, así que Rasho te pide que, como alguien de afuera, entres en la torre en secreto.
+TEXT_STMBDY701_03131_SEQ_04	Kyusei vigila el pasaje oculto que lleva a los dispositivos de teletransporte y espera a que comiences tu incursión en Heaven<-->on<-->High. Antes de dejarte entrar, te explica el campo mágico que impregna la torre, que amenaza con sofocar tu fuerza en combate. Por suerte, se puede eludir con equipo empyrean aetherpool especialmente preparado, que permite a quien lo usa canalizar su aether en vez de ir perdiéndolo. Con las herramientas y el conocimiento necesarios, por fin estás <if(gnum4,lista,listo)> para explorar los muchos niveles de Heaven<-->on<-->High.
+TEXT_STMBDY701_03131_TODO_00	Habla con Kyusei.
+TEXT_STMBDY701_03131_TODO_01	Espera a Kyusei y a Rasho.
+TEXT_STMBDY701_03131_TODO_02	Habla con Kyusei.
+TEXT_STMBDY701_03131_SYSTEM_100_000	Para aceptar esta misión, primero debes superar el piso 50 de Palace of the Dead.
+TEXT_STMBDY701_03131_SYSTEM_100_001	Para acceder a Palace of the Dead, debes completar la misión "The House That Death Built".
+TEXT_STMBDY701_03131_HAMAKAZE_000_000	Tú eres <split(<string(gstr1)>, ,1)>, ¿cierto? La persona que busca Rasho, si no me equivoco.
+TEXT_STMBDY701_03131_HAMAKAZE_000_001	Me dijo que si aparecías te mandara con Kyusei, en Crick.
+TEXT_STMBDY701_03131_HAMAKAZE_000_002	¿Por qué? ¡Y yo qué sé! Aquí nadie me cuenta nada. Mejor pregúntale a Kyusei.
+TEXT_STMBDY701_03131_HAMAKAZE_000_010	Ese tal Kyusei suele vigilar una casita de madera junto al aetheryte, aunque no entiendo por qué. Hasta donde sé, adentro no hay nada que valga la pena robar.
+TEXT_STMBDY701_03131_RASHO_000_011	Saludos, <if(gnum4,amiga,amigo)>. ¿Así que hablaste con Hamakaze? Muy bien. Es un asunto de mucha importancia. Cuando te presentes ante Kyusei, te lo explicaremos.
+TEXT_STMBDY701_03131_KYUSEI_000_020	Ah, usted debe ser <string(gstr1)>. Rasho habla muy bien de usted.
+TEXT_STMBDY701_03131_KYUSEI_000_021	De hecho, hay algo que nos gustaría conversar. Todo se le revelará a su debido tiempo, pero creo que conviene cambiar de lugar. Por favor, espérenos al pie de Heaven<-->on<-->High.
+TEXT_STMBDY701_03131_RASHO_000_030	Te veré pronto en Heaven<-->on<-->High.
+TEXT_STMBDY701_03131_KYUSEI_000_031	Hay mucho que quisiera decirle... pero no aquí. Rasho y yo nos reuniremos con usted enseguida.
+TEXT_STMBDY701_03131_RASHO_100_040	Magnífica, ¿no? Pero como habrás adivinado, no te llamamos para admirar la vista.
+TEXT_STMBDY701_03131_RASHO_000_040	Queremos que nos ayudes a explorar Heaven<-->on<-->High.
+TEXT_STMBDY701_03131_RASHO_000_042	Quizá sea mejor explicarlo desde el principio. Kyusei, si eres tan amable.
+TEXT_STMBDY701_03131_KYUSEI_000_043	Hace unas noches, mientras reordenaba las provisiones en uno de los almacenes, encontré una trampilla que nunca había notado. Al abrirla, vi un túnel que iba bajo tierra.
+TEXT_STMBDY701_03131_KYUSEI_000_044	El pasaje llevaba a una cámara llena de maquinaria extraña, toda brillante y zumbando. Contra mi buen juicio, toqué uno de los dispositivos, y una luz cegadora me envolvió.
+TEXT_STMBDY701_03131_KYUSEI_000_045	Lo siguiente que supe fue que estaba en unos pasillos ornamentados, y que no estaba solo. Por donde mirara había demonios horribles, con colmillos que rechinaban y garras que se agitaban.
+TEXT_STMBDY701_03131_KYUSEI_000_046	Solo pude correr por mi vida, hasta que di con un orbe brillante. Al acercarme, otra vez me cegó la luz.
+TEXT_STMBDY701_03131_RASHO_000_047	Lo encontramos tirado en la sala oculta bajo el almacén. Cuando volvió en sí y nos contó lo ocurrido, examinamos esas máquinas. Resulta que son una especie de portal que lleva al interior de Heaven<-->on<-->High. Y ahí está el problema.
+TEXT_STMBDY701_03131_KYUSEI_000_048	Como viene de Eorzea, quizá no sepa que esta torre y la isla donde se alza se consideran sagradas.
+TEXT_STMBDY701_03131_KYUSEI_000_049	Se cree que, cuando los kami llegaron al Ruby Sea, crearon Onokoro y levantaron Heaven<-->on<-->High como una escalera entre la tierra y su hogar, muy por encima de las nubes.
+TEXT_STMBDY701_03131_RASHO_000_050	Los devotos no se atreven a pisar Onokoro por miedo a la ira de los kami. Entrar en la torre sería una blasfemia aún mayor.
+TEXT_STMBDY701_03131_RASHO_000_051	Nosotros, los de la Confederacy, vamos y venimos como queremos. Como nadie se había asentado en esta isla, nos la quedamos. Hace falta algo más que unos cuentos tontos para asustarnos.
+TEXT_STMBDY701_03131_RASHO_000_052	Pero imagina qué pasaría si quienes sí creen en esos cuentos supieran que anduvimos husmeando en Heaven<-->on<-->High, si oyeran que decimos que esta "tierra santa" está en realidad llena de bestias infernales.
+TEXT_STMBDY701_03131_KYUSEI_000_053	En el mejor de los casos, no volverían a comerciar con nosotros. Y los más fanáticos podrían atreverse a venir aquí con la ira en el corazón y sed de sangre en la mirada.
+TEXT_STMBDY701_03131_RASHO_000_054	Aun así, no nos atrevemos a ignorar la amenaza de las criaturas de la torre. Si Kyusei pudo escapar, ¿qué les impide a ellas hacer lo mismo? Por eso quiero investigar, en silencio.
+TEXT_STMBDY701_03131_RASHO_000_055	Si mandamos a muchos de los nuestros a asaltar la torre, no tardarán en hacer preguntas. En cambio, pocos notarían la ausencia de alguien de afuera como tú. Y cuando empiece la pelea, tú <if(gnum4,sola,solo)> vales por una docena de mis mejores hombres.
+TEXT_STMBDY701_03131_RASHO_000_056	Una cosa más. Una magia extraña rige la torre y reduce la fuerza de quienes entran. Pero si alguien puede superar esos obstáculos, eres tú.
+TEXT_STMBDY701_03131_KYUSEI_000_057	Por si sirve de algo, estaré a mano para ofrecerle la poca ayuda que pueda. Dejo la exploración de la torre en sus capaces manos.
+TEXT_STMBDY701_03131_RASHO_000_058	Kyusei no será un combatiente, pero lo que sabe de Heaven<-->on<-->High te será útil.
+TEXT_STMBDY701_03131_KYUSEI_000_059	También manejaré el dispositivo de teletransporte para darle entrada a la torre. Por suerte, usted estará mucho mejor <if(gnum4,preparada,preparado)> que yo para enfrentar los horrores de adentro. Cuando esté <if(gnum4,lista,listo)>, búsqueme junto al almacén.
+TEXT_STMBDY701_03131_RASHO_000_060	<if(gnum4,A una guerrera consumada,A un guerrero consumado)> como tú debería irle bastante mejor en la torre que a Kyusei. No te dejes intimidar por sus historias. Tiene talento para el drama.
+TEXT_STMBDY701_03131_KYUSEI_000_070	¿Debo entender que sus preparativos están listos? Antes de que entre en Heaven<-->on<-->High, debería contarle más sobre la magia que mencionó Rasho.
+TEXT_STMBDY701_03131_KYUSEI_000_071	Todos los exploradores que mandamos aseguraron sentir cómo se les drenaba el aether, y que a sus armas de algún modo les quitaban la potencia. Ni sus golpes más fuertes hacían más que rozar a los enemigos.
+TEXT_STMBDY701_03131_KYUSEI_000_072	¿Hmm? ¿Conoce un fenómeno así?
+TEXT_STMBDY701_03131_Q1_000_000	¿Qué vas a decir?
+TEXT_STMBDY701_03131_A1_000_001	A fondo.
+TEXT_STMBDY701_03131_A1_000_002	¿Yo? No digo que no sepa que no existe ningún fenómeno raro.
+TEXT_STMBDY701_03131_KYUSEI_000_080	¿Es así? Qué extraño...
+TEXT_STMBDY701_03131_KYUSEI_000_081	Este tipo de magia debilitante solo se puede activar mediante... ¡Ejem! Disculpe, tengo la costumbre de divagar. No es momento de ponerme a hacer hipótesis.
+TEXT_STMBDY701_03131_KYUSEI_000_090	¿Eso fue... una triple negación? Entonces, ¿<italic(1)>sí<italic(0)> sabe? ¿O tal vez no? Intentaré descifrar su ingenioso juego de palabras en otro momento. Después de todo, seguro que el Warrior of... Es decir, alguien con su experiencia preferirá atender asuntos más urgentes.
+TEXT_STMBDY701_03131_KYUSEI_000_100	Por suerte, hay forma de eludir hasta cierto punto el campo mágico de la torre. Por favor, lleve esto con usted. Le permitirá empuñar lo que se conoce como "empyrean aetherpool weapon".
+TEXT_STMBDY701_03131_KYUSEI_000_101	Se desarroll... se descubrió dentro de la torre y canaliza poco a poco el aether de una persona en forma de hoja, tomo de hechizos o lo que sea. Mientras más se usa un arma empyrean aetherpool, más poderosa se vuelve.
+TEXT_STMBDY701_03131_KYUSEI_000_102	Debo insistir, sin embargo, en que incluso con una de estas armas avanzar de un piso al siguiente estará lejos de ser fácil. La exploración consistirá sobre todo en subir usando los dispositivos de teletransporte de adentro, que seguramente estarán muy vigilados.
+TEXT_STMBDY701_03131_KYUSEI_000_103	Considerando los peligros que enfrentará, decidimos limitar por ahora la investigación a los niveles inferiores. Cuando llegue al piso treinta, por favor infórmenos de lo que encuentre a Rasho y a mí. Entonces hablaremos de si es seguro seguir más allá.
+TEXT_STMBDY701_03131_KYUSEI_000_104	Aunque no iremos con usted en la expedición, en la Confederacy estamos deseosos de brindarle nuestro apoyo. Si necesita algo, no dude en pedirlo.
+TEXT_STMBDY701_03131_SYSTEM_000_110	Ahora tienes acceso a Heaven<-->on<-->High. Puedes entrar sin grupo o en uno de hasta cuatro jugadores.
+TEXT_STMBDY701_03131_SYSTEM_000_111	Al hablar con Kyusei, podrás elegir entrar con un grupo fijo o con uno armado por el sistema de emparejamiento.
+TEXT_STMBDY701_03131_SYSTEM_000_112	Los jugadores empiezan en el nivel 61, sea cual sea el nivel de su clase o job. Además, solo se pueden usar las armas y armaduras empyrean aetherpool propias de Heaven<-->on<-->High.
+TEXT_STMBDY701_03131_SYSTEM_000_113	Para saber más, habla con Kyusei.
+TEXT_STMBDY701_03131_SYSTEM_100_111	Para participar debes ser Disciple of War o Disciple of Magic de nivel 61 o superior.

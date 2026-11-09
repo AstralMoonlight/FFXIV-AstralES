@@ -1,0 +1,108 @@
+key	text
+TEXT_AKTKVA101_04646_SEQ_00	Shallow Moor te mira expectante.
+TEXT_AKTKVA101_04646_SEQ_01	Como encargada de la iniciativa de trabajos ocasionales del gremio, Shallow Moor te entrega una carta explicativa de Momodi. La carta detalla el pedido de una de las asistentes personales de la sultana, que te solicita viajar a Thanalan. Tras confirmar que aceptas, Shallow Moor se comunica con Momodi para organizar un encuentro, y quedas <if(gnum4,citada,citado)> con una tal "Kokoshu" afuera del Quicksand, en Ul'dah.
+TEXT_AKTKVA101_04646_SEQ_02	Kokoshu aclara enseguida quién es tu verdadera clienta: la sultana, Nanamo Ul Namo. La dama de compañía te cuenta del extraño portón descubierto en las secciones dañadas de los acueductos de Sil'dih, y del deseo de Nanamo de verlo con sus propios ojos. Cuando aceptas ayudar a la sultana en esta empresa, Kokoshu le cede la reunión a la propia Nanamo. Su Real Majestad explica que el símbolo del portón coincide con el diseño de una llave que le regalaron sus padres, y está convencida de que querían que explorara lo que hay al otro lado. En cuanto a ti, Nanamo cree que eres su mejor opción de escolta si quiere investigar sin que se lo impidan unos guardias demasiado protectores. Parece que dispuso que entres a las ruinas de Sil'dih por el acceso de Central Thanalan, mientras ella llega sin ser detectada por los túneles secretos del palacio...
+TEXT_AKTKVA101_04646_SEQ_03	El capataz, curioso pero cumplidor, te indica el camino hacia el interior de las ruinas, donde debes reunirte con Nanamo y su misteriosa llave. No sabes qué secretos o peligros te aguardan en los túneles subterráneos de Sil'dih, solo que abrir portones extraños suele llevar a la aventura...<br><br>※Puedes acceder a Sil'dihn Subterrane desde el V&C Dungeon Finder.<br>※Para abrir el V&C Dungeon Finder, habla con el capataz de Sil'dihn Subterrane o elige la opción que está en Duty, en el menú principal.
+TEXT_AKTKVA101_04646_SEQ_04	Aunque sin duda fue un éxito, tu expedición a Sil'dihn Subterrane planteó más preguntas de las que respondió. Dejando de lado las vueltas que te da la cabeza, recuerdas que el capataz querrá saber que tu "encargo" terminó para que él y sus trabajadores puedan volver a sus tareas.
+TEXT_AKTKVA101_04646_SEQ_05	Cuando le informas al capataz que los túneles son suyos otra vez, te transmite un mensaje de Kokoshu. Parece que la dama de compañía de Nanamo te espera de nuevo cerca del Quicksand.
+TEXT_AKTKVA101_04646_SEQ_06	Hablas con Kokoshu, que en realidad es Nanamo disfrazada, y ella reflexiona sobre lo que descubrieron juntos en su reciente aventura. Convencida de que Sil'dihn Subterrane aún guarda muchos más lugares que explorar, la sultana te invita a acompañarla en otra incursión, cuando el tiempo lo permita, por supuesto. Por ahora, sin embargo, debe volver a sus asuntos de Estado, y quien llega a continuación es la verdadera Kokoshu, para agradecerte profusamente tu cooperación. Sin embargo, la cadena de agradecimientos no estará completa hasta que le transmitas los saludos de la dama de compañía a Shallow Moor, allá en Sharlayan...
+TEXT_AKTKVA101_04646_SEQ_07	Shallow Moor te recibe, al parecer complacida por el sincero aprecio de Kokoshu. Te anima a contarle tu aventura a Osmon, pero te preguntas si con una sola expedición puedes dar por terminado este trabajo. Como dijo Nanamo, seguramente queda mucho más por descubrir dentro de Sil'dihn Subterrane...
+TEXT_AKTKVA101_04646_TODO_00	Reúnete con Kokoshu en Ul'dah.
+TEXT_AKTKVA101_04646_TODO_01	Habla con el capataz de Sil'dihn Subterrane en la excavación de Sil'dih.
+TEXT_AKTKVA101_04646_TODO_02	Entra en Sil'dihn Subterrane.
+TEXT_AKTKVA101_04646_TODO_03	Habla con el capataz de Sil'dihn Subterrane.
+TEXT_AKTKVA101_04646_TODO_04	Habla con Kokoshu en Ul'dah.
+TEXT_AKTKVA101_04646_TODO_05	Habla con Shallow Moor en Old Sharlayan.
+TEXT_AKTKVA101_04646_SHALLOWMOOR_000_001	Entonces, <split(<string(gstr1)>, ,1)>, ¿quiere decir que encontraste un rato libre en tu ajetreada agenda de matar dioses?
+TEXT_AKTKVA101_04646_SHALLOWMOOR_000_002	Maravilloso. De hecho, tenemos una carta para ti de la señora Momodi. Léela con calma, y yo busco la linkpearl con la que debo transmitir tu respuesta.
+TEXT_AKTKVA101_04646_MOMODI_000_003	(-Carta de Momodi-)<italic(1)>Querida <split(<string(gstr1)>, ,1)>:<br>Espero que al recibir esta carta estés bien y sigas aceptando trabajos del gremio, porque aquí tenemos uno con tu nombre.<italic(0)>
+TEXT_AKTKVA101_04646_MOMODI_000_004	(-Carta de Momodi-)<italic(1)>Normalmente no te molestaría con algo así, pero el cliente es una asistente personal de Su Real Majestad Nanamo Ul Namo. E imagino que eso despertó tu curiosidad tanto como la mía.<italic(0)>
+TEXT_AKTKVA101_04646_MOMODI_000_005	(-Carta de Momodi-)<italic(1)>Avísale a Shallow Moor si puedes venir a Ul'dah, y yo arreglo un encuentro con esa dama de compañía. Me dicen que no es urgente, ¡así que cuando puedas!<br>Momodi.<italic(0)>
+TEXT_AKTKVA101_04646_SHALLOWMOOR_000_006	¿Qué decimos? ¿Sí o no?
+TEXT_AKTKVA101_04646_Q1_000_000	¿Qué vas a decir?
+TEXT_AKTKVA101_04646_A1_000_001	Dile a Momodi que voy para allá.
+TEXT_AKTKVA101_04646_A1_000_002	A la señora Momodi no se le dice que no así como así.
+TEXT_AKTKVA101_04646_SHALLOWMOOR_000_007	¡Entendido! La llamo enseguida.
+TEXT_AKTKVA101_04646_SHALLOWMOOR_000_008	¡Ja! Lo tomaré como un sí, entonces. Déjame hacer la llamada...
+TEXT_AKTKVA101_04646_SHALLOWMOOR_000_009	¡Listo! Nuestra pequeña capataza está arreglando todo en este mismo momento.
+TEXT_AKTKVA101_04646_SHALLOWMOOR_000_010	Dice que la dama con la que debes reunirte es una Lalafell llamada Kokoshu. Cabello castaño claro, ojos verdes.
+TEXT_AKTKVA101_04646_SHALLOWMOOR_000_011	Debería estar esperándote afuera del Quicksand para cuando llegues. ¡Buena suerte y buen viaje!
+TEXT_AKTKVA101_04646_KOKOSHU_000_015	¿<if(gnum4,Señora,Maestro)> <split(<string(gstr1)>, ,2)>, supongo? Soy Kokoshu.
+TEXT_AKTKVA101_04646_KOKOSHU_000_016	Pero seamos claros desde el principio: yo no soy su verdadera clienta.
+TEXT_AKTKVA101_04646_KOKOSHU_100_016	La persona que desea contratar sus servicios es la sultana, la propia Nanamo Ul Namo.
+TEXT_AKTKVA101_04646_KOKOSHU_100_017	Sin embargo, permítame primero explicarle el pedido en sí. Después podrá decidir si desea seguir adelante.
+TEXT_AKTKVA101_04646_KOKOSHU_000_017	Confío en que recuerde los túneles bajo la ciudad de Ul'dah.
+TEXT_AKTKVA101_04646_KOKOSHU_000_018	Me refiero, por supuesto, a Sil'dihn Subterrane, los pasadizos y canales por los que escaparon el día de aquel desdichado banquete de la victoria.
+TEXT_AKTKVA101_04646_KOKOSHU_000_019	Parece que una de las secciones de los túneles se derrumbó durante el alboroto, y desde entonces un grupo formado sobre todo por Immortal Flames trabaja en las reparaciones.
+TEXT_AKTKVA101_04646_KOKOSHU_000_020	Sin embargo, al restaurar la mampostería se encontraron con un portón inesperado...
+TEXT_AKTKVA101_04646_KOKOSHU_000_021	Lo describieron como de diseño antiguo, de propósito inescrutable y sellado por alguna fuerza mística. El informe pareció interesarle mucho a la sultana, que expresó su deseo de investigar personalmente ese extraño portón.
+TEXT_AKTKVA101_04646_KOKOSHU_100_021	Además, considera que el Maestro Tarupin y los demás son "demasiado protectores" y le impedirán explorar a su gusto. Pero ¿vamos entonces a mandar a Su Real Majestad a un posible peligro sin una escolta de confianza? Ya ve mi dilema.
+TEXT_AKTKVA101_04646_KOKOSHU_000_022	Como <if(gnum4,campeona probada,campeón probado)> de Eorzea y <if(gnum4,veterana,veterano)> de incontables gestas heroicas, es a usted a quien quisiéramos confiar la seguridad de la sultana. Además, ella no lo aceptaría de otra manera.
+TEXT_AKTKVA101_04646_Q2_000_000	¿Qué vas a decir?
+TEXT_AKTKVA101_04646_A2_000_001	¡El deseo de Su Gracia es una orden para mí!
+TEXT_AKTKVA101_04646_A2_000_002	No lo tengo muy claro, pero si es lo que quiere la sultana...
+TEXT_AKTKVA101_04646_KOKOSHU_000_023	Gracias, <if(gnum4,Señora,Maestro)> <split(<string(gstr1)>, ,2)>. Significará mucho para Su Gracia. Por favor, espere aquí, e informaré a la sultana de su decisión.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_100_024	<split(<string(gstr1)>, ,1)>, gracias por venir. Le agradezco mucho que atienda este capricho mío.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_025	Sin embargo, por el bien de su espíritu aventurero, espero que este misterio resulte más intrigante que odioso.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_030	Kokoshu le habló a grandes rasgos de lo que debe esperar, ¿sí? Entonces permítame agregar algunos detalles a la historia.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_031	Según el informe, el portón tiene un diseño floral muy elaborado. Los Flames no lograron determinar su origen ni su significado, pero yo ya he visto ese motivo...
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_032	El mismo diseño adorna una llave que tengo en mi poder, el último regalo que recibí de mis queridos padres.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_033	Recuerdo la ceremonia con la que me la dieron, y su promesa de llevarme al lugar que abría la llave cuando yo alcanzara la mayoría de edad.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_034	Hablaban con entusiasmo de las decisiones que yo tomaría, de lo que vería en el camino que eligiera... pero los llamaron a las salas de Thal mucho antes de que llegara ese día.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_035	Sin mi madre y mi padre, perdí la esperanza de conocer el propósito de la llave. Y ahora aparece este portón...
+TEXT_AKTKVA101_04646_NANAMOULNAMO_100_035	Seguro entenderá por qué no puedo dejarlo sin abrir.
+TEXT_AKTKVA101_04646_Q3_000_000	¿Qué vas a decir?
+TEXT_AKTKVA101_04646_A3_000_001	¡Podría haber <italic(1)>cualquier cosa<italic(0)> detrás de ese portón!
+TEXT_AKTKVA101_04646_A3_000_002	Podría haber <italic(1)>cualquier cosa<italic(0)> detrás de ese portón...
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_037	¿Lo ve? ¡Sabía que podía contar con su entusiasmo!
+TEXT_AKTKVA101_04646_NANAMOULNAMO_100_037	Qué tranquilizador será tener a <if(gnum4,una aventurera veterana,un aventurero veterano)> a mi lado. No es que desconfíe de Papashan o de Pipin, por supuesto, pero si se los dijera, solo tratarían de disuadirme.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_038	Así es. Pero mi madre y mi padre querían que lo viera, y eso es lo que pienso hacer.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_100_038	Aun así, ni Papashan ni Pipin aprobarían mis planes de investigar en persona. Necesitaba a alguien más de confianza, que a su vez confiara en mi criterio. ¿Será usted esa persona para mí?
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_039	En cuanto a Kokoshu, fue la primera a la que le confié el secreto.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_040	Después de todo, es mi dama de compañía y me sirve de doble cuando no estoy. No quería involucrar a nadie más, pero se negó rotundamente a cooperar a menos que consiguiera una escolta fiable.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_041	¡Y aquí estamos! Y aunque lamento tener que hacerle cómplice de mi artimaña, ¡la idea de explorar con usted me tiene loca de emoción!
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_042	Si puede ir directamente a la excavación de Central Thanalan, el capataz tiene instrucciones de dejarle el paso libre.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_043	Como los túneles llegan hasta el palacio, los protocolos de seguridad exigen que se nos informe cada vez que alguien entra en las ruinas. Lo tomaré como señal para reunirme con usted, por los pasadizos secretos, desde luego.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_044	Ahora, hagamos los preparativos. ¡Debemos, como usted dice, estar preparados para cualquier cosa!
+TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_050	<if(gnum4,Señora,Maestro)> <split(<string(gstr1)>, ,2)>. Lady Kokoshu dice que debe tener acceso sin restricciones a las ruinas para una especie de "encargo confidencial".
+TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_051	Me pregunto, ¿tendrá que ver con lo que encontraron en esa sección derrumbada, o...?
+TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_052	Eh, de hecho, olvídelo. No se supone que haga preguntas.
+TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_053	Ejem. Ya retiraron casi todos los escombros, pero por favor, cuide dónde pisa allá abajo. ¡No queremos que tropiece con una piedra suelta en la penumbra!
+TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_055	<if(gnum4,Señora,Maestro)> <split(<string(gstr1)>, ,2)>. ¿Terminó con su, eh, "encargo"?
+TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_056	Me alegra oírlo. Avisaré a los trabajadores que pueden volver a los túneles.
+TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_057	¡Ah, antes de que se me olvide!
+TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_058	Tengo un mensaje para usted de Lady Kokoshu: desea reunirse con usted junto al Quicksand cuando regrese a Ul'dah. Buen viaje, <if(gnum4,señorita,señor)>.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_065	<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <if(gnum4,Señora,Maestro)> <split(<string(gstr1)>, ,2)>.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_066	(-Nanamo Ul Namo-)...Como diría Kokoshu.<br>¡Soy yo, Nanamo! ¿La engañé?
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_067	(-Nanamo Ul Namo-)Mi dama de compañía sigue haciendo el papel de sultana, pero nos pareció raro que "Kokoshu" entrara en mis aposentos y nunca saliera.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_068	(-Nanamo Ul Namo-)De ahí el disfraz. También me da una forma de hablar con usted sin la fanfarria real de siempre.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_069	(-Nanamo Ul Namo-)En cuanto a nuestra expedición, fue... bastante más agotadora de lo que esperaba. Lo que planeé como una simple forma de satisfacer mi curiosidad me dejó mucho en qué pensar.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_070	(-Nanamo Ul Namo-)Creía haber aceptado la pérdida de mis padres, y que me bastaban los pocos y tenues recuerdos que tenía.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_071	(-Nanamo Ul Namo-)Pero al entrar en ese hermoso jardín apartado y ver los rastros que dejaron... me vi obligada a reconocer el dolor que escondí de niña y que aún llevo encerrado en el corazón.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_072	(-Nanamo Ul Namo-)Pocos saben de la alianza histórica de Ul'dah con los Amalj'aa. Las fortificaciones que vimos son, sin duda, restos de aquel período de cooperación, un capítulo de nuestro pasado que lleva mucho tiempo oculto a la luz del día.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_073	(-Nanamo Ul Namo-)Pude ver con mis propios ojos cómo estaban las cosas entre nosotros. Y mientras seguimos luchando por reparar los lazos con las tribus, me anima pensar que algún día volverá a haber tal armonía.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_074	(-Nanamo Ul Namo-)Ul'dah se construyó sobre un sacrificio: el de Sil'dih. Saberlo es una cosa; caminar de verdad entre las ruinas decadentes de un palacio es otra.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_075	(-Nanamo Ul Namo-)Los vencedores no deberían enterrar el precio de la victoria junto a los cuerpos de los caídos. Siento que mi padre, sabio sultán como era, quería que yo aprendiera esa lección.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_076	(-Nanamo Ul Namo-)Yo, por ejemplo, ni soñaba que nuestro camino llevaría a una bóveda oculta, y mucho menos a una que varios sultanes hubieran mantenido a lo largo del tiempo.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_077	(-Nanamo Ul Namo-)Imagino que este secreto se transmitía al subir al trono, pero mi padre falleció... de repente. Seguramente solo tuvo tiempo de dejar una breve carta en la bóveda y legarme la llave con la esperanza de que yo la encontrara.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_078	(-Nanamo Ul Namo-)Y ahora la encontré. Aun con el paso de los años, el pergamino descolorido transmite su amor, y honraré su memoria como hija y como sultana.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_079	(-Nanamo Ul Namo-)En cuanto a la bóveda misma, la prioridad debe ser catalogar y preservar su contenido. Usted merece conocer los resultados de esa inspección, así que me comunicaré por medio de Kokoshu cuando haya comprendido el alcance de nuestro hallazgo.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_080	(-Nanamo Ul Namo-)Dejando de lado tales revelaciones, no puedo dejar de pensar en la importancia que mi madre y mi padre daban a las decisiones que yo tomaría y a los caminos que seguiría... Detrás de esos portones aún hay otros lugares de importancia, estoy segura.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_081	(-Nanamo Ul Namo-)Sí, me gustaría mucho hacer una exploración más a fondo, cuando el tiempo y las circunstancias lo permitan, por supuesto. ¡Ayúdeme a trazar el mapa de este enigma subterráneo y tendrá una sultana muy agradecida!
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_082	(-Nanamo Ul Namo-)En este momento, sin embargo, hay varios tediosos asuntos de Estado que requieren mi atención. Creo que Kokoshu desea hablar con usted antes de que se vaya, así que, si me hace el favor, espere aquí un momento.
+TEXT_AKTKVA101_04646_NANAMOULNAMO_000_083	(-Nanamo Ul Namo-)Cuídese, <split(<string(gstr1)>, ,1)>, y nos veremos pronto.
+TEXT_AKTKVA101_04646_KOKOSHU_000_084	<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <if(gnum4,Señora,Maestro)> <split(<string(gstr1)>, ,2)>. Ah, por si se lo pregunta, le prometo que esta vez soy la verdadera Kokoshu.
+TEXT_AKTKVA101_04646_KILFUFU_100_084	Y yo soy Kilfufu, asistente de Kokoshu y también confidente de confianza. Es un placer conocerle.
+TEXT_AKTKVA101_04646_KILFUFU_100_085	Como parte del, eh, "círculo íntimo" de Su Gracia, tenía que venir a darle las gracias en persona.
+TEXT_AKTKVA101_04646_KOKOSHU_000_085	Sí, estamos muy agradecidas por su firme presencia.
+TEXT_AKTKVA101_04646_KOKOSHU_000_086	Me preocupó lo que pasaría cuando la sultana expuso su plan más bien imprudente, pero regresó no solo sana y salva, sino llena de energía.
+TEXT_AKTKVA101_04646_KILFUFU_100_087	Por el bienestar de Su Gracia, y por nuestra tranquilidad, esperamos que acepte más incursiones a su lado.
+TEXT_AKTKVA101_04646_KOKOSHU_000_088	La señora Momodi también nos informó que el gremio de los gleaners fue decisivo para hacer llegar nuestro pedido.
+TEXT_AKTKVA101_04646_KOKOSHU_000_089	La próxima vez que visite Sharlayan, por favor transmítale nuestros más cálidos saludos a Shallow Moor.
+TEXT_AKTKVA101_04646_KOKOSHU_000_090	Dada su tendencia a andar más allá del alcance de los mortales comunes, no estaba nada segura de que nuestro pedido le llegara. ¡Agradecemos el empeño de Shallow Moor en dar con usted!
+TEXT_AKTKVA101_04646_SHALLOWMOOR_000_095	¿Terminaste con el trabajo, <split(<string(gstr1)>, ,1)>? La señora Momodi llamó para darnos las gracias y avisarnos que llegaste a Ul'dah.
+TEXT_AKTKVA101_04646_SHALLOWMOOR_000_096	¿Así que la pequeña dama de compañía también manda saludos? ¡Sí que saben hacer que una se sienta valorada!
+TEXT_AKTKVA101_04646_SHALLOWMOOR_000_097	Ah, debería darte un empujoncito hacia Osmon: cada pocos momentos revisa la multitud con la esperanza de que vuelvas a contarle tu aventura.
+TEXT_AKTKVA101_04646_SHALLOWMOOR_000_098	Si tienes tiempo, seguro que le encantaría cualquier pedacito de historia que quieras compartir.
+TEXT_AKTKVA101_04646_SYSTEM_100_100	<colortype(500)><edgecolortype(501)>Sil'dih Survey Record<edgecolortype(0)><colortype(0)> ya está disponible en el V&C Dungeon Finder, en la sección Duty del menú principal.
+TEXT_AKTKVA101_04646_SYSTEM_100_101	Se agregarán nuevas entradas al registro a medida que completes cada ruta posible de la variant dungeon.

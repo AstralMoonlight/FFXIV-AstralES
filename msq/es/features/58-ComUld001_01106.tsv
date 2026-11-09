@@ -1,0 +1,18 @@
+key	text
+TEXT_COMULD001_01106_SEQ_00	Swift quiere que empieces tu entrenamiento en serio.
+TEXT_COMULD001_01106_SEQ_01	El Alto Comandante Flame Swift tiene grandes esperanzas en tu futuro en los Immortal Flames, y quiere mandarte a entrenar para que desarrolles tu potencial. Toma el ferry de Moraby Drydocks, en Lower La Noscea, para llegar a the Wolves' Den. Una vez allí, busca al Capitán Storm Berkoeya Loetahlsyn.
+TEXT_COMULD001_01106_SEQ_02	Tras destruir con una brutal reprimenda hasta el último resto de tu confianza y amor propio, el Capitán Storm Berkoeya Loetahlsyn te da permiso a regañadientes para empezar tu entrenamiento en the Wolves' Den.
+TEXT_COMULD001_01106_TODO_00	Habla con Berkoeya Loetahlsyn en the Wolves' Den.
+TEXT_COMULD001_01106_SWIFT_000_000	<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Le he estado siguiendo de cerca últimamente. Sus esfuerzos por Ul'dah nos enorgullecen a todos.
+TEXT_COMULD001_01106_SWIFT_000_001	Sí, ahora entiendo lo que vio en usted el General Flame. No sería exagerado decir que el futuro de nuestra Grand Company descansa sobre sus capaces hombros.
+TEXT_COMULD001_01106_SWIFT_000_002	Y sin embargo, también veo con claridad que apenas ha empezado a explorar las profundidades de su potencial.
+TEXT_COMULD001_01106_SWIFT_000_003	Su llama arde con fuerza, pero aún puede arder más. Sí, quisiera verle convertido en un infierno abrasador que reduzca a brasas a todo lo que se oponga a Ul'dah.
+TEXT_COMULD001_01106_SWIFT_000_004	Con esa esperanza, hice arreglos para que reciba entrenamiento en the Wolves' Den, un campo de pruebas establecido por la Eorzean Alliance para entrenar a los reclutas de las Grand Companies. ¿Quizá lo conozca?
+TEXT_COMULD001_01106_SWIFT_000_005	Esa mirada en sus ojos me dice que tiene ganas de ponerse en camino. Sabía que no me había equivocado con usted.
+TEXT_COMULD001_01106_SWIFT_000_006	The Wolves' Den está justo frente a la costa de La Noscea. El ferry de Moraby Drydocks, en Lower La Noscea, le llevará hasta allí.
+TEXT_COMULD001_01106_SWIFT_000_007	Cuando llegue, busque al Capitán Storm Berkoeya Loetahlsyn. Ya me tomé la libertad de presentar una carta de recomendación en su nombre.
+TEXT_COMULD001_01106_BERKOEYA_000_010	No recuerdo haber visto esa cara fea por aquí. ¿Hm? ¿Dices que te mandó <italic(1)>Swift<italic(0)>?
+TEXT_COMULD001_01106_BERKOEYA_000_011	Dijo que mandaba un lobo nuevo a la guarida - ¡bah! Más bien el enclenque de la camada, si me preguntas.
+TEXT_COMULD001_01106_BERKOEYA_000_012	Apenas tienes colmillos para afilar, pero supongo que hoy estoy condenadamente generoso, así que te tiro un hueso: empieza con Crystalline Conflict. Esos combates de entrenamiento están hechos para inútiles aventureros que no distinguen una buena estrategia del trasero de un caballo.
+TEXT_COMULD001_01106_BERKOEYA_000_013	Sigo creyendo que antes del <if([gnum11<12],<if([gnum11<4],amanecer,mediodía)>,<if([gnum11<17],atardecer,amanecer)>)> te vas a ir a casa con la cola entre las patas, llorando por tu mami, pero si insistes en intentarlo, habla con el Teniente Gungi Zelungi. Lo encontrarás afuera, si es que te animas.
+TEXT_COMULD001_01106_BERKOEYA_000_014	¡Y párate derecho, gusano! Este no es lugar para gente sin columna. ¡Retírate!

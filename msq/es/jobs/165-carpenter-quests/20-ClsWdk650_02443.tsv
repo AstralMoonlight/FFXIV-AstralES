@@ -1,0 +1,76 @@
+key	text
+TEXT_CLSWDK650_02443_SEQ_00	Cemi da saltitos de una emoción incontenible.
+TEXT_CLSWDK650_02443_SEQ_01	Cemi te cuenta que ha trabajado duro para mejorar sus habilidades de carpintería. Como prueba de su renovada dedicación, encontró otra clienta, una señora llamada Ume, dueña del Umineko Teahouse. De hecho, ya terminó de fabricar el objeto pedido y está a punto de entregárselo. Segura de que su trabajo será bien recibido, Cemi te pide que la acompañes a presenciar su mayor logro hasta ahora.
+TEXT_CLSWDK650_02443_SEQ_02	Cemi le presenta un letrero a Ume, cuyo rostro se ensombrece de disgusto. La dueña de la casa de té se queja de que pidió algo que la ayudara a conseguir clientes habituales, no un anuncio para el público en general. Totalmente desconcertada, Cemi te pide ayuda. La dueña lo nota y te encarga la tarea a ti. Te toca fabricar un objeto que mejore el ambiente de su casa de té y, para saber exactamente qué, Ume sugiere hablar con algunos de sus clientes.
+TEXT_CLSWDK650_02443_SEQ_03	Hablas con algunos clientes de la casa de té. Aunque elogian la comida y la bebida, sienten que al local le faltan formas de pasar el tiempo, y una sugerencia popular es un lugar para disfrutar de su pipa. Ahora que sabes lo que buscan los clientes, puedes volver al Shiokaze Hostelry y hablar con Cemi sobre qué hacer para Ume.
+TEXT_CLSWDK650_02443_SEQ_04	Junto con Cemi, barajas algunas ideas sobre qué objetos generarían el tipo de negocio que busca la dueña de la casa de té. Llegan a la conclusión de que lo mejor sería una caja de pipas, para ofrecerles a los clientes un rato de relajación con una pipa. Decidido el objeto, puedes ponerte a fabricar un buen ejemplar para presentárselo a Ume.<br><br>※Si pierdes los materiales o la síntesis falla, puedes intentarlo de nuevo hablando con Cemi.
+TEXT_CLSWDK650_02443_SEQ_05	A Ume le complace la caja de pipas y te dice que cree que tiene un gran potencial, conversación que interrumpe Beatin. Tras evaluar rápidamente lo que fabricaste y soltar un mal chiste, la dueña de la casa de té vuelve a su local, y el maestro carpintero empieza a reprender levemente a Cemi por dejarte toda la carpintería a ti. Subrayando la importancia del fracaso para aprender, la insta a tomar un papel más activo en su propia educación. Luego le dice a su aprendiz más joven que es hora de hacer las maletas y partir hacia Doma, en Yanxia, sin olvidar lo que aprendió en Kugane. Prometiendo hacerlo, ella corre de vuelta al Shiokaze Hostelry, donde más vale que te reúnas con ella una última vez.
+TEXT_CLSWDK650_02443_SEQ_06	Antes de partir, Cemi se reúne contigo para decirte que te enviará una carta al llegar a Yanxia y que podrás recogerla con Kotokaze en el Shiokaze Hostelry. Por ahora se separan, sabiendo que sus caminos volverán a cruzarse en Doma.<br><br>※La siguiente misión de carpenter estará disponible con Kotokaze al llegar al nivel 68.
+TEXT_CLSWDK650_02443_TODO_00	Habla con Cemi Jinjahl en el Umineko Teahouse.
+TEXT_CLSWDK650_02443_TODO_01	Habla con los clientes del Umineko Teahouse.
+TEXT_CLSWDK650_02443_TODO_02	Habla con Cemi Jinjahl en el Shiokaze Hostelry.
+TEXT_CLSWDK650_02443_TODO_03	<if([lnum1<lnum2],Sintetiza una stylish pipe box <sheet(Addon,9,0)>,Entrégale la stylish pipe box <sheet(Addon,9,0)> a Ume)>.
+TEXT_CLSWDK650_02443_TODO_04	Habla con Cemi Jinjahl en el Shiokaze Hostelry.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_001	¡Ah, <split(<string(gstr1)>, ,1)>! ¡Ya llegó!
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_002	Desde la última vez que nos vimos, he trabajado día y noche para mejorar mis defectos como carpenter. ¡He avanzado a pasos agigantados!
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_003	Hasta ahora he sido poco confiable. Pero le prometo que, a partir de este momento, verá un lado completamente nuevo de mí.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_004	Para demostrarle cuánto he cambiado, tomé la iniciativa y encontré una nueva clienta. Se llama Ume y dirige la casa de té local. Hasta terminé de fabricar lo que nos pidió. ¡Ja, ja! ¿Ya le impresioné? Pues hay más.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_005	Tengo que entregárselo en su local. Vendrá conmigo, ¿verdad? ¡Después de todo, no querrá perderse mi primera transacción exitosa!
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_010	¿C-Cómo que no puede usar esto? Me esforcé por escuchar cada palabra que dijo: ¡esto es exactamente lo que pidió! Este encantador letrerito seguro que atrae a multitudes de clientes.
+TEXT_CLSWDK650_02443_UME_000_011	¿<italic(1)>Exactamente<italic(0)> lo que pedí? ¡Ja! ¡Ni de cerca!
+TEXT_CLSWDK650_02443_UME_000_012	Te dije que quería algo que me ayudara a conseguir clientes habituales. Esto es un anuncio para el público en general: justo lo contrario de lo que necesito.
+TEXT_CLSWDK650_02443_UME_000_013	Aunque hubiera pedido este letrero ridículo, ¿qué te hace pensar que convencería a alguien de venir? La letra es ilegible: apenas se distingue el nombre de mi local.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_014	Ay, cielos... <split(<string(gstr1)>, ,1)>, ayuda...
+TEXT_CLSWDK650_02443_UME_000_015	Ah, ¿trajiste a alguien? Tú pareces tener la cabeza bien puesta. ¿Quizá puedas ayudarme?
+TEXT_CLSWDK650_02443_UME_000_016	¡Excelente! Aunque no sé decir bien qué es, sospecho que a mi casa de té le falta algo en cuanto a ambiente. Me gustaría que averiguaras qué es exactamente y me hicieras muebles o accesorios para mejorarlo.
+TEXT_CLSWDK650_02443_UME_000_017	Si te quedas sin ideas, podrías hablar con algunos de mis clientes. Quizá puedas preguntarles qué mejoraría su experiencia aquí.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_018	...Como parece que aquí ya no me necesitan, volveré al Shiokaze Hostelry y prepararé algunos materiales para usted. Cuando decida qué quiere fabricar, búsqueme y le daré lo que necesite.
+TEXT_CLSWDK650_02443_UME_000_020	\<suspiro> Esta muchacha oye las palabras, pero ¿<italic(1)>entiende<italic(0)> alguna?
+TEXT_CLSWDK650_02443_BYAKUDAN_000_021	La casa de té está inusualmente ruidosa hoy. ¿Qué pasa?
+TEXT_CLSWDK650_02443_WAKA_000_022	¿Qué es ese alboroto? ¿Hay una pelea?
+TEXT_CLSWDK650_02443_ADVENTUREYYYY_000_023	¿Qué pasa por allá? ¿Hay que llamar a los Sekiseigumi?
+TEXT_CLSWDK650_02443_BYAKUDAN_000_030	¿Cómo mejoraría <italic(1)>yo<italic(0)> este lugar? No tengo quejas del té ni de la comida, pero estaría bien que tuvieran libros o un lugar para fumar y pasar el rato...
+TEXT_CLSWDK650_02443_WAKA_000_031	Disculpa, pero ya me iba. Si este lugar fuera más amable con los fumadores, me daría más ganas de quedarme.
+TEXT_CLSWDK650_02443_ADVENTUREYYYY_000_032	Con toda su buena comida y bebida, todavía le falta calidez. Vendría el doble de veces si tuvieran un rincón donde sentarme, relajarme y fumar después de un largo día.
+TEXT_CLSWDK650_02443_UME_000_035	La clave de un negocio exitoso es cultivar una clientela fiel. Necesito que me ayudes justamente con eso.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_040	¡Lo hice otra vez! Hice un desastre y le dejé a usted la limpieza. Lo siento mucho, <italic(1)>mucho<italic(0)>. Creí que esta vez podría encargarme...
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_050	<split(<string(gstr1)>, ,1)>, no sé cómo disculparme con usted. \<suspiro> Parece que, cuanto más me esfuerzo, más trabajo le doy.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_051	Si tan solo pudiera descubrir qué estoy haciendo mal. Creí que mi problema era no escuchar, así que me aseguré de anotar cada palabra de nuestra clienta, pero al final no sirvió de nada...
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_052	¡Pero me estoy desviando! No es momento de darle vueltas a mi fracaso. Concentrémonos en cumplir el pedido de la dueña de la casa de té.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_053	¿Tiene alguna idea de qué podemos hacer para satisfacerla?
+TEXT_CLSWDK650_02443_Q1_000_000	¿Qué vas a decir?
+TEXT_CLSWDK650_02443_A1_000_001	Un buen onsen donde la gente pueda relajarse.
+TEXT_CLSWDK650_02443_A1_000_002	Un garrote para que defienda su local.
+TEXT_CLSWDK650_02443_A1_000_003	Una pipe box para que la gente pueda fumar y relajarse.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_054	¡Sí! De hecho, es una idea tan increíble que, cuando se la digamos, ¡seguro que decide convertir su local en un onsen!
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_055	¡Oooh! Ya puedo imaginarlo: gente de todas las edades relajándose junta en las aguas humeantes, charlando mientras sorbe tazas de té igual de calientes... ¡Un momento! Si reemplazamos la casa de té por un onsen, ¿dónde conseguirán el té los clientes?
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_056	...No creo que eso ayude a Ume a atraer clientes. En todo caso, los espantaría. Es probable que los comerciantes que hacen justicia por su mano provoquen la ira de los Sekiseigumi, y eso no sería buena publicidad, por decir lo menos.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_057	¡Eso es! He notado que muchos hombres y mujeres de Kugane se dan ese gusto de vez en cuando. Poner una caja de pipas en el lugar es la forma perfecta de invitarlos a fumar tranquilamente después del té. Seguro que los hará volver.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_058	Ahora, manos a la obra. Va a necesitar esto... quizá un poco de aquello y, por supuesto, esto. ¡Tome! Debería ser todo.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_059	Creo que la dueña de la casa de té está bastante... ansiosa por recibir su pedido. Si pudiera terminar la pipe box y asegurarse de que le llegue pronto, se lo agradecería mucho.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_065	Si necesita más materiales, no dude en pedirlos. Después de todo, hay de sobra.
+TEXT_CLSWDK650_02443_UME_000_070	Hm. ¿Una caja de pipas, dices?
+TEXT_CLSWDK650_02443_UME_000_071	Ah, pero claro. ¿Cómo no se me ocurrió? La mayoría de mis clientes fuman. Invitarlos a hacerlo aquí, después de los dulces y el té, sin duda hará que vengan más seguido.
+TEXT_CLSWDK650_02443_UME_000_072	¿Ves ahora, señorita? ¡<italic(1)>Esto<italic(0)> es lo que estaba pidiendo!
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_073	Oh, sí. Ahora lo veo clarísimo. \<suspiro> <split(<string(gstr1)>, ,1)> es <if(gnum4,una maestra carpenter,un maestro carpenter)> y yo, en cambio, no soy más que un miserable fracaso...
+TEXT_CLSWDK650_02443_BEATINE_000_074	Ejem. ¿Me permiten echarle un vistazo?
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_075	¡Santos dioses! ¡T-Timbermaster Beatin! ¿¡Qué hace aquí!?
+TEXT_CLSWDK650_02443_BEATINE_000_076	Sentí la llamada de la madera y la seguí hasta aquí. ...Ah, sí. La intrincada incrustación de metal, junto con el exterior de madera finamente pulido, me lleva a creer que esto es obra suya, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSWDK650_02443_BEATINE_000_077	Tiene un gran sentido del humor, criatura. Mi querida señora, parece que mi protegid<if(gnum4,a,o)> aquí presente tuvo a bien proporcionarle una pipe box en el sentido más auténtico de la palabra.
+TEXT_CLSWDK650_02443_UME_000_078	¿Qué quiere decir con eso, si se puede saber?
+TEXT_CLSWDK650_02443_BEATINE_000_079	Una pipe box guarda ash, es decir, ceniza, y esta en particular está hecha de <italic(1)>ash<italic(0)> lumber... Quizá, sin embargo, haya que ser carpenter para apreciar del todo la broma.
+TEXT_CLSWDK650_02443_UME_000_080	Quizá, en efecto. Bromas aparte, quisiera agradecerles este magnífico regalo. ¡Estoy impaciente por ver la reacción de mis clientes!
+TEXT_CLSWDK650_02443_BEATINE_100_081	Cemi, por lo que entiendo, <split(<string(gstr1)>, ,1)> hizo una pipe box a pedido de una clienta. Dígame, ¿por qué no fabricó una usted también?
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_082	\<suspiro> Lo siento, señor. He dado todo de mí. De verdad, pero la triste verdad es que nada de lo que hago satisface a nadie. Por eso pensé que lo mejor era limitarme a reunir materiales...
+TEXT_CLSWDK650_02443_BEATINE_000_083	Al principio siempre cuesta, pero eso no es excusa para rendirse. El fracaso forja el carácter, y el carácter le permitirá crecer como artesana.
+TEXT_CLSWDK650_02443_BEATINE_000_084	Aunque no lo parezca, creció mucho durante su estancia aquí en Kugane. Sin embargo, es hora de que haga las maletas.
+TEXT_CLSWDK650_02443_BEATINE_000_085	Su próximo destino es Yanxia, las tierras más allá del Ruby Sea.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_086	¡Sí, señor! Me prepararé para partir de inmediato.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_087	<split(<string(gstr1)>, ,1)>, me adelanto, pero no se preocupe. Cuando llegue, le enviaré una carta diciéndole dónde podemos encontrarnos.
+TEXT_CLSWDK650_02443_BEATINE_000_088	Cemi, antes de que se vaya, permítame decirle esto: domina bien todos los fundamentos y además tiene una intuición aguda. Sin embargo, hay algo que la frena.
+TEXT_CLSWDK650_02443_BEATINE_000_089	Solo aspira a la perfección. Recuerde, su propósito no es crear algo impecable, sino algo auténtico. Algo único que se atesore durante muchos años.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_090	¿Ya terminó? ¡Fantástico! Por favor, entrégaselo a Ume lo antes posible.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_100	¿No es emocionante? ¡Voy a Yanxia! No se preocupe, <split(<string(gstr1)>, ,1)>; como le dije, cuando me haya instalado, le enviaré una carta por medio de Kotokaze.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_101	Esta vez pienso estar a la altura de las expectativas de Timbermaster Beatin. Vaya, me atrevo a decir que hasta volveremos del viaje con una o dos historias de cómo me gané el corazón de los lugareños con mis habilidades de carpintería.
+TEXT_CLSWDK650_02443_CEMIJINJAHL_000_102	¡Hasta que nos veamos en Yanxia!
+TEXT_CLSWDK650_02443_SYSTEM_000_102	¡Al abrir nuevos caminos en la carpintería del Lejano Oriente, aprendiste "Manipulation"!

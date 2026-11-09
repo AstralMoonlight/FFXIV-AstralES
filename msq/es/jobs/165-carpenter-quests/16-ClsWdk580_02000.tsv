@@ -1,0 +1,49 @@
+key	text
+TEXT_CLSWDK580_02000_SEQ_00	El rostro de Barthovieu es la viva imagen de la determinación.
+TEXT_CLSWDK580_02000_SEQ_01	Barthovieu estuvo practicando con empeño con su arco, y ahora se cree listo y capaz de matar a Nguruvilu. Sin embargo, justo cuando se dispone a partir, no encuentra ni su arma ni a su hijo. Preocupado, te pide que busques a Philipallais cerca de los Holy Stables. Hazlo, y espera que el niño no haya cometido ninguna imprudencia.
+TEXT_CLSWDK580_02000_SEQ_02	Encuentras a Philipallais con el arco de su padre. Barthovieu llega justo a tiempo para impedir que su hijo tire el arma, y le exige una explicación. El niño, entre lágrimas, le ruega a su padre que deje de perseguir al dragón. Si de verdad tiene que seguir, pregunta Philipallais, ¿por qué no usar una trampa para atrapar a Nguruvilu? Así su padre podría matar al dragón con relativa seguridad y también convertirse en caballero. Conmovido por la preocupación de su hijo e impresionado por el plan, Barthovieu te pide ayuda para encontrar la madera perfecta. Como no se te ocurre ninguna, vuelve con Timbermaster Beatin y pregúntale.
+TEXT_CLSWDK580_02000_SEQ_03	Después de escuchar tu problema, Beatin recomienda una madera flexible como la madera verde y resistente al frío. Sin esas cualidades, razona, la trampa se astillará bajo la ira de un gran dragón. Sin embargo, el maestro carpintero no está seguro de qué tipo de madera sería mejor y te envía con Roiteloin, en Coerthas Central Highlands. Habla con ese erudito botanist en Skyfire Locks y escucha lo que tiene que decir.
+TEXT_CLSWDK580_02000_SEQ_04	Roiteloin lo piensa apenas un momento antes de sugerir la madera perfecta para tu proyecto: el abedul. Corta, cepilla y entrégale a Barthovieu tres piezas de lumber de alta calidad.
+TEXT_CLSWDK580_02000_SEQ_05	Barthovieu acepta las piezas de abedul y te agradece tu tiempo y tus molestias. Promete construir la trampa junto con Philipallais y te pide que esperes las buenas noticias de la muerte de Nguruvilu.<br><br>※La siguiente misión de carpenter estará disponible con Barthovieu al llegar al nivel 60.
+TEXT_CLSWDK580_02000_TODO_00	Encuentra a Philipallais cerca de los Holy Stables.
+TEXT_CLSWDK580_02000_TODO_01	Habla con Timbermaster Beatin en New Gridania.
+TEXT_CLSWDK580_02000_TODO_02	Habla con Roiteloin en Skyfire Locks.
+TEXT_CLSWDK580_02000_TODO_03	<if([lnum1<lnum2],Fabrica piezas de birch lumber <sheet(Addon,9,0)>,Entrégale las piezas de birch lumber <sheet(Addon,9,0)> a Barthovieu)>.
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_000	Me alegra poder verte, <split(<string(gstr1)>, ,1)>. Desde la última vez que hablamos, pasé todos mis ratos libres en el campo de tiro.
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_001	Ahora tengo la confianza de ser digno de tu arma y, con algo de suerte, podré abatir a Nguruvilu.
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_002	De hecho, ya me habría ido a hacerlo, pero el arco desapareció. Tampoco he visto hoy a Philipallais...
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_003	¿No creerás...? Rápido, ayúdame a buscar. Yo buscaré al muchacho por The Brume si tú vas a los Holy Stables.
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_005	Maldición, Philipallais, ¿dónde estás?
+TEXT_CLSWDK580_02000_PHILIPALLAIS_000_010	Si... ¡si no tiene su arco, no puede irse!
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_011	¡Philipallais! ¿¡En qué demonios estabas pensando!?
+TEXT_CLSWDK580_02000_PHILIPALLAIS_000_012	¿¡Por qué tienes que pelear con Nguruvilu!? ¿Y si esta vez no vuelves, papá? ¿¡Qué pasa entonces!?
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_013	Hijo... <italic(1)>sí<italic(0)> voy a volver. ¿Por qué crees que tomé el arco? El dragón no puede hacerme daño si no me alcanza.
+TEXT_CLSWDK580_02000_PHILIPALLAIS_000_014	¿¡Como no te alcanzó la última vez!? ¡Estarías muerto si no le hubiera dicho al sacerdote!
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_015	...¿Qué dijiste?
+TEXT_CLSWDK580_02000_PHILIPALLAIS_000_016	¡Le dije! Le rogué que ayudara para que tú... para que no... ¡Podrías haber <italic(1)>muerto<italic(0)>, papá!
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_017	Philipallais, nunca supe que te preocuparas tanto...
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_018	Pero tienes que entender que no tengo otro camino para ser caballero. ¡Sin la cabeza del dragón no tenemos futuro! ¡Y tú te mereces algo mejor que esta vida, hijo!
+TEXT_CLSWDK580_02000_PHILIPALLAIS_000_019	¡A mí me gusta esta vida! No quiero que te mueras, papá...
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_020	¡Hijo!
+TEXT_CLSWDK580_02000_PHILIPALLAIS_000_021	Papá, si... si de verdad <italic(1)>tienes<italic(0)> que pelear con él, ¡busca una forma más segura!
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_022	Si la hubiera, todos seríamos matadragones.
+TEXT_CLSWDK580_02000_PHILIPALLAIS_000_023	¿Acaso lo intentaste? Mis trampas atrapan aves... ¿Una trampa grande no podría atrapar a un dragón? ¡Así podrías matarlo fácilmente!
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_024	Yo... supongo que sí.
+TEXT_CLSWDK580_02000_PHILIPALLAIS_000_025	Necesitaríamos la madera adecuada, pero <split(<string(gstr1)>, ,1)> podría ayudarnos, ¿verdad?
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_026	...Es la mejor idea que he oído hasta ahora. Algunos me llamarían cobarde, pero puedo soportarlo por el muchacho... ¡Intentémoslo!
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_027	No puedo dejarlo solo. Como me quedé yo.
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_028	Necesitaremos tu ayuda, <split(<string(gstr1)>, ,1)>. Y buena madera. Para Nguruvilu, yo diría... tres piezas por lo menos. ¿Sabes de alguna que no se astille ni reteniendo a un dragón furioso?
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_029	Bueno, ¿y tu maestro carpintero? ¿No lo sabría?
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_035	El muchacho y yo estamos trabajando en un diseño para la trampa, <split(<string(gstr1)>, ,1)>. ¿Hubo suerte con la madera adecuada?
+TEXT_CLSWDK580_02000_BEATINE_000_040	¿Una trampa? ¿Para un <italic(1)>dragón<italic(0)>? Parece que esa lanza ishgardiana le llevó a lugares inesperados.
+TEXT_CLSWDK580_02000_BEATINE_000_041	Bueno, puedo decirle que lo que más le conviene es una madera verde: la ira del dragón destruirá cualquier cosa menos flexible. Sin embargo, la madera recién cortada puede congelarse. Debe buscar un tipo resistente a los climas fríos.
+TEXT_CLSWDK580_02000_BEATINE_000_042	No se me ocurre nada de inmediato. Pero conozco a un botanist que trabaja en el frío de Coerthas. Se llama Roiteloin y lo encontrará en Skyfire Locks. Es una especie de experto, y le sugiero que lo consulte.
+TEXT_CLSWDK580_02000_BEATINE_000_045	Creí haberle enviado a hablar con Roiteloin en Skyfire Locks.
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_050	¿Una madera verde resistente al frío de Ishgard? Preguntaré por ahí, pero te conviene hablar con un botanist.
+TEXT_CLSWDK580_02000_ROITELOIN_000_060	Quiere atrapar a un <italic(1)>dragón<italic(0)>, ¿eh? Bueno, ambición no le falta. Creo que el abedul sería lo mejor para su propósito.
+TEXT_CLSWDK580_02000_ROITELOIN_100_000	Esa madera no tiene la belleza del roble o de la teca, pero no tiene igual en flexibilidad. Además, absorbe poca humedad como madera verde y no se vuelve quebradiza al congelarse.
+TEXT_CLSWDK580_02000_BARTHOVIEU_100_010	¿Hubo suerte con la madera adecuada, <split(<string(gstr1)>, ,1)>?
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_070	Abedul, ¿eh? Si es tan flexible como dices, Nguruvilu no podrá soltarse. Sí, creo que con esto puedo construir una buena trampa.
+TEXT_CLSWDK580_02000_BARTHOVIEU_000_071	Sin duda te tomaste muchas molestias. Toma, ten esto. No es mucho, pero espero que muestre mi agradecimiento. Ahora, a ver si atrapo a ese dragón, ¿eh?
+TEXT_CLSWDK580_02000_SYSTEM_100_001	deleted
+TEXT_CLSWDK580_02000_SYSTEM_100_002	deleted

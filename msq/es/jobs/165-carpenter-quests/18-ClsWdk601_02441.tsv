@@ -1,0 +1,54 @@
+key	text
+TEXT_CLSWDK601_02441_SEQ_00	El ceño ya fruncido de Timbermaster Beatin se acentúa.
+TEXT_CLSWDK601_02441_SEQ_01	A Timbermaster Beatin le preocupa una joven llamada Cemi, que últimamente anda decaída. Se le ha acercado varias veces para saber qué le pasa, pero ella se niega a contarle sus penas. Creyendo que contigo estará más dispuesta a abrirse, te pide que la busques frente al gremio y le preguntes qué la tiene preocupada.
+TEXT_CLSWDK601_02441_SEQ_02	Cemi no tarda en revelar que le preocupa la situación actual del gremio o, más precisamente, el efecto que está teniendo en la salud del maestro del gremio. Te cuenta que las ganancias han ido cayendo y que Beatin se mata trabajando para compensar las pérdidas. Convencida de que llevó su cuerpo al límite, cree que llegó la hora de actuar. Te pide que la acompañes al Carline Canopy para ayudarla a entrevistar a los ciudadanos sobre qué tipo de muebles quieren comprar, y así encontrar una solución viable para aumentar los ingresos.
+TEXT_CLSWDK601_02441_SEQ_03	Hablando con la gente del Carline Canopy, descubres que los muebles del Lejano Oriente hacen furor entre los compradores. Parece que a la gente le encantan los métodos de fabricación más tradicionales y los patrones únicos de esos objetos exclusivos de esas regiones. Busca a Cemi e infórmale lo que descubriste.
+TEXT_CLSWDK601_02441_SEQ_04	A partir de lo reunido en el Carline Canopy, Cemi concluye que la única forma de que el Carpenters' Guild sobreviva es adaptar sus productos a los gustos del consumidor. Con ese fin, quiere convencer a Beatin de la importancia de ofrecer muebles de inspiración oriental, y te pide que la acompañes de vuelta al gremio para apoyarla.
+TEXT_CLSWDK601_02441_SEQ_05	Timbermaster Beatin se muestra sorprendentemente receptivo a lo que dice Cemi. Sin embargo, cuando ella le dice que el gremio debe empezar a producir muebles de estilo oriental para seguir el ritmo del mercado, la conversación da un giro inesperado, y Beatin responde a la sugerencia con una idea propia: quiere que ella viaje al Lejano Oriente en nombre del gremio y aprenda las formas tradicionales de fabricar muebles orientales. Encantada con la idea, la joven sale corriendo a prepararse para la partida, deteniéndose solo a decir que enviará una carta cuando llegue a su destino.<br><br>※La siguiente misión de carpenter estará disponible con Beatin al llegar al nivel 63.
+TEXT_CLSWDK601_02441_TODO_00	Habla con Cemi Jinjahl.
+TEXT_CLSWDK601_02441_TODO_01	Interroga a los gridanianos en el Carline Canopy.
+TEXT_CLSWDK601_02441_TODO_02	Habla con Cemi Jinjahl.
+TEXT_CLSWDK601_02441_TODO_03	Habla con Beatin.
+TEXT_CLSWDK601_02441_BEATINE_000_001	Ah, <split(<string(gstr1)>, ,1)>. Justamente a quien pensaba llamar.
+TEXT_CLSWDK601_02441_BEATINE_000_002	Una de nuestras nuevas reclutas parece desanimada últimamente. Aunque me le he acercado varias veces, se resiste a compartir sus problemas conmigo.
+TEXT_CLSWDK601_02441_BEATINE_000_003	¿Quizá pueda intentar hablar con ella? Seguramente será mucho más receptiva con <if(gnum4,una mujer valiente y afable,un hombre valiente y afable)> como usted.
+TEXT_CLSWDK601_02441_BEATINE_000_004	Se llama Cemi. La encontrará afuera, tratando cedar logs.
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_010	¡Santos dioses! ¡Usted... usted es <split(<string(gstr1)>, ,1)>! ¡Famos<if(gnum4,a aventurera,o aventurero)> y <if(gnum4,la discípula,el discípulo)> más prometedor de Beatin! ¿Qué hace aquí?
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_011	Ah, sí. <italic(1)>Eso<italic(0)>. \<suspiro> No es algo de lo que pueda hablar con la mayoría de los demás miembros del gremio, y mucho menos con Timbermaster Beatin...
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_012	...Verá, nuestro gremio... ¡e-está en peligro! ¡Nuestras ventas siguen cayendo y, si esta tendencia continúa, no sé qué va a ser de él!
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_013	Pero lo que más me preocupa es lo que esto le está costando al maestro del gremio. Trabaja sin descanso y se niega a parar siquiera para comer o beber. ¡Es casi como si intentara compensarlo todo a costa de su propia salud!
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_014	Si esto sigue, me temo que no tendrá fuerzas para sostener un serrucho, y mucho menos para devolverle al Carpenters' Guild su antigua gloria.
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_015	¡Pero todavía no está todo perdido! Quizá encontré una solución. ¡Si hablamos con algunos habitantes para saber qué diseños de muebles están de moda, podemos adaptar nuestros productos a sus gustos y mejorar las ventas!
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_016	Pero es una tarea monumental para una sola persona, y más aún para una carpenter sin experiencia como yo. <split(<string(gstr1)>, ,1)>, por favor, ¿me ayudaría?
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_017	¡Oh, gracias! ¡Muchísimas gracias!
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_018	Bien, ¡empecemos por entrevistar a posibles clientes en el Carline Canopy!
+TEXT_CLSWDK601_02441_BEATINE_000_020	¿No pudo encontrarla? Le sugiero que vuelva a buscar. Aunque es propensa a distraerse, no es de las que abandonan sus deberes tan fácilmente.
+TEXT_CLSWDK601_02441_NAOHGAMDUHLA_000_030	¿Qué clase de muebles he estado comprando <italic(1)>yo<italic(0)>?
+TEXT_CLSWDK601_02441_NAOHGAMDUHLA_000_031	Hm. Últimamente he comprado muchas cosas de estilo oriental. Después de todo, es lo que está de moda.
+TEXT_CLSWDK601_02441_ADALHARD_000_032	Hace poco terminé de construir una casa en The Lavender Beds y la he estado amueblando con piezas de estilo domano.
+TEXT_CLSWDK601_02441_ADALHARD_000_033	Los patrones audaces y a la vez delicados de gran parte de su trabajo me encantan.
+TEXT_CLSWDK601_02441_PFARAHR_000_034	¿Muebles?
+TEXT_CLSWDK601_02441_PFARAHR_000_035	Debo decir que los muebles hinganos que van llegando del Lejano Oriente me han conmovido. La gente suele estar demasiado dispuesta a abandonar su propia herencia con tal de seguir la última moda. A mí, en cambio, me reconforta saber que mis muebles encarnan generaciones y generaciones de tradición.
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_040	¿¡Pero por qué!? ¿¡Por qué no compra ninguno de nuestros muebles!? ¡Son de lo mejor que va a encontrar, hechos por los mejores de Gridania!
+TEXT_CLSWDK601_02441_ANTOINAUT_000_045	¡En qué gasto mi dinero no es asunto suyo! Ahora, cálmese, o tendré que llamar a los Wailers para que la saquen de aquí.
+TEXT_CLSWDK601_02441_BEATINE_000_046	¿Ya de vuelta? Entonces, ¿descubrió qué tiene preocupada a nuestra querida Cemi?
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_050	¿Cómo es que los muebles del Lejano Oriente han superado tanto en popularidad a nuestros productos? Gridania es hogar de carpenters de habilidad inigualable... \<suspiro> O, al menos, eso creía.
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_051	¡A este paso, nuestro gremio caerá en el olvido! ¡Tenemos que convencer a Timbermaster Beatin de que empiece de inmediato a producir muebles de estilo oriental si queremos tener alguna posibilidad de sobrevivir!
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_052	Si tuviera más influencia sobre él, no dudaría en entrar y decírselo, pero tal como están las cosas, me temo que no va a tomar en serio lo que le diga.
+TEXT_CLSWDK601_02441_CEMIJINJAHL_100_052	Pero si usted, su mejor alumn<if(gnum4,a,o)>, me acompañara, ¡mis palabras tendrían mucho más peso!
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_053	¿¡Vendrá conmigo!? ¡Fantástico! ¡Vamos a presentarle mi idea al maestro del gremio, entonces!
+TEXT_CLSWDK601_02441_BEATINE_000_060	¿Supongo que vinieron porque hay algo que desean tratar? Muy bien. Adelante.
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_061	Señor, como quizá ya sepa, los muebles orientales están inundando el mercado últimamente. ¡Con hombres y mujeres de toda Gridania, y hasta de toda Eorzea, ansiosos por comprarlos, corremos un gran riesgo de quedarnos atrás!
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_062	¡Creo, sin embargo, que si nos adelantamos a esta tendencia y empezamos a fabricar productos de diseño oriental, podemos convencer a más clientes de que nos compren y mejorar la situación del gremio!
+TEXT_CLSWDK601_02441_BEATINE_000_063	...¿Oh? ¿Y cree que bastará con producir burdas imitaciones?
+TEXT_CLSWDK601_02441_BEATINE_000_064	No permitiré que se diga que comprometemos la calidad. Si de verdad está decidida a llevar a cabo esta propuesta, la apoyaré, siempre que acepte una condición.
+TEXT_CLSWDK601_02441_BEATINE_000_065	Viajará a Kugane. Allí se sumergirá en su rica historia y su cultura, que le han dado forma a su oficio.
+TEXT_CLSWDK601_02441_BEATINE_000_066	Una mejor comprensión de estas cosas le permitirá producir objetos de calibre similar a los que se encuentran en esa misma región.
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_067	¿Eso es todo? ¿Esa es la condición? Claro. ¡Me encantaría ir! De hecho, ¡me prepararé para partir de inmediato!
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_068	¡Deséeme suerte! ¡Le enviaré una carta cuando llegue!
+TEXT_CLSWDK601_02441_BEATINE_000_069	Me pregunto si de verdad entiende por qué la envío allí...
+TEXT_CLSWDK601_02441_BEATINE_000_070	\<suspiro> Al menos parece haber superado su desánimo... Sospecho que eso se lo debo a usted, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_071	Bien, supongo que ahora solo nos queda esperar su carta.
+TEXT_CLSWDK601_02441_SYSTEM_000_080	La siguiente misión de carpenter estará disponible con Beatin al llegar al nivel 63.
+TEXT_CLSWDK601_02441_SYSTEM_000_081	Puedes revisar los requisitos para emprender las siguientes misiones en tu Journal.
+TEXT_CLSWDK601_02441_CEMIJINJAHL_000_075	Oh, espero que el Maestro Beatin no se ofenda. ¿Y si me dirige su mirada iracunda y me mata en el acto?

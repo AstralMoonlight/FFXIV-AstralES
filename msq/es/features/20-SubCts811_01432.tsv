@@ -1,0 +1,32 @@
+key	text
+TEXT_SUBCTS811_01432_SEQ_00	Algo le pesa en la mente a este aventurero...
+TEXT_SUBCTS811_01432_SEQ_01	Te pidieron investigar la desaparición de una retainer que salió a una supuesta "venture". Ve a Nine Ivies, en East Shroud, donde se la vio por última vez.
+TEXT_SUBCTS811_01432_SEQ_02	Encuentras a la retainer desaparecida y la salvas de una muerte horrible a manos de bestias salvajes, con lo que te ganas su gratitud. En lugar de recompensarte, te pide que vuelvas a Gridania y hables con su supervisora, Parnell, en el Shaded Bower.
+TEXT_SUBCTS811_01432_SEQ_03	Al ver que no conoces los últimos servicios que ofrecen los retainers, Parnell te explica que las ventures son expediciones de recolección que puedes encargarles a tus retainers. Luego te regala varias ventures, un vale especial con el que se pagan estos servicios. Ahora que ya lo sabes, puedes hablar con tus retainers y asignarles estas tareas cuando quieras.
+TEXT_SUBCTS811_01432_TODO_00	Busca en Nine Ivies a la retainer desaparecida.
+TEXT_SUBCTS811_01432_TODO_01	Habla con Parnell en Old Gridania.
+TEXT_SUBCTS811_01432_SYSTEM_000_000	Varios aventureros tienen dificultades para convocar a sus retainers. Si quieres ayudarlos, encontrarás a estas almas en apuros en Limsa Lominsa, Gridania y Ul'dah.
+TEXT_SUBCTS811_01432_SYSTEM_000_001	La recompensa es la misma sin importar a quién ayudes, así que no dudes en socorrer al aventurero que prefieras.
+TEXT_SUBCTS811_01432_MASTER01432_000_009	Nunca había ignorado una convocatoria...
+TEXT_SUBCTS811_01432_MASTER01432_000_010	Disculpe, <if(gnum4,señora,señor)>, ¿me haría el favor de ayudar a un colega aventurero?
+TEXT_SUBCTS811_01432_MASTER01432_000_011	Es por mi retainer. No ha vuelto de su última venture a Nine Ivies, y temo que le haya pasado algo terrible.
+TEXT_SUBCTS811_01432_MASTER01432_000_012	La buscaría yo mismo si pudiera, pero tengo una cita importante a la que no puedo faltar. ¿Quizá usted podría ir a buscarla en mi lugar?
+TEXT_SUBCTS811_01432_MASTER01432_000_020	Hace poco envié a mi retainer a Nine Ivies. Iba a ser una venture de rutina, pero todavía no regresa...
+TEXT_SUBCTS811_01432_RETAINER01432_000_030	¡Los Twelve se lo paguen, <if(gnum4,aventurera,aventurero)>! Estaba tan concentrada en mi tarea que no vi a los buitres a mi espalda.
+TEXT_SUBCTS811_01432_RETAINER01432_000_031	Veo que no entiende. ¿No ha oído hablar de las ventures? Es un servicio en el que los retainers realizamos expediciones de recolección en nombre de nuestros empleadores.
+TEXT_SUBCTS811_01432_RETAINER01432_000_032	Por desgracia, algunos no suelen darnos el equipo suficiente, pese a los beneficios evidentes que traería a ambas partes-
+TEXT_SUBCTS811_01432_RETAINER01432_000_033	¡Ah! ¿Me ha estado llamando todo este tiempo? Disculpe, por favor.
+TEXT_SUBCTS811_01432_RETAINER01432_000_034	Perdone, Maestro, me atacaron unas bestias. ...Sí, me salvó <if(gnum4,una,un)> <sheet(ClassJob,gnum68,0)> <switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>. ¿Cómo lo supo? ...Por supuesto, como ordene.
+TEXT_SUBCTS811_01432_RETAINER01432_000_035	\<suspiro> Parece que debo marcharme enseguida. Pero antes, permítame agradecerle.
+TEXT_SUBCTS811_01432_RETAINER01432_000_036	No tengo con qué pagarle, pero si le cuenta a mi supervisora, Parnell, lo que hizo, estoy segura de que le dará una recompensa.
+TEXT_SUBCTS811_01432_RETAINER01432_000_037	¡Hasta la próxima, <if(gnum4,amiga mía,amigo mío)>! ¡Y no se olvide de visitar a Parnell en el Shaded Bower!
+TEXT_SUBCTS811_01432_PARNELL_000_040	Saludos, <if(gnum4,señora,señor)>. Esperaba su visita. La retainer que rescató no tuvo más que elogios para usted.
+TEXT_SUBCTS811_01432_PARNELL_000_041	Claro está que los retainers pueden rechazar una venture si la consideran demasiado peligrosa. Por desgracia, esta joven es nueva en la profesión y su empleador la convenció fácilmente de aceptar.
+TEXT_SUBCTS811_01432_PARNELL_000_042	¿Perdón? ¿Desea saber más sobre las ventures? ¡Por supuesto, será un placer explicarle!
+TEXT_SUBCTS811_01432_PARNELL_000_043	En colaboración con el Adventurers' Guild, establecimos un nuevo sistema por el cual se puede enviar a los retainers a conseguir objetos para sus empleadores.
+TEXT_SUBCTS811_01432_PARNELL_000_044	Si desea disponer de este servicio adicional, deberá pagarle por adelantado a su retainer con ventures, vales que emite el Adventurers' Guild. Aquí tiene, le ruego que acepte estas ventures de cortesía con mi agradecimiento.
+TEXT_SUBCTS811_01432_PARNELL_000_045	Tenga en cuenta que la mayoría de los retainers no tienen la habilidad para hacer más que las tareas más sencillas. Por supuesto, eso cambiará a medida que ganen experiencia. Si suena abrumador, le aseguro que en la práctica es simple. ¿Por qué no habla con sus retainers y ve qué opinan?
+TEXT_SUBCTS811_01432_SYSTEM_000_0050	Ya puedes enviar en ventures a los retainers que tengas contratados.
+TEXT_SUBCTS811_01432_SYSTEM_000_0051	Convoca al retainer que quieras enviar y sigue las instrucciones para empezar.
+TEXT_SUBCTS811_01432_POPMESSAGE_000_000	¡El enemigo sigue cerca!
+TEXT_SUBCTS811_01432_POPMESSAGE_000_001	¡Sientes una presencia hostil!

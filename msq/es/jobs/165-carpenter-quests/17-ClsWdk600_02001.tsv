@@ -1,0 +1,82 @@
+key	text
+TEXT_CLSWDK600_02001_SEQ_00	El ceño fruncido de Barthovieu no promete nada bueno.<br><br><colortype(500)><edgecolortype(501)>Para completar esta misión, debes haber aprendido las recetas avanzadas de <italic(1)>Master Carpenter III<italic(0)>.<edgecolortype(0)><colortype(0)>
+TEXT_CLSWDK600_02001_SEQ_01	Sin que la madera que le diste tuviera la culpa, Nguruvilu escapó de la trampa. Barthovieu aprendió de esta experiencia que su conocimiento del dragón está lejos de ser completo, y ahora desea examinar una de sus escamas. Cree que al menos una pudo habérsele caído al Dravanian dentro de la trampa. Ve a The Convictory y habla con uno de los soldados para examinar la trampa, ahora quemada.
+TEXT_CLSWDK600_02001_SEQ_02	Al hablar con el soldado tembloroso, te enteras de que convirtió en leña lo que quedaba de la trampa. Sin embargo, al hacerlo encontró una punta de lanza, y deduce que el arma estaba enterrada en el cuerpo de Nguruvilu. Como no se puede quemar para dar calor, te la entrega. Llévasela a Barthovieu en The Brume y averigua si tiene alguna importancia.
+TEXT_CLSWDK600_02001_SEQ_03	Barthovieu está atónito: la punta de lanza es de su padre, y una vez adornó la misma lanza con la que empezó esta aventura. Comprende que a su padre no lo mataron unas bestias, sino que murió peleando contra Nguruvilu, como un caballero. La lanza permaneció en el cuerpo del dragón hasta que este voló sobre The Black Shroud. La punta se soltó hace poco. Barthovieu exclama que ahora puede matar al dragón clavándole una lanza por la herida de sus escamas. Philipallais se altera y sale corriendo, pero Barthovieu no se deja disuadir. Te pide que le hagas una lanza capaz de acabar por fin con el monstruo: un adamantite trident de alta calidad.<br><br><colortype(500)><edgecolortype(501)>Para completar esta misión, debes haber aprendido las recetas avanzadas de <italic(1)>Master Carpenter III<italic(0)>.<edgecolortype(0)><colortype(0)>
+TEXT_CLSWDK600_02001_SEQ_04	A Barthovieu se le iluminan los ojos de emoción cuando le entregas su adamantite trident. Jura quitarle la vida a Nguruvilu. Sin embargo, antes de irse, te pide que hables con Philipallais. Busca al niño cerca de los Holy Stables e intenta hacerle ver por qué Barthovieu debe librar esta batalla.
+TEXT_CLSWDK600_02001_SEQ_05	A Philipallais le sorprende saber que su padre va a la batalla por el honor de su difunto abuelo. Tras pensarlo un momento, decide creer en Barthovieu. Te pide que lo acompañes a ver la batalla. Dirígete al norte de The Convictory y reúnete con Barthovieu.
+TEXT_CLSWDK600_02001_SEQ_06	La batalla de Barthovieu con Nguruvilu es encarnizada, y tu amigo parece estar perdiendo. Justo cuando Philipallais aparta la mirada, Barthovieu logra asestar el golpe mortal, clavando hondo en el pecho de Nguruvilu la lanza que le hiciste. Habla ahora con Barthovieu al norte de The Convictory y felicítalo por su victoria.
+TEXT_CLSWDK600_02001_SEQ_07	Barthovieu está eufórico, tanto por su triunfo como porque su hijo estuvo allí para verlo. Sin embargo, reconoce que fue injusto con su propio padre, y ahora desea visitar su tumba. Acompáñalo a dar las gracias en el cementerio de Gorgagne Mills.
+TEXT_CLSWDK600_02001_SEQ_08	Observas cómo Barthovieu se disculpa ante la tumba de su padre y le presenta a su propio hijo. Ahora que es un verdadero matadragones, Barthovieu jura limpiar el nombre de su padre. Y por último, te da las gracias a ti, su firme compañer<if(gnum4,a,o)>, por ayudarlo en su camino hacia la redención.<br><br>※La siguiente misión de carpenter estará disponible con Beatin cuando completes la misión del escenario principal "The Far Edge of Fate".
+TEXT_CLSWDK600_02001_TODO_00	Habla con el caballero tembloroso en The Convictory.
+TEXT_CLSWDK600_02001_TODO_01	Entrégale la furite spearhead a Barthovieu.
+TEXT_CLSWDK600_02001_TODO_02	<if([lnum1<lnum2],Fabrica un adamantite trident <sheet(Addon,9,0)>,Entrégale el adamantite trident <sheet(Addon,9,0)> a Barthovieu)>.
+TEXT_CLSWDK600_02001_TODO_03	Habla con Philipallais cerca de los Holy Stables.
+TEXT_CLSWDK600_02001_TODO_04	Reúnete con Barthovieu al norte de The Convictory.
+TEXT_CLSWDK600_02001_TODO_05	Habla con Barthovieu.
+TEXT_CLSWDK600_02001_TODO_06	Habla con Barthovieu al este de Gorgagne Mills.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_000	¡Lo <italic(1)>tenía<italic(0)>, <split(<string(gstr1)>, ,1)>! Justo en la trampa, retorciéndose...
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_001	Pero cometí un error estúpido. Es cierto que Nguruvilu no podía salir a la <italic(1)>fuerza<italic(0)>, pero... bueno, nunca pensé que escupiera fuego.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_002	Claro, le disparé flechas como un loco cuando se soltó. Pero rebotaban en sus escamas. Así que huí, como le prometí a Philipallais.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_003	Pero todavía no he terminado. Esta experiencia me enseñó que no conozco a Nguruvilu como debería. Debe de tener un punto débil, y pienso encontrarlo. Quisiera tu ayuda, si estás dispuest<if(gnum4,a,o)>.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_004	El problema es su armadura. Tengo que descubrir cómo atravesarla. Y se revolcó tanto en la trampa que apuesto a que dejó alguna escama.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_005	¿Podrías ir a examinar los restos? Ahora están en The Convictory. Dale mi nombre al soldado de allí y te dejará echar un vistazo.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_006	Discutiremos una estrategia cuando vuelvas. Por ahora, quisiera pasar un rato con mi muchacho.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_010	La trampa está en The Convictory, o lo que queda de ella, al menos.
+TEXT_CLSWDK600_02001_SAMUGARI02001_000_020	¿Barthovieu? Ah, la trampa... La convertí en leña. ¡Aquí hace un frío de muerte!
+TEXT_CLSWDK600_02001_SAMUGARI02001_000_021	Pero encontré una punta de lanza. Seguro que la tenía clavada el dragón. Quédatela. No se puede quemar, ¿o sí?
+TEXT_CLSWDK600_02001_SAMUGARI02001_000_025	¿Quieres saber el punto débil del dragón? ¡Qué exigente! ¿¡No te bastó con la punta de lanza!?
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_030	¿Y bien? ¿Encontraste la escama de Nguruvilu?
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_031	Por los siete infiernos, <split(<string(gstr1)>, ,1)>... ¿Recuerdas la lanza de mi padre? Esta... ¡esta es su punta! ¡Eso solo puede significar que peleó con Nguruvilu!
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_032	Pero eso significa... ¡significa que lo mató Nguruvilu! ¡Mi padre tuvo muerte de caballero!
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_033	¡Mi padre debió de clavarle la lanza a Nguruvilu! Se le quedó en el cuerpo, incluso durante su sueño de veinte años... \<sollozo>
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_034	Cuando el dragón despertó, voló por algún lugar sobre The Shroud, y allí cayó el asta. Solo quedó la punta...
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_035	Al encontrar las piezas de la lanza, supimos la verdad. Pero el destino fue todavía más generoso. También nos dio la forma de matar a Nguruvilu.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_036	¡En algún lugar, entre las escamas del dragón, hay una herida abierta! La punta clavada allí tanto tiempo la habrá mantenido abierta. Si le meto una flecha...
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_037	Pero ¿puedo acertarle a semejante blanco? Si fallo... No. No puedo arriesgarme. Aquí solo sirve la lanza.
+TEXT_CLSWDK600_02001_PHILIPALLAIS_000_038	¡N-No! ¡Por favor, papá, no! ¡Es demasiado peligroso!
+TEXT_CLSWDK600_02001_PHILIPALLAIS_000_039	¡El abuelo peleó con Nguruvilu con una lanza y <italic(1)>murió<italic(0)>! ¡La última vez apenas escapaste, y solo porque usabas un arco!
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_040	Puedo terminar con esto de una sola estocada, Philipallais. Además, soy mejor con la lanza, y tengo <if(gnum4,una aliada,un aliado)> que tu abuelo no tenía.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_041	<split(<string(gstr1)>, ,1)>. <if(gnum4,Ella,Él)> puede fabricarme un arma mejor que la de mi padre. No voy a perder, hijo... ¡No puedo perder!
+TEXT_CLSWDK600_02001_PHILIPALLAIS_000_042	¡Bien! ¡Muérete! ¡A ver si me importa!
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_043	Hijo... Lo siento, pero ya lo decidí. <split(<string(gstr1)>, ,1)>, necesito una lanza nueva. La de mi padre era de furite, pero yo quiero un adamantite trident.
+TEXT_CLSWDK600_02001_BARTHOVIEU_100_000	Vale el gil, aunque tenga que echar mano de mis reservas. ¡Y si me permite limpiar el nombre mancillado de mi padre, pon el precio que quieras!
+TEXT_CLSWDK600_02001_SYSTEM_900_000	Para completar esta misión, debes haber aprendido las recetas avanzadas de <italic(1)>Master Carpenter III<italic(0)>.
+TEXT_CLSWDK600_02001_BARTHOVIEU_100_010	Tendré la vida de Nguruvilu por la de mi padre, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_050	Sí, esto es lo que necesito: una punta afilada como garra de dragón y un asta sólida que se adapta a la mano. Hasta viniendo de ti, es mejor de lo que soñé.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_051	Para matar a Nguruvilu tendré que clavarle esto en el corazón por la herida que le dejó mi padre. No me cabe duda de que con esto podré.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_052	Esperaré al Dravanian donde caza, al norte de The Convictory.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_053	Pero tengo un último pedido. Philipallais andará enfurruñado por los Holy Stables. Por favor, dile por qué hago esto, ¡y que voy a volver a casa!
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_055	Philipallais tiene que saber que <italic(1)>voy<italic(0)> a volver a casa. Pase lo que pase.
+TEXT_CLSWDK600_02001_PHILIPALLAIS_000_060	¿Por el honor del abuelo? ¿De... de verdad dijo eso?
+TEXT_CLSWDK600_02001_PHILIPALLAIS_000_061	Nunca dijo nada bueno del abuelo... Pusilánime. Tonto. Hasta traidor. Pero quizá siempre creyó en él. En secreto.
+TEXT_CLSWDK600_02001_PHILIPALLAIS_000_062	...Está bien. Yo también voy a creer en mi papá.
+TEXT_CLSWDK600_02001_PHILIPALLAIS_100_020	No puedo quedarme sentado esperando a que vuelva a casa, ¿o sí? ¡Por favor, ven conmigo a verlo, <split(<string(gstr1)>, ,1)>!
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_065	¿Ya hablaste con Philipallais? Bien. Ahora puedo ir a la batalla con la mente despejada.
+TEXT_CLSWDK600_02001_PHILIPALLAIS_000_070	P-Pero la lanza... Y Nguruvilu estaba...
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_071	¿Viste eso, padre? No podría haberlo hecho sin ti.
+TEXT_CLSWDK600_02001_PHILIPALLAIS_000_072	¡Lo lograste, lo lograste!
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_073	¿Philipallais? ¿¡Qué haces aquí, en nombre de Halone!?
+TEXT_CLSWDK600_02001_PHILIPALLAIS_000_074	¡Papá! Cómo te moviste con la lanza... ¡Hice mal en dudar de ti! ¡Ahora eres un verdadero matadragones!
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_075	Je, sí que lo soy. Vengué a mi padre y limpié su nombre. ¡Me gané el maldito título!
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_076	Cuando la orden me reconozca, por fin tendrás la vida que te mereces, hijo.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_077	<split(<string(gstr1)>, ,1)>, te pedí mucho y nunca me fallaste. Tienes mi gratitud.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_078	No podría haber matado a Nguruvilu sin esta lanza. Si mi padre hubiera tenido un arma así...
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_079	Tengo que ir a donde descansa y disculparme... Perdí la fe en él. Hice caso de lo que decían los demás. Demonios, yo también dije muchas cosas feas en estos años...
+TEXT_CLSWDK600_02001_PHILIPALLAIS_000_080	¿Dónde está, papá?
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_081	Cerca. Nunca he ido. Pero es hora de que lo conozcas, Philipallais.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_090	El muchacho y yo vamos a visitar la tumba de mi padre. Está en el cementerio de Gorgagne Mills, no muy lejos de aquí.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_091	Le habrías caído bien, <split(<string(gstr1)>, ,1)>. ¿Por qué no nos acompañas?
+TEXT_CLSWDK600_02001_PHILIPALLAIS_100_030	¡Mi papá estuvo <italic(1)>increíble<italic(0)>! Gracias por darme la oportunidad de verlo.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_095	Estaría bien presentarle el muchacho a mi padre. ¿Vienes con nosotros?
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_100	Padre, yo... Eh... <if(gnum4,Esta,Este)> es <split(<string(gstr1)>, ,1)>. <if(gnum4,Ella,Él)> hizo el tridente. Eh... lo que quiero decir es que... Nguruvilu está muerto. Yo lo maté.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_101	Y este, este es Philipallais. Es mi hijo... y tu nieto. Debí traerlo antes.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_102	Debí hacer muchas cosas antes. Creer en ti. Defender tu honor. <italic(1)>Fuiste<italic(0)> un caballero valiente y... y un hombre mejor que yo.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_103	El golpe que mató a Nguruvilu fue el mío, pero solo porque tu estocada fue certera. Adiós, padre. Volveré.
+TEXT_CLSWDK600_02001_BARTHOVIEU_000_104	Iremos a contarles la verdad sobre mi padre a los Temple Knights. Sí, y la muerte del dragón también. Gracias, <split(<string(gstr1)>, ,1)>. Nada de esto habría sido posible sin ti.
+TEXT_CLSWDK600_02001_SYSTEM_100_001	deleted
+TEXT_CLSWDK600_02001_SYSTEM_100_002	deleted
+TEXT_CLSWDK600_02001_PHILIPALLAIS_100_040	Gracias, <split(<string(gstr1)>, ,1)>. Mi papá nunca habría llegado tan lejos sin ti.
+TEXT_CLSWDK600_02001_SYSTEM_000_500	Con esto concluyen las misiones de carpenter de FINAL FANTASY XIV: Heavensward. Para emprender la siguiente serie de misiones, primero debes cumplir el siguiente requisito:
+TEXT_CLSWDK600_02001_SYSTEM_000_501	※Haber completado la misión del escenario principal "The Far Edge of Fate".
+TEXT_CLSWDK600_02001_SYSTEM_000_502	Una vez hecho esto, la siguiente misión de carpenter estará disponible con Beatin.

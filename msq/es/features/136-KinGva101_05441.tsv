@@ -1,0 +1,175 @@
+key	text
+TEXT_KINGVA101_05441_SEQ_00	Shallow Moor tiene un trabajo ocasional para quien tenga espíritu emprendedor.
+TEXT_KINGVA101_05441_SEQ_01	Shallow Moor te transmite un trabajo ocasional de alguien que al parecer te conoce de nombre: una tal Y'nazqha, gleaner y hermana menor nada menos que de Y'shtola. Te pide ayuda en una búsqueda muy poco común: protegerla mientras explora las páginas de un libro mágico que le dejó su difunto padre. Por la naturaleza del libro, hay que tenerlo bajo estricta vigilancia, así que Y'nazqha te indica que vayas cuanto antes al alojamiento de los gleaners en Journey's End para saber más.
+TEXT_KINGVA101_05441_SEQ_02	Y'nazqha te informa que el libro en cuestión se titula <italic(1)>The Merchant's Tale<italic(0)>, una fábula transmitida en Corvos que narra la búsqueda de un gran tesoro por parte de un joven mercader. Aunque el encantamiento del manuscrito hace casi seguro que leerlo sea peligroso, tu compañía anima a la joven gleaner, que parece lista para saltar a un mundo de ficción a tu señal.
+TEXT_KINGVA101_05441_SEQ_03	Cuando sostienen el tomo mágico ante ustedes, su tapa empieza a brillar y el mundo se desvanece en una bruma de luz blanca. Su resplandor pronto se apaga y se encuentran en un cuarto pequeño pero bien cuidado. Es más, no están solos. Una joven le habla a Y'nazqha, que ahora viste como el mercader de la historia. Una escena se desarrolla ante ti y, cuando termina el diálogo, sospechas que la gleaner sabe cómo hacer avanzar la historia.<br><br>※Si sales del área, puedes volver leyendo <italic(1)>The Merchant's Tale<italic(0)> en Journey's End.
+TEXT_KINGVA101_05441_SEQ_04	Sin un camino claro hacia lo siguiente de la trama, Y'nazqha y tú inspeccionan el cuarto. Aunque lo que encuentran solo da vagas pistas de lo que vendrá, tu compañera parece ansiosa por adentrarse más en el libro.<br><br>※Puedes acceder a <italic(1)>The Merchant's Tale<italic(0)> desde el V&C Dungeon Finder.<br>※Para abrir el V&C Dungeon Finder, interactúa con el pasaje al siguiente capítulo o elige la opción que está en Duty, en el menú principal.
+TEXT_KINGVA101_05441_SEQ_05	Tras un viaje lleno de lugares fantásticos y batallas feroces, Y'nazqha y tú presencian la escena final de <italic(1)>The Merchant's Tale<italic(0)>, o una de las escenas finales, en todo caso. Libre de las páginas del manuscrito encantado, Y'nazqha te pide que te reúnas con ella en Journey's End para hablar de lo que vivieron.
+TEXT_KINGVA101_05441_SEQ_06	Y'nazqha te agradece tu valor y tu ayuda para saber más del recuerdo que le dejó su difunto padre, y te pide que la ayudes a explorar más el libro cuando tengas tiempo. Con tu trabajo terminado, solo queda volver con Shallow Moor para cobrar.
+TEXT_KINGVA101_05441_SEQ_07	Shallow Moor te felicita por un trabajo bien hecho, feliz de tener a otra persona satisfecha. Pero <italic(1)>The Merchant's Tale<italic(0)> aún guarda secretos, y Y'nazqha cuenta con tu protección para descubrir todos los maravillosos pasajes aún sin leer.
+TEXT_KINGVA101_05441_TODO_00	Habla con Y'nazqha.
+TEXT_KINGVA101_05441_TODO_01	Habla con Y'nazqha.
+TEXT_KINGVA101_05441_TODO_02	Habla con Y'nazqha en la casa de la doncella.
+TEXT_KINGVA101_05441_TODO_03	Entra en <italic(1)>The Merchant's Tale<italic(0)>.
+TEXT_KINGVA101_05441_TODO_04	Habla con Y'nazqha en Old Sharlayan.
+TEXT_KINGVA101_05441_TODO_05	Habla con Shallow Moor.
+TEXT_KINGVA101_05441_SHALLOWMOOR_000_000	¡Vaya, pero si es <split(<string(gstr1)>, ,1)>! ¿Buscas trabajo para mantener las manos ocupadas? Pues tienes suerte, porque una clienta nuestra pidió específicamente que <italic(1)>tú<italic(0)> hagas un trabajito. Una muchacha Miqo'te que parece conocerte, de hecho.
+TEXT_KINGVA101_05441_SHALLOWMOOR_000_001	Ja, ya veo que te mueres por saber quién es. Se llama Y'nazqha, una gleaner. ¿Te suena el nombre?
+TEXT_KINGVA101_05441_SHALLOWMOOR_000_002	Ah, supongo que no hace falta pensarlo mucho. ¡Ahí está!
+TEXT_KINGVA101_05441_SHALLOWMOOR_100_002	¡Nazqha! No es momento de consentir tu paladar aventurero. ¡<if(gnum4,La mujer,El hombre)> que pediste está aquí!
+TEXT_KINGVA101_05441_YNAZQHA_110_002	¡Disculpen! Encontré un ingrediente nuevo a la venta y simplemente tenía que probarlo.
+TEXT_KINGVA101_05441_YNAZQHA_000_003	¿<if(gnum4,La única e incomparable,El único e incomparable)> <split(<string(gstr1)>, ,1)>, supongo? Es un placer conocerle por fin. Gracias por cuidar de mi hermana mayor. Shtola puede dar bastante trabajo.
+TEXT_KINGVA101_05441_YNAZQHA_000_004	Entiendo que hasta Mhitra ha contado con su ayuda. No es fácil ganarse su respeto, así que imagine mi sorpresa cuando empezó a cantar sus alabanzas.
+TEXT_KINGVA101_05441_YNAZQHA_000_005	Cuando tuve motivos para buscar a <if(gnum4,una aventurera hábil,un aventurero hábil)>, supe que tenía que ser usted. Si mi familia puede confiarle asuntos que estremecen la tierra, ¿a quién mejor recurrir para un trabajito?
+TEXT_KINGVA101_05441_YNAZQHA_000_006	Si no tiene objeciones, quisiera empezar de inmediato. Entonces, ¿se aventurará conmigo en las páginas de un antiguo folclore?
+TEXT_KINGVA101_05441_YNAZQHA_000_007	Ah, supongo que es un pedido raro si no se explica, ¿verdad? Permítame aclararlo.
+TEXT_KINGVA101_05441_YNAZQHA_000_008	Verá, soy una gleaner especializada en recuperar todo tipo de documentos y manuscritos. Hasta hace poco estudiaba con mi padre y mentor, Y'rhul Nunh.
+TEXT_KINGVA101_05441_YNAZQHA_000_009	Por desgracia, sucumbió a una enfermedad durante una misión en una tierra lejana. Fue... una pérdida terrible para todas.
+TEXT_KINGVA101_05441_YNAZQHA_100_009	...Ah, perdón. No quise echar a perder el ánimo.
+TEXT_KINGVA101_05441_YNAZQHA_110_009	Estaba con él cuando murió, así que por suerte pude despedirme. Pero quedarme de pronto sola en una tierra desconocida fue difícil, por decir lo menos.
+TEXT_KINGVA101_05441_YNAZQHA_120_009	Por suerte, mis hermanas estuvieron ahí para apoyarme en los momentos más duros.
+TEXT_KINGVA101_05441_YNAZQHA_000_010	Igual que mi padre, a su manera. Me dejó un recuerdo, que es justamente el centro de mi pedido.
+TEXT_KINGVA101_05441_YNAZQHA_000_011	Es un manuscrito bellamente iluminado con un encantamiento traicionero: puede atraer la mente misma del lector a sus páginas. Ni falta hace decir que un tomo tan raro es famoso entre los coleccionistas de documentos únicos y peligrosos.
+TEXT_KINGVA101_05441_YNAZQHA_100_011	Aunque parezca un regalo extraño, sé que mi padre me lo dio por algo. Y aunque sea arriesgado, debo leer cada página para saber por qué.
+TEXT_KINGVA101_05441_YNAZQHA_000_012	Ahora espero que entienda por qué pedí su compañía. ¿Podría protegerme mientras exploro este mundo de ficción?
+TEXT_KINGVA101_05441_Q1_000_000	¿Qué vas a decir?
+TEXT_KINGVA101_05441_A1_000_001	¡Siempre quise formar parte de un libro de cuentos!
+TEXT_KINGVA101_05441_A1_000_002	Nunca le diría que no a la hermana de Y'shtola.
+TEXT_KINGVA101_05441_YNAZQHA_000_013	¡Sabía que no rechazaría una aventura! Sobre todo a una tierra que pocos han visto.
+TEXT_KINGVA101_05441_YNAZQHA_000_014	¡Qué consuelo oírlo!
+TEXT_KINGVA101_05441_YNAZQHA_000_015	Como imaginará, un libro así debe guardarse lejos de miradas indiscretas, así que lo dejé bajo custodia en el alojamiento de los gleaners en Journey's End.
+TEXT_KINGVA101_05441_YNAZQHA_000_016	¡Le esperaré allá cuando esté <if(gnum4,lista,listo)>!
+TEXT_KINGVA101_05441_SHALLOWMOOR_000_017	Qué pedido más raro, ¿no? Pero seguro te han hecho otros más raros. ¡Anda, y mucha suerte!
+TEXT_KINGVA101_05441_YNAZQHA_000_030	¡Gracias por venir, <split(<string(gstr1)>, ,1)>! Ella es Fyrgeim, y administra nuestro alojamiento aquí. Le confiaría mi vida.
+TEXT_KINGVA101_05441_FYRGEIM_000_031	No me lo creía cuando Nazqha se empeñó en reclutar <if(gnum4,a la mayor heroína del reino,al mayor héroe del reino)>, pero aquí estás. Yo diría que nadie más podría seguirle el ritmo a su infinita... curiosidad.
+TEXT_KINGVA101_05441_FYRGEIM_100_031	Sí, la ha metido en problemas más de una vez, pero también la ha convertido en una gleaner de talento.
+TEXT_KINGVA101_05441_FYRGEIM_110_031	Verás, mientras la mayoría dudaría en comer algo a primera vista, Nazqha lo traga, lo sorbe o lo mastica con gusto. Todo en nombre del conocimiento, ¡o eso dice ella!
+TEXT_KINGVA101_05441_YNAZQHA_000_032	Sí, eh... soy... muy minuciosa. Pero basta de hablar de mí, ¡seguro siente curiosidad por el libro! Se titula <italic(1)>The Merchant's Tale<italic(0)>, y es una fábula muy conocida transmitida en Corvos, en el sur de Ilsabard.
+TEXT_KINGVA101_05441_YNAZQHA_100_032	El protagonista es un joven y astuto mercader, y la historia describe su viaje para encontrar el regalo perfecto con el que ganarse el corazón de una joven doncella.
+TEXT_KINGVA101_05441_YNAZQHA_000_033	Sin embargo, a lo largo de las generaciones se han transmitido y vuelto a contar innumerables versiones. No puedo decir con certeza cómo termina este manuscrito en particular.
+TEXT_KINGVA101_05441_YNAZQHA_000_034	No nos queda otra que leerlo completo, una hazaña bastante intimidante por el encantamiento que llevan sus páginas.
+TEXT_KINGVA101_05441_YNAZQHA_100_034	No puedo evitar recordar las palabras de mi padre antes de morir. Me dio el libro y dijo...
+TEXT_KINGVA101_05441_YNAZQHA_110_034	"Después de leer el pasaje final, lo entenderás. Verás qué es lo que más se necesita para recorrer el camino que tienes por delante".
+TEXT_KINGVA101_05441_YNAZQHA_120_034	Esto es una especie de prueba, estoy segura. Una prueba de mentor a discípula. De padre a hija. ¡Y pienso estar a la altura!
+TEXT_KINGVA101_05441_YNAZQHA_130_034	No tengo idea de qué pasará cuando nos entreguemos a la magia que habita en el libro, pero con usted a mi lado, no tengo miedo.
+TEXT_KINGVA101_05441_YNAZQHA_000_035	¡Así que comencemos, y revelemos los secretos encerrados entre las tapas de <italic(1)>The Merchant's Tale<italic(0)>!
+TEXT_KINGVA101_05441_YNAZQHA_000_050	¡Vamos al mundo de <italic(1)>The Merchant's Tale<italic(0)>!
+TEXT_KINGVA101_05441_CORVOSBELLE_000_060	"Volvió usted, buhonero, pero ¿por qué? Sabe que no puedo corresponder al afecto que me tiene. Le ruego que acepte esta verdad y siga adelante."
+TEXT_KINGVA101_05441_YNAZQHA_000_061	Yo, eh... ¿Y usted es...?
+TEXT_KINGVA101_05441_CORVOSBELLE_000_062	"La alegría no es para alguien como yo. Mi destino es quedarme aquí sola, con mi pena como única compañía."
+TEXT_KINGVA101_05441_Q2_000_000	¿Qué vas a decir?
+TEXT_KINGVA101_05441_A2_000_001	Supongo que ya empezó la historia.
+TEXT_KINGVA101_05441_A2_000_002	Parece que sigue un guion.
+TEXT_KINGVA101_05441_A2_000_003	No tengo idea de qué está pasando...
+TEXT_KINGVA101_05441_YNAZQHA_000_065	Ya veo... Nos convertimos en personajes de la narración. ¡Y quizá, actuando como deben actuar los personajes, podamos hacer avanzar la trama!
+TEXT_KINGVA101_05441_YNAZQHA_000_066	¡Me están llegando pedacitos de la historia!
+TEXT_KINGVA101_05441_YNAZQHA_000_067	Debo ser la protagonista: el joven y astuto mercader. Lo siguiente es la escena en que le declaro mi amor a la encantadora doncella que cautivó mi corazón. Digo...
+TEXT_KINGVA101_05441_YNAZQHA_000_068	(-Voz teatral-)"Le ruego que aleje tan desoladores pensamientos, mi amada. ¡Merece la mayor felicidad, y yo se la daré!"
+TEXT_KINGVA101_05441_CORVOSBELLE_000_069	"Si quiere demostrar la verdad de sus palabras y su ardor, tráigame un objeto de valor incalculable."
+TEXT_KINGVA101_05441_CORVOSBELLE_000_070	"Un objeto de tan gran valor que pueda llenar el vacío de mi corazón. Hágalo, y tendré la certeza de que sus intenciones son puras."
+TEXT_KINGVA101_05441_YNAZQHA_000_071	(-Voz teatral-)"Si así lo desea, así se hará. Aunque tenga que recorrer los confines del cielo y la tierra, juro que volveré con lo que anhela."
+TEXT_KINGVA101_05441_CORVOSBELLE_000_072	"Entonces rezaré por su regreso con bien."
+TEXT_KINGVA101_05441_YNAZQHA_000_073	Y así avanza la historia. Al parecer ahora el mercader, junto con su guardaespaldas hábil y de confianza, parte en busca de un tesoro invaluable.
+TEXT_KINGVA101_05441_Q3_000_000	¿Qué vas a decir?
+TEXT_KINGVA101_05441_A3_000_001	¿Guardaespaldas? ¡Ese trabajo es para mí!
+TEXT_KINGVA101_05441_A3_000_002	¿Y yo no soy protagonista?
+TEXT_KINGVA101_05441_YNAZQHA_000_075	¡Es un honor tenerle a mi lado! ¿A quién mejor confiar mi seguridad que a <if(gnum4,la misma heroína,el mismo héroe)> que salvó nuestra estrella?
+TEXT_KINGVA101_05441_YNAZQHA_000_076	Lo siento mucho, <split(<string(gstr1)>, ,1)>, pero parece que la magia del libro ya eligió.
+TEXT_KINGVA101_05441_YNAZQHA_000_077	Aun así, me anima tener a mi lado el brazo más robusto de Corvos. Veremos maravillas, estoy segura.
+TEXT_KINGVA101_05441_YNAZQHA_000_090	"Un objeto de valor incalculable"... Hmm... ¿Qué clase de tesoro podría ser?
+TEXT_KINGVA101_05441_YNAZQHA_000_091	Sea lo que sea, debe ser la clave del desenlace de la historia. Parece que en este punto de la narración el mercader no lo sabe, así que no queda otra que seguir leyendo.
+TEXT_KINGVA101_05441_YNAZQHA_000_092	Como la respuesta lógicamente estaría en la propia historia, quizá haya una pista en este mismo cuarto. ¿Por qué no lo revisamos primero?
+TEXT_KINGVA101_05441_Q4_000_096	¿Examinar el cuarto con Y'nazqha?
+TEXT_KINGVA101_05441_YNAZQHA_000_100	El cuarto no es muy grande, a fin de cuentas. ¿Algo le llama la atención?
+TEXT_KINGVA101_05441_YNAZQHA_000_110	En un cuarto con tanto azul y blanco, la alfombra destaca, ¿verdad?
+TEXT_KINGVA101_05441_YNAZQHA_000_111	Parece que el dibujo es... una doncella del mar. Y al mirarla de cerca, está más gastada que los otros muebles. Sospecho que ha sido una pieza muy querida a lo largo de los años.
+TEXT_KINGVA101_05441_YNAZQHA_000_120	Ah, está hecho de la porcelana tradicional de Corvos. Por su vivo color azul, este material sigue siendo popular en la región.
+TEXT_KINGVA101_05441_YNAZQHA_000_121	Según un libro que leí hace tiempo, el té corvosí se prepara fuerte y se sirve con montones de azúcar.
+TEXT_KINGVA101_05441_YNAZQHA_000_122	Lo cortés es ofrecer té a los invitados y disfrutar de una charla tranquila con una taza. ¡Esas conversaciones cara a cara son una parte muy apreciada de la vida diaria en Corvos!
+TEXT_KINGVA101_05441_YNAZQHA_000_130	Aunque la doncella parece no notarlo, hay una especie de símbolo tallado aquí en la pared.
+TEXT_KINGVA101_05441_YNAZQHA_000_131	De hecho, el mismo diseño adorna la tapa del libro. Siento que de él fluye energía: seguramente nos llevará de vuelta al mundo real.
+TEXT_KINGVA101_05441_YNAZQHA_000_140	Un personaje de la propia historia. El relato dice que no tiene familia y que llegó a la ciudad hace apenas unos años.
+TEXT_KINGVA101_05441_YNAZQHA_000_141	Aunque su belleza y su gracia han cautivado a muchos pretendientes, los ha rechazado a todos.
+TEXT_KINGVA101_05441_YNAZQHA_000_142	Nadie sabe de dónde vino ni por qué vive sola, y cuando le preguntan por sí misma, solo responde con una sonrisa triste. Parece que ese misterio solo aumenta su encanto.
+TEXT_KINGVA101_05441_YNAZQHA_000_150	¿Está <if(gnum4,lista,listo)> para seguir? Claro que, si hay algo más que quiera ver, ¡solo dígalo!
+TEXT_KINGVA101_05441_Q4_000_000	¿Qué vas a decir?
+TEXT_KINGVA101_05441_A4_000_001	¡Que siga la historia!
+TEXT_KINGVA101_05441_A4_000_002	Creo que vi algo más...
+TEXT_KINGVA101_05441_YNAZQHA_000_151	¡Bien dicho! ¿Qué sorpresas nos esperarán? ¡Me muero por saberlo!
+TEXT_KINGVA101_05441_YNAZQHA_000_152	Aunque pisamos una obra de ficción, parece estar ambientada en un Corvos anterior al dominio garlean. Quizá nos esperen paisajes perdidos en la historia...
+TEXT_KINGVA101_05441_YNAZQHA_000_153	...¡Y quizá también bestias mortales! Pero con usted aquí, no tengo por qué temer colmillos ni garras.
+TEXT_KINGVA101_05441_YNAZQHA_000_154	Entonces, vamos. Parece que podemos salir por aquella puerta.
+TEXT_KINGVA101_05441_YNAZQHA_000_160	¡Claro, no queremos perdernos nada! Quién sabe si tendremos otra oportunidad. Cuando esté <if(gnum4,lista,listo)> para seguir con la historia, solo dígalo.
+TEXT_KINGVA101_05441_YNAZQHA_000_161	¿Está <if(gnum4,lista,listo)> para partir?
+TEXT_KINGVA101_05441_Q5_000_000	¿Qué vas a decir?
+TEXT_KINGVA101_05441_A5_000_001	¡Que siga la historia!
+TEXT_KINGVA101_05441_A5_000_002	Quizá una última mirada...
+TEXT_KINGVA101_05441_YNAZQHA_000_170	Al parecer, como protagonista, el encantamiento me da la información justa para hacer avanzar la trama.
+TEXT_KINGVA101_05441_YNAZQHA_000_171	Qué nos espera más allá de esos trazos generales, no lo sé. ¡Pero eso hace aún más emocionante la idea de salir!
+TEXT_KINGVA101_05441_CORVOSBELLE_000_200	"Una alfombra encantada... que puede surcar los cielos. Oí una historia sobre esto una vez. Un antiguo tirano ordenó a una pari que tenía sometida que la hiciera."
+TEXT_KINGVA101_05441_CORVOSBELLE_000_201	"Pero ni en los cielos encontraría lo que mi corazón desea. Le ruego que venda este tesoro y haga fortuna."
+TEXT_KINGVA101_05441_CORVOSBELLE_000_202	"Le ruego que me olvide y busque la felicidad en otra parte."
+TEXT_KINGVA101_05441_SYSTEM_080_202	Llegaste al final de <italic(1)>The Merchant's Tale<italic(0)>. Por desgracia, a la hermosa doncella no la conmovió el tesoro que recibió. Seguro que lo que desea está en otra parte de las páginas del manuscrito.
+TEXT_KINGVA101_05441_SYSTEM_090_202	Llegaste al final de <italic(1)>The Merchant's Tale<italic(0)>, pero la hermosa doncella parece no conmoverse con el tesoro que recibió.
+TEXT_KINGVA101_05441_SYSTEM_100_202	¡Exploraste más las páginas de <italic(1)>The Merchant's Tale<italic(0)>!
+TEXT_KINGVA101_05441_SYSTEM_101_202	Aunque quedan pasajes sin leer, ahora puedes entrar en la variant dungeon (advanced) para un desafío aún mayor.
+TEXT_KINGVA101_05441_SYSTEM_102_202	Entra en la nueva dungeon hablando con Memolivia en Old Sharlayan.
+TEXT_KINGVA101_05441_SYSTEM_110_202	El registro de folclore aún no está completo. ¡Recorre cada camino y vence a cada bestia para revelar el rico tapiz de <italic(1)>The Merchant's Tale<italic(0)>!
+TEXT_KINGVA101_05441_CORVOSBELLE_000_210	"Vaya. Nunca había visto una joya así. Brilla con toda la luz del mar."
+TEXT_KINGVA101_05441_CORVOSBELLE_000_211	"Pero semejante brillo solo arroja sombras más oscuras sobre mi corazón. Véndala y haga fortuna."
+TEXT_KINGVA101_05441_CORVOSBELLE_000_212	"Le ruego que me olvide y busque la felicidad en otra parte."
+TEXT_KINGVA101_05441_SYSTEM_080_212	Llegaste al final de <italic(1)>The Merchant's Tale<italic(0)>. Por desgracia, a la hermosa doncella no la conmovió el tesoro que recibió. Seguro que lo que desea está en otra parte de las páginas del manuscrito.
+TEXT_KINGVA101_05441_SYSTEM_090_212	Llegaste al final de <italic(1)>The Merchant's Tale<italic(0)>, pero la hermosa doncella parece no conmoverse con el tesoro que recibió.
+TEXT_KINGVA101_05441_SYSTEM_100_212	¡Exploraste más las páginas de <italic(1)>The Merchant's Tale<italic(0)>!
+TEXT_KINGVA101_05441_SYSTEM_101_212	Aunque quedan pasajes sin leer, ahora puedes entrar en la variant dungeon (advanced) para un desafío aún mayor.
+TEXT_KINGVA101_05441_SYSTEM_102_212	Entra en la nueva dungeon hablando con Memolivia en Old Sharlayan.
+TEXT_KINGVA101_05441_SYSTEM_110_212	El registro de folclore aún no está completo. ¡Recorre cada camino y vence a cada bestia para revelar el rico tapiz de <italic(1)>The Merchant's Tale<italic(0)>!
+TEXT_KINGVA101_05441_CORVOSBELLE_000_220	"El arma querida de un orgulloso maestro de la espada. Sus grabados son de una belleza singular, y su filo no tiene igual."
+TEXT_KINGVA101_05441_CORVOSBELLE_000_221	"Pero ni la espada más afilada puede cortar la tristeza que envuelve mi corazón. Venda este tesoro y haga fortuna."
+TEXT_KINGVA101_05441_CORVOSBELLE_000_222	"Le ruego que me olvide y busque la felicidad en otra parte."
+TEXT_KINGVA101_05441_SYSTEM_080_222	Llegaste al final de <italic(1)>The Merchant's Tale<italic(0)>. Por desgracia, a la hermosa doncella no la conmovió el tesoro que recibió. Seguro que lo que desea está en otra parte de las páginas del manuscrito.
+TEXT_KINGVA101_05441_SYSTEM_090_222	Llegaste al final de <italic(1)>The Merchant's Tale<italic(0)>, pero la hermosa doncella parece no conmoverse con el tesoro que recibió.
+TEXT_KINGVA101_05441_SYSTEM_100_222	¡Exploraste más las páginas de <italic(1)>The Merchant's Tale<italic(0)>!
+TEXT_KINGVA101_05441_SYSTEM_101_222	Aunque quedan pasajes sin leer, ahora puedes entrar en la variant dungeon (advanced) para un desafío aún mayor.
+TEXT_KINGVA101_05441_SYSTEM_102_222	Entra en la nueva dungeon hablando con Memolivia en Old Sharlayan.
+TEXT_KINGVA101_05441_SYSTEM_110_222	El registro de folclore aún no está completo. ¡Recorre cada camino y vence a cada bestia para revelar el rico tapiz de <italic(1)>The Merchant's Tale<italic(0)>!
+TEXT_KINGVA101_05441_YNAZQHA_000_230	(-Voz teatral-)"Mi amada, mire. La doncella del mar de este plato... es igual a la de la alfombra que adorna su cuarto."
+TEXT_KINGVA101_05441_YNAZQHA_100_230	(-Voz teatral-)"Sabía que debía ser especial para usted, y por eso se lo traigo."
+TEXT_KINGVA101_05441_CORVOSBELLE_000_231	"Tenía razón. Este plato despierta recuerdos de una vida que casi había olvidado."
+TEXT_KINGVA101_05441_CORVOSBELLE_000_232	"De cuando aquella terrible bestia apagó la luz de mi alegría y me dejó solo soledad y pena."
+TEXT_KINGVA101_05441_CORVOSBELLE_000_233	"Pero también me recuerda a quienes perdí. Mis padres, mis hermanos. Seguro querrían que viviera feliz..."
+TEXT_KINGVA101_05441_CORVOSBELLE_000_234	"Hice mal en someterlo a esta prueba, pero le agradezco este regalo. Si en su corazón cabe perdonarme, con gusto pasaré mi vida a su lado."
+TEXT_KINGVA101_05441_SYSTEM_100_234	Fyrgeim, en Old Sharlayan, tiene una nueva misión para ti.
+TEXT_KINGVA101_05441_YNAZQHA_000_260	¡Parece que presenciamos el final de la historia! Gracias, <split(<string(gstr1)>, ,1)>, por su firme compañía.
+TEXT_KINGVA101_05441_FYRGEIM_000_261	Qué bueno verlos de vuelta. No parece que les haya ido mal.
+TEXT_KINGVA101_05441_YNAZQHA_000_262	Todo gracias a <split(<string(gstr1)>, ,1)>. ¡Enfrentamos bestias como solo había imaginado, y <if(gnum4,ella,él)> las venció a todas!
+TEXT_KINGVA101_05441_YNAZQHA_000_263	Fue una experiencia única, ¿verdad? Sé que algunas partes estaban adornadas por el bien de la historia, pero vivir Corvos tal como fue... De verdad, fue un tesoro en sí mismo.
+TEXT_KINGVA101_05441_YNAZQHA_000_270	Una tierra cálida y verde hasta donde alcanza la vista. ¡Y ni hablar de las deliciosas manzanas y uvas dulces que abundan! Ni falta hace decir que comí mi buena parte.
+TEXT_KINGVA101_05441_YNAZQHA_000_271	Entiendo que los garleans que vivieron en Corvos la llamaban "Locus Amoenus", su utopía. Ahora que la vi con mis propios ojos, comprendo por qué.
+TEXT_KINGVA101_05441_YNAZQHA_000_272	Por desgracia, la alfombra que trajimos de la alcoba no le dio mucho consuelo a la joven doncella. Pero quizá la historia pueda seguir otro hilo que esta vez se nos escapó...
+TEXT_KINGVA101_05441_YNAZQHA_000_280	¡Un viaje por una ciudad de zafiro nos llevó al reluciente azul del océano, lleno de corales vibrantes y perlas lustrosas! Aunque sabían amargas, su belleza lo compensó.
+TEXT_KINGVA101_05441_YNAZQHA_000_281	Aun así, ¡no olvidaré pronto a la mítica doncella del mar que encontramos! ¿Cree que un pueblo así existió de verdad?
+TEXT_KINGVA101_05441_YNAZQHA_000_282	Por desgracia, la joya que trajimos, aunque brillante, no pudo llenar el vacío en el corazón de la pobre doncella. Quizá haya otro camino que nos lleve a un final distinto.
+TEXT_KINGVA101_05441_YNAZQHA_000_290	Corvos me hace pensar en verdor exuberante y mares claros, ¡así que me sorprendió cruzar un valle tan traicionero! Pero esos hongos que encontramos estaban tan deliciosos que volvería a arriesgar la vida.
+TEXT_KINGVA101_05441_YNAZQHA_000_291	¡Y el maestro de la espada fue un enemigo temible! Había oído que los garleans acabaron con los seguidores de Unyielding Blade y quemaron cada página de sus enseñanzas. Ver esa esgrima con mis propios ojos fue impresionante.
+TEXT_KINGVA101_05441_YNAZQHA_000_292	Por desgracia, el arma tan difícil de conseguir hizo poco por aliviar la tristeza de la pobre doncella. ¡Pero quizá haya otro desenlace en las páginas del libro!
+TEXT_KINGVA101_05441_YNAZQHA_000_300	¡Pensar que haríamos amistad con alguien del pueblo del mar! Temí que nos cerrara el paso, pero la historia se desarrolló de una manera maravillosamente sorprendente.
+TEXT_KINGVA101_05441_YNAZQHA_000_301	Ese pez monstruoso recibió su merecido tras arrasar la aldea de la pobre doncella. Había leído que los pueblos marineros de Corvos Narrow rendían pleitesía a tales criaturas, sin duda por terror.
+TEXT_KINGVA101_05441_YNAZQHA_000_302	Pero ninguna bestia le intimida, ¿eh? Gracias a su fuerza, logramos recuperar justo lo que buscábamos.
+TEXT_KINGVA101_05441_YNAZQHA_000_303	Aunque la mayoría no le dedicaría una segunda mirada a ese plato ceniciento, los recuerdos que despertó en el corazón de la doncella lo hicieron invaluable para ella.
+TEXT_KINGVA101_05441_YNAZQHA_000_310	Quizá hayamos llegado al final de la historia, pero tengo la sensación de que fue solo uno de muchos.
+TEXT_KINGVA101_05441_YNAZQHA_000_311	Mi curiosidad de gleaner bastaría para seguir explorando las páginas del libro, pero también estoy decidida a descubrir el sentido de las palabras de despedida de mi padre.
+TEXT_KINGVA101_05441_YNAZQHA_100_311	¡Así que pienso repasar las páginas una y otra vez, hasta saberme cada vuelta y cada giro de memoria!
+TEXT_KINGVA101_05441_YNAZQHA_000_312	Sin embargo, no me atrevería a emprender el viaje sola. Entiendo que es <if(gnum4,una mujer ocupada,un hombre ocupado)>, pero agradecería su ayuda cada vez que tenga tiempo.
+TEXT_KINGVA101_05441_YNAZQHA_000_314	¡No tiene idea de lo feliz que me hace! Bien, espero con ansias nuestra próxima aventura.
+TEXT_KINGVA101_05441_FYRGEIM_000_315	<italic(1)>The Merchant's Tale<italic(0)> se queda aquí bajo custodia. Si quieres volver a hojearlo, solo tienes que pedirlo.
+TEXT_KINGVA101_05441_YNAZQHA_000_316	¡Ah, claro! Olvidé mencionar su recompensa. Como el gremio manejó este pedido, puede hablar con Shallow Moor para recibirla.
+TEXT_KINGVA101_05441_YNAZQHA_000_317	Ahora me retiro. ¡Espero volver a verle más temprano que tarde, <split(<string(gstr1)>, ,1)>!
+TEXT_KINGVA101_05441_SHALLOWMOOR_000_330	¡Ahí estás, <split(<string(gstr1)>, ,1)>! ¿Debo entender que el trabajito de Y'nazqha terminó sin contratiempos?
+TEXT_KINGVA101_05441_SHALLOWMOOR_000_331	Así que no exageraba, ¡de verdad <italic(1)>entraste<italic(0)> en el libro! Debí imaginar que Y'rhul Nunh tendría un tomo tan maravilloso en su colección.
+TEXT_KINGVA101_05441_SHALLOWMOOR_000_332	Aunque no me sorprende, te felicito por llevarla a salvo hasta la última página. ¡Eligió bien!
+TEXT_KINGVA101_05441_SHALLOWMOOR_000_333	¡Y así termina tu obligación con nosotros! Sin embargo, seguro que un libro tan raro tiene un encanto irresistible. ¡Diría que ya estás pensando en saltar de vuelta a sus páginas ahora mismo!
+TEXT_KINGVA101_05441_SYSTEM_000_350	<colortype(500)><edgecolortype(501)>Corvosi Folklore Record<edgecolortype(0)><colortype(0)> ya está disponible en el V&C Dungeon Finder, en la sección Duty del menú principal.
+TEXT_KINGVA101_05441_SYSTEM_000_351	Se agregarán nuevas entradas al registro a medida que completes cada ruta posible de la variant dungeon y superes los desafíos que te esperan.
+TEXT_KINGVA101_05441_SYSTEM_100_351	¡Ayuda a Y'nazqha a completar el registro de folclore y a revelar todos los secretos de este libro fantástico!
+TEXT_KINGVA101_05441_SYSTEM_110_351	Fyrgeim, en Journey's End, tiene una nueva misión para ti.

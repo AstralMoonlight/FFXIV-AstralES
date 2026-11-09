@@ -1,0 +1,25 @@
+key	text
+TEXT_SUBCTS823_02360_SEQ_00	Thubyrgeim desea tu ayuda con un experimento.
+TEXT_SUBCTS823_02360_SEQ_01	Tras leer la investigación de Y'mhitra sobre los summoners, Thubyrgeim te pide ayuda con un experimento en la sala de prácticas del gremio.
+TEXT_SUBCTS823_02360_SEQ_02	Thubyrgeim teoriza que quizá puedas usar la técnica necesaria para invocar egi a fin de alterar la apariencia de tus distintos egi. Logras invocar un Ifrit-Egi que adopta la forma de un Ruby Carbuncle - ¡el experimento es un éxito! Thubyrgeim te pide que subas de nuevo para hablar de lo que esto implica.
+TEXT_SUBCTS823_02360_SEQ_03	Thubyrgeim, entusiasmada, te dice que este experimento sugiere que aún hay mucho que aprender sobre las entidades arcanas. Se despide de ti y te anima a usar tu nueva habilidad.
+TEXT_SUBCTS823_02360_TODO_00	Espera a Thubyrgeim en la sala de prácticas del gremio.
+TEXT_SUBCTS823_02360_TODO_01	Habla con Thubyrgeim.
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_001	Vaya, si no es <split(<string(gstr1)>, ,1)>. Justo la persona que quería ver.
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_002	Recordará a Y'mhitra, de los Sons of Saint Coinach. Pues bien, hace poco terminó de compilar su investigación sobre la invocación, y tuvo la amabilidad de enviarle una copia a nuestro gremio. Me alegró ver que usted figura como <if(gnum4,colaboradora,colaborador)>.
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_003	Debo decir que es una lectura <italic(1)>bastante<italic(0)> fascinante, sobre todo la sección sobre esas esencias de primals llamadas egi. Usted es capaz de manifestar esos seres, ¿no?
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_004	Maravilloso. En ese caso, quisiera su ayuda con un experimento. Si está de acuerdo, le ruego que me acompañe a la sala de prácticas. Allí le revelaré los detalles.
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_005	Le ruego que vaya adelantándose a la sala de prácticas. Allí le revelaré los detalles del experimento.
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_010	Disculpe la espera.
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_011	Para empezar, ¿podría pedirle que invoque a un egi? Me gustaría mucho verlo con mis propios ojos. Quizá el Ifrit-Egi sea adecuado - tengo entendido que fue el primero de esos seres en ser invocado.
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_012	Sí, un ser de lo más impresionante. Creado, según Y'mhitra, a imagen de la entidad que uno más asocia con el fuego: Ifrit.
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_013	Mi hipótesis es que el mismo principio fundamental podría emplearse para alterar la forma de un egi, evocando otra imagen en la mente.
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_014	Le ruego que invoque al Ifrit-Egi de nuevo, pero esta vez concentre su conciencia en Carbuncle. No debería ser difícil, dado el vínculo que comparten.
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_015	¡Brillante! ¡Mi teoría se sostiene!
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_016	Aunque adopte la forma de Carbuncle, su composición aetherial es inconfundible.
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_017	No creo que sus habilidades hayan cambiado - para todo efecto, sigue siendo un Ifrit-Egi. Pero ahora sabemos que la apariencia de un egi no tiene límites.
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_018	Bueno, debo volver a mi puesto. Continuemos arriba.
+TEXT_SUBCTS823_02360_THUBYRGEIM_000_020	<split(<string(gstr1)>, ,1)>, le agradezco que me haya complacido. Este experimento abrió un nuevo mundo de posibilidades para las entidades arcanas, y espero que le saque provecho al descubrimiento.
+TEXT_SUBCTS823_02360_SYSTEM_000_021	Ya puedes cambiar la apariencia de un egi con <colortype(546)>/petglamour<colortype(0)>.
+TEXT_SUBCTS823_02360_SYSTEM_000_022	Por ejemplo, si quieres que tu Garuda-Egi se vea como un Ruby Carbuncle, usa el comando <colortype(546)>/petglamour "garuda-egi" "ruby carbuncle"<colortype(0)>.
+TEXT_SUBCTS823_02360_SYSTEM_000_023	Para más detalles, escribe <colortype(546)>/? /petglamour<colortype(0)>.

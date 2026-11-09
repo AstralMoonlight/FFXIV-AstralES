@@ -1,0 +1,266 @@
+key	text
+TEXT_LUCKYW301_03980_SEQ_00	La investigación de Cid en Terncliff condujo a revelaciones sorprendentes.
+TEXT_LUCKYW301_03980_SEQ_01	De vuelta en el campamento de Porta Praetoria, el oficial de la Resistance te informa que requieren tu presencia en Terncliff. Como siempre, tu escolta está lista para acompañarte en el viaje.
+TEXT_LUCKYW301_03980_SEQ_02	Terncliff sigue casi igual a como la recuerdas de tu visita anterior y, aunque las tropas imperiales se fueron hace tiempo, sus enormes estructuras de acero todavía afean un entorno por lo demás agradable. Gaius y sus compañeros tuvieron que esperar tu llegada, porque Cid prefiere revelar sus hallazgos solo cuando estén presentes todos los interesados.
+TEXT_LUCKYW301_03980_SEQ_03	La investigación de la instalación imperial de Terncliff permitió descubrir el nombre del tercer Weapon de la VIIth Legion: Emerald. Sin embargo, ningún lugareño vio que sacaran del pueblo nada parecido a una gran warmachina, ni por tierra ni por aire. Aunque no hay certeza, parece probable que el Weapon haya sido transportado por mar, quizá a Castrum Marinum o a Castrum Occidens para terminar su construcción. Gaius y tú deciden investigar el primero, mientras Severa y Valdeaulin se dirigen al segundo. Se le ordenó a un miembro de los Ironworks preparar un sumergible en Vesper Bay para que puedan acercarse.
+TEXT_LUCKYW301_03980_SEQ_04	Parece que Gaius tiene una forma de burlar el sistema de seguridad de Castrum Marinum y entrar por el dique seco. Sin embargo, una vez allí, es bastante probable que te reciba el enigmático Emerald Weapon, así que más vale prepararse para lo peor.<br><br>※Puedes acceder a Castrum Marinum desde el Duty Finder.
+TEXT_LUCKYW301_03980_SEQ_05	El enfrentamiento con el Emerald Weapon te exigió hasta la última pizca de temple y, cuando se asentó el polvo, resultaste victorios<if(gnum4,a,o)>. Contemplando los restos está Gaius, que llora la pérdida de su piloto Rex, uno de los huérfanos que crió.
+TEXT_LUCKYW301_03980_SEQ_06	Después de la batalla, se te unen Valdeaulin y Severa, cuya misión en Castrum Occidens dio pocos frutos. Al llegar a Castrum Marinum, encontraron a Allie, otra de las huérfanas de Gaius, encerrada en una celda y decidieron liberarla. La visión del Emerald Weapon destruido la llena de horror y cae en estado de conmoción. Parece que lo mejor es llevarla a Terncliff y darle tiempo para recuperarse de la dura experiencia.
+TEXT_LUCKYW301_03980_SEQ_07	Según Severa, el cuerpo de Allie está cubierto de verdugones y moretones que muy probablemente le causaron los imperiales a cuyas órdenes servía. Severa conoce por experiencia propia el trato cruel que reciben quienes no son garleanos de pura sangre, y cuenta cómo llegó a desertar del ejército imperial. Mientras tanto, Allie sigue recuperándose y quizá ya esté en condiciones de hablar de lo que les ocurrió a ella y a los demás huérfanos, aunque sería prudente hablar primero de su estado actual con Valdeaulin.
+TEXT_LUCKYW301_03980_SEQ_08	Allie mejoró mucho física y mentalmente, y puede dar información útil sobre la situación actual y sobre Valens van Varro, legatus de la VIIth Legion. Según explica, Valens es celoso y cruel, y está dispuesto a usar cualquier medio a su alcance para lograr sus objetivos, por vil que sea. También habla del sueño de Alfonse de usar el poder que le dio el proyecto Weapon para liberarse del Empire y establecer un refugio para quienes desean vivir en paz. Por desgracia, no puede decir dónde está, así que tendrás que recurrir a los exploradores de la Alliance para encontrarlo. Sin ningún peligro inmediato en el horizonte, parece un buen momento para volver con las tropas de la Resistance en Gyr Abania e informar de los últimos acontecimientos.
+TEXT_LUCKYW301_03980_SEQ_09	El oficial de la Resistance a cargo de Porta Praetoria recibe tu informe con gratitud. Preparará una copia escrita de la información reunida, por si deseas revisarla antes de que vuelvan a llamarte a la acción.
+TEXT_LUCKYW301_03980_TODO_00	Habla con el escolta de la Resistance.
+TEXT_LUCKYW301_03980_TODO_01	Habla con Gaius en Terncliff.
+TEXT_LUCKYW301_03980_TODO_02	Habla con el piloto de los Ironworks en Vesper Bay.
+TEXT_LUCKYW301_03980_TODO_03	Enfrenta al Emerald Weapon en Castrum Marinum.
+TEXT_LUCKYW301_03980_TODO_04	Habla con Gaius.
+TEXT_LUCKYW301_03980_TODO_05	Habla de nuevo con Gaius.
+TEXT_LUCKYW301_03980_TODO_06	Habla con Valdeaulin.
+TEXT_LUCKYW301_03980_TODO_07	Habla con el oficial de la Resistance en Porta Praetoria.
+TEXT_LUCKYW301_03980_RESISTANCEOFFICER_000_001	Ah, qué bueno verl<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>.
+TEXT_LUCKYW301_03980_RESISTANCEOFFICER_000_002	Me alegra informarle que el maestro Garlond y los demás descubrieron bastante información útil en la instalación imperial de Terncliff.
+TEXT_LUCKYW301_03980_RESISTANCEOFFICER_000_003	De hecho, quiere que se reúna con Gaius en la plaza del pueblo, donde revelará lo que encontraron. Cuando esté list<if(gnum4,a,o)> para partir, su escolta le mostrará el camino.
+TEXT_LUCKYW301_03980_CONVEYOR03783_000_010	¿Todo listo para el viaje?
+TEXT_LUCKYW301_03980_Q2_000_000	¿Viajar a Terncliff?
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_050	Ahora que está aquí, quizá Cid por fin se digne a compartir sus hallazgos.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_051	Severa, avísale que <split(<string(gstr1)>, ,1)> ya llegó.
+TEXT_LUCKYW301_03980_CID_000_052	Gracias por venir.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_053	Y bien, ¿qué descubriste?
+TEXT_LUCKYW301_03980_CID_000_054	A decir verdad, tuvimos suerte de conseguir algo de información, considerando lo mucho que se esforzaron los imperiales por borrar sus huellas. Verás, el hangar de abajo no solo servía para guardar los Weapons, sino que tuvo un papel fundamental en su creación.
+TEXT_LUCKYW301_03980_CID_000_055	Ya conocemos los nombres en clave de tres de los Weapons. Ruby, Sapphire... y Emerald.
+TEXT_LUCKYW301_03980_SEVERA_000_056	Los dos primeros ya los conocemos todos, claro, pero el tercero es toda una incógnita.
+TEXT_LUCKYW301_03980_VALDEAULIN_000_057	Como mínimo, esto confirma la existencia de otra de esas abominaciones.
+TEXT_LUCKYW301_03980_Q1_000_000	¿Qué vas a decir?
+TEXT_LUCKYW301_03980_A1_000_001	¿Como mínimo?
+TEXT_LUCKYW301_03980_A1_000_002	¿Qué estamos esperando? ¡Vamos tras él!
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_059	El problema está en averiguar su paradero. Ningún lugareño vio que transportaran nada parecido a un Weapon, ni por tierra ni por aire.
+TEXT_LUCKYW301_03980_CID_000_060	Lo que, por supuesto, deja una sola opción: el mar. Según los datos fragmentados que pudimos recuperar, el Emerald Weapon está equipado para operar en el agua, igual que el Sapphire.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_061	Eso significa que su huida de Terncliff pasó inadvertida, y que a estas alturas podría estar en cualquier parte. Pero si Alfonse planea hacer que absorba más primals...
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_062	...la opción lógica sería Eorzea.
+TEXT_LUCKYW301_03980_SEVERA_000_063	¡Y por mar podría evitar por completo el frente de Ghimlyt! ¡Hay que alertar a la Alliance de inmediato!
+TEXT_LUCKYW301_03980_CID_000_064	Frena ese chocobo, Severa. Parece que el Emerald Weapon seguía incompleto cuando la VIIth Legion se retiró de Terncliff.
+TEXT_LUCKYW301_03980_CID_000_065	Es mucho más probable que lo hayan llevado a otra instalación para darle los últimos toques.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_066	Si tu suposición es correcta, eso reduce la búsqueda a solo dos lugares posibles: Castrum Marinum, en el mar de Rhotano, y Castrum Occidens, en Eastern La Noscea.
+TEXT_LUCKYW301_03980_VALDEAULIN_000_067	Y se sabe que en ambos hay remanentes de la XIVth Legion... sus antiguos subordinados, Gaius.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_068	Sea como sea, nuestro objetivo no cambia. Valdeaulin, Severa y tú irán a Castrum Occidens, mientras <split(<string(gstr1)>, ,1)> y yo nos dirigimos a Castrum Marinum.
+TEXT_LUCKYW301_03980_SEVERA_000_069	Si localizamos el Emerald Weapon, daremos la señal para enviar al G-Warrior y eliminarlo antes de que lo activen.
+TEXT_LUCKYW301_03980_CID_000_070	Siento decepcionarla, pero todavía estamos reparando los daños que sufrió en el enfrentamiento con el Sapphire Weapon. La maquinaria allagana tiene sus ventajas, pero conseguir repuestos de un momento a otro es un dolor de cabeza...
+TEXT_LUCKYW301_03980_CID_100_070	De hecho, estamos trabajando para ampliar su ya impresionante arsenal, pero el G-Warrior en sí no está en condiciones de pelear.
+TEXT_LUCKYW301_03980_CID_000_071	Sé que está lejos de ser un sustituto adecuado, pero puedo poner un sumergible de los Ironworks para ayudar a <split(<string(gstr1)>, ,1)> y a Gaius a llegar a Castrum Marinum. Haré que envíen uno a Vesper Bay.
+TEXT_LUCKYW301_03980_VALDEAULIN_000_072	Un sumergible, ¿eh? No me gusta mucho cómo suena eso. Quizá Severa y yo debamos sentirnos afortunados de que a nuestro destino se pueda llegar por tierra. Rezo por que tengan un viaje seguro. Cuídese por allá, <split(<string(gstr1)>, ,1)>...
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_073	Es hora de partir. Vayamos a Vesper Bay.
+TEXT_LUCKYW301_03980_SEVERA_000_075	Parece que Cid no acostumbra a decir lo mismo dos veces, y por eso estuvo esperando a que llegaras antes de revelar los resultados de su investigación.
+TEXT_LUCKYW301_03980_VALDEAULIN_000_080	Aunque los imperiales se hayan ido, las cicatrices que dejaron en este pueblo antes pacífico sin duda tardarán muchos años en sanar.
+TEXT_LUCKYW301_03980_RESISTANCEOFFICER_000_090	No me molestaría acompañarl<if(gnum4,a,o)> a Terncliff, ¡pero tengo que quedarme aquí a vigilar a esta horrible pandilla!
+TEXT_LUCKYW301_03980_CONVEYOR03783_000_95	¿Todo listo para el viaje?
+TEXT_LUCKYW301_03980_Q2_000_096	¿Viajar a Terncliff?
+TEXT_LUCKYW301_03980_GSPILOT03980_000_100	Según las instrucciones del maestro Garlond, ¡el sumergible está listo cuando usted quiera!
+TEXT_LUCKYW301_03980_GSPILOT03980_100_100	Pero antes de que parta, recibí de mis colegas en Terncliff algunos retazos de información sobre su oponente.
+TEXT_LUCKYW301_03980_GSPILOT03980_200_100	Al parecer, usa algún tipo de... apéndices levitantes en forma de mano - seis, de hecho - aunque no sabemos bien para qué sirven. Parece que tener ojos en la nuca podría ser útil. Pero me temo que eso es todo lo que sabemos.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_101	Tiene nuestra gratitud. Después de todo, hombre prevenido vale por dos. Si el Emerald Weapon fue trasladado a este castrum, tuvo que entrar por el dique seco. Nosotros haremos lo mismo.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_102	Como es de esperar, hay medidas para impedir la entrada de intrusos, pero se puede engañar a los sistemas de seguridad para que nos reconozcan como una nave imperial.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_100_102	Dicho esto, infiltrarse en la instalación es solo el primer paso...
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_103	Si activan el Emerald Weapon, es solo cuestión de tiempo que el piloto use Oversoul.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_104	Debemos silenciar a la warmachina antes de que eso ocurra y, si no lo logramos, conceder a la pobre alma a los mandos la misericordia de una muerte rápida.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_105	Si estas heridas hubieran sanado más rápido, podría haberle acompañado, pero me temo que solo le retrasaría. Por lo tanto, le daré el apoyo que pueda desde lejos. Pase lo que pase, hay que derrotar al Emerald Weapon a toda costa.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_110	Si falla mi intento de burlar la seguridad del castrum, más vale que este sumergible de Cid resista las armas imperiales el tiempo suficiente para escapar.
+TEXT_LUCKYW301_03980_GSPILOT03980_000_150	Lamento no haber podido darle más detalles sobre el objetivo. Solo podemos imaginar qué otros trucos le tendrá guardados. Tenga cuidado por allá.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_155	Aunque preferiría evitar el combate con mis antiguos pupilos, no podemos permitir que mis sentimientos nos impidan hacer lo necesario.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_200	Y así termina.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_201	Pero ¿por qué Rex tiraría su vida... por esto?
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_202	Tiene razón... Si he de saber la verdad alguna vez, debo concentrarme en lo que tengo delante.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_100_202	Por supuesto, no necesitamos esperar el análisis de Cid para saber qué datos de combate se usaron esta vez.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_200_202	Me irrita pensar que mis técnicas y estrategias pudieran replicarse con tanta fidelidad. Aun así, lo que observé durante la batalla podría resultar útil. De hecho, esa no fue la única información que logré reunir.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_203	Intercepté una señal que revela que a las tropas apostadas aquí se les permitió retirarse, al parecer a cambio de ayudar a la VIIth Legion. Debían de saber que la Alliance seguiría al Emerald Weapon hasta aquí tarde o temprano, y lograron escapar.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_204	Lo que significa que el camino está libre para que Cid inspeccione los restos de la warmachina.
+TEXT_LUCKYW301_03980_CID_000_205	Llegamos en cuanto pudimos.
+TEXT_LUCKYW301_03980_CID_100_205	No es que hubiéramos podido hacer algo para evitar esta tragedia.
+TEXT_LUCKYW301_03980_CID_000_206	Por lo que sabemos, parece que el Emerald Weapon era, ilm por ilm, bastante más poderoso que los dos anteriores. Si esto sigue, quién sabe qué monstruosidad concebirá después la VIIth Legion.
+TEXT_LUCKYW301_03980_CID_000_207	Aun así, <split(<string(gstr1)>, ,1)> demostró una vez más ser capaz de superar lo peor que el Empire tiene a su disposición.
+TEXT_LUCKYW301_03980_VALDEAULIN_000_208	Quizá le alivie saber que en Castrum Occidens no había nada parecido a un Weapon. Por desgracia, tampoco había ninguna pista útil, y volvimos con las manos vacías.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_209	Si he de ser sincero, una parte de mí desearía que nunca hubiéramos encontrado el Emerald Weapon. Quizá así Rex no se habría visto obligado a hacer el sacrificio supremo. Solo espero que por fin esté en paz...
+TEXT_LUCKYW301_03980_CID_000_210	Haremos lo que podamos para que otros no corran su misma suerte. Yo y los Ironworks vamos a registrar este lugar de arriba abajo en busca de pistas sobre los planes de la VIIth Legion.
+TEXT_LUCKYW301_03980_SEVERA_000_211	Antes de eso, permítame revisar la zona en busca de trampas y cosas por el estilo. No me extrañaría que los imperiales nos hubieran dejado algunas sorpresas...
+TEXT_LUCKYW301_03980_VALDEAULIN_000_212	De acuerdo. Iré con usted.
+TEXT_LUCKYW301_03980_CID_000_213	Con eso en mente, empezaré a examinar el Emerald Weapon. Con cuidado, claro.
+TEXT_LUCKYW301_03980_ALLIE_000_251	¡Alfonse! Lo supiste todo este tiempo, ¿verdad?
+TEXT_LUCKYW301_03980_ALLIE_000_252	Y Milisandia y Ricon también... Todos, menos yo.
+TEXT_LUCKYW301_03980_ALLIE_000_253	¿Y tú, Rex?
+TEXT_LUCKYW301_03980_REX_000_254	Sí. En eso <italic(1)>consiste<italic(0)> el sistema de auracite sintética. La fusión entre el piloto y el núcleo es la clave de Oversoul.
+TEXT_LUCKYW301_03980_REX_000_255	Y si no lo usamos, no tenemos ninguna oportunidad de vencer a los nuevos amigos de padre. Se interponen entre nosotros y los primals, y sin ellos los Weapons nunca alcanzarán todo su potencial. Pensamos que, si sabías la verdad sobre Oversoul, intentarías detenernos.
+TEXT_LUCKYW301_03980_ALLIE_000_256	¡Claro que sí! Pero lo que no entiendo es por qué todos ustedes están tan dispuestos a dar la vida por el proyecto Weapon. ¿¡Para qué es todo esto!?
+TEXT_LUCKYW301_03980_ALFONSE_000_257	Todo empezó el día en que padre se fue. Sin su guía ni su protección, los garleanos perdieron todo el respeto que alguna vez nos tuvieron.
+TEXT_LUCKYW301_03980_ALFONSE_000_258	Pero su crueldad palidece ante la de Valens. Para él, los reclutas como nosotros somos mercancía desechable, un suministro infinito de sujetos de prueba para sus retorcidos experimentos.
+TEXT_LUCKYW301_03980_ALFONSE_000_259	Pero hagan lo que hagan, nunca perderemos la esperanza. Si el deber de los fuertes es guiar a los débiles, nos haremos fuertes y protegeremos a quienes no pueden protegerse solos.
+TEXT_LUCKYW301_03980_ALFONSE_000_260	El proyecto Weapon nos dará la fuerza que necesitamos. Crearemos un mundo donde la gente como nosotros pueda vivir sin miedo a la persecución.
+TEXT_LUCKYW301_03980_ALFONSE_000_261	Queremos que veas ese nuevo mundo con tus propios ojos, Allie. Aunque tengamos que dar la vida para hacerlo realidad.
+TEXT_LUCKYW301_03980_ALLIE_000_262	Pero... ¿por qué yo?
+TEXT_LUCKYW301_03980_REX_000_263	Los años al servicio del Empire nos cambiaron a todos... menos a ti, Allie. Aun después de todo lo que has visto, sigues siendo la muchacha bondadosa e inocente con la que crecimos. Más que cualquiera de nosotros, mereces una oportunidad de ser feliz. En eso quedamos todos.
+TEXT_LUCKYW301_03980_ALFONSE_000_264	Allie, escúchame. En este momento, los soldados asignados a vigilarnos fueron llamados a la capital. Es nuestra oportunidad de sacarte de aquí.
+TEXT_LUCKYW301_03980_ALLIE_000_265	Entonces, ¿por qué no vienen conmigo?
+TEXT_LUCKYW301_03980_REX_000_266	Si Alfonse y yo huyéramos ahora, solo obligarían a otros a ocupar nuestro lugar. No podemos permitirlo.
+TEXT_LUCKYW301_03980_REX_000_267	Esta es nuestra forma de defender los ideales que padre nos inculcó. Nuestras vidas son un precio pequeño por la libertad de Werlyt.
+TEXT_LUCKYW301_03980_ALLIE_000_268	¡No! ¿¡Cómo esperan que los deje atrás!? ¡No lo haré!
+TEXT_LUCKYW301_03980_ALFONSE_100_269	Siempre estaremos a tu lado, Allie.
+TEXT_LUCKYW301_03980_ALFONSE_000_269	Rex, llévala a las celdas.
+TEXT_LUCKYW301_03980_ALLIE_000_270	¡No! ¡Suéltame!
+TEXT_LUCKYW301_03980_REX_000_271	Entonces, ganemos o perdamos, el plan es entregarle el castrum a padre, ¿cierto?
+TEXT_LUCKYW301_03980_ALFONSE_000_272	Sí. Ellos pondrán a Allie bajo su custodia antes de que vuelvan los garleanos, y tú podrás pilotar el Emerald Weapon sin que ella interfiera. No podemos dejar que obstaculice la conclusión del proyecto Weapon.
+TEXT_LUCKYW301_03980_REX_000_273	Cuento contigo, Alfonse. No dejes que nuestros sacrificios sean en vano.
+TEXT_LUCKYW301_03980_ALFONSE_000_274	Rex, ¿olvidaste lo que te dije? ¡No debes usar Oversoul! No puedo perderte a ti también...
+TEXT_LUCKYW301_03980_REX_000_275	Los dos sabemos que no puedo ganar sin eso. Además, necesitamos los datos de combate del Emerald Weapon a su máximo rendimiento si queremos tener alguna posibilidad de perfeccionar el sistema de auracite sintética. Ya sabes que no soy de hacer las cosas a medias.
+TEXT_LUCKYW301_03980_ALFONSE_000_276	Perdóname, Rex.
+TEXT_LUCKYW301_03980_REX_000_277	No te preocupes por mí. Si este es mi final, lo enfrentaré con una sonrisa en la cara. ¡Lo demás queda en tus manos, Alfonse!
+TEXT_LUCKYW301_03980_SEVERA_000_278	Esta es la muchacha de la que habló, ¿verdad? Estaba encerrada en una celda, y no vi nada de malo en sacarla. No puedo asegurarlo, pero parece que la ha pasado muy mal.
+TEXT_LUCKYW301_03980_ALLIE_000_279	No...
+TEXT_LUCKYW301_03980_ALLIE_100_279	¿¡Por qué, Rex!? ¿¡Por qué!?
+TEXT_LUCKYW301_03980_CID_000_280	...Gaius, cuando extraigamos el núcleo, lo llevaremos a Terncliff para analizarlo.
+TEXT_LUCKYW301_03980_CID_000_281	¿Quizá ella debería venir con nosotros? No gana nada con quedarse aquí.
+TEXT_LUCKYW301_03980_GSPILOT03980_000_295	Todavía estamos registrando Castrum Marinum. ¿Le gustaría echar un vistazo?
+TEXT_LUCKYW301_03980_Q3_000_000	¿Entrar a Castrum Marinum?
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_300	Severa está cuidando de Allie, pero quizá pase un tiempo antes de que se calmen sus nervios.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_301	Si la visión que tuvo es cierta, Alfonse y Rex la encerraron por su propia seguridad.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_302	Cuando esté lista, quisiera saber más de lo que su hermano espera lograr y por qué debe recurrir a medidas tan desesperadas.
+TEXT_LUCKYW301_03980_SEVERA_000_303	El estado de Allie mejoró un poco, pero sigue conmocionada. Debemos darle más tiempo para recuperarse.
+TEXT_LUCKYW301_03980_SEVERA_000_304	Había otra cosa que creí que debía saber... Cuando la revisamos en busca de heridas, vimos que tiene la espalda cubierta de verdugones y moretones.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_305	¿¡Quién le hizo esto!?
+TEXT_LUCKYW301_03980_SEVERA_000_306	Parece que la golpeaban con regularidad, a juzgar por las distintas etapas de los moretones. Me atrevo a decir que fue obra de sus amos garleanos.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_307	Hablas como si ya hubieras visto esto antes...
+TEXT_LUCKYW301_03980_SEVERA_000_308	¿Visto? Lo viví en carne propia.
+TEXT_LUCKYW301_03980_SEVERA_000_309	Nací en Werlyt, hace veintitrés veranos.
+TEXT_LUCKYW301_03980_SEVERA_000_310	Mi madre era una mujer del lugar, pero mi padre era un garleano de pura sangre y miembro de las fuerzas de ocupación.
+TEXT_LUCKYW301_03980_SEVERA_000_311	Aunque sé muy poco de él, su rango me otorgó la ciudadanía imperial. Reconocer nuestro parentesco fue toda la responsabilidad que asumió por traerme a este mundo. Aun así, es más de lo que se puede decir de la mayoría de los suyos...
+TEXT_LUCKYW301_03980_SEVERA_000_312	La gente de Werlyt nos rechazaba a mi madre y a mí, y nos trataba tan mal como los garleanos, si no peor. Pensé que si me convertía en soldado imperial, mi posición disuadiría a quienes despreciaban a mi madre, aunque fuera por miedo. Y así me alisté en el ejército.
+TEXT_LUCKYW301_03980_SEVERA_000_313	Pero la aceptación que me gané fue solo temporal, y mis superiores no tardaban en culpar a mi linaje "salvaje" de cualquier supuesto defecto. En lugar de perder el tiempo con consejos de guerra oficiales, aplicaban su propia forma de castigo corporal.
+TEXT_LUCKYW301_03980_SEVERA_000_314	Con el tiempo me asignaron a la XIIth Legion y peleé a las órdenes de Zenos yae Galvus en Ala Mhigo. En el caos que siguió a nuestra derrota, aproveché la oportunidad para huir a Werlyt.
+TEXT_LUCKYW301_03980_SEVERA_000_315	Nunca fue un verdadero hogar, pero era todo lo que tenía. Sin embargo, nada podía prepararme para lo que me esperaba...
+TEXT_LUCKYW301_03980_SEVERA_000_316	Mi madre llevaba muchos años con mala salud y dependía de medicinas para seguir con vida. En mi ausencia, los garleanos le negaron el tratamiento, alegando que sería un desperdicio en salvajes. Cuando por fin pude volver a su lado, ya no había nada que hacer.
+TEXT_LUCKYW301_03980_SEVERA_000_317	Ya no me quedaba nada en Werlyt. Me castigarían por deserción si los imperiales descubrían el motivo de mi regreso, y mis supuestos compatriotas nunca me habían aceptado.
+TEXT_LUCKYW301_03980_SEVERA_000_318	Corrí hasta donde me llevaron las piernas. Fue entonces cuando conocí a Gaius.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_319	Así que esa es la verdad... Salvo unos pocos detalles, no sabía nada de tu pasado. Me asquea pensar que alguna vez peleé bajo la misma bandera que criaturas tan viles.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_320	Siempre creí que el deber de los fuertes era guiar a los débiles. Pero hay quienes se embriagan con el poder que les da su posición y hacen presa de aquellos a quienes deberían proteger.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_321	Como una gangrena, esta corrupción se extendió a todos los rincones del Empire.
+TEXT_LUCKYW301_03980_SEVERA_000_322	Hasta quienes tenemos sangre garleana, como yo, sufrimos su crueldad. Sienten un desprecio especial por los Au Ra, blanco fácil de abusos por ser tan pocos. Quizá Allie, como yo, pensó que se libraría de ese trato al alistarse. Por desgracia...
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_323	...
+TEXT_LUCKYW301_03980_SEVERA_000_324	Solo espero que, con el tiempo, Allie pueda dejar atrás el pasado y construir una nueva vida. Pero por ahora, solo podemos esperar a que pase su delirio. Le toca a Valdeaulin hacer guardia. Preguntémosle si ha habido algún cambio.
+TEXT_LUCKYW301_03980_VALDEAULIN_000_350	Supongo que viene a preguntar por Allie.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_351	¿Está en condiciones de hablar con nosotros?
+TEXT_LUCKYW301_03980_VALDEAULIN_000_352	Su estado mejoró un poco, así que diría que sí, siempre que no le cause una angustia innecesaria. Espere aquí.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_353	Allie... Lo siento. Lo que le pasó a Rex... fue culpa mía.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_354	Y Milisandia, y Ricon... Murieron por mi culpa y por mis necias ambiciones.
+TEXT_LUCKYW301_03980_ALLIE_000_355	Padre, no...
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_356	Esto no puede seguir. Por favor, Allie. Debes contarme todo lo que sabes.
+TEXT_LUCKYW301_03980_ALLIE_100_357	...
+TEXT_LUCKYW301_03980_ALLIE_000_357	Claro.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_358	Primero, necesito saber qué fue de ti y de tus hermanos después de que nos separamos.
+TEXT_LUCKYW301_03980_ALLIE_000_359	Han pasado tantas cosas que parece otra vida... Después de que desapareciste, a todos nos asignaron a la VIIth Legion recién reorganizada.
+TEXT_LUCKYW301_03980_ALLIE_000_360	Al principio, un legatus tras otro era reemplazado enseguida, hasta que por fin pusieron al mando a un hombre llamado Valens van Varro.
+TEXT_LUCKYW301_03980_ALLIE_000_361	Lo enviaron desde la capital, pero antes era especialista en armamento magitek experimental.
+TEXT_LUCKYW301_03980_ALLIE_000_362	Después descubrimos que el Emperador Varis le había ordenado completar un proyecto de warmachinas antiprimals: los Weapons... Pero tras la muerte del Emperador, tuvo libertad para emplear los métodos que quisiera, y su ansia de poder no hizo más que crecer.
+TEXT_LUCKYW301_03980_ALLIE_000_363	Algunos dicen incluso que planea usar el poder de los Weapons para reclamar el trono.
+TEXT_LUCKYW301_03980_ALLIE_000_364	Pero creo que hay otra razón para su obsesión con el proyecto Weapon. Nunca se lo diría a nadie, pero siempre anda murmurando para sí mismo, y pude atar cabos.
+TEXT_LUCKYW301_03980_ALLIE_000_365	Te tiene envidia, padre.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_366	Valens van Varro... Debo admitir que oí ese nombre por primera vez hace poco.
+TEXT_LUCKYW301_03980_ALLIE_000_367	Valens usó sus conocimientos de magitek para idear varias estrategias militares. Le dieron un puesto en el ejército y ascendió rápidamente.
+TEXT_LUCKYW301_03980_ALLIE_100_367	Hasta que un hombre se interpuso en su camino - Tú, padre.
+TEXT_LUCKYW301_03980_ALLIE_200_367	Era uno de los candidatos para dirigir la nueva XIVth Legion, pero ese cargo te lo dieron a ti. Después lo asignaron a las órdenes de un ingeniero mucho más talentoso, Nero, encargado de restaurar el Ultima Weapon.
+TEXT_LUCKYW301_03980_ALLIE_300_367	Valens te guarda rencor desde entonces, hasta el punto de oponerse a los ideales que defendías. Tú tratabas a quienes servían al Empire según sus méritos y no según su raza u origen, pero Valens insiste en que los garleanos de pura sangre son superiores a todos los demás.
+TEXT_LUCKYW301_03980_SEVERA_100_368	Nunca deja de asombrarme hasta dónde llegan algunos en nombre de la venganza. Todo ese odio, pudriéndose por dentro... Nada bueno podría salir de eso.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_369	Entonces, ¿las marcas en tu cuerpo son obra suya?
+TEXT_LUCKYW301_03980_ALLIE_000_370	...Sí. Para Valens y sus hombres, no somos más que carne para sus experimentos, juguetes con los que desahogar sus frustraciones. Todos los días están llenos de dolor, y nada más...
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_371	Si me hubiera quedado en Garlemald, nunca habrían tenido que soportar este abuso.
+TEXT_LUCKYW301_03980_ALLIE_100_371	No es tu culpa, padre. Podríamos haber huido de Valens si hubiéramos querido. Después de todo, somos desechables y fáciles de reemplazar. La verdad es que justamente por eso <italic(1)>no podíamos<italic(0)> huir.
+TEXT_LUCKYW301_03980_ALLIE_000_372	Salvarnos habría sido condenar a otros. Pero si nos quedábamos y llevábamos a término el proyecto Weapon, tendríamos el poder de derrotar a Valens y después al propio Empire, y liberar al mundo de su tiranía.
+TEXT_LUCKYW301_03980_ALLIE_000_373	Así podríamos empezar de nuevo y encontrar un lugar al que llamar hogar. Y no solo para nosotros, sino para cualquiera que desee vivir en paz.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_374	Darían la vida por un futuro que quizá no vivan para ver...
+TEXT_LUCKYW301_03980_ALLIE_000_375	Tus enseñanzas nos dieron valor, padre. Los fuertes deben guiar a los débiles, y nosotros conseguiríamos esa fuerza por cualquier medio necesario. Pelearemos por quienes no pueden hacerlo.
+TEXT_LUCKYW301_03980_ALLIE_000_376	Pero sabíamos que nunca aceptarías que participáramos en el proyecto Weapon, y por eso no podíamos pedirte ayuda.
+TEXT_LUCKYW301_03980_ALLIE_000_377	Como pilotos, somos los únicos que pueden detener a Valens. Sabemos lo poderosos que son los Weapons. Los usaría para poner al mundo de rodillas.
+TEXT_LUCKYW301_03980_ALLIE_000_378	Y su "obra maestra" es el peor de todos...
+TEXT_LUCKYW301_03980_ALLIE_100_378	Si tan solo pudiera ponerle las manos encima... ¡Entonces podría salvar a Alfonse y a todo Werlyt!
+TEXT_LUCKYW301_03980_ALLIE_000_379	Padre, sé que Alfonse y tú están en bandos opuestos de este conflicto, pero debe haber alguna forma de que lo ayudes.
+TEXT_LUCKYW301_03980_ALLIE_000_380	Puede que antes te haya llamado nuestro enemigo, pero nunca lo dijo en serio. Todavía te quiere, padre. Eres todo lo que aspira a ser.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_381	Le fallé. Les fallé a todos.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_382	Pero me niego a abandonarlo a su suerte. Lo liberaré de Valens, aunque sea lo último que haga.
+TEXT_LUCKYW301_03980_ALLIE_000_383	Gracias... Te necesita. Ahora más que nunca.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_100_383	Escucha, Allie. Una vez busqué la fuerza para reconstruir el mundo como me parecía. Pero el Ultima Weapon no nació para crear, sino para destruir.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_200_383	Alfonse no debe seguir mis pasos. Sé muy bien adónde llevan.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_384	Haré todo lo que pueda por ayudar a tu hermano. Te lo ruego, dime dónde está.
+TEXT_LUCKYW301_03980_ALLIE_000_385	Él está...
+TEXT_LUCKYW301_03980_ALLIE_000_386	Lo siento. No sé dónde podría estar.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_387	En ese caso, haré que la Alliance envíe exploradores. Donde sea que esté, lo encontraremos. En cuanto a ti, Allie, debes quedarte aquí y descansar.
+TEXT_LUCKYW301_03980_ALLIE_100_386	Espera... Tú fuiste quien peleó contra Rex, Ricon y Milisandia, ¿verdad?
+TEXT_LUCKYW301_03980_ALLIE_200_386	Fuimos nosotros quienes amenazamos tu tierra. Solo hiciste lo que tenías que hacer.
+TEXT_LUCKYW301_03980_ALLIE_300_386	No tengo derecho a pedirte esto, pero...
+TEXT_LUCKYW301_03980_ALLIE_400_386	Préstale tu fuerza a mi padre. Salva a Alfonse.
+TEXT_LUCKYW301_03980_ALLIE_500_386	...Ahora sé por qué te llaman "<if(gnum4,heroína,héroe)>".
+TEXT_LUCKYW301_03980_ALLIE_600_386	Alfonse, haré lo que deba para liberarte, aunque signifique ir contra los deseos de padre. Pero tengo un buen presentimiento sobre su nuev<if(gnum4,a,o)> amig<if(gnum4,a,o)>...
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_388	Severa, asegúrate de que tenga todo lo que necesita.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_389	Hay que informar a nuestros aliados de estos preocupantes sucesos. ¿Puedo pedirle que transmita esta noticia a las tropas en Gyr Abania?
+TEXT_LUCKYW301_03980_VALDEAULIN_000_390	Tu papel de "padre amoroso" podrá engañar a los demás, Gaius, pero no a mí. Por cada vida que salvaste, acabaste con mil más. ¿O esa es tu idea de la redención?
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_391	Llámalo como quieras. A pesar de todas mis transgresiones, creo que todavía tengo un papel que cumplir.
+TEXT_LUCKYW301_03980_VALDEAULIN_000_392	¿Me equivoqué al perdonarte aquel día? ¿O cumplirás tu palabra? ...Parece que llegó la hora de que el Black Wolf muestre su verdadera cara.
+TEXT_LUCKYW301_03980_SEVERA_000_395	Aunque hayas vencido al Emerald Weapon, no hay mucho que celebrar. Otra vida joven truncada...
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_400	La muerte de Rex pesa sobre mí, no sobre usted. Ojalá se hubiera podido evitar este enfrentamiento, pero, por desgracia, no pudo ser.
+TEXT_LUCKYW301_03980_RESISTANCEOFFICER_000_450	Hace poco nos llegó la noticia de su victoria sobre el Emerald Weapon. Imagino que fue otra magnífica demostración de su parte, aunque ninguno de nosotros estuvo allí para verla...
+TEXT_LUCKYW301_03980_RESISTANCEOFFICER_000_451	Por eso le agradeceríamos un relato con pelos y señales, si no le molesta.
+TEXT_LUCKYW301_03980_RESISTANCEOFFICER_000_452	¡Santo cielo, parece que tuvo muchísimo que enfrentar! Mejor usted que yo... ¡Ejem! Voy a agregar esto a nuestra creciente pila de informes, por si alguien desea revisar esta información antes de la próxima salida.
+TEXT_LUCKYW301_03980_RESISTANCEOFFICER_000_453	Ahora, si me permite decirlo, parece que estas pruebas le pasaron factura. Le avisaremos si algo requiere su atención, pero hasta entonces, ¡asegúrese de descansar!
+TEXT_LUCKYW301_03980_SYSTEM_000_454	Mientras tanto, en la cámara de corrección de la VIIth Legion...
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_455	Tres Weapons. Tres lamentables demostraciones de ineptitud...
+TEXT_LUCKYW301_03980_ALFONSE_100_455	¡Aghhh!
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_456	Y para colmo, una de mis mejores candidatas - nada menos que tu preciosa hermana - ¡se escapó!
+TEXT_LUCKYW301_03980_ALFONSE_100_456	¡Unnngh!
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_457	¡Y a quién fue a arrastrarse, si no a ese cerdo de Gaius! ¡Después de todo lo que le hic- lo que hice <italic(1)>por<italic(0)> ella, y así me lo paga! ¡Como hermano mayor, es tu responsabilidad inculcarle algo de disciplina, y fallaste miserablemente!
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_458	¿Y bien? No te quedes ahí parado, muchacho.
+TEXT_LUCKYW301_03980_VALENSVANVARRO_100_458	¡Oh, claro! Es tu primera vez, ¿verdad? Ven, no hay por qué ser tímido.
+TEXT_LUCKYW301_03980_VALENSVANVARRO_200_458	Verás, algo malvado se apoderó de este joven, y es nuestro trabajo purificar su espíritu atormentado.
+TEXT_LUCKYW301_03980_VALENSVANVARRO_300_458	Puede parecer doloroso, pero es la única manera, te lo aseguro. Te lo va a agradecer muchísimo, y quieres que mejore, ¿verdad?
+TEXT_LUCKYW301_03980_VALENSVANVARRO_400_458	¡Así me gusta! Ahora, intentemos de nuevo, ¿sí?
+TEXT_LUCKYW301_03980_VALENSVANVARRO_500_458	¡Que arda lo malo! ¡Que arda lo malo!
+TEXT_LUCKYW301_03980_ELEZENBOY03980_600_458	(-Pupilo elezen-)Q-Que arda lo malo... ¡Que arda lo malo!
+TEXT_LUCKYW301_03980_VALENSVANVARRO_700_458	(-Pupilos de Valens-)¡Que arda lo malo! ¡Que arda lo malo!
+TEXT_LUCKYW301_03980_ALFONSE_000_459	¡Gaaaaaagh!
+TEXT_LUCKYW301_03980_VALENSVANVARRO_100_459	¡Muy bien! Hicieron que padre se sienta orgulloso. ¡Muy orgulloso, de verdad!
+TEXT_LUCKYW301_03980_VALENSVANVARRO_200_459	En cuanto a ti...
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_460	Creí que estabas por encima del resto de los salvajes, pero parece que me equivoqué. Y como dejaste escapar a esa desgraciada hermana tuya, te toca a ti ocupar su lugar.
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_461	Te elijo como próximo piloto, y tu misión es simple: matar a Gaius van Baelsar, cueste lo que cueste. Y si se te ocurre siquiera volver a traicionarme, exterminaré hasta el último de los tuyos...
+TEXT_LUCKYW301_03980_VALENSVANVARRO_100_461	...¡como las alimañas que son!
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_462	Dicho esto, iniciaremos Oversoul a la fuerza con los datos de combate de Zenos, así que cualquier plan que estés tramando nunca se hará realidad. Lo único que tienes que hacer es relajarte y dejar que el sistema de auracite sintética haga el trabajo, contigo como conducto.
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_463	Deberías agradecerme que te permita formar parte de mi obra maestra. ¡Tu existencia sin valor por fin tendrá algo parecido a un sentido!
+TEXT_LUCKYW301_03980_VALENSVANVARRO_100_463	Jejeje...
+TEXT_LUCKYW301_03980_MECHANIC03980_100_463	(-Segundo al mando de Valens-)Lord Valens, los preparativos para la prueba de Oversoul están listos. Esperamos sus órdenes.
+TEXT_LUCKYW301_03980_VALENSVANVARRO_200_463	Espléndido. ¡Aquí nunca hay un momento aburrido!
+TEXT_LUCKYW301_03980_VALENSVANVARRO_300_463	Bien, muchachos. ¿A quién le gustaría ver algo especial?
+TEXT_LUCKYW301_03980_VALENSVANVARRO_400_463	¡Vengan todos! ¡Padre tiene secretos que compartir con ustedes!
+TEXT_LUCKYW301_03980_ALFONSE_000_464	Esta es mi oportunidad... Y todo gracias a los sacrificios de mis queridos hermanos. Por fin, el Weapon estará bajo mi mando.
+TEXT_LUCKYW301_03980_ALFONSE_000_465	Cuando alcance la perfección, seré imparable. Primero caerá Valens... luego el propio Empire, y por fin seremos libres.
+TEXT_LUCKYW301_03980_ALFONSE_000_466	Padre... cuida a Allie.
+TEXT_LUCKYW301_03980_ALFONSE_000_467	Milisandia, Ricon, Rex... Llegaré hasta el final. Lo prometo.
+TEXT_LUCKYW301_03980_ALFONSE_100_467	Hasta entonces, cuiden de mí.
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_468	¿Y bien? ¿Está listo o no?
+TEXT_LUCKYW301_03980_MECHANIC03980_100_469	La secuencia de prueba está preparada, señor.
+TEXT_LUCKYW301_03980_VALENSVANVARRO_200_469	¡Entonces adelante!
+TEXT_LUCKYW301_03980_MECHANIC03980_000_469	Iniciando el sistema de auracite sintética. Cargando la simulación del Diamond Weapon.
+TEXT_LUCKYW301_03980_WERLYTPILOT03980_000_470	¿Q-Qué está pasando?
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_471	Solo nos ayudas con una pequeña investigación, eh... como te llames. ¡Llegó la hora de que contribuyas a la gloria de Garlemald!
+TEXT_LUCKYW301_03980_WERLYTPILOT03980_000_472	¡E-Esto no fue lo que acordamos! ¡Dijo que s-si participaba en el experimento, dejaría ir a mi f-familia!
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_473	Tienes cargados los datos de Zenos, ¿sí? Activa Oversoul, y rápido.
+TEXT_LUCKYW301_03980_MECHANIC03980_000_474	Entendido, Lord Valens.
+TEXT_LUCKYW301_03980_SYSTEM_000_475	(-Ingeniero superior de la VIIth Legion-)Muestra de combate Galvus lista.<br>Iniciando sobrescritura del núcleo orgánico.
+TEXT_LUCKYW301_03980_WERLYTPILOT03980_000_476	¡Nnnaaaaaaggghhh!
+TEXT_LUCKYW301_03980_WERLYTPILOT03980_000_477	Mi... mente se... ¡Nooo!<br>Si esto es... lo que hace falta para... protegerlos a los dos... yo...<br>¡Los amo! ¡Lo siento tanto...!
+TEXT_LUCKYW301_03980_WERLYTPILOT03980_000_478	¿Dónde... está mi presa?
+TEXT_LUCKYW301_03980_MECHANIC03980_000_479	Sobrescritura del núcleo orgánico completa. Datos de Zenos yae Galvus cargados.
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_480	Suficiente. ¡Apágalo!
+TEXT_LUCKYW301_03980_MECHANIC03980_000_481	Desactivando el sistema de auracite sintética.
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_482	Hmm... El sujeto busca presas por instinto, desde el primer momento. Por muy grande que sea su destreza en combate, necesito un sirviente obediente, no una bestia hambrienta.
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_483	¡Qué repugnante! Y cómo deja la cabina.
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_484	¡Ajusta los parámetros y prepara otra prueba! Por suerte, el siguiente sujeto ya está listo y esperando...
+TEXT_LUCKYW301_03980_MECHANIC03980_000_485	Pero señor, usted acordó liberar a su familia a cambio de su cooperación...
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_486	¡Ajajaja! ¡Ajajajajajajaaaaaa!
+TEXT_LUCKYW301_03980_VALENSVANVARRO_000_487	¡Vaya, vaya! ¡No sabía que tenías un sentido del humor tan maravilloso! ¿El gran Valens van Varro negociando con salvajes? ¡Ja! ¡Tanto peor para él por confiar en mí!
+TEXT_LUCKYW301_03980_SEVERA_000_490	Déjame a Allie. Cuidé a mi madre tanto tiempo antes de que me trasladaran que me gusta pensar que aprendí a tratar a los enfermos.
+TEXT_LUCKYW301_03980_VALDEAULIN_000_495	Aunque conozco de sobra la crueldad que el Empire muestra a sus enemigos, hasta a mí me horroriza saber cómo trata a los suyos. Warmachinas que se alimentan de la vida de sus pilotos... Apenas puedo imaginar algo más atroz.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_500	Seguramente la mayor parte de la VIIth Legion está apostada en la ciudad de Werlyt, el corazón de este territorio ocupado. Si Alfonse está con ellos, está por verse.
+TEXT_LUCKYW301_03980_SHADOWHUNTER_000_505	Según Allie, aún queda otro Weapon, pero no sabemos dónde. Sin embargo, es lógico pensar que, si lo encontramos, Alfonse no estará lejos.

@@ -1,0 +1,52 @@
+key	text
+TEXT_CLSWDK003_00141_SEQ_00	Timbermaster Beatin necesita a un carpenter que ayude a uno de sus aprendices más nuevos.
+TEXT_CLSWDK003_00141_SEQ_01	Posponiendo tu prueba final, Timbermaster Beatin te pide que ayudes a uno de los miembros más nuevos del gremio, un aventurero llamado Mera Pamera.
+TEXT_CLSWDK003_00141_SEQ_02	La tarea de preparar una enorme cantidad de oak lumber sobrepasó a tu colega aventurero Mera Pamera. Con la esperanza de escapar de la infame ira de Timbermaster Beatin, te ruega que fabriques en su lugar un ash shortbow y un feathered harpoon, y que los entregues en el Archers' Guild y en el Lancers' Guild, respectivamente.
+TEXT_CLSWDK003_00141_SEQ_03	Entregas los objetos como te pidieron y le ahorras al aprendiz lalafell un destino peor que la muerte. Informa a Timbermaster Beatin.
+TEXT_CLSWDK003_00141_SEQ_04	Timbermaster Beatin no se deja engañar por tus intentos de atribuirle tu trabajo a Mera Pamera, y sin embargo el engaño no parece molestarle en absoluto. Luego revela que todo el asunto era en realidad una tercera prueba improvisada para medir tu compasión. Te felicita por completar tu formación y te declara carpenter oficial.<br><br>※La siguiente misión de carpenter estará disponible con Beatin al llegar al nivel 20.
+TEXT_CLSWDK003_00141_TODO_00	Habla con Mera Pamera.
+TEXT_CLSWDK003_00141_TODO_01	Entrégale un feathered harpoon a Ywain.
+TEXT_CLSWDK003_00141_TODO_02	Entrégale un ash shortbow a Luciane.
+TEXT_CLSWDK003_00141_TODO_03	Informa a Beatin.
+TEXT_CLSWDK003_00141_BEATINE_000_1	Saludos, <split(<string(gstr1)>, ,1)>. Su formación como carpenter está casi completa. De hecho, tenía preparada una espléndida prueba final para usted.
+TEXT_CLSWDK003_00141_BEATINE_000_2	Por desgracia, los apuros de uno de los miembros más nuevos del gremio requieren mi atención.
+TEXT_CLSWDK003_00141_BEATINE_000_3	El muchacho se llama Mera Pamera y es aventurero como usted, aunque bastante menos prometedor.
+TEXT_CLSWDK003_00141_BEATINE_000_4	Algo le preocupa, pero se resiste a hablar de asuntos personales conmigo, aunque soy la <italic(1)>comprensión<italic(0)> en persona, como usted sabe...
+TEXT_CLSWDK003_00141_BEATINE_000_5	¿Quizá a usted le vaya mejor? Presiento que estará más dispuesto a hablar con alguien que también sea aventurero.
+TEXT_CLSWDK003_00141_BEATINE_000_6	Ahora vaya, <split(<string(gstr1)>, ,1)>, y no me decepcione.
+TEXT_CLSWDK003_00141_MERAPAMERA_000_10	¡Que los dioses me castiguen por necio! ¡Nunca voy a terminar a tiempo!
+TEXT_CLSWDK003_00141_MERAPAMERA_000_11	¡Por favor! ¡<italic(1)>Tienes<italic(0)> que ayudarme!
+TEXT_CLSWDK003_00141_MERAPAMERA_000_12	Sabes hacer ash shortbows y feathered harpoons, ¿verdad?
+TEXT_CLSWDK003_00141_MERAPAMERA_000_13	Verás, se me olvidó por completo que acepté fabricar dos armas para el Archers' Guild y el Lancers' Guild, con entrega a más tardar... bueno... hoy.
+TEXT_CLSWDK003_00141_MERAPAMERA_000_14	¡Pero hoy <italic(1)>también<italic(0)> tengo que completar un pedido de <italic(1)>cien<italic(0)> piezas de oak lumber!
+TEXT_CLSWDK003_00141_MERAPAMERA_000_15	¡O sea que no puedo hacer las dos cosas! ¡Y Timbermaster Beatin es un verdadero <italic(1)>terror<italic(0)> cuando se enoja! ¡Si me atrevo a descuidar cualquiera de los dos encargos, seguro que no me libro de su serrucho!
+TEXT_CLSWDK003_00141_MERAPAMERA_000_16	Entonces... mientras yo me mato con esta madera, ¿aceptarías fabricar las armas para los gremios?
+TEXT_CLSWDK003_00141_MERAPAMERA_000_17	¡Gracias! ...Ah, y cuando las termines, te agradecería que se las llevaras a los maestros de cada gremio. ¡Buena suerte!
+TEXT_CLSWDK003_00141_YWAIN_000_20	Saludos, <if(gnum4,aventurera,aventurero)>. No parece que vengas a entrenar...
+TEXT_CLSWDK003_00141_YWAIN_000_21	¡Ah, el feathered harpoon! Gracias por la entrega.
+TEXT_CLSWDK003_00141_YWAIN_000_22	Si no llegaba a tiempo, estaba pensando en usar un arpón de pescador.
+TEXT_CLSWDK003_00141_YWAIN_000_23	Te veo sorprendid<if(gnum4,a,o)>. Supongo que no sabías que los arpones que usamos en batalla nacieron de la humilde herramienta del pescador.
+TEXT_CLSWDK003_00141_YWAIN_000_24	Así es. Cuando los pescadores hyur emigraron de las costas al interior, adaptaron las herramientas de su oficio para cazar.
+TEXT_CLSWDK003_00141_YWAIN_000_25	El arpón resultante demostró ser un arma temible, y los lancers de antaño lo hicieron suyo. Cuesta creerlo, ¿no?
+TEXT_CLSWDK003_00141_YWAIN_000_26	Debo decir que este arpón es una pieza de artesanía particularmente impresionante. Mis felicitaciones al carpenter.
+TEXT_CLSWDK003_00141_LUCIANE_000_30	Bienvenid<if(gnum4,a,o)>, <if(gnum4,aventurera,aventurero)>. ¿A qué debemos el placer?
+TEXT_CLSWDK003_00141_LUCIANE_000_31	¿Este es el ash shortbow que pedimos? Gracias por traerlo.
+TEXT_CLSWDK003_00141_LUCIANE_000_32	Por si te lo preguntas, una de nuestras reclutas miqo'te ha tenido dificultades. Aunque tiene talento, el arco largo que le dimos no se ajusta a los brazos más cortos y a la complexión más delgada de una miqo'te.
+TEXT_CLSWDK003_00141_LUCIANE_000_33	Pero me atrevo a decir que este arco corto, con su tensión más ligera y su envergadura más modesta, la ayudará a alcanzar su verdadero potencial.
+TEXT_CLSWDK003_00141_LUCIANE_000_34	De hecho, arcos cortos no muy distintos de este eran los preferidos de sus antepasados. Hay cosas que nunca cambian.
+TEXT_CLSWDK003_00141_LUCIANE_000_35	Se nota que se puso mucho cuidado en la construcción de este arco corto. Me aseguraré de que nuestra recluta no escatime esfuerzos en aprovechar este regalo.
+TEXT_CLSWDK003_00141_BEATINE_000_40	Qué amable de su parte ayudar a Mera Pamera con los pedidos. Los maestros de los gremios también hablaron muy bien de <italic(1)>su<italic(0)> trabajo. Esto está muy bien.
+TEXT_CLSWDK003_00141_BEATINE_000_41	No intente engañarme. Sé muy bien que fue obra suya. Ni falta hace decir que hubo que castigar al lalafell. Ah... últimamente paso más tiempo aserrando aprendices que madera.
+TEXT_CLSWDK003_00141_BEATINE_000_42	...Estoy bromeando, claro. Un serrucho se desperdicia en un aprendiz. El olor a sangre persiste y dificulta concentrarse en el trabajo. Esto lo <italic(1)>sé<italic(0)>.
+TEXT_CLSWDK003_00141_BEATINE_000_43	Admito que no ignoraba la situación de Mera Pamera.
+TEXT_CLSWDK003_00141_BEATINE_000_44	De hecho, vi una oportunidad de poner a prueba su carácter.
+TEXT_CLSWDK003_00141_BEATINE_000_45	Ayudó a un colega carpenter sin esperar recompensa, entregó objetos finamente trabajados cuando habría bastado con unos simplemente útiles, y no reclamó ningún mérito.
+TEXT_CLSWDK003_00141_BEATINE_000_46	Estoy orgulloso de usted, <split(<string(gstr1)>, ,1)>. No me cabe duda de que su talento le servirá muy bien a la nación de Gridania y salvará muchas vidas.
+TEXT_CLSWDK003_00141_BEATINE_000_47	Tal como causará muchas muertes. Esa es la responsabilidad de todos los que fabrican armas.
+TEXT_CLSWDK003_00141_BEATINE_000_48	Pero elegir entre la muerte de nuestra gente y la de nuestros enemigos no es ninguna elección.
+TEXT_CLSWDK003_00141_BEATINE_000_49	Pasó la tercera y última prueba. Felicitaciones, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSWDK003_00141_BEATINE_000_50	Con sus actos demostró que entiende lo que significa conocer la madera, ser la madera y amar la madera.
+TEXT_CLSWDK003_00141_BEATINE_000_51	Posee el conocimiento, la habilidad y la compasión necesarios para dominar la carpintería.
+TEXT_CLSWDK003_00141_BEATINE_000_52	Al superar estas pruebas, demostró que ya no es novat<if(gnum4,a,o)>. El brote va camino de convertirse en árbol.
+TEXT_CLSWDK003_00141_BEATINE_000_53	Ahora es un verdadero carpenter del Oak Atrium.
+TEXT_CLSWDK003_00141_BEATINE_000_54	Sepa, sin embargo, que por muy refinadas que sean sus habilidades, siempre habrá más que aprender. Represéntenos bien en sus viajes, <split(<string(gstr1)>, ,1)>, y vuelva a menudo. Siempre será bienvenid<if(gnum4,a,o)>.

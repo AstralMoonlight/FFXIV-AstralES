@@ -1,0 +1,31 @@
+key	text
+TEXT_SUBFST120_00700_SEQ_00	Vorsaile cree que ya es hora de que te asignen un chocobo personal.
+TEXT_SUBFST120_00700_SEQ_01	Para obtener tu chocobo personal, debes presentarle a Cingur una Serpent Chocobo Issuance. Este documento se obtiene canjeando company seals con el intendente de los Twin Adder. Esperemos que hayas guardado tus seals...
+TEXT_SUBFST120_00700_SEQ_02	Cingur te trae tu ave, y es amor a primera vista. Ponle nombre a tu nuevo compañero y hazlo oficial.
+TEXT_SUBFST120_00700_SEQ_03	Tras mucho deliberar, te decides por un nombre digno del corcel más noble. Avísale a Cingur para completar las últimas formalidades.
+TEXT_SUBFST120_00700_SEQ_04	Y así empiezan las aventuras de <string(gstr1)> y <string(gstr55)>. ¡Que su amistad dure para siempre!
+TEXT_SUBFST120_00700_TODO_00	Preséntale una Serpent Chocobo Issuance a Cingur.
+TEXT_SUBFST120_00700_TODO_01	Ponle nombre a tu chocobo.
+TEXT_SUBFST120_00700_TODO_02	Habla con Cingur.
+TEXT_SUBFST120_00700_Vorsaile_000	Ah, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Tengo entendido que ha trabajado sin descanso en nombre de Gridania. Usted es un verdadero ejemplo para sus compañeros Serpents.
+TEXT_SUBFST120_00700_Vorsaile_001	Pero dígame, ¿nunca ha sentido que no llega a su destino lo bastante rápido? ¿Que quizá le vendría bien un par de patas más veloces?
+TEXT_SUBFST120_00700_Vorsaile_002	De ser así, podría considerar conseguir un chocobo personal. Todavía no le han asignado su propia ave, ¿verdad? Con su considerable talento, debería poder obtener una en muy poco tiempo. Déjeme explicarle cómo.
+TEXT_SUBFST120_00700_Vorsaile_003	Primero, debe conseguir una Serpent Chocobo Issuance canjeando company seals con el intendente. Cuando tenga ese documento, preséntesela a nuestro hombre, Cingur, y él le asignará un ave adecuada.
+TEXT_SUBFST120_00700_Vorsaile_010	Para que le asignen un chocobo personal, primero debe conseguir una Serpent Chocobo Issuance canjeando company seals con el intendente. Cuando tenga ese documento, preséntesela a nuestro hombre, Cingur, y él le asignará un ave adecuada.
+TEXT_SUBFST120_00700_Cingur_000	¿Quiere que le asignen un ave, dice? Entonces tendré que ver su Serpent Chocobo Issuance.
+TEXT_SUBFST120_00700_Cingur_010	Sí, todo parece en orden.
+TEXT_SUBFST120_00700_Cingur_011	Un momento, por favor. Enseguida vuelvo con su chocobo.
+TEXT_SUBFST120_00700_Cingur_012	¡Y aquí está! El muchacho ha estado de muy buen humor estas últimas horas. ¡Debe de haber presentido que venía su <if(gnum4,dueña,dueño)>!
+TEXT_SUBFST120_00700_Cingur_013	Ahora bien, para hacerlo oficial, querrá ponerle nombre a su noble corcel.
+TEXT_SUBFST120_00700_Cingur_020	¿Quiere que le asignen un ave, dice? Entonces tendré que ver su Serpent Chocobo Issuance. Puede conseguirla con el intendente de los Twin Adder, en el Adders' Nest.
+TEXT_SUBFST120_00700_Cingur_021	Por supuesto, tendrá que canjear Serpent Seals por ella. Las gana haciendo tareas para la Order of the Twin Adder, la Grand Company de Gridania.
+TEXT_SUBFST120_00700_CHOCOBO_000	¡Kweh!
+TEXT_SUBFST120_00700_Cingur_030	Ahora bien, para hacerlo oficial, querrá ponerle nombre a su noble corcel.
+TEXT_SUBFST120_00700_Cingur_040	¡Je, je! ¡Me atrevería a decir que le gusta su nombre!
+TEXT_SUBFST120_00700_Cingur_041	Aquí tiene su propio silbato de chocobo. Solo tiene que soplarlo y su amigo emplumado acudirá corriendo a su lado.
+TEXT_SUBFST120_00700_Cingur_042	Pero discúlpelo si no responde cuando lo llame en zonas concurridas de la ciudad o en guaridas infestadas de monstruos. Los chocobos son criaturas valientes, pero tienen sus límites.
+TEXT_SUBFST120_00700_Cingur_043	Y por último, le entrego su licencia de jinete de chocobo, como exige la ley.
+TEXT_SUBFST120_00700_Cingur_044	¡Y con eso concluyen las formalidades! ¡Les deseo a usted y a su chocobo largos años de grata compañía!
+TEXT_SUBFST120_00700_CHOCOBO_PROMPT_TITLE	Ponle nombre a tu chocobo
+TEXT_SUBFST120_00700_CHOCOBO_PROMPT_CAPTION	Nombre
+TEXT_SUBFST120_00700_CHOCOBO_PROMPT_MES0	El nombre debe tener entre 2 y 20 caracteres alfabéticos.

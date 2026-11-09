@@ -1,0 +1,85 @@
+key	text
+TEXT_CLSWDK630_02442_SEQ_00	Timbermaster Beatin tiene noticias sobre Cemi.
+TEXT_CLSWDK630_02442_SEQ_01	Al recibir una carta de Cemi que divaga sobre las deliciosas comidas de Hingashi, a Beatin le preocupa que su joven aprendiz haya perdido de vista su verdadero propósito allí. Junto con nuevas instrucciones, decide enviar a alguien de confianza a Kugane para que la mantenga en el camino correcto. Esa persona eres tú.
+TEXT_CLSWDK630_02442_SEQ_02	Hablas brevemente con Cemi y le comunicas las órdenes de Beatin: los dos deben buscar a ciudadanos con problemas y usar sus habilidades de carpintería para resolverlos. Sin perder un instante, ella sugiere separarse y buscar por la ciudad a gente que necesite su serrucho y su martillo.
+TEXT_CLSWDK630_02442_SEQ_03	Te encuentras con Cemi en compañía de una mujer angustiada. Volviéndose hacia ti con vergüenza, empieza a explicar lo ocurrido, pero la interrumpen enseguida. Según cuenta la señora, por sus rasgos sencillos todo el mundo la pasa por alto, y sufre graves problemas de autoestima. Cuando Cemi se le acercó ofreciendo ayuda, creyó que era la oportunidad de superar por fin su triste suerte... solo para que la aprendiz se pusiera a jugar con sus herramientas sin escucharla. Avergonzada por la angustia innecesaria que causó, Cemi promete encontrar una solución. Segura de que los actores del Mujikoza tienen la clave para destacar entre la multitud, te pide que vayas a entrevistarlos mientras ella acompaña a la mujer al cercano Shiokaze Hostelry.
+TEXT_CLSWDK630_02442_SEQ_04	Hablas con los actores, que en su mayoría sugieren usar cosméticos. Un toque aquí y allá puede cambiar cómo te ve el mundo y cómo te ves a ti mism<if(gnum4,a,o)>, afirman, y esos cambios positivos por dentro y por fuera ayudan a cultivar la confianza. Valdría la pena compartir esto con Cemi, que te espera en el Shiokaze Hostelry.
+TEXT_CLSWDK630_02442_SEQ_05	Cemi y tú concluyen que una caja donde guardar cosméticos ayudará a la aprensiva mujer a sentirse más segura. Con todas sus brochas y polvos al alcance de la mano, al parecer es el mejor remedio para un espíritu abatido. Fabrica un lavish dressing case de alta calidad y entrégaselo a la señora.<br><br>※Si pierdes los materiales o la síntesis falla, puedes intentarlo de nuevo hablando con Cemi.
+TEXT_CLSWDK630_02442_SEQ_06	Le presentas el lavish dressing case a tu clienta y le explicas lo que dijeron los actores sobre la confianza en uno mismo. Decidida a seguir su consejo, les agradece la ayuda a ti y a Cemi y les desea la mejor suerte en su viaje. Cuando se va, Cemi se vuelve hacia ti con expresión ansiosa. Habla con la joven carpenter y escucha lo que tiene que decir.
+TEXT_CLSWDK630_02442_SEQ_07	Aunque está decepcionada por no poder entregar productos que satisfagan a sus clientes, Cemi está decidida a hacer lo que sea para convertirse en una artesana de primer nivel. Te cuenta cómo piensa entrenar en los próximos días y semanas para mejorar sus habilidades. Con la esperanza de que te unas a su búsqueda, te sugiere que también tomes el serrucho y el martillo y sigas mejorando. Se despiden, prometiendo volver a reunirse para ayudar a la gente de Kugane con sus problemas de muebles cuando se sientan preparados para hacerlo.<br><br>※La siguiente misión de carpenter estará disponible con Cemi al llegar al nivel 65.
+TEXT_CLSWDK630_02442_TODO_00	Habla con Cemi en Kugane.
+TEXT_CLSWDK630_02442_TODO_01	Habla con Cemi Jinjahl.
+TEXT_CLSWDK630_02442_TODO_02	Habla con los actores del Mujikoza.
+TEXT_CLSWDK630_02442_TODO_03	Habla con Cemi Jinjahl en el Shiokaze Hostelry.
+TEXT_CLSWDK630_02442_TODO_04	<if([lnum1<lnum2],Sintetiza un lavish dressing case <sheet(Addon,9,0)>,Entrégale el lavish dressing case <sheet(Addon,9,0)> a la mujer retraída)>.
+TEXT_CLSWDK630_02442_TODO_05	Habla con Cemi.
+TEXT_CLSWDK630_02442_BEATINE_000_001	<split(<string(gstr1)>, ,1)>, tengo noticias de Cemi. Llegó a salvo a Kugane.
+TEXT_CLSWDK630_02442_BEATINE_000_002	O, mejor dicho, eso deduje de esta carta que entra en gran detalle sobre las diversas comidas nuevas que ha probado allí...
+TEXT_CLSWDK630_02442_BEATINE_000_003	Aunque fui yo quien sugirió que hiciera este viaje sola, he reconsiderado mi decisión.
+TEXT_CLSWDK630_02442_BEATINE_000_004	Si esta carta sirve de indicio, necesita a alguien que la guíe en sus estudios en Kugane, alguien que evite que se distraiga de sus objetivos. Me gustaría que esa persona fuera usted.
+TEXT_CLSWDK630_02442_BEATINE_000_005	Para asegurarme de que cumpla lo que la envié a hacer, quisiera que ustedes dos busquen a habitantes que parezcan tener problemas. Con sus habilidades de carpintería, deben encontrar la forma de resolverlos.
+TEXT_CLSWDK630_02442_BEATINE_000_006	Gracias, criatura. Es bueno saber que siempre puedo contar con usted.
+TEXT_CLSWDK630_02442_BEATINE_000_007	Imagino que tendrá varias cosas que atender antes de partir, así que me despediré aquí. Hasta su regreso, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_010	¡<split(<string(gstr1)>, ,1)> - es un verdadero milagro que nuestros caminos se crucen tan pronto y justamente <italic(1)>aquí<italic(0)>!
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_011	¡Espero que esté disfrutando de esta espléndida ciudad tanto como yo! Acabo de llegar y ya estoy completamente enamorada de su gente, su comida y sus costumbres.
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_012	Todo aquí es tan distinto, tan único, algo que sin duda se debe al largo aislamiento de Kugane del resto del mundo. Fíjese, por ejemplo, en los delicados motivos que se repiten en gran parte de su trabajo. Eso nunca lo encontraría en Eorzea.
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_013	¡Ah, perdóneme! ¡Seguro que no vino hasta aquí a escuchar mis reflexiones sobre estas cosas! Aunque, eh... ¿a qué vino exactamente?
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_014	¿¡Por mí, dice!? ¡Esto es fantástico! ¡Seguro que lo pasaremos en grande recorriendo la zona y viendo los paisajes!
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_015	Entonces... Timbermaster Beatin quiere que busquemos a ciudadanos con problemas y los resolvamos con nuestros serruchos y martillos... ¡Qué idea tan brillante!
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_016	¡Esto no solo me ayudará a mejorar mis habilidades, también me dará la oportunidad perfecta para hacerme un nombre como carpenter!
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_017	¡No hay un momento que perder! ¡Recorramos las calles a ver si alguien necesita nuestra ayuda!
+TEXT_CLSWDK630_02442_BEATINE_000_020	Pocos tienen tanta pasión como Cemi, y veo un gran potencial en ella. Sin embargo, con solo potencial nadie llega a nada.
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_030	¡<split(<string(gstr1)>, ,1)>, gracias a la Matron que está aquí! Encontré a alguien que necesita nuestros servicios. Solo hay un pequeñísimo problema...
+TEXT_CLSWDK630_02442_WOMAN02442_000_031	¿¡Por qué nadie escucha nunca lo que tengo que decir!? \<sollozo> E-Ella se me acercó a preguntarme si algo andaba mal, y pensé que esta vez sería distinto. ¡Pero en cuanto empecé a hablar, se sentó y se puso a golpear sus herramientas!
+TEXT_CLSWDK630_02442_WOMAN02442_000_032	¡Por favor, ya no puedo más! <if(gnum4,Señora,Señor)>, necesito ayuda. <italic(1)>Su<italic(0)> ayuda.
+TEXT_CLSWDK630_02442_WOMAN02442_000_033	Es que... estoy harta de mi aspecto. Con este pelo lacio y estos rasgos sencillos, me pierdo entre la multitud. Nadie recuerda nunca quién soy; ¡después de esto, hasta usted se olvidará de mí! \<sollozo> Mi confianza disminuye día a día. Hasta para hablar con alguien tengo que reunir hasta la última onza de valor.
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_034	L-Lo siento mucho. No tenía idea de que se sintiera así. \<suspiro> Mi madre tenía razón. Tengo que aprender a escuchar en lugar de sacar mis propias conclusiones.
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_035	¡No se preocupe, señora! Encontraremos una respuesta a sus problemas. Ahora, por favor, permítame acompañarla al Shiokaze Hostelry, donde podrá esperar mientras vemos cómo resolver esto.
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_036	<split(<string(gstr1)>, ,1)>, mientras tanto, ¿puede ir a entrevistar a algunos actores del Mujikoza?
+TEXT_CLSWDK630_02442_CEMIJINJAHL_100_036	¡Seguro que ellos saben mejor que nadie cómo llamar la atención y tener más confianza!
+TEXT_CLSWDK630_02442_WOMAN02442_000_037	¿¡Q-Quién es esta muchacha tan rara!?
+TEXT_CLSWDK630_02442_YACHIYO_000_040	¿Una mujer que se siente ignorada y no confía en sí misma? Tsk, tsk. ¡Eso no puede ser!
+TEXT_CLSWDK630_02442_YACHIYO_000_041	Quizá tu amiga debería probar los cosméticos. Cambiar el aspecto exterior suele tener la ventaja añadida de transformar cómo te sientes contigo mismo y cómo te percibe el mundo.
+TEXT_CLSWDK630_02442_YACHIYO_000_042	Míranos a nosotros: somos un grupo agresivo y fornido. ¡Pero con un toque de sombra de ojos y un poco de rubor, hasta nosotros nos convertimos en una bandada de muchachas ante tus ojos! Cuando pensamos que somos muchachas, nos volvemos muchachas, así de simple.
+TEXT_CLSWDK630_02442_SHIRANAMI_000_043	¿Confianza? ¿Me preguntas cómo ganar confianza?
+TEXT_CLSWDK630_02442_SHIRANAMI_000_044	La mejor forma es mejorarse a uno mismo, sea de adentro hacia afuera o de afuera hacia adentro.
+TEXT_CLSWDK630_02442_KIKUSUI_000_045	¿Alguna vez me ignoró el público?
+TEXT_CLSWDK630_02442_KIKUSUI_000_046	¡Claro que sí! Cuando pasa, te pones un poco más de polvo en la cara y arreglas tu vestuario. Te encontrarás de pie un poco más derecho, hablando un poco más fuerte y moviéndote con un poco más de audacia, ¡y entonces seguro que te robas el espectáculo!
+TEXT_CLSWDK630_02442_WOMAN02442_000_045	¡En el camino hacia aquí, un hombre intentó caminar <italic(1)>a través<italic(0)> de mí! O sea, sabía que era fácil de olvidar, pero... pero...
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_050	Cualquier otro miembro del gremio ya habría encontrado la forma de resolver el problema de esta pobre señora. \<suspiro> Lo único que logré hasta ahora es reforzar sus miedos...
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_060	¡<split(<string(gstr1)>, ,1)>, gracias a los dioses que por fin volvió! ¡Por favor, por favor, <italic(1)>por favor<italic(0)> dígame que se le ocurrió algo! ¿Qué podemos hacer para ayudar a nuestra amiga a subir su autoestima y que la noten?
+TEXT_CLSWDK630_02442_Q1_000_000	¿Qué vas a decir?
+TEXT_CLSWDK630_02442_A1_000_001	¡Una buena lanza para abatir a todo el que la ignore!
+TEXT_CLSWDK630_02442_A1_000_002	¡Un lavish dressing case para llenarlo de polvos y rubores!
+TEXT_CLSWDK630_02442_A1_000_003	¡Una lámpara deslumbrante para atraer la atención de todos los que pasen!
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_061	¿¡Una lanza!? Estoy de acuerdo en que a quien la ignore a propósito no le vendría mal una lección, pero ¿no le parece que la violencia es un poquito extrema?
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_062	¡Una solución maravillosa! Los cosméticos le permitirán realzar sus rasgos para destacar entre la multitud. Cuando la gente empiece a prestarle más atención, seguro que recupera la confianza perdida.
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_063	Mientras no estaba, me tomé la iniciativa de reunir algunos materiales. Tome, eche un vistazo y llévese lo que necesite. El gremio nos reembolsará todo lo que gastemos, ¡así que no se contenga!
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_064	¡Pero claro! ¡Atraer la atención de todos los que pasen con el resplandor de una linterna! Podemos colgársela delante con un elaborado sistema de cuerdas y poleas y... eh... ¿Quizá haya una solución más sencilla?
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_065	¿¡Cómo que perdió sus materiales!?
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_070	Lo siento. No quise gritar. Es que me tomó por sorpresa, nada más. No se preocupe, <split(<string(gstr1)>, ,1)>, ¡me sobra madera, clavos y lo que haga falta!
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_075	¿Algo más? ¿No? Bueno, aquí tiene. ¡Espero que sea suficiente!
+TEXT_CLSWDK630_02442_CEMIJINJAHL_100_075	¡Ah, y cuando termine de fabricar la caja, por favor llévesela de inmediato a nuestra clienta! ¡Ha estado bastante triste, y seguro que verla la animará mucho!
+TEXT_CLSWDK630_02442_WOMAN02442_000_076	¿De verdad cree que hay esperanza para mí?
+TEXT_CLSWDK630_02442_YACHIYO_100_065	Cambia tu aspecto y pronto verás que eso también transforma lo que eres por dentro.
+TEXT_CLSWDK630_02442_SHIRANAMI_200_065	Puede abordarlo de muchas maneras, pero al final todo se reduce a mejorarse a uno mismo. Si te dedicas a la excelencia, verás cómo tu confianza crece cada día.
+TEXT_CLSWDK630_02442_KIKUSUI_300_065	La vida entera es una actuación, lo admitamos o no. Con vestuario y cosméticos, podemos desaparecer en un papel y al final resurgir como aquello que fingimos ser.
+TEXT_CLSWDK630_02442_WOMAN02442_000_080	...¿Un dressing case? Es increíblemente hermoso, pero no veo cómo me va a ayudar.
+TEXT_CLSWDK630_02442_WOMAN02442_000_081	¿Entonces dice que cambiar mi aspecto cambiará cómo me siento conmigo misma y cómo reacciona la gente?
+TEXT_CLSWDK630_02442_WOMAN02442_000_082	Sin duda vale la pena intentarlo. Revolcarme en la autocompasión, como he hecho hasta ahora, no va a arreglar nada. Esta caja, en cambio, quizá sí.
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_083	¿Puedo verla?
+TEXT_CLSWDK630_02442_WOMAN02442_000_084	¡Oooh!
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_085	¡Es tan hermosa! Todo, hasta el último detalle, está hecho con una precisión delicadísima. ¡Con razón Timbermaster Beatin le tiene en tan alta estima!
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_086	Ni con años de práctica creo que podría fabricar algo tan espléndido...
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_087	Señora, por favor acepte mis más sinceras disculpas por la angustia que le causé antes. Debí tener más consideración por sus sentimientos.
+TEXT_CLSWDK630_02442_WOMAN02442_000_088	No, soy yo quien debe disculparse. Si tan solo tuviera la fuerza de expresar lo que pienso y confiar en mi propia voz, nada de esto habría sido un problema. Además, me atrevo a decir que conocerles a ustedes dos podría ser un punto de inflexión en mi vida.
+TEXT_CLSWDK630_02442_WOMAN02442_000_089	Quisiera agradecerles de todo corazón su ayuda. Les deseo lo mejor en sus empeños.
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_090	¡Graaagh! ¡Sus palabras encendieron en mí un fuego que nunca había sentido! Aunque hasta ahora no he sido más que un estorbo, ¡prometo que no lo seré por mucho tiempo!
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_095	¡No hay por qué dudar! Usted es <if(gnum4,la mejor carpenter,el mejor carpenter)> que conozco. ¡Seguro que se enamorará de la caja en cuanto la vea!
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_100	Gracias, <split(<string(gstr1)>, ,1)>. Sin usted, creo que esa señora nunca habría encontrado la forma de vencer lo que la frenaba.
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_101	\<suspiro> ¿Cree que algún día podré resolver los problemas de los clientes con la misma rapidez que usted? ...Ay, pero ¿qué estoy diciendo? ¡Con un poco de práctica y esfuerzo nada es imposible!
+TEXT_CLSWDK630_02442_CEMIJINJAHL_000_102	¡Tengo mucho que aprender, y es hora de aprovechar al máximo todo lo que ofrece el Lejano Oriente! ¡Pulamos nuestras habilidades y volvamos a reunirnos cuando hayan llegado a un nivel que nos satisfaga!
+TEXT_CLSWDK630_02442_SYSTEM_000_102	Para avanzar en la misión, usa los materiales que te dio Cemi para fabricar un lavish dressing case de alta calidad.
+TEXT_CLSWDK630_02442_SYSTEM_000_103	Si la síntesis no resulta, vuelve a hablar con Cemi para recibir otro juego de materiales.
+TEXT_CLSWDK630_02442_SYSTEM_000_104	Para empezar a fabricar, selecciona <colortype(500)><edgecolortype(501)>Logs<edgecolortype(0)><colortype(0)> en el menú principal y luego <colortype(500)><edgecolortype(501)>Crafting Log<edgecolortype(0)><colortype(0)>. Después selecciona <colortype(500)><edgecolortype(501)>Special Recipes<edgecolortype(0)><colortype(0)> dentro de la disciplina correspondiente, luego <colortype(500)><edgecolortype(501)>Class<edgecolortype(0)><colortype(0)> y por último <colortype(500)><edgecolortype(501)>Class Quests<edgecolortype(0)><colortype(0)> para encontrar la receta deseada.
+TEXT_CLSWDK630_02442_SYSTEM_000_105	¡Al abrir nuevos caminos en la carpintería del Lejano Oriente, aprendiste "Quality Assurance"!

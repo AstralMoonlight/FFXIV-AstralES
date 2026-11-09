@@ -228,49 +228,49 @@ Misiones fuera de la historia que desbloquean funciones del juego.
 |---|---|---|
 | Beauty Is Only Scalp Deep | Cambio de peinado (estilista) | ![Traducido][ok] |
 | If I Had a Glamour | Glamours | ![Traducido][ok] |
-| A Self-improving Man | Glamours, desde Mor Dhona | ![Pendiente][no] |
-| Absolutely Glamourous | Fabricar glamour prisms | ![Pendiente][no] |
+| A Self-improving Man | Glamours, desde Mor Dhona | ![Traducido][ok] |
+| Absolutely Glamourous | Fabricar glamour prisms | ![Traducido][ok] |
 | Color Your World | Tintes | ![Traducido][ok] |
-| An Egi by Any Other Name | Cambiar el aspecto de los egis (`/petglamour`) | ![Pendiente][no] |
-| A Faerie Tale Come True | Cambiar el aspecto de la faerie | ![Pendiente][no] |
-| Gone to Pieces | Desynthesis | ![Pendiente][no] |
-| Forging the Spirit | Extraer materia | ![Pendiente][no] |
-| Waking the Spirit | Insertar materia | ![Pendiente][no] |
-| Melding Materia Muchly | Inserción avanzada de materia | ![Pendiente][no] |
-| Marvelously Mutable Materia | Transmutar materia | ![Pendiente][no] |
-| Submission Impossible | Comprar master crafting tomes | ![Pendiente][no] |
-| Just Tooling Around | Canjear herramientas de gatherer y crafter con Talan | ![Pendiente][no] |
-| Simply to Dye For | Mejorar la armadura artifact con Kakalan | ![Pendiente][no] |
+| An Egi by Any Other Name | Cambiar el aspecto de los egis (`/petglamour`) | ![Traducido][ok] |
+| A Faerie Tale Come True | Cambiar el aspecto de la faerie | ![Traducido][ok] |
+| Gone to Pieces | Desynthesis | ![Traducido][ok] |
+| Forging the Spirit | Extraer materia | ![Traducido][ok] |
+| Waking the Spirit | Insertar materia | ![Traducido][ok] |
+| Melding Materia Muchly | Inserción avanzada de materia | ![Traducido][ok] |
+| Marvelously Mutable Materia | Transmutar materia | ![Traducido][ok] |
+| Submission Impossible | Comprar master crafting tomes | ![Traducido][ok] |
+| Just Tooling Around | Canjear herramientas de gatherer y crafter con Talan | ![Traducido][ok] |
+| Simply to Dye For | Mejorar la armadura artifact con Kakalan | ![Traducido][ok] |
 
 ### Sistemas generales
 
 | Misión | Desbloquea | Estado |
 |---|---|---|
-| Rising to the Challenge | Challenge Log | ![Pendiente][no] |
-| A Sight to Behold | Sightseeing Log | ![Pendiente][no] |
-| Treasures and Tribulations | Mapas del tesoro (Decipher y Dig) | ![Pendiente][no] |
-| An Ill-conceived Venture (una por ciudad) | Retainers | ![Pendiente][no] |
-| My Little Chocobo (una por Grand Company) | Chocobo propio | ![Pendiente][no] |
-| My Feisty Little Chocobo | Chocobo como compañero de combate | ![Pendiente][no] |
-| Bird in Hand | Entrenar al chocobo | ![Pendiente][no] |
-| Where the Heart Is (Mist, The Lavender Beds, The Goblet) | Viviendas | ![Pendiente][no] |
-| Ascending to Empyreum | Viviendas en Empyreum | ![Pendiente][no] |
-| Simply the Hest (una por ciudad) | Guildhests | ![Pendiente][no] |
-| Leves of Swiftperch, Aleport, Moraby, Costa del Sol y Wineport | Guildleves en La Noscea | ![Pendiente][no] |
-| Leves of Bentbranch, Hawthorne, Quarrymill y Camp Tranquil | Guildleves en The Black Shroud | ![Pendiente][no] |
-| Leves of Horizon, Camp Drybone, Little Ala Mhigo y Camp Bluefog | Guildleves en Thanalan | ![Pendiente][no] |
-| Leves of the Observatorium y Leves of Whitebrim | Guildleves en Coerthas | ![Pendiente][no] |
-| Leves of Saint Coinach's Find | Guildleves en Mor Dhona | ![Pendiente][no] |
-| Keeping Up with the Aliapohs | Wondrous Tails | ![Pendiente][no] |
-| A Striking Opportunity | Stone, Sky, Sea | ![Pendiente][no] |
-| Another Striking Opportunity | Stone, Sky, Sea: ampliación de Stormblood | ![Pendiente][no] |
-| Yet Another Striking Opportunity | Stone, Sky, Sea: ampliación de Shadowbringers | ![Pendiente][no] |
-| A Place to Train | Stone, Sky, Sea: The Burning Field | ![Pendiente][no] |
-| Trial by Spire | Stone, Sky, Sea: Spire of Trial | ![Pendiente][no] |
-| A Pup No Longer (una por Grand Company) | Entrenamiento PvP en The Wolves' Den | ![Pendiente][no] |
-| Like Civilized Men and Women (una por Grand Company) | Frontline | ![Pendiente][no] |
-| A Seat at the Feast | The Feast | ![Pendiente][no] |
-| Fantastic Mr. Faux | Unreal trials | ![Pendiente][no] |
+| Rising to the Challenge | Challenge Log | ![Traducido][ok] |
+| A Sight to Behold | Sightseeing Log | ![Traducido][ok] |
+| Treasures and Tribulations | Mapas del tesoro (Decipher y Dig) | ![Traducido][ok] |
+| An Ill-conceived Venture (una por ciudad) | Retainers | ![Traducido][ok] |
+| My Little Chocobo (una por Grand Company) | Chocobo propio | ![Traducido][ok] |
+| My Feisty Little Chocobo | Chocobo como compañero de combate | ![Traducido][ok] |
+| Bird in Hand | Entrenar al chocobo | ![Traducido][ok] |
+| Where the Heart Is (Mist, The Lavender Beds, The Goblet) | Viviendas | ![Traducido][ok] |
+| Ascending to Empyreum | Viviendas en Empyreum | ![Traducido][ok] |
+| Simply the Hest (una por ciudad) | Guildhests | ![Traducido][ok] |
+| Leves of Swiftperch, Aleport, Moraby, Costa del Sol y Wineport | Guildleves en La Noscea | ![Traducido][ok] |
+| Leves of Bentbranch, Hawthorne, Quarrymill y Camp Tranquil | Guildleves en The Black Shroud | ![Traducido][ok] |
+| Leves of Horizon, Camp Drybone, Little Ala Mhigo y Camp Bluefog | Guildleves en Thanalan | ![Traducido][ok] |
+| Leves of the Observatorium y Leves of Whitebrim | Guildleves en Coerthas | ![Traducido][ok] |
+| Leves of Saint Coinach's Find | Guildleves en Mor Dhona | ![Traducido][ok] |
+| Keeping Up with the Aliapohs | Wondrous Tails | ![Traducido][ok] |
+| A Striking Opportunity | Stone, Sky, Sea | ![Traducido][ok] |
+| Another Striking Opportunity | Stone, Sky, Sea: ampliación de Stormblood | ![Traducido][ok] |
+| Yet Another Striking Opportunity | Stone, Sky, Sea: ampliación de Shadowbringers | ![Traducido][ok] |
+| A Place to Train | Stone, Sky, Sea: The Burning Field | ![Traducido][ok] |
+| Trial by Spire | Stone, Sky, Sea: Spire of Trial | ![Traducido][ok] |
+| A Pup No Longer (una por Grand Company) | Entrenamiento PvP en The Wolves' Den | ![Traducido][ok] |
+| Like Civilized Men and Women (una por Grand Company) | Frontline | ![Traducido][ok] |
+| A Seat at the Feast | The Feast | ![Traducido][ok] |
+| Fantastic Mr. Faux | Unreal trials | ![Traducido][ok] |
 
 ### Recolección y fabricación
 
@@ -328,19 +328,19 @@ Misiones fuera de la historia que desbloquean funciones del juego.
 
 | Misión | Desbloquea | Estado |
 |---|---|---|
-| The House That Death Built | Palace of the Dead | ![Pendiente][no] |
-| Knocking on Heaven's Door | Heaven-on-High | ![Pendiente][no] |
-| Delve into Myth | Eureka Orthos | ![Pendiente][no] |
-| Pilgrimage of Light | Pilgrim's Traverse | ![Pendiente][no] |
-| A Key to the Past | Variant dungeon: The Sil'dihn Subterrane | ![Pendiente][no] |
-| Mononoke Aware | Variant dungeon: Mount Rokkon | ![Pendiente][no] |
-| Stranger from Paradise | Variant dungeon: Aloalo Island | ![Pendiente][no] |
-| A Spellbinding Read | Variant dungeon: The Merchant's Tale | ![Pendiente][no] |
-| Seeking Sanctuary | Island Sanctuary | ![Pendiente][no] |
-| Precious Reclamation e It Takes an Enclave | Reconstrucción del Doman Enclave | ![Pendiente][no] |
-| Towards the Firmament | Ishgardian Restoration | ![Pendiente][no] |
-| A Cosmic Homecoming | Cosmic Exploration | ![Pendiente][no] |
-| One Last Hurrah | The Occult Crescent | ![Pendiente][no] |
+| The House That Death Built | Palace of the Dead | ![Traducido][ok] |
+| Knocking on Heaven's Door | Heaven-on-High | ![Traducido][ok] |
+| Delve into Myth | Eureka Orthos | ![Traducido][ok] |
+| Pilgrimage of Light | Pilgrim's Traverse | ![Traducido][ok] |
+| A Key to the Past | Variant dungeon: The Sil'dihn Subterrane | ![Traducido][ok] |
+| Mononoke Aware | Variant dungeon: Mount Rokkon | ![Traducido][ok] |
+| Stranger from Paradise | Variant dungeon: Aloalo Island | ![Traducido][ok] |
+| A Spellbinding Read | Variant dungeon: The Merchant's Tale | ![Traducido][ok] |
+| Seeking Sanctuary | Island Sanctuary | ![Traducido][ok] |
+| Precious Reclamation e It Takes an Enclave | Reconstrucción del Doman Enclave | ![Traducido][ok] |
+| Towards the Firmament | Ishgardian Restoration | ![Traducido][ok] |
+| A Cosmic Homecoming | Cosmic Exploration | ![Traducido][ok] |
+| One Last Hurrah | The Occult Crescent | ![Traducido][ok] |
 
 ### Sociedades aliadas
 
@@ -348,9 +348,9 @@ La primera misión de cada una abre sus misiones diarias.
 
 | Misión | Sociedad | Estado |
 |---|---|---|
-| Peace for Thanalan | Amalj'aa | ![Pendiente][no] |
-| Seeking Solace | Sylphs | ![Pendiente][no] |
-| Highway Robbery | Kobolds | ![Pendiente][no] |
+| Peace for Thanalan | Amalj'aa | ![Traducido][ok] |
+| Seeking Solace | Sylphs | ![Traducido][ok] |
+| Highway Robbery | Kobolds | ![Traducido][ok] |
 | They Came from the Deep | Sahagin | ![Pendiente][no] |
 | A Bad Bladder | Ixal | ![Pendiente][no] |
 | Three Beaks to the Wind | Vanu Vanu | ![Pendiente][no] |

@@ -1,0 +1,37 @@
+key	text
+TEXT_CLSWDK550_01999_SEQ_00	Barthovieu tiene un aire sombrío.
+TEXT_CLSWDK550_01999_SEQ_01	Barthovieu luchó con valor, pero en vano: sus flechas no pudieron atravesar las escamas de Nguruvilu. Se salvó por poco porque un sacerdote que pasaba le salvó la vida. Ahora Barthovieu desea pagar esa deuda y te pide ayuda. Parece que el buen hermano sabe algo de conjuración y sin duda recibiría con gusto un bastón nuevo. Habla con el monje ortodoxo en la plaza del aetheryte de Ishgard y averigua qué clase de bastón le gustaría.
+TEXT_CLSWDK550_01999_SEQ_02	El sacerdote es un tipo jovial que al parecer ya rechazó una vez un regalo de agradecimiento. Sin embargo, necesita un bastón nuevo y cede ante tu amable oferta. Fabrícale un dark chestnut rod de alta calidad para que pueda mejorar en su ministerio.
+TEXT_CLSWDK550_01999_SEQ_03	El sacerdote está encantado con la vara, pero admite que no esperaba algo tan magnífico. Quedas perplej<if(gnum4,a,o)> un momento, hasta que entra Philipallais con un par de aves. Resulta que el niño le había pedido al sacerdote que cuidara a su padre, y le prometió un regalo de agradecimiento por el servicio. Aclarada la confusión, el sacerdote se despide. Philipallais te pide en voz baja que le guardes el secreto a su padre, por miedo a que sufra el orgullo de Barthovieu. Vuelve con Barthovieu e infórmale que el sacerdote recibió el agradecimiento debido.
+TEXT_CLSWDK550_01999_SEQ_04	A Barthovieu le complace que tu trabajo haya saldado su deuda con el sacerdote. Reafirma su intención de ir tras Nguruvilu, pero solo después de dedicar un buen tiempo a pulir sus habilidades con el arco.<br><br>※La siguiente misión de carpenter estará disponible con Barthovieu al llegar al nivel 58.
+TEXT_CLSWDK550_01999_TODO_00	Habla con el monje ortodoxo en la plaza del aetheryte de Ishgard.
+TEXT_CLSWDK550_01999_TODO_01	<if([lnum1<lnum2],Fabrica un dark chestnut rod <sheet(Addon,9,0)>,Entrégale el dark chestnut rod <sheet(Addon,9,0)> al monje ortodoxo)>.
+TEXT_CLSWDK550_01999_TODO_02	Informa a Barthovieu.
+TEXT_CLSWDK550_01999_BARTHOVIEU_000_000	Ah, <split(<string(gstr1)>, ,1)>. Las cosas no... Bueno, todavía no me gané el título de caballero.
+TEXT_CLSWDK550_01999_BARTHOVIEU_000_001	No fue por tu arco. Vaya, apuesto a que puede atravesar con una flecha al más grande de los dragones. Pero hace falta el arquero adecuado.
+TEXT_CLSWDK550_01999_BARTHOVIEU_000_002	Me temo que yo no lo soy. Esperé el momento justo y disparé con toda mi fuerza... solo para ver cómo Nguruvilu lo esquivaba sin esfuerzo. Lo único que hice fue enfurecer al dragón. Y su ira fue terrible.
+TEXT_CLSWDK550_01999_BARTHOVIEU_000_003	\<suspiro> Por derecho debería estar muerto. Es un milagro que ese sacerdote pasara justo entonces.
+TEXT_CLSWDK550_01999_BARTHOVIEU_000_004	Le debo la vida, y no voy a dejar esa deuda sin pagar.
+TEXT_CLSWDK550_01999_BARTHOVIEU_000_005	Pero no sabía cómo hacerlo hasta que apareciste. Eres <if(gnum4,una artesana,un artesano)> de no poca fama: ¿no podrías hacerle un bastón de mi parte?
+TEXT_CLSWDK550_01999_BARTHOVIEU_000_006	Sabe algo de conjuración. No dudo de que admirará tu trabajo, aunque no sé qué clase de bastón le gustaría. Tendrás que preguntárselo a él.
+TEXT_CLSWDK550_01999_BARTHOVIEU_000_007	Por favor, hazle lo que desee. ¡Por mi honor, no te quedarás sin paga!
+TEXT_CLSWDK550_01999_BARTHOVIEU_000_010	¿De dónde sacaré el dinero para pagar el bastón del sacerdote, me pregunto...?
+TEXT_CLSWDK550_01999_GENJUTSUSHI01999_000_020	¿Puedo ayudarte? ¿Dices que te enviaron a <italic(1)>pagarme<italic(0)>? ¡Y eso que insistí en que no necesitaba nada! En fin. Ya sabes cómo son estos hombres: nunca están contentos hasta satisfacer su honor.
+TEXT_CLSWDK550_01999_GENJUTSUSHI01999_000_021	Bueno, no me voy a hacer de rogar más. Mi bastón se dañó y ya es hora de tener uno nuevo. Recibiría con gusto un dark chestnut rod, si fueras tan amable.
+TEXT_CLSWDK550_01999_BARTHOVIEU_000_025	¿Un dark chestnut rod? No sé qué es eso, pero si es lo que quiere, asegúrate de que reciba lo mejor que sepas hacer. De verdad se lo merece.
+TEXT_CLSWDK550_01999_GENJUTSUSHI01999_000_030	¿Ya lograste fabricar un dark chestnut rod, <if(gnum4,hija mía,hijo mío)>?
+TEXT_CLSWDK550_01999_GENJUTSUSHI01999_000_031	¡Por Halone! ¡La madera se siente viva, cálida, como si todavía tuviera raíces en la tierra! ¡Vaya, ahora podré atender muchos más males! Esta es una obra maestra. Y tú... ¿quieres decir que la hiciste <italic(1)>tú<italic(0)>, <if(gnum4,hija mía,hijo mío)>?
+TEXT_CLSWDK550_01999_GENJUTSUSHI01999_000_032	No quiero ofenderte, claro, pero esperaba algo... menos que esto. Philipallais es un muy buen niño, pero cuando prometió pagarme por interceder por su padre, no creí que tuviera los medios para hacerlo.
+TEXT_CLSWDK550_01999_GENJUTSUSHI01999_000_033	...¿Cómo dices? ¿Te lo encargó su <italic(1)>padre<italic(0)>?
+TEXT_CLSWDK550_01999_PHILIPALLAIS_000_034	¡Traje unas aves para darle las gracias! Y están bien gorditas.
+TEXT_CLSWDK550_01999_GENJUTSUSHI01999_000_035	Ah, Philipallais, eres <italic(1)>muy<italic(0)> amable. Te agradezco mucho el detalle.
+TEXT_CLSWDK550_01999_GENJUTSUSHI01999_000_036	Pero un niño que está creciendo necesita la comida más que yo, ¿eh? Por favor, quédatelas. Lo que envió tu padre es agradecimiento suficiente.
+TEXT_CLSWDK550_01999_PHILIPALLAIS_000_037	¿Mi papá mandó las gracias? ¿<italic(1)>Mi<italic(0)> papá?
+TEXT_CLSWDK550_01999_GENJUTSUSHI01999_000_038	Así es, querido niño. Es un hombre de honor. De tal palo, tal astilla, ¿eh?
+TEXT_CLSWDK550_01999_GENJUTSUSHI01999_000_039	Ahora debo irme. Hay muchos que necesitan atención y me muero por probar el bastón. Que Halone los guarde a todos. Ah, y dale las gracias a Barthovieu de mi parte, por favor.
+TEXT_CLSWDK550_01999_PHILIPALLAIS_000_040	...Yo fui quien le dijo al monje, ¿sabes? Le dije que mi papá podía salir herido peleando con el dragón.
+TEXT_CLSWDK550_01999_PHILIPALLAIS_000_041	Pero no te atrevas a decirle a mi papá lo que hice. Saber que pedí ayuda solo lo avergonzaría. Si tan solo dejara esta locura por su cuenta...
+TEXT_CLSWDK550_01999_BARTHOVIEU_000_050	¿Le gustó al sacerdote? ¡Ja, apuesto a que sí! Después de todo, lo hiciste tú. No es mucho, pero toma: tu paga.
+TEXT_CLSWDK550_01999_BARTHOVIEU_000_051	Ahora me voy a practicar. Todavía no soy un verdadero archer, y eso casi me cuesta la vida. Pero pase lo que pase, no dejaré con vida a ese dragón.
+TEXT_CLSWDK550_01999_SYSTEM_100_001	delete
+TEXT_CLSWDK550_01999_SYSTEM_100_002	delete

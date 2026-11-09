@@ -1,0 +1,116 @@
+key	text
+TEXT_AKTKDD101_04663_SEQ_00	Koh Rabntah te mira como un ave que encontró a su presa.
+TEXT_AKTKDD101_04663_SEQ_01	La que parece una discreta investigadora Miqo'te es, por el momento, la morada de la esencia de la legendaria archimaga allagan Noah, y parece que tus hazañas impresionaron a la exigente maestra lo suficiente como para confiarte un asunto de suma importancia. Sin embargo, antes de revelar los detalles te pide que llames a G'raha Tia a Eight Sentinels, porque al parecer él también tiene un papel en su plan.
+TEXT_AKTKDD101_04663_SEQ_02	Cuando llega G'raha Tia, Noah revela para qué los reunió a ambos en la Crystal Tower. Con la sangre real de G'raha Tia como llave, espera entrar en Eureka Orthos, unas instalaciones secretas allaganas donde se hacían las investigaciones más clandestinas del imperio. Una vez abiertas las puertas, quiere que te adentres en sus salones olvidados, desafíes los peligros que acechan y saques a la luz los secretos de Allag. La archimaga promete ayudar a garantizar, o al menos a favorecer, tu supervivencia, y parece ansiosa por terminar tus preparativos.
+TEXT_AKTKDD101_04663_SEQ_03	La archimaga te entrega una armadura especial que te protegerá de las barreras debilitantes de las instalaciones y un generador de demiclones, capaz de interpretar los datos que encuentres en tu búsqueda. Aunque ya tienes todo lo necesario para comenzar la expedición, hay que seguir el protocolo. Muéstrale tu equipo a Khatun para una última inspección.
+TEXT_AKTKDD101_04663_SEQ_04	Tras confirmar que todo tu equipo funciona, Khatun te autoriza a entrar en Eureka Orthos. Tu primer objetivo es bajar hasta el piso treinta de las laberínticas instalaciones, abriéndote paso entre cualquier oposición.<br><br>※Puedes hablar con Burnel en Revenant's Toll para teletransportarte a Eight Sentinels.
+TEXT_AKTKDD101_04663_TODO_00	Espera en el lugar indicado.
+TEXT_AKTKDD101_04663_TODO_01	Habla con Koh Rabntah.
+TEXT_AKTKDD101_04663_TODO_02	Muéstrale tu equipo a Khatun.
+TEXT_AKTKDD101_04663_SYSTEM_000_000	Para aceptar esta misión, primero debes superar el piso 50 de Palace of the Dead.
+TEXT_AKTKDD101_04663_SYSTEM_000_001	Para acceder a Palace of the Dead, debes completar la misión "The House That Death Built".
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_010	¿Cómo te va, <if(gnum4,valiente aventurera,valiente aventurero)>?
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_011	...¿O debería llamarte <if(gnum4,la heroína,el héroe)> de los Scions? ¿<if(gnum4,Una intrépida investigadora,Un intrépido investigador)> de NOAH, quizá? ¿Qué título prefieres, <string(gstr1)>?
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_012	Vamos, vamos, no hace falta alarmarse. No soy más que una humilde integrante de los Sons of Saint Coinach, aunque es evidente que no soy un hijo. Me llamo Koh Rabntah...
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_013	...Bueno, para ser exacta, Koh Rabntah es el nombre del recipiente que habito. Para explicarlo de forma sencilla, la tomo prestada por un rato.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_014	Mi verdadero nombre es Noah. Sí, <italic(1)>esa<italic(0)> Noah, la célebre archimaga del Allagan Empire.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_015	Te sorprendí, ¿eh? Te aseguro que digo la verdad: tienes ante ti a la mismísima persona por la que nombraron a su estimado grupo de investigación. O a su esencia, más bien.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_016	Te enfrentaste a Syrcus Tower, ¿no? Fue allí donde Koh dio por casualidad con el orbe que me albergaba.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_017	Al despertar en una era completamente nueva, ansiaba huir de mi morada mal ventilada y estirar las piernas, por así decirlo. Así que Koh y yo llegamos a un acuerdo: ella me prestaría su cuerpo de vez en cuando y, a cambio, recibiría el honor de ser mi recipiente.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_018	No temas, no es nada tan vil como una posesión de voidsent: puedo dejar este cuerpo cuando me plazca. Pero no te busqué para discutir los detalles de la magia. No, hay algo mucho más importante de lo que debemos hablar.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_019	Ah, qué casualidad encontrarte aquí, <split(<string(gstr1)>, ,1)>. ¿Has estado bien?
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_020	Sin duda tus deberes de aventura te dejan poco tiempo para nuestra humilde organización. Aun así, confío en que hayas sacado un rato aquí y allá para contribuir a las investigaciones de NOAH. Después de todo, se te da de maravilla.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_021	Espléndido, espléndido. Como ves, mi situación no da lugar a quejas.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_022	Mi recipiente sigue intacto y esta era todavía no pierde su brillo. A fin de cuentas, que Koh encontrara en Syrcus Tower el orbe con mi esencia fue un giro feliz del destino.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_023	No solo he podido saciarme de los misterios y las delicias de este mundo, sino que Koh parece más que contenta de darme todo el tiempo que necesite para satisfacer mi curiosidad.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_024	Ahora bien, antes de juzgar, debo recordarte que este arreglo se hizo de común acuerdo. Pienso devolverle el control en cuanto termine mi trabajo aquí, y da la casualidad de que tú podrías ayudar con eso.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_025	Verás, Rammbroes apenas puede dejar de hablar de tus aventuras con los Scions of the Seventh Dawn. He oído las historias incontables veces...
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_026	Cómo, por un extraño giro del destino, G'raha Tia despertó de su sueño en la Crystal Tower mucho antes de lo debido.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_027	Cómo el Ascian Fandaniel, quien puso a nuestra estrella rumbo a los Días Finales, era en realidad Amon desde el principio.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_028	Sucesos que estremecieron la tierra, sucesos en los que invariablemente tuviste un papel clave.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_029	Con esos antecedentes, nadie es más apto para recibir mi encargo.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_030	Primero, sin embargo, te pediré que llames a G'raha Tia a Eight Sentinels. Sospecho que responderá mucho más rápido al llamado de <if(gnum4,una compañera,un compañero)> de armas que al de una investigadora anónima que se hace llamar archimaga.
+TEXT_AKTKDD101_04663_GRAHATIA_000_031	(-G'raha Tia-)Sí, habla él.
+TEXT_AKTKDD101_04663_GRAHATIA_000_032	(-G'raha Tia-)¿<split(<string(gstr1)>, ,1)>? ¡Qué agradable sorpresa! No recuerdo la última vez que <italic(1)>tú<italic(0)> <italic(1)>me<italic(0)> llam- ¡Ay, no!
+TEXT_AKTKDD101_04663_GRAHATIA_000_033	(-G'raha Tia-)Ah... ¿eso? ¡No fue nada, nada en absoluto! Me interesas mucho más tú, <if(gnum4,amiga mía,amigo mío)>. ¿Estás bien? No estarás en algún apuro, ¿verdad?
+TEXT_AKTKDD101_04663_GRAHATIA_000_034	(-G'raha Tia-)Vaya historia. Dices que la archimaga Noah, habitando el cuerpo de una joven investigadora, te pidió que me pidieras que vaya cuanto antes a Eight Sentinels. ¿Entendí bien?
+TEXT_AKTKDD101_04663_GRAHATIA_000_035	(-G'raha Tia-)......
+TEXT_AKTKDD101_04663_GRAHATIA_000_036	(-G'raha Tia-)...¡Absolutamente fascinante!
+TEXT_AKTKDD101_04663_GRAHATIA_100_036	(-G'raha Tia-)¡Voy para allá! En cuanto termine lo que estoy haciendo, claro. Prometo ser rápido.
+TEXT_AKTKDD101_04663_GRAHATIA_000_037	(-G'raha Tia-)Dile a Noah, ¿o será Koh?, que me muero por conocerla. ¡Hasta entonces, <split(<string(gstr1)>, ,1)>!
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_038	Bueno, no era mi intención apurar al pobre muchacho. Espero que la prisa no le cueste la prudencia...
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_039	Aun así, oír la lealtad que inspiras en los demás me da seguridad en mi decisión de poner esta tarea en tus manos.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_040	Ahora bien, sería impropio llegar tarde a nuestra cita después de arrancar a G'raha Tia de su trabajo. Siéntete libre de adelantarte; no tardaré en seguirte.
+TEXT_AKTKDD101_04663_Q0_000_045	¿Entrar a Eight Sentinels?
+TEXT_AKTKDD101_04663_GRAHATIA_000_050	Vine lo más rápido que pude. No te hice esperar, ¿verdad?
+TEXT_AKTKDD101_04663_GRAHATIA_000_051	...Bien, bien. Cuando me dijiste que la propia Noah estaba metida en todo esto, supe que era una oportunidad que no quería perderme.
+TEXT_AKTKDD101_04663_GRAHATIA_000_052	Comparada con el renacimiento de Xande y de Amon, la supervivencia de la esencia de Noah parece casi pintoresca. Aun así, no puedo evitar la emoción de conocerla y oír en qué consiste su encargo.
+TEXT_AKTKDD101_04663_GRAHATIA_000_053	Si tuviera que adivinar, diría que tiene algo que ver con la Crystal Tower.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_054	(-???-)Tu instinto no te falla. A ver, déjame ver esos ojos... un carmesí profundo como no veía desde hace muchas eras.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_055	(-???-)Ah, ¿esto? El camino que tenemos por delante requiere magia, y tuve que prepararme como corresponde.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_056	(-???-)Aunque como investigadora es bastante hábil, me temo que Koh no tiene ninguna aptitud para las artes aetherial. Tuve que conseguir el atuendo adecuado para compensar en algo esa carencia.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_057	Aunque mis habilidades son apenas una sombra de lo que fueron en mi apogeo, bastarán. Puedes agradecerle a Rowena's House of Splendors por atender hasta mis pedidos más esotéricos.
+TEXT_AKTKDD101_04663_Q1_000_058	¿Qué vas a decir?
+TEXT_AKTKDD101_04663_A1_000_059	¡De verdad capturaste el espíritu de Allag!
+TEXT_AKTKDD101_04663_A1_000_060	¿De veras tenías que cambiarle el peinado?
+TEXT_AKTKDD101_04663_A1_000_061	Eh... ¿Quién eres?
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_062	¡Vaya, gracias! Hice lo que pude. Todo mago sabe que la función debe ir casada con la apariencia: quienes no aprenden esa lección rara vez duran mucho.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_063	A decir verdad, nunca entendí por qué Koh sentía la necesidad de esconder la cara con el pelo. ¿Para qué limitarse así la vista? Con este simple cambio, siento que el mundo se me abrió.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_064	Jo, jo, <split(<string(gstr1)>, ,1)>, siempre con la broma lista. ¿A menos que lo digas en serio...? Sea como sea, tomaré tus palabras como prueba de que el cambio es una mejora general.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_065	Eso sí, me hubiera gustado añadir un poco más de elegancia. Amon habría chasqueado la lengua con desaprobación al verme.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_066	Por desgracia, tuve que complacer también las preferencias de Koh. Insistió en que los primeros atuendos que elegí eran demasiado llamativos, y al final llegamos a este acuerdo. La belleza está en los ojos de quien mira, supongo...
+TEXT_AKTKDD101_04663_GRAHATIA_000_067	Sí, sí, de verdad fascinante, ilustrísima Noah. Podría escucharte durante días...
+TEXT_AKTKDD101_04663_GRAHATIA_000_068	Pero queda la pregunta de por qué me llamaste aquí. Y a <split(<string(gstr1)>, ,1)>, ya que estamos. ¿Por qué te tomaste tantas molestias para buscarnos?
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_069	...Sí, muy cierto. Para entender adónde vamos, primero debo contarles lo que vino antes. En el ocaso de la Tercera Era Astral, con el Allagan Empire en el apogeo de su gloria, se construyó un laboratorio bajo la Crystal Tower. Allí se llevaban a cabo las investigaciones más delicadas del imperio.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_070	Los medios para lograr la vida eterna y la resurrección. La tecnología de clonación. Los mecanismos de control de los eikons y la culminación del prototipo de Dalamud.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_071	Esos eran solo algunos de los muchos proyectos que se llevaban a cabo en las profundidades de la tierra. Todos en el más absoluto secreto, con la plena bendición y la guía de la familia real.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_072	El propio emperador lo bautizó Eureka Orthos. Un nombre apropiado para un lugar que se convertiría en el centro de la creación.
+TEXT_AKTKDD101_04663_GRAHATIA_000_073	¿Eureka? No querrás decir lo que creo...
+TEXT_AKTKDD101_04663_GRAHATIA_000_074	Eureka es una de las leyendas más antiguas de Allag.
+TEXT_AKTKDD101_04663_GRAHATIA_000_075	Creo que tú y Krile conocen bien la "Forbidden Land", ¿no?
+TEXT_AKTKDD101_04663_GRAHATIA_000_076	Cuando esa isla apareció de repente en las aguas del Lejano Oriente, la llamaron "Eureka" por la leyenda allagan.
+TEXT_AKTKDD101_04663_GRAHATIA_000_077	Las historias dicen que en el centro de un vasto laberinto duerme un arma de un poder incomprensible.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_078	Vaya, así que el paso del tiempo no borró del todo nuestras obras.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_079	Esa leyenda tiene algo de verdad. El desarrollo de armas especializadas fue uno de los principales temas de investigación en Eureka Orthos. No sorprende que los rumores de lo que allí ocurría acabaran convirtiéndose en esos cuentos.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_080	Sin embargo, Eureka Orthos no es un mito: existe tan seguro como tú o yo, y fue una obra tan magnífica como Syrcus Tower. Tengo motivos para creer que sobrevivió al caos de la Cuarta Calamidad Umbral relativamente ilesa.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_081	Sé dónde está, y sé cómo entrar.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_082	Mi incomparable conocimiento de la magia de teletransporte nos llevará a las puertas, y la sangre real que corre por las venas de G'raha Tia las abrirá.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_083	Me encantaría volver a pisar esos salones, donde refiné y perfeccioné el medio de trasladar mi esencia a diversos objetos y de vuelta.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_084	Lo que me lleva a mi encargo. Quiero que te adentres en las regiones más profundas de Eureka Orthos y arrastres sus secretos, a patadas y a gritos, hasta el presente.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_085	Ahora que el flujo del tiempo se restableció en la Crystal Tower, el laboratorio debería estar en plena actividad, con sus experimentos inconclusos y sus defensas dormidas vagando sin rumbo en busca de intrusos.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_086	Lo primero será poner fin a esos obstáculos y avanzar hasta el piso treinta de las instalaciones.
+TEXT_AKTKDD101_04663_GRAHATIA_000_087	Te acompaño. Si este lugar es tan peligroso como suena, vas a necesitar todas las armas de más que puedas conseguir.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_088	Me temo que no puedo permitirlo. Tu papel en esto termina cuando se abran las puertas de Eureka Orthos.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_089	Entiendo tu decepción, pero la misma sangre que te hace útil como llave te vuelve un estorbo para esta misión. Te ata demasiado al imperio.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_090	A diferencia de la Crystal Tower, Eureka Orthos no necesita inspirar esperanza.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_091	Allag ya no existe, y sus herederos murieron hace mucho. Deseo que las obras del imperio, por desagradables que sean, se contemplen con ojos que no empañe el legado, para que se las juzgue por lo que fueron.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_092	Entonces, <split(<string(gstr1)>, ,1)>, sé que me tardé en pedirlo, pero ¿aceptas esta tarea?
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_093	Naturalmente, te ofreceré toda la ayuda que pueda, y puedes quedarte con el botín que encuentres. Hay mucho que podría servirle a alguien como tú.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_094	Sabía que el aroma de la aventura te resultaría irresistible, pero te lo agradezco de todas formas. Sáciate de secretos antiguos y pecados enterrados.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_095	Bien, supongo que es hora de entrar. Permítenos tomar prestada la llave que Unei y Doga te confiaron hace tanto tiempo.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_096	Ah, la conexión parece estable. Muy bien.
+TEXT_AKTKDD101_04663_GRAHATIA_000_097	Prométeme que volverás <if(gnum4,entera,entero)>, <split(<string(gstr1)>, ,1)>. Si regresas de cualquier otra forma, ni otra Calamidad me convencerá de abrir estas puertas.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_098	¿Tienes que preocuparte por <if(gnum4,ella,él)> como si fuera <if(gnum4,una niña,un niño)>? <if(gnum4,Ella,Él)>, para quien las ruinas allaganas son casi cosa de todos los días, y que venció incluso a Amon en combate. Comparado con esas pruebas, esto será apenas una nota al pie en una larga lista de proezas.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_099	Cuando <split(<string(gstr1)>, ,1)> vuelva de su expedición, puedes regresar aquí y escuchar el informe. Ten por seguro que te mantendré al tanto de cualquier novedad que amenace al mundo.
+TEXT_AKTKDD101_04663_GRAHATIA_000_100	Es poco consuelo, pero supongo que tendrá que bastar. ...Si llegan a un punto muerto, recuerden que estoy a una llamada, ¿sí?
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_101	Ahora, preparémonos. ¡Los secretos de Eureka Orthos esperan ser hallados!
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_120	Aquí estamos. Rammbroes me proporcionó todo el personal que le pedí.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_121	Las capaces investigadoras de los Sons of Saint Coinach están listas para organizar tus expediciones y tasar las rarezas que encuentres.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_122	En cuanto a mí, logré compensar las limitaciones mágicas de este recipiente con mi infinito saber y conseguí dos herramientas que te serán de gran utilidad.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_123	Primero, una armadura especial. Verás, en los días anteriores a la Cuarta Calamidad Umbral, los investigadores de Eureka Orthos la reforzaron con barreras que debilitan las facultades de los intrusos.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_124	Hasta las armas más magistrales son inútiles si no se pueden blandir. Para superarlo, imbuí una armadura con barreras opuestas que deberían anular el efecto y permitirte pelear con brío.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_125	Lo segundo es un práctico aparatito llamado generador de demiclones. Como su nombre indica, puede crear casi clones en cuestión de momentos.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_126	Esos clones, aunque imperfectos, se usaban a menudo en los experimentos. Si encuentras tomestones con datos de esos experimentos, el generador puede interpretarlos.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_127	Además, aunque el aether de los clones se disipa tan rápido como el vapor en un vaso caliente, una o dos manos de más pueden sacarte de una situación peligrosa.
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_128	¡Toma estas herramientas, y que te sirvan bien! Cuando hayas templado los nervios y afilado las armas, ¡habla con Khatun para comenzar!
+TEXT_AKTKDD101_04663_KOHRABNTAH_000_130	El camino está abierto y tienes en tus manos todas las herramientas necesarias. Solo falta dar el siguiente paso, ¿no, <if(gnum4,aventurera,aventurero)>?
+TEXT_AKTKDD101_04663_KHATUN_000_140	¡Mucho gusto, <split(<string(gstr1)>, ,1)>! Soy Khatun, y la señora Noah me encargó supervisar todo tipo de apoyo para sus expediciones a Eureka Orthos.
+TEXT_AKTKDD101_04663_KHATUN_000_141	Esa muchacha de allá es Valeroine, y ella tasará las baratijas o tesoros que encuentre. La señora Noah también nos dio un nodo de síntesis, ¡y estamos listas para ofrecerle toda la ayuda que podamos!
+TEXT_AKTKDD101_04663_KHATUN_000_142	¿Debo suponer que la archimaga le entregó las dos piezas de equipo de las que está tan orgullosa? Disculpe, pero por su propia seguridad debo pedirle que me las muestre antes de permitirle poner un pie en lo desconocido.
+TEXT_AKTKDD101_04663_KHATUN_000_143	Todo parece estar en orden. ¡Ahora sí, está <if(gnum4,lista,listo)>!
+TEXT_AKTKDD101_04663_KHATUN_000_144	¡Nuestro primer objetivo es llegar al piso treinta de las instalaciones! ¡Adelante, <split(<string(gstr1)>, ,1)>, y muéstrele al reino que las creaciones más letales de Allag no son rival para <italic(1)>nuestros<italic(0)> héroes!
+TEXT_AKTKDD101_04663_SYSTEM_100_144	Ahora tienes acceso a Eureka Orthos.
+TEXT_AKTKDD101_04663_SYSTEM_000_145	Puedes entrar a la deep dungeon hablando de nuevo con Khatun.
+TEXT_AKTKDD101_04663_SYSTEM_000_146	Para participar debes ser Disciple of War o Disciple of Magic de nivel 81 o superior, y tu nivel se ajustará a 81 la primera vez que entres en Eureka Orthos.
+TEXT_AKTKDD101_04663_SYSTEM_000_147	Para saber más, habla con Khatun.
+TEXT_AKTKDD101_04663_SYSTEM_000_148	Para volver a este lugar, puedes hablar con Burnel en Revenant's Toll.

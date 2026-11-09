@@ -1,0 +1,28 @@
+key	text
+TEXT_CLSWDK530_01998_SEQ_00	Puedes ver la ambición que arde en los ojos de Barthovieu.
+TEXT_CLSWDK530_01998_SEQ_01	Barthovieu juntó algo de dinero, quizá hasta suficiente para un buen arco si le haces un descuento. Mató a muchos Dravanians menores, pero por ellos se paga poco: la verdadera gloria y el dinero se ganan con las cabezas de los grandes dragones de Ishgard. Fabrícale a Barthovieu el holy cedar composite bow de alta calidad que desea, para que pueda unirse a las filas de los grandes matadragones.
+TEXT_CLSWDK530_01998_SEQ_02	Barthovieu recibe el arco lleno de alegría. Te revela que piensa matar a Nguruvilu, un temible Dravanian de escamas de acero. Dice que con la cabeza de ese dragón puede ganar una vida mejor para él y para su hijo. Sin embargo, algún conflicto no dicho entre padre e hijo mantiene a Philipallais lejos de casa. Habla con el niño cerca de la fábrica e intenta convencerlo de que vuelva.
+TEXT_CLSWDK530_01998_SEQ_03	Philipallais te dice sin rodeos que está cazando y que no volverá a casa hasta que termine, cuando sea. Vuelve con Barthovieu y transmítele el mensaje.
+TEXT_CLSWDK530_01998_SEQ_04	El mensaje de su hijo no sorprende a Barthovieu. Sin embargo, no puede esperar a que Philipallais vuelva a casa, y anuncia que irá a cazar a Nguruvilu. El soldado te agradece de nuevo tu servicio y promete tener algo que mostrarte la próxima vez.<br><br>※La siguiente misión de carpenter estará disponible con Barthovieu al llegar al nivel 55.
+TEXT_CLSWDK530_01998_TODO_00	<if([lnum1<lnum2],Fabrica un holy cedar composite bow <sheet(Addon,9,0)>,Entrégale el holy cedar composite bow <sheet(Addon,9,0)> a Barthovieu)>.
+TEXT_CLSWDK530_01998_TODO_01	Habla con Philipallais.
+TEXT_CLSWDK530_01998_TODO_02	Informa a Barthovieu.
+TEXT_CLSWDK530_01998_BARTHOVIEU_000_000	¡Estaba por ir a buscarte! Estuve revisando los mercados y, según mis cuentas, tengo suficiente para pagar el mejor holy cedar composite bow que sepas hacer, si me haces un descuento.
+TEXT_CLSWDK530_01998_BARTHOVIEU_000_001	Tuve que matar a varios dragones menores por este dinero. La paga es una porquería, porque cualquier necio con un palo afilado puede con ellos.
+TEXT_CLSWDK530_01998_BARTHOVIEU_000_002	El dinero de verdad está en los grandes Dravanians. Y la gloria también. Con un buen arco podré cortarle la cabeza a uno y ganarme el título de caballero, con algo de suerte.
+TEXT_CLSWDK530_01998_BARTHOVIEU_000_003	Te lo pido de rodillas, <if(gnum4,amiga,amigo)>: ¡acepta lo que puedo pagar y hazme un buen arco!
+TEXT_CLSWDK530_01998_BARTHOVIEU_000_010	Hace mucho que sueño con tener un buen holy cedar composite bow. Por favor, aventurer<if(gnum4,a,o)>...
+TEXT_CLSWDK530_01998_BARTHOVIEU_000_011	Vaya, es ligero como una pluma... ¡Ni con cota de malla se me cansará el brazo al sostenerlo! ¡Y la tensión es el <italic(1)>triple<italic(0)> que la de mi último arco! Sí, esto lanzará una punta pesada a unos buenos doscientos yalms. ¡Gracias, <if(gnum4,amiga mía,amigo mío)>!
+TEXT_CLSWDK530_01998_BARTHOVIEU_000_012	A decir verdad, no pienso cazar a cualquier dragón. Tengo un objetivo en mente: Nguruvilu.
+TEXT_CLSWDK530_01998_BARTHOVIEU_000_013	El desgraciado parece cubierto por una armadura de acero. Ni los caballeros pueden atravesarle las escamas con sus lanzas, y menos con flechas. ¡Pero un disparo bien dirigido con este arco podría colarse entre sus placas!
+TEXT_CLSWDK530_01998_BARTHOVIEU_000_014	Verás, despertó de un largo sueño. La última vez que lo hizo dejó un rastro de cadáveres. ¡La cabeza de Nguruvilu me dará el título de caballero y una vida mejor para mi hijo! No es que Philipallais lo vea así.
+TEXT_CLSWDK530_01998_BARTHOVIEU_000_015	¿Podrías llamarlo, aventurer<if(gnum4,a,o)>? Estos días nunca está en casa. Se pasa todo el tiempo cazando cerca de la fábrica...
+TEXT_CLSWDK530_01998_BARTHOVIEU_000_020	Sé que Philipallais está en una edad difícil, pero ¿tiene que pasarse todo el tiempo cazando junto a la fábrica? \<suspiro> Si tan solo hablara conmigo...
+TEXT_CLSWDK530_01998_PHILIPALLAIS_000_030	¡Shhh! ¿No ves que estoy cazando? Estas aves entran a la ciudad para evitar los vientos.
+TEXT_CLSWDK530_01998_PHILIPALLAIS_000_031	Son fáciles de atrapar, hasta sin arco. Solo les pongo trampas.
+TEXT_CLSWDK530_01998_PHILIPALLAIS_000_032	¿Mi papá quiere que vuelva a casa? ¡No! ¡Sigue yéndose a pelear con dragones, no importa cuántas veces lo lastimen! Yo... no quiero verlo.
+TEXT_CLSWDK530_01998_PHILIPALLAIS_000_035	Dile a mi papá lo que quieras. Pero no voy a volver a casa.
+TEXT_CLSWDK530_01998_BARTHOVIEU_000_040	¿No hubo suerte? Perdona por hacerte pasar por eso. Yo solo... solo quería verle la cara antes de irme.
+TEXT_CLSWDK530_01998_BARTHOVIEU_000_041	Pero no importa. Me voy de cacería y, si los dioses son buenos, ¡la próxima vez que nos veamos ya habré matado a Nguruvilu!
+TEXT_CLSWDK530_01998_SYSTEM_100_001	deleted
+TEXT_CLSWDK530_01998_SYSTEM_100_002	deleted

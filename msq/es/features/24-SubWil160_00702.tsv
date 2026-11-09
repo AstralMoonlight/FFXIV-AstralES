@@ -1,0 +1,31 @@
+key	text
+TEXT_SUBWIL160_00702_SEQ_00	Swift cree que deberías conseguirte un chocobo.
+TEXT_SUBWIL160_00702_SEQ_01	Para obtener tu chocobo personal, debes presentarle a Mimigun una Flame Chocobo Issuance. Este documento se obtiene canjeando company seals con el intendente de los Immortal Flames. Esperemos que hayas guardado tus seals...
+TEXT_SUBWIL160_00702_SEQ_02	Mimigun te trae tu ave, y es amor a primera vista. Ponle nombre a tu nuevo compañero y hazlo oficial.
+TEXT_SUBWIL160_00702_SEQ_03	Tras mucho deliberar, te decides por un nombre digno del corcel más noble. Avísale a Mimigun para completar las últimas formalidades.
+TEXT_SUBWIL160_00702_SEQ_04	Y así empiezan las aventuras de <string(gstr1)> y <string(gstr55)>. ¡Que su amistad dure para siempre!
+TEXT_SUBWIL160_00702_TODO_00	Preséntale una Flame Chocobo Issuance a Mimigun.
+TEXT_SUBWIL160_00702_TODO_01	Ponle nombre a tu chocobo.
+TEXT_SUBWIL160_00702_TODO_02	Habla con Mimigun.
+TEXT_SUBWIL160_00702_Swift_000	<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>, ¿verdad? Un momento de su tiempo, si es tan amable.
+TEXT_SUBWIL160_00702_Swift_001	Desea cumplir sus deberes con rapidez, ¿no es así? Pues entonces, quizá debería conseguirse un chocobo.
+TEXT_SUBWIL160_00702_Swift_002	Si le interesa, los Immortal Flames le proporcionarán uno. No es un proceso complicado, pero requiere algo de papeleo.
+TEXT_SUBWIL160_00702_Swift_003	Primero, hable con el intendente para conseguir una Flame Chocobo Issuance. Tendrá que canjear company seals para ello. Una vez que la tenga, muéstresela a Mimigun, junto a la Gate of Nald. Él será quien le proporcione el ave.
+TEXT_SUBWIL160_00702_Swift_010	Si desea conseguir su propio chocobo personal, tendrá que obtener una Flame Chocobo Issuance con el intendente. Muéstrele el documento a Mimigun en los establos y él le proporcionará su propia ave.
+TEXT_SUBWIL160_00702_MIMIGUN_000	¿Quiere que le asignen un ave, dice? Entonces tendré que ver su Flame Chocobo Issuance.
+TEXT_SUBWIL160_00702_MIMIGUN_010	Sí, todo parece en orden.
+TEXT_SUBWIL160_00702_MIMIGUN_011	Un momento, por favor. Enseguida vuelvo con su chocobo.
+TEXT_SUBWIL160_00702_MIMIGUN_012	¡Y aquí está! El muchacho ha estado de muy buen humor estas últimas horas. ¡Debe de haber presentido que venía su <if(gnum4,dueña,dueño)>!
+TEXT_SUBWIL160_00702_MIMIGUN_013	Ahora bien, para hacerlo oficial, querrá ponerle nombre a su noble corcel.
+TEXT_SUBWIL160_00702_MIMIGUN_020	¿Quiere que le asignen un ave, dice? Entonces tendré que ver su Flame Chocobo Issuance. Puede conseguirla con el intendente de los Immortal Flames, en el Hall of Flames.
+TEXT_SUBWIL160_00702_MIMIGUN_021	Por supuesto, tendrá que canjear Flame Seals por ella. Las gana haciendo tareas para los Immortal Flames, la Grand Company de Ul'dah.
+TEXT_SUBWIL160_00702_CHOCOBO_000	¡Kweh!
+TEXT_SUBWIL160_00702_MIMIGUN_030	Ahora bien, para hacerlo oficial, querrá ponerle nombre a su noble corcel.
+TEXT_SUBWIL160_00702_MIMIGUN_040	¡Je, je! ¡Me atrevería a decir que le gusta su nombre!
+TEXT_SUBWIL160_00702_MIMIGUN_041	Aquí tiene su propio silbato de chocobo. Solo tiene que soplarlo y su amigo emplumado acudirá corriendo a su lado.
+TEXT_SUBWIL160_00702_MIMIGUN_042	Pero discúlpelo si no responde cuando lo llame en zonas concurridas de la ciudad o en guaridas infestadas de monstruos. Los chocobos son criaturas valientes, pero tienen sus límites.
+TEXT_SUBWIL160_00702_MIMIGUN_043	Y por último, le entrego su licencia de jinete de chocobo, como exige la ley.
+TEXT_SUBWIL160_00702_MIMIGUN_044	¡Y con eso concluyen las formalidades! ¡Les deseo a usted y a su chocobo largos años de grata compañía!
+TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_TITLE	Ponle nombre a tu chocobo
+TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_CAPTION	Nombre
+TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_MES0	El nombre debe tener entre 2 y 20 caracteres alfabéticos.

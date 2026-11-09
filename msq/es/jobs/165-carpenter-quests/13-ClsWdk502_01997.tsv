@@ -1,0 +1,40 @@
+key	text
+TEXT_CLSWDK502_01997_SEQ_00	Timbermaster Beatin necesita a su carpenter viajer<if(gnum4,a,o)>.
+TEXT_CLSWDK502_01997_SEQ_01	Timbermaster Beatin te muestra el asta de una lanza encontrada en North Shroud. Aunque se le rompió la punta, la identifica como de origen ishgardiano y se deshace en elogios por su calidad. Cree que semejante tesoro debe volver a su legítimo dueño, y te pide, como aventurer<if(gnum4,a,o)> de mucho mundo, que visites el Congregation of Our Knights Most Heavenly en Ishgard. Ve allí y busca a un caballero veterano que pueda decirte de quién fue la lanza.
+TEXT_CLSWDK502_01997_SEQ_02	Hablas con un caballero veterano, que te informa que la lanza rota muy probablemente perteneció a un miembro de la orden muerto hace mucho. Te envía con el hijo de ese hombre, Barthovieu, que suele andar por The Brume.
+TEXT_CLSWDK502_01997_SEQ_03	Barthovieu, un humilde soldado, recibe asombrado la lanza rota. Te cuenta que su padre era débil, un caballero que partió a pelear contra los Dravanians, pero tuvo una muerte sin honor en las garras de simples bestias. Ahora Barthovieu vive en la miseria como padre soltero. Por su hijo, pretende ganarse el título de caballero cazando dragones. Sin embargo, para eso necesita un arco, y te pedirá que le hagas uno cuando logre reunir los fondos.<br><br>※La siguiente misión de carpenter estará disponible con Barthovieu al llegar al nivel 53.
+TEXT_CLSWDK502_01997_TODO_00	Muéstrale la lanza rota al Temple Knight veterano en Ishgard.
+TEXT_CLSWDK502_01997_TODO_01	Entrégale la lanza rota a Barthovieu.
+TEXT_CLSWDK502_01997_BEATINE_000_000	Ah, <split(<string(gstr1)>, ,1)>. ¿Confío en que sigue tallando la perfección en nuestro arte?
+TEXT_CLSWDK502_01997_BEATINE_000_001	Hoy tengo un pedido algo inusual para usted: encontrar al dueño de una lanza extraviada.
+TEXT_CLSWDK502_01997_BEATINE_000_002	Un miembro de lo mejor de Gridania me la trajo tras encontrarla en su patrulla. Cómo llegó a North Shroud es un misterio, pero es una excelente pieza de artesanía.
+TEXT_CLSWDK502_01997_BEATINE_000_003	El estilo es sin duda ishgardiano, aunque pocos podrían notarlo, porque le falta la punta.
+TEXT_CLSWDK502_01997_BEATINE_000_004	Para un maestro, sin embargo, el amor del carpenter y del portador por esta arma es evidente. El mango está alisado por el uso y revela el patrón acolchado de la madera.
+TEXT_CLSWDK502_01997_BEATINE_000_005	Es la reina de las lanzas. Le agradecí su ayuda al Wailer, aunque es una gran lástima que no haya encontrado la punta. De todos modos, merece volver a quien la amó. Yo sé que estaría desconsolado si perdiera semejante tesoro.
+TEXT_CLSWDK502_01997_BEATINE_000_006	deleted
+TEXT_CLSWDK502_01997_BEATINE_000_007	Como maestro del gremio, mis deberes me mantienen firmemente arraigado aquí. Pero usted, como aventurer<if(gnum4,a,o)>, extendió sus ramas por todas partes, y por eso se lo comento.
+TEXT_CLSWDK502_01997_BEATINE_000_008	Por suerte, la lanza nos da una pista sobre su dueño: aquí, la corona alada de los Temple Knights tallada en el asta.
+TEXT_CLSWDK502_01997_BEATINE_000_009	Claro que esto solo reduce un poco las posibilidades. Pero algún miembro de su orden podría ayudar. A juzgar por la edad de la lanza, cuanto más veterano, mejor. En cualquier caso, ahora queda en sus capaces manos.
+TEXT_CLSWDK502_01997_BEATINE_000_015	¿Ya le mostró la lanza a un Temple Knight? Cuando lo haga, por favor pregúntele si todas sus armas son tan finas como esta pieza.
+TEXT_CLSWDK502_01997_KOSAN01997_000_020	¿Hm? Así es, llevo con los Temple Knights más años de los que quisiera recordar. También he sobrevivido a más de un mocoso. ¿Y en qué puedo ayudarte, <if(gnum4,muchacha,muchacho)>?
+TEXT_CLSWDK502_01997_KOSAN01997_000_021	Por los siete infiernos... No veía una lanza así desde que era escudero. El dueño debe de ser tan viejo como yo. O estar muerto.
+TEXT_CLSWDK502_01997_KOSAN01997_000_022	Ahhh, ¿cómo se llamaba aquel tipo? Un necio que entró a la orden más o menos cuando yo, solo para que lo mataran unas bestias. Lo recuerdo porque encontramos todo menos su lanza.
+TEXT_CLSWDK502_01997_KOSAN01997_000_023	También tenía un hijo. Un muchacho cobarde llamado Barthovieu. Suele andar por The Brume. Llévale la lanza si quieres, pero si tengo razón, me alegra que esté rota. Una lanza que no pudo con unas cuantas <italic(1)>bestias<italic(0)> no tiene lugar entre los Temple Knights. \<escupe>
+TEXT_CLSWDK502_01997_KOSAN01997_000_025	Ya se te olvidó el nombre del muchacho, ¿eh? Barthovieu. Suele andar por The Brume.
+TEXT_CLSWDK502_01997_BARTHOVIEU_000_030	Sí, me llamo Barthovieu. ¿Qué asunto tiene alguien como tú, aventurer<if(gnum4,a,o)>, con un humilde soldado como yo?
+TEXT_CLSWDK502_01997_BARTHOVIEU_000_031	Esto... ¡esta es la lanza de mi padre! ¿Y dices que estaba en The Black Shroud?
+TEXT_CLSWDK502_01997_BARTHOVIEU_000_032	Yo era apenas un niño la última vez que la vi. Fue el día en que mi padre partió en su montura a pelear contra la Horde, todo un caballero de los Temple Knights. También fue la última vez que lo vi con vida.
+TEXT_CLSWDK502_01997_BARTHOVIEU_000_033	Con el tiempo nos devolvieron su cuerpo, destrozado por los siete infiernos. Lo mataron unas míseras bestias, nada menos. Maldito pusilánime.
+TEXT_CLSWDK502_01997_BARTHOVIEU_000_034	Así es Ishgard, aventurer<if(gnum4,a,o)>: un hombre al que matan los dragones es un héroe, y uno al que matan las bestias... Bueno, digamos que a mi padre le debo la desgracia de mi casa.
+TEXT_CLSWDK502_01997_BARTHOVIEU_000_035	A mi modo de ver, mi honor me toca a mí recuperarlo. Les demostraré a los Temple Knights que soy digno de sus filas con la única prueba que aceptan: el cadáver de un Dravanian.
+TEXT_CLSWDK502_01997_BARTHOVIEU_000_036	Pero no pelearé con la lanza. No quiero morir destrozado como mi padre. Ahora mi arma es el arco. O lo sería, si tuviera uno adecuado para cazar dragones.
+TEXT_CLSWDK502_01997_BARTHOVIEU_000_037	Dijiste que eras <if(gnum4,una mujer,un hombre)> del Carpenters' Guild, ¿no? ¿Podrías hacerlo? Fabricarme un composite bow como es debido, quiero decir. Sé que es un pedido repentino, pero-
+TEXT_CLSWDK502_01997_BARTHOVIEU_000_038	¿Philipallais? Un momento, hijo, estoy ocupado. ¿Por qué no saludas a <if(gnum4,la aventurera,el aventurero)>?
+TEXT_CLSWDK502_01997_BARTHOVIEU_000_039	\<suspiro> Tendrás que disculpar al muchacho. Ahora solo estamos él y yo. Me temo que sus modales han sufrido por eso.
+TEXT_CLSWDK502_01997_BARTHOVIEU_000_040	Es un muchacho listo, y le estoy enseñando a usar el arco. Con las aves que trae a casa comemos una semana. Pero no me hago ilusiones. Esta es una vida dura. Quiero algo mejor para él...
+TEXT_CLSWDK502_01997_BARTHOVIEU_000_041	Pero volvamos al asunto: no soy rico y no tengo gil para pagar un composite bow. Pero con tiempo puedo juntar algo. Y entonces, esperaré lo mejor que sepas hacer.
+TEXT_CLSWDK502_01997_SYSTEM_100_001	La siguiente misión de carpenter estará disponible con Barthovieu al llegar al nivel 53.
+TEXT_CLSWDK502_01997_SYSTEM_100_002	Puedes revisar los requisitos para emprender las siguientes misiones en tu Journal.
+TEXT_CLSWDK502_01997_SYSTEM_100_010	Tus habilidades de artesan<if(gnum4,a,o)> serían muy útiles para fabricar collectables. Habla con Morgayne en Saint Reinette's Forum, en Ishgard, para saber más de esta lucrativa oportunidad de negocio.
+TEXT_CLSWDK502_01997_SYSTEM_100_011	Si buscas pruebas aún mayores de tu destreza de fabricación, te convendría adquirir master recipes.
+TEXT_CLSWDK502_01997_SYSTEM_100_012	Habla con Guiding Star en Revenant's Toll para saber más de ellas.

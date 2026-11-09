@@ -1,0 +1,32 @@
+key	text
+TEXT_CLSWDK005_00168_SEQ_00	Algo parece estar preocupando a Timbermaster Beatin...
+TEXT_CLSWDK005_00168_SEQ_01	Aunque no quiso confiártelo, está claro que algo preocupa a Beatin. Por ahora, te pidió que atiendas a los pequeños en el Acorn Orchard.
+TEXT_CLSWDK005_00168_SEQ_02	Nicoliaux está seguro de que Beatin sufre una repentina falta de creatividad. Hasta que el maestro carpintero encuentre una nueva fuente de inspiración, Nicoliaux teme que seguirá taciturno y aburrido. Fabrica y llévale a Beatin una pieza de walnut lumber de alta calidad para sacarlo de su depresión.
+TEXT_CLSWDK005_00168_SEQ_03	Tal como quería Nicoliaux, a Beatin le sorprenden los usos en apariencia infinitos que podría darle a tu walnut lumber de alta calidad. Recordando a un viejo amigo que una vez lo ayudó de forma parecida, te agradece tu ayuda, y te recuerda que no espera menos que lo mejor de alguien con tu indudable talento.<br><br>※La siguiente misión de carpenter estará disponible con Beatin al llegar al nivel 30.
+TEXT_CLSWDK005_00168_TODO_00	Habla con Nicoliaux.
+TEXT_CLSWDK005_00168_TODO_01	Entrégale una pieza de walnut lumber <sheet(Addon,9,0)> a Beatin.
+TEXT_CLSWDK005_00168_BEATINE_000_1	... \<suspiro>
+TEXT_CLSWDK005_00168_BEATINE_000_2	Oh, <split(<string(gstr1)>, ,1)>. Se ve bien. Si vino a buscar trabajo, me temo que no tengo nada que ofrecerle.
+TEXT_CLSWDK005_00168_BEATINE_000_3	Aunque... si no tiene otras responsabilidades urgentes, podría pasar un rato con los pequeños en el Acorn Orchard.
+TEXT_CLSWDK005_00168_BEATINE_000_4	Últimamente el taller exige toda mi atención y no he podido ocuparme de ellos.
+TEXT_CLSWDK005_00168_BEATINE_000_5	...Eso es todo, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSWDK005_00168_NICOLIAUX_000_10	¡Oye, tú eres un<if(gnum4,a,o)> de esos aventureros que entraron al gremio!
+TEXT_CLSWDK005_00168_NICOLIAUX_100_10	Beatin está deprimido, ¿eh? Con razón no viene desde hace <italic(1)>siglos<italic(0)>.
+TEXT_CLSWDK005_00168_NICOLIAUX_000_11	Ya lo he visto así antes. Apuesto a que es porque no se le ocurre nada nuevo que hacer.
+TEXT_CLSWDK005_00168_NICOLIAUX_000_12	Así no es divertido. Prefiero cuando agita su serrucho y amenaza con atar a sus aprendices inútiles al Figaga's Gift y-
+TEXT_CLSWDK005_00168_NICOLIAUX_000_13	¡Espera, ya sé! Eres bastante buen<if(gnum4,a,o)> carpenter, ¿no?
+TEXT_CLSWDK005_00168_NICOLIAUX_000_14	¡Entonces puedes hacer walnut lumber de alta calidad!
+TEXT_CLSWDK005_00168_NICOLIAUX_000_15	¿Sabes que siempre anda diciendo cosas como "Debe <italic(1)>CONOCER<italic(0)> la madera", y todo eso? Bueno, ¡apuesto a que si le damos madera <italic(1)>buena<italic(0)> de verdad, se anima enseguida!
+TEXT_CLSWDK005_00168_NICOLIAUX_000_16	Sé que suena un poco raro, pero es que él <italic(1)>es<italic(0)> un poco raro, ¿no? ¡Y tenemos que intentar <italic(1)>algo<italic(0)>! ¡Extraño al Beatin malvado de siempre!
+TEXT_CLSWDK005_00168_SYSTEM_000_17	Aumentar la <colortype(500)><edgecolortype(501)>calidad<edgecolortype(0)><colortype(0)> de un objeto durante la síntesis mejora la probabilidad de que el resultado sea de grado superior (<colortype(500)><edgecolortype(501)>HQ<edgecolortype(0)><colortype(0)>).
+TEXT_CLSWDK005_00168_SYSTEM_000_18	To be deleted.
+TEXT_CLSWDK005_00168_BEATINE_000_20	...Déjeme en paz, <split(<string(gstr1)>, ,1)>. Tengo que concentrarme.
+TEXT_CLSWDK005_00168_BEATINE_000_21	¿Qué es este malestar que me aflige? Me creía firme como una iron lance, y sin embargo...
+TEXT_CLSWDK005_00168_BEATINE_000_22	...¿Hm?
+TEXT_CLSWDK005_00168_BEATINE_000_23	Sí... lo siento. ¡<italic(1)>Lo siento<italic(0)>! Este walnut lumber de alta calidad es obra suya, ¿verdad?
+TEXT_CLSWDK005_00168_BEATINE_000_24	Denso, duradero y con un acabado experto. No hay duda de su habilidad, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSWDK005_00168_BEATINE_000_25	Los muebles de nogal fueron muy populares en Ul'dah... quizá podríamos revivir esa tradición...
+TEXT_CLSWDK005_00168_BEATINE_000_26	O, mejor aún, hacer una base más sólida para un nuevo diseño de arandela...
+TEXT_CLSWDK005_00168_BEATINE_000_27	¡Las posibilidades son infinitas! Gracias a usted, <split(<string(gstr1)>, ,1)>, parece que ahora estoy paralizado por la indecisión.
+TEXT_CLSWDK005_00168_BEATINE_000_28	Cuánto ha crecido, y en tan poco tiempo. Me recuerda a un querido amigo, otra alma de gran pasión. Aunque seguimos caminos distintos, nos empujábamos el uno al otro a dar lo mejor.
+TEXT_CLSWDK005_00168_BEATINE_000_29	Hasta me ayudó en aquellos tiempos en que me fallaba la inspiración. Veo mucho de él en usted, y por eso sé que puedo exigirle lo mismo. Vuelva a su trabajo, <split(<string(gstr1)>, ,1)>... y no me decepcione.

@@ -1,0 +1,89 @@
+key	text
+TEXT_AKTKUA101_04643_SEQ_00	El despistado pregonero de Tataru Taru's Boutique, inexplicablemente, no te reconoce...
+TEXT_AKTKUA101_04643_SEQ_01	Te encuentras otra vez cara a cara con Tataru, que ha estado muy ocupada. La laboriosa Lalafell te ofrece un regalo inesperado, pero bienvenido: tu propia isla privada en las Cieldalaes. Difícil decir que no, ¿verdad?
+TEXT_AKTKUA101_04643_SEQ_02	Vas a Moraby Drydocks y conoces a Baldin, un pirata convertido en patrón de transbordador, antes de que Tataru llegue con su mejor ropa de verano. Con los preparativos en orden, solo tienes que dar la señal para que te lleven a tu isla santuario.
+TEXT_AKTKUA101_04643_SEQ_03	Tras un viaje al sur por mares cerúleos, tu barco llega sin problemas a la isla sin nombre que será tu refugio. Ni tú ni Tataru pierden tiempo en bajar y correr por la arena.
+TEXT_AKTKUA101_04643_SEQ_04	El buen humor de Tataru es contagioso como siempre, y no puedes evitar sonreír ante su júbilo. Tras contarte brevemente el pasado de la isla, menciona que consiguió ayuda para la monumental tarea de hacerla habitable usando solo los recursos locales, aunque tendrás que seguirla tierra adentro para saber quién y cómo.
+TEXT_AKTKUA101_04643_SEQ_05	Tataru te presenta a la feliz bola de pelos, lo último, aunque quizá no lo mejor, en tecnología de mammets de Sharlayan. A pesar de la dudosa naturaleza de tu nuevo aliado, el apasionado discurso de Tataru te anima a seguir hacia un paraíso solo tuyo. Con un equipo de mammets a tu servicio, las posibilidades son infinitas.
+TEXT_AKTKUA101_04643_TODO_00	Habla con Baldin en Moraby Drydocks.
+TEXT_AKTKUA101_04643_TODO_01	Viaja a tu isla santuario.
+TEXT_AKTKUA101_04643_TODO_02	Habla con Tataru.
+TEXT_AKTKUA101_04643_TODO_03	Vuelve a hablar con Tataru.
+TEXT_AKTKUA101_04643_GRANDENDEAVORSCLEARK04643_000_001	¡Muy <if([gnum11<12],<if([gnum11<4],buenas noches,buenos días)>,<if([gnum11<17],buenas tardes,buenas noches)>)> tenga, <if(gnum4,mi señora,caballero)>! Vino a ver Tataru Taru's Boutique en persona, sin duda. ¿Le interesa uno de nuestros calcetines de seda, famosos en todo el mundo? ¡Son tan cómodos que ni notará que los lleva puestos!
+TEXT_AKTKUA101_04643_GRANDENDEAVORSCLEARK04643_000_002	...¿Cómo dice? ¿Conoce a la propietaria?
+TEXT_AKTKUA101_04643_GRANDENDEAVORSCLEARK04643_000_003	Cielos, ¿usted es <italic(1)><if(gnum4,la,el)><italic(0)> <split(<string(gstr1)>, ,1)>? ¡La señora Tataru me contó todo sobre usted! Ahora que lo pienso, debía avisarle de inmediato si pasaba por aquí...
+TEXT_AKTKUA101_04643_GRANDENDEAVORSCLEARK04643_000_004	Por favor, espere un momento. ¡Voy a buscarla enseguida!
+TEXT_AKTKUA101_04643_TATARU_000_005	(-???-)¡Ahí estás, <split(<string(gstr1)>, ,1)>!
+TEXT_AKTKUA101_04643_TATARU_000_006	¡Perdón por hacerte esperar! El negocio va viento en popa y apenas doy abasto.
+TEXT_AKTKUA101_04643_TATARU_000_007	¡No es que me queje! Nuestras conexiones por toda la estrella ya están dando frutos.
+TEXT_AKTKUA101_04643_TATARU_000_008	¡No es que me queje! Parece que fue ayer cuando te recibía como <if(gnum4,mi primera clienta,mi primer cliente)>, y míranos ahora.
+TEXT_AKTKUA101_04643_TATARU_000_009	...Pero seguro te preguntas por qué quería hablar contigo.
+TEXT_AKTKUA101_04643_TATARU_000_010	Tengo una sorpresa para ti. ¡Un regalo, de hecho! Precioso, exclusivo y, sobre todo, debidamente registrado...
+TEXT_AKTKUA101_04643_TATARU_000_011	¡Una isla santuario!
+TEXT_AKTKUA101_04643_TATARU_000_012	¡Oíste bien! ¡Yo, Tataru Taru, te regalo tu propia isla!
+TEXT_AKTKUA101_04643_TATARU_000_013	Sé que tendrás la tentación de responder "¿Estás segura?" o "¡Eres demasiado amable!" (muy segura, y sí, ya lo sé), pero espero que aceptes este regalo con espíritu de amistad. Al fin y al cabo, vi de cerca el peso de las cargas que llevas.
+TEXT_AKTKUA101_04643_TATARU_000_014	Llegaste a ser <if(gnum4,la campeona,el campeón)> de Eorzea y ahora <if(gnum4,una heroína conocida,un héroe conocido)> en toda la estrella y más allá... lo que deja muy pocos lugares donde puedas estar libre de deberes y expectativas.
+TEXT_AKTKUA101_04643_TATARU_000_015	Mientras pensaba dónde encontrar ese oasis, se me ocurrió una idea como una ola: ¡el mar! En una isla paradisíaca, con solo la serenidad de la naturaleza en muchos malms a la redonda, hasta tú podrías relajarte.
+TEXT_AKTKUA101_04643_TATARU_000_016	Entonces, ¿qué dices? ¿"Sí"? ¿"Mil veces sí"?
+TEXT_AKTKUA101_04643_Q1_000_000	¿Qué vas a decir?
+TEXT_AKTKUA101_04643_A1_000_001	¡Es como si me leyeras la mente!
+TEXT_AKTKUA101_04643_A1_000_002	¿Qué estamos esperando? ¡Échame en la bodega y zarpemos!
+TEXT_AKTKUA101_04643_TATARU_000_018	Ah, soy clarividente, ¿no lo sabías? Por cierto, veo una gran fortuna en tu futuro inmediato...
+TEXT_AKTKUA101_04643_TATARU_000_019	¡Qué bueno saber que pensamos igual!
+TEXT_AKTKUA101_04643_TATARU_000_020	De verdad, no hay mejor momento que este para ponernos en marcha. ¡Vamos a Moraby Drydocks!
+TEXT_AKTKUA101_04643_TATARU_000_021	Busca a Baldin, un patrón de barco cerca del aetheryte. Nos estará esperando.
+TEXT_AKTKUA101_04643_BARDIN_000_030	¡Ah del barco, <if(gnum4,muchacha,muchacho)>! Tú debes ser <if(gnum4,la amiga,el amigo)> de la patroncita. Te consiguió tu propia isla, ¿eh?
+TEXT_AKTKUA101_04643_BARDIN_000_031	<split(<string(gstr1)>, ,1)>, ¿no? La patroncita me dijo que te esperara.
+TEXT_AKTKUA101_04643_BARDIN_000_032	Dijo que vendría enseguida, pero... Ah, hablando del diablo.
+TEXT_AKTKUA101_04643_TATARU_000_033	¡<split(<string(gstr1)>, ,1)>! Pensé en vestirme ligera para el viaje, por la famosa humedad de las islas del sur.
+TEXT_AKTKUA101_04643_TATARU_000_034	¿Todo en orden, Baldin?
+TEXT_AKTKUA101_04643_BARDIN_000_035	Sí. Solo dame un grito cuando estés para zarpar.
+TEXT_AKTKUA101_04643_BARDIN_000_036	No tienes nada que temer adonde vamos, desde que todo marauder con una onza de sesos colgó el hacha.
+TEXT_AKTKUA101_04643_BARDIN_000_037	Todo este asunto de la "isla santuario" salió de la Almirante, que cree que necesitamos algo que hacer ahora que la piratería quedó descartada, para que sepas. Mírame a mí: un maldito ciudadano ejemplar llevando pasajeros de un lado a otro.
+TEXT_AKTKUA101_04643_BARDIN_000_038	...En fin, vienes bastante <if(gnum4,ligera,ligero)> para una empresa de este tipo. ¿Sabes que tú te encargas de traer tus herramientas y provisiones?
+TEXT_AKTKUA101_04643_TATARU_000_039	No hay problema. ¡Lo conseguiremos todo allá!
+TEXT_AKTKUA101_04643_BARDIN_000_040	¿Que harán qué? ¿Cómo diablos piensan hacerlo?
+TEXT_AKTKUA101_04643_TATARU_000_041	Ah, tengo algo en mente... Digamos que la idea fue lo bastante buena para que nos dieran el permiso.
+TEXT_AKTKUA101_04643_BARDIN_000_042	¿Ah, sí? Bueno, mucha suerte a ustedes.
+TEXT_AKTKUA101_04643_TATARU_000_043	Seguro te mueres por ver tu nuevo dominio, así que te contaré todos los detalles jugosos cuando lleguemos.
+TEXT_AKTKUA101_04643_BARDIN_000_044	Haz tus preparativos. Salimos del puerto en cuanto des la orden.
+TEXT_AKTKUA101_04643_TATARU_000_045	¡Te espero en el transbordador!
+TEXT_AKTKUA101_04643_TATARU_000_060	¡<split(<string(gstr1)>, ,1)>, mira hacia el horizonte!
+TEXT_AKTKUA101_04643_TATARU_000_061	Hermoso, ¿verdad?
+TEXT_AKTKUA101_04643_TATARU_000_062	Ahhh... ¡No hay nada como un viaje por mar para reavivar el espíritu aventurero!
+TEXT_AKTKUA101_04643_TATARU_000_063	Entonces, ¿qué te parece? Esta isla sin domar es tuya para cultivarla como quieras. O para no cultivarla.
+TEXT_AKTKUA101_04643_TATARU_000_064	Como mínimo, piensa en ella como tu escondite personal, y no tan secreto.
+TEXT_AKTKUA101_04643_TATARU_000_070	La caricia refrescante del viento, el susurro relajante de las olas... ¡qué liberador! Lo admito, tenía muchas ganas de venir aquí contigo.
+TEXT_AKTKUA101_04643_TATARU_000_071	Quizá te sorprenda, pero una banda de piratas tomó la isla y la usó como base de suministros. Por suerte para nosotros, el grupo se disolvió hace años, y desde entonces la isla ha vuelto en gran parte a su estado natural.
+TEXT_AKTKUA101_04643_TATARU_000_072	Como bien sabes, Merlwyb nunca fue de quedarse sin hacer nada. Hace años que le echó el ojo a las Cieldalaes y planea asentamientos en las islas. Ahora que por fin hay cierta paz en el reino, decidió poner en marcha esos planes.
+TEXT_AKTKUA101_04643_TATARU_000_073	¡A unos pocos elegidos les permitieron hacerse cargo de islas privadas en este vasto archipiélago, y tú eres parte de ellos!
+TEXT_AKTKUA101_04643_TATARU_000_074	A la Almirante le gustó mi laboriosa idea de conseguir aquí mismo todos los materiales para asentarse cuando leyó mi propuesta, tanto que con gusto me concedió una escritura.
+TEXT_AKTKUA101_04643_Q2_000_000	¿Qué vas a decir?
+TEXT_AKTKUA101_04643_A2_000_001	Tú te encargarás de conseguirlos, espero.
+TEXT_AKTKUA101_04643_A2_000_002	Esto no es exactamente trabajo para <if(gnum4,una sola mujer,un solo hombre)>...
+TEXT_AKTKUA101_04643_TATARU_000_076	Ah, podría enseñarte un par de cosas sobre cómo iniciar una empresa de esta magnitud, ¡pero tengo algo mejor en mente!
+TEXT_AKTKUA101_04643_TATARU_000_077	No te preocupes: conseguí mucha ayuda.
+TEXT_AKTKUA101_04643_TATARU_000_078	Con gusto te la presentaré en un momento, pero tendrás que seguirme hasta el encantador claro que elegí como tu base de operaciones.
+TEXT_AKTKUA101_04643_TATARU_000_079	Si subimos esa cuesta de ahí y seguimos el sendero, pronto nos encontraremos con... bueno, ya verás.
+TEXT_AKTKUA101_04643_CATEARSMAMMET_000_085	Si TiEnE pReGuNtAs SoBrE eL dEsArRoLlO dE lA iSlA, pOr FaVoR gUáRdElAs HaStA qUe Se CuMpLaN lOs ReQuIsItOs De CoRtEsÍa.
+TEXT_AKTKUA101_04643_TATARU_000_090	¡Permíteme presentarte a la feliz bola de pelos, la líder de tu equipo de ayudantes!
+TEXT_AKTKUA101_04643_CATEARSMAMMET_000_091	VaYa, VaYa, VaYa, sI nO eS <if(gnum4,La PrOpIa DuEñA,eL pRoPiO dUeÑo)>. sErÁ uN pLaCeR aCoNsEjArLe, Lo DeSeE o No. Oh, Sí, CrEo QuE nOs LlEvArEmOs De MaRaViLlA.
+TEXT_AKTKUA101_04643_TATARU_000_092	Además de nuestra amiga felina, me tomé la libertad de preparar otros mammets para ayudar con la construcción y el desarrollo de la isla. Te alegrará saber que son los modelos más nuevos y mejores, creados por una de las mentes más brillantes de Sharlayan.
+TEXT_AKTKUA101_04643_TATARU_000_093	Oí que un profesor del Studium buscaba cómo aprovechar sus avanzados autómatas. Para no hacer el cuento largo, le hice una oferta que no pudo rechazar, ¡y conseguí todos por el precio imbatible de "gratis"!
+TEXT_AKTKUA101_04643_TATARU_000_094	Según entiendo, los mammets se produjeron en secreto mientras el Forum planeaba el gran éxodo.
+TEXT_AKTKUA101_04643_TATARU_000_095	Estaban destinados a trabajar en estrellas lejanas para ayudar a construir un nuevo hogar para el pueblo de Etheirys, y parece que su razón de existir se esfumó cuando desapareció la amenaza contra nuestra estrella.
+TEXT_AKTKUA101_04643_TATARU_000_096	Como imaginarás, el profesor estaba muy indeciso sobre qué hacer con los restos de lo que bien pudo ser el trabajo de su vida. Pero, tras algo de negociación, lo convencí de confiárnoslos, con la condición de compartir los datos del desarrollo de la isla.
+TEXT_AKTKUA101_04643_TATARU_000_097	Además, aunque suene a una odisea conseguir todo lo necesario de la propia tierra, hay razones prácticas de sobra para este experimento.
+TEXT_AKTKUA101_04643_TATARU_000_098	Verás, la visión de la Almirante es que gente de todas las condiciones tenga acceso a estas islas santuario, y mi idea quizá sea la forma más eficaz de lograrlo.
+TEXT_AKTKUA101_04643_TATARU_000_099	Si alguien tiene el capital para comprar los materiales y el equipo que requiere una empresa tan audaz, es fácil subsistir con seguridad y comodidad en un lugar remoto. Pero eso limita a unos pocos los posibles guardianes de islas.
+TEXT_AKTKUA101_04643_TATARU_000_100	¿Y los que no tienen esos fondos y solo quieren disfrutar de la naturaleza y vivir de la tierra? Podemos, y debemos, demostrar que es posible, y ayudar a esos futuros guardianes de islas con los conocimientos que necesitan para triunfar.
+TEXT_AKTKUA101_04643_TATARU_000_101	Solo entonces estas islas serán de verdad santuarios.
+TEXT_AKTKUA101_04643_CATEARSMAMMET_000_102	No Se PrEoCuPe, SeÑoRa TaTaRu. CoN iNgEnIo Y cOnOcImIeNtOs AuTéNtIcAmEnTe ShArLaYaNoS a Mi AlCaNcE, eStE iNdIvIdUo De MeNtE sImPlE- \<clonc> ¡Ejem! Disculpen. A pesar de las mejoras en el diseño de los órganos vocales, el mecanismo todavía se atasca de vez en cuando.
+TEXT_AKTKUA101_04643_TATARU_000_103	...Vaya, qué alivio. Pero los dejo para que se conozcan bien. Volveré a ver los frutos de su colaboración cuando estén listos para cosechar.
+TEXT_AKTKUA101_04643_TATARU_000_104	Por ahora, ¡disfruta de tu propio paraíso!
+TEXT_AKTKUA101_04643_TATARU_000_105	Cultiva la tierra o explora: ¡tú decides!
+TEXT_AKTKUA101_04643_CATEARSMAMMET_000_106	Sí, sí, le doy la bienvenida a la isla. Avíseme cuando termine de quedarse con la boca abierta ante el paisaje. Preferiría acabar pronto con este asunto sórdido. También me gustaría mucho hablar del tema de mi pago.
+TEXT_AKTKUA101_04643_SYSTEM_000_150	Ahora puedes visitar la isla santuario de un compañero de grupo, un miembro de tu free company o un amigo que tenga desbloqueada la función hablando con Baldin en Moraby Drydocks.
+TEXT_AKTKUA101_04643_SYSTEM_000_151	No podrás visitar una isla santuario si su dueño prohibió el acceso, si no hay nadie en ella o si ya alcanzó su capacidad máxima.
+TEXT_AKTKUA101_04643_SYSTEM_100_151	Además, para visitar la isla santuario de un conocido debes estar en su Home World.
+TEXT_AKTKUA101_04643_SYSTEM_000_152	Podrás invitar a tu isla santuario a compañeros de grupo, miembros de tu free company y amigos cuando alcance un nivel de desarrollo suficiente.

@@ -1,0 +1,61 @@
+key	text
+TEXT_CLSWDK006_00169_SEQ_00	Timbermaster Beatin tiene un encargo especial para ti.
+TEXT_CLSWDK006_00169_SEQ_01	La fama de tu trabajo se extendió, y un cliente te pidió por tu nombre. Prepara un walnut cane de la mejor calidad y preséntaselo a Beatin para que lo inspeccione.
+TEXT_CLSWDK006_00169_SEQ_02	Beatin decreta que el bastón satisfará a tu cliente. Búscalo en el Adders' Nest y entrégale el bastón.
+TEXT_CLSWDK006_00169_SEQ_03	El cliente, Gairhard, tiene dificultades para ganarse la confianza de una conjurer recién asignada a su unidad. Para demostrarle que algunos forasteros no quieren hacer daño y solo desean ayudar, te encargó el bastón. Te pide que se lo entregues de su parte a Ponette en el Stillglade Fane.
+TEXT_CLSWDK006_00169_SEQ_04	El walnut cane conmueve profundamente a Ponette. Se disculpa por juzgar con tanta dureza a los forasteros y reconoce lo que personas como el Capitán Gairhard y tú aportan a la causa de Gridania. Vuelve al Adders' Nest e informa al capitán del cambio de actitud de la conjurer.
+TEXT_CLSWDK006_00169_SEQ_05	El Capitán Gairhard te felicita por un trabajo bien hecho y comenta que Beatin tenía razón en preferirte. Vuelve con el maestro carpintero e infórmale que el encargo está completo.
+TEXT_CLSWDK006_00169_SEQ_06	El placer del maestro carpintero al enterarse de tu éxito solo se compara con su sorpresa al descubrir que tu cliente era en realidad un viejo amigo suyo, de regreso de una larga campaña en el extranjero. Aunque le extraña que Gairhard no le haya avisado de su regreso, a Beatin le alivia saber que goza de buena salud.<br><br>※La siguiente misión de carpenter estará disponible con Beatin al llegar al nivel 35.
+TEXT_CLSWDK006_00169_TODO_00	Preséntale un walnut cane <sheet(Addon,9,0)> a Beatin.
+TEXT_CLSWDK006_00169_TODO_01	Entrégale el walnut cane <sheet(Addon,9,0)> a Gairhard.
+TEXT_CLSWDK006_00169_TODO_02	Entrégale el walnut cane <sheet(Addon,9,0)> a Ponette.
+TEXT_CLSWDK006_00169_TODO_03	Informa a Gairhard.
+TEXT_CLSWDK006_00169_TODO_04	Informa a Beatin.
+TEXT_CLSWDK006_00169_BEATINE_000_1	Qué bueno que vino, <split(<string(gstr1)>, ,1)>. Se necesitan sus talentos para un encargo.
+TEXT_CLSWDK006_00169_BEATINE_000_2	De hecho, el cliente l<if(gnum4,a,o)> pidió por su nombre.
+TEXT_CLSWDK006_00169_BEATINE_000_3	Parece que <if(gnum4,la aventurera convertida en carpenter se ganó,el aventurero convertido en carpenter se ganó)> cierta reputación.
+TEXT_CLSWDK006_00169_BEATINE_000_4	Debe fabricar un walnut cane de calidad inigualable. Cuando esté listo, tráigamelo.
+TEXT_CLSWDK006_00169_BEATINE_000_5	No permitiré que entregue nada que no sea perfecto.
+TEXT_CLSWDK006_00169_BEATINE_000_10	¿Ya hizo el bastón, <split(<string(gstr1)>, ,1)>?
+TEXT_CLSWDK006_00169_BEATINE_000_11	...
+TEXT_CLSWDK006_00169_BEATINE_000_12	Hizo un buen trabajo, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSWDK006_00169_BEATINE_000_13	La suave curva del mango parece natural, como si estuviera destinada a tomar esa forma.
+TEXT_CLSWDK006_00169_BEATINE_000_14	De hecho, su hábil aplicación de growth formula imbuyó de nueva vida a este bastón, y le da el aspecto de madera sin trabajar.
+TEXT_CLSWDK006_00169_BEATINE_000_15	Las varas y los bastones son quizá la expresión más pura del credo del carpenter, porque el producto terminado celebra la vida pasada de la madera.
+TEXT_CLSWDK006_00169_BEATINE_000_16	Los conjurers, por supuesto, están muy en sintonía con el mundo natural. Por eso no es poca cosa fabricar un bastón que les satisfaga.
+TEXT_CLSWDK006_00169_BEATINE_000_17	Pero su bastón debería contar con la aprobación del cliente. Puede ir a entregárselo en el Adders' Nest.
+TEXT_CLSWDK006_00169_GAIRHARD_100_20	Sí, estoy esperando a un carpenter del gremio. ¿Por qué lo preguntas?
+TEXT_CLSWDK006_00169_GAIRHARD_000_21	Así que <if(gnum4,esta es la famosa discípula,este es el famoso discípulo)> de Beatin... Me alegra poder ponerle cara al nombre por fin. Soy Gairhard.
+TEXT_CLSWDK006_00169_GAIRHARD_000_22	Aunque yo no tengo ningún talento para la conjuración, salta a la vista que este bastón está exquisitamente trabajado.
+TEXT_CLSWDK006_00169_GAIRHARD_000_23	Así es, el bastón no es para mí. Es para una conjurer recién asignada a mi unidad.
+TEXT_CLSWDK006_00169_GAIRHARD_000_24	Se llama Ponette, un alma talentosa pero terca que hasta ahora se resistió a todos mis intentos de integrarla a nuestras filas.
+TEXT_CLSWDK006_00169_GAIRHARD_000_25	Llevo aquí lo suficiente para saber que los gridanianos pueden ser bastante protectores con su ciudad, y que eso a veces se manifiesta en una profunda desconfianza hacia los forasteros.
+TEXT_CLSWDK006_00169_GAIRHARD_000_26	Sin embargo, no puedo simplemente ordenarle que deje de lado sus prejuicios. Necesito que confíe en mí por voluntad propia.
+TEXT_CLSWDK006_00169_GAIRHARD_000_27	Espero que, al darle este bastón, al menos acepte mi liderazgo.
+TEXT_CLSWDK006_00169_GAIRHARD_000_28	La encontrarás en el Stillglade Fane. Por favor, dáselo de mi parte.
+TEXT_CLSWDK006_00169_GAIRHARD_000_29	Por favor, entrégale el bastón a Ponette de mi parte. La encontrarás en el Stillglade Fane.
+TEXT_CLSWDK006_00169_PONETTE_000_30	¿Cuánto tiempo piensa hacerme esperar el capitán? ¿Tiene idea de lo poco tiempo libre que tiene una conjurer?
+TEXT_CLSWDK006_00169_PONETTE_000_31	¿¡Un <italic(1)>regalo<italic(0)>!? ¿Ese alamhigano me hizo esperar tanto por una baratija que ni siquiera se dignó a entregar él mismo? Típico. Estos extranjeros de verdad no tienen la menor idea de-
+TEXT_CLSWDK006_00169_PONETTE_000_32	\<jadeo>
+TEXT_CLSWDK006_00169_PONETTE_000_33	¡Dioses! No puede ser... ¿¡Un walnut cane!?
+TEXT_CLSWDK006_00169_PONETTE_000_34	Y tan finamente trabajado que apenas creo que lo haya hecho una mano humana.
+TEXT_CLSWDK006_00169_PONETTE_000_35	Para los conjurers, nuestros bastones son la representación física de nuestra conexión con el mundo vivo. Nos dan un foco para canalizar las fuerzas de la naturaleza y tejer hechizos.
+TEXT_CLSWDK006_00169_PONETTE_000_36	Tener un bastón de nogal es un sueño que comparte la mayoría de los conjurers. Y yo no soy distinta. Veo la belleza de este bastón y el corazón de <if(gnum4,la mujer que lo hizo,el hombre que lo hizo)>.
+TEXT_CLSWDK006_00169_PONETTE_000_37	Que alguien de afuera pudiera fabricar este bastón impecable...
+TEXT_CLSWDK006_00169_PONETTE_000_38	Yo...
+TEXT_CLSWDK006_00169_PONETTE_000_39	Disculpe mi falta de decoro, <if(gnum4,aventurera,aventurero)>. Nunca les presté atención a los forasteros, porque los creía incapaces de comprender la tradición de Gridania.
+TEXT_CLSWDK006_00169_PONETTE_000_40	Pero parece que la que no comprendía era yo. Me dio una lección de humildad, <if(gnum4,aventurera,aventurero)>, y me abrió los ojos.
+TEXT_CLSWDK006_00169_PONETTE_000_41	Está claro que se esforzó mucho por aprender nuestras costumbres... igual que el Capitán Gairhard. No sé cómo agradecerles a ambos. Aunque no merezco este bastón, juro que haré todo lo posible por ganármelo.
+TEXT_CLSWDK006_00169_PONETTE_000_42	Gracias de nuevo, <if(gnum4,aventurera,aventurero)>. Si ve al capitán antes que yo, por favor transmítale mi gratitud.
+TEXT_CLSWDK006_00169_PONETTE_000_45	Gracias de nuevo, <if(gnum4,aventurera,aventurero)>. Aunque no merezco este bastón, haré todo lo posible por ganármelo. Si ve al capitán antes que yo, por favor transmítale mi gratitud.
+TEXT_CLSWDK006_00169_GAIRHARD_000_50	Sabía que no sería fácil complacerla, pero nunca dudé de que lo mejor de Beatin cumpliría.
+TEXT_CLSWDK006_00169_GAIRHARD_000_51	Je, me pregunto... ¿cómo está? ¿Todavía trabajando demasiado, supongo?
+TEXT_CLSWDK006_00169_GAIRHARD_000_52	Así es la vida. En fin, el deber llama. Gracias de nuevo, <split(<string(gstr1)>, ,1)>. Por favor, dale mis saludos al maestro carpintero.
+TEXT_CLSWDK006_00169_BEATINE_000_60	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. ¿Quedó satisfecho el cliente?
+TEXT_CLSWDK006_00169_BEATINE_000_61	Interesante. Entonces el cliente no era conjurer...
+TEXT_CLSWDK006_00169_BEATINE_000_62	En cualquier caso, me alegra saber que quien recibió el bastón quedó satisfecha.
+TEXT_CLSWDK006_00169_BEATINE_000_63	Necesito saberlo, <split(<string(gstr1)>, ,1)>: ¿quién era el cliente? Solo recibí a su mensajero y no entiendo por qué no vino en persona.
+TEXT_CLSWDK006_00169_BEATINE_000_64	...¿¡Gairhard!? ¿Está segur<if(gnum4,a,o)>?
+TEXT_CLSWDK006_00169_BEATINE_000_65	Lo creía lejos de Gridania, en campaña. ¿Cuándo volvió? ¿Y por qué no vino a saludarme en persona?
+TEXT_CLSWDK006_00169_BEATINE_000_66	Nos conocemos desde hace tantos años... Bueno, solo puedo suponer que sus deberes no le dejan tiempo para esas cortesías. Me alegra saber que está en casa y bien.
+TEXT_CLSWDK006_00169_BEATINE_000_67	Gracias por atender su pedido, <split(<string(gstr1)>, ,1)>. Espero con ansias nuestro próximo encuentro.

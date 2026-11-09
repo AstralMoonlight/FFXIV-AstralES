@@ -1,0 +1,20 @@
+key	text
+TEXT_SUBCTS808_01423_SEQ_00	Hay mucho que ver en Revenant's Toll, pero Guiding Star solo tiene ojos para ti.
+TEXT_SUBCTS808_01423_SEQ_01	El perspicaz Guiding Star determina con acierto que tienes manos hábiles y pide ver tu herramienta preferida. Aunque normalmente tal petición ofendería tu sentido del decoro, es tan sincero que decides volver a hablar con él después de equiparte la herramienta principal de recolección o fabricación (nivel de objeto 50 o superior).
+TEXT_SUBCTS808_01423_SEQ_02	Guiding Star contempló tu herramienta con todo el decoro y la delicadeza que exigía la ocasión. Juzgando que tienes suficiente destreza y un equipo insuficiente, te presenta al forjador de herramientas Talan. Trata con este forjador malhumorado y seguro que sales ganando, tanto en equipo como en habilidad.
+TEXT_SUBCTS808_01423_TODO_00	Muéstrale tu herramienta principal a Guiding Star.
+TEXT_SUBCTS808_01423_GUIDINGSTAR_000_000	Me llamo Guiding Star, y tienes la pinta de <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>. Mi meta es nada menos que dominar por completo todo lo que tenga que ver con la fabricación y la recolección, y con ese fin recorro el mundo.
+TEXT_SUBCTS808_01423_GUIDINGSTAR_000_001	Pero debo decir que Revenant's Toll ofrece una dura tentación - la de quedarse. Había oído que el Adventurers' Guild había apostado fuerte por este lugar, pero no tenía idea del talento que está llegando al campamento.
+TEXT_SUBCTS808_01423_GUIDINGSTAR_000_002	Noté por tus manos que tú también eres <if(gnum4,una experta,un experto)>. No le sacas el cuerpo a un poco de trabajo duro.
+TEXT_SUBCTS808_01423_GUIDINGSTAR_000_003	Alguien de tu categoría debe tener herramientas a la altura. Seguro que tienes alguna pieza selecta. ¿No me dejarías ver una?
+TEXT_SUBCTS808_01423_SYSTEM_000_004	Equípate una herramienta principal de recolección o fabricación (nivel de objeto 50 o superior) y vuelve a hablar con Guiding Star.
+TEXT_SUBCTS808_01423_GUIDINGSTAR_000_010	Alguien de tu categoría debe tener herramientas a la altura. Seguro que tienes alguna pieza selecta. ¿No me dejarías ver una?
+TEXT_SUBCTS808_01423_SYSTEM_000_011	Equípate una herramienta principal de recolección o fabricación (nivel de objeto 50 o superior) y vuelve a hablar con Guiding Star.
+TEXT_SUBCTS808_01423_GUIDINGSTAR_000_020	Ah, magnífica. Es todo lo que esperaba...pero nada más.
+TEXT_SUBCTS808_01423_GUIDINGSTAR_000_021	Perdona mi franqueza; sin duda le tienes cariño a tu instrumento. Pero seguro que hay herramientas que te van mejor - herramientas que piden el toque delicado de <if(gnum4,una experta,un experto)> de tu talla.
+TEXT_SUBCTS808_01423_GUIDINGSTAR_000_022	Y resulta que puedes conseguirlas. ¡No tienes que ir más allá de Talan, aquí presente! Puede ser un poco gruñón, pero es uno de los mejores forjadores de herramientas del reino, y su selección es impresionante.
+TEXT_SUBCTS808_01423_GUIDINGSTAR_000_023	Eso sí, no te las va a regalar. Quizá tengas que darle una chuchería o tres a cambio. Pero para <if(gnum4,una aventurera,un aventurero)> con tu habilidad, esos encargos no deberían ser gran problema.
+TEXT_SUBCTS808_01423_GUIDINGSTAR_100_023	Y si quieres recorrer el solitario camino de la maestría, ¿por qué no le pides a Talan uno de sus tomos también?
+TEXT_SUBCTS808_01423_GUIDINGSTAR_110_023	Les dice "mis libros de cocina", porque traen algunas de las recetas más complejas que verás jamás. Pero seguro que tienes habilidad de sobra para ellas.
+TEXT_SUBCTS808_01423_GUIDINGSTAR_120_023	Ah, un artesano siempre está regido por un triunvirato: herramienta, habilidad y curiosidad. ¡Que prosperes en los tres!
+TEXT_SUBCTS808_01423_SYSTEM_000_024	Ya puedes comerciar con Talan. Tras conseguir ciertos objetos, puedes canjearlos por herramientas de recolección y fabricación.

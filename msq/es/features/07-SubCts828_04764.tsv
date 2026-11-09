@@ -1,0 +1,26 @@
+key	text
+TEXT_SUBCTS828_04764_SEQ_00	Thubyrgeim necesita tu ayuda para poner a prueba sus teorías.
+TEXT_SUBCTS828_04764_SEQ_01	Thubyrgeim se enteró de tu investigación sobre los scholars y de tu nueva capacidad para invocar a un hada familiar, y espera que le sigas la corriente para poner a prueba una teoría. Con ese fin, te invita a bajar a la sala de prácticas del gremio.
+TEXT_SUBCTS828_04764_SEQ_02	Siguiendo las instrucciones de Thubyrgeim, tras un breve momento de concentración, invocas a tu hada familiar, pero ella adopta la forma de un Topaz Carbuncle. Satisfecha al ver probada su teoría, Thubyrgeim te invita a volver arriba.
+TEXT_SUBCTS828_04764_SEQ_03	Thubyrgeim te agradece la demostración y te anima a aprovechar lo aprendido.
+TEXT_SUBCTS828_04764_TODO_00	Espera en el lugar indicado.
+TEXT_SUBCTS828_04764_TODO_01	Habla con Thubyrgeim.
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_001	<split(<string(gstr1)>, ,1)>, qué oportuno. ¿Podría dedicarme un momento?
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_002	Hace poco me llegó el rumor de que ha estado investigando a los scholars de Nym por encargo de un miembro del Marauders' Guild, ¿es así?
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_003	Ya veo... Y como resultado, ahora puede invocar a un hada que acuda en su ayuda. ¡Fascinante!
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_004	¿Sería mucha molestia verme abajo, en la sala de prácticas? Hay algo que me gustaría mucho que intentara.
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_005	Espéreme abajo, por favor. Enseguida voy.
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_010	Disculpe la espera.
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_011	Disculpe la espera. Lo que deseo que intente es una técnica parecida a la que ya empleó con sus egi.
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_012	Ahora, ¿tendría la amabilidad de invocar a su hada?
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_013	¡Qué encantadora! Los relatos apenas capturan su belleza.
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_014	Sin duda esta hada se manifiesta a imagen de lo que usted más asocia con las hadas, pero mi investigación sugiere que esta forma no es inmutable.
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_015	En efecto, aunque el conjuro original haya incorporado una forma fundamental, con suficiente concentración creo posible sustituirla por la imagen de otra entidad. Intente conjurar al hada una vez más - esta vez, con un Carbuncle en el ojo de su mente.
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_016	¡Notable! ¡Y en un solo intento!
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_017	Parece que mi teoría se sostiene, lo que significa que esta transformación debería ser meramente superficial, sin afectar en nada su capacidad de sanar. Muy bien.
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_018	Con eso podemos concluir este pequeño experimento. ¿Me acompaña arriba?
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_020	Gracias de nuevo por su ayuda, <split(<string(gstr1)>, ,1)>. Resultó todo un espectáculo.
+TEXT_SUBCTS828_04764_THUBYRGEIM_000_021	Espero que aproveche lo que aprendimos hoy. Me atrevería a decir que la apariencia de su hada no tiene límites.
+TEXT_SUBCTS828_04764_SYSTEM_000_022	Ya puedes cambiar la apariencia de tu hada con <colortype(546)><sheet(TextCommand,33,8)><colortype(0)>.
+TEXT_SUBCTS828_04764_SYSTEM_000_023	Por ejemplo, si quieres que Eos se vea como un Ruby Carbuncle, usa el comando <colortype(546)>/petglamour "eos" "ruby carbuncle"<colortype(0)>.
+TEXT_SUBCTS828_04764_SYSTEM_000_024	Para más detalles, escribe <colortype(546)>/? /petglamour<colortype(0)>.

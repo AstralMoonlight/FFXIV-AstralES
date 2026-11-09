@@ -1,0 +1,39 @@
+key	text
+TEXT_LUCKYB815_03965_SEQ_00	El hombre tan penosamente ishgardiano parece buscar una manera lo bastante decorosa de dirigirse a ti.
+TEXT_LUCKYB815_03965_SEQ_01	Con innecesaria formalidad, un caballero ishgardiano te pregunta si conoces a Khloe Aliapoh. Como en efecto la conoces, te explica que ella invita a todos sus conocidos a venir a jugar con su nuevo amigo, un zorro que al parecer guarda cierto parecido con un personaje intimidante no especificado.
+TEXT_LUCKYB815_03965_SEQ_02	Buscas al nuevo amigo de Khloe, a quien Rowena apodó "faux commander" por su supuesto parecido con el Lord Comandante de Ishgard, y te explica que, igual que Khloe, busca maravillosas historias de aventura. Sin embargo, él mismo es bastante fantástico, y por eso requiere historias aún más increíbles. Tendrás que perseguir tus imaginaciones más desbocadas para satisfacer sus exigencias y obtener acceso a Faux Hollows y sus fabulosos premios.
+TEXT_LUCKYB815_03965_TODO_00	Habla con el faux commander.
+TEXT_LUCKYB815_03965_ISHGARDMAN_000_000	Perdone lo repentino de mi trato, <if(gnum4,mi señora,mi señor)>, pero ¿por casualidad conoce a una tal Khloe Aliapoh?
+TEXT_LUCKYB815_03965_Q1_000_000	¿Qué vas a decir?
+TEXT_LUCKYB815_03965_A1_000_001	Indudablemente, buen señor.
+TEXT_LUCKYB815_03965_A1_000_002	Puede que haya olvidado entregar mi Wondrous Tails... otra vez.
+TEXT_LUCKYB815_03965_ISHGARDMAN_000_001	Entonces parece que lo que traigo sí le interesará. Verá: la señorita Aliapoh tiene un zorro nuevo como mascota, y ha hecho saber que sus conocidos más leales - entre los que me cuento, por supuesto - están invitados a entretenerlo con historias a cambio de recompensas "fantásticas".
+TEXT_LUCKYB815_03965_ISHGARDMAN_000_002	Sin duda la señorita Aliapoh cree que a su amigo peludo también le gustan las historias de gallardía, y me atrevería a decir que mi linaje me hace una especie de experto. Por desgracia... el parecido es demasiado extraño. No puedo acercarme a la criatura sin sentir que me está juzgando.
+TEXT_LUCKYB815_03965_ISHGARDMAN_000_003	Sin embargo, mi honor no me permite ignorar la invitación, así que pensé que usted podría visitar al zorro en mi lugar. Los niños han empezado a llamarlo "Comandante", por razones más que obvias. Seguro que lo reconocerá cuando lo vea.
+TEXT_LUCKYB815_03965_SYSTEM_000_010	Un zorrito de expresión curiosamente altiva está parado sobre el mostrador. Entrecierras los ojos, tratando de ver el parecido que mencionó el hombre...
+TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_011	Si todos siguen mirándome así, voy a empezar a cobrar.
+TEXT_LUCKYB815_03965_Q2_000_000	¿Qué vas a decir?
+TEXT_LUCKYB815_03965_A2_000_001	¡Ay, habla! Esto es sin duda lo más raro que me he encontrado, de alguna manera.
+TEXT_LUCKYB815_03965_A2_000_002	¡Aymeric! ¿Qué te han hecho?
+TEXT_LUCKYB815_03965_A2_000_003	Entonces eres un auspice.
+TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_012	Sí, sí, "¡Ay, un zorro que habla!" por aquí, "¡Por los siete infiernos, eso no es natural!" por allá. Son todos tan melodramáticos. Me atrevería a decir que si conocieran a mis compañeros del Reisen Temple, caerían muertos por pura entrega al teatro.
+TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_013	Muy gracioso. Un chiste totalmente original que no he oído ocho veces <if([gnum11<12],<if([gnum11<4],esta noche,esta mañana)>,<if([gnum11<17],esta tarde,esta noche)>)>, claro.
+TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_014	Lo soy. Y debo decir que una respuesta así es un alivio después de tantos chillidos y arrumacos.
+TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_015	Pero hablemos de ti. Coincides con las descripciones - agotadoramente entusiastas - que me dio Khloe de <if(gnum4,la aventurera,el aventurero)> que le cuenta las historias "más maravillosas". ¿Eres tú?
+TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_016	Entonces eres justo la clase de persona que salí a buscar: la que tiene historias apasionantes que contar. Y me hacen muchísima falta. ¡Historias que inspiren la mente, que desgarren el corazón, que atrapen el alma! Para mis fiestas de té, comprenderás.
+TEXT_LUCKYB815_03965_KHLOEALIAPOF_100_016	¡Ay, ay! ¡Es <if(gnum4,la mejor amiga,el mejor amigo)> de Khloe, <split(<string(gstr1)>, ,1)>! ¿También te haces <if(gnum4,amiga,amigo)> del Comandante?
+TEXT_LUCKYB815_03965_KHLOEALIAPOF_000_017	El Comandante dice que se pasa días y días y <italic(1)>días<italic(0)> hablando con sus otros amigos animales... pero después de tantos días, a todos se les acabaron las historias nuevas, y él anda buscando más por todas partes. ¡Historias, digo! A sus amigos los sigue queriendo.
+TEXT_LUCKYB815_03965_KHLOEALIAPOF_000_018	Así que en realidad, ¡es igual que Khloe! ¿Verdad, Comandante?
+TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_019	Como ya dije, me llamo Sotan. Te lo juro, entre ustedes los niños y Rowena con su <italic(1)>bromita<italic(0)>, nunca me voy a librar de este apodo condenado...
+TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_020	Ejem. En todo caso, si entendí bien, te has enfrentado a toda clase de monstruos y los has vencido, incluidos muchos dioses de esta tierra. Seguro tienes historias que valgan mi tiempo, o al menos ideas para hilarlas.
+TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_021	Si me tejes un relato de lo más fantástico, te daré acceso a Faux Hollows, ¡una aventura caprichosa en sí misma!
+TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_022	...O, para ser exactos, un juego de azar que diseñé. En fin, usa bien tu ingenio y tu suerte y te conjuraré faux leaves como muestra de mi aprecio. Como sin duda ya adivinaste, con suficientes hojas se pueden canjear otros incentivos menos efímeros.
+TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_023	Creo que eso es todo, como dicen los jóvenes, pero no te adelantes. Como dije, no me sirve cualquier historia. Exijo relatos que emocionen incluso a los que <italic(1)>protagonizan<italic(0)> relatos... así que supongo que tendrás que ejercitar un poco la imaginación.
+TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_024	A mis invitados no les importa la autenticidad de su entretenimiento, así que olvídate de la verdad si quieres. Pero asegúrate de contarme tus historias mientras estén frescas. Adornar es una cosa; los errores de continuidad, otra muy distinta.
+TEXT_LUCKYB815_03965_SYSTEM_000_025	Ya tienes acceso a los unreal trials. Se entra a estos desafiantes encuentros desde el Raid Finder.
+TEXT_LUCKYB815_03965_SYSTEM_100_025	Los unreal trials son duties en los que te enfrentas a enemigos del pasado, ahora más poderosos que nunca, al nivel máximo actual.
+TEXT_LUCKYB815_03965_SYSTEM_110_025	Los unreal trials disponibles cambian con cada parche principal.
+TEXT_LUCKYB815_03965_SYSTEM_000_026	Una vez por semana, después de completar un unreal trial, puedes hablar con el faux commander para tener la oportunidad de jugar a Faux Hollows.
+TEXT_LUCKYB815_03965_SYSTEM_100_026	Puedes comprobar en cualquier momento si Faux Hollows está disponible desde el Raid Finder, viendo los detalles de cualquier unreal trial.
+TEXT_LUCKYB815_03965_SYSTEM_000_027	El estado de los unreal trials y la disponibilidad de Faux Hollows se reinician cada <setresettime(17,2)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:00 <if([t_hour<12],a.m.,p.m.)> (hora terrestre).
+TEXT_LUCKYB815_03965_SYSTEM_000_028	Para más detalles, vuelve a hablar con el faux commander. ¡Que tu imaginación te lleve más allá de las hazañas mortales!

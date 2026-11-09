@@ -1,0 +1,115 @@
+key	text
+TEXT_CLSWDK700_02445_SEQ_00	Cemi intenta desesperadamente llamar tu atención.
+TEXT_CLSWDK700_02445_SEQ_01	Cemi te informa que te necesitan de vuelta en el Carpenters' Guild, porque Timbermaster Beatin tiene un cliente que quiere que conozcas.
+TEXT_CLSWDK700_02445_SEQ_02	El cliente que te espera es nada menos que Gairhard. Explica que, desde la heroica victoria de su unidad sobre las fuerzas ixal, llegan reclutas en masa, y el último grupo es una mezcla de alamhiganos y gridanianos que se detestaron de inmediato. Para fomentar la armonía, Gairhard organizó una reunión de té, pero las cosas salieron terriblemente mal. Ahora la tensión está al límite, y vino al Carpenters' Guild con la esperanza de que tengas una solución. Beatin sugiere que Cemi y tú empiecen por hablar con los nuevos reclutas en el Adders' Nest para ver qué pueden hacer para disipar los malos sentimientos entre ellos.
+TEXT_CLSWDK700_02445_SEQ_03	Un recluta gridaniano te cuenta que un compañero alamhigano sirvió el té de su patria en lo que debía ser un ambiente neutral. Agraviados por lo que consideraron una flagrante falta de respeto a su cultura, los gridanianos están lejos de querer perdonar a los alamhiganos, y mucho menos de hacerse sus amigos. Ya escuchaste una parte de la historia; sería prudente escuchar la otra.
+TEXT_CLSWDK700_02445_SEQ_04	Los alamhiganos vieron en servirles su té a los gridanianos una forma de compartir su cultura. Pero en lugar de recibir el té con cortesía, los gridanianos lo miraron por encima del hombro. Indignados porque despreciaron su buena voluntad, los alamhiganos ahora se niegan a relacionarse con nadie más que con los suyos. Escuchadas ambas partes, puedes volver con Timbermaster Beatin con las ideas que tengas para restaurar las relaciones entre los dos bandos.
+TEXT_CLSWDK700_02445_SEQ_05	Timbermaster Beatin cree que tu idea de organizar una reunión de té al estilo del Lejano Oriente tiene mérito, porque dará a los reclutas el ambiente necesario para resolver sus diferencias. Sin embargo, para que se pueda celebrar, primero hay que fabricar ciertos muebles al estilo de Kugane. Como una de las dos personas que vivieron de primera mano las maravillas de las casas de té del Lejano Oriente, te toca fabricarlos. Haz un teahouse bench de alta calidad y preséntaselo a Gairhard.<br><br>※Si pierdes los materiales o la síntesis falla, puedes intentarlo de nuevo hablando con Beatin.
+TEXT_CLSWDK700_02445_SEQ_06	Le presentas tu teahouse bench a Gairhard, que no sabe qué está viendo, y Beatin interviene para explicar sus virtudes. Luego Cemi presenta su propio trabajo y, para sorpresa de todos, resulta ser un banco idéntico al tuyo. Mientras Gairhard reúne a sus hombres para otra reunión de té, Beatin les indica a Cemi y a ti que lleven los bancos a Apkallu Falls y los dispongan de manera que reproduzcan las casas de té de Kugane.
+TEXT_CLSWDK700_02445_SEQ_07	El segundo intento de Gairhard de unir a sus nuevos reclutas con una reunión de té es un éxito rotundo. Los novatos alamhiganos y gridanianos se hacen amigos ante los exquisitos muebles y la comida del Lejano Oriente, y pronto la charla animada y las risas alegres resuenan en los rincones de Apkallu Falls. Cumplida tu misión, puedes volver con Beatin y Cemi al Carpenters' Guild con el corazón tranquilo.
+TEXT_CLSWDK700_02445_SEQ_08	Timbermaster Beatin les dedica a Cemi y a ti sus elogios sin reservas. En particular, señala que Cemi empezó a pensar más como tú, <if(gnum4,una maestra,un maestro)> en su arte. Aunque a sus muebles todavía les falta calidad, destaca que lo más importante es la satisfacción del cliente, y la anima a seguir dedicándose a su oficio. Inspirada por sus palabras, Cemi sale corriendo a entrenar. Por último, Beatin te agradece toda tu ayuda, y espera que sigas usando tu talento, don de los dioses, para ayudar a todos los que lo necesiten.
+TEXT_CLSWDK700_02445_TODO_00	Habla con Beatin.
+TEXT_CLSWDK700_02445_TODO_01	Habla con el soldado gridaniano.
+TEXT_CLSWDK700_02445_TODO_02	Habla con el soldado alamhigano.
+TEXT_CLSWDK700_02445_TODO_03	Habla con Beatin.
+TEXT_CLSWDK700_02445_TODO_04	<if([lnum1<lnum2],Sintetiza un teahouse bench <sheet(Addon,9,0)>,Entrégale el teahouse bench <sheet(Addon,9,0)> a Gairhard)>.
+TEXT_CLSWDK700_02445_TODO_05	Habla con Gairhard en Apkallu Falls.
+TEXT_CLSWDK700_02445_TODO_06	Habla con Beatin.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_001	¡<split(<string(gstr1)>, ,1)>, ahí está! Ya me preguntaba cuándo iba a aparecer.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_002	Timbermaster Beatin dice que tiene unos clientes que quiere presentarnos.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_003	Bueno, no se quede ahí parad<if(gnum4,a,o)>. ¡Vamos!
+TEXT_CLSWDK700_02445_BEATINE_000_010	Ya está aquí. Bien. Gairhard, recordarás a <split(<string(gstr1)>, ,1)>.
+TEXT_CLSWDK700_02445_GAIRHARD_000_011	¿Recordar? ¡Ja! ¡Difícilmente podría olvidar! No es exagerado decir que le debo la vida a <if(gnum4,esta mujer,este hombre)>.
+TEXT_CLSWDK700_02445_GAIRHARD_000_012	De hecho, la razón por la que estoy aquí tiene que ver con aquella vez que <split(<string(gstr1)>, ,1)> nos salvó. Con el arco que trajo, pude expulsar a las fuerzas ixal que nos amenazaban. Esa victoria reforzó la reputación de nuestra unidad, y desde entonces recibimos nuevos reclutas por docenas.
+TEXT_CLSWDK700_02445_GAIRHARD_000_013	En el último grupo llegó una mezcla de alamhiganos y gridanianos entusiastas. Si todavía no ves el problema, permíteme explicarlo. Siempre ha habido ciertas... tensiones raciales entre los refugiados y los locales.
+TEXT_CLSWDK700_02445_GAIRHARD_000_014	Pensé que una reunión de té podría aliviar el malestar entre ellos. Me equivoqué. Ahora parecen detestarse aún más.
+TEXT_CLSWDK700_02445_BEATINE_000_015	Ahí lo tienen. Sugiero empezar por hablar con los reclutas de Gairhard para ver qué salió mal exactamente. Si podemos identificar la causa de su disputa, será mucho más fácil resolver el problema.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_016	¡Sí, señor! Puede contar conmigo.
+TEXT_CLSWDK700_02445_BEATINE_000_017	<split(<string(gstr1)>, ,1)>, ¿le molestaría acompañar a Cemi?
+TEXT_CLSWDK700_02445_BEATINE_000_018	Tenga en cuenta que este es un pedido oficial. No estaría bien enviar a alguien que todavía no terminó su formación básica a cumplir esta tarea sola.
+TEXT_CLSWDK700_02445_GAIRHARD_000_019	Entonces serán ustedes dos, ¿no? Bien. Imagino que la mayoría de mis nuevos reclutas estarán en el Adders' Nest o por ahí cerca. No deberían tener problemas para encontrarlos.
+TEXT_CLSWDK700_02445_BEATINE_000_020	Cuando terminen, asegúrense de informarme.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_021	Sí, señor.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_025	Haré todo lo que esté en mi poder para que nuestro nuevo cliente quede completamente satisfecho.
+TEXT_CLSWDK700_02445_GAIRHARD_000_030	Tienes un don para aparecer en el lugar correcto en el momento correcto.
+TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_040	Si viene a hablar con el capitán, él está- ¿Viene a hablar <italic(1)>conmigo<italic(0)>?
+TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_041	¿Por qué no nos caen bien <italic(1)>ellos<italic(0)>? Bueno, es obvio, ¿no?
+TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_042	Cada vez que intentamos acercarnos, ¿cómo nos pagan? Con hostilidad. Fíjese en la reunión de té que el Capitán Gairhard organizó para nosotros. Fuimos con la esperanza de empezar de cero.
+TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_043	Ellos, en cambio, claramente fueron por razones totalmente distintas, porque en cuanto nos sentamos, ¡nos sirvieron té alamhigano!
+TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_044	¡Parece que pasaron de negarse a aceptar nuestra cultura a despreciarla abiertamente!
+TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_100_044	\<suspiro> Discúlpeme, pero quisiera dejarlo ahí, antes de que me gane la ira. Si desea saber más, quizá debería hablar con alguno de los reclutas alamhiganos.
+TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_045	¿Qué miras? ¿Necesitas algo? Si no, te sugiero que sigas tu camino.
+TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_046	Esas preguntas se parecen mucho a las que nos hizo ayer el Capitán Gairhard. ¿Él te metió en esto?
+TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_047	Todos los días los alamhiganos sangramos, peleamos y morimos para proteger este país, y aun así los gridanianos nos miran con el mismo recelo y resentimiento que a los beastmen.
+TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_048	Aun así, decidimos que la reunión de té que organizó el Capitán Gairhard era una buena oportunidad para encontrar puntos en común y dejar de lado algunas diferencias.
+TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_049	Pensamos que servir té alamhigano sería una buena forma de romper el hielo. ¡Pero no! ¡Nuestro amable gesto solo recibió miradas de desdén!
+TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_050	Bueno, ya no vamos a dejar que los gridanianos nos hagan sentir que no valemos nada. ¡De ahora en adelante, no queremos saber nada de ellos!
+TEXT_CLSWDK700_02445_GAIRHARD_000_055	Parece que conseguiste toda una nueva recluta, Beatin.
+TEXT_CLSWDK700_02445_BEATINE_000_060	Los celos no te sientan bien, amigo mío.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_065	Mi nuevo lema es: "Vivir, amar y fabricar para cubrir las necesidades de los demás". Ahora nunca olvidaré las lecciones que aprendí en el Lejano Oriente.
+TEXT_CLSWDK700_02445_BEATINE_000_070	Veo que habló con algunos de los nuevos reclutas de Gairhard. ¿Tiene alguna idea de cómo podríamos poner fin a su disputa?
+TEXT_CLSWDK700_02445_Q1_000_000	¿Qué vas a decir?
+TEXT_CLSWDK700_02445_A1_000_001	Un muñeco de entrenamiento debería bastar.
+TEXT_CLSWDK700_02445_A1_000_002	Una reunión de té al estilo del Lejano Oriente debería acabar con las peleas.
+TEXT_CLSWDK700_02445_A1_000_003	Un juego de muebles igual para todos debería unirlos.
+TEXT_CLSWDK700_02445_BEATINE_000_071	¿Un muñeco de entrenamiento? Aunque permitiría a los reclutas desahogar su ira, no resuelve la raíz del problema.
+TEXT_CLSWDK700_02445_BEATINE_000_072	¿Una reunión de té al estilo del Lejano Oriente? Podría funcionar. Nadie sentiría que lo menosprecian, y ese ambiente tan interesante hasta podría darles tema de conversación.
+TEXT_CLSWDK700_02445_BEATINE_000_073	Recuerda los teahouse benches de Kugane, ¿no? Muy bien. Le sugiero que fabrique uno.
+TEXT_CLSWDK700_02445_BEATINE_000_074	¿Le alegraría saber que tiene el mismo juego de muebles que alguien a quien detesta? ¡Claro que no! De hecho, hasta podría tomar un hacha contra ellos.
+TEXT_CLSWDK700_02445_GAIRHARD_000_075	El éxito solo es posible si todos los miembros del escuadrón confían plenamente unos en otros.
+TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_080	No es que quisiéramos pelear. ¡Estamos del mismo lado, por todos los dioses! Por desgracia, ellos no parecen darse cuenta.
+TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_085	Los gridanianos nos acogieron cuando perdimos nuestro hogar a manos de los imperiales, y tomamos la espada y la lanza para mostrar nuestro agradecimiento. Nunca quisimos que las cosas llegaran a este punto, pero ya no está en nuestras manos.
+TEXT_CLSWDK700_02445_GAIRHARD_000_090	¿Qué es esto? Nunca había visto nada igual...
+TEXT_CLSWDK700_02445_BEATINE_000_091	Estás viendo un teahouse bench, de una calidad y una factura idénticas a los que fabrican los maestros carpinteros del Lejano Oriente.
+TEXT_CLSWDK700_02445_BEATINE_000_092	Ahora, Cemi, ¿qué hizo usted para nosotros?
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_093	¡Permítanme presentarles esto!
+TEXT_CLSWDK700_02445_BEATINE_000_094	Esto... Esto es exactamente lo mismo que fabricó <split(<string(gstr1)>, ,1)>. ¿Qué la llevó a decidirse por un teahouse bench?
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_095	Después de hablar con los novatos, deduje que ambas partes fueron a la reunión de té con la esperanza de resolver sus diferencias. ¡Creo que, en el ambiente adecuado, todavía pueden hacerlo!
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_096	¡Así que pensé en organizar una reunión de té al estilo del Lejano Oriente! No solo les daría un ambiente relajado, también una oportunidad de acercarse a través de una cultura distinta a la suya.
+TEXT_CLSWDK700_02445_BEATINE_000_097	Que haya empezado a tomar en cuenta las necesidades de los clientes y, con ello, haya llegado a la misma conclusión que <split(<string(gstr1)>, ,1)> demuestra que maduró como carpenter. Bien hecho.
+TEXT_CLSWDK700_02445_BEATINE_000_098	Ahora es hora de poner a prueba sus bancos. Quisiera que los llevaran a Apkallu Falls y los colocaran allí.
+TEXT_CLSWDK700_02445_BEATINE_000_099	Gairhard, reúne allí a tus subordinados, a <split(<string(gstr1)>, ,1)> y a Cemi. Me uniré a todos ustedes en breve.
+TEXT_CLSWDK700_02445_GAIRHARD_000_100	Muy bien.
+TEXT_CLSWDK700_02445_BEATINE_000_101	Si por algún motivo se queda sin materiales, no deje de avisarme.
+TEXT_CLSWDK700_02445_BEATINE_000_102	Gairhard debería quedar muy satisfecho con esto. Pero no pienso hablar en su nombre. Por favor, preséntele su banco para que lo apruebe.
+TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_115	¿Otra reunión de té? No puede pensar que es buena idea después de la última.
+TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_120	¿En qué está pensando el capitán, organizando otra reunión de té?
+TEXT_CLSWDK700_02445_BEATINE_000_105	Por favor, vaya con Cemi a Apkallu Falls. Allí nos veremos.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_110	Vamos a organizar una reunión de té, <split(<string(gstr1)>, ,1)>. ¡Je, je! ¿No es emocionante?
+TEXT_CLSWDK700_02445_GAIRHARD_000_130	Bienvenidos todos.
+TEXT_CLSWDK700_02445_GAIRHARD_000_131	Sé que nuestra última reunión de té no fue precisamente un éxito rotundo, y agradezco que la mayoría estuviera dispuesta a darle una segunda oportunidad a la idea.
+TEXT_CLSWDK700_02445_GAIRHARD_000_132	Parece que algunos sintieron que en nuestra última reunión se le faltó el respeto a ciertas culturas. Por eso, les pido disculpas.
+TEXT_CLSWDK700_02445_GAIRHARD_000_133	Sin importar de dónde vengan, valoro y respeto a cada uno de ustedes. Como deberían hacerlo entre ustedes, porque somos hermanos y hermanas de armas; una familia, si lo prefieren.
+TEXT_CLSWDK700_02445_GAIRHARD_000_134	Espero que esta reunión, que los artesanos del Carpenters' Guild me ayudaron a organizar, les permita darse cuenta. Y ahora, a la parte divertida...
+TEXT_CLSWDK700_02445_GAIRHARD_000_135	¿Qué les parece a todos? Ante ustedes tienen una réplica exacta de una casa de té de Kugane.
+TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_136	¿Kugane? ¿La ciudad portuaria del Lejano Oriente? Bueno, supongo que estos adornos tienen cierto encanto exótico...
+TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_137	Una reunión de té al estilo de Kugane, ¿eh? Todo se ve tan elegante. Estos muebles son casi tan hermosos como los de aquí, de Gridania.
+TEXT_CLSWDK700_02445_BEATINE_000_138	La carpintería es cultura, y la cultura está siempre presente en nuestras vidas. Se puede aprender mucho de un pueblo con solo mirar sus muebles.
+TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_139	Sentarme en estos bancos me hizo ver que hay muchas cosas magníficas en este vasto mundo. \<suspiro> Por mi estrechez de miras casi me las pierdo.
+TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_140	Debimos tomarnos el tiempo de saber más de ustedes y de su lugar de origen. Comemos juntos, peleamos juntos y, aun así, por nuestra renuencia a hablar con ustedes, no sabemos casi nada de ustedes. Por eso, lo sentimos.
+TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_141	No, somos nosotros quienes debemos disculparnos. Aunque muchos consideramos a Gridania un segundo hogar, hay mucho de su cultura que todavía no entendemos del todo...
+TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_142	Jajajaja...
+TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_143	Jajajaja...
+TEXT_CLSWDK700_02445_GAIRHARD_000_144	Levantemos nuestras tazas y brindemos por el comienzo de una nueva y hermosa amistad.
+TEXT_CLSWDK700_02445_GAIRHARD_000_145	¿Lo han pasado bien?
+TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_146	¡Sí! Hacía mucho que no hablaba tanto ni me reía tanto. Pensé que no teníamos absolutamente nada en común, pero me equivoqué.
+TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_147	Así es. ¡Cuanto más hablamos, más me doy cuenta de lo parecidos que somos! Me alegra que por fin hayamos encontrado la forma de dejar de lado nuestras diferencias.
+TEXT_CLSWDK700_02445_GAIRHARD_000_148	Bien. Recuerden: en el campo de batalla no importa de dónde vienen ni dónde se criaron, solo que sobrevivan. Y para eso tendrán que confiar unos en otros. Nunca lo olviden.
+TEXT_CLSWDK700_02445_BEATINE_000_150	Bien hecho, ustedes dos. Aunque ya espero que <split(<string(gstr1)>, ,1)> cubra las necesidades de los clientes con gran delicadeza, usted me sorprendió, Cemi. Que haya tenido la misma idea que <if(gnum4,una de las mejores artesanas,uno de los mejores artesanos)> de nuestro gremio demuestra que está un paso más cerca de ser una carpenter hecha y derecha.
+TEXT_CLSWDK700_02445_BEATINE_000_151	Sin embargo, no confundan esto con que los objetos que fabricaron sean de calidad comparable. Hasta para un ojo inexperto, uno es muy superior al otro.
+TEXT_CLSWDK700_02445_BEATINE_000_152	La calidad, sin embargo, no lo es todo. Su cliente se fue completamente satisfecho, y eso es un logro enorme.
+TEXT_CLSWDK700_02445_BEATINE_000_153	Cemi, si sigue trabajando duro, quizá algún día llegue a ser tan buena como <if(gnum4,esta talentosa mujer,este talentoso hombre)> a su lado.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_154	Gracias, señor. Recordaré este momento y seguiré puliendo mis habilidades para que algún día rivalicen con las de <split(<string(gstr1)>, ,1)>.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_155	¡Gah! Casi se me olvida. Si me permite el atrevimiento, señor, ¿qué va a ser de nuestro gremio? ¿Saldremos pronto de las deudas?
+TEXT_CLSWDK700_02445_BEATINE_000_156	...¿Cómo dice? ¿Qué deudas?
+TEXT_CLSWDK700_02445_BEATINE_000_157	Mientras sigamos recibiendo encargos de la Order of the Twin Adder, no nos faltará capital.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_158	Pero, señor, si no era por el gil, ¿por qué se estaba matando trabajando? ¡Ni siquiera paraba para comer!
+TEXT_CLSWDK700_02445_BEATINE_000_159	Ah, sí... Por un tiempo me venció una necesidad desesperada de reconectar con la madera. Para lograrlo, empecé a vivir como lo haría un árbol: solo con luz de sol y agua.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_160	\<suspiro> De verdad tengo que dejar de sacar conclusiones apresuradas...
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_161	Ah, y <split(<string(gstr1)>, ,1)>, permítame agradecerle una vez más.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_162	Aunque fue una confusión mía la que nos llevó al Lejano Oriente, no podría estar más contenta con el resultado. Le estaré eternamente agradecida por acompañarme en este viaje y por todo lo que me enseñó.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_163	Aunque esta aventura haya terminado, no me cabe duda de que pronto emprenderemos otra.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_164	¡Hasta entonces, seguiré practicando, practicando y practicando un poco más! ¡La próxima vez que me vea, quizá ya sea casi tan buena como usted! ¡Ja, ja!
+TEXT_CLSWDK700_02445_BEATINE_000_165	<split(<string(gstr1)>, ,1)>, su capacidad de inspirar a la gente nunca deja de asombrarme. En buena parte es gracias a usted que Cemi haya crecido tanto.
+TEXT_CLSWDK700_02445_BEATINE_000_166	Su talento y el amor que siente por su oficio son raros incluso entre la élite. Espero que siga usando ambos para servir a hombres y mujeres de toda Eorzea.
+TEXT_CLSWDK700_02445_CEMIJINJAHL_000_170	¡Qué alivio que la reunión haya salido tan bien! Aunque el té estaba un poquito demasiado caliente para mi gusto, los pasteles estaban tan deliciosos.

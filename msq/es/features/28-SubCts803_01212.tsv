@@ -1,0 +1,36 @@
+key	text
+TEXT_SUBCTS803_01212_SEQ_00	Margeria tiene información que puede interesarles a los aventureros adinerados.
+TEXT_SUBCTS803_01212_SEQ_01	Dicen por ahí que van a subastar terrenos en the Lavender Beds, y que hasta los extranjeros podrán comprarlos. Si quieres saber más, Margeria te aconseja buscar a un representante de los Twin Adder en Mirror Planks, en Central Shroud, donde está el ferry a the Lavender Beds.
+TEXT_SUBCTS803_01212_SEQ_02	Emblyn te explica que solo los aventureros podrán establecerse en the Lavender Beds, como parte de una iniciativa para fomentar la inmigración a Gridania. Aunque construir y mantener una propiedad requiere muchos fondos, te asegura que vale la pena, y te anima a visitar the Beds para ver los terrenos con tus propios ojos.
+TEXT_SUBCTS803_01212_SEQ_03	Tal como te prometieron, the Lavender Beds superan todas las expectativas. Para saber más sobre la zona residencial, habla con el recluta de los Twin Adder apostado en el muelle.
+TEXT_SUBCTS803_01212_SEQ_04	Por desgracia, el recluta confirma que los ciudadanos de Gridania no pueden comprar terrenos en the Lavender Beds. Sin duda muchos aventureros acudirán a la región, y muchos gridanianos como Margeria los envidiarán profundamente. Quizá lo mejor sea que seas tú quien le dé la mala noticia.
+TEXT_SUBCTS803_01212_SEQ_05	Como es comprensible, a Margeria le decepciona no poder participar en las subastas, aunque sabe que en estos tiempos difíciles Gridania debe contar con los aventureros más que nunca. Si compartes su sueño de tener casa propia, te conviene hablar con el encargado residencial de the Lavender Beds para saber más.
+TEXT_SUBCTS803_01212_TODO_00	Habla con Emblyn.
+TEXT_SUBCTS803_01212_TODO_01	Ve a the Lavender Beds.
+TEXT_SUBCTS803_01212_TODO_02	Habla con el recluta de los Twin Adder.
+TEXT_SUBCTS803_01212_TODO_03	Informa a Margeria.
+TEXT_SUBCTS803_01212_MARGERIA_000_000	Corrígeme si me equivoco, pero ¿no eres <if(gnum4,aventurera,aventurero)>? Te he visto correr de aquí para allá, con esa cara de firme determinación que suelen tener los aventureros, y por eso lo supuse. Si es así, tengo información que puede interesarte.
+TEXT_SUBCTS803_01212_MARGERIA_000_001	Dicen por ahí que van a subastar terrenos en the Lavender Beds.
+TEXT_SUBCTS803_01212_MARGERIA_000_002	Y lo que es más, ¡los postores ni siquiera tienen que ser de Gridania! Cualquier aventurero o trovador errante podría, con fondos suficientes, comprar terreno y construir su propia casa.
+TEXT_SUBCTS803_01212_MARGERIA_000_003	Considerando lo exigentes que suelen ser los elementales con quién puede vivir en el Twelveswood, resulta bastante sorprendente, por no decir increíble.
+TEXT_SUBCTS803_01212_MARGERIA_000_004	Pero si hay algo de cierto en esos rumores, bueno... ¿Quién no ha soñado con tener su propia cabaña en el bosque, quizá con un pequeño huerto y un establo lo bastante grande para un chocobo o dos...?
+TEXT_SUBCTS803_01212_MARGERIA_000_005	¿Sabes? Si tus viajes te llevan a Mirror Planks, donde está el ferry a the Lavender Beds, quizá encuentres a un representante de los Twin Adder que pueda decirte más. Me sorprendería que no estuvieran involucrados en un cambio de política tan enorme.
+TEXT_SUBCTS803_01212_EMBLYN_000_010	Buen <if([gnum11<12],<if([gnum11<4],anochecer,día)>,<if([gnum11<17],día,anochecer)>)> tenga usted, <if(gnum4,señorita,señor)>. ¿En qué puedo- Ah, desea saber de las subastas. Muy bien, permítame explicarle.
+TEXT_SUBCTS803_01212_EMBLYN_000_011	Crece la preocupación de que nuestras políticas de inmigración hayan sido un tanto...restrictivas en el pasado.
+TEXT_SUBCTS803_01212_EMBLYN_000_012	Por ello, el Seedseer Council y la Order of the Twin Adder, con la bendición de los elementales, han decretado que the Lavender Beds se reserven para los aventureros.
+TEXT_SUBCTS803_01212_EMBLYN_000_013	Para los aventureros que tengan los fondos necesarios para comprar <italic(1)>y<italic(0)> mantener sus propiedades, claro está.
+TEXT_SUBCTS803_01212_EMBLYN_000_014	Pero si ve the Beds con sus propios ojos, creo que coincidirá en que vale la pena el precio.
+TEXT_SUBCTS803_01212_EMBLYN_000_015	Hable con la patrona de allá - ella le llevará al otro lado.
+TEXT_SUBCTS803_01212_EMBLYN_000_016	Cuando llegue, un recluta apostado en el muelle podrá contarle más sobre the Beds.
+TEXT_SUBCTS803_01212_SYSTEM_000_019	Para avanzar en la misión "Where the Heart Is (The Lavender Beds)", puedes visitar cualquier distrito residencial de the Lavender Beds.
+TEXT_SUBCTS803_01212_EMBLYN_000_020	Ustedes los aventureros son bastante afortunados. The Lavender Beds son famosos por su exquisita belleza.
+TEXT_SUBCTS803_01212_EMBLYN_000_021	No hay palabras que le hagan justicia - tome el ferry y véalo por su cuenta.
+TEXT_SUBCTS803_01212_FHGUIDE_000_025	Saludos, <if(gnum4,aventurera,aventurero)>. Le doy la bienvenida a the Lavender Beds.
+TEXT_SUBCTS803_01212_FHGUIDE_000_026	¿Oh? ¿Viene por encargo de una gridaniana?
+TEXT_SUBCTS803_01212_FHGUIDE_000_027	Lamento informarle que estos terrenos están reservados para los aventureros. Su amiga no podrá participar en las subastas.
+TEXT_SUBCTS803_01212_FHGUIDE_000_028	En cambio, usted sería más que <if(gnum4,bienvenida,bienvenido)> a participar. Si tiene intención de comprar un terreno, le ruego que hable con el encargado residencial. Él puede guiarle en el proceso.
+TEXT_SUBCTS803_01212_FHGUIDE_000_029	Quizá sea prudente hablar con el encargado residencial antes de participar en las subastas. Él puede contarle mucho más que yo sobre el proceso.
+TEXT_SUBCTS803_01212_MARGERIA_000_030	Qué bueno verte de nuevo, <if(gnum4,amiga,amigo)>. ¿Averiguaste algo sobre the Lavender Beds?
+TEXT_SUBCTS803_01212_MARGERIA_000_031	Ah, ¿solo aventureros? Conque es así... Bueno, son tiempos difíciles, y más que nunca es importante que Gridania atraiga a gente capaz como tú.
+TEXT_SUBCTS803_01212_MARGERIA_000_032	Seguro que algún día mis sueños se harán realidad. Algún día tendré mi propia cabaña y mi establo, llenos de mis queridos chocobos...
+TEXT_SUBCTS803_01212_SYSTEM_000_050	Se puede acceder al Aethernet del distrito residencial de the Lavender Beds desde el aetheryte de Gridania.

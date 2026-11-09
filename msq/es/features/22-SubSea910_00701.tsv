@@ -1,0 +1,31 @@
+key	text
+TEXT_SUBSEA910_00701_SEQ_00	R'ashaht Rhiki te sugiere que averigües cómo conseguir un chocobo personal.
+TEXT_SUBSEA910_00701_SEQ_01	Para obtener tu chocobo personal, debes presentarle a Fraegeim una Storm Chocobo Issuance. Este documento se obtiene canjeando company seals con el intendente del Maelstrom. Esperemos que hayas guardado tus seals...
+TEXT_SUBSEA910_00701_SEQ_02	Fraegeim te trae tu ave, y es amor a primera vista. Ponle nombre a tu nuevo compañero y hazlo oficial.
+TEXT_SUBSEA910_00701_SEQ_03	Tras mucho deliberar, te decides por un nombre digno del corcel más noble. Avísale a Fraegeim para completar las últimas formalidades.
+TEXT_SUBSEA910_00701_SEQ_04	Y así empiezan las aventuras de <string(gstr1)> y <string(gstr55)>. ¡Que su amistad dure para siempre!
+TEXT_SUBSEA910_00701_TODO_00	Preséntale una Storm Chocobo Issuance a Fraegeim.
+TEXT_SUBSEA910_00701_TODO_01	Ponle nombre a tu chocobo.
+TEXT_SUBSEA910_00701_TODO_02	Habla con Fraegeim.
+TEXT_SUBSEA910_00701_Rashaht_000	¡Pero si es <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>! Debo decir que los relatos de sus hazañas han sido una inspiración para las tropas.
+TEXT_SUBSEA910_00701_Rashaht_001	Nuestras obligaciones nos llevan lejos, y apuesto a que se ha recorrido bastantes malms de campo con nada más que sus dos pies.
+TEXT_SUBSEA910_00701_Rashaht_002	<if(gnum4,Una soldado tan ejemplar,Un soldado tan ejemplar)> del Maelstrom merece su propia montura. Veamos cómo conseguirle una.
+TEXT_SUBSEA910_00701_Rashaht_003	Solo tiene que conseguir una Storm Chocobo Issuance canjeando company seals con el intendente. Cuando tenga ese documento, preséntesela a Fraegeim, y ella le asignará una de nuestras aves de confianza.
+TEXT_SUBSEA910_00701_Rashaht_010	Para que le asignen un chocobo personal, primero debe conseguir una Storm Chocobo Issuance canjeando company seals con el intendente. Cuando tenga ese documento, preséntesela a Fraegeim, y ella le asignará una de nuestras aves de confianza.
+TEXT_SUBSEA910_00701_Fraegeim_000	¿Quiere que le asignen un ave, dice? Entonces tendré que ver su Storm Chocobo Issuance.
+TEXT_SUBSEA910_00701_Fraegeim_010	Sí, todo parece en orden.
+TEXT_SUBSEA910_00701_Fraegeim_011	Un momento, por favor. Enseguida vuelvo con su chocobo.
+TEXT_SUBSEA910_00701_Fraegeim_012	¡Y aquí está! El muchacho ha estado de muy buen humor estas últimas horas. ¡Debe de haber presentido que venía su <if(gnum4,dueña,dueño)>!
+TEXT_SUBSEA910_00701_Fraegeim_013	Ahora bien, para hacerlo oficial, querrá ponerle nombre a su noble corcel.
+TEXT_SUBSEA910_00701_Fraegeim_020	¿Quiere que le asignen un ave, dice? Entonces tendré que ver su Storm Chocobo Issuance. Puede conseguirla con el intendente del Maelstrom, en el Maelstrom Command.
+TEXT_SUBSEA910_00701_Fraegeim_021	Por supuesto, tendrá que canjear Storm Seals por ella. Las gana haciendo tareas para el Maelstrom, la Grand Company de Limsa Lominsa.
+TEXT_SUBSEA910_00701_CHOCOBO_000	¡Kweh!
+TEXT_SUBSEA910_00701_Fraegeim_030	Ahora bien, para hacerlo oficial, querrá ponerle nombre a su noble corcel.
+TEXT_SUBSEA910_00701_Fraegeim_040	¡Je, je! ¡Me atrevería a decir que le gusta su nombre!
+TEXT_SUBSEA910_00701_Fraegeim_041	Aquí tiene su propio silbato de chocobo. Solo tiene que soplarlo y su amigo emplumado acudirá corriendo a su lado.
+TEXT_SUBSEA910_00701_Fraegeim_042	Pero discúlpelo si no responde cuando lo llame en zonas concurridas de la ciudad o en guaridas infestadas de monstruos. Los chocobos son criaturas valientes, pero tienen sus límites.
+TEXT_SUBSEA910_00701_Fraegeim_043	Y por último, le entrego su licencia de jinete de chocobo, como exige la ley.
+TEXT_SUBSEA910_00701_Fraegeim_044	¡Y con eso concluyen las formalidades! ¡Les deseo a usted y a su chocobo largos años de grata compañía!
+TEXT_SUBSEA910_00701_CHOCOBO_PROMPT_TITLE	Ponle nombre a tu chocobo
+TEXT_SUBSEA910_00701_CHOCOBO_PROMPT_CAPTION	Nombre
+TEXT_SUBSEA910_00701_CHOCOBO_PROMPT_MES0	El nombre debe tener entre 2 y 20 caracteres alfabéticos.

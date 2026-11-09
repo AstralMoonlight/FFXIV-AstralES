@@ -1,0 +1,75 @@
+key	text
+TEXT_LUCKYW311_03981_SEQ_00	Las tropas de la Resistance desean ayudar a sus nuevos aliados de Terncliff.
+TEXT_LUCKYW311_03981_SEQ_01	Tras la liberación de Terncliff, la Resistance envía suministros y apoyo a los habitantes para que el pueblo pueda valerse por sí mismo ahora que el Empire se fue. Pero como hay más problemas que gente para resolverlos, te piden ayuda para aligerar su carga, aunque sea un poco.
+TEXT_LUCKYW311_03981_SEQ_02	Al llegar a Terncliff, pronto queda claro que tanto los soldados de la Resistance como los miembros de los Ironworks hacen todo lo posible por ayudar a la población. Decides hablar con los lugareños, con la esperanza de que tu presencia les sirva de algo.
+TEXT_LUCKYW311_03981_SEQ_03	Una joven bastante desconsolada llamada Avilina te cuenta sus días como recluta, obligada a servir al Empire como ingeniera magitek durante la ocupación de Terncliff. Muchas personas de su edad fueron alistadas y enviadas a la guerra, y nunca volvieron, y ella desea recordarlas con un monumento que lleve sus nombres. Cree que en el hangar imperial bajo el pueblo se encuentra una lista completa de los soldados reclutados, pero necesita que convenzas a los miembros de los Ironworks de que la dejen entrar.
+TEXT_LUCKYW311_03981_SEQ_04	Tu fama entre los ingenieros de los Ironworks abre muchas puertas, incluida la del hangar. Avilina logra encontrar la lista que necesitaba para completar su monumento, pero un nombre en particular le llama la atención: Milisandia, a quien conoces como la piloto del Ruby Weapon. Te enteras entonces de que Avilina y Milisandia eran amigas íntimas y sirvieron juntas en la XIVth Legion hasta que el destino las separó. Guiada por tus palabras de aliento, Avilina decide usar lo que aprendió como ingeniera magitek para ayudar a los Ironworks a prepararse para la lucha contra el Empire. Y aunque sin duda estará muy ocupada en los días por venir, sigue decidida a construir un monumento a los caídos de Terncliff.
+TEXT_LUCKYW311_03981_SEQ_05	Regresas al campamento en Gyr Abania, donde el oficial al mando te agradece tus esfuerzos. Aunque quizá pase un tiempo antes de que Terncliff recupere la paz y la tranquilidad de sus mejores días, te reconfortan los lazos que los habitantes del pueblo formaron con tus aliados de la Resistance.
+TEXT_LUCKYW311_03981_TODO_00	Habla con el escolta de la Resistance.
+TEXT_LUCKYW311_03981_TODO_01	Busca a la civil desconsolada.
+TEXT_LUCKYW311_03981_TODO_02	Habla con el ingeniero corpulento.
+TEXT_LUCKYW311_03981_TODO_03	Habla con el oficial de la Resistance en Porta Praetoria.
+TEXT_LUCKYW311_03981_RESISTANCEOFFICER_000_001	Ah, <split(<string(gstr1)>, ,1)>. Esperaba poder hablar con usted.
+TEXT_LUCKYW311_03981_RESISTANCEOFFICER_000_002	Desde que se liberó Terncliff, enviamos tropas para ayudar a que el pueblo se recupere. Apoyar a los habitantes, esa clase de cosas.
+TEXT_LUCKYW311_03981_RESISTANCEOFFICER_000_003	Los alamhiganos sabemos lo dura que puede ser la vida para una sociedad que lucha por valerse por sí misma tras años de dominio imperial. Mucho de lo que la mayoría da por sentado hay que reconstruirlo desde cero.
+TEXT_LUCKYW311_03981_RESISTANCEOFFICER_000_004	Podemos ayudar con los recursos básicos y con la seguridad del lugar, pero hay incontables problemas más que atender. Si tiene tiempo, nos vendría bien su ayuda.
+TEXT_LUCKYW311_03981_RESISTANCEOFFICER_000_005	Bendita sea su generosidad, <split(<string(gstr1)>, ,1)>. Es realmente un alma de dios. Seguro que a la gente de Terncliff le hará bien tener cerca a alguien como usted.
+TEXT_LUCKYW311_03981_RESISTANCEOFFICER_000_006	Cuando esté list<if(gnum4,a,o)>, hable con su escolta de siempre. Le deseo lo mejor.
+TEXT_LUCKYW311_03981_CONVEYOR03783_000_010	Así que el jefe l<if(gnum4,a,o)> convenció de ayudar, ¿eh? ¡Sabía que no podría negarse!
+TEXT_LUCKYW311_03981_Q3_000_000	¿Viajar a Terncliff?
+TEXT_LUCKYW311_03981_AVILINA_000_050	Usted... Usted es quien pilotó esa warmachina y derrotó al Sapphire Weapon, ¿verdad?
+TEXT_LUCKYW311_03981_AVILINA_000_051	(-Avilina-)Lo imaginaba. He oído mucho de usted, pero dudo que sepa quién soy. Me llamo Avilina y crecí aquí. A los dieciséis años me pusieron a trabajar como ingeniera magitek.
+TEXT_LUCKYW311_03981_AVILINA_000_052	(-Avilina-)Gracias a usted y a los suyos, nos libramos de los imperiales, aunque me temo que a muchos nos costará dejar atrás el pasado.
+TEXT_LUCKYW311_03981_AVILINA_000_053	(-Avilina-)Durante décadas sufrimos bajo su yugo. Generaciones de jóvenes fueron obligadas a entrar al ejército y enviadas a morir en alguna tierra lejana.
+TEXT_LUCKYW311_03981_AVILINA_000_054	(-Avilina-)Supongo que se me podría considerar una de las pocas afortunadas. Mi trabajo aquí me mantuvo lejos del campo de batalla, y esperaba que mi aporte ayudara a los demás a vivir lo suficiente para volver a casa. Al final, la mayoría nunca regresó.
+TEXT_LUCKYW311_03981_AVILINA_000_055	(-Avilina-)Aunque mis esfuerzos fueron en vano, al menos puedo honrar su memoria. Quiero dejar algo por ellos, para demostrar que no fueron olvidados. Un monumento con sus nombres.
+TEXT_LUCKYW311_03981_AVILINA_000_056	(-Avilina-)Para que no se omita a nadie, necesitaría ver la lista oficial de reclutas. Si todavía existe, estará dentro de la instalación imperial bajo el pueblo, pero las tropas de la Resistance y los ingenieros de los Ironworks cerraron el lugar y no puedo acercarme.
+TEXT_LUCKYW311_03981_AVILINA_000_057	(-Avilina-)¿Podría hablar con ellos por mí? Me iré en cuanto encuentre la lista.
+TEXT_LUCKYW311_03981_AVILINA_000_058	(-Avilina-)Gracias. La seguiré.
+TEXT_LUCKYW311_03981_RESISTANCEOFFICER_000_060	Tras más de medio siglo de ocupación imperial, es comprensible que la reciente liberación de Terncliff les haya movido el piso, por muy bienvenido que sea el cambio.
+TEXT_LUCKYW311_03981_CONVEYOR03783_000_061	Entonces, ¿de regreso?
+TEXT_LUCKYW311_03981_Q3_000_062	¿Viajar a Terncliff?
+TEXT_LUCKYW311_03981_GSEMPLOYEE03981_000_70	Saludos, <split(<string(gstr1)>, ,1)>. Es un placer conocerl<if(gnum4,a,o)> por fin.
+TEXT_LUCKYW311_03981_GSEMPLOYEE03981_000_100	¿Puedo ayudarle en algo?
+TEXT_LUCKYW311_03981_GSEMPLOYEE03981_000_101	Ya veo... Es un poco raro que alguien del lugar se interese por lo que dejaron los imperiales, pero parece que ella tiene sus razones.
+TEXT_LUCKYW311_03981_GSEMPLOYEE03981_000_102	Como todavía estamos investigando, cerramos el lugar para que nadie interfiera. Pero tratándose de usted, difícilmente puedo negarme.
+TEXT_LUCKYW311_03981_GSEMPLOYEE03981_000_103	Aun así, mejor voy con ella, por si los demás arman un escándalo.
+TEXT_LUCKYW311_03981_AVILINA_000_104	Es muy amable.
+TEXT_LUCKYW311_03981_AVILINA_000_105	Perdón por las molestias. Se lo agradezco.
+TEXT_LUCKYW311_03981_GSEMPLOYEE03981_000_106	No hay de qué. Me alegra haber ayudado.
+TEXT_LUCKYW311_03981_AVILINA_000_107	Tal como sospechaba, los imperiales llevaban registros detallados de los reclutas del lugar. Un nombre en particular me llamó la atención...
+TEXT_LUCKYW311_03981_AVILINA_000_108	Mi amiga, Milisandia. No tenía idea de que la hubieran asignado precisamente a la VIIth Legion...
+TEXT_LUCKYW311_03981_Q1_000_000	¿Qué vas a decir?
+TEXT_LUCKYW311_03981_A1_000_001	¿De dónde la conocías?
+TEXT_LUCKYW311_03981_A1_000_002	¿Cómo que "precisamente"?
+TEXT_LUCKYW311_03981_AVILINA_000_110	Todo empezó cuando servíamos juntas en la XIVth Legion. Teníamos mucho en común, las dos reclutadas en el mismo territorio ocupado, y pronto nos hicimos grandes amigas. Hasta que un día la enviaron a pelear a Eorzea, mientras yo me quedaba aquí.
+TEXT_LUCKYW311_03981_AVILINA_000_111	El día antes de partir vino a despedirse, junto con sus hermanos adoptivos del orfanato.
+TEXT_LUCKYW311_03981_AVILINA_000_112	El menor, Ricon, estaba especialmente molesto porque no le permitieron hablar con su padre adoptivo, Gaius van Baelsar, antes de irse.
+TEXT_LUCKYW311_03981_AVILINA_000_113	De hecho, fue otra de sus huérfanas, Livia sas Junius, quien les prohibió verlo. No puedo asegurarlo, pero parecía que Livia sentía un fuerte apego por Gaius y no dejaba que nadie se le acercara.
+TEXT_LUCKYW311_03981_AVILINA_100_113	Por lo que pude ver, él hacía lo posible por mantener a Livia a distancia siempre que podía. Pero la devoción de ella rayaba en la obsesión, y se ponía terriblemente celosa ante la menor muestra de afecto entre él y sus otros pupilos.
+TEXT_LUCKYW311_03981_AVILINA_000_114	Otros, sin embargo, los trataban con mucha más amabilidad. De hecho, un praefectus castrorum de la XIVth Legion vino especialmente a recibirlos.
+TEXT_LUCKYW311_03981_AVILINA_000_115	Me sorprendió que un Roegadyn hubiera llegado a tal rango, pero me impresionó aún más la franqueza con la que hablaba con sus subordinados. Tenía la esperanza de que, con gente como él en el frente eorzeano, estarían en buenas manos.
+TEXT_LUCKYW311_03981_AVILINA_000_116	Entonces llegó la hora de que Milisandia se fuera. Compartimos unas últimas palabras, y se marchó. Fue la última vez que la vi...
+TEXT_LUCKYW311_03981_AVILINA_000_117	Después me asignaron al tribunus laticlavius de la XIVth, Nero tol Scaeva, y trabajé en la restauración del Ultima Weapon. Hasta estuve en el Praetorium el día en que lo destruyeron, pero escapé a bordo de una nave imperial momentos antes de que se derrumbara.
+TEXT_LUCKYW311_03981_AVILINA_000_118	Al final volví a Werlyt, solo para que me reclutaran en la VIIth Legion y siguiera trabajando en el proyecto Weapon.
+TEXT_LUCKYW311_03981_AVILINA_000_119	...Aun ahora, se me revuelve el estómago de pensar que ayudé a traer esas abominaciones al mundo.
+TEXT_LUCKYW311_03981_AVILINA_000_120	Usar a un piloto vivo para alimentar el núcleo del Weapon fue parte del diseño desde el principio. Claro que jamás soñarían con someter a un garleano de nacimiento a un trato tan bárbaro. No cuando la VIIth Legion tiene a mano un suministro de reclutas de provincia listos para usar.
+TEXT_LUCKYW311_03981_AVILINA_000_121	A los pilotos solo se los llamaba por su nombre en clave, y a los ingenieros no nos revelaban su verdadera identidad. Aun con esta lista de reclutas, sigo sin saber quién fue sacrificado en nombre del proyecto Weapon.
+TEXT_LUCKYW311_03981_Q2_000_000	¿Qué vas a decir?
+TEXT_LUCKYW311_03981_A2_000_001	Por fin podrás usar bien tus habilidades y conocimientos.
+TEXT_LUCKYW311_03981_A2_000_002	Terminemos juntos con el proyecto Weapon.
+TEXT_LUCKYW311_03981_AVILINA_000_123	Pero ¿qué puedo hacer yo? Durante años, lo único que supe fue construir herramientas de destrucción.
+TEXT_LUCKYW311_03981_AVILINA_000_124	La VIIth Legion está lejos de haber terminado. Están esperando el momento adecuado para desatar el último Weapon.
+TEXT_LUCKYW311_03981_AVILINA_000_125	Y cuando lo hagan, solo traerán muerte y desgracia a todos los que se interpongan en su camino. Aun después de todo lo que nos quitaron, siguen queriendo más...
+TEXT_LUCKYW311_03981_AVILINA_000_126	Si no fuera por el Empire, Milisandia seguiría aquí... Era la persona más bondadosa que he conocido, pero para el Empire no era más que otro peón en sus juegos. Nunca la olvidaré.
+TEXT_LUCKYW311_03981_AVILINA_000_127	Hay una forma de que yo marque la diferencia. Sé que la hay.
+TEXT_LUCKYW311_03981_AVILINA_000_128	Pero primero necesito hablar con los miembros de los Ironworks.
+TEXT_LUCKYW311_03981_AVILINA_000_129	Tengo el presentimiento de que la warmachina que usó para vencer al Sapphire Weapon volverá a entrar en acción. Hasta entonces, todavía hay tiempo para hacerle mejoras, y pienso ayudar.
+TEXT_LUCKYW311_03981_AVILINA_000_130	Seguiré adelante con el plan del monumento, pero detener al Empire debe ser lo primero. Espero que Milisandia y los demás puedan esperar un poco más...
+TEXT_LUCKYW311_03981_AVILINA_000_131	Antes de irme, permítame expresarle mi gratitud. No sé qué habría hecho sin usted. Hasta que nos volvamos a ver.
+TEXT_LUCKYW311_03981_AVILINA_000_135	Dejaré que hable usted, si no le molesta.
+TEXT_LUCKYW311_03981_RESISTANCEOFFICER_000_150	¿Y bien? ¿Cómo le fue en Terncliff?
+TEXT_LUCKYW311_03981_RESISTANCEOFFICER_000_151	Ya veo... El destino fue cruel con ella, pero ahora tiene la oportunidad de empezar de nuevo. Lo mismo se puede decir de todo Terncliff.
+TEXT_LUCKYW311_03981_RESISTANCEOFFICER_000_152	Parece que la liberación de ese pequeño pueblo será un momento decisivo en la historia de Werlyt. Quizá no falte tanto para que el resto de la región se libre del Empire.
+TEXT_LUCKYW311_03981_RESISTANCEOFFICER_000_153	Naturalmente, sería un honor pelear junto a la gente de Werlyt. No descansaremos hasta que los imperiales huyan con la cola entre las patas.
+TEXT_LUCKYW311_03981_RESISTANCEOFFICER_000_154	Hasta que llegue ese día, seguiremos haciendo nuestra parte para apoyarlos a usted y a los demás en terminar con el proyecto Weapon. Le haré llegar cualquier información pertinente. Mientras tanto, cuídese.

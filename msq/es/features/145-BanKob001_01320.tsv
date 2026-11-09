@@ -1,0 +1,91 @@
+key	text
+TEXT_BANKOB001_01320_SEQ_00	Trachraet busca a alguien con buen olfato de detective.
+TEXT_BANKOB001_01320_SEQ_01	El Teniente Trachraet te revela un hecho inquietante: hace poco interceptaron un convoy del Maelstrom, y unos desconocidos se llevaron un cargamento vital de salitre. Te pide que vayas a Swiftperch, en Western La Noscea, a ayudar a la Teniente Skaetswys, la oficial encargada de la investigación.
+TEXT_BANKOB001_01320_SEQ_02	La Teniente Skaetswys te agradece la ayuda, porque hasta ahora sus subordinados no han demostrado mucha capacidad para investigar. Busca en Swiftperch las pruebas que se le han escapado.
+TEXT_BANKOB001_01320_SEQ_03	Tras revisar a fondo Swiftperch, das con un pico deforme de extraña factura. ¿Será una herramienta que dejaron los ladrones de salitre? Preséntaselo a la Teniente Skaetswys con la esperanza de que aclare su investigación.
+TEXT_BANKOB001_01320_SEQ_04	Tras examinar de cerca el pico, Skaetswys se convence de que la emboscada al convoy la llevó a cabo una banda de kobolds. Acompaña a Skaetswys a Camp Overlook y busca al Comandante Bloeidin, cuyo vasto conocimiento de los hombres bestia de los túneles será vital para decidir qué hacer.
+TEXT_BANKOB001_01320_SEQ_05	Al llegar a Camp Overlook, un kobold prisionero, interrogado por el Comandante Bloeidin, confiesa enseguida que una infame orden de los suyos, la 789th, fue la que planeó el robo del salitre. Con la debida cautela, infiltra su guarida y vuelve a reunirte con Skaetswys.
+TEXT_BANKOB001_01320_SEQ_06	Apenas llegas a la excavación y encuentras las provisiones robadas, la 789th Order detecta tu presencia y te rodea enseguida. Pero el misterio se hace más profundo cuando los feroces kobolds entregan lo robado sin pelear siquiera. Vuelve a hablar con Skaetswys para intentar entender qué pasó.
+TEXT_BANKOB001_01320_SEQ_07	Aunque el comportamiento de los kobolds la tiene completamente confundida, Skaetswys decide dejar las reflexiones para cuando las provisiones estén a salvo en su destino original. Antes de partir hacia Camp Overlook, te anima a explorar la excavación y a buscar al líder de la 789th, para saber algo de estos kobolds sorprendentemente poco belicosos.
+TEXT_BANKOB001_01320_SEQ_08	El capataz de la 789th, un kobold poco impresionante llamado Gi Gu, expresa avergonzado su remordimiento por los actos de su orden, e insiste en que solo cayeron en el robo por circunstancias atenuantes. Parece que la situación de estos kobolds tiene más de lo que se ve a simple vista...
+TEXT_BANKOB001_01320_TODO_00	Habla con Skaetswys en Swiftperch.
+TEXT_BANKOB001_01320_TODO_01	Busca pistas en Swiftperch y sus alrededores.
+TEXT_BANKOB001_01320_TODO_02	Entrégale el pico torcido a Skaetswys.
+TEXT_BANKOB001_01320_TODO_03	Habla con Bloeidin en Camp Overlook.
+TEXT_BANKOB001_01320_TODO_04	Habla con Skaetswys en la excavación de la 789th Order.
+TEXT_BANKOB001_01320_TODO_05	Habla con Skaetswys.
+TEXT_BANKOB001_01320_TODO_06	Habla con el picador Gi Gu de la 789th Order.
+TEXT_BANKOB001_01320_TRACHRAET_000_001	¡<if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>! No sé qué le trae hoy a Maelstrom Command, pero no puedo quejarme de su oportunidad. Sí, tenemos un problema entre manos.
+TEXT_BANKOB001_01320_TRACHRAET_000_002	Hace unos días emboscaron a un convoy nuestro rumbo a Limsa, y nos arrebataron de las manos un buen cargamento de salitre. Los perros sarnosos responsables atacaron rápido y a oscuras, así que todavía no sabemos quiénes son, y mucho menos cómo llevarlos ante la justicia.
+TEXT_BANKOB001_01320_TRACHRAET_000_003	El salitre, como quizá sepa, es ingrediente clave para fabricar firesand. Trame lo que trame nuestro enemigo, seguramente implica una buena dosis de muerte ardiente y destrucción.
+TEXT_BANKOB001_01320_TRACHRAET_000_004	El mando envió a un regimiento de élite a investigar, pero las pistas son más difíciles de encontrar que una cerveza medio decente en altamar.
+TEXT_BANKOB001_01320_TRACHRAET_000_005	Quien dirige la investigación es una buena camarada mía. Aunque nada me gustaría más que ayudarla en su búsqueda, no puedo descuidar mis deberes aquí.
+TEXT_BANKOB001_01320_TRACHRAET_000_006	Si tiene ganas de aventura, podría hacer peor que ir a Swiftperch y buscar a una tal Teniente Skaetswys. Solo diga que le manda Trachraet.
+TEXT_BANKOB001_01320_TRACHRAET_000_007	Una vieja y querida camarada mía dirige la búsqueda del salitre perdido. Si tiene ganas de aventura, vaya a Swiftperch y busque a una tal Teniente Skaetswys. Solo diga que le manda Trachraet.
+TEXT_BANKOB001_01320_SKAETSWYS_000_010	¡Que Llymlaen se los lleve a todos! ¿Me quieren hacer creer que no hay una sola prueba en toda esta aldea dejada de la mano de los dioses?
+TEXT_BANKOB001_01320_SKAETSWYS_000_011	¿Y <italic(1)>tú<italic(0)> quién eres? ¿<if(gnum4,Una aventurera,Un aventurero)> que viene de parte del viejo Trachraet? ¿Quién dijo que yo buscaba ayuda, de todos modos?
+TEXT_BANKOB001_01320_SKAETSWYS_000_012	¿Trachraet lo dijo? ¡Ja! Para que lo sepan los dos, aquí todo es cielo despejado y buen viento. Sí, justo estaba por presentar mi informe a...
+TEXT_BANKOB001_01320_SKAETSWYS_000_013	...Eh, no engaño a nadie. Nos arrebataron de las manos una buena tonze de salitre, seguramente alguien que quiere usarla para mandar a nuestra hermosa Limsa al fondo del mar. Muy bien, te cuento lo que han averiguado mis hombres, pero te advierto: no es mucho.
+TEXT_BANKOB001_01320_SKAETSWYS_000_014	Por la magnitud del golpe, creemos que fue obra coordinada de un grupo bien entrenado. Es más, por la rapidez con que desaparecieron los ladrones, diría que conocen pasajes que nosotros no.
+TEXT_BANKOB001_01320_SKAETSWYS_000_015	Tenía la esperanza de que mis hombres encontraran <italic(1)>algo<italic(0)>, pero no tuvieron suerte. ¿Qué dices? ¿Te gustaría echar un vistazo a ver si encuentras las pruebas que no pudieron encontrar mis subordinados medio ciegos y tres veces tontos?
+TEXT_BANKOB001_01320_SKAETSWYS_000_016	Llevarse todas esas cajas sin que ni nuestros mejores hombres alcancen a ver nada... Estamos ante una banda criminal de una habilidad y un engaño sin igual.
+TEXT_BANKOB001_01320_KOKKADANA01320_000_017	\<suspiro> Seguro me van a degradar. ¿Cómo voy a volver a mirar a mi mujer y a mis hijos?
+TEXT_BANKOB001_01320_KOKKADANB01320_000_018	¡No aparté los ojos de la carreta, lo juro por la tumba de mi madre! Bueno, quiero decir... quizá sí. Solo un momento... ¡Pero Aleport estaba a la vista! ¿Me puedes culpar por pensar que estábamos a salvo?
+TEXT_BANKOB001_01320_SKAETSWYS_000_030	<split(<string(gstr1)>, ,1)>, ¿no? ¿Y bien? ¿Encontraste alguna prueba que aclare nuestra investigación?
+TEXT_BANKOB001_01320_SKAETSWYS_000_031	Hmmm... ¿qué tenemos aquí? Un pico, y bastante lamentable. ¿Crees que lo dejaron los culpables?
+TEXT_BANKOB001_01320_SKAETSWYS_000_032	En mi tiempo en el Maelstrom he enfrentado a casi todos los piratas, bandidos y salteadores de esta zona, pero no conozco a ninguno que use una herramienta como esta.
+TEXT_BANKOB001_01320_SKAETSWYS_000_033	No, me apostaría más de una ronda en la Wench a que nuestra banda de ladronzuelos mugrosos no son hombres comunes. Sí, todo se me está aclarando...
+TEXT_BANKOB001_01320_SKAETSWYS_000_034	...Y a ti también, sin duda. Dime, <split(<string(gstr1)>, ,1)>, ¿estás pensando lo mismo que yo?
+TEXT_BANKOB001_01320_Q1_000_000	¿Piensas lo mismo que Skaetswys? El culpable es...
+TEXT_BANKOB001_01320_A1_000_001	...¿¡Una Roegadyn renegada!?
+TEXT_BANKOB001_01320_A1_000_002	...¡Esos kobolds traicioneros!
+TEXT_BANKOB001_01320_SKAETSWYS_000_035	¡La misma! Sí, solo una Roegadyn de abundantes dotes físicas y mentales, como yo, podría fabricar y usar tan exquisita pieza de...
+TEXT_BANKOB001_01320_SKAETSWYS_000_036	...¿Tienes percebes en lugar de sesos, <if(gnum4,aventurera,aventurero)>? ¡Porque si estás <italic(1)>insinuando<italic(0)> que yo misma organicé el robo, vas a dar un largo paseo por un muelle muy corto en cuanto pises Limsa!
+TEXT_BANKOB001_01320_SKAETSWYS_000_037	...Sabía que eras <if(gnum4,lista,listo)>. Sí, en cuanto vi ese pico que encontraste, quedé convencida.
+TEXT_BANKOB001_01320_SKAETSWYS_000_038	La factura primitiva de esta herramienta, un interés demasiado<-->sano por los explosivos... todo indica que detrás de esto están esos rufianes con cara<-->de<-->rata.
+TEXT_BANKOB001_01320_SKAETSWYS_000_039	Ahora es tan condenadamente obvio que casi me daría una patada a mí misma, y a mis bueno<-->para<-->nada, por no llegar antes a esta conclusión.
+TEXT_BANKOB001_01320_SKAETSWYS_000_040	Pero no es momento de lloriqueos. No, tenemos que actuar rápido si queremos recuperar lo nuestro.
+TEXT_BANKOB001_01320_SKAETSWYS_000_041	Camp Overlook es nuestra primera línea de defensa contra esos ladrones de los túneles. Si alguien tiene idea de adónde se llevaron el salitre y cómo planean usarlo, es el Comandante Bloeidin.
+TEXT_BANKOB001_01320_SKAETSWYS_000_042	Voy a entregar mi informe, pero tengo la corazonada de que nuestro trabajo apenas empieza. ¿Qué dices si vienes conmigo, <split(<string(gstr1)>, ,1)>? Eres <if(gnum4,la primera mujer capaz,el primer hombre capaz)> con quien trabajo hoy.
+TEXT_BANKOB001_01320_KOBOLDA01320_000_043	¡Suéltenme de inmediato! ¡Libérenme, déjenme, suéltenme!
+TEXT_BANKOB001_01320_BLOEIDIN_000_050	¿Hm? Hazlo rápido, <if(gnum4,aventurera,aventurero)>. Como ves, tengo las manos ocupadas con nuestro amiguito.
+TEXT_BANKOB001_01320_KOBOLDA01320_000_051	¡Esto es un ultraje, una farsa, una atrocidad, un ultraje! ¡Es un insulto, y los kobolds no lo toleraremos! ¡No, no, no lo toleraremos más!
+TEXT_BANKOB001_01320_BLOEIDIN_000_052	¡No vas a tener piernas para sostenerte si no dejas de parlotear y sueltas la verdad sobre lo que traman ustedes, ratas sarnosas!
+TEXT_BANKOB001_01320_KOBOLDA01320_000_053	¿Tramar? ¡No hay nada tramado! ¡No, no, no tramamos nada, nulo, nada!
+TEXT_BANKOB001_01320_BLOEIDIN_000_054	¡Basta! A diferencia de ti y de los tuyos, yo tengo un par de ojos que funcionan y al menos la mitad de mi cabeza. ¿Crees que no los he visto volando cosas y correteando por U'Ghamaro últimamente?
+TEXT_BANKOB001_01320_SKAETSWYS_000_055	¡Comandante Bloeidin, señor!
+TEXT_BANKOB001_01320_BLOEIDIN_000_056	¿Skaetswys? Sí, es un gusto ver a mi antigua recluta, pero me temo que un complot kobold requiere mi atención...
+TEXT_BANKOB001_01320_SKAETSWYS_000_057	<split(<string(gstr1)>, ,1)> y yo quizá podamos ayudarlo con eso, Comandante. ¿Confío en que oyó la noticia de nuestro cargamento perdido de salitre?
+TEXT_BANKOB001_01320_KOBOLDA01320_000_058	¿Ya lo sabe? ¡No puede ser! ¡No, no, no puede ser!
+TEXT_BANKOB001_01320_BLOEIDIN_000_059	¡Ja, lo sabía! ¡Tu lengua sin fin por fin cavó tu propia tumba!
+TEXT_BANKOB001_01320_KOBOLDA01320_000_060	¡No fuimos nosotros! ¡No, no, nosotros no! ¡Fueron <italic(1)>ellos<italic(0)>, sí, sí, <italic(1)>ellos<italic(0)>!
+TEXT_BANKOB001_01320_SKAETSWYS_000_061	¿Qué tontería es esta? Ojos pequeños, cola encrespada, afición a causarnos problemas... ¡un kobold es un kobold!
+TEXT_BANKOB001_01320_KOBOLDA01320_000_062	¡Eso no es así! ¡No, no, no es así! Hay kobolds, y luego hay kobolds, y además hay kobolds. Fueron los de abajo quienes robaron su precioso salitre: ¡los que viven abajo, debajo, en lo profundo!
+TEXT_BANKOB001_01320_BLOEIDIN_000_063	¿Abajo, debajo? ...Ahora que lo pienso, mis exploradores mencionaron una banda de kobolds particularmente desaliñados que parecen haberse instalado al pie del acantilado.
+TEXT_BANKOB001_01320_KOBOLDA01320_000_064	¡Sí, sí! ¡Ese es el lugar! ¡Ese es el hogar, el hogar de la 789th! ¡Son los peores, lo peor de lo peor! ¡Son los más apestosos, hediondos, mugrosos, apestosos, y feos también!
+TEXT_BANKOB001_01320_SKAETSWYS_000_065	¡Comandante! Como oficial al mando de esta investigación, solicito permiso para bajar a investigar a la llamada 789th. Además, quisiera que <if(gnum4,esta aventurera,este aventurero)> me acompañe: ha demostrado ser capaz, y parece que enfrentamos a un enemigo digno.
+TEXT_BANKOB001_01320_BLOEIDIN_000_066	Como quieras, Teniente. Pero te advierto: ten cuidado allá abajo. Ver un kobold no le da miedo a nadie, pero su mordida, y sus bombas, son mucho peores que su ladrido.
+TEXT_BANKOB001_01320_SKAETSWYS_000_067	Entendido, Comandante: no lo defraudaremos. Y con eso, me retiro. ¡Hasta que el mar se lo trague todo!
+TEXT_BANKOB001_01320_SKAETSWYS_000_068	¿Y bien, <split(<string(gstr1)>, ,1)>? ¿<if(gnum4,Lista,Listo)> para enfrentar a la banda de kobolds más sarnosa de La Noscea? Más te vale, porque cuento con que seas de utilidad.
+TEXT_BANKOB001_01320_BLOEIDIN_000_069	Los kobolds parecerán poco más que ratas de muelle crecidas, pero su mente es tan afilada como sus garras. Si alguna vez te rodean, más te vale estar <if(gnum4,lista,listo)> para la pelea de tu vida.
+TEXT_BANKOB001_01320_KOBOLDA01320_000_070	Nada bueno sale de tratar con la 789th. Nada bueno, nada bueno en absoluto. Ignora mis palabras y serás <if(gnum4,una tonta,un tonto)>, <if(gnum4,una necia,un necio)>, <if(gnum4,una loca,un loco)>, <if(gnum4,una tonta,un tonto)>.
+TEXT_BANKOB001_01320_SKAETSWYS_000_080	Vaya, vaya... ¿Qué tenemos aquí?
+TEXT_BANKOB001_01320_SKAETSWYS_000_081	Una, dos... sí, tres cajas de salitre. Parece que nuestro informante kobold dijo la verdad.
+TEXT_BANKOB001_01320_SKAETSWYS_000_082	¿Pero qué...?
+TEXT_BANKOB001_01320_SKAETSWYS_000_087	¿Rodeados? ¡Prepárate, <split(<string(gstr1)>, ,1)>!
+TEXT_BANKOB001_01320_SKAETSWYS_000_088	¿Se van a quedar ahí chillándome <if([gnum11<12],<if([gnum11<4],toda la noche,todo el día)>,<if([gnum11<17],todo el día,toda la noche)>)>? ¡Peleen con honor, o mueran como las ratas que son!
+TEXT_BANKOB001_01320_GIGU_000_089	(-Kobold poco impresionante-)Ah, eh... ¿no hay alternativas, a-acuerdos, opciones, alternativas? ¿Como, quizá... rendirse? ¡Sí, sí, rendirse! ¡Nos rendimos!
+TEXT_BANKOB001_01320_SKAETSWYS_000_090	¿Dijiste que... se rinden?
+TEXT_BANKOB001_01320_KOBOLD01320_000_091	(-Kobolds de la 789th Order-)¡Sí, sí, nos rendimos, cedemos, nos sometemos, nos rendimos!
+TEXT_BANKOB001_01320_SKAETSWYS_000_092	¿Qué demonios...?
+TEXT_BANKOB001_01320_SKAETSWYS_000_100	No tengo ni idea de por qué, pero parece que la infame 789th está ansiosa por devolver lo robado sin pelear siquiera.
+TEXT_BANKOB001_01320_SKAETSWYS_000_101	Yo no me habría opuesto a romper unas cuantas cabezas de kobold, pero considerando las tensas relaciones entre Limsa y esos bichos últimamente, ¿quién discute con la buena diplomacia?
+TEXT_BANKOB001_01320_SKAETSWYS_000_102	En fin, voy a informar al Comandante Bloeidin y a organizar el transporte de las provisiones, y esta vez con una escolta confiable.
+TEXT_BANKOB001_01320_SKAETSWYS_000_103	Mientras tanto, ¿por qué no preguntas por ahí a ver qué averiguas de nuestros nuevos vecinos? Después de todo, no parecen ni la mitad de imponentes de lo que esperaba, y su líder menos que nadie... Buena suerte, <split(<string(gstr1)>, ,1)>. ¡Hasta que el mar se lo trague todo!
+TEXT_BANKOB001_01320_GIGU_000_104	¿Ya se fue la mujer que da miedo? ¡Ay, por favor, por favor, di que sí! Debes perdonar a Gi Gu. Sí, Gi Gu y sus amigos se portaron mal, mal, feo, mal.
+TEXT_BANKOB001_01320_GIGU_000_110	¿S-Sigues aquí? Nos rendimos, ¿sí? ¿Cedimos, nos sometimos, nos rendimos? No nos harás daño, ¿verdad?
+TEXT_BANKOB001_01320_GIGU_000_111	...Uf. Estoy aliviado, tranquilo, sosegado, aliviado. ¿Y quién soy, preguntas?
+TEXT_BANKOB001_01320_GIGU_000_112	Soy Gi Gu, y Gi Gu es el capataz de la 789th. Líder de nombre, sí, pero nada más. No, no, nada más. Porque en verdad nadie escucha a Gi Gu. A Gi Gu lo ignoran, lo invisibilizan, lo insultan, lo ignoran... y además es incompetente.
+TEXT_BANKOB001_01320_GIGU_000_113	¿La 789th robó su precioso polvo-bum? Sí, sí, lo robamos. Pero teníamos un buen motivo, una excusa, una razón, un motivo.
+TEXT_BANKOB001_01320_GIGU_000_114	La nuestra es una orden pacífica por naturaleza. La 789th no molestaba a nadie, y nadie nos molestaba. No, hasta ahora. Ahora nos echaron de los túneles y nos exiliaron a este lugar que apesta a tierra y agua salada.
+TEXT_BANKOB001_01320_GIGU_000_115	Pero eres <if(gnum4,forastera,forastero)>, y hablo demasiado, y demasiado pronto. No, no, no hablaré más. Vete ya, y deja a Gi Gu con su sufrimiento, su dolor, su vergüenza, su sufrimiento.

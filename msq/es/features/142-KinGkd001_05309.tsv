@@ -1,0 +1,127 @@
+key	text
+TEXT_KINGKD001_05309_SEQ_00	El mensajero de la expedición recorre el puerto con la mirada, expectante.
+TEXT_KINGKD001_05309_SEQ_01	En High Tide Harbor conoces a un mensajero que envió Ketenramm a buscarte. Pronto trae al legendario explorador eorzeano, que te expone sus planes para un último viaje con la mira puesta en Shades' Triangle, una temida y legendaria extensión del Indigo Deep. Convencido de que tu ayuda garantizará el éxito de la expedición, te invita a unirte a su tripulación en un viaje a lo desconocido. Tras aceptar, debes hablar con Ofangeim, una de las integrantes de la expedición que espera en el muelle.
+TEXT_KINGKD001_05309_SEQ_02	Ofangeim, la navegante del barco, te informa que las traicioneras tormentas por las que Shades' Triangle es famoso amainarán por poco tiempo, y dejarán mares en calma y condiciones perfectas para navegar. Señalando el esquife amarrado cerca, explica que la nave principal espera más allá de los bajíos y te pide que le avises cuando estés <if(gnum4,lista,listo)>.
+TEXT_KINGKD001_05309_SEQ_03	Tras hacer los preparativos necesarios para el viaje, hablas con Ofangeim y partes hacia mares sin explorar...
+TEXT_KINGKD001_05309_SEQ_04	A bordo del barco de la expedición, Ketenramm revela que las aguas tormentosas de Shades' Triangle ocultan una extraña isla en forma de media luna, cuya vista dicen que condena a quienes se acercan demasiado. Al oír su explicación, queda claro que esos cuentos de advertencia tuvieron el efecto contrario en el veterano marino. Todavía a muchos malms de su destino, Ketenramm te sugiere conocer a la tripulación que arriesga la vida contigo en esta peligrosa aventura.<br><br>※Si dejas el barco, puedes retomar el viaje hablando con el barquero de la expedición en High Tide Harbor.
+TEXT_KINGKD001_05309_SEQ_05	Conoces a la tripulación y oyes sus motivos para unirse a la expedición, además de un curioso relato sobre un armero descarriado que languidece en la bodega del barco. Sin duda, Ketenramm tiene curiosidad por oír tus impresiones sobre la tripulación.
+TEXT_KINGKD001_05309_SEQ_06	Ketenramm anuncia que el barco pronto entrará en Shades' Triangle. La tripulación ocupa sus puestos, lista para la aproximación final.
+TEXT_KINGKD001_05309_SEQ_07	Mientras la tripulación lucha con una isla que desaparece y reaparece a voluntad, oyes una voz que resuena sobre las olas y te llama. Poco después el barco da un violento bandazo, atrapado por un poder arcano mientras una luz cegadora lo envuelve. Cuando el manto blanco se disipa, se encuentran atracados en el ruinoso muelle de piedra de la isla. El barco está ileso pero firmemente anclado, quizá por la misma fuerza que los trajo a estas costas. Por su parte, a Ketenramm le agrada en silencio la perspectiva de quedar atrapado en la isla, y se pone en marcha con una sonrisa.<br><br>※Si dejas Occult Crescent, podrás volver desde High Tide Harbor cuando quieras reunirte con la expedición.
+TEXT_KINGKD001_05309_SEQ_08	Se reúnen junto a la entrada de un asentamiento amurallado sobre el muelle. Como esperaba que la isla estuviera deshabitada, a Ketenramm le intriga encontrar señales de civilización, aunque al parecer ausentes desde hace mucho. Sin duda, será el primero de muchos misterios cuando la expedición se ponga en marcha.
+TEXT_KINGKD001_05309_TODO_00	Habla con Ofangeim.
+TEXT_KINGKD001_05309_TODO_01	Vuelve a hablar con Ofangeim.
+TEXT_KINGKD001_05309_TODO_02	Habla una vez más con Ofangeim.
+TEXT_KINGKD001_05309_TODO_03	Habla con tus compañeros de tripulación.
+TEXT_KINGKD001_05309_TODO_04	Habla con Ketenramm.
+TEXT_KINGKD001_05309_TODO_05	Habla con Ketenramm.
+TEXT_KINGKD001_05309_TODO_06	Habla con Ketenramm.
+TEXT_KINGKD001_05309_SAILOR05309_000_001	Tú eres <split(<string(gstr1)>, ,1)>, ¿no? ¡<if(gnum4,La mujer,El hombre)> que andaba buscando, de hecho!
+TEXT_KINGKD001_05309_SAILOR05309_000_002	El viejo Ketenramm me encargó encontrarte. Dice que tiene una propuesta para ti.
+TEXT_KINGKD001_05309_SAILOR05309_000_003	Quédate ahí, voy a buscarlo.
+TEXT_KINGKD001_05309_KETENRAMM_000_004	Perdona que te agarre así, pero quería conversar antes de que te fueras de Tuliyollal.
+TEXT_KINGKD001_05309_KETENRAMM_000_005	Voy al grano. Te quiero a bordo de mi última expedición.
+TEXT_KINGKD001_05309_KETENRAMM_000_006	Antes de entrar en detalles, déjame contarte una historia rápida.
+TEXT_KINGKD001_05309_KETENRAMM_000_007	Hoy en día, cualquier marino eorzeano que se precie rumbo a Tural toma la ruta establecida y bordea el sur del Indigo Deep.
+TEXT_KINGKD001_05309_KETENRAMM_000_008	Pero cuando los mapas no eran más que pergamino en blanco pasando Vylbrand, solo nos guiaba la llamada del horizonte. La mayoría de mis colegas exploradores levaron anclas y pusieron rumbo directo al oeste, derecho a la aventura...
+TEXT_KINGKD001_05309_KETENRAMM_000_009	Por desgracia, a casi todos se los llevaron las olas. Mi tripulación y yo llegamos a Tural porque fuimos hacia el norte y evitamos las mismas aguas traicioneras que se los tragaron.
+TEXT_KINGKD001_05309_KETENRAMM_000_010	Ese tramo del Deep acabó llamándose Shades' Triangle. Yo tenía la idea de resolver sus misterios en nombre de mis compañeros caídos, pero al llegar a estas costas fue la tierra, no el mar, la que prometía nuevas aventuras.
+TEXT_KINGKD001_05309_KETENRAMM_000_011	Una vez que me asenté aquí y disolví la expedición, nunca tuve la oportunidad.
+TEXT_KINGKD001_05309_KETENRAMM_000_012	Pero entonces me crucé con <if(gnum4,cierta aventurera famosa,cierto aventurero famoso)> en todo el reino y empecé a preguntarme...
+TEXT_KINGKD001_05309_KETENRAMM_000_013	Sí, algo me dijo que con tu ayuda por fin aclararía el misterio de esas aguas malditas. Entonces, ¿qué dices? ¿Acompañas a este viejo explorador en un último paseo?
+TEXT_KINGKD001_05309_Q1_000_000	¿Qué vas a decir?
+TEXT_KINGKD001_05309_A1_000_001	¡Sería un honor!
+TEXT_KINGKD001_05309_A1_000_002	Me convenciste con lo de "misterio". Pero ¿y tus deberes en el palacio?
+TEXT_KINGKD001_05309_KETENRAMM_000_015	Je. Sabía que podía contar contigo.
+TEXT_KINGKD001_05309_KETENRAMM_000_016	No te preocupes. Propongo todo esto con el pleno respaldo de los Dawnservants.
+TEXT_KINGKD001_05309_KETENRAMM_000_017	A decir verdad, incluso antes de que Gulool Ja Ja me pidiera cuidar a Koana y a Wuk Lamat, temía no volver a navegar nunca... En fin, sentí que ellos dos se daban cuenta de mi preocupación, así que les conté todo.
+TEXT_KINGKD001_05309_KOANA_000_018	...¿Y dice que el misterio de Shades' Triangle lo persigue desde entonces?
+TEXT_KINGKD001_05309_KOANA_000_019	La región de la que habla es un obstáculo para el comercio con naciones extranjeras. Cualquier esfuerzo por desentrañar sus secretos terminaría beneficiando a Tuliyollal.
+TEXT_KINGKD001_05309_WUKLAMAT_000_020	Parece que podría ser tu última oportunidad. Sobre todo si esperas que <split(<string(gstr1)>, ,1)> se meta en esto.
+TEXT_KINGKD001_05309_WUKLAMAT_000_021	Además, papá se revolvería en su tumba si le impedimos a su viejo amigo un último viaje. Yo digo que sigas a tu corazón, Tankwa.
+TEXT_KINGKD001_05309_KETENRAMM_000_021	Seguro querrás más detalles, pero me gustaría zarpar cuanto antes. Volvamos a hablar cuando hayamos puesto unos cuantos malms entre nosotros y el puerto.
+TEXT_KINGKD001_05309_KETENRAMM_000_022	El barco está listo y esperando; hice que lo trajeran especialmente de Limsa. Cuando estés <if(gnum4,lista,listo)>, habla con Ofangeim en el muelle.
+TEXT_KINGKD001_05309_SAILOR05309_000_025	Ahí lo tienes: ¡la leyenda misma deja el proverbial dique seco para un último hurra! Si tú estás en condiciones, ve al muelle y habla con Ofangeim.
+TEXT_KINGKD001_05309_SAILORWARP05309_000_030	Cuando estés <if(gnum4,lista,listo)>, te llevo remando hasta el barco en este esquife.
+TEXT_KINGKD001_05309_OFANGEIM_000_100	<split(<string(gstr1)>, ,1)>, supongo. Ketenramm me contó todo sobre ti. Me llamo Ofangeim, navegante de oficio.
+TEXT_KINGKD001_05309_OFANGEIM_000_101	Dicen que Shades' Triangle está azotado por tormentas todo el año, pero si miras bien las cartas verás que eso no es del todo cierto. Por una breve temporada se despeja el cielo y se calma el mar, y por eso el viejo explorador tiene tantas ganas de levar anclas.
+TEXT_KINGKD001_05309_OFANGEIM_100_101	¿Qué pasa? No me digas que te da desconfianza subir a este botecito de remos...
+TEXT_KINGKD001_05309_OFANGEIM_200_101	¡Jajaja! ¡No vamos a remar hasta Shades' Triangle! Nuestro barco está esperando más allá de los bajíos.
+TEXT_KINGKD001_05309_OFANGEIM_000_102	En fin, cuando estés bien <if(gnum4,preparada,preparado)> para irte, ¡solo dilo!
+TEXT_KINGKD001_05309_OFANGEIM_000_200	¿<if(gnum4,Lista,Listo)> para trazar rumbo a aguas desconocidas?
+TEXT_KINGKD001_05309_SYSTEM_000_201	¿Partir hacia Shades' Triangle?
+TEXT_KINGKD001_05309_OFANGEIM_000_202	No sé si respetar tu temple o dudar de tu cordura, pero <if(gnum4,bienvenida,bienvenido)> a bordo. ¡Shades' Triangle, allá vamos!
+TEXT_KINGKD001_05309_SAILOR05309_000_205	Mi trabajo es mantener al palacio informado del avance de la expedición. Estaré en ascuas esperando el primer informe de reconocimiento...
+TEXT_KINGKD001_05309_SAILORWARP05309_000_206	¿Eh? ¿Solo tú? Si quieres volver con la tripulación, solo dilo y preparo el esquife.
+TEXT_KINGKD001_05309_SYSTEM_000_210	¿Ir al barco de la expedición?
+TEXT_KINGKD001_05309_OFANGEIM_000_220	Este es el único barco que se adentra en Shades' Triangle, pero habrá otros cerca para transmitir mensajes por linkpearl.
+TEXT_KINGKD001_05309_OFANGEIM_000_225	Si nos pasa algo, avisarán a la capital.
+TEXT_KINGKD001_05309_KETENRAMM_000_300	Hasta ahora, viento en popa. Quizá sea hora de hablar de nuestro destino.
+TEXT_KINGKD001_05309_KETENRAMM_000_301	Shades' Triangle es un revoltijo de tormentas, así que cada vez que un barco desaparece en la región, la mayoría le echa la culpa a las condiciones traicioneras.
+TEXT_KINGKD001_05309_OFANGEIM_000_302	Pero oye esto: hay registros del último barco que intentó cartografiar esas aguas, y el mensaje que transmitió a su escolta es muy extraño...
+TEXT_KINGKD001_05309_OFANGEIM_000_303	"Condiciones buenas. Avistada isla en forma de media luna en las cercanías. Posible refugio durante tormentas. Intentando tocar tierra."
+TEXT_KINGKD001_05309_OFANGEIM_000_304	Nunca regresaron a puerto, a pesar del mar en calma.
+TEXT_KINGKD001_05309_KETENRAMM_000_305	Desde entonces la gente llama a la isla "Occult Crescent". Dicen que no es más que un espejismo cambiante que se lleva la vida de quien la ve.
+TEXT_KINGKD001_05309_OFANGEIM_000_306	Todos a bordo conocen los riesgos de un viaje así, pero no hay nada como la emoción de lo desconocido para vencer al sentido común.
+TEXT_KINGKD001_05309_KETENRAMM_000_307	Sí, el olor del misterio y la promesa de nuevos descubrimientos son difíciles de resistir. ¿Me equivoco si pienso que a ti te pasa igual, <if(gnum4,aventurera,aventurero)>?
+TEXT_KINGKD001_05309_KETENRAMM_000_308	En fin, ¿por qué no conoces al resto de la tripulación?
+TEXT_KINGKD001_05309_KETENRAMM_000_309	Yo estaré aquí revisando las cartas. Cuando conozcas a los que se juegan el pellejo contigo, ven a buscarme.
+TEXT_KINGKD001_05309_KETENRAMM_000_310	Todavía falta para llegar a Shades' Triangle. Mientras tanto, te sugiero hablar con tus compañeros de a bordo.
+TEXT_KINGKD001_05309_EXPEDITION05309A_000_400	No es mi primer viaje por estas aguas. Muchas veces navegué cerca de Shades' Triangle para estudiar el clima. Solo en los días más claros, cuando el mar está liso como un espejo, se alcanza a ver la isla.
+TEXT_KINGKD001_05309_EXPEDITION05309A_000_401	De lejos parece común y corriente, pero eso mismo debieron pensar los pobres diablos que desaparecieron. Nunca me atreví a acercarme a mirar, por más curiosidad que tuviera.
+TEXT_KINGKD001_05309_EXPEDITION05309A_000_402	Pero cuando oí que Ketenramm dirigía una expedición al corazón del Triangle, me apunté enseguida. No me malinterpretes, sigo con mis reservas, pero cuando pienso en lo que nos espera en esas aguas, ¡gana la emoción!
+TEXT_KINGKD001_05309_EXPEDITION05309A_000_403	Las condiciones en Shades' Triangle son perfectas hoy. Revisé cada ilm de las cartas: ¡no hay forma de que mis pronósticos fallen!
+TEXT_KINGKD001_05309_EXPEDITION05309B_000_404	Mi abuelo navegó una vez con Ketenramm. Estuvo con él cuando tocaron tierra en Tural por primera vez.
+TEXT_KINGKD001_05309_EXPEDITION05309B_000_405	Pero no iban a Tural. Salieron de Eorzea hacia el oeste rumbo a Hingashi; no contaban con un continente enorme entre ellos y su destino.
+TEXT_KINGKD001_05309_EXPEDITION05309B_000_406	Una vez en tierra, se olvidaron por completo del Lejano Oriente. Al final mi abuelo se asentó, y aquí estoy, tres generaciones después.
+TEXT_KINGKD001_05309_EXPEDITION05309B_000_407	Según todos, viajar con Ketenramm te cambia la vida. Lo digo en el mejor sentido posible, claro.
+TEXT_KINGKD001_05309_EXPEDITION05309B_000_408	He visitado Eorzea un par de veces, pero soy turalí hasta la médula.
+TEXT_KINGKD001_05309_EXPEDITION05309C_000_409	Esta no es una búsqueda de tesoros insensata. No, resolver los secretos de la isla valdrá más que cualquier baratija brillante.
+TEXT_KINGKD001_05309_EXPEDITION05309C_000_410	Y si logramos abrir un paso seguro a la isla, se podría establecer un desembarcadero permanente. Imagina la ganancia que traería al comercio exterior...
+TEXT_KINGKD001_05309_EXPEDITION05309C_000_411	Todo esto para decir que aquí hay más en juego que llenarnos los bolsillos.
+TEXT_KINGKD001_05309_EXPEDITION05309C_000_412	Por el aislamiento de la isla, algunos de nuestros financistas creen que quizá guarde una riqueza de recursos naturales sin explotar. En todo caso, haremos un estudio preliminar.
+TEXT_KINGKD001_05309_EXPEDITION05309D_000_413	No se sabe qué nos espera en la isla, por eso reclutamos a expertos y artesanos para sumar a la tripulación. Pero hay un tipo con el que todos deseamos no habernos cruzado...
+TEXT_KINGKD001_05309_EXPEDITION05309D_000_414	Después de zarpar, sorprendí al loco tratando de bajar uno de los botes salvavidas. Logramos encerrarlo en la bodega, pero el vidraal se puso a tomarse todo el ron a la vista.
+TEXT_KINGKD001_05309_EXPEDITION05309D_000_415	Al final lo amarramos y lo metimos en uno de los barriles que había vaciado.
+TEXT_KINGKD001_05309_EXPEDITION05309D_000_416	\<suspiro> Venía tan bien recomendado, y parece que solo contratamos a un lunático borracho... ¿Qué vamos a hacer con él?
+TEXT_KINGKD001_05309_KETENRAMM_000_500	Parece que tuviste una buena charla con la tripulación.
+TEXT_KINGKD001_05309_KETENRAMM_000_501	Así es la vida en el mar: una tripulación unida es indispensable en altamar. Sé que se habla de mis hazañas al llegar a Tural, pero la verdad es que no lo habría logrado sin mis compañeros exploradores.
+TEXT_KINGKD001_05309_KETENRAMM_000_502	Adonde sea que nos lleven los vientos, considero mi deber llevarnos a todos de ida y vuelta enteros.
+TEXT_KINGKD001_05309_KETENRAMM_000_503	Bien, estamos por entrar en Shades' Triangle. ¡Atentos!
+TEXT_KINGKD001_05309_WATCH05309_000_504	¡Tierra a la vista!
+TEXT_KINGKD001_05309_KETENRAMM_000_505	Firmes. ¡Directo hacia ella!
+TEXT_KINGKD001_05309_OFANGEIM_000_506	¡A la orden!
+TEXT_KINGKD001_05309_KETENRAMM_000_507	¿Hm? ¿Dónde está esa maldita isla? Hace un momento la teníamos a la vista...
+TEXT_KINGKD001_05309_WATCH05309_000_508	¡Tierra por la popa a estribor!
+TEXT_KINGKD001_05309_OFANGEIM_000_509	¿Qué? ¡No me digas que pasamos de largo!
+TEXT_KINGKD001_05309_KETENRAMM_000_510	¡Den vuelta este cascarón!
+TEXT_KINGKD001_05309_KETENRAMM_000_511	¡Otra vez la perdimos de vista! Lo de "espejismo cambiante" era muy cierto...
+TEXT_KINGKD001_05309_KETENRAMM_000_512	Si la isla se moviera de verdad, las olas estarían saltando por encima de la borda. Esto no es natural: algo nos está engañando la vista...
+TEXT_KINGKD001_05309_ISLANDMIRAGE_000_513	Digna gente, atended mi llamado.
+TEXT_KINGKD001_05309_Q2_000_000	¿Qué vas a decir?
+TEXT_KINGKD001_05309_A2_000_001	Dignos o no, seguimos navegando.
+TEXT_KINGKD001_05309_A2_000_002	Eh, atiendo, pero no sé si entiendo...
+TEXT_KINGKD001_05309_KETENRAMM_000_515	¿Con quién hablas?
+TEXT_KINGKD001_05309_KETENRAMM_000_516	¿Una voz extraña, dices? Yo no oí nada...
+TEXT_KINGKD001_05309_KETENRAMM_000_517	¿Pero qué demonios?
+TEXT_KINGKD001_05309_HELMSMAN05309_100_518	¡Perdí el control del timón! ¡Es como si algo nos estuviera jalando!
+TEXT_KINGKD001_05309_KETENRAMM_000_519	Dioses...
+TEXT_KINGKD001_05309_KETENRAMM_000_520	No puede ser la isla, ¿o sí...?
+TEXT_KINGKD001_05309_KETENRAMM_000_521	¿Cómo se ve el casco?
+TEXT_KINGKD001_05309_OFANGEIM_000_522	Sin daños a la vista, pero el barco está atascado, casi como si hubiéramos echado el ancla.
+TEXT_KINGKD001_05309_KETENRAMM_100_522	Perfectamente atracado y sin un rasguño... No hay timonel vivo que pudiera lograrlo.
+TEXT_KINGKD001_05309_OFANGEIM_000_523	Me temo que acabará así si intentamos moverlo...
+TEXT_KINGKD001_05309_KETENRAMM_000_524	Yo diría que nos trajo aquí algún truco arcano. Y que seguramente quedamos atrapados.
+TEXT_KINGKD001_05309_KETENRAMM_000_525	Je. Traídos por arte de magia justo a nuestro destino... ¡Menuda suerte, si me preguntas!
+TEXT_KINGKD001_05309_KETENRAMM_000_526	Bien, ¡no queda otra que poner en marcha esta expedición!
+TEXT_KINGKD001_05309_SYSTEM_000_550	¿Explorar Occult Crescent?
+TEXT_KINGKD001_05309_OFANGEIM_000_530	Con el barco inmovilizado, no podemos hacer mucho más que echar un vistazo.
+TEXT_KINGKD001_05309_KETENRAMM_000_600	Esa voz que oíste en el barco... Empiezo a preguntarme si no sería una especie de llamado. De todos modos, me alegra tenerte con nosotros.
+TEXT_KINGKD001_05309_KETENRAMM_000_601	En cuanto a la isla, pensé que estaba deshabitada. No esperaba encontrarme con esta... aldea fantasma.
+TEXT_KINGKD001_05309_KETENRAMM_100_601	Lo más probable es que alguna barrera rodee la isla para mantenernos aquí.
+TEXT_KINGKD001_05309_KETENRAMM_000_602	Dicho eso, quizá las corrientes aetherial puedan eludir la barrera, si es que logras conectarte a una. Vale la pena intentarlo si la aventura te llama a otra parte.
+TEXT_KINGKD001_05309_KETENRAMM_000_604	En fin, por más que me gustaría reunir a la tripulación y meternos de lleno, primero conviene asegurar el perímetro.
+TEXT_KINGKD001_05309_KETENRAMM_000_605	Ah, y pensé en darte un diario para que anotes lo que encuentres por el camino.
+TEXT_KINGKD001_05309_KETENRAMM_000_606	Se me ocurre que más de uno agradecería un registro de tus hazañas aquí. Llena esas páginas y dales algo que les dé gusto leer.
+TEXT_KINGKD001_05309_SYSTEM_000_607	Si quieres volver a Tuliyollal en cualquier momento durante la expedición, interactúa con la corriente aetherial junto al barco amarrado. La corriente correspondiente en High Tide Harbor te lleva de vuelta a Occult Crescent.
+TEXT_KINGKD001_05309_SYSTEM_000_608	<colortype(500)><edgecolortype(501)>Occult Record<edgecolortype(0)><colortype(0)> ya está disponible en Collection, en la sección Duty del menú principal.
+TEXT_KINGKD001_05309_SYSTEM_000_609	Se agregarán al registro nuevas entradas de términos y personajes destacados a medida que explores Occult Crescent.

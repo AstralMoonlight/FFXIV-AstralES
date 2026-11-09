@@ -1,0 +1,156 @@
+key	text
+TEXT_STMBDY501_03086_SEQ_00	Kozakura trabaja como si estuviera poseída.
+TEXT_STMBDY501_03086_SEQ_01	De visita en el enclave conoces a Kozakura, alta funcionaria del Shazenkai, que te explica el propósito de su organización: facilitar la reconstrucción y la revitalización del asentamiento. Para ayudarlos en su empresa, ella y Lord Hien te piden que viajes a Revenant's Toll, refugio de los domanos en Eorzea, y los invites a volver a su patria. Por supuesto, el asunto también debe hablarse con Slafborn, del Adventurers' Guild.
+TEXT_STMBDY501_03086_SEQ_02	Como llegaron a ver a los domanos como familia, a la gente de Revenant's Toll le dará pena verlos partir. Aun así, es una ocasión feliz, y Slafborn está ansioso por hacer todo lo posible para despedirlos. Además, dice que animará a los trabajadores de la frontera eorzeanos a acompañar a los domanos a Yanxia, para ayudar a sus camaradas del Lejano Oriente en la reconstrucción.
+TEXT_STMBDY501_03086_SEQ_03	Hozan y sus hermanos domanos están felices de saber que por fin podrán volver a su patria. Sin embargo, la alegría pronto da paso a la preocupación, porque no se atreven a partir sin corresponder como es debido a la bondad de los muchos eorzeanos a quienes tanto deben. Al verlo, Hozan declara que se asegurará de que tengan tiempo suficiente para poner en orden sus asuntos personales y profesionales. Mientras tanto, te pide que los ayudes con los últimos preparativos y estés disponible por si él o algún otro domano necesita consultarte.
+TEXT_STMBDY501_03086_SEQ_04	Las preguntas de los domanos son muchas y variadas, pero las respondes lo mejor que puedes, y sus asuntos se resuelven en consecuencia. Sin duda hubo avances, pero queda muchísimo por hacer...
+TEXT_STMBDY501_03086_TODO_00	Entrega la carta de Hien a Slafborn en Revenant's Toll.
+TEXT_STMBDY501_03086_TODO_01	Habla con Hozan.
+TEXT_STMBDY501_03086_TODO_02	Espera a que los domanos busquen tu consejo.
+TEXT_STMBDY501_03086_KOZAKURA_000_000	¡Oh, <split(<string(gstr1)>, ,1)>! Es un raro honor recibir a <if(gnum4,una heroína,un héroe)> como usted.
+TEXT_STMBDY501_03086_KOZAKURA_000_001	Permítame presentarme. Me llamo Kozakura, y llevo las cuentas del Shazenkai.
+TEXT_STMBDY501_03086_KOZAKURA_000_002	¡Ah, pero seguro no conoce nuestra organización! Perdón, perdón. Por ahora nos dedicamos sobre todo a facilitar la reconstrucción y la revitalización del enclave.
+TEXT_STMBDY501_03086_KOZAKURA_000_003	¡Ni falta hace decir que tenemos mucho trabajo por delante! De hecho, es muy afortunado que esté aquí. Pensaba solicitar su ayuda...
+TEXT_STMBDY501_03086_KOZAKURA_000_004	Ah, tiene razón, cuesta conversar mirándose los pies. Y sin duda le vendría bien una explicación.
+TEXT_STMBDY501_03086_KOZAKURA_000_005	Como quizá sepa, el enclave fue una vez el centro económico y cultural de Doma. Por desgracia, sufrió una devastación terrible a manos del imperio, durante y después de la fallida rebelión de años atrás.
+TEXT_STMBDY501_03086_KOZAKURA_000_006	Para que él y otras ruinas fueran prueba de la locura de resistirse, el virrey imperial prohibió reconstruirlo en serio. Por supuesto, eso ya no es problema.
+TEXT_STMBDY501_03086_KOZAKURA_000_007	¡Por fin somos libres de reconstruir el enclave, de restaurar el corazón de nuestra antes gran nación y de mostrar al mundo que Doma sigue viva!
+TEXT_STMBDY501_03086_KOZAKURA_000_008	Pero como dije, tenemos mucho trabajo por delante. Tenemos fondos y recursos materiales limitados, y además nos faltan artesanos hábiles...
+TEXT_STMBDY501_03086_KOZAKURA_000_009	Lo que me lleva al asunto del que quería hablarle: nuestros hermanos y hermanas de Eorzea, los refugiados que se asentaron en Revenant's Toll.
+TEXT_STMBDY501_03086_KOZAKURA_000_010	Tengo entendido que han trabajado muy de cerca con los dirigentes locales para construir y mantener buena parte del asentamiento. Muchos ya tenían oficio antes de irse, y los que no, seguro que lo aprendieron para ganarse el pan.
+TEXT_STMBDY501_03086_KOZAKURA_000_011	Si volvieran a casa y nos ayudaran a reconstruir, sería una enorme bendición. ¿Estaría <if(gnum4,dispuesta,dispuesto)> a hablar con ellos en nuestro nombre?
+TEXT_STMBDY501_03086_HIEN_000_012	¿Decidió pasar primero por el Shazenkai, <split(<string(gstr1)>, ,1)>?
+TEXT_STMBDY501_03086_HIEN_000_013	Ah, <split(<string(gstr1)>, ,1)>. ¿Le interesa el Shazenkai?
+TEXT_STMBDY501_03086_HIEN_000_014	Bueno, este es tan buen momento como cualquier otro para hablar del asunto.
+TEXT_STMBDY501_03086_HIEN_000_015	Les estoy inmensamente agradecido a usted y a los Scions of the Seventh Dawn por recibir a Yugiri y a mi gente en su hora de necesidad.
+TEXT_STMBDY501_03086_HIEN_000_016	Como beneficiarios de esa bondad, han hecho todo lo posible por corresponderles a ustedes y a la gente de Revenant's Toll. Sin embargo, nosotros también tenemos una responsabilidad.
+TEXT_STMBDY501_03086_HIEN_000_017	Kozakura, si eres tan amable.
+TEXT_STMBDY501_03086_KOZAKURA_000_018	¡Sí, mi señor!
+TEXT_STMBDY501_03086_HIEN_000_019	Les enviaremos un regalo considerable como gesto de gratitud y buena voluntad. Sin embargo, quisiera que esta carta llegara antes al representante del Adventurers' Guild.
+TEXT_STMBDY501_03086_HIEN_000_020	Sería un honor que usted se la entregara en persona.
+TEXT_STMBDY501_03086_HIEN_000_021	¡Excelente! Sabía que podía contar con usted, <if(gnum4,amiga mía,amigo mío)>.
+TEXT_STMBDY501_03086_HIEN_000_022	Perdona la interrupción, Kozakura. Espero con ganas ver tus avances.
+TEXT_STMBDY501_03086_KOZAKURA_000_023	Ay, Dios... Espero que no lo decepcionemos...<br>En fin, no le entretengo más. ¡Gracias de nuevo por la ayuda, y buen viaje!
+TEXT_STMBDY501_03086_KOZAKURA_000_030	El pedido de Lord Hien tiene prioridad, desde luego, pero ¿quizá pueda aprovechar la oportunidad para mencionar el regreso de los refugiados?
+TEXT_STMBDY501_03086_SLAFBORN_000_040	¿Qué pasa, <split(<string(gstr1)>, ,1)>? ¿Un asunto de los domanos?
+TEXT_STMBDY501_03086_SLAFBORN_000_041	Ya veo, ya veo... Lord Hien no tenía por qué tomarse tantas molestias, pero sé muy bien cuánto se preocupan nuestros amigos del Lejano Oriente por las formas.
+TEXT_STMBDY501_03086_SLAFBORN_000_042	En cuanto a la repatriación de los refugiados, no voy a mentir. Llegamos a verlos como familia, y nos dará pena verlos partir, sobre todo a muchos de los otros trabajadores de la frontera...
+TEXT_STMBDY501_03086_SLAFBORN_000_043	Así que vamos a hacer algo mejor: voy a pedirles a sus camaradas eorzeanos que acompañen a los domanos en su viaje, para que ellos también ayuden a reconstruir el enclave. ¡Espero que muchos aprovechen la oportunidad!
+TEXT_STMBDY501_03086_SLAFBORN_000_044	Enviar a tanta gente sale caro, desde luego, pero gracias a la generosidad de Lord Hien parece que nos sobran fondos.
+TEXT_STMBDY501_03086_SLAFBORN_000_045	Cuesta imaginar el Toll sin los refugiados domanos. Ayudaron a hacerlo lo que es hoy...
+TEXT_STMBDY501_03086_SLAFBORN_000_046	Bah, ¿qué estoy diciendo? ¡Es una ocasión feliz! ¡Ve a contarle la noticia a Hozan! Seguro se pondrá feliz.
+TEXT_STMBDY501_03086_SLAFBORN_000_050	Hozan debería estar trabajando afuera de la House. Mientras antes se lo digas, mejor. ¡Tienen muchos preparativos por hacer!
+TEXT_STMBDY501_03086_HOZAN_000_060	Qué gusto verle, <if(gnum4,amiga mía,amigo mío)>, aunque no le esperaba. Parece que tiene algo importante que decir. ¿Es así?
+TEXT_STMBDY501_03086_HOZAN_000_061	¡Yo... no sé qué decir! ¿Volver a Doma? ¿De verdad llegó por fin el día?
+TEXT_STMBDY501_03086_HOZAN_000_062	Espere aquí mientras llamo a los demás. Esto les concierne a todos...
+TEXT_STMBDY501_03086_HOMEI_000_063	¡Por todos los cielos! ¿Y ya están haciendo los arreglos para nuestro regreso?
+TEXT_STMBDY501_03086_HOZAN_000_064	¿Por qué esa cara larga, Higiri? ¡Esto es motivo de celebración!
+TEXT_STMBDY501_03086_HIGIRI_000_065	...Lo es, sí. Como todos ustedes, soñé con este día desde el momento en que dejamos Yanxia...
+TEXT_STMBDY501_03086_HIGIRI_000_066	Pero ahora que llegó, no puedo evitar pensar en aquellos a quienes tanto debemos. Sobre todo en Slafborn...
+TEXT_STMBDY501_03086_DOWARE_000_067	Así es. Aunque pudiera irme en este mismo momento, no lo haría. No antes de agradecerle a la gente de aquí todo lo que ha hecho por nosotros.
+TEXT_STMBDY501_03086_DOWARE_000_068	Recuerdo cuando llegamos a esta tierra y supimos de sus problemas. Aunque me decepcionó, entendí por qué nadie nos daba refugio. ¿Quiénes éramos nosotros? ¿Por qué arriesgar tanto por unos desconocidos?
+TEXT_STMBDY501_03086_DOWARE_000_069	Pero este lugar y esta gente fueron distintos. Cuando todos nos rechazaban, Revenant's Toll nos recibió con los brazos abiertos.
+TEXT_STMBDY501_03086_DOWARE_000_070	Amo a Doma y a Lord Hien con todo mi corazón, y lo único que deseo es volver a ayudar a reconstruir. ¡Pero te lo ruego, Hozan: primero debemos hacer todo lo posible por corresponder a su infinita bondad!
+TEXT_STMBDY501_03086_HOZAN_000_071	Nunca fue mi intención que desapareciéramos en la noche como ladrones y vagabundos. Todo lo que dijiste es justo y verdadero.
+TEXT_STMBDY501_03086_HOZAN_000_072	Terminaremos en lo posible todos los trabajos que emprendimos. Eso ni falta hace decirlo, estoy seguro.
+TEXT_STMBDY501_03086_HOZAN_000_073	Hablaré con Slafborn para asegurarme de que tengamos suficientes días para preparar el viaje. Mientras tanto, los animo a todos a preparar regalos y lo demás.
+TEXT_STMBDY501_03086_HOMEI_000_074	¡Muy bien, muy bien! No estaría bien irnos sin despedirnos como es debido, o viviríamos bajo una nube de remordimiento.
+TEXT_STMBDY501_03086_HOMEI_000_075	A mi edad, uno agradece cada oportunidad de poner sus asuntos en orden. ¡Después de todo, quizá no aguante el viaje a casa, y mucho menos otro a Eorzea!
+TEXT_STMBDY501_03086_HOZAN_000_076	¡Ja! Con su constitución, padre, no me sorprendería que nos enterrara a todos.
+TEXT_STMBDY501_03086_HOZAN_000_077	Hmm... Si no tiene obligaciones urgentes, <split(<string(gstr1)>, ,1)>, ¿podría pedirle que nos ayude con los últimos preparativos?
+TEXT_STMBDY501_03086_HOZAN_000_078	Como todo esto es bastante repentino, muchos de los nuestros quizá necesiten una segunda opinión sobre un regalo de despedida o alguna otra cosa. Solo le pido que esté disponible para esas consultas. ¿Le parece bien?
+TEXT_STMBDY501_03086_HOZAN_000_079	Gracias, <if(gnum4,amiga mía,amigo mío)>. Le buscaremos cerca de la puerta norte.
+TEXT_STMBDY501_03086_HOZAN_000_080	¡Rápido, todos! ¡No hagamos esperar a <split(<string(gstr1)>, ,1)>!
+TEXT_STMBDY501_03086_SYSTEM_000_090	Ayudar a los refugiados domanos con sus últimos preparativos llevará varios minutos. Quizá quieras cancelar cualquier registro pendiente en el Duty Finder.
+TEXT_STMBDY501_03086_Q1_000_091	¿Esperar a los refugiados domanos?
+TEXT_STMBDY501_03086_HOMEI_000_092	¡Qué amable de su parte dedicar tiempo a ayudarnos con algo tan trivial! Sin duda tiene muchos otros asuntos importantes que atender...
+TEXT_STMBDY501_03086_HOMEI_000_093	En fin, quería pedirle su opinión sobre un regalo que deseo hacerle a un querido amigo antes de irme: Isildaure.
+TEXT_STMBDY501_03086_HOMEI_000_094	Recuerda a Isildaure, ¿verdad? ¿El abuelo de Alianne? Aunque es mayor que yo, ellos dos seguían yendo a grandes aventuras antes de unirse a los Scions. Ah, cuánto envidio su vigor.
+TEXT_STMBDY501_03086_HOMEI_000_095	Aunque no hemos hecho mucho más que tomar té y hablar de nuestros hijos, he apreciado su compañía. Lo voy a extrañar, de verdad...
+TEXT_STMBDY501_03086_HOMEI_000_096	Por desgracia, en los últimos días su cuerpo ha empezado a fallarle, así que pensaba regalarle algo para su salud. ¿Tiene alguna sugerencia?
+TEXT_STMBDY501_03086_Q2_000_097	¿Qué vas a decir?
+TEXT_STMBDY501_03086_A2_000_098	¿Gotas para los ojos, quizá?
+TEXT_STMBDY501_03086_A2_000_099	¿Un tónico para la memoria?
+TEXT_STMBDY501_03086_A2_000_100	Cualquier cosa para la espalda servirá.
+TEXT_STMBDY501_03086_HOMEI_000_101	¿Oh? ¿A Isildaure le falla la vista? Nunca dijo nada de eso... aunque supongo que usted lo conoce desde hace más tiempo.
+TEXT_STMBDY501_03086_HOMEI_000_102	Muy bien, hablaré con uno de los mercaderes y compraré unas gotas para los ojos. Se lo agradezco...
+TEXT_STMBDY501_03086_HOMEI_000_104	¿Isildaure? ¿Olvidadizo? ¿Está <if(gnum4,segura,seguro)>? Por lo que he visto, su memoria es impecable, pero quizá usted sepa algo que yo no...
+TEXT_STMBDY501_03086_HOMEI_000_105	Muy bien, hablaré con uno de los mercaderes y veré si tiene un tónico adecuado. Se lo agradezco...
+TEXT_STMBDY501_03086_SYSTEM_000_106	Aunque Homei acepta tu sugerencia, su ceño fruncido da a entender que no está del todo convencido de que baste...
+TEXT_STMBDY501_03086_HOMEI_000_107	¡Jajaja! Yo pensaba lo mismo, pero me alegra ver que está de acuerdo. Le juro que no pasa un día sin que se queje de la espalda.
+TEXT_STMBDY501_03086_HOMEI_000_108	Es un gran consuelo saber que los Scions conocen bien la condición de sus compañeros. Muestra cuánto se preocupan unos por otros.
+TEXT_STMBDY501_03086_HOMEI_000_109	Bien, debo conseguir los ingredientes para mi remedio casero. ¡Se lo agradezco!
+TEXT_STMBDY501_03086_SYSTEM_000_110	¡Homei se va de muy buen ánimo, satisfecho con tu sugerencia!
+TEXT_STMBDY501_03086_DOWARE_000_111	<if(gnum4,Amiga mía,Amigo mío)>, si tuviera un momento...
+TEXT_STMBDY501_03086_DOWARE_000_112	En el Toll hay muchos intereses a los que debemos bastante, pero hay uno en particular al que sin duda debemos presentar nuestros respetos: Rowena's House of Splendors.
+TEXT_STMBDY501_03086_DOWARE_000_113	La House ha sido una fuente invaluable de bienes y servicios, en asuntos profesionales y personales. Seguro que usted puede decir lo mismo.
+TEXT_STMBDY501_03086_DOWARE_000_114	Así que pensé en despedirme de la... representante con la que más he trabajado. Si, eh, mirara hacia el mostrador junto a la puerta...
+TEXT_STMBDY501_03086_DOWARE_000_115	Hablo de la belleza de cabello negro junto a la puerta. De todas las muchachas de Rowena, ella ha sido... ha sido muy servicial.
+TEXT_STMBDY501_03086_DOWARE_000_116	Sin embargo, hay un problema. ¡Por más que lo intento no recuerdo su nombre! Todos suenan tan parecidos. Quizá sea mi oído domano...
+TEXT_STMBDY501_03086_DOWARE_000_117	Pero seguro usted sabe su nombre, ¿no? Por favor, dígamelo, para que pueda conversar con ella como es debido antes de volver a mi patria.
+TEXT_STMBDY501_03086_Q3_000_118	¿Qué vas a decir?
+TEXT_STMBDY501_03086_A3_000_119	¿Aelina? Creí que se dedicaba a las armas de primal y demás.
+TEXT_STMBDY501_03086_A3_000_120	¿Auriana? No sabía que coleccionabas tomestones.
+TEXT_STMBDY501_03086_A3_000_121	¿Laraina? ¿Desde cuándo coleccionas herramientas rituales?
+TEXT_STMBDY501_03086_A3_000_122	¿G'jusana? ¿Así que te interesan los Zodiac Braves?
+TEXT_STMBDY501_03086_A3_000_123	¿Papana? Ah, ¿así que te interesan <italic(1)>de verdad<italic(0)> los Zodiac Braves?
+TEXT_STMBDY501_03086_DOWARE_000_124	¡Aelina! ¡Esa es! La recordé en cuanto lo dijo.
+TEXT_STMBDY501_03086_DOWARE_000_125	Sabía que tenía razón al preguntarle. ¡Dicen que quizá sea <if(gnum4,la clienta más valiosa,el cliente más valioso)> de la House! En fin, ¡mejor voy a hablar con ella antes de que se me vuelva a olvidar!
+TEXT_STMBDY501_03086_SYSTEM_000_126	¡Doware se va de muy buen ánimo, agradecido por tu ayuda!
+TEXT_STMBDY501_03086_DOWARE_000_127	Hmm... ¿Está <if(gnum4,segura,seguro)>? Ya había oído ese nombre, pero juraría que era otra persona...
+TEXT_STMBDY501_03086_DOWARE_000_128	Ah, a quién quiero engañar. ¡Usted debería saberlo mejor que nadie! En fin, ¡mejor voy a hablar con ella antes de que se me vuelva a olvidar!
+TEXT_STMBDY501_03086_SYSTEM_000_129	Aunque Doware se va de muy buen ánimo, no puedes evitar preguntarte si le diste el nombre equivocado... y qué mal lo recibirán si es así...
+TEXT_STMBDY501_03086_HIGIRI_000_130	¡<split(<string(gstr1)>, ,1)>! ¿Ha visto un Carbuncle andando por ahí?
+TEXT_STMBDY501_03086_HIGIRI_000_131	Durante mi estadía aquí en Revenant's Toll conocí a muchos aventureros, entre ellos una arcanist con un compañero algo desobediente.
+TEXT_STMBDY501_03086_HIGIRI_000_132	Parece que todos los días su Carbuncle se va por su cuenta, ¿sabe?, y hoy no es la excepción...
+TEXT_STMBDY501_03086_HIGIRI_000_133	Por suerte, responde a su nombre, y curiosamente con más ganas cuando lo llama alguien que no es su dueña. El problema es que no logro recordar cuál era. ¿El de alguna piedra preciosa, creo?
+TEXT_STMBDY501_03086_Q4_000_134	¿Qué vas a decir?
+TEXT_STMBDY501_03086_A4_000_135	Emerald. Definitivamente Emerald.
+TEXT_STMBDY501_03086_A4_000_136	Ah, debes referirte a Ruby.
+TEXT_STMBDY501_03086_A4_000_137	Apostaría a que es Topaz.
+TEXT_STMBDY501_03086_A4_000_138	Si no es Obsidian, debería serlo.
+TEXT_STMBDY501_03086_HIGIRI_000_139	¡Qué tonta soy! Era un Emerald Carbuncle, ¿no? ¡Claro que le pondría ese nombre!
+TEXT_STMBDY501_03086_HIGIRI_000_140	¡Gracias por su ayuda, <split(<string(gstr1)>, ,1)>! ¡Me uno a ella en la búsqueda ahora mismo!
+TEXT_STMBDY501_03086_SYSTEM_000_141	Higiri se va de muy buen ánimo y empieza enseguida a gritar "Emerald". Por desgracia, no aparece ningún Carbuncle extraviado...
+TEXT_STMBDY501_03086_HIGIRI_000_142	¡Ruby! ¿Cómo pude olvidarlo? ¡Le puso ese nombre por la joya roja que tiene en la frente!
+TEXT_STMBDY501_03086_HIGIRI_000_143	¡Gracias por su ayuda, <split(<string(gstr1)>, ,1)>! ¡Me uno a ella en la búsqueda ahora mismo!
+TEXT_STMBDY501_03086_SYSTEM_000_144	Higiri se va de muy buen ánimo y empieza enseguida a gritar "Ruby". ¡Y en efecto, pronto aparece el Carbuncle extraviado!
+TEXT_STMBDY501_03086_HIGIRI_000_145	Hmm... ¿era Topaz? Por lo que recuerdo, el Carbuncle en sí era más bien esmeralda... pero quizá tenía sus razones para ponerle un nombre sin sentido. Confiaré en usted.
+TEXT_STMBDY501_03086_HIGIRI_000_146	¡Gracias por su ayuda, <split(<string(gstr1)>, ,1)>! ¡Me uno a ella en la búsqueda ahora mismo!
+TEXT_STMBDY501_03086_SYSTEM_000_147	Higiri se va de muy buen ánimo y empieza enseguida a gritar "Topaz". Por desgracia, no aparece ningún Carbuncle extraviado...
+TEXT_STMBDY501_03086_HIGIRI_000_148	¡Obsidian! ¡Ahora sí, ya había oído ese nombre! ¡Sí, seguro que es ese!
+TEXT_STMBDY501_03086_HIGIRI_000_149	¡Gracias por su ayuda, <split(<string(gstr1)>, ,1)>! ¡Me uno a ella en la búsqueda ahora mismo!
+TEXT_STMBDY501_03086_SYSTEM_000_150	Higiri se va de muy buen ánimo y empieza enseguida a gritar "Obsidian". Por desgracia, no aparece ningún Carbuncle extraviado...
+TEXT_STMBDY501_03086_HOZAN_000_151	¡Qué suerte que siga aquí! Mi padre me contó cómo lo ayudó, y esperaba que pudiera hacer lo mismo por mí.
+TEXT_STMBDY501_03086_HOZAN_000_152	Busco su sabiduría respecto a Slafborn, del Adventurers' Guild, que nos ayudó a conseguir un lugar aquí en Revenant's Toll.
+TEXT_STMBDY501_03086_HOZAN_000_153	Gracias a él pudimos trabajar codo a codo con los trabajadores de la frontera para levantar estos muros y colocar estos adoquines. Nos dieron comida y techo, es cierto, pero lo más importante es que nos dieron un propósito.
+TEXT_STMBDY501_03086_HOZAN_000_154	Por supuesto, ya le hemos expresado nuestra gratitud muchas veces. Yo mismo le regalé a Slafborn una daga domana, que según me dicen aprecia mucho...
+TEXT_STMBDY501_03086_HOZAN_000_155	Pero ahora que debemos separarnos, siento que debemos hacer un último gran gesto: un regalo más elaborado y caro, quizá, o... Bueno, ¿usted qué opina?
+TEXT_STMBDY501_03086_Q5_000_156	¿Qué vas a decir?
+TEXT_STMBDY501_03086_A5_000_157	Algo llamativo y ostentoso, con campanitas.
+TEXT_STMBDY501_03086_A5_000_158	¿Y si simplemente siguen en contacto?
+TEXT_STMBDY501_03086_HOZAN_000_159	¿C-Campanitas...? Lejos de mí suponer nada, pero no creí que a Slafborn le gustaran esas cosas... aunque quizá tenga razón.
+TEXT_STMBDY501_03086_HOZAN_000_160	Con nuestros recursos limitados quizá sea difícil comprar algo satisfactorio, pero haremos lo que podamos. Gracias por su franqueza.
+TEXT_STMBDY501_03086_SYSTEM_000_161	Aunque Hozan acepta tu sugerencia, su ceño fruncido da a entender que no está del todo convencido de que baste...
+TEXT_STMBDY501_03086_HOZAN_000_162	¿De verdad? Nos alegraría mantener la relación con Slafborn y el Toll, pero ¿de verdad cree que eso por sí solo basta?
+TEXT_STMBDY501_03086_HOZAN_000_163	Hmm... Quizá tenga razón. Considerando todo lo que ha hecho para aliviar nuestra carga, gastar sumas exorbitantes en regalos de despedida quizá solo lo frustre.
+TEXT_STMBDY501_03086_HOZAN_000_164	Además, cualquier cosa que compráramos vendría de los mercados eorzeanos. Mejor esperar a volver a nuestra patria y enviarles algo más domano. ¿Caquis secos de mi aldea, quizá?
+TEXT_STMBDY501_03086_SYSTEM_000_165	¡A Hozan le brillan los ojos al pensar en las posibilidades, claramente satisfecho con tu sugerencia!
+TEXT_STMBDY501_03086_HOZAN_000_166	¿Cómo van sus esfuerzos, hermanos y hermanas?
+TEXT_STMBDY501_03086_HOZAN_000_167	¡Según todos, no pudo haber salido mejor! ¡Y se lo debemos todo a usted, <if(gnum4,amiga mía,amigo mío)>!
+TEXT_STMBDY501_03086_HOZAN_000_168	¡Estamos en deuda eternamente con usted!
+TEXT_STMBDY501_03086_HOZAN_000_169	Según todos, salió bastante bien, y tenemos que agradecérselo a usted. Es demasiado amable, <if(gnum4,amiga mía,amigo mío)>.
+TEXT_STMBDY501_03086_HOZAN_000_170	A algunos todavía les cuesta poner sus asuntos en orden, pero otros han tenido más éxito. Por suerte, deberíamos tener suficiente tiempo antes de partir...
+TEXT_STMBDY501_03086_HOZAN_000_171	Hmm... Supongo que no me puede sorprender. Todo esto es bastante repentino, y es natural que nos cueste. Solo me queda esperar que logremos poner en orden nuestros asuntos antes de partir...
+TEXT_STMBDY501_03086_HIGIRI_000_172	Hozan, iba a reunirse con Slafborn una última vez, ¿no?
+TEXT_STMBDY501_03086_HIGIRI_000_173	Esperábamos que nos permitiera acompañarlo. Si es así, por favor avísenos cuando vaya.
+TEXT_STMBDY501_03086_HOZAN_000_174	Tengo unos pocos asuntos que atender antes de hablar con Slafborn, pero no debería llevarme mucho... ¿Hm?
+TEXT_STMBDY501_03086_HOZAN_000_175	Esa es Rhesh Polaali, ¿no? Antes de los Crystal Braves. Otra alma bondadosa a la que le debemos mucho. Parece que anda buscando algo o a alguien...
+TEXT_STMBDY501_03086_HOZAN_000_176	<split(<string(gstr1)>, ,1)>, sé que no me corresponde pedirlo, pero ¿podría ayudarla? Lo haría yo si pudiera, pero con nuestro viaje inminente...
+TEXT_STMBDY501_03086_SYSTEM_000_177	Para aceptar la siguiente misión, primero debes completar la misión del Doman Adventurers' Guild "Short Arms of the Law".
+TEXT_STMBDY501_03086_SYSTEM_000_178	Puedes hablar con Rhesh Polaali para aceptar estas misiones secundarias, empezando por "Toll Booty".
+TEXT_STMBDY501_03086_HOZAN_000_179	Tengo unos pocos asuntos que atender antes de hablar con Slafborn, pero no debería llevarme mucho tiempo... Ah, sí, recuerdo que los niños buscaban algo. No conozco los detalles, pero parecía importante para ellos.
+TEXT_STMBDY501_03086_HOZAN_000_180	<split(<string(gstr1)>, ,1)>, sé que ya le he pedido bastante, pero ¿podría ayudar a mi Yozan con su pequeña aventura? Si no los dejamos terminar antes de irnos, nunca me lo perdonarán...
+TEXT_STMBDY501_03086_SYSTEM_000_181	Para aceptar la siguiente misión, primero debes completar la misión del Doman Adventurers' Guild "Short Arms of the Law".
+TEXT_STMBDY501_03086_HOZAN_000_182	Dicho eso, quizá deberíamos hablar con Slafborn más temprano que tarde. No se me ocurre ningún motivo para retrasarlo.
+TEXT_STMBDY501_03086_HOZAN_000_183	<split(<string(gstr1)>, ,1)>, sé que ya le he pedido bastante, pero ¿podría acompañarme también?

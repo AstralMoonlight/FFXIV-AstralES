@@ -1,0 +1,128 @@
+key	text
+TEXT_AKTKVA301_04789_SEQ_00	Shallow Moor tiene un trabajo para <if(gnum4,cierta aventurera,cierto aventurero)>.
+TEXT_AKTKVA301_04789_SEQ_01	Los gleaners recibieron un trabajo ocasional con tu nombre, literalmente. El alchemist Pasasun, en nombre del pescador Matsya, pide ayuda para sacar a su amigo de un problema que no especifica. Shallow Moor te informa que seguramente encontrarás al alchemist en el Great Work, si decides atender su llamado.
+TEXT_AKTKVA301_04789_SEQ_02	Pasasun te lleva enseguida con Matsya, sobre cuya cabeza está posada una misteriosa ave que domina la lengua común. Kalika, como se hace llamar, viene de una isla al sur llamada Aloalo, que durante mucho tiempo fue un paraíso verde, hogar de muchos animales y hombres. Sin embargo, desde la abrupta partida de sus habitantes hace un siglo, los animales han comido y criado sin control, y ahora hordas de bestias voraces amenazan con destruir el equilibrio de la naturaleza. Por eso Kalika desafió las olas para buscar a un cazador valiente y leal, un héroe que, según proclama, no es otro que Matsya. Como era de esperar, Matsya no está de acuerdo y te ruega que lo acompañes en una expedición a Aloalo. Aceptas, y Pasasun se va a contratar un barco que los lleve a la isla, y te pide que te reúnas con él en Yedlihmad cuando estés <if(gnum4,lista,listo)> para partir.
+TEXT_AKTKVA301_04789_SEQ_03	Pasasun te informa que tres bandidos robaron un barco de los muelles de Yedlihmad poco antes de tu llegada. Aunque no era la embarcación que contrató el alchemist, y por lo tanto su pérdida no afectará tus planes, el momento del robo es muy curioso. De todos modos, debes centrarte en Aloalo y en el viaje con tu compañero, un pescador convertido en héroe.<br><br>※Puedes acceder a Aloalo Island desde el V&C Dungeon Finder.<br>※Para abrir el V&C Dungeon Finder, habla con la patrona de Yedlihmad o elige la opción que está en Duty, en el menú principal.
+TEXT_AKTKVA301_04789_SEQ_04	Desafías las selvas verdes de Aloalo, iluminas sus secretos y restableces el equilibrio natural. Ahora que volviste de tu viaje, puedes buscar a Pasasun en Yedlihmad para contarle tu experiencia en la isla de los mares del sur.
+TEXT_AKTKVA301_04789_SEQ_05	Pasasun está feliz de recibirlos a ti y a Matsya, y le cuentas la historia de su emocionante expedición. Aunque al final la aventura le pareció gratificante al Arkasodara, se siente aliviado de volver a casa... hasta que Kalika señala que una sola cacería no bastará para tener a raya a las bestias. El siervo del Speaker les ruega a ambos que visiten la isla muchas veces más, y la parte aún sin explorar y su resistente fauna garantizan que Pasasun tendrá mucho que anotar por muchos días. Pero antes de embarcarte en la próxima expedición, lo prudente es informar de tu éxito a Shallow Moor.
+TEXT_AKTKVA301_04789_SEQ_06	Shallow Moor escucha tu historia con gran interés, y no puede reprimir una sonrisa cuando le cuentas de la búsqueda de peces de Matsya para Nidhana. Te felicita por un trabajo bien hecho y te anima a volver a Aloalo Island, por el bien de la alquimia y del amor no correspondido.
+TEXT_AKTKVA301_04789_TODO_00	Habla con Pasasun en el Great Work.
+TEXT_AKTKVA301_04789_TODO_01	Habla con Pasasun en Yedlihmad.
+TEXT_AKTKVA301_04789_TODO_02	Entra en Aloalo Island.
+TEXT_AKTKVA301_04789_TODO_03	Habla con Pasasun.
+TEXT_AKTKVA301_04789_TODO_04	Habla con Shallow Moor en Old Sharlayan.
+TEXT_AKTKVA301_04789_SHALLOWMOOR_000_000	¡<split(<string(gstr1)>, ,1)>! ¿Con ganas de un trabajo ocasional? Llegas en el momento justo, porque hace un rato recibí un pedido de <italic(1)>tu<italic(0)> ayuda.
+TEXT_AKTKVA301_04789_SHALLOWMOOR_000_001	Lo escribió Pasasun, un alchemist thavnairiano, en nombre de un conocido tuyo. ¿Cómo se llamaba...?
+TEXT_AKTKVA301_04789_SHALLOWMOOR_000_002	...¡Ah, sí, Matsya! ¿Te suena, espero?
+TEXT_AKTKVA301_04789_SHALLOWMOOR_000_003	Bien, bien. Parece que tu amigo el pescador está en un aprieto, y este Pasasun cree que tú eres la persona indicada para sacarlo de ahí. Siempre que tengas lugar en tu agenda, claro.
+TEXT_AKTKVA301_04789_Q1_000_004	¿Qué vas a decir?
+TEXT_AKTKVA301_04789_A1_000_001	Con gusto ayudaré a un amigo en apuros, sobre todo a uno con quien tengo una deuda.
+TEXT_AKTKVA301_04789_A1_000_002	No querrá que venda otra vez su mercancía, ¿verdad...?
+TEXT_AKTKVA301_04789_SHALLOWMOOR_000_005	Entonces, ¡eso es un "sí"! ¡Gracias, <split(<string(gstr1)>, ,1)>!
+TEXT_AKTKVA301_04789_SHALLOWMOOR_000_006	No sabría decirte, aunque habría pensado que alguien con <italic(1)>tu<italic(0)> respaldo podría venderle cristales de hielo a los sprites de fuego.
+TEXT_AKTKVA301_04789_SHALLOWMOOR_000_007	Yo no conozco los detalles del pedido, pero Pasasun te explicará todo con gusto. Creo que lo encontrarás en el Great Work.
+TEXT_AKTKVA301_04789_SHALLOWMOOR_000_008	¡Que el trabajo esté libre de trabas, tropiezos y tormentos!
+TEXT_AKTKVA301_04789_PASASUN_000_010	Ah, debes ser <split(<string(gstr1)>, ,1)>. ¿Te mandaron los gleaners?
+TEXT_AKTKVA301_04789_PASASUN_000_011	Muy bien. No tienes idea del alivio que siento de que hayas venido.
+TEXT_AKTKVA301_04789_PASASUN_000_012	Como habrás adivinado, soy Pasasun. Trabajo de alchemist aquí en el Great Work, y Matsya es uno de mis amigos más viejos y queridos.
+TEXT_AKTKVA301_04789_PASASUN_000_013	Su problema ha resultado bastante difícil de resolver. Aun así, no quiere pedirte ayuda...
+TEXT_AKTKVA301_04789_PASASUN_000_014	Así que me encargué yo de contactarte sin que él lo supiera. Por su bien y por el del pequeñito que el destino trajo a nuestras vidas.
+TEXT_AKTKVA301_04789_PASASUN_000_015	Vendrá pronto a vender su última pesca, y será la oportunidad perfecta para convencerlo de que necesitamos tu ayuda.
+TEXT_AKTKVA301_04789_PASASUN_000_016	Llamaremos su atención si esperamos afuera. Sígueme, <split(<string(gstr1)>, ,1)>.
+TEXT_AKTKVA301_04789_MATSYA_000_020	¿Es... <split(<string(gstr1)>, ,1)>? Vaya, no sabía que usted y Pasasun se conocían.
+TEXT_AKTKVA301_04789_KALIKA_000_021	(-Ave parlanchina-)Maestro Matsya, ¿quién es <if(gnum4,esta poderosa cazadora,este poderoso cazador)>? ¡Sus brazos son raíces gruesas y fuertes, a diferencia de las blandas algas de Pasasun, que se marchitan al sol!
+TEXT_AKTKVA301_04789_PASASUN_000_022	Has de saber que soy alchemist de oficio: trabajo con la mente, no con el cuerpo. Y debo recordarte que fue mi conocimiento el que te permitió recuperar la salud. Seguro que un poco de respeto no es mucho pedir...
+TEXT_AKTKVA301_04789_PASASUN_000_023	Por tu cara, veo que entendiste los comentarios de Kalika. Es el pequeñito del que te hablé. A pesar de su... naturaleza franca, Matsya y yo le tomamos mucho cariño.
+TEXT_AKTKVA301_04789_PASASUN_000_024	Te pido disculpas por contactar a <split(<string(gstr1)>, ,1)> sin consultarte antes. Sé que no querías cargar<if(gnum4,la,lo)> con estos problemas, pero me temo que no veo otra salida.
+TEXT_AKTKVA301_04789_MATSYA_000_025	Bueno, ya que vino hasta aquí, supongo que sería tonto de mi parte no contarle todo. Si es que quiere oírlo, claro.
+TEXT_AKTKVA301_04789_MATSYA_000_026	Muy bien. Hace varios días encontré esta ave pequeñita en la orilla, inconsciente y respirando débilmente. Pasasun y yo la acogimos y la cuidamos día y noche, sin saber si despertaría. Por suerte, despertó, y entonces, para nuestra sorpresa, habló: "Vayan a las islas del sur...".
+TEXT_AKTKVA301_04789_MATSYA_000_027	Se preguntará qué islas son esas. Kalika, ¿quieres explicárselo?
+TEXT_AKTKVA301_04789_KALIKA_000_028	¡Claro, Maestro Matsya! ¡Su deseo es una orden!
+TEXT_AKTKVA301_04789_KALIKA_000_029	Las "islas de los mares del sur", creo que las llaman los de su especie. Remotas y misteriosas, según dicen.
+TEXT_AKTKVA301_04789_KALIKA_000_030	Yo vengo de allá, de una al oeste llamada Aloalo.
+TEXT_AKTKVA301_04789_KALIKA_000_031	Hace miles de años fue el hogar de un pueblo del que hoy no queda rastro, salvo un gran santuario y la gran estatua del Speaker que se venera en él.
+TEXT_AKTKVA301_04789_KALIKA_000_032	La estatua llevaba incrustada una gema gloriosa que otorgaba vitalidad y belleza a la isla. ¡En ningún otro lugar prosperaba tanto la naturaleza! Mucho después de que desaparecieran los constructores, otros cruzaban el mar para gozar de esa abundancia.
+TEXT_AKTKVA301_04789_KALIKA_000_033	Sin embargo, hace un siglo, del fondo del océano brotaron llamas furiosas que obligaron a los habitantes de Aloalo a huir. Y así los animales, que ya no tenían que temer las flechas de los cazadores, se adueñaron de los dones de la isla.
+TEXT_AKTKVA301_04789_KALIKA_000_034	Mientras Aloalo sanaba, las bestias voraces se multiplicaron y los ríos se llenaron de peces hasta rebosar. Crían y se atiborran sin control, y ni la bendición del Speaker puede evitar que la isla se convierta poco a poco en un yermo.
+TEXT_AKTKVA301_04789_KALIKA_000_035	¡Como siervo del Speaker, me tocó a mí ir a salvar mi querido hogar, así que surqué las olas sobre un coco flotante en busca de un poderoso cazador!
+TEXT_AKTKVA301_04789_KALIKA_000_036	¡Aunque el océano pudo tragarme en cualquier momento, miré al horizonte sin miedo! Tenía fe en que el Speaker me guiaría bien, ¡y tuve razón! ¡El Maestro Matsya es el cazador que salvará Aloalo!
+TEXT_AKTKVA301_04789_MATSYA_000_037	Ahora ve por qué estoy tan angustiado. Solo de pensar en enfrentarme a bestias voraces me tiembla el tronco de miedo.
+TEXT_AKTKVA301_04789_MATSYA_000_038	Pero <italic(1)>usted<italic(0)> podría ser <if(gnum4,la cazadora,el cazador)> que busca nuestro amiguito, y de paso saciar sus ansias de exploración. Lo admito, no le pregunté porque creí que una tarea tan insignificante estaría por debajo de usted, pero...
+TEXT_AKTKVA301_04789_Q2_000_039	¿Qué vas a decir?
+TEXT_AKTKVA301_04789_A2_000_001	Me convenciste con lo de "gran santuario".
+TEXT_AKTKVA301_04789_A2_000_002	Bueno, si fueras sin nadie, no volverías...
+TEXT_AKTKVA301_04789_KALIKA_000_040	¡Si es tan <if(gnum4,consumada,consumado)> como dice el Maestro Matsya, le daría la bienvenida a Aloalo con las alas abiertas! Sin embargo, hay un inconveniente...
+TEXT_AKTKVA301_04789_KALIKA_000_041	Su preocupación por el bienestar del Maestro Matsya es evidente, y me alegraría contar con <if(gnum4,una cazadora tan consumada,un cazador tan consumado)> como me han dicho que es. Sin embargo, hay un inconveniente...
+TEXT_AKTKVA301_04789_KALIKA_000_042	El Maestro Matsya tiene que ir, ¿sabe? El Speaker me guio hasta sus brazos, y esa es una señal que no puedo ignorar.
+TEXT_AKTKVA301_04789_PASASUN_000_043	Siempre he tenido debilidad por las criaturas pequeñas e indefensas. Y aunque no soy hombre de acción, tengo conocimientos de los mares del sur que quizá te sirvan de viento en las velas, por así decirlo.
+TEXT_AKTKVA301_04789_PASASUN_000_044	Muchos de los peces de las islas son apreciados por sus raras propiedades, y serían un excelente regalo para cualquier alchemist. Nidhana quedaría muy impresionada si te atrevieras a aguas desconocidas y le trajeras unos cuantos.
+TEXT_AKTKVA301_04789_MATSYA_000_045	¿U-U-Un regalo? ¿¡Para... Nidhana!?
+TEXT_AKTKVA301_04789_MATSYA_000_046	¡S-Sí, voy! ¡Voy a encontrar el pez más gordo que pueda!
+TEXT_AKTKVA301_04789_MATSYA_000_047	En cuanto a usted, <split(<string(gstr1)>, ,1)>, parece que al final debo cargarle con mis problemas. Sé que es mucho pedir, pero por favor... ¡venga conmigo a Aloalo Island!
+TEXT_AKTKVA301_04789_KALIKA_000_048	¡Maestro Matsya, la determinación le sienta bien! ¡A cada momento estoy más seguro de su éxito!
+TEXT_AKTKVA301_04789_KALIKA_000_049	Ahora, partamos antes de que retroceda esta ola de valor. Aloalo está al sur de aquí, en línea recta como vuela el albatros. ¡La reconocerán por sus copas excepcionalmente frondosas!
+TEXT_AKTKVA301_04789_PASASUN_000_050	No, Kalika, tú te quedas. Tus heridas aún no sanan.
+TEXT_AKTKVA301_04789_KALIKA_000_051	Hmm, es bastante presuntuoso de tu parte darme órdenes, pero tienes razón. Apenas puedo levantar las alas del dolor...
+TEXT_AKTKVA301_04789_PASASUN_000_052	No temas. Tus indicaciones fueron más que suficientes para guiar a <split(<string(gstr1)>, ,1)> y a Matsya a Aloalo Island.
+TEXT_AKTKVA301_04789_PASASUN_000_053	Como no puedo acompañarlos, me encargaré de contratar una embarcación para el viaje. Cuando estén listos para partir, nos reunimos en Yedlihmad.
+TEXT_AKTKVA301_04789_JJHIMEI_000_054	(-Miqo'te enérgica-)¿Oíste eso, Zozone? ¡Una joya más grande que <italic(1)>tú<italic(0)>, esperando a que alguien navegue a esa isla y le dé un nuevo hogar!
+TEXT_AKTKVA301_04789_ZOZONE_000_055	No entendí todos los detalles, J'jhimei, pero sí lo importante. Un tesoro en las islas de los mares del sur, listo para agarrarlo, ¿no?
+TEXT_AKTKVA301_04789_ZOZONE_000_056	Parece que ibas por buen camino con esta caza de chocobos salvajes, Whasbyrm. ¡Los rumores de riquezas locas casi nunca rinden tanto!
+TEXT_AKTKVA301_04789_WHASBYRM_000_057	Sí, pero esos podrían andar detrás de lo mismo. Vamos a tener competencia...
+TEXT_AKTKVA301_04789_JJHIMEI_000_058	¡No te hagas nudos en los calzones por un pescador y su ayudante a sueldo! Estas orejas no son de adorno, ¿sabes? ¡Los oí decir la ubicación exacta!
+TEXT_AKTKVA301_04789_ZOZONE_000_059	Este golpe huele más grande que el de Mealvaan's Gate. ¡Apuesto a que seremos más ricos que los reyes!
+TEXT_AKTKVA301_04789_ZOZONE_000_060	¡Preparen sus cosas, ustedes dos! ¡Nos llevamos el primer esquife que veamos!
+TEXT_AKTKVA301_04789_KALIKA_000_061	Qué cruel que me confiaran este deber sagrado y me obliguen a esperar y rezar por el éxito de otro...
+TEXT_AKTKVA301_04789_BOATER04789_000_062	Pasasun me contó todo. Te llevaré a salvo a esa isla tuya, ¡tienes mi palabra!
+TEXT_AKTKVA301_04789_PASASUN_000_065	Ahí estás. ¿Viste el alboroto de camino hacia acá?
+TEXT_AKTKVA301_04789_PASASUN_000_066	Parece que tres sinvergüenzas enmascarados se escaparon con uno de los barcos más pequeños. La Radiant Host intenta darles caza, pero el mar es inmenso y los ladrones ya están lejos. Demos gracias de que no eligieran <italic(1)>nuestra<italic(0)> embarcación.
+TEXT_AKTKVA301_04789_PASASUN_000_067	Ah, sí. Matsya quería que te dijera que volvió a Akyaali para atar unos cabos sueltos de su trabajo mientras te preparas para partir.
+TEXT_AKTKVA301_04789_PASASUN_000_068	Ahora que llegaste, mandaré aviso. Puede que Kalika y yo nos quedemos, pero eso no significa que no podamos ser útiles.
+TEXT_AKTKVA301_04789_PASASUN_000_069	Le dimos a la patrona las indicaciones para llegar a Aloalo Island, y confía en poder llevarte allá sin problemas. Lo demás depende de ti, <if(gnum4,amiga mía,amigo mío)>.
+TEXT_AKTKVA301_04789_PASASUN_000_070	Sé que sabes cuidarte, pero aun así... ten cuidado, <split(<string(gstr1)>, ,1)>.
+TEXT_AKTKVA301_04789_KALIKA_000_071	¡Mucho me alegra verlos a ambos de vuelta, y además con buena salud!
+TEXT_AKTKVA301_04789_PASASUN_000_075	Qué bueno verte de vuelta, <split(<string(gstr1)>, ,1)>. Me alegra ver que tu viaje a la isla no te dejó ni un rasguño.
+TEXT_AKTKVA301_04789_PASASUN_000_076	Aunque me muero por oír el relato completo, seguro quieres descansar tras una expedición tan agotadora.
+TEXT_AKTKVA301_04789_PASASUN_000_077	Matsya se adelantó a buscar un lugar donde podamos sentarnos a conversar tranquilos. Vamos con él.
+TEXT_AKTKVA301_04789_PASASUN_000_078	Ahora que estamos cómodos, cuéntanos cómo te fue en Aloalo.
+TEXT_AKTKVA301_04789_MATSYA_000_079	¡Había peligro y muerte en cada esquina! Aunque ese aspecto tan sombrío se compensaba en parte con la increíble belleza...
+TEXT_AKTKVA301_04789_MATSYA_000_080	Las aguas alrededor de la isla estaban repletas de peces. Esa abundancia podría tentar a mis colegas, pero la cantidad de naufragios en las costas de Aloalo dejaba claro el gran riesgo que implica.
+TEXT_AKTKVA301_04789_KALIKA_000_081	Los bajíos no son tan distintos de los de Thavnair. Como nuestra valiente patrona, estoy seguro de que sus amigos estarían más capacitados que la mayoría para desafiar las aguas de Aloalo.
+TEXT_AKTKVA301_04789_MATSYA_000_082	¡Cuando vi el árbol altísimo del corazón de la isla, me acordé de Khadga! ¿Los pueblos antiguos vivían bajo sus ramas?
+TEXT_AKTKVA301_04789_KALIKA_000_083	¡Así es! Bajo su sombra acogedora los sabios perfeccionaban ecuaciones complejas. No muy distinto de su Great Work, donde Pasasun templa su conocimiento de la alquimia.
+TEXT_AKTKVA301_04789_MATSYA_000_084	Íbamos por las ruinas de un asentamiento cuando nos atacó una especie de hada. Me preocupa que su risa burlona me persiga en sueños durante muchas noches.
+TEXT_AKTKVA301_04789_KALIKA_000_085	Ah, conozco a esa desagradable criatura. Es creación de otros que se asentaron en Aloalo mucho después de que desaparecieran los antiguos.
+TEXT_AKTKVA301_04789_KALIKA_000_086	Los viajeros venían de una tierra lejana llamada Nym, una nación antes próspera que estaba en su ocaso. Buscaron refugio en las islas del sur porque, según decían, habían sido el hogar de sus antepasados.
+TEXT_AKTKVA301_04789_MATSYA_000_087	Logramos llegar al santuario que describiste. Al entrar en la tranquila arboleda, todos mis miedos se esfumaron...
+TEXT_AKTKVA301_04789_MATSYA_000_088	¡Pero esa calma se hizo añicos cuando la estatua nos atacó! Si <split(<string(gstr1)>, ,1)> no hubiera estado ahí para aplastarla, yo no estaría ante ustedes.
+TEXT_AKTKVA301_04789_KALIKA_000_089	¿¡El Speaker los atacó!? ¡Nunca había oído algo semejante!
+TEXT_AKTKVA301_04789_KALIKA_000_090	Quizá tenga que ver con la joya sagrada de la estatua. Hmm... Parece que hay misterios cuyas respuestas ni yo conozco.
+TEXT_AKTKVA301_04789_MATSYA_000_091	Fue un viaje lleno de vueltas, sorpresas y, además, peces. Me alegra haber sido... obligado a embarcarme con <split(<string(gstr1)>, ,1)>, pero me alegra aún más estar en casa.
+TEXT_AKTKVA301_04789_KALIKA_000_092	Ah, pero confío en que entienda que esta fue solo la primera de muchas, ¿verdad? Una sola cacería no bastará para tener a raya a los muchos depredadores de Aloalo.
+TEXT_AKTKVA301_04789_KALIKA_000_093	No olvide que sus aguas están repletas de peces raros y extraordinarios, todos excelentes regalos para su querida Nidhana. Así que, por favor, ¡prométame que esta expedición no será la última!
+TEXT_AKTKVA301_04789_MATSYA_000_094	S-Sí, claro... pero no me atrevería a desafiar Aloalo solo...
+TEXT_AKTKVA301_04789_MATSYA_000_095	<split(<string(gstr1)>, ,1)>, no quisiera abusar más, pero le agradecería mucho volver a contar con su firme compañía. ¡Por Kalika y por Nidhana!
+TEXT_AKTKVA301_04789_MATSYA_100_095	¡Ay, gracias, gracias! Con suerte, saciará sus ansias de aventura. Sé que las mías se saciarán mil veces.
+TEXT_AKTKVA301_04789_MATSYA_000_096	Solo espero que otros "buscadores de tesoros" no se hayan enterado de las muchas curiosidades de la isla. Esos rufianes y la bestia de madera que nos echaron encima son complicaciones que preferiría no volver a enfrentar.
+TEXT_AKTKVA301_04789_KALIKA_000_097	¿Gente, en Aloalo? Qué raro... por no hablar de esa "bestia de madera". Para dirigir esas construcciones hace falta un conocimiento íntimo de la arcanima...
+TEXT_AKTKVA301_04789_KALIKA_100_097	Quizá esos ladrones estaban un escalón por encima de la chusma común. ¡Quizá acecharon en las sombras mientras yo hablaba sin cuidado de los secretos de Aloalo!
+TEXT_AKTKVA301_04789_PASASUN_000_098	El barco robado de antes... Se lo informaré a la Radiant Host, por si la corazonada de Kalika es correcta.
+TEXT_AKTKVA301_04789_MATSYA_100_098	Gracias, Pasasun.
+TEXT_AKTKVA301_04789_KALIKA_100_099	¡Sean quienes sean, debemos verlos encadenados antes de que vuelvan a profanar mi hogar! ¡Ay, si mis alas estuvieran curadas, les daría una paliza que no olvidarían pronto!
+TEXT_AKTKVA301_04789_MATSYA_000_099	Bueno, basta de hablar de aventuras. ¡Más vale que le lleve este pescado a Nidhana antes de que se eche a perder!
+TEXT_AKTKVA301_04789_MATSYA_100_099	Bueno, basta de hablar de aventuras. Mis pescados no se van a vender solos.
+TEXT_AKTKVA301_04789_MATSYA_000_100	Bueno, basta de hablar de aventuras. Las aguas del santuario me dieron un pez que nunca había visto, y quiero mostrárselo a los otros pescaderos. Quizá sepan algo de él.
+TEXT_AKTKVA301_04789_PASASUN_000_101	Gracias, <split(<string(gstr1)>, ,1)>, por todo, y sobre todo por mantener a salvo a Matsya.
+TEXT_AKTKVA301_04789_PASASUN_100_101	Yo debo escribir tu historia antes de que se borre de mi memoria. Quién sabe, quizá mis notas te sirvan cuando vuelvas a Aloalo Island.
+TEXT_AKTKVA301_04789_PASASUN_000_102	Supongo que volverás pronto a Old Sharlayan. Cuando lo hagas, por favor dale mis saludos a Shallow Moor.
+TEXT_AKTKVA301_04789_PASASUN_000_103	Parece que Nidhana se ganó el respeto de Kalika sin siquiera verla, mientras que a mí <italic(1)>todavía<italic(0)> me mira por encima del pico. Qué fastidio...
+TEXT_AKTKVA301_04789_PASASUN_000_104	Pero supongo que eso no viene al caso. Si vas a Old Sharlayan, por favor dale las gracias de mi parte a Shallow Moor.
+TEXT_AKTKVA301_04789_KALIKA_000_105	Quien sea querido por el Maestro Matsya es querido para mí. ¡Inclinaría la cabeza ante la señora Nidhana!
+TEXT_AKTKVA301_04789_SHALLOWMOOR_000_110	¡Regresó! ¿Debo entender que los problemas de Pasasun y Matsya se resolvieron a su entera satisfacción?
+TEXT_AKTKVA301_04789_SHALLOWMOOR_000_111	¿Las islas de los mares del sur? ¡Ay, ojalá hubiera podido caminar entre tanta belleza verde! Diría que estoy <italic(1)>verde<italic(0)> de envidia.
+TEXT_AKTKVA301_04789_SHALLOWMOOR_000_112	Tu amigo Arkasodara también parece haber sido buena compañía. Desafiar selvas misteriosas en busca de peces para su amada... lo que había en juego resultó ser mucho más de lo que creí.
+TEXT_AKTKVA301_04789_SHALLOWMOOR_100_112	En cualquier caso, aunque se podría decir que cumpliste tu "obligación" con Matsya, te animo a ayudarlo en su búsqueda de peces nuevos y emocionantes. ¿Quién sabe qué ejemplares deslumbrantes esperan en las aguas de Aloalo Island?
+TEXT_AKTKVA301_04789_SHALLOWMOOR_100_113	Ah, y si tienes un momento para Osmon, seguro que estará ansioso por oír todo sobre tu experiencia.
+TEXT_AKTKVA301_04789_SHALLOWMOOR_000_113	¡Salud por un trabajo bien hecho!
+TEXT_AKTKVA301_04789_SYSTEM_000_120	<colortype(500)><edgecolortype(501)>Aloalo Conservation Record<edgecolortype(0)><colortype(0)> ya está disponible en el V&C Dungeon Finder, en la sección Duty del menú principal.
+TEXT_AKTKVA301_04789_SYSTEM_000_121	Se agregarán nuevas entradas al registro a medida que completes cada ruta posible de la variant dungeon.

@@ -1,0 +1,32 @@
+key	text
+TEXT_AKTKYR103_04172_SEQ_00	Parece que Gondelimbaud te está esperando.
+TEXT_AKTKYR103_04172_SEQ_01	Gondelimbaud te informa que se estableció un distrito residencial en Ishgard, y que Thomelin te guiará hasta allí desde the Brume.
+TEXT_AKTKYR103_04172_SEQ_02	Con Thomelin a tu lado, te diriges a Empyreum.
+TEXT_AKTKYR103_04172_SEQ_03	Tras llegar a Empyreum, vas a hablar con el heraldo de Highmorn.
+TEXT_AKTKYR103_04172_SEQ_04	Tras oír todo lo que había que oír sobre Empyreum, decides volver a informar a Gondelimbaud.
+TEXT_AKTKYR103_04172_SEQ_05	Según Gondelimbaud, la gente de Ishgard está ansiosa por recibir a los aventureros en Empyreum. Decides hablar con el encargado residencial para saber más detalles.
+TEXT_AKTKYR103_04172_TODO_00	Habla con Thomelin y dirígete a Empyreum.
+TEXT_AKTKYR103_04172_TODO_01	Habla con Thomelin y dirígete a Empyreum.
+TEXT_AKTKYR103_04172_TODO_02	Habla con el heraldo de Highmorn.
+TEXT_AKTKYR103_04172_TODO_03	Informa a Gondelimbaud en la plaza del aetheryte.
+TEXT_AKTKYR103_04172_GONDELIMBAUD_000_000	¡Ah! ¡<split(<string(gstr1)>, ,1)>! He estado esperando su regreso.
+TEXT_AKTKYR103_04172_GONDELIMBAUD_000_001	Verá, desde que usted ayudó a poner fin a la Dragonsong War, nos hemos empeñado en reconstruir la ciudad.
+TEXT_AKTKYR103_04172_GONDELIMBAUD_000_002	¡Y gracias a la ayuda de incontables artesanos, por fin hemos completado nuestros esfuerzos por devolverle a the Firmament su antigua gloria!
+TEXT_AKTKYR103_04172_GONDELIMBAUD_000_003	¡De hecho, la House Dzemael reunió un equipo de canteros tan hábiles y eficientes que hasta terminaron de construir un barrio entero!
+TEXT_AKTKYR103_04172_GONDELIMBAUD_000_004	Se llama "Empyreum", y se creó para que sirva de distrito residencial para los aventureros de todo el reino.
+TEXT_AKTKYR103_04172_GONDELIMBAUD_000_005	Ninguna descripción puede transmitir de verdad su esplendor, así que le pedí a Thomelin que le escolte hasta allí para que lo vea usted mismo. ¡Búsquelo en the Brume cuando tenga un momento!
+TEXT_AKTKYR103_04172_GONDELIMBAUD_000_010	Thomelin le escoltará a Empyreum. ¡Búsquelo en the Brume cuando tenga un momento!
+TEXT_AKTKYR103_04172_THOMELIN_000_020	¡Dios mío! ¡<if(gnum4,La salvadora,El salvador)> de Ishgard! ¿Acaso le interesa Empyreum? Si es así, no diga más: ¡yo mismo le escoltaré!
+TEXT_AKTKYR103_04172_THOMELIN_000_021	¡Ay, <if(gnum4,mi señora,mi señor)>! ¡Nos honra de nuevo con su presencia! ¿Acaso le interesa Empyreum? Si es así, no diga más: ¡yo mismo le escoltaré!
+TEXT_AKTKYR103_04172_THOMELIN_000_022	Y no tema: el heraldo con gusto responderá cualquier pregunta que tenga.
+TEXT_AKTKYR103_04172_Q1_000_000	¿Ir a Empyreum?
+TEXT_AKTKYR103_04172_SYSTEM_000_023	（★Sin uso／se eliminará★）
+TEXT_AKTKYR103_04172_CARETAKER04172_000_030	¡Le damos la bienvenida a Empyreum! A medida que avanzaron nuestros esfuerzos de restauración, terminaron por incluir la construcción de esta pequeña muestra del cielo en la tierra.
+TEXT_AKTKYR103_04172_CARETAKER04172_000_031	Estamos en deuda con los incontables aventureros como usted que ayudaron a poner fin a la Dragonsong War, y en agradecimiento deseamos ofrecerles un espacio que puedan llamar hogar aquí en Ishgard.
+TEXT_AKTKYR103_04172_CARETAKER04172_000_032	Por supuesto, seguiremos cobrando una suma modesta por cada terreno o apartamento que compre, pero sepa que su gil nos ayudará a reconstruir más grande y mejor que antes.
+TEXT_AKTKYR103_04172_CARETAKER04172_000_033	Si desea saber más, hable con el encargado residencial para recibir más ayuda.
+TEXT_AKTKYR103_04172_CARETAKER04172_000_040	¿Le cautivó el esplendor de Empyreum? Si es así, hable con el encargado residencial para recibir más ayuda.
+TEXT_AKTKYR103_04172_GONDELIMBAUD_000_050	Entonces, <split(<string(gstr1)>, ,1)>, ¿qué le pareció Empyreum? ¡Espero que haya sido de su agrado!
+TEXT_AKTKYR103_04172_GONDELIMBAUD_000_051	Dado que nuestras fronteras estuvieron cerradas tanto tiempo, me preocupaba que a los forasteros como usted no les interesara este nuevo distrito.
+TEXT_AKTKYR103_04172_GONDELIMBAUD_000_052	¡Pero sepa que es nuestro más sincero deseo que usted y otras almas nobles consideren hacer de Ishgard su nuevo hogar!
+TEXT_AKTKYR103_04172_SYSTEM_000_053	Se puede acceder al Aethernet del distrito residencial de Empyreum desde el aetheryte de Ishgard.

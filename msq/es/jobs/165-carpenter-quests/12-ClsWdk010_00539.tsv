@@ -1,0 +1,47 @@
+key	text
+TEXT_CLSWDK010_00539_SEQ_00	Timbermaster Beatin está muy angustiado.
+TEXT_CLSWDK010_00539_SEQ_01	Beatin está inconsolable desde que encontraron el arco roto de Gairhard. Creyendo muerto a su querido amigo, te pide que lo dejes a solas. Habla con Nicoliaux, a ver si se le ocurre cómo consolar al maestro carpintero.
+TEXT_CLSWDK010_00539_SEQ_02	Nicoliaux te cuenta que el maestro carpintero entró en una furia terrible al recibir la noticia de la supuesta muerte de Gairhard, y rompió con las manos todo lo que tenía al alcance. Aunque Nicoliaux cree que no hay esperanza, sugiere que le presentes a Beatin una pieza de rosewood lumber de alta calidad, para distraerlo con el trabajo.
+TEXT_CLSWDK010_00539_SEQ_03	Tu intento de distraer a Beatin provoca inesperadamente la revelación de que Gairhard y su escuadrón deben seguir con vida. Sin embargo, el maestro carpintero teme que su amigo necesite ayuda urgente. Como no puede sostener un serrucho por las heridas que se hizo arrasando el taller, te pide que fabriques un crab bow de calidad y le insertes una savage aim materia de grado tres. Una vez preparado el arco, busca a Gairhard en North Shroud y asegúrate de que reciba la ayuda que necesita.
+TEXT_CLSWDK010_00539_SEQ_04	Por suerte, te topas con el escuadrón de Gairhard, enfrascado en batalla con los Ixal. Asombrado por la inexplicable aparición de un carpenter en pleno campo de batalla, se queda atónito al recibir el crab bow. Tras un brevísimo agradecimiento, centra su atención en los Ixal y mata a su líder de una sola flecha. Con sus fuerzas en desorden, los Ixal se ven obligados a retirarse. Vuelve a Gridania e informa a Beatin de todo lo ocurrido.
+TEXT_CLSWDK010_00539_SEQ_05	Beatin te agradece efusivamente haber salvado la vida de Gairhard, y dice que tiene contigo una deuda que nunca podrá pagar. Además, declara que te has convertido en maestr<if(gnum4,a,o)> artesan<if(gnum4,a,o)> y que no tiene nada más que enseñarte. Inspirado por tu ejemplo, el maestro carpintero decide pulir sus propias habilidades, y te desea suerte en tu viaje interminable para ser mejor carpenter.<br><br>※La siguiente misión de carpenter estará disponible con Beatin cuando completes la misión del escenario principal "Before the Dawn".
+TEXT_CLSWDK010_00539_TODO_00	Habla con Nicoliaux.
+TEXT_CLSWDK010_00539_TODO_01	Preséntale una pieza de rosewood lumber <sheet(Addon,9,0)> a Beatin.
+TEXT_CLSWDK010_00539_TODO_02	Entrégale a Gairhard, en North Shroud, un crab bow <sheet(Addon,9,0)> con una savage aim materia III.
+TEXT_CLSWDK010_00539_TODO_03	Informa a Beatin.
+TEXT_CLSWDK010_00539_BEATINE_000_001	¡Oh, <split(<string(gstr1)>, ,1)>! ¡Es horrible! ¡Es tan horrible!
+TEXT_CLSWDK010_00539_BEATINE_000_002	Un oficial del Adders' Nest vino a hablar conmigo. En North Shroud, cerca del territorio ixal, ellos... ellos encontraron...
+TEXT_CLSWDK010_00539_BEATINE_000_003	¡El longbow de Gairhard!
+TEXT_CLSWDK010_00539_BEATINE_000_004	Vi los fragmentos yo mismo. Era el mismísimo maple longbow que hice hace tantos años. Lo que significa...
+TEXT_CLSWDK010_00539_BEATINE_000_005	Él... Gairhard está...
+TEXT_CLSWDK010_00539_BEATINE_000_006	Quiero estar solo en este momento, <split(<string(gstr1)>, ,1)>. Vaya... Esté con sus seres queridos, o juegue con los pequeños en el Acorn Orchard.
+TEXT_CLSWDK010_00539_NICOLIAUX_000_010	Oye, <split(<string(gstr1)>, ,1)>. Qué bueno que no estabas cuando Beatin recibió la noticia. ¡Arrasó el taller, aullando como un animal y rompiendo con las manos todo lo que tenía al alcance!
+TEXT_CLSWDK010_00539_NICOLIAUX_000_011	No creo que podamos ayudarlo esta vez... Pero si quieres intentarlo, podrías darle madera buena de verdad, <italic(1)>de verdad<italic(0)>, como, digamos, la <italic(1)>mejor<italic(0)> pieza de rosewood lumber que puedas hacer. ¿Quizá funcione?
+TEXT_CLSWDK010_00539_BEATINE_000_020	¿Por qué... por qué volvió? Le dije que quiero estar solo.
+TEXT_CLSWDK010_00539_BEATINE_000_021	Esto... esto es...
+TEXT_CLSWDK010_00539_BEATINE_000_022	Esta es una pieza exquisita de rosewood lumber. En verdad, la culminación de décadas de crecimiento y maduración...
+TEXT_CLSWDK010_00539_BEATINE_000_023	\<suspiro> Sé que tiene buenas intenciones, <split(<string(gstr1)>, ,1)>, pero es inútil. Mis pensamientos siguen con Gairhard.
+TEXT_CLSWDK010_00539_BEATINE_000_024	Como un joven retoño, maduró hasta ser un árbol magnífico... solo para que lo talaran antes de su-
+TEXT_CLSWDK010_00539_BEATINE_000_025	...Espere, ¿qué estoy diciendo? Gairhard no era ningún <italic(1)>retoño<italic(0)>. Era uno de nuestros mejores. Y los exploradores... ¡los exploradores encontraron señales de una escaramuza, pero ningún cuerpo!
+TEXT_CLSWDK010_00539_BEATINE_000_026	¿No lo ve? ¡Debe seguir con vida! Él y su escuadrón están en algún lugar, aislados y seguramente con pocos suministros. Sé con certeza que solo lleva un arco, así que si esa arma se rompió... ¡no lo quiera la Matron, podría estar indefenso!
+TEXT_CLSWDK010_00539_BEATINE_000_027	¡Hay que enviarle uno nuevo de inmediato! Pero... me temo que no estoy en condiciones de fabricarlo. En mi necio berrinche me lastimé la mano, y no tengo fuerzas para sostener un serrucho.
+TEXT_CLSWDK010_00539_BEATINE_000_028	<italic(1)>Usted<italic(0)> debe fabricar el arco de Gairhard, <split(<string(gstr1)>, ,1)>. Se lo ruego, hágale un crab bow sin igual e insértele una savage aim materia de grado tres.
+TEXT_CLSWDK010_00539_BEATINE_000_029	Cuando termine, busque a Gairhard y a sus hombres en North Shroud. Los fragmentos de su viejo longbow se encontraron no muy lejos de Alder Springs. Si la Matron es misericordiosa, lo encontrará cerca de allí.
+TEXT_CLSWDK010_00539_BEATINE_000_030	Por favor, <split(<string(gstr1)>, ,1)>. Es mi única esperanza.
+TEXT_CLSWDK010_00539_GAIRHARD_000_040	¿¡Qué crees que haces aquí!? ¡A cubierto, <if(gnum4,necia,necio)>, que hay Ixal cerca!
+TEXT_CLSWDK010_00539_GAIRHARD_000_041	¡Maldición, <split(<string(gstr1)>, ,1)>, este no es lugar para un carpenter!
+TEXT_CLSWDK010_00539_GAIRHARD_000_042	¿Un <italic(1)>arco<italic(0)>? ¿Beatin te envió hasta aquí solo para entregar un <italic(1)>arco<italic(0)>?
+TEXT_CLSWDK010_00539_GAIRHARD_000_043	Eso... Él... ¡Que los dioses bendigan a ese terco!
+TEXT_CLSWDK010_00539_GAIRHARD_000_044	Debí hacerle caso cuando dijo que mi maple longbow estaba en las últimas.
+TEXT_CLSWDK010_00539_GAIRHARD_000_045	Gracias, <split(<string(gstr1)>, ,1)>. Si no fuera por ti, no sé qué habría hecho.
+TEXT_CLSWDK010_00539_GAIRHARD_000_046	¡Ahora agacha la cabeza! ¡Tengo un jefe que matar!
+TEXT_CLSWDK010_00539_GAIRHARD_000_047	¡Ngaaah!
+TEXT_CLSWDK010_00539_GAIRHARD_000_050	Hoy salvaste vidas. No sé cómo agradecértelo, <split(<string(gstr1)>, ,1)>. Por favor, dile a Beatin que estamos bien y que lo veré pronto.
+TEXT_CLSWDK010_00539_BEATINE_000_050	¡Podría besarle, <split(<string(gstr1)>, ,1)>! ¡Está vivo! ¡Gairhard está vivo!
+TEXT_CLSWDK010_00539_BEATINE_000_051	Tengo con usted una deuda que nunca podré pagar. Mil veces, gracias.
+TEXT_CLSWDK010_00539_BEATINE_000_052	Llegó a nosotros como un brote, y ahora es como un heavenspillar. No tengo nada más que enseñarle.
+TEXT_CLSWDK010_00539_BEATINE_000_053	De hecho, usted me inspiró a <italic(1)>mí<italic(0)> a reflexionar sobre mis propias deficiencias.
+TEXT_CLSWDK010_00539_BEATINE_000_054	Por pequeñas que sean, faltaría a mi deber si descuidara mi desarrollo personal. Aunque ya no esté bajo mi tutela, confío en que también seguirá puliendo su oficio. Le deseo la mejor suerte, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSWDK010_00539_SYSTEM_000_500	Con esto concluyen las misiones de carpenter de FINAL FANTASY XIV: A Realm Reborn. Para emprender la siguiente serie de misiones, primero debes cumplir el siguiente requisito:
+TEXT_CLSWDK010_00539_SYSTEM_000_501	※Haber completado la misión del escenario principal "Before the Dawn".
+TEXT_CLSWDK010_00539_SYSTEM_000_502	Una vez hecho esto, la siguiente misión de carpenter estará disponible con Beatin.

@@ -1,0 +1,106 @@
+key	text
+TEXT_AKTKVA201_04733_SEQ_00	Shallow Moor quiere hablar con <if(gnum4,su aventurera viajera favorita,su aventurero viajero favorito)>.
+TEXT_AKTKVA201_04733_SEQ_01	Shallow Moor no pierde tiempo en informarte del último trabajo ocasional disponible en el gremio de los gleaners: un pedido nada menos que de Hancock, dirigido específicamente a ti. Su carta te invita a ir a Hingashi para sumarte a una expedición al Mount Rokkon. Aunque su tono adulador deja mucho que desear, ningún ijin ha visto jamás ese destino, así que parece conveniente un viaje a Kugane para saber más de esta rara oportunidad.
+TEXT_AKTKVA201_04733_SEQ_02	Apenas llegas al Bokairo Inn, se te acerca el incontenible Hancock, flanqueado por un par de hinganos desconocidos. Tsubaki y Tokimori sirven al señor que gobierna las tierras donde está el Mount Rokkon, en cuyas laderas se alza un monasterio invadido por espíritus llamados mononoke. Aunque a Hancock lo mueve su interés por los tesoros malditos responsables de esta plaga, a los otros les preocupa claramente el bienestar de la gente común de la región. Para quien ha matado a dioses, exorcizar a unos cuantos demonios revoltosos no debería ser mucha molestia...
+TEXT_AKTKVA201_04733_SEQ_03	Antes de que subas al halcón que te llevará al interior de Shishu, Tsubaki te insta a tomar todas las precauciones para las pruebas que te esperan. Te preparas para una ardua subida, sabiendo que un paso en falso podría dejarte a merced de enemigos salidos de los mitos hinganos.<br><br>※Puedes acceder a Mount Rokkon desde el V&C Dungeon Finder.<br>※Para abrir el V&C Dungeon Finder, habla con el halconero de Shishu o elige la opción que está en Duty, en el menú principal.
+TEXT_AKTKVA201_04733_SEQ_04	Tras derrotar a uno de los poderosos mononoke del Mount Rokkon y conseguir un trofeo para la colección de Hancock, regresas triunfalmente a Kugane en las alas del ave más fuerte del halconero. Sin embargo, parece que el mercader ul'dahno se quedó atrás...
+TEXT_AKTKVA201_04733_SEQ_05	Después de ver a su sufrida ave cruzar el cielo, por fin recibes a Hancock y a su cargamento en tierra firme. Con las vistas, los sonidos y las batallas aún frescos en la mente, el mercader no pierde tiempo en contarles a todos sus impresiones de la aventura, y promete a los servidores de Lord Uzumibi que seguirás apoyándolos en su empeño por librar de demonios el Mount Rokkon, y de paso en su búsqueda personal de curiosidades. Por el momento, sin embargo, debe atender otros negocios, lo que te da la oportunidad de contarle a Shallow Moor la historia prometida de tus hazañas.
+TEXT_AKTKVA201_04733_SEQ_06	Shallow Moor se alegra de verte volver, y más aún de oír los detalles de tu viaje al Mount Rokkon. Aunque el gremio considera concluido el asunto, sabes muy bien que todavía acechan mononoke en las sombras de la montaña...
+TEXT_AKTKVA201_04733_TODO_00	Espera a Hancock junto al Bokairo Inn.
+TEXT_AKTKVA201_04733_TODO_01	Habla con Tsubaki.
+TEXT_AKTKVA201_04733_TODO_02	Entra en Mount Rokkon.
+TEXT_AKTKVA201_04733_TODO_03	Habla con Tsubaki.
+TEXT_AKTKVA201_04733_TODO_04	Habla con Shallow Moor.
+TEXT_AKTKVA201_04733_SHALLOWMOOR_000_000	¡Llegas justo a tiempo, <split(<string(gstr1)>, ,1)>! ¿Cómo <italic(1)>le<italic(0)> haces?
+TEXT_AKTKVA201_04733_SHALLOWMOOR_000_001	Nos cayó un trabajo interesante, y el cliente insiste en que seas tú quien lo tome.
+TEXT_AKTKVA201_04733_SHALLOWMOOR_100_001	¿El cliente? ¡Nada menos que la East Aldenard Trading Company!
+TEXT_AKTKVA201_04733_SHALLOWMOOR_000_002	La carta salió de la sucursal de Kugane y no de las oficinas de Lord Lolorito, pero aun así trae un fuerte aroma a intereses adinerados. ¿Quieres leerla?
+TEXT_AKTKVA201_04733_HANCOCK_000_003	(-Carta de Hancock-)<italic(1)><if(gnum4,Estimada,Estimado)> <split(<string(gstr1)>, ,1)>:<br>Con el mismo espíritu de amistad que ha definido cada uno de nuestros encuentros hasta hoy, tengo el placer de extenderle una humilde invitación.<italic(0)>
+TEXT_AKTKVA201_04733_HANCOCK_000_004	(-Carta de Hancock-)<italic(1)>Gracias a sus entrañables esfuerzos por salvar esta estrella podemos gozar de tan rara oportunidad, pues al servicio de su noble empresa de construir el buen barco <italic(0)>Ragnarok<italic(1)> pude forjar un fructífero lazo con otro miembro de la élite de Hingashi.<italic(0)>
+TEXT_AKTKVA201_04733_HANCOCK_000_005	(-Carta de Hancock-)<italic(1)>Este señor tuvo a bien concederme a mí, y a un invitado de mi elección, permiso para ir adonde pocos ijin han llegado: más allá de los límites de Kugane, a las sagradas laderas del mismísimo Mount Rokkon.<italic(0)>
+TEXT_AKTKVA201_04733_HANCOCK_000_006	(-Carta de Hancock-)<italic(1)>No puedo exagerar la importancia de este gesto, ni el atractivo de paisajes jamás vistos por ojos occidentales. Tampoco es exagerado decir que nadie merece este favor más que su magnánima persona.<italic(0)>
+TEXT_AKTKVA201_04733_HANCOCK_000_007	(-Carta de Hancock-)<italic(1)>Espero con ansias nuestro reencuentro a las puertas del Bokairo Inn.<br>Siempre su fiel servidor,<br>- Hancock Fitzgerald<italic(0)>
+TEXT_AKTKVA201_04733_Q1_000_008	¿Qué vas a decir?
+TEXT_AKTKVA201_04733_A1_000_001	Parece que hay una montaña sagrada en Hingashi que necesita que alguien la suba.
+TEXT_AKTKVA201_04733_A1_000_002	Una cosa es la adulación, y otra es... esto.
+TEXT_AKTKVA201_04733_SHALLOWMOOR_000_011	Nunca creí que los hinganos abrirían esas puertas. El gil manda, eso es seguro...
+TEXT_AKTKVA201_04733_SHALLOWMOOR_000_009	Se pasó de meloso, ¿no? No esperaba menos de un mercader consumado. No tiene reparos en rebajarse cuando hay suficiente ganancia en juego.
+TEXT_AKTKVA201_04733_SHALLOWMOOR_000_010	Aun así, puede que haya una migaja de sinceridad bajo tanta miel. Y si no, igual sales ganando si le sigues el juego.
+TEXT_AKTKVA201_04733_SHALLOWMOOR_000_012	Entonces vas a Kugane, supongo.
+TEXT_AKTKVA201_04733_SHALLOWMOOR_000_013	¡Perfecto! Mando aviso de que vas en camino.
+TEXT_AKTKVA201_04733_SHALLOWMOOR_000_014	¡Buena suerte y buen viaje! Más te vale volver con muchas historias que contar, ¿me oyes?
+TEXT_AKTKVA201_04733_HANCOCK_000_020	Ah, mi <if(gnum4,querida,querido)> <split(<string(gstr1)>, ,1)>. Me alegra verle de vuelta en las costas orientales.
+TEXT_AKTKVA201_04733_HANCOCK_100_020	Ah, mi <if(gnum4,querida,querido)> <split(<string(gstr1)>, ,1)>. ¿Quién habría pensado que la Spinner nos reuniría tan pronto? Le alegrará saber que en este tiempo ningún otro charlatán ha intentado hacerse pasar por descendiente de Tenzen.
+TEXT_AKTKVA201_04733_HANCOCK_000_021	Como ve, los preparativos de nuestro viaje van muy avanzados. Aunque tengo debilidad por el kimono tradicional hingano, si hemos de subir una montaña, conviene hacerlo con comodidad y también con estilo.
+TEXT_AKTKVA201_04733_HANCOCK_110_022	Pero supongo que preferirá tratar asuntos de mayor importancia que mi atuendo. No tema: mis capaces colaboradores están listos y deseosos de ponerle al tanto del desafío que nos espera.
+TEXT_AKTKVA201_04733_HANCOCK_000_023	Reservamos las mejores habitaciones de la posada para la ocasión, así que reunámonos lejos de todo este ajetreo, ¿le parece?
+TEXT_AKTKVA201_04733_TSUBAKI_000_024	Maestro Hancock, <if(gnum4,Señora,Maestro)> <split(<string(gstr1)>, ,1)>, les estamos muy agradecidos por su ayuda en este asunto. Soy Tsubaki, y mi compañero onmyoji se llama Tokimori.
+TEXT_AKTKVA201_04733_TSUBAKI_000_025	Venimos a Kugane en nombre de Lord Uzumibi, que gobierna el Mount Rokkon y las tierras circundantes.
+TEXT_AKTKVA201_04733_HANCOCK_000_026	Su señoría es la persona que mencioné en mi carta. Al saber de mi interés por los tesoros del Lejano Oriente, comprendió de inmediato que el atractivo de la cima sagrada me resultaría irresistible.
+TEXT_AKTKVA201_04733_HANCOCK_000_027	Ah, pero olvido que usted no conoce estas tierras tan bien como yo. Empecemos por lo básico, y ya iremos a los detalles sobre la marcha.
+TEXT_AKTKVA201_04733_HANCOCK_000_028	Para ubicar nuestro destino, primero debemos repasar la geografía de Hingashi.
+TEXT_AKTKVA201_04733_HANCOCK_000_029	De las muchas islas que forman esta nación, es aquí, en la costa occidental de Shishu, donde Kugane brilla como nuestro faro de comercio.
+TEXT_AKTKVA201_04733_HANCOCK_000_030	El Mount Rokkon, en cambio, se encuentra muy lejos de nuestra querida ciudad del comercio...
+TEXT_AKTKVA201_04733_HANCOCK_100_030	...Aquí, en la esquina noreste de la isla.
+TEXT_AKTKVA201_04733_HANCOCK_000_031	En las laderas de la montaña sagrada se alza el Shojo Temple, un monasterio donde los monjes se reunían a entrenar cuerpo y alma.
+TEXT_AKTKVA201_04733_HANCOCK_000_032	Por desgracia, desafiando ese santo propósito, una horda de demonios de otro mundo se adueñó del templo.
+TEXT_AKTKVA201_04733_HANCOCK_000_033	Su señoría sospecha que la culpa de esta plaga la tiene una colección de tesoros malditos. Verá, en el Lejano Oriente se cree que los objetos bien conservados pueden llegar a tener alma con el tiempo. Estos recipientes convertidos en kami se conocen como tsukumogami.
+TEXT_AKTKVA201_04733_HANCOCK_000_034	A su vez, un tsukumogami puede atraer, o incluso engendrar, a otros espíritus. Estos mononoke no tienen ningún respeto por la santidad del monte, así que Lord Uzumibi desea una pronta solución.
+TEXT_AKTKVA201_04733_HANCOCK_000_035	Alma compasiva como soy, no podía quedarme de brazos cruzados. Pero para hombres de riqueza e influencia, el vulgar altruismo es indigno, así que le ofrecí ayuda a su señoría de la manera propia de nuestra posición: negociando un arreglo de mutuo beneficio.
+TEXT_AKTKVA201_04733_HANCOCK_100_035	En pocas palabras, si encuentro la manera de librar la montaña de mononoke, podré quedarme con los tesoros malditos que halle. ¡Lo que para uno es basura, para otro es takaramono! ("Tesoro" en hingano, por cierto).
+TEXT_AKTKVA201_04733_HANCOCK_000_036	Y aquí, <if(gnum4,amiga mía,amigo mío)>, es donde entra usted. En nuestras excursiones a la montaña, será mi guardaespaldas y acabará con cualquier mononoke monstruoso que encontremos. ¡A cambio, será una de las pocas personas afortunadas en presenciar las maravillas y los horrores del Mount Rokkon! Un trato justo, ¿no?
+TEXT_AKTKVA201_04733_Q2_000_037	¿Qué vas a decir?
+TEXT_AKTKVA201_04733_A2_000_001	¡Siempre quise explorar más de Hingashi!
+TEXT_AKTKVA201_04733_A2_000_002	Coleccionar tesoros malditos suena a un pasatiempo peligroso...
+TEXT_AKTKVA201_04733_HANCOCK_000_038	¡<if(gnum4,Esa,Ese)> es nuestro Warrior of Light! Sabía que no me decepcionaría.
+TEXT_AKTKVA201_04733_HANCOCK_000_039	Su preocupación por mi bienestar es entrañable, pero innecesaria. Una vez eliminado el espíritu, el objeto que poseía volverá a su forma original, sin alma.
+TEXT_AKTKVA201_04733_HANCOCK_000_040	Claro que, si algún objeto de mi futura colección <italic(1)>me<italic(0)> poseyera, tiene mi permiso para exorcizarlo con violencia, ¡siempre que mi persona no sufra daño! En cualquier caso, cruzaremos ese proverbial "hashi" cuando lleguemos a él.
+TEXT_AKTKVA201_04733_HANCOCK_000_041	Ahora que quedó resuelta la participación de <split(<string(gstr1)>, ,1)>, ¿podría preguntar quién es el actual dueño de estos objetos, señora Tsubaki?
+TEXT_AKTKVA201_04733_TSUBAKI_000_042	Los tesoros llegaron al templo por orden de Gorai, el monje principal. Aunque sus discípulos no dudan de la pureza de sus intenciones, sus actos les trajeron una gran desgracia.
+TEXT_AKTKVA201_04733_TSUBAKI_000_043	Como usted, Maestro Hancock, Gorai era un ávido coleccionista de antigüedades, y afirmaba que los tsukumogami que moraban en ellas debían ser venerados. Movido por esa ferviente creencia, compró toda clase de objetos que consideraba dignos de veneración.
+TEXT_AKTKVA201_04733_TSUBAKI_000_044	Pero a medida que crecía su colección, también crecieron ciertos fenómenos inquietantes. Una sombra impía empezó a cernirse sobre la montaña sagrada... y bajo ese velo perverso los mononoke se envalentonaron y rompieron sus ataduras. Temiendo por su vida, los monjes no tuvieron más remedio que huir, con su hogar profanado por los demonios.
+TEXT_AKTKVA201_04733_TSUBAKI_000_045	No podíamos permitir que el azote se extendiera, y enviamos a nuestros guerreros más fuertes a matar a los demonios, pero pocos volvieron. Sabiendo que nuestras fuerzas por sí solas no alcanzarían la victoria, mi señor nos ordenó recurrir a la magia para contener la amenaza.
+TEXT_AKTKVA201_04733_TSUBAKI_000_046	Tokimori es uno de los pocos valientes que volvieron del templo. Gracias a sus diligentes informes sabemos algo del estado actual del Mount Rokkon.
+TEXT_AKTKVA201_04733_TOKIMORI_000_047	Teníamos órdenes de encontrar a Gorai y convencerlo de que se desprendiera de sus tesoros, pero nuestras súplicas cayeron en oídos sordos... era como un animal. Sospecho que perdió toda apariencia de razón.
+TEXT_AKTKVA201_04733_TOKIMORI_000_048	Aunque el sello que pusimos sobre la montaña resiste, los mononoke tuvieron tiempo de sobra para corromper las almas de quienes no lograron escapar. Si encuentra "sobrevivientes", no les muestre la menor piedad: ya es demasiado tarde.
+TEXT_AKTKVA201_04733_TSUBAKI_000_049	Preparamos a nuestros halcones más fuertes. Su cuidador los esperará junto a Bokaisen Hot Springs, y llamará a las aves cuando terminen sus preparativos.
+TEXT_AKTKVA201_04733_TSUBAKI_000_050	Una advertencia: los halcones temen a los mononoke y se negarán a volar cerca del templo. Los llevarán al pie de la montaña, pero no más allá. A partir de ese punto, tendrán que subir.
+TEXT_AKTKVA201_04733_HANCOCK_100_050	Muchas gracias, amigos míos. Y ahora, ¡si hemos de partir pronto, creo que lo mejor es darnos un banquete hasta saciarnos! ¡Nadie mata demonios con el estómago vacío!
+TEXT_AKTKVA201_04733_TOKIMORI_000_051	El Mount Rokkon está lleno de peligros. No subestime a sus enemigos.
+TEXT_AKTKVA201_04733_HAYABUSATSUKAI04733_000_052	¿Es usted quien nos ayudará, supongo? Es un honor y un privilegio. Mis aves le llevarán al pie del Mount Rokkon. Vaya con bien, <if(gnum4,amiga mía,amigo mío)>, y que los kami le protejan.
+TEXT_AKTKVA201_04733_TSUBAKI_000_055	Gracias una vez más por su ayuda, <if(gnum4,Señora,Maestro)> <split(<string(gstr1)>, ,1)>.
+TEXT_AKTKVA201_04733_TSUBAKI_000_056	El Maestro Hancock tenía unos negocios que atender antes de la expedición. Cuando esté <if(gnum4,lista,listo)>, lo mandaré llamar.
+TEXT_AKTKVA201_04733_TSUBAKI_000_057	Me siento en el deber de advertirle... Incluso en tiempos de paz, subir el Mount Rokkon no es para los débiles de corazón. Le sugiero conseguir suficientes provisiones si aún no lo ha hecho, y asegurarse de que su equipo esté en condiciones.
+TEXT_AKTKVA201_04733_TSUBAKI_100_057	Los discípulos de Tokimori tienen a su cargo mantener las barreras de la montaña. Le abrirán el camino cuando llegue.
+TEXT_AKTKVA201_04733_TSUBAKI_000_058	Hable con nuestro halconero cuando desee partir. Aunque debo quedarme aquí, rezaré por su éxito.
+TEXT_AKTKVA201_04733_TSUBAKI_000_059	Puede pedirle al halconero que llame a sus aves en cualquier momento. Confío en que solo lo haga cuando esté <if(gnum4,lista,listo)> para enfrentar lo que le espera.
+TEXT_AKTKVA201_04733_TOKIMORI_000_060	Regresó. Pocos pueden matar a un gran mononoke y vivir para contarlo...
+TEXT_AKTKVA201_04733_TSUBAKI_000_063	<if(gnum4,Señora,Maestro)> <split(<string(gstr1)>, ,1)>... Mucho me alegra verle <if(gnum4,sana y salva,sano y salvo)>.
+TEXT_AKTKVA201_04733_TSUBAKI_000_064	Divisé a lo lejos el halcón del Maestro Hancock, pero se movía de manera muy errática. Solo podemos esperar que aterricen sin problemas...
+TEXT_AKTKVA201_04733_HANCOCK_000_065	¡Lamento mucho haberlos hecho esperar! Nuestro recuerdo era algo más aparatoso de lo que creía, pero como ven, mi error de cálculo no nos hizo ningún daño.
+TEXT_AKTKVA201_04733_TSUBAKI_000_066	Así es, Maestro Hancock. A mi señor le alegrará saber de su regreso, y de su éxito, supongo.
+TEXT_AKTKVA201_04733_HANCOCK_000_067	La victoria fue tanto de <split(<string(gstr1)>, ,1)> como mía, aunque ya sabía que unos cuantos demonios no serían rival para <if(gnum4,una matadora de dioses como ella,un matador de dioses como él)>.
+TEXT_AKTKVA201_04733_HANCOCK_000_068	Sinceramente, a pesar de todos sus peligros, el viaje me pareció de lo más estimulante.
+TEXT_AKTKVA201_04733_HANCOCK_000_069	¡Y la arquitectura de la pagoda era nada menos que divina! Una obra maestra forjada con la madera del antiguo bosque en el que se alza, un tesoro en sí misma.
+TEXT_AKTKVA201_04733_HANCOCK_000_070	Las obras gridanianas pueden tener un encanto parecido, pero hasta un ul'dahno como yo notaría que estaba en una categoría aparte.
+TEXT_AKTKVA201_04733_HANCOCK_000_071	Tenía grandes expectativas para el Shojo Temple, y aun así las superó con facilidad. No olvidaré pronto la silenciosa multitud de estatuas, el retrato mismo de la tranquilidad divina.
+TEXT_AKTKVA201_04733_HANCOCK_000_072	¡Ojalá Gorai aún tuviera sus facultades para poder hablar de la colección con un experto como yo! Por desgracia, el pobre hombre estaba perdido.
+TEXT_AKTKVA201_04733_HANCOCK_000_073	El camino fue tan precario como predijimos. Excursionista inexperto como soy, temí no llegar a la cima... Pero mi sufrimiento no fue en vano. Cuando al fin contemplé el mar de follaje ardiente, mi espíritu se elevó.
+TEXT_AKTKVA201_04733_HANCOCK_000_074	Menos agradable a la vista fue la bestia que encontramos al final de nuestra excursión, aunque, pensándolo bien, debimos prepararnos para esa sorpresa, escondida en lo alto de la montaña, donde es difícil que los peregrinos incautos lleguen.
+TEXT_AKTKVA201_04733_HANCOCK_000_075	El santuario sobre el lago era la encarnación de la belleza hingana. Una visión de elegancia envuelta en lo efímero.
+TEXT_AKTKVA201_04733_HANCOCK_000_076	Una lástima que esa visión tuviera que perturbarse con la violencia rápida y decisiva que <split(<string(gstr1)>, ,1)> descargó sobre el tsukumogami, pero ese caos es inevitable al explorar una montaña llena de demonios.
+TEXT_AKTKVA201_04733_HANCOCK_000_077	Que la pipa estuviera lejos de los demás tesoros sugiere que los monjes conocían su poder hasta cierto punto. Aun así, no previeron la fuerza de su influencia.
+TEXT_AKTKVA201_04733_HANCOCK_000_078	En cualquier caso, la gente de Shishu puede descansar tranquila, sabiendo que un gran mononoke ha sido relegado al olvido.
+TEXT_AKTKVA201_04733_HANCOCK_000_079	... ¡Pero nosotros, <if(gnum4,amiga mía,amigo mío)>, tenemos malms por recorrer antes de dormir!
+TEXT_AKTKVA201_04733_HANCOCK_000_080	Hay varios caminos que dejamos de lado, ¿no es cierto? La mente vuela al imaginar qué otras delicias podríamos contemplar...
+TEXT_AKTKVA201_04733_TSUBAKI_000_081	En efecto. Aún faltan varios tesoros por encontrar... y es probable que los demonios sigan allí hasta que maten a sus amos.
+TEXT_AKTKVA201_04733_HANCOCK_000_082	Exacto. Pero anímese, señora Tsubaki, que <split(<string(gstr1)>, ,1)> no descansará hasta que estos villanos dejen de atormentar a la gente común. ¡<if(gnum4,Ella,Él)> saldrá una y otra vez, hasta que queden asegurados los tesoros que los atrajeron y mi nueva colección esté completa!
+TEXT_AKTKVA201_04733_HANCOCK_000_087	Por desgracia, el tiempo no espera a nadie, y los negocios no esperan a ningún mercader. Debo irme, pero cuando desee volver a tomar por asalto el Mount Rokkon, ¡solo tiene que decirlo!
+TEXT_AKTKVA201_04733_HANCOCK_000_088	Antes de hacerlo, sin embargo, podría contarle la historia de nuestras hazañas a la señora Shallow Moor. La carta que recibí indicaba una clara preferencia en ese sentido.
+TEXT_AKTKVA201_04733_TSUBAKI_000_089	Estamos en deuda con usted, <if(gnum4,Señora,Maestro)> <split(<string(gstr1)>, ,1)>. Por favor, transmita también nuestros saludos a la señora Shallow Moor.
+TEXT_AKTKVA201_04733_SHALLOWMOOR_000_090	¡Ya me preguntaba cuándo volverías! ¿Qué tal tu aventura en el Lejano Oriente? ¿Todo bien con Hancock?
+TEXT_AKTKVA201_04733_SHALLOWMOOR_000_091	Dudo que me fuera bien contra demonios, pero esa montaña suena genial. Verde hasta donde alcanza la vista, lista para recolectar... Ojalá me tocara un encargo así.
+TEXT_AKTKVA201_04733_SHALLOWMOOR_000_092	Bah, no tengo por qué quejarme de mi suerte frente a ti. Sospecho que Osmon te esperaba con más ansias que yo.
+TEXT_AKTKVA201_04733_SHALLOWMOOR_000_093	Anda, cuéntale tus historias de la montaña. Te garantizo que le va a encantar cada palabra.
+TEXT_AKTKVA201_04733_SYSTEM_000_100	<colortype(500)><edgecolortype(501)>Mount Rokkon Exorcism Record<edgecolortype(0)><colortype(0)> ya está disponible en el V&C Dungeon Finder, en la sección Duty del menú principal.
+TEXT_AKTKVA201_04733_SYSTEM_000_101	Se agregarán nuevas entradas al registro a medida que completes cada ruta posible de la variant dungeon.

@@ -1,0 +1,48 @@
+key	text
+TEXT_BANAMA001_01217_SEQ_00	Swift tiene una misión compleja para quien tenga experiencia.
+TEXT_BANAMA001_01217_SEQ_01	El Alto Comandante Swift explica que los secuestros de los Amalj'aa vuelven a aumentar. Preséntate ante el Comandante Gisilbehrt, jefe de seguridad de Little Ala Mhigo, en Southern Thanalan, y averigua qué hay que hacer para frenar esta inquietante escalada.
+TEXT_BANAMA001_01217_SEQ_02	Según lo que te informó el Comandante Gisilbehrt, los Amalj'aa de Southern Thanalan atacan cada vez con más frecuencia. Apresúrate al lugar de una posible emboscada y evita que los hombres bestia se lleven a otra víctima.
+TEXT_BANAMA001_01217_SEQ_03	El líder de un pequeño grupo de Amalj'aa que frustró el intento de secuestro de sus congéneres quiere conocerte. Ve al Ring of Ash y habla con Hamujj Gah.
+TEXT_BANAMA001_01217_SEQ_04	Hamujj Gah y su Brotherhood of Ash son soldados que detestan las acciones cobardes de sus hermanos fanáticos. Como reconocimiento por tu papel en la derrota del Lord of the Inferno, te invitan a unirte a su empeño por restaurar el honor de una tribu de guerreros antes orgullosa.
+TEXT_BANAMA001_01217_TODO_00	Preséntate ante Gisilbehrt en Little Ala Mhigo.
+TEXT_BANAMA001_01217_TODO_01	Espera a que aparezcan los emboscadores.
+TEXT_BANAMA001_01217_TODO_02	Habla con Hamujj Gah en el Ring of Ash.
+TEXT_BANAMA001_01217_SWIFT_000_001	Me alegra ver su cara, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>)>)>. Tengo una tarea para alguien de su impecable historial. Aunque quizá "campaña" sería una descripción más adecuada, dado el enorme compromiso que exige esta misión.
+TEXT_BANAMA001_01217_SWIFT_000_002	Como bien sabe, los habitantes de Thanalan sufren desde hace mucho las hostilidades de los Amalj'aa.
+TEXT_BANAMA001_01217_SWIFT_000_003	Los hombres lagarto estuvieron callados un tiempo, escarmentados por su victoria sobre el primal Ifrit. Pero los hombres bestia vuelven a agitarse.
+TEXT_BANAMA001_01217_SWIFT_000_004	Resurgieron los secuestros, y en mayor número que antes. El asunto se salió tanto de control que las guarniciones locales nos pidieron refuerzos. Por eso quiero que dirija una acción prolongada contra los Amalj'aa y ponga fin a estas incursiones.
+TEXT_BANAMA001_01217_SWIFT_000_005	Preséntese ante el Comandante Gisilbehrt, jefe de seguridad de Little Ala Mhigo, y él le dará los detalles de su deber.
+TEXT_BANAMA001_01217_GISILBEHRT_000_010	El Comandante Swift dijo que había asignado a alguien para ayudar con nuestro creciente problema de hombres bestia. Me alegra que se tome en serio la urgencia de nuestra situación.
+TEXT_BANAMA001_01217_GISILBEHRT_000_011	Como seguro te explicó el comandante, la actividad de los Amalj'aa en la región se ha vuelto casi frenética. Parece que los hombres lagarto están decididos a llevarse a cada vendedor ambulante y viajero que intente pasar por Southern Thanalan.
+TEXT_BANAMA001_01217_GISILBEHRT_000_012	Y no hablo de incursiones furtivas de noche: los malditos atacan a plena luz del día, incluso a caravanas de mercaderes con escolta.
+TEXT_BANAMA001_01217_GISILBEHRT_000_013	Tenemos informes de incursiones tan al sur como el Sagolii Desert, así que no basta con aumentar las patrullas en los caminos hacia Little Ala Mhigo.
+TEXT_BANAMA001_01217_GISILBEHRT_000_014	Tenemos que dar una respuesta decisiva, y pronto. ¡La próxima vez que aparezcan los Amalj'aa, quiero que estés <if(gnum4,lista,listo)> para mandarlos de vuelta al desierto aullando!
+TEXT_BANAMA001_01217_GISILBEHRT_000_015	De hecho, poco antes de que llegaras, nuestros exploradores informaron de un mercader descansando a plena vista en una de las rutas comerciales. Ve rápido al lugar que marqué en tu mapa y procura que un grupo de asaltantes no se lleve a ese tonto.
+TEXT_BANAMA001_01217_GISILBEHRT_100_016	Si ese mercader no se mueve, los Amalj'aa seguro lo notarán. Por favor, ve rápido al lugar que marqué en tu mapa y vigila que no aparezcan asaltantes.
+TEXT_BANAMA001_01217_MERCHANTA_000_050	¿Qué pasa, <if(gnum4,aventurera,aventurero)>? No voy a montar la tienda aquí, solo paré a darles un descans- ¿Asaltantes Amalj'aa, dice? ¿Secuestrando <italic(1)>mercaderes<italic(0)>? ¿No podría esperar hasta que vuelva a enganchar a mis chocobos?
+TEXT_BANAMA001_01217_MERCHANTA_000_051	¡Gracias por no abandonarme a esos salvajes!<br>...¿No es raro que los Amalj'aa peleen entre ellos? Supongo que hasta los hombres bestia tienen sus peleas.
+TEXT_BANAMA001_01217_HAMUJIGAH_000_020	(-Amalj'aa cubierto de ceniza-)¡Necios confiados! ¿Creen que sus incursiones pasan desapercibidas?
+TEXT_BANAMA001_01217_AMALJAAENEMY_000_021	(-Asaltante Amalj'aa-)¿Qué traición es esta? ¿Ustedes... son de la Brotherhood of Ash?
+TEXT_BANAMA001_01217_HAMUJIGAH_000_022	(-Amalj'aa cubierto de ceniza-)Lo somos. ¡Aunque seamos pocos, hoy seremos su muerte!
+TEXT_BANAMA001_01217_AMALJAAENEMY_000_023	(-Asaltante Amalj'aa-)¡Paganos traidores! ¡Su victoria tendrá un precio!
+TEXT_BANAMA001_01217_AMALJAAENEMY_000_024	(-Asaltante Amalj'aa-)¡Aaaaaagh!
+TEXT_BANAMA001_01217_LLOONGAH_000_025	(-Miqo'te enmascarada-)¿Atacar cuando el enemigo da la espalda? ¡Tus antepasados se revolverían en sus tumbas!
+TEXT_BANAMA001_01217_HAMUJIGAH_000_026	(-Amalj'aa cubierto de ceniza-)La vida de un soldado es peligrosa. Y la primera regla de la guerra es comprender la mente del enemigo, además de la propia.
+TEXT_BANAMA001_01217_HAMUJIGAH_000_027	(-Amalj'aa cubierto de ceniza-)Su presencia no pasa desapercibida, <if(gnum4,aventurera,aventurero)>. Pero esta batalla es nuestra: ¡no necesita intervenir!
+TEXT_BANAMA001_01217_HAMUJIGAH_000_028	Soy Hamujj Gah, y dirijo la Brotherhood of Ash. Somos lo que queda ahora que las llamas devoradoras redujeron al resto de mi pueblo a fanáticos sin pensamiento.
+TEXT_BANAMA001_01217_HAMUJIGAH_000_029	Me interesa, <if(gnum4,hija,hijo)> de Eorzea. Sea fortuna o destino, no ignoraré las fuerzas que quisieron reunirnos. Le extiendo una invitación a unirse a nosotros en el Ring of Ash.
+TEXT_BANAMA001_01217_HAMUJIGAH_000_030	Sea <if(gnum4,bienvenida,bienvenido)> al Ring of Ash, <if(gnum4,aventurera,aventurero)>. Este lugar sirve de hogar a nuestra humilde reunión de soldados.
+TEXT_BANAMA001_01217_HAMUJIGAH_000_031	Mis hermanos y yo buscamos siempre perfeccionar nuestra destreza marcial y honrar la sangre de nuestros antepasados. Seguimos las viejas costumbres, las del nómada del desierto y del guerrero. A quien lo merece le mostramos el debido respeto, sin importar su origen.
+TEXT_BANAMA001_01217_HAMUJIGAH_000_032	\<olfateo> Su aura... lleva el hedor del azufre. ¿Será usted <if(gnum4,una de las campeonas,uno de los campeones)> que, según dicen, abatieron al Lord of the Inferno?
+TEXT_BANAMA001_01217_HAMUJIGAH_000_033	Entonces quiero que comprenda la maldición que ha caído sobre nuestros hermanos fanáticos.
+TEXT_BANAMA001_01217_HAMUJIGAH_000_034	Olvidaron el código que rige a nuestro pueblo, la gloria de la muerte del guerrero. Se llevan a los débiles y a los enfermos, y los ofrecen a cambio de las bendiciones envenenadas de un dios decrépito.
+TEXT_BANAMA001_01217_HAMUJIGAH_000_035	Día tras día presencio los actos vergonzosos de los míos. El honor de los Amalj'aa es algo desteñido y miserable, ya sin la justa fortuna de la batalla.
+TEXT_BANAMA001_01217_HAMUJIGAH_000_036	Son estos secuestros los que más avivan las llamas de mi furia. ¡A menudo las víctimas ni siquiera llevan armas! ¿Qué triunfo puede haber en ataques tan cobardes?
+TEXT_BANAMA001_01217_HAMUJIGAH_000_037	Somos cazadores, mis hermanos y yo, y los Amalj'aa caídos que se apiñan en Zanr'ak son nuestra presa. Si comparte mi indignación, ¡le invito a sumarse a nuestra guerra entre hermanos!
+TEXT_BANAMA001_01217_LLOONGAH_000_038	(-???-)¡No, no voy a aceptar a <if(gnum4,esta impostora,este impostor)>!
+TEXT_BANAMA001_01217_LLOONGAH_000_039	(-Miqo'te enmascarada-)¿Dices ser <if(gnum4,una de las heroínas que derribaron,uno de los héroes que derribaron)> a Ifrit? He cortado a una docena de hombres que presumían de esa hazaña. ¡Lo más probable es que hayas matado a un sprite de fuego moribundo y te hayas convencido de que era el rey del séptimo infierno!
+TEXT_BANAMA001_01217_HAMUJIGAH_000_040	No pedí tu consejo, Loonh Gah. Yo, y solo yo, tomo esta decisión por la Brotherhood.
+TEXT_BANAMA001_01217_LLOONGAH_000_041	Hmph. Entonces más te vale no cruzarte con mis flechas, <if(gnum4,aventurera,aventurero)>. ¡Tenemos demasiados enemigos como para desperdiciar munición en "héroes" engreídos como tú!
+TEXT_BANAMA001_01217_HAMUJIGAH_000_042	Perdone esta interrupción. Yo respondo por la autenticidad de su palabra. Solo quien enfrentó y venció a Ifrit podría tener su <italic(1)>olor<italic(0)>.
+TEXT_BANAMA001_01217_HAMUJIGAH_100_042	Pero las glorias pasadas no impresionarán a mis soldados. Demuestre su valía con sus actos, y quizá mejore su recibimiento aquí.
+TEXT_BANAMA001_01217_HAMUJIGAH_000_043	¡Nuestros enemigos son los Amalj'aa de Zanr'ak! ¡Romperemos los colmillos que se ceban en los indefensos! ¡Nuestro objetivo es claro, y nuestra determinación, inquebrantable!

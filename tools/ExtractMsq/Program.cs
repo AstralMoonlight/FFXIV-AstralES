@@ -165,22 +165,55 @@ foreach (var q in quests.Where(q => q.JournalGenre.RowId == 0 && q.ClassJobUnloc
 
 Console.WriteLine($"class and job quests: {jobLines} lines → {Path.Combine(output, "jobs")}");
 
-// Sidequests that unlock a game feature, picked by name: the aesthetician, glamours and dyes.
-string[] featureNames = ["Beauty Is Only Scalp Deep", "If I Had a Glamour", "Color Your World"];
+// Sidequests that unlock a game feature, picked by id (several share a name, one per city or Grand
+// Company). New ones go at the end: the position is the file's number.
+string[] featureIds =
+[
+    // Character and gear
+    "SubCts801", "SubCts896", "SubSea921", "SubCts806", "SubCts897", "SubCts823", "SubCts828", "SubCts815", "SubWil500",
+    "SubWil501", "SubWil502", "SubCts814", "SubCts807", "SubCts808", "SubCts819",
+    // General systems
+    "SubCts810", "SubCts817", "SubCts802", "SubCts812", "SubCts811", "SubCts813", "SubSea910", "SubFst120", "SubWil160",
+    "SubFst911", "SubCts821", "SubCts805", "SubCts803", "SubCts804", "AktKyr103", "SubSea906", "SubFst121", "SubWil154",
+    "SubSea901", "SubSea902", "SubSea903", "SubSea904", "SubSea905", "SubFst070", "SubFst071", "SubFst100", "SubFst101",
+    "SubWil150", "SubWil151", "SubWil152", "SubWil153", "SubRoc901", "SubRoc902", "SubLak901", "HeaVny815", "HeaVny809",
+    "StmBdy109", "LucKyb005", "AktKyr104", "KinGyr103", "ComLim001", "ComGrd001", "ComUld001", "ComLim002", "ComGrd002",
+    "ComUld002", "ComAll001", "LucKyb815",
+    // Gathering and crafting
+    "HeaVny801", "HeaVny804", "HeaVny803", "HeaVny802", "StmBdy104", "SubCts826", "LucKht001",
+    // Custom Deliveries
+    "SubCts600", "SubCts610", "SubCts611", "SubCts620", "SubCts621", "SubCts630", "SubCts631", "SubCts640", "SubCts641",
+    "SubCts642", "SubCts650", "SubCts651", "SubCts652", "SubCts660", "SubCts661", "SubCts670", "SubCts671", "SubCts672",
+    "SubCts680", "SubCts681", "SubCts682", "SubCts605", "SubCts606", "KinGsf101", "KinGsf102", "KinGsf103", "KinGsf201",
+    "KinGsf202",
+    // Gold Saucer
+    "SubGsc001", "SubGsc002", "SubGsc101", "SubGsc105", "SubGsc106", "SubCts691", "SubGsc107",
+    // The Hunt
+    "ComLim003", "ComGrd003", "ComUld003", "HeaVny810", "HeaVny811", "HeaVny812", "HeaVny813", "StmBdy105", "StmBdy106",
+    "StmBdy107", "StmBdy108", "LucKyb001", "LucKyb002", "LucKyb003", "LucKyb004", "AktKyr201", "AktKyr202", "AktKyr203",
+    "AktKyr204", "KinGyr201", "KinGyr202", "KinGyr203", "KinGyr204",
+    // Separate content
+    "SubCts701", "StmBdy701", "AktKdd101", "KinGdd101", "AktKva101", "AktKva201", "AktKva301", "KinGva101", "AktKua101",
+    "StmBdy501", "StmBdy503", "LucKha001", "KinGwk101", "KinGkd001",
+    // Allied societies: the quest that opens each one
+    "BanAma001", "BanSyl001", "BanKob001", "BanSah001", "BanIxa001", "BanVan001", "BanGna001", "BanMog001", "BanKjn001",
+    "BanAna001", "BanNam000", "BanPix001", "BanQiq001", "BanDwa001", "BanArk001", "BanOmi001", "BanLop001", "BanPel001",
+    "BanMam001", "BanYok001",
+];
 
-foreach (var (name, i) in featureNames.Select((n, i) => (n, i + 1)))
+foreach (var (wanted, i) in featureIds.Select((n, i) => (n, i + 1)))
 {
-    var q = quests.FirstOrDefault(q => q.Name.ExtractText() == name && q.JournalGenre.RowId != 0);
+    var q = quests.FirstOrDefault(q => q.JournalGenre.RowId != 0 && q.Id.ExtractText().StartsWith(wanted + "_"));
     var id = q.RowId == 0 ? "" : q.Id.ExtractText();
 
     if (id.Length == 0 || !sheetNames.Contains($"quest/{id[^5..^2]}/{id}"))
     {
-        missing.Add($"feature {name}");
+        missing.Add($"feature {wanted}");
         continue;
     }
 
     var file = $"{i:00}-{id}.tsv";
-    index.Append($"\tfeatures\t{file}\t{q.RowId}\t{name}\t{WriteSheet($"quest/{id[^5..^2]}/{id}", Path.Combine(output, "features", file))}\n");
+    index.Append($"\tfeatures\t{file}\t{q.RowId}\t{q.Name.ExtractText().Trim()}\t{WriteSheet($"quest/{id[^5..^2]}/{id}", Path.Combine(output, "features", file))}\n");
 }
 
 // The events running now, numbered in this order: All Saints' Wake 2026 (its two quests, then what

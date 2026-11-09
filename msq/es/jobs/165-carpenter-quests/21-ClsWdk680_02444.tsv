@@ -1,0 +1,119 @@
+key	text
+TEXT_CLSWDK680_02444_SEQ_00	Kotokaze te hace señas con entusiasmo, carta en mano.
+TEXT_CLSWDK680_02444_SEQ_01	Kotokaze te detiene y te dice que tiene una carta para ti. Al leerla rápidamente, te enteras de que Cemi llegó sin incidentes a Namai, en Yanxia. Aunque parece estar disfrutando su estancia allí, gran parte de lo que escribe está dedicado a la comida. Quizá sea mejor que partas de inmediato a Namai y le recuerdes el propósito de su viaje: continuar sus estudios de muebles orientales.
+TEXT_CLSWDK680_02444_SEQ_02	Al principio Cemi no puede hablar más que de comida, pero basta un severo recordatorio tuyo para encarrilarla. Una vez más, deciden empezar a buscar a alguien que pueda necesitar ayuda.
+TEXT_CLSWDK680_02444_SEQ_03	Te encuentras con un hombre llamado Reizan, que era cocinero en Doma antes del Empire. Ahora que se debilita el dominio garleano sobre estas tierras, quiere cumplir el sueño de su vida y abrir un restaurante. Pero con fondos limitados, le cuesta conseguir los muebles que necesita. Cemi aprovecha para ofrecerse, y agrega que le gustaría convertir esto en una competencia entre ustedes dos para ver quién satisface mejor al cliente. Reizan no se opone y pide algo que se adapte a las costumbres alimentarias tanto de la gente del enclave como de la del campo. Para saber exactamente qué, sugiere hablar con los residentes del lugar.
+TEXT_CLSWDK680_02444_SEQ_04	Al hablar con los habitantes cercanos, te enteras de que la gente del enclave solo come en privado, porque considera grosero hacerlo delante de desconocidos. Esta información debería ayudarte a decidir qué fabricar para Reizan. Quizá sea buen momento para buscar a Cemi, comentarle tus ideas y recibir los materiales necesarios.
+TEXT_CLSWDK680_02444_SEQ_05	Al oír que piensas fabricar biombos, Cemi empieza a lanzarte acusaciones, convencida de que nunca te dignarías a crear algo tan simple a menos que quisieras perder a propósito. Una simple explicación la calma enseguida, y se disculpa. Te entrega los materiales que puedas necesitar y te deja fabricar ornate partitions de alta calidad para Reizan.<br><br>※Si pierdes los materiales o la síntesis falla, puedes intentarlo de nuevo hablando con Cemi.
+TEXT_CLSWDK680_02444_SEQ_06	Justo cuando tu cliente está por decidir quién ganó, aparece Timbermaster Beatin y empieza a dar su opinión experta. Aunque declara que ambos objetos están muy bien hechos, se abstiene de más comentarios. Todos se vuelven entonces hacia Reizan. El cocinero declara que desde el primer momento supo cuál prefería, porque tu creación cumple su pedido de algo que permita comer con comodidad a la gente del enclave y a la del campo. Terminada la competencia, Beatin les pide a Cemi y a ti que vuelvan a Gridania.
+TEXT_CLSWDK680_02444_SEQ_07	A lo largo de sus estudios en el Lejano Oriente, Cemi comprendió la importancia de escuchar a sus clientes y adaptar sus muebles a sus deseos y necesidades. Con esta importantísima lección bien aprendida, Timbermaster Beatin confía en que será mejor carpenter gracias a ella. Te agradece haber inspirado a su joven aprendiz y te pide que hables con ella una última vez antes de irte.
+TEXT_CLSWDK680_02444_SEQ_08	Cemi te cuenta emocionada que el maestro carpintero la considera digna de aceptar clientes. Además de cumplir encargos, planea seguir practicando la fabricación de muebles orientales para no olvidar lo que aprendió durante su estancia en el Lejano Oriente. Parece que te admira mucho y espera llegar a ser algún día tan maestra en el oficio como tú.<br><br>※La siguiente misión de carpenter estará disponible con Cemi al llegar al nivel 70.
+TEXT_CLSWDK680_02444_TODO_00	Habla con Cemi Jinjahl en Namai.
+TEXT_CLSWDK680_02444_TODO_01	Busca a aldeanos con problemas.
+TEXT_CLSWDK680_02444_TODO_02	Habla con los residentes de Namai.
+TEXT_CLSWDK680_02444_TODO_03	Habla con Cemi Jinjahl.
+TEXT_CLSWDK680_02444_TODO_04	<if([lnum1<lnum2],Sintetiza una ornate partition <sheet(Addon,9,0)>,Entrégale la ornate partition <sheet(Addon,9,0)> a Reizan)>.
+TEXT_CLSWDK680_02444_TODO_05	Regresa al Carpenters' Guild en Gridania.
+TEXT_CLSWDK680_02444_TODO_06	Habla con Cemi Jinjahl.
+TEXT_CLSWDK680_02444_KOTOKAZE_000_001	¡Ah, <split(<string(gstr1)>, ,1)>! Acaba de llegar una carta de Cemi para usted.
+TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_002	(-Carta de Cemi-)<italic(1)>Estimad<if(gnum4,a,o)> <split(<string(gstr1)>, ,1)>:<br>Le escribo para contarle que llegué a una pequeña aldea de Yanxia llamada Namai.<italic(0)>
+TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_003	(-Carta de Cemi-)<italic(1)>Es un lugar encantador. Todos los días descubro algo nuevo, ya sean los materiales inusuales que emplean en sus construcciones o las comidas desconocidas pero deliciosas.<italic(0)>
+TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_004	(-Carta de Cemi-)<italic(1)>Ah, sí, la comida de aquí es exquisita, y sus postres son todavía mejores. ¡De hecho, las bolitas de masa azucaradas son para morirse!<italic(0)>
+TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_005	(-Carta de Cemi-)<italic(1)>Le invitaré cuando venga. Hasta pronto.<br>Atentamente,<br>Cemi<italic(0)>
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_010	¡<split(<string(gstr1)>, ,1)>! Qué maravilla verle. Hacía demasiado tiempo.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_011	¿Ya probó la cocina local? Si no, conozco el lugar perfecto para empezar.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_012	¡Y-Yo pensaba llevarle allí solo para hablar de negocios, lo juro! Después de todo, ¿qué mejor lugar que frente a un plato de comida?
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_013	¡Gah!
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_014	¡Está bien, está bien! Tomo nota de su desaprobación. En lugar de ir a comer, busquemos entonces a quien pueda necesitar nuestra ayuda.
+TEXT_CLSWDK680_02444_KOTOKAZE_000_015	Ah, el Culinarians' Guild debe de estar muy orgulloso de tener a alguien tan apasionado por la comida como Cemi. Seguro que algún día será una gran cocinera.
+TEXT_CLSWDK680_02444_REIZAN_000_020	¿Ayuda? Sí, me vendría bien un poco.
+TEXT_CLSWDK680_02444_REIZAN_000_021	Verás, en los días anteriores al dominio del Empire sobre nuestras tierras, yo era cocinero. Aunque nuestra libertad de ellos es pasajera, me gustaría aprovechar esta oportunidad para volver a dedicarme a mi pasión por la cocina. Por eso he estado pensando en abrir mi propio restaurante.
+TEXT_CLSWDK680_02444_REIZAN_000_022	Verás, en los días anteriores al dominio del Empire sobre nuestras tierras, yo era cocinero. Tengo la esperanza de que algún día, cuando expulsen a las fuerzas imperiales de nuestro país, pueda volver a dedicarme a mi pasión. Cuando llegue ese momento, quiero abrir mi propio restaurante.
+TEXT_CLSWDK680_02444_REIZAN_000_025	Para hacerlo, tendría que conseguir los muebles básicos para mi futuro local. No es una tarea sencilla. Casi todo lo que he encontrado es demasiado caro o de mala calidad.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_030	Entonces le alegrará saber, señor, que tiene ante usted a dos miembros muy hábiles del Carpenters' Guild de Gridania. Nos aseguraremos de que reciba los muebles que necesita.
+TEXT_CLSWDK680_02444_REIZAN_000_045	¿Harían esto por mí?
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_050	Por supuesto. ¿Qué tipo de muebles necesita?
+TEXT_CLSWDK680_02444_REIZAN_000_055	Además de mesas y sillas, necesito algo que haga sentir cómodos a mis clientes. Los del enclave tienen costumbres distintas a las nuestras, las de Namai, a la hora de comer. Me gustaría crear un ambiente donde ambos se sientan igual de bienvenidos.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_060	Por favor, déjelo en nuestras manos, señor. Ahora, <split(<string(gstr1)>, ,1)>, ¿qué le parece si hacemos esto un poquito más interesante? Convirtámoslo en una competencia.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_065	Cada quien hará algo para nuestro cliente y le presentaremos el producto terminado. Él los juzgará y decidirá quién gana.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_070	Por favor, por favorcito, ¿no lo haría por mí? Es la única forma de demostrarle a Timbermaster Beatin que soy tan hábil como todos los demás carpenters del gremio.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_075	¡Ja, ja! ¡Entonces está decidido!
+TEXT_CLSWDK680_02444_REIZAN_000_080	Hagan los muebles como quieran, pero les recomiendo hablar con la gente de aquí antes de empezar. Algunos han vivido aquí toda su vida, otros vivieron en el enclave. Con su ayuda podrán entender mejor las sutiles diferencias en nuestras costumbres.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_085	Gracias, señor, lo haremos. <split(<string(gstr1)>, ,1)>, cuando decida qué va a fabricar, venga a buscarme. Le daré los materiales que pueda necesitar.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_086	¿Hola? ¿Hay alguien por ahí que busque los servicios de una joven carpenter? ¿Alguien?
+TEXT_CLSWDK680_02444_INAGARA_000_090	Yo diría que la gente del enclave es más elegante que nosotros: nunca vi a uno despeinado o con ropa mal planchada. Allá le dan mucha importancia a las reglas, a los modales y a la moda.
+TEXT_CLSWDK680_02444_MANAZURU_000_091	Sí. Supongo que se podría decir que soy del enclave, aunque he vivido aquí la mayor parte de mi vida. De joven, mi familia y yo huimos a esta aldea para escapar de las tropas imperiales.
+TEXT_CLSWDK680_02444_MANAZURU_000_092	¿Q-Qué? ¿¡Quiere que le <italic(1)>demuestre<italic(0)> la diferencia en las costumbres a la hora de comer!?
+TEXT_CLSWDK680_02444_MANAZURU_000_093	Hmph. Me temo que en eso no puedo ayudarle.
+TEXT_CLSWDK680_02444_MIYAKE_000_094	La única diferencia es que aquí los modales en la mesa prácticamente no existen. La gente tiene buen corazón, pero no tiene sentido de la etiqueta. ¡Comen en la calle y sorben su té delante de uno!
+TEXT_CLSWDK680_02444_MIYAKE_000_095	Se debe comer a puerta cerrada, con la familia o los amigos. \<suspiro> Estaría bien que al menos comieran detrás de algún biombo y nos ahorraran el espectáculo a los demás...
+TEXT_CLSWDK680_02444_REIZAN_000_096	Tu amiga está llena de energía.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_100	<split(<string(gstr1)>, ,1)>, recuerde venir a buscar sus materiales cuando decida qué va a fabricar.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_110	¡Ah, <split(<string(gstr1)>, ,1)>! ¿Por fin decidió qué va a fabricar?
+TEXT_CLSWDK680_02444_Q1_000_000	¿Qué vas a decir?
+TEXT_CLSWDK680_02444_Q1_000_001	¡Voy a construir el restaurante entero desde cero!
+TEXT_CLSWDK680_02444_Q1_000_002	Un escudo de madera para proteger la comida de, bueno, ya sabes...
+TEXT_CLSWDK680_02444_Q1_000_003	Ornate partitions que se puedan colocar entre las mesas.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_111	¿Perdió la cabeza? Tiene una habilidad increíble, pero ni siquiera usted podría lograr semejante hazaña en tan poco tiempo.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_112	¿Proteger la comida de qué, exactamente? No suena a un lugar donde alguien quisiera comer a gusto...
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_113	...¿Biombos? Pero eso parece tan... aburrido. Eso no es lo que <italic(1)>realmente<italic(0)> piensa hacer, ¿verdad?
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_114	...¡Un momento! No estará intentando perder a propósito, ¿verdad?
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_115	Aunque sé que todavía no soy tan buena como usted, nunca pensé que me viera tan por debajo como para sentir la necesidad de hacer <italic(1)>esto<italic(0)>...
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_116	Mis disculpas. Parece que volví a sacar conclusiones apresuradas. Sé que usted no es de las personas que harían algo así.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_117	No es excusa, pero últimamente estoy muy nerviosa. No puedo quitarme la sensación de que esta es mi última oportunidad de convencer a Timbermaster Beatin de que soy una carpenter capaz y digna de ese nombre. Si no lo logro, quizá deje de asignarme trabajo, y entonces más vale que me vaya del gremio.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_118	¡No dejaré que llegue a eso! Cueste lo que cueste, debo encontrar la forma de demostrar lo que valgo.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_119	¡Ay, se me olvidó por completo! Lo siento muchísimo. No quería ponerme a parlotear sobre mis preocupaciones. Después de todo, vino por los materiales, ¿verdad?
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_120	Aquí tiene. Vuelva si no le alcanza.
+TEXT_CLSWDK680_02444_REIZAN_000_121	¿Tu amiga siempre es tan... entusiasta?
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_122	¿Perdió los materiales que le di? \<suspiro>
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_123	Supongo que una de las muchas ventajas de ser una gran carpenter es que nadie le da largos sermones cuando pierde cosas...
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_124	Bueno, aquí tiene. Ahora sí debo volver a mi trabajo, así que por favor cuide de no volver a perder sus materiales.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_125	Por favor, llévele sus biombos a Reizan. Yo también iré con él en breve.
+TEXT_CLSWDK680_02444_REIZAN_000_130	¿Hm? ¿Qué tenemos aquí?
+TEXT_CLSWDK680_02444_BEATINE_000_131	Ejem. ¿Me permiten...?
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_132	¡Timbermaster Beatin!
+TEXT_CLSWDK680_02444_BEATINE_000_133	Esta mesa es exquisita. Es extremadamente sólida y, aun así, conserva una elegancia estilizada. ...Y estos grabados de estilo domano que recorren las patas, si no la conociera, diría que son obra de unas manos más experimentadas que las suyas, Cemi.
+TEXT_CLSWDK680_02444_BEATINE_000_134	Ahora, <split(<string(gstr1)>, ,1)>, veamos el suyo. Ah... Sencillo, y por eso mismo deslumbrante. El acabado de laca es un buen detalle: un brillo ligero, justo el necesario para realzar el rubor natural de la madera sin opacarlo.
+TEXT_CLSWDK680_02444_BEATINE_000_135	Aunque ambas son obras maestras por derecho propio, diré esto: hasta a un artesano muy hábil le costaría recrear los detallados grabados de la mesa.
+TEXT_CLSWDK680_02444_BEATINE_000_136	¿Usted qué piensa, señor?
+TEXT_CLSWDK680_02444_REIZAN_000_137	En cuanto lo vi, supe cuál de estos quería, cuál necesitaba desesperadamente, incluso. Elijo...
+TEXT_CLSWDK680_02444_REIZAN_000_138	¡Este!
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_139	No voy a negar que <split(<string(gstr1)>, ,1)> es mejor carpenter que yo. También admito que tiene habilidades con las que yo solo podría soñar... Pero yo... ¡yo puse todo mi corazón y mi alma en esa mesa!
+TEXT_CLSWDK680_02444_BEATINE_000_140	Señor, ¿por qué eligió los biombos de <split(<string(gstr1)>, ,1)> en lugar de la mesa de Cemi?
+TEXT_CLSWDK680_02444_REIZAN_000_141	Es muy simple. La gente de la ciudad de Doma es muy reservada. Apreciaría que estas barreras de madera la ocultaran mientras come.
+TEXT_CLSWDK680_02444_REIZAN_000_142	La mesa de la señorita es magnífica, una obra de arte incluso. Pero no cubre las necesidades de mis clientes como estos biombos.
+TEXT_CLSWDK680_02444_BEATINE_000_143	Parece que el tiempo que tomó tallar los intrincados detalles de esta mesa habría estado mejor invertido en entrevistar a los habitantes del lugar.
+TEXT_CLSWDK680_02444_BEATINE_000_144	Cemi, ¿entiende ahora por qué perdió? Estaba tan concentrada en demostrar su propia habilidad que descuidó las necesidades del cliente.
+TEXT_CLSWDK680_02444_BEATINE_000_145	<split(<string(gstr1)>, ,1)>, en cambio, habló con los residentes de esta aldea, y eso l<if(gnum4,a,o)> inspiró a crear estos biombos, un producto que pone las necesidades del cliente por encima de todo.
+TEXT_CLSWDK680_02444_BEATINE_000_146	En ese sentido, la diferencia entre su mesa y sus biombos es la diferencia entre un carpenter decente y un verdadero maestro del oficio.
+TEXT_CLSWDK680_02444_BEATINE_000_147	Dicho esto, aquí termina su viaje. Espero verlos a ambos de vuelta en Gridania poco después de mi regreso.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_148	No... No, no puede ser. Por favor, díganme que Timbermaster Beatin no se rindió conmigo. Ay, ¿qué voy a hacer?
+TEXT_CLSWDK680_02444_REIZAN_000_149	¿Tu amiga está bien? Aunque no entendí de qué se trataba todo eso, quisiera agradecerte tu maravillosa contribución. Seguro que le quedará perfecta a mi restaurante.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_150	¿Ya terminó? ¿Tan pronto? Bueno, ¿qué espera? Llévele el biombo a Reizan. Yo los alcanzo en breve.
+TEXT_CLSWDK680_02444_REIZAN_000_151	Abrir un restaurante siempre fue mi sueño. Pensar que pronto podría estar a mi alcance me llena de una alegría indescriptible.
+TEXT_CLSWDK680_02444_CUSTOMERA02444_000_170	¡Timbermaster Beatin, gracias a la Matron que volvió! Se rompieron los cajones de este escritorio que me hizo. ¿Habrá alguna forma de arreglarlos?
+TEXT_CLSWDK680_02444_BEATINE_000_171	Veré qué se puede hacer. Después de todo, difícilmente puedo negarle algo a quien aprecia tanto una de mis creaciones.
+TEXT_CLSWDK680_02444_CUSTOMERB02444_000_172	Timbermaster Beatin, señor. Mi hijo... acaban de aceptarlo en la Order of the Twin Adder. Para celebrarlo, me gustaría que le fabricara una buena lanza.
+TEXT_CLSWDK680_02444_BEATINE_000_173	La Order of the Twin Adder... Es todo un logro. Muy bien. Le haré una que lo acompañe en todas sus batallas.
+TEXT_CLSWDK680_02444_CUSTOMERC02444_000_174	¡Espere, señor! ¡Vuelva! \<suspiro> Yo también tenía un pedido para él, pero supongo que tendrá que esperar. Debí saber que no iba a ser fácil conseguir que el mejor carpenter de toda Gridania me hiciera algo.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_175	Disculpen. Eh... Si no les molesta que pregunte, ¿por qué les agrada tanto a todos Timbermaster Beatin?
+TEXT_CLSWDK680_02444_CUSTOMERC02444_000_176	Cuando le pides que haga algo, lo crea para ti y solo para ti.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_177	Hacer algo para esa persona y solo para esa persona... Ahora que lo pienso, así empecé yo en la carpintería.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_178	Nací en una familia más pobre que la tierra, donde no podíamos comprar ni los muebles más básicos.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_179	Mi madre nos crió sola, trabajando de sol a sol para que mis hermanas y yo no nos acostáramos con hambre. Por eso se exigió demasiado y un día el dolor de espalda se le hizo insoportable.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_180	Verla sufrir me llevó a hacerle un sillón para que pudiera descansar de vez en cuando. Era lo único que se me ocurrió de pequeña.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_181	Aunque el resultado crujía y se doblaba bajo su peso, mientras lo hacía nunca perdí de vista, ni por un momento, que era todo para ella.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_182	He estado tan pendiente de mí misma, de intentar demostrar mi habilidad, que en algún punto del camino olvidé lo más importante...
+TEXT_CLSWDK680_02444_BEATINE_000_183	Nunca es demasiado tarde para recordar y empezar de nuevo...
+TEXT_CLSWDK680_02444_BEATINE_000_184	Cemi, la clave para aprovechar su potencial es reconocer qué la frena. A partir de aquí, solo puede crecer.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_185	...Sí. ¡Sí, señor! Tiene toda la razón. Todavía hay esperanza para mí.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_186	<split(<string(gstr1)>, ,1)>, gracias por apoyarme hasta ahora. Solo gracias a usted llegué hasta aquí.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_187	De hecho, me atrevería a decir que nuestras grandes aventuras juntas me hicieron sentir como si hubiera vuelto a nacer. ¡Tengo muchas ganas de volver a explorar el mundo de la carpintería!
+TEXT_CLSWDK680_02444_BEATINE_000_188	Ella no es la única que tiene una deuda de gratitud con usted. Aunque tengo habilidad con la madera, no la tengo tanto para tratar con la gente y sus problemas. Usted ayudó a Cemi de maneras que yo no pude.
+TEXT_CLSWDK680_02444_BEATINE_000_189	Usted es parte de la razón por la que tengo tantas esperanzas en la muchacha. Con <if(gnum4,una mentora,un mentor)> como usted a quien admirar, sin duda florecerá. Por eso le pido que hable con ella una última vez antes de irse.
+TEXT_CLSWDK680_02444_REIZAN_000_195	Gracias por toda tu ayuda. Si alguna vez vuelves de visita, no dejes de pasar por mi nuevo restaurante.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_200	<split(<string(gstr1)>, ,1)>, le alegrará saber que Timbermaster Beatin por fin considera mi trabajo lo bastante bueno para empezar a aceptar mis propios clientes. ¿No es emocionante?
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_201	Pero eso no significa que vaya a olvidar mis estudios ni los problemas del gremio. Entre encargo y encargo, seguiré practicando cómo hacer muebles orientales. Así podré conservar todo lo que aprendí en nuestros viajes a Kugane y Namai.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_202	Pero eso no es todo. Tendré presente a la gente que conocimos allá. Me ayudará a recordar que estos muebles no los hago para mí, sino para quienes me rodean.
+TEXT_CLSWDK680_02444_CEMIJINJAHL_000_203	Ya verá, <split(<string(gstr1)>, ,1)>. Voy a trabajar tan duro que un día seré tan buena como usted.
+TEXT_CLSWDK680_02444_BEATINE_000_205	Cemi descubrió el secreto para convertirse en verdadera artesana. Aunque ahora solo sea una semilla, no tardará en empezar a brotar. Espero con ansias ver cómo florece.

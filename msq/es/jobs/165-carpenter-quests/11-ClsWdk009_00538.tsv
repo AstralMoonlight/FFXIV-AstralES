@@ -1,0 +1,52 @@
+key	text
+TEXT_CLSWDK009_00538_SEQ_00	Timbermaster Beatin parece llevar una pesada carga...
+TEXT_CLSWDK009_00538_SEQ_01	Beatin parece abatido por un incidente con Gairhard. Averigua qué sabe Nicoliaux de los problemas del maestro carpintero.
+TEXT_CLSWDK009_00538_SEQ_02	Nicoliaux te cuenta de una discusión entre Beatin y Gairhard que parecía tener que ver con un arco viejo. Incapaz de calmarse, Beatin echó a su amigo del gremio. Mientras Nicoliaux intenta consolar al maestro carpintero, habla con Gairhard en el Adders' Nest para saber más del incidente.
+TEXT_CLSWDK009_00538_SEQ_03	Gairhard no entra en detalles sobre la discusión, y explica que su encargo es de gran importancia. Sin otro recurso, te pide que fabriques una cobalt halberd, un jade crook y un yew longbow. Para garantizar la calidad de las armas, también te pide que se las presentes a Beatin para que las inspeccione antes de entregárselas.
+TEXT_CLSWDK009_00538_SEQ_04	Algo recuperado de su malestar, Beatin evalúa y aprueba tus productos. Vuelve al Adders' Nest y entrégale los objetos a Gairhard.
+TEXT_CLSWDK009_00538_SEQ_05	Después de agradecerte tu esfuerzo, Gairhard reconoce que tiene tanta culpa como Beatin de la disputa. Aun así, él y su escuadrón deben partir pronto de Gridania para su siguiente misión, y no tendrá otra oportunidad de visitar al maestro carpintero en mucho tiempo. Dale los saludos del capitán a Beatin.
+TEXT_CLSWDK009_00538_SEQ_06	A Beatin le entristece saber de la partida de Gairhard, aunque entiende que es una consecuencia inevitable de la vida de soldado. También te revela la naturaleza de la discusión: al parecer, el maestro carpintero se negó a aceptar el encargo hasta que el capitán le permitiera reemplazar su viejo longbow. Aunque teme que el arma de Gairhard no dure otra luna, lamenta haber perdido los estribos y espera que su amigo vuelva pronto.<br><br>※La siguiente misión de carpenter estará disponible con Beatin al llegar al nivel 50.
+TEXT_CLSWDK009_00538_TODO_00	Habla con Nicoliaux.
+TEXT_CLSWDK009_00538_TODO_01	Habla con Gairhard.
+TEXT_CLSWDK009_00538_TODO_02	Preséntale una cobalt halberd <sheet(Addon,9,0)>, un jade crook <sheet(Addon,9,0)> y un yew longbow <sheet(Addon,9,0)> a Beatin.
+TEXT_CLSWDK009_00538_TODO_03	Entrégale la cobalt halberd <sheet(Addon,9,0)>, el jade crook <sheet(Addon,9,0)> y el yew longbow <sheet(Addon,9,0)> a Gairhard.
+TEXT_CLSWDK009_00538_TODO_04	Informa a Beatin.
+TEXT_CLSWDK009_00538_BEATINE_000_001	\<suspiro> Ahora no, <split(<string(gstr1)>, ,1)>. Tengo demasiadas cosas en la cabeza.
+TEXT_CLSWDK009_00538_BEATINE_000_002	No pretendía que las cosas se pusieran tan... acaloradas. Pero Gairhard se negó a entrar en razón, y yo...
+TEXT_CLSWDK009_00538_BEATINE_000_003	No importa. Déjeme con mi trabajo. Si todavía desea compañía, quizá el joven Nicoliaux le sirva.
+TEXT_CLSWDK009_00538_NICOLIAUX_000_010	¡Me acuerdo de ti! <split(<string(gstr1)>, ,1)>, ¿no? A ver si adivino: Beatin te volvió a decir que te fueras.
+TEXT_CLSWDK009_00538_NICOLIAUX_000_011	Está así desde que Gairhard se fue. Tenía un encargo para el gremio, pero Beatin no quiso aceptarlo por un arco viejo o algo así.
+TEXT_CLSWDK009_00538_NICOLIAUX_000_012	Hubo gritos, y Beatin lo echó. Los dos se portaron como niños chiquitos...
+TEXT_CLSWDK009_00538_NICOLIAUX_000_013	No sé si servirá de algo, pero quizá deberías hablar con Gairhard de lo que pasó. Creo que volvió al Adders' Nest.
+TEXT_CLSWDK009_00538_NICOLIAUX_000_014	Déjame al viejo Beatin a mí. Yo lo haré entrar en razón.
+TEXT_CLSWDK009_00538_GAIRHARD_000_020	¿<split(<string(gstr1)>, ,1)>? ¿Qué te trae por aquí?
+TEXT_CLSWDK009_00538_GAIRHARD_000_021	...Así que te enteraste de lo que pasó en el gremio. Es una lástima que los niños hayan presenciado nuestra disputa.
+TEXT_CLSWDK009_00538_GAIRHARD_000_022	\<suspiro> Y es aún más lamentable que tenga que pedirte que te involucres. Mi pedido era para el maestro carpintero, pero ya que me rechazó, no tengo otra opción.
+TEXT_CLSWDK009_00538_GAIRHARD_000_023	Necesito una cobalt halberd, un jade crook y un yew longbow, de tu mejor calidad y lo más rápido posible.
+TEXT_CLSWDK009_00538_GAIRHARD_000_024	Este equipo es para una misión de gran importancia, y por eso acudí primero al maestro carpintero. Pero tú también eres artesan<if(gnum4,a,o)> de probada habilidad, <split(<string(gstr1)>, ,1)>, así que creo que puedo confiártelo.
+TEXT_CLSWDK009_00538_GAIRHARD_000_025	Aun así, debo pedirte que le presentes los objetos terminados a Beatin para que los inspeccione. Si los considera aceptables, los recibiré con gusto.
+TEXT_CLSWDK009_00538_GAIRHARD_000_030	Dada la naturaleza de esta misión, debo pedirte que primero le presentes las armas terminadas a Beatin para que las inspeccione. Solo podré aceptar tu trabajo cuando cuente con su aprobación.
+TEXT_CLSWDK009_00538_BEATINE_000_040	\<suspiro> Siento que debo disculparme por mi comportamiento, <split(<string(gstr1)>, ,1)>. Fue impropio de un timbermaster. ...Ah, así que aceptó completar el pedido de Gairhard. Muy bien, déjeme ver lo que hizo.
+TEXT_CLSWDK009_00538_BEATINE_000_041	Eligió bien las duelas del arco. No veo ninguna imperfección en el tejo que afecte su rendimiento.
+TEXT_CLSWDK009_00538_BEATINE_000_042	Los refuerzos de palisandro se ven sólidos, y la cuerda de tendón es de excelente calidad.
+TEXT_CLSWDK009_00538_BEATINE_000_043	No tengo objeciones contra este arco.
+TEXT_CLSWDK009_00538_BEATINE_000_044	Y creo que es la primera vez que juzgo una alabarda hecha por usted. Armas fascinantes, las alabardas.
+TEXT_CLSWDK009_00538_BEATINE_000_045	¿Sabía que las inventaron en Hellsguard? Sus marauders las usaron por primera vez para repeler unidades montadas. Quien sabía usarlas podía arrancar fácilmente a un jinete de su silla.
+TEXT_CLSWDK009_00538_BEATINE_000_046	En cuanto a esta alabarda, no tengo críticas. De hecho, dada la calidad de la hoja, no puedo evitar preguntarme si ha estado estudiando herrería...
+TEXT_CLSWDK009_00538_BEATINE_000_047	Aunque, incluso si <italic(1)>estuviera<italic(0)> siguiendo otras disciplinas, este cayado demuestra que no descuidó su carpintería.
+TEXT_CLSWDK009_00538_BEATINE_000_048	Los lujosos marrones rojizos de la caoba, los cautivadores verdes de la jadeíta...
+TEXT_CLSWDK009_00538_BEATINE_000_049	Es una verdadera expresión de la filosofía de Gridania, un triunfo de la artesanía hecho solo con los materiales necesarios. Bravo, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSWDK009_00538_BEATINE_000_050	Hice mal en rechazar a Gairhard. Pero, gracias a usted, su escuadrón no sufrirá por mi terquedad.
+TEXT_CLSWDK009_00538_BEATINE_000_051	Solo ruego que reconsidere mi oferta... Ah, sí: puede proceder con la entrega.
+TEXT_CLSWDK009_00538_GAIRHARD_000_060	¿Beatin no tuvo objeciones? ¡Excelente! Entonces, si me entregas las armas...
+TEXT_CLSWDK009_00538_GAIRHARD_000_061	Cuando nos conocimos, la calidad de tu trabajo ya era impresionante. Pero debo decir que, viendo tus últimos productos, hasta yo me doy cuenta de lo mucho que creciste, en lo profesional y en lo personal.
+TEXT_CLSWDK009_00538_GAIRHARD_000_062	O quizá se nota más en contraste con la de Beatin- \<suspiro> No, sería hipócrita de mi parte. Tengo tanta culpa de nuestra pelea como él.
+TEXT_CLSWDK009_00538_GAIRHARD_000_063	Te lo juro, cuando peleamos fue como si nada hubiera cambiado.
+TEXT_CLSWDK009_00538_GAIRHARD_000_064	En cualquier caso, gracias por tu esfuerzo. Esta próxima misión puede ser la más peligrosa hasta ahora, y me reconforta mucho saber que mi escuadrón lleva las mejores armas.
+TEXT_CLSWDK009_00538_GAIRHARD_000_065	Puede que pase un tiempo antes de que volvamos a vernos, tú, Beatin y yo. Por favor, dale mis saludos.
+TEXT_CLSWDK009_00538_BEATINE_000_070	¿Quedó contento, <split(<string(gstr1)>, ,1)>?<br>...Oh. Una vez más, no se despide en persona.
+TEXT_CLSWDK009_00538_BEATINE_000_071	Pero un soldado debe servir, y un carpenter debe fabricar. Esas son las vidas que elegimos.
+TEXT_CLSWDK009_00538_BEATINE_000_072	Intenté razonar con él. Me ofrecí a reemplazar su longbow. Pero se niega a enfrentar la realidad.
+TEXT_CLSWDK009_00538_BEATINE_000_073	Ese arco no durará otra luna, si es que llega.
+TEXT_CLSWDK009_00538_BEATINE_000_074	Pero mis fervientes protestas cayeron en oídos sordos. Dejé que me dominara el mal genio y dije muchas cosas de las que ahora me arrepiento.
+TEXT_CLSWDK009_00538_BEATINE_000_075	Cuando vuelva a Gridania, tendremos mucho de qué hablar. Ruego que ese día llegue pronto.

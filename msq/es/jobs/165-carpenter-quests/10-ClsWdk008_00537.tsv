@@ -1,0 +1,36 @@
+key	text
+TEXT_CLSWDK008_00537_SEQ_00	Timbermaster Beatin te mira con mucha atención.
+TEXT_CLSWDK008_00537_SEQ_01	Gairhard volvió a elegirte como su carpenter de confianza y te pidió que fabriques un oak composite bow. Beatin supone que el arco es para el propio Gairhard, y por eso no aceptará nada menos que la perfección absoluta. Fabrica un oak composite bow de calidad y preséntaselo al maestro carpintero.
+TEXT_CLSWDK008_00537_SEQ_02	A pesar de sus esfuerzos, Beatin no logra encontrar ningún defecto en tu trabajo. Satisfecho, te pide que le entregues el arco a Gairhard en el Adders' Nest.
+TEXT_CLSWDK008_00537_SEQ_03	Algo sorprendido por lo que supuso Beatin, Gairhard explica que el arco que fabricaste es para otro archer bajo su mando. El capitán sigue usando el mismo maple longbow que el maestro carpintero le hizo hace muchos años. Vuelve al Carpenters' Guild y habla con Beatin.
+TEXT_CLSWDK008_00537_SEQ_04	Beatin muestra emociones encontradas al saber que Gairhard todavía lleva su viejo longbow. Reflexiona brevemente sobre la revelación, hasta que recuerda que sigues ahí y te despide.<br><br>※La siguiente misión de carpenter estará disponible con Beatin al llegar al nivel 45.
+TEXT_CLSWDK008_00537_TODO_00	Preséntale un oak composite bow <sheet(Addon,9,0)> a Beatin.
+TEXT_CLSWDK008_00537_TODO_01	Entrégale el oak composite bow <sheet(Addon,9,0)> a Gairhard.
+TEXT_CLSWDK008_00537_TODO_02	Informa a Beatin.
+TEXT_CLSWDK008_00537_BEATINE_000_001	¡<split(<string(gstr1)>, ,1)>, <if(gnum4,qué pícara,qué pícaro)>! Si no lo conociera, diría que Gairhard está prendado de usted.
+TEXT_CLSWDK008_00537_BEATINE_000_002	Le hizo otro encargo, esta vez un oak composite bow. Por si no lo sabe, un arco así solo puede manejarlo un archer maestro, con años y años de experiencia en el campo.
+TEXT_CLSWDK008_00537_BEATINE_000_003	¿No lo ve? ¡Va a fabricar un arco para el propio Gairhard!
+TEXT_CLSWDK008_00537_BEATINE_000_004	Debe dedicarle a este encargo toda su atención, <split(<string(gstr1)>, ,1)>. Aunque fabricar un oak composite bow ya es toda una hazaña, <italic(1)>no<italic(0)> permitiré que me presente nada menos que la <italic(1)>perfección<italic(0)>.
+TEXT_CLSWDK008_00537_BEATINE_000_005	¿Quedó claro? Bien. Ahora, vaya.
+TEXT_CLSWDK008_00537_BEATINE_000_010	Solo bastará la <italic(1)>perfección<italic(0)>, <split(<string(gstr1)>, ,1)>. Si la tiene, muéstremela.
+TEXT_CLSWDK008_00537_BEATINE_000_011	Hasta a los carpenters experimentados les puede resultar abrumador construir un arco compuesto, por la complejidad del diseño y la variedad de materiales necesarios.
+TEXT_CLSWDK008_00537_BEATINE_000_012	Pero el producto final bien vale el precio.
+TEXT_CLSWDK008_00537_BEATINE_000_013	Esta unión de madera, hueso y tendón tiene la potencia de un arco simple de más del doble de su tamaño.
+TEXT_CLSWDK008_00537_BEATINE_000_014	Eso lo hace ideal para los archers que deben viajar con pocos suministros y no pueden cargar equipo más pesado.
+TEXT_CLSWDK008_00537_BEATINE_000_015	Por más que busco, no encuentro ningún defecto en su trabajo. Sus materiales, su ejecución... todo es, a falta de una palabra mejor, perfecto.
+TEXT_CLSWDK008_00537_BEATINE_000_016	Me reconforta saber que Gairhard empuñará esta arma formidable. Entrégesela con mi bendición.
+TEXT_CLSWDK008_00537_GAIRHARD_000_020	Saludos, <split(<string(gstr1)>, ,1)>. Creo que tienes una entrega para mí.
+TEXT_CLSWDK008_00537_GAIRHARD_000_021	¡Este sí que es un buen arco, digno del mismísimo Bowlord! La muchacha va a estar contenta.
+TEXT_CLSWDK008_00537_GAIRHARD_000_022	¿Cómo dices? ¿Beatin creyó que era para mí? Ah, no, es para otra de mis archers.
+TEXT_CLSWDK008_00537_GAIRHARD_000_023	Yo tengo un arco perfectamente útil que me ha servido durante muchos años. Beatin debería saberlo: él lo hizo.
+TEXT_CLSWDK008_00537_GAIRHARD_000_024	Ah, qué tiempos aquellos. Él, joven iniciado; yo, aspirante a Serpent. No siempre fue tan condenadamente seguro de sí mismo, ¿sabes? En aquel entonces estaba lleno de dudas y preguntas...
+TEXT_CLSWDK008_00537_GAIRHARD_000_025	El maple longbow que me hizo quizá no te parezca gran cosa, pero para mí es el arma perfecta. Pienso usarlo hasta el día en que muera.
+TEXT_CLSWDK008_00537_GAIRHARD_000_026	¡No es que piense morirme pronto, claro! Bueno, creo que yo también tengo una entrega que hacer. Si me disculpas, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSWDK008_00537_BEATINE_000_030	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. ¿Gairhard estaba bien?
+TEXT_CLSWDK008_00537_BEATINE_000_031	¿¡Qué!? ¿Todavía usa aquel longbow que hice de iniciado?
+TEXT_CLSWDK008_00537_BEATINE_000_032	No creí que lo hubiera conservado...
+TEXT_CLSWDK008_00537_BEATINE_000_033	Pero un capitán de la Twin Adder merece un arma mucho mejor. Debería ofrecerme a hacerle uno nuevo.
+TEXT_CLSWDK008_00537_BEATINE_000_034	"Hasta el día en que muera". Hmph. Qué tontería.
+TEXT_CLSWDK008_00537_BEATINE_000_035	A estas alturas, ese longbow seguramente no es más que un palo maltrecho. Si se rompe en batalla, él solo tendrá la culpa.
+TEXT_CLSWDK008_00537_BEATINE_000_036	Ugh, pero no puedo quedarme de brazos cruzados mientras él... \<suspiro> No, no, no pensaré más en esto. Es un soldado con experiencia; nunca sería tan imprudente...
+TEXT_CLSWDK008_00537_BEATINE_000_037	¡Oh! No me di cuenta de que seguía aquí, <split(<string(gstr1)>, ,1)>. Puede irse. Hoy no tengo nada más para usted.

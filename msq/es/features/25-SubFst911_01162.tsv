@@ -1,0 +1,31 @@
+key	text
+TEXT_SUBFST911_01162_SEQ_00	Docette parece haber olfateado algo.
+TEXT_SUBFST911_01162_SEQ_01	Tras adivinar correctamente que tienes tu propio chocobo, Docette te sugiere pedirle consejo a Luquelot sobre cómo lograr aún mayor afinidad con tu leal montura. Ve a Bentbranch Meadows y habla con el nativo de Ishgard.
+TEXT_SUBFST911_01162_SEQ_02	Convencido de que no maltratarás a tu ave, Luquelot acepta ayudarte a entrenarla en el combate. Para empezar, te pide que le lleves un manojo fresco de gysahl greens del campo cercano.
+TEXT_SUBFST911_01162_SEQ_03	Recogiste un manojo fresco de gysahl greens. Entrégaselo a Luquelot.
+TEXT_SUBFST911_01162_SEQ_04	Luquelot te explica lo básico de pelear con tu chocobo a tu lado. Para poner la teoría en práctica, te pide que vayas a Sorrel Haven y abatas a tres brood ziz con la ayuda de tu compañero emplumado.
+TEXT_SUBFST911_01162_SEQ_05	Acabaste con tres brood ziz. Infórmale a Luquelot de tu éxito.
+TEXT_SUBFST911_01162_SEQ_06	Hay muchas maneras en que tú y tu compañero pueden complementarse en batalla. Experimenta y encuentra la que mejor te funcione.
+TEXT_SUBFST911_01162_TODO_00	Habla con Luquelot en Bentbranch Meadows.
+TEXT_SUBFST911_01162_TODO_01	Consigue un manojo fresco de gysahl greens.
+TEXT_SUBFST911_01162_TODO_02	Entrégale las gysahl greens a Luquelot.
+TEXT_SUBFST911_01162_TODO_03	Acaba con los brood ziz junto a tu compañero.
+TEXT_SUBFST911_01162_TODO_04	Informa a Luquelot.
+TEXT_SUBFST911_01162_DOCETTE_000_001	\<olfateo> \<olfateo> Tienes un inconfundible olor a chocobo, <if(gnum4,aventurera,aventurero)>. ¿Me equivoco al suponer que tienes tu propia montura de confianza?
+TEXT_SUBFST911_01162_DOCETTE_000_002	Sí, ya me parecía. Ahora dime, ¿tu ave está entrenada para el combate? Si no, podrías pedirle consejo a Luquelot, en Bentbranch Meadows.
+TEXT_SUBFST911_01162_DOCETTE_000_003	El nativo de Ishgard es una especie de prodigio en todo lo que tiene que ver con nuestros emplumados amigos. Debería poder ayudarte a lograr mayor afinidad con tu ave.
+TEXT_SUBFST911_01162_LUQUELOT_000_010	<switch(gnum70,Saludos\, <if(gnum4,aventurera,aventurero)>,<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>\, <split(<string(gstr1)>, ,1)>,Saludos\, <if(gnum4,aventurera,aventurero)>)>. ¿Necesita algo?
+TEXT_SUBFST911_01162_LUQUELOT_000_011	¿Desea entrenar a su chocobo para el combate? No es poca cosa lo que pide. Montar a su ave es una cosa; pedirle que reciba golpes en su nombre es otra muy distinta. Ayudaré a entrenar a su chocobo, pero con la promesa de que nunca lo expondrá a peligros innecesarios. ¿Tengo su palabra?
+TEXT_SUBFST911_01162_LUQUELOT_000_012	...Muy bien. Para empezar, necesitaremos un manojo de gysahl greens. Tiene mi permiso para recoger uno de aquellos campos. Vuelva cuando lo tenga.
+TEXT_SUBFST911_01162_LUQUELOT_000_020	¿Consiguió las gysahl greens?
+TEXT_SUBFST911_01162_LUQUELOT_000_021	Excelente. Vamos directo al asunto. Sin duda ya lo sabe, pero a los chocobos les encantan las gysahl greens. Tanto aman esta verdura que, ante el peligro, se olvidan por completo de sus miedos.
+TEXT_SUBFST911_01162_LUQUELOT_000_022	Así, al darle gysahl greens a su ave, puede convencerla de pelear a su lado. Y una vez convocada, dependerá de usted dirigir sus acciones como mejor le parezca.
+TEXT_SUBFST911_01162_LUQUELOT_000_023	Verá que su chocobo responde de forma innata a varias órdenes generales. Dele una orden a su ave y actuará en consecuencia, lo mejor que pueda. Este método simple pero eficaz lo desarrolló la familia Fortemps, una de las casas más importantes de Ishgard.
+TEXT_SUBFST911_01162_LUQUELOT_000_024	...Y con eso concluye su lección. Claro que no basta con oír hablar de una práctica; ¡hay que salir e intentarlo uno mismo!
+TEXT_SUBFST911_01162_LUQUELOT_000_025	Invoque a su chocobo con un manojo de gysahl greens, y vayan juntos a Sorrel Haven. Los brood ziz que merodean la zona deberían ser un desafío adecuado para usted y su compañero. Abata a tres y vuelva aquí.
+TEXT_SUBFST911_01162_LUQUELOT_000_026	Y por último, a modo de consejo, le recomiendo llevar siempre una buena provisión de gysahl greens. Nuestro vendedor local puede proporcionarle todas las que pueda cargar.
+TEXT_SUBFST911_01162_LUQUELOT_000_030	¿Así que superó con éxito sus primeras batallas con su chocobo? Bien hecho.
+TEXT_SUBFST911_01162_LUQUELOT_000_031	Dígame, ¿cómo se sintió? ¿No fue sumamente reconfortante pelear junto a su compañero emplumado?
+TEXT_SUBFST911_01162_LUQUELOT_000_032	Su chocobo puede suplir sus carencias o potenciar sus fortalezas. De hecho, hay innumerables maneras en que ambos pueden complementarse. Con un poco de experimentación, llegará a encontrar la que mejor le funcione.
+TEXT_SUBFST911_01162_LUQUELOT_000_033	Ah, antes de que se me olvide, tengo un último regalo de despedida: una alforja para su chocobo. Después de todo, cargar gysahl greens puede ser bastante engorroso, y debería haber suficiente espacio para sus pertenencias si hace falta. Ruego que le sirva bien en sus viajes.
+TEXT_SUBFST911_01162_SYSTEM_000_034	Ya puedes acceder a la alforja de tu chocobo. Para abrir esta ventana de almacenamiento adicional, selecciona <colortype(500)><edgecolortype(501)>Chocobo Saddlebag<edgecolortype(0)><colortype(0)> en <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)> del menú principal.
