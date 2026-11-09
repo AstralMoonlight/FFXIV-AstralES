@@ -1,0 +1,50 @@
+key	text
+TEXT_CLSBSM301_00298_SEQ_00	Forgemaster Brithael te mira con una sonrisa inquietante. Tal vez sea prudente preguntarle por qué.
+TEXT_CLSBSM301_00298_SEQ_01	Al parecer, tus logros recientes no pasaron inadvertidos. Según Brithael, un adinerado ul'dahno pidió por ti para un encargo prestigioso. Habla con Faezahr para más información.
+TEXT_CLSBSM301_00298_SEQ_02	Aunque el encargo es una oportunidad de ganar respeto y renombre, Faezahr te advierte que fracasar no es una opción. Luego te indica reunirte con la representante del cliente, una mujer llamada Khuswyb. Armándote de valor, ve a hablar con ella.
+TEXT_CLSBSM301_00298_SEQ_03	El señor de Khuswyb desea regalarle a su jardinero mayor una plumed iron hatchet en reconocimiento a su leal servicio. Ni hace falta decir que tu cliente no se conformará con menos que la perfección. Fabrica una plumed iron hatchet de calidad insuperable y preséntaselo a Khuswyb.
+TEXT_CLSBSM301_00298_SEQ_04	Tu obra maestra causa una profunda impresión en Khuswyb, que la recibe con grandes elogios. Dale la buena noticia a Faezahr.
+TEXT_CLSBSM301_00298_SEQ_05	A Faezahr no parece sorprenderle tu éxito, aunque se apresura a señalar la entusiasta recomendación de Khuswyb. Luego te pide de mala gana que le lleves la noticia al Forgemaster, no sin antes volver a expresar la pobre opinión que tiene de él. Vuelve con Brithael y cuéntale lo ocurrido.
+TEXT_CLSBSM301_00298_SEQ_06	Restándole importancia a los comentarios de Faezahr, Brithael recuerda el día en que te uniste al Blacksmiths' Guild, y asegura que siempre supo que tenías potencial para la grandeza. Luego jura que, mientras le seas fiel al gremio, podrás contar con su apoyo incondicional.<br><br>※La siguiente misión de blacksmith estará disponible con Brithael al llegar al nivel 35.
+TEXT_CLSBSM301_00298_TODO_00	Habla con Faezahr.
+TEXT_CLSBSM301_00298_TODO_01	Habla con Khuswyb.
+TEXT_CLSBSM301_00298_TODO_02	Entrégale una plumed iron hatchet <sheet(Addon,9,0)> a Khuswyb.
+TEXT_CLSBSM301_00298_TODO_03	Habla con Faezahr.
+TEXT_CLSBSM301_00298_TODO_04	Informa a Brithael.
+TEXT_CLSBSM301_00298_BRITHAEL_000_1	Te estaba esperando, <if(gnum4,muchacha,muchacho)>. ¡Parece que tienes un admirador! ¡Y no hablo de mí, sino de otra persona!
+TEXT_CLSBSM301_00298_BRITHAEL_000_2	Era cuestión de tiempo que la gente empezara a preguntar quién era responsable del reciente cambio de suerte del gremio.
+TEXT_CLSBSM301_00298_BRITHAEL_000_3	¿Oíste hablar de Costa del Sol, allá en Bloodshore?
+TEXT_CLSBSM301_00298_BRITHAEL_000_4	Porque ahí vive tu nuevo admirador. Por si no conoces el lugar, es un balneario favorito de los ricos y famosos de Ul'dah. Sí, así es: ¡estoy hablando de uno de <italic(1)>esos<italic(0)>! Pidieron por ti con nombre y todo. ¡Dijeron que querían encargarle el trabajo a <italic(1)><if(gnum4,la gran,el gran)> <string(gstr1)><italic(0)> y a nadie más! ¡Ja, ja!
+TEXT_CLSBSM301_00298_BRITHAEL_000_5	¡Esta puede ser tu oportunidad, <if(gnum4,muchacha,muchacho)>! No todos los días te invitan a ganarte el favor de un maldito cliente tan rico.
+TEXT_CLSBSM301_00298_BRITHAEL_000_6	Al principio creí que solo Byregot te cuidaba, ¡pero empiezo a pensar que ese condenado de dos caras, Nald'thal, también se interesó en ti!
+TEXT_CLSBSM301_00298_BRITHAEL_000_7	En fin, lo vas a hacer, ¿no? ¡Bah! ¡Claro que lo vas a hacer! ¡Serías <if(gnum4,una maldita tonta,un maldito tonto)> si te negaras!
+TEXT_CLSBSM301_00298_BRITHAEL_000_8	Vas a tener que molestar al malnacido de Faezahr para los detalles... Ah, y aunque se me atraganta decirlo, creo que deberías darle las gracias a ese trasero de chocobo de paso: él hizo que esto pasara.
+TEXT_CLSBSM301_00298_FAEZAHL_000_11	Bien hallad<if(gnum4,a,o)>, <if(gnum4,herrera,herrero)>. Supongo que ya oíste de tu encargo.
+TEXT_CLSBSM301_00298_FAEZAHL_000_12	Confío en que entiendas el honor que esto representa...
+TEXT_CLSBSM301_00298_FAEZAHL_000_13	Así como lo que está en juego.
+TEXT_CLSBSM301_00298_FAEZAHL_000_14	El cliente en cuestión es una persona distinguida, con expectativas <italic(1)>tremendamente<italic(0)> altas. Si no estás a la altura, quedarán mal tú y tu gremio. En cuanto a mí, lo <italic(1)>último<italic(0)> que necesito es que un ul'dahno bien relacionado les diga a sus socios que no compren sus productos... productos que, ni hace falta decirlo, me gustaría mucho venderles.
+TEXT_CLSBSM301_00298_FAEZAHL_000_15	En resumen: <italic(1)>no falles<italic(0)>.
+TEXT_CLSBSM301_00298_FAEZAHL_000_16	Ahora bien, creo que vi llegar hace un momento a la señorita Khuswyb. Es la representante de nuestro cliente. Entra y preséntate. Ella te explicará el encargo.
+TEXT_CLSBSM301_00298_KHUSWYB_000_21	He oído hablar mucho de usted, <string(gstr1)>.
+TEXT_CLSBSM301_00298_KHUSWYB_000_22	Como quizá haya oído, a mi señor lo cautivaron los relatos de su excepcional maestría, y consideró que usted era la persona ideal para un encargo de particular importancia para él.
+TEXT_CLSBSM301_00298_KHUSWYB_000_23	A modo de introducción, la finca de mi señor presume de los jardines más espectaculares de todo Costa del Sol. Sus muchas maravillas botánicas les deben mucho a los esfuerzos de nuestro jardinero mayor, que las cuida desde que era un muchacho. El querido anciano lleva generaciones con la familia, y mi señor considera que ya es hora de reconocer sus años de fiel servicio.
+TEXT_CLSBSM301_00298_KHUSWYB_000_24	¿Y qué mejor manera de honrar los incansables esfuerzos de un leal sirviente que regalarle un ejemplar exquisitamente trabajado de la herramienta de su amado oficio?
+TEXT_CLSBSM301_00298_KHUSWYB_000_25	En resumen, <if(gnum4,señorita,señor)> <split(<string(gstr1)>, ,2)>, mi señor desea encargarle una plumed iron hatchet de primera calidad.
+TEXT_CLSBSM301_00298_KHUSWYB_000_26	Sepa que nada que no sea perfecto se considerará aceptable.
+TEXT_CLSBSM301_00298_KHUSWYB_000_27	Confiamos en que no nos decepcionará.
+TEXT_CLSBSM301_00298_FAEZAHL_000_41	Sin duda estuviste a la altura. Magnífico trabajo, <if(gnum4,herrera,herrero)>.
+TEXT_CLSBSM301_00298_FAEZAHL_000_42	Y parece que la señorita Khuswyb te considera <if(gnum4,una artesana,un artesano)> de habilidad sobresaliente. Si su señor coincide, este bien podría ser el primero de muchos encargos así.
+TEXT_CLSBSM301_00298_FAEZAHL_000_43	Tienes todo el derecho a estar orgullos<if(gnum4,a,o)>.
+TEXT_CLSBSM301_00298_FAEZAHL_000_44	Supongo que tu <italic(1)>mentor<italic(0)> querrá saber qué pasó. \<suspiro> Te lo juro, tu talento se desperdicia sirviendo a ese tonto.
+TEXT_CLSBSM301_00298_FAEZAHL_000_45	Puedes decirle que yo lo dije, si quieres. Eres <if(gnum4,una herrera condenadamente buena,un herrero condenadamente bueno)>, <split(<string(gstr1)>, ,1)>. Puedes aspirar a más.
+TEXT_CLSBSM301_00298_BRITHAEL_000_51	¡Ah, ahí estás, <if(gnum4,muchacha,muchacho)>! ¡A ver, cuéntanos cómo te fue!<br>...¿Eh? ¿Dijo eso? ¡Qué descarado! Hablar como si supiera lo que significa ser herrero... ¡<italic(1)>Nadie<italic(0)> lo sabe mejor que yo, y yo solo quise lo mejor para ti!
+TEXT_CLSBSM301_00298_BRITHAEL_000_52	Todavía me acuerdo del día en que entraste aquí, ¿sabes? Ya entonces se veía que tenías una voluntad de hierro. Había algo en tus ojos, algo que me decía que lo darías todo por el oficio, no por dinero ni por fama, sino por hacer algo <italic(1)>bien hecho<italic(0)>.
+TEXT_CLSBSM301_00298_BRITHAEL_000_53	Y eso es justo lo que hace falta por aquí. Así que no nos falles, <split(<string(gstr1)>, ,1)>. Quédate con nosotros y te trataremos como mereces.
+TEXT_CLSBSM301_00298_KHUSWYB_000_31	¿Tiene usted la hachuela?
+TEXT_CLSBSM301_00298_KHUSWYB_000_32	Vaya... Aunque no me considero una experta en estos asuntos, hasta yo aprecio la calidad de esta hachuela. Es... magnífica.
+TEXT_CLSBSM301_00298_KHUSWYB_000_33	Las palabras del Maestro Faezahr no le hacían justicia. Es usted un verdadero prodigio, <if(gnum4,señora,señor)>.
+TEXT_CLSBSM301_00298_KHUSWYB_000_34	Su hachuela es más una obra de arte que una herramienta. Al pasar los dedos por su suave empuñadura de cuero y contemplar su hoja impecable y reluciente, me siento... <italic(1)>conmovida<italic(0)>.
+TEXT_CLSBSM301_00298_KHUSWYB_000_35	Parece una lástima que una obra maestra así se use solo para la jardinería.
+TEXT_CLSBSM301_00298_KHUSWYB_000_36	Pero... las herramientas se hacen con un propósito. Quizá, a medida que la hoja pierda el filo y la empuñadura se desgaste, adquiera otra clase de belleza...
+TEXT_CLSBSM301_00298_KHUSWYB_000_37	Ah, pero ya empiezo a sonar como nuestro jardinero mayor. Un alma tan bondadosa... Estoy segura de que verá el arte en su creación. Vaya, hasta podría inspirarlo en su propio oficio. Debería usted sentirse orgullos<if(gnum4,a,o)>.
+TEXT_CLSBSM301_00298_KHUSWYB_000_38	En nombre de mi señor, le doy las gracias, <string(gstr1)>. Le ruego salude de mi parte al Maestro Faezahr.

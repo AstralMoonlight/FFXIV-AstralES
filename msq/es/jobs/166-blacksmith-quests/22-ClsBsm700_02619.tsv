@@ -1,0 +1,93 @@
+key	text
+TEXT_CLSBSM700_02619_SEQ_00	Forgemaster Brithael tiene ojeras.
+TEXT_CLSBSM700_02619_SEQ_01	Forgemaster Brithael, sin ningún entusiasmo, te dice que te acompañará a Kugane. Quiere saber qué pasó con el acuerdo que hizo con Sekka para intercambiar secretos de forja. Te pide que te adelantes y te dice que se reunirá contigo allá. Viaja a Kugane y habla con Sekka.
+TEXT_CLSBSM700_02619_SEQ_02	Sekka te espera en el puerto para darte la bienvenida a Kugane. Tras saludarte, te pide que vayas a Kokajiya, donde su padre te espera para explicarte los detalles de la competencia.
+TEXT_CLSBSM700_02619_SEQ_03	Shinto te informa que uno de los señores samurai de Kugane quiere encargar uchigatanas para sus vasallos y preguntó si su forja estaría dispuesta a hacerlas. Antes de hacer un pedido oficial, el señor quiere evaluar la calidad de las hojas de Shinto y pidió una muestra. El anciano espadero te dice que tú y Sekka competirán por forjar la mejor uchigatana, que luego se presentará ante este honorable cliente. Convencido de que ya sabes lo que hace falta, Shinto te pide que vuelvas a Pier #2 y esperes a Forgemaster Brithael junto con su hija.
+TEXT_CLSBSM700_02619_SEQ_04	Sekka actúa con una timidez inusual y dice que está confundida por lo que siente últimamente. Confiesa que no puede dejar de pensar en Forgemaster Brithael y que, cada vez que se acerca, se le acelera el corazón y se le encienden las mejillas. Aunque ambos tienen una idea de qué emoción podría ser, antes de llegar a una conclusión llega tu Guildmaster. Tras un breve saludo, Sekka se retira y el ex pirata te dice que trajo todo lo necesario para fabricar tu uchigatana. Te da unos consejos y te insta a empezar. Forja una examination uchigatana de alta calidad y entrégale el producto terminado a Shinto en Kokajiya.<br><br>※Si pierdes los materiales o la síntesis fracasa, puedes volver a intentarlo hablando con Brithael.
+TEXT_CLSBSM700_02619_SEQ_05	A Shinto lo impresionan el filo de tu uchigatana y el intrincado detalle de la empuñadura. Su rostro se oscurece, sin embargo, al ver la hoja mal hecha que produjo Sekka. Cuando ella explica que la hizo poco afilada y ligera para adaptarla a la mayoría de los vasallos del señor, que no están entrenados en el uso de las katanas, su padre se calma un poco. Aunque está claro que Sekka no ganó, Shinto decide que, por haber intentado forjar algo pensado para las necesidades del cliente, está lista para ser su aprendiz. Las celebraciones se interrumpen cuando la conversación da un giro inesperado y Sekka le confiesa su amor a Brithael. A Shinto no le agrada nada y, al verlo, el Guildmaster balbucea una excusa y se escabulle a toda prisa.
+TEXT_CLSBSM700_02619_SEQ_06	Tras felicitarte por ganar la competencia, Shinto te dice que le enviará una carta a tu Guildmaster sobre el acuerdo para intercambiar técnicas de forja. Te pide que vuelvas a Eorzea, temiendo que Forgemaster Brithael te espere con ansiedad, y te despides de padre e hija. Vuelve al Blacksmiths' Guild e infórmale a tu Guildmaster de todo lo que pasó en Kugane después de su partida.
+TEXT_CLSBSM700_02619_SEQ_07	Forgemaster Brithael te cuenta que, poco después de volver, recibió una carta de Shinto sobre el acuerdo con Sekka. A pesar de las amenazas nada sutiles salpicadas por toda la carta, el anciano parecía bastante entusiasmado con la idea de intercambiar secretos de forja. Poco después se les une Randwulf, con una carta del tamaño de una novela corta en la mano. Cuando le dice a Brithael que es de Sekka y va dirigida a él, el Forgemaster no parece contento. De hecho, se pone un poquito verde.
+TEXT_CLSBSM700_02619_TODO_00	Habla con Sekka en Kugane.
+TEXT_CLSBSM700_02619_TODO_01	Habla con Shinto en Kokajiya.
+TEXT_CLSBSM700_02619_TODO_02	Habla con Sekka.
+TEXT_CLSBSM700_02619_TODO_03	<if([lnum1<lnum2],Sintetiza una examination uchigatana <sheet(Addon,9,0)>,Entrégale la examination uchigatana <sheet(Addon,9,0)> a Shinto)>.
+TEXT_CLSBSM700_02619_TODO_04	Habla con Shinto.
+TEXT_CLSBSM700_02619_TODO_05	Informa a Brithael.
+TEXT_CLSBSM700_02619_BRITHAEL_000_000	¿Te hice esperar? Disculpa. Parece que anoche me tomé una pinta de más.
+TEXT_CLSBSM700_02619_BRITHAEL_000_001	No te preocupes: eso no me va a impedir viajar contigo al Lejano Oriente. Al fin y al cabo, Sekka y su padre todavía nos deben unos cuantos secretos del oficio, y tengo que asegurarme de que cumplan su parte del trato.
+TEXT_CLSBSM700_02619_BRITHAEL_000_002	No puedo quitarme la sensación de que, si ella no gana, van a intentar zafarse. Bueno, supongo que cruzaremos ese puente cuando lleguemos.
+TEXT_CLSBSM700_02619_BRITHAEL_000_003	Por ahora, concentrémonos en llegar a Kugane a tiempo para el enfrentamiento. Va a ser mucho más difícil de lo que parece: me late la cabeza y se me revuelve el estómago. Creo que nunca tuve tan pocas ganas de dejar Eorzea rumbo a tierras lejanas...
+TEXT_CLSBSM700_02619_BRITHAEL_000_004	Voy a tener que recuperarme un momento, <if(gnum4,muchacha,muchacho)>, así que adelántate. No tardaré mucho, te doy mi palabra.
+TEXT_CLSBSM700_02619_BRITHAEL_000_010	Como te vas adelante, mejor habla con Sekka cuando llegues a Kugane. No me pongas esa cara. No es una treta para zafarme, aunque admito que se me pasó por la cabeza.
+TEXT_CLSBSM700_02619_SHINTOU_000_015	Envié a Sekka a buscarlos. ¿No estaba en el muelle?
+TEXT_CLSBSM700_02619_SEKKA_000_020	Bienvenid<if(gnum4,a,o)> a Kugane, <split(<string(gstr1)>, ,1)>. Nos avisaron que Forgemaster Brithael salió poco después que usted. Imagino que se nos unirá pronto.
+TEXT_CLSBSM700_02619_SEKKA_000_021	Me siento una persona totalmente distinta de la última vez que estuve aquí. Antes me doblegaba bajo la mirada inflexible de mi padre, pero últimamente no me afecta en lo más mínimo.
+TEXT_CLSBSM700_02619_SEKKA_000_022	¡Ay, mis disculpas! Me desvié otra vez. Hablando de mi padre, le pide que se reúna con él en Kokajiya, donde se juntan los artesanos de Kugane, de los más pobres a los mejores. Allí le explicará los detalles de nuestro enfrentamiento. Yo me quedaré aquí a recibir a Forgemaster Brithael.
+TEXT_CLSBSM700_02619_BRITHAEL_000_030	Ahora que estamos todos, ¿qué dicen si empezamos?
+TEXT_CLSBSM700_02619_SEKKA_000_035	Mi padre la espera en Kokajiya. Por favor, vaya hasta allá.
+TEXT_CLSBSM700_02619_SHINTOU_000_040	<split(<string(gstr1)>, ,1)>, viniste. Muy bien. Sin más preámbulos, permíteme explicar lo que quiero que hagas.
+TEXT_CLSBSM700_02619_SHINTOU_000_041	Tú y Sekka forjarán cada quien una uchigatana.
+TEXT_CLSBSM700_02619_SHINTOU_000_042	Estas hojas se le mostrarán a una de las mayores familias samurai de Kugane. Su señor está interesado en que mi forja les dé katanas a sus vasallos. Pero antes de confiarme oficialmente esa tarea, pide que le dé una muestra.
+TEXT_CLSBSM700_02619_SHINTOU_000_043	Ustedes dos competirán para ver cuál de sus uchigatanas le presento.
+TEXT_CLSBSM700_02619_SHINTOU_000_044	Ah, y una última cosa. Mi hija me mencionó que, a cambio de estudiar en tu gremio, le prometió al Maestro Brithael compartir las técnicas que empleamos aquí en mi forja.
+TEXT_CLSBSM700_02619_SHINTOU_000_045	Su habilidad creció enormemente bajo su cuidado, y tengo toda la intención de cumplir ese acuerdo. Pero si das menos que lo mejor de ti en la competencia, y sé muy bien de lo que eres capaz, considera roto nuestro trato.
+TEXT_CLSBSM700_02619_SHINTOU_000_046	Si tienes alguna pregunta, este es el momento. ¿No? Excelente. En ese caso, te sugiero que vayas con Sekka a Pier #2. Tu Guildmaster llegará pronto.
+TEXT_CLSBSM700_02619_SHINTOU_000_050	Sekka...\<murmullo>...mucho menos asustadiza...\<murmullo>...Eorzea. Quizá... ¿Qué haces aquí todavía? En lugar de andar merodeando, te sugiero que vayas a buscar a tu Forgemaster.
+TEXT_CLSBSM700_02619_SEKKA_000_060	Eh... este... Disculpe, <split(<string(gstr1)>, ,1)>. ¿T-Tiene un momento? Hay algo que quiero preguntarle antes de que llegue su Guildmaster.
+TEXT_CLSBSM700_02619_SEKKA_000_061	Verá, cada vez que Forgemaster Brithael se acerca, siento que el corazón me va a explotar y a detenerse al mismo tiempo. A veces duele tanto que apenas puedo respirar.
+TEXT_CLSBSM700_02619_SEKKA_000_062	Al principio lo vi como un hombre aburrido y sin inspiración. Pero luego, cuando defendió con tanto valor mis sueños y no retrocedió ni ante la furia de mi padre, me di cuenta de que lo había juzgado mal. En ese momento algo cambió dentro de mí.
+TEXT_CLSBSM700_02619_SEKKA_000_063	Ahora no puedo sacarme su rostro de la cabeza y siento un impulso inexplicable de estar cerca de él. N-No lo entiendo. Usted me apoyó igual en mi camino, ¿por qué entonces no siento lo mismo por usted...?
+TEXT_CLSBSM700_02619_Q1_000_000	¿Qué dirás?
+TEXT_CLSBSM700_02619_A1_000_001	Porque estás enamorada de él.
+TEXT_CLSBSM700_02619_A1_000_002	No tengo ni idea.
+TEXT_CLSBSM700_02619_SEKKA_000_070	¿Enamorada? ¿D-De Forgemaster Brithael? ¡Eso es absurdo! El único amor que tengo es por el arte de forjar espadas. En mi vida no hay lugar para nada ni nadie más.
+TEXT_CLSBSM700_02619_SEKKA_000_080	\<suspiro> Era de esperar. Supongo que no hay forma de que lo sepa, a menos que pudiera ver dentro de mi cabeza. Tengo una leve sospecha de qué podría ser, pero... Ah, no importa. Es demasiado absurdo.
+TEXT_CLSBSM700_02619_SEKKA_000_090	¡Ay! ¿Pero qué estoy haciendo? No es momento de hacer preguntas tontas. Tengo que prepararme para lo que quizá sea el momento más importante de mi carrera. Tal vez cuando termine esta competencia podamos retomar esta conversación.
+TEXT_CLSBSM700_02619_BRITHAEL_000_091	¿Qué es esto? ¿Mi propio comité de bienvenida para escoltarme a tierra? ...¿Qué te pasa, muchacha? Estás roja como un tomate.
+TEXT_CLSBSM700_02619_SEKKA_000_092	¿D-De qué habla? ¡M-Mi cara no está roja! Y si lo está, es solo porque estoy muy emocionada por la victoria que se asoma en el horizonte. Hmph.
+TEXT_CLSBSM700_02619_BRITHAEL_000_093	Eh... Muy bien, entonces.
+TEXT_CLSBSM700_02619_SEKKA_000_094	Ya verá: voy a ganar. Avancé mucho desde que empecé. Mi viaje a Eorzea, mis estudios en su gremio y las nuevas herramientas que me hicieron volvieron a encender un fuego en mi alma. Me recordaron cuánto amo hacer katanas.
+TEXT_CLSBSM700_02619_SEKKA_000_095	Esta competencia es una oportunidad única de tomar mi destino en mis manos. Le demostraré a mi padre que soy digna de estudiar con él.
+TEXT_CLSBSM700_02619_BRITHAEL_000_096	Esa muchacha está llena de una pasión implacable por su oficio, y será una rival temible. ¿Ya te dio Shinto algún detalle?
+TEXT_CLSBSM700_02619_BRITHAEL_000_097	Una uchigatana para presentarle a una de las familias samurai, ¿eh? Ni hace falta decir que lo primero que van a mirar es el filo de la hoja. También te conviene un diseño simple pero elegante para la empuñadura.
+TEXT_CLSBSM700_02619_BRITHAEL_000_098	...Pero eso ya lo sabías, ¿no? Siempre se me olvida que ya superaste mis consejos. Bueno, traje todos los materiales que puedas necesitar. Toma.
+TEXT_CLSBSM700_02619_BRITHAEL_000_099	Cuando termines, llévale la uchigatana al padre de la muchacha. Buena suerte, <split(<string(gstr1)>, ,1)>, y recuerda: si necesitas algo, aquí estaré.
+TEXT_CLSBSM700_02619_BRITHAEL_000_105	¿Necesitas más materiales? Estos suministros no son lo que se dice baratos, pero también es una buena oportunidad para ti, y para mí, de que un espadero experto mire tu trabajo. Toma esto.
+TEXT_CLSBSM700_02619_BRITHAEL_000_110	Parece que lo lograste, <split(<string(gstr1)>, ,1)>: ¡esta hoja es una belleza! ¡Ja, ja! ¡La máscara de indiferencia de ese viejo estoico se va a resquebrajar cuando vea esto!
+TEXT_CLSBSM700_02619_SHINTOU_000_120	¿Terminaste tu uchigatana?
+TEXT_CLSBSM700_02619_SHINTOU_000_130	Muy bien. Sekka sigue trabajando en la suya, así que me reservaré toda crítica hasta que me presente su hoja.
+TEXT_CLSBSM700_02619_SHINTOU_000_200	<split(<string(gstr1)>, ,1)>, esto es hermoso... Solo el resplandor de esta hoja bastaría para repeler las mareas del caos. Además, es tan afilada que podría partir en dos hasta un fino cabello.
+TEXT_CLSBSM700_02619_SHINTOU_000_201	La vaina y la empuñadura están hechas a la perfección. Esta hoja es digna de llevarse a la cintura de un gran samurai.
+TEXT_CLSBSM700_02619_SHINTOU_000_202	Y junto a esta brillante uchigatana hay... ¿Qué es esto? Sekka, parece que decidiste no tomarte en serio esta competencia.
+TEXT_CLSBSM700_02619_SEKKA_000_203	Al contrario. Gasté hasta la última onza de mi habilidad y mi fuerza en crearla. Por favor, compruébelo usted mismo. Tómela en la mano y pruébela.
+TEXT_CLSBSM700_02619_SHINTOU_000_204	Por los kami... Sekka, explícate.
+TEXT_CLSBSM700_02619_SEKKA_000_205	Nos pidieron armas para los vasallos, pero no todos saben usar armas. Las hojas más pesadas cortarán mejor, pero en manos de quien no tiene entrenamiento son inútiles.
+TEXT_CLSBSM700_02619_SEKKA_000_206	Estas más ligeras, en cambio, las puede manejar hasta el sirviente más torpe.
+TEXT_CLSBSM700_02619_SHINTOU_000_207	Aun así, la reducción de peso se hizo a costa de la calidad general de la hoja.
+TEXT_CLSBSM700_02619_SHINTOU_000_208	No te equivocas al suponer que la gran mayoría de los vasallos de un señor no son diestros con las katanas, pero se te pidió forjar una espada de muestra para uno de sus samurai.
+TEXT_CLSBSM700_02619_SHINTOU_000_209	No hace falta ser un experto para ver que la hoja de <split(<string(gstr1)>, ,1)> es muy superior a la tuya, tanto en utilidad como en estética. Esta es la que le presentaré a la casa samurai.
+TEXT_CLSBSM700_02619_SHINTOU_000_210	...Diré, sin embargo, que tener en cuenta las necesidades y limitaciones físicas de un cliente es parte necesaria de nuestro oficio. La próxima vez, consúltame antes de sacar tus propias conclusiones.
+TEXT_CLSBSM700_02619_SEKKA_000_211	¿L-La próxima vez? Entonces eso significa...
+TEXT_CLSBSM700_02619_SHINTOU_000_212	Antes martillabas con la desesperación de ganarte mi favor, y ya no estás ciega. Mostraste un progreso extraordinario como espadera, y creo que por fin estás lista para empezar a estudiar conmigo.
+TEXT_CLSBSM700_02619_BRITHAEL_000_213	¿Oíste eso, muchacha? Me parece que tus sueños están por hacerse realidad.
+TEXT_CLSBSM700_02619_SEKKA_000_214	Así es, y se lo debo en gran parte a usted. Gracias, Forgemaster Brithael. Sin su guía no habría podido llegar hasta aquí. Fue una gran inspiración para mí, en más sentidos de los que imagina.
+TEXT_CLSBSM700_02619_SEKKA_000_215	Todo este tiempo traté de convencerme de que esta extraña presión en el pecho se debía a la competencia. Pero ahora que me aceptaron como aprendiz de mi padre, ya no puedo negarlo.
+TEXT_CLSBSM700_02619_SEKKA_000_216	Forgemaster Brithael, creo que estoy enamorada de usted.
+TEXT_CLSBSM700_02619_BRITHAEL_000_217	¿C-Cómo dices?
+TEXT_CLSBSM700_02619_SHINTOU_000_218	Maestro Brithael, ¿qué significa esto exactamente? Creí que aceptaste a mi hija en tu gremio para intercambiar técnicas de herrería, no votos.
+TEXT_CLSBSM700_02619_BRITHAEL_000_219	Y-Yo, eh... Disculpen, pero surgió algo bastante urgente que requiere mi atención inmediata. <split(<string(gstr1)>, ,1)>, nos vemos en el gremio.
+TEXT_CLSBSM700_02619_SEKKA_000_220	No me había dado cuenta de que era tan tímido. Casi lo hace todavía más encantador...
+TEXT_CLSBSM700_02619_SEKKA_000_230	Ahora lo veo tan claro. Lo <italic(1)>amo<italic(0)>, <split(<string(gstr1)>, ,1)>. De verdad, de verdad lo amo.
+TEXT_CLSBSM700_02619_SHINTOU_000_240	Felicitaciones, <split(<string(gstr1)>, ,1)>. Ganaste el desafío. Parece que tenemos mucho que aprender de ti y de tu gremio.
+TEXT_CLSBSM700_02619_SHINTOU_000_241	Eso me recuerda que, aunque Sekka todavía no está en condiciones de asumir esa responsabilidad, tengo toda la intención de cumplir con nuestra parte del acuerdo que hizo. Esperamos intercambiar técnicas de herrería con tu forja.
+TEXT_CLSBSM700_02619_SEKKA_000_242	Mi padre tiene razón. Por ahora debo concentrarme solo en mejorar mi habilidad. La uchigatana que hice para esta competencia debía parecerse a las espadas cortas ligeras que se fabrican en su gremio. Pero resultó muy inferior.
+TEXT_CLSBSM700_02619_SEKKA_000_243	Entrenaré sin descanso. Tal vez algún día, cuando afine mi habilidad hasta ser digna de que me llamen maestra espadera, pueda asumir ese deber y reavivar así la chispa romántica entre Forgemaster Brithael y yo.
+TEXT_CLSBSM700_02619_SEKKA_000_244	Mientras tanto, mantendré bien guardados mis sentimientos por él. Solo espero que, con el paso de los días y los meses, no olvide mi amor.
+TEXT_CLSBSM700_02619_SEKKA_000_245	Gracias por todo, <split(<string(gstr1)>, ,1)>. Es usted una persona maravillosa y una blacksmith aún mejor. No l<if(gnum4,a,o)> olvidaré pronto.
+TEXT_CLSBSM700_02619_SHINTOU_000_246	Sí, es como dice mi hija. Te ganaste nuestro respeto y nuestra gratitud. De no ser por ti, Sekka no habría crecido como lo hizo. Dicho esto, supongo que aquí nos separamos. Seguro que ese libertino de Forgemaster está ansioso por tenerte de vuelta.
+TEXT_CLSBSM700_02619_SHINTOU_000_247	Tu Forgemaster será algo mujeriego, pero no tengo intención de faltar a mi palabra de iniciar un intercambio entre tu gremio y el mío. No te preocupes, pronto enviaré noticias con uno de mis hombres.
+TEXT_CLSBSM700_02619_BRITHAEL_000_248	Disculpa por irme tan de repente, pero por la cara del viejo calculé que ya no era bienvenido.
+TEXT_CLSBSM700_02619_BRITHAEL_000_249	Por eso imagínate mi sorpresa cuando Randwulf entró con una carta de ese mismo hombre. Toda ella salpicada de sutiles amenazas, claro, pero parecía tan entusiasmado como yo con la idea de intercambiar técnicas de herrería con nuestro gremio.
+TEXT_CLSBSM700_02619_RANDWULF_000_250	Señor, acaba de llegar otra misiva para usted. Dice aquí que es de Sekka. No sé de qué se trata, pero debe de ser importante. Es casi del tamaño de <italic(1)>New Eorzean Geographic<italic(0)>.
+TEXT_CLSBSM700_02619_BRITHAEL_000_252	\<suspiro> Y yo que creí que, cuando me retirara del mar, podría vivir en paz el resto de mis días...
+TEXT_CLSBSM700_02619_SYSTEM_000_500	¡Abriendo nuevos caminos en la forja de espadas del Lejano Oriente, aprendiste "Stroke of Genius"!

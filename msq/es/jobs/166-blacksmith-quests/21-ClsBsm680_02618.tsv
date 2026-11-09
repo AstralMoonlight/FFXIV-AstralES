@@ -1,0 +1,73 @@
+key	text
+TEXT_CLSBSM680_02618_SEQ_00	Forgemaster Brithael parece absorto en sus pensamientos.
+TEXT_CLSBSM680_02618_SEQ_01	Tras darle vueltas a varias ideas, Brithael concluye que Shinto oculta la verdadera razón por la que cree que Sekka nunca será una buena espadera. Quiere saber cuál es y te pide que hables con Shinto. Ve a West Hawkers' Alley y habla con el padre de Sekka.
+TEXT_CLSBSM680_02618_SEQ_02	Shinto te revela que, según él, a Sekka le falta algo más fundamental que la habilidad. Se niega a decir más y te despide sin ceremonias. Vuelve al gremio e infórmale a Forgemaster Brithael de lo que averiguaste.
+TEXT_CLSBSM680_02618_SEQ_03	A Forgemaster Brithael no le inquieta que Shinto haya descubierto tus planes y toma su respuesta como confirmación de lo que sospechaba: lo que frena a Sekka no es su habilidad. Supone que sus viejas y toscas herramientas le impiden mostrar todo su talento, y quiere que lo ayudes a forjarle un juego nuevo. Te pide un custom-made hammer y te manda con Randwulf, que te dará todos los materiales.
+TEXT_CLSBSM680_02618_SEQ_04	Randwulf te da generosamente todos los materiales para el martillo. Ya estás más que list<if(gnum4,a,o)> para ponerte a trabajar. Fabrica un custom-made hammer de alta calidad y entrégaselo cuanto antes a Forgemaster Brithael.<br><br>※Si pierdes los materiales o la síntesis fracasa, puedes volver a intentarlo hablando con Randwulf.
+TEXT_CLSBSM680_02618_SEQ_05	Le entregas el martillo a Forgemaster Brithael, que te informa que él también terminó su parte de las herramientas. Impresionado con tu trabajo, te da sus utensilios de metal y te pide que le lleves todo a cierta muchacha terca en el Anchor Yard.
+TEXT_CLSBSM680_02618_SEQ_06	Sekka está encantada con las herramientas. Después de darte las gracias a toda prisa, sale corriendo, decidida a probarlas de inmediato. Síguela al gremio y comprueba si está satisfecha.
+TEXT_CLSBSM680_02618_SEQ_07	Mientras hablas con Sekka, entra Shinto. Echa un vistazo a su katana y se disgusta de inmediato. Sekka, sin embargo, defiende su hoja: tal vez no parezca gran cosa, pero forjarla le recordó la alegría de la herrería. Esas palabras parecen ser justo lo que Shinto esperaba oír. Le dice que aprendió una lección valiosa, pero que para ser su aprendiz le falta demostrar una última cosa: su valía. Deberá enfrentarse a ti para ver quién hace la mejor katana. Shinto declara que el concurso será en Kugane y les pide a ti y a Forgemaster Brithael que se reúnan allí con él y su hija.<br><br>※La siguiente misión de blacksmith estará disponible con Brithael al llegar al nivel 70.
+TEXT_CLSBSM680_02618_TODO_00	Habla con Shinto en West Hawkers' Alley.
+TEXT_CLSBSM680_02618_TODO_01	Informa a Forgemaster Brithael.
+TEXT_CLSBSM680_02618_TODO_02	Habla con Randwulf.
+TEXT_CLSBSM680_02618_TODO_03	<if([lnum1<lnum2],Sintetiza un custom-made hammer <sheet(Addon,9,0)>,Entrégale el custom-made hammer <sheet(Addon,9,0)> a Forgemaster Brithael)>.
+TEXT_CLSBSM680_02618_TODO_04	Entrégale el juego de herramientas a Sekka.
+TEXT_CLSBSM680_02618_TODO_05	Habla con Sekka en el Blacksmiths' Guild.
+TEXT_CLSBSM680_02618_BRITHAEL_000_000	Ah, <split(<string(gstr1)>, ,1)>, ahí estás. Desde la última vez estuve pensando mucho en cómo ayudar a Sekka a ganarse la aprobación de su padre, y hay algo que me parece raro.
+TEXT_CLSBSM680_02618_BRITHAEL_000_001	No es una artesana de primera, ni mucho menos, pero tampoco es tan mala como su viejo nos quiere hacer creer.
+TEXT_CLSBSM680_02618_BRITHAEL_000_002	Entonces, ¿por qué se esfuerza tanto en convencernos de que nunca llegará a nada? Mi intuición me dice que oculta algo, y te toca a ti averiguar qué.
+TEXT_CLSBSM680_02618_BRITHAEL_000_003	Hace rato lo vi paseando por West Hawkers' Alley. Con suerte, todavía estará ahí.
+TEXT_CLSBSM680_02618_BRITHAEL_000_010	A ese viejo cascarrabias le caíste muy bien. Sin duda le sacarás todos sus secretos en un santiamén.
+TEXT_CLSBSM680_02618_SHINTOU_000_020	¿Quieres saber qué me convencería del potencial de Sekka como espadera?
+TEXT_CLSBSM680_02618_SHINTOU_000_021	Eres alguien extraño: con tanto talento y a la vez tan humilde como para tratar de igual a igual a una artesana mediocre como mi hija...
+TEXT_CLSBSM680_02618_SHINTOU_000_022	Para responderte, nada me persuadirá de aceptarla como aprendiz. Lo que le falta es algo mucho más fundamental que la habilidad.
+TEXT_CLSBSM680_02618_SHINTOU_000_023	Seguro que el Maestro Brithael te envió con la esperanza de saber más de lo que acabo de decirte, pero es todo lo que estoy dispuesto a decir.
+TEXT_CLSBSM680_02618_BRITHAEL_000_030	Entonces es como sospechaba: lo que Shinto no aprueba no es la habilidad de la muchacha.
+TEXT_CLSBSM680_02618_BRITHAEL_100_030	Pero tanto secreto es bastante curioso, ¿no? Si no le importara su hija, no tendría reparos en decir toda la verdad. Tal vez ese aire distante no sea más que una máscara...
+TEXT_CLSBSM680_02618_BRITHAEL_000_031	Pero eso es tema para otro día. Bien, estuve observando un tiempo cómo trabaja Sekka para ver cómo podemos ayudarla a mejorar.
+TEXT_CLSBSM680_02618_BRITHAEL_000_032	Por lo que vi, tiene mucho talento, pero sus herramientas toscas le impiden mostrar todo lo que sabe.
+TEXT_CLSBSM680_02618_BRITHAEL_000_033	Creo que esa falta de destreza es el "fundamento" que le falta, según Shinto. Debería ser fácil de arreglar: solo hay que darle un juego nuevo de herramientas finas.
+TEXT_CLSBSM680_02618_BRITHAEL_000_034	Dicho esto, forjar herramientas a medida no es fácil, y solo hay dos personas en las que confiaría para hacerlo bien.
+TEXT_CLSBSM680_02618_BRITHAEL_000_035	Bueno, <split(<string(gstr1)>, ,1)>, ¿qué dices? Tú le haces un buen martillo y yo me encargo del resto.
+TEXT_CLSBSM680_02618_BRITHAEL_000_036	Randwulf puede darte lo que necesites. Está donde siempre, en la recepción.
+TEXT_CLSBSM680_02618_BRITHAEL_000_038	Solo ve adonde está Randwulf y él se encargará de darte los materiales que necesites.
+TEXT_CLSBSM680_02618_RANDWULF_000_040	¿Ustedes dos le están haciendo herramientas nuevas a la muchacha? ¡Ja, ja! Así que el viejo condenado tiene su lado caballeroso.
+TEXT_CLSBSM680_02618_RANDWULF_000_041	Muy bien. Con esto deberías tener todo lo que necesitas, pero vuelve si no alcanza.
+TEXT_CLSBSM680_02618_RANDWULF_000_050	¿Necesitas más materiales? No hay por qué tener vergüenza, <if(gnum4,muchacha,muchacho)>. Estas herramientas son por una buena causa.
+TEXT_CLSBSM680_02618_RANDWULF_000_060	Puedo echarle un vistazo si de verdad quieres, pero el martillo se lo tienes que enseñar a Forgemaster Brithael. Yo no tengo su ojo para los detalles...
+TEXT_CLSBSM680_02618_BRITHAEL_000_070	A ver, muéstramelo.
+TEXT_CLSBSM680_02618_BRITHAEL_000_080	Te superaste otra vez, <split(<string(gstr1)>, ,1)>. Tal vez tenga que pedirte que me forjes un martillo nuevo cuando todo esto se resuelva.
+TEXT_CLSBSM680_02618_BRITHAEL_000_081	Entre los dos, ya tenemos un juego completo de herramientas. Te dejo el honor de dárselas a la muchacha. Si no está abajo en el taller, deberías encontrarla en el Anchor Yard.
+TEXT_CLSBSM680_02618_BRITHAEL_000_090	¿No estaba ahí? Bueno, date una vuelta por el Anchor Yard: tarde o temprano la encontrarás.
+TEXT_CLSBSM680_02618_SEKKA_000_100	<split(<string(gstr1)>, ,1)>, soy... ¡soy patética! No merezco que me llamen herrera.
+TEXT_CLSBSM680_02618_SEKKA_000_101	Forgemaster Brithael invirtió tanto tiempo y esfuerzo en ayudarme a cumplir mis sueños, y todo lo que hago es... es <italic(1)>basura<italic(0)>. No merezco sus enseñanzas ni su bondad.
+TEXT_CLSBSM680_02618_SEKKA_000_102	Mi padre es un artesano distinguido en Kugane...
+TEXT_CLSBSM680_02618_SEKKA_000_103	Para ganarme su reconocimiento tendría que forjar una katana excepcional. Todo este tiempo pensé en cómo hacerla, pero cuanto más lo pienso, más me invade el pánico.
+TEXT_CLSBSM680_02618_SEKKA_000_104	Para empeorar las cosas, no puedo sacarme de la cabeza el rostro de Forgemaster Brithael. Desde que me defendió ante mi padre, no logro pensar con claridad y se me suben los colores cada vez que está cerca.
+TEXT_CLSBSM680_02618_SEKKA_000_105	Empezó a dominar mis pensamientos y hasta mis sueños. No sé qué me pasa. \<suspiro> Mis disculpas. Parece que me fui por las ramas. ¿Tenía algo que mostrarme?
+TEXT_CLSBSM680_02618_SEKKA_000_110	¿Forgemaster Brithael y usted hicieron esto para <italic(1)>mí<italic(0)>?
+TEXT_CLSBSM680_02618_SEKKA_000_111	Nunca se me ocurrió que las herramientas pudieran marcar la diferencia. A diferencia de las mías, estas se sienten tan ligeras y finas.
+TEXT_CLSBSM680_02618_SEKKA_000_112	Muchísimas gracias por este maravilloso regalo. No veo la hora de probarlas.
+TEXT_CLSBSM680_02618_BRITHAEL_000_120	La muchacha entró volando aquí hace un cuarto de campanada y se puso a martillar como una tormenta. Sabía que las herramientas la harían feliz, pero no imaginé que <italic(1)>tanto<italic(0)>.
+TEXT_CLSBSM680_02618_SEKKA_000_130	<split(<string(gstr1)>, ,1)>, mire. Es magnífica, ¿verdad? La hice con las herramientas que me dieron.
+TEXT_CLSBSM680_02618_SEKKA_000_140	Solo las usé para los últimos retoques, pero qué diferencia tan asombrosa. Son mucho más fáciles de manejar que las viejas. Cosas que antes me costaban ahora me salen casi solas.
+TEXT_CLSBSM680_02618_SEKKA_000_141	Gracias. Y pensar que usted y Forgemaster Brithael se preocuparon tanto por mí como para diseñarme un juego de herramientas tan maravilloso...
+TEXT_CLSBSM680_02618_SHINTOU_000_142	(-???-)Sekka, parece que una vez más fuiste contra mis deseos. Esta katana es pésima. ¿Creíste que fabricar esta espada de mala calidad me haría cambiar de opinión?
+TEXT_CLSBSM680_02618_SEKKA_000_143	No, padre. Esta katana no se hizo con la intención de mostrar mi habilidad. Pero eso no la hace menos valiosa.
+TEXT_CLSBSM680_02618_SEKKA_000_144	Esta hoja representa mi determinación y marca el primer paso de mi camino para ser la mejor espadera del reino.
+TEXT_CLSBSM680_02618_SEKKA_000_145	Trabajar con estas herramientas me recordó lo que es concentrarse solo en sentir el frío mordisco del metal en la palma y la reverberación de cada golpe del mazo en el brazo. Me hizo ver que, hasta ahora, hice mis katanas con ansiedad, con miedo al rechazo, y no por la pura alegría del arte.
+TEXT_CLSBSM680_02618_SEKKA_000_146	Padre, estoy en un punto de inflexión. Ahora más que nunca su guía es esencial para mi éxito, y quisiera reiterarle mi pedido: se lo ruego, tómeme como aprendiz.
+TEXT_CLSBSM680_02618_SHINTOU_000_147	Muestras gran dedicación, pero siempre te faltaron la concentración y el cariño necesarios por este oficio, y eso se refleja en tu trabajo. Todas tus hojas fueron insulsas y sin brillo.
+TEXT_CLSBSM680_02618_SHINTOU_000_148	Esta katana, aunque lejos de ser aceptable, es distinta. Pusiste toda tu atención en crearla, en lugar de obsesionarte con ganar mi aprobación. Con eso demostraste que entiendes la esencia de nuestro arte. Consideraré tu pedido.
+TEXT_CLSBSM680_02618_SEKKA_000_149	¿Q-Qué? ¿De verdad?
+TEXT_CLSBSM680_02618_SHINTOU_000_150	No te adelantes. Primero debes demostrar tu valía. Competirás contra <split(<string(gstr1)>, ,1)>. Solo si l<if(gnum4,a,o)> vences, te aceptaré.
+TEXT_CLSBSM680_02618_SHINTOU_000_151	Volveremos a Kugane y allí se enfrentarán para ver quién hace la mejor katana. Ten presente, Sekka, que esta será tu última oportunidad.
+TEXT_CLSBSM680_02618_BRITHAEL_000_152	Eh, perdón, pero creo que oí mal. ¿No me estarás diciendo que piensas robarme a mi mejor herrer<if(gnum4,a,o)> y llevártel<if(gnum4,a,o)> a un país lejano para una maldita competencia que ni siquiera aceptamos?
+TEXT_CLSBSM680_02618_SEKKA_000_153	Padre, no tengo objeción. <split(<string(gstr1)>, ,1)>, sé que es mucho pedir, pero por favor, por favor, <italic(1)>por favor<italic(0)>, ¿haría esto por mí?
+TEXT_CLSBSM680_02618_SHINTOU_000_154	Muy bien. Volveré a Kugane de inmediato para empezar a preparar el enfrentamiento. Los veré allí a los tres.
+TEXT_CLSBSM680_02618_BRITHAEL_000_155	¿A los tres? Un momento. ¿No me estarás incluyendo a <italic(1)>mí<italic(0)>, verdad?
+TEXT_CLSBSM680_02618_SHINTOU_000_156	¿A quién más? Como Guildmaster, tu deber es acompañar a tu protegid<if(gnum4,a,o)> y asegurarte de que dé lo mejor de sí. Y ahora, creo que tengo un barco que tomar. Hasta que nos veamos en Kugane.
+TEXT_CLSBSM680_02618_SEKKA_000_157	Volveré con mi padre. Como ahora somos adversarios, ya no puedo quedarme en el gremio.
+TEXT_CLSBSM680_02618_SEKKA_000_158	Forgemaster Brithael, <split(<string(gstr1)>, ,1)>, les sugiero que se preparen. Haré todo lo que esté en mi poder para ganar.
+TEXT_CLSBSM680_02618_BRITHAEL_000_159	¡Por los siete infiernos! Esos dos podrían darles una lección a los piratas más feroces...
+TEXT_CLSBSM680_02618_BRITHAEL_000_160	\<suspiro> Hay mucho que hacer antes de partir. Mientras yo me encargo de que todo esté en orden, espero que practiques. Si vamos a cruzar los cinco mares por esta maldita competencia, más te vale ganarla.

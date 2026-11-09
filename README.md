@@ -104,6 +104,7 @@ Lo que todavía no tiene traducción se muestra en inglés, como siempre.
 | **Shadowbringers** | 5.0 | Historia principal, de "The Syrcus Trench" a "Shadowbringers" | ![Traducido][ok] |
 | | | Raid de 8: Eden (Gate, Verse, Promise) | ![Traducido][ok] |
 | | | Raid de alianza (24): YoRHa: Dark Apocalypse | ![Traducido][ok] |
+| | | Paralela: The Sorrow of Werlyt | ![Traducido][ok] |
 | **Post Shadowbringers** | 5.1–5.55 | Historia principal, de "Shaken Resolve" a "Death Unto Dawn" | ![Traducido][ok] |
 | **Endwalker** | 6.0 | Historia principal, de "The Next Ship to Sail" a "Endwalker" | ![Traducido][ok] |
 | | | Raid de 8: Pandæmonium (Asphodelos, Abyssos, Anabaseios) | ![Traducido][ok] |
@@ -200,6 +201,22 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 | | Pictomancer | 80–100 | ![Traducido][ok] |
 | **Limitado** | Blue Mage | 1–70 | ![Traducido][ok] |
 | | Beastmaster | 1–50 | ![Traducido][ok] |
+
+### Crafters y gatherers
+
+| Clase | Niveles | Estado |
+|---|---|---|
+| Carpenter | 1–70 | ![Traducido][ok] |
+| Blacksmith | 1–70 | ![Traducido][ok] |
+| Armorer | 1–70 | ![Pendiente][no] |
+| Goldsmith | 1–70 | ![Pendiente][no] |
+| Leatherworker | 1–70 | ![Pendiente][no] |
+| Weaver | 1–70 | ![Pendiente][no] |
+| Alchemist | 1–70 | ![Pendiente][no] |
+| Culinarian | 1–70 | ![Pendiente][no] |
+| Miner | 1–70 | ![Pendiente][no] |
+| Botanist | 1–70 | ![Pendiente][no] |
+| Fisher | 1–70 | ![Pendiente][no] |
 
 ## Otras misiones
 

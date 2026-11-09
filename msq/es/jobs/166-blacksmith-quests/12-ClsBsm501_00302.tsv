@@ -1,0 +1,71 @@
+key	text
+TEXT_CLSBSM501_00302_SEQ_00	Forgemaster Brithael tiene un encargo especial que solo tú puedes atender.
+TEXT_CLSBSM501_00302_SEQ_01	Gracias a tus muchos esfuerzos, el gremio está más ocupado que nunca. Incontables clientes pidieron por ti, pero Brithael solo quiso complacer a uno. Habla con Faezahr para conocer los detalles de este encargo especial.
+TEXT_CLSBSM501_00302_SEQ_02	Una antigua campeona del Coliseum vino desde Gridania para hablar contigo en persona. La clienta te espera en la plataforma justo debajo del Drowning Wench, donde podrán hablar en privado.
+TEXT_CLSBSM501_00302_SEQ_03	La clienta, que prefiere no revelar su nombre, desea proporcionarle a un gladiator en apuros un arma a la altura de su habilidad y experiencia. Este gladiator, conocido como el Bronze Bull, es al parecer otro antiguo campeón que eligió pelear bajo otro nombre. Debes fabricar un cobalt winglet de calidad, insertarle una savage might materia de tercer grado y entregarle el producto terminado a Faezahr.
+TEXT_CLSBSM501_00302_SEQ_04	Tras confirmar que tu espada cumple con lo que pide la clienta, Faezahr hace venir al Bronze Bull para recoger el arma en persona, mientras la clienta anónima escucha a escondidas. Al principio, el gladiator no entiende el gesto ni los motivos de tu mecenas. Sin embargo, cuando Faezahr le transmite un mensaje críptico, el Bronze Bull identifica de inmediato a tu clienta como la Hellfire Phoenix, a quien creía muerta en la Calamidad hace años. Acepta la espada, proclamando que algún día llegará a la cima del Coliseum y le hará justicia, y se va sin ver a tu clienta. Habla con ella y averigua si las cosas salieron como quería.
+TEXT_CLSBSM501_00302_SEQ_05	Tu clienta explica que su deseo de mantenerse lejos del Coliseum y sus asuntos la llevó a entregar la espada de esta manera. Aun así, no pudo resistirse a usar las palabras de Greinfarr para revelarle su identidad al antiguo campeón. Le confió tu pago al Forgemaster y te pide que vuelvas con él para recibirlo.
+TEXT_CLSBSM501_00302_SEQ_06	Brithael reflexiona sobre cómo tú sol<if(gnum4,a,o)> le cambiaste la suerte al gremio y afirma que el impacto de tus hazañas se sentirá por años. Con un brillo en los ojos y una sonrisa en el rostro, te llama <if(gnum4,una de las mejores,uno de los mejores)> blacksmiths que conoció jamás.<br><br>※La siguiente misión de blacksmith estará disponible con Brithael cuando hayas completado la misión principal "Before the Dawn".
+TEXT_CLSBSM501_00302_TODO_00	Habla con Faezahr.
+TEXT_CLSBSM501_00302_TODO_01	Habla con la clienta.
+TEXT_CLSBSM501_00302_TODO_02	Entrégale a Faezahr un cobalt winglet <sheet(Addon,9,0)> con una savage might materia III.
+TEXT_CLSBSM501_00302_TODO_03	Habla con la clienta.
+TEXT_CLSBSM501_00302_TODO_04	Informa a Brithael.
+TEXT_CLSBSM501_00302_BRITHAEL_000_001	¡Buenas noticias, <split(<string(gstr1)>, ,1)>! ¿Esa gladiator a la que le hiciste las armas, Muriel? ¡Nos hizo el trabajo de un millón de mercaderes! ¡Su nombre está en boca de todos los aficionados del Coliseum, igual que el de quien le forjó el armamento!
+TEXT_CLSBSM501_00302_BRITHAEL_000_002	¡Nuestros productos se venden más rápido de lo que los forjamos, y todos en el gremio cosechan los beneficios! ¡Sí, esta noche en el Wench la cerveza correrá como el vino!
+TEXT_CLSBSM501_00302_BRITHAEL_000_003	Claro que los clientes piden por ti con nombre y todo, pero yo les digo que no tienes tiempo de hacerles en persona todos sus cuchillos de carnicero y chucherías. Y desde luego no pienso echarte encima ese trabajo pesado.
+TEXT_CLSBSM501_00302_BRITHAEL_000_004	Pero hay un encargo que creo que requiere tu atención personal. Nos llega por medio de Faezahr, así que ve a verlo.
+TEXT_CLSBSM501_00302_BRITHAEL_000_005	Antes de que te vayas, una advertencia: Faezahr ya es de por sí un alma solemne, pero este trabajo lo tiene más tenso que nunca, a juzgar por su semblante. Mejor prepárate para un maldito desafío difícil.
+TEXT_CLSBSM501_00302_FAEZAHL_000_010	¡Ahí estás! Escúchame, <split(<string(gstr1)>, ,1)>: para esta tarea no sirve nada menos que <if(gnum4,la mejor,el mejor)> blacksmith de toda Vylbrand.
+TEXT_CLSBSM501_00302_FAEZAHL_000_011	Tus armas son tan renombradas que tu nombre resuena en los lejanos bosques de Gridania. Tu forja es tan poderosa que doblegó su desdén por el acero hasta volverlo admiración.
+TEXT_CLSBSM501_00302_FAEZAHL_000_012	Por eso, una antigua campeona del Coliseum que vive entre las hojas se puso en contacto conmigo con la esperanza de contratar tus servicios.
+TEXT_CLSBSM501_00302_FAEZAHL_000_013	Es todo lo que puedo decir. El resto te lo dirá ella misma.
+TEXT_CLSBSM501_00302_FAEZAHL_000_014	La clienta quiere reunirse contigo en privado y te esperará en la plataforma justo debajo del Drowning Wench. Te ruego que no la hagas esperar.
+TEXT_CLSBSM501_00302_JMOLDVA_000_020	Es un honor, <string(gstr1)>. Le agradezco que haya venido hasta aquí a verme.
+TEXT_CLSBSM501_00302_JMOLDVA_000_021	Me dicen que es <if(gnum4,una blacksmith,un blacksmith)> sin igual. Por eso vine a pedirle ayuda.
+TEXT_CLSBSM501_00302_JMOLDVA_000_022	La espada que quiero que forje debe ser digna de un legendario campeón del Coliseum; mejor dicho, de un hombre que volverá a serlo.
+TEXT_CLSBSM501_00302_JMOLDVA_000_023	Este gladiator regresó hace poco a Ul'dah y decidió pelear bajo otro nombre, ¿sabe?
+TEXT_CLSBSM501_00302_JMOLDVA_000_024	¿Tal vez le suene el Bronze Bull? Lo suponía. Su desempeño en las arenas sangrientas no ha sido brillante.
+TEXT_CLSBSM501_00302_JMOLDVA_000_025	A pesar de su enorme experiencia, tiene dificultades. Lo vi pelear; su debilidad son sus armas. Pero me temo que cree que la culpa es suya.
+TEXT_CLSBSM501_00302_JMOLDVA_000_026	Y ahí entra mi pedido: deseo armar al Bronze Bull con un cobalt winglet de calidad, reforzado con una savage might materia de tercer grado.
+TEXT_CLSBSM501_00302_JMOLDVA_000_027	Es mucho mejor gladiator de lo que sugiere su historial, y merece algo mejor que la basura que empuña.
+TEXT_CLSBSM501_00302_JMOLDVA_000_028	Cuando la espada esté lista, entréguesela a Faezahr. Él se encargará de que llegue al Bronze Bull.
+TEXT_CLSBSM501_00302_FAEZAHL_000_030	Conozco las especificaciones de la clienta. En cuanto compruebe que tu espada la satisface, me pondré en contacto con el destinatario.
+TEXT_CLSBSM501_00302_FAEZAHL_000_031	Te superaste una vez más. Tu tarea está casi terminada.
+TEXT_CLSBSM501_00302_FAEZAHL_000_032	En un pedido de lo más peculiar, la clienta desea estar presente, pero oculta, para la entrega de su regalo.
+TEXT_CLSBSM501_00302_FAEZAHL_000_033	Yo me ocuparé de los arreglos. Tú solo mantente list<if(gnum4,a,o)>.
+TEXT_CLSBSM501_00302_GREINFARR_000_70	¿Desde cuándo te encaprichas con un gladiator <italic(1)>hombre<italic(0)>, Faezahr? ¿De qué se trata todo esto en realidad?
+TEXT_CLSBSM501_00302_FAEZAHL_000_71	Te aseguro que no te vas a disgustar. Todo lo contrario, espero.
+TEXT_CLSBSM501_00302_GREINFARR_000_72	¿Voy a estar contento, entonces?
+TEXT_CLSBSM501_00302_FAEZAHL_000_73	Exactamente. Te traemos un regalo.
+TEXT_CLSBSM501_00302_GREINFARR_000_74	¿Un regalo? ¿Para mí? ¡Ja! Dáselo a alguien que lo merezca. No estoy de humor para que me adulen.
+TEXT_CLSBSM501_00302_FAEZAHL_000_75	Por tus crecientes derrotas, sin duda.
+TEXT_CLSBSM501_00302_GREINFARR_000_76	Conozco mi historial, mercader.
+TEXT_CLSBSM501_00302_FAEZAHL_000_77	Ah, pero justamente por eso creo que este regalo te levantará el ánimo. ¡Contempla la cura para tus males recientes: una espada como ninguna otra!
+TEXT_CLSBSM501_00302_GREINFARR_000_78	Esta hoja, yo... nunca vi una igual. ¿La forjaste tú, <if(gnum4,herrera,herrero)>?
+TEXT_CLSBSM501_00302_GREINFARR_000_79	Estaría orgulloso de llamarla mía.
+TEXT_CLSBSM501_00302_FAEZAHL_000_80	Creo que eso es precisamente lo que quería nuestra mecenas.
+TEXT_CLSBSM501_00302_GREINFARR_000_81	¿Me vas a decir quién es tu mecenas? ¿Y por qué le parece bien darme semejante tesoro?
+TEXT_CLSBSM501_00302_FAEZAHL_000_82	Solo puedo decir que <italic(1)>ella<italic(0)> reza por tu éxito. Espera que con esta espada ganes nueva gloria, y que estas palabras te ayuden a recordar la de antaño:
+TEXT_CLSBSM501_00302_FAEZAHL_000_83	"El camino de la espada es tal que todos los que lo recorren se pierden".
+TEXT_CLSBSM501_00302_GREINFARR_000_84	...Palabras <italic(1)>suyas<italic(0)>, ¿eh?
+TEXT_CLSBSM501_00302_GREINFARR_000_85	Bueno, no veo por qué tuvo que montar esta farsa de comediantes. Habría aceptado con gusto la espada de sus propias manos.
+TEXT_CLSBSM501_00302_FAEZAHL_000_86	¿Ah, sí?
+TEXT_CLSBSM501_00302_GREINFARR_000_87	Sí. Creí que la Calamidad le había quitado la vida.
+TEXT_CLSBSM501_00302_GREINFARR_000_88	Je, debí saber que la Hellfire Phoenix no moriría tan fácilmente.
+TEXT_CLSBSM501_00302_GREINFARR_000_89	Y ahora me toca a mí alzar el vuelo.
+TEXT_CLSBSM501_00302_GREINFARR_000_90	Por mi honor, algún día llegaré a la cima del Coliseum y le haré justicia a esta espada.
+TEXT_CLSBSM501_00302_JMOLDVA_000_040	Greinfarr no tiene un pelo de tonto. Sospecho que supo que yo estaba presente en cuanto <italic(1)>sus<italic(0)> palabras salieron de los labios de Faezahr.
+TEXT_CLSBSM501_00302_JMOLDVA_000_041	¿Hm? ¿Por qué no darle la espada en persona? Es... complicado.
+TEXT_CLSBSM501_00302_JMOLDVA_000_042	En pocas palabras, no me involucraré directamente en los asuntos del Coliseum. Hace mucho juré no volver a tomar espada ni lanza por deporte.
+TEXT_CLSBSM501_00302_JMOLDVA_000_043	Le confié sus honorarios al Forgemaster. Acéptelos, por favor, con mi más sincero agradecimiento.
+TEXT_CLSBSM501_00302_BRITHAEL_000_050	¡Vaya, miren quién volvió de traernos otra fortuna!
+TEXT_CLSBSM501_00302_BRITHAEL_000_051	No sé cómo lo haces, <split(<string(gstr1)>, ,1)>, pero me alegra que lo hagas por nosotros.
+TEXT_CLSBSM501_00302_BRITHAEL_000_052	Si no hubieras llegado cuando llegaste y nos hubieras ayudado a cambiar las cosas con tu trabajo de calidad, creo que sería un borracho más, sin trabajo, ahogando mis penas en el Wench.
+TEXT_CLSBSM501_00302_BRITHAEL_000_053	¡En cambio, soy un borracho felizmente empleado celebrando mis <italic(1)>éxitos<italic(0)> en el Wench!
+TEXT_CLSBSM501_00302_BRITHAEL_000_054	¿Sabes?, cualquier bruto con una herramienta puede poner pasión en su trabajo, pero que esa pasión llegue al otro lado y <italic(1)>conmueva<italic(0)> a la gente, ese es el verdadero arte.
+TEXT_CLSBSM501_00302_BRITHAEL_000_055	Y no te equivoques, <if(gnum4,muchacha,muchacho)>: lo que hiciste por el gremio se va a sentir por años.
+TEXT_CLSBSM501_00302_BRITHAEL_000_056	Eres <if(gnum4,una de las mejores malditas herreras,uno de los mejores malditos herreros)> que tuve el placer de conocer, <split(<string(gstr1)>, ,1)>. No hay más que decir.
+TEXT_CLSBSM501_00302_SYSTEM_000_500	Aquí concluyen las misiones de blacksmith de FINAL FANTASY XIV: A Realm Reborn. Para emprender la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:
+TEXT_CLSBSM501_00302_SYSTEM_000_501	※Debes haber completado la misión principal "Before the Dawn".
+TEXT_CLSBSM501_00302_SYSTEM_000_502	Cuando lo hayas hecho, la siguiente misión de blacksmith estará disponible con Brithael.

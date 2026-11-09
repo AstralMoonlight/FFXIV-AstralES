@@ -1,0 +1,39 @@
+key	text
+TEXT_CLSBSM502_02007_SEQ_00	Los ojos de Forgemaster Brithael parecen brillar de orgullo.
+TEXT_CLSBSM502_02007_SEQ_01	Forgemaster Brithael cree que ya es hora de que alguien de tu calibre gane renombre en todo el reino. Hasta te encontró un posible patrón: una casa noble de Ishgard. Su representante, un tal Fremondain, te espera en el Drowning Wench. Ve hasta allí y escúchalo.
+TEXT_CLSBSM502_02007_SEQ_02	Te enteras de que Fremondain es mayordomo al servicio de la Baronesa Laurisse de Jervaint, única hija de la House Jervaint, una familia caída de su antigua posición en la sociedad ishgardiana. Así, aunque hay gran necesidad de un blacksmith, lo más que Fremondain puede ofrecerte por tus servicios es una buena dosis de "honor". Si tan pobre oferta no te disuadió, busca al mayordomo en el Jeweled Crozier de Ishgard.
+TEXT_CLSBSM502_02007_SEQ_03	Al llegar a Ishgard, hablas con Fremondain, que te presenta a la Baronesa Laurisse y explica la causa de la miseria de la House Jervaint: Ser Jervaint, el padre de la dama, perdió su título de caballero. Sin embargo, el próximo gran torneo de Ishgard podría darle a la Baronesa la oportunidad de restaurar el buen nombre de la familia, ya que al campeón se le ofrecerá el título que perdió su padre. Antes de explicarte tu papel en todo esto, Fremondain nota que estás cansad<if(gnum4,a,o)> del viaje y te pide que vuelvas a buscarlo cuando te hayas recuperado.<br><br>※La siguiente misión de blacksmith estará disponible con Fremondain al llegar al nivel 53.
+TEXT_CLSBSM502_02007_TODO_00	Habla con Fremondain en el Drowning Wench.
+TEXT_CLSBSM502_02007_TODO_01	Habla con Fremondain en el Jeweled Crozier, en Ishgard.
+TEXT_CLSBSM502_02007_BRITHAEL_000_000	Desde que llegaste, <split(<string(gstr1)>, ,1)>, el gremio navega con viento en popa. Pero me temo que ya es hora de que abras las alas y pruebes el renombre que le corresponde a alguien de tu talento.
+TEXT_CLSBSM502_02007_BRITHAEL_000_001	Y da la casualidad de que encontré el trabajo perfecto para ti: ¡con auténtica nobleza ishgardiana! ¡Un mayordomo llamado Fremondain anda por aquí a escondidas, buscando a lo mejor que tengo!
+TEXT_CLSBSM502_02007_BRITHAEL_000_002	¡No hay mayor honor para quien trabaja en este oficio que hacerse un nombre en la tierra de los caballeros! Entonces, ¿confío en que vas a escuchar al hombre? Te espera en el Wench.
+TEXT_CLSBSM502_02007_BRITHAEL_000_010	Ah, trabajar de herrero en la Holy See... ¡La oportunidad de tu vida, y Fremondain te la ofrece allá abajo en el Wench!
+TEXT_CLSBSM502_02007_FREMONDAIN_000_020	¿Es usted <if(gnum4,la pupila,el pupilo)> del Maestro Brithael? Un placer, <if(gnum4,señora,señor)>. Soy Fremondain, mayordomo de la House Jervaint. ¿Cómo está usted?
+TEXT_CLSBSM502_02007_FREMONDAIN_000_021	Vine a contratar los servicios de un blacksmith. Su Guildmaster insinuó que usted es <if(gnum4,la mejor,el mejor)>. Y para mi señora, la Baronesa Laurisse, solo sirve lo mejor.
+TEXT_CLSBSM502_02007_FREMONDAIN_000_022	En otra época, su familia fue la columna vertebral de los Temple Knights. Sin embargo, la casa cayó en desgracia, y mi señora perdió sus tierras, su poder y a su padre.
+TEXT_CLSBSM502_02007_FREMONDAIN_000_023	Pero su determinación es de puro acero. Practica a diario con la espada para ganarse un lugar entre los Temple Knights y restaurar así el buen nombre de su casa. ¡Ayúdela, y me atrevo a decir que su talento se hará famoso en todo el reino!
+TEXT_CLSBSM502_02007_FREMONDAIN_000_024	<italic(1)>Debo<italic(0)> mencionar que no puedo prometerle, eh... un pago tradicional. Pero estoy seguro de que el <italic(1)>honor<italic(0)> de servir a la House Jervaint por lo menos lo intrigó, y <italic(1)>sí<italic(0)> espero que me acompañe en el Jeweled Crozier. Le deseo un buen día, <if(gnum4,señora,señor)>.
+TEXT_CLSBSM502_02007_FREMONDAIN_000_025	...No me alcanza para un chocobo de regreso. \<suspiro> Bueno, puedo caminar. Y dormir a la intemp...
+TEXT_CLSBSM502_02007_FREMONDAIN_000_026	¡O-Oh! Discúlpeme, <if(gnum4,señora,señor)>, no... no es nada. ¡De verdad! Eh... adiós.
+TEXT_CLSBSM502_02007_FREMONDAIN_000_040	¡<if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>! ¡Gracias! Le prometo que no se arrepentirá del viaje. Por la presente, confío las armas y armaduras de la House Jervaint a su competente cuidado.
+TEXT_CLSBSM502_02007_FREMONDAIN_000_041	¿Por qué aquí? Trabajo en esta tienda, un segundo empleo, para pagar las cuentas. Eh... me apena pedírselo, pero ¿podría mantenerlo en secreto ante la Baronesa Laurisse?
+TEXT_CLSBSM502_02007_LAURISSE_000_042	(-???-)Disculpa, Fremondain. ¿Mantener qué en secreto?
+TEXT_CLSBSM502_02007_FREMONDAIN_000_043	¡M-Mi señora! ¡Yo... solo decía que usted se mantenía ocupada con su práctica! ¿Ya terminó?
+TEXT_CLSBSM502_02007_LAURISSE_000_044	Vencer a unos muñecos de entrenamiento toma bastante poco tiempo. ¿Y quién es esta persona?
+TEXT_CLSBSM502_02007_FREMONDAIN_000_045	Ah, sí, permítame presentarle a <if(gnum4,la Maestra,el Maestro)> <split(<string(gstr1)>, ,2)>, <if(gnum4,una excelentísima,un excelentísimo)> blacksmith que viene a servirla.
+TEXT_CLSBSM502_02007_LAURISSE_000_046	Ah. Los rumores de tu habilidad te preceden, <if(gnum4,herrera,herrero)>. Me alegra tenerte.
+TEXT_CLSBSM502_02007_LAURISSE_000_047	Fremondain, me voy a casa. ¿Hace falta algo en la despensa?
+TEXT_CLSBSM502_02007_FREMONDAIN_000_048	Le agradecería dos calabazas, mi señora. Por desgracia, no puedo salir a comprarlas yo mismo en medio del trabajo... ¡A-Ah, quiero decir, no puedo irme antes de explicarle sus deberes a <if(gnum4,la herrera,el herrero)>!
+TEXT_CLSBSM502_02007_LAURISSE_000_049	Muy bien. Las tiendas de the Brume bajan los precios cerca de la hora de cierre, ¿verdad? Espero que la diferencia valga la caminata.
+TEXT_CLSBSM502_02007_FREMONDAIN_000_050	\<suspiro> Mi señora no debería tener que preocuparse por ahorrar en comida...
+TEXT_CLSBSM502_02007_FREMONDAIN_000_051	Pocas líneas nobles dieron más comandantes supremos que la House Jervaint. El padre de la Baronesa Laurisse fue también un caballero renombrado, hasta que...
+TEXT_CLSBSM502_02007_FREMONDAIN_000_052	Bueno, para darle una idea, la casa llegó a emplear a cientos de sirvientes. Yo soy el único que queda. Ser Jervaint no cayó de su título de caballero: lo empujaron, y su familia perdió mucho en su caída.
+TEXT_CLSBSM502_02007_FREMONDAIN_000_053	Para empeorar las cosas, la Calamidad se llevó su vida. Pero su sueño de ver restaurado el nombre de su casa no murió con él. Mi señora lo lleva dentro de sí, y no tiene igual en su convicción. ¡Vaya, a mis ojos es Santa Finnea venida de nuevo al mundo!
+TEXT_CLSBSM502_02007_FREMONDAIN_000_054	Y está tan <italic(1)>cerca<italic(0)>, <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>. Ishgard celebrará pronto su gran torneo, y asistirán los más ilustres de los Temple Knights. Al campeón le concederán el título de caballero. Si esa es la Baronesa...
+TEXT_CLSBSM502_02007_FREMONDAIN_000_055	Pero por buena que sea, le falta refinamiento tanto en su técnica como en su equipo. Con la ayuda de un maestro herrero, <italic(1)>sé<italic(0)> que puede brillar. Ah, pero debe de estar usted cansad<if(gnum4,a,o)> del viaje. Todo esto puede esperar a que descanse.
+TEXT_CLSBSM502_02007_SYSTEM_000_900	La siguiente misión de blacksmith estará disponible con Fremondain al llegar al nivel 53.
+TEXT_CLSBSM502_02007_SYSTEM_000_901	Los requisitos para emprender las misiones siguientes se pueden consultar en tu journal.
+TEXT_CLSBSM502_02007_SYSTEM_000_910	Tu habilidad como artesan<if(gnum4,a,o)> sería de gran provecho para fabricar collectables. Habla con Morgayne en Saint Reinette's Forum, en Ishgard, para saber más de esta lucrativa oportunidad de negocio.
+TEXT_CLSBSM502_02007_SYSTEM_000_911	Si buscas pruebas aún mayores para tu destreza, te convendría conseguir master recipes.
+TEXT_CLSBSM502_02007_SYSTEM_000_912	Habla con Guiding Star en Revenant's Toll para saber más.

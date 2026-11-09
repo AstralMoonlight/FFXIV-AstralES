@@ -1,0 +1,69 @@
+key	text
+TEXT_CLSBSM600_02011_SEQ_00	Los ojos de Fremondain brillan de esperanza.<br><br><colortype(500)><edgecolortype(501)>Para completar esta misión, debes haber aprendido las recetas avanzadas de <italic(1)>Master Blacksmith III<italic(0)>.<edgecolortype(0)><colortype(0)>
+TEXT_CLSBSM600_02011_SEQ_01	Llegó la ronda final del gran torneo, y Fremondain te informa que la Baronesa Laurisse empezó con todo. Demostró su valía ante muchos espectadores y se convirtió en favorita del público. Sin embargo, ahora que se enfrentará a los ocho finalistas, teme que su señora necesite toda la ventaja posible. Te pide que forjes un adamantite winglet de alta calidad, del mismo tamaño y forma que la Integrity original. Hazlo, para que el mayordomo pueda presentarle a la Baronesa un arma realmente temible.<br><br><colortype(500)><edgecolortype(501)>Para completar esta misión, debes haber aprendido las recetas avanzadas de <italic(1)>Master Blacksmith III<italic(0)>.<edgecolortype(0)><colortype(0)>
+TEXT_CLSBSM600_02011_SEQ_02	Fremondain acepta agradecido el adamantite winglet y transfiere el hueso sagrado a la nueva arma. La Baronesa Laurisse se reúne con ustedes y Fremondain se dispone a presentarle la espada. Sin embargo, al hacerlo, revela que no te pagó ni un solo gil. Desconcertada, la Baronesa rechaza el regalo, hasta que unas sentidas palabras de su leal mayordomo la hacen cambiar de opinión. Pero no piensa aceptarlo gratis, y te entrega el último objeto de valor de la House Jervaint, el cygnine rosary, con el acuerdo de que se lo devuelvas a cambio de lo que gane en el torneo. De pronto nerviosa, la Baronesa Laurisse se va en busca de una gran gloria o de un fracaso rotundo en la ronda final. Fremondain te pide que la sigas a los Lightfeather Proving Grounds y la animes si hace falta.
+TEXT_CLSBSM600_02011_SEQ_03	Encuentras a la Baronesa de pie afuera de los campos de pruebas. Está nerviosa, aunque no lo admita con esas palabras. Sin embargo, tu presencia le da cierta confianza, y el esplendor de Integrity le da todavía más. Te da las gracias, se da la vuelta y cruza las puertas hacia el destino que la espera. Reúnete con Fremondain en el Jeweled Crozier y espera noticias de la hija de la House Jervaint.
+TEXT_CLSBSM600_02011_SEQ_04	La Baronesa Laurisse vuelve con una triste noticia: perdió en el primer combate contra un rival mucho más grande y corpulento. Sin embargo, su ferocidad y valentía llamaron la atención de los Temple Knights. Por medio de un mensajero, le ofrecen a la Baronesa Laurisse el puesto de aprendiz de escudero y elogian su valor. El hombre también pregunta por el origen de Integrity, y la Baronesa Laurisse proclama con orgullo que es obra de <if(gnum4,la Maestra,el Maestro)> <split(<string(gstr1)>, ,1)>. Le devuelves el cygnine rosary y recibes el pago por todo tu trabajo... por fin. La hija de la House Jervaint dice que sin duda estás destinad<if(gnum4,a,o)> a cosas aún mayores, y te da las gracias. Con tus creaciones formaste a una heroína, y ahora ella llevará tu nombre a nuevas alturas.<br><br>※La siguiente misión de blacksmith estará disponible con Brithael cuando hayas completado la misión principal "The Far Edge of Fate".
+TEXT_CLSBSM600_02011_TODO_00	<if([lnum1<lnum2],Forja un adamantite winglet <sheet(Addon,9,0)>,Entrégale el adamantite winglet <sheet(Addon,9,0)> a Fremondain en Ishgard)>.
+TEXT_CLSBSM600_02011_TODO_01	Habla con Laurisse frente a los Lightfeather Proving Grounds.
+TEXT_CLSBSM600_02011_TODO_02	Habla con Fremondain.
+TEXT_CLSBSM600_02011_FREMONDAIN_000_000	¡<if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>, comenzó la ronda final del torneo!
+TEXT_CLSBSM600_02011_FREMONDAIN_000_001	¡Mi señora ganó seis combates con facilidad, y los que atribuían su habilidad a la pura suerte tuvieron que tragarse sus palabras!
+TEXT_CLSBSM600_02011_FREMONDAIN_000_002	El público está asombrado por su fuerza y su furia. ¡Vaya, hasta oí decir que es Santa Finnea venida de nuevo al mundo!
+TEXT_CLSBSM600_02011_FREMONDAIN_000_003	La comparación es bien merecida. El brazo de mi señora es excelente, pero gana porque es implacable. Hasta rivales valientes se retiraron por miedo.
+TEXT_CLSBSM600_02011_FREMONDAIN_000_004	Ahora, sin embargo, está junto a ocho más de igual poder. Temo que sin Integrity... Por favor, <if(gnum4,amiga mía,amigo mío)>, forje de nuevo un digno portador de la espada: ¡un adamantite winglet, creo que dijo!
+TEXT_CLSBSM600_02011_SYSTEM_900_000	Para completar esta misión, debes haber aprendido las recetas avanzadas de <italic(1)>Master Blacksmith III<italic(0)>.
+TEXT_CLSBSM600_02011_FREMONDAIN_000_020	¿Está listo, <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>? ¿Ya se forjó el nuevo portador de Integrity?
+TEXT_CLSBSM600_02011_FREMONDAIN_000_030	Por Halone... ¡Magnífico, simplemente magnífico! Si me permite transferir los restos de Santa Finnea...
+TEXT_CLSBSM600_02011_FREMONDAIN_000_031	Listo: ¡reliquia y relicario renacidos!
+TEXT_CLSBSM600_02011_LAURISSE_000_032	Fremondain, justo en el peor momento... Ah, <split(<string(gstr1)>, ,1)>. ¿Armas?
+TEXT_CLSBSM600_02011_LAURISSE_000_033	¡Que la Fury me lleve! ¿<italic(1)>Rehiciste<italic(0)> esa espada oxidada?
+TEXT_CLSBSM600_02011_FREMONDAIN_000_034	¡Por pura bondad de corazón, mi señora! Es una obra maestra, ¿no es cierto? ¡Y es suya, sin costo alguno!
+TEXT_CLSBSM600_02011_FREMONDAIN_000_035	¡La hoja está bendita! La empuñadura es un relicario de Santa Finnea, y en ella están contenidas las oraciones de sus antepasados, ¡pronunciadas sin duda en medio de encarnizadas batallas!
+TEXT_CLSBSM600_02011_FREMONDAIN_000_036	Cuando empuñe esta hoja, toda la House Jervaint caminará con usted. ¡Permítame presentarle Integrity! ¡Que la lleve a la victoria este día!
+TEXT_CLSBSM600_02011_LAURISSE_000_035	...¿Sin costo alguno? ¿Todo esto... por nada? No puedo aceptarlo.
+TEXT_CLSBSM600_02011_LAURISSE_000_036	Ya me parecía raro que pudiéramos pagarnos a alguien del calibre de <split(<string(gstr1)>, ,1)> con mis arcas tan vacías... ¿Cómo pagaste, Fremondain? ¿Con promesas?
+TEXT_CLSBSM600_02011_LAURISSE_000_037	¿¡Cómo pudiste!? ¡Por baja que haya caído, sigo siendo noble! ¡<italic(1)>No<italic(0)> voy a manchar mi nombre convirtiéndome en mendiga por culpa de la mala suerte, ni... ni a empañar mi victoria con esta espada!
+TEXT_CLSBSM600_02011_FREMONDAIN_000_038	P-Pero, Baronesa, solo se rehízo la hoja: ¡las oraciones de la House Jervaint eran suyas, y <italic(1)>siguen siendo<italic(0)> suyas! ¿Y-Y qué hay de <if(gnum4,la Maestra,el Maestro)> <split(<string(gstr1)>, ,2)>? ¡<if(gnum4,Ella,Él)> puso sus esperanzas en esta arma!
+TEXT_CLSBSM600_02011_FREMONDAIN_000_039	¡Y yo también! Nosotros somos la gente que usted quiere proteger, ¿no es así? ¿Cómo puede negarnos su deber? ¿¡Cómo puede dejar que esta espada se oxide!?
+TEXT_CLSBSM600_02011_LAURISSE_000_040	N-No, nunca podría. Mi padre... mi padre...
+TEXT_CLSBSM600_02011_LAURISSE_000_041	Tienes razón. Será un orgullo empuñar Integrity. Pero te daré una retribución, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSBSM600_02011_FREMONDAIN_000_042	¿¡El cygnine rosary, mi señora!? ¡Pero si es el único objeto de valor que queda! ¡Y era el favorito de sus padres!
+TEXT_CLSBSM600_02011_LAURISSE_000_043	Lo sé, Fremondain. Cuando sea campeona, <split(<string(gstr1)>, ,1)>, te daré el premio del torneo para recuperarlo. ¿Te parece bien?
+TEXT_CLSBSM600_02011_LAURISSE_000_044	Gracias. Bueno, ahora los ocho combates que tengo por delante. Si los Temple Knights me ven en mi mejor momento, me uniré a ellos. Pero... pero si pierdo aunque sea uno...
+TEXT_CLSBSM600_02011_LAURISSE_000_045	Ustedes dos, esperen... espérenme aquí. Volveré de los campos de pruebas para decirles si gané... <italic(1)>cuando<italic(0)> gane...
+TEXT_CLSBSM600_02011_FREMONDAIN_000_046	Nunca la había visto tan insegura... Necesita nuestro apoyo. Su apoyo. Mis nervios solo la preocuparían más.
+TEXT_CLSBSM600_02011_FREMONDAIN_000_050	Por favor, <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>, mi señora la necesita. Con tanto en juego, los Lightfeather Proving Grounds han de parecer intimidantes...
+TEXT_CLSBSM600_02011_LAURISSE_000_500	<split(<string(gstr1)>, ,1)>, por qué estás... Ah, qué importa. Gracias por venir. Solo estaba respirando hondo. Adentro el aire es asqueroso.
+TEXT_CLSBSM600_02011_LAURISSE_000_501	¿Yo? ¿Preocupada? C-Claro que no... ¡Soy Laurisse de Jervaint!
+TEXT_CLSBSM600_02011_LAURISSE_000_502	Nunca te rindas, nunca cedas, como decía mi padre. Da el ejemplo: ni debilidad ni vacilación. Debo ser de hierro, inflexible, inquebrantable. Como... como decía mi padre...
+TEXT_CLSBSM600_02011_LAURISSE_000_503	Fue un buen líder, <split(<string(gstr1)>, ,1)>. Yo también puedo serlo. Una voz para los que no la tienen.
+TEXT_CLSBSM600_02011_LAURISSE_000_504	...<italic(1)>Voy<italic(0)> a ganar.
+TEXT_CLSBSM600_02011_LAURISSE_000_505	Siento como si le tomara la mano a mi padre.
+TEXT_CLSBSM600_02011_LAURISSE_000_506	Valor, Laurisse, valor.<br>Gracias... <if(gnum4,amiga mía,amigo mío)>. Volveré con buenas noticias.
+TEXT_CLSBSM600_02011_JUDGE02011_000_510	¡Adelante!
+TEXT_CLSBSM600_02011_LAURISSE_000_511	...Cuida de mí, padre.
+TEXT_CLSBSM600_02011_FREMONDAIN_000_530	¡<if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>!
+TEXT_CLSBSM600_02011_FREMONDAIN_000_531	¡No podía soportar la espera! ¿Mi señora ya...?
+TEXT_CLSBSM600_02011_FREMONDAIN_000_532	Gracias. Necesitaba ánimo. Me alegra que haya estado aquí para dárselo. Bueno... ¿esperamos las noticias?
+TEXT_CLSBSM600_02011_FREMONDAIN_000_600	El torneo ya debería haber terminado. ¿Dónde está...?
+TEXT_CLSBSM600_02011_FREMONDAIN_000_601	¡Mi señora! ¿Me atrevo a esperar que...?
+TEXT_CLSBSM600_02011_LAURISSE_000_602	...Pero la espada fue <italic(1)>maravillosa<italic(0)>, de verdad. Fue <italic(1)>mi<italic(0)> fuerza la que...
+TEXT_CLSBSM600_02011_FREMONDAIN_000_603	No...
+TEXT_CLSBSM600_02011_ESQUIRE02011_000_604	Disculpe, Baronesa. Los Temple Knights me enviaron a buscarla, pues usted dejó la arena antes de la entrega de honores.
+TEXT_CLSBSM600_02011_LAURISSE_000_605	¿Debí quedarme, ser? Perdí en el primer combate.
+TEXT_CLSBSM600_02011_ESQUIRE02011_000_606	Los laureles del campeón no fueron suyos, mi señora, pero <italic(1)>sí<italic(0)> ganó un honor: el de la más valiente.
+TEXT_CLSBSM600_02011_ESQUIRE02011_000_607	Enfrentó a un rival que le triplicaba el tamaño, y ni retrocedió ni vaciló. ¡A decir verdad, pensamos que iba a matar a golpes a ese hombre! Nadie que haya visto el torneo olvidará pronto su furia, señora.
+TEXT_CLSBSM600_02011_ESQUIRE02011_000_608	El propio Ser Handeloup quedó impresionado. Desea hablar de su potencial con el comandante supremo.
+TEXT_CLSBSM600_02011_LAURISSE_000_609	Mi... mi... ¿¡Con Ser Aymeric!?
+TEXT_CLSBSM600_02011_ESQUIRE02011_000_610	Así es. Ser Handeloup también pidió que la asciendan de inmediato a aprendiz de escudero. Es un título humilde, pero lo tuvieron en su día muchos de los mejores Temple Knights.
+TEXT_CLSBSM600_02011_FREMONDAIN_000_611	¡Mi señora! ¿No es esto todo lo que soñó?
+TEXT_CLSBSM600_02011_ESQUIRE02011_000_612	Mi señora, si me permite: ¿de dónde sacó esa gloriosa espada?
+TEXT_CLSBSM600_02011_LAURISSE_000_613	¿Integrity? Es la espada de la House Jervaint, rehecha por <if(gnum4,esta maestra,este maestro)> de la forja, <split(<string(gstr1)>, ,1)>.
+TEXT_CLSBSM600_02011_ESQUIRE02011_000_614	<italic(1)><if(gnum4,Maestra,Maestro)><italic(0)> <split(<string(gstr1)>, ,1)>: me aseguraré de recordar el nombre. Bien, Baronesa Laurisse, me despido. Ah, pero permítame entregarle su premio.
+TEXT_CLSBSM600_02011_FREMONDAIN_000_615	¿Será... será pago suficiente por el cygnine rosary?
+TEXT_CLSBSM600_02011_LAURISSE_000_616	Te llamé <if(gnum4,maestra,maestro)> porque eso es lo que eres, <split(<string(gstr1)>, ,1)>. Y no habría podido hacer nada de esto sin tu ayuda. Nosotr<if(gnum4,as,os)>...
+TEXT_CLSBSM600_02011_LAURISSE_000_617	No hace falta que siga. Son nuestras hazañas, nuestras <italic(1)>victorias<italic(0)>, lo que la historia recordará, no nuestras palabras, y no tengo duda de que serás grande en los hechos. Que siempre alcances nuevas alturas, <if(gnum4,amiga mía,amigo mío)>.
+TEXT_CLSBSM600_02011_SYSTEM_000_500	Aquí concluyen las misiones de blacksmith de FINAL FANTASY XIV: Heavensward. Para emprender la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:
+TEXT_CLSBSM600_02011_SYSTEM_000_501	※Debes haber completado la misión principal "The Far Edge of Fate".
+TEXT_CLSBSM600_02011_SYSTEM_000_502	Cuando lo hayas hecho, la siguiente misión de blacksmith estará disponible con Brithael.

@@ -1,0 +1,53 @@
+key	text
+TEXT_CLSBSM580_02010_SEQ_00	Fremondain parece más decidido que de costumbre.
+TEXT_CLSBSM580_02010_SEQ_01	Resulta que Fremondain quiere que su señora empuñe Integrity, la espada de la House Jervaint y su derecho de nacimiento, en la ronda final del gran torneo. Como era de esperar, no está en buen estado: está corroída por el óxido y casi inservible. Por eso, Fremondain te pide que consultes a Forgemaster Brithael para encontrar la manera de restaurar la antaño poderosa hoja.
+TEXT_CLSBSM580_02010_SEQ_02	Forgemaster Brithael se alegra de ver a su herrer<if(gnum4,a,o)> favorit<if(gnum4,a,o)> y se escandaliza al saber que no ganaste ni para una jarra de cerveza con la House Jervaint. Pero razona que la fama de un blacksmith está ligada a los héroes que empuñan sus creaciones, y te anima a seguir con la Baronesa Laurisse aunque solo sea por eso. Luego declara que restaurar Integrity está fuera de su alcance. Sin embargo, un tal Gerolt podría ayudar. Ve a Hyrstmill y consulta al más eminente forjador de armas de Eorzea.
+TEXT_CLSBSM580_02010_SEQ_03	Intentas mostrarle Integrity a Gerolt, quien te grita que te vayas o que hables con Drake. El aprendiz está deseoso de ayudar, pero le falta habilidad. Cree que aún puede persuadir a su maestro, pero los servicios de Gerolt tendrán un costo: un titanium lump hammer de alta calidad. Al parecer, el malhumor del legendario herrero se debe a que unos prestamistas le quitaron su herramienta. Ayuda al aprendiz.
+TEXT_CLSBSM580_02010_SEQ_04	Después de admirar tu obra y elogiar el martillo, Drake te pide que vuelvas a hablar con Gerolt. Su maestro debería mostrarse más acogedor, dice.
+TEXT_CLSBSM580_02010_SEQ_05	Aunque "acogedor" sea mucho decir, Gerolt al menos mira Integrity. Elogia enseguida su construcción, de fino adamantite purificado con alguna técnica antigua, pero también dice que es imposible repararla. Sin embargo, hay un rayo de esperanza: la empuñadura guarda los restos de algún santo ishgardiano, y de ese hueso sagrado proviene el poder de la hoja. Se podría rehacer si forjas un adamantite winglet de la misma forma, tamaño y calidad que el original y transfieres el relicario a tu creación. Vuelve con Fremondain al Jeweled Crozier y cuéntale este interesante giro.
+TEXT_CLSBSM580_02010_SEQ_06	Le devuelves Integrity a Fremondain y le revelas todo lo que averiguaste. Aunque sorprendido, el mayordomo lo toma con calma y se pregunta en voz alta si el hueso de la espada original será de Santa Finnea. Te deja con una sola idea: ahora que se acerca la ronda final del gran torneo, tal vez una hoja nueva le dé a la Baronesa Laurisse la ventaja que necesita.<br><br>※La siguiente misión de blacksmith estará disponible con Fremondain al llegar al nivel 60.
+TEXT_CLSBSM580_02010_TODO_00	Muéstrale Integrity a Brithael en Limsa Lominsa.
+TEXT_CLSBSM580_02010_TODO_01	Muéstrale Integrity a Gerolt en Hyrstmill.
+TEXT_CLSBSM580_02010_TODO_02	<if([lnum1<lnum2],Forja un titanium lump hammer <sheet(Addon,9,0)>,Entrégale el titanium lump hammer <sheet(Addon,9,0)> a Drake)>.
+TEXT_CLSBSM580_02010_TODO_03	Muéstrale Integrity a Gerolt otra vez.
+TEXT_CLSBSM580_02010_TODO_04	Devuélvele Integrity a Fremondain.
+TEXT_CLSBSM580_02010_FREMONDAIN_000_000	¡Ah, justo <if(gnum4,la blacksmith,el blacksmith)> que necesitaba!
+TEXT_CLSBSM580_02010_FREMONDAIN_000_001	Como usted sabe, se acerca el turno de mi señora en la ronda final del torneo. Es mi deseo que empuñe lo que le corresponde por nacimiento: Integrity, la espada de la House Jervaint.
+TEXT_CLSBSM580_02010_FREMONDAIN_000_002	Esa hoja estuvo en manos de sus antepasados en incontables batallas. Ahora... Bueno, baste decir que requiere una restauración de lo más <italic(1)>minuciosa<italic(0)>.
+TEXT_CLSBSM580_02010_FREMONDAIN_000_003	Hice averiguaciones con el Maestro Brithael. Tal vez pueda ayudar, pero también mencionó que necesita ver la espada en persona. ¿Sería tan amable de llevársela a su Guildmaster?
+TEXT_CLSBSM580_02010_FREMONDAIN_000_010	¿El Maestro Brithael ideó alguna forma de reparar Integrity?
+TEXT_CLSBSM580_02010_BRITHAEL_000_030	¡<split(<string(gstr1)>, ,1)>! Justo me preguntaba cuándo aparecería mi <if(gnum4,muchacha,muchacho)> favorit<if(gnum4,a,o)>. ¿Trajiste Integrity, o como sea que la llame la House Jervint... digo, Jervont?
+TEXT_CLSBSM580_02010_BRITHAEL_000_034	Hmmm... Esta fue una buena hoja alguna vez. Pero ahora, sería más fácil convertirla en un cuchillo de mantequilla que en una espada. ¿Por qué quieren repararla?
+TEXT_CLSBSM580_02010_BRITHAEL_000_035	¡Malditos infiernos, <split(<string(gstr1)>, ,1)>! ¿La quieren para el <italic(1)>gran torneo<italic(0)>? ¿Y no estás ganando ni un solo gil con esto? ¡Por los Twelve, en qué te metí!
+TEXT_CLSBSM580_02010_BRITHAEL_000_036	...Aun así, podría valer la pena al final. Los héroes suben a la fama sobre las espaldas de los herreros, pero también pasa al revés: <italic(1)>tú<italic(0)> te harás famos<if(gnum4,a,o)> si algún campeón empuña una de tus hojas.
+TEXT_CLSBSM580_02010_BRITHAEL_000_037	Y esta Laurisse parece estar hecha de buena pasta. Corazón sincero, se preocupa por la gente, decidida a liderar, y todo eso.
+TEXT_CLSBSM580_02010_BRITHAEL_000_038	Claro que le hará falta un poco de temple. Pero si no se separan, alcanzarán nuevas alturas. De hecho, ¡creo que no hay mejor oportunidad para ti en este oficio!
+TEXT_CLSBSM580_02010_BRITHAEL_000_039	En fin, la espada tiene daños que yo no puedo reparar. Pero ¿alguna vez oíste de un tipo llamado Gerolt? ¿Un forjador de armas que vive allá en Hyrstmill? ¡Pues dicen que solo el Builder lo supera a la hora de restaurar armas!
+TEXT_CLSBSM580_02010_BRITHAEL_000_040	Si hay alguien en el reino que pueda arreglar esta espada, es él.
+TEXT_CLSBSM580_02010_BRITHAEL_000_050	Qué lugar más raro para vivir, Hyrstmill. Uno se pregunta por qué lo eligió ese tal Gerolt...
+TEXT_CLSBSM580_02010_BRITHAEL_000_051	En fin, es a él a quien hay que ver por tu Integrity. La espada, no tu <italic(1)>verdadera<italic(0)>...
+TEXT_CLSBSM580_02010_GEROLT_000_80	¿¡Qué!? ¿¡Qué fastidio me viniste a dejar en el yunque!?
+TEXT_CLSBSM580_02010_GEROLT_000_90	¿¡Ese condenado montón de óxido!? A este paso, no voy a tocar nada que no tenga forma de tetera hasta la próxima <italic(1)>luna<italic(0)>, con todos los pedidos que tengo. ¡Drake! ¡Encárgate de esto!
+TEXT_CLSBSM580_02010_DRAKE_000_91	Por favor, <if(gnum4,señora,señor)>, perdone a mi maestro. ¿Hay algo en lo que pueda ayudarla?
+TEXT_CLSBSM580_02010_DRAKE_000_92	Hmmm... Me temo que, aun con mi experiencia, no sé cómo restaurar esto.
+TEXT_CLSBSM580_02010_DRAKE_000_93	Pero existe la posibilidad de que mi maestro sí pueda... si se calma lo suficiente para escuchar, claro. Creo que aún podemos conseguir su ayuda, pero tal vez le cueste a usted un poco de esfuerzo.
+TEXT_CLSBSM580_02010_DRAKE_000_94	Hace poco unos prestamistas se llevaron el titanium lump hammer favorito de mi maestro. Si usted le hiciera uno nuevo igual de bueno, quizá mejore su humor. Por lo menos, puede que deje de lanzarme teteras a medio hacer.
+TEXT_CLSBSM580_02010_DRAKE_000_110	¿Ya hizo un titanium lump hammer de repuesto, <if(gnum4,señora,señor)>?
+TEXT_CLSBSM580_02010_DRAKE_000_120	Vaya, está claro que hizo este martillo pensando en el herrero. Parece perfecto para los trabajos delicados. ¡Con esto mi maestro va a hacer unas teteras muy finas!
+TEXT_CLSBSM580_02010_DRAKE_000_121	Gracias por su esfuerzo. Creo que con esto, Gerolt estará más dispuesto a escuchar su pedido.
+TEXT_CLSBSM580_02010_GEROLT_000_140	Sí, ya supe lo que hiciste por mí. Así que a ver, muéstrame la espada. ¡Ya! ¡No tengo todo el maldito día!
+TEXT_CLSBSM580_02010_GEROLT_000_150	Si no me equivoco, y rara vez me equivoco, esta es una hoja de adamantite. Pura, además... La técnica de fundición que hayan usado los antiguos la dejó más pura de lo que logra la mayoría de los herreros de hoy. ¿Y me preguntas si se puede volver a dejar lista para el combate?
+TEXT_CLSBSM580_02010_GEROLT_000_151	Me temo que no se puede, <if(gnum4,muchacha,muchacho)>. No hay nada que hacer con esa espada, y punto.
+TEXT_CLSBSM580_02010_GEROLT_000_152	Pero no la tires todavía. La empuñadura es especial: un relicario. ...O sea que tiene dentro un hueso de santo o algo así. Yo diría que esta espada es un tesoro <italic(1)>por<italic(0)> eso.
+TEXT_CLSBSM580_02010_GEROLT_000_153	Entonces, ¿qué pasa si forjas un adamantite winglet con la forma y el tamaño exactos del original y guardas en él los restos del santo?
+TEXT_CLSBSM580_02010_GEROLT_100_153	¡Sí, <italic(1)>eso<italic(0)> es lo que tendrás que hacer para rehacer esta Integrity!
+TEXT_CLSBSM580_02010_FREMONDAIN_000_190	¿Encontró la manera de reparar Integrity, <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>?
+TEXT_CLSBSM580_02010_FREMONDAIN_000_200	¿Entonces repararla está fuera de cuestión? Hmmm. Creo que el hueso de la empuñadura es de Santa Finnea. Se rumoreaba que la House Jervaint poseía un relicario así.
+TEXT_CLSBSM580_02010_FREMONDAIN_000_201	Bien, si el alma de la original se puede pasar a una hoja nueva, entonces hay que rehacer la espada. ¡Me atrevo a decir que los antepasados de mi señora no nos reprocharían nada por ello!
+TEXT_CLSBSM580_02010_FREMONDAIN_000_202	Mi señora podrá contar con el espíritu de Santa Finnea en el último combate del torneo. ¡Vamos, <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>, forjemos de nuevo lo que le corresponde por nacimiento!
+TEXT_CLSBSM580_02010_SYSTEM_000_901	deleted
+TEXT_CLSBSM580_02010_DRAKE_000_070	deleted
+TEXT_CLSBSM580_02010_GEROLT_000_100	deleted
+TEXT_CLSBSM580_02010_DRAKE_000_130	deleted
+TEXT_CLSBSM580_02010_GEROLT_000_160	deleted
+TEXT_CLSBSM580_02010_DRAKE_000_170	deleted

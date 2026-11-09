@@ -1,0 +1,50 @@
+key	text
+TEXT_CLSBSM550_02009_SEQ_00	Fremondain tiene el ceño muy fruncido.
+TEXT_CLSBSM550_02009_SEQ_01	La Baronesa Laurisse le envió una nota a Fremondain para avisarle que piensa perfeccionar su habilidad en Dravanian Forelands. Su leal mayordomo está horrorizado, pues por ahí abundan los dragones. Sin embargo, no puede creer que sea tan imprudente como para lanzarse sola contra la Horde, y razona que se detendrá en Tailfeather. Te ruega que la intercepes allí y la disuadas de ese plan arriesgado.
+TEXT_CLSBSM550_02009_SEQ_02	Encuentras a la Baronesa Laurisse junto a un cazador de chocobos herido. Resulta que el hombre fue atacado y la hija de la House Jervaint lo defendió. Sin embargo, tuvo un costo: su amada espada se partió en dos, ya sea por la ferocidad del ataque o por la edad de la hoja. Al llegar y enterarse, Fremondain, desconsolado, te pide que forjes un arma digna del gran torneo: una titanium bastard sword de alta calidad. Entrégaselo en el Jeweled Crozier cuando esté listo.
+TEXT_CLSBSM550_02009_SEQ_03	Le entregas la titanium bastard sword a un Fremondain muy agradecido, justo a tiempo para la ronda clasificatoria del torneo. Sabiendo que querrás conocer el resultado, el mayordomo te pide que esperes frente a los Lightfeather Proving Grounds.
+TEXT_CLSBSM550_02009_SEQ_04	La Baronesa Laurisse aparece poco después que tú, lo que hace que Fremondain tema lo peor. Sin embargo, su pronta salida se debe a una victoria asombrosa. Con dos combates ganados, un empate y cinco rivales que se retiraron, pasa a la siguiente ronda del torneo. La Baronesa revela que no busca el título de caballero para sí misma. Su padre creía que la nobleza debía guiar al pueblo con actos, no con palabras, una convicción que le costó su puesto. Ahora, la hija de la House Jervaint quiere unirse a los Temple Knights para servir a la gente de Ishgard.<br><br>※La siguiente misión de blacksmith estará disponible con Fremondain al llegar al nivel 58.
+TEXT_CLSBSM550_02009_TODO_00	Habla con Laurisse en Tailfeather.
+TEXT_CLSBSM550_02009_TODO_01	<if([lnum1<lnum2],Forja una titanium bastard sword <sheet(Addon,9,0)>,Entrégale la titanium bastard sword <sheet(Addon,9,0)> a Fremondain en Ishgard)>.
+TEXT_CLSBSM550_02009_TODO_02	Espera frente a los Lightfeather Proving Grounds.
+TEXT_CLSBSM550_02009_FREMONDAIN_000_000	¿Hm? Ah, discúlpeme, <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>. Recibí una misiva de mi señora y estaba empezando a leerla.
+TEXT_CLSBSM550_02009_FREMONDAIN_000_001	"Debo poner a prueba mi habilidad... No te preocupes... Me fui a... ¿¡<italic(1)>Dravanian Forelands<italic(0)>!?"
+TEXT_CLSBSM550_02009_FREMONDAIN_000_002	¡Halone no lo permita! ¡Directo a la Horde!
+TEXT_CLSBSM550_02009_FREMONDAIN_000_003	No, seguro que ni <italic(1)>ella<italic(0)> sería tan imprudente justo antes de que empiece la ronda clasificatoria. Por lo menos, se detendrá a descansar en Tailfeather.
+TEXT_CLSBSM550_02009_FREMONDAIN_000_004	Por favor, <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>: ¡encuéntrela! Deténgala si puede, y demórela si no. Yo la seguiré en cuanto termine aquí.
+TEXT_CLSBSM550_02009_FREMONDAIN_000_010	Yo... no alcanzo a entender por qué la Baronesa elegiría <italic(1)>justo ahora<italic(0)> para ponerse a prueba contra los dragones...
+TEXT_CLSBSM550_02009_FREMONDAIN_000_011	¡Por favor, <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>, asegúrese de que no se acerque a la Dravanian Horde más allá de Tailfeather!
+TEXT_CLSBSM550_02009_WOUNDEDHUNTER02009_000_020	Estoy bien... Es solo un rasguño...
+TEXT_CLSBSM550_02009_LAURISSE_000_030	...¡Por Halone! ¿Ese hombre te mandó tras de mí <italic(1)>otra vez<italic(0)>?
+TEXT_CLSBSM550_02009_WOUNDEDHUNTER02009_000_031	Ay... Así que eres de los suyos, ¿eh? No te preocupes, <if(gnum4,señorita,señor)>: ¡tu señora pelea como un behemoth diez veces más grande! Me salvó de un chocobo salvaje. Pero qué... ¿quién nos está gritando?
+TEXT_CLSBSM550_02009_FREMONDAIN_000_032	(-Fremondain-)¡Baronesa! ¡Baronesa Laurisse!
+TEXT_CLSBSM550_02009_FREMONDAIN_000_033	\<jadeo> ¡Mi señora! Mi señora, ¿está... está herida? \<jadeo> Dígame dónde... y yo...
+TEXT_CLSBSM550_02009_LAURISSE_000_034	¡Fremondain! ¿Viniste corriendo hasta aquí? ¡Vamos, hombre, recupera el aliento! Estoy perfectamente bien.
+TEXT_CLSBSM550_02009_WOUNDEDHUNTER02009_000_035	Eh... <italic(1)>usted<italic(0)> estará bien, mi señora, pero ¿y su espada? Con el perdón de usted, ¿no se le partió en el chocobo?
+TEXT_CLSBSM550_02009_FREMONDAIN_000_036	¿¡N-No será la brass viking sword!? ¡Es la favorita de mi señora!
+TEXT_CLSBSM550_02009_WOUNDEDHUNTER02009_000_037	¿Esa porquería? Eh... Perdón, mi señora. No es el tipo de acero que suele usar la gente de alcurnia. En fin, tengo otra hoja por ahí. Se la doy en agradecimiento por salvarme, si quiere.
+TEXT_CLSBSM550_02009_LAURISSE_000_039	Sí, gracias. Hasta una daga servirá.
+TEXT_CLSBSM550_02009_FREMONDAIN_000_040	M-Mi señora, no... no es propio de usted pedir prestado.
+TEXT_CLSBSM550_02009_LAURISSE_000_041	El camino a Ishgard es peligroso sin acero. Y yo... no puedo arriesgarme a que le pase algo a mi leal mayordomo.
+TEXT_CLSBSM550_02009_FREMONDAIN_000_042	¡G-Gracias, Baronesa Laurisse!
+TEXT_CLSBSM550_02009_LAURISSE_000_043	Perdona que también te haya causado molestias, <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>. No le corresponde a una futura Temple Knight actuar con tanta imprudencia. ¿Vamos, Fremondain?
+TEXT_CLSBSM550_02009_FREMONDAIN_000_044	Ay... <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>, la Baronesa debe entrar al torneo con un arma digna de la House Jervaint, <italic(1)>no<italic(0)> con una daga prestada.
+TEXT_CLSBSM550_02009_FREMONDAIN_000_045	Las titanium bastard swords están en boca de todos últimamente: ligeros y afilados. ¿Puedo contar con usted para forjar uno? Su pago será... eh, ¡la sonrisa de mi señora cuando gane el torneo!
+TEXT_CLSBSM550_02009_FREMONDAIN_100_045	¡Nos vemos en Ishgard! ¡E-Espéreme, mi señora!
+TEXT_CLSBSM550_02009_FREMONDAIN_000_060	Gracias por todo en Tailfeather. También me preguntaba si usted, eh... avanzó algo con la espada que le pedí.
+TEXT_CLSBSM550_02009_FREMONDAIN_000_070	Por el aliento de Halone... Ligera como una pluma, afilada como un colmillo de wyrm: ¡hasta yo veo que esta hoja es una obra maestra! Gracias, <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>. ¡Mi señora se pondrá feliz al saber que la hizo para ella!
+TEXT_CLSBSM550_02009_FREMONDAIN_000_071	La ronda clasificatoria empezará pronto, y me atrevo a decir que con esta espada en la mano será casi invencible. Se la llevaré en cuanto pueda.
+TEXT_CLSBSM550_02009_FREMONDAIN_000_072	Me temo que no podemos ver a la Baronesa Laurisse, pues solo la nobleza puede asistir al gran torneo, pero sí podemos escuchar desde afuera de los Lightfeather Proving Grounds. Estaré allí en breve, si desea esperar.
+TEXT_CLSBSM550_02009_FREMONDAIN_000_080	Debe apresurarse a llegar a los Lightfeather Proving Grounds si quiere escuchar los combates de la Baronesa Laurisse.
+TEXT_CLSBSM550_02009_FREMONDAIN_000_100	¡A mi señora le encantó su creación, <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>! ¡Me atrevo a decir que está demostrando su temple con ella en este mismo momento!
+TEXT_CLSBSM550_02009_FREMONDAIN_000_101	¡B-Baronesa! Que haya salido de la arena en tan poco tiempo... ¿P<-->Pasó algo malo...?
+TEXT_CLSBSM550_02009_LAURISSE_000_102	¡Ja, ja, Fremondain, siempre tan preocupado! ¡Gané esta ronda! ¡Y todo gracias a tu espada, <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>! ¡El equilibrio de la hoja es perfecto! ¡Vaya, podría haberla empuñado todo el día y encima matar a un wyrm!
+TEXT_CLSBSM550_02009_FREMONDAIN_000_103	¡Un espléndido comienzo del torneo, mi señora! Por favor, cuéntenos: ¿en cuántos combates participó?
+TEXT_CLSBSM550_02009_LAURISSE_000_104	Tres. Gané dos y el tercero fue empate. Pero me declararon ganadora en otros cinco, porque mis rivales se retiraron.
+TEXT_CLSBSM550_02009_FREMONDAIN_000_105	¿Cinco, mi señora? ¡Sin duda la misma Halone le sonríe! ¿No decía su señor padre que la buena suerte es aliada del éxito?
+TEXT_CLSBSM550_02009_LAURISSE_000_106	Y que la mala suerte no absuelve el fracaso. A los líderes, me decía, solo se les pide la victoria. Un comandante puede disculparse por su derrota, pero ¿de qué les sirven las disculpas a sus soldados caídos?
+TEXT_CLSBSM550_02009_LAURISSE_000_107	Vivió según ese ideal. Les dio la comida de la orden a los hambrientos, y lo juzgaron por robo, lo condenaron y le quitaron el título de caballero. Pero nunca se retractó. ¡Ni <italic(1)>una sola vez<italic(0)>!
+TEXT_CLSBSM550_02009_FREMONDAIN_000_108	Mi señora, ¿es... es por eso que trabaja para restaurar la House Jervaint? ¿Para limpiar el nombre de su padre?
+TEXT_CLSBSM550_02009_LAURISSE_000_109	No, Fremondain. Lo hago por Ishgard. La sangre noble concede privilegios, pero solo para salvar a los que no los tienen: otro de los dichos favoritos de mi padre.
+TEXT_CLSBSM550_02009_LAURISSE_000_110	Por eso entré a este torneo, y por eso quiero ser caballero. Y lo seré. Por mi padre, por nuestro pueblo y por todos los que me ayudaron en el camino.
+TEXT_CLSBSM550_02009_SYSTEM_000_901	deleted

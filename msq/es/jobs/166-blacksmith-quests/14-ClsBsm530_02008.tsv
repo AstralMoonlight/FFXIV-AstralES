@@ -1,0 +1,39 @@
+key	text
+TEXT_CLSBSM530_02008_SEQ_00	Fremondain está preocupado por la Baronesa Laurisse.
+TEXT_CLSBSM530_02008_SEQ_01	Fremondain te cuenta que la armería de la House Jervaint está en mal estado y solicitó tus servicios para restaurar las galas de la familia. Lo más urgente es la coraza de la Baronesa Laurisse, oxidada, abollada y a punto de deshacerse. Sin embargo, Fremondain cae en la cuenta de que su señora podría llevarla puesta en este mismo momento en alguna aventura mal pensada al norte de Falcon's Nest. Puede que se preocupe por nada, pero aun así te pide que te asegures de que no le pase nada.
+TEXT_CLSBSM530_02008_SEQ_02	Encuentras sana a la Baronesa. No se puede decir lo mismo de los carteristas atados cerca. Tras una breve charla, te enteras de que la hija de la House Jervaint patrullaba la zona en busca de los fugitivos para ganar algo de dinero. Sin embargo, durante la pelea, se rompieron los remaches que sujetaban su coraza, dejando inservible la armadura. Avísale a Fremondain, en el Jeweled Crozier, que su señora está a salvo... y que su coraza no.
+TEXT_CLSBSM530_02008_SEQ_03	A Fremondain lo consterna enterarse de lo de la coraza de la Baronesa Laurisse. Es la única armadura de su señora: ¿cómo va a participar en el gran torneo sin ella? Te pide que la repares fabricando tres mythrite rivets de alta calidad para volver a unir las placas, que por lo demás están en buen estado.
+TEXT_CLSBSM530_02008_SEQ_04	Fremondain acepta con gusto los mythrite rivets y elogia tu trabajo. Por desgracia, sus cumplidos tendrán que servir de pago hasta que cambie la suerte de la House Jervaint, como muy bien podría ocurrir en el gran torneo.<br><br>※La siguiente misión de blacksmith estará disponible con Fremondain al llegar al nivel 55.
+TEXT_CLSBSM530_02008_TODO_00	Habla con Laurisse al norte de Falcon's Nest.
+TEXT_CLSBSM530_02008_TODO_01	Informa a Fremondain en Ishgard.
+TEXT_CLSBSM530_02008_TODO_02	<if([lnum1<lnum2],Forja mythrite rivets <sheet(Addon,9,0)>,Entrégale los mythrite rivets <sheet(Addon,9,0)> a Fremondain)>.
+TEXT_CLSBSM530_02008_FREMONDAIN_000_000	Muy buenas <if([gnum11<12],<if([gnum11<4],noches,días)>,<if([gnum11<17],tardes,noches)>)> tenga usted, <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>. ¿Confío en que haya descansado? Bien, bien. Vamos al asunto: la armería de mi señora está en un estado lamentable.
+TEXT_CLSBSM530_02008_FREMONDAIN_000_001	Fíjese en su coraza: las placas son resistentes, pero las uniones están oxidadas. La culpa es nuestra por no cuidarla mejor, pero si se deshace mientras mi señora está peleando...
+TEXT_CLSBSM530_02008_FREMONDAIN_000_002	¡Y a ella no le importa! De hecho, ahora sale a entrenar con más frecuencia, porque se acerca el gran torneo.
+TEXT_CLSBSM530_02008_FREMONDAIN_000_003	El otro día, creía que estaba descansando, y encontré una nota que decía que se había ido a cazar bestias cerca de Falcon's Nest. ¡Sola! ¡Hasta dijo que volvería a hacerlo, más al norte!
+TEXT_CLSBSM530_02008_FREMONDAIN_000_004	Santos dioses, ¿y si se fue hoy? ¡Podría estar en grave peligro! Y justo ahora... ¡no puedo dejar la tienda para ir a buscarla!
+TEXT_CLSBSM530_02008_FREMONDAIN_000_005	<if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>, usted es aventurer<if(gnum4,a,o)>, ¿verdad? Entonces, por favor: ¡encuéntrela! ¡Encuéntrela ya!
+TEXT_CLSBSM530_02008_FREMONDAIN_000_010	Tal vez me preocupe de más, pero... ¿podría buscar a la Baronesa de todos modos? Puede que haya ido al norte de Falcon's Nest.
+TEXT_CLSBSM530_02008_LAURISSE_000_020	Quién... ¿Ah, <if(gnum4,la herrera,el herrero)>? ¿Qué haces aquí? Ah. Claro, el mayordomo <italic(1)>tenía<italic(0)> que mandar a alguien.
+TEXT_CLSBSM530_02008_LAURISSE_000_021	No tiene por qué preocuparse tanto. A la House Durendaire le faltaban espadas. Me ofrecí de buena gana: esta patrulla me da dinero y experiencia a la vez.
+TEXT_CLSBSM530_02008_LAURISSE_000_022	Y no fue en vano: ¡mira, tres carteristas fugados! Acabo de terminar de atarlos.
+TEXT_CLSBSM530_02008_LAURISSE_000_030	...¿Por qué me miras tanto, <if(gnum4,herrera,herrero)>?
+TEXT_CLSBSM530_02008_Q1_100_030	¿Hay algo raro en el aspecto de Laurisse?
+TEXT_CLSBSM530_02008_A1_101_030	¿Qué le pasó a tu armadura?
+TEXT_CLSBSM530_02008_A1_102_030	Eh, no. Nada de nada.
+TEXT_CLSBSM530_02008_LAURISSE_101_031	A <italic(1)>ti<italic(0)> no se te escapa nada, ¿eh? No se pudo evitar... Los remaches que sujetaban las placas de mi armadura se rompieron en la refriega.
+TEXT_CLSBSM530_02008_LAURISSE_102_031	No hace falta que te muerdas la lengua. Sé que estoy sin armadura: los remaches se rompieron en la pelea.
+TEXT_CLSBSM530_02008_LAURISSE_000_032	No es propio que entre al torneo sin mi coraza. Pero la paga de esta patrulla no alcanza para las reparaciones. Y no puedo pedirte que forjes remaches gratis.
+TEXT_CLSBSM530_02008_LAURISSE_000_033	No importa. Una voluntad de hierro triunfa sobre todo, como decía mi padre, que Halone lo tenga en su gloria.
+TEXT_CLSBSM530_02008_LAURISSE_000_034	Puedes decirle a Fremondain que estoy perfectamente bien. ¡Ahora, bandidos, arriba!
+TEXT_CLSBSM530_02008_FREMONDAIN_000_050	<if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>, ¿la encontró? ¿¡Mi señora está bien!?
+TEXT_CLSBSM530_02008_FREMONDAIN_000_051	¡No! ¡Su coraza se... se...! ¡Halone no lo permita, si es su única armadura!
+TEXT_CLSBSM530_02008_FREMONDAIN_000_052	\<suspiro> "Una voluntad de hierro triunfa sobre todo..." Sí, Ser Jervaint estaba lleno de esos dichos.
+TEXT_CLSBSM530_02008_FREMONDAIN_000_053	Pero lo que dijo en realidad fue: "Una voluntad de hierro triunfa sobre todo... cuando la defiende una armadura de acero". Sin duda, mi señora omitió la última parte para parecer fuerte ante usted.
+TEXT_CLSBSM530_02008_FREMONDAIN_000_054	La verdad es que no puede participar en el torneo sin su coraza. Mi señora necesitará tres bolsas de remaches nuevos. De mythrite, creo que sería lo mejor: livianos y difíciles de romper. Y de la mayor calidad, si es tan amable.
+TEXT_CLSBSM530_02008_FREMONDAIN_000_055	...Me temo que todavía no puedo ofrecerle nada de valor tangible. Pero por favor, alguien de su reputación no nos negaría su ayuda <italic(1)>ahora<italic(0)>, ¿verdad? ¡La House Jervaint recuerda a sus aliados, se lo prometo!
+TEXT_CLSBSM530_02008_FREMONDAIN_000_070	¿Tuvo alguna dificultad para fabricar los mythrite rivets, <if(gnum4,Maestra,Maestro)> <split(<string(gstr1)>, ,2)>?
+TEXT_CLSBSM530_02008_FREMONDAIN_000_080	¡Vaya, qué trabajo tan espléndido, absolutamente espléndido! Con esto puedo dejar la coraza de mi señora como nueva. ¡Gracias!
+TEXT_CLSBSM530_02008_FREMONDAIN_000_081	...Y gracias por mantener en secreto el asunto de su... eh, retribución, o la falta de ella.
+TEXT_CLSBSM530_02008_FREMONDAIN_000_082	No es que pretenda engañar a mi señora, por supuesto. Pero temo que pierda la concentración si se entera de nuestro acuerdo. Tiene que pensar en el torneo, y haré todo lo posible para que nada la distraiga.
+TEXT_CLSBSM530_02008_SYSTEM_000_901	deleted
