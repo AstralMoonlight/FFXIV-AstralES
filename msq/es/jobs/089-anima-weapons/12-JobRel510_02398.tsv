@@ -1,0 +1,56 @@
+key	text
+TEXT_JOBREL510_02398_SEQ_00	El autómata inactivo espera en silencio a que le den un propósito.
+TEXT_JOBREL510_02398_SEQ_01	Ardashir está listo para presentarle a Rowena los resultados de su investigación. Pero quizá por el extraño clima de Azys Lla, no logra comunicarse con ella por linkpearl. Te pide que viajes a Idyllshire y le pidas que venga a Azys Lla mientras él hace los últimos preparativos para presentar el anima.
+TEXT_JOBREL510_02398_SEQ_02	A Rowena le alegra saber que el trabajo en la anima weapon por fin está terminado. Por desgracia, tiene asuntos pendientes que la retienen en Idyllshire. Te pide que vuelvas a Azys Lla antes que ella.
+TEXT_JOBREL510_02398_SEQ_03	Todavía falta para que llegue Rowena, y Ardashir aprovecha la ocasión para hacerte un regalo. Usas el extraño dispositivo que te da para invocar al anima, y te asombra ver que tomó una nueva forma física. Ardashir explica que eso es posible gracias a la soulstone original del anima. Rowena llega poco después para contemplar los frutos de tu esfuerzo. Está contenta con lo que logró Ardashir y quiere ver más. Cuando él menciona su plan de buscar un nuevo herrero que lo ayude, todas las miradas se posan en Gerolt, que deja claro que piensa irse ahora que ya no tiene deudas. Pero su libertad dura poco, porque Rowena le recuerda las enormes sumas de gil que gastó desde que empezaron a trabajar en el anima. Otra vez bajo el dominio de Rowena, le ruega a Ardashir que acepte su ayuda. Mientras tanto, el anima sugiere que se vayan en busca de nuevas aventuras.
+TEXT_JOBREL510_02398_TODO_00	Habla con Rowena en Idyllshire.
+TEXT_JOBREL510_02398_TODO_01	Con <if([lnum4==19],<ennoun(Item,2,15251,1,1)> y <ennoun(Item,2,15264,1,1)>,<if([lnum4==20],<ennoun(Item,2,15252,1,1)>,<if([lnum4==21],<ennoun(Item,2,15253,1,1)>,<if([lnum4==22],<ennoun(Item,2,15254,1,1)>,<if([lnum4==23],<ennoun(Item,2,15255,1,1)>,<if([lnum4==24],<ennoun(Item,2,15259,1,1)>,<if([lnum4==25],<ennoun(Item,2,15260,1,1)>,<if([lnum4==27],<ennoun(Item,2,15261,1,1)>,<if([lnum4==28],<ennoun(Item,2,15262,1,1)>,<if([lnum4==30],<ennoun(Item,2,15256,1,1)>,<if([lnum4==31],<ennoun(Item,2,15258,1,1)>,<if([lnum4==32],<ennoun(Item,2,15257,1,1)>,<if([lnum4==33],<ennoun(Item,2,15263,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> equipado o en tu inventario, habla con Ardashir en Azys Lla.
+TEXT_JOBREL510_02398_SYSTEM_000_001	Para hacer la misión "Body and Soul" debes tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en el Armoury Chest o en tu inventario.
+TEXT_JOBREL510_02398_SYSTEM_000_002	Para hacer la misión "Body and Soul" debes tener <ennoun(Item,2,lnum1,1,1)> equipado, en el Armoury Chest o en tu inventario.
+TEXT_JOBREL510_02398_ARDASHIR_100_001	Qué bueno que vino, <split(<string(gstr1)>, ,1)>. ¿Descansó bien?
+TEXT_JOBREL510_02398_ARDASHIR_200_001	Curiosidad, ¿eh? Me temo que tendrá que esperar un poco más. Está casi listo, salvo por unos últimos ajustes.
+TEXT_JOBREL510_02398_ARDASHIR_000_001	Mientras termino con esto, quisiera pedirle un favor.
+TEXT_JOBREL510_02398_ARDASHIR_100_002	Como recordará, quería hablarle de algo. Ahora que nuestro trabajo con el anima está terminado, me gustaría que la señora Rowena viniera a ver los frutos de nuestro esfuerzo. Pero por más que lo intento, no hay más que estática cuando la llamo por linkpearl.
+TEXT_JOBREL510_02398_ARDASHIR_000_002	¿Podría ir a pedirle que venga aquí a Azys Lla?
+TEXT_JOBREL510_02398_ARDASHIR_000_003	Para cuando vuelva ya debería haber terminado. Seguro que le va a encantar lo que tengo para mostrarle, y a usted también.
+TEXT_JOBREL510_02398_SYSTEM_000_010	No hay respuesta. Deberías esperar a que Ardashir termine su trabajo.
+TEXT_JOBREL510_02398_ROWENA_000_010	Vaya, pero si es mi cliente y soci<if(gnum4,a,o)> favorit<if(gnum4,a,o)>. ¿Alguna novedad con la anima weapon?
+TEXT_JOBREL510_02398_ROWENA_000_011	¿Terminada, dices? Es la mejor noticia que me dieron en todo el día. Ojalá pudiera ir ahora mismo a verla, pero dejar esperando a los clientes es malo para el negocio. Dile a Ardashir que iré a visitarlo en cuanto termine aquí.
+TEXT_JOBREL510_02398_ARDASHIR_100_020	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. ...Eh, si me permite la pregunta, ¿por qué no trajo la anima weapon? Sin ella no se puede presentar el anima a la señora Rowena.
+TEXT_JOBREL510_02398_ARDASHIR_100_021	Por favor, vaya a buscar la anima weapon y el escudo ahora mismo. Rápido, antes de que llegue.
+TEXT_JOBREL510_02398_ARDASHIR_200_020	Por favor, vaya a buscar la anima weapon ahora mismo. Rápido, antes de que llegue.
+TEXT_JOBREL510_02398_SYSTEM_000_020	Para avanzar en la misión "Body and Soul" debes tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en el Armoury Chest o en tu inventario.
+TEXT_JOBREL510_02398_SYSTEM_000_021	Para avanzar en la misión "Body and Soul" debes tener <ennoun(Item,2,lnum1,1,1)> equipado, en el Armoury Chest o en tu inventario.
+TEXT_JOBREL510_02398_SYSTEM_000_022	Si desechaste tu anima weapon, tendrás que abandonar la misión "Body and Soul" y crear una nueva.
+TEXT_JOBREL510_02398_SYSTEM_000_023	Si desechaste tu anima weapon y tu escudo, tendrás que abandonar la misión "Body and Soul" y crear unos nuevos.
+TEXT_JOBREL510_02398_ARDASHIR_000_020	Mientras esperamos a que llegue la señora Rowena, hay algo que quiero darle.
+TEXT_JOBREL510_02398_ARDASHIR_000_021	Es un dispositivo para usar al invocar el anima. ¿Quiere probarlo?
+TEXT_JOBREL510_02398_BUKINOSEIREI_000_022	¿Me llamó, <split(<string(gstr1)>, ,1)>? ...¡Ay, vaya! Mi cuerpo está... ¿¡Q-qué pasó!?
+TEXT_JOBREL510_02398_BUKINOSEIREI_000_023	¿Necesitabas algo, <split(<string(gstr1)>, ,1)>? ...¿¡Eh!? ¿Q-qué le pasó a mi cuerpo?
+TEXT_JOBREL510_02398_ARDASHIR_000_024	A pesar de todo lo que logramos aquí, había algo que todavía me preocupaba: que tu espíritu está ligado a la anima weapon, y por eso solo se te puede invocar en su presencia. ¿Qué pasará, entonces, si <if(gnum4,ella,él)> necesita tu ayuda pero no tiene el arma que aloja tu espíritu?
+TEXT_JOBREL510_02398_ARDASHIR_000_025	Por eso creé ese cuerpo nuevo. Está unido a ti a través de tu soulstone original, que todavía lleva tu firma aetérica. Mientras <split(<string(gstr1)>, ,1)> lleve ese dispositivo consigo, tu espíritu se podrá canalizar a esta nueva forma física.
+TEXT_JOBREL510_02398_ARDASHIR_000_026	Considéralo mi regalo para ti, para que nadie pueda romper el vínculo que compartes con <split(<string(gstr1)>, ,1)>.
+TEXT_JOBREL510_02398_BUKINOSEIREI_000_027	Gracias, Ardashir. Nunca me apartaré de su lado. Tienes mi palabra.
+TEXT_JOBREL510_02398_BUKINOSEIREI_000_028	Gracias, Ardashir. Nunca me apartaré de su lado. Tienes mi palabra.
+TEXT_JOBREL510_02398_ROWENA_000_029	¿Qué es esto, eh? ¿Celebrando sin mí?
+TEXT_JOBREL510_02398_ROWENA_000_030	<split(<string(gstr1)>, ,1)> me contó todo. Supongo que esta es el anima de la que tanto oí hablar.
+TEXT_JOBREL510_02398_BUKINOSEIREI_000_031	Es un placer conocerla.
+TEXT_JOBREL510_02398_BUKINOSEIREI_000_032	Mucho gusto en conocerte.
+TEXT_JOBREL510_02398_ARDASHIR_000_033	Magnífica, ¿no? Una vida creada con nuestras propias manos, forjada en un arma: la anima weapon. La compañía perfecta para aventureros como <split(<string(gstr1)>, ,1)>.
+TEXT_JOBREL510_02398_ROWENA_000_034	Me impresionaste, Ardashir. Bien criadas, estas animas van a ser ayudantes obedientes.
+TEXT_JOBREL510_02398_ROWENA_000_035	(...Y para mí, una buena ganancia).
+TEXT_JOBREL510_02398_ROWENA_000_036	Veo que mi gil estuvo bien invertido, y tengo ganas de ver más de tu trabajo. Ahora que superaste el obstáculo de hacer la primera, seguro que un muchacho listo como tú puede tener anima weapons para todo el mundo en un abrir y cerrar de ojos.
+TEXT_JOBREL510_02398_ARDASHIR_000_037	Así es, aprendí muchísimas lecciones durante mi tiempo aquí, gracias en gran parte a <split(<string(gstr1)>, ,1)>, y hasta a Gerolt. Me atrevo a decir que no pasará mucho tiempo antes de que todo el mundo conozca la maravilla del anima.
+TEXT_JOBREL510_02398_ARDASHIR_000_038	Pero primero pienso volver a casa. Si el destino lo permite, encontraré un herrero capaz que me ayude a fabricar más anima weapons.
+TEXT_JOBREL510_02398_GEROLT_000_039	Ya oíste al chico. Si quiere volver a casa, déjalo. Tengo cosas mejores que hacer que cuidar a ese meón mientras hace más juguetes. Con mis deudas pagadas, me voy a Costa del Sol a tomarme un merecido...
+TEXT_JOBREL510_02398_ROWENA_000_040	¿Pagadas? Nunca te tomé por de los que bromean con el dinero. Me debes un montón.
+TEXT_JOBREL510_02398_GEROLT_000_041	Un momento, Rowena. Prometiste olvidarte de mis deudas cuando termináramos con la anima weapon.
+TEXT_JOBREL510_02398_ROWENA_000_042	Y soy una mujer de palabra. Lo que me debías <italic(1)>antes<italic(0)> de que empezara este negocito ya está perdonado. Solo queda el costo de ir y venir de Azys Lla, y una cuenta bastante impresionante por todo el hidromiel que te tomaste.
+TEXT_JOBREL510_02398_ROWENA_000_043	Espero que me lo pagues hasta el último gil. Claro que podría estar dispuesta a perdonar y olvidar otra vez si ayudas a nuestro querido Ardashir.
+TEXT_JOBREL510_02398_ROWENA_000_044	En fin, ya debería volver. Tengo negocios que atender. Hasta la próxima, <split(<string(gstr1)>, ,1)>, Ardashir.
+TEXT_JOBREL510_02398_GEROLT_000_045	Oye, Ardashir... ¿Qué tal si enciendo la forja para otra de esas anima weapons?
+TEXT_JOBREL510_02398_ARDASHIR_000_046	Te agradezco la oferta, pero no, gracias. Como dije, lo que busco es un herrero comprometido con hacer armas, no uno que se pase los días detrás de la bebida.
+TEXT_JOBREL510_02398_GEROLT_000_047	Bueno, entonces nada de beber hasta que terminemos. Qué bueno que lo dejamos claro.
+TEXT_JOBREL510_02398_ARDASHIR_000_048	¡No dejamos nada claro! Aunque aceptara, nunca cumplirías con tu parte del trato. ¡Ahora mismo te huele el aliento a licor!
+TEXT_JOBREL510_02398_BUKINOSEIREI_000_049	Quizá deberíamos dejar que lo resuelvan entre ellos. Seguro que hay otros que necesitan nuestra ayuda.
+TEXT_JOBREL510_02398_BUKINOSEIREI_000_050	Creo que mejor no nos metemos. A lo mejor encontramos a otros que necesiten nuestra ayuda.

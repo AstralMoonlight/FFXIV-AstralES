@@ -1,0 +1,54 @@
+key	text
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q1_000_000	¿Qué quieres hacer?
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_010	Conseguir un sphere scroll.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_020	Quitar infusiones de un sphere scroll.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_030	Preguntar por los sphere scrolls.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_040	Preguntar por la alexandrite.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_050	Nada.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_000	Con la superior enchanted ink que me traiga, prepararé un sphere scroll con patrones de arcanima para potenciar su reliquia.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q2_000_000	Elige el sphere scroll que quieres crear.<br>※Cada uno requiere tres botellas de tinta, salvo<br>Curtana (2) y el Holy Shield (1).
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A2_000_010	<head(<ennoun(Item,3,lnum1,1,1)>)>
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A2_000_110	Cancelar
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_020	Para crear <ennoun(Item,1,lnum1,1,1)> hacen falta <if([lnum2==1],una botella,<if(lnum2,<if([lnum2<=10],<switch(lnum2,una,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)> botellas)> de superior enchanted ink.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q3_000_000	¿Cambiar <if([lnum2==1],una botella,<if(lnum2,<if([lnum2<=10],<switch(lnum2,una,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)> botellas)> de superior enchanted ink por <ennoun(Item,1,lnum1,1,1)>?
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A3_000_010	Sí
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A3_000_020	No
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_040	A fuerza de práctica, en un abrir y cerrar de ojos... ¡su sphere scroll está listo! Puede infundirle la materia que prefiera. Siempre que sea compatible, claro...
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_050	Obtuviste un sphere scroll. Para infundirle materia, búscalo en tu inventario y elige <colortype(500)><edgecolortype(501)>Infuse<edgecolortype(0)><colortype(0)> entre los subcomandos.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_051	Cuando hayas infundido por completo un sphere scroll con materia, puedes llevárselo a <colortype(500)><edgecolortype(501)>Jalzahn<edgecolortype(0)><colortype(0)> para que potencie el arma reliquia correspondiente.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_080	Ay, parece que no tiene suficientes botellas de tinta. Hablemos otra vez cuando haya conseguido la cantidad necesaria.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_090	Para crear el sphere scroll de cada reliquia hacen falta tres botellas de superior enchanted ink, salvo para Curtana (2) y el Holy Shield (1).
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_100	...¿Hm? Parece que no tiene esa reliquia a mano. Sin una referencia visual, me temo que no puedo trazar los patrones de arcanima adecuados.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_110	Para conseguir un sphere scroll, debes tener el arma reliquia animus correspondiente.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_111	También sirven las armas reliquia mejoradas más allá de animus.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_120	...¿Hm? Parece que ya tiene ese sphere scroll. ¿No querrá desperdiciar buena tinta, verdad?
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_125	Ay, parece que tiene las manos llenas. Hablemos otra vez cuando haya ordenado sus pertenencias.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_130	¿Quiere quitar parte de las infusiones de su sphere scroll? Muy bien.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q4_000_000	Elige un sphere scroll para quitarle infusiones.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A4_000_110	Cancelar
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q5_000_000	Elige el atributo al que quieres quitarle una infusión.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A5_000_010	<sheet(BaseParam,lnum1,1)> (infusiones: <num(lnum2)>)
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A5_000_040	Cancelar
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q6SYSETM_000_000	¿Quitar una infusión de este atributo?<br><sheet(BaseParam,lnum1,1)> (infusiones: <num(lnum2)>)
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A6_000_030	Sí
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A6_000_040	No
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_400	...Está hecho. Que encuentre el equilibrio de poder ideal que busca.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSETM_000_300	Se quitó una infusión de <sheet(BaseParam,lnum1,1)>.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_500	...¿Hm? Parece que no tiene ese sphere scroll.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_520	...¿Hm? Parece que este sphere scroll todavía no recibió ninguna infusión.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_600	Un sphere scroll es un medio para almacenar la energía luminosa que se obtiene de la materia. Lleva patrones de poder de arcanima, en los que se infunde esa energía para transferirla toda junta al recipiente que uno elija.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_601	Para este proceso de infusión es fundamental un catalizador llamado alexandrite, una variedad rara de materia oscura. Con este método busco esquivar las limitaciones de la inserción avanzada de materia, en el que un objeto solo puede alojar sin riesgo una cantidad limitada de piedras.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_602	Si me trae botellas de superior enchanted ink, con gusto le prepararé un sphere scroll con patrones de arcanima para potenciar su reliquia.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_610	Puedes conseguir sphere scrolls de Hubairtin a cambio de botellas de superior enchanted ink.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_611	Cada reliquia tiene su propio sphere scroll.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_100_611	Para crear cada uno hacen falta tres botellas de tinta, salvo para Curtana (2) y el Holy Shield (1).
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_612	A cada sphere scroll se le pueden infundir hasta cinco tipos de materia. Pero ten en cuenta que hay ciertas restricciones de cantidad y de variedad.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_100_612	Además, por la naturaleza inestable de la energía luminosa de la materia, a veces los intentos de infusión fallan.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_613	Cuando hayas infundido por completo un sphere scroll con materia, llévaselo a <colortype(500)><edgecolortype(501)>Jalzahn<edgecolortype(0)><colortype(0)> en Hyrstmill, North Shroud, para que potencie el arma reliquia correspondiente.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_700	La alexandrite es el catalizador que permite convertir el poder de la materia en luz e infundirlo en un sphere scroll.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_701	Como es una variedad de materia oscura, la piedra tiene propiedades que alteran la luz. Si se la pone bajo una fuente de luz, estalla en un despliegue deslumbrante de colores.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_702	Por su belleza singular, las civilizaciones antiguas valoraban muchísimo la alexandrite, así que casi todos los yacimientos naturales se agotaron.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_703	Pero se sabe que la piedra aparece entre tesoros escondidos; solo hay que saber dónde buscar. Quizá nos convenga consultar a los comerciantes de objetos de épocas pasadas.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_710	Además, cada infusión requiere un catalizador llamado alexandrite. La alexandrite sale de cofres del tesoro cuya ubicación está marcada en <colortype(500)><edgecolortype(501)>mysterious maps<edgecolortype(0)><colortype(0)>.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_711	Los mysterious maps se le pueden pedir a Auriana en Revenant's Toll a cambio de Allagan tomestones. También recibirás un mapa al completar cierta misión.
+TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_100_711	También se puede obtener alexandrite, aunque con poca probabilidad, participando en FATEs con tu arma reliquia (animus o superior) equipada.

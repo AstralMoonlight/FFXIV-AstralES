@@ -1,0 +1,46 @@
+key	text
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_000	¿Ya se agita la conciencia en tu Zodiac Weapon? ¡Entonces se acerca la hora de terminar con su sueño!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_001	Al despertar, tu Zodiac Weapon será de verdad la mejor de las armas y la más feroz de las aliadas en todo el mundo. Si estás firme en tu propósito, ¡empecemos!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_MENU_TITLE	Elige la Zodiac Weapon que deseas despertar.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_MENU_CHOICES	¿Despertar <if([lnum1==9491],<sheet(Item,9491,9)> y <sheet(Item,9500,9)>,<sheet(Item,lnum1,9)>)>?
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_MENU_CANCEL	Ninguna.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_YESNO_MESSAGE	（★未使用／削除予定★）
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_YESNO_YES	（★未使用／削除予定★）
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_YESNO_NO	（★未使用／削除予定★）
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_030	¿Dónde está tu Zodiac Weapon? No podemos despertar la conciencia que lleva adentro si no la tienes.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_SYSTEM_000_031	Asegúrate de tener la Zodiac Weapon que deseas despertar en el Armoury Chest o en tu inventario antes de hablar con Jalzahn.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_040	（★未使用／削除予定★）
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_050	Parece que a la resonancia de almas de tu Zodiac Weapon con el mahatma todavía le falta, y la conciencia que lleva adentro sigue dormida.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_SYSTEM_000_051	No puedes despertar tu Zodiac Weapon hasta que alcances la plena resonancia de almas con cada una de las doce variedades de mahatma.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_060	Buscamos hacer armas únicas, sin comparación. Sueña todo lo que quieras, pero ni el más grande de los héroes puede tener más de una.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_SYSTEM_000_061	Ya tienes <ennoun(Item,2,lnum1,1,1)>.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_100_070	No puedo hacer mi trabajo hasta que hagas lugar entre tu montón de pertenencias.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_300	Te confieso, amig<if(gnum4,a,o)>, que esperaba tu regreso con muchísimas ganas. Con solo tener tu arma en las manos, siento que el alma que lleva adentro late con más fuerza que nunca.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_301	Si oí bien todo eso, <split(<string(gstr1)>, ,1)>, tu arma está lista y con ganas de despertar. O sea que llegó la hora del gran final, ¿eh, Jalzahn?
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_302	No tengo claro qué papel me toca, Gerolt. Preparé mis suministros de alquimia para la ocasión, pero no sé qué quieres que prepare, ni tampoco para qué.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_303	Ah, cierto. Bueno, ¿te acuerdas del Book of Netherdark? Aunque poquísimos oyeron hablar de él, lo cierto es que sus páginas guardan la última verdad de las Zodiac Weapons.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_304	¿La verdad? ¿Qué quieres decir?
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_305	En tiempos antiguos, unos demonios terribles conocidos con el nombre de "Zodiac" aparecían en nuestro mundo. Pero cuando lo hacían, se alzaba un héroe con un arma brillante para derribar a esas bestias. ¿Conoces esa historia?
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_306	¡Pocos la conocen mejor que yo! Hablas del Song of the Zodiac Braves. Empecé mi investigación justamente porque creía que sus relatos sobre las armas legendarias tenían algo de verdad.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_307	Ah, pero ¿sabías que las armas <italic(1)>no<italic(0)> estaban envueltas en luz cuando los Braves mataron a las bestias?
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_308	¡Sí, recién cuando esas armas probaron la sangre de los demonios floreció la conciencia en lo más hondo, y estallaron en un halo deslumbrante! Así nacieron de verdad las Zodiac Weapons, pero esa parte de la historia se perdió al pasar de generación en generación.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_309	¡Aaah, muy bien, Gerolt, muy bien de verdad! No tenemos sangre de demonio para despertar el arma de <split(<string(gstr1)>, ,1)>, pero podemos imitarla con una poción de cuasialma espesa de aether.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_310	¡Tú sí que eres rápido, eso no lo niega nadie! Bueno, ahora que estamos todos al tanto, ¡probemos!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_311	Listo, con esto debería bastar de mi poción de "sangre de demonio". El resto te lo dejo a ti, Gerolt.
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_312	Como no hay ningún demonio del Zodiac a mano para pelear, voy a tener que imitar esa batalla con las llamas de mi forja y los golpes de mi martillo. ¡Ahora, a perfeccionar la vieja reliquia con la que empezamos hace tanto tiempo!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_313	¡Jejeje, el arma responde a mi toque de maravilla! Siento el alma de adentro temblar, como si se muriera por despertar. ¡Así que démosle lo que quiere!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_314	¡Lo... lo logramos! ¡Recreamos un arma legendaria <italic(1)>exactamente<italic(0)> como era, con conciencia propia y todo!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_315	¡Santos dioses! ¡Vamos, <split(<string(gstr1)>, ,1)>, toma tu arma!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_350	Bien, aplicaré mi preparado a tu arma, ¡y luego veremos juntos despertar por completo la conciencia que lleva adentro!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_400	¡Contempla la leyenda hecha realidad en todo su esplendor! ¡Solo <if(gnum4,la aventurera más valiente,el aventurero más valiente)> del mundo, su herrero más magistral y su alquimista más consumado podían recrear a esta auténtica heredera de las armas de antaño!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_401	No, aquí forjamos una nueva leyenda, un arma sin comparación.<br>Las eras repetirán su nombre: ¡Excalibur Zeta!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_100_401	¡Y mientras tu espada canta, este, el Aegis Shield Zeta, resistirá hasta los ataques más feroces!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_402	No, aquí forjamos una nueva leyenda, unas armas sin comparación.<br>Las eras repetirán su nombre: ¡los Kaiser Knuckles Zeta!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_403	No, aquí forjamos una nueva leyenda, un arma sin comparación.<br>Las eras repetirán su nombre: ¡Ragnarok Zeta!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_404	No, aquí forjamos una nueva leyenda, un arma sin comparación.<br>Las eras repetirán su nombre: ¡Longinus Zeta!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_405	No, aquí forjamos una nueva leyenda, un arma sin comparación.<br>Las eras repetirán su nombre: ¡Yoichi Bow Zeta!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_406	No, aquí forjamos una nueva leyenda, un arma sin comparación.<br>Las eras repetirán su nombre: ¡Nirvana Zeta!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_407	No, aquí forjamos una nueva leyenda, un arma sin comparación.<br>Las eras repetirán su nombre: ¡Lilith Rod Zeta!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_408	No, aquí forjamos una nueva leyenda, un arma sin comparación.<br>Las eras repetirán su nombre: ¡Apocalypse Zeta!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_409	No, aquí forjamos una nueva leyenda, un arma sin comparación.<br>Las eras repetirán su nombre: ¡Last Resort Zeta!
+TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_410	No, aquí forjamos una nueva leyenda, unas armas sin comparación.<br>Las eras repetirán su nombre: ¡el par de Sasuke's Blades Zeta!

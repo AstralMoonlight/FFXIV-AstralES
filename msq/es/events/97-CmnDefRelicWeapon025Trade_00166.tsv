@@ -1,0 +1,20 @@
+key	text
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_000	Con mis artes, uniré para siempre a tu reliquia las almas que reuniste. Préstame el objeto que deseas potenciar y haré lo necesario.
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_MENU_TITLE	¿Qué te gustaría potenciar?
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_MENU_CHOICES	<sheet(Item,lnum1,9)>.
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_MENU_CANCEL	Nada.
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_YESNO_MESSAGE	¿Potenciar <ennoun(Item,2,lnum1,1,1)>?
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_YESNO_YES	Sí
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_YESNO_NO	No
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_030	¿Dónde está la reliquia? ¿Acaso olvidaste traerla?
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_SYSTEM_000_035	Para que Jalzahn potencie un arma reliquia atma, primero debes completar los objetivos de los nueve libros de los Trials of the Braves. Ten en cuenta que cada reliquia tiene su propia colección.
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_SYSTEM_100_035	Además, asegúrate de tener la reliquia que deseas potenciar en el Armoury Chest o en tu inventario antes de hablar con Jalzahn.
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_040	Hmmm... Parece que la reliquia no absorbió suficientes almas para que la unión surta efecto. ¿Habrás pasado por alto algún detalle de los Trials of the Braves?
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_100_040	No puedo hacer mi trabajo hasta que hagas lugar entre tu montón de pertenencias.
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_050	Si deseas potenciar otra reliquia, debes saber que los mismos enemigos no suelen dar las almas necesarias. Prueba de ello es que existan versiones distintas de los Trials para cada reliquia. Perdóname si no te comenté ese detalle antes.
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_SYSTEM_000_051	Los enemigos que debes derrotar varían según la reliquia. Si quieres potenciar otra arma reliquia atma, debes conseguir los libros de la colección correspondiente de los Trials of the Braves y completar todos sus objetivos.
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_060	Para saber qué criaturas darán almas adecuadas para tu reliquia, debes consultar los Trials of the Braves. Los libros son comunes en Radz<-->at<-->Han, pero no se me ocurrió traerlos. Aunque, con el comercio floreciente entre nuestras tierras, quizá se los puedas conseguir a algún mercader de la zona.
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_100	Sí, la reliquia late con el poder de las almas. Haberla llevado a este estado... Tienes una perseverancia poco común, <if(gnum4,aventurera,aventurero)>.
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_101	Tú hiciste tu parte, y ahora haré la mía. Esto solo tomará un momento.
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_JALZAHN_000_102	...¡Está hecho! ¡Ah, las almas que lleva adentro le dan un brillo realmente magnífico! ¡Toma otra vez tu reliquia, amig<if(gnum4,a,o)>, y báñate en la luz de su majestad!
+TEXT_CMNDEFRELICWEAPON025TRADE_00166_SYSTEM_100_051	¡Tu arma reliquia atma renació gracias al poder de las almas!

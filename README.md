@@ -214,13 +214,13 @@ Misiones fuera de la historia que desbloquean funciones del juego.
 
 | Cadena | Contenido | Estado |
 |---|---|---|
-| Zodiac Weapons (A Realm Reborn) | Las misiones; faltan los diálogos de canje | ![Traducido][ok] |
-| Anima Weapons (Heavensward) | 3 de 14 misiones | ![En progreso][wip] |
-| Eureka (Stormblood) | | ![Pendiente][no] |
+| Zodiac Weapons (A Realm Reborn) | Todas las misiones y los diálogos de canje | ![Traducido][ok] |
+| Anima Weapons (Heavensward) | Todas las misiones y los diálogos de canje | ![Traducido][ok] |
+| Eureka (Stormblood) | La misión de entrada, toda la historia de Anemos, Pagos, Pyros y Hydatos, y los diálogos de Gerolt, Drake y el campamento | ![Traducido][ok] |
 | Resistance Weapons (Shadowbringers, Bozja) | Todas las misiones | ![Traducido][ok] |
 | Manderville Weapons (Endwalker) | Todas las misiones | ![Traducido][ok] |
 | Phantom Weapons (Dawntrail) | Todas las misiones y los diálogos de canje | ![Traducido][ok] |
-| Herramientas de crafter (Splendorous Tools) | | ![Pendiente][no] |
+| Herramientas de crafter (Splendorous Tools) | Todas las misiones, hasta la boda de Grenoldt y Mowen | ![Traducido][ok] |
 
 ## Eventos de temporada
 

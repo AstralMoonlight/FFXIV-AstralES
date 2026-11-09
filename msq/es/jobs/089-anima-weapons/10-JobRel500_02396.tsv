@@ -1,0 +1,175 @@
+key	text
+TEXT_JOBREL500_02396_SEQ_00	Ardashir parece ansioso por contarte algo.<br>※Cambiar de clase o job impedirá avanzar en esta misión.
+TEXT_JOBREL500_02396_SEQ_01	Ardashir tiene buenas noticias: el processing node, vital para su trabajo, está casi listo. Pero su entusiasmo se apaga pronto cuando Gerolt le reprocha no haber movido un dedo para ayudar. El joven erudito insiste enseguida en hacer su parte del trabajo, y no hay de qué preocuparse: hay trabajo de sobra para todos. Ardashir no pierde tiempo en repartir las tareas y te encarga conseguir tres rarezas necesarias para forjar la nueva anima weapon: una gema rara de Amdapor, una muñeca encantada de la Great Gubal Library y roca fundida de Sohm Al.
+TEXT_JOBREL500_02396_SEQ_02	Desafiando los peligros de las mazmorras más oscuras de Eorzea, sales sin un rasguño y con tres rarezas más en tu poder. Solo puedes esperar que Ardashir haya terminado sus tareas para cuando vuelvas.
+TEXT_JOBREL500_02396_SEQ_03	Llegas a Azys Lla y encuentras el processing node en pleno funcionamiento. Para no perder tiempo, Ardashir insiste en que Gerolt se olvide de su sed de licor y empiece a trabajar en el arma. Mientras tanto, te pide que actives el node, que ya funciona.
+TEXT_JOBREL500_02396_SEQ_04	El node se pone en marcha con un zumbido, listo para fabricarte una soulstone. Siempre que tengas los materiales necesarios, claro. Cuando termines con el processing node, Ardashir te pide que actives el verification node para preparar el traslado del anima.
+TEXT_JOBREL500_02396_SEQ_05	Trasladar el anima a una nueva soulstone implica un gran riesgo, porque existe la posibilidad de que el espíritu naciente se disipe en el aether antes de que termine el proceso. Pero tras una extensa investigación, Ardashir descubrió la forma de garantizar la seguridad del anima: aumentar su densidad aetérica. Según explica, el reciente tratamiento de ceruleum de la anima weapon potenció su capacidad de absorber aether, así que ahora es el momento ideal para llevar a cabo su plan. Te da un dispositivo de monitoreo y te pide que sigas con tus habituales actos de heroísmo. Cuando el anima haya absorbido suficiente aether, su descubrimiento más reciente, el verification node, analizará la anima weapon y calculará tus probabilidades de éxito. Pero Ardashir no es de los que apuestan, y dice que no quedará satisfecho hasta que el fracaso sea una improbabilidad matemática.<br><br>※Si pierdes la anima glass, puedes conseguir otra hablando con Ardashir en Azys Lla.
+TEXT_JOBREL500_02396_SEQ_06	Recorres el mundo para fortalecer el anima con hazañas heroicas grandes y pequeñas, desde rescatar gatos atrapados en fríos tejados de piedra hasta abatir bestias enviadas desde el vacío. Con la confianza de que el anima está lista, vuelves a Azys Lla para que examinen la anima weapon. El verification node empieza su análisis y, después de lo que parece una eternidad, te alegra oír que la probabilidad de fracaso es prácticamente nula. Solo queda llevar a cabo el traslado.
+TEXT_JOBREL500_02396_SEQ_07	Sus planes fueron perfectos y sus cálculos impecables, pero Ardashir no logra sacudirse una sensación de temor inminente. Sus dudas pronto quedan de lado, sin embargo, cuando Gerolt lo sorprende con unas palabras que se parecen bastante a un ánimo. Ya inspirados, se ponen a trabajar, y al poco tiempo el anima queda bien instalada en su nueva soulstone y su nueva arma... o eso creen. Alzas tu arma recién forjada, pero cuando invocas al anima, la falta de respuesta te hace dudar. Justo cuando Ardashir empezaba a perder la esperanza, el anima aparece en un destello de luz cegador y te cuenta una experiencia de otro mundo. El anima está a salvo, ahora y para siempre. Pero Ardashir menciona que le queda un último asunto que tratar contigo. ¿Qué podrá ser?<br><br>※ Los atributos de la anima weapon se pueden redistribuir hablando con Ulan en Idyllshire.
+TEXT_JOBREL500_02396_TODO_00	Con <if([lnum4==19],<ennoun(Item,2,15237,1,1)> y <ennoun(Item,2,15250,1,1)>,<if([lnum4==20],<ennoun(Item,2,15238,1,1)>,<if([lnum4==21],<ennoun(Item,2,15239,1,1)>,<if([lnum4==22],<ennoun(Item,2,15240,1,1)>,<if([lnum4==23],<ennoun(Item,2,15241,1,1)>,<if([lnum4==24],<ennoun(Item,2,15245,1,1)>,<if([lnum4==25],<ennoun(Item,2,15246,1,1)>,<if([lnum4==27],<ennoun(Item,2,15247,1,1)>,<if([lnum4==28],<ennoun(Item,2,15248,1,1)>,<if([lnum4==30],<ennoun(Item,2,15242,1,1)>,<if([lnum4==31],<ennoun(Item,2,15244,1,1)>,<if([lnum4==32],<ennoun(Item,2,15243,1,1)>,<if([lnum4==33],<ennoun(Item,2,15249,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> equipado o en tu inventario, consigue un magicked bauble en the Lost City of Amdapor (Hard).
+TEXT_JOBREL500_02396_TODO_01	Con <if([lnum4==19],<ennoun(Item,2,15237,1,1)> y <ennoun(Item,2,15250,1,1)>,<if([lnum4==20],<ennoun(Item,2,15238,1,1)>,<if([lnum4==21],<ennoun(Item,2,15239,1,1)>,<if([lnum4==22],<ennoun(Item,2,15240,1,1)>,<if([lnum4==23],<ennoun(Item,2,15241,1,1)>,<if([lnum4==24],<ennoun(Item,2,15245,1,1)>,<if([lnum4==25],<ennoun(Item,2,15246,1,1)>,<if([lnum4==27],<ennoun(Item,2,15247,1,1)>,<if([lnum4==28],<ennoun(Item,2,15248,1,1)>,<if([lnum4==30],<ennoun(Item,2,15242,1,1)>,<if([lnum4==31],<ennoun(Item,2,15244,1,1)>,<if([lnum4==32],<ennoun(Item,2,15243,1,1)>,<if([lnum4==33],<ennoun(Item,2,15249,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> equipado o en tu inventario, consigue un ancient magicked poppet en the Great Gubal Library (Hard).
+TEXT_JOBREL500_02396_TODO_02	Con <if([lnum4==19],<ennoun(Item,2,15237,1,1)> y <ennoun(Item,2,15250,1,1)>,<if([lnum4==20],<ennoun(Item,2,15238,1,1)>,<if([lnum4==21],<ennoun(Item,2,15239,1,1)>,<if([lnum4==22],<ennoun(Item,2,15240,1,1)>,<if([lnum4==23],<ennoun(Item,2,15241,1,1)>,<if([lnum4==24],<ennoun(Item,2,15245,1,1)>,<if([lnum4==25],<ennoun(Item,2,15246,1,1)>,<if([lnum4==27],<ennoun(Item,2,15247,1,1)>,<if([lnum4==28],<ennoun(Item,2,15248,1,1)>,<if([lnum4==30],<ennoun(Item,2,15242,1,1)>,<if([lnum4==31],<ennoun(Item,2,15244,1,1)>,<if([lnum4==32],<ennoun(Item,2,15243,1,1)>,<if([lnum4==33],<ennoun(Item,2,15249,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> equipado o en tu inventario, consigue spectral magma en Sohm Al (Hard).
+TEXT_JOBREL500_02396_TODO_03	Con <if([lnum4==19],<ennoun(Item,2,15237,1,1)> y <ennoun(Item,2,15250,1,1)>,<if([lnum4==20],<ennoun(Item,2,15238,1,1)>,<if([lnum4==21],<ennoun(Item,2,15239,1,1)>,<if([lnum4==22],<ennoun(Item,2,15240,1,1)>,<if([lnum4==23],<ennoun(Item,2,15241,1,1)>,<if([lnum4==24],<ennoun(Item,2,15245,1,1)>,<if([lnum4==25],<ennoun(Item,2,15246,1,1)>,<if([lnum4==27],<ennoun(Item,2,15247,1,1)>,<if([lnum4==28],<ennoun(Item,2,15248,1,1)>,<if([lnum4==30],<ennoun(Item,2,15242,1,1)>,<if([lnum4==31],<ennoun(Item,2,15244,1,1)>,<if([lnum4==32],<ennoun(Item,2,15243,1,1)>,<if([lnum4==33],<ennoun(Item,2,15249,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> equipado o en tu inventario, entrégale los materiales de forja a Gerolt en Azys Lla.
+TEXT_JOBREL500_02396_TODO_04	Con <if([lnum4==19],<ennoun(Item,2,15237,1,1)> y <ennoun(Item,2,15250,1,1)>,<if([lnum4==20],<ennoun(Item,2,15238,1,1)>,<if([lnum4==21],<ennoun(Item,2,15239,1,1)>,<if([lnum4==22],<ennoun(Item,2,15240,1,1)>,<if([lnum4==23],<ennoun(Item,2,15241,1,1)>,<if([lnum4==24],<ennoun(Item,2,15245,1,1)>,<if([lnum4==25],<ennoun(Item,2,15246,1,1)>,<if([lnum4==27],<ennoun(Item,2,15247,1,1)>,<if([lnum4==28],<ennoun(Item,2,15248,1,1)>,<if([lnum4==30],<ennoun(Item,2,15242,1,1)>,<if([lnum4==31],<ennoun(Item,2,15244,1,1)>,<if([lnum4==32],<ennoun(Item,2,15243,1,1)>,<if([lnum4==33],<ennoun(Item,2,15249,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> equipado o en tu inventario, activa el processing node.
+TEXT_JOBREL500_02396_TODO_05	Con <if([lnum4==19],<ennoun(Item,2,15237,1,1)> y <ennoun(Item,2,15250,1,1)>,<if([lnum4==20],<ennoun(Item,2,15238,1,1)>,<if([lnum4==21],<ennoun(Item,2,15239,1,1)>,<if([lnum4==22],<ennoun(Item,2,15240,1,1)>,<if([lnum4==23],<ennoun(Item,2,15241,1,1)>,<if([lnum4==24],<ennoun(Item,2,15245,1,1)>,<if([lnum4==25],<ennoun(Item,2,15246,1,1)>,<if([lnum4==27],<ennoun(Item,2,15247,1,1)>,<if([lnum4==28],<ennoun(Item,2,15248,1,1)>,<if([lnum4==30],<ennoun(Item,2,15242,1,1)>,<if([lnum4==31],<ennoun(Item,2,15244,1,1)>,<if([lnum4==32],<ennoun(Item,2,15243,1,1)>,<if([lnum4==33],<ennoun(Item,2,15249,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario, usa el verification node.
+TEXT_JOBREL500_02396_TODO_06	Con <if([lnum4==19],<ennoun(Item,2,15237,1,1)> y <ennoun(Item,2,15250,1,1)>,<if([lnum4==20],<ennoun(Item,2,15238,1,1)>,<if([lnum4==21],<ennoun(Item,2,15239,1,1)>,<if([lnum4==22],<ennoun(Item,2,15240,1,1)>,<if([lnum4==23],<ennoun(Item,2,15241,1,1)>,<if([lnum4==24],<ennoun(Item,2,15245,1,1)>,<if([lnum4==25],<ennoun(Item,2,15246,1,1)>,<if([lnum4==27],<ennoun(Item,2,15247,1,1)>,<if([lnum4==28],<ennoun(Item,2,15248,1,1)>,<if([lnum4==30],<ennoun(Item,2,15242,1,1)>,<if([lnum4==31],<ennoun(Item,2,15244,1,1)>,<if([lnum4==32],<ennoun(Item,2,15243,1,1)>,<if([lnum4==33],<ennoun(Item,2,15249,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> equipado o en tu inventario, usa el verification node.
+TEXT_JOBREL500_02396_TODO_07	Con <if([lnum4==19],<ennoun(Item,2,15237,1,1)> y <ennoun(Item,2,15250,1,1)>,<if([lnum4==20],<ennoun(Item,2,15238,1,1)>,<if([lnum4==21],<ennoun(Item,2,15239,1,1)>,<if([lnum4==22],<ennoun(Item,2,15240,1,1)>,<if([lnum4==23],<ennoun(Item,2,15241,1,1)>,<if([lnum4==24],<ennoun(Item,2,15245,1,1)>,<if([lnum4==25],<ennoun(Item,2,15246,1,1)>,<if([lnum4==27],<ennoun(Item,2,15247,1,1)>,<if([lnum4==28],<ennoun(Item,2,15248,1,1)>,<if([lnum4==30],<ennoun(Item,2,15242,1,1)>,<if([lnum4==31],<ennoun(Item,2,15244,1,1)>,<if([lnum4==32],<ennoun(Item,2,15243,1,1)>,<if([lnum4==33],<ennoun(Item,2,15249,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario, entrégale la newborn soulstone a Gerolt en Azys Lla.
+TEXT_JOBREL500_02396_SYSTEM_000_000	Ten en cuenta que al completar la misión "Born Again Anima" recibirás una anima weapon para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_JOBREL500_02396_Q1_000_000	¿Qué haces?
+TEXT_JOBREL500_02396_A1_000_000	Aceptar esta misión con otro job.
+TEXT_JOBREL500_02396_A2_000_000	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_JOBREL500_02396_SYSTEM_000_001	Una vez que aceptes esta misión, no podrás avanzar con una clase o un job distinto del que tenías al aceptarla.
+TEXT_JOBREL500_02396_SYSTEM_000_002	Asegúrate de cambiar al job que deseas antes de hablar con Ardashir.
+TEXT_JOBREL500_02396_SYSTEM_000_003	Para hacer la misión "Born Again Anima" debes tener equipados <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>.
+TEXT_JOBREL500_02396_SYSTEM_000_004	Para hacer la misión "Born Again Anima" debes tener equipado <ennoun(Item,2,lnum1,1,1)>.
+TEXT_JOBREL500_02396_SYSTEM_000_005	Ya recibiste <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>. Cambia a otro job y habla otra vez con Ardashir.
+TEXT_JOBREL500_02396_SYSTEM_000_006	Ya recibiste <ennoun(Item,2,lnum1,1,1)>. Cambia a otro job y habla otra vez con Ardashir.
+TEXT_JOBREL500_02396_ARDASHIR_000_001	¡<split(<string(gstr1)>, ,1)>! Llega en el momento más oportuno, amig<if(gnum4,a,o)>. La reparación del processing node está casi terminada.
+TEXT_JOBREL500_02396_ARDASHIR_000_002	Lástima que esas reparaciones estén fuera de mi especialidad. No tuve más remedio que pedirle ayuda a Gerolt.
+TEXT_JOBREL500_02396_GEROLT_000_003	Hmph. ¿Y cuándo fue la última vez que esas manitas delicadas tuyas tocaron un martillo? ¿Qué tal si para variar reconoces el mérito de quien lo tiene, eh? ¡O mejor todavía, ponte a trabajar tú, maldita sea!
+TEXT_JOBREL500_02396_ARDASHIR_000_004	Lo que hacemos aquí requiere algo más que fuerza bruta. Aunque, a decir verdad, no tengo tiempo para estudiar la literatura necesaria para esas reparaciones.
+TEXT_JOBREL500_02396_ARDASHIR_000_005	Muy bien. Si hay más trabajo que hacer, me encargaré yo mismo. Que no se diga que Ardashir Balyk se quedó de brazos cruzados mientras un borrachín cumplía con su deber.
+TEXT_JOBREL500_02396_GEROLT_000_006	Qué boquita tienes, ¿eh? Muy bien. ¿Qué tal si me traes los materiales para esa arma nueva que pediste? Y llévate a <split(<string(gstr1)>, ,1)> contigo. No es que no confíe en ti, ojo. Es que es demasiado trabajo para uno solo.
+TEXT_JOBREL500_02396_ARDASHIR_000_007	Si insistes en que me acompañe, que así sea.
+TEXT_JOBREL500_02396_ARDASHIR_000_008	Ejem. Bien, entonces. <split(<string(gstr1)>, ,1)>, hay trabajo que hacer.
+TEXT_JOBREL500_02396_ARDASHIR_000_010	Me gustaría que usted se encargara de los objetos más, digamos, exóticos que pidió: una gema rara de Amdapor, una muñeca encantada de la Great Gubal Library y roca fundida de Sohm Al.
+TEXT_JOBREL500_02396_ARDASHIR_000_011	Es raro pensar que con una colección tan dispar de objetos se pueda forjar un arma. Aunque también dudé alguna vez de los efectos favorables del alcohol en su herrería.
+TEXT_JOBREL500_02396_ARDASHIR_000_012	En todo caso, yo me encargaré de las otras tres rarezas de su lista. Espero no hacerle esperar demasiado.
+TEXT_JOBREL500_02396_ARDASHIR_000_009	Con ganas de poner a salvo otra anima, ya veo. Bueno, repartámonos el trabajo para acelerar el proceso.
+TEXT_JOBREL500_02396_ARDASHIR_100_010	Igual que antes, le pido que consiga los objetos más difíciles que necesita Gerolt: una gema rara de Amdapor, una muñeca encantada de la Great Gubal Library y roca fundida de Sohm Al.
+TEXT_JOBREL500_02396_ARDASHIR_100_011	Volver a esos lugares no debería ser un problema para alguien con su talento.
+TEXT_JOBREL500_02396_ARDASHIR_100_012	Yo, por mi parte, me encargaré de las otras tres rarezas de su lista. Espero no hacerle esperar demasiado.
+TEXT_JOBREL500_02396_SYSTEM_000_007	La misión "Born Again Anima" no se puede abandonar desde el journal. Si quieres abandonarla, puedes hacerlo en cualquier momento hablando con Ardashir.
+TEXT_JOBREL500_02396_GEROLT_000_020	Ahí estás. ¿Trajiste lo que te pedí?
+TEXT_JOBREL500_02396_GEROLT_000_021	¿Entonces qué haces aquí perdiendo el tiempo? No querrás que ese erudito engreído vuelva antes que tú, ¿no? Ahora anda, fuera de aquí.
+TEXT_JOBREL500_02396_GEROLT_000_022	Buen trabajo, <if(gnum4,muchacha,muchacho)>, y sin un rasguño. Que es más de lo que puedo decir de su alteza aquí presente.
+TEXT_JOBREL500_02396_ARDASHIR_000_023	Hmph. Si tienes tiempo para perder en insultos, ¿debo suponer que el trabajo en el processing node está terminado?
+TEXT_JOBREL500_02396_GEROLT_000_024	Reparaciones así las hago con los ojos cerrados. Las terminé hace siglos, solo estaba esperando a que aparecieran ustedes dos.
+TEXT_JOBREL500_02396_ARDASHIR_000_025	Excelente. Por fin podemos empezar a trabajar en la nueva soulstone.
+TEXT_JOBREL500_02396_ARDASHIR_000_026	¿Confío en que puedo contar otra vez con su ayuda?
+TEXT_JOBREL500_02396_GEROLT_000_027	Parece que vas a estar ocupado un rato con tus juguetes. En ese caso, creo que me voy a tomar unos tragos.
+TEXT_JOBREL500_02396_ARDASHIR_000_028	Gerolt. No te voy a negar un trago o dos, como es tu costumbre. Solo prométeme que el trabajo se va a hacer. Con todos los materiales a mano, una tarea tan insignificante la podrías hacer <italic(1)>con los ojos cerrados<italic(0)>, ¿no?
+TEXT_JOBREL500_02396_GEROLT_000_029	\<refunfuño> Mocoso insolente... Está bien. Pero más te vale apurarte con la soulstone, ¿me oíste?
+TEXT_JOBREL500_02396_ARDASHIR_000_030	Bien. Déjeme explicarle nuestro próximo paso.
+TEXT_JOBREL500_02396_ARDASHIR_000_031	Antes que nada, voy a necesitar su ayuda para crear la nueva soulstone.
+TEXT_JOBREL500_02396_ARDASHIR_000_032	Es un proceso bastante complicado, pero con su ayuda no me cabe duda de que todo irá sobre ruedas.
+TEXT_JOBREL500_02396_ARDASHIR_000_033	Una vez terminado, también tendremos que asegurarnos de que el anima esté debidamente preparada para el traslado. Aunque no es un procedimiento complejo, es sin duda el más vital. Mi descubrimiento más reciente, un dispositivo de verificación aetérica, debería ser muy útil en esto.
+TEXT_JOBREL500_02396_ARDASHIR_000_034	Pero las demás explicaciones sobre eso pueden esperar. Cuando esté list<if(gnum4,a,o)> para empezar a trabajar en la soulstone, le ruego que active el processing node.
+TEXT_JOBREL500_02396_GEROLT_000_035	Qué rápido trabajas, <split(<string(gstr1)>, ,1)>. No esperaba menos.
+TEXT_JOBREL500_02396_ARDASHIR_000_036	Yo también logré volver en tiempo récord.
+TEXT_JOBREL500_02396_ARDASHIR_000_037	Y ahora que está aquí, empecemos a trabajar en la nueva soulstone.
+TEXT_JOBREL500_02396_PROCESSSYSTEM_000_040	\<bip> \<bip> Iniciando... Establezca los parámetros deseados.
+TEXT_JOBREL500_02396_ARDASHIR_000_041	Vaya, vaya, funciona. Deme un momento mientras preparo el node.
+TEXT_JOBREL500_02396_PROCESSSYSTEM_000_042	\<bip> \<bip> Iniciando... Establezca los parámetros deseados.
+TEXT_JOBREL500_02396_ARDASHIR_000_043	Perdón por la espera. Ahora déjeme preparar el node.
+TEXT_JOBREL500_02396_ARDASHIR_000_044	Listo. Ahora solo nos faltan los materiales para crear la soulstone. Y para eso recurro a su talento sin igual para conseguir cosas.
+TEXT_JOBREL500_02396_ARDASHIR_000_045	Vamos, vamos. Si queremos preservar el anima, no podemos flaquear ahora.
+TEXT_JOBREL500_02396_ARDASHIR_000_046	Al fin y al cabo, todavía queda otro paso crucial antes de que la soulstone esté completa.
+TEXT_JOBREL500_02396_ARDASHIR_100_046	Para eso vamos a necesitar el verification node.
+TEXT_JOBREL500_02396_ARDASHIR_100_047	Pero no nos adelantemos, que todavía queda mucho por hacer. No tiene que preocuparse por este dispositivo hasta que terminemos con el processing node.
+TEXT_JOBREL500_02396_ARDASHIR_000_047	Listo. Solo hace falta reunir los materiales necesarios y tendremos otra soulstone. ¿Confío en que no tendrá problemas para conseguir más pneumite?
+TEXT_JOBREL500_02396_ARDASHIR_000_048	Claro que también está el asunto de la densidad aetérica del anima, pero no nos adelantemos. Le ruego que active el verification node cuando esté list<if(gnum4,a,o)> para examinar el anima.
+TEXT_JOBREL500_02396_SYSTEM_000_010	Ahora puedes aceptar la misión "Some Assembly Required" del processing node.
+TEXT_JOBREL500_02396_SYSTEM_000_011	Para avanzar en la misión "Born Again Anima", debes completar la misión "Some Assembly Required" y conseguir una nueva soulstone.
+TEXT_JOBREL500_02396_SYSTEM_000_012	Para avanzar en la misión "Born Again Anima", debes completar la misión "Some Assembly Required" y conseguir una nueva soulstone.
+TEXT_JOBREL500_02396_CERTIFYSYSTEM_000_050	\<bip> \<bip> Presente el espécimen para su análisis.
+TEXT_JOBREL500_02396_ARDASHIR_000_051	Y bien, <split(<string(gstr1)>, ,1)>, ¿qué le parece? Quiso la suerte que encontrara este node mientras buscaba materiales recuperables para reparar el processing node.
+TEXT_JOBREL500_02396_ARDASHIR_000_052	Puede analizar la composición aetérica de cualquier objeto que se le ponga delante, una función crucial para nuestro trabajo.
+TEXT_JOBREL500_02396_ARDASHIR_000_053	Para trasladar la esencia del anima a la nueva soulstone, primero tenemos que cortar el vínculo con su recipiente actual. Pero eso implica un riesgo enorme.
+TEXT_JOBREL500_02396_ARDASHIR_000_054	Verá, en el instante en que queda desligada, existe el peligro de que se disipe en el aether. Su vida se extinguiría en un abrir y cerrar de ojos.
+TEXT_JOBREL500_02396_ARDASHIR_000_055	Después de mucho investigar la manipulación del aether, aprendí la forma de preservar el anima el tiempo suficiente para completar el proceso: la condensación aetérica. El anima es, al fin y al cabo, una criatura compuesta por completo de aether condensado. Si se condensara todavía más, debería ser lo bastante robusta para sobrevivir al traslado.
+TEXT_JOBREL500_02396_ARDASHIR_000_056	Gracias al tratamiento de ceruleum de la anima weapon, me atrevo a decir que su capacidad para absorber el aether natural, y con eso aumentar la densidad del anima, es mayor. Solo es cuestión de llegar a los niveles que necesitamos.
+TEXT_JOBREL500_02396_ARDASHIR_000_057	Para eso, le pido que retome sus hazañas temerarias y que vigile el anima con este dispositivo. Debería indicarle cuándo el anima alcanzó niveles de densidad suficientes, según mis estimaciones.
+TEXT_JOBREL500_02396_ARDASHIR_000_058	Cuando el anima esté lista, vuelva aquí y ponga su recipiente en el verification node. Lo programé para que simule el proceso de traslado según la densidad del anima.
+TEXT_JOBREL500_02396_ARDASHIR_000_059	Cuando el verification node confirme que la probabilidad de fracaso está prácticamente descartada, podremos pasar a la siguiente fase de nuestro plan.
+TEXT_JOBREL500_02396_ARDASHIR_000_060	Bien. Entonces está list<if(gnum4,a,o)>. Igual que antes, va a tener que aumentar la densidad aetérica del anima.
+TEXT_JOBREL500_02396_ARDASHIR_000_061	Tome. Va a necesitar una nueva anima glass para vigilar su progreso.
+TEXT_JOBREL500_02396_ARDASHIR_000_062	Cuando el anima esté lo bastante condensada, tráigala para que la analicemos.
+TEXT_JOBREL500_02396_SYSTEM_000_020	Si completas ciertas actividades con tu anima weapon equipada, aumentará su densidad aetérica.
+TEXT_JOBREL500_02396_SYSTEM_000_021	Si completas ciertas actividades con tu anima weapon y tu escudo equipados, aumentará su densidad aetérica.
+TEXT_JOBREL500_02396_SYSTEM_000_023	Ten en cuenta que la densidad aetérica no puede aumentar si su durabilidad es cero.
+TEXT_JOBREL500_02396_SYSTEM_000_024	Ten en cuenta que la densidad aetérica no puede aumentar si su durabilidad es cero.
+TEXT_JOBREL500_02396_SYSTEM_000_022	Con la anima glass puedes ver tu progreso.
+TEXT_JOBREL500_02396_CERTIFYSYSTEM_000_070	\<bip> Analizando... Iniciando simulación...<br>Niveles de densidad insuficientes. \<bip> Probabilidad estimada de fracaso: 75%.
+TEXT_JOBREL500_02396_CERTIFYSYSTEM_000_071	\<bip> Analizando... Iniciando simulación...<br>Niveles de densidad insuficientes. \<bip> Probabilidad estimada de fracaso: 62.5%.
+TEXT_JOBREL500_02396_CERTIFYSYSTEM_000_072	\<bip> Analizando... Iniciando simulación...<br>Niveles de densidad cerca de los parámetros aceptables. \<bip> Probabilidad estimada de fracaso: 37.5%.
+TEXT_JOBREL500_02396_CERTIFYSYSTEM_000_073	\<bip> Analizando... Iniciando simulación...<br>Niveles de densidad cerca de los parámetros aceptables. \<bip> Probabilidad estimada de fracaso: 12.5%.
+TEXT_JOBREL500_02396_SYSTEM_000_030	Si completas ciertas actividades con tu anima weapon equipada, aumentará su nivel de densidad aetérica.
+TEXT_JOBREL500_02396_SYSTEM_000_031	Si completas ciertas actividades con tu anima weapon y tu escudo equipados, aumentarán sus niveles de densidad aetérica.
+TEXT_JOBREL500_02396_SYSTEM_000_033	Ten en cuenta que la densidad aetérica no puede aumentar si su durabilidad es cero.
+TEXT_JOBREL500_02396_SYSTEM_000_034	Ten en cuenta que la densidad aetérica no puede aumentar si su durabilidad es cero.
+TEXT_JOBREL500_02396_SYSTEM_000_032	Con la anima glass puedes ver tu progreso.
+TEXT_JOBREL500_02396_CERTIFYSYSTEMT_000_074	\<bip> \<bip> Presente el espécimen para su análisis.
+TEXT_JOBREL500_02396_CERTIFYSYSTEMT_000_075	Analizando... Iniciando simulación...
+TEXT_JOBREL500_02396_CERTIFYSYSTEMT_000_076	La densidad aetérica supera los parámetros establecidos. \<bip> Probabilidad estimada de fracaso: 0.0000001%.
+TEXT_JOBREL500_02396_ARDASHIR_000_077	¡Excelente! Con lecturas así, nuestro trabajo debería ser pan comido.
+TEXT_JOBREL500_02396_ARDASHIR_000_078	Lleve la anima weapon y la soulstone a Gerolt. Por fin vamos a trasladar el anima a su nuevo recipiente permanente.
+TEXT_JOBREL500_02396_ARDASHIR_000_079	Solo falta terminar la soulstone. Pronto, amig<if(gnum4,a,o)>. ¡Pronto el anima estará a salvo, ahora y para siempre!
+TEXT_JOBREL500_02396_SYSTEM_000_040	Para crear una newborn soulstone, usa el processing node y completa la misión "Some Assembly Required".
+TEXT_JOBREL500_02396_GEROLT_100_080	¿Terminaste la soulstone? A ver, dámela. El arma también.
+TEXT_JOBREL500_02396_GEROLT_000_080	¿Y entonces para qué me molestas? ¡Apúrate con esa maldita soulstone!
+TEXT_JOBREL500_02396_GEROLT_200_080	¿Terminaste la soulstone? A ver, dámela. El arma también.
+TEXT_JOBREL500_02396_GEROLT_100_081	¿Y entonces para qué me molestas? ¡Apúrate con esa maldita soulstone!
+TEXT_JOBREL500_02396_SYSTEM_000_050	Para crear una newborn soulstone, usa el processing node y completa la misión "Some Assembly Required".
+TEXT_JOBREL500_02396_GEROLT_000_081	¿Perdiste la anima glass? Por el amor de... Ve a pedirle otra a Ardashir.
+TEXT_JOBREL500_02396_SYSTEM_000_051	Deleted
+TEXT_JOBREL500_02396_SYSTEM_000_052	Deleted
+TEXT_JOBREL500_02396_GEROLT_000_082	Bueno, manos a la obra.
+TEXT_JOBREL500_02396_GEROLT_100_082	¡Oye, Ardashir!
+TEXT_JOBREL500_02396_ARDASHIR_000_083	No hace falta que grites, te oigo perfectamente. Es que... es que necesitaba un momento.
+TEXT_JOBREL500_02396_GEROLT_000_084	¿Un momento? ¿Para qué demonios? ¿Y qué es esa cara larga de repente?
+TEXT_JOBREL500_02396_GEROLT_000_085	...Espera un segundo. No tendrás miedo, ¿o sí?
+TEXT_JOBREL500_02396_ARDASHIR_000_086	¿Miedo? ¿<italic(1)>Miedo<italic(0)>?
+TEXT_JOBREL500_02396_ARDASHIR_000_087	¡Estoy absolutamente aterrado! ¿¡Y si algo sale mal!? Años de trabajo duro e investigación se irían a la basura. Y lo que es más importante, se perdería una vida nueva e inocente. Nunca me lo perdonaría si al anima le pasara lo impensable.
+TEXT_JOBREL500_02396_GEROLT_000_088	¿Así que eso es todo? ¿Piensas salir corriendo, sin nada que mostrar más que un reguero de meados en el camino a casa? ¿¡Después de todo lo que hiciste para llegar hasta aquí!?
+TEXT_JOBREL500_02396_GEROLT_000_089	¿Y qué hay de <split(<string(gstr1)>, ,1)>? Peleó hasta el séptimo infierno y de vuelta para dejar el anima lista para esto.
+TEXT_JOBREL500_02396_GEROLT_000_090	¡Y yo! Me tuviste aquí de rehén martillando armas nuevas día tras día, y esta es la mejor que hice. Le estarías negando al mundo una obra maestra que deja en ridículo a todos los demás herreros.
+TEXT_JOBREL500_02396_GEROLT_000_091	Y vale, a lo mejor eres una mierdita egoísta y presumida, pero conocí a muchos eruditos, y tú eres la mierdita más <italic(1)>lista<italic(0)> que conocí en mi vida. No hace falta decir que la soulstone que hiciste es perfecta, así que ¿para qué preocuparse por nada?
+TEXT_JOBREL500_02396_ARDASHIR_000_092	Gerolt... Yo...
+TEXT_JOBREL500_02396_ARDASHIR_000_093	Ejem. Como dices, no tenemos motivos para preocuparnos.
+TEXT_JOBREL500_02396_ARDASHIR_000_094	Empecemos por trasladar el anima a la nueva soulstone.
+TEXT_JOBREL500_02396_ARDASHIR_000_095	Necesito la anima glass, si es tan amable.
+TEXT_JOBREL500_02396_ARDASHIR_000_096	Listo. Rápido, Gerolt. El anima no va a aguantar mucho. ¡Monta la soulstone!
+TEXT_JOBREL500_02396_GEROLT_000_100	Qué tal esto... La cumbre de la perfección, forjada con sangre, sudor y lágrimas.
+TEXT_JOBREL500_02396_ARDASHIR_000_101	Y es toda suya, <split(<string(gstr1)>, ,1)>. ¡Se la ganó con creces!
+TEXT_JOBREL500_02396_GEROLT_000_102	Échales un ojo a Aettir y Priwen. ¡Los mismos dioses llorarían ante estas bellezas!
+TEXT_JOBREL500_02396_GEROLT_000_103	Échales un ojo a los Nyepels. ¡Los mismos dioses llorarían ante estas bellezas!
+TEXT_JOBREL500_02396_GEROLT_000_104	Échale un ojo a Minos. ¡Los mismos dioses llorarían ante esta belleza!
+TEXT_JOBREL500_02396_GEROLT_000_105	Échale un ojo a Areadbhar. ¡Los mismos dioses llorarían ante esta belleza!
+TEXT_JOBREL500_02396_GEROLT_000_106	Échale un ojo a Terpander. ¡Los mismos dioses llorarían ante esta belleza!
+TEXT_JOBREL500_02396_GEROLT_000_107	Échale un ojo a Sindri. ¡Los mismos dioses llorarían ante esta belleza!
+TEXT_JOBREL500_02396_GEROLT_000_108	Échale un ojo a Kaladanda. ¡Los mismos dioses llorarían ante esta belleza!
+TEXT_JOBREL500_02396_GEROLT_000_109	Échale un ojo a Mimesis. ¡Los mismos dioses llorarían ante esta belleza!
+TEXT_JOBREL500_02396_GEROLT_000_110	Échale un ojo a Anabasis. ¡Los mismos dioses llorarían ante esta belleza!
+TEXT_JOBREL500_02396_GEROLT_000_111	Échales un ojo a los Sandungs. ¡Los mismos dioses llorarían ante estas bellezas!
+TEXT_JOBREL500_02396_GEROLT_000_112	Échale un ojo a Cronus. ¡Los mismos dioses llorarían ante esta belleza!
+TEXT_JOBREL500_02396_GEROLT_000_113	Échale un ojo a Deathlocke. ¡Los mismos dioses llorarían ante esta belleza!
+TEXT_JOBREL500_02396_GEROLT_000_114	Échale un ojo a Canopus. ¡Los mismos dioses llorarían ante esta belleza!
+TEXT_JOBREL500_02396_ARDASHIR_000_115	Espero que el anima esté tan contenta como nosotros. ¿Quiere invocarla, <split(<string(gstr1)>, ,1)>?
+TEXT_JOBREL500_02396_ARDASHIR_000_116	Pero ¿dónde está el anima? ¿No responde a su llamado?
+TEXT_JOBREL500_02396_ARDASHIR_000_117	¡No, no puede ser! ¿¡Será que... que no sobrevivió al traslado!?
+TEXT_JOBREL500_02396_BUKINOSEIREI_000_118	¡<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <split(<string(gstr1)>, ,1)>! ¿Pasa algo? Se le ve preocupad<if(gnum4,a,o)>.
+TEXT_JOBREL500_02396_BUKINOSEIREI_000_119	¡Ay, qué maravilla fue! Un gran poder brotó dentro de mí, como nunca había sentido. Por un instante estuve a la deriva, y luego hubo un estallido de color y de luz...
+TEXT_JOBREL500_02396_BUKINOSEIREI_000_120	El resplandor era tan cálido, tan reconfortante, que sentí que me quedaba dormida. Pero entonces oí su voz y me desperté de un sobresalto.
+TEXT_JOBREL500_02396_BUKINOSEIREI_000_121	Nunca me sentí tan viva... ¡Es como si hubiera vuelto a nacer!
+TEXT_JOBREL500_02396_BUKINOSEIREI_000_122	¡<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <split(<string(gstr1)>, ,1)>! ¿Por qué me miras así? ¿Hice algo mal?
+TEXT_JOBREL500_02396_BUKINOSEIREI_000_123	¡Ay, qué maravilla fue! Un gran poder brotó dentro de mí, como nunca había sentido. Por un instante estuve a la deriva, y luego hubo un estallido de color y de luz...
+TEXT_JOBREL500_02396_BUKINOSEIREI_000_125	El resplandor era tan cálido, tan reconfortante, que sentí que me quedaba dormida. Pero entonces oí tu voz y me desperté de un sobresalto.
+TEXT_JOBREL500_02396_BUKINOSEIREI_000_126	¡Nunca me sentí tan viva! ¡Es como si hubiera vuelto a nacer!
+TEXT_JOBREL500_02396_ARDASHIR_000_127	Vuelto a nacer... Sí, en cierto sentido eso es justamente lo que pasó. Te volviste fuerte, tanto que ya no necesitas depender de nadie.
+TEXT_JOBREL500_02396_ARDASHIR_000_128	Sí, ahora eres libre. ¡Libre de partir con <split(<string(gstr1)>, ,1)>, de ver tierras lejanas y de embarcarte en todas las aventuras que este mundo tiene para ofrecer!
+TEXT_JOBREL500_02396_ARDASHIR_000_130	Después de superar tantas pruebas y penurias junt<if(gnum4,as,os)>, me atrevo a decir que se volvieron toda una pareja. Menos <if(gnum4,una aventurera,un aventurero)> y su arma que... amistades inseparables.
+TEXT_JOBREL500_02396_BUKINOSEIREI_000_131	¿Amistades... inseparables?
+TEXT_JOBREL500_02396_ARDASHIR_000_132	Aunque no soy más que un joven de diecisiete veranos, sé lo que significa respetar y cuidar a otro. Esa es la clase de afinidad verdadera que veo en ustedes.
+TEXT_JOBREL500_02396_BUKINOSEIREI_000_133	Me alegra oír semejante elogio. Ahora mi única meta es volverme más fuerte y demostrar que soy una amiga fiel para <split(<string(gstr1)>, ,1)>.
+TEXT_JOBREL500_02396_BUKINOSEIREI_000_134	Me alegra oír semejante elogio. Ahora mi única meta es volverme más fuerte y demostrar que soy una amiga leal para <split(<string(gstr1)>, ,1)>.
+TEXT_JOBREL500_02396_ARDASHIR_000_135	Sin duda tus aventuras con <split(<string(gstr1)>, ,1)> te llevarán a tierras lejanas, donde te enfrentarás a enemigos que apenas puedo imaginar.
+TEXT_JOBREL500_02396_ARDASHIR_000_136	Pero sea cual sea el desafío, debes estar a la altura para superarlo. Junt<if(gnum4,as,os)>, como hacen las verdaderas amistades. Cuando vuelvan de esos viajes, me encantaría oír sus relatos de triunfo.
+TEXT_JOBREL500_02396_ARDASHIR_000_137	Lo logramos, <split(<string(gstr1)>, ,1)>. El anima disfrutará de la vida en todo su esplendor, ahora y para siempre, gracias a su dedicación desinteresada. No tengo palabras para expresarle mi gratitud.
+TEXT_JOBREL500_02396_GEROLT_100_138	Oye, Ardashir.
+TEXT_JOBREL500_02396_GEROLT_000_138	Hace rato que quería decírtelo, pero también le arreglé las alas a esta pequeña. Tal como me pediste.
+TEXT_JOBREL500_02396_ARDASHIR_000_140	Gracias, Gerolt. Solo falta calibrar las articulaciones y estará terminada.
+TEXT_JOBREL500_02396_ARDASHIR_000_141	Ah, sí. Hay otro asunto que quisiera hablar con usted, pero sin duda está cansad<if(gnum4,a,o)> después de un día tan largo. Le deseo buen viaje de vuelta y un merecido descanso. Hablemos otra vez la próxima vez que vuelva a Azys Lla.
+TEXT_JOBREL500_02396_ARDASHIR_000_139	¡Lo logramos, <split(<string(gstr1)>, ,1)>! Garantizamos el futuro de otra vida más, otra compañía con la que podrá explorar los rincones inexplorados de Eorzea. ¡Que sus viajes juntos sean siempre fructíferos!
+TEXT_JOBREL500_02396_SYSTEM_000_060	¡Tu anima weapon renació y el espíritu que lleva adentro está imbuido de un poder nuevo!

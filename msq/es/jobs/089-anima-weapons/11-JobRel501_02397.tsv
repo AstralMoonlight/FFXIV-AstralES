@@ -1,0 +1,36 @@
+key	text
+TEXT_JOBREL501_02397_SEQ_00	El processing node flota sin hacer nada, a la espera de órdenes.
+TEXT_JOBREL501_02397_SEQ_01	Ardashir te explica brevemente cómo se va a crear la nueva soulstone del anima y te encarga conseguir pneumite, un catalizador poco conocido que es esencial para el proceso. Aunque le cuesta admitirlo, no sabe dónde se puede comprar ni fabricar. Ardashir te pide que uses todos tus recursos para dar con este escurridizo componente.
+TEXT_JOBREL501_02397_SEQ_02	Consigues el pneumite por medios que quizá sea mejor no mencionar. Después de cargarlo en el node junto con los cristales de Ardashir, y de completar una actualización del sistema inesperada pero necesaria, te conviertes en <if(gnum4,la orgullosa dueña,el orgulloso dueño)> de una reluciente soulstone nueva. Cuando Gerolt termine de forjar tu arma, el anima no tardará en vivir en su nuevo hogar permanente.
+TEXT_JOBREL501_02397_TODO_00	<if([lnum1<lnum2], Reúne el pneumite., Carga el pneumite en el processing node.)>
+TEXT_JOBREL501_02397_PROCESSSYSTEM_000_001	\<bip> \<bip> Verificando parámetros del sistema...<br>Parámetros del sistema verificados. \<bip> Inserte los materiales.
+TEXT_JOBREL501_02397_ARDASHIR_000_002	¿List<if(gnum4,a,o)> para empezar a trabajar en la soulstone? Excelente. Empecemos por repasar los materiales necesarios.
+TEXT_JOBREL501_02397_ARDASHIR_000_003	Vale la pena mencionar que el mío es un método nuevo para crear soulstones. En lugar de tomar una piedra existente y encantarla, vamos a fabricar un compuesto de cristales de alta pureza.
+TEXT_JOBREL501_02397_ARDASHIR_000_004	Esos cristales son bastante comunes, y hasta yo debería poder conseguirlos.
+TEXT_JOBREL501_02397_ARDASHIR_000_005	El catalizador del proceso, en cambio, va a ser más difícil de encontrar.
+TEXT_JOBREL501_02397_ARDASHIR_000_006	Una peculiar fusión de cristal y materia oscura llamada pneumite. Es esencial para esta forma única de síntesis de soulstones.
+TEXT_JOBREL501_02397_ARDASHIR_000_007	Por desgracia, no sé cómo ni dónde se consigue. Solo vi una muestra en el laboratorio de mi maestro y, aunque me duela admitirlo, nunca se me ocurrió preguntar de dónde venía.
+TEXT_JOBREL501_02397_ARDASHIR_000_008	Me temo que tengo que recurrir a su ingenio de aventurer<if(gnum4,a,o)> para conseguir el pneumite que necesitamos.
+TEXT_JOBREL501_02397_ARDASHIR_000_009	Según mis cálculos, vamos a necesitar no menos de quince para asegurar una fusión exitosa. No es tarea fácil, pero es la única forma de hacer nuestra soulstone.
+TEXT_JOBREL501_02397_ARDASHIR_000_010	Sabía que podía contar con usted. Cuando tenga el pneumite necesario, vuelva aquí y cárguelo en el processing node. Buena suerte, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBREL501_02397_ARDASHIR_000_011	Con ganas de fabricar otra soulstone, ya veo. Entonces conseguiré más cristales.
+TEXT_JOBREL501_02397_ARDASHIR_000_012	El pneumite se lo dejo a usted. Cuando tenga quince, vuelva aquí y cárguelos en el processing node.
+TEXT_JOBREL501_02397_SYSTEM_000_016	El pneumite que pide Ardashir se puede conseguir de varias formas.
+TEXT_JOBREL501_02397_SYSTEM_000_017	¡Habla con otros jugadores y comparte información para descubrir cómo conseguirlo!
+TEXT_JOBREL501_02397_PROCESSSYSTEM_000_020	Parámetros del sistema verificados. \<bip> Inserte los materiales.
+TEXT_JOBREL501_02397_PROCESSSYSTEM_000_021	Catalizador detectado.<br>Analizando... Analizando...<br>Impulsor del catalizador a plena capacidad... Calidad mineral óptima...
+TEXT_JOBREL501_02397_ARDASHIR_000_022	¡Ah, tiene el pneumite! Excelente trabajo.
+TEXT_JOBREL501_02397_ARDASHIR_000_023	Prepararé los cristales de inmediato.
+TEXT_JOBREL501_02397_ARDASHIR_100_023	Están todos los cristales. Ahora a cargarlos en el processing node.
+TEXT_JOBREL501_02397_ARDASHIR_000_024	Con eso debería bastar. Ahora, processing node: inicia el protocolo de síntesis de la soulstone.
+TEXT_JOBREL501_02397_PROCESSSYSTEM_000_025	\<bip> No se puede iniciar el protocolo. Se requiere la versión 10 del sistema operativo para continuar.<br>¿Desea actualizar?
+TEXT_JOBREL501_02397_ARDASHIR_000_026	¿Actualizar...? No estoy seguro de querer...
+TEXT_JOBREL501_02397_PROCESSSYSTEM_000_027	Actualización solicitada.<br>¿Acepta los Términos y Condiciones de Uso estipulados por el Allagan Research Council?
+TEXT_JOBREL501_02397_ARDASHIR_000_028	Pero yo... \<suspiro> Sí, sí, acepto. ¿Puedes iniciar de una vez el protocolo de síntesis?
+TEXT_JOBREL501_02397_PROCESSSYSTEM_000_029	...\<bip> \<bip> Actualización completa. Reiniciando el sistema...<br>\<bip> Iniciando protocolo de síntesis...
+TEXT_JOBREL501_02397_PROCESSSYSTEM_100_029	\<bip> Iniciando protocolo de síntesis.
+TEXT_JOBREL501_02397_ARDASHIR_000_030	\<bip> \<bip> Síntesis completa. Margen de error dentro de los parámetros aceptables.
+TEXT_JOBREL501_02397_ARDASHIR_000_031	¡Funcionó! ¡Funcionó!
+TEXT_JOBREL501_02397_ARDASHIR_000_032	¡Tenemos nuestra soulstone! Llévesela a Gerolt junto con la anima weapon. Es hora de dar el último paso para asegurar el futuro del anima.
+TEXT_JOBREL501_02397_ARDASHIR_000_033	Solo queda condensar lo suficiente el anima para preparar el traslado. Pronto, amig<if(gnum4,a,o)>. ¡Pronto estaremos listos para el último paso para asegurar el futuro del anima!
+TEXT_JOBREL501_02397_ARDASHIR_000_034	Le ruego que guarde bien esa soulstone, amig<if(gnum4,a,o)>. La vamos a necesitar cuando esté list<if(gnum4,a,o)> para trabajar con otra anima.

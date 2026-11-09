@@ -1,0 +1,114 @@
+key	text
+TEXT_JOBREL400_02379_SEQ_00	Ardashir está pensando en el estado actual del anima.<br>※Cambiar de clase o job impedirá avanzar en esta misión.
+TEXT_JOBREL400_02379_SEQ_01	Ardashir parece satisfecho con los resultados de su investigación hasta ahora, tanto que piensa volver pronto a Radz<-->at<-->Han para presentar sus hallazgos. A Gerolt, en cambio, le desconcierta semejante presunción y no pierde tiempo en reprenderlo. Ardashir acepta a regañadientes la verdad, que su trabajo todavía no está terminado, y pronto propone una forma de fortalecer temporalmente la anima weapon. Pero para que su plan funcione hace falta una solución de ceruleum, que le encargó a un hábil destilador de Idyllshire. Mientras empieza otros preparativos para la anima weapon, te pide que vayas a ver a ese artesano, un tal Blamprest, en Idyllshire.<br><br>※No puedes avanzar con una clase o job distinto del que tenías al aceptar esta misión.
+TEXT_JOBREL400_02379_SEQ_02	Blamprest te asegura que el pedido de Ardashir va muy avanzado. Pero se retrasó porque necesita singing clusters. Como son difíciles de conseguir, le encargó la tarea a un par de hermanas, magas habilidosas que aceptaron ayudar... a cambio de un precio. Apenas las menciona, aparecen frente a ti pidiendo el pago por su trabajo. Para tu sorpresa, y tu disgusto, él les dice que aceptaste con gusto pagarles en su lugar. Todavía no te explicaron cómo tienes que pagarles, pero como tu única alternativa es negociar en Rowena's Center for Cultural Promotion, te armas de valor para afrontar pruebas de peligro desconocido.
+TEXT_JOBREL400_02379_SEQ_03	Después de someterte a los peculiares caprichos de Amphelice y Angelet, por fin le entregas los singing clusters a Blamprest, que entonces prepara el elixir necesario para la poción fortificante de la anima weapon. Con su trabajo terminado y el elixir en tus manos, te desea buen viaje de vuelta a Azys Lla.
+TEXT_JOBREL400_02379_SEQ_04	Vuelves a Azys Lla con el elixir. Pero la segunda botella que dejas en el banco de trabajo de Ardashir lo deja perplejo. Cuando le explicas que era un pedido de licor que hizo Gerolt, se da cuenta de golpe de algo alarmante: Gerolt despilfarró parte del dinero que les prestó Rowena para hacer la compra. Aunque está furioso, no puede negar los efectos extraños pero beneficiosos del alcohol en el trabajo de Gerolt. Cuando recupera la compostura, termina su poción y pone a Gerolt a trabajar para fortalecer la anima weapon. Para alegría de todos, el plan de Ardashir fue un éxito. Además, te muestra un droide allagano que podría ser la clave para asegurar la longevidad del anima, si es que se puede reparar.<br><br>※ Los atributos de la anima weapon se pueden redistribuir hablando con Ulan en Idyllshire.
+TEXT_JOBREL400_02379_TODO_00	Con <if([lnum4==19],<ennoun(Item,2,15223,1,1)> y <ennoun(Item,2,15236,1,1)>,<if([lnum4==20],<ennoun(Item,2,15224,1,1)>,<if([lnum4==21],<ennoun(Item,2,15225,1,1)>,<if([lnum4==22],<ennoun(Item,2,15226,1,1)>,<if([lnum4==23],<ennoun(Item,2,15227,1,1)>,<if([lnum4==24],<ennoun(Item,2,15231,1,1)>,<if([lnum4==25],<ennoun(Item,2,15232,1,1)>,<if([lnum4==27],<ennoun(Item,2,15233,1,1)>,<if([lnum4==28],<ennoun(Item,2,15234,1,1)>,<if([lnum4==30],<ennoun(Item,2,15228,1,1)>,<if([lnum4==31],<ennoun(Item,2,15230,1,1)>,<if([lnum4==32],<ennoun(Item,2,15229,1,1)>,<if([lnum4==33],<ennoun(Item,2,15235,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> equipado o en tu inventario, habla con Blamprest en Idyllshire.
+TEXT_JOBREL400_02379_TODO_01	<if([lnum1<lnum2], Reúne los singing clusters.,Con <if([lnum4==19],<ennoun(Item,2,15223,1,1)> y <ennoun(Item,2,15236,1,1)>,<if([lnum4==20],<ennoun(Item,2,15224,1,1)>,<if([lnum4==21],<ennoun(Item,2,15225,1,1)>,<if([lnum4==22],<ennoun(Item,2,15226,1,1)>,<if([lnum4==23],<ennoun(Item,2,15227,1,1)>,<if([lnum4==24],<ennoun(Item,2,15231,1,1)>,<if([lnum4==25],<ennoun(Item,2,15232,1,1)>,<if([lnum4==27],<ennoun(Item,2,15233,1,1)>,<if([lnum4==28],<ennoun(Item,2,15234,1,1)>,<if([lnum4==30],<ennoun(Item,2,15228,1,1)>,<if([lnum4==31],<ennoun(Item,2,15230,1,1)>,<if([lnum4==32],<ennoun(Item,2,15229,1,1)>,<if([lnum4==33],<ennoun(Item,2,15235,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> equipado o en tu inventario\, entrégale los singing clusters a Blamprest en Idyllshire.)>
+TEXT_JOBREL400_02379_TODO_02	Con <if([lnum4==19],<ennoun(Item,2,15223,1,1)> y <ennoun(Item,2,15236,1,1)>,<if([lnum4==20],<ennoun(Item,2,15224,1,1)>,<if([lnum4==21],<ennoun(Item,2,15225,1,1)>,<if([lnum4==22],<ennoun(Item,2,15226,1,1)>,<if([lnum4==23],<ennoun(Item,2,15227,1,1)>,<if([lnum4==24],<ennoun(Item,2,15231,1,1)>,<if([lnum4==25],<ennoun(Item,2,15232,1,1)>,<if([lnum4==27],<ennoun(Item,2,15233,1,1)>,<if([lnum4==28],<ennoun(Item,2,15234,1,1)>,<if([lnum4==30],<ennoun(Item,2,15228,1,1)>,<if([lnum4==31],<ennoun(Item,2,15230,1,1)>,<if([lnum4==32],<ennoun(Item,2,15229,1,1)>,<if([lnum4==33],<ennoun(Item,2,15235,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario, entrégale el distilled ceruleum y el moonrise a Ardashir en Azys Lla.
+TEXT_JOBREL400_02379_SYSTEM_000_000	Ten en cuenta que al completar la misión "Future Proof" recibirás una anima weapon para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_JOBREL400_02379_Q1_000_000	¿Qué haces?
+TEXT_JOBREL400_02379_A1_000_000	Aceptar esta misión con otro job.
+TEXT_JOBREL400_02379_A2_000_000	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_JOBREL400_02379_SYSTEM_000_001	Una vez que aceptes esta misión, no podrás avanzar con una clase o un job distinto del que tenías al aceptarla.
+TEXT_JOBREL400_02379_SYSTEM_000_002	Asegúrate de cambiar al job que deseas antes de hablar con Ardashir.
+TEXT_JOBREL400_02379_SYSTEM_000_003	Para hacer la misión "Future Proof" debes tener equipados <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>.
+TEXT_JOBREL400_02379_SYSTEM_000_004	Para hacer la misión "Future Proof" debes tener equipado <ennoun(Item,2,lnum1,1,1)>.
+TEXT_JOBREL400_02379_SYSTEM_000_005	Ya recibiste <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>. Cambia a otro job y habla otra vez con Ardashir.
+TEXT_JOBREL400_02379_SYSTEM_000_006	Ya recibiste <ennoun(Item,2,lnum1,1,1)>. Cambia a otro job y habla otra vez con Ardashir.
+TEXT_JOBREL400_02379_ARDASHIR_000_001	Ahora que el anima puede mantener una forma visible incluso para quienes no tienen sus habilidades, se puede decir que mi investigación está prácticamente terminada. Nuestra última tarea es perfeccionar las habilidades que haya ganado hasta ahora.
+TEXT_JOBREL400_02379_ARDASHIR_000_002	Una vez que eso esté hecho, volveré a Radz<-->at<-->Han y me prepararé para presentar mis hallazgos. Me atrevo a decir que nuestro trabajo aquí cambiará para siempre el estudio de la invocación arcana tal como lo conocemos.
+TEXT_JOBREL400_02379_GEROLT_000_003	¿De qué demonios hablas, muchacho? Entiendo que estés entusiasmado, ahora que por fin podemos ver el anima y todo eso, pero creo que estás perdiendo de vista de qué se trata nuestro trabajo.
+TEXT_JOBREL400_02379_ARDASHIR_000_004	¡Absurdo! La meta de <italic(1)>mi<italic(0)> trabajo era crear un ser consciente capaz de pensar por sí mismo, que luego pudiera servir para ayudar a otros.
+TEXT_JOBREL400_02379_GEROLT_000_005	¿Ah, sí? ¿Y de verdad crees que lo lograste? ¡Patrañas! No hay forma de que algo que creció tanto, tan rápido, esté estable de ninguna manera.
+TEXT_JOBREL400_02379_GEROLT_000_006	Pinchamos y toqueteamos al maldito bicho más veces de las que me gustaría contar, y por la gracia de Rhalgr de algún modo no lo arruinamos. Pero dime una cosa: ¿qué pasa cuando haga falta forjar un arma nueva y no estemos cerca, eh?
+TEXT_JOBREL400_02379_GEROLT_000_007	Yo te digo qué: se le van a quedar chicos los pantalones aetéricos y va a caer redonda. Lo que el anima necesita ahora es un cuerpo que la aguante sin importar lo fuerte que se ponga. Hasta que demos con eso, si me preguntas, tu <italic(1)>trabajo<italic(0)> no vale ni un meado en una tetera.
+TEXT_JOBREL400_02379_GEROLT_000_008	Ah, pero qué voy a saber yo. Solo soy un borracho ignorante con un martillo. Seguro que un muchacho refinado y erudito como tú ya consideró esas complicaciones.
+TEXT_JOBREL400_02379_ARDASHIR_000_009	¡Hmph! Lo único más insoportable que un borracho... es un borracho que tiene razón. Me encandiló tanto su resplandor que no me detuve a pensar en el futuro, y puse mis propios deseos por delante de las necesidades del anima.
+TEXT_JOBREL400_02379_GEROLT_000_010	Bueno, habrá tiempo de sobra para lamentarse cuando terminemos y me libre de esa bruja de Rowena. Por ahora, tenemos que pensar en una forma de darle al anima un hogar nuevo y permanente.
+TEXT_JOBREL400_02379_GEROLT_000_011	El arma que la tiene ahora debería aguantar por un tiempo. Tú vigila al anima mientras nosotros resolvemos el resto.
+TEXT_JOBREL400_02379_ARDASHIR_000_012	En realidad, puede que ya tenga una solución, aunque sea provisoria, gracias en parte a Ulan y sus estudios.
+TEXT_JOBREL400_02379_ARDASHIR_000_013	Estábamos trabajando en una especie de poción para fortalecer la anima weapon, para que pueda soportar un crecimiento mayor. La dificultad resultó ser que necesitábamos ceruleum. Había que destilarlo para que nos sirviera, y simplemente no teníamos los medios para hacerlo.
+TEXT_JOBREL400_02379_ARDASHIR_000_014	Pero quiso la suerte que nos enteráramos de que un destilador famoso acababa de llegar a Idyllshire, y fuimos a buscarlo de inmediato. Después de exponerle nuestro caso, aceptó ayudarnos encantado. Se llama Blamprest. ¿Podría hacerle una visita y ver cómo va todo?
+TEXT_JOBREL400_02379_ARDASHIR_000_015	Hay otros preparativos que hacer, claro, pero Gerolt y yo nos encargaremos de ellos. Todo debería estar en orden cuando vuelva.
+TEXT_JOBREL400_02379_GEROLT_000_016	Blamprest, ¿eh? Eso me da una idea...
+TEXT_JOBREL400_02379_ARDASHIR_000_017	¿List<if(gnum4,a,o)> para potenciar otra anima? Todavía queda mucho por hacer antes de que podamos fabricar una nueva soulstone y una nueva arma, eso sí, pero por ahora otra poción debería mantenerla a salvo hasta que estemos listos.
+TEXT_JOBREL400_02379_ARDASHIR_000_018	Para eso vamos a tener que encargarle más distilled ceruleum a Blamprest.
+TEXT_JOBREL400_02379_ARDASHIR_000_019	Ya le hice el pedido de otra botella, así que mientras nos ocupamos de las cosas aquí, me gustaría que fuera a hablar con él. Sin eso no podemos hacer nada por el anima.
+TEXT_JOBREL400_02379_GEROLT_000_020	Sí, y dile a Blamprest que no aceptamos nada menos que lo mejor que tenga, ¿me oíste?
+TEXT_JOBREL400_02379_BLAMPREST_000_030	Bienvenid<if(gnum4,a,o)>, amig<if(gnum4,a,o)>. ¿En qué puedo ayudarte?
+TEXT_JOBREL400_02379_BLAMPREST_000_031	¿Un pedido para quién? Ah, sí. Ese tipo erudito. Ardashir, ¿no? Su pedido va muy avanzado.
+TEXT_JOBREL400_02379_BLAMPREST_000_032	Pero trabajar con ceruleum no es tarea fácil. Destilar una sustancia tan volátil exige una gran concentración de aether, y la única fuente lo bastante potente son los singing clusters. Son muy raros, ¿sabes? Y para un pedido como este, bueno, harían falta cincuenta como mínimo.
+TEXT_JOBREL400_02379_BLAMPREST_000_033	Conseguir semejantes rarezas está fuera de mi alcance, pero pedí la ayuda de dos excelentes magas jóvenes para que se encarguen. Si tan solo sus servicios no fueran tan caros...
+TEXT_JOBREL400_02379_AMPHELICE_000_034	(-Mujer de negocios cortante-)Ahí estás. Trajimos lo que pediste. ¿Supongo que estás listo para cumplir con tu parte del trato?
+TEXT_JOBREL400_02379_BLAMPREST_000_035	¡Vaya, qué oportuno! <if(gnum4,Esta señorita,Este caballero)> justo me estaba diciendo que nada le gustaría más que ofrecerles sus servicios en mi lugar.
+TEXT_JOBREL400_02379_BLAMPREST_000_036	Ejem. Estas son las dos encantadoras damas de las que te hablé, ¿te acuerdas? ¿Las que están reuniendo los singing clusters que necesitas?
+TEXT_JOBREL400_02379_AMPHELICE_000_037	Un placer conocerte. Me llamo Amphelice, y ella es mi hermana, Angelet.
+TEXT_JOBREL400_02379_AMPHELICE_000_038	Seré breve. Blamprest aceptó hacer ciertas... tareas a cambio de nuestra ayuda. Si las haces en su lugar, te pagaremos con los clusters que buscas. ¿De acuerdo?
+TEXT_JOBREL400_02379_BLAMPREST_000_039	Espléndido. Ahora que eso está arreglado, las dejo con lo suyo. Cuando tengas lo que necesitamos, vuelve y veré cómo destilar ese elixir.
+TEXT_JOBREL400_02379_BLAMPREST_000_040	Ah, eso me recuerda algo. Una mercader que trabaja para Rowena vende singing clusters. Creo que era Hismena. Todos sus nombres suenan parecido. En fin, si sus tareas te parecen demasiado trabajo, siempre puedes intentar hacer un trato con ella.
+TEXT_JOBREL400_02379_BLAMPREST_000_050	Ah, pero si es mi cliente favorit<if(gnum4,a,o)>. ¿Vienes por otra botella de distilled ceruleum?
+TEXT_JOBREL400_02379_AMPHELICE_000_051	Entonces voy a esperar más historias a cambio de nuestros clusters.
+TEXT_JOBREL400_02379_BLAMPREST_000_052	Igual que antes, vas a necesitar cincuenta en total. Con menos no puedo garantizar la calidad de mi trabajo. Cuando hayas hecho todo lo que te pidan, vuelve conmigo con los clusters. Para entonces todo debería estar listo.
+TEXT_JOBREL400_02379_BLAMPREST_000_053	Claro que, si sus tareas te parecen demasiado exigentes, siempre puedes intentar regatear con Hismena. Sin duda le encantaría la oportunidad de hacer más negocios.
+TEXT_JOBREL400_02379_SYSTEM_000_010	Ahora puedes aceptar una misión repetible tanto de Amphelice como de Angelet.
+TEXT_JOBREL400_02379_SYSTEM_000_011	Al completar cualquiera de estas misiones repetibles, obtendrás singing clusters que luego puedes entregarle a Blamprest.
+TEXT_JOBREL400_02379_SYSTEM_000_012	También puedes comprarle singing clusters a Hismena en Rowena's Center for Cultural Promotion.
+TEXT_JOBREL400_02379_BLAMPREST_000_060	Lo siento, amig<if(gnum4,a,o)>, pero sin singing clusters no puedo hacer nada.
+TEXT_JOBREL400_02379_BLAMPREST_000_061	Si los consigues con Amphelice y su hermana o regateando con Hismena, eso lo dejo a tu criterio.
+TEXT_JOBREL400_02379_BLAMPREST_000_070	A juzgar por esa sonrisa, ¿debo entender que tienes los clusters que necesito?
+TEXT_JOBREL400_02379_BLAMPREST_000_071	Sí, sí, esto servirá muy bien. Espera aquí un momento.
+TEXT_JOBREL400_02379_BLAMPREST_000_072	Aquí está. Un pedido de distilled ceruleum. Pero antes de que te vayas, tengo que preguntarte: si trabajas con Ardashir, también conocerás a Gerolt, ¿no? Me encargó una botella de mi mejor licor. Ahora que terminamos con el encargo de Ardashir, me gustaría encargarme del suyo, si no te molesta.
+TEXT_JOBREL400_02379_BLAMPREST_000_073	Jaja, no te preocupes por el pago, amig<if(gnum4,a,o)>. Él pagó por adelantado. Solo te pido que lleves su paquete.
+TEXT_JOBREL400_02379_BLAMPREST_000_074	Hacía tanto que no venía a verme. Ya empezaba a temer que los prestamistas por fin hubieran acabado con él, o peor, ¡que se hubiera vuelto abstemio! En fin, me alegra que parezca haber vuelto a ser el de siempre. Cuídate, y salúdalos de mi parte.
+TEXT_JOBREL400_02379_BLAMPREST_000_081	Aquí está. Ardashir va a quedar muy contento, y seguro que Gerolt también.
+TEXT_JOBREL400_02379_BLAMPREST_000_082	Mándales mis saludos, y dile a Gerolt que me alegra ver que volvió a sus viejas costumbres.
+TEXT_JOBREL400_02379_BLAMPREST_000_083	Me imagino que me voy a quedar aquí en Idyllshire por un buen tiempo. Si Ardashir necesita más ceruleum, o Gerolt su licor, ya sabes dónde encontrarme.
+TEXT_JOBREL400_02379_ARDASHIR_000_090	Bienvenid<if(gnum4,a,o)> de vuelta, <split(<string(gstr1)>, ,1)>. Avanzamos mucho mientras no estaba. De hecho, estoy muy cerca de una solución más permanente a nuestros problemas.
+TEXT_JOBREL400_02379_ARDASHIR_000_091	Pero primero, hagamos lo que podamos para fortalecer el recipiente actual del anima. ¿Podría ver la espada y el escudo en cuestión? Ah, y el distilled ceruleum, claro.
+TEXT_JOBREL400_02379_ARDASHIR_000_092	Pero primero, hagamos lo que podamos para fortalecer el recipiente actual del anima. ¿Podría ver el arma en cuestión? Ah, y el distilled ceruleum, claro.
+TEXT_JOBREL400_02379_ARDASHIR_000_093	Bien, entonces. Ahora a preparar la poción.
+TEXT_JOBREL400_02379_ARDASHIR_100_093	...<split(<string(gstr1)>, ,1)>, ¿por qué exactamente preparó Blamprest <italic(1)>dos<italic(0)> botellas? ¿Hay que mezclarlas?
+TEXT_JOBREL400_02379_ARDASHIR_000_094	¿Gerolt encargó una botella de licor? Si tuviera dinero para gastar, estaría de juerga en alguna taberna mugrienta, no aquí pagando sus deudas con trabajo. La única forma en que podría pagar eso sería...
+TEXT_JOBREL400_02379_ARDASHIR_000_095	¡Nuestros fondos! ¡Borracho egoísta y cabeza de chorlito! ¿¡Te gastaste en licor los fondos que nos dio Rowena!?
+TEXT_JOBREL400_02379_ARDASHIR_000_096	Sí, eso hice. Tómalo como el pago que me debías por recordarte que el egoísta eras tú, con todo ese parloteo de que ya habías terminado con el anima.
+TEXT_JOBREL400_02379_ARDASHIR_000_097	¿¡Otra botella de licor!? Por los dioses, ¿cómo le explico esto a Rowena?
+TEXT_JOBREL400_02379_GEROLT_000_098	...No me mires así. Sabes que no puedo hacer mi mejor trabajo sin mi musa. Ahora apúrate con esa poción. El arma de <split(<string(gstr1)>, ,1)> no se va a martillar sola.
+TEXT_JOBREL400_02379_ARDASHIR_000_099	¡De verdad eres insoportable! Cuando esto termine, vas a aprender que malgastar el dinero ajeno tiene consecuencias. El dinero de Rowena.
+TEXT_JOBREL400_02379_ARDASHIR_000_100	En serio, Gerolt, ¿por qué no puedes aprender a forjar armas como un hombre normal? Un hombre sobrio...
+TEXT_JOBREL400_02379_ARDASHIR_000_101	\<suspiro> Cálmate, Ardashir. Hay trabajo que hacer.
+TEXT_JOBREL400_02379_GEROLT_000_102	deleted
+TEXT_JOBREL400_02379_ARDASHIR_000_103	Listo, la poción está terminada. Solo queda aplicarla a la anima weapon.
+TEXT_JOBREL400_02379_ARDASHIR_100_103	El resto te lo dejo a ti.
+TEXT_JOBREL400_02379_GEROLT_000_104	Un trabajo de primera, si se me permite decirlo.
+TEXT_JOBREL400_02379_GEROLT_000_105	Un arma afilada con un brebaje de ceruleum puro. Hmm, me gusta cómo suena: ¡<ennoun(Item,3,lnum1,1,1)>!
+TEXT_JOBREL400_02379_GEROLT_000_106	Una espada y un escudo afilados con un brebaje de ceruleum puro. Hmm, me gusta cómo suena: ¡<ennoun(Item,3,lnum1,1,1)> y <ennoun(Item,3,lnum2,1,1)>!
+TEXT_JOBREL400_02379_BUKINOSEIREI_000_107	Siento una nueva fuerza que brota en mi interior. ¿Será que estoy alcanzando todo mi potencial?
+TEXT_JOBREL400_02379_BUKINOSEIREI_000_108	Siento una nueva fuerza que brilla en mi interior. ¿Será que estoy alcanzando todo mi potencial?
+TEXT_JOBREL400_02379_Q2_000_000	¿Qué dices?
+TEXT_JOBREL400_02379_A2_000_001	Ya casi lo logras.
+TEXT_JOBREL400_02379_A2_000_002	Creo que todavía puedes mejorar.
+TEXT_JOBREL400_02379_A2_000_003	...
+TEXT_JOBREL400_02379_BUKINOSEIREI_000_109	¿Eso crees? ¿De verdad? Haré lo posible por no decepcionarte.
+TEXT_JOBREL400_02379_BUKINOSEIREI_000_110	¿De verdad lo cree? Entonces debo hacer todo lo que pueda para no fallarle.
+TEXT_JOBREL400_02379_BUKINOSEIREI_000_111	Sí, claro. Redoblaré mis esfuerzos para algún día estar a la altura de lo que esperas.
+TEXT_JOBREL400_02379_BUKINOSEIREI_000_112	Sí, claro. Me apresuré al esperar tanto tan pronto. Haré lo posible por estar a la altura de lo que espera.
+TEXT_JOBREL400_02379_BUKINOSEIREI_000_113	No puedo leer tus pensamientos, pero creo que tu silencio deja la respuesta bastante clara.
+TEXT_JOBREL400_02379_BUKINOSEIREI_000_114	Me haré más fuerte, <split(<string(gstr1)>, ,1)>. Juntos veremos de qué soy capaz.
+TEXT_JOBREL400_02379_BUKINOSEIREI_000_115	Ojalá pudiera leer sus pensamientos... Aun así, su silencio me dice mucho.
+TEXT_JOBREL400_02379_BUKINOSEIREI_000_116	Me haré más fuerte, <split(<string(gstr1)>, ,1)>. Juntos descubriremos mi verdadero potencial.
+TEXT_JOBREL400_02379_ARDASHIR_000_117	Me alegra ver que nuestro trabajo fue un éxito. El anima parece más fuerte que antes, y su recipiente sigue en buen estado.
+TEXT_JOBREL400_02379_ARDASHIR_000_118	Ah, sí. Hablando del recipiente, ¡tengo que contarle nuestra solución, pronto permanente, para manejar el crecimiento del anima!
+TEXT_JOBREL400_02379_ARDASHIR_000_119	No solo forjaremos un arma nueva, sino también una nueva soulstone que aloje su esencia.
+TEXT_JOBREL400_02379_ARDASHIR_000_120	Buscando una forma de hacerlo, me topé con algo muy interesante. Espere aquí un momento.
+TEXT_JOBREL400_02379_PROCESSSYSTEM_000_121	\<bip> \<bip> Iniciando protocolos de síntesis... Inserte los materiales.
+TEXT_JOBREL400_02379_ARDASHIR_000_122	¿Qué le parece? Sin duda este droide allagano se usaba para trabajos que requerían una precisión que ningún hombre puede alcanzar. <italic(1)>Se usaba<italic(0)>, esa es la palabra clave. Por más que lo intente, cada vez que inicio su secuencia de producción...
+TEXT_JOBREL400_02379_ARDASHIR_000_123	\<bip> \<bip> Error interno. No se puede procesar.
+TEXT_JOBREL400_02379_ARDASHIR_000_124	\<suspiro> El sistema se cae...
+TEXT_JOBREL400_02379_ARDASHIR_100_124	Llevará tiempo, pero recuerde mis palabras: repararé este dispositivo allagano.
+TEXT_JOBREL400_02379_ARDASHIR_000_125	Una vez reparado, confío en que podré fabricar para el anima una nueva soulstone que dure mil vidas.
+TEXT_JOBREL400_02379_ARDASHIR_100_125	Y para mi sorpresa, Gerolt ya tomó la iniciativa de empezar a trabajar en un arma nueva, una digna de las nuevas alturas a las que podría llegar nuestra compañera aetérica. Puede estar tranquil<if(gnum4,a,o)>: nos pondremos en contacto con usted cuando los preparativos estén listos.
+TEXT_JOBREL400_02379_ARDASHIR_000_126	Hasta la próxima, amig<if(gnum4,a,o)>.
+TEXT_JOBREL400_02379_ARDASHIR_000_127	Otra anima a salvo. Por ahora, al menos. Espero con ansias el día en que esté a salvo en su nuevo recipiente. Confío en que la cuidará bien hasta entonces.
+TEXT_JOBREL400_02379_SYSTEM_000_020	¡Tu anima weapon fue afilada y ahora aprovecha la fuerza creciente que lleva adentro!

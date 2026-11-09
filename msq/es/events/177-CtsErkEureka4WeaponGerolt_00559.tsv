@@ -1,0 +1,106 @@
+key	text
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_000	¿Con ganas de hablar de mejoras, eh? Yo también, <if(gnum4,muchacha,muchacho)>, pero tus armas no están listas para lo que les tengo preparado. Primero ponlas a punto allá en Pyros.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_010	¿Sabes...? Mirando atrás, recorrimos un largo camino. Y si es cierto lo que se dice en el campamento, aquí termina el viaje.<br>...Bah, mírame queriendo ponerme poético. Siento que me salen boñigas calientes de la maldita boca. Sigamos con lo nuestro, ¿eh?
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_011	¡Bueno! La vez pasada fortalecimos el arma infundiéndole mnemes. La llenamos casi hasta reventar con el poder de los recuerdos.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_012	Aunque ya no le cabe ni un mneme más, lo que ya tiene sí <italic(1)>podemos<italic(0)> reforzarlo. Y eso es justo lo que vamos a hacer, con aether de cristales y cosas así.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_013	Pero te advierto: cuando empecemos con un arma, no vas a poder mejorarla en la estación mnemeworks.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_014	Al menos hasta que terminemos de mejorarla. Tenlo en cuenta.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_015	Y eso es todo, en resumen. Anda, ve. Consígueme los materiales que necesitamos y me pongo a trabajar.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_016	Cuando empieces a mejorar un arma Pyros, no podrás imbuirla de propiedades adicionales por un tiempo.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_017	Podrás volver a imbuirla cuando el arma haya recibido todas las mejoras disponibles en Hydatos.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_100_020	Oí que encontraste algo llamado <ennoun(Item,1,24808,1,1)> allá arriba, en el Baldesion Arsenal.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_110_020	Eso es material potente, sí señor. Con eso puedo imbuir tu arma de poder elemental. Y aquí nunca sobra.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_120_020	<head(<ennoun(Item,3,24808,2,1)>)>: sirven para imbuir tu arma Eureka terminada con la propiedad adicional <colortype(500)><edgecolortype(501)>Elemental Bonus<edgecolortype(0)><colortype(0)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_130_020	Esta bonificación fortalece todos tus atributos elementales para darte ventaja en combate contra las temibles criaturas de Eureka.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_140_020	Ten en cuenta que la bonificación no cambia la apariencia ni los efectos visuales de las armas, ni mejora otros atributos como el poder de ataque.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_020	Ah, ahí está. ¿Qué me traes esta vez?
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_Q1_000_000	¿Qué quieres hacer?
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A1_000_001	Mejorar un arma Eureka.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A1_000_002	Entregar <ennoun(Item,1,24808,1,1)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A1_000_003	Informarte sobre cómo mejorar las armas Eureka.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A1_000_004	Nada.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_100	Todo muy lindo, ¡pero no puedes esperar que mejore lo que no tienes!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_Q2_001_000	Elige un arma Eureka.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A2_001_001	<sheet(Item,lnum1,9)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A2_001_003	<sheet(Item,lnum1,9)> y <sheet(Item,lnum2,9)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A2_001_002	Cancelar.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_130	¿Lo que todavía tienes en tus manitos calientes, <ennoun(Item,3,lnum1,1,1)>? Oye, a esta altura deberías saber que no puedo trabajar en un arma que tienes empuñada.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_140	¿<head(<ennoun(Item,1,lnum1,1,1)>)>, dices? Muy bien. Veamos el resto de los materiales necesarios, entonces, ¿eh?
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_150	Bah, así no sirve. Por lo que veo, te falta<if([lnum1==1],,n)> <if([lnum1==1],<ennoun(Item,1,24807,1,1)>,<if(lnum1,<if([lnum1<=10],<switch(lnum1,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)> <ennoun(Item,3,24807,2,1)>)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_151	No tienes los <ennoun(Item,3,24807,2,1)> necesarios para mejorar <ennoun(Item,2,lnum1,1,1)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_152	Además, al mejorar tu arma, quizá tengas que conseguir algo distinto de <ennoun(Item,3,24807,2,1)>. ¡Habla con otros jugadores y comparte información para descubrir cómo seguir!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_160	Bueno, qué lástima. Tienes <ennoun(Item,3,24807,2,1)> de sobra, sí, pero eso solo no alcanza para este trabajo.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_161	Para mejorar <ennoun(Item,2,lnum1,1,1)>, tendrás que conseguir algo distinto de <ennoun(Item,3,24807,2,1)>. ¡Habla con otros jugadores y comparte información para descubrir cómo seguir!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_170	Ajá, déjame ver eso. ¿<head(<ennoun(Item,3,lnum1,2,1)>)>? Me parece que es justo lo que estaba buscando, pero voy a necesitar más. <head(<if(lnum2,<if([lnum2<=10],<switch(lnum2,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)>)> o algo así.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_171	No tienes los <ennoun(Item,3,lnum2,2,1)> necesarios para mejorar <ennoun(Item,2,lnum1,1,1)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_180	¡Maldita sea, <if(gnum4,muchacha,muchacho)>! ¡No puedes esperar que mejore tu hoja sin <ennoun(Item,2,lnum1,1,1)> que la acompaña! ¡Son un juego, sí señor!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_181	Para mejorar <ennoun(Item,2,lnum1,1,1)>, también tienes que tener <ennoun(Item,2,lnum2,1,1)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_190	¡Ja, ja, muy gracioso, <if(gnum4,muchacha,muchacho)>! ¡Los dos sabemos muy bien que ya tienes <ennoun(Item,1,lnum1,1,1)>, y no pienso hacer otra igual!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_191	No puedes tener más de una unidad de <ennoun(Item,3,lnum1,1,1)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_200	Sí, sí. Parece que está todo listo. Dámelo todo y me pongo a trabajar.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_210	Bien, entonces. Quédate tranquil<if(gnum4,a,o)> y me pongo a trabajar...
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_220	Je, este es un trabajo malditamente bueno, y lo digo yo. Le exprimí hasta la última gota de poder a los materiales, sí señor.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_230	Te presento... ¡<ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_240	Te presento... ¡<ennoun(Item,2,lnum1,1,1)>!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_250	Por impresionante que sea, todavía se puede mejorar, siempre que tenga los materiales adecuados para trabajar. A ver si me los consigues, ¿eh?
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_260	Listo. Tu arma se dio un buen trago del poder de Hydatos.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_270	Te presento... ¡<ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_280	Te presento... ¡<ennoun(Item,2,lnum1,1,1)>!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_290	Ya estamos muy cerca, <if(gnum4,muchacha,muchacho)>. Una vez más trabajando en esta arma, y me parece que puedo dejarla en lo mejor que puede ser.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_291	Si te suena bien, vuelve allá afuera y consígueme más materiales.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_300	¡Ja, estas manos dieron a luz una maldita obra maestra! Tu arma... ¡por fin está terminada!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_310	Te presento... ¡<ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_320	Te presento... ¡<ennoun(Item,2,lnum1,1,1)>!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_330	Asombrosa, ¿no? Digna de un maldito dios. Pero claro, yo soy un dios entre los forjadores de armas.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_DRAKE_000_331	Maestro Gerolt, llegó una carta para usted con el último cargamento. Es de la señora Rowena.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_333	¿De esa arpía? ¿De qué demonios se tratará?
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_303	¿¡M-Me engañan los ojos!? ¡Aquí dice que todas mis deudas están pagadas por completo!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_DRAKE_000_334	¡Por fin lo logró! ¡Felicitaciones!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_335	Por fin, un hombre libre... Ahhh, me da vueltas la cabeza solo de imaginar las posibilidades...
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_336	¿Hm? Hay un papel pegado atrás...
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_337	Una factura por la suma de... ¿¡<italic(1)>qué carajos en todos los infiernos<italic(0)>!? ¡E-Esto es tanto como la deuda que acabo de saldar!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_DRAKE_000_338	P-Por los Twelve... ¿Qué pudo haber comprado?
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_339	Grog. Grog común y corriente. Tenía tiempo libre, así que pedí que me mandaran un cajón. Será que esta isla queda lejos... ¡pero <italic(1)>cien veces<italic(0)> el precio de mercado! ¡Esto es una maldita broma!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_DRAKE_000_340	Parece que no vamos a dejar la isla en un buen tiempo...
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_341	\<suspiro> Bueno, de vuelta al yugo... Sí, eso va también por ti, <if(gnum4,muchacha,muchacho)>. Necesito que me sigas trayendo materiales.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_343	Bueno, hablábamos de tu arma. Como te dije, está terminada. No hay nada más que pueda hacer por ella.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_345	Solo queda que la empuñes como se merece.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_346	Si lo entiendes, ¿qué esperas? ¡Vuelve allá afuera y arma un infierno!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_349	Ahora puedes imbuir tu arma Eureka terminada de propiedades adicionales en la estación mnemeworks de <sheet(ContentFinderCondition,lnum1,43)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_350	Y así de fácil nace otra obra maestra. Te juro que mi genio no tiene límites. Ni mis deudas, ya que estamos...
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_351	En fin, tu arma está terminada. ¡Sal allá afuera y dale buen uso!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_050_370	¿Eh? ¿Tienes <ennoun(Item,3,24808,2,1)> para mí o no? Si no, lárgate.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_055_370	Para imbuir tu arma de poder elemental, tienes que tener la cantidad necesaria de <ennoun(Item,3,24808,2,1)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_100_370	Vaya, mira lo que tenemos aquí. Sí, puedo usar esto para imbuir tu arma de poder elemental.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_100_380	Pero voy a necesitar más. <head(<if(lnum1,<if([lnum1<=10],<switch(lnum1,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)>)> más, para ser exactos. Junta esa cantidad y hablamos.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_100_381	Para imbuir tu arma de poder elemental, tienes que tener la cantidad necesaria de <ennoun(Item,3,24808,2,1)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_100_390	Parece que también tienes suficiente. Ahora solo tienes que elegir un arma en la que usarlos.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_400	...Suponiendo que tuvieras algo adecuado, que no tienes. No puedo imbuir lo que no tienes, maldita sea, ¿no?
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_100_401	Solo puedes imbuir de poder elemental las armas Eureka terminadas.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_Q3_001_000	Elige un arma Eureka.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A3_001_001	<sheet(Item,lnum1,9)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A3_001_003	<sheet(Item,lnum1,9)> y <sheet(Item,lnum2,9)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A3_001_002	Cancelar.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_410	¿Lo que todavía tienes en tus manitos calientes, <ennoun(Item,3,lnum1,1,1)>? Oye, a esta altura deberías saber que no puedo trabajar en un arma que tienes empuñada.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_450	¡Maldita sea, <if(gnum4,muchacha,muchacho)>! ¡No puedes esperar que imbuya tu hoja sin <ennoun(Item,2,lnum1,1,1)> que la acompaña! ¡Son un juego, sí señor!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_451	Para imbuir <ennoun(Item,2,lnum1,1,1)>, también tienes que tener <ennoun(Item,2,lnum2,1,1)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_460	¡Ja, ja, muy gracioso, <if(gnum4,muchacha,muchacho)>! ¡Los dos sabemos muy bien que ya tienes <ennoun(Item,1,lnum1,1,1)>, y no pienso imbuir otra igual!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_461	No puedes tener más de una unidad de <ennoun(Item,3,lnum1,1,1)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_470	Así que va a ser <ennoun(Item,2,lnum1,1,1)>, ¿eh? Dámelo todo y me pongo a trabajar.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_480	Bien, entonces. Quédate tranquil<if(gnum4,a,o)> y me pongo a trabajar...
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_490	Listo, ya está imbuida. Ahora tu arma rebosa de poder elemental.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_500	Te presento... ¡<ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_510	Te presento... ¡<ennoun(Item,2,lnum1,1,1)>!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_520	Recuerda lo que te digo: tu arma es la más poderosa de su clase aquí en Eureka.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_521	No hay nada más que pueda hacer por ella, ¡y eso es mucho decir! Ahora dale buen uso, ¿me oíste?
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_Q4_000_000	¿Sobre qué vas a preguntar?
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A4_000_001	Los materiales necesarios.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A4_000_002	<ennoun(Item,3,24808,2,1)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A4_000_003	Nada.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_530	A esta altura ya deberías saber cómo funciona. Si quieres armas más fuertes, me traes materiales. Lo que necesitamos deberías encontrarlo aquí en Hydatos.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_531	Gerolt necesita <ennoun(Item,3,24807,2,1)> para seguir mejorando las armas Eureka.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_532	Además, al mejorar tu arma, quizá tengas que conseguir algo distinto de <ennoun(Item,3,24807,2,1)>. ¡Habla con otros jugadores y comparte información para descubrir cómo seguir!
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_540	Con <ennoun(Item,2,24808,2,1)> que encuentres, puedo imbuir tu arma de poder elemental. Y aquí nunca sobra.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_541	<head(<ennoun(Item,3,24808,2,1)>)>: sirven para imbuir tu arma Eureka terminada con la propiedad adicional <colortype(500)><edgecolortype(501)>Elemental Bonus<edgecolortype(0)><colortype(0)>.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_542	Esta bonificación fortalece todos tus atributos elementales para darte ventaja en combate contra las temibles criaturas de Eureka.
+TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_100_543	Ten en cuenta que la bonificación no cambia la apariencia ni los efectos visuales de las armas, ni mejora otros atributos como el poder de ataque.

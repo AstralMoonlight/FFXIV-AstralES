@@ -1,0 +1,60 @@
+key	text
+TEXT_STMBDY401_03078_SEQ_00	Galiena está casi segura de que eres la persona aventurera que busca.
+TEXT_STMBDY401_03078_SEQ_01	En Rhalgr's Reach se te acerca Galiena, a quien su "tía Rowena" le pidió solicitar tu ayuda para explorar una isla descubierta hace poco. Al parecer, la isla en cuestión está en algún lugar del Lejano Oriente, y si quieres saber más, no tienes más remedio que viajar una vez más a la lejana Kugane y hablar con Kotokaze, la respetada dueña del Shiokaze Hostelry.
+TEXT_STMBDY401_03078_SEQ_02	Te llevan a una mesa privada, donde se te unen Krile, Rowena y Hancock, que hace poco se volvieron socios, en cierto modo. Te explican que unieron fuerzas para desarrollar la isla, que podría servir como nuevo puerto de escala para los barcos mercantes que quieren evitar los altos aranceles de Kugane. Pero no será una empresa sencilla: la expedición anterior fracasó a manos - mejor dicho, a garras y colmillos - de las innumerables bestias salvajes que habitan la isla. Se necesitan guerreros de habilidad consumada, y en su opinión nadie está por encima de ti. Krile, por su parte, tiene un interés personal en la expedición, aunque te pide permiso para no decir más hasta que se confirmen sus sospechas sobre la isla.
+TEXT_STMBDY401_03078_SEQ_03	Te aconsejan adelantarte al barco de la expedición, y te encuentras con Gerolt Blackthorne, según todos el mejor forjador de armas de toda Eorzea - y además un borracho consumado -, enfrascado en una amarga discusión con un erudito pendenciero que, según descubres pronto, es Ejika Tsunjika, de los Students of Baldesion. Contemporáneo de Krile, exige participar en la expedición, pues se enteró del interés de Krile en la isla. Krile acepta, y Ejika sube a bordo sin más comentarios, por ahora. Solo queda viajar a la misteriosa isla bautizada como "Eureka" y ver qué misterios esperan...
+TEXT_STMBDY401_03078_TODO_00	Habla con Kotokaze en Kugane.
+TEXT_STMBDY401_03078_TODO_01	Reúnete con el artesano en el Pier #1.
+TEXT_STMBDY401_03078_GALIENA_000_000	<string(gstr1)>, de los Scions of the Seventh Dawn, ¿si no me equivoco?
+TEXT_STMBDY401_03078_GALIENA_000_001	Muy bien. Tengo un mensaje para ti de la tía Rowena. Bueno, es más bien un pedido, supongo, aunque no tengo detalles importantes...
+TEXT_STMBDY401_03078_GALIENA_000_002	Quiere que ayudes a explorar una isla descubierta hace poco. Seguro que te interesa algo así, siendo <if(gnum4,aventurera,aventurero)>, ¿no?
+TEXT_STMBDY401_03078_GALIENA_000_003	Si es así, ve a Kugane y busca a Kotokaze, la dueña del Shiokaze Hostelry. Ya sé que es un viaje largo, pero la isla queda por ese lado de todos modos, así que...
+TEXT_STMBDY401_03078_GALIENA_000_010	Te contaría todo sobre la propuesta de la tía Rowena si pudiera, pero de verdad no sé nada más. Tienes que ir a Kugane para saber más.
+TEXT_STMBDY401_03078_KOTOKAZE_000_020	Veo que decidió aceptar la invitación de the House of Splendors. Rowena estará contenta. Acompáñeme, le muestro su mesa.
+TEXT_STMBDY401_03078_ROWENA_000_040	Qué bueno ver una cara conocida por estos lados, sobre todo la de <if(gnum4,la mujer,el hombre)> que bien podría ser mi <if(gnum4,clienta,cliente)> más <if(gnum4,valiosa,valioso)>.
+TEXT_STMBDY401_03078_HANCOCK_000_041	Imagino que no esperaba que Krile y yo asistiéramos a este pequeño tête-à-tête. Pero, como verá, este es un asunto que nos concierne a todos.
+TEXT_STMBDY401_03078_HANCOCK_000_042	Todo empezó cuando un barco de la East Aldenard Trading Company dio con una isla en el Glass Ocean. Una isla desierta que no figuraba en nuestras cartas y que, francamente, no tenía por qué estar ahí.
+TEXT_STMBDY401_03078_HANCOCK_000_043	Basta decir que nos sorprendió. Gratamente, de hecho. Una isla sin dueño y sin desarrollar en un lugar así sería una bendición para nuestros negocios en este rincón del mundo.
+TEXT_STMBDY401_03078_ROWENA_000_044	Kugane nos está dejando secos a los dos con sus aranceles. Según la mercancía, pagamos más de diez veces lo que deberíamos en Limsa o en Ul'dah, que ya es demasiado, créeme.
+TEXT_STMBDY401_03078_HANCOCK_000_045	Lo que mi querida Rowena intenta decir es que tener otro puerto de escala en esta región, uno más favorable al libre comercio, convendría a muchísimas partes.
+TEXT_STMBDY401_03078_HANCOCK_000_046	Por eso, en cuanto supe de esta isla, autoricé de inmediato una expedición de exploración. El equipo era grande y tenía buenos fondos: no reparé en gastos. Por desgracia, solo volvieron unos pocos.
+TEXT_STMBDY401_03078_HANCOCK_000_047	Los sobrevivientes informaron de "irregularidades" en el aether de la isla, que creemos que dieron origen a varias bestias extrañas y monstruosas. Bestias que los atacaron poco después de que llegaran.
+TEXT_STMBDY401_03078_HANCOCK_000_048	Este lamentable giro nos obligó a reevaluar la isla y a dejar nuestros planes en suspenso por un tiempo. Si el desarrollo iba a seguir adelante, haría falta mucho más capital del previsto...
+TEXT_STMBDY401_03078_ROWENA_000_049	Así que vino a pedirnos una limosna a mí y a los míos, y accedí. Pero antes de que te burles, sabe que algunos de mis clientes de siempre estaban en esa expedición fallida, y lo que me contaron basta para justificar el gasto.
+TEXT_STMBDY401_03078_ROWENA_000_050	Historias de tesoros, de riquezas incalculables y quién sabe qué más. Sí, habrá que abrirse paso entre todas esas bestias, pero a mayor riesgo, mayor recompensa, como dicen.
+TEXT_STMBDY401_03078_HANCOCK_000_051	¡Habló una empresaria nata! Su ambición y su falta de escrúpulos son admirables, mi señora. Diría que yo podría aprenderle un par de cosas.
+TEXT_STMBDY401_03078_HANCOCK_000_052	...En cualquier caso, ya formada nuestra sociedad, queremos enviar a la isla una segunda fuerza expedicionaria conjunta. Dicho esto, si enviáramos a cualquiera, es probable que corrieran la misma suerte que la primera.
+TEXT_STMBDY401_03078_ROWENA_000_051	Así que esta vez queremos mandar a alguien con mano experta. <if(gnum4,Una veterana,Un veterano)> de mil y mil batallas. <if(gnum4,Una asesina,Un asesino)> a toda prueba. ¿Ves adónde voy con esto?
+TEXT_STMBDY401_03078_KRILE_000_052	Yo no tengo tu talento para la guerra, pero me uniré a la expedición como investigadora. Los Scions tienen interés en esta isla...
+TEXT_STMBDY401_03078_KRILE_000_053	...Qué perspicaz. Tienes razón: no es la clase de asunto que normalmente nos concierne. Pero, después de hablarlo con los demás, aceptaron que participara, por mi interés <italic(1)>personal<italic(0)>...
+TEXT_STMBDY401_03078_KRILE_000_054	Perdóname si no digo más por ahora. Si mis sospechas se confirman, te lo contaré todo. Te lo prometo.
+TEXT_STMBDY401_03078_HANCOCK_000_055	Muy bien. ¡Creo que eso es todo! El barco de la compañía que los llevará a la isla los espera. Puede ir al muelle cuando esté listo para partir.
+TEXT_STMBDY401_03078_ROWENA_000_057	Ah, y para que no te sorprendas: vas a tener compañía. Un artesano cuya ayuda me pareció que nos hacía falta. Ya debería estar en el muelle.
+TEXT_STMBDY401_03078_KRILE_000_058	Rowena y yo todavía tenemos un par de cosas que hablar, así que ¿por qué no te adelantas? Te alcanzo después.
+TEXT_STMBDY401_03078_EJIKATSUNJIKA_000_060	¡No importa cuántas veces lo digas, no acepto un no por respuesta! ¡Voy a subir a ese barco, y no hay más que hablar!
+TEXT_STMBDY401_03078_GEROLT_000_070	...¡Y no importa cuántas veces lo digas <italic(1)>tú<italic(0)>, pequeño llorón de mierda, no voy a dejar que un maldito desconocido venga muy campante a decirme cómo hacer las cosas! ¡Ahora lárgate!
+TEXT_STMBDY401_03078_EJIKATSUNJIKA_000_071	(-Joven incorregible-)¿¡Es que la terquedad eorzeana no tiene fin!? ¡Tengo asuntos urgentes en esa isla, y exijo que me lleves allí de inmediato!
+TEXT_STMBDY401_03078_KRILE_000_072	Se oían los gritos a media malm de distancia...
+TEXT_STMBDY401_03078_KRILE_000_073	Gerolt, ¿a qué viene tanto escándalo?
+TEXT_STMBDY401_03078_GEROLT_000_074	Ah, señorita Krile. Perdón por eso. Es este desgraciado el que anda causando problemas.
+TEXT_STMBDY401_03078_KRILE_000_075	¿¡Ejika!? ¿Qué haces aquí?
+TEXT_STMBDY401_03078_EJIKATSUNJIKA_000_076	¿De verdad creíste que no me iba a enterar de tu carta? ¡Qué descaro, intentar adelantarte por tu cuenta! Pues bien, lamento arruinarte los planes.
+TEXT_STMBDY401_03078_KRILE_000_077	No seas difícil. Tenía toda la intención de pedir tu ayuda si confirmaba que mi hipótesis era correcta...
+TEXT_STMBDY401_03078_KRILE_000_078	Perdona. Debes estar sin entender nada.
+TEXT_STMBDY401_03078_KRILE_000_080	Este caballero de la derecha es Gerolt Blackthorne, según todos el mejor forjador de armas de toda Eorzea. Va a aportar su considerable experiencia a nuestra expedición.
+TEXT_STMBDY401_03078_KRILE_000_090	Este caballero de la derecha es... Espera, ya se conocen, ¿verdad? Bueno, como habrás adivinado, Gerolt va a aportar su considerable experiencia a nuestra expedición.
+TEXT_STMBDY401_03078_KRILE_000_100	Y a la izquierda tenemos a...
+TEXT_STMBDY401_03078_EJIKATSUNJIKA_000_101	Ejika Tsunjika, de los Students of Baldesion. Y tú debes ser <if(gnum4,la supuesta,el supuesto)> Warrior of Light. Encantado, no lo dudo. Te agradeceré que no me estorbes.
+TEXT_STMBDY401_03078_KRILE_000_102	¡Esos modales, Ejika! Si piensas acompañarnos en esta expedición...
+TEXT_STMBDY401_03078_EJIKATSUNJIKA_000_103	¡Por supuesto que sí! ¡Si crees que voy a dejar que una tradicionalista apegada a las reglas como tú haga una investigación por su cuenta, estás muy equivocada!
+TEXT_STMBDY401_03078_KRILE_000_104	...Me alegrará contar con la ayuda de un erudito eminente como tú. Ahora, si fueras tan amable de dejar de molestar al pobre Gerolt y subir al barco, podemos ponernos en marcha.
+TEXT_STMBDY401_03078_KRILE_000_105	Ejika es uno de los pocos Students of Baldesion que sobrevivieron. Su experiencia en aetherología es impresionante se la mire como se la mire, pero, por desgracia, su ego también...
+TEXT_STMBDY401_03078_KRILE_000_106	¡Pero basta de hablar de él! ¡Tenemos una isla que explorar! Si no te queda nada pendiente, habla con Rodney. Él te llevará a bordo.
+TEXT_STMBDY401_03078_KRILE_000_107	Hmm... Se me ocurre que nadie se molestó en decirte el nombre de la isla que vamos a explorar. ¿Me equivoco?
+TEXT_STMBDY401_03078_KRILE_000_108	Es un poco grandilocuente y melodramático, pero le pusimos provisionalmente el nombre de un lugar de la leyenda allagana. Una tierra prohibida donde se escondieron armas temibles para guardarlas a salvo...
+TEXT_STMBDY401_03078_KRILE_000_109	La llamamos... Eureka.
+TEXT_STMBDY401_03078_SYSTEM_000_110	Ahora tienes acceso a the Forbidden Land, Eureka Anemos. Anemos se puede explorar en grupos de hasta ocho jugadores, o en solitario.
+TEXT_STMBDY401_03078_SYSTEM_000_111	Para emprender tu viaje a Anemos, habla con Rodney en el Pier #1 de Kugane.
+TEXT_STMBDY401_03078_SYSTEM_100_111	Ten en cuenta que todas las excursiones a the Forbidden Land, Eureka, tienen sincronización de nivel de objeto. En Anemos, el equipo con un nivel de objeto superior a <num(lnum1)> se ajustará.
+TEXT_STMBDY401_03078_SYSTEM_000_112	Mientras exploras Anemos, tendrás la oportunidad de crear equipo y armas Eureka. Si quieres hacerlo, conviene conseguir antes objetos antiquated de nivel 70.
+TEXT_STMBDY401_03078_SYSTEM_000_113	Si quieres saber más sobre Eureka Anemos y lo que ofrece, puedes hablar con Rodney para obtener más detalles.

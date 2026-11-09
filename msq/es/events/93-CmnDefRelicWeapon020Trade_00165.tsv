@@ -1,0 +1,24 @@
+key	text
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_000	Con el poder del atma, imbuiré tu reliquia de una fuerza como nunca conoció. Préstame el objeto que deseas potenciar y haré lo necesario.
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_MENU_TITLE	Elige la reliquia que deseas potenciar.
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_MENU_CHOICES	<if([lnum1==6257],<head(<ennoun(Item,2,6257,1,1)>)> y <ennoun(Item,3,6266,1,1)>,<sheet(Item,lnum1,9)>)>
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_MENU_CANCEL	Cancelar
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_YESNO_MESSAGE	¿Potenciar <if([lnum1==6257],<ennoun(Item,2,6257,1,1)> y <ennoun(Item,2,6266,1,1)>,<ennoun(Item,2,lnum1,1,1)>)>?
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_YESNO_YES	Sí
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_YESNO_NO	No
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_020	¿Dónde está la reliquia? ¿Acaso olvidaste traerla?
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_100_020	Para que Jalzahn potencie un arma reliquia zenith, debes tener doce variedades distintas de atma.
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_100_025	Además, asegúrate de tener la reliquia que deseas potenciar en el Armoury Chest o en tu inventario antes de hablar con Jalzahn.
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_100_030	No puedo hacer mi trabajo hasta que hagas lugar entre tu montón de pertenencias.
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_030	Si hay otras reliquias que deseas potenciar, tráeme doce variedades distintas de atma como antes, y haré lo necesario.
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_035	Si participas en ciertos FATEs con un arma reliquia zenith equipada, puedes obtener un cristal de atma.
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_036	Cuando tengas doce variedades distintas de atma, puedes llevárselas a Jalzahn para que potencie un arma reliquia zenith.
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_100_036	Los paladins deben tener tanto Curtana Zenith como el Holy Shield Zenith.
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_037	Puedes volver a consultar esta información en el journal de la misión completada "Up in Arms", dentro de "Weapon Enhancement Sidequests".
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_040	¿Cómo van tus esfuerzos por conseguir atma? Cuando tengas doce piezas, tráelas aquí y infundiré su poder en la reliquia que elijas.
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_050	¡Ah, doce variedades distintas de atma! Lo hiciste bien, <if(gnum4,mi querida aventurera,mi querido aventurero)>.
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_051	Deja el resto en mis manos. Solo necesito un momento.
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_056	...¡Está hecho! ¡Tal como decía mi teoría, las almas que guardaba el atma se fundieron con tu reliquia! ¡Tómala otra vez, <if(gnum4,aventurera,aventurero)>, y saborea el nuevo poder que la recorre!
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_057	...¡Está hecho! ¡Tal como decía mi teoría, las almas que guardaba el atma se fundieron con tu espada y tu escudo! ¡Tómalos otra vez, <if(gnum4,aventurera,aventurero)>, y saborea el nuevo poder que los recorre!
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_100_059	¡<if([lnum1==6257],Tus reliquias zenith renacieron gracias al poder del atma,Tu arma reliquia zenith renació gracias al poder del atma)>!
+TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_060	Si quieres potenciar otra arma reliquia zenith, puedes hacerlo repitiendo el proceso: consigue doce piezas distintas de atma y llévaselas a Jalzahn.

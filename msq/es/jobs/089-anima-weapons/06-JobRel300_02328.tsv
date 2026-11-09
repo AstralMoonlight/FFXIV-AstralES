@@ -1,0 +1,160 @@
+key	text
+TEXT_JOBREL300_02328_SEQ_00	Ardashir está sumido en sus pensamientos.<br>※Cambiar de clase o job impedirá avanzar en esta misión.
+TEXT_JOBREL300_02328_SEQ_01	El vínculo entre tú y el anima es más fuerte que nunca. Aunque de aquí en adelante su desarrollo es cosa de tiempo, Ardashir cree que puede acelerar el proceso. Propone un viaje corto a Idyllshire para ver a una conocida suya, una tal Ulan. Investigadora como él y entusiasta de los Carbuncles, dedicó su vida al estudio de las entidades arcanas y de los métodos para potenciarlas. Está prácticamente seguro de que su trabajo es la clave para liberar el potencial del anima. Y con eso, parten hacia Idyllshire.<br><br>※No puedes avanzar con una clase o job distinto del que tenías al aceptar esta misión.<br>※Esta misión no se puede abandonar desde el journal. Si quieres abandonarla, puedes hacerlo en cualquier momento hablando con Ardashir.
+TEXT_JOBREL300_02328_SEQ_02	Según cuenta Ulan, su investigación se centra en el uso de crystal sand para fomentar el crecimiento de los constructos arcanos. Normalmente hay que lograr un equilibrio adecuado de elementos para que el procedimiento funcione, un proceso que puede llevar semanas o incluso meses. Por suerte, se da cuenta de que no eres de las personas que pierden el tiempo. Por eso te sugiere usar umbrite, una piedra de aspecto umbral capaz de quitarle los elementos a la crystal sand, con lo que ya no hace falta afinar sus propiedades elementales. Con eso en mente, te pide que reúnas la crystal sand y la umbrite necesarias para desarrollar el anima a tu gusto.
+TEXT_JOBREL300_02328_SEQ_03	El plan de Ulan es un éxito. Como la crystal sand ya no tiene ningún aspecto elemental, el anima la consume sin problemas y alcanza nuevas cotas de fuerza. Tanto tú como Ulan quedan impresionados con los resultados, y más todavía cuando el anima insiste en consumir más crystal sand tratada. Aunque no está exento de riesgos, Ardashir acepta el pedido y afirma que el anima es libre de tomar sus propias decisiones. Sospecha que esto también va a requerir un arma nueva, más adecuada a la creciente fuerza del anima. Como medida preventiva, vuelve a Azys Lla para hacer los preparativos con Gerolt. Sus sospechas pronto se confirman cuando, tras varias aplicaciones de crystal sand, el anima aparece frente a ti gimiendo de dolor. Ulan te pide que vayas a ver a Ardashir para averiguar qué se puede hacer para ayudarla.
+TEXT_JOBREL300_02328_SEQ_04	Llegas a Azys Lla y encuentras a Ardashir y a Gerolt listos con un arma recién forjada para alojar la soulstone del anima. Después de comprobar que la piedra sigue entera, la trasplantan con cuidado a un nuevo recipiente. Alzas el arma, admirando su belleza, y de pronto el anima aparece frente a ti. Y por fin, después de años de investigación e incontables fracasos, Ardashir puede contemplar el anima en todo su esplendor. Con su sueño por fin hecho realidad, el joven investigador debe ahora apuntar más alto en su búsqueda por cultivar la vida artificial.<br><br>※ Los atributos de la anima weapon se pueden redistribuir hablando con Ulan en Idyllshire.
+TEXT_JOBREL300_02328_TODO_00	Con <if([lnum4==19],<ennoun(Item,2,14870,1,1)> y <ennoun(Item,2,14883,1,1)>,<if([lnum4==20],<ennoun(Item,2,14871,1,1)>,<if([lnum4==21],<ennoun(Item,2,14872,1,1)>,<if([lnum4==22],<ennoun(Item,2,14873,1,1)>,<if([lnum4==23],<ennoun(Item,2,14874,1,1)>,<if([lnum4==24],<ennoun(Item,2,14878,1,1)>,<if([lnum4==25],<ennoun(Item,2,14879,1,1)>,<if([lnum4==27],<ennoun(Item,2,14880,1,1)>,<if([lnum4==28],<ennoun(Item,2,14881,1,1)>,<if([lnum4==30],<ennoun(Item,2,14875,1,1)>,<if([lnum4==31],<ennoun(Item,2,14877,1,1)>,<if([lnum4==32],<ennoun(Item,2,14876,1,1)>,<if([lnum4==33],<ennoun(Item,2,14882,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> equipado o en tu inventario, habla con Ulan en Idyllshire.
+TEXT_JOBREL300_02328_TODO_01	Con <if([lnum4==19],<ennoun(Item,2,14870,1,1)> y <ennoun(Item,2,14883,1,1)>,<if([lnum4==20],<ennoun(Item,2,14871,1,1)>,<if([lnum4==21],<ennoun(Item,2,14872,1,1)>,<if([lnum4==22],<ennoun(Item,2,14873,1,1)>,<if([lnum4==23],<ennoun(Item,2,14874,1,1)>,<if([lnum4==24],<ennoun(Item,2,14878,1,1)>,<if([lnum4==25],<ennoun(Item,2,14879,1,1)>,<if([lnum4==27],<ennoun(Item,2,14880,1,1)>,<if([lnum4==28],<ennoun(Item,2,14881,1,1)>,<if([lnum4==30],<ennoun(Item,2,14875,1,1)>,<if([lnum4==31],<ennoun(Item,2,14877,1,1)>,<if([lnum4==32],<ennoun(Item,2,14876,1,1)>,<if([lnum4==33],<ennoun(Item,2,14882,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> equipado, habla con Ulan para fortalecer el anima.
+TEXT_JOBREL300_02328_TODO_02	Con <if([lnum4==19],<ennoun(Item,2,14870,1,1)> y <ennoun(Item,2,14883,1,1)>,<if([lnum4==20],<ennoun(Item,2,14871,1,1)>,<if([lnum4==21],<ennoun(Item,2,14872,1,1)>,<if([lnum4==22],<ennoun(Item,2,14873,1,1)>,<if([lnum4==23],<ennoun(Item,2,14874,1,1)>,<if([lnum4==24],<ennoun(Item,2,14878,1,1)>,<if([lnum4==25],<ennoun(Item,2,14879,1,1)>,<if([lnum4==27],<ennoun(Item,2,14880,1,1)>,<if([lnum4==28],<ennoun(Item,2,14881,1,1)>,<if([lnum4==30],<ennoun(Item,2,14875,1,1)>,<if([lnum4==31],<ennoun(Item,2,14877,1,1)>,<if([lnum4==32],<ennoun(Item,2,14876,1,1)>,<if([lnum4==33],<ennoun(Item,2,14882,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario, habla con Ardashir en Azys Lla.
+TEXT_JOBREL300_02328_SYSTEM_000_000	Ten en cuenta que al completar la misión "A Dream Fulfilled" recibirás una anima weapon para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_JOBREL300_02328_Q1_000_000	¿Qué haces?
+TEXT_JOBREL300_02328_A1_000_000	Aceptar esta misión con otro job.
+TEXT_JOBREL300_02328_A2_000_000	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_JOBREL300_02328_SYSTEM_000_001	Una vez que aceptes esta misión, no podrás avanzar con una clase o un job distinto del que tenías al aceptarla.
+TEXT_JOBREL300_02328_SYSTEM_000_002	Asegúrate de cambiar al job que deseas antes de hablar con Ardashir.
+TEXT_JOBREL300_02328_SYSTEM_000_003	Para hacer la misión "A Dream Fulfilled" debes tener <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> equipados, en el Armoury Chest o en tu inventario.
+TEXT_JOBREL300_02328_SYSTEM_000_004	Para hacer la misión "A Dream Fulfilled" debes tener <ennoun(Item,2,lnum1,1,1)> equipado, en el Armoury Chest o en tu inventario.
+TEXT_JOBREL300_02328_SYSTEM_000_005	Ya recibiste <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>. Cambia a otro job y habla otra vez con Ardashir.
+TEXT_JOBREL300_02328_SYSTEM_000_006	Ya recibiste <ennoun(Item,2,lnum1,1,1)>. Cambia a otro job y habla otra vez con Ardashir.
+TEXT_JOBREL300_02328_ARDASHIR_000_000	Hmm...
+TEXT_JOBREL300_02328_GEROLT_000_001	No gastes saliva, <if(gnum4,muchacha,muchacho)>. Está ahí sentado rumiando desde que te fuiste. "Seguro", le dije. "Seguro que si <if(gnum4,la,lo)> dejamos en paz, blandiendo el arma como se le dé la gana, el anima va a crecer sola".
+TEXT_JOBREL300_02328_GEROLT_000_002	Claro que no hay forma de dejarlo contento. No sé qué se le revuelve en esa cabezota, pero ojalá se le revolvieran otras cosas. Al chico le vendría bien una distracción. Diablos, a mí tampoco me vendría mal una distracción bien curvilínea.
+TEXT_JOBREL300_02328_ARDASHIR_000_003	¡Por última vez, por favor no hables de esas cosas! No todos comparten tus apetitos deplorables.
+TEXT_JOBREL300_02328_ARDASHIR_000_004	\<suspiro> Pero lo que dices de la anima weapon es cierto. En su estado hiperconductor, es solo cuestión de tiempo que el anima muestre nuevas señales de crecimiento. Pero ¿qué clase de investigador sería si no buscara una manera de acelerar el proceso?
+TEXT_JOBREL300_02328_GEROLT_000_005	Siempre tan serio. Así que su señoría encontró otra forma de fastidiarnos, ¿eh?
+TEXT_JOBREL300_02328_ARDASHIR_000_006	Así es, aunque hará falta un viaje a Idyllshire. Mi búsqueda de investigadores sharlayanos allí no dio frutos, pero sí conocí a una joven cuyo campo de especialidad es muy parecido al mío.
+TEXT_JOBREL300_02328_ARDASHIR_000_007	Se llama Ulan. Tiene un vasto conocimiento de las entidades arcanas y se especializa en el estudio de los Carbuncles. De hecho, su investigación trata de potenciar esas entidades con cristales. Aunque no piensan por sí mismas como el anima de <split(<string(gstr1)>, ,1)>, su naturaleza es parecida. Quizá lo bastante como para que su trabajo nos sirva.
+TEXT_JOBREL300_02328_ARDASHIR_000_008	La última vez que hablamos, buscaba que la tomaran como aprendiz esos mismos investigadores sharlayanos que se negaron a recibirme. Sin duda la siguen teniendo esperando en Idyllshire.
+TEXT_JOBREL300_02328_ARDASHIR_000_009	Vamos, <split(<string(gstr1)>, ,1)>. Partamos antes de que encuentre motivos para llevar su investigación a otra parte.
+TEXT_JOBREL300_02328_ARDASHIR_000_010	¿List<if(gnum4,a,o)> para potenciar otra anima recién nacida? Estoy seguro de que Ulan estará encantada de volver a usar su investigación. De hecho, hace poco hablé con ella sobre la posibilidad de otro proyecto.
+TEXT_JOBREL300_02328_ARDASHIR_100_010	Sin duda va a exigir más literatura complementaria a cambio de su trabajo. Le ruego que se adelante a Idyllshire sin mí. Me reuniré con usted en breve.
+TEXT_JOBREL300_02328_SYSTEM_000_007	La misión "A Dream Fulfilled" no se puede abandonar desde el journal. Si quieres abandonarla, puedes hacerlo en cualquier momento hablando con Ardashir.
+TEXT_JOBREL300_02328_ARNOTT_000_011	¿Qué asunto tiene con Lady Ulan?
+TEXT_JOBREL300_02328_ARNOTT_000_012	Ah, buen día, <if(gnum4,señora,señor)>. Lady Ulan le está esperando.
+TEXT_JOBREL300_02328_ULAN_000_020	¿Qué tenemos aquí? ¿Alguien que admira lo arcano? ¿Un conocedor de los Carbuncles? Te advierto que no tengo ninguno a la venta, pero con mucho gusto te cuento sobre...
+TEXT_JOBREL300_02328_ULAN_000_021	¿Ardashir? Perdóname, <if(gnum4,señora,señor)>. Si hubiera sabido que lo conocías... Ejem. Déjame empezar de nuevo.
+TEXT_JOBREL300_02328_ULAN_100_021	<split(<string(gstr1)>, ,1)>, ¿no? Soy Ulan, investigadora de todo lo arcano. Un placer conocerte. Mi luminosa compañera es Diamond. Ahora dime, ¿cómo fue exactamente que conociste a mi querido Ardashir?
+TEXT_JOBREL300_02328_ARDASHIR_000_022	Ah, parece que llegué tarde. Mis disculpas.
+TEXT_JOBREL300_02328_ARDASHIR_100_023	Veo que usted y <split(<string(gstr1)>, ,1)> ya se conocieron. <if(gnum4,Ella,Él)> ha sido de una ayuda inestimable en mi investigación sobre el anima.
+TEXT_JOBREL300_02328_ULAN_000_023	Ya veo. Antes de irte de Idyllshire, hablaste de tu propuesta preliminar para los sharlayanos. Me gustaría mucho saber cómo avanzó tu trabajo hasta ahora.
+TEXT_JOBREL300_02328_ULAN_000_024	¿Quieren tomar prestadas mis técnicas de absorción de cristales y aplicarlas a su anima? Una idea intrigante.
+TEXT_JOBREL300_02328_ULAN_000_025	Aunque todavía queda un obstáculo bastante grande.
+TEXT_JOBREL300_02328_ULAN_000_026	Las entidades arcanas como Diamond están formadas casi por completo de aether, y por eso creo que la energía aetérica de los cristales se puede aprovechar para hacerlas crecer. En eso se basa mi investigación.
+TEXT_JOBREL300_02328_ULAN_000_027	Pero eso solo se puede lograr con cristales que combinen distintos aspectos elementales. Cada ser arcano es único, y por eso necesita un equilibrio de cristales hecho a la medida de su composición. El más mínimo error puede alterar su equilibrio aetérico y hasta destruirlo en el proceso.
+TEXT_JOBREL300_02328_ULAN_000_028	Es un trabajo bastante delicado. Emprender algo así por su cuenta, sin conocer a fondo mi investigación, podría llevarles semanas, incluso meses.
+TEXT_JOBREL300_02328_ULAN_000_029	A menos que... Quizá podamos ayudarnos mutuamente.
+TEXT_JOBREL300_02328_ULAN_000_030	Siendo tú también investigador, seguro entiendes que mi trabajo requiere mucha documentación, suministros y, sobre todo, sujetos de prueba.
+TEXT_JOBREL300_02328_ULAN_100_030	Podría convencerme de elegir su anima como sujeto de prueba si tú y tu acompañante deciden ayudarme. O, si prefieren pasar semanas estudiando mis notas...
+TEXT_JOBREL300_02328_ARDASHIR_000_031	N-no, no. Me parece más que justo.
+TEXT_JOBREL300_02328_ULAN_000_032	Entonces estamos de acuerdo. Tú me darás literatura para complementar mi investigación, y tu asistente aquí presente me traerá suministros. Esta es la lista de lo que necesito.
+TEXT_JOBREL300_02328_ARDASHIR_000_033	Parece que tenemos trabajo de sobra, amig<if(gnum4,a,o)>. Volveré lo más rápido que pueda.
+TEXT_JOBREL300_02328_ULAN_000_034	\<suspiro> ¿Tan desagradable le resultaba pasar un rato conmigo?
+TEXT_JOBREL300_02328_ULAN_000_035	¿En qué estábamos? Ah, sí, los suministros para mi trabajo. No te voy a cargar con todo lo que puse en esa lista. Con uno solo de esos artículos ya me haces un gran favor.
+TEXT_JOBREL300_02328_ULAN_000_036	A cambio te ofreceré crystal sand, un reactivo de mi propia creación que debería facilitar la absorción de la energía de los cristales. Sin duda el proceso va a requerir mucha arena, pero con gusto te daré toda la que necesites.
+TEXT_JOBREL300_02328_ULAN_000_037	Pero te advierto que no puedes aplicar la arena a lo loco, como te parezca. Hmm... Creo que una demostración lo explicará mejor. ¿Serías tan amable de invocar a esa anima tuya?
+TEXT_JOBREL300_02328_ULAN_000_038	Vaya, pero qué cosa tan espléndida eres.
+TEXT_JOBREL300_02328_ULAN_100_038	Te sorprende que pueda verla. Vamos, <split(<string(gstr1)>, ,1)>. Dediqué mi vida al estudio de criaturas arcanas de todo tipo. Según me explicó Ardashir, ustedes dos se esforzaron muchísimo para llegar hasta aquí. Mucho más sorprendente sería que <italic(1)>no<italic(0)> pudiera verla.
+TEXT_JOBREL300_02328_ULAN_100_039	Ahora acércate, pequeña. Tengo un regalo para ti.
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_039	<split(<string(gstr1)>, ,1)>, esta mujer... quiere hacernos daño. Siento que me... desvanezco... ¡Tenemos que huir!
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_040	<split(<string(gstr1)>, ,1)>, esta mujer... quiere hacernos daño. Mi cuerpo... se desvanece... ¡Tenemos que huir!
+TEXT_JOBREL300_02328_ULAN_000_041	Perdón, no quise asustarla. Aunque debo decir que tu anima es más perspicaz de lo que suponía. Como dije antes, cada criatura arcana es única y necesita cierto equilibrio de elementos para absorber la crystal sand. Pero esta arena choca con su composición.
+TEXT_JOBREL300_02328_ULAN_000_042	En lugar de perder tiempo examinando tu anima para dar con el equilibrio de elementos adecuado, propongo tratar la crystal sand con umbrite para quitarle sus propiedades elementales. Es por lejos la forma más segura y rápida de preparar la arena para que la consuma.
+TEXT_JOBREL300_02328_ULAN_000_043	Por suerte, encontré aquí mismo en Idyllshire a una mercader que la vende. Hismena, creo que se llama. Para empezar solo necesitamos una piedra y una bolsa de crystal sand.
+TEXT_JOBREL300_02328_ULAN_000_044	Ah, antes de que se me olvide. Vas a tener que tener a mano el recipiente del anima cuando le ofrezcas la crystal sand. No te lo olvides.
+TEXT_JOBREL300_02328_ULAN_000_045	Supongo que esto también te va a servir. Para lo que te interesa, llamémoslo anima glass. Me permite observar más de cerca el equilibrio aetérico de mi querida Diamond. Debería permitirte hacer lo mismo con tu anima.
+TEXT_JOBREL300_02328_ULAN_000_046	Con eso basta de explicaciones. Si tienes alguna pregunta, puedes hacerla cuando quieras. ¡Cuando tengas todo lo que necesitamos, vuelve conmigo y haremos crecer el anima como nunca!
+TEXT_JOBREL300_02328_ULAN_000_047	Ahí estás. Ya empezaba a pensar que la propuesta de Ardashir era una broma cruel.
+TEXT_JOBREL300_02328_ULAN_000_048	Igual que antes, vas a necesitar bastante crystal sand y umbrite. Cuando hayas reunido lo que necesitamos, podemos empezar.
+TEXT_JOBREL300_02328_ULAN_000_049	Ah, y no te olvides del recipiente del anima. Sin él no puedo hacer mi trabajo.
+TEXT_JOBREL300_02328_ULAN_100_049	Puedes examinar el anima con esta anima glass. Supongo que te acuerdas de cómo usarla, ¿no? En todo caso, si le pasa algo, Arnott te dará otra. Tengo ganas de ver en qué se convierte esta nueva anima.
+TEXT_JOBREL300_02328_SYSTEM_000_010	Para pedirle ayuda a Ulan con el desarrollo del anima, primero debes hablar con ella con tu anima weapon hiperconductora equipada y luego elegir "Fomentar el crecimiento del anima".
+TEXT_JOBREL300_02328_SYSTEM_000_011	Ella tomará entonces la crystal sand y la umbrite para crear crystal sand tratada. Puedes repetir este proceso mientras tengas los objetos necesarios en tu inventario.
+TEXT_JOBREL300_02328_SYSTEM_000_012	La crystal sand tratada se puede usar para subir como prefieras los cinco atributos asociados a tu anima.
+TEXT_JOBREL300_02328_SYSTEM_000_013	Los cinco atributos asociados a tu anima son <colortype(500)><edgecolortype(501)>critical hit rate<edgecolortype(0)><colortype(0)>, <colortype(500)><edgecolortype(501)>direct hit rate<edgecolortype(0)><colortype(0)>, <colortype(500)><edgecolortype(501)>determination<edgecolortype(0)><colortype(0)>, <colortype(500)><edgecolortype(501)>tenacity<edgecolortype(0)><colortype(0)> y <colortype(500)><edgecolortype(501)>skill speed<edgecolortype(0)><colortype(0)>.
+TEXT_JOBREL300_02328_SYSTEM_000_014	Los cinco atributos asociados a tu anima son <colortype(500)><edgecolortype(501)>critical hit rate<edgecolortype(0)><colortype(0)>, <colortype(500)><edgecolortype(501)>direct hit rate<edgecolortype(0)><colortype(0)>, <colortype(500)><edgecolortype(501)>determination<edgecolortype(0)><colortype(0)>, <colortype(500)><edgecolortype(501)>piety<edgecolortype(0)><colortype(0)> y <colortype(500)><edgecolortype(501)>spell speed<edgecolortype(0)><colortype(0)>.
+TEXT_JOBREL300_02328_SYSTEM_100_014	Puedes revisar en cualquier momento los objetos que se cambian por crystal sand usando la nota de Ulan de tu inventario.
+TEXT_JOBREL300_02328_SYSTEM_000_015	Además, puedes ver el progreso de tu anima en cualquier momento usando la anima glass de tu inventario.
+TEXT_JOBREL300_02328_SYSTEM_000_020	Antes de elegir "Reajustar el anima", debes desechar tu anima weapon hiperconductora o dejársela a un retainer.
+TEXT_JOBREL300_02328_ULAN_000_050	Poco puedo hacer por ti sin la anima weapon. Espero que no la hayas olvidado en alguna parte.
+TEXT_JOBREL300_02328_ULAN_100_050	Poco puedo hacer por ti sin la anima weapon y ese escudo tuyo. Espero que no los hayas olvidado en alguna parte.
+TEXT_JOBREL300_02328_Q1_000_010	¿Qué quieres hacer?
+TEXT_JOBREL300_02328_A1_000_010	Fomentar el crecimiento del anima.
+TEXT_JOBREL300_02328_A2_000_011	Cambiar objetos por crystal sand.
+TEXT_JOBREL300_02328_A3_000_012	Preguntar por el desarrollo del anima.
+TEXT_JOBREL300_02328_A4_000_013	Nada.
+TEXT_JOBREL300_02328_Q1_000_020	¿Qué preguntas?
+TEXT_JOBREL300_02328_A1_000_020	¿Cómo ayudamos exactamente a que el anima crezca?
+TEXT_JOBREL300_02328_A2_000_021	¿Dónde consigo los suministros que necesitamos?
+TEXT_JOBREL300_02328_A3_000_022	Nada.
+TEXT_JOBREL300_02328_ULAN_000_051	Antes de que el anima pueda consumir mi crystal sand, hay que quitarle sus aspectos elementales. Para eso hace falta umbrite.
+TEXT_JOBREL300_02328_ULAN_000_052	Cuando consigas la crystal sand y la umbrite, vuelve aquí con el recipiente del anima y podremos empezar.
+TEXT_JOBREL300_02328_SYSTEM_000_022	Para pedirle ayuda a Ulan con el desarrollo del anima, primero debes hablar con ella con tu anima weapon hiperconductora equipada y luego elegir "Fomentar el crecimiento del anima".
+TEXT_JOBREL300_02328_SYSTEM_000_023	Ella tomará entonces la crystal sand y la umbrite para crear crystal sand tratada. Puedes repetir este proceso mientras tengas los objetos necesarios en tu inventario.
+TEXT_JOBREL300_02328_SYSTEM_000_024	La crystal sand tratada se puede usar para subir como prefieras los cinco atributos asociados a tu anima.
+TEXT_JOBREL300_02328_SYSTEM_000_025	Los cinco atributos asociados a tu anima son <colortype(500)><edgecolortype(501)>critical hit rate<edgecolortype(0)><colortype(0)>, <colortype(500)><edgecolortype(501)>direct hit rate<edgecolortype(0)><colortype(0)>, <colortype(500)><edgecolortype(501)>determination<edgecolortype(0)><colortype(0)>, <colortype(500)><edgecolortype(501)>tenacity<edgecolortype(0)><colortype(0)> y <colortype(500)><edgecolortype(501)>skill speed<edgecolortype(0)><colortype(0)>.
+TEXT_JOBREL300_02328_SYSTEM_000_026	Los cinco atributos asociados a tu anima son <colortype(500)><edgecolortype(501)>critical hit rate<edgecolortype(0)><colortype(0)>, <colortype(500)><edgecolortype(501)>direct hit rate<edgecolortype(0)><colortype(0)>, <colortype(500)><edgecolortype(501)>determination<edgecolortype(0)><colortype(0)>, <colortype(500)><edgecolortype(501)>piety<edgecolortype(0)><colortype(0)> y <colortype(500)><edgecolortype(501)>spell speed<edgecolortype(0)><colortype(0)>.
+TEXT_JOBREL300_02328_SYSTEM_000_027	Puedes ver el progreso de tu anima en cualquier momento usando la anima glass de tu inventario. Piensa bien el equilibrio de los atributos para crear el arma que mejor se ajuste a tus necesidades.
+TEXT_JOBREL300_02328_ULAN_000_053	Como te expliqué antes, además de mi crystal sand necesitamos umbrite para quitarle a la arena sus aspectos elementales.
+TEXT_JOBREL300_02328_ULAN_000_054	La arena te la daré a cambio de los suministros de la lista que te di.
+TEXT_JOBREL300_02328_ULAN_000_055	Espero que no la hayas perdido desde la última vez que hablamos. Pero si por algún motivo la extraviaste, dejé otra copia ahí mismo.
+TEXT_JOBREL300_02328_ULAN_000_056	La umbrite, me temo, tendrás que conseguirla por trueque con Hismena, de the House of Splendors. Siendo una coleccionista de rarezas tan conocida, solo puedo imaginar lo que te va a pedir a cambio.
+TEXT_JOBREL300_02328_ULAN_000_057	Cuando empecemos a potenciar el anima, vas a necesitar una forma de seguir su crecimiento. Para eso usas la anima glass. Habla con mi asistente Arnott si necesitas otra.
+TEXT_JOBREL300_02328_ULAN_000_060	Parece que el anima se volvió bastante fuerte, ¿no te parece, Arnott?
+TEXT_JOBREL300_02328_ARNOTT_000_061	No tiene precedentes que una crystal sand sin afinidad con ningún elemento resulte tan eficaz. Los datos que reunimos deberían serle muy útiles para su investigación.
+TEXT_JOBREL300_02328_ARNOTT_000_062	No puedo asegurar que esta anima sea más fuerte que la anterior. Aun así, su ritmo de crecimiento es increíble. Los datos que reunimos deberían serle muy útiles para su investigación.
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_063	Yo... quiero seguir.
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_064	Por tu bien y por el mío, para que nunca te falte fuerza en tiempos difíciles. Tengo que hacerme más fuerte.
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_065	Yo... quiero seguir.
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_066	Por su bien y por el mío, para que nunca le falte fuerza en tiempos difíciles. Voy a hacerme más fuerte.
+TEXT_JOBREL300_02328_ULAN_000_067	Qué ambiciosa es tu anima. Es notable que se esfuerce con tanta ferocidad por superar sus propios límites. Ni siquiera Diamond Carbuncle mostró tanta tenacidad. El vínculo entre ustedes dos es para envidiarlo, sin duda.
+TEXT_JOBREL300_02328_ULAN_000_068	Otra vez el anima quiere superar sus límites por voluntad propia. Esto merece más investigación. Hmm, quizá en otro momento.
+TEXT_JOBREL300_02328_ARDASHIR_000_069	\<jadeo> \<jadeo> Los documentos que pidió. \<jadeo> Como prometí.
+TEXT_JOBREL300_02328_ULAN_000_070	Ah, Ardashir. Llegas en el momento justo. La crystal sand fue tan eficaz como esperábamos. Pero parece que tu compañera aetérica quiere buscar más fuerza, aunque ya alcanzó lo que, según mis cálculos, es la cima de su poder.
+TEXT_JOBREL300_02328_ULAN_000_071	Seguro que conoces las posibles consecuencias si le concedemos lo que pide. Entonces, ¿qué dices? ¿Echamos la prudencia por la borda y vemos a qué nuevas alturas puede llegar el anima?
+TEXT_JOBREL300_02328_ARDASHIR_000_072	Por supuesto. Si es lo que el anima desea, ¿quiénes somos para negárselo? Aunque si lo logramos, queda el asunto de su recipiente, el arma. Me temo que no va a soportar la presión de los nuevos poderes que tenga el anima.
+TEXT_JOBREL300_02328_ARDASHIR_000_073	Consultaré con nuestro herrero para que forje un nuevo recipiente. Uno más adecuado a la creciente fuerza del anima.
+TEXT_JOBREL300_02328_ULAN_000_074	Parece que mi estadía aquí en Idyllshire va a ser mucho más interesante de lo que esperaba. Cuando estés list<if(gnum4,a,o)> para empezar de nuevo, solo tienes que decirlo.
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_080	Mi cuerpo... Me duele...
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_081	Mi cuerpo... Me duele...
+TEXT_JOBREL300_02328_ULAN_000_082	Es lo que predijo Ardashir. Su recipiente ya no soporta el poder que ahora corre por él.
+TEXT_JOBREL300_02328_ULAN_000_083	Tienes que volver rápido con él junto con el anima. Me encargaré de que esté al tanto de la situación para cuando llegues.
+TEXT_JOBREL300_02328_ARNOTT_000_084	Si necesita examinar el anima más de cerca, entréguele la anima glass.
+TEXT_JOBREL300_02328_ULAN_100_091	Buen viaje, <split(<string(gstr1)>, ,1)>. Rezo por que el anima esté bien.
+TEXT_JOBREL300_02328_SYSTEM_000_040	Debes tener la anima glass en tu inventario para avanzar en esta misión.
+TEXT_JOBREL300_02328_SYSTEM_000_041	Habla con Arnott en Idyllshire para conseguir otra.
+TEXT_JOBREL300_02328_ARDASHIR_000_090	¡<split(<string(gstr1)>, ,1)>, menos mal! Tenemos que actuar rápido, no hay forma de saber cuánto más va a aguantar la soulstone.
+TEXT_JOBREL300_02328_ARDASHIR_000_091	Necesito la anima glass, junto con la espada y el escudo que le sirven de recipiente.
+TEXT_JOBREL300_02328_ARDASHIR_000_092	Necesito la anima glass y el arma que le sirve de recipiente.
+TEXT_JOBREL300_02328_ARDASHIR_000_093	Como temía, el recipiente del anima llegó a su límite. Hay que quitar la soulstone de inmediato.
+TEXT_JOBREL300_02328_ARDASHIR_000_094	Parece que la soulstone sigue intacta.
+TEXT_JOBREL300_02328_ARDASHIR_100_094	Prepara el arma nueva, Gerolt. Hay que montar la soulstone antes de que empiece a deteriorarse.
+TEXT_JOBREL300_02328_GEROLT_000_095	El anima tiene agallas para ser tan chiquita, eso te lo concedo. Esta arma nueva debería ser una buena recompensa.
+TEXT_JOBREL300_02328_GEROLT_100_095	\<jadeo> \<jadeo> Ya... ya está, <if(gnum4,muchacha,muchacho)>. Levántala y mira qué se siente.
+TEXT_JOBREL300_02328_GEROLT_000_096	La cumbre de la artesanía, cortesía de un servidor y de los nodos que me enseñaron los secretos de la tecnología allagana: ¡<ennoun(Item,3,lnum1,1,1)>!
+TEXT_JOBREL300_02328_GEROLT_000_097	La cumbre de la artesanía, cortesía de un servidor y de los nodos que me enseñaron unos trucos de la tecnología allagana: ¡<ennoun(Item,3,lnum1,1,1)> y <ennoun(Item,3,lnum2,1,1)>!
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_098	Mi cuerpo. ¡Se siente... tan liviano! ¿Es obra de alguna magia arcana?
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_099	Mi cuerpo. ¡Se siente... tan liviano! ¿Qué clase de magia arcana causó esto?
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_100	Un nuevo recipiente, diseñado por Ardashir y forjado por Gerolt.
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_101	Gracias, a los dos.
+TEXT_JOBREL300_02328_ARDASHIR_000_102	¿Será posible...? Después de años de investigación, de pruebas y fracasos... puedo ver el anima. ¡Puedo <italic(1)>ver<italic(0)> el anima, y puedo oírla hablar! Ay, si tan solo mi maestro pudiera estar aquí para verlo.
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_103	<split(<string(gstr1)>, ,1)>, Ardashir no se ve bien. Quizá él también necesite un nuevo recipiente.
+TEXT_JOBREL300_02328_BUKINOSEIREI_100_103	Sí, un nuevo recipiente poderoso como tu arma. Pidámoselo al herrero Gerolt.
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_104	Sí, un nuevo recipiente robusto como tu espada y tu escudo. Pidámoselo al herrero Gerolt.
+TEXT_JOBREL300_02328_BUKINOSEIREI_100_104	<split(<string(gstr1)>, ,1)>, Ardashir no se ve bien. Quizá él también necesite un nuevo recipiente.
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_105	Sí, algo poderoso como su nueva arma. ¿Podríamos pedirle a Gerolt que le haga uno?
+TEXT_JOBREL300_02328_BUKINOSEIREI_100_105	Sí, algo resistente como su espada y su escudo. ¿Podríamos pedirle a Gerolt que le haga uno?
+TEXT_JOBREL300_02328_ARDASHIR_000_108	Jajaja, parece que desarrollaste un sentido del humor a la altura de tu nuevo cuerpo. Por desgracia, amiga aetérica, nosotros no podemos cambiar el nuestro tan fácilmente. Aunque el arma que aloja tu soulstone es de veras exquisita, dudo mucho que Gerolt me hiciera algo tan elegante.
+TEXT_JOBREL300_02328_ARDASHIR_000_109	Ay, pero mírame aquí parado, hablando contigo. Nunca sentí tanta alegría.
+TEXT_JOBREL300_02328_ARDASHIR_000_110	Ay, pero soy yo quien debería darte las gracias, amiga aetérica. Que por fin podamos conversar después de tanto tiempo... me llena el corazón de alegría.
+TEXT_JOBREL300_02328_BUKINOSEIREI_000_111	¿Alegría...?
+TEXT_JOBREL300_02328_ARDASHIR_000_112	Debes de estar cansada después de un día tan largo. Descansa, te lo ganaste.
+TEXT_JOBREL300_02328_ARDASHIR_000_113	Esto marca un avance monumental en nuestro trabajo. Aunque todavía parece faltarle conocimiento, ¡nuestra meta está prácticamente cumplida!
+TEXT_JOBREL300_02328_ARDASHIR_000_114	Y no se me ocurre nadie mejor que usted para enseñarle a nuestra joven pupila el mundo y sus maravillas.
+TEXT_JOBREL300_02328_GEROLT_000_115	Sí. Tú encárgate de que tu anima no se vuelva una mierdita llorona como su señoría aquí presente. Con uno basta.
+TEXT_JOBREL300_02328_ARDASHIR_000_116	Me imagino que un patán arrogante y cabeza dura sería igual de indeseable.
+TEXT_JOBREL300_02328_ARDASHIR_000_117	Ejem. Como dije antes, fue un día terriblemente largo, no solo para el anima, sino también para usted. Descanse tranquil<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. Haré todo lo que pueda para decidir nuestro próximo paso para cuando vuelva.
+TEXT_JOBREL300_02328_GEROLT_000_118	Ahora sí que lo logramos, <if(gnum4,muchacha,muchacho)>. Ya sé que intenta mantener la compostura, pero en cuanto te vayas el chico se va a poner a dar saltitos cantándole al anima. Yo no contaría con que vuelva a estar listo para trabajar en un buen tiempo.
+TEXT_JOBREL300_02328_GEROLT_000_119	Al menos no hay nada de qué preocuparse mientras el anima esté contigo. Cuida bien esa arma, ¿me oíste?
+TEXT_JOBREL300_02328_ARDASHIR_000_120	¡Otro éxito rotundo! ¡Qué suerte tenemos de contar con otra anima tan buena! Hay mucho que quiero hacer para avanzar en mi trabajo, pero por ahora le ruego que descanse. Cuando llegue el momento, empezaremos de nuevo en serio.
+TEXT_JOBREL300_02328_SYSTEM_000_050	¡El anima superó sus límites, y el arma que aloja su soulstone fue forjada de nuevo!

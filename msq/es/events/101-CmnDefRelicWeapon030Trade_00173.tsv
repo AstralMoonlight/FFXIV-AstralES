@@ -1,0 +1,30 @@
+key	text
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_000	Con mis artes, transferiré a tu reliquia la energía luminosa del sphere scroll. Préstame el objeto que deseas potenciar y haré lo necesario.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_Q1_000_000	¿Qué te gustaría potenciar?
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_A1_000_010	<sheet(Item,lnum1,9)>.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_A1_000_020	Nada.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_050	La materia es la clave para seguir potenciando tu reliquia. Cuando hayas infundido lo suficiente un sphere scroll con su poder, vuelve aquí y veremos renacer tu arma.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_055	Para que Jalzahn potencie un arma reliquia animus, debes infundir por completo con materia el sphere scroll correspondiente.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_056	Puedes conseguir sphere scrolls de Hubairtin en the Bonfire, Central Thanalan.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_100_056	Ten en cuenta que el proceso reemplazará los atributos del arma por los que se infundieron en el sphere scroll.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_101_056	Los atributos strength, dexterity, vitality, intelligence y mind subirán a un valor acorde con un equipo de nivel de objeto 110.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_102_056	Los demás atributos se reemplazarán por los que se infundieron en el sphere scroll. En el caso de Thyrus Animus y Omnilex Animus, el direct hit rate base no se reemplazará.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_080	¿Dónde está la reliquia? ¿Acaso olvidaste traerla?
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_085	Asegúrate de tener la reliquia que deseas potenciar en el Armoury Chest o en tu inventario antes de hablar con Jalzahn.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_100	No puedo trabajar en tu reliquia mientras la tengas equipada.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_130	¿Dónde está el sphere scroll para potenciar esta reliquia? ¿Acaso olvidaste traerlo?
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_135	No tienes <ennoun(Item,1,lnum1,1,1)>. Puedes conseguir sphere scrolls de Hubairtin a cambio de botellas de superior enchanted ink.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_140	Ya logramos potenciar esta reliquia, ¿no es así? No necesitas otro, amig<if(gnum4,a,o)>.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_145	Ya tienes <ennoun(Item,1,lnum1,1,1)>.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_145	No puedo hacer mi trabajo hasta que hagas lugar entre tu montón de pertenencias.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_150	Hay que infundir más materia en este sphere scroll antes de que podamos aprovechar su poder.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_151	Cuando resplandezca de energía luminosa, espero que potencie tu reliquia de esta manera.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_160	Lleva el proceso de infusión hasta el final, amig<if(gnum4,a,o)>, y vuelve aquí. Entonces veremos renacer tu arma.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_165	Para que potencien tu arma reliquia animus, debes infundir por completo un sphere scroll con materia y luego llevárselo a Jalzahn.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_170	¡Magnífico! ¡El sphere scroll brilla como las estrellas del cielo!
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_171	Cuando tu reliquia reciba su poder, quedará potenciada de esta manera.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_200	Como lo deseas, terminaré la tarea que tú y Hubairtin comenzaron. Solo tomará un momento.
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_201	¡Oh, poderosa reliquia de antaño! ¡Recibe de este pergamino los recuerdos de esfuerzo y de triunfo, y con tu nueva luz ilumina el camino de <if(gnum4,esta aventurera,este aventurero)>!
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_202	...¡Está hecho! Toma otra vez tu arma, amig<if(gnum4,a,o)>, y báñate en su resplandor: ¡el resplandor de una estrella recién nacida!
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_220	¡Tu arma reliquia animus renació gracias al poder de la materia!
+TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_221	Si quieres potenciar otra arma reliquia animus, puedes hacerlo repitiendo el proceso: infunde un sphere scroll con materia y llévaselo a Jalzahn.

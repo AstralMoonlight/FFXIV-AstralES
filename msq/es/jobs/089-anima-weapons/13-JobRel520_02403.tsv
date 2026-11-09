@@ -1,0 +1,31 @@
+key	text
+TEXT_JOBREL520_02403_SEQ_00	Ardashir tiene curiosidad por saber cómo está el anima.
+TEXT_JOBREL520_02403_SEQ_01	Una llamada de Rowena por linkpearl interrumpe de golpe la pregunta de Ardashir sobre el anima. Según explica el joven erudito, le había enviado documentos con un resumen de su investigación a una reconocida autoridad en magia arcana, que tuvo a bien responderle. Aunque está ansioso por conocer la sabiduría que le comparte, no puede descuidar su trabajo actual. Te pide que te adelantes y vayas a ver a Rowena en Idyllshire.
+TEXT_JOBREL520_02403_SEQ_02	Ardashir irrumpe sin aliento, después de una vuelta inesperada y apresurada a Azys Lla antes de llegar por fin a Idyllshire. Recupera rápido la compostura para estudiar con atención las sabias palabras de la erudita, que resulta ser nada menos que la legendaria Matoya. Aunque su carta está llena de elogios a su trabajo, no le faltan críticas. En concreto, tiene motivos para creer que el enfoque de Ardashir hasta ahora quizá no le haya dado al anima un sentido de individualidad suficiente. A partir de sus escritos, le hizo una propuesta para corregir el problema. Así que él vuelve a Azys Lla para darle la buena noticia a Gerolt.
+TEXT_JOBREL520_02403_SEQ_03	Para nada te sorprende que el entusiasmo desbordado de Ardashir por retomar su trabajo solo se compare con el fastidio de Gerolt y sus ganas de descansar. Solo queda preguntarse qué pruebas y penurias les esperan a ti y al anima.
+TEXT_JOBREL520_02403_TODO_00	Habla con Rowena en Idyllshire.
+TEXT_JOBREL520_02403_TODO_01	Habla con Ardashir en Azys Lla.
+TEXT_JOBREL520_02403_ARDASHIR_000_001	Ah, <split(<string(gstr1)>, ,1)>. Un placer como siempre. ¿Cómo está el anima?
+TEXT_JOBREL520_02403_ARDASHIR_000_002	Tan vivaz como siempre, ya veo. Me tranquiliza verl<if(gnum4,as,os)> bien a l<if(gnum4,as,os)> dos.
+TEXT_JOBREL520_02403_ROWENA_000_002	(-Rowena-)¡Ardashir! ¿Estás ahí, Ardashir? Solo quería saber cómo andas. ¿Cómo van las cosas?
+TEXT_JOBREL520_02403_ARDASHIR_000_003	Ah, Rowena. Mi investigación avanza muy bien, gracias. ¿A qué debo el placer de esta llamada inesperada?
+TEXT_JOBREL520_02403_ROWENA_000_004	(-Rowena-)Son esos papeles que me hiciste mandar hace unas lunas. Te llegó una carta de respuesta, y bastante completa, a juzgar por lo que pesa el sobre. Pensé que querrías pasar a buscarla.
+TEXT_JOBREL520_02403_ARDASHIR_000_005	¿¡S-será posible!? Digo, claro, ¡salgo para Idyllshire de inmediato!
+TEXT_JOBREL520_02403_ARDASHIR_000_006	Después de terminar nuestro trabajo con el anima, escribí un tratado sobre las diversas técnicas que usamos en su desarrollo. Gracias a Rowena y sus influyentes contactos, pude hacérselo llegar a una erudita reconocida, la mayor experta del mundo en entidades arcanas. Casi no lo puedo creer, pero parece que mis observaciones merecieron una respuesta.
+TEXT_JOBREL520_02403_ARDASHIR_000_007	¿Le gustaría acompañarme a lo de Rowena? Solo puedo especular sobre el contenido de la carta, pero me atrevo a decir que quizá descubramos algo que le sirva a su anima.
+TEXT_JOBREL520_02403_ARDASHIR_000_008	¡Excelente! Le ruego que se adelante a Idyllshire. Tengo unas pruebas en curso que debo terminar antes de irme. Me reuniré con usted en breve.
+TEXT_JOBREL520_02403_ROWENA_000_010	Ah, ahí está. ¿Por qué tardaste tanto? Según me contó <split(<string(gstr1)>, ,1)>, estabas tan alterado con esta carta que casi rompes tu linkpearl.
+TEXT_JOBREL520_02403_ARDASHIR_000_011	Mis disculpas. ¡Apenas llegué a the Hinterlands, me di cuenta de que había dejado encendidos los quemadores de mi banco de trabajo! Ejem. Pero eso no viene al caso. ¡Ay, pensar que este momento llegaría! ¿Puedo ver el sobre, Rowena?
+TEXT_JOBREL520_02403_ARDASHIR_000_012	Al fin y al cabo, no todos los días uno recibe una carta personal de la ilustre maestra Matoya.
+TEXT_JOBREL520_02403_ARDASHIR_000_013	Hmm... ¿hmm? Pues sí... ¡Sí, claro! ¡Cómo no lo vi! ¡Pero si ahora está todo tan claro!
+TEXT_JOBREL520_02403_ARDASHIR_000_014	Tenía las expectativas más altas, ¡pero su análisis de mi trabajo fue todavía más completo y esclarecedor de lo que podría haber imaginado!
+TEXT_JOBREL520_02403_ARDASHIR_000_015	¡Y además elogió mis métodos de desarrollo por <italic(1)>innovadores<italic(0)>! ¿Puede creerlo? La incomparable maestra Matoya, maestra de todo lo arcano, quedó impresionada con <italic(1)>mi<italic(0)> intelecto y mi ingenio.
+TEXT_JOBREL520_02403_ARDASHIR_000_016	Luego supuso que, considerando al anima en su calidad de arma consciente, le faltaba sentido de individualidad. ¡Pero no tema! ¡En su benevolencia, tuvo a bien darnos consejos sobre cómo podríamos resolver justamente ese problema!
+TEXT_JOBREL520_02403_ARDASHIR_000_017	El erudito novato que fui alguna vez se habría puesto eufórico solo por recibir consejos que apenas podía entender, pero aprendí mucho durante el tiempo que pasé con usted y con Gerolt.
+TEXT_JOBREL520_02403_ARDASHIR_000_018	Juntos, estoy seguro de que podemos aprovechar bien las enseñanzas de la maestra Matoya. ¿Qué dice, <split(<string(gstr1)>, ,1)>? ¿Nos ponemos a trabajar para darle a su anima un sentido más agudo de sí misma?
+TEXT_JOBREL520_02403_ARDASHIR_000_021	¡Me alegra oírlo! Sin duda Gerolt también va a estar encantado de enterarse de este giro tan emocionante. Volvamos a Azys Lla a darle la buena noticia.
+TEXT_JOBREL520_02403_ROWENA_000_022	A nuestro producto le van a sacar un poco más de brillo, ¿eh? Bueno, si tú y Ardashir necesitan algo, lo que sea, pueden confiar en que la vieja Rowena se encarga.
+TEXT_JOBREL520_02403_ROWENA_000_023	...Siempre que el precio sea justo, claro. Al fin y al cabo, esto no es una obra de caridad. Buena suerte, <split(<string(gstr1)>, ,1)>.
+TEXT_JOBREL520_02403_ROWENA_000_024	Recuerda, <split(<string(gstr1)>, ,1)>: si necesitas algo, solo tienes que decirlo. Ya veremos después cuánto me vas a deber.
+TEXT_JOBREL520_02403_GEROLT_000_030	Sí, ya me enteré, aunque, entre tú y yo, ojalá no me hubiera enterado. \<suspiro> Justo cuando creía que por fin podría disfrutar de un momento de paz...
+TEXT_JOBREL520_02403_ARDASHIR_000_031	¡Ah, por fin volvió! No veo la hora de ver qué maravillas saldrán de los consejos de la maestra Matoya.

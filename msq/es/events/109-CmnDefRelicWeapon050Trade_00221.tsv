@@ -1,0 +1,55 @@
+key	text
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_000	¿Estás list<if(gnum4,a,o)> para recrear un arma legendaria de tiempos antiguos? Entonces hagamos que el alma de tu reliquia actual ascienda a un recipiente recién forjado, y así recreemos una... ¡una Zodiac Weapon!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_001	Sí, la Zodiac Weapon que hagamos con esto será la mejor de todo el país. Si estás firme en tu propósito, ¡empecemos!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_MENU_TITLE	¿Qué Zodiac Weapon te gustaría recrear?
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_MENU_CHOICES	<if([lnum1==9491],<sheet(Item,9491,9)> \(<sheet(Item,8649,9)>\) y <sheet(Item,9500,9)> \(<sheet(Item,8658,9)>\),<head(<sheet(Item,lnum1,9)>)> \(<head(<sheet(Item,lnum2,9)>)>\))>.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_MENU_CANCEL	Nada.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_YESNO_MESSAGE	¿Recrear <if([lnum1==9491],<ennoun(Item,3,9491,1,1)> y <ennoun(Item,3,9500,1,1)>,<head(<ennoun(Item,3,lnum1,1,1)>)>)>?
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_YESNO_YES	Sí
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_YESNO_NO	No
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_030	¿Dónde está tu reliquia? No podemos convertirla en materia si no la tienes.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_SYSTEM_000_031	Asegúrate de tener la reliquia que deseas convertir en materia para tu Zodiac Weapon en el Armoury Chest o en tu inventario antes de hablar con Jalzahn.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_040	No parece que tengas un arma reliquia con soulglaze, amig<if(gnum4,a,o)>.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_050	No tienes lo necesario para recrear una Zodiac Weapon. Te ruego que vuelvas cuando hayas conseguido los objetos necesarios.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_SYSTEM_000_051	Para recrear una Zodiac Weapon, debes tener un ejemplar del Book of Skylight, una pizca de zodium, un Zodiac scroll y una pieza de flawless alexandrite.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_060	...¿No acabo de recrear esa misma arma? ¡Seguro que no necesitas tener dos!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_SYSTEM_000_060	Ya tienes <ennoun(Item,1,lnum1,1,1)>.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_100_070	No puedo hacer mi trabajo hasta que hagas lugar entre tu montón de pertenencias.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_100	¡La culminación de nuestros esfuerzos está tan cerca, <split(<string(gstr1)>, ,1)>!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_101	Vamos, llamemos al maestro Mutamix y luego... ¡a trabajar!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_GEROLT_000_102	Así que voy primero. Bueno, ¡mira nomás lo que puedo hacer con este viejo martillo y este yunque! ¡Voy a forjar para la Zodiac Weapon un recipiente que no tenga igual en toda Eorzea!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_GEROLT_000_103	Uf... Bueno, ya está. ¡Mira el arma tal como era en los tiempos de antaño! Solo falta insertarle materia.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_104	Bien, maestro Mutamix, creo que esa es su especialidad. ¿Convertirá en materia la reliquia de <split(<string(gstr1)>, ,1)>?
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_MUTAMIX_000_105	Pshhh... Shkohhh...<br>...Esta reliquia es cosa-pelea muy poderosa, llena de aire-alma. ¡Mutamix tiene muchos tiemblasustos!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_MUTAMIX_000_106	¡No puede dar palabrajuro de que secreta habilidad-une de Mutamix tendrá éxito! ¡Si falla, cosa-pelea se volverá pedacitos!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_SYSTEM_000_107	Ten en cuenta que la probabilidad de éxito al convertir un arma reliquia nexus en materia es del 1.4%. Si el proceso falla, perderás tu reliquia.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_Q1_000_000	¿Quieres continuar?
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_A1_000_001	Sí
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_A1_000_002	No
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_Q2_000_000	Ten en cuenta que la probabilidad de éxito al convertir un arma reliquia nexus en materia es del 1.4%. Si el proceso falla, perderás tu reliquia. ¿Seguro que quieres continuar?
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_A2_000_001	Sí
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_A2_000_002	No
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_Q3_000_000	¿Abandonar el intento de recrear una Zodiac Weapon?
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_A3_000_001	Sí
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_A3_000_002	No
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_GEROLT_000_110	¡Así se habla! Bueno, ya oíste a <if(gnum4,la muchacha valiente,el muchacho valiente)>, Mutamix: ¡convierte la reliquia en materia!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_GEROLT_000_111	¡Bah! ¿De verdad te vas a escabullir después de todo lo que hiciste para llegar hasta aquí? ¿¡Dónde quedó tu espíritu aventurero, por los dioses!? No le hagas caso, Mutamix. ¡Tú haz lo tuyo!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_GEROLT_000_112	¡Oye, ¿dónde quedaron tus malditas agallas, <if(gnum4,muchacha,muchacho)>!? ¿¡Ya no quieres tu juguete!? ¡Bah, al diablo contigo! ¡Haz lo tuyo, Mutamix!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_MUTAMIX_000_113	¡Entonces que empiece juego-suerte de muchos latecorazones!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_MUTAMIX_000_114	¡Ojosgrandes! ¿¡Mutamix vecierto!? ¡Cosa-pelea reliquia de altoterrano ahora es materia! ¡Mutamix tiene éxito muchomucho!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_GEROLT_000_115	¡Ja! ¡Sabía que podías, Mutamix!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_116	Entonces solo nos queda unir la materia hecha de la reliquia al recipiente de Zodiac Weapon que hizo Gerolt.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_150	¡Vamos, llamemos al maestro Mutamix y pongámonos a recrear el arma!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_200	¡Ahora intentaré completar el arma con el Zodiac scroll y la flawless alexandrite!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_201	Hace siglos, un rey sabio y justo reinaba sobre todo Ilsabard. Una espada como esta adornaba su vaina en tiempos de paz, ¡y aterraba a sus enemigos en tiempos de guerra!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_202	¿Y su escudo? Gemelo del que sostienes: firme, inquebrantable, indestructible.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_203	Cuando la catástrofe se cernía sobre el Cercano Oriente, el héroe Mirza se alzó para defender al pueblo de los demonios. Después de despedazar a los monstruos, levantó un imperio poderoso, ¡y con las garras de sus enemigos se hizo un par de armas como estas!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_204	Un héroe antiguo le arrebató un arma como esta a un señor voidsent. Cuenta la leyenda que cuando la tomó era una espada. ¡Pero luego se transformó según el carácter de quien la empuñaba y se volvió una poderosa hacha de guerra!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_205	Fue la sangre sagrada lo que le dio poder divino a la lanza original de Longinus. Pero los dioses solo le prestaron su fuerza al héroe cuando emprendió una gran peregrinación para expiar su papel en la ejecución de un santo.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_206	¡Mira la réplica del arco largo que alguna vez tensó Yoichi, el famoso arquero del Lejano Oriente! ¡Cuenta una antigua leyenda que el héroe podía disparar una flecha tan certera como para atravesar el ojo de una serpiente marina, incluso en medio de una tempestad!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_207	Tras largos años de rechazar los deseos mundanos, un jerarca del Cercano Oriente se elevó a un estado superior del ser. ¡Y al hacerlo, la vida misma brotó en su fiel bastón, gemelo exacto del que ahora sostienes!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_208	Cuentan las historias que un archimago derrotó a la reina voidsent Lilith cuando se manifestó en nuestro mundo. ¡Como premio, se quedó con su arma, cuya encarnación sostienes ahora en la mano!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_209	Quién escribió el original de este grimorio en tiempos antiguos es un misterio. ¡Pero se dice que las predicciones del fin del mundo que contiene son tan oscuras que destruyen la voluntad de los débiles!
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_210	Cuenta la leyenda que un grimorio como este pasó de mano en mano entre los magos de Nym. De hecho, se sabe que Golbas Rombas, el héroe que salvó a su pueblo de las inundaciones de la Calamidad de la Sexta Era Umbral, lo usaba como arma secreta.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_211	Sasuke, el héroe que liberó a un pueblo del reinado de un tirano, empuñaba hojas como estas. El propio ninja llevaba la sangre de héroes antiguos, y sus descendientes portaron las dagas durante muchas generaciones después de su muerte.
+TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_212	Vamos, toma tu <ennoun(Item,3,lnum1,1,1)>: ¡nacida del resplandor de las estrellas, forjada por la fuerza de los héroes e imbuida de la bendición de las almas!

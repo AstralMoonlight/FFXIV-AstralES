@@ -1,0 +1,66 @@
+key	text
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_000	¡No hay tiempo para charlar! Estoy muy ocupado pensando en formas de forjar mejores armas y pagar mis deudas. En fin, ¿no tienes nada mejor que hacer que hablar conmigo?
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_010	Te llegó mi mensaje, ¿eh? Sí, se me ocurrió otra forma de mejorar todavía más un arma de bastante poder. Dicho esto, no parece que tengas lo que necesito para empezar. Vas a necesitar lo mejor de lo mejor que tiene para ofrecer Anemos.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_020	Y ahí <if(gnum4,está la mujer,está el hombre)> que me va a sacar de esta maldita roca... Eh, digo, <if(gnum4,la mujer,el hombre)> que se merece un arma de poder fenomenal, a la altura de su destreza marcial.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_021	Oye, ¿qué es esa cara? Te estoy haciendo un favor. ¡Podrías mostrar un poco más de entusiasmo, ¿no?!
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_022	¡Eso está mejor! Bueno, te hice un arma malditamente brillante en Anemos, ¿no? Lo mejor que cualquiera podría fabricar en esa región desgraciada.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_023	No podía hacerlo mejor, créeme. Con todo ese aether de aspecto viento metiéndose en cada cosita, serías tonto si siquiera lo intentaras.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_024	Ahora, el herrero promedio tiraría la toalla, ¡pero Gerolt no es nada de eso! Sí, encontré una solución a nuestro problema, y elegante, además.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_025	Si las fuerzas elementales de tu arma están desequilibradas, solo tenemos que volver a equilibrarlas.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_026	Y para eso vamos a necesitar un montón de cristales llenos de aether de varios aspectos para contrarrestar todo el viento.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_027	¡Otra vez con esa cara! Te preocupa de dónde, en los siete infiernos, vas a sacar tantos cristales. ¡De ninguna parte, <if(gnum4,tonta,tonto)>! ¡Los vas a hacer tú!
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_028	Mira esta belleza: ¡un Eurekan kettle! Llévalo contigo cuando andes por Pagos. Cada vez que mates bestias, va a absorber una parte de su aether.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_029	Cuando el kettle esté rebosante de vitiated aether, puedes convertirlo en forma cristalina, con las instalaciones adecuadas, claro.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_030	¿Dónde están esas instalaciones, preguntas? Buena pregunta, maldita sea...
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_031	¡Para el carro, <if(gnum4,asesina,asesino)>! La verdad es que no lo sé. Pero en algún lugar de Pagos, eso es seguro.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_032	Krile fue la que me contó que su abuelo inventó un aparato para comprimir aether en cristales. Calculaba que debía de estar cerca de nuestro campamento. Más que eso, no sabe.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_033	En fin, vas a reconocer esa crystal forge cuando la veas. Si te sirve, piénsalo como una aventura. Todavía eres <if(gnum4,aventurera,aventurero)>, ¿no?
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_034	¡Bien, entonces! ¡Cuento contigo para que traigas esos cristales, así te hacemos un arma mejor y demostramos que mi método no es una sarta de pavadas! ¡Y entonces la arpía va a tener que darme lo que me corresponde, y estaré un paso más cerca de la libertad!
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_035	A medida que derrotes enemigos en <sheet(ContentFinderCondition,lnum1,43)>, tu Eurekan kettle irá acumulando vitiated aether.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_036	Durante la expedición, un medidor muestra la cantidad de aether que tiene tu kettle.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_040	¿Y bien? ¿Tienes suficientes materiales para que me ponga a trabajar?
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_MENU_000_000	¿Qué quieres hacer?
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_MENU_000_001	Mejorar un arma Eureka.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_MENU_000_002	Informarte sobre cómo mejorar las armas Eureka.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_MENU_000_003	Nada.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_060	¿Eh? ¿Cómo diablos esperas que mejore un arma que no tienes? No tengo tiempo para esto. Lárgate.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_Q2_000_000	Elige un arma Eureka.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_A2_000_001	<sheet(Item,lnum1,9)>.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_A2_100_001	<sheet(Item,lnum1,9)> y <sheet(Item,lnum2,9)>.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_A2_000_003	Cancelar.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_100_060	¿Lo que parece que tienes empuñado ahora mismo, <ennoun(Item,3,lnum1,1,1)>, dices? Por lo que sé, es lo único que tienes para defenderte. Hazme el favor de quitártelo, ¿quieres?
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_200_060	¿<head(<ennoun(Item,1,lnum1,1,1)>)>, dices? Muy bien. Y trajiste también los materiales necesarios, ¿no?
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_070	...Parece que no. Por lo que veo, te falta<if([lnum1==1],,n)> <if([lnum1==1],<ennoun(Item,1,23309,1,1)>,<if(lnum1,<if([lnum1<=10],<switch(lnum1,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)> <ennoun(Item,3,23309,2,1)>)>.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_071	No tienes los <ennoun(Item,3,23309,2,1)> necesarios para mejorar <ennoun(Item,2,lnum1,1,1)>.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_072	Además, al mejorar tu arma, quizá tengas que conseguir algo distinto de <ennoun(Item,3,23309,2,1)>. ¡Habla con otros jugadores y comparte información para descubrir cómo seguir!
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_080	Hmm... Tienes <ennoun(Item,3,23309,2,1)> de sobra, sí, pero esta vez eso solo no alcanza.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_081	Para mejorar <ennoun(Item,2,lnum1,1,1)>, tendrás que conseguir algo distinto de <ennoun(Item,3,23309,2,1)>. ¡Habla con otros jugadores y comparte información para descubrir cómo seguir!
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_050_080	¿Qué tienes ahí? ¿<head(<ennoun(Item,3,lnum1,2,1)>)>? Eso sirve para lo que queremos, sí, pero vamos a necesitar más. <head(<if(lnum2,<if([lnum2<=10],<switch(lnum2,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)>)> o algo así.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_050_081	No tienes los <ennoun(Item,3,lnum2,2,1)> necesarios para mejorar <ennoun(Item,2,lnum1,1,1)>.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_100_080	¡Oye, no puedes esperar que mejore tu hoja sin <ennoun(Item,2,lnum1,1,1)> que la acompaña! ¡Son un juego, sí señor!
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_100_081	Para mejorar <ennoun(Item,2,lnum1,1,1)>, también tienes que tener <ennoun(Item,2,lnum2,1,1)>.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_200_080	Un momento, maldita sea, ¿¡no tienes ya <ennoun(Item,1,lnum1,1,1)>!? ¿Para qué demonios podrías necesitar dos?
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_200_081	No puedes tener más de una unidad de <ennoun(Item,3,lnum1,1,1)>.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_090	...Sí que los tienes. Bien, entonces. Pásamelos y me pongo a trabajar.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_091	Quédate tranquil<if(gnum4,a,o)>, <if(gnum4,muchacha,muchacho)>. Esto solo va a tardar un momento...
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_100	¡Bwajaja, sabía que podía! ¡<ennoun(Item,1,lnum1,1,1)> y <ennoun(Item,1,lnum2,1,1)>! ¡De mis mejores trabajos hasta ahora, diría yo!
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_110	¡Bwajaja, sabía que podía! ¡<head(<ennoun(Item,1,lnum1,1,1)>)>! ¡De mis mejores trabajos hasta ahora, diría yo!
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_120	Pero no creas que esto termina aquí. Confío en que podemos exprimirle más a este páramo helado y meterlo en tus armas.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_130	Que me parta un rayo, lo hicimos otra vez. Domamos el verdadero potencial de Pagos. Tienes en tus manos la culminación de lo que este páramo helado tiene para ofrecer.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_140	Te presento... ¡<ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>!
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_150	Te presento... ¡<ennoun(Item,2,lnum1,1,1)>!
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_160	Te lo digo, <if(gnum4,muchacha,muchacho)>, a veces me asusto a mí mismo. Si los dioses quieren, también voy a asustar a la arpía, o al menos superar tanto sus expectativas que me descuente unos cuantos millones de la deuda. En fin, si necesitas más trabajos, avísame.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_Q3_000_000	¿Sobre qué vas a preguntar?
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_A3_000_001	Acumular vitiated aether.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_A3_000_002	Los frosted protean crystals.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_A3_000_003	Los materiales necesarios.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_A3_000_004	Nada.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_170	¿Todavía tienes ese kettle que te di? Llévalo siempre contigo. Va a recoger el aether de cualquier bestia que mates en Pagos.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_171	A medida que derrotes enemigos en <sheet(ContentFinderCondition,lnum1,43)>, tu Eurekan kettle irá acumulando vitiated aether.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_172	Durante la expedición, un medidor muestra la cantidad de aether que tiene tu kettle.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_180	Así que en algún lugar de Pagos hay una o dos crystal forges que puedes usar para comprimir el vitiated aether en los cristales que necesito para mejorar tu arma. Pero vas a tener que encontrarlas por tu cuenta.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_181	Gerolt necesita <ennoun(Item,3,23309,2,1)> para seguir mejorando las armas Eureka.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_182	<head(<ennoun(Item,3,23309,2,1)>)>: se crean convirtiendo el vitiated aether acumulado con la ayuda de una crystal forge.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_183	Esa crystal forge está en algún lugar de <sheet(ContentFinderCondition,lnum1,43)>. ¡Habla con otros jugadores y comparte información para descubrir cómo seguir!
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_190	<head(<ennoun(Item,3,23309,2,1)>)>: al principio quizá basten, pero voy a necesitar algo más si quieres liberar el verdadero potencial de tu arma. No puedo decir con seguridad qué otros materiales servirán, pero los reconoceré cuando los vea. Mantén los ojos bien abiertos por si ves algo prometedor.
+TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_191	Para mejorar las armas Eureka más allá de la etapa inicial, tendrás que conseguir algo distinto de <ennoun(Item,3,23309,2,1)>. ¡Habla con otros jugadores y comparte información para descubrir cómo seguir!

@@ -1,0 +1,25 @@
+key	text
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_Q1_000_000	¿Qué quieres hacer?
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A1_000_001	Potenciar un arma Eureka con mnemes.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A1_000_002	Leer el manual.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A1_000_003	Nada.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_000	No tienes ningún arma Eureka que se pueda potenciar con mnemes.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_Q1_001_000	Elige un arma Eureka.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A1_001_001	<sheet(Item,lnum1,9)>.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A1_001_002	Cancelar.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_010	No tienes los <ennoun(Item,3,24122,2,1)> necesarios para potenciar <ennoun(Item,2,lnum1,1,1)> con mnemes.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_011	Para potenciar <ennoun(Item,2,lnum1,1,1)> con mnemes, se necesitan <if(lnum2,<if([lnum2<=10],<switch(lnum2,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)> <ennoun(Item,3,24122,2,1)>.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_YESNO_000	¿Extraer y transustanciar los mnemes de <if(lnum2,<if([lnum2<=10],<switch(lnum2,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)> <ennoun(Item,3,24122,2,1)> para potenciar <ennoun(Item,2,lnum1,1,1)>?
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_YESNO_001	¿Volver a extraer y transustanciar los mnemes de <if(lnum2,<if([lnum2<=10],<switch(lnum2,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)> <ennoun(Item,3,24122,2,1)> para potenciar <ennoun(Item,2,lnum1,1,1)>?
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_Q2_000_000	Elige un tema.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A2_000_001	Potenciar armas Eureka con mnemes.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A2_000_002	Los materiales necesarios.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A2_000_003	Volver.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_MANUAL00539_000_020	(-Manual de la mnemeworks-)"Se recomienda encarecidamente familiarizarse con todos los aspectos de la estación mnemeworks antes de intentar potenciar un arma. No hacerlo puede provocar una falla catastrófica y/o lesiones corporales graves y/o la muerte..."
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_021	Con la mnemeworks, puedes imbuir tu arma Pyros de propiedades adicionales.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_022	La fuerza y la naturaleza de esas propiedades se deciden al azar. Además, si tienes materiales suficientes, puedes repetir el proceso.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_MANUAL00539_000_030	(-Manual de la mnemeworks-)"Asegúrese de tener suficientes <ennoun(Item,3,24122,2,1)> antes de usar la estación mnemeworks. No hacerlo puede provocar una falla catastrófica y/o lesiones corporales graves y/o la muerte..."
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_031	Para potenciar un arma Pyros, tienes que tener la cantidad necesaria de <ennoun(Item,3,24122,2,1)>.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_032	Esa cantidad depende del arma. Un arma de paladin necesita <if(lnum1,<if([lnum1<=10],<switch(lnum1,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)>, igual que un escudo. Todas las demás armas necesitan <if(lnum3,<if([lnum3<=10],<switch(lnum3,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum3)>)>,<num(lnum3)>)> <ennoun(Item,3,24122,2,1)>.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_033	<head(<ennoun(Item,3,24122,2,1)>)>: se crean convirtiendo el vitiated aether acumulado con la ayuda de una Mark II crystal forge.
+TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_034	Ten en cuenta que los <ennoun(Item,3,24122,2,1)> solo se consiguen con la Mark II crystal forge de <sheet(ContentFinderCondition,lnum1,43)>, y que las crystal forges de otros lugares no producen este material.

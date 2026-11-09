@@ -1,0 +1,43 @@
+key	text
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_000_000	Dediqué mi vida a los tesoros que brillan y resplandecen. Si quiere cristales que brillen de verdad, ya sabe lo que necesito.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_Q1_000_000	¿Qué haces?
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_A1_000_001	Ofrecer una Zodiac Weapon Zeta.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_A1_000_002	Ofrecer luminous crystals.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_A1_100_002	Preguntar por los luminous crystals.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_A1_000_003	Nada.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_000_010	Ah, así que los rumores eran ciertos. ¿Tiene una Zodiac Weapon? En todos mis años nunca tuve el privilegio de trabajar con algo tan valioso.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_100_010	Alimentada por incontables almas y moldeada por la fuerza de la suya, dará un buen par de astral y umbral nodules.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_000_011	Pero debo advertirle: este proceso consumirá por completo la Zodiac Weapon, cuerpo y alma. Tendrá sus cristales, pero será el fin de su arma y de su historia legendaria.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_000_012	Ten en cuenta que perderás tu Zodiac Weapon si decides continuar.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_000_013	¿Qué es esto? ¿Así que los rumores no son más que eso, rumores? Qué lástima.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_Q2_000_000	Elige una Zodiac Weapon Zeta.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_A2_000_001	<sheet(Item,lnum1,9)>.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_A2_000_002	<ennoun(Item,3,lnum1,1,1)> y <ennoun(Item,3,lnum2,1,1)>.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_A2_000_003	Cancelar.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_000_020	Su determinación es admirable. Ahora, si pudiera quitarse el arma de encima, podría ponerme a trabajar en las nodules.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_000_021	Su determinación es admirable. Ahora, si pudiera quitarse la espada y el escudo de encima, podría ponerme a trabajar en las nodules.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_000_022	Asegúrate de tener la Zodiac Weapon Zeta que deseas ofrecer en el Armoury Chest o en tu inventario antes de hablar con Syndony.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_Q3_000_000	¿Ofrecerle a Syndony <ennoun(Item,2,lnum1,1,1)> para crear las astral y umbral nodules?<br><colortype(500)><edgecolortype(501)>※Perderás <head(<ennoun(Item,2,lnum1,1,1)>)>.<edgecolortype(0)><colortype(0)>
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_Q3_000_001	¿Ofrecerle a Syndony <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)> para crear las astral y umbral nodules?<br><colortype(500)><edgecolortype(501)>※Perderás <head(<ennoun(Item,2,lnum1,1,1)>)> y <ennoun(Item,2,lnum2,1,1)>.<edgecolortype(0)><colortype(0)>
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_A3_000_002	Sí
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_A3_000_003	No
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_Q4_100_001	Ten en cuenta que este proceso es irreversible y que perderás la Zodiac Weapon Zeta para siempre. ¿Continuar?
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_A4_100_002	Sí
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_A4_100_003	No
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_100_030	Exquisito. Sencillamente exquisito. Nunca vi tanta concentración de aether puro en un marco tan hermoso. La energía vital se siente en el aire.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_100_031	Sí, con esto tengo todo lo que necesito para infundir en los cristales las energías de la luz y la oscuridad. ¡Mire!
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_100_032	Las energías astral y umbral que antes habitaban su arma se manifestaron. Nodules del aether más puro.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_000_030	Aprovechando la energía de almas de <ennoun(Item,2,lnum1,1,1)>, Syndony creó una astral nodule y una umbral nodule.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_000_031	Aprovechando la energía de almas de <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>, Syndony creó una astral nodule y una umbral nodule.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_000_032	No puedes recibir las astral y umbral nodules porque no tienes espacio suficiente en el inventario.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_000_033	No tienes la Zodiac Weapon Zeta que elegiste.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_000_040	Ah, así que reunió los luminous crystals necesarios. Sí que es <if(gnum4,una viajera curtida,un viajero curtido)>.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_000_041	Como sin duda sabe, cada nodule requiere una mezcla distinta de cristales. Entonces, ¿cuál quiere que le haga?
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_100_050	Los luminous crystals que necesito se forman de aether, pero de una manera bastante inusual. Además del aether natural de los elementos, absorben también las energías residuales de almas valientes que hace mucho volvieron al Lifestream.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_200_050	Tanto la astral nodule como la umbral nodule requieren tres tipos de luminous crystals de aspecto elemental.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_100_051	Como su nombre lo indica, la astral nodule requiere cristales cuyas energías tiendan a lo astral: fuego, viento y rayo. En cambio, para la umbral nodule hacen falta cristales de hielo, tierra y agua.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_TALK_100_052	El proceso exige muchísimo aether. Sin al menos uno de cada elemento, no puedo garantizar que funcione.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_100_053	Puedes conseguir las astral y umbral nodules a cambio de luminous crystals de aspecto elemental. Estos cristales se pueden obtener, aunque con poca probabilidad, participando en FATEs de ciertas zonas.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_100_054	Los luminous wind crystals se obtienen en los FATEs de the Sea of Clouds.<br>Los luminous fire crystals se obtienen en los FATEs de Azys Lla.<br>Los luminous lightning crystals se obtienen en los FATEs de the Churning Mists.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_100_055	Los luminous ice crystals se obtienen en los FATEs de the Coerthas Western Highlands.<br>Los luminous earth crystals se obtienen en los FATEs de the Dravanian Forelands.<br>Los luminous water crystals se obtienen en los FATEs de the Dravanian Hinterlands.
+TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_100_056	Los luminous crystals se pueden obtener, aunque con poca probabilidad, participando en FATEs de las regiones mencionadas con cualquier Disciple of War o Disciple of Magic, sin importar el nivel.

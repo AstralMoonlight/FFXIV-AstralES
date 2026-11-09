@@ -1,0 +1,87 @@
+key	text
+TEXT_AKTKCT101_04730_SEQ_00	Chora-Zoi espera la llegada de una visita importante.
+TEXT_AKTKCT101_04730_SEQ_01	Una Chora-Zoi entusiasmada te aborda, ansiosa por contarte que un artesano legendario vuelve al Crystarium después de una larga ausencia. Al oír esto, no te sorprende demasiado descubrir que el artesano que llega poco después es el mismo Grenoldt que conociste en las profundidades de the Tempest. Grenoldt decidió que es hora de volver a la sociedad, y te invita a acompañarlo mientras busca unir su experiencia de veterano con el potencial sin explotar de una nueva generación de artesanos: en concreto, la prometedora Chora-Zoi.
+TEXT_AKTKCT101_04730_SEQ_02	Acompañas a Grenoldt mientras se reencuentra con viejos conocidos en the Mean, y luego presencias una incómoda muestra de admiración mutua. Dejando de lado el romance reavivado con la señora Mowen, se decide que el artesano veterano guiará a la joven Chora-Zoi en su empeño por crear una nueva línea de herramientas de artesano, una empresa en la que se te anima mucho a participar. Katliss, que ofreció tu ayuda sin preguntarte, tuvo la amabilidad de darles a los tres un lugar donde trabajar: un puesto cercano.
+TEXT_AKTKCT101_04730_SEQ_03	Chora-Zoi explica lo difícil que le resulta producir obras originales, así que Grenoldt le sugiere empezar su búsqueda de innovación tomando sus viejas herramientas como base. Aunque la intimida la idea de mejorar semejantes obras maestras, los consejos firmes de Grenoldt y el apoyo comercial que ofrece Mowen bastan para convencer a la joven artesana de empezar a fabricar sus propias "splendorous tools". Tu papel en este proyecto, sin embargo, todavía no está del todo explicado...
+TEXT_AKTKCT101_04730_TODO_00	Habla con Grenoldt.
+TEXT_AKTKCT101_04730_TODO_01	Vuelve a hablar con Grenoldt.
+TEXT_AKTKCT101_04730_CHORAZOI_000_001	¡Disculpe! Usted es <if(gnum4,la,el)> Warrior of Darkness, ¿verdad? Me llamo Chora-Zoi y trabajo para the Facet of Forging.
+TEXT_AKTKCT101_04730_CHORAZOI_000_002	Perdone que le interrumpa el día, pero como dicen que es <if(gnum4,una artesana experimentada,un artesano experimentado)>, pensé que quizá le interesaría la noticia.
+TEXT_AKTKCT101_04730_CHORAZOI_000_003	¡Un artesano de fama legendaria vuelve al Crystarium! Hace mucho que estaba lejos, viviendo en algún lugar salvaje para concentrarse en dominar su oficio sin distracciones mundanas...
+TEXT_AKTKCT101_04730_CHORAZOI_000_004	Pero ahora que la noche volvió al mundo, sintió que era hora de regresar. De hecho, debería llegar en cualquier momento. ¡Ah, pensar que pronto voy a conocer a una de mis mayores inspiraciones!
+TEXT_AKTKCT101_04730_CHORAZOI_100_006	\<jadeo> Allá... ¡Creo que es él!
+TEXT_AKTKCT101_04730_CHORAZOI_000_006	¿M-M-Maestro Grenoldt...?
+TEXT_AKTKCT101_04730_GRENOLDT_000_007	Sí, ese soy yo. Tú debes ser la joven artesana que me dijeron que estaría esperando. Chora-Zoi, ¿no?
+TEXT_AKTKCT101_04730_CHORAZOI_100_007	¡S-Sí, señor! ¡Es <italic(1)>todo<italic(0)> un honor!
+TEXT_AKTKCT101_04730_GRENOLDT_000_008	¡Y <split(<string(gstr1)>, ,1)>, no esperaba verte aquí! Espero que hayas estado bien.
+TEXT_AKTKCT101_04730_CHORAZOI_000_009	Un momento... ¿¡Ustedes dos se conocen!?
+TEXT_AKTKCT101_04730_GRENOLDT_000_010	Sí, vino a visitar mi taller en las profundidades de the Tempest, nada menos. Le di un juego de equipo a cambio de que me ayudara con un trabajo, y después se fue a salvar el mundo, o algo así...
+TEXT_AKTKCT101_04730_CHORAZOI_000_011	¡Ay, es como ver a los héroes de los cuentos cobrar vida! Estaba decidida a pedirle que fuera mi mentor, ¡pero solo conocerlo ya es un sueño hecho realidad!
+TEXT_AKTKCT101_04730_GRENOLDT_000_013	Vamos, vamos, muchacha, no soy digno de la admiración de una artesana joven tan sincera. Era la triste sombra de un hombre, escondido en una tumba de agua.
+TEXT_AKTKCT101_04730_GRENOLDT_000_014	Recién cuando apareció <split(<string(gstr1)>, ,1)> me di cuenta de cuánto dependía mi trabajo de la gente que intenté dejar atrás. Entonces me puse a pensar que debía juntarme con los talentos que vienen pisando fuerte, ya sabes, para tener una mirada nueva.
+TEXT_AKTKCT101_04730_GRENOLDT_000_016	Les mandé una carta diciendo eso a mis viejos amigos de the Mean, y me hablaron de una artesana prometedora que se había interesado por mi oficio. Así que lo tomé como la señal que necesitaba para traer de vuelta a casa mi triste trasero.
+TEXT_AKTKCT101_04730_CHORAZOI_000_017	¿¡Se refiere a mí!? ¿¡<italic(1)>Yo<italic(0)> fui la señal!? ¡No se va a arrepentir, maestro Grenoldt, se lo prometo!
+TEXT_AKTKCT101_04730_CHORAZOI_000_018	¿Vamos directo a the Mean? Katliss y los demás tienen muchas ganas de verlo.
+TEXT_AKTKCT101_04730_GRENOLDT_000_019	Que aparecieras justo en este momento es cosa del destino, me parece. ¿Por qué no vienes con nosotros, y hacemos un gran reencuentro?
+TEXT_AKTKCT101_04730_CHORAZOI_000_020	¡Estoy totalmente de acuerdo! ¡Por favor, venga con nosotros, <split(<string(gstr1)>, ,1)>!
+TEXT_AKTKCT101_04730_CHORAZOI_000_030	Hace casi una década que el maestro Grenoldt no venía al Crystarium. No me imagino lo que debe estar sintiendo.
+TEXT_AKTKCT101_04730_GRENOLDT_000_031	Vaya, qué gusto da ver esto... Esas vigas de hierro. Esas cúpulas elegantes. Mirar esa arquitectura de chico fue lo que me metió en el oficio en primer lugar.
+TEXT_AKTKCT101_04730_CHORAZOI_000_032	¡Ahhh, así que la ciudad misma fue su primera fuente de inspiración! Debe tener historias maravillosas: ¡no veo la hora de oírlas todas!
+TEXT_AKTKCT101_04730_CHORAZOI_000_033	¿No es la señora Mowen?
+TEXT_AKTKCT101_04730_GRENOLDT_000_034	¡Señora Mowen! Hablando de qué gusto da ver algo... ¿No habrá venido a la ciudad por este pobre servidor?
+TEXT_AKTKCT101_04730_MOWEN_000_035	Claro que sí. Muchas tardes las pasé en la terraza de Eulmore, mirando a lo lejos y pensando con cariño en mi herrero malhablado.
+TEXT_AKTKCT101_04730_GRENOLDT_100_036	Eh, ejem... Debería explicarlo.
+TEXT_AKTKCT101_04730_GRENOLDT_000_036	Le debo mucho a la señora Mowen. Si ella no hubiera creído en mí, lo suficiente para promocionar mis productos por toda Norvrandt, me parece que nunca habría llegado a ser artesano.
+TEXT_AKTKCT101_04730_GRENOLDT_000_037	Resulta que encontré a mi musa en esos ojos encantadores. ¡Las miles de teteras que forjé para capturar ese brillo cautivador fueron lo que me puso en el camino del herrero!
+TEXT_AKTKCT101_04730_GRENOLDT_100_037	En esta grabé una marca que vi en un sueño... y se volvió el símbolo de mi buena fortuna, la encarnación de todas mis aspiraciones.
+TEXT_AKTKCT101_04730_GRENOLDT_000_038	Sin usted, señora Mowen, no sería el artesano que soy hoy. Espero que el tonto que pasó tantos años puliendo su oficio bajo el océano todavía sea alguien de quien pueda estar orgullosa...
+TEXT_AKTKCT101_04730_MOWEN_000_039	Grandulón, la encantada fui yo: por su oficio y por su disciplina inquebrantable. ¡Imitando esos valores tan admirables pude construir mi imperio comercial!
+TEXT_AKTKCT101_04730_CHORAZOI_000_040	¡Ejem! ¡Bueno! Maestro Grenoldt, ¿tenía algo en particular que quisiera forjar? ¿Algún plan o dirección general en mente?
+TEXT_AKTKCT101_04730_GRENOLDT_000_041	Esa iba a ser mi pregunta para ti, Chora-Zoi. Antes de empezar, necesito saber: ¿qué es lo que más sueñas con fabricar?
+TEXT_AKTKCT101_04730_CHORAZOI_000_042	Bueno, yo... Supongo que siempre me gustó la idea de una herramienta que se "sintonice" con el artesano que la sostiene. Pero nunca pude decidirme por un diseño...
+TEXT_AKTKCT101_04730_GRENOLDT_000_043	Olvídate de los detalles por ahora: la semilla de tu idea es todo lo que necesitamos para arrancar. ¡Súbete conmigo al carro de la fabricación y vemos adónde nos lleva!
+TEXT_AKTKCT101_04730_MOWEN_000_046	¡Qué maravilla! Ser un artesano veterano que toma una discípula era algo que siempre deseó, ¿no es así?
+TEXT_AKTKCT101_04730_GRENOLDT_000_047	¿Se... acuerda de eso? Parece que hace una eternidad que lo hablamos.
+TEXT_AKTKCT101_04730_MOWEN_000_049	Empezó una nueva era. Norvrandt está saliendo de cien años de letargo, y las herramientas que usted invente ayudarán a darle forma al mundo en que se convierta.
+TEXT_AKTKCT101_04730_MOWEN_000_050	Como presidenta de the Boutique of Splendors, considero mi deber apoyar a los artesanos de hoy y de mañana. Decida lo que decida, le prometo todo mi apoyo.
+TEXT_AKTKCT101_04730_KATLISS_000_051	¿Puedo sugerirles que <split(<string(gstr1)>, ,1)> les dé una mano? Respondo personalmente por su habilidad, y estoy segura de que la herramienta que terminen fabricando saldrá ganando con su participación.
+TEXT_AKTKCT101_04730_GRENOLDT_000_052	¡No voy a decir que no a eso! ¡Con el potencial de Chora-Zoi y tu talento probado, voy a estar en buena compañía!
+TEXT_AKTKCT101_04730_MOWEN_000_053	Tener el nombre de <if(gnum4,la,el)> Warrior asociado a su proyecto agregará algo más que simple prestigio: podríamos estar viendo nacer algo de verdad histórico. Como comerciante, no se me ocurre honor ni oportunidad mayor que formar parte de esta empresa.
+TEXT_AKTKCT101_04730_KATLISS_000_054	Vas a necesitar un lugar donde trabajar, imagino. Armamos un puesto justo afuera de the Mean, así que siéntete como en casa todo el tiempo que decidas quedarte.
+TEXT_AKTKCT101_04730_GRENOLDT_000_055	Suena perfecto: me gusta la idea de tener cerca el bullicio. Vamos a desempacar mis herramientas, ¿te parece?
+TEXT_AKTKCT101_04730_CHORAZOI_000_060	¡La mesa de trabajo del maestro Grenoldt en el Crystarium! ¡Imagine las maravillas que se van a hacer aquí!
+TEXT_AKTKCT101_04730_MOWEN_000_061	Me recuerda los primeros días de mi boutique, los viajes que hacía para recoger las últimas creaciones de Grenoldt y llevarlas al mercado. Son de mis recuerdos más queridos...
+TEXT_AKTKCT101_04730_QUINNANA_100_061	No recuerdo la última vez que vi a la señora Mowen tan llena de alegría. Incluso en el camino desde Eulmore se la veía, bueno, un poco eufórica, si le soy sincero.
+TEXT_AKTKCT101_04730_GRENOLDT_000_062	Tengo un horno del Crystarium en mi taller de the Tempest, así que conozco bien las instalaciones de aquí.
+TEXT_AKTKCT101_04730_GRENOLDT_000_063	Cualquier refinado o fundición se puede hacer en the Facet of Forging, y este lugar me va a servir de mesa de trabajo.
+TEXT_AKTKCT101_04730_GRENOLDT_000_064	Una cosa, señorita Chora-Zoi: ¿tienes mucha experiencia fabricando piezas originales?
+TEXT_AKTKCT101_04730_CHORAZOI_000_065	Prácticamente ninguna, me da vergüenza decirlo. Tengo cierto talento para hacer réplicas, pero cuando se trata de ideas nuevas, me abruman las posibilidades.
+TEXT_AKTKCT101_04730_GRENOLDT_000_066	Y por eso te quedas con lo que conoces, ¿eh? Hmm.
+TEXT_AKTKCT101_04730_GRENOLDT_000_067	¿Qué tal si probamos esto, entonces? Tomas algunas de mis viejas herramientas como base, y ves qué mejoras puedes agregarles para hacerlas tuyas.
+TEXT_AKTKCT101_04730_GRENOLDT_100_067	Aquí mismo tengo un juego en el que puedes trabajar.
+TEXT_AKTKCT101_04730_CHORAZOI_000_068	¿L-Las herramientas que hizo usted mismo? ¿¡Las mismas herramientas que elogian los maestros artesanos de todos los rincones de Norvrandt!? ¡Debo haber cumplido cien pedidos de copias de sus diseños!
+TEXT_AKTKCT101_04730_GRENOLDT_000_069	Sí, hubo un tiempo en que eran de lo más populares. Antes de hacerme ermitaño, me la pasaba fabricándolas de sol a sol. Hasta tuve una pesadilla en la que estaba atrapado, trabajando como esclavo en mi forja hasta que se me caía el maldito pelo.
+TEXT_AKTKCT101_04730_CHORAZOI_000_070	Pero... ¡son <italic(1)>obras maestras<italic(0)>! ¿Qué podría hacer yo para mejorarlas?
+TEXT_AKTKCT101_04730_GRENOLDT_000_071	Para empezar, no te lo tomes tan en serio. Juega un poco, ajusta algunas medidas, y pronto te vas a dar cuenta de qué es posible y qué no.
+TEXT_AKTKCT101_04730_MOWEN_000_073	Ah, qué recuerdos tan queridos. Grenoldt enterrado bajo herramientas sin terminar, yo ahogada en recibos de compra, y los pedidos que no dejaban de llegar...
+TEXT_AKTKCT101_04730_GRENOLDT_100_073	¡Señora Mowen, no!
+TEXT_AKTKCT101_04730_GRENOLDT_100_074	Perdón, no quise... Es que se le van a llenar de grasa de herramientas esas manos tan limpias, nada más.
+TEXT_AKTKCT101_04730_MOWEN_000_074	¡Soy yo quien debería disculparse! Un movimiento descuidado, y podría haber arruinado su proyecto antes de que empezara...
+TEXT_AKTKCT101_04730_GRENOLDT_000_075	¡No pasa nada, todo está bien! ¡Su toque nunca podría arruinar nada!
+TEXT_AKTKCT101_04730_GRENOLDT_000_076	Ejem. Si me exprimo la cabeza, no debería tardar mucho en dibujar algunos planos para hacer evolucionar los diseños originales. Tú vas a ser la que haga las mejoras de verdad, así que siéntete libre de dibujar encima o hacer los ajustes que quieras.
+TEXT_AKTKCT101_04730_MOWEN_000_077	¡Y the Boutique conseguirá los materiales que necesiten, por raros que sean!
+TEXT_AKTKCT101_04730_GRENOLDT_000_078	Mi querida señora, no tengo palabras para agradecerle su generosa ayuda...
+TEXT_AKTKCT101_04730_CHORAZOI_000_079	¡Se me acaba de ocurrir una idea maravillosa! Vamos a necesitar un nombre para nuestras nuevas creaciones, y ¿qué mejor forma de mostrarle nuestra gratitud a the Boutique que llamarlas "splendorous tools"?
+TEXT_AKTKCT101_04730_MOWEN_000_080	¡Qué lindo gesto, señorita Chora-Zoi! Pero el papel de una comerciante es solo asegurarse de que la artesana tenga la arcilla creativa que elija. Sería una presunción extrema que mi establecimiento se llevara el protagonismo cuando el genio es todo suyo.
+TEXT_AKTKCT101_04730_CHORAZOI_000_081	¡Esa dignidad y esa dedicación tan discretas son justo la razón por la que me enorgullecería que usted y su negocio nos representaran! Si sirve de algo, piénselo como un homenaje a su reencuentro con el maestro Grenoldt.
+TEXT_AKTKCT101_04730_GRENOLDT_000_082	Bueno, esto ya se está poniendo incómodo... ¿Qué piensas tú, <split(<string(gstr1)>, ,1)>?
+TEXT_AKTKCT101_04730_Q2_000_000	¿Qué vas a decir?
+TEXT_AKTKCT101_04730_A2_000_001	La dignidad y la dedicación suenan a buenas virtudes con las que asociarse.
+TEXT_AKTKCT101_04730_A2_000_002	Me parece simplemente <italic(1)>perfecto<italic(0)>.
+TEXT_AKTKCT101_04730_MOWEN_000_084	En ese caso, me esforzaré el doble para cumplir mi promesa de apoyo. ¡Que sus splendorous tools sean el instrumento para crear las maravillas de esta nueva era!
+TEXT_AKTKCT101_04730_MOWEN_000_085	Espero que tengan todo lo que necesitan para empezar. Le pedí a Quinnana que los atienda como representante de the Boutique, pero tengan por seguro que volveré pronto a ver cómo avanzan.
+TEXT_AKTKCT101_04730_GRENOLDT_100_086	En un rato te explico mis planos, pero por ahora te dejamos la herramienta base a ti, <split(<string(gstr1)>, ,1)>. Katliss dice que estás <if(gnum4,capacitada,capacitado)> para probar las herramientas, y eso me basta.
+TEXT_AKTKCT101_04730_CHORAZOI_000_086	¡Quinnana va a compartir nuestro puesto, y tiene toda una variedad de otras herramientas por si las necesita!
+TEXT_AKTKCT101_04730_CHORAZOI_000_087	No puedo creer que esto esté pasando de verdad... ¡Yo, aprendiendo bajo la tutela de <if(gnum4,la,el)> Warrior of Darkness <italic(1)>y<italic(0)> del maestro Grenoldt!
+TEXT_AKTKCT101_04730_SYSTEM_000_088	El splendorous coffer te dará una herramienta principal según la clase que tengas en el momento de abrirlo.
+TEXT_AKTKCT101_04730_SYSTEM_000_089	Puedes conseguir las herramientas de otras clases hablando con Quinnana, en la mesa de trabajo de Grenoldt, justo afuera de the Crystalline Mean.

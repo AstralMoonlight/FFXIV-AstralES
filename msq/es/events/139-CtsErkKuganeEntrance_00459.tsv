@@ -1,0 +1,51 @@
+key	text
+TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_000	¡Qué lugar tan maravilloso es Kugane! Tan colorido, tan animado. En momentos así sé de corazón que tomé la decisión correcta al dejar Sharlayan y ampliar mis horizontes...
+TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_100_010	Hola otra vez, <if(gnum4,amiga,amigo)>. Si quiere viajar a Eureka, me temo que no tiene suerte. Pero si tiene alguna pregunta, con gusto le doy una mano.
+TEXT_CTSERKKUGANEENTRANCE_00459_Q1_000_000	¿Qué quieres hacer?
+TEXT_CTSERKKUGANEENTRANCE_00459_MENU_CONTENT	Viajar a <sheet(ContentFinderCondition,lnum1,43)>.
+TEXT_CTSERKKUGANEENTRANCE_00459_A1_000_001	Pedir más información.
+TEXT_CTSERKKUGANEENTRANCE_00459_A1_000_002	Revisar tu magia board.
+TEXT_CTSERKKUGANEENTRANCE_00459_A1_100_002	Revisar tus logograms y tus logos actions.
+TEXT_CTSERKKUGANEENTRANCE_00459_A1_000_003	Nada.
+TEXT_CTSERKKUGANEENTRANCE_00459_YESNO_CONTENT	¿Viajar a <sheet(ContentFinderCondition,lnum1,43)>?<if([lnum2==0],,<br><br><colortype(500)><edgecolortype(501)>※Si tu nivel elemental es mayor que <num(lnum2)>\, se sincronizará.<edgecolortype(0)><colortype(0)>)>
+TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_110_010	Lo siento, <if(gnum4,amiga,amigo)>, pero me temo que no va a ser posible. Ahora mismo hay una tormenta terrible alrededor de la isla, por el cambio de las corrientes aetéricas o algo así. Hasta que pase, nadie llega allá.
+TEXT_CTSERKKUGANEENTRANCE_00459_Q2_000_000	¿Sobre qué vas a preguntar?
+TEXT_CTSERKKUGANEENTRANCE_00459_A2_000_001	The Forbidden Land, Eureka.
+TEXT_CTSERKKUGANEENTRANCE_00459_A2_000_002	El nivel elemental.
+TEXT_CTSERKKUGANEENTRANCE_00459_A2_000_003	Las penalizaciones al quedar KO.
+TEXT_CTSERKKUGANEENTRANCE_00459_A2_000_004	La fauna de Eureka.
+TEXT_CTSERKKUGANEENTRANCE_00459_A2_000_005	Los notorious monsters.
+TEXT_CTSERKKUGANEENTRANCE_00459_A2_000_006	Las recompensas de combate.
+TEXT_CTSERKKUGANEENTRANCE_00459_A2_000_007	Las cadenas de EXP.
+TEXT_CTSERKKUGANEENTRANCE_00459_A2_000_008	Cooperar con otros aventureros.
+TEXT_CTSERKKUGANEENTRANCE_00459_A2_000_009	Nada.
+TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_020	Para que quede claro, no es en realidad la Eureka de la leyenda allagana, el laberinto subterráneo donde a alguien se le ocurrió esconder armas de un poder insondable. Solo nos pareció que el nombre le quedaba bien a esta isla inexplorada.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_021	The Forbidden Land, Eureka, es una isla misteriosa y mortal donde las fuerzas elementales cambian sin cesar. Se puede explorar en grupos de hasta ocho jugadores, o en solitario.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_022	Los aventureros que se atrevan a recorrer las tierras salvajes de Eureka descubrirán que allí su fuerza se mide por su <colortype(500)><edgecolortype(501)>nivel elemental<edgecolortype(0)><colortype(0)>.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_100_022	Además, todos los objetos equipados estarán sujetos a la sincronización de nivel de objeto.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_023	A diferencia de las duties instanciadas, una región de Eureka puede tener hasta 144 jugadores, ¡con los que puedes cooperar si quieres!
+TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_030	Eureka es un poco rara porque las fuerzas elementales de allí cambian sin cesar. Si quiere sobrevivir, tendrá que estar muy atent<if(gnum4,a,o)> a los cambios y adaptar su táctica según corresponda.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_031	Tu fuerza en Eureka se mide por tu <colortype(500)><edgecolortype(501)>nivel elemental<edgecolortype(0)><colortype(0)>, que puedes subir derrotando a diversos enemigos y ganando <colortype(500)><edgecolortype(501)>puntos de experiencia elemental<edgecolortype(0)><colortype(0)>.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_032	Tu nivel y la EXP acumulada se conservan entre visitas: no perderás tu progreso al salir de Eureka.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_033	Ten en cuenta que la EXP elemental que ganes puede verse afectada por la cantidad de jugadores de tu grupo y por la dificultad de los enemigos que derrotes.
+TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_040	Más vale que tenga cuidado cuando ande por Eureka. Si se descuida y una bestia se le echa encima por sorpresa, quizá termine con heridas que le duren toda la vida...
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_041	Cuando quedas KO en the Forbidden Land, Eureka, pierdes EXP elemental.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_042	Sin embargo, si otro jugador te revive dentro de los diez minutos siguientes a quedar KO, no tendrás penalización de EXP elemental.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_043	Además, si tu nivel elemental actual es cinco o menos, no perderás EXP elemental al quedar KO.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_044	Ten en cuenta que, si tu nivel elemental es once o más, esta penalización puede dejar tu EXP elemental total por debajo de cero. Si eso pasa, perderás un nivel elemental.
+TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_050	Eureka es una tierra dura e implacable, y no debería sorprender que las criaturas que prosperan en un ambiente así sean temibles de verdad. Tendrá que estudiar bien a su presa antes de decidir cómo seguir.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_051	Los enemigos de the Forbidden Land, Eureka, están imbuidos de poderes de un elemento determinado.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_052	Ese aspecto elemental se indica con un ícono a la izquierda de su <colortype(500)><edgecolortype(501)>nombre<edgecolortype(0)><colortype(0)>. Al enfrentarte a un enemigo, puede ser prudente cambiar de táctica según corresponda.
+TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_060	Así llamamos a los que absorbieron una cantidad desproporcionada de aether. Eso los vuelve más malos y peligrosos que la mayoría, que ya es mucho decir, considerando el carácter de casi todas las criaturas que va a encontrar en la isla. En fin, la cuestión es que no le conviene enfrentarse a uno solo.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_061	En the Forbidden Land, Eureka, puedes encontrarte con enemigos especialmente poderosos llamados notorious monsters. Si quieres derrotarlos, te conviene enfrentarlos junto con otros aventureros.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_100_061	Algunos notorious monsters no aparecen a menos que se cumplan ciertas condiciones. Habla con otros aventureros y comparte información para descubrir cuáles son esas condiciones.
+TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_070	¿Qué ganamos nosotros, eh? Bueno, resulta que en Eureka hay unos cristales muy inusuales que no se encuentran en ningún otro lugar, cristales por los que los que manejan el dinero tienen un apetito sin fin...
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_071	Al derrotar enemigos en combate, puedes recibir diversas recompensas. Entre ellas están los <colortype(500)><edgecolortype(501)>protean crystals<edgecolortype(0)><colortype(0)>, que sirven para fortalecer y mejorar el equipo Eureka.
+TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_080	Qué expresión tan curiosa. Creo que se la oí a algunos aventureros... ¿para cuando agarran ritmo y empiezan a matar bestias a diestra y siniestra?
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_081	Al derrotar a un enemigo, tendrás un tiempo limitado para intentar derrotar a otro. Si lo logras, iniciarás una <colortype(500)><edgecolortype(501)>cadena de EXP<edgecolortype(0)><colortype(0)>.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_082	Derrotar enemigos mientras una cadena de EXP está activa te dará EXP elemental adicional. También tendrás más probabilidades de recibir recompensas, y en mayor cantidad.
+TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_090	No creo que haga falta que le diga que es peligroso ir solo. La unión hace la fuerza, por no hablar de que estará <if(gnum4,mejor preparada,mejor preparado)> para enfrentar enemigos más poderosos.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_091	A diferencia de las duties instanciadas, en the Forbidden Land, Eureka, puedes formar grupos con otros jugadores y dejarlos cuando quieras.
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_092	También puedes usar la <colortype(500)><edgecolortype(501)>Adventurer List<edgecolortype(0)><colortype(0)> para buscar jugadores de nivel elemental parecido, formar grupos y explorar Eureka juntos.
+TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_100	¿Oyó hablar de la expedición a Eureka? Muy bien, pero si quiere dar una mano, va a tener que estar un poco más preparad<if(gnum4,a,o)> que eso...
+TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_101	Para viajar a the Forbidden Land, Eureka, tienes que ser Disciple of War o Disciple of Magic de nivel 70 o superior. No se permiten los limited jobs.

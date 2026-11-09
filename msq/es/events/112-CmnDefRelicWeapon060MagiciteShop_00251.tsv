@@ -1,0 +1,32 @@
+key	text
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_000	Vaya, vaya, vino por mi mercancía, ¿no es así? Eso pensé, eso pensé. Bueno, entrégueme el pago y con gusto le daré mahatma para la Zodiac Weapon que quiera.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_TITLE	Elige una Zodiac Weapon para recibir mahatma.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_CHOICES	<if([lnum1==9491],<sheet(Item,9491,9)> y <sheet(Item,9500,9)>,<sheet(Item,lnum1,9)>)> (quedan <num(lnum2)>).
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_CANCEL	Nada.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_100	（★未使用／削除予定★）
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_110	（★未使用／削除予定★）
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_YESNO_MESSAGE	¿Cambiar <kilo(lnum3,\,)> <ennoun(Item,3,lnum2,2,1)> por <sheet(Relic6Magicite,lnum1,0)> (<if([lnum4==9491],<ennoun(Item,3,9491,1,1)> y <ennoun(Item,3,9500,1,1)>,<head(<ennoun(Item,3,lnum4,1,1)>)>)>)?
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_YESNO_YES	Sí
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_YESNO_NO	No
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_120	Trato hecho. Aquí tiene su <sheet(Relic6Magicite,lnum1,0)>, un cristal que, según dicen, despierta en las almas un sentido de <sheet(Relic6Magicite,lnum1,1)>.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_121	Me tomé la libertad de colocárselo en su arma. ¡Ahora vaya y empúñela!
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_130	Se colocó <sheet(Relic6Magicite,lnum1,0)> en tu Zodiac Weapon. Si completas ciertas actividades con el arma equipada, aumentará su resonancia de almas.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_131	A medida que aumente el nivel de resonancia de almas, la conciencia de tu arma empezará a despertar. Con el Zodiac glass puedes ver tu progreso con cada variedad de mahatma.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_132	Cuando alcances la plena resonancia de almas con las doce variedades de mahatma y tu Zodiac Weapon haya despertado lo suficiente, vuelve con Jalzahn.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_300	Me temo que agotó mi reserva de mahatma para esa arma en particular. ¡Y por eso, debo decirle que me dejó muy impresionado!
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_310	No quedan variedades de mahatma que se puedan colocar en tu arma. Cuando alcances la plena resonancia de almas con la última pieza, vuelve con Jalzahn en Hyrstmill.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_030	Excalibur y el Aegis Shield son una pareja inseparable. Me temo que no podemos hacer negocios a menos que los dos estén frente a mí.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_040	Para comprar mahatma, habla con Remon con Excalibur y el Aegis Shield equipados, en el Armoury Chest o en tu inventario.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_040	（★未使用／削除予定★）
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_050	（★未使用／削除予定★）
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_050	No tiene ni de cerca suficiente <ennoun(Item,3,lnum1,2,1)>. ¿¡Intenta estafarme!?
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_060	Parece que <sheet(Relic6Magicite,lnum1,0)> todavía no despertó el sentido de <sheet(Relic6Magicite,lnum1,1)> en su arma. Hasta que alcance la plena resonancia de almas, sencillamente no puedo colocar la siguiente pieza.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_070	No puedes colocar mahatma nuevo en tu Zodiac Weapon hasta que alcances la plena resonancia de almas con la pieza que tiene puesta.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_071	Con el Zodiac glass puedes ver tu progreso con cada variedad de mahatma.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_072	Si pierdes tu Zodiac glass, puedes conseguir otro hablando con Drake en Hyrstmill.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_MENU_TITLE	Elige el mahatma que deseas obtener.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_DONE	<sheet(Relic6Magicite,lnum1,0)>. (completado)
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_NEXT	<sheet(Relic6Magicite,lnum1,0)>. (disponible)
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_FUTURE	<sheet(Relic6Magicite,lnum1,0)>.
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_070	¿No se olvida de que ya le di <sheet(Relic6Magicite,lnum1,0)>?
+TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_071	Me parece que es un poco prematuro. Hay que usar el mahatma en el orden correcto, o sus efectos se debilitan y la conciencia de su arma no despierta.

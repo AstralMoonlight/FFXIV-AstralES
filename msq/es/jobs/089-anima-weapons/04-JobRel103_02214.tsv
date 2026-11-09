@@ -1,0 +1,84 @@
+key	text
+TEXT_JOBREL103_02214_SEQ_00	A Ardashir le preocupa el crecimiento del anima.<br>※Cambiar de clase o job impedirá avanzar en esta misión.
+TEXT_JOBREL103_02214_SEQ_01	El anima creció a un ritmo vertiginoso y absorbió grandes cantidades de aether en el proceso. Ardashir teme que un desarrollo tan rápido supere los límites de la soulstone que le sirve de base. Para que todo tu esfuerzo no se pierda, piensa reforzar la soulstone y pedirle a Gerolt que forje una nueva arma para contenerla. Esa nueva arma, sin embargo, requiere cuatro materiales esenciales para conducir grandes cantidades de aether: enchanted rubber, fast-drying carboncoat, fast-acting Allagan catalyst y divine water. Gerolt te sugiere buscar a una mercader llamada Cristiana en the House of Splendors, en Mor Dhona, que quizá tenga lo que él necesita.<br><br>※No puedes avanzar con una clase o job distinto del que tenías al aceptar esta misión.
+TEXT_JOBREL103_02214_SEQ_02	La mercancía de Cristiana es escasa, pero resulta que sí tiene lo que buscas. Si tan solo bastara con pagarle en gil... A cambio de los materiales que pidió Gerolt, exige varios artículos exóticos de primera. Ya sea que los fabriques, los encuentres o los consigas por trueque, tienes que reunir lo que Gerolt necesita si quieres completar la anima weapon.
+TEXT_JOBREL103_02214_SEQ_03	Consigues los materiales necesarios para fijar la soulstone del anima a una nueva arma. Gerolt toma su martillo y pone a trabajar una vez más su habilidad legendaria. El conocido repique del martillo llena el aire, pero la melodía pronto se detiene. ¡Su última obra maestra está terminada y tu arma renace! La alzas para bañarte en su luz, y en ese momento algo que parece un pequeño espíritu toma forma frente a ti y te agradece todo lo que hiciste. Sonríes y asientes, sabiendo que su viaje juntos apenas comienza.
+TEXT_JOBREL103_02214_TODO_00	Con <if([lnum4==19],<ennoun(Item,2,13597,1,1)> y <ennoun(Item,2,13610,1,1)>,<if([lnum4==20],<ennoun(Item,2,13598,1,1)>,<if([lnum4==21],<ennoun(Item,2,13599,1,1)>,<if([lnum4==22],<ennoun(Item,2,13600,1,1)>,<if([lnum4==23],<ennoun(Item,2,13601,1,1)>,<if([lnum4==24],<ennoun(Item,2,13605,1,1)>,<if([lnum4==25],<ennoun(Item,2,13606,1,1)>,<if([lnum4==27],<ennoun(Item,2,13607,1,1)>,<if([lnum4==28],<ennoun(Item,2,13608,1,1)>,<if([lnum4==30],<ennoun(Item,2,13602,1,1)>,<if([lnum4==31],<ennoun(Item,2,13604,1,1)>,<if([lnum4==32],<ennoun(Item,2,13603,1,1)>,<if([lnum4==33],<ennoun(Item,2,13609,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> equipado o en tu inventario, habla con Cristiana en Revenant's Toll.
+TEXT_JOBREL103_02214_TODO_01	Con <if([lnum4==19],<ennoun(Item,2,13597,1,1)> y <ennoun(Item,2,13610,1,1)>,<if([lnum4==20],<ennoun(Item,2,13598,1,1)>,<if([lnum4==21],<ennoun(Item,2,13599,1,1)>,<if([lnum4==22],<ennoun(Item,2,13600,1,1)>,<if([lnum4==23],<ennoun(Item,2,13601,1,1)>,<if([lnum4==24],<ennoun(Item,2,13605,1,1)>,<if([lnum4==25],<ennoun(Item,2,13606,1,1)>,<if([lnum4==27],<ennoun(Item,2,13607,1,1)>,<if([lnum4==28],<ennoun(Item,2,13608,1,1)>,<if([lnum4==30],<ennoun(Item,2,13602,1,1)>,<if([lnum4==31],<ennoun(Item,2,13604,1,1)>,<if([lnum4==32],<ennoun(Item,2,13603,1,1)>,<if([lnum4==33],<ennoun(Item,2,13609,1,1)>,)>)>)>)>)>)>)>)>)>)>)>)>)> en tu inventario, entrégale los artículos de la mercader a Gerolt en Azys Lla.
+TEXT_JOBREL103_02214_SYSTEM_100_000	Ten en cuenta que al completar la misión "Coming into Its Own" recibirás una anima weapon para <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_JOBREL103_02214_Q1_000_000	¿Qué haces?
+TEXT_JOBREL103_02214_A1_000_000	Aceptar esta misión con otro job.
+TEXT_JOBREL103_02214_A2_000_000	Aceptar esta misión como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>.
+TEXT_JOBREL103_02214_SYSTEM_100_001	Una vez que aceptes esta misión, no podrás avanzar con una clase o un job distinto del que tenías al aceptarla.
+TEXT_JOBREL103_02214_SYSTEM_100_002	Asegúrate de cambiar al job que deseas antes de hablar con Ardashir.
+TEXT_JOBREL103_02214_SYSTEM_100_003	Para hacer la misión "Coming into Its Own" debes tener equipados <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>.
+TEXT_JOBREL103_02214_SYSTEM_100_004	Para hacer la misión "Coming into Its Own" debes tener equipado <ennoun(Item,2,lnum1,1,1)>.
+TEXT_JOBREL103_02214_SYSTEM_100_005	Ya recibiste <ennoun(Item,2,lnum1,1,1)> y <ennoun(Item,2,lnum2,1,1)>. Cambia a otro job y habla otra vez con Ardashir.
+TEXT_JOBREL103_02214_SYSTEM_100_006	Ya recibiste <ennoun(Item,2,lnum1,1,1)>. Cambia a otro job y habla otra vez con Ardashir.
+TEXT_JOBREL103_02214_ARDASHIR_000_000	El crecimiento del anima hasta ahora supera con creces lo que esperaba. Al absorber aether durante nuestros viajes, maduró lo suficiente como para tomar una forma separada del arma, e incluso para hablarle a <split(<string(gstr1)>, ,1)>.
+TEXT_JOBREL103_02214_ARDASHIR_000_001	Para crecer tan rápido habrá necesitado una cantidad considerable de aether. Pero la soulstone tiene sus límites. Si sigue absorbiendo aether y creciendo, me temo que no resista la presión de un desarrollo mayor.
+TEXT_JOBREL103_02214_GEROLT_000_002	¿Me estás diciendo que después de todo lo que trabajé <italic(1)>yo<italic(0)>, el anima podría inflarse como un Bombard y reventar? Más te vale tener un plan para arreglarlo, porque yo no pienso empezar de cero, ni de broma.
+TEXT_JOBREL103_02214_ARDASHIR_000_003	¿Con quién crees que estás hablando? Esta es la obra de <italic(1)>mi<italic(0)> vida, por corta que haya sido. Claro que tengo un plan.
+TEXT_JOBREL103_02214_ARDASHIR_000_004	Si logramos reforzar la soulstone y aumentar su capacidad para las energías aetéricas, debería mantenerse estable. Hablaré con Rowena y me ocuparé de reunir lo que necesitamos.
+TEXT_JOBREL103_02214_GEROLT_000_005	Vaya, me engañaste cuando andabas rogando y suplicando para ver esos libros sharlayanos. Qué bueno saber que lo de inútil era pura pose. Bueno, como tienes todo bajo control, si no te molesta, creo que yo me voy a...
+TEXT_JOBREL103_02214_ARDASHIR_000_006	¿A alguna taberna a ahogarte en tragos? Lamentablemente no tienes ni el tiempo ni las monedas para eso. No cuando tienes que hacerle un arma nueva a nuestr<if(gnum4,a,o)> amig<if(gnum4,a,o)> <split(<string(gstr1)>, ,1)>.
+TEXT_JOBREL103_02214_GEROLT_000_007	¿¡Un arma nueva!? Recién terminé de arreglar la que tiene. ¿Para qué demonios necesitas otra?
+TEXT_JOBREL103_02214_ARDASHIR_000_008	Así como nosotros crecemos y cambiamos con el tiempo, es lógico que el anima también lo haga. ¿O me vas a decir que siempre fuiste todo un caballero, incluso de niño?
+TEXT_JOBREL103_02214_GEROLT_000_009	\<suspiro> Esto no se acaba nunca, ¿no? Está bien, si me ayuda a saldar mi deuda con Rowena, tendrás tu maldita arma.
+TEXT_JOBREL103_02214_GEROLT_000_010	Si vamos a ponerle la soulstone a un arma nueva, vamos a necesitar materiales que conduzcan el aether. Ahí entras tú.
+TEXT_JOBREL103_02214_GEROLT_000_011	Necesito que vayas a buscarme enchanted rubber, fast-drying carboncoat, fast-acting Allagan catalyst y divine water.
+TEXT_JOBREL103_02214_GEROLT_000_012	Conozco a una muchacha en Mor Dhona que los vende, se llama Cristiana. Lo más seguro es que la encuentres metida en algún rincón de the House of Splendors. No van a salir baratos, pero tú te las arreglas. Seguro se te ocurre algo.
+TEXT_JOBREL103_02214_ARDASHIR_000_020	Esta anima creció a una velocidad notable. A juzgar por cómo subieron sus niveles aetéricos, pronto tendremos que reforzar también su soulstone.
+TEXT_JOBREL103_02214_GEROLT_000_021	O sea que tengo que volver a encender la forja, ¿eh? Bueno, <split(<string(gstr1)>, ,1)>, eso quiere decir que también hay trabajo para ti.
+TEXT_JOBREL103_02214_GEROLT_000_022	Vamos a necesitar otra tanda de enchanted rubber, fast-drying carboncoat, fast-acting Allagan catalyst y divine water.
+TEXT_JOBREL103_02214_GEROLT_000_023	Ve a hablar con Cristiana en the House of Splendors. Ella debería poder conseguirte lo que necesitamos.
+TEXT_JOBREL103_02214_CRISTIANA_100_030	¿Un cliente? ¡Un cliente! Eres un cliente, ¿verdad? O sea, ya sé que esto no es un puesto como debe ser, pero sí tengo mercancía para vender. Bueno, si es que, eh, estás dispuest<if(gnum4,a,o)> a comprarla. ¿Viniste a comprar mi mercancía?
+TEXT_JOBREL103_02214_CRISTIANA_100_031	¿Materiales que conduzcan el aether? Creo que tengo lo que buscas, ¡pero no va a salir barato!
+TEXT_JOBREL103_02214_CRISTIANA_100_032	La verdad es que no suelo tener compradores para estos artículos, pero ahora que te tengo a ti, mi nuev<if(gnum4,a,o)> client<if(gnum4,a,e)> favorit<if(gnum4,a,o)>, seguro que saco ganancia, ¡y así podré armar un puesto propio!
+TEXT_JOBREL103_02214_CRISTIANA_100_033	¡Pero no quiero tu gil! No, lidiar con gil es un lío. Con todo eso de contarlo, y ordenarlo, y buscar dónde... Ejem. El trueque es mucho más sencillo, ¿no crees? Hay algunas cosas que aceptaría a cambio, si te interesa.
+TEXT_JOBREL103_02214_CRISTIANA_100_034	¿Un cliente? ¡Un cliente! ¡Y uno que vuelve! Viniste a comprar algo, ¿verdad? O sea, ya sé que esto no es un puesto como debe ser, pero igual tengo mercancía para vender. Bueno, si es que, eh, estás dispuest<if(gnum4,a,o)> a comprarla. ¿Viniste a comprar mi mercancía?
+TEXT_JOBREL103_02214_CRISTIANA_100_035	¿No es lo mismo que pediste la última vez? O sea, <italic(1)>creo<italic(0)> que es lo que pediste. Me acuerdo de algo de caucho y agua, y... Ejem, perdón. Si es eso lo que buscas, ya sabes lo que voy a necesitar a cambio.
+TEXT_JOBREL103_02214_SYSTEM_100_034	Los artículos que pide Cristiana se pueden conseguir de varias formas, entre ellas mazmorras, misiones de sociedades aliadas y fabricación.
+TEXT_JOBREL103_02214_SYSTEM_100_035	¡Habla con otros jugadores y comparte información para descubrir cómo conseguirlos!
+TEXT_JOBREL103_02214_GEROLT_000_030	¿Conseguiste todo lo que necesitamos? Bien. Pásamelo todo, y el arma también.
+TEXT_JOBREL103_02214_GEROLT_000_031	Ardashir está listo para trabajar en la soulstone y no se calla con eso. Al menos ahora se va a terminar todo.
+TEXT_JOBREL103_02214_GEROLT_000_032	¡Oye, creí que dijiste que tenías todo lo que necesitamos!
+TEXT_JOBREL103_02214_GEROLT_100_032	Es enchanted rubber, fast-drying carboncoat, fast-acting Allagan catalyst y divine water. Si te falta algo, vuelve rápido con Cristiana.
+TEXT_JOBREL103_02214_GEROLT_000_033	Bien hecho, <if(gnum4,muchacha,muchacho)>. Bueno, ahora vamos a hacernos un arma, ¿eh?
+TEXT_JOBREL103_02214_GEROLT_000_040	\<jadeo> \<jadeo> Nunca forjé algo tan extraordinario, eso te lo digo. Un arma digna de tu anima en crecimiento. No, algo más que eso.
+TEXT_JOBREL103_02214_GEROLT_000_041	Una belleza digna de baladas: Almace, una espada sin igual. Junto con Ancile, ni los mismos dioses podrían ponerte un dedo encima.
+TEXT_JOBREL103_02214_GEROLT_000_042	Una belleza digna de baladas: Verethragna. Los mismos dioses envidiarían unos puños tan finos.
+TEXT_JOBREL103_02214_GEROLT_100_043	Una belleza digna de baladas: Ukonvasara. Los mismos dioses envidiarían un hacha tan fina.
+TEXT_JOBREL103_02214_GEROLT_100_044	Una belleza digna de baladas: Rhongomiant. Los mismos dioses envidiarían una lanza tan fina.
+TEXT_JOBREL103_02214_GEROLT_100_045	Una belleza digna de baladas: Gandiva. Los mismos dioses envidiarían un arco tan fino.
+TEXT_JOBREL103_02214_GEROLT_100_046	Una belleza digna de baladas: Majestas. Los mismos dioses envidiarían un bastón tan fino.
+TEXT_JOBREL103_02214_GEROLT_100_047	Una belleza digna de baladas: Hvergelmir. Los mismos dioses envidiarían un bastón tan fino.
+TEXT_JOBREL103_02214_GEROLT_100_048	Una belleza digna de baladas: Draconomicon. Los mismos dioses envidiarían un tomo tan fino.
+TEXT_JOBREL103_02214_GEROLT_100_049	Una belleza digna de baladas: Tetrabiblos. Los mismos dioses envidiarían un tomo tan fino.
+TEXT_JOBREL103_02214_GEROLT_100_050	Una belleza digna de baladas: Kannagi. Los mismos dioses envidiarían un par de hojas tan finas.
+TEXT_JOBREL103_02214_GEROLT_100_051	Una belleza digna de baladas: Nothung. Los mismos dioses envidiarían una hoja tan fina.
+TEXT_JOBREL103_02214_GEROLT_100_052	Una belleza digna de baladas: Armageddon. Los mismos dioses envidiarían un arma de fuego tan fina.
+TEXT_JOBREL103_02214_GEROLT_100_053	Una belleza digna de baladas: Deneb. Los mismos dioses envidiarían un astrolabio tan fino.
+TEXT_JOBREL103_02214_BUKINOSEIREI_000_035	(-???-)Gra...cias...
+TEXT_JOBREL103_02214_GEROLT_000_050	Espera a que Rowena vea esto. Si seguimos así, va a ser ella la que <italic(1)>me<italic(0)> firme pagarés a mí.
+TEXT_JOBREL103_02214_ARDASHIR_000_051	Para ser honesto, alguna vez me pregunté de qué me serviría un borracho con un martillo. Pero demostraste ser un herrero bastante competente... cuando estás sobrio.
+TEXT_JOBREL103_02214_ARDASHIR_000_052	<split(<string(gstr1)>, ,1)>, no sé cómo expresarle mi gratitud. Miró el peligro a los ojos sin pestañear y arriesgó la vida para ayudarme. Espero algún día poder devolverle su amabilidad.
+TEXT_JOBREL103_02214_GEROLT_000_053	(Tch. Sí, lo habrá llevado de un lado a otro, ¡pero el maldito trasto lo <italic(1)>hice<italic(0)> yo! ¿No me merezco algo más que elogios a medias?)
+TEXT_JOBREL103_02214_ARDASHIR_100_054	¿¡Qué!? ¿El anima se manifestó otra vez? ¿Cuándo?
+TEXT_JOBREL103_02214_ARDASHIR_100_055	Pero yo no vi nada. ¿Está segur<if(gnum4,a,o)>?
+TEXT_JOBREL103_02214_ARDASHIR_100_057	¿Por qué será que solo usted puede ver el anima cuando decide mostrarse?
+TEXT_JOBREL103_02214_GEROLT_100_059	A lo mejor no le interesa la gente como tú.
+TEXT_JOBREL103_02214_ARDASHIR_100_058	Supongo que el anima todavía no es lo bastante fuerte. Quizá algún día, cuando haya madurado del todo, nosotros también podamos contemplar sus maravillas.
+TEXT_JOBREL103_02214_ARDASHIR_000_054	Esto me recuerda a la literatura thavnairiana sobre los Zodiac Braves, héroes legendarios que empuñaban armas de una fuerza sin igual.
+TEXT_JOBREL103_02214_ARDASHIR_000_055	¡Pero pronto se contarán historias de una nueva leyenda: la de usted y su anima weapon!
+TEXT_JOBREL103_02214_GEROLT_000_056	No te adelantes, muchacho. Nadie niega que es una belleza, pero todavía se puede mejorar.
+TEXT_JOBREL103_02214_GEROLT_100_056	Tú mismo acabas de decir que el anima todavía no maduró del todo.
+TEXT_JOBREL103_02214_ARDASHIR_000_057	No necesito que <italic(1)>tú<italic(0)> me recuerdes esas cosas.
+TEXT_JOBREL103_02214_ARDASHIR_000_058	Llevé un registro bastante completo de todo lo que hicimos hasta ahora. Con todos los datos que reuní, es cuestión de tiempo que quede claro el próximo paso para cultivar el anima.
+TEXT_JOBREL103_02214_ARDASHIR_000_059	Lo que me recuerda, <split(<string(gstr1)>, ,1)>: si quiere leer mis notas sobre nuestro trabajo, puede revisarlas con toda calma. Están en esa mesa de allá.
+TEXT_JOBREL103_02214_GEROL_000_060	(Eso es, muchacho, así se hace. Cada paso que nos acerca a terminar esta maldita arma me acerca un paso más a una vida sin deudas y lejos de esa estafadora de Rowena.)
+TEXT_JOBREL103_02214_ARDASHIR_000_070	¡Otra vez logramos crear una anima weapon! Excelente trabajo.
+TEXT_JOBREL103_02214_ARDASHIR_100_071	¿Dice que el anima se manifestó otra vez? Me alegra oírlo.
+TEXT_JOBREL103_02214_ARDASHIR_100_072	Igual que la última vez, espero con ansias el día en que pueda contemplar su maravilla con mis propios ojos.
+TEXT_JOBREL103_02214_ARDASHIR_000_071	¡Razón de más para seguir con mi investigación! Es cierto que nuestro trabajo no tiene precedentes, pero no me voy a dejar desanimar.
+TEXT_JOBREL103_02214_SYSTEM_000_072	¡Tu arma fue forjada de nuevo y la fuerza del anima florece!
