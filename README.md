@@ -205,11 +205,152 @@ Desde la 2.2, el texto de las cinemáticas con voz no está en las misiones sino
 
 Misiones fuera de la historia que desbloquean funciones del juego.
 
+### Personaje y equipo
+
 | Misión | Desbloquea | Estado |
 |---|---|---|
 | Beauty Is Only Scalp Deep | Cambio de peinado (estilista) | ![Traducido][ok] |
 | If I Had a Glamour | Glamours | ![Traducido][ok] |
+| A Self-improving Man | Glamours, desde Mor Dhona | ![Pendiente][no] |
+| Absolutely Glamourous | Fabricar glamour prisms | ![Pendiente][no] |
 | Color Your World | Tintes | ![Traducido][ok] |
+| An Egi by Any Other Name | Cambiar el aspecto de los egis (`/petglamour`) | ![Pendiente][no] |
+| A Faerie Tale Come True | Cambiar el aspecto de la faerie | ![Pendiente][no] |
+| Gone to Pieces | Desynthesis | ![Pendiente][no] |
+| Forging the Spirit | Extraer materia | ![Pendiente][no] |
+| Waking the Spirit | Insertar materia | ![Pendiente][no] |
+| Melding Materia Muchly | Inserción avanzada de materia | ![Pendiente][no] |
+| Marvelously Mutable Materia | Transmutar materia | ![Pendiente][no] |
+| Submission Impossible | Comprar master crafting tomes | ![Pendiente][no] |
+| Just Tooling Around | Canjear herramientas de gatherer y crafter con Talan | ![Pendiente][no] |
+| Simply to Dye For | Mejorar la armadura artifact con Kakalan | ![Pendiente][no] |
+
+### Sistemas generales
+
+| Misión | Desbloquea | Estado |
+|---|---|---|
+| Rising to the Challenge | Challenge Log | ![Pendiente][no] |
+| A Sight to Behold | Sightseeing Log | ![Pendiente][no] |
+| Treasures and Tribulations | Mapas del tesoro (Decipher y Dig) | ![Pendiente][no] |
+| An Ill-conceived Venture (una por ciudad) | Retainers | ![Pendiente][no] |
+| My Little Chocobo (una por Grand Company) | Chocobo propio | ![Pendiente][no] |
+| My Feisty Little Chocobo | Chocobo como compañero de combate | ![Pendiente][no] |
+| Bird in Hand | Entrenar al chocobo | ![Pendiente][no] |
+| Where the Heart Is (Mist, The Lavender Beds, The Goblet) | Viviendas | ![Pendiente][no] |
+| Ascending to Empyreum | Viviendas en Empyreum | ![Pendiente][no] |
+| Simply the Hest (una por ciudad) | Guildhests | ![Pendiente][no] |
+| Leves of Swiftperch, Aleport, Moraby, Costa del Sol y Wineport | Guildleves en La Noscea | ![Pendiente][no] |
+| Leves of Bentbranch, Hawthorne, Quarrymill y Camp Tranquil | Guildleves en The Black Shroud | ![Pendiente][no] |
+| Leves of Horizon, Camp Drybone, Little Ala Mhigo y Camp Bluefog | Guildleves en Thanalan | ![Pendiente][no] |
+| Leves of the Observatorium y Leves of Whitebrim | Guildleves en Coerthas | ![Pendiente][no] |
+| Leves of Saint Coinach's Find | Guildleves en Mor Dhona | ![Pendiente][no] |
+| Keeping Up with the Aliapohs | Wondrous Tails | ![Pendiente][no] |
+| A Striking Opportunity | Stone, Sky, Sea | ![Pendiente][no] |
+| Another Striking Opportunity | Stone, Sky, Sea: ampliación de Stormblood | ![Pendiente][no] |
+| Yet Another Striking Opportunity | Stone, Sky, Sea: ampliación de Shadowbringers | ![Pendiente][no] |
+| A Place to Train | Stone, Sky, Sea: The Burning Field | ![Pendiente][no] |
+| Trial by Spire | Stone, Sky, Sea: Spire of Trial | ![Pendiente][no] |
+| A Pup No Longer (una por Grand Company) | Entrenamiento PvP en The Wolves' Den | ![Pendiente][no] |
+| Like Civilized Men and Women (una por Grand Company) | Frontline | ![Pendiente][no] |
+| A Seat at the Feast | The Feast | ![Pendiente][no] |
+| Fantastic Mr. Faux | Unreal trials | ![Pendiente][no] |
+
+### Recolección y fabricación
+
+| Misión | Desbloquea | Estado |
+|---|---|---|
+| Inscrutable Tastes | Collectables | ![Pendiente][no] |
+| Go West, Craftsman | Canjear collectables en Idyllshire | ![Pendiente][no] |
+| No Longer a Collectable | Aetherial Reduction | ![Pendiente][no] |
+| Beloved of the Builder | Specialist crafters | ![Pendiente][no] |
+| A New Fishing Ex-spear-ience | Spearfishing | ![Pendiente][no] |
+| All the Fish in the Sea | Ocean Fishing | ![Pendiente][no] |
+| Mislaid Plans | Skysteel Tools | ![Pendiente][no] |
+
+### Custom Deliveries
+
+| Misiones | Cliente | Estado |
+|---|---|---|
+| Arms Wide Open | Zhloe Aliapoh | ![Pendiente][no] |
+| None Forgotten, None Forsaken y Not While Their Names Are Still Spoken | M'naago | ![Pendiente][no] |
+| The Seaweed Is Always Greener y Up Where They Trade All Day in the Sun | Kurenai | ![Pendiente][no] |
+| Between a Rock and the Hard Place y He Ain't Piggy, He's My Brother | Adkiragh | ![Pendiente][no] |
+| Oh, Beehive Yourself, Commercially Flyable y A Ship on His Shoulder | Kai-Shirr | ![Pendiente][no] |
+| O Crafter, My Crafter, An Ode to Unity y On Ehll Tou's Wings | Ehll Tou | ![Pendiente][no] |
+| You Can Count on It y Those Who Serve | Charlemend | ![Pendiente][no] |
+| Of Mothers and Merchants, A Mother's Love y A Gift from House Leveilleur | Ameliance | ![Pendiente][no] |
+| That's So Anden, Every Anden of the Rainbow y A Labor of Leaf | Anden | ![Pendiente][no] |
+| A Request of One's Own y The Pride of Labyrinthos | Margrat | ![Pendiente][no] |
+| Laying New Tracks, The Weight of a Train y His Heart Blazes On | Nitowikwe | ![Pendiente][no] |
+| Taco Time y A Dream Realized | Tiisol Ja | ![Pendiente][no] |
+
+### Gold Saucer
+
+| Misión | Desbloquea | Estado |
+|---|---|---|
+| It Could Happen to You | Entrada al Gold Saucer | ![Pendiente][no] |
+| World of Wonders | Recorrido por el Gold Saucer | ![Pendiente][no] |
+| So You Want to Be a Jockey | Registrar un chocobo de carreras | ![Pendiente][no] |
+| So You Think You Can Ride This Chocobo | Carreras de chocobos | ![Pendiente][no] |
+| Like Sire Like Fledgling | Criar chocobos de carreras | ![Pendiente][no] |
+| Passion for Fashion | Fashion Report | ![Pendiente][no] |
+| Every Little Thing She Does Is Mahjong | Doman Mahjong | ![Pendiente][no] |
+
+### The Hunt
+
+| Misiones | Desbloquea | Estado |
+|---|---|---|
+| Let the Hunt Begin (una por Grand Company) | The Hunt de A Realm Reborn | ![Pendiente][no] |
+| Let the Clan Hunt Begin, Better Bill Hunting, Top Marks y Elite and Dangerous | Clan Hunt de Heavensward | ![Pendiente][no] |
+| One-star, Two-star, Three-star y Elite Veteran Clan Hunt | Clan Hunt de Stormblood | ![Pendiente][no] |
+| Nuts to You, Two Nuts Too Nutty, How Do You Like Three Nuts y Too Many Nutters | The Hunt de Shadowbringers | ![Pendiente][no] |
+| The Hunt for Specimens, That Specimen Came from the Moon, A Hunt for the Ages y Perfect Specimens | The Hunt de Endwalker | ![Pendiente][no] |
+| A New Dawn, a New Hunt, Why We Hunt, Hunting the Hunter y The Hunt Goes On | The Hunt de Dawntrail | ![Pendiente][no] |
+
+### Contenido aparte
+
+| Misión | Desbloquea | Estado |
+|---|---|---|
+| The House That Death Built | Palace of the Dead | ![Pendiente][no] |
+| Knocking on Heaven's Door | Heaven-on-High | ![Pendiente][no] |
+| Delve into Myth | Eureka Orthos | ![Pendiente][no] |
+| Pilgrimage of Light | Pilgrim's Traverse | ![Pendiente][no] |
+| A Key to the Past | Variant dungeon: The Sil'dihn Subterrane | ![Pendiente][no] |
+| Mononoke Aware | Variant dungeon: Mount Rokkon | ![Pendiente][no] |
+| Stranger from Paradise | Variant dungeon: Aloalo Island | ![Pendiente][no] |
+| A Spellbinding Read | Variant dungeon: The Merchant's Tale | ![Pendiente][no] |
+| Seeking Sanctuary | Island Sanctuary | ![Pendiente][no] |
+| Precious Reclamation e It Takes an Enclave | Reconstrucción del Doman Enclave | ![Pendiente][no] |
+| Towards the Firmament | Ishgardian Restoration | ![Pendiente][no] |
+| A Cosmic Homecoming | Cosmic Exploration | ![Pendiente][no] |
+| One Last Hurrah | The Occult Crescent | ![Pendiente][no] |
+
+### Sociedades aliadas
+
+La primera misión de cada una abre sus misiones diarias.
+
+| Misión | Sociedad | Estado |
+|---|---|---|
+| Peace for Thanalan | Amalj'aa | ![Pendiente][no] |
+| Seeking Solace | Sylphs | ![Pendiente][no] |
+| Highway Robbery | Kobolds | ![Pendiente][no] |
+| They Came from the Deep | Sahagin | ![Pendiente][no] |
+| A Bad Bladder | Ixal | ![Pendiente][no] |
+| Three Beaks to the Wind | Vanu Vanu | ![Pendiente][no] |
+| The Naming of Vath | Vath | ![Pendiente][no] |
+| Tricks and Stones | Moogles | ![Pendiente][no] |
+| Heaven-sent | Kojin | ![Pendiente][no] |
+| Brooding Broodmother | Ananta | ![Pendiente][no] |
+| Something Fishy This Way Comes | Namazu | ![Pendiente][no] |
+| Manic Pixie Dream Realm | Pixies | ![Pendiente][no] |
+| The Stewards of Note | Qitari | ![Pendiente][no] |
+| It's Dwarfin' Time | Dwarves | ![Pendiente][no] |
+| Hippos Born to Run | Arkasodara | ![Pendiente][no] |
+| The Café at the End of the Universe | Omicrons | ![Pendiente][no] |
+| Must Be Dreaming(way) | Loporrits | ![Pendiente][no] |
+| An Intrepid New Enterprise | Pelupelu | ![Pendiente][no] |
+| Cultivating Hope | Mamool Ja | ![Pendiente][no] |
+| Frosty Neighbors | Yok Huy | ![Pendiente][no] |
 
 ## Armas relic
 
